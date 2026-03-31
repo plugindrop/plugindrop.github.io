@@ -11,6 +11,8 @@ draft: false
 
 **TL;DR:** Spitfire Audio LABS — **80+ instruments, permanently free.** Soft Piano, Strings, Choir, Drums, and dozens more. This is from Spitfire Audio, whose paid libraries run $29 to $499+. LABS costs nothing, requires only a free Spitfire account. [Get it here](https://labs.spitfireaudio.com/).
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Dssamz-3o2Q" title="Spitfire Audio LABS — Official Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin-bottom:1.5rem"></iframe>
+
 ## What Is Spitfire Audio LABS?
 
 LABS is Spitfire Audio's free instrument collection. Spitfire is one of the top orchestral and cinematic sample library developers — their paid products (BBC Symphony Orchestra, Albion, Chamber Strings) are used in film, TV, and game scoring worldwide. LABS gives away curated instruments in a lightweight player. New LABS instruments are added regularly.

@@ -11,6 +11,8 @@ draft: false
 
 **TL;DR:** Valhalla Supermassive — **permanently free.** Not a trial. Not a limited giveaway. Free forever. This is from Valhalla DSP, the same team behind VintageVerb and Plate ($50 each). 18+ reverb/delay modes, near-zero CPU hit. [Download it here](https://valhalladsp.com/shop/reverb/valhalla-supermassive/).
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — Official Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin-bottom:1.5rem"></iframe>
+
 ## What Is Valhalla Supermassive?
 
 Valhalla Supermassive is a free reverb and delay plugin by Valhalla DSP. Valhalla is known for VintageVerb, Plate, Room, and Shimmer — all priced at $50. Supermassive is their free offering, designed for massive reverbs, long delays, and lush warp effects. It's been free since its 2020 release and stays that way.
