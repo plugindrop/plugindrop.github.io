@@ -4,7 +4,7 @@ description: "TDR Nova is a free dynamic EQ with 4 bands and parallel processing
 pubDate: "2026-03-18T11:00:00Z"
 tags: ["free", "plugin", "eq"]
 affiliate: "https://www.tokyodawn.net/tdr-nova/"
-heroImage: "/images/default-placeholder.jpg"
+heroImage: "/images/heroes/tdr-nova.jpg"
 dealPrice: "FREE"
 draft: false
 ---

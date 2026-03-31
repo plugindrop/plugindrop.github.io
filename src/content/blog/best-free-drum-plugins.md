@@ -4,7 +4,7 @@ description: "The best free drum VST plugins for hip-hop, EDM, rock, and more. F
 pubDate: "2026-03-20T10:00:00Z"
 tags: ["free", "drums", "plugin"]
 affiliate: "https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=best-free-drum-plugins"
-heroImage: "/images/default-placeholder.jpg"
+heroImage: "/images/heroes/best-free-drum.jpg"
 dealPrice: "FREE"
 draft: false
 ---

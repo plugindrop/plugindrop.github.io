@@ -4,7 +4,7 @@ description: "FabFilter Pro-Q 4 is 30% off at $132 (save $57). Here's the price 
 pubDate: "2026-03-26T09:00:00Z"
 tags: ["sale", "plugin", "eq"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=XXXXX"
-heroImage: "/images/default-placeholder.jpg"
+heroImage: "/images/heroes/fabfilter-pro-q-4.jpg"
 dealPrice: "$132"
 originalPrice: "$189"
 discount: "30% OFF"

@@ -4,7 +4,7 @@ description: "Valhalla Supermassive is permanently free — a massive reverb/del
 pubDate: "2026-03-15T10:00:00Z"
 tags: ["free", "plugin", "reverb", "delay"]
 affiliate: "https://valhalladsp.com/shop/reverb/valhalla-supermassive/"
-heroImage: "/images/default-placeholder.jpg"
+heroImage: "/images/heroes/valhalla-supermassive.jpg"
 dealPrice: "FREE"
 draft: false
 ---

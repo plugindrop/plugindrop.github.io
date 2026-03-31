@@ -4,7 +4,7 @@ description: "Surge XT is a free, open-source synthesizer with subtractive, wave
 pubDate: "2026-03-25T11:00:00Z"
 tags: ["free", "plugin", "synthesizer"]
 affiliate: "https://surge-synthesizer.github.io/"
-heroImage: "/images/default-placeholder.jpg"
+heroImage: "/images/heroes/surge-xt.jpg"
 dealPrice: "FREE"
 draft: false
 ---

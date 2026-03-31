@@ -4,7 +4,7 @@ description: "Free vs paid plugins compared across EQ, reverb, and synth categor
 pubDate: "2026-03-23T12:00:00Z"
 tags: ["free", "plugin", "guide"]
 affiliate: "https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=free-plugins-vs-paid-worth-upgrading"
-heroImage: "/images/default-placeholder.jpg"
+heroImage: "/images/heroes/free-vs-paid.jpg"
 draft: false
 ---
 > This post contains affiliate links. We may earn a commission at no extra cost to you.

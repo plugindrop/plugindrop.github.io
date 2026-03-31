@@ -4,7 +4,7 @@ description: "Soundtoys Little Plate is free for a limited time — that's $99 o
 pubDate: "2026-03-27T15:00:00Z"
 tags: ["free", "plugin", "reverb"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/4715-Little-Plate?a_aid=XXXXX"
-heroImage: "/images/default-placeholder.jpg"
+heroImage: "/images/heroes/soundtoys-little-plate.jpg"
 dealPrice: "FREE"
 originalPrice: "$99"
 discount: "100% OFF"

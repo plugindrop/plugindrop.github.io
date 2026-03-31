@@ -4,7 +4,7 @@ description: "8 best free synth plugins compared — wavetable, FM, subtractive,
 pubDate: "2026-03-19T09:00:00Z"
 tags: ["free", "plugin", "synthesizer", "roundup"]
 affiliate: "https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=best-free-synth-plugins"
-heroImage: "/images/default-placeholder.jpg"
+heroImage: "/images/heroes/best-free-synth.jpg"
 dealPrice: "FREE"
 draft: false
 ---

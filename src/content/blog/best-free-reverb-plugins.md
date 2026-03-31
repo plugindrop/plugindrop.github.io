@@ -4,7 +4,7 @@ description: "7 best free reverb plugins compared — from massive ambient tails
 pubDate: "2026-03-21T10:00:00Z"
 tags: ["free", "plugin", "reverb", "roundup"]
 affiliate: "https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=best-free-reverb-plugins"
-heroImage: "/images/default-placeholder.jpg"
+heroImage: "/images/heroes/best-free-reverb.jpg"
 dealPrice: "FREE"
 draft: false
 ---

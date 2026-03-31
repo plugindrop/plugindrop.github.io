@@ -4,7 +4,7 @@ description: "The 15 best free VST plugins in 2026 across synths, effects, mixin
 pubDate: "2026-03-26T14:00:00Z"
 tags: ["free", "plugin", "roundup"]
 affiliate: "https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=best-free-vst-plugins-2026"
-heroImage: "/images/default-placeholder.jpg"
+heroImage: "/images/heroes/best-free-vst.jpg"
 dealPrice: "FREE"
 draft: false
 ---

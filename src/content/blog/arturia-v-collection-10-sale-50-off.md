@@ -4,7 +4,7 @@ description: "Arturia V Collection 10 is 50% off — save $300. That's 39 modele
 pubDate: "2026-03-28T10:30:00Z"
 tags: ["sale", "synthesizer", "plugin"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11747-V-Collection-X?a_aid=XXXXX"
-heroImage: "/images/default-placeholder.jpg"
+heroImage: "/images/heroes/arturia-v-collection.jpg"
 dealPrice: "$299"
 originalPrice: "$599"
 discount: "50% OFF"
