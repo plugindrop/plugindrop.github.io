@@ -3,14 +3,14 @@ title: "Dexed — FREE DX7 FM Synth Emulation (Open Source)"
 description: "Dexed is a free, open-source DX7 FM synth emulation. Loads original DX7 SysEx patches, 6 operators, and faithful FM synthesis — all at $0."
 pubDate: "2026-03-24T09:00:00Z"
 tags: ["free", "plugin", "synthesizer", "fm"]
-affiliate: "https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=dexed-free-dx7-emulation"
+affiliate: "https://asb2m10.github.io/dexed/"
 heroImage: "/images/default-placeholder.jpg"
 dealPrice: "FREE"
 draft: false
 ---
 > This post contains affiliate links. We may earn a commission at no extra cost to you.
 
-**TL;DR:** Dexed — **free and open source.** A faithful Yamaha DX7 FM synth emulation that loads original DX7 SysEx patches. 6 operators, 32 algorithms, and the iconic FM synthesis engine that defined 80s music. Original DX7 hardware goes for $200+ used. Dexed costs $0. [Get it here](https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=dexed-free-dx7-emulation).
+**TL;DR:** Dexed — **free and open source.** A faithful Yamaha DX7 FM synth emulation that loads original DX7 SysEx patches. 6 operators, 32 algorithms, and the iconic FM synthesis engine that defined 80s music. Original DX7 hardware goes for $200+ used. Dexed costs $0. [Get it here](https://asb2m10.github.io/dexed/).
 
 ## What Is Dexed?
 
@@ -44,7 +44,7 @@ Dexed is the standard recommendation for DX7 sounds in production forums. On Red
 
 Dexed is free and open source under the GPL license. No account required. Download directly from GitHub or plugin distribution sites.
 
-[Download Dexed — FREE](https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=dexed-free-dx7-emulation)
+[Download Dexed — FREE](https://asb2m10.github.io/dexed/)
 
 ## Alternatives at a Glance
 
@@ -77,4 +77,4 @@ A: Yes. Dexed is actively maintained on GitHub with community contributions.
 
 The DX7 defined a decade of music. Dexed brings that engine to your DAW. Free. Open source. No limits.
 
-[Get Dexed — FREE](https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=dexed-free-dx7-emulation)
+[Get Dexed — FREE](https://asb2m10.github.io/dexed/)

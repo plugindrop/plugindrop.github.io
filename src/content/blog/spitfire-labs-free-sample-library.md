@@ -3,14 +3,14 @@ title: "Spitfire Audio LABS — 80+ FREE Instruments (Always Free)"
 description: "Spitfire Audio LABS offers 80+ free sample-based instruments including Soft Piano, Strings, Choir, and Drums. Permanently free, no strings attached."
 pubDate: "2026-03-20T10:00:00Z"
 tags: ["free", "plugin", "samples", "instruments"]
-affiliate: "https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=spitfire-labs-free-sample-library"
+affiliate: "https://labs.spitfireaudio.com/"
 heroImage: "/images/default-placeholder.jpg"
 dealPrice: "FREE"
 draft: false
 ---
 > This post contains affiliate links. We may earn a commission at no extra cost to you.
 
-**TL;DR:** Spitfire Audio LABS — **80+ instruments, permanently free.** Soft Piano, Strings, Choir, Drums, and dozens more. This is from Spitfire Audio, whose paid libraries run $29 to $499+. LABS costs nothing, requires only a free Spitfire account. [Get it here](https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=spitfire-labs-free-sample-library).
+**TL;DR:** Spitfire Audio LABS — **80+ instruments, permanently free.** Soft Piano, Strings, Choir, Drums, and dozens more. This is from Spitfire Audio, whose paid libraries run $29 to $499+. LABS costs nothing, requires only a free Spitfire account. [Get it here](https://labs.spitfireaudio.com/).
 
 ## What Is Spitfire Audio LABS?
 
@@ -44,7 +44,7 @@ LABS is one of the most widely recommended free instrument collections online. O
 
 LABS is permanently free. Requires a free Spitfire Audio account and the Spitfire app to download individual instruments. Each instrument downloads separately — install only what you need.
 
-[Download Spitfire LABS — FREE](https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=spitfire-labs-free-sample-library)
+[Download Spitfire LABS — FREE](https://labs.spitfireaudio.com/)
 
 ## Alternatives at a Glance
 
@@ -75,4 +75,4 @@ A: LABS runs as a standalone app or VST/AU plugin. Check Spitfire's site for cur
 
 80+ professional instruments from one of the top sample library companies. Free. Always.
 
-[Get Spitfire LABS — FREE](https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=spitfire-labs-free-sample-library)
+[Get Spitfire LABS — FREE](https://labs.spitfireaudio.com/)

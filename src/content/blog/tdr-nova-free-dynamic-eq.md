@@ -3,14 +3,14 @@ title: "TDR Nova — FREE Dynamic EQ (Always Free)"
 description: "TDR Nova is a free dynamic EQ with 4 bands and parallel processing. The paid GE version is $50 — but the free version covers the essentials."
 pubDate: "2026-03-18T11:00:00Z"
 tags: ["free", "plugin", "eq"]
-affiliate: "https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=tdr-nova-free-dynamic-eq"
+affiliate: "https://www.tokyodawn.net/tdr-nova/"
 heroImage: "/images/default-placeholder.jpg"
 dealPrice: "FREE"
 draft: false
 ---
 > This post contains affiliate links. We may earn a commission at no extra cost to you.
 
-**TL;DR:** TDR Nova — **free, permanently.** A dynamic EQ with 4 bands, parallel dynamic processing, and a wideband dynamics section. The GE (Gentleman's Edition) adds features for $50, but the free version is a fully usable mixing tool. [Download it here](https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=tdr-nova-free-dynamic-eq).
+**TL;DR:** TDR Nova — **free, permanently.** A dynamic EQ with 4 bands, parallel dynamic processing, and a wideband dynamics section. The GE (Gentleman's Edition) adds features for $50, but the free version is a fully usable mixing tool. [Download it here](https://www.tokyodawn.net/tdr-nova/).
 
 ## What Is TDR Nova?
 
@@ -45,7 +45,7 @@ TDR Nova is one of the most recommended free mixing plugins on Reddit and KVR. O
 
 The free version is permanently available. No account required for download. The GE upgrade at $50 adds mid/side processing, additional filter types, and high-pass/low-pass dynamic bands.
 
-[Download TDR Nova — FREE](https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=tdr-nova-free-dynamic-eq)
+[Download TDR Nova — FREE](https://www.tokyodawn.net/tdr-nova/)
 
 ## Alternatives at a Glance
 
@@ -76,4 +76,4 @@ A: The free version works for mastering EQ tasks. The GE version adds M/S proces
 
 A dynamic EQ that handles real mixing work. Free. Permanently. No catch.
 
-[Get TDR Nova — FREE](https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=tdr-nova-free-dynamic-eq)
+[Get TDR Nova — FREE](https://www.tokyodawn.net/tdr-nova/)

@@ -3,7 +3,7 @@ title: "Soundtoys Little Plate — FREE Download (Limited Time)"
 description: "Soundtoys Little Plate is free for a limited time — that's $99 off. An EMT 140-modeled plate reverb, grab it while the offer lasts."
 pubDate: "2026-03-27T15:00:00Z"
 tags: ["free", "plugin", "reverb"]
-affiliate: "https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-little-plate-free-download"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/4715-Little-Plate?a_aid=XXXXX"
 heroImage: "/images/default-placeholder.jpg"
 dealPrice: "FREE"
 originalPrice: "$99"
@@ -12,7 +12,7 @@ draft: false
 ---
 > This post contains affiliate links. We may earn a commission at no extra cost to you.
 
-**TL;DR:** Soundtoys Little Plate — normally $99, **right now it's free.** That's 100% off an EMT 140-modeled plate reverb. Soundtoys giveaways don't happen often and don't last long. [Grab it here](https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-little-plate-free-download) while it's still up.
+**TL;DR:** Soundtoys Little Plate — normally $99, **right now it's free.** That's 100% off an EMT 140-modeled plate reverb. Soundtoys giveaways don't happen often and don't last long. [Grab it here](https://www.pluginboutique.com/product/2-Effects/17-Reverb/4715-Little-Plate?a_aid=XXXXX) while it's still up.
 
 ## What Is Little Plate?
 
@@ -45,7 +45,7 @@ Little Plate is a frequent recommendation in reverb discussions on KVR forums an
 
 This won't be free forever. Soundtoys giveaways typically run for a limited window — they don't announce exact end dates. Once you activate it, the license is permanent. If the link below still works, the offer is live.
 
-[Download Little Plate — FREE](https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-little-plate-free-download)
+[Download Little Plate — FREE](https://www.pluginboutique.com/product/2-Effects/17-Reverb/4715-Little-Plate?a_aid=XXXXX)
 
 ## Alternatives at a Glance
 
@@ -76,4 +76,4 @@ A: Check the official Soundtoys product page for the latest format and OS compat
 
 $99 reverb. Free right now. Permanent license. Limited time.
 
-[Get Little Plate — FREE](https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-little-plate-free-download)
+[Get Little Plate — FREE](https://www.pluginboutique.com/product/2-Effects/17-Reverb/4715-Little-Plate?a_aid=XXXXX)

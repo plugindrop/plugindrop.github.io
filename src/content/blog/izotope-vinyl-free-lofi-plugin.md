@@ -3,14 +3,14 @@ title: "iZotope Vinyl — FREE Lo-Fi Plugin (Always Free)"
 description: "iZotope Vinyl is a free lo-fi vinyl simulation plugin with dust, scratch, warp, and noise controls. Permanently free from the makers of Ozone and RX."
 pubDate: "2026-03-22T14:00:00Z"
 tags: ["free", "plugin", "effects", "lofi"]
-affiliate: "https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=izotope-vinyl-free-lofi-plugin"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/7091-Vinyl?a_aid=XXXXX"
 heroImage: "/images/default-placeholder.jpg"
 dealPrice: "FREE"
 draft: false
 ---
 > This post contains affiliate links. We may earn a commission at no extra cost to you.
 
-**TL;DR:** iZotope Vinyl — **free, permanently.** Lo-fi vinyl simulation from iZotope, the company behind Ozone, RX, and Neutron ($49–$499). Dust, scratch, warp, electrical noise, and a year selector dial. One of the oldest and most downloaded free plugins in existence. [Get it here](https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=izotope-vinyl-free-lofi-plugin).
+**TL;DR:** iZotope Vinyl — **free, permanently.** Lo-fi vinyl simulation from iZotope, the company behind Ozone, RX, and Neutron ($49–$499). Dust, scratch, warp, electrical noise, and a year selector dial. One of the oldest and most downloaded free plugins in existence. [Get it here](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/7091-Vinyl?a_aid=XXXXX).
 
 ## What Is iZotope Vinyl?
 
@@ -44,7 +44,7 @@ iZotope Vinyl has been a lo-fi staple for over two decades. On Reddit's r/LofiHi
 
 Permanently free. Requires a free iZotope account to download. The license does not expire.
 
-[Download iZotope Vinyl — FREE](https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=izotope-vinyl-free-lofi-plugin)
+[Download iZotope Vinyl — FREE](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/7091-Vinyl?a_aid=XXXXX)
 
 ## Alternatives at a Glance
 
@@ -75,4 +75,4 @@ A: No. Vinyl is free-only. For more comprehensive lo-fi processing, iZotope's pa
 
 The original free lo-fi plugin. Over 20 years of service. Still free. Still relevant.
 
-[Get iZotope Vinyl — FREE](https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=izotope-vinyl-free-lofi-plugin)
+[Get iZotope Vinyl — FREE](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/7091-Vinyl?a_aid=XXXXX)

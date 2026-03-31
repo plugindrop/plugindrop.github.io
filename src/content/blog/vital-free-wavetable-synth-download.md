@@ -3,14 +3,14 @@ title: "Vital — FREE Wavetable Synth Download (Free Tier Always Available)"
 description: "Vital is a free wavetable synth with visual modulation, 3 oscillators, and spectral warping. The free tier includes 75 presets — no time limit."
 pubDate: "2026-03-17T09:00:00Z"
 tags: ["free", "plugin", "synthesizer"]
-affiliate: "https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=vital-free-wavetable-synth-download"
+affiliate: "https://vital.audio/"
 heroImage: "/images/default-placeholder.jpg"
 dealPrice: "FREE"
 draft: false
 ---
 > This post contains affiliate links. We may earn a commission at no extra cost to you.
 
-**TL;DR:** Vital — **free tier available permanently.** A wavetable synth that goes head-to-head with Serum. 3 oscillators, spectral warping, drag-and-drop visual modulation, 75 presets. Paid tiers ($25/$80) add more presets and wavetables, but the free version is fully functional. [Get it here](https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=vital-free-wavetable-synth-download).
+**TL;DR:** Vital — **free tier available permanently.** A wavetable synth that goes head-to-head with Serum. 3 oscillators, spectral warping, drag-and-drop visual modulation, 75 presets. Paid tiers ($25/$80) add more presets and wavetables, but the free version is fully functional. [Get it here](https://vital.audio/).
 
 ## What Is Vital?
 
@@ -46,7 +46,7 @@ Vital is a constant presence in "best free synth" discussions on Reddit and KVR.
 
 The free tier is not a trial. The synth engine is identical across all tiers — you're paying for preset/wavetable packs. Community-made presets and wavetables are widely available online for free.
 
-[Download Vital — FREE](https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=vital-free-wavetable-synth-download)
+[Download Vital — FREE](https://vital.audio/)
 
 ## Alternatives at a Glance
 
@@ -77,4 +77,4 @@ A: Both are efficient modern wavetable synths. Performance depends on patch comp
 
 A wavetable synth that competes with $189 plugins. Free tier, permanently available, no feature restrictions on the engine.
 
-[Get Vital — FREE](https://www.pluginboutique.com/?a_aid=XXXXX&utm_source=affiliate-bot&utm_medium=article&utm_campaign=vital-free-wavetable-synth-download)
+[Get Vital — FREE](https://vital.audio/)
