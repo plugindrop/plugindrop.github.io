@@ -111,7 +111,20 @@ const recentPosts = posts.slice(1, 7);
 	/* Hero */
 	.hero {
 		text-align: center;
-		padding: 4rem 0 3rem;
+		background: url('/images/hero-banner.jpg') center/cover no-repeat;
+		border-radius: var(--radius);
+		margin-bottom: 2rem;
+		overflow: hidden;
+	}
+	.hero-overlay {
+		padding: 4rem 2rem 3rem;
+		background: linear-gradient(180deg, rgba(15,15,20,0.7) 0%, rgba(15,15,20,0.9) 100%);
+	}
+	.hero-logo {
+		width: 64px;
+		height: 64px;
+		margin-bottom: 1rem;
+		filter: drop-shadow(0 4px 12px rgba(124, 58, 237, 0.4));
 	}
 	.hero-badge {
 		display: inline-block;
