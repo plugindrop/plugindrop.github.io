@@ -10,7 +10,6 @@ originalPrice: "$99"
 discount: "100% OFF"
 draft: false
 ---
-> This post contains affiliate links. We may earn a commission at no extra cost to you.
 
 **TL;DR:** Soundtoys Little Plate — normally $99, **right now it's free.** That's 100% off an EMT 140-modeled plate reverb. Soundtoys giveaways don't happen often and don't last long. [Grab it here](https://www.pluginboutique.com/product/2-Effects/17-Reverb/4715-Little-Plate?a_aid=XXXXX) while it's still up.
 

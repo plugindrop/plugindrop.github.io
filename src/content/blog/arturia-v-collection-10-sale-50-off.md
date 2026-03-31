@@ -10,7 +10,6 @@ originalPrice: "$599"
 discount: "50% OFF"
 draft: false
 ---
-> This post contains affiliate links. We may earn a commission at no extra cost to you.
 
 **TL;DR:** Arturia V Collection 10 — ~~$599~~ **$299**. Save $300. That's 39 modeled vintage instruments at roughly **$7.67 each.** Minimoog, Jupiter-8, Prophet-5, DX7, and 35 more. [See the deal](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11747-V-Collection-X?a_aid=XXXXX).
 
