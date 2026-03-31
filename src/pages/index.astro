@@ -1,0 +1,281 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+
+const posts = (await getCollection('blog'))
+	.filter((p) => !p.data.draft)
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const latestPost = posts[0];
+const recentPosts = posts.slice(1, 7);
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<!-- Hero Section -->
+			<section class="hero">
+				<div class="hero-badge">VST Plugin Deals</div>
+				<h1>Never miss a plugin deal again.</h1>
+				<p class="hero-sub">
+					Free plugins, flash sales & bundle deals — curated daily for producers who'd rather make music than hunt for discounts.
+				</p>
+				<a href="/posts" class="hero-cta">Browse Latest Deals &rarr;</a>
+			</section>
+
+			<!-- Latest Deal (featured) -->
+			{latestPost && (
+				<section class="featured">
+					<h2 class="section-title">Latest Drop</h2>
+					<a href={`/posts/${latestPost.id}/`} class="featured-card">
+						{typeof latestPost.data.heroImage === 'string' && (
+							<img src={latestPost.data.heroImage} alt={latestPost.data.title} loading="eager" />
+						)}
+						<div class="featured-content">
+							<div class="featured-meta">
+								<FormattedDate date={latestPost.data.pubDate} />
+								{latestPost.data.tags?.map((tag: string) => (
+									<span class={`tag ${tag === 'free' ? 'free' : tag === 'sale' ? 'sale' : ''}`}>{tag}</span>
+								))}
+							</div>
+							<h3>{latestPost.data.title}</h3>
+							<p>{latestPost.data.description}</p>
+							{(latestPost.data.dealPrice || latestPost.data.originalPrice) && (
+								<div class="card-price">
+									{latestPost.data.dealPrice && <span class="price-deal">{latestPost.data.dealPrice}</span>}
+									{latestPost.data.originalPrice && <span class="price-original">{latestPost.data.originalPrice}</span>}
+									{latestPost.data.discount && <span class="price-discount">{latestPost.data.discount}</span>}
+								</div>
+							)}
+						</div>
+					</a>
+				</section>
+			)}
+
+			<!-- Recent Deals Grid -->
+			{recentPosts.length > 0 && (
+				<section class="recent">
+					<h2 class="section-title">Recent Deals</h2>
+					<div class="grid">
+						{recentPosts.map((post) => (
+							<a href={`/posts/${post.id}/`} class="card">
+								{typeof post.data.heroImage === 'string' && (
+									<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
+								)}
+								<div class="card-body">
+									<div class="card-meta">
+										<FormattedDate date={post.data.pubDate} />
+									</div>
+									<h4>{post.data.title}</h4>
+								{(post.data.dealPrice || post.data.originalPrice) && (
+										<div class="card-price">
+											{post.data.dealPrice && <span class="price-deal">{post.data.dealPrice}</span>}
+											{post.data.originalPrice && <span class="price-original">{post.data.originalPrice}</span>}
+											{post.data.discount && <span class="price-discount">{post.data.discount}</span>}
+										</div>
+									)}
+									{post.data.tags?.length > 0 && (
+										<div class="card-tags">
+											{post.data.tags.slice(0, 3).map((tag: string) => (
+												<span class={`tag ${tag === 'free' ? 'free' : tag === 'sale' ? 'sale' : ''}`}>{tag}</span>
+											))}
+										</div>
+									)}
+								</div>
+							</a>
+						))}
+					</div>
+					<div class="see-all">
+						<a href="/posts">View All Deals &rarr;</a>
+					</div>
+				</section>
+			)}
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	/* Hero */
+	.hero {
+		text-align: center;
+		padding: 4rem 0 3rem;
+	}
+	.hero-badge {
+		display: inline-block;
+		padding: 0.3em 0.9em;
+		background: var(--tag-bg);
+		color: var(--tag-text);
+		border-radius: 999px;
+		font-size: 0.8rem;
+		font-weight: 600;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+		margin-bottom: 1rem;
+	}
+	.hero h1 {
+		font-size: 2.75rem;
+		background: var(--accent-gradient);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		background-clip: text;
+		margin-bottom: 1rem;
+		letter-spacing: -0.03em;
+	}
+	.hero-sub {
+		color: var(--text-secondary);
+		font-size: 1.1rem;
+		max-width: 540px;
+		margin: 0 auto 2rem;
+		line-height: 1.6;
+	}
+	.hero-cta {
+		display: inline-block;
+		padding: 0.75rem 2rem;
+		background: var(--accent-gradient);
+		color: white !important;
+		border-radius: var(--radius-sm);
+		font-weight: 600;
+		font-size: 1rem;
+		transition: transform 0.15s, box-shadow 0.15s;
+	}
+	.hero-cta:hover {
+		transform: translateY(-2px);
+		box-shadow: 0 8px 24px rgba(124, 58, 237, 0.35);
+	}
+
+	/* Section */
+	.section-title {
+		font-size: 1.25rem;
+		color: var(--text-muted);
+		text-transform: uppercase;
+		letter-spacing: 0.08em;
+		font-weight: 600;
+		margin-bottom: 1.25rem;
+	}
+
+	/* Featured Card */
+	.featured { margin-bottom: 3rem; }
+	.featured-card {
+		display: block;
+		background: var(--bg-card);
+		border: 1px solid var(--border);
+		border-radius: var(--radius);
+		overflow: hidden;
+		transition: border-color 0.2s, box-shadow 0.2s;
+		text-decoration: none;
+	}
+	.featured-card:hover {
+		border-color: var(--accent);
+		box-shadow: var(--box-shadow-hover);
+	}
+	.featured-card img {
+		width: 100%;
+		height: 300px;
+		object-fit: cover;
+		border-radius: 0;
+	}
+	.featured-content {
+		padding: 1.5rem;
+	}
+	.featured-meta {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		color: var(--text-muted);
+		font-size: 0.85rem;
+		margin-bottom: 0.75rem;
+	}
+	.featured-content h3 {
+		font-size: 1.5rem;
+		margin-bottom: 0.5rem;
+		color: var(--text-primary);
+	}
+	.featured-content p {
+		color: var(--text-secondary);
+		font-size: 0.95rem;
+		margin: 0;
+		line-height: 1.5;
+	}
+
+	/* Card Grid */
+	.grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+		gap: 1.25rem;
+	}
+	.card {
+		display: flex;
+		flex-direction: column;
+		background: var(--bg-card);
+		border: 1px solid var(--border);
+		border-radius: var(--radius);
+		overflow: hidden;
+		text-decoration: none;
+		transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
+	}
+	.card:hover {
+		border-color: var(--accent);
+		box-shadow: var(--box-shadow-hover);
+		transform: translateY(-2px);
+	}
+	.card img {
+		width: 100%;
+		height: 180px;
+		object-fit: cover;
+		border-radius: 0;
+	}
+	.card-body {
+		padding: 1rem 1.25rem 1.25rem;
+		flex: 1;
+		display: flex;
+		flex-direction: column;
+	}
+	.card-meta {
+		color: var(--text-muted);
+		font-size: 0.8rem;
+		margin-bottom: 0.5rem;
+	}
+	.card-body h4 {
+		color: var(--text-primary);
+		font-size: 1.05rem;
+		margin-bottom: 0.75rem;
+		line-height: 1.35;
+	}
+	.card-tags {
+		margin-top: auto;
+		display: flex;
+		gap: 0.35rem;
+		flex-wrap: wrap;
+	}
+
+	/* See all */
+	.see-all {
+		text-align: center;
+		margin-top: 2rem;
+	}
+	.see-all a {
+		color: var(--accent-light);
+		font-weight: 600;
+		font-size: 0.95rem;
+	}
+	.see-all a:hover {
+		color: var(--accent);
+	}
+
+	@media (max-width: 720px) {
+		.hero h1 { font-size: 2rem; }
+		.hero-sub { font-size: 1rem; }
+		.grid { grid-template-columns: 1fr; }
+		.featured-card img { height: 200px; }
+	}
+</style>

@@ -1,0 +1,448 @@
+/* PluginDrop — Dark theme for music producers */
+
+:root {
+	--accent: #7c3aed;
+	--accent-light: #a78bfa;
+	--accent-dark: #5b21b6;
+	--accent-gradient: linear-gradient(135deg, #7c3aed, #3b82f6);
+	--bg-primary: #0f0f14;
+	--bg-secondary: #16161d;
+	--bg-card: #1c1c26;
+	--bg-card-hover: #22222e;
+	--text-primary: #f0f0f5;
+	--text-secondary: #9ca3af;
+	--text-muted: #8b8fa0;
+	--border: #2a2a3a;
+	--border-light: #363648;
+	--tag-bg: rgba(124, 58, 237, 0.15);
+	--tag-text: #a78bfa;
+	--free-bg: rgba(16, 185, 129, 0.15);
+	--free-text: #34d399;
+	--sale-bg: rgba(239, 68, 68, 0.15);
+	--sale-text: #f87171;
+	--box-shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
+	--box-shadow-hover: 0 8px 32px rgba(124, 58, 237, 0.2);
+	--radius: 12px;
+	--radius-sm: 8px;
+}
+
+/* Use system font stack + Atkinson (already bundled) for performance */
+@font-face {
+	font-family: "Atkinson";
+	src: url("/fonts/atkinson-regular.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Atkinson";
+	src: url("/fonts/atkinson-bold.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Atkinson", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+	margin: 0;
+	padding: 0;
+	background: var(--bg-primary);
+	color: var(--text-primary);
+	font-size: 16px;
+	line-height: 1.7;
+	-webkit-font-smoothing: antialiased;
+}
+
+main {
+	width: 960px;
+	max-width: calc(100% - 2rem);
+	margin: 0 auto;
+	padding: 2rem 1rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0 0 0.5rem 0;
+	color: var(--text-primary);
+	line-height: 1.25;
+	font-weight: 700;
+}
+h1 { font-size: 2.25rem; }
+h2 { font-size: 1.75rem; }
+h3 { font-size: 1.375rem; }
+h4 { font-size: 1.125rem; }
+
+a {
+	color: var(--accent-light);
+	text-decoration: none;
+	transition: color 0.2s ease;
+}
+a:hover {
+	color: var(--accent);
+}
+
+p { margin-bottom: 1em; }
+.prose p { margin-bottom: 1.5em; }
+
+strong, b { font-weight: 700; }
+
+img {
+	max-width: 100%;
+	height: auto;
+	border-radius: var(--radius);
+}
+
+/* Tables — responsive with horizontal scroll */
+.table-wrap {
+	overflow-x: auto;
+	-webkit-overflow-scrolling: touch;
+	margin: 1.5em 0;
+}
+table {
+	width: 100%;
+	border-collapse: collapse;
+	font-size: 0.9rem;
+	min-width: 400px;
+}
+th, td {
+	padding: 0.75rem 1rem;
+	text-align: left;
+	border-bottom: 1px solid var(--border);
+}
+th {
+	background: var(--bg-card);
+	font-weight: 700;
+	color: var(--text-primary);
+	white-space: nowrap;
+}
+td {
+	color: var(--text-secondary);
+}
+tr:hover td {
+	background: var(--bg-card-hover);
+}
+
+/* Code */
+code {
+	padding: 2px 6px;
+	background-color: var(--bg-card);
+	border-radius: 4px;
+	font-size: 0.875em;
+	color: var(--accent-light);
+}
+pre {
+	padding: 1.25em;
+	border-radius: var(--radius-sm);
+	background: var(--bg-card) !important;
+	border: 1px solid var(--border);
+	overflow-x: auto;
+}
+pre > code {
+	all: unset;
+}
+
+/* Blockquote — subtle affiliate disclaimer */
+blockquote {
+	border-left: 3px solid var(--border-light);
+	padding: 0.5rem 1rem;
+	margin: 0 0 1.5rem 0;
+	color: var(--text-muted);
+	font-size: 0.8rem;
+	background: none;
+}
+
+hr {
+	border: none;
+	border-top: 1px solid var(--border);
+	margin: 2rem 0;
+}
+
+/* Bullet lists in articles */
+.prose ul, .prose ol {
+	padding-left: 1.5rem;
+	margin-bottom: 1.5em;
+}
+.prose li {
+	margin-bottom: 0.5em;
+	color: var(--text-secondary);
+}
+.prose li strong {
+	color: var(--text-primary);
+}
+
+/* Hide [INTERNAL: ...] placeholders */
+.prose p:has(a[href="#"]),
+.prose p:empty {
+	display: none;
+}
+
+/* Tags */
+.tag {
+	display: inline-block;
+	padding: 0.2em 0.6em;
+	background: var(--tag-bg);
+	color: var(--tag-text);
+	border-radius: 999px;
+	font-size: 0.75rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.03em;
+}
+.tag.free {
+	background: var(--free-bg);
+	color: var(--free-text);
+}
+.tag.sale {
+	background: var(--sale-bg);
+	color: var(--sale-text);
+}
+
+/* ── Deal CTA Box (top of article) ────────────────────── */
+.deal-cta-box {
+	background: var(--bg-card);
+	border: 1px solid var(--border-light);
+	border-radius: var(--radius);
+	padding: 1.25rem 1.5rem;
+	margin-bottom: 2rem;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 1rem;
+	flex-wrap: wrap;
+}
+.deal-cta-box .deal-info {
+	display: flex;
+	flex-direction: column;
+	gap: 0.25rem;
+}
+.deal-cta-box .deal-price {
+	font-size: 1.5rem;
+	font-weight: 700;
+	color: var(--text-primary);
+}
+.deal-cta-box .deal-price .original {
+	font-size: 0.9rem;
+	color: var(--text-muted);
+	text-decoration: line-through;
+	margin-right: 0.5rem;
+	font-weight: 400;
+}
+.deal-cta-box .deal-price .discount-badge {
+	display: inline-block;
+	padding: 0.15em 0.5em;
+	background: var(--sale-bg);
+	color: var(--sale-text);
+	border-radius: 4px;
+	font-size: 0.75rem;
+	font-weight: 700;
+	margin-left: 0.5rem;
+	vertical-align: middle;
+}
+.deal-cta-box .deal-price .free-badge {
+	display: inline-block;
+	padding: 0.15em 0.5em;
+	background: var(--free-bg);
+	color: var(--free-text);
+	border-radius: 4px;
+	font-size: 0.75rem;
+	font-weight: 700;
+	margin-left: 0.5rem;
+	vertical-align: middle;
+}
+.deal-cta-box .deal-source {
+	font-size: 0.8rem;
+	color: var(--text-muted);
+}
+.deal-cta-btn {
+	display: inline-block;
+	padding: 0.75rem 1.75rem;
+	background: var(--accent-gradient);
+	color: white !important;
+	border-radius: var(--radius-sm);
+	font-weight: 700;
+	font-size: 1rem;
+	white-space: nowrap;
+	transition: transform 0.15s ease, box-shadow 0.15s ease;
+	text-decoration: none;
+}
+.deal-cta-btn:hover {
+	transform: translateY(-1px);
+	box-shadow: 0 4px 20px rgba(124, 58, 237, 0.4);
+	color: white !important;
+}
+
+/* ── Inline CTA in article (affiliate links) ──────────── */
+.prose a[href*="pluginboutique"],
+.prose a[href*="adsrsounds"],
+.prose a[href*="loopmasters"],
+.prose a[href*="splice.com"],
+.prose a[href*="waves.com"],
+.prose a[href*="sweetwater"],
+.prose a[href*="pluginfox"],
+.prose a[href*="utm_source=affiliate"],
+.prose a[href*="ref="],
+.prose a[href*="a_aid="] {
+	display: inline-block;
+	padding: 0.4em 1.1em;
+	background: var(--accent-gradient);
+	color: white !important;
+	border-radius: var(--radius-sm);
+	font-weight: 700;
+	font-size: 0.9rem;
+	transition: transform 0.15s ease, box-shadow 0.15s ease;
+	margin: 0.25em 0;
+}
+.prose a[href*="pluginboutique"]:hover,
+.prose a[href*="adsrsounds"]:hover,
+.prose a[href*="loopmasters"]:hover,
+.prose a[href*="splice.com"]:hover,
+.prose a[href*="waves.com"]:hover,
+.prose a[href*="sweetwater"]:hover,
+.prose a[href*="pluginfox"]:hover,
+.prose a[href*="utm_source=affiliate"]:hover,
+.prose a[href*="ref="]:hover,
+.prose a[href*="a_aid="]:hover {
+	transform: translateY(-1px);
+	box-shadow: 0 4px 16px rgba(124, 58, 237, 0.4);
+}
+
+/* ── Breadcrumb ──────────────────────────────────────── */
+.breadcrumb {
+	display: flex;
+	align-items: center;
+	gap: 0.4rem;
+	font-size: 0.8rem;
+	color: var(--text-muted);
+	margin-bottom: 1rem;
+}
+.breadcrumb a {
+	color: var(--text-muted);
+}
+.breadcrumb a:hover {
+	color: var(--accent-light);
+}
+.breadcrumb .sep {
+	opacity: 0.5;
+}
+
+/* ── Sticky bottom CTA bar (mobile) ─────────────────── */
+.sticky-cta {
+	display: none;
+}
+@media (max-width: 720px) {
+	.sticky-cta {
+		display: flex;
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		z-index: 99;
+		background: rgba(15, 15, 20, 0.95);
+		backdrop-filter: blur(8px);
+		-webkit-backdrop-filter: blur(8px);
+		border-top: 1px solid var(--border);
+		padding: 0.75rem 1rem;
+		align-items: center;
+		justify-content: space-between;
+		gap: 0.75rem;
+	}
+	.sticky-cta .sticky-title {
+		font-size: 0.8rem;
+		font-weight: 700;
+		color: var(--text-primary);
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		flex: 1;
+		min-width: 0;
+	}
+	.sticky-cta .deal-cta-btn {
+		padding: 0.5rem 1.25rem;
+		font-size: 0.85rem;
+		flex-shrink: 0;
+	}
+	/* Add padding to body to prevent content being hidden by sticky bar */
+	body:has(.sticky-cta) {
+		padding-bottom: 60px;
+	}
+}
+
+/* ── TL;DR highlight box ──────────────────────────────── */
+.prose > p:first-of-type:has(strong) {
+	background: var(--bg-card);
+	border: 1px solid var(--border-light);
+	border-left: 4px solid var(--accent);
+	border-radius: var(--radius-sm);
+	padding: 1rem 1.25rem;
+	margin-bottom: 2rem;
+	font-size: 0.95rem;
+	line-height: 1.6;
+}
+
+/* ── Price card on index / list pages ────────────────── */
+.card-price {
+	display: flex;
+	align-items: baseline;
+	gap: 0.4rem;
+	margin-top: 0.25rem;
+}
+.card-price .price-deal {
+	font-size: 1.1rem;
+	font-weight: 700;
+	color: var(--free-text);
+}
+.card-price .price-original {
+	font-size: 0.8rem;
+	color: var(--text-muted);
+	text-decoration: line-through;
+}
+.card-price .price-discount {
+	font-size: 0.75rem;
+	font-weight: 700;
+	color: var(--sale-text);
+}
+
+/* Responsive */
+@media (max-width: 720px) {
+	body { font-size: 15px; }
+	main { padding: 1rem; }
+	h1 { font-size: 1.75rem; }
+	h2 { font-size: 1.375rem; }
+	.deal-cta-box {
+		flex-direction: column;
+		align-items: stretch;
+		text-align: center;
+	}
+}
+
+/* Focus styles for keyboard navigation (WCAG 2.4.7) */
+a:focus-visible,
+button:focus-visible,
+[role="button"]:focus-visible {
+	outline: 2px solid var(--accent-light);
+	outline-offset: 2px;
+}
+
+/* Skip nav becomes visible on focus */
+.sr-only:focus {
+	position: static !important;
+	width: auto;
+	height: auto;
+	clip: auto;
+	clip-path: none;
+	overflow: visible;
+	white-space: normal;
+}
+
+.sr-only {
+	border: 0; padding: 0; margin: 0;
+	position: absolute !important;
+	height: 1px; width: 1px;
+	overflow: hidden;
+	clip: rect(1px, 1px, 1px, 1px);
+	clip-path: inset(50%);
+	white-space: nowrap;
+}

@@ -1,0 +1,84 @@
+---
+import { SITE_TITLE } from '../consts';
+import HeaderLink from './HeaderLink.astro';
+---
+
+<header>
+	<nav aria-label="Main navigation">
+		<a href="/" class="logo">
+			<span class="logo-icon">
+				<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<path d="M12 2L2 7l10 5 10-5-10-5z" fill="url(#grad)" opacity="0.9"/>
+					<path d="M2 17l10 5 10-5" stroke="url(#grad)" stroke-width="2" fill="none" stroke-linecap="round"/>
+					<path d="M2 12l10 5 10-5" stroke="url(#grad)" stroke-width="2" fill="none" stroke-linecap="round"/>
+					<defs>
+						<linearGradient id="grad" x1="2" y1="2" x2="22" y2="22">
+							<stop offset="0%" stop-color="#7c3aed"/>
+							<stop offset="100%" stop-color="#3b82f6"/>
+						</linearGradient>
+					</defs>
+				</svg>
+			</span>
+			<span class="logo-text">{SITE_TITLE}</span>
+		</a>
+		<div class="nav-links">
+			<HeaderLink href="/posts">Deals</HeaderLink>
+			<HeaderLink href="/about">About</HeaderLink>
+		</div>
+	</nav>
+</header>
+<style>
+	header {
+		position: sticky;
+		top: 0;
+		z-index: 100;
+		background: rgba(15, 15, 20, 0.85);
+		backdrop-filter: blur(12px);
+		-webkit-backdrop-filter: blur(12px);
+		border-bottom: 1px solid var(--border);
+		padding: 0 1.5rem;
+	}
+	nav {
+		max-width: 960px;
+		margin: 0 auto;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		height: 64px;
+	}
+	.logo {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		text-decoration: none;
+		color: var(--text-primary);
+	}
+	.logo-icon {
+		display: flex;
+		align-items: center;
+	}
+	.logo-text {
+		font-size: 1.25rem;
+		font-weight: 700;
+		letter-spacing: -0.02em;
+	}
+	.nav-links {
+		display: flex;
+		align-items: center;
+		gap: 0.25rem;
+	}
+	.nav-links a {
+		padding: 0.5rem 1rem;
+		color: var(--text-secondary);
+		font-size: 0.9rem;
+		font-weight: 500;
+		border-radius: var(--radius-sm);
+		transition: color 0.2s, background 0.2s;
+		text-decoration: none;
+	}
+	.nav-links a:hover,
+	.nav-links a.active {
+		color: var(--text-primary);
+		background: var(--bg-card);
+	}
+</style>

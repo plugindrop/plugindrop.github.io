@@ -1,0 +1,64 @@
+---
+const today = new Date();
+---
+
+<footer>
+	<div class="footer-inner">
+		<div class="footer-brand">
+			<span class="brand-name">PluginDrop</span>
+			<p class="brand-desc">Curated plugin deals & free downloads for music producers.</p>
+		</div>
+		<div class="footer-links">
+			<a href="/posts">Deals</a>
+			<a href="/about">About</a>
+			<a href="/rss.xml" target="_blank" rel="noopener noreferrer" aria-label="RSS Feed (opens in new tab)">RSS</a>
+		</div>
+		<div class="footer-legal">
+			<p>&copy; {today.getFullYear()} PluginDrop. Affiliate links may earn us a commission.</p>
+		</div>
+	</div>
+</footer>
+<style>
+	footer {
+		border-top: 1px solid var(--border);
+		padding: 3rem 1.5rem;
+		background: var(--bg-secondary);
+	}
+	.footer-inner {
+		max-width: 960px;
+		margin: 0 auto;
+		display: flex;
+		flex-direction: column;
+		gap: 1.5rem;
+		align-items: center;
+		text-align: center;
+	}
+	.brand-name {
+		font-weight: 700;
+		font-size: 1.1rem;
+		color: var(--text-primary);
+	}
+	.brand-desc {
+		color: var(--text-muted);
+		font-size: 0.85rem;
+		margin: 0.25rem 0 0;
+	}
+	.footer-links {
+		display: flex;
+		gap: 1.5rem;
+	}
+	.footer-links a {
+		color: var(--text-secondary);
+		font-size: 0.875rem;
+		text-decoration: none;
+		transition: color 0.2s;
+	}
+	.footer-links a:hover {
+		color: var(--accent-light);
+	}
+	.footer-legal p {
+		color: var(--text-muted);
+		font-size: 0.75rem;
+		margin: 0;
+	}
+</style>

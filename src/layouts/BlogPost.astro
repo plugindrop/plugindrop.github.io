@@ -1,0 +1,231 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+
+type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?: string };
+
+const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, readingTime = '3 min read', rawBody = '' } = Astro.props;
+const imageStr = typeof heroImage === 'string' ? heroImage : undefined;
+const resolvedImage = imageStr ? new URL(imageStr, Astro.site).href : undefined;
+const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
+
+// Build JSON-LD structured data
+const articleLD = {
+	"@context": "https://schema.org",
+	"@type": "Article",
+	"headline": title,
+	"description": description,
+	"datePublished": pubDate.toISOString(),
+	...(updatedDate ? { "dateModified": updatedDate.toISOString() } : {}),
+	...(resolvedImage ? { "image": resolvedImage } : {}),
+	"url": pageUrl,
+	"author": { "@type": "Organization", "name": "PluginDrop" },
+};
+
+// BreadcrumbList schema
+const breadcrumbLD = {
+	"@context": "https://schema.org",
+	"@type": "BreadcrumbList",
+	"itemListElement": [
+		{ "@type": "ListItem", "position": 1, "name": "Home", "item": new URL("/", Astro.site).href },
+		{ "@type": "ListItem", "position": 2, "name": "Deals", "item": new URL("/posts", Astro.site).href },
+		{ "@type": "ListItem", "position": 3, "name": title },
+	],
+};
+
+// Extract FAQ pairs from raw markdown for FAQPage schema
+const faqPairs: { q: string; a: string }[] = [];
+const faqRegex = /\*\*Q:\s*(.+?)\*\*\s*\nA:\s*(.+?)(?=\n\s*\*\*Q:|\n\s*##|\s*$)/gs;
+let faqMatch;
+while ((faqMatch = faqRegex.exec(rawBody)) !== null) {
+	faqPairs.push({ q: faqMatch[1].trim(), a: faqMatch[2].trim() });
+}
+const faqLD = faqPairs.length > 0 ? {
+	"@context": "https://schema.org",
+	"@type": "FAQPage",
+	"mainEntity": faqPairs.map(f => ({
+		"@type": "Question",
+		"name": f.q,
+		"acceptedAnswer": { "@type": "Answer", "text": f.a },
+	})),
+} : null;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`${title} | ${SITE_TITLE}`} description={description} image={imageStr} ogType="article" />
+		<script type="application/ld+json" set:html={JSON.stringify(articleLD)} />
+		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbLD)} />
+		{faqLD && <script type="application/ld+json" set:html={JSON.stringify(faqLD)} />}
+		<style>
+			main {
+				width: calc(100% - 2rem);
+				max-width: 100%;
+				margin: 0;
+			}
+			.hero-image {
+				width: 100%;
+				max-width: 960px;
+				margin: 0 auto;
+				padding: 1.5rem 1rem 0;
+			}
+			.hero-image img {
+				display: block;
+				width: 100%;
+				max-height: 400px;
+				object-fit: cover;
+				border-radius: var(--radius);
+				border: 1px solid var(--border);
+			}
+			.prose {
+				width: 720px;
+				max-width: calc(100% - 2rem);
+				margin: 0 auto;
+				padding: 1rem 1rem 3rem;
+				color: var(--text-secondary);
+			}
+			.article-header {
+				margin-bottom: 1.5rem;
+				padding-bottom: 1.25rem;
+				border-bottom: 1px solid var(--border);
+			}
+			.article-header h1 {
+				margin: 0 0 0.75rem 0;
+				font-size: 2rem;
+				line-height: 1.2;
+			}
+			.meta {
+				display: flex;
+				align-items: center;
+				gap: 0.75rem;
+				flex-wrap: wrap;
+			}
+			.date {
+				color: var(--text-muted);
+				font-size: 0.85rem;
+			}
+			.reading-time {
+				color: var(--text-muted);
+				font-size: 0.8rem;
+			}
+			.tags {
+				display: flex;
+				gap: 0.4rem;
+				flex-wrap: wrap;
+			}
+			/* Hide the first H1 inside article content (already shown in header) */
+			.prose > h1:first-of-type,
+			.prose :global(h1:first-of-type) {
+				display: none;
+			}
+			@media (max-width: 720px) {
+				.article-header h1 { font-size: 1.5rem; }
+				.hero-image { padding: 1rem 0.5rem 0; }
+			}
+		</style>
+		<!-- Wrap tables in scrollable container -->
+		<script>
+			document.addEventListener('DOMContentLoaded', () => {
+				document.querySelectorAll('.prose table').forEach(table => {
+					if (!table.parentElement?.classList.contains('table-wrap')) {
+						const wrap = document.createElement('div');
+						wrap.className = 'table-wrap';
+						table.parentElement?.insertBefore(wrap, table);
+						wrap.appendChild(table);
+					}
+				});
+				// Hide [INTERNAL: ...] placeholders
+				document.querySelectorAll('.prose p').forEach(p => {
+					if (p.textContent?.trim().startsWith('[INTERNAL:')) {
+						p.style.display = 'none';
+					}
+				});
+			});
+		</script>
+	</head>
+
+	<body>
+		<a href="#main-content" class="sr-only" style="position:absolute;top:0;left:0;z-index:999;padding:1rem;background:var(--bg-primary);color:var(--accent-light);">Skip to content</a>
+		<Header />
+		<main id="main-content">
+			<article>
+				{imageStr && (
+					<div class="hero-image">
+						<img src={imageStr} alt={title} loading="eager" fetchpriority="high" />
+					</div>
+				)}
+				<div class="prose">
+					<!-- Breadcrumb -->
+					<nav class="breadcrumb" aria-label="Breadcrumb">
+						<a href="/">Home</a>
+						<span class="sep" aria-hidden="true">/</span>
+						<a href="/posts">Deals</a>
+						<span class="sep" aria-hidden="true">/</span>
+						<span>{title.length > 50 ? title.slice(0, 50) + '...' : title}</span>
+					</nav>
+
+					<!-- Article Header -->
+					<div class="article-header">
+						<h1>{title}</h1>
+						<div class="meta">
+							<span class="date">
+								<FormattedDate date={pubDate} />
+								{updatedDate && (
+									<span> &middot; Updated <FormattedDate date={updatedDate} /></span>
+								)}
+							</span>
+							<span class="reading-time">{readingTime}</span>
+							{tags.length > 0 && (
+								<div class="tags">
+									{tags.map((tag: string) => (
+										<span class={`tag ${tag === 'free' ? 'free' : tag === 'sale' ? 'sale' : ''}`}>
+											{tag}
+										</span>
+									))}
+								</div>
+							)}
+						</div>
+					</div>
+
+					{/* Deal CTA Box — shown when article has a deal price + affiliate link */}
+					{dealPrice && affiliate && (
+						<div class="deal-cta-box">
+							<div class="deal-info">
+								<div class="deal-price">
+									{originalPrice && <span class="original">{originalPrice}</span>}
+									{dealPrice}
+									{discount && <span class={dealPrice === 'FREE' ? 'free-badge' : 'discount-badge'}>{discount}</span>}
+									{!discount && dealPrice === 'FREE' && <span class="free-badge">FREE</span>}
+								</div>
+								<div class="deal-source">via Plugin Boutique — limited time offer</div>
+							</div>
+							<a href={affiliate} class="deal-cta-btn" target="_blank" rel="noopener noreferrer nofollow">
+								{dealPrice === 'FREE' ? 'Get It Free →' : 'Get This Deal →'}
+							</a>
+						</div>
+					)}
+
+					<!-- Article content (from markdown) -->
+					<slot />
+				</div>
+			</article>
+		</main>
+
+		{/* Sticky CTA bar — mobile only, only for articles with affiliate links */}
+		{affiliate && (
+			<div class="sticky-cta">
+				<span class="sticky-title">{dealPrice ? `${dealPrice} — ${title}` : title}</span>
+				<a href={affiliate} class="deal-cta-btn" target="_blank" rel="noopener noreferrer nofollow">
+					{dealPrice === 'FREE' ? 'Get Free' : 'Get Deal'}
+				</a>
+			</div>
+		)}
+
+		<Footer />
+	</body>
+</html>
