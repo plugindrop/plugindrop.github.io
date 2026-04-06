@@ -24,6 +24,27 @@ Applied Acoustics Systems is a Canadian developer that has been a leading name i
 - **Ultra Analog VA-3** — A versatile analog modeling synth designed for fast sound design across pads, leads, basses, and keys.
 - **Multiphonics CV-3** — A polyphonic modular synth environment combining physical modeling, FM, and subtractive synthesis with MPE support.
 
+## Featured Products on Sale
+
+<div style="display:flex;gap:1.5rem;flex-wrap:wrap;margin:1rem 0">
+  <div style="flex:1;min-width:200px;text-align:center">
+    <a href="https://www.pluginboutique.com/product/1-Instruments/4-Synth/14967-Lounge-Lizard-EP-5-" target="_blank" rel="noopener noreferrer nofollow">
+      <img src="/images/lounge-lizard-ep5.jpg" alt="Lounge Lizard EP-5 by Applied Acoustics Systems" style="width:100%;border-radius:6px;border:1px solid var(--border)" loading="lazy" />
+      <strong>Lounge Lizard EP-5</strong>
+    </a>
+    <br/>Rhodes, Wurlitzer &amp; more — ~~$199~~ ~$99
+    <br/><a href="https://www.pluginboutique.com/product/1-Instruments/4-Synth/14967-Lounge-Lizard-EP-5-" target="_blank" rel="noopener noreferrer nofollow">→ Get Lounge Lizard EP-5</a>
+  </div>
+  <div style="flex:1;min-width:200px;text-align:center">
+    <a href="https://www.pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2" target="_blank" rel="noopener noreferrer nofollow">
+      <img src="/images/strum-gs2.jpg" alt="Strum GS-2 by Applied Acoustics Systems" style="width:100%;border-radius:6px;border:1px solid var(--border)" loading="lazy" />
+      <strong>Strum GS-2</strong>
+    </a>
+    <br/>Virtual acoustic &amp; electric guitar — ~~$199~~ ~$99
+    <br/><a href="https://www.pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2" target="_blank" rel="noopener noreferrer nofollow">→ Get Strum GS-2</a>
+  </div>
+</div>
+
 ## What Producers Are Saying
 
 AAS has built a loyal following in the physical modeling space over the years. On KVR Audio forums, Chromaphone and String Studio are frequently highlighted as standout instruments for their unique timbral range — users commonly describe Chromaphone as one of the most versatile synths in its class. Lounge Lizard remains a go-to recommendation in electric piano discussions for its dynamic response. Some users note that the modeled approach yields a more organic, playable feel compared to sample libraries. Community discussion threads can be found on [KVR Audio](https://www.kvraudio.com/developer/applied-acoustics-systems) and Reddit's [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/).
@@ -41,10 +62,10 @@ AAS runs sales a few times per year (typically summer and Black Friday at 50–6
 
 | Product | Regular Price | ~50% Off Price | You Save |
 |---|---|---|---|
-| Lounge Lizard EP-5 | ~~$199~~ | ~$99 | ~$100 |
+| [Lounge Lizard EP-5](https://www.pluginboutique.com/product/1-Instruments/4-Synth/14967-Lounge-Lizard-EP-5-) | ~~$199~~ | ~$99 | ~$100 |
 | Chromaphone 3 | ~~$199~~ | ~$99 | ~$100 |
 | Ultra Analog VA-3 | ~~$199~~ | ~$99 | ~$100 |
-| Strum GS-2 | ~~$199~~ | ~$99 | ~$100 |
+| [Strum GS-2](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2) | ~~$199~~ | ~$99 | ~$100 |
 | Objeq Delay | ~~$139~~ | ~$69 | ~$70 |
 | The Integral Bundle | ~~$899~~ | ~$449 | ~$450 |
 | Sound Packs | ~~$39~~ | ~$19 | ~$20 |
