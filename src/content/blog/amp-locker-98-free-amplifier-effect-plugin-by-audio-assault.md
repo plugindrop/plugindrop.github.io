@@ -9,7 +9,7 @@ score: 7.35
 dealPrice: "$0"
 draft: false
 ---
-**TL;DR:** Audio Assault is giving away Amp Locker 98 — a 6-amp-model guitar plugin — completely **free** for 48 hours only. That's ~~$0 reason to hesitate~~ zero dollars. Grab it before the window closes at [Audio Assault via Rekkerd](https://rekkerd.org/amp-locker-98-free-amplifier-effect-plugin-by-audio-assault/).
+**TL;DR:** Audio Assault is giving away Amp Locker 98 — a 6-amp-model guitar plugin — completely **free** for 48 hours only. That's ~~$0 reason to hesitate~~ zero dollars. Grab it before the window closes at [Audio Assault](https://audioassault.mx/amplocker98).
 
 ## What Is Amp Locker 98?
 
@@ -45,7 +45,7 @@ This is a **48-hour freeaway**. Audio Assault occasionally runs time-limited pro
 
 > Verify current availability on the product page — time-limited deals can expire without notice.
 
-[**Grab Amp Locker 98 free while it lasts →**](https://rekkerd.org/amp-locker-98-free-amplifier-effect-plugin-by-audio-assault/)
+[**Grab Amp Locker 98 free while it lasts →**](https://audioassault.mx/amplocker98)
 
 ## Alternatives at a Glance
 
@@ -75,7 +75,7 @@ A: Audio Assault's main Amp Locker product features 90+ amp sims, pedals, and ef
 
 Six amp models. Three plugin formats. Three operating systems. Zero dollars. The math is simple — but the 48-hour clock is ticking.
 
-[**Download Amp Locker 98 free before time runs out →**](https://rekkerd.org/amp-locker-98-free-amplifier-effect-plugin-by-audio-assault/)
+[**Download Amp Locker 98 free before time runs out →**](https://audioassault.mx/amplocker98)
 
 ---
 

@@ -12,6 +12,7 @@ const blog = defineCollection({
 			heroImage: z.string().optional(),
 			tags: z.array(z.string()).default([]),
 			affiliate: z.string().optional(),
+			score: z.number().default(0),
 			draft: z.boolean().default(false),
 			dealPrice: z.string().optional(),
 			originalPrice: z.string().optional(),

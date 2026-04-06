@@ -1,45 +1,57 @@
-/* PluginDrop — Dark theme for music producers */
+/* PluginDrop — The Curator's Desk (Dark Editorial) */
 
 :root {
-	--accent: #7c3aed;
-	--accent-light: #a78bfa;
-	--accent-dark: #5b21b6;
-	--accent-gradient: linear-gradient(135deg, #7c3aed, #3b82f6);
-	--bg-primary: #0f0f14;
-	--bg-secondary: #16161d;
-	--bg-card: #1c1c26;
-	--bg-card-hover: #22222e;
-	--text-primary: #f0f0f5;
-	--text-secondary: #9ca3af;
-	--text-muted: #8b8fa0;
-	--border: #2a2a3a;
-	--border-light: #363648;
-	--tag-bg: rgba(124, 58, 237, 0.15);
-	--tag-text: #a78bfa;
-	--free-bg: rgba(16, 185, 129, 0.15);
-	--free-text: #34d399;
-	--sale-bg: rgba(239, 68, 68, 0.15);
-	--sale-text: #f87171;
-	--box-shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
-	--box-shadow-hover: 0 8px 32px rgba(124, 58, 237, 0.2);
-	--radius: 12px;
-	--radius-sm: 8px;
-}
+	/* Fonts */
+	--font-display: "Newsreader", Georgia, "Times New Roman", serif;
+	--font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 
-/* Use system font stack + Atkinson (already bundled) for performance */
-@font-face {
-	font-family: "Atkinson";
-	src: url("/fonts/atkinson-regular.woff") format("woff");
-	font-weight: 400;
-	font-style: normal;
-	font-display: swap;
-}
-@font-face {
-	font-family: "Atkinson";
-	src: url("/fonts/atkinson-bold.woff") format("woff");
-	font-weight: 700;
-	font-style: normal;
-	font-display: swap;
+	/* Surfaces */
+	--bg-base: #131319;
+	--bg-low: #1B1B21;
+	--bg-card: #1F1F25;
+	--bg-card-hover: #2A2930;
+	--bg-highest: #34343B;
+
+	/* Text */
+	--text-primary: #E4E1EA;
+	--text-secondary: #BFC9C5;
+	--text-muted: #89938F;
+
+	/* Accent — muted teal */
+	--accent: #94D3C4;
+	--accent-dark: #6BA89A;
+	--accent-light: #B0EFDF;
+
+	/* Sale/discount — warm amber */
+	--sale: #FFBA45;
+	--sale-dark: #CC8C00;
+
+	/* Free — teal (same as accent) */
+	--free-text: #94D3C4;
+	--free-bg: rgba(148, 211, 196, 0.1);
+
+	/* Sale badges */
+	--sale-text: #FFBA45;
+	--sale-bg: rgba(255, 186, 69, 0.1);
+
+	/* Tags */
+	--tag-bg: rgba(148, 211, 196, 0.08);
+	--tag-text: #94D3C4;
+
+	/* Borders — ghost borders */
+	--border: rgba(63, 73, 70, 0.35);
+	--border-light: rgba(63, 73, 70, 0.2);
+
+	/* Shadows */
+	--box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+	--box-shadow-hover: 0 4px 20px rgba(0, 0, 0, 0.35);
+
+	/* Hover */
+	--accent-border-hover: rgba(148, 211, 196, 0.25);
+
+	/* Shapes */
+	--radius: 4px;
+	--radius-sm: 2px;
 }
 
 *, *::before, *::after {
@@ -47,10 +59,10 @@
 }
 
 body {
-	font-family: "Atkinson", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+	font-family: var(--font-body);
 	margin: 0;
 	padding: 0;
-	background: var(--bg-primary);
+	background: var(--bg-base);
 	color: var(--text-primary);
 	font-size: 16px;
 	line-height: 1.7;
@@ -70,18 +82,22 @@ h1, h2, h3, h4, h5, h6 {
 	line-height: 1.25;
 	font-weight: 700;
 }
+h1, h2, h3 {
+	font-family: var(--font-display);
+	font-weight: 500;
+}
 h1 { font-size: 2.25rem; }
 h2 { font-size: 1.75rem; }
 h3 { font-size: 1.375rem; }
 h4 { font-size: 1.125rem; }
 
 a {
-	color: var(--accent-light);
+	color: var(--accent);
 	text-decoration: none;
 	transition: color 0.2s ease;
 }
 a:hover {
-	color: var(--accent);
+	color: var(--accent-light);
 }
 
 p { margin-bottom: 1em; }
@@ -95,7 +111,7 @@ img {
 	border-radius: var(--radius);
 }
 
-/* Tables — responsive with horizontal scroll */
+/* Tables */
 .table-wrap {
 	overflow-x: auto;
 	-webkit-overflow-scrolling: touch;
@@ -113,7 +129,7 @@ th, td {
 	border-bottom: 1px solid var(--border);
 }
 th {
-	background: var(--bg-card);
+	background: var(--bg-low);
 	font-weight: 700;
 	color: var(--text-primary);
 	white-space: nowrap;
@@ -128,15 +144,15 @@ tr:hover td {
 /* Code */
 code {
 	padding: 2px 6px;
-	background-color: var(--bg-card);
-	border-radius: 4px;
+	background-color: var(--bg-low);
+	border-radius: 3px;
 	font-size: 0.875em;
-	color: var(--accent-light);
+	color: var(--accent);
 }
 pre {
 	padding: 1.25em;
 	border-radius: var(--radius-sm);
-	background: var(--bg-card) !important;
+	background: var(--bg-low) !important;
 	border: 1px solid var(--border);
 	overflow-x: auto;
 }
@@ -144,9 +160,9 @@ pre > code {
 	all: unset;
 }
 
-/* Blockquote — subtle affiliate disclaimer */
+/* Blockquote — affiliate disclaimer */
 blockquote {
-	border-left: 3px solid var(--border-light);
+	border-left: 2px solid var(--accent-dark);
 	padding: 0.5rem 1rem;
 	margin: 0 0 1.5rem 0;
 	color: var(--text-muted);
@@ -182,14 +198,14 @@ hr {
 /* Tags */
 .tag {
 	display: inline-block;
-	padding: 0.2em 0.6em;
+	padding: 0.18em 0.6em;
 	background: var(--tag-bg);
 	color: var(--tag-text);
-	border-radius: 999px;
-	font-size: 0.75rem;
+	border-radius: 2px;
+	font-size: 0.65rem;
 	font-weight: 700;
 	text-transform: uppercase;
-	letter-spacing: 0.03em;
+	letter-spacing: 0.08em;
 }
 .tag.free {
 	background: var(--free-bg);
@@ -200,78 +216,82 @@ hr {
 	color: var(--sale-text);
 }
 
-/* ── Deal CTA Box (top of article) ────────────────────── */
+/* ── Deal CTA Box (product widget style) ──────────────────── */
 .deal-cta-box {
 	background: var(--bg-card);
-	border: 1px solid var(--border-light);
+	border: 1px solid var(--border);
 	border-radius: var(--radius);
-	padding: 1.25rem 1.5rem;
+	padding: 1.5rem;
 	margin-bottom: 2rem;
+	box-shadow: var(--box-shadow);
+}
+.deal-cta-box .deal-price-row {
 	display: flex;
-	align-items: center;
-	justify-content: space-between;
-	gap: 1rem;
+	align-items: baseline;
+	gap: 0.75rem;
+	margin-bottom: 0.4rem;
 	flex-wrap: wrap;
 }
-.deal-cta-box .deal-info {
-	display: flex;
-	flex-direction: column;
-	gap: 0.25rem;
-}
-.deal-cta-box .deal-price {
-	font-size: 1.5rem;
-	font-weight: 700;
+.deal-cta-box .deal-price-current {
+	font-size: 2rem;
+	font-weight: 800;
 	color: var(--text-primary);
+	letter-spacing: -0.03em;
+	line-height: 1;
 }
-.deal-cta-box .deal-price .original {
-	font-size: 0.9rem;
+.deal-cta-box .deal-price-current.is-free {
+	color: var(--free-text);
+	font-family: var(--font-body);
+	letter-spacing: 0;
+}
+.deal-cta-box .deal-price-original {
+	font-size: 1rem;
 	color: var(--text-muted);
 	text-decoration: line-through;
-	margin-right: 0.5rem;
 	font-weight: 400;
 }
-.deal-cta-box .deal-price .discount-badge {
+.deal-cta-box .deal-save-badge {
 	display: inline-block;
-	padding: 0.15em 0.5em;
+	padding: 0.2em 0.6em;
 	background: var(--sale-bg);
 	color: var(--sale-text);
-	border-radius: 4px;
+	border-radius: 2px;
 	font-size: 0.75rem;
-	font-weight: 700;
-	margin-left: 0.5rem;
-	vertical-align: middle;
+	font-weight: 800;
+	letter-spacing: 0.01em;
 }
-.deal-cta-box .deal-price .free-badge {
-	display: inline-block;
-	padding: 0.15em 0.5em;
+.deal-cta-box .deal-save-badge.is-free {
 	background: var(--free-bg);
 	color: var(--free-text);
-	border-radius: 4px;
-	font-size: 0.75rem;
-	font-weight: 700;
-	margin-left: 0.5rem;
-	vertical-align: middle;
 }
 .deal-cta-box .deal-source {
 	font-size: 0.8rem;
 	color: var(--text-muted);
+	margin-bottom: 1rem;
 }
 .deal-cta-btn {
-	display: inline-block;
-	padding: 0.75rem 1.75rem;
-	background: var(--accent-gradient);
-	color: white !important;
+	display: block;
+	width: 100%;
+	padding: 0.875rem 1.75rem;
+	background: var(--accent-dark);
+	color: var(--bg-base) !important;
 	border-radius: var(--radius-sm);
 	font-weight: 700;
 	font-size: 1rem;
 	white-space: nowrap;
-	transition: transform 0.15s ease, box-shadow 0.15s ease;
+	transition: background 0.15s ease, box-shadow 0.15s ease;
 	text-decoration: none;
+	text-align: center;
 }
 .deal-cta-btn:hover {
-	transform: translateY(-1px);
-	box-shadow: 0 4px 20px rgba(124, 58, 237, 0.4);
-	color: white !important;
+	background: var(--accent);
+	color: var(--bg-base) !important;
+}
+.deal-cta-box .deal-note {
+	text-align: center;
+	font-size: 0.75rem;
+	color: var(--text-muted);
+	margin-top: 0.6rem;
 }
 
 /* ── Inline CTA in article (affiliate links) ──────────── */
@@ -282,18 +302,35 @@ hr {
 .prose a[href*="waves.com"],
 .prose a[href*="sweetwater"],
 .prose a[href*="pluginfox"],
+.prose a[href*="thomann.de"],
+.prose a[href*="kvraudio.com"],
+.prose a[href*="gumroad.com"],
+.prose a[href*="cherryaudio.com"],
+.prose a[href*="ghosthack.de"],
+.prose a[href*="veryloudindeed.com"],
+.prose a[href*="triplespiralaudio.com"],
+.prose a[href*="ugritone.com"],
+.prose a[href*="flamesound.com"],
+.prose a[href*="urbankits.com"],
+.prose a[href*="plugin-alliance.com"],
+.prose a[href*="native-instruments.com"],
+.prose a[href*="ikmultimedia.com"],
+.prose a[href*="izotope.com"],
+.prose a[href*="uaudio.com"],
+.prose a[href*="arturia.com"],
 .prose a[href*="utm_source=affiliate"],
 .prose a[href*="ref="],
 .prose a[href*="a_aid="] {
 	display: inline-block;
-	padding: 0.4em 1.1em;
-	background: var(--accent-gradient);
-	color: white !important;
+	padding: 0.35em 1em;
+	background: var(--accent-dark);
+	color: var(--bg-base) !important;
 	border-radius: var(--radius-sm);
 	font-weight: 700;
-	font-size: 0.9rem;
-	transition: transform 0.15s ease, box-shadow 0.15s ease;
+	font-size: 0.875rem;
+	transition: background 0.15s ease;
 	margin: 0.25em 0;
+	text-decoration: none;
 }
 .prose a[href*="pluginboutique"]:hover,
 .prose a[href*="adsrsounds"]:hover,
@@ -302,11 +339,27 @@ hr {
 .prose a[href*="waves.com"]:hover,
 .prose a[href*="sweetwater"]:hover,
 .prose a[href*="pluginfox"]:hover,
+.prose a[href*="thomann.de"]:hover,
+.prose a[href*="kvraudio.com"]:hover,
+.prose a[href*="gumroad.com"]:hover,
+.prose a[href*="cherryaudio.com"]:hover,
+.prose a[href*="ghosthack.de"]:hover,
+.prose a[href*="veryloudindeed.com"]:hover,
+.prose a[href*="triplespiralaudio.com"]:hover,
+.prose a[href*="ugritone.com"]:hover,
+.prose a[href*="flamesound.com"]:hover,
+.prose a[href*="urbankits.com"]:hover,
+.prose a[href*="plugin-alliance.com"]:hover,
+.prose a[href*="native-instruments.com"]:hover,
+.prose a[href*="ikmultimedia.com"]:hover,
+.prose a[href*="izotope.com"]:hover,
+.prose a[href*="uaudio.com"]:hover,
+.prose a[href*="arturia.com"]:hover,
 .prose a[href*="utm_source=affiliate"]:hover,
 .prose a[href*="ref="]:hover,
 .prose a[href*="a_aid="]:hover {
-	transform: translateY(-1px);
-	box-shadow: 0 4px 16px rgba(124, 58, 237, 0.4);
+	background: var(--accent);
+	color: var(--bg-base) !important;
 }
 
 /* ── Breadcrumb ──────────────────────────────────────── */
@@ -322,7 +375,7 @@ hr {
 	color: var(--text-muted);
 }
 .breadcrumb a:hover {
-	color: var(--accent-light);
+	color: var(--accent);
 }
 .breadcrumb .sep {
 	opacity: 0.5;
@@ -340,9 +393,9 @@ hr {
 		left: 0;
 		right: 0;
 		z-index: 99;
-		background: rgba(15, 15, 20, 0.95);
-		backdrop-filter: blur(8px);
-		-webkit-backdrop-filter: blur(8px);
+		background: rgba(19, 19, 25, 0.95);
+		backdrop-filter: blur(10px);
+		-webkit-backdrop-filter: blur(10px);
 		border-top: 1px solid var(--border);
 		padding: 0.75rem 1rem;
 		align-items: center;
@@ -360,11 +413,14 @@ hr {
 		min-width: 0;
 	}
 	.sticky-cta .deal-cta-btn {
+		display: inline-block;
+		width: auto;
 		padding: 0.5rem 1.25rem;
 		font-size: 0.85rem;
 		flex-shrink: 0;
 	}
-	/* Add padding to body to prevent content being hidden by sticky bar */
+}
+@media (max-width: 720px) {
 	body:has(.sticky-cta) {
 		padding-bottom: 60px;
 	}
@@ -373,8 +429,8 @@ hr {
 /* ── TL;DR highlight box ──────────────────────────────── */
 .prose > p:first-of-type:has(strong) {
 	background: var(--bg-card);
-	border: 1px solid var(--border-light);
-	border-left: 4px solid var(--accent);
+	border: 1px solid var(--border);
+	border-left: 2px solid var(--accent-dark);
 	border-radius: var(--radius-sm);
 	padding: 1rem 1.25rem;
 	margin-bottom: 2rem;
@@ -391,7 +447,7 @@ hr {
 }
 .card-price .price-deal {
 	font-size: 1.1rem;
-	font-weight: 700;
+	font-weight: 800;
 	color: var(--free-text);
 }
 .card-price .price-original {
@@ -400,9 +456,12 @@ hr {
 	text-decoration: line-through;
 }
 .card-price .price-discount {
-	font-size: 0.75rem;
-	font-weight: 700;
+	font-size: 0.7rem;
+	font-weight: 800;
 	color: var(--sale-text);
+	background: var(--sale-bg);
+	padding: 0.1em 0.4em;
+	border-radius: 2px;
 }
 
 /* Responsive */
@@ -412,21 +471,19 @@ hr {
 	h1 { font-size: 1.75rem; }
 	h2 { font-size: 1.375rem; }
 	.deal-cta-box {
-		flex-direction: column;
-		align-items: stretch;
-		text-align: center;
+		padding: 1.25rem;
 	}
 }
 
-/* Focus styles for keyboard navigation (WCAG 2.4.7) */
+/* Focus styles (WCAG 2.4.7) */
 a:focus-visible,
 button:focus-visible,
 [role="button"]:focus-visible {
-	outline: 2px solid var(--accent-light);
+	outline: 2px solid var(--accent);
 	outline-offset: 2px;
 }
 
-/* Skip nav becomes visible on focus */
+/* Skip nav */
 .sr-only:focus {
 	position: static !important;
 	width: auto;
@@ -436,7 +493,6 @@ button:focus-visible,
 	overflow: visible;
 	white-space: normal;
 }
-
 .sr-only {
 	border: 0; padding: 0; margin: 0;
 	position: absolute !important;

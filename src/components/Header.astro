@@ -8,9 +8,12 @@ import HeaderLink from './HeaderLink.astro';
 		<a href="/" class="logo">
 			<img src="/images/logo.png" alt="PluginDrop" class="logo-icon" width="32" height="32" />
 			<span class="logo-text">{SITE_TITLE}</span>
+			<span class="freshness">&#9679; Updated daily</span>
 		</a>
 		<div class="nav-links">
-			<HeaderLink href="/posts">Deals</HeaderLink>
+			<HeaderLink href="/posts">All Deals</HeaderLink>
+			<a href="/posts?filter=free" class="nav-badge free">Free</a>
+			<a href="/posts?filter=sale" class="nav-badge sale">Sales</a>
 			<HeaderLink href="/about">About</HeaderLink>
 		</div>
 	</nav>
@@ -20,9 +23,9 @@ import HeaderLink from './HeaderLink.astro';
 		position: sticky;
 		top: 0;
 		z-index: 100;
-		background: rgba(15, 15, 20, 0.85);
-		backdrop-filter: blur(12px);
-		-webkit-backdrop-filter: blur(12px);
+		background: rgba(19, 19, 25, 0.85);
+		backdrop-filter: blur(20px);
+		-webkit-backdrop-filter: blur(20px);
 		border-bottom: 1px solid var(--border);
 		padding: 0 1.5rem;
 	}
@@ -32,7 +35,7 @@ import HeaderLink from './HeaderLink.astro';
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
-		height: 64px;
+		height: 56px;
 	}
 	.logo {
 		display: flex;
@@ -42,32 +45,81 @@ import HeaderLink from './HeaderLink.astro';
 		color: var(--text-primary);
 	}
 	.logo-icon {
-		width: 32px;
-		height: 32px;
+		width: 26px;
+		height: 26px;
 		border-radius: 4px;
 	}
 	.logo-text {
-		font-size: 1.25rem;
-		font-weight: 700;
-		letter-spacing: -0.02em;
+		font-size: 1.1rem;
+		font-weight: 800;
+		letter-spacing: -0.025em;
+		color: var(--text-primary);
+	}
+	.freshness {
+		font-size: 0.68rem;
+		color: var(--accent-dark);
+		font-weight: 600;
+		letter-spacing: 0.02em;
+		padding-left: 0.5rem;
+		border-left: 1px solid var(--border);
+		margin-left: 0.25rem;
 	}
 	.nav-links {
 		display: flex;
 		align-items: center;
-		gap: 0.25rem;
+		gap: 0.15rem;
+	}
+	@media (max-width: 640px) {
+		.freshness { display: none; }
 	}
 	.nav-links a {
-		padding: 0.5rem 1rem;
-		color: var(--text-secondary);
-		font-size: 0.9rem;
-		font-weight: 500;
+		padding: 0.4rem 0.8rem;
+		color: var(--text-muted);
+		font-size: 0.875rem;
+		font-weight: 600;
 		border-radius: var(--radius-sm);
-		transition: color 0.2s, background 0.2s;
+		transition: color 0.15s, background 0.15s;
 		text-decoration: none;
 	}
 	.nav-links a:hover,
 	.nav-links a.active {
 		color: var(--text-primary);
 		background: var(--bg-card);
+	}
+	.nav-badge {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.3rem;
+		font-size: 0.78rem !important;
+		font-weight: 700 !important;
+		padding: 0.3rem 0.65rem !important;
+		border-radius: 2px !important;
+	}
+	.nav-badge::before {
+		content: '';
+		display: block;
+		width: 5px;
+		height: 5px;
+		border-radius: 50%;
+		flex-shrink: 0;
+	}
+	.nav-badge.free::before { background: var(--free-text); }
+	.nav-badge.sale::before { background: var(--sale-text); }
+	.nav-badge.free {
+		color: var(--free-text) !important;
+		background: var(--free-bg) !important;
+	}
+	.nav-badge.sale {
+		color: var(--sale-text) !important;
+		background: var(--sale-bg) !important;
+	}
+	.nav-badge.free:hover {
+		background: rgba(148, 211, 196, 0.18) !important;
+	}
+	.nav-badge.sale:hover {
+		background: rgba(255, 186, 69, 0.18) !important;
+	}
+	@media (max-width: 480px) {
+		.nav-badge { display: none; }
 	}
 </style>

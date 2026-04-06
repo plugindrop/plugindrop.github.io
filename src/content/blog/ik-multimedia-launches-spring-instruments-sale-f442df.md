@@ -11,7 +11,7 @@ draft: false
 ---
 I have enough factual details from the source to write this article. Since the source doesn't provide specific regular prices or exact discount percentages, I'll note that readers should check the product page for exact pricing — no fabricated numbers.
 
-**TL;DR:** IK Multimedia's Spring Instruments Sale is live through April 30, 2026, with collections starting from just **$29.99**. Covering everything from physically modeled bass and drums to orchestral libraries and classic organ emulations, this is one of IK's biggest instrument discounts of the year — part of their 30th anniversary celebration. [Grab the deal before it ends](https://rekkerd.org/ik-multimedia-launches-spring-virtual-instruments-sale/).
+**TL;DR:** IK Multimedia's Spring Instruments Sale is live through April 30, 2026, with collections starting from just **$29.99**. Covering everything from physically modeled bass and drums to orchestral libraries and classic organ emulations, this is one of IK's biggest instrument discounts of the year — part of their 30th anniversary celebration. [Grab the deal before it ends](https://www.ikmultimedia.com/news/?id=SpringVISale2025).
 
 ## What Is the IK Multimedia Spring Instruments Sale?
 
@@ -48,7 +48,7 @@ IK Multimedia doesn't run instrument-wide sales at this level frequently — the
 
 > **Note:** Verify current pricing on the product page — deals can change, and individual product prices vary. The $29.99 starting price refers to collections, not necessarily full standalone instruments.
 
-[Check all sale prices at the deal page](https://rekkerd.org/ik-multimedia-launches-spring-virtual-instruments-sale/).
+[Check all sale prices at the deal page](https://www.ikmultimedia.com/news/?id=SpringVISale2025).
 
 ## Alternatives at a Glance
 
@@ -78,7 +78,7 @@ A: IK Multimedia often offers crossgrade and upgrade pricing. Check their store 
 
 Collections starting at $29.99 across five flagship instruments — during IK's 30th anniversary — is a strong entry point. This sale ends April 30, 2026, so there's no rush to impulse-buy, but don't sleep on it either.
 
-[See the full Spring Instruments Sale lineup here](https://rekkerd.org/ik-multimedia-launches-spring-virtual-instruments-sale/).
+[See the full Spring Instruments Sale lineup here](https://www.ikmultimedia.com/news/?id=SpringVISale2025).
 
 ---
 

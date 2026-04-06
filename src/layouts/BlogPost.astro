@@ -10,6 +10,21 @@ type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?:
 
 const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, readingTime = '3 min read', rawBody = '' } = Astro.props;
 const imageStr = typeof heroImage === 'string' ? heroImage : undefined;
+
+// Derive store name from affiliate URL for display in deal CTA box
+function getDealSource(url: string): string {
+	if (!url) return '';
+	if (url.includes('pluginboutique.com')) return 'Plugin Boutique';
+	if (url.includes('kvraudio.com')) return 'KVR Audio';
+	if (url.includes('adsrsounds.com')) return 'ADSR Sounds';
+	if (url.includes('loopmasters.com')) return 'Loopmasters';
+	if (url.includes('splice.com')) return 'Splice';
+	if (url.includes('sweetwater.com')) return 'Sweetwater';
+	if (url.includes('thomann.de')) return 'Thomann';
+	if (url.includes('waves.com')) return 'Waves';
+	try { return new URL(url).hostname.replace('www.', ''); } catch { return ''; }
+}
+const dealSource = affiliate ? getDealSource(affiliate) : '';
 const resolvedImage = imageStr ? new URL(imageStr, Astro.site).href : undefined;
 const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
 
@@ -96,7 +111,9 @@ const faqLD = faqPairs.length > 0 ? {
 			}
 			.article-header h1 {
 				margin: 0 0 0.75rem 0;
+				font-family: var(--font-display);
 				font-size: 2rem;
+				font-weight: 500;
 				line-height: 1.2;
 			}
 			.meta {
@@ -123,6 +140,33 @@ const faqLD = faqPairs.length > 0 ? {
 			.prose :global(h1:first-of-type) {
 				display: none;
 			}
+			.affiliate-disclosure {
+				margin-top: 2.5rem;
+				padding: 0.75rem 0;
+				border-top: 1px solid var(--border);
+			}
+			.affiliate-disclosure p {
+				font-size: 0.78rem;
+				color: var(--text-muted);
+				margin: 0;
+			}
+			.video-embed {
+				position: relative;
+				width: 100%;
+				padding-bottom: 56.25%; /* 16:9 */
+				height: 0;
+				overflow: hidden;
+				border-radius: var(--radius);
+				margin: 1.5rem 0;
+			}
+			.video-embed iframe {
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				border: 0;
+			}
 			@media (max-width: 720px) {
 				.article-header h1 { font-size: 1.5rem; }
 				.hero-image { padding: 1rem 0.5rem 0; }
@@ -145,12 +189,17 @@ const faqLD = faqPairs.length > 0 ? {
 						p.style.display = 'none';
 					}
 				});
+				// Open external links in new tab
+				document.querySelectorAll('.prose a[href^="http"]').forEach(link => {
+					link.setAttribute('target', '_blank');
+					link.setAttribute('rel', 'noopener noreferrer');
+				});
 			});
 		</script>
 	</head>
 
 	<body>
-		<a href="#main-content" class="sr-only" style="position:absolute;top:0;left:0;z-index:999;padding:1rem;background:var(--bg-primary);color:var(--accent-light);">Skip to content</a>
+		<a href="#main-content" class="sr-only" style="position:absolute;top:0;left:0;z-index:999;padding:1rem;background:var(--bg-base);color:var(--accent-light);">Skip to content</a>
 		<Header />
 		<main id="main-content">
 			<article>
@@ -192,26 +241,32 @@ const faqLD = faqPairs.length > 0 ? {
 						</div>
 					</div>
 
-					{/* Deal CTA Box — shown when article has a deal price + affiliate link */}
+					{/* Deal CTA Box — product widget style */}
 					{dealPrice && affiliate && (
 						<div class="deal-cta-box">
-							<div class="deal-info">
-								<div class="deal-price">
-									{originalPrice && <span class="original">{originalPrice}</span>}
-									{dealPrice}
-									{discount && <span class={dealPrice === 'FREE' ? 'free-badge' : 'discount-badge'}>{discount}</span>}
-									{!discount && dealPrice === 'FREE' && <span class="free-badge">FREE</span>}
-								</div>
-								<div class="deal-source">via Plugin Boutique — limited time offer</div>
+							<div class="deal-price-row">
+								{originalPrice && <span class="deal-price-original">{originalPrice}</span>}
+								<span class={`deal-price-current${dealPrice === 'FREE' ? ' is-free' : ''}`}>{dealPrice}</span>
+								{discount && (
+									<span class={`deal-save-badge${dealPrice === 'FREE' ? ' is-free' : ''}`}>{discount}</span>
+								)}
 							</div>
+							{dealSource && (
+								<div class="deal-source">Available via {dealSource}</div>
+							)}
 							<a href={affiliate} class="deal-cta-btn" target="_blank" rel="noopener noreferrer nofollow">
-								{dealPrice === 'FREE' ? 'Get It Free →' : 'Get This Deal →'}
+								{dealPrice === 'FREE' ? 'Get It Free \u2192' : 'Get This Deal \u2192'}
 							</a>
+							<p class="deal-note">Opens affiliate link &mdash; no extra cost to you</p>
 						</div>
 					)}
 
 					<!-- Article content (from markdown) -->
 					<slot />
+
+					<div class="affiliate-disclosure">
+						<p>This post contains affiliate links. We may earn a small commission at no extra cost to you.</p>
+					</div>
 				</div>
 			</article>
 		</main>

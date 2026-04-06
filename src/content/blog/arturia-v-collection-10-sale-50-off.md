@@ -3,7 +3,7 @@ title: "Arturia V Collection 10 — 50% Off Sale"
 description: "Arturia V Collection 10 is 50% off — save $300. That's 39 modeled vintage instruments at ~$7.67 each. Full breakdown and alternatives."
 pubDate: "2026-03-28T10:30:00Z"
 tags: ["sale", "synthesizer", "plugin"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11747-V-Collection-X"
+affiliate: "https://www.pluginboutique.com/products/11747-V-Collection-X"
 heroImage: "/images/heroes/arturia-v-collection.jpg"
 dealPrice: "$299"
 originalPrice: "$599"
@@ -11,7 +11,7 @@ discount: "50% OFF"
 draft: false
 ---
 
-**TL;DR:** Arturia V Collection 10 — ~~$599~~ **$299**. Save $300. That's 39 modeled vintage instruments at roughly **$7.67 each.** Minimoog, Jupiter-8, Prophet-5, DX7, and 35 more. [See the deal](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11747-V-Collection-X).
+**TL;DR:** Arturia V Collection 10 — ~~$599~~ **$299**. Save $300. That's 39 modeled vintage instruments at roughly **$7.67 each.** Minimoog, Jupiter-8, Prophet-5, DX7, and 35 more. [See the deal](https://www.pluginboutique.com/products/11747-V-Collection-X).
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/n46hnnvQ2t8" title="Arturia V Collection — Official Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin-bottom:1.5rem"></iframe>
 
@@ -56,7 +56,7 @@ V Collection is a common recommendation in "best plugin bundle" threads on Reddi
 
 **Important:** Pigments (Arturia's wavetable/virtual analog synth) is **not included** in V Collection. It's sold separately. Upgrade pricing is available for existing Arturia customers. Verify current pricing on the product page.
 
-[See V Collection 10 Deal](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11747-V-Collection-X)
+[See V Collection 10 Deal](https://www.pluginboutique.com/products/11747-V-Collection-X)
 
 ## Alternatives at a Glance
 
@@ -92,4 +92,4 @@ A: Check the official Arturia site for current download and install size require
 
 39 instruments. ~~$599~~ $299. $7.67 each. Pigments not included.
 
-[Check the V Collection 10 Deal](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11747-V-Collection-X)
+[Check the V Collection 10 Deal](https://www.pluginboutique.com/products/11747-V-Collection-X)

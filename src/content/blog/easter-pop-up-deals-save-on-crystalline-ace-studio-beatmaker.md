@@ -7,9 +7,9 @@ affiliate: "https://www.pluginboutique.com/deals"
 heroImage: "/images/easter-pop-up-deals-save-on-crystalline-ace-studio-beatmaker.jpg"
 score: 5.76
 dealPrice: "$29"
-draft: false
+draft: true
 ---
-**TL;DR:** Easter Pop-Up Deals are live April 2–6 with up to 84% off over 500 music production plugins. Highlights include Baby Audio Crystalline at $29, UJAM Beatmaker Vice at just $9, and Sunset Sound Studio Reverb at $29.99. These are limited-time flash prices — [grab the deals before they expire](https://rekkerd.org/easter-pop-up-deals-save-on-crystalline-ace-studio-beatmaker-vice-sunset-sound-studio-reverb-more/).
+**TL;DR:** Easter Pop-Up Deals are live April 2–6 with up to 84% off over 500 music production plugins. Highlights include Baby Audio Crystalline at $29, UJAM Beatmaker Vice at just $9, and Sunset Sound Studio Reverb at $29.99. These are limited-time flash prices — [grab the deals before they expire](https://www.pluginboutique.com/deals).
 
 ## What's in the Easter Pop-Up Sale?
 
@@ -52,7 +52,7 @@ Sunset Sound Studio Reverb benefits from IK Multimedia's track record with studi
 
 The sale runs **April 2–6, 2026** only. Over 500 additional products are available at base pricing during the promotion. Verify current pricing on the product page — deals can change without notice.
 
-[Browse all Easter Pop-Up Deals →](https://rekkerd.org/easter-pop-up-deals-save-on-crystalline-ace-studio-beatmaker-vice-sunset-sound-studio-reverb-more/)
+[Browse all Easter Pop-Up Deals →](https://www.pluginboutique.com/deals)
 
 ## Alternatives at a Glance
 
@@ -82,7 +82,7 @@ A: Licensing terms for AI-generated vocals vary — check Ace Studio's official 
 
 ## Get the Deal
 
-Five days. Up to 84% off. Plugins starting at $9. The Easter Pop-Up sale won't be around next week — [see all the deals here before they're gone](https://rekkerd.org/easter-pop-up-deals-save-on-crystalline-ace-studio-beatmaker-vice-sunset-sound-studio-reverb-more/).
+Five days. Up to 84% off. Plugins starting at $9. The Easter Pop-Up sale won't be around next week — [see all the deals here before they're gone](https://www.pluginboutique.com/deals).
 
 ---
 

@@ -6,12 +6,57 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
-const posts = (await getCollection('blog'))
+const allPosts = (await getCollection('blog'))
 	.filter((p) => !p.data.draft)
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-const latestPost = posts[0];
-const recentPosts = posts.slice(1, 7);
+function hasHeroImage(post: any): boolean {
+	return typeof post.data.heroImage === 'string' && post.data.heroImage.startsWith('/images/heroes/');
+}
+
+function getStoreName(url: string | undefined): string {
+	if (!url) return '';
+	if (url.includes('pluginboutique.com')) return 'Plugin Boutique';
+	if (url.includes('kvraudio.com')) return 'KVR Audio';
+	if (url.includes('adsrsounds.com')) return 'ADSR Sounds';
+	if (url.includes('loopmasters.com')) return 'Loopmasters';
+	if (url.includes('splice.com')) return 'Splice';
+	if (url.includes('sweetwater.com')) return 'Sweetwater';
+	if (url.includes('thomann.de')) return 'Thomann';
+	if (url.includes('waves.com')) return 'Waves';
+	if (url.includes('native-instruments.com')) return 'Native Instruments';
+	if (url.includes('arturia.com')) return 'Arturia';
+	if (url.includes('izotope.com')) return 'iZotope';
+	if (url.includes('plugin-alliance.com')) return 'Plugin Alliance';
+	try { return new URL(url).hostname.replace('www.', ''); } catch { return ''; }
+}
+
+function isNew(date: Date): boolean {
+	return (Date.now() - date.getTime()) < 4 * 24 * 60 * 60 * 1000;
+}
+
+const heroPosts = allPosts.filter(hasHeroImage);
+const latestPost = heroPosts[0];
+
+// Latest Free Deals — not "this week" to avoid stale label; just most recent free posts
+const freeDeals = allPosts
+	.filter(p => p.data.dealPrice === 'FREE' || p.data.tags?.includes('free'))
+	.slice(0, 4);
+
+// Top Deals — scored, with hero image
+const topDeals = heroPosts
+	.filter(p => p.data.dealPrice || p.data.originalPrice)
+	.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
+	.slice(0, 4);
+
+const topIds = new Set([latestPost?.id, ...topDeals.map(p => p.id), ...freeDeals.map(p => p.id)]);
+
+// Recent Deals — hero-image posts not yet shown
+const recentDeals = heroPosts
+	.filter(p => !topIds.has(p.id))
+	.slice(0, 6);
+
+const totalDeals = allPosts.length;
 ---
 
 <!doctype html>
@@ -20,278 +65,516 @@ const recentPosts = posts.slice(1, 7);
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 	</head>
 	<body>
+		<a href="#main-content" class="sr-only">Skip to content</a>
 		<Header />
-		<main>
-			<!-- Hero Section -->
-			<section class="hero">
-				<div class="hero-overlay">
-					<img src="/images/logo.png" alt="PluginDrop" class="hero-logo" width="64" height="64" />
-					<div class="hero-badge">VST Plugin Deals</div>
-					<h1>Never miss a plugin deal again.</h1>
+		<main id="main-content">
+
+			<!-- ── Compact Editorial Hero ─────────────────── -->
+			<section class="hero-strip">
+				<div class="hero-headline-wrap">
+					<h1 class="hero-headline">Plugin deals, verified daily.</h1>
 					<p class="hero-sub">
-						Free plugins, flash sales & bundle deals — curated daily for producers who'd rather make music than hunt for discounts.
+						Prices, specs &amp; community takes &mdash; no hype, no fake reviews.
 					</p>
-					<a href="/posts" class="hero-cta">Browse Latest Deals &rarr;</a>
 				</div>
 			</section>
 
-			<!-- Latest Deal (featured) -->
+			<!-- ── Latest Drop ────────────────────────────── -->
 			{latestPost && (
-				<section class="featured">
-					<h2 class="section-title">Latest Drop</h2>
-					<a href={`/posts/${latestPost.id}/`} class="featured-card">
-						{typeof latestPost.data.heroImage === 'string' && (
+				<section class="section">
+					<header class="section-hd">
+						<span class="section-label">Latest Drop</span>
+						<FormattedDate date={latestPost.data.pubDate} />
+					</header>
+					<a
+						href={`/posts/${latestPost.id}/`}
+						class="feature-card"
+						aria-label={`View deal: ${latestPost.data.title}`}
+					>
+						<div class="feature-img">
 							<img src={latestPost.data.heroImage} alt={latestPost.data.title} loading="eager" />
-						)}
-						<div class="featured-content">
-							<div class="featured-meta">
-								<FormattedDate date={latestPost.data.pubDate} />
-								{latestPost.data.tags?.map((tag: string) => (
-									<span class={`tag ${tag === 'free' ? 'free' : tag === 'sale' ? 'sale' : ''}`}>{tag}</span>
-								))}
-							</div>
-							<h3>{latestPost.data.title}</h3>
-							<p>{latestPost.data.description}</p>
-							{(latestPost.data.dealPrice || latestPost.data.originalPrice) && (
-								<div class="card-price">
-									{latestPost.data.dealPrice && <span class="price-deal">{latestPost.data.dealPrice}</span>}
-									{latestPost.data.originalPrice && <span class="price-original">{latestPost.data.originalPrice}</span>}
-									{latestPost.data.discount && <span class="price-discount">{latestPost.data.discount}</span>}
+							{latestPost.data.discount && <span class="bdg-discount">{latestPost.data.discount}</span>}
+							{isNew(latestPost.data.pubDate) && <span class="bdg-new">NEW</span>}
+						</div>
+						<div class="feature-body">
+							{latestPost.data.tags?.length > 0 && (
+								<div class="tag-row">
+									{latestPost.data.tags.slice(0, 2).map((t: string) => (
+										<span class={`tag ${t === 'free' ? 'free' : t === 'sale' ? 'sale' : ''}`}>{t}</span>
+									))}
 								</div>
 							)}
+							<h2 class="feature-title">{latestPost.data.title}</h2>
+							<p class="feature-desc">{latestPost.data.description}</p>
+							{(latestPost.data.dealPrice || latestPost.data.originalPrice) && (
+								<div class="price-cluster">
+									{latestPost.data.originalPrice && <s class="price-was">{latestPost.data.originalPrice}</s>}
+									{latestPost.data.dealPrice && (
+										<strong class={`price-now ${latestPost.data.dealPrice === 'FREE' ? 'is-free' : ''}`}>
+											{latestPost.data.dealPrice}
+										</strong>
+									)}
+								</div>
+							)}
+							{latestPost.data.affiliate && (
+								<span class="via-store">via {getStoreName(latestPost.data.affiliate)}</span>
+							)}
+							<span class="feature-cta" aria-hidden="true">Read more &rarr;</span>
 						</div>
 					</a>
 				</section>
 			)}
 
-			<!-- Recent Deals Grid -->
-			{recentPosts.length > 0 && (
-				<section class="recent">
-					<h2 class="section-title">Recent Deals</h2>
-					<div class="grid">
-						{recentPosts.map((post) => (
-							<a href={`/posts/${post.id}/`} class="card">
-								{typeof post.data.heroImage === 'string' && (
-									<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
-								)}
-								<div class="card-body">
-									<div class="card-meta">
-										<FormattedDate date={post.data.pubDate} />
+			<!-- ── Latest Free Deals ──────────────────────── -->
+			{freeDeals.length > 0 && (
+				<section class="section">
+					<header class="section-hd">
+						<span class="section-label section-label--free">Latest Free Deals</span>
+						<a href="/posts?filter=free" class="section-more">See all free &rarr;</a>
+					</header>
+					<div class="free-strip">
+						{freeDeals.map(post => (
+							<a href={`/posts/${post.id}/`} class="free-card">
+								{post.data.heroImage && (
+									<div class="free-img-wrap">
+										<img
+											src={post.data.heroImage}
+											alt={post.data.title}
+											loading="lazy"
+											onerror="this.closest('.free-img-wrap').style.display='none'"
+										/>
 									</div>
+								)}
+								<div class="free-body">
+									<span class="tag free">FREE</span>
 									<h4>{post.data.title}</h4>
-								{(post.data.dealPrice || post.data.originalPrice) && (
-										<div class="card-price">
-											{post.data.dealPrice && <span class="price-deal">{post.data.dealPrice}</span>}
-											{post.data.originalPrice && <span class="price-original">{post.data.originalPrice}</span>}
-											{post.data.discount && <span class="price-discount">{post.data.discount}</span>}
-										</div>
-									)}
-									{post.data.tags?.length > 0 && (
-										<div class="card-tags">
-											{post.data.tags.slice(0, 3).map((tag: string) => (
-												<span class={`tag ${tag === 'free' ? 'free' : tag === 'sale' ? 'sale' : ''}`}>{tag}</span>
-											))}
-										</div>
+									{post.data.affiliate && (
+										<span class="via-store">{getStoreName(post.data.affiliate)}</span>
 									)}
 								</div>
 							</a>
 						))}
 					</div>
-					<div class="see-all">
-						<a href="/posts">View All Deals &rarr;</a>
+				</section>
+			)}
+
+			<!-- ── Editor's Picks ─────────────────────────── -->
+			{topDeals.length > 0 && (
+				<section class="section">
+					<header class="section-hd">
+						<span class="section-label">Editor&apos;s Picks</span>
+						<a href="/posts" class="section-more">See all deals &rarr;</a>
+					</header>
+					<div class="deal-grid deal-grid--4">
+						{topDeals.map(post => (
+							<a href={`/posts/${post.id}/`} class="deal-card">
+								<div class="card-img-wrap">
+									<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
+									{post.data.discount && <span class="bdg-discount">{post.data.discount}</span>}
+									{isNew(post.data.pubDate) && <span class="bdg-new">NEW</span>}
+								</div>
+								<div class="card-body">
+									<h4 class="card-title">{post.data.title}</h4>
+									{(post.data.dealPrice || post.data.originalPrice) && (
+										<div class="price-cluster">
+											{post.data.originalPrice && <s class="price-was">{post.data.originalPrice}</s>}
+											{post.data.dealPrice && (
+												<strong class={`price-now ${post.data.dealPrice === 'FREE' ? 'is-free' : ''}`}>
+													{post.data.dealPrice}
+												</strong>
+											)}
+										</div>
+									)}
+									<div class="card-foot">
+										{post.data.affiliate && <span class="via-store">{getStoreName(post.data.affiliate)}</span>}
+										<span class="card-cta">Read more &rarr;</span>
+									</div>
+								</div>
+							</a>
+						))}
 					</div>
 				</section>
 			)}
+
+			<!-- ── Recent Deals ───────────────────────────── -->
+			{recentDeals.length > 0 && (
+				<section class="section">
+					<header class="section-hd">
+						<span class="section-label">Recent Deals</span>
+					</header>
+					<div class="deal-grid deal-grid--3">
+						{recentDeals.map(post => (
+							<a href={`/posts/${post.id}/`} class="deal-card">
+								{post.data.heroImage && (
+									<div class="card-img-wrap">
+										<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
+										{post.data.discount && <span class="bdg-discount">{post.data.discount}</span>}
+										{isNew(post.data.pubDate) && <span class="bdg-new">NEW</span>}
+									</div>
+								)}
+								<div class="card-body">
+									<h4 class="card-title">{post.data.title}</h4>
+									{(post.data.dealPrice || post.data.originalPrice) && (
+										<div class="price-cluster">
+											{post.data.originalPrice && <s class="price-was">{post.data.originalPrice}</s>}
+											{post.data.dealPrice && (
+												<strong class={`price-now ${post.data.dealPrice === 'FREE' ? 'is-free' : ''}`}>
+													{post.data.dealPrice}
+												</strong>
+											)}
+										</div>
+									)}
+									<div class="card-foot">
+										{post.data.affiliate && <span class="via-store">{getStoreName(post.data.affiliate)}</span>}
+										<span class="card-cta">Read more &rarr;</span>
+									</div>
+								</div>
+							</a>
+						))}
+					</div>
+					<div class="see-all">
+						<a href="/posts">View all {totalDeals} deals &rarr;</a>
+					</div>
+				</section>
+			)}
+
 		</main>
+
+		<!-- Affiliate disclosure -->
+		<div class="disclosure">
+			<div class="disclosure-inner">
+				PluginDrop uses affiliate links. We may earn a small commission &mdash; at no extra cost to you.
+				<a href="/about#affiliate">Learn more</a>
+			</div>
+		</div>
+
 		<Footer />
 	</body>
 </html>
 
 <style>
-	/* Hero */
-	.hero {
-		text-align: center;
-		background: url('/images/hero-banner.jpg') center/cover no-repeat;
-		border-radius: var(--radius);
-		margin-bottom: 2rem;
-		overflow: hidden;
+	/* ── Hero Strip ───────────────────────────────────────── */
+	.hero-strip {
+		padding: 2.25rem 0 1.75rem;
+		border-bottom: 1px solid var(--border);
+		margin-bottom: 2.5rem;
 	}
-	.hero-overlay {
-		padding: 4rem 2rem 3rem;
-		background: linear-gradient(180deg, rgba(15,15,20,0.7) 0%, rgba(15,15,20,0.9) 100%);
-	}
-	.hero-logo {
-		width: 64px;
-		height: 64px;
-		margin-bottom: 1rem;
-		filter: drop-shadow(0 4px 12px rgba(124, 58, 237, 0.4));
-	}
-	.hero-badge {
-		display: inline-block;
-		padding: 0.3em 0.9em;
-		background: var(--tag-bg);
-		color: var(--tag-text);
-		border-radius: 999px;
-		font-size: 0.8rem;
-		font-weight: 600;
-		text-transform: uppercase;
-		letter-spacing: 0.05em;
-		margin-bottom: 1rem;
-	}
-	.hero h1 {
-		font-size: 2.75rem;
-		background: var(--accent-gradient);
-		-webkit-background-clip: text;
-		-webkit-text-fill-color: transparent;
-		background-clip: text;
-		margin-bottom: 1rem;
-		letter-spacing: -0.03em;
-	}
-	.hero-sub {
-		color: var(--text-secondary);
-		font-size: 1.1rem;
-		max-width: 540px;
-		margin: 0 auto 2rem;
-		line-height: 1.6;
-	}
-	.hero-cta {
-		display: inline-block;
-		padding: 0.75rem 2rem;
-		background: var(--accent-gradient);
-		color: white !important;
-		border-radius: var(--radius-sm);
-		font-weight: 600;
-		font-size: 1rem;
-		transition: transform 0.15s, box-shadow 0.15s;
-	}
-	.hero-cta:hover {
-		transform: translateY(-2px);
-		box-shadow: 0 8px 24px rgba(124, 58, 237, 0.35);
-	}
-
-	/* Section */
-	.section-title {
-		font-size: 1.25rem;
-		color: var(--text-muted);
-		text-transform: uppercase;
-		letter-spacing: 0.08em;
-		font-weight: 600;
+	.hero-headline-wrap {
 		margin-bottom: 1.25rem;
 	}
-
-	/* Featured Card */
-	.featured { margin-bottom: 3rem; }
-	.featured-card {
-		display: block;
-		background: var(--bg-card);
-		border: 1px solid var(--border);
-		border-radius: var(--radius);
-		overflow: hidden;
-		transition: border-color 0.2s, box-shadow 0.2s;
-		text-decoration: none;
-	}
-	.featured-card:hover {
-		border-color: var(--accent);
-		box-shadow: var(--box-shadow-hover);
-	}
-	.featured-card img {
-		width: 100%;
-		height: 300px;
-		object-fit: cover;
-		border-radius: 0;
-	}
-	.featured-content {
-		padding: 1.5rem;
-	}
-	.featured-meta {
-		display: flex;
-		align-items: center;
-		gap: 0.5rem;
-		color: var(--text-muted);
-		font-size: 0.85rem;
-		margin-bottom: 0.75rem;
-	}
-	.featured-content h3 {
-		font-size: 1.5rem;
-		margin-bottom: 0.5rem;
+	.hero-headline {
+		font-family: var(--font-display);
+		font-size: 2.75rem;
+		font-weight: 400;
+		letter-spacing: -0.02em;
+		line-height: 1.1;
 		color: var(--text-primary);
+		margin: 0 0 0.5rem;
 	}
-	.featured-content p {
+	.hero-sub {
 		color: var(--text-secondary);
 		font-size: 0.95rem;
 		margin: 0;
 		line-height: 1.5;
 	}
 
-	/* Card Grid */
-	.grid {
-		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-		gap: 1.25rem;
-	}
-	.card {
+	/* ── Sections ─────────────────────────────────────────── */
+	.section { margin-bottom: 3rem; }
+	.section-hd {
 		display: flex;
-		flex-direction: column;
+		align-items: baseline;
+		justify-content: space-between;
+		margin-bottom: 1rem;
+		gap: 1rem;
+	}
+	.section-label {
+		font-size: 0.68rem;
+		font-weight: 800;
+		color: var(--text-muted);
+		letter-spacing: 0.1em;
+		text-transform: uppercase;
+	}
+	.section-label--free { color: var(--free-text); }
+	.section-more {
+		font-size: 0.78rem;
+		font-weight: 600;
+		color: var(--text-secondary);
+		text-decoration: none;
+		transition: color 0.15s;
+	}
+	.section-more:hover { color: var(--accent-dark); }
+	.section-hd time, .section-hd :global(time) {
+		color: var(--text-muted);
+		font-size: 0.78rem;
+	}
+
+	/* ── Price atoms ──────────────────────────────────────── */
+	.price-cluster {
+		display: flex;
+		align-items: baseline;
+		gap: 0.45rem;
+		flex-wrap: wrap;
+	}
+	.price-was {
+		font-size: 0.8rem;
+		color: var(--text-muted);
+		text-decoration: line-through;
+		font-weight: 400;
+	}
+	.price-now {
+		font-size: 1.25rem;
+		font-weight: 800;
+		color: var(--text-primary);
+		letter-spacing: -0.02em;
+	}
+	.price-now.is-free { color: var(--free-text); font-family: var(--font-body); letter-spacing: 0; }
+	.via-store {
+		font-size: 0.72rem;
+		color: var(--text-muted);
+		font-weight: 500;
+	}
+
+	/* ── Badges ───────────────────────────────────────────── */
+	.bdg-discount {
+		position: absolute;
+		top: 0.5rem; right: 0.5rem;
+		background: var(--sale-bg);
+		color: var(--sale-text);
+		font-size: 0.62rem; font-weight: 800;
+		padding: 0.22em 0.5em;
+		border-radius: 2px;
+		letter-spacing: 0.04em;
+	}
+	.bdg-new {
+		position: absolute;
+		top: 0.5rem; left: 0.5rem;
+		background: rgba(148, 211, 196, 0.12);
+		color: var(--accent);
+		font-size: 0.58rem; font-weight: 700;
+		padding: 0.2em 0.5em;
+		border-radius: 2px;
+		letter-spacing: 0.1em;
+		text-transform: uppercase;
+		font-family: var(--font-body);
+	}
+
+	/* ── Tag row ──────────────────────────────────────────── */
+	.tag-row { display: flex; gap: 0.35rem; flex-wrap: wrap; }
+
+	/* ── Feature Card (Latest Drop) ──────────────────────── */
+	.feature-card {
+		display: grid;
+		grid-template-columns: 1.1fr 0.9fr;
 		background: var(--bg-card);
 		border: 1px solid var(--border);
 		border-radius: var(--radius);
 		overflow: hidden;
 		text-decoration: none;
-		transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
+		box-shadow: var(--box-shadow);
+		transition: box-shadow 0.2s, border-color 0.15s;
 	}
-	.card:hover {
-		border-color: var(--accent);
+	.feature-card:hover {
+		border-color: var(--accent-border-hover);
 		box-shadow: var(--box-shadow-hover);
-		transform: translateY(-2px);
 	}
-	.card img {
-		width: 100%;
-		height: 180px;
-		object-fit: cover;
-		border-radius: 0;
+	.feature-img {
+		position: relative;
+		overflow: hidden;
 	}
-	.card-body {
-		padding: 1rem 1.25rem 1.25rem;
-		flex: 1;
+	.feature-img img {
+		width: 100%; height: 100%;
+		min-height: 300px;
+		object-fit: cover; display: block; border-radius: 0;
+		transition: transform 0.4s ease;
+	}
+	.feature-card:hover .feature-img img { transform: scale(1.03); }
+	.feature-body {
+		padding: 2rem 1.75rem;
 		display: flex;
 		flex-direction: column;
+		justify-content: center;
+		gap: 0.65rem;
 	}
-	.card-meta {
-		color: var(--text-muted);
-		font-size: 0.8rem;
-		margin-bottom: 0.5rem;
-	}
-	.card-body h4 {
+	/* Serif display font, but bump weight for impact */
+	.feature-title {
+		font-family: var(--font-display);
+		font-size: 1.7rem;
+		font-weight: 400;
+		letter-spacing: -0.01em;
 		color: var(--text-primary);
-		font-size: 1.05rem;
-		margin-bottom: 0.75rem;
-		line-height: 1.35;
+		line-height: 1.2;
+		margin: 0;
 	}
-	.card-tags {
-		margin-top: auto;
+	.feature-desc {
+		color: var(--text-secondary);
+		font-size: 0.875rem;
+		margin: 0;
+		line-height: 1.55;
+	}
+	.feature-cta {
+		display: inline-flex;
+		align-self: flex-start;
+		color: var(--accent);
+		font-weight: 600;
+		font-size: 0.85rem;
+		transition: color 0.15s;
+		margin-top: 0.25rem;
+	}
+	.feature-card:hover .feature-cta { color: var(--accent-light); }
+
+	/* ── Free Strip ───────────────────────────────────────── */
+	.free-strip {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+		gap: 0.75rem;
+	}
+	.free-card {
 		display: flex;
-		gap: 0.35rem;
-		flex-wrap: wrap;
+		align-items: center;
+		gap: 0.75rem;
+		padding: 0.75rem;
+		background: var(--bg-card);
+		border: 1px solid var(--border);
+		border-radius: var(--radius);
+		text-decoration: none;
+		transition: border-color 0.15s, background 0.15s;
+	}
+	.free-card:hover {
+		border-color: var(--accent-border-hover);
+		background: var(--bg-card-hover);
+	}
+	.free-img-wrap {
+		flex-shrink: 0;
+		width: 52px; height: 52px;
+		border-radius: 6px;
+		overflow: hidden;
+		background: var(--bg-low);
+	}
+	.free-img-wrap img {
+		width: 100%; height: 100%;
+		object-fit: cover; display: block; border-radius: 0;
+	}
+	.free-body {
+		flex: 1;
+		min-width: 0;
+		display: flex;
+		flex-direction: column;
+		gap: 0.2rem;
+	}
+	.free-body h4 {
+		font-size: 0.82rem;
+		font-weight: 700;
+		color: var(--text-primary);
+		line-height: 1.4;
+		margin: 0;
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
 	}
 
-	/* See all */
-	.see-all {
-		text-align: center;
-		margin-top: 2rem;
+	/* ── Deal Cards ───────────────────────────────────────── */
+	.deal-grid { display: grid; gap: 1rem; }
+	.deal-grid--4 { grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); }
+	.deal-grid--3 { grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
+
+	.deal-card {
+		display: flex; flex-direction: column;
+		background: var(--bg-card);
+		border: 1px solid var(--border);
+		border-radius: var(--radius);
+		overflow: hidden;
+		text-decoration: none;
+		box-shadow: var(--box-shadow);
+		transition: border-color 0.15s, background 0.2s;
 	}
-	.see-all a {
+	.deal-card:hover {
+		border-color: var(--accent-border-hover);
+		background: var(--bg-card-hover);
+	}
+	.card-img-wrap { position: relative; overflow: hidden; }
+	.card-img-wrap img {
+		width: 100%; height: 160px;
+		object-fit: cover; display: block; border-radius: 0;
+		transition: transform 0.3s ease;
+	}
+	.deal-card:hover .card-img-wrap img { transform: scale(1.04); }
+	.card-body {
+		padding: 0.875rem 1rem 1rem;
+		flex: 1;
+		display: flex; flex-direction: column; gap: 0.4rem;
+	}
+	.card-title {
+		color: var(--text-primary);
+		font-size: 0.9rem;
+		font-weight: 700;
+		line-height: 1.4;
+		margin: 0;
+	}
+	.card-foot {
+		display: flex; align-items: center;
+		justify-content: space-between;
+		margin-top: auto; padding-top: 0.5rem;
+	}
+	.card-cta {
+		font-size: 0.72rem; font-weight: 600;
+		color: var(--accent);
+		transition: color 0.15s;
+		white-space: nowrap;
+	}
+	.deal-card:hover .card-cta {
 		color: var(--accent-light);
-		font-weight: 600;
-		font-size: 0.95rem;
+	}
+
+	/* ── See All ──────────────────────────────────────────── */
+	.see-all { text-align: center; margin-top: 1.75rem; }
+	.see-all a {
+		display: inline-block;
+		padding: 0.65rem 1.75rem;
+		border: 1.5px solid var(--border);
+		border-radius: var(--radius-sm);
+		color: var(--text-secondary); font-weight: 600; font-size: 0.875rem;
+		transition: border-color 0.15s, color 0.15s, background 0.15s;
 	}
 	.see-all a:hover {
-		color: var(--accent);
+		border-color: var(--accent);
+		color: var(--accent-dark);
+		background: var(--tag-bg);
 	}
 
+	/* ── Disclosure ───────────────────────────────────────── */
+	.disclosure {
+		border-top: 1px solid var(--border);
+		border-bottom: 1px solid var(--border);
+		background: var(--bg-low);
+		padding: 0.65rem 1.5rem;
+	}
+	.disclosure-inner {
+		max-width: 960px;
+		margin: 0 auto;
+		font-size: 0.72rem;
+		color: var(--text-muted);
+		text-align: center;
+	}
+	.disclosure-inner a {
+		color: var(--text-muted);
+		text-decoration: underline;
+	}
+
+	/* ── Responsive ───────────────────────────────────────── */
 	@media (max-width: 720px) {
-		.hero h1 { font-size: 2rem; }
-		.hero-sub { font-size: 1rem; }
-		.grid { grid-template-columns: 1fr; }
-		.featured-card img { height: 200px; }
+		.hero-headline { font-size: 2rem; }
+		.feature-card { grid-template-columns: 1fr; }
+		.feature-img img { min-height: 220px; height: 220px; }
+		.deal-grid--4 { grid-template-columns: repeat(2, 1fr); }
+		/* 2 cols on tablet keeps list scannable */
+		.deal-grid--3 { grid-template-columns: repeat(2, 1fr); }
+		.free-strip { grid-template-columns: 1fr 1fr; }
+}
+	@media (max-width: 480px) {
+		.hero-headline { font-size: 1.75rem; }
+		.deal-grid--4 { grid-template-columns: 1fr; }
+		.deal-grid--3 { grid-template-columns: 1fr; }
+		.free-strip { grid-template-columns: 1fr; }
 	}
 </style>

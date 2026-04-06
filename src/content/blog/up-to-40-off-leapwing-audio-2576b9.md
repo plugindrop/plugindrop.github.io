@@ -2,13 +2,13 @@
 title: "Up to 40% off Leapwing Audio"
 description: "Leapwing Audio is running up to 40% off across their lineup of professional mixing and mastering plugins. That means tools like StageOne 2 drop from..."
 pubDate: "2026-04-01T23:01:40Z"
-tags: ["sale", "mastering", "mixing", "leapwing audio", "plugin boutique", "stereo imaging"]
-affiliate: "https://www.pluginboutique.com/?a_aid=TEST&utm_source=affiliate-bot&utm_medium=article&utm_campaign=up-to-40-off-leapwing-audio-2576b9"
-heroImage: "/images/up-to-40-off-leapwing-audio-2576b9.webp"
+tags: ["sale", "mastering", "mixing", "leapwing audio", "stereo imaging"]
+affiliate: "https://www.kvraudio.com/marketplace/deals?type=0&sort=price-latest-discount&q=leapwing%20Audio"
+score: 4.44
 originalPrice: "$249"
 draft: false
 ---
-**TL;DR:** Leapwing Audio is running up to 40% off across their lineup of professional mixing and mastering plugins. That means tools like StageOne 2 drop from ~~$249~~ to around $149, and RootOne goes from ~~$199~~ to roughly $119. If you've been eyeing their catalog, this is a solid window to pick something up. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/?a_aid=TEST&utm_source=affiliate-bot&utm_medium=article&utm_campaign=up-to-40-off-leapwing-audio-2576b9).
+**TL;DR:** Leapwing Audio is running up to 40% off across their lineup of professional mixing and mastering plugins. That means tools like StageOne 2 drop from ~~$249~~ to around $149, and RootOne goes from ~~$199~~ to roughly $119. If you've been eyeing their catalog, this is a solid window to pick something up. [See all Leapwing deals on KVR](https://www.kvraudio.com/marketplace/deals?type=0&sort=price-latest-discount&q=leapwing%20Audio).
 
 ## What Is Leapwing Audio?
 
@@ -16,12 +16,13 @@ Leapwing Audio is a Belgian plugin developer founded in 2015 by Robin, Jeroen, a
 
 ## Key Features (Across the Leapwing Lineup)
 
-- **LimitOne** — A spectral limiting and clipping tool designed for transparent loudness maximization in mastering contexts.
-- **StageOne 2** — Stereo soundstage enhancement plugin with depth, width, and mono-compatibility controls for precise stereo imaging.
-- **DynOne** — A multiband parallel dynamics processor built for musical compression across five bands.
-- **RootOne** — A subharmonic generator that adds controlled low-end weight, useful for kick drums, bass, and full mixes.
-- **CenterOne** — Lets you isolate and adjust the phantom center of a stereo signal independently from the sides.
-- **UltraVox** — An all-in-one vocal processor combining compression, gating, reverb, de-essing, harmonics, and air processing.
+- **[LimitOne](https://www.kvraudio.com/product/limitone-by-leapwing-audio)** — A spectral limiting and clipping tool designed for transparent loudness maximization in mastering contexts.
+- **[StageOne 2](https://www.kvraudio.com/product/stageone-2-by-leapwing-audio)** — Stereo soundstage enhancement plugin with depth, width, and mono-compatibility controls for precise stereo imaging.
+- **[DynOne 3](https://www.kvraudio.com/product/dynone-by-leapwing-audio)** — A multiband parallel dynamics processor built for musical compression across five bands.
+- **[RootOne](https://www.kvraudio.com/product/rootone-by-leapwing-audio)** — A subharmonic generator that adds controlled low-end weight, useful for kick drums, bass, and full mixes.
+- **[CenterOne](https://www.kvraudio.com/product/centerone-by-leapwing-audio)** — Lets you isolate and adjust the phantom center of a stereo signal independently from the sides.
+- **[UltraVox](https://www.kvraudio.com/product/ultravox-by-leapwing-audio)** — An all-in-one vocal processor combining compression, gating, reverb, de-essing, harmonics, and air processing.
+- **[Joe Chiccarelli Signature Plugin](https://www.kvraudio.com/product/joe-chiccarelli-signature-plugin-by-leapwing-audio)** — Signature vocal and mix processing plugin co-developed with the legendary producer/engineer.
 
 ## What Producers Are Saying
 
@@ -38,17 +39,17 @@ Leapwing Audio has built a strong reputation in professional mixing and masterin
 
 Leapwing Audio doesn't run sales constantly, so when discounts appear, they're worth noting. Here's a snapshot based on available pricing info:
 
-| Plugin | Regular Price | Deal Price (up to 40% off) | You Save |
+| Plugin | Regular Price | Deal Price (up to 40% off) | Buy |
 |---|---|---|---|
-| StageOne 2 | ~~$249~~ | ~$149 | ~$100 |
-| LimitOne | ~~$249~~ | ~$149 | ~$100 |
-| DynOne | ~~$199~~ | ~$119 | ~$80 |
-| RootOne | ~~$199~~ | ~$119 | ~$80 |
-| CenterOne | ~~$199~~ | ~$119 | ~$80 |
+| StageOne 2 | ~~$249~~ | ~$149 | [Buy on KVR](https://www.kvraudio.com/product/stageone-2-by-leapwing-audio) |
+| LimitOne | ~~$249~~ | ~$149 | [Buy on KVR](https://www.kvraudio.com/product/limitone-by-leapwing-audio) |
+| DynOne 3 | ~~$199~~ | ~$119 | [Buy on KVR](https://www.kvraudio.com/product/dynone-by-leapwing-audio) |
+| RootOne | ~~$199~~ | ~$119 | [Buy on KVR](https://www.kvraudio.com/product/rootone-by-leapwing-audio) |
+| CenterOne | ~~$199~~ | ~$119 | [Buy on KVR](https://www.kvraudio.com/product/centerone-by-leapwing-audio) |
 
 *Note: "Up to 40%" means discounts vary by product. Verify current pricing on the product page — deals can change without notice.*
 
-Leapwing doesn't discount as frequently as some larger competitors. Historical pricing data on [MusicSoftwareDeals](https://musicsoftwaredeals.com/manufacturer/leapwing-audio/) shows sales happen a few times per year, making this a reasonable time to buy if a specific plugin is on your list. [Check current prices at Plugin Boutique](https://www.pluginboutique.com/?a_aid=TEST&utm_source=affiliate-bot&utm_medium=article&utm_campaign=up-to-40-off-leapwing-audio-2576b9).
+Leapwing doesn't discount as frequently as some larger competitors. Historical pricing data on [MusicSoftwareDeals](https://musicsoftwaredeals.com/manufacturer/leapwing-audio/) shows sales happen a few times per year, making this a reasonable time to buy if a specific plugin is on your list. [See all current Leapwing deals on KVR](https://www.kvraudio.com/marketplace/deals?type=0&sort=price-latest-discount&q=leapwing%20Audio).
 
 ## Alternatives at a Glance
 
@@ -76,8 +77,8 @@ A: Leapwing has occasionally run deeper discounts on individual products (up to 
 
 ## Get the Deal
 
-Up to 40% off a premium plugin lineup that doesn't go on sale every month. If StageOne 2, DynOne, or any of their tools have been sitting in your wishlist, this is a smart time to pull the trigger. [Get up to 40% off Leapwing Audio at Plugin Boutique](https://www.pluginboutique.com/?a_aid=TEST&utm_source=affiliate-bot&utm_medium=article&utm_campaign=up-to-40-off-leapwing-audio-2576b9).
+Up to 40% off a premium plugin lineup that doesn't go on sale every month. If StageOne 2, DynOne, or any of their tools have been sitting in your wishlist, this is a smart time to pull the trigger. [See all Leapwing Audio deals on KVR](https://www.kvraudio.com/marketplace/deals?type=0&sort=price-latest-discount&q=leapwing%20Audio).
 
 ---
 
-*This post contains affiliate links. We may earn a small commission at no extra cost to you.*
+*Prices shown are approximate. Verify current pricing on each product page before purchasing.*

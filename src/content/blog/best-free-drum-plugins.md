@@ -3,7 +3,7 @@ title: "Best Free Drum Plugins in 2026 — 10 Picks for Any Genre"
 description: "The best free drum VST plugins for hip-hop, EDM, rock, and more. From sample-based kits to full drum machines — no cost, no catch."
 pubDate: "2026-03-20T10:00:00Z"
 tags: ["free", "drums", "plugin"]
-affiliate: "https://www.pluginboutique.com/categories/1-Instruments/10-Drums"
+affiliate: "https://www.pluginboutique.com/deals"
 heroImage: "/images/heroes/best-free-drum.jpg"
 dealPrice: "FREE"
 draft: false
@@ -78,7 +78,7 @@ Mac-only drum synth with six synthesis-based drum voices. Each voice uses physic
 | AVL Drumkits | Sample-based | Acoustic | Win / Mac / Linux | Open-source, multi-layer |
 | MiniSpillage | Synthesis | Electronic | Mac only | Physical modeling voices |
 
-Looking for more options? [Browse drum plugins on Plugin Boutique](https://www.pluginboutique.com/categories/1-Instruments/10-Drums) — they regularly feature free and discounted drum tools.
+Looking for more options? [Browse drum plugins on Plugin Boutique](https://www.pluginboutique.com/deals) — they regularly feature free and discounted drum tools.
 
 ## Which Plugins to Install First
 
