@@ -1,73 +1,75 @@
 ---
-title: "Arturia V Collection 10 — 50% Off Sale"
-description: "Arturia V Collection 10 is 50% off — save $300. That's 39 modeled vintage instruments at ~$7.67 each. Full breakdown and alternatives."
+title: "Arturia V Collection 11 Pro — 45 Instruments, Full Breakdown"
+description: "Arturia V Collection 11 Pro packs 45 modeled vintage instruments into one bundle. Full breakdown of what's included, pricing, and who it's for."
 pubDate: "2026-03-28T10:30:00Z"
-tags: ["sale", "synthesizer", "plugin"]
-affiliate: "https://www.pluginboutique.com/products/11747-V-Collection-X"
+updatedDate: "2026-04-06T10:00:00Z"
+tags: ["synthesizer", "plugin", "bundle"]
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro"
 heroImage: "/images/heroes/arturia-v-collection.jpg"
-dealPrice: "$299"
-originalPrice: "$599"
-discount: "50% OFF"
+dealPrice: "$699"
 draft: false
 ---
 
-**TL;DR:** Arturia V Collection 10 — ~~$599~~ **$299**. Save $300. That's 39 modeled vintage instruments at roughly **$7.67 each.** Minimoog, Jupiter-8, Prophet-5, DX7, and 35 more. [See the deal](https://www.pluginboutique.com/products/11747-V-Collection-X).
+**TL;DR:** Arturia V Collection 11 Pro — **45 modeled vintage instruments** in one bundle. Minimoog, Jupiter-8, Prophet-5, DX7, CS-80, and 40 more, plus 7 new instruments added in v11 including Jup-8000 V, Pure LoFi, and SEM V. Regular price $699. Arturia runs 50% sales periodically — the last one was March 2026. [Check current pricing on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro).
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/n46hnnvQ2t8" title="Arturia V Collection — Official Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin-bottom:1.5rem"></iframe>
 
-## What Is V Collection 10?
+## What Is V Collection 11 Pro?
 
-Arturia V Collection is a bundle of 39 software recreations of classic hardware. The lineup spans analog synths (Minimoog, Jupiter-8, Prophet-5, CS-80), digital synths (DX7, Synclavier), electric pianos (Wurlitzer, Rhodes), organs (B-3, Farfisa), and the newer Augmented hybrid instruments. Arturia has been building these models for over a decade using their TAE (True Analog Emulation) technology.
+Arturia V Collection is a bundle of software recreations of classic hardware instruments. Version 11 brings the total to **45 instruments** — analog synths, digital synths, electric pianos, organs, and the Augmented hybrid series. Arturia has been building these models for over a decade using TAE (True Analog Emulation) technology.
 
-Let's break down the math: $299 for 39 instruments = **~$7.67 per instrument.** Buying just three of these individually (Mini V, Jupiter-8 V, DX7 V) would cost more than the full bundle on sale.
+**New in V Collection 11:**
+- **Jup-8000 V** — Roland JP-8000 emulation with the famous supersaw
+- **Pure LoFi** — Original lo-fi instrument designed for textured, degraded sounds
+- **SEM V** — Oberheim SEM emulation, minimal two-oscillator design
+- **Synthx V** — Yamaha CS-80-inspired polyphonic synth
+- **MiniBrute V** — Arturia's own hardware MiniBrute in software form
+- **Augmented Mallets** — Hybrid mallet/synthesis instrument
+- **Augmented Yangtze** — Hybrid instrument drawing on traditional Chinese sounds
 
 ## Key Features
 
-- **39 instruments** — Analog synths, digital synths, keyboards, organs, and hybrid instruments
+- **45 instruments** — Analog synths, digital synths, keyboards, organs, and hybrid instruments
 - **TAE modeling** — Arturia's proprietary analog modeling technology
 - **Augmented series** — Hybrid engines blending samples with synthesis
-- **Thousands of presets** — Tagged and searchable preset browser
+- **Thousands of presets** — Tagged and searchable across all instruments via Analog Lab Pro
 - **MPE support** — On supported instruments
 - **Resizable GUI** — Scales to fit any screen
 
 ## What Producers Are Saying
 
-V Collection is a common recommendation in "best plugin bundle" threads on Reddit and KVR. The analog synth models — particularly Mini V, Jupiter-8 V, and CS-80 V — are frequently mentioned as standouts. Producers commonly note the breadth of coverage: one purchase fills a wide range of vintage sound needs. A recurring topic in discussions is that Pigments is sold separately, which some users find surprising.
+V Collection is a consistent recommendation in "best plugin bundle" threads on Reddit and KVR. The analog synth models — particularly Mini V, Jupiter-8 V, CS-80 V, and Prophet-5 V — are frequently mentioned as standouts. The v11 additions have been well received, especially the Jup-8000 V for electronic producers and SEM V for minimal/techno sound design. A recurring note is that Pigments (Arturia's wavetable synth) is still sold separately.
 
 ## Who Is It For?
 
-- **Producers building an instrument collection** — 39 instruments covering analog, digital, keys, organs, and hybrid in one purchase
-- **Sound designers** — The Augmented series and deep modulation options open up sound design territory
+- **Producers building an instrument collection** — 45 instruments covering analog, digital, keys, organs, and hybrid in one purchase
+- **Sound designers** — The Augmented series and deep modulation options open up sound design territory beyond vintage recreation
 - **Film/game composers** — A broad palette of classic and hybrid sounds for scoring
 - **Synthwave/retro producers** — Software recreations of the hardware that defined those genres
+- **Electronic producers** — New additions like Jup-8000 V (supersaw) and SEM V cover modern electronic production staples
 
-## Pricing & Deal Details
+## Pricing
 
-| | Regular Price | Sale Price | You Save |
-|---|---|---|---|
-| V Collection 10 (39 instruments) | ~~$599~~ | **$299** | **$300 (50%)** |
-| Upgrade (from previous version) | Varies | Check Arturia's site | — |
+| Edition | Price | Instruments |
+|---|---|---|
+| **V Collection 11 Pro** | $699 | 45 instruments |
+| V Collection 11 Intro | $199 | 10 instruments |
+| Upgrade (existing owners) | Varies | Check Arturia's site |
 
-**The math:**
-- $299 ÷ 39 instruments = **~$7.67 each**
-- Mini V alone costs $99 at full price
-- Jupiter-8 V alone costs $99 at full price
-- Just 3 individual plugins at full price > the entire bundle on sale
+**Sale history:** Arturia ran a 50% off sale on V Collection 11 Pro ($349) through March 9, 2026 as part of Plugin Boutique's 14th anniversary. They typically run major sales at Black Friday and occasionally mid-year. Upgrade pricing for existing Arturia customers can significantly reduce the entry cost.
 
-**Important:** Pigments (Arturia's wavetable/virtual analog synth) is **not included** in V Collection. It's sold separately. Upgrade pricing is available for existing Arturia customers. Verify current pricing on the product page.
-
-[See V Collection 10 Deal](https://www.pluginboutique.com/products/11747-V-Collection-X)
+[Check current pricing on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro)
 
 ## Alternatives at a Glance
 
 | Bundle | Price | Instruments | Key Difference |
 |---|---|---|---|
-| **Arturia V Collection 10** | **$299** (on sale) | 39 | Vintage analog/digital modeling + Augmented hybrids |
-| NI Komplete 15 Standard | ~$349 | 50+ | Broader scope — synths, samples, effects, drums |
-| Cherry Audio bundles | ~$99-$199 | Varies | Lower price point, fewer instruments per bundle |
-| u-he Diva / Zebra | ~$50-$179 each | Individual | Sold separately, deeper control per synth |
+| **Arturia V Collection 11 Pro** | **$699** | 45 | Vintage analog/digital modeling + Augmented hybrids |
+| NI Komplete 15 Standard | ~$399 | 50+ | Broader scope — synths, samples, effects, drums |
+| Cherry Audio bundles | ~$99–$199 | Varies | Lower price point, fewer instruments per bundle |
+| u-he Diva / Zebra | ~$50–$179 each | Individual | Sold separately, deeper control per synth |
 
-If you want the widest vintage instrument coverage in one purchase, V Collection does that at this price. If you need samples, effects, and drums alongside synths, Komplete covers more categories. If you only need 1-2 specific synths, buying individual plugins is cheaper.
+If you want the widest vintage instrument coverage in one purchase, V Collection 11 Pro covers that. If you need samples, effects, and drums alongside synths, Komplete covers more categories. If you only need 1–2 specific synths, individual plugins are cheaper.
 
 Not ready to invest yet? Check out our [best free synth plugins roundup](/posts/best-free-synth-plugins/) for capable options at zero cost, or read [free plugins vs paid — when to upgrade](/posts/free-plugins-vs-paid-worth-upgrading/) for guidance on timing your purchase.
 
@@ -82,14 +84,14 @@ A: Arturia offers trial access through Arturia Software Center. Check their site
 **Q: Is Pigments included?**
 A: No. Pigments is sold separately and is not part of V Collection.
 
+**Q: What's the difference between Pro and Intro?**
+A: V Collection 11 Intro ($199) includes 10 curated instruments. Pro ($699) includes all 45.
+
 **Q: What if I already own some Arturia plugins?**
-A: Arturia offers upgrade pricing based on what you own. Check their site for your specific upgrade path — it can significantly reduce the cost.
+A: Arturia offers upgrade pricing based on what you own. Check their site — it can significantly reduce the cost.
 
-**Q: How much disk space does it need?**
-A: Check the official Arturia site for current download and install size requirements.
+## Get V Collection 11 Pro
 
-## Get the Deal
+45 instruments. Vintage analog, digital, keys, organs, and hybrid. Arturia runs 50% sales periodically — worth watching for.
 
-39 instruments. ~~$599~~ $299. $7.67 each. Pigments not included.
-
-[Check the V Collection 10 Deal](https://www.pluginboutique.com/products/11747-V-Collection-X)
+[View V Collection 11 Pro on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro)
