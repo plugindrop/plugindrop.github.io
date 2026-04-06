@@ -8,6 +8,7 @@ heroImage: "/images/black-salt-audio-get-39-off-bsa-drum-bundle-by-black-salt-au
 score: 6.36
 dealPrice: "$89"
 originalPrice: "$146"
+saleExpiry: "2026-04-30"
 draft: false
 ---
 ---

@@ -8,6 +8,7 @@ heroImage: "/images/heroes/fabfilter-pro-q-4.jpg"
 dealPrice: "$132"
 originalPrice: "$189"
 discount: "30% OFF"
+saleExpiry: "2026-04-30"
 draft: false
 ---
 

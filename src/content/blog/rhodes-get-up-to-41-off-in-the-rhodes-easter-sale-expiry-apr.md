@@ -7,6 +7,7 @@ affiliate: "https://www.pluginboutique.com/deals/22664?utm_source=affiliate-bot&
 heroImage: "/images/rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr.webp"
 score: 5.16
 originalPrice: "$239.95"
+saleExpiry: "2026-04-13"
 draft: false
 ---
 ---

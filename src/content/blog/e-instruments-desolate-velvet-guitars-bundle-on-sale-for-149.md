@@ -8,6 +8,7 @@ heroImage: "/images/e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149
 score: 4.92
 dealPrice: "$149"
 originalPrice: "$269"
+saleExpiry: "2026-04-30"
 draft: false
 ---
 

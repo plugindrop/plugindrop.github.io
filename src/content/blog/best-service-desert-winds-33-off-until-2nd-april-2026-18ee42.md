@@ -7,6 +7,7 @@ affiliate: "https://www.kvraudio.com/marketplace/desert-winds-by-best-service"
 score: 4.07
 dealPrice: "$79"
 originalPrice: "$119"
+saleExpiry: "2026-04-02"
 draft: true
 ---
 **TL;DR:** Best Service Desert Winds is 33% off right now — ~~$119~~ **$79** — saving you $40 on one of the most expressive Middle Eastern wind instrument libraries available. This deal runs until **April 2nd, 2026**, so the window is tight. [Grab Desert Winds at 33% off here.](https://www.kvraudio.com/marketplace/desert-winds-by-best-service)

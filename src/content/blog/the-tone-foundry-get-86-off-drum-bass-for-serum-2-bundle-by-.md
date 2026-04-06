@@ -8,6 +8,7 @@ heroImage: "/images/the-tone-foundry-get-86-off-drum-bass-for-serum-2-bundle-by-
 score: 8.16
 dealPrice: "$19"
 originalPrice: "$137"
+saleExpiry: "2026-05-04"
 draft: false
 ---
 **TL;DR:** The Tone Foundry's Drum & Bass for Serum 2 Bundle is 86% off — ~~$137~~ just **$19**. That's 210 presets across three DnB packs for less than the price of a single expansion. Deal expires May 4th. [Grab it here before it's gone.](https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/16791-Drum-Bass-for-Serum-2-Bundle-Exclusive-?utm_source=affiliate-bot&utm_medium=article&utm_campaign=the-tone-foundry-get-86-off-drum-bass-for-serum-2-bundle-by-)

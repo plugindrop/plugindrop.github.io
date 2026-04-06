@@ -8,6 +8,7 @@ heroImage: "/images/topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-
 score: 5.52
 dealPrice: "$69"
 originalPrice: "$99"
+saleExpiry: "2026-04-15"
 draft: false
 ---
 

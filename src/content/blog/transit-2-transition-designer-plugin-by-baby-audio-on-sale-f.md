@@ -8,6 +8,7 @@ heroImage: "/images/transit-2-transition-designer-plugin-by-baby-audio-on-sale-f
 score: 4.68
 dealPrice: "$79"
 originalPrice: "$129"
+saleExpiry: "2026-04-12"
 draft: false
 ---
 

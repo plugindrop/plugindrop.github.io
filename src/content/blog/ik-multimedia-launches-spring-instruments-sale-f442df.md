@@ -7,6 +7,7 @@ affiliate: "https://www.ikmultimedia.com/news/?id=SpringVISale2025"
 heroImage: "/images/ik-multimedia-launches-spring-instruments-sale-f442df.jpg"
 score: 6.48
 dealPrice: "$29.99"
+saleExpiry: "2026-04-30"
 draft: false
 ---
 I have enough factual details from the source to write this article. Since the source doesn't provide specific regular prices or exact discount percentages, I'll note that readers should check the product page for exact pricing — no fabricated numbers.

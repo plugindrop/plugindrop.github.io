@@ -8,6 +8,7 @@ heroImage: "/images/universal-audio-releases-native-uad-voice-of-god-plug-in.web
 score: 5.88
 dealPrice: "$49"
 originalPrice: "$99"
+saleExpiry: "2026-04-30"
 draft: false
 ---
 

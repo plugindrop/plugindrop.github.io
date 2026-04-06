@@ -8,6 +8,7 @@ heroImage: "/images/inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us
 score: 4.32
 dealPrice: "$20"
 originalPrice: "$29"
+saleExpiry: "2026-04-30"
 draft: false
 ---
 **TL;DR:** Auburn Sounds' Inner Pitch is on sale for $20 — down from its usual ~~$29~~ price tag. That's roughly 31% off a pitch-shifting plugin known for its natural sound quality. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=affiliate-bot&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us) before the price goes back up.

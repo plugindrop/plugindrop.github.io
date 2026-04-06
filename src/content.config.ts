@@ -17,6 +17,7 @@ const blog = defineCollection({
 			dealPrice: z.string().optional(),
 			originalPrice: z.string().optional(),
 			discount: z.string().optional(),
+			saleExpiry: z.string().optional(),
 		}),
 });
 

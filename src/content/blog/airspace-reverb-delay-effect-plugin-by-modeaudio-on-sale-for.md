@@ -8,6 +8,7 @@ heroImage: "/images/airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for
 score: 4.80
 dealPrice: "$59"
 originalPrice: "$79"
+saleExpiry: "2026-04-12"
 draft: false
 ---
 

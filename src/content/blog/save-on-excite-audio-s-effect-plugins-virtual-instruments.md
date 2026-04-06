@@ -6,6 +6,7 @@ tags: ["sales and promotions", "excite audio", "plugin boutique", "sale"]
 affiliate: "https://www.pluginboutique.com/manufacturers/322-Excite-Audio"
 heroImage: "/images/save-on-excite-audio-s-effect-plugins-virtual-instruments.jpg"
 score: 4.32
+saleExpiry: "2026-04-30"
 draft: false
 ---
 

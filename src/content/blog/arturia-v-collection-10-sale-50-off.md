@@ -7,6 +7,7 @@ tags: ["synthesizer", "plugin", "bundle"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro"
 heroImage: "/images/heroes/arturia-v-collection.jpg"
 dealPrice: "$699"
+saleExpiry: "2026-03-09"
 draft: false
 ---
 

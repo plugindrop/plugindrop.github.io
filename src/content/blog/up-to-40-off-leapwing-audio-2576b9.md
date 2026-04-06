@@ -6,6 +6,7 @@ tags: ["sale", "mastering", "mixing", "leapwing audio", "stereo imaging"]
 affiliate: "https://www.kvraudio.com/marketplace/deals?type=0&sort=price-latest-discount&q=leapwing%20Audio"
 score: 4.44
 originalPrice: "$249"
+saleExpiry: "2026-04-30"
 draft: false
 ---
 **TL;DR:** Leapwing Audio is running up to 40% off across their lineup of professional mixing and mastering plugins. That means tools like StageOne 2 drop from ~~$249~~ to around $149, and RootOne goes from ~~$199~~ to roughly $119. If you've been eyeing their catalog, this is a solid window to pick something up. [See all Leapwing deals on KVR](https://www.kvraudio.com/marketplace/deals?type=0&sort=price-latest-discount&q=leapwing%20Audio).

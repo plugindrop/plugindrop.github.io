@@ -8,6 +8,7 @@ heroImage: "/images/cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d.jp
 score: 4.08
 dealPrice: "$59"
 originalPrice: "$119"
+saleExpiry: "2026-04-13"
 draft: false
 ---
 

@@ -6,6 +6,7 @@ tags: ["sales and promotions", "composing", "drums", "midi", "plugin boutique", 
 affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9"
 heroImage: "/images/save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9.jpg"
 score: 4.56
+saleExpiry: "2026-04-12"
 draft: false
 ---
 

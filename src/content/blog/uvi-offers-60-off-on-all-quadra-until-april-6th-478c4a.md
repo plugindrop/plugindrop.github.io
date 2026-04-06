@@ -8,6 +8,7 @@ heroImage: "/images/uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a.webp"
 score: 5.10
 dealPrice: "$59"
 originalPrice: "$149"
+saleExpiry: "2026-04-06"
 draft: false
 ---
 

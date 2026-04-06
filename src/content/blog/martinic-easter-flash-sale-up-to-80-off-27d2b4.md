@@ -6,6 +6,7 @@ tags: []
 affiliate: "https://www.kvraudio.com/news/martinic-easter-flash-sale---up-to-80-off-66454?utm_source=kvr_deals_tracker&utm_medium=rssfeed&utm_campaign=rss&utm_content=66454"
 heroImage: "/images/martinic-easter-flash-sale-up-to-80-off-27d2b4.webp"
 score: 5.39
+saleExpiry: "2026-04-13"
 draft: false
 ---
 

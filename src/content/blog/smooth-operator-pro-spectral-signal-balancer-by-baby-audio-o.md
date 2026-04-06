@@ -8,6 +8,7 @@ heroImage: "/images/smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o
 score: 5.76
 dealPrice: "$79"
 originalPrice: "$129"
+saleExpiry: "2026-04-12"
 draft: false
 ---
 

@@ -8,6 +8,7 @@ heroImage: "/images/xterminatorapps-offers-20-off-abletonliveaaf-until-april-30.
 score: 4.62
 dealPrice: "$40"
 originalPrice: "$50"
+saleExpiry: "2026-04-30"
 draft: false
 ---
 **TL;DR:** XterminatorApps is running 20% off Abletonlive.aaf — the AAF-to-Ableton converter drops from ~~$50~~ to $40 until April 30, 2026. If you're tired of manually rebuilding timelines from Pro Tools or Premiere Pro sessions, [grab the deal here](https://www.kvraudio.com/news/xterminatorapps-offers-20-off-abletonliveaaf-until-april-30-66603?utm_source=kvr_deals_tracker&utm_medium=rssfeed&utm_campaign=rss&utm_content=66603).

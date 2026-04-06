@@ -8,8 +8,11 @@ import { SITE_TITLE } from '../consts';
 
 type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, readingTime = '3 min read', rawBody = '' } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, readingTime = '3 min read', rawBody = '' } = Astro.props;
 const imageStr = typeof heroImage === 'string' ? heroImage : undefined;
+
+// Check if sale has expired
+const saleExpired = saleExpiry ? new Date(saleExpiry) < new Date() : false;
 
 // Derive store name from affiliate URL for display in deal CTA box
 function getDealSource(url: string): string {
@@ -140,6 +143,29 @@ const faqLD = faqPairs.length > 0 ? {
 			.prose :global(h1:first-of-type) {
 				display: none;
 			}
+			.deal-cta-box.sale-expired {
+				border-color: var(--border);
+				background: var(--bg-card);
+				opacity: 0.85;
+			}
+			.deal-expired-notice {
+				font-size: 0.85rem;
+				color: var(--text-muted);
+				margin-bottom: 0.75rem;
+				padding: 0.5rem 0.75rem;
+				background: rgba(255, 180, 0, 0.08);
+				border-radius: 4px;
+				border: 1px solid rgba(255, 180, 0, 0.2);
+			}
+			.deal-cta-btn.is-expired {
+				background: var(--bg-hover);
+				color: var(--text-secondary);
+				border: 1px solid var(--border);
+			}
+			.deal-cta-btn.is-expired:hover {
+				background: var(--accent-muted);
+				color: var(--text-primary);
+			}
 			.affiliate-disclosure {
 				margin-top: 2.5rem;
 				padding: 0.75rem 0;
@@ -242,22 +268,33 @@ const faqLD = faqPairs.length > 0 ? {
 					</div>
 
 					{/* Deal CTA Box — product widget style */}
-					{dealPrice && affiliate && (
-						<div class="deal-cta-box">
-							<div class="deal-price-row">
-								{originalPrice && <span class="deal-price-original">{originalPrice}</span>}
-								<span class={`deal-price-current${dealPrice === 'FREE' ? ' is-free' : ''}`}>{dealPrice}</span>
-								{discount && (
-									<span class={`deal-save-badge${dealPrice === 'FREE' ? ' is-free' : ''}`}>{discount}</span>
-								)}
-							</div>
-							{dealSource && (
-								<div class="deal-source">Available via {dealSource}</div>
+					{affiliate && (dealPrice || saleExpired) && (
+						<div class={`deal-cta-box${saleExpired ? ' sale-expired' : ''}`}>
+							{saleExpired ? (
+								<>
+									<div class="deal-expired-notice">⚠️ This sale has ended — check current price below</div>
+									{dealSource && <div class="deal-source">Available via {dealSource}</div>}
+									<a href={affiliate} class="deal-cta-btn is-expired" target="_blank" rel="noopener noreferrer nofollow">
+										View Current Price →
+									</a>
+									<p class="deal-note">Opens affiliate link &mdash; no extra cost to you</p>
+								</>
+							) : (
+								<>
+									<div class="deal-price-row">
+										{originalPrice && <span class="deal-price-original">{originalPrice}</span>}
+										<span class={`deal-price-current${dealPrice === 'FREE' ? ' is-free' : ''}`}>{dealPrice}</span>
+										{discount && (
+											<span class={`deal-save-badge${dealPrice === 'FREE' ? ' is-free' : ''}`}>{discount}</span>
+										)}
+									</div>
+									{dealSource && <div class="deal-source">Available via {dealSource}</div>}
+									<a href={affiliate} class="deal-cta-btn" target="_blank" rel="noopener noreferrer nofollow">
+										{dealPrice === 'FREE' ? 'Get It Free \u2192' : 'Get This Deal \u2192'}
+									</a>
+									<p class="deal-note">Opens affiliate link &mdash; no extra cost to you</p>
+								</>
 							)}
-							<a href={affiliate} class="deal-cta-btn" target="_blank" rel="noopener noreferrer nofollow">
-								{dealPrice === 'FREE' ? 'Get It Free \u2192' : 'Get This Deal \u2192'}
-							</a>
-							<p class="deal-note">Opens affiliate link &mdash; no extra cost to you</p>
 						</div>
 					)}
 
@@ -274,9 +311,9 @@ const faqLD = faqPairs.length > 0 ? {
 		{/* Sticky CTA bar — mobile only, only for articles with affiliate links */}
 		{affiliate && (
 			<div class="sticky-cta">
-				<span class="sticky-title">{dealPrice ? `${dealPrice} — ${title}` : title}</span>
+				<span class="sticky-title">{saleExpired ? title : (dealPrice ? `${dealPrice} — ${title}` : title)}</span>
 				<a href={affiliate} class="deal-cta-btn" target="_blank" rel="noopener noreferrer nofollow">
-					{dealPrice === 'FREE' ? 'Get Free' : 'Get Deal'}
+					{saleExpired ? 'View Price' : (dealPrice === 'FREE' ? 'Get Free' : 'Get Deal')}
 				</a>
 			</div>
 		)}

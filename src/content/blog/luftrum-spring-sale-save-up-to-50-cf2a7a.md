@@ -6,6 +6,7 @@ tags: []
 affiliate: "https://www.kvraudio.com/news/luftrum-spring-sale---save-up-to-50-66592?utm_source=kvr_deals_tracker&utm_medium=rssfeed&utm_campaign=rss&utm_content=66592"
 heroImage: "/images/luftrum-spring-sale-save-up-to-50-cf2a7a.webp"
 score: 6.72
+saleExpiry: "2026-04-30"
 draft: false
 ---
 I now have enough information to write the article. Here it is:

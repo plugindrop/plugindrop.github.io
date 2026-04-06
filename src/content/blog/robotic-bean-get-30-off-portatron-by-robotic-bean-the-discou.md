@@ -7,6 +7,7 @@ affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Inst
 heroImage: "/images/robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou.webp"
 score: 5.16
 dealPrice: "$69"
+saleExpiry: "2026-04-12"
 draft: false
 ---
 ---

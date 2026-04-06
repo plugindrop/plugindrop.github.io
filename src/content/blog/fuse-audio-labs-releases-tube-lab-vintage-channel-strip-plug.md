@@ -8,6 +8,7 @@ heroImage: "/images/fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug
 score: 7.95
 dealPrice: "$29"
 originalPrice: "$69"
+saleExpiry: "2026-05-02"
 draft: false
 ---
 
