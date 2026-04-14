@@ -3,7 +3,7 @@ title: "Martinic Easter Flash Sale - Up To 80% Off"
 description: "Martinic is running an Easter Flash Sale with discounts up to 80% off their vintage-modeled synths and effects. The AX Chorus drops to just $9.80, and the..."
 pubDate: "2026-04-03T06:22:35Z"
 tags: []
-affiliate: "https://www.kvraudio.com/news/martinic-easter-flash-sale---up-to-80-off-66454?utm_source=kvr_deals_tracker&utm_medium=rssfeed&utm_campaign=rss&utm_content=66454"
+affiliate: "https://www.martinic.com/en/products"
 heroImage: "/images/martinic-easter-flash-sale-up-to-80-off-27d2b4.webp"
 score: 5.39
 saleExpiry: "2026-04-13"
@@ -12,7 +12,7 @@ draft: false
 
 ---
 
-**TL;DR:** Martinic is running an Easter Flash Sale with discounts up to 80% off their vintage-modeled synths and effects. The AX Chorus drops to just $9.80, and the AX73 synth plus various preset collections are heavily discounted. Hunt for purple Easter eggs on the product pages to reveal your discount. [Grab the deals on KVR before they hatch away](https://www.kvraudio.com/news/martinic-easter-flash-sale---up-to-80-off-66454?utm_source=kvr_deals_tracker&utm_medium=rssfeed&utm_campaign=rss&utm_content=66454).
+**TL;DR:** Martinic is running an Easter Flash Sale with discounts up to 80% off their vintage-modeled synths and effects. The AX Chorus drops to just $9.80, and the AX73 synth plus various preset collections are heavily discounted. Hunt for purple Easter eggs on the product pages to reveal your discount. [Grab the deals on KVR before they hatch away](https://www.martinic.com/en/products).
 
 ## What Is Martinic?
 
@@ -40,7 +40,7 @@ Martinic occupies a niche space in the plugin world — they're not a household 
 
 ## Pricing & Deal Details
 
-This Easter sale uses an interactive "egg hunt" mechanic — look for purple Easter eggs next to products on [martinic.com](https://www.kvraudio.com/news/martinic-easter-flash-sale---up-to-80-off-66454?utm_source=kvr_deals_tracker&utm_medium=rssfeed&utm_campaign=rss&utm_content=66454) and click them to reveal your discount.
+This Easter sale uses an interactive "egg hunt" mechanic — look for purple Easter eggs next to products on [martinic.com](https://www.martinic.com/en/products) and click them to reveal your discount.
 
 | Product | Discount | Sale Price |
 |---|---|---|
@@ -79,7 +79,7 @@ A: Flash sales are time-limited by nature. Check the product page for the exact 
 
 ## Get the Deal
 
-Up to 80% off Martinic's vintage-modeled plugins doesn't come around often — their last sale was only 33% off. The AX Chorus at $9.80 is practically a no-brainer add to any plugin collection. [Head to the sale page and start hunting for eggs](https://www.kvraudio.com/news/martinic-easter-flash-sale---up-to-80-off-66454?utm_source=kvr_deals_tracker&utm_medium=rssfeed&utm_campaign=rss&utm_content=66454).
+Up to 80% off Martinic's vintage-modeled plugins doesn't come around often — their last sale was only 33% off. The AX Chorus at $9.80 is practically a no-brainer add to any plugin collection. [Head to the sale page and start hunting for eggs](https://www.martinic.com/en/products).
 
 ---
 

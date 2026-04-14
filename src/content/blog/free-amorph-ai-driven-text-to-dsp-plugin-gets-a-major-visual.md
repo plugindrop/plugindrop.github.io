@@ -3,13 +3,13 @@ title: "Free Amorph AI-driven text-to-DSP plugin gets a major visual update"
 description: "Amorph, the AI-driven text-to-DSP plugin by Artists in DSP, just dropped a major GUI overhaul — and it's still **completely free** in open beta. Custom UI..."
 pubDate: "2026-04-03T13:48:19Z"
 tags: ["news", "ai", "free software", "mac", "windows"]
-affiliate: "https://bedroomproducersblog.com/2026/04/03/amorph-gui-update/"
+affiliate: "https://artistsindsp.gumroad.com/l/amorph"
 heroImage: "/images/free-amorph-ai-driven-text-to-dsp-plugin-gets-a-major-visual.jpg"
 score: 7.35
 draft: false
 ---
 
-**TL;DR:** Amorph, the AI-driven text-to-DSP plugin by Artists in DSP, just dropped a major GUI overhaul — and it's still **completely free** in open beta. Custom UI skins, cloud-based preset browsing, and a new MIDI variant for building arpeggiators and sequencers. Zero dollars. [Grab it while it's free](https://bedroomproducersblog.com/2026/04/03/amorph-gui-update/).
+**TL;DR:** Amorph, the AI-driven text-to-DSP plugin by Artists in DSP, just dropped a major GUI overhaul — and it's still **completely free** in open beta. Custom UI skins, cloud-based preset browsing, and a new MIDI variant for building arpeggiators and sequencers. Zero dollars. [Grab it while it's free](https://artistsindsp.gumroad.com/l/amorph).
 
 ## What Is Amorph?
 
@@ -43,7 +43,7 @@ Amorph is still a newer, niche release in open beta, so community discussions ar
 
 Amorph is currently available at no cost during its open beta phase. There's no indication yet of what pricing will look like post-beta, so now is the time to lock it in. The plugin is distributed through Gumroad.
 
-Verify current availability on the product page — beta access could change. [Get Amorph free here](https://bedroomproducersblog.com/2026/04/03/amorph-gui-update/).
+Verify current availability on the product page — beta access could change. [Get Amorph free here](https://artistsindsp.gumroad.com/l/amorph).
 
 ## Alternatives at a Glance
 
@@ -71,7 +71,7 @@ A: macOS 10.15 or later, or Windows 10/11. For additional details on CPU and RAM
 
 ## Get the Deal
 
-A free AI-powered plugin that turns text into custom instruments and effects — with a fresh GUI update, MIDI capabilities, and cloud preset browsing. No reason to sleep on this one. [Download Amorph free while it's in open beta](https://bedroomproducersblog.com/2026/04/03/amorph-gui-update/).
+A free AI-powered plugin that turns text into custom instruments and effects — with a fresh GUI update, MIDI capabilities, and cloud preset browsing. No reason to sleep on this one. [Download Amorph free while it's in open beta](https://artistsindsp.gumroad.com/l/amorph).
 
 ---
 

@@ -3,7 +3,7 @@ title: "My Korg Phase8 Launch Edition // First Quick Test"
 description: "The Korg Phase8 Launch Edition is available at $1,149 — the same price as the standard version but bundled with three exclusive limited-edition percussive..."
 pubDate: "2026-04-04T01:44:06Z"
 tags: ["synthesizers"]
-affiliate: "https://www.youtube.com/watch"
+affiliate: "https://www.sweetwater.com/store/detail/Phase8LE--korg-phase8-8-voice-acoustic-synthesizer-launch-edition"
 heroImage: "/images/my-korg-phase8-launch-edition-first-quick-test-75e13d.webp"
 score: 4.92
 draft: false
@@ -11,7 +11,7 @@ draft: false
 
 ---
 
-**TL;DR:** The Korg Phase8 Launch Edition is available at $1,149 — the same price as the standard version but bundled with three exclusive limited-edition percussive resonators you can't get separately. If you've been eyeing this one-of-a-kind acoustic synthesizer, the Launch Edition extras make now the time to pull the trigger. [Check availability here](https://www.youtube.com/watch).
+**TL;DR:** The Korg Phase8 Launch Edition is available at $1,149 — the same price as the standard version but bundled with three exclusive limited-edition percussive resonators you can't get separately. If you've been eyeing this one-of-a-kind acoustic synthesizer, the Launch Edition extras make now the time to pull the trigger. [Check availability here](https://www.sweetwater.com/store/detail/Phase8LE--korg-phase8-8-voice-acoustic-synthesizer-launch-edition).
 
 ## What Is the Korg Phase8?
 
@@ -45,7 +45,7 @@ The Phase8 has sparked a lively debate across the synth community. On Reddit's r
 
 The Launch Edition is priced the same as the standard Phase8, but it bundles three limited-edition percussive resonators with irregular shapes designed for expanded sonic exploration. Once the Launch Edition stock is gone, these resonators won't be available separately. Verify current availability on the product page — Launch Edition units have been selling quickly.
 
-[Grab the Launch Edition while it's available](https://www.youtube.com/watch)
+[Grab the Launch Edition while it's available](https://www.sweetwater.com/store/detail/Phase8LE--korg-phase8-8-voice-acoustic-synthesizer-launch-edition)
 
 ## Alternatives at a Glance
 
@@ -75,7 +75,7 @@ A: Check the [official Korg Phase8 specifications page](https://www.korg.com/us/
 
 The Phase8 Launch Edition gives you three bonus resonators at no extra cost over the standard price — but only while Launch Edition stock lasts. If this instrument has been on your radar, the extras make this the smartest time to buy.
 
-[Check Launch Edition availability here](https://www.youtube.com/watch)
+[Check Launch Edition availability here](https://www.sweetwater.com/store/detail/Phase8LE--korg-phase8-8-voice-acoustic-synthesizer-launch-edition)
 
 ---
 

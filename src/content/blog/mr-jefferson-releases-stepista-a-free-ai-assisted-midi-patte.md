@@ -3,13 +3,13 @@ title: "Mr. Jefferson releases Stepista, a FREE AI-assisted MIDI pattern generat
 description: "Mr. Jefferson just dropped **Stepista**, an AI-assisted MIDI pattern generator — and it's **completely free**. No ~~$49~~ sale price, no coupon code. Just..."
 pubDate: "2026-04-03T13:48:18Z"
 tags: ["news", "ai", "free software", "mac", "windows"]
-affiliate: "https://bedroomproducersblog.com/2026/04/03/mr-jefferson-stepista/"
+affiliate: "https://stepista.vercel.app"
 heroImage: "/images/mr-jefferson-releases-stepista-a-free-ai-assisted-midi-patte.jpg"
 score: 9.45
 originalPrice: "$49"
 draft: false
 ---
-**TL;DR:** Mr. Jefferson just dropped **Stepista**, an AI-assisted MIDI pattern generator — and it's **completely free**. No ~~$49~~ sale price, no coupon code. Just free. It generates drum patterns, basslines, melodies, and grooves using AI and music-theory algorithms across 24 genre presets. [Grab Stepista for free here.](https://bedroomproducersblog.com/2026/04/03/mr-jefferson-stepista/)
+**TL;DR:** Mr. Jefferson just dropped **Stepista**, an AI-assisted MIDI pattern generator — and it's **completely free**. No ~~$49~~ sale price, no coupon code. Just free. It generates drum patterns, basslines, melodies, and grooves using AI and music-theory algorithms across 24 genre presets. [Grab Stepista for free here.](https://stepista.vercel.app)
 
 ## What Is Stepista?
 
@@ -43,7 +43,7 @@ This is a newer release — community discussions are still building. As a free 
 
 This isn't a limited-time sale or a temporarily unlocked paid product. Stepista is offered as freeware by Mr. Jefferson. No account creation or email signup has been mentioned — verify current download requirements on the product page, as details can change.
 
-[Download Stepista for free here.](https://bedroomproducersblog.com/2026/04/03/mr-jefferson-stepista/)
+[Download Stepista for free here.](https://stepista.vercel.app)
 
 ## Alternatives at a Glance
 
@@ -73,7 +73,7 @@ A: Check the official product page at stepista.vercel.app for current system req
 
 Free is free. Stepista gives you AI-generated MIDI patterns across drums, bass, melody, and grooves — with 24 genre presets, scale-locking, and drag-and-drop MIDI export — without spending a cent.
 
-[Get Stepista for free right here.](https://bedroomproducersblog.com/2026/04/03/mr-jefferson-stepista/)
+[Get Stepista for free right here.](https://stepista.vercel.app)
 
 ---
 

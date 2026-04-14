@@ -3,12 +3,12 @@ title: "[MIDI Klowd] MIDI Klowd Easter Sale - 50% off on all MIDI and sample pac
 description: "MIDI Klowd is running an Easter Sale with **50% off all MIDI and sample packs** — use code **EASTER** at checkout before April 5th. If you've been eyeing..."
 pubDate: "2026-04-04T05:39:11Z"
 tags: ["newplugindeals", "midi klowd"]
-affiliate: "https://midiklowd.com/"
+affiliate: "https://midiklowd.com/midi-klowd-everything-bundle"
 heroImage: "/images/midi-klowd-midi-klowd-easter-sale-50-off-on-all-midi-and-sam.webp"
 score: 6.60
 draft: false
 ---
-**TL;DR:** MIDI Klowd is running an Easter Sale with **50% off all MIDI and sample packs** — use code **EASTER** at checkout before April 5th. If you've been eyeing their genre packs or the Everything Bundle, this is half price across the board. [Grab the deal at MIDI Klowd](https://midiklowd.com/) before the code expires.
+**TL;DR:** MIDI Klowd is running an Easter Sale with **50% off all MIDI and sample packs** — use code **EASTER** at checkout before April 5th. If you've been eyeing their genre packs or the Everything Bundle, this is half price across the board. [Grab the deal at MIDI Klowd](https://midiklowd.com/midi-klowd-everything-bundle) before the code expires.
 
 ## What Is MIDI Klowd?
 
@@ -45,7 +45,7 @@ Since MIDI Klowd's catalog includes a range of individual packs and bundles at d
 | **Applies To** | Entire store — individual packs and bundles |
 | **Expiry** | April 5th, 2025 |
 
-If you're considering a bundle like the Everything Bundle, the 50% cut makes the per-pack cost significantly lower than buying individually. Check the [MIDI Klowd store](https://midiklowd.com/) for current individual and bundle pricing — verify before checkout, as prices may vary.
+If you're considering a bundle like the Everything Bundle, the 50% cut makes the per-pack cost significantly lower than buying individually. Check the [MIDI Klowd store](https://midiklowd.com/midi-klowd-everything-bundle) for current individual and bundle pricing — verify before checkout, as prices may vary.
 
 MIDI Klowd doesn't appear to run frequent sitewide sales at this level, so 50% off the full catalog is worth noting if you've had packs in your wishlist.
 
@@ -77,7 +77,7 @@ A: Since these are digital downloads, check MIDI Klowd's official site for their
 
 50% off the entire MIDI Klowd catalog doesn't come around often. Use code **EASTER** before April 5th and stock up on MIDI packs, sample packs, or bundles at half price.
 
-**[Shop the MIDI Klowd Easter Sale here.](https://midiklowd.com/)**
+**[Shop the MIDI Klowd Easter Sale here.](https://midiklowd.com/midi-klowd-everything-bundle)**
 
 ---
 

@@ -3,12 +3,12 @@ title: "The MIDI Association Honors the life of Ikutaro Kakehashi, Founder of Ro
 description: "The MIDI Association has officially honored the life and legacy of Ikutaro Kakehashi, the visionary founder of Roland Corporation and a key figure behind..."
 pubDate: "2026-04-03T04:35:03Z"
 tags: []
-affiliate: "https://www.kvraudio.com/news/the-midi-association-honors-the-life-of-ikutaro-kakehashi-founder-of-roland-66585?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=66585"
+affiliate: "https://www.midi.org/"
 heroImage: "/images/the-midi-association-honors-the-life-of-ikutaro-kakehashi-fo.webp"
 score: 4.80
 draft: false
 ---
-**TL;DR:** The MIDI Association has officially honored the life and legacy of Ikutaro Kakehashi, the visionary founder of Roland Corporation and a key figure behind the creation of the MIDI standard. This is a significant moment for the music production community — [read the full tribute and details on KVR](https://www.kvraudio.com/news/the-midi-association-honors-the-life-of-ikutaro-kakehashi-founder-of-roland-66585?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=66585).
+**TL;DR:** The MIDI Association has officially honored the life and legacy of Ikutaro Kakehashi, the visionary founder of Roland Corporation and a key figure behind the creation of the MIDI standard. This is a significant moment for the music production community — [read the full tribute and details on KVR](https://www.midi.org/).
 
 ## Who Was Ikutaro Kakehashi?
 
@@ -35,7 +35,7 @@ Kakehashi and Dave Smith jointly received a Technical Grammy Award in 2013 for t
 
 Kakehashi's legacy has been widely discussed across music production communities for years. On forums like KVR, Reddit's r/synthesizers, and Gearslutz (now Gearspace), producers frequently cite Roland's instruments as foundational to their workflows. The announcement of the MIDI Association's tribute has renewed conversations about Kakehashi's outsized role in making modern music production possible.
 
-Community sentiment consistently reflects deep respect — users commonly mention that MIDI is the "invisible glue" holding their studios together, and credit Kakehashi for making that a reality. Check [KVR](https://www.kvraudio.com/news/the-midi-association-honors-the-life-of-ikutaro-kakehashi-founder-of-roland-66585?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=66585) for ongoing community discussion.
+Community sentiment consistently reflects deep respect — users commonly mention that MIDI is the "invisible glue" holding their studios together, and credit Kakehashi for making that a reality. Check [KVR](https://www.midi.org/) for ongoing community discussion.
 
 ## Who Should Care About This?
 
@@ -64,7 +64,7 @@ A: Absolutely. MIDI remains the universal standard for communication between ins
 
 ## Read the Full Tribute
 
-The MIDI Association's recognition of Ikutaro Kakehashi is a meaningful moment for anyone who makes music with technology. His vision for an open, universal standard changed everything. [Read the full coverage and community discussion on KVR](https://www.kvraudio.com/news/the-midi-association-honors-the-life-of-ikutaro-kakehashi-founder-of-roland-66585?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=66585).
+The MIDI Association's recognition of Ikutaro Kakehashi is a meaningful moment for anyone who makes music with technology. His vision for an open, universal standard changed everything. [Read the full coverage and community discussion on KVR](https://www.midi.org/).
 
 ---
 

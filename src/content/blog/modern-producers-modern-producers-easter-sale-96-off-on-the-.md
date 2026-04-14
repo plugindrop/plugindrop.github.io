@@ -3,12 +3,12 @@ title: "[Modern Producers] Modern Producers Easter Sale - 96% off on the Easter 
 description: "Modern Producers is running an Easter Sale with a massive **96% off** the Easter Bundle 2026 — a collection of 30 sample kits from Jungle Loops. That's..."
 pubDate: "2026-04-04T05:03:33Z"
 tags: ["newplugindeals", "modern producers"]
-affiliate: "https://www.modernproducers.com/"
+affiliate: "https://www.modernproducers.com/products/easter-bundle-2026"
 heroImage: "/images/modern-producers-modern-producers-easter-sale-96-off-on-the-.webp"
 score: 6.36
 draft: false
 ---
-**TL;DR:** Modern Producers is running an Easter Sale with a massive **96% off** the Easter Bundle 2026 — a collection of 30 sample kits from Jungle Loops. That's pennies per kit at this discount level. Check exact pricing and grab the bundle at [Modern Producers](https://www.modernproducers.com/) before the sale ends.
+**TL;DR:** Modern Producers is running an Easter Sale with a massive **96% off** the Easter Bundle 2026 — a collection of 30 sample kits from Jungle Loops. That's pennies per kit at this discount level. Check exact pricing and grab the bundle at [Modern Producers](https://www.modernproducers.com/products/easter-bundle-2026) before the sale ends.
 
 ## What Is the Modern Producers Easter Bundle 2026?
 
@@ -44,7 +44,7 @@ With 30 kits in the bundle, even a modest sale price divided by 30 puts the per-
 - **Expiry:** Not confirmed — this could end without notice.
 - **Price History:** Modern Producers frequently runs steep seasonal discounts (Black Friday, Easter, etc.), but 96% off is on the higher end of their typical promotions.
 
-Verify current pricing on the product page — deals can change without warning. [Grab the Easter Bundle at Modern Producers](https://www.modernproducers.com/).
+Verify current pricing on the product page — deals can change without warning. [Grab the Easter Bundle at Modern Producers](https://www.modernproducers.com/products/easter-bundle-2026).
 
 ## Alternatives at a Glance
 
@@ -74,7 +74,7 @@ A: No. Sample packs work with any DAW — FL Studio, Ableton Live, Logic Pro, an
 
 Thirty kits. 96% off. That's the kind of math that doesn't need much deliberation. If you produce hip-hop, trap, or just want a massive injection of royalty-free loops and one-shots into your library, this Easter Bundle checks the box.
 
-[Head to Modern Producers and lock in the deal before it's gone.](https://www.modernproducers.com/)
+[Head to Modern Producers and lock in the deal before it's gone.](https://www.modernproducers.com/products/easter-bundle-2026)
 
 ---
 

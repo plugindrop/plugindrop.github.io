@@ -3,12 +3,12 @@ title: "Cotorro Audio releases free P1E Resonance Unit Harmonic Exciter Plugin (
 description: "Cotorro Audio just dropped the P1E Resonance Unit — a harmonic exciter plugin — for absolutely free. VST3 and LV2 formats. Zero dollars. No catch. Grab it..."
 pubDate: "2026-04-02T11:37:46Z"
 tags: []
-affiliate: "https://www.kvraudio.com/news/cotorro-audio-releases-free-p1e-resonance-unit-harmonic-exciter-plugin-vst3-lv2-66579?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=66579"
+affiliate: "https://cotorroaudio.itch.io/p1eru"
 heroImage: "/images/cotorro-audio-releases-free-p1e-resonance-unit-harmonic-exci.webp"
 score: 7.35
 draft: false
 ---
-**TL;DR:** Cotorro Audio just dropped the P1E Resonance Unit — a harmonic exciter plugin — for absolutely free. VST3 and LV2 formats. Zero dollars. No catch. [Grab it now before it disappears from your radar.](https://www.kvraudio.com/news/cotorro-audio-releases-free-p1e-resonance-unit-harmonic-exciter-plugin-vst3-lv2-66579?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=66579)
+**TL;DR:** Cotorro Audio just dropped the P1E Resonance Unit — a harmonic exciter plugin — for absolutely free. VST3 and LV2 formats. Zero dollars. No catch. [Grab it now before it disappears from your radar.](https://cotorroaudio.itch.io/p1eru)
 
 ## What Is the P1E Resonance Unit?
 
@@ -25,7 +25,7 @@ For full technical specs and system requirements, check the official product pag
 
 ## What Producers Are Saying
 
-This is a brand-new release from a smaller developer — community discussions are still building. As word spreads through freeware roundups and plugin forums, expect early impressions to surface. Check [KVR](https://www.kvraudio.com/news/cotorro-audio-releases-free-p1e-resonance-unit-harmonic-exciter-plugin-vst3-lv2-66579?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=66579) or Reddit's r/AudioProductionDeals for user feedback as it rolls in.
+This is a brand-new release from a smaller developer — community discussions are still building. As word spreads through freeware roundups and plugin forums, expect early impressions to surface. Check [KVR](https://cotorroaudio.itch.io/p1eru) or Reddit's r/AudioProductionDeals for user feedback as it rolls in.
 
 ## Who Is It For?
 
@@ -72,7 +72,7 @@ A: No iLok requirement has been indicated, but verify on the download page befor
 
 A free harmonic exciter with LV2 support? That alone makes it worth the download. Add it to your collection now — zero risk, zero cost.
 
-[**Download the P1E Resonance Unit free from Cotorro Audio →**](https://www.kvraudio.com/news/cotorro-audio-releases-free-p1e-resonance-unit-harmonic-exciter-plugin-vst3-lv2-66579?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=66579)
+[**Download the P1E Resonance Unit free from Cotorro Audio →**](https://cotorroaudio.itch.io/p1eru)
 
 ---
 

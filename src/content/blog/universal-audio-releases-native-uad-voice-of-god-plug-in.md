@@ -3,7 +3,7 @@ title: "Universal Audio releases native UAD Voice Of God Plug‑In"
 description: "Universal Audio just dropped the Little Labs Voice Of God Bass Resonance as a native UAD plug-in — no Apollo hardware required. Intro price is **$49**..."
 pubDate: "2026-04-03T04:34:43Z"
 tags: []
-affiliate: "https://www.kvraudio.com/news/universal-audio-releases-native-uad-voice-of-god-plug-in-66589?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=66589"
+affiliate: "https://www.uaudio.com/uad-plugins/special-processing/little-labs-voice-of-god.html"
 heroImage: "/images/universal-audio-releases-native-uad-voice-of-god-plug-in.webp"
 score: 5.88
 dealPrice: "$49"
@@ -12,7 +12,7 @@ saleExpiry: "2026-04-30"
 draft: false
 ---
 
-**TL;DR:** Universal Audio just dropped the Little Labs Voice Of God Bass Resonance as a native UAD plug-in — no Apollo hardware required. Intro price is **$49** (~~$99~~) until April 30, 2026. That's 50% off a studio-grade bass resonance tool. [Grab it here before the intro deal ends.](https://www.kvraudio.com/news/universal-audio-releases-native-uad-voice-of-god-plug-in-66589?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=66589)
+**TL;DR:** Universal Audio just dropped the Little Labs Voice Of God Bass Resonance as a native UAD plug-in — no Apollo hardware required. Intro price is **$49** (~~$99~~) until April 30, 2026. That's 50% off a studio-grade bass resonance tool. [Grab it here before the intro deal ends.](https://www.uaudio.com/uad-plugins/special-processing/little-labs-voice-of-god.html)
 
 ## What Is the UAD Little Labs Voice Of God?
 
@@ -46,7 +46,7 @@ The hardware Voice Of God module has a loyal following, particularly among voice
 
 The $49 intro price runs until **April 30, 2026**. After that, it returns to $99. UA intro pricing on new native releases tends to be the deepest discount you'll see for a while, so this is likely the best time to pick it up.
 
-Verify current pricing on the product page — deals can change. [Check the current price and grab the deal here.](https://www.kvraudio.com/news/universal-audio-releases-native-uad-voice-of-god-plug-in-66589?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=66589)
+Verify current pricing on the product page — deals can change. [Check the current price and grab the deal here.](https://www.uaudio.com/uad-plugins/special-processing/little-labs-voice-of-god.html)
 
 ## Alternatives at a Glance
 
@@ -74,7 +74,7 @@ A: Check the official Universal Audio product page for detailed system requireme
 
 ## Get the Deal
 
-Half off a UA plug-in built for one job — making your low end hit exactly where it should. $49 instead of $99, but only until April 30. [Don't sleep on this one.](https://www.kvraudio.com/news/universal-audio-releases-native-uad-voice-of-god-plug-in-66589?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=66589)
+Half off a UA plug-in built for one job — making your low end hit exactly where it should. $49 instead of $99, but only until April 30. [Don't sleep on this one.](https://www.uaudio.com/uad-plugins/special-processing/little-labs-voice-of-god.html)
 
 ---
 

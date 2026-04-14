@@ -3,13 +3,13 @@ title: "[ChopTones] ChopTones Easter Sale - 20% off on all products. Expiry: Apr
 description: "ChopTones is running a 20% off Easter Sale on their entire catalog of guitar amp profiles and impulse responses. If you've been eyeing any of their tone..."
 pubDate: "2026-04-04T06:14:21Z"
 tags: ["newplugindeals", "choptones"]
-affiliate: "https://www.choptones.com/"
+affiliate: "https://www.choptones.com/collections"
 heroImage: "/images/choptones-choptones-easter-sale-20-off-on-all-products-expir.webp"
 score: 5.16
 saleExpiry: "2026-04-13"
 draft: false
 ---
-**TL;DR:** ChopTones is running a 20% off Easter Sale on their entire catalog of guitar amp profiles and impulse responses. If you've been eyeing any of their tone packs, this is a solid window to grab them at a discount. Sale runs through April 13th — [shop the full catalog here](https://www.choptones.com/).
+**TL;DR:** ChopTones is running a 20% off Easter Sale on their entire catalog of guitar amp profiles and impulse responses. If you've been eyeing any of their tone packs, this is a solid window to grab them at a discount. Sale runs through April 13th — [shop the full catalog here](https://www.choptones.com/collections).
 
 ## What Is ChopTones?
 
@@ -46,7 +46,7 @@ ChopTones does run periodic sales, but a site-wide 20% discount across the entir
 
 **Sale ends: April 13th, 2026.**
 
-Verify current pricing on the product page — deals can change. [Browse the full ChopTones catalog here](https://www.choptones.com/).
+Verify current pricing on the product page — deals can change. [Browse the full ChopTones catalog here](https://www.choptones.com/collections).
 
 ## Alternatives at a Glance
 
@@ -74,7 +74,7 @@ A: Check the ChopTones licensing terms on their official site for details on com
 
 ## Get the Deal
 
-20% off every amp profile and IR pack in the ChopTones catalog — no cherry-picking, the whole store is on sale. The deal expires April 13th, so don't sit on it too long. [Grab your packs at ChopTones before the sale ends](https://www.choptones.com/).
+20% off every amp profile and IR pack in the ChopTones catalog — no cherry-picking, the whole store is on sale. The deal expires April 13th, so don't sit on it too long. [Grab your packs at ChopTones before the sale ends](https://www.choptones.com/collections).
 
 ---
 

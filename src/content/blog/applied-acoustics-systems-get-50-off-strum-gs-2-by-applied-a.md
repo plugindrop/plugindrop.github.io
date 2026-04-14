@@ -4,6 +4,7 @@ description: "Applied Acoustics Systems is offering Strum GS-2 at 50% off — ~~
 pubDate: "2026-04-01T18:10:57Z"
 tags: ["sale", "guitar", "applied acoustics systems", "physical modeling", "plugin boutique", "strum"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2-Acoustic-Electric"
+heroImage: "/images/applied-acoustics-systems-get-50-off-strum-gs-2-by-applied-a.jpg"
 score: 5.16
 dealPrice: "$99"
 originalPrice: "$198"

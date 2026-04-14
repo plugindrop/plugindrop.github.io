@@ -3,14 +3,14 @@ title: "[Martinic] Martinic Easter Sale - up to 80% off on plugins and AX73 coll
 description: "Martinic's entire plugin catalog is up to 80% off through April 6, 2026. The flagship AX73 synth (regular ~~$149~~) and expansion collections like Orange..."
 pubDate: "2026-04-04T05:39:33Z"
 tags: ["newplugindeals", "martinic"]
-affiliate: "https://www.martinic.com/en"
+affiliate: "https://www.martinic.com/en/products"
 heroImage: "/images/martinic-martinic-easter-sale-up-to-80-off-on-plugins-and-ax.webp"
 score: 6.36
 originalPrice: "$149"
 saleExpiry: "2026-04-13"
 draft: false
 ---
-**TL;DR:** Martinic's entire plugin catalog is up to 80% off through April 6, 2026. The flagship AX73 synth (regular ~~$149~~) and expansion collections like Orange Lo-fi (79% off) and Time Capsule '86 (63% off) are all included. [Grab the deals at Martinic's site](https://www.martinic.com/en) before Easter Monday ends it.
+**TL;DR:** Martinic's entire plugin catalog is up to 80% off through April 6, 2026. The flagship AX73 synth (regular ~~$149~~) and expansion collections like Orange Lo-fi (79% off) and Time Capsule '86 (63% off) are all included. [Grab the deals at Martinic's site](https://www.martinic.com/en/products) before Easter Monday ends it.
 
 ## What Is Martinic AX73?
 
@@ -51,7 +51,7 @@ Discount percentages vary by product. Here are examples based on reported sale f
 
 The sale runs **April 3–6, 2026** (through Easter Monday). Every product in the Martinic catalog is discounted. Martinic uses FastSpring license keys — no iLok or dongle required.
 
-Verify current pricing on the product page — deals can change. [Check all sale prices at Martinic](https://www.martinic.com/en).
+Verify current pricing on the product page — deals can change. [Check all sale prices at Martinic](https://www.martinic.com/en/products).
 
 ## Alternatives at a Glance
 
@@ -79,7 +79,7 @@ A: Yes. All AX73 collections (Orange Lo-fi, Time Capsule '86, Forgotten Circuits
 
 ## Get the Deal
 
-Up to 80% off Martinic's entire catalog — synths, effects, and expansion packs — but only through Easter Monday, April 6. This kind of deep discount across their full lineup doesn't happen often. [Head to Martinic and lock in the savings before time runs out](https://www.martinic.com/en).
+Up to 80% off Martinic's entire catalog — synths, effects, and expansion packs — but only through Easter Monday, April 6. This kind of deep discount across their full lineup doesn't happen often. [Head to Martinic and lock in the savings before time runs out](https://www.martinic.com/en/products).
 
 ---
 

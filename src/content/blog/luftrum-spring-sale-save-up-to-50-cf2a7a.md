@@ -3,7 +3,7 @@ title: "Luftrum Spring Sale - Save Up to 50%"
 description: "Luftrum's Spring Sale is live — save up to 50% on their catalog of synth soundsets and Kontakt instruments. Latest releases are 20–30% off, while catalog..."
 pubDate: "2026-04-03T10:19:13Z"
 tags: []
-affiliate: "https://www.kvraudio.com/news/luftrum-spring-sale---save-up-to-50-66592?utm_source=kvr_deals_tracker&utm_medium=rssfeed&utm_campaign=rss&utm_content=66592"
+affiliate: "https://www.luftrum.com/synthpresets/"
 heroImage: "/images/luftrum-spring-sale-save-up-to-50-cf2a7a.webp"
 score: 6.72
 saleExpiry: "2026-04-30"
@@ -13,7 +13,7 @@ I now have enough information to write the article. Here it is:
 
 ---
 
-**TL;DR:** Luftrum's Spring Sale is live — save up to 50% on their catalog of synth soundsets and Kontakt instruments. Latest releases are 20–30% off, while catalog favorites like Lunaris, Bioscape, and Twilight drop 40–50%. Use promo code **"hellosun"** at checkout. [Grab the deals before they're gone.](https://www.kvraudio.com/news/luftrum-spring-sale---save-up-to-50-66592?utm_source=kvr_deals_tracker&utm_medium=rssfeed&utm_campaign=rss&utm_content=66592)
+**TL;DR:** Luftrum's Spring Sale is live — save up to 50% on their catalog of synth soundsets and Kontakt instruments. Latest releases are 20–30% off, while catalog favorites like Lunaris, Bioscape, and Twilight drop 40–50%. Use promo code **"hellosun"** at checkout. [Grab the deals before they're gone.](https://www.luftrum.com/synthpresets/)
 
 ## What Is Luftrum?
 
@@ -49,7 +49,7 @@ Luftrum runs seasonal sales a few times per year, typically offering 40–50% of
 
 Use promo code **"hellosun"** at checkout to unlock the discounts. Sale runs through mid-April — verify the exact end date on the product page, as Luftrum's spring sales typically last around 10 days.
 
-> **Note:** Verify current pricing on the product page — deals can change. [Check the Luftrum Spring Sale here.](https://www.kvraudio.com/news/luftrum-spring-sale---save-up-to-50-66592?utm_source=kvr_deals_tracker&utm_medium=rssfeed&utm_campaign=rss&utm_content=66592)
+> **Note:** Verify current pricing on the product page — deals can change. [Check the Luftrum Spring Sale here.](https://www.luftrum.com/synthpresets/)
 
 ## Alternatives at a Glance
 
@@ -77,7 +77,7 @@ A: Luftrum has historically provided free updates to existing owners — for exa
 
 ## Get the Deal
 
-Up to 50% off Luftrum's catalog of synth presets and Kontakt instruments doesn't come around every day. If you've had your eye on Lunaris, Bioscape, or any of their numbered soundsets, now's the time. [Head to the sale page and lock in the savings.](https://www.kvraudio.com/news/luftrum-spring-sale---save-up-to-50-66592?utm_source=kvr_deals_tracker&utm_medium=rssfeed&utm_campaign=rss&utm_content=66592)
+Up to 50% off Luftrum's catalog of synth presets and Kontakt instruments doesn't come around every day. If you've had your eye on Lunaris, Bioscape, or any of their numbered soundsets, now's the time. [Head to the sale page and lock in the savings.](https://www.luftrum.com/synthpresets/)
 
 ---
 

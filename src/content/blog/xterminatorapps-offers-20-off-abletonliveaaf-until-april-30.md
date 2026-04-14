@@ -3,7 +3,7 @@ title: "XterminatorApps offers 20% off AbletonLiveAAF until April 30"
 description: "XterminatorApps is running 20% off Abletonlive.aaf — the AAF-to-Ableton converter drops from ~~$50~~ to $40 until April 30, 2026. If you're tired of..."
 pubDate: "2026-04-03T23:06:03Z"
 tags: []
-affiliate: "https://www.kvraudio.com/news/xterminatorapps-offers-20-off-abletonliveaaf-until-april-30-66603?utm_source=kvr_deals_tracker&utm_medium=rssfeed&utm_campaign=rss&utm_content=66603"
+affiliate: "https://xterminatorapps.gumroad.com/l/abletonliveaaf/20APRIL"
 heroImage: "/images/xterminatorapps-offers-20-off-abletonliveaaf-until-april-30.webp"
 score: 4.62
 dealPrice: "$40"
@@ -11,7 +11,7 @@ originalPrice: "$50"
 saleExpiry: "2026-04-30"
 draft: false
 ---
-**TL;DR:** XterminatorApps is running 20% off Abletonlive.aaf — the AAF-to-Ableton converter drops from ~~$50~~ to $40 until April 30, 2026. If you're tired of manually rebuilding timelines from Pro Tools or Premiere Pro sessions, [grab the deal here](https://www.kvraudio.com/news/xterminatorapps-offers-20-off-abletonliveaaf-until-april-30-66603?utm_source=kvr_deals_tracker&utm_medium=rssfeed&utm_campaign=rss&utm_content=66603).
+**TL;DR:** XterminatorApps is running 20% off Abletonlive.aaf — the AAF-to-Ableton converter drops from ~~$50~~ to $40 until April 30, 2026. If you're tired of manually rebuilding timelines from Pro Tools or Premiere Pro sessions, [grab the deal here](https://xterminatorapps.gumroad.com/l/abletonliveaaf/20APRIL).
 
 ## What Is Abletonlive.aaf?
 
@@ -45,7 +45,7 @@ Abletonlive.aaf is a relatively niche utility targeting a specific post-producti
 
 The license is a one-time purchase covering both Windows and macOS. A free trial is available with 5 conversions included, so you can test the workflow before buying. This is a percentage-based sale on a relatively new product — XterminatorApps hasn't established a regular sale pattern yet, making it hard to predict when the next discount might appear.
 
-Verify current pricing on the product page — deals can change. [Pick up Abletonlive.aaf at 20% off here](https://www.kvraudio.com/news/xterminatorapps-offers-20-off-abletonliveaaf-until-april-30-66603?utm_source=kvr_deals_tracker&utm_medium=rssfeed&utm_campaign=rss&utm_content=66603).
+Verify current pricing on the product page — deals can change. [Pick up Abletonlive.aaf at 20% off here](https://xterminatorapps.gumroad.com/l/abletonliveaaf/20APRIL).
 
 ## Alternatives at a Glance
 
@@ -73,7 +73,7 @@ A: Yes, a single purchase covers both Windows and macOS.
 
 ## Get the Deal
 
-Save $10 on Abletonlive.aaf — 20% off until April 30, 2026. If AAF-to-Ableton conversion is part of your workflow, this is the cheapest it's been. [Grab the deal before it expires](https://www.kvraudio.com/news/xterminatorapps-offers-20-off-abletonliveaaf-until-april-30-66603?utm_source=kvr_deals_tracker&utm_medium=rssfeed&utm_campaign=rss&utm_content=66603).
+Save $10 on Abletonlive.aaf — 20% off until April 30, 2026. If AAF-to-Ableton conversion is part of your workflow, this is the cheapest it's been. [Grab the deal before it expires](https://xterminatorapps.gumroad.com/l/abletonliveaaf/20APRIL).
 
 ---
 

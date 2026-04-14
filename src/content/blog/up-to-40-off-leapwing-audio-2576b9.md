@@ -3,13 +3,14 @@ title: "Up to 40% off Leapwing Audio"
 description: "Leapwing Audio is running up to 40% off across their lineup of professional mixing and mastering plugins. That means tools like StageOne 2 drop from..."
 pubDate: "2026-04-01T23:01:40Z"
 tags: ["sale", "mastering", "mixing", "leapwing audio", "stereo imaging"]
-affiliate: "https://www.kvraudio.com/marketplace/deals?type=0&sort=price-latest-discount&q=leapwing%20Audio"
+affiliate: "https://www.pluginboutique.com/manufacturers/247-Leapwing-Audio"
+heroImage: "/images/up-to-40-off-leapwing-audio-2576b9.jpg"
 score: 4.44
 originalPrice: "$249"
 saleExpiry: "2026-04-30"
 draft: false
 ---
-**TL;DR:** Leapwing Audio is running up to 40% off across their lineup of professional mixing and mastering plugins. That means tools like StageOne 2 drop from ~~$249~~ to around $149, and RootOne goes from ~~$199~~ to roughly $119. If you've been eyeing their catalog, this is a solid window to pick something up. [See all Leapwing deals on KVR](https://www.kvraudio.com/marketplace/deals?type=0&sort=price-latest-discount&q=leapwing%20Audio).
+**TL;DR:** Leapwing Audio is running up to 40% off across their lineup of professional mixing and mastering plugins. That means tools like StageOne 2 drop from ~~$249~~ to around $149, and RootOne goes from ~~$199~~ to roughly $119. If you've been eyeing their catalog, this is a solid window to pick something up. [See all Leapwing deals on KVR](https://www.pluginboutique.com/manufacturers/247-Leapwing-Audio).
 
 ## What Is Leapwing Audio?
 
@@ -50,7 +51,7 @@ Leapwing Audio doesn't run sales constantly, so when discounts appear, they're w
 
 *Note: "Up to 40%" means discounts vary by product. Verify current pricing on the product page — deals can change without notice.*
 
-Leapwing doesn't discount as frequently as some larger competitors. Historical pricing data on [MusicSoftwareDeals](https://musicsoftwaredeals.com/manufacturer/leapwing-audio/) shows sales happen a few times per year, making this a reasonable time to buy if a specific plugin is on your list. [See all current Leapwing deals on KVR](https://www.kvraudio.com/marketplace/deals?type=0&sort=price-latest-discount&q=leapwing%20Audio).
+Leapwing doesn't discount as frequently as some larger competitors. Historical pricing data on [MusicSoftwareDeals](https://musicsoftwaredeals.com/manufacturer/leapwing-audio/) shows sales happen a few times per year, making this a reasonable time to buy if a specific plugin is on your list. [See all current Leapwing deals on KVR](https://www.pluginboutique.com/manufacturers/247-Leapwing-Audio).
 
 ## Alternatives at a Glance
 
@@ -78,7 +79,7 @@ A: Leapwing has occasionally run deeper discounts on individual products (up to 
 
 ## Get the Deal
 
-Up to 40% off a premium plugin lineup that doesn't go on sale every month. If StageOne 2, DynOne, or any of their tools have been sitting in your wishlist, this is a smart time to pull the trigger. [See all Leapwing Audio deals on KVR](https://www.kvraudio.com/marketplace/deals?type=0&sort=price-latest-discount&q=leapwing%20Audio).
+Up to 40% off a premium plugin lineup that doesn't go on sale every month. If StageOne 2, DynOne, or any of their tools have been sitting in your wishlist, this is a smart time to pull the trigger. [See all Leapwing Audio deals on KVR](https://www.pluginboutique.com/manufacturers/247-Leapwing-Audio).
 
 ---
 

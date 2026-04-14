@@ -3,13 +3,13 @@ title: "Up to 70% off Overloud"
 description: "Overloud is running up to 70% off across their plugin lineup, with the biggest savings on Gems bundles — the **Bundle of 3 Gems** drops from ~~€537~~ to..."
 pubDate: "2026-04-02T08:45:15Z"
 tags: []
-affiliate: "https://www.kvraudio.com/marketplace/overloud"
+affiliate: "https://www.overloud.com/"
 heroImage: "/images/up-to-70-off-overloud-f23946.webp"
 score: 4.44
 saleExpiry: "2026-04-30"
 draft: false
 ---
-**TL;DR:** Overloud is running up to 70% off across their plugin lineup, with the biggest savings on Gems bundles — the **Bundle of 3 Gems** drops from ~~€537~~ to **€159**, and the **Bundle of 5 Gems** goes from ~~€815~~ to **€249**. Individual Gem plugins start at ~~€139~~ **€69**. If you've had your eye on Overloud's analog-modeled processors or TH-U amp sims, this is a strong time to jump in. [Grab the deals on KVR Marketplace](https://www.kvraudio.com/marketplace/overloud).
+**TL;DR:** Overloud is running up to 70% off across their plugin lineup, with the biggest savings on Gems bundles — the **Bundle of 3 Gems** drops from ~~€537~~ to **€159**, and the **Bundle of 5 Gems** goes from ~~€815~~ to **€249**. Individual Gem plugins start at ~~€139~~ **€69**. If you've had your eye on Overloud's analog-modeled processors or TH-U amp sims, this is a strong time to jump in. [Grab the deals on KVR Marketplace](https://www.overloud.com/).
 
 ## What Is Overloud?
 
@@ -49,7 +49,7 @@ Overloud's Gems series has built a solid reputation among mixing engineers on fo
 
 The bundles are where the headline "up to 70% off" kicks in — buying 3 or 5 Gems as a bundle cuts per-plugin cost nearly in half compared to the already-discounted individual price. Overloud has historically run sales in the 30–50% range, so the 70% tier on bundles is notably aggressive.
 
-**Note:** Verify current pricing on the product page — deals can change. [Check the full Overloud catalog on KVR Marketplace](https://www.kvraudio.com/marketplace/overloud).
+**Note:** Verify current pricing on the product page — deals can change. [Check the full Overloud catalog on KVR Marketplace](https://www.overloud.com/).
 
 ## Alternatives at a Glance
 
@@ -77,7 +77,7 @@ A: Overloud has offered TH-U Essentials as a free download in the past. Check th
 
 ## Get the Deal
 
-Up to 70% off Overloud doesn't come around often — especially on pick-your-own bundles where you control what's in the box. Whether you're stacking Gems for your mix chain or grabbing TH-U for amp sim duties, the math favors buying now. [See all Overloud deals on KVR Marketplace](https://www.kvraudio.com/marketplace/overloud).
+Up to 70% off Overloud doesn't come around often — especially on pick-your-own bundles where you control what's in the box. Whether you're stacking Gems for your mix chain or grabbing TH-U for amp sim duties, the math favors buying now. [See all Overloud deals on KVR Marketplace](https://www.overloud.com/).
 
 ---
 
