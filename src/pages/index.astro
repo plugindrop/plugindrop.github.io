@@ -11,7 +11,11 @@ const allPosts = (await getCollection('blog'))
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 function hasHeroImage(post: any): boolean {
-	return typeof post.data.heroImage === 'string' && post.data.heroImage.startsWith('/images/heroes/');
+	return (
+		typeof post.data.heroImage === 'string' &&
+		post.data.heroImage.startsWith('/images/') &&
+		post.data.heroImage !== '/images/default-placeholder.jpg'
+	);
 }
 
 function getStoreName(url: string | undefined): string {
