@@ -8,6 +8,7 @@ heroImage: "/images/rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr
 score: 5.16
 originalPrice: "$239.95"
 saleExpiry: "2026-04-13"
+aiImage: true
 draft: false
 ---
 ---

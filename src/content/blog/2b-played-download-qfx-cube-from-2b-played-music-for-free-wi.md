@@ -6,6 +6,7 @@ tags: ["newplugindeals", "2b played"]
 affiliate: "https://2bplayed.com/product/qfx-cube/"
 heroImage: "/images/2b-played-download-qfx-cube-from-2b-played-music-for-free-wi.webp"
 score: 8.25
+aiImage: true
 draft: false
 ---
 ---

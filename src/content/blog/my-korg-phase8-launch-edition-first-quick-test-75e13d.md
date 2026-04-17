@@ -6,6 +6,7 @@ tags: ["synthesizers"]
 affiliate: "https://www.sweetwater.com/store/detail/Phase8LE--korg-phase8-8-voice-acoustic-synthesizer-launch-edition"
 heroImage: "/images/my-korg-phase8-launch-edition-first-quick-test-75e13d.webp"
 score: 4.92
+aiImage: true
 draft: false
 ---
 

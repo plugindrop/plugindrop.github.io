@@ -8,6 +8,7 @@ heroImage: "/images/robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou
 score: 5.16
 dealPrice: "$69"
 saleExpiry: "2026-04-12"
+aiImage: true
 draft: false
 ---
 ---

@@ -6,6 +6,7 @@ tags: ["newplugindeals", "midi klowd"]
 affiliate: "https://midiklowd.com/midi-klowd-everything-bundle"
 heroImage: "/images/midi-klowd-midi-klowd-easter-sale-50-off-on-all-midi-and-sam.webp"
 score: 6.60
+aiImage: true
 draft: false
 ---
 **TL;DR:** MIDI Klowd is running an Easter Sale with **50% off all MIDI and sample packs** — use code **EASTER** at checkout before April 5th. If you've been eyeing their genre packs or the Everything Bundle, this is half price across the board. [Grab the deal at MIDI Klowd](https://midiklowd.com/midi-klowd-everything-bundle) before the code expires.

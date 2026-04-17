@@ -8,6 +8,7 @@ heroImage: "/images/sonora-cinematic-sonora-cinematic-spring-sale-up-to-40-off-k
 score: 5.16
 originalPrice: "$80"
 saleExpiry: "2026-04-30"
+aiImage: true
 draft: false
 ---
 

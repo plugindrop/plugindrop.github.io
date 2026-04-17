@@ -11,6 +11,8 @@ const allPosts = (await getCollection('blog'))
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 function hasHeroImage(post: any): boolean {
+	// DALL-E生成画像（aiImage: true）はLatest Drop / Editor's Picksに表示しない
+	if (post.data.aiImage === true) return false;
 	return (
 		typeof post.data.heroImage === 'string' &&
 		post.data.heroImage.startsWith('/images/') &&

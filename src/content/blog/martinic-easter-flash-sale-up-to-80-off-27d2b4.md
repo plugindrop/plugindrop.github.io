@@ -7,6 +7,7 @@ affiliate: "https://www.martinic.com/en/products"
 heroImage: "/images/martinic-easter-flash-sale-up-to-80-off-27d2b4.webp"
 score: 5.39
 saleExpiry: "2026-04-13"
+aiImage: true
 draft: false
 ---
 

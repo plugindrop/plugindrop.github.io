@@ -7,6 +7,7 @@ affiliate: "https://www.luftrum.com/synthpresets/"
 heroImage: "/images/luftrum-spring-sale-save-up-to-50-cf2a7a.webp"
 score: 6.72
 saleExpiry: "2026-04-30"
+aiImage: true
 draft: false
 ---
 I now have enough information to write the article. Here it is:

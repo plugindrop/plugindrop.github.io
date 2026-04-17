@@ -6,6 +6,7 @@ tags: ["synthesizers"]
 affiliate: "https://www.diversekcox.com/products/pisces-midi-pack"
 heroImage: "/images/pisces-free-midi-pack-26301c.webp"
 score: 6.75
+aiImage: true
 draft: false
 ---
 

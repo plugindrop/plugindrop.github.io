@@ -9,6 +9,7 @@ score: 5.76
 dealPrice: "$79"
 originalPrice: "$129"
 saleExpiry: "2026-04-12"
+aiImage: true
 draft: false
 ---
 
