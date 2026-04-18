@@ -1,12 +1,12 @@
 ---
-title: "The Very Loud Indeed Co. Spring Sale - Up To 60% Off"
-description: "The Very Loud Indeed Co. is running a Spring Sale with up to 60% off their entire catalogue of cinematic scoring tools — Kontakt libraries, Omnisphere..."
-pubDate: "2026-04-02T11:03:25Z"
+title: The Very Loud Indeed Co. Spring Sale - Up To 60% Off
+description: The Very Loud Indeed Co. is running a Spring Sale with up to 60% off
+  their entire catalogue of cinematic scoring tools — Kontakt libraries, Omnisphere...
+pubDate: '2026-04-02T11:03:25Z'
 tags: []
-affiliate: "https://www.veryloudindeed.com/"
-heroImage: "/images/the-very-loud-indeed-co-spring-sale-up-to-60-off-74a582.webp"
-score: 7.08
-saleExpiry: "2026-04-30"
+affiliate: https://www.veryloudindeed.com/
+heroImage: /images/the-very-loud-indeed-co-spring-sale-up-to-60-off-74a582.webp
+saleExpiry: '2026-04-30'
 aiImage: true
 draft: false
 ---

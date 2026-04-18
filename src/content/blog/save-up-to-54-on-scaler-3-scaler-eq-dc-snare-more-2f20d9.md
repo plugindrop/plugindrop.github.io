@@ -1,13 +1,21 @@
 ---
-title: "Save up to 54% on Scaler 3, Scaler EQ, DC Snare & more"
-description: "Scaler Music is running an Easter sale at Plugin Boutique with up to 54% off their lineup — including Scaler 3, Scaler EQ, and DC Snares. Sale prices..."
-pubDate: "2026-04-03T08:32:35Z"
-tags: ["sales and promotions", "composing", "drums", "midi", "plugin boutique", "sale", "tools"]
-affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9"
-heroImage: "/images/save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9.jpg"
-score: 4.56
-saleExpiry: "2026-04-12"
+title: Save up to 54% on Scaler 3, Scaler EQ, DC Snare & more
+description: Scaler Music is running an Easter sale at Plugin Boutique with up to
+  54% off their lineup — including Scaler 3, Scaler EQ, and DC Snares. Sale prices...
+pubDate: '2026-04-03T08:32:35Z'
+tags:
+- sales and promotions
+- composing
+- drums
+- midi
+- plugin boutique
+- sale
+- tools
+affiliate: https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9
+heroImage: /images/save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9.jpg
+saleExpiry: '2026-04-12'
 draft: false
+aiImage: true
 ---
 
 **TL;DR:** Scaler Music is running an Easter sale at Plugin Boutique with up to 54% off their lineup — including Scaler 3, Scaler EQ, and DC Snares. Sale prices start at just $29, and bundles bring even deeper value. The sale ends April 9th, so act before it's gone. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9).

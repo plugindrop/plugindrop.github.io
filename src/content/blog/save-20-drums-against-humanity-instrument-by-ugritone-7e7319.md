@@ -1,15 +1,24 @@
 ---
-title: "Save 20% Drums Against Humanity instrument by Ugritone"
-description: "Ugritone's Drums Against Humanity — the Inferno-powered metal drum instrument — is currently ~~$99~~ **$79.20** with 20% off during the April Annihilation..."
-pubDate: "2026-04-03T10:54:52Z"
-tags: ["sales and promotions", "aax", "au", "drums", "metal", "sale", "ugritone", "vst"]
-affiliate: "https://ugritone.com/products/drums-against-humanity"
-heroImage: "/images/save-20-drums-against-humanity-instrument-by-ugritone-7e7319.jpg"
-score: 4.32
-dealPrice: "$79.20"
-originalPrice: "$99"
-saleExpiry: "2026-04-06"
+title: Save 20% Drums Against Humanity instrument by Ugritone
+description: Ugritone's Drums Against Humanity — the Inferno-powered metal drum instrument
+  — is currently ~~$99~~ **$79.20** with 20% off during the April Annihilation...
+pubDate: '2026-04-03T10:54:52Z'
+tags:
+- sales and promotions
+- aax
+- au
+- drums
+- metal
+- sale
+- ugritone
+- vst
+affiliate: https://ugritone.com/products/drums-against-humanity
+heroImage: /images/save-20-drums-against-humanity-instrument-by-ugritone-7e7319.jpg
+dealPrice: $79.20
+originalPrice: $99
+saleExpiry: '2026-04-06'
 draft: false
+aiImage: true
 ---
 **TL;DR:** Ugritone's Drums Against Humanity — the Inferno-powered metal drum instrument — is currently ~~$99~~ **$79.20** with 20% off during the April Annihilation sale (through April 6, 2026). An extra coupon code may stack for additional savings. If you produce extreme metal and want *that* Behemoth drum tone, [grab the deal here](https://ugritone.com/products/drums-against-humanity).
 

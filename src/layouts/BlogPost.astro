@@ -41,7 +41,13 @@ const articleLD = {
 	...(updatedDate ? { "dateModified": updatedDate.toISOString() } : {}),
 	...(resolvedImage ? { "image": resolvedImage } : {}),
 	"url": pageUrl,
-	"author": { "@type": "Organization", "name": "PluginDrop" },
+	"author": { "@type": "Organization", "name": "PluginDrop", "url": "https://plugindrop.net" },
+	"publisher": {
+		"@type": "Organization",
+		"name": "PluginDrop",
+		"url": "https://plugindrop.net",
+		"logo": { "@type": "ImageObject", "url": "https://plugindrop.net/images/logo-512.png" },
+	},
 };
 
 // BreadcrumbList schema
@@ -220,6 +226,14 @@ const faqLD = faqPairs.length > 0 ? {
 					link.setAttribute('target', '_blank');
 					link.setAttribute('rel', 'noopener noreferrer');
 				});
+				// Hero image fallback: if image fails to load, replace with placeholder
+				document.querySelectorAll('.hero-image img[data-fallback]').forEach(img => {
+					img.addEventListener('error', function handler() {
+						this.removeEventListener('error', handler);
+						const fallback = this.dataset.fallback;
+						if (fallback && this.src !== fallback) this.src = fallback;
+					});
+				});
 			});
 		</script>
 	</head>
@@ -231,7 +245,7 @@ const faqLD = faqPairs.length > 0 ? {
 			<article>
 				{imageStr && (
 					<div class="hero-image">
-						<img src={imageStr} alt={title} loading="eager" fetchpriority="high" />
+						<img src={imageStr} alt={title} loading="eager" fetchpriority="high" data-fallback="/images/default-placeholder.jpg" />
 					</div>
 				)}
 				<div class="prose">

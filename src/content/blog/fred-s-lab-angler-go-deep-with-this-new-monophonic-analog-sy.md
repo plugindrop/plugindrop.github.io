@@ -1,12 +1,18 @@
 ---
-title: "Fred’s Lab Angler: Go Deep With This New Monophonic Analog Synth"
-description: "Fred's Lab Angler is a new monophonic analog synthesizer designed for deep, bass-heavy sound design — now available at Thomann. Check the current street..."
-pubDate: "2026-04-15T01:06:54Z"
-tags: ["news", "analog synthesizer", "angler", "synth", "synthesizer"]
-affiliate: "https://www.thomann.de/intl/freds_lab_manatee.htm?utm_source=affiliate-bot&utm_medium=article&utm_campaign=fred-s-lab-angler-go-deep-with-this-new-monophonic-analog-sy"
-heroImage: "/images/fred-s-lab-angler-go-deep-with-this-new-monophonic-analog-sy.jpg"
-score: 3.12
+title: 'Fred’s Lab Angler: Go Deep With This New Monophonic Analog Synth'
+description: Fred's Lab Angler is a new monophonic analog synthesizer designed for
+  deep, bass-heavy sound design — now available at Thomann. Check the current street...
+pubDate: '2026-04-15T01:06:54Z'
+tags:
+- news
+- analog synthesizer
+- angler
+- synth
+- synthesizer
+affiliate: https://www.thomann.de/intl/freds_lab_manatee.htm?utm_source=affiliate-bot&utm_medium=article&utm_campaign=fred-s-lab-angler-go-deep-with-this-new-monophonic-analog-sy
+heroImage: /images/fred-s-lab-angler-go-deep-with-this-new-monophonic-analog-sy.jpg
 draft: false
+aiImage: true
 ---
 **TL;DR:** Fred's Lab Angler is a new monophonic analog synthesizer designed for deep, bass-heavy sound design — now available at Thomann. Check the current street price and any active promotions directly on the [Thomann product page](https://www.thomann.de/intl/freds_lab_manatee.htm?utm_source=affiliate-bot&utm_medium=article&utm_campaign=fred-s-lab-angler-go-deep-with-this-new-monophonic-analog-sy) before stock moves.
 

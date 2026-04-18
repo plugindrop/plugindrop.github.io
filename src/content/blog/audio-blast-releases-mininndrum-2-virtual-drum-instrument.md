@@ -1,12 +1,22 @@
 ---
-title: "Audio Blast releases MininnDrum 2 virtual drum instrument"
-description: "Audio Blast has dropped MininnDrum 2, an updated virtual drum instrument now available on Plugin Boutique. Check the product page for current pricing —..."
-pubDate: "2026-04-14T23:26:37Z"
-tags: ["instruments", "aax", "au", "audio blast", "clap", "drum machine", "drums", "sale", "vst"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/17144-MininnDrum2?utm_source=affiliate-bot&utm_medium=article&utm_campaign=audio-blast-releases-mininndrum-2-virtual-drum-instrument"
-heroImage: "/images/audio-blast-releases-mininndrum-2-virtual-drum-instrument.jpg"
-score: 3.60
+title: Audio Blast releases MininnDrum 2 virtual drum instrument
+description: Audio Blast has dropped MininnDrum 2, an updated virtual drum instrument
+  now available on Plugin Boutique. Check the product page for current pricing —...
+pubDate: '2026-04-14T23:26:37Z'
+tags:
+- instruments
+- aax
+- au
+- audio blast
+- clap
+- drum machine
+- drums
+- sale
+- vst
+affiliate: https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/17144-MininnDrum2?utm_source=affiliate-bot&utm_medium=article&utm_campaign=audio-blast-releases-mininndrum-2-virtual-drum-instrument
+heroImage: /images/audio-blast-releases-mininndrum-2-virtual-drum-instrument.jpg
 draft: false
+aiImage: true
 ---
 **TL;DR:** Audio Blast has dropped MininnDrum 2, an updated virtual drum instrument now available on Plugin Boutique. Check the product page for current pricing — grab it via the [Plugin Boutique listing](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/17144-MininnDrum2?utm_source=affiliate-bot&utm_medium=article&utm_campaign=audio-blast-releases-mininndrum-2-virtual-drum-instrument) to see the latest deal.
 

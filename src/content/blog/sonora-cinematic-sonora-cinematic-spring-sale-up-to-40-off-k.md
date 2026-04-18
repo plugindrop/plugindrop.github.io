@@ -1,13 +1,16 @@
 ---
-title: "[Sonora Cinematic] Sonora Cinematic Spring Sale - Up to 40% Off Kontakt & Soundbox Instruments. Expiry: May 5th"
-description: "Sonora Cinematic's Spring Sale knocks **up to 40% off** their Kontakt Player and Soundbox instrument libraries — plus you get a **free instrument** with..."
-pubDate: "2026-04-02T13:21:11Z"
-tags: ["newplugindeals", "sonora cinematic"]
-affiliate: "https://sonoracinematic.com/collections/all"
-heroImage: "/images/sonora-cinematic-sonora-cinematic-spring-sale-up-to-40-off-k.webp"
-score: 5.16
-originalPrice: "$80"
-saleExpiry: "2026-04-30"
+title: '[Sonora Cinematic] Sonora Cinematic Spring Sale - Up to 40% Off Kontakt &
+  Soundbox Instruments. Expiry: May 5th'
+description: Sonora Cinematic's Spring Sale knocks **up to 40% off** their Kontakt
+  Player and Soundbox instrument libraries — plus you get a **free instrument** with...
+pubDate: '2026-04-02T13:21:11Z'
+tags:
+- newplugindeals
+- sonora cinematic
+affiliate: https://sonoracinematic.com/collections/all
+heroImage: /images/sonora-cinematic-sonora-cinematic-spring-sale-up-to-40-off-k.webp
+originalPrice: $80
+saleExpiry: '2026-04-30'
 aiImage: true
 draft: false
 ---

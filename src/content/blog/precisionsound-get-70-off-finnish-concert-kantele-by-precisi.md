@@ -1,14 +1,17 @@
 ---
-title: "Precisionsound — Get 70% off Finnish Concert Kantele by Precision Sounds for $21 (Normally $69)"
-description: "Precisionsound's Finnish Concert Kantele is down to **$21** — that's 70% off the regular ~~$69~~ price tag. For a deeply sampled recording of Finland's..."
-pubDate: "2026-04-14T23:26:35Z"
-tags: ["newplugindeals", "precisionsound"]
-affiliate: "https://audioplugin.deals/product/finnish-concert-kantele-by-precision-sounds/ref/21/"
-heroImage: "/images/precisionsound-get-70-off-finnish-concert-kantele-by-precisi.webp"
-score: 4.18
-dealPrice: "$21"
-originalPrice: "$69"
-saleExpiry: "2026-04-27"
+title: Precisionsound — Get 70% off Finnish Concert Kantele by Precision Sounds for
+  $21 (Normally $69)
+description: Precisionsound's Finnish Concert Kantele is down to **$21** — that's
+  70% off the regular ~~$69~~ price tag. For a deeply sampled recording of Finland's...
+pubDate: '2026-04-14T23:26:35Z'
+tags:
+- newplugindeals
+- precisionsound
+affiliate: https://audioplugin.deals/product/finnish-concert-kantele-by-precision-sounds/ref/21/
+heroImage: /images/precisionsound-get-70-off-finnish-concert-kantele-by-precisi.webp
+dealPrice: $21
+originalPrice: $69
+saleExpiry: '2026-04-27'
 aiImage: true
 draft: false
 ---

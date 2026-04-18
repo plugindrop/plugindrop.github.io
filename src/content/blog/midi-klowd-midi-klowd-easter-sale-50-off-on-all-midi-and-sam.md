@@ -1,11 +1,14 @@
 ---
-title: "[MIDI Klowd] MIDI Klowd Easter Sale - 50% off on all MIDI and sample packs. Use the code: EASTER. Expiry: April 5th"
-description: "MIDI Klowd is running an Easter Sale with **50% off all MIDI and sample packs** — use code **EASTER** at checkout before April 5th. If you've been eyeing..."
-pubDate: "2026-04-04T05:39:11Z"
-tags: ["newplugindeals", "midi klowd"]
-affiliate: "https://midiklowd.com/midi-klowd-everything-bundle"
-heroImage: "/images/midi-klowd-midi-klowd-easter-sale-50-off-on-all-midi-and-sam.webp"
-score: 6.60
+title: '[MIDI Klowd] MIDI Klowd Easter Sale - 50% off on all MIDI and sample packs.
+  Use the code: EASTER. Expiry: April 5th'
+description: MIDI Klowd is running an Easter Sale with **50% off all MIDI and sample
+  packs** — use code **EASTER** at checkout before April 5th. If you've been eyeing...
+pubDate: '2026-04-04T05:39:11Z'
+tags:
+- newplugindeals
+- midi klowd
+affiliate: https://midiklowd.com/midi-klowd-everything-bundle
+heroImage: /images/midi-klowd-midi-klowd-easter-sale-50-off-on-all-midi-and-sam.webp
 aiImage: true
 draft: false
 ---

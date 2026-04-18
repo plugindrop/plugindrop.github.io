@@ -1,14 +1,14 @@
 ---
-title: "UVI offers 60% off on all Quadra until April 6th"
-description: "UVI is running 60% off on every instrument in the Quadra series — each drops from ~~$149~~ to just **$59** until April 6th. Four multi-instrument and..."
-pubDate: "2026-04-03T09:43:31Z"
+title: UVI offers 60% off on all Quadra until April 6th
+description: UVI is running 60% off on every instrument in the Quadra series — each
+  drops from ~~$149~~ to just **$59** until April 6th. Four multi-instrument and...
+pubDate: '2026-04-03T09:43:31Z'
 tags: []
-affiliate: "https://www.uvi.net/store"
-heroImage: "/images/uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a.webp"
-score: 5.10
-dealPrice: "$59"
-originalPrice: "$149"
-saleExpiry: "2026-04-06"
+affiliate: https://www.uvi.net/store
+heroImage: /images/uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a.webp
+dealPrice: $59
+originalPrice: $149
+saleExpiry: '2026-04-06'
 aiImage: true
 draft: false
 ---

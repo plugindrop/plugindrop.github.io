@@ -1,12 +1,21 @@
 ---
-title: "Save up to 79% on Waves Audio’s SSL 4000 Collection & plugins"
-description: "Waves Audio's SSL 4000 Collection is on sale at Plugin Boutique for up to 79% off — one of the steepest discounts on this legendary console-modeled bundle..."
-pubDate: "2026-04-17T11:41:07Z"
-tags: ["sales and promotions", "channel strip", "consoles", "equalizer", "plugin boutique", "sale", "solid state logic", "waves"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12600-SSL-4000-Collection?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins"
-heroImage: "/images/save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins.jpg"
-score: 6.72
+title: Save up to 79% on Waves Audio’s SSL 4000 Collection & plugins
+description: Waves Audio's SSL 4000 Collection is on sale at Plugin Boutique for up
+  to 79% off — one of the steepest discounts on this legendary console-modeled bundle...
+pubDate: '2026-04-17T11:41:07Z'
+tags:
+- sales and promotions
+- channel strip
+- consoles
+- equalizer
+- plugin boutique
+- sale
+- solid state logic
+- waves
+affiliate: https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12600-SSL-4000-Collection?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins
+heroImage: /images/save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins.jpg
 draft: false
+aiImage: true
 ---
 **TL;DR:** Waves Audio's SSL 4000 Collection is on sale at Plugin Boutique for up to 79% off — one of the steepest discounts on this legendary console-modeled bundle in recent memory. If you've been waiting for the right moment to grab SSL 4000 channel strip and bus processing emulations, this is a compelling window. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12600-SSL-4000-Collection?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins)
 

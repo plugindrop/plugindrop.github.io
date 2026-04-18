@@ -1,13 +1,15 @@
 ---
-title: "40% off SSL 4000 Series Console Bundle at Plugin Boutique until the 30th of April, 2026"
-description: "SSL's legendary 4000 Series Console Bundle is currently **40% off** at Plugin Boutique — one of the steeper discounts this bundle has seen. If you've been..."
-pubDate: "2026-04-17T12:15:17Z"
+title: 40% off SSL 4000 Series Console Bundle at Plugin Boutique until the 30th of
+  April, 2026
+description: SSL's legendary 4000 Series Console Bundle is currently **40% off** at
+  Plugin Boutique — one of the steeper discounts this bundle has seen. If you've been...
+pubDate: '2026-04-17T12:15:17Z'
 tags: []
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13326-SSL-4000-Series-Console-Bundle?utm_source=affiliate-bot&utm_medium=article&utm_campaign=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt"
-heroImage: "/images/40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt.jpg"
-score: 6.49
-saleExpiry: "2026-04-30"
+affiliate: https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13326-SSL-4000-Series-Console-Bundle?utm_source=affiliate-bot&utm_medium=article&utm_campaign=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt
+heroImage: /images/40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt.jpg
+saleExpiry: '2026-04-30'
 draft: false
+aiImage: true
 ---
 **TL;DR:** SSL's legendary 4000 Series Console Bundle is currently **40% off** at Plugin Boutique — one of the steeper discounts this bundle has seen. If you've been eyeing that iconic British console sound, the deal runs until **April 30, 2026**. [Grab it here before it expires.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13326-SSL-4000-Series-Console-Bundle?utm_source=affiliate-bot&utm_medium=article&utm_campaign=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt)
 

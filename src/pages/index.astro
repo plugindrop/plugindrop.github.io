@@ -69,6 +69,13 @@ const totalDeals = allPosts.length;
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<script type="application/ld+json" set:html={JSON.stringify({
+			"@context": "https://schema.org",
+			"@type": "WebSite",
+			"name": "PluginDrop",
+			"url": "https://plugindrop.net",
+			"description": SITE_DESCRIPTION,
+		})} />
 	</head>
 	<body>
 		<a href="#main-content" class="sr-only">Skip to content</a>

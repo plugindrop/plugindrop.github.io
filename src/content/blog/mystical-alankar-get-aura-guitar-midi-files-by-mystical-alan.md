@@ -1,15 +1,19 @@
 ---
-title: "Mystical Alankar — Get Aura - Guitar MIDI Files by Mystical Alankar free (regularly $20). [FREE]"
-description: "Aura - Guitar MIDI Files by Mystical Alankar is dropping from ~~$20~~ to **$0**. That's a full freebie on a dedicated guitar MIDI library. Grab it now at..."
-pubDate: "2026-04-17T11:06:30Z"
-tags: ["newplugindeals", "mystical alankar"]
-affiliate: "https://audioplugin.deals/product/aura-guitar-midi-files-by-mystical-alankar/ref/21/"
-heroImage: "/images/mystical-alankar-get-aura-guitar-midi-files-by-mystical-alan.webp"
+title: Mystical Alankar — Get Aura - Guitar MIDI Files by Mystical Alankar free (regularly
+  $20). [FREE]
+description: Aura - Guitar MIDI Files by Mystical Alankar is dropping from ~~$20~~
+  to **$0**. That's a full freebie on a dedicated guitar MIDI library. Grab it now
+  at...
+pubDate: '2026-04-17T11:06:30Z'
+tags:
+- newplugindeals
+- mystical alankar
+affiliate: https://audioplugin.deals/product/aura-guitar-midi-files-by-mystical-alankar/ref/21/
+heroImage: /images/mystical-alankar-get-aura-guitar-midi-files-by-mystical-alan.webp
 aiImage: true
-score: 7.50
-dealPrice: "$0"
-originalPrice: "$20"
-saleExpiry: "2026-04-30"
+dealPrice: $0
+originalPrice: $20
+saleExpiry: '2026-04-30'
 draft: false
 ---
 **TL;DR:** Aura - Guitar MIDI Files by Mystical Alankar is dropping from ~~$20~~ to **$0**. That's a full freebie on a dedicated guitar MIDI library. Grab it now at [audioplugin.deals](https://audioplugin.deals/product/aura-guitar-midi-files-by-mystical-alankar/ref/21/) before the deal disappears.

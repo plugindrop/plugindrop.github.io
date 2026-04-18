@@ -1,13 +1,16 @@
 ---
-title: "[Robotic Bean] Get 30% off Portatron by Robotic Bean. The discounted price is $69. Expiry: April 12th [Affiliate Link]"
-description: "Portatron by Robotic Bean — the 4-track tape loop synthesizer — is currently 30% off at **$69** (~~regular price~~). That's a solid discount on one of the..."
-pubDate: "2026-04-02T07:02:01Z"
-tags: ["newplugindeals", "robotic bean"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=affiliate-bot&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou"
-heroImage: "/images/robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou.webp"
-score: 5.16
-dealPrice: "$69"
-saleExpiry: "2026-04-12"
+title: '[Robotic Bean] Get 30% off Portatron by Robotic Bean. The discounted price
+  is $69. Expiry: April 12th [Affiliate Link]'
+description: Portatron by Robotic Bean — the 4-track tape loop synthesizer — is currently
+  30% off at **$69** (~~regular price~~). That's a solid discount on one of the...
+pubDate: '2026-04-02T07:02:01Z'
+tags:
+- newplugindeals
+- robotic bean
+affiliate: https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=affiliate-bot&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou
+heroImage: /images/robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou.webp
+dealPrice: $69
+saleExpiry: '2026-04-12'
 aiImage: true
 draft: false
 ---

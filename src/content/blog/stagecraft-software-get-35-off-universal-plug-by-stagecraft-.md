@@ -1,14 +1,17 @@
 ---
-title: "[Stagecraft Software] Get 35% off Universal Plug by Stagecraft Software. The discounted price is $45.50. Expiry: April 12th [Affiliate Link]"
-description: "Universal Plug by Stagecraft Software is currently 35% off — ~~$70~~ **$45.50**. This plugin-wrapper utility lets you load any VST/VST3/AU plugin inside..."
-pubDate: "2026-04-03T05:45:08Z"
-tags: ["newplugindeals", "stagecraft software"]
-affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=affiliate-bot&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-"
-heroImage: "/images/stagecraft-software-get-35-off-universal-plug-by-stagecraft-.webp"
-score: 5.16
-dealPrice: "$45.50"
-originalPrice: "$70"
-saleExpiry: "2026-04-12"
+title: '[Stagecraft Software] Get 35% off Universal Plug by Stagecraft Software. The
+  discounted price is $45.50. Expiry: April 12th [Affiliate Link]'
+description: Universal Plug by Stagecraft Software is currently 35% off — ~~$70~~
+  **$45.50**. This plugin-wrapper utility lets you load any VST/VST3/AU plugin inside...
+pubDate: '2026-04-03T05:45:08Z'
+tags:
+- newplugindeals
+- stagecraft software
+affiliate: https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=affiliate-bot&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-
+heroImage: /images/stagecraft-software-get-35-off-universal-plug-by-stagecraft-.webp
+dealPrice: $45.50
+originalPrice: $70
+saleExpiry: '2026-04-12'
 aiImage: true
 draft: false
 ---

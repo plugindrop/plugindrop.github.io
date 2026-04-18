@@ -1,14 +1,17 @@
 ---
-title: "[Auburn Sounds] Get 60% off Selene by Auburn Sounds for $14.99 (Normally $38.67). Expiry: April 16th [Affiliate Link]"
-description: "Selene by Auburn Sounds is 60% off right now — ~~$38.67~~ **$14.99** for the Full Edition of this versatile algorithmic reverb. The deal runs until April..."
-pubDate: "2026-04-03T12:38:20Z"
-tags: ["newplugindeals", "auburn sounds"]
-affiliate: "https://audioplugin.deals/product/selene-by-auburn-sounds/ref/21/"
-heroImage: "/images/auburn-sounds-get-60-off-selene-by-auburn-sounds-for-14-99-n.webp"
-score: 4.56
-dealPrice: "$14.99"
-originalPrice: "$38.67"
-saleExpiry: "2026-04-16"
+title: '[Auburn Sounds] Get 60% off Selene by Auburn Sounds for $14.99 (Normally $38.67).
+  Expiry: April 16th [Affiliate Link]'
+description: Selene by Auburn Sounds is 60% off right now — ~~$38.67~~ **$14.99**
+  for the Full Edition of this versatile algorithmic reverb. The deal runs until April...
+pubDate: '2026-04-03T12:38:20Z'
+tags:
+- newplugindeals
+- auburn sounds
+affiliate: https://audioplugin.deals/product/selene-by-auburn-sounds/ref/21/
+heroImage: /images/auburn-sounds-get-60-off-selene-by-auburn-sounds-for-14-99-n.webp
+dealPrice: $14.99
+originalPrice: $38.67
+saleExpiry: '2026-04-16'
 aiImage: true
 draft: false
 ---

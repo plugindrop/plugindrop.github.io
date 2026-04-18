@@ -1,15 +1,25 @@
 ---
-title: "Inner Pitch effect plugin by Auburn Sounds on sale for $20 USD"
-description: "Auburn Sounds' Inner Pitch is on sale for $20 — down from its usual ~~$29~~ price tag. That's roughly 31% off a pitch-shifting plugin known for its..."
-pubDate: "2026-04-02T09:21:13Z"
-tags: ["sales and promotions", "aax", "au", "auburn sounds", "lv2", "pitch shift and time stretch", "plugin boutique", "sale", "vst"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=affiliate-bot&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us"
-heroImage: "/images/inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us.jpg"
-score: 4.32
-dealPrice: "$20"
-originalPrice: "$29"
-saleExpiry: "2026-04-30"
+title: Inner Pitch effect plugin by Auburn Sounds on sale for $20 USD
+description: Auburn Sounds' Inner Pitch is on sale for $20 — down from its usual ~~$29~~
+  price tag. That's roughly 31% off a pitch-shifting plugin known for its...
+pubDate: '2026-04-02T09:21:13Z'
+tags:
+- sales and promotions
+- aax
+- au
+- auburn sounds
+- lv2
+- pitch shift and time stretch
+- plugin boutique
+- sale
+- vst
+affiliate: https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=affiliate-bot&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us
+heroImage: /images/inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us.jpg
+dealPrice: $20
+originalPrice: $29
+saleExpiry: '2026-04-30'
 draft: false
+aiImage: true
 ---
 **TL;DR:** Auburn Sounds' Inner Pitch is on sale for $20 — down from its usual ~~$29~~ price tag. That's roughly 31% off a pitch-shifting plugin known for its natural sound quality. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=affiliate-bot&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us) before the price goes back up.
 

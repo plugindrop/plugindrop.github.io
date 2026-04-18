@@ -1,13 +1,16 @@
 ---
-title: "[Rhodes] Get up to 41% off in the Rhodes Easter Sale. Expiry: April 12th [Affiliate Link]"
-description: "Rhodes is running an Easter Sale with up to 41% off their official electric piano plugins and effects — including the V8, V8 Pro, and V-Rack. If you've..."
-pubDate: "2026-04-02T07:01:43Z"
-tags: ["newplugindeals", "rhodes"]
-affiliate: "https://www.pluginboutique.com/deals/22664?utm_source=affiliate-bot&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr"
-heroImage: "/images/rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr.webp"
-score: 5.16
-originalPrice: "$239.95"
-saleExpiry: "2026-04-13"
+title: '[Rhodes] Get up to 41% off in the Rhodes Easter Sale. Expiry: April 12th [Affiliate
+  Link]'
+description: Rhodes is running an Easter Sale with up to 41% off their official electric
+  piano plugins and effects — including the V8, V8 Pro, and V-Rack. If you've...
+pubDate: '2026-04-02T07:01:43Z'
+tags:
+- newplugindeals
+- rhodes
+affiliate: https://www.pluginboutique.com/deals/22664?utm_source=affiliate-bot&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr
+heroImage: /images/rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr.webp
+originalPrice: $239.95
+saleExpiry: '2026-04-13'
 aiImage: true
 draft: false
 ---

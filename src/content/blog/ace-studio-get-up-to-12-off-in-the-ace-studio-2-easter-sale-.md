@@ -1,13 +1,16 @@
 ---
-title: "[Ace Studio] Get up to 12% off in the ACE Studio 2 Easter Sale. Expiry: April 12th [Affiliate Link]"
-description: "ACE Studio 2 is running an Easter Sale with up to 12% off — that means the Artist edition drops from ~~$398~~ to around $350, and the Artist Pro from..."
-pubDate: "2026-04-04T13:06:47Z"
-tags: ["newplugindeals", "ace studio"]
-affiliate: "https://www.pluginboutique.com/deals/22658?utm_source=affiliate-bot&utm_medium=article&utm_campaign=ace-studio-get-up-to-12-off-in-the-ace-studio-2-easter-sale-"
-heroImage: "/images/ace-studio-get-up-to-12-off-in-the-ace-studio-2-easter-sale-.webp"
-score: 5.16
-originalPrice: "$398"
-saleExpiry: "2026-04-12"
+title: '[Ace Studio] Get up to 12% off in the ACE Studio 2 Easter Sale. Expiry: April
+  12th [Affiliate Link]'
+description: ACE Studio 2 is running an Easter Sale with up to 12% off — that means
+  the Artist edition drops from ~~$398~~ to around $350, and the Artist Pro from...
+pubDate: '2026-04-04T13:06:47Z'
+tags:
+- newplugindeals
+- ace studio
+affiliate: https://www.pluginboutique.com/deals/22658?utm_source=affiliate-bot&utm_medium=article&utm_campaign=ace-studio-get-up-to-12-off-in-the-ace-studio-2-easter-sale-
+heroImage: /images/ace-studio-get-up-to-12-off-in-the-ace-studio-2-easter-sale-.webp
+originalPrice: $398
+saleExpiry: '2026-04-12'
 aiImage: true
 draft: false
 ---

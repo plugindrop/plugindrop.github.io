@@ -1,12 +1,23 @@
 ---
-title: "Telepathic Instruments Orchid Is Now a Soft Synth in Your DAW: Get Your Hands on Pistil"
-description: "Telepathic Instruments' Orchid hardware synth now has a software counterpart — Pistil brings that same distinctive sound engine directly into your DAW. If..."
-pubDate: "2026-04-17T13:23:23Z"
-tags: ["news", "orchid", "pistil", "synth", "synthesizer", "synthesizers", "tame impala", "video", "youtube"]
-affiliate: "https://www.soundtoys.com/product/decapitator/"
-heroImage: "/images/telepathic-instruments-orchid-is-now-a-soft-synth-in-your-da.jpg"
-score: 3.12
-draft: false
+title: 'Telepathic Instruments Orchid Is Now a Soft Synth in Your DAW: Get Your Hands
+  on Pistil'
+description: Telepathic Instruments' Orchid hardware synth now has a software counterpart
+  — Pistil brings that same distinctive sound engine directly into your DAW. If...
+pubDate: '2026-04-17T13:23:23Z'
+tags:
+- news
+- orchid
+- pistil
+- synth
+- synthesizer
+- synthesizers
+- tame impala
+- video
+- youtube
+affiliate: https://www.soundtoys.com/product/decapitator/
+heroImage: /images/telepathic-instruments-orchid-is-now-a-soft-synth-in-your-da.jpg
+draft: true
+aiImage: true
 ---
 **TL;DR:** Telepathic Instruments' Orchid hardware synth now has a software counterpart — Pistil brings that same distinctive sound engine directly into your DAW. If you've been eyeing the Orchid but couldn't justify the hardware price tag, this is your entry point. [Check out Pistil here.](https://www.soundtoys.com/product/decapitator/)
 

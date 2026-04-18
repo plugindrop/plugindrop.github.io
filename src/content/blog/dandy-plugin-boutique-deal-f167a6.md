@@ -1,12 +1,17 @@
 ---
-title: "DANDY (Plugin Boutique Deal)"
-description: "DANDY is currently on sale at Plugin Boutique — grab it at the deal price before it reverts. Check the product page for the exact discount, but the..."
-pubDate: "2026-04-14T10:02:50Z"
-tags: ["plugin boutique", "plugin", "virtual instrument", "effects"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY?utm_source=affiliate-bot&utm_medium=article&utm_campaign=dandy-plugin-boutique-deal-f167a6"
-heroImage: "/images/dandy-plugin-boutique-deal-f167a6.jpg"
-score: 3.50
+title: DANDY (Plugin Boutique Deal)
+description: DANDY is currently on sale at Plugin Boutique — grab it at the deal price
+  before it reverts. Check the product page for the exact discount, but the...
+pubDate: '2026-04-14T10:02:50Z'
+tags:
+- plugin boutique
+- plugin
+- virtual instrument
+- effects
+affiliate: https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY?utm_source=affiliate-bot&utm_medium=article&utm_campaign=dandy-plugin-boutique-deal-f167a6
+heroImage: /images/dandy-plugin-boutique-deal-f167a6.jpg
 draft: false
+aiImage: true
 ---
 **TL;DR:** DANDY is currently on sale at Plugin Boutique — grab it at the deal price before it reverts. Check the product page for the exact discount, but the savings are worth a look. [Snag the deal here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY?utm_source=affiliate-bot&utm_medium=article&utm_campaign=dandy-plugin-boutique-deal-f167a6)
 

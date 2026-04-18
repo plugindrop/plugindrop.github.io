@@ -1,13 +1,15 @@
 ---
-title: "FSK Audio — Get 23% off Bark24 | Dyn by FSK Audio"
-description: "FSK Audio's Bark24 | Dyn is currently 23% off at Plugin Boutique — a solid discount on a dynamics processor from a developer with a dedicated following...."
-pubDate: "2026-04-17T09:57:59Z"
-tags: ["newplugindeals", "fsk audio"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17070-Bark24-Dyn?utm_source=affiliate-bot&utm_medium=article&utm_campaign=fsk-audio-get-23-off-bark24-dyn-by-fsk-audio-the-discounted-"
-heroImage: "/images/fsk-audio-get-23-off-bark24-dyn-by-fsk-audio-the-discounted-.webp"
+title: FSK Audio — Get 23% off Bark24 | Dyn by FSK Audio
+description: FSK Audio's Bark24 | Dyn is currently 23% off at Plugin Boutique — a
+  solid discount on a dynamics processor from a developer with a dedicated following....
+pubDate: '2026-04-17T09:57:59Z'
+tags:
+- newplugindeals
+- fsk audio
+affiliate: https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17070-Bark24-Dyn?utm_source=affiliate-bot&utm_medium=article&utm_campaign=fsk-audio-get-23-off-bark24-dyn-by-fsk-audio-the-discounted-
+heroImage: /images/fsk-audio-get-23-off-bark24-dyn-by-fsk-audio-the-discounted-.webp
 aiImage: true
-score: 5.16
-saleExpiry: "2026-04-24"
+saleExpiry: '2026-04-24'
 draft: false
 ---
 **TL;DR:** FSK Audio's Bark24 | Dyn is currently 23% off at Plugin Boutique — a solid discount on a dynamics processor from a developer with a dedicated following. Check the current sale price (and the ~~full price~~ it's discounted from) on the [Plugin Boutique product page](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17070-Bark24-Dyn?utm_source=affiliate-bot&utm_medium=article&utm_campaign=fsk-audio-get-23-off-bark24-dyn-by-fsk-audio-the-discounted-) before it reverts.

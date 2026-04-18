@@ -1,13 +1,24 @@
 ---
-title: "Easter Pop-Up Deals: Save on Crystalline, Ace Studio, Beatmaker Vice, Sunset Sound Studio Reverb & more"
-description: "Easter Pop-Up Deals are live April 2–6 with up to 84% off over 500 music production plugins. Highlights include Baby Audio Crystalline at $29, UJAM..."
-pubDate: "2026-04-02T08:09:46Z"
-tags: ["featured", "sales and promotions", "audio plugin deals", "baby audio", "black rooster audio", "have audio", "ik multimedia", "sale", "ujam"]
-affiliate: "https://www.pluginboutique.com/deals"
-heroImage: "/images/easter-pop-up-deals-save-on-crystalline-ace-studio-beatmaker.jpg"
-score: 5.76
-dealPrice: "$29"
+title: 'Easter Pop-Up Deals: Save on Crystalline, Ace Studio, Beatmaker Vice, Sunset
+  Sound Studio Reverb & more'
+description: Easter Pop-Up Deals are live April 2–6 with up to 84% off over 500 music
+  production plugins. Highlights include Baby Audio Crystalline at $29, UJAM...
+pubDate: '2026-04-02T08:09:46Z'
+tags:
+- featured
+- sales and promotions
+- audio plugin deals
+- baby audio
+- black rooster audio
+- have audio
+- ik multimedia
+- sale
+- ujam
+affiliate: https://www.pluginboutique.com/deals
+heroImage: /images/easter-pop-up-deals-save-on-crystalline-ace-studio-beatmaker.jpg
+dealPrice: $29
 draft: true
+aiImage: true
 ---
 **TL;DR:** Easter Pop-Up Deals are live April 2–6 with up to 84% off over 500 music production plugins. Highlights include Baby Audio Crystalline at $29, UJAM Beatmaker Vice at just $9, and Sunset Sound Studio Reverb at $29.99. These are limited-time flash prices — [grab the deals before they expire](https://www.pluginboutique.com/deals).
 

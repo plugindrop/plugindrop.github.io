@@ -1,12 +1,18 @@
 ---
-title: "Singomakers releases Serum 2 Psytrance Vol. 2 soundset"
-description: "Singomakers has dropped **Serum 2 Psytrance Vol. 2**, a dedicated preset pack for Xfer's Serum 2 synth, available now at Loopmasters. If psytrance..."
-pubDate: "2026-04-17T11:41:09Z"
-tags: ["samples and presets", "loopmasters", "psytrance", "serum", "singomakers"]
-affiliate: "https://www.loopmasters.com/genres/58-Psy-Trance/products/20682-Serum-2-Psytrance-Vol-2?utm_source=affiliate-bot&utm_medium=article&utm_campaign=singomakers-releases-serum-2-psytrance-vol-2-soundset-57ddea"
-heroImage: "/images/singomakers-releases-serum-2-psytrance-vol-2-soundset-57ddea.jpg"
-score: 6.12
+title: Singomakers releases Serum 2 Psytrance Vol. 2 soundset
+description: Singomakers has dropped **Serum 2 Psytrance Vol. 2**, a dedicated preset
+  pack for Xfer's Serum 2 synth, available now at Loopmasters. If psytrance...
+pubDate: '2026-04-17T11:41:09Z'
+tags:
+- samples and presets
+- loopmasters
+- psytrance
+- serum
+- singomakers
+affiliate: https://www.loopmasters.com/genres/58-Psy-Trance/products/20682-Serum-2-Psytrance-Vol-2?utm_source=affiliate-bot&utm_medium=article&utm_campaign=singomakers-releases-serum-2-psytrance-vol-2-soundset-57ddea
+heroImage: /images/singomakers-releases-serum-2-psytrance-vol-2-soundset-57ddea.jpg
 draft: false
+aiImage: true
 ---
 **TL;DR:** Singomakers has dropped **Serum 2 Psytrance Vol. 2**, a dedicated preset pack for Xfer's Serum 2 synth, available now at Loopmasters. If psytrance production is your lane, this is a focused tool worth checking out. [Grab it at Loopmasters →](https://www.loopmasters.com/genres/58-Psy-Trance/products/20682-Serum-2-Psytrance-Vol-2?utm_source=affiliate-bot&utm_medium=article&utm_campaign=singomakers-releases-serum-2-psytrance-vol-2-soundset-57ddea)
 

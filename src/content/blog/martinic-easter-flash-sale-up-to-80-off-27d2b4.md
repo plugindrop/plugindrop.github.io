@@ -1,12 +1,13 @@
 ---
-title: "Martinic Easter Flash Sale - Up To 80% Off"
-description: "Martinic is running an Easter Flash Sale with discounts up to 80% off their vintage-modeled synths and effects. The AX Chorus drops to just $9.80, and the..."
-pubDate: "2026-04-03T06:22:35Z"
+title: Martinic Easter Flash Sale - Up To 80% Off
+description: Martinic is running an Easter Flash Sale with discounts up to 80% off
+  their vintage-modeled synths and effects. The AX Chorus drops to just $9.80, and
+  the...
+pubDate: '2026-04-03T06:22:35Z'
 tags: []
-affiliate: "https://www.martinic.com/en/products"
-heroImage: "/images/martinic-easter-flash-sale-up-to-80-off-27d2b4.webp"
-score: 5.39
-saleExpiry: "2026-04-13"
+affiliate: https://www.martinic.com/en/products
+heroImage: /images/martinic-easter-flash-sale-up-to-80-off-27d2b4.webp
+saleExpiry: '2026-04-13'
 aiImage: true
 draft: false
 ---

@@ -1,12 +1,21 @@
 ---
-title: "Save 50% on BA-1 software synthesizer by Baby Audio"
-description: "Baby Audio's BA-1 synthesizer is currently **50% off** at Plugin Boutique — a meaningful discount on a synth that rarely goes on sale. Original price..."
-pubDate: "2026-04-14T12:51:58Z"
-tags: ["sales and promotions", "aax", "au", "baby audio", "plugin boutique", "sale", "synthesizer", "vst"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7"
-heroImage: "/images/save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7.jpg"
-score: 6.12
+title: Save 50% on BA-1 software synthesizer by Baby Audio
+description: Baby Audio's BA-1 synthesizer is currently **50% off** at Plugin Boutique
+  — a meaningful discount on a synth that rarely goes on sale. Original price...
+pubDate: '2026-04-14T12:51:58Z'
+tags:
+- sales and promotions
+- aax
+- au
+- baby audio
+- plugin boutique
+- sale
+- synthesizer
+- vst
+affiliate: https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7
+heroImage: /images/save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7.jpg
 draft: false
+aiImage: true
 ---
 **TL;DR:** Baby Audio's BA-1 synthesizer is currently **50% off** at Plugin Boutique — a meaningful discount on a synth that rarely goes on sale. Original price crossed off, half the cost still standing. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7)
 

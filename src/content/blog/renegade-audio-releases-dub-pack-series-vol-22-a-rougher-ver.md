@@ -1,12 +1,18 @@
 ---
-title: "Renegade Audio releases Dub Pack Series Vol. 22: A Rougher Version"
-description: "Renegade Audio's *Dub Pack Series Vol. 22: A Rougher Version* is now available on Loopmasters, bringing raw, roots-driven dub sounds to your DAW. Check..."
-pubDate: "2026-04-17T13:58:56Z"
-tags: ["samples and presets", "dub", "loopmasters", "reggae", "renegade audio"]
-affiliate: "https://www.loopmasters.com/genres/63-Reggae/products/20673-Dub-Pack-Series-Vol-22-A-Rougher-Version?utm_source=affiliate-bot&utm_medium=article&utm_campaign=renegade-audio-releases-dub-pack-series-vol-22-a-rougher-ver"
-heroImage: "/images/renegade-audio-releases-dub-pack-series-vol-22-a-rougher-ver.jpg"
-score: 3.36
+title: 'Renegade Audio releases Dub Pack Series Vol. 22: A Rougher Version'
+description: 'Renegade Audio''s *Dub Pack Series Vol. 22: A Rougher Version* is now
+  available on Loopmasters, bringing raw, roots-driven dub sounds to your DAW. Check...'
+pubDate: '2026-04-17T13:58:56Z'
+tags:
+- samples and presets
+- dub
+- loopmasters
+- reggae
+- renegade audio
+affiliate: https://www.loopmasters.com/genres/63-Reggae/products/20673-Dub-Pack-Series-Vol-22-A-Rougher-Version?utm_source=affiliate-bot&utm_medium=article&utm_campaign=renegade-audio-releases-dub-pack-series-vol-22-a-rougher-ver
+heroImage: /images/renegade-audio-releases-dub-pack-series-vol-22-a-rougher-ver.jpg
 draft: false
+aiImage: true
 ---
 **TL;DR:** Renegade Audio's *Dub Pack Series Vol. 22: A Rougher Version* is now available on Loopmasters, bringing raw, roots-driven dub sounds to your DAW. Check the product page for current pricing — then [grab it on Loopmasters](https://www.loopmasters.com/genres/63-Reggae/products/20673-Dub-Pack-Series-Vol-22-A-Rougher-Version?utm_source=affiliate-bot&utm_medium=article&utm_campaign=renegade-audio-releases-dub-pack-series-vol-22-a-rougher-ver) before your next session.
 

@@ -1,13 +1,16 @@
 ---
-title: "[Applied Acoustic Systems (AAS)] Get up to 50% off in the AAS Band Month Sale. Expiry: April 20th [Affiliate Link]"
-description: "Applied Acoustics Systems is running its Band Month Sale with up to 50% off instruments, effects, bundles, and sound packs. That means flagship physical..."
-pubDate: "2026-04-04T13:06:29Z"
-tags: ["newplugindeals", "applied acoustic systems aas"]
-affiliate: "https://www.pluginboutique.com/deals/22636?utm_source=affiliate-bot&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban"
-heroImage: "/images/applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban.webp"
-score: 5.16
-originalPrice: "$199"
-saleExpiry: "2026-04-20"
+title: '[Applied Acoustic Systems (AAS)] Get up to 50% off in the AAS Band Month Sale.
+  Expiry: April 20th [Affiliate Link]'
+description: Applied Acoustics Systems is running its Band Month Sale with up to 50%
+  off instruments, effects, bundles, and sound packs. That means flagship physical...
+pubDate: '2026-04-04T13:06:29Z'
+tags:
+- newplugindeals
+- applied acoustic systems aas
+affiliate: https://www.pluginboutique.com/deals/22636?utm_source=affiliate-bot&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban
+heroImage: /images/applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban.webp
+originalPrice: $199
+saleExpiry: '2026-04-20'
 aiImage: true
 draft: false
 ---

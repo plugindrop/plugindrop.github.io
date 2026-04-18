@@ -1,13 +1,16 @@
 ---
-title: "Soundtoys — Get up to 73% off in the Soundtoys Spring Sale"
-description: "Soundtoys is running a Spring Sale with up to 73% off their lineup of analog-inspired effects plugins — including the full bundle and individual titles...."
-pubDate: "2026-04-14T23:25:11Z"
-tags: ["newplugindeals", "soundtoys"]
-affiliate: "https://www.pluginboutique.com/deals/22775?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi"
-heroImage: "/images/soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi.png"
-score: 6.38
-saleExpiry: "2026-04-28"
+title: Soundtoys — Get up to 73% off in the Soundtoys Spring Sale
+description: Soundtoys is running a Spring Sale with up to 73% off their lineup of
+  analog-inspired effects plugins — including the full bundle and individual titles....
+pubDate: '2026-04-14T23:25:11Z'
+tags:
+- newplugindeals
+- soundtoys
+affiliate: https://www.pluginboutique.com/deals/22775?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi
+heroImage: /images/soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi.png
+saleExpiry: '2026-04-28'
 draft: false
+aiImage: true
 ---
 **TL;DR:** Soundtoys is running a Spring Sale with up to 73% off their lineup of analog-inspired effects plugins — including the full bundle and individual titles. If you've been watching these prices, this is one of the steeper discounts Soundtoys runs. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/deals/22775?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi) before it expires.
 

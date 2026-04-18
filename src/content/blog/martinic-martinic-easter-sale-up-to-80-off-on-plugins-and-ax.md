@@ -1,13 +1,16 @@
 ---
-title: "[Martinic] Martinic Easter Sale - up to 80% off on plugins and AX73 collections. Expiry: April 6th"
-description: "Martinic's entire plugin catalog is up to 80% off through April 6, 2026. The flagship AX73 synth (regular ~~$149~~) and expansion collections like Orange..."
-pubDate: "2026-04-04T05:39:33Z"
-tags: ["newplugindeals", "martinic"]
-affiliate: "https://www.martinic.com/en/products"
-heroImage: "/images/martinic-martinic-easter-sale-up-to-80-off-on-plugins-and-ax.webp"
-score: 6.36
-originalPrice: "$149"
-saleExpiry: "2026-04-13"
+title: '[Martinic] Martinic Easter Sale - up to 80% off on plugins and AX73 collections.
+  Expiry: April 6th'
+description: Martinic's entire plugin catalog is up to 80% off through April 6, 2026.
+  The flagship AX73 synth (regular ~~$149~~) and expansion collections like Orange...
+pubDate: '2026-04-04T05:39:33Z'
+tags:
+- newplugindeals
+- martinic
+affiliate: https://www.martinic.com/en/products
+heroImage: /images/martinic-martinic-easter-sale-up-to-80-off-on-plugins-and-ax.webp
+originalPrice: $149
+saleExpiry: '2026-04-13'
 aiImage: true
 draft: false
 ---

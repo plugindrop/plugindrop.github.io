@@ -1,12 +1,14 @@
 ---
-title: "50% off ENGL Ampthology Vol 1 at Plugin Boutique until the 30th of April, 2026"
-description: "ENGL Ampthology Vol 1 — a collection of modeled ENGL guitar amplifiers for your DAW — is currently **50% off at Plugin Boutique until April 30, 2026**. If..."
-pubDate: "2026-04-17T12:48:57Z"
+title: 50% off ENGL Ampthology Vol 1 at Plugin Boutique until the 30th of April, 2026
+description: ENGL Ampthology Vol 1 — a collection of modeled ENGL guitar amplifiers
+  for your DAW — is currently **50% off at Plugin Boutique until April 30, 2026**.
+  If...
+pubDate: '2026-04-17T12:48:57Z'
 tags: []
-affiliate: "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30"
-heroImage: "/images/50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30.jpg"
-score: 4.07
+affiliate: https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30
+heroImage: /images/50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30.jpg
 draft: false
+aiImage: true
 ---
 **TL;DR:** ENGL Ampthology Vol 1 — a collection of modeled ENGL guitar amplifiers for your DAW — is currently **50% off at Plugin Boutique until April 30, 2026**. If you've been eyeing authentic German amp tone in plugin form, this is a rare half-price window. [Grab it here before the 30th.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30)
 

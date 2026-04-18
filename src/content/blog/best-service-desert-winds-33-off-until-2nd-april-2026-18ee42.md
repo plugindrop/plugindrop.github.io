@@ -1,15 +1,22 @@
 ---
-title: "Best Service Desert Winds - 33% Off until 2nd April, 2026"
-description: "Best Service Desert Winds is 33% off right now — ~~$119~~ **$79** — saving you $40 on one of the most expressive Middle Eastern wind instrument libraries..."
-pubDate: "2026-04-01T17:49:08Z"
-tags: ["sale", "sample library", "best service", "orchestral", "world instruments", "plugin boutique"]
-affiliate: "https://www.bestservice.com/en/desert_winds.html"
-heroImage: "/images/best-service-desert-winds-33-off-until-2nd-april-2026-18ee42.jpg"
-score: 4.07
-dealPrice: "$79"
-originalPrice: "$119"
-saleExpiry: "2026-04-02"
+title: Best Service Desert Winds - 33% Off until 2nd April, 2026
+description: Best Service Desert Winds is 33% off right now — ~~$119~~ **$79** — saving
+  you $40 on one of the most expressive Middle Eastern wind instrument libraries...
+pubDate: '2026-04-01T17:49:08Z'
+tags:
+- sale
+- sample library
+- best service
+- orchestral
+- world instruments
+- plugin boutique
+affiliate: https://www.bestservice.com/en/desert_winds.html
+heroImage: /images/best-service-desert-winds-33-off-until-2nd-april-2026-18ee42.jpg
+dealPrice: $79
+originalPrice: $119
+saleExpiry: '2026-04-02'
 draft: true
+aiImage: true
 ---
 **TL;DR:** Best Service Desert Winds is 33% off right now — ~~$119~~ **$79** — saving you $40 on one of the most expressive Middle Eastern wind instrument libraries available. This deal runs until **April 2nd, 2026**, so the window is tight. [Grab Desert Winds at 33% off here.](https://www.kvraudio.com/marketplace/desert-winds-by-best-service)
 

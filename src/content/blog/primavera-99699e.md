@@ -1,12 +1,14 @@
 ---
-title: "Primavera"
-description: "Primavera is a lush reverb plugin available now at Plugin Boutique — check the current deal price versus the regular MSRP on the product page for exact..."
-pubDate: "2026-04-14T14:00:40Z"
-tags: ["deal"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=affiliate-bot&utm_medium=article&utm_campaign=primavera-99699e"
-heroImage: "/images/primavera-99699e.jpg"
-score: 3.00
+title: Primavera
+description: Primavera is a lush reverb plugin available now at Plugin Boutique —
+  check the current deal price versus the regular MSRP on the product page for exact...
+pubDate: '2026-04-14T14:00:40Z'
+tags:
+- deal
+affiliate: https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=affiliate-bot&utm_medium=article&utm_campaign=primavera-99699e
+heroImage: /images/primavera-99699e.jpg
 draft: false
+aiImage: true
 ---
 **TL;DR:** Primavera is a lush reverb plugin available now at Plugin Boutique — check the current deal price versus the regular MSRP on the product page for exact savings. If reverb is a gap in your toolkit, this is worth a look. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=affiliate-bot&utm_medium=article&utm_campaign=primavera-99699e)
 

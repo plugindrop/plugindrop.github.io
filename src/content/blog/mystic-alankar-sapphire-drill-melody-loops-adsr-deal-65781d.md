@@ -1,12 +1,16 @@
 ---
-title: "Mystic Alankar Sapphire Drill Melody Loops (ADSR Deal)"
-description: "Mystic Alankar's *Sapphire Drill Melody Loops* is currently available at a deal price through ADSR Sounds — a loop pack that fuses Eastern melodic..."
-pubDate: "2026-04-15T00:00:03Z"
-tags: ["adsr", "preset", "presets"]
-affiliate: "https://www.adsrsounds.com/product/presets/mystic-alankar-sapphire-drill-melody-loops/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=mystic-alankar-sapphire-drill-melody-loops-adsr-deal-65781d"
-heroImage: "/images/mystic-alankar-sapphire-drill-melody-loops-adsr-deal-65781d.png"
-score: 3.00
+title: Mystic Alankar Sapphire Drill Melody Loops (ADSR Deal)
+description: Mystic Alankar's *Sapphire Drill Melody Loops* is currently available
+  at a deal price through ADSR Sounds — a loop pack that fuses Eastern melodic...
+pubDate: '2026-04-15T00:00:03Z'
+tags:
+- adsr
+- preset
+- presets
+affiliate: https://www.adsrsounds.com/product/presets/mystic-alankar-sapphire-drill-melody-loops/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=mystic-alankar-sapphire-drill-melody-loops-adsr-deal-65781d
+heroImage: /images/mystic-alankar-sapphire-drill-melody-loops-adsr-deal-65781d.png
 draft: false
+aiImage: true
 ---
 **TL;DR:** Mystic Alankar's *Sapphire Drill Melody Loops* is currently available at a deal price through ADSR Sounds — a loop pack that fuses Eastern melodic textures with modern drill production. If you've been searching for something that cuts through the noise of generic trap kits, [grab it here while the deal is live](https://www.adsrsounds.com/product/presets/mystic-alankar-sapphire-drill-melody-loops/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=mystic-alankar-sapphire-drill-melody-loops-adsr-deal-65781d).
 

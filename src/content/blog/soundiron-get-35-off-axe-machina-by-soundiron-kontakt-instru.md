@@ -1,12 +1,14 @@
 ---
-title: "Soundiron — Get 35% off Axe Machina by Soundiron (Kontakt Instrument)"
-description: "Soundiron's Axe Machina Kontakt Instrument is now **35% off** at Plugin Boutique — a solid window to pick up a heavily-sampled guitar-based instrument at..."
-pubDate: "2026-04-16T03:48:40Z"
-tags: ["newplugindeals", "soundiron"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru"
-heroImage: "/images/soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru.webp"
-score: 6.05
-saleExpiry: "2026-04-30"
+title: Soundiron — Get 35% off Axe Machina by Soundiron (Kontakt Instrument)
+description: Soundiron's Axe Machina Kontakt Instrument is now **35% off** at Plugin
+  Boutique — a solid window to pick up a heavily-sampled guitar-based instrument at...
+pubDate: '2026-04-16T03:48:40Z'
+tags:
+- newplugindeals
+- soundiron
+affiliate: https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru
+heroImage: /images/soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru.webp
+saleExpiry: '2026-04-30'
 aiImage: true
 draft: false
 ---

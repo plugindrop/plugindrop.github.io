@@ -1,14 +1,16 @@
 ---
-title: "Space Control 2"
-description: "Space Control 2 by Acustica Audio is currently down to **$79.00** — that's ~~$178.99~~ slashed by 56%. If you've been waiting for a meaningful discount on..."
-pubDate: "2026-04-14T14:00:37Z"
-tags: ["deal"]
-affiliate: "https://pluginplug.io/product/1679-space-control-2"
-heroImage: "/images/space-control-2-189dce.jpg"
-score: 3.00
-dealPrice: "$79.00"
-originalPrice: "$178.99"
+title: Space Control 2
+description: Space Control 2 by Acustica Audio is currently down to **$79.00** — that's
+  ~~$178.99~~ slashed by 56%. If you've been waiting for a meaningful discount on...
+pubDate: '2026-04-14T14:00:37Z'
+tags:
+- deal
+affiliate: https://pluginplug.io/product/1679-space-control-2
+heroImage: /images/space-control-2-189dce.jpg
+dealPrice: $79.00
+originalPrice: $178.99
 draft: false
+aiImage: true
 ---
 Here is the SEO deal roundup article:
 

@@ -1,12 +1,16 @@
 ---
-title: "Thick Sounds releases Soulful Classic House sample pack"
-description: "Thick Sounds has dropped *Soulful Classic House* on Loopmasters — a dedicated sample pack built around the warm, gospel-tinged grooves of classic house..."
-pubDate: "2026-04-16T03:18:36Z"
-tags: ["samples and presets", "loopmasters", "thick sounds"]
-affiliate: "https://www.loopmasters.com/genres/134-Classic-House/products/20638-Soulful-Classic-House?utm_source=affiliate-bot&utm_medium=article&utm_campaign=thick-sounds-releases-soulful-classic-house-sample-pack"
-heroImage: "/images/thick-sounds-releases-soulful-classic-house-sample-pack.jpg"
-score: 6.93
+title: Thick Sounds releases Soulful Classic House sample pack
+description: Thick Sounds has dropped *Soulful Classic House* on Loopmasters — a dedicated
+  sample pack built around the warm, gospel-tinged grooves of classic house...
+pubDate: '2026-04-16T03:18:36Z'
+tags:
+- samples and presets
+- loopmasters
+- thick sounds
+affiliate: https://www.loopmasters.com/genres/134-Classic-House/products/20638-Soulful-Classic-House?utm_source=affiliate-bot&utm_medium=article&utm_campaign=thick-sounds-releases-soulful-classic-house-sample-pack
+heroImage: /images/thick-sounds-releases-soulful-classic-house-sample-pack.jpg
 draft: false
+aiImage: true
 ---
 **TL;DR:** Thick Sounds has dropped *Soulful Classic House* on Loopmasters — a dedicated sample pack built around the warm, gospel-tinged grooves of classic house music. Pricing details are listed on the product page; [grab it at Loopmasters](https://www.loopmasters.com/genres/134-Classic-House/products/20638-Soulful-Classic-House?utm_source=affiliate-bot&utm_medium=article&utm_campaign=thick-sounds-releases-soulful-classic-house-sample-pack) before your next session.
 

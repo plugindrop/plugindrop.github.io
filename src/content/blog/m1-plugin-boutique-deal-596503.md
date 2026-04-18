@@ -1,12 +1,17 @@
 ---
-title: "M1 (Plugin Boutique Deal)"
-description: "The legendary Korg M1 plugin — one of the best-selling synthesizers in history — is available at Plugin Boutique right now. Check current pricing on the..."
-pubDate: "2026-04-14T10:02:48Z"
-tags: ["plugin boutique", "plugin", "virtual instrument", "effects"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11198-M1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=m1-plugin-boutique-deal-596503"
-heroImage: "/images/m1-plugin-boutique-deal-596503.jpg"
-score: 3.50
+title: M1 (Plugin Boutique Deal)
+description: The legendary Korg M1 plugin — one of the best-selling synthesizers in
+  history — is available at Plugin Boutique right now. Check current pricing on the...
+pubDate: '2026-04-14T10:02:48Z'
+tags:
+- plugin boutique
+- plugin
+- virtual instrument
+- effects
+affiliate: https://www.pluginboutique.com/product/1-Instruments/4-Synth/11198-M1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=m1-plugin-boutique-deal-596503
+heroImage: /images/m1-plugin-boutique-deal-596503.jpg
 draft: false
+aiImage: true
 ---
 **TL;DR:** The legendary Korg M1 plugin — one of the best-selling synthesizers in history — is available at Plugin Boutique right now. Check current pricing on the product page, but any discount on this iconic workstation plugin is worth acting on fast. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11198-M1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=m1-plugin-boutique-deal-596503)
 

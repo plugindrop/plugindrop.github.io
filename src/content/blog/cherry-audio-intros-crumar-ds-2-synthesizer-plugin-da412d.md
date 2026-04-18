@@ -1,15 +1,21 @@
 ---
-title: "Cherry Audio Intros Crumar DS-2 Synthesizer Plugin"
-description: "Cherry Audio just dropped the Crumar DS-2 — a massively expanded plugin recreation of the rare 1978 Italian polysynth — for **$59**. Even better, through..."
-pubDate: "2026-04-03T00:16:01Z"
-tags: ["software synthesizers  samplers", "virtual instruments", "cherry audio", "crumar ds-2", "software synthesizers"]
-affiliate: "https://cherryaudio.com/products/ds-2-synthesizer"
-heroImage: "/images/cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d.jpg"
-score: 4.08
-dealPrice: "$59"
-originalPrice: "$119"
-saleExpiry: "2026-04-13"
+title: Cherry Audio Intros Crumar DS-2 Synthesizer Plugin
+description: Cherry Audio just dropped the Crumar DS-2 — a massively expanded plugin
+  recreation of the rare 1978 Italian polysynth — for **$59**. Even better, through...
+pubDate: '2026-04-03T00:16:01Z'
+tags:
+- software synthesizers  samplers
+- virtual instruments
+- cherry audio
+- crumar ds-2
+- software synthesizers
+affiliate: https://cherryaudio.com/products/ds-2-synthesizer
+heroImage: /images/cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d.jpg
+dealPrice: $59
+originalPrice: $119
+saleExpiry: '2026-04-13'
 draft: false
+aiImage: true
 ---
 
 **TL;DR:** Cherry Audio just dropped the Crumar DS-2 — a massively expanded plugin recreation of the rare 1978 Italian polysynth — for **$59**. Even better, through April 13, 2026, you can grab it in a Pick 3 bundle for ~~$119~~ **$99** or a Pick 6 bundle for ~~$169~~ **$149**. [Grab the Crumar DS-2 here.](https://cherryaudio.com/products/ds-2-synthesizer)

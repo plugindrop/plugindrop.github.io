@@ -1,14 +1,21 @@
 ---
-title: "The Very Loud Indeed Co. launches Spring Sale with 60% OFF"
-description: "The Very Loud Indeed Co. is running a Spring Sale with up to **60% off** their entire catalog of cinematic sample libraries and synth soundsets. Kontakt..."
-pubDate: "2026-04-02T09:55:10Z"
-tags: ["sales and promotions", "kontakt", "omnisphere", "sale", "the very loud indeed co", "zebra"]
-affiliate: "https://www.veryloudindeed.com/"
-heroImage: "/images/the-very-loud-indeed-co-launches-spring-sale-with-60-off.jpg"
-score: 6.72
-originalPrice: "$35"
-saleExpiry: "2026-04-30"
+title: The Very Loud Indeed Co. launches Spring Sale with 60% OFF
+description: The Very Loud Indeed Co. is running a Spring Sale with up to **60% off**
+  their entire catalog of cinematic sample libraries and synth soundsets. Kontakt...
+pubDate: '2026-04-02T09:55:10Z'
+tags:
+- sales and promotions
+- kontakt
+- omnisphere
+- sale
+- the very loud indeed co
+- zebra
+affiliate: https://www.veryloudindeed.com/
+heroImage: /images/the-very-loud-indeed-co-launches-spring-sale-with-60-off.jpg
+originalPrice: $35
+saleExpiry: '2026-04-30'
 draft: false
+aiImage: true
 ---
 ---
 

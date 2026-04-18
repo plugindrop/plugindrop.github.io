@@ -1,12 +1,21 @@
 ---
-title: "Amorph text-to-DSP plugin gets custom user interfaces & MIDI plugin generation"
-description: "Amorph by Artists in DSP just leveled up — Beta v0.9.9 brings a custom UI engine, a brand-new MIDI plugin variant, and a cloud-based preset hub. The best..."
-pubDate: "2026-04-03T09:08:26Z"
-tags: ["effects", "instruments", "artificial intelligence", "au", "free", "generator", "midi", "vst"]
-affiliate: "https://artistsindsp.gumroad.com/l/amorph"
-heroImage: "/images/amorph-text-to-dsp-plugin-gets-custom-user-interfaces-midi-p.jpg"
-score: 7.35
+title: Amorph text-to-DSP plugin gets custom user interfaces & MIDI plugin generation
+description: Amorph by Artists in DSP just leveled up — Beta v0.9.9 brings a custom
+  UI engine, a brand-new MIDI plugin variant, and a cloud-based preset hub. The best...
+pubDate: '2026-04-03T09:08:26Z'
+tags:
+- effects
+- instruments
+- artificial intelligence
+- au
+- free
+- generator
+- midi
+- vst
+affiliate: https://artistsindsp.gumroad.com/l/amorph
+heroImage: /images/amorph-text-to-dsp-plugin-gets-custom-user-interfaces-midi-p.jpg
 draft: false
+aiImage: true
 ---
 
 **TL;DR:** Amorph by Artists in DSP just leveled up — Beta v0.9.9 brings a custom UI engine, a brand-new MIDI plugin variant, and a cloud-based preset hub. The best part? It's still completely free (pay-what-you-like). [Grab it here.](https://artistsindsp.gumroad.com/l/amorph)
