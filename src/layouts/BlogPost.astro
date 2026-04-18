@@ -226,13 +226,17 @@ const faqLD = faqPairs.length > 0 ? {
 					link.setAttribute('target', '_blank');
 					link.setAttribute('rel', 'noopener noreferrer');
 				});
-				// Hero image fallback: if image fails to load, replace with placeholder
-				document.querySelectorAll('.hero-image img[data-fallback]').forEach(img => {
-					img.addEventListener('error', function handler() {
-						this.removeEventListener('error', handler);
-						const fallback = this.dataset.fallback;
-						if (fallback && this.src !== fallback) this.src = fallback;
-					});
+				// Hero image fallback scoped to .hero-image sections (no inline onerror — CSP safe).
+				// /images/default-placeholder.jpg is committed at public/images/default-placeholder.jpg.
+				document.querySelectorAll('.hero-image').forEach(section => {
+					section.addEventListener('error', (e) => {
+						const img = e.target;
+						if (!(img instanceof HTMLImageElement)) return;
+						const fallback = img.dataset.fallback;
+						if (fallback && img.src !== new URL(fallback, location.href).href) {
+							img.src = fallback;
+						}
+					}, true);
 				});
 			});
 		</script>
