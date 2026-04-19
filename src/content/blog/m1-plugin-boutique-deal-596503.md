@@ -1,5 +1,5 @@
 ---
-title: M1 (Plugin Boutique Deal)
+title: M1
 description: The legendary Korg M1 plugin — one of the best-selling synthesizers in
   history — is available at Plugin Boutique right now. Check current pricing on the...
 pubDate: '2026-04-14T10:02:48Z'
@@ -8,12 +8,11 @@ tags:
 - plugin
 - virtual instrument
 - effects
-affiliate: https://www.pluginboutique.com/product/1-Instruments/4-Synth/11198-M1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=m1-plugin-boutique-deal-596503
+affiliate: https://www.pluginboutique.com/product/1-Instruments/4-Synth/11198-M1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=m1-plugin-boutique-deal-596503&a_aid=69cb95abe1763
 heroImage: /images/m1-plugin-boutique-deal-596503.jpg
 draft: false
-aiImage: true
 ---
-**TL;DR:** The legendary Korg M1 plugin — one of the best-selling synthesizers in history — is available at Plugin Boutique right now. Check current pricing on the product page, but any discount on this iconic workstation plugin is worth acting on fast. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11198-M1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=m1-plugin-boutique-deal-596503)
+**TL;DR:** The legendary Korg M1 plugin — one of the best-selling synthesizers in history — is available at Plugin Boutique right now. Check current pricing on the product page, but any discount on this iconic workstation plugin is worth acting on fast. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11198-M1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=m1-plugin-boutique-deal-596503&a_aid=69cb95abe1763)
 
 ---
 
@@ -64,7 +63,7 @@ Korg's legacy plugins don't go on deep discount frequently, which makes Plugin B
 
 > **Note:** Verify current pricing on the product page — deals can change.
 
-[Check the current deal price at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11198-M1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=m1-plugin-boutique-deal-596503)
+[Check the current deal price at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11198-M1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=m1-plugin-boutique-deal-596503&a_aid=69cb95abe1763)
 
 ---
 
@@ -100,7 +99,7 @@ A: The plugin uses the same waveform data and synthesis architecture as the orig
 
 The Korg M1 plugin is a piece of synthesis history — and getting it at a discount is a genuine win for any producer's toolkit. Don't sleep on this one.
 
-[Grab the Korg M1 at Plugin Boutique while the deal is live.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11198-M1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=m1-plugin-boutique-deal-596503)
+[Grab the Korg M1 at Plugin Boutique while the deal is live.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11198-M1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=m1-plugin-boutique-deal-596503&a_aid=69cb95abe1763)
 
 ---
 

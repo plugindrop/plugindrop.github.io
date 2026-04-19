@@ -4,14 +4,14 @@ description: "Arturia V Collection 11 Pro packs 45 modeled vintage instruments i
 pubDate: "2026-03-28T10:30:00Z"
 updatedDate: "2026-04-06T10:00:00Z"
 tags: ["synthesizer", "plugin", "bundle"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763"
 heroImage: "/images/heroes/arturia-v-collection.jpg"
 dealPrice: "$699"
 saleExpiry: "2026-03-09"
 draft: false
 ---
 
-**TL;DR:** Arturia V Collection 11 Pro — **45 modeled vintage instruments** in one bundle. Minimoog, Jupiter-8, Prophet-5, DX7, CS-80, and 40 more, plus 7 new instruments added in v11 including Jup-8000 V, Pure LoFi, and SEM V. Regular price $699. Arturia runs 50% sales periodically — the last one was March 2026. [Check current pricing on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro).
+**TL;DR:** Arturia V Collection 11 Pro — **45 modeled vintage instruments** in one bundle. Minimoog, Jupiter-8, Prophet-5, DX7, CS-80, and 40 more, plus 7 new instruments added in v11 including Jup-8000 V, Pure LoFi, and SEM V. Regular price $699. Arturia runs 50% sales periodically — the last one was March 2026. [Check current pricing on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763).
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/n46hnnvQ2t8" title="Arturia V Collection — Official Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin-bottom:1.5rem"></iframe>
 
@@ -59,7 +59,7 @@ V Collection is a consistent recommendation in "best plugin bundle" threads on R
 
 **Sale history:** Arturia ran a 50% off sale on V Collection 11 Pro ($349) through March 9, 2026 as part of Plugin Boutique's 14th anniversary. They typically run major sales at Black Friday and occasionally mid-year. Upgrade pricing for existing Arturia customers can significantly reduce the entry cost.
 
-[Check current pricing on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro)
+[Check current pricing on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763)
 
 ## Alternatives at a Glance
 
@@ -95,4 +95,4 @@ A: Arturia offers upgrade pricing based on what you own. Check their site — it
 
 45 instruments. Vintage analog, digital, keys, organs, and hybrid. Arturia runs 50% sales periodically — worth watching for.
 
-[View V Collection 11 Pro on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro)
+[View V Collection 11 Pro on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763)

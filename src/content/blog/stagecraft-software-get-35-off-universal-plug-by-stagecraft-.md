@@ -7,7 +7,7 @@ pubDate: '2026-04-03T05:45:08Z'
 tags:
 - newplugindeals
 - stagecraft software
-affiliate: https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=affiliate-bot&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-
+affiliate: https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=affiliate-bot&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-&a_aid=69cb95abe1763
 heroImage: /images/stagecraft-software-get-35-off-universal-plug-by-stagecraft-.webp
 dealPrice: $45.50
 originalPrice: $70
@@ -16,7 +16,7 @@ aiImage: true
 draft: false
 ---
 
-**TL;DR:** Universal Plug by Stagecraft Software is currently 35% off — ~~$70~~ **$45.50**. This plugin-wrapper utility lets you load any VST/VST3/AU plugin inside any DAW, solving format lock-in for Logic, Pro Tools, Bitwig, and more. Deal expires April 12th. [Grab it here before the sale ends.](https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=affiliate-bot&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-)
+**TL;DR:** Universal Plug by Stagecraft Software is currently 35% off — ~~$70~~ **$45.50**. This plugin-wrapper utility lets you load any VST/VST3/AU plugin inside any DAW, solving format lock-in for Logic, Pro Tools, Bitwig, and more. Deal expires April 12th. [Grab it here before the sale ends.](https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=affiliate-bot&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-&a_aid=69cb95abe1763)
 
 ## What Is Universal Plug?
 
@@ -51,7 +51,7 @@ Stagecraft Software doesn't run frequent public sales, so 35% off is a notable d
 
 **Deal expires: April 12th, 2026.**
 
-Verify current pricing on the product page — deals can change. [Get Universal Plug at 35% off here.](https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=affiliate-bot&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-)
+Verify current pricing on the product page — deals can change. [Get Universal Plug at 35% off here.](https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=affiliate-bot&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-&a_aid=69cb95abe1763)
 
 ## Alternatives at a Glance
 
@@ -79,7 +79,7 @@ A: The developer lists macOS 10.13+ (Intel and Apple Silicon) and Windows 7+. Ch
 
 ## Get the Deal
 
-~~$70~~ down to **$45.50** — that's $24.50 back in your pocket for a tool that removes DAW format headaches permanently. Sale ends April 12th. [Pick up Universal Plug at 35% off here.](https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=affiliate-bot&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-)
+~~$70~~ down to **$45.50** — that's $24.50 back in your pocket for a tool that removes DAW format headaches permanently. Sale ends April 12th. [Pick up Universal Plug at 35% off here.](https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=affiliate-bot&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-&a_aid=69cb95abe1763)
 
 ---
 

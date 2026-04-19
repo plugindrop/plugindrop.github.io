@@ -9,14 +9,13 @@ tags:
 - hot
 - mac
 - windows
-affiliate: https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq
+affiliate: https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763
 heroImage: /images/softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq.jpg
 dealPrice: $29
 originalPrice: $99
 draft: false
-aiImage: true
 ---
-**TL;DR:** Softube's Model 82 — a faithful emulation of the iconic Roland SH-101 — is currently **70% off** at Plugin Boutique, dropping from ~~$99~~ to just **$29**. If you've been watching this one, that's a significant discount from a developer that doesn't run sales constantly. [Grab Model 82 at Plugin Boutique for $29.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq)
+**TL;DR:** Softube's Model 82 — a faithful emulation of the iconic Roland SH-101 — is currently **70% off** at Plugin Boutique, dropping from ~~$99~~ to just **$29**. If you've been watching this one, that's a significant discount from a developer that doesn't run sales constantly. [Grab Model 82 at Plugin Boutique for $29.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763)
 
 ---
 
@@ -65,7 +64,7 @@ The SH-101 occupies a near-mythic status in electronic music history, so any qua
 
 Softube doesn't discount at the frequency of some other developers — seeing 70% off on one of their instruments is worth paying attention to. Price history context: deep discounts on Softube titles tend to appear around major sale events and don't always return quickly. Verify current pricing on the product page, as deals can change without notice.
 
-[Get Model 82 for $29 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq)
+[Get Model 82 for $29 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763)
 
 ---
 
@@ -101,7 +100,7 @@ A: Check the official product page for current macOS and Windows compatibility d
 
 70% off a circuit-modeled SH-101 emulation from one of the more respected names in analog software is a deal that's hard to argue with. At $29, Model 82 is priced well below what comparable modeled instruments typically cost.
 
-[Claim 70% off Softube Model 82 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq)
+[Claim 70% off Softube Model 82 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763)
 
 ---
 

@@ -7,7 +7,7 @@ pubDate: '2026-04-02T07:01:43Z'
 tags:
 - newplugindeals
 - rhodes
-affiliate: https://www.pluginboutique.com/deals/22664?utm_source=affiliate-bot&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr
+affiliate: https://www.pluginboutique.com/deals/22664?utm_source=affiliate-bot&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763
 heroImage: /images/rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr.webp
 originalPrice: $239.95
 saleExpiry: '2026-04-13'
@@ -16,7 +16,7 @@ draft: false
 ---
 ---
 
-**TL;DR:** Rhodes is running an Easter Sale with up to 41% off their official electric piano plugins and effects — including the V8, V8 Pro, and V-Rack. If you've been eyeing the flagship V8 Pro (regularly ~~$239.95~~), this is a solid window to grab it at a meaningful discount. Sale ends April 12th. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/deals/22664?utm_source=affiliate-bot&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr).
+**TL;DR:** Rhodes is running an Easter Sale with up to 41% off their official electric piano plugins and effects — including the V8, V8 Pro, and V-Rack. If you've been eyeing the flagship V8 Pro (regularly ~~$239.95~~), this is a solid window to grab it at a meaningful discount. Sale ends April 12th. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/deals/22664?utm_source=affiliate-bot&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763).
 
 ## What Is Rhodes Software?
 
@@ -54,7 +54,7 @@ Rhodes runs periodic sales — they've offered 50–60% off during Black Friday 
 
 > **Note:** "Up to 41% off" means discounts vary by product. Verify current pricing on the deal page — prices can change before the April 12th expiry.
 
-[Check exact prices and grab the deal here](https://www.pluginboutique.com/deals/22664?utm_source=affiliate-bot&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr).
+[Check exact prices and grab the deal here](https://www.pluginboutique.com/deals/22664?utm_source=affiliate-bot&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763).
 
 ## Alternatives at a Glance
 
@@ -82,7 +82,7 @@ A: The V8 requires approximately 22 GB of disk space after installation (compres
 
 ## Get the Deal
 
-Up to 41% off the only official Rhodes plugins — and the sale wraps up April 12th. Whether you're after the full V8 Pro instrument or just the V-Rack effects chain, this is a solid entry point. [Grab the Rhodes Easter Sale at Plugin Boutique](https://www.pluginboutique.com/deals/22664?utm_source=affiliate-bot&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr).
+Up to 41% off the only official Rhodes plugins — and the sale wraps up April 12th. Whether you're after the full V8 Pro instrument or just the V-Rack effects chain, this is a solid entry point. [Grab the Rhodes Easter Sale at Plugin Boutique](https://www.pluginboutique.com/deals/22664?utm_source=affiliate-bot&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763).
 
 ---
 

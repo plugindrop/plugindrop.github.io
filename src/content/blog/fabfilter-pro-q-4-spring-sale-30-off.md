@@ -3,7 +3,7 @@ title: "FabFilter Pro-Q 4 — 30% Off Spring Sale"
 description: "FabFilter Pro-Q 4 is 30% off at $132 (save $57). Here's the price context to help you decide if now is the right time."
 pubDate: "2026-03-26T09:00:00Z"
 tags: ["sale", "plugin", "eq"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763"
 heroImage: "/images/heroes/fabfilter-pro-q-4.jpg"
 dealPrice: "$132"
 originalPrice: "$189"
@@ -12,7 +12,7 @@ saleExpiry: "2026-04-30"
 draft: false
 ---
 
-**TL;DR:** FabFilter Pro-Q 4 is 30% off — ~~$189~~ **$132** (save $57). This is FabFilter's standard sale depth — they run 25-30% discounts a few times per year, and they haven't gone deeper in recent history. If you've been waiting for a dip, this is what it looks like. [Check the deal](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4).
+**TL;DR:** FabFilter Pro-Q 4 is 30% off — ~~$189~~ **$132** (save $57). This is FabFilter's standard sale depth — they run 25-30% discounts a few times per year, and they haven't gone deeper in recent history. If you've been waiting for a dip, this is what it looks like. [Check the deal](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763).
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — Official Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin-bottom:1.5rem"></iframe>
 
@@ -51,7 +51,7 @@ Pro-Q has been a staple recommendation on mixing forums for years. On Reddit's r
 
 Verify current pricing on the product page — deals can change.
 
-[See Pro-Q 4 Deal](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4)
+[See Pro-Q 4 Deal](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
 
 ## Alternatives at a Glance
 
@@ -82,4 +82,4 @@ A: Check the official FabFilter site for the latest supported formats and OS req
 
 Pro-Q 4 at $132 — $57 off the regular price. FabFilter doesn't go deeper than 30%, so this is their standard best price.
 
-[Check Pro-Q 4 at 30% Off](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4)
+[Check Pro-Q 4 at 30% Off](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)

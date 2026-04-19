@@ -41,21 +41,21 @@ function isNew(date: Date): boolean {
 	return (Date.now() - date.getTime()) < 4 * 24 * 60 * 60 * 1000;
 }
 
+function isExpired(post: any): boolean {
+	if (!post.data.saleExpiry) return false;
+	return new Date(post.data.saleExpiry) < new Date();
+}
+
 const heroPosts = allPosts.filter(hasHeroImage);
 const latestPost = heroPosts[0];
 
-// Latest Free Deals — not "this week" to avoid stale label; just most recent free posts
-const freeDeals = allPosts
-	.filter(p => p.data.dealPrice === 'FREE' || p.data.tags?.includes('free'))
-	.slice(0, 4);
-
-// Top Deals — scored, with hero image
+// Top Deals — scored, with hero image, excluding expired sales
 const topDeals = heroPosts
-	.filter(p => p.data.dealPrice || p.data.originalPrice)
+	.filter(p => (p.data.dealPrice || p.data.originalPrice) && !isExpired(p))
 	.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
 	.slice(0, 4);
 
-const topIds = new Set([latestPost?.id, ...topDeals.map(p => p.id), ...freeDeals.map(p => p.id)]);
+const topIds = new Set([latestPost?.id, ...topDeals.map(p => p.id)]);
 
 // Recent Deals — hero-image posts not yet shown
 const recentDeals = heroPosts
@@ -135,39 +135,6 @@ const totalDeals = allPosts.length;
 							<span class="feature-cta" aria-hidden="true">Read more &rarr;</span>
 						</div>
 					</a>
-				</section>
-			)}
-
-			<!-- ── Latest Free Deals ──────────────────────── -->
-			{freeDeals.length > 0 && (
-				<section class="section">
-					<header class="section-hd">
-						<span class="section-label section-label--free">Latest Free Deals</span>
-						<a href="/posts?filter=free" class="section-more">See all free &rarr;</a>
-					</header>
-					<div class="free-strip">
-						{freeDeals.map(post => (
-							<a href={`/posts/${post.id}/`} class="free-card">
-								{post.data.heroImage && (
-									<div class="free-img-wrap">
-										<img
-											src={post.data.heroImage}
-											alt={post.data.title}
-											loading="lazy"
-											onerror="this.closest('.free-img-wrap').style.display='none'"
-										/>
-									</div>
-								)}
-								<div class="free-body">
-									<span class="tag free">FREE</span>
-									<h4>{post.data.title}</h4>
-									{post.data.affiliate && (
-										<span class="via-store">{getStoreName(post.data.affiliate)}</span>
-									)}
-								</div>
-							</a>
-						))}
-					</div>
 				</section>
 			)}
 
@@ -307,8 +274,7 @@ const totalDeals = allPosts.length;
 		letter-spacing: 0.1em;
 		text-transform: uppercase;
 	}
-	.section-label--free { color: var(--free-text); }
-	.section-more {
+.section-more {
 		font-size: 0.78rem;
 		font-weight: 600;
 		color: var(--text-secondary);
@@ -435,57 +401,6 @@ const totalDeals = allPosts.length;
 	}
 	.feature-card:hover .feature-cta { color: var(--accent-light); }
 
-	/* ── Free Strip ───────────────────────────────────────── */
-	.free-strip {
-		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-		gap: 0.75rem;
-	}
-	.free-card {
-		display: flex;
-		align-items: center;
-		gap: 0.75rem;
-		padding: 0.75rem;
-		background: var(--bg-card);
-		border: 1px solid var(--border);
-		border-radius: var(--radius);
-		text-decoration: none;
-		transition: border-color 0.15s, background 0.15s;
-	}
-	.free-card:hover {
-		border-color: var(--accent-border-hover);
-		background: var(--bg-card-hover);
-	}
-	.free-img-wrap {
-		flex-shrink: 0;
-		width: 52px; height: 52px;
-		border-radius: 6px;
-		overflow: hidden;
-		background: var(--bg-low);
-	}
-	.free-img-wrap img {
-		width: 100%; height: 100%;
-		object-fit: cover; display: block; border-radius: 0;
-	}
-	.free-body {
-		flex: 1;
-		min-width: 0;
-		display: flex;
-		flex-direction: column;
-		gap: 0.2rem;
-	}
-	.free-body h4 {
-		font-size: 0.82rem;
-		font-weight: 700;
-		color: var(--text-primary);
-		line-height: 1.4;
-		margin: 0;
-		display: -webkit-box;
-		-webkit-line-clamp: 2;
-		-webkit-box-orient: vertical;
-		overflow: hidden;
-	}
-
 	/* ── Deal Cards ───────────────────────────────────────── */
 	.deal-grid { display: grid; gap: 1rem; }
 	.deal-grid--4 { grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); }
@@ -582,12 +497,10 @@ const totalDeals = allPosts.length;
 		.deal-grid--4 { grid-template-columns: repeat(2, 1fr); }
 		/* 2 cols on tablet keeps list scannable */
 		.deal-grid--3 { grid-template-columns: repeat(2, 1fr); }
-		.free-strip { grid-template-columns: 1fr 1fr; }
 }
 	@media (max-width: 480px) {
 		.hero-headline { font-size: 1.75rem; }
 		.deal-grid--4 { grid-template-columns: 1fr; }
 		.deal-grid--3 { grid-template-columns: 1fr; }
-		.free-strip { grid-template-columns: 1fr; }
 	}
 </style>

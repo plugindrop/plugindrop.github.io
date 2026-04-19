@@ -12,12 +12,11 @@ tags:
 - sale
 - synthesizer
 - vst
-affiliate: https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7
+affiliate: https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763
 heroImage: /images/save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7.jpg
 draft: false
-aiImage: true
 ---
-**TL;DR:** Baby Audio's BA-1 synthesizer is currently **50% off** at Plugin Boutique — a meaningful discount on a synth that rarely goes on sale. Original price crossed off, half the cost still standing. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7)
+**TL;DR:** Baby Audio's BA-1 synthesizer is currently **50% off** at Plugin Boutique — a meaningful discount on a synth that rarely goes on sale. Original price crossed off, half the cost still standing. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763)
 
 ---
 
@@ -64,7 +63,7 @@ BA-1 has developed a consistent following among producers who gravitate toward t
 |---|---|---|
 | ~~Full price~~ | 50% off | Half the cost |
 
-Verify the exact current pricing on the [Plugin Boutique product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7) — deals can change, and the live price is always the most accurate number.
+Verify the exact current pricing on the [Plugin Boutique product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763) — deals can change, and the live price is always the most accurate number.
 
 Baby Audio doesn't run frequent deep discounts. A 50% sale is on the larger end for this developer, which makes this worth paying attention to if BA-1 has been on your radar.
 
@@ -100,7 +99,7 @@ A: BA-1 supports expansion packs sold separately. The base synth purchase gives 
 
 ## Get the Deal
 
-50% off a well-regarded analog monosynth from one of the more respected boutique plugin developers around — that's a deal worth acting on. [Get BA-1 at 50% off on Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7)
+50% off a well-regarded analog monosynth from one of the more respected boutique plugin developers around — that's a deal worth acting on. [Get BA-1 at 50% off on Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763)
 
 ---
 

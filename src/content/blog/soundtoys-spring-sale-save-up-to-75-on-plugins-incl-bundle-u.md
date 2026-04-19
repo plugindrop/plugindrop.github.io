@@ -8,12 +8,11 @@ tags:
 - plugin boutique
 - sale
 - soundtoys
-affiliate: https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u
+affiliate: https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u&a_aid=69cb95abe1763
 heroImage: /images/soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u.jpg
 draft: false
-aiImage: true
 ---
-**TL;DR:** Soundtoys is running a Spring Sale with savings of up to 75% across individual plugins, bundles, and upgrades — one of the steeper discounts this brand offers through the year. Little AlterBoy, their cult vocal pitch and formant tool, is included in the sale. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u)
+**TL;DR:** Soundtoys is running a Spring Sale with savings of up to 75% across individual plugins, bundles, and upgrades — one of the steeper discounts this brand offers through the year. Little AlterBoy, their cult vocal pitch and formant tool, is included in the sale. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u&a_aid=69cb95abe1763)
 
 ---
 
@@ -76,7 +75,7 @@ Soundtoys runs major sales a handful of times per year — typically around seas
 
 > Verify current pricing on the product page — deals can change without notice and exact figures depend on your region and any existing licenses.
 
-[Check current prices and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u)
+[Check current prices and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u&a_aid=69cb95abe1763)
 
 ---
 
@@ -112,7 +111,7 @@ A: Check the official product page for confirmed format support (VST, AU, AAX) a
 
 Up to 75% off Soundtoys plugins — including Little AlterBoy, the full bundle, and upgrade paths — is one of the stronger discount windows this brand runs. If it's been on your list, this is a credible buying window.
 
-[Get the Soundtoys Spring Sale deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u)
+[Get the Soundtoys Spring Sale deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u&a_aid=69cb95abe1763)
 
 ---
 

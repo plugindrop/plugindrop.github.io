@@ -1,5 +1,5 @@
 ---
-title: "Tkid The Producer Hard In The Trap Hood Trap Jerk Beats (ADSR Deal)"
+title: "Tkid The Producer Hard In The Trap Hood Trap Jerk Beats"
 description: "Tkid The Producer's *Hard In The Trap Hood Trap Jerk Beats* pack is currently available on ADSR Sounds — a street-ready collection of trap and jerk-style..."
 pubDate: "2026-04-19T04:11:28Z"
 tags: ["adsr", "preset", "presets"]

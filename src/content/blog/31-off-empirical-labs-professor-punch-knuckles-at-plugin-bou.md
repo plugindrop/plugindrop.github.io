@@ -5,13 +5,12 @@ description: Empirical Labs Professor Punch-Knuckles is currently **31% off** at
   Boutique — a rare discount on a plugin from the team behind the legendary...
 pubDate: '2026-04-17T12:48:59Z'
 tags: []
-affiliate: https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=affiliate-bot&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou
+affiliate: https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=affiliate-bot&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou&a_aid=69cb95abe1763
 heroImage: /images/31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou.jpg
 saleExpiry: '2026-04-19'
 draft: false
-aiImage: true
 ---
-**TL;DR:** Empirical Labs Professor Punch-Knuckles is currently **31% off** at Plugin Boutique — a rare discount on a plugin from the team behind the legendary Distressor hardware. The deal runs until **April 19, 2026**, so the window is tight. [Grab it here while the price is down.](https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=affiliate-bot&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou)
+**TL;DR:** Empirical Labs Professor Punch-Knuckles is currently **31% off** at Plugin Boutique — a rare discount on a plugin from the team behind the legendary Distressor hardware. The deal runs until **April 19, 2026**, so the window is tight. [Grab it here while the price is down.](https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=affiliate-bot&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou&a_aid=69cb95abe1763)
 
 ---
 
@@ -61,7 +60,7 @@ Empirical Labs plugins don't run frequent deep discounts — this brand tends to
 
 **Deal expires: April 19, 2026.** Verify current pricing directly on the listing, as deals can update without notice.
 
-[Check the current price and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=affiliate-bot&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou)
+[Check the current price and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=affiliate-bot&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou&a_aid=69cb95abe1763)
 
 ---
 
@@ -97,7 +96,7 @@ A: Check the product listing for the current confirmed compatibility list — fo
 
 31% off from a developer with hardware credibility, expiring April 19 — that's a short runway. If Empirical Labs is on your radar, this is the window.
 
-[Get Professor Punch-Knuckles at 31% off — Plugin Boutique deal ends April 19.](https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=affiliate-bot&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou)
+[Get Professor Punch-Knuckles at 31% off — Plugin Boutique deal ends April 19.](https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=affiliate-bot&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou&a_aid=69cb95abe1763)
 
 ---
 

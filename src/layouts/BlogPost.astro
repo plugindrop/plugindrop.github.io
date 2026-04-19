@@ -226,6 +226,15 @@ const faqLD = faqPairs.length > 0 ? {
 					link.setAttribute('target', '_blank');
 					link.setAttribute('rel', 'noopener noreferrer');
 				});
+				// Wrap YouTube iframes in .video-embed for responsive 16:9 sizing
+				document.querySelectorAll('.prose iframe[src*="youtube"]').forEach(iframe => {
+					if (!iframe.parentElement?.classList.contains('video-embed')) {
+						const wrap = document.createElement('div');
+						wrap.className = 'video-embed';
+						iframe.parentElement?.insertBefore(wrap, iframe);
+						wrap.appendChild(iframe);
+					}
+				});
 				// Hero image fallback scoped to .hero-image sections (no inline onerror — CSP safe).
 				// /images/default-placeholder.jpg is committed at public/images/default-placeholder.jpg.
 				document.querySelectorAll('.hero-image').forEach(section => {
@@ -295,7 +304,6 @@ const faqLD = faqPairs.length > 0 ? {
 									<a href={affiliate} class="deal-cta-btn is-expired" target="_blank" rel="noopener noreferrer nofollow">
 										View Current Price →
 									</a>
-									<p class="deal-note">Opens affiliate link &mdash; no extra cost to you</p>
 								</>
 							) : (
 								<>
@@ -310,7 +318,6 @@ const faqLD = faqPairs.length > 0 ? {
 									<a href={affiliate} class="deal-cta-btn" target="_blank" rel="noopener noreferrer nofollow">
 										{dealPrice === 'FREE' ? 'Get It Free \u2192' : 'Get This Deal \u2192'}
 									</a>
-									<p class="deal-note">Opens affiliate link &mdash; no extra cost to you</p>
 								</>
 							)}
 						</div>

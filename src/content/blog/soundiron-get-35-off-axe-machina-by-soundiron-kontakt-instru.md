@@ -6,13 +6,13 @@ pubDate: '2026-04-16T03:48:40Z'
 tags:
 - newplugindeals
 - soundiron
-affiliate: https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru
+affiliate: https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763
 heroImage: /images/soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru.webp
 saleExpiry: '2026-04-30'
 aiImage: true
 draft: false
 ---
-**TL;DR:** Soundiron's Axe Machina Kontakt Instrument is now **35% off** at Plugin Boutique — a solid window to pick up a heavily-sampled guitar-based instrument at a meaningful discount. Check the current sale price (~~full price~~ → 35% off) and grab it here: [Axe Machina at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru).
+**TL;DR:** Soundiron's Axe Machina Kontakt Instrument is now **35% off** at Plugin Boutique — a solid window to pick up a heavily-sampled guitar-based instrument at a meaningful discount. Check the current sale price (~~full price~~ → 35% off) and grab it here: [Axe Machina at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763).
 
 ---
 
@@ -59,7 +59,7 @@ Axe Machina is a relatively niche release, so large-scale community discussion i
 |---|---|---|
 | ~~Full Price~~ | 35% Off | 35% |
 
-Verify exact current pricing on the [Plugin Boutique product page](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru) — deal prices can change without notice.
+Verify exact current pricing on the [Plugin Boutique product page](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763) — deal prices can change without notice.
 
 **How often does Soundiron run sales?** Soundiron runs periodic promotions, but 35% off is a meaningful discount for their catalog. If you've had this on your watchlist, a deal at this depth is worth acting on rather than waiting.
 
@@ -89,13 +89,13 @@ A: Soundiron does not typically use iLok for their Kontakt libraries — licensi
 A: Check the Plugin Boutique product page for current system requirements, as these depend on your Kontakt version and OS.
 
 **Q: Is the 35% discount available for a limited time?**
-A: Deal pricing can expire at any time. Check the [product page](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru) to confirm the discount is still active.
+A: Deal pricing can expire at any time. Check the [product page](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763) to confirm the discount is still active.
 
 ---
 
 ## Get the Deal
 
-35% off a Soundiron library is a real window — don't sit on it. Head to Plugin Boutique and lock in the discount before it expires: [Get Axe Machina at 35% Off →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru)
+35% off a Soundiron library is a real window — don't sit on it. Head to Plugin Boutique and lock in the discount before it expires: [Get Axe Machina at 35% Off →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763)
 
 ---
 

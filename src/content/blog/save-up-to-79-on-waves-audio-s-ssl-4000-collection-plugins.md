@@ -12,12 +12,11 @@ tags:
 - sale
 - solid state logic
 - waves
-affiliate: https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12600-SSL-4000-Collection?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins
+affiliate: https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12600-SSL-4000-Collection?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins&a_aid=69cb95abe1763
 heroImage: /images/save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins.jpg
 draft: false
-aiImage: true
 ---
-**TL;DR:** Waves Audio's SSL 4000 Collection is on sale at Plugin Boutique for up to 79% off — one of the steepest discounts on this legendary console-modeled bundle in recent memory. If you've been waiting for the right moment to grab SSL 4000 channel strip and bus processing emulations, this is a compelling window. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12600-SSL-4000-Collection?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins)
+**TL;DR:** Waves Audio's SSL 4000 Collection is on sale at Plugin Boutique for up to 79% off — one of the steepest discounts on this legendary console-modeled bundle in recent memory. If you've been waiting for the right moment to grab SSL 4000 channel strip and bus processing emulations, this is a compelling window. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12600-SSL-4000-Collection?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins&a_aid=69cb95abe1763)
 
 ---
 
@@ -66,7 +65,7 @@ The Waves SSL 4000 Collection has been a staple recommendation on mixing forums 
 
 Waves runs sales regularly, but discounts at this depth — up to 79% — aren't everyday occurrences for this particular collection. If you've seen it at a lower percentage discount before and held off, this is worth a second look. Verify current pricing directly on the product page, as deals can change without notice.
 
-[Check the current price and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12600-SSL-4000-Collection?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins)
+[Check the current price and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12600-SSL-4000-Collection?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins&a_aid=69cb95abe1763)
 
 ---
 
@@ -102,7 +101,7 @@ A: Refund and return policies vary by retailer. Check Plugin Boutique's terms of
 
 Up to 79% off the Waves SSL 4000 Collection is a rare discount on a plugin set that's been a mixing room reference for years. Don't sleep on it — deals at this level tend to be time-limited.
 
-[Grab the Waves SSL 4000 Collection at Plugin Boutique before the price goes back up.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12600-SSL-4000-Collection?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins)
+[Grab the Waves SSL 4000 Collection at Plugin Boutique before the price goes back up.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12600-SSL-4000-Collection?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins&a_aid=69cb95abe1763)
 
 ---
 

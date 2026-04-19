@@ -9,12 +9,11 @@ tags:
 - loopmasters
 - reggae
 - renegade audio
-affiliate: https://www.loopmasters.com/genres/63-Reggae/products/20673-Dub-Pack-Series-Vol-22-A-Rougher-Version?utm_source=affiliate-bot&utm_medium=article&utm_campaign=renegade-audio-releases-dub-pack-series-vol-22-a-rougher-ver
+affiliate: https://www.loopmasters.com/genres/63-Reggae/products/20673-Dub-Pack-Series-Vol-22-A-Rougher-Version?utm_source=affiliate-bot&utm_medium=article&utm_campaign=renegade-audio-releases-dub-pack-series-vol-22-a-rougher-ver&a_aid=69cb95abe1763
 heroImage: /images/renegade-audio-releases-dub-pack-series-vol-22-a-rougher-ver.jpg
 draft: false
-aiImage: true
 ---
-**TL;DR:** Renegade Audio's *Dub Pack Series Vol. 22: A Rougher Version* is now available on Loopmasters, bringing raw, roots-driven dub sounds to your DAW. Check the product page for current pricing — then [grab it on Loopmasters](https://www.loopmasters.com/genres/63-Reggae/products/20673-Dub-Pack-Series-Vol-22-A-Rougher-Version?utm_source=affiliate-bot&utm_medium=article&utm_campaign=renegade-audio-releases-dub-pack-series-vol-22-a-rougher-ver) before your next session.
+**TL;DR:** Renegade Audio's *Dub Pack Series Vol. 22: A Rougher Version* is now available on Loopmasters, bringing raw, roots-driven dub sounds to your DAW. Check the product page for current pricing — then [grab it on Loopmasters](https://www.loopmasters.com/genres/63-Reggae/products/20673-Dub-Pack-Series-Vol-22-A-Rougher-Version?utm_source=affiliate-bot&utm_medium=article&utm_campaign=renegade-audio-releases-dub-pack-series-vol-22-a-rougher-ver&a_aid=69cb95abe1763) before your next session.
 
 ---
 
@@ -57,7 +56,7 @@ This is a niche release within a long-running series — broad mainstream commun
 
 Loopmasters occasionally runs sitewide sales and genre-specific promotions. Verify current pricing directly on the product page — deals can change.
 
-[Check current pricing and buy on Loopmasters →](https://www.loopmasters.com/genres/63-Reggae/products/20673-Dub-Pack-Series-Vol-22-A-Rougher-Version?utm_source=affiliate-bot&utm_medium=article&utm_campaign=renegade-audio-releases-dub-pack-series-vol-22-a-rougher-ver)
+[Check current pricing and buy on Loopmasters →](https://www.loopmasters.com/genres/63-Reggae/products/20673-Dub-Pack-Series-Vol-22-A-Rougher-Version?utm_source=affiliate-bot&utm_medium=article&utm_campaign=renegade-audio-releases-dub-pack-series-vol-22-a-rougher-ver&a_aid=69cb95abe1763)
 
 ---
 
@@ -93,7 +92,7 @@ A: Check Loopmasters' official terms and conditions for their current refund pol
 
 *Dub Pack Series Vol. 22: A Rougher Version* is live now on Loopmasters. If roots dub is in your workflow, this is a focused, series-tested addition to your library.
 
-[Get Dub Pack Series Vol. 22 on Loopmasters →](https://www.loopmasters.com/genres/63-Reggae/products/20673-Dub-Pack-Series-Vol-22-A-Rougher-Version?utm_source=affiliate-bot&utm_medium=article&utm_campaign=renegade-audio-releases-dub-pack-series-vol-22-a-rougher-ver)
+[Get Dub Pack Series Vol. 22 on Loopmasters →](https://www.loopmasters.com/genres/63-Reggae/products/20673-Dub-Pack-Series-Vol-22-A-Rougher-Version?utm_source=affiliate-bot&utm_medium=article&utm_campaign=renegade-audio-releases-dub-pack-series-vol-22-a-rougher-ver&a_aid=69cb95abe1763)
 
 ---
 

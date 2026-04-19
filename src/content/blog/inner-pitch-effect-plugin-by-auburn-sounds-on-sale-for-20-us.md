@@ -13,15 +13,14 @@ tags:
 - plugin boutique
 - sale
 - vst
-affiliate: https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=affiliate-bot&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us
+affiliate: https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=affiliate-bot&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us&a_aid=69cb95abe1763
 heroImage: /images/inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us.jpg
 dealPrice: $20
 originalPrice: $29
 saleExpiry: '2026-04-30'
 draft: false
-aiImage: true
 ---
-**TL;DR:** Auburn Sounds' Inner Pitch is on sale for $20 — down from its usual ~~$29~~ price tag. That's roughly 31% off a pitch-shifting plugin known for its natural sound quality. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=affiliate-bot&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us) before the price goes back up.
+**TL;DR:** Auburn Sounds' Inner Pitch is on sale for $20 — down from its usual ~~$29~~ price tag. That's roughly 31% off a pitch-shifting plugin known for its natural sound quality. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=affiliate-bot&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us&a_aid=69cb95abe1763) before the price goes back up.
 
 ## What Is Inner Pitch?
 
@@ -55,7 +54,7 @@ Auburn Sounds has built a solid reputation on KVR over nearly a decade, and Inne
 
 A free edition of Inner Pitch exists with core features, but it lacks the enhanced quality options, CPU optimization controls, and hard-tune mode that come with the Full Edition. This sale narrows the gap between "good enough for free" and "full-featured" to just $20.
 
-Verify current pricing on the product page — deals can change. [Pick up Inner Pitch at Plugin Boutique for $20](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=affiliate-bot&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us).
+Verify current pricing on the product page — deals can change. [Pick up Inner Pitch at Plugin Boutique for $20](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=affiliate-bot&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us&a_aid=69cb95abe1763).
 
 ## Alternatives at a Glance
 
@@ -83,7 +82,7 @@ A: Yes — v2.0 was a free update for all existing Full Edition owners, so purch
 
 ## Get the Deal
 
-$20 for a pitch shifter with this feature set is a strong pickup — especially with formant control, feedback delay, and three distortion types included. [Get Inner Pitch at Plugin Boutique before the sale ends](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=affiliate-bot&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us).
+$20 for a pitch shifter with this feature set is a strong pickup — especially with formant control, feedback delay, and three distortion types included. [Get Inner Pitch at Plugin Boutique before the sale ends](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=affiliate-bot&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us&a_aid=69cb95abe1763).
 
 ---
 

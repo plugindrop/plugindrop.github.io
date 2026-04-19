@@ -6,13 +6,12 @@ pubDate: '2026-04-14T23:25:11Z'
 tags:
 - newplugindeals
 - soundtoys
-affiliate: https://www.pluginboutique.com/deals/22775?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi
+affiliate: https://www.pluginboutique.com/deals/22775?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763
 heroImage: /images/soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi.png
 saleExpiry: '2026-04-28'
 draft: false
-aiImage: true
 ---
-**TL;DR:** Soundtoys is running a Spring Sale with up to 73% off their lineup of analog-inspired effects plugins — including the full bundle and individual titles. If you've been watching these prices, this is one of the steeper discounts Soundtoys runs. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/deals/22775?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi) before it expires.
+**TL;DR:** Soundtoys is running a Spring Sale with up to 73% off their lineup of analog-inspired effects plugins — including the full bundle and individual titles. If you've been watching these prices, this is one of the steeper discounts Soundtoys runs. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/deals/22775?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763) before it expires.
 
 ---
 
@@ -57,7 +56,7 @@ Soundtoys has been a recurring recommendation in mixing and production communiti
 
 > **Note:** Verify current pricing directly on the product page — deal prices and exact savings can change. The "up to 73% off" reflects the maximum discount available across the sale.
 
-Soundtoys doesn't run deep sales constantly — major promotions tend to appear a handful of times per year (seasonal events, Black Friday). A 73% headline discount puts this among the more aggressive offers they run. [Check the full deal breakdown at Plugin Boutique](https://www.pluginboutique.com/deals/22775?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi).
+Soundtoys doesn't run deep sales constantly — major promotions tend to appear a handful of times per year (seasonal events, Black Friday). A 73% headline discount puts this among the more aggressive offers they run. [Check the full deal breakdown at Plugin Boutique](https://www.pluginboutique.com/deals/22775?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763).
 
 ---
 
@@ -91,7 +90,7 @@ A: Expiry dates aren't always listed upfront — check the Plugin Boutique deal 
 
 ## Get the Deal
 
-Up to 73% off Soundtoys is a meaningful discount on one of the more established effects catalogs in the plugin market. Seasonal sales like this are the practical window to add these tools at a lower entry cost. [View the Soundtoys Spring Sale at Plugin Boutique](https://www.pluginboutique.com/deals/22775?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi) and confirm pricing before it changes.
+Up to 73% off Soundtoys is a meaningful discount on one of the more established effects catalogs in the plugin market. Seasonal sales like this are the practical window to add these tools at a lower entry cost. [View the Soundtoys Spring Sale at Plugin Boutique](https://www.pluginboutique.com/deals/22775?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763) and confirm pricing before it changes.
 
 ---
 

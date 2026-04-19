@@ -15,7 +15,6 @@ heroImage: /images/the-very-loud-indeed-co-launches-spring-sale-with-60-off.jpg
 originalPrice: $35
 saleExpiry: '2026-04-30'
 draft: false
-aiImage: true
 ---
 ---
 

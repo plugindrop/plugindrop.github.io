@@ -3,13 +3,13 @@ title: "Softube — Get 70% off Model 82 Sequencing Mono Synth by Softube"
 description: "Softube's Model 82 Sequencing Mono Synth is currently **70% off** at Plugin Boutique — a rare deep discount on a plugin that rarely goes on sale this..."
 pubDate: "2026-04-18T13:40:28Z"
 tags: ["newplugindeals", "softube"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-get-70-off-model-82-sequencing-mono-synth-by-softube"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-get-70-off-model-82-sequencing-mono-synth-by-softube&a_aid=69cb95abe1763"
 heroImage: "/images/softube-get-70-off-model-82-sequencing-mono-synth-by-softube.jpg"
 score: 6.82
 saleExpiry: "2026-04-30"
 draft: false
 ---
-**TL;DR:** Softube's Model 82 Sequencing Mono Synth is currently **70% off** at Plugin Boutique — a rare deep discount on a plugin that rarely goes on sale this steeply. Check the current ~~full price~~ deal price and grab it [directly at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-get-70-off-model-82-sequencing-mono-synth-by-softube) before it expires.
+**TL;DR:** Softube's Model 82 Sequencing Mono Synth is currently **70% off** at Plugin Boutique — a rare deep discount on a plugin that rarely goes on sale this steeply. Check the current ~~full price~~ deal price and grab it [directly at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-get-70-off-model-82-sequencing-mono-synth-by-softube&a_aid=69cb95abe1763) before it expires.
 
 ---
 
@@ -57,7 +57,7 @@ The Model 82 has attracted attention in communities that follow Softube's catalo
 
 Softube does not run heavy discounts constantly — 70% is toward the top end of what they offer. Verify the exact dollar amounts on the product page, as deal pricing can update. **Deals can change without notice.**
 
-[Grab the Model 82 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-get-70-off-model-82-sequencing-mono-synth-by-softube)
+[Grab the Model 82 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-get-70-off-model-82-sequencing-mono-synth-by-softube&a_aid=69cb95abe1763)
 
 ---
 
@@ -91,7 +91,7 @@ A: Check the official product page for current OS and CPU requirements — these
 
 ## Get the Deal
 
-70% off a Softube instrument is not a common occurrence — if the Model 82 has been on your radar, this is one of the stronger discount windows to act on. [Check current pricing and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-get-70-off-model-82-sequencing-mono-synth-by-softube)
+70% off a Softube instrument is not a common occurrence — if the Model 82 has been on your radar, this is one of the stronger discount windows to act on. [Check current pricing and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-get-70-off-model-82-sequencing-mono-synth-by-softube&a_aid=69cb95abe1763)
 
 ---
 

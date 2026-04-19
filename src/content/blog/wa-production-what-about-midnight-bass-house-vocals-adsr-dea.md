@@ -1,5 +1,5 @@
 ---
-title: "Wa Production What About Midnight Bass House Vocals (ADSR Deal)"
+title: "Wa Production What About Midnight Bass House Vocals"
 description: "Wa Production's *What About Midnight Bass House Vocals* is currently on sale at ADSR Sounds — check the product page for the current deal price versus the..."
 pubDate: "2026-04-19T00:21:58Z"
 tags: ["adsr", "preset", "presets"]

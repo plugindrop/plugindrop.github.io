@@ -7,14 +7,14 @@ pubDate: '2026-04-04T13:06:29Z'
 tags:
 - newplugindeals
 - applied acoustic systems aas
-affiliate: https://www.pluginboutique.com/deals/22636?utm_source=affiliate-bot&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban
+affiliate: https://www.pluginboutique.com/deals/22636?utm_source=affiliate-bot&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban&a_aid=69cb95abe1763
 heroImage: /images/applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban.webp
 originalPrice: $199
 saleExpiry: '2026-04-20'
 aiImage: true
 draft: false
 ---
-**TL;DR:** Applied Acoustics Systems is running its Band Month Sale with up to 50% off instruments, effects, bundles, and sound packs. That means flagship physical modeling synths normally ~~$199~~ could drop to around $99, and The Integral bundle (~~$899~~) to roughly $449. Sale runs through April 20th — [grab the deal at Plugin Boutique](https://www.pluginboutique.com/deals/22636?utm_source=affiliate-bot&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban).
+**TL;DR:** Applied Acoustics Systems is running its Band Month Sale with up to 50% off instruments, effects, bundles, and sound packs. That means flagship physical modeling synths normally ~~$199~~ could drop to around $99, and The Integral bundle (~~$899~~) to roughly $449. Sale runs through April 20th — [grab the deal at Plugin Boutique](https://www.pluginboutique.com/deals/22636?utm_source=affiliate-bot&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban&a_aid=69cb95abe1763).
 
 ## What Is Applied Acoustics Systems (AAS)?
 
@@ -23,9 +23,9 @@ Applied Acoustics Systems is a Canadian developer that has been a leading name i
 ## Key Features of the AAS Product Line
 
 - **Physical modeling engine** — Every AAS instrument is built on synthesis rather than samples, resulting in smaller install sizes and highly expressive, responsive playback.
-- **[Lounge Lizard EP-5](https://www.pluginboutique.com/product/1-Instruments/4-Synth/14967-Lounge-Lizard-EP-5-)** — A dedicated electric piano plugin covering Rhodes, Wurlitzer, and other classic tones with deep tonal shaping.
+- **[Lounge Lizard EP-5](https://www.pluginboutique.com/product/1-Instruments/4-Synth/14967-Lounge-Lizard-EP-5-?a_aid=69cb95abe1763)** — A dedicated electric piano plugin covering Rhodes, Wurlitzer, and other classic tones with deep tonal shaping.
 - **Chromaphone 3** — An acoustic object synthesizer that pairs resonators (strings, plates, tubes, drumheads) to create everything from realistic mallets to experimental textures.
-- **[Strum GS-2](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2)** — A virtual guitar instrument with automatic chord recognition, strumming/picking patterns, built-in amps and effects.
+- **[Strum GS-2](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2?a_aid=69cb95abe1763)** — A virtual guitar instrument with automatic chord recognition, strumming/picking patterns, built-in amps and effects.
 - **Ultra Analog VA-3** — A versatile analog modeling synth designed for fast sound design across pads, leads, basses, and keys.
 - **Multiphonics CV-3** — A polyphonic modular synth environment combining physical modeling, FM, and subtractive synthesis with MPE support.
 
@@ -33,20 +33,20 @@ Applied Acoustics Systems is a Canadian developer that has been a leading name i
 
 <div style="display:flex;gap:1.5rem;flex-wrap:wrap;margin:1rem 0">
   <div style="flex:1;min-width:200px;text-align:center">
-    <a href="https://www.pluginboutique.com/product/1-Instruments/4-Synth/14967-Lounge-Lizard-EP-5-" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://www.pluginboutique.com/product/1-Instruments/4-Synth/14967-Lounge-Lizard-EP-5-?a_aid=69cb95abe1763" target="_blank" rel="noopener noreferrer nofollow">
       <img src="/images/lounge-lizard-ep5.jpg" alt="Lounge Lizard EP-5 by Applied Acoustics Systems" style="width:100%;border-radius:6px;border:1px solid var(--border)" loading="lazy" />
       <strong>Lounge Lizard EP-5</strong>
     </a>
     <br/>Rhodes, Wurlitzer &amp; more — ~~$199~~ ~$99
-    <br/><a href="https://www.pluginboutique.com/product/1-Instruments/4-Synth/14967-Lounge-Lizard-EP-5-" target="_blank" rel="noopener noreferrer nofollow">→ Get Lounge Lizard EP-5</a>
+    <br/><a href="https://www.pluginboutique.com/product/1-Instruments/4-Synth/14967-Lounge-Lizard-EP-5-?a_aid=69cb95abe1763" target="_blank" rel="noopener noreferrer nofollow">→ Get Lounge Lizard EP-5</a>
   </div>
   <div style="flex:1;min-width:200px;text-align:center">
-    <a href="https://www.pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://www.pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2?a_aid=69cb95abe1763" target="_blank" rel="noopener noreferrer nofollow">
       <img src="/images/strum-gs2.jpg" alt="Strum GS-2 by Applied Acoustics Systems" style="width:100%;border-radius:6px;border:1px solid var(--border)" loading="lazy" />
       <strong>Strum GS-2</strong>
     </a>
     <br/>Virtual acoustic &amp; electric guitar — ~~$199~~ ~$99
-    <br/><a href="https://www.pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2" target="_blank" rel="noopener noreferrer nofollow">→ Get Strum GS-2</a>
+    <br/><a href="https://www.pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2?a_aid=69cb95abe1763" target="_blank" rel="noopener noreferrer nofollow">→ Get Strum GS-2</a>
   </div>
 </div>
 
@@ -67,17 +67,17 @@ AAS runs sales a few times per year (typically summer and Black Friday at 50–6
 
 | Product | Regular Price | ~50% Off Price | You Save |
 |---|---|---|---|
-| [Lounge Lizard EP-5](https://www.pluginboutique.com/product/1-Instruments/4-Synth/14967-Lounge-Lizard-EP-5-) | ~~$199~~ | ~$99 | ~$100 |
+| [Lounge Lizard EP-5](https://www.pluginboutique.com/product/1-Instruments/4-Synth/14967-Lounge-Lizard-EP-5-?a_aid=69cb95abe1763) | ~~$199~~ | ~$99 | ~$100 |
 | Chromaphone 3 | ~~$199~~ | ~$99 | ~$100 |
 | Ultra Analog VA-3 | ~~$199~~ | ~$99 | ~$100 |
-| [Strum GS-2](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2) | ~~$199~~ | ~$99 | ~$100 |
+| [Strum GS-2](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2?a_aid=69cb95abe1763) | ~~$199~~ | ~$99 | ~$100 |
 | Objeq Delay | ~~$139~~ | ~$69 | ~$70 |
 | The Integral Bundle | ~~$899~~ | ~$449 | ~$450 |
 | Sound Packs | ~~$39~~ | ~$19 | ~$20 |
 
 *Note: Discounts are "up to" 50% — exact pricing per product may vary. Verify current pricing on the deal page.*
 
-Sale ends **April 20th**. [Check the full AAS Band Month Sale here](https://www.pluginboutique.com/deals/22636?utm_source=affiliate-bot&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban).
+Sale ends **April 20th**. [Check the full AAS Band Month Sale here](https://www.pluginboutique.com/deals/22636?utm_source=affiliate-bot&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban&a_aid=69cb95abe1763).
 
 ## Alternatives at a Glance
 
@@ -105,7 +105,7 @@ A: Yes, AAS offers upgrade pricing from Session instruments to their full Profes
 
 ## Get the Deal
 
-Up to 50% off the entire AAS physical modeling lineup — and the sale wraps on April 20th. Whether you're after a single instrument or the full Integral bundle, this is one of the better price points AAS hits during the year. [Pick up the AAS Band Month Sale at Plugin Boutique](https://www.pluginboutique.com/deals/22636?utm_source=affiliate-bot&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban).
+Up to 50% off the entire AAS physical modeling lineup — and the sale wraps on April 20th. Whether you're after a single instrument or the full Integral bundle, this is one of the better price points AAS hits during the year. [Pick up the AAS Band Month Sale at Plugin Boutique](https://www.pluginboutique.com/deals/22636?utm_source=affiliate-bot&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban&a_aid=69cb95abe1763).
 
 ---
 

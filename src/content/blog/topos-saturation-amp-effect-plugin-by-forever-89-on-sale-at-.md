@@ -12,16 +12,15 @@ tags:
 - sale
 - saturator
 - vst
-affiliate: https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=affiliate-bot&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-
+affiliate: https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=affiliate-bot&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763
 heroImage: /images/topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-.jpg
 dealPrice: $69
 originalPrice: $99
 saleExpiry: '2026-04-15'
 draft: false
-aiImage: true
 ---
 
-**TL;DR:** Topos by Forever 89 — a saturation and amp/speaker simulation plugin with 35 drive models and interactive map-based blending — is currently 30% off. That's ~~$99~~ **$69** at Plugin Boutique. The sale runs until April 15th, 2026. [Grab the deal here.](https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=affiliate-bot&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-)
+**TL;DR:** Topos by Forever 89 — a saturation and amp/speaker simulation plugin with 35 drive models and interactive map-based blending — is currently 30% off. That's ~~$99~~ **$69** at Plugin Boutique. The sale runs until April 15th, 2026. [Grab the deal here.](https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=affiliate-bot&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763)
 
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/8976LOntjy0" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -61,7 +60,7 @@ Worth noting: Forever 89 also offers **Topos: Play**, a free version with a redu
 
 This isn't the first time Topos has been discounted — it previously ran a 20% off sale — but 30% is the deepest cut seen so far. If you've been on the fence, this is a stronger entry point than previous promotions. The sale runs until **April 15th, 2026**.
 
-Verify current pricing on the product page — deals can change. [Check the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=affiliate-bot&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-)
+Verify current pricing on the product page — deals can change. [Check the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=affiliate-bot&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763)
 
 ## Alternatives at a Glance
 
@@ -91,7 +90,7 @@ A: Downloading the free Topos: Play version is the best way to test the workflow
 
 30% off Topos brings it down to $69 — the lowest price seen on this plugin to date. If saturation, amp modeling, and speaker simulation in a single streamlined interface sounds like your lane, this is a solid time to jump in.
 
-[Get Topos at 30% off on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=affiliate-bot&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-)
+[Get Topos at 30% off on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=affiliate-bot&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763)
 
 ---
 

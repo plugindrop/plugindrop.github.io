@@ -5,12 +5,11 @@ description: The FG-116 Blue Series FET Compressors from Slate Digital is availa
 pubDate: '2026-04-17T13:23:21Z'
 tags:
 - deal
-affiliate: https://www.pluginboutique.com/product/2-Effects/8-Compressor/15776-FG-116-Blue-Series-FET-Compressors?utm_source=affiliate-bot&utm_medium=article&utm_campaign=fg-116-blue-fet-compressors-5c150f
+affiliate: https://www.pluginboutique.com/product/2-Effects/8-Compressor/15776-FG-116-Blue-Series-FET-Compressors?utm_source=affiliate-bot&utm_medium=article&utm_campaign=fg-116-blue-fet-compressors-5c150f&a_aid=69cb95abe1763
 heroImage: /images/fg-116-blue-fet-compressors-5c150f.jpg
 draft: false
-aiImage: true
 ---
-**TL;DR:** The FG-116 Blue Series FET Compressors from Slate Digital is available now at Plugin Boutique — check the current deal price vs. regular MSRP on the product page. If you've been eyeing a high-quality 1176-style FET compressor plugin, this is worth a look. [Grab it here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/15776-FG-116-Blue-Series-FET-Compressors?utm_source=affiliate-bot&utm_medium=article&utm_campaign=fg-116-blue-fet-compressors-5c150f)
+**TL;DR:** The FG-116 Blue Series FET Compressors from Slate Digital is available now at Plugin Boutique — check the current deal price vs. regular MSRP on the product page. If you've been eyeing a high-quality 1176-style FET compressor plugin, this is worth a look. [Grab it here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/15776-FG-116-Blue-Series-FET-Compressors?utm_source=affiliate-bot&utm_medium=article&utm_campaign=fg-116-blue-fet-compressors-5c150f&a_aid=69cb95abe1763)
 
 ---
 
@@ -58,7 +57,7 @@ The FG-116 Blue is frequently mentioned in mixing and production communities as 
 
 Slate Digital's plugins occasionally appear in sales through Plugin Boutique — if you're seeing a discount right now, it's worth acting on. Deals on individual VMR modules don't surface constantly. Verify the current pricing directly on the product page, as deal pricing can change without notice.
 
-[Check the current price and deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/15776-FG-116-Blue-Series-FET-Compressors?utm_source=affiliate-bot&utm_medium=article&utm_campaign=fg-116-blue-fet-compressors-5c150f)
+[Check the current price and deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/15776-FG-116-Blue-Series-FET-Compressors?utm_source=affiliate-bot&utm_medium=article&utm_campaign=fg-116-blue-fet-compressors-5c150f&a_aid=69cb95abe1763)
 
 ---
 
@@ -94,7 +93,7 @@ A: Check the official product page for up-to-date compatibility details includin
 
 The FG-116 Blue Series FET Compressor is a focused, purpose-built tool for anyone who needs 1176-style compression inside the VMR ecosystem. If this fits your setup, don't wait on it.
 
-[Get the FG-116 Blue at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/15776-FG-116-Blue-Series-FET-Compressors?utm_source=affiliate-bot&utm_medium=article&utm_campaign=fg-116-blue-fet-compressors-5c150f)
+[Get the FG-116 Blue at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/15776-FG-116-Blue-Series-FET-Compressors?utm_source=affiliate-bot&utm_medium=article&utm_campaign=fg-116-blue-fet-compressors-5c150f&a_aid=69cb95abe1763)
 
 ---
 

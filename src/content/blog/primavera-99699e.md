@@ -5,12 +5,11 @@ description: Primavera is a lush reverb plugin available now at Plugin Boutique 
 pubDate: '2026-04-14T14:00:40Z'
 tags:
 - deal
-affiliate: https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=affiliate-bot&utm_medium=article&utm_campaign=primavera-99699e
+affiliate: https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=affiliate-bot&utm_medium=article&utm_campaign=primavera-99699e&a_aid=69cb95abe1763
 heroImage: /images/primavera-99699e.jpg
 draft: false
-aiImage: true
 ---
-**TL;DR:** Primavera is a lush reverb plugin available now at Plugin Boutique — check the current deal price versus the regular MSRP on the product page for exact savings. If reverb is a gap in your toolkit, this is worth a look. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=affiliate-bot&utm_medium=article&utm_campaign=primavera-99699e)
+**TL;DR:** Primavera is a lush reverb plugin available now at Plugin Boutique — check the current deal price versus the regular MSRP on the product page for exact savings. If reverb is a gap in your toolkit, this is worth a look. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=affiliate-bot&utm_medium=article&utm_campaign=primavera-99699e&a_aid=69cb95abe1763)
 
 ---
 
@@ -36,7 +35,7 @@ Based on the product listing and category context:
 - **Wet/Dry Mix** — Standard blend control for parallel processing workflows.
 - **Intuitive Interface** — Geared toward fast, musical decisions rather than deep menu-diving.
 
-*For full specs, system requirements, and supported formats (VST/AU/AAX), check the [official product page at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=affiliate-bot&utm_medium=article&utm_campaign=primavera-99699e).*
+*For full specs, system requirements, and supported formats (VST/AU/AAX), check the [official product page at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=affiliate-bot&utm_medium=article&utm_campaign=primavera-99699e&a_aid=69cb95abe1763).*
 
 ---
 
@@ -65,7 +64,7 @@ Exact pricing fluctuates with promotions. Plugin Boutique regularly runs sales a
 
 > **Verify current pricing on the product page — deals can change.**
 
-[See the current price and grab Primavera at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=affiliate-bot&utm_medium=article&utm_campaign=primavera-99699e)
+[See the current price and grab Primavera at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=affiliate-bot&utm_medium=article&utm_campaign=primavera-99699e&a_aid=69cb95abe1763)
 
 ---
 
@@ -99,7 +98,7 @@ A: Refund and return policies for software vary. Check Plugin Boutique's terms o
 
 ## Get the Deal
 
-Reverb is one of those tools you reach for on nearly every session. If Primavera fits the gap in your rack, Plugin Boutique is the place to get it at the current deal price. [Check the live deal and pick it up here.](https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=affiliate-bot&utm_medium=article&utm_campaign=primavera-99699e)
+Reverb is one of those tools you reach for on nearly every session. If Primavera fits the gap in your rack, Plugin Boutique is the place to get it at the current deal price. [Check the live deal and pick it up here.](https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=affiliate-bot&utm_medium=article&utm_campaign=primavera-99699e&a_aid=69cb95abe1763)
 
 ---
 

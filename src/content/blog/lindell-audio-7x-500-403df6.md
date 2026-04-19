@@ -3,12 +3,12 @@ title: "Lindell Audio 7X-500"
 description: "The Lindell Audio 7X-500 compressor plugin is available now at Plugin Boutique — check the current deal price (~~full price~~ → discounted) before it..."
 pubDate: "2026-04-19T00:21:57Z"
 tags: ["deal"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/14585-Lindell-Audio-7X-500?utm_source=affiliate-bot&utm_medium=article&utm_campaign=lindell-audio-7x-500-403df6"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/14585-Lindell-Audio-7X-500?utm_source=affiliate-bot&utm_medium=article&utm_campaign=lindell-audio-7x-500-403df6&a_aid=69cb95abe1763"
 heroImage: "/images/lindell-audio-7x-500-403df6.jpg"
 score: 3.00
 draft: false
 ---
-**TL;DR:** The Lindell Audio 7X-500 compressor plugin is available now at Plugin Boutique — check the current deal price (~~full price~~ → discounted) before it changes. A hardware-modeled bus compressor with serious vintage character, this is a strong pick for any mixing toolkit. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/14585-Lindell-Audio-7X-500?utm_source=affiliate-bot&utm_medium=article&utm_campaign=lindell-audio-7x-500-403df6)
+**TL;DR:** The Lindell Audio 7X-500 compressor plugin is available now at Plugin Boutique — check the current deal price (~~full price~~ → discounted) before it changes. A hardware-modeled bus compressor with serious vintage character, this is a strong pick for any mixing toolkit. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/14585-Lindell-Audio-7X-500?utm_source=affiliate-bot&utm_medium=article&utm_campaign=lindell-audio-7x-500-403df6&a_aid=69cb95abe1763)
 
 ---
 
@@ -58,7 +58,7 @@ Lindell Audio has earned a consistent reputation on mixing forums for delivering
 
 Lindell Audio titles appear at Plugin Boutique periodically, sometimes as part of sitewide sales or label-specific promotions. Verify current pricing directly — deals can change without notice.
 
-[Check the current price and grab it here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/14585-Lindell-Audio-7X-500?utm_source=affiliate-bot&utm_medium=article&utm_campaign=lindell-audio-7x-500-403df6)
+[Check the current price and grab it here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/14585-Lindell-Audio-7X-500?utm_source=affiliate-bot&utm_medium=article&utm_campaign=lindell-audio-7x-500-403df6&a_aid=69cb95abe1763)
 
 ---
 
@@ -94,7 +94,7 @@ A: Check the Plugin Boutique listing to see if a demo or trial version is availa
 
 Lindell Audio's 7X-500 is one of those compressors that fits naturally into a hardware-minded mixing chain — and at a discounted price, it's worth a closer look. Don't sit on it if the deal is live.
 
-[Get the Lindell Audio 7X-500 at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/14585-Lindell-Audio-7X-500?utm_source=affiliate-bot&utm_medium=article&utm_campaign=lindell-audio-7x-500-403df6)
+[Get the Lindell Audio 7X-500 at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/14585-Lindell-Audio-7X-500?utm_source=affiliate-bot&utm_medium=article&utm_campaign=lindell-audio-7x-500-403df6&a_aid=69cb95abe1763)
 
 ---
 

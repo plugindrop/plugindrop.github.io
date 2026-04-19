@@ -17,7 +17,6 @@ tags:
 affiliate: https://www.soundtoys.com/product/decapitator/
 heroImage: /images/telepathic-instruments-orchid-is-now-a-soft-synth-in-your-da.jpg
 draft: true
-aiImage: true
 ---
 **TL;DR:** Telepathic Instruments' Orchid hardware synth now has a software counterpart — Pistil brings that same distinctive sound engine directly into your DAW. If you've been eyeing the Orchid but couldn't justify the hardware price tag, this is your entry point. [Check out Pistil here.](https://www.soundtoys.com/product/decapitator/)
 

@@ -6,12 +6,11 @@ pubDate: '2026-04-03T13:13:29Z'
 tags:
 - samples and presets
 - loopmasters
-affiliate: https://www.loopmasters.com/genres/95-EDM/products/20624-Ali-Stone-Rockstar-Rave?utm_source=affiliate-bot&utm_medium=article&utm_campaign=loopmasters-releases-ali-stone-rockstar-rave-sample-pack
+affiliate: https://www.loopmasters.com/genres/95-EDM/products/20624-Ali-Stone-Rockstar-Rave?utm_source=affiliate-bot&utm_medium=article&utm_campaign=loopmasters-releases-ali-stone-rockstar-rave-sample-pack&a_aid=69cb95abe1763
 heroImage: /images/loopmasters-releases-ali-stone-rockstar-rave-sample-pack.jpg
 draft: false
-aiImage: true
 ---
-**TL;DR:** Loopmasters just dropped **Ali Stone – Rockstar Rave**, a 281 MB sample pack blending industrial rave energy with Latin percussion and bilingual vocals. Priced at £29.95, the pack includes 125+ loops, 80+ one-shots, and MIDI files in 24-bit WAV. [Grab it here at Loopmasters](https://www.loopmasters.com/genres/95-EDM/products/20624-Ali-Stone-Rockstar-Rave?utm_source=affiliate-bot&utm_medium=article&utm_campaign=loopmasters-releases-ali-stone-rockstar-rave-sample-pack).
+**TL;DR:** Loopmasters just dropped **Ali Stone – Rockstar Rave**, a 281 MB sample pack blending industrial rave energy with Latin percussion and bilingual vocals. Priced at £29.95, the pack includes 125+ loops, 80+ one-shots, and MIDI files in 24-bit WAV. [Grab it here at Loopmasters](https://www.loopmasters.com/genres/95-EDM/products/20624-Ali-Stone-Rockstar-Rave?utm_source=affiliate-bot&utm_medium=article&utm_campaign=loopmasters-releases-ali-stone-rockstar-rave-sample-pack&a_aid=69cb95abe1763).
 
 ## What Is Ali Stone – Rockstar Rave?
 
@@ -47,7 +46,7 @@ This is a new release at its standard Loopmasters price point. Loopmasters perio
 
 Verify current pricing on the product page — deals can change.
 
-[Pick up Ali Stone – Rockstar Rave at Loopmasters](https://www.loopmasters.com/genres/95-EDM/products/20624-Ali-Stone-Rockstar-Rave?utm_source=affiliate-bot&utm_medium=article&utm_campaign=loopmasters-releases-ali-stone-rockstar-rave-sample-pack)
+[Pick up Ali Stone – Rockstar Rave at Loopmasters](https://www.loopmasters.com/genres/95-EDM/products/20624-Ali-Stone-Rockstar-Rave?utm_source=affiliate-bot&utm_medium=article&utm_campaign=loopmasters-releases-ali-stone-rockstar-rave-sample-pack&a_aid=69cb95abe1763)
 
 ## Alternatives at a Glance
 
@@ -77,7 +76,7 @@ A: No. You can purchase and download the pack as a standard ZIP file. Loopcloud 
 
 Ali Stone – Rockstar Rave packs 281 MB of industrial rave, Latin percussion, and bilingual vocals into one focused collection at £29.95. Not many EDM packs bring this kind of crossover energy.
 
-[Get Ali Stone – Rockstar Rave at Loopmasters](https://www.loopmasters.com/genres/95-EDM/products/20624-Ali-Stone-Rockstar-Rave?utm_source=affiliate-bot&utm_medium=article&utm_campaign=loopmasters-releases-ali-stone-rockstar-rave-sample-pack)
+[Get Ali Stone – Rockstar Rave at Loopmasters](https://www.loopmasters.com/genres/95-EDM/products/20624-Ali-Stone-Rockstar-Rave?utm_source=affiliate-bot&utm_medium=article&utm_campaign=loopmasters-releases-ali-stone-rockstar-rave-sample-pack&a_aid=69cb95abe1763)
 
 ---
 

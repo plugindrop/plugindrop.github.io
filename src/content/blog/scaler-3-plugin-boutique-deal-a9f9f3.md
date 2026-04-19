@@ -1,14 +1,14 @@
 ---
-title: "Scaler 3 (Plugin Boutique Deal)"
+title: "Scaler 3"
 description: "Scaler 3 is one of the most talked-about music theory plugins on the market, and Plugin Boutique is currently running a deal that makes it more accessible..."
 pubDate: "2026-04-19T02:00:43Z"
 tags: ["plugin boutique", "plugin", "synth", "effects"]
-affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=affiliate-bot&utm_medium=article&utm_campaign=scaler-3-plugin-boutique-deal-a9f9f3"
+affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=affiliate-bot&utm_medium=article&utm_campaign=scaler-3-plugin-boutique-deal-a9f9f3&a_aid=69cb95abe1763"
 heroImage: "/images/scaler-3-plugin-boutique-deal-a9f9f3.jpg"
 score: 3.70
 draft: false
 ---
-**TL;DR:** Scaler 3 is one of the most talked-about music theory plugins on the market, and Plugin Boutique is currently running a deal that makes it more accessible than ever. Check the product page for the current price — then [grab Scaler 3 at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=affiliate-bot&utm_medium=article&utm_campaign=scaler-3-plugin-boutique-deal-a9f9f3) before it changes.
+**TL;DR:** Scaler 3 is one of the most talked-about music theory plugins on the market, and Plugin Boutique is currently running a deal that makes it more accessible than ever. Check the product page for the current price — then [grab Scaler 3 at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=affiliate-bot&utm_medium=article&utm_campaign=scaler-3-plugin-boutique-deal-a9f9f3&a_aid=69cb95abe1763) before it changes.
 
 ---
 
@@ -57,7 +57,7 @@ Scaler has built a strong reputation in the music production community over mult
 
 Pricing on Plugin Boutique can fluctuate with flash sales, bundle events, and seasonal promotions. Plugin Boutique also runs a loyalty points system, which can bring the effective cost down further depending on your account balance. **Verify current pricing on the product page — deals can change.**
 
-[Check the current Scaler 3 deal at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=affiliate-bot&utm_medium=article&utm_campaign=scaler-3-plugin-boutique-deal-a9f9f3)
+[Check the current Scaler 3 deal at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=affiliate-bot&utm_medium=article&utm_campaign=scaler-3-plugin-boutique-deal-a9f9f3&a_aid=69cb95abe1763)
 
 ---
 
@@ -91,7 +91,7 @@ A: Refund policies for software vary. Check the Plugin Boutique terms of service
 
 ## Get the Deal
 
-Scaler 3 is one of the more practical music theory tools available for in-DAW use, and Plugin Boutique is currently the place to pick it up. Don't sleep on the current pricing — [check the Scaler 3 deal at Plugin Boutique now](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=affiliate-bot&utm_medium=article&utm_campaign=scaler-3-plugin-boutique-deal-a9f9f3).
+Scaler 3 is one of the more practical music theory tools available for in-DAW use, and Plugin Boutique is currently the place to pick it up. Don't sleep on the current pricing — [check the Scaler 3 deal at Plugin Boutique now](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=affiliate-bot&utm_medium=article&utm_campaign=scaler-3-plugin-boutique-deal-a9f9f3&a_aid=69cb95abe1763).
 
 ---
 

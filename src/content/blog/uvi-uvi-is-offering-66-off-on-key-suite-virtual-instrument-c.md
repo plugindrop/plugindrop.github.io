@@ -11,7 +11,6 @@ affiliate: https://www.uvi.net/key-suite
 heroImage: /images/uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c.png
 saleExpiry: '2026-04-20'
 draft: false
-aiImage: true
 ---
 **TL;DR:** UVI is running a steep **66% off** sale on Key Suite — their comprehensive keyboard instrument collection for Falcon and UVI Workstation. If you've been eyeing UVI's keyboard sounds, this is a rare discount worth acting on. Grab the deal directly at [uvi.net/key-suite](https://www.uvi.net/key-suite).
 

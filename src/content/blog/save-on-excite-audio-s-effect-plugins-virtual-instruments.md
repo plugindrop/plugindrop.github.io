@@ -8,14 +8,13 @@ tags:
 - excite audio
 - plugin boutique
 - sale
-affiliate: https://www.pluginboutique.com/manufacturers/322-Excite-Audio
+affiliate: https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763
 heroImage: /images/save-on-excite-audio-s-effect-plugins-virtual-instruments.jpg
 saleExpiry: '2026-04-30'
 draft: false
-aiImage: true
 ---
 
-**TL;DR:** Excite Audio's full plugin lineup — including the Bloom virtual instruments, VISION 4X metering suite, Lifeline mixing tools, and Motion effects — is on sale with discounts up to 52% off at Plugin Boutique. The Bloom Bundle alone drops from ~~¥65,959~~ to ¥31,241. [Grab the deals before they expire →](https://www.pluginboutique.com/manufacturers/322-Excite-Audio)
+**TL;DR:** Excite Audio's full plugin lineup — including the Bloom virtual instruments, VISION 4X metering suite, Lifeline mixing tools, and Motion effects — is on sale with discounts up to 52% off at Plugin Boutique. The Bloom Bundle alone drops from ~~¥65,959~~ to ¥31,241. [Grab the deals before they expire →](https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763)
 
 ## What Is Excite Audio?
 
@@ -53,7 +52,7 @@ Pricing shown in JPY as displayed on Plugin Boutique — your local currency may
 
 Verify current pricing on the product page — deals can change. Sale runs through April 30, 2026.
 
-[Browse all Excite Audio deals →](https://www.pluginboutique.com/manufacturers/322-Excite-Audio)
+[Browse all Excite Audio deals →](https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763)
 
 ## Alternatives at a Glance
 
@@ -83,7 +82,7 @@ A: The sale runs through April 30, 2026 at Plugin Boutique. Pricing and availabi
 
 Up to 52% off Excite Audio's full lineup of effects and instruments — that's a solid entry point into a growing catalog. Sale ends April 30, 2026.
 
-[See all Excite Audio deals at Plugin Boutique →](https://www.pluginboutique.com/manufacturers/322-Excite-Audio)
+[See all Excite Audio deals at Plugin Boutique →](https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763)
 
 ---
 

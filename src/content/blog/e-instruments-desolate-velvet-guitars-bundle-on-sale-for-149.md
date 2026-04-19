@@ -9,18 +9,17 @@ tags:
 - guitar
 - kontakt
 - sale
-affiliate: https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=affiliate-bot&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149
+affiliate: https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=affiliate-bot&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763
 heroImage: /images/e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149.jpg
 dealPrice: $149
 originalPrice: $269
 saleExpiry: '2026-04-30'
 draft: false
-aiImage: true
 ---
 
 ---
 
-**TL;DR:** e-instruments' Desolate & Velvet Guitars Bundle is currently ~~$269~~ **$149 USD** — a 44% discount. That's two premium Kontakt guitar libraries for the price of one. Buying them separately would run you $298, so [grab the bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=affiliate-bot&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149) before the deal ends April 30, 2026.
+**TL;DR:** e-instruments' Desolate & Velvet Guitars Bundle is currently ~~$269~~ **$149 USD** — a 44% discount. That's two premium Kontakt guitar libraries for the price of one. Buying them separately would run you $298, so [grab the bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=affiliate-bot&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763) before the deal ends April 30, 2026.
 
 ## What Is the Desolate & Velvet Guitars Bundle?
 
@@ -59,7 +58,7 @@ e-instruments doesn't run frequent sales on these titles, so this bundle discoun
 
 > Verify current pricing on the product page — deals can change.
 
-[Pick up the Desolate & Velvet Guitars Bundle at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=affiliate-bot&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149)
+[Pick up the Desolate & Velvet Guitars Bundle at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=affiliate-bot&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763)
 
 ## Alternatives at a Glance
 
@@ -89,7 +88,7 @@ A: Check Plugin Boutique's product page for current return and refund terms.
 
 Two premium cinematic guitar libraries, nine guitars, real amps, real reverb — ~~$298~~ **$149**. That's 50% off versus buying them individually, and the deal expires April 30, 2026.
 
-[Get the Desolate & Velvet Guitars Bundle for $149 at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=affiliate-bot&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149)
+[Get the Desolate & Velvet Guitars Bundle for $149 at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=affiliate-bot&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763)
 
 ---
 
