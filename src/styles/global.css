@@ -48,6 +48,8 @@
 
 	/* Hover */
 	--accent-border-hover: rgba(148, 211, 196, 0.25);
+	--accent-muted: rgba(148, 211, 196, 0.1);
+	--bg-hover: rgba(255, 255, 255, 0.05);
 
 	/* Shapes */
 	--radius: 4px;
