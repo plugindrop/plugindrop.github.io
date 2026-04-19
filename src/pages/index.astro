@@ -51,8 +51,12 @@ function daysLeft(post: any): number | null {
 	return days > 0 ? days : null;
 }
 
+function isFreePrice(price: string | undefined): boolean {
+	return !!price && price.trim().toUpperCase() === 'FREE';
+}
+
 function isRealDeal(post: any): boolean {
-	return !!(post.data.discount || (post.data.dealPrice && post.data.originalPrice) || post.data.dealPrice === 'FREE');
+	return !!(post.data.discount || (post.data.dealPrice && post.data.originalPrice) || isFreePrice(post.data.dealPrice));
 }
 
 const heroPosts = allPosts.filter(hasHeroImage);
@@ -74,18 +78,11 @@ const recentDeals = heroPosts
 const recentIds = new Set(recentDeals.map(p => p.id));
 const freeDeals = allPosts
 	.filter(p => hasHeroImage(p) && !topIds.has(p.id) && !recentIds.has(p.id) && !isExpired(p) && (
-		p.data.dealPrice === 'FREE' ||
+		isFreePrice(p.data.dealPrice) ||
 		(p.data.tags?.includes('free') && p.data.affiliate)
 	))
 	.slice(0, 3);
 
-// activeDeals: confirmed future expiry OR real deal published within 30 days
-const _30dAgo = Date.now() - 30 * 24 * 60 * 60 * 1000;
-const activeDeals = allPosts.filter(p => {
-	if (isExpired(p)) return false;
-	if (p.data.saleExpiry) return true;
-	return isRealDeal(p) && p.data.pubDate.valueOf() > _30dAgo;
-}).length;
 ---
 
 <!doctype html>
@@ -113,12 +110,6 @@ const activeDeals = allPosts.filter(p => {
 						Prices, specs &amp; community takes &mdash; no hype, no fake reviews.
 					</p>
 				</div>
-				{activeDeals > 0 && (
-					<div class="live-count">
-						<span class="live-dot"></span>
-						{activeDeals} active deals right now
-					</div>
-				)}
 			</section>
 
 			<!-- ── Editor's Picks ─────────────────────── -->
@@ -144,7 +135,7 @@ const activeDeals = allPosts.filter(p => {
 											<div class="price-cluster">
 												{post.data.originalPrice && <s class="price-was">{post.data.originalPrice}</s>}
 												{post.data.dealPrice && (
-													<strong class={`price-now ${post.data.dealPrice === 'FREE' ? 'is-free' : ''}`}>
+													<strong class={`price-now ${isFreePrice(post.data.dealPrice) ? 'is-free' : ''}`}>
 														{post.data.dealPrice}
 													</strong>
 												)}
@@ -190,7 +181,7 @@ const activeDeals = allPosts.filter(p => {
 											<div class="price-cluster">
 												{post.data.originalPrice && <s class="price-was">{post.data.originalPrice}</s>}
 												{post.data.dealPrice && (
-													<strong class={`price-now ${post.data.dealPrice === 'FREE' ? 'is-free' : ''}`}>
+													<strong class={`price-now ${isFreePrice(post.data.dealPrice) ? 'is-free' : ''}`}>
 														{post.data.dealPrice}
 													</strong>
 												)}
@@ -280,25 +271,6 @@ const activeDeals = allPosts.filter(p => {
 		font-size: 0.95rem;
 		margin: 0;
 		line-height: 1.5;
-	}
-	.live-count {
-		display: inline-flex;
-		align-items: center;
-		gap: 0.4rem;
-		font-size: 0.78rem;
-		color: var(--text-muted);
-		font-weight: 500;
-		margin-top: 0.75rem;
-	}
-	.live-dot {
-		width: 7px; height: 7px;
-		border-radius: 50%;
-		background: var(--accent);
-		animation: pulse 2s infinite;
-	}
-	@keyframes pulse {
-		0%, 100% { opacity: 1; }
-		50% { opacity: 0.35; }
 	}
 
 	/* ── Sections ─────────────────────────────────────────── */

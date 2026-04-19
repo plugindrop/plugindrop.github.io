@@ -1,5 +1,5 @@
 ---
-title: "Cadence"
+title: "30% Off Cadence Preset Pack at ADSR Sounds"
 description: "Cadence is currently discounted on ADSR Sounds — check the product page for the exact savings, but the deal makes this preset pack worth a serious look...."
 pubDate: "2026-04-19T08:25:59Z"
 tags: ["adsr", "preset", "presets"]

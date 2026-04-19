@@ -1,5 +1,5 @@
 ---
-title: DANDY
+title: "92% Off DANDY Virtual Instrument at Plugin Boutique"
 description: DANDY is currently on sale at Plugin Boutique — grab it at the deal price
   before it reverts. Check the product page for the exact discount, but the...
 pubDate: '2026-04-14T10:02:50Z'

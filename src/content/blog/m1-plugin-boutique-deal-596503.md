@@ -1,5 +1,5 @@
 ---
-title: M1
+title: "50% Off Korg M1 Synthesizer at Plugin Boutique"
 description: The legendary Korg M1 plugin — one of the best-selling synthesizers in
   history — is available at Plugin Boutique right now. Check current pricing on the...
 pubDate: '2026-04-14T10:02:48Z'

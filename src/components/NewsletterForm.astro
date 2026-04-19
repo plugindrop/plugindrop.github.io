@@ -1,0 +1,116 @@
+---
+// NewsletterForm.astro - Resend経由メール登録フォーム
+// フッターに埋め込む。スクロールを妨げないシンプルなインライン型。
+---
+
+<div class="newsletter-wrap">
+  <p class="nl-label">Weekly deals, straight to your inbox.</p>
+  <form class="nl-form" id="nl-form" novalidate>
+    <input
+      type="email"
+      name="email"
+      id="nl-email"
+      placeholder="your@email.com"
+      autocomplete="email"
+      required
+      class="nl-input"
+    />
+    <button type="submit" class="nl-btn" id="nl-btn">Subscribe</button>
+  </form>
+  <p class="nl-msg" id="nl-msg" aria-live="polite"></p>
+</div>
+
+<script>
+  const form = document.getElementById("nl-form") as HTMLFormElement | null;
+  const msg = document.getElementById("nl-msg");
+  const btn = document.getElementById("nl-btn") as HTMLButtonElement | null;
+
+  form?.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const email = (document.getElementById("nl-email") as HTMLInputElement)?.value?.trim();
+    if (!email) return;
+
+    if (btn) btn.disabled = true;
+    if (msg) { msg.textContent = "Subscribing…"; msg.className = "nl-msg"; }
+
+    try {
+      const SUBSCRIBE_URL = "https://plugindrop-subscribe.plugindrop.workers.dev";
+      const res = await fetch(SUBSCRIBE_URL, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email }),
+      });
+      const data = await res.json();
+      if (data.success) {
+        if (msg) { msg.textContent = "You're in! Check your inbox."; msg.className = "nl-msg nl-ok"; }
+        form.reset();
+      } else {
+        throw new Error(data.error || "Unknown error");
+      }
+    } catch {
+      if (msg) { msg.textContent = "Something went wrong. Try again."; msg.className = "nl-msg nl-err"; }
+      if (btn) btn.disabled = false;
+    }
+  });
+</script>
+
+<style>
+  .newsletter-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 1.25rem 1rem;
+    background: var(--bg-low, #111);
+    border-top: 1px solid var(--border, #222);
+    border-bottom: 1px solid var(--border, #222);
+    width: 100%;
+  }
+  .nl-label {
+    margin: 0;
+    font-size: 0.82rem;
+    color: var(--text-muted, #888);
+  }
+  .nl-form {
+    display: flex;
+    gap: 0.5rem;
+    width: 100%;
+    max-width: 380px;
+  }
+  .nl-input {
+    flex: 1;
+    padding: 0.5rem 0.75rem;
+    border-radius: 6px;
+    border: 1px solid var(--border, #333);
+    background: var(--bg, #1a1a1a);
+    color: var(--text-primary, #f0f0f0);
+    font-size: 0.85rem;
+    outline: none;
+    min-width: 0;
+  }
+  .nl-input:focus {
+    border-color: var(--accent, #7c3aed);
+  }
+  .nl-btn {
+    padding: 0.5rem 1rem;
+    background: var(--accent, #7c3aed);
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: opacity 0.15s;
+  }
+  .nl-btn:hover { opacity: 0.85; }
+  .nl-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+  .nl-msg {
+    margin: 0;
+    font-size: 0.78rem;
+    color: var(--text-muted, #888);
+    min-height: 1.2em;
+  }
+  .nl-ok { color: #2ecc71 !important; }
+  .nl-err { color: #e44 !important; }
+</style>

@@ -1,5 +1,5 @@
 ---
-title: Primavera
+title: "61% Off Primavera Reverb Plugin at Plugin Boutique"
 description: Primavera is a lush reverb plugin available now at Plugin Boutique —
   check the current deal price versus the regular MSRP on the product page for exact...
 pubDate: '2026-04-14T14:00:40Z'

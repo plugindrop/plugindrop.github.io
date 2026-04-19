@@ -333,15 +333,15 @@ const faqLD = faqPairs.length > 0 ? {
 									{(dealPrice || discount) && (
 										<div class="deal-price-row">
 											{originalPrice && <span class="deal-price-original">{originalPrice}</span>}
-											{dealPrice && <span class={`deal-price-current${dealPrice === 'FREE' ? ' is-free' : ''}`}>{dealPrice}</span>}
+											{dealPrice && <span class={`deal-price-current${dealPrice?.trim().toUpperCase() === 'FREE' ? ' is-free' : ''}`}>{dealPrice}</span>}
 											{discount && (
-												<span class={`deal-save-badge${dealPrice === 'FREE' ? ' is-free' : ''}`}>{discount}</span>
+												<span class={`deal-save-badge${dealPrice?.trim().toUpperCase() === 'FREE' ? ' is-free' : ''}`}>{discount}</span>
 											)}
 										</div>
 									)}
 									{dealSource && <div class="deal-source">Available via {dealSource}</div>}
 									<a href={affiliate} class="deal-cta-btn" target="_blank" rel="noopener noreferrer nofollow">
-										{dealPrice === 'FREE' ? 'Get It Free \u2192' : 'Get This Deal \u2192'}
+										{dealPrice?.trim().toUpperCase() === 'FREE' ? 'Get It Free \u2192' : 'Get This Deal \u2192'}
 									</a>
 								</>
 							)}
@@ -363,7 +363,7 @@ const faqLD = faqPairs.length > 0 ? {
 			<div class="sticky-cta">
 				<span class="sticky-title">{saleExpired ? title : (dealPrice ? `${dealPrice} — ${title}` : title)}</span>
 				<a href={affiliate} class="deal-cta-btn" target="_blank" rel="noopener noreferrer nofollow">
-					{saleExpired ? 'View Price' : (dealPrice === 'FREE' ? 'Get Free' : 'Get Deal')}
+					{saleExpired ? 'View Price' : (dealPrice?.trim().toUpperCase() === 'FREE' ? 'Get Free' : 'Get Deal')}
 				</a>
 			</div>
 		)}

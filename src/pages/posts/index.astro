@@ -298,7 +298,7 @@ function getStoreName(url: string | undefined): string {
 							{(post.data.dealPrice || post.data.originalPrice) && (
 								<div class="post-price">
 									{post.data.dealPrice && (
-										<span class={`price-current ${post.data.dealPrice === 'FREE' ? 'is-free' : ''}`}>
+										<span class={`price-current ${post.data.dealPrice?.trim().toUpperCase() === 'FREE' ? 'is-free' : ''}`}>
 											{post.data.dealPrice}
 										</span>
 									)}
