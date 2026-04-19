@@ -182,22 +182,24 @@ const faqLD = faqPairs.length > 0 ? {
 				color: var(--text-muted);
 				margin: 0;
 			}
-			/* Direct responsive sizing for all iframes in article body */
+		</style>
+		<!-- Global iframe/video styles (markdown content lacks Astro scoping CIDs) -->
+		<style is:global>
 			.prose iframe {
 				width: 100%;
 				aspect-ratio: 16 / 9;
 				border: 0;
-				border-radius: var(--radius);
+				border-radius: 6px;
 				display: block;
 				margin: 1.5rem 0;
 			}
 			.video-embed {
 				position: relative;
 				width: 100%;
-				padding-bottom: 56.25%; /* 16:9 fallback for browsers without aspect-ratio */
+				padding-bottom: 56.25%;
 				height: 0;
 				overflow: hidden;
-				border-radius: var(--radius);
+				border-radius: 6px;
 				margin: 1.5rem 0;
 			}
 			.video-embed iframe {
@@ -210,6 +212,8 @@ const faqLD = faqPairs.length > 0 ? {
 				margin: 0;
 				aspect-ratio: unset;
 			}
+		</style>
+		<style>
 			@media (max-width: 720px) {
 				.article-header h1 { font-size: 1.5rem; }
 				.hero-image { padding: 1rem 0.5rem 0; }
