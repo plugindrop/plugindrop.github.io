@@ -266,6 +266,7 @@ function getStoreName(url: string | undefined): string {
 							href={`/posts/${post.id}/`}
 							class="post-item"
 							data-tags={tagsStr}
+							data-has-price={(post.data.dealPrice || post.data.discount) ? '1' : '0'}
 						>
 							<div class="post-thumb-wrap">
 								{typeof post.data.heroImage === 'string'
