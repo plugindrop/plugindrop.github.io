@@ -8,7 +8,7 @@ pubDate: '2026-04-03T05:10:29Z'
 tags:
 - newplugindeals
 - the tone foundry
-affiliate: https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/16791-Drum-Bass-for-Serum-2-Bundle-Exclusive-?utm_source=affiliate-bot&utm_medium=article&utm_campaign=the-tone-foundry-get-86-off-drum-bass-for-serum-2-bundle-by-&a_aid=69cb95abe1763
+affiliate: https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/16791-Drum-Bass-for-Serum-2-Bundle-Exclusive-?utm_source=plugindrop&utm_medium=article&utm_campaign=the-tone-foundry-get-86-off-drum-bass-for-serum-2-bundle-by-&a_aid=69cb95abe1763
 heroImage: /images/the-tone-foundry-get-86-off-drum-bass-for-serum-2-bundle-by-.webp
 dealPrice: $19
 originalPrice: $137
@@ -16,7 +16,7 @@ saleExpiry: '2026-05-04'
 aiImage: true
 draft: false
 ---
-**TL;DR:** The Tone Foundry's Drum & Bass for Serum 2 Bundle is 86% off — ~~$137~~ just **$19**. That's 210 presets across three DnB packs for less than the price of a single expansion. Deal expires May 4th. [Grab it here before it's gone.](https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/16791-Drum-Bass-for-Serum-2-Bundle-Exclusive-?utm_source=affiliate-bot&utm_medium=article&utm_campaign=the-tone-foundry-get-86-off-drum-bass-for-serum-2-bundle-by-&a_aid=69cb95abe1763)
+**TL;DR:** The Tone Foundry's Drum & Bass for Serum 2 Bundle is 86% off — ~~$137~~ just **$19**. That's 210 presets across three DnB packs for less than the price of a single expansion. Deal expires May 4th. [Grab it here before it's gone.](https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/16791-Drum-Bass-for-Serum-2-Bundle-Exclusive-?utm_source=plugindrop&utm_medium=article&utm_campaign=the-tone-foundry-get-86-off-drum-bass-for-serum-2-bundle-by-&a_aid=69cb95abe1763)
 
 ## What Is the Drum & Bass for Serum 2 Bundle?
 
@@ -47,7 +47,7 @@ That breaks down to **$19 ÷ 3 packs = ~$6.33 per expansion** — each pack norm
 
 The deal expires **May 4th**. Verify current pricing on the product page — deals can change.
 
-[Get the Drum & Bass for Serum 2 Bundle for $19 →](https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/16791-Drum-Bass-for-Serum-2-Bundle-Exclusive-?utm_source=affiliate-bot&utm_medium=article&utm_campaign=the-tone-foundry-get-86-off-drum-bass-for-serum-2-bundle-by-&a_aid=69cb95abe1763)
+[Get the Drum & Bass for Serum 2 Bundle for $19 →](https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/16791-Drum-Bass-for-Serum-2-Bundle-Exclusive-?utm_source=plugindrop&utm_medium=article&utm_campaign=the-tone-foundry-get-86-off-drum-bass-for-serum-2-bundle-by-&a_aid=69cb95abe1763)
 
 ## Alternatives at a Glance
 
@@ -77,7 +77,7 @@ A: Check Plugin Boutique's refund policy on their site, as terms may vary for pr
 
 Three full DnB preset packs. 210 presets. ~~$137~~ now **$19**. That's 86% off, and it expires May 4th. If you produce drum & bass in Serum 2, the math speaks for itself.
 
-[Pick up the Drum & Bass for Serum 2 Bundle here →](https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/16791-Drum-Bass-for-Serum-2-Bundle-Exclusive-?utm_source=affiliate-bot&utm_medium=article&utm_campaign=the-tone-foundry-get-86-off-drum-bass-for-serum-2-bundle-by-&a_aid=69cb95abe1763)
+[Pick up the Drum & Bass for Serum 2 Bundle here →](https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/16791-Drum-Bass-for-Serum-2-Bundle-Exclusive-?utm_source=plugindrop&utm_medium=article&utm_campaign=the-tone-foundry-get-86-off-drum-bass-for-serum-2-bundle-by-&a_aid=69cb95abe1763)
 
 ---
 

@@ -7,14 +7,14 @@ tags:
 - adsr
 - preset
 - presets
-affiliate: https://www.adsrsounds.com/product/presets/shamanstems-the-eerie-beats-samples-loops/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=shamanstems-the-eerie-beats-samples-loops-adsr-deal-ee65b6
+affiliate: https://www.adsrsounds.com/product/presets/shamanstems-the-eerie-beats-samples-loops/?utm_source=plugindrop&utm_medium=article&utm_campaign=shamanstems-the-eerie-beats-samples-loops-adsr-deal-ee65b6
 heroImage: /images/shamanstems-the-eerie-beats-samples-loops-adsr-deal-ee65b6.jpg
 dealPrice: "$25"
 originalPrice: "$179.77"
 discount: "86% OFF"
 draft: false
 ---
-**TL;DR:** Shamanstems' *The Eerie Beats Samples & Loops* is live on ADSR Sounds at a deal price — grab it now before the offer changes. If you produce dark, cinematic, or experimental beats, this pack is worth a look. [Check the current deal price on ADSR Sounds.](https://www.adsrsounds.com/product/presets/shamanstems-the-eerie-beats-samples-loops/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=shamanstems-the-eerie-beats-samples-loops-adsr-deal-ee65b6)
+**TL;DR:** Shamanstems' *The Eerie Beats Samples & Loops* is live on ADSR Sounds at a deal price — grab it now before the offer changes. If you produce dark, cinematic, or experimental beats, this pack is worth a look. [Check the current deal price on ADSR Sounds.](https://www.adsrsounds.com/product/presets/shamanstems-the-eerie-beats-samples-loops/?utm_source=plugindrop&utm_medium=article&utm_campaign=shamanstems-the-eerie-beats-samples-loops-adsr-deal-ee65b6)
 
 ---
 
@@ -61,7 +61,7 @@ ADSR Sounds runs rotating deals on sample content regularly, and pricing windows
 
 > **Note:** Verify current pricing on the product page — deals can change without notice.
 
-[Get The Eerie Beats at the current deal price on ADSR Sounds →](https://www.adsrsounds.com/product/presets/shamanstems-the-eerie-beats-samples-loops/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=shamanstems-the-eerie-beats-samples-loops-adsr-deal-ee65b6)
+[Get The Eerie Beats at the current deal price on ADSR Sounds →](https://www.adsrsounds.com/product/presets/shamanstems-the-eerie-beats-samples-loops/?utm_source=plugindrop&utm_medium=article&utm_campaign=shamanstems-the-eerie-beats-samples-loops-adsr-deal-ee65b6)
 
 ---
 
@@ -97,7 +97,7 @@ A: Based on the name and aesthetic, it targets dark hip-hop, experimental trap, 
 
 Dark, atmospheric sample content at a deal price doesn't come around every day. If eerie textures and unconventional beats fit your production style, this is a clean opportunity to add something different to your toolkit.
 
-[Grab Shamanstems The Eerie Beats on ADSR Sounds →](https://www.adsrsounds.com/product/presets/shamanstems-the-eerie-beats-samples-loops/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=shamanstems-the-eerie-beats-samples-loops-adsr-deal-ee65b6)
+[Grab Shamanstems The Eerie Beats on ADSR Sounds →](https://www.adsrsounds.com/product/presets/shamanstems-the-eerie-beats-samples-loops/?utm_source=plugindrop&utm_medium=article&utm_campaign=shamanstems-the-eerie-beats-samples-loops-adsr-deal-ee65b6)
 
 ---
 

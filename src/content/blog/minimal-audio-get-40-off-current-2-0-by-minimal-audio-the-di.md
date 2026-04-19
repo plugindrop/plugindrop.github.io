@@ -3,7 +3,7 @@ title: "Minimal Audio — Get 40% off Current 2.0 by Minimal Audio"
 description: "Minimal Audio is offering 40% off Current 2.0, their flagship synthesizer — a rare discount on one of the more technically ambitious synths released in..."
 pubDate: "2026-04-18T23:11:42Z"
 tags: ["newplugindeals", "minimal audio"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=affiliate-bot&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=plugindrop&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763"
 heroImage: "/images/minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di.jpg"
 discount: "40% OFF"
 dealPrice: "$119.00"
@@ -12,7 +12,7 @@ score: 4.30
 saleExpiry: "2026-04-30"
 draft: false
 ---
-**TL;DR:** Minimal Audio is offering 40% off Current 2.0, their flagship synthesizer — a rare discount on one of the more technically ambitious synths released in recent years. Check the product page for exact pricing since deals shift, but this is a meaningful saving on a full-price instrument. [Grab Current 2.0 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=affiliate-bot&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763) before the deal expires.
+**TL;DR:** Minimal Audio is offering 40% off Current 2.0, their flagship synthesizer — a rare discount on one of the more technically ambitious synths released in recent years. Check the product page for exact pricing since deals shift, but this is a meaningful saving on a full-price instrument. [Grab Current 2.0 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=plugindrop&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763) before the deal expires.
 
 ---
 
@@ -61,7 +61,7 @@ Current 2.0 has generated genuine discussion in synthesis-focused communities. O
 
 Verify the exact current and sale price on the product page — Plugin Boutique updates deals regularly. Minimal Audio does not run steep discounts frequently, so a 40% promotion represents a meaningful entry point compared to what this plugin normally retails for.
 
-[Check current pricing and grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=affiliate-bot&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763)
+[Check current pricing and grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=plugindrop&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763)
 
 ---
 
@@ -95,7 +95,7 @@ A: Refund policies vary by store. Check Plugin Boutique's terms directly before 
 
 ## Get the Deal
 
-40% off a flagship synthesizer from a developer with a distinct technical approach is the kind of discount worth acting on before it disappears. [Get Current 2.0 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=affiliate-bot&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763) and confirm the deal is still live before checkout.
+40% off a flagship synthesizer from a developer with a distinct technical approach is the kind of discount worth acting on before it disappears. [Get Current 2.0 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=plugindrop&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763) and confirm the deal is still live before checkout.
 
 ---
 

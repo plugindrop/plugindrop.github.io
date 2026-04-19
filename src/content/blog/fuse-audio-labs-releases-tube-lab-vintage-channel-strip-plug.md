@@ -9,7 +9,7 @@ tags:
 - hot
 - mac
 - windows
-affiliate: https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17093-Tube-Lab?a_aid=69cb95abe1763
+affiliate: https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17093-Tube-Lab?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug
 heroImage: /images/fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug.jpg
 dealPrice: $29
 originalPrice: $69

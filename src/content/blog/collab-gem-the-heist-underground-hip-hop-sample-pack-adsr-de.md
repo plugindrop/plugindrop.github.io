@@ -7,14 +7,14 @@ tags:
 - adsr
 - preset
 - presets
-affiliate: https://www.adsrsounds.com/product/presets/collab-gem-the-heist-underground-hip-hop-sample-pack/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=collab-gem-the-heist-underground-hip-hop-sample-pack-adsr-de
+affiliate: https://www.adsrsounds.com/product/presets/collab-gem-the-heist-underground-hip-hop-sample-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=collab-gem-the-heist-underground-hip-hop-sample-pack-adsr-de
 heroImage: /images/collab-gem-the-heist-underground-hip-hop-sample-pack-adsr-de.jpg
 dealPrice: "$10.47"
 originalPrice: "$14.95"
 discount: "30% OFF"
 draft: false
 ---
-**TL;DR:** ADSR Sounds is currently offering Collab Gem's *The Heist* Underground Hip Hop Sample Pack at a deal price — check the current savings on the [product page](https://www.adsrsounds.com/product/presets/collab-gem-the-heist-underground-hip-hop-sample-pack/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=collab-gem-the-heist-underground-hip-hop-sample-pack-adsr-de) before it reverts. Designed for producers chasing that raw, underground hip hop aesthetic, this pack brings gritty textures and authentic vibes straight to your DAW. Grab it while the deal is live.
+**TL;DR:** ADSR Sounds is currently offering Collab Gem's *The Heist* Underground Hip Hop Sample Pack at a deal price — check the current savings on the [product page](https://www.adsrsounds.com/product/presets/collab-gem-the-heist-underground-hip-hop-sample-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=collab-gem-the-heist-underground-hip-hop-sample-pack-adsr-de) before it reverts. Designed for producers chasing that raw, underground hip hop aesthetic, this pack brings gritty textures and authentic vibes straight to your DAW. Grab it while the deal is live.
 
 ---
 
@@ -59,7 +59,7 @@ Pricing for this pack can shift during promotional windows. ADSR Sounds runs rot
 
 > **Note:** Verify current pricing on the product page — deals can change.
 
-[Check the current deal price on ADSR Sounds →](https://www.adsrsounds.com/product/presets/collab-gem-the-heist-underground-hip-hop-sample-pack/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=collab-gem-the-heist-underground-hip-hop-sample-pack-adsr-de)
+[Check the current deal price on ADSR Sounds →](https://www.adsrsounds.com/product/presets/collab-gem-the-heist-underground-hip-hop-sample-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=collab-gem-the-heist-underground-hip-hop-sample-pack-adsr-de)
 
 ---
 
@@ -95,7 +95,7 @@ A: Check ADSR Sounds' official refund policy directly on their site for the most
 
 Underground hip hop sample packs with this kind of aesthetic focus don't always sit on sale for long. If the sound fits your workflow, lock it in now at the current ADSR deal price.
 
-[Grab The Heist on ADSR Sounds →](https://www.adsrsounds.com/product/presets/collab-gem-the-heist-underground-hip-hop-sample-pack/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=collab-gem-the-heist-underground-hip-hop-sample-pack-adsr-de)
+[Grab The Heist on ADSR Sounds →](https://www.adsrsounds.com/product/presets/collab-gem-the-heist-underground-hip-hop-sample-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=collab-gem-the-heist-underground-hip-hop-sample-pack-adsr-de)
 
 ---
 

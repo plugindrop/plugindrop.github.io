@@ -8,12 +8,12 @@ tags:
 - samples and presets
 - loopmasters
 - samplestate
-affiliate: https://www.loopmasters.com/genres/138-Electronica/products/20629-New-Wave-Electronica?utm_source=affiliate-bot&utm_medium=article&utm_campaign=samplestate-launches-new-wave-electronica-sample-pack-b902c5&a_aid=69cb95abe1763
+affiliate: https://www.loopmasters.com/genres/138-Electronica/products/20629-New-Wave-Electronica?utm_source=plugindrop&utm_medium=article&utm_campaign=samplestate-launches-new-wave-electronica-sample-pack-b902c5&a_aid=69cb95abe1763
 heroImage: /images/samplestate-launches-new-wave-electronica-sample-pack-b902c5.jpg
 dealPrice: "$34.95"
 draft: true
 ---
-**TL;DR:** Samplestate has dropped a brand-new New Wave Electronica sample pack on Loopmasters, packed with retro-futuristic sounds built for modern productions. If 80s-inspired synth textures, cold drum machines, and post-punk atmosphere are in your toolkit, this is worth a look. [Grab it on Loopmasters](https://www.loopmasters.com/genres/138-Electronica/products/20629-New-Wave-Electronica?utm_source=affiliate-bot&utm_medium=article&utm_campaign=samplestate-launches-new-wave-electronica-sample-pack-b902c5&a_aid=69cb95abe1763) — verify current pricing on the product page.
+**TL;DR:** Samplestate has dropped a brand-new New Wave Electronica sample pack on Loopmasters, packed with retro-futuristic sounds built for modern productions. If 80s-inspired synth textures, cold drum machines, and post-punk atmosphere are in your toolkit, this is worth a look. [Grab it on Loopmasters](https://www.loopmasters.com/genres/138-Electronica/products/20629-New-Wave-Electronica?utm_source=plugindrop&utm_medium=article&utm_campaign=samplestate-launches-new-wave-electronica-sample-pack-b902c5&a_aid=69cb95abe1763) — verify current pricing on the product page.
 
 ---
 
@@ -53,7 +53,7 @@ Samplestate has launched **New Wave Electronica**, a sample pack channeling the 
 
 Loopmasters occasionally runs sitewide sales and label-specific promotions — it's worth checking if any active discount applies before purchasing. Verify current pricing directly on the product page, as deals can change.
 
-[Check the current price on Loopmasters](https://www.loopmasters.com/genres/138-Electronica/products/20629-New-Wave-Electronica?utm_source=affiliate-bot&utm_medium=article&utm_campaign=samplestate-launches-new-wave-electronica-sample-pack-b902c5&a_aid=69cb95abe1763)
+[Check the current price on Loopmasters](https://www.loopmasters.com/genres/138-Electronica/products/20629-New-Wave-Electronica?utm_source=plugindrop&utm_medium=article&utm_campaign=samplestate-launches-new-wave-electronica-sample-pack-b902c5&a_aid=69cb95abe1763)
 
 ---
 
@@ -87,7 +87,7 @@ A: Refund and return policies vary. Check Loopmasters' official terms on their s
 
 ## Get the Deal
 
-New Wave Electronica from Samplestate is now live on Loopmasters — a focused, genre-specific pack for producers who need that authentic 80s electronica texture without the guesswork. [Head to Loopmasters to grab it](https://www.loopmasters.com/genres/138-Electronica/products/20629-New-Wave-Electronica?utm_source=affiliate-bot&utm_medium=article&utm_campaign=samplestate-launches-new-wave-electronica-sample-pack-b902c5&a_aid=69cb95abe1763) and verify the current price before it changes.
+New Wave Electronica from Samplestate is now live on Loopmasters — a focused, genre-specific pack for producers who need that authentic 80s electronica texture without the guesswork. [Head to Loopmasters to grab it](https://www.loopmasters.com/genres/138-Electronica/products/20629-New-Wave-Electronica?utm_source=plugindrop&utm_medium=article&utm_campaign=samplestate-launches-new-wave-electronica-sample-pack-b902c5&a_aid=69cb95abe1763) and verify the current price before it changes.
 
 ---
 

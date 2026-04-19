@@ -7,14 +7,14 @@ tags:
 - adsr
 - preset
 - presets
-affiliate: https://www.adsrsounds.com/product/presets/futuristic-weapons-vol-2/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=futuristic-weapons-vol-2-adsr-deal-cd1ebe
+affiliate: https://www.adsrsounds.com/product/presets/futuristic-weapons-vol-2/?utm_source=plugindrop&utm_medium=article&utm_campaign=futuristic-weapons-vol-2-adsr-deal-cd1ebe
 heroImage: /images/futuristic-weapons-vol-2-adsr-deal-cd1ebe.jpg
 dealPrice: "$25"
 originalPrice: "$179.77"
 discount: "86% OFF"
 draft: false
 ---
-**TL;DR:** Futuristic Weapons Vol 2 is currently on deal at ADSR Sounds — a solid pick-up for producers chasing cutting-edge sound design without spending hours building from scratch. Check the current price and savings on the [ADSR product page](https://www.adsrsounds.com/product/presets/futuristic-weapons-vol-2/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=futuristic-weapons-vol-2-adsr-deal-cd1ebe) before it reverts.
+**TL;DR:** Futuristic Weapons Vol 2 is currently on deal at ADSR Sounds — a solid pick-up for producers chasing cutting-edge sound design without spending hours building from scratch. Check the current price and savings on the [ADSR product page](https://www.adsrsounds.com/product/presets/futuristic-weapons-vol-2/?utm_source=plugindrop&utm_medium=article&utm_campaign=futuristic-weapons-vol-2-adsr-deal-cd1ebe) before it reverts.
 
 ---
 
@@ -32,7 +32,7 @@ Futuristic Weapons Vol 2 is a preset and sound design pack available on ADSR Sou
 - **Volume 2 expansion** — Extends the original pack's concept, meaning existing Futuristic Weapons users get a complementary set of sounds rather than duplicates
 - **ADSR-curated quality** — Listed on ADSR Sounds, a platform known for vetting professional-grade sample and preset content
 
-*For full format details, plugin compatibility, and file counts, check the [official product page](https://www.adsrsounds.com/product/presets/futuristic-weapons-vol-2/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=futuristic-weapons-vol-2-adsr-deal-cd1ebe).*
+*For full format details, plugin compatibility, and file counts, check the [official product page](https://www.adsrsounds.com/product/presets/futuristic-weapons-vol-2/?utm_source=plugindrop&utm_medium=article&utm_campaign=futuristic-weapons-vol-2-adsr-deal-cd1ebe).*
 
 ---
 
@@ -61,7 +61,7 @@ Specific pricing isn't confirmed here — ADSR Sounds deals can shift frequently
 
 > Verify current pricing on the product page — deals can change.
 
-[See the current deal on ADSR Sounds →](https://www.adsrsounds.com/product/presets/futuristic-weapons-vol-2/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=futuristic-weapons-vol-2-adsr-deal-cd1ebe)
+[See the current deal on ADSR Sounds →](https://www.adsrsounds.com/product/presets/futuristic-weapons-vol-2/?utm_source=plugindrop&utm_medium=article&utm_campaign=futuristic-weapons-vol-2-adsr-deal-cd1ebe)
 
 ---
 
@@ -97,7 +97,7 @@ A: ADSR Sounds sells packs as one-time purchases, but confirm this on the produc
 
 Futuristic Weapons Vol 2 is a targeted pick for producers who need aggressive, sci-fi-grade sounds ready to use immediately. Head to ADSR before the deal price changes.
 
-[Grab Futuristic Weapons Vol 2 on ADSR Sounds →](https://www.adsrsounds.com/product/presets/futuristic-weapons-vol-2/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=futuristic-weapons-vol-2-adsr-deal-cd1ebe)
+[Grab Futuristic Weapons Vol 2 on ADSR Sounds →](https://www.adsrsounds.com/product/presets/futuristic-weapons-vol-2/?utm_source=plugindrop&utm_medium=article&utm_campaign=futuristic-weapons-vol-2-adsr-deal-cd1ebe)
 
 ---
 

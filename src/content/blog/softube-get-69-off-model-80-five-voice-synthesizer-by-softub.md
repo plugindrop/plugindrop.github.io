@@ -3,7 +3,7 @@ title: "Softube — Get 69% off Model 80 Five Voice Synthesizer by Softube"
 description: "Softube's Model 80 Five Voice Synthesizer is currently **69% off** at Plugin Boutique — a rare deep discount on a classic-inspired analog synth. Check the..."
 pubDate: "2026-04-18T13:40:30Z"
 tags: ["newplugindeals", "softube"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763"
 heroImage: "/images/softube-get-69-off-model-80-five-voice-synthesizer-by-softub.jpg"
 dealPrice: "$49.00"
 originalPrice: "$159.00"
@@ -12,7 +12,7 @@ score: 6.82
 saleExpiry: "2026-04-30"
 draft: false
 ---
-**TL;DR:** Softube's Model 80 Five Voice Synthesizer is **69% off** at Plugin Boutique — ~~$159.00~~ **$49.00** until Apr 30. A rare deep discount on a classic-inspired five-voice polyphonic synth. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763)
+**TL;DR:** Softube's Model 80 Five Voice Synthesizer is **69% off** at Plugin Boutique — ~~$159.00~~ **$49.00** until Apr 30. A rare deep discount on a classic-inspired five-voice polyphonic synth. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763)
 
 ---
 
@@ -58,7 +58,7 @@ Model 80 occupies a somewhat niche space in discussions around analog poly emula
 |---|---|---|
 | ~~Full price~~ | ~69% off (verify at checkout) | ~69% |
 
-> **Note:** Verify current pricing on the [Plugin Boutique product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763) — deals can change and exact figures should be confirmed before purchase.
+> **Note:** Verify current pricing on the [Plugin Boutique product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763) — deals can change and exact figures should be confirmed before purchase.
 
 Softube doesn't run deep discounts constantly. When they do surface on Plugin Boutique, 69% off is on the higher end of their typical sale depth — worth acting on if Model 80 has been on your radar.
 
@@ -94,7 +94,7 @@ A: System requirements vary by version and platform — check the official produ
 
 ## Get the Deal
 
-69% off a professional analog poly synth from one of Sweden's most respected plugin developers. This is the kind of deal depth that doesn't show up often — [lock it in at Plugin Boutique before it expires.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763)
+69% off a professional analog poly synth from one of Sweden's most respected plugin developers. This is the kind of deal depth that doesn't show up often — [lock it in at Plugin Boutique before it expires.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763)
 
 ---
 

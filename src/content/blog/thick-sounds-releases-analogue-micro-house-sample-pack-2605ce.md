@@ -7,13 +7,13 @@ tags:
 - samples and presets
 - loopmasters
 - thick sounds
-affiliate: https://www.loopmasters.com/genres/25-House/products/20621-Analogue-Micro-House?utm_source=affiliate-bot&utm_medium=article&utm_campaign=thick-sounds-releases-analogue-micro-house-sample-pack-2605ce&a_aid=69cb95abe1763
+affiliate: https://www.loopmasters.com/genres/25-House/products/20621-Analogue-Micro-House?utm_source=plugindrop&utm_medium=article&utm_campaign=thick-sounds-releases-analogue-micro-house-sample-pack-2605ce&a_aid=69cb95abe1763
 heroImage: /images/thick-sounds-releases-analogue-micro-house-sample-pack-2605ce.jpg
 dealPrice: "$5.95"
 draft: false
 ---
 
-**TL;DR:** Thick Sounds just dropped **Analogue Micro House** — a 852 MB sample pack loaded with 139 loops, 122 one-shots, Serum presets, and MIDI files, all inspired by micro house legends like Ricardo Villalobos and Akufen. Priced at £24.95 for the full pack, with individual sections available from £3.95. [Grab it on Loopmasters here.](https://www.loopmasters.com/genres/25-House/products/20621-Analogue-Micro-House?utm_source=affiliate-bot&utm_medium=article&utm_campaign=thick-sounds-releases-analogue-micro-house-sample-pack-2605ce&a_aid=69cb95abe1763)
+**TL;DR:** Thick Sounds just dropped **Analogue Micro House** — a 852 MB sample pack loaded with 139 loops, 122 one-shots, Serum presets, and MIDI files, all inspired by micro house legends like Ricardo Villalobos and Akufen. Priced at £24.95 for the full pack, with individual sections available from £3.95. [Grab it on Loopmasters here.](https://www.loopmasters.com/genres/25-House/products/20621-Analogue-Micro-House?utm_source=plugindrop&utm_medium=article&utm_campaign=thick-sounds-releases-analogue-micro-house-sample-pack-2605ce&a_aid=69cb95abe1763)
 
 ## What Is Analogue Micro House?
 
@@ -51,7 +51,7 @@ The full pack at £24.95 for 261 files (loops + one-shots) plus MIDI, presets, a
 
 Verify current pricing on the product page — deals can change.
 
-[**Check the full pack on Loopmasters →**](https://www.loopmasters.com/genres/25-House/products/20621-Analogue-Micro-House?utm_source=affiliate-bot&utm_medium=article&utm_campaign=thick-sounds-releases-analogue-micro-house-sample-pack-2605ce&a_aid=69cb95abe1763)
+[**Check the full pack on Loopmasters →**](https://www.loopmasters.com/genres/25-House/products/20621-Analogue-Micro-House?utm_source=plugindrop&utm_medium=article&utm_campaign=thick-sounds-releases-analogue-micro-house-sample-pack-2605ce&a_aid=69cb95abe1763)
 
 ## Alternatives at a Glance
 
@@ -81,7 +81,7 @@ A: Check Loopmasters' licensing terms on their website for full details. General
 
 261 samples, 24 MIDI files, 10 Serum presets, and 3 construction kits — all tuned to the micro house sound — for £24.95. If you produce in the 125–128 BPM minimal space, this one's worth a look.
 
-[**Pick up Analogue Micro House on Loopmasters →**](https://www.loopmasters.com/genres/25-House/products/20621-Analogue-Micro-House?utm_source=affiliate-bot&utm_medium=article&utm_campaign=thick-sounds-releases-analogue-micro-house-sample-pack-2605ce&a_aid=69cb95abe1763)
+[**Pick up Analogue Micro House on Loopmasters →**](https://www.loopmasters.com/genres/25-House/products/20621-Analogue-Micro-House?utm_source=plugindrop&utm_medium=article&utm_campaign=thick-sounds-releases-analogue-micro-house-sample-pack-2605ce&a_aid=69cb95abe1763)
 
 ---
 

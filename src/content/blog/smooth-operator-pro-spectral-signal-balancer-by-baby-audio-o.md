@@ -13,7 +13,7 @@ tags:
 - sale
 - spectral shaper
 - vst
-affiliate: https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?utm_source=affiliate-bot&utm_medium=article&utm_campaign=smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o&a_aid=69cb95abe1763
+affiliate: https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o&a_aid=69cb95abe1763
 heroImage: /images/smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o.webp
 dealPrice: $79
 originalPrice: $129
@@ -22,7 +22,7 @@ aiImage: true
 draft: false
 ---
 
-**TL;DR:** Baby Audio's Smooth Operator Pro — a spectral signal balancer built to tame mud and harsh resonances — is on sale for **$79** (down from ~~$129~~). That's roughly 40% off. The deal runs through **April 12, 2026**. [Grab it at Plugin Boutique before the sale ends.](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?utm_source=affiliate-bot&utm_medium=article&utm_campaign=smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o&a_aid=69cb95abe1763)
+**TL;DR:** Baby Audio's Smooth Operator Pro — a spectral signal balancer built to tame mud and harsh resonances — is on sale for **$79** (down from ~~$129~~). That's roughly 40% off. The deal runs through **April 12, 2026**. [Grab it at Plugin Boutique before the sale ends.](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o&a_aid=69cb95abe1763)
 
 ## What Is Smooth Operator Pro?
 
@@ -57,7 +57,7 @@ The sale runs through **April 12, 2026**. Baby Audio doesn't run deep discounts 
 
 > Verify current pricing on the product page — deals can change.
 
-[Pick up Smooth Operator Pro for $79 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?utm_source=affiliate-bot&utm_medium=article&utm_campaign=smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o&a_aid=69cb95abe1763)
+[Pick up Smooth Operator Pro for $79 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o&a_aid=69cb95abe1763)
 
 ## Alternatives at a Glance
 
@@ -87,7 +87,7 @@ A: The current deal runs through April 12, 2026. Pricing may change after that d
 
 $50 off a well-regarded spectral balancer doesn't come around every week. If you've been eyeing a faster way to clean up mixes without the manual EQ grind, this is a solid entry point at $79.
 
-[Get Smooth Operator Pro for $79 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?utm_source=affiliate-bot&utm_medium=article&utm_campaign=smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o&a_aid=69cb95abe1763)
+[Get Smooth Operator Pro for $79 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o&a_aid=69cb95abe1763)
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - ik multimedia
 - sale
 - ujam
-affiliate: https://www.pluginboutique.com/deals?a_aid=69cb95abe1763
+affiliate: https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=easter-pop-up-deals-save-on-crystalline-ace-studio-beatmaker
 heroImage: /images/easter-pop-up-deals-save-on-crystalline-ace-studio-beatmaker.jpg
 dealPrice: $29
 draft: true
 ---
-**TL;DR:** Easter Pop-Up Deals are live April 2–6 with up to 84% off over 500 music production plugins. Highlights include Baby Audio Crystalline at $29, UJAM Beatmaker Vice at just $9, and Sunset Sound Studio Reverb at $29.99. These are limited-time flash prices — [grab the deals before they expire](https://www.pluginboutique.com/deals?a_aid=69cb95abe1763).
+**TL;DR:** Easter Pop-Up Deals are live April 2–6 with up to 84% off over 500 music production plugins. Highlights include Baby Audio Crystalline at $29, UJAM Beatmaker Vice at just $9, and Sunset Sound Studio Reverb at $29.99. These are limited-time flash prices — [grab the deals before they expire](https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=easter-pop-up-deals-save-on-crystalline-ace-studio-beatmaker).
 
 ## What's in the Easter Pop-Up Sale?
 
@@ -56,7 +56,7 @@ This is a short-window flash sale — five days total. If any of these have been
 
 The sale runs **April 2–6, 2026** only. Over 500 additional products are available at base pricing during the promotion. Verify current pricing on the product page — deals can change without notice.
 
-[Browse all Easter Pop-Up Deals →](https://www.pluginboutique.com/deals?a_aid=69cb95abe1763)
+[Browse all Easter Pop-Up Deals →](https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=easter-pop-up-deals-save-on-crystalline-ace-studio-beatmaker)
 
 ## Alternatives at a Glance
 
@@ -86,7 +86,7 @@ A: Licensing terms for AI-generated vocals vary — check Ace Studio's official 
 
 ## Get the Deal
 
-Five days. Up to 84% off. Plugins starting at $9. The Easter Pop-Up sale won't be around next week — [see all the deals here before they're gone](https://www.pluginboutique.com/deals?a_aid=69cb95abe1763).
+Five days. Up to 84% off. Plugins starting at $9. The Easter Pop-Up sale won't be around next week — [see all the deals here before they're gone](https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=easter-pop-up-deals-save-on-crystalline-ace-studio-beatmaker).
 
 ---
 

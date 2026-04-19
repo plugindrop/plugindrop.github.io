@@ -7,14 +7,14 @@ tags:
 - adsr
 - preset
 - presets
-affiliate: https://www.adsrsounds.com/product/presets/code-sounds-slo-drift-trap-samples/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=code-sounds-slo-drift-trap-samples-adsr-deal-ac5e5b
+affiliate: https://www.adsrsounds.com/product/presets/code-sounds-slo-drift-trap-samples/?utm_source=plugindrop&utm_medium=article&utm_campaign=code-sounds-slo-drift-trap-samples-adsr-deal-ac5e5b
 heroImage: /images/code-sounds-slo-drift-trap-samples-adsr-deal-ac5e5b.jpg
 dealPrice: "$13.99"
 originalPrice: "$19.99"
 discount: "30% OFF"
 draft: false
 ---
-**TL;DR:** Code Sounds' Slo Drift Trap Samples is currently on deal at ADSR Sounds — check the product page for the latest discounted price. If you're building slow, atmospheric trap beats and need ready-to-use loops and one-shots, this pack is worth a look. [Grab it at ADSR Sounds.](https://www.adsrsounds.com/product/presets/code-sounds-slo-drift-trap-samples/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=code-sounds-slo-drift-trap-samples-adsr-deal-ac5e5b)
+**TL;DR:** Code Sounds' Slo Drift Trap Samples is currently on deal at ADSR Sounds — check the product page for the latest discounted price. If you're building slow, atmospheric trap beats and need ready-to-use loops and one-shots, this pack is worth a look. [Grab it at ADSR Sounds.](https://www.adsrsounds.com/product/presets/code-sounds-slo-drift-trap-samples/?utm_source=plugindrop&utm_medium=article&utm_campaign=code-sounds-slo-drift-trap-samples-adsr-deal-ac5e5b)
 
 ---
 
@@ -56,7 +56,7 @@ Pricing for this pack can fluctuate with ADSR Sounds promotions and site-wide sa
 
 > **Note:** Verify current pricing on the product page — deals can change.
 
-[Check the current deal price at ADSR Sounds.](https://www.adsrsounds.com/product/presets/code-sounds-slo-drift-trap-samples/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=code-sounds-slo-drift-trap-samples-adsr-deal-ac5e5b)
+[Check the current deal price at ADSR Sounds.](https://www.adsrsounds.com/product/presets/code-sounds-slo-drift-trap-samples/?utm_source=plugindrop&utm_medium=article&utm_campaign=code-sounds-slo-drift-trap-samples-adsr-deal-ac5e5b)
 
 ---
 
@@ -92,7 +92,7 @@ A: Refund eligibility for digital audio content varies — check ADSR Sounds' of
 
 Slow trap production has a distinct sound, and having the right raw material speeds up the process significantly. If the aesthetic fits your current projects, this is a straightforward pickup at its current deal price.
 
-[Grab Code Sounds Slo Drift Trap Samples at ADSR Sounds.](https://www.adsrsounds.com/product/presets/code-sounds-slo-drift-trap-samples/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=code-sounds-slo-drift-trap-samples-adsr-deal-ac5e5b)
+[Grab Code Sounds Slo Drift Trap Samples at ADSR Sounds.](https://www.adsrsounds.com/product/presets/code-sounds-slo-drift-trap-samples/?utm_source=plugindrop&utm_medium=article&utm_campaign=code-sounds-slo-drift-trap-samples-adsr-deal-ac5e5b)
 
 ---
 

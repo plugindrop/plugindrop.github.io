@@ -5,14 +5,14 @@ description: ENGL Ampthology Vol 1 — a collection of modeled ENGL guitar ampli
   If...
 pubDate: '2026-04-17T12:48:57Z'
 tags: []
-affiliate: https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30&a_aid=69cb95abe1763
+affiliate: https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?utm_source=plugindrop&utm_medium=article&utm_campaign=50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30&a_aid=69cb95abe1763
 heroImage: /images/50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30.jpg
 discount: "50% OFF"
 dealPrice: "$49.99"
 originalPrice: "$99.99"
 draft: false
 ---
-**TL;DR:** ENGL Ampthology Vol 1 — a collection of modeled ENGL guitar amplifiers for your DAW — is currently **50% off at Plugin Boutique until April 30, 2026**. If you've been eyeing authentic German amp tone in plugin form, this is a rare half-price window. [Grab it here before the 30th.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30&a_aid=69cb95abe1763)
+**TL;DR:** ENGL Ampthology Vol 1 — a collection of modeled ENGL guitar amplifiers for your DAW — is currently **50% off at Plugin Boutique until April 30, 2026**. If you've been eyeing authentic German amp tone in plugin form, this is a rare half-price window. [Grab it here before the 30th.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?utm_source=plugindrop&utm_medium=article&utm_campaign=50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30&a_aid=69cb95abe1763)
 
 ---
 
@@ -63,7 +63,7 @@ The exact regular and sale prices can shift — **verify current pricing directl
 
 ENGL-branded software titles don't go on deep sale frequently — 50% off on an officially licensed amp sim from a boutique hardware brand is worth paying attention to. If you've been sitting on the fence, April 30 is a hard deadline.
 
-[Check the current price and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30&a_aid=69cb95abe1763)
+[Check the current price and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?utm_source=plugindrop&utm_medium=article&utm_campaign=50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30&a_aid=69cb95abe1763)
 
 ---
 
@@ -99,7 +99,7 @@ A: Check the Plugin Boutique product listing for demo or trial availability — 
 
 50% off a licensed ENGL amp sim is a meaningful discount on a niche, brand-specific product. The sale runs until **April 30, 2026** — after that, full price returns.
 
-[Grab ENGL Ampthology Vol 1 at 50% off on Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?utm_source=affiliate-bot&utm_medium=article&utm_campaign=50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30&a_aid=69cb95abe1763)
+[Grab ENGL Ampthology Vol 1 at 50% off on Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?utm_source=plugindrop&utm_medium=article&utm_campaign=50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30&a_aid=69cb95abe1763)
 
 ---
 

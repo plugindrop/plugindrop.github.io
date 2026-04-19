@@ -15,11 +15,11 @@ tags:
 - generative sequencer plugin
 - macos
 - mixing plugins sale
-affiliate: https://www.thomann.de/intl/universal_audio_uad_sound_city_studios_plugin.htm?utm_source=affiliate-bot&utm_medium=article&utm_campaign=universal-audio-audiomodern-pulsar-audio-3-plugins-that-brin
+affiliate: https://www.thomann.de/intl/universal_audio_uad_sound_city_studios_plugin.htm?utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-audiomodern-pulsar-audio-3-plugins-that-brin
 heroImage: /images/universal-audio-audiomodern-pulsar-audio-3-plugins-that-brin.jpg
 draft: false
 ---
-**TL;DR:** Three heavyweight plugin makers — Universal Audio, Audiomodern, and Pulsar Audio — are running deals right now, and at least one of them is worth serious attention. The UA Sound City Studios plugin brings world-class studio emulation to your DAW. [Grab it on Thomann](https://www.thomann.de/intl/universal_audio_uad_sound_city_studios_plugin.htm?utm_source=affiliate-bot&utm_medium=article&utm_campaign=universal-audio-audiomodern-pulsar-audio-3-plugins-that-brin) while the deal lasts — verify current pricing on the product page.
+**TL;DR:** Three heavyweight plugin makers — Universal Audio, Audiomodern, and Pulsar Audio — are running deals right now, and at least one of them is worth serious attention. The UA Sound City Studios plugin brings world-class studio emulation to your DAW. [Grab it on Thomann](https://www.thomann.de/intl/universal_audio_uad_sound_city_studios_plugin.htm?utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-audiomodern-pulsar-audio-3-plugins-that-brin) while the deal lasts — verify current pricing on the product page.
 
 ---
 
@@ -74,7 +74,7 @@ Exact pricing fluctuates. UA runs sales a few times per year, often timed to maj
 
 **Note:** Verify current pricing on the product page — deals can change without notice.
 
-[Check the current price on Thomann](https://www.thomann.de/intl/universal_audio_uad_sound_city_studios_plugin.htm?utm_source=affiliate-bot&utm_medium=article&utm_campaign=universal-audio-audiomodern-pulsar-audio-3-plugins-that-brin)
+[Check the current price on Thomann](https://www.thomann.de/intl/universal_audio_uad_sound_city_studios_plugin.htm?utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-audiomodern-pulsar-audio-3-plugins-that-brin)
 
 ---
 
@@ -110,7 +110,7 @@ A: If you already have a UAD interface or accelerator card, the plugin should be
 
 Three strong plugin brands, one decision to make today. The Sound City Studios plugin brings genuine studio history into your sessions — and right now, the price is lower than usual.
 
-[Pick it up on Thomann before the deal changes.](https://www.thomann.de/intl/universal_audio_uad_sound_city_studios_plugin.htm?utm_source=affiliate-bot&utm_medium=article&utm_campaign=universal-audio-audiomodern-pulsar-audio-3-plugins-that-brin)
+[Pick it up on Thomann before the deal changes.](https://www.thomann.de/intl/universal_audio_uad_sound_city_studios_plugin.htm?utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-audiomodern-pulsar-audio-3-plugins-that-brin)
 
 ---
 

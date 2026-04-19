@@ -7,12 +7,12 @@ tags:
 - samples and presets
 - loopmasters
 - thick sounds
-affiliate: https://www.loopmasters.com/genres/134-Classic-House/products/20638-Soulful-Classic-House?utm_source=affiliate-bot&utm_medium=article&utm_campaign=thick-sounds-releases-soulful-classic-house-sample-pack&a_aid=69cb95abe1763
+affiliate: https://www.loopmasters.com/genres/134-Classic-House/products/20638-Soulful-Classic-House?utm_source=plugindrop&utm_medium=article&utm_campaign=thick-sounds-releases-soulful-classic-house-sample-pack&a_aid=69cb95abe1763
 heroImage: /images/thick-sounds-releases-soulful-classic-house-sample-pack.jpg
 dealPrice: "$6.95"
 draft: false
 ---
-**TL;DR:** Thick Sounds has dropped *Soulful Classic House* on Loopmasters — a dedicated sample pack built around the warm, gospel-tinged grooves of classic house music. Pricing details are listed on the product page; [grab it at Loopmasters](https://www.loopmasters.com/genres/134-Classic-House/products/20638-Soulful-Classic-House?utm_source=affiliate-bot&utm_medium=article&utm_campaign=thick-sounds-releases-soulful-classic-house-sample-pack&a_aid=69cb95abe1763) before your next session.
+**TL;DR:** Thick Sounds has dropped *Soulful Classic House* on Loopmasters — a dedicated sample pack built around the warm, gospel-tinged grooves of classic house music. Pricing details are listed on the product page; [grab it at Loopmasters](https://www.loopmasters.com/genres/134-Classic-House/products/20638-Soulful-Classic-House?utm_source=plugindrop&utm_medium=article&utm_campaign=thick-sounds-releases-soulful-classic-house-sample-pack&a_aid=69cb95abe1763) before your next session.
 
 ---
 
@@ -56,7 +56,7 @@ This is a newer release — community discussion is still building. For early im
 
 Loopmasters periodically runs sitewide and genre-specific promotions. Verify current pricing directly on the product page — deals and introductory launch pricing can change without notice.
 
-[Check current pricing on Loopmasters →](https://www.loopmasters.com/genres/134-Classic-House/products/20638-Soulful-Classic-House?utm_source=affiliate-bot&utm_medium=article&utm_campaign=thick-sounds-releases-soulful-classic-house-sample-pack&a_aid=69cb95abe1763)
+[Check current pricing on Loopmasters →](https://www.loopmasters.com/genres/134-Classic-House/products/20638-Soulful-Classic-House?utm_source=plugindrop&utm_medium=article&utm_campaign=thick-sounds-releases-soulful-classic-house-sample-pack&a_aid=69cb95abe1763)
 
 ---
 
@@ -92,7 +92,7 @@ A: Check the official product listing for the exact BPM range — classic house 
 
 *Soulful Classic House* is live on Loopmasters now. If classic house is your lane — or you're building in that direction — this is a purpose-built toolkit worth bookmarking.
 
-[Pick up Soulful Classic House on Loopmasters →](https://www.loopmasters.com/genres/134-Classic-House/products/20638-Soulful-Classic-House?utm_source=affiliate-bot&utm_medium=article&utm_campaign=thick-sounds-releases-soulful-classic-house-sample-pack&a_aid=69cb95abe1763)
+[Pick up Soulful Classic House on Loopmasters →](https://www.loopmasters.com/genres/134-Classic-House/products/20638-Soulful-Classic-House?utm_source=plugindrop&utm_medium=article&utm_campaign=thick-sounds-releases-soulful-classic-house-sample-pack&a_aid=69cb95abe1763)
 
 ---
 
