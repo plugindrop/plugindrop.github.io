@@ -14,7 +14,7 @@ draft: false
 ## The 7 Best Free Reverb Plugins
 
 ### 1. Valhalla Supermassive
-n<iframe width="100%" height="400" src="https://www.youtube.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — Official" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — Official" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 **Best for: Ambient, experimental, massive reverb tails**
 
 18+ modes including Warp, Gemini, and Hydra. Reverb and delay hybrid with decay times up to infinity. From the team behind VintageVerb and Plate ($50 each) — Supermassive stays permanently free. Near-zero CPU usage.

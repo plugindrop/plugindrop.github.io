@@ -276,7 +276,6 @@ function getStoreName(url: string | undefined): string {
 											src={post.data.heroImage}
 											alt={post.data.title}
 											loading="lazy"
-											onerror="this.style.display='none'; this.parentElement.querySelector('.post-thumb-placeholder').style.display='flex'"
 										/>
 									: null
 								}
@@ -354,6 +353,15 @@ function getStoreName(url: string | undefined): string {
 
 			// Apply URL filter on load
 			applyFilter(initialFilter);
+
+			// Handle thumbnail image load errors (CSP-safe, no inline onerror)
+			document.querySelectorAll('.post-thumb').forEach(img => {
+				img.addEventListener('error', () => {
+					(img as HTMLElement).style.display = 'none';
+					const placeholder = img.parentElement?.querySelector('.post-thumb-placeholder') as HTMLElement | null;
+					if (placeholder) placeholder.style.display = 'flex';
+				});
+			});
 
 			buttons.forEach((btn) => {
 				btn.addEventListener('click', () => {
