@@ -5,6 +5,9 @@ pubDate: "2026-04-19T06:16:58Z"
 tags: ["tips  tricks", "aax", "au", "bandmatrix", "digital", "free", "free plug-ins this week", "freeware", "la-3a", "laea"]
 affiliate: "https://www.soundtoys.com/product/decapitator/"
 heroImage: "/images/mdv-ii-bandmatrix-laea-free-plugins-of-the-week-362c5b.png"
+dealPrice: "$69"
+originalPrice: "$199"
+discount: "65% OFF"
 score: 8.40
 draft: false
 ---
