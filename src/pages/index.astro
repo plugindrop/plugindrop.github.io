@@ -11,7 +11,6 @@ const allPosts = (await getCollection('blog'))
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 function hasHeroImage(post: any): boolean {
-	// DALL-E生成画像（aiImage: true）はLatest Drop / Editor's Picksに表示しない
 	if (post.data.aiImage === true) return false;
 	return (
 		typeof post.data.heroImage === 'string' &&
@@ -46,23 +45,44 @@ function isExpired(post: any): boolean {
 	return new Date(post.data.saleExpiry) < new Date();
 }
 
-const heroPosts = allPosts.filter(hasHeroImage);
-const latestPost = heroPosts[0];
+function daysLeft(post: any): number | null {
+	if (!post.data.saleExpiry) return null;
+	const diff = new Date(post.data.saleExpiry).getTime() - Date.now();
+	const days = Math.ceil(diff / (1000 * 60 * 60 * 24));
+	return days > 0 ? days : null;
+}
 
-// Top Deals — scored, with hero image, has affiliate link, excluding expired sales
+function isRealDeal(post: any): boolean {
+	return !!(post.data.discount || (post.data.dealPrice && post.data.originalPrice) || post.data.dealPrice === 'FREE');
+}
+
+const heroPosts = allPosts.filter(hasHeroImage);
+
+// Editor's Picks: scored deals with actual discount, non-expired, with affiliate
 const topDeals = heroPosts
-	.filter(p => p.data.affiliate && !isExpired(p))
+	.filter(p => p.data.affiliate && !isExpired(p) && isRealDeal(p))
 	.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
 	.slice(0, 4);
 
-const topIds = new Set([latestPost?.id, ...topDeals.map(p => p.id)]);
+// Latest Drop: most recent deal post (actual deal, not expired)
+const latestDeal = heroPosts.find(p => !isExpired(p) && isRealDeal(p));
 
-// Recent Deals — hero-image posts not yet shown
+const topIds = new Set([latestDeal?.id, ...topDeals.map(p => p.id)]);
+
+// Recent Deals: non-expired, not already shown above
 const recentDeals = heroPosts
-	.filter(p => !topIds.has(p.id))
+	.filter(p => !topIds.has(p.id) && !isExpired(p))
 	.slice(0, 6);
 
-const totalDeals = allPosts.length;
+// Free Deals: dealPrice=FREE or free tag with affiliate link (not general guides)
+const freeDeals = allPosts
+	.filter(p => hasHeroImage(p) && !topIds.has(p.id) && (
+		p.data.dealPrice === 'FREE' ||
+		(p.data.tags?.includes('free') && p.data.affiliate)
+	))
+	.slice(0, 3);
+
+const activeDeals = allPosts.filter(p => !isExpired(p) && isRealDeal(p)).length;
 ---
 
 <!doctype html>
@@ -82,7 +102,7 @@ const totalDeals = allPosts.length;
 		<Header />
 		<main id="main-content">
 
-			<!-- ── Compact Editorial Hero ─────────────────── -->
+			<!-- ── Hero Strip ─────────────────────────── -->
 			<section class="hero-strip">
 				<div class="hero-headline-wrap">
 					<h1 class="hero-headline">Plugin deals, verified daily.</h1>
@@ -90,55 +110,15 @@ const totalDeals = allPosts.length;
 						Prices, specs &amp; community takes &mdash; no hype, no fake reviews.
 					</p>
 				</div>
+				{activeDeals > 0 && (
+					<div class="live-count">
+						<span class="live-dot"></span>
+						{activeDeals} active deals right now
+					</div>
+				)}
 			</section>
 
-			<!-- ── Latest Drop ────────────────────────────── -->
-			{latestPost && (
-				<section class="section">
-					<header class="section-hd">
-						<span class="section-label">Latest Drop</span>
-						<FormattedDate date={latestPost.data.pubDate} />
-					</header>
-					<a
-						href={`/posts/${latestPost.id}/`}
-						class="feature-card"
-						aria-label={`View deal: ${latestPost.data.title}`}
-					>
-						<div class="feature-img">
-							<img src={latestPost.data.heroImage} alt={latestPost.data.title} loading="eager" />
-							{latestPost.data.discount && <span class="bdg-discount">{latestPost.data.discount}</span>}
-							{isNew(latestPost.data.pubDate) && <span class="bdg-new">NEW</span>}
-						</div>
-						<div class="feature-body">
-							{latestPost.data.tags?.length > 0 && (
-								<div class="tag-row">
-									{latestPost.data.tags.slice(0, 2).map((t: string) => (
-										<span class={`tag ${t === 'free' ? 'free' : t === 'sale' ? 'sale' : ''}`}>{t}</span>
-									))}
-								</div>
-							)}
-							<h2 class="feature-title">{latestPost.data.title}</h2>
-							<p class="feature-desc">{latestPost.data.description}</p>
-							{(latestPost.data.dealPrice || latestPost.data.originalPrice) && (
-								<div class="price-cluster">
-									{latestPost.data.originalPrice && <s class="price-was">{latestPost.data.originalPrice}</s>}
-									{latestPost.data.dealPrice && (
-										<strong class={`price-now ${latestPost.data.dealPrice === 'FREE' ? 'is-free' : ''}`}>
-											{latestPost.data.dealPrice}
-										</strong>
-									)}
-								</div>
-							)}
-							{latestPost.data.affiliate && (
-								<span class="via-store">via {getStoreName(latestPost.data.affiliate)}</span>
-							)}
-							<span class="feature-cta" aria-hidden="true">Read more &rarr;</span>
-						</div>
-					</a>
-				</section>
-			)}
-
-			<!-- ── Editor's Picks ─────────────────────────── -->
+			<!-- ── Editor's Picks ─────────────────────── -->
 			{topDeals.length > 0 && (
 				<section class="section">
 					<header class="section-hd">
@@ -146,74 +126,167 @@ const totalDeals = allPosts.length;
 						<a href="/posts" class="section-more">See all deals &rarr;</a>
 					</header>
 					<div class="deal-grid deal-grid--4">
-						{topDeals.map(post => (
-							<a href={`/posts/${post.id}/`} class="deal-card">
-								<div class="card-img-wrap">
-									<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
-									{post.data.discount && <span class="bdg-discount">{post.data.discount}</span>}
-									{isNew(post.data.pubDate) && <span class="bdg-new">NEW</span>}
-								</div>
-								<div class="card-body">
-									<h4 class="card-title">{post.data.title}</h4>
-									{(post.data.dealPrice || post.data.originalPrice) && (
-										<div class="price-cluster">
-											{post.data.originalPrice && <s class="price-was">{post.data.originalPrice}</s>}
-											{post.data.dealPrice && (
-												<strong class={`price-now ${post.data.dealPrice === 'FREE' ? 'is-free' : ''}`}>
-													{post.data.dealPrice}
-												</strong>
-											)}
-										</div>
-									)}
-									<div class="card-foot">
-										{post.data.affiliate && <span class="via-store">{getStoreName(post.data.affiliate)}</span>}
-										<span class="card-cta">Read more &rarr;</span>
-									</div>
-								</div>
-							</a>
-						))}
-					</div>
-				</section>
-			)}
-
-			<!-- ── Recent Deals ───────────────────────────── -->
-			{recentDeals.length > 0 && (
-				<section class="section">
-					<header class="section-hd">
-						<span class="section-label">Recent Deals</span>
-					</header>
-					<div class="deal-grid deal-grid--3">
-						{recentDeals.map(post => (
-							<a href={`/posts/${post.id}/`} class="deal-card">
-								{post.data.heroImage && (
+						{topDeals.map(post => {
+							const days = daysLeft(post);
+							return (
+								<a href={`/posts/${post.id}/`} class="deal-card">
 									<div class="card-img-wrap">
 										<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
 										{post.data.discount && <span class="bdg-discount">{post.data.discount}</span>}
 										{isNew(post.data.pubDate) && <span class="bdg-new">NEW</span>}
 									</div>
+									<div class="card-body">
+										<h4 class="card-title">{post.data.title}</h4>
+										{(post.data.dealPrice || post.data.originalPrice) && (
+											<div class="price-cluster">
+												{post.data.originalPrice && <s class="price-was">{post.data.originalPrice}</s>}
+												{post.data.dealPrice && (
+													<strong class={`price-now ${post.data.dealPrice === 'FREE' ? 'is-free' : ''}`}>
+														{post.data.dealPrice}
+													</strong>
+												)}
+											</div>
+										)}
+										{days !== null && days <= 3 && (
+											<span class="urgency-badge">⏰ {days === 1 ? 'Last day!' : `${days} days left`}</span>
+										)}
+										<div class="card-foot">
+											{post.data.affiliate && <span class="via-store">{getStoreName(post.data.affiliate)}</span>}
+											<span class="card-cta">Get deal &rarr;</span>
+										</div>
+									</div>
+								</a>
+							);
+						})}
+					</div>
+				</section>
+			)}
+
+			<!-- ── Latest Drop ────────────────────────── -->
+			{latestDeal && !topDeals.some(p => p.id === latestDeal.id) && (
+				<section class="section">
+					<header class="section-hd">
+						<span class="section-label">Latest Drop</span>
+						<FormattedDate date={latestDeal.data.pubDate} />
+					</header>
+					<a
+						href={`/posts/${latestDeal.id}/`}
+						class="feature-card"
+						aria-label={`View deal: ${latestDeal.data.title}`}
+					>
+						<div class="feature-img">
+							<img src={latestDeal.data.heroImage} alt={latestDeal.data.title} loading="eager" />
+							{latestDeal.data.discount && <span class="bdg-discount">{latestDeal.data.discount}</span>}
+							{isNew(latestDeal.data.pubDate) && <span class="bdg-new">NEW</span>}
+						</div>
+						<div class="feature-body">
+							{latestDeal.data.tags?.length > 0 && (
+								<div class="tag-row">
+									{latestDeal.data.tags.slice(0, 2).map((t: string) => (
+										<span class={`tag ${t === 'free' ? 'free' : t === 'sale' ? 'sale' : ''}`}>{t}</span>
+									))}
+								</div>
+							)}
+							<h2 class="feature-title">{latestDeal.data.title}</h2>
+							<p class="feature-desc">{latestDeal.data.description}</p>
+							{(latestDeal.data.dealPrice || latestDeal.data.originalPrice) && (
+								<div class="price-cluster">
+									{latestDeal.data.originalPrice && <s class="price-was">{latestDeal.data.originalPrice}</s>}
+									{latestDeal.data.dealPrice && (
+										<strong class={`price-now ${latestDeal.data.dealPrice === 'FREE' ? 'is-free' : ''}`}>
+											{latestDeal.data.dealPrice}
+										</strong>
+									)}
+								</div>
+							)}
+							{(() => { const days = daysLeft(latestDeal); return days !== null && days <= 5 ? (
+								<span class="urgency-badge">⏰ {days === 1 ? 'Last day!' : `${days} days left`}</span>
+							) : null; })()}
+							{latestDeal.data.affiliate && (
+								<span class="via-store">via {getStoreName(latestDeal.data.affiliate)}</span>
+							)}
+							<span class="feature-cta" aria-hidden="true">Get deal &rarr;</span>
+						</div>
+					</a>
+				</section>
+			)}
+
+			<!-- ── Recent Deals ───────────────────────── -->
+			{recentDeals.length > 0 && (
+				<section class="section">
+					<header class="section-hd">
+						<span class="section-label">Recent Deals</span>
+						<a href="/posts" class="section-more">See all &rarr;</a>
+					</header>
+					<div class="deal-grid deal-grid--3">
+						{recentDeals.map(post => {
+							const days = daysLeft(post);
+							return (
+								<a href={`/posts/${post.id}/`} class="deal-card">
+									{post.data.heroImage && (
+										<div class="card-img-wrap">
+											<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
+											{post.data.discount && <span class="bdg-discount">{post.data.discount}</span>}
+											{isNew(post.data.pubDate) && <span class="bdg-new">NEW</span>}
+										</div>
+									)}
+									<div class="card-body">
+										<h4 class="card-title">{post.data.title}</h4>
+										{(post.data.dealPrice || post.data.originalPrice) && (
+											<div class="price-cluster">
+												{post.data.originalPrice && <s class="price-was">{post.data.originalPrice}</s>}
+												{post.data.dealPrice && (
+													<strong class={`price-now ${post.data.dealPrice === 'FREE' ? 'is-free' : ''}`}>
+														{post.data.dealPrice}
+													</strong>
+												)}
+											</div>
+										)}
+										{days !== null && days <= 3 && (
+											<span class="urgency-badge">⏰ {days === 1 ? 'Last day!' : `${days} days left`}</span>
+										)}
+										<div class="card-foot">
+											{post.data.affiliate && <span class="via-store">{getStoreName(post.data.affiliate)}</span>}
+											<span class="card-cta">Read more &rarr;</span>
+										</div>
+									</div>
+								</a>
+							);
+						})}
+					</div>
+					<div class="see-all">
+						<a href="/posts">View all {allPosts.length} deals &rarr;</a>
+					</div>
+				</section>
+			)}
+
+			<!-- ── Free Deals ─────────────────────────── -->
+			{freeDeals.length > 0 && (
+				<section class="section section--free">
+					<header class="section-hd">
+						<span class="section-label section-label--free">Free Downloads</span>
+					</header>
+					<div class="deal-grid deal-grid--3">
+						{freeDeals.map(post => (
+							<a href={`/posts/${post.id}/`} class="deal-card deal-card--free">
+								{post.data.heroImage && (
+									<div class="card-img-wrap">
+										<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
+										<span class="bdg-free">FREE</span>
+									</div>
 								)}
 								<div class="card-body">
 									<h4 class="card-title">{post.data.title}</h4>
-									{(post.data.dealPrice || post.data.originalPrice) && (
-										<div class="price-cluster">
-											{post.data.originalPrice && <s class="price-was">{post.data.originalPrice}</s>}
-											{post.data.dealPrice && (
-												<strong class={`price-now ${post.data.dealPrice === 'FREE' ? 'is-free' : ''}`}>
-													{post.data.dealPrice}
-												</strong>
-											)}
-										</div>
-									)}
+									<div class="price-cluster">
+										<strong class="price-now is-free">FREE</strong>
+									</div>
 									<div class="card-foot">
 										{post.data.affiliate && <span class="via-store">{getStoreName(post.data.affiliate)}</span>}
-										<span class="card-cta">Read more &rarr;</span>
+										<span class="card-cta">Get free &rarr;</span>
 									</div>
 								</div>
 							</a>
 						))}
-					</div>
-					<div class="see-all">
-						<a href="/posts">View all {totalDeals} deals &rarr;</a>
 					</div>
 				</section>
 			)}
@@ -240,7 +313,7 @@ const totalDeals = allPosts.length;
 		margin-bottom: 2.5rem;
 	}
 	.hero-headline-wrap {
-		margin-bottom: 1.25rem;
+		margin-bottom: 0.75rem;
 	}
 	.hero-headline {
 		font-family: var(--font-display);
@@ -257,9 +330,32 @@ const totalDeals = allPosts.length;
 		margin: 0;
 		line-height: 1.5;
 	}
+	.live-count {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.4rem;
+		font-size: 0.78rem;
+		color: var(--text-muted);
+		font-weight: 500;
+	}
+	.live-dot {
+		width: 7px;
+		height: 7px;
+		border-radius: 50%;
+		background: var(--accent);
+		animation: pulse 2s infinite;
+	}
+	@keyframes pulse {
+		0%, 100% { opacity: 1; }
+		50% { opacity: 0.35; }
+	}
 
 	/* ── Sections ─────────────────────────────────────────── */
 	.section { margin-bottom: 3rem; }
+	.section--free {
+		padding-top: 2rem;
+		border-top: 1px solid var(--border);
+	}
 	.section-hd {
 		display: flex;
 		align-items: baseline;
@@ -274,7 +370,10 @@ const totalDeals = allPosts.length;
 		letter-spacing: 0.1em;
 		text-transform: uppercase;
 	}
-.section-more {
+	.section-label--free {
+		color: var(--free-text, #4caf50);
+	}
+	.section-more {
 		font-size: 0.78rem;
 		font-weight: 600;
 		color: var(--text-secondary);
@@ -313,6 +412,19 @@ const totalDeals = allPosts.length;
 		font-weight: 500;
 	}
 
+	/* ── Urgency badge ────────────────────────────────────── */
+	.urgency-badge {
+		display: inline-block;
+		font-size: 0.7rem;
+		font-weight: 700;
+		color: #c0392b;
+		background: rgba(192, 57, 43, 0.08);
+		border: 1px solid rgba(192, 57, 43, 0.2);
+		padding: 0.18em 0.5em;
+		border-radius: 3px;
+		letter-spacing: 0.02em;
+	}
+
 	/* ── Badges ───────────────────────────────────────────── */
 	.bdg-discount {
 		position: absolute;
@@ -335,6 +447,16 @@ const totalDeals = allPosts.length;
 		letter-spacing: 0.1em;
 		text-transform: uppercase;
 		font-family: var(--font-body);
+	}
+	.bdg-free {
+		position: absolute;
+		top: 0.5rem; right: 0.5rem;
+		background: rgba(76, 175, 80, 0.15);
+		color: #2e7d32;
+		font-size: 0.62rem; font-weight: 800;
+		padding: 0.22em 0.5em;
+		border-radius: 2px;
+		letter-spacing: 0.04em;
 	}
 
 	/* ── Tag row ──────────────────────────────────────────── */
@@ -374,7 +496,6 @@ const totalDeals = allPosts.length;
 		justify-content: center;
 		gap: 0.65rem;
 	}
-	/* Serif display font, but bump weight for impact */
 	.feature-title {
 		font-family: var(--font-display);
 		font-size: 1.7rem;
@@ -419,6 +540,12 @@ const totalDeals = allPosts.length;
 	.deal-card:hover {
 		border-color: var(--accent-border-hover);
 		background: var(--bg-card-hover);
+	}
+	.deal-card--free {
+		border-color: rgba(76, 175, 80, 0.2);
+	}
+	.deal-card--free:hover {
+		border-color: rgba(76, 175, 80, 0.5);
 	}
 	.card-img-wrap { position: relative; overflow: hidden; }
 	.card-img-wrap img {
@@ -495,9 +622,8 @@ const totalDeals = allPosts.length;
 		.feature-card { grid-template-columns: 1fr; }
 		.feature-img img { min-height: 220px; height: 220px; }
 		.deal-grid--4 { grid-template-columns: repeat(2, 1fr); }
-		/* 2 cols on tablet keeps list scannable */
 		.deal-grid--3 { grid-template-columns: repeat(2, 1fr); }
-}
+	}
 	@media (max-width: 480px) {
 		.hero-headline { font-size: 1.75rem; }
 		.deal-grid--4 { grid-template-columns: 1fr; }
