@@ -70,9 +70,10 @@ const recentDeals = heroPosts
 	.filter(p => !topIds.has(p.id) && !isExpired(p))
 	.slice(0, 6);
 
-// Free Deals: confirmed free with affiliate link (not general guides)
+// Free Deals: confirmed free, non-expired, not shown above (recentDeals excluded too)
+const recentIds = new Set(recentDeals.map(p => p.id));
 const freeDeals = allPosts
-	.filter(p => hasHeroImage(p) && !topIds.has(p.id) && (
+	.filter(p => hasHeroImage(p) && !topIds.has(p.id) && !recentIds.has(p.id) && !isExpired(p) && (
 		p.data.dealPrice === 'FREE' ||
 		(p.data.tags?.includes('free') && p.data.affiliate)
 	))
