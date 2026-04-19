@@ -7,7 +7,7 @@ affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theor
 heroImage: "/images/scaler-3-plugin-boutique-deal-a9f9f3.jpg"
 dealPrice: "$99.00"
 score: 3.70
-draft: true
+draft: false
 ---
 **TL;DR:** Scaler 3 is one of the most talked-about music theory plugins on the market, and Plugin Boutique is currently running a deal that makes it more accessible than ever. Check the product page for the current price — then [grab Scaler 3 at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=affiliate-bot&utm_medium=article&utm_campaign=scaler-3-plugin-boutique-deal-a9f9f3&a_aid=69cb95abe1763) before it changes.
 
