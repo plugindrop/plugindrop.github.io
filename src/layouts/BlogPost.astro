@@ -68,13 +68,22 @@ let faqMatch;
 while ((faqMatch = faqRegex.exec(rawBody)) !== null) {
 	faqPairs.push({ q: faqMatch[1].trim(), a: faqMatch[2].trim() });
 }
+// Strip markdown syntax from FAQ answers for valid Google rich-result JSON-LD
+function stripMarkdown(s: string): string {
+	return s
+		.replace(/\[([^\]]+)\]\([^\)]+\)/g, '$1')
+		.replace(/\*\*([^*]+)\*\*/g, '$1')
+		.replace(/\*([^*]+)\*/g, '$1')
+		.replace(/`([^`]+)`/g, '$1')
+		.trim();
+}
 const faqLD = faqPairs.length > 0 ? {
 	"@context": "https://schema.org",
 	"@type": "FAQPage",
 	"mainEntity": faqPairs.map(f => ({
 		"@type": "Question",
-		"name": f.q,
-		"acceptedAnswer": { "@type": "Answer", "text": f.a },
+		"name": stripMarkdown(f.q),
+		"acceptedAnswer": { "@type": "Answer", "text": stripMarkdown(f.a) },
 	})),
 } : null;
 ---
