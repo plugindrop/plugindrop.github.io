@@ -51,6 +51,7 @@
       }
     } catch {
       if (msg) { msg.textContent = "Something went wrong. Try again."; msg.className = "nl-msg nl-err"; }
+    } finally {
       if (btn) btn.disabled = false;
     }
   });
