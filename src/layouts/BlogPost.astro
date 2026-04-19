@@ -182,10 +182,19 @@ const faqLD = faqPairs.length > 0 ? {
 				color: var(--text-muted);
 				margin: 0;
 			}
+			/* Direct responsive sizing for all iframes in article body */
+			.prose iframe {
+				width: 100%;
+				aspect-ratio: 16 / 9;
+				border: 0;
+				border-radius: var(--radius);
+				display: block;
+				margin: 1.5rem 0;
+			}
 			.video-embed {
 				position: relative;
 				width: 100%;
-				padding-bottom: 56.25%; /* 16:9 */
+				padding-bottom: 56.25%; /* 16:9 fallback for browsers without aspect-ratio */
 				height: 0;
 				overflow: hidden;
 				border-radius: var(--radius);
@@ -198,6 +207,8 @@ const faqLD = faqPairs.length > 0 ? {
 				width: 100%;
 				height: 100%;
 				border: 0;
+				margin: 0;
+				aspect-ratio: unset;
 			}
 			@media (max-width: 720px) {
 				.article-header h1 { font-size: 1.5rem; }
