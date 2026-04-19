@@ -5,7 +5,9 @@ pubDate: "2026-04-18T23:47:00Z"
 tags: ["adsr"]
 affiliate: "https://www.adsrsounds.com/product/wav-samples/expressive-synths-01/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=expressive-synths-01-adsr-deal-529d86"
 heroImage: "/images/expressive-synths-01-adsr-deal-529d86.jpg"
-dealPrice: "$36"
+dealPrice: "$38.49"
+originalPrice: "$54.99"
+discount: "30% OFF"
 score: 3.60
 draft: false
 ---

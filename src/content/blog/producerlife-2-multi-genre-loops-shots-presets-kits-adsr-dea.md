@@ -5,7 +5,9 @@ pubDate: "2026-04-19T04:11:27Z"
 tags: ["adsr", "preset", "presets"]
 affiliate: "https://www.adsrsounds.com/product/presets/producerlife-2-multi-genre-loops-shots-presets-kits/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=producerlife-2-multi-genre-loops-shots-presets-kits-adsr-dea"
 heroImage: "/images/producerlife-2-multi-genre-loops-shots-presets-kits-adsr-dea.jpg"
-dealPrice: "$36"
+dealPrice: "$16.8"
+originalPrice: "$24"
+discount: "30% OFF"
 score: 3.00
 draft: false
 ---

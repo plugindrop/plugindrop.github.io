@@ -5,7 +5,9 @@ pubDate: "2026-04-19T04:11:28Z"
 tags: ["adsr", "preset", "presets"]
 affiliate: "https://www.adsrsounds.com/product/presets/tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats-adsr"
 heroImage: "/images/tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats-adsr.jpg"
-dealPrice: "$36"
+dealPrice: "$9.8"
+originalPrice: "$14"
+discount: "30% OFF"
 score: 3.00
 draft: false
 ---
