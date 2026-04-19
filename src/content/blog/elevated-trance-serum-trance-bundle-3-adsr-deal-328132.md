@@ -5,6 +5,7 @@ pubDate: "2026-04-18T23:11:41Z"
 tags: ["adsr", "preset", "presets", "serum", "synth"]
 affiliate: "https://www.adsrsounds.com/product/presets/elevated-trance-serum-trance-bundle-3/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=elevated-trance-serum-trance-bundle-3-adsr-deal-328132"
 heroImage: "/images/elevated-trance-serum-trance-bundle-3-adsr-deal-328132.jpg"
+dealPrice: "$36"
 score: 5.90
 draft: false
 ---

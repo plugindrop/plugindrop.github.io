@@ -5,6 +5,7 @@ pubDate: "2026-04-19T00:21:58Z"
 tags: ["adsr", "preset", "presets"]
 affiliate: "https://www.adsrsounds.com/product/presets/wa-production-what-about-midnight-bass-house-vocals/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=wa-production-what-about-midnight-bass-house-vocals-adsr-dea"
 heroImage: "/images/wa-production-what-about-midnight-bass-house-vocals-adsr-dea.jpg"
+dealPrice: "$36"
 score: 3.00
 draft: false
 ---

@@ -5,6 +5,9 @@ pubDate: "2026-04-19T08:25:59Z"
 tags: ["adsr", "preset", "presets"]
 affiliate: "https://www.adsrsounds.com/product/presets/cadence/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=cadence-adsr-deal-2ff37b"
 heroImage: "/images/cadence-adsr-deal-2ff37b.jpg"
+dealPrice: "$14"
+originalPrice: "$20"
+discount: "30% OFF"
 score: 3.00
 draft: false
 ---
