@@ -14,6 +14,7 @@ tags:
 - vst
 affiliate: https://artistsindsp.gumroad.com/l/amorph
 heroImage: /images/amorph-text-to-dsp-plugin-gets-custom-user-interfaces-midi-p.jpg
+dealPrice: "FREE"
 draft: false
 ---
 

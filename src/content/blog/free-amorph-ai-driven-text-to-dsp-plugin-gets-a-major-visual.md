@@ -11,6 +11,7 @@ tags:
 - windows
 affiliate: https://artistsindsp.gumroad.com/l/amorph
 heroImage: /images/free-amorph-ai-driven-text-to-dsp-plugin-gets-a-major-visual.jpg
+dealPrice: "FREE"
 draft: false
 ---
 

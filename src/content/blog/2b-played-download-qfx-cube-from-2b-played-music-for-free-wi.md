@@ -10,6 +10,7 @@ tags:
 affiliate: https://2bplayed.com/product/qfx-cube/
 heroImage: /images/2b-played-download-qfx-cube-from-2b-played-music-for-free-wi.webp
 aiImage: true
+dealPrice: "FREE"
 draft: false
 ---
 ---

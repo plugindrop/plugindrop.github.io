@@ -15,6 +15,7 @@ tags:
 - vst
 affiliate: https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/17144-MininnDrum2?utm_source=affiliate-bot&utm_medium=article&utm_campaign=audio-blast-releases-mininndrum-2-virtual-drum-instrument&a_aid=69cb95abe1763
 heroImage: /images/audio-blast-releases-mininndrum-2-virtual-drum-instrument.jpg
+dealPrice: "$0"
 draft: false
 ---
 **TL;DR:** Audio Blast has dropped MininnDrum 2, an updated virtual drum instrument now available on Plugin Boutique. Check the product page for current pricing — grab it via the [Plugin Boutique listing](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/17144-MininnDrum2?utm_source=affiliate-bot&utm_medium=article&utm_campaign=audio-blast-releases-mininndrum-2-virtual-drum-instrument&a_aid=69cb95abe1763) to see the latest deal.

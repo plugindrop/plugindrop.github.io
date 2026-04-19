@@ -11,6 +11,7 @@ tags:
 - singomakers
 affiliate: https://www.loopmasters.com/genres/58-Psy-Trance/products/20682-Serum-2-Psytrance-Vol-2?utm_source=affiliate-bot&utm_medium=article&utm_campaign=singomakers-releases-serum-2-psytrance-vol-2-soundset-57ddea&a_aid=69cb95abe1763
 heroImage: /images/singomakers-releases-serum-2-psytrance-vol-2-soundset-57ddea.jpg
+dealPrice: "$21.95"
 draft: false
 ---
 **TL;DR:** Singomakers has dropped **Serum 2 Psytrance Vol. 2**, a dedicated preset pack for Xfer's Serum 2 synth, available now at Loopmasters. If psytrance production is your lane, this is a focused tool worth checking out. [Grab it at Loopmasters →](https://www.loopmasters.com/genres/58-Psy-Trance/products/20682-Serum-2-Psytrance-Vol-2?utm_source=affiliate-bot&utm_medium=article&utm_campaign=singomakers-releases-serum-2-psytrance-vol-2-soundset-57ddea&a_aid=69cb95abe1763)

@@ -14,6 +14,7 @@ tags:
 - vst
 affiliate: https://www.pluginboutique.com/product/2-Effects/44-Saturation/11077-Plamen?utm_source=affiliate-bot&utm_medium=article&utm_campaign=plamen-multiband-saturation-effect-by-united-plugins-on-sale&a_aid=69cb95abe1763
 heroImage: /images/plamen-multiband-saturation-effect-by-united-plugins-on-sale.jpg
+discount: "60% OFF"
 draft: false
 ---
 **TL;DR:** Plamen, SoundEvice Digital's multiband saturation plugin distributed by United Plugins, is currently **60% OFF** at Plugin Boutique — a meaningful discount on a tool built for harmonic warmth across the full frequency spectrum. If you've been watching this one, now is a solid time to pull the trigger. [Grab Plamen at 60% off →](https://www.pluginboutique.com/product/2-Effects/44-Saturation/11077-Plamen?utm_source=affiliate-bot&utm_medium=article&utm_campaign=plamen-multiband-saturation-effect-by-united-plugins-on-sale&a_aid=69cb95abe1763)

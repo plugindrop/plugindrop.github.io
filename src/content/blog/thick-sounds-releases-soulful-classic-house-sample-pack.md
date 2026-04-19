@@ -9,6 +9,7 @@ tags:
 - thick sounds
 affiliate: https://www.loopmasters.com/genres/134-Classic-House/products/20638-Soulful-Classic-House?utm_source=affiliate-bot&utm_medium=article&utm_campaign=thick-sounds-releases-soulful-classic-house-sample-pack&a_aid=69cb95abe1763
 heroImage: /images/thick-sounds-releases-soulful-classic-house-sample-pack.jpg
+dealPrice: "$6.95"
 draft: false
 ---
 **TL;DR:** Thick Sounds has dropped *Soulful Classic House* on Loopmasters — a dedicated sample pack built around the warm, gospel-tinged grooves of classic house music. Pricing details are listed on the product page; [grab it at Loopmasters](https://www.loopmasters.com/genres/134-Classic-House/products/20638-Soulful-Classic-House?utm_source=affiliate-bot&utm_medium=article&utm_campaign=thick-sounds-releases-soulful-classic-house-sample-pack&a_aid=69cb95abe1763) before your next session.

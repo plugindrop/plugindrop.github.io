@@ -9,6 +9,7 @@ tags:
 - thick sounds
 affiliate: https://www.loopmasters.com/genres/25-House/products/20621-Analogue-Micro-House?utm_source=affiliate-bot&utm_medium=article&utm_campaign=thick-sounds-releases-analogue-micro-house-sample-pack-2605ce&a_aid=69cb95abe1763
 heroImage: /images/thick-sounds-releases-analogue-micro-house-sample-pack-2605ce.jpg
+dealPrice: "$5.95"
 draft: false
 ---
 

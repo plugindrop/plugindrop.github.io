@@ -9,6 +9,9 @@ tags:
 - presets
 affiliate: https://www.adsrsounds.com/product/presets/futuristic-weapons-vol-2/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=futuristic-weapons-vol-2-adsr-deal-cd1ebe
 heroImage: /images/futuristic-weapons-vol-2-adsr-deal-cd1ebe.jpg
+dealPrice: "$25"
+originalPrice: "$179.77"
+discount: "86% OFF"
 draft: false
 ---
 **TL;DR:** Futuristic Weapons Vol 2 is currently on deal at ADSR Sounds — a solid pick-up for producers chasing cutting-edge sound design without spending hours building from scratch. Check the current price and savings on the [ADSR product page](https://www.adsrsounds.com/product/presets/futuristic-weapons-vol-2/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=futuristic-weapons-vol-2-adsr-deal-cd1ebe) before it reverts.

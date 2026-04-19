@@ -5,6 +5,7 @@ pubDate: "2026-03-16T08:00:00Z"
 tags: ["sale", "plugin", "guide"]
 affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763"
 heroImage: "/images/heroes/plugin-boutique-guide.jpg"
+dealPrice: "FREE"
 draft: false
 ---
 

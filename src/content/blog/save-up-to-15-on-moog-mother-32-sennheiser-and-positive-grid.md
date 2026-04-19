@@ -5,6 +5,7 @@ pubDate: "2026-04-18T23:47:03Z"
 tags: ["deals", "amp", "bargain", "dynamic microphone", "filter", "headphone", "ladder filter", "microphone", "modular", "oscillator"]
 affiliate: "https://www.thomann.de/intl/moog_mother_32.htm?utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-15-on-moog-mother-32-sennheiser-and-positive-grid"
 heroImage: "/images/save-up-to-15-on-moog-mother-32-sennheiser-and-positive-grid.jpg"
+discount: "15% OFF"
 score: 3.41
 draft: false
 ---

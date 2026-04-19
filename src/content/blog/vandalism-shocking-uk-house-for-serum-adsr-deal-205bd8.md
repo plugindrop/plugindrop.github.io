@@ -11,6 +11,9 @@ tags:
 - synth
 affiliate: https://www.adsrsounds.com/product/presets/vandalism-shocking-uk-house-for-serum/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=vandalism-shocking-uk-house-for-serum-adsr-deal-205bd8
 heroImage: /images/vandalism-shocking-uk-house-for-serum-adsr-deal-205bd8.jpg
+dealPrice: "$9.79"
+originalPrice: "$13.99"
+discount: "30% OFF"
 draft: false
 ---
 **TL;DR:** Vandalism's *Shocking UK House for Serum* is now on sale at ADSR Sounds — check the current deal price versus the regular rate and grab it before it reverts. This is a genre-focused Serum preset pack built specifically for UK House workflows. [Grab the deal at ADSR Sounds.](https://www.adsrsounds.com/product/presets/vandalism-shocking-uk-house-for-serum/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=vandalism-shocking-uk-house-for-serum-adsr-deal-205bd8)

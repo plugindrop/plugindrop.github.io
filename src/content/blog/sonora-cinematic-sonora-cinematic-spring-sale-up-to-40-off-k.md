@@ -9,9 +9,9 @@ tags:
 - sonora cinematic
 affiliate: https://sonoracinematic.com/collections/all
 heroImage: /images/sonora-cinematic-sonora-cinematic-spring-sale-up-to-40-off-k.webp
-originalPrice: $80
 saleExpiry: '2026-04-30'
 aiImage: true
+discount: "40% OFF"
 draft: false
 ---
 

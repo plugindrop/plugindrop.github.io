@@ -11,6 +11,7 @@ tags:
 - renegade audio
 affiliate: https://www.loopmasters.com/genres/63-Reggae/products/20673-Dub-Pack-Series-Vol-22-A-Rougher-Version?utm_source=affiliate-bot&utm_medium=article&utm_campaign=renegade-audio-releases-dub-pack-series-vol-22-a-rougher-ver&a_aid=69cb95abe1763
 heroImage: /images/renegade-audio-releases-dub-pack-series-vol-22-a-rougher-ver.jpg
+dealPrice: "$32.95"
 draft: false
 ---
 **TL;DR:** Renegade Audio's *Dub Pack Series Vol. 22: A Rougher Version* is now available on Loopmasters, bringing raw, roots-driven dub sounds to your DAW. Check the product page for current pricing — then [grab it on Loopmasters](https://www.loopmasters.com/genres/63-Reggae/products/20673-Dub-Pack-Series-Vol-22-A-Rougher-Version?utm_source=affiliate-bot&utm_medium=article&utm_campaign=renegade-audio-releases-dub-pack-series-vol-22-a-rougher-ver&a_aid=69cb95abe1763) before your next session.

@@ -6,8 +6,6 @@ tags: ["free", "plugin", "reverb"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/4715-Little-Plate?a_aid=69cb95abe1763"
 heroImage: "/images/heroes/soundtoys-little-plate.jpg"
 dealPrice: "FREE"
-originalPrice: "$99"
-discount: "100% OFF"
 draft: false
 ---
 

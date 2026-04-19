@@ -9,6 +9,7 @@ tags:
 - sale
 affiliate: https://www.ghosthack.de/Easter-Sale-2026/
 heroImage: /images/ghosthack-launches-easter-sale-with-5-usd-steals-057c4b.jpg
+dealPrice: "$5"
 draft: false
 ---
 
