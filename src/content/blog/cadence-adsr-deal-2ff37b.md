@@ -47,13 +47,9 @@ Cadence is a relatively niche or newer release, so dedicated threads are still b
 
 ## Pricing & Deal Details
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~Check product page~~ | Deal active now | Verify on site |
+Pricing details are available on the ADSR Sounds product page — deal prices can change or expire without notice.
 
-ADSR Sounds runs periodic sales and bundle promotions throughout the year. Deal windows can close without notice, so locking in the current price sooner is the safer call.
-
-> **Verify current pricing on the product page — deals can change.**
+> **Check the current price on the product page before purchasing.**
 
 [See the current deal on ADSR Sounds →](https://www.adsrsounds.com/product/presets/cadence/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=cadence-adsr-deal-2ff37b)
 
