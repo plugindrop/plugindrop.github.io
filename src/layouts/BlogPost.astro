@@ -235,6 +235,18 @@ const faqLD = faqPairs.length > 0 ? {
 						wrap.appendChild(iframe);
 					}
 				});
+				// Track affiliate link clicks in GA4
+				document.querySelectorAll('.deal-cta-btn, .sticky-cta a').forEach(link => {
+					link.addEventListener('click', () => {
+						if (typeof gtag !== 'undefined') {
+							gtag('event', 'affiliate_click', {
+								link_url: link.getAttribute('href'),
+								link_text: link.textContent?.trim(),
+								page_title: document.title,
+							});
+						}
+					});
+				});
 				// Hero image fallback scoped to .hero-image sections (no inline onerror — CSP safe).
 				// /images/default-placeholder.jpg is committed at public/images/default-placeholder.jpg.
 				document.querySelectorAll('.hero-image').forEach(section => {
