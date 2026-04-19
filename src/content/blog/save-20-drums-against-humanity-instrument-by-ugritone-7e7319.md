@@ -34,10 +34,6 @@ Drums Against Humanity is a virtual drum instrument developed by Ugritone in col
 - **Genre-specific kit presets** — Pre-crafted starting points tuned for different metal subgenres and styles, saving setup time.
 - **Wide format support** — Available as VST, VST3, AU, and AAX on both 64-bit Windows and macOS.
 
-## What Producers Are Saying
-
-Ugritone has built a loyal following in the metal production community, and their drum libraries are frequently discussed on forums like SevenString.org and gear review sites like Audio Plugin Guy. Drums Against Humanity specifically draws attention due to the Inferno collaboration — capturing a sound that's otherwise difficult to replicate outside a high-end studio. Community discussions are still growing for this particular title. Check [KVR Audio](https://www.kvraudio.com/) or [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for the latest user impressions.
-
 ## Who Is It For?
 
 - **Extreme metal producers** — Designed from the ground up for death metal, black metal, and similar genres that demand punishing drum tones.

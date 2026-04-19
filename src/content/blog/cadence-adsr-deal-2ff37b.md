@@ -33,10 +33,6 @@ Cadence is a preset pack available through ADSR Sounds, one of the most establis
 
 ---
 
-## What Producers Are Saying
-
-Cadence is a relatively niche or newer release, so dedicated threads are still building across the main communities. ADSR Sounds products generally carry a strong reputation on r/AudioProductionDeals and KVR forums, where users frequently recommend the platform for value-to-quality ratio on preset packs. Check [KVR Audio](https://www.kvraudio.com) or [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for early impressions as community discussion grows.
-
 ---
 
 ## Who Is It For?

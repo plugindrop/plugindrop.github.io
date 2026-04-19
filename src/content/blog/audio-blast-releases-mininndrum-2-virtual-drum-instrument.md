@@ -26,7 +26,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/lNjWE3YU5_E" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is MininnDrum 2?
 
 MininnDrum 2 is a virtual drum instrument developed by Audio Blast, the second major version of their compact drum machine plugin. It's designed to give producers a focused, no-frills approach to programming beats — built around a streamlined interface that prioritizes speed and workflow over complexity. Audio Blast has positioned it as an accessible yet capable option in the crowded virtual drum space.
@@ -45,10 +44,6 @@ Based on the product's category and Audio Blast's focus on compact design:
 For the full, confirmed feature list, check the [official Plugin Boutique product page](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/17144-MininnDrum2?utm_source=affiliate-bot&utm_medium=article&utm_campaign=audio-blast-releases-mininndrum-2-virtual-drum-instrument&a_aid=69cb95abe1763).
 
 ---
-
-## What Producers Are Saying
-
-MininnDrum 2 is a newer release, so community discussions are still building. Check [KVR Audio](https://www.kvraudio.com) or [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for early impressions from producers who've had hands-on time with it. Audio Blast has a small but dedicated following among producers who prefer compact, specialized tools over Swiss-army-knife plugins.
 
 ---
 

@@ -11,6 +11,8 @@ heroImage: /images/fsk-audio-get-23-off-bark24-dyn-by-fsk-audio-the-discounted-.
 aiImage: true
 saleExpiry: '2026-04-24'
 discount: "23% OFF"
+dealPrice: "$99.95"
+originalPrice: "$129.95"
 draft: false
 ---
 **TL;DR:** FSK Audio's Bark24 | Dyn is currently 23% off at Plugin Boutique — a solid discount on a dynamics processor from a developer with a dedicated following. Check the current sale price (and the ~~full price~~ it's discounted from) on the [Plugin Boutique product page](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17070-Bark24-Dyn?utm_source=affiliate-bot&utm_medium=article&utm_campaign=fsk-audio-get-23-off-bark24-dyn-by-fsk-audio-the-discounted-&a_aid=69cb95abe1763) before it reverts.
@@ -20,7 +22,6 @@ draft: false
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Hu5UThQIXM4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is Bark24 | Dyn by FSK Audio?
 
@@ -40,10 +41,6 @@ Based on the product category and FSK Audio's known approach:
 For exact feature specs, input/output formats, and supported plugin formats (VST/AU/AAX), check the [official product page](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17070-Bark24-Dyn?utm_source=affiliate-bot&utm_medium=article&utm_campaign=fsk-audio-get-23-off-bark24-dyn-by-fsk-audio-the-discounted-&a_aid=69cb95abe1763).
 
 ---
-
-## What Producers Are Saying
-
-Bark24 | Dyn is a relatively niche release — community discussions are still building. FSK Audio has a presence in plugin communities such as [KVR Audio](https://www.kvraudio.com) and threads on Reddit's [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/), where their plugins are occasionally surfaced alongside other boutique developers. For early impressions and user feedback, those forums are the best places to look before committing.
 
 ---
 

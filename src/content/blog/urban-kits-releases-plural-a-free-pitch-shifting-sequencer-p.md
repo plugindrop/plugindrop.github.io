@@ -31,10 +31,6 @@ Plural is a free pitch-shifting sequencer plugin from **Urban Kits**, a develope
 - **Mix and Master controls** — Blend the wet/dry signal and dial in the output level without leaving the plugin.
 - **AU and VST2 formats** — Works in most major DAWs on both macOS (10.13+) and Windows (10+).
 
-## What Producers Are Saying
-
-This is a brand-new release — community discussions are still building. Urban Kits has a small but growing following among beatmakers and lo-fi producers, and Plural currently holds a 5-star rating on its Gumroad page. Check [KVR](https://www.kvraudio.com/) or [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for early impressions as more producers put it through its paces.
-
 ## Who Is It For?
 
 - **Beat producers and loop-based composers** — Plural is designed to add movement to audio loops, making it a natural fit for hip-hop, lo-fi, and electronic workflows.

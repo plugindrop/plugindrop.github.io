@@ -30,10 +30,6 @@ Chimera is a cinematic preset pack for the **Vital synthesizer**, created by Hyd
 - **Works with free Vital** — No need for Vital's paid tiers; the free version handles everything.
 - **5 sound categories** — Organized for quick browsing during scoring and sound design sessions.
 
-## What Producers Are Saying
-
-Flame Sound is a smaller, niche developer in the cinematic sound design space — community discussions are still building compared to mainstream plugin brands. Their Inferno SFX library carries a 5/5 rating on their store page, which suggests satisfied customers in the trailer/cinematic crowd. Check [KVR](https://www.kvraudio.com/) or [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for early impressions and user feedback on their catalog.
-
 ## Who Is It For?
 
 - **Film & trailer composers** — The preset categories (pads, SFX, leads) map directly to cinematic scoring workflows.

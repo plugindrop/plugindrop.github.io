@@ -38,10 +38,6 @@ Previously available only for UAD hardware owners, Universal Audio has now relea
 - **Native processing** — Runs on your computer's CPU with no proprietary hardware required.
 - **Also included in UA Spark and UAD Vault** — Subscribers to these UA plans already have access.
 
-## What Producers Are Saying
-
-The Voice Of God has been a known "secret weapon" in pro audio circles for years — the hardware version developed a cult following among mix engineers working on vocals and drums. Now that native access removes the hardware barrier, interest is growing. Community discussions are still building around the native release specifically. Check [KVR](https://www.kvraudio.com/) or [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for early impressions and hands-on feedback from native users.
-
 ## Who Is It For?
 
 - **Vocal producers and podcasters** — Designed to add broadcast-style chest resonance and authority to voice recordings without muddying up the mix.

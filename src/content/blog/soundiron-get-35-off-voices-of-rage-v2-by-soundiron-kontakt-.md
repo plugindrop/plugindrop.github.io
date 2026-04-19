@@ -11,6 +11,8 @@ heroImage: /images/soundiron-get-35-off-voices-of-rage-v2-by-soundiron-kontakt-.
 saleExpiry: '2026-04-30'
 aiImage: true
 discount: "35% OFF"
+dealPrice: "$77.00"
+originalPrice: "$119.00"
 draft: false
 ---
 **TL;DR:** Soundiron's Voices of Rage v2 is currently **35% off** at Plugin Boutique — one of the deeper discounts this vocal Kontakt library has seen. If you've been on the fence about adding a raw, aggressive vocal instrument to your toolkit, this is the moment to move. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/10433-Voices-of-Rage-v2?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundiron-get-35-off-voices-of-rage-v2-by-soundiron-kontakt-&a_aid=69cb95abe1763)

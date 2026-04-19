@@ -15,6 +15,7 @@ affiliate: https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory
 heroImage: /images/save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9.jpg
 saleExpiry: '2026-04-12'
 discount: "54% OFF"
+dealPrice: "$99.00"
 draft: false
 ---
 
@@ -33,12 +34,6 @@ Scaler EQ and DC Snares round out this sale. Scaler EQ brings a musically-inform
 - **Musical EQ Approach (Scaler EQ)** — Scaler EQ ties frequency adjustments to musical notes and harmonics, offering a different workflow from traditional parametric EQs.
 - **Snare Layering Engine (DC Snares)** — DC Snares lets producers build snares from individual components — top, body, bottom, transient — with dedicated processing per layer.
 - **DAW Integration** — Scaler 3 routes MIDI output to other instruments in your session, functioning as a composition hub within your DAW.
-
-## What Producers Are Saying
-
-Scaler has built a strong following since its first version. On Reddit's r/AudioProductionDeals and r/WeAreTheMusicMakers, users frequently mention Scaler as a go-to recommendation for producers who want to speed up chord progression writing or learn more theory along the way. It's commonly described as one of the most practical composition tools available.
-
-On KVR Audio forums, discussions around Scaler 3 highlight the improvements over version 2, particularly around workflow speed and new performance features. Community reception for Scaler EQ and DC Snares is still building — check [KVR](https://www.kvraudio.com/) or [Reddit](https://www.reddit.com/r/AudioProductionDeals/) for early impressions on those newer titles.
 
 ## Who Is It For?
 

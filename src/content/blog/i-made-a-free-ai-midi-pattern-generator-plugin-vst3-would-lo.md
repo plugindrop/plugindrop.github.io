@@ -26,10 +26,6 @@ Stepista is a free VST3 plugin that generates MIDI patterns using AI. Developed 
 - **Flexible Export** — Drag MIDI directly into your DAW, download as a .mid file, or stream via WebMIDI.
 - **Offline Core Generation** — Basic pattern generation works without internet. The AI-enhanced "Gen" button requires a connection.
 
-## What Producers Are Saying
-
-This is a newer release — community discussions are still building. The developer originally shared Stepista on Reddit's r/edmproduction, where it generated interest from producers curious about AI-assisted MIDI workflows. Check [Reddit](https://www.reddit.com/r/edmproduction/) or [KVR](https://www.kvraudio.com/) for early impressions as more producers test it out.
-
 ## Who Is It For?
 
 - **Beat-makers fighting writer's block** — Designed to kickstart ideas when you're staring at an empty arrangement. Generate a pattern, tweak it, build from there.

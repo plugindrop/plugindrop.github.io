@@ -27,7 +27,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/KbFb-ukH9DI" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Universal Audio Launches Little Labs Voice of God Bass Resonance Plugin
 
 ## What Is the Little Labs Voice of God?
@@ -45,10 +44,6 @@ The Little Labs Voice of God is a bass resonance plugin developed by Universal A
 - **Universal Audio Integration** — Works within the UA plugin ecosystem; check the product page for exact format support (UAD, LUNA, Native) and system requirements
 
 ---
-
-## What Producers Are Saying
-
-This is a newer release — community discussions are still building. Check [KVR Audio](https://www.kvraudio.com) or [Reddit r/audioengineering](https://www.reddit.com/r/audioengineering) for early impressions as users begin putting it through real sessions. Little Labs hardware has long been respected in professional circles, so the plugin adaptation is likely to attract attention from engineers already familiar with the original unit.
 
 ---
 

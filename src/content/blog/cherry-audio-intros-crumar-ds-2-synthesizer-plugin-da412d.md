@@ -32,10 +32,6 @@ The Crumar DS-2 is a software synthesizer from Cherry Audio that recreates — a
 - **Expanded modulation** — A third LFO with discrete delays, sync, retrigger, reverse wave, and one-shot capabilities.
 - **300+ presets** — Professionally designed sounds across 14 categories to get started quickly.
 
-## What Producers Are Saying
-
-This is a brand-new release (April 2, 2026), so community discussions are still building. Cherry Audio has a strong reputation among virtual analog enthusiasts, and early coverage across synth media has highlighted the DS-2 as a deep dive into an obscure piece of Italian synth history. Check [KVR](https://www.kvraudio.com/product/crumar-ds-2-synthesizer-by-cherry-audio) or [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for early impressions as they come in.
-
 ## Who Is It For?
 
 - **Vintage synth enthusiasts** — If you collect rare virtual analog recreations, the Crumar DS-2 fills a gap that no other plugin currently covers.

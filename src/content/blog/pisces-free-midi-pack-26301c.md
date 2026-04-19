@@ -28,10 +28,6 @@ The Pisces MIDI Pack is a free digital download from Diverse KCox, an independen
 - **DAW-agnostic format** — Standard MIDI files work in FL Studio, Ableton Live, Logic Pro, Maschine, and any other DAW that reads MIDI.
 - **Instant digital download** — No waiting for physical delivery; download and start producing immediately.
 
-## What Producers Are Saying
-
-This is a newer, niche release from an independent creator — community discussions are still building. The pack was shared on Reddit's r/synthesizers, where producers flagged it as a useful freebie for anyone working in Afrobeats or Dancehall styles. For early impressions and updates, check [Reddit](https://www.reddit.com/r/synthesizers/) or the creator's product page directly.
-
 ## Who Is It For?
 
 - **Afrobeats and Dancehall producers** — The pack is purpose-built for these genres. Drag the MIDI into your session and build around it.

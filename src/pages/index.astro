@@ -2,7 +2,6 @@
 import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
-import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
@@ -58,24 +57,20 @@ function isRealDeal(post: any): boolean {
 
 const heroPosts = allPosts.filter(hasHeroImage);
 
-// Editor's Picks: scored deals with actual discount, non-expired, with affiliate
+// Editor's Picks: scored real deals, non-expired, with affiliate + hero image
 const topDeals = heroPosts
 	.filter(p => p.data.affiliate && !isExpired(p) && isRealDeal(p))
 	.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
 	.slice(0, 4);
 
-// Latest Drop: most recent deal post (actual deal, not expired)
-const latestDeal = heroPosts.find(p => !isExpired(p) && isRealDeal(p));
-const latestDealDays = latestDeal ? daysLeft(latestDeal) : null;
+const topIds = new Set(topDeals.map(p => p.id));
 
-const topIds = new Set([latestDeal?.id, ...topDeals.map(p => p.id)]);
-
-// Recent Deals: non-expired, not already shown above
+// Recent Deals: non-expired, not in Editor's Picks
 const recentDeals = heroPosts
 	.filter(p => !topIds.has(p.id) && !isExpired(p))
 	.slice(0, 6);
 
-// Free Deals: dealPrice=FREE or free tag with affiliate link (not general guides)
+// Free Deals: confirmed free with affiliate link (not general guides)
 const freeDeals = allPosts
 	.filter(p => hasHeroImage(p) && !topIds.has(p.id) && (
 		p.data.dealPrice === 'FREE' ||
@@ -83,7 +78,13 @@ const freeDeals = allPosts
 	))
 	.slice(0, 3);
 
-const activeDeals = allPosts.filter(p => !isExpired(p) && isRealDeal(p)).length;
+// activeDeals: confirmed future expiry OR real deal published within 30 days
+const _30dAgo = Date.now() - 30 * 24 * 60 * 60 * 1000;
+const activeDeals = allPosts.filter(p => {
+	if (isExpired(p)) return false;
+	if (p.data.saleExpiry) return true;
+	return isRealDeal(p) && p.data.pubDate.valueOf() > _30dAgo;
+}).length;
 ---
 
 <!doctype html>
@@ -160,55 +161,6 @@ const activeDeals = allPosts.filter(p => !isExpired(p) && isRealDeal(p)).length;
 							);
 						})}
 					</div>
-				</section>
-			)}
-
-			<!-- ── Latest Drop ────────────────────────── -->
-			{latestDeal && !topDeals.some(p => p.id === latestDeal.id) && (
-				<section class="section">
-					<header class="section-hd">
-						<span class="section-label">Latest Drop</span>
-						<FormattedDate date={latestDeal.data.pubDate} />
-					</header>
-					<a
-						href={`/posts/${latestDeal.id}/`}
-						class="feature-card"
-						aria-label={`View deal: ${latestDeal.data.title}`}
-					>
-						<div class="feature-img">
-							<img src={latestDeal.data.heroImage} alt={latestDeal.data.title} loading="eager" />
-							{latestDeal.data.discount && <span class="bdg-discount">{latestDeal.data.discount}</span>}
-							{isNew(latestDeal.data.pubDate) && <span class="bdg-new">NEW</span>}
-						</div>
-						<div class="feature-body">
-							{latestDeal.data.tags?.length > 0 && (
-								<div class="tag-row">
-									{latestDeal.data.tags.slice(0, 2).map((t: string) => (
-										<span class={`tag ${t === 'free' ? 'free' : t === 'sale' ? 'sale' : ''}`}>{t}</span>
-									))}
-								</div>
-							)}
-							<h2 class="feature-title">{latestDeal.data.title}</h2>
-							<p class="feature-desc">{latestDeal.data.description}</p>
-							{(latestDeal.data.dealPrice || latestDeal.data.originalPrice) && (
-								<div class="price-cluster">
-									{latestDeal.data.originalPrice && <s class="price-was">{latestDeal.data.originalPrice}</s>}
-									{latestDeal.data.dealPrice && (
-										<strong class={`price-now ${latestDeal.data.dealPrice === 'FREE' ? 'is-free' : ''}`}>
-											{latestDeal.data.dealPrice}
-										</strong>
-									)}
-								</div>
-							)}
-							{latestDealDays !== null && latestDealDays <= 5 && (
-								<span class="urgency-badge">⏰ {latestDealDays === 1 ? 'Last day!' : `${latestDealDays} days left`}</span>
-							)}
-							{latestDeal.data.affiliate && (
-								<span class="via-store">via {getStoreName(latestDeal.data.affiliate)}</span>
-							)}
-							<span class="feature-cta" aria-hidden="true">Get deal &rarr;</span>
-						</div>
-					</a>
 				</section>
 			)}
 
@@ -294,7 +246,6 @@ const activeDeals = allPosts.filter(p => !isExpired(p) && isRealDeal(p)).length;
 
 		</main>
 
-		<!-- Affiliate disclosure -->
 		<div class="disclosure">
 			<div class="disclosure-inner">
 				PluginDrop uses affiliate links. We may earn a small commission &mdash; at no extra cost to you.
@@ -313,9 +264,7 @@ const activeDeals = allPosts.filter(p => !isExpired(p) && isRealDeal(p)).length;
 		border-bottom: 1px solid var(--border);
 		margin-bottom: 2.5rem;
 	}
-	.hero-headline-wrap {
-		margin-bottom: 0.75rem;
-	}
+	.hero-headline-wrap { margin-bottom: 0.75rem; }
 	.hero-headline {
 		font-family: var(--font-display);
 		font-size: 2.75rem;
@@ -338,10 +287,10 @@ const activeDeals = allPosts.filter(p => !isExpired(p) && isRealDeal(p)).length;
 		font-size: 0.78rem;
 		color: var(--text-muted);
 		font-weight: 500;
+		margin-top: 0.75rem;
 	}
 	.live-dot {
-		width: 7px;
-		height: 7px;
+		width: 7px; height: 7px;
 		border-radius: 50%;
 		background: var(--accent);
 		animation: pulse 2s infinite;
@@ -371,9 +320,7 @@ const activeDeals = allPosts.filter(p => !isExpired(p) && isRealDeal(p)).length;
 		letter-spacing: 0.1em;
 		text-transform: uppercase;
 	}
-	.section-label--free {
-		color: var(--free-text, #4caf50);
-	}
+	.section-label--free { color: var(--free-text, #4caf50); }
 	.section-more {
 		font-size: 0.78rem;
 		font-weight: 600;
@@ -382,10 +329,6 @@ const activeDeals = allPosts.filter(p => !isExpired(p) && isRealDeal(p)).length;
 		transition: color 0.15s;
 	}
 	.section-more:hover { color: var(--accent-dark); }
-	.section-hd time, .section-hd :global(time) {
-		color: var(--text-muted);
-		font-size: 0.78rem;
-	}
 
 	/* ── Price atoms ──────────────────────────────────────── */
 	.price-cluster {
@@ -460,69 +403,6 @@ const activeDeals = allPosts.filter(p => !isExpired(p) && isRealDeal(p)).length;
 		letter-spacing: 0.04em;
 	}
 
-	/* ── Tag row ──────────────────────────────────────────── */
-	.tag-row { display: flex; gap: 0.35rem; flex-wrap: wrap; }
-
-	/* ── Feature Card (Latest Drop) ──────────────────────── */
-	.feature-card {
-		display: grid;
-		grid-template-columns: 1.1fr 0.9fr;
-		background: var(--bg-card);
-		border: 1px solid var(--border);
-		border-radius: var(--radius);
-		overflow: hidden;
-		text-decoration: none;
-		box-shadow: var(--box-shadow);
-		transition: box-shadow 0.2s, border-color 0.15s;
-	}
-	.feature-card:hover {
-		border-color: var(--accent-border-hover);
-		box-shadow: var(--box-shadow-hover);
-	}
-	.feature-img {
-		position: relative;
-		overflow: hidden;
-	}
-	.feature-img img {
-		width: 100%; height: 100%;
-		min-height: 300px;
-		object-fit: cover; display: block; border-radius: 0;
-		transition: transform 0.4s ease;
-	}
-	.feature-card:hover .feature-img img { transform: scale(1.03); }
-	.feature-body {
-		padding: 2rem 1.75rem;
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		gap: 0.65rem;
-	}
-	.feature-title {
-		font-family: var(--font-display);
-		font-size: 1.7rem;
-		font-weight: 400;
-		letter-spacing: -0.01em;
-		color: var(--text-primary);
-		line-height: 1.2;
-		margin: 0;
-	}
-	.feature-desc {
-		color: var(--text-secondary);
-		font-size: 0.875rem;
-		margin: 0;
-		line-height: 1.55;
-	}
-	.feature-cta {
-		display: inline-flex;
-		align-self: flex-start;
-		color: var(--accent);
-		font-weight: 600;
-		font-size: 0.85rem;
-		transition: color 0.15s;
-		margin-top: 0.25rem;
-	}
-	.feature-card:hover .feature-cta { color: var(--accent-light); }
-
 	/* ── Deal Cards ───────────────────────────────────────── */
 	.deal-grid { display: grid; gap: 1rem; }
 	.deal-grid--4 { grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); }
@@ -542,19 +422,17 @@ const activeDeals = allPosts.filter(p => !isExpired(p) && isRealDeal(p)).length;
 		border-color: var(--accent-border-hover);
 		background: var(--bg-card-hover);
 	}
-	.deal-card--free {
-		border-color: rgba(76, 175, 80, 0.2);
-	}
-	.deal-card--free:hover {
-		border-color: rgba(76, 175, 80, 0.5);
-	}
+	.deal-card--free { border-color: rgba(76, 175, 80, 0.2); }
+	.deal-card--free:hover { border-color: rgba(76, 175, 80, 0.5); }
+
 	.card-img-wrap { position: relative; overflow: hidden; }
 	.card-img-wrap img {
 		width: 100%; height: 160px;
-		object-fit: cover; display: block; border-radius: 0;
+		object-fit: cover; display: block;
 		transition: transform 0.3s ease;
 	}
 	.deal-card:hover .card-img-wrap img { transform: scale(1.04); }
+
 	.card-body {
 		padding: 0.875rem 1rem 1rem;
 		flex: 1;
@@ -578,9 +456,7 @@ const activeDeals = allPosts.filter(p => !isExpired(p) && isRealDeal(p)).length;
 		transition: color 0.15s;
 		white-space: nowrap;
 	}
-	.deal-card:hover .card-cta {
-		color: var(--accent-light);
-	}
+	.deal-card:hover .card-cta { color: var(--accent-light); }
 
 	/* ── See All ──────────────────────────────────────────── */
 	.see-all { text-align: center; margin-top: 1.75rem; }
@@ -601,7 +477,6 @@ const activeDeals = allPosts.filter(p => !isExpired(p) && isRealDeal(p)).length;
 	/* ── Disclosure ───────────────────────────────────────── */
 	.disclosure {
 		border-top: 1px solid var(--border);
-		border-bottom: 1px solid var(--border);
 		background: var(--bg-low);
 		padding: 0.65rem 1.5rem;
 	}
@@ -612,16 +487,11 @@ const activeDeals = allPosts.filter(p => !isExpired(p) && isRealDeal(p)).length;
 		color: var(--text-muted);
 		text-align: center;
 	}
-	.disclosure-inner a {
-		color: var(--text-muted);
-		text-decoration: underline;
-	}
+	.disclosure-inner a { color: var(--text-muted); text-decoration: underline; }
 
 	/* ── Responsive ───────────────────────────────────────── */
 	@media (max-width: 720px) {
 		.hero-headline { font-size: 2rem; }
-		.feature-card { grid-template-columns: 1fr; }
-		.feature-img img { min-height: 220px; height: 220px; }
 		.deal-grid--4 { grid-template-columns: repeat(2, 1fr); }
 		.deal-grid--3 { grid-template-columns: repeat(2, 1fr); }
 	}

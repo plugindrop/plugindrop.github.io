@@ -22,7 +22,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/16EVxbY-208" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Universal Audio UAD Explore: 8 Free Plugins + LUNA DAW
 
 Free. Eight UAD plugins. A full DAW. That's the headline — and it's real.
@@ -48,12 +47,6 @@ Universal Audio is one of the most respected names in pro audio, known for hardw
 Check the [product page](https://www.uaudio.com/products/uad-explore-free) for the full list of included plug-ins and current system requirements.
 
 ---
-
-## What Producers Are Saying
-
-UAD plug-ins have been a consistent recommendation on forums like KVR Audio and Reddit's [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for years, with users frequently citing their analog accuracy as a differentiator from purely digital alternatives.
-
-UAD Explore FREE is a recent release — community discussion is still building. Check [KVR](https://www.kvraudio.com/) or [r/edmproduction](https://www.reddit.com/r/edmproduction/) for early impressions from producers who've dug into the bundle.
 
 ---
 

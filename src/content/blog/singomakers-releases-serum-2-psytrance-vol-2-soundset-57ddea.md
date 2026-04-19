@@ -22,7 +22,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/iIeeDaLOPWU" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Serum 2 Psytrance Vol. 2?
 
 Singomakers is a well-established sound design label known for genre-specific sample and preset packs across electronic music. Their **Serum 2 Psytrance Vol. 2** is the follow-up to their original psytrance soundset for Xfer Records' Serum 2 — a wavetable synthesizer widely used in electronic music production. The pack is built specifically for producers working in the psytrance genre, providing ready-to-use presets that target the sonic character the style demands.
@@ -40,10 +39,6 @@ Singomakers is a well-established sound design label known for genre-specific sa
 *Check the product page for the exact preset count and full contents list.*
 
 ---
-
-## What Producers Are Saying
-
-This is a newer, niche release — community discussions are still building. Check [KVR Audio](https://www.kvraudio.com/) or [Reddit r/synthesizers](https://www.reddit.com/r/synthesizers/) for early impressions from the Serum user community. Singomakers as a brand does maintain a consistent reputation in sample pack forums for genre-specific accuracy, which is the key thing producers look for in a focused preset pack like this.
 
 ---
 

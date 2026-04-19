@@ -28,10 +28,6 @@ Analogue Micro House is a sample pack from **Thick Sounds**, released on Loopmas
 - **3 Construction Kits** — Full song starters with 6–9 stems each, broken down for easy remixing and arrangement.
 - **Modular purchasing** — Individual sections (drums, bass, synths, etc.) available separately starting at £3.95 if you don't need the full pack.
 
-## What Producers Are Saying
-
-This is a newer release, so community discussions are still building. Micro house is a niche but dedicated genre with an active following on production forums. Check [KVR](https://www.kvraudio.com/) or [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for early impressions. Thick Sounds has an established catalog on Loopmasters spanning house, techno, and bass music — producers familiar with their previous packs will have a sense of the production quality to expect.
-
 ## Who Is It For?
 
 - **Micro house and minimal techno producers** — The 125–128 BPM range and analogue-focused sound design sit squarely in this territory.

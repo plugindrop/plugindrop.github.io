@@ -28,10 +28,6 @@ The Little Labs Voice Of God Bass Resonance is Universal Audio's official plug-i
 - **Low-End Cleanup** — Roll off muddy bass frequencies to improve overall mix clarity.
 - **Native + Hardware Modes** — Runs natively in your DAW or accelerated on Apollo interfaces and UAD Accelerators. Supports VST, VST3, Audio Units, and AAX.
 
-## What Producers Are Saying
-
-The hardware Voice Of God module has a loyal following, particularly among voiceover engineers and hip-hop producers working with 808-heavy mixes. On KVR forums, users have long praised the UAD version for its musical low-end shaping that standard EQs struggle to replicate. Since the native release is fresh, community discussions are still building around this specific version. Check [KVR](https://www.kvraudio.com/product/uad-voice-of-god-vog-by-universal-audio) or [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for early impressions and user feedback.
-
 ## Who Is It For?
 
 - **Hip-Hop & Trap Producers** — Designed for tuning kick drums and 808s with surgical bass control that goes beyond a parametric EQ.

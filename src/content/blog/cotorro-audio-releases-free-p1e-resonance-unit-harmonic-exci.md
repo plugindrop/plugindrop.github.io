@@ -26,10 +26,6 @@ The P1E Resonance Unit is a harmonic exciter plugin from Cotorro Audio. It's des
 
 For full technical specs and system requirements, check the official product page directly.
 
-## What Producers Are Saying
-
-This is a brand-new release from a smaller developer — community discussions are still building. As word spreads through freeware roundups and plugin forums, expect early impressions to surface. Check [KVR](https://cotorroaudio.itch.io/p1eru) or Reddit's r/AudioProductionDeals for user feedback as it rolls in.
-
 ## Who Is It For?
 
 - **Budget-Conscious Producers** — Free is the best price. If you're building a plugin collection without spending a dime, this belongs in the folder.

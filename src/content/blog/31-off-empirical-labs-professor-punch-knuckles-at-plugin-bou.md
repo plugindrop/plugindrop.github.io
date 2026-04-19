@@ -9,6 +9,8 @@ affiliate: https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-
 heroImage: /images/31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou.jpg
 saleExpiry: '2026-04-19'
 discount: "31% OFF"
+dealPrice: "$89.00"
+originalPrice: "$129.00"
 draft: false
 ---
 **TL;DR:** Empirical Labs Professor Punch-Knuckles is currently **31% off** at Plugin Boutique — a rare discount on a plugin from the team behind the legendary Distressor hardware. The deal runs until **April 19, 2026**, so the window is tight. [Grab it here while the price is down.](https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=affiliate-bot&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou&a_aid=69cb95abe1763)

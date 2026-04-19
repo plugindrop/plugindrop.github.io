@@ -29,10 +29,6 @@ Satin Velour is a vocal sample pack from Vital Vocals, released through Loopmast
 - **24-Bit / 44.1 kHz WAV Format** — Professional-quality audio files totalling 1.99 GB.
 - **BPM Range: 75–139 BPM** — Covers everything from slow-burn ballads to uptempo grooves.
 
-## What Producers Are Saying
-
-This is a newer release, so community discussions are still building. Vital Vocals packs generally appear in conversations around vocal-focused production on sites like KVR and Reddit's [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/). Miki Rose's vocal style has been noted in neo-soul and R&B production circles — check those forums for early impressions as they come in.
-
 ## Who Is It For?
 
 - **RnB & Neo-Soul Producers** — Designed specifically for producers working in 2000s-influenced R&B, neo-soul, and contemporary soul genres.

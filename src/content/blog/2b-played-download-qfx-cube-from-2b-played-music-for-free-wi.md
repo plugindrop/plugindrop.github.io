@@ -30,10 +30,6 @@ QFX Cube is a creative effect plugin from 2B Played Music that generates fast re
 - **Distraction-Free Interface** — Part of the QFX One Series philosophy: minimal controls, maximum creativity.
 - **Cross-Platform Support** — Available as VST3 and Audio Unit for both Windows and macOS, including native Apple Silicon support.
 
-## What Producers Are Saying
-
-QFX Cube is a relatively niche release from a smaller developer, so dedicated community discussion threads are limited. That said, 2B Played Music's free giveaway promotions have been spotted on Reddit's r/AudioProductionDeals and covered by sites like Bedroom Producers Blog, which suggests growing awareness. Check [KVR's QFX Cube listing](https://www.kvraudio.com/product/qfx-cube-by-2b-played-music) or Reddit for early impressions and user feedback.
-
 ## Who Is It For?
 
 - **Bedroom Producers on a Budget** — It's free right now. Zero reason not to add a creative spatial tool to your arsenal.

@@ -1,5 +1,5 @@
 ---
-title: "Immense Sounds Halloween Horror Voices Phrases Samples Construction Kits (ADSR Deal)"
+title: "Immense Sounds Halloween Horror Voices Phrases Samples Construction Kits"
 description: "Immense Sounds' Halloween Horror Voices, Phrases & Samples Construction Kits is currently on deal at ADSR Sounds — a focused pack of horror-ready vocal..."
 pubDate: "2026-04-19T08:25:58Z"
 tags: ["adsr", "preset", "presets"]

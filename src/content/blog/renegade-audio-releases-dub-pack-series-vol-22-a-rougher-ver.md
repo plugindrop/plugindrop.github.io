@@ -34,10 +34,6 @@ Renegade Audio's *Dub Pack Series* is a long-running collection of royalty-free 
 
 ---
 
-## What Producers Are Saying
-
-This is a niche release within a long-running series — broad mainstream community discussion is limited, but the Dub Pack Series has a loyal following among reggae and dub producers. Check [KVR Audio](https://www.kvraudio.com) or [Reddit's r/WeAreTheMusicMakers](https://www.reddit.com/r/WeAreTheMusicMakers/) for early impressions from the dub production community. Producers working in the genre frequently recommend Renegade Audio as a go-to source for authentic dub material.
-
 ---
 
 ## Who Is It For?

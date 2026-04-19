@@ -38,10 +38,6 @@ Telepathic Instruments built their reputation on the Orchid — a hardware synth
 
 ---
 
-## What Producers Are Saying
-
-Pistil is a newer release, and community discussions are still building. Check [KVR Audio](https://www.kvraudio.com/) or [Reddit's r/synthesizers](https://www.reddit.com/r/synthesizers/) for early impressions from producers who've gotten hands-on time with it. Telepathic Instruments has a small but engaged following — threads on KVR and Elektronauts tend to surface detailed sound design feedback for boutique synth brands like this one.
-
 ---
 
 ## Who Is It For?

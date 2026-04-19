@@ -30,10 +30,6 @@ Amorph is a text-to-DSP plugin developed by **Artists in DSP** that lets you cre
 - **The Hub** — A built-in community feature for future patch sharing between users.
 - **Bug fixes and stability improvements** — The update addresses issues from the initial beta to smooth out the experience.
 
-## What Producers Are Saying
-
-Amorph is still a newer, niche release in open beta, so community discussions are still building. The concept of AI-generated DSP has sparked curiosity on forums, with producers generally intrigued by the potential but noting that results vary depending on the complexity of what you're trying to create. Check [KVR](https://www.kvraudio.com/) or [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for early impressions and user experiments.
-
 ## Who Is It For?
 
 - **Sound designers and experimenters** — If you love building custom instruments and effects from scratch, this is a playground with virtually no barrier to entry.

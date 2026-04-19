@@ -35,10 +35,6 @@ Dustons is a preset and sound design developer targeting producers who work with
 
 ---
 
-## What Producers Are Saying
-
-Dustons is a niche developer focused on a specific slice of the hardware synth market, so broader community discussions are still building. The Roland JP-8000 and JP-8080 have a dedicated and vocal fanbase on forums like KVR Audio and Reddit communities such as [r/synthesizers](https://www.reddit.com/r/synthesizers/) and [r/synthesizercirclejerk](https://www.reddit.com/r/synthesizercirclejerk/), where the Supersaw sound remains a perennial topic. Users in JP-8000 enthusiast spaces frequently discuss the challenge of programming these synths from scratch — making quality preset libraries a consistently requested resource. Early deal visibility came via [r/newplugindeals](https://www.reddit.com/r/newplugindeals/), where Roland-compatible preset drops typically attract interest from vintage-hardware collectors and emulation users alike.
-
 ---
 
 ## Who Is It For?

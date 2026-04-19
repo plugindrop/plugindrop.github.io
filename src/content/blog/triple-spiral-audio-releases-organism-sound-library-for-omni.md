@@ -26,10 +26,6 @@ Organism is a new sound library for Spectrasonics Omnisphere 3, developed by Tri
 - **Evolving, Organic Textures** — sounds designed to shift and morph over time rather than sit static.
 - **Broad Sound Palette** — categories include soft keys, wide pads, organic motion textures, and clear synths.
 
-## What Producers Are Saying
-
-This is a brand-new release — community discussions are still building. Triple Spiral Audio has a solid reputation in the Omnisphere preset community, with their libraries frequently mentioned on KVR forums and in Omnisphere-focused groups. Check [KVR](https://www.kvraudio.com/) or [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for early impressions as they come in.
-
 ## Who Is It For?
 
 - **Pop & Electronica Producers** — the library is explicitly designed around modern pop and electronica aesthetics, drawing from artists in those genres.

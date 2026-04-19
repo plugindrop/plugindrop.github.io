@@ -27,10 +27,6 @@ Synthcopter is a homebrew Game Boy ROM that turns the classic handheld into a dr
 - **Creative Commons licensed** — Released under CC BY-NC 4.0, allowing free non-commercial use and sharing
 - **Lightweight and portable** — The entire instrument fits in a tiny Game Boy ROM file
 
-## What Producers Are Saying
-
-This is a newer, niche release — community discussions are still building. The initial thread on [Reddit's r/synthesizers](https://www.reddit.com/r/synthesizers/) introduced the project, and it fits squarely into the Game Boy music-making scene that communities like [chipmusic.org](https://chipmusic.org/) and [MOD WIGGLER](https://modwiggler.com/) have championed for years. Game Boy synth tools tend to develop dedicated followings in chiptune and lo-fi ambient circles, so keep an eye on those forums for early impressions.
-
 ## Who Is It For?
 
 - **Chiptune and lo-fi producers** — Anyone already making music with retro hardware will find another tool for the toolkit

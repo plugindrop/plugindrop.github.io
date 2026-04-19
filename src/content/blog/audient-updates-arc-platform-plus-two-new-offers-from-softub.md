@@ -26,10 +26,6 @@ ARC — the Audient Resource Centre — is Audient's centralized hub for hardwar
 - **Excite Audio Lifetime Lite Bundle** — Includes Lifeline Expanse Lite and Lifeline Console Lite, offering 10 rearrangeable effects for production, mixing, and mastering. Combined value: $79/£79.
 - **Learning resources** — Direct access to product tutorials, how-to videos, and educational content.
 
-## What Producers Are Saying
-
-Audient hardware has long been a popular recommendation in budget-friendly interface discussions on Reddit's r/audioproduction and Gearslutz (now Gearspace). The ARC platform relaunch is relatively fresh — community discussions around the new Softube and Excite Audio additions are still building. Check [KVR forums](https://www.kvraudio.com/forum/) or [Reddit](https://www.reddit.com/r/AudioProductionDeals/) for early impressions and user experiences with the updated platform.
-
 ## Who Is It For?
 
 - **Existing Audient hardware owners** — If you already own any Audient interface or console, these plugins are waiting for you at no extra cost. Just register on ARC.

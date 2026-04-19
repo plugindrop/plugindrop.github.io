@@ -31,10 +31,6 @@ Tube Lab is a new vintage channel strip plugin from Fuse Audio Labs, a developer
 - **Flexible module routing** — Reorder the preamp, EQ, and compressor in the signal chain to taste — a feature that sets this apart from most fixed-order channel strips.
 - **14-day fully functional trial** — Test the full plugin before buying, no feature restrictions.
 
-## What Producers Are Saying
-
-This is a brand-new release, so community discussions are still building. Keep an eye on [KVR Audio](https://www.kvraudio.com/) and [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for early impressions. Fuse Audio Labs has earned a solid reputation through its free offerings like the VPRE-72 preamp and VREV-666 spring reverb, so producers familiar with their work will likely be watching this one closely.
-
 ## Who Is It For?
 
 - **Mix engineers looking for analog warmth** — The five tube preamp models are designed to add harmonic character across different saturation flavors.

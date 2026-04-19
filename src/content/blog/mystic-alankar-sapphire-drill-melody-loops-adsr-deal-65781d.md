@@ -34,10 +34,6 @@ Mystic Alankar Sapphire Drill Melody Loops is a sample pack designed for produce
 
 ---
 
-## What Producers Are Saying
-
-Mystic Alankar occupies a niche space where Eastern melodic sensibility meets contemporary street music production. Community discussions are still building around this specific pack — check [KVR Audio](https://www.kvraudio.com) or [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for early impressions from other producers. Producers looking to differentiate their sound away from oversaturated Western drill palettes have increasingly sought out culturally blended sample content, which is the space this pack targets.
-
 ---
 
 ## Who Is It For?

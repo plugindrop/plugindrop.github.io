@@ -11,7 +11,7 @@ tags:
 affiliate: https://www.loopmasters.com/genres/138-Electronica/products/20629-New-Wave-Electronica?utm_source=affiliate-bot&utm_medium=article&utm_campaign=samplestate-launches-new-wave-electronica-sample-pack-b902c5&a_aid=69cb95abe1763
 heroImage: /images/samplestate-launches-new-wave-electronica-sample-pack-b902c5.jpg
 dealPrice: "$34.95"
-draft: false
+draft: true
 ---
 **TL;DR:** Samplestate has dropped a brand-new New Wave Electronica sample pack on Loopmasters, packed with retro-futuristic sounds built for modern productions. If 80s-inspired synth textures, cold drum machines, and post-punk atmosphere are in your toolkit, this is worth a look. [Grab it on Loopmasters](https://www.loopmasters.com/genres/138-Electronica/products/20629-New-Wave-Electronica?utm_source=affiliate-bot&utm_medium=article&utm_campaign=samplestate-launches-new-wave-electronica-sample-pack-b902c5&a_aid=69cb95abe1763) — verify current pricing on the product page.
 
@@ -33,10 +33,6 @@ Samplestate has launched **New Wave Electronica**, a sample pack channeling the 
 - **Multi-format compatibility** — check the product page for confirmed formats (WAV, Rex2, etc.), as available formats vary per release
 
 ---
-
-## What Producers Are Saying
-
-This is a newer release — community discussions are still building. Check [KVR Audio](https://www.kvraudio.com) or [Reddit r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for early impressions as they come in. Samplestate packs generally have a solid reputation in sample-focused forums for genre accuracy and practical loop design, making them a recurring mention when producers ask for niche electronic music content.
 
 ---
 

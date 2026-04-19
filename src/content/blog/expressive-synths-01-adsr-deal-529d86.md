@@ -33,10 +33,6 @@ Expressive Synths 01 is a WAV sample pack available through ADSR Sounds, one of 
 
 ---
 
-## What Producers Are Saying
-
-Expressive Synths 01 appears to be a niche or newer release on ADSR Sounds — broader community discussion is still building. For early impressions and user feedback, check [KVR Audio's sample pack forums](https://www.kvraudio.com/forum/viewforum.php?f=6) or [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/). ADSR Sounds as a platform generally receives strong marks in producer communities for curation quality and licensing clarity, which gives context to what you're buying into.
-
 ---
 
 ## Who Is It For?

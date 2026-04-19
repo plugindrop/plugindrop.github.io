@@ -37,12 +37,6 @@ Space Control 2 is a multiband spatial processing plugin developed by **Acustica
 
 ---
 
-## What Producers Are Saying
-
-Acustica Audio has a dedicated following on **KVR Audio forums**, where users frequently discuss the brand's DSP approach and plugin lineup in depth. Their products tend to attract attention in threads about analog-character processing and spatial tools. Space Control 2 specifically is a niche title — discussions are still building compared to flagship Acustica releases.
-
-For early community impressions and user feedback, check the [KVR Audio product listing](https://www.kvraudio.com) or browse [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) on Reddit where deal posts for Acustica titles tend to generate active comment threads.
-
 ---
 
 ## Who Is It For?

@@ -30,10 +30,6 @@ Stepista is a free MIDI pattern generator plugin by Mr. Jefferson that uses AI a
 - **Built-In Piano Roll Editor** — Edit generated patterns manually, move notes outside the chosen scale for intentional variation, or build patterns from scratch.
 - **Drag-and-Drop MIDI Export** — Drag patterns directly into your DAW's arrangement for further editing and layering.
 
-## What Producers Are Saying
-
-This is a newer release — community discussions are still building. As a free tool, it's likely to pick up traction quickly on forums where producers share freeware finds. Check [KVR](https://www.kvraudio.com/) or [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for early impressions and user feedback as they come in.
-
 ## Who Is It For?
 
 - **Beatmakers fighting writer's block** — Designed to generate instant pattern ideas across drums, bass, and melody when inspiration runs dry.

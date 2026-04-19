@@ -26,10 +26,6 @@ Ali Stone – Rockstar Rave is a new EDM-focused sample pack from Loopmasters, b
 - **MIDI files included** — 3 MIDI files for customizing melodic and harmonic elements with your own sounds
 - **Loopcloud-ready** — browse, preview, and sync directly through Loopmasters' Loopcloud platform
 
-## What Producers Are Saying
-
-This is a newer release — community discussions are still building. The crossover of industrial rave with Latin percussion and bilingual vocals is a fairly niche angle, which may attract attention in production forums. Check [KVR](https://www.kvraudio.com/) or [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for early impressions as producers start working with the pack.
-
 ## Who Is It For?
 
 - **EDM and rave producers** — the 122–148 BPM range and industrial drum programming fit squarely into hard-hitting electronic genres

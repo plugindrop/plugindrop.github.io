@@ -5,6 +5,9 @@ pubDate: "2026-04-19T00:21:57Z"
 tags: ["deal"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/14585-Lindell-Audio-7X-500?utm_source=affiliate-bot&utm_medium=article&utm_campaign=lindell-audio-7x-500-403df6&a_aid=69cb95abe1763"
 heroImage: "/images/lindell-audio-7x-500-403df6.jpg"
+dealPrice: "$10.00"
+originalPrice: "$15.00"
+discount: "33% OFF"
 score: 3.00
 draft: false
 ---

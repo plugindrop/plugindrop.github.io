@@ -36,12 +36,6 @@ This is a short-window flash sale — five days total. If any of these have been
 - **Black Rooster Audio OmniTec 436C — $19:** A vari-mu tube compressor emulation modeled after a classic hardware unit. Vintage warmth for digital mixes at a budget price.
 - **IK Multimedia Sunset Sound Studio Reverb — $29.99:** Captures the legendary live rooms and vintage plate reverbs of the historic Sunset Sound Studios in Los Angeles.
 
-## What Producers Are Saying
-
-Baby Audio's Crystalline has built a strong reputation on mixing forums since its release — users on Reddit's r/AudioProductionDeals frequently mention it as a go-to modern reverb at its price point. UJAM's Beatmaker series is commonly recommended for quick beat sketching, with Vice being a popular pick for synthwave and retro producers.
-
-Sunset Sound Studio Reverb benefits from IK Multimedia's track record with studio-modeled plugins. Black Rooster Audio's compressor emulations are a frequent recommendation in budget plugin threads on KVR. For newer or more niche entries like Nørdic Bass Clarinet and Ace Studio, community discussions are still building — check [KVR](https://www.kvraudio.com/) or [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for early impressions.
-
 ## Who Are These Deals For?
 
 - **Bedroom producers on a budget:** Beatmaker Vice at $9 and the OmniTec 436C at $19 deliver usable tools at throwaway prices.

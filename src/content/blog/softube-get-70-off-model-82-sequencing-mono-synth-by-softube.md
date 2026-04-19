@@ -6,6 +6,8 @@ tags: ["newplugindeals", "softube"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-get-70-off-model-82-sequencing-mono-synth-by-softube&a_aid=69cb95abe1763"
 heroImage: "/images/softube-get-70-off-model-82-sequencing-mono-synth-by-softube.jpg"
 discount: "70% OFF"
+dealPrice: "$29.00"
+originalPrice: "$99.00"
 score: 6.82
 saleExpiry: "2026-04-30"
 draft: false

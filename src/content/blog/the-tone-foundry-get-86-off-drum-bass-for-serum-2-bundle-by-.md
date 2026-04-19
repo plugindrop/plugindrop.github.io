@@ -30,10 +30,6 @@ The Drum & Bass for Serum 2 Bundle is a Plugin Boutique exclusive from The Tone 
 - **Production-Ready Sound Categories** — Basses, leads, pads, arps, atmospheres, and soundscapes designed to sit in a contemporary DnB mix
 - **Serum 2 Exclusive** — Built from the ground up for Serum 2's engine (requires Xfer Records Serum 2)
 
-## What Producers Are Saying
-
-The Tone Foundry has built a following among DnB producers for their genre-specific Serum preset packs. On Reddit's r/AudioProductionDeals, users have noted the quality of their sound design and the range of subgenres covered. This particular bundle is relatively new as a combined offering, so in-depth community discussions are still building. Check [Reddit](https://www.reddit.com/r/AudioProductionDeals/) or [KVR](https://www.kvraudio.com/) for early impressions and user feedback.
-
 ## Who Is It For?
 
 - **Drum & Bass Producers** — The obvious fit. Three packs covering liquid, tech, and deep DnB means less time designing sounds and more time arranging tracks.

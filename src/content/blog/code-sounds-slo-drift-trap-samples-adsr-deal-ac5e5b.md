@@ -35,10 +35,6 @@ Code Sounds Slo Drift Trap Samples is a royalty-free sample pack designed around
 
 ---
 
-## What Producers Are Saying
-
-Slo Drift is a relatively niche, targeted release — broad community discussions are still building. For early impressions and user feedback, check [KVR Audio](https://www.kvraudio.com/) or [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) where trap sample packs from boutique brands tend to surface. Generally, Code Sounds packs are discussed in communities focused on urban and hip-hop production workflows as solid mid-tier options for producers who want stylistically focused content rather than massive, unfocused mega-packs.
-
 ---
 
 ## Who Is It For?

@@ -31,10 +31,6 @@ Korneff Audio is known for characterful analog-modeled plugins. Power Grid Disru
 - **Impact Duck** — Silences the dry signal so impact samples cut through cleanly without masking.
 - **Forward & Backward Playback** — Adjustable time control for reversed builds and sound design flexibility.
 
-## What Producers Are Saying
-
-This is a newer release — community discussions are still building. Early threads on [Reddit's r/freeaudioplugins](https://www.reddit.com/r/freeaudioplugins/) highlight the freebie with enthusiasm, and producers are noting the broad format support including Linux. Check [KVR Audio](https://www.kvraudio.com/) or Reddit for early impressions as more users put it through its paces.
-
 ## Who Is It For?
 
 - **Electronic & EDM Producers** — The glitch engine and tempo-synced stutter effects fit directly into builds, drops, and transitions.

@@ -30,10 +30,6 @@ Excite Audio is an audio plugin developer behind a growing catalog of effect plu
 - **Royalty-Free Content** — Every Bloom instrument ships with royalty-free sounds, ready for commercial productions out of the box.
 - **3-Device Activation** — All Excite Audio plugins can be activated on up to three devices without requiring iLok.
 
-## What Producers Are Saying
-
-Excite Audio is a relatively newer developer in the plugin space, and community discussions are still growing. VISION 4X has picked up attention on [KVR Audio](https://www.kvraudio.com/developer/excite-audio) as a capable metering alternative, with users noting its visual clarity and genre reference curve feature. On Reddit's r/AudioProductionDeals, Excite Audio sales tend to generate interest particularly around their bundle pricing. Check [KVR](https://www.kvraudio.com/developer/excite-audio) or [Gearspace](https://gearspace.com/gear/excite-audio/vision-4x) for current impressions.
-
 ## Who Is It For?
 
 - **Mixing and Mastering Engineers** — The Lifeline series and VISION 4X provide analysis and processing tools designed for mix-critical workflows.
