@@ -5,6 +5,9 @@ pubDate: "2026-04-19T08:25:58Z"
 tags: ["adsr", "preset", "presets"]
 affiliate: "https://www.adsrsounds.com/product/presets/immense-sounds-halloween-horror-voices-phrases-samples-construction-kits/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=immense-sounds-halloween-horror-voices-phrases-samples-const"
 heroImage: "/images/immense-sounds-halloween-horror-voices-phrases-samples-const.jpg"
+dealPrice: "$12.57"
+originalPrice: "$17.95"
+discount: "30% OFF"
 score: 3.10
 draft: false
 ---

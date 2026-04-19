@@ -5,6 +5,7 @@ pubDate: "2026-04-18T23:11:42Z"
 tags: ["newplugindeals", "minimal audio"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=affiliate-bot&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763"
 heroImage: "/images/minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di.jpg"
+discount: "40% OFF"
 score: 4.30
 saleExpiry: "2026-04-30"
 draft: false

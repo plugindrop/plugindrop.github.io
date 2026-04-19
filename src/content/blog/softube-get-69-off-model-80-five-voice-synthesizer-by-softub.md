@@ -5,6 +5,7 @@ pubDate: "2026-04-18T13:40:30Z"
 tags: ["newplugindeals", "softube"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=affiliate-bot&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763"
 heroImage: "/images/softube-get-69-off-model-80-five-voice-synthesizer-by-softub.jpg"
+discount: "69% OFF"
 score: 6.82
 saleExpiry: "2026-04-30"
 draft: false
