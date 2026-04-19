@@ -1,10 +1,13 @@
 ---
-title: "Soundtoys 5 5"
+title: "50% Off Soundtoys 5.5 Effects Bundle at Plugin Boutique"
 description: "Soundtoys 5.5 — one of the most celebrated creative effects bundles in modern production — is currently on sale at Plugin Boutique. Check the product page..."
 pubDate: "2026-04-19T02:32:59Z"
 tags: ["plugin boutique", "plugin", "effects"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?utm_source=affiliate-bot&utm_medium=article&utm_campaign=soundtoys-5-5-plugin-boutique-deal-dea84b&a_aid=69cb95abe1763"
 heroImage: "/images/soundtoys-5-5-plugin-boutique-deal-dea84b.jpg"
+dealPrice: "$299.00"
+originalPrice: "$599.00"
+discount: "50% OFF"
 score: 4.80
 draft: false
 ---
