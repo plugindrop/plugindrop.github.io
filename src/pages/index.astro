@@ -66,6 +66,7 @@ const topDeals = heroPosts
 
 // Latest Drop: most recent deal post (actual deal, not expired)
 const latestDeal = heroPosts.find(p => !isExpired(p) && isRealDeal(p));
+const latestDealDays = latestDeal ? daysLeft(latestDeal) : null;
 
 const topIds = new Set([latestDeal?.id, ...topDeals.map(p => p.id)]);
 
@@ -199,9 +200,9 @@ const activeDeals = allPosts.filter(p => !isExpired(p) && isRealDeal(p)).length;
 									)}
 								</div>
 							)}
-							{(() => { const days = daysLeft(latestDeal); return days !== null && days <= 5 ? (
-								<span class="urgency-badge">⏰ {days === 1 ? 'Last day!' : `${days} days left`}</span>
-							) : null; })()}
+							{latestDealDays !== null && latestDealDays <= 5 && (
+								<span class="urgency-badge">⏰ {latestDealDays === 1 ? 'Last day!' : `${latestDealDays} days left`}</span>
+							)}
 							{latestDeal.data.affiliate && (
 								<span class="via-store">via {getStoreName(latestDeal.data.affiliate)}</span>
 							)}
