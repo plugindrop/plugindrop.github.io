@@ -326,11 +326,20 @@ function getStoreName(url: string | undefined): string {
 			const urlParams = new URLSearchParams(window.location.search);
 			const initialFilter = urlParams.get('filter') || 'all';
 
+			const SALE_TAGS = new Set(['sale', 'deal', 'deals', 'newplugindeals', 'plugindeals', 'flash-sale']);
+
 			function applyFilter(filter: string) {
 				let count = 0;
 				items.forEach((item) => {
-					const tags = (item.dataset.tags || '').split(',');
-					const matches = filter === 'all' || tags.includes(filter);
+					const tags = (item.dataset.tags || '').split(',').map(t => t.trim());
+					let matches: boolean;
+					if (filter === 'all') {
+						matches = true;
+					} else if (filter === 'sale') {
+						matches = tags.some(t => SALE_TAGS.has(t)) || item.dataset.hasPrice === '1';
+					} else {
+						matches = tags.includes(filter);
+					}
 					item.classList.toggle('hidden', !matches);
 					if (matches) count++;
 				});
