@@ -318,7 +318,7 @@ const faqLD = faqPairs.length > 0 ? {
 					</div>
 
 					{/* Deal CTA Box — product widget style */}
-					{affiliate && (dealPrice || saleExpired) && (
+					{affiliate && (dealPrice || discount || saleExpired) && (
 						<div class={`deal-cta-box${saleExpired ? ' sale-expired' : ''}`}>
 							{saleExpired ? (
 								<>
@@ -330,13 +330,15 @@ const faqLD = faqPairs.length > 0 ? {
 								</>
 							) : (
 								<>
-									<div class="deal-price-row">
-										{originalPrice && <span class="deal-price-original">{originalPrice}</span>}
-										<span class={`deal-price-current${dealPrice === 'FREE' ? ' is-free' : ''}`}>{dealPrice}</span>
-										{discount && (
-											<span class={`deal-save-badge${dealPrice === 'FREE' ? ' is-free' : ''}`}>{discount}</span>
-										)}
-									</div>
+									{(dealPrice || discount) && (
+										<div class="deal-price-row">
+											{originalPrice && <span class="deal-price-original">{originalPrice}</span>}
+											{dealPrice && <span class={`deal-price-current${dealPrice === 'FREE' ? ' is-free' : ''}`}>{dealPrice}</span>}
+											{discount && (
+												<span class={`deal-save-badge${dealPrice === 'FREE' ? ' is-free' : ''}`}>{discount}</span>
+											)}
+										</div>
+									)}
 									{dealSource && <div class="deal-source">Available via {dealSource}</div>}
 									<a href={affiliate} class="deal-cta-btn" target="_blank" rel="noopener noreferrer nofollow">
 										{dealPrice === 'FREE' ? 'Get It Free \u2192' : 'Get This Deal \u2192'}
