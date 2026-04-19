@@ -47,8 +47,8 @@
       } else {
         throw new Error(data.error || "Unknown error");
       }
-    } catch (err) {
-      if (msg) { msg.textContent = String(err); msg.className = "nl-msg nl-err"; }
+    } catch {
+      if (msg) { msg.textContent = "Something went wrong. Try again."; msg.className = "nl-msg nl-err"; }
       if (btn) btn.disabled = false;
     }
   });
