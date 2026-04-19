@@ -49,9 +49,9 @@ function isExpired(post: any): boolean {
 const heroPosts = allPosts.filter(hasHeroImage);
 const latestPost = heroPosts[0];
 
-// Top Deals — scored, with hero image, excluding expired sales
+// Top Deals — scored, with hero image, has affiliate link, excluding expired sales
 const topDeals = heroPosts
-	.filter(p => (p.data.dealPrice || p.data.originalPrice) && !isExpired(p))
+	.filter(p => p.data.affiliate && !isExpired(p))
 	.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
 	.slice(0, 4);
 

@@ -267,6 +267,7 @@ function getStoreName(url: string | undefined): string {
 							class="post-item"
 							data-tags={tagsStr}
 							data-has-price={(post.data.dealPrice || post.data.discount) ? '1' : '0'}
+							data-has-affiliate={post.data.affiliate ? '1' : '0'}
 						>
 							<div class="post-thumb-wrap">
 								{typeof post.data.heroImage === 'string'
@@ -337,7 +338,7 @@ function getStoreName(url: string | undefined): string {
 					if (filter === 'all') {
 						matches = true;
 					} else if (filter === 'sale') {
-						matches = tags.some(t => SALE_TAGS.has(t)) || item.dataset.hasPrice === '1';
+						matches = tags.some(t => SALE_TAGS.has(t)) || item.dataset.hasPrice === '1' || item.dataset.hasAffiliate === '1';
 					} else {
 						matches = tags.includes(filter);
 					}
