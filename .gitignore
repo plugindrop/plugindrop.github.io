@@ -2,6 +2,14 @@
 dist/
 # generated types
 .astro/
+# stale legacy build artifacts at repo root (now served from dist/)
+/posts/
+/_astro/
+/about/
+/api/
+/index.html
+/rss.xml
+/sitemap-*.xml
 
 # dependencies
 node_modules/
