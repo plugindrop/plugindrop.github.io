@@ -14,6 +14,11 @@ draft: false
 
 **TL;DR:** Baby Audio's Transit 2 — the motion effects and transition designer plugin built with Andrew Huang — is currently ~~$129~~ **$79 USD**, saving you $50 (38% off). The deal runs through April 12, 2026. If you've been eyeing a one-knob solution for risers, drops, and sweeps, [grab it at Plugin Boutique while the sale lasts](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-transition-designer-plugin-by-baby-audio-on-sale-f&a_aid=69cb95abe1763).
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/um_Z-51nGP4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## What Is Transit 2?
 
 Transit 2 is a motion effects plugin from Baby Audio, developed in collaboration with YouTuber and producer Andrew Huang. It's designed to handle transitions, risers, drops, sweeps, and rhythmic motion — the kind of stuff that normally requires stacking multiple plugins and drawing tedious automation curves. Instead, Transit 2 lets you link multiple effect parameters to a single macro control and sweep them all at once. It runs as a VST, VST3, AU, and AAX plugin (64-bit) on macOS 10.11+ (including Apple Silicon) and Windows 10+.

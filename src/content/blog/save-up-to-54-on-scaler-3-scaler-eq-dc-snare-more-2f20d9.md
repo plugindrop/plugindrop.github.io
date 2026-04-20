@@ -14,6 +14,11 @@ draft: false
 
 **TL;DR:** Scaler Music is running an Easter sale at Plugin Boutique with up to 54% off their lineup — including Scaler 3, Scaler EQ, and DC Snares. Sale prices start at just $29, and bundles bring even deeper value. The sale ends April 9th, so act before it's gone. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9&a_aid=69cb95abe1763).
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/6nlzkAtrz00" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## What Is Scaler 3?
 
 Scaler 3 is a music theory and composition tool developed by Scaler Music (formerly Plugin Boutique's in-house brand). It's designed to help producers discover chords, progressions, and melodies — even without deep theory knowledge. The plugin detects what key and scale you're working in, suggests chord progressions that fit, and provides performance tools to turn those ideas into full arrangements. Scaler has earned multiple awards since its original release and has become one of the most recognized theory tools in the plugin market.

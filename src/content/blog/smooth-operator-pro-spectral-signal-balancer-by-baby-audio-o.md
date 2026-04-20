@@ -16,6 +16,11 @@ draft: false
 
 **TL;DR:** Baby Audio's Smooth Operator Pro — a spectral signal balancer built to tame mud and harsh resonances — is on sale for **$79** (down from ~~$129~~). That's roughly 40% off. The deal runs through **April 12, 2026**. [Grab it at Plugin Boutique before the sale ends.](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o&a_aid=69cb95abe1763)
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/1jx9ON7BOU8" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## What Is Smooth Operator Pro?
 
 Smooth Operator Pro is a spectral signal balancing plugin from Baby Audio, the developer behind popular tools like Crystalline, Comeback Kid, and Super VHS. Rather than working like a traditional EQ where you manually hunt for problem frequencies, Smooth Operator Pro analyzes your signal's spectral content and rebalances it based on a target curve you set. The idea is simple: set your curve, turn the global threshold knob, and let the plugin remove excessive frequency energy — mud, boxiness, harshness — without the tedious node-by-node approach. It's the "Pro" evolution of Baby Audio's original Smooth Operator, adding deeper controls and surgical per-node adjustments for users who want more precision.

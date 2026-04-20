@@ -12,6 +12,11 @@ draft: false
 ---
 **TL;DR:** The DC Snares & BigKick bundle from Plugin Boutique packs two dedicated drum instruments — one for snares, one for kicks — at ~~$98~~ **$45 USD**, saving you 54%. That's roughly $22.50 per plugin for serious drum sound design tools. [Grab the bundle here before the deal ends.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/12750-DC-Snares-BigKick-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-bigkick-plugin-bundle-on-sale-for-45-usd-a47856&a_aid=69cb95abe1763)
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/p9WMLf854Kw" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## What Are DC Snares & BigKick?
 
 This bundle pairs two purpose-built drum instruments from Plugin Boutique. **DC Snares**, designed by multi-award-winning artist Davide Carbone, is a dedicated snare construction kit with layering, synthesis, and a signature "Sizzler" effect. **BigKick** is a kick drum synthesizer that combines sample layering with a tunable body synth, giving you precise control over your low end. Both plugins run as VST, VST3, AU, and AAX on macOS and Windows.

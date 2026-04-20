@@ -13,6 +13,11 @@ draft: true
 ---
 **TL;DR:** Best Service Desert Winds is 33% off right now — ~~$119~~ **$79** — saving you $40 on one of the most expressive Middle Eastern wind instrument libraries available. This deal runs until **April 2nd, 2026**, so the window is tight. [Grab Desert Winds at 33% off here.](https://www.kvraudio.com/marketplace/desert-winds-by-best-service)
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/m0LPoIrxkJg" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## What Is Best Service Desert Winds?
 
 Desert Winds is a virtual instrument library created by sample library designer Eduardo Tarilonte and published by Best Service. It features four solo wind instruments from the Middle East and surrounding regions — **Armenian Duduk, Persian Ney, Turkish Ney, and Zourna** — built from over 2,000 individually recorded samples. The library runs on Best Service's free Engine Player (1.5 or higher) and targets composers working in film scoring, world music, and cinematic production.

@@ -16,6 +16,11 @@ draft: false
 
 ---
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/IpMFfJIB484" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## What Is KONVIKT? Konan Hall's Signature Amp Suite Explained
 
 KONVIKT is a signature amp suite plugin developed by fedDSP in collaboration with Konan Hall — guitarist of Malevolence, the Sheffield-born metalcore outfit known for their thick, aggressive tones. The plugin is designed to capture the specific amp character that defines Malevolence's sound, giving producers and guitarists direct access to that signature heaviness in a digital format.

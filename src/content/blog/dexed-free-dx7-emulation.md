@@ -11,6 +11,11 @@ draft: false
 
 **TL;DR:** Dexed — **free and open source.** A faithful Yamaha DX7 FM synth emulation that loads original DX7 SysEx patches. 6 operators, 32 algorithms, and the iconic FM synthesis engine that defined 80s music. Original DX7 hardware goes for $200+ used. Dexed costs $0. [Get it here](https://asb2m10.github.io/dexed/).
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/wSs1-020nNY" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## What Is Dexed?
 
 Dexed is a free, open-source FM synthesizer by Digital Suburban. It's a software emulation of the Yamaha DX7 — the best-selling synthesizer of the 1980s. The DX7's FM synthesis engine produced the electric pianos, basses, bells, and pads heard across thousands of records. Dexed recreates that engine and can load original DX7 SysEx patch data, giving access to decades of DX7 sounds.

@@ -16,6 +16,11 @@ draft: false
 
 ---
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/VnFUp7SsFiI" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## What Is the Dustons Roland JP-8000 / JP-8080 / JE-8086 Presets Bundle?
 
 Dustons is a preset and sound design developer targeting producers who work with hardware and software synthesizers. This bundle delivers a curated collection of presets designed specifically for three Roland synthesizers: the JP-8000, the JP-8080, and the JE-8086. The Roland JP-8000 and JP-8080 are legendary virtual analog synthesizers from the late 1990s — best known for introducing the now-iconic **Supersaw oscillator**, which defined the sound of trance, early EDM, and modern synthwave. If you own any of these instruments, this bundle offers a ready-to-use patch library without starting from scratch.

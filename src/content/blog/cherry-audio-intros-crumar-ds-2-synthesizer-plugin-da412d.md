@@ -14,6 +14,11 @@ draft: false
 
 **TL;DR:** Cherry Audio just dropped the Crumar DS-2 — a massively expanded plugin recreation of the rare 1978 Italian polysynth — for **$59**. Even better, through April 13, 2026, you can grab it in a Pick 3 bundle for ~~$119~~ **$99** or a Pick 6 bundle for ~~$169~~ **$149**. [Grab the Crumar DS-2 here.](https://cherryaudio.com/products/ds-2-synthesizer)
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/LtKgn9JJC_A" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## What Is the Cherry Audio Crumar DS-2?
 
 The Crumar DS-2 is a software synthesizer from Cherry Audio that recreates — and significantly expands — the original Crumar DS-2 hardware from 1978. The original was a rare Italian multitimbral polysynth that most producers have never even seen in person. Cherry Audio's plugin version keeps the distinctive dual-section architecture (a monophonic Synth section and a polyphonic Poly section) while adding modern features like 32-note polyphony, keyboard splits, extra modulation, and 20 built-in effects. It runs on macOS and Windows in AU, VST, VST3, AAX, and standalone formats.

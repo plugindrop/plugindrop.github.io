@@ -13,6 +13,11 @@ draft: false
 
 ---
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/V8tyUHUdlW4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## Free Kontakt Strings: What Is LUX Orchestral Strings Elements?
 
 Sonuscore is a German developer known for high-production orchestral and cinematic instruments. LUX Orchestral Strings Elements is a free entry point into their LUX Orchestral Strings lineup — built for the free Kontakt Player, meaning no full Kontakt license required.

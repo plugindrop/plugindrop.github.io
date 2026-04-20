@@ -11,6 +11,11 @@ draft: false
 
 **TL;DR:** Surge XT — **free and open source.** A full-featured synthesizer with subtractive, wavetable, and FM synthesis. 3 oscillators, 2 filters, 14 filter algorithms, 1000+ factory presets, and a built-in FX section. This is not a stripped-down free version — it's the whole thing. [Get it here](https://surge-synthesizer.github.io/).
 
+<div class="audio-embed">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1803556615"></iframe>
+</div>
+
+
 ## What Is Surge XT?
 
 Surge XT is a free, open-source hybrid synthesizer. Originally a commercial synth by Vember Audio, it was open-sourced in 2018 and has since been rebuilt by a community of developers. The "XT" version (2022) was a major overhaul — new UI, new features, new oscillator types. It covers subtractive, wavetable, FM, and additive synthesis in one plugin. Comparable commercial synths cost $150-$250.

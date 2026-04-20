@@ -16,6 +16,11 @@ draft: false
 
 **TL;DR:** Portatron by Robotic Bean — the 4-track tape loop synthesizer — is currently 30% off at **$69** (~~regular price~~). That's a solid discount on one of the more unique lo-fi instruments out there. Deal expires **April 12th**. [Grab Portatron at 30% off here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763)
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/OtcAuBR3PmM" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## What Is Portatron?
 
 Portatron is a virtual instrument by Robotic Bean that emulates the experience of a 4-track cassette recorder — think Tascam Portastudio vibes, but inside your DAW. It's part tape machine, part sampler, part Mellotron-style instrument. You load samples onto four independent tape tracks, dial in lo-fi character (wobble, dropout, saturation), and play back everything as drones, loops, or MIDI-triggered notes. It ships with a library of included samples spanning piano, vibraphone, vocals, synths, hydrophones, and shortwave radio recordings. Additional sound packs called "Portapacks" are available separately.

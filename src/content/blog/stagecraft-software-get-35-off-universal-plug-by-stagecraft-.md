@@ -16,6 +16,11 @@ draft: false
 
 **TL;DR:** Universal Plug by Stagecraft Software is currently 35% off — ~~$70~~ **$45.50**. This plugin-wrapper utility lets you load any VST/VST3/AU plugin inside any DAW, solving format lock-in for Logic, Pro Tools, Bitwig, and more. Deal expires April 12th. [Grab it here before the sale ends.](https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=plugindrop&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-&a_aid=69cb95abe1763)
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/xkIUhqFpeb4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## What Is Universal Plug?
 
 Universal Plug is a utility plugin made by Stagecraft Software, a developer based in Chicago, IL. It acts as a plugin wrapper — install it in your DAW, and it lets you load plugin formats that your DAW doesn't natively support. Stuck in Logic Pro but need that one VST-only synth? Universal Plug bridges the gap. It's not a creative effect or instrument; it's plumbing that makes everything else work where it shouldn't.

@@ -13,6 +13,11 @@ draft: false
 ---
 **TL;DR:** Auburn Sounds' Inner Pitch is on sale for $20 — down from its usual ~~$29~~ price tag. That's roughly 31% off a pitch-shifting plugin known for its natural sound quality. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=plugindrop&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us&a_aid=69cb95abe1763) before the price goes back up.
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/ldwd5cfJzqo" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## What Is Inner Pitch?
 
 Inner Pitch is a pitch-shifting effect plugin developed by Auburn Sounds. Its core design philosophy centers on preserving the natural character of source material — pitch changes that sound musical rather than robotic. Destruction and experimental effects are available, but they're opt-in rather than the default. The plugin shipped its 2.0 update as a free upgrade, which improved pitch-shifting accuracy and added a hard-tune robot pitch correction mode for Full Edition users.
