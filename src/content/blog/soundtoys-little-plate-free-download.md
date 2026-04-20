@@ -2,7 +2,7 @@
 title: "Soundtoys Little Plate — FREE Download (Limited Time)"
 description: "Soundtoys Little Plate is free for a limited time — that's $99 off. An EMT 140-modeled plate reverb, grab it while the offer lasts."
 pubDate: "2026-03-27T15:00:00Z"
-tags: ["free", "plugin", "reverb"]
+tags: ["free", "vst-plugin", "reverb", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/4715-Little-Plate?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-little-plate-free-download"
 heroImage: "/images/heroes/soundtoys-little-plate.jpg"
 dealPrice: "FREE"

@@ -2,7 +2,7 @@
 title: "FabFilter Pro-Q 4 — 30% Off Spring Sale"
 description: "FabFilter Pro-Q 4 is 30% off at $132 (save $57). Here's the price context to help you decide if now is the right time."
 pubDate: "2026-03-26T09:00:00Z"
-tags: ["sale", "plugin", "eq"]
+tags: ["sale", "vst-plugin", "eq", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off"
 heroImage: "/images/heroes/fabfilter-pro-q-4.jpg"
 dealPrice: "$132"

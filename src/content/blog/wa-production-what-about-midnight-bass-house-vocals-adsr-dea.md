@@ -2,7 +2,7 @@
 title: "Wa Production What About Midnight Bass House Vocals"
 description: "Wa Production's *What About Midnight Bass House Vocals* is currently on sale at ADSR Sounds — check the product page for the current deal price versus the..."
 pubDate: "2026-04-19T00:21:58Z"
-tags: ["adsr", "preset", "presets"]
+tags: ["sale", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/wa-production-what-about-midnight-bass-house-vocals/?utm_source=plugindrop&utm_medium=article&utm_campaign=wa-production-what-about-midnight-bass-house-vocals-adsr-dea"
 heroImage: "/images/wa-production-what-about-midnight-bass-house-vocals-adsr-dea.jpg"
 dealPrice: "$11.96"

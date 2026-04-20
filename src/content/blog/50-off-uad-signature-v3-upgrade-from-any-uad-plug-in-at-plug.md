@@ -4,7 +4,7 @@ title: 50% off UAD Signature V3 Upgrade from Any UAD Plug-in at Plugin Boutique 
 description: Universal Audio's Signature V3 bundle is currently 50% off as an upgrade
   from any UAD plug-in at Plugin Boutique — one of the steeper discounts UAD has...
 pubDate: '2026-04-17T12:15:18Z'
-tags: []
+tags: ["sale", "music-production"]
 affiliate: https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17065-UAD-Signature-V3-Upgrade-from-Any-UAD-Plug-in?utm_source=plugindrop&utm_medium=article&utm_campaign=50-off-uad-signature-v3-upgrade-from-any-uad-plug-in-at-plug&a_aid=69cb95abe1763
 heroImage: /images/50-off-uad-signature-v3-upgrade-from-any-uad-plug-in-at-plug.jpg
 saleExpiry: '2026-04-30'

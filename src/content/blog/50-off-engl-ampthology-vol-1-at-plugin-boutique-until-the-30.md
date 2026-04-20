@@ -4,7 +4,7 @@ description: ENGL Ampthology Vol 1 — a collection of modeled ENGL guitar ampli
   for your DAW — is currently **50% off at Plugin Boutique until April 30, 2026**.
   If...
 pubDate: '2026-04-17T12:48:57Z'
-tags: []
+tags: ["sale", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?utm_source=plugindrop&utm_medium=article&utm_campaign=50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30&a_aid=69cb95abe1763
 heroImage: /images/50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30.jpg
 discount: "50% OFF"

@@ -4,7 +4,7 @@ title: 31% off Empirical Labs Professor Punch-Knuckles at Plugin Boutique until 
 description: Empirical Labs Professor Punch-Knuckles is currently **31% off** at Plugin
   Boutique — a rare discount on a plugin from the team behind the legendary...
 pubDate: '2026-04-17T12:48:59Z'
-tags: []
+tags: ["sale", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=plugindrop&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou&a_aid=69cb95abe1763
 heroImage: /images/31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou.jpg
 saleExpiry: '2026-04-19'

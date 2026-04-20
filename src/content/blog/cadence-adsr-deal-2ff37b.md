@@ -2,7 +2,7 @@
 title: "30% Off Cadence Preset Pack at ADSR Sounds"
 description: "Cadence is currently discounted on ADSR Sounds — check the product page for the exact savings, but the deal makes this preset pack worth a serious look...."
 pubDate: "2026-04-19T08:25:59Z"
-tags: ["adsr", "preset", "presets"]
+tags: ["sale", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/cadence/?utm_source=plugindrop&utm_medium=article&utm_campaign=cadence-adsr-deal-2ff37b"
 heroImage: "/images/cadence-adsr-deal-2ff37b.jpg"
 dealPrice: "$14"

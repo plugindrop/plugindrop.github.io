@@ -3,7 +3,7 @@ title: XterminatorApps offers 20% off AbletonLiveAAF until April 30
 description: XterminatorApps is running 20% off Abletonlive.aaf — the AAF-to-Ableton
   converter drops from ~~$50~~ to $40 until April 30, 2026. If you're tired of...
 pubDate: '2026-04-03T23:06:03Z'
-tags: []
+tags: ["sale", "music-production"]
 affiliate: https://xterminatorapps.gumroad.com/l/abletonliveaaf/20APRIL
 heroImage: /images/xterminatorapps-offers-20-off-abletonliveaaf-until-april-30.webp
 dealPrice: $40

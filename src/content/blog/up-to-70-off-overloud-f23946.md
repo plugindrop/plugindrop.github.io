@@ -3,7 +3,7 @@ title: Up to 70% off Overloud
 description: Overloud is running up to 70% off across their plugin lineup, with the
   biggest savings on Gems bundles — the **Bundle of 3 Gems** drops from ~~€537~~ to...
 pubDate: '2026-04-02T08:45:15Z'
-tags: []
+tags: ["sale", "music-production"]
 affiliate: https://www.overloud.com/
 heroImage: /images/up-to-70-off-overloud-f23946.webp
 saleExpiry: '2026-04-30'

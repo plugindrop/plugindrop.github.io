@@ -98,7 +98,10 @@ const faqLD = faqPairs.length > 0 ? {
 } : null;
 
 // Product + Offer schema for deal pages (enables price rich results)
-const productLD = (affiliate && dealPrice && !saleExpired) ? {
+// FREE または価格が取得できない場合は Product schema を省略（price=0 は誤シグナル）
+const _isFreePrice = dealPrice?.trim().toUpperCase() === 'FREE';
+const _numericPrice = dealPrice ? dealPrice.replace(/[^0-9.]/g, '') : '';
+const productLD = (affiliate && dealPrice && !saleExpired && !_isFreePrice && _numericPrice) ? {
 	"@context": "https://schema.org",
 	"@type": "Product",
 	"name": title,
@@ -108,7 +111,7 @@ const productLD = (affiliate && dealPrice && !saleExpired) ? {
 		"@type": "Offer",
 		"url": affiliate,
 		"priceCurrency": "USD",
-		"price": dealPrice.replace(/[^0-9.]/g, '') || "0",
+		"price": _numericPrice,
 		"availability": "https://schema.org/InStock",
 		"seller": { "@type": "Organization", "name": dealSource || "PluginDrop" },
 		...(saleExpiry ? { "priceValidUntil": new Date(saleExpiry).toISOString().split('T')[0] } : {}),

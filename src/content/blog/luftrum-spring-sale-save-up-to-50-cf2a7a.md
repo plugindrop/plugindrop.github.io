@@ -3,7 +3,7 @@ title: Luftrum Spring Sale - Save Up to 50%
 description: Luftrum's Spring Sale is live — save up to 50% on their catalog of synth
   soundsets and Kontakt instruments. Latest releases are 20–30% off, while catalog...
 pubDate: '2026-04-03T10:19:13Z'
-tags: []
+tags: ["sale", "music-production"]
 affiliate: https://www.luftrum.com/synthpresets/
 heroImage: /images/luftrum-spring-sale-save-up-to-50-cf2a7a.webp
 saleExpiry: '2026-04-30'

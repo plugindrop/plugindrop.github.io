@@ -2,7 +2,7 @@
 title: "Softube — Get 69% off Model 80 Five Voice Synthesizer by Softube"
 description: "Softube's Model 80 Five Voice Synthesizer is currently **69% off** at Plugin Boutique — a rare deep discount on a classic-inspired analog synth. Check the..."
 pubDate: "2026-04-18T13:40:30Z"
-tags: ["newplugindeals", "softube"]
+tags: ["sale", "softube", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763"
 heroImage: "/images/softube-get-69-off-model-80-five-voice-synthesizer-by-softub.jpg"
 dealPrice: "$49.00"

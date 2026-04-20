@@ -2,7 +2,7 @@
 title: "Spitfire Audio LABS — 80+ FREE Instruments (Always Free)"
 description: "Spitfire Audio LABS offers 80+ free sample-based instruments including Soft Piano, Strings, Choir, and Drums. Permanently free, no strings attached."
 pubDate: "2026-03-20T10:00:00Z"
-tags: ["free", "plugin", "samples", "instruments"]
+tags: ["free", "instruments", "music-production"]
 affiliate: "https://labs.spitfireaudio.com/"
 heroImage: "/images/heroes/spitfire-labs.jpg"
 dealPrice: "FREE"
