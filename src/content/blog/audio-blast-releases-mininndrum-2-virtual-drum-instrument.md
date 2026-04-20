@@ -6,7 +6,7 @@ pubDate: '2026-04-14T23:26:37Z'
 tags: ["instruments", "aax", "au", "audio blast", "clap", "drum machine", "drums", "sale", "vst", "music-production"]
 affiliate: https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/17144-MininnDrum2?utm_source=plugindrop&utm_medium=article&utm_campaign=audio-blast-releases-mininndrum-2-virtual-drum-instrument&a_aid=69cb95abe1763
 heroImage: /images/audio-blast-releases-mininndrum-2-virtual-drum-instrument.jpg
-dealPrice: "$0"
+dealPrice: "FREE"
 draft: false
 score: 2.46
 ---

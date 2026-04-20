@@ -9,7 +9,7 @@ tags: ["freeaudioplugins", "korneff audio", "music-production"]
 affiliate: https://korneffaudio.com/product/power-grid-disruptor/
 heroImage: /images/korneff-audio-korneff-audio-has-released-yesterday-power-gri.webp
 aiImage: true
-dealPrice: "$0"
+dealPrice: "FREE"
 draft: false
 score: 1.54
 ---

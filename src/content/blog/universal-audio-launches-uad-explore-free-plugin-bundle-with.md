@@ -7,7 +7,7 @@ pubDate: '2026-04-16T03:18:35Z'
 tags: ["news", "free software", "mac", "windows", "music-production"]
 affiliate: https://www.uaudio.com/products/uad-explore-free
 heroImage: /images/universal-audio-launches-uad-explore-free-plugin-bundle-with.jpg
-dealPrice: "$0"
+dealPrice: "FREE"
 draft: false
 score: 2.28
 ---

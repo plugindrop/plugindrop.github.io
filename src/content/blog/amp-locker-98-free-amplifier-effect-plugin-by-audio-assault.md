@@ -6,7 +6,7 @@ pubDate: '2026-04-02T07:35:26Z'
 tags: ["effects", "aax", "amplifier", "au", "audio assault", "free", "vst", "music-production"]
 affiliate: https://audioassault.mx/amplocker98
 heroImage: /images/amp-locker-98-free-amplifier-effect-plugin-by-audio-assault.jpg
-dealPrice: "$0"
+dealPrice: "FREE"
 draft: false
 score: 1.38
 ---

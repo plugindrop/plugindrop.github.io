@@ -4,7 +4,6 @@ description: "Vital is a free wavetable synth with visual modulation, 3 oscillat
 pubDate: "2026-03-17T09:00:00Z"
 tags: ["free", "vst-plugin", "synth", "music-production"]
 affiliate: "https://vital.audio/"
-heroImage: "/images/heroes/vital.jpg"
 dealPrice: "FREE"
 draft: false
 score: 1.65

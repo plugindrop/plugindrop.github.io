@@ -99,9 +99,10 @@ const faqLD = faqPairs.length > 0 ? {
 
 // Product + Offer schema for deal pages (enables price rich results)
 // FREE または価格が取得できない場合は Product schema を省略（price=0 は誤シグナル）
-const _isFreePrice = dealPrice?.trim().toUpperCase() === 'FREE';
+const _rawPrice = dealPrice?.trim().toUpperCase().replace(/[$€£¥]/g, '') ?? '';
+const _isFreePrice = _rawPrice === 'FREE' || _rawPrice === '0' || _rawPrice === '0.00';
 const _numericPrice = dealPrice ? dealPrice.replace(/[^0-9.]/g, '') : '';
-const productLD = (affiliate && dealPrice && !saleExpired && !_isFreePrice && _numericPrice) ? {
+const productLD = (affiliate && dealPrice && !saleExpired && !_isFreePrice && _numericPrice && _numericPrice !== '0') ? {
 	"@context": "https://schema.org",
 	"@type": "Product",
 	"name": title,
@@ -575,15 +576,15 @@ const relatedPosts = allPosts
 									{(dealPrice || discount) && (
 										<div class="deal-price-row">
 											{originalPrice && <span class="deal-price-original">{originalPrice}</span>}
-											{dealPrice && <span class={`deal-price-current${dealPrice?.trim().toUpperCase() === 'FREE' ? ' is-free' : ''}`}>{dealPrice}</span>}
+											{dealPrice && <span class={`deal-price-current${_isFreePrice ? ' is-free' : ''}`}>{_isFreePrice ? 'FREE' : dealPrice}</span>}
 											{discount && (
-												<span class={`deal-save-badge${dealPrice?.trim().toUpperCase() === 'FREE' ? ' is-free' : ''}`}>{discount}</span>
+												<span class={`deal-save-badge${_isFreePrice ? ' is-free' : ''}`}>{discount}</span>
 											)}
 										</div>
 									)}
 									{dealSource && <div class="deal-source">Available via {dealSource}</div>}
 									<a href={affiliate} class="deal-cta-btn" target="_blank" rel="noopener noreferrer nofollow">
-										{dealPrice?.trim().toUpperCase() === 'FREE' ? 'Get It Free \u2192' : 'Get This Deal \u2192'}
+										{_isFreePrice ? 'Get It Free \u2192' : 'Get This Deal \u2192'}
 									</a>
 								</>
 							)}
@@ -633,9 +634,9 @@ const relatedPosts = allPosts
 		{/* Sticky CTA bar — mobile only, only for articles with affiliate links */}
 		{affiliate && (
 			<div class="sticky-cta">
-				<span class="sticky-title">{saleExpired ? title : (dealPrice ? `${dealPrice} — ${title}` : title)}</span>
+				<span class="sticky-title">{saleExpired ? title : (dealPrice ? `${_isFreePrice ? 'FREE' : dealPrice} — ${title}` : title)}</span>
 				<a href={affiliate} class="deal-cta-btn" target="_blank" rel="noopener noreferrer nofollow">
-					{saleExpired ? 'View Price' : (dealPrice?.trim().toUpperCase() === 'FREE' ? 'Get Free' : 'Get Deal')}
+					{saleExpired ? 'View Price' : (_isFreePrice ? 'Get Free' : 'Get Deal')}
 				</a>
 			</div>
 		)}

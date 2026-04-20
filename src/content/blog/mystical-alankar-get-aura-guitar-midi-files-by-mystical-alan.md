@@ -8,7 +8,7 @@ tags: ["newplugindeals", "mystical alankar", "music-production"]
 affiliate: https://audioplugin.deals/product/aura-guitar-midi-files-by-mystical-alankar/ref/21/
 heroImage: /images/mystical-alankar-get-aura-guitar-midi-files-by-mystical-alan.webp
 aiImage: true
-dealPrice: "$0"
+dealPrice: "FREE"
 originalPrice: "$20"
 saleExpiry: '2026-04-30'
 draft: false

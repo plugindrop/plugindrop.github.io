@@ -4,7 +4,6 @@ description: "Dexed is a free, open-source DX7 FM synth emulation. Loads origina
 pubDate: "2026-03-24T09:00:00Z"
 tags: ["free", "vst-plugin", "synth", "fm", "music-production"]
 affiliate: "https://asb2m10.github.io/dexed/"
-heroImage: "/images/heroes/dexed.jpg"
 dealPrice: "FREE"
 draft: false
 score: 1.56

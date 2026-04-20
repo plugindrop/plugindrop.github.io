@@ -4,7 +4,6 @@ description: "Spitfire Audio LABS offers 80+ free sample-based instruments inclu
 pubDate: "2026-03-20T10:00:00Z"
 tags: ["free", "instruments", "music-production"]
 affiliate: "https://labs.spitfireaudio.com/"
-heroImage: "/images/heroes/spitfire-labs.jpg"
 dealPrice: "FREE"
 draft: false
 score: 1.68

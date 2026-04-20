@@ -8,7 +8,6 @@ affiliate: https://stepista.vercel.app
 heroImage: /images/i-made-a-free-ai-midi-pattern-generator-plugin-vst3-would-lo.webp
 aiImage: true
 dealPrice: "FREE"
-originalPrice: "$0"
 draft: false
 score: 1.41
 ---

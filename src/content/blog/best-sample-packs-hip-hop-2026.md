@@ -1,6 +1,6 @@
 ---
 title: "Best Hip-Hop Sample Packs 2026: Loops, Drums & Sounds for Producers"
-description: "The best hip-hop sample packs of 2026 — from classic boom bap drum kits to modern trap loops. Royalty-free packs for drums, bass, melodies, and full construction kits."
+description: "The best hip-hop sample packs of 2026 — boom bap drum kits to modern trap loops. Royalty-free packs covering drums, bass, melodies, and full construction kits."
 pubDate: "2026-04-20T00:00:00Z"
 tags: ["sample-pack", "hip-hop", "drums", "loops", "music-production"]
 heroImage: "/images/best-sample-packs-hip-hop-2026.jpg"

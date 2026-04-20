@@ -4,7 +4,6 @@ description: "iZotope Vinyl is a free lo-fi vinyl simulation plugin with dust, s
 pubDate: "2026-03-22T14:00:00Z"
 tags: ["free", "vst-plugin", "effects", "lofi", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/7091-Vinyl?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-vinyl-free-lofi-plugin"
-heroImage: "/images/heroes/izotope-vinyl.jpg"
 dealPrice: "FREE"
 draft: false
 score: 1.89
