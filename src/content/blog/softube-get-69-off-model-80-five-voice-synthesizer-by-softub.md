@@ -8,7 +8,7 @@ heroImage: "/images/softube-get-69-off-model-80-five-voice-synthesizer-by-softub
 dealPrice: "$49.00"
 originalPrice: "$159.00"
 discount: "69% OFF"
-score: 6.82
+score: 8.5
 saleExpiry: "2026-04-30"
 draft: false
 ---

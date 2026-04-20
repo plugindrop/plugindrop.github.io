@@ -8,7 +8,7 @@ heroImage: "/images/softube-get-70-off-model-82-sequencing-mono-synth-by-softube
 discount: "70% OFF"
 dealPrice: "$29.00"
 originalPrice: "$99.00"
-score: 6.82
+score: 7.65
 saleExpiry: "2026-04-30"
 draft: false
 ---

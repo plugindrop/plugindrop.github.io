@@ -4,7 +4,7 @@ description: "The best hip-hop sample packs of 2026 — from classic boom bap dr
 pubDate: "2026-04-20T00:00:00Z"
 tags: ["sample-pack", "hip-hop", "drums", "loops", "music-production"]
 heroImage: "/images/best-sample-packs-hip-hop-2026.jpg"
-score: 9.1
+score: 5.4
 draft: false
 affiliate: "https://www.pluginboutique.com/genres/5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-sample-packs-hip-hop-2026"
 ---

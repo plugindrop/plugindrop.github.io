@@ -8,7 +8,7 @@ heroImage: "/images/cadence-adsr-deal-2ff37b.jpg"
 dealPrice: "$14"
 originalPrice: "$20"
 discount: "30% OFF"
-score: 3.00
+score: 5.77
 draft: false
 ---
 **TL;DR:** Cadence is currently discounted on ADSR Sounds — check the product page for the exact savings, but the deal makes this preset pack worth a serious look. Grab it here: [Cadence on ADSR Sounds](https://www.adsrsounds.com/product/presets/cadence/?utm_source=plugindrop&utm_medium=article&utm_campaign=cadence-adsr-deal-2ff37b).

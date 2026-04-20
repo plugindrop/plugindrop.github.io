@@ -5,7 +5,7 @@ pubDate: "2026-04-20T12:43:28Z"
 tags: ["sales and promotions", "au", "audible genius", "plugin boutique", "sale", "training", "tutorial", "vst"]
 affiliate: "https://www.pluginboutique.com/product/66-Music-Courses/78-Video-Courses/10674-Syntorial-2?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=syntorial-2-training-software-synth-by-audible-genius-on-sal"
 heroImage: "/images/syntorial-2-training-software-synth-by-audible-genius-on-sal.jpg"
-score: 4.92
+score: 11.67
 dealPrice: "$78.00"
 originalPrice: "$129.99"
 draft: false

@@ -5,7 +5,7 @@ pubDate: "2026-04-20T11:40:16Z"
 tags: ["adsr", "plugin", "synth"]
 affiliate: "https://www.adsrsounds.com/product/software/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instrument/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr"
 heroImage: "/images/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr.png"
-score: 3.40
+score: 5.76
 dealPrice: "$73.98"
 draft: false
 ---
