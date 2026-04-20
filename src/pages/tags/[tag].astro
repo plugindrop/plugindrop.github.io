@@ -6,17 +6,24 @@ import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 
+const slugifyTag = (t: string): string => t.trim().toLowerCase().replace(/\s+/g, '-');
+
 export async function getStaticPaths() {
+	const _slugify = (t: string) => t.trim().toLowerCase().replace(/\s+/g, '-');
 	const posts = await getCollection('blog');
-	const tagSet = new Set<string>();
+	// Map from slug → original tag for filtering
+	const tagSlugMap = new Map<string, string>();
 	for (const post of posts) {
 		for (const tag of (post.data.tags ?? [])) {
-			if (tag && tag.trim()) tagSet.add(tag.trim().toLowerCase());
+			if (tag && tag.trim()) {
+				const slug = _slugify(tag);
+				if (!tagSlugMap.has(slug)) tagSlugMap.set(slug, tag.trim().toLowerCase());
+			}
 		}
 	}
-	return [...tagSet].map(tag => ({
-		params: { tag },
-		props: { tag },
+	return [...tagSlugMap.entries()].map(([slug, _rawTag]) => ({
+		params: { tag: slug },
+		props: { tag: slug },
 	}));
 }
 
@@ -24,7 +31,7 @@ const { tag } = Astro.props;
 
 const allPosts = await getCollection('blog');
 const posts = allPosts
-	.filter(p => !p.data.draft && (p.data.tags ?? []).map((t: string) => t.toLowerCase()).includes(tag))
+	.filter(p => !p.data.draft && (p.data.tags ?? []).some((t: string) => slugifyTag(t) === tag))
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const tagDisplay = tag.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());

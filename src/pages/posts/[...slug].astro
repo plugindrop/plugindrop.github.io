@@ -17,6 +17,6 @@ const readingTime = Math.max(1, Math.round(wordCount / 250));
 const { Content } = await render(post);
 ---
 
-<BlogPost {...post.data} readingTime={`${readingTime} min read`} rawBody={post.body ?? ''}>
+<BlogPost {...post.data} readingTime={`${readingTime} min read`} rawBody={post.body ?? ''} slug={post.id}>
 	<Content />
 </BlogPost>
