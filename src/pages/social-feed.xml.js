@@ -4,9 +4,9 @@ import { SITE_TITLE } from '../consts';
 
 // 研究ベース: 3-5投稿/日が最適、10超はマイナス効果
 const SCORE_THRESHOLD = 7.0;   // 上位15%程度に絞る
-const MAX_PER_DAY = 3;          // スパイク日も最大3件/日
+const MAX_PER_DAY = 5;          // スパイク日も最大5件/日
 const RECENT_DAYS = 7;
-const MAX_ITEMS = 21;           // 7日 × 3件/日
+const MAX_ITEMS = 35;           // 7日 × 5件/日
 
 export async function GET(context) {
 	const allPosts = await getCollection('blog');
