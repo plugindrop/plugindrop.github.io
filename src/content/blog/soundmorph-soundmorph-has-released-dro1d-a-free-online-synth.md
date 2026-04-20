@@ -1,5 +1,5 @@
 ---
-title: "SoundMorph — SoundMorph has released DRO1D, a free online synthesizer. Expiry: None [FREE]"
+title: "SoundMorph — SoundMorph has released DRO1D, a free online synthesizer"
 description: "SoundMorph's DRO1D is a fully free online synthesizer — no download, no account, no catch. ~~Paid~~ → **$0**. Grab it directly at soundmorph.com."
 pubDate: "2026-04-20T05:34:52Z"
 tags: ["newplugindeals", "soundmorph"]

@@ -1,6 +1,5 @@
 ---
-title: Mystical Alankar — Get Aura - Guitar MIDI Files by Mystical Alankar free (regularly
-  $20). [FREE]
+title: "Mystical Alankar — Get Aura - Guitar MIDI Files by Mystical Alankar free (regularly $20)"
 description: Aura - Guitar MIDI Files by Mystical Alankar is dropping from ~~$20~~
   to **$0**. That's a full freebie on a dedicated guitar MIDI library. Grab it now
   at...

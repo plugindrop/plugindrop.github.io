@@ -165,7 +165,7 @@ const breadcrumbLD = {
 								<p class="post-title">
 									{post.data.title}
 									<span class="free-badge">FREE</span>
-									{post.data.dealPrice && post.data.dealPrice.trim() !== '' && (
+									{post.data.dealPrice && !['FREE', '$0', '0'].includes(post.data.dealPrice.trim().toUpperCase()) && (
 										<span class="deal-price">{post.data.dealPrice}</span>
 									)}
 								</p>
