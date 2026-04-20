@@ -6,6 +6,8 @@ tags: ["sales and promotions", "aax", "au", "delay", "plugin boutique", "reverb"
 affiliate: "https://www.pluginboutique.com/product/2-Effects/10-Delay/8658-Mirror?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-60-on-mirror-reverse-negative-delay-by-united-plugins"
 heroImage: "/images/save-60-on-mirror-reverse-negative-delay-by-united-plugins.jpg"
 score: 3.24
+dealPrice: "$28.00"
+originalPrice: "$69.00"
 draft: false
 ---
 **TL;DR:** Mirror by United Plugins and JMG Sound is down 60% at Plugin Boutique right now. If you've been hunting for a delay that does reverse and negative pre-delay in one plugin, this is worth a serious look. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/8658-Mirror?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-60-on-mirror-reverse-negative-delay-by-united-plugins) before it expires.
