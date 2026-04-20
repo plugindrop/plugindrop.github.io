@@ -9,7 +9,7 @@ import { SITE_TITLE } from '../consts';
 
 type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?: string; slug?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, score, readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
 const imageStr = typeof heroImage === 'string' ? heroImage : undefined;
 
 // Check if sale has expired
@@ -107,6 +107,15 @@ const productLD = (affiliate && dealPrice && !saleExpired && !_isFreePrice && _n
 	"name": title,
 	"description": description,
 	...(resolvedImage ? { "image": resolvedImage } : {}),
+	...(score ? {
+		"aggregateRating": {
+			"@type": "AggregateRating",
+			"ratingValue": String(score),
+			"bestRating": "10",
+			"worstRating": "1",
+			"ratingCount": "1",
+		},
+	} : {}),
 	"offers": {
 		"@type": "Offer",
 		"url": affiliate,
@@ -117,6 +126,21 @@ const productLD = (affiliate && dealPrice && !saleExpired && !_isFreePrice && _n
 		...(saleExpiry ? { "priceValidUntil": new Date(saleExpiry).toISOString().split('T')[0] } : {}),
 	},
 } : null;
+
+// Internal link: tag → Best guide mapping
+const BEST_GUIDE_MAP: Record<string, { label: string; slug: string }> = {
+	'eq':         { label: 'Best EQ Plugins 2026',          slug: 'best-eq-plugins-2026' },
+	'compressor': { label: 'Best Compressor Plugins 2026',  slug: 'best-compressor-plugins-2026' },
+	'reverb':     { label: 'Best Reverb Plugins 2026',      slug: 'best-reverb-plugins-2026' },
+	'synth':      { label: 'Best Synth Plugins 2026',       slug: 'best-synth-plugins-2026' },
+	'mixing':     { label: 'Best Mixing Plugins 2026',      slug: 'best-mixing-plugins-2026' },
+	'hip-hop':    { label: 'Best Hip-Hop Sample Packs',     slug: 'best-sample-packs-hip-hop-2026' },
+};
+const bestGuides = tags
+	.map((t: string) => BEST_GUIDE_MAP[t])
+	.filter(Boolean)
+	.filter((g, i, arr) => arr.findIndex(x => x.slug === g.slug) === i)
+	.slice(0, 3);
 
 // Related posts: same tags, exclude current slug
 const allPosts = await getCollection('blog');
@@ -274,6 +298,80 @@ const relatedPosts = allPosts
 			.related-info { display: flex; flex-direction: column; gap: 0.2rem; }
 			.related-item-title { font-size: 0.9rem; font-weight: 600; line-height: 1.3; }
 			.related-price { font-size: 0.8rem; color: var(--accent); font-weight: 700; }
+			/* Countdown timer */
+			.deal-countdown {
+				display: flex;
+				gap: 0.5rem;
+				align-items: center;
+				margin-bottom: 0.75rem;
+				font-size: 0.8rem;
+				color: var(--text-muted);
+			}
+			.countdown-label { color: var(--text-muted); }
+			.countdown-time {
+				display: flex;
+				gap: 0.35rem;
+			}
+			.countdown-unit {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				background: var(--bg-hover);
+				border-radius: 4px;
+				padding: 0.25rem 0.4rem;
+				min-width: 36px;
+			}
+			.countdown-num {
+				font-size: 1rem;
+				font-weight: 700;
+				color: var(--accent-light);
+				line-height: 1;
+			}
+			.countdown-sep { color: var(--accent); font-weight: 700; align-self: flex-start; margin-top: 2px; }
+			/* Score badge */
+			.deal-score {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.3rem;
+				font-size: 0.82rem;
+				color: var(--text-muted);
+				margin-bottom: 0.5rem;
+			}
+			.deal-score-val {
+				font-weight: 700;
+				color: var(--accent-light);
+				font-size: 0.95rem;
+			}
+			/* Best guide callout */
+			.best-guide-box {
+				margin: 1.5rem 0;
+				padding: 0.9rem 1rem;
+				background: var(--bg-card);
+				border: 1px solid var(--border);
+				border-left: 3px solid var(--accent);
+				border-radius: var(--radius);
+			}
+			.best-guide-label {
+				font-size: 0.75rem;
+				text-transform: uppercase;
+				letter-spacing: 0.05em;
+				color: var(--text-muted);
+				margin-bottom: 0.4rem;
+			}
+			.best-guide-links {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.4rem;
+			}
+			.best-guide-link {
+				font-size: 0.85rem;
+				color: var(--accent-light);
+				text-decoration: none;
+				padding: 0.2rem 0.5rem;
+				border: 1px solid var(--accent-muted);
+				border-radius: 20px;
+			}
+			.best-guide-link:hover { background: var(--accent-muted); }
 		</style>
 		<!-- Global iframe/video styles (markdown content lacks Astro scoping CIDs) -->
 		<style is:global>
@@ -356,6 +454,24 @@ const relatedPosts = allPosts
 						wrap.appendChild(iframe);
 					}
 				});
+				// Countdown timer
+				const cdEl = document.getElementById('deal-countdown');
+				if (cdEl) {
+					const expiry = new Date(cdEl.dataset.expiry || '').getTime();
+					const tick = () => {
+						const diff = expiry - Date.now();
+						if (diff <= 0) { cdEl.style.display = 'none'; return; }
+						const d = Math.floor(diff / 86400000);
+						const h = Math.floor((diff % 86400000) / 3600000);
+						const m = Math.floor((diff % 3600000) / 60000);
+						const fmt = (n: number) => String(n).padStart(2, '0');
+						document.getElementById('cd-d')!.textContent = String(d);
+						document.getElementById('cd-h')!.textContent = fmt(h);
+						document.getElementById('cd-m')!.textContent = fmt(m);
+					};
+					tick();
+					setInterval(tick, 60000);
+				}
 				// Track affiliate link clicks in GA4
 				document.querySelectorAll('.deal-cta-btn, .sticky-cta a').forEach(link => {
 					link.addEventListener('click', () => {
@@ -440,6 +556,24 @@ const relatedPosts = allPosts
 								</>
 							) : (
 								<>
+									{score && (
+										<div class="deal-score">
+											<span class="deal-score-val">★ {score.toFixed(1)}</span>
+											<span>/ 10 — Editor Score</span>
+										</div>
+									)}
+									{saleExpiry && (
+										<div class="deal-countdown" id="deal-countdown" data-expiry={new Date(saleExpiry).toISOString()}>
+											<span class="countdown-label">Deal ends in</span>
+											<div class="countdown-time">
+												<div class="countdown-unit"><span class="countdown-num" id="cd-d">--</span><span style="font-size:0.65rem">d</span></div>
+												<span class="countdown-sep">:</span>
+												<div class="countdown-unit"><span class="countdown-num" id="cd-h">--</span><span style="font-size:0.65rem">h</span></div>
+												<span class="countdown-sep">:</span>
+												<div class="countdown-unit"><span class="countdown-num" id="cd-m">--</span><span style="font-size:0.65rem">m</span></div>
+											</div>
+										</div>
+									)}
 									{(dealPrice || discount) && (
 										<div class="deal-price-row">
 											{originalPrice && <span class="deal-price-original">{originalPrice}</span>}
@@ -460,6 +594,17 @@ const relatedPosts = allPosts
 
 					<!-- Article content (from markdown) -->
 					<slot />
+
+					{bestGuides.length > 0 && (
+						<div class="best-guide-box">
+							<div class="best-guide-label">See our buying guides</div>
+							<div class="best-guide-links">
+								{bestGuides.map((g: { label: string; slug: string }) => (
+									<a href={`/posts/${g.slug}/`} class="best-guide-link">{g.label} →</a>
+								))}
+							</div>
+						</div>
+					)}
 
 					<div class="affiliate-disclosure">
 						<p>This post contains affiliate links. We may earn a small commission at no extra cost to you.</p>
