@@ -1,31 +1,41 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import { SITE_TITLE } from '../consts';
 
-type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?: string };
+type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?: string; slug?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, readingTime = '3 min read', rawBody = '' } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
 const imageStr = typeof heroImage === 'string' ? heroImage : undefined;
 
 // Check if sale has expired
 const saleExpired = saleExpiry ? new Date(saleExpiry) < new Date() : false;
 
-// Derive store name from affiliate URL for display in deal CTA box
+// Derive store name from affiliate URL — netloc-based for accuracy
 function getDealSource(url: string): string {
 	if (!url) return '';
-	if (url.includes('pluginboutique.com')) return 'Plugin Boutique';
-	if (url.includes('kvraudio.com')) return 'KVR Audio';
-	if (url.includes('adsrsounds.com')) return 'ADSR Sounds';
-	if (url.includes('loopmasters.com')) return 'Loopmasters';
-	if (url.includes('splice.com')) return 'Splice';
-	if (url.includes('sweetwater.com')) return 'Sweetwater';
-	if (url.includes('thomann.de')) return 'Thomann';
-	if (url.includes('waves.com')) return 'Waves';
-	try { return new URL(url).hostname.replace('www.', ''); } catch { return ''; }
+	try {
+		const netloc = new URL(url).hostname.replace('www.', '');
+		const MAP: Record<string, string> = {
+			'pluginboutique.com': 'Plugin Boutique',
+			'kvraudio.com': 'KVR Audio',
+			'adsrsounds.com': 'ADSR Sounds',
+			'loopmasters.com': 'Loopmasters',
+			'splice.com': 'Splice',
+			'sweetwater.com': 'Sweetwater',
+			'thomann.de': 'Thomann',
+			'waves.com': 'Waves',
+			'native-instruments.com': 'Native Instruments',
+			'arturia.com': 'Arturia',
+			'izotope.com': 'iZotope',
+			'plugin-alliance.com': 'Plugin Alliance',
+		};
+		return MAP[netloc] ?? netloc;
+	} catch { return ''; }
 }
 const dealSource = affiliate ? getDealSource(affiliate) : '';
 const resolvedImage = imageStr ? new URL(imageStr, Astro.site).href : undefined;
