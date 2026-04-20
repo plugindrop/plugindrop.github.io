@@ -6,6 +6,8 @@ tags: ["sales and promotions", "aax", "au", "mark knight", "multi fx", "plugin b
 affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/9129-Infinite?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=infinite-multi-effect-plugin-by-toolroom-on-sale-for-29-usd"
 heroImage: "/images/infinite-multi-effect-plugin-by-toolroom-on-sale-for-29-usd.jpg"
 score: 4.32
+dealPrice: "$29.00"
+originalPrice: "$59.00"
 draft: false
 ---
 **TL;DR:** Toolroom's Infinite multi-effect plugin is currently on sale for **$29 USD** at Plugin Boutique — a solid entry point for a plugin built around the sonic identity of one of house music's most respected labels. If you've been eyeing a dedicated multi-effect unit for dance and electronic production, [grab Infinite at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/9129-Infinite?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=infinite-multi-effect-plugin-by-toolroom-on-sale-for-29-usd) before the price reverts.

@@ -6,6 +6,7 @@ tags: ["adsr", "plugin", "synth"]
 affiliate: "https://www.adsrsounds.com/product/software/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instrument/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr"
 heroImage: "/images/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr.png"
 score: 3.40
+dealPrice: "$73.98"
 draft: false
 ---
 **TL;DR:** AIR Music Technology's Fabric Vintage Jup is currently on sale at ADSR Sounds — a rare discount on a Jupiter-inspired soft synth that usually holds its price. Check the exact savings (use ~~strikethrough~~ pricing visible on the product page) and [grab the deal here](https://www.adsrsounds.com/product/software/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instrument/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr) before it expires.
