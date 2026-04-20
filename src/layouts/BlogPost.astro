@@ -96,6 +96,33 @@ const faqLD = faqPairs.length > 0 ? {
 		"acceptedAnswer": { "@type": "Answer", "text": stripMarkdown(f.a) },
 	})),
 } : null;
+
+// Product + Offer schema for deal pages (enables price rich results)
+const productLD = (affiliate && dealPrice && !saleExpired) ? {
+	"@context": "https://schema.org",
+	"@type": "Product",
+	"name": title,
+	"description": description,
+	...(resolvedImage ? { "image": resolvedImage } : {}),
+	"offers": {
+		"@type": "Offer",
+		"url": affiliate,
+		"priceCurrency": "USD",
+		"price": dealPrice.replace(/[^0-9.]/g, '') || "0",
+		"availability": "https://schema.org/InStock",
+		"seller": { "@type": "Organization", "name": dealSource || "PluginDrop" },
+		...(saleExpiry ? { "priceValidUntil": new Date(saleExpiry).toISOString().split('T')[0] } : {}),
+	},
+} : null;
+
+// Related posts: same tags, exclude current slug
+const allPosts = await getCollection('blog');
+const relatedPosts = allPosts
+	.filter(p => !p.data.draft && p.id !== currentSlug && p.id.replace(/\.mdx?$/, '') !== currentSlug)
+	.map(p => ({ ...p, score: p.data.tags?.filter((t: string) => tags.includes(t)).length ?? 0 }))
+	.filter(p => p.score > 0)
+	.sort((a, b) => b.score - a.score || b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+	.slice(0, 3);
 ---
 
 <!doctype html>
