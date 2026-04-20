@@ -9,8 +9,10 @@ affiliate: https://flamesound.gumroad.com/l/chimera
 heroImage: /images/win-chimera-cinematic-vital-presets-flame-sound-easter-sale-.jpg
 discount: "80% OFF"
 dealPrice: "$29"
+originalPrice: "$145"
+saleExpiry: "2026-04-06"
 draft: false
-score: 3.5
+score: 5.74
 ---
 
 **TL;DR:** Flame Sound is running an Easter Sale (April 3–6, 2026) with **30% off** all products using code **EASTER26** — plus a hidden Easter Egg discount hitting up to **~83% off** on a mystery product. On top of that, **3 free copies of Chimera**, a cinematic preset pack for the free Vital synth, are up for grabs via email signup. [Grab the deals before April 6 →](https://flamesound.gumroad.com/l/chimera)

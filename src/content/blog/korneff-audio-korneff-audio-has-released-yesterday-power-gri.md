@@ -11,7 +11,7 @@ heroImage: /images/korneff-audio-korneff-audio-has-released-yesterday-power-gri.
 aiImage: true
 dealPrice: "$0"
 draft: false
-score: 1.61
+score: 1.75
 ---
 **TL;DR:** Korneff Audio's Power Grid Disruptor — a glitch, distortion, and impact FX plugin — is **free right now** (limited time). No coupon needed, just grab it from [the product page](https://korneffaudio.com/product/power-grid-disruptor/). Mac, Windows, and Linux supported. Expiry unknown, so don't sit on this one.
 

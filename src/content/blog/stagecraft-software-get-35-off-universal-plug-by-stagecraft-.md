@@ -12,7 +12,7 @@ originalPrice: $70
 saleExpiry: '2026-04-12'
 aiImage: true
 draft: false
-score: 4.39
+score: 4.46
 ---
 
 **TL;DR:** Universal Plug by Stagecraft Software is currently 35% off — ~~$70~~ **$45.50**. This plugin-wrapper utility lets you load any VST/VST3/AU plugin inside any DAW, solving format lock-in for Logic, Pro Tools, Bitwig, and more. Deal expires April 12th. [Grab it here before the sale ends.](https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=plugindrop&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-&a_aid=69cb95abe1763)

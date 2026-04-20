@@ -10,7 +10,7 @@ dealPrice: "$18"
 originalPrice: "$30"
 discount: "40% OFF"
 draft: false
-score: 2.85
+score: 3.02
 ---
 **TL;DR:** Mystic Alankar's *Sapphire Drill Melody Loops* is currently available at a deal price through ADSR Sounds — a loop pack that fuses Eastern melodic textures with modern drill production. If you've been searching for something that cuts through the noise of generic trap kits, [grab it here while the deal is live](https://www.adsrsounds.com/product/presets/mystic-alankar-sapphire-drill-melody-loops/?utm_source=plugindrop&utm_medium=article&utm_campaign=mystic-alankar-sapphire-drill-melody-loops-adsr-deal-65781d).
 

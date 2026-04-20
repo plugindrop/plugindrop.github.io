@@ -4,7 +4,7 @@ description: "The best compressor plugins of 2026 — from free FET and VCA tool
 pubDate: "2026-04-20T00:00:00Z"
 tags: ["compressor", "vst-plugin", "mixing", "roundup", "music-production"]
 heroImage: "/images/best-compressor-plugins-2026.jpg"
-score: 5.7
+score: 5.9
 draft: false
 affiliate: "https://www.pluginboutique.com/genres/1/plugins/type/3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-compressor-plugins-2026"
 ---

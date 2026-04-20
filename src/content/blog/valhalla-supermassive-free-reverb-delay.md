@@ -6,8 +6,9 @@ tags: ["free", "vst-plugin", "reverb", "delay", "music-production"]
 affiliate: "https://valhalladsp.com/shop/reverb/valhalla-supermassive/"
 heroImage: "/images/heroes/valhalla-supermassive.jpg"
 dealPrice: "FREE"
+originalPrice: "$50"
 draft: false
-score: 1.8
+score: 2.46
 ---
 
 **TL;DR:** Valhalla Supermassive — **permanently free.** Not a trial. Not a limited giveaway. Free forever. This is from Valhalla DSP, the same team behind VintageVerb and Plate ($50 each). 18+ reverb/delay modes, near-zero CPU hit. [Download it here](https://valhalladsp.com/shop/reverb/valhalla-supermassive/).

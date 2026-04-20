@@ -8,8 +8,9 @@ tags: ["news", "ai", "free software", "mac", "windows", "music-production"]
 affiliate: https://stepista.vercel.app
 heroImage: /images/mr-jefferson-releases-stepista-a-free-ai-assisted-midi-patte.jpg
 dealPrice: "FREE"
+originalPrice: "$49"
 draft: false
-score: 1.44
+score: 1.93
 ---
 **TL;DR:** Mr. Jefferson just dropped **Stepista**, an AI-assisted MIDI pattern generator — and it's **completely free**. No ~~$49~~ sale price, no coupon code. Just free. It generates drum patterns, basslines, melodies, and grooves using AI and music-theory algorithms across 24 genre presets. [Grab Stepista for free here.](https://stepista.vercel.app)
 

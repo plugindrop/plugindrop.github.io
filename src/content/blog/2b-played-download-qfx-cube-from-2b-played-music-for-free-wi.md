@@ -8,8 +8,9 @@ affiliate: https://2bplayed.com/product/qfx-cube/
 heroImage: /images/2b-played-download-qfx-cube-from-2b-played-music-for-free-wi.webp
 aiImage: true
 dealPrice: "FREE"
+saleExpiry: "2026-04-20"
 draft: false
-score: 1.44
+score: 1.5
 ---
 ---
 

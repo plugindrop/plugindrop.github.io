@@ -12,7 +12,7 @@ originalPrice: $129
 saleExpiry: '2026-04-12'
 aiImage: true
 draft: false
-score: 5.88
+score: 6.02
 ---
 
 **TL;DR:** Baby Audio's Smooth Operator Pro — a spectral signal balancer built to tame mud and harsh resonances — is on sale for **$79** (down from ~~$129~~). That's roughly 40% off. The deal runs through **April 12, 2026**. [Grab it at Plugin Boutique before the sale ends.](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o&a_aid=69cb95abe1763)

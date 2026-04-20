@@ -6,8 +6,9 @@ tags: ["free", "vst-plugin", "reverb", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/4715-Little-Plate?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-little-plate-free-download"
 heroImage: "/images/heroes/soundtoys-little-plate.jpg"
 dealPrice: "FREE"
+originalPrice: "$99"
 draft: false
-score: 2.16
+score: 2.97
 ---
 
 **TL;DR:** Soundtoys Little Plate — normally $99, **right now it's free.** That's 100% off an EMT 140-modeled plate reverb. Soundtoys giveaways don't happen often and don't last long. [Grab it here](https://www.pluginboutique.com/product/2-Effects/17-Reverb/4715-Little-Plate?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-little-plate-free-download) while it's still up.

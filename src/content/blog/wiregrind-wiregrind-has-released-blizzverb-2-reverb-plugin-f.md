@@ -6,7 +6,7 @@ tags: ["newplugindeals", "wiregrind"]
 affiliate: "https://www.wiregrind.com/blizzverb/"
 heroImage: "/images/wiregrind-wiregrind-has-released-blizzverb-2-reverb-plugin-f.webp"
 aiImage: true
-score: 6.77
+score: 7.1
 dealPrice: "$29"
 originalPrice: "$50"
 saleExpiry: "2026-04-23"

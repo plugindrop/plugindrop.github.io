@@ -8,6 +8,7 @@ affiliate: https://www.synthcopter.com/
 heroImage: /images/synthcopter-a-free-drone-synth-toy-for-game-boy-4b7427.webp
 aiImage: true
 dealPrice: "FREE"
+originalPrice: "$0"
 draft: false
 score: 1.5
 ---

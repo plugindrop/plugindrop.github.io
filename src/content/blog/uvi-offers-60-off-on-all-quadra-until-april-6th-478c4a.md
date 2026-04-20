@@ -11,7 +11,7 @@ originalPrice: $149
 saleExpiry: '2026-04-06'
 aiImage: true
 draft: false
-score: 6.51
+score: 6.65
 ---
 
 **TL;DR:** UVI is running 60% off on every instrument in the Quadra series — each drops from ~~$149~~ to just **$59** until April 6th. Four multi-instrument and sequence designers at under sixty bucks each is serious value. [Grab the deal here before it expires](https://www.uvi.net/store).

@@ -11,7 +11,7 @@ originalPrice: $69.00
 saleExpiry: '2026-04-12'
 aiImage: true
 draft: false
-score: 5.71
+score: 5.63
 ---
 **TL;DR:** Audified's ToneKnob Ultimate Bundle is now **50% off** — down to **$34.50** (reg. ~~$69.00~~) at Plugin Boutique until **April 12th**. If you want a full suite of tone-shaping tools in one shot, [grab it here before it expires](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15324-ToneKnob-Ultimate-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=audified-get-50-off-toneknob-ultimate-bundle-by-audified-the&a_aid=69cb95abe1763).
 

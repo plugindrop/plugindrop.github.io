@@ -8,7 +8,7 @@ heroImage: "/images/producerlife-2-multi-genre-loops-shots-presets-kits-adsr-dea
 dealPrice: "$16.8"
 originalPrice: "$24"
 discount: "30% OFF"
-score: 7.8
+score: 8.0
 draft: false
 ---
 **TL;DR:** Producerlife 2 is a massive multi-genre sample collection — loops, one-shots, presets, and kits all in one bundle — currently discounted at ADSR Sounds. Check the product page for the current deal price and savings. [Grab it here before the price changes.](https://www.adsrsounds.com/product/presets/producerlife-2-multi-genre-loops-shots-presets-kits/?utm_source=plugindrop&utm_medium=article&utm_campaign=producerlife-2-multi-genre-loops-shots-presets-kits-adsr-dea)

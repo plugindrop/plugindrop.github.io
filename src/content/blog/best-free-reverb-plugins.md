@@ -6,8 +6,9 @@ tags: ["free", "vst-plugin", "reverb", "roundup", "music-production"]
 affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-plugins"
 heroImage: "/images/heroes/best-free-reverb.jpg"
 dealPrice: "FREE"
+originalPrice: "$99,"
 draft: false
-score: 1.92
+score: 2.73
 ---
 
 **TL;DR:** 7 free reverb plugins that cover plates, halls, rooms, and experimental ambient spaces. Valhalla Supermassive leads for massive tails and creative effects. OrilRiver and Dragonfly handle classic algorithmic reverb. All free, no trials.

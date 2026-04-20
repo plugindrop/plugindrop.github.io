@@ -5,7 +5,7 @@ pubDate: "2026-04-20T07:44:34Z"
 tags: ["sales and promotions", "audiority", "sale"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/10-Delay/8565-Space-Station-UM282?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1"
 heroImage: "/images/audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1.jpg"
-score: 5.94
+score: 6.05
 draft: false
 ---
 **TL;DR:** Plugin Boutique's Boutique Week sale takes 50% off Audiority's effect plugin lineup — including delay, reverb, distortion, and compression tools. If you've been eyeing Audiority's boutique-style processors, this is a rare chance to grab them at half price. [Check current prices and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/10-Delay/8565-Space-Station-UM282?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1)

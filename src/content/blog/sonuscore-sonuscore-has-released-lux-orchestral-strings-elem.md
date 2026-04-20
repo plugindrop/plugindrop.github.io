@@ -5,7 +5,7 @@ pubDate: "2026-04-20T05:34:50Z"
 tags: ["freeaudioplugins", "sonuscore"]
 affiliate: "https://www.sonuscore.com/shop/lux-orchestral-strings-elements/"
 heroImage: "/images/sonuscore-sonuscore-has-released-lux-orchestral-strings-elem.jpg"
-score: 6.93
+score: 7.15
 dealPrice: "FREE"
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "The best EQ plugins of 2026 compared — from FabFilter Pro-Q 3 to
 pubDate: "2026-04-20T00:00:00Z"
 tags: ["eq", "vst-plugin", "mixing", "roundup", "music-production"]
 heroImage: "/images/best-eq-plugins-2026.jpg"
-score: 7.5
+score: 7.7
 draft: false
 affiliate: "https://www.pluginboutique.com/genres/1/plugins/type/4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-eq-plugins-2026"
 ---
