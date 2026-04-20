@@ -49,9 +49,9 @@ FreqBlender is a new release, so community discussions are still building. Check
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
-| ~~Full price~~ | 40% off intro price | 40% |
+| ~~$49~~ | **$29** | $20 (40% off) |
 
-*Exact prices aren't confirmed here — verify the current deal price directly on the product page, as intro pricing can change or expire.*
+*Intro pricing — verify the current price on the product page as it can change or expire.*
 
 Minor Drama is a smaller boutique studio, and intro launch discounts like this typically have a limited window before reverting to full price. There's no established sale history to reference yet since this appears to be a new release. If the price and workflow fit, intro deals are generally the lowest pricing a plugin sees at launch.
 
