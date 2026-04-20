@@ -7,6 +7,8 @@ affiliate: "https://minordrama.studio/plugins/freqblender/"
 heroImage: "/images/minor-drama-minor-drama-has-released-freqblender-multiband-m.png"
 score: 5.04
 saleExpiry: "2026-04-21"
+dealPrice: "$29"
+originalPrice: "$49"
 draft: false
 ---
 **TL;DR:** Minor Drama's new multiband mix knob plugin FreqBlender is launching at 40% off as an intro deal — a solid window to grab it before the price normalizes. Check the current deal price and grab it at [minordrama.studio](https://minordrama.studio/plugins/freqblender/) before the intro offer ends.

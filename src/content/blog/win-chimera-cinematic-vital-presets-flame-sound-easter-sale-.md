@@ -8,6 +8,7 @@ tags: ["news", "deals", "giveaway", "hot", "wav", "music-production"]
 affiliate: https://flamesound.gumroad.com/l/chimera
 heroImage: /images/win-chimera-cinematic-vital-presets-flame-sound-easter-sale-.jpg
 discount: "80% OFF"
+dealPrice: "$29"
 draft: false
 ---
 
