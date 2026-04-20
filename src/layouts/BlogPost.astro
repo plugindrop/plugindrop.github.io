@@ -107,7 +107,7 @@ const productLD = (affiliate && dealPrice && !saleExpired && !_isFreePrice && _n
 	"name": title,
 	"description": description,
 	...(resolvedImage ? { "image": resolvedImage } : {}),
-	...(score ? {
+	...(false ? {  // score は内部ランキング用のためAggregateRatingには使わない
 		"aggregateRating": {
 			"@type": "AggregateRating",
 			"ratingValue": String(score),
@@ -556,12 +556,7 @@ const relatedPosts = allPosts
 								</>
 							) : (
 								<>
-									{score && (
-										<div class="deal-score">
-											<span class="deal-score-val">★ {score.toFixed(1)}</span>
-											<span>/ 10 — Editor Score</span>
-										</div>
-									)}
+									{/* score は内部ランキング用 — UI非表示 */}
 									{saleExpiry && (
 										<div class="deal-countdown" id="deal-countdown" data-expiry={new Date(saleExpiry).toISOString()}>
 											<span class="countdown-label">Deal ends in</span>
