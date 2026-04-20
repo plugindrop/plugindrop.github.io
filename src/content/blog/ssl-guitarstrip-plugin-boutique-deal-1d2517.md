@@ -1,5 +1,5 @@
 ---
-title: "SSL Guitarstrip (Plugin Boutique Deal)"
+title: "SSL Guitarstrip"
 description: "SSL Guitarstrip is currently on deal at Plugin Boutique, bringing Solid State Logic's legendary console processing to your guitar tracks at a reduced..."
 pubDate: "2026-04-19T23:09:54Z"
 tags: ["vst-plugin", "effects", "music-production"]

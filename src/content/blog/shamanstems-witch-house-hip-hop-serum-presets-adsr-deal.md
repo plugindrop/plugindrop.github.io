@@ -1,11 +1,13 @@
 ---
-title: "Shamanstems Witch House Hip Hop Serum Presets (ADSR Deal)"
+title: "Shamanstems Witch House Hip Hop Serum Presets"
 description: "Shamanstems' Witch House Hip Hop Serum Presets are available now on ADSR Sounds — a dark, atmospheric preset pack for Xfer Serum built specifically for..."
 pubDate: "2026-04-20T04:25:34Z"
 tags: ["vst-plugin", "serum", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/shamanstems-witch-house-hip-hop-serum-presets/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=shamanstems-witch-house-hip-hop-serum-presets-adsr-deal"
 heroImage: "/images/shamanstems-witch-house-hip-hop-serum-presets-adsr-deal.jpg"
 score: 4.90
+dealPrice: "$25"
+originalPrice: "$179.77"
 draft: false
 ---
 **TL;DR:** Shamanstems' Witch House Hip Hop Serum Presets are available now on ADSR Sounds — a dark, atmospheric preset pack for Xfer Serum built specifically for witch house and trap production. Check current pricing and grab the deal [directly on ADSR Sounds](https://www.adsrsounds.com/product/presets/shamanstems-witch-house-hip-hop-serum-presets/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=shamanstems-witch-house-hip-hop-serum-presets-adsr-deal).
