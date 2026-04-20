@@ -6,7 +6,8 @@ pubDate: '2026-04-03T12:38:00Z'
 tags: ["sales and promotions", "aax", "amplifier", "au", "contest", "giveaway", "marshall", "mercuriall audio software", "vst", "music-production"]
 affiliate: https://rekkerd.org/giveaway-contest-win-spark-amplifier-by-mercuriall-audio-2x/
 heroImage: /images/giveaway-contest-win-spark-amplifier-by-mercuriall-audio-2x.jpg
-dealPrice: "$99.99"
+dealPrice: "FREE"
+originalPrice: "$99.99"
 draft: false
 score: 1.74
 ---
