@@ -4,8 +4,7 @@ description: "Cherry Audio's Mercury-6 — a faithful software recreation of the
 pubDate: "2026-04-20T13:18:32Z"
 tags: ["sales and promotions", "aax", "au", "cherry audio", "plugin boutique", "sale", "synthesizer", "vst"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd"
-heroImage: "/images/mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd.jpg"
-score: 6.12
+score: 9.0
 dealPrice: "$29.00"
 originalPrice: "$59.00"
 draft: false

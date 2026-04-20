@@ -3,21 +3,13 @@ title: 'News: Universal Audio Launches Little Labs Voice Of God Bass Resonance P
 description: Universal Audio has just launched the Little Labs Voice of God Bass Resonance
   plugin — a digital recreation of the legendary hardware unit designed to add...
 pubDate: '2026-04-14T11:43:38Z'
-tags:
-- news
-- bass
-- deals
-- effects
-- eq
-- kick
-- mastering
-- mixing
-- native
-- resonance
+tags: ["news", "bass", "deals", "effects", "eq", "kick", "mastering", "mixing", "native", "resonance", "music-production"]
 affiliate: https://www.uaudio.com/products/little-labs-voice-of-god
 heroImage: /images/news-universal-audio-launches-little-labs-voice-of-god-bass-.webp
 aiImage: true
+dealPrice: "$49"
 draft: false
+score: 4.84
 ---
 **TL;DR:** Universal Audio has just launched the Little Labs Voice of God Bass Resonance plugin — a digital recreation of the legendary hardware unit designed to add weight and sub-harmonic presence to your low end. New releases from UA don't sit unnoticed for long. [Grab it at the official UA store.](https://www.uaudio.com/products/little-labs-voice-of-god)
 

@@ -2,13 +2,13 @@
 title: "Minimal Audio — Get 40% off Current 2.0 by Minimal Audio"
 description: "Minimal Audio is offering 40% off Current 2.0, their flagship synthesizer — a rare discount on one of the more technically ambitious synths released in..."
 pubDate: "2026-04-18T23:11:42Z"
-tags: ["newplugindeals", "minimal audio"]
+tags: ["sale", "minimal audio", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=plugindrop&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763"
 heroImage: "/images/minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di.jpg"
 discount: "40% OFF"
 dealPrice: "$119.00"
 originalPrice: "$199.00"
-score: 4.30
+score: 8.55
 saleExpiry: "2026-04-30"
 draft: false
 ---

@@ -3,13 +3,14 @@ title: Up to 70% off Overloud
 description: Overloud is running up to 70% off across their plugin lineup, with the
   biggest savings on Gems bundles — the **Bundle of 3 Gems** drops from ~~€537~~ to...
 pubDate: '2026-04-02T08:45:15Z'
-tags: []
+tags: ["sale", "music-production"]
 affiliate: https://www.overloud.com/
 heroImage: /images/up-to-70-off-overloud-f23946.webp
 saleExpiry: '2026-04-30'
 aiImage: true
 discount: "70% OFF"
 draft: false
+score: 2.45
 ---
 **TL;DR:** Overloud is running up to 70% off across their plugin lineup, with the biggest savings on Gems bundles — the **Bundle of 3 Gems** drops from ~~€537~~ to **€159**, and the **Bundle of 5 Gems** goes from ~~€815~~ to **€249**. Individual Gem plugins start at ~~€139~~ **€69**. If you've had your eye on Overloud's analog-modeled processors or TH-U amp sims, this is a strong time to jump in. [Grab the deals on KVR Marketplace](https://www.overloud.com/).
 

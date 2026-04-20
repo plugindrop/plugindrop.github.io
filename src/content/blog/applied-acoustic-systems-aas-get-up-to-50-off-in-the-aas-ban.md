@@ -4,15 +4,14 @@ title: '[Applied Acoustic Systems (AAS)] Get up to 50% off in the AAS Band Month
 description: Applied Acoustics Systems is running its Band Month Sale with up to 50%
   off instruments, effects, bundles, and sound packs. That means flagship physical...
 pubDate: '2026-04-04T13:06:29Z'
-tags:
-- newplugindeals
-- applied acoustic systems aas
+tags: ["newplugindeals", "applied acoustic systems aas", "music-production"]
 affiliate: https://www.pluginboutique.com/deals/22636?utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban&a_aid=69cb95abe1763
 heroImage: /images/applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban.webp
 saleExpiry: '2026-04-20'
 aiImage: true
 discount: "50% OFF"
 draft: false
+score: 3.5
 ---
 **TL;DR:** Applied Acoustics Systems is running its Band Month Sale with up to 50% off instruments, effects, bundles, and sound packs. That means flagship physical modeling synths normally ~~$199~~ could drop to around $99, and The Integral bundle (~~$899~~) to roughly $449. Sale runs through April 20th — [grab the deal at Plugin Boutique](https://www.pluginboutique.com/deals/22636?utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban&a_aid=69cb95abe1763).
 

@@ -3,16 +3,14 @@ title: Shamanstems The Eerie Beats Samples Loops
 description: Shamanstems' *The Eerie Beats Samples & Loops* is live on ADSR Sounds
   at a deal price — grab it now before the offer changes. If you produce dark,...
 pubDate: '2026-04-17T13:58:57Z'
-tags:
-- adsr
-- preset
-- presets
+tags: ["adsr", "preset", "presets", "music-production"]
 affiliate: https://www.adsrsounds.com/product/presets/shamanstems-the-eerie-beats-samples-loops/?utm_source=plugindrop&utm_medium=article&utm_campaign=shamanstems-the-eerie-beats-samples-loops-adsr-deal-ee65b6
 heroImage: /images/shamanstems-the-eerie-beats-samples-loops-adsr-deal-ee65b6.jpg
 dealPrice: "$25"
 originalPrice: "$179.77"
 discount: "86% OFF"
 draft: false
+score: 4.04
 ---
 **TL;DR:** Shamanstems' *The Eerie Beats Samples & Loops* is live on ADSR Sounds at a deal price — grab it now before the offer changes. If you produce dark, cinematic, or experimental beats, this pack is worth a look. [Check the current deal price on ADSR Sounds.](https://www.adsrsounds.com/product/presets/shamanstems-the-eerie-beats-samples-loops/?utm_source=plugindrop&utm_medium=article&utm_campaign=shamanstems-the-eerie-beats-samples-loops-adsr-deal-ee65b6)
 

@@ -1,11 +1,13 @@
 ---
-title: "SSL Guitarstrip (Plugin Boutique Deal)"
+title: "SSL Guitarstrip"
 description: "SSL Guitarstrip is currently on deal at Plugin Boutique, bringing Solid State Logic's legendary console processing to your guitar tracks at a reduced..."
 pubDate: "2026-04-19T23:09:54Z"
-tags: ["plugin boutique", "plugin", "effects"]
+tags: ["vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/9572-SSL-Guitarstrip?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=ssl-guitarstrip-plugin-boutique-deal-1d2517"
 heroImage: "/images/ssl-guitarstrip-plugin-boutique-deal-1d2517.jpg"
-score: 4.50
+score: 8.47
+dealPrice: "$19.99"
+originalPrice: "$99.00"
 draft: false
 ---
 **TL;DR:** SSL Guitarstrip is currently on deal at Plugin Boutique, bringing Solid State Logic's legendary console processing to your guitar tracks at a reduced price. If you've been holding out on adding an SSL-grade channel strip to your guitar chain, this is worth a look. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/9572-SSL-Guitarstrip?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=ssl-guitarstrip-plugin-boutique-deal-1d2517)

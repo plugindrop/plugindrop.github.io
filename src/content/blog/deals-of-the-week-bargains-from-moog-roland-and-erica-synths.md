@@ -3,20 +3,11 @@ title: 'Deals of the Week: Bargains from Moog, Roland and Erica Synths!'
 description: 'Three solid hardware deals this week: the **Roland SP-404 MKII** sampler
   is **26% off** at Thomann, the **Moog Messenger** analog synth is discounted by...'
 pubDate: '2026-04-04T06:14:23Z'
-tags:
-- deals
-- analog
-- deal
-- deals
-- deals of the week
-- delay
-- effect
-- messenger
-- sampler
-- sampling
+tags: ["deals", "analog", "deal", "deals", "deals of the week", "delay", "effect", "messenger", "sampler", "sampling", "music-production"]
 affiliate: https://www.gearnews.com/deals-of-the-week-moog-roland-erica-synths/
 heroImage: /images/deals-of-the-week-bargains-from-moog-roland-and-erica-synths.jpg
 draft: false
+score: 2.24
 ---
 **TL;DR:** Three solid hardware deals this week: the **Roland SP-404 MKII** sampler is **26% off** at Thomann, the **Moog Messenger** analog synth is discounted by 6%, and the **Erica Synths Zen Delay** is 5% off. The SP-404 MKII deal is the standout — if you've been eyeing one, this is a strong time to pull the trigger. [Check all three deals here.](https://www.gearnews.com/deals-of-the-week-moog-roland-erica-synths/)
 

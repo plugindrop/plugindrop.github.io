@@ -4,19 +4,23 @@ title: '[Stagecraft Software] Get 35% off Universal Plug by Stagecraft Software.
 description: Universal Plug by Stagecraft Software is currently 35% off — ~~$70~~
   **$45.50**. This plugin-wrapper utility lets you load any VST/VST3/AU plugin inside...
 pubDate: '2026-04-03T05:45:08Z'
-tags:
-- newplugindeals
-- stagecraft software
+tags: ["newplugindeals", "stagecraft software", "music-production"]
 affiliate: https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=plugindrop&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-&a_aid=69cb95abe1763
 heroImage: /images/stagecraft-software-get-35-off-universal-plug-by-stagecraft-.webp
-dealPrice: $45.50
-originalPrice: $70
+dealPrice: "$45.50"
+originalPrice: "$70"
 saleExpiry: '2026-04-12'
 aiImage: true
 draft: false
+score: 4.25
 ---
 
 **TL;DR:** Universal Plug by Stagecraft Software is currently 35% off — ~~$70~~ **$45.50**. This plugin-wrapper utility lets you load any VST/VST3/AU plugin inside any DAW, solving format lock-in for Logic, Pro Tools, Bitwig, and more. Deal expires April 12th. [Grab it here before the sale ends.](https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=plugindrop&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-&a_aid=69cb95abe1763)
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/xkIUhqFpeb4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ## What Is Universal Plug?
 

@@ -3,21 +3,14 @@ title: Save 50% on BA-1 software synthesizer by Baby Audio
 description: Baby Audio's BA-1 synthesizer is currently **50% off** at Plugin Boutique
   — a meaningful discount on a synth that rarely goes on sale. Original price...
 pubDate: '2026-04-14T12:51:58Z'
-tags:
-- sales and promotions
-- aax
-- au
-- baby audio
-- plugin boutique
-- sale
-- synthesizer
-- vst
+tags: ["sales and promotions", "aax", "au", "baby audio", "plugin boutique", "sale", "synthesizer", "vst", "music-production"]
 affiliate: https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=plugindrop&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763
 heroImage: /images/save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7.jpg
 discount: "50% OFF"
 dealPrice: "$49.00"
 originalPrice: "$99.00"
 draft: false
+score: 7.65
 ---
 **TL;DR:** Baby Audio's BA-1 synthesizer is currently **50% off** at Plugin Boutique — a meaningful discount on a synth that rarely goes on sale. Original price crossed off, half the cost still standing. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=plugindrop&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763)
 

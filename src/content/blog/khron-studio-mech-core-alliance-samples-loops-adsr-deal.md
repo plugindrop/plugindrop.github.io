@@ -3,16 +3,14 @@ title: Khron Studio Mech Core Alliance Samples Loops
 description: Khron Studio's Mech Core Alliance is a sample/loop pack built for producers
   who need industrial, mechanical, and hybrid-electronic textures — and it's...
 pubDate: '2026-04-14T12:51:59Z'
-tags:
-- adsr
-- preset
-- presets
+tags: ["adsr", "preset", "presets", "music-production"]
 affiliate: https://www.adsrsounds.com/product/presets/khron-studio-mech-core-alliance-samples-loops/?utm_source=plugindrop&utm_medium=article&utm_campaign=khron-studio-mech-core-alliance-samples-loops-adsr-deal
 heroImage: /images/khron-studio-mech-core-alliance-samples-loops-adsr-deal.jpg
 dealPrice: "$25"
 originalPrice: "$179.77"
 discount: "86% OFF"
 draft: false
+score: 4.04
 ---
 **TL;DR:** Khron Studio's Mech Core Alliance is a sample/loop pack built for producers who need industrial, mechanical, and hybrid-electronic textures — and it's currently available at a discounted price on ADSR Sounds. Check the product page for the exact deal price, but the savings are worth a look before this offer moves. [Grab it here while it lasts.](https://www.adsrsounds.com/product/presets/khron-studio-mech-core-alliance-samples-loops/?utm_source=plugindrop&utm_medium=article&utm_campaign=khron-studio-mech-core-alliance-samples-loops-adsr-deal)
 

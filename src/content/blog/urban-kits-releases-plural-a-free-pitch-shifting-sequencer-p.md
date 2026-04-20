@@ -4,19 +4,20 @@ title: Urban Kits releases Plural, a FREE pitch-shifting sequencer plugin for ma
 description: Urban Kits just dropped **Plural**, a pitch-shifting sequencer plugin
   — and it's completely **FREE**. No sale price, no coupon code. Just grab it....
 pubDate: '2026-04-02T12:48:06Z'
-tags:
-- news
-- free software
-- mac
-- windows
+tags: ["news", "free software", "mac", "windows", "music-production"]
 affiliate: https://urbankits.gumroad.com/l/plural
 heroImage: /images/urban-kits-releases-plural-a-free-pitch-shifting-sequencer-p.jpg
-dealPrice: FREE
-originalPrice: $0
+dealPrice: "FREE"
 draft: false
+score: 1.56
 ---
 
 **TL;DR:** Urban Kits just dropped **Plural**, a pitch-shifting sequencer plugin — and it's completely **FREE**. No sale price, no coupon code. Just grab it. Available for macOS and Windows in AU and VST2 formats. [Get Plural free on Bedroom Producers Blog](https://urbankits.gumroad.com/l/plural) before this one disappears into your "I should've grabbed that" list.
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/LmpwnNfFjhI" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ## What Is Plural?
 

@@ -3,16 +3,14 @@ title: Collab Gem The Heist Underground Hip Hop Sample Pack
 description: ADSR Sounds is currently offering Collab Gem's *The Heist* Underground
   Hip Hop Sample Pack at a deal price — check the current savings on the product page...
 pubDate: '2026-04-17T15:08:03Z'
-tags:
-- adsr
-- preset
-- presets
+tags: ["adsr", "preset", "presets", "music-production"]
 affiliate: https://www.adsrsounds.com/product/presets/collab-gem-the-heist-underground-hip-hop-sample-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=collab-gem-the-heist-underground-hip-hop-sample-pack-adsr-de
 heroImage: /images/collab-gem-the-heist-underground-hip-hop-sample-pack-adsr-de.jpg
 dealPrice: "$10.47"
 originalPrice: "$14.95"
 discount: "30% OFF"
 draft: false
+score: 2.36
 ---
 **TL;DR:** ADSR Sounds is currently offering Collab Gem's *The Heist* Underground Hip Hop Sample Pack at a deal price — check the current savings on the [product page](https://www.adsrsounds.com/product/presets/collab-gem-the-heist-underground-hip-hop-sample-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=collab-gem-the-heist-underground-hip-hop-sample-pack-adsr-de) before it reverts. Designed for producers chasing that raw, underground hip hop aesthetic, this pack brings gritty textures and authentic vibes straight to your DAW. Grab it while the deal is live.
 

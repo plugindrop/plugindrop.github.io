@@ -2,11 +2,11 @@
 title: "iZotope Vinyl — FREE Lo-Fi Plugin (Always Free)"
 description: "iZotope Vinyl is a free lo-fi vinyl simulation plugin with dust, scratch, warp, and noise controls. Permanently free from the makers of Ozone and RX."
 pubDate: "2026-03-22T14:00:00Z"
-tags: ["free", "plugin", "effects", "lofi"]
+tags: ["free", "vst-plugin", "effects", "lofi", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/7091-Vinyl?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-vinyl-free-lofi-plugin"
-heroImage: "/images/heroes/izotope-vinyl.jpg"
 dealPrice: "FREE"
 draft: false
+score: 1.89
 ---
 
 **TL;DR:** iZotope Vinyl — **free, permanently.** Lo-fi vinyl simulation from iZotope, the company behind Ozone, RX, and Neutron ($49–$499). Dust, scratch, warp, electrical noise, and a year selector dial. One of the oldest and most downloaded free plugins in existence. [Get it here](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/7091-Vinyl?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-vinyl-free-lofi-plugin).

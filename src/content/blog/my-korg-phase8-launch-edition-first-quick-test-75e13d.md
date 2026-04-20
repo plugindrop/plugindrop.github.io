@@ -3,13 +3,13 @@ title: My Korg Phase8 Launch Edition // First Quick Test
 description: The Korg Phase8 Launch Edition is available at $1,149 — the same price
   as the standard version but bundled with three exclusive limited-edition percussive...
 pubDate: '2026-04-04T01:44:06Z'
-tags:
-- synthesizers
+tags: ["synthesizers", "music-production"]
 affiliate: https://www.sweetwater.com/store/detail/Phase8LE--korg-phase8-8-voice-acoustic-synthesizer-launch-edition
 heroImage: /images/my-korg-phase8-launch-edition-first-quick-test-75e13d.webp
 aiImage: true
 dealPrice: "$1149"
 draft: false
+score: 3.99
 ---
 
 ---

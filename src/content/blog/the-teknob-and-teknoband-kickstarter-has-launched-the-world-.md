@@ -2,12 +2,12 @@
 title: "The TEKNOB And TEKNOBAND Kickstarter Has Launched!👍 (The World's First Touchscreen Electronic Music Groovebox Knob)"
 description: "The TEKNOB and TEKNOBAND Kickstarter is live — early backers can lock in launch pricing before the campaign closes and retail pricing kicks in. A..."
 pubDate: "2026-04-20T01:47:17Z"
-tags: ["synthesizers"]
+tags: ["vst-plugin", "synth", "music-production"]
 affiliate: "https://www.kickstarter.com/projects/allonesun/teknob-the-touchscreen-techno-groovebox-knob"
 heroImage: "/images/the-teknob-and-teknoband-kickstarter-has-launched-the-world-.webp"
 aiImage: true
-score: 3.24
-draft: false
+score: 2.97
+draft: true
 ---
 **TL;DR:** The TEKNOB and TEKNOBAND Kickstarter is live — early backers can lock in launch pricing before the campaign closes and retail pricing kicks in. A touchscreen groovebox knob is a genuinely novel hardware concept, and Kickstarter tiers won't last forever. [Back it on Kickstarter now.](https://www.kickstarter.com/projects/allonesun/teknob-the-touchscreen-techno-groovebox-knob)
 

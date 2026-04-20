@@ -4,7 +4,7 @@ title: 40% off SSL 4000 Series Console Bundle at Plugin Boutique until the 30th 
 description: SSL's legendary 4000 Series Console Bundle is currently **40% off** at
   Plugin Boutique — one of the steeper discounts this bundle has seen. If you've been...
 pubDate: '2026-04-17T12:15:17Z'
-tags: []
+tags: ["sale", "music-production"]
 affiliate: https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13326-SSL-4000-Series-Console-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt&a_aid=69cb95abe1763
 heroImage: /images/40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt.jpg
 saleExpiry: '2026-04-30'
@@ -12,6 +12,7 @@ discount: "40% OFF"
 dealPrice: "$149.00"
 originalPrice: "$249.00"
 draft: false
+score: 9.27
 ---
 **TL;DR:** SSL's legendary 4000 Series Console Bundle is currently **40% off** at Plugin Boutique — one of the steeper discounts this bundle has seen. If you've been eyeing that iconic British console sound, the deal runs until **April 30, 2026**. [Grab it here before it expires.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13326-SSL-4000-Series-Console-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt&a_aid=69cb95abe1763)
 

@@ -2,11 +2,13 @@
 title: "Save up to 15% on Moog Mother-32, Sennheiser, and Positive Grid: 3 Amazing Deals of the Week!"
 description: "Thomann is running discounts of up to 15% across three major brands — Moog, Sennheiser, and Positive Grid — making this one of the better..."
 pubDate: "2026-04-18T23:47:03Z"
-tags: ["deals", "amp", "bargain", "dynamic microphone", "filter", "headphone", "ladder filter", "microphone", "modular", "oscillator"]
+tags: ["sale", "deals", "amp", "bargain", "dynamic microphone", "filter", "headphone", "ladder filter", "microphone", "modular", "oscillator", "music-production"]
 affiliate: "https://www.thomann.de/intl/moog_mother_32.htm?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-15-on-moog-mother-32-sennheiser-and-positive-grid"
 heroImage: "/images/save-up-to-15-on-moog-mother-32-sennheiser-and-positive-grid.jpg"
 discount: "15% OFF"
-score: 3.41
+score: 7.98
+dealPrice: "$483.19"
+originalPrice: "$568.46"
 draft: false
 ---
 **TL;DR:** Thomann is running discounts of up to 15% across three major brands — Moog, Sennheiser, and Positive Grid — making this one of the better hardware-and-software deal weeks of the season. If the Moog Mother-32 has been sitting in your cart, now's a smart time to pull the trigger. [Check current prices at Thomann →](https://www.thomann.de/intl/moog_mother_32.htm?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-15-on-moog-mother-32-sennheiser-and-positive-grid)

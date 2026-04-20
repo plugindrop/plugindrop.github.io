@@ -3,21 +3,14 @@ title: Topos saturation & amp effect plugin by Forever 89 on sale at 30% OFF
 description: Topos by Forever 89 — a saturation and amp/speaker simulation plugin
   with 35 drive models and interactive map-based blending — is currently 30% off....
 pubDate: '2026-04-02T09:55:12Z'
-tags:
-- sales and promotions
-- amplifier
-- au
-- forever 89
-- plugin boutique
-- sale
-- saturator
-- vst
+tags: ["sales and promotions", "amplifier", "au", "forever 89", "plugin boutique", "sale", "saturator", "vst", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=plugindrop&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763
 heroImage: /images/topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-.jpg
-dealPrice: $69
-originalPrice: $99
+dealPrice: "$69"
+originalPrice: "$99"
 saleExpiry: '2026-04-15'
 draft: false
+score: 6.04
 ---
 
 **TL;DR:** Topos by Forever 89 — a saturation and amp/speaker simulation plugin with 35 drive models and interactive map-based blending — is currently 30% off. That's ~~$99~~ **$69** at Plugin Boutique. The sale runs until April 15th, 2026. [Grab the deal here.](https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=plugindrop&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763)

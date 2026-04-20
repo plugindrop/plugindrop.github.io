@@ -4,19 +4,23 @@ title: Dustons — Dustons offers the Roland JP-8000 / JP-8080 / JE-8086 Presets
 description: Dustons is offering a presets bundle for the Roland JP-8000, JP-8080,
   and JE-8086 at a limited-time exclusive price of **$34.95** — a focused,...
 pubDate: '2026-04-17T14:33:16Z'
-tags:
-- newplugindeals
-- dustons
+tags: ["newplugindeals", "dustons", "music-production"]
 affiliate: https://dustons.com/bndl002
 heroImage: /images/dustons-dustons-offers-the-roland-jp-8000-jp-8080-je-8086-pr.webp
 aiImage: true
-dealPrice: $34.95
+dealPrice: "$34.95"
 saleExpiry: '2026-04-30'
 draft: false
+score: 3.31
 ---
 **TL;DR:** Dustons is offering a presets bundle for the Roland JP-8000, JP-8080, and JE-8086 at a limited-time exclusive price of **$34.95** — a focused, cost-effective pick for producers working with these iconic Roland virtual analog synths. [Grab it here before the price goes up.](https://dustons.com/bndl002)
 
 ---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/VnFUp7SsFiI" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ## What Is the Dustons Roland JP-8000 / JP-8080 / JE-8086 Presets Bundle?
 

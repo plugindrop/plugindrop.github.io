@@ -4,15 +4,14 @@ title: '[Martinic] Martinic Easter Sale - up to 80% off on plugins and AX73 coll
 description: Martinic's entire plugin catalog is up to 80% off through April 6, 2026.
   The flagship AX73 synth (regular ~~$149~~) and expansion collections like Orange...
 pubDate: '2026-04-04T05:39:33Z'
-tags:
-- newplugindeals
-- martinic
+tags: ["newplugindeals", "martinic", "music-production"]
 affiliate: https://www.martinic.com/en/products
 heroImage: /images/martinic-martinic-easter-sale-up-to-80-off-on-plugins-and-ax.webp
 saleExpiry: '2026-04-13'
 aiImage: true
 discount: "80% OFF"
 draft: false
+score: 3.36
 ---
 **TL;DR:** Martinic's entire plugin catalog is up to 80% off through April 6, 2026. The flagship AX73 synth (regular ~~$149~~) and expansion collections like Orange Lo-fi (79% off) and Time Capsule '86 (63% off) are all included. [Grab the deals at Martinic's site](https://www.martinic.com/en/products) before Easter Monday ends it.
 

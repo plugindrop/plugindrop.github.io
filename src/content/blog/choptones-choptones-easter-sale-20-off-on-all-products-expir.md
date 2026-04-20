@@ -4,15 +4,14 @@ title: '[ChopTones] ChopTones Easter Sale - 20% off on all products. Expiry: Apr
 description: ChopTones is running a 20% off Easter Sale on their entire catalog of
   guitar amp profiles and impulse responses. If you've been eyeing any of their tone...
 pubDate: '2026-04-04T06:14:21Z'
-tags:
-- newplugindeals
-- choptones
+tags: ["newplugindeals", "choptones", "music-production"]
 affiliate: https://www.choptones.com/collections
 heroImage: /images/choptones-choptones-easter-sale-20-off-on-all-products-expir.webp
 saleExpiry: '2026-04-13'
 aiImage: true
 discount: "20% OFF"
 draft: false
+score: 2.8
 ---
 **TL;DR:** ChopTones is running a 20% off Easter Sale on their entire catalog of guitar amp profiles and impulse responses. If you've been eyeing any of their tone packs, this is a solid window to grab them at a discount. Sale runs through April 13th — [shop the full catalog here](https://www.choptones.com/collections).
 

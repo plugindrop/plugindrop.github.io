@@ -3,17 +3,23 @@ title: Universal Audio releases native UAD Voice Of God Plug‑In
 description: Universal Audio just dropped the Little Labs Voice Of God Bass Resonance
   as a native UAD plug-in — no Apollo hardware required. Intro price is **$49**...
 pubDate: '2026-04-03T04:34:43Z'
-tags: []
+tags: ["sale", "music-production"]
 affiliate: https://www.uaudio.com/uad-plugins/special-processing/little-labs-voice-of-god.html
 heroImage: /images/universal-audio-releases-native-uad-voice-of-god-plug-in.webp
-dealPrice: $49
-originalPrice: $99
+dealPrice: "$49"
+originalPrice: "$99"
 saleExpiry: '2026-04-30'
 aiImage: true
 draft: false
+score: 5.18
 ---
 
 **TL;DR:** Universal Audio just dropped the Little Labs Voice Of God Bass Resonance as a native UAD plug-in — no Apollo hardware required. Intro price is **$49** (~~$99~~) until April 30, 2026. That's 50% off a studio-grade bass resonance tool. [Grab it here before the intro deal ends.](https://www.uaudio.com/uad-plugins/special-processing/little-labs-voice-of-god.html)
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/KbFb-ukH9DI" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ## What Is the UAD Little Labs Voice Of God?
 

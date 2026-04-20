@@ -2,11 +2,11 @@
 title: "Plugin Boutique Deals — How to Save Money on VST Plugins"
 description: "How Plugin Boutique deals work — seasonal sales, loyalty rewards, free plugin offers, and how to stack discounts for the lowest prices on VST plugins."
 pubDate: "2026-03-16T08:00:00Z"
-tags: ["sale", "plugin", "guide"]
+tags: ["free", "sale", "guide", "music-production"]
 affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=plugin-boutique-deals-guide"
-heroImage: "/images/heroes/plugin-boutique-guide.jpg"
 dealPrice: "FREE"
 draft: false
+score: 1.68
 ---
 
 **TL;DR:** Plugin Boutique runs multiple discount systems simultaneously — sales, loyalty rewards, Virtual Cash, and free plugins with purchase. Knowing how these stack can cut plugin costs significantly. Here is how each one works.

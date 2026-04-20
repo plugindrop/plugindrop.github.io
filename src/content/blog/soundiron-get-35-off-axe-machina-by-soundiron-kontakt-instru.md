@@ -3,9 +3,7 @@ title: Soundiron — Get 35% off Axe Machina by Soundiron (Kontakt Instrument)
 description: Soundiron's Axe Machina Kontakt Instrument is now **35% off** at Plugin
   Boutique — a solid window to pick up a heavily-sampled guitar-based instrument at...
 pubDate: '2026-04-16T03:48:40Z'
-tags:
-- newplugindeals
-- soundiron
+tags: ["newplugindeals", "soundiron", "music-production"]
 affiliate: https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763
 heroImage: /images/soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru.webp
 saleExpiry: '2026-04-30'
@@ -14,6 +12,7 @@ discount: "35% OFF"
 dealPrice: "$64.00"
 originalPrice: "$99.00"
 draft: false
+score: 8.07
 ---
 **TL;DR:** Soundiron's Axe Machina Kontakt Instrument is now **35% off** at Plugin Boutique — a solid window to pick up a heavily-sampled guitar-based instrument at a meaningful discount. Check the current sale price (~~full price~~ → 35% off) and grab it here: [Axe Machina at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763).
 

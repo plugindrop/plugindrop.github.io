@@ -3,20 +3,11 @@ title: 'Yamaha PSR-SX720+ Arranger Workstation: Now with Bluetooth Audio!'
 description: The Yamaha PSR-SX720+ Arranger Workstation is now available at Thomann
   — and the headline upgrade is built-in Bluetooth Audio, a feature that changes how...
 pubDate: '2026-04-14T13:25:49Z'
-tags:
-- news
-- arranger
-- auto accompaniment
-- effects
-- keyboard
-- psr
-- psr-sx
-- psr-sx720
-- psr-sx720
-- psr-sx920
+tags: ["news", "arranger", "auto accompaniment", "effects", "keyboard", "psr", "psr-sx", "psr-sx720", "psr-sx720", "psr-sx920", "music-production"]
 affiliate: https://www.thomann.de/intl/yamaha_p...?utm_source=plugindrop&utm_medium=article&utm_campaign=yamaha-psr-sx720-arranger-workstation-now-with-bluetooth-aud
 heroImage: /images/yamaha-psr-sx720-arranger-workstation-now-with-bluetooth-aud.jpg
-draft: false
+draft: true
+score: 1.27
 ---
 **TL;DR:** The Yamaha PSR-SX720+ Arranger Workstation is now available at Thomann — and the headline upgrade is built-in Bluetooth Audio, a feature that changes how you connect this arranger to your setup. Check current pricing and availability directly on [Thomann's product page](https://www.thomann.de/intl/yamaha_p...?utm_source=plugindrop&utm_medium=article&utm_campaign=yamaha-psr-sx720-arranger-workstation-now-with-bluetooth-aud) — verify the latest deal before it moves.
 

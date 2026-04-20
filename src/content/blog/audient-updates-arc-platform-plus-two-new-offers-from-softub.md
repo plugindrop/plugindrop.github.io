@@ -3,13 +3,14 @@ title: Audient Updates ARC Platform - Plus Two New Offers From Softube & Excite 
 description: Audient has relaunched its ARC (Audio Resource Centre) platform with
   a cleaner interface and two brand-new free plugin bundles — Softube Flow Guitar...
 pubDate: '2026-04-02T10:29:05Z'
-tags: []
+tags: ["music-production"]
 affiliate: https://arc.audient.com/
 heroImage: /images/audient-updates-arc-platform-plus-two-new-offers-from-softub.webp
-originalPrice: $79
+originalPrice: "$79"
 saleExpiry: '2026-04-30'
 aiImage: true
 draft: false
+score: 3.36
 ---
 **TL;DR:** Audient has relaunched its ARC (Audio Resource Centre) platform with a cleaner interface and two brand-new free plugin bundles — Softube Flow Guitar Essentials and Excite Audio's Lifetime Lite Bundle (valued at ~~$79~~ **free**). All new and existing Audient hardware owners qualify. [Grab the details and register here.](https://www.kvraudio.com/news/audient-updates-arc-platform---plus-two-new-offers-from-softube-and-excite-audio-66569?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=66569)
 

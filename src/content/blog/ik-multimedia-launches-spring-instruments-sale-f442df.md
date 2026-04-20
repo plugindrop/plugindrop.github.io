@@ -3,19 +3,13 @@ title: IK Multimedia launches Spring Instruments Sale
 description: IK Multimedia's Spring Instruments Sale is live through April 30, 2026,
   with collections starting from just **$29.99**. Covering everything from...
 pubDate: '2026-04-02T09:21:10Z'
-tags:
-- sales and promotions
-- bass guitar
-- drums
-- ik multimedia
-- piano
-- sale
-- sampletank
-affiliate: https://www.ikmultimedia.com/news/?id=SpringVISale2025
+tags: ["sales and promotions", "bass guitar", "drums", "ik multimedia", "piano", "sale", "sampletank", "music-production"]
+affiliate: https://www.pluginboutique.com/manufacturers/410-IK-Multimedia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ik-multimedia-spring-instruments-sale
 heroImage: /images/ik-multimedia-launches-spring-instruments-sale-f442df.jpg
-dealPrice: $29.99
+dealPrice: "$29.99"
 saleExpiry: '2026-04-30'
 draft: false
+score: 3.22
 ---
 I have enough factual details from the source to write this article. Since the source doesn't provide specific regular prices or exact discount percentages, I'll note that readers should check the product page for exact pricing — no fabricated numbers.
 

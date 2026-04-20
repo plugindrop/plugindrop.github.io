@@ -2,11 +2,11 @@
 title: "Best Free VST Plugins in 2026 — 15 Plugins Worth Installing"
 description: "The 15 best free VST plugins in 2026 across synths, effects, mixing, and instruments. All genuinely free — no trials, no hidden costs."
 pubDate: "2026-03-26T14:00:00Z"
-tags: ["free", "plugin", "roundup"]
+tags: ["free", "roundup", "music-production"]
 affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026"
-heroImage: "/images/heroes/best-free-vst.jpg"
 dealPrice: "FREE"
 draft: false
+score: 1.68
 ---
 
 **TL;DR:** 15 free VST plugins that hold up against paid alternatives — organized by category so you can grab exactly what your setup needs. Synths, reverbs, EQs, compressors, and instruments. All $0.
@@ -14,12 +14,15 @@ draft: false
 ## Synths
 
 ### 1. Vital
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/eLbA42iH8hg" title="Vital — First Look: Free Wavetable Synth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 Wavetable synth with drag-and-drop modulation, spectral warping, and a visual interface that rivals Serum. The free tier includes 75 presets and full synthesis capabilities. [Full breakdown here](/posts/vital-free-wavetable-synth-download/).
 
 ### 2. Surge XT
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/8wdwrr4Nrk8" title="Surge XT — Free Synth No-Talking Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 Open-source hybrid synth with 3 oscillators, 14 filter algorithms, and a deep modulation matrix. Regular community updates keep adding features. [More details](/posts/surge-xt-free-open-source-synth/).
 
 ### 3. Dexed
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/DY5p4c-VJlg" title="Dexed — Free FM Synthesizer Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 Faithful emulation of the Yamaha DX7 — loads original DX7 SysEx patches. FM synthesis made accessible with a modern UI. [Full article](/posts/dexed-free-dx7-emulation/).
 
 ### 4. Helm
@@ -45,6 +48,7 @@ Bundle of small effect modules — distortion, chorus, delay, filter, and more. 
 ## Mixing
 
 ### 10. TDR Nova
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/puv2KnHcavI" title="TDR Nova — Free Dynamic EQ Full Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 Dynamic EQ with four bands, each switchable between static EQ and dynamic processing. Competes with paid dynamic EQs at $0. [Full breakdown](/posts/tdr-nova-free-dynamic-eq/).
 
 ### 11. OTT (Xfer Records)
