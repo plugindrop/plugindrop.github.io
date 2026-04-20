@@ -7,7 +7,7 @@ pubDate: '2026-04-02T07:02:01Z'
 tags: ["newplugindeals", "robotic bean", "music-production"]
 affiliate: https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763
 heroImage: /images/robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou.webp
-dealPrice: $69
+dealPrice: "$69"
 originalPrice: "$98.57"
 saleExpiry: '2026-04-12'
 aiImage: true

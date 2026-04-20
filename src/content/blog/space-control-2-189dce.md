@@ -6,8 +6,8 @@ pubDate: '2026-04-14T14:00:37Z'
 tags: ["deal", "music-production"]
 affiliate: https://pluginplug.io/product/1679-space-control-2
 heroImage: /images/space-control-2-189dce.jpg
-dealPrice: $79.00
-originalPrice: $178.99
+dealPrice: "$79.00"
+originalPrice: "$178.99"
 draft: false
 score: 7.99
 ---

@@ -6,7 +6,7 @@ pubDate: '2026-04-02T09:21:10Z'
 tags: ["sales and promotions", "bass guitar", "drums", "ik multimedia", "piano", "sale", "sampletank", "music-production"]
 affiliate: https://www.pluginboutique.com/manufacturers/410-IK-Multimedia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ik-multimedia-spring-instruments-sale
 heroImage: /images/ik-multimedia-launches-spring-instruments-sale-f442df.jpg
-dealPrice: $29.99
+dealPrice: "$29.99"
 saleExpiry: '2026-04-30'
 draft: false
 score: 3.43

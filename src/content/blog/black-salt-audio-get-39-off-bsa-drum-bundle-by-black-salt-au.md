@@ -6,8 +6,8 @@ pubDate: '2026-04-02T06:34:42Z'
 tags: ["newplugindeals", "black salt audio", "music-production"]
 affiliate: https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13453-BSA-Drum-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=black-salt-audio-get-39-off-bsa-drum-bundle-by-black-salt-au&a_aid=69cb95abe1763
 heroImage: /images/black-salt-audio-get-39-off-bsa-drum-bundle-by-black-salt-au.webp
-dealPrice: $89
-originalPrice: $146
+dealPrice: "$89"
+originalPrice: "$146"
 saleExpiry: '2026-04-30'
 aiImage: true
 draft: false

@@ -6,8 +6,8 @@ pubDate: '2026-04-03T04:34:43Z'
 tags: ["sale", "music-production"]
 affiliate: https://www.uaudio.com/uad-plugins/special-processing/little-labs-voice-of-god.html
 heroImage: /images/universal-audio-releases-native-uad-voice-of-god-plug-in.webp
-dealPrice: $49
-originalPrice: $99
+dealPrice: "$49"
+originalPrice: "$99"
 saleExpiry: '2026-04-30'
 aiImage: true
 draft: false

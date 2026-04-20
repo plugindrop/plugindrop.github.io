@@ -8,7 +8,7 @@ tags: ["newplugindeals", "dustons", "music-production"]
 affiliate: https://dustons.com/bndl002
 heroImage: /images/dustons-dustons-offers-the-roland-jp-8000-jp-8080-je-8086-pr.webp
 aiImage: true
-dealPrice: $34.95
+dealPrice: "$34.95"
 saleExpiry: '2026-04-30'
 draft: false
 score: 3.57

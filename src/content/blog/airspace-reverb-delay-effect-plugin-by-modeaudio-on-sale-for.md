@@ -6,8 +6,8 @@ pubDate: '2026-04-03T09:43:35Z'
 tags: ["sales and promotions", "au", "delay", "modeaudio", "plugin boutique", "reverb", "sale", "vst", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/17-Reverb/14865-Airspace?utm_source=plugindrop&utm_medium=article&utm_campaign=airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for&a_aid=69cb95abe1763
 heroImage: /images/airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for.jpg
-dealPrice: $59
-originalPrice: $79
+dealPrice: "$59"
+originalPrice: "$79"
 saleExpiry: '2026-04-12'
 draft: false
 score: 5.2

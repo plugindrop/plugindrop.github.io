@@ -7,7 +7,7 @@ tags: ["freebie", "instruments", "plugin", "synth", "u-he", "zebralette 3", "mus
 affiliate: https://u-he.com/products/freeware/zebralette/
 heroImage: /images/free-plugin-review-u-he-zebralette-3-08700c.webp
 aiImage: true
-dealPrice: FREE
+dealPrice: "FREE"
 draft: false
 score: 1.89
 ---

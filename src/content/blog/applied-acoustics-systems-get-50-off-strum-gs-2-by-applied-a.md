@@ -6,8 +6,8 @@ pubDate: '2026-04-01T18:10:57Z'
 tags: ["sale", "guitar", "applied acoustics systems", "physical modeling", "plugin boutique", "strum", "music-production"]
 affiliate: https://www.pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2-Acoustic-Electric?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustics-systems-get-50-off-strum-gs-2-by-applied-a
 heroImage: /images/applied-acoustics-systems-get-50-off-strum-gs-2-by-applied-a.jpg
-dealPrice: $99
-originalPrice: $198
+dealPrice: "$99"
+originalPrice: "$198"
 saleExpiry: '2026-04-20'
 draft: false
 score: 6.33

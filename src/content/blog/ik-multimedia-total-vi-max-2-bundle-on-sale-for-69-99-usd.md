@@ -7,7 +7,7 @@ pubDate: '2026-04-17T09:57:35Z'
 tags: ["sales and promotions", "ik multimedia", "plugin boutique", "sale", "sampletank", "music-production"]
 affiliate: https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/16798-TOTAL-VI-MAX-2?utm_source=plugindrop&utm_medium=article&utm_campaign=ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd&a_aid=69cb95abe1763
 heroImage: /images/ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd.jpg
-dealPrice: $69.99
+dealPrice: "$69.99"
 draft: false
 score: 5.27
 ---

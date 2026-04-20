@@ -6,8 +6,8 @@ pubDate: '2026-04-02T06:34:24Z'
 tags: ["newplugindeals", "audified", "music-production"]
 affiliate: https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15324-ToneKnob-Ultimate-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=audified-get-50-off-toneknob-ultimate-bundle-by-audified-the&a_aid=69cb95abe1763
 heroImage: /images/audified-get-50-off-toneknob-ultimate-bundle-by-audified-the.webp
-dealPrice: $34.50
-originalPrice: $69.00
+dealPrice: "$34.50"
+originalPrice: "$69.00"
 saleExpiry: '2026-04-12'
 aiImage: true
 draft: false

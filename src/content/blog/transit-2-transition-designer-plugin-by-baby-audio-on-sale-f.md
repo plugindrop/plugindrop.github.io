@@ -6,8 +6,8 @@ pubDate: '2026-04-03T11:28:37Z'
 tags: ["sales and promotions", "aax", "andrew huang", "au", "baby audio", "sale", "sound fx", "vst", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-transition-designer-plugin-by-baby-audio-on-sale-f&a_aid=69cb95abe1763
 heroImage: /images/transit-2-transition-designer-plugin-by-baby-audio-on-sale-f.jpg
-dealPrice: $79
-originalPrice: $129
+dealPrice: "$79"
+originalPrice: "$129"
 saleExpiry: '2026-04-12'
 draft: false
 score: 6.09

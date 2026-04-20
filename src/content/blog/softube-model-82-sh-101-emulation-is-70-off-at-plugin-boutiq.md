@@ -6,8 +6,8 @@ pubDate: '2026-04-14T11:06:17Z'
 tags: ["news", "deals", "hot", "mac", "windows", "music-production"]
 affiliate: https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763
 heroImage: /images/softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq.jpg
-dealPrice: $29
-originalPrice: $99
+dealPrice: "$29"
+originalPrice: "$99"
 draft: false
 score: 6.97
 ---

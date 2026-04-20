@@ -6,7 +6,7 @@ pubDate: '2026-04-17T10:32:43Z'
 tags: ["adsr", "preset", "presets", "synth", "music-production"]
 affiliate: https://www.adsrsounds.com/product/presets/massive-beast-v-2-free-massive-presets/?utm_source=plugindrop&utm_medium=article&utm_campaign=massive-beast-v-2-free-massive-presets-adsr-deal-cc97f1
 heroImage: /images/massive-beast-v-2-free-massive-presets-adsr-deal-cc97f1.png
-dealPrice: FREE
+dealPrice: "FREE"
 draft: false
 score: 1.83
 ---

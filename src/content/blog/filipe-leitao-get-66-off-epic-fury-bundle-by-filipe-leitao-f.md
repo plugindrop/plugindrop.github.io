@@ -9,8 +9,8 @@ tags: ["newplugindeals", "filipe leitao", "music-production"]
 affiliate: https://audioplugin.deals/product/epic-fury-bundle-by-filipe-leitao/ref/21/
 heroImage: /images/filipe-leitao-get-66-off-epic-fury-bundle-by-filipe-leitao-f.webp
 aiImage: true
-dealPrice: $9.99
-originalPrice: $29.00
+dealPrice: "$9.99"
+originalPrice: "$29.00"
 saleExpiry: '2026-04-30'
 draft: false
 score: 5.65

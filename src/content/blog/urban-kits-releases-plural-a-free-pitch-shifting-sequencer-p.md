@@ -7,8 +7,8 @@ pubDate: '2026-04-02T12:48:06Z'
 tags: ["news", "free software", "mac", "windows", "music-production"]
 affiliate: https://urbankits.gumroad.com/l/plural
 heroImage: /images/urban-kits-releases-plural-a-free-pitch-shifting-sequencer-p.jpg
-dealPrice: FREE
-originalPrice: $0
+dealPrice: "FREE"
+originalPrice: "$0"
 draft: false
 score: 1.62
 ---

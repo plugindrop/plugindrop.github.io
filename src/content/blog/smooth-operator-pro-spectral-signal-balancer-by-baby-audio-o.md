@@ -7,8 +7,8 @@ pubDate: '2026-04-03T08:32:32Z'
 tags: ["sales and promotions", "aax", "au", "baby audio", "plugin boutique", "sale", "spectral shaper", "vst", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o&a_aid=69cb95abe1763
 heroImage: /images/smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o.webp
-dealPrice: $79
-originalPrice: $129
+dealPrice: "$79"
+originalPrice: "$129"
 saleExpiry: '2026-04-12'
 aiImage: true
 draft: false

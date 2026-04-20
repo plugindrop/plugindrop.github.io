@@ -6,8 +6,8 @@ pubDate: '2026-04-02T09:55:12Z'
 tags: ["sales and promotions", "amplifier", "au", "forever 89", "plugin boutique", "sale", "saturator", "vst", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=plugindrop&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763
 heroImage: /images/topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-.jpg
-dealPrice: $69
-originalPrice: $99
+dealPrice: "$69"
+originalPrice: "$99"
 saleExpiry: '2026-04-15'
 draft: false
 score: 6.25

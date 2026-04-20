@@ -6,8 +6,8 @@ pubDate: '2026-04-01T17:49:08Z'
 tags: ["sale", "sample library", "best service", "orchestral", "world instruments", "plugin boutique", "music-production"]
 affiliate: https://www.bestservice.com/en/desert_winds.html
 heroImage: /images/best-service-desert-winds-33-off-until-2nd-april-2026-18ee42.jpg
-dealPrice: $79
-originalPrice: $119
+dealPrice: "$79"
+originalPrice: "$119"
 saleExpiry: '2026-04-02'
 draft: true
 ---

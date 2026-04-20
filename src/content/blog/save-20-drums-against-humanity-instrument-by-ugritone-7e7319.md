@@ -6,8 +6,8 @@ pubDate: '2026-04-03T10:54:52Z'
 tags: ["sales and promotions", "aax", "au", "drums", "metal", "sale", "ugritone", "vst", "music-production"]
 affiliate: https://ugritone.com/products/drums-against-humanity
 heroImage: /images/save-20-drums-against-humanity-instrument-by-ugritone-7e7319.jpg
-dealPrice: $79.20
-originalPrice: $99
+dealPrice: "$79.20"
+originalPrice: "$99"
 saleExpiry: '2026-04-06'
 draft: false
 score: 2.85

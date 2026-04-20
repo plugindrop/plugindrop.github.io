@@ -6,8 +6,8 @@ pubDate: '2026-04-02T09:21:13Z'
 tags: ["sales and promotions", "aax", "au", "auburn sounds", "lv2", "pitch shift and time stretch", "plugin boutique", "sale", "vst", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=plugindrop&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us&a_aid=69cb95abe1763
 heroImage: /images/inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us.jpg
-dealPrice: $20
-originalPrice: $29
+dealPrice: "$20"
+originalPrice: "$29"
 saleExpiry: '2026-04-30'
 draft: false
 score: 4.29

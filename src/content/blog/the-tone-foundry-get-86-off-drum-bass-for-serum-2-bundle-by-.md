@@ -8,8 +8,8 @@ pubDate: '2026-04-03T05:10:29Z'
 tags: ["newplugindeals", "the tone foundry", "music-production"]
 affiliate: https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/16791-Drum-Bass-for-Serum-2-Bundle-Exclusive-?utm_source=plugindrop&utm_medium=article&utm_campaign=the-tone-foundry-get-86-off-drum-bass-for-serum-2-bundle-by-&a_aid=69cb95abe1763
 heroImage: /images/the-tone-foundry-get-86-off-drum-bass-for-serum-2-bundle-by-.webp
-dealPrice: $19
-originalPrice: $137
+dealPrice: "$19"
+originalPrice: "$137"
 saleExpiry: '2026-05-04'
 aiImage: true
 draft: false
