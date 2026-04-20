@@ -4,7 +4,6 @@ description: "BlizzVerb 2 is available at ~~$50~~ **$29** — that's 42% off as 
 pubDate: "2026-04-20T06:09:41Z"
 tags: ["newplugindeals", "wiregrind"]
 affiliate: "https://www.wiregrind.com/blizzverb/"
-heroImage: "/images/wiregrind-wiregrind-has-released-blizzverb-2-reverb-plugin-f.webp"
 aiImage: true
 score: 6.76
 dealPrice: "$29"

@@ -4,7 +4,6 @@ description: "u-he has officially launched Zebra 3, the long-awaited successor t
 pubDate: "2026-04-20T11:06:36Z"
 tags: ["instruments", "aax", "au", "clap", "synthesizer", "u-he", "vst", "zebra"]
 affiliate: "https://u-he.com/products/synths/zebra3/"
-heroImage: "/images/u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen.jpg"
 score: 7.44
 dealPrice: "€249"
 draft: false

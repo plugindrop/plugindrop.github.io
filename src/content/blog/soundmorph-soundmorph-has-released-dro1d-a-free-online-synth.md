@@ -4,7 +4,6 @@ description: "SoundMorph's DRO1D is a fully free online synthesizer — no downl
 pubDate: "2026-04-20T05:34:52Z"
 tags: ["newplugindeals", "soundmorph"]
 affiliate: "https://soundmorph.com/pages/dr01d-online-synthesizer"
-heroImage: "/images/soundmorph-soundmorph-has-released-dro1d-a-free-online-synth.jpg"
 score: 5.72
 dealPrice: "$0"
 draft: false

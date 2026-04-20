@@ -4,7 +4,6 @@ description: "Shamanstems' Witch House Hip Hop Serum Presets are available now o
 pubDate: "2026-04-20T04:25:34Z"
 tags: ["vst-plugin", "serum", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/shamanstems-witch-house-hip-hop-serum-presets/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=shamanstems-witch-house-hip-hop-serum-presets-adsr-deal"
-heroImage: "/images/shamanstems-witch-house-hip-hop-serum-presets-adsr-deal.jpg"
 score: 7.92
 dealPrice: "$25"
 originalPrice: "$179.77"

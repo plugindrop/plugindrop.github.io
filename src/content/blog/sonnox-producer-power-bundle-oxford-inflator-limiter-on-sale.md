@@ -4,7 +4,6 @@ description: "The Sonnox Producer Power Bundle — Oxford Inflator + Oxford Limi
 pubDate: "2026-04-20T11:06:31Z"
 tags: ["sales and promotions", "aax", "au", "compressor and limiter", "plugin boutique", "sale", "sonnox", "vst"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16123-Sonnox-Producer-Power-Bundle-Oxford-Inflator-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale"
-heroImage: "/images/sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale.jpg"
 score: 10.38
 dealPrice: "$49.00"
 originalPrice: "$420.00"

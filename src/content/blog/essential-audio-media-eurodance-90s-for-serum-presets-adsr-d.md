@@ -4,7 +4,6 @@ description: "Essential Audio Media's Eurodance 90s preset pack for Xfer Serum i
 pubDate: "2026-04-20T04:25:36Z"
 tags: ["vst-plugin", "serum", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/essential-audio-media-eurodance-90s-for-serum-presets/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=essential-audio-media-eurodance-90s-for-serum-presets-adsr-d"
-heroImage: "/images/essential-audio-media-eurodance-90s-for-serum-presets-adsr-d.jpg"
 score: 8.36
 dealPrice: "$16.65"
 originalPrice: "$23.79"

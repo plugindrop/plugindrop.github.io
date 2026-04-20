@@ -4,7 +4,6 @@ description: "Plugin Boutique is running a sale on The Him DSP's Kick Ninja and 
 pubDate: "2026-04-20T09:24:53Z"
 tags: ["sales and promotions", "aax", "au", "bass", "drums", "plugin boutique", "sale", "the him dsp", "vst"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/139-Drum-Synth/13436-Kick-Ninja?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him"
-heroImage: "/images/save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him.jpg"
 score: 9.39
 dealPrice: "$45.00"
 originalPrice: "$59.99"

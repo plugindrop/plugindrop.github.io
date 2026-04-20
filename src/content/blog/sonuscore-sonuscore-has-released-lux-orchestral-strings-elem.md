@@ -4,7 +4,6 @@ description: "Sonuscore is giving away LUX Orchestral Strings Elements — a pro
 pubDate: "2026-04-20T05:34:50Z"
 tags: ["freeaudioplugins", "sonuscore"]
 affiliate: "https://www.sonuscore.com/shop/lux-orchestral-strings-elements/"
-heroImage: "/images/sonuscore-sonuscore-has-released-lux-orchestral-strings-elem.jpg"
 score: 6.82
 dealPrice: "FREE"
 draft: false
