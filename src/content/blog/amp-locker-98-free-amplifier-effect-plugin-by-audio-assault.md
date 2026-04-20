@@ -3,14 +3,7 @@ title: Amp Locker 98 free amplifier effect plugin by Audio Assault
 description: Audio Assault is giving away Amp Locker 98 — a 6-amp-model guitar plugin
   — completely **free** for 48 hours only. That's ~~$0 reason to hesitate~~ zero...
 pubDate: '2026-04-02T07:35:26Z'
-tags:
-- effects
-- aax
-- amplifier
-- au
-- audio assault
-- free
-- vst
+tags: ["effects", "aax", "amplifier", "au", "audio assault", "free", "vst", "music-production"]
 affiliate: https://audioassault.mx/amplocker98
 heroImage: /images/amp-locker-98-free-amplifier-effect-plugin-by-audio-assault.jpg
 dealPrice: $0

@@ -3,11 +3,7 @@ title: "50% Off Korg M1 Synthesizer at Plugin Boutique"
 description: The legendary Korg M1 plugin — one of the best-selling synthesizers in
   history — is available at Plugin Boutique right now. Check current pricing on the...
 pubDate: '2026-04-14T10:02:48Z'
-tags:
-- plugin boutique
-- plugin
-- virtual instrument
-- effects
+tags: ["plugin boutique", "plugin", "virtual instrument", "effects", "music-production"]
 affiliate: https://www.pluginboutique.com/product/1-Instruments/4-Synth/11198-M1?utm_source=plugindrop&utm_medium=article&utm_campaign=m1-plugin-boutique-deal-596503&a_aid=69cb95abe1763
 heroImage: /images/m1-plugin-boutique-deal-596503.jpg
 dealPrice: "$49.99"

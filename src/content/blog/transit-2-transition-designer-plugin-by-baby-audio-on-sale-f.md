@@ -3,15 +3,7 @@ title: Transit 2 transition designer plugin by Baby Audio on sale for $79 USD
 description: Baby Audio's Transit 2 — the motion effects and transition designer plugin
   built with Andrew Huang — is currently ~~$129~~ **$79 USD**, saving you $50...
 pubDate: '2026-04-03T11:28:37Z'
-tags:
-- sales and promotions
-- aax
-- andrew huang
-- au
-- baby audio
-- sale
-- sound fx
-- vst
+tags: ["sales and promotions", "aax", "andrew huang", "au", "baby audio", "sale", "sound fx", "vst", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-transition-designer-plugin-by-baby-audio-on-sale-f&a_aid=69cb95abe1763
 heroImage: /images/transit-2-transition-designer-plugin-by-baby-audio-on-sale-f.jpg
 dealPrice: $79

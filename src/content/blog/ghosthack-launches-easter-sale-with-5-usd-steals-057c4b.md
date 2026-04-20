@@ -3,10 +3,7 @@ title: Ghosthack launches Easter Sale with $5 USD Steals
 description: Ghosthack's Easter Sale brings a lineup of sample packs and sound design
   libraries down to just **$5 USD** — plus a sitewide **Buy 2 Get 1 Free** deal on...
 pubDate: '2026-04-03T10:18:53Z'
-tags:
-- sales and promotions
-- ghosthack
-- sale
+tags: ["sales and promotions", "ghosthack", "sale", "music-production"]
 affiliate: https://www.ghosthack.de/Easter-Sale-2026/
 heroImage: /images/ghosthack-launches-easter-sale-with-5-usd-steals-057c4b.jpg
 dealPrice: "$5"

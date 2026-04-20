@@ -3,11 +3,7 @@ title: "92% Off DANDY Virtual Instrument at Plugin Boutique"
 description: DANDY is currently on sale at Plugin Boutique — grab it at the deal price
   before it reverts. Check the product page for the exact discount, but the...
 pubDate: '2026-04-14T10:02:50Z'
-tags:
-- plugin boutique
-- plugin
-- virtual instrument
-- effects
+tags: ["plugin boutique", "plugin", "virtual instrument", "effects", "music-production"]
 affiliate: https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY?utm_source=plugindrop&utm_medium=article&utm_campaign=dandy-plugin-boutique-deal-f167a6&a_aid=69cb95abe1763
 heroImage: /images/dandy-plugin-boutique-deal-f167a6.jpg
 dealPrice: "$9.00"

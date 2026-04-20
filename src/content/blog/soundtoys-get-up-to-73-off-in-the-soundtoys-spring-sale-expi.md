@@ -3,9 +3,7 @@ title: Soundtoys — Get up to 73% off in the Soundtoys Spring Sale
 description: Soundtoys is running a Spring Sale with up to 73% off their lineup of
   analog-inspired effects plugins — including the full bundle and individual titles....
 pubDate: '2026-04-14T23:25:11Z'
-tags:
-- newplugindeals
-- soundtoys
+tags: ["newplugindeals", "soundtoys", "music-production"]
 affiliate: https://www.pluginboutique.com/deals/22775?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763
 heroImage: /images/soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi.png
 saleExpiry: '2026-04-28'

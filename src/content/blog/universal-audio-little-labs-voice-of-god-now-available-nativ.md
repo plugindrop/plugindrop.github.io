@@ -3,17 +3,7 @@ title: 'Universal Audio Little Labs Voice Of God: Now Available Natively!'
 description: Universal Audio's Little Labs Voice Of God bass resonance plugin is now
   available as a native plugin — no UAD hardware required. It's currently **50% off...
 pubDate: '2026-04-02T08:44:56Z'
-tags:
-- news
-- available
-- daw
-- eq
-- filter
-- native
-- plug-in
-- plugin
-- resonance
-- software
+tags: ["news", "available", "daw", "eq", "filter", "native", "plug-in", "plugin", "resonance", "software", "music-production"]
 affiliate: https://www.thomann.de/intl/universal_audio_little_labs_voice_of_god.htm
 heroImage: /images/universal-audio-little-labs-voice-of-god-now-available-nativ.jpg
 dealPrice: $49

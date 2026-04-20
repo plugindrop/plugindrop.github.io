@@ -4,9 +4,7 @@ title: UVI — UVI is offering 66% off on Key Suite virtual instrument collectio
 description: UVI is running a steep **66% off** sale on Key Suite — their comprehensive
   keyboard instrument collection for Falcon and UVI Workstation. If you've been...
 pubDate: '2026-04-17T09:23:35Z'
-tags:
-- newplugindeals
-- uvi
+tags: ["newplugindeals", "uvi", "music-production"]
 affiliate: https://www.uvi.net/key-suite
 heroImage: /images/uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c.png
 saleExpiry: '2026-04-20'

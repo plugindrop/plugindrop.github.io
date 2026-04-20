@@ -3,14 +3,7 @@ title: NUGEN Audio updates Halo Vision with new precision analysis features
 description: NUGEN Audio has pushed a meaningful update to Halo Vision, adding precision
   analysis features that sharpen its spatial audio metering workflow. If...
 pubDate: '2026-04-14T12:18:01Z'
-tags:
-- effects
-- aax
-- analyzer and monitor
-- au
-- nugen audio
-- surround
-- vst
+tags: ["effects", "aax", "analyzer and monitor", "au", "nugen audio", "surround", "vst", "music-production"]
 affiliate: https://www.pluginboutique.com/product/3-Studio-Tools/79-Metering/9680-Halo-Vision?utm_source=plugindrop&utm_medium=article&utm_campaign=nugen-audio-updates-halo-vision-with-new-precision-analysis-&a_aid=69cb95abe1763
 heroImage: /images/nugen-audio-updates-halo-vision-with-new-precision-analysis-.jpg
 dealPrice: "$299.00"

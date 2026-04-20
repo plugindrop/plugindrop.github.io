@@ -4,17 +4,7 @@ title: 'Universal Audio, Audiomodern, Pulsar Audio: 3 Plugins That Bring Fresh S
 description: Three heavyweight plugin makers — Universal Audio, Audiomodern, and Pulsar
   Audio — are running deals right now, and at least one of them is worth serious...
 pubDate: '2026-04-14T23:25:13Z'
-tags:
-- deals
-- audiomodern playbeat 4
-- best plugin deals
-- creative audio plugins
-- deal
-- delay plugin deals
-- electronic music production tools
-- generative sequencer plugin
-- macos
-- mixing plugins sale
+tags: ["deals", "audiomodern playbeat 4", "best plugin deals", "creative audio plugins", "deal", "delay plugin deals", "electronic music production tools", "generative sequencer plugin", "macos", "mixing plugins sale", "music-production"]
 affiliate: https://www.thomann.de/intl/universal_audio_uad_sound_city_studios_plugin.htm?utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-audiomodern-pulsar-audio-3-plugins-that-brin
 heroImage: /images/universal-audio-audiomodern-pulsar-audio-3-plugins-that-brin.jpg
 draft: false

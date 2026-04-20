@@ -3,12 +3,7 @@ title: Free Amorph AI-driven text-to-DSP plugin gets a major visual update
 description: Amorph, the AI-driven text-to-DSP plugin by Artists in DSP, just dropped
   a major GUI overhaul — and it's still **completely free** in open beta. Custom UI...
 pubDate: '2026-04-03T13:48:19Z'
-tags:
-- news
-- ai
-- free software
-- mac
-- windows
+tags: ["news", "ai", "free software", "mac", "windows", "music-production"]
 affiliate: https://artistsindsp.gumroad.com/l/amorph
 heroImage: /images/free-amorph-ai-driven-text-to-dsp-plugin-gets-a-major-visual.jpg
 dealPrice: "FREE"
