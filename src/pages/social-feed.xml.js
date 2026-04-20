@@ -2,11 +2,11 @@ import { getCollection } from 'astro:content';
 import rss from '@astrojs/rss';
 import { SITE_TITLE } from '../consts';
 
-const SCORE_THRESHOLD = 5.0;
-// 直近N日間の記事のみ対象（dlvr.itへの一括flood防止 + 投稿頻度の自然制御）
-// 1日あたり高スコア記事が1-3件生成 → 週最大20件程度に収まる
+// 研究ベース: 3-5投稿/日が最適、10超はマイナス効果
+const SCORE_THRESHOLD = 7.0;   // 上位15%程度に絞る
+const MAX_PER_DAY = 3;          // スパイク日も最大3件/日
 const RECENT_DAYS = 7;
-const MAX_ITEMS = 20;
+const MAX_ITEMS = 21;           // 7日 × 3件/日
 
 export async function GET(context) {
 	const allPosts = await getCollection('blog');
@@ -14,17 +14,24 @@ export async function GET(context) {
 	const cutoff = new Date();
 	cutoff.setDate(cutoff.getDate() - RECENT_DAYS);
 
-	const posts = allPosts
-		.filter(p =>
-			!p.data.draft &&
-			(p.data.score ?? 0) >= SCORE_THRESHOLD &&
-			!p.data.aiImage &&
-			new Date(p.data.pubDate) >= cutoff
+	// 日付ごとに上位MAX_PER_DAY件に絞ってからフラット化
+	const byDay = new Map();
+	for (const p of allPosts) {
+		if (p.data.draft || (p.data.score ?? 0) < SCORE_THRESHOLD || p.data.aiImage) continue;
+		const pub = new Date(p.data.pubDate);
+		if (pub < cutoff) continue;
+		const day = pub.toISOString().slice(0, 10);
+		if (!byDay.has(day)) byDay.set(day, []);
+		byDay.get(day).push(p);
+	}
+
+	const posts = [...byDay.entries()]
+		.sort(([a], [b]) => b.localeCompare(a))   // 日付降順
+		.flatMap(([, items]) =>
+			items
+				.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
+				.slice(0, MAX_PER_DAY)              // 1日3件まで（スコア上位）
 		)
-		.sort((a, b) => {
-			const dateDiff = new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime();
-			return dateDiff !== 0 ? dateDiff : (b.data.score ?? 0) - (a.data.score ?? 0);
-		})
 		.slice(0, MAX_ITEMS);
 
 	return rss({
