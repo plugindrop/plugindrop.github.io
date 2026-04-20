@@ -6,7 +6,7 @@ tags: ["free", "vst-plugin", "reverb", "roundup", "music-production"]
 affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-plugins"
 heroImage: "/images/heroes/best-free-reverb.jpg"
 dealPrice: "FREE"
-originalPrice: "$99,"
+originalPrice: "$99"
 draft: false
 score: 2.73
 ---
