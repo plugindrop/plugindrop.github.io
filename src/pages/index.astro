@@ -52,7 +52,9 @@ function daysLeft(post: any): number | null {
 }
 
 function isFreePrice(price: string | undefined): boolean {
-	return !!price && price.trim().toUpperCase() === 'FREE';
+	if (!price) return false;
+	const p = price.trim().toUpperCase().replace(/[$€£¥]/g, '');
+	return p === 'FREE' || p === '0' || p === '0.00';
 }
 
 function isRealDeal(post: any): boolean {
