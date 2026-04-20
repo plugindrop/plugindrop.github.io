@@ -6,6 +6,39 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import { SITE_TITLE } from '../consts';
 
+const GUIDE_ARTICLES = [
+	{
+		slug: 'best-free-vst-plugins-2026',
+		title: 'Best Free VST Plugins 2026',
+		description: 'Top free plugins across every category — synths, effects, drums, and more.',
+		emoji: '🎛️',
+	},
+	{
+		slug: 'best-free-reverb-plugins',
+		title: 'Best Free Reverb Plugins',
+		description: 'From ambient tails to classic plates — 7 genuinely free reverbs.',
+		emoji: '🌊',
+	},
+	{
+		slug: 'best-free-synth-plugins',
+		title: 'Best Free Synth Plugins',
+		description: 'Professional-grade synths you can download right now for free.',
+		emoji: '🎹',
+	},
+	{
+		slug: 'best-free-drum-plugins',
+		title: 'Best Free Drum Plugins',
+		description: 'Free drum machines and samplers for any genre.',
+		emoji: '🥁',
+	},
+	{
+		slug: 'best-free-daw-software-2026',
+		title: 'Best Free DAW Software 2026',
+		description: 'Full DAWs with no cost — compared and ranked.',
+		emoji: '💻',
+	},
+];
+
 const allPosts = await getCollection('blog');
 
 function isFree(post: any): boolean {
@@ -67,6 +100,25 @@ const breadcrumbLD = {
 			}
 			.cta-banner h2 { margin: 0 0 0.5rem; font-size: 1.2rem; }
 			.cta-banner p { margin: 0; font-size: 0.9rem; opacity: 0.9; }
+			.guide-section { margin-bottom: 2.5rem; }
+			.guide-section h2 { font-size: 1.2rem; font-weight: 700; margin: 0 0 1rem; }
+			.guide-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+				gap: 0.75rem;
+			}
+			.guide-card {
+				display: flex; flex-direction: column; gap: 0.25rem;
+				padding: 1rem; border: 1px solid var(--border);
+				border-radius: var(--radius); background: var(--bg-card);
+				text-decoration: none; color: inherit;
+				transition: border-color 0.15s;
+			}
+			.guide-card:hover { border-color: var(--accent); }
+			.guide-emoji { font-size: 1.5rem; }
+			.guide-title { font-size: 0.88rem; font-weight: 700; margin: 0; }
+			.guide-desc { font-size: 0.78rem; color: var(--text-muted); margin: 0; }
+			.section-divider { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
 		</style>
 	</head>
 	<body>
@@ -81,6 +133,21 @@ const breadcrumbLD = {
 				<h1>Free VST Plugins & Sample Packs</h1>
 				<p>{freePosts.length} free music production tools — updated daily</p>
 			</div>
+
+			<div class="guide-section">
+				<h2>📖 Free Plugin Guides</h2>
+				<div class="guide-grid">
+					{GUIDE_ARTICLES.map(g => (
+						<a href={`/blog/${g.slug}/`} class="guide-card">
+							<span class="guide-emoji">{g.emoji}</span>
+							<p class="guide-title">{g.title}</p>
+							<p class="guide-desc">{g.description}</p>
+						</a>
+					))}
+				</div>
+			</div>
+
+			<hr class="section-divider" />
 
 			<div class="cta-banner">
 				<h2>New free plugins every day</h2>
