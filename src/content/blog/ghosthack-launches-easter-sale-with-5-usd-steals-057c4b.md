@@ -12,6 +12,13 @@ draft: false
 
 **TL;DR:** Ghosthack's Easter Sale brings a lineup of sample packs and sound design libraries down to just **$5 USD** — plus a sitewide **Buy 2 Get 1 Free** deal on all sound packs. If you've been eyeing vocal loops, cinematic transitions, or ambient textures, this is one of the cheapest entry points into their catalog. [Grab the $5 steals before they're gone](https://www.ghosthack.de/Easter-Sale-2026/).
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://www.ghosthack.de/media/df/e7/7d/1774372970/Ghosthack_-_Darkwave_Demo.mp3">
+</audio>
+</div>
+
+
 ## What Is Ghosthack?
 
 Ghosthack is a curated sample pack and preset store founded in 2016, serving over 198,000 producers worldwide. Unlike open marketplaces, Ghosthack states that every pack is curated by their in-house team. Their catalog spans sample packs, synth presets (Serum, Vital, Massive X, Phase Plant), MIDI files, sound effects, and video courses — all sold as 100% royalty-free with lifetime download access.
