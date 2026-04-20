@@ -10,7 +10,7 @@ originalPrice: "$189"
 discount: "30% OFF"
 saleExpiry: "2026-04-30"
 draft: false
-score: 7.91
+score: 7.7
 ---
 
 **TL;DR:** FabFilter Pro-Q 4 is 30% off — ~~$189~~ **$132** (save $57). This is FabFilter's standard sale depth — they run 25-30% discounts a few times per year, and they haven't gone deeper in recent history. If you've been waiting for a dip, this is what it looks like. [Check the deal](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off).

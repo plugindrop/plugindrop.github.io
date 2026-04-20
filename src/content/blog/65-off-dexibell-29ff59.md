@@ -11,7 +11,7 @@ discount: "65% OFF"
 dealPrice: "$69"
 originalPrice: "$197.14"
 draft: false
-score: 5.7
+score: 5.5
 ---
 **TL;DR:** Dexibell's T2L piano plugins are currently **65% off**, bringing each title down from its regular price to a fraction of the cost. If you've had your eye on these hybrid sampling-plus-modeling instruments, this is one of the steepest discounts Dexibell has offered. [Grab the deal here before it expires.](https://digitalstore.dexibell.com/en-gb/product/T2L-Electric-Piano)
 

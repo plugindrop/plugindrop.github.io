@@ -6,7 +6,7 @@ tags: ["sale", "deals", "amp", "bargain", "dynamic microphone", "filter", "headp
 affiliate: "https://www.thomann.de/intl/moog_mother_32.htm?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-15-on-moog-mother-32-sennheiser-and-positive-grid"
 heroImage: "/images/save-up-to-15-on-moog-mother-32-sennheiser-and-positive-grid.jpg"
 discount: "15% OFF"
-score: 3.3
+score: 7.98
 dealPrice: "$483.19"
 originalPrice: "$568.46"
 draft: false

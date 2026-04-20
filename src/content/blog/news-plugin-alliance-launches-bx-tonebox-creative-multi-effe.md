@@ -9,7 +9,7 @@ heroImage: /images/news-plugin-alliance-launches-bx-tonebox-creative-multi-effe.
 aiImage: true
 dealPrice: "$39.99"
 draft: false
-score: 4.25
+score: 4.0
 ---
 **TL;DR:** Plugin Alliance has just launched **bx_tonebox**, a new creative multi-effect plugin from the brainworx team. Whether you're after a launch intro price or just want to be first in line, now is the time to check it out. [Grab bx_tonebox at Plugin Alliance](https://www.plugin-alliance.com/products/bx_tonebox) and verify current pricing on the product page.
 

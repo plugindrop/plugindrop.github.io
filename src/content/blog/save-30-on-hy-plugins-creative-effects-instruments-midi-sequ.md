@@ -5,7 +5,7 @@ pubDate: "2026-04-20T08:18:51Z"
 tags: ["sales and promotions", "arpeggiator", "generator", "hy-plugins", "midi", "plugin boutique", "sale", "sequencer"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ"
 heroImage: "/images/save-30-on-hy-plugins-creative-effects-instruments-midi-sequ.jpg"
-score: 6.16
+score: 9.05
 dealPrice: "$42.00"
 originalPrice: "$60.00"
 draft: false

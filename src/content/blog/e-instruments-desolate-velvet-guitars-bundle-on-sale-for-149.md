@@ -10,7 +10,7 @@ dealPrice: "$149"
 originalPrice: "$269"
 saleExpiry: '2026-04-30'
 draft: false
-score: 7.42
+score: 7.21
 ---
 
 ---

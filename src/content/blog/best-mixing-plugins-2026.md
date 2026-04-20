@@ -4,7 +4,7 @@ description: "The best mixing plugins of 2026 — EQ, compression, saturation, m
 pubDate: "2026-04-20T00:00:00Z"
 tags: ["mixing", "vst-plugin", "mastering", "roundup", "music-production"]
 heroImage: "/images/best-mixing-plugins-2026.jpg"
-score: 5.9
+score: 5.6
 draft: false
 affiliate: "https://www.pluginboutique.com/genres/1?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-mixing-plugins-2026"
 ---

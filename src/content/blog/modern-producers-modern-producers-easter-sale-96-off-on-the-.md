@@ -10,7 +10,7 @@ heroImage: /images/modern-producers-modern-producers-easter-sale-96-off-on-the-.
 aiImage: true
 discount: "96% OFF"
 draft: false
-score: 4.13
+score: 3.92
 ---
 **TL;DR:** Modern Producers is running an Easter Sale with a massive **96% off** the Easter Bundle 2026 — a collection of 30 sample kits from Jungle Loops. That's pennies per kit at this discount level. Check exact pricing and grab the bundle at [Modern Producers](https://www.modernproducers.com/products/easter-bundle-2026) before the sale ends.
 

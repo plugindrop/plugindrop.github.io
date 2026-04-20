@@ -8,7 +8,7 @@ affiliate: https://www.pluginboutique.com/product/2-Effects/8-Compressor/15776-F
 heroImage: /images/fg-116-blue-fet-compressors-5c150f.jpg
 dealPrice: "$99.00"
 draft: false
-score: 3.82
+score: 3.57
 ---
 **TL;DR:** The FG-116 Blue Series FET Compressors from Slate Digital is available now at Plugin Boutique — check the current deal price vs. regular MSRP on the product page. If you've been eyeing a high-quality 1176-style FET compressor plugin, this is worth a look. [Grab it here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/15776-FG-116-Blue-Series-FET-Compressors?utm_source=plugindrop&utm_medium=article&utm_campaign=fg-116-blue-fet-compressors-5c150f&a_aid=69cb95abe1763)
 

@@ -9,7 +9,7 @@ heroImage: /images/triple-spiral-audio-releases-organism-sound-library-for-omni.
 dealPrice: "$46.49"
 saleExpiry: "2026-04-19"
 draft: false
-score: 3.08
+score: 2.87
 ---
 **TL;DR:** Triple Spiral Audio just dropped Organism, a 500-preset sound library for Omnisphere 3, at ~~€75~~ **€56.25** with a 25% introductory discount through April 19th, 2026. Ultimate Omnisphere Bundle owners get an extra 15% off at checkout. [Grab the intro deal here.](https://www.triplespiralaudio.com/product/organism-for-omnisphere-3/)
 

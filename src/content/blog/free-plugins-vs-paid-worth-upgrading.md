@@ -6,7 +6,7 @@ tags: ["free", "guide", "music-production"]
 affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugins-vs-paid-worth-upgrading"
 heroImage: "/images/heroes/free-vs-paid.jpg"
 draft: false
-score: 1.77
+score: 1.68
 ---
 
 **TL;DR:** Free plugins cover roughly 80% of production needs. Paid upgrades make sense when you need a specific workflow feature, not just "better sound." Here is a category-by-category breakdown of where free holds up and where paid pulls ahead.

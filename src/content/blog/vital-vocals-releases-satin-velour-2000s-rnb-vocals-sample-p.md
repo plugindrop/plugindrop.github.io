@@ -8,7 +8,7 @@ affiliate: https://www.loopmasters.com/genres/48-Soul/products/20560-Satin-Velou
 heroImage: /images/vital-vocals-releases-satin-velour-2000s-rnb-vocals-sample-p.jpg
 dealPrice: "$34.95"
 draft: false
-score: 1.95
+score: 1.86
 ---
 **TL;DR:** Vital Vocals just dropped **Satin Velour – 2000s RnB Vocals**, a royalty-free sample pack featuring vocalist Miki Rose across 4 original song kits with leads, harmonies, and full acapellas — all in 24-bit WAV at 1.99 GB. Priced at £34.95, it's available now on Loopmasters. [Grab Satin Velour here.](https://www.loopmasters.com/genres/48-Soul/products/20560-Satin-Velour-2000s-RnB-Vocals?utm_source=plugindrop&utm_medium=article&utm_campaign=vital-vocals-releases-satin-velour-2000s-rnb-vocals-sample-p&a_aid=69cb95abe1763)
 

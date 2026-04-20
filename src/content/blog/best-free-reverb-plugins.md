@@ -8,7 +8,7 @@ heroImage: "/images/heroes/best-free-reverb.jpg"
 dealPrice: "FREE"
 originalPrice: "$99"
 draft: false
-score: 2.73
+score: 2.64
 ---
 
 **TL;DR:** 7 free reverb plugins that cover plates, halls, rooms, and experimental ambient spaces. Valhalla Supermassive leads for massive tails and creative effects. OrilRiver and Dragonfly handle classic algorithmic reverb. All free, no trials.

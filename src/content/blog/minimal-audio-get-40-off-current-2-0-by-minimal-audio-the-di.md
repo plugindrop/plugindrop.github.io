@@ -8,7 +8,7 @@ heroImage: "/images/minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di
 discount: "40% OFF"
 dealPrice: "$119.00"
 originalPrice: "$199.00"
-score: 8.85
+score: 8.55
 saleExpiry: "2026-04-30"
 draft: false
 ---

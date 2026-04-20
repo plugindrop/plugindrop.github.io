@@ -10,7 +10,7 @@ dealPrice: "$99"
 originalPrice: "$198"
 saleExpiry: '2026-04-20'
 draft: false
-score: 6.33
+score: 6.12
 ---
 **TL;DR:** Applied Acoustics Systems is offering Strum GS-2 at 50% off — ~~$198~~ **$99**. This physical modeling guitar synthesizer is one of the go-to tools for realistic guitar parts without recording a real guitar. Deal runs until April 20th. [Grab Strum GS-2 at 50% off here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2-Acoustic-Electric?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustics-systems-get-50-off-strum-gs-2-by-applied-a)
 

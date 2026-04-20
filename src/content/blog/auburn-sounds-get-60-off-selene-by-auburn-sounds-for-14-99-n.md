@@ -12,7 +12,7 @@ originalPrice: "$38.67"
 saleExpiry: '2026-04-16'
 aiImage: true
 draft: false
-score: 3.81
+score: 3.6
 ---
 **TL;DR:** Selene by Auburn Sounds is 60% off right now — ~~$38.67~~ **$14.99** for the Full Edition of this versatile algorithmic reverb. The deal runs until April 16th, so there's a decent window to decide. [Grab Selene at 60% off here.](https://audioplugin.deals/product/selene-by-auburn-sounds/ref/21/)
 

@@ -11,7 +11,7 @@ discount: "54% OFF"
 dealPrice: "$99.00"
 originalPrice: "$215.22"
 draft: false
-score: 5.92
+score: 6.26
 ---
 
 **TL;DR:** Scaler Music is running an Easter sale at Plugin Boutique with up to 54% off their lineup — including Scaler 3, Scaler EQ, and DC Snares. Sale prices start at just $29, and bundles bring even deeper value. The sale ends April 9th, so act before it's gone. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9&a_aid=69cb95abe1763).

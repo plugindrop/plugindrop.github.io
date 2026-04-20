@@ -10,7 +10,7 @@ dealPrice: "$29"
 originalPrice: "$69"
 saleExpiry: '2026-05-02'
 draft: false
-score: 5.25
+score: 5.04
 ---
 
 **TL;DR:** Fuse Audio Labs just dropped Tube Lab — a vintage channel strip plugin packing a multi-tube preamp, Baxandall EQ, and optical compressor into one sleek package. Grab it at the ~~$69~~ **$29 intro price** before May 2nd and save $40. [Get Tube Lab at the intro price here.](https://bedroomproducersblog.com/2026/04/03/fuse-audio-tube-lab/)

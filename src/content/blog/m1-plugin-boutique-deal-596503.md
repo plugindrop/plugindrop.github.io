@@ -10,7 +10,7 @@ dealPrice: "$49.99"
 originalPrice: "$99.99"
 discount: "50% OFF"
 draft: false
-score: 7.91
+score: 7.65
 ---
 **TL;DR:** The legendary Korg M1 plugin — one of the best-selling synthesizers in history — is available at Plugin Boutique right now. Check current pricing on the product page, but any discount on this iconic workstation plugin is worth acting on fast. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11198-M1?utm_source=plugindrop&utm_medium=article&utm_campaign=m1-plugin-boutique-deal-596503&a_aid=69cb95abe1763)
 

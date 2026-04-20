@@ -9,7 +9,7 @@ heroImage: /images/universal-audio-little-labs-voice-of-god-now-available-nativ.
 dealPrice: "$49"
 originalPrice: "$99"
 draft: false
-score: 4.9
+score: 4.83
 ---
 
 **TL;DR:** Universal Audio's Little Labs Voice Of God bass resonance plugin is now available as a native plugin — no UAD hardware required. It's currently **50% off at ~~$99~~ $49** during the introductory sale. If you've been wanting that broadcast-style low-end weight on vocals, kicks, and bass, [grab it while the intro pricing lasts](https://www.thomann.de/intl/universal_audio_little_labs_voice_of_god.htm).

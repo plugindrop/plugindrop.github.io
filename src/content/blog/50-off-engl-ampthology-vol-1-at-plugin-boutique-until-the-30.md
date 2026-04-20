@@ -11,7 +11,7 @@ discount: "50% OFF"
 dealPrice: "$49.99"
 originalPrice: "$99.99"
 draft: false
-score: 7.27
+score: 7.01
 ---
 **TL;DR:** ENGL Ampthology Vol 1 — a collection of modeled ENGL guitar amplifiers for your DAW — is currently **50% off at Plugin Boutique until April 30, 2026**. If you've been eyeing authentic German amp tone in plugin form, this is a rare half-price window. [Grab it here before the 30th.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?utm_source=plugindrop&utm_medium=article&utm_campaign=50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30&a_aid=69cb95abe1763)
 

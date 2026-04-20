@@ -10,7 +10,7 @@ saleExpiry: '2026-04-30'
 dealPrice: "$45"
 originalPrice: "$98"
 draft: false
-score: 5.77
+score: 5.57
 ---
 **TL;DR:** The DC Snares & BigKick bundle from Plugin Boutique packs two dedicated drum instruments — one for snares, one for kicks — at ~~$98~~ **$45 USD**, saving you 54%. That's roughly $22.50 per plugin for serious drum sound design tools. [Grab the bundle here before the deal ends.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/12750-DC-Snares-BigKick-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-bigkick-plugin-bundle-on-sale-for-45-usd-a47856&a_aid=69cb95abe1763)
 

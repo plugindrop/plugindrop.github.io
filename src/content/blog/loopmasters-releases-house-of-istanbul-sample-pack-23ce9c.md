@@ -5,7 +5,7 @@ pubDate: "2026-04-20T09:59:13Z"
 tags: ["samples and presets", "loopmasters"]
 affiliate: "https://www.loopmasters.com/genres/25-House/products/20372-House-of-Istanbul?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=loopmasters-releases-house-of-istanbul-sample-pack-23ce9c"
 heroImage: "/images/loopmasters-releases-house-of-istanbul-sample-pack-23ce9c.png"
-score: 3.96
+score: 4.08
 dealPrice: "$34.95"
 draft: false
 ---

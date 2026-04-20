@@ -12,7 +12,7 @@ originalPrice: "$98.57"
 saleExpiry: '2026-04-12'
 aiImage: true
 draft: false
-score: 5.37
+score: 5.16
 ---
 ---
 

@@ -9,7 +9,7 @@ heroImage: /images/space-control-2-189dce.jpg
 dealPrice: "$79.00"
 originalPrice: "$178.99"
 draft: false
-score: 7.99
+score: 7.74
 ---
 Here is the SEO deal roundup article:
 

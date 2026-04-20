@@ -10,7 +10,7 @@ saleExpiry: '2026-04-30'
 aiImage: true
 discount: "60% OFF"
 draft: false
-score: 2.87
+score: 2.66
 ---
 **TL;DR:** The Very Loud Indeed Co. is running a Spring Sale with up to 60% off their entire catalogue of cinematic scoring tools — Kontakt libraries, Omnisphere soundsets, and more. Sale runs **April 2–15, 2026**. If you score to picture or design cinematic textures, this is one of the steeper discounts this brand offers. [Grab the deal on KVR →](https://www.veryloudindeed.com/)
 

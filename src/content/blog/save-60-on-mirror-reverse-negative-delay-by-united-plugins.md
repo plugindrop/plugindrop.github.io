@@ -5,7 +5,7 @@ pubDate: "2026-04-20T09:24:52Z"
 tags: ["sales and promotions", "aax", "au", "delay", "plugin boutique", "reverb", "sale", "united plugins", "vst"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/10-Delay/8658-Mirror?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-60-on-mirror-reverse-negative-delay-by-united-plugins"
 heroImage: "/images/save-60-on-mirror-reverse-negative-delay-by-united-plugins.jpg"
-score: 3.24
+score: 8.1
 dealPrice: "$28.00"
 originalPrice: "$69.00"
 draft: false

@@ -10,7 +10,7 @@ aiImage: true
 dealPrice: "FREE"
 saleExpiry: "2026-04-20"
 draft: false
-score: 1.5
+score: 1.41
 ---
 ---
 

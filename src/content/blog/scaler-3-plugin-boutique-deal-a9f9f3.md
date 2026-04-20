@@ -6,7 +6,7 @@ tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-3-plugin-boutique-deal-a9f9f3&a_aid=69cb95abe1763"
 heroImage: "/images/scaler-3-plugin-boutique-deal-a9f9f3.jpg"
 dealPrice: "$99.00"
-score: 3.9
+score: 3.6
 draft: false
 ---
 **TL;DR:** Scaler 3 is a DAW-integrated music theory plugin for chord discovery, scale exploration, and MIDI export. Check the current price at Plugin Boutique — [grab Scaler 3 here](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-3-plugin-boutique-deal-a9f9f3&a_aid=69cb95abe1763).

@@ -9,7 +9,7 @@ heroImage: /images/the-very-loud-indeed-co-launches-spring-sale-with-60-off.jpg
 saleExpiry: '2026-04-30'
 discount: "60% OFF"
 draft: false
-score: 3.92
+score: 3.71
 ---
 ---
 

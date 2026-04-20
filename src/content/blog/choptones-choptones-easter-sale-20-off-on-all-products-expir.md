@@ -11,7 +11,7 @@ saleExpiry: '2026-04-13'
 aiImage: true
 discount: "20% OFF"
 draft: false
-score: 3.01
+score: 2.8
 ---
 **TL;DR:** ChopTones is running a 20% off Easter Sale on their entire catalog of guitar amp profiles and impulse responses. If you've been eyeing any of their tone packs, this is a solid window to grab them at a discount. Sale runs through April 13th — [shop the full catalog here](https://www.choptones.com/collections).
 

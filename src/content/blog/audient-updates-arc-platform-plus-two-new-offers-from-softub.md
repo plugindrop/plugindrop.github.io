@@ -10,7 +10,7 @@ originalPrice: "$79"
 saleExpiry: '2026-04-30'
 aiImage: true
 draft: false
-score: 3.57
+score: 3.36
 ---
 **TL;DR:** Audient has relaunched its ARC (Audio Resource Centre) platform with a cleaner interface and two brand-new free plugin bundles — Softube Flow Guitar Essentials and Excite Audio's Lifetime Lite Bundle (valued at ~~$79~~ **free**). All new and existing Audient hardware owners qualify. [Grab the details and register here.](https://www.kvraudio.com/news/audient-updates-arc-platform---plus-two-new-offers-from-softube-and-excite-audio-66569?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=66569)
 

@@ -4,7 +4,7 @@ description: "The best synth plugins of 2026 — from free options like Surge XT
 pubDate: "2026-04-20T00:00:00Z"
 tags: ["synthesizer", "vst-plugin", "sound-design", "roundup", "music-production"]
 heroImage: "/images/best-synth-plugins-2026.jpg"
-score: 7.4
+score: 7.1
 draft: false
 affiliate: "https://www.pluginboutique.com/genres/1/plugins/type/1?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-plugins-2026"
 ---

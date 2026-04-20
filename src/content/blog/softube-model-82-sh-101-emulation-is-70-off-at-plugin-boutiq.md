@@ -9,7 +9,7 @@ heroImage: /images/softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq.
 dealPrice: "$29"
 originalPrice: "$99"
 draft: false
-score: 6.97
+score: 6.71
 ---
 **TL;DR:** Softube's Model 82 — a faithful emulation of the iconic Roland SH-101 — is currently **70% off** at Plugin Boutique, dropping from ~~$99~~ to just **$29**. If you've been watching this one, that's a significant discount from a developer that doesn't run sales constantly. [Grab Model 82 at Plugin Boutique for $29.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763)
 

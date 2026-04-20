@@ -10,7 +10,7 @@ dealPrice: "$9.00"
 originalPrice: "$119.00"
 discount: "92% OFF"
 draft: false
-score: 7.1
+score: 6.84
 ---
 **TL;DR:** DANDY is currently on sale at Plugin Boutique — grab it at the deal price before it reverts. Check the product page for the exact discount, but the savings are worth a look. [Snag the deal here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY?utm_source=plugindrop&utm_medium=article&utm_campaign=dandy-plugin-boutique-deal-f167a6&a_aid=69cb95abe1763)
 

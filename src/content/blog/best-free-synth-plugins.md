@@ -7,7 +7,7 @@ affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=
 heroImage: "/images/heroes/best-free-synth.jpg"
 dealPrice: "FREE"
 draft: false
-score: 2.01
+score: 1.92
 ---
 
 **TL;DR:** 8 free synth plugins that cover wavetable, FM, subtractive, and hybrid synthesis. Vital and Surge XT lead the pack — both rival paid synths in sound quality and features. All genuinely free with no feature expiration.
