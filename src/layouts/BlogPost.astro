@@ -132,6 +132,7 @@ const relatedPosts = allPosts
 		<script type="application/ld+json" set:html={JSON.stringify(articleLD)} />
 		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbLD)} />
 		{faqLD && <script type="application/ld+json" set:html={JSON.stringify(faqLD)} />}
+		{productLD && <script type="application/ld+json" set:html={JSON.stringify(productLD)} />}
 		<style>
 			main {
 				width: calc(100% - 2rem);
@@ -420,6 +421,25 @@ const relatedPosts = allPosts
 					</div>
 				</div>
 			</article>
+
+			{relatedPosts.length > 0 && (
+				<section class="related-posts" aria-label="Related deals">
+					<h2 class="related-title">Related Deals</h2>
+					<ul class="related-list">
+						{relatedPosts.map(p => (
+							<li class="related-item">
+								<a href={`/posts/${p.id.replace(/\.mdx?$/, '')}/`} class="related-link">
+									{p.data.heroImage && <img src={p.data.heroImage} alt="" loading="lazy" width="120" height="68" class="related-thumb" />}
+									<span class="related-info">
+										<span class="related-item-title">{p.data.title}</span>
+										{p.data.dealPrice && <span class="related-price">{p.data.dealPrice}</span>}
+									</span>
+								</a>
+							</li>
+						))}
+					</ul>
+				</section>
+			)}
 		</main>
 
 		{/* Sticky CTA bar — mobile only, only for articles with affiliate links */}
