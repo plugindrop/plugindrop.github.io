@@ -14,6 +14,8 @@ draft: false
 
 ### 1. Valhalla VintageVerb (Paid — $50)
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Pzdx3Yb6qaw" title="Valhalla VintageVerb — Plugin Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+
 **Best for: Classic algorithmic reverb with vintage character**
 
 VintageVerb models reverb algorithms from the 1970s and 1980s — the hardware units that defined the sound of recorded music. Seventeen modes spanning plates, rooms, halls, and nonlinear reverbs. Three color settings (Now, 1970s, 1980s) shift the character of every mode. At $50, it delivers quality that competes with plugins costing five times as much.
@@ -22,11 +24,15 @@ The nonlinear modes (Reverse, Primeval, Flutter) make it equally useful for soun
 
 ### 2. FabFilter Pro-R 2 (Paid — $199)
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/BuIXvKKtVSw" title="FabFilter Pro-R 2 — Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+
 **Best for: Precision reverb with detailed EQ and decay control**
 
 Pro-R 2 gives you per-frequency decay control — cut the low-end reverb tail while letting highs sustain naturally, or shape the reverb density across the spectrum with a draggable EQ curve. The Decay Rate EQ is unique among algorithmic reverbs and solves the problem of muddy reverb low-end without using a separate EQ plugin. Excellent for mastering and precise mixing.
 
 ### 3. Valhalla Supermassive (Free)
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — Official Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 
 **Best for: Ambient, experimental, and massive reverb tails**
 
@@ -35,6 +41,8 @@ Eighteen modes including Warp, Gemini, and Hydra. Reverb and delay hybrid with d
 [More on Valhalla Supermassive →](/posts/valhalla-supermassive-free-reverb-delay/)
 
 ### 4. Eventide Blackhole (Paid — $99)
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/oHhDVAqqKy0" title="Eventide Blackhole — Reverb Plugin Demo & Preset Walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 
 **Best for: Massive, surreal reverb for pads and sound design**
 

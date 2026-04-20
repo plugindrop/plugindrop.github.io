@@ -14,6 +14,8 @@ draft: false
 
 ### 1. Xfer Serum 2 (Paid — $189 or Subscription)
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum 2 by Xfer Records — No Talking Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+
 **Best for: Wavetable synthesis and modern electronic music**
 
 Serum 2 is the most widely used wavetable synthesizer in modern production. Dual wavetable oscillators with visual waveform editing, an FM/AM oscillator, sub-oscillator, noise oscillator, and one of the most complete modulation systems in any plugin — drag-and-drop from any modulator to any parameter. The built-in effects chain handles full signal processing without leaving the plugin.
@@ -21,6 +23,8 @@ Serum 2 is the most widely used wavetable synthesizer in modern production. Dual
 Used across EDM, pop, hip-hop, and film scoring. The wavetable import and creation tools let producers build entirely custom sonic palettes.
 
 ### 2. Vital (Free / Paid — $25–$80)
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/eLbA42iH8hg" title="Vital — First Look: Free Wavetable Synth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 
 **Best for: Wavetable synthesis with a generous free tier**
 
@@ -30,6 +34,8 @@ For producers who want Serum-style wavetable synthesis without the cost, Vital i
 
 ### 3. Surge XT (Free)
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/8wdwrr4Nrk8" title="Surge XT — Free Synth No-Talking Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+
 **Best for: Deep subtractive and wavetable synthesis with no cost**
 
 Open-source and actively developed, Surge XT is one of the most feature-rich free synths available. Three oscillators per voice with multiple synthesis types (wavetable, classic, window, sine, FM2/3, S&H Noise), two LFOs with complex shapes, a full effects chain, and extensive modulation routing. The preset library covers leads, pads, basses, and sound design.
@@ -37,6 +43,8 @@ Open-source and actively developed, Surge XT is one of the most feature-rich fre
 For producers on a tight budget, Surge XT offers more depth than many paid synths.
 
 ### 4. Arturia Pigments (Paid — $199)
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/XMmlkkgQ378" title="Arturia Pigments 5 — Polychrome Software Synthesizer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 
 **Best for: Multi-engine synthesis with deep modulation**
 
@@ -46,11 +54,15 @@ Ideal for producers who want a single synth that covers every synthesis paradigm
 
 ### 5. Native Instruments Massive X (Paid — $149)
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/T4mfM73egsQ" title="Native Instruments Massive X — Walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+
 **Best for: Bass design, wavetable, and modern electronic textures**
 
 Massive X replaced the original Massive as NI's flagship wavetable synth. Dual phase modulation oscillators, extensive routing via a matrix system, and a noise section with filtering. The routing flexibility allows FM, PM, and ring modulation configurations that standard wavetable synths can't achieve. Strong in bass and mid-range sound design for electronic music.
 
 ### 6. U-he Diva (Paid — $179)
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/LeSAuSUayFE" title="U-he Diva — Virtual Analog Synth Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 
 **Best for: Analog hardware emulation and vintage synth sounds**
 
@@ -63,6 +75,8 @@ Diva emulates the analog circuits of classic hardware synthesizers — Minimoog,
 A software recreation of the 1973 Korg miniKORG 700FS — one of the earliest commercial synthesizers. Patch-panel routing, formant filters, and a distinctive raw oscillator character. Useful for lo-fi sounds, retro bass tones, and experimental textures that modern wavetable synths can't replicate convincingly.
 
 ### 8. TAL-NoiseMaker (Free)
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/ZoMsXVFoAno" title="TAL NoiseMaker — Free Synth No-Talking Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 
 **Best for: Classic virtual analog without complexity**
 

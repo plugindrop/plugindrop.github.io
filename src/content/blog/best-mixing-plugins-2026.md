@@ -14,6 +14,8 @@ draft: false
 
 ### 1. FabFilter Pro-Q 3 — EQ (Paid — $179)
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/IDMrLQGd21w" title="FabFilter Pro-Q 3 — Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+
 **Best for: Surgical and musical EQ on every channel**
 
 The mixing engineer's standard-issue EQ. Up to 24 bands, dynamic EQ per band, M/S processing, linear phase mode, and a full-spectrum analyzer with multi-instance collision detection. The combination of precision and workflow speed makes it practical on every track in a session.
@@ -21,6 +23,8 @@ The mixing engineer's standard-issue EQ. Up to 24 bands, dynamic EQ per band, M/
 For producers who can't justify the cost yet, TDR Nova (free) handles dynamic EQ in a similar paradigm.
 
 ### 2. FabFilter Pro-C 2 — Compressor (Paid — $179)
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/2zjQNeM2RxU" title="FabFilter Pro-C 2 — Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 
 **Best for: Transparent to vintage-style compression across all channels**
 
@@ -30,6 +34,8 @@ Free alternative: Klanghelm DC8C covers similar character compression territory 
 
 ### 3. Soundtoys Decapitator — Saturation (Paid — $199)
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/BQf_z5snX38" title="Soundtoys Decapitator — Saturation Plugin Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+
 **Best for: Analog saturation and harmonic distortion**
 
 Five analog saturation styles based on classic hardware: Neve, Studer, EMI, Ampex, and a punish mode for heavy distortion. Drive, tone, and mix controls let it range from subtle harmonic enhancement to deliberate breakup. Decapitator is used on drums, bass, guitars, and vocals for the "glue" that comes from analog hardware.
@@ -37,6 +43,8 @@ Five analog saturation styles based on classic hardware: Neve, Studer, EMI, Ampe
 Free alternatives: Klanghelm IVGI (free) and Softube Saturation Knob (free) cover basic saturation.
 
 ### 4. Valhalla VintageVerb — Reverb (Paid — $50)
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Pzdx3Yb6qaw" title="Valhalla VintageVerb — Plugin Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 
 **Best for: Room, plate, and hall reverb for mixing**
 
@@ -46,6 +54,8 @@ Free alternatives: Valhalla Supermassive for creative/ambient reverb; OrilRiver 
 
 ### 5. Soundtoys EchoBoy — Delay (Paid — $199)
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/teHkc4O2oiE" title="Soundtoys EchoBoy — Delay Plugin Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+
 **Best for: Analog-style delay with deep character control**
 
 EchoBoy emulates tape, analog, and digital delay units with per-style saturation and filtering. Rhythm patterns, step sequencer in the studio version, and four modes (Single, Dual, Ping Pong, Rhythm) cover every delay application. The saturation per echo head gives it a warmth that clean digital delays don't offer.
@@ -53,6 +63,8 @@ EchoBoy emulates tape, analog, and digital delay units with per-style saturation
 Free alternatives: Valhalla Supermassive includes delay modes; CHOW Tape Model covers analog tape delay character.
 
 ### 6. iZotope Ozone 11 — Mastering Suite (Paid — $249)
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Mdr1yxgPX1Y" title="iZotope Ozone 11 — What's New" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 
 **Best for: Mastering chain in a single plugin**
 

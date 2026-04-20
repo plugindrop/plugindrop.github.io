@@ -14,6 +14,8 @@ draft: false
 
 ### 1. Splice Sounds — Hip-Hop Essentials Collections
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/jGrDi3ZmBvs" title="Making Beats With Splice — First Look" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+
 **Best for: Access to a massive royalty-free hip-hop library**
 
 Splice's subscription model gives access to millions of samples across every hip-hop subgenre. Their curated "Hip-Hop Essentials" packs from producers like Hit-Boy, Kenny Beats, and Murda Beatz are among the highest-quality sample content available digitally. The per-sample model means you only download what you use — practical for producers building a focused library.
@@ -35,6 +37,8 @@ Looperman is a community upload platform where producers share royalty-free loop
 Essential for producers who need free material for sampling and interpolation practice.
 
 ### 4. Cymatics — Modern Trap and Hip-Hop Packs
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/UFDX8I6wCC4" title="Making Beats with Free Sample Packs — Cymatics Hip-Hop Starter Pack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 
 **Best for: Trap drums, 808s, and modern hip-hop sound design**
 
@@ -59,6 +63,8 @@ NI's Maschine Expansions for hip-hop (including "Blanket Bass," "Cloud Supply," 
 Expansions typically run $50–$100; frequently included in Native Access bundle deals.
 
 ### 7. Producergrind — Full Construction Kits
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/qq8aJar55rA" title="450 FREE Hip Hop Samples Construction Kit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 
 **Best for: Ready-made hip-hop construction kits with stems**
 

@@ -14,6 +14,8 @@ draft: false
 
 ### 1. FabFilter Pro-C 2 (Paid — $179)
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/2zjQNeM2RxU" title="FabFilter Pro-C 2 — Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+
 **Best for: Transparent to medium-character compression in any style**
 
 Eight compression styles — Clean, Classic, Opto, Vocal, Mastering, Bus, Punch, and Pumping — in one plugin. Every style has a distinct character range, from near-transparent Clean mode to the pumping sidechain effect of the Pumping setting. The real-time gain reduction display, oversampling, and look-ahead controls make it a go-to for both mixing and mastering. The visual feedback alone improves decision-making speed.
@@ -21,6 +23,8 @@ Eight compression styles — Clean, Classic, Opto, Vocal, Mastering, Bus, Punch,
 If you're working across multiple genres and need one compressor to handle everything well, Pro-C 2 is the benchmark.
 
 ### 2. Klanghelm DC8C (Free / $22)
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/o4jDTvtgba8" title="Klanghelm DC8C 3 — Advanced Compressor Demo on Drums" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 
 **Best for: Character compression at no cost**
 
