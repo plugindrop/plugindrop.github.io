@@ -5,11 +5,11 @@ description: Telepathic Instruments' Orchid hardware synth now has a software co
   — Pistil brings that same distinctive sound engine directly into your DAW. If...
 pubDate: '2026-04-17T13:23:23Z'
 tags: ["news", "orchid", "pistil", "synth", "synthesizer", "synthesizers", "tame impala", "video", "youtube", "music-production"]
-affiliate: https://www.soundtoys.com/product/decapitator/
+affiliate: https://www.telepathicinstruments.com/pistil?utm_source=plugindrop&utm_medium=article&utm_campaign=orchid-pistil-soft-synth
 heroImage: /images/telepathic-instruments-orchid-is-now-a-soft-synth-in-your-da.jpg
 draft: true
 ---
-**TL;DR:** Telepathic Instruments' Orchid hardware synth now has a software counterpart — Pistil brings that same distinctive sound engine directly into your DAW. If you've been eyeing the Orchid but couldn't justify the hardware price tag, this is your entry point. [Check out Pistil here.](https://www.soundtoys.com/product/decapitator/)
+**TL;DR:** Telepathic Instruments' Orchid hardware synth now has a software counterpart — Pistil brings that same distinctive sound engine directly into your DAW. If you've been eyeing the Orchid but couldn't justify the hardware price tag, this is your entry point. [Check out Pistil here.](https://www.telepathicinstruments.com/pistil?utm_source=plugindrop&utm_medium=article&utm_campaign=orchid-pistil-soft-synth)
 
 ---
 
@@ -48,7 +48,7 @@ Telepathic Instruments built their reputation on the Orchid — a hardware synth
 
 Pricing details should be confirmed directly on the Telepathic Instruments product page, as boutique plugin pricing can vary and promotional windows shift. Verify current pricing before purchasing — deals can change.
 
-[Get Pistil from the official page.](https://www.soundtoys.com/product/decapitator/)
+[Get Pistil from the official page.](https://www.telepathicinstruments.com/pistil?utm_source=plugindrop&utm_medium=article&utm_campaign=orchid-pistil-soft-synth)
 
 ---
 
@@ -84,7 +84,7 @@ A: Check the official site for demo or trial availability, as boutique developer
 
 Pistil puts a hardware-originated Orchid sound engine inside your DAW — no rack space required. For producers who've followed Telepathic Instruments' hardware work, this is the accessible entry point.
 
-[Grab Pistil now.](https://www.soundtoys.com/product/decapitator/)
+[Grab Pistil now.](https://www.telepathicinstruments.com/pistil?utm_source=plugindrop&utm_medium=article&utm_campaign=orchid-pistil-soft-synth)
 
 ---
 
