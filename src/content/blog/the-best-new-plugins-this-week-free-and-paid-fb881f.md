@@ -7,6 +7,7 @@ tags: ["buyers guides", "gear", "guides", "news", "compressors", "daws", "effect
 affiliate: https://www.uaudio.com/products/uad-explore-free
 heroImage: /images/the-best-new-plugins-this-week-free-and-paid-fb881f.jpg
 draft: false
+score: 2.13
 ---
 **TL;DR:** Universal Audio's UAD Explore is available **free** — that's ~~paid-tier analog emulations~~ at $0. A no-brainer entry point into UA's legendary plugin library. [Grab UAD Explore Free here.](https://www.uaudio.com/products/uad-explore-free)
 

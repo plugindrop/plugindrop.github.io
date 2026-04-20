@@ -11,6 +11,7 @@ saleExpiry: '2026-04-12'
 aiImage: true
 discount: "12% OFF"
 draft: false
+score: 3.15
 ---
 **TL;DR:** ACE Studio 2 is running an Easter Sale with up to 12% off — that means the Artist edition drops from ~~$398~~ to around $350, and the Artist Pro from ~~$528~~ to roughly $465. The deal runs through April 12th, 2026. [Grab the discount at Plugin Boutique before it expires.](https://www.pluginboutique.com/deals/22658?utm_source=plugindrop&utm_medium=article&utm_campaign=ace-studio-get-up-to-12-off-in-the-ace-studio-2-easter-sale-&a_aid=69cb95abe1763)
 

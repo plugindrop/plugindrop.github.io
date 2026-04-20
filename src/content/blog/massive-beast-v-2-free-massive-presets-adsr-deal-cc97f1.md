@@ -8,6 +8,7 @@ affiliate: https://www.adsrsounds.com/product/presets/massive-beast-v-2-free-mas
 heroImage: /images/massive-beast-v-2-free-massive-presets-adsr-deal-cc97f1.png
 dealPrice: FREE
 draft: false
+score: 1.83
 ---
 **TL;DR:** Massive Beast V 2 is currently available as a **free download** on ADSR Sounds — no cost, no catch. This is a preset pack for NI Massive, and free Massive content worth grabbing rarely sticks around at $0 forever. [Grab it free on ADSR Sounds.](https://www.adsrsounds.com/product/presets/massive-beast-v-2-free-massive-presets/?utm_source=plugindrop&utm_medium=article&utm_campaign=massive-beast-v-2-free-massive-presets-adsr-deal-cc97f1)
 

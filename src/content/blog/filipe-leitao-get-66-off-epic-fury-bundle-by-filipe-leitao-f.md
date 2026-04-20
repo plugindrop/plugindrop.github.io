@@ -13,6 +13,7 @@ dealPrice: $9.99
 originalPrice: $29.00
 saleExpiry: '2026-04-30'
 draft: false
+score: 5.65
 ---
 **TL;DR:** Filipe Leitao's Epic Fury Bundle is currently **66% off** — dropping from ~~$29.00~~ to just **$9.99**. That's a solid bundle price for a collection from a respected independent developer. [Grab it here before the price goes back up.](https://audioplugin.deals/product/epic-fury-bundle-by-filipe-leitao/ref/21/)
 

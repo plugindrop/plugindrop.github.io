@@ -11,6 +11,7 @@ heroImage: /images/feddsp-feddsp-releases-konvikt-konan-hall-malevolence-signat.
 aiImage: true
 saleExpiry: '2026-05-01'
 draft: false
+score: 2.8
 ---
 **TL;DR:** fedDSP is running a limited-time 28% discount on KONVIKT — the Konan Hall (Malevolence) Signature Amp Suite. If you've been eyeing a signature metal amp plugin with serious genre credentials behind it, this is a window worth noticing. [Grab it at fedDSP direct](https://feddsp.com/products/konvikt/) before the deal expires.
 

@@ -7,6 +7,7 @@ affiliate: "https://labs.spitfireaudio.com/"
 heroImage: "/images/heroes/spitfire-labs.jpg"
 dealPrice: "FREE"
 draft: false
+score: 1.77
 ---
 
 **TL;DR:** Spitfire Audio LABS — **80+ instruments, permanently free.** Soft Piano, Strings, Choir, Drums, and dozens more. This is from Spitfire Audio, whose paid libraries run $29 to $499+. LABS costs nothing, requires only a free Spitfire account. [Get it here](https://labs.spitfireaudio.com/).

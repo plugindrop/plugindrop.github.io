@@ -7,6 +7,7 @@ affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=
 heroImage: "/images/heroes/best-free-vst.jpg"
 dealPrice: "FREE"
 draft: false
+score: 1.77
 ---
 
 **TL;DR:** 15 free VST plugins that hold up against paid alternatives — organized by category so you can grab exactly what your setup needs. Synths, reverbs, EQs, compressors, and instruments. All $0.

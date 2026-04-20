@@ -9,6 +9,7 @@ heroImage: /images/save-on-excite-audio-s-effect-plugins-virtual-instruments.jpg
 saleExpiry: '2026-04-30'
 discount: "52% OFF"
 draft: false
+score: 1.89
 ---
 
 **TL;DR:** Excite Audio's full plugin lineup — including the Bloom virtual instruments, VISION 4X metering suite, Lifeline mixing tools, and Motion effects — is on sale with discounts up to 52% off at Plugin Boutique. The Bloom Bundle alone drops from ~~¥65,959~~ to ¥31,241. [Grab the deals before they expire →](https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-on-excite-audio-s-effect-plugins-virtual-instruments)

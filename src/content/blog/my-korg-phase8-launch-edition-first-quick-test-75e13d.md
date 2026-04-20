@@ -9,6 +9,7 @@ heroImage: /images/my-korg-phase8-launch-edition-first-quick-test-75e13d.webp
 aiImage: true
 dealPrice: "$1149"
 draft: false
+score: 4.2
 ---
 
 ---

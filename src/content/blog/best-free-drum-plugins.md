@@ -7,6 +7,7 @@ affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=
 heroImage: "/images/heroes/best-free-drum.jpg"
 dealPrice: "FREE"
 draft: false
+score: 1.62
 ---
 
 **TL;DR:** 10 free drum plugins covering acoustic kits, electronic drum machines, hip-hop samplers, and analog synthesis. Steven Slate Drums and MT Power Drum Kit 2 lead for realism; Sitala and Hydrogen for beat-making workflow. All genuinely free with no time limits.

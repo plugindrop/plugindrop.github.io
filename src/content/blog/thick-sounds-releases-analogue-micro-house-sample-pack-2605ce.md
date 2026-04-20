@@ -8,6 +8,7 @@ affiliate: https://www.loopmasters.com/genres/25-House/products/20621-Analogue-M
 heroImage: /images/thick-sounds-releases-analogue-micro-house-sample-pack-2605ce.jpg
 dealPrice: "$5.95"
 draft: false
+score: 1.96
 ---
 
 **TL;DR:** Thick Sounds just dropped **Analogue Micro House** — a 852 MB sample pack loaded with 139 loops, 122 one-shots, Serum presets, and MIDI files, all inspired by micro house legends like Ricardo Villalobos and Akufen. Priced at £24.95 for the full pack, with individual sections available from £3.95. [Grab it on Loopmasters here.](https://www.loopmasters.com/genres/25-House/products/20621-Analogue-Micro-House?utm_source=plugindrop&utm_medium=article&utm_campaign=thick-sounds-releases-analogue-micro-house-sample-pack-2605ce&a_aid=69cb95abe1763)

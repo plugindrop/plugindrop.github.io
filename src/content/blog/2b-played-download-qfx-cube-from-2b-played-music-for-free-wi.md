@@ -9,6 +9,7 @@ heroImage: /images/2b-played-download-qfx-cube-from-2b-played-music-for-free-wi.
 aiImage: true
 dealPrice: "FREE"
 draft: false
+score: 1.44
 ---
 ---
 

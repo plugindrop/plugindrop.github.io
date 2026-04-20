@@ -11,6 +11,7 @@ dealPrice: $69
 saleExpiry: '2026-04-12'
 aiImage: true
 draft: false
+score: 3.99
 ---
 ---
 

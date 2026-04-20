@@ -12,6 +12,7 @@ discount: "50% OFF"
 dealPrice: "$299.00"
 originalPrice: "$599.00"
 draft: false
+score: 10.79
 ---
 **TL;DR:** Universal Audio's Signature V3 bundle is currently 50% off as an upgrade from any UAD plug-in at Plugin Boutique — one of the steeper discounts UAD has offered on this collection. The deal runs until April 30, 2026. [Grab the deal here](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17065-UAD-Signature-V3-Upgrade-from-Any-UAD-Plug-in?utm_source=plugindrop&utm_medium=article&utm_campaign=50-off-uad-signature-v3-upgrade-from-any-uad-plug-in-at-plug&a_aid=69cb95abe1763) before it expires.
 

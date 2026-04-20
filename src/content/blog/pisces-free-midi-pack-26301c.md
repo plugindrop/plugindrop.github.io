@@ -9,6 +9,7 @@ heroImage: /images/pisces-free-midi-pack-26301c.webp
 aiImage: true
 dealPrice: "FREE"
 draft: false
+score: 1.5
 ---
 
 ---

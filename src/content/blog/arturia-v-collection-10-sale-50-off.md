@@ -9,6 +9,7 @@ heroImage: "/images/heroes/arturia-v-collection.jpg"
 dealPrice: "$699"
 saleExpiry: "2026-03-09"
 draft: false
+score: 5.46
 ---
 
 **TL;DR:** Arturia V Collection 11 Pro — **45 modeled vintage instruments** in one bundle. Minimoog, Jupiter-8, Prophet-5, DX7, CS-80, and 40 more, plus 7 new instruments added in v11 including Jup-8000 V, Pure LoFi, and SEM V. Regular price $699. Arturia runs 50% sales periodically — the last one was March 2026. [Check current pricing on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-v-collection-10-sale-50-off).

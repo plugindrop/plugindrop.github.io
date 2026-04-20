@@ -12,6 +12,7 @@ discount: "23% OFF"
 dealPrice: "$99.95"
 originalPrice: "$129.95"
 draft: false
+score: 6.82
 ---
 **TL;DR:** FSK Audio's Bark24 | Dyn is currently 23% off at Plugin Boutique — a solid discount on a dynamics processor from a developer with a dedicated following. Check the current sale price (and the ~~full price~~ it's discounted from) on the [Plugin Boutique product page](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17070-Bark24-Dyn?utm_source=plugindrop&utm_medium=article&utm_campaign=fsk-audio-get-23-off-bark24-dyn-by-fsk-audio-the-discounted-&a_aid=69cb95abe1763) before it reverts.
 

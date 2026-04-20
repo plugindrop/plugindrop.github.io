@@ -9,6 +9,7 @@ heroImage: /images/free-plugin-review-u-he-zebralette-3-08700c.webp
 aiImage: true
 dealPrice: FREE
 draft: false
+score: 1.89
 ---
 **TL;DR:** u-he Zebralette 3 is completely free — ~~paid~~ $0. It's a fully functional spectral synth plugin from one of the most respected plugin developers in the industry. Grab it directly from [u-he's freeware page](https://u-he.com/products/freeware/zebralette/).
 

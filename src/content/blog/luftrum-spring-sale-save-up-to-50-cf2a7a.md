@@ -10,6 +10,7 @@ saleExpiry: '2026-04-30'
 aiImage: true
 discount: "50% OFF"
 draft: false
+score: 2.45
 ---
 I now have enough information to write the article. Here it is:
 

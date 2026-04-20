@@ -11,6 +11,7 @@ saleExpiry: '2026-04-30'
 aiImage: true
 discount: "40% OFF"
 draft: false
+score: 3.92
 ---
 
 ---

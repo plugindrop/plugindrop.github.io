@@ -8,6 +8,7 @@ affiliate: https://www.midi.org/
 heroImage: /images/the-midi-association-honors-the-life-of-ikutaro-kakehashi-fo.webp
 aiImage: true
 draft: false
+score: 0.91
 ---
 **TL;DR:** The MIDI Association has officially honored the life and legacy of Ikutaro Kakehashi, the visionary founder of Roland Corporation and a key figure behind the creation of the MIDI standard. This is a significant moment for the music production community — [read the full tribute and details on KVR](https://www.midi.org/).
 
