@@ -4,13 +4,12 @@ description: KVASS Lab has dropped **Drift Phonk**, a dedicated phonk soundset b
   for Serum 2. If you produce phonk, trap, or Memphis-influenced beats, this is a...
 pubDate: '2026-04-17T09:23:34Z'
 tags: ["samples and presets", "kvass lab", "phonk", "serum", "music-production"]
-affiliate: https://www.adsrsounds.com/product/software/serum/#a_aid=rekkerd?utm_source=plugindrop&utm_medium=article&utm_campaign=kvass-lab-releases-drift-phonk-soundset-for-serum-2-3753c2
+affiliate: https://kvasslab.com/products/drift-phonk-serum-2-preset-bank-soundbank
 heroImage: /images/kvass-lab-releases-drift-phonk-soundset-for-serum-2-3753c2.jpg
-dealPrice: "$73.98"
 draft: false
 score: 4.0
 ---
-**TL;DR:** KVASS Lab has dropped **Drift Phonk**, a dedicated phonk soundset built for Serum 2. If you produce phonk, trap, or Memphis-influenced beats, this is a targeted pack worth adding to your library. [Grab Serum 2 on ADSR Sounds](https://www.adsrsounds.com/product/software/serum/#a_aid=rekkerd?utm_source=plugindrop&utm_medium=article&utm_campaign=kvass-lab-releases-drift-phonk-soundset-for-serum-2-3753c2) and check the product page for current pricing on the Drift Phonk pack.
+**TL;DR:** KVASS Lab has dropped **Drift Phonk**, a dedicated phonk soundset built for Serum 2. If you produce phonk, trap, or Memphis-influenced beats, this is a targeted pack worth adding to your library. [Grab Drift Phonk on KVASS Lab](https://kvasslab.com/products/drift-phonk-serum-2-preset-bank-soundbank) and check the product page for current pricing.
 
 ---
 
@@ -59,7 +58,7 @@ Pricing for the Drift Phonk soundset should be verified directly on the product 
 
 > **Note:** Verify current pricing on the product page — deals can change.
 
-[Check pricing and get Drift Phonk via ADSR Sounds](https://www.adsrsounds.com/product/software/serum/#a_aid=rekkerd?utm_source=plugindrop&utm_medium=article&utm_campaign=kvass-lab-releases-drift-phonk-soundset-for-serum-2-3753c2)
+[Check pricing and get Drift Phonk on KVASS Lab](https://kvasslab.com/products/drift-phonk-serum-2-preset-bank-soundbank)
 
 ---
 
@@ -81,7 +80,7 @@ If you want a synth-native solution that integrates directly with Serum 2's modu
 A: Yes — this is a preset soundset built for Serum 2 specifically. It will not work without a licensed copy of Serum 2.
 
 **Q: Where can I buy the Drift Phonk soundset?**
-A: It is available through ADSR Sounds. Use [this link](https://www.adsrsounds.com/product/software/serum/#a_aid=rekkerd?utm_source=plugindrop&utm_medium=article&utm_campaign=kvass-lab-releases-drift-phonk-soundset-for-serum-2-3753c2) to browse the listing.
+A: It is available directly from KVASS Lab. Use [this link](https://kvasslab.com/products/drift-phonk-serum-2-preset-bank-soundbank) to browse the listing.
 
 **Q: How many presets are included?**
 A: Check the official product page for the exact preset count — this can vary and is best confirmed at the source.
@@ -95,7 +94,7 @@ A: Requirements are tied to Serum 2's own system requirements. Check the officia
 
 KVASS Lab's Drift Phonk is a focused, genre-specific addition for any Serum 2 owner producing in the phonk space. New releases like this can move quickly — check current pricing now before any introductory rate ends.
 
-[Browse Drift Phonk and Serum 2 on ADSR Sounds](https://www.adsrsounds.com/product/software/serum/#a_aid=rekkerd?utm_source=plugindrop&utm_medium=article&utm_campaign=kvass-lab-releases-drift-phonk-soundset-for-serum-2-3753c2)
+[Browse Drift Phonk on KVASS Lab](https://kvasslab.com/products/drift-phonk-serum-2-preset-bank-soundbank)
 
 ---
 
