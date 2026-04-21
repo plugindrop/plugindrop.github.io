@@ -1,0 +1,104 @@
+---
+title: "51% Off Little AlterBoy"
+description: "Little AlterBoy by Soundtoys is down to **$49.00** (was ~~$99.00~~) at Plugin Boutique — that's 51% off one of the most recognizable vocal processing..."
+pubDate: "2026-04-21T03:00:58Z"
+tags: ["sale", "vst-plugin", "effects", "music-production"]
+affiliate: "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=little-alterboy-586da2"
+heroImage: "/images/little-alterboy-586da2.jpg"
+score: 7.05
+dealPrice: "$49.00"
+originalPrice: "$99.00"
+xText: "little alterboy's brand new and it's 51% off. honestly don't remember it ever going this deep. if vocal harmonies make your mixes worse, that changes today."
+draft: false
+---
+**TL;DR:** Little AlterBoy by Soundtoys is down to **$49.00** (was ~~$99.00~~) at Plugin Boutique — that's 51% off one of the most recognizable vocal processing plugins in the game. If you've been waiting on this one, [grab it here before the deal ends](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=little-alterboy-586da2).
+
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/yt8pFK6fJk4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+## What Is Little AlterBoy?
+
+Little AlterBoy is a vocal pitch and formant shifting plugin developed by Soundtoys, the company behind well-regarded effects like EchoBoy and Decapitator. It's designed specifically for vocal manipulation — shifting pitch, transforming formants, and adding harmonic drive to vocal tracks. The plugin is available in VST, AU, and AAX formats, making it compatible with most major DAWs.
+
+---
+
+## Key Features
+
+- **Pitch Shift:** Transpose vocals up or down in semitones without affecting timing — useful for harmonies or corrective pitch work.
+- **Formant Shift:** Independently adjust the formant frequency to change the character and perceived gender of a vocal without necessarily changing pitch.
+- **Drive Control:** Adds saturation and harmonic content to the signal, from subtle warmth to heavier distortion-style effects.
+- **MIDI Control:** Pitch can be controlled via MIDI input, enabling real-time melodic performance with a vocal source.
+- **Mono to Polyphonic Mode:** Allows a monophonic vocal to be shifted and layered across intervals, opening up creative harmonizing possibilities.
+
+---
+
+## What Producers Are Saying
+
+Little AlterBoy has been a community staple for years. On forums like KVR Audio and Reddit's r/audioengineering, it's frequently cited as a go-to for creative vocal manipulation — particularly for robotic/vocoder-style effects and quick gender-swap transformations. Soundtoys plugins in general carry a strong reputation in production circles, and Little AlterBoy is commonly recommended when producers ask about pitch/formant tools that don't require complex routing.
+
+---
+
+## Who Is It For?
+
+- **Hip-hop and pop producers** who want quick, creative vocal effects without complex signal chains.
+- **Sound designers** looking for a dedicated formant/pitch tool for voice transformation, character work, or experimental processing.
+- **Mixing engineers** who need to adjust vocal pitch or formant as a corrective or creative step inside a session.
+- **Electronic music producers** interested in vocoder-adjacent effects or MIDI-triggered vocal harmonics.
+
+---
+
+## Pricing & Deal Details
+
+| Regular Price | Deal Price | You Save |
+|---|---|---|
+| ~~$99.00~~ | **$49.00** | $50.00 (51%) |
+
+Soundtoys doesn't run deep discounts constantly — sales at this level tend to appear a few times a year, often around plugin deal events or as part of store-wide promotions. A 51% cut on a single plugin from a well-regarded developer is worth paying attention to.
+
+Note: Verify current pricing on the product page — deals can change without notice.
+
+[Get Little AlterBoy for $49.00 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=little-alterboy-586da2)
+
+---
+
+## Alternatives at a Glance
+
+| Name | Price | Key Difference |
+|---|---|---|
+| Antares Auto-Tune Artist | ~$99/yr (subscription) | Focused on pitch correction with real-time tuning; subscription model |
+| MeldaProduction MVocalPitch | Free (MFreeFXBundle) | Basic pitch shifting, fewer formant controls, no Drive stage |
+| iZotope Nectar (Elements) | ~$49 (on sale) | Broader vocal chain (EQ, compression, reverb) but less specialized for extreme formant work |
+
+If you need a dedicated formant and pitch transformer with harmonic drive in a single focused interface, Little AlterBoy covers that ground specifically. If you need a full vocal production suite with pitch correction as one of many tools, Nectar Elements competes at a similar price point.
+
+---
+
+## FAQ
+
+**Q: Does Little AlterBoy require a physical iLok dongle?**
+A: No physical dongle is required. Activation is handled through iLok License Manager, which supports machine-based authorization. Check the Soundtoys website for the latest activation terms.
+
+**Q: What DAWs does Little AlterBoy support?**
+A: It supports VST, AU, and AAX formats, covering most major DAWs including Ableton Live, Logic Pro, Pro Tools, FL Studio, and Cubase. Verify specific version compatibility on the product page.
+
+**Q: Is this a perpetual license or subscription?**
+A: Little AlterBoy is sold as a perpetual license — you pay once and own it. No ongoing subscription required.
+
+**Q: What are the system requirements?**
+A: Check the official Soundtoys product page for current macOS and Windows version requirements, as these can update with new releases.
+
+---
+
+## Get the Deal
+
+$50 off a Soundtoys plugin doesn't come around every week. At $49.00, Little AlterBoy is well within impulse-buy range for a tool with this much vocal manipulation capability.
+
+[Grab Little AlterBoy at 51% off on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=little-alterboy-586da2)
+
+---
+
+*This post contains affiliate links. We may earn a small commission at no extra cost to you.*
