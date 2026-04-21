@@ -3,7 +3,7 @@ title: Audient Updates ARC Platform - Plus Two New Offers From Softube & Excite 
 description: Audient has relaunched its ARC (Audio Resource Centre) platform with
   a cleaner interface and two brand-new free plugin bundles — Softube Flow Guitar...
 pubDate: '2026-04-02T10:29:05Z'
-tags: ["sale", "music-production"]
+tags: ["free", "music-production"]
 affiliate: https://arc.audient.com/
 heroImage: /images/audient-updates-arc-platform-plus-two-new-offers-from-softub.webp
 originalPrice: "$79"
