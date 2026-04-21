@@ -3,7 +3,7 @@ title: "Immense Sounds Halloween Horror Voices Phrases Samples Construction Kits
 description: "Immense Sounds' Halloween Horror Voices, Phrases & Samples Construction Kits is currently on deal at ADSR Sounds — a focused pack of horror-ready vocal..."
 pubDate: "2026-04-19T08:25:58Z"
 tags: ["sale", "music-production", "sample-pack"]
-affiliate: "https://www.adsrsounds.com/product/presets/immense-sounds-halloween-horror-voices-phrases-samples-construction-kits/?utm_source=plugindrop&utm_medium=article&utm_campaign=immense-sounds-halloween-horror-voices-phrases-samples-const"
+affiliate: "https://www.adsrsounds.com/product/presets/immense-sounds-halloween-horror-voices-phrases-samples-construction-kits/?a_aid=plugindrop&utm_source=plugindrop&utm_medium=article&utm_campaign=immense-sounds-halloween-horror-voices-phrases-samples-const"
 heroImage: "/images/immense-sounds-halloween-horror-voices-phrases-samples-const.jpg"
 dealPrice: "$12.57"
 originalPrice: "$17.95"
