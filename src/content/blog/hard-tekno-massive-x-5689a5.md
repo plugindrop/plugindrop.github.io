@@ -3,14 +3,14 @@ title: "Hard Tekno – Massive X"
 description: "Hard Tekno – Massive X is currently available on Loopmasters for **$12.95**. That's a targeted preset pack for Massive X users chasing industrial-grade..."
 pubDate: "2026-04-21T04:58:07Z"
 tags: ["sample-pack", "sale", "synth", "music-production"]
-affiliate: "https://www.loopmasters.com/system/products/covers/000/020/463/original/Hard_Tekno_Massive_X_Presets_1000_x_1000_Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hard-tekno-massive-x-5689a5"
+affiliate: "https://www.loopmasters.com/products/20463-hard-tekno-massive-x?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hard-tekno-massive-x-5689a5"
 heroImage: "/images/hard-tekno-massive-x-5689a5.jpg"
 score: 4.20
 dealPrice: "$12.95"
 xText: "hard tekno massive x just dropped. absolute sleeper if you're into the sound. preset banks this dialed in don't show up often"
 draft: false
 ---
-**TL;DR:** Hard Tekno – Massive X is currently available on Loopmasters for **$12.95**. That's a targeted preset pack for Massive X users chasing industrial-grade hard tekno sounds. [Grab it on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/463/original/Hard_Tekno_Massive_X_Presets_1000_x_1000_Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hard-tekno-massive-x-5689a5)
+**TL;DR:** Hard Tekno – Massive X is currently available on Loopmasters for **$12.95**. That's a targeted preset pack for Massive X users chasing industrial-grade hard tekno sounds. [Grab it on Loopmasters.](https://www.loopmasters.com/products/20463-hard-tekno-massive-x?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hard-tekno-massive-x-5689a5)
 
 ---
 
@@ -46,7 +46,7 @@ Hard Tekno – Massive X is a preset pack for Native Instruments' Massive X synt
 
 At $12.95, this is a low entry point for a genre-specific Massive X preset pack. Loopmasters regularly prices genre packs in this range, so this sits within the expected bracket for this type of content. No original price was listed at time of writing — verify current pricing directly on the product page, as deals can change.
 
-[Check current pricing and get the deal on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/463/original/Hard_Tekno_Massive_X_Presets_1000_x_1000_Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hard-tekno-massive-x-5689a5)
+[Check current pricing and get the deal on Loopmasters.](https://www.loopmasters.com/products/20463-hard-tekno-massive-x?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hard-tekno-massive-x-5689a5)
 
 ---
 
@@ -80,7 +80,7 @@ A: Check Loopmasters' official site for their current refund and returns policy,
 
 ## Get the Deal
 
-Hard Tekno – Massive X is live on Loopmasters for **$12.95** — a focused investment if you're producing in this genre and already own Massive X. [Pick it up directly on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/463/original/Hard_Tekno_Massive_X_Presets_1000_x_1000_Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hard-tekno-massive-x-5689a5)
+Hard Tekno – Massive X is live on Loopmasters for **$12.95** — a focused investment if you're producing in this genre and already own Massive X. [Pick it up directly on Loopmasters.](https://www.loopmasters.com/products/20463-hard-tekno-massive-x?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hard-tekno-massive-x-5689a5)
 
 ---
 

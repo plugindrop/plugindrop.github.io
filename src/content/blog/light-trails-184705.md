@@ -3,14 +3,14 @@ title: "Light Trails"
 description: "Zenhiser's *Light Trails* sample pack is available now on Loopmasters for **$44.95**. Packed with house-focused loops, one-shots, and atmospheres, this is..."
 pubDate: "2026-04-21T08:52:09Z"
 tags: ["sample-pack", "sale", "music-production"]
-affiliate: "https://www.loopmasters.com/system/products/covers/000/020/500/original/Zenhiser_Light_Trails_Cover.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=light-trails-184705"
+affiliate: "https://www.loopmasters.com/products/20500-light-trails?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=light-trails-184705"
 heroImage: "/images/light-trails-184705.jpg"
 score: 3.60
 dealPrice: "$44.95"
 xText: "light trails just dropped and producers are already genuinely curious. when a new release gets real interest without hype push, that's the actual signal that matters"
 draft: false
 ---
-**TL;DR:** Zenhiser's *Light Trails* sample pack is available now on Loopmasters for **$44.95**. Packed with house-focused loops, one-shots, and atmospheres, this is a solid grab for producers working in melodic and deep house. [Grab Light Trails on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/500/original/Zenhiser_Light_Trails_Cover.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=light-trails-184705)
+**TL;DR:** Zenhiser's *Light Trails* sample pack is available now on Loopmasters for **$44.95**. Packed with house-focused loops, one-shots, and atmospheres, this is a solid grab for producers working in melodic and deep house. [Grab Light Trails on Loopmasters.](https://www.loopmasters.com/products/20500-light-trails?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=light-trails-184705)
 
 ---
 
@@ -50,7 +50,7 @@ No original price was provided for this listing. The current price is **$44.95**
 
 > Note: Verify current pricing on the product page — deals can change.
 
-[View Light Trails on Loopmasters →](https://www.loopmasters.com/system/products/covers/000/020/500/original/Zenhiser_Light_Trails_Cover.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=light-trails-184705)
+[View Light Trails on Loopmasters →](https://www.loopmasters.com/products/20500-light-trails?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=light-trails-184705)
 
 ---
 
@@ -84,7 +84,7 @@ A: Check Loopmasters' official site for their current refund and download policy
 
 ## Get the Deal
 
-Light Trails by Zenhiser is available now for **$44.95** on Loopmasters — a focused, genre-specific pack for house producers who want polished, ready-to-use material. [Pick it up directly on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/500/original/Zenhiser_Light_Trails_Cover.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=light-trails-184705)
+Light Trails by Zenhiser is available now for **$44.95** on Loopmasters — a focused, genre-specific pack for house producers who want polished, ready-to-use material. [Pick it up directly on Loopmasters.](https://www.loopmasters.com/products/20500-light-trails?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=light-trails-184705)
 
 ---
 

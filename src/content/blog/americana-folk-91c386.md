@@ -3,14 +3,14 @@ title: "Americana Folk"
 description: "Americana Folk is a royalty-free sample pack from Loopmasters built around acoustic guitar loops, country guitar stems, folk piano phrases, and song kits..."
 pubDate: "2026-04-21T08:52:12Z"
 tags: ["sample-pack", "sale", "music-production"]
-affiliate: "https://www.loopmasters.com/system/products/covers/000/020/478/original/Royalty_Free_Folk_Samples__Americana_Guitar_Loops__Country_Guitar_Loops__Folk_Piano_Loops__Folk_Song_Kits__Electric_Guitar_Stems__Percussion_For_Folk_Music_at_Loopmasters.com.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=americana-folk-91c386"
+affiliate: "https://www.loopmasters.com/products/20478-americana-folk?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=americana-folk-91c386"
 heroImage: "/images/americana-folk-91c386.jpg"
 score: 3.60
 dealPrice: "$34.95"
 xText: "folk plugins finally getting the attention they deserve. new americana toolkit just hit and this could be your secret sauce for texture."
 draft: false
 ---
-**TL;DR:** Americana Folk is a royalty-free sample pack from Loopmasters built around acoustic guitar loops, country guitar stems, folk piano phrases, and song kits — available now at **$34.95**. No original price is listed, so verify current pricing on the product page. [Grab it on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/478/original/Royalty_Free_Folk_Samples__Americana_Guitar_Loops__Country_Guitar_Loops__Folk_Piano_Loops__Folk_Song_Kits__Electric_Guitar_Stems__Percussion_For_Folk_Music_at_Loopmasters.com.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=americana-folk-91c386)
+**TL;DR:** Americana Folk is a royalty-free sample pack from Loopmasters built around acoustic guitar loops, country guitar stems, folk piano phrases, and song kits — available now at **$34.95**. No original price is listed, so verify current pricing on the product page. [Grab it on Loopmasters.](https://www.loopmasters.com/products/20478-americana-folk?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=americana-folk-91c386)
 
 ---
 
@@ -52,7 +52,7 @@ All Loopmasters content is royalty-free, meaning a one-time purchase covers comm
 
 > Verify current pricing on the product page — deals can change.
 
-[Check the current price and buy on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/478/original/Royalty_Free_Folk_Samples__Americana_Guitar_Loops__Country_Guitar_Loops__Folk_Piano_Loops__Folk_Song_Kits__Electric_Guitar_Stems__Percussion_For_Folk_Music_at_Loopmasters.com.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=americana-folk-91c386)
+[Check the current price and buy on Loopmasters.](https://www.loopmasters.com/products/20478-americana-folk?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=americana-folk-91c386)
 
 ---
 
@@ -88,7 +88,7 @@ A: Yes, royalty-free licensing covers commercial use. Confirm the exact license 
 
 Americana Folk is available now at **$34.95** on Loopmasters — a practical entry point for production-ready folk and country instrumentation with royalty-free clearance included.
 
-[Pick it up on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/478/original/Royalty_Free_Folk_Samples__Americana_Guitar_Loops__Country_Guitar_Loops__Folk_Piano_Loops__Folk_Song_Kits__Electric_Guitar_Stems__Percussion_For_Folk_Music_at_Loopmasters.com.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=americana-folk-91c386)
+[Pick it up on Loopmasters.](https://www.loopmasters.com/products/20478-americana-folk?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=americana-folk-91c386)
 
 ---
 

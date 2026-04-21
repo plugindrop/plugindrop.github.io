@@ -3,13 +3,13 @@ title: "Microwaves"
 description: "Microwaves, a Minimal Techno sample pack from Loopmasters, is currently available for **$9.95** — a solid entry point for producers building dark,..."
 pubDate: "2026-04-21T06:15:40Z"
 tags: ["sample-pack", "sale", "music-production"]
-affiliate: "https://www.loopmasters.com/system/products/covers/000/020/476/original/microwaves_1000_1000_Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=microwaves-10a49e"
+affiliate: "https://www.loopmasters.com/products/20476-microwaves?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=microwaves-10a49e"
 heroImage: "/images/microwaves-10a49e.jpg"
 score: 3.90
 dealPrice: "$9.95"
 draft: false
 ---
-**TL;DR:** Microwaves, a Minimal Techno sample pack from Loopmasters, is currently available for **$9.95** — a solid entry point for producers building dark, stripped-back electronic tracks. Verify original pricing on the product page. [Grab it on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/476/original/microwaves_1000_1000_Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=microwaves-10a49e)
+**TL;DR:** Microwaves, a Minimal Techno sample pack from Loopmasters, is currently available for **$9.95** — a solid entry point for producers building dark, stripped-back electronic tracks. Verify original pricing on the product page. [Grab it on Loopmasters.](https://www.loopmasters.com/products/20476-microwaves?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=microwaves-10a49e)
 
 ---
 
@@ -48,7 +48,7 @@ $9.95 is a competitive price point for a genre-specific Loopmasters pack. Loopma
 
 Note: Verify current pricing on the product page — deals can change.
 
-[Get Microwaves on Loopmasters for $9.95 →](https://www.loopmasters.com/system/products/covers/000/020/476/original/microwaves_1000_1000_Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=microwaves-10a49e)
+[Get Microwaves on Loopmasters for $9.95 →](https://www.loopmasters.com/products/20476-microwaves?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=microwaves-10a49e)
 
 ---
 
@@ -84,7 +84,7 @@ A: These are audio samples, not a plugin — they work in any DAW on any system 
 
 Microwaves is available now on Loopmasters for **$9.95** — a no-subscription, royalty-free Minimal Techno pack with instant download. If the genre fits your workflow, this is a straightforward pickup at a low price point.
 
-[Pick up Microwaves on Loopmasters →](https://www.loopmasters.com/system/products/covers/000/020/476/original/microwaves_1000_1000_Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=microwaves-10a49e)
+[Pick up Microwaves on Loopmasters →](https://www.loopmasters.com/products/20476-microwaves?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=microwaves-10a49e)
 
 ---
 
