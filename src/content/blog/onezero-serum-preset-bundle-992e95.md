@@ -3,14 +3,14 @@ title: "OneZero Serum Preset Bundle"
 description: "The OneZero Serum Preset Bundle is currently available **free** on Loopmasters — no original price to cross off, just zero dollars out of pocket. Grab it..."
 pubDate: "2026-04-21T01:51:53Z"
 tags: ["sample-pack", "sale", "bundle", "synth", "music-production"]
-affiliate: "https://www.loopmasters.com/system/products/covers/000/020/518/original/OneZero-SerumBundle_1000-Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=onezero-serum-preset-bundle-992e95"
+affiliate: "https://www.loopmasters.com/genres/15-Drum-and-Bass/products/20518-OneZero-Serum-Preset-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=onezero-serum-preset-bundle-992e95"
 heroImage: "/images/onezero-serum-preset-bundle-992e95.jpg"
 score: 7.50
-dealPrice: "$0.0"
+dealPrice: "FREE"
 xText: "preset bundles are the math nobody does until they realize the savings. one payment beats hunting packs individually every time. OneZero Serum bundle—absolutely worth the look."
 draft: false
 ---
-**TL;DR:** The OneZero Serum Preset Bundle is currently available **free** on Loopmasters — no original price to cross off, just zero dollars out of pocket. Grab it while the deal is live: [Get the OneZero Serum Bundle on Loopmasters](https://www.loopmasters.com/system/products/covers/000/020/518/original/OneZero-SerumBundle_1000-Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=onezero-serum-preset-bundle-992e95).
+**TL;DR:** The OneZero Serum Preset Bundle is currently available **free** on Loopmasters — no original price to cross off, just zero dollars out of pocket. Grab it while the deal is live: [Get the OneZero Serum Bundle on Loopmasters](https://www.loopmasters.com/genres/15-Drum-and-Bass/products/20518-OneZero-Serum-Preset-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=onezero-serum-preset-bundle-992e95).
 
 ---
 
@@ -47,7 +47,7 @@ OneZero is a producer known for work in the Drum and Bass space, and this bundle
 
 Free deals on Loopmasters tend to be time-limited promotions or introductory offers — there's no guarantee this stays at $0. Verify current pricing on the product page before assuming it's still free.
 
-[Claim the free bundle on Loopmasters](https://www.loopmasters.com/system/products/covers/000/020/518/original/OneZero-SerumBundle_1000-Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=onezero-serum-preset-bundle-992e95)
+[Claim the free bundle on Loopmasters](https://www.loopmasters.com/genres/15-Drum-and-Bass/products/20518-OneZero-Serum-Preset-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=onezero-serum-preset-bundle-992e95)
 
 ---
 
@@ -83,7 +83,7 @@ A: Any DAW that can run Serum as a VST/AU/AAX plugin. Check the official product
 
 Free Serum presets from a working DnB producer — there's no downside to grabbing these while the price is at zero. Don't sit on this one.
 
-[Get the OneZero Serum Bundle free on Loopmasters →](https://www.loopmasters.com/system/products/covers/000/020/518/original/OneZero-SerumBundle_1000-Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=onezero-serum-preset-bundle-992e95)
+[Get the OneZero Serum Bundle free on Loopmasters →](https://www.loopmasters.com/genres/15-Drum-and-Bass/products/20518-OneZero-Serum-Preset-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=onezero-serum-preset-bundle-992e95)
 
 ---
 

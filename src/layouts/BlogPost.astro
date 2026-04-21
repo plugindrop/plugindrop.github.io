@@ -13,7 +13,7 @@ const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliat
 const imageStr = typeof heroImage === 'string' ? heroImage : undefined;
 
 // Check if sale has expired
-const saleExpired = saleExpiry ? new Date(saleExpiry) < new Date() : false;
+const saleExpired = saleExpiry ? new Date(saleExpiry + 'T23:59:59Z') < new Date() : false;
 
 // Derive store name from affiliate URL — netloc-based for accuracy
 function getDealSource(url: string): string {
@@ -100,7 +100,7 @@ const faqLD = faqPairs.length > 0 ? {
 // Product + Offer schema for deal pages (enables price rich results)
 // FREE または価格が取得できない場合は Product schema を省略（price=0 は誤シグナル）
 const _rawPrice = dealPrice?.trim().toUpperCase().replace(/[$€£¥]/g, '') ?? '';
-const _isFreePrice = _rawPrice === 'FREE' || _rawPrice === '0' || _rawPrice === '0.00';
+const _isFreePrice = _rawPrice === 'FREE' || parseFloat(_rawPrice) === 0;
 const _numericPrice = dealPrice ? dealPrice.replace(/[^0-9.]/g, '') : '';
 const productLD = (affiliate && dealPrice && !saleExpired && !_isFreePrice && _numericPrice && _numericPrice !== '0') ? {
 	"@context": "https://schema.org",

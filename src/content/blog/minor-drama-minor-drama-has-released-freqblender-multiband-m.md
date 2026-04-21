@@ -5,7 +5,6 @@ pubDate: "2026-04-20T06:09:21Z"
 tags: ["sale", "minor drama", "music-production"]
 affiliate: "https://minordrama.studio/plugins/freqblender/"
 score: 6.88
-saleExpiry: "2026-04-21"
 dealPrice: "$29"
 originalPrice: "$49"
 heroImage: "/images/minor-drama-minor-drama-has-released-freqblender-multiband-m.png"
