@@ -1,10 +1,11 @@
 ---
-title: "Cloudy Samples Cinematic Bundle (ADSR Deal)"
+title: "Cloudy Samples Cinematic Bundle"
 description: "The Cloudy Samples Cinematic Bundle is available now on ADSR Sounds at a discounted bundle price — check the deal page to see the current savings vs...."
 pubDate: "2026-04-21T00:31:32Z"
 tags: ["sale", "bundle", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/cloudy-samples-cinematic-bundle/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=cloudy-samples-cinematic-bundle-adsr-deal-2eb0da"
 heroImage: "/images/cloudy-samples-cinematic-bundle-adsr-deal-2eb0da.jpg"
+dealPrice: "$15.95"
 score: 4.20
 draft: false
 ---

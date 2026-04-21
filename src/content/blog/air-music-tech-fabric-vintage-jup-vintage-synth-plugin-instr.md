@@ -1,5 +1,5 @@
 ---
-title: "Air Music Tech Fabric Vintage Jup Vintage Synth Plugin Instrument (ADSR Deal)"
+title: "Air Music Tech Fabric Vintage Jup Vintage Synth Plugin Instrument"
 description: "AIR Music Technology's Fabric Vintage Jup is currently on sale at ADSR Sounds — a rare discount on a Jupiter-inspired soft synth that usually holds its..."
 pubDate: "2026-04-20T11:40:16Z"
 tags: ["sale", "synth", "music-production"]
