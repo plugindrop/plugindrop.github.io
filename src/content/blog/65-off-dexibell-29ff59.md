@@ -4,7 +4,7 @@ description: Dexibell's T2L piano plugins are currently **65% off**, bringing ea
   title down from its regular price to a fraction of the cost. If you've had your
   eye...
 pubDate: '2026-04-01T14:30:46Z'
-tags: ["sale", "piano", "dexibell", "plugin boutique", "keyboard", "music-production"]
+tags: ["sale", "piano", "dexibell", "keyboard", "music-production"]
 affiliate: https://digitalstore.dexibell.com/en-gb/product/T2L-Electric-Piano
 heroImage: /images/65-off-dexibell-29ff59.jpg
 discount: "65% OFF"

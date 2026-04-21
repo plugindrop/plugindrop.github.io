@@ -2,7 +2,7 @@
 title: "Elevated Trance Serum Trance Bundle 3"
 description: "Elevated Trance Serum Trance Bundle 3 is a dedicated trance preset pack for Xfer Serum, available now at a deal price through ADSR Sounds. Bundle pricing..."
 pubDate: "2026-04-18T23:11:41Z"
-tags: ["sale", "vst-plugin", "serum", "synth", "music-production"]
+tags: ["sale", "vst-plugin", "serum", "synth", "music-production", "bundle"]
 affiliate: "https://www.adsrsounds.com/product/presets/elevated-trance-serum-trance-bundle-3/?utm_source=plugindrop&utm_medium=article&utm_campaign=elevated-trance-serum-trance-bundle-3-adsr-deal-328132"
 heroImage: "/images/elevated-trance-serum-trance-bundle-3-adsr-deal-328132.jpg"
 dealPrice: "$16.07"

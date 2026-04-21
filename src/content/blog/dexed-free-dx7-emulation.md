@@ -6,6 +6,8 @@ tags: ["free", "vst-plugin", "synth", "fm", "music-production"]
 affiliate: "https://asb2m10.github.io/dexed/"
 dealPrice: "FREE"
 draft: false
+heroImage: "/images/dexed-free-dx7-emulation.webp"
+aiImage: true
 score: 1.56
 ---
 

@@ -3,7 +3,7 @@ title: Save up to 79% on Waves Audio’s SSL 4000 Collection & plugins
 description: Waves Audio's SSL 4000 Collection is on sale at Plugin Boutique for up
   to 79% off — one of the steepest discounts on this legendary console-modeled bundle...
 pubDate: '2026-04-17T11:41:07Z'
-tags: ["sales and promotions", "channel strip", "consoles", "equalizer", "plugin boutique", "sale", "solid state logic", "waves", "music-production"]
+tags: ["channel strip", "consoles", "equalizer", "sale", "solid state logic", "waves", "music-production", "bundle"]
 affiliate: https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12600-SSL-4000-Collection?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins&a_aid=69cb95abe1763
 heroImage: /images/save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins.jpg
 discount: "79% OFF"

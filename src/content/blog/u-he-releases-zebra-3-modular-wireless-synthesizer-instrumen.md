@@ -2,11 +2,12 @@
 title: "u-he releases Zebra 3 modular wireless synthesizer instrument"
 description: "u-he has officially launched Zebra 3, the long-awaited successor to the iconic Zebra 2 wireless modular synthesizer. Zebra 2 built a cult following over..."
 pubDate: "2026-04-20T11:06:36Z"
-tags: ["instruments", "aax", "au", "clap", "synthesizer", "u-he", "vst", "zebra"]
+tags: ["sale", "instruments", "clap", "synth", "u-he", "zebra", "music-production"]
 affiliate: "https://u-he.com/products/synths/zebra3/"
 score: 7.44
 dealPrice: "€249"
-draft: false
+heroImage: "/images/u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen.jpg"
+
 ---
 **TL;DR:** u-he has officially launched Zebra 3, the long-awaited successor to the iconic Zebra 2 wireless modular synthesizer. Zebra 2 built a cult following over decades; Zebra 3 arrives with a rebuilt architecture and expanded modular depth. [Grab Zebra 3 directly from u-he](https://u-he.com/products/synths/zebra3/) — check the product page for current launch pricing.
 

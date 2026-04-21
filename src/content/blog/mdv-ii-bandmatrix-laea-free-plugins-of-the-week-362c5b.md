@@ -2,12 +2,10 @@
 title: "MDV-II, BandMatrix, LAEA: Free Plugins of the Week"
 description: "Three free plugins just dropped this week — MDV-II, BandMatrix, and LAEA — all available at no cost. Grab them now before the promo window closes. If you..."
 pubDate: "2026-04-19T06:16:58Z"
-tags: ["tips  tricks", "aax", "au", "bandmatrix", "digital", "free", "free plug-ins this week", "freeware", "la-3a", "laea", "music-production"]
+tags: ["tips  tricks", "bandmatrix", "digital", "free", "free plug-ins this week", "freeware", "la-3a", "laea", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-decapitator"
 heroImage: "/images/mdv-ii-bandmatrix-laea-free-plugins-of-the-week-362c5b.png"
-dealPrice: "$69"
-originalPrice: "$199"
-discount: "65% OFF"
+dealPrice: "FREE"
 score: 5.84
 draft: false
 ---

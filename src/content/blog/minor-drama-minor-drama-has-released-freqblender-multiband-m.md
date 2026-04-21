@@ -2,13 +2,14 @@
 title: "Minor Drama — Minor Drama has released FreqBlender multiband mix knob plugin for Win & Mac. The intro is 40% off"
 description: "Minor Drama's new multiband mix knob plugin FreqBlender is launching at 40% off as an intro deal — a solid window to grab it before the price normalizes...."
 pubDate: "2026-04-20T06:09:21Z"
-tags: ["newplugindeals", "minor drama"]
+tags: ["sale", "minor drama", "music-production"]
 affiliate: "https://minordrama.studio/plugins/freqblender/"
 score: 6.88
 saleExpiry: "2026-04-21"
 dealPrice: "$29"
 originalPrice: "$49"
-draft: false
+heroImage: "/images/minor-drama-minor-drama-has-released-freqblender-multiband-m.png"
+
 ---
 **TL;DR:** Minor Drama's new multiband mix knob plugin FreqBlender is launching at 40% off as an intro deal — a solid window to grab it before the price normalizes. Check the current deal price and grab it at [minordrama.studio](https://minordrama.studio/plugins/freqblender/) before the intro offer ends.
 

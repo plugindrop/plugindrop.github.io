@@ -6,6 +6,39 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import { SITE_TITLE } from '../consts';
 
+const GUIDE_ARTICLES = [
+	{
+		slug: 'best-free-vst-plugins-2026',
+		title: 'Best Free VST Plugins 2026',
+		description: 'Top free plugins across every category — synths, effects, drums, and more.',
+		emoji: '🎛️',
+	},
+	{
+		slug: 'best-free-reverb-plugins',
+		title: 'Best Free Reverb Plugins',
+		description: 'From ambient tails to classic plates — 7 genuinely free reverbs.',
+		emoji: '🌊',
+	},
+	{
+		slug: 'best-free-synth-plugins',
+		title: 'Best Free Synth Plugins',
+		description: 'Professional-grade synths you can download right now for free.',
+		emoji: '🎹',
+	},
+	{
+		slug: 'best-free-drum-plugins',
+		title: 'Best Free Drum Plugins',
+		description: 'Free drum machines and samplers for any genre.',
+		emoji: '🥁',
+	},
+	{
+		slug: 'best-free-daw-software-2026',
+		title: 'Best Free DAW Software 2026',
+		description: 'Full DAWs with no cost — compared and ranked.',
+		emoji: '💻',
+	},
+];
+
 const allPosts = await getCollection('blog');
 
 function isFree(post: any): boolean {
@@ -17,13 +50,6 @@ function isFree(post: any): boolean {
 const freePosts = allPosts
 	.filter(p => !p.data.draft && isFree(p))
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-
-const vstFree = freePosts.filter(p => (p.data.tags ?? []).some((t: string) => ['synth', 'vst-plugin', 'effects', 'reverb', 'eq', 'compressor', 'mixing', 'mastering'].includes(t)));
-const sampleFree = freePosts.filter(p => (p.data.tags ?? []).includes('sample-pack'));
-const presetFree = freePosts.filter(p => (p.data.tags ?? []).includes('preset-pack'));
-const otherFree = freePosts.filter(p =>
-	!vstFree.includes(p) && !sampleFree.includes(p) && !presetFree.includes(p)
-);
 
 const breadcrumbLD = {
 	"@context": "https://schema.org",
@@ -48,7 +74,6 @@ const breadcrumbLD = {
 			.page-header { margin-bottom: 2.5rem; }
 			.page-header h1 { font-size: 2rem; font-weight: 800; margin: 0 0 0.5rem; }
 			.page-header p { color: var(--text-muted); font-size: 1rem; margin: 0; }
-			.section-title { font-size: 1.2rem; font-weight: 700; margin: 2rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--accent); }
 			.post-list { display: flex; flex-direction: column; gap: 0.75rem; margin-bottom: 2rem; }
 			.post-card {
 				display: flex; gap: 1rem; align-items: flex-start;
@@ -63,11 +88,11 @@ const breadcrumbLD = {
 			.post-title { font-size: 0.9rem; font-weight: 600; margin: 0 0 0.25rem; line-height: 1.3; }
 			.post-meta { font-size: 0.78rem; color: var(--text-muted); }
 			.free-badge { display: inline-block; background: var(--accent); color: #fff; font-size: 0.7rem; font-weight: 700; padding: 0.1rem 0.4rem; border-radius: 3px; margin-left: 0.4rem; }
+			.deal-price { display: inline-block; font-size: 0.78rem; font-weight: 700; color: var(--accent); margin-left: 0.5rem; }
 			.breadcrumb { font-size: 0.8rem; color: var(--text-muted); margin-bottom: 1.5rem; }
 			.breadcrumb a { color: var(--text-muted); text-decoration: none; }
 			.breadcrumb a:hover { text-decoration: underline; }
 			.sep { margin: 0 0.4rem; }
-			.count { color: var(--text-muted); font-size: 0.85rem; margin-left: 0.5rem; font-weight: 400; }
 			.cta-banner {
 				background: linear-gradient(135deg, var(--accent) 0%, #7c3aed 100%);
 				color: #fff; border-radius: var(--radius); padding: 1.5rem;
@@ -75,6 +100,25 @@ const breadcrumbLD = {
 			}
 			.cta-banner h2 { margin: 0 0 0.5rem; font-size: 1.2rem; }
 			.cta-banner p { margin: 0; font-size: 0.9rem; opacity: 0.9; }
+			.guide-section { margin-bottom: 2.5rem; }
+			.guide-section h2 { font-size: 1.2rem; font-weight: 700; margin: 0 0 1rem; }
+			.guide-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+				gap: 0.75rem;
+			}
+			.guide-card {
+				display: flex; flex-direction: column; gap: 0.25rem;
+				padding: 1rem; border: 1px solid var(--border);
+				border-radius: var(--radius); background: var(--bg-card);
+				text-decoration: none; color: inherit;
+				transition: border-color 0.15s;
+			}
+			.guide-card:hover { border-color: var(--accent); }
+			.guide-emoji { font-size: 1.5rem; }
+			.guide-title { font-size: 0.88rem; font-weight: 700; margin: 0; }
+			.guide-desc { font-size: 0.78rem; color: var(--text-muted); margin: 0; }
+			.section-divider { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
 		</style>
 	</head>
 	<body>
@@ -90,94 +134,47 @@ const breadcrumbLD = {
 				<p>{freePosts.length} free music production tools — updated daily</p>
 			</div>
 
-			<div class="cta-banner">
-				<h2>New free plugins every day</h2>
-				<p>Bookmark this page or check <a href="/tags/free" style="color:#fff;font-weight:700">/tags/free</a> for the latest additions.</p>
+			<div class="guide-section">
+				<h2>📖 Free Plugin Guides</h2>
+				<div class="guide-grid">
+					{GUIDE_ARTICLES.map(g => (
+						<a href={`/posts/${g.slug}/`} class="guide-card">
+							<span class="guide-emoji">{g.emoji}</span>
+							<p class="guide-title">{g.title}</p>
+							<p class="guide-desc">{g.description}</p>
+						</a>
+					))}
+				</div>
 			</div>
 
-			{vstFree.length > 0 && (
-				<>
-					<h2 class="section-title">Free VST Plugins <span class="count">({vstFree.length})</span></h2>
-					<ul class="post-list" role="list">
-						{vstFree.slice(0, 12).map(post => (
-							<li>
-								<a href={`/posts/${post.id.replace(/\.mdx?$/, '')}/`} class="post-card">
-									{post.data.heroImage && (
-										<img src={post.data.heroImage} alt="" loading="lazy" width="100" height="56" class="post-thumb" />
-									)}
-									<div class="post-info">
-										<p class="post-title">{post.data.title} <span class="free-badge">FREE</span></p>
-										<span class="post-meta"><FormattedDate date={post.data.pubDate} /></span>
-									</div>
-								</a>
-							</li>
-						))}
-					</ul>
-				</>
-			)}
+			<hr class="section-divider" />
 
-			{sampleFree.length > 0 && (
-				<>
-					<h2 class="section-title">Free Sample Packs <span class="count">({sampleFree.length})</span></h2>
-					<ul class="post-list" role="list">
-						{sampleFree.slice(0, 8).map(post => (
-							<li>
-								<a href={`/posts/${post.id.replace(/\.mdx?$/, '')}/`} class="post-card">
-									{post.data.heroImage && (
-										<img src={post.data.heroImage} alt="" loading="lazy" width="100" height="56" class="post-thumb" />
-									)}
-									<div class="post-info">
-										<p class="post-title">{post.data.title} <span class="free-badge">FREE</span></p>
-										<span class="post-meta"><FormattedDate date={post.data.pubDate} /></span>
-									</div>
-								</a>
-							</li>
-						))}
-					</ul>
-				</>
-			)}
+			<div class="cta-banner">
+				<h2>New free plugins every day</h2>
+				<p>Bookmark this page or check <a href="/tags/free/" style="color:#fff;font-weight:700">/tags/free</a> for the latest additions.</p>
+			</div>
 
-			{presetFree.length > 0 && (
-				<>
-					<h2 class="section-title">Free Preset Packs <span class="count">({presetFree.length})</span></h2>
-					<ul class="post-list" role="list">
-						{presetFree.slice(0, 8).map(post => (
-							<li>
-								<a href={`/posts/${post.id.replace(/\.mdx?$/, '')}/`} class="post-card">
-									{post.data.heroImage && (
-										<img src={post.data.heroImage} alt="" loading="lazy" width="100" height="56" class="post-thumb" />
+			<ul class="post-list" role="list">
+				{freePosts.map(post => (
+					<li>
+						<a href={`/posts/${post.id.replace(/\.mdx?$/, '')}/`} class="post-card">
+							{post.data.heroImage && (
+								<img src={post.data.heroImage} alt="" loading="lazy" width="100" height="56" class="post-thumb" />
+							)}
+							<div class="post-info">
+								<p class="post-title">
+									{post.data.title}
+									<span class="free-badge">FREE</span>
+									{post.data.dealPrice && !['FREE', '$0', '0'].includes(post.data.dealPrice.trim().toUpperCase()) && (
+										<span class="deal-price">{post.data.dealPrice}</span>
 									)}
-									<div class="post-info">
-										<p class="post-title">{post.data.title} <span class="free-badge">FREE</span></p>
-										<span class="post-meta"><FormattedDate date={post.data.pubDate} /></span>
-									</div>
-								</a>
-							</li>
-						))}
-					</ul>
-				</>
-			)}
-
-			{otherFree.length > 0 && (
-				<>
-					<h2 class="section-title">More Free Tools <span class="count">({otherFree.length})</span></h2>
-					<ul class="post-list" role="list">
-						{otherFree.slice(0, 6).map(post => (
-							<li>
-								<a href={`/posts/${post.id.replace(/\.mdx?$/, '')}/`} class="post-card">
-									{post.data.heroImage && (
-										<img src={post.data.heroImage} alt="" loading="lazy" width="100" height="56" class="post-thumb" />
-									)}
-									<div class="post-info">
-										<p class="post-title">{post.data.title} <span class="free-badge">FREE</span></p>
-										<span class="post-meta"><FormattedDate date={post.data.pubDate} /></span>
-									</div>
-								</a>
-							</li>
-						))}
-					</ul>
-				</>
-			)}
+								</p>
+								<span class="post-meta"><FormattedDate date={post.data.pubDate} /></span>
+							</div>
+						</a>
+					</li>
+				))}
+			</ul>
 		</main>
 		<Footer />
 	</body>

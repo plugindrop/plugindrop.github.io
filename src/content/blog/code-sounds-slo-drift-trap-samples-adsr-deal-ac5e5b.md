@@ -3,7 +3,7 @@ title: Code Sounds Slo Drift Trap Samples
 description: Code Sounds' Slo Drift Trap Samples is currently on deal at ADSR Sounds
   — check the product page for the latest discounted price. If you're building slow,...
 pubDate: '2026-04-14T12:18:03Z'
-tags: ["adsr", "preset", "presets", "music-production"]
+tags: ["sale", "music-production"]
 affiliate: https://www.adsrsounds.com/product/presets/code-sounds-slo-drift-trap-samples/?utm_source=plugindrop&utm_medium=article&utm_campaign=code-sounds-slo-drift-trap-samples-adsr-deal-ac5e5b
 heroImage: /images/code-sounds-slo-drift-trap-samples-adsr-deal-ac5e5b.jpg
 dealPrice: "$13.99"

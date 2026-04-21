@@ -8,7 +8,8 @@ dealPrice: "$132"
 originalPrice: "$189"
 discount: "30% OFF"
 saleExpiry: "2026-04-30"
-draft: false
+heroImage: "/images/fabfilter-pro-q-4-spring-sale-30-off.jpg"
+
 score: 7.7
 ---
 

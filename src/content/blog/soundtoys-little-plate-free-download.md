@@ -7,6 +7,8 @@ affiliate: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/4715-Litt
 dealPrice: "FREE"
 originalPrice: "$99"
 draft: false
+heroImage: "/images/soundtoys-little-plate-free-download.webp"
+aiImage: true
 score: 2.88
 ---
 

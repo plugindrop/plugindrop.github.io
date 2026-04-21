@@ -2,26 +2,36 @@ import { getCollection } from 'astro:content';
 import rss from '@astrojs/rss';
 import { SITE_TITLE } from '../consts';
 
-// スコアフィルタ閾値: この値以上の記事のみX投稿対象
-const SCORE_THRESHOLD = 5.0;
-// 最大件数（dlvr.itは最新N件を読む）
-const MAX_ITEMS = 20;
+// 研究ベース: 3-5投稿/日が最適、10超はマイナス効果
+const SCORE_THRESHOLD = 7.0;   // 上位15%程度に絞る
+const MAX_PER_DAY = 5;          // スパイク日も最大5件/日
+const RECENT_DAYS = 7;
+const MAX_ITEMS = 35;           // 7日 × 5件/日
 
 export async function GET(context) {
 	const allPosts = await getCollection('blog');
 
-	const posts = allPosts
-		.filter(p =>
-			!p.data.draft &&
-			(p.data.score ?? 0) >= SCORE_THRESHOLD &&
-			// AI生成画像の記事は除外（品質担保）
-			!p.data.aiImage
+	const cutoff = new Date();
+	cutoff.setDate(cutoff.getDate() - RECENT_DAYS);
+
+	// 日付ごとに上位MAX_PER_DAY件に絞ってからフラット化
+	const byDay = new Map();
+	for (const p of allPosts) {
+		if (p.data.draft || (p.data.score ?? 0) < SCORE_THRESHOLD || p.data.aiImage) continue;
+		const pub = new Date(p.data.pubDate);
+		if (pub < cutoff) continue;
+		const day = pub.toISOString().slice(0, 10);
+		if (!byDay.has(day)) byDay.set(day, []);
+		byDay.get(day).push(p);
+	}
+
+	const posts = [...byDay.entries()]
+		.sort(([a], [b]) => b.localeCompare(a))   // 日付降順
+		.flatMap(([, items]) =>
+			items
+				.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
+				.slice(0, MAX_PER_DAY)              // 1日3件まで（スコア上位）
 		)
-		.sort((a, b) => {
-			// 新着順（同日はスコア降順）
-			const dateDiff = new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime();
-			return dateDiff !== 0 ? dateDiff : (b.data.score ?? 0) - (a.data.score ?? 0);
-		})
 		.slice(0, MAX_ITEMS);
 
 	return rss({
@@ -30,14 +40,12 @@ export async function GET(context) {
 		site: context.site,
 		items: posts.map((post) => {
 			const d = post.data;
-			// X投稿テキスト: xTextがあればそれを使用、なければ自動生成
 			const xText = d.xText
 				? d.xText
 				: _buildFallbackText(d.title, d.dealPrice, d.originalPrice, d.discount);
 
 			return {
 				title: d.title,
-				// descriptionがdlvr.itのツイート本文になる（URLは<link>で別途付加）
 				description: xText,
 				link: `/posts/${post.id}/`,
 				pubDate: d.pubDate,
@@ -47,26 +55,34 @@ export async function GET(context) {
 }
 
 /**
- * xTextがない既存記事用のフォールバックX文章生成
- * 例: "🎛️ FabFilter Pro-Q 4 now $89 (was $149) — 40% off. One of the best EQs in the game."
+ * xTextがない記事用フォールバック
+ * 研究ベース: リンク付き投稿はテキストより73%低エンゲージメント
+ * → フックで補う: 価格情報より「なぜ買うべきか」を先に
  */
 function _buildFallbackText(title, dealPrice, originalPrice, discount) {
-	const parts = [];
+	// 節約額を計算してフックに使う
+	const dealNum = dealPrice ? parseFloat(dealPrice.replace(/[^0-9.]/g, '')) : 0;
+	const origNum = originalPrice ? parseFloat(originalPrice.replace(/[^0-9.]/g, '')) : 0;
+	const savings = origNum > dealNum ? Math.round(origNum - dealNum) : 0;
+	const pct = discount ? discount.replace(/\s*off\s*/i, '').trim() : '';
 
-	// 価格情報
-	if (dealPrice && originalPrice) {
-		parts.push(`${dealPrice} (was ${originalPrice})`);
-	} else if (dealPrice && discount) {
-		parts.push(`${dealPrice} — ${discount}`);
-	} else if (dealPrice) {
-		parts.push(dealPrice);
+	let hook = '';
+	if (savings >= 50) {
+		hook = `$${savings} off.`;
+	} else if (pct) {
+		hook = `${pct} off.`;
 	}
 
-	// タイトル（先頭に絵文字）
-	const line = parts.length > 0
-		? `🎛️ ${title}\n${parts.join(' ')}`
-		: `🎛️ ${title}`;
+	// "50% Off FabFilter Pro-Q 4 at Plugin Boutique" → "FabFilter Pro-Q 4"
+	const cleanTitle = title
+		.replace(/^[\d]+%?\s*off\s*/i, '')
+		.replace(/\s+at\s+[\w\s]+$/i, '')
+		.replace(/\s+on sale.*$/i, '')
+		.trim();
 
-	// 280字制限（URLの23字分を差し引いた257字）
+	const line = hook
+		? `${cleanTitle} — ${hook} ${dealPrice ? `now ${dealPrice}` : ''} ${originalPrice ? `(was ${originalPrice})` : ''}`.trim()
+		: cleanTitle;
+
 	return line.length > 257 ? line.slice(0, 254) + '...' : line;
 }

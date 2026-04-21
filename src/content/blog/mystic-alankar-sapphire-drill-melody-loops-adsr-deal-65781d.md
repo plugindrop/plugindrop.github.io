@@ -3,7 +3,7 @@ title: Mystic Alankar Sapphire Drill Melody Loops
 description: Mystic Alankar's *Sapphire Drill Melody Loops* is currently available
   at a deal price through ADSR Sounds — a loop pack that fuses Eastern melodic...
 pubDate: '2026-04-15T00:00:03Z'
-tags: ["adsr", "preset", "presets", "music-production"]
+tags: ["sale", "music-production"]
 affiliate: https://www.adsrsounds.com/product/presets/mystic-alankar-sapphire-drill-melody-loops/?utm_source=plugindrop&utm_medium=article&utm_campaign=mystic-alankar-sapphire-drill-melody-loops-adsr-deal-65781d
 heroImage: /images/mystic-alankar-sapphire-drill-melody-loops-adsr-deal-65781d.png
 dealPrice: "$18"

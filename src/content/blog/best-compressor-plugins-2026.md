@@ -1,8 +1,8 @@
 ---
 title: "Best Compressor Plugins 2026: Free & Paid for Mixing and Mastering"
-description: "The best compressor plugins of 2026 — from free FET and VCA tools to industry-standard mastering compressors. Covers every style from transparent to character-heavy."
+description: "The best compressor plugins of 2026 — free FET and VCA tools to industry-standard mastering compressors. Every style from transparent to character-heavy."
 pubDate: "2026-04-20T00:00:00Z"
-tags: ["compressor", "vst-plugin", "mixing", "roundup", "music-production"]
+tags: ["free", "compressor", "vst-plugin", "mixing", "roundup", "music-production"]
 heroImage: "/images/best-compressor-plugins-2026.jpg"
 score: 5.6
 draft: false

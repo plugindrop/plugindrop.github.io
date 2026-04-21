@@ -21,7 +21,8 @@ export default defineConfig({
 				item.priority = 0.5;
 				item.changefreq = 'monthly';
 			}
-			item.lastmod = new Date().toISOString().split('T')[0];
+			// lastmod は設定しない: ビルド日固定にすると全ページが毎日更新に見えてクロール効率が下がる
+			// Google は pubDate (Article schema の datePublished) から最終更新日を判断する
 			return item;
 		},
 	})],

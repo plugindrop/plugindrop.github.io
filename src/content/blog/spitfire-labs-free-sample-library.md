@@ -5,7 +5,8 @@ pubDate: "2026-03-20T10:00:00Z"
 tags: ["free", "instruments", "music-production"]
 affiliate: "https://labs.spitfireaudio.com/"
 dealPrice: "FREE"
-draft: false
+heroImage: "/images/spitfire-labs-free-sample-library.jpg"
+
 score: 1.68
 ---
 

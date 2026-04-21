@@ -13,12 +13,13 @@ const blog = defineCollection({
 			aiImage: z.boolean().optional(),
 			tags: z.array(z.string()).default([]),
 			affiliate: z.string().optional(),
-			score: z.number().default(0),
+			score: z.number().min(0).default(0),
 			draft: z.boolean().default(false),
 			dealPrice: z.string().optional(),
 			originalPrice: z.string().optional(),
 			discount: z.string().optional(),
 			saleExpiry: z.string().optional(),
+			xText: z.string().optional(),
 		}),
 });
 

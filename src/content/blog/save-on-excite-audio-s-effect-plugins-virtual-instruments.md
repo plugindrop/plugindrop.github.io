@@ -3,7 +3,7 @@ title: Save on Excite Audio’s effect plugins & virtual instruments
 description: Excite Audio's full plugin lineup — including the Bloom virtual instruments,
   VISION 4X metering suite, Lifeline mixing tools, and Motion effects — is on...
 pubDate: '2026-04-02T12:13:42Z'
-tags: ["sales and promotions", "excite audio", "plugin boutique", "sale", "music-production"]
+tags: ["excite audio", "sale", "music-production"]
 affiliate: https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-on-excite-audio-s-effect-plugins-virtual-instruments
 heroImage: /images/save-on-excite-audio-s-effect-plugins-virtual-instruments.jpg
 saleExpiry: '2026-04-30'

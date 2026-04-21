@@ -52,7 +52,9 @@ function daysLeft(post: any): number | null {
 }
 
 function isFreePrice(price: string | undefined): boolean {
-	return !!price && price.trim().toUpperCase() === 'FREE';
+	if (!price) return false;
+	const p = price.trim().toUpperCase().replace(/[$€£¥]/g, '');
+	return p === 'FREE' || p === '0' || p === '0.00';
 }
 
 function isRealDeal(post: any): boolean {
@@ -61,9 +63,9 @@ function isRealDeal(post: any): boolean {
 
 const heroPosts = allPosts.filter(hasHeroImage);
 
-// Editor's Picks: scored real deals, non-expired, with affiliate + hero image
+// Editor's Picks: scored paid deals, non-expired, with affiliate + hero image (FREE excluded → shown in Free Deals section)
 const topDeals = heroPosts
-	.filter(p => p.data.affiliate && !isExpired(p) && isRealDeal(p))
+	.filter(p => p.data.affiliate && !isExpired(p) && isRealDeal(p) && !isFreePrice(p.data.dealPrice))
 	.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
 	.slice(0, 4);
 

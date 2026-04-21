@@ -6,17 +6,24 @@ import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 
+const slugifyTag = (t: string): string => t.trim().toLowerCase().replace(/\s+/g, '-');
+
 export async function getStaticPaths() {
+	const _slugify = (t: string) => t.trim().toLowerCase().replace(/\s+/g, '-');
 	const posts = await getCollection('blog');
-	const tagSet = new Set<string>();
+	// Map from slug → original tag for filtering
+	const tagSlugMap = new Map<string, string>();
 	for (const post of posts) {
 		for (const tag of (post.data.tags ?? [])) {
-			if (tag && tag.trim()) tagSet.add(tag.trim().toLowerCase());
+			if (tag && tag.trim()) {
+				const slug = _slugify(tag);
+				if (!tagSlugMap.has(slug)) tagSlugMap.set(slug, tag.trim().toLowerCase());
+			}
 		}
 	}
-	return [...tagSet].map(tag => ({
-		params: { tag },
-		props: { tag },
+	return [...tagSlugMap.entries()].map(([slug, _rawTag]) => ({
+		params: { tag: slug },
+		props: { tag: slug },
 	}));
 }
 
@@ -24,12 +31,37 @@ const { tag } = Astro.props;
 
 const allPosts = await getCollection('blog');
 const posts = allPosts
-	.filter(p => !p.data.draft && (p.data.tags ?? []).map((t: string) => t.toLowerCase()).includes(tag))
+	.filter(p => !p.data.draft && (p.data.tags ?? []).some((t: string) => slugifyTag(t) === tag))
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const tagDisplay = tag.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
-const pageTitle = `${tagDisplay} Deals & Plugins`;
-const pageDesc = `Browse the best ${tagDisplay} plugin deals, free downloads, and discounts on PluginDrop.`;
+
+// タグ別に最適化されたタイトル・ディスクリプション
+const TAG_META: Record<string, { title: string; desc: string }> = {
+	'free':             { title: 'Free VST Plugins & Sample Packs', desc: 'Download free VST plugins, sample packs, and presets. Updated daily with the latest free music production tools.' },
+	'sale':             { title: 'VST Plugin Sales & Deals', desc: 'Best VST plugin sales and discounts. Save on synths, effects, sample packs, and more — updated daily.' },
+	'vst-plugin':       { title: 'VST Plugin Deals', desc: 'The best VST plugin deals, discounts, and free downloads for music producers. Verified daily.' },
+	'synth':            { title: 'Synth Plugin Deals & Free Downloads', desc: 'Best deals on synthesizer plugins including wavetable, analog, and FM synths. Free and paid options.' },
+	'reverb':           { title: 'Reverb Plugin Deals', desc: 'Top reverb plugin deals and free downloads. Plate, hall, room, and convolution reverbs for music production.' },
+	'eq':               { title: 'EQ Plugin Deals', desc: 'Best equalizer plugin deals. Parametric, dynamic, and graphic EQs for mixing and mastering.' },
+	'compressor':       { title: 'Compressor Plugin Deals', desc: 'Top compressor and dynamics plugin deals for mixing and mastering. Free and discounted options.' },
+	'drums':            { title: 'Drum Plugin & Sample Pack Deals', desc: 'Best drum machine plugins, drum sample packs, and beat-making tools on sale or free.' },
+	'sample-pack':      { title: 'Sample Pack Deals & Free Downloads', desc: 'Best sample pack deals — loops, one-shots, construction kits for hip-hop, electronic, and more.' },
+	'preset-pack':      { title: 'Preset Pack Deals', desc: 'Top VST preset packs on sale or free. Serum, Massive, Omnisphere presets for any style.' },
+	'bundle':           { title: 'Plugin Bundle Deals', desc: 'Best plugin bundle deals — get multiple plugins at a fraction of the price. Sales updated daily.' },
+	'mixing':           { title: 'Mixing Plugin Deals', desc: 'Top mixing plugin deals — channel strips, saturators, metering tools, and more on sale.' },
+	'mastering':        { title: 'Mastering Plugin Deals', desc: 'Best mastering plugin deals — limiters, stereo wideners, and mastering chains at discounted prices.' },
+	'effects':          { title: 'Audio Effects Plugin Deals', desc: 'Creative audio effects plugins on sale — chorus, flanger, bitcrusher, and more.' },
+	'guitar':           { title: 'Guitar & Amp Sim Plugin Deals', desc: 'Best guitar amp simulator and effects plugin deals for producers and guitarists.' },
+	'serum':            { title: 'Serum Preset Deals & Free Downloads', desc: 'Best Xfer Serum preset packs on sale or free. Expand your Serum sound library.' },
+	'music-production': { title: 'Music Production Plugin Deals', desc: 'Daily deals on music production plugins, sample packs, and tools for producers at every level.' },
+};
+const meta = TAG_META[tag] ?? {
+	title: `${tagDisplay} Deals & Plugins`,
+	desc: `Browse the best ${tagDisplay} plugin deals, free downloads, and discounts on PluginDrop. Updated daily.`,
+};
+const pageTitle = meta.title;
+const pageDesc = meta.desc;
 
 const breadcrumbLD = {
 	"@context": "https://schema.org",

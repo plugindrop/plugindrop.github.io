@@ -3,7 +3,7 @@ title: Vital Vocals releases Satin Velour – 2000s RnB Vocals sample pack
 description: Vital Vocals just dropped **Satin Velour – 2000s RnB Vocals**, a royalty-free
   sample pack featuring vocalist Miki Rose across 4 original song kits with...
 pubDate: '2026-04-02T11:03:05Z'
-tags: ["samples and presets", "loopmasters", "rnb", "vital vocals", "vocals", "music-production"]
+tags: ["sale", "samples and presets", "rnb", "vital vocals", "vocals", "music-production", "sample-pack"]
 affiliate: https://www.loopmasters.com/genres/48-Soul/products/20560-Satin-Velour-2000s-RnB-Vocals?utm_source=plugindrop&utm_medium=article&utm_campaign=vital-vocals-releases-satin-velour-2000s-rnb-vocals-sample-p&a_aid=69cb95abe1763
 heroImage: /images/vital-vocals-releases-satin-velour-2000s-rnb-vocals-sample-p.jpg
 dealPrice: "$34.95"

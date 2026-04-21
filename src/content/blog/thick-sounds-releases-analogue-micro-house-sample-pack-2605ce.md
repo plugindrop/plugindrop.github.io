@@ -3,7 +3,7 @@ title: Thick Sounds releases Analogue Micro House sample pack
 description: Thick Sounds just dropped **Analogue Micro House** — a 852 MB sample
   pack loaded with 139 loops, 122 one-shots, Serum presets, and MIDI files, all...
 pubDate: '2026-04-02T12:48:08Z'
-tags: ["samples and presets", "loopmasters", "thick sounds", "music-production"]
+tags: ["sale", "samples and presets", "thick sounds", "music-production", "sample-pack"]
 affiliate: https://www.loopmasters.com/genres/25-House/products/20621-Analogue-Micro-House?utm_source=plugindrop&utm_medium=article&utm_campaign=thick-sounds-releases-analogue-micro-house-sample-pack-2605ce&a_aid=69cb95abe1763
 heroImage: /images/thick-sounds-releases-analogue-micro-house-sample-pack-2605ce.jpg
 dealPrice: "$5.95"

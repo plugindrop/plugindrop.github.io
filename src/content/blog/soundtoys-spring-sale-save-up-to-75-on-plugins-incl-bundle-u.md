@@ -3,7 +3,7 @@ title: 'Soundtoys Spring Sale: Save up to 75% on plugins (incl. bundle & upgrade
 description: Soundtoys is running a Spring Sale with savings of up to 75% across individual
   plugins, bundles, and upgrades — one of the steeper discounts this brand...
 pubDate: '2026-04-14T11:06:16Z'
-tags: ["sales and promotions", "plugin boutique", "sale", "soundtoys", "music-production"]
+tags: ["sale", "soundtoys", "music-production", "bundle"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u&a_aid=69cb95abe1763
 heroImage: /images/soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u.jpg
 discount: "75% OFF"
