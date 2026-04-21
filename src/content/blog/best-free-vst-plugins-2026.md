@@ -6,6 +6,8 @@ tags: ["free", "roundup", "music-production"]
 affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026"
 dealPrice: "FREE"
 draft: false
+heroImage: "/images/best-free-vst-plugins-2026.webp"
+aiImage: true
 score: 1.68
 ---
 

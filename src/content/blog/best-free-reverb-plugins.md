@@ -7,6 +7,8 @@ affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=
 dealPrice: "FREE"
 originalPrice: "$99"
 draft: false
+heroImage: "/images/best-free-reverb-plugins.webp"
+aiImage: true
 score: 2.64
 ---
 
