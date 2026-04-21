@@ -4,7 +4,7 @@ title: 'Audiomodern — Audiomodern has released Wired virtual instrument for th
 description: Audiomodern just launched **Wired**, a new virtual instrument for their
   free Soundbox engine — and the intro price is 34% off with code **SPRING26**. If...
 pubDate: '2026-04-17T08:54:05Z'
-tags: ["newplugindeals", "audiomodern", "music-production"]
+tags: ["free", "audiomodern", "music-production"]
 affiliate: https://audiomodern.com/shop/packs/wired/
 heroImage: /images/audiomodern-audiomodern-has-released-wired-virtual-instrumen.png
 saleExpiry: '2026-05-07'

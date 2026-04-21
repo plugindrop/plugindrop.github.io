@@ -3,7 +3,7 @@ title: Triple Spiral Audio releases Organism sound library for Omnisphere
 description: Triple Spiral Audio just dropped Organism, a 500-preset sound library
   for Omnisphere 3, at ~~€75~~ **€56.25** with a 25% introductory discount through...
 pubDate: '2026-04-03T09:08:28Z'
-tags: ["samples and presets", "omnisphere", "triple spiral audio", "music-production"]
+tags: ["sale", "samples and presets", "omnisphere", "triple spiral audio", "music-production"]
 affiliate: https://www.triplespiralaudio.com/product/organism-for-omnisphere-3/
 heroImage: /images/triple-spiral-audio-releases-organism-sound-library-for-omni.jpg
 dealPrice: "$46.49"

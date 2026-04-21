@@ -2,7 +2,7 @@
 title: "Best EQ Plugins 2026: Free & Paid Options for Every Producer"
 description: "The best EQ plugins of 2026 compared — from FabFilter Pro-Q 3 to free options like TDR Nova. Covers mixing, mastering, and sound design workflows."
 pubDate: "2026-04-20T00:00:00Z"
-tags: ["eq", "vst-plugin", "mixing", "roundup", "music-production"]
+tags: ["free", "eq", "vst-plugin", "mixing", "roundup", "music-production"]
 heroImage: "/images/best-eq-plugins-2026.jpg"
 score: 7.4
 draft: false

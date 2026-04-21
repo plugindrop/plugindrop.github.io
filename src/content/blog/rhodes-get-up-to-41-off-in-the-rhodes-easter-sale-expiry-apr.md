@@ -4,7 +4,7 @@ title: '[Rhodes] Get up to 41% off in the Rhodes Easter Sale. Expiry: April 12th
 description: Rhodes is running an Easter Sale with up to 41% off their official electric
   piano plugins and effects — including the V8, V8 Pro, and V-Rack. If you've...
 pubDate: '2026-04-02T07:01:43Z'
-tags: ["newplugindeals", "rhodes", "music-production"]
+tags: ["sale", "rhodes", "music-production"]
 affiliate: https://www.pluginboutique.com/deals/22664?utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763
 heroImage: /images/rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr.webp
 saleExpiry: '2026-04-13'

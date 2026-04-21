@@ -2,7 +2,7 @@
 title: "Cherry Audio — Get 43% off P-10 Synthesizer by Cherry Audio"
 description: "Cherry Audio's P-10 Synthesizer is currently 43% off at Plugin Boutique — a solid window to pick up a polyphonic powerhouse at a significantly reduced..."
 pubDate: "2026-04-20T23:23:31Z"
-tags: ["newplugindeals", "cherry audio"]
+tags: ["sale", "cherry audio", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the"
 heroImage: "/images/cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the.jpg"
 score: 5.83

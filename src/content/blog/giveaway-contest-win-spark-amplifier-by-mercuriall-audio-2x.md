@@ -3,7 +3,7 @@ title: 'Giveaway Contest: Win Spark amplifier by Mercuriall Audio (2x)'
 description: Mercuriall Audio is giving away **2 free copies** of Spark — their ~~$99.99~~
   JCM800-inspired amp sim plugin. Zero dollars. Just drop a comment before...
 pubDate: '2026-04-03T12:38:00Z'
-tags: ["sales and promotions", "aax", "amplifier", "au", "contest", "giveaway", "marshall", "mercuriall audio software", "vst", "music-production"]
+tags: ["free", "amplifier", "contest", "giveaway", "marshall", "mercuriall audio software", "music-production"]
 affiliate: https://rekkerd.org/giveaway-contest-win-spark-amplifier-by-mercuriall-audio-2x/
 heroImage: /images/giveaway-contest-win-spark-amplifier-by-mercuriall-audio-2x.jpg
 dealPrice: "FREE"

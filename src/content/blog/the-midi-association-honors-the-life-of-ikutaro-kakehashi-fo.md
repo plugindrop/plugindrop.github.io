@@ -3,7 +3,7 @@ title: The MIDI Association Honors the life of Ikutaro Kakehashi, Founder of Rol
 description: The MIDI Association has officially honored the life and legacy of Ikutaro
   Kakehashi, the visionary founder of Roland Corporation and a key figure behind...
 pubDate: '2026-04-03T04:35:03Z'
-tags: ["music-production"]
+tags: ["sale", "music-production"]
 affiliate: https://www.midi.org/
 heroImage: /images/the-midi-association-honors-the-life-of-ikutaro-kakehashi-fo.webp
 aiImage: true

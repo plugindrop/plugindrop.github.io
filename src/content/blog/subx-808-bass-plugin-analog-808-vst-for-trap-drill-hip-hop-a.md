@@ -2,7 +2,7 @@
 title: "Subx 808 Bass Plugin Analog 808 Vst For Trap Drill Hip Hop (ADSR Deal)"
 description: "ADSR Sounds is running a deal on Subx 808 Bass Plugin — an analog-modeled 808 VST built specifically for trap, drill, and hip-hop producers. Check the..."
 pubDate: "2026-04-21T01:05:51Z"
-tags: ["adsr", "plugin", "effects"]
+tags: ["sale", "effects", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/software/subx-808-bass-plugin-analog-808-vst-for-trap-drill-hip-hop/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=subx-808-bass-plugin-analog-808-vst-for-trap-drill-hip-hop-a"
 heroImage: "/images/subx-808-bass-plugin-analog-808-vst-for-trap-drill-hip-hop-a.png"
 score: 3.50

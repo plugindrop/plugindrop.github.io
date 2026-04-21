@@ -4,7 +4,7 @@ description: Samplestate has dropped a brand-new New Wave Electronica sample pac
   on Loopmasters, packed with retro-futuristic sounds built for modern productions.
   If...
 pubDate: '2026-04-17T15:08:01Z'
-tags: ["samples and presets", "loopmasters", "samplestate", "music-production"]
+tags: ["sale", "samples and presets", "samplestate", "music-production", "sample-pack"]
 affiliate: https://www.loopmasters.com/genres/138-Electronica/products/20629-New-Wave-Electronica?utm_source=plugindrop&utm_medium=article&utm_campaign=samplestate-launches-new-wave-electronica-sample-pack-b902c5&a_aid=69cb95abe1763
 heroImage: /images/samplestate-launches-new-wave-electronica-sample-pack-b902c5.jpg
 dealPrice: "$34.95"

@@ -4,7 +4,7 @@ title: WIN Chimera Cinematic Vital Presets + Flame Sound Easter Sale (+ 80% OFF 
 description: Flame Sound is running an Easter Sale (April 3–6, 2026) with **30% off**
   all products using code **EASTER26** — plus a hidden Easter Egg discount hitting...
 pubDate: '2026-04-03T10:54:50Z'
-tags: ["news", "deals", "giveaway", "hot", "wav", "music-production"]
+tags: ["sale", "deals", "giveaway", "hot", "wav", "music-production"]
 affiliate: https://flamesound.gumroad.com/l/chimera
 heroImage: /images/win-chimera-cinematic-vital-presets-flame-sound-easter-sale-.jpg
 discount: "80% OFF"

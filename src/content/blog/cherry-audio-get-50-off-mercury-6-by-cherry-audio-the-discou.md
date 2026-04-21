@@ -2,7 +2,7 @@
 title: "Cherry Audio — Get 50% off Mercury-6 by Cherry Audio"
 description: "Cherry Audio's Mercury-6 Jupiter-6 emulation is currently 50% off at Plugin Boutique — a solid window to pick up a well-regarded vintage poly synth plugin..."
 pubDate: "2026-04-20T23:58:06Z"
-tags: ["newplugindeals", "cherry audio"]
+tags: ["sale", "cherry audio", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou"
 heroImage: "/images/cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou.jpg"
 score: 5.06

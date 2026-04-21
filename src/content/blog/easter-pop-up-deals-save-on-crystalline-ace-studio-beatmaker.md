@@ -4,7 +4,7 @@ title: 'Easter Pop-Up Deals: Save on Crystalline, Ace Studio, Beatmaker Vice, Su
 description: Easter Pop-Up Deals are live April 2–6 with up to 84% off over 500 music
   production plugins. Highlights include Baby Audio Crystalline at $29, UJAM...
 pubDate: '2026-04-02T08:09:46Z'
-tags: ["featured", "sales and promotions", "audio plugin deals", "baby audio", "black rooster audio", "have audio", "ik multimedia", "sale", "ujam", "music-production"]
+tags: ["featured", "audio plugin deals", "baby audio", "black rooster audio", "have audio", "ik multimedia", "sale", "ujam", "music-production"]
 affiliate: https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=easter-pop-up-deals-save-on-crystalline-ace-studio-beatmaker
 heroImage: /images/easter-pop-up-deals-save-on-crystalline-ace-studio-beatmaker.jpg
 dealPrice: "$29"

@@ -2,7 +2,7 @@
 title: "Best Reverb Plugins 2026: Free & Paid Options Compared"
 description: "The best reverb plugins of 2026 — free picks like Valhalla Supermassive plus paid options like FabFilter Pro-R 2, VintageVerb, and Eventide Blackhole."
 pubDate: "2026-04-20T00:00:00Z"
-tags: ["reverb", "vst-plugin", "mixing", "roundup", "music-production"]
+tags: ["free", "reverb", "vst-plugin", "mixing", "roundup", "music-production"]
 heroImage: "/images/best-reverb-plugins-2026.jpg"
 score: 7.3
 draft: false

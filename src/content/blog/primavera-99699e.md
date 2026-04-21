@@ -3,7 +3,7 @@ title: "61% Off Primavera Reverb Plugin at Plugin Boutique"
 description: Primavera is a lush reverb plugin available now at Plugin Boutique —
   check the current deal price versus the regular MSRP on the product page for exact...
 pubDate: '2026-04-14T14:00:40Z'
-tags: ["deal", "music-production"]
+tags: ["sale", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=plugindrop&utm_medium=article&utm_campaign=primavera-99699e&a_aid=69cb95abe1763
 heroImage: /images/primavera-99699e.jpg
 dealPrice: "$39.00"

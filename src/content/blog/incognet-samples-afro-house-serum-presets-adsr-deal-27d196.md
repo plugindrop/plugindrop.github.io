@@ -2,7 +2,7 @@
 title: "Incognet Samples Afro House Serum Presets (ADSR Deal)"
 description: "Incognet Samples Afro House Serum Presets are available now on ADSR Sounds at a discounted deal price — check the product page for exact savings. If you..."
 pubDate: "2026-04-20T23:58:08Z"
-tags: ["adsr", "preset", "presets", "serum", "synth"]
+tags: ["sale", "serum", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/incognet-samples-afro-house-serum-presets/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=incognet-samples-afro-house-serum-presets-adsr-deal-27d196"
 heroImage: "/images/incognet-samples-afro-house-serum-presets-adsr-deal-27d196.jpg"
 score: 4.90

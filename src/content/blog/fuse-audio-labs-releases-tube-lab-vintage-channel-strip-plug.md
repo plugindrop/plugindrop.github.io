@@ -3,7 +3,7 @@ title: Fuse Audio Labs releases Tube Lab vintage channel strip plugin ($29 intro
 description: Fuse Audio Labs just dropped Tube Lab — a vintage channel strip plugin
   packing a multi-tube preamp, Baxandall EQ, and optical compressor into one sleek...
 pubDate: '2026-04-03T13:13:27Z'
-tags: ["news", "deals", "hot", "mac", "windows", "music-production"]
+tags: ["sale", "deals", "hot", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17093-Tube-Lab?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug
 heroImage: /images/fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug.jpg
 dealPrice: "$29"

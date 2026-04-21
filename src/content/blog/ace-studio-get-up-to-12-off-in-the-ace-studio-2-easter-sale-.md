@@ -4,7 +4,7 @@ title: '[Ace Studio] Get up to 12% off in the ACE Studio 2 Easter Sale. Expiry: 
 description: ACE Studio 2 is running an Easter Sale with up to 12% off — that means
   the Artist edition drops from ~~$398~~ to around $350, and the Artist Pro from...
 pubDate: '2026-04-04T13:06:47Z'
-tags: ["newplugindeals", "ace studio", "music-production"]
+tags: ["sale", "ace studio", "music-production"]
 affiliate: https://www.pluginboutique.com/deals/22658?utm_source=plugindrop&utm_medium=article&utm_campaign=ace-studio-get-up-to-12-off-in-the-ace-studio-2-easter-sale-&a_aid=69cb95abe1763
 heroImage: /images/ace-studio-get-up-to-12-off-in-the-ace-studio-2-easter-sale-.webp
 saleExpiry: '2026-04-12'

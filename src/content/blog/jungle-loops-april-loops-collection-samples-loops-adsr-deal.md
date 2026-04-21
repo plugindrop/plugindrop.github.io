@@ -2,7 +2,7 @@
 title: "Jungle Loops April Loops Collection Samples Loops (ADSR Deal)"
 description: "Jungle Loops' April Loops Collection is currently discounted on ADSR Sounds — a solid chance to stock up on royalty-free sample content at a reduced rate...."
 pubDate: "2026-04-21T01:05:49Z"
-tags: ["adsr", "preset", "presets"]
+tags: ["sale", "bundle", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/jungle-loops-april-loops-collection-samples-loops/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=jungle-loops-april-loops-collection-samples-loops-adsr-deal"
 heroImage: "/images/jungle-loops-april-loops-collection-samples-loops-adsr-deal.jpg"
 score: 3.70

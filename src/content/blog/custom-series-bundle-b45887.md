@@ -2,7 +2,7 @@
 title: "Custom Series Bundle"
 description: "The Slate Digital Custom Series Bundle is available at PluginFox — grab a suite of professional mixing tools in one package for less than buying them..."
 pubDate: "2026-04-21T00:31:30Z"
-tags: ["deal"]
+tags: ["sale", "bundle", "music-production"]
 affiliate: "https://pluginfox.com/products/slate-digital-custom-series?utm_source=affiliate-bot&utm_medium=article&utm_campaign=custom-series-bundle-b45887"
 heroImage: "/images/custom-series-bundle-b45887.png"
 score: 4.30

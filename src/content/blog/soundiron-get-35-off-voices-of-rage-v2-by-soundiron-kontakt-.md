@@ -3,7 +3,7 @@ title: Soundiron — Get 35% off Voices of Rage v2 by Soundiron (Kontakt Instrum
 description: Soundiron's Voices of Rage v2 is currently **35% off** at Plugin Boutique
   — one of the deeper discounts this vocal Kontakt library has seen. If you've...
 pubDate: '2026-04-16T03:48:20Z'
-tags: ["newplugindeals", "soundiron", "music-production"]
+tags: ["sale", "soundiron", "music-production"]
 affiliate: https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/10433-Voices-of-Rage-v2?utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-get-35-off-voices-of-rage-v2-by-soundiron-kontakt-&a_aid=69cb95abe1763
 heroImage: /images/soundiron-get-35-off-voices-of-rage-v2-by-soundiron-kontakt-.webp
 saleExpiry: '2026-04-30'

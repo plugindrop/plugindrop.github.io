@@ -2,7 +2,7 @@
 title: "Mercury-6 synthesizer by Cherry Audio on sale for $29 USD"
 description: "Cherry Audio's Mercury-6 — a faithful software recreation of the Roland Jupiter-6 — is currently on sale for just **$29** at Plugin Boutique. If you've..."
 pubDate: "2026-04-20T13:18:32Z"
-tags: ["sales and promotions", "aax", "au", "cherry audio", "plugin boutique", "sale", "synthesizer", "vst"]
+tags: ["cherry audio", "sale", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd"
 score: 9.0
 dealPrice: "$29.00"

@@ -2,7 +2,7 @@
 title: "Save 30% on HY-Plugins creative effects, instruments & MIDI sequencers"
 description: "HY-Plugins is running a 30% off sale on its range of creative effects, instruments, and MIDI sequencers at Plugin Boutique. If you've had any of these..."
 pubDate: "2026-04-20T08:18:51Z"
-tags: ["sales and promotions", "arpeggiator", "generator", "hy-plugins", "midi", "plugin boutique", "sale", "sequencer"]
+tags: ["arpeggiator", "generator", "hy-plugins", "midi", "sale", "sequencer", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ"
 score: 9.05
 dealPrice: "$42.00"

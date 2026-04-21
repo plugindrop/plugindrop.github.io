@@ -4,7 +4,7 @@ title: 'Telepathic Instruments Orchid Is Now a Soft Synth in Your DAW: Get Your 
 description: Telepathic Instruments' Orchid hardware synth now has a software counterpart
   — Pistil brings that same distinctive sound engine directly into your DAW. If...
 pubDate: '2026-04-17T13:23:23Z'
-tags: ["news", "orchid", "pistil", "synth", "synthesizer", "synthesizers", "tame impala", "video", "youtube", "music-production"]
+tags: ["sale", "orchid", "pistil", "synth", "tame impala", "video", "youtube", "music-production"]
 affiliate: https://www.telepathicinstruments.com/pistil?utm_source=plugindrop&utm_medium=article&utm_campaign=orchid-pistil-soft-synth
 heroImage: /images/telepathic-instruments-orchid-is-now-a-soft-synth-in-your-da.jpg
 draft: true

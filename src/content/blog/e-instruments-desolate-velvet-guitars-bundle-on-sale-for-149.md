@@ -3,7 +3,7 @@ title: e-instruments Desolate & Velvet Guitars Bundle on sale for $149 USD
 description: e-instruments' Desolate & Velvet Guitars Bundle is currently ~~$269~~
   **$149 USD** — a 44% discount. That's two premium Kontakt guitar libraries for the...
 pubDate: '2026-04-02T12:13:39Z'
-tags: ["sales and promotions", "e-instruments", "guitar", "kontakt", "sale", "music-production"]
+tags: ["e-instruments", "guitar", "kontakt", "sale", "music-production", "bundle"]
 affiliate: https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763
 heroImage: /images/e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149.jpg
 dealPrice: "$149"

@@ -2,7 +2,7 @@
 title: "Valhalla Supermassive — FREE Reverb & Delay (Always Free)"
 description: "Valhalla Supermassive is permanently free — a massive reverb/delay/warp plugin from the makers of VintageVerb and Plate. Zero reason not to grab it."
 pubDate: "2026-03-15T10:00:00Z"
-tags: ["free", "vst-plugin", "reverb", "delay", "music-production"]
+tags: ["free", "vst-plugin", "reverb", "delay", "music-production", "synth"]
 affiliate: "https://valhalladsp.com/shop/reverb/valhalla-supermassive/"
 dealPrice: "FREE"
 originalPrice: "$50"

@@ -320,9 +320,9 @@ function isSaleDeal(tags: string[], hasPriceOrAffiliate: boolean): boolean {
 				<button class="filter-btn" data-filter="sale">
 					<span class="dot" style="background: var(--sale-text)"></span> Sale
 				</button>
-				<button class="filter-btn" data-filter="daw">DAW</button>
-				<button class="filter-btn" data-filter="roundup">Bundles</button>
-				<button class="filter-btn" data-filter="plugin">Plugins</button>
+				<button class="filter-btn" data-filter="bundle">Bundles</button>
+				<button class="filter-btn" data-filter="synth">Synths</button>
+				<button class="filter-btn" data-filter="sample-pack">Sample Packs</button>
 			</div>
 
 			<p class="results-info" id="results-info">{posts.length} deals found</p>
@@ -413,7 +413,7 @@ function isSaleDeal(tags: string[], hasPriceOrAffiliate: boolean): boolean {
 			let currentFilter = urlParams.get('filter') || 'all';
 			let currentQuery = '';
 
-			const SALE_TAGS = new Set(['sale', 'deal', 'deals', 'newplugindeals', 'plugindeals', 'flash-sale']);
+			const SALE_TAGS = new Set(['sale', 'deal', 'deals', 'plugindeals', 'flash-sale']);
 
 			function applyFilter(filter: string, query: string) {
 				let count = 0;
@@ -423,7 +423,10 @@ function isSaleDeal(tags: string[], hasPriceOrAffiliate: boolean): boolean {
 					if (filter === 'all') {
 						matchesFilter = true;
 					} else if (filter === 'sale') {
-						matchesFilter = tags.some(t => SALE_TAGS.has(t)) || item.dataset.hasPrice === '1' || item.dataset.hasAffiliate === '1';
+						// sale タグのみ。roundup（まとめ記事）と free は除外
+						matchesFilter = tags.some(t => SALE_TAGS.has(t))
+							&& !tags.includes('roundup')
+							&& !tags.includes('free');
 					} else {
 						matchesFilter = tags.includes(filter);
 					}

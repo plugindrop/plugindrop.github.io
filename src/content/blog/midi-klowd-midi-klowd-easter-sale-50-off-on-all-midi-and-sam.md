@@ -4,7 +4,7 @@ title: '[MIDI Klowd] MIDI Klowd Easter Sale - 50% off on all MIDI and sample pac
 description: MIDI Klowd is running an Easter Sale with **50% off all MIDI and sample
   packs** — use code **EASTER** at checkout before April 5th. If you've been eyeing...
 pubDate: '2026-04-04T05:39:11Z'
-tags: ["newplugindeals", "midi klowd", "music-production"]
+tags: ["sale", "midi klowd", "music-production", "sample-pack"]
 affiliate: https://midiklowd.com/midi-klowd-everything-bundle
 heroImage: /images/midi-klowd-midi-klowd-easter-sale-50-off-on-all-midi-and-sam.webp
 aiImage: true

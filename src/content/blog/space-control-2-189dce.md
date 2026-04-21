@@ -3,7 +3,7 @@ title: "56% Off Space Control 2 by Acustica Audio"
 description: Space Control 2 by Acustica Audio is currently down to **$79.00** — that's
   ~~$178.99~~ slashed by 56%. If you've been waiting for a meaningful discount on...
 pubDate: '2026-04-14T14:00:37Z'
-tags: ["deal", "music-production"]
+tags: ["sale", "music-production"]
 affiliate: https://pluginplug.io/product/1679-space-control-2
 heroImage: /images/space-control-2-189dce.jpg
 dealPrice: "$79.00"
