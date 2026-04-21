@@ -3,14 +3,14 @@ title: "Raw Gemz - Stranger Serum Synths Vol.1 for Serum 2"
 description: "Raw Gemz – Stranger Serum Synths Vol.1 is available on Loopmasters right now for **$22.95** — verify the regular price on the product page to see the full..."
 pubDate: "2026-04-21T02:21:19Z"
 tags: ["sample-pack", "sale", "synth", "music-production"]
-affiliate: "https://www.loopmasters.com/system/products/covers/000/020/521/original/Resonance_Sound_Stranger_Serum_Synths_Vol1_Cover.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=raw-gemz-stranger-serum-synths-vol-1-for-serum-2-a90787"
+affiliate: "https://www.loopmasters.com/genres/139-Synthwave/products/20521-Raw-Gemz-Stranger-Serum-Synths-Vol-1-for-Serum-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=raw-gemz-stranger-serum-synths-vol-1-for-serum-2-a90787"
 heroImage: "/images/raw-gemz-stranger-serum-synths-vol-1-for-serum-2-a90787.jpg"
 score: 5.40
 dealPrice: "$22.95"
 xText: "honestly stranger serum synths vol.1 wavetables are already replacing my go-to presets. raw gemz cooked with this one. serum 2 users this matters."
 draft: false
 ---
-**TL;DR:** Raw Gemz – Stranger Serum Synths Vol.1 is available on Loopmasters right now for **$22.95** — verify the regular price on the product page to see the full saving. If synthwave, retrofuturism, and dark analog textures are your thing, this one is worth checking out. [Grab it on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/521/original/Resonance_Sound_Stranger_Serum_Synths_Vol1_Cover.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=raw-gemz-stranger-serum-synths-vol-1-for-serum-2-a90787)
+**TL;DR:** Raw Gemz – Stranger Serum Synths Vol.1 is available on Loopmasters right now for **$22.95** — verify the regular price on the product page to see the full saving. If synthwave, retrofuturism, and dark analog textures are your thing, this one is worth checking out. [Grab it on Loopmasters.](https://www.https://www.loopmasters.com/genres/139-Synthwave/products/20521-Raw-Gemz-Stranger-Serum-Synths-Vol-1-for-Serum-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=raw-gemz-stranger-serum-synths-vol-1-for-serum-2-a90787)
 
 ---
 
@@ -50,7 +50,7 @@ At $22.95, this sits in a competitive range for a dedicated single-synth preset 
 
 > **Note:** Deals and pricing can change at any time. Verify current pricing on the product page before purchasing.
 
-[Check current pricing and get the deal on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/521/original/Resonance_Sound_Stranger_Serum_Synths_Vol1_Cover.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=raw-gemz-stranger-serum-synths-vol-1-for-serum-2-a90787)
+[Check current pricing and get the deal on Loopmasters.](https://www.https://www.loopmasters.com/genres/139-Synthwave/products/20521-Raw-Gemz-Stranger-Serum-Synths-Vol-1-for-Serum-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=raw-gemz-stranger-serum-synths-vol-1-for-serum-2-a90787)
 
 ---
 
@@ -86,7 +86,7 @@ A: You'll need a working installation of Serum 2 (by Xfer Records). For DAW and 
 
 Stranger Serum Synths Vol.1 is available right now for **$22.95** on Loopmasters — a focused, genre-specific pack for Serum 2 producers working in synthwave and cinematic electronic music.
 
-[Get Raw Gemz – Stranger Serum Synths Vol.1 on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/521/original/Resonance_Sound_Stranger_Serum_Synths_Vol1_Cover.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=raw-gemz-stranger-serum-synths-vol-1-for-serum-2-a90787)
+[Get Raw Gemz – Stranger Serum Synths Vol.1 on Loopmasters.](https://www.https://www.loopmasters.com/genres/139-Synthwave/products/20521-Raw-Gemz-Stranger-Serum-Synths-Vol-1-for-Serum-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=raw-gemz-stranger-serum-synths-vol-1-for-serum-2-a90787)
 
 ---
 

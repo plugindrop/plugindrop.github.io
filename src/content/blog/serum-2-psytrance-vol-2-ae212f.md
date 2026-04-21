@@ -3,14 +3,14 @@ title: "Serum 2 Psytrance Vol 2"
 description: "Singomakers' *Serum 2 Psytrance Vol 2* is available on Loopmasters for **$21.95** — a focused preset pack built specifically for Xfer Serum 2 and aimed..."
 pubDate: "2026-04-21T02:21:21Z"
 tags: ["sample-pack", "sale", "synth", "music-production"]
-affiliate: "https://www.loopmasters.com/system/products/covers/000/020/682/original/Singomakers_Serum_2_Psytrance_Vol_2_1000-1000.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-2-psytrance-vol-2-ae212f"
+affiliate: "https://www.loopmasters.com/genres/58-Psy-Trance/products/20682-Serum-2-Psytrance-Vol-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-2-psytrance-vol-2-ae212f"
 heroImage: "/images/serum-2-psytrance-vol-2-ae212f.jpg"
 score: 4.90
 dealPrice: "$21.95"
 xText: "serum 2 psytrance vol 2 just dropped and it genuinely rethinks wavetable bass design for the genre. morphing depth and modulation routing actually make sense. this one hits different"
 draft: false
 ---
-**TL;DR:** Singomakers' *Serum 2 Psytrance Vol 2* is available on Loopmasters for **$21.95** — a focused preset pack built specifically for Xfer Serum 2 and aimed squarely at psytrance producers. Verify current pricing on the product page, as deals can change. [Grab it on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/682/original/Singomakers_Serum_2_Psytrance_Vol_2_1000-1000.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-2-psytrance-vol-2-ae212f)
+**TL;DR:** Singomakers' *Serum 2 Psytrance Vol 2* is available on Loopmasters for **$21.95** — a focused preset pack built specifically for Xfer Serum 2 and aimed squarely at psytrance producers. Verify current pricing on the product page, as deals can change. [Grab it on Loopmasters.](https://www.https://www.loopmasters.com/genres/58-Psy-Trance/products/20682-Serum-2-Psytrance-Vol-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-2-psytrance-vol-2-ae212f)
 
 ---
 
@@ -49,7 +49,7 @@ Check the official product page for the exact preset count and any included bonu
 
 No original price was available at time of writing — verify current pricing directly on the product page, as deals can change without notice.
 
-[Get Serum 2 Psytrance Vol 2 on Loopmasters →](https://www.loopmasters.com/system/products/covers/000/020/682/original/Singomakers_Serum_2_Psytrance_Vol_2_1000-1000.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-2-psytrance-vol-2-ae212f)
+[Get Serum 2 Psytrance Vol 2 on Loopmasters →](https://www.https://www.loopmasters.com/genres/58-Psy-Trance/products/20682-Serum-2-Psytrance-Vol-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-2-psytrance-vol-2-ae212f)
 
 ---
 
@@ -85,7 +85,7 @@ A: Loopmasters sells products as one-time downloads. Confirm the exact license t
 
 At $21.95, Serum 2 Psytrance Vol 2 is a straightforward pick for any psytrance producer already invested in Serum 2. Genre-specific patch packs save real time in production — and this one comes from a label with a long track record on Loopmasters.
 
-[Pick it up on Loopmasters →](https://www.loopmasters.com/system/products/covers/000/020/682/original/Singomakers_Serum_2_Psytrance_Vol_2_1000-1000.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-2-psytrance-vol-2-ae212f)
+[Pick it up on Loopmasters →](https://www.https://www.loopmasters.com/genres/58-Psy-Trance/products/20682-Serum-2-Psytrance-Vol-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-2-psytrance-vol-2-ae212f)
 
 ---
 

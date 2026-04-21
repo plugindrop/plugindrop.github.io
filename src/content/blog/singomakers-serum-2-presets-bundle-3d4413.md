@@ -3,14 +3,14 @@ title: "Singomakers Serum 2 Presets Bundle"
 description: "The Singomakers Serum 2 Presets Bundle is currently available **free** on Loopmasters — no coupon needed, just grab it. This is the kind of deal you..."
 pubDate: "2026-04-21T01:51:51Z"
 tags: ["sample-pack", "sale", "bundle", "synth", "music-production"]
-affiliate: "https://www.loopmasters.com/system/products/covers/000/020/601/original/Serum-2-Presets-Bundle-1000-1000.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=singomakers-serum-2-presets-bundle-3d4413"
+affiliate: "https://www.loopmasters.com/genres/66-Tech-House/products/20601-Singomakers-Serum-2-Presets-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=singomakers-serum-2-presets-bundle-3d4413"
 heroImage: "/images/singomakers-serum-2-presets-bundle-3d4413.jpg"
 score: 7.50
-dealPrice: "$0.0"
+dealPrice: "FREE"
 xText: "per-preset cost matters more than sound count. singomakers bundled serum 2 presets so the math actually works. this is the move if you're tired of paying per-preset."
 draft: false
 ---
-**TL;DR:** The Singomakers Serum 2 Presets Bundle is currently available **free** on Loopmasters — no coupon needed, just grab it. This is the kind of deal you bookmark and share immediately. [Get it free on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/601/original/Serum-2-Presets-Bundle-1000-1000.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=singomakers-serum-2-presets-bundle-3d4413)
+**TL;DR:** The Singomakers Serum 2 Presets Bundle is currently available **free** on Loopmasters — no coupon needed, just grab it. This is the kind of deal you bookmark and share immediately. [Get it free on Loopmasters.](https://www.https://www.loopmasters.com/genres/66-Tech-House/products/20601-Singomakers-Serum-2-Presets-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=singomakers-serum-2-presets-bundle-3d4413)
 
 ---
 
@@ -49,7 +49,7 @@ This is a **free download** — no discount code, no cart gymnastics. Visit the 
 
 > Note: Verify current pricing on the product page — deals can change without notice.
 
-[Claim the free bundle on Loopmasters →](https://www.loopmasters.com/system/products/covers/000/020/601/original/Serum-2-Presets-Bundle-1000-1000.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=singomakers-serum-2-presets-bundle-3d4413)
+[Claim the free bundle on Loopmasters →](https://www.https://www.loopmasters.com/genres/66-Tech-House/products/20601-Singomakers-Serum-2-Presets-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=singomakers-serum-2-presets-bundle-3d4413)
 
 ---
 
@@ -85,7 +85,7 @@ A: No end date is publicly confirmed. Free promotions on Loopmasters can expire 
 
 Free Serum 2 presets from an established producer — this is a no-brainer add to your library. Don't sit on it; free deals disappear fast.
 
-[Download the Singomakers Serum 2 Presets Bundle free on Loopmasters →](https://www.loopmasters.com/system/products/covers/000/020/601/original/Serum-2-Presets-Bundle-1000-1000.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=singomakers-serum-2-presets-bundle-3d4413)
+[Download the Singomakers Serum 2 Presets Bundle free on Loopmasters →](https://www.https://www.loopmasters.com/genres/66-Tech-House/products/20601-Singomakers-Serum-2-Presets-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=singomakers-serum-2-presets-bundle-3d4413)
 
 ---
 

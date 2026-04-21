@@ -3,14 +3,14 @@ title: "Liquid DnB Expressions - Serum 2 Presets"
 description: "Liquid DnB Expressions brings a focused collection of Serum 2 presets built specifically for the smooth, atmospheric side of Drum and Bass — available now..."
 pubDate: "2026-04-21T03:00:59Z"
 tags: ["sample-pack", "sale", "synth", "music-production"]
-affiliate: "https://www.loopmasters.com/system/products/covers/000/020/412/original/OZ033-LiquidDnBExpressions-Serum2Presets-1000-Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=liquid-dnb-expressions-serum-2-presets-0d2701"
+affiliate: "https://www.loopmasters.com/genres/15-Drum-and-Bass/products/20412-Liquid-DnB-Expressions-Serum-2-Presets?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=liquid-dnb-expressions-serum-2-presets-0d2701"
 heroImage: "/images/liquid-dnb-expressions-serum-2-presets-0d2701.jpg"
 score: 4.90
 dealPrice: "$19.95"
 xText: "liquid dnb in serum 2 just made sense. these expressions presets sit in a mix like butter and you've still got room to make them your own. that's the move."
 draft: false
 ---
-**TL;DR:** Liquid DnB Expressions brings a focused collection of Serum 2 presets built specifically for the smooth, atmospheric side of Drum and Bass — available now at Loopmasters for **$19.95**. No original price listed, so verify current pricing on the product page. [Grab it on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/412/original/OZ033-LiquidDnBExpressions-Serum2Presets-1000-Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=liquid-dnb-expressions-serum-2-presets-0d2701)
+**TL;DR:** Liquid DnB Expressions brings a focused collection of Serum 2 presets built specifically for the smooth, atmospheric side of Drum and Bass — available now at Loopmasters for **$19.95**. No original price listed, so verify current pricing on the product page. [Grab it on Loopmasters.](https://www.https://www.loopmasters.com/genres/15-Drum-and-Bass/products/20412-Liquid-DnB-Expressions-Serum-2-Presets?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=liquid-dnb-expressions-serum-2-presets-0d2701)
 
 ---
 
@@ -47,7 +47,7 @@ Liquid DnB Expressions is a dedicated Serum 2 preset pack designed for producers
 
 No original price was listed at time of writing. Verify current pricing on the product page — deals can change.
 
-[Check current pricing and grab the pack on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/412/original/OZ033-LiquidDnBExpressions-Serum2Presets-1000-Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=liquid-dnb-expressions-serum-2-presets-0d2701)
+[Check current pricing and grab the pack on Loopmasters.](https://www.https://www.loopmasters.com/genres/15-Drum-and-Bass/products/20412-Liquid-DnB-Expressions-Serum-2-Presets?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=liquid-dnb-expressions-serum-2-presets-0d2701)
 
 ---
 
@@ -83,7 +83,7 @@ A: Check the official Loopmasters product page for full licensing details, inclu
 
 Liquid DnB Expressions is a focused, genre-specific Serum 2 preset pack at $19.95 — a reasonable entry point for producers who want to skip the sound design groundwork and get into arranging faster.
 
-[Pick it up now on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/412/original/OZ033-LiquidDnBExpressions-Serum2Presets-1000-Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=liquid-dnb-expressions-serum-2-presets-0d2701)
+[Pick it up now on Loopmasters.](https://www.https://www.loopmasters.com/genres/15-Drum-and-Bass/products/20412-Liquid-DnB-Expressions-Serum-2-Presets?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=liquid-dnb-expressions-serum-2-presets-0d2701)
 
 ---
 
