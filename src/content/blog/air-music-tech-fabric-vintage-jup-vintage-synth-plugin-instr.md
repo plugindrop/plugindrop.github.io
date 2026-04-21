@@ -5,10 +5,12 @@ pubDate: "2026-04-20T11:40:16Z"
 tags: ["adsr", "plugin", "synth"]
 affiliate: "https://www.adsrsounds.com/product/software/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instrument/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr"
 score: 5.64
-dealPrice: "$73.98"
-draft: false
+dealPrice: "$59"
+originalPrice: "$99"
+heroImage: "/images/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr.png"
+
 ---
-**TL;DR:** AIR Music Technology's Fabric Vintage Jup is currently on sale at ADSR Sounds — a rare discount on a Jupiter-inspired soft synth that usually holds its price. Check the exact savings (use ~~strikethrough~~ pricing visible on the product page) and [grab the deal here](https://www.adsrsounds.com/product/software/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instrument/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr) before it expires.
+**TL;DR:** AIR Music Technology's Fabric Vintage Jup is down to **$59** (~~$99~~) at ADSR Sounds — 40% off on a Jupiter-inspired soft synth that rarely goes on sale. [Grab the deal here](https://www.adsrsounds.com/product/software/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instrument/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr) before it expires.
 
 ---
 
@@ -53,9 +55,9 @@ Fabric Vintage Jup is a relatively niche title within AIR's catalog, so large-sc
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
-| ~~Check product page~~ | See current deal price | Verify on ADSR |
+| ~~$99~~ | **$59** | $40 (40% off) |
 
-AIR Music Tech plugins don't run sales as frequently as some subscription-model competitors — when a discount appears on ADSR Sounds, it's worth noting. Verify the exact current and sale prices directly on the product page, as deal windows can close without notice.
+AIR Music Tech plugins don't run sales as frequently as some subscription-model competitors — when a discount appears on ADSR Sounds, it's worth noting. Deal windows can close without notice, so check the product page for the current price before purchasing.
 
 [Check the current price and grab the deal at ADSR Sounds →](https://www.adsrsounds.com/product/software/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instrument/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr)
 
