@@ -6,7 +6,8 @@ tags: ["free", "vst-plugin", "reverb", "delay", "music-production"]
 affiliate: "https://valhalladsp.com/shop/reverb/valhalla-supermassive/"
 dealPrice: "FREE"
 originalPrice: "$50"
-draft: false
+heroImage: "/images/valhalla-supermassive-free-reverb-delay.jpg"
+
 score: 2.37
 ---
 

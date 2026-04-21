@@ -5,7 +5,8 @@ pubDate: "2026-03-22T14:00:00Z"
 tags: ["free", "vst-plugin", "effects", "lofi", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/7091-Vinyl?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-vinyl-free-lofi-plugin"
 dealPrice: "FREE"
-draft: false
+heroImage: "/images/izotope-vinyl-free-lofi-plugin.jpg"
+
 score: 1.89
 ---
 

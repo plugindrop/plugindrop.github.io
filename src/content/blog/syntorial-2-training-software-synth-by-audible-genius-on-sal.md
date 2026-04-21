@@ -7,7 +7,8 @@ affiliate: "https://www.pluginboutique.com/product/66-Music-Courses/78-Video-Cou
 score: 11.31
 dealPrice: "$78.00"
 originalPrice: "$129.99"
-draft: false
+heroImage: "/images/syntorial-2-training-software-synth-by-audible-genius-on-sal.jpg"
+
 ---
 **TL;DR:** Syntorial 2 — the interactive synth training software from Audible Genius — is currently **40% off** at Plugin Boutique. If learning synthesis has been on your to-do list, this is a meaningful discount on one of the most hands-on training tools in the game. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/66-Music-Courses/78-Video-Courses/10674-Syntorial-2?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=syntorial-2-training-software-synth-by-audible-genius-on-sal)
 

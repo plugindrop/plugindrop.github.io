@@ -7,7 +7,8 @@ affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-M
 score: 9.0
 dealPrice: "$29.00"
 originalPrice: "$59.00"
-draft: false
+heroImage: "/images/mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd.jpg"
+
 ---
 **TL;DR:** Cherry Audio's Mercury-6 — a faithful software recreation of the Roland Jupiter-6 — is currently on sale for just **$29** at Plugin Boutique. If you've been eyeing a classic 80s polyphonic synth without the vintage hardware price tag, this is a strong entry point. [Grab it here while the deal lasts.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd)
 

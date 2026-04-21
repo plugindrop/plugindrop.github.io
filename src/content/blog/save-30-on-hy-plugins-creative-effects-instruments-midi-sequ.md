@@ -7,7 +7,8 @@ affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7929-HY
 score: 9.05
 dealPrice: "$42.00"
 originalPrice: "$60.00"
-draft: false
+heroImage: "/images/save-30-on-hy-plugins-creative-effects-instruments-midi-sequ.jpg"
+
 ---
 **TL;DR:** HY-Plugins is running a 30% off sale on its range of creative effects, instruments, and MIDI sequencers at Plugin Boutique. If you've had any of these tools on your radar, now is a solid time to pull the trigger. [Browse the HY-Plugins sale at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ)
 

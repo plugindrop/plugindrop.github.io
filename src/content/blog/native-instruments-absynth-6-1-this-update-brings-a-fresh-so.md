@@ -6,7 +6,8 @@ tags: ["news", "absynth 6", "absynth 61 update", "advanced sound design", "ambie
 affiliate: "https://www.thomann.de/intl/native_instruments_absynth_6.htm?offid=1&affid=5792&utm_source=affiliate-bot&utm_medium=article&utm_campaign=native-instruments-absynth-6-1-this-update-brings-a-fresh-so"
 score: 6.84
 dealPrice: "$163.87"
-draft: false
+heroImage: "/images/native-instruments-absynth-6-1-this-update-brings-a-fresh-so.jpg"
+
 ---
 **TL;DR:** Native Instruments Absynth 6.1 is now available at Thomann, bringing updated sound design capabilities to one of NI's most distinctive synthesizers. Check current pricing — use ~~strikethrough~~ pricing only when confirmed — and grab it via [Thomann here](https://www.thomann.de/intl/native_instruments_absynth_6.htm?offid=1&affid=5792&utm_source=affiliate-bot&utm_medium=article&utm_campaign=native-instruments-absynth-6-1-this-update-brings-a-fresh-so).
 

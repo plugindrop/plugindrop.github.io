@@ -8,7 +8,8 @@ affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bund
 dealPrice: "$699"
 originalPrice: "$1398"
 saleExpiry: "2026-03-09"
-draft: false
+heroImage: "/images/arturia-v-collection-10-sale-50-off.jpg"
+
 score: 7.98
 ---
 

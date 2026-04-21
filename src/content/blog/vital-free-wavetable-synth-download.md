@@ -5,7 +5,8 @@ pubDate: "2026-03-17T09:00:00Z"
 tags: ["free", "vst-plugin", "synth", "music-production"]
 affiliate: "https://vital.audio/"
 dealPrice: "FREE"
-draft: false
+heroImage: "/images/vital-free-wavetable-synth-download.jpg"
+
 score: 1.65
 ---
 

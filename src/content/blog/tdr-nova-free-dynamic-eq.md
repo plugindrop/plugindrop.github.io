@@ -5,7 +5,8 @@ pubDate: "2026-03-18T11:00:00Z"
 tags: ["free", "vst-plugin", "eq", "music-production"]
 affiliate: "https://www.tokyodawn.net/tdr-nova/"
 dealPrice: "FREE"
-draft: false
+heroImage: "/images/tdr-nova-free-dynamic-eq.jpg"
+
 score: 1.38
 ---
 
