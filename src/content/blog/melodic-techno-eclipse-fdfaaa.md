@@ -3,14 +3,14 @@ title: "Melodic Techno Eclipse"
 description: "Melodic Techno Eclipse by IQ Samples is available on Loopmasters at **$27.95** — verify the original price and any active discount on the product page. If..."
 pubDate: "2026-04-21T10:48:11Z"
 tags: ["sample-pack", "sale", "music-production"]
-affiliate: "https://www.loopmasters.com/system/products/covers/000/020/672/original/IQ_Samples_-_Melodic_Techno_Eclipse_1000-1000.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melodic-techno-eclipse-fdfaaa"
+affiliate: "https://www.loopmasters.com/products/20672-melodic-techno-eclipse?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melodic-techno-eclipse-fdfaaa?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melodic-techno-eclipse-fdfaaa"
 heroImage: "/images/melodic-techno-eclipse-fdfaaa.jpg"
 score: 3.40
 dealPrice: "$27.95"
 xText: "melodic techno eclipse just dropped. when a new plugin is built specifically for one workflow you feel the difference immediately"
 draft: false
 ---
-**TL;DR:** Melodic Techno Eclipse by IQ Samples is available on Loopmasters at **$27.95** — verify the original price and any active discount on the product page. If you're building dark, driving melodic techno tracks and need production-ready loops and one-shots, [grab it here](https://www.loopmasters.com/system/products/covers/000/020/672/original/IQ_Samples_-_Melodic_Techno_Eclipse_1000-1000.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melodic-techno-eclipse-fdfaaa).
+**TL;DR:** Melodic Techno Eclipse by IQ Samples is available on Loopmasters at **$27.95** — verify the original price and any active discount on the product page. If you're building dark, driving melodic techno tracks and need production-ready loops and one-shots, [grab it here](https://www.loopmasters.com/products/20672-melodic-techno-eclipse?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melodic-techno-eclipse-fdfaaa?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melodic-techno-eclipse-fdfaaa).
 
 ---
 
@@ -50,7 +50,7 @@ $27.95 is a competitive price point for a genre-specific Loopmasters pack. IQ Sa
 
 Note: Verify current pricing on the product page — deals can change.
 
-[Check current price and buy on Loopmasters](https://www.loopmasters.com/system/products/covers/000/020/672/original/IQ_Samples_-_Melodic_Techno_Eclipse_1000-1000.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melodic-techno-eclipse-fdfaaa)
+[Check current price and buy on Loopmasters](https://www.loopmasters.com/products/20672-melodic-techno-eclipse?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melodic-techno-eclipse-fdfaaa?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melodic-techno-eclipse-fdfaaa)
 
 ---
 
@@ -86,7 +86,7 @@ A: Check Loopmasters' official terms and conditions for their current refund pol
 
 Melodic Techno Eclipse is priced at **$27.95** and available now on Loopmasters. If melodic techno is your lane, this is a focused, genre-specific pack worth adding to your library.
 
-[Get Melodic Techno Eclipse on Loopmasters](https://www.loopmasters.com/system/products/covers/000/020/672/original/IQ_Samples_-_Melodic_Techno_Eclipse_1000-1000.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melodic-techno-eclipse-fdfaaa)
+[Get Melodic Techno Eclipse on Loopmasters](https://www.loopmasters.com/products/20672-melodic-techno-eclipse?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melodic-techno-eclipse-fdfaaa?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melodic-techno-eclipse-fdfaaa)
 
 ---
 

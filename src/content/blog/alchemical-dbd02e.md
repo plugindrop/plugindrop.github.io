@@ -3,14 +3,14 @@ title: "Alchemical"
 description: "Loopmasters is currently offering **Alchemical** by Lost Audio for **$27.95** — no original price listed, so verify current savings on the product page...."
 pubDate: "2026-04-21T11:26:11Z"
 tags: ["sample-pack", "sale", "music-production"]
-affiliate: "https://www.loopmasters.com/system/products/covers/000/020/667/original/Lost_Audio_Alchemical_Cover_Lo.png?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=alchemical-dbd02e"
+affiliate: "https://www.loopmasters.com/products/20667-alchemical?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=alchemical-dbd02e?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=alchemical-dbd02e"
 heroImage: "/images/alchemical-dbd02e.jpg"
 score: 3.40
 dealPrice: "$27.95"
 xText: "alchemical dropped this week and actually just solves one problem instead of bloated feature-creep. refreshing when a plugin knows what it is"
 draft: false
 ---
-**TL;DR:** Loopmasters is currently offering **Alchemical** by Lost Audio for **$27.95** — no original price listed, so verify current savings on the product page. This is a Tech House sample pack built for producers who want polished, ready-to-drop loops and one-shots. [Grab it on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/667/original/Lost_Audio_Alchemical_Cover_Lo.png?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=alchemical-dbd02e)
+**TL;DR:** Loopmasters is currently offering **Alchemical** by Lost Audio for **$27.95** — no original price listed, so verify current savings on the product page. This is a Tech House sample pack built for producers who want polished, ready-to-drop loops and one-shots. [Grab it on Loopmasters.](https://www.loopmasters.com/products/20667-alchemical?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=alchemical-dbd02e?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=alchemical-dbd02e)
 
 ---
 
@@ -50,7 +50,7 @@ Loopmasters doesn't always run deep discount windows on individual packs — pri
 
 > Verify current pricing on the product page — deals can change.
 
-[Check the current price and grab Alchemical on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/667/original/Lost_Audio_Alchemical_Cover_Lo.png?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=alchemical-dbd02e)
+[Check the current price and grab Alchemical on Loopmasters.](https://www.loopmasters.com/products/20667-alchemical?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=alchemical-dbd02e?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=alchemical-dbd02e)
 
 ---
 
@@ -86,7 +86,7 @@ A: Check the product page for exact format and resolution specs — Loopmasters 
 
 Alchemical is priced at **$27.95** on Loopmasters — a focused Tech House pack with loops, one-shots, and MIDI ready for immediate use in a production session.
 
-[Pick up Alchemical on Loopmasters now.](https://www.loopmasters.com/system/products/covers/000/020/667/original/Lost_Audio_Alchemical_Cover_Lo.png?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=alchemical-dbd02e)
+[Pick up Alchemical on Loopmasters now.](https://www.loopmasters.com/products/20667-alchemical?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=alchemical-dbd02e?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=alchemical-dbd02e)
 
 ---
 

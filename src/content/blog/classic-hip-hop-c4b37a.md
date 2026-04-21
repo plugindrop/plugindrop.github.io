@@ -3,14 +3,14 @@ title: "Classic Hip Hop"
 description: "Loopmasters has the Classic Hip Hop sample pack available now at **$17.95** — a solid pick for producers looking to build authentic boom-bap and..."
 pubDate: "2026-04-21T12:43:04Z"
 tags: ["sample-pack", "sale", "music-production"]
-affiliate: "https://www.loopmasters.com/system/products/covers/000/020/617/original/AA_CHH_Cover.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=classic-hip-hop-c4b37a"
+affiliate: "https://www.loopmasters.com/products/20617-classic-hip-hop?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=classic-hip-hop-c4b37a?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=classic-hip-hop-c4b37a"
 heroImage: "/images/classic-hip-hop-c4b37a.jpg"
 score: 3.40
 dealPrice: "$17.95"
 xText: "classic hip hop just landed and this sits in a mix like butter. absolute sleeper if you're building the toolkit. worth the dive"
 draft: false
 ---
-**TL;DR:** Loopmasters has the Classic Hip Hop sample pack available now at **$17.95** — a solid pick for producers looking to build authentic boom-bap and old-school flavored beats. [Grab it at Loopmasters](https://www.loopmasters.com/system/products/covers/000/020/617/original/AA_CHH_Cover.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=classic-hip-hop-c4b37a) before the price changes.
+**TL;DR:** Loopmasters has the Classic Hip Hop sample pack available now at **$17.95** — a solid pick for producers looking to build authentic boom-bap and old-school flavored beats. [Grab it at Loopmasters](https://www.loopmasters.com/products/20617-classic-hip-hop?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=classic-hip-hop-c4b37a?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=classic-hip-hop-c4b37a) before the price changes.
 
 ---
 
@@ -50,7 +50,7 @@ Loopmasters runs periodic genre sales and bundle promotions — if you're on the
 
 > **Note:** Verify current pricing on the product page — deals can change without notice.
 
-[Get Classic Hip Hop at Loopmasters →](https://www.loopmasters.com/system/products/covers/000/020/617/original/AA_CHH_Cover.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=classic-hip-hop-c4b37a)
+[Get Classic Hip Hop at Loopmasters →](https://www.loopmasters.com/products/20617-classic-hip-hop?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=classic-hip-hop-c4b37a?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=classic-hip-hop-c4b37a)
 
 ---
 
@@ -86,7 +86,7 @@ A: Royalty-free means you retain rights to your finished music, but review Loopm
 
 Classic Hip Hop from Loopmasters is available now at **$17.95** — vintage-inspired drum breaks, bass lines, and melodic loops ready to drop into your next beat session.
 
-[Pick It Up at Loopmasters →](https://www.loopmasters.com/system/products/covers/000/020/617/original/AA_CHH_Cover.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=classic-hip-hop-c4b37a)
+[Pick It Up at Loopmasters →](https://www.loopmasters.com/products/20617-classic-hip-hop?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=classic-hip-hop-c4b37a?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=classic-hip-hop-c4b37a)
 
 ---
 

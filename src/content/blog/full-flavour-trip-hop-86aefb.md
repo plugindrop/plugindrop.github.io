@@ -3,14 +3,14 @@ title: "Full Flavour Trip Hop"
 description: "Full Flavour Trip Hop is available on Loopmasters for **$24.95** — verify the original price and any active discount on the product page. If you produce..."
 pubDate: "2026-04-21T11:26:12Z"
 tags: ["sample-pack", "sale", "music-production"]
-affiliate: "https://www.loopmasters.com/system/products/covers/000/020/651/original/FULL_FLAVOUR_VOL_1_1000x1000_opt.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=full-flavour-trip-hop-86aefb"
+affiliate: "https://www.loopmasters.com/products/20651-full-flavour-trip-hop?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=full-flavour-trip-hop-86aefb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=full-flavour-trip-hop-86aefb"
 heroImage: "/images/full-flavour-trip-hop-86aefb.jpg"
 score: 3.40
 dealPrice: "$24.95"
 xText: "full flavour trip hop just dropped and it's genuinely hitting. dark cinematic samples that sit in a mix like butter. if your trip hop drums and atmospheres ever feel lifeless, this is exactly what you're missing"
 draft: false
 ---
-**TL;DR:** Full Flavour Trip Hop is available on Loopmasters for **$24.95** — verify the original price and any active discount on the product page. If you produce downtempo, cinematic hip-hop, or Bristol-influenced beats, this pack is worth a look. [Grab it on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/651/original/FULL_FLAVOUR_VOL_1_1000x1000_opt.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=full-flavour-trip-hop-86aefb)
+**TL;DR:** Full Flavour Trip Hop is available on Loopmasters for **$24.95** — verify the original price and any active discount on the product page. If you produce downtempo, cinematic hip-hop, or Bristol-influenced beats, this pack is worth a look. [Grab it on Loopmasters.](https://www.loopmasters.com/products/20651-full-flavour-trip-hop?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=full-flavour-trip-hop-86aefb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=full-flavour-trip-hop-86aefb)
 
 ---
 
@@ -49,7 +49,7 @@ Price history for this specific pack isn't widely documented, so it's worth chec
 
 > **Note:** Verify current pricing on the product page — deals can change without notice.
 
-[Check the current price and purchase on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/651/original/FULL_FLAVOUR_VOL_1_1000x1000_opt.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=full-flavour-trip-hop-86aefb)
+[Check the current price and purchase on Loopmasters.](https://www.loopmasters.com/products/20651-full-flavour-trip-hop?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=full-flavour-trip-hop-86aefb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=full-flavour-trip-hop-86aefb)
 
 ---
 
@@ -83,7 +83,7 @@ A: Loopmasters' standard royalty-free license covers commercial use. For specifi
 
 ## Get the Deal
 
-Full Flavour Trip Hop is priced at **$24.95** on Loopmasters — a solid entry point for a production-ready trip hop library from one of the most trusted names in sample content. [Pick it up directly on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/651/original/FULL_FLAVOUR_VOL_1_1000x1000_opt.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=full-flavour-trip-hop-86aefb)
+Full Flavour Trip Hop is priced at **$24.95** on Loopmasters — a solid entry point for a production-ready trip hop library from one of the most trusted names in sample content. [Pick it up directly on Loopmasters.](https://www.loopmasters.com/products/20651-full-flavour-trip-hop?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=full-flavour-trip-hop-86aefb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=full-flavour-trip-hop-86aefb)
 
 ---
 

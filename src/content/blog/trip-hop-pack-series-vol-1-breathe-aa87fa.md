@@ -3,14 +3,14 @@ title: "Trip Hop Pack Series Vol 1 - Breathe"
 description: "Trip Hop Pack Series Vol 1 - Breathe is available now on Loopmasters for **$29.95** — verify original pricing on the product page. It's a dedicated..."
 pubDate: "2026-04-21T10:48:10Z"
 tags: ["sample-pack", "sale", "music-production"]
-affiliate: "https://www.loopmasters.com/system/products/covers/000/020/674/original/Trip_Hop_Series_Vol_1_-_Breathe_Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-pack-series-vol-1-breathe-aa87fa"
+affiliate: "https://www.loopmasters.com/products/20674-trip-hop-pack-series-vol-1-breathe?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-pack-series-vol-1-breathe-aa87fa?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-pack-series-vol-1-breathe-aa87fa"
 heroImage: "/images/trip-hop-pack-series-vol-1-breathe-aa87fa.jpg"
 score: 3.40
 dealPrice: "$29.95"
 xText: "finally a trip hop pack that doesn't sound like a 2003 sample library. breathing room, tight drums, space that hits instead of flattening everything."
 draft: false
 ---
-**TL;DR:** Trip Hop Pack Series Vol 1 - Breathe is available now on Loopmasters for **$29.95** — verify original pricing on the product page. It's a dedicated trip-hop sample pack built around atmospheric, downtempo production. [Grab it on Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/674/original/Trip_Hop_Series_Vol_1_-_Breathe_Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-pack-series-vol-1-breathe-aa87fa)
+**TL;DR:** Trip Hop Pack Series Vol 1 - Breathe is available now on Loopmasters for **$29.95** — verify original pricing on the product page. It's a dedicated trip-hop sample pack built around atmospheric, downtempo production. [Grab it on Loopmasters.](https://www.loopmasters.com/products/20674-trip-hop-pack-series-vol-1-breathe?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-pack-series-vol-1-breathe-aa87fa?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-pack-series-vol-1-breathe-aa87fa)
 
 ---
 
@@ -50,7 +50,7 @@ Trip-hop is a niche genre in the sample pack world, and dedicated, deep-dive pac
 
 > **Note:** Verify current pricing on the product page — deals can change.
 
-[Get Trip Hop Pack Series Vol 1 – Breathe on Loopmasters →](https://www.loopmasters.com/system/products/covers/000/020/674/original/Trip_Hop_Series_Vol_1_-_Breathe_Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-pack-series-vol-1-breathe-aa87fa)
+[Get Trip Hop Pack Series Vol 1 – Breathe on Loopmasters →](https://www.loopmasters.com/products/20674-trip-hop-pack-series-vol-1-breathe?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-pack-series-vol-1-breathe-aa87fa?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-pack-series-vol-1-breathe-aa87fa)
 
 ---
 
@@ -86,7 +86,7 @@ A: Loopmasters content is cleared for commercial use in music productions — ve
 
 Trip Hop Pack Series Vol 1 - Breathe is priced at **$29.95** on Loopmasters — a focused, genre-specific library for producers who want authentic trip-hop material without digging through broad multi-genre packs.
 
-[Pick it up on Loopmasters now →](https://www.loopmasters.com/system/products/covers/000/020/674/original/Trip_Hop_Series_Vol_1_-_Breathe_Loopmasters.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-pack-series-vol-1-breathe-aa87fa)
+[Pick it up on Loopmasters now →](https://www.loopmasters.com/products/20674-trip-hop-pack-series-vol-1-breathe?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-pack-series-vol-1-breathe-aa87fa?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-pack-series-vol-1-breathe-aa87fa)
 
 ---
 
