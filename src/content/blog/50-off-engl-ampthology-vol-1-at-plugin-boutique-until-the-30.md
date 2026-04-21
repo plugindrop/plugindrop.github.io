@@ -10,6 +10,7 @@ heroImage: /images/50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30.
 discount: "50% OFF"
 dealPrice: "$49.99"
 originalPrice: "$99.99"
+saleExpiry: '2026-04-30'
 draft: false
 score: 7.01
 ---
