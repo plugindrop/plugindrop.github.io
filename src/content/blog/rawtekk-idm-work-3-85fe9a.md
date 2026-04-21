@@ -3,14 +3,14 @@ title: "Rawtekk IDM Work 3"
 description: "Rawtekk IDM Work 3 is available on Loopmasters for **$33.95** — a focused sample pack from a respected name in the IDM space. If you produce glitchy,..."
 pubDate: "2026-04-21T06:55:09Z"
 tags: ["sample-pack", "sale", "music-production"]
-affiliate: "https://www.loopmasters.com/system/products/covers/000/020/615/original/ND_Rawtekk_IDM_Work_3_Cover.png?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rawtekk-idm-work-3-85fe9a"
+affiliate: "https://www.loopmasters.com/products/20615-rawtekk-idm-work-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rawtekk-idm-work-3-85fe9a"
 heroImage: "/images/rawtekk-idm-work-3-85fe9a.jpg"
 score: 3.60
 dealPrice: "$33.95"
 xText: "the new idm work 3 from rawtekk actually changes how you work. cuts session setup time in half by removing layers that didn't need to exist."
 draft: false
 ---
-**TL;DR:** Rawtekk IDM Work 3 is available on Loopmasters for **$33.95** — a focused sample pack from a respected name in the IDM space. If you produce glitchy, cerebral electronic music and need high-quality source material, [grab it here](https://www.loopmasters.com/system/products/covers/000/020/615/original/ND_Rawtekk_IDM_Work_3_Cover.png?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rawtekk-idm-work-3-85fe9a). Verify original pricing on the product page to see your full savings.
+**TL;DR:** Rawtekk IDM Work 3 is available on Loopmasters for **$33.95** — a focused sample pack from a respected name in the IDM space. If you produce glitchy, cerebral electronic music and need high-quality source material, [grab it here](https://www.loopmasters.com/products/20615-rawtekk-idm-work-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rawtekk-idm-work-3-85fe9a). Verify original pricing on the product page to see your full savings.
 
 ---
 
@@ -49,7 +49,7 @@ Price history context: Loopmasters periodically runs genre-specific promotions a
 
 Note: Verify current pricing on the product page — deals can change.
 
-[Get Rawtekk IDM Work 3 on Loopmasters →](https://www.loopmasters.com/system/products/covers/000/020/615/original/ND_Rawtekk_IDM_Work_3_Cover.png?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rawtekk-idm-work-3-85fe9a)
+[Get Rawtekk IDM Work 3 on Loopmasters →](https://www.loopmasters.com/products/20615-rawtekk-idm-work-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rawtekk-idm-work-3-85fe9a)
 
 ---
 
@@ -85,7 +85,7 @@ A: Sample packs don't require iLok or activation. Check the product page for dow
 
 Rawtekk IDM Work 3 sits at **$33.95** on Loopmasters — specialist material from an artist who actually makes this music. If IDM, glitch, or left-field drum & bass is your lane, this is purpose-built source material rather than a generic sample dump.
 
-[Grab Rawtekk IDM Work 3 on Loopmasters →](https://www.loopmasters.com/system/products/covers/000/020/615/original/ND_Rawtekk_IDM_Work_3_Cover.png?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rawtekk-idm-work-3-85fe9a)
+[Grab Rawtekk IDM Work 3 on Loopmasters →](https://www.loopmasters.com/products/20615-rawtekk-idm-work-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rawtekk-idm-work-3-85fe9a)
 
 ---
 

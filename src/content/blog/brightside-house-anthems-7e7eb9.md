@@ -3,14 +3,14 @@ title: "Brightside: House Anthems"
 description: "Brightside: House Anthems is currently available at Loopmasters for **$73.95**. No original price is listed — verify current savings on the product page...."
 pubDate: "2026-04-21T06:15:42Z"
 tags: ["sample-pack", "sale", "music-production"]
-affiliate: "https://www.loopmasters.com/system/products/covers/000/020/488/original/Big_Fish_Audio_Brightside_Cover.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=brightside-house-anthems-7e7eb9"
+affiliate: "https://www.loopmasters.com/products/20488-brightside-house-anthems?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=brightside-house-anthems-7e7eb9"
 heroImage: "/images/brightside-house-anthems-7e7eb9.jpg"
 score: 3.90
 dealPrice: "$73.95"
 xText: "brightside dropped house anthems and these loops are hitting different. vocal quality like this usually costs way more. absolute sleeper deal if you're into house"
 draft: false
 ---
-**TL;DR:** Brightside: House Anthems is currently available at Loopmasters for **$73.95**. No original price is listed — verify current savings on the product page. [Grab it at Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/488/original/Big_Fish_Audio_Brightside_Cover.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=brightside-house-anthems-7e7eb9)
+**TL;DR:** Brightside: House Anthems is currently available at Loopmasters for **$73.95**. No original price is listed — verify current savings on the product page. [Grab it at Loopmasters.](https://www.loopmasters.com/products/20488-brightside-house-anthems?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=brightside-house-anthems-7e7eb9)
 
 ---
 
@@ -47,7 +47,7 @@ Brightside: House Anthems is a professional sample library from Big Fish Audio, 
 
 No original price is currently listed for this product. The deal price of **$73.95** reflects what's shown at checkout — confirm current pricing directly before purchasing, as deals on Loopmasters can update without notice.
 
-[Check current pricing and grab the pack at Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/488/original/Big_Fish_Audio_Brightside_Cover.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=brightside-house-anthems-7e7eb9)
+[Check current pricing and grab the pack at Loopmasters.](https://www.loopmasters.com/products/20488-brightside-house-anthems?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=brightside-house-anthems-7e7eb9)
 
 > **Note:** Verify current pricing on the product page — deals can change.
 
@@ -85,7 +85,7 @@ A: Refund eligibility for digital sample packs varies. Check Loopmasters' offici
 
 Brightside: House Anthems is priced at **$73.95** at Loopmasters — a focused, ready-to-use library for producers building in the anthem house space. If the sound fits your sessions, the pack is one click away.
 
-[Get Brightside: House Anthems at Loopmasters.](https://www.loopmasters.com/system/products/covers/000/020/488/original/Big_Fish_Audio_Brightside_Cover.jpg?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=brightside-house-anthems-7e7eb9)
+[Get Brightside: House Anthems at Loopmasters.](https://www.loopmasters.com/products/20488-brightside-house-anthems?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=brightside-house-anthems-7e7eb9)
 
 ---
 
