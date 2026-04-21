@@ -61,6 +61,23 @@ function isRealDeal(post: any): boolean {
 	return !!(post.data.discount || (post.data.dealPrice && post.data.originalPrice) || isFreePrice(post.data.dealPrice));
 }
 
+function parsePrice(s: string | undefined): number {
+	if (!s) return 0;
+	const m = s.replace(/,/g, '').match(/[\d]+(?:\.\d+)?/);
+	return m ? parseFloat(m[0]) : 0;
+}
+
+function getDiscountBadge(post: any): string | null {
+	if (post.data.discount) return post.data.discount;
+	const dp = parsePrice(post.data.dealPrice);
+	const op = parsePrice(post.data.originalPrice);
+	if (dp > 0 && op > dp) {
+		const pct = Math.round((1 - dp / op) * 100);
+		return pct > 0 ? `${pct}% OFF` : null;
+	}
+	return null;
+}
+
 const heroPosts = allPosts.filter(hasHeroImage);
 
 // Editor's Picks: scored paid deals, non-expired, with affiliate + hero image (FREE excluded → shown in Free Deals section)
@@ -71,9 +88,9 @@ const topDeals = heroPosts
 
 const topIds = new Set(topDeals.map(p => p.id));
 
-// Recent Deals: non-expired, not in Editor's Picks
+// Recent Deals: 有料ディールのみ（isRealDeal + 非FREE）、Editor's Picks除外
 const recentDeals = heroPosts
-	.filter(p => !topIds.has(p.id) && !isExpired(p))
+	.filter(p => !topIds.has(p.id) && !isExpired(p) && p.data.affiliate && isRealDeal(p) && !isFreePrice(p.data.dealPrice))
 	.slice(0, 6);
 
 // Free Deals: confirmed free, non-expired, not shown above (recentDeals excluded too)
@@ -133,7 +150,7 @@ const freeDeals = allPosts
 								<a href={`/posts/${post.id}/`} class="deal-card">
 									<div class="card-img-wrap">
 										<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
-										{post.data.discount && <span class="bdg-discount">{post.data.discount}</span>}
+										{getDiscountBadge(post) && <span class="bdg-discount">{getDiscountBadge(post)}</span>}
 										{isNew(post.data.pubDate) && <span class="bdg-new">NEW</span>}
 									</div>
 									<div class="card-body">
@@ -178,7 +195,7 @@ const freeDeals = allPosts
 									{post.data.heroImage && (
 										<div class="card-img-wrap">
 											<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
-											{post.data.discount && <span class="bdg-discount">{post.data.discount}</span>}
+											{getDiscountBadge(post) && <span class="bdg-discount">{getDiscountBadge(post)}</span>}
 											{isNew(post.data.pubDate) && <span class="bdg-new">NEW</span>}
 										</div>
 									)}
