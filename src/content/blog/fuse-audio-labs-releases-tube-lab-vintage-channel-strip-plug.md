@@ -13,7 +13,7 @@ draft: false
 score: 5.04
 ---
 
-**TL;DR:** Fuse Audio Labs just dropped Tube Lab — a vintage channel strip plugin packing a multi-tube preamp, Baxandall EQ, and optical compressor into one sleek package. Grab it at the ~~$69~~ **$29 intro price** before May 2nd and save $40. [Get Tube Lab at the intro price here.](https://bedroomproducersblog.com/2026/04/03/fuse-audio-tube-lab/)
+**TL;DR:** Fuse Audio Labs just dropped Tube Lab — a vintage channel strip plugin packing a multi-tube preamp, Baxandall EQ, and optical compressor into one sleek package. Grab it at the ~~$69~~ **$29 intro price** before May 2nd and save $40. [Get Tube Lab at the intro price here.](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17093-Tube-Lab?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug)
 
 ## What Is Tube Lab?
 
@@ -42,7 +42,7 @@ Tube Lab is a new vintage channel strip plugin from Fuse Audio Labs, a developer
 
 The $29 intro price runs until **May 2nd, 2026**. Fuse Audio Labs is a smaller developer, so historical sale data is limited — this intro pricing window may be the best deal for the foreseeable future. A fully functional 14-day trial is also available if you want to test before committing.
 
-Verify current pricing on the product page — deals can change. [Grab Tube Lab at the $29 intro price here.](https://bedroomproducersblog.com/2026/04/03/fuse-audio-tube-lab/)
+Verify current pricing on the product page — deals can change. [Grab Tube Lab at the $29 intro price here.](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17093-Tube-Lab?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug)
 
 ## Alternatives at a Glance
 
@@ -72,7 +72,7 @@ A: The $29 intro price is available until May 2nd, 2026. After that, the regular
 
 $40 off a vintage channel strip with five tube preamp models, Baxandall EQ, and optical compressor — all for $29 until May 2nd. That's a solid entry point for what Fuse Audio Labs is offering here.
 
-[Get Tube Lab at the intro price →](https://bedroomproducersblog.com/2026/04/03/fuse-audio-tube-lab/)
+[Get Tube Lab at the intro price →](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17093-Tube-Lab?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug)
 
 ---
 

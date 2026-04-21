@@ -12,9 +12,6 @@ discount: "50% OFF"
 draft: false
 score: 2.8
 ---
-I now have enough information to write the article. Here it is:
-
----
 
 **TL;DR:** Luftrum's Spring Sale is live — save up to 50% on their catalog of synth soundsets and Kontakt instruments. Latest releases are 20–30% off, while catalog favorites like Lunaris, Bioscape, and Twilight drop 40–50%. Use promo code **"hellosun"** at checkout. [Grab the deals before they're gone.](https://www.luftrum.com/synthpresets/)
 

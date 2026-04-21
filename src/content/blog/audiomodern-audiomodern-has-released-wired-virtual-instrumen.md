@@ -8,7 +8,6 @@ tags: ["free", "audiomodern", "music-production"]
 affiliate: https://audiomodern.com/shop/packs/wired/
 heroImage: /images/audiomodern-audiomodern-has-released-wired-virtual-instrumen.png
 saleExpiry: '2026-05-07'
-dealPrice: "FREE"
 draft: false
 score: 1.5
 ---

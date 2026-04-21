@@ -6,7 +6,7 @@ pubDate: '2026-04-03T09:08:28Z'
 tags: ["sale", "samples and presets", "omnisphere", "triple spiral audio", "music-production"]
 affiliate: https://www.triplespiralaudio.com/product/organism-for-omnisphere-3/
 heroImage: /images/triple-spiral-audio-releases-organism-sound-library-for-omni.jpg
-dealPrice: "$46.49"
+dealPrice: "€56.25"
 saleExpiry: "2026-04-19"
 draft: false
 score: 2.87

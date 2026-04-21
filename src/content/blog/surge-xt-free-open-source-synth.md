@@ -5,7 +5,6 @@ pubDate: "2026-03-25T11:00:00Z"
 tags: ["free", "vst-plugin", "synth", "music-production"]
 affiliate: "https://surge-synthesizer.github.io/"
 dealPrice: "FREE"
-originalPrice: "$199"
 heroImage: "/images/surge-xt-free-open-source-synth.jpg"
 
 score: 2.54

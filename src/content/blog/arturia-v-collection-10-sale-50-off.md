@@ -7,7 +7,6 @@ tags: ["sale", "synth", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-v-collection-10-sale-50-off"
 dealPrice: "$699"
 originalPrice: "$1398"
-saleExpiry: "2026-03-09"
 heroImage: "/images/arturia-v-collection-10-sale-50-off.jpg"
 
 score: 7.98
