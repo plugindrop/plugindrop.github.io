@@ -6,7 +6,7 @@ tags: ["available", "behringer", "desktop", "eurorack", "jt-2", "jupiter", "mono
 affiliate: "https://www.thomann.de/de/behringer_jt_2.htm?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=behringer-jt-2-now-available-to-order-633a66"
 heroImage: "/images/behringer-jt-2-now-available-to-order-633a66.jpg"
 score: 3.12
-xText: "ok the jt-2 is actually a game changer. poly analog that doesn't cost everything, and it sounds thick as hell. behringer just did the thing everyone wanted."
+xText: "the jt-2 is a eurorack roland jupiter voice for a fraction of the original cost. mono analog done right — thick, warm, and accessible. behringer delivering again."
 draft: false
 ---
 **TL;DR:** The Behringer JT-2 — a Eurorack recreation of the iconic Roland Jupiter voice — is now available to order at Thomann. Verify current pricing on the product page. If Jupiter-style analog tones in modular format are on your radar, [grab yours at Thomann](https://www.thomann.de/de/behringer_jt_2.htm?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=behringer-jt-2-now-available-to-order-633a66) before stock moves.
