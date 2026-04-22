@@ -80,9 +80,15 @@ function getDiscountBadge(post: any): string | null {
 
 const heroPosts = allPosts.filter(hasHeroImage);
 
+// sample-pack-deal タグ付きアイテムは /tags/sample-pack-deal/ のみに表示
+// （無名ブランドのサンプルパック・プリセット等をメインフィードから除外）
+function isSamplePackDeal(post: any): boolean {
+	return post.data.tags?.includes('sample-pack-deal') ?? false;
+}
+
 // Editor's Picks: scored paid deals, non-expired, with affiliate + hero image (FREE excluded → shown in Free Deals section)
 const topDeals = heroPosts
-	.filter(p => p.data.affiliate && !isExpired(p) && isRealDeal(p) && !isFreePrice(p.data.dealPrice))
+	.filter(p => p.data.affiliate && !isExpired(p) && isRealDeal(p) && !isFreePrice(p.data.dealPrice) && !isSamplePackDeal(p))
 	.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
 	.slice(0, 4);
 
@@ -90,7 +96,7 @@ const topIds = new Set(topDeals.map(p => p.id));
 
 // Recent Deals: 有料ディールのみ（isRealDeal + 非FREE）、Editor's Picks除外
 const recentDeals = heroPosts
-	.filter(p => !topIds.has(p.id) && !isExpired(p) && p.data.affiliate && isRealDeal(p) && !isFreePrice(p.data.dealPrice))
+	.filter(p => !topIds.has(p.id) && !isExpired(p) && p.data.affiliate && isRealDeal(p) && !isFreePrice(p.data.dealPrice) && !isSamplePackDeal(p))
 	.slice(0, 6);
 
 // Free Deals: confirmed free, non-expired, not shown above (recentDeals excluded too)
