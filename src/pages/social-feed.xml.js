@@ -49,6 +49,13 @@ export async function GET(context) {
 				description: xText,
 				link: `/posts/${post.id}/`,
 				pubDate: d.pubDate,
+				...(d.heroImage ? {
+					enclosure: {
+						url: new URL(d.heroImage, context.site).toString(),
+						length: 0,
+						type: d.heroImage.endsWith('.png') ? 'image/png' : 'image/jpeg',
+					},
+				} : {}),
 			};
 		}),
 	});
