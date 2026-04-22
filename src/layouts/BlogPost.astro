@@ -38,6 +38,32 @@ function getDealSource(url: string): string {
 	} catch { return ''; }
 }
 const dealSource = affiliate ? getDealSource(affiliate) : '';
+
+// Brand is only derivable when the affiliate URL is the manufacturer's own site
+const BRAND_DOMAINS: Record<string, string> = {
+	'waves.com': 'Waves',
+	'native-instruments.com': 'Native Instruments',
+	'arturia.com': 'Arturia',
+	'izotope.com': 'iZotope',
+	'fabfilter.com': 'FabFilter',
+	'soundtoys.com': 'Soundtoys',
+	'uaudio.com': 'Universal Audio',
+	'klevgrand.se': 'Klevgrand',
+	'audiothing.net': 'AudioThing',
+	'valhallaDSP.com': 'Valhalla DSP',
+	'ikmultimedia.com': 'IK Multimedia',
+	'toontrack.com': 'Toontrack',
+	'spectrasonics.net': 'Spectrasonics',
+};
+function getBrand(url: string): string | null {
+	if (!url) return null;
+	try {
+		const netloc = new URL(url).hostname.replace('www.', '').toLowerCase();
+		return BRAND_DOMAINS[netloc] ?? null;
+	} catch { return null; }
+}
+const dealBrand = affiliate ? getBrand(affiliate) : null;
+
 const resolvedImage = imageStr ? new URL(imageStr, Astro.site).href : undefined;
 const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
 
@@ -107,6 +133,7 @@ const productLD = (affiliate && dealPrice && !saleExpired && !_isFreePrice && _n
 	"@type": "Product",
 	"name": title,
 	"description": description,
+	...(dealBrand ? { "brand": { "@type": "Brand", "name": dealBrand } } : {}),
 	...(resolvedImage ? { "image": resolvedImage } : {}),
 	...(false ? {  // score は内部ランキング用のためAggregateRatingには使わない
 		"aggregateRating": {
