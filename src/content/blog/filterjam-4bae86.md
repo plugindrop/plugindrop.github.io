@@ -1,17 +1,17 @@
 ---
-title: "81% Off Filterjam"
-description: "Filterjam is down to **$15.00** (regularly ~~$79.00~~) at Plugin Boutique — that's 81% off and $64 back in your pocket. If creative filter effects are on..."
+title: "Filterjam — Free Filter Plugin by AudioThing"
+description: "Filterjam by AudioThing is now available for FREE on Plugin Boutique — a multi-band resonant filter for VST/AU/AAX."
 pubDate: "2026-04-22T05:48:24Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/19-Filter/3022-Filterjam?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=filterjam-4bae86"
 heroImage: "/images/filterjam-4bae86.jpg"
 score: 6.25
-dealPrice: "$15.00"
-originalPrice: "$79.00"
-xText: "81% off a brand new filter plugin feels like a glitch in the matrix. routing options sit in a mix like butter and the price? absolutely not normal for a fresh release."
+dealPrice: "FREE"
+originalPrice: ""
+xText: "free creative filter plugin from AudioThing. multi-band resonant filter, four filter types, modulation built in. plugin boutique, no cost."
 draft: false
 ---
-**TL;DR:** Filterjam is down to **$15.00** (regularly ~~$79.00~~) at Plugin Boutique — that's 81% off and $64 back in your pocket. If creative filter effects are on your radar, this is a rare deep discount worth acting on. [Grab the deal here.](https://www.pluginboutique.com/product/2-Effects/19-Filter/3022-Filterjam?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=filterjam-4bae86)
+**TL;DR:** Filterjam by AudioThing is **FREE** on Plugin Boutique — a multi-band resonant filter plugin for Mac and Windows (VST/AU/AAX). No catch, no trial period. [Download it free here.](https://www.pluginboutique.com/product/2-Effects/19-Filter/3022-Filterjam?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=filterjam-4bae86)
 
 ---
 
@@ -22,7 +22,7 @@ draft: false
 
 ## What Is Filterjam?
 
-Filterjam is a creative multi-filter effect plugin available through Plugin Boutique. It sits in the effects/filter category and is designed to add movement, texture, and character to audio signals through modulated filtering. Plugins in this space are go-to tools for electronic producers, sound designers, and anyone who wants to inject life into static loops, synths, or drum buses. At $15, it's priced as an impulse buy — but the $79 list price tells you it's not a toy.
+Filterjam is a creative multi-filter effect plugin by AudioThing, available for free through Plugin Boutique. It sits in the effects/filter category and is designed to add movement, texture, and character to audio signals through modulated filtering. Plugins in this space are go-to tools for electronic producers, sound designers, and anyone who wants to inject life into static loops, synths, or drum buses.
 
 ---
 
@@ -43,7 +43,7 @@ Based on the product listing category and available information:
 - **Electronic music producers** — filter effects are foundational to house, techno, and bass music sound design; a dedicated filter plugin adds precision to that workflow
 - **Sound designers** — multi-filter tools with modulation are staple gear for creating evolving, textural sound effects
 - **Beatmakers and loop producers** — a quick filter sweep can transform a static loop into something with energy and motion
-- **Budget-conscious plugin collectors** — at $15, the barrier to owning a dedicated creative filter is about as low as it gets without going freeware
+- **Any producer** — it's free, so there's no barrier to adding a dedicated creative filter to your toolkit
 
 ---
 
@@ -51,9 +51,9 @@ Based on the product listing category and available information:
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
-| ~~$79.00~~ | **$15.00** | $64.00 (81%) |
+| N/A | **FREE** | — |
 
-81% discounts on effects plugins are not common. Most filter plugins in this price tier see sales in the 30–50% range during seasonal events. A sub-$20 price point for a dedicated creative filter is closer to freeware territory — which makes this worth a look even if filters aren't your immediate priority.
+Filterjam is permanently free through Plugin Boutique. No time limit, no stripped-down trial version — just a log in and download. Verify current availability on the product page.
 
 > Verify current pricing on the product page — deals can change without notice.
 
@@ -69,7 +69,7 @@ Based on the product listing category and available information:
 | FabFilter Volcano 3 | ~$99 | Four filters with extensive modulation matrix; higher price point |
 | Xfer Records LFOTool | ~$40 | Primarily a volume/filter tremolo tool; less focused on multi-filter design |
 
-TAL-Filter-2 covers the basics for free if you only need simple filter automation. FabFilter Volcano 3 is the premium choice for deep modulation routing, but at $99 full price. Filterjam at $15 sits between free and premium — a practical middle ground for producers who want more than a basic filter without committing to flagship pricing.
+TAL-Filter-2 is another free option covering basic filter automation. FabFilter Volcano 3 is the premium choice for deep modulation routing at ~$99. Filterjam is free and sits comfortably in the middle ground for producers who want more than a basic filter without spending anything.
 
 ---
 
@@ -91,9 +91,9 @@ A: Platform compatibility details are listed on the product page — always veri
 
 ## Get the Deal
 
-$64 off a creative filter plugin is a deal that doesn't show up often — 81% discounts at Plugin Boutique are the exception, not the rule. At $15, the risk is low and the upside is a dedicated filter effect in your toolkit.
+A free dedicated creative filter plugin is always worth grabbing. No risk, no cost — just a useful tool in your library.
 
-[Grab Filterjam for $15 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/19-Filter/3022-Filterjam?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=filterjam-4bae86)
+[Download Filterjam free at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/19-Filter/3022-Filterjam?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=filterjam-4bae86)
 
 ---
 
