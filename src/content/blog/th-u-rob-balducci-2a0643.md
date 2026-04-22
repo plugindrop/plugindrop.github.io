@@ -1,16 +1,16 @@
 ---
-title: "th u rob balducci"
-description: "The TH-U Rob Balducci signature rig from Overloud is available for just $1 — putting a professionally captured artist guitar rig in your DAW for..."
+title: "TH-U Rob Balducci — Overloud Mid-Season Sale 50% Off"
+description: "The TH-U Rob Balducci signature rig from Overloud is on sale for €49 (reg. €99) — 50% off a professionally captured artist guitar rig for TH-U."
 pubDate: "2026-04-22T08:39:13Z"
 tags: ["vst-plugin", "music-production"]
 affiliate: "https://www.overloud.com/products/th-u-rob-balducci"
 heroImage: "/images/th-u-rob-balducci-2a0643.jpg"
 score: 3.35
-dealPrice: "$1"
-originalPrice: "$1"
+dealPrice: "€49"
+originalPrice: "€99"
 draft: false
 ---
-**TL;DR:** The TH-U Rob Balducci signature rig from Overloud is available for just $1 — putting a professionally captured artist guitar rig in your DAW for essentially nothing. If you produce rock or fusion-influenced tracks, [this is a no-brainer pickup at $1](https://www.overloud.com/products/th-u-rob-balducci).
+**TL;DR:** The TH-U Rob Balducci signature rig from Overloud is on sale for **€49** (reg. €99) as part of their mid-season sale — 50% off a professionally captured artist guitar rig for TH-U. If you produce rock or fusion-influenced tracks, [check it out at Overloud](https://www.overloud.com/products/th-u-rob-balducci).
 
 ---
 
@@ -36,8 +36,8 @@ Note: TH-U (the base plugin) is required to run this expansion. Check the produc
 
 - **Rock and Fusion Producers** — This rig is designed around the melodic, high-gain tones that define the rock/fusion genre Rob Balducci is known for
 - **Guitarists Tracking at Home** — Those building a DAW-based guitar rig who want a professionally sourced tone without expensive hardware
-- **TH-U Owners Expanding Their Library** — If you already own TH-U, adding a $1 artist signature rig is a low-risk way to diversify your available tones
-- **Budget-Conscious Beatmakers** — At $1, the barrier to entry is as low as it gets for a licensed, label-quality guitar tone source
+- **TH-U Owners Expanding Their Library** — If you already own TH-U, adding a signature rig at 50% off is a low-risk way to diversify your available tones
+- **Amp Sim Enthusiasts** — Those who want an authentic artist-captured rig rather than generic amp modeling
 
 ---
 
@@ -45,13 +45,13 @@ Note: TH-U (the base plugin) is required to run this expansion. Check the produc
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
-| ~~$1~~ | $1 | — |
+| ~~€99~~ | **€49** | €50 (50% off) |
 
-This expansion is priced at $1 directly through Overloud — making it one of the most accessible artist signature rig offerings in the amp sim market. There's no complex bundle math here; it's a flat $1 for a named artist rig.
+Part of Overloud's mid-season sale offering up to 60% off TH-U plug-ins and libraries. Additional options starting from €29.
 
 Verify current pricing on the product page — deals can change.
 
-[Pick up TH-U Rob Balducci for $1 at Overloud](https://www.overloud.com/products/th-u-rob-balducci)
+[Pick up TH-U Rob Balducci at Overloud](https://www.overloud.com/products/th-u-rob-balducci)
 
 ---
 
@@ -63,7 +63,7 @@ Verify current pricing on the product page — deals can change.
 | Line 6 Helix Native | Check site | Broad amp/effects modeling platform, not artist-signature focused |
 | Other Overloud TH-U Artist Rigs | Varies | Same platform, different artist tones — mix and match |
 
-If you want a standalone artist plugin that doesn't require a host platform, Neural DSP's Archetype series handles that workflow. If you already own TH-U and want to expand your tone palette with a specific artist's rig at minimal cost, this Rob Balducci expansion fits directly into that ecosystem without friction.
+If you want a standalone artist plugin that doesn't require a host platform, Neural DSP's Archetype series handles that workflow. If you already own TH-U and want to expand your tone palette with a specific artist's rig at 50% off, this Rob Balducci expansion fits directly into that ecosystem without friction.
 
 ---
 
@@ -85,7 +85,7 @@ A: Rob Balducci is a guitarist known for his work in the melodic rock and instru
 
 ## Get the Deal
 
-A signature artist guitar rig for $1 is about as low-friction as plugin shopping gets. [Grab the TH-U Rob Balducci expansion directly from Overloud](https://www.overloud.com/products/th-u-rob-balducci) and add it to your TH-U library today.
+[Grab the TH-U Rob Balducci expansion at Overloud](https://www.overloud.com/products/th-u-rob-balducci) for €49 during the mid-season sale and add it to your TH-U library.
 
 ---
 

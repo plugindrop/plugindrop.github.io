@@ -9,7 +9,7 @@ score: 3.40
 dealPrice: "$4.99"
 originalPrice: "$12.99"
 xText: "the sample workflow you've been missing just launched. spent 3 hours reorganizing my library yesterday and didn't hate it once"
-draft: false
+draft: true
 ---
 **TL;DR:** Audentity Records' *Hard Delta Techno* sample pack has dropped to **$4.99** (down from ~~$12.99~~) on Splice — that's more than 60% off a pack built for producers chasing industrial-edged, driving techno. If delta techno is in your wheelhouse, [grab it here before the price moves](https://splice.com/sounds/packs/audentity/hard-delta-techno/samples?utm_source=plugindrop&utm_medium=article&utm_campaign=samples-a465f8).
 

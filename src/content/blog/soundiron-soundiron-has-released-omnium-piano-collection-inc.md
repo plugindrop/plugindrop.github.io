@@ -1,17 +1,17 @@
 ---
 title: "Soundiron — Soundiron has released Omnium Piano Collection, including 16 virtual instruments for Kontakt Player. The intro is 20% off. Expiry: Unknown"
-description: "Soundiron just launched the **Omnium Piano Collection** — 16 virtual instruments for Kontakt Player — at an intro price of **$20** (20% off). This is a..."
+description: "Soundiron's Omnium Piano Collection — 16 virtual instruments for Kontakt Player — is on sale for $199 (reg. $249), an intro 20% off deal."
 pubDate: "2026-04-22T05:35:32Z"
 tags: ["soundiron", "bundle", "music-production"]
 affiliate: "https://soundiron.com/products/omnium-piano-collection"
 heroImage: "/images/soundiron-soundiron-has-released-omnium-piano-collection-inc.jpg"
 score: 7.08
-dealPrice: "$20"
-originalPrice: "$20"
+dealPrice: "$199"
+originalPrice: "$249"
 xText: "intro pricing on 16 kontakt pianos = stupid per-unit cost if you touch orchestral or cinematic work. that's the whole math on bundles."
 draft: false
 ---
-**TL;DR:** Soundiron just launched the **Omnium Piano Collection** — 16 virtual instruments for Kontakt Player — at an intro price of **$20** (20% off). This is a launch discount with no stated expiry, which means it can close without warning. [Grab it directly from Soundiron](https://soundiron.com/products/omnium-piano-collection) while the intro window is open.
+**TL;DR:** Soundiron's **Omnium Piano Collection** — 16 virtual instruments for Kontakt Player — is on sale for **$199** (reg. $249) as an intro 20% discount. No stated expiry, which means it can close without warning. [Grab it directly from Soundiron](https://soundiron.com/products/omnium-piano-collection) while the intro window is open.
 
 ---
 
@@ -22,7 +22,7 @@ draft: false
 
 ## What Is the Soundiron Omnium Piano Collection?
 
-The Omnium Piano Collection is a brand-new virtual instrument bundle from Soundiron, a San Francisco–based sample library developer with a long catalog of production-ready instruments. The collection brings together 16 virtual instruments designed to run inside Native Instruments' free Kontakt Player — no paid Kontakt license required. At a $20 intro price, it's positioned as a wide-ranging piano library at an unusually accessible price point.
+The Omnium Piano Collection is a brand-new virtual instrument bundle from Soundiron, a San Francisco–based sample library developer with a long catalog of production-ready instruments. The collection brings together 16 virtual instruments designed to run inside Native Instruments' free Kontakt Player — no paid Kontakt license required. At a $199 intro price, it's positioned as a wide-ranging piano library at a discounted entry point.
 
 ---
 
@@ -31,7 +31,7 @@ The Omnium Piano Collection is a brand-new virtual instrument bundle from Soundi
 - **16 Virtual Instruments:** A broad set of piano-type instruments in a single collection — check the product page for the full instrument breakdown.
 - **Kontakt Player Compatible:** Works with the free Kontakt Player, so no full Kontakt license is needed to run it.
 - **Soundiron Build Quality:** Soundiron is an established developer known for detailed, well-sampled instruments across acoustic, electronic, and experimental categories.
-- **Intro Pricing Active Now:** Currently 20% off the regular price as a launch discount — no hard end date announced, but intro deals from sample developers typically expire quietly.
+- **Intro Pricing Active Now:** Currently 20% off the regular price ($249 → $199) as a launch discount — no hard end date announced, but intro deals from sample developers typically expire quietly.
 
 ---
 
@@ -48,9 +48,9 @@ The Omnium Piano Collection is a brand-new virtual instrument bundle from Soundi
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
-| Check product page | **$20** (intro) | 20% off |
+| ~~$249~~ | **$199** | $50 (20% off) |
 
-The $20 intro price represents a 20% discount off the standard retail price. Since no hard expiry has been announced, there's no countdown clock to act on — but Soundiron intro deals don't typically run indefinitely. If you're on the fence, this is the kind of deal that's worth acting on sooner rather than later.
+The $199 intro price represents a 20% discount off the standard retail price of $249. Since no hard expiry has been announced, there's no countdown clock to act on — but Soundiron intro deals don't typically run indefinitely. If you're on the fence, this is the kind of deal that's worth acting on sooner rather than later.
 
 > **Note:** Verify current pricing on the product page — deals can change.
 
@@ -66,7 +66,7 @@ The $20 intro price represents a 20% discount off the standard retail price. Sin
 | Native Instruments Una Corda | Check NI site | Single intimate felt piano with deep NKS integration |
 | Keyscape (Spectrasonics) | Check Spectrasonics site | 500+ keyboard instruments, standalone plugin, significantly higher price |
 
-If you only need one free piano to get started, Spitfire LABS handles that at no cost. If you want breadth across multiple piano instruments at a budget price and already use Kontakt Player, the Omnium Piano Collection's 16-instrument scope is harder to match at $20.
+If you only need one free piano to get started, Spitfire LABS handles that at no cost. If you want breadth across multiple piano instruments at a budget price and already use Kontakt Player, the Omnium Piano Collection's 16-instrument scope is harder to match at $199.
 
 ---
 
@@ -88,7 +88,7 @@ A: Refer to Soundiron's licensing terms on the product page for activation limit
 
 ## Get the Deal
 
-Sixteen Kontakt Player instruments for $20 — that's the pitch, and it's a straightforward one. The 20% intro discount has no announced expiry, but intro pricing rarely sticks around forever.
+Sixteen Kontakt Player instruments for $199 (20% off $249) — that's the pitch, and it's a straightforward one. The 20% intro discount has no announced expiry, but intro pricing rarely sticks around forever.
 
 [Pick up the Omnium Piano Collection at Soundiron.com →](https://soundiron.com/products/omnium-piano-collection)
 
