@@ -20,7 +20,10 @@ const resolvedImage = new URL(image, Astro.site);
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-X5T5VNEGW5');
+  var _pdInternal = (function() {
+    try { return localStorage.getItem('pd_internal') === '1'; } catch(e) { return false; }
+  })();
+  gtag('config', 'G-X5T5VNEGW5', _pdInternal ? { traffic_type: 'internal' } : {});
 </script>
 
 <!-- Fonts -->
