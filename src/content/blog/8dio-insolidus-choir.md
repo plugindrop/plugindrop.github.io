@@ -4,7 +4,7 @@ description: "8Dio Insolidus Choir: 65-voice soft choir with polyphonic legato, 
 pubDate: "2026-04-23T00:00:00Z"
 tags: ["vst-plugin", "music-production", "kontakt", "choir"]
 affiliate: "https://8dio.com/products/insolidus-choir"
-heroImage: "/images/choirs-solo-vocals-102b4c.jpg"
+heroImage: "/images/8dio-insolidus-choir.jpg"
 score: 4.60
 xText: "8Dio Insolidus — polyphonic legato on a soft choir is something else. expressive choral writing without the big epic sound. part of pick-3 deal at $69"
 draft: false

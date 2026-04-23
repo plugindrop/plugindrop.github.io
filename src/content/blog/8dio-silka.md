@@ -4,7 +4,7 @@ description: "8Dio Silka: 65-voice soft choir with 63,500 samples, polyphonic le
 pubDate: "2026-04-23T00:00:00Z"
 tags: ["vst-plugin", "music-production", "kontakt", "choir"]
 affiliate: "https://8dio.com/products/silka"
-heroImage: "/images/choirs-solo-vocals-102b4c.jpg"
+heroImage: "/images/8dio-silka.jpg"
 score: 4.50
 xText: "8Dio Silka — emotional soft choir, 63k samples, phrase builder up to 64 chars. sits in a different register than Lacrimosa. part of pick-3 deal at $69"
 draft: false

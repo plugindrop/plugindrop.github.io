@@ -4,7 +4,7 @@ description: "8Dio Liberis: 45-piece Piedmont Children's Choir with true layered
 pubDate: "2026-04-23T00:00:00Z"
 tags: ["vst-plugin", "music-production", "kontakt", "choir"]
 affiliate: "https://8dio.com/products/liberis-childrens-choir"
-heroImage: "/images/choirs-solo-vocals-102b4c.jpg"
+heroImage: "/images/8dio-liberis-choir.jpg"
 score: 4.20
 xText: "8Dio Liberis — award-winning 45-piece children's choir, 3 soloists. specific texture you can't fake with adult voices. part of pick-3 deal at $69"
 draft: false

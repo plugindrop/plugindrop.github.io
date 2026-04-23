@@ -4,7 +4,7 @@ description: "8Dio Aetheria: 16-voice intimate choir with 5 velocity legatos, 26
 pubDate: "2026-04-23T00:00:00Z"
 tags: ["vst-plugin", "music-production", "kontakt", "choir"]
 affiliate: "https://8dio.com/products/aetheria"
-heroImage: "/images/choirs-solo-vocals-102b4c.jpg"
+heroImage: "/images/8dio-aetheria-choir.jpg"
 score: 4.40
 xText: "8Dio Aetheria — 16 singers, intimate ensemble, 5 velocity legatos. smaller scale than Lacrimosa but way more detailed. part of pick-3 deal at $69"
 draft: false
