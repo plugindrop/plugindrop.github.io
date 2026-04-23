@@ -7,6 +7,9 @@ affiliate: "https://8dio.com/products/lacrimosa-epic-choir"
 heroImage: "/images/8dio-lacrimosa-choir.jpg"
 score: 4.70
 xText: "8Dio Lacrimosa — 200 singers, true layered legato, multi-vowel. eligible for the pick-any-3 deal at $69 total. one of the better large-scale choir libs out there"
+dealPrice: "$23"
+originalPrice: "$149"
+discount: "Pick 3 for $69"
 draft: false
 ---
 **TL;DR:** Lacrimosa is 8Dio's flagship epic choir — 200 singers, true layered legato, and deep articulation control. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](/posts/choirs-solo-vocals-102b4c)**. [Buy on 8Dio →](https://8dio.com/products/lacrimosa-epic-choir)

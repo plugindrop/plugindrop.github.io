@@ -7,6 +7,9 @@ affiliate: "https://8dio.com/collections/choirs-solo-vocals"
 heroImage: "/images/choirs-solo-vocals-102b4c.jpg"
 score: 4.50
 xText: "8Dio running a pick-any-3-choirs deal at $69. lacrimosa insolidus aetheria silka requiem liberis — all eligible. serious value if you do cinematic stuff"
+dealPrice: "$69"
+originalPrice: "$297"
+discount: "Pick Any 3"
 draft: false
 ---
 **TL;DR:** 8Dio is running a limited-time deal — pick any 3 choir libraries from their full lineup for **$69 total**. Individual titles normally run $79–$149 each. [Browse the deal on 8Dio →](https://8dio.com/collections/choirs-solo-vocals)

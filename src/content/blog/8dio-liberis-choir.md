@@ -7,6 +7,9 @@ affiliate: "https://8dio.com/products/liberis-childrens-choir"
 heroImage: "/images/8dio-liberis-choir.jpg"
 score: 4.20
 xText: "8Dio Liberis — award-winning 45-piece children's choir, 3 soloists. specific texture you can't fake with adult voices. part of pick-3 deal at $69"
+dealPrice: "$23"
+originalPrice: "$79"
+discount: "Pick 3 for $69"
 draft: false
 ---
 **TL;DR:** Liberis is 8Dio's children's choir library — the award-winning 45-piece Piedmont Children's Choir, recorded in a church with three soloists included. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](/posts/choirs-solo-vocals-102b4c)**. [Buy on 8Dio →](https://8dio.com/products/liberis-childrens-choir)
