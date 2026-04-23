@@ -3,18 +3,18 @@ title: "choirs solo vocals"
 description: "8Dio's Choirs & Solo Vocals collection brings cinematic-grade choir and vocal instruments to your DAW — check current pricing and available deals directly..."
 pubDate: "2026-04-22T23:26:55Z"
 tags: ["vst-plugin", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/11270-Voxos-Epic-Choirs?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c"
+affiliate: "https://8dio.com/collections/choirs-solo-vocals"
 heroImage: "/images/choirs-solo-vocals-102b4c.jpg"
 score: 4.40
 xText: "choirs solo vocals released and it's handling vocal layering different from anything else i've seen. worth checking if vocals are your thing rn"
 draft: false
 ---
-**TL;DR:** 8Dio's Choirs & Solo Vocals collection brings cinematic-grade choir and vocal instruments to your DAW — check current pricing and available deals directly on the product page. Verify current pricing on the product page. Browse the full selection via [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/11270-Voxos-Epic-Choirs?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c).
+**TL;DR:** 8Dio's Choirs & Solo Vocals collection brings cinematic-grade choir and vocal instruments to your DAW — check current pricing and available deals directly on the product page. Browse the full selection via [8Dio](https://8dio.com/collections/choirs-solo-vocals).
 
 ---
 
-<div class="audio-embed">
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/8dioproductions/8dio-insolidus-choir-requiem-insolidus-by-robin-hall&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&visual=true"></iframe>
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/k7P9aN_ujgA" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -64,7 +64,7 @@ Pricing varies by individual title within the collection — 8Dio sells these li
 
 > **Note:** Verify current pricing on the product page — deals can change.
 
-[Check current prices and deals on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/11270-Voxos-Epic-Choirs?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c)
+[Check current prices and deals on 8Dio →](https://8dio.com/collections/choirs-solo-vocals)
 
 ---
 
@@ -92,7 +92,7 @@ A: 8Dio typically uses a serial number / license activation system rather than i
 A: Sample library licenses from 8Dio are generally royalty-free for commercial use, but confirm the exact license terms on the product page for the specific library you're purchasing.
 
 **Q: Where is the best place to buy 8Dio Choirs & Solo Vocals at a discount?**
-A: Plugin Boutique regularly lists 8Dio products and any active promotions. Check the current listings to see what's on sale.
+A: Check the official 8Dio website for current sales and bundle deals — they regularly run promotions on their choir and vocal libraries.
 
 ---
 
@@ -100,8 +100,8 @@ A: Plugin Boutique regularly lists 8Dio products and any active promotions. Chec
 
 The 8Dio Choirs & Solo Vocals collection covers a wide range of cinematic vocal instruments — from full SATB ensembles to expressive solo voices. Prices and available discounts shift, so check the current listings to catch the best rate.
 
-[Browse 8Dio Choirs & Solo Vocals on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/11270-Voxos-Epic-Choirs?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c)
+[Browse 8Dio Choirs & Solo Vocals →](https://8dio.com/collections/choirs-solo-vocals)
 
 ---
 
-*This post contains affiliate links. We may earn a small commission at no extra cost to you.*
+*Prices and availability are subject to change. Check the product page for current details.*
