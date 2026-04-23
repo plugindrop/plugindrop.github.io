@@ -3,18 +3,18 @@ title: "choirs solo vocals"
 description: "8Dio's Choirs & Solo Vocals collection brings cinematic-grade choir and vocal instruments to your DAW — check current pricing and available deals directly..."
 pubDate: "2026-04-22T23:26:55Z"
 tags: ["vst-plugin", "music-production"]
-affiliate: "https://www.pluginboutique.com/manufacturers/106-8Dio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/11270-Voxos-Epic-Choirs?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c"
 heroImage: "/images/choirs-solo-vocals-102b4c.jpg"
 score: 4.40
 xText: "choirs solo vocals released and it's handling vocal layering different from anything else i've seen. worth checking if vocals are your thing rn"
 draft: false
 ---
-**TL;DR:** 8Dio's Choirs & Solo Vocals collection brings cinematic-grade choir and vocal instruments to your DAW — check current pricing and available deals directly on the product page. Verify current pricing on the product page. Browse the full selection via [Plugin Boutique](https://www.pluginboutique.com/manufacturers/106-8Dio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c).
+**TL;DR:** 8Dio's Choirs & Solo Vocals collection brings cinematic-grade choir and vocal instruments to your DAW — check current pricing and available deals directly on the product page. Verify current pricing on the product page. Browse the full selection via [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/11270-Voxos-Epic-Choirs?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c).
 
 ---
 
 <div class="audio-embed">
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/[TRACK_ID]&auto_play=true&hide_related=true&show_comments=false&show_user=true&show_reposts=false&visual=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/8dioproductions/8dio-insolidus-choir-requiem-insolidus-by-robin-hall&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&visual=true"></iframe>
 </div>
 
 
@@ -64,7 +64,7 @@ Pricing varies by individual title within the collection — 8Dio sells these li
 
 > **Note:** Verify current pricing on the product page — deals can change.
 
-[Check current prices and deals on Plugin Boutique →](https://www.pluginboutique.com/manufacturers/106-8Dio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c)
+[Check current prices and deals on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/11270-Voxos-Epic-Choirs?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c)
 
 ---
 
@@ -100,7 +100,7 @@ A: Plugin Boutique regularly lists 8Dio products and any active promotions. Chec
 
 The 8Dio Choirs & Solo Vocals collection covers a wide range of cinematic vocal instruments — from full SATB ensembles to expressive solo voices. Prices and available discounts shift, so check the current listings to catch the best rate.
 
-[Browse 8Dio Choirs & Solo Vocals on Plugin Boutique →](https://www.pluginboutique.com/manufacturers/106-8Dio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c)
+[Browse 8Dio Choirs & Solo Vocals on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/11270-Voxos-Epic-Choirs?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c)
 
 ---
 
