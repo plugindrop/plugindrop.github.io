@@ -5,6 +5,7 @@ pubDate: "2026-04-22T06:12:55Z"
 tags: ["free", "freeaudioplugins", "golden screw studio", "music-production"]
 affiliate: "https://goldenscrewstudio.com/product-category/deals/"
 score: 3.22
+heroImage: "/images/golden-screw-studio-spend-14-get-1-free.jpg"
 dealPrice: "$999"
 originalPrice: "$2500"
 saleExpiry: "2026-05-02"

@@ -5,6 +5,8 @@ pubDate: "2026-04-22T07:57:24Z"
 tags: ["free", "vst-plugin", "music-production"]
 affiliate: "https://www.waves.com/free-plugins-buy-2-get-2-free-april-2026?utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugins-buy-2-get-2-free-april-2026-90473d"
 score: 5.60
+heroImage: "/images/free-plugins-buy-2-get-2-free-april-2026-90473d.jpg"
+discount: "Buy 2 Get 2 Free"
 xText: "$500 in free plugins just dropped, buy 2 get 2 free. not even a sale. go claim yours before stock dies."
 draft: false
 ---
