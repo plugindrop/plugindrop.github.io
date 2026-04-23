@@ -6,7 +6,8 @@ pubDate: '2026-04-17T15:41:52Z'
 tags: ["sale", "universal audio", "music-production", "bundle"]
 affiliate: https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15785-UAD-Musicians-Collection?utm_source=plugindrop&utm_medium=article&utm_campaign=uad-musicians-collection-bundle-of-10-plugins-on-sale-for-19&a_aid=69cb95abe1763
 heroImage: /images/uad-musicians-collection-bundle-of-10-plugins-on-sale-for-19.jpg
-dealPrice: "$199"
+dealPrice: "$141.9"
+originalPrice: "$328.9"
 draft: false
 score: 6.54
 ---

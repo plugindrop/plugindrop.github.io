@@ -6,7 +6,8 @@ pubDate: '2026-04-17T13:23:21Z'
 tags: ["sale", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/8-Compressor/15776-FG-116-Blue-Series-FET-Compressors?utm_source=plugindrop&utm_medium=article&utm_campaign=fg-116-blue-fet-compressors-5c150f&a_aid=69cb95abe1763
 heroImage: /images/fg-116-blue-fet-compressors-5c150f.jpg
-dealPrice: "$99.00"
+dealPrice: "$54.45"
+originalPrice: "$108.9"
 draft: false
 score: 3.57
 ---
