@@ -6,7 +6,7 @@ tags: ["guide", "vst", "effects", "review"]
 affiliate: ""
 evergreen: true
 heroImage: "/images/fabfilter-pro-q-3-review.jpg"
- 8.00
+score: 8.00
 xText: "New guide: FabFilter Pro-Q 3 Review: Is It Still the Best EQ Plugin in ..."
 draft: false
 ---

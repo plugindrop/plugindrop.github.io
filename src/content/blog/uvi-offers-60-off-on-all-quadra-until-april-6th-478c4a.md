@@ -4,7 +4,7 @@ description: UVI is running 60% off on every instrument in the Quadra series —
   drops from ~~$149~~ to just **$59** until April 6th. Four multi-instrument and...
 pubDate: '2026-04-03T09:43:31Z'
 tags: ["sale", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?search_query=store&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a"
+affiliate: "https://www.pluginboutique.com/search?search_query=uvi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a"
 heroImage: /images/uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a.webp
 dealPrice: "$59"
 originalPrice: "$149"
@@ -15,7 +15,7 @@ draft: false
 score: 6.58
 ---
 
-**TL;DR:** UVI is running 60% off on every instrument in the Quadra series — each drops from ~~$149~~ to just **$59** until April 6th. Four multi-instrument and sequence designers at under sixty bucks each is serious value. [Grab the deal here before it expires](https://www.pluginboutique.com/search?search_query=store&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a).
+**TL;DR:** UVI is running 60% off on every instrument in the Quadra series — each drops from ~~$149~~ to just **$59** until April 6th. Four multi-instrument and sequence designers at under sixty bucks each is serious value. [Grab the deal here before it expires](https://www.pluginboutique.com/search?search_query=uvi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a).
 
 ## What Is UVI Quadra?
 
@@ -58,7 +58,7 @@ The Quadra series has built a steady following among sound designers and compose
 
 If you pick up all four, that's ~~$596~~ **$236** total — a saving of $360. UVI runs periodic sales on the Quadra series, but 60% is among the steeper discounts they offer. This deal expires **April 6th, 2026**.
 
-Verify current pricing on the product page — deals can change. [Check availability and pricing here](https://www.pluginboutique.com/search?search_query=store&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a).
+Verify current pricing on the product page — deals can change. [Check availability and pricing here](https://www.pluginboutique.com/search?search_query=uvi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a).
 
 ## Alternatives at a Glance
 
@@ -86,7 +86,7 @@ A: Check UVI's official website for their current return and refund policy befor
 
 ## Get the Deal
 
-Four multi-instrument sequence designers at $59 each — that's 60% off across the entire Quadra lineup, saving you up to $360 if you grab all four. The sale closes April 6th. [Pick up the Quadra deal here](https://www.pluginboutique.com/search?search_query=store&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a).
+Four multi-instrument sequence designers at $59 each — that's 60% off across the entire Quadra lineup, saving you up to $360 if you grab all four. The sale closes April 6th. [Pick up the Quadra deal here](https://www.pluginboutique.com/search?search_query=uvi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a).
 
 ---
 
