@@ -15,10 +15,6 @@ score: 5.5
 ---
 **TL;DR:** Dexibell's T2L piano plugins are currently **65% off**, bringing each title down from its regular price to a fraction of the cost. If you've had your eye on these hybrid sampling-plus-modeling instruments, this is one of the steepest discounts Dexibell has offered. [Grab the deal here before it expires.](https://digitalstore.dexibell.com/en-gb/product/T2L-Electric-Piano)
 
-<div class="video-embed">
-<iframe src="https://www.youtube.com/embed/26C0rh3d5Q4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is Dexibell T2L?
 
 Dexibell is an Italian company known primarily for high-end digital pianos and stage keyboards. Their **T2L (True to Life)** technology is the same engine that powers their flagship hardware — a hybrid approach that blends 24-bit / 48 kHz sampling with real-time physical modeling. Rather than relying solely on recorded samples, the engine dynamically reconstructs micro-components like hammer noise, key release artifacts, sympathetic resonance, and cabinet resonance based on your actual playing input.
@@ -85,7 +81,6 @@ A: Both plugins feature unlimited polyphony and instant preset/model switching, 
 A 65% discount on Dexibell doesn't come around often. If you've been on the fence about adding a hybrid-modeled piano to your setup, now's the time to act.
 
 [Grab the Dexibell T2L deal here.](https://digitalstore.dexibell.com/en-gb/product/T2L-Electric-Piano)
-
 
 ---
 

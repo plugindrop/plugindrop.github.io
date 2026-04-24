@@ -15,10 +15,6 @@ draft: false
 
 ---
 
-<div class="video-embed">
-<iframe src="https://www.youtube.com/embed/CYUeB-AkG7U" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is SSL Guitarstrip?
 
 SSL Guitarstrip is a channel strip plugin developed by Solid State Logic — the British manufacturer behind some of the most iconic mixing consoles in recording history. Unlike general-purpose channel strips, this one is purpose-built for guitar processing, combining SSL's classic EQ and dynamics circuit designs in a signal chain optimized for guitar tracks. It's part of SSL's growing Native plugin lineup, designed to bring console-grade processing directly into your DAW without the six-figure hardware price tag.

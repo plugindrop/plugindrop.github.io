@@ -15,10 +15,6 @@ draft: false
 
 ---
 
-<div class="video-embed">
-<iframe src="https://www.youtube.com/embed/LH6MDRAQiD8" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## 2B Crushed: Free Saturation Plugin From 2B Played Music
 
 Free is free. When a paid plugin goes to $0 with a coupon, you grab it first and ask questions later.

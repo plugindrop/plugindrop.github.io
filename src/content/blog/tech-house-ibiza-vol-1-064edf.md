@@ -16,10 +16,6 @@ draft: false
 
 ---
 
-<div class="video-embed">
-<iframe src="https://www.youtube.com/embed/FkhhUTd1l6o" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is Tech House Ibiza Vol 1?
 
 Tech House Ibiza Vol 1 is a preset/sample pack available on ADSR Sounds, designed specifically for producers working in the tech house genre with an Ibiza-influenced sound palette. It targets the driving, hypnotic aesthetic that defines peak-hour club sets — think punchy basslines, looping grooves, and club-ready melodic elements. ADSR Sounds is a well-established marketplace for production tools, hosting packs from a wide range of sound designers. Check the product page for full format compatibility and DAW requirements.

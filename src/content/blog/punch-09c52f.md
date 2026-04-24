@@ -16,10 +16,6 @@ draft: false
 
 ---
 
-<div class="video-embed">
-<iframe src="https://www.youtube.com/embed/RSIN1O7O7F8" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is PUNCH?
 
 PUNCH is a transient shaper plugin available on Plugin Boutique, designed to give producers and mixing engineers precise control over the attack and sustain characteristics of percussive and dynamic audio sources. Transient shapers are go-to tools for making drums pop, tightening up room sound, or adding punch (literally) to a flat-sounding mix. At its regular price of $149, it sits in the premium tier of dedicated transient processors — making a $50 discount worth serious consideration.
