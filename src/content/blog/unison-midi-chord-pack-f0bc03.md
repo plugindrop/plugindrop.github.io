@@ -7,7 +7,7 @@ affiliate: "https://unison.audio/ref/jc374/product/unison-iced-out-collection-fo
 heroImage: "/images/unison-midi-chord-pack-f0bc03.jpg"
 score: 4.00
 xText: "unison dropped a midi chord pack that's genuinely useful. finding harmonic ideas i wouldn't write solo, but they don't feel forced. actually makes you a better writer instead of just speeding up the slog."
-draft: "true"
+draft: true
 ---
 
 > ⚠️ **この記事は内容確認中のため一時非公開です。**
