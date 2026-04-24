@@ -39,6 +39,8 @@ The encouraging reality is that free reverb in 2026 has never been better. Plugi
 
 ### Valhalla Supermassive — The Standard All Free Reverbs Are Judged Against
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/OZuKRaZK86k" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** ValhallaDSP
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -51,6 +53,8 @@ Supermassive offers 14 reverb and delay modes spanning tight early reflections, 
 ---
 
 ### TAL-Reverb-4 — Fast, Clean, and Consistently Musical
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/27tJgiDYcXQ" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** TAL Software
 - **Price:** Free
@@ -65,6 +69,8 @@ TAL-Reverb-4 is a plate-style algorithmic reverb that drops into a mix without f
 
 ### Dragonfly Reverb — Four Algorithms, One Download
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/USp0xBkoz2c" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Michael Willis (open source)
 - **Price:** Free
 - **Platforms:** Windows, macOS, Linux
@@ -77,6 +83,8 @@ Dragonfly ships as four distinct plugins: Room, Hall, Early Reflections, and Pla
 ---
 
 ### OrilRiver — Mix-Engineer Feature Set at Zero Cost
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/w5DS6Qo-93k" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Denis Tihanov
 - **Price:** Free
@@ -92,6 +100,8 @@ OrilRiver is one of the most underrated free reverbs available. Full early refle
 ## Best Free Convolution Reverb
 
 ### Convology XT — Acoustic Realism Through Impulse Responses
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/uHROIpbqUeQ" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Impulse Record
 - **Price:** Free
