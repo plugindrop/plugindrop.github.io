@@ -21,6 +21,12 @@ draft: false
 </div>
 
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://unisonsoundbanks.s3.us-west-1.amazonaws.com/Demos/Unison+Beatmaker+Blueprint+(Free+Teaser+Pack)/Unison+Beatmaker+Blueprint+(Free+Teaser+Pack)+Demo.mp3">
+</audio>
+</div>
+
 ## What Is Unison MIDI Box (Free Teaser)?
 
 Unison Audio is a music production resource company known for MIDI packs, sample libraries, and producer tools. MIDI Box is one of their MIDI-focused products — a collection of MIDI files and patterns designed to give producers ready-to-use musical building blocks. The free teaser version offers a curated selection from the full product, letting producers explore the content before committing to a paid upgrade. It's distributed directly through the Unison Audio platform.

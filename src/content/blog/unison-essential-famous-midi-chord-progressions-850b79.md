@@ -21,6 +21,12 @@ draft: false
 </div>
 
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://unisonsoundbanks.s3.us-west-1.amazonaws.com/Demos/Unison+Beatmaker+Blueprint+(Free+Teaser+Pack)/Unison+Beatmaker+Blueprint+(Free+Teaser+Pack)+Demo.mp3">
+</audio>
+</div>
+
 ## What Is Unison Essential Famous MIDI Chord Progressions?
 
 Unison Essential Famous MIDI Chord Progressions is a MIDI pack from Unison Audio — a brand known for music production tools aimed at beatmakers, songwriters, and producers working in modern genres. The pack delivers a curated collection of chord progressions modeled after the harmonic patterns found in well-known tracks, formatted as drag-and-drop MIDI files. It's designed to plug straight into your DAW and your existing virtual instruments without any additional software required.
