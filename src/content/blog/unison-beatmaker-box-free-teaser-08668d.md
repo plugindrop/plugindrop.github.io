@@ -19,14 +19,6 @@ draft: false
   <source src="https://unisonsoundbanks.s3.us-west-1.amazonaws.com/Demos/Unison+Beatmaker+Box+Free+Teaser+Pack+Full+Demo.mp3">
 </audio>
 </div>
-
-
-<div class="audio-embed">
-<audio controls style="width:100%">
-  <source src="https://unisonsoundbanks.s3.us-west-1.amazonaws.com/Demos/Unison+Beatmaker+Blueprint+(Free+Teaser+Pack)/Unison+Beatmaker+Blueprint+(Free+Teaser+Pack)+Demo.mp3">
-</audio>
-</div>
-
 ## What Is the Unison Beatmaker Box (Free Teaser)?
 
 Unison Audio is a production resource platform known for MIDI packs, sample libraries, and beat-making tools used by producers across hip-hop, trap, pop, and electronic genres. The Beatmaker Box Free Teaser is a curated entry-level bundle — a handpicked selection from their beat-making content designed to showcase what the full Beatmaker Box offers. It's free to claim, and it's aimed squarely at producers who want pro-quality raw material without spending a cent upfront.

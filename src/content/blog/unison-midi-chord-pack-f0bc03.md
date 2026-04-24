@@ -19,14 +19,6 @@ draft: false
   <source src="https://unisonsoundbanks.s3-us-west-1.amazonaws.com/Demos/Ice&#039;d+Out+Collection+Demo+Track.mp3">
 </audio>
 </div>
-
-
-<div class="audio-embed">
-<audio controls style="width:100%">
-  <source src="https://unisonsoundbanks.s3.us-west-1.amazonaws.com/Demos/Unison+Beatmaker+Blueprint+(Free+Teaser+Pack)/Unison+Beatmaker+Blueprint+(Free+Teaser+Pack)+Demo.mp3">
-</audio>
-</div>
-
 ## What Is the Unison MIDI Chord Pack?
 
 The Unison MIDI Chord Pack is a professionally curated collection of MIDI chord progressions from Unison Audio, a platform known for production tools aimed at beatmakers and songwriters. Rather than generating chords on the fly, it delivers drag-and-drop MIDI files you can load straight into any DAW. The goal is simple: skip the theory roadblock and get straight to building tracks.
