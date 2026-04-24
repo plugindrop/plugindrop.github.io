@@ -5,6 +5,7 @@ pubDate: "2026-05-11T22:06:41Z"
 tags: ["guide", "vst", "free", "daw specific", "ableton"]
 affiliate: ""
 evergreen: true
+heroImage: "/images/best-free-plugins-ableton.jpg"
 score: 8.00
 xText: "New guide: 12 Best Free VST Plugins for Ableton Live in 2026"
 draft: false

@@ -5,6 +5,7 @@ pubDate: "2026-04-26T07:06:41Z"
 tags: ["guide", "vst", "instruments", "alternatives", "synth"]
 affiliate: ""
 evergreen: true
+heroImage: "/images/serum-vs-vital-comparison.jpg"
 score: 8.00
 xText: "New guide: Serum vs Vital: Which Wavetable Synth Should You Buy in 2026..."
 draft: false

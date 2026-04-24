@@ -5,6 +5,7 @@ pubDate: "2026-05-04T15:06:41Z"
 tags: ["guide", "vst", "free", "effects", "compressor"]
 affiliate: ""
 evergreen: true
+heroImage: "/images/best-free-compressor-vst-plugins.jpg"
 score: 8.00
 originalPrice: "$29.99"
 xText: "New guide: 12 Best Free Compressor VST Plugins in 2026 (Every Style Cov..."

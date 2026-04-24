@@ -5,6 +5,7 @@ pubDate: "2026-05-10T21:06:41Z"
 tags: ["guide", "vst", "free", "daw specific", "fl studio"]
 affiliate: ""
 evergreen: true
+heroImage: "/images/best-free-plugins-fl-studio.jpg"
 score: 8.00
 xText: "New guide: 15 Best Free VST Plugins for FL Studio in 2026"
 draft: false

@@ -5,6 +5,7 @@ pubDate: "2026-05-08T19:06:41Z"
 tags: ["guide", "vst", "free", "starter kit", "beginner"]
 affiliate: ""
 evergreen: true
+heroImage: "/images/best-free-vst-plugins-beginners.jpg"
 score: 8.00
 xText: "New guide: 20 Best Free VST Plugins for Beginners in 2026 (Complete Sta..."
 draft: false

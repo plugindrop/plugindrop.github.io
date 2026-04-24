@@ -5,6 +5,7 @@ pubDate: "2026-04-23T16:26:10Z"
 tags: ["guide", "vst", "free", "effects", "reverb"]
 affiliate: ""
 evergreen: true
+heroImage: "/images/best-free-reverb-vst-plugins.jpg"
 score: 8.00
 xText: "New guide: 15 Best Free Reverb VST Plugins in 2026 (Tested by Producers..."
 draft: false

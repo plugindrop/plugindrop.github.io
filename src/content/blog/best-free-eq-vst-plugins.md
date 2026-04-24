@@ -5,6 +5,7 @@ pubDate: "2026-05-05T16:06:41Z"
 tags: ["guide", "vst", "free", "effects"]
 affiliate: ""
 evergreen: true
+heroImage: "/images/best-free-eq-vst-plugins.jpg"
 score: 8.00
 xText: "New guide: 10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering)"
 draft: false

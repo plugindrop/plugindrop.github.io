@@ -5,6 +5,7 @@ pubDate: "2026-04-28T09:06:41Z"
 tags: ["guide", "vst", "effects", "alternatives"]
 affiliate: ""
 evergreen: true
+heroImage: "/images/valhalla-room-vs-vintageverb.jpg"
 score: 8.00
 xText: "New guide: Valhalla Room vs VintageVerb: Which Reverb Is Right for You?"
 draft: false

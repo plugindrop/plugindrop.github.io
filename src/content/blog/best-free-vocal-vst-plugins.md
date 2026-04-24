@@ -5,6 +5,7 @@ pubDate: "2026-05-09T20:06:41Z"
 tags: ["guide", "vst", "free", "vocals"]
 affiliate: ""
 evergreen: true
+heroImage: "/images/best-free-vocal-vst-plugins.jpg"
 score: 8.00
 xText: "New guide: 12 Best Free Vocal VST Plugins in 2026 (Tuning, Compression,..."
 draft: false
