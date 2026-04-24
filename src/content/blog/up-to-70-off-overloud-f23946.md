@@ -14,6 +14,10 @@ score: 2.45
 ---
 **TL;DR:** Overloud is running up to 70% off across their plugin lineup, with the biggest savings on Gems bundles — the **Bundle of 3 Gems** drops from ~~€537~~ to **€159**, and the **Bundle of 5 Gems** goes from ~~€815~~ to **€249**. Individual Gem plugins start at ~~€139~~ **€69**. If you've had your eye on Overloud's analog-modeled processors or TH-U amp sims, this is a strong time to jump in. [Grab the deals on KVR Marketplace](https://www.overloud.com/).
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/w0ITw4Q9hOw" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## What Is Overloud?
 
 Overloud is an Italian audio software company known for high-fidelity analog hardware emulations and guitar amp modeling. Their product range spans two main lines: the **TH-U** series of guitar amp simulators and the **Gems** series of studio mixing/mastering plugins. The Gems lineup covers compressors, EQs, tape emulation, modulation, and delay — all modeled after classic analog studio hardware. The TH-U platform, meanwhile, combines amp modeling, cabinet simulation, and effects processing into a single guitar rig environment.

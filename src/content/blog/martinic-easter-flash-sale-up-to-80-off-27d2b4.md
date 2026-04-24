@@ -16,6 +16,10 @@ score: 2.66
 
 **TL;DR:** Martinic is running an Easter Flash Sale with discounts up to 80% off their vintage-modeled synths and effects. The AX Chorus drops to just $9.80, and the AX73 synth plus various preset collections are heavily discounted. Hunt for purple Easter eggs on the product pages to reveal your discount. [Grab the deals on KVR before they hatch away](https://www.martinic.com/en/products).
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/1dSe_vGZfMQ" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## What Is Martinic?
 
 Martinic is a developer specializing in high-fidelity emulations of vintage electronic instruments and effects. Their catalog focuses on meticulously modeled recreations of classic hardware — from 80s analog synths to Italian tape delays and 60s combo organs. Their flagship product, the AX73, is a detailed analog modeling recreation of the original Akai AX73 synthesizer, updated with modern features. All Martinic plugins are available in VST, VST3, Audio Units, AAX, and CLAP formats.

@@ -14,6 +14,10 @@ draft: false
 
 ---
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/onCq49J2Xo4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## What Is Smoke Mono?
 
 Smoke Mono is a free software synthesizer created by Mike Dean — the Grammy-winning producer and engineer behind landmark records with Kanye West, Travis Scott, and many others. The plugin reflects Dean's signature sonic aesthetic: dense, moody, and built for modern hip-hop and experimental production. It's a monophonic synth, meaning it plays one note at a time, which makes it particularly well-suited for basslines, leads, and focused melodic lines. For a free release, the pedigree alone makes it worth downloading.
