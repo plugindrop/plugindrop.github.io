@@ -3,7 +3,7 @@ title: "8Dio Insolidus Choir — Soft Lyrical Choir with Polyphonic Legato"
 description: "8Dio Insolidus Choir: 65-voice soft choir with polyphonic legato, syllable arcs, and a 64-phrase builder. On sale as part of the Pick 3 for $69 deal."
 pubDate: "2026-04-23T00:00:00Z"
 tags: ["vst-plugin", "music-production", "kontakt", "choir"]
-affiliate: "https://8dio.com/products/insolidus-choir"
+affiliate: "https://www.pluginboutique.com/search?search_query=insolidus+choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-insolidus-choir"
 heroImage: "/images/8dio-insolidus-choir.jpg"
 score: 4.60
 xText: "8Dio Insolidus — polyphonic legato on a soft choir is something else. expressive choral writing without the big epic sound. part of pick-3 deal at $69"
@@ -12,7 +12,7 @@ originalPrice: "$99"
 discount: "Pick 3 for $69"
 draft: false
 ---
-**TL;DR:** Insolidus is 8Dio's soft, lyrical choir with polyphonic legato — the first choir library to let you play advanced chord progressions with a single patch. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](/posts/choirs-solo-vocals-102b4c)**. [Buy on 8Dio →](https://8dio.com/products/insolidus-choir)
+**TL;DR:** Insolidus is 8Dio's soft, lyrical choir with polyphonic legato — the first choir library to let you play advanced chord progressions with a single patch. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](/posts/choirs-solo-vocals-102b4c)**. [Buy on 8Dio →](https://www.pluginboutique.com/search?search_query=insolidus+choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-insolidus-choir)
 
 ---
 
@@ -51,7 +51,7 @@ Insolidus is the right pick for composers who prioritize expressiveness and play
 
 Insolidus is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](/posts/choirs-solo-vocals-102b4c)** offer. Pair it with Lacrimosa for epic scale contrast, or Aetheria for an intimate double-choir texture.
 
-[→ See all eligible titles and grab the deal](https://8dio.com/collections/choirs-solo-vocals)
+[→ See all eligible titles and grab the deal](https://www.pluginboutique.com/search?search_query=insolidus+choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-insolidus-choir)
 
 ---
 
