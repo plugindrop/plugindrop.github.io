@@ -1,14 +1,12 @@
 ---
-title: "2B Played — Download 2B Crushed from 2B Played Music for FREE with coupon: CRUSH26. [FREE]"
+title: "2B Played — Download 2B Crushed from 2B Played Music for FREE with coupon: CRUSH26. "
 description: "2B Crushed by 2B Played Music normally sells for ~~$55~~, currently discounted to $24.75 — and with coupon **CRUSH26** at checkout, it drops to..."
 pubDate: "2026-04-23T12:45:47Z"
-tags: ["free", "2b played", "music-production"]
+tags: ["2b played", "music-production"]
 affiliate: "https://2bplayed.com/product/2b-crushed/"
 heroImage: "/images/2b-played-download-2b-crushed-from-2b-played-music-for-free-.jpg"
 score: 7.80
-dealPrice: "$24.75"
-originalPrice: "$55"
-discount: "55% OFF"
+dealPrice: "€39"
 saleExpiry: "2026-04-30"
 xText: "2B Crushed from 2B Played is free. code CRUSH26 = $0. grab this if you make music"
 draft: false

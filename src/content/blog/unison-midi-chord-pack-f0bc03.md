@@ -6,10 +6,12 @@ tags: ["unison", "sample-pack", "sample-pack-deal", "music-production"]
 affiliate: "https://unison.audio/ref/jc374/product/unison-iced-out-collection-for-serum-vol-1/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-chord-pack-f0bc03"
 heroImage: "/images/unison-midi-chord-pack-f0bc03.jpg"
 score: 4.00
-dealPrice: "$47"
 xText: "unison dropped a midi chord pack that's genuinely useful. finding harmonic ideas i wouldn't write solo, but they don't feel forced. actually makes you a better writer instead of just speeding up the slog."
-draft: false
+draft: "true"
 ---
+
+> ⚠️ **この記事は内容確認中のため一時非公開です。**
+> （アフィリエイトリンクが記事タイトルと異なる製品を指しています。修正後に再公開します）
 **TL;DR:** The Unison MIDI Chord Pack is live at Unison Audio for **$47** — a straightforward pickup if you want a ready-to-use chord library in your DAW. No original price listed, so [verify the current deal at Unison Audio](https://unison.audio/ref/jc374/product/unison-iced-out-collection-for-serum-vol-1/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-chord-pack-f0bc03) before it changes.
 
 ---
