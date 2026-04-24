@@ -5,7 +5,8 @@ pubDate: "2026-04-25T06:06:41Z"
 tags: ["guide", "vst", "instruments", "review"]
 affiliate: ""
 evergreen: true
-score: 8.00
+heroImage: "/images/serum-vst-review.jpg"
+ 8.00
 xText: "New guide: Xfer Serum Review 2026: Still the Best Wavetable Synth?"
 draft: false
 ---
