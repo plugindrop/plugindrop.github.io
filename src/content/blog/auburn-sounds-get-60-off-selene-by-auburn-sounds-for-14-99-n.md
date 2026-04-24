@@ -17,6 +17,10 @@ score: 3.6
 ---
 **TL;DR:** Selene by Auburn Sounds is 60% off right now — ~~$38.67~~ **$14.99** for the Full Edition of this versatile algorithmic reverb. The deal runs until April 16th, so there's a decent window to decide. [Grab Selene at 60% off here.](https://audioplugin.deals/product/selene-by-auburn-sounds/ref/21/)
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/YgNrQ3eXca4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## What Is Selene by Auburn Sounds?
 
 Selene is a versatile algorithmic reverb plugin from Auburn Sounds, a developer known for offering polished audio tools with generous free tiers. The Full Edition — which is what's on sale here — adds Shimmer with four distinct modes and 2x oversampling on top of an already feature-rich core engine. It runs on Windows, macOS, and Linux and supports VST, VST3, AAX, AU, LV2, FLP, and CLAP formats. No subscription, no phoning home, no update fees.
