@@ -8,6 +8,7 @@ heroImage: "/images/2b-played-download-2b-crushed-from-2b-played-music-for-free-
 score: 7.80
 dealPrice: "$24.75"
 originalPrice: "$55"
+discount: "55% OFF"
 saleExpiry: "2026-04-30"
 xText: "2B Crushed from 2B Played is free. code CRUSH26 = $0. grab this if you make music"
 draft: false

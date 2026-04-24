@@ -8,6 +8,7 @@ affiliate: https://www.uaudio.com/uad-plugins/special-processing/little-labs-voi
 heroImage: /images/universal-audio-releases-native-uad-voice-of-god-plug-in.webp
 dealPrice: "$49"
 originalPrice: "$99"
+discount: "51% OFF"
 saleExpiry: '2026-04-30'
 aiImage: true
 draft: false

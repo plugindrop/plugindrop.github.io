@@ -7,6 +7,7 @@ affiliate: "https://www.adsrsounds.com/product/presets/shamanstems-witch-house-h
 score: 7.92
 dealPrice: "$25"
 originalPrice: "$179.77"
+discount: "86% OFF"
 heroImage: "/images/shamanstems-witch-house-hip-hop-serum-presets-adsr-deal.jpg"
 
 ---

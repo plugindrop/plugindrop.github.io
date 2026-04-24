@@ -9,6 +9,7 @@ affiliate: https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751
 heroImage: /images/stagecraft-software-get-35-off-universal-plug-by-stagecraft-.webp
 dealPrice: "$45.50"
 originalPrice: "$70"
+discount: "35% OFF"
 saleExpiry: '2026-04-12'
 aiImage: true
 draft: false

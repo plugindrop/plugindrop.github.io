@@ -8,6 +8,7 @@ affiliate: https://www.uvi.net/store
 heroImage: /images/uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a.webp
 dealPrice: "$59"
 originalPrice: "$149"
+discount: "60% OFF"
 saleExpiry: '2026-04-06'
 aiImage: true
 draft: false

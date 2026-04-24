@@ -8,6 +8,7 @@ heroImage: "/images/empirical-labs-el8-distressor-compressor-ff4241.jpg"
 score: 8.80
 dealPrice: "$49.00"
 originalPrice: "$199.00"
+discount: "75% OFF"
 xText: "the distressor is down 75% and it's the cheapest i've seen it. this compressor doesn't discount and when it does, everyone knows. if you've been waiting, now's the time."
 draft: false
 ---

@@ -8,6 +8,7 @@ heroImage: "/images/total-guitar-max-bb6763.jpg"
 score: 8.45
 dealPrice: "$99.99"
 originalPrice: "$1,019.93"
+discount: "90% OFF"
 xText: "90% off total guitar max. serious guitar tone that sits in a mix right. lowest this has ever been — grab before it's gone."
 draft: false
 ---

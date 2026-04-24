@@ -8,6 +8,7 @@ affiliate: https://xterminatorapps.gumroad.com/l/abletonliveaaf/20APRIL
 heroImage: /images/xterminatorapps-offers-20-off-abletonliveaaf-until-april-30.webp
 dealPrice: "$40"
 originalPrice: "$50"
+discount: "20% OFF"
 saleExpiry: '2026-04-30'
 aiImage: true
 draft: false

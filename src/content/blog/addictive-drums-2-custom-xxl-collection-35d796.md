@@ -5,7 +5,7 @@ pubDate: "2026-04-23T18:27:32Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xxl-collection-35d796"
 heroImage: "/images/addictive-drums-2-custom-xxl-collection-35d796.jpg"
-score: 10.45
+score: 10.00
 dealPrice: "$329.40"
 originalPrice: "$549.00"
 discount: "40% OFF"

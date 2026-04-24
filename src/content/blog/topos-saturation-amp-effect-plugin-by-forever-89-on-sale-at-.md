@@ -8,6 +8,7 @@ affiliate: https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-
 heroImage: /images/topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-.jpg
 dealPrice: "$69"
 originalPrice: "$99"
+discount: "30% OFF"
 saleExpiry: '2026-04-15'
 draft: false
 score: 6.04

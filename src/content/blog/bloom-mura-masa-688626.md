@@ -8,6 +8,7 @@ heroImage: "/images/bloom-mura-masa-688626.jpg"
 score: 7.90
 dealPrice: "$39.00"
 originalPrice: "$59.00"
+discount: "34% OFF"
 xText: "mura masa's bloom dropped to 34% off — never seen it this low. this is the reverb that actually sits right in a mix. if you've been waiting for it, this is the moment."
 draft: false
 ---

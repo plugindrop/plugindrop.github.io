@@ -5,7 +5,7 @@ pubDate: "2026-04-23T18:27:30Z"
 tags: ["sale", "vst-plugin", "synth", "effects", "daw", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/23-DAW/16171-Cubase-Pro-15-Competitive-Crossgrade?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cubase-pro-15-competitive-crossgrade-045999"
 heroImage: "/images/cubase-pro-15-competitive-crossgrade-045999.jpg"
-score: 10.90
+score: 10.00
 dealPrice: "$251.99"
 originalPrice: "$359.99"
 discount: "30% OFF"

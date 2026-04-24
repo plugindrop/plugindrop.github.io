@@ -8,6 +8,7 @@ heroImage: "/images/th-u-rob-balducci-2a0643.jpg"
 score: 3.35
 dealPrice: "€49"
 originalPrice: "€99"
+discount: "51% OFF"
 draft: false
 ---
 **TL;DR:** The TH-U Rob Balducci signature rig from Overloud is on sale for **€49** (reg. €99) as part of their mid-season sale — 50% off a professionally captured artist guitar rig for TH-U. If you produce rock or fusion-influenced tracks, [check it out at Overloud](https://www.overloud.com/products/th-u-rob-balducci).

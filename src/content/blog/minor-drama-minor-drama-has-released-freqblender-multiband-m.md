@@ -7,6 +7,7 @@ affiliate: "https://minordrama.studio/plugins/freqblender/"
 score: 6.88
 dealPrice: "$29"
 originalPrice: "$49"
+discount: "41% OFF"
 heroImage: "/images/minor-drama-minor-drama-has-released-freqblender-multiband-m.png"
 
 ---

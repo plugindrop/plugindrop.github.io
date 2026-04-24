@@ -7,6 +7,7 @@ affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/91
 score: 7.74
 dealPrice: "$29.00"
 originalPrice: "$59.00"
+discount: "51% OFF"
 heroImage: "/images/infinite-multi-effect-plugin-by-toolroom-on-sale-for-29-usd.jpg"
 
 ---

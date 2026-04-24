@@ -8,6 +8,7 @@ affiliate: https://www.pluginboutique.com/product/2-Effects/17-Reverb/14865-Airs
 heroImage: /images/airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for.jpg
 dealPrice: "$59"
 originalPrice: "$79"
+discount: "25% OFF"
 saleExpiry: '2026-04-12'
 draft: false
 score: 4.99

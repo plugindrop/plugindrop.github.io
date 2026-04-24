@@ -8,6 +8,7 @@ score: 3.22
 heroImage: "/images/golden-screw-studio-spend-14-get-1-free.jpg"
 dealPrice: "$999"
 originalPrice: "$2500"
+discount: "60% OFF"
 saleExpiry: "2026-05-02"
 xText: "fourteen bucks for two golden screw studio packs. they usually run way higher per unit. this won't last — grab it."
 draft: false

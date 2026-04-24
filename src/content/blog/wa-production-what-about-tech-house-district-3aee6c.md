@@ -8,6 +8,7 @@ heroImage: "/images/wa-production-what-about-tech-house-district-3aee6c.jpg"
 score: 4.95
 dealPrice: "$11.96"
 originalPrice: "$29.9"
+discount: "60% OFF"
 xText: "the preset depth on WA's new tech house pack is architectural. like actual production-level sound design. 60% off on a new drop — never happens"
 draft: false
 ---

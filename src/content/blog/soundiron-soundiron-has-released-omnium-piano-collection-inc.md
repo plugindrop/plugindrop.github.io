@@ -8,6 +8,7 @@ heroImage: "/images/soundiron-soundiron-has-released-omnium-piano-collection-inc
 score: 7.08
 dealPrice: "$199"
 originalPrice: "$249"
+discount: "20% OFF"
 xText: "intro pricing on 16 kontakt pianos = stupid per-unit cost if you touch orchestral or cinematic work. that's the whole math on bundles."
 draft: false
 ---

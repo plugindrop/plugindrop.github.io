@@ -8,6 +8,7 @@ heroImage: "/images/bus-clipper-837a04.jpg"
 score: 7.55
 dealPrice: "$49.50"
 originalPrice: "$99.00"
+discount: "50% OFF"
 xText: "50% off bus clipper — lowest i've ever seen it drop. good bus clipper is the difference between 'sounds loud' and 'actually professional.' this sits in a mix like butter."
 draft: false
 ---

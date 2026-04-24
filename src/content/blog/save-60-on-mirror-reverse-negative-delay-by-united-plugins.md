@@ -7,6 +7,7 @@ affiliate: "https://www.pluginboutique.com/product/2-Effects/10-Delay/8658-Mirro
 score: 8.1
 dealPrice: "$28.00"
 originalPrice: "$69.00"
+discount: "59% OFF"
 heroImage: "/images/save-60-on-mirror-reverse-negative-delay-by-united-plugins.jpg"
 
 ---

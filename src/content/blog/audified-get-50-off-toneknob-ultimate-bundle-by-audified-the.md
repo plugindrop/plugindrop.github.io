@@ -8,6 +8,7 @@ affiliate: https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/
 heroImage: /images/audified-get-50-off-toneknob-ultimate-bundle-by-audified-the.webp
 dealPrice: "$34.50"
 originalPrice: "$69.00"
+discount: "50% OFF"
 saleExpiry: '2026-04-12'
 aiImage: true
 draft: false

@@ -8,6 +8,7 @@ affiliate: https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/170
 heroImage: /images/fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug.jpg
 dealPrice: "$29"
 originalPrice: "$69"
+discount: "58% OFF"
 saleExpiry: '2026-05-02'
 draft: false
 score: 5.04

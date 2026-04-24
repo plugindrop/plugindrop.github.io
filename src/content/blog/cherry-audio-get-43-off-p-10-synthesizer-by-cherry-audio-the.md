@@ -8,6 +8,7 @@ heroImage: "/images/cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the
 score: 5.83
 dealPrice: "$42.9"
 originalPrice: "~~$75.9~~"
+discount: "43% OFF"
 saleExpiry: "2026-04-30"
 draft: false
 ---

@@ -9,6 +9,7 @@ affiliate: https://audioplugin.deals/product/finnish-concert-kantele-by-precisio
 heroImage: /images/precisionsound-get-70-off-finnish-concert-kantele-by-precisi.webp
 dealPrice: "$21"
 originalPrice: "$69"
+discount: "70% OFF"
 saleExpiry: '2026-04-27'
 aiImage: true
 draft: false

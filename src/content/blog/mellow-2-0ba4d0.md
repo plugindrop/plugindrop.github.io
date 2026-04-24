@@ -12,10 +12,6 @@ discount: "76% OFF"
 xText: "mellow 2 just landed at 76% off. new releases barely ever discount like this. this is the window if you've been thinking about it."
 draft: false
 ---
-Here is the finished article:
-
----
-
 **TL;DR:** UJAM's Virtual Bassist MELLOW 2 is down to **$29** (~~$119~~) at Plugin Boutique — a 76% saving on an acoustic double bass instrument built for jazz, R&B, and singer-songwriter sessions. If you've been eyeing a realistic fingered bass without the recording booth, [grab it here while the deal is live](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mellow-2-0ba4d0).
 
 ---

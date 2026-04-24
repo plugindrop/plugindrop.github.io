@@ -8,6 +8,7 @@ heroImage: "/images/texture-lab-bundle-8897d9.jpg"
 score: 9.65
 dealPrice: "$90.00"
 originalPrice: "$227.00"
+discount: "60% OFF"
 xText: "texture lab at 60% off as a bundle is the deal where the math makes sense. per-plugin cost drops to nothing. this is the one"
 draft: false
 ---

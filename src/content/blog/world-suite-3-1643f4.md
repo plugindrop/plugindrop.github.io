@@ -8,6 +8,7 @@ heroImage: "/images/world-suite-3-1643f4.jpg"
 score: 8.95
 dealPrice: "$149.00"
 originalPrice: "$299.00"
+discount: "50% OFF"
 xText: "world suite 3 launched at 50% off. honestly caught me off guard. new plugin releases don't usually work like this. if you've been waiting, the timing just lined up."
 draft: false
 ---

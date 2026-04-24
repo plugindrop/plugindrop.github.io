@@ -8,6 +8,7 @@ heroImage: "/images/ssl-native-vocalstrip-2-b4fdef.jpg"
 score: 8.00
 dealPrice: "$19.99"
 originalPrice: "$99.00"
+discount: "80% OFF"
 xText: "vocalstrip 2 just dropped 80% off for the first week. honestly this is the best vocal isolation ssl's made. this price is the lowest you'll ever see it."
 draft: false
 ---

@@ -8,6 +8,7 @@ heroImage: "/images/pssst-instruments-get-46-off-for-shhh-1-2-bundle-for-kontakt
 score: 8.16
 dealPrice: "$128"
 originalPrice: "$238"
+discount: "46% OFF"
 saleExpiry: "2026-04-30"
 xText: "shhh 1+2 bundle at 46% off – the per-unit math is what gets me. rarely see pssst this discounted. if you're building ambience, this hits."
 draft: false

@@ -7,6 +7,7 @@ affiliate: "https://www.pluginboutique.com/product/1-Instruments/139-Drum-Synth/
 score: 9.39
 dealPrice: "$45.00"
 originalPrice: "$59.99"
+discount: "25% OFF"
 heroImage: "/images/save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him.jpg"
 
 ---

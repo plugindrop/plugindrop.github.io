@@ -5,7 +5,7 @@ pubDate: "2026-04-23T18:27:33Z"
 tags: ["sale", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/6343-Soundtoys-Effect-Rack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-effect-rack-f99acc"
 heroImage: "/images/soundtoys-effect-rack-f99acc.jpg"
-score: 10.30
+score: 10.00
 dealPrice: "$149.00"
 originalPrice: "$299.00"
 discount: "50% OFF"

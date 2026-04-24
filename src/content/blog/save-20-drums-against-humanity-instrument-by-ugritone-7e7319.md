@@ -8,6 +8,7 @@ affiliate: https://ugritone.com/products/drums-against-humanity
 heroImage: /images/save-20-drums-against-humanity-instrument-by-ugritone-7e7319.jpg
 dealPrice: "$79.20"
 originalPrice: "$99"
+discount: "20% OFF"
 saleExpiry: '2026-04-06'
 draft: false
 score: 3.69

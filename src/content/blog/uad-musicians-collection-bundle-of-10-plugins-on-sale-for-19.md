@@ -8,6 +8,7 @@ affiliate: https://www.pluginboutique.com/product/81-Bundles/97-Various-Category
 heroImage: /images/uad-musicians-collection-bundle-of-10-plugins-on-sale-for-19.jpg
 dealPrice: "$141.9"
 originalPrice: "$328.9"
+discount: "57% OFF"
 draft: false
 score: 6.54
 ---

@@ -7,6 +7,7 @@ affiliate: "https://www.adsrsounds.com/product/presets/essential-audio-media-eur
 score: 8.36
 dealPrice: "$16.65"
 originalPrice: "$23.79"
+discount: "30% OFF"
 heroImage: "/images/essential-audio-media-eurodance-90s-for-serum-presets-adsr-d.jpg"
 
 ---

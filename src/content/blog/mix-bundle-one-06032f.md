@@ -8,6 +8,7 @@ heroImage: "/images/mix-bundle-one-06032f.jpg"
 score: 7.55
 dealPrice: "$49.50"
 originalPrice: "$99.00"
+discount: "50% OFF"
 xText: "mix bundle one at 50% off is hitting prices you haven't seen since like 2021. per-plugin cost is basically nothing. if you've been waiting for the right bundle moment this is it."
 draft: false
 ---

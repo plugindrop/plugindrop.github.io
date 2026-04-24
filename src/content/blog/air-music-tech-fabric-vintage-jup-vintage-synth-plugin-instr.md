@@ -7,6 +7,7 @@ affiliate: "https://www.adsrsounds.com/product/software/air-music-tech-fabric-vi
 score: 5.64
 dealPrice: "$59"
 originalPrice: "$99"
+discount: "40% OFF"
 heroImage: "/images/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr.png"
 
 ---

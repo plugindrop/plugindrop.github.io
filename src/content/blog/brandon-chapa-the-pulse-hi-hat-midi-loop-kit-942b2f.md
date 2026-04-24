@@ -8,6 +8,7 @@ heroImage: "/images/brandon-chapa-the-pulse-hi-hat-midi-loop-kit-942b2f.jpg"
 score: 5.75
 dealPrice: "$24.99"
 originalPrice: "$59.99"
+discount: "58% OFF"
 xText: "58% off brandon chapa's new hihat loops. nobody's really talking about these yet but a good hihat kit does more for your pocket than you think"
 draft: false
 ---

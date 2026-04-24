@@ -9,6 +9,7 @@ affiliate: https://audioplugin.deals/product/selene-by-auburn-sounds/ref/21/
 heroImage: /images/auburn-sounds-get-60-off-selene-by-auburn-sounds-for-14-99-n.webp
 dealPrice: "$14.99"
 originalPrice: "$38.67"
+discount: "61% OFF"
 saleExpiry: '2026-04-16'
 aiImage: true
 draft: false

@@ -8,6 +8,7 @@ heroImage: "/images/triton-triton-extreme-9e9e88.jpg"
 score: 8.45
 dealPrice: "$149.00"
 originalPrice: "$249.00"
+discount: "40% OFF"
 xText: "40% off a brand new synth in the first week is wild. that never happens. usually full price til the hype dies then discount. they're doing this backwards which is somehow better"
 draft: false
 ---

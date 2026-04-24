@@ -8,6 +8,7 @@ heroImage: "/images/sample-logic-get-80-off-electro-city-by-sample-logic-for-59-
 score: 3.63
 dealPrice: "$59.99"
 originalPrice: "$299.99"
+discount: "80% OFF"
 saleExpiry: "2026-05-04"
 xText: "$60 for a $300 sample pack. sample logic never discounts this hard. if electro city was on your wish list this is legitimately it"
 draft: false

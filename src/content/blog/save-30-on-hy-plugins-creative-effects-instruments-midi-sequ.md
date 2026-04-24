@@ -7,6 +7,7 @@ affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7929-HY
 score: 9.05
 dealPrice: "$42.00"
 originalPrice: "$60.00"
+discount: "30% OFF"
 heroImage: "/images/save-30-on-hy-plugins-creative-effects-instruments-midi-sequ.jpg"
 
 ---

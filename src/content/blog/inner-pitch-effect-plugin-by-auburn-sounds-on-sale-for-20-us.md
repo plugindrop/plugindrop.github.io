@@ -8,6 +8,7 @@ affiliate: https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/119
 heroImage: /images/inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us.jpg
 dealPrice: "$20"
 originalPrice: "$29"
+discount: "31% OFF"
 saleExpiry: '2026-04-30'
 draft: false
 score: 4.08

@@ -8,6 +8,7 @@ heroImage: "/images/little-alterboy-586da2.jpg"
 score: 7.05
 dealPrice: "$49.00"
 originalPrice: "$99.00"
+discount: "51% OFF"
 xText: "little alterboy's brand new and it's 51% off. honestly don't remember it ever going this deep. if vocal harmonies make your mixes worse, that changes today."
 draft: false
 ---

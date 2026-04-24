@@ -8,6 +8,7 @@ affiliate: https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/134
 heroImage: /images/transit-2-transition-designer-plugin-by-baby-audio-on-sale-f.jpg
 dealPrice: "$79"
 originalPrice: "$129"
+discount: "39% OFF"
 saleExpiry: '2026-04-12'
 draft: false
 score: 5.88

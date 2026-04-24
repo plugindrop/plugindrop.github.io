@@ -8,6 +8,7 @@ affiliate: https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Mod
 heroImage: /images/softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq.jpg
 dealPrice: "$29"
 originalPrice: "$99"
+discount: "71% OFF"
 draft: false
 score: 6.71
 ---

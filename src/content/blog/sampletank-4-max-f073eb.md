@@ -8,6 +8,7 @@ heroImage: "/images/sampletank-4-max-f073eb.jpg"
 score: 8.35
 dealPrice: "$69.99"
 originalPrice: "$299.99"
+discount: "77% OFF"
 xText: "77% off SampleTank 4 MAX – seriously the lowest I've seen. complete sampler + library suite for your kit. it basically never hits this price, grab it"
 draft: false
 ---

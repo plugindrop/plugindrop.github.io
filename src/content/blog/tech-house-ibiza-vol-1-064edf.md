@@ -8,6 +8,7 @@ heroImage: "/images/tech-house-ibiza-vol-1-064edf.jpg"
 score: 5.35
 dealPrice: "$16"
 originalPrice: "$48"
+discount: "67% OFF"
 xText: "brand new tech house pack is 67% off already. doesn't usually happen this fast. if you've wanted deep ibiza sounds, now's the move"
 draft: false
 ---

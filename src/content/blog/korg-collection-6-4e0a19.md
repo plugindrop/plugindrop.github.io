@@ -5,9 +5,10 @@ pubDate: "2026-04-22T05:20:13Z"
 tags: ["sale", "bundle", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16094-KORG-Collection-6?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-4e0a19"
 heroImage: "/images/korg-collection-6-4e0a19.jpg"
-score: 10.10
+score: 10.00
 dealPrice: "$299.00"
 originalPrice: "$399.00"
+discount: "25% OFF"
 xText: "bundle per-unit pricing like this is the rarest thing you'll see. 25% off the korg collection makes the math actually work in your favor. if you've been eyeing these, this is the moment"
 draft: false
 ---

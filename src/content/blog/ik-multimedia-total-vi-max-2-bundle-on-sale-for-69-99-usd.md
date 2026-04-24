@@ -9,6 +9,7 @@ affiliate: https://www.pluginboutique.com/product/81-Bundles/97-Various-Category
 heroImage: /images/ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd.jpg
 dealPrice: "$76.99"
 originalPrice: "$1649.91"
+discount: "95% OFF"
 draft: false
 score: 5.02
 ---

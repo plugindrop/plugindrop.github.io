@@ -8,6 +8,7 @@ heroImage: "/images/street-talk-trap-sample-pack-709771.jpg"
 score: 6.25
 dealPrice: "$25"
 originalPrice: "$105.99"
+discount: "76% OFF"
 xText: "trap sample packs don't go this cheap. street talk hit 76% off and it's the lowest i've ever clocked — grab it before they realize what happened."
 draft: false
 ---

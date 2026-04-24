@@ -8,6 +8,7 @@ heroImage: "/images/cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou
 score: 5.06
 dealPrice: "$31.9"
 originalPrice: "~~$64.9~~"
+discount: "51% OFF"
 saleExpiry: "2026-04-30"
 draft: false
 ---

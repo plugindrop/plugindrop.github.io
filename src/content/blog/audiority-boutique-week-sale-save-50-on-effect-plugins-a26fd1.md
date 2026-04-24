@@ -7,6 +7,7 @@ affiliate: "https://www.pluginboutique.com/product/2-Effects/10-Delay/8565-Space
 score: 9.08
 dealPrice: "$34.50"
 originalPrice: "$69.00"
+discount: "50% OFF"
 heroImage: "/images/audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1.jpg"
 
 ---

@@ -11,6 +11,7 @@ heroImage: /images/filipe-leitao-get-66-off-epic-fury-bundle-by-filipe-leitao-f.
 aiImage: true
 dealPrice: "$9.99"
 originalPrice: "$29.00"
+discount: "66% OFF"
 saleExpiry: '2026-04-30'
 draft: false
 score: 5.4

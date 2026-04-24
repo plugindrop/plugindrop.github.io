@@ -8,6 +8,7 @@ heroImage: "/images/samples-a465f8.jpg"
 score: 3.40
 dealPrice: "$4.99"
 originalPrice: "$12.99"
+discount: "62% OFF"
 xText: "the sample workflow you've been missing just launched. spent 3 hours reorganizing my library yesterday and didn't hate it once"
 draft: true
 ---

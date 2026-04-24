@@ -10,6 +10,7 @@ affiliate: https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Prese
 heroImage: /images/the-tone-foundry-get-86-off-drum-bass-for-serum-2-bundle-by-.webp
 dealPrice: "$19"
 originalPrice: "$137"
+discount: "86% OFF"
 saleExpiry: '2026-05-04'
 aiImage: true
 draft: false

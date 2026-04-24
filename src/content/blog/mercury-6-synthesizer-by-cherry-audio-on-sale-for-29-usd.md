@@ -7,6 +7,7 @@ affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-M
 score: 9.0
 dealPrice: "$29.00"
 originalPrice: "$59.00"
+discount: "51% OFF"
 heroImage: "/images/mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd.jpg"
 
 ---

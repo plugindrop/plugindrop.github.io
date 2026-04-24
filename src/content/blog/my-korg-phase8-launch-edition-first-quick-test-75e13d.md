@@ -12,8 +12,6 @@ draft: false
 score: 3.99
 ---
 
----
-
 **TL;DR:** The Korg Phase8 Launch Edition is available at $1,149 — the same price as the standard version but bundled with three exclusive limited-edition percussive resonators you can't get separately. If you've been eyeing this one-of-a-kind acoustic synthesizer, the Launch Edition extras make now the time to pull the trigger. [Check availability here](https://www.sweetwater.com/store/detail/Phase8LE--korg-phase8-8-voice-acoustic-synthesizer-launch-edition).
 
 ## What Is the Korg Phase8?

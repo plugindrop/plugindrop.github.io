@@ -9,6 +9,7 @@ affiliate: https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-O
 heroImage: /images/smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o.webp
 dealPrice: "$79"
 originalPrice: "$129"
+discount: "39% OFF"
 saleExpiry: '2026-04-12'
 aiImage: true
 draft: false

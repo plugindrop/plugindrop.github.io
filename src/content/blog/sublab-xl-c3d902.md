@@ -8,6 +8,7 @@ heroImage: "/images/sublab-xl-c3d902.jpg"
 score: 8.03
 dealPrice: "$50.00"
 originalPrice: "$80.00"
+discount: "38% OFF"
 xText: "sublab xl drops at 38% off, and new plugins never get this discount this fast. if bass design is part of your workflow, this is the moment."
 draft: false
 ---

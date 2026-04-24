@@ -1,5 +1,5 @@
 ---
-title: "free plugins buy 2 get 2 free april 2026"
+title: "Free Plugins Buy 2 Get 2 Free April 2026"
 description: "Waves is running a Buy 2 Get 2 Free promotion in April 2026 — pick any four plugins from the eligible catalog and pay for just two. That's an effective..."
 pubDate: "2026-04-22T07:57:24Z"
 tags: ["free", "vst-plugin", "music-production"]

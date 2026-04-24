@@ -12,8 +12,6 @@ draft: false
 score: 1.41
 ---
 
----
-
 **TL;DR:** The Pisces MIDI Pack by Diverse KCox is **completely free** — ~~¥2,500~~ ¥0. Twelve Afrobeats, Dancehall, and R&B MIDI files organized by key and BPM, ready to drag and drop into any DAW. [Grab it here before it's gone.](https://www.diversekcox.com/products/pisces-midi-pack)
 
 ## What Is the Pisces MIDI Pack?

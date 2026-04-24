@@ -8,6 +8,7 @@ affiliate: https://www.bestservice.com/en/desert_winds.html
 heroImage: /images/best-service-desert-winds-33-off-until-2nd-april-2026-18ee42.jpg
 dealPrice: "$79"
 originalPrice: "$119"
+discount: "34% OFF"
 saleExpiry: '2026-04-02'
 draft: true
 ---

@@ -14,8 +14,6 @@ draft: false
 score: 2.66
 ---
 
----
-
 **TL;DR:** Martinic is running an Easter Flash Sale with discounts up to 80% off their vintage-modeled synths and effects. The AX Chorus drops to just $9.80, and the AX73 synth plus various preset collections are heavily discounted. Hunt for purple Easter eggs on the product pages to reveal your discount. [Grab the deals on KVR before they hatch away](https://www.martinic.com/en/products).
 
 ## What Is Martinic?

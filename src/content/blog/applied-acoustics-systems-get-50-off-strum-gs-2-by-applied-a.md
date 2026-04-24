@@ -8,6 +8,7 @@ affiliate: https://www.pluginboutique.com/product/1-Instruments/4-Synth/1446-Str
 heroImage: /images/applied-acoustics-systems-get-50-off-strum-gs-2-by-applied-a.jpg
 dealPrice: "$99"
 originalPrice: "$198"
+discount: "50% OFF"
 saleExpiry: '2026-04-20'
 draft: false
 score: 6.12

@@ -8,6 +8,7 @@ affiliate: https://www.thomann.de/intl/universal_audio_little_labs_voice_of_god.
 heroImage: /images/universal-audio-little-labs-voice-of-god-now-available-nativ.jpg
 dealPrice: "$49"
 originalPrice: "$99"
+discount: "51% OFF"
 draft: false
 score: 4.83
 ---

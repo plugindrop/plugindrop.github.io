@@ -8,6 +8,7 @@ affiliate: https://www.pluginboutique.com/product/2-Effects/8-Compressor/15776-F
 heroImage: /images/fg-116-blue-fet-compressors-5c150f.jpg
 dealPrice: "$54.45"
 originalPrice: "$108.9"
+discount: "50% OFF"
 draft: false
 score: 3.57
 ---

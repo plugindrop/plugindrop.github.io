@@ -9,6 +9,7 @@ heroImage: /images/dc-snares-bigkick-plugin-bundle-on-sale-for-45-usd-a47856.jpg
 saleExpiry: '2026-04-30'
 dealPrice: "$45"
 originalPrice: "$98"
+discount: "54% OFF"
 draft: false
 score: 5.57
 ---

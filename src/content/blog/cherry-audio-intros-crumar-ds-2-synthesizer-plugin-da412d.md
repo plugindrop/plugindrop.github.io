@@ -8,6 +8,7 @@ affiliate: https://cherryaudio.com/products/ds-2-synthesizer
 heroImage: /images/cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d.jpg
 dealPrice: "$59"
 originalPrice: "$119"
+discount: "50% OFF"
 saleExpiry: '2026-04-13'
 draft: false
 score: 4.27
