@@ -5,6 +5,7 @@ pubDate: "2026-04-30T11:06:41Z"
 tags: ["guide", "vst", "value"]
 affiliate: ""
 evergreen: true
+heroImage: "/images/best-vst-plugins-under-100-dollars.jpg"
 score: 8.00
 xText: "New guide: 12 Best VST Plugins Under $100 in 2026 (Pro-Level at Budget ..."
 draft: false

@@ -5,6 +5,7 @@ pubDate: "2026-05-07T18:06:41Z"
 tags: ["guide", "vst", "free", "effects"]
 affiliate: ""
 evergreen: true
+heroImage: "/images/best-free-delay-vst-plugins.jpg"
 score: 8.00
 xText: "New guide: 10 Best Free Delay VST Plugins in 2026 (Tape, Digital, Multi..."
 draft: false

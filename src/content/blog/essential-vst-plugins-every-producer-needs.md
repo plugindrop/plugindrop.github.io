@@ -5,6 +5,7 @@ pubDate: "2026-05-12T23:06:41Z"
 tags: ["guide", "vst", "starter kit"]
 affiliate: ""
 evergreen: true
+heroImage: "/images/essential-vst-plugins-every-producer-needs.jpg"
 score: 8.00
 xText: "New guide: 15 Essential VST Plugins Every Music Producer Needs in 2026"
 draft: false

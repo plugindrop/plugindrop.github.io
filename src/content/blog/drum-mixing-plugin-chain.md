@@ -5,6 +5,7 @@ pubDate: "2026-05-03T14:06:41Z"
 tags: ["guide", "vst", "drums", "workflow"]
 affiliate: ""
 evergreen: true
+heroImage: "/images/drum-mixing-plugin-chain.jpg"
 score: 8.00
 xText: "New guide: Complete Drum Mixing Plugin Chain: Best Tools for Punchy Dru..."
 draft: false

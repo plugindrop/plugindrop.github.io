@@ -5,6 +5,7 @@ pubDate: "2026-04-27T08:06:41Z"
 tags: ["guide", "vst", "effects", "alternatives"]
 affiliate: ""
 evergreen: true
+heroImage: "/images/fabfilter-pro-q-3-vs-izotope-neutron.jpg"
 score: 8.00
 xText: "New guide: FabFilter Pro-Q 3 vs iZotope Neutron 4: Which EQ Wins for Mi..."
 draft: false

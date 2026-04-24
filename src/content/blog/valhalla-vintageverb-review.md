@@ -5,6 +5,7 @@ pubDate: "2026-04-24T06:39:46Z"
 tags: ["guide", "vst", "effects", "review"]
 affiliate: ""
 evergreen: true
+heroImage: "/images/valhalla-vintageverb-review.jpg"
 score: 8.00
 xText: "New guide: Valhalla VintageVerb Review: The $50 Reverb That Beats Plugi..."
 draft: false
