@@ -10,6 +10,7 @@ score: 8.00
 xText: "New guide: Serum vs Vital: Which Wavetable Synth Should You Buy in 2026..."
 draft: false
 ---
+
 **TL;DR:** Vital is the smarter pick for most producers in 2026 — its free tier is genuinely powerful, and its spectral morphing modulation gives it an edge in sound design depth. Serum remains the industry-standard choice if you need flawless preset compatibility, professional-grade CPU efficiency, and the widest third-party patch ecosystem on the market.
 
 ---
@@ -173,6 +174,8 @@ Once you've outgrown the standard wavetable paradigm, these tools push synthesis
 [→ Get Phase Plant on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Phase%20Plant%20kilohearts&a_aid=69cb95abe1763)
 
 ### Serum (Full License) — Upgrade from the Splice subscription
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BOI0KO629TI" title="Serum (Full License) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
 - **Price:** ~$189 one-time

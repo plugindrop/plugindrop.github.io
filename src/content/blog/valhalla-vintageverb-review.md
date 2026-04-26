@@ -10,6 +10,7 @@ score: 8.00
 xText: "New guide: Valhalla VintageVerb Review: The $50 Reverb That Beats Plugi..."
 draft: false
 ---
+
 **TL;DR:** Valhalla VintageVerb delivers 18 hand-crafted reverb algorithms, three vintage color modes, and near-zero CPU overhead for $50. It outperforms plugins three to five times its price in almost every real-world test scenario. If you buy one reverb plugin in 2026, make it this one.
 
 <div class="video-embed">
@@ -122,6 +123,8 @@ The one workflow gripe worth noting is the absence of a built-in post-reverb EQ.
 VintageVerb is capable enough that most producers will never need anything else. But if you find yourself consistently reaching for sounds it can't quite nail, two other Valhalla plugins are worth the extra investment.
 
 ### Valhalla Room — The specialist for natural acoustic spaces
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ogaodQa-fb0" title="Valhalla Room — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="audio-embed"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="Valhalla Room — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1589803&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></div>
 

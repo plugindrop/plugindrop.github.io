@@ -10,6 +10,7 @@ score: 8.00
 xText: "New guide: 12 Best Free VST Plugins for Ableton Live in 2026"
 draft: false
 ---
+
 **TL;DR:** Vital is the best free VST plugin for Ableton Live in 2026 — a spectral wavetable synthesizer that rivals premium paid synths in sound design depth, all at zero cost. Pair it with Valhalla Supermassive for reverb and TDR Nova for dynamic EQ, and you have a studio-grade signal chain without spending a penny.
 
 <div class="video-embed">
@@ -64,6 +65,8 @@ Vital is a spectral warping wavetable synthesizer with a feature set that would 
 ---
 
 ### Surge XT — Open-Source Synthesis Powerhouse
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GpcyyBBQzzA" title="Surge XT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="audio-embed"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="Surge XT — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1803556615"></iframe></div>
 
@@ -180,6 +183,8 @@ Valhalla DSP is one of the most respected reverb brands in professional audio, a
 
 ### TAL-Chorus-LX — The Roland Juno Chorus, Free
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/tbM3E2Ov3zI" title="TAL-Chorus-LX — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** TAL Software
 - **Price:** Free
 - **Platforms:** Windows, macOS, Linux
@@ -198,6 +203,8 @@ TAL-Chorus-LX is a meticulous recreation of the BBD chorus circuit found in the 
 These two tools expand your sound library and drum programming workflow without touching your budget.
 
 ### LABS — Cinematic Sample Instruments by Spitfire Audio
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/-Sm714Dlci8" title="LABS — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** Free
@@ -235,6 +242,8 @@ Every professional session needs accurate visual feedback. These two tools give 
 
 ### SPAN — The Industry-Standard Free Spectrum Analyzer
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/zFkqzZxSv6A" title="SPAN — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Voxengo
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -249,6 +258,8 @@ SPAN is the spectrum analyzer that experienced mix engineers tend to leave runni
 ---
 
 ### Ozone Imager 2 — Professional Stereo Width Control
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/6sswOcOOc18" title="Ozone Imager 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** Free
@@ -292,6 +303,8 @@ Once you've maxed out what the free tier offers, these three commercial plugins 
 ---
 
 ### iZotope Neutron — AI-Assisted Channel Strip for Faster Mixing
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/uH-B1GVxg6I" title="iZotope Neutron — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** ~$249 standard

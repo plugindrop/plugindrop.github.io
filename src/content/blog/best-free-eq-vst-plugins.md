@@ -10,6 +10,7 @@ score: 8.00
 xText: "New guide: 10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering)"
 draft: false
 ---
+
 **TL;DR:** TDR Nova is the best free EQ VST plugin in 2026 — a dynamic parametric equalizer that genuinely competes with premium tools costing $100 or more. If you only download one plugin from this list, make it Nova. Everything else here fills the gaps: linear phase mastering, analog character, surgical mixing, and vintage Pultec coloring.
 
 <div class="video-embed">
@@ -64,6 +65,8 @@ TDR Nova is a parallel dynamic equalizer with four fully parametric bands, switc
 
 ### MEqualizer — MeldaProduction's free parametric powerhouse
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/OBA0Omugrfg" title="MEqualizer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** MeldaProduction
 - **Price:** Free (part of the MFreeFXBundle)
 - **Platforms:** Windows, macOS
@@ -78,6 +81,8 @@ MEqualizer ships as part of MeldaProduction's free plugin bundle and delivers a 
 ---
 
 ### Baxter EQ — Analog warmth on a zero-dollar budget
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/jX-X72uRfxQ" title="Baxter EQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Analog Obsession
 - **Price:** Free
@@ -94,6 +99,8 @@ Analog Obsession has earned a devoted following by releasing console-modeled plu
 
 ### Blue Cat's Triple EQ — Three bands, fast workflow, zero cost
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3Y5MMKoGFn8" title="Blue Cat's Triple EQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Blue Cat Audio
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -108,6 +115,8 @@ Blue Cat's Triple EQ is a 3-band semi-parametric equalizer built for speed. You 
 ---
 
 ### ReaEQ — Unlimited bands, unlimited flexibility
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3OoVnTO3AB4" title="ReaEQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Cockos
 - **Price:** Free (via ReaPlugs package)
@@ -126,6 +135,8 @@ ReaEQ ships with Reaper and is also available as a standalone free VST download 
 
 ### Voxengo Marvel GEQ — Linear phase graphic EQ that actually sounds professional
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/gZf46Iz8RMA" title="Voxengo Marvel GEQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Voxengo
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -141,6 +152,8 @@ Voxengo Marvel GEQ is a 16-band linear phase graphic equalizer with the kind of 
 
 ### LP10 — The dedicated linear phase mastering EQ
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/WiEjFdUfV_U" title="LP10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** LKJB
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -155,6 +168,8 @@ LP10 is purpose-built for mastering and high-precision processing. It uses linea
 ---
 
 ### TDR SlickEQ — Musical bus EQ from the team behind Nova
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/-z8v6hO9wBE" title="TDR SlickEQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Tokyo Dawn Labs
 - **Price:** Free (GE version available as paid upgrade)
@@ -173,6 +188,8 @@ From the same team behind TDR Nova, SlickEQ is designed specifically for mix bus
 
 ### Ignite Amps PTEq-X — Pultec passive EQ emulation at no cost
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/zjQGoSu2E-k" title="Ignite Amps PTEq-X — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Ignite Amps
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -187,6 +204,8 @@ The Pultec EQP-1A is one of the most imitated pieces of hardware in recording hi
 ---
 
 ### Voxengo Overtone GEQ — Harmonic graphic EQ for natural-sounding presence
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/NSiIPStuOWk" title="Voxengo Overtone GEQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Voxengo
 - **Price:** Free
@@ -219,6 +238,8 @@ Voxengo's Overtone GEQ takes a different approach to equalization by working wit
 
 ### Waves SSL E-Channel — Mix desk authenticity
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/b2IWMPae9I0" title="Waves SSL E-Channel — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Waves
 - **Price:** Check current pricing (Waves runs frequent sales)
 - **Why upgrade:** TDR SlickEQ and Baxter EQ gesture toward analog console character, but the SSL E-Channel is an official emulation of the SSL 4000 E series channel EQ — the specific piece of hardware that defined the sound of commercial music production through the 1980s and 1990s. If you need that precise console character, no free plugin gets as close.
@@ -228,6 +249,8 @@ Voxengo's Overtone GEQ takes a different approach to equalization by working wit
 ---
 
 ### iZotope Neutron — AI-assisted EQ for faster, smarter mixes
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/uH-B1GVxg6I" title="iZotope Neutron — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** Check current pricing (check Plugin Boutique for current deals)

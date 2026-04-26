@@ -10,6 +10,7 @@ score: 8.00
 xText: "New guide: 14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analo..."
 draft: false
 ---
+
 **TL;DR:** Vital is the best free synth VST plugin in 2026 — it delivers professional wavetable synthesis that competes with $200 instruments at zero cost. For FM, Dexed is the definitive free option. All 14 plugins below are genuinely free, DAW-ready, and worth installing today.
 
 
@@ -168,6 +169,8 @@ Tyrell N6 was released by u-he as a community project, and it carries the compan
 
 ### TAL-NoiseMaker — The easiest entry point into free synthesis
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ZoMsXVFoAno" title="TAL-NoiseMaker — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** TAL Software
 - **Price:** Free
 - **Platforms:** Windows, macOS, Linux
@@ -200,6 +203,8 @@ Synth1 is one of the most-downloaded free plugins in history, modeled loosely on
 ---
 
 ### Charlatan — No-nonsense analog for producers who want results fast
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/br2IFPdx7Fw" title="Charlatan — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** BlaukrautEngineering
 - **Price:** Free
@@ -251,6 +256,8 @@ Odin2 is the most feature-complete free synth on this list in terms of raw capab
 ---
 
 ### Pendulate — Chaos synthesis from the team behind Eventide
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/PicDwE1Rimk" title="Pendulate — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Newfangled Audio (Eventide)
 - **Price:** Free
