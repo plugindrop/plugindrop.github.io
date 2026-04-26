@@ -288,7 +288,7 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 
 ### Serum — The industry-standard wavetable synth
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Dxeti8Qw6Iw" title="SERUM 2 — Everything NEW in 9 minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum 2 by Xfer Records — No talking sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
 - **Price:** ~$189 (subscription options available via Splice)
