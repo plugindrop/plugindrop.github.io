@@ -10,6 +10,7 @@ score: 8.00
 xText: "New guide: The Complete Mastering Plugin Chain: 6 Plugins for a Pro Mas..."
 draft: false
 ---
+
 **TL;DR:** For a professional master in 2026, iZotope Ozone 11 is the single most powerful plugin in this chain — it handles EQ, dynamics, imaging, and limiting in one suite. Pair it with FabFilter Pro-Q 3 for surgical corrections, FabFilter Pro-L 2 for transparent brick-wall limiting, and keep SPAN plus Youlean on your meters at all times. Follow this six-step chain and your masters will translate everywhere.
 
 ---
@@ -47,6 +48,8 @@ Whether you're mastering your own productions or running a small mastering studi
 ### Step 1: Spectrum Analysis
 
 ### SPAN (Voxengo) — The always-on reference analyzer every mastering engineer needs
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/zFkqzZxSv6A" title="SPAN (Voxengo) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Voxengo
 - **Price:** Free
@@ -184,6 +187,8 @@ If you're currently running a stripped-back chain with free alternatives at any 
 
 ### iZotope Ozone 11 — The all-in-one suite that replaces five separate tools
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Sm66WGBAG_g" title="iZotope Ozone 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** iZotope
 - **Price:** $349 (Standard)
 - **Why upgrade:** Free mastering plugins and entry-level suites don't offer AI-assisted starting points, per-module spectral shaping, or a dedicated Stabilizer module for tonal consistency. Ozone 11 consolidates EQ, dynamics, imaging, excitation, and maximizing into a single, integrated environment — eliminating plugin chain complexity while raising the ceiling of what's achievable.
@@ -193,6 +198,8 @@ If you're currently running a stripped-back chain with free alternatives at any 
 ---
 
 ### FabFilter Pro-L 2 — The limiter that professionals trust for streaming delivery
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/V2EUVpasalU" title="FabFilter Pro-L 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $199

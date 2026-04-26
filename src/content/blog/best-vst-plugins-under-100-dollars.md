@@ -10,6 +10,7 @@ score: 8.00
 xText: "New guide: 12 Best VST Plugins Under $100 in 2026 (Pro-Level at Budget ..."
 draft: false
 ---
+
 **TL;DR:** FabFilter Pro-C 2 is the single best investment under $100 for mixing — eight compression styles in one plugin, used on professional sessions worldwide. Pair it with Valhalla VintageVerb at $50 and you have two career-defining tools for less than the cost of a single hardware unit.
 
 <div class="video-embed">
@@ -43,6 +44,8 @@ Each entry includes developer, current pricing, supported platforms and formats,
 ## Reverb Plugins
 
 ### Valhalla VintageVerb — The Gold Standard Under $100
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/EzPouHxa18s" title="Valhalla VintageVerb — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** ~$50
@@ -78,6 +81,8 @@ The EMT 140 defined the plate reverb sound of four decades of recorded music —
 
 ### Soundtoys Little Plate — One Slider, Zero Compromise
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/nOwGXIp2sb4" title="Soundtoys Little Plate — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Soundtoys
 - **Price:** ~$49
 - **Platforms:** Windows, macOS
@@ -94,6 +99,8 @@ Little Plate strips the EMT 140 concept to its essentials: six controls, one dec
 ## Delay Plugins
 
 ### D16 Group Repeater — Four Vintage Machines, One Plugin
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/LXk0g0n-XiY" title="D16 Group Repeater — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="audio-embed"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="D16 Group Repeater — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/264541044&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe></div>
 
@@ -112,6 +119,8 @@ Repeater models four hardware magnetic delay units, each with a distinct persona
 
 ### Native Instruments Replika — Five Delay Types, One Clean Interface
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/RfTtlyMmRWI" title="Native Instruments Replika — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Native Instruments
 - **Price:** ~$49
 - **Platforms:** Windows, macOS
@@ -126,6 +135,8 @@ Replika unifies Modern, Analog, Tape, Diffuse, and Vintage delay modes into a si
 ---
 
 ### Baby Audio Comeback Kid — Tape Delay With Genuine Personality
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/_tgWU_xXXCE" title="Baby Audio Comeback Kid — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Baby Audio
 - **Price:** ~$49
@@ -162,6 +173,8 @@ Eight distinct compression styles — Clean, Classic, Opto, Vocal, Mastering, Bu
 ---
 
 ### Waves CLA-76 — The 1176 Emulation That Built a Career
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/_Bdq_4Otu5U" title="Waves CLA-76 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves
 - **Price:** ~$29–$99 (Waves runs aggressive ongoing sales)
@@ -218,6 +231,8 @@ Decapitator models five hardware drive and saturation units across its A–E Sty
 
 ### Kilohearts Snap Heap — A Modular Effects Rack at the Lowest Possible Entry Price
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/0EMYT9rOIbo" title="Kilohearts Snap Heap — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Kilohearts
 - **Price:** ~$29
 - **Platforms:** Windows, macOS
@@ -234,6 +249,8 @@ Snap Heap is a modular effects rack with six plugin slots and a full internal mo
 ## Mastering
 
 ### iZotope Ozone Elements — AI-Assisted Mastering for Every Producer
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/er_8xZ5Sfio" title="iZotope Ozone Elements — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** ~$99
@@ -252,6 +269,8 @@ Ozone Elements brings iZotope's Master Assistant AI into a streamlined mastering
 
 ### Valhalla VintageVerb — Still the Most Unbeatable Value in Reverb
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/EzPouHxa18s" title="Valhalla VintageVerb — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Valhalla DSP
 - **Price:** ~$50
 - **Why upgrade:** Valhalla's free Supermassive is excellent for expansive ambient textures but lacks per-track mix precision. VintageVerb's 22 distinct algorithm modes, adjustable pre-delay, and Color shaping give you the control needed to place reverbs accurately in dense arrangements where every effect must occupy its own frequency pocket without overlap.
@@ -261,6 +280,8 @@ Ozone Elements brings iZotope's Master Assistant AI into a streamlined mastering
 ---
 
 ### FabFilter Pro-C 2 — The Benchmark Compressor Under $100
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/R1VetmWadbg" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $99
