@@ -165,7 +165,7 @@ Sometimes the best compression decision is the one you don't overthink. These pl
 
 ### DC1A — Two controls. Instant results. Never sounds wrong.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/O1Uy4MKtNBA" title="DC1A — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7mzHea4xgkI" title="DC1A — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Klanghelm
 - **Price:** Free

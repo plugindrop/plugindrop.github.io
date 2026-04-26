@@ -84,7 +84,7 @@ Graillon 2 is half vocal processor, half creative playground. The free version i
 
 ### Analog Obsession CHANNELSTRIP — Analog Color for Free
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/8JgeFaAhzTY" title="Analog Obsession CHANNELSTRIP — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ov3VmU9DvHA" title="Analog Obsession CHANNELSTRIP — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Analog Obsession
 - **Price:** Free
@@ -248,7 +248,7 @@ Multiply layers up to six independent voices with individually adjustable pitch,
 
 ### Chow Tape Model — Free Tape Saturation for Vocal Warmth
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dBu_h-CAfhI" title="Chow Tape Model — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/gwzL5wmbBik" title="Chow Tape Model — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Chow DSP
 - **Price:** Free (open source)

@@ -179,7 +179,7 @@ TDR Nova combines a four-band parametric EQ with per-band dynamic EQ capability,
 
 ### Voxengo SPAN — The industry-standard free spectrum analyzer
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Enj39FWxHJ4" title="Voxengo SPAN — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/iZrWMv02tlA" title="Voxengo SPAN — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Voxengo
 - **Price:** Free

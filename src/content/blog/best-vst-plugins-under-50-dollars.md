@@ -120,7 +120,7 @@ OTT is a recreation of Ableton's "Over The Top" multiband compression preset, an
 
 ### Analog Obsession BUSTERse — Free SSL bus compression that holds its own
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/x_WAe_z2eJs" title="Analog Obsession BUSTERse — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/_yIQzJbDuDw" title="Analog Obsession BUSTERse — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Analog Obsession
 - **Price:** Free
@@ -138,7 +138,7 @@ Analog Obsession has built an extraordinary reputation releasing analog hardware
 
 ### Klanghelm MJUC jr. — Free variable-mu tube compression with real character
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/jVX2tDf6-K8" title="Klanghelm MJUC jr. — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GDnYTJ4rDzM" title="Klanghelm MJUC jr. — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Klanghelm
 - **Price:** Free
