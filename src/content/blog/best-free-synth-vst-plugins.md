@@ -375,8 +375,8 @@ For most producers in 2026, **Vital** is the only free synth you need to start â
 
 ## Related Guides
 
-- [Complete Drum Mixing Plugin Chain: Best Tools for Punchy Drums (2026)](/blog/drum-mixing-plugin-chain/)
-- [Valhalla Room vs VintageVerb: Which Reverb Is Right for You?](/blog/valhalla-room-vs-vintageverb/)
-- [Valhalla VintageVerb Review: The $50 Reverb That Beats Plugins 10x Its Price](/blog/valhalla-vintageverb-review/)
-- [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/blog/best-free-compressor-vst-plugins/)
-- [10 Best Free Delay VST Plugins in 2026 (Tape, Digital, Multi-tap)](/blog/best-free-delay-vst-plugins/)
+- [Complete Drum Mixing Plugin Chain: Best Tools for Punchy Drums (2026)](/posts/drum-mixing-plugin-chain/)
+- [Valhalla Room vs VintageVerb: Which Reverb Is Right for You?](/posts/valhalla-room-vs-vintageverb/)
+- [Valhalla VintageVerb Review: The $50 Reverb That Beats Plugins 10x Its Price](/posts/valhalla-vintageverb-review/)
+- [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)
+- [10 Best Free Delay VST Plugins in 2026 (Tape, Digital, Multi-tap)](/posts/best-free-delay-vst-plugins/)

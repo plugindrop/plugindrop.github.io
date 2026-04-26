@@ -330,8 +330,8 @@ If you can only buy one plugin from this list, make it FabFilter Pro-C 2 — it 
 
 ## Related Guides
 
-- [20 Best Free VST Plugins for Beginners in 2026 (Complete Starter Kit)](/blog/best-free-vst-plugins-beginners/)
-- [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/blog/best-free-compressor-vst-plugins/)
-- [10 Best Free Delay VST Plugins in 2026 (Tape, Digital, Multi-tap)](/blog/best-free-delay-vst-plugins/)
-- [10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering)](/blog/best-free-eq-vst-plugins/)
-- [12 Best Free VST Plugins for Ableton Live in 2026](/blog/best-free-plugins-ableton/)
+- [20 Best Free VST Plugins for Beginners in 2026 (Complete Starter Kit)](/posts/best-free-vst-plugins-beginners/)
+- [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)
+- [10 Best Free Delay VST Plugins in 2026 (Tape, Digital, Multi-tap)](/posts/best-free-delay-vst-plugins/)
+- [10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering)](/posts/best-free-eq-vst-plugins/)
+- [12 Best Free VST Plugins for Ableton Live in 2026](/posts/best-free-plugins-ableton/)

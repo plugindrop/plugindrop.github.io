@@ -360,8 +360,8 @@ When professional work demands more, [FabFilter Pro-C 2 on Plugin Boutique](http
 
 ## Related Guides
 
-- [10 Best Free Delay VST Plugins in 2026 (Tape, Digital, Multi-tap)](/blog/best-free-delay-vst-plugins/)
-- [10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering)](/blog/best-free-eq-vst-plugins/)
-- [15 Best Free Reverb VST Plugins in 2026 (Tested by Producers)](/blog/best-free-reverb-vst-plugins/)
-- [12 Best Free VST Plugins for Ableton Live in 2026](/blog/best-free-plugins-ableton/)
-- [15 Best Free VST Plugins for FL Studio in 2026](/blog/best-free-plugins-fl-studio/)
+- [10 Best Free Delay VST Plugins in 2026 (Tape, Digital, Multi-tap)](/posts/best-free-delay-vst-plugins/)
+- [10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering)](/posts/best-free-eq-vst-plugins/)
+- [15 Best Free Reverb VST Plugins in 2026 (Tested by Producers)](/posts/best-free-reverb-vst-plugins/)
+- [12 Best Free VST Plugins for Ableton Live in 2026](/posts/best-free-plugins-ableton/)
+- [15 Best Free VST Plugins for FL Studio in 2026](/posts/best-free-plugins-fl-studio/)
