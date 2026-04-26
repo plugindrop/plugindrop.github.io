@@ -24,7 +24,7 @@ Drag-and-drop modulation routing, spectral warping, three oscillators with wavet
 [Full breakdown here](/posts/vital-free-wavetable-synth-download/)
 
 ### 2. Surge XT
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/8wdwrr4Nrk8" title="Surge XT — Free Synth No-Talking Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/kTvBgb4HGx0" title="SURGE XT — Full In-Depth Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 **Type: Hybrid | Best for: Deep sound design, versatile production**
 
 Open-source hybrid synth with 3 oscillators (classic, modern, wavetable, window, FM, string, twist, alias), 14 filter algorithms, extensive modulation, and built-in effects. Regular updates from an active community. Massive preset library included.
@@ -54,10 +54,14 @@ Modeled after the Nord Lead 2 Red. Two oscillators, FM modulation, ring modulati
 ### 6. ZynAddSubFX
 **Type: Additive/Subtractive/Pad | Best for: Pads, textures, experimental**
 
+<iframe width="100%" height="400" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem" src="https://www.youtube.com/embed/ewiWffRX3PY" title="How in the World do you Use ZynAddSubFX?!"></iframe>
+
 Three synthesis engines in one — Additive (ADsynth), Subtractive (SUBsynth), and Pad (PADsynth). Excels at lush pads and evolving textures. Built-in effects and a microtonal tuning system. Open-source with a long development history.
 
 ### 7. Tyrell N6
 **Type: Subtractive | Best for: Classic analog polysynth sounds**
+
+<iframe width="100%" height="400" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem" src="https://www.youtube.com/embed/aeV_8eBDrkI" title="Tyrell N6 Review & Presets Demo (Free VST Synth by u-he)"></iframe>
 
 Virtual analog synth by u-he (makers of Diva and Zebra). Two oscillators, sub-oscillator, ring modulation, built-in chorus and delay. Warm, analog-style sound from a respected developer. Simple interface with fast workflow.
 

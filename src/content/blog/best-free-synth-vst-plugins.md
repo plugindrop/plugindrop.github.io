@@ -12,10 +12,6 @@ draft: false
 ---
 **TL;DR:** Vital is the best free synth VST plugin in 2026 — it delivers professional wavetable synthesis that competes with $200 instruments at zero cost. For FM, Dexed is the definitive free option. All 14 plugins below are genuinely free, DAW-ready, and worth installing today.
 
-<div class="video-embed">
-<iframe src="https://www.youtube.com/embed/K9bhFJmvRa0" title="14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analog) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 
 ## Quick Picks at a Glance
 
@@ -61,7 +57,7 @@ Vital is the free synth benchmark of 2026. The wavetable engine supports spectra
 
 ### Surge XT — Open-source hybrid synthesis at a professional level
 
-<div class="audio-embed"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="Surge XT — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1803556615"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/kTvBgb4HGx0" title="SURGE XT — Full In-Depth Tutorial (Amazing FREE Synthesizer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Surge Synth Team (community-maintained)
 - **Price:** Free
@@ -110,13 +106,15 @@ ZynAddSubFX combines traditional subtractive synthesis with additive harmonic co
 
 [→ Download ZynAddSubFX Free](https://zynaddsubfx.sourceforge.io/)
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ewiWffRX3PY" title="How in the World do you Use ZynAddSubFX?!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ---
 
 ## Virtual Analog Synths
 
 ### OB-Xd — Oberheim's legendary filter, zero cost
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fEy9-2TpWL8" title="OB-Xd — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/jLwauTGsvYc" title="OB-Xd 3.0 — Best FREE Synth Plugin Just Got Better (DiscoDSP)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** DiscoDSP
 - **Price:** Free
@@ -146,6 +144,8 @@ Helm was Matthew Tytel's main instrument before Vital arrived, and it still earn
 [→ Download Helm Free](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763)
 [→ Download direct from tytel.org](https://tytel.org/helm/)
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/V7CXeh2WZQc" title="Helm Synth Review & Presets Demo (Free VST Plugin by Matt Tytel)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ---
 
 ### Tyrell N6 — u-he quality, completely free
@@ -161,6 +161,8 @@ Tyrell N6 was released by u-he as a community project, and it carries the compan
 
 [→ Download Tyrell N6 Free](https://www.pluginboutique.com/search?search_query=Tyrell%20N6&a_aid=69cb95abe1763)
 [→ Download direct from u-he.com](https://u-he.com/products/tyrelln6/)
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/aeV_8eBDrkI" title="Tyrell N6 Review & Presets Demo (Free VST Synth by u-he)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ---
 
@@ -278,9 +280,7 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 
 ### Serum — The industry-standard wavetable synth
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/TmvzdoEECe8" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/TmvzdoEECe8" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/C2TWnlbns9w" title="Serum 2 for Absolute Beginners — Complete Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
 - **Price:** ~$189 (subscription options available via Splice)
