@@ -280,6 +280,8 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 
 [→ Download Magical8bitPlug 2 Free](https://ymck.net/app/magical-8bit-plug-en/)
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/4FJWXR5uips" title="New 8-bit VST Tutorial! - Magical8bit 2 by YMCK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ---
 
 ## Worth Upgrading To (Paid Options)
