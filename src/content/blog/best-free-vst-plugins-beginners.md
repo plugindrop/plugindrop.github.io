@@ -123,7 +123,7 @@ TDR Nova is a parallel dynamic equalizer that also functions as a static EQ, mak
 
 ### Voxengo SPAN — See your mix clearly
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Enj39FWxHJ4" title="Voxengo SPAN — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/f-ObchkRN8g" title="Voxengo SPAN — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Voxengo
 - **Price:** Free
@@ -288,7 +288,7 @@ Chow Tape Model is a physical model of a reel-to-reel tape machine, adding the s
 
 ### Softube Saturation Knob — One knob, instant warmth
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/2rOEkCJZFBQ" title="Softube Saturation Knob — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/15b_e5BDXnc" title="Softube Saturation Knob — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Softube
 - **Price:** Free
@@ -324,7 +324,7 @@ MT Power Drum Kit 2 is a sampled acoustic drum kit with a built-in MIDI groove l
 
 ### LABS by Spitfire Audio — World-class sample instruments, free
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/wP5q6iGWXE0" title="LABS by Spitfire Audio — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/bTMsq3yZrZE" title="LABS by Spitfire Audio — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** Free
@@ -410,7 +410,7 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 
 ### FabFilter Total Bundle — The professional mixing suite
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/vfM6F7pRmog" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/TQY3EpR6Jfo" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** €899 (frequent sales)

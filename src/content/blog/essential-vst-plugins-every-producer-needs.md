@@ -214,7 +214,7 @@ Vital delivers spectral warping, full wavetable editing, and a modulation system
 
 ### Softube Saturation Knob — One knob, instant warmth
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/c70_kaOhGNo" title="Softube Saturation Knob — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/2rOEkCJZFBQ" title="Softube Saturation Knob — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Softube
 - **Price:** Free
@@ -286,7 +286,7 @@ Addictive Drums 2 ships with a complete acoustic drum kit and an intuitive mixer
 
 ### RC-20 Retro Color — The texture plugin that defined a generation of lo-fi
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/rnO8dEKVE8E" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/tba_KPAzDvk" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** XLN Audio
 - **Price:** $99
@@ -325,7 +325,7 @@ Ozone 11's Master Assistant analyzes your track and builds a starting mastering 
 
 ### FabFilter Total Bundle — Every FabFilter tool, at a significant discount
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/RAKKgLtcpdg" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/vfM6F7pRmog" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** Check Plugin Boutique for current bundle pricing

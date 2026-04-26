@@ -81,7 +81,7 @@ The EMT 140 defined the plate reverb sound of four decades of recorded music —
 
 ### Soundtoys Little Plate — One Slider, Zero Compromise
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/nOwGXIp2sb4" title="Soundtoys Little Plate — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/IjsoxfcVI3s" title="Soundtoys Little Plate — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** ~$49
