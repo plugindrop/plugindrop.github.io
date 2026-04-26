@@ -46,7 +46,7 @@ Faithful Yamaha DX7 emulation that loads original DX7 SysEx patches. Six operato
 Polyphonic synth with a visual signal flow. Two oscillators, sub-oscillator, noise generator, 2 LFOs, 2 envelopes, built-in delay and reverb. Clean interface that shows modulation routing in real time. Low CPU usage.
 
 ### 5. Synth1
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/zVytUOcr4N4" title="Synth1 — Free Synth Review & Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dV6l0HzCMjY" title="SYNTH 1 FREE VST PRESET SOUND DEMO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 **Type: Subtractive | Best for: Classic analog sounds, low CPU**
 
 Modeled after the Nord Lead 2 Red. Two oscillators, FM modulation, ring modulation, 4 filter types, built-in effects. Extremely light on CPU — runs on virtually any system. One of the most downloaded free synths ever with a massive online preset community (10,000+ free presets available).
