@@ -8,6 +8,7 @@ score: 4.00
 discount: "60% OFF"
 saleExpiry: "2026-05-07"
 xText: "absolute sleeper deal: tonelib bundles at 60% off. when you stack them all, the per-plugin cost is basically nothing. full effects chain cheaper than one reverb normally costs."
+heroImage: "/images/tonelib-tonelib-spring-sale-part-ii-get-up-to-60-off-all-ton.jpg"
 draft: false
 ---
 **TL;DR:** ToneLib is running Spring Sale Part II with up to 60% off their full lineup of guitar software — including individual plugins and bundles. If you've been eyeing their amp sim or effects tools, this is the time to act. Verify current pricing and grab the deal at [ToneLib's purchase page](https://tonelib.net/purchase.html).
