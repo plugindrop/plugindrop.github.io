@@ -23,9 +23,9 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Arturia Pigments 4 | ~$199 | All-in-one synthesis, any genre | Plugin Boutique |
+| Arturia Pigments 4 | ~$199 | All-in-one synthesis, any genre | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | Phase Plant | ~$199 | Modular-style deep sound design | [Official Site](https://kilohearts.com/products/phase_plant) |
-| Arturia V Collection 10 | ~$599 | Vintage instrument bundle | Plugin Boutique |
+| Arturia V Collection 10 | ~$599 | Vintage instrument bundle | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 
 ---
 
@@ -56,7 +56,7 @@ The wavetable engine handles the sonic territory that defines modern electronic 
 
 **Best for:** Modern electronic leads, evolving pads, cinematic textures.
 
-→ Get Arturia Pigments 4 on Plugin Boutique
+[→ Get Arturia Pigments 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
 
 ---
 
@@ -73,7 +73,7 @@ The virtual analog engine covers the bread-and-butter synthesis that powered dec
 
 **Best for:** Bass lines, classic synth leads, analog chord stabs.
 
-→ Get Arturia Pigments 4 on Plugin Boutique
+[→ Get Arturia Pigments 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
 
 ---
 
@@ -90,7 +90,7 @@ The additive engine is where Pigments genuinely separates itself from the pack. 
 
 **Best for:** Experimental textures, bell-like timbres, unique atmospheric elements that stand out in a mix.
 
-→ Get Arturia Pigments 4 on Plugin Boutique
+[→ Get Arturia Pigments 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
 
 ---
 
@@ -107,7 +107,7 @@ Granular synthesis slices any audio into microscopic grains and reassembles them
 
 **Best for:** Ambient production, cinematic scoring, experimental electronic music.
 
-→ Get Arturia Pigments 4 on Plugin Boutique
+[→ Get Arturia Pigments 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
 
 ---
 
@@ -124,7 +124,7 @@ The sample engine lets you load standard audio files and route them through Pigm
 
 **Best for:** Hybrid synthesis, layering sampled instruments with synthesized textures.
 
-→ Get Arturia Pigments 4 on Plugin Boutique
+[→ Get Arturia Pigments 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
 
 ---
 
@@ -182,7 +182,7 @@ On mid-range 2024 hardware, Pigments 4 runs efficiently with multiple instances 
 - **Price:** ~$599 (regularly on sale)
 - **Why upgrade:** V Collection 10 bundles Arturia's complete lineup of vintage instrument models — classic polysynths, electric pianos, organs, and more — in one package. Pigments handles forward-looking modern synthesis exceptionally well; V Collection handles historically accurate vintage emulations. Together, they cover the full spectrum of what Arturia software offers, and for producers who want authentic vintage character alongside Pigments' modern capabilities, V Collection is the most logical companion purchase.
 
-→ Get Arturia V Collection 10 on Plugin Boutique
+[→ Get Arturia V Collection 10 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
 
 ---
 
@@ -190,9 +190,9 @@ On mid-range 2024 hardware, Pigments 4 runs efficiently with multiple instances 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Arturia Pigments 4 | ~$199 | Multi-engine synth | 5 engines, visual modulation, full FX rack | Plugin Boutique |
+| Arturia Pigments 4 | ~$199 | Multi-engine synth | 5 engines, visual modulation, full FX rack | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | Phase Plant | ~$199 | Modular synth | True modular routing, Snapin FX ecosystem | [kilohearts.com](https://kilohearts.com/products/phase_plant) |
-| Arturia V Collection 10 | ~$599 | Vintage instrument bundle | 30+ vintage emulations, full Arturia ecosystem | Plugin Boutique |
+| Arturia V Collection 10 | ~$599 | Vintage instrument bundle | 30+ vintage emulations, full Arturia ecosystem | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 
 ---
 
@@ -239,7 +239,7 @@ Moderately, depending on the patch. Wavetable and virtual analog patches are eff
 
 Arturia Pigments 4 earns its reputation as the best all-in-one soft synth in 2026 — not because it dominates any single synthesis style, but because it handles every style competently, rewards deep learning, and produces polished results faster than almost any comparable instrument. The modulation system alone justifies the price for producers serious about sound design. Buy it, learn one engine at a time, and you'll stop opening six other plugins to find the sound in your head.
 
-→ Get Arturia Pigments 4 on Plugin Boutique
+[→ Get Arturia Pigments 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
 
 ---
 

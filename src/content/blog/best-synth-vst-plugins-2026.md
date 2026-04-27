@@ -23,7 +23,7 @@ draft: false
 | Vital | Free | Wavetable synthesis, all genres | [Free Download](https://vital.audio/) |
 | Serum | $189 | EDM, bass music, professional workflows | [Xfer Records](https://xferrecords.com/products/serum) |
 | Phase Plant | $99 | Modular sound design, maximum flexibility | [Kilohearts](https://kilohearts.com/products/phase_plant) |
-| Arturia Pigments 4 | $99 | Multi-engine exploration, visual patching | Plugin Boutique |
+| Arturia Pigments 4 | $99 | Multi-engine exploration, visual patching | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | u-he Hive 2 | $149 | Fast workflow, analog warmth | [u-he](https://u-he.com/products/hive/) |
 | Massive X | $149 | Complex modulation, NI ecosystem | [Native Instruments](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) |
 | Surge XT | Free | Open-source versatility, modulation depth | [Free Download](https://surge-synthesizer.github.io/) |
@@ -140,7 +140,7 @@ Pigments 4 runs four independent synthesis engines simultaneously — wavetable,
 
 **Best for:** Producers who want to combine synthesis types in one patch and learn modulation concepts through visual feedback.
 
-→ Get Arturia Pigments 4 on Plugin Boutique
+[→ Get Arturia Pigments 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
 
 ---
 
@@ -337,7 +337,7 @@ Omnisphere 2 is less a synthesizer and more a sound universe. It ships with over
 - **Price:** $599 (bundle)
 - **Why upgrade:** Pigments 4 is one instrument among 33+ in V Collection 10, which adds faithful emulations of the Minimoog, Prophet-5, Juno-106, CS-80, Buchla Music Easel, and dozens of other classics. If you buy Pigments and find yourself wanting authentic vintage keyboard sounds, V Collection 10 covers all of it at a price significantly more economical than purchasing individual emulations separately.
 
-→ Get Arturia V Collection 10 on Plugin Boutique
+[→ Get Arturia V Collection 10 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
 
 ---
 
@@ -351,7 +351,7 @@ Omnisphere 2 is less a synthesizer and more a sound universe. It ships with over
 | Helm | Free | Subtractive/FM | CPU-light, step sequencer included | [Get It](https://tytel.org/helm/) |
 | Dune 3 | $89 | Multi-engine | Dense unison, CPU efficient | [Get It](https://www.synapse-audio.com/dune.html) |
 | Phase Plant | $99 | Modular signal flow | Snapin ecosystem, free signal routing | [Get It](https://kilohearts.com/products/phase_plant) |
-| Arturia Pigments 4 | $99 | Multi-engine | 4 simultaneous engines, visual modulation | Get It |
+| Arturia Pigments 4 | $99 | Multi-engine | 4 simultaneous engines, visual modulation | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | u-he Hive 2 | $149 | Analog/wavetable | Fast workflow, u-he filter quality | [Get It](https://u-he.com/products/hive/) |
 | Massive X | $149 | Phase modulation/FM | Deep mod routing, NI integration | [Get It](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) |
 | u-he Zebra 2 | $149 | Wireless modular | Spectral/FM/wavetable, film-proven | [Get It](https://u-he.com/products/zebra2/) |
