@@ -25,8 +25,8 @@ draft: false
 |--------|-------|----------|--------|
 | Surge XT | Free | Cinematic pads, FM, deep modulation | [Free Download](https://surge-synthesizer.github.io/) |
 | Vital | Free | Wavetable, spectral morph, modern sound design | [Free Download](https://vital.audio/) |
-| Phase Plant Lite | Free | Modular synthesis exploration | [Plugin Boutique](https://kilohearts.com/products/phase_plant) |
-| ZynAddSubFX | Free | Additive/PADsynth orchestral textures | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=ZynAddSubFX&a_aid=69cb95abe1763) |
+| Phase Plant Lite | Free | Modular synthesis exploration | [Official Site](https://kilohearts.com/products/phase_plant) |
+| ZynAddSubFX | Free | Additive/PADsynth orchestral textures | [Official Site](https://zynaddsubfx.sourceforge.io/) |
 | Phase Plant | $99 | Full modular design, no generator cap | [Free Download](https://kilohearts.com/products/phase_plant) |
 | Arturia Pigments 4 | $99 | Premium multi-engine synthesis | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Pigments%204&a_aid=69cb95abe1763) |
 
@@ -105,7 +105,7 @@ Phase Plant Lite is an honest preview of a paid product. Kilohearts' commercial 
 
 **Best for:** Producers exploring modular-style synthesis and anyone evaluating Phase Plant as a long-term Omnisphere alternative.
 
-[→ Get Phase Plant Lite on Plugin Boutique](https://kilohearts.com/products/phase_plant)
+[→ Get Phase Plant Lite](https://kilohearts.com/products/phase_plant)
 
 ---
 
@@ -126,7 +126,7 @@ ZynAddSubFX does not offer granular audio manipulation, sample import, or a mode
 
 **Best for:** Composers and sound designers who need evolving harmonic textures and are willing to work with a more complex, older interface.
 
-[→ Get ZynAddSubFX on Plugin Boutique](https://www.pluginboutique.com/search?search_query=ZynAddSubFX&a_aid=69cb95abe1763)
+[→ Get ZynAddSubFX](https://zynaddsubfx.sourceforge.io/)
 
 ---
 

@@ -23,7 +23,7 @@ draft: false
 |--------|-------|----------|--------|
 | Vital | Free | Wavetable synthesis, direct Serum workflow replacement | [Free Download](https://vital.audio/) |
 | Surge XT | Free | Deep hybrid synthesis, advanced modulation | [Free Download](https://surge-synthesizer.github.io/) |
-| Phase Plant Lite | Free (Lite) | Modular workflows, Kilohearts ecosystem entry | [Plugin Boutique](https://kilohearts.com/products/phase_plant) |
+| Phase Plant Lite | Free (Lite) | Modular workflows, Kilohearts ecosystem entry | [Official Site](https://kilohearts.com/products/phase_plant) |
 | Helm | Free | Beginners, lightweight polyphonic synthesis | [Free Download](https://tytel.org/helm/) |
 | Phase Plant | Paid | Full modular synthesis, post-Lite upgrade | [Get Phase Plant](https://kilohearts.com/products/phase_plant) |
 | u-he Hive 2 | Paid | Fast professional workflow, u-he analog quality | [Get Hive 2](https://u-he.com/products/hive/) |
@@ -98,7 +98,7 @@ Phase Plant Lite does not map onto Serum's workflow. It is a fundamentally diffe
 
 **Best for:** Producers curious about modular synthesis workflows who want a free starting point before deciding on the full Phase Plant.
 
-[→ Get Phase Plant Lite on Plugin Boutique](https://kilohearts.com/products/phase_plant)
+[→ Get Phase Plant Lite](https://kilohearts.com/products/phase_plant)
 
 ---
 
@@ -167,7 +167,7 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 |--------|-------|------|------------|-----|
 | Vital | Free | Wavetable | Serum-adjacent workflow, all synthesis features unlocked free, active community | [Download Free](https://vital.audio/) |
 | Surge XT | Free | Hybrid (wavetable, VA, FM, string) | Deepest free synthesis engine available, open source, CLAP support | [Download Free](https://surge-synthesizer.github.io/) |
-| Phase Plant Lite | Free (Lite) | Modular | Kilohearts Snapin ecosystem, modular signal chain, upgradeable | [Plugin Boutique](https://xferrecords.com/products/serum) |
+| Phase Plant Lite | Free (Lite) | Modular | Kilohearts Snapin ecosystem, modular signal chain, upgradeable | [Official Site](https://xferrecords.com/products/serum) |
 | Helm | Free | Polyphonic VA | Lightweight, open source, beginner-appropriate interface | [Download Free](https://tytel.org/helm/) |
 | Phase Plant | Paid | Modular | Full module library, macro routing, Snapin integration, no restrictions | [Kilohearts](https://kilohearts.com/products/phase_plant) |
 | u-he Hive 2 | Paid | Hybrid VA/wavetable | Fast workflow design, u-he analog modeling, professional quality | [u-he](https://u-he.com/products/hive/) |

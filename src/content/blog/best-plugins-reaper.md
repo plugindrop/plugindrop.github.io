@@ -142,7 +142,7 @@ SPAN is Voxengo's free spectrum analyzer, and its consistent presence in mixing 
 
 **Best for:** Frequency-domain reference during mixing, low-end balance checks, mastering analysis
 
-[→ Search SPAN on Plugin Boutique](https://www.voxengo.com/product/span/)
+[→ Search SPAN](https://www.voxengo.com/product/span/)
 
 ---
 
@@ -314,7 +314,7 @@ FabFilter Pro-Q 3 is the EQ that r/mixthis, r/audioengineering, and KVR's mixing
 | Chow Tape Model | Free | Tape Saturation | Physical model, research-based hysteresis | — |
 | Melda MFreeFXBundle | Free | Multi-FX Bundle | 37 plugins across all processing categories | — |
 | FabFilter Pro-Q 3 | $179 | Parametric / Dynamic EQ | Per-band dynamic EQ, collision detection, linear phase | [Get It](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| FabFilter Total Bundle | $899 | Full Suite | 14 plugins, cohesive GUI, cross-plugin spectrum display | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
+| FabFilter Total Bundle | $899 | Full Suite | 14 plugins, cohesive GUI, cross-plugin spectrum display | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
 | Valhalla VintageVerb | $50 | Algorithmic Reverb | 18 vintage algorithms, tight rooms to large halls | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
 
 ---

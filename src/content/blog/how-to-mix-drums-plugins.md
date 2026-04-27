@@ -154,7 +154,7 @@ On acoustic drum kits, OTT in this role is less common; community discussion the
 - **Price:** Bundle pricing (varies)
 - **Why upgrade:** The SSL G-Master Buss Compressor handles drum bus compression, but the SSL 4000 Collection adds the channel strip EQ and dynamics that define the SSL 4000 console sound. This becomes relevant when you want the same harmonic character running per-channel on individual drum tracks as well as the bus — an approach Gearspace and KVR document as the "all-SSL drum chain."
 
-[→ Get Waves SSL 4000 Collection on Plugin Boutique](https://www.waves.com/plugins/ssl-e-channel)
+[→ Get Waves SSL 4000 Collection](https://www.waves.com/plugins/ssl-e-channel)
 
 ### FabFilter Total Bundle — The Complete FabFilter Processing Chain
 

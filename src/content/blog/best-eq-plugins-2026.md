@@ -26,7 +26,7 @@ draft: false
 | TDR Nova | Free | Dynamic EQ, surgical mixing | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Voxengo Marvel GEQ | Free | Linear phase graphic EQ | [Free Download](https://www.voxengo.com/product/marvelgeq/) |
 | MEqualizer | Free | Clean parametric EQ for any session | [Free Download](https://www.meldaproduction.com/MEqualizer) |
-| iZotope Neutron | from $199 | AI-assisted mixing, complex multi-track sessions | [Plugin Boutique](https://www.izotope.com/en/products/neutron.html) |
+| iZotope Neutron | from $199 | AI-assisted mixing, complex multi-track sessions | [Official Site](https://www.izotope.com/en/products/neutron.html) |
 | Waves SSL E-Channel | from $29 | Colored, characterful EQ on drums and buses | [Waves](https://www.waves.com/plugins/ssl-e-channel) |
 
 ## Introduction
@@ -131,7 +131,7 @@ The workflow is genuinely fast. Bands are created by clicking anywhere on the fr
 - **Price:** from $199
 - **Why upgrade:** Free EQs require you to identify frequency problems manually through listening and visual analysis. Neutron's Track Assistant analyzes the incoming signal and proposes an initial EQ curve based on the source type — reducing setup time on sessions with large track counts. Its Masking Meter identifies frequency conflicts between two tracks directly in the interface, similar in concept to Pro-Q 3's spectrum comparison, but embedded inside a full channel strip alongside compression and transient shaping tools.
 
-[→ Get iZotope Neutron on Plugin Boutique](https://www.izotope.com/en/products/neutron.html)
+[→ Get iZotope Neutron](https://www.izotope.com/en/products/neutron.html)
 
 ---
 
@@ -155,7 +155,7 @@ The workflow is genuinely fast. Bands are created by clicking anywhere on the fr
 | TDR Nova | Free | Dynamic EQ | Per-band dynamics, wideband compression, accurate spectrum analyzer | [Download](https://www.tokyodawn.net/tdr-nova/) |
 | Voxengo Marvel GEQ | Free | Graphic / Linear Phase | 16 bands, linear phase operation, transparent processing | [Download](https://www.voxengo.com/product/marvelgeq/) |
 | MEqualizer | Free | Parametric | Clean everyday EQ, part of the MFreeFXBundle | [Download](https://www.meldaproduction.com/MEqualizer) |
-| iZotope Neutron | from $199 | AI-Assisted / Channel Strip | Track Assistant, Masking Meter, integrated channel processing | [Plugin Boutique](https://www.waves.com/plugins/ssl-e-channel) |
+| iZotope Neutron | from $199 | AI-Assisted / Channel Strip | Track Assistant, Masking Meter, integrated channel processing | [Official Site](https://www.waves.com/plugins/ssl-e-channel) |
 | Waves SSL E-Channel | from $29 | Character / Console EQ | SSL 4000 E-Series model, musical shelves, analog character | [Get It](https://www.waves.com/plugins/ssl-e-channel) |
 
 ## How to Choose

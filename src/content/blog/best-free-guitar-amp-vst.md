@@ -22,13 +22,13 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| TSE Audio X50 v2.4 | Free | High-gain / Metal | [Free Download](https://www.pluginboutique.com/search?search_query=TSE%20Audio%20X50%20v2.4&a_aid=69cb95abe1763) |
+| TSE Audio X50 v2.4 | Free | High-gain / Metal | [Free Download](https://www.tseaudio.com/software/tseX50) |
 | Ignite Amps TPA-1 | Free | Clean / warm crunch | [Free Download](https://www.pluginboutique.com/search?search_query=Ignite%20Amps%20TPA-1&a_aid=69cb95abe1763) |
 | LePou Amp Sim Suite | Free | High-gain variety | [Free Download](https://www.pluginboutique.com/search?search_query=LePou%20Amp%20Sim%20Suite&a_aid=69cb95abe1763) |
 | Nick Crow Lab 7170 Lead | Free | Metal rhythm tracks | [Free Download](https://www.pluginboutique.com/search?search_query=Nick%20Crow%20Lab%207170%20Lead&a_aid=69cb95abe1763) |
 | Ignite Amps Emissary | Free | Extreme high-gain | [Free Download](https://www.pluginboutique.com/search?search_query=Ignite%20Amps%20Emissary&a_aid=69cb95abe1763) |
-| Guitar Rig 7 Player | Free | Full chain ecosystem | [Free Download](https://www.pluginboutique.com/search?search_query=Guitar%20Rig%207%20Player&a_aid=69cb95abe1763) |
-| ML Sound Lab AMPED Roots | Free | Modern metal, no IR setup | [Free Download](https://www.pluginboutique.com/search?search_query=ML%20Sound%20Lab%20AMPED%20Roots&a_aid=69cb95abe1763) |
+| Guitar Rig 7 Player | Free | Full chain ecosystem | [Free Download](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-7-player/) |
+| ML Sound Lab AMPED Roots | Free | Modern metal, no IR setup | [Free Download](https://ml-sound-lab.com/products/amped-roots) |
 
 ---
 
@@ -110,7 +110,7 @@ TSE Audio's X50 v2.4 is the most consistently recommended free amp sim in produc
 
 **Best for:** Anyone beginning with free amp simulation who wants a single, reliable starting point backed by community consensus.
 
-[→ Download TSE Audio X50 v2.4 Free](https://www.pluginboutique.com/search?search_query=TSE%20Audio%20X50%20v2.4&a_aid=69cb95abe1763)
+[→ Download TSE Audio X50 v2.4 Free](https://www.tseaudio.com/software/tseX50)
 
 ---
 
@@ -186,7 +186,7 @@ Guitar Rig 7 Player is the free tier of NI's Guitar Rig platform. Developer docu
 
 **Best for:** Producers who want a professional interface, complete signal chain control, and a clear upgrade path without switching platforms.
 
-[→ Download Guitar Rig 7 Player Free](https://www.pluginboutique.com/search?search_query=Guitar%20Rig%207%20Player&a_aid=69cb95abe1763)
+[→ Download Guitar Rig 7 Player Free](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-7-player/)
 
 ---
 
@@ -203,7 +203,7 @@ IK Multimedia's Amplitube Custom Shop model is genuinely different from a crippl
 
 **Best for:** Producers who want a professional-grade interface immediately with the option to add specific gear pieces over time.
 
-[→ Download Amplitube Custom Shop Free](https://www.pluginboutique.com/search?search_query=Amplitube%20Custom%20Shop&a_aid=69cb95abe1763)
+[→ Download Amplitube Custom Shop Free](https://www.ikmultimedia.com/products/amplitube5/)
 
 ---
 
@@ -220,7 +220,7 @@ ML Sound Lab's AMPED Roots was released as a free standalone amp sim and sits in
 
 **Best for:** Modern metal and djent producers who want a complete, zero-setup free solution that works out of the box.
 
-[→ Download ML Sound Lab AMPED Roots Free](https://www.pluginboutique.com/search?search_query=ML%20Sound%20Lab%20AMPED%20Roots&a_aid=69cb95abe1763)
+[→ Download ML Sound Lab AMPED Roots Free](https://ml-sound-lab.com/products/amped-roots)
 
 ---
 
@@ -234,7 +234,7 @@ ML Sound Lab's AMPED Roots was released as a free standalone amp sim and sits in
 - **Price:** $99–$149 per plugin
 - **Why upgrade:** Free options on this list require IR loaders, manual EQ work, and signal chain building to reach competitive results. Neural DSP Archetype plugins include artist-specific amp profiles, built-in cab simulation, effects chains, and presets that translate directly into a mix — compressing hours of tone-shaping into a single plugin with a documented professional output standard.
 
-[→ Get Neural DSP Archetype on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Neural%20DSP%20Archetype%20Series&a_aid=69cb95abe1763)
+[→ Get Neural DSP Archetype](https://neuraldsp.com/plugins)
 
 ---
 
@@ -246,7 +246,7 @@ ML Sound Lab's AMPED Roots was released as a free standalone amp sim and sits in
 - **Price:** $99–$199
 - **Why upgrade:** Bias Amp 2 offers amp architecture customization — tube type, transformer response, power amp section — that no free plugin provides. If you need to build amp characters from the component level rather than select from fixed models, Bias Amp 2 is the documented standard at its price point.
 
-[→ Get Bias Amp 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763)
+[→ Get Bias Amp 2](https://www.positivegrid.com/collections/bias-legacy-software)
 
 ---
 
@@ -254,18 +254,18 @@ ML Sound Lab's AMPED Roots was released as a free standalone amp sim and sits in
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| TSE Audio X50 v2.4 | Free | 5150 circuit emulation | Community standard, needs IR loader | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763) |
-| Nick Crow Lab 7170 Lead | Free | 5150-style preamp | KVR standard, needs IR loader | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763) |
-| LePou Amp Sim Suite | Free | Multi-amp library | LeGion, LeCto, HyBrit, PFlare | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763) |
-| Ignite Amps Emissary | Free | High-gain original design | Built-in gate and EQ, standalone | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763) |
-| Ignite Amps TPA-1 | Free | Tube preamp | Clean/crunch, flexible in chains | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763) |
-| Simulanalog Guitar Suite | Free | Classic Fender/Marshall/Vox | 32-bit only, vintage character | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763) |
-| Voxengo Boogex | Free | Convolution amp processor | Built-in IR loader included | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763) |
-| Guitar Rig 7 Player | Free | Full chain ecosystem | NI ecosystem, expandable | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763) |
-| Amplitube Custom Shop | Free | Full chain w/ store | Permanent free gear, AAX support | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763) |
-| ML Sound Lab AMPED Roots | Free | Profile-based modern metal | Built-in cab, no IR setup | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763) |
-| Neural DSP Archetype | $99–$149 | Artist amp profiles | Complete chain, mix-ready presets | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763) |
-| Bias Amp 2 | $99–$199 | Component-level modeling | Deep amp architecture control | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763) |
+| TSE Audio X50 v2.4 | Free | 5150 circuit emulation | Community standard, needs IR loader | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
+| Nick Crow Lab 7170 Lead | Free | 5150-style preamp | KVR standard, needs IR loader | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
+| LePou Amp Sim Suite | Free | Multi-amp library | LeGion, LeCto, HyBrit, PFlare | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
+| Ignite Amps Emissary | Free | High-gain original design | Built-in gate and EQ, standalone | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
+| Ignite Amps TPA-1 | Free | Tube preamp | Clean/crunch, flexible in chains | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
+| Simulanalog Guitar Suite | Free | Classic Fender/Marshall/Vox | 32-bit only, vintage character | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
+| Voxengo Boogex | Free | Convolution amp processor | Built-in IR loader included | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
+| Guitar Rig 7 Player | Free | Full chain ecosystem | NI ecosystem, expandable | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
+| Amplitube Custom Shop | Free | Full chain w/ store | Permanent free gear, AAX support | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
+| ML Sound Lab AMPED Roots | Free | Profile-based modern metal | Built-in cab, no IR setup | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
+| Neural DSP Archetype | $99–$149 | Artist amp profiles | Complete chain, mix-ready presets | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
+| Bias Amp 2 | $99–$199 | Component-level modeling | Deep amp architecture control | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
 
 ---
 
@@ -309,7 +309,7 @@ Circuit modeling (used by TSE, Nick Crow, LePou) attempts to emulate the electro
 
 TSE Audio X50 v2.4 is the most defensible starting point in the free guitar amp sim category — the community has tested it across more genres, DAWs, and signal chain configurations than any other option on this list, and the consensus has held for years. Start there, pair it with a free IR loader and quality cabinet IRs, and you have a foundation that scales. When the workflow starts costing you more time than money, Neural DSP Archetype is the documented next step up.
 
-[→ Explore Guitar Amp Sims on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763)
+[→ Explore Guitar Amp Sims](https://www.positivegrid.com/collections/bias-legacy-software)
 
 ---
 

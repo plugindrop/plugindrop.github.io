@@ -227,8 +227,8 @@ Its value in 2026 is as a utility and educational resource: quick three-band glu
 |--------|-------|------|------------|-----|
 | TDR Nova | Free | Dynamic EQ / Multiband | Linear phase mode, M/S processing, 4 dynamic bands + shelves | [Download](https://www.tokyodawn.net/tdr-nova/) |
 | OTT | Free | Multiband Up/Down Comp | 3-band, upward + downward comp, signature EDM tone | [Download](https://xferrecords.com/freeware/) |
-| MMultiband | Free | Multiband Compressor | Up to 6 bands, full modulation engine, A/B comparison | [Plugin Boutique](https://www.izotope.com/en/products/ozone.html) |
-| Waves C6 Lite | Free | Multiband Compressor | 6 bands, wideband/multiband modes, broadcast-grade | [Plugin Boutique](https://www.izotope.com/en/products/ozone.html) |
+| MMultiband | Free | Multiband Compressor | Up to 6 bands, full modulation engine, A/B comparison | [Official Site](https://www.izotope.com/en/products/ozone.html) |
+| Waves C6 Lite | Free | Multiband Compressor | 6 bands, wideband/multiband modes, broadcast-grade | [Official Site](https://www.izotope.com/en/products/ozone.html) |
 | Kilohearts Multiband Comp | Free | Snap Plugin | Clean interface, Kilohearts ecosystem integration | [Download](https://kilohearts.com/products/multiband_compressor) |
 | GVST GMulti | Free | Multiband Compressor | Low CPU, Windows-only, utility compression | [Download](https://www.gvst.co.uk/gmulti.htm) |
 | Calf Multiband | Free | Multiband Compressor | LV2/Linux native, open source, 5 bands, active development | [Download](https://calf-studio-gear.org/) |

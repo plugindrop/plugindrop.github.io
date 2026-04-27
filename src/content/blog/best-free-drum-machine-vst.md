@@ -236,7 +236,7 @@ If you've worked through the free tier and hit consistent friction — inflexibl
 - **Price:** $99 (included in Komplete bundles)
 - **Why upgrade:** Battery 4 ships with over 12,000 samples organized across acoustic, electronic, and hybrid categories, with a cell-based routing system that allows velocity-mapped layering at a depth free plugins structurally can't match. r/WeAreTheMusicMakers consistently positions it as the standard professional step-up from free drum samplers when producers need genuine kit customization, multi-layer programming, and complex sound design flexibility in a single plugin.
 
-[→ Get Native Instruments Battery 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Battery%204&a_aid=69cb95abe1763)
+[→ Get Native Instruments Battery 4](https://www.native-instruments.com/en/products/komplete/drums/battery-4/)
 
 ---
 

@@ -28,7 +28,7 @@ draft: false
 | Klanghelm DC8C | €21 | Character compression with depth | [Official Site](https://klanghelm.com/contents/products/DC8C.php) |
 | TDR Kotelnikov | Free | Transparent bus and mastering compression | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Rough Rider 3 | Free | Aggressive drums and sidechain effects | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
-| Waves API 2500 | ~$29.99 | Punchy, forward-hitting bus compression | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20API%202500&a_aid=69cb95abe1763) |
+| Waves API 2500 | ~$29.99 | Punchy, forward-hitting bus compression | [Official Site](https://www.waves.com/plugins/api-2500-compressor) |
 
 ---
 
@@ -163,7 +163,7 @@ This plugin does one thing well and does not pretend to do anything else. For pr
 - **Price:** From $29.99 (frequent sales)
 - **Why upgrade:** The SSL G-Master delivers cohesion through its program-dependent release. The API 2500 emulation delivers something the SSL cannot: a forward, punchy character tied to the original hardware's Thrust high-pass sidechain circuit and its distinct ratio and knee behavior. Gearspace community threads consistently describe these two compressors as complementary rather than competing — the SSL for smoothing and blending, the API 2500 when the drum bus needs to hit harder and sit in front of the mix rather than behind it.
 
-[→ Get Waves API 2500 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20API%202500&a_aid=69cb95abe1763)
+[→ Get Waves API 2500](https://www.waves.com/plugins/api-2500-compressor)
 
 ---
 
@@ -176,7 +176,7 @@ This plugin does one thing well and does not pretend to do anything else. For pr
 | Klanghelm DC8C | €21 | Multi-style | Topology switching, sidechain filter, Linux | [Get It](https://klanghelm.com/contents/products/DC8C.php) |
 | TDR Kotelnikov | Free / €49 GE | Transparent | Inter-sample peak sensing, mastering-grade precision | [Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Rough Rider 3 | Free | Character | Parallel mix blend, HP sidechain, aggressive color | [Download](https://www.audiodamage.com/pages/free-and-legacy) |
-| Waves API 2500 | ~$29.99 | Hardware emulation | Thrust circuit, punchy forward character | [Get It](https://www.pluginboutique.com/search?search_query=Waves%20API%202500&a_aid=69cb95abe1763) |
+| Waves API 2500 | ~$29.99 | Hardware emulation | Thrust circuit, punchy forward character | [Get It](https://www.waves.com/plugins/api-2500-compressor) |
 | Klanghelm DC1A | Free | Simplified character | Minimal controls, smooth coloration, easy parallel use | Free — klanghelm.com |
 | Molot (vladg/sound) | Free | Vintage character | Soviet-style coloration, strong KVR community following | Free — vladg/sound |
 | TDR Feedback Compressor II | Free | Transparent/feedback | Feedback topology, alternative to Kotelnikov on complex material | Free — tokyodawn.net |

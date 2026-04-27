@@ -20,11 +20,11 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Spitfire LABS | Free | Cinematic string texture and modern beds | [Plugin Boutique](https://labs.spitfireaudio.com/) |
-| BBC Symphony Orchestra Discover | Free | Realistic full-orchestra writing, all skill levels | [Plugin Boutique](https://www.spitfireaudio.com/en-us/products/bbc-symphony-orchestra-discover) |
-| VSCO2 Community Edition | Free | Realistic section strings and orchestral arrangements | [Plugin Boutique](https://versilian-studios.com/vsco-community/) |
-| Sonatina Symphonic Orchestra | Free | Complete orchestral sketching, notation workflows | [Plugin Boutique](https://sfzinstruments.github.io/orchestra/sso/) |
-| Virtual Playing Orchestra | Free | Notation-integrated mock-ups, solo and ensemble | [Plugin Boutique](http://virtualplaying.com/virtual-playing-orchestra/) |
+| Spitfire LABS | Free | Cinematic string texture and modern beds | [Official Site](https://labs.spitfireaudio.com/) |
+| BBC Symphony Orchestra Discover | Free | Realistic full-orchestra writing, all skill levels | [Official Site](https://www.spitfireaudio.com/en-us/products/bbc-symphony-orchestra-discover) |
+| VSCO2 Community Edition | Free | Realistic section strings and orchestral arrangements | [Official Site](https://versilian-studios.com/vsco-community/) |
+| Sonatina Symphonic Orchestra | Free | Complete orchestral sketching, notation workflows | [Official Site](https://sfzinstruments.github.io/orchestra/sso/) |
+| Virtual Playing Orchestra | Free | Notation-integrated mock-ups, solo and ensemble | [Official Site](http://virtualplaying.com/virtual-playing-orchestra/) |
 | VCSL | Free | Broad orchestral palette beyond standard strings | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=VCSL&a_aid=69cb95abe1763) |
 | DSK Dynamic Strings | Free | Instant string beds, lightweight, no setup | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=DSK%20Dynamic%20Strings&a_aid=69cb95abe1763) |
 
@@ -200,7 +200,7 @@ When the free tier runs out — typically when you need more articulations, high
 - **Price:** Check current pricing on Plugin Boutique
 - **Why upgrade:** BBC Symphony Orchestra Discover is the right starting point, but the full library adds substantially more articulations, multiple mic positions (close, ambient, outrigger, and additional positions depending on the tier), and dynamic layers that are essential for competitive orchestral mock-ups. Producer communities focused on film scoring consistently describe the jump from Discover to the full BBC SO as the single most impactful upgrade in the free-to-paid transition for orchestral work.
 
-[→ Get Spitfire BBC Symphony Orchestra on Plugin Boutique](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra)
+[→ Get Spitfire BBC Symphony Orchestra](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra)
 
 ---
 
@@ -212,7 +212,7 @@ When the free tier runs out — typically when you need more articulations, high
 - **Price:** Available via EastWest ComposerCloud+ subscription or standalone license
 - **Why upgrade:** Hollywood Strings is one of the most extensively documented orchestral string libraries in production communities, with KVR and Gearspace discussions citing its multi-mic recording setup and dense articulation set as benchmarks for orchestral realism in a DAW context. The free libraries above serve composers well for sketching and pre-production; Hollywood Strings is what professionals use when the final render needs to hold up against a sync brief or picture lock.
 
-[→ Get EastWest Hollywood Strings on Plugin Boutique](https://www.soundsonline.com/orchestral/hollywood-strings)
+[→ Get EastWest Hollywood Strings](https://www.soundsonline.com/orchestral/hollywood-strings)
 
 ---
 
@@ -220,16 +220,16 @@ When the free tier runs out — typically when you need more articulations, high
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Spitfire LABS | Free | Sample library | Real BBC recordings, growing catalog, cinematic character | [Plugin Boutique](https://www.soundsonline.com/orchestral/hollywood-strings) |
-| BBC Symphony Orchestra Discover | Free | Full orchestral library | Full BBC SO template, all sections, beginner-friendly UI | [Plugin Boutique](https://www.soundsonline.com/orchestral/hollywood-strings) |
-| VSCO2 Community Edition | Free | Orchestral SFZ library | Section strings, articulation variety, community-maintained | [Plugin Boutique](https://www.soundsonline.com/orchestral/hollywood-strings) |
-| Sonatina Symphonic Orchestra | Free | Orchestral SFZ library | Complete orchestra, foundational community reference | [Plugin Boutique](https://www.soundsonline.com/orchestral/hollywood-strings) |
-| VCSL | Free | SFZ sample library | Open-source, broad palette, ongoing community contributions | [Plugin Boutique](https://www.soundsonline.com/orchestral/hollywood-strings) |
-| Virtual Playing Orchestra | Free | Orchestral SFZ library | Notation-optimized, articulation scripting, solo + ensemble | [Plugin Boutique](https://www.soundsonline.com/orchestral/hollywood-strings) |
-| DSK Dynamic Strings | Free | VST string instrument | Instant load, no setup, Windows-only | [Plugin Boutique](https://www.soundsonline.com/orchestral/hollywood-strings) |
-| Decent Sampler | Free | Sample player | Free VST player unlocking Pianobook string ecosystem | [Plugin Boutique](https://www.soundsonline.com/orchestral/hollywood-strings) |
-| Spitfire BBC Symphony Orchestra | Paid | Full orchestral library | More articulations, mic positions, production-grade depth | [Plugin Boutique](https://www.soundsonline.com/orchestral/hollywood-strings) |
-| EastWest Hollywood Strings | Paid | Orchestral string library | High sample density, multi-mic, industry benchmark | [Plugin Boutique](https://www.soundsonline.com/orchestral/hollywood-strings) |
+| Spitfire LABS | Free | Sample library | Real BBC recordings, growing catalog, cinematic character | [Official Site](https://www.soundsonline.com/orchestral/hollywood-strings) |
+| BBC Symphony Orchestra Discover | Free | Full orchestral library | Full BBC SO template, all sections, beginner-friendly UI | [Official Site](https://www.soundsonline.com/orchestral/hollywood-strings) |
+| VSCO2 Community Edition | Free | Orchestral SFZ library | Section strings, articulation variety, community-maintained | [Official Site](https://www.soundsonline.com/orchestral/hollywood-strings) |
+| Sonatina Symphonic Orchestra | Free | Orchestral SFZ library | Complete orchestra, foundational community reference | [Official Site](https://www.soundsonline.com/orchestral/hollywood-strings) |
+| VCSL | Free | SFZ sample library | Open-source, broad palette, ongoing community contributions | [Official Site](https://www.soundsonline.com/orchestral/hollywood-strings) |
+| Virtual Playing Orchestra | Free | Orchestral SFZ library | Notation-optimized, articulation scripting, solo + ensemble | [Official Site](https://www.soundsonline.com/orchestral/hollywood-strings) |
+| DSK Dynamic Strings | Free | VST string instrument | Instant load, no setup, Windows-only | [Official Site](https://www.soundsonline.com/orchestral/hollywood-strings) |
+| Decent Sampler | Free | Sample player | Free VST player unlocking Pianobook string ecosystem | [Official Site](https://www.soundsonline.com/orchestral/hollywood-strings) |
+| Spitfire BBC Symphony Orchestra | Paid | Full orchestral library | More articulations, mic positions, production-grade depth | [Official Site](https://www.soundsonline.com/orchestral/hollywood-strings) |
+| EastWest Hollywood Strings | Paid | Orchestral string library | High sample density, multi-mic, industry benchmark | [Official Site](https://www.soundsonline.com/orchestral/hollywood-strings) |
 
 ---
 
@@ -277,7 +277,7 @@ This varies significantly. BBC Symphony Orchestra Discover runs into multiple gi
 
 Spitfire LABS and BBC Symphony Orchestra Discover represent the clearest case in free software of "there is no reason not to install this" — both are genuinely high-quality, genuinely free, and maintained by a developer with a long track record. For producers who need more articulation depth or multi-mic control in final renders, the full Spitfire BBC Symphony Orchestra is the community's first-choice paid upgrade and keeps you inside a workflow you already know.
 
-[→ Browse orchestral strings on Plugin Boutique](https://www.soundsonline.com/orchestral/hollywood-strings)
+[→ Browse orchestral strings](https://www.soundsonline.com/orchestral/hollywood-strings)
 
 ---
 

@@ -26,7 +26,7 @@ Most free delays ship in VST3 and AU formats, covering virtually every major DAW
 
 TAL-Dub-3 is the clear top pick for best free delay VST plugin in 2026 — the most immediately useful, genre-versatile, and convincingly analog-sounding tool at zero cost. When you're ready to move beyond the free tier, Valhalla Delay is the natural upgrade: same developer philosophy, expanded to cover every delay type a professional session will ever demand.
 
-[→ Get Valhalla Delay on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Delay&a_aid=69cb95abe1763)
+[→ Get Valhalla Delay](https://valhalladsp.com/shop/delay/valhalla-delay/)
 
 ---
 

@@ -276,7 +276,7 @@ Graillon 2 provides real-time pitch correction alongside a pitch-shifting sectio
 - **Price:** Varies (hardware + software bundle)
 - **Why upgrade:** Komplete Start provides NI's library access inside your DAW, but Maschine's integrated hardware-software workflow — combining velocity-sensitive pads with an internal step sequencer and direct access to NI's full sample ecosystem — represents a structural step up for producers who want to work outside the traditional DAW piano roll entirely.
 
-[→ Get Native Instruments Maschine on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Maschine&a_aid=69cb95abe1763)
+[→ Get Native Instruments Maschine](https://www.native-instruments.com/en/products/maschine/)
 
 ---
 

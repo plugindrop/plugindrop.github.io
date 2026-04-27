@@ -22,11 +22,11 @@ draft: false
 |--------|-------|----------|--------|
 | RC-20 Retro Color | $99 | Lo-fi, bedroom pop, multi-character | [XLN Audio](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) |
 | UAD Studer A800 | $299 | Studio-grade accuracy | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=UAD%20Studer%20A800&a_aid=69cb95abe1763) |
-| Waves J37 Tape | $29–$149 | British vintage and Abbey Road character | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20J37%20Tape&a_aid=69cb95abe1763) |
+| Waves J37 Tape | $29–$149 | British vintage and Abbey Road character | [Official Site](https://www.waves.com/plugins/j37-tape) |
 | Soundtoys Decapitator | $99 | Flexible harmonic saturation | [Soundtoys](https://www.soundtoys.com/product/decapitator/) |
 | Chow Tape Model | Free | Best free tape emulation | [Free Download](https://chowdsp.com) |
-| Klanghelm SDRR | $21 | Best-value paid saturation | [Plugin Boutique](https://klanghelm.com/contents/products/SDRR.php) |
-| Slate Digital VTM | ~$149 | Drum bus glue and mixbus processing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Slate%20Digital%20VTM&a_aid=69cb95abe1763) |
+| Klanghelm SDRR | $21 | Best-value paid saturation | [Official Site](https://klanghelm.com/contents/products/SDRR.php) |
+| Slate Digital VTM | ~$149 | Drum bus glue and mixbus processing | [Official Site](https://slatedigital.com/vtm/) |
 
 ---
 
@@ -74,7 +74,7 @@ The J37 models the EMI J37 four-track tape recorder — the machine used to reco
 
 **Best for:** Producers who want a specific historical character reference — British vintage from the 1960s and 70s, particularly on vocals and acoustic recordings.
 
-[→ Get Waves J37 Tape on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20J37%20Tape&a_aid=69cb95abe1763)
+[→ Get Waves J37 Tape](https://www.waves.com/plugins/j37-tape)
 
 ---
 
@@ -91,7 +91,7 @@ Developed in collaboration with Eddie Kramer — the engineer behind Jimi Hendri
 
 **Best for:** Rock, blues, and vintage American production aesthetics where the recording chain character should be audible.
 
-[→ Get Waves KRAMER MASTER TAPE on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20KRAMER%20MASTER%20TAPE&a_aid=69cb95abe1763)
+[→ Get Waves KRAMER MASTER TAPE](https://www.waves.com/plugins/kramer-master-tape)
 
 ---
 
@@ -108,7 +108,7 @@ Softube positions Tape as a more transparent emulation — designed to add tape'
 
 **Best for:** Contemporary pop, electronic, and hybrid productions where tape character should be subtle and modern-compatible rather than historically specific.
 
-[→ Get Softube Tape on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Softube%20Tape&a_aid=69cb95abe1763)
+[→ Get Softube Tape](https://www.softube.com/tape)
 
 ---
 
@@ -163,7 +163,7 @@ Slate Digital's Virtual Tape Machines models multiple tape configurations at dif
 
 **Best for:** Drum bus and mixbus processing, especially for producers who are already on or considering the Slate Everything Bundle.
 
-[→ Get Slate Digital VTM on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Slate%20Digital%20VTM&a_aid=69cb95abe1763)
+[→ Get Slate Digital VTM](https://slatedigital.com/vtm/)
 
 ---
 
@@ -184,7 +184,7 @@ DAW Cassette is designed specifically for the cassette tape character — bandwi
 
 **Best for:** Lo-fi and cassette-aesthetic productions where you specifically want consumer-tape character rather than studio reel-to-reel warmth.
 
-[→ Get Klevgrand DAW Cassette on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Klevgrand%20DAW%20Cassette&a_aid=69cb95abe1763)
+[→ Get Klevgrand DAW Cassette](https://klevgrand.com/products/daw-cassette)
 
 ---
 
@@ -201,7 +201,7 @@ Klanghelm is a developer known in the KVR community for releasing plugins — th
 
 **Best for:** Budget-conscious producers who want multi-mode saturation with tape-style harmonic characteristics at a price that makes experimentation risk-free.
 
-[→ Get Klanghelm SDRR on Plugin Boutique](https://klanghelm.com/contents/products/SDRR.php)
+[→ Get Klanghelm SDRR](https://klanghelm.com/contents/products/SDRR.php)
 
 ---
 
@@ -244,7 +244,7 @@ Chow Tape Model is built on a published physical modeling methodology using math
 - **Price:** ~$499 (frequently on significant sale)
 - **Why upgrade:** Decapitator alone is $99, but Soundtoys 5 includes the full suite — Radiator, Crystallizer, PanMan, FilterFreq, MicroShift, and more — at a per-plugin cost that makes the individual Decapitator price look inefficient. For producers who use Decapitator regularly, the bundle is the logical next step.
 
-[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys 5](https://www.soundtoys.com/product/soundtoys-5/)
 
 ---
 
@@ -253,15 +253,15 @@ Chow Tape Model is built on a published physical modeling methodology using math
 | Plugin | Price | Type | Key Strengths | CTA |
 |--------|-------|------|---------------|-----|
 | Chow Tape Model | Free | Tape emulation | Physical modeling, open source, competitive with paid options | [Free Download](https://chowdsp.com) |
-| Klevgrand DAW Cassette | ~$20 | Cassette emulation | Consumer tape aesthetic, iOS/macOS/Windows, affordable | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
-| Klanghelm SDRR | $21 | Multi-mode saturation | Multiple harmonic profiles, strong KVR value reputation | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
-| Softube Tape | $49–$79 | Tape emulation | Transparent, modern-friendly, clean glue | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
-| Waves J37 Tape | $29–$149 | Tape emulation | EMI J37 model, Abbey Road vintage character | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
-| Waves KRAMER MASTER TAPE | $29–$149 | Tape emulation | Eddie Kramer collab, multiple IPS speeds, rock character | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
+| Klevgrand DAW Cassette | ~$20 | Cassette emulation | Consumer tape aesthetic, iOS/macOS/Windows, affordable | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
+| Klanghelm SDRR | $21 | Multi-mode saturation | Multiple harmonic profiles, strong KVR value reputation | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
+| Softube Tape | $49–$79 | Tape emulation | Transparent, modern-friendly, clean glue | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
+| Waves J37 Tape | $29–$149 | Tape emulation | EMI J37 model, Abbey Road vintage character | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
+| Waves KRAMER MASTER TAPE | $29–$149 | Tape emulation | Eddie Kramer collab, multiple IPS speeds, rock character | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
 | RC-20 Retro Color | $99 | Multi-character | Integrated modules, lo-fi/bedroom pop community standard | [XLN Audio](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) |
 | Soundtoys Decapitator | $99 | Harmonic saturation | 5 saturation modes, extreme range, KVR top-tier ranking | [Soundtoys](https://www.soundtoys.com/product/decapitator/) |
-| Slate Digital VTM | ~$149 | Tape emulation | Multiple tape configs, drum/mix bus glue, bundle value | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
-| UAD Studer A800 | $299 | Tape emulation | Highest-accuracy emulation, runs Native, studio standard | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
+| Slate Digital VTM | ~$149 | Tape emulation | Multiple tape configs, drum/mix bus glue, bundle value | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
+| UAD Studer A800 | $299 | Tape emulation | Highest-accuracy emulation, runs Native, studio standard | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
 
 ---
 

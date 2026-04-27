@@ -119,7 +119,7 @@ KVR community discussions on 1176-style FET compression place VC 76 as one of th
 
 **Best for:** Producers assembling complete vintage signal chains where FET compression sits before or after console EQ in the channel path.
 
-[→ Get NI VC 76 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20VC%2076&a_aid=69cb95abe1763)
+[→ Get NI VC 76](https://www.native-instruments.com/en/products/komplete/effects/vc-76/)
 
 ---
 
@@ -173,7 +173,7 @@ For producers who want to understand what the community means when they say "Pul
 - **Price:** ~$99–$149 (bundle pricing)
 - **Why upgrade:** The SSL E-Channel models the 4000E strip only. The 4000 Collection adds the SSL G-Channel (4000G console strip, documented as warmer and slightly different in character from the E), the SSL G-Master Buss Compressor (the mix bus compressor credited on a significant portion of major-label releases throughout the 1990s), and supporting channel tools. It is the difference between a single channel strip and an entire SSL console workflow in one purchase.
 
-[→ Get Waves SSL 4000 Collection on Plugin Boutique](https://www.waves.com/plugins/ssl-e-channel)
+[→ Get Waves SSL 4000 Collection](https://www.waves.com/plugins/ssl-e-channel)
 
 ---
 

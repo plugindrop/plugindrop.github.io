@@ -25,7 +25,7 @@ draft: false
 |--------|-------|----------|--------|
 | Soundtoys Decapitator | ~$179 | Analog hardware drive emulation | [Official Site](https://www.soundtoys.com/product/decapitator/) |
 | FabFilter Saturn 2 | $199 | Multiband and multimode distortion | [Official Site](https://www.fabfilter.com/products/saturn-2-multiband-distortion-saturation-plug-in) |
-| Waves J37 Tape | varies | Tape warmth, classic British character | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20J37%20Tape&a_aid=69cb95abe1763) |
+| Waves J37 Tape | varies | Tape warmth, classic British character | [Official Site](https://www.waves.com/plugins/j37-tape) |
 | Klanghelm SDRR | ~$19 | Best-value analog saturation | [Official Site](https://klanghelm.com/contents/products/SDRR.php) |
 | Chow Tape Model | Free | Physically modeled tape saturation | [Free Download](https://chowdsp.com/products.html) |
 | Softube Saturation Knob | Free | Instant harmonic warmth, zero setup | [Free Download](https://www.softube.com/saturation-knob) |
@@ -92,7 +92,7 @@ The J37 models the EMI J37 4-track tape machine used at Abbey Road Studios throu
 
 **Best for:** Mixing and recording buses, vocals, and any source where classic British analog tape character is the target.
 
-[→ Get Waves J37 Tape on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20J37%20Tape&a_aid=69cb95abe1763)
+[→ Get Waves J37 Tape](https://www.waves.com/plugins/j37-tape)
 
 ---
 
@@ -128,7 +128,7 @@ Trash 2 is built for producers who need distortion that goes all the way. Its mu
 
 **Best for:** Aggressive electronic music production, extreme sound design, distorted parallel drum processing.
 
-[→ Search iZotope Trash 2 on Plugin Boutique](https://www.izotope.com/en/products/insight.html)
+[→ Search iZotope Trash 2](https://www.izotope.com/en/products/insight.html)
 
 ---
 
@@ -287,7 +287,7 @@ If you have been working with IVGI, Saturation Knob, Chow Tape Model, or TAL-Sat
 |--------|-------|------|------------|-----|
 | Soundtoys Decapitator | ~$179 | Analog hardware emulation | 5 circuit models, Punish knob, tone control | [Get It](https://www.soundtoys.com/product/decapitator/) |
 | FabFilter Saturn 2 | $199 | Multiband distortion | 28 styles, 6 bands, modulation matrix | [Get It](https://www.fabfilter.com/products/saturn-2-multiband-distortion-saturation-plug-in) |
-| Waves J37 Tape | varies | Tape machine emulation | EMI J37 model, bias/flutter controls | [Plugin Boutique](https://www.fabfilter.com/products/saturn-2-multiband-distortion-saturation-plug-in) |
+| Waves J37 Tape | varies | Tape machine emulation | EMI J37 model, bias/flutter controls | [Official Site](https://www.fabfilter.com/products/saturn-2-multiband-distortion-saturation-plug-in) |
 | Klanghelm SDRR | ~$19 | Multi-mode saturation | TUBE/TAPE/DIGI/TRANS, Linux support | [Get It](https://klanghelm.com/contents/products/SDRR.php) |
 | iZotope Trash 2 | $49–99 | Extreme multiband distortion | 60+ algorithms, IR convolution, gate | izotope.com |
 | RC-20 Retro Color | ~$99 | Lo-fi texture suite | 6 modules incl. distortion, vinyl, wobble | xlnaudio.com |

@@ -23,8 +23,8 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Neural DSP Archetype | From $99 | Amp simulation & built-in cab sim | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Neural%20DSP%20Archetype&a_aid=69cb95abe1763) |
-| Waves IR-L Convolution Reverb | Varies | Cabinet IR loading & room ambience | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20IR-L%20Convolution%20Reverb&a_aid=69cb95abe1763) |
+| Neural DSP Archetype | From $99 | Amp simulation & built-in cab sim | [Official Site](https://neuraldsp.com/plugins) |
+| Waves IR-L Convolution Reverb | Varies | Cabinet IR loading & room ambience | [Official Site](https://www.waves.com/plugins/ir-l) |
 | FabFilter Pro-Q 3 | $179 | Surgical EQ with dynamic EQ per band | [FabFilter](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | OTT (Xfer Records) | Free | Multiband dynamics & mid-range density | [Free Download](https://xferrecords.com/freeware) |
 | FabFilter Total Bundle | ~$899 | Complete professional production suite | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
@@ -60,7 +60,7 @@ Neural DSP's published trial policy offers 14 days of full plugin access before 
 
 **Best for:** Producers who want a complete, genre-matched amp simulation with minimal routing complexity.
 
-[→ Get Neural DSP Archetype on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Neural%20DSP%20Archetype&a_aid=69cb95abe1763)
+[→ Get Neural DSP Archetype](https://neuraldsp.com/plugins)
 
 ---
 
@@ -83,7 +83,7 @@ This step is conditional. If you're satisfied with the cab simulation inside you
 
 **Best for:** Producers using third-party cabinet IR libraries, or those adding studio-room character after the cab stage.
 
-[→ Get Waves IR-L Convolution Reverb on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20IR-L%20Convolution%20Reverb&a_aid=69cb95abe1763)
+[→ Get Waves IR-L Convolution Reverb](https://www.waves.com/plugins/ir-l)
 
 ---
 
@@ -143,7 +143,7 @@ OTT is genuinely free with no paid upgrade path for this specific plugin. Xfer R
 - **Price:** From $99
 - **Why upgrade:** The 14-day trial gives full access to the complete plugin — but without a license, the chain stops working after the trial window. The upgrade decision here is committing to the specific artist edition that matches your genre rather than cycling through trials indefinitely. Choosing the wrong edition is the most common community complaint; the r/Guitar subreddit recommends trialing at least two artist editions before purchasing.
 
-[→ Get Neural DSP Archetype on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Neural%20DSP%20Archetype&a_aid=69cb95abe1763)
+[→ Get Neural DSP Archetype](https://neuraldsp.com/plugins)
 
 ### FabFilter Total Bundle — Every FabFilter tool in a single license
 

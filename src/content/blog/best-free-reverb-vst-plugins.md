@@ -239,7 +239,7 @@ CloudSeed is a fully open-source algorithmic reverb with a deep engine: multiple
 
 **Best for:** Deep algorithmic reverb on Windows, open-source workflows, producers willing to explore manually.
 
-[→ Search CloudSeed on Plugin Boutique](https://www.pluginboutique.com/search?search_query=CloudSeed&a_aid=69cb95abe1763)
+[→ Search CloudSeed](https://github.com/ValdemarOrn/CloudSeed)
 
 
 ---

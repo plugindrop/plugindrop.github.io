@@ -25,7 +25,7 @@ draft: false
 | Valhalla Supermassive | Free | Lush, professional-grade reverb and space | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Waves Tune Real-Time | From $29 | Low-latency pitch correction in the mix | [Developer Site](https://www.waves.com/plugins/waves-tune-real-time) |
 | iZotope Nectar 4 | From $199 | AI-assisted complete vocal production suite | [Developer Site](https://www.izotope.com/en/products/nectar.html) |
-| Waves Vocal Bundle | Varies | Full paid vocal toolkit for serious mixing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20Vocal%20Bundle&a_aid=69cb95abe1763) |
+| Waves Vocal Bundle | Varies | Full paid vocal toolkit for serious mixing | [Official Site](https://www.waves.com/bundles/vocal) |
 
 ---
 
@@ -151,7 +151,7 @@ KVR Audio discussions on vocal processing tools regularly position Nectar 4 as t
 - **Price:** Varies (check Plugin Boutique for current pricing)
 - **Why upgrade:** Individual Waves vocal plugins are strong on their own, but the bundle provides a cohesive set of tools covering pitch correction, saturation, bus processing, and vocal enhancement at a combined price that makes financial sense for producers mixing vocals on a regular basis. Community discussions on r/edmproduction specifically cite the CLA Vocals plugin — included in the bundle — as a fast path to a polished vocal sound for producers who want character-driven processing rather than surgical control.
 
-[→ Get Waves Vocal Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20Vocal%20Bundle&a_aid=69cb95abe1763)
+[→ Get Waves Vocal Bundle](https://www.waves.com/bundles/vocal)
 
 ---
 
@@ -163,7 +163,7 @@ KVR Audio discussions on vocal processing tools regularly position Nectar 4 as t
 | Valhalla Supermassive | Free | Algorithmic Reverb | Multiple algorithms, lush tails, delay modes | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Waves Tune Real-Time | From $29 | Pitch Correction | Low-latency design, formant correction, speed control | [Get It](https://www.waves.com/plugins/waves-tune-real-time) |
 | iZotope Nectar 4 | From $199 | Vocal Suite | AI Vocal Assistant, harmony generator, full chain | [Get It](https://www.izotope.com/en/products/nectar.html) |
-| Waves Vocal Bundle | Varies | Bundle | Multi-plugin suite, CLA Vocals, Tune Real-Time included | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20Vocal%20Bundle&a_aid=69cb95abe1763) |
+| Waves Vocal Bundle | Varies | Bundle | Multi-plugin suite, CLA Vocals, Tune Real-Time included | [Official Site](https://www.waves.com/bundles/vocal) |
 
 ---
 

@@ -22,13 +22,13 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| iZotope Stutter Edit 2 | ~$199 | Complex MIDI-triggered stutters | [Plugin Boutique](https://www.izotope.com/en/products/insight.html) |
-| Output Portal | ~$99 | Granular glitch & experimental texture | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Output%20Portal&a_aid=69cb95abe1763) |
-| Illformed Glitch 2 | ~$25 | Budget-friendly sequenced glitch | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Illformed%20Glitch%202&a_aid=69cb95abe1763) |
-| Sugar Bytes Effectrix | ~$99 | Loop mangling with 14 effect types | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Sugar%20Bytes%20Effectrix&a_aid=69cb95abe1763) |
-| Cableguys ShaperBox | ~$79 | Precision rhythmic shaping | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Cableguys%20ShaperBox&a_aid=69cb95abe1763) |
+| iZotope Stutter Edit 2 | ~$199 | Complex MIDI-triggered stutters | [Official Site](https://www.izotope.com/en/products/insight.html) |
+| Output Portal | ~$99 | Granular glitch & experimental texture | [Official Site](https://output.com/products/portal) |
+| Illformed Glitch 2 | ~$25 | Budget-friendly sequenced glitch | [Official Site](https://illformed.com/glitch/) |
+| Sugar Bytes Effectrix | ~$99 | Loop mangling with 14 effect types | [Official Site](https://sugar-bytes.de/effectrix2) |
+| Cableguys ShaperBox | ~$79 | Precision rhythmic shaping | [Official Site](https://www.cableguys.com/shaperbox) |
 | dblue Glitch (v1) | Free | Zero-cost sequenced glitch | Free |
-| Sugar Bytes Turnado | ~$99 | Live performance glitch | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Sugar%20Bytes%20Turnado&a_aid=69cb95abe1763) |
+| Sugar Bytes Turnado | ~$99 | Live performance glitch | [Official Site](https://sugar-bytes.de/turnado) |
 
 ---
 
@@ -93,7 +93,7 @@ Glitch 2 is the paid, cross-platform successor to dblue's original plugin. Devel
 
 **Best for:** Producers who want the full sequenced glitch toolkit without the premium price tag.
 
-[→ Get Illformed Glitch 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Illformed%20Glitch%202&a_aid=69cb95abe1763)
+[→ Get Illformed Glitch 2](https://illformed.com/glitch/)
 
 ---
 
@@ -127,7 +127,7 @@ ShaperBox takes a modular approach: individual Shaper modules — VolumeShaper, 
 
 **Best for:** Producers who need surgical, programmable control over rhythmic stutter timing rather than randomized sequences.
 
-[→ Get ShaperBox on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Cableguys%20ShaperBox&a_aid=69cb95abe1763)
+[→ Get ShaperBox](https://www.cableguys.com/shaperbox)
 
 ---
 
@@ -144,7 +144,7 @@ Infiltrator 2 is a step-sequenced multi-effect with a broad library of effect mo
 
 **Best for:** Producers who want a format-complete, modern alternative to older sequenced multi-effect tools.
 
-[→ Get Infiltrator 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Devious%20Machines%20Infiltrator%202&a_aid=69cb95abe1763)
+[→ Get Infiltrator 2](https://deviousmachines.com/infiltrator2/)
 
 ---
 
@@ -163,7 +163,7 @@ Effectrix runs up to 14 different effect types — including Reverb, Delay, Gate
 
 **Best for:** Producers who need a deep, DAW-synced multi-effect specifically for loop and stem transformation.
 
-[→ Get Sugar Bytes Effectrix on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Sugar%20Bytes%20Effectrix&a_aid=69cb95abe1763)
+[→ Get Sugar Bytes Effectrix](https://sugar-bytes.de/effectrix2)
 
 ---
 
@@ -180,7 +180,7 @@ Turnado is built around live performance and improvisation: eight "manipulator" 
 
 **Best for:** Live performers and producers who need expressive, hands-on glitch control that works in real time.
 
-[→ Get Turnado on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Sugar%20Bytes%20Turnado&a_aid=69cb95abe1763)
+[→ Get Turnado](https://sugar-bytes.de/turnado)
 
 ---
 
@@ -197,7 +197,7 @@ Portal is a granular effect processor — it continuously reads incoming audio a
 
 **Best for:** Producers working in ambient, experimental, or sound design contexts where granular stutter textures are the goal.
 
-[→ Get Output Portal on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Output%20Portal&a_aid=69cb95abe1763)
+[→ Get Output Portal](https://output.com/products/portal)
 
 ---
 
@@ -214,7 +214,7 @@ Stutter Edit 2 is built around "Gestures" — patterns of layered effects trigge
 
 **Best for:** Producers who need MIDI-triggered, arrangement-synchronized stutter effects at a professional level.
 
-[→ Get iZotope Stutter Edit 2 on Plugin Boutique](https://www.izotope.com/en/products/insight.html)
+[→ Get iZotope Stutter Edit 2](https://www.izotope.com/en/products/insight.html)
 
 ---
 
@@ -228,7 +228,7 @@ Stutter Edit 2 is built around "Gestures" — patterns of layered effects trigge
 - **Price:** ~$199
 - **Why upgrade:** Free tools like dblue Glitch v1 and Glitchmachines Fracture give you randomized, sequencer-based glitch — but they offer no MIDI trigger system, no arrangement integration, and a fraction of the effect variety. Stutter Edit 2's Gesture system and 25+ effect types solve arranged-stutter problems that free plugins are structurally unable to address.
 
-[→ Get iZotope Stutter Edit 2 on Plugin Boutique](https://www.izotope.com/en/products/insight.html)
+[→ Get iZotope Stutter Edit 2](https://www.izotope.com/en/products/insight.html)
 
 ---
 
@@ -240,7 +240,7 @@ Stutter Edit 2 is built around "Gestures" — patterns of layered effects trigge
 - **Price:** ~$99
 - **Why upgrade:** No free plugin in this category generates granular stutter textures — free glitch tools work with sequenced buffers, not grain clouds. Portal's granular engine produces pitch-shifted, density-controlled stutter effects that are categorically different from what any free plugin in this list can produce.
 
-[→ Get Output Portal on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Output%20Portal&a_aid=69cb95abe1763)
+[→ Get Output Portal](https://output.com/products/portal)
 
 ---
 
@@ -248,14 +248,14 @@ Stutter Edit 2 is built around "Gestures" — patterns of layered effects trigge
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| iZotope Stutter Edit 2 | ~$199 | MIDI stutter suite | 25+ effects, Gesture system, AAX | [Buy](https://www.pluginboutique.com/search?search_query=Output%20Portal&a_aid=69cb95abe1763) |
-| Output Portal | ~$99 | Granular processor | Two-oscillator granular engine, macro controls | [Buy](https://www.pluginboutique.com/search?search_query=Output%20Portal&a_aid=69cb95abe1763) |
-| Sugar Bytes Effectrix | ~$99 | Sequenced multi-FX | 14 effect types, DAW-sync | [Buy](https://www.pluginboutique.com/search?search_query=Output%20Portal&a_aid=69cb95abe1763) |
-| Sugar Bytes Turnado | ~$99 | Performance glitch | 8 manipulators, Dictator control | [Buy](https://www.pluginboutique.com/search?search_query=Output%20Portal&a_aid=69cb95abe1763) |
-| Cableguys ShaperBox | ~$79 | Modular LFO shaper | TimeShaper, VolumeShaper, freehand LFO | [Buy](https://www.pluginboutique.com/search?search_query=Output%20Portal&a_aid=69cb95abe1763) |
-| Devious Machines Infiltrator 2 | ~$79 | Step-sequenced multi-FX | Modern interface, VST3/AU/AAX | [Buy](https://www.pluginboutique.com/search?search_query=Output%20Portal&a_aid=69cb95abe1763) |
-| Sugar Bytes Buffer Synth | ~$49 | Buffer manipulation | Step-sequenced, pitched retriggering | [Buy](https://www.pluginboutique.com/search?search_query=Output%20Portal&a_aid=69cb95abe1763) |
-| Illformed Glitch 2 | ~$25 | Sequenced glitch | 9 effect modules, Win/Mac | [Buy](https://www.pluginboutique.com/search?search_query=Output%20Portal&a_aid=69cb95abe1763) |
+| iZotope Stutter Edit 2 | ~$199 | MIDI stutter suite | 25+ effects, Gesture system, AAX | [Buy](https://output.com/products/portal) |
+| Output Portal | ~$99 | Granular processor | Two-oscillator granular engine, macro controls | [Buy](https://output.com/products/portal) |
+| Sugar Bytes Effectrix | ~$99 | Sequenced multi-FX | 14 effect types, DAW-sync | [Buy](https://output.com/products/portal) |
+| Sugar Bytes Turnado | ~$99 | Performance glitch | 8 manipulators, Dictator control | [Buy](https://output.com/products/portal) |
+| Cableguys ShaperBox | ~$79 | Modular LFO shaper | TimeShaper, VolumeShaper, freehand LFO | [Buy](https://output.com/products/portal) |
+| Devious Machines Infiltrator 2 | ~$79 | Step-sequenced multi-FX | Modern interface, VST3/AU/AAX | [Buy](https://output.com/products/portal) |
+| Sugar Bytes Buffer Synth | ~$49 | Buffer manipulation | Step-sequenced, pitched retriggering | [Buy](https://output.com/products/portal) |
+| Illformed Glitch 2 | ~$25 | Sequenced glitch | 9 effect modules, Win/Mac | [Buy](https://output.com/products/portal) |
 | Glitchmachines Fracture | Free | Buffer glitch | Randomization-forward, Win/Mac | [Free](https://glitchmachines.com/) |
 | dblue Glitch (v1) | Free | Sequenced glitch | Classic 9-module sequencer, Windows only | [Free](https://illformed.org/) |
 
@@ -294,7 +294,7 @@ Glitchmachines Fracture is the strongest free option for macOS — dblue Glitch 
 
 For most bedroom producers in 2026, Illformed Glitch 2 is the right first purchase: ~$25, cross-platform, nine effect modules, and enough depth to cover the core sequenced-glitch workflow for years. When your work demands MIDI-triggered stutter control integrated into an arrangement, iZotope Stutter Edit 2 is the clear and well-documented upgrade — and the community consensus behind that recommendation is not recent.
 
-[→ Get Illformed Glitch 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Output%20Portal&a_aid=69cb95abe1763) | [→ Get iZotope Stutter Edit 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Output%20Portal&a_aid=69cb95abe1763)
+[→ Get Illformed Glitch 2](https://output.com/products/portal) | [→ Get iZotope Stutter Edit 2](https://output.com/products/portal)
 
 ---
 

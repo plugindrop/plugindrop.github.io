@@ -27,8 +27,8 @@ draft: false
 | OTT (Xfer Records) | Free | Multiband upward compression, density | [Free Download](https://xferrecords.com/freeware) |
 | Waves SSL G-Master Buss Compressor | From $29 | Mix bus glue, punch | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | iZotope Vinyl | Free | Vintage texture, lo-fi warmth | [Free Download](https://www.izotope.com/en/products/vinyl.html) |
-| Waves Platinum Bundle | Paid | Full processing suite | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20Platinum%20Bundle&a_aid=69cb95abe1763) |
-| iZotope Music Production Suite | Paid | AI-assisted mixing and mastering | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763) |
+| Waves Platinum Bundle | Paid | Full processing suite | [Official Site](https://www.waves.com/bundles/platinum) |
+| iZotope Music Production Suite | Paid | AI-assisted mixing and mastering | [Official Site](https://www.izotope.com/en/products/music-production-suite.html) |
 
 ---
 
@@ -144,7 +144,7 @@ In the hip-hop chain, Vinyl serves two distinct contexts: at low settings (dust 
 - **Price:** Varies — check current pricing at Plugin Boutique
 - **Why upgrade:** The SSL G-Master Buss Compressor handles the mix bus well, but the Platinum Bundle adds the SSL E-Channel strip for individual track processing, the L1 Ultramaximizer for limiting, the Renaissance Compressor, and a full set of tools that address every stage of the chain under one license. Producers who have purchased three or more individual Waves plugins will typically recoup the bundle cost quickly.
 
-[→ Get Waves Platinum Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20Platinum%20Bundle&a_aid=69cb95abe1763)
+[→ Get Waves Platinum Bundle](https://www.waves.com/bundles/platinum)
 
 ---
 
@@ -156,7 +156,7 @@ In the hip-hop chain, Vinyl serves two distinct contexts: at low settings (dust 
 - **Price:** Varies — check current pricing at Plugin Boutique
 - **Why upgrade:** iZotope Vinyl is a capable free texture tool, but the Music Production Suite adds Ozone 11 for mastering, Neutron 4 for intelligent track mixing, and RX for audio repair — tools that r/audioengineering consistently recommends to producers handling client work. Neutron 4's AI-assisted gain staging is specifically cited across community threads as a meaningful time-saver when managing track counts above 20, which is common in fully arranged hip-hop productions.
 
-[→ Get iZotope Music Production Suite on Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763)
+[→ Get iZotope Music Production Suite](https://www.izotope.com/en/products/music-production-suite.html)
 
 ---
 
@@ -168,8 +168,8 @@ In the hip-hop chain, Vinyl serves two distinct contexts: at low settings (dust 
 | OTT (Xfer Records) | Free | Multiband Compressor | Upward compression, density, simple depth control | [Download](https://xferrecords.com/freeware) |
 | Waves SSL G-Master Buss Compressor | From $29 | Bus Compressor | SSL 4000 G emulation, mix glue, documented attack/release behavior | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | iZotope Vinyl | Free | Texture/Saturation | Vinyl physical modeling, year control, vintage warmth | [Download](https://www.izotope.com/en/products/vinyl.html) |
-| Waves Platinum Bundle | Paid | Bundle | SSL channel + bus, L1 limiter, full Waves suite | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763) |
-| iZotope Music Production Suite | Paid | Bundle | Ozone 11, Neutron 4, RX, AI-assisted mixing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763) |
+| Waves Platinum Bundle | Paid | Bundle | SSL channel + bus, L1 limiter, full Waves suite | [Official Site](https://www.izotope.com/en/products/music-production-suite.html) |
+| iZotope Music Production Suite | Paid | Bundle | Ozone 11, Neutron 4, RX, AI-assisted mixing | [Official Site](https://www.izotope.com/en/products/music-production-suite.html) |
 
 ---
 

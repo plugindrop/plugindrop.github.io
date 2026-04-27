@@ -221,7 +221,7 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 | Plugin | Price | Type | Highlights | Get It |
 |--------|-------|------|------------|--------|
 | TAL-Chorus-LX | Free | Chorus | JC-120 BBD emulation, minimal UI, cross-platform | [Free Download](https://tal-software.com/products/tal-chorus-lx) |
-| MFlanger | Free | Flanger | Multiband, deep LFO control, MFreeFXBundle | [Plugin Boutique](https://valhalladsp.com/shop/modulation/valhallachorus/) |
+| MFlanger | Free | Flanger | Multiband, deep LFO control, MFreeFXBundle | [Official Site](https://valhalladsp.com/shop/modulation/valhallachorus/) |
 | MChorus | Free | Chorus | Multiband chorus, visualization, MFreeFXBundle | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |
 | TAL-Flanger | Free | Flanger | Analog-modeled, simple UI, TAL quality | [Free Download](https://tal-software.com/products/tal-flanger) |
 | Valhalla SuperMassive | Free | Modulation/Reverb | Ensemble/chorus modes, ambient focus | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |

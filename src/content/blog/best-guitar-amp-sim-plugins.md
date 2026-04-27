@@ -21,10 +21,10 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Neural DSP Archetype | ~$99–$179 | Best overall, artist tones | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Neural%20DSP%20Archetype&a_aid=69cb95abe1763) |
-| Bias Amp 2 | From $99 | Tone matching & deep tweaking | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763) |
-| AmpliTube 5 | Free–$299 | Largest model library | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=AmpliTube%205&a_aid=69cb95abe1763) |
-| Line 6 Helix Native | $399 | Pro live/studio crossover | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Line%206%20Helix%20Native&a_aid=69cb95abe1763) |
+| Neural DSP Archetype | ~$99–$179 | Best overall, artist tones | [Official Site](https://neuraldsp.com/plugins) |
+| Bias Amp 2 | From $99 | Tone matching & deep tweaking | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
+| AmpliTube 5 | Free–$299 | Largest model library | [Official Site](https://www.ikmultimedia.com/products/amplitube5/) |
+| Line 6 Helix Native | $399 | Pro live/studio crossover | [Official Site](https://line6.com/helix/helixnative.html) |
 | S-Gear | ~$109 | Boutique clean & crunch | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=S-Gear&a_aid=69cb95abe1763) |
 | LePou Amp Sim Suite | Free | Classic high-gain on zero budget | [Free Download](https://www.pluginboutique.com/search?search_query=LePou%20Amp%20Sim%20Suite&a_aid=69cb95abe1763) |
 | Ignite Amps Emissary | Free | Best free metal amp sim | Free |
@@ -58,7 +58,7 @@ Neural Capture technology — Neural DSP's machine-learning profiling system —
 
 **Best for:** Producers who know which artist's tone they're targeting and want a complete, pre-configured signal chain built to that standard.
 
-[→ Get Neural DSP Archetype on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Neural%20DSP%20Archetype&a_aid=69cb95abe1763)
+[→ Get Neural DSP Archetype](https://neuraldsp.com/plugins)
 
 ---
 
@@ -77,7 +77,7 @@ ToneCloud, Positive Grid's cloud-based tone library, gives access to hundreds of
 
 **Best for:** Producers who enjoy sculpting tones from components and benefit from a large, active community tone library.
 
-[→ Get Bias Amp 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763)
+[→ Get Bias Amp 2](https://www.positivegrid.com/collections/bias-legacy-software)
 
 ---
 
@@ -96,7 +96,7 @@ The cabinet simulation and mic placement system, which allows multiple virtual m
 
 **Best for:** Producers who need to cover many guitar styles across different projects and want to build a personal model library incrementally over time.
 
-[→ Get AmpliTube 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=AmpliTube%205&a_aid=69cb95abe1763)
+[→ Get AmpliTube 5](https://www.ikmultimedia.com/products/amplitube5/)
 
 ---
 
@@ -115,7 +115,7 @@ At $399, it is the most expensive option covered here. Line 6's developer docume
 
 **Best for:** Working guitarists who play live with Helix hardware and record in the studio, or professional engineers who require a single, unified patch ecosystem across both environments.
 
-[→ Get Line 6 Helix Native on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Line%206%20Helix%20Native&a_aid=69cb95abe1763)
+[→ Get Line 6 Helix Native](https://line6.com/helix/helixnative.html)
 
 ---
 
@@ -237,7 +237,7 @@ TSE Audio X50 v2 targets the EVH 5150 III, and metal community threads on KVR an
 - **Price:** ~$99–$179 per pack
 - **Why upgrade:** Free trial versions of all Archetype packs include a recurring audio interruption that prevents recording use. The paid license removes this restriction entirely and unlocks Neural Capture loading — the feature that allows you to run third-party captures of real hardware amps, which is where the long-term value of the Archetype ecosystem lives.
 
-[→ Get Neural DSP Archetype on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Neural%20DSP%20Archetype&a_aid=69cb95abe1763)
+[→ Get Neural DSP Archetype](https://neuraldsp.com/plugins)
 
 ---
 
@@ -249,7 +249,7 @@ TSE Audio X50 v2 targets the EVH 5150 III, and metal community threads on KVR an
 - **Price:** From $99
 - **Why upgrade:** The demo version of Bias Amp 2 limits access to the component-level amp designer — the core feature that distinguishes Bias Amp 2 from preset-based competitors. Without the full amp designer unlocked, you are using a moderately capable preset amp sim and missing the functionality the product is actually built around.
 
-[→ Get Bias Amp 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763)
+[→ Get Bias Amp 2](https://www.positivegrid.com/collections/bias-legacy-software)
 
 ---
 
@@ -257,13 +257,13 @@ TSE Audio X50 v2 targets the EVH 5150 III, and metal community threads on KVR an
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Neural DSP Archetype | ~$99–$179 | Paid | Artist chains, Neural Capture, standalone | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763) |
-| Bias Amp 2 | From $99 | Paid | Amp designer, ToneCloud, AI tone match | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763) |
-| AmpliTube 5 | Free–$299 | Freemium | 400+ models, CS pricing, multi-mic cabs | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763) |
-| Line 6 Helix Native | $399 | Paid | Hardware parity, pro live/studio | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763) |
-| S-Gear | ~$109 | Paid | Boutique dynamics, vintage/clean focus | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763) |
+| Neural DSP Archetype | ~$99–$179 | Paid | Artist chains, Neural Capture, standalone | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
+| Bias Amp 2 | From $99 | Paid | Amp designer, ToneCloud, AI tone match | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
+| AmpliTube 5 | Free–$299 | Freemium | 400+ models, CS pricing, multi-mic cabs | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
+| Line 6 Helix Native | $399 | Paid | Hardware parity, pro live/studio | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
+| S-Gear | ~$109 | Paid | Boutique dynamics, vintage/clean focus | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
 | Guitar Rig 7 Player | Free | Free | NI integration, beginner-friendly | — |
-| LePou Amp Sim Suite | Free | Free | Classic high-gain, Windows only | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763) |
+| LePou Amp Sim Suite | Free | Free | Classic high-gain, Windows only | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
 | Ignite Amps Emissary | Free | Free | Engl Powerball-style, Win/Mac | — |
 | Mercuriall Reaxis | Free | Free | Mesa Rectifier character, Windows only | — |
 | TSE Audio X50 v2 | Free | Free | EVH 5150 III emulation, Win/Mac | — |
@@ -318,7 +318,7 @@ For studio-only use without Helix hardware, the $399 price is difficult to justi
 
 Neural DSP Archetype is the top recommendation across all budget levels where spending $100–$180 is possible: no other amp sim in this price range has accumulated comparable community consensus for tone quality, and the Neural Capture ecosystem extends the value of every pack well beyond its stock models. For zero-cost starting points, Ignite Amps Emissary with the companion NadIR IR loader is the community's validated answer — not a compromise you'll need to apologize for.
 
-[→ Get Neural DSP Archetype on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Bias%20Amp%202&a_aid=69cb95abe1763)
+[→ Get Neural DSP Archetype](https://www.positivegrid.com/collections/bias-legacy-software)
 
 ---
 

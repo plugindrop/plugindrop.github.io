@@ -22,11 +22,11 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| iZotope Stutter Edit 2 | ~$199 | MIDI-triggered glitch & stutter | [Plugin Boutique](https://www.izotope.com/en/products/insight.html) |
-| Soundtoys 5 | ~$499 | Full creative effects bundle | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
-| Sugar Bytes Turnado | ~$99 | Real-time performance multi-FX | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Sugar%20Bytes%20Turnado&a_aid=69cb95abe1763) |
-| Output Portal | ~$99 | Granular pitch & time textures | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Output%20Portal&a_aid=69cb95abe1763) |
-| RC-20 Retro Color | ~$99 | Lo-fi degradation & vintage texture | [Plugin Boutique](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) |
+| iZotope Stutter Edit 2 | ~$199 | MIDI-triggered glitch & stutter | [Official Site](https://www.izotope.com/en/products/insight.html) |
+| Soundtoys 5 | ~$499 | Full creative effects bundle | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
+| Sugar Bytes Turnado | ~$99 | Real-time performance multi-FX | [Official Site](https://sugar-bytes.de/turnado) |
+| Output Portal | ~$99 | Granular pitch & time textures | [Official Site](https://output.com/products/portal) |
+| RC-20 Retro Color | ~$99 | Lo-fi degradation & vintage texture | [Official Site](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) |
 | Glitch 2 | ~$35 | Budget-entry glitch sequencing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Glitch%202&a_aid=69cb95abe1763) |
 | Valhalla Freq Echo | Free | Frequency-shifting creative delay | Free — Valhalla DSP |
 
@@ -57,7 +57,7 @@ Stutter Edit 2 is a performance plugin that maps complex rhythmic glitch pattern
 
 **Best for:** Producers who need controllable, repeatable glitch that holds up under repeated listening.
 
-[→ Get iZotope Stutter Edit 2 on Plugin Boutique](https://www.izotope.com/en/products/insight.html)
+[→ Get iZotope Stutter Edit 2](https://www.izotope.com/en/products/insight.html)
 
 ---
 
@@ -74,7 +74,7 @@ Glitch 2 uses a step sequencer with independent effect cells — stutter, crushe
 
 **Best for:** Producers who want glitch sequencing depth without a $200 commitment.
 
-[→ Get Glitch 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Glitch%202%20by%20Illformed&a_aid=69cb95abe1763)
+[→ Get Glitch 2](https://illformed.com/glitch/)
 
 ---
 
@@ -93,7 +93,7 @@ Turnado provides eight simultaneous effect slots — spanning filters, reverb, b
 
 **Best for:** Live performance, DJ sets, and producers who want macro-controlled FX chains with a physical feel.
 
-[→ Get Sugar Bytes Turnado on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Sugar%20Bytes%20Turnado&a_aid=69cb95abe1763)
+[→ Get Sugar Bytes Turnado](https://sugar-bytes.de/turnado)
 
 ---
 
@@ -110,7 +110,7 @@ Where Turnado is about expressive real-time macro control, Effectrix is about pr
 
 **Best for:** Programmed, tempo-synced FX patterns that repeat consistently within a session.
 
-[→ Get Sugar Bytes Effectrix on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Sugar%20Bytes%20Effectrix&a_aid=69cb95abe1763)
+[→ Get Sugar Bytes Effectrix](https://sugar-bytes.de/effectrix2)
 
 ---
 
@@ -127,7 +127,7 @@ GrossBeat operates across two core functions: volume automation gating (for rhyt
 
 **Best for:** Hip-hop and trap producers who want gated FX and time manipulation without drawing automation by hand.
 
-[→ Get GrossBeat on Plugin Boutique](https://www.pluginboutique.com/search?search_query=GrossBeat%20by%20Image-Line&a_aid=69cb95abe1763)
+[→ Get GrossBeat](https://www.image-line.com/plugins/Effects/Gross+Beat/)
 
 ---
 
@@ -144,7 +144,7 @@ Infiltrator 2 chains multiple effect modules with a sequencer-driven modulation 
 
 **Best for:** Producers who want sequenced multi-FX with a clear, visually organized routing interface.
 
-[→ Get Devious Machines Infiltrator 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Devious%20Machines%20Infiltrator%202&a_aid=69cb95abe1763)
+[→ Get Devious Machines Infiltrator 2](https://deviousmachines.com/infiltrator2/)
 
 ---
 
@@ -163,7 +163,7 @@ Portal processes audio through a granular engine with controls for grain size, p
 
 **Best for:** Producers who want granular texture added to existing audio without learning granular synthesis.
 
-[→ Get Output Portal on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Output%20Portal&a_aid=69cb95abe1763)
+[→ Get Output Portal](https://output.com/products/portal)
 
 ---
 
@@ -180,7 +180,7 @@ Tantra 2 uses a step sequencer to modulate a bank of effects — including filte
 
 **Best for:** Producers who want rhythmic FX modulation with a subtler, less genre-identifiable sound.
 
-[→ Get Tantra 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Tantra%202%20by%20Dmitry%20Sches&a_aid=69cb95abe1763)
+[→ Get Tantra 2](https://dmitrysches.com/products/tantra)
 
 ---
 
@@ -199,7 +199,7 @@ RC-20 Retro Color combines six processing modules — noise, wow & flutter, dist
 
 **Best for:** Producers who want lo-fi character that evolves over time, not a static vintage filter.
 
-[→ Get RC-20 Retro Color on Plugin Boutique](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color)
+[→ Get RC-20 Retro Color](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color)
 
 ---
 
@@ -218,7 +218,7 @@ Soundtoys 5 includes EchoBoy (tape and digital delay), Decapitator (analog-model
 
 **Best for:** Producers ready to invest in a creative effects toolkit that handles every workflow, not just one use case.
 
-[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys 5](https://www.soundtoys.com/product/soundtoys-5/)
 
 ---
 
@@ -256,7 +256,7 @@ Snap Heap is a modular effects host that chains Kilohearts "snapin" effect modul
 
 **Best for:** Producers who prefer building their own modular FX chains rather than working within a preset signal structure.
 
-[→ Get Kilohearts Snap Heap on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Kilohearts%20Snap%20Heap&a_aid=69cb95abe1763)
+[→ Get Kilohearts Snap Heap](https://kilohearts.com/products/snap_heap)
 
 ---
 
@@ -270,7 +270,7 @@ Snap Heap is a modular effects host that chains Kilohearts "snapin" effect modul
 - **Price:** ~$99
 - **Why upgrade:** Free granular tools typically function as sound design environments requiring significant setup to work effectively as real-time insert effects. Output Portal is engineered specifically as a real-time granular processor with an interface that maps directly to production outcomes — the workflow difference between it and free granular alternatives is immediate from the first session.
 
-[→ Get Output Portal on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Output%20Portal&a_aid=69cb95abe1763)
+[→ Get Output Portal](https://output.com/products/portal)
 
 ---
 
@@ -282,7 +282,7 @@ Snap Heap is a modular effects host that chains Kilohearts "snapin" effect modul
 - **Price:** ~$499
 - **Why upgrade:** Assembling individual free or budget creative effects plugins produces an inconsistent toolkit where quality, workflow, and sonic character vary across tools. Soundtoys 5 provides a unified library where every plugin meets the same quality standard — and purchasing individual Soundtoys plugins adds up quickly. EchoBoy, Crystallizer, and Decapitator alone cover creative territory that no combination of free alternatives replicates with equivalent depth.
 
-[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys 5](https://www.soundtoys.com/product/soundtoys-5/)
 
 ---
 
@@ -290,18 +290,18 @@ Snap Heap is a modular effects host that chains Kilohearts "snapin" effect modul
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| iZotope Stutter Edit 2 | ~$199 | Glitch/Stutter | MIDI gesture system, real-time performance | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
-| Glitch 2 | ~$35 | Glitch Sequencer | Step-sequenced glitch cells, high value | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
-| Sugar Bytes Turnado | ~$99 | Multi-FX Performance | Dictator macro, 8 simultaneous FX slots | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
-| Sugar Bytes Effectrix | ~$79 | Sequenced Multi-FX | Tempo-synced step FX, precise programming | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
-| GrossBeat | ~$99 | Gate/Time Manipulation | Volume gating, time FX, large pattern library | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
-| Devious Machines Infiltrator 2 | ~$89 | Sequenced Multi-FX | Visual routing, tempo-synced modulation | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
-| Output Portal | ~$99 | Granular FX | Real-time granular insert, immediate results | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
-| Tantra 2 | ~$79 | Rhythmic Modulation | Step-sequenced modulation, low signature sound | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
-| RC-20 Retro Color | ~$99 | Lo-Fi/Texture | 6 degradation modules, animated lo-fi character | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
-| Soundtoys 5 | ~$499 | Creative Bundle | 14+ plugins, studio-standard across genres | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
+| iZotope Stutter Edit 2 | ~$199 | Glitch/Stutter | MIDI gesture system, real-time performance | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
+| Glitch 2 | ~$35 | Glitch Sequencer | Step-sequenced glitch cells, high value | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
+| Sugar Bytes Turnado | ~$99 | Multi-FX Performance | Dictator macro, 8 simultaneous FX slots | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
+| Sugar Bytes Effectrix | ~$79 | Sequenced Multi-FX | Tempo-synced step FX, precise programming | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
+| GrossBeat | ~$99 | Gate/Time Manipulation | Volume gating, time FX, large pattern library | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
+| Devious Machines Infiltrator 2 | ~$89 | Sequenced Multi-FX | Visual routing, tempo-synced modulation | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
+| Output Portal | ~$99 | Granular FX | Real-time granular insert, immediate results | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
+| Tantra 2 | ~$79 | Rhythmic Modulation | Step-sequenced modulation, low signature sound | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
+| RC-20 Retro Color | ~$99 | Lo-Fi/Texture | 6 degradation modules, animated lo-fi character | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
+| Soundtoys 5 | ~$499 | Creative Bundle | 14+ plugins, studio-standard across genres | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
 | Valhalla Freq Echo | Free | Frequency-Shift Delay | Alien textures, fully free, no limitations | Free — Valhalla DSP |
-| Kilohearts Snap Heap | Free/Paid | Modular FX | Expandable snapin ecosystem, custom routing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
+| Kilohearts Snap Heap | Free/Paid | Modular FX | Expandable snapin ecosystem, custom routing | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
 
 ---
 
@@ -348,7 +348,7 @@ Valhalla Freq Echo has minimal CPU overhead, consistent with Valhalla DSP's desi
 
 For most producers, **Soundtoys 5** is the one investment in this category that ages well — the individual plugins within it span genres, workflows, and production eras without becoming obsolete, and the community consensus behind it is unusually durable. If Soundtoys isn't in budget yet, **iZotope Stutter Edit 2** and **Output Portal** each solve specific problems that no free alternative handles with equivalent depth or reliability.
 
-[→ Browse creative effects plugins on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Browse creative effects plugins](https://www.soundtoys.com/product/soundtoys-5/)
 
 ---
 
