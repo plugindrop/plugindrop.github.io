@@ -59,7 +59,7 @@ The 7170 Lead emulates the preamp circuit of a Peavey 5150, the amp most associa
 
 **Best for:** Metal and hard rock rhythm tracks where 5150-style bite and sag is the target sound.
 
-→ Download Nick Crow Lab 7170 Lead Free
+[→ Download Nick Crow Lab 7170 Lead Free (Official)](https://www.kvraudio.com/product/7170-lead-by-nick-crow-lab)
 
 ---
 
@@ -76,7 +76,7 @@ The LePou suite is not a single plugin — it is a collection of standalone amp 
 
 **Best for:** Producers who want range across multiple amp voicings without paying for a full multi-amp suite.
 
-→ Download LePou Amp Sim Suite Free
+[→ Download LePou Amp Sim Suite Free (Official)](https://lepouplugins.blogspot.com/)
 
 ---
 
@@ -93,7 +93,7 @@ Ignite Amps built their community reputation on freeware guitar tools, and Emiss
 
 **Best for:** Modern metal, progressive rock, and djent where a complete single-plugin solution is the priority.
 
-→ Download Ignite Amps Emissary Free
+[→ Download Ignite Amps Emissary Free (Official)](https://www.igniteamps.com/)
 
 ---
 
@@ -131,7 +131,7 @@ TPA-1 is a tube preamp simulator rather than a full amp model — a design choic
 
 **Best for:** Clean guitar tracking, warm crunch, and adding tube preamp character to DI signals in post-production.
 
-→ Download Ignite Amps TPA-1 Free
+[→ Download Ignite Amps TPA-1 Free (Official)](https://www.igniteamps.com/)
 
 ---
 
@@ -148,7 +148,7 @@ Simulanalog's Guitar Suite is one of the oldest surviving freeware amp sim colle
 
 **Best for:** Vintage clean and crunch tones where classic amp character matters more than modern workflow convenience.
 
-→ Download Simulanalog Guitar Suite Free
+[→ Download Simulanalog Guitar Suite Free (Official)](https://www.kvraudio.com/product/simulanalog-guitar-suite-by-simulanalog)
 
 ---
 
@@ -165,7 +165,7 @@ Voxengo Boogex takes a different technical approach from most amp sims: it uses 
 
 **Best for:** Clean tones, light crunch, and as a free all-in-one amp processor with no separate IR loader required.
 
-→ Download Voxengo Boogex Free
+[→ Download Voxengo Boogex Free (Official)](https://www.voxengo.com/product/boogex/)
 
 ---
 
@@ -254,17 +254,17 @@ ML Sound Lab's AMPED Roots was released as a free standalone amp sim and sits in
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| TSE Audio X50 v2.4 | Free | 5150 circuit emulation | Community standard, needs IR loader | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
-| Nick Crow Lab 7170 Lead | Free | 5150-style preamp | KVR standard, needs IR loader | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
-| LePou Amp Sim Suite | Free | Multi-amp library | LeGion, LeCto, HyBrit, PFlare | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
-| Ignite Amps Emissary | Free | High-gain original design | Built-in gate and EQ, standalone | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
-| Ignite Amps TPA-1 | Free | Tube preamp | Clean/crunch, flexible in chains | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
-| Simulanalog Guitar Suite | Free | Classic Fender/Marshall/Vox | 32-bit only, vintage character | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
-| Voxengo Boogex | Free | Convolution amp processor | Built-in IR loader included | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
-| Guitar Rig 7 Player | Free | Full chain ecosystem | NI ecosystem, expandable | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
-| Amplitube Custom Shop | Free | Full chain w/ store | Permanent free gear, AAX support | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
-| ML Sound Lab AMPED Roots | Free | Profile-based modern metal | Built-in cab, no IR setup | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
-| Neural DSP Archetype | $99–$149 | Artist amp profiles | Complete chain, mix-ready presets | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
+| TSE Audio X50 v2.4 | Free | 5150 circuit emulation | Community standard, needs IR loader | [Official Site](https://www.tseaudio.com/software/tseX50) |
+| Nick Crow Lab 7170 Lead | Free | 5150-style preamp | KVR standard, needs IR loader | [Official Site](https://www.kvraudio.com/product/7170-lead-by-nick-crow-lab) |
+| LePou Amp Sim Suite | Free | Multi-amp library | LeGion, LeCto, HyBrit, PFlare | [Official Site](https://lepouplugins.blogspot.com/) |
+| Ignite Amps Emissary | Free | High-gain original design | Built-in gate and EQ, standalone | [Official Site](https://www.igniteamps.com/) |
+| Ignite Amps TPA-1 | Free | Tube preamp | Clean/crunch, flexible in chains | [Official Site](https://www.igniteamps.com/) |
+| Simulanalog Guitar Suite | Free | Classic Fender/Marshall/Vox | 32-bit only, vintage character | [Official Site](https://www.kvraudio.com/product/simulanalog-guitar-suite-by-simulanalog) |
+| Voxengo Boogex | Free | Convolution amp processor | Built-in IR loader included | [Official Site](https://www.voxengo.com/product/boogex/) |
+| Guitar Rig 7 Player | Free | Full chain ecosystem | NI ecosystem, expandable | [Official Site](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-7-player/) |
+| Amplitube Custom Shop | Free | Full chain w/ store | Permanent free gear, AAX support | [Official Site](https://www.ikmultimedia.com/products/amplitube5/) |
+| ML Sound Lab AMPED Roots | Free | Profile-based modern metal | Built-in cab, no IR setup | [Official Site](https://ml-sound-lab.com/products/amped-roots) |
+| Neural DSP Archetype | $99–$149 | Artist amp profiles | Complete chain, mix-ready presets | [Official Site](https://neuraldsp.com/plugins) |
 | Bias Amp 2 | $99–$199 | Component-level modeling | Deep amp architecture control | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
 
 ---
@@ -309,7 +309,7 @@ Circuit modeling (used by TSE, Nick Crow, LePou) attempts to emulate the electro
 
 TSE Audio X50 v2.4 is the most defensible starting point in the free guitar amp sim category — the community has tested it across more genres, DAWs, and signal chain configurations than any other option on this list, and the consensus has held for years. Start there, pair it with a free IR loader and quality cabinet IRs, and you have a foundation that scales. When the workflow starts costing you more time than money, Neural DSP Archetype is the documented next step up.
 
-[→ Explore Guitar Amp Sims](https://www.positivegrid.com/collections/bias-legacy-software)
+[→ Explore Guitar Amp Sims](https://www.pluginboutique.com/search?search_query=guitar+amp+sim&a_aid=69cb95abe1763)
 
 ---
 

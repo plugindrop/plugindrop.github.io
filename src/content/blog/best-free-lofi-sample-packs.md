@@ -263,7 +263,7 @@ MSXII Sound Design is one of the most-cited creators in lo-fi hip hop production
 - **Price:** From $14.95
 - **Why upgrade:** Free sources cover the basics well, but Loopmasters' lo-fi catalog adds label-level recording quality, instrument variety that free packs rarely reach — live upright bass, live jazz drumming, Wurlitzer, Rhodes — and commercial licensing clarity that eliminates the attribution ambiguity common on community platforms. Their lo-fi catalog spans multiple sub-genre styles from ambient chill to upbeat lo-fi hip hop.
 
-→ Get Loopmasters Lo-Fi Packs on Plugin Boutique
+[→ Get Loopmasters Lo-Fi Packs (Official Site)](https://www.loopmasters.com/)
 
 ---
 

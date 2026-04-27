@@ -214,7 +214,7 @@ Cockos publishes the Reaper built-in plugin suite as a standalone free download 
 
 **Best for:** Windows producers building a reliable zero-cost mixing toolkit; Reaper-native processing reference
 
-→ Search ReaPlugs on Plugin Boutique
+[→ Get ReaPlugs (Official Site)](https://www.reaper.fm/reaplugs/)
 
 ---
 

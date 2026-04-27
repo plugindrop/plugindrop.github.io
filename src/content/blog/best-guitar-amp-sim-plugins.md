@@ -153,7 +153,7 @@ LePou's collection of free amp sims — Le456 (5150-inspired), HyBrit (Marshall 
 
 **Best for:** Windows producers who want classic metal and hard rock amp colors at no cost and are comfortable managing separate IR files.
 
-→ Download LePou Amp Sim Suite Free
+[→ Download LePou Amp Sim Suite Free (Official)](https://lepouplugins.blogspot.com/)
 
 ---
 
@@ -189,7 +189,7 @@ The gap versus Neural DSP Archetype on tone realism is real and audible under ca
 
 **Best for:** Metal and hard rock producers who need aggressive, usable high-gain tones at zero cost.
 
-→ Search Ignite Amps Emissary on Plugin Boutique
+[→ Get Ignite Amps Emissary (Official Site)](https://www.igniteamps.com/)
 
 ---
 

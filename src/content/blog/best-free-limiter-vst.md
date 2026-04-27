@@ -175,7 +175,7 @@ For macOS and Windows producers, Limiter 6 GE and LoudMax are better-supported a
 
 **Best for:** Linux producers using LV2-compatible DAWs who want a natively integrated, open-source limiter.
 
-→ Search Calf Limiter on Plugin Boutique
+[→ Get Calf Limiter (Official Site)](https://calf-studio-gear.org/)
 
 ---
 

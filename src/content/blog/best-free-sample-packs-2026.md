@@ -151,7 +151,7 @@ The free sources above cover most production needs. These two paid platforms con
 - **Price:** Varies by pack
 - **Why upgrade:** The free tier at ADSR Sounds gives a strong cross-section of the library, but paid packs offer deeper genre coverage, more one-shots per category, and more consistently processed material. For producers who have worked through the free library in their core genre, the paid packs from ADSR are a natural extension of the same curation standard they've already relied on — no recalibration required.
 
-→ Get ADSR Sounds Packs on Plugin Boutique
+[→ Get ADSR Sounds Packs (Official Site)](https://www.adsrsounds.com/?a_aid=plugindrop)
 
 ---
 

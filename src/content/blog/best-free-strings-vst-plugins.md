@@ -167,7 +167,7 @@ DSK Dynamic Strings is a standalone free VST that delivers basic string tones wi
 
 **Best for:** Windows producers who want string sounds in a project immediately, with no configuration overhead.
 
-→ Get DSK Dynamic Strings Free
+[→ Download DSK Dynamic Strings Free (Official)](https://www.dskmusic.com/dsk-dynamic-strings/)
 
 ---
 
