@@ -7,7 +7,7 @@ affiliate: "https://www.thomann.de/intl/softube_flow_studio.htm?offid=1&affid=57
 heroImage: "/images/softube-flow-studio-powerful-macro-mixing-with-a-hardware-tw.jpg"
 score: 5.28
 xText: "macro mixing with actual hardware controls instead of diving through menus. softube flow studio is the first to actually get it. this is the move."
-draft: true
+draft: false
 ---
 **TL;DR:** Softube Flow Studio brings macro-driven mixing and a tactile hardware workflow to your DAW — pricing varies, so [verify the latest deal on Thomann](https://www.thomann.de/intl/softube_flow_studio.htm?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=softube-flow-studio-powerful-macro-mixing-with-a-hardware-tw) before it changes.
 
