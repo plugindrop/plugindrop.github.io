@@ -18,7 +18,7 @@ for Linux users and anyone who needs a dependency-free orchestral library. The S
 
 **Best for:** Linux users, cross-platform workflows, producers who need orchestral tools with no proprietary player lock-in.
 
-[→ Download VSCO2 CE Free](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Download VSCO2 CE Free (Official)](https://vis.versilstudios.com/vsco-community.html)
 
 ---
 
@@ -35,7 +35,7 @@ ProjectSAM, known for the Symphobia series, has made available a Free Orchestra 
 
 **Best for:** Cinematic layering, producers who want a different tonal palette alongside their Spitfire toolkit.
 
-[→ Explore ProjectSAM on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Download ProjectSAM Free Orchestra (Official)](https://projectsam.com/libraries/the-free-orchestra/)
 
 ---
 
@@ -52,7 +52,7 @@ Miroslav Philharmonik is IK Multimedia's orchestral library built on recordings 
 
 **Best for:** Producers who want a warmer, more vintage orchestral palette; composers working in classical or European-inflected styles.
 
-[→ Explore on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Miroslav Philharmonik CE Free (Official)](https://www.ikmultimedia.com/products/miroslav/)
 
 ---
 
@@ -71,7 +71,7 @@ Sonatina Symphonic Orchestra is one of the longest-standing free orchestral reso
 
 **Best for:** Quick mock-ups, maximum portability, full-orchestra coverage with no account requirements.
 
-[→ Explore Free Orchestral Options](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Download Sonatina Symphonic Orchestra Free (Official)](https://sso.mattiaswestlund.net/)
 
 ---
 
@@ -88,7 +88,7 @@ Virtual Playing Orchestra combines freely available orchestral samples — inclu
 
 **Best for:** Notation-based composers, orchestrators who need basic articulation switching without paying for a premium library.
 
-[→ Explore Free Orchestral Options](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Download Virtual Playing Orchestra Free (Official)](http://virtualplaying.com/virtual-playing-orchestra/)
 
 ---
 
@@ -107,7 +107,7 @@ Orchestral Tools, the developers behind the Berlin Series of professional orches
 
 **Best for:** Producers auditing the Orchestral Tools ecosystem before purchase; professionals building toward the Berlin Series.
 
-[→ Explore on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Download SINE Player Free (Official)](https://www.orchestraltools.com/sine)
 
 ---
 
@@ -124,7 +124,7 @@ Decent Sampler is a free sample player that has become the community-standard fo
 
 **Best for:** Producers who want a customizable, growing toolkit; anyone already using Pianobook libraries.
 
-[→ Explore on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Download Decent Sampler Free (Official)](https://www.decentsamples.com/product/decent-sampler-plugin/)
 
 ---
 
@@ -143,7 +143,7 @@ DSK Music produces a large catalog of free Windows VSTs. DSK Overture covers the
 
 **Best for:** Windows users, quick orchestral sketches, anyone who needs something running immediately.
 
-[→ Explore Free Orchestral Options](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Download DSK Overture Free (Official)](https://www.dskmusic.com/dsk-overture/)
 
 ---
 
@@ -157,7 +157,7 @@ DSK Music produces a large catalog of free Windows VSTs. DSK Overture covers the
 - **Price:** ~$599 (frequent sale pricing)
 - **Why upgrade:** The Discover tier's articulation set is limited and excludes solo instruments entirely. Professional adds the complete articulation library, all solo instruments, additional mic positions, and the full expressive range required for delivery-quality orchestral writing. For anyone using BBCSO Discover seriously, this is the direct upgrade path.
 
-[→ Get BBC Symphony Orchestra Professional on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get BBCSO Professional on Spitfire Audio (Official)](https://www.spitfireaudio.com/bbcso/professional/)
 
 ---
 
@@ -169,7 +169,7 @@ DSK Music produces a large catalog of free Windows VSTs. DSK Overture covers the
 - **Price:** Composer Cloud subscription (~$29.99/month) or outright purchase
 - **Why upgrade:** Hollywood Strings is the benchmark sampled strings library used across major film and television productions. Free orchestral strings consistently lack the room ambience, ensemble depth, and articulation detail that Hollywood Strings delivers. When your string writing is genuinely being held back by the quality ceiling of free libraries, this is the professional upgrade that closes the gap.
 
-[→ Get EastWest Hollywood Strings on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get EastWest Hollywood Strings (Official)](https://www.soundsonline.com/orchestral/hollywood-strings)
 
 ---
 
@@ -177,18 +177,18 @@ DSK Music produces a large catalog of free Windows VSTs. DSK Overture covers the
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Spitfire LABS | Free | Sample library | Air Studios recording, textural strings | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| BBCSO Discover | Free | Full orchestra | Real BBC SO, all sections, multi-mic | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| VSCO2 CE | Free | Chamber orchestra | Open source, Linux, SFZ/DS | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| ProjectSAM Free Orchestra | Free | Cinematic textures | Premium developer, pad-focused | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Miroslav Philharmonik CE | Free | Full orchestra | Vintage character, European flavor | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Sonatina SSO | Free | Full orchestra SFZ | No registration, full palette, portable | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Virtual Playing Orchestra | Free | Keyswitched SFZ | Multi-articulation, notation-friendly | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| OT SINE Player | Free | Premium ecosystem | Gateway to Berlin Series, polished UI | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Decent Sampler | Free | Sample player | Modular, growing library ecosystem | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| DSK Overture | Free | Full orchestra VST | Windows-only, zero setup | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| BBCSO Professional | ~$599 | Full orchestra | Complete articulations, solo instruments | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| EastWest Hollywood Strings | Sub/purchase | Strings | Industry standard, Composer Cloud | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Spitfire LABS | Free | Sample library | Air Studios recording, textural strings | [Spitfire LABS](https://labs.spitfireaudio.com/) |
+| BBCSO Discover | Free | Full orchestra | Real BBC SO, all sections, multi-mic | [BBCSO Discover](https://www.spitfireaudio.com/bbcso/discover/) |
+| VSCO2 CE | Free | Chamber orchestra | Open source, Linux, SFZ/DS | [Free Download](https://vis.versilstudios.com/vsco-community.html) |
+| ProjectSAM Free Orchestra | Free | Cinematic textures | Premium developer, pad-focused | [Free Download](https://projectsam.com/libraries/the-free-orchestra/) |
+| Miroslav Philharmonik CE | Free | Full orchestra | Vintage character, European flavor | [Free (IK)](https://www.ikmultimedia.com/products/miroslav/) |
+| Sonatina SSO | Free | Full orchestra SFZ | No registration, full palette, portable | [Free Download](https://sso.mattiaswestlund.net/) |
+| Virtual Playing Orchestra | Free | Keyswitched SFZ | Multi-articulation, notation-friendly | [Free Download](http://virtualplaying.com/virtual-playing-orchestra/) |
+| OT SINE Player | Free | Premium ecosystem | Gateway to Berlin Series, polished UI | [Free Download](https://www.orchestraltools.com/sine) |
+| Decent Sampler | Free | Sample player | Modular, growing library ecosystem | [Free Download](https://www.decentsamples.com/product/decent-sampler-plugin/) |
+| DSK Overture | Free | Full orchestra VST | Windows-only, zero setup | [Free Download](https://www.dskmusic.com/dsk-overture/) |
+| BBCSO Professional | ~$599 | Full orchestra | Complete articulations, solo instruments | [Spitfire Audio](https://www.spitfireaudio.com/bbcso/professional/) |
+| EastWest Hollywood Strings | Sub/purchase | Strings | Industry standard, Composer Cloud | [soundsonline.com](https://www.soundsonline.com/orchestral/hollywood-strings) |
 
 ---
 
@@ -241,7 +241,7 @@ The Spitfire libraries, VSCO2 CE, and the main libraries listed here are license
 
 BBC Symphony Orchestra Discover and Spitfire LABS together represent an orchestral toolkit that would have cost hundreds of dollars a decade ago — both are free, both are genuinely professional tools, and both belong on every producer's system. When you need the full articulation depth and solo expressiveness that the free tier can't deliver, EastWest Hollywood Strings is the industry benchmark worth budgeting for.
 
-[→ Get EastWest Hollywood Strings on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get EastWest Hollywood Strings (Official)](https://www.soundsonline.com/orchestral/hollywood-strings)
 
 ---
 

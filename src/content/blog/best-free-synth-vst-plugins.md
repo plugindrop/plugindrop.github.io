@@ -11,6 +11,7 @@ xText: "New guide: 14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analo.
 draft: false
 ---
 
+
 **TL;DR:** Vital is the best free synth VST plugin in 2026 — it delivers professional wavetable synthesis that competes with $200 instruments at zero cost. For FM, Dexed is the definitive free option. All 14 plugins below are genuinely free, DAW-ready, and worth installing today.
 
 
@@ -204,7 +205,7 @@ Synth1 is one of the most-downloaded free plugins in history, modeled loosely on
 
 ### Charlatan — No-nonsense analog for producers who want results fast
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/br2IFPdx7Fw" title="Charlatan — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/-4WrGxBaIHM" title="Charlatan — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** BlaukrautEngineering
 - **Price:** Free
@@ -295,16 +296,17 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 
 ### Serum — The industry-standard wavetable synth
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum 2 by Xfer Records — No talking sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Dxeti8Qw6Iw" title="SERUM 2 — Everything NEW in 9 minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
 - **Price:** ~$189 (subscription options available via Splice)
 - **Why upgrade:** Vital's free tier is genuinely close, but Serum's built-in wavetable editor, its deeper workflow integration across commercial sound packs, and the breadth of third-party presets built specifically for it make it the benchmark for professional wavetable production that Vital references but does not yet match in ecosystem depth.
 
-[→ Get Serum on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Serum%20Xfer%20Records&a_aid=69cb95abe1763)
 
 ---
 
+
+[→ Get Serum (Official Site)](https://xferrecords.com/products/serum)
 ### Phase Plant — Modular-style synthesis with a best-in-class interface
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -313,10 +315,11 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 - **Price:** ~$199 (also included in Kilohearts subscription)
 - **Why upgrade:** Odin2 and Surge XT push free synthesis further than most people expect, but Phase Plant's visual modular architecture, deep integration with the Kilohearts snapin ecosystem, and the quality of its commercial preset library represent a step change for producers working at a professional level who want everything in one organized instrument.
 
-[→ Get Phase Plant on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Phase%20Plant%20kilohearts&a_aid=69cb95abe1763)
 
 ---
 
+
+[→ Get Phase Plant (Official Site)](https://kilohearts.com/products/phase_plant)
 ### u-he Hive 2 — The natural upgrade from Tyrell N6 and Podolski
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/dJtf3JmwnjI" title="u-he Hive 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -325,10 +328,11 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 - **Price:** ~$99
 - **Why upgrade:** If Tyrell N6 or Podolski converted you to u-he's sound quality, Hive 2 is the obvious next step — it adds a second oscillator type, more filter options, MPE support, and a full modulation matrix while keeping the same analog character that makes u-he instruments stand out. The price-to-quality ratio is the best in the paid synth market.
 
-[→ Get u-he Hive 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=u-he%20Hive%202&a_aid=69cb95abe1763)
 
 ---
 
+
+[→ Get u-he Hive 2 (Official Site)](https://u-he.com/products/hive/)
 ## Full Comparison Table
 
 | Plugin | Price | Type | Highlights | Get It |
