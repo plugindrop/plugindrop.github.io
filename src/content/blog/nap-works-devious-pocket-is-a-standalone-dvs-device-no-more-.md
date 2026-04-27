@@ -7,7 +7,7 @@ affiliate: "https://www.thomann.de/intl/rane_serato_vinyl_black.htm?offid=1&affi
 heroImage: "/images/nap-works-devious-pocket-is-a-standalone-dvs-device-no-more-.jpg"
 score: 6.90
 xText: "never thought i'd see a standalone dvs that actually works. no laptop tether. nap works devious pocket genuinely changes how you can move around and still handle your full mixing setup."
-draft: false
+draft: true
 ---
 **TL;DR:** NAP Works is making waves with the Devious Pocket — a standalone DVS device that promises to cut the laptop entirely from your vinyl DJ setup. No prices confirmed yet; verify current pricing on the product page. If you're building out a DVS rig in the meantime, [Rane Serato Vinyl is available at Thomann](https://www.thomann.de/intl/rane_serato_vinyl_black.htm?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=nap-works-devious-pocket-is-a-standalone-dvs-device-no-more-) while you wait.
 
