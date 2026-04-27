@@ -20,13 +20,13 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Piano One (Sound Magic) | Free | Neutral acoustic grand, zero cost | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Piano%20One&a_aid=69cb95abe1763) |
+| Piano One (Sound Magic) | Free | Neutral acoustic grand, zero cost | Plugin Boutique |
 | Spitfire LABS Soft Piano | Free | Intimate felt-muted atmosphere | [Free Download](https://labs.spitfireaudio.com/) |
 | Arturia Piano V3 | ~$99 | Multiple modeled grands in one plugin | [Official Site](https://www.arturia.com/products/software-instruments/piano-v/overview) |
-| Pianoteq 8 | ~$149 | Physical modeling, ~80MB install | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Pianoteq%208&a_aid=69cb95abe1763) |
-| Keyscape | ~$399 | Complete acoustic and electric keyboard library | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Keyscape&a_aid=69cb95abe1763) |
+| Pianoteq 8 | ~$149 | Physical modeling, ~80MB install | [Official Site](https://www.modartt.com/pianoteq) |
+| Keyscape | ~$399 | Complete acoustic and electric keyboard library | [Official Site](https://www.spectrasonics.net/products/keyscape/) |
 | Spitfire Audio Felt Piano | ~$79 | Felt-damped sync and cinematic writing | [Official Site](https://labs.spitfireaudio.com/) |
-| Lounge Lizard EP-4 | ~$99 | Fully tweakable Rhodes and Wurlitzer modeling | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Lounge%20Lizard%20EP-4&a_aid=69cb95abe1763) |
+| Lounge Lizard EP-4 | ~$99 | Fully tweakable Rhodes and Wurlitzer modeling | [Official Site](https://www.applied-acoustics.com/lounge-lizard-ep-4/) |
 
 ---
 
@@ -55,7 +55,7 @@ Piano One is a multi-velocity-sampled 9-foot concert grand with a clean, uncolor
 
 **Best for:** Producers who need a usable neutral acoustic grand before deciding on a paid instrument.
 
-[→ Download Piano One Free](https://www.pluginboutique.com/search?search_query=Piano%20One&a_aid=69cb95abe1763)
+→ Download Piano One Free
 
 ---
 
@@ -108,7 +108,7 @@ Pianoteq 8 contains no sample recordings. Every note is generated in real time t
 
 **Best for:** Producers on limited storage, live performers, and anyone who needs true physical behavior across the full dynamic range.
 
-[→ Get Pianoteq 8 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Pianoteq%208&a_aid=69cb95abe1763)
+[→ Get Pianoteq 8](https://www.modartt.com/pianoteq)
 
 ---
 
@@ -125,7 +125,7 @@ Keyscape is the benchmark that most other keyboard plugins are measured against 
 
 **Best for:** Film composers, pop producers, and anyone who needs a complete acoustic and electric keyboard library from one license.
 
-[→ Get Keyscape on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Keyscape&a_aid=69cb95abe1763)
+[→ Get Keyscape](https://www.spectrasonics.net/products/keyscape/)
 
 ---
 
@@ -178,7 +178,7 @@ XLN Audio's Addictive Keys platform separates the player from individual instrum
 
 **Best for:** Indie, folk, singer-songwriter, and any track where an upright piano's intimacy fits better than a concert grand's projection.
 
-[→ Get Addictive Keys on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Addictive%20Keys%20Modern%20Upright&a_aid=69cb95abe1763)
+[→ Get Addictive Keys](https://www.xlnaudio.com/products/addictive_keys/instrument/modern_upright)
 
 ---
 
@@ -197,7 +197,7 @@ Lounge Lizard EP-4 uses AAS's physical modeling engine to simulate the mechanica
 
 **Best for:** Producers who want to shape electric piano tone from the ground up rather than work from a fixed sample character.
 
-[→ Get Lounge Lizard EP-4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Lounge%20Lizard%20EP-4&a_aid=69cb95abe1763)
+[→ Get Lounge Lizard EP-4](https://www.applied-acoustics.com/lounge-lizard-ep-4/)
 
 ---
 
@@ -214,7 +214,7 @@ Scarbee Mark I is sample-based, built from an extensively recorded Fender Rhodes
 
 **Best for:** R&B, soul, and neo-soul producers who need a realistic vintage Rhodes without sourcing or maintaining a physical instrument.
 
-[→ Get Scarbee Mark I on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Scarbee%20Mark%20I&a_aid=69cb95abe1763)
+[→ Get Scarbee Mark I](https://www.native-instruments.com/en/products/komplete/keys/scarbee-mark-i/)
 
 ---
 
@@ -250,7 +250,7 @@ Una Corda is NI's one-string-per-note experimental piano, developed in collabora
 
 **Best for:** Ambient producers, film composers, and tracks where a conventional piano character would be tonally plain.
 
-[→ Get Una Corda on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Una%20Corda&a_aid=69cb95abe1763)
+[→ Get Una Corda](https://www.native-instruments.com/en/products/komplete/keys/una-corda/)
 
 ---
 

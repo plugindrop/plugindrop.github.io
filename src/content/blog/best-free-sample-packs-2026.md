@@ -26,8 +26,8 @@ draft: false
 | Freesound.org | Free | Sound design, FX, field recording | See guide |
 | Looperman | Free | Loops, a cappellas, stems | See guide |
 | Bedroom Producers Blog | Free | Weekly curated free releases | See guide |
-| Loopmasters | Paid (~$15+) | Pro genre-specific packs | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Loopmasters&a_aid=69cb95abe1763) |
-| ADSR Sounds Packs | Paid | Deep genre expansion | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=ADSR%20Sounds%20Packs&a_aid=69cb95abe1763) |
+| Loopmasters | Paid (~$15+) | Pro genre-specific packs | Plugin Boutique |
+| ADSR Sounds Packs | Paid | Deep genre expansion | Plugin Boutique |
 
 ---
 
@@ -139,7 +139,7 @@ The free sources above cover most production needs. These two paid platforms con
 - **Price:** From approximately $15–$30 per pack
 - **Why upgrade:** Free sources rarely match the production quality and musical coherence of Loopmasters packs, which are recorded and produced specifically for commercial release. Community consensus on r/edmproduction and r/makinghiphop holds that the genre focus and mix-readiness of Loopmasters content justifies the price for producers working consistently in specific styles — particularly house, techno, drum and bass, and contemporary R&B. The metadata standards and audio fidelity represent a clear step up from free-tier alternatives.
 
-[→ Get Loopmasters Packs on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Loopmasters&a_aid=69cb95abe1763)
+→ Get Loopmasters Packs on Plugin Boutique
 
 ---
 
@@ -151,7 +151,7 @@ The free sources above cover most production needs. These two paid platforms con
 - **Price:** Varies by pack
 - **Why upgrade:** The free tier at ADSR Sounds gives a strong cross-section of the library, but paid packs offer deeper genre coverage, more one-shots per category, and more consistently processed material. For producers who have worked through the free library in their core genre, the paid packs from ADSR are a natural extension of the same curation standard they've already relied on — no recalibration required.
 
-[→ Get ADSR Sounds Packs on Plugin Boutique](https://www.pluginboutique.com/search?search_query=ADSR%20Sounds%20Sample%20Packs&a_aid=69cb95abe1763)
+→ Get ADSR Sounds Packs on Plugin Boutique
 
 ---
 
@@ -165,8 +165,8 @@ The free sources above cover most production needs. These two paid platforms con
 | Freesound.org | Free | CC community library | Unique textures, FX, field recordings | See guide |
 | Looperman | Free | Community uploads | A cappellas, loops, BPM/key tagged | See guide |
 | Bedroom Producers Blog | Free | Editorial curation | Weekly roundups of best new free releases | See guide |
-| Loopmasters | Paid (~$15+) | Pro packs | Mix-ready, genre-specific, high production value | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=ADSR%20Sounds%20Sample%20Packs&a_aid=69cb95abe1763) |
-| ADSR Sounds Packs | Paid | Curated packs | Deep genre coverage, same curation standard as free tier | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=ADSR%20Sounds%20Sample%20Packs&a_aid=69cb95abe1763) |
+| Loopmasters | Paid (~$15+) | Pro packs | Mix-ready, genre-specific, high production value | Plugin Boutique |
+| ADSR Sounds Packs | Paid | Curated packs | Deep genre coverage, same curation standard as free tier | Plugin Boutique |
 
 ---
 

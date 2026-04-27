@@ -23,11 +23,11 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| MAutoPitch | Free | Transparent pitch correction | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=MAutoPitch%20MeldaProduction&a_aid=69cb95abe1763) |
-| Graillon 2 | Free | Creative pitch effects & robot vocals | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Graillon%202%20Auburn%20Sounds&a_aid=69cb95abe1763) |
+| MAutoPitch | Free | Transparent pitch correction | [Official Site](https://www.meldaproduction.com/MAutoPitch) |
+| Graillon 2 | Free | Creative pitch effects & robot vocals | [Official Site](https://www.auburnsounds.com/products/Graillon.html) |
 | Analog Obsession CHANNELSTRIP | Free | Analog EQ + compression in one slot | [Official Site](https://www.analog-obsession.com/) |
 | TAL-Reverb-4 | Free | Warm vintage plate reverb | [Official Site](https://tal-software.com/products/tal-reverb-4) |
-| Wider (Polyverse) | Free | Mono-safe stereo widening | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Wider%20Polyverse%20stereo%20widener&a_aid=69cb95abe1763) |
+| Wider (Polyverse) | Free | Mono-safe stereo widening | [Official Site](https://polyversemusic.com/products/wider/) |
 | Valhalla Supermassive | Free | Large ambient reverb and delay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Klanghelm MJUC jr | Free | Vintage vari-mu tube compression | [Free Download](https://klanghelm.com/contents/products/MJUCjr/) |
 
@@ -299,13 +299,13 @@ Chow Tape Model is a physically modeled tape machine simulation that adds harmon
 ---
 
 
-[→ Search Auto-Tune Pro on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Auto-Tune%2520Pro&a_aid=69cb95abe1763)
+[→ Search Auto-Tune Pro](https://www.antarestech.com/products/auto-tune-pro)
 ## Full Comparison Table
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| MAutoPitch | Free | Pitch Correction | Transparent, low latency, key/scale detection | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=MAutoPitch%20MeldaProduction&a_aid=69cb95abe1763) |
-| Graillon 2 | Free | Pitch Effects | Pitch shifting, bit crusher, ring modulation | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Graillon%202%20Auburn%20Sounds&a_aid=69cb95abe1763) |
+| MAutoPitch | Free | Pitch Correction | Transparent, low latency, key/scale detection | [Official Site](https://www.meldaproduction.com/MAutoPitch) |
+| Graillon 2 | Free | Pitch Effects | Pitch shifting, bit crusher, ring modulation | [Official Site](https://www.auburnsounds.com/products/Graillon.html) |
 | Analog Obsession CHANNELSTRIP | Free | Channel Strip | HPF + EQ + compressor, analog warmth | [Official Site](https://www.analog-obsession.com/) |
 | Klanghelm MJUC jr | Free | Compressor | Vintage vari-mu character, tube warmth | [Developer Site](https://klanghelm.com/contents/products/MJUCjr/) |
 | TDR Nova | Free | Dynamic EQ | Per-band dynamics, de-essing, transparent | [Developer Site](https://www.tokyodawn.net/tdr-nova/) |
@@ -313,7 +313,7 @@ Chow Tape Model is a physically modeled tape machine simulation that adds harmon
 | TDR SlickEQ | Free | EQ | 3-band with analog saturation mode | [Developer Site](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | TAL-Reverb-4 | Free | Reverb | Vintage plate, envelope follower, HPF return | [Official Site](https://tal-software.com/products/tal-reverb-4) |
 | Valhalla Supermassive | Free | Reverb/Delay | Dense evolving tails, cosmic modes | [Developer Site](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Wider (Polyverse) | Free | Stereo Width | M/S widening, mono-safe | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Wider%20Polyverse%20stereo%20widener&a_aid=69cb95abe1763) |
+| Wider (Polyverse) | Free | Stereo Width | M/S widening, mono-safe | [Official Site](https://polyversemusic.com/products/wider/) |
 | Acon Digital Multiply | Free | Chorus/Doubler | Up to 6 layers, independent pitch and pan | [Developer Site](https://acondigital.com/products/multiply/) |
 | Chow Tape Model | Free | Saturation | Physically modeled tape, open source | [Developer Site](https://chowdsp.com/products.html) |
 | iZotope Nectar 4 | ~$99 | Full Vocal Chain | AI assistant, complete processing suite | [Official Site](https://www.izotope.com/en/products/nectar.html) |

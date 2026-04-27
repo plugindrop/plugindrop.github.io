@@ -23,10 +23,10 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | TSE Audio X50 v2.4 | Free | High-gain / Metal | [Free Download](https://www.tseaudio.com/software/tseX50) |
-| Ignite Amps TPA-1 | Free | Clean / warm crunch | [Free Download](https://www.pluginboutique.com/search?search_query=Ignite%20Amps%20TPA-1&a_aid=69cb95abe1763) |
-| LePou Amp Sim Suite | Free | High-gain variety | [Free Download](https://www.pluginboutique.com/search?search_query=LePou%20Amp%20Sim%20Suite&a_aid=69cb95abe1763) |
-| Nick Crow Lab 7170 Lead | Free | Metal rhythm tracks | [Free Download](https://www.pluginboutique.com/search?search_query=Nick%20Crow%20Lab%207170%20Lead&a_aid=69cb95abe1763) |
-| Ignite Amps Emissary | Free | Extreme high-gain | [Free Download](https://www.pluginboutique.com/search?search_query=Ignite%20Amps%20Emissary&a_aid=69cb95abe1763) |
+| Ignite Amps TPA-1 | Free | Clean / warm crunch | Free Download |
+| LePou Amp Sim Suite | Free | High-gain variety | Free Download |
+| Nick Crow Lab 7170 Lead | Free | Metal rhythm tracks | Free Download |
+| Ignite Amps Emissary | Free | Extreme high-gain | Free Download |
 | Guitar Rig 7 Player | Free | Full chain ecosystem | [Free Download](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-7-player/) |
 | ML Sound Lab AMPED Roots | Free | Modern metal, no IR setup | [Free Download](https://ml-sound-lab.com/products/amped-roots) |
 
@@ -59,7 +59,7 @@ The 7170 Lead emulates the preamp circuit of a Peavey 5150, the amp most associa
 
 **Best for:** Metal and hard rock rhythm tracks where 5150-style bite and sag is the target sound.
 
-[→ Download Nick Crow Lab 7170 Lead Free](https://www.pluginboutique.com/search?search_query=Nick%20Crow%20Lab%207170%20Lead&a_aid=69cb95abe1763)
+→ Download Nick Crow Lab 7170 Lead Free
 
 ---
 
@@ -76,7 +76,7 @@ The LePou suite is not a single plugin — it is a collection of standalone amp 
 
 **Best for:** Producers who want range across multiple amp voicings without paying for a full multi-amp suite.
 
-[→ Download LePou Amp Sim Suite Free](https://www.pluginboutique.com/search?search_query=LePou%20Amp%20Sim%20Suite&a_aid=69cb95abe1763)
+→ Download LePou Amp Sim Suite Free
 
 ---
 
@@ -93,7 +93,7 @@ Ignite Amps built their community reputation on freeware guitar tools, and Emiss
 
 **Best for:** Modern metal, progressive rock, and djent where a complete single-plugin solution is the priority.
 
-[→ Download Ignite Amps Emissary Free](https://www.pluginboutique.com/search?search_query=Ignite%20Amps%20Emissary&a_aid=69cb95abe1763)
+→ Download Ignite Amps Emissary Free
 
 ---
 
@@ -131,7 +131,7 @@ TPA-1 is a tube preamp simulator rather than a full amp model — a design choic
 
 **Best for:** Clean guitar tracking, warm crunch, and adding tube preamp character to DI signals in post-production.
 
-[→ Download Ignite Amps TPA-1 Free](https://www.pluginboutique.com/search?search_query=Ignite%20Amps%20TPA-1&a_aid=69cb95abe1763)
+→ Download Ignite Amps TPA-1 Free
 
 ---
 
@@ -148,7 +148,7 @@ Simulanalog's Guitar Suite is one of the oldest surviving freeware amp sim colle
 
 **Best for:** Vintage clean and crunch tones where classic amp character matters more than modern workflow convenience.
 
-[→ Download Simulanalog Guitar Suite Free](https://www.pluginboutique.com/search?search_query=Simulanalog%20Guitar%20Suite&a_aid=69cb95abe1763)
+→ Download Simulanalog Guitar Suite Free
 
 ---
 
@@ -165,7 +165,7 @@ Voxengo Boogex takes a different technical approach from most amp sims: it uses 
 
 **Best for:** Clean tones, light crunch, and as a free all-in-one amp processor with no separate IR loader required.
 
-[→ Download Voxengo Boogex Free](https://www.pluginboutique.com/search?search_query=Voxengo%20Boogex&a_aid=69cb95abe1763)
+→ Download Voxengo Boogex Free
 
 ---
 

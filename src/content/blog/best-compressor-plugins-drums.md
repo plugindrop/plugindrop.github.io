@@ -135,7 +135,7 @@ The CLA-76 emulates the UREI 1176 FET compressor, one of the most frequently cit
 
 **Best for:** Snare channel compression, room mic character, and fast FET-style transient control.
 
-[→ Search Waves CLA-76 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%2520CLA-76&a_aid=69cb95abe1763)
+[→ Search Waves CLA-76](https://www.waves.com/plugins/cla-76-compressor-limiter)
 
 Available directly at waves.com.
 
@@ -154,7 +154,7 @@ Klanghelm MJUC is a variable-mu tube compressor modeled across three vintage cir
 
 **Best for:** Producers using parallel compression and wanting tube-style body rather than modern punch — particularly effective on kicks that need weight without added attack.
 
-[→ Search Klanghelm MJUC on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Klanghelm%2520MJUC&a_aid=69cb95abe1763)
+[→ Search Klanghelm MJUC](https://klanghelm.com/contents/products/MJUC.html)
 
 Available directly at klanghelm.com.
 
@@ -192,7 +192,7 @@ DC1A is a two-knob compressor (Compression and Tone) that Klanghelm built to pri
 
 **Best for:** Beginners who want a free drum bus compressor that sounds musical without being easy to misuse.
 
-[→ Search Klanghelm DC1A on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Klanghelm%2520DC1A&a_aid=69cb95abe1763)
+[→ Search Klanghelm DC1A](https://klanghelm.com/contents/products/DC1A.php)
 
 Available directly at klanghelm.com.
 
@@ -213,7 +213,7 @@ Supercharger GT combines tube-style compression with harmonic saturation in a si
 
 **Best for:** Producers who want to add warmth and harmonic density to programmed drums alongside compression in a single plugin.
 
-[→ Search Native Instruments Supercharger GT on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%2520Instruments%2520Supercharger%2520GT&a_aid=69cb95abe1763)
+[→ Search Native Instruments Supercharger GT](https://www.native-instruments.com/en/products/komplete/effects/supercharger-gt/)
 
 Available through native-instruments.com.
 
@@ -232,7 +232,7 @@ The FG-116 is Slate Digital's 1176-style FET compressor, included in the All-Acc
 
 **Best for:** Slate All-Access subscribers who need a snare-focused FET compressor and are already inside the Slate plugin ecosystem.
 
-[→ Search Slate Digital FG-116 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Slate%2520Digital%2520FG-116&a_aid=69cb95abe1763)
+→ Search Slate Digital FG-116 on Plugin Boutique
 
 Available through slatedigital.com.
 

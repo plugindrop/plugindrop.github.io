@@ -24,11 +24,11 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | FabFilter Pro-C 2 | $99 | All-purpose compression | [Official Site](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
-| Valhalla VintageVerb | ~$50 | Vintage hall and room reverbs | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763) |
+| Valhalla VintageVerb | ~$50 | Vintage hall and room reverbs | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
 | Arturia Rev PLATE-140 | ~$49 | EMT 140 plate emulation | [Official Site](https://www.arturia.com/products/software-effects/rev-plate-140/overview) |
-| D16 Group Repeater | ~$49 | Vintage tape delay | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=D16%20Group%20Repeater%20delay&a_aid=69cb95abe1763) |
+| D16 Group Repeater | ~$49 | Vintage tape delay | [Official Site](https://d16.pl/repeater) |
 | iZotope RX Elements | ~$99 | Noise removal and audio repair | [Official Site](https://www.izotope.com/en/products/rx.html) |
-| Soundtoys Little Plate | ~$49 | Fast, flexible plate reverb | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%20Little%20Plate%20reverb&a_aid=69cb95abe1763) |
+| Soundtoys Little Plate | ~$49 | Fast, flexible plate reverb | [Official Site](https://www.soundtoys.com/product/little-plate/) |
 
 ---
 
@@ -135,7 +135,7 @@ Replika unifies Modern, Analog, Tape, Diffuse, and Vintage delay modes into a si
 
 **Best for:** Electronic production, atmospheric sound design, hybrid film scoring sessions
 
-[→ Search Native Instruments Replika on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%2520Instruments%2520Replika&a_aid=69cb95abe1763)
+[→ Search Native Instruments Replika](https://www.native-instruments.com/en/products/komplete/effects/replika/)
 
 
 ---
@@ -153,7 +153,7 @@ Comeback Kid's tape machine simulation introduces harmonic saturation and pitch 
 
 **Best for:** Pop vocal effects, indie guitar and synth, any production where feel and character matter more than clinical precision
 
-[→ Search Baby Audio Comeback Kid on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Baby%2520Audio%2520Comeback%2520Kid&a_aid=69cb95abe1763)
+[→ Search Baby Audio Comeback Kid](https://babyaud.io/comeback-kid-delay-plugin)
 
 
 ---
@@ -193,7 +193,7 @@ Developed with platinum mixer Chris Lord-Alge, the CLA-76 emulates two hardware 
 
 **Best for:** Drums, bass, aggressive lead vocal compression, fast-attack limiting on individual tracks
 
-[→ Search Waves CLA-76 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%2520CLA-76&a_aid=69cb95abe1763)
+[→ Search Waves CLA-76](https://www.waves.com/plugins/cla-76-compressor-limiter)
 
 
 ---
@@ -253,7 +253,7 @@ Snap Heap is a modular effects rack with six plugin slots and a full internal mo
 
 **Best for:** Custom parallel processing chains, modular sound design on a budget, building evolving live performance effect rigs
 
-[→ Search Kilohearts Snap Heap on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Kilohearts%2520Snap%2520Heap&a_aid=69cb95abe1763)
+[→ Search Kilohearts Snap Heap](https://kilohearts.com/products/snap_heap)
 
 
 ---

@@ -23,12 +23,12 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Valhalla Room | $50 | Studio-grade reverb | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Room%20reverb&a_aid=69cb95abe1763) |
+| Valhalla Room | $50 | Studio-grade reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 | Valhalla Supermassive | Free | Ambient reverb & delay | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Xfer OTT | Free | Multiband compression | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=OTT%20Xfer%20compressor&a_aid=69cb95abe1763) |
+| Xfer OTT | Free | Multiband compression | [Official Site](https://xferrecords.com/freeware) |
 | Klanghelm SDRR | $21 | Saturation & drive | [Official Site](https://klanghelm.com/contents/products/SDRR.php) |
 | TDR Nova | Free | Dynamic EQ | [Official Site](https://www.tokyodawn.net/tdr-nova/) |
-| Sitala | Free | Drum sampling | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Sitala%20drum%20sampler&a_aid=69cb95abe1763) |
+| Sitala | Free | Drum sampling | [Official Site](https://decomposer.de/sitala/) |
 | Surge XT | Free | Full hybrid synthesizer | [Free Download](https://surge-synthesizer.github.io/) |
 
 ---
@@ -166,7 +166,7 @@ TDR Limiter 6 GE sits just above the strict budget ceiling, but it earns its spo
 
 **Best for:** Mastering final output, transparent bus limiting, loudness maximization with full LUFS control.
 
-[→ Search TDR Limiter 6 GE on Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%2520Limiter%25206%2520GE&a_aid=69cb95abe1763)
+[→ Search TDR Limiter 6 GE](https://www.tokyodawn.net/tdr-limiter6-ge/)
 
 
 ---
@@ -203,7 +203,7 @@ Smooth Operator uses spectral processing to automatically balance frequency ener
 
 **Best for:** Mix bus tonal balancing, reducing ear fatigue, fast mastering preparation on dense mixes.
 
-[→ Search Baby Audio Smooth Operator on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Baby%2520Audio%2520Smooth%2520Operator&a_aid=69cb95abe1763)
+[→ Search Baby Audio Smooth Operator](https://babyaud.io/smooth-operator-plugin)
 
 
 ---

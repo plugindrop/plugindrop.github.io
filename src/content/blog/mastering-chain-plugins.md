@@ -25,7 +25,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| SPAN (Voxengo) | Free | Real-time spectrum analysis | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=SPAN%20Voxengo%20spectrum%20analyzer&a_aid=69cb95abe1763) |
+| SPAN (Voxengo) | Free | Real-time spectrum analysis | [Official Site](https://www.voxengo.com/product/span/) |
 | FabFilter Pro-Q 3 | $179 | Surgical mastering EQ | [Official Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | iZotope Ozone 11 | $349 | All-in-one mastering suite | [Official Site](https://www.izotope.com/en/products/ozone.html) |
 | FabFilter Pro-L 2 | $199 | Transparent brick-wall limiting | [Official Site](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) |

@@ -23,9 +23,9 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | Wavetable synthesis | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Vital%20synth&a_aid=69cb95abe1763) |
-| Valhalla Supermassive | Free | Lush reverb & space | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive%20reverb&a_aid=69cb95abe1763) |
-| TDR Nova | Free | Dynamic EQ & mastering | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova%20equalizer&a_aid=69cb95abe1763) |
+| Vital | Free | Wavetable synthesis | [Official Site](https://vital.audio/) |
+| Valhalla Supermassive | Free | Lush reverb & space | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| TDR Nova | Free | Dynamic EQ & mastering | [Official Site](https://www.tokyodawn.net/tdr-nova/) |
 | Surge XT | Free | Deep modular synthesis | [Official Site](https://surge-synthesizer.github.io/) |
 | OB-Xd | Free | Vintage analog poly sounds | [Official Site](https://www.discodsp.com/obxd/) |
 | Rough Rider 3 | Free | Punchy drum compression | [Official Site](https://www.audiodamage.com/pages/free-and-legacy) |

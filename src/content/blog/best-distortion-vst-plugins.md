@@ -162,7 +162,7 @@ Devil-Loc Deluxe models the Shure Level-Loc, a broadcast limiter known for extre
 
 **Best for:** Crushed parallel drum processing, room mic saturation, aggressive transient distortion.
 
-[→ Search Soundtoys Devil-Loc Deluxe on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%2520Devil-Loc%2520Deluxe&a_aid=69cb95abe1763)
+[→ Search Soundtoys Devil-Loc Deluxe](https://www.soundtoys.com/product/devil-loc-deluxe/)
 
 ---
 

@@ -24,8 +24,8 @@ draft: false
 |--------|-------|----------|--------|
 | Waves SSL E-Channel | ~$30–$60 | Console EQ on drums, vocals, buses | [Waves.com](https://www.waves.com/plugins/ssl-e-channel) |
 | FabFilter Pro-Q 3 | $179 | Precision shaping with analog curve behavior | [FabFilter](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| Arturia 3Filter | ~$49–$99 | Vintage filter coloration and resonance | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%203Filter&a_aid=69cb95abe1763) |
-| NI VC 76 | ~$49–$99 | FET dynamics vintage character | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=NI%20VC%2076&a_aid=69cb95abe1763) |
+| Arturia 3Filter | ~$49–$99 | Vintage filter coloration and resonance | Plugin Boutique |
+| NI VC 76 | ~$49–$99 | FET dynamics vintage character | [Official Site](https://www.native-instruments.com/en/products/komplete/effects/vc-76/) |
 | TDR SlickEQ | Free | Free analog-style EQ workhorse | [tokyodawn.net](https://www.tokyodawn.net) |
 | Ignite Amps PTEq-X | Free | Free Pultec passive EQ behavior | [igniteamps.com](https://www.igniteamps.com) |
 
@@ -100,7 +100,7 @@ For producers working with synthesizers, electronic sources, or material where f
 
 **Best for:** Electronic producers, sound designers, and anyone using vintage filter character on synthesizer or electronic sources rather than recorded acoustic material.
 
-[→ Get Arturia 3Filter on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%203Filter&a_aid=69cb95abe1763)
+→ Get Arturia 3Filter on Plugin Boutique
 
 ---
 

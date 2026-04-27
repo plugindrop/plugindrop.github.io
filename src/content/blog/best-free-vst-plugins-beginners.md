@@ -25,10 +25,10 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | Wavetable synthesis | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Vital%20synth&a_aid=69cb95abe1763) |
-| Valhalla Supermassive | Free | Lush reverb & space | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive%20reverb&a_aid=69cb95abe1763) |
-| TDR Nova | Free | Dynamic EQ | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova%20equalizer&a_aid=69cb95abe1763) |
-| TDR Kotelnikov | Free | Transparent bus compression | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Kotelnikov%20compressor&a_aid=69cb95abe1763) |
+| Vital | Free | Wavetable synthesis | [Official Site](https://vital.audio/) |
+| Valhalla Supermassive | Free | Lush reverb & space | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| TDR Nova | Free | Dynamic EQ | [Official Site](https://www.tokyodawn.net/tdr-nova/) |
+| TDR Kotelnikov | Free | Transparent bus compression | [Official Site](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Rough Rider 3 | Free | Punchy drum compression | [Official Site](https://www.audiodamage.com/pages/free-and-legacy) |
 | Surge XT | Free | Deep sound design | [Official Site](https://surge-synthesizer.github.io/) |
 | LABS | Free | Cinematic sample instruments | [Free Download](https://labs.spitfireaudio.com/) |
@@ -420,14 +420,14 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital | Free | Synth | Visual modulation, wavetable engine | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Vital%20synth&a_aid=69cb95abe1763) |
+| Vital | Free | Synth | Visual modulation, wavetable engine | [Official Site](https://vital.audio/) |
 | Surge XT | Free | Synth | Hybrid, open-source, massive depth | [Official Site](https://surge-synthesizer.github.io/) |
 | OB-Xd | Free | Synth | Oberheim emulation, warm, analog | [Developer Site](https://www.discodsp.com/obxd/) |
-| TDR Nova | Free | Dynamic EQ | Dynamic + static EQ, low CPU | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova%20equalizer&a_aid=69cb95abe1763) |
+| TDR Nova | Free | Dynamic EQ | Dynamic + static EQ, low CPU | [Official Site](https://www.tokyodawn.net/tdr-nova/) |
 | Voxengo SPAN | Free | Analyzer | FFT spectrum, industry standard | [Developer Site](https://www.voxengo.com/product/span/) |
-| TDR Kotelnikov | Free | Compressor | Transparent, mastering-grade | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Kotelnikov%20compressor&a_aid=69cb95abe1763) |
+| TDR Kotelnikov | Free | Compressor | Transparent, mastering-grade | [Official Site](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Rough Rider 3 | Free | Compressor | Punchy, aggressive, beginner-simple | [Official Site](https://www.audiodamage.com/pages/free-and-legacy) |
-| Valhalla Supermassive | Free | Reverb | Cosmic, lush, multiple algorithms | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive%20reverb&a_aid=69cb95abe1763) |
+| Valhalla Supermassive | Free | Reverb | Cosmic, lush, multiple algorithms | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Reverb-4 | Free | Reverb | Vintage plate, warm, musical | [Official Site](https://tal-software.com/products/tal-reverb-4) |
 | OrilRiver | Free | Reverb | Algorithmic, versatile, Windows | [Developer Site](https://www.kvraudio.com/product/orilriver-by-denis-tihanov) |
 | Valhalla Freq Echo | Free | Delay | BBD character, pitch shifting | [Developer Site](https://valhalladsp.com/shop/delay/valhalla-freq-echo/) |
@@ -439,7 +439,7 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 | Decent Sampler | Free | Sample Player | Huge free community library ecosystem | [Developer Site](https://www.decentsamples.com/product/decent-sampler-plugin/) |
 | iZotope Vinyl | Free | FX | Vinyl artifacts, lo-fi standard | [Developer Site](https://www.izotope.com/en/products/vinyl.html) |
 | Melda MFreeFXBundle | Free | Bundle | 37 plugins, broad coverage | [Developer Site](https://www.meldaproduction.com/MFreeFXBundle) |
-| Serum | $189 | Synth | Industry standard wavetable | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Serum%20Xfer%20Records&a_aid=69cb95abe1763) |
+| Serum | $189 | Synth | Industry standard wavetable | [Official Site](https://xferrecords.com/products/serum) |
 | FabFilter Total Bundle | €899 | Suite | Pro mixing suite, top-tier quality | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
 
 ---

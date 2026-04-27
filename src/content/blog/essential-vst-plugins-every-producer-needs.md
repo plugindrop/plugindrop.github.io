@@ -24,9 +24,9 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 3 | $179 | Precision mixing EQ | [Official Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| Valhalla Room | $50 | Studio reverb | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Room%20reverb&a_aid=69cb95abe1763) |
+| Valhalla Room | $50 | Studio reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 | FabFilter Pro-C 2 | $179 | Transparent compression | [Official Site](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
-| Serum | $189 | Wavetable synthesis | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Serum%20Xfer%20Records&a_aid=69cb95abe1763) |
+| Serum | $189 | Wavetable synthesis | [Official Site](https://xferrecords.com/products/serum) |
 | iZotope Ozone 11 | $249 | AI-assisted mastering | [Official Site](https://www.izotope.com/en/products/ozone.html) |
 | Valhalla Supermassive | Free | Ambient reverb & delay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Vital | Free | Wavetable synthesis | [Free Download](https://vital.audio/) |
@@ -352,10 +352,10 @@ Ozone 11's Master Assistant analyzes your track and builds a starting mastering 
 | TDR Nova | Free | EQ | Dynamic EQ, 4 bands, clean metering | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | FabFilter Pro-C 2 | $179 | Compressor | 8 algorithms, real-time GR display | [Get it](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
 | OTT | Free | Multiband Compressor | Upward/downward compression, 3-band | [Free Download](https://xferrecords.com/freeware) |
-| Valhalla Room | $50 | Reverb | 12 algorithms, natural room modeling | [Get it](https://www.pluginboutique.com/search?search_query=Valhalla%20Room%20reverb&a_aid=69cb95abe1763) |
+| Valhalla Room | $50 | Reverb | 12 algorithms, natural room modeling | [Get it](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 | Valhalla Supermassive | Free | Reverb/Delay | Massive ambiences, modulated tails | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Waves SSL E-Channel | $29.99 | Channel Strip | SSL console EQ + dynamics | [Get it](https://www.waves.com/plugins/ssl-e-channel) |
-| Serum | $189 | Synthesizer | Wavetable editor, modulation matrix, FX | [Get it](https://www.pluginboutique.com/search?search_query=Serum%20Xfer%20Records&a_aid=69cb95abe1763) |
+| Serum | $189 | Synthesizer | Wavetable editor, modulation matrix, FX | [Get it](https://xferrecords.com/products/serum) |
 | Vital | Free | Synthesizer | Spectral warping, advanced modulation | [Free Download](https://vital.audio/) |
 | Softube Saturation Knob | Free | Saturation | Single-knob, three modes | [Free Download](https://www.softube.com/saturationknob) |
 | Slate Digital Fresh Air | Free | Enhancer | Artifact-free high-frequency lift | [Free Download](https://slatedigital.com/fresh-air/) |

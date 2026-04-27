@@ -21,10 +21,10 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Decent Sampler | Free | General sampling, massive free library ecosystem | [Official Site](https://www.decentsamples.com/product/decent-sampler-plugin/) |
-| sforzando | Free | SFZ format libraries, technically precise playback | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=sforzando&a_aid=69cb95abe1763) |
-| TX16Wx | Free | Full-featured, DAW-grade creative sampling | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=TX16Wx&a_aid=69cb95abe1763) |
+| sforzando | Free | SFZ format libraries, technically precise playback | Plugin Boutique |
+| TX16Wx | Free | Full-featured, DAW-grade creative sampling | [Official Site](https://www.tx16wx.com/) |
 | HISE | Free | Building and distributing custom sampler instruments | [Official Site](https://hise.audio/) |
-| XT Sampler | Free | Modern UI, accessible SFZ playback for beginners | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=XT%20Sampler&a_aid=69cb95abe1763) |
+| XT Sampler | Free | Modern UI, accessible SFZ playback for beginners | Plugin Boutique |
 | Grace | Free (Win only) | Lightweight, stable playback on older hardware | [Official Site](https://www.onesmallclue.com/plugin/grace/) |
 
 ---
@@ -75,7 +75,7 @@ The trade-off is an intentionally bare-bones interface. sforzando loads SFZ file
 
 **Best for:** SFZ library users who need the most accurate and well-maintained free SFZ player, particularly for large professional SFZ collections.
 
-[→ Download sforzando Free](https://www.pluginboutique.com/search?search_query=sforzando&a_aid=69cb95abe1763)
+→ Download sforzando Free
 
 ---
 
@@ -132,7 +132,7 @@ Community discussion on r/edmproduction is lighter for XT Sampler compared to De
 
 **Best for:** Producers new to free samplers who want clean SFZ playback without a learning curve.
 
-[→ Download XT Sampler Free](https://www.pluginboutique.com/search?search_query=XT%20Sampler&a_aid=69cb95abe1763)
+→ Download XT Sampler Free
 
 ---
 

@@ -17,8 +17,8 @@ draft: false
 </div>
 |--------|-------|------|------------|-----|
 | LABS Soft Piano | Free | Sampled (felt) | Intimate character, LABS ecosystem | [Free Download](https://labs.spitfireaudio.com/) |
-| Piano One | Free | Sampled (grand) | Deep multi-velocity Yamaha-based sampling | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Piano%20One&a_aid=69cb95abe1763) |
-| Keyzone Classic | Free | Sampled (multi) | Grand, upright, and electric in one plugin | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Keyzone%20Classic&a_aid=69cb95abe1763) |
+| Piano One | Free | Sampled (grand) | Deep multi-velocity Yamaha-based sampling | Plugin Boutique |
+| Keyzone Classic | Free | Sampled (multi) | Grand, upright, and electric in one plugin | Plugin Boutique |
 | Salamander Grand | Free | SFZ samples | Most realistic free grand sampling available | Free via SFZ player |
 | 4Front Piano | Free | Synthesis | Near-zero CPU, instant loading | Free |
 | DSK Grand Piano | Free | Sampled | Simple, fast, Windows-only | Free |

@@ -23,8 +23,8 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Valhalla Room | $50 | Natural rooms, acoustic mixing, orchestral | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Room%20reverb&a_aid=69cb95abe1763) |
-| Valhalla VintageVerb | $50 | Vintage character, synths, 80s drums, pads | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763) |
+| Valhalla Room | $50 | Natural rooms, acoustic mixing, orchestral | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-room/) |
+| Valhalla VintageVerb | $50 | Vintage character, synths, 80s drums, pads | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
 
 ---
 

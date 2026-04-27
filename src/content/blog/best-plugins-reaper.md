@@ -159,7 +159,7 @@ Limiter No6 provides five independent processing modules in sequence: RMS compre
 
 **Best for:** Mastering limiting, loudness targeting, ISP protection on the master bus
 
-[→ Search Limiter No6 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Limiter%2520No6&a_aid=69cb95abe1763)
+[→ Search Limiter No6](https://www.tokyodawn.net/vladg-limiter-n6/)
 
 ---
 
@@ -214,7 +214,7 @@ Cockos publishes the Reaper built-in plugin suite as a standalone free download 
 
 **Best for:** Windows producers building a reliable zero-cost mixing toolkit; Reaper-native processing reference
 
-[→ Search ReaPlugs on Plugin Boutique](https://www.pluginboutique.com/search?search_query=ReaPlugs&a_aid=69cb95abe1763)
+→ Search ReaPlugs on Plugin Boutique
 
 ---
 
@@ -231,7 +231,7 @@ Chow Tape Model is a physical model of a reel-to-reel tape machine. Developer do
 
 **Best for:** Tape saturation, analog harmonic warming of digital sources, subtle mix glue
 
-[→ Search Chow Tape Model on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Chow%2520Tape%2520Model&a_aid=69cb95abe1763)
+[→ Search Chow Tape Model](https://chowdsp.com/products.html)
 
 ---
 

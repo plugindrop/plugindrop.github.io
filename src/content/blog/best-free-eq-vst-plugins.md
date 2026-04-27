@@ -23,11 +23,11 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| TDR Nova | Free | Dynamic EQ — mixing & mastering | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova%20equalizer&a_aid=69cb95abe1763) |
+| TDR Nova | Free | Dynamic EQ — mixing & mastering | [Official Site](https://www.tokyodawn.net/tdr-nova/) |
 | Voxengo Marvel GEQ | Free | Linear phase graphic EQ | [Official Site](https://www.voxengo.com/product/marvelgeq/) |
-| MEqualizer | Free | Feature-complete parametric EQ | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=MeldaProduction%20MEqualizer&a_aid=69cb95abe1763) |
+| MEqualizer | Free | Feature-complete parametric EQ | [Official Site](https://www.meldaproduction.com/MEqualizer) |
 | Baxter EQ | Free | Analog color on mix channels | [Official Site](https://www.analog-obsession.com/) |
-| LP10 | Free | Transparent mastering EQ | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=LP10%20EQ%20plugin&a_aid=69cb95abe1763) |
+| LP10 | Free | Transparent mastering EQ | [Official Site](https://lkjb.de/LP10) |
 | TDR SlickEQ | Free | Bus EQ with musical saturation | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | ReaEQ | Free | Unlimited-band surgical mixing | [Free Download](https://www.reaper.fm/reaplugs/) |
 

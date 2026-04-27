@@ -138,7 +138,7 @@ EQuality uses analog-modeled filter curves and has a dedicated following among e
 
 **Best for:** Engineers who specifically want analog filter character paired with strong CPU performance.
 
-[→ Search DMG Audio EQuality on Plugin Boutique](https://www.pluginboutique.com/search?search_query=DMG%2520Audio%2520EQuality&a_aid=69cb95abe1763)
+[→ Search DMG Audio EQuality](https://dmgaudio.com/products_equality.php)
 
 
 ### iZotope Neutron — Best for AI-Assisted Workflow

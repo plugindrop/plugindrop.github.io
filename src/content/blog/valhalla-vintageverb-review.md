@@ -23,8 +23,8 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Valhalla VintageVerb | $50 | All-purpose vintage digital reverb | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763) |
-| Valhalla Room | $50 | Realistic acoustic rooms and small spaces | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Room%20reverb&a_aid=69cb95abe1763) |
+| Valhalla VintageVerb | $50 | All-purpose vintage digital reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
+| Valhalla Room | $50 | Realistic acoustic rooms and small spaces | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 | Valhalla Delay | $50 | Modulated delay with reverb-like diffused tails | [Official Site](https://valhalladsp.com/shop/delay/valhalla-delay/) |
 | TAL-Reverb-4 | Free | Lush plate reverb on a zero budget | [Free Download](https://tal-software.com/products/tal-reverb-4) |
 | Dragonfly Reverb | Free | Open-source hall and room algorithms | [Free Download](https://github.com/michaelwillis/dragonfly-reverb/releases) |

@@ -23,9 +23,9 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Serum (Xfer Records) | ~$189 | All-around wavetable synthesis | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Serum%20Xfer%20Records&a_aid=69cb95abe1763) |
-| Phase Plant | ~$199 | Modular-style sound design | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Phase%20Plant%20kilohearts&a_aid=69cb95abe1763) |
-| Vital | Free / Paid | Budget Serum alternative | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Vital%20synth&a_aid=69cb95abe1763) |
+| Serum (Xfer Records) | ~$189 | All-around wavetable synthesis | [Official Site](https://xferrecords.com/products/serum) |
+| Phase Plant | ~$199 | Modular-style sound design | [Official Site](https://kilohearts.com/products/phase_plant) |
+| Vital | Free / Paid | Budget Serum alternative | [Official Site](https://vital.audio/) |
 
 ---
 

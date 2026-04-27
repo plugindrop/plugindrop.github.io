@@ -73,7 +73,7 @@ Celemony Melodyne 5 is the most-referenced pitch and timing editor in profession
 
 **Best for:** Note-by-note pitch editing for complex takes, timing repairs, or creative reharmonization.
 
-[→ Search Celemony Melodyne 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Celemony%2520Melodyne%25205&a_aid=69cb95abe1763)
+[→ Search Celemony Melodyne 5](https://www.celemony.com/en/melodyne/melodyne-5-editions)
 
 ---
 
@@ -92,7 +92,7 @@ The Waves CLA-2A emulates the Teletronix LA-2A optical compressor and is one of 
 
 **Best for:** Smooth, musical compression on expressive vocal performances where natural dynamics matter.
 
-[→ Search Waves CLA-2A on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%2520CLA-2A&a_aid=69cb95abe1763)
+[→ Search Waves CLA-2A](https://www.waves.com/plugins/cla-2a-compressor-limiter)
 
 ---
 
@@ -109,7 +109,7 @@ FabFilter Pro-DS is the de-esser KVR Audio and r/edmproduction return most consi
 
 **Best for:** Precise sibilance control on modern vocals without over-processing consonants.
 
-[→ Search FabFilter Pro-DS on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%2520Pro-DS&a_aid=69cb95abe1763)
+[→ Search FabFilter Pro-DS](https://www.fabfilter.com/products/pro-ds-de-esser-plug-in)
 
 ---
 
@@ -185,7 +185,7 @@ Waves Doubler 4 creates stereo width and a doubled-vocal feel by generating pitc
 
 **Best for:** Stereo width and a double-tracked feel from a single vocal recording.
 
-[→ Search Waves Doubler 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%2520Doubler%25204&a_aid=69cb95abe1763)
+[→ Search Waves Doubler 4](https://www.waves.com/plugins/doubler)
 
 ---
 
@@ -202,7 +202,7 @@ Waves Vocal Rider automatically adjusts vocal gain in real time to maintain a co
 
 **Best for:** Reducing manual volume automation on dynamic performances without compressing the life out of the signal.
 
-[→ Search Waves Vocal Rider on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%2520Vocal%2520Rider&a_aid=69cb95abe1763)
+[→ Search Waves Vocal Rider](https://www.waves.com/plugins/vocal-rider)
 
 ---
 
@@ -238,7 +238,7 @@ Soundtoys EchoBoy is the most consistently name-checked delay plugin in Gearspac
 
 **Best for:** Delay with analog character for lead vocals, or creative rhythmic delay effects where a clean digital echo would feel sterile.
 
-[→ Search Soundtoys EchoBoy on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%2520EchoBoy&a_aid=69cb95abe1763)
+[→ Search Soundtoys EchoBoy](https://www.soundtoys.com/product/echoboy/)
 
 ---
 

@@ -24,7 +24,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Serum | $189 | 808 bass & lead synths | [Official Site](https://xferrecords.com/products/serum) |
-| Battery 4 | $149 | Drum sample layering | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Battery%204&a_aid=69cb95abe1763) |
+| Battery 4 | $149 | Drum sample layering | [Official Site](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) |
 | Addictive Drums 2 | From $179 | Live boom bap drum kits | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Addictive%20Drums%202&a_aid=69cb95abe1763) |
 | Waves SSL G-Master | From $29 | Bus glue compression | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | iZotope Vinyl | Free | Lofi vinyl texture | [Free Download](https://www.izotope.com/en/products/vinyl.html) |

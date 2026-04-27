@@ -116,7 +116,7 @@ The plugin is Windows-only and does not include true peak detection, which is th
 
 **Best for:** Windows producers studying multi-stage mastering architecture, or anyone who wants to understand the signal flow that Limiter 6 GE builds on.
 
-[→ Search Limiter No6 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Limiter%2520No6&a_aid=69cb95abe1763)
+[→ Search Limiter No6](https://www.tokyodawn.net/vladg-limiter-n6/)
 
 ---
 
@@ -175,7 +175,7 @@ For macOS and Windows producers, Limiter 6 GE and LoudMax are better-supported a
 
 **Best for:** Linux producers using LV2-compatible DAWs who want a natively integrated, open-source limiter.
 
-[→ Search Calf Limiter on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Calf%2520Limiter&a_aid=69cb95abe1763)
+→ Search Calf Limiter on Plugin Boutique
 
 ---
 

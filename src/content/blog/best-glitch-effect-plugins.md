@@ -110,7 +110,7 @@ Buffer Synth operates by slicing incoming audio into a buffer and retriggering, 
 
 **Best for:** Producers interested in deliberate, pitch-aware buffer manipulation beyond basic glitch sequencing.
 
-[→ Get Buffer Synth on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Sugar%20Bytes%20Buffer%20Synth&a_aid=69cb95abe1763)
+→ Get Buffer Synth on Plugin Boutique
 
 ---
 

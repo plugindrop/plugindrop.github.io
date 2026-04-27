@@ -27,7 +27,7 @@ draft: false
 | Sugar Bytes Turnado | ~$99 | Real-time performance multi-FX | [Official Site](https://sugar-bytes.de/turnado) |
 | Output Portal | ~$99 | Granular pitch & time textures | [Official Site](https://output.com/products/portal) |
 | RC-20 Retro Color | ~$99 | Lo-fi degradation & vintage texture | [Official Site](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) |
-| Glitch 2 | ~$35 | Budget-entry glitch sequencing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Glitch%202&a_aid=69cb95abe1763) |
+| Glitch 2 | ~$35 | Budget-entry glitch sequencing | [Official Site](https://illformed.com/glitch/) |
 | Valhalla Freq Echo | Free | Frequency-shifting creative delay | Free — Valhalla DSP |
 
 ---
@@ -237,7 +237,7 @@ Valhalla Freq Echo combines a frequency shifter with an echo unit, generating me
 
 **Best for:** Producers who want frequency-shifted, evolving feedback textures at zero cost.
 
-[→ Search Valhalla Freq Echo on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%2520Freq%2520Echo&a_aid=69cb95abe1763)
+[→ Search Valhalla Freq Echo](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)
 
 *Available free directly from Valhalla DSP's website.*
 

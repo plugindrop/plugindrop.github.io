@@ -19,13 +19,13 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | Modern wavetable leads, pads, bass | [Free Download](https://www.pluginboutique.com/search?search_query=Vital%20synth&a_aid=69cb95abe1763) |
+| Vital | Free | Modern wavetable leads, pads, bass | [Free Download](https://vital.audio/) |
 | Surge XT | Free | Hybrid synthesis, deep sound design | [Free Download](https://surge-synthesizer.github.io/) |
-| Dexed | Free | DX7 FM patches, 80s electric pianos | [Free Download](https://www.pluginboutique.com/search?search_query=Dexed%20FM%20synth&a_aid=69cb95abe1763) |
+| Dexed | Free | DX7 FM patches, 80s electric pianos | [Free Download](https://asb2m10.github.io/dexed/) |
 | OB-Xd | Free | Synthwave pads, Oberheim analog leads | [Free Download](https://www.discodsp.com/obxd/) |
 | TAL-NoiseMaker | Free | Beginner-friendly analog sounds | [Free Download](https://tal-software.com/products/tal-noisemaker) |
 | Odin2 | Free | Advanced semi-modular synthesis | [Free Download](https://www.pluginboutique.com/search?search_query=Odin2&a_aid=69cb95abe1763) |
-| Synth1 | Free | Classic subtractive with 100k+ presets | [Free Download](https://www.pluginboutique.com/search?search_query=Synth1&a_aid=69cb95abe1763) |
+| Synth1 | Free | Classic subtractive with 100k+ presets | Free Download |
 
 ## Introduction
 

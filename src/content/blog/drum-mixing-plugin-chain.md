@@ -25,10 +25,10 @@ draft: false
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 3 | $199 | Surgical EQ & frequency cleanup | [Official Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | Waves SSL G-Master Buss Compressor | $29.99 | Drum bus glue & punch | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| Transient Master (NI) | $99 | Fast attack/sustain shaping | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Transient%20Master&a_aid=69cb95abe1763) |
+| Transient Master (NI) | $99 | Fast attack/sustain shaping | [Official Site](https://www.native-instruments.com/en/products/komplete/effects/transient-master/) |
 | SPL Transient Designer | $99 | Analog-modeled transient control | [Official Site](https://spl.audio/en/spl-transient-designer-plus/) |
-| bx_boom! | $29.99 | Kick body & sub reinforcement | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Brainworx%20bx_boom%20drum%20enhancer&a_aid=69cb95abe1763) |
-| OTT (Xfer) | Free | Multiband upward compression & glue | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=OTT%20Xfer%20compressor&a_aid=69cb95abe1763) |
+| bx_boom! | $29.99 | Kick body & sub reinforcement | [Official Site](https://www.plugin-alliance.com/en/products/bx_boom.html) |
+| OTT (Xfer) | Free | Multiband upward compression & glue | [Official Site](https://xferrecords.com/freeware) |
 
 ---
 

@@ -26,7 +26,7 @@ draft: false
 | Sonatina Symphonic Orchestra | Free | Complete orchestral sketching, notation workflows | [Official Site](https://sfzinstruments.github.io/orchestra/sso/) |
 | Virtual Playing Orchestra | Free | Notation-integrated mock-ups, solo and ensemble | [Official Site](http://virtualplaying.com/virtual-playing-orchestra/) |
 | VCSL | Free | Broad orchestral palette beyond standard strings | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=VCSL&a_aid=69cb95abe1763) |
-| DSK Dynamic Strings | Free | Instant string beds, lightweight, no setup | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=DSK%20Dynamic%20Strings&a_aid=69cb95abe1763) |
+| DSK Dynamic Strings | Free | Instant string beds, lightweight, no setup | Plugin Boutique |
 
 ---
 
@@ -167,7 +167,7 @@ DSK Dynamic Strings is a standalone free VST that delivers basic string tones wi
 
 **Best for:** Windows producers who want string sounds in a project immediately, with no configuration overhead.
 
-[→ Get DSK Dynamic Strings Free](https://www.pluginboutique.com/search?search_query=DSK%20Dynamic%20Strings&a_aid=69cb95abe1763)
+→ Get DSK Dynamic Strings Free
 
 ---
 

@@ -25,9 +25,9 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Serum | ~$189 | Industry-standard wavetable, EDM, bass music | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Serum%20Xfer%20Records&a_aid=69cb95abe1763) |
-| Vital | Free / Paid tiers | Beginners, advanced sound design, budget-conscious producers | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Vital%20synth&a_aid=69cb95abe1763) |
-| Phase Plant | ~$99+ | Modular power users, hybrid synthesis | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Phase%20Plant%20kilohearts&a_aid=69cb95abe1763) |
+| Serum | ~$189 | Industry-standard wavetable, EDM, bass music | [Official Site](https://xferrecords.com/products/serum) |
+| Vital | Free / Paid tiers | Beginners, advanced sound design, budget-conscious producers | [Official Site](https://vital.audio/) |
+| Phase Plant | ~$99+ | Modular power users, hybrid synthesis | [Official Site](https://kilohearts.com/products/phase_plant) |
 
 ---
 

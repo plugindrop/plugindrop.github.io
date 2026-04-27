@@ -28,10 +28,10 @@ draft: false
 |--------|-------|----------|--------|
 | Waves Tune Real-Time | $49 | Low-latency pitch correction | [Official Site](https://www.waves.com/plugins/waves-tune-real-time) |
 | FabFilter Pro-Q 3 | €179 | Surgical & creative EQ | [Official Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| Waves Sibilance | $29 | Spectral de-essing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20Sibilance%20de-esser&a_aid=69cb95abe1763) |
+| Waves Sibilance | $29 | Spectral de-essing | [Official Site](https://www.waves.com/plugins/sibilance) |
 | FabFilter Pro-C 2 | €149 | Transparent & character compression | [Official Site](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
 | iZotope Nectar 4 | $249 | All-in-one AI vocal suite | [Official Site](https://www.izotope.com/en/products/nectar.html) |
-| Valhalla Supermassive | Free | Lush vocal reverb & delay | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive%20reverb&a_aid=69cb95abe1763) |
+| Valhalla Supermassive | Free | Lush vocal reverb & delay | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 
 ---
 
@@ -110,7 +110,7 @@ Waves Sibilance uses spectral shaping rather than traditional band-based detecti
 
 **Best for:** Any vocal that needs de-essing without the lispy, over-processed artifacts that older detection designs produce.
 
-[→ Search Waves Sibilance on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%2520Sibilance&a_aid=69cb95abe1763)
+[→ Search Waves Sibilance](https://www.waves.com/plugins/sibilance)
 
 
 ---
@@ -213,7 +213,7 @@ Once your core chain is locked in, these bundles and premium options offer the n
 
 
 
-[→ Search Waves Vocal Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%2520Vocal%2520Bundle&a_aid=69cb95abe1763)
+[→ Search Waves Vocal Bundle](https://www.waves.com/bundles/vocal)
 ### FabFilter Total Bundle — Every FabFilter plugin, one investment
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/vfM6F7pRmog" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -233,7 +233,7 @@ Once your core chain is locked in, these bundles and premium options offer the n
 |--------|-------|------|------------|-----|
 | Waves Tune Real-Time | $49 | Pitch Correction | Low-latency, natural tuning, simple UI | [Buy](https://www.waves.com/plugins/waves-tune-real-time) |
 | FabFilter Pro-Q 3 | €179 | EQ | Dynamic EQ, M/S per band, zero-latency mode | [Buy](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| Waves Sibilance | $29 | De-esser | Spectral detection, invisible results | [Buy](https://www.pluginboutique.com/search?search_query=Waves%20Sibilance%20de-esser&a_aid=69cb95abe1763) |
+| Waves Sibilance | $29 | De-esser | Spectral detection, invisible results | [Buy](https://www.waves.com/plugins/sibilance) |
 | FabFilter Pro-C 2 | €149 | Compressor | 8 compression styles, vocal mode | [Buy](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
 | iZotope Nectar 4 | $249 | Full Vocal Suite | AI assistant, Unmask, all-in-one | [Buy](https://www.izotope.com/en/products/nectar.html) |
 | Valhalla Supermassive | Free | Reverb/Delay | Lush Valhalla algorithms, completely free | [Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |

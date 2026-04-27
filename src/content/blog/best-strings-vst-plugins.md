@@ -59,7 +59,7 @@ It runs in Spitfire's own BBCSO player (free download), not Kontakt. Installatio
 
 **Best for:** Any producer or composer starting out who needs professional-quality strings at zero cost.
 
-[→ Search BBCSO Discover on Plugin Boutique](https://www.pluginboutique.com/search?search_query=BBCSO%2520Discover&a_aid=69cb95abe1763)
+[→ Search BBCSO Discover](https://www.spitfireaudio.com/en-us/products/bbc-symphony-orchestra-discover)
 
 ---
 

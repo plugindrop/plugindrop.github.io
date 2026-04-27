@@ -26,11 +26,11 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| TDR Kotelnikov | Free | Mastering, mix bus, transparent glue | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Kotelnikov%20compressor&a_aid=69cb95abe1763) |
-| Molot GE | Free | Vintage character, drums, buses | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Molot%20GE%20compressor&a_aid=69cb95abe1763) |
-| DC1A | Free | Vocals, fast workflow, always musical | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Klanghelm%20DC1A%20compressor&a_aid=69cb95abe1763) |
+| TDR Kotelnikov | Free | Mastering, mix bus, transparent glue | [Official Site](https://www.tokyodawn.net/tdr-kotelnikov/) |
+| Molot GE | Free | Vintage character, drums, buses | [Official Site](https://vladgsound.wordpress.com/plugins/molot/) |
+| DC1A | Free | Vocals, fast workflow, always musical | [Official Site](https://klanghelm.com/contents/products/DC1A.php) |
 | Rough Rider 3 | Free | Drums, aggressive parallel punch | [Official Site](https://www.audiodamage.com/pages/free-and-legacy) |
-| OTT | Free | EDM synths, multiband upward compression | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=OTT%20Xfer%20compressor&a_aid=69cb95abe1763) |
+| OTT | Free | EDM synths, multiband upward compression | [Official Site](https://xferrecords.com/freeware) |
 | Klanghelm MJUC jr. | Free | Vintage tube warmth, subtle saturation | [Free Download](https://klanghelm.com/contents/products/MJUC.php) |
 | Density mkIII | Free | Mix bus analog glue (Windows) | [Free Download](https://varietyofsound.wordpress.com/) |
 

@@ -23,10 +23,10 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | Wavetable synth leads & pads | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Vital%20synth&a_aid=69cb95abe1763) |
+| Vital | Free | Wavetable synth leads & pads | [Official Site](https://vital.audio/) |
 | Surge XT | Free | Complex sound design & FM | [Official Site](https://surge-synthesizer.github.io/) |
-| TDR Nova | Free | Dynamic EQ on any mix bus | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova%20equalizer&a_aid=69cb95abe1763) |
-| Valhalla Supermassive | Free | Lush reverb & ambient textures | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive%20reverb&a_aid=69cb95abe1763) |
+| TDR Nova | Free | Dynamic EQ on any mix bus | [Official Site](https://www.tokyodawn.net/tdr-nova/) |
+| Valhalla Supermassive | Free | Lush reverb & ambient textures | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Rough Rider 3 | Free | Punchy drum & bass compression | [Official Site](https://www.audiodamage.com/pages/free-and-legacy) |
 | Spitfire LABS | Free | Cinematic & orchestral textures | [Free Download](https://labs.spitfireaudio.com/) |
 | OB-Xd | Free | Warm analog polysynth sounds | [Free Download](https://www.discodsp.com/obxd/) |
@@ -361,22 +361,22 @@ If the free toolkit is serving you well and you're ready to invest, these three 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital | Free | Wavetable Synth | Spectral warping, visual modulation, built-in FX | [Get It](https://www.pluginboutique.com/search?search_query=Vital%20synth&a_aid=69cb95abe1763) |
+| Vital | Free | Wavetable Synth | Spectral warping, visual modulation, built-in FX | [Get It](https://vital.audio/) |
 | Surge XT | Free | Multi-algorithm Synth | 12 oscillator modes, CLAP support, open source | [Get It](https://surge-synthesizer.github.io/) |
 | TAL-NoiseMaker | Free | Virtual Analog Synth | Lightweight, fast, warm analog sound | [Get It](https://tal-software.com/products/tal-noisemaker) |
 | OB-Xd | Free | Analog Poly Emulation | Oberheim-style, voice drift, lush chords | [Get It](https://www.discodsp.com/obxd/) |
 | Dexed | Free | FM Synthesizer | DX7 compatibility, .syx patch support | [Get It](https://github.com/asb2m10/dexed/releases) |
 | Spitfire LABS | Free | Sample Instrument | 50+ instruments, studio-quality samples | [Get It](https://labs.spitfireaudio.com/) |
-| TDR Nova | Free | Dynamic EQ | Per-band dynamics, transparent processing | [Get It](https://www.pluginboutique.com/search?search_query=TDR%20Nova%20equalizer&a_aid=69cb95abe1763) |
+| TDR Nova | Free | Dynamic EQ | Per-band dynamics, transparent processing | [Get It](https://www.tokyodawn.net/tdr-nova/) |
 | Voxengo SPAN | Free | Spectrum Analyzer | Real-time FFT, configurable display | [Get It](https://www.voxengo.com/product/span/) |
 | Rough Rider 3 | Free | Character Compressor | Blend control, punchy, energetic | [Get It](https://www.audiodamage.com/pages/free-and-legacy) |
 | TDR Kotelnikov | Free | Bus Compressor | Mastering-grade, transparent, program-dependent | [Get It](https://www.tokyodawn.net/tdr-kotelnikov/) |
-| Valhalla Supermassive | Free | Reverb / Delay | 23 algorithms, ambient to tight room | [Get It](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive%20reverb&a_aid=69cb95abe1763) |
+| Valhalla Supermassive | Free | Reverb / Delay | 23 algorithms, ambient to tight room | [Get It](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Dragonfly Reverb | Free | Multi-type Reverb | Room, Hall, Plate, Early Reflections | [Get It](https://michaelwillis.github.io/dragonfly-reverb/) |
 | Ozone Imager 2 | Free | Stereo Processor | Lissajous meter, smooth width control | [Get It](https://www.izotope.com/en/products/ozone-imager.html) |
 | MFreeFXBundle | Free | FX Bundle (37 plugins) | Comprehensive, one install, consistent UI | [Get It](https://www.meldaproduction.com/MFreeFXBundle) |
 | CHOW Tape Model | Free | Tape Saturation | Physical modeling, harmonic warmth, CLAP support | [Get It](https://chowdsp.com/products.html) |
-| Serum | ~$189 | Wavetable Synth | Industry preset ecosystem, visual wavetable editor | [Get It](https://www.pluginboutique.com/search?search_query=Serum%20Xfer%20Records&a_aid=69cb95abe1763) |
+| Serum | ~$189 | Wavetable Synth | Industry preset ecosystem, visual wavetable editor | [Get It](https://xferrecords.com/products/serum) |
 | Harmor | ~$99 | Additive / Resynthesis | Image resynthesis, deep FL Studio integration | [Get It](https://www.image-line.com/plugins/Synths/Harmor/) |
 | Sytrus | ~$99 | FM Synth | 6-operator FM, native FL workflow, built-in FX | [Get It](https://www.image-line.com/plugins/Synths/Sytrus/) |
 
@@ -415,7 +415,7 @@ All 15 free plugins in this list permit commercial use. Open-source tools like S
 
 The 15 free VST plugins in this guide represent some of the most powerful tools available to FL Studio producers in 2026 — and not a single one costs a cent. Start with Vital for synthesis, TDR Nova for EQ, and Valhalla Supermassive for reverb, and you'll have a production foundation that covers any genre at a professional level.
 
-When you're ready to invest, [Serum on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Serum%20Xfer%20Records&a_aid=69cb95abe1763) remains the most versatile upgrade — its preset ecosystem and wavetable editor pay for themselves the moment you start working commercially.
+When you're ready to invest, [Serum](https://xferrecords.com/products/serum) remains the most versatile upgrade — its preset ecosystem and wavetable editor pay for themselves the moment you start working commercially.
 
 ---
 

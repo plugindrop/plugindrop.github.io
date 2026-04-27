@@ -212,7 +212,7 @@ Oril River has maintained consistent presence in KVR Audio's "freeware gems" dis
 
 **Best for:** General mixing, producers who want a reliable second free algorithmic reverb alongside Supermassive.
 
-[→ Search Oril River on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Oril%2520River&a_aid=69cb95abe1763)
+→ Search Oril River on Plugin Boutique
 
 ---
 

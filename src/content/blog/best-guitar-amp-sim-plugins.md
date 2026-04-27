@@ -26,7 +26,7 @@ draft: false
 | AmpliTube 5 | Free–$299 | Largest model library | [Official Site](https://www.ikmultimedia.com/products/amplitube5/) |
 | Line 6 Helix Native | $399 | Pro live/studio crossover | [Official Site](https://line6.com/helix/helixnative.html) |
 | S-Gear | ~$109 | Boutique clean & crunch | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=S-Gear&a_aid=69cb95abe1763) |
-| LePou Amp Sim Suite | Free | Classic high-gain on zero budget | [Free Download](https://www.pluginboutique.com/search?search_query=LePou%20Amp%20Sim%20Suite&a_aid=69cb95abe1763) |
+| LePou Amp Sim Suite | Free | Classic high-gain on zero budget | Free Download |
 | Ignite Amps Emissary | Free | Best free metal amp sim | Free |
 
 ---
@@ -153,7 +153,7 @@ LePou's collection of free amp sims — Le456 (5150-inspired), HyBrit (Marshall 
 
 **Best for:** Windows producers who want classic metal and hard rock amp colors at no cost and are comfortable managing separate IR files.
 
-[→ Download LePou Amp Sim Suite Free](https://www.pluginboutique.com/search?search_query=LePou%20Amp%20Sim%20Suite&a_aid=69cb95abe1763)
+→ Download LePou Amp Sim Suite Free
 
 ---
 
@@ -170,7 +170,7 @@ Guitar Rig 7 Player is Native Instruments' free tier of the Guitar Rig 7 suite, 
 
 **Best for:** Producers new to amp sims who want a functional free plugin with a well-supported paid upgrade path and smooth NI ecosystem integration.
 
-[→ Search Guitar Rig 7 Player on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Guitar%2520Rig%25207%2520Player&a_aid=69cb95abe1763)
+[→ Search Guitar Rig 7 Player](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-7-player/)
 
 ---
 
@@ -189,7 +189,7 @@ The gap versus Neural DSP Archetype on tone realism is real and audible under ca
 
 **Best for:** Metal and hard rock producers who need aggressive, usable high-gain tones at zero cost.
 
-[→ Search Ignite Amps Emissary on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Ignite%2520Amps%2520Emissary&a_aid=69cb95abe1763)
+→ Search Ignite Amps Emissary on Plugin Boutique
 
 ---
 
@@ -206,7 +206,7 @@ Mercuriall Audio's Reaxis directly targets the character of the Mesa Boogie Dual
 
 **Best for:** Windows users who specifically want Mesa Rectifier-style saturation and compression in a free plugin.
 
-[→ Search Mercuriall Audio Reaxis on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Mercuriall%2520Audio%2520Reaxis&a_aid=69cb95abe1763)
+[→ Search Mercuriall Audio Reaxis](https://mercuriall.com/cms/details_reaxis)
 
 ---
 
@@ -223,7 +223,7 @@ TSE Audio X50 v2 targets the EVH 5150 III, and metal community threads on KVR an
 
 **Best for:** Producers targeting EVH 5150 III tones specifically, particularly for boosted modern metal rhythm tracking.
 
-[→ Search TSE Audio X50 v2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=TSE%2520Audio%2520X50%2520v2&a_aid=69cb95abe1763)
+[→ Search TSE Audio X50 v2](https://www.tseaudio.com/software/tseX50)
 
 ---
 
