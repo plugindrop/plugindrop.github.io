@@ -11,13 +11,12 @@ xText: "New guide: Serum vs Vital: Which Wavetable Synth Should You Buy in 2026.
 draft: false
 ---
 
-
 **TL;DR:** Vital is the smarter pick for most producers in 2026 — its free tier is genuinely powerful, and its spectral morphing modulation gives it an edge in sound design depth. Serum remains the industry-standard choice if you need flawless preset compatibility, professional-grade CPU efficiency, and the widest third-party patch ecosystem on the market.
 
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/TmvzdoEECe8" title="Serum vs Vital: Which Wavetable Synth Should You Buy in 2026? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum 2 by Xfer Records — No talking sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -47,9 +46,7 @@ The heart of any wavetable synth is how it generates, morphs, and sculpts sound 
 
 ### Serum — The gold standard for pristine wavetable output
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/TmvzdoEECe8" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/TmvzdoEECe8" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum 2 by Xfer Records — No talking sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records (Steve Duda)
 - **Price:** ~$189 (one-time) or via Splice subscription
@@ -60,8 +57,7 @@ Serum's dual oscillators use a high-quality anti-aliasing algorithm that produce
 
 **Best for:** Producers who demand studio-grade clarity, particularly in EDM, future bass, synthwave, and cinematic sound design.
 
-[→ Get Serum (Official Site)](https://xferrecords.com/products/serum)
-
+[→ Get Serum on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Serum%20Xfer%20Records&a_aid=69cb95abe1763)
 
 ---
 
@@ -78,6 +74,7 @@ Vital introduces spectral morphing as a core oscillator feature — it can blend
 
 **Best for:** Sound designers who want more modulation sources out of the box, Linux users, and producers who can't justify a $189 price tag yet.
 
+[→ Get Vital on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Vital%20synth&a_aid=69cb95abe1763)
 [→ Download Vital Free](https://vital.audio/)
 
 **Winner: Tie.** Serum wins on output fidelity and import tools; Vital wins on spectral morphing depth and oscillator count.
@@ -174,9 +171,8 @@ Once you've outgrown the standard wavetable paradigm, these tools push synthesis
 - **Price:** ~$99+ (as part of Kilohearts Toolbox or standalone)
 - **Why upgrade:** Serum and Vital are fixed-architecture instruments. Phase Plant is fully modular — you combine wavetable, granular, and additive oscillators with custom signal chains. If you find yourself wishing Serum let you stack oscillator types or route signals in non-standard ways, Phase Plant removes every constraint.
 
+[→ Get Phase Plant on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Phase%20Plant%20kilohearts&a_aid=69cb95abe1763)
 
-
-[→ Get Phase Plant (Official Site)](https://kilohearts.com/products/phase_plant)
 ### Serum (Full License) — Upgrade from the Splice subscription
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/BOI0KO629TI" title="Serum (Full License) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -185,11 +181,10 @@ Once you've outgrown the standard wavetable paradigm, these tools push synthesis
 - **Price:** ~$189 one-time
 - **Why upgrade:** If you've been using Serum via Splice and want to own it outright — plus stop the monthly fee — buying the full license makes financial sense by month 10. Ownership also future-proofs you against subscription model changes.
 
+[→ Get Serum on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Serum%20Xfer%20Records&a_aid=69cb95abe1763)
 
 ---
 
-
-[→ Get Serum (Official Site)](https://xferrecords.com/products/serum)
 ## Full Comparison Table
 
 | Plugin | Price | Type | Highlights | CTA |
