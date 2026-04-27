@@ -7,7 +7,7 @@ affiliate: "https://www.pluginboutique.com/manufacturers/24-Toontrack?a_aid=69cb
 heroImage: "/images/trip-hop-ezkeys-midi-d2a3d3.jpg"
 score: 4.50
 xText: "trip hop ezkeys midi pack just dropped. the voicing work is solid, patterns dialed in for dark cinematic beats. if you're building downtempo and want to skip the chord programming, this saves serious time."
-draft: true
+draft: false
 ---
 **TL;DR:** Toontrack's Trip Hop EZkeys MIDI pack delivers authentic downtempo keyboard patterns built for the EZkeys workflow — moody chord progressions, cinematic voicings, and slow-groove phrases ready to drop straight into your sessions. Verify current pricing on the product page. [Browse it now at Plugin Boutique.](https://www.pluginboutique.com/manufacturers/24-Toontrack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-ezkeys-midi-d2a3d3)
 

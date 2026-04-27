@@ -7,7 +7,7 @@ affiliate: "https://www.thomann.de/intl/prod_AR_642182.html?offid=1&affid=5792&u
 heroImage: "/images/arturia-augmented-persia-the-sound-of-the-middle-east-reimag.jpg"
 score: 4.07
 xText: "caught the new arturia augmented persia and honestly the middle eastern sound design is unlike anything else out there rn. this is the move"
-draft: true
+draft: false
 ---
 **TL;DR:** Arturia Augmented PERSIA brings the sonic palette of the Middle East into a modern hybrid synthesis engine — a genuinely rare instrument category with few direct rivals. Pricing isn't listed here, so [verify the current deal price at Thomann](https://www.thomann.de/intl/prod_AR_642182.html?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-augmented-persia-the-sound-of-the-middle-east-reimag) before it changes.
 
