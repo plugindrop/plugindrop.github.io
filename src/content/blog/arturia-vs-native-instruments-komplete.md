@@ -23,11 +23,11 @@ draft: false
 
 | Bundle | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Arturia V Collection 10 | ~$499 (sale ~$199–$299) | Vintage synths, electric pianos, organs | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| NI Komplete 14 Select | ~$99–$149 | Budget starter, NI hardware owners | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| NI Komplete 14 Standard | ~$599 | All-around production toolkit | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| NI Komplete 14 Ultimate | ~$999 | Cinematic, orchestral, maximum library depth | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| V Collection 10 + Komplete Select | ~$300–$400 combined | Best practical balance for most producers | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia V Collection 10 | ~$499 (sale ~$199–$299) | Vintage synths, electric pianos, organs | Plugin Boutique |
+| NI Komplete 14 Select | ~$99–$149 | Budget starter, NI hardware owners | Plugin Boutique |
+| NI Komplete 14 Standard | ~$599 | All-around production toolkit | Plugin Boutique |
+| NI Komplete 14 Ultimate | ~$999 | Cinematic, orchestral, maximum library depth | Plugin Boutique |
+| V Collection 10 + Komplete Select | ~$300–$400 combined | Best practical balance for most producers | Plugin Boutique |
 
 ---
 
@@ -58,7 +58,7 @@ V Collection 10 contains 40+ instruments, almost all emulations of iconic vintag
 
 **Best for:** Producers whose sound palette leans on classic keyboards, vintage synths, and authentic organ/electric piano textures.
 
-[→ Get Arturia V Collection 10 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+→ Get Arturia V Collection 10 on Plugin Boutique
 
 ---
 
@@ -75,7 +75,7 @@ Komplete 14 Standard bundles over 100 instruments and effects. The anchors are K
 
 **Best for:** Producers who need a single bundle that covers synthesis, sampling, acoustic instruments, and mixing effects without buying separately.
 
-[→ Get NI Komplete 14 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+→ Get NI Komplete 14 on Plugin Boutique
 
 ---
 
@@ -131,7 +131,7 @@ Both bundles go on deep sale. V Collection 10 at $199 represents arguably more f
 - **Price:** ~$499 (watch for sales at $199–$299)
 - **Why upgrade:** The individual synths (Prophet-5 V, CS-80 V, Jup-8 V) are available separately but cost $99–$149 each. If you use more than 3–4 vintage instruments regularly, the full bundle pays for itself immediately.
 
-[→ Get Arturia V Collection 10 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+→ Get Arturia V Collection 10 on Plugin Boutique
 
 ---
 
@@ -143,7 +143,7 @@ Both bundles go on deep sale. V Collection 10 at $199 represents arguably more f
 - **Price:** ~$999 (sales at ~$499)
 - **Why upgrade:** Ultimate adds the Symphony Series orchestral libraries, Session Guitarist and Bassist expansions, and Straylight/Pharlight hybrid instruments. If cinematic, orchestral, or film scoring work is part of your output, Standard won't fully cover it.
 
-[→ Get NI Komplete 14 Ultimate on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+→ Get NI Komplete 14 Ultimate on Plugin Boutique
 
 ---
 
@@ -151,11 +151,11 @@ Both bundles go on deep sale. V Collection 10 at $199 represents arguably more f
 
 | Bundle / Tier | Price | Focus | Highlights | Get It |
 |--------|-------|------|------------|-----|
-| Arturia V Collection 10 | ~$499 (sale ~$199) | Vintage synths & keys | 40+ hardware emulations, TAE® modeling, Pigments | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| NI Komplete 14 Select | ~$99–$149 | Entry-level starter | Kontakt Player, Massive, Guitar Rig (limited) | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| NI Komplete 14 Standard | ~$599 (sale ~$299) | All-around production | Kontakt 7 full, Massive X, Reaktor 6, Guitar Rig 7 | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| NI Komplete 14 Ultimate | ~$999 (sale ~$499) | Cinematic/orchestral | Symphony Series, Session players, 100+ libraries | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| V Collection 10 + Komplete Select | ~$300–$400 combined | Practical best-of-both | Vintage keys + modern synths + sampling entry point | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia V Collection 10 | ~$499 (sale ~$199) | Vintage synths & keys | 40+ hardware emulations, TAE® modeling, Pigments | Plugin Boutique |
+| NI Komplete 14 Select | ~$99–$149 | Entry-level starter | Kontakt Player, Massive, Guitar Rig (limited) | Plugin Boutique |
+| NI Komplete 14 Standard | ~$599 (sale ~$299) | All-around production | Kontakt 7 full, Massive X, Reaktor 6, Guitar Rig 7 | Plugin Boutique |
+| NI Komplete 14 Ultimate | ~$999 (sale ~$499) | Cinematic/orchestral | Symphony Series, Session players, 100+ libraries | Plugin Boutique |
+| V Collection 10 + Komplete Select | ~$300–$400 combined | Practical best-of-both | Vintage keys + modern synths + sampling entry point | Plugin Boutique |
 
 ---
 
@@ -193,7 +193,7 @@ V Collection is generally preferred for live keyboard work — the instruments a
 
 For vintage synthesis and classic keyboard sounds, Arturia V Collection 10 is the more decisive purchase — it's focused, deep, and on sale frequently enough that the price objection rarely holds. For producers who need sampling infrastructure, acoustic instruments, guitar processing, and a broader toolkit, Native Instruments Komplete Standard earns its place. The strongest setup for most working producers is V Collection for keys and a Komplete tier for everything else — bought opportunistically during each brand's regular promotions.
 
-[→ Get Arturia V Collection 10 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) | [→ Get NI Komplete on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+→ Get Arturia V Collection 10 on Plugin Boutique | → Get NI Komplete on Plugin Boutique
 
 ---
 

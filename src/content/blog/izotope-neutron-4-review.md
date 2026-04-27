@@ -24,7 +24,7 @@ draft: false
 | iZotope Neutron 4 Standard | From $149 | AI-guided mixing for producers who self-mix | [Official Site](https://www.izotope.com/en/products/neutron.html) |
 | iZotope Neutron 4 Advanced | From $249 | Pro engineers needing Sculptor + full inter-plugin suite | [Official Site](https://www.izotope.com/en/products/neutron.html) |
 | FabFilter Pro-Q 3 | $179 | Surgical EQ precision, Dynamic EQ, spectrum grab | [Official Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| iZotope Music Production Suite | Bundle pricing | Full iZotope ecosystem (Ozone, RX, Neutron, Nectar) | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| iZotope Music Production Suite | Bundle pricing | Full iZotope ecosystem (Ozone, RX, Neutron, Nectar) | Plugin Boutique |
 
 ---
 
@@ -138,7 +138,7 @@ Third, **the price structure creates awkward decisions**. Neutron 4 Standard is 
 - **Formats:** VST3, AU, AAX
 - **Why upgrade:** Neutron 4 alone covers mixing, but Music Production Suite adds Ozone (mastering), RX (audio repair), Nectar (vocal processing), and Relay — the complete iZotope production stack. For producers who need mastering and vocal processing alongside mixing, the bundle price undercuts buying each product separately significantly.
 
-[→ Get iZotope Music Production Suite on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+→ Get iZotope Music Production Suite on Plugin Boutique
 
 ---
 
@@ -149,7 +149,7 @@ Third, **the price structure creates awkward decisions**. Neutron 4 Standard is 
 | Neutron 4 Standard | From $149 | AI Channel Strip | Track Assistant, Unmask, Dynamic EQ, Compressor | [Get It](https://www.izotope.com/en/products/neutron.html) |
 | Neutron 4 Advanced | From $249 | AI Channel Strip | All Standard features + Sculptor spectral shaping | [Get It](https://www.izotope.com/en/products/neutron.html) |
 | FabFilter Pro-Q 3 | $179 | Precision EQ | Dynamic EQ, spectrum grab, zero-latency linear phase | [Get It](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| iZotope Music Production Suite | Bundle | Full Production Suite | Neutron + Ozone + RX + Nectar + Relay | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| iZotope Music Production Suite | Bundle | Full Production Suite | Neutron + Ozone + RX + Nectar + Relay | Get It |
 
 ---
 

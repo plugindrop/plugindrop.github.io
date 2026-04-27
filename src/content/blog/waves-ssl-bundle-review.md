@@ -24,8 +24,8 @@ draft: false
 |--------|-------|----------|--------|
 | Waves SSL E-Channel | ~$29–49 (on sale) | Full channel strip processing for tracking & mixing | [Waves.com](https://www.waves.com/plugins/ssl-e-channel) |
 | Waves SSL G-Master Buss Compressor | ~$29–49 (on sale) | Mix bus glue, parallel compression, mastering | [Waves.com](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| Waves SSL 4000 Collection | Bundle pricing | Complete SSL 4000 console workflow | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| FabFilter Total Bundle | Premium bundle | Modern precision mixing & mastering suite | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Waves SSL 4000 Collection | Bundle pricing | Complete SSL 4000 console workflow | Plugin Boutique |
+| FabFilter Total Bundle | Premium bundle | Modern precision mixing & mastering suite | Plugin Boutique |
 
 ---
 
@@ -97,7 +97,7 @@ The mix knob is genuinely useful. Running the compressor at 30–50% wet allows 
 - **Price:** Bundle pricing (check current sale)
 - **Why upgrade:** The individual E-Channel and G-Bus Compressor give you the two most-used tools, but the SSL 4000 Collection adds the SSL G-Channel (the G console's distinct EQ voicing with a different character suited to smoother, more polished mixes), the SSL G-Equalizer as a standalone unit, and the SSL E-Channel in both mono and stereo configurations with additional routing flexibility. If you are building a DAW workflow around the SSL console sound from input to output, the collection removes the patchwork approach and gives you a consistent signal chain.
 
-[→ Get Waves SSL 4000 Collection on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+→ Get Waves SSL 4000 Collection on Plugin Boutique
 
 ---
 
@@ -109,7 +109,7 @@ The mix knob is genuinely useful. Running the compressor at 30–50% wet allows 
 - **Price:** Premium bundle pricing (check current price)
 - **Why upgrade:** The Waves SSL tools prioritize analog character and speed. FabFilter's Total Bundle — anchored by Pro-Q 3, Pro-C 2, and Pro-L 2 — prioritizes precision, transparency, and modern workflow features including dynamic EQ, mid/side processing, and linear-phase modes unavailable in the SSL emulations. For producers who want both worlds, the Waves SSL bundle handles the character work while FabFilter handles the surgical corrections. Together, they cover every scenario across tracking, mixing, and mastering.
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+→ Get FabFilter Total Bundle on Plugin Boutique
 
 ---
 
@@ -119,8 +119,8 @@ The mix knob is genuinely useful. Running the compressor at 30–50% wet allows 
 |--------|-------|------|------------|--------|
 | Waves SSL E-Channel | ~$29–49 (sale) | Channel Strip | 4-band parametric EQ, HPF/LPF, compressor, expander-gate, analog character | [Waves.com](https://www.waves.com/plugins/ssl-e-channel) |
 | Waves SSL G-Master Buss Compressor | ~$29–49 (sale) | Bus Compressor | Mix bus glue, parallel mix knob, program-dependent release, SSL 4000G emulation | [Waves.com](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| Waves SSL 4000 Collection | Bundle (sale) | Full Console Bundle | E-Channel + G-Channel + G-EQ, complete SSL workflow | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| FabFilter Total Bundle | Premium | Professional Suite | Pro-Q 3, Pro-C 2, Pro-L 2, dynamic EQ, linear phase, surgical precision | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Waves SSL 4000 Collection | Bundle (sale) | Full Console Bundle | E-Channel + G-Channel + G-EQ, complete SSL workflow | Plugin Boutique |
+| FabFilter Total Bundle | Premium | Professional Suite | Pro-Q 3, Pro-C 2, Pro-L 2, dynamic EQ, linear phase, surgical precision | Plugin Boutique |
 
 ---
 
