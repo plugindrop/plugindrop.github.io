@@ -3,7 +3,7 @@ title: "8Dio Pick Any 3 Choirs — $69 Deal"
 description: "8Dio's choir sale: pick any 3 from 6 cinematic choir libraries for just $69. Lacrimosa, Insolidus, Aetheria, Silka, Requiem Pro, and Liberis — all eligible."
 pubDate: "2026-04-22T23:26:55Z"
 tags: ["vst-plugin", "music-production", "kontakt", "choir"]
-affiliate: "https://www.pluginboutique.com/search?search_query=choirs+solo+vocals&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c"
+affiliate: ""
 heroImage: "/images/choirs-solo-vocals-102b4c.jpg"
 score: 4.50
 xText: "8Dio running a pick-any-3-choirs deal at $69. lacrimosa insolidus aetheria silka requiem liberis — all eligible. serious value if you do cinematic stuff"
@@ -12,7 +12,7 @@ originalPrice: "$297"
 discount: "Pick Any 3"
 draft: false
 ---
-**TL;DR:** 8Dio is running a limited-time deal — pick any 3 choir libraries from their full lineup for **$69 total**. Individual titles normally run $79–$149 each. [Browse the deal on 8Dio →](https://www.pluginboutique.com/search?search_query=choirs+solo+vocals&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c)
+**TL;DR:** 8Dio is running a limited-time deal — pick any 3 choir libraries from their full lineup for **$69 total**. Individual titles normally run $79–$149 each. Browse the deal on 8Dio →
 
 ---
 
@@ -37,7 +37,7 @@ draft: false
 
 **3 titles, $69.** That's as low as $23 per library.
 
-[→ Pick your 3 on 8Dio](https://www.pluginboutique.com/search?search_query=choirs+solo+vocals&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c)
+→ Pick your 3 on 8Dio
 
 ---
 
