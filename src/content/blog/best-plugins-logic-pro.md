@@ -319,7 +319,7 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 - **Price:** ~$899 (significant discount vs. individual purchases)
 - **Why upgrade:** Pro-Q 3 and Pro-C 2 are the entry points, but the Total Bundle adds Pro-L 2 (mastering limiter), Pro-MB (multiband compressor), Pro-DS (de-esser), Saturn 2 (multiband saturation), Timeless 3 (delay), and Volcano 3 (filter) — rounding out a full mixing and mastering toolkit from a single developer.
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763)
+[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763)
 
 ---
 

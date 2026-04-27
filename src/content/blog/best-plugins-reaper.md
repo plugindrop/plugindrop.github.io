@@ -248,7 +248,7 @@ MeldaProduction's free bundle is the most comprehensive free plugin package avai
 
 **Best for:** Producers who want comprehensive category coverage from a single install; backup processing suite
 
-[→ Search Melda MFreeFXBundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Melda%2520MFreeFXBundle&a_aid=69cb95abe1763)
+[→ Search Melda MFreeFXBundle on Plugin Boutique](https://www.meldaproduction.com/MFreeFXBundle)
 
 ---
 
@@ -281,7 +281,7 @@ FabFilter Pro-Q 3 is the EQ that r/mixthis, r/audioengineering, and KVR's mixing
 - **Price:** $899 (individual plugins available separately)
 - **Why upgrade:** Pro-Q 3 covers EQ with professional depth, but the Total Bundle adds Pro-C 2 (compressor), Pro-L 2 (limiter), Pro-R (reverb), Pro-MB (multiband compressor), Saturn 2 (multiband saturation and distortion), and the creative bundle including Timeless 3 and Volcano 3. KVR and r/audioengineering describe the full FabFilter suite as a cohesive professional workflow — the consistent GUI philosophy, cross-plugin spectrum display, and unified preset management make sessions faster to navigate than assembling a comparable toolkit from multiple developers.
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763)
+[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763)
 
 ---
 

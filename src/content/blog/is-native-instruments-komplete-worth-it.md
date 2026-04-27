@@ -22,8 +22,8 @@ draft: false
 |--------|-------|----------|--------|
 | Komplete Select | Free–$49 | First-time NI users, hardware owners | [Official Site](https://www.native-instruments.com/en/products/komplete/bundles/komplete-15-select/) |
 | Komplete 15 Standard | ~$199–$299 (sale) | All-around bedroom producer | [Official Site](https://www.native-instruments.com/en/products/komplete/bundles/komplete-15/) |
-| Komplete 15 Ultimate | ~$399–$599 (sale) | Film, TV, and game audio composers | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Komplete%2015%20Ultimate&a_aid=69cb95abe1763) |
-| Komplete 15 Collector's Edition | ~$999+ (sale) | Professional sound designers | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Komplete%2015%20Collector%27s%20Edition&a_aid=69cb95abe1763) |
+| Komplete 15 Ultimate | ~$399–$599 (sale) | Film, TV, and game audio composers | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/13187-KOMPLETE-15-Ultimate?a_aid=69cb95abe1763) |
+| Komplete 15 Collector's Edition | ~$999+ (sale) | Professional sound designers | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/13184-KOMPLETE-15-Collector-s-Edition?a_aid=69cb95abe1763) |
 | Arturia V Collection 10 | ~$299–$499 (sale) | Synthesis-first producers | [Official Site](https://www.arturia.com/products/software-instruments/v-collection/overview) |
 
 ---
@@ -99,7 +99,7 @@ The per-plugin value at Ultimate's typical sale pricing is documented extensivel
 
 **Best for:** Composers and session producers who regularly need orchestral, cinematic, or ethnically diverse instrument depth.
 
-[→ Get Komplete 15 Ultimate on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Komplete%2015%20Ultimate&a_aid=69cb95abe1763)
+[→ Get Komplete 15 Ultimate on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/13187-KOMPLETE-15-Ultimate?a_aid=69cb95abe1763)
 
 ---
 
@@ -118,7 +118,7 @@ Producer forums are broadly aligned that the Collector's Edition targets profess
 
 **Best for:** Professional composers and sound designers who need the complete NI catalog as a core daily toolset.
 
-[→ Get Komplete on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Komplete%2015%20Collector%27s%20Edition&a_aid=69cb95abe1763)
+[→ Get Komplete on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/13184-KOMPLETE-15-Collector-s-Edition?a_aid=69cb95abe1763)
 
 ---
 
@@ -132,7 +132,7 @@ Producer forums are broadly aligned that the Collector's Edition targets profess
 - **Price:** From ~$199 (Standard on sale) to $1,599+ (Collector's Edition)
 - **Why upgrade:** Komplete Select's Player-locked Kontakt libraries block access to the full third-party sample ecosystem. Upgrading to any paid tier with full Kontakt unlocks thousands of independently developed libraries — a compounding access investment that Select simply cannot replicate. The upgrade pricing NI offers to existing Select owners frequently makes the math even more favorable than a new purchase.
 
-[→ Get Native Instruments Komplete on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Komplete&a_aid=69cb95abe1763)
+[→ Get Native Instruments Komplete on Plugin Boutique](https://www.pluginboutique.com/meta_product/81-Bundles/97-Various-Category/13062-Native-Instruments-KOMPLETE-15?a_aid=69cb95abe1763)
 
 ---
 

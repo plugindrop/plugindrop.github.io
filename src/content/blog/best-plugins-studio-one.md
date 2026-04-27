@@ -277,7 +277,7 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 - **Price:** Bundle pricing (discount from individual purchase total)
 - **Why upgrade:** Pro-Q 3 alone covers EQ, but the Total Bundle adds Pro-MB (multiband dynamics), Pro-C 2 (transparent compressor), Pro-L 2 (industry-standard limiter), Pro-R 2 (algorithmic reverb), Saturn 2 (saturation and distortion), and FabFilter's creative time-based plugins — the entire FabFilter suite shares a consistent visual design language that becomes a real workflow advantage when you're working across mixing and mastering within the same session.
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763)
+[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763)
 
 ---
 

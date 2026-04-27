@@ -137,7 +137,7 @@ Unlimited lacks true peak detection and multiband processing, which separates it
 
 **Best for:** In-session mix-bus protection during production and light gain staging where CPU efficiency matters.
 
-[→ Search Unlimited on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Unlimited&a_aid=69cb95abe1763)
+→ Search Unlimited on Plugin Boutique
 
 ---
 
@@ -156,7 +156,7 @@ The primary advantage MLimiter offers over standalone free limiters is workflow 
 
 **Best for:** Producers already using the MFreeFXBundle who want a consistent Melda workflow through their mastering chain.
 
-[→ Search MLimiter on Plugin Boutique](https://www.pluginboutique.com/search?search_query=MLimiter&a_aid=69cb95abe1763)
+[→ Search MLimiter on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/1103-MLimiterX?a_aid=69cb95abe1763)
 
 ---
 

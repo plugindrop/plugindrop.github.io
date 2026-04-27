@@ -24,7 +24,7 @@ draft: false
 |--------|-------|----------|--------|
 | Spitfire BBC Symphony Orchestra | ~$449 | Full orchestral scoring, film and TV | [Official Site](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra) |
 | EastWest Hollywood Strings | Subscription | Multi-mic Hollywood depth | [Official Site](https://www.soundsonline.com/orchestral/hollywood-strings) |
-| Cinematic Studio Strings | ~$149 | Legato-focused cinematic writing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Cinematic%20Studio%20Strings&a_aid=69cb95abe1763) |
+| Cinematic Studio Strings | ~$149 | Legato-focused cinematic writing | [Plugin Boutique](https://cinematicstudioseriesvst.com/) |
 | Orchestral Tools Berlin Strings | Modular | Expressive European strings | [Official Site](https://www.orchestraltools.com/berlin-strings) |
 | BBCSO Discover | Free | Best free orchestral starting point | Free from Spitfire Audio |
 | Session Strings Pro 2 | ~$149 | Pop, soul, and contemporary production | [Official Site](https://www.native-instruments.com/en/products/komplete/cinematic/session-strings-pro-2/) |
@@ -114,7 +114,7 @@ Cinematic Studio Strings requires the full paid version of Kontakt — not the f
 
 **Best for:** Film and media composers who prioritize legato performance quality above all else at the sub-$200 price point.
 
-[→ Get Cinematic Studio Strings on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Cinematic%20Studio%20Strings&a_aid=69cb95abe1763)
+[→ Get Cinematic Studio Strings on Plugin Boutique](https://cinematicstudioseriesvst.com/)
 
 🎬 [Watch the official demo](https://www.youtube.com/watch?v=uxmE1SSqGJk)
 

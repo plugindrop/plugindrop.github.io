@@ -27,7 +27,7 @@ draft: false
 | Waves IR-L Convolution Reverb | Varies | Cabinet IR loading & room ambience | [Official Site](https://www.waves.com/plugins/ir-l) |
 | FabFilter Pro-Q 3 | $179 | Surgical EQ with dynamic EQ per band | [FabFilter](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | OTT (Xfer Records) | Free | Multiband dynamics & mid-range density | [Free Download](https://xferrecords.com/freeware) |
-| FabFilter Total Bundle | ~$899 | Complete professional production suite | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
+| FabFilter Total Bundle | ~$899 | Complete professional production suite | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
 
 ---
 
@@ -153,7 +153,7 @@ OTT is genuinely free with no paid upgrade path for this specific plugin. Xfer R
 - **Price:** ~$899
 - **Why upgrade:** Pro-Q 3 handles EQ, but a complete guitar production workflow also demands compression, limiting, saturation, and multiband processing. The Total Bundle includes Pro-C 2, Pro-L 2, Pro-MB, Saturn 2, and FabFilter's full reverb and delay suite — replacing multiple third-party tools with a consistently designed ecosystem. Community consensus on r/audioengineering is that the Total Bundle is the most cost-effective way to own the complete FabFilter suite, given the price of individual plugins purchased separately.
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763)
+[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763)
 
 ---
 
@@ -161,11 +161,11 @@ OTT is genuinely free with no paid upgrade path for this specific plugin. Xfer R
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Neural DSP Archetype | From $99 | Amp Simulation | Neural network modeling, full built-in cab sim, 14-day free trial | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
-| Waves IR-L Convolution Reverb | Varies | Convolution Reverb / IR Loader | Third-party IR support, mono/stereo/true stereo, CPU-efficient | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
+| Neural DSP Archetype | From $99 | Amp Simulation | Neural network modeling, full built-in cab sim, 14-day free trial | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
+| Waves IR-L Convolution Reverb | Varies | Convolution Reverb / IR Loader | Third-party IR support, mono/stereo/true stereo, CPU-efficient | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
 | FabFilter Pro-Q 3 | $179 | Parametric EQ | 24 bands, dynamic EQ per band, mid/side processing, EQ match | [FabFilter](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | OTT (Xfer Records) | Free | Multiband Compressor | Upward/downward compression, three bands, Depth control | [Free Download](https://xferrecords.com/freeware) |
-| FabFilter Total Bundle | ~$899 | Full Plugin Suite | Pro-Q 3, Pro-C 2, Pro-L 2, Pro-MB, Saturn 2 + reverb/delay | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
+| FabFilter Total Bundle | ~$899 | Full Plugin Suite | Pro-Q 3, Pro-C 2, Pro-L 2, Pro-MB, Saturn 2 + reverb/delay | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
 
 ---
 
@@ -212,7 +212,7 @@ DI input → Amp Sim (Neural DSP Archetype) → Cabinet IR if substituting nativ
 
 Neural DSP Archetype does the heaviest lifting in this chain — hardware-accurate amp and cab simulation backed by consistent community consensus across guitar production forums, with a free trial that removes the guesswork from buying. FabFilter Pro-Q 3 gives you the surgical precision to shape that tone for the mix, OTT adds density at zero cost, and Waves IR-L covers the cab-loading and room-ambience gap when your workflow needs it. Start with the Neural DSP Archetype trial, build the chain around it, and upgrade to the FabFilter Total Bundle when the production demands a complete environment.
 
-[→ Get Neural DSP Archetype on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763)
+[→ Get Neural DSP Archetype on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763)
 
 ---
 

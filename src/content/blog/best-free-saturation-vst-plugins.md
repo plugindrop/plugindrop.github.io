@@ -28,7 +28,7 @@ draft: false
 | Tape Cassette 2 | Free | Lo-fi cassette character | [Free Download](https://caelum-audio.com) |
 | Chow Tape Model | Free | Detailed reel-to-reel tape emulation | [Free Download](https://github.com/jatinchowdhury18/AnalogTapeModel) |
 | Caramel | Free | Solid saturation in MeldaProduction's free bundle | [Free Download](https://www.meldaproduction.com/) |
-| Cyanide 2 | Free | Aggressive digital distortion and grit | [Free Download](https://www.pluginboutique.com/search?search_query=Cyanide%202&a_aid=69cb95abe1763) |
+| Cyanide 2 | Free | Aggressive digital distortion and grit | Free Download |
 
 ---
 
@@ -186,7 +186,7 @@ Cyanide 2 applies digital distortion and overdrive with a focus on aggressive, c
 
 **Best for:** Synth bass distortion, drum distortion, sound design, and any context where grit and edge are the goal rather than warmth.
 
-[→ Download Cyanide 2 Free](https://www.pluginboutique.com/search?search_query=Cyanide%202&a_aid=69cb95abe1763)
+→ Download Cyanide 2 Free
 
 ---
 

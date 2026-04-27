@@ -165,7 +165,7 @@ Plate strips away the multi-mode complexity of full reverb suites and focuses on
 
 **Best for:** Vocals, snares, keyboards — any source benefiting from classic studio plate density.
 
-[→ Search Plate on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Plate&a_aid=69cb95abe1763)
+→ Search Plate on Plugin Boutique
 
 
 ---
@@ -257,7 +257,7 @@ MeldaProduction's free bundle includes MReverbMB, a multiband reverb with per-fr
 
 **Best for:** Advanced mix engineers, complex multiband reverb tasks, precise frequency-domain reverb control.
 
-[→ Search MReverbMB on Plugin Boutique](https://www.pluginboutique.com/search?search_query=MReverbMB&a_aid=69cb95abe1763)
+[→ Search MReverbMB on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/108-MReverbMB?a_aid=69cb95abe1763)
 
 
 ---

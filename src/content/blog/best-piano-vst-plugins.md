@@ -159,7 +159,7 @@ The Ravenscroft 275 is built from an extensively recorded Ravenscroft 275 concer
 
 **Best for:** Producers who want sample realism without Keyscape's price or Pianoteq's modeling learning curve.
 
-[→ Get Ravenscroft 275 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Ravenscroft%20275&a_aid=69cb95abe1763)
+[→ Get Ravenscroft 275 on Plugin Boutique](https://www.vi-labs.com/ravenscroft-275)
 
 ---
 

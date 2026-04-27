@@ -76,7 +76,7 @@ Cytomic The Glue is the compressor that Ableton licensed from developer Andrew S
 
 **Best for:** Ableton users seeking a step beyond Live's native Glue Compressor, or any producer who prioritizes analog circuit accuracy in their SSL bus emulation.
 
-[→ Search Cytomic The Glue on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Cytomic%2520The%2520Glue&a_aid=69cb95abe1763)
+[→ Search Cytomic The Glue on Plugin Boutique](https://cytomic.com/glue)
 
 Available directly at cytomic.com.
 

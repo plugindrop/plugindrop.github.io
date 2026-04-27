@@ -28,7 +28,7 @@ draft: false
 | Heavyocity Damage 2 | ~$149 | Cinematic hybrid percussion | [Official Site](https://heavyocity.com/product/damage-2/) |
 | ProjectSAM Symphobia 1 | ~$199 | Ensemble cinematic scoring | [Official Site](https://projectsam.com/libraries/symphobia/) |
 | Spitfire Albion ONE | ~$399 | Full orchestral palette in one library | [Official Site](https://www.spitfireaudio.com/en-us/products/albion-one) |
-| Native Instruments Komplete | ~$599 | Full Kontakt license + massive bundle | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Komplete&a_aid=69cb95abe1763) |
+| Native Instruments Komplete | ~$599 | Full Kontakt license + massive bundle | [Plugin Boutique](https://www.pluginboutique.com/meta_product/81-Bundles/97-Various-Category/13062-Native-Instruments-KOMPLETE-15?a_aid=69cb95abe1763) |
 
 ---
 
@@ -197,7 +197,7 @@ Symphobia 1 has maintained its position in film scoring community recommendation
 
 **Best for:** Scoring producers and sound designers who want experimental source material that doesn't sound like standard library output.
 
-[→ Get 8Dio Libraries on Plugin Boutique](https://www.pluginboutique.com/search?search_query=8Dio%20Hybrid%20Tools%203&a_aid=69cb95abe1763)
+[→ Get 8Dio Libraries on Plugin Boutique](https://8dio.com/products/hybrid-tools-3)
 
 ---
 
@@ -214,7 +214,7 @@ AFFLATUS Chapter 1 is one of the more argued-about libraries in Vi-Control threa
 
 **Best for:** Composers who need an expressive, full-featured choir library without investing at the $400+ tier.
 
-[→ Get AFFLATUS Chapter 1 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Strezov%20Sampling%20AFFLATUS%20Chapter%201&a_aid=69cb95abe1763)
+[→ Get AFFLATUS Chapter 1 on Plugin Boutique](https://www.strezovsampling.com/afflatus-chapter-i/)
 
 ---
 
@@ -281,7 +281,7 @@ Albion ONE is the library that r/WeAreTheMusicMakers surfaces first in every "wh
 - **Price:** ~$599 (Standard); higher for Ultimate and Ultimate Collector editions
 - **Why upgrade:** Komplete Start's Player license restricts you to NI-authorized content only. The full Komplete bundle includes a complete Kontakt license — which is the key that unlocks the entire third-party library market, including 8Dio, Heavyocity, ProjectSAM, Cinesamples, and thousands of other Kontakt-native libraries. The bundle's per-instrument cost is substantially lower than individual pricing; the Kontakt license alone justifies much of that investment for any producer who intends to grow their library collection beyond the NI ecosystem.
 
-[→ Get Native Instruments Komplete on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Komplete&a_aid=69cb95abe1763)
+[→ Get Native Instruments Komplete on Plugin Boutique](https://www.pluginboutique.com/meta_product/81-Bundles/97-Various-Category/13062-Native-Instruments-KOMPLETE-15?a_aid=69cb95abe1763)
 
 ---
 

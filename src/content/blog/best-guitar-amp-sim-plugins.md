@@ -25,7 +25,7 @@ draft: false
 | Bias Amp 2 | From $99 | Tone matching & deep tweaking | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
 | AmpliTube 5 | Free–$299 | Largest model library | [Official Site](https://www.ikmultimedia.com/products/amplitube5/) |
 | Line 6 Helix Native | $399 | Pro live/studio crossover | [Official Site](https://line6.com/helix/helixnative.html) |
-| S-Gear | ~$109 | Boutique clean & crunch | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=S-Gear&a_aid=69cb95abe1763) |
+| S-Gear | ~$109 | Boutique clean & crunch | [Plugin Boutique](https://scuffhamamps.com/s-gear/) |
 | LePou Amp Sim Suite | Free | Classic high-gain on zero budget | Free Download |
 | Ignite Amps Emissary | Free | Best free metal amp sim | Free |
 
@@ -134,7 +134,7 @@ S-Gear is not the right tool for modern metal or djent production. For blues, cl
 
 **Best for:** Players in the clean-to-crunch range who prioritize touch response and vintage feel over the number of available amp models.
 
-[→ Get S-Gear on Plugin Boutique](https://www.pluginboutique.com/search?search_query=S-Gear&a_aid=69cb95abe1763)
+[→ Get S-Gear on Plugin Boutique](https://scuffhamamps.com/s-gear/)
 
 ---
 

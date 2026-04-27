@@ -23,7 +23,7 @@ draft: false
 | u-he Diva | $179 | Circuit-accurate multi-vintage emulation | [Official Site](https://u-he.com/products/diva/) |
 | Arturia Mini V3 | $99 | Minimoog bass and monophonic leads | [Official Site](https://www.arturia.com/products/analog-classics/mini-v/overview) |
 | Arturia Prophet-5 V | $99 | Lush polysynth pads and chords | [Official Site](https://www.arturia.com/products/analog-classics/prophet-5-v/overview) |
-| TAL-U-NO-LX | ~$60 | Roland Juno-60 chorus and arpeggios | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL-U-NO-LX&a_aid=69cb95abe1763) |
+| TAL-U-NO-LX | ~$60 | Roland Juno-60 chorus and arpeggios | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/423-TAL-U-NO-LX-Synth?a_aid=69cb95abe1763) |
 | OB-Xd | Free | Oberheim brass, strings, and pads | [Free Download](https://www.discodsp.com/obxd/) |
 | Dexed | Free | Yamaha DX7 FM electric pianos and bells | [Free Download](https://asb2m10.github.io/dexed/) |
 | Surge XT | Free | Multi-vintage analog filter exploration | [Free Download](https://surge-synthesizer.github.io/) |
@@ -157,7 +157,7 @@ TAL's U-NO-LX is the consensus pick for Roland Juno-60 emulation. Developer docu
 
 **Best for:** Synthwave, lo-fi, and 80s pop producers who need the Juno-60 chorus shimmer on pads and arpeggios.
 
-[→ Get TAL-U-NO-LX on Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL-U-NO-LX&a_aid=69cb95abe1763)
+[→ Get TAL-U-NO-LX on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/423-TAL-U-NO-LX-Synth?a_aid=69cb95abe1763)
 
 ---
 

@@ -25,7 +25,7 @@ draft: false
 |--------|-------|----------|--------|
 | Serum | $189 | 808 bass & lead synths | [Official Site](https://xferrecords.com/products/serum) |
 | Battery 4 | $149 | Drum sample layering | [Official Site](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) |
-| Addictive Drums 2 | From $179 | Live boom bap drum kits | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Addictive%20Drums%202&a_aid=69cb95abe1763) |
+| Addictive Drums 2 | From $179 | Live boom bap drum kits | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763) |
 | Waves SSL G-Master | From $29 | Bus glue compression | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | iZotope Vinyl | Free | Lofi vinyl texture | [Free Download](https://www.izotope.com/en/products/vinyl.html) |
 | Vital | Free | Serum alternative for 808 design | [Free Download](https://vital.audio) |
@@ -77,7 +77,7 @@ KVR's community discussion consistently highlights Addictive Drums 2's mic bleed
 
 **Best for:** Boom bap producers who want live acoustic drum realism with minimal sample preparation.
 
-[→ Get Addictive Drums 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=XLN%20Audio%20Addictive%20Drums%202&a_aid=69cb95abe1763)
+[→ Get Addictive Drums 2 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763)
 
 ---
 

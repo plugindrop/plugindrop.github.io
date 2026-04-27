@@ -29,7 +29,7 @@ draft: false
 | Analog Obsession LALA | Free | Optical vocal & instrument glue | [Free Download](https://www.analog-obsession.com/) |
 | OTT (Xfer Records) | Free | EDM leads, synths, density | [Free Download](https://xferrecords.com/freeware) |
 | Waves SSL G-Master Buss | ~$29.99 | Bus glue, SSL 4000 G character | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| Cytomic The Glue | $40 | SSL-style bus with surgical control | [Official Site](https://www.pluginboutique.com/search?search_query=Cytomic%20The%20Glue&a_aid=69cb95abe1763) |
+| Cytomic The Glue | $40 | SSL-style bus with surgical control | [Official Site](https://cytomic.com/glue) |
 
 ---
 
@@ -166,7 +166,7 @@ Waves' SSL G-Master Buss Compressor is among the most widely used bus processors
 - **Price:** $40
 - **Why upgrade:** The Glue extends SSL G-style bus compression with a range control and mix knob not present in the Waves emulation, alongside circuit-level modeling that Cytomic's developer documentation describes as targeting closer accuracy to the original hardware behavior. r/mixingmastering threads that specifically discuss analog saturation behavior on the bus consistently recommend The Glue as the step up for producers who want SSL character with more control over how aggressively the compression affects dynamics.
 
-[→ Get Cytomic The Glue on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Cytomic%20The%20Glue&a_aid=69cb95abe1763)
+[→ Get Cytomic The Glue on Plugin Boutique](https://cytomic.com/glue)
 
 ---
 
@@ -177,10 +177,10 @@ Waves' SSL G-Master Buss Compressor is among the most widely used bus processors
 | FabFilter Pro-C 2 | $179 | Multi-style | 8 compression characters, side-chain EQ, M/S | [Get It](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
 | TDR Kotelnikov | Free | Wideband transparent | Crest factor detection, mastering-grade clarity | [Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Klanghelm DC8C | Free / €18 | Character/utility | 8 compression modes, free basic version | [Download](https://klanghelm.com/contents/products/DC8C.php) |
-| Analog Obsession LALA | Free | Optical | LA-2A style, program-dependent gain reduction | [Download](https://www.pluginboutique.com/search?search_query=Cytomic%20The%20Glue&a_aid=69cb95abe1763) |
+| Analog Obsession LALA | Free | Optical | LA-2A style, program-dependent gain reduction | [Download](https://cytomic.com/glue) |
 | OTT (Xfer Records) | Free | Multiband upward/downward | EDM density, single Depth control | [Download](https://xferrecords.com/freeware) |
 | Waves SSL G-Master Buss | ~$29.99 | Bus/glue | SSL 4000 G emulation, auto-release | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| Cytomic The Glue | $40 | Bus/glue | SSL character, range/mix control, circuit modeling | [Get It](https://www.pluginboutique.com/search?search_query=Cytomic%20The%20Glue&a_aid=69cb95abe1763) |
+| Cytomic The Glue | $40 | Bus/glue | SSL character, range/mix control, circuit modeling | [Get It](https://cytomic.com/glue) |
 
 ---
 

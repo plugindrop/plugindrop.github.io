@@ -25,7 +25,7 @@ draft: false
 | VSCO2 Community Edition | Free | Realistic section strings and orchestral arrangements | [Official Site](https://versilian-studios.com/vsco-community/) |
 | Sonatina Symphonic Orchestra | Free | Complete orchestral sketching, notation workflows | [Official Site](https://sfzinstruments.github.io/orchestra/sso/) |
 | Virtual Playing Orchestra | Free | Notation-integrated mock-ups, solo and ensemble | [Official Site](http://virtualplaying.com/virtual-playing-orchestra/) |
-| VCSL | Free | Broad orchestral palette beyond standard strings | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=VCSL&a_aid=69cb95abe1763) |
+| VCSL | Free | Broad orchestral palette beyond standard strings | Plugin Boutique |
 | DSK Dynamic Strings | Free | Instant string beds, lightweight, no setup | [Official Site](https://www.dskmusic.com/dsk-dynamic-strings/) |
 
 ---
@@ -129,7 +129,7 @@ VCSL (Versilian Community Sample Library) is Versilian Studios' open-source comp
 
 **Best for:** Hybrid and cinematic producers who need orchestral strings alongside a broader instrumental range.
 
-[→ Get VCSL Free](https://www.pluginboutique.com/search?search_query=VCSL&a_aid=69cb95abe1763)
+→ Get VCSL Free
 
 ---
 

@@ -179,7 +179,7 @@ The HG-2 models the Black Box Analog Design hardware unit — a two-stage tube a
 
 **Best for:** Mastering-grade harmonic enhancement, transparent two-bus saturation, subtle analog finishing.
 
-[→ Search Plugin Alliance Black Box Analog Design HG-2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Plugin%2520Alliance%2520Black%2520Box%2520Analog%2520Design%2520HG-2&a_aid=69cb95abe1763)
+[→ Search Plugin Alliance Black Box Analog Design HG-2 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/10203-Black-Box-Analog-Design-HG-2?a_aid=69cb95abe1763)
 
 ---
 

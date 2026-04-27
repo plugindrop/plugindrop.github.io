@@ -21,7 +21,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | TAL-Chorus-LX | Free | Classic JC-120 chorus on any source | [Free Download](https://tal-software.com/products/tal-chorus-lx) |
-| MFlanger | Free | Deep, controllable flanging | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=MFlanger&a_aid=69cb95abe1763) |
+| MFlanger | Free | Deep, controllable flanging | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/12-Flanger/86-MFlangerMB?a_aid=69cb95abe1763) |
 | MChorus | Free | Multiband chorus with precise control | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |
 | TAL-Flanger | Free | Analog-style flanging, zero friction | [Free Download](https://tal-software.com/products/tal-flanger) |
 | Valhalla SuperMassive | Free | Lush ensemble and chorus textures | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
@@ -130,7 +130,7 @@ The UI density is the tradeoff, consistent with all MeldaProduction plugins. Fir
 
 **Best for:** Guitar flanging, synth sweeps, creative sound design — any application where you need precise control over how far the effect goes.
 
-[→ Get MFlanger on Plugin Boutique](https://www.pluginboutique.com/search?search_query=MFlanger&a_aid=69cb95abe1763)
+[→ Get MFlanger on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/12-Flanger/86-MFlangerMB?a_aid=69cb95abe1763)
 [Watch Demo](https://www.youtube.com/watch?v=icDEDz2_-D0)
 
 ---

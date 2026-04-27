@@ -309,7 +309,7 @@ Circuit modeling (used by TSE, Nick Crow, LePou) attempts to emulate the electro
 
 TSE Audio X50 v2.4 is the most defensible starting point in the free guitar amp sim category — the community has tested it across more genres, DAWs, and signal chain configurations than any other option on this list, and the consensus has held for years. Start there, pair it with a free IR loader and quality cabinet IRs, and you have a foundation that scales. When the workflow starts costing you more time than money, Neural DSP Archetype is the documented next step up.
 
-[→ Explore Guitar Amp Sims](https://www.pluginboutique.com/search?search_query=guitar+amp+sim&a_aid=69cb95abe1763)
+→ Explore Guitar Amp Sims
 
 ---
 
