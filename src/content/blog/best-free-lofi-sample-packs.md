@@ -263,7 +263,7 @@ MSXII Sound Design is one of the most-cited creators in lo-fi hip hop production
 - **Price:** From $14.95
 - **Why upgrade:** Free sources cover the basics well, but Loopmasters' lo-fi catalog adds label-level recording quality, instrument variety that free packs rarely reach — live upright bass, live jazz drumming, Wurlitzer, Rhodes — and commercial licensing clarity that eliminates the attribution ambiguity common on community platforms. Their lo-fi catalog spans multiple sub-genre styles from ambient chill to upbeat lo-fi hip hop.
 
-[→ Get Loopmasters Lo-Fi Packs on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Loopmasters Lo-Fi Packs on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Loopmasters%20Lo-Fi%20Packs&a_aid=69cb95abe1763)
 
 ---
 
@@ -275,7 +275,7 @@ MSXII Sound Design is one of the most-cited creators in lo-fi hip hop production
 - **Price:** From $9.99
 - **Why upgrade:** ADSR's premium tier uses the same searchable platform as the free section but delivers professionally mastered content, more granular instrument separation across stems, and complete royalty-free commercial licensing without attribution requirements. For producers releasing music commercially, the licensing clarity alone justifies the step up from community-sourced free content, where per-sample terms can be inconsistent.
 
-[→ Get ADSR Sounds Lo-Fi Packs on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get ADSR Sounds Lo-Fi Packs on Plugin Boutique](https://www.pluginboutique.com/search?search_query=ADSR%20Sounds%20Premium%20Lo-Fi%20Packs&a_aid=69cb95abe1763)
 
 ---
 
@@ -295,8 +295,8 @@ MSXII Sound Design is one of the most-cited creators in lo-fi hip hop production
 | Looperman Melodies | Free | Melodies/Chords | Deep catalog, unusual harmony, community-rated | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) |
 | Splice Free | Free | Chords | Professional recording quality, precise filtering | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) |
 | MSXII Free | Free | Chords/Full | Genre specialist, jazz/soul voicings | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) |
-| Loopmasters Lo-Fi | Paid | All-in-one | Live instruments, label quality, full licensing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| ADSR Sounds Premium | Paid | All-in-one | Mastered, stems, commercial license no attribution | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Loopmasters Lo-Fi | Paid | All-in-one | Live instruments, label quality, full licensing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=ADSR%20Sounds%20Premium%20Lo-Fi%20Packs&a_aid=69cb95abe1763) |
+| ADSR Sounds Premium | Paid | All-in-one | Mastered, stems, commercial license no attribution | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=ADSR%20Sounds%20Premium%20Lo-Fi%20Packs&a_aid=69cb95abe1763) |
 
 ---
 

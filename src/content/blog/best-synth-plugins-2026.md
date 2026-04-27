@@ -27,7 +27,7 @@ draft: false
 | Dexed | Free | FM synthesis, DX7 patch compatibility | [Free Download](https://asb2m10.github.io/dexed/) |
 | Serum | ~$189 | EDM production, wavetable ecosystem | [Get Serum](https://xferrecords.com/products/serum) |
 | Phase Plant | ~$99 | Modular hybrid sound design | [Get Phase Plant](https://kilohearts.com/products/phase_plant) |
-| Arturia Pigments | ~$99 | Multi-engine design, film and ambient | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia Pigments | ~$99 | Multi-engine design, film and ambient | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Pigments&a_aid=69cb95abe1763) |
 
 ---
 
@@ -153,7 +153,7 @@ FM synthesis has a justified reputation for complexity. Producer communities on 
 - **Price:** ~$99
 - **Why upgrade:** OB-Xd is the right free choice for vintage analog character in isolation, but Pigments runs four simultaneous synthesis engines — wavetable, virtual analog, harmonic/additive, and sample-based — with a unified modulation matrix. Arturia's documentation positions the factory preset library as a professional-quality selling point developed by hired sound designers, a depth of out-of-box content that free alternatives don't match.
 
-[→ Get Arturia Pigments on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia Pigments on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Pigments&a_aid=69cb95abe1763)
 
 ---
 
@@ -167,7 +167,7 @@ FM synthesis has a justified reputation for complexity. Producer communities on 
 | Dexed | Free | FM | DX7 sysex patch compatibility, 6-operator FM | [Download Free](https://asb2m10.github.io/dexed/) |
 | Serum | ~$189 | Wavetable | Industry-standard ecosystem, massive preset market | [Get Serum](https://xferrecords.com/products/serum) |
 | Phase Plant | ~$99 | Modular/Hybrid | Multi-engine visual routing, Kilohearts ecosystem | [Get Phase Plant](https://kilohearts.com/products/phase_plant) |
-| Arturia Pigments | ~$99 | Multi-engine | 4 synthesis engines, professional factory presets | [Get Pigments](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia Pigments | ~$99 | Multi-engine | 4 synthesis engines, professional factory presets | [Get Pigments](https://www.pluginboutique.com/search?search_query=Arturia%20Pigments&a_aid=69cb95abe1763) |
 
 ---
 

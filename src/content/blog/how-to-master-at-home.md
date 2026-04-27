@@ -27,7 +27,7 @@ draft: false
 | FabFilter Pro-Q 3 | $179 | Surgical mastering EQ with dynamic EQ | [FabFilter](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | FabFilter Pro-L 2 | $179 | Transparent multi-algorithm limiting | [FabFilter](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) |
 | iZotope Ozone 11 | From $249 | All-in-one AI-assisted mastering suite | [iZotope](https://www.izotope.com/en/products/ozone.html) |
-| FabFilter Total Bundle | From $899 | Complete FabFilter mastering + mixing suite | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| FabFilter Total Bundle | From $899 | Complete FabFilter mastering + mixing suite | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
 
 ---
 
@@ -155,7 +155,7 @@ The Advanced tier adds two developer-confirmed features that address common home
 - **Price:** From $899
 - **Why upgrade:** Purchasing Pro-Q 3 and Pro-L 2 individually totals approximately $358. The Total Bundle extends that investment to include Pro-C 2 (compressor), Pro-MB (multiband dynamics), Pro-DS (de-esser), Saturn 2 (saturation and distortion), and the complete FabFilter effects suite. For producers who will apply FabFilter tools across both mastering and mixing — which is the typical progression once the mastering workflow is established — the bundle is the documented value purchase.
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763)
 
 ---
 
@@ -168,7 +168,7 @@ The Advanced tier adds two developer-confirmed features that address common home
 | FabFilter Pro-L 2 | $179 | Limiter | 8 algorithms, ISP metering, true peak limiting, granular lookahead/release | [Buy](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) |
 | iZotope Ozone 11 Standard | From $249 | All-in-one suite | EQ, dynamics, imager, maximizer, Master Assistant AI | [Buy](https://www.izotope.com/en/products/ozone.html) |
 | iZotope Ozone 11 Advanced | From $499 | All-in-one suite | All Standard features + Master Rebalance, Low End Focus | [Buy](https://www.izotope.com/en/products/ozone.html) |
-| FabFilter Total Bundle | From $899 | Full plugin suite | Pro-Q 3, Pro-L 2, Pro-C 2, Pro-MB, Pro-DS, Saturn 2, and more | [Buy](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| FabFilter Total Bundle | From $899 | Full plugin suite | Pro-Q 3, Pro-L 2, Pro-C 2, Pro-MB, Pro-DS, Saturn 2, and more | [Buy](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
 
 ---
 

@@ -24,8 +24,8 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Serum | $189 | 808 bass & lead synths | [Official Site](https://xferrecords.com/products/serum) |
-| Battery 4 | $149 | Drum sample layering | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Addictive Drums 2 | From $179 | Live boom bap drum kits | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Battery 4 | $149 | Drum sample layering | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Battery%204&a_aid=69cb95abe1763) |
+| Addictive Drums 2 | From $179 | Live boom bap drum kits | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Addictive%20Drums%202&a_aid=69cb95abe1763) |
 | Waves SSL G-Master | From $29 | Bus glue compression | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | iZotope Vinyl | Free | Lofi vinyl texture | [Free Download](https://www.izotope.com/en/products/vinyl.html) |
 | Vital | Free | Serum alternative for 808 design | [Free Download](https://vital.audio) |
@@ -60,7 +60,7 @@ Battery 4 is the most-referenced drum sampler in professional hip-hop workflows,
 
 **Best for:** Producers who layer samples heavily and need precise per-pad tuning and processing.
 
-[→ Get Battery 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Battery 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Battery%204&a_aid=69cb95abe1763)
 
 ---
 
@@ -77,7 +77,7 @@ KVR's community discussion consistently highlights Addictive Drums 2's mic bleed
 
 **Best for:** Boom bap producers who want live acoustic drum realism with minimal sample preparation.
 
-[→ Get Addictive Drums 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Addictive Drums 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=XLN%20Audio%20Addictive%20Drums%202&a_aid=69cb95abe1763)
 
 ---
 
@@ -336,7 +336,7 @@ LoudMax is a look-ahead true peak limiter that producer forums recommend when yo
 - **Price:** From $399 (hardware + software bundle)
 - **Why upgrade:** Battery 4 and free drum samplers handle sample triggering well inside a DAW, but Maschine integrates hardware pad control with a software workflow designed specifically for beat-making. r/makinghiphop consistently recommends it for producers who find mouse-based drum programming limits their feel and want tactile pad feedback for pattern performance and improvisation.
 
-[→ Get Native Instruments Maschine on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Native Instruments Maschine on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Maschine&a_aid=69cb95abe1763)
 
 ---
 
@@ -345,8 +345,8 @@ LoudMax is a look-ahead true peak limiter that producer forums recommend when yo
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Serum | $189 | Wavetable Synth | 808 design, massive preset ecosystem, deep modulation | [Get it](https://xferrecords.com/products/serum) |
-| Battery 4 | $149 | Drum Sampler | Cell-based layering, per-pad tuning, pro library | [Get it](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Addictive Drums 2 | From $179 | Acoustic Drums | Mic bleed modeling, live-recorded kits, mix board | [Get it](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Battery 4 | $149 | Drum Sampler | Cell-based layering, per-pad tuning, pro library | [Get it](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Maschine&a_aid=69cb95abe1763) |
+| Addictive Drums 2 | From $179 | Acoustic Drums | Mic bleed modeling, live-recorded kits, mix board | [Get it](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Maschine&a_aid=69cb95abe1763) |
 | Waves SSL G-Master | From $29 | Bus Compressor | SSL 4000 G emulation, drum bus glue | [Get it](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | iZotope Vinyl | Free | Character Effect | Vinyl artifact simulation, lofi texture, instant character | [Free](https://www.izotope.com/en/products/vinyl.html) |
 | Vital | Free | Wavetable Synth | Serum-class engine, custom wavetables, free tier | [Free](https://vital.audio) |

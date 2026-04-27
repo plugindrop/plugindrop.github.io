@@ -24,8 +24,8 @@ draft: false
 |--------|-------|----------|--------|
 | Waves SSL E-Channel | ~$30–$60 | Console EQ on drums, vocals, buses | [Waves.com](https://www.waves.com/plugins/ssl-e-channel) |
 | FabFilter Pro-Q 3 | $179 | Precision shaping with analog curve behavior | [FabFilter](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| Arturia 3Filter | ~$49–$99 | Vintage filter coloration and resonance | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| NI VC 76 | ~$49–$99 | FET dynamics vintage character | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia 3Filter | ~$49–$99 | Vintage filter coloration and resonance | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%203Filter&a_aid=69cb95abe1763) |
+| NI VC 76 | ~$49–$99 | FET dynamics vintage character | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=NI%20VC%2076&a_aid=69cb95abe1763) |
 | TDR SlickEQ | Free | Free analog-style EQ workhorse | [tokyodawn.net](https://www.tokyodawn.net) |
 | Ignite Amps PTEq-X | Free | Free Pultec passive EQ behavior | [igniteamps.com](https://www.igniteamps.com) |
 
@@ -100,7 +100,7 @@ For producers working with synthesizers, electronic sources, or material where f
 
 **Best for:** Electronic producers, sound designers, and anyone using vintage filter character on synthesizer or electronic sources rather than recorded acoustic material.
 
-[→ Get Arturia 3Filter on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia 3Filter on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%203Filter&a_aid=69cb95abe1763)
 
 ---
 
@@ -119,7 +119,7 @@ KVR community discussions on 1176-style FET compression place VC 76 as one of th
 
 **Best for:** Producers assembling complete vintage signal chains where FET compression sits before or after console EQ in the channel path.
 
-[→ Get NI VC 76 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get NI VC 76 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20VC%2076&a_aid=69cb95abe1763)
 
 ---
 
@@ -173,7 +173,7 @@ For producers who want to understand what the community means when they say "Pul
 - **Price:** ~$99–$149 (bundle pricing)
 - **Why upgrade:** The SSL E-Channel models the 4000E strip only. The 4000 Collection adds the SSL G-Channel (4000G console strip, documented as warmer and slightly different in character from the E), the SSL G-Master Buss Compressor (the mix bus compressor credited on a significant portion of major-label releases throughout the 1990s), and supporting channel tools. It is the difference between a single channel strip and an entire SSL console workflow in one purchase.
 
-[→ Get Waves SSL 4000 Collection on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Waves SSL 4000 Collection on Plugin Boutique](https://www.waves.com/plugins/ssl-e-channel)
 
 ---
 
@@ -185,7 +185,7 @@ For producers who want to understand what the community means when they say "Pul
 - **Price:** ~$899 (significant saving versus individual plugin purchases)
 - **Why upgrade:** Pro-Q 3 is the centerpiece, but the Total Bundle adds Pro-L 2 (limiting), Pro-C 2 (compression), Pro-MB (multiband dynamics), Pro-DS (de-essing), Saturn 2 (saturation and harmonic distortion), and Timeless 3 (delay). For producers building a complete mixing environment around FabFilter's interface consistency and workflow, the bundle is the most economical path to the full toolkit.
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763)
 
 ---
 
@@ -195,12 +195,12 @@ For producers who want to understand what the community means when they say "Pul
 |--------|-------|------|------------|-----|
 | Waves SSL E-Channel | ~$30–$60 | Console strip EQ + dynamics | SSL 4000E model; integrated gate and comp | [Get It](https://www.waves.com/plugins/ssl-e-channel) |
 | FabFilter Pro-Q 3 | $179 | Precision EQ + analog curves | Natural Phase; dynamic EQ; analog output stage | [Get It](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| Arturia 3Filter | ~$49–$99 | Vintage filter emulation | TAE analog modeling engine; resonant non-linear response | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| NI VC 76 | ~$49–$99 | FET compressor | 1176-style circuit modeling; NI Vintage Collection | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia 3Filter | ~$49–$99 | Vintage filter emulation | TAE analog modeling engine; resonant non-linear response | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
+| NI VC 76 | ~$49–$99 | FET compressor | 1176-style circuit modeling; NI Vintage Collection | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
 | TDR SlickEQ | Free | Analog-modeled EQ | Console-style curves; optional output saturation | [tokyodawn.net](https://www.tokyodawn.net) |
 | Ignite Amps PTEq-X | Free | Pultec passive EQ | Passive inductor-based circuit behavior | [igniteamps.com](https://www.igniteamps.com) |
-| Waves SSL 4000 Collection | ~$99–$149 | Console bundle | G-Channel + G-Master Buss Compressor | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| FabFilter Total Bundle | ~$899 | Full plugin suite | Pro-Q 3 plus all FabFilter mixing and mastering tools | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Waves SSL 4000 Collection | ~$99–$149 | Console bundle | G-Channel + G-Master Buss Compressor | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
+| FabFilter Total Bundle | ~$899 | Full plugin suite | Pro-Q 3 plus all FabFilter mixing and mastering tools | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
 
 ---
 

@@ -236,7 +236,7 @@ If you've worked through the free tier and hit consistent friction — inflexibl
 - **Price:** $99 (included in Komplete bundles)
 - **Why upgrade:** Battery 4 ships with over 12,000 samples organized across acoustic, electronic, and hybrid categories, with a cell-based routing system that allows velocity-mapped layering at a depth free plugins structurally can't match. r/WeAreTheMusicMakers consistently positions it as the standard professional step-up from free drum samplers when producers need genuine kit customization, multi-layer programming, and complex sound design flexibility in a single plugin.
 
-[→ Get Native Instruments Battery 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Native Instruments Battery 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Battery%204&a_aid=69cb95abe1763)
 
 ---
 
@@ -248,7 +248,7 @@ If you've worked through the free tier and hit consistent friction — inflexibl
 - **Price:** From $99
 - **Why upgrade:** Addictive Drums 2's consistent advantage — cited regularly in r/audioengineering and r/WeAreTheMusicMakers — is that its output sits in a mix with minimal post-processing. Each kit is recorded with multiple mic positions and phase-coherent bleed, so less time goes to EQ, compression, and drum buss work. If you find yourself spending significant session time processing free drum samples just to make them sit, AD2 removes that friction at scale.
 
-[→ Get XLN Audio Addictive Drums 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get XLN Audio Addictive Drums 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=XLN%20Audio%20Addictive%20Drums%202&a_aid=69cb95abe1763)
 
 ---
 
@@ -266,8 +266,8 @@ If you've worked through the free tier and hit consistent friction — inflexibl
 | Drumatic 4 | Free | Drum Synthesizer | Synthesis-based, TR-style, no samples | [Download](https://www.e-phonic.com/) |
 | Hydrogen | Free | Standalone Sequencer | Open source, pattern-based, MIDI sync | [Download](https://hydrogen-music.org/) |
 | DSK DrumZ Akustik | Free | Acoustic Rompler | Windows VST, lightweight, no registration | [Download](https://www.dskmidi.com/) |
-| NI Battery 4 | $99 | Professional Sampler | 12,000+ samples, cell routing, layering | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| XLN Audio Addictive Drums 2 | From $99 | Professional Rompler | Studio-recorded, multi-mic, mix-ready | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| NI Battery 4 | $99 | Professional Sampler | 12,000+ samples, cell routing, layering | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=XLN%20Audio%20Addictive%20Drums%202&a_aid=69cb95abe1763) |
+| XLN Audio Addictive Drums 2 | From $99 | Professional Rompler | Studio-recorded, multi-mic, mix-ready | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=XLN%20Audio%20Addictive%20Drums%202&a_aid=69cb95abe1763) |
 
 ---
 
@@ -315,7 +315,7 @@ Sitala integrates cleanly with Ableton via drag-and-drop for building custom sam
 
 MT Power Drum Kit 2 is the most defensible single recommendation on this list — the community consensus behind it is broad, sustained, and consistent across genre contexts. For beat-making workflows, Sitala removes more friction than any other free sampler available. When the free tier stops being enough, XLN Audio Addictive Drums 2 is the upgrade that saves the most time at the mix stage.
 
-[→ Get XLN Audio Addictive Drums 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get XLN Audio Addictive Drums 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=XLN%20Audio%20Addictive%20Drums%202&a_aid=69cb95abe1763)
 
 ---
 

@@ -24,8 +24,8 @@ draft: false
 |--------|-------|----------|--------|
 | TDR Nova | Free | Mastering, transparent dynamics | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | OTT | Free | EDM sound design, bus processing | [Free Download](https://xferrecords.com/freeware/) |
-| MMultiband | Free | Full-featured multiband, deep customization | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Waves C6 Lite | Free | Mixing, broadcast, mastering fundamentals | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| MMultiband | Free | Full-featured multiband, deep customization | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=MMultiband&a_aid=69cb95abe1763) |
+| Waves C6 Lite | Free | Mixing, broadcast, mastering fundamentals | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20C6%20Lite&a_aid=69cb95abe1763) |
 | Kilohearts Multiband Compressor | Free | Clean, snap-based dynamics | [Free Download](https://kilohearts.com/products/multiband_compressor) |
 | GVST GMulti | Free | Lightweight Windows utility compression | [Free Download](https://www.gvst.co.uk/gmulti.htm) |
 
@@ -96,7 +96,7 @@ The interface demands more initial investment than OTT or TDR Nova, which reflec
 
 **Best for:** Producers who need per-band granular control and are prepared to invest time learning a complex, feature-rich interface.
 
-[→ Get MMultiband on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get MMultiband on Plugin Boutique](https://www.pluginboutique.com/search?search_query=MMultiband&a_aid=69cb95abe1763)
 
 ---
 
@@ -115,7 +115,7 @@ Account registration and Waves' license management software are required. For pr
 
 **Best for:** Mastering, broadcast post-production, and producers already using Waves plugins who want a capable six-band compressor at no additional cost.
 
-[→ Get Waves C6 Lite on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Waves C6 Lite on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20C6%20Lite&a_aid=69cb95abe1763)
 
 ---
 
@@ -227,8 +227,8 @@ Its value in 2026 is as a utility and educational resource: quick three-band glu
 |--------|-------|------|------------|-----|
 | TDR Nova | Free | Dynamic EQ / Multiband | Linear phase mode, M/S processing, 4 dynamic bands + shelves | [Download](https://www.tokyodawn.net/tdr-nova/) |
 | OTT | Free | Multiband Up/Down Comp | 3-band, upward + downward comp, signature EDM tone | [Download](https://xferrecords.com/freeware/) |
-| MMultiband | Free | Multiband Compressor | Up to 6 bands, full modulation engine, A/B comparison | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Waves C6 Lite | Free | Multiband Compressor | 6 bands, wideband/multiband modes, broadcast-grade | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| MMultiband | Free | Multiband Compressor | Up to 6 bands, full modulation engine, A/B comparison | [Plugin Boutique](https://www.izotope.com/en/products/ozone.html) |
+| Waves C6 Lite | Free | Multiband Compressor | 6 bands, wideband/multiband modes, broadcast-grade | [Plugin Boutique](https://www.izotope.com/en/products/ozone.html) |
 | Kilohearts Multiband Comp | Free | Snap Plugin | Clean interface, Kilohearts ecosystem integration | [Download](https://kilohearts.com/products/multiband_compressor) |
 | GVST GMulti | Free | Multiband Compressor | Low CPU, Windows-only, utility compression | [Download](https://www.gvst.co.uk/gmulti.htm) |
 | Calf Multiband | Free | Multiband Compressor | LV2/Linux native, open source, 5 bands, active development | [Download](https://calf-studio-gear.org/) |

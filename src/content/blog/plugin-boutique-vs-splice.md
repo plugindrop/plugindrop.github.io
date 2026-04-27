@@ -121,7 +121,7 @@ Splice offers project file sharing and version history for DAW sessions. This is
 - **Price:** Account-based (free to create; premium deal tiers available)
 - **Why upgrade:** A Plugin Boutique account unlocks VirtualCash rewards, subscriber-exclusive deals, and access to the free monthly plugin program. Producers making multiple plugin purchases per year recover real value through cashback and promotions unavailable to casual visitors.
 
-[→ Get Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Plugin Boutique](https://www.pluginboutique.com/search?search_query=Plugin%20Boutique%20Subscription&a_aid=69cb95abe1763)
 
 ### Splice Subscription — Best for Sample-Dependent Producers
 
@@ -131,7 +131,7 @@ Splice offers project file sharing and version history for DAW sessions. This is
 - **Price:** Tiered monthly plans (credit-based allotment)
 - **Why upgrade:** Without a paid subscription, Splice Sounds is inaccessible — there is no meaningful free tier for sample downloads. Producers who rely on loops, one-shots, or sample packs in their workflow will find the subscription essential rather than optional.
 
-[→ Get Splice via Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Splice via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Splice%20Subscription&a_aid=69cb95abe1763)
 
 ---
 

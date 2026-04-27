@@ -154,7 +154,7 @@ On acoustic drum kits, OTT in this role is less common; community discussion the
 - **Price:** Bundle pricing (varies)
 - **Why upgrade:** The SSL G-Master Buss Compressor handles drum bus compression, but the SSL 4000 Collection adds the channel strip EQ and dynamics that define the SSL 4000 console sound. This becomes relevant when you want the same harmonic character running per-channel on individual drum tracks as well as the bus — an approach Gearspace and KVR document as the "all-SSL drum chain."
 
-[→ Get Waves SSL 4000 Collection on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Waves SSL 4000 Collection on Plugin Boutique](https://www.waves.com/plugins/ssl-e-channel)
 
 ### FabFilter Total Bundle — The Complete FabFilter Processing Chain
 
@@ -164,7 +164,7 @@ On acoustic drum kits, OTT in this role is less common; community discussion the
 - **Price:** Bundle pricing (varies)
 - **Why upgrade:** Pro-Q 3 alone handles EQ, but the Total Bundle adds Pro-C 2 (FabFilter's compressor), Pro-MB (multiband dynamics), and Pro-L 2 (limiter) — tools the community recommends for completing the drum bus processing chain when Pro-Q 3 is already central to the workflow.
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763)
 
 ---
 
@@ -176,8 +176,8 @@ On acoustic drum kits, OTT in this role is less common; community discussion the
 | Waves SSL G-Master Buss Compressor | ~$30 | Bus Compressor | SSL 4000 G emulation, Auto release, glue compression | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | Transient Master (NI) | $49 | Transient Shaper | Attack/Sustain two-knob control, internal parallel architecture | [Get It](https://www.native-instruments.com/en/products/komplete/effects/transient-master/) |
 | OTT (Xfer Records) | Free | Multiband Compressor | Upward/downward multiband, Depth blend control | [Free](https://xferrecords.com/freeware) |
-| Waves SSL 4000 Collection | Bundle | Channel Strip Suite | Full SSL 4000 console emulation including per-channel EQ and dynamics | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| FabFilter Total Bundle | Bundle | Full Suite | Complete dynamics, EQ, and limiting chain from a single developer | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Waves SSL 4000 Collection | Bundle | Channel Strip Suite | Full SSL 4000 console emulation including per-channel EQ and dynamics | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
+| FabFilter Total Bundle | Bundle | Full Suite | Complete dynamics, EQ, and limiting chain from a single developer | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
 
 ---
 

@@ -28,7 +28,7 @@ draft: false
 | Serum | $189 | Wavetable synthesis with modern workflow | [Developer Site](https://xferrecords.com/products/serum) |
 | iZotope Neutron 4 | $249+ | AI-assisted mix analysis | [Developer Site](https://www.izotope.com/en/products/neutron.html) |
 | Vital | Free | Wavetable synthesis without the price tag | [Free Download](https://vital.audio) |
-| TDR Nova | Free | Dynamic EQ on a zero budget | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| TDR Nova | Free | Dynamic EQ on a zero budget | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
 
 ---
 
@@ -72,7 +72,7 @@ TDR Nova combines a four-band parametric EQ with per-band dynamic compression in
 
 **Best for:** Dynamic EQ on a zero budget; taming resonances without a separate de-esser.
 
-[→ Download TDR Nova Free](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Download TDR Nova Free](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 
@@ -108,7 +108,7 @@ MJUC jr. is the free limited version of Klanghelm's variable-mu compressor, and 
 
 **Best for:** Glue compression on buses where warmth and musical behavior matter more than punch.
 
-[→ Get Klanghelm MJUC jr.](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Klanghelm MJUC jr.](https://www.pluginboutique.com/search?search_query=Klanghelm%20MJUC%20jr.&a_aid=69cb95abe1763)
 
 ---
 
@@ -125,7 +125,7 @@ OTT is an extreme upward/downward multiband compressor that Xfer Records release
 
 **Best for:** Sound design, multiband compression on synths, the "punchy and processed" aesthetic in electronic genres.
 
-[→ Get OTT Free](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get OTT Free](https://www.pluginboutique.com/search?search_query=OTT%20by%20Xfer%20Records&a_aid=69cb95abe1763)
 
 ---
 
@@ -161,7 +161,7 @@ ValhallaDelay follows the same pricing model and quality floor as VintageVerb bu
 
 **Best for:** Creative delay workflows that require character beyond Logic's built-in Echo plugin.
 
-[→ Get ValhallaDelay](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get ValhallaDelay](https://www.pluginboutique.com/search?search_query=ValhallaDelay&a_aid=69cb95abe1763)
 
 ---
 
@@ -216,7 +216,7 @@ Diva combines circuit-level simulation of classic oscillator, filter, and envelo
 
 **Best for:** Producers prioritizing authentic analog character for bass, pads, and leads over CPU efficiency.
 
-[→ Get u-he Diva](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get u-he Diva](https://www.pluginboutique.com/search?search_query=u-he%20Diva&a_aid=69cb95abe1763)
 
 ---
 
@@ -252,7 +252,7 @@ Soothe2 automatically detects and attenuates problematic resonant frequencies in
 
 **Best for:** Recorded sources with variable resonance problems; replacing manual, reactive EQ notch work.
 
-[→ Get Soothe2](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Soothe2](https://www.pluginboutique.com/search?search_query=Soothe2%20by%20oeksound&a_aid=69cb95abe1763)
 
 ---
 
@@ -271,7 +271,7 @@ Soundtoys Decapitator models five distinct analog saturation topologies — Ampe
 
 **Best for:** Adding analog harmonic character to any source — drums, synths, buses, or full mixes.
 
-[→ Get Soundtoys Decapitator](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Soundtoys Decapitator](https://www.soundtoys.com/product/decapitator/)
 
 ---
 
@@ -288,7 +288,7 @@ Fresh Air is a two-control high-frequency enhancer — "Air" and "Presence" — 
 
 **Best for:** Quick high-frequency enhancement on any source without the artificiality of a boosted EQ shelf.
 
-[→ Get Fresh Air Free](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Fresh Air Free](https://www.pluginboutique.com/search?search_query=Slate%20Digital%20Fresh%20Air&a_aid=69cb95abe1763)
 
 ---
 
@@ -305,7 +305,7 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 
 **Best for:** Creative, character-driven delay where hardware authenticity matters more than CPU efficiency.
 
-[→ Get Soundtoys EchoBoy](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Soundtoys EchoBoy](https://www.pluginboutique.com/search?search_query=Soundtoys%20EchoBoy&a_aid=69cb95abe1763)
 
 ---
 
@@ -319,7 +319,7 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 - **Price:** ~$899 (significant discount vs. individual purchases)
 - **Why upgrade:** Pro-Q 3 and Pro-C 2 are the entry points, but the Total Bundle adds Pro-L 2 (mastering limiter), Pro-MB (multiband compressor), Pro-DS (de-esser), Saturn 2 (multiband saturation), Timeless 3 (delay), and Volcano 3 (filter) — rounding out a full mixing and mastering toolkit from a single developer.
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763)
 
 ---
 
@@ -331,7 +331,7 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 - **Price:** ~$499–$999 (varies by tier and sale cycle)
 - **Why upgrade:** Neutron 4 alone covers mixing analysis, but Music Production Suite adds Ozone (mastering), RX (audio repair and noise reduction), and Nectar (vocal production) — for producers who also record live audio, the RX noise reduction module alone justifies the premium over Neutron by itself.
 
-[→ Get iZotope Music Production Suite on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get iZotope Music Production Suite on Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763)
 
 ---
 
@@ -340,20 +340,20 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | FabFilter Pro-Q 3 | $179 | EQ | Dynamic EQ, mid/side, 24 bands | [Get It](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| TDR Nova | Free | Dynamic EQ | Parallel compression (GE), fully free | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| TDR Nova | Free | Dynamic EQ | Parallel compression (GE), fully free | [Get It](https://www.pluginboutique.com/search?search_query=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763) |
 | FabFilter Pro-C 2 | $179 | Compressor | 8 styles, visual GR display | [Get It](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
-| Klanghelm MJUC jr. | Free | Compressor | Variable-mu warmth, bus glue | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| OTT | Free | Multiband Comp | Extreme upward/downward compression | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Klanghelm MJUC jr. | Free | Compressor | Variable-mu warmth, bus glue | [Get It](https://www.pluginboutique.com/search?search_query=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763) |
+| OTT | Free | Multiband Comp | Extreme upward/downward compression | [Get It](https://www.pluginboutique.com/search?search_query=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763) |
 | Valhalla VintageVerb | $50 | Reverb | 17 algorithms, $50 price | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
-| ValhallaDelay | $50 | Delay | 16 modes, tape through pitch-shift | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| ValhallaDelay | $50 | Delay | 16 modes, tape through pitch-shift | [Get It](https://www.pluginboutique.com/search?search_query=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763) |
 | Serum | $189 | Wavetable Synth | Custom wavetable editor, massive preset market | [Get It](https://xferrecords.com/products/serum) |
 | Vital | Free | Wavetable Synth | Spectral warping, 3 oscillators | [Get It](https://vital.audio) |
-| u-he Diva | ~$195 | Analog Synth | Circuit-level filter/oscillator emulation | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| u-he Diva | ~$195 | Analog Synth | Circuit-level filter/oscillator emulation | [Get It](https://www.pluginboutique.com/search?search_query=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763) |
 | iZotope Neutron 4 | $249+ | Mix Suite | AI Mix Assistant, EQ + comp + shaper | [Get It](https://www.izotope.com/en/products/neutron.html) |
-| Soothe2 | ~$160 | Resonance Suppressor | Reactive dynamic notch filtering | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Soundtoys Decapitator | $99 | Saturation | 5 analog topologies, macOS only | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Slate Digital Fresh Air | Free | Enhancer | Two-band air/presence, free w/ account | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Soundtoys EchoBoy | $99 | Creative Delay | 30 hardware styles, per-repeat tone | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Soothe2 | ~$160 | Resonance Suppressor | Reactive dynamic notch filtering | [Get It](https://www.pluginboutique.com/search?search_query=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763) |
+| Soundtoys Decapitator | $99 | Saturation | 5 analog topologies, macOS only | [Get It](https://www.pluginboutique.com/search?search_query=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763) |
+| Slate Digital Fresh Air | Free | Enhancer | Two-band air/presence, free w/ account | [Get It](https://www.pluginboutique.com/search?search_query=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763) |
+| Soundtoys EchoBoy | $99 | Creative Delay | 30 hardware styles, per-repeat tone | [Get It](https://www.pluginboutique.com/search?search_query=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763) |
 
 ---
 

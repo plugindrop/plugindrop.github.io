@@ -28,7 +28,7 @@ draft: false
 | TAL-Reverb-4 | Free | Plate character, synths and pads | [Free Download](https://tal-software.com/products/tal-reverb-4) |
 | Valhalla VintageVerb | $50 | All-purpose studio algorithmic reverb | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
 | FabFilter Pro-R 2 | $179 | Precision mix reverb | [Get It](https://www.fabfilter.com/products/pro-r-2-reverb-plug-in) |
-| Eventide Blackhole | $99 | Expansive spatial design | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Eventide Blackhole | $99 | Expansive spatial design | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Eventide%20Blackhole&a_aid=69cb95abe1763) |
 
 ---
 
@@ -153,7 +153,7 @@ Blackhole is a plugin implementation of Eventide's H8000 Blackhole algorithm, wh
 
 **Best for:** Ambient producers, film and game composers, and any producer using reverb as a primary creative element.
 
-[→ Get Eventide Blackhole on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Eventide Blackhole on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Eventide%20Blackhole&a_aid=69cb95abe1763)
 
 ---
 
@@ -166,7 +166,7 @@ Blackhole is a plugin implementation of Eventide's H8000 Blackhole algorithm, wh
 | TAL-Reverb-4 | Free | Plate | Warm colored character, cross-platform, AU support | [Free Download](https://tal-software.com/products/tal-reverb-4) |
 | Valhalla VintageVerb | $50 | Algorithmic | 17 modes, 3 vintage color options, studio-ready shapes | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
 | FabFilter Pro-R 2 | $179 | Spectral | EQ-style decay editor, HDR processing, transparent | [Get It](https://www.fabfilter.com/products/pro-r-2-reverb-plug-in) |
-| Eventide Blackhole | $99 | Algorithmic / spatial | Based on H8000 algorithm, infinite evolving spaces | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Eventide Blackhole | $99 | Algorithmic / spatial | Based on H8000 algorithm, infinite evolving spaces | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Eventide%20Blackhole&a_aid=69cb95abe1763) |
 
 ---
 

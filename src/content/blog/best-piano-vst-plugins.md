@@ -20,13 +20,13 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Piano One (Sound Magic) | Free | Neutral acoustic grand, zero cost | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Piano One (Sound Magic) | Free | Neutral acoustic grand, zero cost | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Piano%20One&a_aid=69cb95abe1763) |
 | Spitfire LABS Soft Piano | Free | Intimate felt-muted atmosphere | [Free Download](https://labs.spitfireaudio.com/) |
-| Arturia Piano V3 | ~$99 | Multiple modeled grands in one plugin | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Pianoteq 8 | ~$149 | Physical modeling, ~80MB install | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Keyscape | ~$399 | Complete acoustic and electric keyboard library | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Spitfire Audio Felt Piano | ~$79 | Felt-damped sync and cinematic writing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Lounge Lizard EP-4 | ~$99 | Fully tweakable Rhodes and Wurlitzer modeling | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia Piano V3 | ~$99 | Multiple modeled grands in one plugin | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Piano%20V3&a_aid=69cb95abe1763) |
+| Pianoteq 8 | ~$149 | Physical modeling, ~80MB install | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Pianoteq%208&a_aid=69cb95abe1763) |
+| Keyscape | ~$399 | Complete acoustic and electric keyboard library | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Keyscape&a_aid=69cb95abe1763) |
+| Spitfire Audio Felt Piano | ~$79 | Felt-damped sync and cinematic writing | [Plugin Boutique](https://labs.spitfireaudio.com/) |
+| Lounge Lizard EP-4 | ~$99 | Fully tweakable Rhodes and Wurlitzer modeling | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Lounge%20Lizard%20EP-4&a_aid=69cb95abe1763) |
 
 ---
 
@@ -55,7 +55,7 @@ Piano One is a multi-velocity-sampled 9-foot concert grand with a clean, uncolor
 
 **Best for:** Producers who need a usable neutral acoustic grand before deciding on a paid instrument.
 
-[→ Download Piano One Free](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Download Piano One Free](https://www.pluginboutique.com/search?search_query=Piano%20One&a_aid=69cb95abe1763)
 
 ---
 
@@ -91,7 +91,7 @@ Arturia Piano V3 uses a hybrid physical modeling and sampling engine to deliver 
 
 **Best for:** Producers who want one plugin covering multiple piano types and eras without buying separate libraries.
 
-[→ Get Arturia Piano V3 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia Piano V3 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Piano%20V3&a_aid=69cb95abe1763)
 
 ---
 
@@ -108,7 +108,7 @@ Pianoteq 8 contains no sample recordings. Every note is generated in real time t
 
 **Best for:** Producers on limited storage, live performers, and anyone who needs true physical behavior across the full dynamic range.
 
-[→ Get Pianoteq 8 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Pianoteq 8 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Pianoteq%208&a_aid=69cb95abe1763)
 
 ---
 
@@ -125,7 +125,7 @@ Keyscape is the benchmark that most other keyboard plugins are measured against 
 
 **Best for:** Film composers, pop producers, and anyone who needs a complete acoustic and electric keyboard library from one license.
 
-[→ Get Keyscape on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Keyscape on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Keyscape&a_aid=69cb95abe1763)
 
 ---
 
@@ -142,7 +142,7 @@ The Grandeur is NI's concert grand built on the Kontakt sampling engine, with de
 
 **Best for:** Classical and jazz producers who need a reliable concert grand without the Keyscape price.
 
-[→ Get The Grandeur on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get The Grandeur on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20The%20Grandeur&a_aid=69cb95abe1763)
 
 ---
 
@@ -159,7 +159,7 @@ The Ravenscroft 275 is built from an extensively recorded Ravenscroft 275 concer
 
 **Best for:** Producers who want sample realism without Keyscape's price or Pianoteq's modeling learning curve.
 
-[→ Get Ravenscroft 275 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Ravenscroft 275 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Ravenscroft%20275&a_aid=69cb95abe1763)
 
 ---
 
@@ -178,7 +178,7 @@ XLN Audio's Addictive Keys platform separates the player from individual instrum
 
 **Best for:** Indie, folk, singer-songwriter, and any track where an upright piano's intimacy fits better than a concert grand's projection.
 
-[→ Get Addictive Keys on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Addictive Keys on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Addictive%20Keys%20Modern%20Upright&a_aid=69cb95abe1763)
 
 ---
 
@@ -197,7 +197,7 @@ Lounge Lizard EP-4 uses AAS's physical modeling engine to simulate the mechanica
 
 **Best for:** Producers who want to shape electric piano tone from the ground up rather than work from a fixed sample character.
 
-[→ Get Lounge Lizard EP-4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Lounge Lizard EP-4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Lounge%20Lizard%20EP-4&a_aid=69cb95abe1763)
 
 ---
 
@@ -214,7 +214,7 @@ Scarbee Mark I is sample-based, built from an extensively recorded Fender Rhodes
 
 **Best for:** R&B, soul, and neo-soul producers who need a realistic vintage Rhodes without sourcing or maintaining a physical instrument.
 
-[→ Get Scarbee Mark I on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Scarbee Mark I on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Scarbee%20Mark%20I&a_aid=69cb95abe1763)
 
 ---
 
@@ -233,7 +233,7 @@ Spitfire Audio Felt Piano delivers the tonal character of a piano with felt stri
 
 **Best for:** Soundtrack composers, sync writers, and ambient producers who need a consistently intimate piano palette.
 
-[→ Get Spitfire Audio Felt Piano on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Spitfire Audio Felt Piano on Plugin Boutique](https://labs.spitfireaudio.com/)
 
 ---
 
@@ -250,7 +250,7 @@ Una Corda is NI's one-string-per-note experimental piano, developed in collabora
 
 **Best for:** Ambient producers, film composers, and tracks where a conventional piano character would be tonally plain.
 
-[→ Get Una Corda on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Una Corda on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Una%20Corda&a_aid=69cb95abe1763)
 
 ---
 
@@ -264,7 +264,7 @@ Una Corda is NI's one-string-per-note experimental piano, developed in collabora
 - **Price:** ~$99
 - **Why upgrade:** Piano One delivers one static acoustic grand character with limited pedal modeling and fixed release samples. Arturia Piano V3 delivers a full suite of historically modeled instruments — concert grands, uprights, and tack-piano treatments — with a physics engine that responds to pedaling and dynamics far more convincingly than Piano One's fixed velocity layers. Producers who use Piano One for demos consistently report that Piano V3 handles slow, expressive passages in a way that Piano One noticeably cannot.
 
-[→ Get Arturia Piano V3 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia Piano V3 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Piano%20V3&a_aid=69cb95abe1763)
 
 ---
 
@@ -276,7 +276,7 @@ Una Corda is NI's one-string-per-note experimental piano, developed in collabora
 - **Price:** ~$79
 - **Why upgrade:** LABS Soft Piano gives you one fixed tonal character with basic controls. The full Felt Piano expands to multiple microphone positions, more granular velocity layers, and additional tonal variations that give you enough palette range to score full cues rather than picking up a single atmospheric texture. Producers who use LABS Soft Piano regularly for sync and ambient work tend to find the fixed character limiting within a few months of working with it seriously.
 
-[→ Get Spitfire Audio Felt Piano on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Spitfire Audio Felt Piano on Plugin Boutique](https://labs.spitfireaudio.com/)
 
 ---
 
@@ -284,18 +284,18 @@ Una Corda is NI's one-string-per-note experimental piano, developed in collabora
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Piano One | Free | Sampled Grand | Neutral tone, multi-velocity | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Piano One | Free | Sampled Grand | Neutral tone, multi-velocity | [Get It](https://labs.spitfireaudio.com/) |
 | Spitfire LABS Soft Piano | Free | Felt/Prepared | Intimate, lo-fi-friendly | [Download](https://labs.spitfireaudio.com/) |
-| Arturia Piano V3 | ~$99 | Modeled/Hybrid | Multiple piano types, physics engine | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Pianoteq 8 | ~$149 | Physical Modeling | No samples, ~80MB, true dynamics | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Keyscape | ~$399 | Sampled Grand + Electric | 59 instruments, 70GB+, pro standard | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| The Grandeur | ~$49 | Sampled Grand | Kontakt Player, bright concert tone | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Ravenscroft 275 | ~$149 | Sampled Grand | Balanced tone, detailed round-robin | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Addictive Keys Modern Upright | ~$49 | Sampled Upright | Intimate, singer-songwriter character | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Lounge Lizard EP-4 | ~$99 | Modeled Electric | Rhodes + Wurlitzer, fully tweakable | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Scarbee Mark I | ~$49 | Sampled Electric | Vintage Rhodes, R&B/soul reference | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Spitfire Felt Piano | ~$79 | Felt/Prepared | Air Studios recording, sync-ready | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Una Corda | ~$79 | Prepared/Toy | One-string, ambient/cinematic | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia Piano V3 | ~$99 | Modeled/Hybrid | Multiple piano types, physics engine | [Get It](https://labs.spitfireaudio.com/) |
+| Pianoteq 8 | ~$149 | Physical Modeling | No samples, ~80MB, true dynamics | [Get It](https://labs.spitfireaudio.com/) |
+| Keyscape | ~$399 | Sampled Grand + Electric | 59 instruments, 70GB+, pro standard | [Get It](https://labs.spitfireaudio.com/) |
+| The Grandeur | ~$49 | Sampled Grand | Kontakt Player, bright concert tone | [Get It](https://labs.spitfireaudio.com/) |
+| Ravenscroft 275 | ~$149 | Sampled Grand | Balanced tone, detailed round-robin | [Get It](https://labs.spitfireaudio.com/) |
+| Addictive Keys Modern Upright | ~$49 | Sampled Upright | Intimate, singer-songwriter character | [Get It](https://labs.spitfireaudio.com/) |
+| Lounge Lizard EP-4 | ~$99 | Modeled Electric | Rhodes + Wurlitzer, fully tweakable | [Get It](https://labs.spitfireaudio.com/) |
+| Scarbee Mark I | ~$49 | Sampled Electric | Vintage Rhodes, R&B/soul reference | [Get It](https://labs.spitfireaudio.com/) |
+| Spitfire Felt Piano | ~$79 | Felt/Prepared | Air Studios recording, sync-ready | [Get It](https://labs.spitfireaudio.com/) |
+| Una Corda | ~$79 | Prepared/Toy | One-string, ambient/cinematic | [Get It](https://labs.spitfireaudio.com/) |
 
 ---
 
@@ -343,7 +343,7 @@ Velocity sensitivity is the only essential feature for all twelve plugins on thi
 
 For most bedroom producers, the practical path is clear: start with LABS Soft Piano and Piano One (both free) to understand what acoustic and textured piano can do in your tracks, then step up to Arturia Piano V3 when you need range beyond a single instrument character. For electric piano, Scarbee Mark I handles vintage Rhodes at a price that removes any barrier to entry. If your work is serious enough to warrant Keyscape or Pianoteq 8, those are self-justifying purchases — the community consensus on both has been consistent for years.
 
-[→ Browse all piano VST plugins on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Browse all piano VST plugins on Plugin Boutique](https://labs.spitfireaudio.com/)
 
 ---
 

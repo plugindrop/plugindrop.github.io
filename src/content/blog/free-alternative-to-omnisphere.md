@@ -25,10 +25,10 @@ draft: false
 |--------|-------|----------|--------|
 | Surge XT | Free | Cinematic pads, FM, deep modulation | [Free Download](https://surge-synthesizer.github.io/) |
 | Vital | Free | Wavetable, spectral morph, modern sound design | [Free Download](https://vital.audio/) |
-| Phase Plant Lite | Free | Modular synthesis exploration | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| ZynAddSubFX | Free | Additive/PADsynth orchestral textures | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Phase Plant Lite | Free | Modular synthesis exploration | [Plugin Boutique](https://kilohearts.com/products/phase_plant) |
+| ZynAddSubFX | Free | Additive/PADsynth orchestral textures | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=ZynAddSubFX&a_aid=69cb95abe1763) |
 | Phase Plant | $99 | Full modular design, no generator cap | [Free Download](https://kilohearts.com/products/phase_plant) |
-| Arturia Pigments 4 | $99 | Premium multi-engine synthesis | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia Pigments 4 | $99 | Premium multi-engine synthesis | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Pigments%204&a_aid=69cb95abe1763) |
 
 ---
 
@@ -105,7 +105,7 @@ Phase Plant Lite is an honest preview of a paid product. Kilohearts' commercial 
 
 **Best for:** Producers exploring modular-style synthesis and anyone evaluating Phase Plant as a long-term Omnisphere alternative.
 
-[→ Get Phase Plant Lite on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Phase Plant Lite on Plugin Boutique](https://kilohearts.com/products/phase_plant)
 
 ---
 
@@ -126,7 +126,7 @@ ZynAddSubFX does not offer granular audio manipulation, sample import, or a mode
 
 **Best for:** Composers and sound designers who need evolving harmonic textures and are willing to work with a more complex, older interface.
 
-[→ Get ZynAddSubFX on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get ZynAddSubFX on Plugin Boutique](https://www.pluginboutique.com/search?search_query=ZynAddSubFX&a_aid=69cb95abe1763)
 
 ---
 
@@ -152,7 +152,7 @@ ZynAddSubFX does not offer granular audio manipulation, sample import, or a mode
 - **Price:** $99
 - **Why upgrade:** Pigments 4 combines wavetable, virtual analog, harmonic (additive), sample, and granular engines in one instrument — covering the synthesis breadth that Omnisphere users rely on across multiple modes. The free alternatives each cover one or two engine types well. Pigments covers all of them. Reddit's r/edmproduction community rates Pigments' modulation system and visual interface as among the most approachable multi-engine instruments at this price tier.
 
-[→ Get Arturia Pigments 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia Pigments 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Pigments%204&a_aid=69cb95abe1763)
 
 ---
 
@@ -162,10 +162,10 @@ ZynAddSubFX does not offer granular audio manipulation, sample import, or a mode
 |--------|-------|------|------------|-----|
 | Surge XT | Free | Hybrid (wavetable, FM, subtractive, resonator) | Per-scene layering, deep mod matrix, large patch library | [Free Download](https://surge-synthesizer.github.io/) |
 | Vital | Free | Spectral wavetable | Drag-drop modulation, spectral morph, wavetable import | [Free Download](https://vital.audio/) |
-| Phase Plant Lite | Free | Modular (2-generator cap) | Full engine quality, Snapin-compatible, visual routing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| ZynAddSubFX | Free | Additive / PADsynth | 128-partial additive engine, unique harmonic textures | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Phase Plant Lite | Free | Modular (2-generator cap) | Full engine quality, Snapin-compatible, visual routing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Pigments%204&a_aid=69cb95abe1763) |
+| ZynAddSubFX | Free | Additive / PADsynth | 128-partial additive engine, unique harmonic textures | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Pigments%204&a_aid=69cb95abe1763) |
 | Phase Plant | $99 | Modular (full) | No generator limits, complete Snapin ecosystem | [kilohearts.com](https://kilohearts.com/products/phase_plant) |
-| Arturia Pigments 4 | $99 | Multi-engine (5 engines) | Wavetable + granular + additive + sample + analog | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia Pigments 4 | $99 | Multi-engine (5 engines) | Wavetable + granular + additive + sample + analog | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Pigments%204&a_aid=69cb95abe1763) |
 
 ---
 
@@ -202,7 +202,7 @@ On macOS, AU is the native format and is generally preferred for stability withi
 
 For producers searching for a free alternative to Omnisphere VST in 2026, **Vital and Surge XT are the two instruments to download first** — both are fully functional at the free tier, actively maintained, and carry synthesis capabilities that justify professional use. If a $99 budget is available and you need multi-engine range in a single instrument, **Arturia Pigments 4 is the community's most-cited upgrade path** and the closest single-instrument match to Omnisphere's synthesis breadth at that price point.
 
-[→ Download Vital Free](https://vital.audio/) | [→ Download Surge XT Free](https://surge-synthesizer.github.io/) | [→ Get Arturia Pigments 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Download Vital Free](https://vital.audio/) | [→ Download Surge XT Free](https://surge-synthesizer.github.io/) | [→ Get Arturia Pigments 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Pigments%204&a_aid=69cb95abe1763)
 
 ---
 

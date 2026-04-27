@@ -20,12 +20,12 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Decent Sampler | Free | General sampling, massive free library ecosystem | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| sforzando | Free | SFZ format libraries, technically precise playback | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| TX16Wx | Free | Full-featured, DAW-grade creative sampling | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| HISE | Free | Building and distributing custom sampler instruments | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| XT Sampler | Free | Modern UI, accessible SFZ playback for beginners | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Grace | Free (Win only) | Lightweight, stable playback on older hardware | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Decent Sampler | Free | General sampling, massive free library ecosystem | [Plugin Boutique](https://www.decentsamples.com/product/decent-sampler-plugin/) |
+| sforzando | Free | SFZ format libraries, technically precise playback | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=sforzando&a_aid=69cb95abe1763) |
+| TX16Wx | Free | Full-featured, DAW-grade creative sampling | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=TX16Wx&a_aid=69cb95abe1763) |
+| HISE | Free | Building and distributing custom sampler instruments | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=HISE&a_aid=69cb95abe1763) |
+| XT Sampler | Free | Modern UI, accessible SFZ playback for beginners | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=XT%20Sampler&a_aid=69cb95abe1763) |
+| Grace | Free (Win only) | Lightweight, stable playback on older hardware | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Grace&a_aid=69cb95abe1763) |
 
 ---
 
@@ -56,7 +56,7 @@ The UI is intentionally minimal at the engine level, but developers script per-i
 
 **Best for:** Producers building a free library collection from scratch, especially orchestral, cinematic, and acoustic instrument work.
 
-[→ Download Decent Sampler Free](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Download Decent Sampler Free](https://www.decentsamples.com/product/decent-sampler-plugin/)
 
 ---
 
@@ -75,7 +75,7 @@ The trade-off is an intentionally bare-bones interface. sforzando loads SFZ file
 
 **Best for:** SFZ library users who need the most accurate and well-maintained free SFZ player, particularly for large professional SFZ collections.
 
-[→ Download sforzando Free](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Download sforzando Free](https://www.pluginboutique.com/search?search_query=sforzando&a_aid=69cb95abe1763)
 
 ---
 
@@ -94,7 +94,7 @@ TX16Wx loads SFZ files, its own TX format, and raw sample imports — functionin
 
 **Best for:** Producers who want to build and map custom instruments from raw samples in addition to loading SFZ libraries.
 
-[→ Get TX16Wx on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get TX16Wx on Plugin Boutique](https://www.pluginboutique.com/search?search_query=TX16Wx%20Software%20Sampler&a_aid=69cb95abe1763)
 
 ---
 
@@ -113,7 +113,7 @@ For end-users loading libraries in a production session, HISE is not the right t
 
 **Best for:** Developers and technically advanced producers building and distributing their own custom sampler instruments.
 
-[→ Get HISE on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get HISE on Plugin Boutique](https://www.pluginboutique.com/search?search_query=HISE&a_aid=69cb95abe1763)
 
 ---
 
@@ -132,7 +132,7 @@ Community discussion on r/edmproduction is lighter for XT Sampler compared to De
 
 **Best for:** Producers new to free samplers who want clean SFZ playback without a learning curve.
 
-[→ Download XT Sampler Free](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Download XT Sampler Free](https://www.pluginboutique.com/search?search_query=XT%20Sampler&a_aid=69cb95abe1763)
 
 ---
 
@@ -151,7 +151,7 @@ The significant caveat in 2026 is Windows-only support. Producers on macOS canno
 
 **Best for:** Windows producers on older or lower-spec hardware who need a lightweight, stable sample player with a proven long-term track record.
 
-[→ Get Grace on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Grace on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Grace&a_aid=69cb95abe1763)
 
 ---
 
@@ -165,7 +165,7 @@ The significant caveat in 2026 is Windows-only support. Producers on macOS canno
 - **Price:** $499 (Kontakt Player is free but restricted)
 - **Why upgrade:** The free Kontakt Player loads only NKI libraries specifically authorized for it — purchasing a third-party NKI library does not unlock it in the free player. The full Kontakt 7 removes this restriction entirely, giving access to thousands of commercial NKI libraries from orchestral, cinematic, ethnic instrument, and sound design developers. For producers whose workflow depends on third-party commercial NKI content, no free alternative provides a substitute. Full Kontakt 7 also includes unlimited sample import, the complete scripting environment, and Native Instruments' full factory content library.
 
-[→ Get Native Instruments Kontakt 7 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Native Instruments Kontakt 7 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Kontakt%207&a_aid=69cb95abe1763)
 
 ---
 
@@ -173,13 +173,13 @@ The significant caveat in 2026 is Windows-only support. Producers on macOS canno
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Decent Sampler | Free | Library player (.dspreset) | Largest free library ecosystem; custom per-instrument UIs | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| sforzando | Free | SFZ player | Full SFZ 2.0 compliance; by Plogue; technically precise | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| TX16Wx | Free | Full sampler + SFZ player | Multi-layer mapping, onboard FX, modulation routing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| HISE | Free | Sampler dev platform | Open-source; exports standalone VST/AU/AAX plugins | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| XT Sampler | Free | SFZ player | Modern UI; low CPU; beginner-accessible | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Grace | Free (Win only) | Sample player | Lightweight; stable on older hardware; long track record | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Kontakt 7 | $499 | Full sampler (NKI) | Unlocks all third-party NKI libraries; industry standard | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Decent Sampler | Free | Library player (.dspreset) | Largest free library ecosystem; custom per-instrument UIs | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Kontakt%207&a_aid=69cb95abe1763) |
+| sforzando | Free | SFZ player | Full SFZ 2.0 compliance; by Plogue; technically precise | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Kontakt%207&a_aid=69cb95abe1763) |
+| TX16Wx | Free | Full sampler + SFZ player | Multi-layer mapping, onboard FX, modulation routing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Kontakt%207&a_aid=69cb95abe1763) |
+| HISE | Free | Sampler dev platform | Open-source; exports standalone VST/AU/AAX plugins | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Kontakt%207&a_aid=69cb95abe1763) |
+| XT Sampler | Free | SFZ player | Modern UI; low CPU; beginner-accessible | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Kontakt%207&a_aid=69cb95abe1763) |
+| Grace | Free (Win only) | Sample player | Lightweight; stable on older hardware; long track record | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Kontakt%207&a_aid=69cb95abe1763) |
+| Kontakt 7 | $499 | Full sampler (NKI) | Unlocks all third-party NKI libraries; industry standard | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Kontakt%207&a_aid=69cb95abe1763) |
 
 ---
 
@@ -227,7 +227,7 @@ Kontakt Player is genuinely free and available directly from Native Instruments.
 
 Decent Sampler is the strongest free Kontakt alternative in 2026 for the majority of producers — its library ecosystem makes it immediately productive, and active development means it improves consistently. If your work depends on third-party commercial NKI libraries, Kontakt 7 is the only tool that removes that restriction without compromise.
 
-[→ Get Decent Sampler on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Decent Sampler on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Kontakt%207&a_aid=69cb95abe1763)
 
 ---
 

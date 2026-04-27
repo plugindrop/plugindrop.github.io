@@ -142,7 +142,7 @@ SPAN is Voxengo's free spectrum analyzer, and its consistent presence in mixing 
 
 **Best for:** Frequency-domain reference during mixing, low-end balance checks, mastering analysis
 
-[→ Search SPAN on Plugin Boutique](https://www.pluginboutique.com/search?search_query=SPAN&a_aid=69cb95abe1763)
+[→ Search SPAN on Plugin Boutique](https://www.voxengo.com/product/span/)
 
 ---
 
@@ -281,7 +281,7 @@ FabFilter Pro-Q 3 is the EQ that r/mixthis, r/audioengineering, and KVR's mixing
 - **Price:** $899 (individual plugins available separately)
 - **Why upgrade:** Pro-Q 3 covers EQ with professional depth, but the Total Bundle adds Pro-C 2 (compressor), Pro-L 2 (limiter), Pro-R (reverb), Pro-MB (multiband compressor), Saturn 2 (multiband saturation and distortion), and the creative bundle including Timeless 3 and Volcano 3. KVR and r/audioengineering describe the full FabFilter suite as a cohesive professional workflow — the consistent GUI philosophy, cross-plugin spectrum display, and unified preset management make sessions faster to navigate than assembling a comparable toolkit from multiple developers.
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763)
 
 ---
 
@@ -314,7 +314,7 @@ FabFilter Pro-Q 3 is the EQ that r/mixthis, r/audioengineering, and KVR's mixing
 | Chow Tape Model | Free | Tape Saturation | Physical model, research-based hysteresis | — |
 | Melda MFreeFXBundle | Free | Multi-FX Bundle | 37 plugins across all processing categories | — |
 | FabFilter Pro-Q 3 | $179 | Parametric / Dynamic EQ | Per-band dynamic EQ, collision detection, linear phase | [Get It](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| FabFilter Total Bundle | $899 | Full Suite | 14 plugins, cohesive GUI, cross-plugin spectrum display | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| FabFilter Total Bundle | $899 | Full Suite | 14 plugins, cohesive GUI, cross-plugin spectrum display | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
 | Valhalla VintageVerb | $50 | Algorithmic Reverb | 18 vintage algorithms, tight rooms to large halls | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
 
 ---

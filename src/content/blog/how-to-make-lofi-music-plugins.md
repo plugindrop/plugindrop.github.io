@@ -26,7 +26,7 @@ draft: false
 | RC-20 Retro Color | $99 | All-in-one noise, wobble, and saturation suite | [Official Site](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) |
 | Valhalla Supermassive | Free | Lo-fi ambient reverb and shimmer | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Dub-3 | Free | Warm tape delay with BPM sync | [Free Download](https://tal-software.com/products/tal-dub) |
-| Arturia Pigments 4 | $199 | Lo-fi synth textures with built-in vintage character | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia Pigments 4 | $199 | Lo-fi synth textures with built-in vintage character | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Pigments%204&a_aid=69cb95abe1763) |
 
 ---
 
@@ -154,7 +154,7 @@ The saturation in the feedback path is the key distinguishing feature: each repe
 - **Price:** $199
 - **Why upgrade:** Free synthesizers typically lack the granular and wavetable engines needed for the evolving, textured pad sounds central to modern lo-fi production. Pigments 4 includes a built-in vintage filter section and analog-modeled FX chain, which reduces the need for a separate character plugin on synth channels — the vintage color is built into the instrument's own signal path.
 
-[→ Get Arturia Pigments 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia Pigments 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Pigments%204&a_aid=69cb95abe1763)
 
 ---
 
@@ -166,7 +166,7 @@ The saturation in the feedback path is the key distinguishing feature: each repe
 | RC-20 Retro Color | $99 | Multi-FX lo-fi suite | Noise, Wobble, Distortion, Space, Lag, Lo-Fi modules with interaction | [Get It](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) |
 | Valhalla Supermassive | Free | Algorithmic reverb | Multiple modes, built-in modulation/chorus, Linux support | [Download Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Dub-3 | Free | Tape delay | BPM sync, saturation in feedback path, dub-style character | [Download Free](https://tal-software.com/products/tal-dub) |
-| Arturia Pigments 4 | $199 | Synthesizer | Granular/wavetable engines, built-in vintage filter and FX | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia Pigments 4 | $199 | Synthesizer | Granular/wavetable engines, built-in vintage filter and FX | [Get It](https://www.pluginboutique.com/search?search_query=Arturia%20Pigments%204&a_aid=69cb95abe1763) |
 
 ---
 

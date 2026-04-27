@@ -27,7 +27,7 @@ draft: false
 | FabFilter Pro-Q 3 | $179 | Surgical EQ | [FabFilter](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | Waves Tune Real-Time | from $29 | Real-time pitch correction | [Waves](https://www.waves.com/plugins/waves-tune-real-time) |
 | Valhalla Supermassive | Free | Reverb & spatial depth | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Waves Vocal Bundle | varies | Full Waves vocal toolkit | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Waves Vocal Bundle | varies | Full Waves vocal toolkit | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20Vocal%20Bundle&a_aid=69cb95abe1763) |
 
 ---
 
@@ -283,7 +283,7 @@ FabFilter Pro-L 2 is the most-recommended transparent limiter in KVR Audio and G
 - **Price:** varies (check current bundle pricing)
 - **Why upgrade:** Buying Waves vocal tools individually — Tune Real-Time, Vocal Rider, Doubler, and related plugins — adds up faster than the bundle price. For producers who want to cover multiple vocal chain positions with Waves tools rather than a single plugin, the bundle is the practical entry point over per-plugin purchasing.
 
-[→ Get Waves Vocal Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Waves Vocal Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20Vocal%20Bundle&a_aid=69cb95abe1763)
 
 ---
 

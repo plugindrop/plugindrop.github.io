@@ -25,7 +25,7 @@ draft: false
 | Rough Rider 3 | Free | Character compression, pump effects | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
 | FabFilter Pro-C 2 | $179 | Full-mix versatility, visual workflow | [Get It](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
 | Waves SSL G-Master Buss Compressor | $29.99 | Bus glue, console mix bus character | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| Waves SSL 4000 Collection | from $199 | Complete SSL channel + bus workflow | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Waves SSL 4000 Collection | from $199 | Complete SSL channel + bus workflow | [Plugin Boutique](https://www.waves.com/plugins/ssl-e-channel) |
 
 ---
 
@@ -155,7 +155,7 @@ The 4–6dB gain reduction sweet spot that mix engineers discuss extensively is 
 - **Price:** from $199
 - **Why upgrade:** The standalone SSL G-Master Buss Compressor covers bus compression effectively, but the SSL 4000 Collection adds the channel compressor, equalizer, and gate from the same console architecture. Producers who want consistent SSL character across individual channel strips and the mix bus — rather than only the bus section — will find the collection more practical and cost-effective than assembling the SSL sound from separately purchased components.
 
-[→ Get Waves SSL 4000 Collection on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Waves SSL 4000 Collection on Plugin Boutique](https://www.waves.com/plugins/ssl-e-channel)
 
 ---
 
@@ -167,7 +167,7 @@ The 4–6dB gain reduction sweet spot that mix engineers discuss extensively is 
 | Rough Rider 3 | Free | Character | Audible pump, creative parallel use | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
 | FabFilter Pro-C 2 | $179 | Multi-mode | 8 styles, visual feedback, all-stage | [Get It](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
 | Waves SSL G-Master Buss | $29.99 | VCA bus | SSL console glue, mix bus character | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| Waves SSL 4000 Collection | from $199 | Console bundle | Full SSL channel + bus workflow | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Waves SSL 4000 Collection | from $199 | Console bundle | Full SSL channel + bus workflow | [Plugin Boutique](https://www.waves.com/plugins/ssl-e-channel) |
 
 ---
 

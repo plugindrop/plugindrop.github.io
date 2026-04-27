@@ -23,12 +23,12 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Klanghelm SDRR | Free | Most versatile — tube, tape, and clip modes | [Free Download](https://klanghelm.com/contents/products/SDRR.php) |
-| Saturation Knob | Free | Instant warmth on any signal | [Free Download](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Saturation Knob | Free | Instant warmth on any signal | [Free Download](https://www.pluginboutique.com/search?search_query=Saturation%20Knob&a_aid=69cb95abe1763) |
 | IVGI | Free | Transparent analog warmth without harshness | [Free Download](https://vladgsound.wordpress.com/plugins/ivgi/) |
 | Tape Cassette 2 | Free | Lo-fi cassette character | [Free Download](https://caelum-audio.com) |
 | Chow Tape Model | Free | Detailed reel-to-reel tape emulation | [Free Download](https://github.com/jatinchowdhury18/AnalogTapeModel) |
 | Caramel | Free | Solid saturation in MeldaProduction's free bundle | [Free Download](https://www.meldaproduction.com/) |
-| Cyanide 2 | Free | Aggressive digital distortion and grit | [Free Download](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Cyanide 2 | Free | Aggressive digital distortion and grit | [Free Download](https://www.pluginboutique.com/search?search_query=Cyanide%202&a_aid=69cb95abe1763) |
 
 ---
 
@@ -59,7 +59,7 @@ Softube's Saturation Knob is a single-page interface built around one large knob
 
 **Best for:** Quick warmth on leads, pads, and drum groups when you need results without menu-diving.
 
-[→ Download Saturation Knob Free](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Download Saturation Knob Free](https://www.pluginboutique.com/search?search_query=Saturation%20Knob&a_aid=69cb95abe1763)
 
 ---
 
@@ -186,7 +186,7 @@ Cyanide 2 applies digital distortion and overdrive with a focus on aggressive, c
 
 **Best for:** Synth bass distortion, drum distortion, sound design, and any context where grit and edge are the goal rather than warmth.
 
-[→ Download Cyanide 2 Free](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Download Cyanide 2 Free](https://www.pluginboutique.com/search?search_query=Cyanide%202&a_aid=69cb95abe1763)
 
 ---
 
@@ -255,13 +255,13 @@ Chris Johnson releases all Airwindows plugins free as part of an ongoing Patreon
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Klanghelm SDRR | Free | Tube / Tape / Clip | 4 modes, bias and symmetry controls | [Download](https://klanghelm.com/contents/products/SDRR.php) |
-| Saturation Knob | Free | Analog modeled | 3 frequency modes, one-knob simplicity | [Download](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Saturation Knob | Free | Analog modeled | 3 frequency modes, one-knob simplicity | [Download](https://www.soundtoys.com/product/decapitator/) |
 | IVGI | Free | Tube preamp model | Transparent, low harshness, parallel blend | [Download](https://vladgsound.wordpress.com/plugins/ivgi/) |
 | bx_saturator V2 | Free | Mid/Side saturation | Independent M/S control, professional grade | [Download](https://www.plugin-alliance.com) |
 | Tape Cassette 2 | Free | Cassette tape | Wow/flutter, lo-fi degradation | [Download](https://caelum-audio.com) |
 | Chow Tape Model | Free | Reel-to-reel physical model | SONY TC-260 model, open source | [Download](https://github.com/jatinchowdhury18/AnalogTapeModel) |
 | Ferric TDS | Free (Win) | Tape dynamics | Glue/compression focus, Windows VST2 | [Download](https://varietyofsound.wordpress.com) |
-| Cyanide 2 | Free | Digital distortion | Hard clipping, waveshaping, grit | [Download](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Cyanide 2 | Free | Digital distortion | Hard clipping, waveshaping, grit | [Download](https://www.soundtoys.com/product/decapitator/) |
 | Caramel | Free | Saturation | Part of MFreeFXBundle, Melda quality | [Download](https://www.meldaproduction.com/) |
 | Airwindows Density | Free | Gain/Saturation | Minimal interface, weight and focus | [Download](https://www.airwindows.com) |
 | FabFilter Saturn 2 | $179 | Multiband saturation | 6 bands, modulation system, per-band control | [Get It](https://www.fabfilter.com/products/saturn-2-multiband-distortion-saturation-plug-in) |

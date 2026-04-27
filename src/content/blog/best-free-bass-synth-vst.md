@@ -247,7 +247,7 @@ Triple Cheese uses three comb filters as its primary sound source instead of con
 - **Price:** Paid — check Plugin Boutique for current pricing
 - **Why upgrade:** Tyrell N6's two oscillators with hard sync and ring modulation, combined with u-he's filter implementation, produce analog-style bass tones that sit in a mix with natural authority. If the warmth of Podolski's filter appeals but you need greater modulation depth, a second oscillator, and harder-edged tonal options, Tyrell N6 is the direct architectural step up within the same sound design philosophy.
 
-[→ Get u-he Tyrell N6 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get u-he Tyrell N6 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=u-he%20Tyrell%20N6&a_aid=69cb95abe1763)
 
 ---
 
@@ -266,7 +266,7 @@ Triple Cheese uses three comb filters as its primary sound source instead of con
 | Podolski | Free | Subtractive (mono) | Simple, CPU-light, clean sub, built-in arpeggiator | [Download](https://u-he.com/products/podolski/) |
 | Triple Cheese | Free | Comb filter | Unique metallic bass textures, industrial character | [Download](https://u-he.com/products/triple-cheese/) |
 | Scaler 2 | ~$49 | Compositional tool | Scale/chord detection, bass pattern generation | [Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/70-Utility/6439-Scaler-2?a_aid=69cb95abe1763) |
-| u-he Tyrell N6 | Paid | Virtual analog | Hard sync, ring mod, u-he filter quality | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| u-he Tyrell N6 | Paid | Virtual analog | Hard sync, ring mod, u-he filter quality | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=u-he%20Tyrell%20N6&a_aid=69cb95abe1763) |
 
 ---
 
