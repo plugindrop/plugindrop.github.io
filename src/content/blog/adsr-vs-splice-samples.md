@@ -21,9 +21,9 @@ draft: false
 | Platform | Model | Best For | Get It |
 |----------|-------|----------|--------|
 | ADSR Sounds Subscription | Pack/subscription access | Genre specialists, quality-focused producers | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) |
-| Splice Sounds Subscription | Credit-based per sample | High-volume downloaders, genre explorers | Plugin Boutique |
+| Splice Sounds Subscription | Credit-based per sample | High-volume downloaders, genre explorers | [Splice](https://splice.com/sounds) |
 | ADSR Sounds + Plugin Boutique Ecosystem | Subscription + store | Producers who also buy plugins and courses | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) |
-| Splice Higher Credit Tiers | Credit-based (scaled) | Producers downloading 100+ samples monthly | Plugin Boutique |
+| Splice Higher Credit Tiers | Credit-based (scaled) | Producers downloading 100+ samples monthly | [Splice](https://splice.com/sounds) |
 | ADSR Free Packs | Free tier | Producers evaluating curation quality before committing | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) |
 
 ---
@@ -144,7 +144,7 @@ ADSR Sounds' subscription gives access to the curated library — you download w
 | Ecosystem | Plugin Boutique (plugins + education) | Standalone; stems access on select content |
 | Community Reputation | "High quality-per-sample ratio" | "Go-to for volume, search, and variety" |
 | Free Entry Point | Free packs available | Free trial credits on signup |
-| Get It | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) | Plugin Boutique |
+| Get It | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) | [Splice](https://splice.com/sounds) |
 
 ---
 

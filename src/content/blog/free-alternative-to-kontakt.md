@@ -21,10 +21,10 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Decent Sampler | Free | General sampling, massive free library ecosystem | [Official Site](https://www.decentsamples.com/product/decent-sampler-plugin/) |
-| sforzando | Free | SFZ format libraries, technically precise playback | Plugin Boutique |
+| sforzando | Free | SFZ format libraries, technically precise playback | [Official Site](https://www.plogue.com/products/sforzando.html) |
 | TX16Wx | Free | Full-featured, DAW-grade creative sampling | [Official Site](https://www.tx16wx.com/) |
 | HISE | Free | Building and distributing custom sampler instruments | [Official Site](https://hise.audio/) |
-| XT Sampler | Free | Modern UI, accessible SFZ playback for beginners | Plugin Boutique |
+| XT Sampler | Free | Modern UI, accessible SFZ playback for beginners | [Official Site](https://www.cwitec.com/xt-sampler) |
 | Grace | Free (Win only) | Lightweight, stable playback on older hardware | [Official Site](https://www.onesmallclue.com/plugin/grace/) |
 
 ---

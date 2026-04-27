@@ -266,7 +266,7 @@ Triple Cheese uses three comb filters as its primary sound source instead of con
 | Podolski | Free | Subtractive (mono) | Simple, CPU-light, clean sub, built-in arpeggiator | [Download](https://u-he.com/products/podolski/) |
 | Triple Cheese | Free | Comb filter | Unique metallic bass textures, industrial character | [Download](https://u-he.com/products/triple-cheese/) |
 | Scaler 2 | ~$49 | Compositional tool | Scale/chord detection, bass pattern generation | [Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/70-Utility/6439-Scaler-2?a_aid=69cb95abe1763) |
-| u-he Tyrell N6 | Paid | Virtual analog | Hard sync, ring mod, u-he filter quality | Plugin Boutique |
+| u-he Tyrell N6 | Paid | Virtual analog | Hard sync, ring mod, u-he filter quality | [Official Site](https://u-he.com/products/tyrelln6/) |
 
 ---
 

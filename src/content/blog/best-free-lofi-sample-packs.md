@@ -295,8 +295,8 @@ MSXII Sound Design is one of the most-cited creators in lo-fi hip hop production
 | Looperman Melodies | Free | Melodies/Chords | Deep catalog, unusual harmony, community-rated | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) |
 | Splice Free | Free | Chords | Professional recording quality, precise filtering | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) |
 | MSXII Free | Free | Chords/Full | Genre specialist, jazz/soul voicings | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) |
-| Loopmasters Lo-Fi | Paid | All-in-one | Live instruments, label quality, full licensing | Plugin Boutique |
-| ADSR Sounds Premium | Paid | All-in-one | Mastered, stems, commercial license no attribution | Plugin Boutique |
+| Loopmasters Lo-Fi | Paid | All-in-one | Live instruments, label quality, full licensing | [Loopmasters](https://www.loopmasters.com/) |
+| ADSR Sounds Premium | Paid | All-in-one | Mastered, stems, commercial license no attribution | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) |
 
 ---
 

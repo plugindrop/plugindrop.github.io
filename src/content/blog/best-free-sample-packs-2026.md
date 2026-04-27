@@ -26,8 +26,8 @@ draft: false
 | Freesound.org | Free | Sound design, FX, field recording | See guide |
 | Looperman | Free | Loops, a cappellas, stems | See guide |
 | Bedroom Producers Blog | Free | Weekly curated free releases | See guide |
-| Loopmasters | Paid (~$15+) | Pro genre-specific packs | Plugin Boutique |
-| ADSR Sounds Packs | Paid | Deep genre expansion | Plugin Boutique |
+| Loopmasters | Paid (~$15+) | Pro genre-specific packs | [Loopmasters](https://www.loopmasters.com/) |
+| ADSR Sounds Packs | Paid | Deep genre expansion | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) |
 
 ---
 
@@ -165,8 +165,8 @@ The free sources above cover most production needs. These two paid platforms con
 | Freesound.org | Free | CC community library | Unique textures, FX, field recordings | See guide |
 | Looperman | Free | Community uploads | A cappellas, loops, BPM/key tagged | See guide |
 | Bedroom Producers Blog | Free | Editorial curation | Weekly roundups of best new free releases | See guide |
-| Loopmasters | Paid (~$15+) | Pro packs | Mix-ready, genre-specific, high production value | Plugin Boutique |
-| ADSR Sounds Packs | Paid | Curated packs | Deep genre coverage, same curation standard as free tier | Plugin Boutique |
+| Loopmasters | Paid (~$15+) | Pro packs | Mix-ready, genre-specific, high production value | [Loopmasters](https://www.loopmasters.com/) |
+| ADSR Sounds Packs | Paid | Curated packs | Deep genre coverage, same curation standard as free tier | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) |
 
 ---
 

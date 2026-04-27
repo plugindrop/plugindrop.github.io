@@ -20,7 +20,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Piano One (Sound Magic) | Free | Neutral acoustic grand, zero cost | Plugin Boutique |
+| Piano One (Sound Magic) | Free | Neutral acoustic grand, zero cost | [Official Site](https://www.kvraudio.com/product/piano-one-by-sound-magic) |
 | Spitfire LABS Soft Piano | Free | Intimate felt-muted atmosphere | [Free Download](https://labs.spitfireaudio.com/) |
 | Arturia Piano V3 | ~$99 | Multiple modeled grands in one plugin | [Official Site](https://www.arturia.com/products/software-instruments/piano-v/overview) |
 | Pianoteq 8 | ~$149 | Physical modeling, ~80MB install | [Official Site](https://www.modartt.com/pianoteq) |
