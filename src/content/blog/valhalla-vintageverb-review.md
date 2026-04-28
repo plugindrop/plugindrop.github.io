@@ -23,9 +23,9 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Valhalla VintageVerb | $50 | All-purpose vintage digital reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
+| Valhalla VintageVerb | $50 | All-purpose vintage digital reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | Valhalla Room | $50 | Realistic acoustic rooms and small spaces | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-room/) |
-| Valhalla Delay | $50 | Modulated delay with reverb-like diffused tails | [Official Site](https://valhalladsp.com/shop/delay/valhalla-delay/) |
+| Valhalla Delay | $50 | Modulated delay with reverb-like diffused tails | [Official Site](https://valhalladsp.com/shop/delay/valhalladelay//) |
 | TAL-Reverb-4 | Free | Lush plate reverb on a zero budget | [Free Download](https://tal-software.com/products/tal-reverb-4) |
 | Dragonfly Reverb | Free | Open-source hall and room algorithms | [Free Download](https://github.com/michaelwillis/dragonfly-reverb/releases) |
 | OldSkoolVerb (MeldaProduction) | Free | Smooth, transparent ambience at no cost | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |
@@ -61,7 +61,7 @@ The plugin was created by Sean Costello, a reverb algorithm designer whose acade
 
 **Best for:** Producers, engineers, and composers who want a single reverb that handles everything from tight vocal ambience to massive cinematic halls, without opening a second plugin.
 
-[→ Get Valhalla VintageVerb (Official Site)](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/)
+[→ Get Valhalla VintageVerb (Official Site)](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//)
 
 
 ---
@@ -149,14 +149,14 @@ VintageVerb is capable enough that most producers will never need anything else.
 ---
 
 
-[→ Get Valhalla Delay (Official Site)](https://valhalladsp.com/shop/delay/valhalla-delay/)
+[→ Get Valhalla Delay (Official Site)](https://valhalladsp.com/shop/delay/valhalladelay//)
 ## Full Comparison Table
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Valhalla VintageVerb | $50 | Algorithmic reverb | 18 algorithms, 3 color modes, minimal CPU | [Official Site](https://valhalladsp.com/shop/delay/valhalla-delay/) |
-| Valhalla Room | $50 | Room reverb | Realistic acoustic spaces, early reflection detail | [Official Site](https://valhalladsp.com/shop/delay/valhalla-delay/) |
-| Valhalla Delay | $50 | Delay + diffusion hybrid | 16 delay modes, modulation, diffusion tails | [Official Site](https://valhalladsp.com/shop/delay/valhalla-delay/) |
+| Valhalla VintageVerb | $50 | Algorithmic reverb | 18 algorithms, 3 color modes, minimal CPU | [Official Site](https://valhalladsp.com/shop/delay/valhalladelay//) |
+| Valhalla Room | $50 | Room reverb | Realistic acoustic spaces, early reflection detail | [Official Site](https://valhalladsp.com/shop/delay/valhalladelay//) |
+| Valhalla Delay | $50 | Delay + diffusion hybrid | 16 delay modes, modulation, diffusion tails | [Official Site](https://valhalladsp.com/shop/delay/valhalladelay//) |
 | TAL-Reverb-4 | Free | Plate/hall reverb | Simple interface, smooth sound, beginner-friendly | [Free Download](https://tal-software.com/products/tal-reverb-4) |
 | Dragonfly Reverb | Free | Hall/room reverb | Open-source, multiple algorithms, active development | [Free Download](https://github.com/michaelwillis/dragonfly-reverb/releases) |
 | OldSkoolVerb | Free | Transparent reverb | Very low CPU, smooth ambience, part of MFreeFXBundle | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |

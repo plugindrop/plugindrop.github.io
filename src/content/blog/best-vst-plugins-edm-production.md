@@ -289,7 +289,7 @@ LABS is a continuously expanding free sample library delivered through Spitfire'
 
 **Best for:** Organic textures, cinematic pad layers, and live instrument sounds that sit underneath or between electronic elements.
 
-[→ Download LABS Free](https://www.spitfireaudio.com/labs)
+[→ Download LABS Free](https://labs.spitfireaudio.com)
 
 ---
 
@@ -367,7 +367,7 @@ If you have exhausted the free options or are ready to invest in tools that will
 | Valhalla Supermassive | Free | Reverb/delay | Massive diffusion tails, pad modulation | [Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Reverb-4 | Free | Plate reverb | Warm, musical, low CPU | [Free](https://tal-software.com/products/tal-reverb-4) |
 | Valhalla Freq Echo | Free | Freq-shift delay | Metallic, psychedelic delay textures | [Free](https://valhalladsp.com/shop/delay/valhalla-freq-echo/) |
-| LABS | Free | Sample library | Cinematic, organic, continuously updated | [Free](https://www.spitfireaudio.com/labs) |
+| LABS | Free | Sample library | Cinematic, organic, continuously updated | [Free](https://labs.spitfireaudio.com) |
 | Podolski | Free | Subtractive synth | Clean sound, very low CPU, musical output | [Free](https://u-he.com/products/podolski/) |
 
 ---

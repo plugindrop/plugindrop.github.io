@@ -23,7 +23,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Klanghelm SDRR | Free | Most versatile — tube, tape, and clip modes | [Free Download](https://klanghelm.com/contents/products/SDRR.php) |
-| Saturation Knob | Free | Instant warmth on any signal | [Free Download](https://www.softube.com/saturationknob) |
+| Saturation Knob | Free | Instant warmth on any signal | [Free Download](https://www.softube.com/plug-ins/saturation-knob) |
 | IVGI | Free | Transparent analog warmth without harshness | [Free Download](https://vladgsound.wordpress.com/plugins/ivgi/) |
 | Tape Cassette 2 | Free | Lo-fi cassette character | [Free Download](https://caelum-audio.com) |
 | Chow Tape Model | Free | Detailed reel-to-reel tape emulation | [Free Download](https://github.com/jatinchowdhury18/AnalogTapeModel) |
@@ -59,7 +59,7 @@ Softube's Saturation Knob is a single-page interface built around one large knob
 
 **Best for:** Quick warmth on leads, pads, and drum groups when you need results without menu-diving.
 
-[→ Download Saturation Knob Free](https://www.softube.com/saturationknob)
+[→ Download Saturation Knob Free](https://www.softube.com/plug-ins/saturation-knob)
 
 ---
 

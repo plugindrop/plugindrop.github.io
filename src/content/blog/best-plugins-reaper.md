@@ -26,7 +26,7 @@ draft: false
 | TDR Nova | Free | Dynamic EQ, surgical mixing | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Valhalla Supermassive | Free | Ambient reverb, massive spatial effects | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | FabFilter Pro-Q 3 | $179 | Professional mixing and mastering EQ | [Official Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| Valhalla VintageVerb | $50 | Vintage-character studio reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
+| Valhalla VintageVerb | $50 | Vintage-character studio reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 
 ---
 
@@ -293,7 +293,7 @@ FabFilter Pro-Q 3 is the EQ that r/mixthis, r/audioengineering, and KVR's mixing
 - **Price:** $50
 - **Why upgrade:** Valhalla Supermassive is free and exceptional at large, ambient, and infinite-decay spaces — but that is its specialty. VintageVerb covers the territory Supermassive does not: 18 algorithms modeled on the character of iconic digital reverb hardware from the 1970s through the 1990s, with tighter room sizes, vintage plate and hall textures, and spatial color that works on individual tracks rather than just as an ambient send. KVR consistently rates it as the best value in paid reverb, and r/edmproduction and r/mixthis name it first when producers ask for a paid upgrade from the free reverb tier.
 
-[→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/)
+[→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//)
 
 ---
 
@@ -314,8 +314,8 @@ FabFilter Pro-Q 3 is the EQ that r/mixthis, r/audioengineering, and KVR's mixing
 | Chow Tape Model | Free | Tape Saturation | Physical model, research-based hysteresis | — |
 | Melda MFreeFXBundle | Free | Multi-FX Bundle | 37 plugins across all processing categories | — |
 | FabFilter Pro-Q 3 | $179 | Parametric / Dynamic EQ | Per-band dynamic EQ, collision detection, linear phase | [Get It](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| FabFilter Total Bundle | $899 | Full Suite | 14 plugins, cohesive GUI, cross-plugin spectrum display | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
-| Valhalla VintageVerb | $50 | Algorithmic Reverb | 18 vintage algorithms, tight rooms to large halls | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
+| FabFilter Total Bundle | $899 | Full Suite | 14 plugins, cohesive GUI, cross-plugin spectrum display | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
+| Valhalla VintageVerb | $50 | Algorithmic Reverb | 18 vintage algorithms, tight rooms to large halls | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 
 ---
 

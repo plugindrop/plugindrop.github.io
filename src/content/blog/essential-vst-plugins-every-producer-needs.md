@@ -225,7 +225,7 @@ The Saturation Knob is a single-parameter saturator with three selectable modes 
 
 **Best for:** Quick saturation on synths, bass, and parallel drum processing.
 
-[→ Download Softube Saturation Knob Free](https://www.softube.com/saturationknob)
+[→ Download Softube Saturation Knob Free](https://www.softube.com/plug-ins/saturation-knob)
 
 ---
 
@@ -297,7 +297,7 @@ RC-20 bundles six lo-fi effect modules — noise, wobble, distortion, reverb, li
 
 **Best for:** Lo-fi hip-hop, vintage aesthetics, and adding organic texture to digital productions.
 
-[→ Get RC-20 Retro Color](https://www.xlnaudio.com/products/rc-20)
+[→ Get RC-20 Retro Color](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color)
 
 ---
 
@@ -357,11 +357,11 @@ Ozone 11's Master Assistant analyzes your track and builds a starting mastering 
 | Waves SSL E-Channel | $29.99 | Channel Strip | SSL console EQ + dynamics | [Get it](https://www.waves.com/plugins/ssl-e-channel) |
 | Serum | $189 | Synthesizer | Wavetable editor, modulation matrix, FX | [Get it](https://xferrecords.com/products/serum-2) |
 | Vital | Free | Synthesizer | Spectral warping, advanced modulation | [Free Download](https://vital.audio/) |
-| Softube Saturation Knob | Free | Saturation | Single-knob, three modes | [Free Download](https://www.softube.com/saturationknob) |
+| Softube Saturation Knob | Free | Saturation | Single-knob, three modes | [Free Download](https://www.softube.com/plug-ins/saturation-knob) |
 | Slate Digital Fresh Air | Free | Enhancer | Artifact-free high-frequency lift | [Free Download](https://slatedigital.com/fresh-air/) |
 | Kontakt 7 | $399 | Sampler | Industry-standard, thousands of libraries | [Get it](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-7/) |
 | Addictive Drums 2 | $179 | Drums | Realistic kits, built-in channel mixer | [Get it](https://www.xlnaudio.com/products/addictive_drums_2) |
-| RC-20 Retro Color | $99 | Lo-Fi FX | 6 modules, organic texture design | [Get it](https://www.xlnaudio.com/products/rc-20) |
+| RC-20 Retro Color | $99 | Lo-Fi FX | 6 modules, organic texture design | [Get it](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
 | iZotope Ozone 11 | $249 | Mastering | AI Master Assistant, Stabilizer module | [Get it](https://www.izotope.com/en/products/ozone.html) |
 
 ---

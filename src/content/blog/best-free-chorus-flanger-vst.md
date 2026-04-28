@@ -26,7 +26,7 @@ draft: false
 | TAL-Flanger | Free | Analog-style flanging, zero friction | [Free Download](https://tal-software.com/products/tal-flanger) |
 | Valhalla SuperMassive | Free | Lush ensemble and chorus textures | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Arturia Chorus DIMENSION-D | $49 | Authentic Roland Dimension D emulation | [Get It](https://www.arturia.com/products/software-effects/chorus-dimension-d/overview) |
-| Valhalla Chorus | $50 | Studio-grade professional chorus | [Get It](https://valhalladsp.com/shop/modulation/valhallachorus/) |
+| Valhalla Chorus | $50 | Studio-grade professional chorus | [Get It](https://valhalladsp.com/plugins//) |
 
 ## Introduction
 
@@ -211,7 +211,7 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 - **Price:** $50
 - **Why upgrade:** Valhalla Chorus is not a hardware emulation — it's a modern algorithmic chorus designed for maximum clarity and flexibility. Producer communities on r/edmproduction note that it holds up under close scrutiny in mix contexts where free chorus options begin to show limitations. If TAL-Chorus-LX gives you the right character but you need more modulation depth, stereo imaging control, or stability in dense mix environments, Valhalla Chorus is the natural next step from the same developer whose free SuperMassive plugin is already on this list.
 
-[→ Get Valhalla Chorus](https://valhalladsp.com/shop/modulation/valhallachorus/)
+[→ Get Valhalla Chorus](https://valhalladsp.com/plugins//)
 [Watch Demo](https://www.youtube.com/watch?v=EzPouHxa18s)
 
 ---
@@ -221,7 +221,7 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 | Plugin | Price | Type | Highlights | Get It |
 |--------|-------|------|------------|--------|
 | TAL-Chorus-LX | Free | Chorus | JC-120 BBD emulation, minimal UI, cross-platform | [Free Download](https://tal-software.com/products/tal-chorus-lx) |
-| MFlanger | Free | Flanger | Multiband, deep LFO control, MFreeFXBundle | [Official Site](https://valhalladsp.com/shop/modulation/valhallachorus/) |
+| MFlanger | Free | Flanger | Multiband, deep LFO control, MFreeFXBundle | [Official Site](https://valhalladsp.com/plugins//) |
 | MChorus | Free | Chorus | Multiband chorus, visualization, MFreeFXBundle | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |
 | TAL-Flanger | Free | Flanger | Analog-modeled, simple UI, TAL quality | [Free Download](https://tal-software.com/products/tal-flanger) |
 | Valhalla SuperMassive | Free | Modulation/Reverb | Ensemble/chorus modes, ambient focus | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
@@ -229,7 +229,7 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 | GVST GChorus | Free | Chorus | Ultra-lightweight, Windows/VST2 only | [Free Download](https://www.gvst.co.uk/gchorus.htm) |
 | AirWindows Ensemble | Free | Ensemble/Chorus | Open source, no GUI, community-respected | [Free Download](https://www.airwindows.com) |
 | Arturia Chorus DIMENSION-D | $49 | Chorus | Roland Dimension D hardware emulation | [Get It](https://www.arturia.com/products/software-effects/chorus-dimension-d/overview) |
-| Valhalla Chorus | $50 | Chorus | Modern algorithmic, studio-grade | [Get It](https://valhalladsp.com/shop/modulation/valhallachorus/) |
+| Valhalla Chorus | $50 | Chorus | Modern algorithmic, studio-grade | [Get It](https://valhalladsp.com/plugins//) |
 
 ---
 

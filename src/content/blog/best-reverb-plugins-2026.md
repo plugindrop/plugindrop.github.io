@@ -26,7 +26,7 @@ draft: false
 | Valhalla Supermassive | Free | Ambient textures, creative reverb | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | OrilRiver | Free | Natural rooms and halls | [Free Download](https://www.kvraudio.com/product/orilriver-by-denis-tihanov) |
 | TAL-Reverb-4 | Free | Plate character, synths and pads | [Free Download](https://tal-software.com/products/tal-reverb-4) |
-| Valhalla VintageVerb | $50 | All-purpose studio algorithmic reverb | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
+| Valhalla VintageVerb | $50 | All-purpose studio algorithmic reverb | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | FabFilter Pro-R 2 | $179 | Precision mix reverb | [Get It](https://www.fabfilter.com/products/pro-r-2-reverb-plug-in) |
 | Eventide Blackhole | $99 | Expansive spatial design | [Official Site](https://www.eventideaudio.com/plug-ins/blackhole/) |
 
@@ -117,7 +117,7 @@ VintageVerb's seventeen modes model the room and hall algorithms of era-specific
 
 **Best for:** Producers ready for their first paid reverb who want classic studio shapes and vintage color that Supermassive's creative algorithms don't cover.
 
-[→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/)
+[→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//)
 
 ---
 
@@ -164,7 +164,7 @@ Blackhole is a plugin implementation of Eventide's H8000 Blackhole algorithm, wh
 | Valhalla Supermassive | Free | Algorithmic / textural | 16 distinct modes, massive tails, low CPU | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | OrilRiver | Free | Algorithmic | Full parameter set, room/hall/plate, Windows only | [Free Download](https://www.kvraudio.com/product/orilriver-by-denis-tihanov) |
 | TAL-Reverb-4 | Free | Plate | Warm colored character, cross-platform, AU support | [Free Download](https://tal-software.com/products/tal-reverb-4) |
-| Valhalla VintageVerb | $50 | Algorithmic | 17 modes, 3 vintage color options, studio-ready shapes | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
+| Valhalla VintageVerb | $50 | Algorithmic | 17 modes, 3 vintage color options, studio-ready shapes | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | FabFilter Pro-R 2 | $179 | Spectral | EQ-style decay editor, HDR processing, transparent | [Get It](https://www.fabfilter.com/products/pro-r-2-reverb-plug-in) |
 | Eventide Blackhole | $99 | Algorithmic / spatial | Based on H8000 algorithm, infinite evolving spaces | [Official Site](https://www.eventideaudio.com/plug-ins/blackhole/) |
 

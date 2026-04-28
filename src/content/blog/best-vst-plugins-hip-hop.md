@@ -111,7 +111,7 @@ LABS is a free-forever collection of sampled instruments distributed through Spi
 
 **Best for:** Melodic, textural hip-hop producers who want high-quality instrument samples at zero cost.
 
-[→ Download LABS Free](https://www.spitfireaudio.com/labs)
+[→ Download LABS Free](https://labs.spitfireaudio.com)
 
 ---
 
@@ -350,7 +350,7 @@ LoudMax is a look-ahead true peak limiter that producer forums recommend when yo
 | Waves SSL G-Master | From $29 | Bus Compressor | SSL 4000 G emulation, drum bus glue | [Get it](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | iZotope Vinyl | Free | Character Effect | Vinyl artifact simulation, lofi texture, instant character | [Free](https://www.izotope.com/en/products/vinyl.html) |
 | Vital | Free | Wavetable Synth | Serum-class engine, custom wavetables, free tier | [Free](https://vital.audio) |
-| LABS | Free | Sample Library | High-quality instrument samples, released periodically | [Free](https://www.spitfireaudio.com/labs) |
+| LABS | Free | Sample Library | High-quality instrument samples, released periodically | [Free](https://labs.spitfireaudio.com) |
 | Valhalla Supermassive | Free | Reverb | Lush algorithmic reverb, CPU-efficient, universal pick | [Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Surge XT | Free | Hybrid Synth | Wavetable + FM + analog, open source, deep modulation | [Free](https://surge-synthesizer.github.io) |
 | OB-Xd | Free | Analog Synth | Oberheim emulation, warm character, vintage stabs | [Free](https://www.discodsp.com/obxd/) |

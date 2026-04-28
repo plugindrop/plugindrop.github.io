@@ -28,7 +28,7 @@ draft: false
 | FabFilter Pro-C 2 | $179 | Transparent to punchy compression | [Get It](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
 | Klanghelm DC8C | ~$23 | Character compression, drums & bus | [Get It](https://klanghelm.com/contents/products/DC8C.php) |
 | iZotope Neutron | ~$249 | AI-assisted full channel strip | [Official Site](https://www.izotope.com/en/products/neutron.html) |
-| Valhalla VintageVerb | $50 | Lush algorithmic reverb, any genre | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
+| Valhalla VintageVerb | $50 | Lush algorithmic reverb, any genre | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 
 ---
 
@@ -160,7 +160,7 @@ Community consensus across Reddit's production forums describes VintageVerb's al
 
 **Best for:** Any producer who needs a workhorse algorithmic reverb that sounds musical across genres and does not compete with other mix elements for space.
 
-[→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/)
+[→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//)
 
 ---
 

@@ -95,7 +95,7 @@ Valhalla Delay packs tape, BBD, digital, pitch-shifting, and reverb-hybrid modes
 
 **Best for:** Rhythmic delays, tape-style slapbacks, pitch-shifted leads, ambient feedback textures.
 
-[→ Get Valhalla Delay (Official Site)](https://valhalladsp.com/shop/delay/valhalla-delay/)
+[→ Get Valhalla Delay (Official Site)](https://valhalladsp.com/shop/delay/valhalladelay//)
 
 
 ---
@@ -342,26 +342,26 @@ MFreeFXBundle is the most generous free plugin release in the industry — a lar
 ---
 
 
-[→ Get Valhalla Delay (Official Site)](https://valhalladsp.com/shop/delay/valhalla-delay/)
+[→ Get Valhalla Delay (Official Site)](https://valhalladsp.com/shop/delay/valhalladelay//)
 ## Full Comparison Table
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Valhalla Room | $50 | Reverb | Multiple algorithms, pro-grade tails | [Buy](https://valhalladsp.com/shop/delay/valhalla-delay/) |
-| Valhalla Supermassive | Free | Reverb/Delay | FDN spaces, shimmer, zero cost | [Get](https://valhalladsp.com/shop/delay/valhalla-delay/) |
-| Valhalla Delay | $50 | Delay | Tape, BBD, pitch-shift modes | [Buy](https://valhalladsp.com/shop/delay/valhalla-delay/) |
-| Xfer OTT | Free | Multiband Compressor | 3-band upward compression, genre staple | [Get](https://valhalladsp.com/shop/delay/valhalla-delay/) |
-| Analog Obsession BUSTERse | Free | Bus Compressor | SSL-style glue, zero cost | [Get](https://valhalladsp.com/shop/delay/valhalla-delay/) |
-| Klanghelm MJUC jr. | Free | Compressor | Variable-mu tube character | [Get](https://valhalladsp.com/shop/delay/valhalla-delay/) |
-| TDR Limiter 6 GE | ~$60* | Limiter | 6-stage modular mastering chain | [Buy](https://valhalladsp.com/shop/delay/valhalla-delay/) |
-| TDR Nova | Free | Dynamic EQ | Parallel dynamic EQ, transparent | [Get](https://valhalladsp.com/shop/delay/valhalla-delay/) |
-| Baby Audio Smooth Operator | $49 | Spectral Processor | Intelligent mix balancing | [Buy](https://valhalladsp.com/shop/delay/valhalla-delay/) |
-| Klanghelm SDRR | $21 | Saturation | 4 distinct drive modes | [Buy](https://valhalladsp.com/shop/delay/valhalla-delay/) |
-| Chow Tape Model | Free | Tape Emulation | Physically modeled, open-source | [Get](https://valhalladsp.com/shop/delay/valhalla-delay/) |
-| Surge XT | Free | Synthesizer | Hybrid engine, massive preset library | [Get](https://valhalladsp.com/shop/delay/valhalla-delay/) |
-| u-he Zebralette | Free | Synthesizer | Spectral oscillator, u-he quality | [Get](https://valhalladsp.com/shop/delay/valhalla-delay/) |
-| Sitala | Free | Drum Sampler | 16-pad, no-friction workflow | [Get](https://valhalladsp.com/shop/delay/valhalla-delay/) |
-| Melda MFreeFXBundle | Free | Bundle | Dozens of processors, no watermarks | [Get](https://valhalladsp.com/shop/delay/valhalla-delay/) |
+| Valhalla Room | $50 | Reverb | Multiple algorithms, pro-grade tails | [Buy](https://valhalladsp.com/shop/delay/valhalladelay//) |
+| Valhalla Supermassive | Free | Reverb/Delay | FDN spaces, shimmer, zero cost | [Get](https://valhalladsp.com/shop/delay/valhalladelay//) |
+| Valhalla Delay | $50 | Delay | Tape, BBD, pitch-shift modes | [Buy](https://valhalladsp.com/shop/delay/valhalladelay//) |
+| Xfer OTT | Free | Multiband Compressor | 3-band upward compression, genre staple | [Get](https://valhalladsp.com/shop/delay/valhalladelay//) |
+| Analog Obsession BUSTERse | Free | Bus Compressor | SSL-style glue, zero cost | [Get](https://valhalladsp.com/shop/delay/valhalladelay//) |
+| Klanghelm MJUC jr. | Free | Compressor | Variable-mu tube character | [Get](https://valhalladsp.com/shop/delay/valhalladelay//) |
+| TDR Limiter 6 GE | ~$60* | Limiter | 6-stage modular mastering chain | [Buy](https://valhalladsp.com/shop/delay/valhalladelay//) |
+| TDR Nova | Free | Dynamic EQ | Parallel dynamic EQ, transparent | [Get](https://valhalladsp.com/shop/delay/valhalladelay//) |
+| Baby Audio Smooth Operator | $49 | Spectral Processor | Intelligent mix balancing | [Buy](https://valhalladsp.com/shop/delay/valhalladelay//) |
+| Klanghelm SDRR | $21 | Saturation | 4 distinct drive modes | [Buy](https://valhalladsp.com/shop/delay/valhalladelay//) |
+| Chow Tape Model | Free | Tape Emulation | Physically modeled, open-source | [Get](https://valhalladsp.com/shop/delay/valhalladelay//) |
+| Surge XT | Free | Synthesizer | Hybrid engine, massive preset library | [Get](https://valhalladsp.com/shop/delay/valhalladelay//) |
+| u-he Zebralette | Free | Synthesizer | Spectral oscillator, u-he quality | [Get](https://valhalladsp.com/shop/delay/valhalladelay//) |
+| Sitala | Free | Drum Sampler | 16-pad, no-friction workflow | [Get](https://valhalladsp.com/shop/delay/valhalladelay//) |
+| Melda MFreeFXBundle | Free | Bundle | Dozens of processors, no watermarks | [Get](https://valhalladsp.com/shop/delay/valhalladelay//) |
 
 *TDR Limiter 6 GE regularly sells below $50 during Plugin Boutique sales events.
 

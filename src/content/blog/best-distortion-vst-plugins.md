@@ -28,7 +28,7 @@ draft: false
 | Waves J37 Tape | varies | Tape warmth, classic British character | [Official Site](https://www.waves.com/plugins/j37-tape) |
 | Klanghelm SDRR | ~$19 | Best-value analog saturation | [Official Site](https://klanghelm.com/contents/products/SDRR.php) |
 | Chow Tape Model | Free | Physically modeled tape saturation | [Free Download](https://chowdsp.com/products.html) |
-| Softube Saturation Knob | Free | Instant harmonic warmth, zero setup | [Free Download](https://www.softube.com/saturation-knob) |
+| Softube Saturation Knob | Free | Instant harmonic warmth, zero setup | [Free Download](https://www.softube.com/plug-ins/saturation-knob) |
 | iZotope Trash 2 | $49–99 | Extreme creative distortion | izotope.com |
 
 ---
@@ -215,7 +215,7 @@ Softube's Saturation Knob is a single continuous control with three underlying m
 
 **Best for:** Quick saturation inserts on any channel; especially useful for high-frequency detail on drums and percussion.
 
-[→ Download Softube Saturation Knob Free](https://www.softube.com/saturation-knob)
+[→ Download Softube Saturation Knob Free](https://www.softube.com/plug-ins/saturation-knob)
 
 ---
 
@@ -294,7 +294,7 @@ If you have been working with IVGI, Saturation Knob, Chow Tape Model, or TAL-Sat
 | Soundtoys Devil-Loc Deluxe | ~$99 | Limiting/distortion | Shure Level-Loc model, parallel mix | soundtoys.com |
 | Plugin Alliance HG-2 | ~$199 | Boutique tube/transformer | Two-stage hardware model, transparent | pluginalliance.com |
 | Chow Tape Model | Free | Physical tape model | Physics-based, open source, flutter/wow | [Free](https://chowdsp.com/products.html) |
-| Softube Saturation Knob | Free | Frequency-aware saturation | 3 modes, zero config, fast insert | [Free](https://www.softube.com/saturation-knob) |
+| Softube Saturation Knob | Free | Frequency-aware saturation | 3 modes, zero config, fast insert | [Free](https://www.softube.com/plug-ins/saturation-knob) |
 | IVGI by Klanghelm | Free | Analog circuit saturation | Same developer as SDRR, no limitations | [Free](https://klanghelm.com/contents/products/IVGI.php) |
 | TAL-Saturator V2 | Free | Waveshaper | Lightweight, stable, Linux support | [Free](https://tal-software.com/products/tal-saturator) |
 

@@ -26,7 +26,7 @@ draft: false
 | OTT | Free | EDM sound design, bus processing | [Free Download](https://xferrecords.com/freeware/) |
 | MMultiband | Free | Full-featured multiband, deep customization | [Plugin Boutique](https://www.meldaproduction.com/) |
 | Waves C6 Lite | Free | Mixing, broadcast, mastering fundamentals | [Plugin Boutique](https://www.waves.com/plugins/c6-multiband-compressor) |
-| Kilohearts Multiband Compressor | Free | Clean, snap-based dynamics | [Free Download](https://kilohearts.com/products/multiband_compressor) |
+| Kilohearts Multiband Compressor | Free | Clean, snap-based dynamics | [Free Download](https://kilohearts.com/products/multipass) |
 | GVST GMulti | Free | Lightweight Windows utility compression | [Free Download](https://www.gvst.co.uk/gmulti.htm) |
 
 ---
@@ -134,7 +134,7 @@ It is a focused tool without deep feature layers, which is either a feature or a
 
 **Best for:** Producers in the Kilohearts ecosystem and anyone who wants a clean, approachable free multiband compressor without steep interface complexity.
 
-[→ Download Kilohearts Multiband Compressor Free](https://kilohearts.com/products/multiband_compressor)
+[→ Download Kilohearts Multiband Compressor Free](https://kilohearts.com/products/multipass)
 
 ---
 
@@ -229,7 +229,7 @@ Its value in 2026 is as a utility and educational resource: quick three-band glu
 | OTT | Free | Multiband Up/Down Comp | 3-band, upward + downward comp, signature EDM tone | [Download](https://xferrecords.com/freeware/) |
 | MMultiband | Free | Multiband Compressor | Up to 6 bands, full modulation engine, A/B comparison | [Official Site](https://www.izotope.com/en/products/ozone.html) |
 | Waves C6 Lite | Free | Multiband Compressor | 6 bands, wideband/multiband modes, broadcast-grade | [Official Site](https://www.izotope.com/en/products/ozone.html) |
-| Kilohearts Multiband Comp | Free | Snap Plugin | Clean interface, Kilohearts ecosystem integration | [Download](https://kilohearts.com/products/multiband_compressor) |
+| Kilohearts Multiband Comp | Free | Snap Plugin | Clean interface, Kilohearts ecosystem integration | [Download](https://kilohearts.com/products/multipass) |
 | GVST GMulti | Free | Multiband Compressor | Low CPU, Windows-only, utility compression | [Download](https://www.gvst.co.uk/gmulti.htm) |
 | Calf Multiband | Free | Multiband Compressor | LV2/Linux native, open source, 5 bands, active development | [Download](https://calf-studio-gear.org/) |
 | mda Multiband | Free | Multiband Compressor | Open source, 3 bands, minimal CPU, educational value | [Download](https://sourceforge.net/projects/mda-vst/) |

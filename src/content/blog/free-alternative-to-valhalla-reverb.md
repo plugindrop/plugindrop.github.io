@@ -26,8 +26,8 @@ draft: false
 | Valhalla Supermassive | Free | Ambient, space, cinematic tails | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Reverb-4 | Free | Plate reverb, vocals, vintage shimmer | [Free Download](https://tal-software.com/products/tal-reverb-4) |
 | Dragonfly Reverb | Free | Rooms, halls, early reflections | [Free Download](https://michaelwillis.github.io/dragonfly-reverb/) |
-| OldSkoolVerb | Free | Lush vintage algorithmic reverb | [Free Download](https://www.meldaproduction.com/MOldSkoolVerb) |
-| Valhalla VintageVerb | $50 | All-around studio reverb, 18 algorithms | [Get It Here](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
+| OldSkoolVerb | Free | Lush vintage algorithmic reverb | [Free Download](https://www.meldaproduction.com/MCharmVerb) |
+| Valhalla VintageVerb | $50 | All-around studio reverb, 18 algorithms | [Get It Here](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | Valhalla Room | $50 | Tight room simulation, drums, vocals | [Get It Here](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 
 ---
@@ -122,7 +122,7 @@ There are two practical friction points worth flagging. First, installing MOldSk
 
 **Best for:** Vintage character reverb, lush pads, mix contexts where warmth and smoothness outrank neutrality, producers already using other Melda tools.
 
-[→ Download OldSkoolVerb Free](https://www.meldaproduction.com/MOldSkoolVerb)
+[→ Download OldSkoolVerb Free](https://www.meldaproduction.com/MCharmVerb)
 
 ---
 
@@ -136,7 +136,7 @@ There are two practical friction points worth flagging. First, installing MOldSk
 - **Price:** $50
 - **Why upgrade:** Supermassive covers ambient and spatial work at no cost, but VintageVerb adds 18 distinct reverb algorithms explicitly modeled on specific eras of reverb hardware, including Hall, Room, Plate, Chamber, and Postmodern modes that Supermassive's architecture doesn't include. Reddit's r/audioengineering consistently cites VintageVerb as the single strongest value in algorithmic reverb across any price tier — the gap between the free tier and VintageVerb is directly tied to algorithmic range and the quality of its room and hall modes.
 
-[→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/)
+[→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//)
 
 ---
 
@@ -159,8 +159,8 @@ There are two practical friction points worth flagging. First, installing MOldSk
 | Valhalla Supermassive | Free | Algorithmic | 16 delay lines, massive diffuse tails, shimmer modes | [Download Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Reverb-4 | Free | Plate/Hall | Warm vintage character, shimmer mode, low CPU | [Download Free](https://tal-software.com/products/tal-reverb-4) |
 | Dragonfly Reverb | Free | Algorithmic Suite | 4 separate plugins: Room, Hall, Plate, Early Reflections | [Download Free](https://michaelwillis.github.io/dragonfly-reverb/) |
-| OldSkoolVerb | Free | Algorithmic | Vintage warmth, smooth tail, part of MFreeFXBundle | [Download Free](https://www.meldaproduction.com/MOldSkoolVerb) |
-| Valhalla VintageVerb | $50 | Algorithmic | 18 hardware-era algorithms, gold-standard community rating | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
+| OldSkoolVerb | Free | Algorithmic | Vintage warmth, smooth tail, part of MFreeFXBundle | [Download Free](https://www.meldaproduction.com/MCharmVerb) |
+| Valhalla VintageVerb | $50 | Algorithmic | 18 hardware-era algorithms, gold-standard community rating | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | Valhalla Room | $50 | Room Simulator | Tight early reflections, precision room ambience | [Get It](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 
 ---

@@ -293,7 +293,7 @@ Softube's Saturation Knob does exactly what the name says: one big saturation co
 
 **Best for:** Quick saturation on any source, learning how saturation affects tone.
 
-[→ Download Softube Saturation Knob Free](https://www.softube.com/saturationknob)
+[→ Download Softube Saturation Knob Free](https://www.softube.com/plug-ins/saturation-knob)
 
 ---
 
@@ -433,7 +433,7 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 | Valhalla Freq Echo | Free | Delay | BBD character, pitch shifting | [Developer Site](https://valhalladsp.com/shop/delay/valhalla-freq-echo/) |
 | TAL-Chorus-LX | Free | Modulation | Juno-60 emulation, instant shimmer | [Developer Site](https://tal-software.com/products/tal-chorus-lx) |
 | Chow Tape Model | Free | Saturation | Physical tape model, open-source | [Developer Site](https://chowdsp.com/products.html) |
-| Softube Saturation Knob | Free | Saturation | One-knob, three modes, foolproof | [Developer Site](https://www.softube.com/saturationknob) |
+| Softube Saturation Knob | Free | Saturation | One-knob, three modes, foolproof | [Developer Site](https://www.softube.com/plug-ins/saturation-knob) |
 | MT Power Drum Kit 2 | Free | Drums | Acoustic drums, MIDI grooves | [Developer Site](https://www.powerdrumkit.com/) |
 | LABS | Free | Instruments | Orchestral/cinematic, expanding library | [Developer Site](https://labs.spitfireaudio.com/) |
 | Decent Sampler | Free | Sample Player | Huge free community library ecosystem | [Developer Site](https://www.decentsamples.com/product/decent-sampler-plugin/) |

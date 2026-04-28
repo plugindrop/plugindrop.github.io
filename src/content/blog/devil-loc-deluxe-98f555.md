@@ -3,7 +3,7 @@ title: "Devil Loc Deluxe"
 description: "SoundToys Devil-Loc Deluxe is down to **$39** (was ~~$99~~) — that's 60% off a character compression plugin built for producers who want destructive,..."
 pubDate: "2026-04-23T23:42:59Z"
 tags: ["vst-plugin", "music-production"]
-affiliate: "https://www.soundtoys.com/product/devil-loc-deluxe/&utm_source=plugindrop&utm_medium=article&utm_campaign=devil-loc-deluxe-98f555"
+affiliate: "https://www.soundtoys.com/product/devil-loc-deluxe?utm_source=plugindrop&utm_medium=article&utm_campaign=devil-loc-deluxe-98f555"
 heroImage: "/images/devil-loc-deluxe-98f555.jpg"
 score: 4.00
 dealPrice: "$39"
@@ -12,7 +12,7 @@ discount: "60% OFF"
 xText: "devil loc deluxe finally landed and the character stacking is supposedly next level now. real talk—if you've been sleeping on it, this might be the update that clicks."
 draft: false
 ---
-**TL;DR:** SoundToys Devil-Loc Deluxe is down to **$39** (was ~~$99~~) — that's 60% off a character compression plugin built for producers who want destructive, musical crushing on their tracks. [Grab it directly from SoundToys here.](https://www.soundtoys.com/product/devil-loc-deluxe/&utm_source=plugindrop&utm_medium=article&utm_campaign=devil-loc-deluxe-98f555)
+**TL;DR:** SoundToys Devil-Loc Deluxe is down to **$39** (was ~~$99~~) — that's 60% off a character compression plugin built for producers who want destructive, musical crushing on their tracks. [Grab it directly from SoundToys here.](https://www.soundtoys.com/product/devil-loc-deluxe?utm_source=plugindrop&utm_medium=article&utm_campaign=devil-loc-deluxe-98f555)
 
 ---
 
@@ -56,7 +56,7 @@ Devil-Loc Deluxe has earned a strong reputation in mixing communities over the y
 
 SoundToys doesn't run 60%-off sales on individual plugins constantly — when they do discount, it's often tied to seasonal promotions or limited campaigns. At $39, this is well below the typical street price for this plugin. Note: deals can change at any time. Verify current pricing on the product page before purchasing.
 
-[Lock in the $39 deal at SoundToys.](https://www.soundtoys.com/product/devil-loc-deluxe/&utm_source=plugindrop&utm_medium=article&utm_campaign=devil-loc-deluxe-98f555)
+[Lock in the $39 deal at SoundToys.](https://www.soundtoys.com/product/devil-loc-deluxe?utm_source=plugindrop&utm_medium=article&utm_campaign=devil-loc-deluxe-98f555)
 
 ---
 
@@ -92,7 +92,7 @@ A: SoundToys has offered trial versions of their plugins in the past — check t
 
 60% off puts Devil-Loc Deluxe at $39 — a strong price for one of SoundToys' most distinctive compression tools. If you've had this on your wishlist, this is a solid window to pull the trigger.
 
-[Get Devil-Loc Deluxe for $39 at SoundToys →](https://www.soundtoys.com/product/devil-loc-deluxe/&utm_source=plugindrop&utm_medium=article&utm_campaign=devil-loc-deluxe-98f555)
+[Get Devil-Loc Deluxe for $39 at SoundToys →](https://www.soundtoys.com/product/devil-loc-deluxe?utm_source=plugindrop&utm_medium=article&utm_campaign=devil-loc-deluxe-98f555)
 
 ---
 

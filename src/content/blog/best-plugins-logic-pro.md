@@ -23,7 +23,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 3 | $179 | Precision EQ with dynamic capability | [Developer Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| Valhalla VintageVerb | $50 | Algorithmic reverb at any budget | [Developer Site](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
+| Valhalla VintageVerb | $50 | Algorithmic reverb at any budget | [Developer Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | FabFilter Pro-C 2 | $179 | Transparent and character compression | [Developer Site](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
 | Serum | $189 | Wavetable synthesis with modern workflow | [Developer Site](https://xferrecords.com/products/serum-2) |
 | iZotope Neutron 4 | $249+ | AI-assisted mix analysis | [Developer Site](https://www.izotope.com/en/products/neutron.html) |
@@ -144,7 +144,7 @@ Valhalla VintageVerb models reverb algorithms from the 1970s and 1980s — the R
 
 **Best for:** Algorithmic reverb for any genre, especially lush and musical spatial character.
 
-[→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/)
+[→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//)
 
 ---
 
@@ -344,7 +344,7 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 | FabFilter Pro-C 2 | $179 | Compressor | 8 styles, visual GR display | [Get It](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
 | Klanghelm MJUC jr. | Free | Compressor | Variable-mu warmth, bus glue | [Get It](https://www.izotope.com/en/products/music-production-suite.html) |
 | OTT | Free | Multiband Comp | Extreme upward/downward compression | [Get It](https://www.izotope.com/en/products/music-production-suite.html) |
-| Valhalla VintageVerb | $50 | Reverb | 17 algorithms, $50 price | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
+| Valhalla VintageVerb | $50 | Reverb | 17 algorithms, $50 price | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | ValhallaDelay | $50 | Delay | 16 modes, tape through pitch-shift | [Get It](https://www.izotope.com/en/products/music-production-suite.html) |
 | Serum | $189 | Wavetable Synth | Custom wavetable editor, massive preset market | [Get It](https://xferrecords.com/products/serum-2) |
 | Vital | Free | Wavetable Synth | Spectral warping, 3 oscillators | [Get It](https://vital.audio) |

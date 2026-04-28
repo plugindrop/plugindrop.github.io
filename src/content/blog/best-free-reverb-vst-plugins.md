@@ -147,7 +147,7 @@ OldSkoolVerb leans into the grainy, slightly off-color quality of early hardware
 
 **Best for:** Lo-fi production, vintage hip-hop, any context where reverb character beats transparency.
 
-[→ Download OldSkoolVerb Free (Official)](https://www.meldaproduction.com/MOldSkoolVerb)
+[→ Download OldSkoolVerb Free (Official)](https://www.meldaproduction.com/MCharmVerb)
 
 
 ---

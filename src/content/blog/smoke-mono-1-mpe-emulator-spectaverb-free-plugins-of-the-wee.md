@@ -3,7 +3,7 @@ title: "Smoke Mono 1, MPE Emulator, Spectaverb: Free Plugins of the Week"
 description: "Three free plugins just dropped — headlined by a synth from legendary producer Mike Dean — and all are available at zero cost right now. While you're..."
 pubDate: "2026-04-26T06:28:17Z"
 tags: ["tips  tricks", "effect", "free", "free plug-ins this week", "freeware", "linux", "midi", "monophonic", "music-production"]
-affiliate: "https://www.soundtoys.com/product/decapitator/&utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee"
+affiliate: "https://www.soundtoys.com/product/decapitator?utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee"
 heroImage: "/images/smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee.png"
 score: 7.95
 dealPrice: "$69"
@@ -12,7 +12,7 @@ discount: "65% OFF"
 xText: "three free plugins hit different this week. spectaverb's the one you actually need. smoke mono 1 and mpe emulator too. go grab now"
 draft: false
 ---
-**TL;DR:** Three free plugins just dropped — headlined by a synth from legendary producer Mike Dean — and all are available at zero cost right now. While you're leveling up your toolkit, Plugin Boutique is currently offering Decapitator at ~~$199~~ **$69**. [Grab the Decapitator deal here.](https://www.soundtoys.com/product/decapitator/&utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee)
+**TL;DR:** Three free plugins just dropped — headlined by a synth from legendary producer Mike Dean — and all are available at zero cost right now. While you're leveling up your toolkit, Plugin Boutique is currently offering Decapitator at ~~$199~~ **$69**. [Grab the Decapitator deal here.](https://www.soundtoys.com/product/decapitator?utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee)
 
 ---
 
@@ -77,7 +77,7 @@ Spectaverb uses spectral processing — FFT-based analysis and resynthesis — t
 
 All three are freeware — no promo code required.
 
-If you want a premium addition this week, Plugin Boutique has Decapitator at ~~$199~~ **$69** right now — a significant drop on one of saturation's most-referenced tools. [Official Site](https://www.soundtoys.com/product/decapitator/&utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee)
+If you want a premium addition this week, Plugin Boutique has Decapitator at ~~$199~~ **$69** right now — a significant drop on one of saturation's most-referenced tools. [Official Site](https://www.soundtoys.com/product/decapitator?utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee)
 
 > Verify current pricing on the product page — deals can change without notice.
 
@@ -115,7 +115,7 @@ A: Promotional pricing can change at any time — confirm the current price on P
 
 Three free plugins, one legendary name attached. Grab Smoke Mono 1, MPE Emulator, and Spectaverb now — and if the Decapitator deal at ~~$199~~ **$69** fits your workflow, that's a rare price point worth acting on.
 
-[Official Site](https://www.soundtoys.com/product/decapitator/&utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee)
+[Official Site](https://www.soundtoys.com/product/decapitator?utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee)
 
 ---
 

@@ -22,7 +22,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 3 | $179 | Surgical & dynamic EQ | [Official Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| Valhalla VintageVerb | $50 | Algorithmic reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
+| Valhalla VintageVerb | $50 | Algorithmic reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | Serum | $189 | Wavetable synthesis | [Official Site](https://xferrecords.com/products/serum-2) |
 | iZotope Neutron 4 | From $149 | AI-assisted mixing | [Official Site](https://www.izotope.com/en/products/neutron.html) |
 | TDR Nova | Free | Dynamics EQ on zero budget | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
@@ -107,7 +107,7 @@ VintageVerb models reverb algorithms inspired by classic hardware units of the 1
 
 **Best for:** Any reverb application from tight room ambience to dense, lush 80s hall — this is the one-reverb solution most Studio One rigs don't need to expand beyond.
 
-[→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/)
+[→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//)
 
 ---
 
@@ -288,7 +288,7 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 | FabFilter Pro-Q 3 | $179 | EQ | 24 bands, per-band dynamic EQ, M/S, linear phase | [Get it](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | TDR Nova | Free | Dynamics EQ | 4-band parametric + per-band compressor/expander | [Download](https://www.tokyodawn.net/tdr-nova/) |
 | iZotope Neutron 4 | From $149 | Channel Strip | AI Track Assistant, inter-plugin communication | [Get it](https://www.izotope.com/en/products/neutron.html) |
-| Valhalla VintageVerb | $50 | Reverb | Vintage algorithm models, 3 color modes per algo | [Get it](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
+| Valhalla VintageVerb | $50 | Reverb | Vintage algorithm models, 3 color modes per algo | [Get it](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | Valhalla Supermassive | Free | Reverb/Delay | Modulated feedback delay network, extreme tails | [Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Serum | $189 | Wavetable Synth | Visual modulation matrix, built-in wavetable editor | [Get it](https://xferrecords.com/products/serum-2) |
 | Arturia Pigments 4 | ~$99–$199 | Hybrid Synth | 5 oscillator types, deep arpeggiator/sequencer | [Get it](https://www.arturia.com) |
