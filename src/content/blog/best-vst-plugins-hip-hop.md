@@ -27,7 +27,7 @@ draft: false
 | Battery 4 | $149 | Drum sample layering | [Official Site](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) |
 | Addictive Drums 2 | From $179 | Live boom bap drum kits | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763) |
 | Waves SSL G-Master | From $29 | Bus glue compression | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| iZotope Vinyl | Free | Lofi vinyl texture | [Free Download](https://www.izotope.com/en/products/vinyl.html) |
+| iZotope Vinyl | Free | Lofi vinyl texture | [Free Download](https://www.izotope.com/en/products/vinyl) |
 | Vital | Free | Serum alternative for 808 design | [Free Download](https://vital.audio) |
 | Valhalla Supermassive | Free | Snare tails & 808 space | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 
@@ -94,7 +94,7 @@ iZotope Vinyl simulates vinyl playback artifacts — dust, scratches, record wea
 
 **Best for:** Adding instant lofi vinyl warmth to samples, drums, or any element that needs aged character.
 
-[→ Download iZotope Vinyl Free](https://www.izotope.com/en/products/vinyl.html)
+[→ Download iZotope Vinyl Free](https://www.izotope.com/en/products/vinyl)
 
 ---
 
@@ -348,7 +348,7 @@ LoudMax is a look-ahead true peak limiter that producer forums recommend when yo
 | Battery 4 | $149 | Drum Sampler | Cell-based layering, per-pad tuning, pro library | [Get it](https://www.native-instruments.com/en/products/maschine/) |
 | Addictive Drums 2 | From $179 | Acoustic Drums | Mic bleed modeling, live-recorded kits, mix board | [Get it](https://www.native-instruments.com/en/products/maschine/) |
 | Waves SSL G-Master | From $29 | Bus Compressor | SSL 4000 G emulation, drum bus glue | [Get it](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| iZotope Vinyl | Free | Character Effect | Vinyl artifact simulation, lofi texture, instant character | [Free](https://www.izotope.com/en/products/vinyl.html) |
+| iZotope Vinyl | Free | Character Effect | Vinyl artifact simulation, lofi texture, instant character | [Free](https://www.izotope.com/en/products/vinyl) |
 | Vital | Free | Wavetable Synth | Serum-class engine, custom wavetables, free tier | [Free](https://vital.audio) |
 | LABS | Free | Sample Library | High-quality instrument samples, released periodically | [Free](https://labs.spitfireaudio.com) |
 | Valhalla Supermassive | Free | Reverb | Lush algorithmic reverb, CPU-efficient, universal pick | [Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |

@@ -217,7 +217,7 @@ Its value in 2026 is as a utility and educational resource: quick three-band glu
 - **Price:** From $249 Standard; frequently discounted
 - **Why upgrade:** Ozone 11's Multiband Dynamics module sits within a complete mastering suite that includes AI-driven Mastering Assistant, spectral shaping, stereo imaging, and stem mastering capabilities. No free option offers anything in the same category — Ozone competes as an integrated mastering workflow tool, not just an isolated compressor, and its adaptive processing and metering infrastructure address problems that standalone free compressors are not designed to solve.
 
-[→ Get iZotope Ozone 11](https://www.izotope.com/en/products/ozone.html)
+[→ Get iZotope Ozone 11](https://www.izotope.com/en/products/ozone)
 
 ---
 
@@ -227,14 +227,14 @@ Its value in 2026 is as a utility and educational resource: quick three-band glu
 |--------|-------|------|------------|-----|
 | TDR Nova | Free | Dynamic EQ / Multiband | Linear phase mode, M/S processing, 4 dynamic bands + shelves | [Download](https://www.tokyodawn.net/tdr-nova/) |
 | OTT | Free | Multiband Up/Down Comp | 3-band, upward + downward comp, signature EDM tone | [Download](https://xferrecords.com/freeware/) |
-| MMultiband | Free | Multiband Compressor | Up to 6 bands, full modulation engine, A/B comparison | [Official Site](https://www.izotope.com/en/products/ozone.html) |
-| Waves C6 Lite | Free | Multiband Compressor | 6 bands, wideband/multiband modes, broadcast-grade | [Official Site](https://www.izotope.com/en/products/ozone.html) |
+| MMultiband | Free | Multiband Compressor | Up to 6 bands, full modulation engine, A/B comparison | [Official Site](https://www.izotope.com/en/products/ozone) |
+| Waves C6 Lite | Free | Multiband Compressor | 6 bands, wideband/multiband modes, broadcast-grade | [Official Site](https://www.izotope.com/en/products/ozone) |
 | Kilohearts Multiband Comp | Free | Snap Plugin | Clean interface, Kilohearts ecosystem integration | [Download](https://kilohearts.com/products/multipass) |
 | GVST GMulti | Free | Multiband Compressor | Low CPU, Windows-only, utility compression | [Download](https://www.gvst.co.uk/gmulti.htm) |
 | Calf Multiband | Free | Multiband Compressor | LV2/Linux native, open source, 5 bands, active development | [Download](https://calf-studio-gear.org/) |
 | mda Multiband | Free | Multiband Compressor | Open source, 3 bands, minimal CPU, educational value | [Download](https://sourceforge.net/projects/mda-vst/) |
 | FabFilter Pro-MB | €179 | Multiband Comp/Exp | Dynamic phase mode, zero-latency algorithm, precision routing | [Get It](https://www.fabfilter.com/products/pro-mb-multiband-compressor-expander-plug-in) |
-| iZotope Ozone 11 | From $249 | Mastering Suite | AI Mastering Assistant, multiband dynamics, stem mastering | [Get It](https://www.izotope.com/en/products/ozone.html) |
+| iZotope Ozone 11 | From $249 | Mastering Suite | AI Mastering Assistant, multiband dynamics, stem mastering | [Get It](https://www.izotope.com/en/products/ozone) |
 
 ---
 

@@ -276,7 +276,7 @@ Ozone Imager 2 provides stereo field widening and narrowing with a real-time Lis
 
 **Best for:** Stereo width on mix buses, mono compatibility checking, widening synth pads before print.
 
-[→ Download Ozone Imager 2 Free](https://www.izotope.com/en/products/ozone-imager.html)
+[→ Download Ozone Imager 2 Free](https://www.izotope.com/en/products/ozone-imager)
 
 ---
 
@@ -373,7 +373,7 @@ If the free toolkit is serving you well and you're ready to invest, these three 
 | TDR Kotelnikov | Free | Bus Compressor | Mastering-grade, transparent, program-dependent | [Get It](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Valhalla Supermassive | Free | Reverb / Delay | 23 algorithms, ambient to tight room | [Get It](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Dragonfly Reverb | Free | Multi-type Reverb | Room, Hall, Plate, Early Reflections | [Get It](https://michaelwillis.github.io/dragonfly-reverb/) |
-| Ozone Imager 2 | Free | Stereo Processor | Lissajous meter, smooth width control | [Get It](https://www.izotope.com/en/products/ozone-imager.html) |
+| Ozone Imager 2 | Free | Stereo Processor | Lissajous meter, smooth width control | [Get It](https://www.izotope.com/en/products/ozone-imager) |
 | MFreeFXBundle | Free | FX Bundle (37 plugins) | Comprehensive, one install, consistent UI | [Get It](https://www.meldaproduction.com/MFreeFXBundle) |
 | CHOW Tape Model | Free | Tape Saturation | Physical modeling, harmonic warmth, CLAP support | [Get It](https://chowdsp.com/products.html) |
 | Serum | ~$189 | Wavetable Synth | Industry preset ecosystem, visual wavetable editor | [Get It](https://xferrecords.com/products/serum-2) |

@@ -23,7 +23,7 @@ draft: false
 |--------|-------|----------|--------|
 | Vital | Free | Spectral wavetable leads, basses, evolving pads | [Free Download](https://vital.audio/) |
 | Surge XT | Free | Complex hybrid patches, deep modulation routing | [Free Download](https://surge-synthesizer.github.io/) |
-| Odin 2 | Free | Wavetable + FM hybrid sounds, cinematic textures | [Free Download](https://github.com/TheAudioProgrammer/odin2) |
+| Odin 2 | Free | Wavetable + FM hybrid sounds, cinematic textures | [Free Download](https://github.com/TheWaveWarden/odin2) |
 | Zebralette | Free | Spectral morphing, u-he-quality timbres at no cost | [Free Download](https://u-he.com/products/zebralette/) |
 | Helm | Free | Learning wavetable synthesis fundamentals | [Free Download](https://tytel.org/helm/) |
 | Serum | ~$189 | Industry-standard wavetable, professional ecosystem | [Get Serum](https://xferrecords.com/products/serum-2) |
@@ -97,7 +97,7 @@ The filter section offers multiple modes, and a built-in effects chain handles s
 
 **Best for:** Hybrid wavetable-FM patches and producers who need synthesis variety beyond a single oscillator paradigm without a steep learning curve.
 
-[→ Download Odin 2 Free](https://github.com/TheAudioProgrammer/odin2)
+[→ Download Odin 2 Free](https://github.com/TheWaveWarden/odin2)
 
 ---
 
@@ -185,7 +185,7 @@ Development has slowed significantly since Vital launched. The preset library is
 |--------|-------|------|------------|-----|
 | Vital | Free | Spectral wavetable | 3 oscillators, drag-drop modulation, full effects chain, 32-voice poly | [Download](https://vital.audio/) |
 | Surge XT | Free | Hybrid (8 oscillator types) | 4,000+ patches, matrix modulation routing, open source | [Download](https://surge-synthesizer.github.io/) |
-| Odin 2 | Free | Wavetable + FM hybrid | 3 independent oscillator slots, 3 filters, open source | [Download](https://github.com/TheAudioProgrammer/odin2) |
+| Odin 2 | Free | Wavetable + FM hybrid | 3 independent oscillator slots, 3 filters, open source | [Download](https://github.com/TheWaveWarden/odin2) |
 | Zebralette | Free | Spectral wavetable | u-he spectral oscillator tech, organic tonal character | [Download](https://u-he.com/products/zebralette/) |
 | Helm | Free | Wavetable | Simple 2-oscillator architecture, ideal for learning | [Download](https://tytel.org/helm/) |
 | Serum | ~$189 | Wavetable | Industry standard, massive third-party preset/wavetable library | [Get it](https://xferrecords.com/products/serum-2) |

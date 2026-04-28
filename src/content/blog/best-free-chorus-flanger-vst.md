@@ -23,7 +23,7 @@ draft: false
 | TAL-Chorus-LX | Free | Classic JC-120 chorus on any source | [Free Download](https://tal-software.com/products/tal-chorus-lx) |
 | MFlanger | Free | Deep, controllable flanging | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/12-Flanger/86-MFlangerMB?a_aid=69cb95abe1763) |
 | MChorus | Free | Multiband chorus with precise control | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |
-| TAL-Flanger | Free | Analog-style flanging, zero friction | [Free Download](https://tal-software.com/products/tal-flanger) |
+| TAL-Flanger | Free | Analog-style flanging, zero friction | [Free Download](https://tal-software.com/products/tal-effects) |
 | Valhalla SuperMassive | Free | Lush ensemble and chorus textures | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Arturia Chorus DIMENSION-D | $49 | Authentic Roland Dimension D emulation | [Get It](https://www.arturia.com/products/software-effects/chorus-dimension-d/overview) |
 | Valhalla Chorus | $50 | Studio-grade professional chorus | [Get It](https://valhalladsp.com/plugins//) |
@@ -148,7 +148,7 @@ TAL-Flanger follows the same design philosophy as TAL-Chorus-LX: analog-modeled 
 
 **Best for:** Quick, quality flanging on any source, particularly as a companion to TAL-Chorus-LX in a modulation chain.
 
-[→ Download TAL-Flanger Free](https://tal-software.com/products/tal-flanger)
+[→ Download TAL-Flanger Free](https://tal-software.com/products/tal-effects)
 
 ---
 
@@ -223,7 +223,7 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 | TAL-Chorus-LX | Free | Chorus | JC-120 BBD emulation, minimal UI, cross-platform | [Free Download](https://tal-software.com/products/tal-chorus-lx) |
 | MFlanger | Free | Flanger | Multiband, deep LFO control, MFreeFXBundle | [Official Site](https://valhalladsp.com/plugins//) |
 | MChorus | Free | Chorus | Multiband chorus, visualization, MFreeFXBundle | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |
-| TAL-Flanger | Free | Flanger | Analog-modeled, simple UI, TAL quality | [Free Download](https://tal-software.com/products/tal-flanger) |
+| TAL-Flanger | Free | Flanger | Analog-modeled, simple UI, TAL quality | [Free Download](https://tal-software.com/products/tal-effects) |
 | Valhalla SuperMassive | Free | Modulation/Reverb | Ensemble/chorus modes, ambient focus | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Blue Cat's Chorus | Free | Chorus | Clean and dependable, standard controls | [Free Download](https://www.bluecataudio.com/Products/Product_Chorus/) |
 | GVST GChorus | Free | Chorus | Ultra-lightweight, Windows/VST2 only | [Free Download](https://www.gvst.co.uk/gchorus.htm) |

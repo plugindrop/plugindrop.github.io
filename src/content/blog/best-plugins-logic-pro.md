@@ -26,7 +26,7 @@ draft: false
 | Valhalla VintageVerb | $50 | Algorithmic reverb at any budget | [Developer Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | FabFilter Pro-C 2 | $179 | Transparent and character compression | [Developer Site](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
 | Serum | $189 | Wavetable synthesis with modern workflow | [Developer Site](https://xferrecords.com/products/serum-2) |
-| iZotope Neutron 4 | $249+ | AI-assisted mix analysis | [Developer Site](https://www.izotope.com/en/products/neutron.html) |
+| iZotope Neutron 4 | $249+ | AI-assisted mix analysis | [Developer Site](https://www.izotope.com/en/products/neutron) |
 | Vital | Free | Wavetable synthesis without the price tag | [Free Download](https://vital.audio) |
 | TDR Nova | Free | Dynamic EQ on a zero budget | [Official Site](https://www.tokyodawn.net/tdr-nova/) |
 
@@ -235,7 +235,7 @@ Neutron 4's Mix Assistant function listens to your full mix, identifies frequenc
 
 **Best for:** Producers self-mixing their material who want systematic, track-level feedback on the full mix.
 
-[→ Get iZotope Neutron 4](https://www.izotope.com/en/products/neutron.html)
+[→ Get iZotope Neutron 4](https://www.izotope.com/en/products/neutron)
 
 ---
 
@@ -288,7 +288,7 @@ Fresh Air is a two-control high-frequency enhancer — "Air" and "Presence" — 
 
 **Best for:** Quick high-frequency enhancement on any source without the artificiality of a boosted EQ shelf.
 
-[→ Get Fresh Air Free](https://slatedigital.com/fresh-air/)
+[→ Get Fresh Air Free](https://slate.audio/free-plugins//)
 
 ---
 
@@ -331,7 +331,7 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 - **Price:** ~$499–$999 (varies by tier and sale cycle)
 - **Why upgrade:** Neutron 4 alone covers mixing analysis, but Music Production Suite adds Ozone (mastering), RX (audio repair and noise reduction), and Nectar (vocal production) — for producers who also record live audio, the RX noise reduction module alone justifies the premium over Neutron by itself.
 
-[→ Get iZotope Music Production Suite](https://www.izotope.com/en/products/music-production-suite.html)
+[→ Get iZotope Music Production Suite](https://www.izotope.com/en/products/music-production-suite)
 
 ---
 
@@ -340,20 +340,20 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | FabFilter Pro-Q 3 | $179 | EQ | Dynamic EQ, mid/side, 24 bands | [Get It](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| TDR Nova | Free | Dynamic EQ | Parallel compression (GE), fully free | [Get It](https://www.izotope.com/en/products/music-production-suite.html) |
+| TDR Nova | Free | Dynamic EQ | Parallel compression (GE), fully free | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | FabFilter Pro-C 2 | $179 | Compressor | 8 styles, visual GR display | [Get It](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
-| Klanghelm MJUC jr. | Free | Compressor | Variable-mu warmth, bus glue | [Get It](https://www.izotope.com/en/products/music-production-suite.html) |
-| OTT | Free | Multiband Comp | Extreme upward/downward compression | [Get It](https://www.izotope.com/en/products/music-production-suite.html) |
+| Klanghelm MJUC jr. | Free | Compressor | Variable-mu warmth, bus glue | [Get It](https://www.izotope.com/en/products/music-production-suite) |
+| OTT | Free | Multiband Comp | Extreme upward/downward compression | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | Valhalla VintageVerb | $50 | Reverb | 17 algorithms, $50 price | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
-| ValhallaDelay | $50 | Delay | 16 modes, tape through pitch-shift | [Get It](https://www.izotope.com/en/products/music-production-suite.html) |
+| ValhallaDelay | $50 | Delay | 16 modes, tape through pitch-shift | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | Serum | $189 | Wavetable Synth | Custom wavetable editor, massive preset market | [Get It](https://xferrecords.com/products/serum-2) |
 | Vital | Free | Wavetable Synth | Spectral warping, 3 oscillators | [Get It](https://vital.audio) |
-| u-he Diva | ~$195 | Analog Synth | Circuit-level filter/oscillator emulation | [Get It](https://www.izotope.com/en/products/music-production-suite.html) |
-| iZotope Neutron 4 | $249+ | Mix Suite | AI Mix Assistant, EQ + comp + shaper | [Get It](https://www.izotope.com/en/products/neutron.html) |
-| Soothe2 | ~$160 | Resonance Suppressor | Reactive dynamic notch filtering | [Get It](https://www.izotope.com/en/products/music-production-suite.html) |
-| Soundtoys Decapitator | $99 | Saturation | 5 analog topologies, macOS only | [Get It](https://www.izotope.com/en/products/music-production-suite.html) |
-| Slate Digital Fresh Air | Free | Enhancer | Two-band air/presence, free w/ account | [Get It](https://www.izotope.com/en/products/music-production-suite.html) |
-| Soundtoys EchoBoy | $99 | Creative Delay | 30 hardware styles, per-repeat tone | [Get It](https://www.izotope.com/en/products/music-production-suite.html) |
+| u-he Diva | ~$195 | Analog Synth | Circuit-level filter/oscillator emulation | [Get It](https://www.izotope.com/en/products/music-production-suite) |
+| iZotope Neutron 4 | $249+ | Mix Suite | AI Mix Assistant, EQ + comp + shaper | [Get It](https://www.izotope.com/en/products/neutron) |
+| Soothe2 | ~$160 | Resonance Suppressor | Reactive dynamic notch filtering | [Get It](https://www.izotope.com/en/products/music-production-suite) |
+| Soundtoys Decapitator | $99 | Saturation | 5 analog topologies, macOS only | [Get It](https://www.izotope.com/en/products/music-production-suite) |
+| Slate Digital Fresh Air | Free | Enhancer | Two-band air/presence, free w/ account | [Get It](https://www.izotope.com/en/products/music-production-suite) |
+| Soundtoys EchoBoy | $99 | Creative Delay | 30 hardware styles, per-repeat tone | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 
 ---
 

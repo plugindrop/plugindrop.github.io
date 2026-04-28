@@ -30,7 +30,7 @@ draft: false
 | FabFilter Pro-Q 3 | €179 | Surgical & creative EQ | [Official Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | Waves Sibilance | $29 | Spectral de-essing | [Official Site](https://www.waves.com/plugins/sibilance) |
 | FabFilter Pro-C 2 | €149 | Transparent & character compression | [Official Site](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
-| iZotope Nectar 4 | $249 | All-in-one AI vocal suite | [Official Site](https://www.izotope.com/en/products/nectar.html) |
+| iZotope Nectar 4 | $249 | All-in-one AI vocal suite | [Official Site](https://www.izotope.com/en/products/nectar) |
 | Valhalla Supermassive | Free | Lush vocal reverb & delay | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 
 ---
@@ -156,7 +156,7 @@ iZotope Nectar 4 is the most comprehensive vocal processing suite available in 2
 
 **Best for:** Producers who want an AI-assisted, all-in-one vocal processing suite that shortens the mixing workflow without sacrificing quality.
 
-[→ Get iZotope Nectar 4 (Official Site)](https://www.izotope.com/en/products/nectar.html)
+[→ Get iZotope Nectar 4 (Official Site)](https://www.izotope.com/en/products/nectar)
 
 **Watch a demo:** [YouTube](https://www.youtube.com/watch?v=8q-mrB1jozE)
 
@@ -202,7 +202,7 @@ Once your core chain is locked in, these bundles and premium options offer the n
 
 
 
-[→ Get iZotope Nectar 4 (Official Site)](https://www.izotope.com/en/products/nectar.html)
+[→ Get iZotope Nectar 4 (Official Site)](https://www.izotope.com/en/products/nectar)
 ### Waves Vocal Bundle — The complete Waves vocal toolkit in one purchase
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/0cOlrhDpVFY" title="Waves Vocal Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -235,7 +235,7 @@ Once your core chain is locked in, these bundles and premium options offer the n
 | FabFilter Pro-Q 3 | €179 | EQ | Dynamic EQ, M/S per band, zero-latency mode | [Buy](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | Waves Sibilance | $29 | De-esser | Spectral detection, invisible results | [Buy](https://www.waves.com/plugins/sibilance) |
 | FabFilter Pro-C 2 | €149 | Compressor | 8 compression styles, vocal mode | [Buy](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
-| iZotope Nectar 4 | $249 | Full Vocal Suite | AI assistant, Unmask, all-in-one | [Buy](https://www.izotope.com/en/products/nectar.html) |
+| iZotope Nectar 4 | $249 | Full Vocal Suite | AI assistant, Unmask, all-in-one | [Buy](https://www.izotope.com/en/products/nectar) |
 | Valhalla Supermassive | Free | Reverb/Delay | Lush Valhalla algorithms, completely free | [Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Waves Vocal Bundle | From $99 | Bundle | Full Waves vocal toolkit at bundle pricing | [Buy](https://www.waves.com/bundles/vocal) |
 | FabFilter Total Bundle | €899 | Bundle | Every FabFilter plugin, best per-plugin value | [Buy](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |

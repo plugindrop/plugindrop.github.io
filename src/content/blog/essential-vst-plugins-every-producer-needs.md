@@ -27,7 +27,7 @@ draft: false
 | Valhalla Room | $50 | Studio reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 | FabFilter Pro-C 2 | $179 | Transparent compression | [Official Site](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
 | Serum | $189 | Wavetable synthesis | [Official Site](https://xferrecords.com/products/serum-2) |
-| iZotope Ozone 11 | $249 | AI-assisted mastering | [Official Site](https://www.izotope.com/en/products/ozone.html) |
+| iZotope Ozone 11 | $249 | AI-assisted mastering | [Official Site](https://www.izotope.com/en/products/ozone) |
 | Valhalla Supermassive | Free | Ambient reverb & delay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Vital | Free | Wavetable synthesis | [Free Download](https://vital.audio/) |
 
@@ -242,7 +242,7 @@ Fresh Air uses a proprietary algorithm to add presence and air to vocals, acoust
 
 **Best for:** Brightening vocals and mix buses without introducing digital harshness.
 
-[→ Download Slate Digital Fresh Air Free](https://slatedigital.com/fresh-air/)
+[→ Download Slate Digital Fresh Air Free](https://slate.audio/free-plugins//)
 
 ---
 
@@ -358,11 +358,11 @@ Ozone 11's Master Assistant analyzes your track and builds a starting mastering 
 | Serum | $189 | Synthesizer | Wavetable editor, modulation matrix, FX | [Get it](https://xferrecords.com/products/serum-2) |
 | Vital | Free | Synthesizer | Spectral warping, advanced modulation | [Free Download](https://vital.audio/) |
 | Softube Saturation Knob | Free | Saturation | Single-knob, three modes | [Free Download](https://www.softube.com/plug-ins/saturation-knob) |
-| Slate Digital Fresh Air | Free | Enhancer | Artifact-free high-frequency lift | [Free Download](https://slatedigital.com/fresh-air/) |
+| Slate Digital Fresh Air | Free | Enhancer | Artifact-free high-frequency lift | [Free Download](https://slate.audio/free-plugins//) |
 | Kontakt 7 | $399 | Sampler | Industry-standard, thousands of libraries | [Get it](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-7/) |
 | Addictive Drums 2 | $179 | Drums | Realistic kits, built-in channel mixer | [Get it](https://www.xlnaudio.com/products/addictive_drums_2) |
 | RC-20 Retro Color | $99 | Lo-Fi FX | 6 modules, organic texture design | [Get it](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
-| iZotope Ozone 11 | $249 | Mastering | AI Master Assistant, Stabilizer module | [Get it](https://www.izotope.com/en/products/ozone.html) |
+| iZotope Ozone 11 | $249 | Mastering | AI Master Assistant, Stabilizer module | [Get it](https://www.izotope.com/en/products/ozone) |
 
 ---
 

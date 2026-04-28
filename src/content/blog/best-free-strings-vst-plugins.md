@@ -24,9 +24,9 @@ draft: false
 | BBC Symphony Orchestra Discover | Free | Realistic full-orchestra writing, all skill levels | [Official Site](https://www.spitfireaudio.com/en-us/products/bbc-symphony-orchestra-discover) |
 | VSCO2 Community Edition | Free | Realistic section strings and orchestral arrangements | [Official Site](https://versilian-studios.com/vsco-community/) |
 | Sonatina Symphonic Orchestra | Free | Complete orchestral sketching, notation workflows | [Official Site](https://sfzinstruments.github.io/orchestra/sso/) |
-| Virtual Playing Orchestra | Free | Notation-integrated mock-ups, solo and ensemble | [Official Site](http://virtualplaying.com/virtual-playing-orchestra/) |
+| Virtual Playing Orchestra | Free | Notation-integrated mock-ups, solo and ensemble | [Official Site](https://virtualplaying.com/virtual-playing-orchestra//) |
 | VCSL | Free | Broad orchestral palette beyond standard strings | Plugin Boutique |
-| DSK Dynamic Strings | Free | Instant string beds, lightweight, no setup | [Official Site](https://www.dskmusic.com/dsk-dynamic-strings/) |
+| DSK Dynamic Strings | Free | Instant string beds, lightweight, no setup | [Official Site](https://www.dskmusic.com/dsk-strings//) |
 
 ---
 
@@ -150,7 +150,7 @@ Virtual Playing Orchestra (VPO) is a free SFZ library designed specifically for 
 
 **Best for:** Composers and producers who work in notation software and need free strings that respond naturally to score playback.
 
-[→ Get Virtual Playing Orchestra Free](http://virtualplaying.com/virtual-playing-orchestra/)
+[→ Get Virtual Playing Orchestra Free](https://virtualplaying.com/virtual-playing-orchestra//)
 
 ---
 
@@ -167,7 +167,7 @@ DSK Dynamic Strings is a standalone free VST that delivers basic string tones wi
 
 **Best for:** Windows producers who want string sounds in a project immediately, with no configuration overhead.
 
-[→ Download DSK Dynamic Strings Free (Official)](https://www.dskmusic.com/dsk-dynamic-strings/)
+[→ Download DSK Dynamic Strings Free (Official)](https://www.dskmusic.com/dsk-strings//)
 
 ---
 

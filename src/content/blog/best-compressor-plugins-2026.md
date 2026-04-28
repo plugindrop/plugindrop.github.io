@@ -26,7 +26,7 @@ draft: false
 | FabFilter Pro-C 2 | $179 | All-purpose mixing & mastering | [Official Site](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
 | TDR Kotelnikov | Free | Transparent bus & mastering | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Klanghelm DC8C | Free / €18 | Character compression, all styles | [Free Download](https://klanghelm.com/contents/products/DC8C.php) |
-| Analog Obsession LALA | Free | Optical vocal & instrument glue | [Free Download](https://www.analog-obsession.com/) |
+| Analog Obsession LALA | Free | Optical vocal & instrument glue | [Free Download](https://analogobsession.com//) |
 | OTT (Xfer Records) | Free | EDM leads, synths, density | [Free Download](https://xferrecords.com/freeware) |
 | Waves SSL G-Master Buss | ~$29.99 | Bus glue, SSL 4000 G character | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | Cytomic The Glue | $40 | SSL-style bus with surgical control | [Official Site](https://cytomic.com/glue) |
@@ -119,7 +119,7 @@ For producers who find themselves over-processing with fully parametric compress
 
 **Best for:** Vocals, bass guitar, and acoustic instruments where natural-sounding optical gain reduction is the target.
 
-[→ Download Analog Obsession LALA Free](https://www.analog-obsession.com/)
+[→ Download Analog Obsession LALA Free](https://analogobsession.com//)
 
 ---
 

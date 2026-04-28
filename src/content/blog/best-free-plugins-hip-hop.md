@@ -21,7 +21,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Vital | Free | 808 bass, wavetable pads, leads | [Free Download](https://vital.audio) |
-| iZotope Vinyl | Free | Lo-fi vinyl texture | [Free Download](https://www.izotope.com/en/products/vinyl.html) |
+| iZotope Vinyl | Free | Lo-fi vinyl texture | [Free Download](https://www.izotope.com/en/products/vinyl) |
 | MT Power Drum Kit 2 | Free | Realistic drum sounds | [Free Download](https://www.powerdrumkit.com/) |
 | Rough Rider 3 | Free | Punchy drum bus compression | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
 | Graillon 2 | Free | Vocal pitch correction & FX | [Free Download](https://www.auburnsounds.com/products/Graillon.html) |
@@ -178,7 +178,7 @@ iZotope Vinyl simulates vinyl record artifacts through independent controls for 
 
 **Best for:** Vinyl crackle, lo-fi aesthetics, sampled-record texture.
 
-[→ Download iZotope Vinyl Free](https://www.izotope.com/en/products/vinyl.html)
+[→ Download iZotope Vinyl Free](https://www.izotope.com/en/products/vinyl)
 
 ---
 
@@ -291,7 +291,7 @@ Graillon 2 provides real-time pitch correction alongside a pitch-shifting sectio
 | MT Power Drum Kit 2 | Free | Drum Rompler | Velocity layers, MIDI grooves, built-in mixer | [Free Download](https://www.powerdrumkit.com/) |
 | LABS | Free | Sample Instrument | Rotating free library, organic textures | [Free Download](https://labs.spitfireaudio.com) |
 | Komplete Start | Free | Instrument Bundle | Kontakt Player, 2,000+ sounds | [Free Download](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/) |
-| iZotope Vinyl | Free | Lo-fi Effect | Vinyl simulation, noise and wear controls | [Free Download](https://www.izotope.com/en/products/vinyl.html) |
+| iZotope Vinyl | Free | Lo-fi Effect | Vinyl simulation, noise and wear controls | [Free Download](https://www.izotope.com/en/products/vinyl) |
 | Valhalla Supermassive | Free | Reverb/Delay | Long tails, modulated modes, lush space | [Free Download](https://valhalladsp.com) |
 | Rough Rider 3 | Free | Compressor | Pumping compression, sidechain high-pass filter | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
 | TDR Nova | Free | Dynamic EQ | Per-band dynamics, static + dynamic EQ modes | [Free Download](https://www.tokyodawn.net/tdr-nova/) |

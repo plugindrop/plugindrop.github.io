@@ -220,7 +220,7 @@ DSK DrumZ Akustik is part of DSK Music's long-running catalog of freeware VST in
 
 **Best for:** Windows-based beginners who want a zero-friction acoustic drum VST with no accounts, no subscriptions, and minimal installation complexity.
 
-[→ Download DSK DrumZ Akustik Free](https://www.dskmidi.com/)
+[→ Download DSK DrumZ Akustik Free](https://www.dskmusic.com//)
 
 ---
 
@@ -265,7 +265,7 @@ If you've worked through the free tier and hit consistent friction — inflexibl
 | BPB Cassette Drums | Free | Lo-Fi Beat Machine | Cassette-recorded samples, baked degradation | [Download](https://www.bedroomproducersblog.com/) |
 | Drumatic 4 | Free | Drum Synthesizer | Synthesis-based, TR-style, no samples | [Download](https://www.e-phonic.com/) |
 | Hydrogen | Free | Standalone Sequencer | Open source, pattern-based, MIDI sync | [Download](https://hydrogen-music.org/) |
-| DSK DrumZ Akustik | Free | Acoustic Rompler | Windows VST, lightweight, no registration | [Download](https://www.dskmidi.com/) |
+| DSK DrumZ Akustik | Free | Acoustic Rompler | Windows VST, lightweight, no registration | [Download](https://www.dskmusic.com//) |
 | NI Battery 4 | $99 | Professional Sampler | 12,000+ samples, cell routing, layering | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763) |
 | XLN Audio Addictive Drums 2 | From $99 | Professional Rompler | Studio-recorded, multi-mic, mix-ready | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763) |
 

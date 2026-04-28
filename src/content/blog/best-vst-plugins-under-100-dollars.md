@@ -27,7 +27,7 @@ draft: false
 | Valhalla VintageVerb | ~$50 | Vintage hall and room reverbs | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | Arturia Rev PLATE-140 | ~$49 | EMT 140 plate emulation | [Official Site](https://www.arturia.com/products/software-effects/rev-plate140/overview) |
 | D16 Group Repeater | ~$49 | Vintage tape delay | [Official Site](https://d16.pl/repeater) |
-| iZotope RX Elements | ~$99 | Noise removal and audio repair | [Official Site](https://www.izotope.com/en/products/rx.html) |
+| iZotope RX Elements | ~$99 | Noise removal and audio repair | [Official Site](https://www.izotope.com/en/products/rx) |
 | Soundtoys Little Plate | ~$49 | Fast, flexible plate reverb | [Official Site](https://www.soundtoys.com/product/little-plate/) |
 
 ---
@@ -215,7 +215,7 @@ RX is the restoration suite that professional post-production facilities depend 
 
 **Best for:** Home studio recordings with unavoidable room noise, podcast and voiceover production, archival sample restoration
 
-[→ Get iZotope RX Elements (Official Site)](https://www.izotope.com/en/products/rx.html)
+[→ Get iZotope RX Elements (Official Site)](https://www.izotope.com/en/products/rx)
 
 
 ---
@@ -273,7 +273,7 @@ Ozone Elements brings iZotope's Master Assistant AI into a streamlined mastering
 
 **Best for:** Self-mastering in home and project studios, preparing mixes for streaming platform loudness targets, learning the mastering process by working alongside AI suggestions
 
-[→ Search iZotope Ozone Elements](https://www.izotope.com/en/products/ozone.html)
+[→ Search iZotope Ozone Elements](https://www.izotope.com/en/products/ozone)
 
 
 ---

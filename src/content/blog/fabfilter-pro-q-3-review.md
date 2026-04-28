@@ -154,7 +154,7 @@ Neutron's EQ module includes AI-generated band suggestions, session-level maskin
 
 **Best for:** Producers who want AI assistance baked into their EQ and are invested in iZotope's ecosystem.
 
-[→ Search iZotope Neutron](https://www.izotope.com/en/products/neutron.html)
+[→ Search iZotope Neutron](https://www.izotope.com/en/products/neutron)
 
 
 ---

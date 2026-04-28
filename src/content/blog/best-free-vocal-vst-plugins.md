@@ -25,7 +25,7 @@ draft: false
 |--------|-------|----------|--------|
 | MAutoPitch | Free | Transparent pitch correction | [Official Site](https://www.meldaproduction.com/MAutoPitch) |
 | Graillon 2 | Free | Creative pitch effects & robot vocals | [Official Site](https://www.auburnsounds.com/products/Graillon.html) |
-| Analog Obsession CHANNELSTRIP | Free | Analog EQ + compression in one slot | [Official Site](https://www.analog-obsession.com/) |
+| Analog Obsession CHANNELSTRIP | Free | Analog EQ + compression in one slot | [Official Site](https://analogobsession.com//) |
 | TAL-Reverb-4 | Free | Warm vintage plate reverb | [Official Site](https://tal-software.com/products/tal-reverb-4) |
 | Wider (Polyverse) | Free | Mono-safe stereo widening | [Official Site](https://polyversemusic.com/products/wider/) |
 | Valhalla Supermassive | Free | Large ambient reverb and delay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
@@ -94,7 +94,7 @@ Analog Obsession's CHANNELSTRIP packs a high-pass filter, EQ, and compressor int
 
 **Best for:** Full analog-style vocal processing in a single plugin slot.
 
-[→ Download CHANNELSTRIP Free](https://www.analog-obsession.com/)
+[→ Download CHANNELSTRIP Free](https://analogobsession.com//)
 
 ---
 
@@ -273,7 +273,7 @@ Chow Tape Model is a physically modeled tape machine simulation that adds harmon
 ---
 
 
-[→ Get iZotope Nectar 4 (Official Site)](https://www.izotope.com/en/products/nectar.html)
+[→ Get iZotope Nectar 4 (Official Site)](https://www.izotope.com/en/products/nectar)
 ### Waves Tune Real-Time — Low-Latency Pitch Correction for Studio and Stage
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/dk33sU84b04" title="Waves Tune Real-Time — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -306,7 +306,7 @@ Chow Tape Model is a physically modeled tape machine simulation that adds harmon
 |--------|-------|------|------------|-----|
 | MAutoPitch | Free | Pitch Correction | Transparent, low latency, key/scale detection | [Official Site](https://www.meldaproduction.com/MAutoPitch) |
 | Graillon 2 | Free | Pitch Effects | Pitch shifting, bit crusher, ring modulation | [Official Site](https://www.auburnsounds.com/products/Graillon.html) |
-| Analog Obsession CHANNELSTRIP | Free | Channel Strip | HPF + EQ + compressor, analog warmth | [Official Site](https://www.analog-obsession.com/) |
+| Analog Obsession CHANNELSTRIP | Free | Channel Strip | HPF + EQ + compressor, analog warmth | [Official Site](https://analogobsession.com//) |
 | Klanghelm MJUC jr | Free | Compressor | Vintage vari-mu character, tube warmth | [Developer Site](https://klanghelm.com/contents/products/MJUCjr/) |
 | TDR Nova | Free | Dynamic EQ | Per-band dynamics, de-essing, transparent | [Developer Site](https://www.tokyodawn.net/tdr-nova/) |
 | Techivation T-De-Esser Plus | Free | De-esser | Focused sibilance detection, visual feedback | [Developer Site](https://techivation.com/t-de-esser-plus/) |
@@ -316,7 +316,7 @@ Chow Tape Model is a physically modeled tape machine simulation that adds harmon
 | Wider (Polyverse) | Free | Stereo Width | M/S widening, mono-safe | [Official Site](https://polyversemusic.com/products/wider/) |
 | Acon Digital Multiply | Free | Chorus/Doubler | Up to 6 layers, independent pitch and pan | [Developer Site](https://acondigital.com/products/multiply/) |
 | Chow Tape Model | Free | Saturation | Physically modeled tape, open source | [Developer Site](https://chowdsp.com/products.html) |
-| iZotope Nectar 4 | ~$99 | Full Vocal Chain | AI assistant, complete processing suite | [Official Site](https://www.izotope.com/en/products/nectar.html) |
+| iZotope Nectar 4 | ~$99 | Full Vocal Chain | AI assistant, complete processing suite | [Official Site](https://www.izotope.com/en/products/nectar) |
 | Waves Tune Real-Time | Varies | Pitch Correction | Low latency, formant shifting, live-safe | [Official Site](https://www.waves.com/plugins/waves-tune-real-time) |
 | Auto-Tune Pro | Varies | Pitch Correction | Graph Mode, industry standard, manual editing | [Official Site](https://www.antarestech.com/products/auto-tune/pro) |
 

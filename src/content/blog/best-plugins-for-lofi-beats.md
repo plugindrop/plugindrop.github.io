@@ -22,13 +22,13 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| iZotope Vinyl | Free | Vinyl crackle, warp, dust | [Free Download](https://www.izotope.com/en/products/vinyl.html) |
+| iZotope Vinyl | Free | Vinyl crackle, warp, dust | [Free Download](https://www.izotope.com/en/products/vinyl) |
 | Valhalla Supermassive | Free | Lush, drifting reverb | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| TAL-Dub-3 | Free | Tape delay with dub feedback | [Free Download](https://tal-software.com/products/tal-dub) |
+| TAL-Dub-3 | Free | Tape delay with dub feedback | [Free Download](https://tal-software.com/products/tal-dub-x) |
 | Chow Tape Model | Free | Physics-based tape saturation | [Free Download](https://chowdsp.com/products.html) |
 | Krush by Tritik | Free | Animated bitcrushing and grit | [Free Download](https://www.tritik.com/products/krush/) |
 | RC-20 Retro Color | Paid | All-in-one lo-fi chain | [Get It](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) |
-| iZotope RX Elements | Paid | Audio repair before degradation | [Get It](https://www.izotope.com/en/products/rx.html) |
+| iZotope RX Elements | Paid | Audio repair before degradation | [Get It](https://www.izotope.com/en/products/rx) |
 
 ---
 
@@ -57,7 +57,7 @@ iZotope Vinyl has been in free distribution since 2002 and remains the most-cite
 
 **Best for:** Vinyl crackle, dust noise, subtle record warp, and year-based aging character.
 
-[→ Download iZotope Vinyl Free](https://www.izotope.com/en/products/vinyl.html)
+[→ Download iZotope Vinyl Free](https://www.izotope.com/en/products/vinyl)
 
 ---
 
@@ -91,7 +91,7 @@ Tape Cassette 2 focuses on cassette-format degradation: lo-fi stereo crosstalk, 
 
 **Best for:** Cassette-specific degradation, stereo crosstalk, and the muffled, intimate character of a played-out tape.
 
-[→ Download Tape Cassette 2 Free](https://caelum.audio/tape-cassette-2)
+[→ Download Tape Cassette 2 Free](https://www.caelumaudio.com/CaelumAudio/?Page=TapeCassette2PP)
 
 ---
 
@@ -146,7 +146,7 @@ TAL-Dub-3 is a free tape-style delay with built-in modulation, filtering, and sa
 
 **Best for:** Dub-style echoes, looping warm feedback textures, and tape-colored delay across any element in a lo-fi mix.
 
-[→ Download TAL-Dub-3 Free](https://tal-software.com/products/tal-dub)
+[→ Download TAL-Dub-3 Free](https://tal-software.com/products/tal-dub-x)
 
 ---
 
@@ -182,7 +182,7 @@ GDegrade is a focused bit crusher and sample-rate reducer from GVST, a developer
 
 **Best for:** Windows producers wanting a lightweight, no-frills bit depth and sample rate reduction utility.
 
-[→ Download GDegrade Free](https://www.gvst.co.uk/gdegrade.htm)
+[→ Download GDegrade Free](https://www.gvst.co.uk/Downloads)
 
 ---
 
@@ -244,7 +244,7 @@ TAL-Chorus-LX is a recreation of the Roland Juno-60's chorus circuit, offered fr
 - **Price:** ~$99 (frequently on sale)
 - **Why upgrade:** iZotope Vinyl adds lo-fi artifacts — RX Elements removes the wrong ones before you start. If your workflow involves sample flipping or recorded sources with broadband noise, hum, or clicks you did not intend, RX Elements' spectral repair and noise reduction tools let you clean the source before applying intentional degradation. The community frames it as a workflow tool, not a lo-fi plugin itself: it gives you control over which artifacts stay.
 
-[→ Get iZotope RX Elements](https://www.izotope.com/en/products/rx.html)
+[→ Get iZotope RX Elements](https://www.izotope.com/en/products/rx)
 
 ---
 
@@ -252,18 +252,18 @@ TAL-Chorus-LX is a recreation of the Roland Juno-60's chorus circuit, offered fr
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| iZotope Vinyl | Free | Vinyl simulator | Crackle, warp, dust, aging controls | [Download](https://www.izotope.com/en/products/vinyl.html) |
+| iZotope Vinyl | Free | Vinyl simulator | Crackle, warp, dust, aging controls | [Download](https://www.izotope.com/en/products/vinyl) |
 | Chow Tape Model | Free | Tape emulator | Physics-based hysteresis, wow/flutter | [Download](https://chowdsp.com/products.html) |
-| Caelum Audio Tape Cassette 2 | Free | Cassette sim | Crosstalk, bias, hiss, frequency rolloff | [Download](https://caelum.audio/tape-cassette-2) |
+| Caelum Audio Tape Cassette 2 | Free | Cassette sim | Crosstalk, bias, hiss, frequency rolloff | [Download](https://www.caelumaudio.com/CaelumAudio/?Page=TapeCassette2PP) |
 | Valhalla Supermassive | Free | Reverb/echo | 25+ modes, lush tails, CPU-efficient | [Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Reverb-4 | Free | Plate reverb | Vintage plate character, short-medium decay | [Download](https://tal-software.com/products/tal-reverb-4) |
-| TAL-Dub-3 | Free | Tape delay | Dub feedback, tape saturation, modulation | [Download](https://tal-software.com/products/tal-dub) |
+| TAL-Dub-3 | Free | Tape delay | Dub feedback, tape saturation, modulation | [Download](https://tal-software.com/products/tal-dub-x) |
 | Krush | Free | Bitcrusher | Bit + SR reduction with LFO modulation | [Download](https://www.tritik.com/products/krush/) |
-| GVST GDegrade | Free | Degrader | Lightweight bit crush and SR reduction | [Download](https://www.gvst.co.uk/gdegrade.htm) |
+| GVST GDegrade | Free | Degrader | Lightweight bit crush and SR reduction | [Download](https://www.gvst.co.uk/Downloads) |
 | IVGI | Free | Saturation | Tube/tape warmth, subtle density | [Download](https://klanghelm.com/contents/products/IVGI/) |
 | TAL-Chorus-LX | Free | Chorus | Juno-60 circuit, organic pitch movement | [Download](https://tal-software.com/products/tal-chorus-lx) |
 | RC-20 Retro Color | ~$99 | Lo-fi all-in-one | 6 modules, cohesive degradation chain | [Get It](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) |
-| iZotope RX Elements | ~$99 | Audio repair | Noise reduction, spectral repair | [Get It](https://www.izotope.com/en/products/rx.html) |
+| iZotope RX Elements | ~$99 | Audio repair | Noise reduction, spectral repair | [Get It](https://www.izotope.com/en/products/rx) |
 
 ---
 

@@ -26,7 +26,7 @@ draft: false
 | FabFilter Pro-Q 3 | $199 | Surgical EQ & frequency cleanup | [Official Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | Waves SSL G-Master Buss Compressor | $29.99 | Drum bus glue & punch | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | Transient Master (NI) | $99 | Fast attack/sustain shaping | [Official Site](https://www.native-instruments.com/en/products/komplete/effects/transient-master/) |
-| SPL Transient Designer | $99 | Analog-modeled transient control | [Official Site](https://spl.audio/en/spl-transient-designer-plus/) |
+| SPL Transient Designer | $99 | Analog-modeled transient control | [Official Site](https://spl.audio/en/spl-produkt/transient-designer-plugin//) |
 | bx_boom! | $29.99 | Kick body & sub reinforcement | [Official Site](https://www.plugin-alliance.com/en/products/bx_boom.html) |
 | OTT (Xfer) | Free | Multiband upward compression & glue | [Official Site](https://xferrecords.com/freeware) |
 
@@ -101,7 +101,7 @@ SPL invented the transient designer concept in hardware, and the plugin version 
 
 **Best for:** Engineers mixing live-recorded drum kits who need precise sustain tail control.
 
-[→ Get SPL Transient Designer (Official Site)](https://spl.audio/en/spl-transient-designer-plus/)
+[→ Get SPL Transient Designer (Official Site)](https://spl.audio/en/spl-produkt/transient-designer-plugin//)
 
 
 ---

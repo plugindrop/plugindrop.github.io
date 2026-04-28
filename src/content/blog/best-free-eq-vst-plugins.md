@@ -26,8 +26,8 @@ draft: false
 | TDR Nova | Free | Dynamic EQ — mixing & mastering | [Official Site](https://www.tokyodawn.net/tdr-nova/) |
 | Voxengo Marvel GEQ | Free | Linear phase graphic EQ | [Official Site](https://www.voxengo.com/product/marvelgeq/) |
 | MEqualizer | Free | Feature-complete parametric EQ | [Official Site](https://www.meldaproduction.com/MEqualizer) |
-| Baxter EQ | Free | Analog color on mix channels | [Official Site](https://www.analog-obsession.com/) |
-| LP10 | Free | Transparent mastering EQ | [Official Site](https://lkjb.de/LP10) |
+| Baxter EQ | Free | Analog color on mix channels | [Official Site](https://analogobsession.com//) |
+| LP10 | Free | Transparent mastering EQ | [Official Site](https://ddmf.eu/lp10-linear-phase-equalizer-plugin/) |
 | TDR SlickEQ | Free | Bus EQ with musical saturation | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | ReaEQ | Free | Unlimited-band surgical mixing | [Free Download](https://www.reaper.fm/reaplugs/) |
 
@@ -94,7 +94,7 @@ Analog Obsession has earned a devoted following by releasing console-modeled plu
 
 **Best for:** Mixing engineers who want British console character on channels that need presence and body, not just correction.
 
-[→ Download Baxter EQ Free](https://www.analog-obsession.com/) | [→ Get Baxter EQ](https://www.analog-obsession.com/)
+[→ Download Baxter EQ Free](https://analogobsession.com//) | [→ Get Baxter EQ](https://analogobsession.com//)
 
 ---
 
@@ -164,7 +164,7 @@ LP10 is purpose-built for mastering and high-precision processing. It uses linea
 
 **Best for:** Home mastering engineers and producers handling their own final processing who need transparent, phase-coherent equalization.
 
-[→ Download LP10 Free](https://lkjb.de/LP10) | [→ Get LP10](https://lkjb.de/LP10)
+[→ Download LP10 Free](https://ddmf.eu/lp10-linear-phase-equalizer-plugin/) | [→ Get LP10](https://ddmf.eu/lp10-linear-phase-equalizer-plugin/)
 
 ---
 
@@ -264,19 +264,19 @@ Voxengo's Overtone GEQ takes a different approach to equalization by working wit
 
 | Plugin | Price | Type | Highlights | Get It |
 |--------|-------|------|------------|--------|
-| TDR Nova | Free | Dynamic parametric | Dynamic bands, spectrum analyzer | [Official Site](https://www.izotope.com/en/products/neutron.html) |
-| MEqualizer | Free | Parametric | 6 bands, A/B, oscilloscope | [Official Site](https://www.izotope.com/en/products/neutron.html) |
-| Baxter EQ | Free | Analog-style | British console character | [Official Site](https://www.izotope.com/en/products/neutron.html) |
+| TDR Nova | Free | Dynamic parametric | Dynamic bands, spectrum analyzer | [Official Site](https://www.izotope.com/en/products/neutron) |
+| MEqualizer | Free | Parametric | 6 bands, A/B, oscilloscope | [Official Site](https://www.izotope.com/en/products/neutron) |
+| Baxter EQ | Free | Analog-style | British console character | [Official Site](https://www.izotope.com/en/products/neutron) |
 | Blue Cat's Triple EQ | Free | Semi-parametric | 3 bands, ultra-fast workflow | [Developer Site](https://www.bluecataudio.com/Products/Product_TripleEQ/) |
 | ReaEQ | Free | Parametric | Unlimited bands, low CPU | [Developer Site](https://www.reaper.fm/reaplugs/) |
-| Voxengo Marvel GEQ | Free | Linear phase graphic | 16 bands, zero phase distortion | [Official Site](https://www.izotope.com/en/products/neutron.html) |
-| LP10 | Free | Linear phase mastering | Up to 10 bands, surgical | [Official Site](https://www.izotope.com/en/products/neutron.html) |
+| Voxengo Marvel GEQ | Free | Linear phase graphic | 16 bands, zero phase distortion | [Official Site](https://www.izotope.com/en/products/neutron) |
+| LP10 | Free | Linear phase mastering | Up to 10 bands, surgical | [Official Site](https://www.izotope.com/en/products/neutron) |
 | TDR SlickEQ | Free | Bus/mastering EQ | Musical saturation, 3 bands | [Developer Site](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | Ignite Amps PTEq-X | Free | Passive/vintage | Pultec character, low-end shaping | [Developer Site](https://www.igniteamps.com/) |
 | Voxengo Overtone GEQ | Free | Harmonic graphic | Harmonic partial shaping | [Developer Site](https://www.voxengo.com/) |
-| FabFilter Pro-Q 3 | ~$179 | Dynamic parametric | Industry standard, EQ match | [Official Site](https://www.izotope.com/en/products/neutron.html) |
-| Waves SSL E-Channel | Varies | Analog emulation | SSL 4000 E console EQ | [Official Site](https://www.izotope.com/en/products/neutron.html) |
-| iZotope Neutron | Varies | AI-assisted | Mix assistant, masking detection | [Official Site](https://www.izotope.com/en/products/neutron.html) |
+| FabFilter Pro-Q 3 | ~$179 | Dynamic parametric | Industry standard, EQ match | [Official Site](https://www.izotope.com/en/products/neutron) |
+| Waves SSL E-Channel | Varies | Analog emulation | SSL 4000 E console EQ | [Official Site](https://www.izotope.com/en/products/neutron) |
+| iZotope Neutron | Varies | AI-assisted | Mix assistant, masking detection | [Official Site](https://www.izotope.com/en/products/neutron) |
 
 ---
 

@@ -88,7 +88,7 @@ Virtual Playing Orchestra combines freely available orchestral samples — inclu
 
 **Best for:** Notation-based composers, orchestrators who need basic articulation switching without paying for a premium library.
 
-[→ Download Virtual Playing Orchestra Free (Official)](http://virtualplaying.com/virtual-playing-orchestra/)
+[→ Download Virtual Playing Orchestra Free (Official)](https://virtualplaying.com/virtual-playing-orchestra//)
 
 ---
 
@@ -183,7 +183,7 @@ DSK Music produces a large catalog of free Windows VSTs. DSK Overture covers the
 | ProjectSAM Free Orchestra | Free | Cinematic textures | Premium developer, pad-focused | [Free Download](https://projectsam.com/libraries/the-free-orchestra/) |
 | Miroslav Philharmonik CE | Free | Full orchestra | Vintage character, European flavor | [Free (IK)](https://www.ikmultimedia.com/products/philharmonik2ce/) |
 | Sonatina SSO | Free | Full orchestra SFZ | No registration, full palette, portable | [Free Download](https://sfzinstruments.github.io/orchestra/sso/) |
-| Virtual Playing Orchestra | Free | Keyswitched SFZ | Multi-articulation, notation-friendly | [Free Download](http://virtualplaying.com/virtual-playing-orchestra/) |
+| Virtual Playing Orchestra | Free | Keyswitched SFZ | Multi-articulation, notation-friendly | [Free Download](https://virtualplaying.com/virtual-playing-orchestra//) |
 | OT SINE Player | Free | Premium ecosystem | Gateway to Berlin Series, polished UI | [Free Download](https://www.orchestraltools.com/get-sine) |
 | Decent Sampler | Free | Sample player | Modular, growing library ecosystem | [Free Download](https://www.decentsamples.com/product/decent-sampler-plugin/) |
 | DSK Overture | Free | Full orchestra VST | Windows-only, zero setup | [Free Download](https://www.dskmusic.com/dsk-overture/) |

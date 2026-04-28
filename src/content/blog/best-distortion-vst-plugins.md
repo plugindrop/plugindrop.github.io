@@ -128,7 +128,7 @@ Trash 2 is built for producers who need distortion that goes all the way. Its mu
 
 **Best for:** Aggressive electronic music production, extreme sound design, distorted parallel drum processing.
 
-[→ Search iZotope Trash 2](https://www.izotope.com/en/products/insight.html)
+[→ Search iZotope Trash 2](https://www.izotope.com/en/products/insight)
 
 ---
 
@@ -249,7 +249,7 @@ TAL-Saturator V2 is a waveshaper with adjustable drive, saturation character, an
 
 **Best for:** Subtle drive and harmonic thickening on polyphonic synthesizers, pads, and chord stacks.
 
-[→ Download TAL-Saturator V2 Free](https://tal-software.com/products/tal-saturator)
+[→ Download TAL-Saturator V2 Free](https://tal-software.com/products/tal-effects)
 
 ---
 
@@ -296,7 +296,7 @@ If you have been working with IVGI, Saturation Knob, Chow Tape Model, or TAL-Sat
 | Chow Tape Model | Free | Physical tape model | Physics-based, open source, flutter/wow | [Free](https://chowdsp.com/products.html) |
 | Softube Saturation Knob | Free | Frequency-aware saturation | 3 modes, zero config, fast insert | [Free](https://www.softube.com/plug-ins/saturation-knob) |
 | IVGI by Klanghelm | Free | Analog circuit saturation | Same developer as SDRR, no limitations | [Free](https://klanghelm.com/contents/products/IVGI.php) |
-| TAL-Saturator V2 | Free | Waveshaper | Lightweight, stable, Linux support | [Free](https://tal-software.com/products/tal-saturator) |
+| TAL-Saturator V2 | Free | Waveshaper | Lightweight, stable, Linux support | [Free](https://tal-software.com/products/tal-effects) |
 
 ---
 

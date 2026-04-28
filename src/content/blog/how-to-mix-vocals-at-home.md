@@ -24,7 +24,7 @@ draft: false
 | TDR Nova | Free | Dynamic EQ for transparent vocal correction | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Valhalla Supermassive | Free | Lush, professional-grade reverb and space | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Waves Tune Real-Time | From $29 | Low-latency pitch correction in the mix | [Developer Site](https://www.waves.com/plugins/waves-tune-real-time) |
-| iZotope Nectar 4 | From $199 | AI-assisted complete vocal production suite | [Developer Site](https://www.izotope.com/en/products/nectar.html) |
+| iZotope Nectar 4 | From $199 | AI-assisted complete vocal production suite | [Developer Site](https://www.izotope.com/en/products/nectar) |
 | Waves Vocal Bundle | Varies | Full paid vocal toolkit for serious mixing | [Official Site](https://www.waves.com/bundles/vocal) |
 
 ---
@@ -127,7 +127,7 @@ KVR Audio discussions on vocal processing tools regularly position Nectar 4 as t
 
 **Best for:** Producers who want AI-assisted vocal chain setup, an integrated harmony generator, and a single plugin that handles every stage from input to final processing.
 
-[→ Get iZotope Nectar 4](https://www.izotope.com/en/products/nectar.html)
+[→ Get iZotope Nectar 4](https://www.izotope.com/en/products/nectar)
 
 ---
 
@@ -141,7 +141,7 @@ KVR Audio discussions on vocal processing tools regularly position Nectar 4 as t
 - **Price:** From $199
 - **Why upgrade:** Free alternatives cover individual stages — EQ, reverb — at professional quality, but no free plugin offers AI-assisted vocal chain analysis, an integrated harmony generator, and a coherent multi-module interface in one place. Nectar 4 replaces five or six individual plugins with a single, intelligently connected workflow. The productivity gain is the feature.
 
-[→ Get iZotope Nectar 4](https://www.izotope.com/en/products/nectar.html)
+[→ Get iZotope Nectar 4](https://www.izotope.com/en/products/nectar)
 
 ### Waves Vocal Bundle — The comprehensive paid toolkit for producers who mix regularly
 
@@ -162,7 +162,7 @@ KVR Audio discussions on vocal processing tools regularly position Nectar 4 as t
 | TDR Nova | Free | Dynamic EQ | Per-band dynamic mode, M/S processing, linear phase option | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Valhalla Supermassive | Free | Algorithmic Reverb | Multiple algorithms, lush tails, delay modes | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Waves Tune Real-Time | From $29 | Pitch Correction | Low-latency design, formant correction, speed control | [Get It](https://www.waves.com/plugins/waves-tune-real-time) |
-| iZotope Nectar 4 | From $199 | Vocal Suite | AI Vocal Assistant, harmony generator, full chain | [Get It](https://www.izotope.com/en/products/nectar.html) |
+| iZotope Nectar 4 | From $199 | Vocal Suite | AI Vocal Assistant, harmony generator, full chain | [Get It](https://www.izotope.com/en/products/nectar) |
 | Waves Vocal Bundle | Varies | Bundle | Multi-plugin suite, CLA Vocals, Tune Real-Time included | [Official Site](https://www.waves.com/bundles/vocal) |
 
 ---
@@ -202,7 +202,7 @@ For mixing vocals at home in 2026, the free tier is genuinely strong: TDR Nova f
 
 Start with the free tools. Add pitch correction when your DAW's options are holding you back. Upgrade to Nectar 4 when AI-assisted chain setup and an integrated multi-module workflow are worth the investment.
 
-[→ Get iZotope Nectar 4](https://www.izotope.com/en/products/nectar.html)
+[→ Get iZotope Nectar 4](https://www.izotope.com/en/products/nectar)
 
 ---
 

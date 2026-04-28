@@ -197,7 +197,7 @@ Symphobia 1 has maintained its position in film scoring community recommendation
 
 **Best for:** Scoring producers and sound designers who want experimental source material that doesn't sound like standard library output.
 
-[→ Get 8Dio Libraries on Plugin Boutique](https://8dio.com/products/hybrid-tools-3)
+[→ Get 8Dio Libraries on Plugin Boutique](https://8dio.com/products/hybrid-tools-vol-3)
 
 ---
 

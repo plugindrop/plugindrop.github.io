@@ -22,10 +22,10 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| iZotope Vinyl | Free | Vinyl crackle, dust, and year-based degradation | [Free Download](https://www.izotope.com/en/products/vinyl.html) |
+| iZotope Vinyl | Free | Vinyl crackle, dust, and year-based degradation | [Free Download](https://www.izotope.com/en/products/vinyl) |
 | RC-20 Retro Color | $99 | All-in-one noise, wobble, and saturation suite | [Official Site](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) |
 | Valhalla Supermassive | Free | Lo-fi ambient reverb and shimmer | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| TAL-Dub-3 | Free | Warm tape delay with BPM sync | [Free Download](https://tal-software.com/products/tal-dub) |
+| TAL-Dub-3 | Free | Warm tape delay with BPM sync | [Free Download](https://tal-software.com/products/tal-dub-x) |
 | Arturia Pigments 4 | $199 | Lo-fi synth textures with built-in vintage character | [Official Site](https://www.arturia.com/products/software-instruments/pigments/overview) |
 
 ---
@@ -59,7 +59,7 @@ The recurring community recommendation on r/lofi is to keep the Dust & Scratches
 
 **Best for:** Producers starting their first lo-fi chain who want a reliable, well-documented vinyl layer at zero cost.
 
-[→ Download iZotope Vinyl Free](https://www.izotope.com/en/products/vinyl.html)
+[→ Download iZotope Vinyl Free](https://www.izotope.com/en/products/vinyl)
 
 ---
 
@@ -128,7 +128,7 @@ The saturation in the feedback path is the key distinguishing feature: each repe
 
 **Best for:** Lo-fi producers who want tape delay character without a paid plugin — particularly useful on piano, Rhodes, and vocal chop channels.
 
-[→ Download TAL-Dub-3 Free](https://tal-software.com/products/tal-dub)
+[→ Download TAL-Dub-3 Free](https://tal-software.com/products/tal-dub-x)
 
 ---
 
@@ -162,10 +162,10 @@ The saturation in the feedback path is the key distinguishing feature: each repe
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| iZotope Vinyl | Free | Vinyl simulator | 6 degradation modules, Year dial (1930–1990), broad DAW support | [Download Free](https://www.izotope.com/en/products/vinyl.html) |
+| iZotope Vinyl | Free | Vinyl simulator | 6 degradation modules, Year dial (1930–1990), broad DAW support | [Download Free](https://www.izotope.com/en/products/vinyl) |
 | RC-20 Retro Color | $99 | Multi-FX lo-fi suite | Noise, Wobble, Distortion, Space, Lag, Lo-Fi modules with interaction | [Get It](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) |
 | Valhalla Supermassive | Free | Algorithmic reverb | Multiple modes, built-in modulation/chorus, Linux support | [Download Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| TAL-Dub-3 | Free | Tape delay | BPM sync, saturation in feedback path, dub-style character | [Download Free](https://tal-software.com/products/tal-dub) |
+| TAL-Dub-3 | Free | Tape delay | BPM sync, saturation in feedback path, dub-style character | [Download Free](https://tal-software.com/products/tal-dub-x) |
 | Arturia Pigments 4 | $199 | Synthesizer | Granular/wavetable engines, built-in vintage filter and FX | [Get It](https://www.arturia.com/products/software-instruments/pigments/overview) |
 
 ---

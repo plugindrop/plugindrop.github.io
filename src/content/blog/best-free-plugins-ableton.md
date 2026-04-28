@@ -265,7 +265,7 @@ iZotope's Ozone Imager 2 gives you precise stereo width control with a Lissajous
 
 **Best for:** Controlling stereo width on submixes and individual tracks, widening mono sources, checking mono compatibility, and mastering prep.
 
-[→ Download Ozone Imager 2 Free](https://www.izotope.com/en/products/ozone-imager.html)
+[→ Download Ozone Imager 2 Free](https://www.izotope.com/en/products/ozone-imager)
 
 ---
 
@@ -311,23 +311,23 @@ Once you've maxed out what the free tier offers, these three commercial plugins 
 ---
 
 
-[→ Search iZotope Neutron](https://www.izotope.com/en/products/neutron.html)
+[→ Search iZotope Neutron](https://www.izotope.com/en/products/neutron)
 ## Full Comparison Table
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital | Free | Wavetable Synth | Spectral warping, drag-and-drop modulation, audio-to-wavetable import | [Get It](https://www.izotope.com/en/products/neutron.html) |
-| Surge XT | Free | Hybrid Synth | Multi-engine synthesis, open source, CLAP support, massive preset library | [Get It](https://www.izotope.com/en/products/neutron.html) |
-| OB-Xd | Free | Analog Poly Synth | Oberheim OB-X emulation, per-voice parameter variation, low CPU | [Get It](https://www.izotope.com/en/products/neutron.html) |
+| Vital | Free | Wavetable Synth | Spectral warping, drag-and-drop modulation, audio-to-wavetable import | [Get It](https://www.izotope.com/en/products/neutron) |
+| Surge XT | Free | Hybrid Synth | Multi-engine synthesis, open source, CLAP support, massive preset library | [Get It](https://www.izotope.com/en/products/neutron) |
+| OB-Xd | Free | Analog Poly Synth | Oberheim OB-X emulation, per-voice parameter variation, low CPU | [Get It](https://www.izotope.com/en/products/neutron) |
 | Dexed | Free | FM Synth | Yamaha DX7 emulation, SysEx patch loading, visual operator display | [Get It](https://asb2m10.github.io/dexed/) |
-| TDR Nova | Free | Dynamic EQ | Per-band dynamics, parallel EQ architecture, transparent processing | [Get It](https://www.izotope.com/en/products/neutron.html) |
-| Rough Rider 3 | Free | Compressor | Character compression, wet/dry blend, sidechain input | [Get It](https://www.izotope.com/en/products/neutron.html) |
-| Valhalla Supermassive | Free | Reverb / Delay | Long decay times, WARP parameter, 11 reverb algorithms | [Get It](https://www.izotope.com/en/products/neutron.html) |
+| TDR Nova | Free | Dynamic EQ | Per-band dynamics, parallel EQ architecture, transparent processing | [Get It](https://www.izotope.com/en/products/neutron) |
+| Rough Rider 3 | Free | Compressor | Character compression, wet/dry blend, sidechain input | [Get It](https://www.izotope.com/en/products/neutron) |
+| Valhalla Supermassive | Free | Reverb / Delay | Long decay times, WARP parameter, 11 reverb algorithms | [Get It](https://www.izotope.com/en/products/neutron) |
 | TAL-Chorus-LX | Free | Chorus | Juno-6 BBD circuit emulation, natural stereo width | [Get It](https://tal-software.com/products/tal-chorus-lx) |
 | LABS | Free | Sample Instrument | Curated Spitfire samples, growing catalog, all genres covered | [Get It](https://labs.spitfireaudio.com/) |
 | Sitala | Free | Drum Sampler | 16-pad workflow, drag-and-drop loading, per-pad filter and envelope | [Get It](https://decomposer.de/sitala/) |
 | SPAN | Free | Spectrum Analyzer | Real-time FFT, near-zero CPU, configurable display modes | [Get It](https://www.voxengo.com/product/span/) |
-| Ozone Imager 2 | Free | Stereo Imager | Lissajous vectorscope, Stereoize function, mono compatibility check | [Get It](https://www.izotope.com/en/products/ozone-imager.html) |
+| Ozone Imager 2 | Free | Stereo Imager | Lissajous vectorscope, Stereoize function, mono compatibility check | [Get It](https://www.izotope.com/en/products/ozone-imager) |
 
 ---
 
@@ -364,7 +364,7 @@ All 12 plugins in this guide permit commercial use under their respective free l
 
 The best free plugins for Ableton Live in 2026 now form a genuinely complete, professional-grade toolkit, and **Vital** remains the single most valuable download on this entire list. If you install only one plugin from this guide, make it Vital — then add Valhalla Supermassive for spatial depth and TDR Nova for dynamic frequency control. Together, those three cover the majority of your sound design and mixing needs without costing a cent.
 
-[→ Download Vital Free and Start Designing Sounds Today](https://www.izotope.com/en/products/neutron.html)
+[→ Download Vital Free and Start Designing Sounds Today](https://www.izotope.com/en/products/neutron)
 
 ---
 

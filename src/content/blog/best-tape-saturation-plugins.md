@@ -26,7 +26,7 @@ draft: false
 | Soundtoys Decapitator | $99 | Flexible harmonic saturation | [Soundtoys](https://www.soundtoys.com/product/decapitator/) |
 | Chow Tape Model | Free | Best free tape emulation | [Free Download](https://chowdsp.com) |
 | Klanghelm SDRR | $21 | Best-value paid saturation | [Official Site](https://klanghelm.com/contents/products/SDRR.php) |
-| Slate Digital VTM | ~$149 | Drum bus glue and mixbus processing | [Official Site](https://slatedigital.com/vtm/) |
+| Slate Digital VTM | ~$149 | Drum bus glue and mixbus processing | [Official Site](https://slate.audio/vtm//) |
 
 ---
 
@@ -163,7 +163,7 @@ Slate Digital's Virtual Tape Machines models multiple tape configurations at dif
 
 **Best for:** Drum bus and mixbus processing, especially for producers who are already on or considering the Slate Everything Bundle.
 
-[→ Get Slate Digital VTM](https://slatedigital.com/vtm/)
+[→ Get Slate Digital VTM](https://slate.audio/vtm//)
 
 ---
 

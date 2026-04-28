@@ -365,7 +365,7 @@ iZotope Vinyl simulates the sonic artifacts of vinyl records — mechanical nois
 
 **Best for:** Lo-fi hip-hop, vintage aesthetics, and creative sound design.
 
-[→ Download iZotope Vinyl Free](https://www.izotope.com/en/products/vinyl.html)
+[→ Download iZotope Vinyl Free](https://www.izotope.com/en/products/vinyl)
 
 ---
 
@@ -437,7 +437,7 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 | MT Power Drum Kit 2 | Free | Drums | Acoustic drums, MIDI grooves | [Developer Site](https://www.powerdrumkit.com/) |
 | LABS | Free | Instruments | Orchestral/cinematic, expanding library | [Developer Site](https://labs.spitfireaudio.com/) |
 | Decent Sampler | Free | Sample Player | Huge free community library ecosystem | [Developer Site](https://www.decentsamples.com/product/decent-sampler-plugin/) |
-| iZotope Vinyl | Free | FX | Vinyl artifacts, lo-fi standard | [Developer Site](https://www.izotope.com/en/products/vinyl.html) |
+| iZotope Vinyl | Free | FX | Vinyl artifacts, lo-fi standard | [Developer Site](https://www.izotope.com/en/products/vinyl) |
 | Melda MFreeFXBundle | Free | Bundle | 37 plugins, broad coverage | [Developer Site](https://www.meldaproduction.com/MFreeFXBundle) |
 | Serum | $189 | Synth | Industry standard wavetable | [Official Site](https://xferrecords.com/products/serum-2) |
 | FabFilter Total Bundle | €899 | Suite | Pro mixing suite, top-tier quality | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |

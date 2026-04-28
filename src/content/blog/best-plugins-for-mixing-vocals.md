@@ -23,7 +23,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| iZotope Nectar 4 | $199 | Complete vocal suite | [iZotope](https://www.izotope.com/en/products/nectar.html) |
+| iZotope Nectar 4 | $199 | Complete vocal suite | [iZotope](https://www.izotope.com/en/products/nectar) |
 | FabFilter Pro-Q 3 | $179 | Surgical EQ | [FabFilter](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | Waves Tune Real-Time | from $29 | Real-time pitch correction | [Waves](https://www.waves.com/plugins/waves-tune-real-time) |
 | Valhalla Supermassive | Free | Reverb & spatial depth | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
@@ -166,7 +166,7 @@ iZotope Nectar 4 is the most feature-complete dedicated vocal processing suite i
 
 **Best for:** Producers building their first professional vocal chain, or anyone who wants a complete, guided suite over assembling individual tools.
 
-[→ Get iZotope Nectar 4](https://www.izotope.com/en/products/nectar.html)
+[→ Get iZotope Nectar 4](https://www.izotope.com/en/products/nectar)
 
 ---
 
@@ -271,7 +271,7 @@ FabFilter Pro-L 2 is the most-recommended transparent limiter in KVR Audio and G
 - **Price:** $199
 - **Why upgrade:** Assembling a vocal chain from individual third-party plugins requires knowing exactly what each slot needs and managing how the tools interact. Nectar 4 replaces six to eight separate purchases with a purpose-built vocal processor that includes AI-assisted starting chains and the Unmask feature — inter-plugin communication that automatically carves mix space for the vocal across the full iZotope ecosystem. For producers who haven't yet filled out individual chain positions, it is a faster and cheaper path to a professional result.
 
-[→ Get iZotope Nectar 4](https://www.izotope.com/en/products/nectar.html)
+[→ Get iZotope Nectar 4](https://www.izotope.com/en/products/nectar)
 
 ---
 
@@ -297,7 +297,7 @@ FabFilter Pro-L 2 is the most-recommended transparent limiter in KVR Audio and G
 | FabFilter Pro-DS | $99 | De-esser | Wideband & dynamic modes, visual display | Developer site |
 | FabFilter Pro-Q 3 | $179 | EQ | 24 dynamic bands, inter-plugin spectrum | [Get It](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | Soundtoys Decapitator | $99 | Saturation | 5 analog models, parallel blend | Developer site |
-| iZotope Nectar 4 | $199 | All-in-One Suite | AI assistant, Unmask, full chain coverage | [Get It](https://www.izotope.com/en/products/nectar.html) |
+| iZotope Nectar 4 | $199 | All-in-One Suite | AI assistant, Unmask, full chain coverage | [Get It](https://www.izotope.com/en/products/nectar) |
 | Waves Doubler 4 | from $29 | Width/Doubling | 4 voices, pitch/timing/pan per voice | Developer site |
 | Waves Vocal Rider | from $29 | Gain Riding | Auto gain, sidechain mix reference | Developer site |
 | Valhalla Supermassive | Free | Reverb | 24 modes, dense spatial textures | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
@@ -349,7 +349,7 @@ Community consensus on chain order: pitch correction first, then compression (co
 
 For most bedroom producers in 2026, the two purchases that move the needle most are FabFilter Pro-Q 3 for precision EQ — the plugin community consensus has validated more consistently than any competitor — and iZotope Nectar 4 for intelligent all-in-one processing that covers every remaining chain position in a single interface. If you're choosing one starting point, Nectar 4 gives you the fastest path from a raw vocal to a mix-ready result.
 
-[→ Get iZotope Nectar 4](https://www.izotope.com/en/products/nectar.html)
+[→ Get iZotope Nectar 4](https://www.izotope.com/en/products/nectar)
 
 ---
 

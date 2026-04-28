@@ -24,7 +24,7 @@ draft: false
 | TDR Nova | Free | Dynamic EQ, surgical mixing | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | MEqualizer | Free | Full-featured parametric EQ | [Free Download](https://www.meldaproduction.com/MEqualizer) |
 | Voxengo Marvel GEQ | Free | Linear phase graphic EQ, mastering | [Free Download](https://www.voxengo.com/product/marvelgeq/) |
-| LP10 | Free | Lightweight parametric EQ, dense sessions | [Free Download](https://lkjb.de/LP10) |
+| LP10 | Free | Lightweight parametric EQ, dense sessions | [Free Download](https://ddmf.eu/lp10-linear-phase-equalizer-plugin/) |
 | FabFilter Pro-Q 3 | $179 | The benchmark — full dynamic EQ suite | [Get It](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 
 ---
@@ -115,7 +115,7 @@ Community threads focused on production workflow, particularly on forums caterin
 
 **Best for:** High track count sessions where CPU headroom is a real constraint and dynamic EQ is not required.
 
-[→ Download LP10 Free](https://lkjb.de/LP10)
+[→ Download LP10 Free](https://ddmf.eu/lp10-linear-phase-equalizer-plugin/)
 
 ---
 
@@ -140,7 +140,7 @@ Community threads focused on production workflow, particularly on forums caterin
 | TDR Nova | Free | Dynamic EQ | 4 dynamic bands, per-band dynamics, VST3/AU/AAX | [Download Free](https://www.tokyodawn.net/tdr-nova/) |
 | MEqualizer | Free | Parametric EQ | 6 bands, MFreeFXBundle, neutral sound | [Download Free](https://www.meldaproduction.com/MEqualizer) |
 | Voxengo Marvel GEQ | Free | Linear Phase Graphic EQ | 16 bands, linear phase, mastering-focused | [Download Free](https://www.voxengo.com/product/marvelgeq/) |
-| LP10 | Free | Parametric EQ | 10 bands, low CPU, clean filter shapes | [Download Free](https://lkjb.de/LP10) |
+| LP10 | Free | Parametric EQ | 10 bands, low CPU, clean filter shapes | [Download Free](https://ddmf.eu/lp10-linear-phase-equalizer-plugin/) |
 | FabFilter Pro-Q 3 | $179 | Dynamic + Parametric EQ | 24 bands, dynamic EQ, M/S per band, collision detection | [Get It](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 
 ---

@@ -153,7 +153,7 @@ LePou's collection of free amp sims — Le456 (5150-inspired), HyBrit (Marshall 
 
 **Best for:** Windows producers who want classic metal and hard rock amp colors at no cost and are comfortable managing separate IR files.
 
-[→ Download LePou Amp Sim Suite Free (Official)](https://lepouplugins.blogspot.com/)
+[→ Download LePou Amp Sim Suite Free (Official)](https://www.osirisguitar.com/2019/10/14/lepou//)
 
 ---
 

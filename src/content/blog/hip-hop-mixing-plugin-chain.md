@@ -24,9 +24,9 @@ draft: false
 | FabFilter Pro-Q 3 | $179 | Surgical EQ on every stem | [Get It](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | OTT (Xfer Records) | Free | Parallel multiband punch | [Free Download](https://xferrecords.com/freeware) |
 | Waves SSL G-Master Buss Compressor | From $29.99 | Drum and mix bus glue | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| iZotope Vinyl | Free | Vintage texture and warmth | [Free Download](https://www.izotope.com/en/products/vinyl.html) |
+| iZotope Vinyl | Free | Vintage texture and warmth | [Free Download](https://www.izotope.com/en/products/vinyl) |
 | Waves Platinum Bundle | See site | Full mixing toolkit | [Get It](https://www.waves.com/bundles/platinum) |
-| iZotope Music Production Suite | See site | Mastering + vocal chain | [Get It](https://www.izotope.com/en/products/music-production-suite.html) |
+| iZotope Music Production Suite | See site | Mastering + vocal chain | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 
 ---
 
@@ -126,7 +126,7 @@ iZotope Vinyl simulates the sonic artifacts of vinyl playback: mechanical noise,
 
 **Best for:** Adding analog texture and high-frequency warmth to digital productions, from obvious lo-fi aesthetics to barely-perceptible softening on mix buses.
 
-[→ Download iZotope Vinyl Free](https://www.izotope.com/en/products/vinyl.html)
+[→ Download iZotope Vinyl Free](https://www.izotope.com/en/products/vinyl)
 
 ---
 
@@ -152,7 +152,7 @@ The four-plugin chain above covers EQ, dynamics, and character for a complete hi
 - **Price:** Check current pricing at the link below
 - **Why upgrade:** iZotope Vinyl handles texture and warmth but has no spectral repair, vocal processing, or mastering capabilities. Music Production Suite adds Ozone (the most-referenced software mastering chain in independent hip-hop production), Nectar (vocal processing with pitch correction and spectral shaping), and RX (audio repair for sampled material with noise, hum, and crackle that iZotope Vinyl cannot surgically remove). It is a complete production suite rather than a single-purpose tool.
 
-[→ Get iZotope Music Production Suite](https://www.izotope.com/en/products/music-production-suite.html)
+[→ Get iZotope Music Production Suite](https://www.izotope.com/en/products/music-production-suite)
 
 ---
 
@@ -163,9 +163,9 @@ The four-plugin chain above covers EQ, dynamics, and character for a complete hi
 | FabFilter Pro-Q 3 | $179 | Parametric EQ | Dynamic EQ, collision detection, linear phase | [Get It](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | OTT | Free | Multiband Compressor | Upward/downward compression, 3 bands, parallel-ready | [Free Download](https://xferrecords.com/freeware) |
 | Waves SSL G-Master Buss Compressor | From $29.99 | VCA Bus Compressor | SSL 4000G model, Auto Release, drum and mix bus | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| iZotope Vinyl | Free | Vinyl Simulator | Noise, warp, crackle, electrical hum, wear controls | [Free Download](https://www.izotope.com/en/products/vinyl.html) |
+| iZotope Vinyl | Free | Vinyl Simulator | Noise, warp, crackle, electrical hum, wear controls | [Free Download](https://www.izotope.com/en/products/vinyl) |
 | Waves Platinum Bundle | See site | Plugin Bundle | 50+ tools, SSL strip, CLA-76, H-Delay included | [Get It](https://www.waves.com/bundles/platinum) |
-| iZotope Music Production Suite | See site | Production Suite | Ozone, Nectar, RX — mastering to vocal to repair | [Get It](https://www.izotope.com/en/products/music-production-suite.html) |
+| iZotope Music Production Suite | See site | Production Suite | Ozone, Nectar, RX — mastering to vocal to repair | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 
 ---
 

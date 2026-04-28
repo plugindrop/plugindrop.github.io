@@ -232,7 +232,7 @@ The free toolkit above covers a complete mastering chain. These two paid tools b
 - **Price:** From $49 (Elements) / $249 (Standard)
 - **Why upgrade:** The free toolkit requires you to calibrate every stage manually — there is no reference point, no automatic loudness targeting, and no integrated workflow. Ozone 11's Master Assistant analyzes your track and proposes initial settings for EQ, dynamics, and loudness targeting, which accelerates the starting point considerably. It also adds a dedicated Imager module for mid/side stereo control and a Tonal Balance reference system not available in any free tool.
 
-[→ Get iZotope Ozone 11](https://www.izotope.com/en/products/ozone.html)
+[→ Get iZotope Ozone 11](https://www.izotope.com/en/products/ozone)
 
 ---
 
@@ -262,7 +262,7 @@ The free toolkit above covers a complete mastering chain. These two paid tools b
 | LoudMax | Free | Limiter | 2-control transparent brickwall | [Download](https://loudmax.blogspot.com/) |
 | TDR Kotelnikov | Free | Compressor | Program-dependent, mastering-tuned | [Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Klanghelm IVGI | Free | Saturation | Harmonic warmth, soft-knee | [Download](https://klanghelm.com/contents/products/IVGI/) |
-| iZotope Ozone 11 | From $49 | Suite | AI mastering, integrated workflow | [Get It](https://www.izotope.com/en/products/ozone.html) |
+| iZotope Ozone 11 | From $49 | Suite | AI mastering, integrated workflow | [Get It](https://www.izotope.com/en/products/ozone) |
 | FabFilter Pro-L 2 | $199 | Limiter | 8 algorithms, True Peak, pro delivery | [Get It](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) |
 
 ---

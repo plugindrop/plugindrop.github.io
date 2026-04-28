@@ -27,7 +27,7 @@ draft: false
 | TDR Nova | Free | Dynamic EQ, resonance taming | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | FabFilter Pro-C 2 | $179 | Transparent to punchy compression | [Get It](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
 | Klanghelm DC8C | ~$23 | Character compression, drums & bus | [Get It](https://klanghelm.com/contents/products/DC8C.php) |
-| iZotope Neutron | ~$249 | AI-assisted full channel strip | [Official Site](https://www.izotope.com/en/products/neutron.html) |
+| iZotope Neutron | ~$249 | AI-assisted full channel strip | [Official Site](https://www.izotope.com/en/products/neutron) |
 | Valhalla VintageVerb | $50 | Lush algorithmic reverb, any genre | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 
 ---
@@ -139,7 +139,7 @@ The inter-plugin communication system — where Neutron instances across a sessi
 
 **Best for:** Producers who want an AI-accelerated workflow and a consolidated channel strip that reduces open plugin windows per track across a full session.
 
-[→ Get iZotope Neutron](https://www.izotope.com/en/products/neutron.html)
+[→ Get iZotope Neutron](https://www.izotope.com/en/products/neutron)
 
 ---
 
@@ -198,7 +198,7 @@ Community consensus across Reddit's production forums describes VintageVerb's al
 - **Price:** ~$249 (frequent sales via Plugin Boutique)
 - **Why upgrade:** Ozone bundles EQ, multiband compression, stereo imaging, exciter, limiter, and AI-assisted mastering into a single consolidated workflow. Developer documentation confirms the Master Rebalance feature — which independently adjusts the level of stems (bass, drums, vocals) within a finished mixed file — is unique to Ozone among mastering suites at this price. For producers mastering their own work without access to a dedicated mastering engineer, Ozone is the most complete single-tool solution community forums consistently recommend.
 
-[→ Get iZotope Ozone](https://www.izotope.com/en/products/ozone.html)
+[→ Get iZotope Ozone](https://www.izotope.com/en/products/ozone)
 
 ---
 
@@ -210,11 +210,11 @@ Community consensus across Reddit's production forums describes VintageVerb's al
 | TDR Nova | Free | Dynamic EQ | 4-band dynamic control, linear phase, free | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | FabFilter Pro-C 2 | $179 | Compressor | 8 compression styles, visual GR display | [Get It](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
 | Klanghelm DC8C | ~$23 | Compressor | Feed-forward/back topologies, Dirty mode | [Get It](https://klanghelm.com/contents/products/DC8C.php) |
-| iZotope Neutron | ~$249 | Channel Strip | AI Track Assistant, inter-plugin masking detection | [Official Site](https://www.izotope.com/en/products/ozone.html) |
-| Valhalla VintageVerb | $50 | Reverb | 18 algorithm modes, low CPU, genre-agnostic | [Official Site](https://www.izotope.com/en/products/ozone.html) |
+| iZotope Neutron | ~$249 | Channel Strip | AI Track Assistant, inter-plugin masking detection | [Official Site](https://www.izotope.com/en/products/ozone) |
+| Valhalla VintageVerb | $50 | Reverb | 18 algorithm modes, low CPU, genre-agnostic | [Official Site](https://www.izotope.com/en/products/ozone) |
 | Soundtoys Decapitator | ~$99 | Saturation | 5 hardware-modeled styles, parallel mix control | [Get It](https://www.soundtoys.com/product/decapitator/) |
 | FabFilter Pro-L 2 | $199 | Limiter | True-peak, 8 algorithms, LUFS metering | [Get It](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) |
-| iZotope Ozone | ~$249 | Mastering Suite | AI mastering, Master Rebalance, full chain | [Official Site](https://www.izotope.com/en/products/ozone.html) |
+| iZotope Ozone | ~$249 | Mastering Suite | AI mastering, Master Rebalance, full chain | [Official Site](https://www.izotope.com/en/products/ozone) |
 
 ---
 

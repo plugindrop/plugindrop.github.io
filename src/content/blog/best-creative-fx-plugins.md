@@ -22,7 +22,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| iZotope Stutter Edit 2 | ~$199 | MIDI-triggered glitch & stutter | [Official Site](https://www.izotope.com/en/products/insight.html) |
+| iZotope Stutter Edit 2 | ~$199 | MIDI-triggered glitch & stutter | [Official Site](https://www.izotope.com/en/products/insight) |
 | Soundtoys 5 | ~$499 | Full creative effects bundle | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
 | Sugar Bytes Turnado | ~$99 | Real-time performance multi-FX | [Official Site](https://sugar-bytes.de/turnado) |
 | Output Portal | ~$99 | Granular pitch & time textures | [Official Site](https://output.com/products/portal) |
@@ -57,7 +57,7 @@ Stutter Edit 2 is a performance plugin that maps complex rhythmic glitch pattern
 
 **Best for:** Producers who need controllable, repeatable glitch that holds up under repeated listening.
 
-[→ Get iZotope Stutter Edit 2](https://www.izotope.com/en/products/insight.html)
+[→ Get iZotope Stutter Edit 2](https://www.izotope.com/en/products/insight)
 
 ---
 

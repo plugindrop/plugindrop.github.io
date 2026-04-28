@@ -22,8 +22,8 @@ draft: false
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 3 | $179 | Surgical precision, full pro workflow | [Official Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | TDR Nova | Free | Dynamic EQ at no cost | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
-| iZotope Neutron 4 | $249 | AI-assisted EQ, mix-context shaping | [Official Site](https://www.izotope.com/en/products/neutron.html) |
-| iZotope Nectar 4 | $249 | Vocal-dedicated full processing chain | [Official Site](https://www.izotope.com/en/products/nectar.html) |
+| iZotope Neutron 4 | $249 | AI-assisted EQ, mix-context shaping | [Official Site](https://www.izotope.com/en/products/neutron) |
+| iZotope Nectar 4 | $249 | Vocal-dedicated full processing chain | [Official Site](https://www.izotope.com/en/products/nectar) |
 
 ---
 
@@ -150,7 +150,7 @@ Neutron 4 is not a standalone EQ — it's a full mixing channel strip where the 
 
 **Best for:** Producers who want AI-assisted starting points, full channel-strip mixing workflow, EQ decisions informed by the full mix context
 
-[→ Get iZotope Neutron 4](https://www.izotope.com/en/products/neutron.html)
+[→ Get iZotope Neutron 4](https://www.izotope.com/en/products/neutron)
 
 ---
 
@@ -164,7 +164,7 @@ Neutron 4 is not a standalone EQ — it's a full mixing channel strip where the 
 - **Price:** $249
 - **Why upgrade:** Where Neutron 4 is a general-purpose mixing channel strip applied to any instrument, Nectar 4 is built exclusively for vocal production. Its EQ, compression, de-essing, breath control, reverb, and pitch correction modules are designed as a single integrated vocal workflow. The Unmask feature — which uses inter-plugin communication to carve frequency space for the lead vocal relative to other tracks — addresses the exact mix competition problem that Neutron handles only partially for vocal-centric sessions.
 
-[→ Get iZotope Nectar 4](https://www.izotope.com/en/products/nectar.html)
+[→ Get iZotope Nectar 4](https://www.izotope.com/en/products/nectar)
 
 ---
 
@@ -186,8 +186,8 @@ Neutron 4 is not a standalone EQ — it's a full mixing channel strip where the 
 |--------|-------|------|------------|-----|
 | TDR Nova | Free | Dynamic EQ | 4 dynamic bands, HPF, parallel mode, Linux support | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | FabFilter Pro-Q 3 | $179 | Linear/Dynamic EQ | 24 bands, collision detection, linear phase, M/S | [Get It](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| iZotope Neutron 4 | $249 | AI Channel Strip | AI Track Assistant, masking meter, Relay system | [Get It](https://www.izotope.com/en/products/neutron.html) |
-| iZotope Nectar 4 | $249 | Vocal Processing Suite | Vocal Assistant, Unmask, integrated vocal chain | [Get It](https://www.izotope.com/en/products/nectar.html) |
+| iZotope Neutron 4 | $249 | AI Channel Strip | AI Track Assistant, masking meter, Relay system | [Get It](https://www.izotope.com/en/products/neutron) |
+| iZotope Nectar 4 | $249 | Vocal Processing Suite | Vocal Assistant, Unmask, integrated vocal chain | [Get It](https://www.izotope.com/en/products/nectar) |
 
 ---
 

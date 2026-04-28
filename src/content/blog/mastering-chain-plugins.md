@@ -27,10 +27,10 @@ draft: false
 |--------|-------|----------|--------|
 | SPAN (Voxengo) | Free | Real-time spectrum analysis | [Official Site](https://www.voxengo.com/product/span/) |
 | FabFilter Pro-Q 3 | $179 | Surgical mastering EQ | [Official Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| iZotope Ozone 11 | $349 | All-in-one mastering suite | [Official Site](https://www.izotope.com/en/products/ozone.html) |
+| iZotope Ozone 11 | $349 | All-in-one mastering suite | [Official Site](https://www.izotope.com/en/products/ozone) |
 | FabFilter Pro-L 2 | $199 | Transparent brick-wall limiting | [Official Site](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) |
 | Youlean Loudness Meter 2 | Free | LUFS & streaming targets | [Official Site](https://youlean.co/youlean-loudness-meter/) |
-| iZotope Insight 2 | $199 | Professional broadcast metering | [Official Site](https://www.izotope.com/en/products/insight.html) |
+| iZotope Insight 2 | $199 | Professional broadcast metering | [Official Site](https://www.izotope.com/en/products/insight) |
 
 ---
 
@@ -107,7 +107,7 @@ The Stabilizer module introduced in recent versions is particularly useful: it a
 
 **Best for:** Engineers who want a complete, AI-assisted mastering environment with every tool in one interface.
 
-[→ Get iZotope Ozone 11 (Official Site)](https://www.izotope.com/en/products/ozone.html)
+[→ Get iZotope Ozone 11 (Official Site)](https://www.izotope.com/en/products/ozone)
 
 [![iZotope Ozone 11 Demo](https://img.youtube.com/vi/lwIuaD8O61M/0.jpg)](https://www.youtube.com/watch?v=lwIuaD8O61M)
 
@@ -178,7 +178,7 @@ The loudness history timeline is especially valuable when mastering for video sy
 
 **Best for:** Broadcast delivery, film/TV sync, and professional engineers who need compliance reporting and deep metering history.
 
-[→ Get iZotope Insight 2 (Official Site)](https://www.izotope.com/en/products/insight.html)
+[→ Get iZotope Insight 2 (Official Site)](https://www.izotope.com/en/products/insight)
 
 [![iZotope Insight 2 Demo](https://img.youtube.com/vi/zBjdTQE3630/0.jpg)](https://www.youtube.com/watch?v=zBjdTQE3630)
 
@@ -201,7 +201,7 @@ If you're currently running a stripped-back chain with free alternatives at any 
 ---
 
 
-[→ Get iZotope Ozone 11 (Official Site)](https://www.izotope.com/en/products/ozone.html)
+[→ Get iZotope Ozone 11 (Official Site)](https://www.izotope.com/en/products/ozone)
 ### FabFilter Pro-L 2 — The limiter that professionals trust for streaming delivery
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/V2EUVpasalU" title="FabFilter Pro-L 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

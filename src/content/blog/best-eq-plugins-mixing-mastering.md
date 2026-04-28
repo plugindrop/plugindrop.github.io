@@ -24,12 +24,12 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 3 | $179 | All-purpose mixing & mastering EQ | [→ Buy](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| iZotope Neutron 4 | ~$249 | AI-guided mixing EQ | [→ Buy](https://www.izotope.com/en/products/neutron.html) |
+| iZotope Neutron 4 | ~$249 | AI-guided mixing EQ | [→ Buy](https://www.izotope.com/en/products/neutron) |
 | Waves SSL E-Channel | Varies | Analog console channel strip EQ | [→ Buy](https://www.waves.com/plugins/ssl-e-channel) |
 | TDR Nova | Free | Dynamic EQ for any genre | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | TDR VOS SlickEQ GE | Free | Analog-voiced mixing EQ | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | Voxengo Marvel GEQ | Free | Linear-phase mastering EQ | [Free Download](https://www.voxengo.com/product/marvelgeq/) |
-| iZotope Ozone 11 | from $249 | Full mastering chain EQ | [→ Buy](https://www.izotope.com/en/products/ozone.html) |
+| iZotope Ozone 11 | from $249 | Full mastering chain EQ | [→ Buy](https://www.izotope.com/en/products/ozone) |
 
 ---
 
@@ -92,7 +92,7 @@ iZotope Neutron 4 is a full channel strip where the EQ module is powered by mach
 
 **Best for:** Producers who want AI-guided EQ suggestions as a workflow accelerator and ear-training tool, not as a set-and-forget solution.
 
-[→ Get iZotope Neutron 4](https://www.izotope.com/en/products/neutron.html)
+[→ Get iZotope Neutron 4](https://www.izotope.com/en/products/neutron)
 
 ---
 
@@ -179,7 +179,7 @@ Slate Digital Fresh Air is a two-control plugin built entirely around high-frequ
 
 **Best for:** Producers who need a fast, single-purpose tool for adding vocal air and presence without manually dialing in a parametric EQ.
 
-[→ Download Slate Digital Fresh Air Free](https://slatedigital.com/free-plugins/)
+[→ Download Slate Digital Fresh Air Free](https://slate.audio/free-plugins//)
 
 ---
 
@@ -205,7 +205,7 @@ Slate Digital Fresh Air is a two-control plugin built entirely around high-frequ
 - **Price:** from $249 (Standard)
 - **Why upgrade:** Mixing EQs work on mastering chains, but Ozone 11's EQ module is purpose-built for mastering — linear phase as a default, Mid/Side processing as a first-class feature, and deep integration with the suite's AI Master Assistant for a calibrated starting reference across the full chain. The EQ alone would not justify the price; the integration across Ozone 11's limiter, imaging, and dynamic modules is what makes this a mastering workflow investment rather than another parametric EQ.
 
-[→ Get iZotope Ozone 11](https://www.izotope.com/en/products/ozone.html)
+[→ Get iZotope Ozone 11](https://www.izotope.com/en/products/ozone)
 
 ---
 
@@ -214,14 +214,14 @@ Slate Digital Fresh Air is a two-control plugin built entirely around high-frequ
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | FabFilter Pro-Q 3 | $179 | Parametric + Dynamic EQ | 24 bands, dynamic per band, linear phase | [Get It](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| iZotope Neutron 4 | ~$249 | AI-Assisted Channel Strip EQ | Track Assistant, Masking Meter, neural analysis | [Get It](https://www.izotope.com/en/products/neutron.html) |
+| iZotope Neutron 4 | ~$249 | AI-Assisted Channel Strip EQ | Track Assistant, Masking Meter, neural analysis | [Get It](https://www.izotope.com/en/products/neutron) |
 | Waves SSL E-Channel | Varies | Analog Console Channel Strip | SSL 4000 E EQ section, console character | [Get It](https://www.waves.com/plugins/ssl-e-channel) |
-| iZotope Ozone 11 | from $249 | Mastering Suite with EQ | Linear phase, M/S, AI Master Assistant | [Get It](https://www.izotope.com/en/products/ozone.html) |
+| iZotope Ozone 11 | from $249 | Mastering Suite with EQ | Linear phase, M/S, AI Master Assistant | [Get It](https://www.izotope.com/en/products/ozone) |
 | TDR Nova | Free | Dynamic Parametric EQ | 4 dynamic bands, wideband compressor | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | TDR VOS SlickEQ GE | Free | Analog Parametric EQ | 3 EQ models, HPF, saturation stage | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | Voxengo Marvel GEQ | Free | Linear-Phase Graphic EQ | 16 bands, spectrum analyzer, LP processing | [Free Download](https://www.voxengo.com/product/marvelgeq/) |
 | Ignite Amps PTEq-X | Free | Pultec Passive Emulation | EQP-1A + MEQ-5 circuits, passive boost/cut behavior | [Free Download](https://www.igniteamps.com/) |
-| Slate Digital Fresh Air | Free | High-Freq Enhancer EQ | Presence + Air bands, vocal-optimized | [Free Download](https://slatedigital.com/free-plugins/) |
+| Slate Digital Fresh Air | Free | High-Freq Enhancer EQ | Presence + Air bands, vocal-optimized | [Free Download](https://slate.audio/free-plugins//) |
 
 ---
 

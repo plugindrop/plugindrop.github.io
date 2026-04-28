@@ -76,7 +76,7 @@ The LePou suite is not a single plugin — it is a collection of standalone amp 
 
 **Best for:** Producers who want range across multiple amp voicings without paying for a full multi-amp suite.
 
-[→ Download LePou Amp Sim Suite Free (Official)](https://lepouplugins.blogspot.com/)
+[→ Download LePou Amp Sim Suite Free (Official)](https://www.osirisguitar.com/2019/10/14/lepou//)
 
 ---
 
@@ -256,7 +256,7 @@ ML Sound Lab's AMPED Roots was released as a free standalone amp sim and sits in
 |--------|-------|------|------------|-----|
 | TSE Audio X50 v2.4 | Free | 5150 circuit emulation | Community standard, needs IR loader | [Official Site](https://www.tseaudio.com/software/tseX50) |
 | Nick Crow Lab 7170 Lead | Free | 5150-style preamp | KVR standard, needs IR loader | [Official Site](https://www.kvraudio.com/product/7170-lead-by-nick-crow-lab) |
-| LePou Amp Sim Suite | Free | Multi-amp library | LeGion, LeCto, HyBrit, PFlare | [Official Site](https://lepouplugins.blogspot.com/) |
+| LePou Amp Sim Suite | Free | Multi-amp library | LeGion, LeCto, HyBrit, PFlare | [Official Site](https://www.osirisguitar.com/2019/10/14/lepou//) |
 | Ignite Amps Emissary | Free | High-gain original design | Built-in gate and EQ, standalone | [Official Site](https://www.igniteamps.com/) |
 | Ignite Amps TPA-1 | Free | Tube preamp | Clean/crunch, flexible in chains | [Official Site](https://www.igniteamps.com/) |
 | Simulanalog Guitar Suite | Free | Classic Fender/Marshall/Vox | 32-bit only, vintage character | [Official Site](https://www.kvraudio.com/product/simulanalog-guitar-suite-by-simulanalog) |
