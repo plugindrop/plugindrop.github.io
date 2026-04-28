@@ -25,7 +25,7 @@ draft: false
 | Surge XT | Free | Hybrid synthesis, deep modulation | [Free Download](https://surge-synthesizer.github.io/) |
 | OB-Xd | Free | Vintage analog pads, warm leads | [Free Download](https://www.discodsp.com/obxd/) |
 | Dexed | Free | FM synthesis, DX7 patch compatibility | [Free Download](https://asb2m10.github.io/dexed/) |
-| Serum | ~$189 | EDM production, wavetable ecosystem | [Get Serum](https://xferrecords.com/products/serum) |
+| Serum | ~$189 | EDM production, wavetable ecosystem | [Get Serum](https://xferrecords.com/products/serum-2) |
 | Phase Plant | ~$99 | Modular hybrid sound design | [Get Phase Plant](https://kilohearts.com/products/phase_plant) |
 | Arturia Pigments | ~$99 | Multi-engine design, film and ambient | [Official Site](https://www.arturia.com/products/software-instruments/pigments/overview) |
 
@@ -129,7 +129,7 @@ FM synthesis has a justified reputation for complexity. Producer communities on 
 - **Price:** ~$189
 - **Why upgrade:** Vital matches Serum's synthesis engine for core capability, but Serum's third-party preset and wavetable content market is a separate category entirely. If your production style is genre-specific — dubstep, future bass, melodic bass, or EDM — the volume and quality of commercially available Serum content libraries has no free equivalent. Serum's workflow is also the default reference point for most synthesis tutorials published in the last five years.
 
-[→ Get Serum](https://xferrecords.com/products/serum)
+[→ Get Serum](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -165,7 +165,7 @@ FM synthesis has a justified reputation for complexity. Producer communities on 
 | Surge XT | Free | Hybrid (sub/FM/wavetable) | Deep modulation, vintage filter models, CLAP/LV2 | [Download Free](https://surge-synthesizer.github.io/) |
 | OB-Xd | Free | Analog emulation | Oberheim OB-X circuit model, voice detuning | [Download Free](https://www.discodsp.com/obxd/) |
 | Dexed | Free | FM | DX7 sysex patch compatibility, 6-operator FM | [Download Free](https://asb2m10.github.io/dexed/) |
-| Serum | ~$189 | Wavetable | Industry-standard ecosystem, massive preset market | [Get Serum](https://xferrecords.com/products/serum) |
+| Serum | ~$189 | Wavetable | Industry-standard ecosystem, massive preset market | [Get Serum](https://xferrecords.com/products/serum-2) |
 | Phase Plant | ~$99 | Modular/Hybrid | Multi-engine visual routing, Kilohearts ecosystem | [Get Phase Plant](https://kilohearts.com/products/phase_plant) |
 | Arturia Pigments | ~$99 | Multi-engine | 4 synthesis engines, professional factory presets | [Get Pigments](https://www.arturia.com/products/software-instruments/pigments/overview) |
 

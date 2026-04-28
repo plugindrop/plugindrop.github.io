@@ -23,7 +23,7 @@ draft: false
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 3 | $179 | Surgical & dynamic EQ | [Official Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | Valhalla VintageVerb | $50 | Algorithmic reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
-| Serum | $189 | Wavetable synthesis | [Official Site](https://xferrecords.com/products/serum) |
+| Serum | $189 | Wavetable synthesis | [Official Site](https://xferrecords.com/products/serum-2) |
 | iZotope Neutron 4 | From $149 | AI-assisted mixing | [Official Site](https://www.izotope.com/en/products/neutron.html) |
 | TDR Nova | Free | Dynamics EQ on zero budget | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Valhalla Supermassive | Free | Lush ambient reverb & delay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
@@ -145,7 +145,7 @@ Serum's developer documentation describes a dual oscillator architecture with an
 
 **Best for:** EDM, bass music, pop, and any workflow where wavetable synthesis, visual modulation, and wide preset availability are priorities.
 
-[→ Get Serum](https://xferrecords.com/products/serum)
+[→ Get Serum](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -265,7 +265,7 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 - **Price:** $189 (one-time); rental-to-own via Splice
 - **Why upgrade:** Free wavetable synthesizers lack Serum's visual modulation routing, the depth of its built-in wavetable editor, and the community preset ecosystem that ships with it — the workflow gap between free options and Serum becomes obvious quickly once you start modulating more than one parameter. The third-party soundpack industry built around Serum has produced a library of patches with no equivalent elsewhere.
 
-[→ Get Serum](https://xferrecords.com/products/serum)
+[→ Get Serum](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -290,7 +290,7 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 | iZotope Neutron 4 | From $149 | Channel Strip | AI Track Assistant, inter-plugin communication | [Get it](https://www.izotope.com/en/products/neutron.html) |
 | Valhalla VintageVerb | $50 | Reverb | Vintage algorithm models, 3 color modes per algo | [Get it](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
 | Valhalla Supermassive | Free | Reverb/Delay | Modulated feedback delay network, extreme tails | [Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Serum | $189 | Wavetable Synth | Visual modulation matrix, built-in wavetable editor | [Get it](https://xferrecords.com/products/serum) |
+| Serum | $189 | Wavetable Synth | Visual modulation matrix, built-in wavetable editor | [Get it](https://xferrecords.com/products/serum-2) |
 | Arturia Pigments 4 | ~$99–$199 | Hybrid Synth | 5 oscillator types, deep arpeggiator/sequencer | [Get it](https://www.arturia.com) |
 | u-he Tyrell N6 | Free | Analog Synth | Subtractive architecture, u-he filter quality | [Download](https://u-he.com) |
 | iZotope Ozone 11 | From ~$49 | Mastering | Master Assistant, full mastering chain in one plugin | [Get it](https://www.izotope.com/en/products/ozone.html) |

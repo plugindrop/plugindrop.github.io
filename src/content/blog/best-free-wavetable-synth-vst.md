@@ -26,7 +26,7 @@ draft: false
 | Odin 2 | Free | Wavetable + FM hybrid sounds, cinematic textures | [Free Download](https://github.com/TheAudioProgrammer/odin2) |
 | Zebralette | Free | Spectral morphing, u-he-quality timbres at no cost | [Free Download](https://u-he.com/products/zebralette/) |
 | Helm | Free | Learning wavetable synthesis fundamentals | [Free Download](https://tytel.org/helm/) |
-| Serum | ~$189 | Industry-standard wavetable, professional ecosystem | [Get Serum](https://xferrecords.com/products/serum) |
+| Serum | ~$189 | Industry-standard wavetable, professional ecosystem | [Get Serum](https://xferrecords.com/products/serum-2) |
 | Phase Plant | ~$99 | Modular wavetable design, Snapins integration | [Get Phase Plant](https://kilohearts.com/products/phase_plant) |
 | u-he Hive 2 | ~$99 | u-he quality in a fast, production-ready instrument | [Get u-he Hive 2](https://u-he.com/products/hive/) |
 
@@ -151,7 +151,7 @@ Development has slowed significantly since Vital launched. The preset library is
 - **Price:** ~$189 one-time (rent-to-own available via Splice)
 - **Why upgrade:** Vital's free tier handles the synthesis tasks that Serum handles, but Serum's third-party preset and wavetable ecosystem has been built over years of industry deployment. If you work with major electronic music sound packs, collaborate with other producers on patches, or deliver client work where preset compatibility matters, Serum remains the default standard that those assets are designed around. The synthesis engines are comparable — the ecosystem is not.
 
-[→ Get Serum](https://xferrecords.com/products/serum)
+[→ Get Serum](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -188,7 +188,7 @@ Development has slowed significantly since Vital launched. The preset library is
 | Odin 2 | Free | Wavetable + FM hybrid | 3 independent oscillator slots, 3 filters, open source | [Download](https://github.com/TheAudioProgrammer/odin2) |
 | Zebralette | Free | Spectral wavetable | u-he spectral oscillator tech, organic tonal character | [Download](https://u-he.com/products/zebralette/) |
 | Helm | Free | Wavetable | Simple 2-oscillator architecture, ideal for learning | [Download](https://tytel.org/helm/) |
-| Serum | ~$189 | Wavetable | Industry standard, massive third-party preset/wavetable library | [Get it](https://xferrecords.com/products/serum) |
+| Serum | ~$189 | Wavetable | Industry standard, massive third-party preset/wavetable library | [Get it](https://xferrecords.com/products/serum-2) |
 | Phase Plant | ~$99 | Modular wavetable | Component-based architecture, Snapins integration | [Get it](https://kilohearts.com/products/phase_plant) |
 | u-he Hive 2 | ~$99 | Wavetable/analog hybrid | u-he quality, designed for fast studio workflow | [Get it](https://u-he.com/products/hive/) |
 
@@ -241,7 +241,7 @@ Only if you work with commercial sound packs built specifically for Serum, colla
 
 ## Final Thoughts
 
-For most producers, Vital is the only free wavetable synth that needs to be installed — its engine is complete, uncapped, and capable of professional-level sound design without any financial commitment. When your workflow demands the third-party preset ecosystem or professional collaboration standard that comes with market adoption, [Serum](https://xferrecords.com/products/serum) remains the benchmark upgrade worth the cost.
+For most producers, Vital is the only free wavetable synth that needs to be installed — its engine is complete, uncapped, and capable of professional-level sound design without any financial commitment. When your workflow demands the third-party preset ecosystem or professional collaboration standard that comes with market adoption, [Serum](https://xferrecords.com/products/serum-2) remains the benchmark upgrade worth the cost.
 
 ---
 

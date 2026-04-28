@@ -21,9 +21,9 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Illformed Glitch 2 | Free | Sequenced multi-effect glitch | [Free Download](https://illformed.com/glitch/) |
-| Glitchmachines Fracture | Free | Extreme buffer-based audio destruction | [Free Download](https://glitchmachines.com) |
-| Glitchmachines Hysteresis | Free | Ambient feedback and drone glitch | [Free Download](https://glitchmachines.com) |
-| iZotope Stutter Edit 2 | ~$149 | MIDI-controlled professional stutter | [Official Site](https://www.izotope.com/en/products/stutter-edit-2.html) |
+| Glitchmachines Fracture | Free | Extreme buffer-based audio destruction | [Free Download](https://glitchmachines.com/products/fracture/) |
+| Glitchmachines Hysteresis | Free | Ambient feedback and drone glitch | [Free Download](https://glitchmachines.com/products/hysteresis/) |
+| iZotope Stutter Edit 2 | ~$149 | MIDI-controlled professional stutter | [Official Site](https://www.native-instruments.com/en/products/izotope/stutter-edit-2/) |
 | Output Portal | ~$99 | Granular textures and real-time glitch | [Official Site](https://output.com/products/portal) |
 | Sugar Bytes Effectrix | ~$99 | Compositional sequenced glitch | — |
 
@@ -75,7 +75,7 @@ It isn't a precision tool. It's a texture generator for moments when the goal is
 
 **Best for:** Sound designers making industrial, noise, and extreme glitch textures who want results without configuration.
 
-[→ Download Fracture Free](https://glitchmachines.com)
+[→ Download Fracture Free](https://glitchmachines.com/products/fracture/)
 
 ---
 
@@ -94,7 +94,7 @@ The two Glitchmachines free plugins address different parts of the glitch spectr
 
 **Best for:** Ambient, experimental, and cinematic producers building unstable textural layers.
 
-[→ Download Hysteresis Free](https://glitchmachines.com)
+[→ Download Hysteresis Free](https://glitchmachines.com/products/hysteresis/)
 
 ---
 
@@ -115,7 +115,7 @@ iZotope's developer documentation confirms over 400 presets, full AAX support fo
 
 **Best for:** Producers and audio engineers who need real-time MIDI-triggered stutter with Pro Tools compatibility.
 
-[→ Get iZotope Stutter Edit 2](https://www.izotope.com/en/products/stutter-edit-2.html)
+[→ Get iZotope Stutter Edit 2](https://www.native-instruments.com/en/products/izotope/stutter-edit-2/)
 
 ---
 
@@ -216,7 +216,7 @@ For producers who've built their free workflow around Glitch 2 and the Glitchmac
 - **Price:** ~$149
 - **Why upgrade:** Free sequencer-based plugins can't replicate Stutter Edit 2's gesture system — there's no freeware equivalent for live MIDI-triggered stutter with per-key effect mapping. The gap matters most in live performance, post-production, and Pro Tools-based workflows where AAX compatibility is required.
 
-[→ Get iZotope Stutter Edit 2](https://www.izotope.com/en/products/stutter-edit-2.html)
+[→ Get iZotope Stutter Edit 2](https://www.native-instruments.com/en/products/izotope/stutter-edit-2/)
 
 ### Output Portal — when granular texture replaces pattern-based glitch
 
@@ -235,9 +235,9 @@ For producers who've built their free workflow around Glitch 2 and the Glitchmac
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Illformed Glitch 2 | Free | Sequencer | 8 effect modules, MIDI & pattern | [Download](https://illformed.com/glitch/) |
-| Glitchmachines Fracture | Free | Buffer/Granular | Chaos macros, instant texture | [Download](https://glitchmachines.com) |
-| Glitchmachines Hysteresis | Free | Feedback/Delay | Ambient, slow-burn deterioration | [Download](https://glitchmachines.com) |
-| iZotope Stutter Edit 2 | ~$149 | MIDI Gesture | 400+ presets, AAX, live stutter | [iZotope Site](https://www.izotope.com/en/products/stutter-edit-2.html) |
+| Glitchmachines Fracture | Free | Buffer/Granular | Chaos macros, instant texture | [Download](https://glitchmachines.com/products/fracture/) |
+| Glitchmachines Hysteresis | Free | Feedback/Delay | Ambient, slow-burn deterioration | [Download](https://glitchmachines.com/products/hysteresis/) |
+| iZotope Stutter Edit 2 | ~$149 | MIDI Gesture | 400+ presets, AAX, live stutter | [iZotope Site](https://www.native-instruments.com/en/products/izotope/stutter-edit-2/) |
 | Output Portal | ~$99 | Granular | Macros, ambient textures, AAX | [Output Site](https://output.com/products/portal) |
 | Sugar Bytes Buffer Synth | Paid | Buffer | Real-time loop control | — |
 | Sugar Bytes Effectrix | ~$99 | Sequencer | 64-step, 14 effect types | — |
@@ -295,7 +295,7 @@ Illformed Glitch 2. It's free, its visual sequencer is immediately understandabl
 
 iZotope Stutter Edit 2 earns its position as the community's top professional pick, but it earns it in specific workflows — live performance and post-production — not universally. Producers doing DAW-based work have more than enough in Glitch 2 and the Glitchmachines suite to produce competitive results without spending anything. Start free, and move to paid when the specific limitations of freeware become the constraint in your work.
 
-[→ Get iZotope Stutter Edit 2](https://www.izotope.com/en/products/stutter-edit-2.html)
+[→ Get iZotope Stutter Edit 2](https://www.native-instruments.com/en/products/izotope/stutter-edit-2/)
 
 ---
 

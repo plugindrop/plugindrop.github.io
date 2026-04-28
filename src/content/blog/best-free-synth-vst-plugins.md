@@ -306,7 +306,7 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 ---
 
 
-[→ Get Serum (Official Site)](https://xferrecords.com/products/serum)
+[→ Get Serum (Official Site)](https://xferrecords.com/products/serum-2)
 ### Phase Plant — Modular-style synthesis with a best-in-class interface
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

@@ -285,7 +285,7 @@ Once you've maxed out what the free tier offers, these three commercial plugins 
 ---
 
 
-[→ Get Serum (Official Site)](https://xferrecords.com/products/serum)
+[→ Get Serum (Official Site)](https://xferrecords.com/products/serum-2)
 ### Massive X (Native Instruments) — Next-Level Wavetable Architecture
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/T4mfM73egsQ" title="Massive X — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

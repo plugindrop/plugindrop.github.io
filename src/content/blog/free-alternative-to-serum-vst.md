@@ -27,7 +27,7 @@ draft: false
 | Helm | Free | Beginners, lightweight polyphonic synthesis | [Free Download](https://tytel.org/helm/) |
 | Phase Plant | Paid | Full modular synthesis, post-Lite upgrade | [Get Phase Plant](https://kilohearts.com/products/phase_plant) |
 | u-he Hive 2 | Paid | Fast professional workflow, u-he analog quality | [Get Hive 2](https://u-he.com/products/hive/) |
-| Serum | $189 | The industry-standard benchmark itself | [Get Serum](https://xferrecords.com/products/serum) |
+| Serum | $189 | The industry-standard benchmark itself | [Get Serum](https://xferrecords.com/products/serum-2) |
 
 ---
 
@@ -157,7 +157,7 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 - **Price:** $189 direct, or rent-to-own via Splice
 - **Why upgrade:** Serum's primary value proposition in 2026 is its ecosystem, not its synthesis engine. Thousands of commercial preset packs, a mature resale market for wavetable content, and a tutorial library built almost entirely around Serum's interface are advantages that no free alternative has replicated. For producers regularly purchasing commercial presets or working alongside tutorials that assume you're running Serum, the upgrade is commercially justified. For synthesis capability in isolation, Vital closes the technical gap to a degree the community widely acknowledges. The remaining case for Serum is network effects — not the engine.
 
-[→ Get Serum by Xfer Records](https://xferrecords.com/products/serum)
+[→ Get Serum by Xfer Records](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -167,11 +167,11 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 |--------|-------|------|------------|-----|
 | Vital | Free | Wavetable | Serum-adjacent workflow, all synthesis features unlocked free, active community | [Download Free](https://vital.audio/) |
 | Surge XT | Free | Hybrid (wavetable, VA, FM, string) | Deepest free synthesis engine available, open source, CLAP support | [Download Free](https://surge-synthesizer.github.io/) |
-| Phase Plant Lite | Free (Lite) | Modular | Kilohearts Snapin ecosystem, modular signal chain, upgradeable | [Official Site](https://xferrecords.com/products/serum) |
+| Phase Plant Lite | Free (Lite) | Modular | Kilohearts Snapin ecosystem, modular signal chain, upgradeable | [Official Site](https://kilohearts.com/products/phase_plant) |
 | Helm | Free | Polyphonic VA | Lightweight, open source, beginner-appropriate interface | [Download Free](https://tytel.org/helm/) |
 | Phase Plant | Paid | Modular | Full module library, macro routing, Snapin integration, no restrictions | [Kilohearts](https://kilohearts.com/products/phase_plant) |
 | u-he Hive 2 | Paid | Hybrid VA/wavetable | Fast workflow design, u-he analog modeling, professional quality | [u-he](https://u-he.com/products/hive/) |
-| Serum | $189 | Wavetable | Industry-standard, commercial preset ecosystem, Splice rent-to-own | [Xfer Records](https://xferrecords.com/products/serum) |
+| Serum | $189 | Wavetable | Industry-standard, commercial preset ecosystem, Splice rent-to-own | [Xfer Records](https://xferrecords.com/products/serum-2) |
 
 ---
 

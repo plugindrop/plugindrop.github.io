@@ -23,7 +23,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Serum | $189 | EDM, bass design, leads, industry-standard wavetable workflow | [Official Site](https://xferrecords.com/products/serum) |
+| Serum | $189 | EDM, bass design, leads, industry-standard wavetable workflow | [Official Site](https://xferrecords.com/products/serum-2) |
 | Phase Plant | $99 | Modular sound design, experimental textures, Kilohearts ecosystem users | [Official Site](https://kilohearts.com/products/phase_plant) |
 
 ---
@@ -57,7 +57,7 @@ The wavetable editor is Serum's signature contribution to the space. It supports
 
 **Best for:** EDM producers, sound designers who want a focused wavetable workflow, anyone who needs to work quickly with industry-standard presets and a proven patch library.
 
-[→ Get Serum on the Official Site](https://xferrecords.com/products/serum)
+[→ Get Serum on the Official Site](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -90,7 +90,7 @@ The practical advantage most producers underestimate is the third-party content 
 
 **Best for:** Producers who want wavetable synthesis with maximum available sound design resources and the deepest community support base.
 
-[→ Get Serum on the Official Site](https://xferrecords.com/products/serum)
+[→ Get Serum on the Official Site](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -114,7 +114,7 @@ Serum's modulation system operates on a drag-and-drop model: drag any source (LF
 
 **Best for:** Producers who want modulation that's quick to assign, visually clear, and doesn't require pre-planning a routing strategy.
 
-[→ Get Serum on the Official Site](https://xferrecords.com/products/serum)
+[→ Get Serum on the Official Site](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -142,7 +142,7 @@ Both Phase Plant and Serum are paid products with no meaningful free tier. For p
 - **Price:** $189
 - **Why upgrade:** Free wavetable alternatives lack Serum's wavetable editor precision, oversampling rendering quality, and third-party preset ecosystem depth. For producers who have outgrown basic wavetable tools and need a synth with professional-grade output and an established community resource base, Serum is the proven destination.
 
-[→ Get Serum on the Official Site](https://xferrecords.com/products/serum)
+[→ Get Serum on the Official Site](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -162,7 +162,7 @@ Both Phase Plant and Serum are paid products with no meaningful free tier. For p
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Serum | $189 | Wavetable synth | Fixed architecture, visual wavetable editor, drag-and-drop modulation, largest preset ecosystem in the space | [Get Serum](https://xferrecords.com/products/serum) |
+| Serum | $189 | Wavetable synth | Fixed architecture, visual wavetable editor, drag-and-drop modulation, largest preset ecosystem in the space | [Get Serum](https://xferrecords.com/products/serum-2) |
 | Phase Plant | $99 | Modular synth | Lane-based architecture, multiple generator types (wavetable, analog, granular, sample), Snapins integration, deep modulation routing | [Get Phase Plant](https://kilohearts.com/products/phase_plant) |
 
 ---
@@ -200,7 +200,7 @@ Serum, without qualification. The fixed architecture, real-time visual feedback,
 
 For most producers, Serum is the right answer. It's the community-validated standard in wavetable synthesis, with a workflow built for musical output, the deepest third-party preset ecosystem in the space, and a track record that extends across virtually every genre that uses modern synthesizers. Phase Plant is the right answer for producers who want to build their own synthesis architecture, work across multiple generator types, or anchor a Kilohearts-based workflow — and it's priced fairly for what it delivers. Both are worth their asking price. The only meaningful question is which architecture matches how you actually think about sound design.
 
-[→ Get Serum on the Official Site](https://xferrecords.com/products/serum) | [→ Get Phase Plant on the Official Site](https://kilohearts.com/products/phase_plant)
+[→ Get Serum on the Official Site](https://xferrecords.com/products/serum-2) | [→ Get Phase Plant on the Official Site](https://kilohearts.com/products/phase_plant)
 
 ---
 

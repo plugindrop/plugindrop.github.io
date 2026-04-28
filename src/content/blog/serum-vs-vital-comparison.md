@@ -22,7 +22,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Vital | Free | Budget producers, spectral sound design, Linux users | [Free Download](https://vital.audio/) |
-| Serum | $189 | Industry-standard wavetable synthesis, EDM, pop, hip-hop | [Get Serum](https://xferrecords.com/products/serum) |
+| Serum | $189 | Industry-standard wavetable synthesis, EDM, pop, hip-hop | [Get Serum](https://xferrecords.com/products/serum-2) |
 | Phase Plant | Paid | Modular-hybrid synthesis, producers who've outgrown single-engine synths | [Get Phase Plant](https://kilohearts.com/products/phase_plant) |
 
 ---
@@ -77,7 +77,7 @@ The gaps relative to Vital are real and not trivial: no Linux support, no spectr
 
 **Best for:** Producers in EDM, pop, or hip-hop who prioritize preset interoperability, tutorial depth, and the practical advantages of working with the production community's reference instrument.
 
-[→ Get Serum on Xfer Records](https://xferrecords.com/products/serum)
+[→ Get Serum on Xfer Records](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -131,7 +131,7 @@ Vital's free tier delivers a complete professional synthesis engine. There is no
 - **Price:** $189
 - **Why upgrade:** Vital's free engine is genuinely capable, but it cannot replicate Serum's preset ecosystem, the depth of its tutorial library, or the practical compatibility advantages of working with the production community's reference instrument. For producers who collaborate, license beats, or work in commercial genres where patch trading is common, Serum's infrastructure makes $189 a long-term investment rather than just a software purchase.
 
-[→ Get Serum on Xfer Records](https://xferrecords.com/products/serum)
+[→ Get Serum on Xfer Records](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -152,7 +152,7 @@ Vital's free tier delivers a complete professional synthesis engine. There is no
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Vital | Free | Spectral Wavetable | Spectral morphing oscillators, full free engine, Linux support, efficient CPU | [Download Free](https://vital.audio/) |
-| Serum | $189 | Wavetable | Alias-free oscillators, largest preset ecosystem, industry-standard status | [Get Serum](https://xferrecords.com/products/serum) |
+| Serum | $189 | Wavetable | Alias-free oscillators, largest preset ecosystem, industry-standard status | [Get Serum](https://xferrecords.com/products/serum-2) |
 | Phase Plant | Paid | Modular Hybrid | Multi-generator modular architecture, Kilohearts snapin integration | [Get Phase Plant](https://kilohearts.com/products/phase_plant) |
 
 ---
@@ -200,7 +200,7 @@ Community benchmarks and forum discussions consistently document Vital running a
 
 Start with Vital — the free synthesis engine is complete, the spectral warping features are technically superior to Serum in their category, and the CPU efficiency is a documented advantage. Upgrade to Serum when the ecosystem matters: when preset compatibility, tutorial depth, and production-community standardization become daily workflow factors rather than abstract advantages. The $189 price is not for a better synthesis engine — it is for a decade of accumulated community infrastructure that no free alternative has matched yet.
 
-[→ Get Serum on Xfer Records](https://xferrecords.com/products/serum)
+[→ Get Serum on Xfer Records](https://xferrecords.com/products/serum-2)
 
 ---
 

@@ -25,7 +25,7 @@ draft: false
 | FabFilter Pro-Q 3 | $179 | Precision EQ with dynamic capability | [Developer Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | Valhalla VintageVerb | $50 | Algorithmic reverb at any budget | [Developer Site](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
 | FabFilter Pro-C 2 | $179 | Transparent and character compression | [Developer Site](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
-| Serum | $189 | Wavetable synthesis with modern workflow | [Developer Site](https://xferrecords.com/products/serum) |
+| Serum | $189 | Wavetable synthesis with modern workflow | [Developer Site](https://xferrecords.com/products/serum-2) |
 | iZotope Neutron 4 | $249+ | AI-assisted mix analysis | [Developer Site](https://www.izotope.com/en/products/neutron.html) |
 | Vital | Free | Wavetable synthesis without the price tag | [Free Download](https://vital.audio) |
 | TDR Nova | Free | Dynamic EQ on a zero budget | [Official Site](https://www.tokyodawn.net/tdr-nova/) |
@@ -182,7 +182,7 @@ Serum is the most-used wavetable synthesizer in electronic music production by c
 
 **Best for:** Electronic music production, sound design, producers who want to build a large preset ecosystem.
 
-[→ Get Serum](https://xferrecords.com/products/serum)
+[→ Get Serum](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -346,7 +346,7 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 | OTT | Free | Multiband Comp | Extreme upward/downward compression | [Get It](https://www.izotope.com/en/products/music-production-suite.html) |
 | Valhalla VintageVerb | $50 | Reverb | 17 algorithms, $50 price | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
 | ValhallaDelay | $50 | Delay | 16 modes, tape through pitch-shift | [Get It](https://www.izotope.com/en/products/music-production-suite.html) |
-| Serum | $189 | Wavetable Synth | Custom wavetable editor, massive preset market | [Get It](https://xferrecords.com/products/serum) |
+| Serum | $189 | Wavetable Synth | Custom wavetable editor, massive preset market | [Get It](https://xferrecords.com/products/serum-2) |
 | Vital | Free | Wavetable Synth | Spectral warping, 3 oscillators | [Get It](https://vital.audio) |
 | u-he Diva | ~$195 | Analog Synth | Circuit-level filter/oscillator emulation | [Get It](https://www.izotope.com/en/products/music-production-suite.html) |
 | iZotope Neutron 4 | $249+ | Mix Suite | AI Mix Assistant, EQ + comp + shaper | [Get It](https://www.izotope.com/en/products/neutron.html) |

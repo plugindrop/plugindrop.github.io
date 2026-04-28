@@ -330,7 +330,7 @@ If the free toolkit is serving you well and you're ready to invest, these three 
 ---
 
 
-[→ Get Serum (Official Site)](https://xferrecords.com/products/serum)
+[→ Get Serum (Official Site)](https://xferrecords.com/products/serum-2)
 ### Harmor — FL Studio's own additive/resynthesis powerhouse
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/qsjxgut9_js" title="Harmor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -376,7 +376,7 @@ If the free toolkit is serving you well and you're ready to invest, these three 
 | Ozone Imager 2 | Free | Stereo Processor | Lissajous meter, smooth width control | [Get It](https://www.izotope.com/en/products/ozone-imager.html) |
 | MFreeFXBundle | Free | FX Bundle (37 plugins) | Comprehensive, one install, consistent UI | [Get It](https://www.meldaproduction.com/MFreeFXBundle) |
 | CHOW Tape Model | Free | Tape Saturation | Physical modeling, harmonic warmth, CLAP support | [Get It](https://chowdsp.com/products.html) |
-| Serum | ~$189 | Wavetable Synth | Industry preset ecosystem, visual wavetable editor | [Get It](https://xferrecords.com/products/serum) |
+| Serum | ~$189 | Wavetable Synth | Industry preset ecosystem, visual wavetable editor | [Get It](https://xferrecords.com/products/serum-2) |
 | Harmor | ~$99 | Additive / Resynthesis | Image resynthesis, deep FL Studio integration | [Get It](https://www.image-line.com/plugins/Synths/Harmor/) |
 | Sytrus | ~$99 | FM Synth | 6-operator FM, native FL workflow, built-in FX | [Get It](https://www.image-line.com/plugins/Synths/Sytrus/) |
 
@@ -415,7 +415,7 @@ All 15 free plugins in this list permit commercial use. Open-source tools like S
 
 The 15 free VST plugins in this guide represent some of the most powerful tools available to FL Studio producers in 2026 — and not a single one costs a cent. Start with Vital for synthesis, TDR Nova for EQ, and Valhalla Supermassive for reverb, and you'll have a production foundation that covers any genre at a professional level.
 
-When you're ready to invest, [Serum](https://xferrecords.com/products/serum) remains the most versatile upgrade — its preset ecosystem and wavetable editor pay for themselves the moment you start working commercially.
+When you're ready to invest, [Serum](https://xferrecords.com/products/serum-2) remains the most versatile upgrade — its preset ecosystem and wavetable editor pay for themselves the moment you start working commercially.
 
 ---
 

@@ -26,7 +26,7 @@ draft: false
 | FabFilter Pro-Q 3 | $179 | Precision mixing EQ | [Official Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | Valhalla Room | $50 | Studio reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 | FabFilter Pro-C 2 | $179 | Transparent compression | [Official Site](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
-| Serum | $189 | Wavetable synthesis | [Official Site](https://xferrecords.com/products/serum) |
+| Serum | $189 | Wavetable synthesis | [Official Site](https://xferrecords.com/products/serum-2) |
 | iZotope Ozone 11 | $249 | AI-assisted mastering | [Official Site](https://www.izotope.com/en/products/ozone.html) |
 | Valhalla Supermassive | Free | Ambient reverb & delay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Vital | Free | Wavetable synthesis | [Free Download](https://vital.audio/) |
@@ -355,7 +355,7 @@ Ozone 11's Master Assistant analyzes your track and builds a starting mastering 
 | Valhalla Room | $50 | Reverb | 12 algorithms, natural room modeling | [Get it](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 | Valhalla Supermassive | Free | Reverb/Delay | Massive ambiences, modulated tails | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Waves SSL E-Channel | $29.99 | Channel Strip | SSL console EQ + dynamics | [Get it](https://www.waves.com/plugins/ssl-e-channel) |
-| Serum | $189 | Synthesizer | Wavetable editor, modulation matrix, FX | [Get it](https://xferrecords.com/products/serum) |
+| Serum | $189 | Synthesizer | Wavetable editor, modulation matrix, FX | [Get it](https://xferrecords.com/products/serum-2) |
 | Vital | Free | Synthesizer | Spectral warping, advanced modulation | [Free Download](https://vital.audio/) |
 | Softube Saturation Knob | Free | Saturation | Single-knob, three modes | [Free Download](https://www.softube.com/saturationknob) |
 | Slate Digital Fresh Air | Free | Enhancer | Artifact-free high-frequency lift | [Free Download](https://slatedigital.com/fresh-air/) |

@@ -20,7 +20,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Serum | $189 | Lead synthesis & sound design | [Get Serum](https://xferrecords.com/products/serum) |
+| Serum | $189 | Lead synthesis & sound design | [Get Serum](https://xferrecords.com/products/serum-2) |
 | OTT | Free | Multiband upward compression | [Free Download](https://xferrecords.com/freeware) |
 | FabFilter Pro-Q 3 | $179 | Mix bus EQ & frequency cleanup | [Get Pro-Q 3](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | Valhalla Supermassive | Free | Reverb, space & atmosphere | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
@@ -55,7 +55,7 @@ Serum's wavetable engine allows producers to import, draw, or morph waveforms at
 
 **Best for:** Leads, supersaws, plucks, basses, and any sound that defines the character of the drop.
 
-[→ Get Serum on the Xfer Records site](https://xferrecords.com/products/serum)
+[→ Get Serum on the Xfer Records site](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -153,7 +153,7 @@ FabFilter's developer documentation for Pro-L 2 lists eight limiting algorithms 
 - **Price:** $189
 - **Why upgrade:** If you are working with basic DAW stock synths, Serum's wavetable import system, unison stacking architecture, and per-oscillator morphing represent capabilities that cannot be approximated with stock instruments — the workflow gap is fundamental, not cosmetic. The community preset ecosystem alone — with thousands of free presets available from producers across genres — shortens the sound design learning curve in a way that no other synth currently matches.
 
-[→ Get Serum](https://xferrecords.com/products/serum)
+[→ Get Serum](https://xferrecords.com/products/serum-2)
 
 ### FabFilter Total Bundle — The Complete FabFilter Suite at Bundle Pricing
 
@@ -171,7 +171,7 @@ FabFilter's developer documentation for Pro-L 2 lists eight limiting algorithms 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Serum | $189 | Wavetable Synth | Wavetable import/edit, FX chain, preset ecosystem | [Get Serum](https://xferrecords.com/products/serum) |
+| Serum | $189 | Wavetable Synth | Wavetable import/edit, FX chain, preset ecosystem | [Get Serum](https://xferrecords.com/products/serum-2) |
 | OTT | Free | Multiband Compressor | Three-band upward/downward compression, Depth knob | [Free Download](https://xferrecords.com/freeware) |
 | FabFilter Pro-Q 3 | $179 | EQ | Dynamic EQ per band, linear phase, inter-plugin spectrum | [Get Pro-Q 3](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | Valhalla Supermassive | Free | Reverb/Delay | Multiple algorithm modes, extreme room sizes, zero cost | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
@@ -225,7 +225,7 @@ Extending your toolkit beyond this chain? These guides cover the adjacent plugin
 
 The complete EDM production plugin chain 2026 does not require an expensive arsenal — it requires the right tools in the right order, each chosen for a specific reason rather than general reputation. Serum earns the synthesis slot because no other wavetable synth has achieved the same community saturation or preset ecosystem, OTT and Valhalla Supermassive handle compression and space for free, and FabFilter's Pro-Q 3 and Pro-L 2 handle EQ and mastering with the transparency that streaming-targeted releases demand. Build the chain in sequence, understand what each stage does to the signal, and you will spend less time troubleshooting and more time making decisions that matter.
 
-[→ Start building the chain with Serum at Xfer Records](https://xferrecords.com/products/serum)
+[→ Start building the chain with Serum at Xfer Records](https://xferrecords.com/products/serum-2)
 
 ---
 

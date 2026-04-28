@@ -402,7 +402,7 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 ---
 
 
-[→ Get Serum (Official Site)](https://xferrecords.com/products/serum)
+[→ Get Serum (Official Site)](https://xferrecords.com/products/serum-2)
 ### FabFilter Total Bundle — The professional mixing suite
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/TQY3EpR6Jfo" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -439,7 +439,7 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 | Decent Sampler | Free | Sample Player | Huge free community library ecosystem | [Developer Site](https://www.decentsamples.com/product/decent-sampler-plugin/) |
 | iZotope Vinyl | Free | FX | Vinyl artifacts, lo-fi standard | [Developer Site](https://www.izotope.com/en/products/vinyl.html) |
 | Melda MFreeFXBundle | Free | Bundle | 37 plugins, broad coverage | [Developer Site](https://www.meldaproduction.com/MFreeFXBundle) |
-| Serum | $189 | Synth | Industry standard wavetable | [Official Site](https://xferrecords.com/products/serum) |
+| Serum | $189 | Synth | Industry standard wavetable | [Official Site](https://xferrecords.com/products/serum-2) |
 | FabFilter Total Bundle | €899 | Suite | Pro mixing suite, top-tier quality | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
 
 ---

@@ -23,7 +23,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Serum (Xfer Records) | ~$189 | All-around wavetable synthesis | [Official Site](https://xferrecords.com/products/serum) |
+| Serum (Xfer Records) | ~$189 | All-around wavetable synthesis | [Official Site](https://xferrecords.com/products/serum-2) |
 | Phase Plant | ~$199 | Modular-style sound design | [Official Site](https://kilohearts.com/products/phase_plant) |
 | Vital | Free / Paid | Budget Serum alternative | [Official Site](https://vital.audio/) |
 
@@ -88,7 +88,7 @@ Serum's interface is not resizable beyond a fixed scale — a genuine irritant o
 
 **Best for:** Electronic music producers of all levels who want one instrument that can cover the full range of modern synthesis sounds — leads, basses, pads, plucks, FX, and everything in between.
 
-[→ Get Serum](https://xferrecords.com/products/serum)
+[→ Get Serum](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -163,7 +163,7 @@ Yes. Serum supports VST2, VST3, AU, and AAX formats, covering compatibility with
 It's one of the best learning tools for synthesis available precisely because of its visual approach. Every modulation connection and signal flow is visible on screen. Many producers cite Serum as the instrument that finally made synthesis concepts click.
 
 **Does Serum have a free trial?**
-Xfer Records has offered a rental-to-own model via Splice in the past, which allowed producers to pay monthly toward the full purchase price. Check the developer site at [xferrecords.com](https://xferrecords.com/products/serum) for current purchase and trial options.
+Xfer Records has offered a rental-to-own model via Splice in the past, which allowed producers to pay monthly toward the full purchase price. Check the developer site at [xferrecords.com](https://xferrecords.com/products/serum-2) for current purchase and trial options.
 
 ---
 
