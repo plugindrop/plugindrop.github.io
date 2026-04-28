@@ -1,41 +1,41 @@
 ---
 title: "Infinity Audio Ambient Trap Vol 2 Serum Presets"
-description: "Infinity Audio Ambient Trap Vol 2 is currently available at ADSR Sounds for **$19.99** — a dedicated Serum preset pack built for the atmospheric, melodic..."
-pubDate: "2026-04-28T08:56:46Z"
+description: "Infinity Audio's Ambient Trap Vol 2 Serum preset pack is available on ADSR Sounds for **$19.99** — a purpose-built collection of atmospheric trap patches..."
+pubDate: "2026-04-28T08:26:53Z"
 tags: ["sale", "preset-pack", "serum", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/infinity-audio-ambient-trap-vol-2-serum-presets/?a_aid=plugindrop&data1=infinity-audio-ambient-trap-vol-2-serum-presets-b81bba&utm_source=plugindrop&utm_medium=article&utm_campaign=infinity-audio-ambient-trap-vol-2-serum-presets-b81bba"
 heroImage: "/images/infinity-audio-ambient-trap-vol-2-serum-presets-b81bba.jpg"
-score: 5.70
+score: 5.10
 dealPrice: "$19.99"
-xText: "infinity audio vol 2 landed. if you work in serum the ambient trap sound design is worth your time — these aren't just loops, actual preset architecture"
+xText: "ambient trap presets that actually sit in a mix. infinity audio vol 2 proves serum is still the best playground for this sound"
 draft: false
 ---
-**TL;DR:** Infinity Audio Ambient Trap Vol 2 is currently available at ADSR Sounds for **$19.99** — a dedicated Serum preset pack built for the atmospheric, melodic side of trap production. [→ Get Infinity Audio Ambient Trap Vol 2 at ADSR Sounds](https://www.adsrsounds.com/product/presets/infinity-audio-ambient-trap-vol-2-serum-presets/?a_aid=plugindrop&data1=infinity-audio-ambient-trap-vol-2-serum-presets-b81bba&utm_source=plugindrop&utm_medium=article&utm_campaign=infinity-audio-ambient-trap-vol-2-serum-presets-b81bba)
+**TL;DR:** Infinity Audio's Ambient Trap Vol 2 Serum preset pack is available on ADSR Sounds for **$19.99** — a purpose-built collection of atmospheric trap patches for Xfer Serum users. At under $20, it's a low-commitment way to add genre-specific sound design to your toolkit. [Grab it on ADSR Sounds →](https://www.adsrsounds.com/product/presets/infinity-audio-ambient-trap-vol-2-serum-presets/?a_aid=plugindrop&data1=infinity-audio-ambient-trap-vol-2-serum-presets-b81bba&utm_source=plugindrop&utm_medium=article&utm_campaign=infinity-audio-ambient-trap-vol-2-serum-presets-b81bba)
 
 ---
 
 ## What Is Infinity Audio Ambient Trap Vol 2?
 
-Infinity Audio Ambient Trap Vol 2 is a Serum preset pack from Infinity Audio, designed around the ambient trap subgenre — the space where slow-moving atmospheric textures meet modern trap cadence and rhythm. This is the second volume in the series, expanding on the sonic palette established in Vol 1. All presets load directly into Xfer Records' Serum synthesizer.
+Infinity Audio Ambient Trap Vol 2 is a Serum preset pack focused on the atmospheric side of trap production. It's the follow-up to the original Ambient Trap Vol 1, expanding the series with new patches designed for spacey, cinematic, and texturally rich beats. The pack is sold exclusively through ADSR Sounds and targets Xfer Serum owners who want ready-to-use genre presets without starting from scratch.
 
 ---
 
 ## Key Features
 
-- **Ambient-focused preset library** — Patches are built around the moody, ethereal character that defines the ambient trap sound: slow-attack pads, drifting leads, and submerged textures.
-- **Serum-native design** — Every preset is built specifically for Serum's wavetable engine, meaning full access to Serum's modulation routing, FX chain, and Macro controls.
-- **Macro-mapped controls** — Presets include mapped Macro knobs so producers can shape sounds on the fly without diving into the full synth architecture.
-- **Vol 2 expansion** — As a sequel pack, it introduces new patch categories and tonal directions beyond Vol 1, making it a practical companion rather than a duplicate.
-- **Genre-ready sound design** — Presets are production-ready for trap, dark ambient, lo-fi trap, and related hybrid genres without heavy post-processing.
+- **Atmospheric Pad Textures:** Presets engineered for the lush, drifting ambience that defines the ambient trap sound — deep space pads, evolving textures, and layered atmospheres.
+- **Versatile Trap Elements:** Covers the full sonic range of the genre, from soft melodic layers to more aggressive leads and sub-heavy basses.
+- **Native Xfer Serum Format:** All patches load directly in Serum with no conversion needed — plug in and play.
+- **Macro & Modwheel Assignments:** Presets are built for live tweaking, with modulation controls mapped for quick customization.
+- **Series Continuation:** Vol 2 builds on the established sound palette of Vol 1, making it a natural companion for producers already in the Infinity Audio ecosystem.
 
 ---
 
 ## Who Is It For?
 
-- **Trap producers** — Producers working in dark or melodic trap who need atmospheric Serum patches ready to drop into a session.
-- **Serum owners without time to sound design** — The pack removes the overhead of building complex pads and leads from scratch inside Serum.
-- **Lo-fi and cinematic beat makers** — The ambient character of the patches suits lo-fi hip-hop and cinematic beat production, not just straight trap.
-- **Producers who already own Vol 1** — The sequel format means the two packs are designed to complement each other as a combined library.
+- **Ambient trap producers:** The pack is purpose-built for this subgenre — if atmospheric trap is your lane, these presets are designed around your workflow.
+- **Serum owners who want genre-ready patches:** Producers who own Serum but want to skip the sound design phase and focus on arrangement will find this immediately usable.
+- **Beatmakers adding cinematic texture:** If your productions lean toward melodic trap or lo-fi and you want more atmospheric depth, this covers that territory.
+- **Infinity Audio Ambient Trap Vol 1 owners:** The most obvious audience — Vol 2 is a direct continuation and expands what the first pack started.
 
 ---
 
@@ -43,13 +43,13 @@ Infinity Audio Ambient Trap Vol 2 is a Serum preset pack from Infinity Audio, de
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
-| — | **$19.99** | Currently on sale |
+| Verify on product page | **$19.99** | Check product page |
 
-At $19.99, this sits at the lower end of the Serum preset pack market, where packs from established developers typically run $20–$50. Infinity Audio prices their volumes competitively for the genre-specific segment of the market.
+At $19.99, this sits in the impulse-buy range for most Serum users. There's no significant barrier to entry here — it's priced to be a straightforward add to the library.
 
-*Price verified at publication. Check the link for current availability.*
+Note: Verify current pricing on the product page — deals can change.
 
-[→ Get Infinity Audio Ambient Trap Vol 2 at ADSR Sounds](https://www.adsrsounds.com/product/presets/infinity-audio-ambient-trap-vol-2-serum-presets/?a_aid=plugindrop&data1=infinity-audio-ambient-trap-vol-2-serum-presets-b81bba&utm_source=plugindrop&utm_medium=article&utm_campaign=infinity-audio-ambient-trap-vol-2-serum-presets-b81bba)
+[Get Infinity Audio Ambient Trap Vol 2 on ADSR Sounds →](https://www.adsrsounds.com/product/presets/infinity-audio-ambient-trap-vol-2-serum-presets/?a_aid=plugindrop&data1=infinity-audio-ambient-trap-vol-2-serum-presets-b81bba&utm_source=plugindrop&utm_medium=article&utm_campaign=infinity-audio-ambient-trap-vol-2-serum-presets-b81bba)
 
 ---
 
@@ -57,35 +57,35 @@ At $19.99, this sits at the lower end of the Serum preset pack market, where pac
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Infinity Audio Ambient Trap Vol 1 | Varies | Same developer, earlier volume — pairs directly with Vol 2 |
-| Cymatics Serum Trap Presets | Varies | Oriented more toward aggressive trap leads and basses than ambient textures |
-| Zen World Serum Presets | Varies | Broader genre scope covering multiple electronic styles beyond trap |
+| Infinity Audio Ambient Trap Vol 1 | Check ADSR Sounds | The original pack in this series; pairs directly with Vol 2 |
+| Other ADSR Ambient/Trap Serum packs | Varies | Different producers and styles available on the same platform |
+| Free community Serum presets (KVR, Reddit) | Free | No cost, but quality and genre-specificity vary widely |
 
-If the primary need is ambient and atmospheric trap sounds, Vol 2 (alongside Vol 1) is a focused choice. If a wider variety of trap sounds — including harder leads and 808 basses — is the priority, packs from developers with a broader sound design mandate will cover more ground.
+If ambient trap is a core part of your sound, picking up both Vol 1 and Vol 2 builds out the full Infinity Audio series. For producers purely looking to test the genre waters, free community presets from KVR or Reddit exist — but curation is inconsistent and genre focus is rarely as targeted as a dedicated commercial pack.
 
 ---
 
 ## FAQ
 
-**Q: Does this preset pack require Xfer Serum?**
-A: Yes. These are native Serum presets and require a licensed copy of Xfer Records' Serum synthesizer to load and use.
+**Q: Do I need Xfer Serum to use this preset pack?**
+A: Yes. These are native Serum presets and require a licensed copy of Xfer Serum to load and use.
 
-**Q: Is this compatible with both Mac and PC?**
-A: Serum itself runs on Mac and PC, and preset files are platform-independent — the pack works wherever Serum is installed.
+**Q: Is this compatible with both Mac and Windows?**
+A: Xfer Serum runs on both platforms, so the presets should be cross-compatible — check the official product page to confirm any specific requirements.
 
-**Q: Can I use these presets in commercial releases?**
-A: Royalty-free usage is standard for ADSR Sounds preset packs, but confirm the specific license terms on the product page for this title.
+**Q: Does this pack include samples or MIDI, or only Serum presets?**
+A: Based on the product description, this is a Serum preset pack. Check the ADSR Sounds product page for the full contents list.
 
-**Q: Is Vol 1 required to use Vol 2?**
-A: No. Vol 2 is a standalone pack and functions independently without Vol 1 installed.
+**Q: What is the refund policy?**
+A: Refund policies for digital downloads vary — check directly with ADSR Sounds on their site before purchasing.
 
 ---
 
 ## Get the Deal
 
-Infinity Audio Ambient Trap Vol 2 is available now at $19.99 on ADSR Sounds — a compact, genre-specific addition to a Serum library for producers working in atmospheric trap.
+Infinity Audio Ambient Trap Vol 2 is priced at **$19.99** on ADSR Sounds — a straightforward pickup for Serum users who want polished, genre-specific patches without the sound design overhead.
 
-[→ Get Infinity Audio Ambient Trap Vol 2 at ADSR Sounds](https://www.adsrsounds.com/product/presets/infinity-audio-ambient-trap-vol-2-serum-presets/?a_aid=plugindrop&data1=infinity-audio-ambient-trap-vol-2-serum-presets-b81bba&utm_source=plugindrop&utm_medium=article&utm_campaign=infinity-audio-ambient-trap-vol-2-serum-presets-b81bba)
+[Snag Infinity Audio Ambient Trap Vol 2 on ADSR Sounds →](https://www.adsrsounds.com/product/presets/infinity-audio-ambient-trap-vol-2-serum-presets/?a_aid=plugindrop&data1=infinity-audio-ambient-trap-vol-2-serum-presets-b81bba&utm_source=plugindrop&utm_medium=article&utm_campaign=infinity-audio-ambient-trap-vol-2-serum-presets-b81bba)
 
 ---
 
