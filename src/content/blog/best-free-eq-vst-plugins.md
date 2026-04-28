@@ -153,7 +153,6 @@ Voxengo Marvel GEQ is a 16-band linear phase graphic equalizer with the kind of 
 
 ### LP10 — The dedicated linear phase mastering EQ
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/WiEjFdUfV_U" title="LP10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** LKJB
 - **Price:** Free
@@ -270,7 +269,7 @@ Voxengo's Overtone GEQ takes a different approach to equalization by working wit
 | Blue Cat's Triple EQ | Free | Semi-parametric | 3 bands, ultra-fast workflow | [Developer Site](https://www.bluecataudio.com/Products/Product_TripleEQ/) |
 | ReaEQ | Free | Parametric | Unlimited bands, low CPU | [Developer Site](https://www.reaper.fm/reaplugs/) |
 | Voxengo Marvel GEQ | Free | Linear phase graphic | 16 bands, zero phase distortion | [Official Site](https://www.izotope.com/en/products/neutron) |
-| LP10 | Free | Linear phase mastering | Up to 10 bands, surgical | [Official Site](https://www.izotope.com/en/products/neutron) |
+| LP10 | Free | Linear phase mastering | Up to 10 bands, surgical | [Official Site](https://ddmf.eu/lp10-linear-phase-equalizer-plugin/) |
 | TDR SlickEQ | Free | Bus/mastering EQ | Musical saturation, 3 bands | [Developer Site](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | Ignite Amps PTEq-X | Free | Passive/vintage | Pultec character, low-end shaping | [Developer Site](https://www.igniteamps.com/) |
 | Voxengo Overtone GEQ | Free | Harmonic graphic | Harmonic partial shaping | [Developer Site](https://www.voxengo.com/) |
