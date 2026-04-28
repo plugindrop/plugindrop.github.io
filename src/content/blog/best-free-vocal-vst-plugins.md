@@ -299,7 +299,7 @@ Chow Tape Model is a physically modeled tape machine simulation that adds harmon
 ---
 
 
-[→ Search Auto-Tune Pro](https://www.antarestech.com/products/auto-tune-pro)
+[→ Search Auto-Tune Pro](https://www.antarestech.com/products/auto-tune/pro)
 ## Full Comparison Table
 
 | Plugin | Price | Type | Highlights | CTA |
@@ -318,7 +318,7 @@ Chow Tape Model is a physically modeled tape machine simulation that adds harmon
 | Chow Tape Model | Free | Saturation | Physically modeled tape, open source | [Developer Site](https://chowdsp.com/products.html) |
 | iZotope Nectar 4 | ~$99 | Full Vocal Chain | AI assistant, complete processing suite | [Official Site](https://www.izotope.com/en/products/nectar.html) |
 | Waves Tune Real-Time | Varies | Pitch Correction | Low latency, formant shifting, live-safe | [Official Site](https://www.waves.com/plugins/waves-tune-real-time) |
-| Auto-Tune Pro | Varies | Pitch Correction | Graph Mode, industry standard, manual editing | [Official Site](https://www.antarestech.com/products/auto-tune-pro) |
+| Auto-Tune Pro | Varies | Pitch Correction | Graph Mode, industry standard, manual editing | [Official Site](https://www.antarestech.com/products/auto-tune/pro) |
 
 ---
 

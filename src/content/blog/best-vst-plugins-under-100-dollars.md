@@ -25,7 +25,7 @@ draft: false
 |--------|-------|----------|--------|
 | FabFilter Pro-C 2 | $99 | All-purpose compression | [Official Site](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
 | Valhalla VintageVerb | ~$50 | Vintage hall and room reverbs | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
-| Arturia Rev PLATE-140 | ~$49 | EMT 140 plate emulation | [Official Site](https://www.arturia.com/products/software-instruments-effects) |
+| Arturia Rev PLATE-140 | ~$49 | EMT 140 plate emulation | [Official Site](https://www.arturia.com/products/software-effects/rev-plate140/overview) |
 | D16 Group Repeater | ~$49 | Vintage tape delay | [Official Site](https://d16.pl/repeater) |
 | iZotope RX Elements | ~$99 | Noise removal and audio repair | [Official Site](https://www.izotope.com/en/products/rx.html) |
 | Soundtoys Little Plate | ~$49 | Fast, flexible plate reverb | [Official Site](https://www.soundtoys.com/product/little-plate/) |
@@ -77,7 +77,7 @@ The EMT 140 defined the plate reverb sound of four decades of recorded music —
 
 **Best for:** Drum kits, lead vocals, vintage string arrangements, any source that benefits from classic plate coloration
 
-[→ Get Arturia Rev PLATE-140 (Official Site)](https://www.arturia.com/products/software-instruments-effects)
+[→ Get Arturia Rev PLATE-140 (Official Site)](https://www.arturia.com/products/software-effects/rev-plate140/overview)
 
 
 ---

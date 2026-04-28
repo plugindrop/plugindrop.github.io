@@ -25,7 +25,7 @@ draft: false
 | Valhalla VintageVerb | $50 | Mixing — all genres, all sources | [Get It (Official)](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | FabFilter Pro-R 2 | €179 | Precision mixing, decay EQ | [Get It (Official)](https://www.fabfilter.com/products/pro-r-2-reverb-plug-in) |
 | Eventide SP2016 | $99 | Vintage hardware character | [Get It (Official)](https://www.eventideaudio.com/plug-ins/sp2016-reverb/) |
-| Arturia Rev PLATE-140 | ~$49 standalone | Plate reverb, vocals, drums | [Get It (Official)](https://www.arturia.com/products/software-instruments-effects) |
+| Arturia Rev PLATE-140 | ~$49 standalone | Plate reverb, vocals, drums | [Get It (Official)](https://www.arturia.com/products/software-effects/rev-plate140/overview) |
 | Valhalla Supermassive | Free | Ambient, pads, massive tails | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Reverb-4 | Free | Lush algorithmic reverb | [Free Download](https://tal-software.com/products/tal-reverb-4) |
 | MConvolutionEZ | Free | Convolution reverb, IR loading | [Free Download](https://www.meldaproduction.com/MConvolutionEZ) |
@@ -108,7 +108,7 @@ The EMT 140 plate reverb has appeared on studio recordings from Frank Sinatra se
 
 **Best for:** Vocals, drum room, any application where classic plate warmth is the target character.
 
-[→ Get Arturia Rev PLATE-140 (Official)](https://www.arturia.com/products/software-instruments-effects)
+[→ Get Arturia Rev PLATE-140 (Official)](https://www.arturia.com/products/software-effects/rev-plate140/overview)
 
 ---
 
@@ -285,7 +285,7 @@ Convology XT comes from Impulse Record, a company whose primary business is sell
 | FabFilter Pro-R 2 | €179 | Algorithmic | Decay EQ, precision mixing | [Get It](https://www.fabfilter.com/products/pro-r-2-reverb-plug-in) |
 | Eventide SP2016 | $99 | Hardware emulation | Original 1982 algorithms, Stereo Room mode | [Get It](https://www.eventideaudio.com/plug-ins/sp2016-reverb/) |
 | Valhalla VintageVerb | $50 | Algorithmic | 18 vintage modes, best-value paid | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
-| Arturia Rev PLATE-140 | ~$49 | Physical model | EMT 140 plate emulation | [Get It](https://www.arturia.com/products/software-instruments-effects) |
+| Arturia Rev PLATE-140 | ~$49 | Physical model | EMT 140 plate emulation | [Get It](https://www.arturia.com/products/software-effects/rev-plate140/overview) |
 | Valhalla Supermassive | Free | Algorithmic | Extreme tails, ambient — free from Valhalla | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Reverb-4 | Free | Algorithmic | Dense, lush, Linux support | [Free Download](https://tal-software.com/products/tal-reverb-4) |
 | OldSkoolVerb | Free | Algorithmic | Transparent, low-CPU, Voxengo quality | [Free Download](https://www.voxengo.com/product/oldskoolverb/) |

@@ -21,7 +21,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | RC-20 Retro Color | $99 | Lo-fi, bedroom pop, multi-character | [XLN Audio](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) |
-| UAD Studer A800 | $299 | Studio-grade accuracy | [Plugin Boutique](https://www.uaudio.com/hardware/apollo/apollo-tape-echo-reverb.html) |
+| UAD Studer A800 | $299 | Studio-grade accuracy | [Plugin Boutique](https://www.uaudio.com/products/studer-a800-tape-recorder) |
 | Waves J37 Tape | $29–$149 | British vintage and Abbey Road character | [Official Site](https://www.waves.com/plugins/j37-tape) |
 | Soundtoys Decapitator | $99 | Flexible harmonic saturation | [Soundtoys](https://www.soundtoys.com/product/decapitator/) |
 | Chow Tape Model | Free | Best free tape emulation | [Free Download](https://chowdsp.com) |
@@ -57,7 +57,7 @@ Universal Audio's engineering documentation for the Studer A800 describes a mode
 
 **Best for:** Mix engineers who want the most documented, hardware-accurate tape emulation and can justify the premium.
 
-[→ Get UAD Studer A800 on Plugin Boutique](https://www.uaudio.com/hardware/apollo/apollo-tape-echo-reverb.html)
+[→ Get UAD Studer A800 on Plugin Boutique](https://www.uaudio.com/products/studer-a800-tape-recorder)
 
 ---
 
