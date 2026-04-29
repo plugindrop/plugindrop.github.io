@@ -1,16 +1,16 @@
 ---
 title: "K2get — K2get has updated Chord Dock Lite, a free reharmonization and arpeggio/bassline generation plugin for Win & Mac to v1.5. Expiry: None [FREE]"
-description: "Chord Dock Lite v1.5 is a free reharmonization and arpeggio/bassline generation plugin for Windows and Mac — no cost, no expiry. → Get Chord Dock Lite at..."
-pubDate: "2026-04-27T10:40:26Z"
+description: "K2get just updated Chord Dock Lite to v1.5 — and it's still completely free. A reharmonization, arpeggio, and bassline generator for both Windows and Mac,..."
+pubDate: "2026-04-27T05:26:20Z"
 tags: ["free", "k2get", "music-production"]
 affiliate: "https://k2get.github.io/chord-dock-site/index.en.html"
-heroImage: "/images/k2get-k2get-has-updated-chord-dock-lite-a-free-reharmonizati.jpg"
-score: 8.45
+heroImage: "/images/k2get-k2get-has-updated-chord-dock-lite-a-free-reharmonizati.png"
+score: 9.75
 dealPrice: "FREE"
-xText: "chord dock lite just hit v1.5 (free). the reharmonization on this is actually insane. arpeggio + bassline generation too. mac & win."
+xText: "free plugin update just hit and this one's the kind that makes you rethink your whole harmonic workflow. chord dock lite v1.5 does reharmonization so smooth it feels unfair for $0. go get it."
 draft: false
 ---
-**TL;DR:** Chord Dock Lite v1.5 is a free reharmonization and arpeggio/bassline generation plugin for Windows and Mac — no cost, no expiry. [→ Get Chord Dock Lite at Direct](https://k2get.github.io/chord-dock-site/index.en.html)
+**TL;DR:** K2get just updated Chord Dock Lite to v1.5 — and it's still completely free. A reharmonization, arpeggio, and bassline generator for both Windows and Mac, at zero cost with no expiry. [Grab it here.](https://k2get.github.io/chord-dock-site/index.en.html)
 
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/EoqgM5hUsR0" title="K2get — K2get has updated Chord Dock Lite, a free reharmonization and arpeggio/bassline generation plugin for Win & Mac to v1.5. Expiry: None [FREE] — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -19,64 +19,64 @@ draft: false
 
 ## What Is Chord Dock Lite?
 
-Chord Dock Lite is a free MIDI plugin developed by K2get that handles reharmonization alongside arpeggio and bassline generation. The tool is designed to take chord input and transform or accompany it with harmonically intelligent output — useful for producers who want to explore chord substitutions or build movement into a track without writing every MIDI note by hand. The v1.5 update brings the plugin to its latest iteration, available for both Windows and Mac.
+Chord Dock Lite is a free plugin from K2get built around reharmonization, arpeggio generation, and bassline creation. It targets producers who want to explore harmonic ideas and generate melodic movement without building everything manually in the piano roll. The plugin runs on both Windows and Mac. Version 1.5 is the latest update to an already free tool.
 
 ## Key Features
 
-- **Reharmonization engine** — generates chord substitutions and harmonic variations from input chords, giving producers alternative voicings to work with
-- **Arpeggio generation** — creates arpeggiated MIDI patterns based on the detected or input chord structure
-- **Bassline generation** — produces bassline suggestions that follow the harmonic content, useful for quickly sketching low-end movement
-- **Windows and Mac support** — the plugin runs on both major desktop platforms
-- **Free with no expiry** — no time-limited trial, no license cost; the deal is permanent
+- **Chord Reharmonization** — Rework existing chord progressions into new harmonic variations directly inside the plugin.
+- **Arpeggio Generation** — Automatically construct arpeggio patterns from chord input to add motion and texture to your arrangements.
+- **Bassline Generation** — Generate complementary basslines driven by your chord data, cutting time in the arrangement stage.
+- **Win & Mac Support** — Available on both Windows and Mac, covering most producer setups.
+- **Completely Free** — No purchase required, no trial timer, no iLok — download and go.
 
 ## Who Is It For?
 
-- **Songwriters and composers** — Chord Dock Lite fits workflows where harmonic exploration is a starting point, letting users audition reharmonized versions of their progressions quickly
-- **Beat producers** — the arpeggio and bassline generation functions are suited to producers building melodic or harmonic movement on top of existing chord structures
-- **Music theory learners** — the reharmonization output can serve as a practical reference for understanding chord substitution concepts in a DAW context
-- **Producers on a budget** — with no cost attached, it fits into any setup regardless of plugin budget
+- **Songwriters and composers** — Anyone building progressions who wants to experiment with reharmonization quickly, without deep theory prerequisites.
+- **Beat makers and producers** — Those who need arpeggio and bassline ideas generated fast from a chord foundation to fill out a track.
+- **Music theory learners** — Students of harmony can use the plugin as a hands-on tool to hear reharmonization concepts applied in real time.
+- **Budget-conscious producers** — If free is the hard requirement, Chord Dock Lite delivers genuine utility at no cost.
 
 ## Pricing & Deal Details
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
-| — | FREE | 100% |
+| Free | **Free** | 100% |
 
-Chord Dock Lite carries no purchase price — it is distributed free of charge with no stated expiry date. There is no limited-time window attached to this deal.
+Chord Dock Lite has always been free to download directly from K2get. The v1.5 update carries the same price — nothing. No coupon needed, no time limit on the offer.
 
-*Price verified at publication. Check the link for current availability.*
+Verify current availability and download details on the product page — deals can change.
 
-[→ Get Chord Dock Lite at Direct](https://k2get.github.io/chord-dock-site/index.en.html)
+[Download Chord Dock Lite v1.5 free →](https://k2get.github.io/chord-dock-site/index.en.html)
 
 ## Alternatives at a Glance
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Scaler 2 | Paid | Broader chord library, scale detection, and deeper DAW integration with a GUI focused on discovery |
-| Chordjam (Audiomodern) | Paid | Randomization-based chord generation with a performance-oriented interface |
-| Captain Chords | Paid | Song-building suite with melody, bass, and beat layers alongside chord tools |
+| Scaler 2 | Paid (check product page) | Broader chord library, scale detection, and deeper DAW integration |
+| Captain Chords | Paid (check product page) | Full suite covering chords, melody, and bass with a more visual interface |
+| Chord Prism by Audiomodern | Check product page | Real-time chord generation with randomization-focused workflow |
 
-Chord Dock Lite is the only free option in this comparison and covers reharmonization plus bassline/arpeggio generation in a single plugin. If the workflow requires deeper chord discovery, scale detection, or a polished GUI, Scaler 2 and Captain Chords cover more ground at a cost.
+Chord Dock Lite is the obvious pick when free is non-negotiable and the workflow centers on reharmonization and arpeggio output. If you need a more comprehensive harmony toolkit with scale detection and polished DAW integration, Scaler 2 is the standard paid alternative worth evaluating.
 
 ## FAQ
 
-**Q: Is Chord Dock Lite really free — no hidden subscription or paid tier?**
-A: Yes. Chord Dock Lite is free with no stated expiry and no paid upgrade required for the Lite version.
+**Q: Is Chord Dock Lite actually free with no hidden costs?**
+A: Yes — it is available as a free direct download from K2get with no purchase required. Check the official product page to confirm current license terms.
 
-**Q: What formats does Chord Dock Lite support?**
-A: Check the official site for the full list of supported plugin formats and DAW compatibility details.
+**Q: What plugin formats does Chord Dock Lite support?**
+A: Check the official product page for supported formats (VST, AU, etc.) and DAW compatibility details, as these can vary by version.
 
-**Q: What changed in v1.5?**
-A: The v1.5 update is the latest release from K2get. For a full changelog, refer to the official product page.
+**Q: What's new in version 1.5?**
+A: Check the K2get product page or release notes for a full changelog detailing what changed in v1.5.
 
-**Q: Does it require an iLok or online activation?**
-A: No iLok requirement has been indicated for this plugin. Confirm activation details on the official site before downloading.
+**Q: Does it require an account or activation to use?**
+A: The plugin is listed as free with no purchase, but check the product page for any activation or registration requirements specific to v1.5.
 
 ## Get the Deal
 
-Chord Dock Lite is free and has no expiry date, so there is no time pressure — but v1.5 represents the most current and polished release of the tool, making now a reasonable time to grab it.
+Free, updated, and ready to download with no expiry date. There's no reason to sit on this one.
 
-[→ Get Chord Dock Lite at Direct](https://k2get.github.io/chord-dock-site/index.en.html)
+[Get Chord Dock Lite v1.5 — 100% free →](https://k2get.github.io/chord-dock-site/index.en.html)
 
 ---
 
