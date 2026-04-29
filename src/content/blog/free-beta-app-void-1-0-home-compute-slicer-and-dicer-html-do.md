@@ -7,9 +7,9 @@ affiliate: ""
 heroImage: "/images/free-beta-app-void-1-0-home-compute-slicer-and-dicer-html-do.webp"
 aiImage: true
 score: 4.0
-draft: false
+draft: true
 ---
-**TL;DR:** VOID 1.0 is a free beta audio slicer and dicer you can download right now — no subscription, no paywall. It runs as a local HTML app, meaning zero install friction. [Grab the free download here.](https://www.reddit.com/r/edmproduction/)
+**TL;DR:** VOID 1.0 is a free beta audio slicer and dicer you can download right now — no subscription, no paywall. It runs as a local HTML app, meaning zero install friction. [Grab the free download here.](https://drive.google.com/open)
 
 ---
 
@@ -54,7 +54,7 @@ VOID 1.0 is a brand-new beta release from an independent developer. Community di
 
 This is a free beta release — there is no paid tier to compare against at this time. Beta status means features and availability could change. Verify current status on the product page, as free beta access periods can end or shift to paid tiers after launch.
 
-[Download VOID 1.0 free here.](https://www.reddit.com/r/edmproduction/)
+[Download VOID 1.0 free here.](https://drive.google.com/open)
 
 ---
 
@@ -88,7 +88,7 @@ A: Beta periods vary by developer. Download it now while free access is confirme
 
 ## Get the Deal
 
-Free. Beta. No install. That's a hard combo to pass up. [Download VOID 1.0 at no cost while the beta is live.](https://www.reddit.com/r/edmproduction/)
+Free. Beta. No install. That's a hard combo to pass up. [Download VOID 1.0 at no cost while the beta is live.](https://drive.google.com/open)
 
 ---
 

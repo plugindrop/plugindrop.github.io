@@ -9,7 +9,7 @@ aiImage: true
 score: 4.80
 saleExpiry: "2026-04-21"
 xText: "Scanner Vibrato's 50% off through end of today. that's the kind of discount that doesn't stick around."
-draft: false
+draft: true
 ---
 **TL;DR:** Martinic's Scanner Vibrato plugin is currently 50% off at their official store — a rare discount from a developer that doesn't run sales often. Verify current pricing on the product page. [Grab it at Martinic's site](https://www.martinic.com/products/scanner-vibrato/) before the deal expires.
 

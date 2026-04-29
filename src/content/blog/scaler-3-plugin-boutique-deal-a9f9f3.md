@@ -38,7 +38,7 @@ Scaler 3 is a music theory plugin by Plugin Boutique and Scaler Music, designed 
 
 | Current Price | Store |
 |---|---|
-| $99.00 | [Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?a_aid=69cb95abe1763) |
+| $99.00 | Plugin Boutique |
 
 Plugin Boutique also runs a loyalty points system that can reduce the effective cost. **Check the product page for current pricing — Plugin Boutique runs periodic sales and bundle events.**
 
