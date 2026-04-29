@@ -3,12 +3,16 @@ title: "Unison MIDI Chord Pack"
 description: "The Unison MIDI Chord Pack is live at Unison Audio for **$47** — a straightforward pickup if you want a ready-to-use chord library in your DAW. No..."
 pubDate: "2026-04-23T23:42:57Z"
 tags: ["unison", "sample-pack", "sample-pack-deal", "music-production"]
-affiliate: "https://unison.audio/ref/jc374/product/unison-midi-chord-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-chord-pack-f0bc03"
+affiliate: "https://unison.audio/ref/jc374/product/unison-iced-out-collection-for-serum-vol-1/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-chord-pack-f0bc03"
 heroImage: "/images/unison-midi-chord-pack-f0bc03.jpg"
 score: 4.00
 xText: "unison dropped a midi chord pack that's genuinely useful. finding harmonic ideas i wouldn't write solo, but they don't feel forced. actually makes you a better writer instead of just speeding up the slog."
-draft: false
+draft: true
 ---
+
+> ⚠️ **この記事は内容確認中のため一時非公開です。**
+> （アフィリエイトリンクが記事タイトルと異なる製品を指しています。修正後に再公開します）
+**TL;DR:** The Unison MIDI Chord Pack is live at Unison Audio for **$47** — a straightforward pickup if you want a ready-to-use chord library in your DAW. No original price listed, so [verify the current deal at Unison Audio](https://unison.audio/ref/jc374/product/unison-iced-out-collection-for-serum-vol-1/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-chord-pack-f0bc03) before it changes.
 
 ---
 
@@ -52,7 +56,7 @@ No historical sale data is available to confirm how frequently Unison Audio disc
 
 **Note:** Verify current pricing on the product page — deals can change.
 
-[Get the Unison MIDI Chord Pack at Unison Audio →](https://unison.audio/ref/jc374/product/unison-midi-chord-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-chord-pack-f0bc03)
+[Get the Unison MIDI Chord Pack at Unison Audio →](https://unison.audio/ref/jc374/product/unison-iced-out-collection-for-serum-vol-1/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-chord-pack-f0bc03)
 
 ---
 
@@ -88,7 +92,7 @@ A: Check the product page for the exact count — Unison Audio lists full conten
 
 At $47, the Unison MIDI Chord Pack is priced as a single-purchase, no-subscription tool you keep forever. If chord-building slows your sessions down, this is a direct fix.
 
-[Pick it up at Unison Audio →](https://unison.audio/ref/jc374/product/unison-midi-chord-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-chord-pack-f0bc03)
+[Pick it up at Unison Audio →](https://unison.audio/ref/jc374/product/unison-iced-out-collection-for-serum-vol-1/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-chord-pack-f0bc03)
 
 ---
 
