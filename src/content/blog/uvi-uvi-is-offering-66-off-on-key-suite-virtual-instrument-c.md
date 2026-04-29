@@ -5,7 +5,7 @@ description: UVI is running a steep **66% off** sale on Key Suite — their comp
   keyboard instrument collection for Falcon and UVI Workstation. If you've been...
 pubDate: '2026-04-17T09:23:35Z'
 tags: ["sale", "uvi", "music-production", "bundle"]
-affiliate: "https://www.pluginboutique.com/search?search_query=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16200-Key-Suite?a_aid=69cb95abe1763"
 heroImage: /images/uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c.png
 saleExpiry: '2026-04-20'
 discount: "66% OFF"
@@ -14,7 +14,7 @@ score: 4.25
 dealPrice: "$99"
 originalPrice: "$299"
 ---
-**TL;DR:** UVI is running a steep **66% off** sale on Key Suite — their comprehensive keyboard instrument collection for Falcon and UVI Workstation. If you've been eyeing UVI's keyboard sounds, this is a rare discount worth acting on. Grab the deal directly at [uvi.net/key-suite](https://www.pluginboutique.com/search?search_query=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c).
+**TL;DR:** UVI is running a steep **66% off** sale on Key Suite — their comprehensive keyboard instrument collection for Falcon and UVI Workstation. If you've been eyeing UVI's keyboard sounds, this is a rare discount worth acting on. Grab the deal directly at [uvi.net/key-suite](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16200-Key-Suite?a_aid=69cb95abe1763).
 
 ---
 
@@ -63,7 +63,7 @@ Key Suite has been a recurring recommendation in keyboard-focused instrument dis
 
 A 66% discount from UVI is significant. UVI doesn't run deep discounts constantly — when they do, it's worth paying attention. This deal is available exclusively through UVI's own store.
 
-**[Get 66% Off Key Suite at UVI →](https://www.pluginboutique.com/search?search_query=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)**
+**[Get 66% Off Key Suite at UVI →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16200-Key-Suite?a_aid=69cb95abe1763)**
 
 ---
 
@@ -99,7 +99,7 @@ A: Head directly to the product page — the current discount is reflected there
 
 66% off a full keyboard collection from a respected developer doesn't come around every week. If you're building out your sound library, this is a strong window to add serious keys coverage at a fraction of the regular price.
 
-**[Claim the 66% Off Deal at UVI →](https://www.pluginboutique.com/search?search_query=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)**
+**[Claim the 66% Off Deal at UVI →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16200-Key-Suite?a_aid=69cb95abe1763)**
 
 ---
 
