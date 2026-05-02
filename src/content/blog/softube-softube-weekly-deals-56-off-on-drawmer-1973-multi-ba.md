@@ -1,18 +1,17 @@
 ---
 title: "Softube — Softube Weekly Deals - 56% off on Drawmer 1973 Multi-Band Compressor plugin"
-description: "Softube's Drawmer 1973 Multi-Band Compressor plugin is 56% off at $69 as part of Softube's Weekly Deals promotion. This is a plugin emulation of a..."
-pubDate: "2026-05-01T05:43:37Z"
+description: "Softube is running 56% off the Drawmer 1973 Multi-Band Compressor through **May 5th** — one of the deeper discounts this plugin has seen. Verify current..."
+pubDate: "2026-05-01T05:15:17Z"
 tags: ["softube", "music-production"]
 affiliate: "https://www.softube.com/us/plug-ins/drawmer-1973-multi-band-compressor"
 heroImage: "/images/softube-softube-weekly-deals-56-off-on-drawmer-1973-multi-ba.jpg"
-score: 8.21
-dealPrice: "$69"
+score: 8.06
 discount: "56% OFF"
 saleExpiry: "2026-05-05"
-xText: "drawmer 1973 dropped to 56% off. sits like butter in a mix. lowest i've seen all year. if you've been thinking about it, now's the time."
+xText: "drawmer 1973 multi-band is 56% off. that's genuinely rare for this plugin. if you've had it on your list, now's the move."
 draft: false
 ---
-**TL;DR:** Softube's Drawmer 1973 Multi-Band Compressor plugin is 56% off at $69 as part of Softube's Weekly Deals promotion. This is a plugin emulation of a respected piece of broadcast-grade hardware, brought down to an accessible price point. [→ Get Drawmer 1973 at Softube](https://www.softube.com/us/plug-ins/drawmer-1973-multi-band-compressor)
+**TL;DR:** Softube is running 56% off the Drawmer 1973 Multi-Band Compressor through **May 5th** — one of the deeper discounts this plugin has seen. Verify current pricing on the product page. If multi-band compression with vintage analog character is on your wishlist, [this deal is worth a look](https://www.softube.com/us/plug-ins/drawmer-1973-multi-band-compressor).
 
 ---
 
@@ -23,26 +22,27 @@ draft: false
 
 ## What Is the Drawmer 1973 Multi-Band Compressor?
 
-The Drawmer 1973 is a plugin emulation developed by Softube, modeled after the classic Drawmer 1973 hardware multi-band compressor — a unit long associated with broadcast and professional mastering environments. Drawmer is a British pro audio manufacturer with a strong reputation in the hardware world, and Softube has built its name on meticulous hardware modeling. The plugin brings the 3-band FET-style compression architecture of the original hardware into a DAW-native format.
+The Drawmer 1973 is Softube's plugin emulation of the classic Drawmer 1973 hardware unit — a three-band FET compressor made by the respected British manufacturer Drawmer. Softube built its reputation on meticulous analog circuit modeling, and the 1973 is designed to capture the coloration and dynamic response of the original hardware. It targets producers and engineers who want multi-band control without sacrificing the warmth and character of vintage gear.
 
 ---
 
 ## Key Features
 
-- **3 Independent Frequency Bands** — Separate compression controls for low, mid, and high bands allow precise, surgical dynamic control without cross-band interference.
-- **FET-Based Compression Character** — The FET circuit topology gives the compressor a fast, punchy response characteristic associated with the hardware unit.
-- **Hardware-Accurate Emulation** — Softube built the plugin in close collaboration with Drawmer, modeling the specific behavior of the original 1973 hardware.
-- **Broadcast-Grade Design** — The original hardware was a broadcast standard; the plugin inherits that signal-chain reliability and headroom.
-- **Per-Band Threshold, Ratio, Attack, and Release** — Full independent control over each band's dynamics without sharing parameters.
+- **Three-Band FET Compression** — Independent compression per low, mid, and high frequency band, letting you target problem areas without affecting the full signal.
+- **Per-Band Controls** — Each band includes its own threshold, ratio, attack, and release parameters for precise, surgical shaping.
+- **Analog Saturation & Color** — Based on Softube's analog circuit simulation, the plugin adds the harmonic character of FET gain reduction rather than transparent digital processing.
+- **Parallel Compression (Mix Knob)** — Blend the compressed signal with the dry input directly in the plugin for easy New York–style parallel compression.
+- **Mastering & Mixing Versatility** — Designed to work across full mixes, buses, and individual instruments, making it a multi-context tool in the studio.
+- **Softube Analog Modeling Engine** — The same technology underpinning Softube's console emulations and outboard gear plugins.
 
 ---
 
 ## Who Is It For?
 
-- **Mastering Engineers** — The 3-band architecture suits final-stage dynamic control where surgical precision across the frequency spectrum is required.
-- **Mix Engineers Working in Dense Arrangements** — Multi-band compression helps tame problem frequencies in complex mixes where broadband compression would color the signal too heavily.
-- **Broadcast and Post-Production Producers** — The plugin traces its lineage directly from broadcast hardware, making it a natural fit for dialogue, voiceover, and audio-for-video workflows.
-- **Producers Interested in Hardware Emulation** — Those who want the character of a specific hardware unit without the hardware cost will find this is a well-contextualized emulation from a developer known for this work.
+- **Mastering Engineers** — Multi-band compression is a core mastering tool; the vintage character adds glue where transparent digital compressors can feel sterile.
+- **Mixing Engineers Working on Buses** — Drum buses, mix buses, and vocal groups can benefit from the per-band control without the clinical feel of modern multiband designs.
+- **Producers Seeking Analog Color** — If your workflow is already built on Softube's ecosystem (console emulations, outboard gear), the 1973 fits that signal chain naturally.
+- **Home Studio Owners Exploring Hardware-Modeled Dynamics** — A 56% sale is a practical entry point for producers who want hardware-quality multiband compression without the physical unit's price tag.
 
 ---
 
@@ -50,13 +50,13 @@ The Drawmer 1973 is a plugin emulation developed by Softube, modeled after the c
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
-| (56% off full price) | **$69** | 56% |
+| ~~Verify on product page~~ | Verify on product page | 56% |
 
-Softube runs weekly rotating deals across its catalog, so individual plugins cycle in and out of discount windows. At 56% off, this is a meaningful reduction for a plugin from a developer that does not typically offer deep permanent price cuts outside promotional periods.
+Softube doesn't run deep discounts constantly — their weekly deals rotate specific titles at 40–60% off, so catching a plugin at 56% is meaningful if it's been on your radar. This particular discount **expires May 5th**, which means the window is short (four days from today, May 1st).
 
-*Price verified at publication. Check the link for current availability.*
+Note: Verify current pricing on the product page — deals can change without notice.
 
-[→ Get Drawmer 1973 at Softube](https://www.softube.com/us/plug-ins/drawmer-1973-multi-band-compressor)
+[Check the current deal price on Softube's site](https://www.softube.com/us/plug-ins/drawmer-1973-multi-band-compressor)
 
 ---
 
@@ -64,35 +64,33 @@ Softube runs weekly rotating deals across its catalog, so individual plugins cyc
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Waves C4 Multiband Compressor | Varies (frequent sales) | 4-band design; widely used in mixing forums as a go-to multiband option |
-| FabFilter Pro-MB | ~$179 full price | Linear-phase mode available; highly regarded for transparent multiband processing |
-| iZotope Neutron (Multiband Compressor module) | Part of Neutron suite | Bundled with AI-assisted mixing tools; not a standalone multiband compressor |
+| FabFilter Pro-MB | Check vendor | Fully dynamic, linear-phase option, no analog coloration |
+| Waves C4 Multiband Compressor | Check vendor | Leaner interface, longer track record, less analog character |
+| iZotope Ozone (Dynamics module) | Check vendor | Part of a full mastering suite; multiband is one module among many |
 
-If hardware character and a specific broadcast-pedigree sound are the priority, the Drawmer 1973 plugin fills that niche specifically. For maximum transparency and surgical control without hardware coloration, Pro-MB is the more common recommendation in mixing communities. Waves C4 is a lower-cost entry point if the FET character is not a requirement.
+If you want transparent, surgical multiband control with zero color, FabFilter Pro-MB is the standard recommendation. If analog warmth and the Drawmer hardware character are specifically what you're after, the 1973 is the focused choice. Ozone makes sense if you want an all-in-one mastering chain rather than a standalone compressor.
 
 ---
 
 ## FAQ
 
-**Q: Does the Drawmer 1973 plugin require iLok hardware?**
-A: Softube plugins can be activated via iLok Cloud, so hardware dongles are not always required — check the official site for current activation options.
+**Q: Does the Drawmer 1973 plugin require an iLok dongle?**
+A: Check the official product page for current licensing details — Softube has historically supported both iLok and machine-based activation, but requirements can change.
 
-**Q: Is this a VST3/AU/AAX plugin?**
-A: Softube plugins generally support VST3, AU, and AAX formats for compatibility across major DAWs, but confirm the current format list on the product page.
+**Q: What are the system requirements?**
+A: Check the official Softube product page for up-to-date macOS/Windows compatibility and DAW format support (VST, AU, AAX).
 
 **Q: Is this deal available outside the US?**
-A: Softube's weekly deals are typically available globally through their website; regional pricing may differ.
+A: The affiliate link points to the US store. Softube's site supports multiple regions — check your regional storefront for local pricing.
 
-**Q: Can I try it before buying?**
-A: Softube offers a free trial system for many of its plugins — check the official product page for trial availability on this title.
+**Q: Is this a subscription or a perpetual license?**
+A: Based on Softube's standard model, plugins are sold as perpetual licenses. Confirm the license terms on the product page before purchasing.
 
 ---
 
 ## Get the Deal
 
-At $69 with 56% off, the Drawmer 1973 sits at a price point that makes hardware-emulation-grade multi-band compression accessible to a wider range of producers and engineers. Softube's Weekly Deals rotate, so this window is time-limited.
-
-[→ Get Drawmer 1973 at Softube](https://www.softube.com/us/plug-ins/drawmer-1973-multi-band-compressor)
+56% off a hardware-modeled multi-band compressor from one of the more respected names in analog emulation — and it's gone after May 5th. If multiband dynamics are part of your workflow, [grab the Drawmer 1973 at the current sale price here](https://www.softube.com/us/plug-ins/drawmer-1973-multi-band-compressor).
 
 ---
 

@@ -3,7 +3,7 @@ title: "8Dio Lacrimosa Choir — 200-Singer Epic Choir for Kontakt"
 description: "8Dio Lacrimosa Choir: 200-piece cinematic choir with true layered legato, multi-vowel phrases, and advanced articulations. On sale as part of the Pick 3 for $69 deal."
 pubDate: "2026-04-23T00:00:00Z"
 tags: ["vst-plugin", "music-production", "kontakt", "choir"]
-affiliate: "https://www.pluginboutique.com/search?search_query=lacrimosa+epic+choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-lacrimosa-choir"
+affiliate: ""
 heroImage: "/images/8dio-lacrimosa-choir.jpg"
 score: 4.70
 xText: "8Dio Lacrimosa — 200 singers, true layered legato, multi-vowel. eligible for the pick-any-3 deal at $69 total. one of the better large-scale choir libs out there"
@@ -12,7 +12,7 @@ originalPrice: "$149"
 discount: "Pick 3 for $69"
 draft: false
 ---
-**TL;DR:** Lacrimosa is 8Dio's flagship epic choir — 200 singers, true layered legato, and deep articulation control. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](/posts/choirs-solo-vocals-102b4c)**. [Buy on 8Dio →](https://www.pluginboutique.com/search?search_query=lacrimosa+epic+choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-lacrimosa-choir)
+**TL;DR:** Lacrimosa is 8Dio's flagship epic choir — 200 singers, true layered legato, and deep articulation control. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](/posts/choirs-solo-vocals-102b4c)**. Buy on 8Dio →
 
 ---
 
@@ -51,7 +51,7 @@ Lacrimosa suits composers who need a large, weighty choir sound for epic scoring
 
 Lacrimosa is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](/posts/choirs-solo-vocals-102b4c)** offer. Pair it with Insolidus for lyrical contrast or Silka for emotional soft layers.
 
-[→ See all eligible titles and grab the deal](https://www.pluginboutique.com/search?search_query=lacrimosa+epic+choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-lacrimosa-choir)
+→ See all eligible titles and grab the deal
 
 ---
 
