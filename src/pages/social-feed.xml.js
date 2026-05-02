@@ -11,6 +11,7 @@ const MAX_ITEMS = 35;           // 7日 × 5件/日
 export async function GET(context) {
 	const allPosts = await getCollection('blog');
 
+	const now = new Date();
 	const cutoff = new Date();
 	cutoff.setDate(cutoff.getDate() - RECENT_DAYS);
 
@@ -19,7 +20,8 @@ export async function GET(context) {
 	for (const p of allPosts) {
 		if (p.data.draft || (p.data.score ?? 0) < SCORE_THRESHOLD || p.data.aiImage) continue;
 		const pub = new Date(p.data.pubDate);
-		if (pub < cutoff) continue;
+		// 過去7日以内 かつ 現在以前（未来pubDate記事は除外）
+		if (pub < cutoff || pub > now) continue;
 		const day = pub.toISOString().slice(0, 10);
 		if (!byDay.has(day)) byDay.set(day, []);
 		byDay.get(day).push(p);
@@ -30,7 +32,7 @@ export async function GET(context) {
 		.flatMap(([, items]) =>
 			items
 				.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
-				.slice(0, MAX_PER_DAY)              // 1日3件まで（スコア上位）
+				.slice(0, MAX_PER_DAY)              // 1日5件まで（スコア上位）
 		)
 		.slice(0, MAX_ITEMS);
 
@@ -44,11 +46,17 @@ export async function GET(context) {
 				? d.xText
 				: _buildFallbackText(d.title, d.dealPrice, d.originalPrice, d.discount);
 
+			// heroImageがある場合はenclosureとして含める（dlvr.it等がサムネイルとして使用）
+			const imageUrl = d.heroImage
+				? new URL(d.heroImage, context.site).toString()
+				: null;
+
 			return {
 				title: d.title,
 				description: xText,
 				link: `/posts/${post.id}/`,
 				pubDate: d.pubDate,
+				...(imageUrl ? { enclosures: [{ url: imageUrl, type: 'image/jpeg', length: 0 }] } : {}),
 			};
 		}),
 	});
