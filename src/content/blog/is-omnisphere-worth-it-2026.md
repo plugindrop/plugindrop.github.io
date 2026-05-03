@@ -186,3 +186,7 @@ Omnisphere is not the right purchase for every producer — but for film compose
 ---
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
+
+---
+
+*Buying a bundle? See our [Plugin Bundle Price Comparison](/bundle-comparison/) — 12 bundles ranked by cost per plugin.*

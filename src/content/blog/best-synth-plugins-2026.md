@@ -212,3 +212,7 @@ If you install only one synth from this guide, make it Vital — it delivers hig
 ---
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
+
+---
+
+*Comparing bundles? See our [Plugin Bundle Price Comparison](/bundle-comparison/) for cost-per-plugin rankings across FabFilter, NI Komplete, iZotope, and more.*

@@ -202,3 +202,7 @@ In 2026, the quality floor for free EQ plugins is genuinely high — TDR Nova an
 ---
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
+
+---
+
+*Comparing bundles? See our [Plugin Bundle Price Comparison](/bundle-comparison/) for cost-per-plugin rankings across FabFilter, NI Komplete, iZotope, and more.*

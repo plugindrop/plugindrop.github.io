@@ -208,3 +208,7 @@ For vintage synthesis and classic keyboard sounds, Arturia V Collection 10 is th
 ---
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
+
+---
+
+*Comparing bundles? See our [Plugin Bundle Price Comparison](/bundle-comparison/) for cost-per-plugin rankings across FabFilter, NI Komplete, iZotope, and more.*
