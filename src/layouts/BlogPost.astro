@@ -9,7 +9,7 @@ import { SITE_TITLE } from '../consts';
 
 type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?: string; slug?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, score, readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, score, allTimeLow, readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
 const imageStr = typeof heroImage === 'string' ? heroImage : undefined;
 
 // Check if sale has expired
@@ -370,6 +370,21 @@ const relatedPosts = allPosts
 				color: var(--accent-light);
 				font-size: 0.95rem;
 			}
+			/* All-time-low badge */
+			.atl-badge {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.25rem;
+				font-size: 0.72rem;
+				font-weight: 700;
+				text-transform: uppercase;
+				letter-spacing: 0.06em;
+				color: #fff;
+				background: linear-gradient(135deg, #e63946 0%, #c1121f 100%);
+				border-radius: 3px;
+				padding: 0.2rem 0.45rem;
+				vertical-align: middle;
+			}
 			/* Best guide callout */
 			.best-guide-box {
 				margin: 1.5rem 0;
@@ -481,6 +496,8 @@ const relatedPosts = allPosts
 						iframe.parentElement?.insertBefore(wrap, iframe);
 						wrap.appendChild(iframe);
 					}
+					iframe.setAttribute('loading', 'lazy');
+					iframe.src = iframe.src.replace('youtube.com/embed', 'youtube-nocookie.com/embed');
 				});
 				// Countdown timer
 				const cdEl = document.getElementById('deal-countdown');
@@ -607,6 +624,7 @@ const relatedPosts = allPosts
 											{discount && (
 												<span class={`deal-save-badge${_isFreePrice ? ' is-free' : ''}`}>{discount}</span>
 											)}
+											{allTimeLow && <span class="atl-badge">All-Time Low</span>}
 										</div>
 									)}
 									{dealSource && <div class="deal-source">Available via {dealSource}</div>}
