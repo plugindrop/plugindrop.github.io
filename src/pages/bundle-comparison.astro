@@ -1,0 +1,414 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+
+const PB_AID = "a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=bundle-comparison";
+
+interface Bundle {
+  name: string;
+  maker: string;
+  regularPrice: number;
+  salePrice?: number;
+  plugins: number;
+  category: string;
+  pbUrl: string;
+  highlight: string;
+  tier: "essentials" | "professional" | "ultimate";
+}
+
+const BUNDLES: Bundle[] = [
+  {
+    name: "FabFilter Total Bundle",
+    maker: "FabFilter",
+    regularPrice: 999,
+    plugins: 14,
+    category: "Mixing & Mastering",
+    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/1222-Total-Bundle?${PB_AID}&utm_campaign=bundle-comparison-fabfilter-total`,
+    highlight: "Industry-standard EQ, compressor, limiter in one package",
+    tier: "professional",
+  },
+  {
+    name: "FabFilter Creative Bundle",
+    maker: "FabFilter",
+    regularPrice: 449,
+    plugins: 6,
+    category: "Creative FX",
+    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/2540-Creative-Bundle?${PB_AID}&utm_campaign=bundle-comparison-fabfilter-creative`,
+    highlight: "Saturn 2, Timeless 3, Volcano 3 — FX for sound design",
+    tier: "essentials",
+  },
+  {
+    name: "Soundtoys 5",
+    maker: "Soundtoys",
+    regularPrice: 499,
+    plugins: 18,
+    category: "Creative FX",
+    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/2736-SoundToys-5?${PB_AID}&utm_campaign=bundle-comparison-soundtoys-5`,
+    highlight: "EchoBoy, Decapitator, PrimalTap — best creative FX bundle",
+    tier: "professional",
+  },
+  {
+    name: "iZotope Music Production Suite 6",
+    maker: "iZotope",
+    regularPrice: 1099,
+    plugins: 9,
+    category: "Mixing & Mastering",
+    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/9985-Music-Production-Suite-6?${PB_AID}&utm_campaign=bundle-comparison-izotope-mps6`,
+    highlight: "Ozone 11, Neutron 4, Nectar 4, RX 11 — full production stack",
+    tier: "ultimate",
+  },
+  {
+    name: "iZotope Everything Bundle",
+    maker: "iZotope",
+    regularPrice: 1499,
+    plugins: 27,
+    category: "All-in-One",
+    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/5761-Everything-Bundle?${PB_AID}&utm_campaign=bundle-comparison-izotope-everything`,
+    highlight: "Every iZotope plugin — best value for mastering engineers",
+    tier: "ultimate",
+  },
+  {
+    name: "NI Komplete 15 Standard",
+    maker: "Native Instruments",
+    regularPrice: 599,
+    plugins: 38,
+    category: "Instruments & FX",
+    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16401-Komplete-15?${PB_AID}&utm_campaign=bundle-comparison-komplete-15`,
+    highlight: "Massive X, Kontakt 7, Reaktor 6 — best instrument bundle for producers",
+    tier: "professional",
+  },
+  {
+    name: "NI Komplete 15 Ultimate",
+    maker: "Native Instruments",
+    regularPrice: 999,
+    plugins: 135,
+    category: "Instruments & FX",
+    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16402-Komplete-15-Ultimate?${PB_AID}&utm_campaign=bundle-comparison-komplete-15-ultimate`,
+    highlight: "135+ plugins including Kontakt libraries, synths, FX — complete studio",
+    tier: "ultimate",
+  },
+  {
+    name: "Arturia V Collection 10",
+    maker: "Arturia",
+    regularPrice: 499,
+    plugins: 33,
+    category: "Vintage Synths",
+    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/10905-V-Collection-10?${PB_AID}&utm_campaign=bundle-comparison-arturia-v10`,
+    highlight: "33 vintage synth & keyboard emulations — best value for keys players",
+    tier: "professional",
+  },
+  {
+    name: "Arturia FX Collection 5",
+    maker: "Arturia",
+    regularPrice: 399,
+    plugins: 47,
+    category: "Creative FX",
+    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16233-FX-Collection-5?${PB_AID}&utm_campaign=bundle-comparison-arturia-fx5`,
+    highlight: "47 analog-modeled FX — best price per plugin in its category",
+    tier: "professional",
+  },
+  {
+    name: "Waves Gold Bundle",
+    maker: "Waves",
+    regularPrice: 399,
+    plugins: 36,
+    category: "Mixing",
+    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/1226-Gold?${PB_AID}&utm_campaign=bundle-comparison-waves-gold`,
+    highlight: "Classic SSL, L1, CLA compressors — workhorse mixing bundle",
+    tier: "essentials",
+  },
+  {
+    name: "Waves Platinum Bundle",
+    maker: "Waves",
+    regularPrice: 599,
+    plugins: 65,
+    category: "Mixing",
+    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/1229-Platinum?${PB_AID}&utm_campaign=bundle-comparison-waves-platinum`,
+    highlight: "Everything in Gold plus H-Series, IR-L, TransX",
+    tier: "professional",
+  },
+  {
+    name: "u-he Ummet Ozcan Synth Bundle",
+    maker: "u-he",
+    regularPrice: 349,
+    plugins: 3,
+    category: "Synthesizers",
+    pbUrl: `https://www.pluginboutique.com/product/1-Instruments/17-Synthesiser/?${PB_AID}&utm_campaign=bundle-comparison-uhe`,
+    highlight: "Diva + Hive 2 + Repro — three acclaimed analog synths",
+    tier: "professional",
+  },
+];
+
+// Compute price per plugin
+function pppClass(ppp: number): string {
+  if (ppp <= 15) return 'ppp-best';
+  if (ppp <= 30) return 'ppp-mid';
+  return 'ppp-high';
+}
+
+const bundlesWithPPP = BUNDLES.map(b => {
+  const effectivePrice = b.salePrice ?? b.regularPrice;
+  const pricePerPlugin = Math.round(effectivePrice / b.plugins);
+  return { ...b, effectivePrice, pricePerPlugin, pppClass: pppClass(pricePerPlugin) };
+}).sort((a, b) => a.pricePerPlugin - b.pricePerPlugin);
+
+const breadcrumbLD = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://plugindrop.net/" },
+    { "@type": "ListItem", "position": 2, "name": "Plugin Bundle Price Comparison" },
+  ],
+};
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead
+      title={`Plugin Bundle Price Comparison 2026 — Cost Per Plugin Ranked | ${SITE_TITLE}`}
+      description="Compare 12 major plugin bundles by price per plugin: FabFilter, NI Komplete, iZotope, Arturia, Waves, Soundtoys. Updated 2026 pricing with affiliate links."
+    />
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLD)} />
+    <style>
+      main { max-width: 1100px; margin: 0 auto; padding: 2rem 1rem; }
+      .page-header { margin-bottom: 2.5rem; max-width: 700px; }
+      .page-header h1 { font-size: 1.8rem; font-weight: 800; margin: 0 0 0.75rem; line-height: 1.2; }
+      .page-header p { color: var(--text-secondary); margin: 0; line-height: 1.6; }
+
+      .updated { font-size: 0.8rem; color: var(--text-muted); margin-top: 0.5rem; }
+
+      /* Filter tabs */
+      .filter-bar { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
+      .filter-btn {
+        padding: 0.35rem 0.85rem; border-radius: 20px; border: 1px solid var(--border);
+        background: transparent; color: var(--text-secondary); font-size: 0.85rem;
+        cursor: pointer; transition: all 0.15s;
+      }
+      .filter-btn:hover, .filter-btn.active {
+        background: var(--accent); color: #000; border-color: var(--accent);
+      }
+
+      /* Table */
+      .bundle-table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
+      .bundle-table th {
+        text-align: left; padding: 0.6rem 0.75rem; border-bottom: 2px solid var(--border);
+        color: var(--text-muted); font-size: 0.75rem; text-transform: uppercase;
+        letter-spacing: 0.05em; white-space: nowrap;
+      }
+      .bundle-table th.sortable { cursor: pointer; user-select: none; }
+      .bundle-table th.sortable:hover { color: var(--accent); }
+      .bundle-table td { padding: 0.75rem 0.75rem; border-bottom: 1px solid var(--border); vertical-align: middle; }
+      .bundle-table tr:hover td { background: rgba(255,255,255,0.02); }
+
+      .bundle-name { font-weight: 600; color: var(--text-primary); display: block; margin-bottom: 0.25rem; }
+      .bundle-maker { color: var(--text-muted); font-size: 0.8rem; }
+      .bundle-highlight { color: var(--text-secondary); font-size: 0.82rem; max-width: 280px; }
+
+      .price-col { text-align: right; font-variant-numeric: tabular-nums; }
+      .price-main { font-weight: 700; color: var(--text-primary); }
+      .price-regular { text-decoration: line-through; color: var(--text-muted); font-size: 0.8rem; }
+
+      .ppp { text-align: right; }
+      .ppp-value {
+        display: inline-block; padding: 0.2rem 0.5rem; border-radius: 4px;
+        font-weight: 700; font-variant-numeric: tabular-nums;
+      }
+      .ppp-best { background: rgba(80, 200, 120, 0.15); color: #50c878; }
+      .ppp-mid { background: rgba(255, 200, 60, 0.12); color: #ffc83c; }
+      .ppp-high { background: rgba(255, 100, 80, 0.1); color: var(--text-secondary); }
+
+      .tier-badge {
+        display: inline-block; padding: 0.15rem 0.5rem; border-radius: 3px;
+        font-size: 0.72rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em;
+      }
+      .tier-essentials { background: rgba(100, 160, 255, 0.15); color: #64a0ff; }
+      .tier-professional { background: rgba(180, 120, 255, 0.15); color: #b478ff; }
+      .tier-ultimate { background: rgba(255, 200, 60, 0.15); color: #ffc83c; }
+
+      .cta-link {
+        display: inline-block; padding: 0.35rem 0.85rem; border-radius: 5px;
+        background: var(--accent-muted); color: var(--accent-light);
+        text-decoration: none; font-size: 0.82rem; font-weight: 600;
+        white-space: nowrap; transition: background 0.15s;
+      }
+      .cta-link:hover { background: var(--accent); color: #000; }
+
+      /* Mobile scroll */
+      .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
+      /* Explainer */
+      .explainer { margin: 2.5rem 0; padding: 1.25rem 1.5rem; border-left: 3px solid var(--accent-muted); }
+      .explainer h2 { font-size: 1.1rem; margin: 0 0 0.6rem; }
+      .explainer p { color: var(--text-secondary); font-size: 0.9rem; line-height: 1.7; margin: 0 0 0.5rem; }
+      .explainer p:last-child { margin: 0; }
+
+      /* Category filter active state */
+      .bundle-row { transition: opacity 0.15s; }
+      .bundle-row.hidden { display: none; }
+    </style>
+  </head>
+  <body>
+    <a href="#main-content" class="sr-only">Skip to content</a>
+    <Header />
+    <main id="main-content">
+      <div class="page-header">
+        <h1>Plugin Bundle Price Comparison 2026</h1>
+        <p>
+          Compare 12 major plugin bundles ranked by cost per plugin.
+          FabFilter, NI Komplete, iZotope, Arturia, Waves, Soundtoys — updated for 2026.
+        </p>
+        <p class="updated">Prices confirmed May 2026 via Plugin Boutique. Sale prices not guaranteed.</p>
+      </div>
+
+      <div class="filter-bar" id="filter-bar">
+        <button class="filter-btn active" data-cat="all">All</button>
+        <button class="filter-btn" data-cat="Mixing & Mastering">Mixing</button>
+        <button class="filter-btn" data-cat="Creative FX">Creative FX</button>
+        <button class="filter-btn" data-cat="Instruments & FX">NI</button>
+        <button class="filter-btn" data-cat="Vintage Synths">Synths</button>
+        <button class="filter-btn" data-cat="All-in-One">All-in-One</button>
+        <button class="filter-btn" data-cat="Mixing">Waves</button>
+      </div>
+
+      <div class="table-wrap">
+        <table class="bundle-table" id="bundle-table">
+          <thead>
+            <tr>
+              <th>Bundle</th>
+              <th>Category</th>
+              <th class="price-col">Price</th>
+              <th class="price-col sortable" data-col="plugins" title="Sort by plugin count">Plugins</th>
+              <th class="ppp sortable" data-col="ppp" title="Sort by price per plugin">$/plugin ↑</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody>
+            {bundlesWithPPP.map((b) => (
+                <tr class="bundle-row" data-cat={b.category}>
+                  <td>
+                    <span class="bundle-name">{b.name}</span>
+                    <span class="bundle-maker">{b.maker}</span>
+                  </td>
+                  <td>
+                    <span class={`tier-badge tier-${b.tier}`}>{b.tier}</span>
+                  </td>
+                  <td class="price-col">
+                    {b.salePrice ? (
+                      <Fragment>
+                        <span class="price-main">${b.salePrice}</span>
+                        <br />
+                        <span class="price-regular">${b.regularPrice}</span>
+                      </Fragment>
+                    ) : (
+                      <span class="price-main">${b.regularPrice}</span>
+                    )}
+                  </td>
+                  <td class="price-col">{b.plugins}</td>
+                  <td class="ppp">
+                    <span class={`ppp-value ${b.pppClass}`}>${b.pricePerPlugin}</span>
+                  </td>
+                  <td>
+                    <a href={b.pbUrl} class="cta-link" target="_blank" rel="noopener sponsored">
+                      View Deal
+                    </a>
+                  </td>
+                </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+
+      <div class="explainer">
+        <h2>How to Use This Table</h2>
+        <p>
+          <strong>$/plugin</strong> divides the bundle price by the number of included plugins.
+          Lower is better — but plugin count alone doesn't tell the full story.
+          A bundle with 3 flagship synths at $15/plugin may deliver more value than
+          one with 130 samples at $4/plugin.
+        </p>
+        <p>
+          <strong>Tier labels:</strong> Essentials = beginner-friendly starting points.
+          Professional = working producer staples. Ultimate = full studio stacks.
+        </p>
+        <p>
+          All links go to Plugin Boutique, which often runs bundles at 30–60% off.
+          <a href="/about#affiliate">Affiliate disclosure</a>.
+        </p>
+      </div>
+
+      <div class="explainer">
+        <h2>Which Bundle Should You Buy?</h2>
+        <p>
+          <strong>Just starting out:</strong> Waves Gold ($399, 36 plugins, $11/plugin) covers every basic mixing need.
+          Alternatively, FabFilter Creative Bundle if you focus on sound design.
+        </p>
+        <p>
+          <strong>Mixing & mastering focus:</strong> FabFilter Total Bundle or iZotope Music Production Suite 6.
+          Both cover EQ, compression, limiting, and mid-side processing at a professional level.
+        </p>
+        <p>
+          <strong>Instrument-heavy producers:</strong> NI Komplete 15 Standard is the clearest value —
+          38 instruments and effects including Kontakt 7 and Massive X for $599.
+        </p>
+        <p>
+          <strong>Vintage synth players:</strong> Arturia V Collection 10 at $499 for 33 vintage keyboard
+          emulations is unmatched for keys-based production.
+        </p>
+      </div>
+
+      <p style="margin-top: 2rem;">
+        <a href="/posts?filter=guide" style="color: var(--accent);">→ Browse all plugin guides</a>
+      </p>
+    </main>
+    <Footer />
+
+    <script>
+      // Category filter
+      const filterBar = document.getElementById('filter-bar');
+      const rows = document.querySelectorAll('.bundle-row');
+
+      filterBar?.addEventListener('click', (e: Event) => {
+        const btn = (e.target as HTMLElement).closest('[data-cat]') as HTMLElement | null;
+        if (!btn) return;
+        const cat = btn.dataset.cat ?? 'all';
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        rows.forEach(row => {
+          const el = row as HTMLElement;
+          if (cat === 'all' || el.dataset.cat === cat) {
+            el.classList.remove('hidden');
+          } else {
+            el.classList.add('hidden');
+          }
+        });
+      });
+
+      // Sort by $/plugin or plugins
+      document.querySelectorAll('th.sortable').forEach(th => {
+        th.addEventListener('click', () => {
+          const col = (th as HTMLElement).dataset.col;
+          const tbody = document.querySelector('#bundle-table tbody');
+          if (!tbody) return;
+          const rowsArr = Array.from(tbody.querySelectorAll('tr'));
+          rowsArr.sort((a, b) => {
+            if (col === 'ppp') {
+              const valA = parseInt(a.querySelector('.ppp-value')?.textContent?.replace('$', '') ?? '999');
+              const valB = parseInt(b.querySelector('.ppp-value')?.textContent?.replace('$', '') ?? '999');
+              return valA - valB;
+            }
+            if (col === 'plugins') {
+              const valA = parseInt(a.querySelectorAll('td')[3]?.textContent ?? '0');
+              const valB = parseInt(b.querySelectorAll('td')[3]?.textContent ?? '0');
+              return valB - valA;
+            }
+            return 0;
+          });
+          rowsArr.forEach(r => tbody.appendChild(r));
+        });
+      });
+    </script>
+  </body>
+</html>
