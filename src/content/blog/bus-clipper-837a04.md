@@ -6,7 +6,7 @@ tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17137-Bus-Clipper?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bus-clipper-837a04"
 heroImage: "/images/bus-clipper-837a04.jpg"
 score: 7.55
-dealPrice: "$49.50"
+dealPrice: "$19.80"
 originalPrice: "$99.00"
 discount: "50% OFF"
 xText: "50% off bus clipper — lowest i've ever seen it drop. good bus clipper is the difference between 'sounds loud' and 'actually professional.' this sits in a mix like butter."
@@ -60,9 +60,9 @@ A 50% discount is a meaningful cut for a single-purpose dynamics tool. Dedicated
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Sonnox Oxford Clipper | Check product page | Part of a broader dynamics suite; more brand recognition in broadcast/post workflows |
-| Newfangled Audio Saturate | Check product page | Combines clipping with saturation for a more colored, harmonic character |
-| FabFilter Pro-L 2 | Check product page | Full-featured limiter with optional soft clipping; broader tool with higher price |
+| Sonnox Oxford Clipper | $19.80 | Part of a broader dynamics suite; more brand recognition in broadcast/post workflows |
+| Newfangled Audio Saturate | $19.80 | Combines clipping with saturation for a more colored, harmonic character |
+| FabFilter Pro-L 2 | $19.80 | Full-featured limiter with optional soft clipping; broader tool with higher price |
 
 If your goal is a clean, transparent clip ceiling with minimal character, a dedicated clipper like Bus Clipper is the right category of tool. If you want harmonic saturation alongside peak control, Saturate or other hybrid options cover more ground.
 

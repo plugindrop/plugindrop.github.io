@@ -5,7 +5,7 @@ pubDate: "2026-04-20T04:25:34Z"
 tags: ["sale", "vst-plugin", "serum", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/shamanstems-witch-house-hip-hop-serum-presets/?a_aid=plugindrop&utm_source=affiliate-bot&utm_medium=article&utm_campaign=shamanstems-witch-house-hip-hop-serum-presets-adsr-deal"
 score: 7.92
-dealPrice: "$25"
+dealPrice: "$19.95"
 originalPrice: "$179.77"
 discount: "86% OFF"
 heroImage: "/images/shamanstems-witch-house-hip-hop-serum-presets-adsr-deal.jpg"
@@ -50,7 +50,7 @@ Witch house as a genre occupies a niche but dedicated corner of the production c
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
-| Check product page | Check product page | Check product page |
+| $19.95 | $19.95 | $19.95 |
 
 Pricing on ADSR Sounds can shift with promotions and limited-time deals. ADSR runs sales and discounts regularly throughout the year, so this is worth monitoring if you're on the fence.
 

@@ -4,7 +4,7 @@ description: "Chord Dock Lite v1.5 is a free reharmonization and arpeggio/bassli
 pubDate: "2026-04-27T10:40:26Z"
 tags: ["free", "k2get", "music-production"]
 affiliate: "https://k2get.github.io/chord-dock-site/index.en.html"
-heroImage: "/images/k2get-k2get-has-updated-chord-dock-lite-a-free-reharmonizati.jpg"
+heroImage: "/images/k2get-k2get-has-updated-chord-dock-lite-a-free-reharmonizati.png"
 score: 8.45
 dealPrice: "FREE"
 xText: "chord dock lite just hit v1.5 (free). the reharmonization on this is actually insane. arpeggio + bassline generation too. mac & win."

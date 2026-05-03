@@ -4,7 +4,7 @@ description: "Aha Sound's Everything Bundle is currently priced at **$25**, down
 pubDate: "2026-04-27T11:24:50Z"
 tags: ["aha sound", "bundle", "music-production"]
 affiliate: "https://audioplugin.deals/product/everything-bundle-by-aha-sound/ref/21/"
-heroImage: "/images/aha-sound-get-88-off-everything-bundle-by-aha-sound-for-25-0.jpg"
+heroImage: "/images/aha-sound-get-88-off-everything-bundle-by-aha-sound-for-25-0.png"
 score: 4.80
 dealPrice: "$25"
 originalPrice: "$215"

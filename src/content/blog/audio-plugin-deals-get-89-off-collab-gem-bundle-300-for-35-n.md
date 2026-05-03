@@ -4,7 +4,7 @@ description: "The Collab Gem Bundle 300 is currently on sale for $35 — down fr
 pubDate: "2026-04-29T17:52:42Z"
 tags: ["audio plugin deals", "bundle", "music-production"]
 affiliate: "https://audioplugin.deals/product/collab-gem-bundle-300/ref/21/"
-heroImage: "/images/audio-plugin-deals-get-89-off-collab-gem-bundle-300-for-35-n.jpg"
+heroImage: "/images/audio-plugin-deals-get-89-off-collab-gem-bundle-300-for-35-n.png"
 score: 4.80
 dealPrice: "$35"
 originalPrice: "$300"

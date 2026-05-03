@@ -9,7 +9,7 @@ aiImage: true
 score: 7.66
 dealPrice: "FREE"
 xText: "the martinic ax73 is free right now. full 100% off on something people normally pay for. grab it before this deal dies"
-draft: false
+draft: true
 ---
 **TL;DR:** The Martinic AX73 Lucid Mechanics Collection is currently free via Martinic's Bandcamp store — grab a preset expansion for the AX73 vintage synthesizer emulation at no cost. No original price is listed, making this a straightforward free add-on for existing or new AX73 users. [→ Get the Lucid Mechanics Collection at Martinic](https://www.martinic.com/bandcamp)
 

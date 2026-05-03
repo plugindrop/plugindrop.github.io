@@ -6,7 +6,7 @@ pubDate: '2026-04-14T10:02:50Z'
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY?utm_source=plugindrop&utm_medium=article&utm_campaign=dandy-plugin-boutique-deal-f167a6&a_aid=69cb95abe1763
 heroImage: /images/dandy-plugin-boutique-deal-f167a6.jpg
-dealPrice: "$9.00"
+dealPrice: "$19.80"
 originalPrice: "$119.00"
 discount: "92% OFF"
 draft: false
@@ -60,7 +60,7 @@ Exact pricing shifts with active promotions. Verify current numbers on the produ
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
-| ~~Check product page~~ | Check product page | Check product page |
+| ~~$19.80~~ | $19.80 | $19.80 |
 
 Plugin Boutique runs platform-wide sales and developer-specific promos throughout the year. If you're seeing a reduced price now, it's worth acting — these windows don't always repeat on a predictable schedule.
 

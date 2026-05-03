@@ -6,7 +6,7 @@ tags: ["vst-plugin", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?search_query=release+notes&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=release-notes-54c82c"
 heroImage: "/images/release-notes-54c82c.jpg"
 score: 4.68
-draft: false
+draft: true
 ---
 **TL;DR:** Toontrack has published new release notes covering updates across their software lineup. Whether you're running EZdrummer, Superior Drummer, or any of their other instruments, these updates are worth checking. [→ Get Toontrack products at Plugin Boutique](https://www.pluginboutique.com/search?search_query=release+notes&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=release-notes-54c82c)
 

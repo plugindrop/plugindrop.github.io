@@ -5,7 +5,7 @@ pubDate: "2026-04-19T08:25:58Z"
 tags: ["sale", "music-production", "sample-pack"]
 affiliate: "https://www.adsrsounds.com/product/presets/immense-sounds-halloween-horror-voices-phrases-samples-construction-kits/?a_aid=plugindrop&utm_source=plugindrop&utm_medium=article&utm_campaign=immense-sounds-halloween-horror-voices-phrases-samples-const"
 heroImage: "/images/immense-sounds-halloween-horror-voices-phrases-samples-const.jpg"
-dealPrice: "$12.57"
+dealPrice: "$13.13"
 originalPrice: "$17.95"
 discount: "30% OFF"
 score: 4.28
@@ -50,7 +50,7 @@ This is a niche, themed sample pack — community discussions around it are stil
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
-| Check product page | Check product page | Check product page |
+| $13.13 | $13.13 | $13.13 |
 
 Exact pricing fluctuates — **verify current pricing directly on the product page**, as ADSR deals can update without notice. ADSR Sounds runs periodic promotions on niche sample packs, and horror-themed content often sees discounting outside of the October window when demand drops.
 

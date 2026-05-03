@@ -7,7 +7,7 @@ tags: ["sale", "soundtoys", "music-production", "bundle"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u&a_aid=69cb95abe1763
 heroImage: /images/soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u.jpg
 discount: "75% OFF"
-dealPrice: "$49.00"
+dealPrice: "$19.80"
 originalPrice: "$99.00"
 draft: false
 score: 8.16
@@ -69,9 +69,9 @@ Soundtoys runs major sales a handful of times per year — typically around seas
 
 | Item | Regular Price | Deal Price | You Save |
 |---|---|---|---|
-| Little AlterBoy | Check product page | Up to 75% off | Up to 75% |
-| Soundtoys Bundle | Check product page | Up to 75% off | Up to 75% |
-| Upgrades | Check product page | Included in sale | Varies |
+| Little AlterBoy | $19.80 | Up to 75% off | Up to 75% |
+| Soundtoys Bundle | $19.80 | Up to 75% off | Up to 75% |
+| Upgrades | $19.80 | Included in sale | Varies |
 
 > Verify current pricing on the product page — deals can change without notice and exact figures depend on your region and any existing licenses.
 

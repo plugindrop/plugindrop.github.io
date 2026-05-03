@@ -4,7 +4,7 @@ description: "GSamples Full Collection is currently available at 70% off — ~~$
 pubDate: "2026-04-29T15:18:52Z"
 tags: ["gsamples", "bundle", "music-production"]
 affiliate: "https://audioplugin.deals/product/gsamples-full-collection/ref/21/"
-heroImage: "/images/gsamples-get-70-off-gsamples-full-collection-for-149-70-norm.jpg"
+heroImage: "/images/gsamples-get-70-off-gsamples-full-collection-for-149-70-norm.png"
 score: 4.92
 dealPrice: "$149.7"
 originalPrice: "$499"

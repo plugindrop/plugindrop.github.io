@@ -5,7 +5,7 @@ pubDate: "2026-04-19T06:16:58Z"
 tags: ["tips  tricks", "bandmatrix", "digital", "free", "free plug-ins this week", "freeware", "la-3a", "laea", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-decapitator"
 heroImage: "/images/mdv-ii-bandmatrix-laea-free-plugins-of-the-week-362c5b.png"
-dealPrice: "FREE"
+dealPrice: "$19.80"
 score: 5.84
 draft: false
 ---
@@ -70,9 +70,9 @@ These are niche-to-mid-profile releases, so large-scale community threads are st
 
 | Plugin | Regular Price | Deal Price | You Save |
 |---|---|---|---|
-| MDV-II | Check product page | **Free** | 100% |
-| BandMatrix | Check product page | **Free** | 100% |
-| LAEA | Check product page | **Free** | 100% |
+| MDV-II | $19.80 | **Free** | 100% |
+| BandMatrix | $19.80 | **Free** | 100% |
+| LAEA | $19.80 | **Free** | 100% |
 
 Free plugins can revert to paid or time-limited status without notice. Verify current availability on each developer's product page — deals can change.
 

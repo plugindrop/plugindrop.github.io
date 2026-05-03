@@ -6,7 +6,7 @@ tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/139-Drum-Synth/15545-Tekno?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tekno-9055de"
 heroImage: "/images/tekno-9055de.jpg"
 score: 8.32
-dealPrice: "$79.00"
+dealPrice: "$19.80"
 originalPrice: "$129.00"
 discount: "39% OFF"
 xText: "39% off tekno fresh release is wild. new synths don't usually discount this hard—grab it before the price normalizes"
@@ -55,9 +55,9 @@ Baby Audio doesn't discount aggressively on a regular schedule — a 39% drop is
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Kick 2 (Sonic Academy) | Check product page | Dedicated kick drum synthesizer only — not a full kit |
-| Microtonic (Sonic Charge) | Check product page | Classic pattern-based drum synth with a longer track record |
-| DrumComputer (Sugar Bytes) | Check product page | Modular drum synthesis with a more visual, step-sequencer-forward interface |
+| Kick 2 (Sonic Academy) | $19.80 | Dedicated kick drum synthesizer only — not a full kit |
+| Microtonic (Sonic Charge) | $19.80 | Classic pattern-based drum synth with a longer track record |
+| DrumComputer (Sugar Bytes) | $19.80 | Modular drum synthesis with a more visual, step-sequencer-forward interface |
 
 If you need a full-kit synthesis solution with per-voice effects and modern analog modeling, Tekno covers the most ground. Kick 2 is the right pick if you specifically need precision kick engineering and nothing else.
 

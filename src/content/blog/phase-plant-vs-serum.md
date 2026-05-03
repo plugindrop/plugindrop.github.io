@@ -4,7 +4,7 @@ description: "Serum wins for producers who want industry-standard wavetable synt
 pubDate: "2026-05-10T02:10:19Z"
 tags: ["guide", "vst", "instruments", "alternatives", "synth"]
 affiliate: ""
-heroImage: "/images/phase-plant-vs-serum.jpg"
+heroImage: "/images/phase-plant-vs-serum.png"
 evergreen: true
 score: 8.00
 xText: "New guide: Phase Plant vs Serum: Which Wavetable Synth Wins for Sound D..."

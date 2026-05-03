@@ -6,7 +6,7 @@ pubDate: '2026-04-17T13:58:57Z'
 tags: ["sale", "music-production"]
 affiliate: https://www.adsrsounds.com/product/presets/shamanstems-the-eerie-beats-samples-loops/?utm_source=plugindrop&utm_medium=article&utm_campaign=shamanstems-the-eerie-beats-samples-loops-adsr-deal-ee65b6
 heroImage: /images/shamanstems-the-eerie-beats-samples-loops-adsr-deal-ee65b6.jpg
-dealPrice: "$25"
+dealPrice: "$16.95"
 originalPrice: "$179.77"
 discount: "86% OFF"
 draft: false
@@ -53,7 +53,7 @@ Exact pricing changes frequently on ADSR Sounds' deal platform — verify the cu
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
-| Check product page | Check product page | Check product page |
+| $16.95 | $16.95 | $16.95 |
 
 ADSR Sounds runs rotating deals on sample content regularly, and pricing windows can close without notice. If this pack is on your radar, don't wait on it.
 

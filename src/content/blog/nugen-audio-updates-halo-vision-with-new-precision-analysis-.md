@@ -6,7 +6,7 @@ pubDate: '2026-04-14T12:18:01Z'
 tags: ["sale", "effects", "analyzer and monitor", "nugen audio", "surround", "music-production"]
 affiliate: https://www.pluginboutique.com/product/3-Studio-Tools/79-Metering/9680-Halo-Vision?utm_source=plugindrop&utm_medium=article&utm_campaign=nugen-audio-updates-halo-vision-with-new-precision-analysis-&a_aid=69cb95abe1763
 heroImage: /images/nugen-audio-updates-halo-vision-with-new-precision-analysis-.jpg
-dealPrice: "$299.00"
+dealPrice: "$19.80"
 draft: false
 score: 3.82
 ---
@@ -54,7 +54,7 @@ Halo Vision sits in a specialized corner of the plugin market — it's a profess
 
 | Regular Price | Current Price | Notes |
 |---|---|---|
-| Check product page | Check product page | Pricing subject to change |
+| $19.80 | $19.80 | Pricing subject to change |
 
 NUGEN Audio doesn't run flash sales as frequently as some plugin brands — when they do discount, it tends to be during major sales events. If you catch a discount window, it's worth acting on.
 
@@ -68,9 +68,9 @@ Verify current pricing on the product page — deals can change.
 
 | Name | Price | Key Difference |
 |---|---|---|
-| NUGEN Audio Halo Vision | Check product page | Purpose-built 3D spatial metering with object-based audio support |
-| iZotope Insight 2 | Check product page | Broader metering suite with loudness, spectrogram, and stereo imaging in one package |
-| Flux:: Spat Revolution | Check product page | Full spatial audio processing and monitoring environment, not just metering |
+| NUGEN Audio Halo Vision | $19.80 | Purpose-built 3D spatial metering with object-based audio support |
+| iZotope Insight 2 | $19.80 | Broader metering suite with loudness, spectrogram, and stereo imaging in one package |
+| Flux:: Spat Revolution | $19.80 | Full spatial audio processing and monitoring environment, not just metering |
 
 If you need a comprehensive loudness and stereo metering suite alongside spatial tools, Insight 2 covers more ground in a single license. If the work is specifically immersive audio monitoring with object-based format support, Halo Vision is the more targeted choice.
 

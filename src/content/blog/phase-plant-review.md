@@ -4,7 +4,7 @@ description: "Phase Plant by Kilohearts is the most architecturally flexible syn
 pubDate: "2026-05-02T02:10:19Z"
 tags: ["guide", "vst", "instruments", "review"]
 affiliate: ""
-heroImage: "/images/phase-plant-review.jpg"
+heroImage: "/images/phase-plant-review.png"
 evergreen: true
 score: 8.00
 xText: "New guide: Phase Plant Review: The Most Flexible Synth for Sound Design..."

@@ -6,7 +6,7 @@ pubDate: '2026-04-14T23:26:37Z'
 tags: ["free", "instruments", "audio blast", "clap", "drum machine", "drums", "sale", "music-production"]
 affiliate: https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/17144-MininnDrum2?utm_source=plugindrop&utm_medium=article&utm_campaign=audio-blast-releases-mininndrum-2-virtual-drum-instrument&a_aid=69cb95abe1763
 heroImage: /images/audio-blast-releases-mininndrum-2-virtual-drum-instrument.jpg
-dealPrice: "$53.9"
+dealPrice: "$19.80"
 originalPrice: "$108.9"
 discount: "51% OFF"
 draft: false
@@ -54,7 +54,7 @@ For the full, confirmed feature list, check the [official Plugin Boutique produc
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
-| Check product page | Check product page | Check product page |
+| $19.80 | $19.80 | $19.80 |
 
 Pricing and any active promotions can change frequently. Always verify the current price directly on Plugin Boutique before purchasing.
 
