@@ -7,7 +7,7 @@ affiliate: ""
 evergreen: true
 score: 8.00
 xText: "New guide: 12 Best Reverb Plugins for Music Production in 2026 (Free & ..."
-draft: false
+draft: true
 ---
 **TL;DR:** Valhalla VintageVerb at $50 is the most-recommended algorithmic reverb under $100 across producer communities — it punches well above its price class and the community consensus on this is unusually strong. FabFilter Pro-R 2 is the precision choice for mixing engineers who need frequency-dependent decay control. If budget is a constraint, Valhalla Supermassive is free and genuinely holds its own against paid options for ambient and atmospheric production.
 

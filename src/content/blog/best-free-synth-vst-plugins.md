@@ -8,7 +8,7 @@ evergreen: true
 heroImage: "/images/best-free-synth-vst-plugins.jpg"
 score: 8.00
 xText: "New guide: 14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analo..."
-draft: false
+draft: true
 ---
 
 
