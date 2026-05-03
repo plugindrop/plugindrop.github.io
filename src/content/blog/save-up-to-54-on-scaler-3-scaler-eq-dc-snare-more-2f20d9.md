@@ -10,7 +10,7 @@ saleExpiry: '2026-04-12'
 discount: "54% OFF"
 dealPrice: "$99.00"
 originalPrice: "$215.22"
-draft: false
+draft: true
 score: 6.26
 ---
 

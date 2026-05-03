@@ -10,7 +10,7 @@ dealPrice: "$42.9"
 originalPrice: "~~$75.9~~"
 discount: "43% OFF"
 saleExpiry: "2026-04-30"
-draft: false
+draft: true
 ---
 **TL;DR:** Cherry Audio's P-10 Synthesizer is currently 43% off at Plugin Boutique — a solid window to pick up a polyphonic powerhouse at a significantly reduced price. Check the current sale price (~~full MSRP~~) and grab it at [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the) before it expires.
 

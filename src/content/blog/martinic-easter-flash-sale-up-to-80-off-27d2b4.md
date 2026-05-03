@@ -10,7 +10,7 @@ heroImage: /images/martinic-easter-flash-sale-up-to-80-off-27d2b4.webp
 saleExpiry: '2026-04-13'
 aiImage: true
 discount: "80% OFF"
-draft: false
+draft: true
 score: 2.66
 ---
 

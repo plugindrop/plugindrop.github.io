@@ -9,7 +9,7 @@ score: 7.80
 dealPrice: "€39"
 saleExpiry: "2026-04-30"
 xText: "2B Crushed from 2B Played is free. code CRUSH26 = $0. grab this if you make music"
-draft: false
+draft: true
 ---
 **TL;DR:** 2B Crushed by 2B Played Music normally sells for ~~$55~~, currently discounted to $24.75 — and with coupon **CRUSH26** at checkout, it drops to **completely free**. [Claim it here](https://2bplayed.com/product/2b-crushed/) while the code is active.
 

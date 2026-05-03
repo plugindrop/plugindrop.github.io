@@ -9,7 +9,7 @@ score: 4.44
 dealPrice: "$15"
 saleExpiry: "2026-04-30"
 xText: "69% off on a plugin that's usually untouchable on price. harrison's multi-band compressor does something weird—it controls without sounding like it's controlling"
-draft: false
+draft: true
 ---
 **TL;DR:** Harrison Audio's Multi-Band Compressor is down to just $15 — that's 69% off the regular price. If you've been waiting to add a multiband compressor from a legendary console brand to your toolkit, now is a rare opportunity. [Grab it directly from Harrison Audio.](https://store.harrisonaudio.com/all-products/multiband-compressor)
 

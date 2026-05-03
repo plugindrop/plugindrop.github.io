@@ -11,7 +11,7 @@ discount: "50% OFF"
 saleExpiry: "2026-05-01"
 xText: "synthmaster spring sale just dropped to 50% off. this synth practically never goes on sale so if you've been eyeing it, now's actually the moment. oscillators are butter for ambient and experimental work."
 heroImage: "/images/kv331-audio-kv331-audio-spring-sale-up-to-50-off-on-synthmas.jpg"
-draft: false
+draft: true
 ---
 **TL;DR:** KV331 Audio's Spring Sale drops select Synthmaster synths and expansions to ~~$24.99~~ **$19.99**, with the broader sale reaching up to 50% off across the catalog. If Synthmaster has been on your watchlist, seasonal sales like this are the best entry points KV331 runs all year. [Browse the full Spring Sale at KV331 Audio](https://www.kv331audio.com/index.aspx).
 

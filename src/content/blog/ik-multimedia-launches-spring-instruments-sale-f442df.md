@@ -8,7 +8,7 @@ affiliate: https://www.pluginboutique.com/manufacturers/410-IK-Multimedia?a_aid=
 heroImage: /images/ik-multimedia-launches-spring-instruments-sale-f442df.jpg
 dealPrice: "$29.99"
 saleExpiry: '2026-04-30'
-draft: false
+draft: true
 score: 3.22
 ---
 

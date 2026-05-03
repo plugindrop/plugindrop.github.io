@@ -11,7 +11,7 @@ originalPrice: "$2500"
 discount: "60% OFF"
 saleExpiry: "2026-05-02"
 xText: "fourteen bucks for two golden screw studio packs. they usually run way higher per unit. this won't last — grab it."
-draft: false
+draft: true
 ---
 **TL;DR:** Golden Screw Studio is running a "spend $14, get 1 free pack" promo — one of the lowest spend-to-free ratios in the sample market right now. A larger bundle is also on offer at ~~$2,500~~ $999, cutting over $1,500 off the full catalog price. [Browse the current deals here.](https://goldenscrewstudio.com/product-category/deals/)
 

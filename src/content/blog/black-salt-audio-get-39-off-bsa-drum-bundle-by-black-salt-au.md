@@ -11,7 +11,7 @@ originalPrice: "$146"
 discount: "39% OFF"
 saleExpiry: '2026-04-30'
 aiImage: true
-draft: false
+draft: true
 score: 5.93
 ---
 **TL;DR:** The BSA Drum Bundle by Black Salt Audio is currently **39% off at $89** (regularly ~$146) on Plugin Boutique — saving you roughly $57 on three focused drum processing plugins. The deal runs until **April 30, 2026**. [Grab it here while it's live.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13453-BSA-Drum-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=black-salt-audio-get-39-off-bsa-drum-bundle-by-black-salt-au&a_aid=69cb95abe1763)

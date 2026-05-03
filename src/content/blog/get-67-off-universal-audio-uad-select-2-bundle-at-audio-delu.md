@@ -10,7 +10,7 @@ dealPrice: "$49"
 discount: "67% OFF"
 saleExpiry: "2026-04-30"
 xText: "67% off the uad select 2 bundle. 1176, neve 1073, this is what it looks like when the bundle value actually works out."
-draft: false
+draft: true
 ---
 **TL;DR:** Universal Audio's UAD Select 2 Bundle is currently **67% off at Audio Deluxe**, dropping to just **$49**. That's a serious discount on a plugin collection from one of the most respected names in professional audio. [Grab the deal at Audio Deluxe](https://audiodeluxe.com/collections/software/products/universal-audio-uad-select-2-bundle) before the price reverts.
 

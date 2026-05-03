@@ -9,7 +9,7 @@ aiImage: true
 score: 6.00
 saleExpiry: "2026-04-28"
 xText: "slate tools almost never hit 50%. new bus clipper did. their mastering compression just dropped to half price."
-draft: false
+draft: true
 ---
 **TL;DR:** Slate Digital just launched Bus Clipper, a new dedicated clipping plugin for Windows and Mac — available at 50% off its regular price as an intro deal. Verify current pricing on the product page. If you've been looking for a purpose-built clipper from one of mixing's most trusted plugin brands, [now is the time to grab it](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17137-Bus-Clipper?a_aid=69cb95abe1763).
 

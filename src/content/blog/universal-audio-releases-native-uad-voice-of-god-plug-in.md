@@ -11,7 +11,7 @@ originalPrice: "$99"
 discount: "51% OFF"
 saleExpiry: '2026-04-30'
 aiImage: true
-draft: false
+draft: true
 score: 5.18
 ---
 

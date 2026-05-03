@@ -9,7 +9,7 @@ affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Inst
 heroImage: /images/uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c.png
 saleExpiry: '2026-04-20'
 discount: "66% OFF"
-draft: false
+draft: true
 score: 4.25
 dealPrice: "$99"
 originalPrice: "$299"

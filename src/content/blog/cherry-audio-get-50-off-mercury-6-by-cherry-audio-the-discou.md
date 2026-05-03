@@ -10,7 +10,7 @@ dealPrice: "$31.9"
 originalPrice: "~~$64.9~~"
 discount: "51% OFF"
 saleExpiry: "2026-04-30"
-draft: false
+draft: true
 ---
 **TL;DR:** Cherry Audio's Mercury-6 Jupiter-6 emulation is currently 50% off at Plugin Boutique — a solid window to pick up a well-regarded vintage poly synth plugin at half price. Check the exact sale and ~~full price~~ discounted price on the [Plugin Boutique product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou) — deals like this don't stick around indefinitely.
 

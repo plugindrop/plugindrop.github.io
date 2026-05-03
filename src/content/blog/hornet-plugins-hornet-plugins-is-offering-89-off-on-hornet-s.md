@@ -9,7 +9,7 @@ score: 4.44
 dealPrice: "$59.99"
 saleExpiry: "2026-05-01"
 xText: "hornet samp just hit an all-time low: 89% off. mastering bus that sits in a mix like butter, atmos-ready. this price won't last. code SAMP89"
-draft: false
+draft: true
 ---
 **TL;DR:** HoRNet Plugins is running an 89% flash sale on HoRNet SAMP, their master bus plugin built for Dolby Atmos and spatial audio mixing — bringing the price down to just **$59.99** with code **SAMP89**. The deal expires May 1st. [Grab it here.](https://www.hornetplugins.com/plugins/hornet-samp/)
 

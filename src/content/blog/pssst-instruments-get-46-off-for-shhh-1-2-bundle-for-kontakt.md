@@ -11,7 +11,7 @@ originalPrice: "$238"
 discount: "46% OFF"
 saleExpiry: "2026-04-30"
 xText: "shhh 1+2 bundle at 46% off – the per-unit math is what gets me. rarely see pssst this discounted. if you're building ambience, this hits."
-draft: false
+draft: true
 ---
 **TL;DR:** The Shhh 1+2 Bundle by Pssst Instruments is currently **46% off** — drop from ~~$238~~ to **$128**, saving you $110 on two Kontakt instruments in one shot. That breaks down to roughly $64 per instrument, which is strong value for boutique sample content. [Grab the bundle here](https://pssst-instruments.com/shhh_series_pack/).
 

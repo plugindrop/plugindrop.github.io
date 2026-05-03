@@ -9,7 +9,7 @@ heroImage: /images/luftrum-spring-sale-save-up-to-50-cf2a7a.webp
 saleExpiry: '2026-04-30'
 aiImage: true
 discount: "50% OFF"
-draft: false
+draft: true
 score: 2.8
 ---
 

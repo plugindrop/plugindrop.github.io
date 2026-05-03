@@ -10,7 +10,7 @@ originalPrice: "$159.00"
 discount: "69% OFF"
 score: 8.16
 saleExpiry: "2026-04-30"
-draft: false
+draft: true
 ---
 **TL;DR:** Softube's Model 80 Five Voice Synthesizer is **69% off** at Plugin Boutique — ~~$159.00~~ **$49.00** until Apr 30. A rare deep discount on a classic-inspired five-voice polyphonic synth. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763)
 

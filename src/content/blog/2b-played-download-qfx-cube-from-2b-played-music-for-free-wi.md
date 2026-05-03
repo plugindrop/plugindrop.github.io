@@ -9,7 +9,7 @@ heroImage: /images/2b-played-download-qfx-cube-from-2b-played-music-for-free-wi.
 aiImage: true
 dealPrice: "FREE"
 saleExpiry: "2026-04-20"
-draft: false
+draft: true
 score: 1.41
 ---
 **TL;DR:** QFX Cube by 2B Played Music — a creative reflection effect plugin that blends reverb and delay — is normally ~~€19.00~~ but right now it's **completely FREE** with coupon code **SPRING26**. Deal expires April 20th. [Grab it here before it's gone.](https://2bplayed.com/product/qfx-cube/)

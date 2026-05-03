@@ -338,18 +338,18 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 
 | Plugin | Price | Type | Highlights | Get It |
 |--------|-------|------|------------|--------|
-| Vital | Free | Wavetable | Spectral warping, drag-and-drop mod, built-in FX | [Official Site](https://u-he.com/products/hive/) |
-| Surge XT | Free | Hybrid | Multiple oscillator modes, deep modulation, open source | [Official Site](https://u-he.com/products/hive/) |
-| Dexed | Free | FM (6-op) | DX7 SysEx compatible, 6-operator FM engine | [Official Site](https://u-he.com/products/hive/) |
+| Vital | Free | Wavetable | Spectral warping, drag-and-drop mod, built-in FX | [Official Site](https://vital.audio/) |
+| Surge XT | Free | Hybrid | Multiple oscillator modes, deep modulation, open source | [Official Site](https://surge-synthesizer.github.io/) |
+| Dexed | Free | FM (6-op) | DX7 SysEx compatible, 6-operator FM engine | [Official Site](https://asb2m10.github.io/dexed/) |
 | ZynAddSubFX | Free | Additive / Subtractive | PADsynth engine, deep harmonic control | [Developer](https://zynaddsubfx.sourceforge.io/) |
-| OB-Xd | Free | Virtual Analog | Oberheim filter, 12-voice polyphony, AAX support | [Official Site](https://u-he.com/products/hive/) |
-| Helm | Free | Analog Hybrid | Step sequencer, visual modulation, beginner-friendly | [Official Site](https://u-he.com/products/hive/) |
-| Tyrell N6 | Free | Virtual Analog | u-he analog character, warm filter | [Official Site](https://u-he.com/products/hive/) |
-| TAL-NoiseMaker | Free | Virtual Analog | 3 oscillators, onboard FX, easiest to learn | [Official Site](https://u-he.com/products/hive/) |
-| Synth1 | Free | Virtual Analog | 100,000+ community presets, Nord-inspired | [Free Download](https://u-he.com/products/hive/) |
+| OB-Xd | Free | Virtual Analog | Oberheim filter, 12-voice polyphony, AAX support | [Official Site](https://www.discodsp.com/obxd/) |
+| Helm | Free | Analog Hybrid | Step sequencer, visual modulation, beginner-friendly | [Official Site](https://tytel.org/helm/) |
+| Tyrell N6 | Free | Virtual Analog | u-he analog character, warm filter | [Official Site](https://u-he.com/products/tyrelln6/) |
+| TAL-NoiseMaker | Free | Virtual Analog | 3 oscillators, onboard FX, easiest to learn | [Official Site](https://tal-software.com/products/tal-noisemaker) |
+| Synth1 | Free | Virtual Analog | 100,000+ community presets, Nord-inspired | [Free Download](https://daichilab.sakura.ne.jp/softsynth/index.html) |
 | Charlatan | Free | Virtual Analog | Simple, stable, clean two-oscillator patches | [Developer](https://www.blaukraut.info//) |
 | Podolski | Free | Virtual Analog | ZDF filter, ultra-low CPU, u-he quality | [Free Download](https://u-he.com/products/podolski/) |
-| Odin2 | Free | Multi-Synthesis | 6 oscillator modes, semi-modular, open source | [Free Download](https://u-he.com/products/hive/) |
+| Odin2 | Free | Multi-Synthesis | 6 oscillator modes, semi-modular, open source | [Free Download](https://thewavewarden.com/odin2/) |
 | Pendulate | Free | Chaos / Experimental | Double-pendulum oscillator, Eventide-backed | [Developer](https://www.newfangledaudio.com/pendulate) |
 | Magical8bitPlug 2 | Free | Chiptune | NES/Game Boy chip emulation, duty cycle control | [Free Download](https://ymck.net/app/magical-8bit-plug-en/) |
 
@@ -387,7 +387,7 @@ Yes. Every plugin on this list supports VST3 (for Ableton Live and FL Studio) or
 
 ## Final Thoughts
 
-For most producers in 2026, **Vital** is the only free synth you need to start — wavetable power, a visual modulation system, and a built-in effects chain in a single free download. Add **OB-Xd** for vintage analog character and **Dexed** for FM textures, and you have a production-ready synthesis toolkit before spending anything. When you are ready to invest, [Serum](https://u-he.com/products/hive/) remains the most logical paid upgrade — the ecosystem depth and wavetable editor are worth every dollar for producers working at scale.
+For most producers in 2026, **Vital** is the only free synth you need to start — wavetable power, a visual modulation system, and a built-in effects chain in a single free download. Add **OB-Xd** for vintage analog character and **Dexed** for FM textures, and you have a production-ready synthesis toolkit before spending anything. When you are ready to invest, [Serum](https://xferrecords.com/products/serum-2) remains the most logical paid upgrade — the ecosystem depth and wavetable editor are worth every dollar for producers working at scale.
 
 ---
 

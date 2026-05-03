@@ -10,7 +10,7 @@ dealPrice: "$119.00"
 originalPrice: "$199.00"
 score: 8.55
 saleExpiry: "2026-04-30"
-draft: false
+draft: true
 ---
 **TL;DR:** Minimal Audio is offering 40% off Current 2.0, their flagship synthesizer — a rare discount on one of the more technically ambitious synths released in recent years. Check the product page for exact pricing since deals shift, but this is a meaningful saving on a full-price instrument. [Grab Current 2.0 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=plugindrop&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763) before the deal expires.
 

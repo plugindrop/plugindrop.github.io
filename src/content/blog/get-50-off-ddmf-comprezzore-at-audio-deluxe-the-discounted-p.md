@@ -9,7 +9,7 @@ score: 4.40
 dealPrice: "$39.5"
 saleExpiry: "2026-04-29"
 xText: "comprezzore just hit 50% at audio deluxe. transparent comp you'll use on everything from vocals to the 2bus. the kind of utility plugin that doesn't usually discount like this."
-draft: false
+draft: true
 ---
 **TL;DR:** DDMF Comprezzore is currently 50% off at Audio Deluxe — available now for **$39.50**. The original regular price isn't displayed publicly, so verify it on the product page, but half-price is a notable entry point for a compressor from a developer with a strong reputation in the plugin space. [Grab the deal at Audio Deluxe.](https://audiodeluxe.com/collections/software/products/ddmf-comprezzore)
 

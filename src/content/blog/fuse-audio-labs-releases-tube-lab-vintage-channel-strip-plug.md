@@ -10,7 +10,7 @@ dealPrice: "$29"
 originalPrice: "$69"
 discount: "58% OFF"
 saleExpiry: '2026-05-02'
-draft: false
+draft: true
 score: 5.04
 ---
 

@@ -10,7 +10,7 @@ dealPrice: "$0"
 originalPrice: "$135"
 saleExpiry: "2026-04-23"
 xText: "function loops free ($135 normally). artist series samples you'll actually use in tracks. now's the time to grab it."
-draft: false
+draft: true
 ---
 **TL;DR:** Function Loops Artist Series Showcase — normally ~~$135~~ — is available as a **free limited-time download**. That's a full-priced, professionally produced sample collection at zero cost. [Claim your free copy now](https://audioplugin.deals/product/limited-free-download-function-loops-artist-series-showcase/ref/21/) before this offer disappears.
 
