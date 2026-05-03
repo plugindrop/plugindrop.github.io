@@ -8,7 +8,7 @@ affiliate: https://www.sweetwater.com/store/detail/Phase8LE--korg-phase8-8-voice
 heroImage: /images/my-korg-phase8-launch-edition-first-quick-test-75e13d.webp
 aiImage: true
 dealPrice: "$1149"
-draft: false
+draft: true
 score: 3.99
 ---
 

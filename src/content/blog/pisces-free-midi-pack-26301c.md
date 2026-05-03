@@ -8,7 +8,7 @@ affiliate: https://www.diversekcox.com/products/pisces-midi-pack
 heroImage: /images/pisces-free-midi-pack-26301c.webp
 aiImage: true
 dealPrice: "FREE"
-draft: false
+draft: true
 score: 1.41
 ---
 

@@ -6,7 +6,7 @@ pubDate: '2026-04-17T09:23:34Z'
 tags: ["sale", "samples and presets", "kvass lab", "phonk", "serum", "music-production", "synth"]
 affiliate: https://kvasslab.com/products/drift-phonk-serum-2-preset-bank-soundbank
 heroImage: /images/kvass-lab-releases-drift-phonk-soundset-for-serum-2-3753c2.jpg
-draft: false
+draft: true
 score: 4.0
 ---
 **TL;DR:** KVASS Lab has dropped **Drift Phonk**, a dedicated phonk soundset built for Serum 2. If you produce phonk, trap, or Memphis-influenced beats, this is a targeted pack worth adding to your library. [Grab Drift Phonk on KVASS Lab](https://kvasslab.com/products/drift-phonk-serum-2-preset-bank-soundbank) and check the product page for current pricing.

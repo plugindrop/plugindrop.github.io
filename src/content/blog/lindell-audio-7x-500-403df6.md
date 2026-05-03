@@ -9,7 +9,7 @@ dealPrice: "$10.00"
 originalPrice: "$15.00"
 discount: "33% OFF"
 score: 6.53
-draft: false
+draft: true
 ---
 **TL;DR:** The Lindell Audio 7X-500 compressor plugin is available now at Plugin Boutique — check the current deal price (~~full price~~ → discounted) before it changes. A hardware-modeled bus compressor with serious vintage character, this is a strong pick for any mixing toolkit. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/14585-Lindell-Audio-7X-500?utm_source=plugindrop&utm_medium=article&utm_campaign=lindell-audio-7x-500-403df6&a_aid=69cb95abe1763)
 

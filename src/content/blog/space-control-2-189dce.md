@@ -9,7 +9,7 @@ heroImage: /images/space-control-2-189dce.jpg
 dealPrice: "$79.00"
 originalPrice: "$178.99"
 discount: "56% OFF"
-draft: false
+draft: true
 score: 7.74
 ---
 **TL;DR:** Space Control 2 by Acustica Audio is currently down to **$79.00** — that's ~~$178.99~~ slashed by 56%. If you've been waiting for a meaningful discount on a multiband stereo imager from a respected developer, this is worth a close look. [Grab the deal at this price here.](https://pluginplug.io/product/1679-space-control-2)

@@ -9,7 +9,7 @@ dealPrice: "$38.49"
 originalPrice: "$54.99"
 discount: "30% OFF"
 score: 5.67
-draft: false
+draft: true
 ---
 **TL;DR:** Expressive Synths 01 is a synth-focused WAV sample pack available at a deal price on ADSR Sounds. If you're building melodic, atmospheric, or electronic productions and need ready-to-use synth content, this is worth a look. [Grab it at the deal price here.](https://www.adsrsounds.com/product/wav-samples/expressive-synths-01/?utm_source=plugindrop&utm_medium=article&utm_campaign=expressive-synths-01-adsr-deal-529d86)
 
