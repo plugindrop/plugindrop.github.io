@@ -28,7 +28,7 @@ draft: false
 | Phase Plant Lite | Free | Modular synthesis exploration | [Official Site](https://kilohearts.com/products/phase_plant) |
 | ZynAddSubFX | Free | Additive/PADsynth orchestral textures | [Official Site](https://zynaddsubfx.sourceforge.io/) |
 | Phase Plant | $99 | Full modular design, no generator cap | [Free Download](https://kilohearts.com/products/phase_plant) |
-| Arturia Pigments 5 | $99 | Premium multi-engine synthesis | [Official Site](https://www.arturia.com/products/software-instruments/pigments/overview) |
+| Arturia Pigments 4 | $99 | Premium multi-engine synthesis | [Official Site](https://www.arturia.com/products/software-instruments/pigments/overview) |
 
 ---
 
@@ -144,15 +144,15 @@ ZynAddSubFX does not offer granular audio manipulation, sample import, or a mode
 
 ---
 
-### Arturia Pigments 5 — The Benchmark Multi-Engine Alternative at $99
+### Arturia Pigments 4 — The Benchmark Multi-Engine Alternative at $99
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/bpb0QLrwwEY" title="Arturia Pigments 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/bpb0QLrwwEY" title="Arturia Pigments 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** $99
-- **Why upgrade:** Pigments 5 combines wavetable, virtual analog, harmonic (additive), sample, and granular engines in one instrument — covering the synthesis breadth that Omnisphere users rely on across multiple modes. The free alternatives each cover one or two engine types well. Pigments covers all of them. Reddit's r/edmproduction community rates Pigments' modulation system and visual interface as among the most approachable multi-engine instruments at this price tier.
+- **Why upgrade:** Pigments 4 combines wavetable, virtual analog, harmonic (additive), sample, and granular engines in one instrument — covering the synthesis breadth that Omnisphere users rely on across multiple modes. The free alternatives each cover one or two engine types well. Pigments covers all of them. Reddit's r/edmproduction community rates Pigments' modulation system and visual interface as among the most approachable multi-engine instruments at this price tier.
 
-[→ Get Arturia Pigments 5](https://www.arturia.com/products/software-instruments/pigments/overview)
+[→ Get Arturia Pigments 4](https://www.arturia.com/products/software-instruments/pigments/overview)
 
 ---
 
@@ -165,7 +165,7 @@ ZynAddSubFX does not offer granular audio manipulation, sample import, or a mode
 | Phase Plant Lite | Free | Modular (2-generator cap) | Full engine quality, Snapin-compatible, visual routing | [Official Site](https://www.arturia.com/products/software-instruments/pigments/overview) |
 | ZynAddSubFX | Free | Additive / PADsynth | 128-partial additive engine, unique harmonic textures | [Official Site](https://www.arturia.com/products/software-instruments/pigments/overview) |
 | Phase Plant | $99 | Modular (full) | No generator limits, complete Snapin ecosystem | [kilohearts.com](https://kilohearts.com/products/phase_plant) |
-| Arturia Pigments 5 | $99 | Multi-engine (5 engines) | Wavetable + granular + additive + sample + analog | [Official Site](https://www.arturia.com/products/software-instruments/pigments/overview) |
+| Arturia Pigments 4 | $99 | Multi-engine (5 engines) | Wavetable + granular + additive + sample + analog | [Official Site](https://www.arturia.com/products/software-instruments/pigments/overview) |
 
 ---
 
@@ -175,7 +175,7 @@ ZynAddSubFX does not offer granular audio manipulation, sample import, or a mode
 - **If wavetable synthesis and spectral morphing are your primary workflow,** Vital's free tier is complete for sound design purposes — only the preset library expands behind the paid tiers, not the engine itself.
 - **If you prefer visual, modular signal routing** and may eventually invest in the full environment, Phase Plant Lite is the right entry point — same audio engine quality, just fewer simultaneous generators.
 - **If you need orchestral and harmonic textures that wavetable synthesis cannot produce natively,** ZynAddSubFX's PADsynth engine occupies a category with no direct free-tier competitor.
-- **If your budget reaches $99 and you want a single plugin covering the broadest synthesis range,** Arturia Pigments 5 is the community-backed upgrade — five synthesis engines in one instrument addresses what each free option covers individually.
+- **If your budget reaches $99 and you want a single plugin covering the broadest synthesis range,** Arturia Pigments 4 is the community-backed upgrade — five synthesis engines in one instrument addresses what each free option covers individually.
 
 ---
 
@@ -200,9 +200,9 @@ On macOS, AU is the native format and is generally preferred for stability withi
 
 ## Final Thoughts
 
-For producers searching for a free alternative to Omnisphere VST in 2026, **Vital and Surge XT are the two instruments to download first** — both are fully functional at the free tier, actively maintained, and carry synthesis capabilities that justify professional use. If a $99 budget is available and you need multi-engine range in a single instrument, **Arturia Pigments 5 is the community's most-cited upgrade path** and the closest single-instrument match to Omnisphere's synthesis breadth at that price point.
+For producers searching for a free alternative to Omnisphere VST in 2026, **Vital and Surge XT are the two instruments to download first** — both are fully functional at the free tier, actively maintained, and carry synthesis capabilities that justify professional use. If a $99 budget is available and you need multi-engine range in a single instrument, **Arturia Pigments 4 is the community's most-cited upgrade path** and the closest single-instrument match to Omnisphere's synthesis breadth at that price point.
 
-[→ Download Vital Free](https://vital.audio/) | [→ Download Surge XT Free](https://surge-synthesizer.github.io/) | [→ Get Arturia Pigments 5](https://www.arturia.com/products/software-instruments/pigments/overview)
+[→ Download Vital Free](https://vital.audio/) | [→ Download Surge XT Free](https://surge-synthesizer.github.io/) | [→ Get Arturia Pigments 4](https://www.arturia.com/products/software-instruments/pigments/overview)
 
 ---
 

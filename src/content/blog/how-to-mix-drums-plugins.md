@@ -1,6 +1,6 @@
 ---
 title: "How to Mix Drums with Plugins: Complete Step-by-Step Guide (2026)"
-description: "For drum mixing in 2026, FabFilter Pro-Q 4 handles the surgical EQ work that defines clarity and punch, while the Waves SSL G-Master Buss Compressor..."
+description: "For drum mixing in 2026, FabFilter Pro-Q 3 handles the surgical EQ work that defines clarity and punch, while the Waves SSL G-Master Buss Compressor..."
 pubDate: "2026-06-30T10:39:54Z"
 tags: ["guide", "vst", "drums"]
 affiliate: ""
@@ -9,7 +9,7 @@ score: 8.00
 xText: "New guide: How to Mix Drums with Plugins: Complete Step-by-Step Guide (..."
 draft: false
 ---
-**TL;DR:** For drum mixing in 2026, FabFilter Pro-Q 4 handles the surgical EQ work that defines clarity and punch, while the Waves SSL G-Master Buss Compressor delivers the bus glue that holds a kit together. Start with those two, add Transient Master for punch shaping, and grab OTT free for parallel density in electronic contexts — that chain covers every major drum mixing scenario.
+**TL;DR:** For drum mixing in 2026, FabFilter Pro-Q 3 handles the surgical EQ work that defines clarity and punch, while the Waves SSL G-Master Buss Compressor delivers the bus glue that holds a kit together. Start with those two, add Transient Master for punch shaping, and grab OTT free for parallel density in electronic contexts — that chain covers every major drum mixing scenario.
 
 ---
 
@@ -22,7 +22,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-Q 4 | $179 | Surgical EQ, resonance control | [Official Site](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in) |
+| FabFilter Pro-Q 3 | $179 | Surgical EQ, resonance control | [Official Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | Waves SSL G-Master Buss Compressor | ~$30 | Bus glue, cohesion | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | Transient Master (NI) | $49 | Kick/snare punch shaping | [Official Site](https://www.native-instruments.com/en/products/komplete/effects/transient-master/) |
 | OTT (Xfer Records) | Free | Parallel density, electronic drums | [Free Download](https://xferrecords.com/freeware) |
@@ -56,22 +56,22 @@ Each plugin in this guide occupies one of these four roles. Using them in this o
 
 Cutting before boosting is a principle that has survived every trend cycle in music production. On drums, the most damaging frequencies are the ones producers struggle to hear clearly: 200–400Hz mud on kick and snare, buildup in the 1–3kHz range on toms, and resonant peaks in room mics that turn a live-sounding kit into a washy mess.
 
-### FabFilter Pro-Q 4 — The Community's Default Choice for Drum EQ
+### FabFilter Pro-Q 3 — The Community's Default Choice for Drum EQ
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
 - **Platforms:** Windows, macOS
 - **Formats:** VST2, VST3, AU, AAX
 
-FabFilter Pro-Q 4's position as the community's go-to surgical EQ for drums comes down to two features that matter specifically in this context: the real-time spectrum analyzer with inter-plugin collision detection, and per-band dynamic EQ. r/audioengineering consistently cites the dynamic EQ capability as the decisive advantage — it lets you cut a snare's 2kHz resonance only when it's actually resonating, rather than applying a static cut that kills the snare's character on softer hits. The collision detection displays frequency content from other tracks, making it practical to EQ kick and snare *relative to each other* rather than in isolation.
+FabFilter Pro-Q 3's position as the community's go-to surgical EQ for drums comes down to two features that matter specifically in this context: the real-time spectrum analyzer with inter-plugin collision detection, and per-band dynamic EQ. r/audioengineering consistently cites the dynamic EQ capability as the decisive advantage — it lets you cut a snare's 2kHz resonance only when it's actually resonating, rather than applying a static cut that kills the snare's character on softer hits. The collision detection displays frequency content from other tracks, making it practical to EQ kick and snare *relative to each other* rather than in isolation.
 
 Developer documentation confirms linear phase mode for when phase coherence across a stereo drum bus matters, alongside a zero-latency natural phase mode for tracking or low-latency mixing scenarios.
 
 **Best for:** Kick mud removal, snare resonance control, tom high-passing, room mic cleanup
 
-[→ Get FabFilter Pro-Q 4](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in)
+[→ Get FabFilter Pro-Q 3](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in)
 
 ---
 
@@ -162,7 +162,7 @@ On acoustic drum kits, OTT in this role is less common; community discussion the
 
 - **Developer:** FabFilter
 - **Price:** Bundle pricing (varies)
-- **Why upgrade:** Pro-Q 4 alone handles EQ, but the Total Bundle adds Pro-C 2 (FabFilter's compressor), Pro-MB (multiband dynamics), and Pro-L 2 (limiter) — tools the community recommends for completing the drum bus processing chain when Pro-Q 4 is already central to the workflow.
+- **Why upgrade:** Pro-Q 3 alone handles EQ, but the Total Bundle adds Pro-C 2 (FabFilter's compressor), Pro-MB (multiband dynamics), and Pro-L 2 (limiter) — tools the community recommends for completing the drum bus processing chain when Pro-Q 3 is already central to the workflow.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763)
 
@@ -172,7 +172,7 @@ On acoustic drum kits, OTT in this role is less common; community discussion the
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| FabFilter Pro-Q 4 | $179 | EQ | Dynamic EQ, spectrum collision detection, linear phase mode | [Get It](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in) |
+| FabFilter Pro-Q 3 | $179 | EQ | Dynamic EQ, spectrum collision detection, linear phase mode | [Get It](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | Waves SSL G-Master Buss Compressor | ~$30 | Bus Compressor | SSL 4000 G emulation, Auto release, glue compression | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | Transient Master (NI) | $49 | Transient Shaper | Attack/Sustain two-knob control, internal parallel architecture | [Get It](https://www.native-instruments.com/en/products/komplete/effects/transient-master/) |
 | OTT (Xfer Records) | Free | Multiband Compressor | Upward/downward multiband, Depth blend control | [Free](https://xferrecords.com/freeware) |
@@ -183,21 +183,21 @@ On acoustic drum kits, OTT in this role is less common; community discussion the
 
 ## How to Choose
 
-- **If your kick and snare sound muddy or cluttered in the mix,** start with FabFilter Pro-Q 4's dynamic EQ on individual tracks — the spectrum collision detection will show you precisely which frequencies are conflicting with other elements before you make a single cut.
+- **If your kick and snare sound muddy or cluttered in the mix,** start with FabFilter Pro-Q 3's dynamic EQ on individual tracks — the spectrum collision detection will show you precisely which frequencies are conflicting with other elements before you make a single cut.
 - **If your drum bus sounds like separate tracks rather than a cohesive kit,** the Waves SSL G-Master Buss Compressor's Auto release mode is the fastest documented path to fixing this: 4:1 ratio, 10–20ms attack, 2–4dB of gain reduction.
 - **If your kick sounds soft or your snare lacks snap,** place Transient Master before the bus compressor and increase Attack — this is the correct workflow before reaching for more compression, which will only flatten what's already there.
 - **If you're producing electronic music and the drums sound thin or lifeless,** OTT at 30–40% Depth on a parallel return is the technique r/edmproduction most consistently recommends for density without destroyed transients.
-- **If you're already committed to the FabFilter workflow,** the Total Bundle adds the compressor and limiter to complement Pro-Q 4's EQ work — the community consistently describes Pro-C 2 and Pro-Q 4 together as a complete channel processing chain.
+- **If you're already committed to the FabFilter workflow,** the Total Bundle adds the compressor and limiter to complement Pro-Q 3's EQ work — the community consistently describes Pro-C 2 and Pro-Q 3 together as a complete channel processing chain.
 
 ---
 
 ## FAQ
 
 **Do I need all four of these plugins to mix drums?**
-No. The most common community-recommended starting point is an EQ and a bus compressor — Pro-Q 4 and the SSL G-Master cover the two most critical drum mixing functions. Transient Master and OTT address specific problems (weak transients, thin electronic drums) rather than universal needs.
+No. The most common community-recommended starting point is an EQ and a bus compressor — Pro-Q 3 and the SSL G-Master cover the two most critical drum mixing functions. Transient Master and OTT address specific problems (weak transients, thin electronic drums) rather than universal needs.
 
 **Should I EQ before or after compression when mixing drums?**
-Community consensus on r/audioengineering favors EQ before compression on individual drum tracks — so the compressor responds to an already-cleaned signal — and a second EQ after compression on the bus for tonal shaping once the dynamic behavior is set. Pro-Q 4's zero-latency and linear phase modes accommodate both positions in the chain.
+Community consensus on r/audioengineering favors EQ before compression on individual drum tracks — so the compressor responds to an already-cleaned signal — and a second EQ after compression on the bus for tonal shaping once the dynamic behavior is set. Pro-Q 3's zero-latency and linear phase modes accommodate both positions in the chain.
 
 **Is the Waves SSL G-Master Buss Compressor the same as the hardware?**
 It is a software model of the SSL 4000 G-series hardware bus compressor. KVR forum comparisons and developer documentation describe the plugin as an emulation that includes harmonic character and rounding behavior, not just the gain reduction curve. Whether it is sonically identical to any specific hardware unit is a debate the community actively continues, but its practical utility on drum buses is not disputed.
@@ -222,9 +222,9 @@ OTT is primarily documented in electronic music contexts. For live-recorded acou
 
 ## Final Thoughts
 
-The drum mixing workflow this guide covers — EQ, transient shaping, bus compression, parallel density — is the sequence the community returns to because it addresses each problem at the correct stage. FabFilter Pro-Q 4 and the Waves SSL G-Master Buss Compressor are the two tools that appear most consistently across genre-specific and general-purpose drum mixing discussions; starting there is the practical recommendation for any producer. If you're working in an electronic music context, download OTT while you're at it — the community's enthusiasm for it on parallel drum buses is proportional to how well it works.
+The drum mixing workflow this guide covers — EQ, transient shaping, bus compression, parallel density — is the sequence the community returns to because it addresses each problem at the correct stage. FabFilter Pro-Q 3 and the Waves SSL G-Master Buss Compressor are the two tools that appear most consistently across genre-specific and general-purpose drum mixing discussions; starting there is the practical recommendation for any producer. If you're working in an electronic music context, download OTT while you're at it — the community's enthusiasm for it on parallel drum buses is proportional to how well it works.
 
-[→ Get FabFilter Pro-Q 4](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in) | [→ Get Waves SSL G-Master Buss Compressor](https://www.waves.com/plugins/ssl-g-master-buss-compressor) | [→ Download OTT Free](https://xferrecords.com/freeware)
+[→ Get FabFilter Pro-Q 3](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) | [→ Get Waves SSL G-Master Buss Compressor](https://www.waves.com/plugins/ssl-g-master-buss-compressor) | [→ Download OTT Free](https://xferrecords.com/freeware)
 
 ---
 

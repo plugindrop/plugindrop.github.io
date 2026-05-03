@@ -224,15 +224,15 @@ IVGI is a harmonic saturation plugin modeled on the soft-knee saturation behavio
 
 The free toolkit above covers a complete mastering chain. These two paid tools become relevant once you've exhausted what free plugins offer — or once the scale and budget of your work justifies the investment.
 
-### iZotope Ozone 12 — AI-assisted mastering for producers who want guided workflows
+### iZotope Ozone 11 — AI-assisted mastering for producers who want guided workflows
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/lwIuaD8O61M" title="iZotope Ozone 12 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/lwIuaD8O61M" title="iZotope Ozone 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** From $49 (Elements) / $249 (Standard)
-- **Why upgrade:** The free toolkit requires you to calibrate every stage manually — there is no reference point, no automatic loudness targeting, and no integrated workflow. Ozone 12's Master Assistant analyzes your track and proposes initial settings for EQ, dynamics, and loudness targeting, which accelerates the starting point considerably. It also adds a dedicated Imager module for mid/side stereo control and a Tonal Balance reference system not available in any free tool.
+- **Why upgrade:** The free toolkit requires you to calibrate every stage manually — there is no reference point, no automatic loudness targeting, and no integrated workflow. Ozone 11's Master Assistant analyzes your track and proposes initial settings for EQ, dynamics, and loudness targeting, which accelerates the starting point considerably. It also adds a dedicated Imager module for mid/side stereo control and a Tonal Balance reference system not available in any free tool.
 
-[→ Get iZotope Ozone 12](https://www.izotope.com/en/products/ozone)
+[→ Get iZotope Ozone 11](https://www.izotope.com/en/products/ozone)
 
 ---
 
@@ -262,7 +262,7 @@ The free toolkit above covers a complete mastering chain. These two paid tools b
 | LoudMax | Free | Limiter | 2-control transparent brickwall | [Download](https://loudmax.blogspot.com/) |
 | TDR Kotelnikov | Free | Compressor | Program-dependent, mastering-tuned | [Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Klanghelm IVGI | Free | Saturation | Harmonic warmth, soft-knee | [Download](https://klanghelm.com/contents/products/IVGI/) |
-| iZotope Ozone 12 | From $49 | Suite | AI mastering, integrated workflow | [Get It](https://www.izotope.com/en/products/ozone) |
+| iZotope Ozone 11 | From $49 | Suite | AI mastering, integrated workflow | [Get It](https://www.izotope.com/en/products/ozone) |
 | FabFilter Pro-L 2 | $199 | Limiter | 8 algorithms, True Peak, pro delivery | [Get It](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) |
 
 ---
@@ -298,7 +298,7 @@ TBProAudio makes Limiter 6 GE available as a free download from their official s
 
 ## Related Guides
 
-- [iZotope Ozone 12 Review: The Best Mastering Plugin?](/posts/izotope-ozone-12-review/)
+- [iZotope Ozone 11 Review: The Best Mastering Plugin?](/posts/izotope-ozone-12-review/)
 - [FabFilter Pro-L 2 Review: Industry-Standard Limiter?](/posts/fabfilter-pro-l-2-review/)
 - [iZotope Ozone vs FabFilter Mastering: Which Wins?](/posts/izotope-ozone-vs-fabfilter-mastering/)
 - [Mastering Chain Plugins: Step-by-Step Pro Setup](/posts/mastering-chain-plugins/)

@@ -139,7 +139,7 @@ Oversampling options go up to 32x, pushing the internal noise floor below what a
 
 - **Developer:** FabFilter
 - **Price:** ~$899
-- **Why upgrade:** The Total Bundle includes Pro-C 2, Pro-Q 4, Pro-MB, Pro-L 2, Pro-DS, Pro-G, Saturn 2, Timeless 3, Volcano 3, and FabFilter's full creative suite. If Pro-C 2 has already proven its value in your sessions, the bundle delivers every remaining FabFilter plugin at a substantially lower cost than buying them individually. FabFilter also offers crossgrade pricing for existing owners — check the official site before purchasing separate licenses.
+- **Why upgrade:** The Total Bundle includes Pro-C 2, Pro-Q 3, Pro-MB, Pro-L 2, Pro-DS, Pro-G, Saturn 2, Timeless 3, Volcano 3, and FabFilter's full creative suite. If Pro-C 2 has already proven its value in your sessions, the bundle delivers every remaining FabFilter plugin at a substantially lower cost than buying them individually. FabFilter also offers crossgrade pricing for existing owners — check the official site before purchasing separate licenses.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
 
@@ -159,7 +159,7 @@ Oversampling options go up to 32x, pushing the internal noise floor below what a
 
 - **If you mix professionally and need one compressor that handles every situation**, Pro-C 2 is the correct answer. The eight styles replace a hardware rack of dynamics tools and the interface makes each session faster than working with multiple specialized plugins.
 - **If you need classic mix bus "glue" with the specific SSL character**, the Waves SSL G-Master Buss Compressor is more cost-effective for that single task — Pro-C 2's Bus mode is cleaner, not always more musical.
-- **If you already own Pro-C 2 and want to expand your FabFilter toolkit**, calculate crossgrade pricing to the Total Bundle before buying Pro-Q 4 or Pro-L 2 separately — the bundle math almost always works in your favor.
+- **If you already own Pro-C 2 and want to expand your FabFilter toolkit**, calculate crossgrade pricing to the Total Bundle before buying Pro-Q 3 or Pro-L 2 separately — the bundle math almost always works in your favor.
 - **If you track and mix in the same session**, use Pro-C 2's zero-latency mode while recording and switch on lookahead when you move to mixing. No duplicate plugin instances needed.
 - **If you master in a home studio**, the Mastering style with mid-side mode is a practical and technically sound alternative to dedicated mastering compressors that cost five to ten times as much.
 
@@ -180,7 +180,7 @@ Yes. FabFilter updated Pro-C 2 with native Apple Silicon support covering M1 thr
 For most modern mastering scenarios, yes. The digital transparency is comparable to high-end mastering hardware, and the Vintage and Classic styles provide convincing analog character. The area where hardware retains an edge is tactile feel — physical knobs remain faster for some engineers. For output quality and metering precision, Pro-C 2 holds up at any professional level.
 
 **Is the FabFilter Total Bundle worth buying if I already own Pro-C 2?**
-FabFilter offers crossgrade pricing that accounts for plugins you already own. Before purchasing Pro-Q 4, Pro-L 2, or any other FabFilter title individually, check the crossgrade price to the Total Bundle on the official site — in most cases the bundle price minus your crossgrade discount makes it the better investment.
+FabFilter offers crossgrade pricing that accounts for plugins you already own. Before purchasing Pro-Q 3, Pro-L 2, or any other FabFilter title individually, check the crossgrade price to the Total Bundle on the official site — in most cases the bundle price minus your crossgrade discount makes it the better investment.
 
 ---
 

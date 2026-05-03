@@ -23,7 +23,7 @@ draft: false
 | Vital | Free | Wavetable synthesis, all genres | [Free Download](https://vital.audio/) |
 | Serum | $189 | EDM, bass music, professional workflows | [Xfer Records](https://xferrecords.com/products/serum) |
 | Phase Plant | $99 | Modular sound design, maximum flexibility | [Kilohearts](https://kilohearts.com/products/phase_plant) |
-| Arturia Pigments 5 | $99 | Multi-engine exploration, visual patching | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia Pigments 4 | $99 | Multi-engine exploration, visual patching | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | u-he Hive 2 | $149 | Fast workflow, analog warmth | [u-he](https://u-he.com/products/hive/) |
 | Massive X | $149 | Complex modulation, NI ecosystem | [Native Instruments](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) |
 | Surge XT | Free | Open-source versatility, modulation depth | [Free Download](https://surge-synthesizer.github.io/) |
@@ -127,20 +127,20 @@ Phase Plant is a modular signal flow synthesizer built around Kilohearts' Snapin
 
 ---
 
-### Arturia Pigments 5 — Visual Sound Design with Four Engines
+### Arturia Pigments 4 — Visual Sound Design with Four Engines
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bpb0QLrwwEY" title="Arturia Pigments 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bpb0QLrwwEY" title="Arturia Pigments 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** $99
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-Pigments 5 runs four independent synthesis engines simultaneously — wavetable, virtual analog, sample, and harmonic/additive — and lets you blend them within a single patch using a shared modulation system. The visual modulation display renders routing as an animated, readable overlay rather than a dry matrix. At $99, the combination of multi-engine architecture and visual feedback makes it one of the most educational synthesizers available.
+Pigments 4 runs four independent synthesis engines simultaneously — wavetable, virtual analog, sample, and harmonic/additive — and lets you blend them within a single patch using a shared modulation system. The visual modulation display renders routing as an animated, readable overlay rather than a dry matrix. At $99, the combination of multi-engine architecture and visual feedback makes it one of the most educational synthesizers available.
 
 **Best for:** Producers who want to combine synthesis types in one patch and learn modulation concepts through visual feedback.
 
-[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia Pigments 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
 
 ---
 
@@ -329,15 +329,15 @@ Omnisphere 2 is less a synthesizer and more a sound universe. It ships with over
 
 ---
 
-### Arturia V Collection 11 — Upgrade from Pigments Alone
+### Arturia V Collection 10 — Upgrade from Pigments Alone
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** $599 (bundle)
-- **Why upgrade:** Pigments 5 is one instrument among 33+ in V Collection 11, which adds faithful emulations of the Minimoog, Prophet-5, Juno-106, CS-80, Buchla Music Easel, and dozens of other classics. If you buy Pigments and find yourself wanting authentic vintage keyboard sounds, V Collection 11 covers all of it at a price significantly more economical than purchasing individual emulations separately.
+- **Why upgrade:** Pigments 4 is one instrument among 33+ in V Collection 10, which adds faithful emulations of the Minimoog, Prophet-5, Juno-106, CS-80, Buchla Music Easel, and dozens of other classics. If you buy Pigments and find yourself wanting authentic vintage keyboard sounds, V Collection 10 covers all of it at a price significantly more economical than purchasing individual emulations separately.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 10 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
 
 ---
 
@@ -351,7 +351,7 @@ Omnisphere 2 is less a synthesizer and more a sound universe. It ships with over
 | Helm | Free | Subtractive/FM | CPU-light, step sequencer included | [Get It](https://tytel.org/helm/) |
 | Dune 3 | $89 | Multi-engine | Dense unison, CPU efficient | [Get It](https://www.synapse-audio.com/dune.html) |
 | Phase Plant | $99 | Modular signal flow | Snapin ecosystem, free signal routing | [Get It](https://kilohearts.com/products/phase_plant) |
-| Arturia Pigments 5 | $99 | Multi-engine | 4 simultaneous engines, visual modulation | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia Pigments 4 | $99 | Multi-engine | 4 simultaneous engines, visual modulation | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | u-he Hive 2 | $149 | Analog/wavetable | Fast workflow, u-he filter quality | [Get It](https://u-he.com/products/hive/) |
 | Massive X | $149 | Phase modulation/FM | Deep mod routing, NI integration | [Get It](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) |
 | u-he Zebra 2 | $149 | Wireless modular | Spectral/FM/wavetable, film-proven | [Get It](https://u-he.com/products/zebra2/) |
@@ -382,7 +382,7 @@ Vital is the strongest free synthesizer available in 2026. The free tier unlocks
 Yes. Serum's value is not just the synthesis engine — it's the decade-plus ecosystem of tutorials, preset packs, and community knowledge built around a single, consistent interface. For electronic music production, the workflow familiarity and shared vocabulary justify the price even with competitive free options available.
 
 **What is the best synthesizer VST for beginners?**
-Vital for free, or Arturia Pigments 5 if you're ready to invest early. Vital's visual modulation overlay makes synthesis concepts immediately legible, with no financial risk while you're learning. Pigments 5 adds multi-engine architecture and visual patching that reward continued exploration.
+Vital for free, or Arturia Pigments 4 if you're ready to invest early. Vital's visual modulation overlay makes synthesis concepts immediately legible, with no financial risk while you're learning. Pigments 4 adds multi-engine architecture and visual patching that reward continued exploration.
 
 **Can free synthesizer plugins genuinely compete with paid options?**
 For raw sound quality, yes — Vital and Surge XT produce results directly competitive with paid synthesizers in controlled comparisons. Where paid options consistently win is workflow depth, specialized features, and preset ecosystems. Vital in particular is a professional production tool, not a beginner substitute.

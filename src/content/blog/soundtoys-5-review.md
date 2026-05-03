@@ -1,5 +1,4 @@
 ---
-heroImage: "/images/soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u.jpg"
 title: "Soundtoys 5 Review: The Creative Effects Bundle Every Producer Wants"
 description: "Soundtoys 5 is the most consistently used creative effects bundle in professional studios — 22 plugins built around analog character, warmth, and..."
 pubDate: "2026-05-08T18:10:19Z"

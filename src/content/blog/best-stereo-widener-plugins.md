@@ -238,15 +238,15 @@ If MicroShift feels too saturated or vintage for a production, MicroPitch offers
 
 ## Worth Upgrading To
 
-### iZotope Ozone 12 — Complete mastering suite with advanced stereo imaging
+### iZotope Ozone 11 — Complete mastering suite with advanced stereo imaging
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="iZotope Ozone 12 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="iZotope Ozone 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** From $249 (Standard)
-- **Why upgrade:** Ozone Imager 2 (free) is capable, but Ozone 12's Imager module adds AI-assisted stereo analysis, automatic mono compatibility correction, and deep integration with the full mastering chain — EQ, dynamics, limiter — all in one session. If you're doing regular mastering work and need a complete signal chain, the gap between the free Imager and Ozone 12 Standard is substantial.
+- **Why upgrade:** Ozone Imager 2 (free) is capable, but Ozone 11's Imager module adds AI-assisted stereo analysis, automatic mono compatibility correction, and deep integration with the full mastering chain — EQ, dynamics, limiter — all in one session. If you're doing regular mastering work and need a complete signal chain, the gap between the free Imager and Ozone 11 Standard is substantial.
 
-[→ Get iZotope Ozone 12](https://www.izotope.com/en/products/ozone.html)
+[→ Get iZotope Ozone 11](https://www.izotope.com/en/products/ozone.html)
 
 ---
 

@@ -1,5 +1,4 @@
 ---
-heroImage: "/images/fabfilter-pro-q-4-vs-izotope-neutron.jpg"
 title: "iZotope Neutron 4 Review: Is AI-Assisted Mixing Actually Useful?"
 description: "iZotope Neutron 4 is the most complete AI-assisted channel strip on the market in 2026 — its Track Assistant and Unmask features alone justify the price..."
 pubDate: "2026-05-07T10:10:19Z"
@@ -24,7 +23,7 @@ draft: false
 |--------|-------|----------|--------|
 | iZotope Neutron 4 Standard | From $149 | AI-guided mixing for producers who self-mix | [Official Site](https://www.izotope.com/en/products/neutron.html) |
 | iZotope Neutron 4 Advanced | From $249 | Pro engineers needing Sculptor + full inter-plugin suite | [Official Site](https://www.izotope.com/en/products/neutron.html) |
-| FabFilter Pro-Q 4 | $179 | Surgical EQ precision, Dynamic EQ, spectrum grab | [Official Site](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in) |
+| FabFilter Pro-Q 3 | $179 | Surgical EQ precision, Dynamic EQ, spectrum grab | [Official Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | iZotope Music Production Suite | Bundle pricing | Full iZotope ecosystem (Ozone, RX, Neutron, Nectar) | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 
 ---
@@ -55,7 +54,7 @@ In practice, the suggestions are genuinely useful about 70% of the time. On drum
 
 ### The Equalizer Module — Genuinely Excellent, AI Aside
 
-Strip out the AI entirely, and Neutron 4's EQ is one of the best-sounding channel EQs available at any price. It features eight bands with switchable filter types, a dedicated spectrum analyzer with pre/post display, and a high-quality algorithm that doesn't introduce harshness at extreme settings. The Dynamic EQ mode (where bands compress reactively based on threshold) is a direct competitor to FabFilter Pro-Q 4's dynamic EQ — and it's included in the same plugin rather than as a separate purchase.
+Strip out the AI entirely, and Neutron 4's EQ is one of the best-sounding channel EQs available at any price. It features eight bands with switchable filter types, a dedicated spectrum analyzer with pre/post display, and a high-quality algorithm that doesn't introduce harshness at extreme settings. The Dynamic EQ mode (where bands compress reactively based on threshold) is a direct competitor to FabFilter Pro-Q 3's dynamic EQ — and it's included in the same plugin rather than as a separate purchase.
 
 The EQ also supports mid-side processing per band, which is a feature that used to require dedicated M/S matrix plugins. For mix bus work and mastering preparation, this alone is worth knowing about.
 
@@ -105,7 +104,7 @@ This is iZotope's ecosystem play: the more Neutron instances you run, the more p
 
 No review is honest without the criticisms. Neutron 4 has three genuine weaknesses.
 
-First, **CPU overhead is non-trivial**. Running Neutron on 20+ tracks on an older system will push your processor. FabFilter Pro-Q 4 is significantly lighter. If you're running a dense session on aging hardware, you'll feel this.
+First, **CPU overhead is non-trivial**. Running Neutron on 20+ tracks on an older system will push your processor. FabFilter Pro-Q 3 is significantly lighter. If you're running a dense session on aging hardware, you'll feel this.
 
 Second, **the AI suggestions are inconsistent on non-standard sources**. Layered sounds, heavy processing on inputs, and unusual instruments confuse Track Assistant into generic suggestions that need heavy editing. Experienced engineers will find themselves ignoring the AI on these sources entirely.
 
@@ -115,17 +114,17 @@ Third, **the price structure creates awkward decisions**. Neutron 4 Standard is 
 
 ## Worth Upgrading To (Paid Options)
 
-### FabFilter Pro-Q 4 — The Best Pure EQ on the Market
+### FabFilter Pro-Q 3 — The Best Pure EQ on the Market
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
-- **Why upgrade:** Neutron 4's EQ is excellent but Pro-Q 4's spectrum grab interface, zero-latency linear phase mode, and inter-plugin collision detection are unmatched for surgical work. If you mix in a genre where EQ precision is the primary skill — acoustic music, jazz, classical — Pro-Q 4 is the better specialized tool.
+- **Why upgrade:** Neutron 4's EQ is excellent but Pro-Q 3's spectrum grab interface, zero-latency linear phase mode, and inter-plugin collision detection are unmatched for surgical work. If you mix in a genre where EQ precision is the primary skill — acoustic music, jazz, classical — Pro-Q 3 is the better specialized tool.
 
-[→ Get FabFilter Pro-Q 4 on the Official Site](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in)
+[→ Get FabFilter Pro-Q 3 on the Official Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in)
 
 ---
 
@@ -149,7 +148,7 @@ Third, **the price structure creates awkward decisions**. Neutron 4 Standard is 
 |--------|-------|------|------------|-----|
 | Neutron 4 Standard | From $149 | AI Channel Strip | Track Assistant, Unmask, Dynamic EQ, Compressor | [Get It](https://www.izotope.com/en/products/neutron.html) |
 | Neutron 4 Advanced | From $249 | AI Channel Strip | All Standard features + Sculptor spectral shaping | [Get It](https://www.izotope.com/en/products/neutron.html) |
-| FabFilter Pro-Q 4 | $179 | Precision EQ | Dynamic EQ, spectrum grab, zero-latency linear phase | [Get It](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in) |
+| FabFilter Pro-Q 3 | $179 | Precision EQ | Dynamic EQ, spectrum grab, zero-latency linear phase | [Get It](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | iZotope Music Production Suite | Bundle | Full Production Suite | Neutron + Ozone + RX + Nectar + Relay | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 
 ---
@@ -157,10 +156,10 @@ Third, **the price structure creates awkward decisions**. Neutron 4 Standard is 
 ## How to Choose
 
 - **If you self-produce and self-mix beats or pop tracks**, go with Neutron 4 Standard. The Track Assistant and Unmask will save you more time than any other single plugin at this price.
-- **If you're a professional mix engineer on varied session types**, the combination of Neutron 4 Advanced and FabFilter Pro-Q 4 is the strongest pairing — Neutron for dynamics, Sculptor, and inter-plugin workflow; Pro-Q 4 for precision surgical EQ work.
+- **If you're a professional mix engineer on varied session types**, the combination of Neutron 4 Advanced and FabFilter Pro-Q 3 is the strongest pairing — Neutron for dynamics, Sculptor, and inter-plugin workflow; Pro-Q 3 for precision surgical EQ work.
 - **If you're building an iZotope-heavy workflow** and need mastering and vocal processing alongside mixing, Music Production Suite's bundle price makes individual purchases look inefficient.
 - **If CPU is a bottleneck**, be cautious with Neutron on dense sessions. Consider using it selectively on key tracks rather than every channel, or combine it with lighter EQ plugins on background elements.
-- **If you primarily need a great EQ and nothing else**, FabFilter Pro-Q 4 is the cleaner purchase. Neutron 4's value proposition is the integrated suite — if you only want one component, there are more cost-efficient options.
+- **If you primarily need a great EQ and nothing else**, FabFilter Pro-Q 3 is the cleaner purchase. Neutron 4's value proposition is the integrated suite — if you only want one component, there are more cost-efficient options.
 
 ---
 
@@ -169,8 +168,8 @@ Third, **the price structure creates awkward decisions**. Neutron 4 Standard is 
 **Is iZotope Neutron 4 good for beginners?**
 Yes, with an important caveat. The AI features lower the barrier to entry significantly, and the Track Assistant gives beginners a learning tool alongside a practical workflow aid. However, getting maximum value requires understanding what the AI is doing and why — beginners who use it passively will plateau. Treat it as a guided starting point, not a finished product.
 
-**Does Neutron 4 replace FabFilter Pro-Q 4?**
-No, and it's not trying to. Neutron 4's EQ is excellent and covers most mixing scenarios, but Pro-Q 4 has a more refined interface for detailed surgical work, better zero-latency linear phase performance, and is significantly lighter on CPU. Many engineers run both: Neutron for channel strip processing and Pro-Q 4 for precision corrective work.
+**Does Neutron 4 replace FabFilter Pro-Q 3?**
+No, and it's not trying to. Neutron 4's EQ is excellent and covers most mixing scenarios, but Pro-Q 3 has a more refined interface for detailed surgical work, better zero-latency linear phase performance, and is significantly lighter on CPU. Many engineers run both: Neutron for channel strip processing and Pro-Q 3 for precision corrective work.
 
 **What's the difference between Neutron 4 Standard and Advanced?**
 The main additions in Advanced are Sculptor (spectral shaping module), Audiolens (cross-track analysis tool), and extended Track Assistant modes. If you work heavily with sound design, difficult recordings, or complex spectral shaping, Advanced is worth the upgrade. If your sessions are primarily well-recorded, conventional instruments and vocals, Standard covers you.

@@ -165,8 +165,8 @@ No. At equivalent bit depths and sample rates, the audio output from all three D
 
 - [Ableton Live vs FL Studio 2026: Full Comparison for Every Producer Type](/posts/ableton-live-vs-fl-studio-2026/)
 - [ADSR Sounds vs Splice: Which Sample Subscription Is Better in 2026?](/posts/adsr-vs-splice-samples/)
-- [Arturia Pigments 5 Review: Is This the Best All-in-One Soft Synth?](/posts/arturia-pigments-review/)
-- [Arturia V Collection 11 Review: 40+ Vintage Synths Worth the Price?](/posts/arturia-v-collection-review/)
+- [Arturia Pigments 4 Review: Is This the Best All-in-One Soft Synth?](/posts/arturia-pigments-review/)
+- [Arturia V Collection 10 Review: 40+ Vintage Synths Worth the Price?](/posts/arturia-v-collection-review/)
 - [Arturia V Collection vs NI Komplete: Which Bundle Is Worth Your Money?](/posts/arturia-vs-native-instruments-komplete/)
 
 ---

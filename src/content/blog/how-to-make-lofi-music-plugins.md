@@ -26,7 +26,7 @@ draft: false
 | RC-20 Retro Color | $99 | All-in-one noise, wobble, and saturation suite | [Official Site](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) |
 | Valhalla Supermassive | Free | Lo-fi ambient reverb and shimmer | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Dub-3 | Free | Warm tape delay with BPM sync | [Free Download](https://tal-software.com/products/tal-dub-x) |
-| Arturia Pigments 5 | $199 | Lo-fi synth textures with built-in vintage character | [Official Site](https://www.arturia.com/products/software-instruments/pigments/overview) |
+| Arturia Pigments 4 | $199 | Lo-fi synth textures with built-in vintage character | [Official Site](https://www.arturia.com/products/software-instruments/pigments/overview) |
 
 ---
 
@@ -146,15 +146,15 @@ The saturation in the feedback path is the key distinguishing feature: each repe
 
 ---
 
-### Arturia Pigments 5 — A Serious Synth Engine for Lo-Fi Texture Work
+### Arturia Pigments 4 — A Serious Synth Engine for Lo-Fi Texture Work
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/bpb0QLrwwEY" title="Arturia Pigments 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/bpb0QLrwwEY" title="Arturia Pigments 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** $199
-- **Why upgrade:** Free synthesizers typically lack the granular and wavetable engines needed for the evolving, textured pad sounds central to modern lo-fi production. Pigments 5 includes a built-in vintage filter section and analog-modeled FX chain, which reduces the need for a separate character plugin on synth channels — the vintage color is built into the instrument's own signal path.
+- **Why upgrade:** Free synthesizers typically lack the granular and wavetable engines needed for the evolving, textured pad sounds central to modern lo-fi production. Pigments 4 includes a built-in vintage filter section and analog-modeled FX chain, which reduces the need for a separate character plugin on synth channels — the vintage color is built into the instrument's own signal path.
 
-[→ Get Arturia Pigments 5](https://www.arturia.com/products/software-instruments/pigments/overview)
+[→ Get Arturia Pigments 4](https://www.arturia.com/products/software-instruments/pigments/overview)
 
 ---
 
@@ -166,7 +166,7 @@ The saturation in the feedback path is the key distinguishing feature: each repe
 | RC-20 Retro Color | $99 | Multi-FX lo-fi suite | Noise, Wobble, Distortion, Space, Lag, Lo-Fi modules with interaction | [Get It](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) |
 | Valhalla Supermassive | Free | Algorithmic reverb | Multiple modes, built-in modulation/chorus, Linux support | [Download Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Dub-3 | Free | Tape delay | BPM sync, saturation in feedback path, dub-style character | [Download Free](https://tal-software.com/products/tal-dub-x) |
-| Arturia Pigments 5 | $199 | Synthesizer | Granular/wavetable engines, built-in vintage filter and FX | [Get It](https://www.arturia.com/products/software-instruments/pigments/overview) |
+| Arturia Pigments 4 | $199 | Synthesizer | Granular/wavetable engines, built-in vintage filter and FX | [Get It](https://www.arturia.com/products/software-instruments/pigments/overview) |
 
 ---
 
@@ -175,7 +175,7 @@ The saturation in the feedback path is the key distinguishing feature: each repe
 - **If you're building your first lo-fi chain from scratch**, start with iZotope Vinyl, Valhalla Supermassive, and TAL-Dub-3 — the entire core chain is free, stable, and extensively documented in community tutorials.
 - **If you're ready to consolidate noise, wobble, and saturation into one plugin**, RC-20 Retro Color is the direct upgrade path that r/edmproduction and KVR consistently recommend over piecing together separate free tools.
 - **If your vinyl layer is sitting on top of the mix**, the Dust & Scratches level in iZotope Vinyl is almost certainly too high — bring it down before considering a paid alternative. This fixes the problem in 90% of cases.
-- **If your free synths can't produce evolving lo-fi pad textures**, Arturia Pigments 5 is the synthesis investment to make — its built-in vintage character reduces plugin count per synth channel.
+- **If your free synths can't produce evolving lo-fi pad textures**, Arturia Pigments 4 is the synthesis investment to make — its built-in vintage character reduces plugin count per synth channel.
 - **If your reverb sounds static and perfectly clean**, engage Valhalla Supermassive's modulation section. Community lo-fi tutorials consistently recommend slower modulation rates for lo-fi beats and faster rates for ambient material.
 
 ---

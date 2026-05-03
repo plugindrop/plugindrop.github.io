@@ -209,15 +209,15 @@ Its value in 2026 is as a utility and educational resource: quick three-band glu
 
 ---
 
-### iZotope Ozone 12 — AI-assisted multiband mastering suite
+### iZotope Ozone 11 — AI-assisted multiband mastering suite
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/lwIuaD8O61M" title="iZotope Ozone 12 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/lwIuaD8O61M" title="iZotope Ozone 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** From $249 Standard; frequently discounted
-- **Why upgrade:** Ozone 12's Multiband Dynamics module sits within a complete mastering suite that includes AI-driven Mastering Assistant, spectral shaping, stereo imaging, and stem mastering capabilities. No free option offers anything in the same category — Ozone competes as an integrated mastering workflow tool, not just an isolated compressor, and its adaptive processing and metering infrastructure address problems that standalone free compressors are not designed to solve.
+- **Why upgrade:** Ozone 11's Multiband Dynamics module sits within a complete mastering suite that includes AI-driven Mastering Assistant, spectral shaping, stereo imaging, and stem mastering capabilities. No free option offers anything in the same category — Ozone competes as an integrated mastering workflow tool, not just an isolated compressor, and its adaptive processing and metering infrastructure address problems that standalone free compressors are not designed to solve.
 
-[→ Get iZotope Ozone 12](https://www.izotope.com/en/products/ozone)
+[→ Get iZotope Ozone 11](https://www.izotope.com/en/products/ozone)
 
 ---
 
@@ -234,7 +234,7 @@ Its value in 2026 is as a utility and educational resource: quick three-band glu
 | Calf Multiband | Free | Multiband Compressor | LV2/Linux native, open source, 5 bands, active development | [Download](https://calf-studio-gear.org/) |
 | mda Multiband | Free | Multiband Compressor | Open source, 3 bands, minimal CPU, educational value | [Download](https://sourceforge.net/projects/mda-vst/) |
 | FabFilter Pro-MB | €179 | Multiband Comp/Exp | Dynamic phase mode, zero-latency algorithm, precision routing | [Get It](https://www.fabfilter.com/products/pro-mb-multiband-compressor-expander-plug-in) |
-| iZotope Ozone 12 | From $249 | Mastering Suite | AI Mastering Assistant, multiband dynamics, stem mastering | [Get It](https://www.izotope.com/en/products/ozone) |
+| iZotope Ozone 11 | From $249 | Mastering Suite | AI Mastering Assistant, multiband dynamics, stem mastering | [Get It](https://www.izotope.com/en/products/ozone) |
 
 ---
 
@@ -264,7 +264,7 @@ OTT applies upward compression (raising quiet signal) and downward compression (
 Yes. TDR Nova and Waves C6 in particular are regularly cited by professional mixing engineers in forum discussions as tools they use on commercial work. The gap between the top free options and paid options like FabFilter Pro-MB is real but narrow for most standard compression tasks. The meaningful advantages of paid tools are workflow speed, advanced phase processing modes, and deeper metering — not a fundamental quality difference for typical use cases.
 
 **What is the difference between a multiband compressor and a multiband limiter?**
-A compressor reduces gain above a threshold at a configurable ratio; a limiter uses an extreme ratio — typically 10:1 or higher — to hard-cap signal from exceeding a ceiling. Some mastering tools like iZotope Ozone 12 combine both in an integrated processing chain. For mixing and dynamics shaping, a multiband compressor is the appropriate tool; for final output ceiling control before delivery, a limiter is used after the compressor stage.
+A compressor reduces gain above a threshold at a configurable ratio; a limiter uses an extreme ratio — typically 10:1 or higher — to hard-cap signal from exceeding a ceiling. Some mastering tools like iZotope Ozone 11 combine both in an integrated processing chain. For mixing and dynamics shaping, a multiband compressor is the appropriate tool; for final output ceiling control before delivery, a limiter is used after the compressor stage.
 
 ---
 
