@@ -8,6 +8,7 @@ dealPrice: "FREE"
 heroImage: "/images/vital-free-wavetable-synth-download.jpg"
 
 score: 1.65
+draft: true
 ---
 
 **TL;DR:** Vital — **free tier available permanently.** A wavetable synth that goes head-to-head with Serum. 3 oscillators, spectral warping, drag-and-drop visual modulation, 75 presets. Paid tiers ($25/$80) add more presets and wavetables, but the free version is fully functional. [Get it here](https://vital.audio/).

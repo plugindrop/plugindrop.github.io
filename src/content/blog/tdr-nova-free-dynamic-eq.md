@@ -8,6 +8,7 @@ dealPrice: "FREE"
 heroImage: "/images/tdr-nova-free-dynamic-eq.jpg"
 
 score: 1.38
+draft: true
 ---
 
 **TL;DR:** TDR Nova — **free, permanently.** A dynamic EQ with 4 bands, parallel dynamic processing, and a wideband dynamics section. The GE (Gentleman's Edition) adds features for $50, but the free version is a fully usable mixing tool. [Download it here](https://www.tokyodawn.net/tdr-nova/).

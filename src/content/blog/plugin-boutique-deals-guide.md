@@ -5,7 +5,7 @@ pubDate: "2026-03-16T08:00:00Z"
 tags: ["free", "sale", "guide", "music-production"]
 affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=plugin-boutique-deals-guide"
 dealPrice: "FREE"
-draft: false
+draft: true
 heroImage: "/images/plugin-boutique-deals-guide.webp"
 aiImage: true
 score: 1.68
