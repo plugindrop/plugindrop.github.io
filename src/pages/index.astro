@@ -267,6 +267,40 @@ const freeDeals = allPosts
 				</section>
 			)}
 
+
+			<section class="section section--guides">
+				<div class="section-hd">
+					<span class="section-label">📖 Production Guides</span>
+					<a href="/free/" class="see-all">All guides →</a>
+				</div>
+				<div class="guide-strip">
+					<a href="/posts/best-free-synth-plugins/" class="gcard">
+						<span class="gc-emoji">🎹</span>
+						<span class="gc-title">14 Best Free Synths 2026</span>
+					</a>
+					<a href="/posts/best-free-reverb-vst-plugins/" class="gcard">
+						<span class="gc-emoji">🌊</span>
+						<span class="gc-title">Best Free Reverb 2026</span>
+					</a>
+					<a href="/posts/vital-synthesizer-review-2026/" class="gcard">
+						<span class="gc-emoji">⚡</span>
+						<span class="gc-title">Vital Synth Review</span>
+					</a>
+					<a href="/posts/serum-vst-review/" class="gcard">
+						<span class="gc-emoji">🔊</span>
+						<span class="gc-title">Is Serum Worth It?</span>
+					</a>
+					<a href="/posts/best-free-vst-plugins-beginners/" class="gcard">
+						<span class="gc-emoji">🎛️</span>
+						<span class="gc-title">Free Plugins for Beginners</span>
+					</a>
+					<a href="/posts/best-free-eq-vst-plugins/" class="gcard">
+						<span class="gc-emoji">🎚️</span>
+						<span class="gc-title">Best Free EQ Plugins</span>
+					</a>
+				</div>
+			</section>
+
 		</main>
 
 		<div class="disclosure">
@@ -504,4 +538,30 @@ const freeDeals = allPosts
 		.deal-grid--4 { grid-template-columns: 1fr; }
 		.deal-grid--3 { grid-template-columns: 1fr; }
 	}
+	/* ── Guide Strip ──────────────────────────────────────── */
+	.section--guides {
+		padding-top: 2rem;
+		border-top: 1px solid var(--border);
+	}
+	.guide-strip {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+		gap: 0.5rem;
+	}
+	.gcard {
+		display: flex;
+		flex-direction: column;
+		gap: 0.3rem;
+		padding: 0.75rem;
+		border: 1px solid var(--border);
+		border-radius: var(--radius-sm);
+		background: var(--bg-card);
+		text-decoration: none;
+		color: inherit;
+		transition: border-color 0.15s;
+	}
+	.gcard:hover { border-color: var(--accent); }
+	.gc-emoji { font-size: 1.25rem; }
+	.gc-title { font-size: 0.78rem; font-weight: 600; line-height: 1.3; color: var(--text-primary); }
+
 </style>
