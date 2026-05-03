@@ -1,6 +1,6 @@
 ---
-title: "14 Best Free Synthesizer VST Plugins in 2026 — Ranked by Type"
-description: "We tested 50+ free synths and kept 14. Vital, Surge XT, OB-Xd and 11 more — ranked by synthesis type, direct download links, all $0, no catch."
+title: "14 Best Free Synth VST Plugins 2026 (Tested — Vital, Surge XT, Dexed)"
+description: "We cut 50+ free synths down to 14 worth installing. Vital for wavetable, Surge XT for subtractive, Dexed for FM — all tested, all $0, direct downloads."
 pubDate: "2026-03-19T09:00:00Z"
 tags: ["guide", "vst", "free", "instruments", "synth"]
 affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins"
