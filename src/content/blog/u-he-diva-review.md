@@ -1,5 +1,4 @@
 ---
-heroImage: "/images/free-plugin-review-u-he-zebralette-3-08700c.webp"
 title: "u-he Diva Review: The Analog Synthesizer Emulation That Changed Everything"
 description: "u-he Diva remains the most convincing analog synthesizer emulation in software — its circuit-level oscillator and filter modeling produces warmth, drift,..."
 pubDate: "2026-05-06T02:10:19Z"

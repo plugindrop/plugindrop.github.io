@@ -1,5 +1,4 @@
 ---
-heroImage: "/images/best-free-mastering-plugins.png"
 title: "FabFilter Pro-L 2 Review: Still the Best Mastering Limiter in 2026?"
 description: "FabFilter Pro-L 2 is still the mastering limiter most professionals reach for first in 2026 — eight precisely tuned limiting algorithms, true peak control..."
 pubDate: "2026-05-05T10:10:19Z"
