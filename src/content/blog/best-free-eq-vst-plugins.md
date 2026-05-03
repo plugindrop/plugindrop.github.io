@@ -222,17 +222,17 @@ Voxengo's Overtone GEQ takes a different approach to equalization by working wit
 
 ## Worth Upgrading To (Paid Options)
 
-### FabFilter Pro-Q 3 — The industry standard, for good reason
+### FabFilter Pro-Q 4 — The industry standard, for good reason
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** ~$179
-- **Why upgrade:** The free options on this list are impressive, but none match Pro-Q 3's combination of dynamic EQ on every band, per-band stereo and mid-side switching, real-time spectrum collision detection between instances, and EQ match capability. It is the tool that professional engineers default to when precision, speed, and workflow ergonomics all matter simultaneously.
+- **Why upgrade:** The free options on this list are impressive, but none match Pro-Q 4's combination of dynamic EQ on every band, per-band stereo and mid-side switching, real-time spectrum collision detection between instances, and EQ match capability. It is the tool that professional engineers default to when precision, speed, and workflow ergonomics all matter simultaneously.
 
-[→ Watch Pro-Q 3 in action on YouTube](https://www.youtube.com/watch?v=IXWkViqU2K8)
+[→ Watch Pro-Q 4 in action on YouTube](https://www.youtube.com/watch?v=IXWkViqU2K8)
 
-[→ Get FabFilter Pro-Q 3 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-Q 4 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763)
 
 ---
 
@@ -274,7 +274,7 @@ Voxengo's Overtone GEQ takes a different approach to equalization by working wit
 | TDR SlickEQ | Free | Bus/mastering EQ | Musical saturation, 3 bands | [Developer Site](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | Ignite Amps PTEq-X | Free | Passive/vintage | Pultec character, low-end shaping | [Developer Site](https://www.igniteamps.com/) |
 | Voxengo Overtone GEQ | Free | Harmonic graphic | Harmonic partial shaping | [Developer Site](https://www.voxengo.com/) |
-| FabFilter Pro-Q 3 | ~$179 | Dynamic parametric | Industry standard, EQ match | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763) |
+| FabFilter Pro-Q 4 | ~$179 | Dynamic parametric | Industry standard, EQ match | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763) |
 | Waves SSL E-Channel | Varies | Analog emulation | SSL 4000 E console EQ | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20SSL%20E-Channel&a_aid=69cb95abe1763) |
 | iZotope Neutron | Varies | AI-assisted | Mix assistant, masking detection | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763) |
 
@@ -287,7 +287,7 @@ Voxengo's Overtone GEQ takes a different approach to equalization by working wit
 - **If your tracks need character rather than just correction** — drums, guitars, mix bus coloring — reach for **Baxter EQ** or **TDR SlickEQ**. These reward a "set it and let it breathe" approach.
 - **If you are building a large session** with many EQ instances and need maximum flexibility, **ReaEQ** handles unlimited bands at minimal CPU cost without asking you to compromise.
 - **If vintage tone is central to your genre** (lo-fi, soul, classic rock, jazz), **Ignite Amps PTEq-X** gives you the Pultec interaction that producers have relied on for sixty years — for free.
-- **When you are ready to invest**, **FabFilter Pro-Q 3** is the upgrade that makes every workflow on this list feel like a warm-up.
+- **When you are ready to invest**, **FabFilter Pro-Q 4** is the upgrade that makes every workflow on this list feel like a warm-up.
 
 ---
 
@@ -297,7 +297,7 @@ Voxengo's Overtone GEQ takes a different approach to equalization by working wit
 Start with **TDR Nova**. The built-in real-time spectrum analyzer shows you exactly what your adjustments are doing while you make them, which shortens the feedback loop between ear and understanding significantly. Once you learn Nova's interface, every other parametric EQ will feel intuitive.
 
 **Can free EQ plugins actually sound as good as paid ones?**
-For most mixing applications, yes. TDR Nova, MEqualizer, and Voxengo Marvel GEQ are used by professional engineers on commercial releases. The main advantages of paid options like FabFilter Pro-Q 3 are workflow speed, advanced features such as per-band stereo switching and EQ match, and the ergonomic polish that comes from years of professional iteration. The processing quality gap is much smaller than the price gap suggests.
+For most mixing applications, yes. TDR Nova, MEqualizer, and Voxengo Marvel GEQ are used by professional engineers on commercial releases. The main advantages of paid options like FabFilter Pro-Q 4 are workflow speed, advanced features such as per-band stereo switching and EQ match, and the ergonomic polish that comes from years of professional iteration. The processing quality gap is much smaller than the price gap suggests.
 
 **What is linear phase EQ and when should I use it?**
 Linear phase EQ processes audio without introducing phase shift at any frequency — unlike standard minimum-phase designs. This matters most in mastering, where subtle phase differences affect stereo imaging and translation across playback systems. For general mixing, minimum-phase EQ is typically preferred because it responds more naturally to the music. Use **LP10** or **Marvel GEQ** on the master bus; use **TDR Nova** or **MEqualizer** during the mix.
@@ -312,7 +312,7 @@ A dynamic EQ is a parametric EQ where individual bands respond to the level of t
 
 ## Final Thoughts
 
-The best free EQ VST plugin in 2026 is **TDR Nova** — it is dynamic, transparent, and competitive with tools that cost real money, and there is no reasonable argument for not having it installed. The other nine picks on this list are each genuinely useful in their specific lane: linear phase mastering, analog console character, Pultec vintage coloring, and unlimited surgical precision. When you are ready to invest, **FabFilter Pro-Q 3** is the one upgrade that will change how you think about equalization.
+The best free EQ VST plugin in 2026 is **TDR Nova** — it is dynamic, transparent, and competitive with tools that cost real money, and there is no reasonable argument for not having it installed. The other nine picks on this list are each genuinely useful in their specific lane: linear phase mastering, analog console character, Pultec vintage coloring, and unlimited surgical precision. When you are ready to invest, **FabFilter Pro-Q 4** is the one upgrade that will change how you think about equalization.
 
 [→ Get TDR Nova on Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova%20equalizer&a_aid=69cb95abe1763)
 
@@ -322,8 +322,8 @@ The best free EQ VST plugin in 2026 is **TDR Nova** — it is dynamic, transpare
 
 ## Related Guides
 
-- [FabFilter Pro-Q 3 Review: The Best EQ Plugin in 2026?](/posts/fabfilter-pro-q-3-review/)
-- [FabFilter Pro-Q 3 vs iZotope Neutron: Which EQ Wins?](/posts/fabfilter-pro-q-3-vs-izotope-neutron/)
+- [FabFilter Pro-Q 4 Review: The Best EQ Plugin in 2026?](/posts/fabfilter-pro-q-4-review/)
+- [FabFilter Pro-Q 4 vs iZotope Neutron: Which EQ Wins?](/posts/fabfilter-pro-q-4-vs-izotope-neutron/)
 - [Best EQ Plugins 2026: Top Paid Options Ranked](/posts/best-eq-plugins-2026/)
 - [Best EQ Plugins for Mixing and Mastering](/posts/best-eq-plugins-mixing-mastering/)
-- [Free Alternative to FabFilter Pro-Q 3](/posts/free-alternative-to-fabfilter-pro-q/)
+- [Free Alternative to FabFilter Pro-Q 4](/posts/free-alternative-to-fabfilter-pro-q/)

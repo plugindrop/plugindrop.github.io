@@ -10,7 +10,7 @@ originalPrice: "$99"
 xText: "New guide: Complete Guitar Recording Plugin Chain: Amp Sim to Mastering..."
 draft: false
 ---
-**TL;DR:** The complete guitar recording plugin chain for 2026 runs Neural DSP Archetype for amp simulation, Waves IR-L for cabinet impulse response loading, FabFilter Pro-Q 3 for surgical EQ, and OTT for multiband dynamics. Each stage solves a specific problem in the direct-recording signal path — together they replicate what professional studios achieve with physical gear, without leaving the box.
+**TL;DR:** The complete guitar recording plugin chain for 2026 runs Neural DSP Archetype for amp simulation, Waves IR-L for cabinet impulse response loading, FabFilter Pro-Q 4 for surgical EQ, and OTT for multiband dynamics. Each stage solves a specific problem in the direct-recording signal path — together they replicate what professional studios achieve with physical gear, without leaving the box.
 
 ---
 
@@ -25,7 +25,7 @@ draft: false
 |--------|-------|----------|--------|
 | Neural DSP Archetype | From $99 | Amp simulation & built-in cab sim | [Official Site](https://neuraldsp.com/plugins) |
 | Waves IR-L Convolution Reverb | Varies | Cabinet IR loading & room ambience | [Official Site](https://www.waves.com/plugins/ir-l) |
-| FabFilter Pro-Q 3 | $179 | Surgical EQ with dynamic EQ per band | [FabFilter](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
+| FabFilter Pro-Q 4 | $179 | Surgical EQ with dynamic EQ per band | [FabFilter](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in) |
 | OTT (Xfer Records) | Free | Multiband dynamics & mid-range density | [Free Download](https://xferrecords.com/freeware) |
 | FabFilter Total Bundle | ~$899 | Complete professional production suite | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
 
@@ -89,24 +89,24 @@ This step is conditional. If you're satisfied with the cab simulation inside you
 
 ## Step 3: Surgical EQ
 
-### FabFilter Pro-Q 3 — The community's reference EQ for precise guitar shaping
+### FabFilter Pro-Q 4 — The community's reference EQ for precise guitar shaping
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-FabFilter Pro-Q 3 is the most consistently recommended surgical EQ across producer communities, and the reasoning is grounded in its documented feature set: 24 fully parametric bands, dynamic EQ capability per band, mid/side processing, and both zero-latency minimum phase and linear phase modes. For guitar, the dynamic EQ feature addresses a specific and well-documented problem — resonant frequency buildup that varies with playing dynamics, particularly in the 200–400 Hz range on high-gain tones where harder pick attacks produce disproportionate low-mid energy.
+FabFilter Pro-Q 4 is the most consistently recommended surgical EQ across producer communities, and the reasoning is grounded in its documented feature set: 24 fully parametric bands, dynamic EQ capability per band, mid/side processing, and both zero-latency minimum phase and linear phase modes. For guitar, the dynamic EQ feature addresses a specific and well-documented problem — resonant frequency buildup that varies with playing dynamics, particularly in the 200–400 Hz range on high-gain tones where harder pick attacks produce disproportionate low-mid energy.
 
-The r/audioengineering and r/mixingmastering communities cite Pro-Q 3's spectrum analyzer and EQ match function as workflow tools that accelerate the identification of problematic frequency bands in guitar recordings. Developer documentation confirms EQ match analyzes a reference track and generates an EQ curve to match its spectral profile — a direct workflow advantage when matching a guitar tone to an existing reference in the same genre.
+The r/audioengineering and r/mixingmastering communities cite Pro-Q 4's spectrum analyzer and EQ match function as workflow tools that accelerate the identification of problematic frequency bands in guitar recordings. Developer documentation confirms EQ match analyzes a reference track and generates an EQ curve to match its spectral profile — a direct workflow advantage when matching a guitar tone to an existing reference in the same genre.
 
-In the signal chain, Pro-Q 3 belongs after the amp sim and cab stage. The amp sim and cab introduce the frequency character you want to shape — the three most commonly documented EQ operations on guitar tracks are cutting low-end mud below 80–100 Hz, managing mid-range boxiness around 300–500 Hz, and controlling upper-mid harshness in the 3–5 kHz range.
+In the signal chain, Pro-Q 4 belongs after the amp sim and cab stage. The amp sim and cab introduce the frequency character you want to shape — the three most commonly documented EQ operations on guitar tracks are cutting low-end mud below 80–100 Hz, managing mid-range boxiness around 300–500 Hz, and controlling upper-mid harshness in the 3–5 kHz range.
 
 **Best for:** Producers who need precise frequency control and want dynamic EQ capability built into their main EQ plugin without adding a separate plugin to the chain.
 
-[→ Get FabFilter Pro-Q 3](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in)
+[→ Get FabFilter Pro-Q 4](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in)
 
 ---
 
@@ -151,7 +151,7 @@ OTT is genuinely free with no paid upgrade path for this specific plugin. Xfer R
 
 - **Developer:** FabFilter
 - **Price:** ~$899
-- **Why upgrade:** Pro-Q 3 handles EQ, but a complete guitar production workflow also demands compression, limiting, saturation, and multiband processing. The Total Bundle includes Pro-C 2, Pro-L 2, Pro-MB, Saturn 2, and FabFilter's full reverb and delay suite — replacing multiple third-party tools with a consistently designed ecosystem. Community consensus on r/audioengineering is that the Total Bundle is the most cost-effective way to own the complete FabFilter suite, given the price of individual plugins purchased separately.
+- **Why upgrade:** Pro-Q 4 handles EQ, but a complete guitar production workflow also demands compression, limiting, saturation, and multiband processing. The Total Bundle includes Pro-C 2, Pro-L 2, Pro-MB, Saturn 2, and FabFilter's full reverb and delay suite — replacing multiple third-party tools with a consistently designed ecosystem. Community consensus on r/audioengineering is that the Total Bundle is the most cost-effective way to own the complete FabFilter suite, given the price of individual plugins purchased separately.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763)
 
@@ -163,9 +163,9 @@ OTT is genuinely free with no paid upgrade path for this specific plugin. Xfer R
 |--------|-------|------|------------|-----|
 | Neural DSP Archetype | From $99 | Amp Simulation | Neural network modeling, full built-in cab sim, 14-day free trial | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
 | Waves IR-L Convolution Reverb | Varies | Convolution Reverb / IR Loader | Third-party IR support, mono/stereo/true stereo, CPU-efficient | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
-| FabFilter Pro-Q 3 | $179 | Parametric EQ | 24 bands, dynamic EQ per band, mid/side processing, EQ match | [FabFilter](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
+| FabFilter Pro-Q 4 | $179 | Parametric EQ | 24 bands, dynamic EQ per band, mid/side processing, EQ match | [FabFilter](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in) |
 | OTT (Xfer Records) | Free | Multiband Compressor | Upward/downward compression, three bands, Depth control | [Free Download](https://xferrecords.com/freeware) |
-| FabFilter Total Bundle | ~$899 | Full Plugin Suite | Pro-Q 3, Pro-C 2, Pro-L 2, Pro-MB, Saturn 2 + reverb/delay | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
+| FabFilter Total Bundle | ~$899 | Full Plugin Suite | Pro-Q 4, Pro-C 2, Pro-L 2, Pro-MB, Saturn 2 + reverb/delay | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
 
 ---
 
@@ -173,7 +173,7 @@ OTT is genuinely free with no paid upgrade path for this specific plugin. Xfer R
 
 - **If you're recording high-gain metal or progressive rock** and want a complete chain out of the box, Neural DSP Archetype (Nolly or Fortin Nameless edition) handles amp and cab in one plugin — no cab loader required.
 - **If you're already satisfied with your amp sim's cab simulation**, omit Waves IR-L as a cab loader entirely and only reintroduce it as a room send if the dry signal needs spatial depth.
-- **If your guitar sits in a dense mix** with competing midrange instruments, FabFilter Pro-Q 3's dynamic EQ feature earns its cost — it cuts resonant guitar frequencies only when they exceed a set threshold, preserving natural tone at lower playing dynamics.
+- **If your guitar sits in a dense mix** with competing midrange instruments, FabFilter Pro-Q 4's dynamic EQ feature earns its cost — it cuts resonant guitar frequencies only when they exceed a set threshold, preserving natural tone at lower playing dynamics.
 - **If you're tracking clean or semi-clean tones** that lose presence in a full arrangement, OTT at 20–30% depth adds mid-range density without additional saturation or limiting. This is the documented use case in guitar-focused r/WeAreTheMusicMakers threads.
 - **If you want a complete production environment** beyond guitar processing, the FabFilter Total Bundle replaces the need for standalone compression, limiting, and mastering plugins across every instrument in your session.
 
@@ -184,8 +184,8 @@ OTT is genuinely free with no paid upgrade path for this specific plugin. Xfer R
 **Do I need a separate cabinet loader if I'm running Neural DSP Archetype?**
 Not by default. Neural DSP developer documentation confirms each Archetype edition includes a full cab simulation stage as part of the modeled chain. A separate IR loader is only needed if you want to substitute the native cab section with third-party IRs, or if you explicitly route the amp sim to a "no cab" output where available.
 
-**Where in the chain should FabFilter Pro-Q 3 go?**
-After the amp sim and cab stage, not before. The amp sim and cab define the core frequency character of the guitar tone — Pro-Q 3's role is shaping that character to fit the mix, not pre-processing the clean DI signal.
+**Where in the chain should FabFilter Pro-Q 4 go?**
+After the amp sim and cab stage, not before. The amp sim and cab define the core frequency character of the guitar tone — Pro-Q 4's role is shaping that character to fit the mix, not pre-processing the clean DI signal.
 
 **Is OTT appropriate for guitar, or is it primarily an EDM tool?**
 OTT is genre-agnostic by technical design. Guitar production communities document its use for adding density to single-coil tones and tightening rhythm guitar tracks in dense productions. Keeping the Depth knob between 15–40% is the consistently documented best practice for guitar material to avoid over-processing.
@@ -194,7 +194,7 @@ OTT is genre-agnostic by technical design. Guitar production communities documen
 The community consensus for rhythm guitars is to track and process in mono, then double-track and hard-pan for stereo width. For lead guitars and single-note lines, a stereo chain with subtle room reverb via Waves IR-L adds natural mix placement. Running a single rhythm guitar in stereo frequently creates phase cancellation issues when the mix is summed to mono.
 
 **What is the correct signal order for this chain?**
-DI input → Amp Sim (Neural DSP Archetype) → Cabinet IR if substituting native cab (Waves IR-L inline) → EQ (FabFilter Pro-Q 3) → Multiband Dynamics (OTT) → mix bus. If using Waves IR-L for room ambience rather than cab loading, run it as a send/return after the EQ stage for independent wet/dry control.
+DI input → Amp Sim (Neural DSP Archetype) → Cabinet IR if substituting native cab (Waves IR-L inline) → EQ (FabFilter Pro-Q 4) → Multiband Dynamics (OTT) → mix bus. If using Waves IR-L for room ambience rather than cab loading, run it as a send/return after the EQ stage for independent wet/dry control.
 
 ---
 
@@ -210,7 +210,7 @@ DI input → Amp Sim (Neural DSP Archetype) → Cabinet IR if substituting nativ
 
 ## Final Thoughts
 
-Neural DSP Archetype does the heaviest lifting in this chain — hardware-accurate amp and cab simulation backed by consistent community consensus across guitar production forums, with a free trial that removes the guesswork from buying. FabFilter Pro-Q 3 gives you the surgical precision to shape that tone for the mix, OTT adds density at zero cost, and Waves IR-L covers the cab-loading and room-ambience gap when your workflow needs it. Start with the Neural DSP Archetype trial, build the chain around it, and upgrade to the FabFilter Total Bundle when the production demands a complete environment.
+Neural DSP Archetype does the heaviest lifting in this chain — hardware-accurate amp and cab simulation backed by consistent community consensus across guitar production forums, with a free trial that removes the guesswork from buying. FabFilter Pro-Q 4 gives you the surgical precision to shape that tone for the mix, OTT adds density at zero cost, and Waves IR-L covers the cab-loading and room-ambience gap when your workflow needs it. Start with the Neural DSP Archetype trial, build the chain around it, and upgrade to the FabFilter Total Bundle when the production demands a complete environment.
 
 [→ Get Neural DSP Archetype on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763)
 

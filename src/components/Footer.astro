@@ -25,8 +25,20 @@ const today = new Date();
 		<div class="footer-links">
 			<a href="/posts">Deals</a>
 			<a href="/bundle-comparison">Bundle Compare</a>
+			<a href="/free/">Free Plugins</a>
 			<a href="/about">About</a>
 			<a href="/rss.xml" target="_blank" rel="noopener noreferrer" aria-label="RSS Feed (opens in new tab)">RSS</a>
+		</div>
+		<div class="footer-guides">
+			<span class="footer-guides-label">Popular Guides</span>
+			<div class="footer-guides-links">
+				<a href="/posts/best-free-synth-plugins/">Free Synths</a>
+				<a href="/posts/best-free-vst-plugins-beginners/">Free VSTs</a>
+				<a href="/posts/serum-vst-review/">Serum Review</a>
+				<a href="/posts/best-free-reverb-vst-plugins/">Free Reverbs</a>
+				<a href="/posts/best-free-eq-vst-plugins/">Free EQs</a>
+				<a href="/posts/vital-synthesizer-review-2026/">Vital Review</a>
+			</div>
 		</div>
 		<div class="footer-legal">
 			<p>&copy; {today.getFullYear()} PluginDrop. Affiliate links may earn us a commission.</p>
@@ -87,6 +99,34 @@ const today = new Date();
 		transition: color 0.15s;
 	}
 	.footer-links a:hover {
+		color: var(--accent);
+	}
+	.footer-guides {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		align-items: center;
+	}
+	.footer-guides-label {
+		font-size: 0.7rem;
+		font-weight: 700;
+		text-transform: uppercase;
+		letter-spacing: 0.08em;
+		color: var(--text-muted);
+	}
+	.footer-guides-links {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.5rem 1rem;
+		justify-content: center;
+	}
+	.footer-guides-links a {
+		color: var(--text-secondary);
+		font-size: 0.8rem;
+		text-decoration: none;
+		transition: color 0.15s;
+	}
+	.footer-guides-links a:hover {
 		color: var(--accent);
 	}
 	.footer-legal p {

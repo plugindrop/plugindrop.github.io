@@ -240,15 +240,15 @@ The Sonnox Oxford Limiter V3 is a purpose-built tool for scenarios that demand s
 
 ---
 
-### iZotope Ozone 11 — From the Maximizer module to a complete mastering suite
+### iZotope Ozone 12 — From the Maximizer module to a complete mastering suite
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="iZotope Ozone 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="iZotope Ozone 12 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** ~$249–$399
-- **Why upgrade:** Using the Maximizer module alone means missing Ozone 11's full AI-powered Master Assistant, the Stabilizer module for resonance control, mid-side EQ, multiband dynamics, and deep integrated metering — the difference between one tool in a chain and a complete, professionally designed mastering environment.
+- **Why upgrade:** Using the Maximizer module alone means missing Ozone 12's full AI-powered Master Assistant, the Stabilizer module for resonance control, mid-side EQ, multiband dynamics, and deep integrated metering — the difference between one tool in a chain and a complete, professionally designed mastering environment.
 
-[→ Get iZotope Ozone 11](https://www.izotope.com/en/products/ozone.html)
+[→ Get iZotope Ozone 12](https://www.izotope.com/en/products/ozone.html)
 
 ---
 

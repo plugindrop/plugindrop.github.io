@@ -96,7 +96,7 @@ Surge XT includes analog-modeled filter circuits drawn from classic hardware arc
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/DHA0HjTm1fM" title="Arturia Mini V3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
-- **Price:** $99 (also included in V Collection 10)
+- **Price:** $99 (also included in V Collection 11)
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
@@ -166,7 +166,7 @@ TAL's U-NO-LX is the consensus pick for Roland Juno-60 emulation. Developer docu
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/tih7PqwyPc4" title="Arturia Jup-8 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
-- **Price:** $99 (also included in V Collection 10)
+- **Price:** $99 (also included in V Collection 11)
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
@@ -185,7 +185,7 @@ Jup-8 V models the Roland Jupiter-8, known for rich polyphonic filter sweeps and
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/xoRYgl8T_K8" title="Arturia Prophet-5 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
-- **Price:** $99 (also included in V Collection 10)
+- **Price:** $99 (also included in V Collection 11)
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
@@ -223,7 +223,7 @@ Diva is not an emulation of one synthesizer — it models components from multip
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/RNkofQKGX6Q" title="Arturia ARP 2600 V3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
-- **Price:** $99 (also included in V Collection 10)
+- **Price:** $99 (also included in V Collection 11)
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
@@ -240,7 +240,7 @@ The ARP 2600 is a semi-modular synthesizer from the early 1970s known for its bu
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/JL00ZNDI-JE" title="Arturia CS-80 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
-- **Price:** $99 (also included in V Collection 10)
+- **Price:** $99 (also included in V Collection 11)
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
@@ -266,15 +266,15 @@ The Yamaha CS-80 was used by Vangelis on the Blade Runner soundtrack — one of 
 
 ---
 
-### Arturia V Collection 10 — The Full Vintage Library in One Purchase
+### Arturia V Collection 11 — The Full Vintage Library in One Purchase
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/gjIwo3Pnorg" title="Arturia V Collection 10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/gjIwo3Pnorg" title="Arturia V Collection 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** $599 (frequently discounted; individual instruments sold at ~$99 each)
-- **Why upgrade:** V Collection 10 contains Mini V3, Prophet-5 V, Jup-8 V, ARP 2600 V3, CS-80 V, and over 25 additional instruments. If you're buying more than two Arturia emulations individually, the bundle math favors the collection at any discount price below $400.
+- **Why upgrade:** V Collection 11 contains Mini V3, Prophet-5 V, Jup-8 V, ARP 2600 V3, CS-80 V, and over 25 additional instruments. If you're buying more than two Arturia emulations individually, the bundle math favors the collection at any discount price below $400.
 
-[→ Get Arturia V Collection 10](https://www.arturia.com/products/software-instruments/v-collection/overview)
+[→ Get Arturia V Collection 11](https://www.arturia.com/products/software-instruments/v-collection/overview)
 
 ---
 
@@ -302,7 +302,7 @@ The Yamaha CS-80 was used by Vangelis on the Blade Runner soundtrack — one of 
 - **If maximum circuit accuracy is the priority**, go with u-he Diva — it is the only plugin in this guide that uses near-sample-accurate simulation rather than behavioral modeling, and the community consensus is unambiguous.
 - **If you primarily need Moog bass and leads on a budget**, Cherry Audio Memorymode (~$39) delivers comparable character to Arturia Mini V3 ($99) at less than half the price.
 - **If the Roland Juno chorus is your target**, TAL-U-NO-LX is the only plugin the community consistently calls a true Juno-60 replacement — there is no meaningful free alternative for that specific BBD chorus circuit.
-- **If you're buying three or more Arturia instruments**, Arturia V Collection 10 is almost always the better financial decision compared to individual purchases at full price.
+- **If you're buying three or more Arturia instruments**, Arturia V Collection 11 is almost always the better financial decision compared to individual purchases at full price.
 - **If you're starting with no budget**, OB-Xd (Oberheim), Dexed (DX7), and Surge XT (multi-vintage filters) cover three distinct vintage sound palettes at zero cost.
 
 ---
@@ -318,7 +318,7 @@ It's a genuine emulation. DiscoDSP's documentation confirms it models OB-X and O
 **Can I use these plugins on Linux?**
 Several, yes. u-he Diva, OB-Xd, Dexed, and Surge XT all officially support Linux. Arturia and TAL-U-NO-LX are Windows and macOS only per their current documentation.
 
-**Is Arturia V Collection 10 worth it if I already own one Arturia plugin?**
+**Is Arturia V Collection 11 worth it if I already own one Arturia plugin?**
 If you own one instrument and plan to buy two more, the math usually favors the collection — but Arturia runs regular sales on both individual instruments and V Collection, so check current pricing. The gap between buying three individually and buying the bundle narrows significantly during promotion periods.
 
 **What is the difference between Arturia Mini V3 and u-he Diva for Minimoog tones?**
@@ -338,7 +338,7 @@ Arturia Mini V3 adds features the original hardware lacked — polyphony, expand
 
 ## Final Thoughts
 
-For most producers, the free tier — OB-Xd, Dexed, and Surge XT — covers enough vintage ground to make serious music without spending anything. When you're ready to invest, u-he Diva is the defensible top pick for producers who need circuit-level accuracy, and Arturia V Collection 10 is the most efficient path to a full vintage keyboard library in one purchase.
+For most producers, the free tier — OB-Xd, Dexed, and Surge XT — covers enough vintage ground to make serious music without spending anything. When you're ready to invest, u-he Diva is the defensible top pick for producers who need circuit-level accuracy, and Arturia V Collection 11 is the most efficient path to a full vintage keyboard library in one purchase.
 
 [→ Get u-he Diva](https://www.arturia.com/products/software-instruments/v-collection/overview)
 

@@ -10,7 +10,7 @@ score: 8.00
 xText: "New guide: 15 Best VST Plugins for Reaper Users in 2026 (Free & Paid)"
 draft: false
 ---
-**TL;DR:** Vital and Valhalla Supermassive give Reaper users world-class synthesis and reverb at zero cost — both are community-consensus picks that outperform many paid alternatives. When you're ready to spend, FabFilter Pro-Q 3 is the EQ that Reaper's professional community names first as the industry standard, consistently and without qualification.
+**TL;DR:** Vital and Valhalla Supermassive give Reaper users world-class synthesis and reverb at zero cost — both are community-consensus picks that outperform many paid alternatives. When you're ready to spend, FabFilter Pro-Q 4 is the EQ that Reaper's professional community names first as the industry standard, consistently and without qualification.
 
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/OZuKRaZK86k" title="15 Best VST Plugins for Reaper Users in 2026 (Free & Paid) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -25,7 +25,7 @@ draft: false
 | Surge XT | Free | Complex hybrid synthesis, deep modulation | [Free Download](https://surge-synthesizer.github.io/) |
 | TDR Nova | Free | Dynamic EQ, surgical mixing | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Valhalla Supermassive | Free | Ambient reverb, massive spatial effects | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| FabFilter Pro-Q 3 | $179 | Professional mixing and mastering EQ | [Official Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
+| FabFilter Pro-Q 4 | $179 | Professional mixing and mastering EQ | [Official Site](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in) |
 | Valhalla VintageVerb | $50 | Vintage-character studio reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 
 ---
@@ -254,20 +254,20 @@ MeldaProduction's free bundle is the most comprehensive free plugin package avai
 
 ## The Professional Paid Standard
 
-### FabFilter Pro-Q 3 — The EQ the professional community names first
+### FabFilter Pro-Q 4 — The EQ the professional community names first
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
 - **Platforms:** Windows, macOS
 - **Formats:** VST2, VST3, AU, AAX
 
-FabFilter Pro-Q 3 is the EQ that r/mixthis, r/audioengineering, and KVR's mixing forums name most consistently as the professional standard. Developer documentation confirms dynamic EQ capability on every band — not a limited number of designated dynamic bands, but any band in the plugin at any time. Additional features include linear phase processing available per band, a real-time spectrum analyzer with collision detection that highlights frequency masking between tracks in a session, and individual stereo or mid-side placement per band. The drag-to-create workflow is universally described in professional tutorials as the most intuitive EQ interface in the market. At $179, the community consistently frames it as a career-length investment rather than a single-project expenditure.
+FabFilter Pro-Q 4 is the EQ that r/mixthis, r/audioengineering, and KVR's mixing forums name most consistently as the professional standard. Developer documentation confirms dynamic EQ capability on every band — not a limited number of designated dynamic bands, but any band in the plugin at any time. Additional features include linear phase processing available per band, a real-time spectrum analyzer with collision detection that highlights frequency masking between tracks in a session, and individual stereo or mid-side placement per band. The drag-to-create workflow is universally described in professional tutorials as the most intuitive EQ interface in the market. At $179, the community consistently frames it as a career-length investment rather than a single-project expenditure.
 
 **Best for:** Professional mixing, mastering EQ, dynamic EQ, producers investing in a long-term reference EQ
 
-[→ Get FabFilter Pro-Q 3](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in)
+[→ Get FabFilter Pro-Q 4](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in)
 
 ---
 
@@ -279,7 +279,7 @@ FabFilter Pro-Q 3 is the EQ that r/mixthis, r/audioengineering, and KVR's mixing
 
 - **Developer:** FabFilter
 - **Price:** $899 (individual plugins available separately)
-- **Why upgrade:** Pro-Q 3 covers EQ with professional depth, but the Total Bundle adds Pro-C 2 (compressor), Pro-L 2 (limiter), Pro-R (reverb), Pro-MB (multiband compressor), Saturn 2 (multiband saturation and distortion), and the creative bundle including Timeless 3 and Volcano 3. KVR and r/audioengineering describe the full FabFilter suite as a cohesive professional workflow — the consistent GUI philosophy, cross-plugin spectrum display, and unified preset management make sessions faster to navigate than assembling a comparable toolkit from multiple developers.
+- **Why upgrade:** Pro-Q 4 covers EQ with professional depth, but the Total Bundle adds Pro-C 2 (compressor), Pro-L 2 (limiter), Pro-R (reverb), Pro-MB (multiband compressor), Saturn 2 (multiband saturation and distortion), and the creative bundle including Timeless 3 and Volcano 3. KVR and r/audioengineering describe the full FabFilter suite as a cohesive professional workflow — the consistent GUI philosophy, cross-plugin spectrum display, and unified preset management make sessions faster to navigate than assembling a comparable toolkit from multiple developers.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763)
 
@@ -313,7 +313,7 @@ FabFilter Pro-Q 3 is the EQ that r/mixthis, r/audioengineering, and KVR's mixing
 | ReaPlugs | Free (Win) | DSP Suite | Reaper-native engines, ReaEQ unlimited bands | — |
 | Chow Tape Model | Free | Tape Saturation | Physical model, research-based hysteresis | — |
 | Melda MFreeFXBundle | Free | Multi-FX Bundle | 37 plugins across all processing categories | — |
-| FabFilter Pro-Q 3 | $179 | Parametric / Dynamic EQ | Per-band dynamic EQ, collision detection, linear phase | [Get It](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
+| FabFilter Pro-Q 4 | $179 | Parametric / Dynamic EQ | Per-band dynamic EQ, collision detection, linear phase | [Get It](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in) |
 | FabFilter Total Bundle | $899 | Full Suite | 14 plugins, cohesive GUI, cross-plugin spectrum display | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | Valhalla VintageVerb | $50 | Algorithmic Reverb | 18 vintage algorithms, tight rooms to large halls | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 
@@ -325,7 +325,7 @@ FabFilter Pro-Q 3 is the EQ that r/mixthis, r/audioengineering, and KVR's mixing
 - **If you need FM synthesis specifically:** Dexed is the only well-documented free option that accurately emulates a real hardware FM architecture, with full compatibility with the DX7's existing patch ecosystem.
 - **If you're mixing and need one capable EQ:** TDR Nova handles both static and dynamic EQ in a single free plugin. It is the community's most-cited free mixing tool for consistent, practical reasons.
 - **If reverb is the primary gap in your chain:** Valhalla Supermassive handles ambient and large-space processing for free. Upgrade to VintageVerb ($50) when you need tighter room sounds and vintage-character spatial processing on individual tracks.
-- **If you're ready to invest in a reference-grade EQ:** FabFilter Pro-Q 3 at $179 is the tool the professional community uses — per-band dynamic EQ and frequency collision detection change how you approach mixing decisions, and neither feature exists in the free alternatives at the same level.
+- **If you're ready to invest in a reference-grade EQ:** FabFilter Pro-Q 4 at $179 is the tool the professional community uses — per-band dynamic EQ and frequency collision detection change how you approach mixing decisions, and neither feature exists in the free alternatives at the same level.
 
 ---
 
@@ -343,7 +343,7 @@ Yes. The free tier of Vital includes the complete synthesis engine: all oscillat
 
 KVR's community consistently describes the free version as sufficient for the majority of dynamic EQ tasks in a mixing context. The GE upgrade at approximately $60 adds parallel dynamics processing and extended controls, but the gap between the free version and entry-level commercial dynamic EQs is not significant for most mixing applications.
 
-**Why is FabFilter Pro-Q 3 worth $179 when capable free EQs exist?**
+**Why is FabFilter Pro-Q 4 worth $179 when capable free EQs exist?**
 
 The professional community cites three specific features when the price question comes up: per-band dynamic EQ across all bands simultaneously, real-time spectrum collision detection that shows where tracks are masking each other in the context of a full session, and the drag-to-create workflow that makes fast and precise decisions faster than menu-driven interfaces. These are consistently the features named in KVR and r/audioengineering discussions — not marketing copy, but the specific capabilities producers describe using.
 
@@ -365,9 +365,9 @@ They cover different territory. Supermassive's algorithms are designed for large
 
 ## Final Thoughts
 
-The free plugin ecosystem available to Reaper users in 2026 is strong enough that Vital, TDR Nova, and Valhalla Supermassive alone form a defensible professional starting stack — no compromises, no placeholders. When you are ready to invest in a paid tool, FabFilter Pro-Q 3 is the EQ that the professional community returns to consistently as the reference standard, and at $179 it is the single upgrade most likely to change how you hear your mixes.
+The free plugin ecosystem available to Reaper users in 2026 is strong enough that Vital, TDR Nova, and Valhalla Supermassive alone form a defensible professional starting stack — no compromises, no placeholders. When you are ready to invest in a paid tool, FabFilter Pro-Q 4 is the EQ that the professional community returns to consistently as the reference standard, and at $179 it is the single upgrade most likely to change how you hear your mixes.
 
-[→ Get FabFilter Pro-Q 3](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in)
+[→ Get FabFilter Pro-Q 4](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in)
 
 ---
 

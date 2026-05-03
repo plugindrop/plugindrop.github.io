@@ -1,4 +1,5 @@
 ---
+heroImage: "/images/free-plugin-review-u-he-zebralette-3-08700c.webp"
 title: "u-he Diva Review: The Analog Synthesizer Emulation That Changed Everything"
 description: "u-he Diva remains the most convincing analog synthesizer emulation in software — its circuit-level oscillator and filter modeling produces warmth, drift,..."
 pubDate: "2026-05-06T02:10:19Z"
@@ -21,7 +22,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | u-he Diva | $179 | Most authentic analog synthesis emulation | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Arturia V Collection 10 | $499 | Breadth of vintage instruments alongside analog depth | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia V Collection 11 | $499 | Breadth of vintage instruments alongside analog depth | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | Phase Plant | $99 | Modern modular and hybrid synthesis workflows | [Kilohearts](https://kilohearts.com/products/phase_plant) |
 
 ---
@@ -111,15 +112,15 @@ Composers working in film and television report that Diva's Divine mode output o
 
 ## Worth Upgrading To (Paid Options)
 
-### Arturia V Collection 10 — When You Need Breadth Alongside Depth
+### Arturia V Collection 11 — When You Need Breadth Alongside Depth
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** $499
-- **Why upgrade:** Diva covers analog subtractive synthesis at exceptional depth but is architecturally focused on one type of instrument. V Collection 10 includes over 30 instrument emulations spanning synthesizers, organs, keyboards, and string machines — making it the natural companion purchase for producers who need stylistic range that Diva's circuit-specific modeling cannot provide.
+- **Why upgrade:** Diva covers analog subtractive synthesis at exceptional depth but is architecturally focused on one type of instrument. V Collection 11 includes over 30 instrument emulations spanning synthesizers, organs, keyboards, and string machines — making it the natural companion purchase for producers who need stylistic range that Diva's circuit-specific modeling cannot provide.
 
-[→ Get Arturia V Collection 10 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
 
 ---
 
@@ -140,7 +141,7 @@ Composers working in film and television report that Diva's Divine mode output o
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | u-he Diva | $179 | Analog Circuit Emulation | Circuit-level modeling, 5 oscillator modules, 6 filter architectures, Divine mode | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Arturia V Collection 10 | $499 | Virtual Instrument Bundle | 30+ instrument emulations, wide stylistic and historical range | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia V Collection 11 | $499 | Virtual Instrument Bundle | 30+ instrument emulations, wide stylistic and historical range | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | Phase Plant | $99 | Modular Hybrid Synthesizer | Wavetable, FM, modular signal routing, modern workflow | [Kilohearts](https://kilohearts.com/products/phase_plant) |
 
 ---
@@ -149,7 +150,7 @@ Composers working in film and television report that Diva's Divine mode output o
 
 - **If you need the most authentic analog bass and lead sounds available in software**, Diva in Divine mode is the current standard — no alternative produces the same combination of harmonic complexity and circuit-accurate response at this price point.
 - **If CPU budget is a firm constraint**, work in Fast mode and freeze tracks before mixing; Diva's Fast mode is still competitive with most alternatives' best quality settings.
-- **If you need a wide range of vintage keyboard, organ, and synthesizer styles**, Arturia V Collection 10 offers breadth that Diva's architecture is not designed for — pairing both covers most production scenarios.
+- **If you need a wide range of vintage keyboard, organ, and synthesizer styles**, Arturia V Collection 11 offers breadth that Diva's architecture is not designed for — pairing both covers most production scenarios.
 - **If you primarily work in modern electronic genres** where FM, wavetable, and granular synthesis dominate, Phase Plant will see more daily use than Diva and is the better first purchase.
 - **If you are scoring for picture**, Diva's harmonic realism in Divine mode makes it the better choice for synthesized elements that need to sit convincingly alongside live instrument recordings.
 
