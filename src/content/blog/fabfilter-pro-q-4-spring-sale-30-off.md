@@ -11,12 +11,13 @@ saleExpiry: "2026-04-30"
 heroImage: "/images/fabfilter-pro-q-4-spring-sale-30-off.jpg"
 
 score: 7.7
+draft: true
 ---
 
 **TL;DR:** FabFilter Pro-Q 4 is 30% off — ~~$189~~ **$132** (save $57). This is FabFilter's standard sale depth — they run 25-30% discounts a few times per year, and they haven't gone deeper in recent history. If you've been waiting for a dip, this is what it looks like. [Check the deal](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off).
 
 <div class="video-embed">
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — Official Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin-bottom:1.5rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — Official Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin-bottom:1.5rem"></iframe>
 </div>
 
 ## What Is Pro-Q 4?

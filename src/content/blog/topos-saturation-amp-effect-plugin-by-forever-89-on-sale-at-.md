@@ -17,7 +17,7 @@ score: 6.04
 **TL;DR:** Topos by Forever 89 — a saturation and amp/speaker simulation plugin with 35 drive models and interactive map-based blending — is currently 30% off. That's ~~$99~~ **$69** at Plugin Boutique. The sale runs until April 15th, 2026. [Grab the deal here.](https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=plugindrop&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763)
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/8976LOntjy0" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/8976LOntjy0" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is Topos?

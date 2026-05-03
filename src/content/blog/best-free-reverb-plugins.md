@@ -17,7 +17,7 @@ score: 2.64
 
 ### 1. Valhalla Supermassive
 <div class="video-embed">
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — Official" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — Official" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 **Best for: Ambient, experimental, massive reverb tails**
 

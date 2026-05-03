@@ -17,7 +17,7 @@ score: 4.99
 **TL;DR:** ModeAudio's Airspace — a hybrid convolution reverb and stereo delay plugin — is currently on sale for **$59 USD** (down from ~~$79~~), saving you $20. The deal runs until April 12th, 2026. If you've been eyeing a texture-rich spatial effect for ambient, electronic, or soundtrack work, [grab Airspace at the discounted price here](https://www.pluginboutique.com/product/2-Effects/17-Reverb/14865-Airspace?utm_source=plugindrop&utm_medium=article&utm_campaign=airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for&a_aid=69cb95abe1763).
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/h97yUlOhIbc" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h97yUlOhIbc" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

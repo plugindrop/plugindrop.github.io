@@ -16,7 +16,7 @@ heroImage: "/images/syntorial-2-training-software-synth-by-audible-genius-on-sal
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/5G0W-NLMqjw" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/5G0W-NLMqjw" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

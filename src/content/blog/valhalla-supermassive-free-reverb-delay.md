@@ -14,7 +14,7 @@ score: 2.37
 **TL;DR:** Valhalla Supermassive — **permanently free.** Not a trial. Not a limited giveaway. Free forever. This is from Valhalla DSP, the same team behind VintageVerb and Plate ($50 each). 18+ reverb/delay modes, near-zero CPU hit. [Download it here](https://valhalladsp.com/shop/reverb/valhalla-supermassive/).
 
 <div class="video-embed">
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — Official Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin-bottom:1.5rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — Official Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin-bottom:1.5rem"></iframe>
 </div>
 
 ## What Is Valhalla Supermassive?

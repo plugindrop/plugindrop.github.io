@@ -14,7 +14,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/lwIuaD8O61M" title="iZotope Ozone 11 vs FabFilter Pro-L 2: Which Mastering Suite Is Right for You? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="iZotope Ozone 11 vs FabFilter Pro-L 2: Which Mastering Suite Is Right for You? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -45,7 +45,7 @@ Before scoring them head-to-head, you need to understand the scope of each tool.
 
 ### iZotope Ozone 11 — The AI-powered all-in-one mastering suite
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/lwIuaD8O61M" title="iZotope Ozone 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="iZotope Ozone 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** $249 (Standard), $499 (Advanced)
@@ -66,7 +66,7 @@ The maximizer inside Ozone is genuinely competitive — IRC algorithms (IRC I th
 
 ### FabFilter Pro-L 2 — The gold-standard limiter for transparent loudness control
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/oMJeWXtJODc" title="FabFilter Pro-L 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/oMJeWXtJODc" title="FabFilter Pro-L 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** ~$199
@@ -131,7 +131,7 @@ Pro-L 2 at $199 is a single limiter. It's worth every dollar for what it does, b
 
 ### iZotope Ozone 11 Advanced — Pro mastering with stem mastering and deeper AI
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Sm66WGBAG_g" title="iZotope Ozone 11 Advanced — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Sm66WGBAG_g" title="iZotope Ozone 11 Advanced — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** $499
@@ -143,7 +143,7 @@ Pro-L 2 at $199 is a single limiter. It's worth every dollar for what it does, b
 
 ### FabFilter Total Bundle — The complete FabFilter production and mastering toolkit
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/I_I_3ojs2Ps" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/I_I_3ojs2Ps" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** ~$799

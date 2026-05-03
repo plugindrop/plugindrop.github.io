@@ -15,7 +15,7 @@ score: 2.88
 **TL;DR:** Soundtoys Little Plate — normally $99, **right now it's free.** That's 100% off an EMT 140-modeled plate reverb. Soundtoys giveaways don't happen often and don't last long. [Grab it here](https://www.pluginboutique.com/product/2-Effects/17-Reverb/4715-Little-Plate?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-little-plate-free-download) while it's still up.
 
 <div class="video-embed">
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/s79qJLUydYE" title="Soundtoys Little Plate — Official Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin-bottom:1.5rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/s79qJLUydYE" title="Soundtoys Little Plate — Official Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin-bottom:1.5rem"></iframe>
 </div>
 
 ## What Is Little Plate?

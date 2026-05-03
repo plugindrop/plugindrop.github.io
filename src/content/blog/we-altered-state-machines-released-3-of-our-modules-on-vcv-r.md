@@ -1,89 +1,83 @@
 ---
 title: "We (Altered State Machines) released 3 of our Modules on VCV Rack for free. Here's a crappy video announcing it!"
-description: "Altered State Machines just made 3 of their VCV Rack modules completely free. No catch, no time limit mentioned — just free modular tools added to your..."
-pubDate: "2026-04-29T18:31:48Z"
+description: "Altered State Machines has made three of their VCV Rack modules available at no cost — a straight free grab for modular synthesis enthusiasts. No trial..."
+pubDate: "2026-04-29T18:48:55Z"
 tags: ["free", "synth", "music-production"]
 affiliate: "https://youtu.be/xVIjHaD8eAw"
-heroImage: "/images/we-altered-state-machines-released-3-of-our-modules-on-vcv-r.jpg"
-score: 7.80
+score: 8.10
 dealPrice: "FREE"
-xText: "free vcv modules that actually slap. altered state machines just dropped three new ones—better than most paid stuff. grab them now."
+xText: "altered state machines released 3 free vcv modules and the fact that nobody's talking about this yet is wild. honestly solid stuff too."
 draft: false
 ---
-**TL;DR:** Altered State Machines just made 3 of their VCV Rack modules completely free. No catch, no time limit mentioned — just free modular tools added to your rack. [Watch the announcement and get them here](https://youtu.be/xVIjHaD8eAw).
+**TL;DR:** Altered State Machines has made three of their VCV Rack modules available at no cost — a straight free grab for modular synthesis enthusiasts. No trial limits, no coupon needed. [→ Watch the announcement and get the modules at Direct](https://youtu.be/xVIjHaD8eAw)
 
 ---
 
-## What Are the Altered State Machines Free VCV Rack Modules?
+## Altered State Machines Drops 3 Free VCV Rack Modules
 
-Altered State Machines is a developer in the VCV Rack ecosystem — the free, open-source virtual modular synthesizer platform that's become a staple for producers exploring Eurorack-style synthesis without hardware costs. Third-party developers publish modules (free and paid) into VCV Rack's library, and Altered State Machines has just moved 3 of theirs into the free column. That's not demos. Not crippled versions. Three full modules, free.
+## What Are These VCV Rack Modules?
 
-Check the announcement video for the specific module names and their individual capabilities — the details are all there straight from the developers.
+Altered State Machines is a developer building modules for VCV Rack, the free and open-source virtual modular synthesizer platform. Their modules extend VCV Rack's signal processing and synthesis capabilities for producers working in the modular format. This release makes three of their previously commercial (or in-development) modules freely available — announced directly via a video from the team.
 
----
+VCV Rack itself runs on Windows, macOS, and Linux, and supports a vast ecosystem of third-party modules ranging from oscillators and filters to sequencers and utilities.
 
 ## Key Features
 
-- **VCV Rack native**: These modules plug directly into VCV Rack and integrate seamlessly with thousands of other modules in the ecosystem
-- **Three complete modules**: Full-functionality releases, not feature-limited trials — verify specifics on the official product page
-- **CV-patchable architecture**: Like all VCV Rack modules, these connect via virtual patch cables, enabling complex modulation and signal routing
-- **No activation required**: VCV Rack's module system handles installation through its built-in library browser — no separate account or iLok needed
-- **Cross-platform**: VCV Rack runs on Mac, Windows, and Linux — check the official site for current system requirements
-
----
+- **VCV Rack native format** — modules run directly inside VCV Rack's patching environment, compatible with the platform's standard CV/audio routing
+- **Free licensing** — the three modules are available at no cost, with no stated time limit on availability
+- **Third-party developer support** — Altered State Machines builds specifically for the VCV Rack ecosystem, meaning modules are designed to integrate with both free and paid modules from other developers
+- **Video documentation** — the announcement includes a walkthrough video demonstrating the modules in context
 
 ## Who Is It For?
 
-- **Existing VCV Rack users**: If you already run patches, these drop straight into your existing setup with zero friction.
-- **Modular beginners**: Free modules dramatically lower the cost of experimenting with Eurorack-style synthesis concepts before investing in hardware.
-- **Sound designers and experimenters**: VCV Rack's CV-first architecture suits generative, evolving, and non-traditional patch designs.
-- **DAW-based producers**: VCV Rack bridges into most major DAWs as a VST/AU plugin, so these modules are relevant even outside a pure modular context.
-
----
+- **VCV Rack users** — anyone already running VCV Rack can add these modules to their existing patches immediately
+- **Modular synthesis learners** — free modules lower the barrier to experimenting with new signal processing approaches without financial risk
+- **Electronic music producers** — producers exploring semi-modular or fully modular workflows in a software environment gain additional tools at no cost
+- **Sound designers** — those building complex generative or experimental patches in VCV Rack can extend their module library without spending
 
 ## Pricing & Deal Details
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
-| Verify on product page | **FREE** | 100% |
+| — | **FREE** | 100% |
 
-Three modules. Zero dollars. Verify current pricing on the product page — deals can change without notice.
+These modules are currently available at no cost. No pricing history is available for comparison, and no original price has been stated for this release.
 
-[Grab the free modules via the announcement](https://youtu.be/xVIjHaD8eAw)
+*Price verified at publication. Check the link for current availability.*
 
----
+[→ Get the modules at Direct](https://youtu.be/xVIjHaD8eAw)
 
 ## Alternatives at a Glance
 
 | Name | Price | Key Difference |
 |---|---|---|
-| VCV Rack Official Modules | Free | First-party modules bundled directly with VCV Rack installation |
-| Bogaudio | Free | Large, long-established free library covering oscillators, filters, and utilities |
-| Surge XT for Rack | Free | Ports the complete Surge XT synth engine as a single VCV Rack module |
+| VCV Rack free library | Free | Large curated set of free modules maintained by VCV itself |
+| Bogaudio modules | Free | Open-source developer with a wide range of utility and synthesis modules |
+| Valley modules | Free | Focuses on creative effects and experimental synthesis tools |
 
-The official VCV modules and Bogaudio cover a wide range of foundational functions for free. Altered State Machines brings its own design perspective to the table — watch the announcement to see where these three slots fit relative to what you already have in your rack.
-
----
+If you want a large foundational module set, the official VCV free library covers the basics. If you're looking for specific synthesis character or effects processing, free third-party developers like Bogaudio and Valley each have distinct design philosophies worth exploring alongside Altered State Machines' offering.
 
 ## FAQ
 
 **Q: Do I need to pay for VCV Rack to use these modules?**
-A: VCV Rack has a free version. Check the official VCV Rack site for details on what differs between tiers.
+A: VCV Rack itself is free and open-source. The modules run within that free platform.
 
-**Q: Where do I download these free modules?**
-A: Start with the [announcement video](https://youtu.be/xVIjHaD8eAw) — download links and instructions are in the description.
+**Q: Is there an iLok or account requirement to download?**
+A: No iLok requirement is associated with VCV Rack module distribution. Check the official VCV Rack library or the developer's page for specific download instructions.
 
-**Q: Are these permanently free or a limited-time offer?**
-A: The announcement describes them as a free release, but verify the current status on the official product page since policies can change.
+**Q: Are these modules time-limited or will they stay free?**
+A: The announcement describes the modules as free, with no stated expiration. The deal structure does not mention any trial period or future pricing change.
 
-**Q: Do I need an iLok or account to activate them?**
-A: VCV Rack modules install through the platform's built-in library — check the official site for any account requirements specific to these modules.
+**Q: What operating systems are supported?**
+A: VCV Rack supports Windows, macOS, and Linux. Module compatibility follows the host platform.
 
 ---
 
 ## Get the Deal
 
-Free modular tools from an active developer. Add them to your rack now before you forget. [Watch the announcement and download all three here.](https://youtu.be/xVIjHaD8eAw)
+Three VCV Rack modules from Altered State Machines are now free — a clean addition to any modular software setup with no cost barrier. Watch the announcement video for a walkthrough of what each module does.
+
+[→ Get the Altered State Machines Modules at Direct](https://youtu.be/xVIjHaD8eAw)
 
 ---
 

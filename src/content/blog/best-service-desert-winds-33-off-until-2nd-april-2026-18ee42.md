@@ -15,7 +15,7 @@ draft: true
 **TL;DR:** Best Service Desert Winds is 33% off right now — ~~$119~~ **$79** — saving you $40 on one of the most expressive Middle Eastern wind instrument libraries available. This deal runs until **April 2nd, 2026**, so the window is tight. [Grab Desert Winds at 33% off here.](https://www.bestservice.com/en/desert_winds.html)
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/m0LPoIrxkJg" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/m0LPoIrxkJg" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

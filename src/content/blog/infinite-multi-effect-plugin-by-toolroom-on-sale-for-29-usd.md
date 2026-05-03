@@ -16,7 +16,7 @@ heroImage: "/images/infinite-multi-effect-plugin-by-toolroom-on-sale-for-29-usd.
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/hsL5HrfrUf0" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/hsL5HrfrUf0" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

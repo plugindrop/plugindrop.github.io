@@ -18,7 +18,7 @@ score: 5.16
 **TL;DR:** Portatron by Robotic Bean — the 4-track tape loop synthesizer — is currently 30% off at **$69** (~~regular price~~). That's a solid discount on one of the more unique lo-fi instruments out there. Deal expires **April 12th**. [Grab Portatron at 30% off here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763)
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/OtcAuBR3PmM" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OtcAuBR3PmM" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

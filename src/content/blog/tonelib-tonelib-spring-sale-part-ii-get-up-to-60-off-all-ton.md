@@ -16,7 +16,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/kqiXWuF8D6M" title="ToneLib — Tonelib Spring Sale Part II: Get up to 60% Off All ToneLib Products and Bundles — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/kqiXWuF8D6M" title="ToneLib — Tonelib Spring Sale Part II: Get up to 60% Off All ToneLib Products and Bundles — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

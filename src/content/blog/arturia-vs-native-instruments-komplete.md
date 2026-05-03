@@ -15,7 +15,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/gjIwo3Pnorg" title="Arturia V Collection vs NI Komplete: Which Bundle Is Worth Your Money? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection vs NI Komplete: Which Bundle Is Worth Your Money? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -47,7 +47,7 @@ Before the head-to-head, the scope of each bundle needs to be clear, because the
 
 ### Arturia V Collection 10 — The Vintage Keyboard Library
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/gjIwo3Pnorg" title="Arturia V Collection 10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** ~$499 (frequent sales at $199–$299)
@@ -64,7 +64,7 @@ V Collection 10 contains 40+ instruments, almost all emulations of iconic vintag
 
 ### Native Instruments Komplete 14 Standard — The Production Swiss Army Knife
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/y9PU7pLkO7g" title="Native Instruments Komplete — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/y9PU7pLkO7g" title="Native Instruments Komplete — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
 - **Price:** ~$599 (frequent sales at ~$299)
@@ -125,7 +125,7 @@ Both bundles go on deep sale. V Collection 10 at $199 represents arguably more f
 
 ### Arturia V Collection 10 — Deepest vintage synth library available
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/gjIwo3Pnorg" title="Arturia V Collection 10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** ~$499 (watch for sales at $199–$299)
@@ -137,7 +137,7 @@ Both bundles go on deep sale. V Collection 10 at $199 represents arguably more f
 
 ### Native Instruments Komplete 14 Ultimate — When Standard isn't enough
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ftJS9zSS6RM" title="Native Instruments Komplete 14 Ultimate — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ftJS9zSS6RM" title="Native Instruments Komplete 14 Ultimate — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
 - **Price:** ~$999 (sales at ~$499)

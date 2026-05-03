@@ -16,19 +16,19 @@ score: 1.53
 ## The 10 Best Free Drum Plugins
 
 ### 1. Steven Slate Drums SSD5.5 FREE
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/dzctGK4HUjw" title="Steven Slate Drums SSD5 FREE — Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/dzctGK4HUjw" title="Steven Slate Drums SSD5 FREE — Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 **Type: Sample-based | Best for: Rock, pop, session-quality acoustic drums**
 
 Industry-standard drum samples recorded at top studios with professional mic placements. The free version includes a core multi-layered kit with bleed-channel mixing. A go-to for producers who need realistic acoustic drums without paying for Superior Drummer or BFD.
 
 ### 2. MT Power Drum Kit 2
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/hvIFUf6uYXM" title="MT Power DrumKit 2 — Free Drum Kit VST Plugin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/hvIFUf6uYXM" title="MT Power DrumKit 2 — Free Drum Kit VST Plugin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 **Type: Sample-based | Best for: Rock, pop, live-sounding acoustic drums**
 
 High-quality acoustic drum samples with multiple velocity layers and round-robin sampling. Includes a built-in MIDI groove library covering rock, pop, and jazz patterns. Punchy, natural-sounding output with minimal setup.
 
 ### 3. Sitala by Decomposer
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/wF5LA-M50Rc" title="Sitala by Decomposer — FREE Drum Plugin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/wF5LA-M50Rc" title="Sitala by Decomposer — FREE Drum Plugin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 **Type: Sample-based drum machine | Best for: Hip-hop, lo-fi, beat-making**
 
 Lightweight 16-pad drum sampler with per-pad pitch, envelope, and filter controls. Drag-and-drop sample loading with a clean interface. Low CPU, no install complexity — fast to set up for quick beat-making sessions.

@@ -16,7 +16,7 @@ heroImage: "/images/save-60-on-mirror-reverse-negative-delay-by-united-plugins.j
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/QlNBunhrqzY" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QlNBunhrqzY" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

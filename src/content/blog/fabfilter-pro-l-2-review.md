@@ -12,7 +12,7 @@ draft: false
 **TL;DR:** FabFilter Pro-L 2 is still the mastering limiter most professionals reach for first in 2026 — eight precisely tuned limiting algorithms, true peak control up to 32x oversampling, and a metering suite that handles every modern streaming target without a separate tool. At $199 it is a premium investment, but nothing else at this price offers the same combination of transparency, loudness control, and workflow depth.
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/oMJeWXtJODc" title="FabFilter Pro-L 2 Review: Still the Best Mastering Limiter in 2026? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/oMJeWXtJODc" title="FabFilter Pro-L 2 Review: Still the Best Mastering Limiter in 2026? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -40,7 +40,7 @@ This review covers every aspect of Pro-L 2 in practical depth: all eight limitin
 
 ### The Core Interface — Deceptively Simple, Massively Deep
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ZWwfep88Ny4" title="The Core Interface — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ZWwfep88Ny4" title="The Core Interface — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $199
@@ -105,7 +105,7 @@ The price is also a real consideration. At $199, Pro-L 2 is a professional tool 
 
 ### iZotope Ozone 11 — Full AI-assisted mastering in one suite
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/lwIuaD8O61M" title="iZotope Ozone 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="iZotope Ozone 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** $499 (Standard), $999 (Advanced)
@@ -119,7 +119,7 @@ The price is also a real consideration. At $199, Pro-L 2 is a professional tool 
 
 ### FabFilter Total Bundle — Every FabFilter tool, one licence
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/PdI-antGV5M" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/PdI-antGV5M" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $899

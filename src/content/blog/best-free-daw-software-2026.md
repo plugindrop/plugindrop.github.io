@@ -25,7 +25,7 @@ When you are ready to expand with professional plugins, [Plugin Boutique](https:
 
 ### 1. Ardour
 <div class="video-embed">
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/YpMP8uGGpzI" title="Ardour — What is Ardour?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YpMP8uGGpzI" title="Ardour — What is Ardour?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 Open-source DAW for Linux, macOS, and Windows. Supports unlimited tracks, MIDI, audio recording, and a non-destructive editing workflow. **Note:** The source code is free to compile yourself. Official pre-built binaries require a small payment or subscription — so "free" here means you either build from source or pay for convenience.
 

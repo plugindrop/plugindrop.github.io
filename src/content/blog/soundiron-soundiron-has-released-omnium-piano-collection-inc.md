@@ -3,7 +3,7 @@ title: "Soundiron — Soundiron has released Omnium Piano Collection, including 
 description: "Soundiron's Omnium Piano Collection — 16 virtual instruments for Kontakt Player — is on sale for $199 (reg. $249), an intro 20% off deal."
 pubDate: "2026-04-22T05:35:32Z"
 tags: ["soundiron", "bundle", "music-production"]
-affiliate: ""
+affiliate: "https://www.pluginboutique.com/search?search_query=omnium+piano+collection&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-soundiron-has-released-omnium-piano-collection-inc"
 heroImage: "/images/soundiron-soundiron-has-released-omnium-piano-collection-inc.jpg"
 score: 7.08
 dealPrice: "$199"
@@ -12,12 +12,12 @@ discount: "20% OFF"
 xText: "intro pricing on 16 kontakt pianos = stupid per-unit cost if you touch orchestral or cinematic work. that's the whole math on bundles."
 draft: false
 ---
-**TL;DR:** Soundiron's **Omnium Piano Collection** — 16 virtual instruments for Kontakt Player — is on sale for **$199** (reg. $249) as an intro 20% discount. No stated expiry, which means it can close without warning. Grab it directly from Soundiron while the intro window is open.
+**TL;DR:** Soundiron's **Omnium Piano Collection** — 16 virtual instruments for Kontakt Player — is on sale for **$199** (reg. $249) as an intro 20% discount. No stated expiry, which means it can close without warning. [Grab it directly from Soundiron](https://www.pluginboutique.com/search?search_query=omnium+piano+collection&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-soundiron-has-released-omnium-piano-collection-inc) while the intro window is open.
 
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/BTOGMSQv1mY" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BTOGMSQv1mY" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -55,7 +55,7 @@ The $199 intro price represents a 20% discount off the standard retail price of 
 
 > **Note:** Verify current pricing on the product page — deals can change.
 
-Get the Omnium Piano Collection at Soundiron.com →
+[Get the Omnium Piano Collection at Soundiron.com →](https://www.pluginboutique.com/search?search_query=omnium+piano+collection&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-soundiron-has-released-omnium-piano-collection-inc)
 
 ---
 
@@ -91,7 +91,7 @@ A: Refer to Soundiron's licensing terms on the product page for activation limit
 
 Sixteen Kontakt Player instruments for $199 (20% off $249) — that's the pitch, and it's a straightforward one. The 20% intro discount has no announced expiry, but intro pricing rarely sticks around forever.
 
-Pick up the Omnium Piano Collection at Soundiron.com →
+[Pick up the Omnium Piano Collection at Soundiron.com →](https://www.pluginboutique.com/search?search_query=omnium+piano+collection&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-soundiron-has-released-omnium-piano-collection-inc)
 
 ---
 

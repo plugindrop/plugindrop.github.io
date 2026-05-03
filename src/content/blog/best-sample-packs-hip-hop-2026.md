@@ -15,7 +15,7 @@ affiliate: "https://www.pluginboutique.com/genres/5?a_aid=69cb95abe1763&utm_sour
 
 ### 1. Splice Sounds — Hip-Hop Essentials Collections
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/jGrDi3ZmBvs" title="Making Beats With Splice — First Look" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/jGrDi3ZmBvs" title="Making Beats With Splice — First Look" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 
 **Best for: Access to a massive royalty-free hip-hop library**
 
@@ -39,7 +39,7 @@ Essential for producers who need free material for sampling and interpolation pr
 
 ### 4. Cymatics — Modern Trap and Hip-Hop Packs
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/UFDX8I6wCC4" title="Making Beats with Free Sample Packs — Cymatics Hip-Hop Starter Pack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/UFDX8I6wCC4" title="Making Beats with Free Sample Packs — Cymatics Hip-Hop Starter Pack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 
 **Best for: Trap drums, 808s, and modern hip-hop sound design**
 
@@ -65,7 +65,7 @@ Expansions typically run $50–$100; frequently included in Native Access bundle
 
 ### 7. Producergrind — Full Construction Kits
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/qq8aJar55rA" title="450 FREE Hip Hop Samples Construction Kit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/qq8aJar55rA" title="450 FREE Hip Hop Samples Construction Kit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 
 **Best for: Ready-made hip-hop construction kits with stems**
 

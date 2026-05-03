@@ -12,7 +12,7 @@ draft: false
 **TL;DR:** FabFilter Pro-C 2 delivers eight distinct compression styles, surgical parameter control, and the most informative gain reduction metering available in any dynamics plugin — all for $179. For producers serious about transparent dynamics control in 2026, it's the benchmark other compressors are measured against.
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/mSzvpCz-M2k" title="FabFilter Pro-C 2 Review: The Most Transparent Compressor Plugin? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mSzvpCz-M2k" title="FabFilter Pro-C 2 Review: The Most Transparent Compressor Plugin? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -40,11 +40,11 @@ This review covers everything you need to know before buying Pro-C 2 in 2026: al
 
 ## FabFilter Pro-C 2 — Full Plugin Review
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/mSzvpCz-M2k" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mSzvpCz-M2k" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### FabFilter Pro-C 2 — The Transparent Standard for Modern Mixing
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/R1VetmWadbg" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/R1VetmWadbg" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
@@ -125,7 +125,7 @@ Oversampling options go up to 32x, pushing the internal noise floor below what a
 
 ### Waves SSL G-Master Buss Compressor — Analog Character With Proven History
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/rYLE97NbenM" title="Waves SSL G-Master Buss Compressor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rYLE97NbenM" title="Waves SSL G-Master Buss Compressor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves
 - **Price:** ~$29–$49 (frequent sale pricing)
@@ -135,7 +135,7 @@ Oversampling options go up to 32x, pushing the internal noise floor below what a
 
 ### FabFilter Total Bundle — The Complete Workflow Investment
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/I_I_3ojs2Ps" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/I_I_3ojs2Ps" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** ~$899

@@ -16,7 +16,7 @@ heroImage: "/images/audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/GVIVs2XCo9M" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/GVIVs2XCo9M" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

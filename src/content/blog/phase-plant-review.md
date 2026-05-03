@@ -13,7 +13,7 @@ draft: false
 **TL;DR:** Phase Plant by Kilohearts is the most architecturally flexible synthesizer available today — a modular blank canvas where you stack generators, route modulators, and chain Snapin effects into virtually any synthesis style imaginable. It has a genuinely usable free tier (Phase Plant Essentials) and a full version that competes with synths costing twice as much. If you do serious sound design, nothing in 2026 comes close to its depth-per-dollar.
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/yVmrRfk8FdM" title="Phase Plant Review: The Most Flexible Synth for Sound Designers in 2026? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yVmrRfk8FdM" title="Phase Plant Review: The Most Flexible Synth for Sound Designers in 2026? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -40,11 +40,11 @@ This guide is a deep-dive review for sound designers, electronic producers, and 
 
 ## Phase Plant — Deep Dive Review
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### Phase Plant — The Most Modular Semi-Modular Synth in Its Class
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1bhZN7hON6U" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1bhZN7hON6U" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** Free tier available / Full version ~$199 (check site for current pricing)
@@ -102,9 +102,9 @@ It's less ideal for producers who need a fast preset-browser workflow and minima
 
 ### Serum — The Wavetable Benchmark, Still Earning Its Reputation
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
 - **Price:** ~$189 (perpetual license or Splice subscription)
@@ -116,7 +116,7 @@ It's less ideal for producers who need a fast preset-browser workflow and minima
 
 ### u-he Hive 2 — The Fast-Workflow Hybrid for Working Producers
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dJtf3JmwnjI" title="u-he Hive 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/dJtf3JmwnjI" title="u-he Hive 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** ~$149

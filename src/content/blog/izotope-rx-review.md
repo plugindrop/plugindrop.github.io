@@ -14,7 +14,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/aa_lUrD0n9M" title="iZotope RX 11 Review: The Industry Standard for Audio Repair — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/aa_lUrD0n9M" title="iZotope RX 11 Review: The Industry Standard for Audio Repair — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -42,7 +42,7 @@ This guide is for music producers, podcasters, dialogue editors, and home studio
 
 ### iZotope RX 11 — The Most Complete Audio Repair Suite Available
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/aa_lUrD0n9M" title="iZotope RX 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/aa_lUrD0n9M" title="iZotope RX 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** Standard ~$399 / Advanced ~$1,199
@@ -123,7 +123,7 @@ One honest limitation: RX is not the right tool for light, occasional use. If yo
 
 ### iZotope RX 11 — The Full Professional Suite
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/MhUEmvneerc" title="iZotope RX 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/MhUEmvneerc" title="iZotope RX 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** Standard ~$399 / Advanced ~$1,199
@@ -133,7 +133,7 @@ One honest limitation: RX is not the right tool for light, occasional use. If yo
 
 ### iZotope RX Elements — The Entry Point Worth Owning
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/MhUEmvneerc" title="iZotope RX Elements — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/MhUEmvneerc" title="iZotope RX Elements — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** ~$99

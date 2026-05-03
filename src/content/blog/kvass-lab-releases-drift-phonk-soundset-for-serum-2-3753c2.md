@@ -14,7 +14,7 @@ score: 4.0
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/CKxjWXSBcM4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CKxjWXSBcM4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## KVASS Lab Drift Phonk Soundset for Serum 2: What You Need to Know

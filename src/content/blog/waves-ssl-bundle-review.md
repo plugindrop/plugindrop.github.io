@@ -14,7 +14,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/ca__LGPDK2o" title="Waves SSL Bundle Review: Are These Classic Console Emulations Worth It? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ca__LGPDK2o" title="Waves SSL Bundle Review: Are These Classic Console Emulations Worth It? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -43,7 +43,7 @@ This guide is a deep-dive review of the core Waves SSL bundle: the E-Channel str
 
 ### Waves SSL E-Channel — The Industry's Default Channel Strip
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ca__LGPDK2o" title="Waves SSL E-Channel — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ca__LGPDK2o" title="Waves SSL E-Channel — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves Audio
 - **Price:** ~$29–49 (Waves sale pricing; check current price at link)
@@ -66,7 +66,7 @@ One honest limitation: the EQ's analog-modeled curves can sound slightly thick o
 
 ### Waves SSL G-Master Buss Compressor — The Definitive Glue Compressor
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/rYLE97NbenM" title="Waves SSL G-Master Buss Compressor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rYLE97NbenM" title="Waves SSL G-Master Buss Compressor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves Audio
 - **Price:** ~$29–49 (Waves sale pricing; check current price at link)
@@ -91,7 +91,7 @@ The mix knob is genuinely useful. Running the compressor at 30–50% wet allows 
 
 ### Waves SSL 4000 Collection — The Complete SSL Console in Software
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/yP-vzPuLxfA" title="Waves SSL 4000 Collection — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yP-vzPuLxfA" title="Waves SSL 4000 Collection — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves Audio
 - **Price:** Bundle pricing (check current sale)
@@ -103,7 +103,7 @@ The mix knob is genuinely useful. Running the compressor at 30–50% wet allows 
 
 ### FabFilter Total Bundle — The Modern Precision Alternative
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/I_I_3ojs2Ps" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/I_I_3ojs2Ps" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** Premium bundle pricing (check current price)

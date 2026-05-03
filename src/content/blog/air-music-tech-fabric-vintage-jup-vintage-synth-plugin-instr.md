@@ -16,7 +16,7 @@ heroImage: "/images/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/IctmWvvJy9k" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IctmWvvJy9k" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

@@ -15,7 +15,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/bpb0QLrwwEY" title="Arturia Pigments 4 Review: Is This the Best All-in-One Soft Synth? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bpb0QLrwwEY" title="Arturia Pigments 4 Review: Is This the Best All-in-One Soft Synth? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -45,7 +45,7 @@ The core argument for Pigments 4 rests on its multi-engine architecture. Two eng
 
 ### Wavetable Engine — Instant Modern Leads and Pads
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fmKHB4UCYRQ" title="Wavetable Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fmKHB4UCYRQ" title="Wavetable Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in Pigments 4 (~$199)
@@ -62,7 +62,7 @@ The wavetable engine handles the sonic territory that defines modern electronic 
 
 ### Virtual Analog Engine — Fat Basses and Classic Synth Character
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Jn1FXdYx58o" title="Virtual Analog Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Jn1FXdYx58o" title="Virtual Analog Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in Pigments 4 (~$199)
@@ -79,7 +79,7 @@ The virtual analog engine covers the bread-and-butter synthesis that powered dec
 
 ### Harmonic / Additive Engine — Unique Timbres No Other Method Produces
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/b8sWsALyABQ" title="Harmonic / Additive Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/b8sWsALyABQ" title="Harmonic / Additive Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in Pigments 4 (~$199)
@@ -96,7 +96,7 @@ The additive engine is where Pigments genuinely separates itself from the pack. 
 
 ### Granular Engine — Morphing Atmospheres and Time-Stretched Complexity
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/AzctFLgtEGA" title="Granular Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/AzctFLgtEGA" title="Granular Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in Pigments 4 (~$199)
@@ -113,7 +113,7 @@ Granular synthesis slices any audio into microscopic grains and reassembles them
 
 ### Sample Engine — Rompler Functionality Built Into the Ecosystem
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/lTRW83CMXiE" title="Sample Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lTRW83CMXiE" title="Sample Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in Pigments 4 (~$199)
@@ -164,7 +164,7 @@ On mid-range 2024 hardware, Pigments 4 runs efficiently with multiple instances 
 
 ### Phase Plant — Modular Depth for Power Users
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** ~$199 (perpetual) or via Kilohearts subscription
@@ -176,7 +176,7 @@ On mid-range 2024 hardware, Pigments 4 runs efficiently with multiple instances 
 
 ### Arturia V Collection 10 — The Complete Vintage Instrument Ecosystem
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/gjIwo3Pnorg" title="Arturia V Collection 10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** ~$599 (regularly on sale)

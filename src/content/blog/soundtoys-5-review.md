@@ -15,7 +15,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/NlGqjb1ncF4" title="Soundtoys 5 Review: The Creative Effects Bundle Every Producer Wants — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/NlGqjb1ncF4" title="Soundtoys 5 Review: The Creative Effects Bundle Every Producer Wants — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -46,7 +46,7 @@ This guide covers every major plugin in the Soundtoys 5 bundle: what each one ac
 
 ### Decapitator — The bundle's most-reached-for plugin
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/_3Q3U-v0pzA" title="Decapitator — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_3Q3U-v0pzA" title="Decapitator — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** Included in bundle ($199 standalone)
@@ -66,7 +66,7 @@ Its real advantage over more complex competitors is speed: the five circuit mode
 
 ### Radiator — Tube warmth with surgical simplicity
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/z_0ImtrMo90" title="Radiator — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/z_0ImtrMo90" title="Radiator — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** Included in bundle
@@ -87,7 +87,7 @@ It excels on acoustic instruments, piano, strings, and any source where you want
 
 ### EchoBoy — The most versatile delay plugin available
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/CMxM4YDpWM8" title="EchoBoy — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CMxM4YDpWM8" title="EchoBoy — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** Included in bundle ($199 standalone)
@@ -107,7 +107,7 @@ Four output modes cover everything from standard single echoes to ping-pong dela
 
 ### Crystallizer — Granular reverse pitch shimmer
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/UYZdFYeaEEA" title="Crystallizer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/UYZdFYeaEEA" title="Crystallizer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** Included in bundle
@@ -126,7 +126,7 @@ This is the bundle's most experimental plugin — it does not have obvious every
 
 ### PrimalTap — Lo-fi vintage digital delay character
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/HX0u91lzPMQ" title="PrimalTap — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/HX0u91lzPMQ" title="PrimalTap — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** Included in bundle
@@ -147,7 +147,7 @@ Where EchoBoy handles pristine and characterful delays alike, PrimalTap is speci
 
 ### Little AlterBoy — The vocal transformation tool producers argue about
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dP5y0Jiuqb0" title="Little AlterBoy — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/dP5y0Jiuqb0" title="Little AlterBoy — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** Included in bundle ($99 standalone)
@@ -166,7 +166,7 @@ These artifacts are the point — producers use them intentionally rather than w
 
 ### MicroShift — Instant professional stereo width
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/WmtmNQPreQA" title="MicroShift — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WmtmNQPreQA" title="MicroShift — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** Included in bundle ($99 standalone)
@@ -185,7 +185,7 @@ The "Vintage" model is particularly effective for making mono synthesizers sound
 
 ### FilterFreak — Animated filtering for groove and movement
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/uYG7QUtvQLY" title="FilterFreak — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/uYG7QUtvQLY" title="FilterFreak — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** Included in bundle
@@ -206,7 +206,7 @@ Think classic funky wah filter effects with the precision of sequenced automatio
 
 ### Devil-Loc — Aggressive glue compression for drums
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ROXGGqTBHYw" title="Devil-Loc — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ROXGGqTBHYw" title="Devil-Loc — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** Included in bundle
@@ -225,7 +225,7 @@ This is not a general-purpose compressor and is not trying to be. For the specif
 
 ### Tremolator & PanMan — Organic rhythmic movement
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/7k4_pDUKqK0" title="Tremolator & PanMan — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/7k4_pDUKqK0" title="Tremolator & PanMan — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** Included in bundle
@@ -246,7 +246,7 @@ Both support tempo sync while deliberately avoiding perfect quantization. That h
 
 ### Soundtoys 5 — The full bundle is the obvious move
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/NlGqjb1ncF4" title="Soundtoys 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/NlGqjb1ncF4" title="Soundtoys 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** $499 (regularly on sale ~$299)
@@ -258,7 +258,7 @@ Both support tempo sync while deliberately avoiding perfect quantization. That h
 
 ### Soundtoys Decapitator — The best entry point into the Soundtoys world
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/_3Q3U-v0pzA" title="Soundtoys Decapitator — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_3Q3U-v0pzA" title="Soundtoys Decapitator — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** $199

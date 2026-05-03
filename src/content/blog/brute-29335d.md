@@ -9,7 +9,7 @@ score: 8.82
 dealPrice: "$29.00"
 originalPrice: "$119.00"
 discount: "76% OFF"
-xText: "brute at 76% off is a price that never happens. compressor that sits right in a mix without destroying anything. this deal is probably temporary so move fast"
+xText: "brute at 76% off is a price that never happens. virtual instrument with aggressive character that cuts through a mix. this deal is probably temporary so move fast"
 draft: false
 ---
 **TL;DR:** BRUTE is currently 76% off at Plugin Boutique — down from ~~$119.00~~ to $29.00, saving you $90 on a virtual instrument that rarely drops this far. [→ Get BRUTE at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/7938-BRUTE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=brute-29335d)
@@ -17,7 +17,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/trSb6qOhciY" title="76% Off BRUTE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/trSb6qOhciY" title="76% Off BRUTE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

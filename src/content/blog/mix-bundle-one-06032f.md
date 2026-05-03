@@ -21,7 +21,7 @@ Now I have everything needed. Writing the article.
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/UWtre9qsUuE" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/UWtre9qsUuE" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

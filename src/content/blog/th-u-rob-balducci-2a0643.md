@@ -3,7 +3,7 @@ title: "TH-U Rob Balducci — Overloud Mid-Season Sale 50% Off"
 description: "The TH-U Rob Balducci signature rig from Overloud is on sale for €49 (reg. €99) — 50% off a professionally captured artist guitar rig for TH-U."
 pubDate: "2026-04-22T08:39:13Z"
 tags: ["vst-plugin", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/5080-TH-U?a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/search?search_query=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643"
 heroImage: "/images/th-u-rob-balducci-2a0643.jpg"
 score: 3.35
 dealPrice: "€49"
@@ -11,7 +11,7 @@ originalPrice: "€99"
 discount: "51% OFF"
 draft: false
 ---
-**TL;DR:** The TH-U Rob Balducci signature rig from Overloud is on sale for **€49** (reg. €99) as part of their mid-season sale — 50% off a professionally captured artist guitar rig for TH-U. If you produce rock or fusion-influenced tracks, [check it out at Overloud](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/5080-TH-U?a_aid=69cb95abe1763).
+**TL;DR:** The TH-U Rob Balducci signature rig from Overloud is on sale for **€49** (reg. €99) as part of their mid-season sale — 50% off a professionally captured artist guitar rig for TH-U. If you produce rock or fusion-influenced tracks, [check it out at Overloud](https://www.pluginboutique.com/search?search_query=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643).
 
 ---
 
@@ -52,7 +52,7 @@ Part of Overloud's mid-season sale offering up to 60% off TH-U plug-ins and libr
 
 Verify current pricing on the product page — deals can change.
 
-[Pick up TH-U Rob Balducci at Overloud](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/5080-TH-U?a_aid=69cb95abe1763)
+[Pick up TH-U Rob Balducci at Overloud](https://www.pluginboutique.com/search?search_query=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643)
 
 ---
 
@@ -86,7 +86,7 @@ A: Rob Balducci is a guitarist known for his work in the melodic rock and instru
 
 ## Get the Deal
 
-[Grab the TH-U Rob Balducci expansion at Overloud](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/5080-TH-U?a_aid=69cb95abe1763) for €49 during the mid-season sale and add it to your TH-U library.
+[Grab the TH-U Rob Balducci expansion at Overloud](https://www.pluginboutique.com/search?search_query=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643) for €49 during the mid-season sale and add it to your TH-U library.
 
 ---
 

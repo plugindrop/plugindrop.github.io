@@ -13,7 +13,7 @@ draft: false
 **TL;DR:** iZotope Neutron 4 is the most complete AI-assisted channel strip on the market in 2026 — its Track Assistant and Unmask features alone justify the price for producers who mix their own music. If you're a songwriter or beatmaker who wants professional-sounding mixes without a steep learning curve, it's the most practical buy in the channel strip category.
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/vsjZop8_Fq4" title="iZotope Neutron 4 Review: Is AI-Assisted Mixing Actually Useful? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vsjZop8_Fq4" title="iZotope Neutron 4 Review: Is AI-Assisted Mixing Actually Useful? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -116,7 +116,7 @@ Third, **the price structure creates awkward decisions**. Neutron 4 Standard is 
 
 ### FabFilter Pro-Q 3 — The Best Pure EQ on the Market
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
@@ -130,7 +130,7 @@ Third, **the price structure creates awkward decisions**. Neutron 4 Standard is 
 
 ### iZotope Music Production Suite — The Full Ecosystem
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/BbADT051Nuk" title="iZotope Music Production Suite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BbADT051Nuk" title="iZotope Music Production Suite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** Bundle pricing — check current offers

@@ -21,7 +21,7 @@ Good, I have the product details. Writing the article now.
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/wKBh4vnXbrY" title="78% Off SPARKLE 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wKBh4vnXbrY" title="78% Off SPARKLE 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

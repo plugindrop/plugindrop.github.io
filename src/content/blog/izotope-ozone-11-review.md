@@ -12,7 +12,7 @@ draft: false
 **TL;DR:** iZotope Ozone 11 is the most complete all-in-one mastering suite available in 2026. Its AI-powered Master Assistant gives you a professional starting point in under 30 seconds, and the full module chain — EQ, dynamics, imaging, limiting — handles everything without routing signals through multiple plugins. If you master inside your DAW, this is the one plugin worth investing in.
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/lwIuaD8O61M" title="iZotope Ozone 11 Review: The Best All-in-One Mastering Plugin? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="iZotope Ozone 11 Review: The Best All-in-One Mastering Plugin? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -44,7 +44,7 @@ This review covers every major module in Ozone 11, breaks down the differences b
 
 ### Master Assistant — AI-Powered Starting Point
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/5muApaAcnmo" title="Master Assistant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/5muApaAcnmo" title="Master Assistant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Included In:** All tiers (Elements, Standard, Advanced)
@@ -63,7 +63,7 @@ In practice, Master Assistant gets you to a usable starting point in under 30 se
 
 ### Ozone EQ — Surgical Precision with Analog Character
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/PbtmSq1emB8" title="Ozone EQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/PbtmSq1emB8" title="Ozone EQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Included In:** Standard, Advanced (limited in Elements)
@@ -82,7 +82,7 @@ Matching to a reference track is built in via the Match EQ function, which analy
 
 ### Maximizer — The Loudness Engine
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/s2XLYKek8YI" title="Maximizer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/s2XLYKek8YI" title="Maximizer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Included In:** All tiers
@@ -101,7 +101,7 @@ IRC IV handles transient-heavy material (drums, percussion-forward tracks) parti
 
 ### Imager — Stereo Width Control
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/4IPVMBCxfWk" title="Imager — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/4IPVMBCxfWk" title="Imager — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Included In:** Standard, Advanced
@@ -120,7 +120,7 @@ The vectorscope and correlation meter built into the module give you real-time f
 
 ### Dynamics — Multiband Control
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/-DCMQL44zQ4" title="Dynamics — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-DCMQL44zQ4" title="Dynamics — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Included In:** Standard, Advanced
@@ -139,7 +139,7 @@ This module is the most technically demanding part of Ozone to use well. In the 
 
 ### Vintage Modules — Analog Character Processing
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/qUbCbQIt58M" title="Vintage Modules — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/qUbCbQIt58M" title="Vintage Modules — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Included In:** Standard (Vintage EQ, Tape); Advanced (all four)
@@ -158,7 +158,7 @@ Used at low drive settings, the Vintage modules add character without obvious pr
 
 ### Stem Focus — Isolate and Adjust (Advanced)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/yLOM8R6lbzg" title="Stem Focus — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yLOM8R6lbzg" title="Stem Focus — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Included In:** Advanced only
@@ -179,7 +179,7 @@ The separation is not perfect on every source, and artifacts are audible on heav
 
 ### FabFilter Pro-L 2 — The Professional's Limiting Benchmark
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/oMJeWXtJODc" title="FabFilter Pro-L 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/oMJeWXtJODc" title="FabFilter Pro-L 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** ~$199
@@ -191,7 +191,7 @@ The separation is not perfect on every source, and artifacts are audible on heav
 
 ### iZotope Music Production Suite — The Full Ecosystem
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/BbADT051Nuk" title="iZotope Music Production Suite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BbADT051Nuk" title="iZotope Music Production Suite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** Bundle (see current pricing)

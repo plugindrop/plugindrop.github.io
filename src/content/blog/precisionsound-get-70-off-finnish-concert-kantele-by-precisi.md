@@ -20,7 +20,7 @@ score: 4.89
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/TMeLrvmGiVQ" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TMeLrvmGiVQ" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is the Finnish Concert Kantele by Precision Sounds?

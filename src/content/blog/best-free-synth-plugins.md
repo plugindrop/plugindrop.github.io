@@ -1,6 +1,6 @@
 ---
 title: "14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analog)"
-description: "Vital, Surge XT, OB-Xd, Dexed, and 10 more — 14 free synth VSTs tested in real sessions. Ranked by synthesis type with download links. All $0, all DAW-compatible."
+description: "14 free synth VSTs tested in real sessions — Vital, Surge XT, OB-Xd, Dexed and more. Ranked by synthesis type with download links. All $0."
 pubDate: "2026-03-19T09:00:00Z"
 tags: ["guide", "vst", "free", "instruments", "synth"]
 affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins"
@@ -42,7 +42,7 @@ We also include three paid upgrades at the end for producers ready to invest. Bu
 
 ### Vital — The free synth that changed the game
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/K9bhFJmvRa0" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Matthew Tytel
 - **Price:** Free (Plus $25 / Pro $80 for additional preset content)
@@ -54,13 +54,12 @@ Vital is the free synth benchmark of 2026. The wavetable engine supports spectra
 **Best for:** Modern leads, evolving pads, cinematic textures, bass design across every genre
 
 [→ Download Vital Free](https://vital.audio/)
-[→ Download direct from vital.audio](https://vital.audio/)
 
 ---
 
 ### Surge XT — Open-source hybrid synthesis at a professional level
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/kTvBgb4HGx0" title="SURGE XT — Full In-Depth Tutorial (Amazing FREE Synthesizer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/kTvBgb4HGx0" title="SURGE XT — Full In-Depth Tutorial (Amazing FREE Synthesizer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Surge Synth Team (community-maintained)
 - **Price:** Free
@@ -72,7 +71,6 @@ Surge XT is a deep hybrid synthesizer with three oscillators that each switch in
 **Best for:** Sound designers and producers who want a single free synth to cover everything
 
 [→ Download Surge XT Free](https://surge-synthesizer.github.io/)
-[→ Download direct from surge-synthesizer.github.io](https://surge-synthesizer.github.io/)
 
 ---
 
@@ -80,7 +78,7 @@ Surge XT is a deep hybrid synthesizer with three oscillators that each switch in
 
 ### Dexed — The Yamaha DX7, faithfully emulated and completely free
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/wSs1-020nNY" title="Dexed — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wSs1-020nNY" title="Dexed — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Digital Suburban
 - **Price:** Free
@@ -92,7 +90,6 @@ Dexed is a six-operator FM synthesizer built on the same core as the Yamaha DX7 
 **Best for:** DX7 electric pianos, classic FM basses, 80s patches, FM synthesis education
 
 [→ Download Dexed Free](https://asb2m10.github.io/dexed/)
-[→ Download direct from asb2m10.github.io](https://asb2m10.github.io/dexed/)
 
 ---
 
@@ -109,7 +106,7 @@ ZynAddSubFX combines traditional subtractive synthesis with additive harmonic co
 
 [→ Download ZynAddSubFX Free](https://zynaddsubfx.sourceforge.io/)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ewiWffRX3PY" title="How in the World do you Use ZynAddSubFX?!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ewiWffRX3PY" title="How in the World do you Use ZynAddSubFX?!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ---
 
@@ -117,7 +114,7 @@ ZynAddSubFX combines traditional subtractive synthesis with additive harmonic co
 
 ### OB-Xd — Oberheim's legendary filter, zero cost
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/jLwauTGsvYc" title="OB-Xd 3.0 — Best FREE Synth Plugin Just Got Better (DiscoDSP)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/jLwauTGsvYc" title="OB-Xd 3.0 — Best FREE Synth Plugin Just Got Better (DiscoDSP)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** DiscoDSP
 - **Price:** Free
@@ -129,7 +126,6 @@ OB-Xd emulates the Oberheim OB-X and OB-Xa, classic polysynths defined by their 
 **Best for:** Synthwave leads and pads, cinematic strings, 80s-style polyphonic patches
 
 [→ Download OB-Xd Free](https://www.discodsp.com/obxd/)
-[→ Download direct from discodsp.com](https://www.discodsp.com/obxd/)
 
 ---
 
@@ -145,9 +141,8 @@ Helm was Matthew Tytel's main instrument before Vital arrived, and it still earn
 **Best for:** Learning synthesis fundamentals, lightweight sessions, clean subtractive patches
 
 [→ Download Helm Free](https://tytel.org/helm/)
-[→ Download direct from tytel.org](https://tytel.org/helm/)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/V7CXeh2WZQc" title="Helm Synth Review & Presets Demo (Free VST Plugin by Matt Tytel)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/V7CXeh2WZQc" title="Helm Synth Review & Presets Demo (Free VST Plugin by Matt Tytel)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ---
 
@@ -163,15 +158,14 @@ Tyrell N6 was released by u-he as a community project, and it carries the compan
 **Best for:** Classic analog basses, simple leads, producers who want u-he filter quality at zero cost
 
 [→ Download Tyrell N6 Free](https://u-he.com/products/tyrelln6/)
-[→ Download direct from u-he.com](https://u-he.com/products/tyrelln6/)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/aeV_8eBDrkI" title="Tyrell N6 Review & Presets Demo (Free VST Synth by u-he)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/aeV_8eBDrkI" title="Tyrell N6 Review & Presets Demo (Free VST Synth by u-he)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ---
 
 ### TAL-NoiseMaker — The easiest entry point into free synthesis
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ZoMsXVFoAno" title="TAL-NoiseMaker — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ZoMsXVFoAno" title="TAL-NoiseMaker — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** TAL Software
 - **Price:** Free
@@ -183,7 +177,6 @@ TAL-NoiseMaker is a three-oscillator virtual analog synth built for immediacy. T
 **Best for:** Beginners, quick patch creation, clean analog tones without a steep learning curve
 
 [→ Download TAL-NoiseMaker Free](https://tal-software.com/products/tal-noisemaker)
-[→ Download direct from tal-software.com](https://tal-software.com/products/tal-noisemaker)
 
 ---
 
@@ -200,13 +193,13 @@ Synth1 is one of the most-downloaded free plugins in history, modeled loosely on
 
 [→ Download Synth1 Free](https://daichilab.sakura.ne.jp/softsynth/index.html)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/AiX2I2UQIDc" title="Synth1 VST Full Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/AiX2I2UQIDc" title="Synth1 VST Full Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ---
 
 ### Charlatan — No-nonsense analog for producers who want results fast
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/-4WrGxBaIHM" title="Charlatan — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-4WrGxBaIHM" title="Charlatan — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** BlaukrautEngineering
 - **Price:** Free
@@ -217,7 +210,7 @@ Charlatan is a straightforward two-oscillator virtual analog synth with polyphon
 
 **Best for:** Fast sessions, producers who want clean analog patches without menu-diving
 
-[→ Download Charlatan Free](https://www.blaukraut.info//)
+[→ Download Charlatan Free](https://www.blaukraut.info/)
 
 ---
 
@@ -234,7 +227,7 @@ Podolski is u-he's minimalist free synth — one oscillator, one filter, one env
 
 [→ Download Podolski Free](https://u-he.com/products/podolski/)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/SAuLg9spte8" title="Podolski by u-he Review & Presets Demo (Free VST Synth)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/SAuLg9spte8" title="Podolski by u-he Review & Presets Demo (Free VST Synth)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ---
 
@@ -253,13 +246,13 @@ Odin2 is the most feature-complete free synth on this list in terms of raw capab
 
 [→ Download Odin2 Free](https://thewavewarden.com/odin2/)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/jk1Jefq89nw" title="Odin II Synth Deep Dive: The Complete Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/jk1Jefq89nw" title="Odin II Synth Deep Dive: The Complete Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ---
 
 ### Pendulate — Chaos synthesis from the team behind Eventide
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/PicDwE1Rimk" title="Pendulate — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/PicDwE1Rimk" title="Pendulate — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Newfangled Audio (Eventide)
 - **Price:** Free
@@ -289,7 +282,7 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 
 [→ Download Magical8bitPlug 2 Free](https://ymck.net/app/magical-8bit-plug-en/)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/4FJWXR5uips" title="New 8-bit VST Tutorial! - Magical8bit 2 by YMCK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/4FJWXR5uips" title="New 8-bit VST Tutorial! - Magical8bit 2 by YMCK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ---
 
@@ -297,43 +290,40 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 
 ### Serum — The industry-standard wavetable synth
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Dxeti8Qw6Iw" title="SERUM 2 — Everything NEW in 9 minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Dxeti8Qw6Iw" title="SERUM 2 — Everything NEW in 9 minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
 - **Price:** ~$189 (subscription options available via Splice)
 - **Why upgrade:** Vital's free tier is genuinely close, but Serum's built-in wavetable editor, its deeper workflow integration across commercial sound packs, and the breadth of third-party presets built specifically for it make it the benchmark for professional wavetable production that Vital references but does not yet match in ecosystem depth.
 
+[→ Get Serum (Official Site)](https://xferrecords.com/products/serum-2)
 
 ---
 
-
-[→ Get Serum (Official Site)](https://xferrecords.com/products/serum-2)
 ### Phase Plant — Modular-style synthesis with a best-in-class interface
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** ~$199 (also included in Kilohearts subscription)
 - **Why upgrade:** Odin2 and Surge XT push free synthesis further than most people expect, but Phase Plant's visual modular architecture, deep integration with the Kilohearts snapin ecosystem, and the quality of its commercial preset library represent a step change for producers working at a professional level who want everything in one organized instrument.
 
+[→ Get Phase Plant (Official Site)](https://kilohearts.com/products/phase_plant)
 
 ---
 
-
-[→ Get Phase Plant (Official Site)](https://kilohearts.com/products/phase_plant)
 ### u-he Hive 2 — The natural upgrade from Tyrell N6 and Podolski
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dJtf3JmwnjI" title="u-he Hive 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/dJtf3JmwnjI" title="u-he Hive 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** ~$99
 - **Why upgrade:** If Tyrell N6 or Podolski converted you to u-he's sound quality, Hive 2 is the obvious next step — it adds a second oscillator type, more filter options, MPE support, and a full modulation matrix while keeping the same analog character that makes u-he instruments stand out. The price-to-quality ratio is the best in the paid synth market.
 
+[→ Get u-he Hive 2 (Official Site)](https://u-he.com/products/hive/)
 
 ---
 
-
-[→ Get u-he Hive 2 (Official Site)](https://u-he.com/products/hive/)
 ## Full Comparison Table
 
 | Plugin | Price | Type | Highlights | Get It |
@@ -347,7 +337,7 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 | Tyrell N6 | Free | Virtual Analog | u-he analog character, warm filter | [Official Site](https://u-he.com/products/tyrelln6/) |
 | TAL-NoiseMaker | Free | Virtual Analog | 3 oscillators, onboard FX, easiest to learn | [Official Site](https://tal-software.com/products/tal-noisemaker) |
 | Synth1 | Free | Virtual Analog | 100,000+ community presets, Nord-inspired | [Free Download](https://daichilab.sakura.ne.jp/softsynth/index.html) |
-| Charlatan | Free | Virtual Analog | Simple, stable, clean two-oscillator patches | [Developer](https://www.blaukraut.info//) |
+| Charlatan | Free | Virtual Analog | Simple, stable, clean two-oscillator patches | [Developer](https://www.blaukraut.info/) |
 | Podolski | Free | Virtual Analog | ZDF filter, ultra-low CPU, u-he quality | [Free Download](https://u-he.com/products/podolski/) |
 | Odin2 | Free | Multi-Synthesis | 6 oscillator modes, semi-modular, open source | [Free Download](https://thewavewarden.com/odin2/) |
 | Pendulate | Free | Chaos / Experimental | Double-pendulum oscillator, Eventide-backed | [Developer](https://www.newfangledaudio.com/pendulate) |

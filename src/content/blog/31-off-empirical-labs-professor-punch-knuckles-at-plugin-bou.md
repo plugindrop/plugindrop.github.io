@@ -19,7 +19,7 @@ score: 7.73
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/BlPaUFyd0ac" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BlPaUFyd0ac" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

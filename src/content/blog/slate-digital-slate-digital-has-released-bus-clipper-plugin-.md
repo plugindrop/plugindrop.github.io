@@ -3,7 +3,7 @@ title: "Slate Digital — Slate Digital has released Bus Clipper plugin for Win 
 description: "Slate Digital just launched Bus Clipper, a new dedicated clipping plugin for Windows and Mac — available at 50% off its regular price as an intro deal...."
 pubDate: "2026-04-22T05:48:43Z"
 tags: ["slate digital", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17137-Bus-Clipper?a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/search?search_query=bus+clipper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slate-digital-slate-digital-has-released-bus-clipper-plugin-"
 heroImage: "/images/slate-digital-slate-digital-has-released-bus-clipper-plugin-.webp"
 aiImage: true
 score: 6.00
@@ -11,7 +11,7 @@ saleExpiry: "2026-04-28"
 xText: "slate tools almost never hit 50%. new bus clipper did. their mastering compression just dropped to half price."
 draft: true
 ---
-**TL;DR:** Slate Digital just launched Bus Clipper, a new dedicated clipping plugin for Windows and Mac — available at 50% off its regular price as an intro deal. Verify current pricing on the product page. If you've been looking for a purpose-built clipper from one of mixing's most trusted plugin brands, [now is the time to grab it](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17137-Bus-Clipper?a_aid=69cb95abe1763).
+**TL;DR:** Slate Digital just launched Bus Clipper, a new dedicated clipping plugin for Windows and Mac — available at 50% off its regular price as an intro deal. Verify current pricing on the product page. If you've been looking for a purpose-built clipper from one of mixing's most trusted plugin brands, [now is the time to grab it](https://www.pluginboutique.com/search?search_query=bus+clipper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slate-digital-slate-digital-has-released-bus-clipper-plugin-).
 
 ---
 
@@ -29,7 +29,7 @@ Slate Digital Bus Clipper is a newly released clipping plugin designed for trans
 - **Intro 50% Discount** — priced at half off for new buyers at launch, making it one of the more accessible Slate releases to date
 - **Streamlined Interface** — Slate Digital's design language favors clean, focused controls that prioritize fast workflow over feature overload
 
-Check the [official product page](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17137-Bus-Clipper?a_aid=69cb95abe1763) for the full technical spec sheet and format compatibility list.
+Check the [official product page](https://www.pluginboutique.com/search?search_query=bus+clipper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slate-digital-slate-digital-has-released-bus-clipper-plugin-) for the full technical spec sheet and format compatibility list.
 
 ---
 
@@ -52,7 +52,7 @@ Slate Digital is running this as an **introductory launch discount** — these t
 
 > Verify current pricing on the product page — deals can change without notice.
 
-[Get Bus Clipper at 50% off →](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17137-Bus-Clipper?a_aid=69cb95abe1763)
+[Get Bus Clipper at 50% off →](https://www.pluginboutique.com/search?search_query=bus+clipper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slate-digital-slate-digital-has-released-bus-clipper-plugin-)
 
 ---
 
@@ -86,7 +86,7 @@ A: Trial availability varies by release. Check the Slate Digital website for dem
 
 ## Get the Deal
 
-Slate Digital's intro pricing won't last forever — 50% off a brand-new plugin from a studio-grade developer is a solid entry point. [Grab Bus Clipper at the launch discount directly from Slate Digital.](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17137-Bus-Clipper?a_aid=69cb95abe1763)
+Slate Digital's intro pricing won't last forever — 50% off a brand-new plugin from a studio-grade developer is a solid entry point. [Grab Bus Clipper at the launch discount directly from Slate Digital.](https://www.pluginboutique.com/search?search_query=bus+clipper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slate-digital-slate-digital-has-released-bus-clipper-plugin-)
 
 ---
 

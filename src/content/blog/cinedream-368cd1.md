@@ -21,7 +21,7 @@ Now I have confirmed facts. Writing the article now.
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/rpVwmNglFTM" title="78% Off CINEDREAM — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rpVwmNglFTM" title="78% Off CINEDREAM — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

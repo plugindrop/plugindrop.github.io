@@ -12,7 +12,7 @@ draft: false
 **TL;DR:** u-he Diva remains the most convincing analog synthesizer emulation in software — its circuit-level oscillator and filter modeling produces warmth, drift, and harmonic saturation that no preset bank can fake. At $179, it demands CPU headroom and a deliberate workflow, but producers who commit to it gain an instrument that genuinely bridges the gap between software and hardware.
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/LeSAuSUayFE" title="u-he Diva Review: The Analog Synthesizer Emulation That Changed Everything — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LeSAuSUayFE" title="u-he Diva Review: The Analog Synthesizer Emulation That Changed Everything — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -40,7 +40,7 @@ This review is for electronic music producers, film composers, and sound designe
 
 ### Oscillator Modules — Where Analog Character Actually Lives
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/G4q-B-s-QvM" title="Oscillator Modules — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/G4q-B-s-QvM" title="Oscillator Modules — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** $179
@@ -113,7 +113,7 @@ Composers working in film and television report that Diva's Divine mode output o
 
 ### Arturia V Collection 10 — When You Need Breadth Alongside Depth
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/gjIwo3Pnorg" title="Arturia V Collection 10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** $499
@@ -125,7 +125,7 @@ Composers working in film and television report that Diva's Divine mode output o
 
 ### Phase Plant — When You Need Modern Modular Alongside Vintage Analog
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** $99

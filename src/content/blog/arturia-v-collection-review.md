@@ -14,7 +14,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/gjIwo3Pnorg" title="Arturia V Collection 10 Review: 40+ Vintage Synths Worth the Price? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 10 Review: 40+ Vintage Synths Worth the Price? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -46,7 +46,7 @@ This review covers every major instrument in the bundle, who each one is for, ho
 
 ### Analog Lab V — the command center you'll use every day
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/OlvT2RXqozU" title="Analog Lab V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OlvT2RXqozU" title="Analog Lab V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included (standalone version free)
@@ -67,7 +67,7 @@ These are the instruments most producers buy the collection for — the emulatio
 
 ### Prophet-5 V — the gold standard poly emulation
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/36XCZTjNh_c" title="Prophet-5 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/36XCZTjNh_c" title="Prophet-5 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in V Collection 10
@@ -84,7 +84,7 @@ Arturia's Prophet-5 V captures both the Rev 3.2 and Rev 3.3 circuit behaviors, i
 
 ### CS-80 V — Arturia's crown jewel, and arguably the best in class
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ut3uIWrTSVI" title="CS-80 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ut3uIWrTSVI" title="CS-80 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in V Collection 10
@@ -101,7 +101,7 @@ The Yamaha CS-80 is the most sonically complex polysynth ever built, and Arturia
 
 ### OB-Xa V — the Oberheim chorus machine
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/a6NnRFgQWtY" title="OB-Xa V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/a6NnRFgQWtY" title="OB-Xa V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in V Collection 10
@@ -120,7 +120,7 @@ The Oberheim OB-Xa's defining characteristic is its chorus — thick, slightly d
 
 ### Mini V4 — still the best Minimoog emulation on the market
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/7YkYmqHnl4Q" title="Mini V4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/7YkYmqHnl4Q" title="Mini V4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in V Collection 10
@@ -137,7 +137,7 @@ Version 4 of Arturia's Minimoog model added a polyphonic mode and an expanded mo
 
 ### ARP 2600 V — a sound design laboratory in its own right
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/RNkofQKGX6Q" title="ARP 2600 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/RNkofQKGX6Q" title="ARP 2600 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in V Collection 10
@@ -154,7 +154,7 @@ The ARP 2600 is a semi-modular system with a built-in spring reverb and a signal
 
 ### Acid V — the 303 that actually behaves like a 303
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/7_FE96-qpXA" title="Acid V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/7_FE96-qpXA" title="Acid V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in V Collection 10
@@ -173,7 +173,7 @@ Roland's TB-303 has spawned hundreds of emulations but few capture the specific 
 
 ### Stage-73 V — the go-to Rhodes emulation for session work
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/0czuXPrk8aY" title="Stage-73 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/0czuXPrk8aY" title="Stage-73 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in V Collection 10
@@ -190,7 +190,7 @@ Arturia models the Rhodes Stage 73 tine behavior with velocity-sensitive bark, s
 
 ### B-3 V3 — Hammond tonewheel organ with physical drawbar modeling
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/gquzHy37X20" title="B-3 V3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gquzHy37X20" title="B-3 V3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in V Collection 10
@@ -209,7 +209,7 @@ B-3 V3 models the Hammond B-3's tonewheel generator system, including crosstalk,
 
 ### CMI V — the Fairlight in your DAW
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/YHESaZ9H89w" title="CMI V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/YHESaZ9H89w" title="CMI V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in V Collection 10
@@ -226,7 +226,7 @@ The Fairlight CMI was a $25,000 sampling workstation that defined the sound of 1
 
 ### DX7 V — FM synthesis made learnable
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/BeEIRpssIGk" title="DX7 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BeEIRpssIGk" title="DX7 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in V Collection 10
@@ -245,7 +245,7 @@ The Yamaha DX7's 6-operator FM architecture is notoriously difficult to program 
 
 ### Arturia V Collection 10 — the complete vintage library at one price
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/gjIwo3Pnorg" title="Arturia V Collection 10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** ~$499 (frequent sales; check Plugin Boutique for current pricing)
@@ -257,7 +257,7 @@ The Yamaha DX7's 6-operator FM architecture is notoriously difficult to program 
 
 ### Native Instruments Komplete — broader scope, different philosophy
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/y9PU7pLkO7g" title="Native Instruments Komplete — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/y9PU7pLkO7g" title="Native Instruments Komplete — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
 - **Price:** Varies by tier (Standard / Select / Ultimate / Collector's Edition)

@@ -19,7 +19,7 @@ score: 1.72
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/U3Hob-TS9gk" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/U3Hob-TS9gk" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Are Aura Guitar MIDI Files by Mystical Alankar?
