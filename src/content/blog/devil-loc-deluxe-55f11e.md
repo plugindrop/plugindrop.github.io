@@ -14,7 +14,10 @@ converted: true
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/cEWzT_oeZ_M" title="61% Off Devil Loc Deluxe — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## What Is Devil Loc Deluxe?
 
 Devil Loc Deluxe is a character compressor plugin from Soundtoys, designed to deliver the aggressive, saturated sound associated with vintage hardware limiters. The core concept is controlled destruction — dial in the amount of crush, and the plugin imposes a lo-fi, harmonically dense compression character that conventional dynamics tools don't replicate. The Deluxe version extends the original Devil Loc with additional controls for greater flexibility without sacrificing the raw character that defines the plugin.
 
