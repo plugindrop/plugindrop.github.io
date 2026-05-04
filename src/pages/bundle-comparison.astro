@@ -4,11 +4,10 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_TITLE } from '../consts';
 
-// NOTE: PB product IDs change frequently. Links here use search URLs so they always
-// find the correct product. To update to direct product links, manually copy the URL
-// from each product page on pluginboutique.com.
-const PB_SEARCH = (q: string, campaign: string) =>
-  `https://www.pluginboutique.com/search?search_query=${encodeURIComponent(q)}&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=bundle-comparison&utm_campaign=${campaign}`;
+const AFF = "a_aid=69cb95abe1763";
+const UTM = (campaign: string) => `utm_source=plugindrop&utm_medium=bundle-comparison&utm_campaign=${campaign}`;
+const pb = (path: string, campaign: string) =>
+  `https://www.pluginboutique.com${path}?${AFF}&${UTM(campaign)}`;
 
 interface Bundle {
   name: string;
@@ -29,27 +28,27 @@ const BUNDLES: Bundle[] = [
     regularPrice: 999,
     plugins: 14,
     category: "Mixing & Mastering",
-    pbUrl: PB_SEARCH("FabFilter Total Bundle", "fabfilter-total"),
-    highlight: "Industry-standard EQ, compressor, limiter in one package",
+    pbUrl: pb("/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle", "fabfilter-total"),
+    highlight: "All 14 FabFilter plugins — Pro-Q 3, Pro-C 2, Saturn 2 and more",
     tier: "professional",
   },
   {
     name: "FabFilter Creative Bundle",
     maker: "FabFilter",
     regularPrice: 449,
-    plugins: 6,
+    plugins: 5,
     category: "Creative FX",
-    pbUrl: PB_SEARCH("FabFilter Creative Bundle", "fabfilter-creative"),
+    pbUrl: pb("/product/81-Bundles/58-Instrument-Bundles/8394-FabFilter-Creative-Bundle", "fabfilter-creative"),
     highlight: "Saturn 2, Timeless 3, Volcano 3 — FX for sound design",
     tier: "essentials",
   },
   {
-    name: "Soundtoys 5",
+    name: "Soundtoys 5.5",
     maker: "Soundtoys",
     regularPrice: 499,
     plugins: 18,
     category: "Creative FX",
-    pbUrl: PB_SEARCH("Soundtoys 5", "soundtoys-5"),
+    pbUrl: pb("/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5", "soundtoys-5"),
     highlight: "EchoBoy, Decapitator, PrimalTap — best creative FX bundle",
     tier: "professional",
   },
@@ -59,7 +58,7 @@ const BUNDLES: Bundle[] = [
     regularPrice: 1099,
     plugins: 9,
     category: "Mixing & Mastering",
-    pbUrl: "https://www.pluginboutique.com/meta_product/81-Bundles/39-Effects-Bundles/13854-iZotope-Music-Production-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=bundle-comparison&utm_campaign=izotope-mps",
+    pbUrl: pb("/meta_product/81-Bundles/39-Effects-Bundles/13854-iZotope-Music-Production-Suite", "izotope-mps"),
     highlight: "Ozone, Neutron, Nectar, RX — full production stack",
     tier: "ultimate",
   },
@@ -69,7 +68,7 @@ const BUNDLES: Bundle[] = [
     regularPrice: 599,
     plugins: 38,
     category: "Instruments & FX",
-    pbUrl: PB_SEARCH("Komplete 15 Standard", "komplete-15"),
+    pbUrl: pb("/product/81-Bundles/97-Various-Category/13188-KOMPLETE-15-Standard", "komplete-15"),
     highlight: "Massive X, Kontakt 7, Reaktor 6 — best instrument bundle for producers",
     tier: "professional",
   },
@@ -79,28 +78,28 @@ const BUNDLES: Bundle[] = [
     regularPrice: 999,
     plugins: 135,
     category: "Instruments & FX",
-    pbUrl: PB_SEARCH("Komplete 15 Ultimate", "komplete-15-ultimate"),
+    pbUrl: pb("/product/81-Bundles/97-Various-Category/13187-KOMPLETE-15-Ultimate", "komplete-15-ultimate"),
     highlight: "135+ plugins including Kontakt libraries, synths, FX — complete studio",
     tier: "ultimate",
   },
   {
-    name: "Arturia V Collection 10",
+    name: "Arturia V Collection 11",
     maker: "Arturia",
-    regularPrice: 499,
-    plugins: 33,
+    regularPrice: 599,
+    plugins: 45,
     category: "Vintage Synths",
-    pbUrl: PB_SEARCH("Arturia V Collection 10", "arturia-v10"),
-    highlight: "33 vintage synth & keyboard emulations — best value for keys players",
+    pbUrl: pb("/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro", "arturia-v11"),
+    highlight: "45 vintage synth & keyboard emulations — best value for keys players",
     tier: "professional",
   },
   {
-    name: "Arturia FX Collection 5",
+    name: "Arturia FX Collection 6",
     maker: "Arturia",
-    regularPrice: 399,
-    plugins: 47,
+    regularPrice: 499,
+    plugins: 40,
     category: "Creative FX",
-    pbUrl: PB_SEARCH("Arturia FX Collection 5", "arturia-fx5"),
-    highlight: "47 analog-modeled FX — best price per plugin in its category",
+    pbUrl: pb("/product/81-Bundles/39-Effects-Bundles/16835-FX-Collection-6-PRO", "arturia-fx6"),
+    highlight: "40+ analog-modeled FX — best price per plugin in its category",
     tier: "professional",
   },
   {
@@ -109,7 +108,7 @@ const BUNDLES: Bundle[] = [
     regularPrice: 399,
     plugins: 36,
     category: "Mixing",
-    pbUrl: PB_SEARCH("Waves Gold Bundle", "waves-gold"),
+    pbUrl: pb("/product/81-Bundles/97-Various-Category/12534-Gold-Bundle", "waves-gold"),
     highlight: "Classic SSL, L1, CLA compressors — workhorse mixing bundle",
     tier: "essentials",
   },
@@ -119,13 +118,12 @@ const BUNDLES: Bundle[] = [
     regularPrice: 599,
     plugins: 65,
     category: "Mixing",
-    pbUrl: PB_SEARCH("Waves Platinum Bundle", "waves-platinum"),
+    pbUrl: pb("/product/81-Bundles/84-Mix-Master/12542-Platinum-Bundle", "waves-platinum"),
     highlight: "Everything in Gold plus H-Series, IR-L, TransX",
     tier: "professional",
   },
 ];
 
-// Compute price per plugin
 function pppClass(ppp: number): string {
   if (ppp <= 15) return 'ppp-best';
   if (ppp <= 30) return 'ppp-mid';
@@ -151,7 +149,7 @@ const itemListLD = {
   "@context": "https://schema.org",
   "@type": "ItemList",
   "name": "Plugin Bundle Price Comparison 2026",
-  "description": "12 major plugin bundles ranked by cost per plugin",
+  "description": "10 major plugin bundles ranked by cost per plugin",
   "numberOfItems": bundlesWithPPP.length,
   "itemListElement": bundlesWithPPP.map((b, i) => ({
     "@type": "ListItem",
@@ -178,7 +176,7 @@ const itemListLD = {
   <head>
     <BaseHead
       title={`Plugin Bundle Price Comparison 2026 — Cost Per Plugin Ranked | ${SITE_TITLE}`}
-      description="Compare 12 major plugin bundles by price per plugin: FabFilter, NI Komplete, iZotope, Arturia, Waves, Soundtoys. Updated 2026 pricing with affiliate links."
+      description="Compare 10 major plugin bundles by price per plugin: FabFilter, NI Komplete, iZotope, Arturia, Waves, Soundtoys. Updated 2026 pricing with affiliate links."
     />
     <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLD)} />
     <script type="application/ld+json" set:html={JSON.stringify(itemListLD)} />
@@ -190,7 +188,6 @@ const itemListLD = {
 
       .updated { font-size: 0.8rem; color: var(--text-muted); margin-top: 0.5rem; }
 
-      /* Filter tabs */
       .filter-bar { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
       .filter-btn {
         padding: 0.35rem 0.85rem; border-radius: 20px; border: 1px solid var(--border);
@@ -201,7 +198,6 @@ const itemListLD = {
         background: var(--accent); color: #000; border-color: var(--accent);
       }
 
-      /* Table */
       .bundle-table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
       .bundle-table th {
         text-align: left; padding: 0.6rem 0.75rem; border-bottom: 2px solid var(--border);
@@ -246,16 +242,13 @@ const itemListLD = {
       }
       .cta-link:hover { background: var(--accent); color: #000; }
 
-      /* Mobile scroll */
       .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
 
-      /* Explainer */
       .explainer { margin: 2.5rem 0; padding: 1.25rem 1.5rem; border-left: 3px solid var(--accent-muted); }
       .explainer h2 { font-size: 1.1rem; margin: 0 0 0.6rem; }
       .explainer p { color: var(--text-secondary); font-size: 0.9rem; line-height: 1.7; margin: 0 0 0.5rem; }
       .explainer p:last-child { margin: 0; }
 
-      /* Category filter active state */
       .bundle-row { transition: opacity 0.15s; }
       .bundle-row.hidden { display: none; }
     </style>
@@ -267,7 +260,7 @@ const itemListLD = {
       <div class="page-header">
         <h1>Plugin Bundle Price Comparison 2026</h1>
         <p>
-          Compare 12 major plugin bundles ranked by cost per plugin.
+          Compare 10 major plugin bundles ranked by cost per plugin.
           FabFilter, NI Komplete, iZotope, Arturia, Waves, Soundtoys — updated for 2026.
         </p>
         <p class="updated">Prices confirmed May 2026 via Plugin Boutique. Sale prices not guaranteed.</p>
@@ -279,7 +272,6 @@ const itemListLD = {
         <button class="filter-btn" data-cat="Creative FX">Creative FX</button>
         <button class="filter-btn" data-cat="Instruments & FX">NI</button>
         <button class="filter-btn" data-cat="Vintage Synths">Synths</button>
-        <button class="filter-btn" data-cat="All-in-One">All-in-One</button>
         <button class="filter-btn" data-cat="Mixing">Waves</button>
       </div>
 
@@ -356,7 +348,7 @@ const itemListLD = {
           Alternatively, FabFilter Creative Bundle if you focus on sound design.
         </p>
         <p>
-          <strong>Mixing & mastering focus:</strong> FabFilter Total Bundle or iZotope Music Production Suite 6.
+          <strong>Mixing & mastering focus:</strong> FabFilter Total Bundle or iZotope Music Production Suite.
           Both cover EQ, compression, limiting, and mid-side processing at a professional level.
         </p>
         <p>
@@ -364,7 +356,7 @@ const itemListLD = {
           38 instruments and effects including Kontakt 7 and Massive X for $599.
         </p>
         <p>
-          <strong>Vintage synth players:</strong> Arturia V Collection 10 at $499 for 33 vintage keyboard
+          <strong>Vintage synth players:</strong> Arturia V Collection 11 at $599 for 45 vintage keyboard
           emulations is unmatched for keys-based production.
         </p>
       </div>
@@ -376,7 +368,6 @@ const itemListLD = {
     <Footer />
 
     <script>
-      // Category filter
       const filterBar = document.getElementById('filter-bar');
       const rows = document.querySelectorAll('.bundle-row');
 
@@ -396,7 +387,6 @@ const itemListLD = {
         });
       });
 
-      // Sort by $/plugin or plugins
       document.querySelectorAll('th.sortable').forEach(th => {
         th.addEventListener('click', () => {
           const col = (th as HTMLElement).dataset.col;
