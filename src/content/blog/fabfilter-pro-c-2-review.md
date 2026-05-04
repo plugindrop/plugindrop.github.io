@@ -158,6 +158,7 @@ Oversampling options go up to 32x, pushing the internal noise floor below what a
 ## How to Choose
 
 - **If you mix professionally and need one compressor that handles every situation**, Pro-C 2 is the correct answer. The eight styles replace a hardware rack of dynamics tools and the interface makes each session faster than working with multiple specialized plugins.
+- **If you're not yet ready to invest**, our [best free compressor VST plugins guide](/posts/best-free-compressor-vst-plugins/) covers 12 capable zero-cost options — including Rough Rider 3 and TDR Kotelnikov — that cover most compression scenarios before you need Pro-C 2's full feature set.
 - **If you need classic mix bus "glue" with the specific SSL character**, the Waves SSL G-Master Buss Compressor is more cost-effective for that single task — Pro-C 2's Bus mode is cleaner, not always more musical.
 - **If you already own Pro-C 2 and want to expand your FabFilter toolkit**, calculate crossgrade pricing to the Total Bundle before buying Pro-Q 4 or Pro-L 2 separately — the bundle math almost always works in your favor.
 - **If you track and mix in the same session**, use Pro-C 2's zero-latency mode while recording and switch on lookahead when you move to mixing. No duplicate plugin instances needed.

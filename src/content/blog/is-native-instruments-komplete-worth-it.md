@@ -171,6 +171,7 @@ Producer forums are broadly aligned that the Collector's Edition targets profess
 - **If you own qualifying NI hardware**, download Komplete Select first and live with it for a month before spending anything. You'll quickly know whether full Kontakt access is worth the Standard upgrade — or whether a synth-focused bundle serves you better.
 
 - **If you're comparing Komplete to building a plugin collection individually**, run the math at sale prices, not full price. NI's Black Friday and Summer of Sound promotions are consistent and well-documented. Paying full price for any Komplete tier is uncommon among informed buyers, and doing so significantly changes the value calculation.
+- **If you want to explore the free tier first**, there is substantial overlap with what Komplete provides in quality free alternatives — our [best free VST plugins 2026 guide](/posts/best-free-vst-plugins-2026/) covers free synths, effects, and instruments that let you evaluate what gaps Komplete would actually fill before committing.
 
 ---
 

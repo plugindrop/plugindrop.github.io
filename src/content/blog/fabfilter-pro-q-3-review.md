@@ -208,7 +208,7 @@ Neutron's EQ module includes AI-generated band suggestions, session-level maskin
 ## How to Choose
 
 - **If you mix or master at any serious level**, Pro-Q 3 is the correct answer. Its combination of features and workflow speed has no equal at the price point.
-- **If budget is the primary constraint**, start with TDR Nova for free dynamic EQ. Upgrade to Pro-Q 3 when the workflow limitations become a bottleneck — they will.
+- **If budget is the primary constraint**, start with TDR Nova for free dynamic EQ — our [best free EQ VST plugins guide](/posts/best-free-eq-vst-plugins/) covers TDR Nova and nine other zero-cost alternatives before you invest in Pro-Q 3. Upgrade to Pro-Q 3 when the workflow limitations become a bottleneck — they will.
 - **If analog filter character matters more than feature breadth**, DMG Audio EQuality is worth auditing. It won't replace Pro-Q 3's capabilities but it's a different sonic tool.
 - **If you're already inside iZotope's ecosystem**, Neutron's EQ is strong and the AI integration is useful for faster starting points. For standalone EQ precision, Pro-Q 3 remains the more capable and more responsive tool.
 - **If you're building a full FabFilter chain** over the next year, the Total Bundle is the financially smart choice from day one rather than incremental purchases.

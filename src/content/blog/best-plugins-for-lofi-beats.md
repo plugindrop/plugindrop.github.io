@@ -207,6 +207,8 @@ Klanghelm's reputation in mixing communities comes from their paid compressors a
 
 ---
 
+Lo-fi pads and melodic elements typically come from soft, warm synths — if you want free synthesis options to pair with these processors, our [best free synth VST plugins guide](/posts/best-free-synth-plugins/) covers Vital, Surge XT, OB-Xd, and more at zero cost.
+
 ### TAL-Chorus-LX — Vintage Chorus for Organic Pitch Movement
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/tbM3E2Ov3zI" title="TAL-Chorus-LX — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -291,7 +293,7 @@ Vinyl simulators target analog noise artifacts — crackle, dust, warp, and agin
 The community consensus is that it depends on your workflow. RC-20 is worth the price if you are spending time routing and balancing multiple free plugins and want a unified interface designed specifically around lo-fi aesthetics. If you are comfortable building signal chains and happy with the patchwork, the free stack covers the same sonic territory.
 
 **What DAWs are compatible with these plugins?**
-All VST/VST3-compatible DAWs — FL Studio, Ableton Live, Reaper, Studio One, Bitwig, and others — support the full list. TAL plugins and Chow Tape Model include AU format for Logic Pro. GDegrade is Windows-only. Verify 32-bit compatibility for iZotope Vinyl specifically.
+All VST/VST3-compatible DAWs — FL Studio, Ableton Live, Reaper, Studio One, Bitwig, and others — support the full list. TAL plugins and Chow Tape Model include AU format for Logic Pro. GDegrade is Windows-only. Verify 32-bit compatibility for iZotope Vinyl specifically. If you need a DAW recommendation before diving in, see our [best free DAW software guide](/posts/best-free-daw-software-2026/).
 
 **Can you make professional-quality lo-fi beats using only free plugins?**
 Community evidence says yes. Producers release commercially distributed lo-fi material built around iZotope Vinyl, Valhalla Supermassive, and similar free tools. The paid upgrades offer workflow and control advantages, not a qualitative ceiling the free options cannot reach.

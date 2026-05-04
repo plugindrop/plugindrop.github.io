@@ -95,7 +95,7 @@ Looking for more options? [Browse drum plugins on Plugin Boutique](https://www.p
 
 **For full drum arrangement programming:** Hydrogen's pattern and song editor handles the entire drumming workflow without a separate DAW drum editor.
 
-Also worth exploring: the [Spitfire LABS free instrument library](/posts/spitfire-labs-free-sample-library/) includes several percussive instruments that pair well with these drum plugins. For a broader look at free plugin options across all categories, see the [best free VST plugins 2026 roundup](/posts/best-free-vst-plugins-2026/).
+Also worth exploring: the [Spitfire LABS free instrument library](/posts/spitfire-labs-free-sample-library/) includes several percussive instruments that pair well with these drum plugins. To complete your setup with melodic instruments, see our [best free synth VST plugins guide](/posts/best-free-synth-plugins/) — Vital and Surge XT pair well with any of the drum tools above. For a broader look at free plugin options across all categories, see the [best free VST plugins 2026 roundup](/posts/best-free-vst-plugins-2026/).
 
 ## FAQ
 

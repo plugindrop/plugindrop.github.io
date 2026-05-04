@@ -32,6 +32,8 @@ draft: false
 
 ## Introduction
 
+In the signal chain, reverb typically follows EQ and compression — our [best free EQ VST plugins guide](/posts/best-free-eq-vst-plugins/) and [best free compressor VST plugins guide](/posts/best-free-compressor-vst-plugins/) cover the tools that should precede your reverb on most sources.
+
 Here's the part most producers miss: Valhalla Supermassive — the reverb showing up on ambient, cinematic, and electronic releases from bedroom producers and signed artists alike — is permanently free. The same developer sells best free reverb VST plugins for $50 and up, yet their flagship free release is technically competitive with tools costing ten times as much. The community debates *why* constantly. The short answer is that it's one of the smartest marketing moves in plugin history: put your best algorithmic work in every DAW for free, and producers will eventually buy your catalog.
 
 Reverb is the single most influential spatial effect in any mix. It determines perceived distance, room size, and the emotional weight of a sound. In 2026, the free-to-paid quality gap has narrowed enough that genre and use case matter more than budget — the right free reverb for your workflow will consistently beat an expensive one that doesn't suit your source material.

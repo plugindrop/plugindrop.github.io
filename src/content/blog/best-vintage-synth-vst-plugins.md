@@ -38,6 +38,8 @@ This guide covers 12 vintage synthesizer VST emulations with established reputat
 
 ## Free Vintage Emulations: Where to Start
 
+If you are new to synthesis and want to explore a broader range of modern free options beyond vintage emulations, our [best free synth VST plugins guide](/posts/best-free-synth-plugins/) covers Vital, Surge XT, and 14 other zero-cost instruments.
+
 ### OB-Xd — The Free Oberheim That Earns Its Place
 
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/jLwauTGsvYc" title="OB-Xd — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

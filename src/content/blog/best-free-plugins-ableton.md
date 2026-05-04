@@ -120,6 +120,8 @@ Dexed is a software emulation of the Yamaha DX7, the FM synthesizer that defined
 
 Transparent EQ and musical compression are the backbone of any professional mix. These two free tools handle both with results that hold up against paid alternatives.
 
+For a full breakdown of free EQ options beyond TDR Nova — including vintage-character and graphic EQ alternatives — see our [best free EQ VST plugins guide](/posts/best-free-eq-vst-plugins/).
+
 ### TDR Nova — Dynamic EQ Done Right
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1CHFv4mWQYM" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -215,6 +217,8 @@ Spitfire Audio's LABS series is an ongoing project that releases curated, high-q
 [→ Download LABS Free](https://labs.spitfireaudio.com/)
 
 ---
+
+For an extended look at drum instruments beyond the sampler workflow — including acoustic drum romplers and synthesized kits — see our [best free drum plugins guide](/posts/best-free-drum-plugins/).
 
 ### Sitala — The No-Fuss Drum Sampler
 
