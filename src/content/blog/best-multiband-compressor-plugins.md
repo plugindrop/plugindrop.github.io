@@ -177,7 +177,7 @@ MMultiBandDynamics is part of Melda's extensive MFreeFX Bundle — one of the mo
 
 ### DMG Audio Multiplicity — Technical precision for demanding sessions
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/8e5tUzjfDBA" title="DMG Audio Multiplicity — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gdnCGuD_uhU" title="DMG Audio Multiplicity — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** DMG Audio
 - **Price:** ~$149
