@@ -1,18 +1,15 @@
 ---
-title: "80% Off Emotive Drum Bass for Serum 2"
-description: "Emotive Drum Bass for Serum 2 is down to **$10.00** (was ~~$49.00~~) at Plugin Boutique — that's 80% off a dedicated drum & bass preset library built for..."
-pubDate: "2026-04-23T18:28:44Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "drums", "synth", "music-production"]
+title: "Emotive Drum Bass for Serum 2: Features, Pricing & Is It Worth It? (2026)"
+description: "Emotive Drum Bass for Serum 2 is a synth preset pack designed specifically for the Xfer Records Serum 2 synthesizer. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T18:28:44Z'
+tags: ["review", "vst-plugin", "virtual-instrument", "drums", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/31-Synth-Presets/16790-Emotive-Drum-Bass-for-Serum-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=emotive-drum-bass-for-serum-2-b1f5ef"
-heroImage: "/images/emotive-drum-bass-for-serum-2-b1f5ef.jpg"
+heroImage: /images/emotive-drum-bass-for-serum-2-b1f5ef.jpg
 score: 7.70
-dealPrice: "$10.00"
-originalPrice: "$49.00"
-discount: "80% OFF"
-xText: "emotive drum bass for serum 2 just dropped at 80% off. new releases don't stay discounted. grab this before price normalizes"
 draft: false
+converted: true
 ---
-**TL;DR:** Emotive Drum Bass for Serum 2 is down to **$10.00** (was ~~$49.00~~) at Plugin Boutique — that's 80% off a dedicated drum & bass preset library built for Xfer Records' Serum 2. If you produce DnB and already own Serum 2, this is hard to pass up. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/31-Synth-Presets/16790-Emotive-Drum-Bass-for-Serum-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=emotive-drum-bass-for-serum-2-b1f5ef)
+**Emotive Drum Bass for Serum 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/31-Synth-Presets/16790-Emotive-Drum-Bass-for-Serum-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=emotive-drum-bass-for-serum-2-b1f5ef)
 
 ---
 
@@ -43,17 +40,11 @@ For the exact preset count and full specifications, check the product page direc
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$49.00~~ | **$10.00** | $39.00 (80%) |
-
 An 80% discount on a synth preset pack is on the steeper end of what Plugin Boutique typically runs. Preset packs at this price point ($49 standard) don't see cuts this deep very often — $10 is effectively impulse-buy territory for anyone already running Serum 2. Deals at this depth tend to be time-limited, so verify current pricing before checkout.
 
 **Note:** Verify current pricing on the product page — deals can change.
 
-[Get Emotive Drum Bass for Serum 2 for $10.00 →](https://www.pluginboutique.com/product/1-Instruments/31-Synth-Presets/16790-Emotive-Drum-Bass-for-Serum-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=emotive-drum-bass-for-serum-2-b1f5ef)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/31-Synth-Presets/16790-Emotive-Drum-Bass-for-Serum-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=emotive-drum-bass-for-serum-2-b1f5ef)
 
 ---
 
@@ -85,11 +76,11 @@ A: Plugin Boutique's refund policy for digital downloads applies — check the o
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 ~~$49.00~~ down to **$10.00** is an 80% cut that's worth acting on if DnB is part of your production workflow. At that price, the risk is minimal and the genre coverage is immediate.
 
-[Claim the 80% discount at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/31-Synth-Presets/16790-Emotive-Drum-Bass-for-Serum-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=emotive-drum-bass-for-serum-2-b1f5ef)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/31-Synth-Presets/16790-Emotive-Drum-Bass-for-Serum-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=emotive-drum-bass-for-serum-2-b1f5ef)
 
 ---
 

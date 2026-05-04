@@ -1,23 +1,20 @@
 ---
-title: "55% Off UJAM SELECT 5 Bundle"
-description: "UJAM SELECT 5 Bundle is currently ~~$199~~ $89 at Plugin Boutique — a 55% discount that brings five UJAM virtual instruments down to roughly $17.80 per..."
-pubDate: "2026-04-27T13:17:47Z"
-tags: ["sale", "effects", "bundle", "music-production"]
+title: "UJAM SELECT 5 Bundle: Features, Pricing & Is It Worth It? (2026)"
+description: "UJAM is a German music software developer known for their lineup of virtual instruments spanning guitars, basses. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-27T13:17:47Z'
+tags: ["review", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15483-UJAM-SELECT-5-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ujam-select-5-bundle-fedcd9"
-heroImage: "/images/ujam-select-5-bundle-fedcd9.jpg"
+heroImage: /images/ujam-select-5-bundle-fedcd9.jpg
 score: 9.45
-dealPrice: "$89.00"
-originalPrice: "$199.00"
-discount: "55% OFF"
-xText: "55% off ujam select 5 bundle just made 5 individual plugins cheaper than most stock compressors. doing the math on per-unit cost here is wild"
 draft: false
+converted: true
 ---
-**TL;DR:** UJAM SELECT 5 Bundle is currently ~~$199~~ $89 at Plugin Boutique — a 55% discount that brings five UJAM virtual instruments down to roughly $17.80 per plugin. [→ Get UJAM SELECT 5 Bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15483-UJAM-SELECT-5-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ujam-select-5-bundle-fedcd9)
+**UJAM SELECT 5 Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15483-UJAM-SELECT-5-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ujam-select-5-bundle-fedcd9)
 
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/oZkiWNrQgxc" title="55% Off UJAM SELECT 5 Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/oZkiWNrQgxc" title="UJAM SELECT 5 Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is the UJAM SELECT 5 Bundle?
@@ -45,19 +42,9 @@ UJAM is a German music software developer known for their lineup of virtual inst
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$199.00~~ | $89.00 | $110.00 (55%) |
-
 **Per-plugin breakdown:** $89 ÷ 5 plugins = **~$17.80 per plugin** — individual UJAM titles typically retail between $49 and $99 each, making this bundle price significantly below single-title cost.
 
-**Discount context:** UJAM runs periodic promotions through Plugin Boutique, often tied to sitewide sale events. A 55% reduction on a full bundle is on the deeper end of their typical discount range. If you've been considering UJAM's instruments individually, bundle pricing like this rarely appears outside of major sale windows.
-
-*Price verified at publication. Check the link for current availability.*
-
-[→ Get UJAM SELECT 5 Bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15483-UJAM-SELECT-5-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ujam-select-5-bundle-fedcd9)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15483-UJAM-SELECT-5-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ujam-select-5-bundle-fedcd9)
 
 ---
 
@@ -89,11 +76,11 @@ A: UJAM instruments are available in VST, VST3, AU, and AAX formats, as well as 
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 At $89 for five instruments, this bundle prices each plugin below what most individual UJAM titles cost on a standard discount. The 55% saving over the $199 regular price makes this a practical entry point for producers who want cross-category coverage from a consistent developer.
 
-[→ Get UJAM SELECT 5 Bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15483-UJAM-SELECT-5-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ujam-select-5-bundle-fedcd9)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15483-UJAM-SELECT-5-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ujam-select-5-bundle-fedcd9)
 
 ---
 

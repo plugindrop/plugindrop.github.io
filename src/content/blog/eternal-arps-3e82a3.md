@@ -1,18 +1,15 @@
 ---
-title: "38% Off Eternal Arps"
-description: "Eternal Arps is down to **$49.00** (was ~~$79.00~~) at Plugin Boutique — that's $30 off, or 38% savings on a MIDI arpeggiator built for evolving,..."
-pubDate: "2026-04-23T18:28:41Z"
-tags: ["sale", "vst-plugin", "effects", "music-production"]
+title: "Eternal Arps: Features, Pricing & Is It Worth It? (2026)"
+description: "Eternal Arps is a MIDI arpeggiator plugin available through Plugin Boutique. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T18:28:41Z'
+tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3"
-heroImage: "/images/eternal-arps-3e82a3.jpg"
+heroImage: /images/eternal-arps-3e82a3.jpg
 score: 7.73
-dealPrice: "$49.00"
-originalPrice: "$79.00"
-discount: "38% OFF"
-xText: "eternal arps just went 38% off — lowest i've seen it. if your synth tracks need better sequencing right now, this isn't the decision you need to overthink"
 draft: false
+converted: true
 ---
-**TL;DR:** Eternal Arps is down to **$49.00** (was ~~$79.00~~) at Plugin Boutique — that's $30 off, or 38% savings on a MIDI arpeggiator built for evolving, generative melodic patterns. If you've been on the fence, [grab it at the deal price here](https://www.pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3).
+**Eternal Arps** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3)
 
 ---
 
@@ -47,17 +44,11 @@ Eternal Arps is a MIDI arpeggiator plugin available through Plugin Boutique. It 
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$79.00~~ | **$49.00** | $30.00 (38%) |
-
-A 38% discount is a meaningful cut for a dedicated MIDI arp tool in this price tier. Plugin Boutique runs targeted promotions like this periodically, but deal windows close — pricing can revert without notice.
+ Plugin Boutique runs targeted promotions like this periodically, but deal windows close — pricing can revert without notice.
 
 Note: Verify current pricing on the product page — deals can change.
 
-[Get Eternal Arps for $49.00 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3)
 
 ---
 
@@ -89,11 +80,11 @@ A: Refund and return policies are set by Plugin Boutique — review their terms 
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 At ~~$79.00~~ **$49.00**, this is one of the sharper deals on a dedicated MIDI arpeggiator available right now. Thirty dollars off is real money — don't wait for the price to snap back.
 
-[Grab Eternal Arps at 38% Off on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3)
+[pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3)
 
 ---
 

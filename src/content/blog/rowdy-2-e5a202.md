@@ -1,23 +1,20 @@
 ---
-title: "76% Off ROWDY 2"
-description: "ROWDY 2 is down to **$29.00** (was ~~$119.00~~) at Plugin Boutique — that's 76% off and a $90 saving. Sales at this depth on virtual instruments don't..."
-pubDate: "2026-04-26T15:07:49Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
+title: "ROWDY 2: Features, Pricing & Is It Worth It? (2026)"
+description: "ROWDY 2 is a virtual instrument plugin available at Plugin Boutique, positioned in the Virtual Instruments category. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-26T15:07:49Z'
+tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6261-ROWDY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rowdy-2-e5a202"
-heroImage: "/images/rowdy-2-e5a202.jpg"
+heroImage: /images/rowdy-2-e5a202.jpg
 score: 7.35
-dealPrice: "$29.00"
-originalPrice: "$119.00"
-discount: "76% OFF"
-xText: "rowdy 2 dropped at 76% off and it's the saturation that actually sounds good in a mix. aggressive without the mud"
 draft: false
+converted: true
 ---
-**TL;DR:** ROWDY 2 is down to **$29.00** (was ~~$119.00~~) at Plugin Boutique — that's 76% off and a $90 saving. Sales at this depth on virtual instruments don't last indefinitely, so if it's been on your radar, [grab ROWDY 2 at Plugin Boutique now](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6261-ROWDY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rowdy-2-e5a202).
+**ROWDY 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6261-ROWDY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rowdy-2-e5a202)
 
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/3OZbUc9qm2Y" title="76% Off ROWDY 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/3OZbUc9qm2Y" title="ROWDY 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is ROWDY 2?
@@ -40,20 +37,13 @@ ROWDY 2 is a virtual instrument plugin available at Plugin Boutique, positioned 
 
 ## Who Is It For?
 
-- **Bedroom producers on a budget** — At $29, this is impulse-buy territory for a full virtual instrument; the risk-reward ratio is favorable.
 - **Genre producers exploring new sounds** — ROWDY 2's second-generation design suggests a wider sonic palette suitable for producers expanding their toolkit.
 - **Plugin collectors during sale season** — 76% discounts on virtual instruments at Plugin Boutique are notable; this is the kind of deal worth flagging in deal communities.
 - **Producers upgrading from ROWDY 1** — If you own the original, ROWDY 2 represents the natural upgrade path at a price that softens the decision.
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$119.00~~ | **$29.00** | $90.00 (76%) |
-
-A 76% discount is a significant markdown for a virtual instrument. Plugin Boutique periodically runs deep-discount promotions across their catalog — whether this price returns after the sale period ends is not guaranteed. At $29, this is well below the typical impulse-buy threshold for production tools.
+ Plugin Boutique periodically runs deep-discount promotions across their catalog — whether this price returns after the sale period ends is not guaranteed. At $29, this is well below the typical impulse-buy threshold for production tools.
 
 **Note:** Verify current pricing on the product page — deals can change.
 
@@ -69,7 +59,7 @@ A 76% discount is a significant markdown for a virtual instrument. Plugin Boutiq
 | Native Instruments Komplete Start | Free | Broad entry-level bundle, less focused sound design |
 | Output Arcade | Subscription | Loop-based instrument with ongoing content updates |
 
-If you want zero-cost tools to fill gaps in your library, LABS or Komplete Start cover basics at no cost. If you want a dedicated, purpose-built instrument with a defined sound character, ROWDY 2 at $29 is priced below most comparable paid alternatives currently on the market.
+If you want zero-cost tools to fill gaps in your library, LABS or Komplete Start cover basics at no cost. 
 
 ---
 
@@ -89,7 +79,7 @@ A: Plugin Boutique's refund terms vary by product — review their policy on the
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 $90 off a virtual instrument is a deal worth acting on. At $29.00, ROWDY 2 is priced where the question isn't whether it's worth it — it's whether you need it.
 

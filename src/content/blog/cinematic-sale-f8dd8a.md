@@ -1,17 +1,14 @@
 ---
-title: "cinematic sale"
-description: "UVI's cinematic sale cuts the price to **$99** (~~$199~~) — a clean 50% off. If you work in film scoring, trailer music, or atmospheric production and..."
-pubDate: "2026-04-30T10:42:33Z"
-tags: ["vst-plugin", "music-production"]
+title: "cinematic sale: Features, Pricing & Is It Worth It? (2026)"
+description: "UVI is a French audio software developer with a long track record in sample-based instruments and sound design. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-30T10:42:33Z'
+tags: ["review", "vst-plugin", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?search_query=cinematic+sale&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinematic-sale-f8dd8a"
 score: 4.30
-dealPrice: "$99"
-originalPrice: "$199"
-discount: "50% OFF"
-xText: "cinematic orchestral plugins rarely drop like this. the kind of reverbs and layers that actually sit fat in a film score mix. if you've been waiting for good prices on this stuff, this is the moment"
 draft: false
+converted: true
 ---
-**TL;DR:** UVI's cinematic sale cuts the price to **$99** (~~$199~~) — a clean 50% off. If you work in film scoring, trailer music, or atmospheric production and have been watching UVI's catalog, this is a meaningful entry point. [→ Get the UVI Cinematic Sale at Direct](https://www.pluginboutique.com/search?search_query=cinematic+sale&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinematic-sale-f8dd8a)
+**cinematic sale** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?search_query=cinematic+sale&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinematic-sale-f8dd8a)
 
 ---
 
@@ -19,7 +16,7 @@ draft: false
 
 UVI is a French audio software developer with a long track record in sample-based instruments and sound design libraries. Their catalog spans vintage synthesizers, orchestral textures, and purpose-built cinematic tools — all running inside either the free UVI Workstation player or their flagship instrument, Falcon.
 
-This cinematic sale targets the narrative end of music production: the sounds designed to score scenes, build tension, and set emotional tone. At $99 (down from $199), it represents a 50% reduction on a library built for picture-lock workflows and cinematic composition.
+This cinematic sale targets the narrative end of music production: the sounds designed to score scenes, build tension, and set emotional tone. At $99 (down from $199), it represents 
 
 ---
 
@@ -42,15 +39,7 @@ This cinematic sale targets the narrative end of music production: the sounds de
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$199~~ | **$99** | $100 (50%) |
-
 UVI runs periodic sales on their catalog, though 50% discounts represent the deeper end of their typical promotional range. This sale is framed around their cinematic lineup specifically, which doesn't receive blanket discounts as frequently as their broader catalog.
-
-*Price verified at publication. Check the link for current availability.*
 
 [→ Get the UVI Cinematic Sale at Direct](https://www.pluginboutique.com/search?search_query=cinematic+sale&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinematic-sale-f8dd8a)
 
@@ -84,9 +73,9 @@ A: UVI Workstation operates as a VST, AU, and AAX plugin, covering compatibility
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-The $100 saving on a cinematic library at this tier is substantial — UVI's sound design quality is established, and 50% off is at the high end of their discount range. Cinematic libraries at this price point with a perpetual license structure represent clear long-term value for composers working in this space.
+ Cinematic libraries at this price point with a perpetual license structure represent clear long-term value for composers working in this space.
 
 [→ Get the UVI Cinematic Sale at Direct](https://www.pluginboutique.com/search?search_query=cinematic+sale&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinematic-sale-f8dd8a)
 

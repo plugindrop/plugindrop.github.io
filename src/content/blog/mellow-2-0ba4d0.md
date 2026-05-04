@@ -1,18 +1,15 @@
 ---
-title: "76% Off MELLOW 2"
-description: "UJAM's Virtual Bassist MELLOW 2 is down to **$29** (~~$119~~) at Plugin Boutique — a 76% saving on an acoustic double bass instrument built for jazz, R&B,..."
-pubDate: "2026-04-24T02:59:17Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
+title: "MELLOW 2: Features, Pricing & Is It Worth It? (2026)"
+description: "MELLOW 2 is a virtual acoustic double bass instrument from UJAM, part of their established Virtual Bassist series. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-24T02:59:17Z'
+tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mellow-2-0ba4d0"
-heroImage: "/images/mellow-2-0ba4d0.jpg"
+heroImage: /images/mellow-2-0ba4d0.jpg
 score: 7.35
-dealPrice: "$29.00"
-originalPrice: "$119.00"
-discount: "76% OFF"
-xText: "mellow 2 just landed at 76% off. new releases barely ever discount like this. this is the window if you've been thinking about it."
 draft: false
+converted: true
 ---
-**TL;DR:** UJAM's Virtual Bassist MELLOW 2 is down to **$29** (~~$119~~) at Plugin Boutique — a 76% saving on an acoustic double bass instrument built for jazz, R&B, and singer-songwriter sessions. If you've been eyeing a realistic fingered bass without the recording booth, [grab it here while the deal is live](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mellow-2-0ba4d0).
+**MELLOW 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mellow-2-0ba4d0)
 
 ---
 
@@ -40,15 +37,7 @@ MELLOW 2 is a virtual acoustic double bass instrument from UJAM, part of their e
 - **R&B and hip-hop producers** looking for warm, organic low-end that sits differently in the mix from a standard electric bass.
 - **Beginners to bass programming** who want the ease of a pattern-library workflow before committing to fully manual MIDI composition.
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$119.00~~ | $29.00 | $90.00 (76%) |
-
 UJAM runs promotional discounts across their Virtual Bassist series several times per year, often tied to seasonal sales events. At $29, this sits among the sharper single-title discounts they run — but whether it returns to this price point soon isn't guaranteed, which is worth factoring into your timing.
-
-> Verify current pricing on the product page — deals can change without notice.
 
 [Check the current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mellow-2-0ba4d0)
 
@@ -76,9 +65,9 @@ A: The product page lists Windows 8+ (64-bit) or macOS 10.12+ (64-bit), 4GB RAM 
 **Q: Can I edit the MIDI phrases in my DAW?**
 A: Yes. MELLOW 2 includes MIDI drag-and-drop, so you can export any phrase directly into your DAW timeline and edit it as standard MIDI data.
 
-## Get the Deal
+## Where to Buy
 
-$90 off a polished acoustic bass instrument that covers jazz, R&B, and lo-fi in one plugin — at $29, this is a rare price for a UJAM title. [Grab MELLOW 2 at 76% off on Plugin Boutique before the deal expires.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mellow-2-0ba4d0)
+$90  [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mellow-2-0ba4d0)
 
 ---
 

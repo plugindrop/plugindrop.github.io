@@ -1,27 +1,26 @@
 ---
-title: "78% Off SPARKLE 2"
-description: "SPARKLE 2 by UJAM is down to **$29** (was ~~$129~~) — a 78% saving on a self-contained virtual electric rhythm guitar plugin with 350+ playable phrases..."
-pubDate: "2026-04-26T09:19:08Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
+title: "SPARKLE 2: Features, Pricing & Is It Worth It? (2026)"
+description: "SPARKLE 2 is a virtual electric rhythm guitar plugin developed by UJAM, the Berlin-based studio behind a wide range. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-26T09:19:08Z'
+tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sparkle-2-ead0e6"
-heroImage: "/images/sparkle-2-ead0e6.jpg"
+heroImage: /images/sparkle-2-ead0e6.jpg
 score: 7.35
-dealPrice: "$29.00"
-originalPrice: "$129.00"
-discount: "78% OFF"
-xText: "new reverbs rarely hit 78% off on day one. sparkle 2 apparently just did. worth a look if reverbs in your mix matter"
 draft: false
+converted: true
 ---
+**SPARKLE 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sparkle-2-ead0e6)
+
+---
+
 Good, I have the product details. Writing the article now.
 
 ---
 
-**TL;DR:** SPARKLE 2 by UJAM is down to **$29** (was ~~$129~~) — a 78% saving on a self-contained virtual electric rhythm guitar plugin with 350+ playable phrases and built-in amp and effects processing. [Grab it at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sparkle-2-ead0e6) before the deal expires.
-
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wKBh4vnXbrY" title="78% Off SPARKLE 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wKBh4vnXbrY" title="SPARKLE 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is SPARKLE 2?
@@ -44,17 +43,11 @@ SPARKLE 2 is a virtual electric rhythm guitar plugin developed by UJAM, the Berl
 - **Film and sync composers** — the broad style range makes it fast to drop in contextually appropriate guitar texture for cues
 - **Home studio producers** — the onboard amp emulations and FX chain mean no separate guitar amp plugin is necessary
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$129.00~~ | **$29.00** | $100.00 (78%) |
-
-UJAM does run promotions periodically, but a 78% discount is at the deeper end of what they typically offer. If electric rhythm guitar is a gap in your production toolkit, this price point makes the decision fairly straightforward.
+UJAM does run promotions periodically, but  If electric rhythm guitar is a gap in your production toolkit, this price point makes the decision fairly straightforward.
 
 Note: Verify current pricing on the product page — deals can change without notice.
 
-[Get SPARKLE 2 for $29 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sparkle-2-ead0e6)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sparkle-2-ead0e6)
 
 ## Alternatives at a Glance
 
@@ -80,7 +73,7 @@ A: macOS 10.15+ or Windows 10+ (64-bit only), 8 GB RAM, 8 GB free disk space, an
 **Q: Is there a refund policy if it doesn't work with my setup?**
 A: Refund terms vary — check Plugin Boutique's official returns policy before purchasing.
 
-## Get the Deal
+## Where to Buy
 
 $100 off a virtual guitar plugin with 350+ phrases, 30 stomp box emulations, and 60 FX modes built in — $29 is a strong price for a fully self-contained instrument at this content level. [Pick up SPARKLE 2 at Plugin Boutique while the deal is live.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sparkle-2-ead0e6)
 

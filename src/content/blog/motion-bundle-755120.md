@@ -1,18 +1,15 @@
 ---
-title: "50% Off Motion Bundle"
-description: "The Motion Bundle is currently 50% off at Plugin Boutique — drop from ~~$159~~ to just $79, saving you $80 on a collection of motion-driven effects..."
-pubDate: "2026-04-23T18:27:41Z"
-tags: ["sale", "effects", "bundle", "music-production"]
+title: "Motion Bundle: Features, Pricing & Is It Worth It? (2026)"
+description: "The Motion Bundle is an effects plugin bundle available exclusively through Plugin Boutique, built around dynamic. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T18:27:41Z'
+tags: ["review", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/12397-Motion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=motion-bundle-755120"
-heroImage: "/images/motion-bundle-755120.jpg"
+heroImage: /images/motion-bundle-755120.jpg
 score: 9.15
-dealPrice: "$79.00"
-originalPrice: "$159.00"
-discount: "50% OFF"
-xText: "motion bundles at 50% off don't happen. the per-plugin math is stupid cheap right now."
 draft: false
+converted: true
 ---
-**TL;DR:** The Motion Bundle is currently 50% off at Plugin Boutique — drop from ~~$159~~ to just $79, saving you $80 on a collection of motion-driven effects plugins. If you've been holding off on stocking up on dynamic, movement-based processing tools, this is a strong entry point. [Grab the deal here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/12397-Motion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=motion-bundle-755120)
+**Motion Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/12397-Motion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=motion-bundle-755120)
 
 ---
 
@@ -45,12 +42,6 @@ The Motion Bundle is an effects plugin bundle available exclusively through Plug
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$159.00~~ | **$79.00** | $80.00 (50%) |
-
 50% off is a meaningful discount for an effects bundle. Plugin Boutique runs periodic sales, but half-price on a full bundle is toward the deeper end of their typical deal range. If you're considering this for your workflow, this is a natural buy window.
 
 The per-unit cost will depend on how many plugins are included — check the product page for the full breakdown, which will let you calculate individual value.
@@ -75,7 +66,7 @@ If your priority is deep rhythmic glitch and stutter effects specifically, Stutt
 
 ## FAQ
 
-**Q: Where can I buy the Motion Bundle at the 50% off price?**
+****
 A: The deal is live on Plugin Boutique. Use the link in this article to make sure you land on the correct product page with the current pricing.
 
 **Q: Does the Motion Bundle require iLok?**
@@ -89,7 +80,7 @@ A: Plugin Boutique deals can expire without notice. Verify current pricing on th
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 The Motion Bundle is half price right now — $80 off the standard rate, with no coupon code needed at checkout. Bundles at this discount level tend to move during the deal window.
 

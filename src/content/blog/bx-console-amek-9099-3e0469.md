@@ -1,23 +1,20 @@
 ---
-title: "78% Off bx console AMEK 9099"
-description: "Brainworx's bx console AMEK 9099 — a Rupert Neve-designed console strip emulation — is down to **$50.00** (~~$224.00~~) at Plugin Boutique, a 78% saving...."
-pubDate: "2026-04-25T19:06:28Z"
-tags: ["sale", "vst-plugin", "effects", "music-production"]
+title: "bx console AMEK 9099: Features, Pricing & Is It Worth It? (2026)"
+description: "The bx console AMEK 9099 is a channel strip plugin by Brainworx (Plugin Alliance), built as a precise emulation of. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-25T19:06:28Z'
+tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10236-bx-console-AMEK-9099?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469"
-heroImage: "/images/bx-console-amek-9099-3e0469.jpg"
+heroImage: /images/bx-console-amek-9099-3e0469.jpg
 score: 8.35
-dealPrice: "$50.00"
-originalPrice: "$224.00"
-discount: "78% OFF"
-xText: "78% off bx_console amek 9099. console color like this shouldn't cost this little. if your mixes are flat, this fixes that."
 draft: false
+converted: true
 ---
-**TL;DR:** Brainworx's bx console AMEK 9099 — a Rupert Neve-designed console strip emulation — is down to **$50.00** (~~$224.00~~) at Plugin Boutique, a 78% saving. That's a serious price for a channel strip with this pedigree. [Grab it here before the deal ends.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10236-bx-console-AMEK-9099?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469)
+**bx console AMEK 9099** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10236-bx-console-AMEK-9099?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469)
 
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ux8dyXHr8gA" title="78% Off bx console AMEK 9099 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ux8dyXHr8gA" title="bx console AMEK 9099 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is the bx console AMEK 9099?
@@ -45,15 +42,7 @@ The bx console AMEK 9099 is a channel strip plugin by Brainworx (Plugin Alliance
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$224.00~~ | **$50.00** | $174.00 (78%) |
-
 78% off is an unusually deep cut for a flagship Brainworx title. Plugin Alliance and Brainworx do run regular sales, but hitting the sub-$50 threshold on an AMEK emulation is worth paying attention to if this console flavor is on your shortlist.
-
-> Verify current pricing on the product page — deals can change without notice.
 
 [Check the current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10236-bx-console-AMEK-9099?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469)
 
@@ -87,9 +76,9 @@ A: Plugin Alliance has offered free trials for their plugins in the past. Check 
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-$50.00 for a Rupert Neve-designed console emulation with TMT — that's hard to argue with at 78% off. [Lock in the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10236-bx-console-AMEK-9099?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469)
+$50. [Lock in the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10236-bx-console-AMEK-9099?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469)
 
 ---
 
