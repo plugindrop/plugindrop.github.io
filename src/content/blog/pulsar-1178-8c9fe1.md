@@ -85,9 +85,7 @@ A: System requirements vary by platform and plugin version. Check the official p
 
 ---
 
-## Where to Buy
-
-47% off a premium FET compressor isn't a deal you see every week. At $79.00 (), this is a solid entry point into Pulsar Audio's catalog.
+##  At $79.00 (), this is a solid entry point into Pulsar Audio's catalog.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1)
 

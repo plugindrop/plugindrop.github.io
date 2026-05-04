@@ -51,7 +51,7 @@ SplitEQ drew sustained discussion on KVR Audio and Gearspace after launch, large
 
 ## Current Pricing
 
-Eventide titles don't rotate through Plugin Boutique sales on a monthly basis the way some larger plugin vendors do. A 47% reduction on an Eventide product is a less common window — if the split-processing approach fits your workflow, this is a meaningful entry point. At $79, it lands below many conventional high-end EQ options with narrower feature sets.
+Eventide titles don't rotate through Plugin Boutique sales on a monthly basis the way some larger plugin vendors do.  At $79, it lands below many conventional high-end EQ options with narrower feature sets.
 
 *Price verified at publication. Check the link for current availability.*
 

@@ -44,7 +44,7 @@ Check the product page for full system requirements and activation details, as t
 
 ---
 
-##  Sugar Bytes doesn't run deep sales constantly, so a 39% reduction is worth noting. The savings here represent nearly half the plugin's regular price in dollar terms.
+##   The savings here represent nearly half the plugin's regular price in dollar terms.
 
 > **Note:** Verify current pricing on the product page — deals can change without notice.
 

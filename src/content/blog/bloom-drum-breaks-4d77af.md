@@ -84,7 +84,7 @@ A: Refund eligibility depends on the developer's terms. Check Plugin Boutique's 
 
 ## Where to Buy
 
-[→ Grab Bloom Drum Breaks at Plugin Boutique for $39.00](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-breaks-4d77af)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-breaks-4d77af)
 
 ---
 

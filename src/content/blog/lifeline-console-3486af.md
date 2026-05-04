@@ -43,9 +43,7 @@ Lifeline Console is a channel strip plugin developed by Excite Audio, built to b
 
 ---
 
-## Current Pricing
-
-A 51% reduction is a meaningful discount for a focused, single-function plugin in this category. Excite Audio's discount history through Plugin Boutique leans toward occasional targeted promotions rather than the frequent flash sales common among larger plugin publishers — this deal is worth treating as a genuine window rather than a baseline.
+##  Excite Audio's discount history through Plugin Boutique leans toward occasional targeted promotions rather than the frequent flash sales common among larger plugin publishers — this deal is worth treating as a genuine window rather than a baseline.
 
 *Price verified at publication. Check the link for current availability.*
 

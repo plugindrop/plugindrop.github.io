@@ -89,7 +89,7 @@ A: Yes. ZENOLOGY PRO is compatible with Roland's Model Expansions, which unlock 
 
 ## Where to Buy
 
-$99.00 for Roland's ZEN-Core flagship represents a 57% reduction from the standard $229.00 price — a developer that leans heavily on subscriptions makes perpetual license discounts like this worth acting on.
+$99.00 for 00 price — a developer that leans heavily on subscriptions makes perpetual license discounts like this worth acting on.
 
 [→ Get ZENOLOGY PRO at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247)
 

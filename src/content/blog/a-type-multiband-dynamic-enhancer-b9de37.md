@@ -42,9 +42,7 @@ A Type Multiband Dynamic Enhancer is an audio enhancement plugin available throu
 
 ---
 
-## Current Pricing
-
-A clean half-price deal. Plugin Boutique doesn't run percentage sales on every product every month, so when a 50% window opens it's worth noting. Deals like this can expire without notice — verify current pricing before checkout.
+##  Plugin Boutique doesn't run percentage sales on every product every month, so when a 50% window opens it's worth noting. Deals like this can expire without notice — verify current pricing before checkout.
 
 [Check current pricing and get the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15130-A-Type-Multiband-Dynamic-Enhancer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=a-type-multiband-dynamic-enhancer-b9de37)
 

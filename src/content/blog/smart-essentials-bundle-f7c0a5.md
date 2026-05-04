@@ -36,7 +36,7 @@ The smart essentials Bundle is a collection of AI-powered mixing and mastering p
 
 ## Who Is It For?
 
-- ** A 40% discount on a premium bundle from an established developer is a meaningful drop. Sonible doesn't run sales constantly, so this window is worth noting if the tools fit your workflow.
+- **  Sonible doesn't run sales constantly, so this window is worth noting if the tools fit your workflow.
 
 [Check the current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/84-Mix-Master/16550-smart-essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-essentials-bundle-f7c0a5)
 
@@ -70,9 +70,7 @@ A: The smart: series generally supports VST, VST3, AU, and AAX, but confirm comp
 
 ---
 
-## Where to Buy
-
-$100 off a professional AI mixing bundle is a substantial saving — and 40% discounts from sonible aren't an everyday occurrence. If the smart: series is on your radar, this is the right moment to act.
+##  If the smart: series is on your radar, this is the right moment to act.
 
 [pluginboutique.com/product/81-Bundles/84-Mix-Master/16550-smart-essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-essentials-bundle-f7c0a5)
 

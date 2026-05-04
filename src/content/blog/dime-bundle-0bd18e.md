@@ -39,16 +39,7 @@ Based on the product listing category and deal structure, the dime Bundle is pos
 
 ## Who Is It For?
 
-- **Home studio producers** — an effects bundle at the $99 price point is a practical entry into professional-grade processing without individual plugin prices stacking up
-- **Mixing engineers building their toolkit** — bundle deals like this are a common way to fill gaps across dynamics, spatial, and color processing in one go
-- **Sound designers** — effects bundles with diverse processing types open up more creative signal chain options beyond stock DAW tools
-- **Budget-conscious musicians** — at 17% off, this is a meaningful discount for anyone who's been watching the price and waiting for a sale window
-
----
-
-## Current Pricing
-
- Effects bundles at this tier don't always see steep discounts, so 17% is worth paying attention to.
+- **
 
 Note: Verify current pricing on the product page — deals can change at any time.
 

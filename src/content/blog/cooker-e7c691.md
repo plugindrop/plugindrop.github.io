@@ -80,9 +80,7 @@ A: Plugin Boutique deals are typically time-limited. Confirm current pricing on 
 
 ---
 
-## Where to Buy
-
-55% off drops 808 Cooker from  to just **$18** — a low-stakes entry point for a purpose-built 808 instrument. That's the kind of price where you buy it and figure out where it fits later.
+##  That's the kind of price where you buy it and figure out where it fits later.
 
 [Lock in the $18 deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11027-808-Cooker?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cooker-e7c691)
 

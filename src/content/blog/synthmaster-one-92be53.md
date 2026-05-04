@@ -41,9 +41,7 @@ SynthMaster One is a wavetable and VA (virtual analog) synthesizer developed by 
 - **Existing SynthMaster 2 users** — SynthMaster One complements the full version as a faster, lighter tool for quick patch iteration.
 ---
 
-## Current Pricing
-
-A 41% discount is meaningful for a synth that doesn't frequently appear at this price point — KV331 Audio doesn't run perpetual sales, so this kind of discount is worth acting on if SynthMaster One is on your shortlist. Deals like this can expire without notice.
+##  Deals like this can expire without notice.
 
 [Check current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/3188-SynthMaster-One?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthmaster-one-92be53)
 

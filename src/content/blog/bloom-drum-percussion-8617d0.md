@@ -71,7 +71,7 @@ If you need a visual, pattern-focused workflow and a wide sample ecosystem, XO o
 ## FAQ
 
 **Q: Where can I buy Bloom Drum Percussion at the sale price?**
-A: The 34% discount is available through Plugin Boutique. The deal price is $39.00 versus the regular $59.00.
+ The deal price is $39.00 versus the regular $59.00.
 
 **Q: Does Bloom Drum Percussion require an iLok dongle?**
 A: Check the official product page for activation method details — requirements vary by developer and are subject to change.
@@ -84,9 +84,7 @@ A: Check the Plugin Boutique product listing for any available demo or trial opt
 
 ---
 
-## Where to Buy
-
-$20 off a dedicated percussion plugin is a straightforward saving — 34% discounts at this price tier don't show up constantly. If percussion sound design is part of your regular workflow, $39.00 is a low-friction entry point.
+##  If percussion sound design is part of your regular workflow, $39.00 is a low-friction entry point.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14163-Bloom-Drum-Percussion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-percussion-8617d0)
 

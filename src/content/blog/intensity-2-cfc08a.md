@@ -44,9 +44,7 @@ For exact system requirements, supported DAWs, and activation method, check the 
 - **Mastering engineers** — Dynamics control at the mix bus level is a standard part of a mastering chain; a dedicated tool here can replace more general-purpose compressors.
 ---
 
-## Current Pricing
-
-This is a 34% discount — not a trivial flash sale percentage. In the plugin market, discounts in the 30–35% range on dynamics tools are meaningful, especially when the regular price sits above $100. Whether this deal has a hard expiration date isn't confirmed, so verify current pricing before purchasing.
+##  In the plugin market, discounts in the 30–35% range on dynamics tools are meaningful, especially when the regular price sits above $100. Whether this deal has a hard expiration date isn't confirmed, so verify current pricing before purchasing.
 
 > **Note:** Verify current pricing on the product page — deals can change.
 

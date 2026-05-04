@@ -44,9 +44,7 @@ Unfiltered Audio Battalion is a drum machine synthesizer plugin developed by Unf
 
 ---
 
-## Current Pricing
-
-A 55% discount on a $200+ instrument is a meaningful drop — Unfiltered Audio titles don't regularly hit this level of discount. Verify current pricing on the product page before purchasing, as deals can end without notice.
+##  Verify current pricing on the product page before purchasing, as deals can end without notice.
 
 [→ Get Battalion for $91 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/14935-Unfiltered-Audio-Battalion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-battalion-d99c1b)
 

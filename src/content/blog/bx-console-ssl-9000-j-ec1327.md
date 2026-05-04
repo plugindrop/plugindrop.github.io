@@ -85,9 +85,7 @@ A: Plugin Alliance and Plugin Boutique frequently offer trial versions — check
 
 ---
 
-## Where to Buy
-
-77% off a Brainworx SSL 9000 J emulation is a rare gap between what this plugin normally costs and what you'll pay today. At $40, the math makes sense.
+##  At $40, the math makes sense.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10241-bx-console-SSL-9000-J?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-ssl-9000-j-ec1327)
 

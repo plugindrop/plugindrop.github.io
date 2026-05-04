@@ -34,18 +34,9 @@ Anthology XII is a complete plugin collection bundle available through Plugin Bo
 
 ## Who Is It For?
 
-- **Studio producers building a complete toolkit** — A single purchase at this price replaces the need to license multiple individual instruments or effects separately
-- **Producers transitioning from DAW stock plugins** — A complete collection provides the depth needed to move beyond bundled tools into dedicated processing and synthesis
-- **Engineers who prefer a curated stack** — Rather than assembling tools piecemeal over years, a collection purchase delivers a cohesive set under one license
-- **Budget-conscious professionals timing a deal** — 75% off a $1,999 bundle is the kind of discount that makes a long-delayed purchase viable
+- ** 
 
----
-
-## Current Pricing
-
-A $499 entry point for a complete collection bundle is significant context. At $1,999 standard, this product sits in a bracket typically purchased by studios or producers with a dedicated software budget. The 75% reduction brings it to a price point accessible to independent producers.
-
-Complete collection bundles at this scale rarely sustain discounts of this depth — 25–30% is more typical for catalog-wide sales. A 75% reduction on a $1,999 product represents an outlier discount that warrants attention if this category is on your radar.
+Complete collection bundles at this scale rarely sustain discounts of this depth — 25–30% is more typical for catalog-wide sales. 
 
 *Price verified at publication. Check the link for current availability.*
 
