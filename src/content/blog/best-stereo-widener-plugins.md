@@ -45,9 +45,6 @@ This guide covers the ten best stereo widener and imager plugins available in 20
 ## Best Free Stereo Wideners
 
 ### Wider (Polyverse) — The gold standard for free stereo widening
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CZsy0xHu7og" title="Wider — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Polyverse Music
 - **Price:** Free
 - **Platforms:** Windows, macOS

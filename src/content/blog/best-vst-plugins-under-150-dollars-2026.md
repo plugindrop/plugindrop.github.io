@@ -309,9 +309,6 @@ Komplete Start is NI's free tier of the Komplete bundle, including Kontakt Playe
 ## Worth Upgrading To
 
 ### FabFilter Pro-Q 4 — The benchmark EQ for serious mix engineers
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** FabFilter
 - **Price:** $179
 - **Why upgrade:** TDR Nova delivers strong dynamic EQ free of charge, but it lacks Pro-Q 4's per-node real-time spectrum display, zero-latency linear phase mode, and full mid/side control per band. Those features are workflow-critical distinctions for mastering and detailed mix-level EQ work — not cosmetic additions.

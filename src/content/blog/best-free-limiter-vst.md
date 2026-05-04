@@ -45,9 +45,6 @@ This guide covers eight community-validated free options plus two paid upgrades 
 ## Best Free Limiters for Mastering
 
 ### Limiter 6 GE — Most complete free mastering limiter available
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/I4DPPsQAU2A" title="Limiter 6 GE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** TBProAudio
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -143,7 +140,7 @@ Unlimited lacks true peak detection and multiband processing, which separates it
 
 ### MLimiter — Brick-wall limiting within Melda Production's free bundle
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/AjB0CIvX6iE" title="MLimiter — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/oOyY0U3gJ7M" title="MLimiter — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Melda Production
 - **Price:** Free (included in MFreeFXBundle)

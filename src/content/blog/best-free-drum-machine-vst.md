@@ -49,9 +49,6 @@ This guide covers ten free drum VST plugins organized by use case: live acoustic
 These plugins are built around recorded real kits. Use them when your production needs acoustic realism — a live-band context, a natural drum feel, or sounds that respond like a drummer played them.
 
 ### MT Power Drum Kit 2 — The Community's Default Recommendation
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1mnt7CoAfkk" title="MT Power Drum Kit 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Tentakelman
 - **Price:** Free
 - **Platforms:** Windows, macOS

@@ -44,9 +44,6 @@ This guide covers 10 plugins — from free options that genuinely compete with p
 ## Top Paid Picks for Mixing & Mastering
 
 ### FabFilter Pro-MB — The industry benchmark for surgical multiband control
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LNkaGACWuhs" title="FabFilter Pro-MB — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** FabFilter
 - **Price:** $199
 - **Platforms:** Windows, macOS
@@ -238,9 +235,6 @@ For straightforward compression tasks it can feel like overkill, but for produce
 ## Worth Upgrading To
 
 ### FabFilter Pro-MB — Still the ceiling for multiband compression quality
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LNkaGACWuhs" title="FabFilter Pro-MB — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** FabFilter
 - **Price:** $199
 - **Why upgrade:** Free alternatives like TDR Nova are strong, but lack Pro-MB's dynamic EQ hybrid mode, zero-latency/linear phase switching, and the visual clarity that makes complex decisions fast. For any producer doing regular professional mixing or mastering work, it's the most versatile and best-implemented multiband tool available.

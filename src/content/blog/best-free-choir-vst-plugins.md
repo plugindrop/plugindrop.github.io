@@ -44,9 +44,6 @@ This guide is for producers who write film scores, ambient electronic music, pos
 ## The Best Free Choir & Vocal Ensemble VST Plugins
 
 ### Spitfire LABS Choir — The Free Benchmark That Paid Libraries Are Measured Against
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/RNK8LVayPec" title="Spitfire LABS Choir — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Spitfire Audio
 - **Price:** Free
 - **Platforms:** Windows, macOS

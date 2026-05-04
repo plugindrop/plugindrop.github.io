@@ -47,9 +47,6 @@ We've organized the list by workflow stage so you can build a complete, studio-q
 Ableton's built-in instruments are solid, but these free VST synthesizers add timbral range and depth that Operator and Wavetable simply can't match.
 
 ### Vital — The Free Synth That Rivals Serum
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Matt Tytel
 - **Price:** Free (paid tiers available for extra presets)
 - **Platforms:** Windows, macOS, Linux

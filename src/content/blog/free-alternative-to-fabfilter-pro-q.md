@@ -98,9 +98,6 @@ The community's primary use case for Marvel GEQ is mastering-style broad tonal m
 ---
 
 ### LP10 — Lightweight parametric EQ for CPU-constrained sessions
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/WiEjFdUfV_U" title="LP10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** LKJB
 - **Price:** Free
 - **Platforms:** Windows, macOS

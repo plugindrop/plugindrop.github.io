@@ -50,9 +50,6 @@ Every plugin in this guide is genuinely free — no trials, no feature locks, no
 These are the compressors you reach for when you need dynamics control without imparting character. They're the foundation of any professional mixing template.
 
 ### TDR Kotelnikov — The gold standard in free transparent compression
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Cpokm0j1DXQ" title="TDR Kotelnikov — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Tokyo Dawn Records
 - **Price:** Free
 - **Platforms:** Windows, macOS, Linux

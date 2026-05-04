@@ -40,9 +40,6 @@ This guide covers seven synthesizers selected for real-world usefulness, communi
 ## Best Free Synth Plugins in 2026
 
 ### Vital — The Free Wavetable Synth That Changes Everything
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Matt Tytel
 - **Price:** Free (Basic) / $25 (Plus) / $80 (Pro)
 - **Platforms:** Windows, macOS, Linux

@@ -39,9 +39,6 @@ This review covers everything you need to know before buying Pro-C 2 in 2026: al
 ---
 
 ## FabFilter Pro-C 2 — Full Plugin Review
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mSzvpCz-M2k" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 ### FabFilter Pro-C 2 — The Transparent Standard for Modern Mixing
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/R1VetmWadbg" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

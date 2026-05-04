@@ -43,9 +43,6 @@ This guide covers 10 free mastering plugins across the three categories that mat
 Accurate metering is the prerequisite for every other mastering decision. Streaming platforms use loudness normalization at specific LUFS targets, and a master submitted outside those parameters will sound quieter or dynamically squashed relative to everything around it.
 
 ### Youlean Loudness Meter 2 — The community standard for streaming-compliant loudness metering
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/XMKQeLHYutw" title="Youlean Loudness Meter 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Youlean
 - **Price:** Free (Pro version available)
 - **Platforms:** Windows, macOS

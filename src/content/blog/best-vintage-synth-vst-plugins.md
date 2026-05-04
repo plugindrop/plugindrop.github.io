@@ -92,9 +92,6 @@ Surge XT includes analog-modeled filter circuits drawn from classic hardware arc
 ## Moog Emulations: The Ladder Filter Legacy
 
 ### Arturia Mini V3 — The Minimoog Standard
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/DHA0HjTm1fM" title="Arturia Mini V3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Arturia
 - **Price:** $99 (also included in V Collection 11)
 - **Platforms:** Windows, macOS
@@ -255,9 +252,6 @@ The Yamaha CS-80 was used by Vangelis on the Blade Runner soundtrack — one of 
 ## Worth Upgrading To
 
 ### u-he Diva — The Step Up From Any Free Emulation
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/q8LGFteoC1g" title="u-he Diva — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** u-he
 - **Price:** $179
 - **Why upgrade:** Free emulations like OB-Xd and Surge XT model circuit behavior — Diva models circuits. When you need accurate oscillator drift, filter self-oscillation, or the specific non-linearities of vintage VCAs, the free tier hits a hard ceiling that Diva does not share.

@@ -15,7 +15,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/BXHGHlTsJAA" title="12 Best Free Lo-Fi Sample Packs in 2026 (Drums, Vinyl Crackle, Chords) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/jj-xEQNtlxI" title="12 Best Free Lo-Fi Sample Packs in 2026 (Drums, Vinyl Crackle, Chords) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -256,9 +256,6 @@ MSXII Sound Design is one of the most-cited creators in lo-fi hip hop production
 ## Worth Upgrading To (Paid Options)
 
 ### Loopmasters Lo-Fi Packs — Label-quality depth for serious producers
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/BXHGHlTsJAA" title="Loopmasters lo-fi packs — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Loopmasters
 - **Price:** From $14.95
 - **Why upgrade:** Free sources cover the basics well, but Loopmasters' lo-fi catalog adds label-level recording quality, instrument variety that free packs rarely reach — live upright bass, live jazz drumming, Wurlitzer, Rhodes — and commercial licensing clarity that eliminates the attribution ambiguity common on community platforms. Their lo-fi catalog spans multiple sub-genre styles from ambient chill to upbeat lo-fi hip hop.

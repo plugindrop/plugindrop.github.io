@@ -64,9 +64,6 @@ The 7170 Lead emulates the preamp circuit of a Peavey 5150, the amp most associa
 ---
 
 ### LePou Amp Sim Suite — A Free Multi-Amp Library in One Download
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/xi3o9eeNn30" title="LePou Amp Sim Suite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** LePou
 - **Price:** Free
 - **Platforms:** Windows (primary); macOS via community builds

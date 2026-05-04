@@ -41,9 +41,6 @@ This guide covers five free wavetable VST plugins worth installing in 2026, rank
 ## Best Free Wavetable Synth VST Plugins in 2026
 
 ### Vital — The Free Benchmark
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/K9bhFJmvRa0" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Vital Audio (Matt Tytel)
 - **Price:** Free (Vital Plus and Vital Pro tiers available for expanded preset and wavetable libraries)
 - **Platforms:** Windows, macOS, Linux
@@ -144,9 +141,6 @@ Development has slowed significantly since Vital launched. The preset library is
 ### Serum — The Industry Standard
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Xfer Records (Steve Duda)
 - **Price:** ~$189 one-time (rent-to-own available via Splice)
 - **Why upgrade:** Vital's free tier handles the synthesis tasks that Serum handles, but Serum's third-party preset and wavetable ecosystem has been built over years of industry deployment. If you work with major electronic music sound packs, collaborate with other producers on patches, or deliver client work where preset compatibility matters, Serum remains the default standard that those assets are designed around. The synthesis engines are comparable — the ecosystem is not.

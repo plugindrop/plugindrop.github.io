@@ -42,9 +42,6 @@ This guide covers 12 third-party plugins with the strongest community endorsemen
 ## EQ & Dynamics
 
 ### FabFilter Pro-Q 4 — the benchmark dynamic EQ that every serious mixer eventually owns
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** FabFilter
 - **Price:** $179
 - **Platforms:** Windows, macOS
@@ -133,9 +130,6 @@ Valhalla documents Supermassive as using a modulated feedback delay network arch
 ### Serum — the community-standard wavetable synthesizer
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Xfer Records
 - **Price:** $189 one-time (rental-to-own also available via Splice)
 - **Platforms:** Windows, macOS

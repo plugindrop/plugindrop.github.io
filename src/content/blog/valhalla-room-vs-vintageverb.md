@@ -61,9 +61,6 @@ The algorithms include Neutral, Noisy, Noisy Bright, Open Air, Bright, Dark, and
 ---
 
 ### Valhalla VintageVerb — Colored, Characterful, Classically Inspired
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EzPouHxa18s" title="Valhalla VintageVerb — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Valhalla DSP
 - **Price:** $50
 - **Platforms:** Windows, macOS
@@ -142,9 +139,6 @@ Both plugins in this comparison are premium tools worth every cent of their $50 
 [→ Get Valhalla Room on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Room%20reverb&a_aid=69cb95abe1763)
 
 ### Valhalla VintageVerb — The Creative Character Reverb Worth Owning
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EzPouHxa18s" title="Valhalla VintageVerb — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Valhalla DSP
 - **Price:** $50
 - **Why upgrade:** Free reverbs don't model vintage hardware behavior with any accuracy. The Color modes and algorithm variety in VintageVerb deliver sounds that aren't available at the free tier — sounds that defined entire decades of recorded music.

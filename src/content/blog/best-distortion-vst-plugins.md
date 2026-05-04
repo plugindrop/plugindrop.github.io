@@ -46,9 +46,6 @@ This guide covers 12 real plugins across the full price spectrum. It is written 
 ## Top-Tier Paid Distortion
 
 ### Soundtoys Decapitator — The analog drive benchmark
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/_3Q3U-v0pzA" title="Soundtoys Decapitator — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Soundtoys
 - **Price:** ~$179 (sale pricing regularly reaches $49–99)
 - **Platforms:** Windows, macOS
@@ -258,9 +255,6 @@ TAL-Saturator V2 is a waveshaper with adjustable drive, saturation character, an
 If you have been working with IVGI, Saturation Knob, Chow Tape Model, or TAL-Saturator and want to take the next step — here is what the paid tier actually offers over the free options.
 
 ### Soundtoys Decapitator — Five hardware models, one plugin
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/_3Q3U-v0pzA" title="Soundtoys Decapitator — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Soundtoys
 - **Price:** ~$179 (watch for sale pricing at $49–99)
 - **Why upgrade:** Free saturation plugins deliver one generic harmonic character. Decapitator delivers five distinct hardware-modeled circuits — each with documented analog source equipment — plus a Punish knob that pushes drive well past where any free plugin goes cleanly. The gap between IVGI and Decapitator is the gap between "harmonic content" and "hardware character with a specific room and circuit identity."

@@ -179,9 +179,6 @@ The BPB Saturator offers four saturation modes — Soft, Hard, Tape, and Clip �
 ## Worth Upgrading To (Paid Options)
 
 ### RC-20 Retro Color — When you want lo-fi processing in a single integrated tool
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/wbQgt8u-Cm4" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** XLN Audio
 - **Price:** $149
 - **Why upgrade:** The free tools in this guide handle individual aspects of tape processing well, but none combine bias wobble, harmonic saturation, vinyl noise, reverb decay, bit reduction, and stereo width in a single, musically integrated interface. RC-20 Retro Color is what r/edmproduction recommends when producers want to stop stacking four or five separate plugins to achieve one aesthetic — the parameter interaction between modules produces lo-fi results that individually stacked free plugins can't fully replicate.

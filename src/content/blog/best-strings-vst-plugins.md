@@ -157,9 +157,6 @@ Native Instruments designed Session Strings Pro 2 specifically for pop, soul, an
 ## Premium Orchestral Libraries
 
 ### Spitfire BBC Symphony Orchestra — Community's top-rated premium strings library
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/B49AQdh1sTw" title="Spitfire BBC Symphony Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Spitfire Audio
 - **Price:** ~$449 (Core); Professional edition at higher price
 - **Platforms:** Windows, macOS
@@ -245,9 +242,6 @@ Cinesamples built CineStrings CORE specifically for film and television scoring 
 ---
 
 ### EastWest Hollywood Strings — Multi-mic depth that single-perspective libraries can't replicate
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ScEF8OALc_M" title="EastWest Hollywood Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** EastWest
 - **Price:** ComposerCloud+ (~$29.99/month)
 - **Why upgrade:** Free and budget strings libraries offer one or two mic perspectives at best. Hollywood Strings' five-position architecture gives you the recording control that professional post-production and sync licensing often requires — and the depth at each position is substantially greater than what any mid-range alternative provides.

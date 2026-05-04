@@ -43,9 +43,6 @@ Whether you're mixing electronic music in Ableton, producing hip-hop in FL Studi
 These plugins model the behavior of tape echo machines and bucket-brigade analog circuits — the warmth, flutter, bandwidth roll-off, and saturation that make vintage delay so distinct.
 
 ### SoundToys EchoBoy — The most complete delay plugin money can buy
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CMxM4YDpWM8" title="SoundToys EchoBoy — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** SoundToys
 - **Price:** ~$99 (also available in the SoundToys 5 bundle)
 - **Platforms:** Windows, macOS
@@ -261,9 +258,6 @@ Palindrome is an experimental buffer-glitch and delay effect that introduces ran
 If you've been relying on free delays and want to invest in something that covers significantly more ground, these two are the smartest single upgrades available.
 
 ### SoundToys EchoBoy — The paid delay that sets the reference standard
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CMxM4YDpWM8" title="SoundToys EchoBoy — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** SoundToys
 - **Price:** ~$99
 - **Why upgrade:** Free delays cap out at one or two sonic modes; EchoBoy covers tape, BBD, digital, and studio echo modes with hardware-informed algorithm design — effectively replacing multiple specialized tools in one purchase.

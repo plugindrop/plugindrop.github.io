@@ -48,9 +48,6 @@ This guide covers 12 plugins across reverb, synthesis, and creative effects — 
 Reverb is not one of the tools you need for ambient music — it is the tool. These four options span free-and-excellent to paid-and-surgical.
 
 ### Valhalla Supermassive — The free benchmark the community keeps recommending
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Valhalla DSP
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -247,9 +244,6 @@ Spitfire LABS is a free plugin platform that provides access to an expanding cat
 These two paid tools address specific limitations in the free options above. Both have a clear case that the community has documented.
 
 ### Output Portal — From free granular tools to professional real-time processing
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/-tEGqUbdE-w" title="Output Portal — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Output
 - **Price:** $99
 - **Why upgrade:** Free granular tools exist in various forms, but Portal's real-time engine — with MIDI controllability, macro controls, and modulation depth — offers a level of performance expressiveness that patch-based or offline granular processors don't match. For ambient producers who want granular processing as a playable, expressive instrument rather than a static effect, the distinction is meaningful.

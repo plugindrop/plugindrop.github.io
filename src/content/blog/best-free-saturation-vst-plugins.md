@@ -47,9 +47,6 @@ This guide covers ten free saturation and distortion VST plugins with strong com
 These four address the core use case: adding harmonic content to digital signals to give them weight, presence, and analog character. All four are single-band processors with different trade-offs in complexity versus convenience.
 
 ### Saturation Knob — The Fastest Path from Thin to Warm
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/2rOEkCJZFBQ" title="Saturation Knob — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Softube
 - **Price:** Free
 - **Platforms:** Windows, macOS

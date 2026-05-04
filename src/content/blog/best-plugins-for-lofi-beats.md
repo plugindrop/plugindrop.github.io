@@ -225,9 +225,6 @@ TAL-Chorus-LX is a recreation of the Roland Juno-60's chorus circuit, offered fr
 ## Worth Upgrading To (Paid Options)
 
 ### RC-20 Retro Color — The All-in-One Lo-Fi Chain
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/wbQgt8u-Cm4" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** XLN Audio
 - **Price:** ~$99
 - **Why upgrade:** The free stack requires chaining six or more individual tools — vinyl noise, tape wobble, reverb, bitcrushing, saturation, filtering — each with its own routing and interaction. RC-20 consolidates all of these into one interface with modules designed to interact coherently. Community consensus across Reddit and KVR is consistent: it replaces a patchwork chain with something that sounds intentionally designed rather than assembled.

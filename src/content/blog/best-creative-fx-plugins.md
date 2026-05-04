@@ -151,9 +151,6 @@ Infiltrator 2 chains multiple effect modules with a sequencer-driven modulation 
 ## Granular & Spectral Processing
 
 ### Output Portal — Granular effects as an insert, not a sound design exercise
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/CQJAsTD7VUU" title="Output Portal — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Output
 - **Price:** ~$99
 - **Platforms:** Windows, macOS
@@ -263,9 +260,6 @@ Snap Heap is a modular effects host that chains Kilohearts "snapin" effect modul
 ## Worth Upgrading To
 
 ### Output Portal — From free granular utilities to a purpose-built real-time granular insert
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/CQJAsTD7VUU" title="Output Portal — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Output
 - **Price:** ~$99
 - **Why upgrade:** Free granular tools typically function as sound design environments requiring significant setup to work effectively as real-time insert effects. Output Portal is engineered specifically as a real-time granular processor with an interface that maps directly to production outcomes — the workflow difference between it and free granular alternatives is immediate from the first session.
@@ -275,9 +269,6 @@ Snap Heap is a modular effects host that chains Kilohearts "snapin" effect modul
 ---
 
 ### Soundtoys 5 — From piecemeal free plugins to a unified creative effects standard
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/sW3vt73eLM8" title="Soundtoys 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Soundtoys
 - **Price:** ~$499
 - **Why upgrade:** Assembling individual free or budget creative effects plugins produces an inconsistent toolkit where quality, workflow, and sonic character vary across tools. Soundtoys 5 provides a unified library where every plugin meets the same quality standard — and purchasing individual Soundtoys plugins adds up quickly. EchoBoy, Crystallizer, and Decapitator alone cover creative territory that no combination of free alternatives replicates with equivalent depth.

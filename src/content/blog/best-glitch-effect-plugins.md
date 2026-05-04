@@ -101,9 +101,6 @@ The two Glitchmachines free plugins address different parts of the glitch spectr
 ## Paid Glitch & Stutter Plugins
 
 ### iZotope Stutter Edit 2 — the professional standard for MIDI-triggered stutter
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/NWNDm-ECpdU" title="iZotope Stutter Edit 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** iZotope
 - **Price:** ~$149 (frequently discounted)
 - **Platforms:** Windows, macOS
@@ -209,9 +206,6 @@ It isn't the right tool for complex sequenced glitch. For adding convincing tape
 For producers who've built their free workflow around Glitch 2 and the Glitchmachines suite, these two paid upgrades consistently appear in community discussions about the next step:
 
 ### iZotope Stutter Edit 2 — when real-time MIDI control becomes non-negotiable
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/NWNDm-ECpdU" title="iZotope Stutter Edit 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** iZotope
 - **Price:** ~$149
 - **Why upgrade:** Free sequencer-based plugins can't replicate Stutter Edit 2's gesture system — there's no freeware equivalent for live MIDI-triggered stutter with per-key effect mapping. The gap matters most in live performance, post-production, and Pro Tools-based workflows where AAX compatibility is required.
@@ -219,9 +213,6 @@ For producers who've built their free workflow around Glitch 2 and the Glitchmac
 [→ Get iZotope Stutter Edit 2](https://www.native-instruments.com/en/products/izotope/stutter-edit-2/)
 
 ### Output Portal — when granular texture replaces pattern-based glitch
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/CQJAsTD7VUU" title="Output Portal — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Output
 - **Price:** ~$99
 - **Why upgrade:** Fracture and Hysteresis produce excellent chaotic destruction, but Portal's granular engine offers musical control over texture that freeware buffer tools don't approach. It bridges glitch effect and composed sound design in a way that changes what producers can do with the concept.

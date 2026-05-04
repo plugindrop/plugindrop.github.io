@@ -44,9 +44,6 @@ This guide covers eight free multiband compressor VSTs available in 2026, drawn 
 ## Best Free Multiband Compressor VST Plugins
 
 ### TDR Nova — The free standard for transparent multiband dynamics
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1CHFv4mWQYM" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Tokyo Dawn Records
 - **Price:** Free (GE paid edition available)
 - **Platforms:** Windows, macOS

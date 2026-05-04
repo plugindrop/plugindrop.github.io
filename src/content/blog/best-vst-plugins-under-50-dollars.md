@@ -82,9 +82,6 @@ Valhalla released Supermassive as a permanent free plugin, and it has become one
 ---
 
 ### Valhalla Delay — Every delay type in one plugin
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1pDVayo9GWc" title="Valhalla Delay — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Valhalla DSP
 - **Price:** $50
 - **Platforms:** Windows, macOS
@@ -324,9 +321,6 @@ MFreeFXBundle is the most generous free plugin release in the industry — a lar
 ## Worth Upgrading To (Paid Options)
 
 ### Valhalla Room — When free reverb stops being enough
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ogaodQa-fb0" title="Valhalla Room — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Valhalla DSP
 - **Price:** $50
 - **Why upgrade:** Free reverbs like Supermassive are excellent for diffuse, ambient spaces, but Valhalla Room's multiple algorithms and precise early reflection controls deliver the tight, shaped ambiences that vocals and drums demand. The jump in mix-readiness between a free reverb and Room is immediate and audible.

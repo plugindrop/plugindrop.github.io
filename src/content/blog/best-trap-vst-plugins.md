@@ -47,11 +47,6 @@ This guide is for producers who have moved past tutorials and want deliberate re
 The synthesis category is where most trap production spending goes — and where most waste happens. One capable wavetable engine covers 808 bass, leads, and pads. Anything beyond that is specialization, not necessity.
 
 ### Serum — The Undisputed Standard for 808 Bass and Trap Synthesis
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Xfer Records (Steve Duda)
 - **Price:** $189 one-time (subscription also available)
 - **Platforms:** Windows, macOS
@@ -281,9 +276,6 @@ If you're running on free tools and ready to invest in one paid synth, these are
 ---
 
 ### Massive X — Worth It for Producers Who Want a Distinctive Sound
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/T4mfM73egsQ" title="Massive X — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Native Instruments
 - **Price:** $149 standalone
 - **Why upgrade:** TAL-NoiseMaker covers virtual analog basics. Massive X's spectral morphing oscillators operate in territory free synths don't reach — evolving, unusual bass and lead patches that distinguish a producer's output from generic trap templates built on standard wavetables.

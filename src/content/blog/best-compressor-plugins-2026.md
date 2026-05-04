@@ -46,9 +46,6 @@ This guide covers five essential picks — a mix of free and affordable paid opt
 ## Best Paid Compressor Plugins
 
 ### FabFilter Pro-C 2 — The only compressor most engineers ever need
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mSzvpCz-M2k" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** FabFilter
 - **Price:** $179
 - **Platforms:** Windows, macOS

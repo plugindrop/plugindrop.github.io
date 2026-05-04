@@ -45,9 +45,6 @@ This guide covers the **best EQ plugins 2026** across free and paid tiers, for p
 ## The Professional Standard
 
 ### FabFilter Pro-Q 4 — The benchmark every other EQ is measured against
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** FabFilter
 - **Price:** $179
 - **Platforms:** Windows, macOS
