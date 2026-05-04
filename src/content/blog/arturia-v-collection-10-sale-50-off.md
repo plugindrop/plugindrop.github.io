@@ -1,21 +1,17 @@
 ---
-title: "Arturia V Collection 11 Pro — 45 Instruments, Full Breakdown"
-description: "Arturia V Collection 11 Pro packs 45 modeled vintage instruments into one bundle. Full breakdown of what's included, pricing, and who it's for."
-pubDate: "2026-03-28T10:30:00Z"
-updatedDate: "2026-04-06T10:00:00Z"
-tags: ["sale", "synth", "bundle", "music-production"]
+title: "Arturia V Collection 11 Pro — 45 Instruments, Full Breakdown: Features, Pricing & Is It Worth It? (2026)"
+description: "Arturia V Collection is a bundle of software recreations of classic hardware instruments. Check current pricing at Plugin Boutique."
+pubDate: '2026-03-28T10:30:00Z'
+tags: ["review", "synth", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-v-collection-10-sale-50-off"
-dealPrice: "$699"
-originalPrice: "$1398"
-discount: "50% OFF"
-heroImage: "/images/arturia-v-collection-10-sale-50-off.jpg"
-
+heroImage: /images/arturia-v-collection-10-sale-50-off.jpg
 score: 7.98
-saleExpiry: '2026-03-09'
-draft: true
+draft: false
+converted: true
 ---
+**Arturia V Collection 11 Pro — 45 Instruments, Full Breakdown** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-v-collection-10-sale-50-off)
 
-**TL;DR:** Arturia V Collection 11 Pro — **45 modeled vintage instruments** in one bundle. Minimoog, Jupiter-8, Prophet-5, DX7, CS-80, and 40 more, plus 7 new instruments added in v11 including Jup-8000 V, Pure LoFi, and SEM V. Regular price $699. Arturia runs 50% sales periodically — the last one was March 2026. [Check current pricing on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-v-collection-10-sale-50-off).
+---
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/n46hnnvQ2t8" title="Arturia V Collection — Official Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin-bottom:1.5rem"></iframe>
@@ -55,15 +51,13 @@ V Collection is a consistent recommendation in "best plugin bundle" threads on R
 - **Synthwave/retro producers** — Software recreations of the hardware that defined those genres
 - **Electronic producers** — New additions like Jup-8000 V (supersaw) and SEM V cover modern electronic production staples
 
-## Pricing
-
 | Edition | Price | Instruments |
 |---|---|---|
 | **V Collection 11 Pro** | $699 | 45 instruments |
 | V Collection 11 Intro | $199 | 10 instruments |
 | Upgrade (existing owners) | Varies | Check Arturia's site |
 
-**Sale history:** Arturia ran a 50% off sale on V Collection 11 Pro ($349) through March 9, 2026 as part of Plugin Boutique's 14th anniversary. They typically run major sales at Black Friday and occasionally mid-year. Upgrade pricing for existing Arturia customers can significantly reduce the entry cost.
+** They typically run major sales at Black Friday and occasionally mid-year. Upgrade pricing for existing Arturia customers can significantly reduce the entry cost.
 
 [Check current pricing on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-v-collection-10-sale-50-off)
 

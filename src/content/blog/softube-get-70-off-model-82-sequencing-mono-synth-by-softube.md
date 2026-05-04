@@ -1,18 +1,15 @@
 ---
-title: "Softube — Get 70% off Model 82 Sequencing Mono Synth by Softube"
-description: "Softube's Model 82 Sequencing Mono Synth is currently **70% off** at Plugin Boutique — a rare deep discount on a plugin that rarely goes on sale this..."
-pubDate: "2026-04-18T13:40:28Z"
-tags: ["sale", "softube", "music-production", "synth"]
+title: "Model 82 Sequencing Mono Synth: Features, Pricing & Is It Worth It? (2026)"
+description: "Softube's Model 82 is a monophonic synthesizer plugin with a built-in step sequencer — a combination that targets. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-18T13:40:28Z'
+tags: ["review", "softube", "music-production", "synth"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-70-off-model-82-sequencing-mono-synth-by-softube&a_aid=69cb95abe1763"
-heroImage: "/images/softube-get-70-off-model-82-sequencing-mono-synth-by-softube.jpg"
-discount: "70% OFF"
-dealPrice: "$29.00"
-originalPrice: "$99.00"
+heroImage: /images/softube-get-70-off-model-82-sequencing-mono-synth-by-softube.jpg
 score: 7.57
-saleExpiry: "2026-04-30"
-draft: true
+draft: false
+converted: true
 ---
-**TL;DR:** Softube's Model 82 Sequencing Mono Synth is currently **70% off** at Plugin Boutique — a rare deep discount on a plugin that rarely goes on sale this steeply. Check the current ~~full price~~ deal price and grab it [directly at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-70-off-model-82-sequencing-mono-synth-by-softube&a_aid=69cb95abe1763) before it expires.
+**Model 82 Sequencing Mono Synth** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-70-off-model-82-sequencing-mono-synth-by-softube&a_aid=69cb95abe1763)
 
 ---
 
@@ -47,15 +44,7 @@ The Model 82 has attracted attention in communities that follow Softube's catalo
 - **Electronic bass producers** — The mono architecture and built-in sequencer are purpose-built for driving basslines in techno, house, and electro.
 - **Acid and modular-style workflow fans** — If you enjoy composing with step sequences rather than drawn MIDI notes, the integrated sequencer removes friction.
 - **Softube ecosystem users** — Producers already running Softube plugins will find the Model 82 consistent in interface philosophy and audio quality.
-- **Producers entering the analog modeling space** — At 70% off, the price barrier drops significantly for those curious about Softube's modeling approach.
-
 ---
-
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~Full price~~ | 70% off (verify at checkout) | ~70% |
 
 Softube does not run heavy discounts constantly — 70% is toward the top end of what they offer. Verify the exact dollar amounts on the product page, as deal pricing can update. **Deals can change without notice.**
 
@@ -91,7 +80,7 @@ A: Check the official product page for current OS and CPU requirements — these
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 70% off a Softube instrument is not a common occurrence — if the Model 82 has been on your radar, this is one of the stronger discount windows to act on. [Check current pricing and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-70-off-model-82-sequencing-mono-synth-by-softube&a_aid=69cb95abe1763)
 

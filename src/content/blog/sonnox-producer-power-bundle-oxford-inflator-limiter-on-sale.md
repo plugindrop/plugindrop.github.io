@@ -1,21 +1,17 @@
 ---
-title: "Sonnox Producer Power Bundle (Oxford Inflator & Limiter) on sale for $49 USD"
-description: "The Sonnox Producer Power Bundle — Oxford Inflator + Oxford Limiter — is currently on sale for **$49 USD** at Plugin Boutique. That's two..."
-pubDate: "2026-04-20T11:06:31Z"
-tags: ["compressor and limiter", "sale", "sonnox", "bundle", "music-production"]
+title: "Sonnox Producer Power Bundle (Oxford Inflator & Limiter): Features, Pricing & Is It Worth It? (2026)"
+description: "Sonnox is a UK-based plugin developer with roots in professional broadcast and recording studio tools. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-20T11:06:31Z'
+tags: ["review", "compressor and limiter", "sonnox", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16123-Sonnox-Producer-Power-Bundle-Oxford-Inflator-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale"
+heroImage: /images/sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale.jpg
 score: 10.00
-dealPrice: "$49.00"
-originalPrice: "$420.00"
-discount: "88% OFF"
-heroImage: "/images/sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale.jpg"
+draft: false
+converted: true
+---
+**Sonnox Producer Power Bundle (Oxford Inflator & Limiter)** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16123-Sonnox-Producer-Power-Bundle-Oxford-Inflator-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale)
 
 ---
-**TL;DR:** The Sonnox Producer Power Bundle — Oxford Inflator + Oxford Limiter — is currently on sale for **$49 USD** at Plugin Boutique. That's two professional-grade mastering tools in one bundle, at a fraction of their individual retail prices. [Grab the deal here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16123-Sonnox-Producer-Power-Bundle-Oxford-Inflator-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale)
-
----
-
-## Sonnox Producer Power Bundle: Oxford Inflator + Limiter on Sale for $49
 
 ## What Is the Sonnox Producer Power Bundle?
 
@@ -44,17 +40,9 @@ The Oxford Inflator in particular has a long-standing reputation on mixing and m
 - **Bedroom producers finishing tracks:** Both plugins address the final stages of a mix where loudness and control matter before export.
 - **Mixing engineers building a mastering chain:** A transparent limiter and an inflator cover two distinct loudness-shaping roles without redundancy.
 - **Podcasters and content creators:** The Inflator's loudness-enhancement approach suits voice and spoken-word content where perceived presence is important.
-- **Producers who already own one Sonnox tool:** Bundling both at $49 makes it a logical expansion of an existing Sonnox-based workflow.
-
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~Check product page for individual prices~~ | **$49 USD** | Significant vs. buying separately |
-
-Per-unit math: at $49 for two plugins, you're effectively paying **~$24.50 per plugin** — well below the typical individual retail pricing for professional mastering tools in this tier. Sonnox doesn't run heavy discounts frequently, so bundle deals like this are worth noting when they appear.
+50 per plugin** — well below the typical individual retail pricing for professional mastering tools in this tier. Sonnox doesn't run heavy discounts frequently, so bundle deals like this are worth noting when they appear.
 
 > **Note:** Verify current pricing on the product page — deals can change without notice.
 
@@ -90,7 +78,7 @@ A: Sonnox sometimes offers upgrade pricing for existing license holders. Check t
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 Two professional mastering tools for $49 — the Sonnox Producer Power Bundle is a straightforward value add for anyone building out a mixing or mastering signal chain. [Pick it up at Plugin Boutique while the deal is active.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16123-Sonnox-Producer-Power-Bundle-Oxford-Inflator-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale)
 

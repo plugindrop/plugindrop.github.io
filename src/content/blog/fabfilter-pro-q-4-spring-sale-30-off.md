@@ -1,20 +1,17 @@
 ---
-title: "FabFilter Pro-Q 4 — 30% Off Spring Sale"
-description: "FabFilter Pro-Q 4 is 30% off at $132 (save $57). Here's the price context to help you decide if now is the right time."
-pubDate: "2026-03-26T09:00:00Z"
-tags: ["sale", "vst-plugin", "eq", "music-production"]
+title: "FabFilter Pro-Q 4: Features, Pricing & Is It Worth It? (2026)"
+description: "FabFilter Pro-Q is a parametric EQ plugin used widely in professional mixing and mastering workflows. Check current pricing at Plugin Boutique."
+pubDate: '2026-03-26T09:00:00Z'
+tags: ["review", "vst-plugin", "eq", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off"
-dealPrice: "$132"
-originalPrice: "$189"
-discount: "30% OFF"
-saleExpiry: "2026-04-30"
-heroImage: "/images/fabfilter-pro-q-4-spring-sale-30-off.jpg"
-
+heroImage: /images/fabfilter-pro-q-4-spring-sale-30-off.jpg
 score: 7.7
-draft: true
+draft: false
+converted: true
 ---
+**FabFilter Pro-Q 4** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off)
 
-**TL;DR:** FabFilter Pro-Q 4 is 30% off — ~~$189~~ **$132** (save $57). This is FabFilter's standard sale depth — they run 25-30% discounts a few times per year, and they haven't gone deeper in recent history. If you've been waiting for a dip, this is what it looks like. [Check the deal](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off).
+---
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — Official Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin-bottom:1.5rem"></iframe>
@@ -44,8 +41,6 @@ Pro-Q has been a staple recommendation on mixing forums for years. On Reddit's r
 - **Surround/Atmos mixers** — Native immersive format support built in
 - **Producers upgrading from stock DAW EQ** — Adds dynamic EQ and spectrum interaction that most stock EQs don't offer
 
-## Pricing & Deal Details
-
 | | Regular Price | Sale Price | You Save |
 |---|---|---|---|
 | Pro-Q 4 | ~~$189~~ | **$132** | **$57 (30%)** |
@@ -66,7 +61,7 @@ Verify current pricing on the product page — deals can change.
 | iZotope Ozone EQ | ~$99 (in Ozone suite) | Bundled with mastering chain, not sold standalone |
 | Stock DAW EQ | Included | Varies by DAW — most lack per-band dynamic EQ |
 
-If budget is the main factor, TDR Nova at $0 covers dynamic EQ basics with 4 bands — see our full [TDR Nova review](/posts/tdr-nova-free-dynamic-eq/) for details. If you need the full 24-band dynamic EQ with visual spectrum interaction, Pro-Q is the established option at this price point. For a broader look at when free plugins are genuinely enough, see [free plugins vs. paid — is it worth upgrading?](/posts/free-plugins-vs-paid-worth-upgrading/)
+ If you need the full 24-band dynamic EQ with visual spectrum interaction, Pro-Q is the established option at this price point. For a broader look at when free plugins are genuinely enough, see [free plugins vs. paid — is it worth upgrading?](/posts/free-plugins-vs-paid-worth-upgrading/)
 
 ## FAQ
 
@@ -82,8 +77,8 @@ A: Based on past years, FabFilter's Black Friday discount has been the same 25-3
 **Q: What are the system requirements?**
 A: Check the official FabFilter site for the latest supported formats and OS requirements.
 
-## Get the Deal
+## Where to Buy
 
-Pro-Q 4 at $132 — $57 off the regular price. FabFilter doesn't go deeper than 30%, so this is their standard best price.
+ FabFilter doesn't go deeper than 30%, so this is their standard best price.
 
-[Check Pro-Q 4 at 30% Off](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off)
+[pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off)

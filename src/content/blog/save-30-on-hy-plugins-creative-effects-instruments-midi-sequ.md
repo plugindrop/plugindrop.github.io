@@ -1,17 +1,15 @@
 ---
-title: "Save 30% on HY-Plugins creative effects, instruments & MIDI sequencers"
-description: "HY-Plugins is running a 30% off sale on its range of creative effects, instruments, and MIDI sequencers at Plugin Boutique. If you've had any of these..."
-pubDate: "2026-04-20T08:18:51Z"
-tags: ["arpeggiator", "generator", "hy-plugins", "midi", "sale", "sequencer", "music-production"]
+title: "HY-Plugins creative effects, instruments & MIDI sequencers: Features, Pricing & Is It Worth It? (2026)"
+description: "HY-Plugins is an independent plugin developer known for a focused catalog of affordable, creatively oriented tools —. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-20T08:18:51Z'
+tags: ["review", "arpeggiator", "generator", "hy-plugins", "midi", "sequencer", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ"
+heroImage: /images/save-30-on-hy-plugins-creative-effects-instruments-midi-sequ.jpg
 score: 9.05
-dealPrice: "$42.00"
-originalPrice: "$60.00"
-discount: "30% OFF"
-heroImage: "/images/save-30-on-hy-plugins-creative-effects-instruments-midi-sequ.jpg"
-
+draft: false
+converted: true
 ---
-**TL;DR:** HY-Plugins is running a 30% off sale on its range of creative effects, instruments, and MIDI sequencers at Plugin Boutique. If you've had any of these tools on your radar, now is a solid time to pull the trigger. [Browse the HY-Plugins sale at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ)
+**HY-Plugins creative effects, instruments & MIDI sequencers** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ)
 
 ---
 
@@ -53,17 +51,11 @@ HY-Plugins sits in the "hidden gem" tier that tends to get discussed in threads 
 
 ---
 
-## Pricing & Deal Details
-
-Exact regular prices vary by product across the HY-Plugins catalog. The discount applies store-wide at 30% off.
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~Full price~~ (varies by product) | 30% off at checkout | 30% per item |
+Exact regular prices vary by product across the HY-Plugins catalog. 
 
 HY-Plugins doesn't run sales constantly — when discounts do appear, they're worth acting on for tools you've already been considering. Verify current pricing directly on the product page, as deals can change without notice.
 
-[Claim 30% off HY-Plugins at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ)
+[pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ)
 
 ---
 
@@ -95,11 +87,11 @@ A: No end date is confirmed. Sales like this can end without notice, so check Pl
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 30% off an already-affordable catalog is a straightforward win for producers exploring MIDI sequencing, sampling, and creative effects. Don't wait on this one — indie plugin sales rarely have long windows.
 
-[Shop HY-Plugins at 30% off — Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ)
+[pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ)
 
 ---
 

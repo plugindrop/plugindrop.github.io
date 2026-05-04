@@ -1,22 +1,20 @@
 ---
-title: "47% Off WORMHOLE"
-description: "WORMHOLE is currently 47% off at Plugin Boutique — dropping from ~~$149.00~~ to **$79.00**, a $70 saving on a creative multi-effect plugin built for..."
-pubDate: "2026-04-28T15:49:25Z"
-tags: ["sale", "vst-plugin", "effects", "music-production"]
+title: "WORMHOLE: Features, Pricing & Is It Worth It? (2026)"
+description: "WORMHOLE is a multi-effect plugin available at Plugin Boutique, categorized under creative effects processing. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-28T15:49:25Z'
+tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/2709-WORMHOLE-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wormhole-d5160c"
-heroImage: "/images/wormhole-d5160c.jpg"
+heroImage: /images/wormhole-d5160c.jpg
 score: 7.95
-dealPrice: "$79.00"
-originalPrice: "$149.00"
-discount: "47% OFF"
 draft: false
+converted: true
 ---
-**TL;DR:** WORMHOLE is currently 47% off at Plugin Boutique — dropping from ~~$149.00~~ to **$79.00**, a $70 saving on a creative multi-effect plugin built for spatial and experimental sound design. [→ Get WORMHOLE at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/2709-WORMHOLE-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wormhole-d5160c)
+**WORMHOLE** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/2709-WORMHOLE-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wormhole-d5160c)
 
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EVIdSXiVdDQ" title="47% Off WORMHOLE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EVIdSXiVdDQ" title="WORMHOLE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is WORMHOLE?
@@ -44,17 +42,9 @@ WORMHOLE is a multi-effect plugin available at Plugin Boutique, categorized unde
 
 ---
 
-## Pricing & Deal Details
+ At $149.00,  If you've been watching this plugin, this is the window to act.
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$149.00~~ | $79.00 | $70 (47%) |
-
-A 47% discount is a meaningful cut for a plugin in this price tier. At $149.00, WORMHOLE sits in a bracket where buyers typically expect either a flagship reverb or a well-established effects suite — so a near-half-price deal shifts the risk calculation considerably. If you've been watching this plugin, this is the window to act.
-
-*Price verified at publication. Check the link for current availability.*
-
-[→ Get WORMHOLE at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/2709-WORMHOLE-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wormhole-d5160c)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/2709-WORMHOLE-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wormhole-d5160c)
 
 ---
 
@@ -73,7 +63,7 @@ If spatial reverb alone is the target and budget is the constraint, Valhalla Sup
 ## FAQ
 
 **Q: Where is WORMHOLE available at this discounted price?**
-A: The 47% deal is live at Plugin Boutique, priced at $79.00 (down from $149.00).
+00).
 
 **Q: What plugin formats does WORMHOLE support?**
 A: WORMHOLE is available in VST, AU, and AAX formats, covering most major DAWs on both Mac and Windows.
@@ -86,11 +76,11 @@ A: Plugin Boutique deals are promotional and subject to end without notice — t
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 At $79.00 with $70 off the regular price, this is one of the steeper discounts available on a creative multi-effect plugin in this category. Producers building ambient, electronic, or experimental productions get the most direct value here.
 
-[→ Get WORMHOLE at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/2709-WORMHOLE-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wormhole-d5160c)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/2709-WORMHOLE-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wormhole-d5160c)
 
 ---
 

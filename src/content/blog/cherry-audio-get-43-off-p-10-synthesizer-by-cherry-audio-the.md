@@ -1,18 +1,15 @@
 ---
-title: "Cherry Audio — Get 43% off P-10 Synthesizer by Cherry Audio"
-description: "Cherry Audio's P-10 Synthesizer is currently 43% off at Plugin Boutique — a solid window to pick up a polyphonic powerhouse at a significantly reduced..."
-pubDate: "2026-04-20T23:23:31Z"
-tags: ["sale", "cherry audio", "synth", "music-production"]
+title: "P-10 Synthesizer: Features, Pricing & Is It Worth It? (2026)"
+description: "The P-10 is a software synthesizer from Cherry Audio, a developer known for faithful and affordable recreations of. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-20T23:23:31Z'
+tags: ["review", "cherry audio", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the"
-heroImage: "/images/cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the.jpg"
+heroImage: /images/cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the.jpg
 score: 5.83
-dealPrice: "$42.9"
-originalPrice: "~~$75.9~~"
-discount: "43% OFF"
-saleExpiry: "2026-04-30"
-draft: true
+draft: false
+converted: true
 ---
-**TL;DR:** Cherry Audio's P-10 Synthesizer is currently 43% off at Plugin Boutique — a solid window to pick up a polyphonic powerhouse at a significantly reduced price. Check the current sale price (~~full MSRP~~) and grab it at [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the) before it expires.
+**P-10 Synthesizer** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the)
 
 ---
 
@@ -46,21 +43,14 @@ Cherry Audio has developed a loyal following on forums like [KVR Audio](https://
 ## Who Is It For?
 
 - **Synthwave and retrowave producers** — The vintage polyphonic character is a natural fit for genres that lean on classic '80s synth textures.
-- **Bedroom producers on a budget** — Cherry Audio's pricing philosophy means you get a feature-complete instrument without boutique plugin pricing, especially at 43% off.
 - **Sound designers exploring analog emulation** — The modulation architecture gives enough depth to move well beyond preset browsing.
 - **DAW composers needing versatile pads and keys** — The polyphonic engine covers a wide range of orchestral-adjacent and atmospheric roles within a production template.
 
 ---
 
-## Pricing & Deal Details
+Cherry Audio doesn't run steep discounts constantly — when they do appear, they're worth noting.  Verify the exact current and sale prices on the product page, as deals can change without notice.
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~Full MSRP~~ | 43% off (check product page for exact figures) | 43% |
-
-Cherry Audio doesn't run steep discounts constantly — when they do appear, they're worth noting. A 43% reduction is meaningful for any Cherry Audio title. Verify the exact current and sale prices on the product page, as deals can change without notice.
-
-**[Get the P-10 at 43% off → Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the)**
+**[pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the)**
 
 ---
 
@@ -92,11 +82,11 @@ A: Check the official Cherry Audio or Plugin Boutique product page for current M
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 43% off is a legitimate reason to stop sitting on the fence with this one. Head to Plugin Boutique and lock in the discount while it's live.
 
-**[Grab the Cherry Audio P-10 at 43% Off → Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the)**
+**[pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the)**
 
 ---
 

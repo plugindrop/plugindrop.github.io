@@ -1,18 +1,15 @@
 ---
-title: "42% Off The Orb"
-description: "The Orb is currently 42% off at Plugin Boutique — drop from ~~$49.00~~ to **$28.42**. That's a solid discount on a creative filter plugin that doesn't..."
-pubDate: "2026-04-23T23:42:54Z"
-tags: ["sale", "vst-plugin", "effects", "music-production"]
+title: "The Orb: Features, Pricing & Is It Worth It? (2026)"
+description: "The Orb is a creative filter effect plugin sold through Plugin Boutique. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T23:42:54Z'
+tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a"
-heroImage: "/images/the-orb-6ba89a.jpg"
+heroImage: /images/the-orb-6ba89a.jpg
 score: 6.65
-dealPrice: "$28.42"
-originalPrice: "$49.00"
-discount: "42% OFF"
-xText: "the orb just dropped 42% off on launch week. that's new plugin pricing you actually don't sleep on. production cheaper today"
 draft: false
+converted: true
 ---
-**TL;DR:** The Orb is currently 42% off at Plugin Boutique — drop from ~~$49.00~~ to **$28.42**. That's a solid discount on a creative filter plugin that doesn't come on sale every week. [Grab The Orb at $28.42 here.](https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a)
+**The Orb** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a)
 
 ---
 
@@ -46,13 +43,7 @@ The Orb is a creative filter effect plugin sold through Plugin Boutique. It sits
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$49.00~~ | **$28.42** | ~$20.58 (42%) |
-
-A 42% discount is a meaningful cut. Plugin Boutique does run periodic sales, but this level of discount on individual plugins is worth paying attention to — it's not a guaranteed recurring event. If The Orb has been on your radar, now is a more informed time to act than waiting for an unknown future sale.
+ Plugin Boutique does run periodic sales, but this level of discount on individual plugins is worth paying attention to — it's not a guaranteed recurring event. If The Orb has been on your radar, now is a more informed time to act than waiting for an unknown future sale.
 
 Note: Verify current pricing on the product page — deals can change without notice.
 
@@ -88,9 +79,9 @@ A: Minimum OS and CPU specs are listed on the official product page; check there
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-42% off brings The Orb from ~~$49.00~~ down to **$28.42** — a straightforward saving on a creative filter plugin with no bundle strings attached. [Get The Orb at $28.42 on Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a)
+42% off brings The Orb from ~~$49.00~~ down to **$28.42** — a straightforward saving on a creative filter plugin with no bundle strings attached. [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a)
 
 ---
 

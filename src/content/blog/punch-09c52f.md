@@ -1,18 +1,15 @@
 ---
-title: "34% Off PUNCH"
-description: "PUNCH is currently 34% off at Plugin Boutique — dropping from ~~$149.00~~ to **$99.00**, saving you $50 on a dedicated transient shaper plugin. If you've..."
-pubDate: "2026-04-23T18:28:09Z"
-tags: ["sale", "vst-plugin", "effects", "music-production"]
+title: "PUNCH: Features, Pricing & Is It Worth It? (2026)"
+description: "PUNCH is a transient shaper plugin available on Plugin Boutique, designed to give producers and mixing engineers. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T18:28:09Z'
+tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14224-PUNCH?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=punch-09c52f"
-heroImage: "/images/punch-09c52f.jpg"
+heroImage: /images/punch-09c52f.jpg
 score: 8.32
-dealPrice: "$99.00"
-originalPrice: "$149.00"
-discount: "34% OFF"
-xText: "34% off punch now, back to full price soon. new plugin, launch discount is the window to grab it. community's already talking about this one"
 draft: false
+converted: true
 ---
-**TL;DR:** PUNCH is currently 34% off at Plugin Boutique — dropping from ~~$149.00~~ to **$99.00**, saving you $50 on a dedicated transient shaper plugin. If you've been watching this one, now's the time to act: [grab PUNCH at $99 here](https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14224-PUNCH?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=punch-09c52f).
+**PUNCH** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14224-PUNCH?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=punch-09c52f)
 
 ---
 
@@ -44,17 +41,9 @@ Check the [official product page](https://www.pluginboutique.com/product/2-Effec
 
 ---
 
-## Pricing & Deal Details
+ Many specialized effects plugins in the $100–$150 range don't see frequent discounts, so if PUNCH is on your radar, it's worth comparing this price against what you've seen before. Deals like this on Plugin Boutique can expire without warning.
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$149.00~~ | **$99.00** | $50.00 (34%) |
-
-A 34% discount on a plugin in this category is meaningful. Many specialized effects plugins in the $100–$150 range don't see frequent discounts, so if PUNCH is on your radar, it's worth comparing this price against what you've seen before. Deals like this on Plugin Boutique can expire without warning.
-
-> Verify current pricing on the product page — deals can change.
-
-**[Get PUNCH for $99 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14224-PUNCH?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=punch-09c52f)**
+**[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14224-PUNCH?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=punch-09c52f)**
 
 ---
 
@@ -66,7 +55,7 @@ A 34% discount on a plugin in this category is meaningful. Many specialized effe
 | Waves Smack Attack | Check current pricing | Part of Waves ecosystem; often available at steep sale prices |
 | Tokyo Dawn Labs Transienter | Free / PWYW | Free option with basic attack/sustain control |
 
-If you're just getting started with transient shaping and want to test the concept first, Tokyo Dawn Labs' free offering covers the basics. If you're already invested in a specific plugin ecosystem (Waves, NI), check whether a transient shaper is already bundled in what you own. PUNCH at $99 makes sense when you want a dedicated, standalone tool at a confirmed discount.
+If you're just getting started with transient shaping and want to test the concept first, Tokyo Dawn Labs' free offering covers the basics. If you're already invested in a specific plugin ecosystem (Waves, NI), check whether a transient shaper is already bundled in what you own. 
 
 ---
 
@@ -86,7 +75,7 @@ A: Check the product listing on Plugin Boutique — some plugins offer a time-li
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 $50 off a dedicated transient shaper is a straightforward win for any producer's toolkit. The deal is live now at Plugin Boutique — don't leave it sitting in a browser tab.
 

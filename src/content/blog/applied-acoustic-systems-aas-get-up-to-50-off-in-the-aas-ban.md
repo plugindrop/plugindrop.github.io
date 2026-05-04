@@ -1,19 +1,18 @@
 ---
-title: '[Applied Acoustic Systems (AAS)] Get up to 50% off in the AAS Band Month Sale.
-  Expiry: April 20th [Affiliate Link]'
-description: Applied Acoustics Systems is running its Band Month Sale with up to 50%
-  off instruments, effects, bundles, and sound packs. That means flagship physical...
+title: "AAS Band Month Sale. Expiry: April 20th [Affiliate Link]: Features, Pricing & Is It Worth It? (2026)"
+description: "Applied Acoustics Systems is a Canadian developer that has been a leading name in physical modeling synthesis for. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-04T13:06:29Z'
-tags: ["sale", "applied acoustic systems aas", "music-production"]
-affiliate: https://www.pluginboutique.com/deals/22636?utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban&a_aid=69cb95abe1763
+tags: ["review", "applied acoustic systems aas", "music-production"]
+affiliate: "https://www.pluginboutique.com/deals/22636?utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban&a_aid=69cb95abe1763"
 heroImage: /images/applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban.webp
-saleExpiry: '2026-04-20'
-aiImage: true
-discount: "50% OFF"
-draft: true
 score: 3.5
+aiImage: true
+draft: false
+converted: true
 ---
-**TL;DR:** Applied Acoustics Systems is running its Band Month Sale with up to 50% off instruments, effects, bundles, and sound packs. That means flagship physical modeling synths normally ~~$199~~ could drop to around $99, and The Integral bundle (~~$899~~) to roughly $449. Sale runs through April 20th — [grab the deal at Plugin Boutique](https://www.pluginboutique.com/deals/22636?utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban&a_aid=69cb95abe1763).
+**AAS Band Month Sale. Expiry: April 20th [Affiliate Link]** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/deals/22636?utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban&a_aid=69cb95abe1763)
+
+---
 
 ## What Is Applied Acoustics Systems (AAS)?
 
@@ -60,9 +59,7 @@ AAS has built a loyal following in the physical modeling space over the years. O
 - **Songwriters and beat makers** — Strum GS-2 lets producers lay down convincing guitar tracks without picking up a real guitar.
 - **Producers looking to go light on disk space** — Physical modeling plugins have tiny footprints compared to multi-gigabyte sample libraries.
 
-## Pricing & Deal Details
-
-AAS runs sales a few times per year (typically summer and Black Friday at 50–60% off), so Band Month pricing at up to 50% off is in line with their best deals. Here's what the discounts look like on key products:
+ Here's what the discounts look like on key products:
 
 | Product | Regular Price | ~50% Off Price | You Save |
 |---|---|---|---|
@@ -102,9 +99,9 @@ A: Check the official [AAS website](https://www.applied-acoustics.com/) for curr
 **Q: Can I upgrade from Session versions to the full Professional versions?**
 A: Yes, AAS offers upgrade pricing from Session instruments to their full Professional counterparts. Check the product page for current upgrade pricing during the sale.
 
-## Get the Deal
+## Where to Buy
 
-Up to 50% off the entire AAS physical modeling lineup — and the sale wraps on April 20th. Whether you're after a single instrument or the full Integral bundle, this is one of the better price points AAS hits during the year. [Pick up the AAS Band Month Sale at Plugin Boutique](https://www.pluginboutique.com/deals/22636?utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban&a_aid=69cb95abe1763).
+ Whether you're after a single instrument or the full Integral bundle, this is one of the better price points AAS hits during the year. [Pick up the AAS Band Month Sale at Plugin Boutique](https://www.pluginboutique.com/deals/22636?utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban&a_aid=69cb95abe1763).
 
 ---
 

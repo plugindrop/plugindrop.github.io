@@ -1,18 +1,15 @@
 ---
-title: "50% Off Bus Clipper"
-description: "Bus Clipper is currently 50% off at Plugin Boutique — drop from ~~$99.00~~ to **$49.50**. That's a solid half-price entry point for a dedicated bus..."
-pubDate: "2026-04-23T05:27:52Z"
-tags: ["sale", "vst-plugin", "effects", "music-production"]
+title: "Bus Clipper: Features, Pricing & Is It Worth It? (2026)"
+description: "Bus Clipper is a dynamics processor plug-in built specifically for hard clipping applications on mix buses, stem. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T05:27:52Z'
+tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17137-Bus-Clipper?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bus-clipper-837a04"
-heroImage: "/images/bus-clipper-837a04.jpg"
+heroImage: /images/bus-clipper-837a04.jpg
 score: 7.55
-dealPrice: "$19.80"
-originalPrice: "$99.00"
-discount: "50% OFF"
-xText: "50% off bus clipper — lowest i've ever seen it drop. good bus clipper is the difference between 'sounds loud' and 'actually professional.' this sits in a mix like butter."
 draft: false
+converted: true
 ---
-**TL;DR:** Bus Clipper is currently 50% off at Plugin Boutique — drop from ~~$99.00~~ to **$49.50**. That's a solid half-price entry point for a dedicated bus clipping tool. [Grab the deal here.](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17137-Bus-Clipper?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bus-clipper-837a04)
+**Bus Clipper** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17137-Bus-Clipper?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bus-clipper-837a04)
 
 ---
 
@@ -42,15 +39,7 @@ Bus Clipper is a dynamics processor plug-in built specifically for hard clipping
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$99.00~~ | **$49.50** | $49.50 (50%) |
-
-A 50% discount is a meaningful cut for a single-purpose dynamics tool. Dedicated clippers at this price point are competitive with alternatives from established brands. The deal is active on Plugin Boutique — but these promotions have end dates, so verify availability before you wait too long.
-
-> Verify current pricing on the product page — deals can change.
+ Dedicated clippers at this price point are competitive with alternatives from established brands. The deal is active on Plugin Boutique — but these promotions have end dates, so verify availability before you wait too long.
 
 [Check the current price and grab Bus Clipper at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17137-Bus-Clipper?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bus-clipper-837a04)
 
@@ -77,16 +66,16 @@ A: Check the official product page on Plugin Boutique for current activation req
 A: Format availability is listed on the product page — confirm your DAW and OS compatibility there before purchasing.
 
 **Q: Is this deal available outside the Plugin Boutique store?**
-A: This specific 50% off pricing is through Plugin Boutique. Other retailers may have different pricing.
+A: Other retailers may have different pricing.
 
 **Q: What are the system requirements?**
 A: Check the official product page for current macOS/Windows version requirements and minimum CPU specs.
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-Half price on a dedicated bus clipper is the kind of deal worth acting on — especially if peak control on your mix bus is currently handled by a workaround rather than a purpose-built tool. [Get Bus Clipper for $49.50 at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17137-Bus-Clipper?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bus-clipper-837a04)
+Half price on a dedicated bus clipper is the kind of deal worth acting on — especially if peak control on your mix bus is currently handled by a workaround rather than a purpose-built tool. [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17137-Bus-Clipper?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bus-clipper-837a04)
 
 ---
 

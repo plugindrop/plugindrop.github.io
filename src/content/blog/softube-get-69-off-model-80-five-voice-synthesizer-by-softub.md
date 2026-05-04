@@ -1,18 +1,15 @@
 ---
-title: "Softube — Get 69% off Model 80 Five Voice Synthesizer by Softube"
-description: "Softube's Model 80 Five Voice Synthesizer is currently **69% off** at Plugin Boutique — a rare deep discount on a classic-inspired analog synth. Check the..."
-pubDate: "2026-04-18T13:40:30Z"
-tags: ["sale", "softube", "music-production", "synth"]
+title: "Model 80 Five Voice Synthesizer: Features, Pricing & Is It Worth It? (2026)"
+description: "Model 80 is a polyphonic synthesizer plugin developed by Softube, a Swedish company known for high-fidelity analog. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-18T13:40:30Z'
+tags: ["review", "softube", "music-production", "synth"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763"
-heroImage: "/images/softube-get-69-off-model-80-five-voice-synthesizer-by-softub.jpg"
-dealPrice: "$49.00"
-originalPrice: "$159.00"
-discount: "69% OFF"
+heroImage: /images/softube-get-69-off-model-80-five-voice-synthesizer-by-softub.jpg
 score: 8.16
-saleExpiry: "2026-04-30"
-draft: true
+draft: false
+converted: true
 ---
-**TL;DR:** Softube's Model 80 Five Voice Synthesizer is **69% off** at Plugin Boutique — ~~$159.00~~ **$49.00** until Apr 30. A rare deep discount on a classic-inspired five-voice polyphonic synth. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763)
+**Model 80 Five Voice Synthesizer** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763)
 
 ---
 
@@ -47,19 +44,11 @@ Model 80 occupies a somewhat niche space in discussions around analog poly emula
 - **Vintage Synth Enthusiasts** — Designed for producers who want the texture of classic analog polysynths without hardware costs.
 - **Electronic and Ambient Producers** — Five-voice polyphony suits lush pad and chord work common in ambient, synthwave, and cinematic genres.
 - **Softube Ecosystem Users** — Particularly relevant for producers already invested in Softube's Console 1 workflow or plugin suite.
-- **Plugin Collectors on a Budget** — At 69% off, this is an entry point into professional analog modeling at a fraction of the regular ask.
-
 ---
-
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~Full price~~ | ~69% off (verify at checkout) | ~69% |
 
 > **Note:** Verify current pricing on the [Plugin Boutique product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763) — deals can change and exact figures should be confirmed before purchase.
 
-Softube doesn't run deep discounts constantly. When they do surface on Plugin Boutique, 69% off is on the higher end of their typical sale depth — worth acting on if Model 80 has been on your radar.
+Softube doesn't run deep discounts constantly. 
 
 ---
 
@@ -91,9 +80,9 @@ A: System requirements vary by version and platform — check the official produ
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-69% off a professional analog poly synth from one of Sweden's most respected plugin developers. This is the kind of deal depth that doesn't show up often — [lock it in at Plugin Boutique before it expires.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763)
+69% off a professional analog poly synth from one of Sweden's most respected plugin developers. This is the kind of deal depth that doesn't show up often — [lock it in at Plugin Boutique .](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763)
 
 ---
 

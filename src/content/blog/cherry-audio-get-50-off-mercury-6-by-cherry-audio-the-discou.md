@@ -1,18 +1,15 @@
 ---
-title: "Cherry Audio — Get 50% off Mercury-6 by Cherry Audio"
-description: "Cherry Audio's Mercury-6 Jupiter-6 emulation is currently 50% off at Plugin Boutique — a solid window to pick up a well-regarded vintage poly synth plugin..."
-pubDate: "2026-04-20T23:58:06Z"
-tags: ["sale", "cherry audio", "music-production"]
+title: "Mercury-6: Features, Pricing & Is It Worth It? (2026)"
+description: "The Mercury-6 is Cherry Audio's software emulation of the Roland Jupiter-6, a classic analog polysynth from the early. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-20T23:58:06Z'
+tags: ["review", "cherry audio", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou"
-heroImage: "/images/cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou.jpg"
+heroImage: /images/cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou.jpg
 score: 5.06
-dealPrice: "$31.9"
-originalPrice: "~~$64.9~~"
-discount: "51% OFF"
-saleExpiry: "2026-04-30"
-draft: true
+draft: false
+converted: true
 ---
-**TL;DR:** Cherry Audio's Mercury-6 Jupiter-6 emulation is currently 50% off at Plugin Boutique — a solid window to pick up a well-regarded vintage poly synth plugin at half price. Check the exact sale and ~~full price~~ discounted price on the [Plugin Boutique product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou) — deals like this don't stick around indefinitely.
+**Mercury-6** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou)
 
 ---
 
@@ -52,15 +49,9 @@ The Mercury-6 has built a positive reputation in plugin deal communities since i
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~Full price~~ | 50% off | Half the regular cost |
-
 > **Note:** Cherry Audio and Plugin Boutique don't publish a universal MSRP in every region — verify the exact current and sale prices on the product page, as currency and regional pricing vary. Deals can also end without notice.
 
-Cherry Audio runs periodic sales, but 50% off is on the deeper end of their typical discount range — worth acting on if the Jupiter-6 sound is something you've been considering. [Check the current deal price at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou)
+ [Check the current deal price at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou)
 
 ---
 
@@ -85,16 +76,16 @@ A: Cherry Audio products typically use their own license system without requirin
 A: Check the Plugin Boutique product page for the confirmed list of supported formats (VST, VST3, AU, AAX) and compatible operating systems.
 
 **Q: Is this deal available outside the Plugin Boutique store?**
-A: This specific 50% off deal is listed at Plugin Boutique. Pricing at other retailers may differ.
+A: Pricing at other retailers may differ.
 
 **Q: What's the refund policy if the plugin doesn't work on my system?**
 A: Refund and compatibility policies vary — check Plugin Boutique's terms and Cherry Audio's support page directly before purchasing.
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-50% off the Mercury-6 is a meaningful discount on one of the more faithful Jupiter-6 emulations available at this price tier. [Grab the Mercury-6 at 50% off on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou) before the sale ends.
+50% off the Mercury-6 is a meaningful discount on one of the more faithful Jupiter-6 emulations available at this price tier. [pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou) before the sale ends.
 
 ---
 

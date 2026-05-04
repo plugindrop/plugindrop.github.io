@@ -1,17 +1,15 @@
 ---
-title: "TH-U Rob Balducci — Overloud Mid-Season Sale 50% Off"
-description: "The TH-U Rob Balducci signature rig from Overloud is on sale for €49 (reg. €99) — 50% off a professionally captured artist guitar rig for TH-U."
-pubDate: "2026-04-22T08:39:13Z"
-tags: ["vst-plugin", "music-production"]
+title: "TH-U Rob Balducci — Overloud Mid-Season Sale 50% Off: Features, Pricing & Is It Worth It? (2026)"
+description: "TH-U Rob Balducci is an artist signature expansion for Overloud's TH-U guitar amp simulation platform. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-22T08:39:13Z'
+tags: ["review", "vst-plugin", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?search_query=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643"
-heroImage: "/images/th-u-rob-balducci-2a0643.jpg"
+heroImage: /images/th-u-rob-balducci-2a0643.jpg
 score: 3.35
-dealPrice: "€49"
-originalPrice: "€99"
-discount: "51% OFF"
 draft: false
+converted: true
 ---
-**TL;DR:** The TH-U Rob Balducci signature rig from Overloud is on sale for **€49** (reg. €99) as part of their mid-season sale — 50% off a professionally captured artist guitar rig for TH-U. If you produce rock or fusion-influenced tracks, [check it out at Overloud](https://www.pluginboutique.com/search?search_query=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643).
+**TH-U Rob Balducci — Overloud Mid-Season Sale 50% Off** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?search_query=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643)
 
 ---
 
@@ -42,13 +40,7 @@ Note: TH-U (the base plugin) is required to run this expansion. Check the produc
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~€99~~ | **€49** | €50 (50% off) |
-
-Part of Overloud's mid-season sale offering up to 60% off TH-U plug-ins and libraries. Additional options starting from €29.
+ Additional options starting from €29.
 
 Verify current pricing on the product page — deals can change.
 
@@ -64,7 +56,7 @@ Verify current pricing on the product page — deals can change.
 | Line 6 Helix Native | Check site | Broad amp/effects modeling platform, not artist-signature focused |
 | Other Overloud TH-U Artist Rigs | Varies | Same platform, different artist tones — mix and match |
 
-If you want a standalone artist plugin that doesn't require a host platform, Neural DSP's Archetype series handles that workflow. If you already own TH-U and want to expand your tone palette with a specific artist's rig at 50% off, this Rob Balducci expansion fits directly into that ecosystem without friction.
+If you want a standalone artist plugin that doesn't require a host platform, Neural DSP's Archetype series handles that workflow. 
 
 ---
 
@@ -84,7 +76,7 @@ A: Rob Balducci is a guitarist known for his work in the melodic rock and instru
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 [Grab the TH-U Rob Balducci expansion at Overloud](https://www.pluginboutique.com/search?search_query=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643) for €49 during the mid-season sale and add it to your TH-U library.
 

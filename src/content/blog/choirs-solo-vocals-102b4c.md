@@ -1,18 +1,15 @@
 ---
-title: "8Dio Pick Any 3 Choirs — $69 Deal"
-description: "8Dio's choir sale: pick any 3 from 6 cinematic choir libraries for just $69. Lacrimosa, Insolidus, Aetheria, Silka, Requiem Pro, and Liberis — all eligible."
-pubDate: "2026-04-22T23:26:55Z"
-tags: ["vst-plugin", "music-production", "kontakt", "choir"]
+title: "8Dio Pick Any 3 Choirs — $69 Deal: Features, Pricing & Is It Worth It? (2026)"
+description: "Everything you need to know about 8Dio Pick Any 3 Choirs — $69 Deal: key features, current pricing, and whether it's worth buying. Updated 2026."
+pubDate: '2026-04-22T23:26:55Z'
+tags: ["review", "vst-plugin", "music-production", "kontakt", "choir"]
 affiliate: "https://www.pluginboutique.com/search?search_query=choirs+solo+vocals&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c"
-heroImage: "/images/choirs-solo-vocals-102b4c.jpg"
+heroImage: /images/choirs-solo-vocals-102b4c.jpg
 score: 4.50
-xText: "8Dio running a pick-any-3-choirs deal at $69. lacrimosa insolidus aetheria silka requiem liberis — all eligible. serious value if you do cinematic stuff"
-dealPrice: "$69"
-originalPrice: "$297"
-discount: "Pick Any 3"
 draft: false
+converted: true
 ---
-**TL;DR:** 8Dio is running a limited-time deal — pick any 3 choir libraries from their full lineup for **$69 total**. Individual titles normally run $79–$149 each. [Browse the deal on 8Dio →](https://www.pluginboutique.com/search?search_query=choirs+solo+vocals&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c)
+**8Dio Pick Any 3 Choirs — $69 Deal** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?search_query=choirs+solo+vocals&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c)
 
 ---
 
@@ -21,10 +18,6 @@ draft: false
 </div>
 
 ---
-
-## The Deal
-
-8Dio is offering a **"Pick Any 3 Choirs" bundle for $69**. All six choir libraries in their catalog are eligible — choose any combination that fits your workflow.
 
 | Library | Regular Price | Style |
 |---|---|---|

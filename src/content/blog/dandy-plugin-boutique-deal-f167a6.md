@@ -1,18 +1,15 @@
 ---
-title: "92% Off DANDY Virtual Instrument at Plugin Boutique"
-description: DANDY is currently on sale at Plugin Boutique — grab it at the deal price
-  before it reverts. Check the product page for the exact discount, but the...
+title: "DANDY Virtual Instrument: Features, Pricing & Is It Worth It? (2026)"
+description: "DANDY is a virtual instrument available through Plugin Boutique, sitting in the Virtual Instruments category. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-14T10:02:50Z'
-tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY?utm_source=plugindrop&utm_medium=article&utm_campaign=dandy-plugin-boutique-deal-f167a6&a_aid=69cb95abe1763
+tags: ["review", "vst-plugin", "effects", "music-production"]
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY?utm_source=plugindrop&utm_medium=article&utm_campaign=dandy-plugin-boutique-deal-f167a6&a_aid=69cb95abe1763"
 heroImage: /images/dandy-plugin-boutique-deal-f167a6.jpg
-dealPrice: "$19.80"
-originalPrice: "$119.00"
-discount: "92% OFF"
-draft: true
 score: 6.84
+draft: false
+converted: true
 ---
-**TL;DR:** DANDY is currently on sale at Plugin Boutique — grab it at the deal price before it reverts. Check the product page for the exact discount, but the savings are worth a look. [Snag the deal here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY?utm_source=plugindrop&utm_medium=article&utm_campaign=dandy-plugin-boutique-deal-f167a6&a_aid=69cb95abe1763)
+**DANDY Virtual Instrument** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY?utm_source=plugindrop&utm_medium=article&utm_campaign=dandy-plugin-boutique-deal-f167a6&a_aid=69cb95abe1763)
 
 ---
 
@@ -53,13 +50,7 @@ DANDY is a relatively niche listing on Plugin Boutique, so broad community cover
 
 ---
 
-## Pricing & Deal Details
-
 Exact pricing shifts with active promotions. Verify current numbers on the product page — deals can change without notice.
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$19.80~~ | $19.80 | $19.80 |
 
 Plugin Boutique runs platform-wide sales and developer-specific promos throughout the year. If you're seeing a reduced price now, it's worth acting — these windows don't always repeat on a predictable schedule.
 
@@ -95,7 +86,7 @@ A: Plugin Boutique's refund policy applies — review it on their site before pu
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 Sales on Plugin Boutique don't linger — if the price is right, now is the time. [Check the current deal price for DANDY on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY?utm_source=plugindrop&utm_medium=article&utm_campaign=dandy-plugin-boutique-deal-f167a6&a_aid=69cb95abe1763) and lock it in before the window closes.
 

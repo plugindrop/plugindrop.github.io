@@ -1,24 +1,17 @@
 ---
-title: UVI — UVI is offering 66% off on Key Suite virtual instrument collection for
-  Falcon and UVI Workstation
-description: UVI is running a steep **66% off** sale on Key Suite — their comprehensive
-  keyboard instrument collection for Falcon and UVI Workstation. If you've been...
+title: "UVI — UVI is offering 66% off on Key Suite virtual instrument collection for Fal: Features, Pricing & Is It Worth It? (2026)"
+description: "Key Suite is a virtual instrument collection from UVI — the French developer known for deep-sampled instruments and. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-17T09:23:35Z'
-tags: ["sale", "uvi", "music-production", "bundle"]
+tags: ["review", "uvi", "music-production", "bundle"]
 affiliate: "https://www.pluginboutique.com/search?search_query=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c"
 heroImage: /images/uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c.png
-saleExpiry: '2026-04-20'
-discount: "66% OFF"
-draft: true
 score: 4.25
-dealPrice: "$99"
-originalPrice: "$299"
+draft: false
+converted: true
 ---
-**TL;DR:** UVI is running a steep **66% off** sale on Key Suite — their comprehensive keyboard instrument collection for Falcon and UVI Workstation. If you've been eyeing UVI's keyboard sounds, this is a rare discount worth acting on. Grab the deal directly at [uvi.net/key-suite](https://www.pluginboutique.com/search?search_query=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c).
+**UVI — UVI is offering 66% off on Key Suite virtual instrument collection for Fal** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?search_query=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)
 
 ---
-
-## UVI Key Suite: 66% Off This Virtual Keyboard Collection
 
 ## What Is Key Suite?
 
@@ -53,17 +46,9 @@ Key Suite has been a recurring recommendation in keyboard-focused instrument dis
 
 ---
 
-## Pricing & Deal Details
+ UVI doesn't run deep discounts constantly — when they do, it's worth paying attention. This deal is available exclusively through UVI's own store.
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~Full price~~ | 66% off | Check product page |
-
-> Verify current pricing on the product page — deals can change and exact figures aren't always stable.
-
-A 66% discount from UVI is significant. UVI doesn't run deep discounts constantly — when they do, it's worth paying attention. This deal is available exclusively through UVI's own store.
-
-**[Get 66% Off Key Suite at UVI →](https://www.pluginboutique.com/search?search_query=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)**
+**[pluginboutique.com/search?search_query=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)**
 
 ---
 
@@ -95,11 +80,11 @@ A: Head directly to the product page — the current discount is reflected there
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 66% off a full keyboard collection from a respected developer doesn't come around every week. If you're building out your sound library, this is a strong window to add serious keys coverage at a fraction of the regular price.
 
-**[Claim the 66% Off Deal at UVI →](https://www.pluginboutique.com/search?search_query=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)**
+**[Check current price at Plugin Boutique](https://www.pluginboutique.com/search?search_query=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)**
 
 ---
 

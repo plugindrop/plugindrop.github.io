@@ -1,17 +1,15 @@
 ---
-title: "Audiority Boutique Week Sale: Save 50% on effect plugins"
-description: "Plugin Boutique's Boutique Week sale takes 50% off Audiority's effect plugin lineup — including delay, reverb, distortion, and compression tools. If..."
-pubDate: "2026-04-20T07:44:34Z"
-tags: ["audiority", "sale", "music-production"]
+title: "Space Station Um282: Features, Pricing & Is It Worth It? (2026)"
+description: "Audiority is an Italian plugin developer known for meticulously modeled boutique-style effects — the kind of. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-20T07:44:34Z'
+tags: ["review", "audiority", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/10-Delay/8565-Space-Station-UM282?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1"
+heroImage: /images/audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1.jpg
 score: 9.08
-dealPrice: "$34.50"
-originalPrice: "$69.00"
-discount: "50% OFF"
-heroImage: "/images/audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1.jpg"
-
+draft: false
+converted: true
 ---
-**TL;DR:** Plugin Boutique's Boutique Week sale takes 50% off Audiority's effect plugin lineup — including delay, reverb, distortion, and compression tools. If you've been eyeing Audiority's boutique-style processors, this is a rare chance to grab them at half price. [Check current prices and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/10-Delay/8565-Space-Station-UM282?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1)
+**Space Station Um282** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/10-Delay/8565-Space-Station-UM282?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1)
 
 ---
 
@@ -23,7 +21,7 @@ heroImage: "/images/audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd
 
 Audiority is an Italian plugin developer known for meticulously modeled boutique-style effects — the kind of processors that aim to capture the character of rare, vintage hardware rather than generic DSP. Their catalog spans delay, reverb, distortion, and dynamics processing.
 
-The Boutique Week sale on Plugin Boutique puts 50% off a selection of Audiority titles. The headline product in this promotion is the **Space Station UM282**, a delay-based effect plugin modeled on vintage hardware circuitry — positioned in the creative, color-forward end of the delay market. The broader sale also covers other Audiority effect categories including compressors, reverbs, and saturation/distortion tools.
+ The headline product in this promotion is the **Space Station UM282**, a delay-based effect plugin modeled on vintage hardware circuitry — positioned in the creative, color-forward end of the delay market. The broader sale also covers other Audiority effect categories including compressors, reverbs, and saturation/distortion tools.
 
 Audiority doesn't run deep discounts constantly, which makes a 50% event worth paying attention to.
 
@@ -52,21 +50,13 @@ The Space Station UM282 specifically appears in conversations about bucket-briga
 - **Lo-fi and ambient producers** — The vintage delay character fits lo-fi hip hop, ambient, and tape-aesthetic workflows where degraded, colored repeats are the point.
 - **Mixing engineers chasing vintage texture** — Designed for adding spatial depth and harmonic color, not just time-based effect.
 - **Synth and hardware enthusiasts** — Audiority's hardware-modeling philosophy appeals to producers already drawn to circuit-accurate emulations.
-- **Plugin collectors building a boutique toolkit** — At 50% off, this sale is a practical entry point into the Audiority catalog without full-price commitment.
-
 ---
-
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~Full price~~ | 50% off | Half price |
 
 Exact prices vary by title — verify current pricing directly on the product page, as deals can shift during the sale window.
 
 Audiority doesn't run 50% sales frequently; this Boutique Week promotion is a notable discount relative to their usual pricing. If you've been waiting, this is a meaningful window.
 
-[Grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/10-Delay/8565-Space-Station-UM282?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/8565-Space-Station-UM282?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1)
 
 ---
 
@@ -98,7 +88,7 @@ A: The promotion covers a selection of Audiority effect plugins (delay, reverb, 
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 50% off Audiority is a rare discount from a developer that holds its prices firm most of the year. If vintage-modeled delay or any other Audiority effect has been on your list, now is the time to move.
 

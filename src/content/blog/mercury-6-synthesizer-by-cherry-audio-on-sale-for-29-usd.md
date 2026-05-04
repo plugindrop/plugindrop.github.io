@@ -1,17 +1,15 @@
 ---
-title: "Mercury-6 synthesizer by Cherry Audio on sale for $29 USD"
-description: "Cherry Audio's Mercury-6 — a faithful software recreation of the Roland Jupiter-6 — is currently on sale for just **$29** at Plugin Boutique. If you've..."
-pubDate: "2026-04-20T13:18:32Z"
-tags: ["cherry audio", "sale", "synth", "music-production"]
+title: "Mercury-6 synthesizer: Features, Pricing & Is It Worth It? (2026)"
+description: "Cherry Audio's Mercury-6 is a software synthesizer modeled after the Roland Jupiter-6, the six-voice polyphonic. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-20T13:18:32Z'
+tags: ["review", "cherry audio", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd"
+heroImage: /images/mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd.jpg
 score: 9.0
-dealPrice: "$29.00"
-originalPrice: "$59.00"
-discount: "51% OFF"
-heroImage: "/images/mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd.jpg"
-allTimeLow: true
+draft: false
+converted: true
 ---
-**TL;DR:** Cherry Audio's Mercury-6 — a faithful software recreation of the Roland Jupiter-6 — is currently on sale for just **$29** at Plugin Boutique. If you've been eyeing a classic 80s polyphonic synth without the vintage hardware price tag, this is a strong entry point. [Grab it here while the deal lasts.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd)
+**Mercury-6 synthesizer** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd)
 
 ---
 
@@ -51,15 +49,9 @@ Cherry Audio has built a solid following in the VST community, and their emulati
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| Check product page | **$29 USD** | Verify on Plugin Boutique |
-
 Cherry Audio doesn't run deep discounts constantly — this $29 price point represents strong value for a full instrument plugin. Sales at this level are worth acting on when they appear. Always verify current pricing directly, as deals can change without notice.
 
-[Get the Mercury-6 for $29 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd)
 
 ---
 
@@ -71,7 +63,7 @@ Cherry Audio doesn't run deep discounts constantly — this $29 price point repr
 | TAL-U-NO-LX | ~$60 full price | Emulates the Juno-60; simpler single-DCO architecture, different character |
 | Roland Cloud Jupiter-6 | Subscription model | Official Roland emulation; requires Roland Cloud subscription rather than outright purchase |
 
-If you specifically want the Jupiter-6's dual-filter character and are buying outright, the Mercury-6 at $29 is a compelling case. If you need the broader modulation depth of the Jupiter-8 architecture, Arturia's V Collection route covers more ground — at a significantly higher cost.
+ If you need the broader modulation depth of the Jupiter-8 architecture, Arturia's V Collection route covers more ground — at a significantly higher cost.
 
 ---
 
@@ -91,7 +83,7 @@ A: Check the official product page for current macOS/Windows compatibility and m
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 $29 for a full polyphonic vintage synth emulation from a trusted developer is the kind of deal worth bookmarking — or just buying outright. Don't wait on it.
 

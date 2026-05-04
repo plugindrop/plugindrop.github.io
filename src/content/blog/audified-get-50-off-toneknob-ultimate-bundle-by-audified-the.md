@@ -1,20 +1,16 @@
 ---
-title: Audified ToneKnob Ultimate Bundle — 50% Off ($34.50)
-description: Audified's ToneKnob Ultimate Bundle is now **50% off** — down to **$34.50**
-  (reg. ~~$69.00~~) at Plugin Boutique until **April 12th**. If you want a full...
+title: "($34.50): Features, Pricing & Is It Worth It? (2026)"
+description: "The ToneKnob Ultimate Bundle is a collection of tone-shaping effect plugins developed by Audified, a Czech audio. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-02T06:34:24Z'
-tags: ["sale", "audified", "music-production", "bundle"]
-affiliate: https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15324-ToneKnob-Ultimate-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=audified-get-50-off-toneknob-ultimate-bundle-by-audified-the&a_aid=69cb95abe1763
+tags: ["review", "audified", "music-production", "bundle"]
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15324-ToneKnob-Ultimate-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=audified-get-50-off-toneknob-ultimate-bundle-by-audified-the&a_aid=69cb95abe1763"
 heroImage: /images/audified-get-50-off-toneknob-ultimate-bundle-by-audified-the.webp
-dealPrice: "$34.50"
-originalPrice: "$69.00"
-discount: "50% OFF"
-saleExpiry: '2026-04-12'
-aiImage: true
-draft: true
 score: 5.42
+aiImage: true
+draft: false
+converted: true
 ---
-**TL;DR:** Audified's ToneKnob Ultimate Bundle is now **50% off** — down to **$34.50** (reg. ~~$69.00~~) at Plugin Boutique until **April 12th**. If you want a full suite of tone-shaping tools in one shot, [grab it here before it expires](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15324-ToneKnob-Ultimate-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=audified-get-50-off-toneknob-ultimate-bundle-by-audified-the&a_aid=69cb95abe1763).
+**($34.50)** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15324-ToneKnob-Ultimate-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=audified-get-50-off-toneknob-ultimate-bundle-by-audified-the&a_aid=69cb95abe1763)
 
 ---
 
@@ -53,19 +49,11 @@ Audified has a solid reputation in mixing communities for building focused, no-n
 
 ---
 
-## Pricing & Deal Details
+ Audified doesn't run deep discounts constantly, so when they hit 50%, it's worth paying attention. At $34.50 for the full Ultimate Bundle, the per-plugin cost comes out well under $10 depending on how many titles are included — check the product page for the exact plugin count to do your own math.
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$69.00~~ | **$34.50** | $34.50 (50%) |
+****
 
-A 50% discount on a full bundle from a reputable developer is a strong offer. Audified doesn't run deep discounts constantly, so when they hit 50%, it's worth paying attention. At $34.50 for the full Ultimate Bundle, the per-plugin cost comes out well under $10 depending on how many titles are included — check the product page for the exact plugin count to do your own math.
-
-**Deal expires: April 12th.**
-
-> Verify current pricing on the product page — deals can change without notice.
-
-[Claim the 50% discount at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15324-ToneKnob-Ultimate-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=audified-get-50-off-toneknob-ultimate-bundle-by-audified-the&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15324-ToneKnob-Ultimate-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=audified-get-50-off-toneknob-ultimate-bundle-by-audified-the&a_aid=69cb95abe1763)
 
 ---
 
@@ -84,7 +72,7 @@ If you only need an EQ-style tone tool and want to spend nothing, SlickEQ covers
 ## FAQ
 
 **Q: Where can I buy the ToneKnob Ultimate Bundle at this price?**
-A: The 50% deal is available exclusively through Plugin Boutique. The sale ends April 12th.
+A: The 50% deal is available exclusively through Plugin Boutique. 
 
 **Q: Does the ToneKnob Ultimate Bundle require iLok?**
 A: Audified typically does not require iLok for its plugins, but confirm the current activation method on the official product page before purchasing.
@@ -97,11 +85,11 @@ A: Refund policies vary by store and developer. Check Plugin Boutique's terms an
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-Half off a full tone-shaping bundle from a hardware-modeled developer — at $34.50, this is one of the stronger Audified deals this year. The offer runs until **April 12th**, so don't sit on it.
+50,  
 
-[Get the ToneKnob Ultimate Bundle for $34.50 at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15324-ToneKnob-Ultimate-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=audified-get-50-off-toneknob-ultimate-bundle-by-audified-the&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15324-ToneKnob-Ultimate-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=audified-get-50-off-toneknob-ultimate-bundle-by-audified-the&a_aid=69cb95abe1763)
 
 ---
 

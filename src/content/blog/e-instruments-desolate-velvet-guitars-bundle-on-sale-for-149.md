@@ -1,20 +1,17 @@
 ---
-title: e-instruments Desolate & Velvet Guitars Bundle on sale for $149 USD
-description: e-instruments' Desolate & Velvet Guitars Bundle is currently ~~$269~~
-  **$149 USD** — a 44% discount. That's two premium Kontakt guitar libraries for the...
+title: "e-instruments Desolate & Velvet Guitars Bundle: Features, Pricing & Is It Worth It? (2026)"
+description: "The Desolate & Velvet Guitars Bundle combines two cinematic guitar libraries from e-instruments, a developer known. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-02T12:13:39Z'
-tags: ["e-instruments", "guitar", "kontakt", "sale", "music-production", "bundle"]
-affiliate: https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763
+tags: ["review", "e-instruments", "guitar", "kontakt", "music-production", "bundle"]
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763"
 heroImage: /images/e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149.jpg
-dealPrice: "$149"
-originalPrice: "$269"
-discount: "45% OFF"
-saleExpiry: '2026-04-30'
-draft: true
 score: 7.21
+draft: false
+converted: true
 ---
+**e-instruments Desolate & Velvet Guitars Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763)
 
-**TL;DR:** e-instruments' Desolate & Velvet Guitars Bundle is currently ~~$269~~ **$149 USD** — a 44% discount. That's two premium Kontakt guitar libraries for the price of one. Buying them separately would run you $298, so [grab the bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763) before the deal ends April 30, 2026.
+---
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/9o-PNKr6lGU" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -44,29 +41,7 @@ These are relatively niche cinematic guitar libraries, so dedicated community th
 - **Singer-songwriter producers** — Velvet Guitars' mellow, fingerpicked tones and warm semi-hollow sounds suit intimate productions.
 - **Sound designers** — The looped texture patches and extensive FX chains provide a solid starting point for creating evolving sonic landscapes.
 
-## Pricing & Deal Details
-
-| | Regular Price | Deal Price | You Save |
-|---|---|---|---|
-| Bundle | ~~$269~~ | **$149** | $120 (44%) |
-| vs. buying separately | ~~$298~~ ($149 × 2) | **$149** | $149 (50%) |
-
-That breaks down to **$74.50 per library** — half the individual retail price of either product.
-
-e-instruments doesn't run frequent sales on these titles, so this bundle discount is notable. The deal runs until **April 30, 2026**.
-
-> Verify current pricing on the product page — deals can change.
-
-[Pick up the Desolate & Velvet Guitars Bundle at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763)
-
-## Alternatives at a Glance
-
-| Name | Price | Key Difference |
-|---|---|---|
-| Orange Tree Samples Evolution Series | Varies (~$179/library) | Single-guitar deep-sampled libraries with more playing techniques per instrument |
-| Heavyocity Mosaic Guitar | Check product page | Texture-focused with granular engine, less traditional playability |
-| Native Instruments Session Guitarist series | ~$99–$149/library | Pattern-based approach with built-in strumming engine |
-
+| 
 If you need pattern-based rhythm guitar with automatic strumming, the NI Session Guitarist series takes a different approach entirely. If you want granular, heavily processed textures over playable instruments, Heavyocity's offerings lean that direction. The e-instruments bundle stands out for its raw, amp-recorded authenticity across nine guitars at a competitive per-library cost.
 
 ## FAQ
@@ -83,11 +58,11 @@ A: Desolate Guitars is approximately 33 GB. Velvet Guitars is approximately 35 G
 **Q: What is the refund policy?**
 A: Check Plugin Boutique's product page for current return and refund terms.
 
-## Get the Deal
+## Where to Buy
 
-Two premium cinematic guitar libraries, nine guitars, real amps, real reverb — ~~$298~~ **$149**. That's 50% off versus buying them individually, and the deal expires April 30, 2026.
+Two premium cinematic guitar libraries, nine guitars, real amps, real reverb — ~~$298~~ **$149**. 
 
-[Get the Desolate & Velvet Guitars Bundle for $149 at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763)
 
 ---
 

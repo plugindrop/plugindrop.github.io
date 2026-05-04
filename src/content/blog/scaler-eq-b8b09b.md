@@ -1,23 +1,20 @@
 ---
-title: "34% Off Scaler EQ"
-description: "Scaler EQ is down to **$39** (~~$59~~) at Plugin Boutique — a $20 saving at 34% off. This is a musically-aware EQ from the team behind Scaler 2, designed..."
-pubDate: "2026-05-02T15:36:43Z"
-tags: ["sale", "vst-plugin", "effects", "eq", "music-production"]
+title: "Scaler EQ: Features, Pricing & Is It Worth It? (2026)"
+description: "Scaler EQ is a harmonic equalizer developed by ScalerAudio — the same team behind the widely used Scaler 2 chord and. Check current pricing at Plugin Boutique."
+pubDate: '2026-05-02T15:36:43Z'
+tags: ["review", "vst-plugin", "effects", "eq", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-b8b09b"
-heroImage: "/images/scaler-eq-b8b09b.jpg"
+heroImage: /images/scaler-eq-b8b09b.jpg
 score: 10.00
-dealPrice: "$39.00"
-originalPrice: "$59.00"
-discount: "34% OFF"
-xText: "34% off premium eq stock is uncommon. these rarely land this hard. if you've been waiting for a drop, this is it."
 draft: false
+converted: true
 ---
-**TL;DR:** Scaler EQ is down to **$39** (~~$59~~) at Plugin Boutique — a $20 saving at 34% off. This is a musically-aware EQ from the team behind Scaler 2, designed to make frequency decisions that align with your track's key and scale. [→ Get Scaler EQ at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-b8b09b)
+**Scaler EQ** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-b8b09b)
 
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/nxZVmRUoyKw" title="34% Off Scaler EQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/nxZVmRUoyKw" title="Scaler EQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is Scaler EQ?
@@ -45,17 +42,9 @@ Scaler EQ is a harmonic equalizer developed by ScalerAudio — the same team beh
 
 ---
 
-## Pricing & Deal Details
+Plugin Boutique runs time-limited flash deals on their own-label products several times a year. 
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$59.00~~ | $39.00 | $20.00 (34%) |
-
-Plugin Boutique runs time-limited flash deals on their own-label products several times a year. A 34% discount on a sub-$60 plugin is a meaningful window — it brings Scaler EQ under the $40 mark, which is a significant threshold for producers evaluating single-purpose utility tools.
-
-*Price verified at publication. Check the link for current availability.*
-
-[→ Get Scaler EQ at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-b8b09b)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-b8b09b)
 
 ---
 
@@ -87,11 +76,9 @@ A: This is a limited-time sale price. The regular listed price is $59.
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-Scaler EQ at $39 represents a 34% saving on a plugin with a genuinely distinct concept — musical key-aware EQ is a narrow but useful niche, and this is a practical entry price for it.
-
-[→ Get Scaler EQ at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-b8b09b)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-b8b09b)
 
 ---
 

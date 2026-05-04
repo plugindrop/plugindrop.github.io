@@ -1,21 +1,18 @@
 ---
-title: '[Robotic Bean] Get 30% off Portatron by Robotic Bean. The discounted price
-  is $69. Expiry: April 12th [Affiliate Link]'
-description: Portatron by Robotic Bean — the 4-track tape loop synthesizer — is currently
-  30% off at **$69** (~~regular price~~). That's a solid discount on one of the...
+title: "Portatron: Features, Pricing & Is It Worth It? (2026)"
+description: "Portatron is a virtual instrument by Robotic Bean that emulates the experience of a 4-track cassette recorder — think. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-02T07:02:01Z'
-tags: ["sale", "robotic bean", "music-production"]
-affiliate: https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763
+tags: ["review", "robotic bean", "music-production"]
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763"
 heroImage: /images/robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou.webp
-dealPrice: "$69"
-originalPrice: "$98.57"
-discount: "30% OFF"
-saleExpiry: '2026-04-12'
-aiImage: true
-draft: true
 score: 5.16
+aiImage: true
+draft: false
+converted: true
 ---
-**TL;DR:** Portatron by Robotic Bean — the 4-track tape loop synthesizer — is currently 30% off at **$69** (~~regular price~~). That's a solid discount on one of the more unique lo-fi instruments out there. Deal expires **April 12th**. [Grab Portatron at 30% off here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763)
+**Portatron** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763)
+
+---
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OtcAuBR3PmM" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -45,15 +42,9 @@ Portatron occupies a specific niche — it's not trying to be an all-purpose sam
 - **Film & Game Composers** — The drone and loop modes lend themselves well to scoring work where evolving, organic backdrops are needed.
 - **Mellotron Enthusiasts** — The instrument mode turns Portatron into a playable tape-based sampler, scratching that vintage itch without the hardware maintenance.
 
-## Pricing & Deal Details
+ This deal is available through **April 12th** — verify current pricing on the product page, as deals can change.
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~Full price~~ | **$69** | **30%** |
-
-Robotic Bean doesn't run frequent sales on Portatron, so 30% off is noteworthy. This deal is available through **April 12th** — verify current pricing on the product page, as deals can change.
-
-[Get Portatron for $69 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763)
 
 ## Alternatives at a Glance
 
@@ -79,11 +70,11 @@ A: Yes — Portatron includes a tape editor for importing and manipulating your 
 **Q: Is Portatron polyphonic?**
 A: No. It's monophonic by design — you can layer up to four sounds across the tape tracks, but each track plays one note at a time, staying true to the tape-machine concept.
 
-## Get the Deal
+## Where to Buy
 
 30% off Portatron brings it down to **$69** — a meaningful discount on a plugin that doesn't go on sale often. If tape-loop textures and lo-fi character are part of your production toolkit, this is a good time to pick it up. Deal ends **April 12th**.
 
-[Grab Portatron at 30% off before the deal expires →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763)
 
 ---
 

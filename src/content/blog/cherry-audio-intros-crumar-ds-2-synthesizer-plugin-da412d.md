@@ -1,20 +1,17 @@
 ---
-title: Cherry Audio Intros Crumar DS-2 Synthesizer Plugin
-description: Cherry Audio just dropped the Crumar DS-2 — a massively expanded plugin
-  recreation of the rare 1978 Italian polysynth — for **$59**. Even better, through...
+title: "Cherry Audio Intros Crumar DS-2 Synthesizer Plugin: Features, Pricing & Is It Worth It? (2026)"
+description: "The Crumar DS-2 is a software synthesizer from Cherry Audio that recreates — and significantly expands — the original. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-03T00:16:01Z'
-tags: ["sale", "software synthesizers  samplers", "virtual instruments", "cherry audio", "crumar ds-2", "software synthesizers", "music-production", "synth"]
+tags: ["review", "software synthesizers  samplers", "virtual instruments", "cherry audio", "crumar ds-2", "software synthesizers", "music-production", "synth"]
 affiliate: "https://www.pluginboutique.com/search?search_query=ds+2+synthesizer&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d"
 heroImage: /images/cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d.jpg
-dealPrice: "$59"
-originalPrice: "$119"
-discount: "50% OFF"
-saleExpiry: '2026-04-13'
-draft: true
 score: 4.27
+draft: false
+converted: true
 ---
+**Cherry Audio Intros Crumar DS-2 Synthesizer Plugin** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?search_query=ds+2+synthesizer&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d)
 
-**TL;DR:** Cherry Audio just dropped the Crumar DS-2 — a massively expanded plugin recreation of the rare 1978 Italian polysynth — for **$59**. Even better, through April 13, 2026, you can grab it in a Pick 3 bundle for ~~$119~~ **$99** or a Pick 6 bundle for ~~$169~~ **$149**. [Grab the Crumar DS-2 here.](https://www.pluginboutique.com/search?search_query=ds+2+synthesizer&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d)
+---
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LtKgn9JJC_A" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -39,8 +36,6 @@ The Crumar DS-2 is a software synthesizer from Cherry Audio that recreates — a
 - **Sound designers** — The dual-section architecture plus 20 effects and deep modulation routing offer serious palette-building potential.
 - **Polysynth pad creators** — 32-note polyphony and the Dual Ensemble / Galactic Reverb effects are designed for lush, wide textures.
 - **Cherry Audio collectors** — If you already own several Cherry Audio titles, the Build Your Own Bundle deal makes this an easy add.
-
-## Pricing & Deal Details
 
 | Regular Price | Deal Price (Bundle) | You Save |
 |---|---|---|
@@ -76,9 +71,9 @@ A: Yes, Cherry Audio offers a free 30-day demo so you can test it before buying.
 **Q: What are the system requirements?**
 A: It supports macOS and Windows. Check the official Cherry Audio product page for detailed minimum specs.
 
-## Get the Deal
+## Where to Buy
 
-The Crumar DS-2 at $59 is already competitive for a plugin of this depth — but the bundle pricing through April 13 sweetens it further. Don't sleep on the Pick 3 for $99 if you've been eyeing other Cherry Audio titles. [Get the Crumar DS-2 now.](https://www.pluginboutique.com/search?search_query=ds+2+synthesizer&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d)
+ Don't sleep on the Pick 3 for $99 if you've been eyeing other Cherry Audio titles. [Get the Crumar DS-2 now.](https://www.pluginboutique.com/search?search_query=ds+2+synthesizer&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d)
 
 ---
 

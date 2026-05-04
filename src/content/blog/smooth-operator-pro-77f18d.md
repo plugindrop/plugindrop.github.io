@@ -1,18 +1,15 @@
 ---
-title: "39% Off Smooth Operator Pro"
-description: "Smooth Operator Pro is down to **$79** (was ~~$129~~) at Plugin Boutique — that's $50 off, or 39% savings. If spectral balancing tools are on your..."
-pubDate: "2026-04-23T18:28:04Z"
-tags: ["sale", "vst-plugin", "effects", "music-production"]
+title: "Smooth Operator Pro: Features, Pricing & Is It Worth It? (2026)"
+description: "Smooth Operator Pro is a spectral processing and frequency-balancing plugin available on Plugin Boutique. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T18:28:04Z'
+tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-77f18d"
-heroImage: "/images/smooth-operator-pro-77f18d.jpg"
+heroImage: /images/smooth-operator-pro-77f18d.jpg
 score: 8.32
-dealPrice: "$79.00"
-originalPrice: "$129.00"
-discount: "39% OFF"
-xText: "39% off a brand new plugin is either genius strategy or absolute confidence. smooth operator pro dropped and the math already works in your favor."
 draft: false
+converted: true
 ---
-**TL;DR:** Smooth Operator Pro is down to **$79** (was ~~$129~~) at Plugin Boutique — that's $50 off, or 39% savings. If spectral balancing tools are on your shopping list, this is one of the sharper discounts the plugin has seen. [Grab the deal here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-77f18d)
+**Smooth Operator Pro** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-77f18d)
 
 ---
 
@@ -47,17 +44,9 @@ Smooth Operator Pro is a spectral processing and frequency-balancing plugin avai
 
 ---
 
-## Pricing & Deal Details
+ Deals of this size are worth acting on — Plugin Boutique promotions are time-limited and pricing can revert without notice.
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$129.00~~ | **$79.00** | $50.00 (39%) |
-
-A 39% discount is a meaningful cut for a professional EQ/spectral tool in this tier. Deals of this size are worth acting on — Plugin Boutique promotions are time-limited and pricing can revert without notice.
-
-> Verify current pricing on the product page — deals can change.
-
-[Get Smooth Operator Pro for $79 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-77f18d)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-77f18d)
 
 ---
 
@@ -89,11 +78,11 @@ A: Check the Plugin Boutique product page — demo availability varies by develo
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 $50 off a spectral processing tool at this price point is a concrete saving worth logging. The deal is live now on Plugin Boutique — pricing can revert at any time.
 
-[Claim 39% off Smooth Operator Pro →](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-77f18d)
+[pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-77f18d)
 
 ---
 

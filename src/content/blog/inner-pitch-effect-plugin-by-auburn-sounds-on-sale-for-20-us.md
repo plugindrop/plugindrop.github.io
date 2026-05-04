@@ -1,19 +1,17 @@
 ---
-title: Inner Pitch effect plugin by Auburn Sounds on sale for $20 USD
-description: Auburn Sounds' Inner Pitch is on sale for $20 — down from its usual ~~$29~~
-  price tag. That's roughly 31% off a pitch-shifting plugin known for its...
+title: "Inner Pitch effect plugin: Features, Pricing & Is It Worth It? (2026)"
+description: "Inner Pitch is a pitch-shifting effect plugin developed by Auburn Sounds. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-02T09:21:13Z'
-tags: ["auburn sounds", "lv2", "pitch shift and time stretch", "sale", "music-production"]
-affiliate: https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=plugindrop&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us&a_aid=69cb95abe1763
+tags: ["review", "auburn sounds", "lv2", "pitch shift and time stretch", "music-production"]
+affiliate: "https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=plugindrop&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us&a_aid=69cb95abe1763"
 heroImage: /images/inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us.jpg
-dealPrice: "$20"
-originalPrice: "$29"
-discount: "31% OFF"
-saleExpiry: '2026-04-30'
-draft: true
 score: 4.08
+draft: false
+converted: true
 ---
-**TL;DR:** Auburn Sounds' Inner Pitch is on sale for $20 — down from its usual ~~$29~~ price tag. That's roughly 31% off a pitch-shifting plugin known for its natural sound quality. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=plugindrop&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us&a_aid=69cb95abe1763) before the price goes back up.
+**Inner Pitch effect plugin** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=plugindrop&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us&a_aid=69cb95abe1763)
+
+---
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ldwd5cfJzqo" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -43,12 +41,6 @@ Auburn Sounds has built a solid reputation on KVR over nearly a decade, and Inne
 - **Guitarists and instrumentalists** — Clean pitch shifting on melodic sources without obvious artifacts.
 - **Lo-fi and experimental producers** — The ADPCM codec distortion and endless pitch ascent/descent effects suit glitch and ambient production.
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|:---:|:---:|:---:|
-| ~~$29~~ | **$20** | **$9 (~31% off)** |
-
 A free edition of Inner Pitch exists with core features, but it lacks the enhanced quality options, CPU optimization controls, and hard-tune mode that come with the Full Edition. This sale narrows the gap between "good enough for free" and "full-featured" to just $20.
 
 Verify current pricing on the product page — deals can change. [Pick up Inner Pitch at Plugin Boutique for $20](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=plugindrop&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us&a_aid=69cb95abe1763).
@@ -61,7 +53,7 @@ Verify current pricing on the product page — deals can change. [Pick up Inner 
 | Kilohearts Pitch Shifter | Free (Essentials) | Basic pitch shifting as part of a modular Snap Heap ecosystem |
 | Auburn Sounds Graillon (Free Edition) | Free | Same developer's vocal-focused plugin with pitch correction, but no delay/feedback effects |
 
-If free is the priority and you only need basic pitch shifting, Kilohearts Pitch Shifter or Graillon Free cover the basics. If you want the feedback loop, distortion options, and stereo widening in one package, Inner Pitch at $20 fills a different niche.
+If free is the priority and you only need basic pitch shifting, Kilohearts Pitch Shifter or Graillon Free cover the basics. 
 
 ## FAQ
 
@@ -77,9 +69,9 @@ A: Check Auburn Sounds' official site for current licensing and activation detai
 **Q: Is the 2.0 update included?**
 A: Yes — v2.0 was a free update for all existing Full Edition owners, so purchasing now gets you the latest version.
 
-## Get the Deal
+## Where to Buy
 
-$20 for a pitch shifter with this feature set is a strong pickup — especially with formant control, feedback delay, and three distortion types included. [Get Inner Pitch at Plugin Boutique before the sale ends](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=plugindrop&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us&a_aid=69cb95abe1763).
+$20 for a pitch shifter with this feature set is a strong pickup — especially with formant control, feedback delay, and three distortion types included. [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=plugindrop&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us&a_aid=69cb95abe1763).
 
 ---
 

@@ -1,17 +1,15 @@
 ---
-title: Soundtoys — Get up to 73% off in the Soundtoys Spring Sale
-description: Soundtoys is running a Spring Sale with up to 73% off their lineup of
-  analog-inspired effects plugins — including the full bundle and individual titles....
+title: "22775: Features, Pricing & Is It Worth It? (2026)"
+description: "Soundtoys is a Vermont-based plugin developer known for building effects processors with heavy analog character. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-14T23:25:11Z'
-tags: ["sale", "soundtoys", "music-production"]
-affiliate: https://www.pluginboutique.com/deals/22775?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763
+tags: ["review", "soundtoys", "music-production"]
+affiliate: "https://www.pluginboutique.com/deals/22775?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763"
 heroImage: /images/soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi.png
-saleExpiry: '2026-04-28'
-discount: "73% OFF"
-draft: true
 score: 5.1
+draft: false
+converted: true
 ---
-**TL;DR:** Soundtoys is running a Spring Sale with up to 73% off their lineup of analog-inspired effects plugins — including the full bundle and individual titles. If you've been watching these prices, this is one of the steeper discounts Soundtoys runs. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/deals/22775?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763) before it expires.
+**22775** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/deals/22775?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763)
 
 ---
 
@@ -34,7 +32,7 @@ Soundtoys is a Vermont-based plugin developer known for building effects process
 
 ## What Producers Are Saying
 
-Soundtoys has been a recurring recommendation in mixing and production communities for well over a decade. On forums like KVR and Reddit's r/AudioProductionDeals, the Soundtoys 5 bundle is commonly cited as a foundational effects collection — particularly Decapitator and EchoBoy, which appear frequently in "must-have saturation/delay" threads. Little AlterBoy is consistently brought up in vocal production discussions as a go-to for pitch and formant work. Community consensus generally positions Soundtoys plugins as premium tools that justify the full price, making a 73% discount the kind of event that moves the needle for producers who've been on the fence.
+Soundtoys has been a recurring recommendation in mixing and production communities for well over a decade. On forums like KVR and Reddit's r/AudioProductionDeals, the Soundtoys 5 bundle is commonly cited as a foundational effects collection — particularly Decapitator and EchoBoy, which appear frequently in "must-have saturation/delay" threads. Little AlterBoy is consistently brought up in vocal production discussions as a go-to for pitch and formant work. Community consensus generally positions Soundtoys plugins as premium tools that justify the full price, making 
 
 ---
 
@@ -47,27 +45,7 @@ Soundtoys has been a recurring recommendation in mixing and production communiti
 
 ---
 
-## Pricing & Deal Details
-
-| | Regular Price | Deal Price | You Save |
-|---|---|---|---|
-| Soundtoys 5 Bundle | ~~Full price~~ | Up to 73% off | Significant savings |
-| Individual plugins | ~~Full price~~ | Various discounts | Check product page |
-
-> **Note:** Verify current pricing directly on the product page — deal prices and exact savings can change. The "up to 73% off" reflects the maximum discount available across the sale.
-
-Soundtoys doesn't run deep sales constantly — major promotions tend to appear a handful of times per year (seasonal events, Black Friday). A 73% headline discount puts this among the more aggressive offers they run. [Check the full deal breakdown at Plugin Boutique](https://www.pluginboutique.com/deals/22775?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763).
-
----
-
-## Alternatives at a Glance
-
-| Name | Price | Key Difference |
-|---|---|---|
-| Eventide H9 Harmonizer plugins | Check vendor | Eventide's own algorithms, strong pitch/modulation focus |
-| Valhalla DSP effects (e.g. VintageVerb) | ~$50/plugin | More affordable per-plugin, reverb/delay focus, no saturation tools |
-| FabFilter Saturn 2 | Check vendor | Saturation/distortion specialist with a more surgical, multiband approach |
-
+| 
 If you specifically need saturation and creative character effects under one roof, the Soundtoys bundle covers ground that piecemeal alternatives don't. Valhalla is the better pick if reverb and delay are the priority and budget is tight.
 
 ---
@@ -88,9 +66,9 @@ A: Expiry dates aren't always listed upfront — check the Plugin Boutique deal 
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-Up to 73% off Soundtoys is a meaningful discount on one of the more established effects catalogs in the plugin market. Seasonal sales like this are the practical window to add these tools at a lower entry cost. [View the Soundtoys Spring Sale at Plugin Boutique](https://www.pluginboutique.com/deals/22775?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763) and confirm pricing before it changes.
+ Seasonal sales like this are the practical window to add these tools at a lower entry cost. [View the Soundtoys Spring Sale at Plugin Boutique](https://www.pluginboutique.com/deals/22775?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763) and confirm pricing before it changes.
 
 ---
 

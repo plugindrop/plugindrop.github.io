@@ -1,18 +1,15 @@
 ---
-title: "61% Off Primavera Reverb Plugin at Plugin Boutique"
-description: Primavera is a lush reverb plugin available now at Plugin Boutique —
-  check the current deal price versus the regular MSRP on the product page for exact...
+title: "Primavera Reverb Plugin: Features, Pricing & Is It Worth It? (2026)"
+description: "Primavera is a reverb effect plugin sold through Plugin Boutique, sitting in the effects category alongside some of. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-14T14:00:40Z'
-tags: ["sale", "music-production"]
-affiliate: https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=plugindrop&utm_medium=article&utm_campaign=primavera-99699e&a_aid=69cb95abe1763
+tags: ["review", "music-production"]
+affiliate: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=plugindrop&utm_medium=article&utm_campaign=primavera-99699e&a_aid=69cb95abe1763"
 heroImage: /images/primavera-99699e.jpg
-dealPrice: "$39.00"
-originalPrice: "$99.00"
-discount: "61% OFF"
-draft: true
 score: 6.59
+draft: false
+converted: true
 ---
-**TL;DR:** Primavera is a lush reverb plugin available now at Plugin Boutique — check the current deal price versus the regular MSRP on the product page for exact savings. If reverb is a gap in your toolkit, this is worth a look. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=plugindrop&utm_medium=article&utm_campaign=primavera-99699e&a_aid=69cb95abe1763)
+**Primavera Reverb Plugin** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=plugindrop&utm_medium=article&utm_campaign=primavera-99699e&a_aid=69cb95abe1763)
 
 ---
 
@@ -56,12 +53,6 @@ Primavera is a newer or more niche release — broad community discussion is sti
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~Check product page~~ | Check product page | Varies — verify live |
-
 Exact pricing fluctuates with promotions. Plugin Boutique regularly runs sales and loyalty point schemes that can reduce the effective price further. Deals at this store can expire or change without notice.
 
 > **Verify current pricing on the product page — deals can change.**
@@ -98,7 +89,7 @@ A: Refund and return policies for software vary. Check Plugin Boutique's terms o
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 Reverb is one of those tools you reach for on nearly every session. If Primavera fits the gap in your rack, Plugin Boutique is the place to get it at the current deal price. [Check the live deal and pick it up here.](https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=plugindrop&utm_medium=article&utm_campaign=primavera-99699e&a_aid=69cb95abe1763)
 

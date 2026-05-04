@@ -1,17 +1,16 @@
 ---
-title: "Slate Digital — Slate Digital has released Bus Clipper plugin for Win & Mac. The intro is 50% off"
-description: "Slate Digital just launched Bus Clipper, a new dedicated clipping plugin for Windows and Mac — available at 50% off its regular price as an intro deal...."
-pubDate: "2026-04-22T05:48:43Z"
-tags: ["slate digital", "music-production"]
+title: "Slate Digital — Slate Digital has released Bus Clipper plugin for Win & Mac. The: Features, Pricing & Is It Worth It? (2026)"
+description: "Slate Digital Bus Clipper is a newly released clipping plugin designed for transparent peak control on mix buses. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-22T05:48:43Z'
+tags: ["review", "slate digital", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?search_query=bus+clipper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slate-digital-slate-digital-has-released-bus-clipper-plugin-"
-heroImage: "/images/slate-digital-slate-digital-has-released-bus-clipper-plugin-.webp"
-aiImage: true
+heroImage: /images/slate-digital-slate-digital-has-released-bus-clipper-plugin-.webp
 score: 6.00
-saleExpiry: "2026-04-28"
-xText: "slate tools almost never hit 50%. new bus clipper did. their mastering compression just dropped to half price."
-draft: true
+aiImage: true
+draft: false
+converted: true
 ---
-**TL;DR:** Slate Digital just launched Bus Clipper, a new dedicated clipping plugin for Windows and Mac — available at 50% off its regular price as an intro deal. Verify current pricing on the product page. If you've been looking for a purpose-built clipper from one of mixing's most trusted plugin brands, [now is the time to grab it](https://www.pluginboutique.com/search?search_query=bus+clipper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slate-digital-slate-digital-has-released-bus-clipper-plugin-).
+**Slate Digital — Slate Digital has released Bus Clipper plugin for Win & Mac. The** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?search_query=bus+clipper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slate-digital-slate-digital-has-released-bus-clipper-plugin-)
 
 ---
 
@@ -42,17 +41,9 @@ Check the [official product page](https://www.pluginboutique.com/search?search_q
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~Check product page~~ | 50% off intro price | 50% |
-
 Slate Digital is running this as an **introductory launch discount** — these tend to expire once the plugin moves out of its release window. Prices are not listed here because they're subject to change; verify the exact figures before buying.
 
-> Verify current pricing on the product page — deals can change without notice.
-
-[Get Bus Clipper at 50% off →](https://www.pluginboutique.com/search?search_query=bus+clipper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slate-digital-slate-digital-has-released-bus-clipper-plugin-)
+[pluginboutique.com/search?search_query=bus+clipper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slate-digital-slate-digital-has-released-bus-clipper-plugin-)
 
 ---
 
@@ -76,7 +67,7 @@ A: Slate Digital has historically used its own license manager rather than iLok.
 **Q: What plugin formats does Bus Clipper support?**
 A: Check the product page for the confirmed list of supported formats (VST, VST3, AU, AAX) and compatible DAWs.
 
-**Q: How long is the intro 50% off deal available?**
+****
 A: Intro pricing typically runs for a limited window after launch. Slate Digital has not published an end date publicly — check the product page for the current price and any stated deadline.
 
 **Q: Is there a free trial available?**
@@ -84,9 +75,9 @@ A: Trial availability varies by release. Check the Slate Digital website for dem
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-Slate Digital's intro pricing won't last forever — 50% off a brand-new plugin from a studio-grade developer is a solid entry point. [Grab Bus Clipper at the launch discount directly from Slate Digital.](https://www.pluginboutique.com/search?search_query=bus+clipper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slate-digital-slate-digital-has-released-bus-clipper-plugin-)
+ [Check current price at Plugin Boutique](https://www.pluginboutique.com/search?search_query=bus+clipper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slate-digital-slate-digital-has-released-bus-clipper-plugin-)
 
 ---
 

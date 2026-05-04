@@ -1,18 +1,15 @@
 ---
-title: "38% Off SubLab XL"
-description: "SubLab XL by Future Audio Workshop is down to **$50** (~~$80~~) at Plugin Boutique — a 38% saving of $30. If you produce bass-heavy music and have been..."
-pubDate: "2026-04-23T18:28:14Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
+title: "SubLab XL: Features, Pricing & Is It Worth It? (2026)"
+description: "SubLab XL is a dedicated bass synthesizer developed by Future Audio Workshop (FAW). Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T18:28:14Z'
+tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sublab-xl-c3d902"
-heroImage: "/images/sublab-xl-c3d902.jpg"
+heroImage: /images/sublab-xl-c3d902.jpg
 score: 8.03
-dealPrice: "$50.00"
-originalPrice: "$80.00"
-discount: "38% OFF"
-xText: "sublab xl drops at 38% off, and new plugins never get this discount this fast. if bass design is part of your workflow, this is the moment."
 draft: false
+converted: true
 ---
-**TL;DR:** SubLab XL by Future Audio Workshop is down to **$50** (~~$80~~) at Plugin Boutique — a 38% saving of $30. If you produce bass-heavy music and have been watching this one, now is a solid time to pull the trigger. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sublab-xl-c3d902)
+**SubLab XL** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sublab-xl-c3d902)
 
 ---
 
@@ -46,15 +43,9 @@ SubLab XL is a dedicated bass synthesizer developed by Future Audio Workshop (FA
 
 ---
 
-## Pricing & Deal Details
+FAW doesn't run frequent blowout sales, so  This deal is live at Plugin Boutique — pricing can change without notice, so verify current pricing on the product page before buying.
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$80.00~~ | **$50.00** | $30.00 (38%) |
-
-FAW doesn't run frequent blowout sales, so a 38% discount is worth noting. This deal is live at Plugin Boutique — pricing can change without notice, so verify current pricing on the product page before buying.
-
-[Get SubLab XL for $50 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sublab-xl-c3d902)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sublab-xl-c3d902)
 
 ---
 
@@ -86,11 +77,11 @@ A: It supports common plugin formats, but verify supported formats and DAW compa
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 $30 off a dedicated bass synthesizer from a focused developer — 38% is a meaningful discount on a tool built for one specific job. If low-end is central to your productions, this is the kind of deal worth acting on.
 
-[Grab SubLab XL for $50 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sublab-xl-c3d902)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sublab-xl-c3d902)
 
 ---
 

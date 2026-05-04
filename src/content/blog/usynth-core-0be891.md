@@ -1,22 +1,20 @@
 ---
-title: "34% Off Usynth Core"
-description: "Usynth Core by UJAM is currently **$19.00** (was ~~$29.00~~) at Plugin Boutique — a 34% discount that puts $10 back in your pocket on a solid entry-level..."
-pubDate: "2026-04-26T02:04:59Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "synth", "music-production"]
+title: "Usynth Core: Features, Pricing & Is It Worth It? (2026)"
+description: "Usynth Core is a synthesizer instrument plugin developed by UJAM, the German music software company known for. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-26T02:04:59Z'
+tags: ["review", "vst-plugin", "virtual-instrument", "effects", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/8862-Usynth-Core?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=usynth-core-0be891"
-heroImage: "/images/usynth-core-0be891.jpg"
+heroImage: /images/usynth-core-0be891.jpg
 score: 7.42
-dealPrice: "$19.00"
-originalPrice: "$29.00"
-discount: "34% OFF"
 draft: false
+converted: true
 ---
-**TL;DR:** Usynth Core by UJAM is currently **$19.00** (was ~~$29.00~~) at Plugin Boutique — a 34% discount that puts $10 back in your pocket on a solid entry-level synthesizer. If you've been eyeing the Usynth series, this is the lowest-friction way to get in. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8862-Usynth-Core?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=usynth-core-0be891)
+**Usynth Core** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8862-Usynth-Core?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=usynth-core-0be891)
 
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/9QQWmBNJTp4" title="34% Off Usynth Core — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/9QQWmBNJTp4" title="Usynth Core — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is Usynth Core?
@@ -36,15 +34,8 @@ Usynth Core is a synthesizer instrument plugin developed by UJAM, the German mus
 ## Who Is It For?
 
 - **Producers new to synthesis** — The preset-first approach and accessible UI lower the barrier to getting usable sounds fast.
-- **Budget-conscious beatmakers** — At $19, this sits in impulse-buy territory for expanding a plugin collection without stress.
 - **Songwriters who prioritize speed** — If you need a sound and need it now, preset-driven synths are designed exactly for that workflow.
 - **Existing UJAM users** — Usynth Core integrates naturally with other products in the Usynth family.
-
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$29.00~~ | **$19.00** | $10.00 (34%) |
 
 A 34% sale on a $29 plugin brings it into "why not?" pricing. UJAM does run promotions on Plugin Boutique periodically, so catching one is worth acting on. This deal is live now, but pricing can revert without notice.
 
@@ -74,11 +65,11 @@ A: This specific $19 deal is listed at Plugin Boutique. Pricing on other platfor
 **Q: Is there a free trial available?**
 A: Trial availability varies by developer — check the product page for demo options.
 
-## Get the Deal
+## Where to Buy
 
-~~$29~~ crossed out, $19 in your cart. That's 34% off a synthesizer plugin with no complicated math required. At this price, it's a straightforward pickup.
+~~$29~~ crossed out, $19 in your cart.  At this price, it's a straightforward pickup.
 
-[Grab Usynth Core for $19 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8862-Usynth-Core?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=usynth-core-0be891)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8862-Usynth-Core?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=usynth-core-0be891)
 
 ---
 

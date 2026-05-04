@@ -1,20 +1,16 @@
 ---
-title: Black Salt Audio BSA Drum Bundle — 39% Off ($89)
-description: The BSA Drum Bundle by Black Salt Audio is currently **39% off at $89**
-  (regularly ~$146) on Plugin Boutique — saving you roughly $57 on three focused...
+title: "($89): Features, Pricing & Is It Worth It? (2026)"
+description: "Black Salt Audio is a plugin developer known for streamlined, single-purpose tools built around the idea that less is. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-02T06:34:42Z'
-tags: ["sale", "black salt audio", "music-production", "bundle"]
-affiliate: https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13453-BSA-Drum-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=black-salt-audio-get-39-off-bsa-drum-bundle-by-black-salt-au&a_aid=69cb95abe1763
+tags: ["review", "black salt audio", "music-production", "bundle"]
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13453-BSA-Drum-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=black-salt-audio-get-39-off-bsa-drum-bundle-by-black-salt-au&a_aid=69cb95abe1763"
 heroImage: /images/black-salt-audio-get-39-off-bsa-drum-bundle-by-black-salt-au.webp
-dealPrice: "$89"
-originalPrice: "$146"
-discount: "39% OFF"
-saleExpiry: '2026-04-30'
-aiImage: true
-draft: true
 score: 5.93
+aiImage: true
+draft: false
+converted: true
 ---
-**TL;DR:** The BSA Drum Bundle by Black Salt Audio is currently **39% off at $89** (regularly ~$146) on Plugin Boutique — saving you roughly $57 on three focused drum processing plugins. The deal runs until **April 30, 2026**. [Grab it here while it's live.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13453-BSA-Drum-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=black-salt-audio-get-39-off-bsa-drum-bundle-by-black-salt-au&a_aid=69cb95abe1763)
+**($89)** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13453-BSA-Drum-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=black-salt-audio-get-39-off-bsa-drum-bundle-by-black-salt-au&a_aid=69cb95abe1763)
 
 ---
 
@@ -49,13 +45,7 @@ Black Salt Audio's drum tools have attracted attention in production communities
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$146~~ | **$89** | ~$57 (39%) |
-
-Three plugins at $89 breaks down to roughly **$29.67 per plugin** — meaningfully cheaper than buying any one of them individually at regular price. Black Salt Audio doesn't run deep sales constantly, so this discount level is worth noting. Verify current pricing on the product page — deals can change.
+67 per plugin** — meaningfully cheaper than buying any one of them individually at regular price. Black Salt Audio doesn't run deep sales constantly, so this discount level is worth noting. Verify current pricing on the product page — deals can change.
 
 The deal expires **April 30, 2026**, exclusively via Plugin Boutique.
 
@@ -87,15 +77,15 @@ A: Plugin Boutique lists this as a standard license purchase. Verify the license
 A: The bundle includes VST3, AU, and AAX formats, covering most major DAWs on Windows 10+ and macOS 10.13+.
 
 **Q: Can I buy the plugins individually instead?**
-A: Yes — Escalator, Silencer, and Drum Bus are available separately. The bundle deal at $89 is the lowest per-plugin cost currently available.
+A: Yes — Escalator, Silencer, and Drum Bus are available separately. 
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-39% off three specialized drum processing plugins at $89 total — that's solid bundle math. The offer runs until **April 30, 2026**, only on Plugin Boutique.
+39%  
 
-[Lock in the BSA Drum Bundle deal before it expires.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13453-BSA-Drum-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=black-salt-audio-get-39-off-bsa-drum-bundle-by-black-salt-au&a_aid=69cb95abe1763)
+[Lock in the BSA Drum Bundle deal .](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13453-BSA-Drum-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=black-salt-audio-get-39-off-bsa-drum-bundle-by-black-salt-au&a_aid=69cb95abe1763)
 
 ---
 

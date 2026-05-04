@@ -1,17 +1,15 @@
 ---
-title: "Infinite multi-effect plugin by Toolroom on sale for $29 USD"
-description: "Toolroom's Infinite multi-effect plugin is currently on sale for **$29 USD** at Plugin Boutique — a solid entry point for a plugin built around the sonic..."
-pubDate: "2026-04-20T13:18:34Z"
-tags: ["mark knight", "multi fx", "sale", "toolroom", "music-production"]
+title: "Infinite multi-effect plugin: Features, Pricing & Is It Worth It? (2026)"
+description: "Infinite is a multi-effect plugin developed in partnership with Toolroom Records, the UK-based house and techno label. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-20T13:18:34Z'
+tags: ["review", "mark knight", "multi fx", "toolroom", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/9129-Infinite?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=infinite-multi-effect-plugin-by-toolroom-on-sale-for-29-usd"
+heroImage: /images/infinite-multi-effect-plugin-by-toolroom-on-sale-for-29-usd.jpg
 score: 7.74
-dealPrice: "$29.00"
-originalPrice: "$59.00"
-discount: "51% OFF"
-heroImage: "/images/infinite-multi-effect-plugin-by-toolroom-on-sale-for-29-usd.jpg"
-
+draft: false
+converted: true
 ---
-**TL;DR:** Toolroom's Infinite multi-effect plugin is currently on sale for **$29 USD** at Plugin Boutique — a solid entry point for a plugin built around the sonic identity of one of house music's most respected labels. If you've been eyeing a dedicated multi-effect unit for dance and electronic production, [grab Infinite at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/9129-Infinite?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=infinite-multi-effect-plugin-by-toolroom-on-sale-for-29-usd) before the price reverts.
+**Infinite multi-effect plugin** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/9129-Infinite?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=infinite-multi-effect-plugin-by-toolroom-on-sale-for-29-usd)
 
 ---
 
@@ -51,15 +49,9 @@ Infinite is a relatively niche release tied to a label brand rather than a major
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| Check product page | **$29 USD** | Verify on site |
-
 Sales on label-branded plugins like this don't follow the predictable quarterly schedule of major developers like FabFilter or iZotope — deals tend to appear less frequently and may not last long. Verify current pricing on the product page, as deals can change without notice.
 
-[Get Infinite for $29 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/9129-Infinite?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=infinite-multi-effect-plugin-by-toolroom-on-sale-for-29-usd)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/9129-Infinite?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=infinite-multi-effect-plugin-by-toolroom-on-sale-for-29-usd)
 
 ---
 
@@ -71,7 +63,7 @@ Sales on label-branded plugins like this don't follow the predictable quarterly 
 | Turnado (Sugar Bytes) | ~$99 full price | Real-time performance-focused multi-effect with macro knobs |
 | Output Portal | ~$99 full price | Granular effects processor, distinct sonic character |
 
-If you need a performance-oriented multi-effect for live sets and real-time manipulation, Turnado covers that ground. If the Toolroom sound is specifically what you're chasing — club-ready presets with minimal setup — Infinite at $29 offers that focus at a lower price point than the Sugar Bytes options at full price.
+If you need a performance-oriented multi-effect for live sets and real-time manipulation, Turnado covers that ground. 
 
 ---
 
@@ -91,11 +83,11 @@ A: It is a general multi-effect plugin, but its presets and design are oriented 
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 At $29, Infinite offers a label-branded, dance-music-focused multi-effect processor at a price that's easy to justify for any electronic producer. Don't wait on this one — label plugin deals at this price don't come around often.
 
-[Grab Infinite by Toolroom for $29 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/9129-Infinite?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=infinite-multi-effect-plugin-by-toolroom-on-sale-for-29-usd)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/9129-Infinite?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=infinite-multi-effect-plugin-by-toolroom-on-sale-for-29-usd)
 
 ---
 

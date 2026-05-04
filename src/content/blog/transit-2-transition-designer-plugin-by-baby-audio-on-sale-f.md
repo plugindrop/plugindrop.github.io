@@ -1,20 +1,17 @@
 ---
-title: Transit 2 transition designer plugin by Baby Audio on sale for $79 USD
-description: Baby Audio's Transit 2 — the motion effects and transition designer plugin
-  built with Andrew Huang — is currently ~~$129~~ **$79 USD**, saving you $50...
+title: "Transit 2 transition designer plugin: Features, Pricing & Is It Worth It? (2026)"
+description: "Transit 2 is a motion effects plugin from Baby Audio, developed in collaboration with YouTuber and producer Andrew. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-03T11:28:37Z'
-tags: ["andrew huang", "baby audio", "sale", "sound fx", "music-production"]
-affiliate: https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-transition-designer-plugin-by-baby-audio-on-sale-f&a_aid=69cb95abe1763
+tags: ["review", "andrew huang", "baby audio", "sound fx", "music-production"]
+affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-transition-designer-plugin-by-baby-audio-on-sale-f&a_aid=69cb95abe1763"
 heroImage: /images/transit-2-transition-designer-plugin-by-baby-audio-on-sale-f.jpg
-dealPrice: "$79"
-originalPrice: "$129"
-discount: "39% OFF"
-saleExpiry: '2026-04-12'
-draft: true
 score: 5.88
+draft: false
+converted: true
 ---
+**Transit 2 transition designer plugin** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-transition-designer-plugin-by-baby-audio-on-sale-f&a_aid=69cb95abe1763)
 
-**TL;DR:** Baby Audio's Transit 2 — the motion effects and transition designer plugin built with Andrew Huang — is currently ~~$129~~ **$79 USD**, saving you $50 (38% off). The deal runs through April 12, 2026. If you've been eyeing a one-knob solution for risers, drops, and sweeps, [grab it at Plugin Boutique while the sale lasts](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-transition-designer-plugin-by-baby-audio-on-sale-f&a_aid=69cb95abe1763).
+---
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/um_Z-51nGP4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -44,15 +41,9 @@ Transit 2 has picked up recognition including "Best Of" awards from Sound On Sou
 - **Film/Game Composers** — Transition effects are bread and butter for scoring; the macro knob approach speeds up sound design work significantly.
 - **Producers Tired of Manual Automation** — Anyone who spends too long drawing automation curves for multi-effect transitions will find the one-knob workflow appealing.
 
-## Pricing & Deal Details
+Existing Transit v1 owners can upgrade for just $29.  The sale runs through **April 12, 2026** — verify current pricing on the product page, as deals can change.
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$129~~ | **$79** | **$50 (38% off)** |
-
-Existing Transit v1 owners can upgrade for just $29. Baby Audio doesn't run deep discounts constantly, so 38% off is a solid window. The sale runs through **April 12, 2026** — verify current pricing on the product page, as deals can change.
-
-[Get Transit 2 for $79 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-transition-designer-plugin-by-baby-audio-on-sale-f&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-transition-designer-plugin-by-baby-audio-on-sale-f&a_aid=69cb95abe1763)
 
 ## Alternatives at a Glance
 
@@ -78,11 +69,11 @@ A: Yes, Transit 2 runs natively on Apple Silicon M-series chips.
 **Q: Is there a trial or demo version?**
 A: Check Baby Audio's official website for current trial availability — they have offered demos in the past.
 
-## Get the Deal
+## Where to Buy
 
-$50 off a plugin that handles risers, drops, sweeps, and rhythmic motion in a single macro sweep. At $79, Transit 2 is at one of its lowest prices. The sale ends April 12, 2026.
+$50 off a plugin that handles risers, drops, sweeps, and rhythmic motion in a single macro sweep. At $79, Transit 2 is at one of its lowest prices. , 2026.
 
-[Grab Transit 2 for $79 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-transition-designer-plugin-by-baby-audio-on-sale-f&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-transition-designer-plugin-by-baby-audio-on-sale-f&a_aid=69cb95abe1763)
 
 ---
 

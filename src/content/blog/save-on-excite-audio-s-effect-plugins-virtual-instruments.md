@@ -1,18 +1,17 @@
 ---
-title: Save on Excite Audio’s effect plugins & virtual instruments
-description: Excite Audio's full plugin lineup — including the Bloom virtual instruments,
-  VISION 4X metering suite, Lifeline mixing tools, and Motion effects — is on...
+title: "Excite Audio’s effect plugins & virtual instruments: Features, Pricing & Is It Worth It? (2026)"
+description: "Excite Audio is an audio plugin developer behind a growing catalog of effect plugins and virtual instruments. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-02T12:13:42Z'
-tags: ["excite audio", "sale", "music-production"]
-affiliate: https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-on-excite-audio-s-effect-plugins-virtual-instruments
+tags: ["review", "excite audio", "music-production"]
+affiliate: "https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-on-excite-audio-s-effect-plugins-virtual-instruments"
 heroImage: /images/save-on-excite-audio-s-effect-plugins-virtual-instruments.jpg
-saleExpiry: '2026-04-30'
-discount: "52% OFF"
-draft: true
 score: 2.73
+draft: false
+converted: true
 ---
+**Excite Audio’s effect plugins & virtual instruments** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-on-excite-audio-s-effect-plugins-virtual-instruments)
 
-**TL;DR:** Excite Audio's full plugin lineup — including the Bloom virtual instruments, VISION 4X metering suite, Lifeline mixing tools, and Motion effects — is on sale with discounts up to 52% off at Plugin Boutique. The Bloom Bundle alone drops from ~~¥65,959~~ to ¥31,241. [Grab the deals before they expire →](https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-on-excite-audio-s-effect-plugins-virtual-instruments)
+---
 
 ## What Is Excite Audio?
 
@@ -34,28 +33,7 @@ Excite Audio is an audio plugin developer behind a growing catalog of effect plu
 - **Composers and Scoring Artists** — Bloom's ensemble strings and orchestral textures are built for cinematic and scoring applications, with custom sample import extending their range.
 - **Producers Building a Plugin Toolkit** — The bundle discount makes this a cost-effective way to fill multiple mixing and instrument slots at once.
 
-## Pricing & Deal Details
-
-| Product | Regular Price | Deal Price | You Save |
-|---|---|---|---|
-| Bloom Bundle | ~~¥65,959~~ | ¥31,241 | 52% off |
-| Bloom Ensemble Strings Lite | ~~¥5,060~~ | ¥3,315 | 34% off |
-| Full catalog (various) | Varies | Up to 50%+ off | Check product page |
-
-Pricing shown in JPY as displayed on Plugin Boutique — your local currency may differ. Individual product discounts vary across the catalog, so check each listing for exact savings.
-
-Verify current pricing on the product page — deals can change. Sale runs through April 30, 2026.
-
-[Browse all Excite Audio deals →](https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-on-excite-audio-s-effect-plugins-virtual-instruments)
-
-## Alternatives at a Glance
-
-| Name | Price Range | Key Difference |
-|---|---|---|
-| iZotope Insight 2 | ~$199 | Industry-standard metering suite with loudness compliance tools (vs. VISION 4X's genre reference approach) |
-| Spitfire LABS | Free | Free orchestral and textural instruments, though without Bloom's sample import or deep editing |
-| Soundtoys 5 Bundle | ~$499 (often on sale) | Established creative effects collection with a larger legacy user base |
-
+| Product 
 If metering and visual analysis are the priority, iZotope Insight 2 is the established benchmark — but VISION 4X covers similar ground at a lower price point. For free orchestral sounds, Spitfire LABS is hard to beat, though Bloom offers deeper sound design with custom sample support. Soundtoys covers creative effects territory similar to the Motion series but with a much larger plugin count.
 
 ## FAQ
@@ -72,9 +50,9 @@ A: Excite Audio plugins are available in VST, VST3, AU, and AAX formats with M1/
 **Q: How long does this sale last?**
 A: The sale runs through April 30, 2026 at Plugin Boutique. Pricing and availability may change, so verify before purchasing.
 
-## Get the Deal
+## Where to Buy
 
-Up to 52% off Excite Audio's full lineup of effects and instruments — that's a solid entry point into a growing catalog. Sale ends April 30, 2026.
+ Sale ends April 30, 2026.
 
 [See all Excite Audio deals at Plugin Boutique →](https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-on-excite-audio-s-effect-plugins-virtual-instruments)
 

@@ -1,25 +1,21 @@
 ---
-title: "87% Off DUST"
-description: "DUST is currently 87% off at Plugin Boutique — down from ~~$163.9~~ to just **$20.9**. That's over $140 in savings on a synthesizer plugin that normally..."
-pubDate: "2026-05-01T15:00:05Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
+title: "DUST: Features, Pricing & Is It Worth It? (2026)"
+description: "DUST is a synthesizer plugin available on Plugin Boutique, built around textured, atmospheric sound design. Check current pricing at Plugin Boutique."
+pubDate: '2026-05-01T15:00:05Z'
+tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10541-DUST?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dust-9455cf"
-heroImage: "/images/dust-9455cf.jpg"
+heroImage: /images/dust-9455cf.jpg
 score: 8.70
-dealPrice: "$20.9"
-originalPrice: "$163.9"
-discount: "87% OFF"
-xText: "dust just hit 87% off—lowest price ever tracked. sound design synth that doesn't murder your cpu and actually sounds professional. this window closes fast."
 draft: false
+converted: true
 ---
-**TL;DR:** DUST is currently 87% off at Plugin Boutique — down from ~~$163.9~~ to just **$20.9**. That's over $140 in savings on a synthesizer plugin that normally commands a premium price. [Grab it here before the deal expires.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10541-DUST?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dust-9455cf)
+**DUST** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10541-DUST?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dust-9455cf)
 
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-t1qkjekBsw" title="87% Off DUST — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-t1qkjekBsw" title="DUST — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is DUST?
 
@@ -44,21 +40,15 @@ Based on the product listing, DUST offers a focused sound design toolkit. Verify
 - **Lo-fi and chillhop producers** — DUST's textured character suits the warm, degraded aesthetic that defines these genres
 - **Ambient and experimental composers** — producers building atmospheric soundscapes will find the tonal palette immediately useful
 - **Film and sync composers** — the distinctive, non-generic sound design language can cut through reference-heavy sessions
-- **Budget-conscious beatmakers** — at $20.9, it's a low-risk way to add a unique tonal voice to a growing plugin library
+- **9, it's a low-risk way to add a unique tonal voice to a growing plugin library
 
 ---
-
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$163.9~~ | **$20.9** | ~$143 (87%) |
 
 An 87% discount is deep — this isn't a typical 20-30% seasonal sale. Deals at this level on Plugin Boutique often signal a limited-window promotion, so it's worth acting quickly if DUST fits your workflow.
 
 Verify current pricing on the product page — deals can change.
 
-[→ Get DUST for $20.9 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10541-DUST?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dust-9455cf)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10541-DUST?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dust-9455cf)
 
 ---
 
@@ -85,12 +75,12 @@ A: Confirm supported formats (VST2, VST3, AU, AAX) on the product page, as forma
 **Q: Is there a refund policy if it doesn't fit my workflow?**
 A: Plugin Boutique's refund policy applies — check their terms of service directly for current details on digital software purchases.
 
-**Q: How long is the 87% off deal available?**
+****
 A: Deal durations aren't always published in advance. Check the product page for any listed expiry, and don't assume it runs indefinitely.
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 87% off puts DUST at impulse-buy territory — $20.9 for a synth with a $163.9 list price is a straightforward win if the aesthetic matches your sound. [Lock in the deal at Plugin Boutique now.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10541-DUST?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dust-9455cf)
 
