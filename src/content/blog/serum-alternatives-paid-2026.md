@@ -43,6 +43,9 @@ This article is written for producers who already understand synthesis and are m
 ## Paid Serum Alternatives Worth Your Money
 
 ### Phase Plant — the modular-architecture pick for producers who think in signal flow
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/hYf0aHswino" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Kilohearts
 - **Price:** $149 (standalone); available as part of Kilohearts Toolbox subscription
 - **Platforms:** Windows, macOS
@@ -84,6 +87,9 @@ The preset library shipped with Pigments earns consistently positive reviews acr
 ### Spire — the EDM workhorse with a decade of community validation
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/0rDowVRCubk" title="Spire — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/0rDowVRCubk" title="Spire — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Reveal Sound
 - **Price:** $119
 - **Platforms:** Windows, macOS
@@ -193,6 +199,7 @@ Community consensus splits by genre: Spire's factory presets are most immediatel
 
 ## Related Guides
 
+- [Best Synth Plugins 2026 — Ranked: Free & Paid VSTs for Every Style](/posts/best-synth-plugins-2026/)
 - [Serum VST Review 2026: Is It Still the Best Wavetable Synth?](/posts/serum-vst-review/)
 - [Phase Plant vs Serum: Which Wavetable Synth Wins in 2026?](/posts/phase-plant-vs-serum/)
 - [Vital Synthesizer Review 2026: The Best Free Synth?](/posts/best-free-synth-plugins/)

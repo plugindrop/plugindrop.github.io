@@ -91,6 +91,9 @@ What separates Pro-Q 4 from cheaper alternatives is its phase response flexibili
 ### Step 3: Full Mastering Suite
 
 ### iZotope Ozone 12 — The most complete AI-powered mastering environment available
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="iZotope Ozone 12 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** iZotope
 - **Price:** $349 (Standard)
 - **Platforms:** Windows, macOS
@@ -260,6 +263,7 @@ The complete mastering chain outlined here — SPAN for analysis, FabFilter Pro-
 
 ## Related Guides
 
+- [Plugin Bundle Price Comparison 2026 — Cost Per Plugin Ranked](/bundle-comparison/)
 - [iZotope Ozone vs FabFilter Mastering: Which Wins?](/posts/izotope-ozone-vs-fabfilter-mastering/)
 - [FabFilter Pro-L 2 Review: Best Mastering Limiter?](/posts/fabfilter-pro-l-2-review/)
 - [Best Free Mastering Plugins 2026](/posts/best-free-mastering-plugins/)

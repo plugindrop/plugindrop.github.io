@@ -17,6 +17,7 @@ score: 1.56
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wSs1-020nNY" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Dexed?
 
 Dexed is a free, open-source FM synthesizer by Digital Suburban. It's a software emulation of the Yamaha DX7 — the best-selling synthesizer of the 1980s. The DX7's FM synthesis engine produced the electric pianos, basses, bells, and pads heard across thousands of records. Dexed recreates that engine and can load original DX7 SysEx patch data, giving access to decades of DX7 sounds.
@@ -85,6 +86,7 @@ The DX7 defined a decade of music. Dexed brings that engine to your DAW. Free. O
 [Get Dexed — FREE](https://asb2m10.github.io/dexed/)
 
 ## Related Guides
+- [Best Synth Plugins 2026 — Ranked: Free & Paid VSTs for Every Style](/posts/best-synth-plugins-2026/)
 - [Best Free Synth Plugins of 2026](/posts/best-free-synth-plugins/)
 - [Vital Synthesizer Review 2026](/posts/best-free-synth-plugins/)
 - [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)
