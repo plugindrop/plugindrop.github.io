@@ -61,14 +61,11 @@ A: System requirements and supported formats (VST, AU, AAX, etc.) are listed on 
 **Q: Does Plugin Boutique offer refunds on plugin purchases?**
 A: Refund policies vary by developer. Check Plugin Boutique's terms of service and the individual product listing for details.
 
-**Q: Is this the lowest price INTENSITY 2 has been?**
-A: Deal history isn't tracked in this article — check sites like Plugin Deals or KVR's price history discussions for historical pricing context.
-
 ---
 
 ## Where to Buy
 
-**$50 off** a dynamics processor is a solid window to grab a tool you'd otherwise pay full price for. If your mix chain is missing a dedicated dynamics shaper, this is worth a look at the current price.
+**$50 off** a dynamics processor is a solid window to grab a tool you'd otherwise pay for. If your mix chain is missing a dedicated dynamics shaper, this is worth a look at the current price.
 
 [Pick up INTENSITY 2 for $99 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=intensity-2-cfc08a)
 

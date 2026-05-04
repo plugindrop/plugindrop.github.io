@@ -10,7 +10,7 @@ aiImage: true
 draft: false
 converted: true
 ---
-**UVI offers 60% off on all Quadra** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?search_query=uvi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a)
+** [Check the current price here.](https://www.pluginboutique.com/search?search_query=uvi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a)
 
 ---
 
@@ -63,7 +63,7 @@ A: Check UVI's official website for their current return and refund policy befor
 
 ## Where to Buy
 
- The sale closes April 6th. [Pick up the Quadra deal here](https://www.pluginboutique.com/search?search_query=uvi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a).
+  [Pick up the Quadra deal here](https://www.pluginboutique.com/search?search_query=uvi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a).
 
 ---
 

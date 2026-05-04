@@ -74,9 +74,6 @@ If you want one plugin that handles the full vocal chain with SSL character at u
 **Q: Does SSL Native Vocalstrip 2 require iLok?**
 A: Check the official product page for current activation requirements — SSL's licensing terms can vary by product version.
 
-**Q: Is this a plugin subscription or a permanent license?**
-A: Based on the Plugin Boutique listing, this is a perpetual license purchase. Verify on the product page to confirm what's included.
-
 **Q: What plugin formats does Vocalstrip 2 support?**
 A: Check the product page for the current list of supported formats (VST, AU, AAX, etc.) and compatible DAWs.
 

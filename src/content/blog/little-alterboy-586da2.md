@@ -76,9 +76,6 @@ A: No physical dongle is required. Activation is handled through iLok License Ma
 **Q: What DAWs does Little AlterBoy support?**
 A: It supports VST, AU, and AAX formats, covering most major DAWs including Ableton Live, Logic Pro, Pro Tools, FL Studio, and Cubase. Verify specific version compatibility on the product page.
 
-**Q: Is this a perpetual license or subscription?**
-A: Little AlterBoy is sold as a perpetual license — you pay once and own it. No ongoing subscription required.
-
 **Q: What are the system requirements?**
 A: Check the official Soundtoys product page for current macOS and Windows version requirements, as these can update with new releases.
 

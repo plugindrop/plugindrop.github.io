@@ -65,9 +65,6 @@ A: No. UVI supports iLok Cloud licensing, so a physical dongle is not required â
 **Q: What software do I need to run UVI cinematic libraries?**
 A: UVI libraries run inside UVI Workstation, which is free to download, or inside Falcon. No additional instrument purchase is needed beyond the library itself.
 
-**Q: Is this a one-time purchase or a subscription?**
-A: UVI cinematic libraries sold individually are perpetual licenses â€” one-time purchase, no recurring fees.
-
 **Q: Are these libraries compatible with all major DAWs?**
 A: UVI Workstation operates as a VST, AU, and AAX plugin, covering compatibility with major DAWs including Ableton, Logic, Pro Tools, and others.
 

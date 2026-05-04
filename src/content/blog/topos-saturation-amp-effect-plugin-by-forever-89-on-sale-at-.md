@@ -73,7 +73,7 @@ A: Downloading the free Topos: Play version is the best way to test the workflow
 
 ## Where to Buy
 
-30% off Topos brings it down to $69 — the lowest price seen on this plugin to date. If saturation, amp modeling, and speaker simulation in a single streamlined interface sounds like your lane, this is a solid time to jump in.
+ If saturation, amp modeling, and speaker simulation in a single streamlined interface sounds like your lane, this is a solid time to jump in.
 
 [Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=plugindrop&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763)
 

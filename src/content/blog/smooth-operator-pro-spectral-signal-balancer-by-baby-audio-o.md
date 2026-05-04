@@ -41,7 +41,7 @@ Baby Audio has built a strong reputation in the plugin community, and Smooth Ope
 - **Mastering engineers** — Spectral balancing across the full mix can serve as a gentle corrective step in mastering chains
 - **Vocal producers** — Commonly used to tame resonances and sibilance in vocal recordings without heavy-handed processing
 
-The sale runs through **April 12, 2026**. Baby Audio doesn't run deep discounts constantly, so a ~39% cut is worth paying attention to if this plugin has been on your radar. That said, Plugin Boutique occasionally features Baby Audio in broader sales events, so there's historical precedent for deals in this price range.
+ Baby Audio doesn't run deep discounts constantly, so a ~39% cut is worth paying attention to if this plugin has been on your radar. That said, Plugin Boutique occasionally features Baby Audio in broader sales events, so there's historical precedent for deals in this price range.
 
 [Pick up Smooth Operator Pro for $79 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o&a_aid=69cb95abe1763)
 
@@ -65,9 +65,6 @@ A: The Pro version adds per-node surgical control and deeper advanced settings c
 
 **Q: Does Smooth Operator Pro require iLok?**
 A: Check Baby Audio's official site for current activation and licensing details.
-
-**Q: How long does the sale last?**
-A: The current deal runs through April 12, 2026. Pricing may change after that date.
 
 ## Where to Buy
 

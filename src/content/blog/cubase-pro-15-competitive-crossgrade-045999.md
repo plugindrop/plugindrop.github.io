@@ -70,9 +70,6 @@ Logic Pro is the most cost-efficient option if you're on Mac and don't need cros
 **Q: What qualifies me for the competitive crossgrade pricing?**
 A: You need a valid license for a qualifying competing DAW. Check the Plugin Boutique product page and Steinberg's official site for the current list of eligible products before purchasing.
 
-**Q: Is this a perpetual license or a subscription?**
-A: Cubase Pro has traditionally been sold as a perpetual license. Verify the exact license type and any maintenance plan details on the product page before buying.
-
 **Q: Does Cubase Pro 15 require a hardware dongle?**
 A: Steinberg has moved toward their newer software-based licensing system in recent versions. Check the current activation requirements on Steinberg's official site to confirm what's needed for Cubase Pro 15.
 

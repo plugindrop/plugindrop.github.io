@@ -19,7 +19,7 @@ converted: true
 
 ## What Is the Motion Bundle?
 
-The Motion Bundle is an effects plugin bundle available exclusively through Plugin Boutique, built around dynamic, movement-driven audio processing. Bundling multiple effects tools under one purchase, it's positioned at producers who want to add life, rhythm, and evolving texture to their mixes without buying individual plugins at full price. Plugin Boutique regularly features curated bundles like this as part of their deal rotation — the 50% discount makes this one worth a close look.
+The Motion Bundle is an effects plugin bundle available exclusively through Plugin Boutique, built around dynamic, movement-driven audio processing. Bundling multiple effects tools under one purchase, it's positioned at producers who want to add life, rhythm, and evolving texture to their mixes without buying individual plugins at. Plugin Boutique regularly features curated bundles like this as part of their deal rotation — the 50% discount makes this one worth a close look.
 
 ---
 
@@ -42,7 +42,7 @@ The Motion Bundle is an effects plugin bundle available exclusively through Plug
 
 ---
 
-50% off is a meaningful discount for an effects bundle. Plugin Boutique runs periodic sales, but half-price on a full bundle is toward the deeper end of their typical deal range. If you're considering this for your workflow, this is a natural buy window.
+ Plugin Boutique runs periodic sales, but half-price on a full bundle is toward the deeper end of their typical deal range. If you're considering this for your workflow, this is a natural buy window.
 
 The per-unit cost will depend on how many plugins are included — check the product page for the full breakdown, which will let you calculate individual value.
 
@@ -73,9 +73,6 @@ A: Check the official product page for activation and licensing requirements —
 
 **Q: What DAWs are compatible with this bundle?**
 A: Check the system requirements on the Plugin Boutique product page, as compatibility details (plugin format, OS support) are listed there and may vary by included plugin.
-
-**Q: Is this deal time-limited?**
-A: Plugin Boutique deals can expire without notice. Verify current pricing on the product page before purchasing.
 
 ---
 

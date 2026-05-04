@@ -72,9 +72,6 @@ If you're already in the UAD ecosystem, their SSL 9000 J may integrate more natu
 **Q: Does bx_console SSL 9000 J require iLok?**
 A: Check the official product page for current activation requirements — Brainworx plugins have historically used Plugin Alliance's own licensing system, but verify before purchasing.
 
-**Q: Is this a limited-time deal?**
-A: Deal pricing at Plugin Boutique can end without notice. Check the product page for the current price before purchasing.
-
 **Q: What DAWs are compatible?**
 A: Check the product page for the full system requirements and supported DAW/plugin format list.
 

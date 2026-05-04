@@ -13,8 +13,6 @@ converted: true
 
 ---
 
-Now I have everything I need. Writing the article.
-
 ---
 
 ---

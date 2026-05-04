@@ -41,8 +41,6 @@ SynthMaster One is a wavetable and VA (virtual analog) synthesizer developed by 
 - **Existing SynthMaster 2 users** — SynthMaster One complements the full version as a faster, lighter tool for quick patch iteration.
 ---
 
-##  Deals like this can expire without notice.
-
 [Check current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/3188-SynthMaster-One?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthmaster-one-92be53)
 
 ---
@@ -63,9 +61,6 @@ If you want a capable wavetable synth with a zero-cost entry point, Vital's free
 
 **Q: Does SynthMaster One require iLok?**
 A: SynthMaster One does not require iLok hardware — check the official product page for the current activation method and license terms.
-
-**Q: Is this a perpetual license or a subscription?**
-A: Plugin Boutique listings for SynthMaster One are typically perpetual licenses. Confirm on the product page before purchase.
 
 **Q: What are the system requirements?**
 A: Check the official product page for current macOS/Windows version requirements and minimum CPU/RAM specs.

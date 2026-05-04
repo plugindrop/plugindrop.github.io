@@ -40,13 +40,13 @@ Leapwing Audio has built a strong reputation in professional mixing and masterin
 
 Leapwing Audio doesn't run sales constantly, so when discounts appear, they're worth noting. Here's a snapshot based on available pricing info:
 
-| Plugin | Regular Price | Deal Price (up to 40% off) | Buy |
+| Plugin | Regular Price | Sale Price | Buy |
 |---|---|---|---|
-| StageOne 2 | ~~$249~~ | ~$149 | [Buy on KVR](https://www.kvraudio.com/product/stageone-2-by-leapwing-audio) |
-| LimitOne | ~~$249~~ | ~$149 | [Buy on KVR](https://www.kvraudio.com/product/limitone-by-leapwing-audio) |
-| DynOne 3 | ~~$199~~ | ~$119 | [Buy on KVR](https://www.kvraudio.com/product/dynone-by-leapwing-audio) |
-| RootOne | ~~$199~~ | ~$119 | [Buy on KVR](https://www.kvraudio.com/product/rootone-by-leapwing-audio) |
-| CenterOne | ~~$199~~ | ~$119 | [Buy on KVR](https://www.kvraudio.com/product/centerone-by-leapwing-audio) |
+| StageOne 2 | | ~$149 | [Buy on KVR](https://www.kvraudio.com/product/stageone-2-by-leapwing-audio) |
+| LimitOne | | ~$149 | [Buy on KVR](https://www.kvraudio.com/product/limitone-by-leapwing-audio) |
+| DynOne 3 | | ~$119 | [Buy on KVR](https://www.kvraudio.com/product/dynone-by-leapwing-audio) |
+| RootOne | | ~$119 | [Buy on KVR](https://www.kvraudio.com/product/rootone-by-leapwing-audio) |
+| CenterOne | | ~$119 | [Buy on KVR](https://www.kvraudio.com/product/centerone-by-leapwing-audio) |
 
 *Note: "Up to 40%" means discounts vary by product. Verify current pricing on the product page — deals can change without notice.*
 
@@ -72,9 +72,6 @@ A: Check the Leapwing Audio website for current authorization and licensing deta
 
 **Q: Are Leapwing Audio plugins CPU-heavy?**
 A: For specific system requirements and CPU benchmarks, check the official product page for the plugin you're interested in.
-
-**Q: Is this the lowest price Leapwing Audio plugins have been?**
-A: Leapwing has occasionally run deeper discounts on individual products (up to 50% on select items). You can track price history on sites like [MusicSoftwareDeals](https://musicsoftwaredeals.com/manufacturer/leapwing-audio/) to compare.
 
 ## Where to Buy
 

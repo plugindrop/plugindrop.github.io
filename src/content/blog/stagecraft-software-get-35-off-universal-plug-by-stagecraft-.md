@@ -71,7 +71,7 @@ A: The developer lists macOS 10.13+ (Intel and Apple Silicon) and Windows 7+. Ch
 
 ## Where to Buy
 
-~~$70~~ down to **$45.50** — that's $24.50 back in your pocket for a tool that removes DAW format headaches permanently. Sale ends April 12th. 
+ down to **$45.50** — that's $24.50 back in your pocket for a tool that removes DAW format headaches permanently.  
 
 ---
 

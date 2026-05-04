@@ -59,15 +59,12 @@ A: UJAM typically uses its own license system without requiring an iLok dongle, 
 **Q: What plugin formats does Usynth Core support?**
 A: Check the Plugin Boutique product page for current format support (VST/AU/AAX) and DAW compatibility.
 
-**Q: Is this deal only available on Plugin Boutique?**
-A: This specific $19 deal is listed at Plugin Boutique. Pricing on other platforms may differ.
-
 **Q: Is there a free trial available?**
 A: Trial availability varies by developer — check the product page for demo options.
 
 ## Where to Buy
 
-~~$29~~ crossed out, $19 in your cart.  At this price, it's a straightforward pickup.
+ crossed out, $19 in your cart.  At this price, it's a straightforward pickup.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8862-Usynth-Core?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=usynth-core-0be891)
 

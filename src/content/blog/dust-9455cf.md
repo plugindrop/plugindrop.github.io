@@ -56,7 +56,7 @@ Verify current pricing on the product page — deals can change.
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Arturia Pigments | ~$99 (full price) | Broader multi-engine synthesis with visual modulation; wider scope |
+| Arturia Pigments | ~$99 | Broader multi-engine synthesis with visual modulation; wider scope |
 | Vital | Free / $25–$80 | Spectral wavetable synth with a large free-tier feature set |
 | LABS (Spitfire) | Free | Focused on acoustic and organic textures, sample-based rather than synthesis |
 
@@ -81,7 +81,7 @@ A: Deal durations aren't always published in advance. Check the product page for
 
 ## Where to Buy
 
-87% off puts DUST at impulse-buy territory — $20.9 for a synth with a $163.9 list price is a straightforward win if the aesthetic matches your sound. [Lock in the deal at Plugin Boutique now.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10541-DUST?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dust-9455cf)
+9 for a synth with a $163.9 list price is a straightforward win if the aesthetic matches your sound. [Lock in the deal at Plugin Boutique now.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10541-DUST?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dust-9455cf)
 
 ---
 

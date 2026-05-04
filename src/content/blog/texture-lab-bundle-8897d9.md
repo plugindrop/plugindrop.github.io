@@ -44,7 +44,7 @@ The Texture Lab Bundle is an effects bundle available exclusively through Plugin
 
 ## Current Pricing
 
-60% off is a significant discount for a dedicated effects bundle — most Plugin Boutique sales on curated bundles land in the 30–50% range, so this sits above the typical threshold. Whether this price point returns regularly isn't publicly confirmed, so treat it as an opportunistic buy if the content matches your needs.
+ Whether this price point returns regularly isn't publicly confirmed, so treat it as an opportunistic buy if the content matches your needs.
 
 Verify current pricing on the product page — deals can change.
 

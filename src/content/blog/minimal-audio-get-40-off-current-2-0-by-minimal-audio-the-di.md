@@ -85,7 +85,7 @@ A: Refund policies vary by store. Check Plugin Boutique's terms directly before 
 
 ## Where to Buy
 
-40% off a flagship synthesizer from a developer with a distinct technical approach is the kind of discount worth acting on before it disappears. [Get Current 2.0 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=plugindrop&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763) and confirm the deal is still live before checkout.
+ [Get Current 2.0 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=plugindrop&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763) and confirm the deal is still live before checkout.
 
 ---
 

@@ -61,9 +61,6 @@ If your priority is realistic acoustic instruments and amp simulation in one pac
 **Q: Does IK Multimedia Total VI MAX 2 require an iLok dongle?**
 A: IK Multimedia uses its own authorization system (IK Product Manager), not iLok. Confirm the exact activation method and device limit on the official product page.
 
-**Q: Is this a one-time purchase or a subscription?**
-A: IK Multimedia bundles are typically sold as perpetual licenses. Verify the license terms on the Plugin Boutique product page before purchase.
-
 **Q: What are the system requirements?**
 A: System requirements vary by included title. Check the official product page for minimum and recommended specs for your OS.
 

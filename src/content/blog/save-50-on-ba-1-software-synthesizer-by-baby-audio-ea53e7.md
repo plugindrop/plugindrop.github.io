@@ -50,7 +50,7 @@ BA-1 has developed a consistent following among producers who gravitate toward t
 
 Verify the exact current pricing on the [Plugin Boutique product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=plugindrop&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763) — deals can change, and the live price is always the most accurate number.
 
-Baby Audio doesn't run frequent deep discounts. A 50% sale is on the larger end for this developer, which makes this worth paying attention to if BA-1 has been on your radar.
+ A 50% sale is on the larger end for this developer, which makes this worth paying attention to if BA-1 has been on your radar.
 
 ---
 
@@ -74,9 +74,6 @@ A: Baby Audio plugins do not require a physical iLok dongle — check the produc
 **Q: What formats does BA-1 support (VST, AU, AAX)?**
 A: Check the official product page for the current list of supported plugin formats and DAW compatibility.
 
-**Q: Is this a time-limited sale?**
-A: Sale end dates aren't always published in advance. Verify the current offer on the Plugin Boutique listing, as pricing can revert without notice.
-
 **Q: Can I use BA-1 expansion packs with this purchase?**
 A: BA-1 supports expansion packs sold separately. The base synth purchase gives you access to the included factory library — check the product page for bundle options.
 
@@ -84,7 +81,10 @@ A: BA-1 supports expansion packs sold separately. The base synth purchase gives 
 
 ## Where to Buy
 
-50% off a well-regarded analog monosynth from one of the more respected boutique plugin developers around — that's a deal worth acting on. 
+ 
+
+
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=plugindrop&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763)
 
 ---
 

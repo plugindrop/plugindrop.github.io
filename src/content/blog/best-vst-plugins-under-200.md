@@ -1,5 +1,5 @@
 ---
-title: "15 Best VST Plugins Under $200 in 2026, Ranked (Professional Sound, Honest Price)"
+title: "15 Best VST Plugins Under $200 in 2026 — Ranked"
 description: "Serum 2, FabFilter Pro-C 2, and Valhalla VintageVerb are the three purchases under $200 where no free alternative closes the gap in 2026. Add iZotope..."
 pubDate: "2026-05-29T02:22:38Z"
 tags: ["guide", "vst", "value"]

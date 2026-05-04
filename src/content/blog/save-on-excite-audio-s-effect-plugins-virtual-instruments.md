@@ -47,12 +47,9 @@ A: Yes. All Bloom instruments use royalty-free sounds, so they can be used in co
 **Q: What formats and DAWs are supported?**
 A: Excite Audio plugins are available in VST, VST3, AU, and AAX formats with M1/M2 native support. For specific DAW compatibility and system requirements, check the official product pages.
 
-**Q: How long does this sale last?**
-A: The sale runs through April 30, 2026 at Plugin Boutique. Pricing and availability may change, so verify before purchasing.
-
 ## Where to Buy
 
- Sale ends April 30, 2026.
+ 
 
 [See all Excite Audio deals at Plugin Boutique →](https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-on-excite-audio-s-effect-plugins-virtual-instruments)
 

@@ -75,14 +75,8 @@ If your priority is SSL's specific analog color and you're building a bus proces
 **Q: Does the SSL Fusion Bundle require an iLok dongle?**
 A: SSL's recent plugin releases use a license server-based activation rather than a physical iLok dongle, but check the official site to confirm the exact activation method for this bundle.
 
-**Q: Is this bundle compatible with all major DAWs?**
-A: SSL plugins support VST, VST3, AU, and AAX formats, covering all major DAWs including Ableton Live, Logic Pro, Pro Tools, and Cubase. Confirm format availability on the product page for your specific DAW.
-
 **Q: Can I upgrade from individual SSL Fusion plugins I already own?**
 A: Plugin Boutique's bundle pricing does not typically offer ownership-based upgrade discounts; check the product page for any crossgrade options.
-
-**Q: Is this a time-limited deal?**
-A: The deal is listed as active on Plugin Boutique; pricing can change without notice.
 
 ---
 

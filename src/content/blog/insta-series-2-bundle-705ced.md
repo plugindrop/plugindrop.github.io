@@ -38,7 +38,7 @@ The Insta Series 2 Bundle is a multi-instrument collection available exclusively
 
 ## Current Pricing
 
-87% off is an exceptional discount depth — most instrument bundles at Plugin Boutique see occasional 30–50% sales, so a deal at this level is worth paying attention to. The $36 price point means you're paying less than the cost of a single mid-tier plugin for a full bundle of instruments.
+ The $36 price point means you're paying less than the cost of a single mid-tier plugin for a full bundle of instruments.
 
 > Note: Verify current pricing on the product page — deals can change without notice.
 
@@ -68,9 +68,6 @@ A: Check the official product page for activation requirements — Plugin Boutiq
 
 **Q: What DAWs are compatible with these instruments?**
 A: Compatibility details vary by instrument format. Verify DAW and OS requirements on the product page before purchasing.
-
-**Q: How long is the deal available?**
-A: Deal duration is not confirmed — Plugin Boutique promotions can end without advance notice, so act sooner rather than later.
 
 ---
 

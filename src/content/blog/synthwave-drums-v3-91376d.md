@@ -37,11 +37,11 @@ Synthwave Drums V3 is a drum instrument plugin built specifically for the synthw
 - **Synthwave and retrowave producers** — the entire sound design focus points here; if 80s drum machines are your reference, this plugin is built for that lane
 - **Lo-fi and chillwave beatmakers** — the retro drum textures translate well beyond strict synthwave into adjacent lo-fi and chillwave production styles
 - **Producers new to the genre** — at $29, the barrier to entry is low enough that this works as an affordable first dedicated synthwave drum tool
-- **Home studio producers on a budget** — 71% off a purpose-built instrument is meaningful savings compared to piecing together individual sample packs
+- **Home studio producers on a budget** — a purpose-built drum instrument offers better workflow compared to piecing together individual sample packs
 
 ---
 
-71% off is a significant discount for a dedicated instrument plugin. Sales at this depth don't always repeat on a predictable schedule — if you've been sitting on the fence about adding a dedicated synthwave drum tool, this is a meaningful price drop worth acting on.
+ Sales at this depth don't always repeat on a predictable schedule — if you've been sitting on the fence about adding a dedicated synthwave drum tool, this is a meaningful price drop worth acting on.
 
 Verify current pricing on the product page — deals can change.
 
@@ -68,9 +68,6 @@ A: Check the product page for exact activation method — Plugin Boutique lists 
 
 **Q: What plugin formats does it support (VST, AU, AAX)?**
 A: Supported formats and OS requirements are listed on the official product page; confirm before purchasing if format compatibility is a concern.
-
-**Q: Is this a sample library or a plugin instrument?**
-A: It's categorized as a Drum Machine instrument on Plugin Boutique, meaning it runs as a plugin instrument in your DAW — not a folder of samples for a separate sampler.
 
 **Q: What is Plugin Boutique's refund policy?**
 A: Refund and return policies vary by product type. Check Plugin Boutique's terms of service or contact their support team directly for current policy details.

@@ -62,9 +62,6 @@ A: Plugin Boutique products typically use their own licensing system. Check the 
 **Q: Can I use my own samples in these plugins?**
 A: Yes. DC Snares supports drag-and-drop sample import across its four sound slots. BigKick also allows you to import your own attack samples and export finished kicks via drag-and-drop.
 
-**Q: How long does the deal last?**
-A: Verify on the product page as end dates can shift.
-
 ## Where to Buy
 
 If kick and snare sound design is part of your workflow, the math on this bundle speaks for itself.

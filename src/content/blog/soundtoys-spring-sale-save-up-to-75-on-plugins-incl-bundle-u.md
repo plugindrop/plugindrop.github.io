@@ -17,8 +17,6 @@ converted: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yt8pFK6fJk4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Soundtoys Spring Sale: Up to 75% Off Plugins, Bundles & Upgrades
-
 Soundtoys doesn't flood the market with discounts every month. When they do run a sale, especially one touching 75%, it's worth paying attention — particularly if Little AlterBoy or the full Soundtoys bundle has been on your wishlist.
 
 ---
@@ -86,7 +84,7 @@ A: Check the official product page for confirmed format support (VST, AU, AAX) a
 
 ## Where to Buy
 
-Up to 75% off Soundtoys plugins — including Little AlterBoy, the full bundle, and upgrade paths — is one of the stronger discount windows this brand runs. If it's been on your list, this is a credible buying window.
+ If it's been on your list, this is a credible buying window.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u&a_aid=69cb95abe1763)
 

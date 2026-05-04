@@ -74,9 +74,6 @@ If your priority is workflow speed and genre breadth in one package, the Custom 
 **Q: Does Addictive Drums 2 require iLok?**
 A: No — AD2 uses XLN Audio's own license system, not iLok. Check the official XLN Audio site for current activation details.
 
-**Q: Is this a perpetual license or a subscription?**
-A: The Custom XXL Collection is sold as a perpetual license. Check the product page to confirm what's included at the time of purchase.
-
 **Q: What DAWs is AD2 compatible with?**
 A: AD2 supports VST, AU, and AAX formats, covering Ableton Live, Logic Pro, Pro Tools, FL Studio, Cubase, and most other major DAWs. Standalone operation is also included.
 

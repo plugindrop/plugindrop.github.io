@@ -59,9 +59,9 @@ Sales on label-branded plugins like this don't follow the predictable quarterly 
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Effectrix (Sugar Bytes) | ~$99 full price | Sequenced multi-effect with step-based pattern control |
-| Turnado (Sugar Bytes) | ~$99 full price | Real-time performance-focused multi-effect with macro knobs |
-| Output Portal | ~$99 full price | Granular effects processor, distinct sonic character |
+| Effectrix (Sugar Bytes) | ~$99 | Sequenced multi-effect with step-based pattern control |
+| Turnado (Sugar Bytes) | ~$99 | Real-time performance-focused multi-effect with macro knobs |
+| Output Portal | ~$99 | Granular effects processor, distinct sonic character |
 
 If you need a performance-oriented multi-effect for live sets and real-time manipulation, Turnado covers that ground. 
 
@@ -75,9 +75,6 @@ A: Check the product page on Plugin Boutique for current activation and licensin
 **Q: What plugin formats does Infinite support?**
 A: Format availability (VST, AU, AAX) should be confirmed on the official product page before purchasing.
 
-**Q: Is this deal available outside Plugin Boutique?**
-A: This deal is listed at Plugin Boutique. Check there directly for availability and regional pricing.
-
 **Q: Is Infinite suitable for genres outside of house music?**
 A: It is a general multi-effect plugin, but its presets and design are oriented toward electronic and dance music production. Producers in other genres can use it, though the preset library reflects a specific sonic focus.
 
@@ -85,8 +82,7 @@ A: It is a general multi-effect plugin, but its presets and design are oriented 
 
 ## Where to Buy
 
-At $29, Infinite offers a label-branded, dance-music-focused multi-effect processor at a price that's easy to justify for any electronic producer. Don't wait on this one — label plugin deals at this price don't come around often.
-
+At $29, Infinite offers a label-branded, dance-music-focused multi-effect processor at a price that's easy to justify for any electronic producer. 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/9129-Infinite?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=infinite-multi-effect-plugin-by-toolroom-on-sale-for-29-usd)
 
 ---

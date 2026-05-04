@@ -41,7 +41,7 @@ Check the [official product page](https://www.pluginboutique.com/product/2-Effec
 
 ---
 
- Many specialized effects plugins in the $100–$150 range don't see frequent discounts, so if PUNCH is on your radar, it's worth comparing this price against what you've seen before. Deals like this on Plugin Boutique can expire without warning.
+ Many specialized effects plugins in the $100–$150 range don't see frequent discounts, so if PUNCH is on your radar, check current pricing on the product page.
 
 **[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14224-PUNCH?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=punch-09c52f)**
 

@@ -52,7 +52,7 @@ Based on its positioning as a Virtual Instrument on Plugin Boutique:
 | Name | Price (approx.) | Key Difference |
 |---|---|---|
 | Vital | Free / paid tiers | Wavetable synth with visual modulation; free tier is highly capable |
-| Pigments (Arturia) | ~$99 full price | Multi-engine synth with deeper modulation matrix and larger sound library |
+| Pigments (Arturia) | ~$99 | Multi-engine synth with deeper modulation matrix and larger sound library |
 | LABS (Spitfire Audio) | Free | Sample-based instruments with a textural, cinematic focus |
 
 If budget is the primary concern and you want texture-forward sounds at no cost, LABS is a strong free option. For producers who want a deeper modulation system and broader sound design capability, Pigments covers more ground at a higher price point. Bloom Palette Object sits in the middle — a focused, affordable option for a specific sound character.

@@ -60,7 +60,7 @@ Cherry Audio doesn't run deep discounts constantly — this $29 price point repr
 | Name | Price | Key Difference |
 |---|---|---|
 | Arturia Jupiter-8 V | Part of V Collection | Emulates the Jupiter-8 (8-voice), more voices and wider modulation matrix |
-| TAL-U-NO-LX | ~$60 full price | Emulates the Juno-60; simpler single-DCO architecture, different character |
+| TAL-U-NO-LX | ~$60 | Emulates the Juno-60; simpler single-DCO architecture, different character |
 | Roland Cloud Jupiter-6 | Subscription model | Official Roland emulation; requires Roland Cloud subscription rather than outright purchase |
 
 If you need the broader modulation depth of the Jupiter-8 architecture, Arturia's V Collection route covers more ground — at a significantly higher cost.
@@ -75,9 +75,6 @@ A: Cherry Audio uses their own licensing system and does not require iLok. Check
 **Q: What formats does Mercury-6 support?**
 A: Cherry Audio plugins typically support VST, VST3, AU, and AAX. Verify the exact format list on the Plugin Boutique product page.
 
-**Q: Is this a one-time purchase or a subscription?**
-A: It is a one-time purchase — no ongoing subscription fees.
-
 **Q: What are the system requirements?**
 A: Check the official product page for current macOS/Windows compatibility and minimum specs, as these are updated with new versions.
 
@@ -85,7 +82,7 @@ A: Check the official product page for current macOS/Windows compatibility and m
 
 ## Where to Buy
 
-$29 for a full polyphonic vintage synth emulation from a trusted developer is the kind of deal worth bookmarking — or just buying outright. Don't wait on it.
+$29 for a full polyphonic vintage synth emulation from a trusted developer is the kind of deal worth bookmarking.
 
 [Pick up the Cherry Audio Mercury-6 at Plugin Boutique for $29 →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd)
 

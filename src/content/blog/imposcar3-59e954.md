@@ -79,9 +79,6 @@ A: GForce Software uses its own license activation system, not iLok hardware. Ch
 **Q: Is impOSCar3 available in VST, AU, and AAX formats?**
 A: GForce titles typically support VST, AU, and AAX across Mac and Windows. Confirm current format support on the product listing before purchasing.
 
-**Q: Is this a free upgrade from impOSCar2?**
-A: Upgrade pricing and eligibility for existing impOSCar owners should be confirmed directly with GForce or on the Plugin Boutique product page.
-
 **Q: Can I use impOSCar3 polyphonically?**
 A: Yes — unlike the original OSCar hardware, the software version supports polyphonic playback.
 

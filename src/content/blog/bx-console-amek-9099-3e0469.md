@@ -42,7 +42,7 @@ The bx console AMEK 9099 is a channel strip plugin by Brainworx (Plugin Alliance
 
 ---
 
-78% off is an unusually deep cut for a flagship Brainworx title. Plugin Alliance and Brainworx do run regular sales, but hitting the sub-$50 threshold on an AMEK emulation is worth paying attention to if this console flavor is on your shortlist.
+ Plugin Alliance and Brainworx do run regular sales, but hitting the sub-$50 threshold on an AMEK emulation is worth paying attention to if this console flavor is on your shortlist.
 
 [Check the current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10236-bx-console-AMEK-9099?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469)
 

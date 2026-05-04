@@ -75,9 +75,6 @@ A: Supported formats (VST, AU, AAX, etc.) and compatible DAWs are listed on the 
 **Q: Can 808 Cooker be used for genres outside trap and hip-hop?**
 A: The 808 bass is foundational in trap and hip-hop, but it appears widely in drill, R&B, lo-fi, and experimental electronic production as well. Versatility depends on the available sound design controls.
 
-**Q: Is this a limited-time deal or a permanent price drop?**
-A: Plugin Boutique deals are typically time-limited. Confirm current pricing on the product page before purchasing.
-
 ---
 
 ##  That's the kind of price where you buy it and figure out where it fits later.

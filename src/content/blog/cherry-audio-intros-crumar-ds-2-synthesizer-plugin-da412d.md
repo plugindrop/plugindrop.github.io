@@ -40,10 +40,10 @@ The Crumar DS-2 is a software synthesizer from Cherry Audio that recreates — a
 | Regular Price | Deal Price (Bundle) | You Save |
 |---|---|---|
 | $59 (single) | $59 | — |
-| ~~$119~~ Pick 3 Bundle | **$99** | **$20** |
-| ~~$169~~ Pick 6 Bundle | **$149** | **$20** |
+|  Pick 3 Bundle | **$99** | **$20** |
+|  Pick 6 Bundle | **$149** | **$20** |
 
-The Pick 3 and Pick 6 bundle pricing runs **through April 13, 2026**. An optional "Deep Space" preset expansion pack is available for $9.99. A free 30-day demo is also available if you want to test drive it first.
+ An optional "Deep Space" preset expansion pack is available for $9.99. A free 30-day demo is also available if you want to test drive it first.
 
 Verify current pricing on the product page — deals can change. [Check the deal here.](https://www.pluginboutique.com/search?search_query=ds+2+synthesizer&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d)
 

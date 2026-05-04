@@ -42,7 +42,7 @@ Portatron occupies a specific niche — it's not trying to be an all-purpose sam
 - **Film & Game Composers** — The drone and loop modes lend themselves well to scoring work where evolving, organic backdrops are needed.
 - **Mellotron Enthusiasts** — The instrument mode turns Portatron into a playable tape-based sampler, scratching that vintage itch without the hardware maintenance.
 
- This deal is available through **April 12th** — verify current pricing on the product page, as deals can change.
+ 
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763)
 
@@ -72,7 +72,7 @@ A: No. It's monophonic by design — you can layer up to four sounds across the 
 
 ## Where to Buy
 
-30% off Portatron brings it down to **$69** — a meaningful discount on a plugin that doesn't go on sale often. If tape-loop textures and lo-fi character are part of your production toolkit, this is a good time to pick it up. Deal ends **April 12th**.
+ If tape-loop textures and lo-fi character are part of your production toolkit, this is a good time to pick it up. 
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763)
 

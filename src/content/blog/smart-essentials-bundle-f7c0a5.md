@@ -36,7 +36,7 @@ The smart essentials Bundle is a collection of AI-powered mixing and mastering p
 
 ## Who Is It For?
 
-- **  Sonible doesn't run sales constantly, so this window is worth noting if the tools fit your workflow.
+- **  
 
 [Check the current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/84-Mix-Master/16550-smart-essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-essentials-bundle-f7c0a5)
 
@@ -46,7 +46,7 @@ The smart essentials Bundle is a collection of AI-powered mixing and mastering p
 
 | Name | Price | Key Difference |
 |---|---|---|
-| iZotope Neutron (Standard) | ~$149 full price | Broader mix-assistant feature set including inter-plugin communication |
+| iZotope Neutron (Standard) | ~$149 | Broader mix-assistant feature set including inter-plugin communication |
 | FabFilter mixing bundle | Higher price point | Manual-first approach, widely regarded as a precision tool reference |
 | Sonible smart: plugins (individual) | Higher total cost | Buy only what you need if the full bundle has overlap with tools you own |
 
@@ -61,9 +61,6 @@ A: This deal is available at Plugin Boutique. Use the affiliate link above to ac
 
 **Q: Does the smart essentials Bundle require iLok?**
 A: Check the official product page on Plugin Boutique for activation method details — license requirements vary by sonible product version.
-
-**Q: Is this deal time-limited?**
-A: Deal durations aren't always disclosed upfront. Verify the current price on the product page, as promotional pricing can end without notice.
 
 **Q: What DAW formats are supported?**
 A: The smart: series generally supports VST, VST3, AU, and AAX, but confirm compatibility for your specific DAW and OS version on the official page.

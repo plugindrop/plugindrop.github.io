@@ -36,7 +36,7 @@ EchoBoy is a delay and echo plugin developed by Soundtoys. It models the charact
 
 ## What Producers Are Saying
 
-EchoBoy has been a fixture in professional production discussions for well over a decade. On forums like GearSpace and Reddit's r/mixingmastering, it's consistently named alongside Valhalla DSP tools as one of the delay plugins worth paying full price for. Users frequently cite its saturation character as the differentiator — the ability to add tape grit directly in the delay path rather than chaining a separate saturator. In discussions about "essential Soundtoys plugins," EchoBoy is routinely the first name mentioned.
+EchoBoy has been a fixture in professional production discussions for well over a decade. On forums like GearSpace and Reddit's r/mixingmastering, it's consistently named alongside Valhalla DSP tools as one of the delay plugins worth paying for. Users frequently cite its saturation character as the differentiator — the ability to add tape grit directly in the delay path rather than chaining a separate saturator. In discussions about "essential Soundtoys plugins," EchoBoy is routinely the first name mentioned.
 
 ---
 
@@ -75,9 +75,6 @@ ValhallaDelay covers more algorithmic territory and is cheaper, but it doesn't r
 
 **Q: Does EchoBoy require iLok hardware?**
 A: Soundtoys uses iLok License Manager for activation, but a physical iLok dongle is not required — a free software license works.
-
-**Q: Is this a perpetual license?**
-A: Yes, Soundtoys sells perpetual licenses, not subscriptions.
 
 **Q: Does it work in Ableton Live and Logic Pro?**
 A: EchoBoy is available in VST, AU, and AAX formats, covering both hosts.

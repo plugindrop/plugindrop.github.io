@@ -40,7 +40,7 @@ For full system requirements and activation details, check the official product 
 - **Home studio producers** — if your monitoring environment isn't ideal, visual metering compensates by giving you objective signal data to cross-reference
 - **Podcast and content creators** — anyone targeting streaming platforms needs loudness metering; a dedicated plugin is far more reliable than eyeballing a DAW meter
 
-33% off is a meaningful discount for a specialized studio tool in this price bracket. Metering plugins don't see sales as frequently as bread-and-butter effects like reverbs or EQs, so when a deal does appear, it's worth paying attention.
+ Metering plugins don't see sales as frequently as bread-and-butter effects like reverbs or EQs, so when a deal does appear, it's worth paying attention.
 
 Note: Verify current pricing on the product page — deals can change.
 
@@ -60,9 +60,6 @@ If loudness compliance for streaming is your only need, Youlean's free tier cove
 
 **Q: Does Strata require an iLok dongle?**
 A: Check the product page or Plugin Boutique's activation info tab — license and activation requirements are listed there.
-
-**Q: Is this a perpetual license or a subscription?**
-A: Verify the license type on the official product page before purchasing; Plugin Boutique lists this in the product details.
 
 **Q: What plugin formats does Strata support (VST, AU, AAX)?**
 A: Format compatibility varies — check the system requirements section on the product page to confirm it matches your DAW and OS.

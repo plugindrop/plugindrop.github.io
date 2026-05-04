@@ -47,8 +47,6 @@ Black Salt Audio's drum tools have attracted attention in production communities
 
 67 per plugin** — meaningfully cheaper than buying any one of them individually at regular price. Black Salt Audio doesn't run deep sales constantly, so this discount level is worth noting. Verify current pricing on the product page — deals can change.
 
-The deal expires **April 30, 2026**, exclusively via Plugin Boutique.
-
 [Check the current price and grab the bundle here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13453-BSA-Drum-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=black-salt-audio-get-39-off-bsa-drum-bundle-by-black-salt-au&a_aid=69cb95abe1763)
 
 ---
@@ -70,9 +68,6 @@ If you need a dedicated, transparent gate specifically for drum de-bleed, nothin
 **Q: Does the BSA Drum Bundle require iLok?**
 A: Check the official product page for current activation requirements — Black Salt Audio's licensing details are listed there.
 
-**Q: Is this a permanent license or a subscription?**
-A: Plugin Boutique lists this as a standard license purchase. Verify the license type on the product page before buying.
-
 **Q: What DAW formats are supported?**
 A: The bundle includes VST3, AU, and AAX formats, covering most major DAWs on Windows 10+ and macOS 10.13+.
 
@@ -83,9 +78,7 @@ A: Yes — Escalator, Silencer, and Drum Bus are available separately.
 
 ## Where to Buy
 
-39%  
-
-[Lock in the BSA Drum Bundle deal .](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13453-BSA-Drum-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=black-salt-audio-get-39-off-bsa-drum-bundle-by-black-salt-au&a_aid=69cb95abe1763)
+[Lock in the BSA Drum Bundle.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13453-BSA-Drum-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=black-salt-audio-get-39-off-bsa-drum-bundle-by-black-salt-au&a_aid=69cb95abe1763)
 
 ---
 

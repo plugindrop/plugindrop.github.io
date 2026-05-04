@@ -68,9 +68,6 @@ A: Check the official product page for the full list of supported formats (VST, 
 **Q: Does Bloom KSHMR require iLok or a hardware dongle?**
 A: Activation details are listed on the Plugin Boutique product page. Check there before purchasing if dongle-free activation is important to your setup.
 
-**Q: Is this deal available outside of Plugin Boutique?**
-A: This specific deal is live on Plugin Boutique. Other storefronts may have different pricing, so the $39.00 price is only confirmed at the link above.
-
 **Q: Does Plugin Boutique offer refunds on plugins?**
 A: Refund and return policies vary by product and publisher. Check Plugin Boutique's official terms on their site before purchasing.
 

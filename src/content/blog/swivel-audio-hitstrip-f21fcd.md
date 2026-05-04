@@ -63,9 +63,6 @@ A: It is listed on Plugin Boutique under standard plugin formats. Check the offi
 **Q: Is an iLok required to activate Hitstrip?**
 A: Check the official product page for activation requirements — license method details are confirmed there.
 
-**Q: Is this deal available for a limited time?**
-A: Plugin Boutique deals vary in duration. The $71 price reflects 
-
 **Q: Can I use Hitstrip on both Windows and macOS?**
 A: Plugin Boutique lists system requirements per product. Verify platform support on the official product page for your operating system.
 

@@ -74,9 +74,6 @@ A: Cherry Audio products typically use their own license activation system witho
 **Q: What formats does the P-10 come in?**
 A: Cherry Audio generally supports VST, VST3, AU, and AAX formats. Check the product page to confirm which formats are included with your purchase.
 
-**Q: Is this deal available outside of Plugin Boutique?**
-A: This 43% discount is active at Plugin Boutique. Availability and pricing on other storefronts may differ.
-
 **Q: What are the system requirements?**
 A: Check the official Cherry Audio or Plugin Boutique product page for current Mac and Windows system requirements, as these can vary by version.
 
@@ -84,7 +81,7 @@ A: Check the official Cherry Audio or Plugin Boutique product page for current M
 
 ## Where to Buy
 
-43% off is a legitimate reason to stop sitting on the fence with this one. Head to Plugin Boutique and lock in the discount while it's live.
+ Check current pricing at Plugin Boutique.
 
 **[pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the)**
 

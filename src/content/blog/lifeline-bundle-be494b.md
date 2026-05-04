@@ -38,13 +38,13 @@ The Lifeline Bundle is an effects plugin bundle sold through Plugin Boutique, pa
 - **Home studio producers** — a single bundle purchase fills multiple gaps in a plugin collection without repeated individual purchases
 - **Mix engineers building their toolkit** — effects bundles offer a cost-efficient way to access a range of processors at a fraction of full retail
 - **Beatmakers and sound designers** — multi-effect collections provide flexibility for both conventional mixing and more experimental sound shaping
-- **Plugin buyers watching for sales** — at 50% off, this is the kind of deal that makes sense to act on now rather than waiting for individual discounts later
+- **Plugin buyers watching for sales**
 
 ---
 
 $65 back in your pocket for a bundle is a meaningful saving. To put that in perspective: if the bundle includes even three or four plugins, you're looking at well under $25 per tool — check the product page to see exactly how many are included and calculate your per-unit value.
 
-50% off is a strong discount tier. Plugin Boutique runs periodic bundle promotions, but half-price on a named bundle is not a daily occurrence — if this one fits your workflow, there's no obvious reason to wait.
+ Plugin Boutique runs periodic bundle promotions, but half-price on a named bundle is not a daily occurrence — if this one fits your workflow, there's no obvious reason to wait.
 
 Note: Verify current pricing on the product page — deals can change without notice.
 
@@ -74,9 +74,6 @@ A: Check the official product page on Plugin Boutique for activation requirement
 
 **Q: Is there a refund policy if the plugins don't suit my workflow?**
 A: Refund and return policies for software differ by store and developer — check Plugin Boutique's terms of service before purchasing.
-
-**Q: How long is the 50% deal available?**
-A: Deal expiry dates are not always published. Confirm current availability and pricing on the product page, as promotions can end without advance notice.
 
 ---
 

@@ -75,13 +75,10 @@ If you need precise, transparent EQ for corrective work, FabFilter Pro-Q handles
 **Q: Does Manley Massive Passive require iLok?**
 A: Check the product page and official Manley site for current activation and licensing requirements — these can change with updates.
 
-**Q: Is this plugin suitable for individual tracks or mainly for mastering?**
-A: The broad passive EQ curves suit bus and mastering applications particularly well, though it can be used on individual tracks for gentle tonal shaping.
-
 **Q: What DAWs are compatible?**
 A: Check the official product page for current system requirements and DAW compatibility details.
 
-**Q: Is the $49 price permanent or a limited-time deal?**
+**Q: Is the listed price current?**
 A: This appears to be a promotional sale price. Verify current pricing on the Plugin Boutique product page, as deal pricing can expire.
 
 ---

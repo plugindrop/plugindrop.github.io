@@ -79,14 +79,14 @@ A: Soundiron does not typically use iLok for their Kontakt libraries — licensi
 **Q: What are the system requirements?**
 A: Check the Plugin Boutique product page for current system requirements, as these depend on your Kontakt version and OS.
 
-**Q: Is the 35% discount available for a limited time?**
+**Q: Is the listed price current?**
 A: Deal pricing can expire at any time. Check the [product page](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763) to confirm the discount is still active.
 
 ---
 
 ## Where to Buy
 
-35% off a Soundiron library is a real window — . pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763)
+ pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763)
 
 ---
 

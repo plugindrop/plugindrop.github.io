@@ -67,9 +67,6 @@ If transparent, surgical control is the priority, Pro-C 2 is the go-to. If you s
 **Q: Does the Shadow Hills Mastering Compressor require iLok?**
 A: Licensing and activation requirements can vary — check the official Plugin Alliance and Plugin Boutique product pages for current activation details.
 
-**Q: Is this a time-limited deal?**
-A: The deal is currently active at Plugin Boutique, but promotional pricing can end without notice. Verify the current price before purchasing.
-
 **Q: What formats does the plugin support?**
 A: Check the product page for up-to-date format support (VST, AU, AAX, etc.) and system requirements.
 

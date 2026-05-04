@@ -66,9 +66,6 @@ A: Check the official product page on Plugin Boutique for the complete list of i
 **Q: Does this bundle require iLok?**
 A: Activation requirements vary by individual plugin developer. Check the product page for license and activation details before purchasing.
 
-**Q: Is this deal available outside of Plugin Boutique?**
-A: This specific bundle and pricing is listed through Plugin Boutique. Availability elsewhere is not confirmed.
-
 **Q: What is the refund policy?**
 A: Check Plugin Boutique's official terms and the product page for current refund and download policies.
 

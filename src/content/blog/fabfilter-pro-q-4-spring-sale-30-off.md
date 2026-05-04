@@ -43,8 +43,8 @@ Pro-Q has been a staple recommendation on mixing forums for years. On Reddit's r
 
 | | Regular Price | Sale Price | You Save |
 |---|---|---|---|
-| Pro-Q 4 | ~~$189~~ | **$132** | **$57 (30%)** |
-| FabFilter Total Bundle | ~~$999~~ | **~$699** | **~$300 (30%)** |
+| Pro-Q 4 | | **$132** | **$57 (30%)** |
+| FabFilter Total Bundle | | **~$699** | **~$300 (30%)** |
 
 **Price context:** FabFilter runs 25-30% sales roughly 3 times per year — typically spring, summer, and Black Friday. They have not offered discounts deeper than 30% in recent years. This $132 price point is consistent with their historical best. If you're waiting for a bigger discount, the data suggests this is as low as it goes.
 

@@ -46,7 +46,7 @@ Rhodes Chroma is Cherry Audio's software emulation of the original Rhodes Chroma
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Arturia Juno-106 V | ~$99 full price | Emulates the Roland Juno-106; simpler architecture, different filter character |
+| Arturia Juno-106 V | ~$99 | Emulates the Roland Juno-106; simpler architecture, different filter character |
 | TAL-U-NO-LX | ~$60 | Juno-60 emulation; lower CPU footprint, less modulation depth |
 | Cherry Audio Memorymode | ~$29–49 | Moog Memorymoog emulation; single-oscillator-focused, warmer low-end bias |
 
@@ -58,9 +58,6 @@ The Rhodes Chroma is the right pick when you specifically need the Chroma's dual
 
 **Q: Does Rhodes Chroma by Cherry Audio require iLok?**
 A: Cherry Audio does not use iLok. Their plugins use Cherry Audio's own license activation system.
-
-**Q: Is this plugin compatible with both Mac and Windows?**
-A: Cherry Audio plugins support both Mac and Windows operating systems.
 
 **Q: Is the $39.00 price permanent?**
 A: No — this is a promotional discount from the standard $69.00 price. The deal is time-limited.

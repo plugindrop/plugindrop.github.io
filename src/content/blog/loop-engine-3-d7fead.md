@@ -56,7 +56,7 @@ Loop Engine 3 is a music theory and loop-generation plugin sold through Plugin B
 | Captain Chords | ~$99 | Suite-based approach bundling melody, bass, and beat tools alongside chord generation |
 | Odesi | Varies | Focused on song structure and progression arrangement over loop generation |
 
-If the goal is fast loop generation at a minimal buy-in, the current Loop Engine 3 price is hard to argue with. Scaler 2 covers more harmonic ground and has a larger community presence, but costs more than double at full price. Captain Chords suits producers who want an integrated multi-tool songwriting suite rather than a focused loop engine.
+If the goal is fast loop generation at a minimal buy-in, the current Loop Engine 3 price is hard to argue with. Scaler 2 covers more harmonic ground and has a larger community presence, but costs more than double at. Captain Chords suits producers who want an integrated multi-tool songwriting suite rather than a focused loop engine.
 
 ---
 
@@ -78,7 +78,7 @@ A: Yes — the standard price is $109.00. This is a promotional deal, and the di
 
 ## Where to Buy
 
-~~$109.00~~ → **$24.00**.  At this price, the risk-to-value ratio is squarely in the buyer's favor.
+ → **$24.00**.  At this price, the risk-to-value ratio is squarely in the buyer's favor.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/13923-Loop-Engine-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=loop-engine-3-d7fead)
 

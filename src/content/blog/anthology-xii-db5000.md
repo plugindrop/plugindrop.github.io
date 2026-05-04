@@ -54,9 +54,6 @@ If your primary gap is in synthesis and virtual instruments, a complete collecti
 **Q: Where is Anthology XII available at this sale price?**
 A: Check the current price at Plugin Boutique.
 
-**Q: Is this a permanent price reduction or a limited-time sale?**
-A: Pricing may change — verify current pricing on the product page.
-
 **Q: Does Anthology XII include future version updates?**
 A: Update and upgrade terms vary by publisher. Check the official product page for the current update policy.
 

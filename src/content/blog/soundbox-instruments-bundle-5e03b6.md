@@ -65,9 +65,6 @@ If you already own some Soundbox instruments, check whether buying individual mi
 **Q: Does the Soundbox Instruments Bundle require iLok?**
 A: Check the product page on Plugin Boutique for specific activation and license requirements — these vary by developer.
 
-**Q: Is this a perpetual license or a subscription?**
-A: Plugin Boutique generally sells perpetual licenses, but verify the exact terms on the product page for this bundle before purchasing.
-
 **Q: What are the system requirements?**
 A: System requirements differ across the included instruments. Review the official product page for DAW and OS compatibility details.
 

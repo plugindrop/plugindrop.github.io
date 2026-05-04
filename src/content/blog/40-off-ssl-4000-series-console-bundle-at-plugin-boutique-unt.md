@@ -51,7 +51,7 @@ The SSL 4000 Series has been a fixture in mixing discussions for years. On forum
 
 > **Note:** Exact pricing varies by region and may change. Verify the current price on the [Plugin Boutique product page](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13326-SSL-4000-Series-Console-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt&a_aid=69cb95abe1763) before purchasing.
 
-SSL doesn't run frequent aggressive discounts on their official plugins — 40% is toward the high end of what typically appears in deal newsletters. If you've been waiting for a meaningful price drop rather than the occasional 20–25% seasonal sale, this April window is worth taking seriously. The deal expires **April 30, 2026**.
+  
 
 ---
 
@@ -72,9 +72,6 @@ If budget is the primary concern and you already subscribe to Waves, their SSL b
 **Q: Does the SSL 4000 Series Console Bundle require iLok?**
 A: Check the official product page on Plugin Boutique for current activation and license requirements — these can change between versions.
 
-**Q: Is this bundle available as individual plugins or only as a bundle?**
-A: Some components may be available separately, but the bundle format is typically the most cost-effective way to get the full collection. Verify on the product page.
-
 **Q: Does Plugin Boutique offer refunds on plugin purchases?**
 A: Refund policies on digital software vary. Check Plugin Boutique's terms of service for their current policy before purchasing.
 
@@ -85,7 +82,7 @@ A: The bundle is expected to support common formats (VST, AU, AAX), but confirm 
 
 ## Where to Buy
 
-40% off SSL's flagship console bundle doesn't happen on a regular schedule — and this one closes **April 30, 2026**. [Lock in the discount at Plugin Boutique while it's live.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13326-SSL-4000-Series-Console-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13326-SSL-4000-Series-Console-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt&a_aid=69cb95abe1763)
 
 ---
 

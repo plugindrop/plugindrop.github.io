@@ -78,9 +78,6 @@ If you want a fixed-cost, complete mix chain from one developer, Mix Bundle One 
 **Q: Does Mix Bundle One require a physical iLok dongle?**  
 A: No — a free iLok cloud account is sufficient for activation. No hardware dongle is required.
 
-**Q: Is this a one-time purchase or a subscription?**  
-A: Mix Bundle One is a one-time purchase at Plugin Boutique, not a recurring subscription.
-
 **Q: Which DAWs does Mix Bundle One support?**  
 A: It supports AU, VST2, and AAX on macOS, and VST2, VST3, and AAX on Windows — covering Pro Tools, Logic Pro, Ableton Live, FL Studio, and most other major DAWs. Verify compatibility on the official product page.
 

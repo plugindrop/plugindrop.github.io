@@ -72,9 +72,6 @@ A: Licensing and activation methods vary by developer. Check the official Plugin
 **Q: Which DAWs and plugin formats are supported?**
 A: Supported formats and DAW compatibility are listed on the product page — verify these match your setup before buying.
 
-**Q: Is this a one-time purchase or a subscription?**
-A: Confirm full license terms on the product page.
-
 **Q: What is Plugin Boutique's refund policy on this product?**
 A: Refund eligibility depends on the developer's terms. Check Plugin Boutique's purchase policy before completing your order.
 

@@ -47,7 +47,6 @@ Plamen is a multiband saturation effect developed by SoundEvice Digital and publ
 
 | Regular Price | Sale Price | You Save |
 |---|---|---|
-| ~~Full price~~ | **60% OFF** | 60% |
 
 United Plugins runs periodic promotions, but 60% discounts are on the deeper end of what they typically offer — this isn't a routine 20%-off weekend deal. The discount makes now a reasonable time to buy if multiband saturation is already on your shopping list.
 
@@ -73,9 +72,6 @@ A: United Plugins titles typically use their own license activation system witho
 **Q: What formats does Plamen support (VST, AU, AAX)?**
 A: Check the official Plugin Boutique product page for the full list of supported plugin formats and DAW compatibility.
 
-**Q: Is this a permanent license or a subscription?**
-A: United Plugins products are generally sold as perpetual licenses. Confirm on the product page before purchasing.
-
 **Q: What are the system requirements?**
 A: System requirements vary — check the product page for current macOS/Windows version requirements and supported architectures.
 
@@ -83,7 +79,7 @@ A: System requirements vary — check the product page for current macOS/Windows
 
 ## Where to Buy
 
-60% off a multiband saturation plugin from an established plugin house is worth acting on. Sales at this depth don't stick around forever.
+ Sales at this depth don't stick around forever.
 
 [Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/44-Saturation/11077-Plamen?utm_source=plugindrop&utm_medium=article&utm_campaign=plamen-multiband-saturation-effect-by-united-plugins-on-sale&a_aid=69cb95abe1763)
 

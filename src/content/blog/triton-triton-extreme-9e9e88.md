@@ -67,9 +67,6 @@ A: Check the official Plugin Boutique product page for current activation requir
 **Q: What plugin formats are supported?**
 A: Verify supported formats (VST, AU, AAX, etc.) and system requirements on the product page before purchasing.
 
-**Q: Is this the same as the KORG TRITON hardware?**
-A: The plugin is a software recreation of the TRITON Extreme hardware workstation and is designed to replicate its sound engine and library, but confirm exact feature parity on the product page.
-
 **Q: What is the refund policy?**
 A: Plugin Boutique's refund policy applies — check their terms directly at the store for details.
 

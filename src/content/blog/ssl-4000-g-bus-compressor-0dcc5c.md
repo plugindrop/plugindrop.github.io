@@ -51,7 +51,7 @@ The SSL G Bus Compressor — in both hardware and plugin form — is one of the 
 
 ## Current Pricing
 
-SSL's own plugins don't go on steep sales as frequently as some third-party developers. Seeing the official SSL 4000 G Bus Compressor at is a notable window — it's worth checking whether this is a limited-time or ongoing promotion before assuming it sticks around.
+SSL's own plugins don't go on steep sales as frequently as some third-party developers. Seeing the official SSL 4000 G Bus Compressor at is worth verifying on the product page.
 
 [Check the current price and activate your discount on Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13325-SSL-4000-G-Bus-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4000-g-bus-compressor-0dcc5c)
 
@@ -76,9 +76,6 @@ A: Check the official product page for the current activation method — SSL has
 
 **Q: What formats does the plugin support (VST, AU, AAX)?**
 A: Check the product page for the current supported formats and DAW compatibility — Plugin Boutique lists the full spec breakdown on the product listing.
-
-**Q: Is this the same as the hardware SSL G Bus Compressor?**
-A: It's the official plugin from SSL designed to replicate the hardware unit's behavior, but a software emulation will have differences from the analog original. Check the product description for SSL's own statements on the emulation approach.
 
 **Q: Can the SSL 4000 G Bus Compressor be used on individual channels, not just the mix bus?**
 A: Yes — while designed as a bus compressor, there's no technical restriction on using it across individual tracks in your DAW. Many producers use it on drum buses, instrument groups, and similar applications.

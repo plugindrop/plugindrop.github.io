@@ -68,9 +68,6 @@ A: The SELECT 5 Bundle includes five UJAM virtual instruments covering multiple 
 **Q: Does UJAM require iLok or a hardware dongle?**
 A: UJAM uses its own license activation system tied to a UJAM account — no iLok hardware dongle is required.
 
-**Q: Is this deal available outside Plugin Boutique?**
-A: This specific discount is listed at Plugin Boutique. Availability on other stores may differ.
-
 **Q: What formats are the plugins available in?**
 A: UJAM instruments are available in VST, VST3, AU, and AAX formats, as well as standalone.
 

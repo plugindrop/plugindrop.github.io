@@ -64,9 +64,6 @@ If you only need one free piano to get started, Spitfire LABS handles that at no
 **Q: Do I need the full version of Kontakt to use the Omnium Piano Collection?**
 A: No. The collection is listed as compatible with the free Kontakt Player, so no paid Kontakt license is required.
 
-**Q: When does the intro price expire?**
-A: No specific end date has been announced. Intro pricing from sample developers typically closes when the launch window ends — check the product page for the current status.
-
 **Q: What are the system requirements?**
 A: Check the official Soundiron product page for the latest system requirements and DAW compatibility details.
 

@@ -60,7 +60,7 @@ A: Check Plugin Boutique's product page for current return and refund terms.
 
 ## Where to Buy
 
-Two premium cinematic guitar libraries, nine guitars, real amps, real reverb — ~~$298~~ **$149**. 
+Two premium cinematic guitar libraries, nine guitars, real amps, real reverb —  **$149**. 
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763)
 

@@ -65,9 +65,6 @@ A: It is distributed as a Soundbox Instrument through Plugin Boutique's platform
 **Q: Does Opacity 2 require iLok or third-party activation?**
 A: Check the product page for the current activation method — this can vary by developer and may have been updated since publication.
 
-**Q: Is this deal available worldwide?**
-A: Plugin Boutique serves customers internationally. Pricing may vary based on regional tax settings at checkout.
-
 **Q: Is there a bundle that includes Opacity 2 at a better per-unit price?**
 A: At time of writing this deal brings it to $27.95 standalone — check the Plugin Boutique product page to see if any current bundles include it.
 
@@ -75,7 +72,7 @@ A: At time of writing this deal brings it to $27.95 standalone — check the Plu
 
 ## Where to Buy
 
-Opacity 2 Soundbox Instrument is currently, bringing it to $27.95 from ~~$43.00~~. For producers in ambient and cinematic genres, this is the lowest barrier to entry the instrument has seen.
+Opacity 2 Soundbox Instrument is currently, bringing it to $27.95 from . For producers in ambient and cinematic genres, this is the lowest barrier to entry the instrument has seen.
 
 [→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16560-Opacity-2-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-2-soundbox-instrument-7cfb01)
 

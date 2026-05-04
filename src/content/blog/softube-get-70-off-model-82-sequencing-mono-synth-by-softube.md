@@ -72,9 +72,6 @@ A: Softube plugins typically support iLok license management, but a physical don
 **Q: What DAW formats are supported?**
 A: The Model 82 is available in VST, AU, and AAX formats, covering Windows and macOS hosts.
 
-**Q: Is this deal available outside Plugin Boutique?**
-A: This specific 70% promotion is listed at Plugin Boutique. Check the product page for availability and any regional pricing differences.
-
 **Q: What are the system requirements?**
 A: Check the official product page for current OS and CPU requirements — these can vary by plugin version.
 
@@ -82,7 +79,7 @@ A: Check the official product page for current OS and CPU requirements — these
 
 ## Where to Buy
 
-70% off a Softube instrument is not a common occurrence — if the Model 82 has been on your radar, this is one of the stronger discount windows to act on. [Check current pricing and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-70-off-model-82-sequencing-mono-synth-by-softube&a_aid=69cb95abe1763)
+ [Check current pricing and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-70-off-model-82-sequencing-mono-synth-by-softube&a_aid=69cb95abe1763)
 
 ---
 

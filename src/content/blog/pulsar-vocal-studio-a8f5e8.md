@@ -56,9 +56,6 @@ If pitch correction is the main priority, Auto-Tune Pro is purpose-built for tha
 **Q: Does Pulsar Vocal Studio require an iLok dongle?**
 A: Check the official Pulsar Audio site or Plugin Boutique product page for current activation and licensing details.
 
-**Q: Is this a perpetual license or a subscription?**
-A: Pulsar Audio has historically offered perpetual licenses — confirm the terms on the product page before purchasing.
-
 **Q: Which plugin formats does it support (VST, AU, AAX)?**
 A: Check the system requirements section on the product page for supported formats and OS compatibility.
 

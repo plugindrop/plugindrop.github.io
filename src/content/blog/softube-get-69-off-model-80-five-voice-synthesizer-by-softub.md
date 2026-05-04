@@ -72,9 +72,6 @@ A: Softube plugins can use iLok license management. Check the official Softube s
 **Q: What formats does Model 80 support?**
 A: Softube plugins typically support VST, VST3, AU, and AAX — confirm the exact supported formats on the product page.
 
-**Q: Is this deal available anywhere other than Plugin Boutique?**
-A: This deal is active at Plugin Boutique. Check the product page for availability and terms.
-
 **Q: What are the system requirements?**
 A: System requirements vary by version and platform — check the official product page for up-to-date specs before purchasing.
 
@@ -82,7 +79,7 @@ A: System requirements vary by version and platform — check the official produ
 
 ## Where to Buy
 
-69% off a professional analog poly synth from one of Sweden's most respected plugin developers. This is the kind of deal depth that doesn't show up often — [lock it in at Plugin Boutique .](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763)
+ This is the kind of deal depth that doesn't show up often — [lock it in at Plugin Boutique .](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763)
 
 ---
 

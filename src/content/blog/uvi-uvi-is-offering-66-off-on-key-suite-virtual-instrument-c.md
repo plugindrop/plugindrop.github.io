@@ -9,7 +9,7 @@ score: 4.25
 draft: false
 converted: true
 ---
-**UVI — UVI is offering 66% off on Key Suite virtual instrument collection for Fal** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?search_query=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)
+** [Check the current price here.](https://www.pluginboutique.com/search?search_query=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)
 
 ---
 
@@ -82,7 +82,7 @@ A: Head directly to the product page — the current discount is reflected there
 
 ## Where to Buy
 
-66% off a full keyboard collection from a respected developer doesn't come around every week. If you're building out your sound library, this is a strong window to add serious keys coverage at a fraction of the regular price.
+ If you're building out your sound library, this is a strong window to add serious keys coverage at a fraction of the regular price.
 
 **[Check current price at Plugin Boutique](https://www.pluginboutique.com/search?search_query=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)**
 

@@ -81,14 +81,11 @@ A: Check the official product page for activation and license details — FSK Au
 **Q: What DAWs and plugin formats are supported?**
 A: Supported formats (VST, VST3, AU, AAX) and system requirements are listed on the Plugin Boutique product page — always confirm compatibility before purchase.
 
-**Q: How long is the sale running?**
-A: Deal end dates aren't always published. Plugin Boutique sales can expire without notice, so act sooner rather than later if you're interested.
-
 ---
 
 ## Where to Buy
 
-23% off is a meaningful cut on a boutique dynamics plugin — and FSK Audio doesn't run discounts every week. If Bark24 | Dyn fits your workflow, now is the time to check it out.
+ If Bark24 | Dyn fits your workflow, now is the time to check it out.
 
 [See the current price and grab Bark24 | Dyn at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17070-Bark24-Dyn?utm_source=plugindrop&utm_medium=article&utm_campaign=fsk-audio-get-23-off-bark24-dyn-by-fsk-audio-the-discounted-&a_aid=69cb95abe1763)
 

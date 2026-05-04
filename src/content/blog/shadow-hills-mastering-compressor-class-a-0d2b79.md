@@ -51,7 +51,7 @@ The Shadow Hills Mastering Compressor has a strong reputation in professional ma
 
 ## Current Pricing
 
-Plugin Alliance plugins don't go on deep discount constantly — 70% off puts this well below the typical sale window for this title. That $50 price point is a meaningful floor for a licensed hardware emulation at this tier.
+ That $50 price point is a meaningful floor for a licensed hardware emulation at this tier.
 
 Verify current pricing on the product page — deals can change.
 

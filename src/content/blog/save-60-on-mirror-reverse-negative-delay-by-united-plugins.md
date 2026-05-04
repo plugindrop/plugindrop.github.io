@@ -76,7 +76,7 @@ A: United Plugins typically uses their own licensing system without requiring a 
 A: Check the official product page for current VST/VST3/AU/AAX format availability and system requirements.
 
 **Q: Is the 60% discount available everywhere?**
-A: This specific deal is active at Plugin Boutique. Always confirm the discount is still live before purchasing, as promotional pricing can expire without notice.
+A: This specific deal is active at Plugin Boutique. Pricing can change — verify the current price on the product page before purchasing.
 
 **Q: Is there a free trial available?**
 A: United Plugins often offers trial versions of their plugins — check the Plugin Boutique product page or the United Plugins website for trial availability.

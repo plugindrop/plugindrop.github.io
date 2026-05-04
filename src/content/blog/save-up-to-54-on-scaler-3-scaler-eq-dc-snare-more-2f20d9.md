@@ -40,7 +40,7 @@ Scaler EQ and DC Snares round out this sale. Scaler EQ brings a musically-inform
 
 | Product | Sale Price | You Save |
 |---|---|---|
-| Scaler 3 | $79 | Up to 54% off |
+| Scaler 3 | $79 | Discount |
 | Scaler EQ | $39 | Discounted |
 | DC Snares | $29 | Discounted |
 | Scaler 3 + Scaler EQ Bundle | $99 | Bundle savings vs. buying separately |
@@ -48,7 +48,7 @@ Scaler EQ and DC Snares round out this sale. Scaler EQ brings a musically-inform
 
  
 
-**Sale ends April 9th, 2026.** Verify current pricing on the product page — deals can change.
+**** Verify current pricing on the product page — deals can change.
 
 [Check pricing and grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9&a_aid=69cb95abe1763).
 
@@ -72,9 +72,6 @@ A: No. Scaler products use Plugin Boutique's own licensing system — no iLok do
 
 **Q: Can Scaler 3 send MIDI to other plugins in my DAW?**
 A: Yes. Scaler 3 is designed to route MIDI output to any virtual instrument in your session, so you can use its chord and melody suggestions with your own synths and samplers.
-
-**Q: How long does this sale last?**
-A: The Easter sale runs through April 9th, 2026. After that, prices return to regular retail.
 
 ## Where to Buy
 

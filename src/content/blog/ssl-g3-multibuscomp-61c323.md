@@ -75,9 +75,6 @@ If you're already in the UAD ecosystem and want the highest-fidelity emulation, 
 **Q: Does SSL G3 MultiBusComp require an iLok dongle?**
 A: Check the official Plugin Boutique product page for current activation requirements, as SSL licensing terms vary by product.
 
-**Q: Is this a perpetual license or a subscription?**
-A: Plugin Boutique deals for SSL plugins are typically perpetual licenses, but confirm on the product page before purchase.
-
 **Q: What formats does it support?**
 A: SSL plugins commonly support VST, AU, and AAX formats — check the product listing to confirm which formats are included with this title.
 

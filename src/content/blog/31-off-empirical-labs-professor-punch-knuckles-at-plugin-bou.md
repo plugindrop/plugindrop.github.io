@@ -58,8 +58,8 @@ Empirical Labs plugins don't run frequent deep discounts — this brand tends to
 
 | Name | Price | Key Difference |
 |---|---|---|
-| FabFilter Saturn 2 | ~$149 full price | Multi-band saturation with per-band drive and extensive modulation routing |
-| SoundToys Decapitator | ~$99 full price | Five analog hardware emulation modes based on specific vintage circuits |
+| FabFilter Saturn 2 | ~$149 | Multi-band saturation with per-band drive and extensive modulation routing |
+| SoundToys Decapitator | ~$99 | Five analog hardware emulation modes based on specific vintage circuits |
 | Softube Saturation Knob | Free | Single-knob saturation, no multi-mode options, zero cost |
 
 If your priority is precise multi-band control and modulation, Saturn 2 covers more technical ground. If you want a single, focused saturation tool from a hardware-pedigreed developer and trust the Empirical Labs name, Professor Punch-Knuckles is the more niche, brand-specific pick. Saturation Knob covers basic harmonic color at no cost if budget is the main constraint.
@@ -71,12 +71,6 @@ If your priority is precise multi-band control and modulation, Saturn 2 covers m
 **Q: Does Professor Punch-Knuckles require an iLok dongle?**
 A: Check the official Plugin Boutique product page for current activation requirements — Empirical Labs plugins have used iLok-based licensing in the past, but confirm before purchasing.
 
-**Q: Is this deal available outside the Plugin Boutique store?**
-A: This specific 31% discount is running at Plugin Boutique. Pricing at other retailers may differ.
-
-**Q: When does the sale end?**
-A: The deal is live until **April 19, 2026**. After that date, pricing returns to standard.
-
 **Q: What DAWs and formats are supported?**
 A: Check the product listing for the current confirmed compatibility list — format support can vary by version and platform.
 
@@ -84,7 +78,6 @@ A: Check the product listing for the current confirmed compatibility list — fo
 
 ## Where to Buy
 
-31% off from a developer with hardware credibility, expiring April 19 — that's a short runway. If Empirical Labs is on your radar, this is the window.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=plugindrop&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou&a_aid=69cb95abe1763)
 

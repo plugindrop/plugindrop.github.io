@@ -37,7 +37,7 @@ The Drum & Bass for Serum 2 Bundle is a Plugin Boutique exclusive from The Tone 
 
 That breaks down to **$19 ÷ 3 packs = ~$6.33 per expansion** — each pack normally sells for around $49 individually. At this price, you're paying less than a single pack's intro discount for all three.
 
-The deal expires **May 4th**. Verify current pricing on the product page — deals can change.
+ Verify current pricing on the product page — deals can change.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/16791-Drum-Bass-for-Serum-2-Bundle-Exclusive-?utm_source=plugindrop&utm_medium=article&utm_campaign=the-tone-foundry-get-86-off-drum-bass-for-serum-2-bundle-by-&a_aid=69cb95abe1763)
 
@@ -58,9 +58,6 @@ A: These presets are built for Serum 2. They are not backwards-compatible with S
 
 **Q: What DAWs are compatible?**
 A: Any DAW that runs Serum 2 — Ableton Live, FL Studio, Logic Pro, Bitwig, Studio One, and others. The presets load inside Serum 2 regardless of host DAW.
-
-**Q: Is this a Plugin Boutique exclusive?**
-A: Yes, this bundle configuration is listed as a Plugin Boutique exclusive. The individual packs may be available elsewhere, but the bundled pricing is specific to this deal.
 
 **Q: What's the refund policy?**
 A: Check Plugin Boutique's refund policy on their site, as terms may vary for preset/expansion bundles.

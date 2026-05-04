@@ -32,7 +32,7 @@ Soundtoys is a Vermont-based plugin developer known for building effects process
 
 ## What Producers Are Saying
 
-Soundtoys has been a recurring recommendation in mixing and production communities for well over a decade. On forums like KVR and Reddit's r/AudioProductionDeals, the Soundtoys 5 bundle is commonly cited as a foundational effects collection — particularly Decapitator and EchoBoy, which appear frequently in "must-have saturation/delay" threads. Little AlterBoy is consistently brought up in vocal production discussions as a go-to for pitch and formant work. Community consensus generally positions Soundtoys plugins as premium tools that justify the full price, making 
+Soundtoys has been a recurring recommendation in mixing and production communities for well over a decade. On forums like KVR and Reddit's r/AudioProductionDeals, the Soundtoys 5 bundle is commonly cited as a foundational effects collection — particularly Decapitator and EchoBoy, which appear frequently in "must-have saturation/delay" threads. Little AlterBoy is consistently brought up in vocal production discussions as a go-to for pitch and formant work. Community consensus generally positions Soundtoys plugins as premium tools that justify the, making 
 
 ---
 
@@ -55,14 +55,8 @@ If you specifically need saturation and creative character effects under one roo
 **Q: Does Soundtoys require an iLok dongle?**
 A: Soundtoys supports iLok license management but also allows machine-based authorization — check the official site for the latest activation options.
 
-**Q: Is this a permanent license or a subscription?**
-A: Soundtoys plugins are sold as perpetual licenses, not subscriptions. Verify on the product page whether the sale price includes future updates.
-
 **Q: What formats are included (VST, AU, AAX)?**
 A: Soundtoys supports major DAW formats including VST, AU, and AAX. Check the product page for the exact format and OS compatibility for each plugin.
-
-**Q: When does the Spring Sale end?**
-A: Expiry dates aren't always listed upfront — check the Plugin Boutique deal page for current end date information.
 
 ---
 

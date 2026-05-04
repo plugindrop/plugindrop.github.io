@@ -75,9 +75,6 @@ A: Check the official product page for current activation requirements, as licen
 **Q: Can the instruments be used standalone without a DAW?**
 A: AIR instruments support standalone operation in addition to plugin use.
 
-**Q: Is this deal available outside Plugin Boutique?**
-A: This specific deal is listed through Plugin Boutique. Pricing on other retailers may differ.
-
 ---
 
 ## Where to Buy

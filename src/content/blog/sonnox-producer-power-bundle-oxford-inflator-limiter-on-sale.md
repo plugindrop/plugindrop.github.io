@@ -67,9 +67,6 @@ If you specifically need a standalone transparent limiter with broad DAW compati
 **Q: Do I need an iLok dongle to use the Sonnox Producer Power Bundle?**
 A: Sonnox has historically offered both iLok and license-file activation options. Check the official product page for current activation requirements before purchasing.
 
-**Q: Is this bundle available as a perpetual license or subscription?**
-A: Based on Sonnox's standard licensing model, these are perpetual licenses — but confirm on the product page, as terms can vary by promotion.
-
 **Q: What DAWs are compatible with the Oxford Inflator and Oxford Limiter?**
 A: Both plugins support VST, AU, and AAX formats, covering most major DAWs. For the exact supported versions and system requirements, check the product page.
 

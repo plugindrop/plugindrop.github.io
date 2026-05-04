@@ -42,7 +42,7 @@ WORMHOLE is a multi-effect plugin available at Plugin Boutique, categorized unde
 
 ---
 
- At $149.00,  If you've been watching this plugin, this is the window to act.
+ At $149.00,
 
 [→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/2709-WORMHOLE-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wormhole-d5160c)
 
@@ -70,9 +70,6 @@ A: WORMHOLE is available in VST, AU, and AAX formats, covering most major DAWs o
 
 **Q: Does WORMHOLE require iLok?**
 A: Check the official product page for current activation and license details before purchasing.
-
-**Q: Is this deal time-limited?**
-A: Plugin Boutique deals are promotional and subject to end without notice — the current price reflects an active promotion.
 
 ---
 

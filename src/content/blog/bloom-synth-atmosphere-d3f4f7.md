@@ -70,9 +70,6 @@ A: Check the official product page for the confirmed format list (VST2/VST3/AU/A
 **Q: Does it require an iLok dongle?**
 A: Activation method isn't confirmed here — check the product page or Plugin Boutique's listing for licensing details before purchasing.
 
-**Q: Is this a one-time purchase or subscription?**
-A: Plugin Boutique listings are typically perpetual licenses, but verify the terms on the product page to be certain.
-
 **Q: What are the system requirements?**
 A: System requirements (OS version, RAM, disk space) should be verified directly on the product page, as these differ between plugin versions.
 

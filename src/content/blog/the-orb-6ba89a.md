@@ -81,7 +81,7 @@ A: Minimum OS and CPU specs are listed on the official product page; check there
 
 ## Where to Buy
 
-42% off brings The Orb from ~~$49.00~~ down to **$28.42** — a straightforward saving on a creative filter plugin with no bundle strings attached. [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a)
+42** — a straightforward saving on a creative filter plugin with no bundle strings attached. [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a)
 
 ---
 

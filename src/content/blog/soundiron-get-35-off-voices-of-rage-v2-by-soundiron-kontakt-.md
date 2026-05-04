@@ -73,9 +73,6 @@ If you need polished choral content for uplifting or soaring moments, free optio
 **Q: Does Voices of Rage v2 require the full version of Kontakt?**
 A: Yes — Soundiron libraries are built for the full version of Native Instruments Kontakt and are not compatible with the free Kontakt Player. You must own Kontakt to use this library.
 
-**Q: Is this a download or a physical product?**
-A: It's a digital download available immediately through Plugin Boutique after purchase.
-
 **Q: What are the system requirements?**
 A: Check the official product page for current system requirements, as they depend on your version of Kontakt and operating system.
 

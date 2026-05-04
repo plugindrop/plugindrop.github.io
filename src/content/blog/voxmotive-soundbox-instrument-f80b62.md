@@ -67,9 +67,6 @@ A: It is available through Plugin Boutique. The affiliate link in this article g
 **Q: Does the Voxmotive Soundbox Instrument require an iLok dongle?**
 A: iLok requirements vary by developer. Check the official product page for activation and licensing specifics before purchasing.
 
-**Q: Is this a sample library or a synthesizer?**
-A: It is categorised as a virtual instrument on Plugin Boutique, meaning it functions as a playable plugin within a DAW rather than a standalone sample library browser.
-
 **Q: What DAWs are compatible?**
 A: Compatibility details including supported plugin formats are listed on the Plugin Boutique product page.
 

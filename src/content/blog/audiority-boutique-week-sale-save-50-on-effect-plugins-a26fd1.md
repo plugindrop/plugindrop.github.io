@@ -80,9 +80,6 @@ A: The Audiority Boutique Week sale is running exclusively on Plugin Boutique. N
 **Q: Does Audiority require iLok for activation?**
 A: Check the official product page for current activation and copy-protection details, as these can vary by title.
 
-**Q: How long does the Boutique Week sale last?**
-A: Sale end dates are listed on the Plugin Boutique product page — verify there for the current deadline.
-
 **Q: Are all Audiority plugins included, or just selected titles?**
 A: The promotion covers a selection of Audiority effect plugins (delay, reverb, distortion, compressor). Check the Plugin Boutique sale page to see which specific titles are included.
 
@@ -90,7 +87,6 @@ A: The promotion covers a selection of Audiority effect plugins (delay, reverb, 
 
 ## Where to Buy
 
-50% off Audiority is a rare discount from a developer that holds its prices firm most of the year. If vintage-modeled delay or any other Audiority effect has been on your list, now is the time to move.
 
 [Shop the Audiority Boutique Week Sale at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/10-Delay/8565-Space-Station-UM282?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1)
 

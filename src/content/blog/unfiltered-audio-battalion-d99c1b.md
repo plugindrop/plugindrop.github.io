@@ -68,12 +68,6 @@ A: Check the Plugin Boutique product page or Unfiltered Audio's official site fo
 **Q: What DAWs is Battalion compatible with?**
 A: Verify current DAW compatibility and system requirements directly on the product page to ensure you're reading the most up-to-date specs.
 
-**Q: Is this deal available outside the US?**
-A: Plugin Boutique serves international customers, but confirm regional pricing and availability at checkout.
-
-**Q: How long is this deal running?**
-A: Plugin Boutique deals run for a set period and can expire without warning. The price shown at checkout reflects the current active deal.
-
 ---
 
 ## Where to Buy

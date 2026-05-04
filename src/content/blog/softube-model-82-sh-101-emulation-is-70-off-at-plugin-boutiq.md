@@ -78,7 +78,7 @@ A: Softube uses the iLok License Manager for activation. An iLok dongle is not r
 A: Model 82 is available in VST, AU, and AAX formats. Check the official product page for the full list of supported hosts and versions.
 
 **Q: Is the $29 price a permanent reduction or a limited-time sale?**
-A: This is a limited-time sale price. Verify current pricing directly on the Plugin Boutique product page before purchasing.
+A: Pricing varies — check the current price on the Plugin Boutique product page.
 
 **Q: What are the system requirements?**
 A: Check the official product page for current macOS and Windows compatibility details, as these can change with software updates.

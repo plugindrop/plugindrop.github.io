@@ -70,9 +70,6 @@ A: Check the official product page on Plugin Boutique for confirmed plugin forma
 **Q: Is there an iLok requirement for BALANCE?**
 A: Licensing details including any iLok or account-based activation requirements are listed on the Plugin Boutique product page.
 
-**Q: Is this a limited-time deal?**
-A: Deals on Plugin Boutique are time-limited and can expire without notice. The price listed here was current at publication.
-
 ---
 
 ## Where to Buy

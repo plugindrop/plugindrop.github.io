@@ -72,7 +72,7 @@ A: It operates as a plugin (VST/AU/AAX format). Check the product page for the f
 A: No — Scaler EQ is a standalone plugin. Owning Scaler 2 is not a requirement.
 
 **Q: Is the $39 price a permanent reduction or a limited-time deal?**
-A: This is a limited-time sale price. The regular listed price is $59.
+A: Pricing varies — check the current price on the Plugin Boutique product page.
 
 ---
 

@@ -71,9 +71,6 @@ A: Check the official product page for current activation requirements — iLok 
 **Q: What plugin formats are supported?**
 A: Refer to the Plugin Boutique product page for the confirmed list of supported formats (VST, AU, AAX, etc.) and compatible DAWs.
 
-**Q: Is this a time-limited sale?**
-A: Deal end dates are not always published. Verify the current price on the product page before purchasing, as pricing can revert without notice.
-
 **Q: What are the system requirements?**
 A: Check the official product page for up-to-date system requirements — OS compatibility and minimum specs can change between versions.
 
@@ -81,7 +78,7 @@ A: Check the official product page for up-to-date system requirements — OS com
 
 ## Where to Buy
 
-A Weiss Engineering mastering plugin is not the kind of deal that comes around often. At **$69**, the MM-1 is within reach for producers and engineers who previously couldn't justify the full price.
+A Weiss Engineering mastering plugin is not the kind of deal that comes around often. At **$69**, the MM-1 is within reach for producers and engineers who previously couldn't justify the.
 
 ---
 

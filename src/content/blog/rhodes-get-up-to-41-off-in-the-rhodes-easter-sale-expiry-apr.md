@@ -40,13 +40,13 @@ The Rhodes V8 generated significant buzz as the first official Rhodes plugin. On
 
  
 
-| Product | Regular Price | Easter Sale (up to 41% off) | 
+| Product | Regular Price | Sale Price | 
 |---|---|---|
-| V8 | ~~$179.95~~ | Check deal page for exact price |
-| V8 Pro | ~~$239.95~~ | Check deal page for exact price |
-| V-Rack | ~~$124.95~~ | Check deal page for exact price |
+| V8 | | Check deal page for exact price |
+| V8 Pro | | Check deal page for exact price |
+| V-Rack | | Check deal page for exact price |
 
-> ** Verify current pricing on the deal page — prices can change before the April 12th expiry.
+> ** 
 
 [Check exact prices and grab the deal here](https://www.pluginboutique.com/deals/22664?utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763).
 

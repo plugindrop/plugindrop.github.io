@@ -61,9 +61,6 @@ For producers already inside the InstaChord 2 ecosystem, an all-in-one pack cons
 **Q: Do I need InstaChord 2 to use this preset pack?**
 A: Yes. This is a preset library built exclusively for InstaChord 2. The base plugin is required to load and use any presets from this pack.
 
-**Q: Is this a one-time purchase or a subscription?**
-A: Plugin Boutique sells products as standard one-time purchases. No ongoing subscription is associated with this pack.
-
 **Q: Is an iLok dongle required for this preset pack?**
 A: Preset content packs do not require iLok. Activation follows Plugin Boutique's standard delivery process.
 

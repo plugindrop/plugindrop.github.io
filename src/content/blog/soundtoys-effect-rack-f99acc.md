@@ -65,7 +65,7 @@ Verify current pricing on the product page — deals can change.
 | Name | Price | Key Difference |
 |---|---|---|
 | Waves Signature Series bundles | Varies (frequent sales) | Larger plugin count, different saturation/delay character |
-| FabFilter Total Bundle | ~$699–$899 full price | Stronger surgical EQ/compression focus, less saturation/creative FX depth |
+| FabFilter Total Bundle | ~$699–$899 | Stronger surgical EQ/compression focus, less saturation/creative FX depth |
 | iZotope Everything Bundle | ~$499+ on sale | Includes mastering, repair, and mixing tools; less focused on analog character |
 
 If analog-modeled saturation and creative delay are the priority, the Soundtoys Effect Rack is purpose-built for that. If you need a broader toolkit including mastering and audio repair, iZotope's bundle covers more ground at a higher price point.
@@ -76,9 +76,6 @@ If analog-modeled saturation and creative delay are the priority, the Soundtoys 
 
 **Q: Does Soundtoys Effect Rack require iLok?**
 A: Soundtoys uses iLok license management. An iLok account is required; check the product page for whether a physical iLok dongle is needed or if machine-based activation is supported.
-
-**Q: Is this a permanent license or a subscription?**
-A: Soundtoys Effect Rack is sold as a perpetual license — you own the plugins outright. Confirm on the product page whether this includes a maintenance period for free updates.
 
 **Q: What formats are included (VST, AU, AAX)?**
 A: Soundtoys plugins support major DAW formats including VST, AU, and AAX. Check the official product page for the full list of supported formats and DAWs.

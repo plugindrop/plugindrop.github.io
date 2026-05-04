@@ -69,9 +69,6 @@ A: BRUTE is available through Plugin Boutique. The deal price of $29.00 is speci
 **Q: Does BRUTE require an iLok dongle?**
 A: Check the official product page for current activation requirements, as license systems vary by developer.
 
-**Q: Is this a permanent price reduction or a limited-time sale?**
-A: Based on the deal structure, this is a promotional discount — not a permanent price change. The standard retail price is $119.00.
-
 **Q: What DAWs is BRUTE compatible with?**
 A: Check the official product page for confirmed format support (VST, AU, AAX) and operating system requirements.
 

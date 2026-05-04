@@ -65,9 +65,6 @@ If your workflow is primarily beat-driven and you need quick drop-in textures, a
 **Q: Does World Suite 3 require iLok?**
 A: Check the official product page or developer site for activation and DRM requirements — these can vary by version.
 
-**Q: Is this a one-time purchase or subscription?**
-A: Based on the Plugin Boutique listing, this appears to be a perpetual license purchase. Confirm on the product page before buying.
-
 **Q: What DAWs and formats are supported?**
 A: Check the product page for the full list of supported formats (VST, AU, AAX, standalone) and system requirements.
 
@@ -78,7 +75,7 @@ A: Plugin Boutique's refund policy applies — check their terms of service dire
 
 ## Where to Buy
 
-A world music virtual instrument library is a deal worth bookmarking — or better yet, acting on. Head to Plugin Boutique and lock in the current price while it's live.
+A world music virtual instrument library is a deal worth bookmarking. Check current pricing at Plugin Boutique.
 
 [**Get World Suite 3 for $149 at Plugin Boutique →**](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4)
 

@@ -49,7 +49,7 @@ Syntorial has been a long-running recommendation in synthesis learning discussio
 
 ---
 
-Audible Genius doesn't run frequent mass discounts — when Syntorial goes on sale, it's worth paying attention. Verify exact current prices directly on the product page, as deals can change without notice.
+ Verify exact current prices directly on the product page, as deals can change without notice.
 
 [Check current pricing and grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/66-Music-Courses/78-Video-Courses/10674-Syntorial-2?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=syntorial-2-training-software-synth-by-audible-genius-on-sal)
 
@@ -59,7 +59,7 @@ Audible Genius doesn't run frequent mass discounts — when Syntorial goes on sa
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Syntorial 2 | 40% off (current deal) | Interactive ear-training with a built-in synth |
+| Syntorial 2 | Discount | Interactive ear-training with a built-in synth |
 | Coursera / Berklee Online Synthesis Courses | Varies | Academic format, no built-in instrument |
 | YouTube synthesis tutorials | Free | Unstructured; no interactive challenges |
 
@@ -72,9 +72,6 @@ If you want a fully free, self-curated path, YouTube channels and free KVR resou
 **Q: Do I need an existing synthesizer to use Syntorial 2?**
 A: No — Syntorial 2 includes a built-in software synthesizer used throughout the lessons.
 
-**Q: Is this a video course, software, or both?**
-A: It's an interactive application that combines video lessons with a playable software synth and hands-on exercises — not a passive video course.
-
 **Q: Does it require iLok or a specific activation system?**
 A: Check the official product page at Plugin Boutique for current activation and license details.
 
@@ -85,7 +82,7 @@ A: Syntorial 2 runs as a standalone application. For full system requirements, r
 
 ## Where to Buy
 
-40% off Syntorial 2 is a solid window to invest in fundamentals that pay off across every synth you'll ever touch. These sales don't run constantly — if synthesis is on your learning list, now is a reasonable time to act.
+ These sales don't run constantly — if synthesis is on your learning list, now is a reasonable time to act.
 
 [Check the current price at Plugin Boutique.](https://pluginboutique.com/product/66-Music-Courses/78-Video-Courses/10674-Syntorial-2?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=syntorial-2-training-software-synth-by-audible-genius-on-sal)
 

@@ -38,7 +38,7 @@ Pulsar Audio is a French software developer known for deep analog circuit modeli
 
 ---
 
-At $149 for four plugins, that's roughly **$37.25 per processor** — strong value if even two of the four become go-to tools in your sessions. Pulsar Audio doesn't run frequent deep discounts, so a 25% bundle reduction is worth paying attention to if these plugins are already on your radar.
+At $149 for four plugins, that's roughly **$37.25 per processor** — strong value if even two of the four become go-to tools in your sessions. 
 
 [Get the Pulsar Audio Blue Bundle at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/9102-Pulsar-Audio-Blue-Bundle-MP-EQ-VM-COMP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-audio-blue-bundle-mp-eq-vm-comp-66a06a)
 
@@ -63,9 +63,6 @@ A: Check the official product page or Plugin Boutique listing for current activa
 
 **Q: How many computers can I activate the bundle on?**
 A: Verify the exact activation limit on the Pulsar Audio website or Plugin Boutique product page.
-
-**Q: Is this deal available outside Plugin Boutique?**
-A: This specific 25% discount is listed through Plugin Boutique. Other retailers may carry Pulsar Audio products at different price points.
 
 **Q: What formats are supported (VST, AU, AAX)?**
 A: Check the product page for the full list of supported plugin formats and OS compatibility before purchasing.

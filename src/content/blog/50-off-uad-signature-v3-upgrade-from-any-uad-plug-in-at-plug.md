@@ -31,7 +31,7 @@ UAD Signature V3 is a curated plug-in bundle from Universal Audio, one of the mo
 
 ## What Producers Are Saying
 
-UAD plug-ins have long been a staple recommendation on mixing forums. On KVR Audio and Reddit's [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/), UAD bundle deals reliably generate significant engagement — users commonly mention UAD emulations as benchmarks when comparing hardware-modeled plugins. The Signature series in particular is frequently cited in discussions about "buy once, use forever" analog emulation libraries. Community consensus tends to position UAD bundles as a strong value proposition when discounted, given that full prices are on the higher end of the market.
+UAD plug-ins have long been a staple recommendation on mixing forums. On KVR Audio and Reddit's [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/), UAD bundle deals reliably generate significant engagement — users commonly mention UAD emulations as benchmarks when comparing hardware-modeled plugins. The Signature series in particular is frequently cited in discussions about "buy once, use forever" analog emulation libraries. Community consensus tends to position UAD bundles as a strong value proposition when discounted, given that prices are on the higher end of the market.
 
 ---
 
@@ -44,7 +44,7 @@ UAD plug-ins have long been a staple recommendation on mixing forums. On KVR Aud
 
 ---
 
-If you've been waiting for the right moment to upgrade, this April window is a strong candidate. The deal expires **April 30, 2026**, with no indication of an extension.
+ 
 
 [Check current pricing and grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17065-UAD-Signature-V3-Upgrade-from-Any-UAD-Plug-in?utm_source=plugindrop&utm_medium=article&utm_campaign=50-off-uad-signature-v3-upgrade-from-any-uad-plug-in-at-plug&a_aid=69cb95abe1763)
 
@@ -70,9 +70,6 @@ A: UAD plug-ins now run natively on Mac and PC without DSP hardware. Check the o
 **Q: What qualifies as "any UAD plug-in" for the upgrade price?**
 A: The upgrade is open to users who own at least one UAD plug-in. Verify eligibility details on the Plugin Boutique product page before purchasing.
 
-**Q: Is this a perpetual license or a subscription?**
-A: UAD plug-ins have historically been sold as perpetual licenses, but confirm current licensing terms on the product page.
-
 **Q: Does this deal require iLok or a specific activation method?**
 A: Check the official product page or UAD's site for current activation requirements, as these can change between versions.
 
@@ -80,7 +77,7 @@ A: Check the official product page or UAD's site for current activation requirem
 
 ## Where to Buy
 
-50% off UAD Signature V3 is a meaningful discount on one of audio's most respected plugin collections — and it's only live. Don't let the deadline catch you off guard.
+ Don't let the deadline catch you off guard.
 
 [Check the current price at Plugin Boutique.](https://pluginboutique.com/product/81-Bundles/97-Various-Category/17065-UAD-Signature-V3-Upgrade-from-Any-UAD-Plug-in?utm_source=plugindrop&utm_medium=article&utm_campaign=50-off-uad-signature-v3-upgrade-from-any-uad-plug-in-at-plug&a_aid=69cb95abe1763)
 

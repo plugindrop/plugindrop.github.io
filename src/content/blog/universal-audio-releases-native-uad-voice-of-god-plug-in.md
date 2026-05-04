@@ -38,7 +38,7 @@ The Little Labs Voice Of God Bass Resonance is Universal Audio's official plug-i
 - **Mix Engineers** — Useful for tightening muddy low-end across full mixes, bass buses, or individual tracks.
 - **UAD Users Going Native** — Producers who previously needed Apollo hardware can now use Voice Of God in any DAW setup on macOS or Windows.
 
-The $49 intro price runs until **April 30, 2026**. After that, it returns to $99. UA intro pricing on new native releases tends to be the deepest discount you'll see for a while, so this is likely the best time to pick it up.
+ After that, it returns to $99. UA intro pricing on new native releases tends to be the deepest discount you'll see for a while, so this is likely the best time to pick it up.
 
 Verify current pricing on the product page — deals can change. [Check the current price and grab the deal here.](https://www.pluginboutique.com/search?search_query=little+labs+voice+of+god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-releases-native-uad-voice-of-god-plug-in)
 
@@ -60,15 +60,12 @@ A: No. The new native version runs on any macOS or Windows system without UA har
 **Q: What plug-in formats are supported?**
 A: VST, VST3, Audio Units (AU), and AAX.
 
-**Q: How long does the intro pricing last?**
-A: The $49 intro price is available . After that, it returns to the regular $99 price.
-
 **Q: What are the system requirements?**
 A: Check the official Universal Audio product page for detailed system requirements and supported OS versions.
 
 ## Where to Buy
 
-Half off a UA plug-in built for one job — making your low end hit exactly where it should. $49 instead of $99, but only until April 30. [Don't sleep on this one.](https://www.pluginboutique.com/search?search_query=little+labs+voice+of+god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-releases-native-uad-voice-of-god-plug-in)
+Half off a UA plug-in built for one job — making your low end hit exactly where it should. $49  [Don't sleep on this one.](https://www.pluginboutique.com/search?search_query=little+labs+voice+of+god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-releases-native-uad-voice-of-god-plug-in)
 
 ---
 

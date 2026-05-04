@@ -45,7 +45,7 @@ HY-Plugins sits in the "hidden gem" tier that tends to get discussed in threads 
 ## Who Is It For?
 
 - **Experimental producers** — The sequencer and slicer tools are well-suited to generative, non-linear composition approaches
-- **Budget-conscious musicians** — Already affordable at full price, the 30% discount makes entry into the catalog very low risk
+- **Budget-conscious musicians** — Already affordable at, the 30% discount makes entry into the catalog very low risk
 - **Sound designers** — The effects and synth instruments are designed for creative texture work rather than bread-and-butter duties
 - **MIDI-focused composers** — Producers who build tracks around MIDI manipulation rather than audio will find the sequencer range directly relevant
 
@@ -82,15 +82,11 @@ A: Check the official product page on Plugin Boutique for current activation and
 **Q: What formats does HY-Plugins support (VST, AU, AAX)?**
 A: Format availability varies by product — check each individual product listing for supported plugin formats and system requirements.
 
-**Q: How long does the 30% sale last?**
-A: No end date is confirmed. Sales like this can end without notice, so check Plugin Boutique for current availability.
-
 ---
 
 ## Where to Buy
 
-30% off an already-affordable catalog is a straightforward win for producers exploring MIDI sequencing, sampling, and creative effects. Don't wait on this one — indie plugin sales rarely have long windows.
-
+ 
 [Check the current price at Plugin Boutique.](https://pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ)
 
 ---

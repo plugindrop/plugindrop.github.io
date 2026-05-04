@@ -15,7 +15,7 @@ converted: true
 
 ## What Is the IK Multimedia Spring Instruments Sale?
 
-IK Multimedia — the Italian music technology company behind T-RackS, AmpliTube, and SampleTank — is running a major Spring sale on their virtual instrument lineup through April 30, 2026. The promotion covers five flagship instruments: **MODO BASS 2**, **MODO DRUM 1.5**, **Hammond B-3X**, **Miroslav Philharmonik 2**, and **SampleTank 4 MAX v2**. Collections start from $29.99 USD/EUR. IK is framing this as part of their 30th anniversary celebrations, so expect deeper-than-usual discounts.
+ The promotion covers five flagship instruments: **MODO BASS 2**, **MODO DRUM 1.5**, **Hammond B-3X**, **Miroslav Philharmonik 2**, and **SampleTank 4 MAX v2**. Collections start from $29.99 USD/EUR. IK is framing this as part of their 30th anniversary celebrations, so expect deeper-than-usual discounts.
 
 ## Key Features
 
@@ -42,7 +42,7 @@ IK Multimedia's instrument lineup has a well-established reputation in the produ
 |---|---|---|
 | Collections start from | **$29.99** | Individual product pricing varies |
 
-IK Multimedia doesn't run instrument-wide sales at this level frequently — their major promotions tend to land around Black Friday and mid-year. This Spring sale, tied to the 30th anniversary, looks like one of the better windows to buy in. The sale runs **April 2–30, 2026**.
+IK Multimedia doesn't run instrument-wide sales at this level frequently — their major promotions tend to land around Black Friday and mid-year. This Spring sale, tied to the 30th anniversary, looks like one of the better windows to buy in. 
 
 > **Note:** Verify current pricing on the product page — deals can change, and individual product prices vary. The $29.99 starting price refers to collections, not necessarily full standalone instruments.
 
@@ -52,16 +52,13 @@ IK Multimedia doesn't run instrument-wide sales at this level frequently — the
 
 | Name | Approximate Price | Key Difference |
 |---|---|---|
-| Native Instruments Komplete | Varies (often ~$599 full price) | Broader all-in-one ecosystem with more effect plugins included |
+| Native Instruments Komplete | Varies (often ~$599 | Broader all-in-one ecosystem with more effect plugins included |
 | Ample Sound Ample Bass | Free Lite / ~$149 full | Sample-based bass — different approach than MODO BASS's physical modeling |
 | Spitfire Audio BBCSO Discover | Free | Orchestral library alternative to Miroslav Philharmonik, though smaller in scope |
 
 If you specifically want physically modeled instruments (bass, drums) with no sample loading times, IK's MODO series is one of the few options in that space. If you need a broader orchestral palette on a budget, Spitfire's free BBCSO Discover is worth exploring before committing to Miroslav Philharmonik 2. For an all-in-one production suite, the real comparison is SampleTank 4 MAX vs. Native Instruments Komplete — and that decision often comes down to which sound library better fits your genre.
 
 ## FAQ
-
-**Q: How long does the IK Multimedia Spring Instruments Sale last?**
-A: The sale runs from April 2 through April 30, 2026.
 
 **Q: Do IK Multimedia instruments require iLok?**
 A: No. IK Multimedia uses their own IK Product Manager for authorization — no iLok dongle or account needed.
@@ -74,7 +71,7 @@ A: IK Multimedia often offers crossgrade and upgrade pricing. Check their store 
 
 ## Where to Buy
 
- This sale ends April 30, 2026, so there's no rush to impulse-buy, but don't sleep on it either.
+ 
 
 [See the full Spring Instruments Sale lineup here](https://www.ikmultimedia.com/news/?id=SpringVISale2025).
 

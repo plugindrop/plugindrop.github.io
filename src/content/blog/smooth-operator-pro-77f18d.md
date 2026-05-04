@@ -67,9 +67,6 @@ If you specifically need a dedicated spectral smoothing and resonance suppressio
 **Q: Does Smooth Operator Pro require an iLok dongle?**
 A: Check the official product page for current activation requirements — iLok hardware requirements vary by version.
 
-**Q: Is this deal available worldwide?**
-A: Plugin Boutique typically sells globally, but verify any regional pricing differences on the product page at checkout.
-
 **Q: What formats does Smooth Operator Pro come in?**
 A: Refer to the product page for confirmed VST/AU/AAX format availability and OS compatibility.
 

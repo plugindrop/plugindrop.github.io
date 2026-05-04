@@ -21,7 +21,7 @@ converted: true
 
 The EL8 Distressor is a compressor with a serious hardware pedigree. Designed by Dave Derr at Empirical Labs, the original hardware unit became a fixture in professional recording studios for its ability to go from clean, transparent compression all the way to aggressively saturated, tape-style crush — all in one box. This plugin is the official software version from Empirical Labs themselves, meaning it's built by the people who know the circuit inside out.
 
-Empirical Labs doesn't flood the market with plugins. When they release software, it's a deliberate model of hardware they've spent decades perfecting. At full price, $199 already reflects that heritage. 
+Empirical Labs doesn't flood the market with plugins. When they release software, it's a deliberate model of hardware they've spent decades perfecting. At, $199 already reflects that heritage. 
 ---
 
 ## Key Features
@@ -69,9 +69,6 @@ FabFilter Pro-C 2 is the go-to when you want precise, transparent control and a 
 ---
 
 ## FAQ
-
-**Q: Is this an official Empirical Labs product?**
-A: Yes. The EL8 Distressor plugin is developed and released by Empirical Labs, the same company behind the original hardware unit.
 
 **Q: Does this plugin require iLok?**
 A: Check the official product page on Plugin Boutique for current activation and licensing requirements before purchasing.

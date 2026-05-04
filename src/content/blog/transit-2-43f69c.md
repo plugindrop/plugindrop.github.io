@@ -72,9 +72,6 @@ A: Check the official product page for the current activation and license method
 **Q: What plugin formats does Transit 2 support?**
 A: Verify supported formats (VST, AU, AAX, etc.) and DAW compatibility directly on the Plugin Boutique product page, as format availability can vary.
 
-**Q: Is this a permanent price drop or a limited-time sale?**
-A: This appears to be a limited-time deal. Check the product page for the current price before purchasing.
-
 **Q: What are the system requirements for Transit 2?**
 A: System requirements (macOS/Windows versions, RAM, CPU) are listed on the official product page — always verify before buying.
 

@@ -74,9 +74,6 @@ The free Devil Loc covers the core crush behavior but lacks the parallel Mix con
 **Q: Does Devil Loc Deluxe require iLok?**
 A: Soundtoys uses its own licensing system tied to a machine or USB drive — check the official site for current activation details.
 
-**Q: Is this a permanent license or a subscription?**
-A: Soundtoys plugins are sold as perpetual licenses.
-
 **Q: What DAWs does Devil Loc Deluxe support?**
 A: It supports AU, VST, VST3, and AAX formats, covering all major DAWs including Logic, Ableton Live, Pro Tools, and Cubase.
 

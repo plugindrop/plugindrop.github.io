@@ -75,9 +75,6 @@ A: Check the official product page on Plugin Boutique for supported formats (VST
 **Q: Does it require an iLok dongle for activation?**
 A: Activation and licensing details are listed on the product page — confirm before purchasing if that matters to your setup.
 
-**Q: Is this a limited-time sale or permanent price drop?**
-A: this offer. Plugin Boutique sales can expire without notice, so verify the current price before adding to cart.
-
 ---
 
 ## Where to Buy

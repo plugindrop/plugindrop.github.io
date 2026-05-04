@@ -68,9 +68,6 @@ A: Check the official product page on Plugin Boutique for confirmed format compa
 **Q: Is an iLok required to activate Skaka?**
 A: Activation requirements are listed on the Plugin Boutique product page — check there for the current licensing details.
 
-**Q: How long is the 59% discount available?**
-A: Plugin Boutique deals are time-limited and can end without notice. The $29.00 price is active at publication but is not guaranteed beyond the stated sale window.
-
 ---
 
 ## Where to Buy

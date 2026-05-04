@@ -44,7 +44,7 @@ The Virtual Drummer 2 Bundle is a collection of genre-specific virtual drummer i
 
 ##  UJAM's individual Virtual Drummer 2 titles typically retail separately, so bundling is where the real value stacks up.
 
-50% off is a strong discount for UJAM products. If you've been watching this bundle, this is a meaningful price drop worth acting on.
+ If you've been watching this bundle, this is a meaningful price drop worth acting on.
 
 Note: Verify current pricing on the product page — deals can change.
 
@@ -68,9 +68,6 @@ If pattern-based playback with minimal setup is the priority, Virtual Drummer 2'
 
 **Q: Does the Virtual Drummer 2 Bundle require an iLok dongle?**
 A: UJAM products typically use their own activation system without requiring an iLok dongle, but verify activation requirements on the official product page before purchasing.
-
-**Q: Is this bundle compatible with all major DAWs?**
-A: The instruments support VST, AU, and AAX formats, which covers most major DAWs including Ableton Live, Logic Pro, Pro Tools, and others. Check the product page for the full compatibility list.
 
 **Q: Can I use the patterns as MIDI in other drum plugins?**
 A: Yes — UJAM's Virtual Drummer instruments support MIDI export, so patterns can be used with other instruments.

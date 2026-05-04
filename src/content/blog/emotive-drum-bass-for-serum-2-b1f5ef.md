@@ -78,7 +78,7 @@ A: Plugin Boutique's refund policy for digital downloads applies — check the o
 
 ## Where to Buy
 
-~~$49.00~~ down to **$10.00** is an 80% cut that's worth acting on if DnB is part of your production workflow. At that price, the risk is minimal and the genre coverage is immediate.
+ down to **$10.00** is an 80% cut that's worth acting on if DnB is part of your production workflow. At that price, the risk is minimal and the genre coverage is immediate.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/31-Synth-Presets/16790-Emotive-Drum-Bass-for-Serum-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=emotive-drum-bass-for-serum-2-b1f5ef)
 

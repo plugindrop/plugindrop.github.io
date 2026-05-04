@@ -75,9 +75,6 @@ A: No. SplitEQ uses Eventide's own account-based licensing and does not require 
 **Q: What plugin formats does SplitEQ support?**
 A: SplitEQ is available in VST, VST3, AU, and AAX formats, covering major DAWs on both Mac and Windows.
 
-**Q: Is this a subscription or a permanent license?**
-A: It is a perpetual license — a one-time purchase with no recurring fee.
-
 **Q: What are the system requirements?**
 A: Check the official Eventide site for current OS and DAW compatibility details.
 

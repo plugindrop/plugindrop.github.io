@@ -72,9 +72,6 @@ If Roland's specific hardware-to-software sound compatibility is the priority, Z
 **Q: Does ZENOLOGY PRO require iLok?**
 A: No. ZENOLOGY PRO uses Roland's own licensing system, activated through a Roland account — not iLok.
 
-**Q: Is this a perpetual license or a subscription?**
-A: The Plugin Boutique listing is a perpetual (lifetime) license. This is separate from Roland Cloud's subscription model.
-
 **Q: Does ZENOLOGY PRO work on both Mac and Windows?**
 A: Yes, it supports both Mac and Windows operating systems.
 

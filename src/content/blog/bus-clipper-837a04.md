@@ -65,9 +65,6 @@ A: Check the official product page on Plugin Boutique for current activation req
 **Q: What formats does Bus Clipper come in (VST, AU, AAX)?**
 A: Format availability is listed on the product page — confirm your DAW and OS compatibility there before purchasing.
 
-**Q: Is this deal available outside the Plugin Boutique store?**
-A: Other retailers may have different pricing.
-
 **Q: What are the system requirements?**
 A: Check the official product page for current macOS/Windows version requirements and minimum CPU specs.
 

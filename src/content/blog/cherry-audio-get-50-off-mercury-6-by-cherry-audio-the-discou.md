@@ -75,9 +75,6 @@ A: Cherry Audio products typically use their own license system without requirin
 **Q: What plugin formats does Mercury-6 support?**
 A: Check the Plugin Boutique product page for the confirmed list of supported formats (VST, VST3, AU, AAX) and compatible operating systems.
 
-**Q: Is this deal available outside the Plugin Boutique store?**
-A: Pricing at other retailers may differ.
-
 **Q: What's the refund policy if the plugin doesn't work on my system?**
 A: Refund and compatibility policies vary — check Plugin Boutique's terms and Cherry Audio's support page directly before purchasing.
 
@@ -85,7 +82,7 @@ A: Refund and compatibility policies vary — check Plugin Boutique's terms and 
 
 ## Where to Buy
 
-50% off the Mercury-6 is a meaningful discount on one of the more faithful Jupiter-6 emulations available at this price tier. [pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou) before the sale ends.
+ [pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou) before the sale ends.
 
 ---
 

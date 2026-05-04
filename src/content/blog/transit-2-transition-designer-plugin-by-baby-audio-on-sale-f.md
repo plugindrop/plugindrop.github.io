@@ -41,7 +41,7 @@ Transit 2 has picked up recognition including "Best Of" awards from Sound On Sou
 - **Film/Game Composers** — Transition effects are bread and butter for scoring; the macro knob approach speeds up sound design work significantly.
 - **Producers Tired of Manual Automation** — Anyone who spends too long drawing automation curves for multi-effect transitions will find the one-knob workflow appealing.
 
-Existing Transit v1 owners can upgrade for just $29.  The sale runs through **April 12, 2026** — verify current pricing on the product page, as deals can change.
+Existing Transit v1 owners can upgrade for just $29.  
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-transition-designer-plugin-by-baby-audio-on-sale-f&a_aid=69cb95abe1763)
 

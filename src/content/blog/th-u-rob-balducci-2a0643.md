@@ -9,7 +9,7 @@ score: 3.35
 draft: false
 converted: true
 ---
-**TH-U Rob Balducci — Overloud Mid-Season Sale 50% Off** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?search_query=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643)
+** [Check the current price here.](https://www.pluginboutique.com/search?search_query=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643)
 
 ---
 
@@ -35,12 +35,7 @@ Note: TH-U (the base plugin) is required to run this expansion. Check the produc
 
 - **Rock and Fusion Producers** — This rig is designed around the melodic, high-gain tones that define the rock/fusion genre Rob Balducci is known for
 - **Guitarists Tracking at Home** — Those building a DAW-based guitar rig who want a professionally sourced tone without expensive hardware
-- **TH-U Owners Expanding Their Library** — If you already own TH-U, adding a signature rig at 50% off is a low-risk way to diversify your available tones
-- **Amp Sim Enthusiasts** — Those who want an authentic artist-captured rig rather than generic amp modeling
-
----
-
- Additional options starting from €29.
+- **TH-U Owners Expanding Their Library** — If you already own TH-U.
 
 Verify current pricing on the product page — deals can change.
 
@@ -67,9 +62,6 @@ A: Yes — TH-U Rob Balducci is an expansion for the TH-U platform. The base TH-
 
 **Q: What DAWs and operating systems are supported?**
 A: Check the official Overloud product page for current system requirements and supported formats — these details can change with software updates.
-
-**Q: Is this a one-time purchase or subscription?**
-A: Check the product page for current license terms and activation details.
 
 **Q: Who is Rob Balducci?**
 A: Rob Balducci is a guitarist known for his work in the melodic rock and instrumental fusion space, recognized for a lyrical, high-gain playing style.

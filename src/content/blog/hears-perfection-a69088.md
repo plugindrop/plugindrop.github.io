@@ -73,9 +73,6 @@ A: Check the official product page or your account at Plugin Boutique for activa
 **Q: What DAWs and plugin formats are supported?**
 A: Verify supported formats (VST2, VST3, AU, AAX) and compatible DAWs on the official product page before purchasing.
 
-**Q: Is this a permanent license or a subscription?**
-A: Based on Plugin Boutique's standard listings, this appears to be a perpetual license purchase — confirm on the product page.
-
 **Q: What is Plugin Boutique's refund policy on plugins?**
 A: Refund eligibility for digital software varies; check Plugin Boutique's terms of service for the current policy before completing your purchase.
 
