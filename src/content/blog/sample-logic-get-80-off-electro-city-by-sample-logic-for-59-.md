@@ -11,7 +11,7 @@ originalPrice: "$299.99"
 discount: "80% OFF"
 saleExpiry: "2026-05-04"
 xText: "$60 for a $300 sample pack. sample logic never discounts this hard. if electro city was on your wish list this is legitimately it"
-draft: false
+draft: true
 ---
 **TL;DR:** ELECTRO CITY by Sample Logic is currently 80% off — drop from ~~$299.99~~ to just $59.99. That's $240 in savings on a cinematic electronic instrument built for modern production. [Grab the deal here.](https://audioplugin.deals/product/electro-city-sample-logic/ref/21/)
 

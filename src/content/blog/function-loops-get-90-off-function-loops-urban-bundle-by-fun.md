@@ -11,7 +11,7 @@ originalPrice: "$251.40"
 discount: "90% OFF"
 saleExpiry: "2026-05-04"
 xText: "function loops urban bundle just hit $25 from $251. that's 90% off. lowest ever. loop kits hit different when they're basically free"
-draft: false
+draft: true
 ---
 **TL;DR:** The Function Loops Urban Bundle is 90% off — ~~$251.40~~ down to $25. That's a multi-pack collection of royalty-free urban samples at the price of a single cheap plugin. [→ Get Function Loops Urban Bundle at Direct](https://pulse.audio/product/function-loops-urban-bundle/)
 
