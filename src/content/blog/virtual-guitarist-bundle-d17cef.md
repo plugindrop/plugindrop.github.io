@@ -40,7 +40,10 @@ The Virtual Guitarist series has a well-established reputation in producer commu
 - **Film and Media Composers:** The range of styles within the bundle covers multiple placement needs, from acoustic indie to heavier electric sounds.
 - **Home Studio Users:** The chord-based approach keeps the workflow accessible regardless of guitar playing ability.
 
-##  Buying the plugins individually at full price would cost significantly more, so this bundle entry point is worth comparing against individual title prices if you only need one or two styles.
+## Current Pricing
+
+Verify current pricing on the product page, as deals can change without notice.
+
 
 [→ Get the Virtual Guitarist Bundle for $99 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11881-Virtual-Guitarist-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-guitarist-bundle-d17cef)
 

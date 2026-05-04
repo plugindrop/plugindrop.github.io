@@ -45,11 +45,13 @@ The Manley Massive Passive hardware is widely regarded as a reference-grade mast
 - **Mixing engineers** — Useful for adding analog-style shaping to buses and stems where surgical EQ would sound too clinical.
 - **Mastering engineers** — The broad passive curves and stereo design suit final-stage frequency adjustments on full mixes.
 - **Producers chasing analog character** — Those building hybrid or analog-emulation chains can use this as a color-adding EQ rather than a corrective tool.
-- **
 
 ---
 
-##  If you've been on the fence, this is the kind of discount worth acting on.
+## Current Pricing
+
+Verify current pricing on the product page, as deals can change without notice.
+
 
 Verify current pricing on the product page — deals can change.
 

@@ -48,7 +48,10 @@ UJAM's Virtual Bassist line has built a consistent reputation in production comm
 
 ---
 
-##  Purchasing Virtual Bassist titles individually at standard pricing would push the total well above $99, making this bundle the efficient entry point for producers wanting cross-genre bass coverage. The per-instrument value improves significantly compared to buying separately.
+## Current Pricing
+
+Verify current pricing on the product page, as deals can change without notice.
+
 
 *Price verified at publication. Check the link for current availability.*
 

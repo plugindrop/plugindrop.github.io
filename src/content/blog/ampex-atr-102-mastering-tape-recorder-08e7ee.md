@@ -44,11 +44,13 @@ The ATR-102 has built a steady reputation in mastering and mixing communities ov
 - **Mastering engineers:** Built around a dedicated mastering machine, it fits naturally into final-stage chains where tape character is a deliberate choice.
 - **Mix bus processors:** Works on the stereo bus to add cohesion and analog glue to dense, layered productions.
 - **Producers working in vintage genres:** Soul, jazz, classic rock, and lo-fi hip-hop workflows where analog saturation is a core aesthetic, not an afterthought.
-- **
 
 ---
 
-##  Deep discounts on Universal Audio's individual titles don't appear on a constant cycle, so this deal is worth noting if tape emulation is already on your radar. Verify current pricing on the product page — deals can change.
+## Current Pricing
+
+Verify current pricing on the product page, as deals can change without notice.
+
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee)
 

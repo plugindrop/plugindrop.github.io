@@ -47,11 +47,13 @@ Soundtoys has been a go-to name in mixing and production discussions for well ov
 - **Mix engineers** — The bundle's saturation, EQ, and spatial tools fit naturally into a mixing-focused workflow.
 - **Electronic music producers** — FilterFreak, Tremolator, and Crystallizer are designed for sound design and rhythmic processing central to electronic production.
 - **Vocal producers** — Little AlterBoy and EchoBoy address pitch manipulation and creative delay processing common in modern vocal chains.
-- **
 
 ---
 
-##  If you've been waiting for a significant price drop rather than the occasional 20–30% discount, this deal is worth acting on.
+## Current Pricing
+
+Verify current pricing on the product page, as deals can change without notice.
+
 
 Verify current pricing on the product page — deals can change.
 

@@ -86,7 +86,10 @@ A: Yes — Soundtoys offers a free version of Devil Loc with a subset of feature
 
 ---
 
-## 00~~ regular price, this is a 61% reduction on a plugin with a specific, well-established use case in drum and lo-fi production. Soundtoys standalone discounts at this depth are not a regular occurrence.
+## Where to Buy
+
+Verify current pricing on the product page, as deals can change without notice.
+
 
 [→ Get Devil Loc Deluxe at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/1803-Devil-Loc-Deluxe?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=devil-loc-deluxe-55f11e)
 

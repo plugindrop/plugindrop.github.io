@@ -43,7 +43,6 @@ SSL's mix bus tools have long-standing credibility in professional circles. On f
 ## Who Is It For?
 
 - **Mix Engineers** — The suite's bus-focused processing fits directly into mastering-style mix bus workflows, particularly for engineers who want analog color without hardware investment.
-- **
 - **Mastering Engineers** — The HF Comp, Violet EQ, and Stereo Image tools cover several key mastering moves within a single cohesive bundle.
 - **SSL Hardware Users** — Producers already familiar with Fusion hardware will find the plugins a direct complement for ITB consistency or recall.
 

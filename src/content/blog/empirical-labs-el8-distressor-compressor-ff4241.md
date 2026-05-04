@@ -46,7 +46,6 @@ The hardware Distressor has been a studio staple for decades — it consistently
 - **Mix engineers** — Designed for use across a wide range of compression tasks, from transparent gain control to aggressive character compression.
 - **Recording producers** — Useful for tracking sessions where hardware-style color is part of the workflow, without the price tag of the physical unit.
 - **Beatmakers and electronic producers** — The distortion and saturation modes are well-suited to adding grit and energy to programmed drums and synth elements.
-- **
 
 ---
 

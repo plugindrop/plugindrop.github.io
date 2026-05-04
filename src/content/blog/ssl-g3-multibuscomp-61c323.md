@@ -44,7 +44,6 @@ The SSL G-Series bus compressor circuit has been a consistent recommendation acr
 
 - **Mix engineers working in SSL-adjacent workflows** — those who reference the hardware G-Bus character as a target sound will find the emulation a natural fit.
 - **Producers handling full mix bus processing** — the compressor is designed specifically for bus-stage use, where VCA-style glue is the primary goal.
-- **
 - **Composers managing multiple stems** — the multi-bus capability makes it relevant beyond the stereo mix bus, applicable to drum, instrument, and vocal submixes.
 
 ---
@@ -87,7 +86,10 @@ A: License terms including machine activation limits are set by SSL; the product
 
 ---
 
-##  The deal is live at Plugin Boutique.
+## Where to Buy
+
+Verify current pricing on the product page, as deals can change without notice.
+
 
 [→ Get SSL G3 MultiBusComp at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323)
 
