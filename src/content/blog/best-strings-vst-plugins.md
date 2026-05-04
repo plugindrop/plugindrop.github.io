@@ -14,7 +14,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/B49AQdh1sTw" title="10 Best Strings & Orchestral VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/B49AQdh1sTw" title="10 Best Strings & Orchestral VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -46,7 +46,7 @@ This guide covers ten libraries across the full spectrum: three free options tha
 
 ### BBCSO Discover — Best free orchestral starting point, full stop
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/b66jO0GEFVA" title="BBCSO Discover — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/b66jO0GEFVA" title="BBCSO Discover — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** Free
@@ -65,7 +65,7 @@ It runs in Spitfire's own BBCSO player (free download), not Kontakt. Installatio
 
 ### Spitfire LABS Strings — Textural strings for layering and atmosphere
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/-qijqVIjmCA" title="Spitfire LABS Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-qijqVIjmCA" title="Spitfire LABS Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** Free
@@ -84,7 +84,7 @@ LABS requires registration on the Spitfire site and runs in the free LABS app.
 
 ### VSCO2 Community Edition — Open-source orchestral foundation for the full ensemble
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/HCKIvA5vu1g" title="VSCO2 Community Edition — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/HCKIvA5vu1g" title="VSCO2 Community Edition — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Versilian Studios
 - **Price:** Free
@@ -103,7 +103,7 @@ The Versilian Studios Community Orchestra 2 (VSCO2 CE) is a free, open-source or
 
 ### Cinematic Studio Strings — Best legato strings under $200
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/uxmE1SSqGJk" title="Cinematic Studio Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/uxmE1SSqGJk" title="Cinematic Studio Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Cinematic Studio
 - **Price:** ~$149
@@ -122,7 +122,7 @@ Cinematic Studio Strings requires the full paid version of Kontakt — not the f
 
 ### Session Strings Pro 2 — Pop and contemporary strings that actually sit in a mix
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/P3rfy9FJlI0" title="Session Strings Pro 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/P3rfy9FJlI0" title="Session Strings Pro 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
 - **Price:** ~$149 (also available in Komplete bundles)
@@ -139,7 +139,7 @@ Native Instruments designed Session Strings Pro 2 specifically for pop, soul, an
 
 ### 8Dio Adagio Strings — Lush, sustained tone for emotional underscore
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/otsmZJm4kPw" title="8Dio Adagio Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/otsmZJm4kPw" title="8Dio Adagio Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** 8Dio
 - **Price:** ~$149–$249 depending on edition
@@ -157,6 +157,9 @@ Native Instruments designed Session Strings Pro 2 specifically for pop, soul, an
 ## Premium Orchestral Libraries
 
 ### Spitfire BBC Symphony Orchestra — Community's top-rated premium strings library
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/B49AQdh1sTw" title="Spitfire BBC Symphony Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Spitfire Audio
 - **Price:** ~$449 (Core); Professional edition at higher price
 - **Platforms:** Windows, macOS
@@ -176,7 +179,7 @@ Community consensus at VI-Control, r/composer, and major production forums place
 
 ### EastWest Hollywood Strings — The benchmark for multi-mic Hollywood sound
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ScEF8OALc_M" title="EastWest Hollywood Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ScEF8OALc_M" title="EastWest Hollywood Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** EastWest
 - **Price:** ComposerCloud+ subscription (~$29.99/month)
@@ -195,7 +198,7 @@ EastWest Hollywood Strings was recorded at EastWest Studios in Hollywood, and th
 
 ### Orchestral Tools Berlin Strings — Expressive, modular European strings
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/-uiKhO0wQjs" title="Orchestral Tools Berlin Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-uiKhO0wQjs" title="Orchestral Tools Berlin Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Orchestral Tools
 - **Price:** Modular pricing via SINE player (individual sections available)
@@ -212,7 +215,7 @@ Orchestral Tools delivers Berlin Strings through their modular SINE player archi
 
 ### Cinesamples CineStrings CORE — Film scoring strings with broad articulation depth
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/HHuou5dCtfM" title="Cinesamples CineStrings CORE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/HHuou5dCtfM" title="Cinesamples CineStrings CORE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Cinesamples
 - **Price:** ~$299
@@ -231,7 +234,7 @@ Cinesamples built CineStrings CORE specifically for film and television scoring 
 
 ### Spitfire BBC Symphony Orchestra — Professional recording depth the free tier can't cover
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/VM4MnvrnLT0" title="Spitfire BBC Symphony Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/VM4MnvrnLT0" title="Spitfire BBC Symphony Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** ~$449 (Core)
@@ -242,6 +245,9 @@ Cinesamples built CineStrings CORE specifically for film and television scoring 
 ---
 
 ### EastWest Hollywood Strings — Multi-mic depth that single-perspective libraries can't replicate
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ScEF8OALc_M" title="EastWest Hollywood Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** EastWest
 - **Price:** ComposerCloud+ (~$29.99/month)
 - **Why upgrade:** Free and budget strings libraries offer one or two mic perspectives at best. Hollywood Strings' five-position architecture gives you the recording control that professional post-production and sync licensing often requires — and the depth at each position is substantially greater than what any mid-range alternative provides.

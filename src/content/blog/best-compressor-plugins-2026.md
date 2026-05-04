@@ -217,7 +217,7 @@ For most producers, one flexible compressor like FabFilter Pro-C 2 handles both 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)
 - [10 Best Compressor Plugins for Mixing in 2026](/posts/best-free-compressor-vst-plugins/)
 - [10 Best Compressor Plugins for Drums in 2026 (Punch, Glue, Transient Control)](/posts/best-compressor-plugins-drums/)
-- [10 Best EQ Plugins for Mixing & Mastering in 2026](/posts/best-eq-plugins-mixing-mastering/)
+- [10 Best EQ Plugins for Mixing & Mastering in 2026](/posts/best-eq-plugins-2026/)
 - [Best Mixing Plugins 2026: 12 Essential Tools](/posts/best-mixing-plugins-2026/)
 
 ---

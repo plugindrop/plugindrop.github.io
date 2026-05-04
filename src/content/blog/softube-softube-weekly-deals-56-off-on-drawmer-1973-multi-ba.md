@@ -10,7 +10,7 @@ dealPrice: "$69"
 discount: "56% OFF"
 saleExpiry: "2026-05-05"
 xText: "drawmer 1973 dropped to 56% off. sits like butter in a mix. lowest i've seen all year. if you've been thinking about it, now's the time."
-draft: false
+draft: true
 ---
 **TL;DR:** Softube's Drawmer 1973 Multi-Band Compressor plugin is 56% off at $69 as part of Softube's Weekly Deals promotion. This is a plugin emulation of a respected piece of broadcast-grade hardware, brought down to an accessible price point. [→ Get Drawmer 1973 at Softube](https://www.softube.com/us/plug-ins/drawmer-1973-multi-band-compressor)
 
@@ -19,6 +19,7 @@ draft: false
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="Softube — Softube Weekly Deals - 56% off on Drawmer 1973 Multi-Band Compressor plugin — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/203363728%3Fsecret_token%3Ds-n1etLw1IAx0&color=%2300c795&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 </div>
+
 
 ## What Is the Drawmer 1973 Multi-Band Compressor?
 

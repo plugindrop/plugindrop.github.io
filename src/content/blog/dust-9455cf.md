@@ -17,8 +17,9 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/-t1qkjekBsw" title="87% Off DUST — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-t1qkjekBsw" title="87% Off DUST — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 ## What Is DUST?
 

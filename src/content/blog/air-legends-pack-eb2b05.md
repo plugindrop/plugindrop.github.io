@@ -1,18 +1,15 @@
 ---
-title: "50% Off AIR Legends Pack"
-description: "The AIR Legends Pack is currently half price at Plugin Boutique — ~~$249~~ **$124**, saving you $125 on a bundle of AIR Music Technology's vintage-focused..."
-pubDate: "2026-05-02T14:42:38Z"
-tags: ["sale", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=air-legends-pack-eb2b05"
-heroImage: "/images/air-legends-pack-eb2b05.jpg"
+title: "AIR Legends Pack: Features, Pricing & Is It Worth It? (2026)"
+description: "AIR Music Technology has a long history in the plugin world — the company originated inside Avid and was responsible for the instrument suit Find current pricing and reviews at Plugin Boutique."
+pubDate: '2026-05-02T14:42:38Z'
+tags: ["review", "effects", "music-production"]
+affiliate: https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=air-legends-pack-eb2b05
+heroImage: /images/air-legends-pack-eb2b05.jpg
 score: 10.00
-dealPrice: "$124.00"
-originalPrice: "$249.00"
-discount: "50% OFF"
-xText: "air legends pack just hit 50% off. lowest i've seen it. if you've been sleeping on vintage tone, now's the move."
 draft: false
+converted: true
 ---
-**TL;DR:** The AIR Legends Pack is currently half price at Plugin Boutique — ~~$249~~ **$124**, saving you $125 on a bundle of AIR Music Technology's vintage-focused virtual instruments. If you've been eyeing AIR's keyboard collection, this is the window to buy. [→ Get AIR Legends Pack at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=air-legends-pack-eb2b05)
+**AIR Legends Pack** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=air-legends-pack-eb2b05)
 
 ---
 
@@ -45,11 +42,7 @@ AIR Music Technology has a long history in the plugin world — the company orig
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$249.00~~ | $124.00 | $125.00 (50%) |
+## Current Pricing
 
 A 50% discount on a bundle from an established developer like AIR is meaningful. AIR Music Technology doesn't run deep discounts constantly — this kind of half-price event on their flagship bundle is worth noting for producers who've been waiting. Bundle deals at this discount depth from AIR are not the default; when they appear, they tend to be time-limited promotional windows rather than a permanent pricing shift.
 
@@ -87,9 +80,9 @@ A: This specific deal is listed through Plugin Boutique. Pricing on other retail
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-The AIR Legends Pack at $124 represents a $125 saving off the standard price — 50% off from a developer with decades of professional studio credibility. This is the kind of discount that doesn't stay open indefinitely.
+ This is the kind of discount that doesn't stay open indefinitely.
 
 [→ Get AIR Legends Pack at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=air-legends-pack-eb2b05)
 

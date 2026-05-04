@@ -12,7 +12,7 @@ draft: false
 **TL;DR:** u-he Diva is the community's undisputed benchmark for circuit-accurate analog emulation in 2026 — but OB-Xd (free) and the Arturia V Collection give you genre-ready vintage tones at a fraction of the cost and CPU overhead. This guide covers 12 vetted vintage synth VSTs across Moog, Roland, Oberheim, Sequential, ARP, and Yamaha lineages.
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/DHA0HjTm1fM" title="12 Best Vintage Synth VST Emulations in 2026 (Moog, Roland, Oberheim) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/DHA0HjTm1fM" title="12 Best Vintage Synth VST Emulations in 2026 (Moog, Roland, Oberheim) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -42,7 +42,7 @@ If you are new to synthesis and want to explore a broader range of modern free o
 
 ### OB-Xd — The Free Oberheim That Earns Its Place
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/jLwauTGsvYc" title="OB-Xd — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/jLwauTGsvYc" title="OB-Xd — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** DiscoDSP
 - **Price:** Free
@@ -59,7 +59,7 @@ OB-Xd models the Oberheim OB-X and OB-Xa — polyphonic synthesizers known for w
 
 ### Dexed — The DX7 in Your DAW for Free
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/wSs1-020nNY" title="Dexed — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wSs1-020nNY" title="Dexed — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Digital Suburban
 - **Price:** Free
@@ -76,7 +76,7 @@ Dexed models the Yamaha DX7 — the FM synthesizer behind the electric piano, me
 
 ### Surge XT — Open-Source Vintage with Modern Depth
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/GpcyyBBQzzA" title="Surge XT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/GpcyyBBQzzA" title="Surge XT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Surge Synth Team
 - **Price:** Free (open source)
@@ -109,7 +109,7 @@ Mini V3 models the Minimoog Model D using Arturia's TAE (True Analog Emulation) 
 
 ### Cherry Audio Memorymode — The Budget Moog Model D
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/g_OXoyaalTE" title="Cherry Audio Memorymode — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/g_OXoyaalTE" title="Cherry Audio Memorymode — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Cherry Audio
 - **Price:** ~$39
@@ -126,7 +126,7 @@ Cherry Audio's Memorymode targets the Moog Model D and is consistently cited in 
 
 ### Synapse Audio The Legend — Minimoog Precision at Full Price
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/u70GfIMXX_s" title="Synapse Audio The Legend — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/u70GfIMXX_s" title="Synapse Audio The Legend — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Synapse Audio
 - **Price:** ~$99
@@ -145,7 +145,7 @@ The Legend models the Minimoog with a documented zero-delay-feedback filter impl
 
 ### TAL-U-NO-LX — The Juno-60 Community Benchmark
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/FLtIpEmfBgg" title="TAL-U-NO-LX — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/FLtIpEmfBgg" title="TAL-U-NO-LX — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** TAL Software
 - **Price:** ~$60 (CHF pricing; regional equivalent varies)
@@ -162,7 +162,7 @@ TAL's U-NO-LX is the consensus pick for Roland Juno-60 emulation. Developer docu
 
 ### Arturia Jup-8 V — Jupiter-8 Grandeur in Software
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/tih7PqwyPc4" title="Arturia Jup-8 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/tih7PqwyPc4" title="Arturia Jup-8 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** $99 (also included in V Collection 11)
@@ -181,7 +181,7 @@ Jup-8 V models the Roland Jupiter-8, known for rich polyphonic filter sweeps and
 
 ### Arturia Prophet-5 V — The Polysynth Reference
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/xoRYgl8T_K8" title="Arturia Prophet-5 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/xoRYgl8T_K8" title="Arturia Prophet-5 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** $99 (also included in V Collection 11)
@@ -200,7 +200,7 @@ Prophet-5 V models Sequential's Prophet-5 — a five-voice polysynth whose Curti
 
 ### u-he Diva — The Most Accurate Analog Emulation Available
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/q8LGFteoC1g" title="u-he Diva — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/q8LGFteoC1g" title="u-he Diva — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** $179
@@ -219,7 +219,7 @@ Diva is not an emulation of one synthesizer — it models components from multip
 
 ### Arturia ARP 2600 V3 — Semi-Modular Vintage Without the Patch Cables
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/RNkofQKGX6Q" title="Arturia ARP 2600 V3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/RNkofQKGX6Q" title="Arturia ARP 2600 V3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** $99 (also included in V Collection 11)
@@ -236,7 +236,7 @@ The ARP 2600 is a semi-modular synthesizer from the early 1970s known for its bu
 
 ### Arturia CS-80 V — The Yamaha Polyphonic Giant
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/JL00ZNDI-JE" title="Arturia CS-80 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/JL00ZNDI-JE" title="Arturia CS-80 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** $99 (also included in V Collection 11)
@@ -264,7 +264,7 @@ The Yamaha CS-80 was used by Vangelis on the Blade Runner soundtrack — one of 
 
 ### Arturia V Collection 11 — The Full Vintage Library in One Purchase
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/gjIwo3Pnorg" title="Arturia V Collection 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** $599 (frequently discounted; individual instruments sold at ~$99 each)

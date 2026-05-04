@@ -14,7 +14,7 @@ draft: false
 **TL;DR:** Vital's free tier delivers a complete spectral wavetable synthesis engine that the community consistently ranks alongside paid competitors costing $100–$200. The core synthesis capability is identical across all tiers — the decision to upgrade within Vital's own pricing structure hinges entirely on how much you rely on factory presets and built-in wavetable content.
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/K9bhFJmvRa0" title="Vital Review 2026: Is the Free Synth Really Worth It (And When to Upgrade)? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="Vital Review 2026: Is the Free Synth Really Worth It (And When to Upgrade)? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -42,13 +42,16 @@ This article is written for producers who want a clear-eyed answer to three ques
 ---
 
 ## Vital: What You're Actually Getting
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 Vital is a spectral warping wavetable synthesizer — a description that's more precise and more meaningful than the catch-all "wavetable synth" label it often receives. Conventional wavetable synthesis plays back waveform tables and transitions between them. Vital's spectral warping layer transforms the harmonic content of those wavetables in real time using multiple warp modes, producing timbral movement and character that straightforward table playback alone can't achieve. This is the technical foundation that gives Vital its distinctive sound character and that the community points to when comparing it against Serum's more conventional wavetable approach.
 
 The modulation system uses drag-and-drop routing comparable to Serum's, which set the usability benchmark for this category. Any modulatable parameter accepts a modulation source by dragging directly onto it, with the modulation depth visible inline. KVR Audio's synthesizer community has consistently described this as the interface standard that other developers have since been measured against.
 
 ### Vital Free — The complete synthesis engine at zero cost
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/7qQX6YGBQEA" title="Vital Free — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/7qQX6YGBQEA" title="Vital Free — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Matt Tytel
 - **Price:** Free
@@ -69,7 +72,7 @@ Linux support across all tiers — including free — is worth noting separately
 
 ### Vital Plus — Expanded content for preset-driven workflows
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/m0keRuiXjzA" title="Vital Plus — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/m0keRuiXjzA" title="Vital Plus — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Matt Tytel
 - **Price:** $25
@@ -88,7 +91,7 @@ For producers who use presets as a starting point and modify from there, the Plu
 
 ### Vital Pro — The complete package for committed users
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/INNTSM04kgw" title="Vital Pro — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/INNTSM04kgw" title="Vital Pro — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Matt Tytel
 - **Price:** $80
@@ -111,7 +114,10 @@ The case for moving to a different synthesizer — rather than paying within Vit
 
 ### Serum — The industry-standard wavetable ecosystem
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Xfer Records (Steve Duda)
 - **Price:** $189
 - **Why upgrade:** Serum's decade-long position as the default wavetable synthesizer in EDM, future bass, and electronic production has produced a commercial preset ecosystem that Vital hasn't matched in volume or genre depth. Producers whose workflow depends on purchasing and loading Serum-format preset packs — a major segment of how commercial EDM sound design is distributed — will find that format incompatibility with Vital is a hard constraint. The Serum engine is technically different from Vital's, not superior in any absolute sense, but its preset ecosystem and Splice integration represent a genre infrastructure that Vital hasn't replicated.
@@ -122,7 +128,7 @@ The case for moving to a different synthesizer — rather than paying within Vit
 
 ### Phase Plant — Modular architecture for deep synthesis
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/hYf0aHswino" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/hYf0aHswino" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** from $99
@@ -134,7 +140,7 @@ The case for moving to a different synthesizer — rather than paying within Vit
 
 ### Pigments — Multi-engine synthesis with analog character
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/IaKKZWUu_Xc" title="Pigments — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IaKKZWUu_Xc" title="Pigments — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** $99

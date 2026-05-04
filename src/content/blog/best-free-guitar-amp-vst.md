@@ -14,7 +14,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/xi3o9eeNn30" title="10 Best Free Guitar Amp Simulator VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/xi3o9eeNn30" title="10 Best Free Guitar Amp Simulator VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -48,7 +48,7 @@ The high-gain category is where free amp simulation genuinely earns respect. KVR
 
 ### Nick Crow Lab 7170 Lead — Community-Standard Free 5150 Preamp
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/XvW2m28_TeY" title="Nick Crow Lab 7170 Lead — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/XvW2m28_TeY" title="Nick Crow Lab 7170 Lead — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Nick Crow Lab
 - **Price:** Free
@@ -64,6 +64,9 @@ The 7170 Lead emulates the preamp circuit of a Peavey 5150, the amp most associa
 ---
 
 ### LePou Amp Sim Suite — A Free Multi-Amp Library in One Download
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/xi3o9eeNn30" title="LePou Amp Sim Suite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** LePou
 - **Price:** Free
 - **Platforms:** Windows (primary); macOS via community builds
@@ -79,7 +82,7 @@ The LePou suite is not a single plugin — it is a collection of standalone amp 
 
 ### Ignite Amps Emissary — The Most Complete Standalone Free High-Gain Sim
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/VSJyewHNcuk" title="Ignite Amps Emissary — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/VSJyewHNcuk" title="Ignite Amps Emissary — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Ignite Amps
 - **Price:** Free
@@ -96,7 +99,7 @@ Ignite Amps built their community reputation on freeware guitar tools, and Emiss
 
 ### TSE Audio X50 v2.4 — The Free High-Gain Benchmark
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/nse9V6IhiPo" title="TSE Audio X50 v2.4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/nse9V6IhiPo" title="TSE Audio X50 v2.4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** TSE Audio
 - **Price:** Free
@@ -117,7 +120,7 @@ High-gain earns the attention, but clean and crunch tone quality is where many f
 
 ### Ignite Amps TPA-1 — Tube Preamp Character Without the Overhead
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/9u7NP1WMxe8" title="Ignite Amps TPA-1 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/9u7NP1WMxe8" title="Ignite Amps TPA-1 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Ignite Amps
 - **Price:** Free
@@ -134,7 +137,7 @@ TPA-1 is a tube preamp simulator rather than a full amp model — a design choic
 
 ### Simulanalog Guitar Suite — Classic Emulations from the Freeware Era
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/GINbyxtpWOc" title="Simulanalog Guitar Suite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/GINbyxtpWOc" title="Simulanalog Guitar Suite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Simulanalog
 - **Price:** Free
@@ -151,7 +154,7 @@ Simulanalog's Guitar Suite is one of the oldest surviving freeware amp sim colle
 
 ### Voxengo Boogex — Free Convolution Amp Processor with Built-In IR Loading
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/rHHbWkPl72s" title="Voxengo Boogex — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rHHbWkPl72s" title="Voxengo Boogex — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Voxengo
 - **Price:** Free
@@ -172,7 +175,7 @@ Some producers want a complete chain — amp, cab, pedals, and effects — in a 
 
 ### Guitar Rig 7 Player — Native Instruments' Free On-Ramp
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/zaZb2Wd_gbY" title="Guitar Rig 7 Player — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/zaZb2Wd_gbY" title="Guitar Rig 7 Player — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
 - **Price:** Free
@@ -189,7 +192,7 @@ Guitar Rig 7 Player is the free tier of NI's Guitar Rig platform. Developer docu
 
 ### Amplitube Custom Shop — Permanently Free Gear, Professional Interface
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/9_gRPgJg4Ts" title="Amplitube Custom Shop — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/9_gRPgJg4Ts" title="Amplitube Custom Shop — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** IK Multimedia
 - **Price:** Free (with optional in-app purchases)
@@ -206,7 +209,7 @@ IK Multimedia's Amplitube Custom Shop model is genuinely different from a crippl
 
 ### ML Sound Lab AMPED Roots — Modern Metal Sim with No IR Setup Required
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/MyFEYu4jzc4" title="ML Sound Lab AMPED Roots — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/MyFEYu4jzc4" title="ML Sound Lab AMPED Roots — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** ML Sound Lab
 - **Price:** Free
@@ -225,7 +228,7 @@ ML Sound Lab's AMPED Roots was released as a free standalone amp sim and sits in
 
 ### Neural DSP Archetype Series — The Current Paid Benchmark
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/J5oiNtfsW2o" title="Neural DSP Archetype — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/J5oiNtfsW2o" title="Neural DSP Archetype — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Neural DSP
 - **Price:** $99–$149 per plugin
@@ -237,7 +240,7 @@ ML Sound Lab's AMPED Roots was released as a free standalone amp sim and sits in
 
 ### Bias Amp 2 — Component-Level Amp Customization
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/OObQ_WxSdso" title="Bias Amp 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OObQ_WxSdso" title="Bias Amp 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Positive Grid
 - **Price:** $99–$199

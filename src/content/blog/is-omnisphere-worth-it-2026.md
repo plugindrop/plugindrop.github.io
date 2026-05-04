@@ -15,7 +15,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/86jF9e-zNvI" title="Is Omnisphere Worth It in 2026? Honest Review After Using It for Years — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/86jF9e-zNvI" title="Is Omnisphere Worth It in 2026? Honest Review After Using It for Years — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Quick Picks at a Glance
@@ -44,7 +44,7 @@ This guide is for producers seriously weighing the purchase: those working in sy
 
 ### Omnisphere 2 — the most community-endorsed all-in-one premium synthesizer
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/WVapN3zbhRk" title="Omnisphere 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WVapN3zbhRk" title="Omnisphere 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spectrasonics
 - **Price:** $499 (one-time, no subscription)
@@ -125,7 +125,7 @@ The one-time $499 price, in a market where competing tools increasingly rely on 
 
 ### Keyscape — the definitive keyboard instrument expansion for Omnisphere users
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/2ytTRXD_pR4" title="Keyscape — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/2ytTRXD_pR4" title="Keyscape — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spectrasonics
 - **Price:** $399

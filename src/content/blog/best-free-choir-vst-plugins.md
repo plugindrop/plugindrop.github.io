@@ -13,7 +13,7 @@ draft: false
 **TL;DR:** Spitfire LABS Choir is the most consistently recommended free choir VST across bedroom producer communities — its professional ensemble recording has no meaningful free rival for raw realism. Pair it with BBC Symphony Orchestra Discover when you need choir inside a full orchestral context. The remaining six picks on this list cover every workflow from SFZ-based templates to synthetic vocal generation, all at zero cost.
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/RNK8LVayPec" title="8 Best Free Choir & Vocal Ensemble VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/RNK8LVayPec" title="8 Best Free Choir & Vocal Ensemble VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -44,6 +44,9 @@ This guide is for producers who write film scores, ambient electronic music, pos
 ## The Best Free Choir & Vocal Ensemble VST Plugins
 
 ### Spitfire LABS Choir — The Free Benchmark That Paid Libraries Are Measured Against
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/RNK8LVayPec" title="Spitfire LABS Choir — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Spitfire Audio
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -61,7 +64,7 @@ The known limitation is articulation breadth. You get sustained pads, swells, an
 
 ### BBC Symphony Orchestra Discover — A Full Orchestra With Choir Included, Free
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/l4vHEgj5s88" title="BBC Symphony Orchestra Discover — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/l4vHEgj5s88" title="BBC Symphony Orchestra Discover — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** Free
@@ -80,7 +83,7 @@ The choir section in Discover is not as detailed as LABS Choir in isolation. The
 
 ### DSK Choirs — Lightweight and CPU-Friendly for Dense Sessions
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/qJOVeq5o1t8" title="DSK Choirs — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/qJOVeq5o1t8" title="DSK Choirs — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** DSK Music
 - **Price:** Free
@@ -97,7 +100,7 @@ The recording quality and sample depth do not compete with Spitfire's offerings.
 
 ### Virtual Playing Orchestra — The Community Orchestral Project Built for Templates
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/SVN2x5J4q5Q" title="Virtual Playing Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/PGp1daVIBcs" title="Virtual Playing Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Community project (Paul Battersby)
 - **Price:** Free
@@ -116,7 +119,7 @@ Setup requires a free SFZ player — sforzando by Plogue is the standard communi
 
 ### Sonatina Symphonic Orchestra — Open-Source SFZ Choir for Maximum Portability
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1TCY8otJ3h0" title="Sonatina Symphonic Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1TCY8otJ3h0" title="Sonatina Symphonic Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Mattias Westlund / community contributors
 - **Price:** Free
@@ -135,7 +138,7 @@ The choir content covers basic mixed ensemble patches with dynamic layers. It is
 
 ### Alter/Ego by Plogue — Synthetic Vocal Generation for Experimental Choir Textures
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/qddzplTs6gg" title="Alter/Ego by Plogue — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/qddzplTs6gg" title="Alter/Ego by Plogue — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Plogue Art et Technologie
 - **Price:** Free (core engine and select voices)
@@ -152,7 +155,7 @@ The KVR Audio community describes Alter/Ego as the standard recommendation for p
 
 ### VSCO2 Community Edition — Open-Source Orchestral With Vocal Content
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/3CxPeilBTGA" title="VSCO2 Community Edition — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IhnCgFe_j8s" title="VSCO2 Community Edition — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Versilian Studios
 - **Price:** Free
@@ -171,7 +174,7 @@ The vocal content in VSCO2 CE is less prominent than the string and wind section
 
 ### Soundpaint Free Choir Instruments — 8Dio's Platform With Free Choir Content
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/nZWXePdSJr4" title="Soundpaint Free Choir Instruments — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/nZWXePdSJr4" title="Soundpaint Free Choir Instruments — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** 8Dio / Soundpaint
 - **Price:** Free (requires Soundpaint player)
@@ -190,7 +193,7 @@ The constraint is platform lock-in: Soundpaint instruments require the Soundpain
 
 ### 8Dio Requiem Professional — When the Free Tier Stops Being Enough for Cinema
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/P5O_-nKIaGI" title="8Dio Requiem Professional — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/P5O_-nKIaGI" title="8Dio Requiem Professional — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** 8Dio
 - **Price:** Paid (see developer site for current pricing)
@@ -202,7 +205,7 @@ The constraint is platform lock-in: Soundpaint instruments require the Soundpain
 
 ### EastWest Voices of Passion — World Choir and Ethnic Vocal Ensembles
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Y4Sj1oUoa60" title="EastWest Voices of Passion — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Y4Sj1oUoa60" title="EastWest Voices of Passion — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** EastWest
 - **Price:** Available via EastWest ComposerCloud subscription or standalone license

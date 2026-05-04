@@ -38,7 +38,7 @@ If you produce regularly, need a constant stream of fresh samples, and don't alr
 
 ### Splice Sounds — The core offering and the strongest part of the product
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/x4I_vyN_tjI" title="Splice Sounds — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/x4I_vyN_tjI" title="Splice Sounds — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Splice
 - **Price:** ~$7.99/mo (Personal, 100 credits), ~$13.99/mo (Creator, 300 credits), ~$23.99/mo (Pro, 600 credits)
@@ -54,6 +54,9 @@ The weakness is equally consistent across community discussion: credits don't ro
 **Best for:** Producers in active project phases who can consistently use 200+ credits per month and want to build a permanent sample library over time.
 
 ### Splice Sounds Library Quality — Curated depth, but genre-dependent
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/x4I_vyN_tjI" title="Splice Sounds Library Quality — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Splice
 - **Price:** Included with Sounds subscription
 - **Platform:** Web, macOS, Windows, iOS
@@ -71,7 +74,7 @@ Niche genres — acoustic, orchestral, jazz, experimental — are thinner. Produ
 
 ### Splice Rent-to-Own — Convenience at full retail cost
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Tx9OzGFjepw" title="Splice Rent-to-Own — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Tx9OzGFjepw" title="Splice Rent-to-Own — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Splice (in partnership with plugin vendors)
 - **Price:** Varies; typically $9.99–$14.99/mo per plugin until the full retail price is paid
@@ -88,7 +91,7 @@ The narrow but real use case: you need a specific plugin for an active session t
 
 ### Plugin Boutique — Permanent ownership at sale pricing
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/LSKNvC5B9A0" title="Plugin Boutique — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LSKNvC5B9A0" title="Plugin Boutique — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Plugin Boutique (Loopmasters)
 - **Price:** One-time purchase; routine sale pricing 50–80% off across catalog
@@ -109,7 +112,7 @@ KVR's Deals section and r/synthesizers consistently flag Plugin Boutique's sale 
 
 ### Splice Studio — Version control most solo producers don't need
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/BD3Cds6BAbc" title="Splice Studio — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BD3Cds6BAbc" title="Splice Studio — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Splice
 - **Price:** Included with select Splice plans

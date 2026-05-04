@@ -12,7 +12,7 @@ draft: false
 
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/-Sm714Dlci8" title="10 Best Free Orchestral & Strings VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-Sm714Dlci8" title="10 Best Free Orchestral & Strings VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 for Linux users and anyone who needs a dependency-free orchestral library. The SFZ format requires a free player — Plogue sforzando is the standard pairing. Community-converted Decent Sampler versions are also widely available.
 
@@ -24,7 +24,7 @@ for Linux users and anyone who needs a dependency-free orchestral library. The S
 
 ### ProjectSAM Free Orchestra — Cinematic Textures from a Premium Developer
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/TC8WBqT9pRM" title="ProjectSAM Free Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TC8WBqT9pRM" title="ProjectSAM Free Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** ProjectSAM
 - **Price:** Free
@@ -41,7 +41,7 @@ ProjectSAM, known for the Symphobia series, has made available a Free Orchestra 
 
 ### IK Multimedia Miroslav Philharmonik CE — Vintage Orchestral Character, Free Tier
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/BIJ04Mabl_E" title="IK Multimedia Miroslav Philharmonik CE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BIJ04Mabl_E" title="IK Multimedia Miroslav Philharmonik CE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** IK Multimedia
 - **Price:** Free (Community Edition, available via IK Product Manager)
@@ -60,7 +60,7 @@ Miroslav Philharmonik is IK Multimedia's orchestral library built on recordings 
 
 ### Sonatina Symphonic Orchestra — The Classic Free SFZ Full Orchestra
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/tfLT2QAI9s4" title="Sonatina Symphonic Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/tfLT2QAI9s4" title="Sonatina Symphonic Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Mattias Westlund (open source)
 - **Price:** Free
@@ -77,7 +77,7 @@ Sonatina Symphonic Orchestra is one of the longest-standing free orchestral reso
 
 ### Virtual Playing Orchestra — Keyswitched Articulations at Zero Cost
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fB9a_pt1PCY" title="Virtual Playing Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fB9a_pt1PCY" title="Virtual Playing Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Paul Battersby
 - **Price:** Free
@@ -96,7 +96,7 @@ Virtual Playing Orchestra combines freely available orchestral samples — inclu
 
 ### Orchestral Tools SINE Player — Premium Ecosystem, Free Entry Point
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/s6edoMFR3tQ" title="Orchestral Tools SINE Player — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/s6edoMFR3tQ" title="Orchestral Tools SINE Player — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Orchestral Tools
 - **Price:** Free player; free library content available
@@ -113,7 +113,7 @@ Orchestral Tools, the developers behind the Berlin Series of professional orches
 
 ### Decent Sampler — A Growing Free Orchestral Ecosystem
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/sBKjKZfNtfg" title="Decent Sampler — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/sBKjKZfNtfg" title="Decent Sampler — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** David Hilowitz
 - **Price:** Free
@@ -132,7 +132,7 @@ Decent Sampler is a free sample player that has become the community-standard fo
 
 ### DSK Overture — Instant Access, No Setup (Windows)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/iDAg9V6ovgI" title="DSK Overture — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/iDAg9V6ovgI" title="DSK Overture — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** DSK Music
 - **Price:** Free
@@ -151,7 +151,7 @@ DSK Music produces a large catalog of free Windows VSTs. DSK Overture covers the
 
 ### Spitfire BBC Symphony Orchestra Professional — The Full Version of the Best Free Library
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/2-uTYJEjsNM" title="Spitfire BBC Symphony Orchestra Professional — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/2-uTYJEjsNM" title="Spitfire BBC Symphony Orchestra Professional — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** ~$599 (frequent sale pricing)
@@ -163,7 +163,7 @@ DSK Music produces a large catalog of free Windows VSTs. DSK Overture covers the
 
 ### EastWest Hollywood Strings — Industry-Standard Strings for Professional Work
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ScEF8OALc_M" title="EastWest Hollywood Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ScEF8OALc_M" title="EastWest Hollywood Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** EastWest
 - **Price:** Composer Cloud subscription (~$29.99/month) or outright purchase

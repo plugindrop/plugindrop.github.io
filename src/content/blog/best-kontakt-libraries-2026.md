@@ -14,7 +14,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/-Sm714Dlci8" title="15 Best Kontakt Libraries in 2026 (Free & Premium) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-Sm714Dlci8" title="15 Best Kontakt Libraries in 2026 (Free & Premium) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -46,7 +46,7 @@ This guide targets producers who are past the "any plugin will do" stage and wan
 
 ### Spitfire LABS — The non-negotiable free install
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/-Sm714Dlci8" title="Spitfire LABS — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-Sm714Dlci8" title="Spitfire LABS — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** Free
@@ -63,7 +63,7 @@ LABS is a rotating catalog of free instruments curated and released by Spitfire 
 
 ### BBC Symphony Orchestra Discover — The free orchestral benchmark
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/KUJh2pJAWVI" title="BBC Symphony Orchestra Discover — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/KUJh2pJAWVI" title="BBC Symphony Orchestra Discover — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** Free
@@ -80,7 +80,7 @@ Recorded at BBC's Maida Vale Studios with the BBC Symphony Orchestra, Discover i
 
 ### Native Instruments Komplete Start — The free Kontakt Player on-ramp
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ftJS9zSS6RM" title="Native Instruments Komplete — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ftJS9zSS6RM" title="Native Instruments Komplete — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
 - **Price:** Free
@@ -99,7 +99,7 @@ Komplete Start is NI's free content bundle and, critically, includes a licensed 
 
 ### Spitfire Audio Originals Epic Strings — The affordable step up from LABS
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/_rmFsDQgFfg" title="Spitfire Audio Originals Epic Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_rmFsDQgFfg" title="Spitfire Audio Originals Epic Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** ~$29–$49
@@ -116,7 +116,7 @@ The Originals series sits between the free LABS instruments and Spitfire's flags
 
 ### Soundiron Olympus Choir Micro — Budget choral entry point
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/41LWTImqOAY" title="Soundiron Olympus Choir Micro — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/41LWTImqOAY" title="Soundiron Olympus Choir Micro — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundiron
 - **Price:** ~$49
@@ -135,7 +135,7 @@ Olympus Choir Micro is a distilled version of Soundiron's professional Olympus c
 
 ### Native Instruments Session Strings Pro 2 — Pop and hybrid string workhorse
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/5b9x_MS9H2o" title="Native Instruments Session Strings Pro 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/5b9x_MS9H2o" title="Native Instruments Session Strings Pro 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
 - **Price:** ~$149
@@ -152,7 +152,7 @@ Session Strings Pro 2 is built for pop, R&B, and hybrid production contexts rath
 
 ### Heavyocity Damage 2 — The cinematic percussion standard
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/3J8vV21bj6E" title="Heavyocity Damage 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/3J8vV21bj6E" title="Heavyocity Damage 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Heavyocity
 - **Price:** ~$149
@@ -169,7 +169,7 @@ Damage 2 is the library that Vi-Control's scoring forum surfaces first in nearly
 
 ### ProjectSAM Symphobia 1 — Ensemble cinematic scoring staple
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/XxO4TDUSgF0" title="ProjectSAM Symphobia 1 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/XxO4TDUSgF0" title="ProjectSAM Symphobia 1 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** ProjectSAM
 - **Price:** ~$199
@@ -186,7 +186,7 @@ Symphobia 1 has maintained its position in film scoring community recommendation
 
 ### 8Dio Hybrid Tools 3 — Experimental cinematic material
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ToiuA6FATv4" title="8Dio Hybrid Tools 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ToiuA6FATv4" title="8Dio Hybrid Tools 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** 8Dio
 - **Price:** ~$199
@@ -203,7 +203,7 @@ Symphobia 1 has maintained its position in film scoring community recommendation
 
 ### Strezov Sampling AFFLATUS Chapter 1 — The choir library communities consistently underrate
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/qEz6Ii0hhLg" title="Strezov Sampling AFFLATUS Chapter 1 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/qEz6Ii0hhLg" title="Strezov Sampling AFFLATUS Chapter 1 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Strezov Sampling
 - **Price:** ~$249
@@ -220,7 +220,7 @@ AFFLATUS Chapter 1 is one of the more argued-about libraries in Vi-Control threa
 
 ### Spitfire Hans Zimmer Piano — The definitive modern cinematic piano
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/65NgnZt0eDg" title="Spitfire Hans Zimmer Piano — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/65NgnZt0eDg" title="Spitfire Hans Zimmer Piano — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** ~$299
@@ -237,7 +237,7 @@ Built from Hans Zimmer's personal Yamaha CFX grand piano captured in multiple mi
 
 ### Cinesamples CineStrings — Indie scoring string standard
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/HHuou5dCtfM" title="Cinesamples CineStrings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/HHuou5dCtfM" title="Cinesamples CineStrings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Cinesamples
 - **Price:** ~$299
@@ -256,7 +256,7 @@ CineStrings has maintained strong community recommendation specifically for indi
 
 ### Spitfire Albion ONE — The community's consensus first orchestral purchase
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/DB3L2RQMP2c" title="Spitfire Albion ONE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/DB3L2RQMP2c" title="Spitfire Albion ONE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** ~$399 (frequently on sale)
@@ -275,7 +275,7 @@ Albion ONE is the library that r/WeAreTheMusicMakers surfaces first in every "wh
 
 ### Native Instruments Komplete — The full-library ecosystem investment
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ftJS9zSS6RM" title="Native Instruments Komplete — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ftJS9zSS6RM" title="Native Instruments Komplete — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
 - **Price:** ~$599 (Standard); higher for Ultimate and Ultimate Collector editions
@@ -287,7 +287,7 @@ Albion ONE is the library that r/WeAreTheMusicMakers surfaces first in every "wh
 
 ### Spitfire BBC Symphony Orchestra — Serious articulation depth from the Discover foundation
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/VM4MnvrnLT0" title="Spitfire BBC Symphony Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/VM4MnvrnLT0" title="Spitfire BBC Symphony Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** ~$299 (Core); higher for Professional and Ultimate tiers

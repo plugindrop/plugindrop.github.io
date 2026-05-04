@@ -13,8 +13,9 @@ draft: false
 **TL;DR:** Learning how to mix vocals at home in 2026 doesn't require an expensive plugin budget — TDR Nova and Valhalla Supermassive cover EQ and reverb at professional quality for free. If you want a single tool that handles the entire chain intelligently, iZotope Nectar 4 is the community's consistent recommendation for AI-assisted vocal production.
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/8q-mrB1jozE" title="How to Mix Vocals at Home: Complete 2026 Guide (With Plugin Recommendations) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/8q-mrB1jozE" title="How to Mix Vocals at Home: Complete 2026 Guide (With Plugin Recommendations) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 ## Quick Picks at a Glance
 
@@ -44,7 +45,7 @@ Getting a vocal to sit properly in a mix is primarily an EQ problem. The goal is
 
 ### TDR Nova — The free dynamic EQ that belongs on every vocal chain
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1CHFv4mWQYM" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1CHFv4mWQYM" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Tokyo Dawn Records
 - **Price:** Free
@@ -67,7 +68,7 @@ Pitch correction on home-recorded vocals is nearly universal in 2026 — the que
 
 ### Waves Tune Real-Time — Low-latency pitch correction built for in-the-box mixing
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dk33sU84b04" title="Waves Tune Real-Time — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/dk33sU84b04" title="Waves Tune Real-Time — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves Audio
 - **Price:** From $29
@@ -90,7 +91,7 @@ Reverb is the tool that tells listeners where a vocal exists spatially. A dry, u
 
 ### Valhalla Supermassive — The free reverb that professionals recommend without apology
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** Free
@@ -113,6 +114,8 @@ For producers who want a guided, integrated approach to the full vocal chain —
 
 ### iZotope Nectar 4 — The AI-assisted vocal suite the community treats as the category standard
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/8q-mrB1jozE" title="iZotope Nectar 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** iZotope
 - **Price:** From $199
 - **Platforms:** Windows, macOS
@@ -132,7 +135,7 @@ KVR Audio discussions on vocal processing tools regularly position Nectar 4 as t
 
 ### iZotope Nectar 4 — The benchmark for complete vocal suite processing
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/pXYLPYFhJLI" title="iZotope Nectar 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/pXYLPYFhJLI" title="iZotope Nectar 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** From $199
@@ -142,7 +145,7 @@ KVR Audio discussions on vocal processing tools regularly position Nectar 4 as t
 
 ### Waves Vocal Bundle — The comprehensive paid toolkit for producers who mix regularly
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/0cOlrhDpVFY" title="Waves Vocal Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/0cOlrhDpVFY" title="Waves Vocal Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves Audio
 - **Price:** Varies (check Plugin Boutique for current pricing)

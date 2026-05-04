@@ -16,7 +16,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/1mnt7CoAfkk" title="10 Best Free Drum Machine & Beat VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1mnt7CoAfkk" title="10 Best Free Drum Machine & Beat VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -50,7 +50,7 @@ These plugins are built around recorded real kits. Use them when your production
 
 ### MT Power Drum Kit 2 — The Community's Default Recommendation
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1mnt7CoAfkk" title="MT Power Drum Kit 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1mnt7CoAfkk" title="MT Power Drum Kit 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Tentakelman
 - **Price:** Free
@@ -67,7 +67,7 @@ MT Power Drum Kit 2 is a sample-based acoustic drum rompler covering rock, metal
 
 ### Steven Slate Drums 5 Free — Commercial Engine, No Price Tag
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/slQxEywoIvo" title="Steven Slate Drums 5 Free — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/slQxEywoIvo" title="Steven Slate Drums 5 Free — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Steven Slate Audio
 - **Price:** Free (requires free iLok account)
@@ -84,7 +84,7 @@ SSD5 Free is the officially supported free tier of Steven Slate Drums 5 — deve
 
 ### Spitfire LABS — Vintage Character Without the Hardware
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/-Sm714Dlci8" title="Spitfire LABS — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-Sm714Dlci8" title="Spitfire LABS — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** Free (requires LABS player app)
@@ -101,7 +101,7 @@ Spitfire LABS is a free plugin ecosystem that periodically releases individual i
 
 ### GetGood Drums One — Built for Heavy Music
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fVetaiRptmA" title="GetGood Drums One — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fVetaiRptmA" title="GetGood Drums One — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** GetGood Drums
 - **Price:** Free
@@ -122,7 +122,7 @@ These plugins are designed for programming beats, loading custom one-shots, or g
 
 ### Sitala — The Fastest Free Beat Sampler
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/JmdS0kf5N88" title="Sitala — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/JmdS0kf5N88" title="Sitala — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Decomposer
 - **Price:** Free
@@ -139,7 +139,7 @@ Sitala is a 16-pad drum sampler that r/edmproduction consistently recommends as 
 
 ### Drum Pro — Hip-Hop and Trap Essentials
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1wM8Ite8KIU" title="Drum Pro — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1wM8Ite8KIU" title="Drum Pro — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** StudioLinked
 - **Price:** Free
@@ -156,7 +156,7 @@ Drum Pro is StudioLinked's free drum machine plugin, oriented toward hip-hop, tr
 
 ### BPB Cassette Drums — Lo-Fi Degradation Without the Signal Chain
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/J5UuNVM_d6Y" title="BPB Cassette Drums — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/J5UuNVM_d6Y" title="BPB Cassette Drums — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Bedroom Producers Blog
 - **Price:** Free
@@ -173,7 +173,7 @@ BPB Cassette Drums is a free lo-fi drum plugin built around samples recorded thr
 
 ### Drumatic 4 — TR-Style Synthesis, No Sample Library Required
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/5Ursjruqehw" title="Drumatic 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/5Ursjruqehw" title="Drumatic 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** E-Phonic
 - **Price:** Free
@@ -192,7 +192,7 @@ Drumatic 4 generates its sounds from synthesis rather than samples, which makes 
 
 ### Hydrogen — The Open-Source Pattern Sequencer
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/_TuPfFO_UUE" title="Hydrogen — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_TuPfFO_UUE" title="Hydrogen — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Hydrogen Dev Team (open source)
 - **Price:** Free
@@ -209,7 +209,7 @@ Hydrogen is an open-source drum machine that has been in active development sinc
 
 ### DSK DrumZ Akustik — Lightweight and Zero Friction on Windows
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/NSE0C3pHMUw" title="DSK DrumZ Akustik — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/NSE0C3pHMUw" title="DSK DrumZ Akustik — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** DSK Music
 - **Price:** Free
@@ -230,7 +230,7 @@ If you've worked through the free tier and hit consistent friction — inflexibl
 
 ### Native Instruments Battery 4 — The Professional Beat Builder's Kit Room
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ViFO4aNrPME" title="Native Instruments Battery 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ViFO4aNrPME" title="Native Instruments Battery 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
 - **Price:** $99 (included in Komplete bundles)
@@ -242,7 +242,7 @@ If you've worked through the free tier and hit consistent friction — inflexibl
 
 ### XLN Audio Addictive Drums 2 — Mix-Ready Without the Processing Overhead
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/z0X9TY4xBeY" title="XLN Audio Addictive Drums 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/z0X9TY4xBeY" title="XLN Audio Addictive Drums 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** XLN Audio
 - **Price:** From $99

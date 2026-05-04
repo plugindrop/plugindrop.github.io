@@ -15,7 +15,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/J5oiNtfsW2o" title="Complete Guitar Recording Plugin Chain: Amp Sim to Mastering (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/J5oiNtfsW2o" title="Complete Guitar Recording Plugin Chain: Amp Sim to Mastering (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -44,6 +44,9 @@ This guide covers the full chain from DI signal to mastering-ready guitar track 
 ## Step 1: Amp Simulation
 
 ### Neural DSP Archetype — The neural modeling standard for DI guitar
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/J5oiNtfsW2o" title="Neural DSP Archetype — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Neural DSP
 - **Price:** From $99 (varies by artist edition)
 - **Platforms:** Windows, macOS
@@ -65,7 +68,7 @@ Neural DSP's published trial policy offers 14 days of full plugin access before 
 
 ### Waves IR-L Convolution Reverb — Convolution accuracy for cabinet and spatial simulation
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/4_x6i-O7FBY" title="Waves IR-L Convolution Reverb — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/4_x6i-O7FBY" title="Waves IR-L Convolution Reverb — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves Audio
 - **Price:** Varies (check current Waves pricing)
@@ -88,7 +91,7 @@ This step is conditional. If you're satisfied with the cab simulation inside you
 
 ### FabFilter Pro-Q 4 — The community's reference EQ for precise guitar shaping
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
@@ -111,7 +114,7 @@ In the signal chain, Pro-Q 4 belongs after the amp sim and cab stage. The amp si
 
 ### OTT (Xfer Records) — Free multiband compression that adds density without heavy limiting
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ECm6J-68_i0" title="OTT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ECm6J-68_i0" title="OTT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records (Steve Duda)
 - **Price:** Free
@@ -133,6 +136,9 @@ OTT is genuinely free with no paid upgrade path for this specific plugin. Xfer R
 ## Worth Upgrading To (Paid Options)
 
 ### Neural DSP Archetype — Committed tone for your genre
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/J5oiNtfsW2o" title="Neural DSP Archetype — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Neural DSP
 - **Price:** From $99
 - **Why upgrade:** The 14-day trial gives full access to the complete plugin — but without a license, the chain stops working after the trial window. The upgrade decision here is committing to the specific artist edition that matches your genre rather than cycling through trials indefinitely. Choosing the wrong edition is the most common community complaint; the r/Guitar subreddit recommends trialing at least two artist editions before purchasing.
@@ -141,7 +147,7 @@ OTT is genuinely free with no paid upgrade path for this specific plugin. Xfer R
 
 ### FabFilter Total Bundle — Every FabFilter tool in a single license
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/vfM6F7pRmog" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vfM6F7pRmog" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** ~$899

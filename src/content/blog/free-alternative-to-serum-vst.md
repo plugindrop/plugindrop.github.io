@@ -13,8 +13,9 @@ draft: false
 **TL;DR:** Vital is the strongest free alternative to Serum VST in 2026 — a wavetable synthesizer built by the same developer as Helm, and the plugin r/edmproduction consistently places in Serum's tier at zero cost. Surge XT is the runner-up for producers who want maximum synthesis depth without opening their wallet.
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/K9bhFJmvRa0" title="7 Best Free Alternatives to Xfer Serum in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="7 Best Free Alternatives to Xfer Serum in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 ## Quick Picks at a Glance
 
@@ -44,8 +45,7 @@ This guide covers the four strongest free alternatives to Serum currently availa
 
 ### Vital — The Definitive Free Wavetable Synth
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/n0WWWh4tVKc" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Matt Tytel
 - **Price:** Free (paid tiers at $25 and $80 add preset packs and online wavetable access — no synthesis features are locked)
@@ -64,7 +64,7 @@ The free tier is not a crippled demo. Developer documentation confirms that all 
 
 ### Surge XT — Maximum Depth, Zero Cost
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/GpcyyBBQzzA" title="Surge XT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/GpcyyBBQzzA" title="Surge XT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Surge Synth Team (open source)
 - **Price:** Free
@@ -83,9 +83,9 @@ Where Serum rewards producers who want to get to a sound quickly through visual 
 
 ### Phase Plant Lite — Modular Entry Point Into the Kilohearts Ecosystem
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/ySDZJHWyqZA" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/OxdRDhcNbe4" title="Phase Plant Lite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OxdRDhcNbe4" title="Phase Plant Lite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** Free (Lite version)
@@ -104,7 +104,7 @@ Phase Plant Lite does not map onto Serum's workflow. It is a fundamentally diffe
 
 ### Helm — Lightweight Polyphonic Synthesis for Beginners
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/pJ8oXe9Tnfs" title="Helm — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/pJ8oXe9Tnfs" title="Helm — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Matt Tytel
 - **Price:** Free (open source)
@@ -125,7 +125,7 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 
 ### Phase Plant — Full Modular Synthesis Without Compromise
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1bhZN7hON6U" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1bhZN7hON6U" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** Check current pricing at developer site
@@ -137,7 +137,7 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 
 ### u-he Hive 2 — Speed, Analog Quality, Professional Results
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dJtf3JmwnjI" title="u-he Hive 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/dJtf3JmwnjI" title="u-he Hive 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** Check current pricing at developer site
@@ -149,7 +149,9 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 
 ### Serum — The Benchmark Itself
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records (Steve Duda)
 - **Price:** $189 direct, or rent-to-own via Splice

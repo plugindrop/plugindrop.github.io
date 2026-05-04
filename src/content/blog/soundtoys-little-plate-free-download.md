@@ -60,7 +60,7 @@ This won't be free forever. Soundtoys giveaways typically run for a limited wind
 | Valhalla VintageVerb | $50 | Multiple reverb types — plate, room, hall, chamber |
 | FabFilter Pro-R 2 | $199 | Visual EQ on the reverb tail, extensive shaping |
 
-If you just need a plate reverb that works immediately, Little Plate at $0 covers that. If you want more reverb types in one plugin, VintageVerb at $50 handles plate, room, hall, and more. For more free options, see our [best free reverb plugins roundup](/posts/best-free-reverb-plugins/).
+If you just need a plate reverb that works immediately, Little Plate at $0 covers that. If you want more reverb types in one plugin, VintageVerb at $50 handles plate, room, hall, and more. For more free options, see our [best free reverb plugins roundup](/posts/best-free-reverb-vst-plugins/).
 
 ## FAQ
 

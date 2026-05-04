@@ -12,7 +12,7 @@ draft: false
 **TL;DR:** Spitfire LABS is the most-recommended free strings plugin across producer communities — real BBC-recorded samples, genuinely free, and regularly updated with new instruments. BBC Symphony Orchestra Discover takes it further with a complete orchestral toolkit at zero cost. These two alone cover the vast majority of free strings use cases before you spend anything.
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/EjFi4KURJLM" title="8 Best Free Strings & Orchestral VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EjFi4KURJLM" title="8 Best Free Strings & Orchestral VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -45,6 +45,9 @@ This guide covers eight real, community-documented free strings and orchestral V
 These are the plugins producers name first when free strings come up — genuinely high-quality sample libraries from established developers, with strong community documentation behind every claim made here.
 
 ### Spitfire LABS — The Undisputed Starting Point
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EjFi4KURJLM" title="Spitfire LABS — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Spitfire Audio
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -60,7 +63,7 @@ LABS is not a single plugin but a growing catalog of free instruments distribute
 
 ### BBC Symphony Orchestra Discover — A Full Orchestra at No Cost
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/KUJh2pJAWVI" title="BBC Symphony Orchestra Discover — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/KUJh2pJAWVI" title="BBC Symphony Orchestra Discover — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** Free
@@ -81,7 +84,7 @@ These libraries prioritize comprehensiveness and open formats over the polished 
 
 ### VSCO2 Community Edition — The Benchmark for Realistic Orchestral Arrangements
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/HCKIvA5vu1g" title="VSCO2 Community Edition — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/HCKIvA5vu1g" title="VSCO2 Community Edition — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Versilian Studios
 - **Price:** Free
@@ -98,7 +101,7 @@ VSCO2 Community Edition (Versilian Studios Chamber Orchestra 2) is a sample libr
 
 ### Sonatina Symphonic Orchestra — The Classic Free Reference Library
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/tfLT2QAI9s4" title="Sonatina Symphonic Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/tfLT2QAI9s4" title="Sonatina Symphonic Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Mattias Westlund
 - **Price:** Free
@@ -115,7 +118,7 @@ Sonatina Symphonic Orchestra (SSO) has been a fixture in free orchestral library
 
 ### VCSL — Broader Coverage From the VSCO2 Team
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Lw3rGNT4_bU" title="VCSL — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Lw3rGNT4_bU" title="VCSL — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Versilian Studios
 - **Price:** Free (open-source)
@@ -136,7 +139,7 @@ These plugins prioritize fast loading, minimal setup, and ease of use over deep 
 
 ### Virtual Playing Orchestra — Built for Notation and Mock-Ups
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fB9a_pt1PCY" title="Virtual Playing Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fB9a_pt1PCY" title="Virtual Playing Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Paul Battersby
 - **Price:** Free
@@ -153,7 +156,7 @@ Virtual Playing Orchestra (VPO) is a free SFZ library designed specifically for 
 
 ### DSK Dynamic Strings — Zero Friction, Immediate Results
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Ne5aYO5V9MA" title="DSK Dynamic Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Ne5aYO5V9MA" title="DSK Dynamic Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** DSK Music
 - **Price:** Free
@@ -170,7 +173,7 @@ DSK Dynamic Strings is a standalone free VST that delivers basic string tones wi
 
 ### Decent Sampler — One Install, Access to an Entire Free Strings Ecosystem
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/sBKjKZfNtfg" title="Decent Sampler — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/sBKjKZfNtfg" title="Decent Sampler — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** David Hilowitz / Decent Samples
 - **Price:** Free
@@ -191,7 +194,7 @@ When the free tier runs out — typically when you need more articulations, high
 
 ### Spitfire BBC Symphony Orchestra — The Professional Version of What You Already Know
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/VM4MnvrnLT0" title="Spitfire BBC Symphony Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/VM4MnvrnLT0" title="Spitfire BBC Symphony Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** Check current pricing on Plugin Boutique
@@ -203,7 +206,7 @@ When the free tier runs out — typically when you need more articulations, high
 
 ### EastWest Hollywood Strings — Sample-Layer Density at the High End
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ScEF8OALc_M" title="EastWest Hollywood Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ScEF8OALc_M" title="EastWest Hollywood Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** EastWest
 - **Price:** Available via EastWest ComposerCloud+ subscription or standalone license

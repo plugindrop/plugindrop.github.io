@@ -12,7 +12,7 @@ draft: false
 **TL;DR:** ADSR Sounds is the most consistently recommended single destination for curated free sample packs across producer communities in 2026 — the combination of curation standards, reliable metadata, and genre coverage is what r/edmproduction and r/makinghiphop return to consistently. MusicRadar's editorial vault and Cymatics' periodic releases are the community's most-cited genre supplements. This guide maps eight proven sources and flags the paid upgrades worth budgeting for.
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/89grrQTF5Ow" title="Where to Find the Best Free Sample Packs in 2026 (Curated List) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/89grrQTF5Ow" title="Where to Find the Best Free Sample Packs in 2026 (Curated List) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -132,6 +132,9 @@ Bedroom Producers Blog (BPB) doesn't host samples directly but functions as one 
 The free sources above cover most production needs. These two paid platforms consistently earn community recommendation for producers ready to invest in their library.
 
 ### Loopmasters — The benchmark for professional genre-specific packs
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/89grrQTF5Ow" title="Loopmasters — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Loopmasters
 - **Price:** From approximately $15–$30 per pack
 - **Why upgrade:** Free sources rarely match the production quality and musical coherence of Loopmasters packs, which are recorded and produced specifically for commercial release. Community consensus on r/edmproduction and r/makinghiphop holds that the genre focus and mix-readiness of Loopmasters content justifies the price for producers working consistently in specific styles — particularly house, techno, drum and bass, and contemporary R&B. The metadata standards and audio fidelity represent a clear step up from free-tier alternatives.
@@ -142,7 +145,7 @@ The free sources above cover most production needs. These two paid platforms con
 
 ### ADSR Sounds Sample Packs — Curated depth for focused genre work
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/xt4w2rT__jU" title="ADSR Sounds sample packs — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/xt4w2rT__jU" title="ADSR Sounds sample packs — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** ADSR Sounds
 - **Price:** Varies by pack

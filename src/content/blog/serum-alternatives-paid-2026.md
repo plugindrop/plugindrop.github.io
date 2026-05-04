@@ -15,7 +15,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/hYf0aHswino" title="Best Serum Alternatives 2026: Wavetable Synths Worth Buying — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/hYf0aHswino" title="Best Serum Alternatives 2026: Wavetable Synths Worth Buying — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -44,7 +44,7 @@ This article is written for producers who already understand synthesis and are m
 
 ### Phase Plant — the modular-architecture pick for producers who think in signal flow
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/hYf0aHswino" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/hYf0aHswino" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** $149 (standalone); available as part of Kilohearts Toolbox subscription
@@ -65,7 +65,7 @@ The Kilohearts ecosystem argument is worth taking seriously. If you already use 
 
 ### Pigments — the multi-engine instrument that outclasses Serum on breadth
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/IaKKZWUu_Xc" title="Pigments — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IaKKZWUu_Xc" title="Pigments — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** $199 full price; regularly discounted to $99 during Arturia promotions
@@ -86,9 +86,9 @@ The preset library shipped with Pigments earns consistently positive reviews acr
 
 ### Spire — the EDM workhorse with a decade of community validation
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/0rDowVRCubk" title="Spire — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/0rDowVRCubk" title="Spire — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/0rDowVRCubk" title="Spire — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/0rDowVRCubk" title="Spire — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Reveal Sound
 - **Price:** $119
@@ -111,7 +111,7 @@ At $119, Spire is the lowest-priced option in this comparison and the strongest 
 
 ### Phase Plant — when modular routing becomes non-negotiable
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/QADpthBFf5o" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QADpthBFf5o" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** $149
@@ -123,7 +123,7 @@ At $119, Spire is the lowest-priced option in this comparison and the strongest 
 
 ### Pigments — when one synthesis engine isn't enough
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/l3Qkw7-za4c" title="Pigments — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/l3Qkw7-za4c" title="Pigments — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** $199
@@ -135,7 +135,7 @@ At $119, Spire is the lowest-priced option in this comparison and the strongest 
 
 ### Spire — when genre production speed matters more than depth
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Aa2A8j-jyhI" title="Spire — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Aa2A8j-jyhI" title="Spire — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Reveal Sound
 - **Price:** $119
@@ -147,7 +147,7 @@ At $119, Spire is the lowest-priced option in this comparison and the strongest 
 
 ### Serum 2 — the ecosystem benchmark, when interoperability is the requirement
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
 - **Price:** $189

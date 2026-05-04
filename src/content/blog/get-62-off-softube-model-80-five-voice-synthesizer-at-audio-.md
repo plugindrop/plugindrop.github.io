@@ -17,8 +17,9 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/H3V0SoiZVQU" title="Get 62% off Softube Model 80 Five Voice Synthesizer at Audio Deluxe — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/H3V0SoiZVQU" title="Get 62% off Softube Model 80 Five Voice Synthesizer at Audio Deluxe — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 ## What Is Softube Model 80 Five Voice Synthesizer?
 

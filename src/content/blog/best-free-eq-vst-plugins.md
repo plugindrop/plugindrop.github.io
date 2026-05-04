@@ -20,6 +20,8 @@ draft: false
 
 ## Quick Picks at a Glance
 
+> **Quick Answer:** The best free EQ VST plugins in 2026 are **TDR Nova** (dynamic parametric EQ with built-in spectrum analyzer — the single best free EQ available), **MEqualizer** (6-band fully parametric EQ from MeldaProduction with A/B comparison and signal oscilloscope), and **TDR SlickEQ** (bus EQ with musical saturation and an analog-voiced workflow). All are free to download with no time limits.
+
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | TDR Nova | Free | Dynamic EQ — mixing & mastering | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova%20equalizer&a_aid=69cb95abe1763) |
@@ -45,6 +47,9 @@ This guide covers ten free EQ VSTs organized by use case, with honest assessment
 ## Best Free Parametric EQ Plugins for Mixing
 
 ### TDR Nova — The single best free EQ you can download today
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1CHFv4mWQYM" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Tokyo Dawn Labs
 - **Price:** Free (GE version available as paid upgrade)
 - **Platforms:** Windows, macOS
@@ -148,6 +153,9 @@ Voxengo Marvel GEQ is a 16-band linear phase graphic equalizer with the kind of 
 ---
 
 ### LP10 — The dedicated linear phase mastering EQ
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WiEjFdUfV_U" title="LP10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** LKJB
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -319,5 +327,5 @@ The best free EQ VST plugin in 2026 is **TDR Nova** — it is dynamic, transpare
 - [FabFilter Pro-Q 4 Review: The Best EQ Plugin in 2026?](/posts/fabfilter-pro-q-4-review/)
 - [FabFilter Pro-Q 4 vs iZotope Neutron: Which EQ Wins?](/posts/fabfilter-pro-q-4-vs-izotope-neutron/)
 - [Best EQ Plugins 2026: Top Paid Options Ranked](/posts/best-eq-plugins-2026/)
-- [Best EQ Plugins for Mixing and Mastering](/posts/best-eq-plugins-mixing-mastering/)
+- [Best EQ Plugins for Mixing and Mastering](/posts/best-eq-plugins-2026/)
 - [Free Alternative to FabFilter Pro-Q 4](/posts/free-alternative-to-fabfilter-pro-q/)

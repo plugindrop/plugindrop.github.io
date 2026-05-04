@@ -1,18 +1,15 @@
 ---
-title: "65% Off EchoBoy"
-description: "EchoBoy by Soundtoys is down to $69 — that's 65% off the regular ~~$199~~ price tag. For a delay plugin with this depth and track record, $69 is a rare..."
-pubDate: "2026-04-28T13:53:39Z"
-tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=echoboy-4858a0"
-heroImage: "/images/echoboy-4858a0.jpg"
+title: "EchoBoy: Features, Pricing & Is It Worth It? (2026)"
+description: "EchoBoy is a delay and echo plugin developed by Soundtoys. It models the character of vintage tape echo units, analog delays, and digital ec Find current pricing and reviews at Plugin Boutique."
+pubDate: '2026-04-28T13:53:39Z'
+tags: ["review", "vst-plugin", "effects", "music-production"]
+affiliate: https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=echoboy-4858a0
+heroImage: /images/echoboy-4858a0.jpg
 score: 8.50
-dealPrice: "$69.00"
-originalPrice: "$199.00"
-discount: "65% OFF"
-xText: "echoboy at 65% off is the lowest i've caught it in years. these delays literally sit in a mix like butter. not exaggerating—if you've been on the fence, this is the move"
 draft: false
+converted: true
 ---
-**TL;DR:** EchoBoy by Soundtoys is down to $69 — that's 65% off the regular ~~$199~~ price tag. For a delay plugin with this depth and track record, $69 is a rare entry point. [→ Get EchoBoy at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=echoboy-4858a0)
+**EchoBoy** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=echoboy-4858a0)
 
 ---
 
@@ -52,11 +49,7 @@ EchoBoy has been a fixture in professional production discussions for well over 
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|--------------|------------|----------|
-| ~~$199~~ | **$69** | $130 (65%) |
+## Current Pricing
 
 Soundtoys runs sales a few times per year, typically around Black Friday and occasionally mid-year. A 65% discount on a flagship single plugin — not a bundle — is toward the higher end of what they typically offer. If you've been waiting for a meaningful price drop on EchoBoy specifically rather than holding out for the full Soundtoys 5 bundle, this is a concrete buying window.
 
@@ -94,9 +87,7 @@ A: Check the official product page for current macOS and Windows version require
 
 ---
 
-## Get the Deal
-
-EchoBoy at $69 represents a $130 reduction from its standard price — a 65% discount on one of the more established delay plugins in the market. The sale is live now at Plugin Boutique.
+##  The sale is live now at Plugin Boutique.
 
 [→ Get EchoBoy at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=echoboy-4858a0)
 

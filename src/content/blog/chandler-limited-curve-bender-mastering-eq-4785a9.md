@@ -1,18 +1,15 @@
 ---
-title: "74% Off Chandler Limited Curve Bender Mastering EQ"
-description: "The Chandler Limited Curve Bender Mastering EQ is currently **$79** (down from ~~$299~~) at Plugin Boutique — a 74% discount on a plugin rooted in some of..."
-pubDate: "2026-04-23T18:27:42Z"
-tags: ["sale", "vst-plugin", "effects", "eq", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/5618-Chandler-Limited-Curve-Bender-Mastering-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-4785a9"
-heroImage: "/images/chandler-limited-curve-bender-mastering-eq-4785a9.jpg"
+title: "Chandler Limited Curve Bender Mastering EQ: Features, Pricing & Is It Worth It? (2026)"
+description: "Chandler Limited is a boutique analog hardware manufacturer with a reputation built on high-end studio gear — most famously their Abbey Road Find current pricing and reviews at Plugin Boutique."
+pubDate: '2026-04-23T18:27:42Z'
+tags: ["review", "vst-plugin", "effects", "eq", "music-production"]
+affiliate: https://www.pluginboutique.com/product/2-Effects/16-EQ/5618-Chandler-Limited-Curve-Bender-Mastering-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-4785a9
+heroImage: /images/chandler-limited-curve-bender-mastering-eq-4785a9.jpg
 score: 9.05
-dealPrice: "$79.00"
-originalPrice: "$299.00"
-discount: "74% OFF"
-xText: "curve bender hit 74% off. mastering eqs this tier don't discount like this. if you've been waiting, this is genuinely the moment"
 draft: false
+converted: true
 ---
-**TL;DR:** The Chandler Limited Curve Bender Mastering EQ is currently **$79** (down from ~~$299~~) at Plugin Boutique — a 74% discount on a plugin rooted in some of the most iconic hardware in mastering history. Chandler Limited doesn't run deep sales often, so this price point is worth noting. [Grab it here while the deal is live.](https://www.pluginboutique.com/product/2-Effects/16-EQ/5618-Chandler-Limited-Curve-Bender-Mastering-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-4785a9)
+**Chandler Limited Curve Bender Mastering EQ** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/5618-Chandler-Limited-Curve-Bender-Mastering-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-4785a9)
 
 ---
 
@@ -45,17 +42,13 @@ Chandler Limited is a boutique analog hardware manufacturer with a reputation bu
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$299.00~~ | **$79.00** | $220.00 (74%) |
+## Current Pricing
 
 Chandler Limited products are premium-positioned — both the hardware and software lines sit at the higher end of their respective markets. A 74% sale is a meaningful departure from typical pricing for this brand. That context matters: if you've been watching this one, this discount is deeper than the usual sale depth.
 
 Verify current pricing on the product page — deals can change without notice.
 
-**[Get the Chandler Limited Curve Bender for $79 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/16-EQ/5618-Chandler-Limited-Curve-Bender-Mastering-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-4785a9)**
+**[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/5618-Chandler-Limited-Curve-Bender-Mastering-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-4785a9)**
 
 ---
 
@@ -80,18 +73,18 @@ A: Check the product page on Plugin Boutique for current activation method and l
 A: Check the official product page for the confirmed list of supported formats (VST, AU, AAX, etc.) and OS compatibility.
 
 **Q: Is $79 a historically low price for this plugin?**
-A: At 74% off the listed $299 price, this is a significant discount. Chandler Limited plugins don't frequently appear at this discount depth — but always verify the current deal status on the product page.
+ Chandler Limited plugins don't frequently appear at this discount depth — but always verify the current deal status on the product page.
 
 **Q: What is the Chandler Limited Curve Bender hardware?**
 A: The hardware is a mastering EQ built by Chandler Limited, based on the EMI TG12345 circuit design associated with Abbey Road Studios. Hardware units typically sell for several thousand dollars on the used market.
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 ~~$299~~ down to **$79** — that's $220 back in your pocket for a plugin with genuine analog hardware roots. This kind of discount on Chandler Limited gear doesn't come around constantly.
 
-**[Grab the Chandler Limited Curve Bender Mastering EQ for $79 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/16-EQ/5618-Chandler-Limited-Curve-Bender-Mastering-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-4785a9)**
+**[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/5618-Chandler-Limited-Curve-Bender-Mastering-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-4785a9)**
 
 ---
 

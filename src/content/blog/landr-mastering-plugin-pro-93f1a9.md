@@ -1,18 +1,15 @@
 ---
-title: "33% Off LANDR Mastering Plugin PRO"
-description: "LANDR Mastering Plugin PRO is 33% off at Plugin Boutique — ~~$299~~ $199, saving $100 on an AI-driven in-DAW mastering plugin from one of the most..."
-pubDate: "2026-05-02T07:30:00Z"
-tags: ["sale", "vst-plugin", "effects", "mastering", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/50-Mastering-/11463-LANDR-Mastering-Plugin-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=landr-mastering-plugin-pro-93f1a9"
-heroImage: "/images/landr-mastering-plugin-pro-93f1a9.jpg"
+title: "LANDR Mastering Plugin PRO: Features, Pricing & Is It Worth It? (2026)"
+description: "LANDR Mastering Plugin PRO is an AI-powered mastering plugin developed by LANDR, the company behind one of the most widely used cloud master Find current pricing and reviews at Plugin Boutique."
+pubDate: '2026-05-02T07:30:00Z'
+tags: ["review", "vst-plugin", "effects", "mastering", "music-production"]
+affiliate: https://www.pluginboutique.com/product/2-Effects/50-Mastering-/11463-LANDR-Mastering-Plugin-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=landr-mastering-plugin-pro-93f1a9
+heroImage: /images/landr-mastering-plugin-pro-93f1a9.jpg
 score: 10.00
-dealPrice: "$199.00"
-originalPrice: "$299.00"
-discount: "33% OFF"
-xText: "landr's mastering plugin is 33% off and honestly it's the only reason my masters don't sound thin anymore. absolutely worth the move."
 draft: false
+converted: true
 ---
-**TL;DR:** LANDR Mastering Plugin PRO is 33% off at Plugin Boutique — ~~$299~~ $199, saving $100 on an AI-driven in-DAW mastering plugin from one of the most recognized names in automated mastering. [→ Get LANDR Mastering Plugin PRO at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/50-Mastering-/11463-LANDR-Mastering-Plugin-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=landr-mastering-plugin-pro-93f1a9)
+**LANDR Mastering Plugin PRO** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/50-Mastering-/11463-LANDR-Mastering-Plugin-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=landr-mastering-plugin-pro-93f1a9)
 
 ---
 
@@ -51,11 +48,7 @@ LANDR has been part of the conversation around AI mastering since the early days
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$299.00~~ | $199.00 | $100.00 (33%) |
+## Current Pricing
 
 A 33% reduction on LANDR's plugin is a meaningful move. LANDR runs periodic promotions, but this depth of discount is not a constant — the $100 saving brings it into a sharper price comparison against competing mastering tools. At $199, the cost is more defensible as a standalone plugin purchase rather than a supplementary add-on.
 
@@ -93,9 +86,7 @@ A: Activation method is not confirmed in available sources — check the officia
 
 ---
 
-## Get the Deal
-
-At $199 — $100 off the standard price — LANDR Mastering Plugin PRO sits at a more compelling entry point than usual. Producers looking for an AI-first, in-DAW mastering tool from an established platform have a clear window here.
+##  Producers looking for an AI-first, in-DAW mastering tool from an established platform have a clear window here.
 
 [→ Get LANDR Mastering Plugin PRO at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/50-Mastering-/11463-LANDR-Mastering-Plugin-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=landr-mastering-plugin-pro-93f1a9)
 

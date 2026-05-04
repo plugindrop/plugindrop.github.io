@@ -14,7 +14,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/wbQgt8u-Cm4" title="12 Best VST Plugins for Lo-Fi Beats in 2026 (Free & Paid) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wbQgt8u-Cm4" title="12 Best VST Plugins for Lo-Fi Beats in 2026 (Free & Paid) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -46,7 +46,7 @@ This guide is for producers setting up a lo-fi toolkit or auditing what they alr
 
 ### iZotope Vinyl — The Free Standard for Vinyl Simulation
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/r0Q6I3y8tKY" title="iZotope Vinyl — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/r0Q6I3y8tKY" title="iZotope Vinyl — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** Free
@@ -63,7 +63,7 @@ iZotope Vinyl has been in free distribution since 2002 and remains the most-cite
 
 ### Chow Tape Model — Open-Source Tape Emulation with Technical Depth
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dBu_h-CAfhI" title="Chow Tape Model — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/dBu_h-CAfhI" title="Chow Tape Model — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Chowdhury DSP
 - **Price:** Free (open source)
@@ -80,7 +80,7 @@ Chow Tape Model is a physics-based tape emulator built as an academic project th
 
 ### Caelum Audio Tape Cassette 2 — Dedicated Cassette Character
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/MCEdEFmqcdw" title="Caelum Audio Tape Cassette 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/MCEdEFmqcdw" title="Caelum Audio Tape Cassette 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Caelum Audio
 - **Price:** Free
@@ -99,7 +99,7 @@ Tape Cassette 2 focuses on cassette-format degradation: lo-fi stereo crosstalk, 
 
 ### Valhalla Supermassive — The Community's Unanimous Free Reverb Pick (see our [best free reverb VST plugins guide](/posts/best-free-reverb-vst-plugins/) for more options)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** Free
@@ -116,7 +116,7 @@ Valhalla DSP is known primarily for paid reverbs that communities consistently r
 
 ### TAL-Reverb-4 — Plate Reverb Character for Drums and Keys
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/opl6Cz6MzTQ" title="TAL-Reverb-4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/opl6Cz6MzTQ" title="TAL-Reverb-4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** TAL Software
 - **Price:** Free
@@ -137,7 +137,7 @@ Lo-fi beats also rely on well-timed drum machine textures — if you're building
 
 ### TAL-Dub-3 — Tape Delay Built for Warmth and Movement
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/CdvgWcUMeSs" title="TAL-Dub-3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CdvgWcUMeSs" title="TAL-Dub-3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** TAL Software
 - **Price:** Free
@@ -156,7 +156,7 @@ TAL-Dub-3 is a free tape-style delay with built-in modulation, filtering, and sa
 
 ### Krush by Tritik — The Most Controllable Free Bitcrusher
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Mgqd5kE_l80" title="Krush by Tritik — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Mgqd5kE_l80" title="Krush by Tritik — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Tritik
 - **Price:** Free
@@ -173,7 +173,7 @@ Krush combines bit depth reduction and sample rate reduction with analog-style s
 
 ### GVST GDegrade — Lightweight Degradation Utility
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/hfkG5IpBs3E" title="GVST GDegrade — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/hfkG5IpBs3E" title="GVST GDegrade — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** GVST
 - **Price:** Free
@@ -192,7 +192,7 @@ GDegrade is a focused bit crusher and sample-rate reducer from GVST, a developer
 
 ### IVGI by Klanghelm — Free Tape-Style Warmth
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/0brhfg86mWQ" title="IVGI by Klanghelm — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/0brhfg86mWQ" title="IVGI by Klanghelm — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Klanghelm
 - **Price:** Free
@@ -211,7 +211,7 @@ Lo-fi pads and melodic elements typically come from soft, warm synths — if you
 
 ### TAL-Chorus-LX — Vintage Chorus for Organic Pitch Movement
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/tbM3E2Ov3zI" title="TAL-Chorus-LX — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/tbM3E2Ov3zI" title="TAL-Chorus-LX — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** TAL Software
 - **Price:** Free
@@ -230,7 +230,7 @@ TAL-Chorus-LX is a recreation of the Roland Juno-60's chorus circuit, offered fr
 
 ### RC-20 Retro Color — The All-in-One Lo-Fi Chain
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/wbQgt8u-Cm4" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wbQgt8u-Cm4" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** XLN Audio
 - **Price:** ~$99
@@ -242,7 +242,7 @@ TAL-Chorus-LX is a recreation of the Roland Juno-60's chorus circuit, offered fr
 
 ### iZotope RX Elements — Repair First, Degrade Second
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/MhUEmvneerc" title="iZotope RX Elements — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/MhUEmvneerc" title="iZotope RX Elements — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** ~$99 (frequently on sale)

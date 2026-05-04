@@ -13,7 +13,7 @@ draft: false
 
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/RCtLp_EmJ2s" title="10 Best Free Piano VST Plugins in 2026 (Grand, Upright, Electric) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/RCtLp_EmJ2s" title="10 Best Free Piano VST Plugins in 2026 (Grand, Upright, Electric) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 |--------|-------|------|------------|-----|
 | LABS Soft Piano | Free | Sampled (felt) | Intimate character, LABS ecosystem | [Free Download](https://labs.spitfireaudio.com/) |

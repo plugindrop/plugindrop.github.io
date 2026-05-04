@@ -21,6 +21,7 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/T_QgaBXAGAY" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is ELECTRO CITY by Sample Logic?
 
 Sample Logic is a developer known for deeply layered, Kontakt-based instruments that blend real-world recordings with electronic processing. ELECTRO CITY is their urban-electronic production toolkit — designed to capture the pulse of city life and translate it into playable, production-ready sounds. Think gritty textures, mechanical rhythms, and synthetic atmospheres built from real urban source material. It targets producers working in cinematic, electronic, hip-hop, and hybrid genres.

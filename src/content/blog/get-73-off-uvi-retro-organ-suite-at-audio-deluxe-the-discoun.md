@@ -17,8 +17,9 @@ draft: true
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/SIwF4RGfCbo" title="Get 73% off UVI Retro Organ Suite at Audio Deluxe — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/SIwF4RGfCbo" title="Get 73% off UVI Retro Organ Suite at Audio Deluxe — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 ## What Is UVI Retro Organ Suite?
 

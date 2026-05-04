@@ -14,7 +14,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/wbQgt8u-Cm4" title="How to Make Lo-Fi Music: Complete Plugin Guide for That Vintage Sound (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wbQgt8u-Cm4" title="How to Make Lo-Fi Music: Complete Plugin Guide for That Vintage Sound (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -46,7 +46,7 @@ The vinyl layer is lo-fi's defining texture. Its role isn't just to add crackle 
 
 ### iZotope Vinyl — The Free Benchmark for Vinyl Simulation
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/r0Q6I3y8tKY" title="iZotope Vinyl — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/r0Q6I3y8tKY" title="iZotope Vinyl — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** Free
@@ -69,7 +69,7 @@ Beyond vinyl noise, lo-fi music relies on tape-style saturation: gentle harmonic
 
 ### RC-20 Retro Color — The Paid Standard for Lo-Fi Character
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/wbQgt8u-Cm4" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wbQgt8u-Cm4" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** XLN Audio
 - **Price:** $99
@@ -92,7 +92,7 @@ Lo-fi reverb isn't about adding pristine room size — it's about adding space w
 
 ### Valhalla Supermassive — The Best Free Reverb for Lo-Fi Production (see our [complete free reverb guide](/posts/best-free-reverb-vst-plugins/) for more options)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** Free
@@ -115,7 +115,7 @@ Delay in lo-fi production isn't clean, digital ping-pong. It's tape delay: warm,
 
 ### TAL-Dub-3 — Capable Free Tape Delay with Lo-Fi DNA
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/CdvgWcUMeSs" title="TAL-Dub-3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CdvgWcUMeSs" title="TAL-Dub-3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** TAL Software
 - **Price:** Free
@@ -136,7 +136,7 @@ The saturation in the feedback path is the key distinguishing feature: each repe
 
 ### RC-20 Retro Color — The Logical Upgrade from a Patched Free Chain
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/tba_KPAzDvk" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/tba_KPAzDvk" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** XLN Audio
 - **Price:** $99
@@ -148,7 +148,7 @@ The saturation in the feedback path is the key distinguishing feature: each repe
 
 ### Arturia Pigments 5 — A Serious Synth Engine for Lo-Fi Texture Work (for free synth alternatives, see our [best free synth VST plugins guide](/posts/best-free-synth-plugins/))
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/bpb0QLrwwEY" title="Arturia Pigments 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bpb0QLrwwEY" title="Arturia Pigments 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** $199
