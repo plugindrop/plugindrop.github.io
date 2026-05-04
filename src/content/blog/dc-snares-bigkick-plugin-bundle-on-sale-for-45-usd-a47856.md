@@ -67,7 +67,7 @@ A: Verify on the product page as end dates can shift.
 
 ## Where to Buy
 
- If kick and snare sound design is part of your workflow, the math on this bundle speaks for itself.
+If kick and snare sound design is part of your workflow, the math on this bundle speaks for itself.
 
 [**Get the DC Snares & BigKick bundle for $45 at Plugin Boutique →**](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/12750-DC-Snares-BigKick-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-bigkick-plugin-bundle-on-sale-for-45-usd-a47856&a_aid=69cb95abe1763)
 

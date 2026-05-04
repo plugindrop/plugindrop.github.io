@@ -84,7 +84,7 @@ A: Refund and return policies are set by Plugin Boutique — review their terms 
 
 At ~~$79.00~~ **$49.00**, this is one of the sharper deals on a dedicated MIDI arpeggiator available right now. Thirty dollars off is real money — don't wait for the price to snap back.
 
-[pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3)
 
 ---
 

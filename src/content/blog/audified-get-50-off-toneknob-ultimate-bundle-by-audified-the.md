@@ -51,8 +51,6 @@ Audified has a solid reputation in mixing communities for building focused, no-n
 
  Audified doesn't run deep discounts constantly, so when they hit 50%, it's worth paying attention. At $34.50 for the full Ultimate Bundle, the per-plugin cost comes out well under $10 depending on how many titles are included — check the product page for the exact plugin count to do your own math.
 
-****
-
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15324-ToneKnob-Ultimate-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=audified-get-50-off-toneknob-ultimate-bundle-by-audified-the&a_aid=69cb95abe1763)
 
 ---

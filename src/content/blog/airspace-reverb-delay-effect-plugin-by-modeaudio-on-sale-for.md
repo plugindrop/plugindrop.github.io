@@ -41,7 +41,6 @@ One frequently noted limitation: Airspace does not support loading custom impuls
 - **Ambient & Soundtrack Producers** — The large IR library and shimmer-capable delay are designed specifically for atmospheric, textural work.
 - **Electronic Music Producers (House, Techno, Hip-Hop)** — The three-stage processing chain adds depth and movement to drums, synths, and vocals without needing multiple plugin inserts.
 - **Sound Designers** — The experimental IR categories and four-octave pitch shifter open the door to otherworldly textures from any source material.
-This sale runs ****.  If you missed that earlier deal, this is another solid opportunity.
 
 A 15-day free trial is also available with no restrictions, so you can test it in your DAW before committing.
 
@@ -73,7 +72,7 @@ A: Check the Plugin Boutique product page or ModeAudio's official site for curre
 
 ## Where to Buy
 
-$20 off a hybrid convolution reverb and stereo delay — with 450+ IRs and 240+ presets out of the box. , so the window is limited.
+Airspace is a hybrid convolution reverb and stereo delay with 450+ IRs and 240+ presets out of the box.
 
 [**Pick up Airspace for $59 at Plugin Boutique →**](https://www.pluginboutique.com/product/2-Effects/17-Reverb/14865-Airspace?utm_source=plugindrop&utm_medium=article&utm_campaign=airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for&a_aid=69cb95abe1763)
 

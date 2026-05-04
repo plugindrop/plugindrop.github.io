@@ -81,7 +81,7 @@ A: Plugin Boutique's refund terms vary by product — review their policy on the
 
 ## Where to Buy
 
-$90 off a virtual instrument is a deal worth acting on. At $29.00, ROWDY 2 is priced where the question isn't whether it's worth it — it's whether you need it.
+A virtual instrument is a deal worth acting on. At $29.00, ROWDY 2 is priced where the question isn't whether it's worth it — it's whether you need it.
 
 [Pick up ROWDY 2 for $29 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6261-ROWDY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rowdy-2-e5a202)
 

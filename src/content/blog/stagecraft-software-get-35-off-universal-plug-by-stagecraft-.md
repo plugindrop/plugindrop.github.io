@@ -41,11 +41,9 @@ Universal Plug fills a niche that doesn't generate massive forum hype, but the u
 - **Logic Pro users** — Logic is locked to AudioUnits. This wrapper lets you access VST and VST3 plugins without switching DAWs.
 - **Studio collaborators** — If you receive sessions from other producers who use different DAWs, this keeps plugin compatibility from derailing the workflow.
 
- If you've been eyeing it, this is a solid time to pull the trigger.
+If you've been eyeing it, this is a solid time to pull the trigger.
 
-**, 2026.**
-
-Verify current pricing on the product page — deals can change. [](https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=plugindrop&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-&a_aid=69cb95abe1763)
+Verify current pricing on the product page — deals can change. 
 
 ## Alternatives at a Glance
 
@@ -73,7 +71,7 @@ A: The developer lists macOS 10.13+ (Intel and Apple Silicon) and Windows 7+. Ch
 
 ## Where to Buy
 
-~~$70~~ down to **$45.50** — that's $24.50 back in your pocket for a tool that removes DAW format headaches permanently. Sale ends April 12th. [](https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=plugindrop&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-&a_aid=69cb95abe1763)
+~~$70~~ down to **$45.50** — that's $24.50 back in your pocket for a tool that removes DAW format headaches permanently. Sale ends April 12th. 
 
 ---
 

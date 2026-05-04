@@ -57,7 +57,7 @@ SLAP is a virtual instrument available on Plugin Boutique, purpose-built around 
 | Session Bassist – Electric Sunburst (NI) | ~$49–$99 | Kontakt-based fingerstyle focus; strong for picked and fingered bass rather than slap |
 | Modo Bass (IK Multimedia) | ~$149 | Physics-based modeling engine rather than sample-based; more flexible per-note articulation |
 
- If you need a single instrument to cover jazz bass, fingerstyle, picked, and slap across many styles, Trilian or Modo Bass offer broader coverage at a higher price.
+If you need a single instrument to cover jazz bass, fingerstyle, picked, and slap across many styles, Trilian or Modo Bass offer broader coverage at a higher price.
 
 ---
 
@@ -79,7 +79,7 @@ A: Plugin Boutique's refund and return policy applies — check their official t
 
 ## Where to Buy
 
-$90 off is not a rounding error. At $29, SLAP is priced more like a session snack than a serious instrument purchase — and that's the point. If slap bass is a recurring gap in your productions, this is a low-risk moment to fill it.
+At $29, SLAP is priced more like a session snack than a serious instrument purchase. If slap bass is a recurring gap in your productions, this is a low-risk moment to fill it.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8991-SLAP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slap-281ca7)
 

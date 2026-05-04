@@ -84,7 +84,7 @@ A: BA-1 supports expansion packs sold separately. The base synth purchase gives 
 
 ## Where to Buy
 
-50% off a well-regarded analog monosynth from one of the more respected boutique plugin developers around — that's a deal worth acting on. [](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=plugindrop&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763)
+50% off a well-regarded analog monosynth from one of the more respected boutique plugin developers around — that's a deal worth acting on. 
 
 ---
 

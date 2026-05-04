@@ -83,8 +83,8 @@ A: Refund eligibility for digital software varies; check Plugin Boutique's terms
 
 ## Where to Buy
 
-$81.00 off a dedicated referencing tool doesn't happen often in this category. 
-[pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088)
+A dedicated referencing tool doesn't happen often in this category. 
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088)
 
 ---
 

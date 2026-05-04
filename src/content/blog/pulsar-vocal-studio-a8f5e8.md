@@ -67,9 +67,9 @@ A: Check the Plugin Boutique listing or the Pulsar Audio website for demo availa
 
 ## Where to Buy
 
-$110 off a purpose-built vocal chain from a developer with a strong analog modeling pedigree. At $89, this is one of the more substantive vocal plugin deals currently active.
+A purpose-built vocal chain from a developer with a strong analog modeling pedigree. At $89, this is one of the more substantive vocal plugin deals currently active.
 
-[pluginboutique.com/product/2-Effects/54-Vocal-Processing/15002-Pulsar-Vocal-Studio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-vocal-studio-a8f5e8)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/54-Vocal-Processing/15002-Pulsar-Vocal-Studio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-vocal-studio-a8f5e8)
 
 ---
 

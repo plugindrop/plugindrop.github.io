@@ -49,9 +49,7 @@ ENGL as a brand carries significant weight in guitar-focused production communit
 
 ---
 
-The exact regular and sale prices can shift — **verify current pricing directly on the product page** before purchasing, as deals can change. What's confirmed: this is 
-
- If you've been sitting on the fence, April 30 is a hard deadline.
+If you've been sitting on the fence, April 30 is a hard deadline.
 
 [Check the current price and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?utm_source=plugindrop&utm_medium=article&utm_campaign=50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30&a_aid=69cb95abe1763)
 
@@ -88,8 +86,6 @@ A: Check the Plugin Boutique product listing for demo or trial availability — 
 ## Where to Buy
 
 50% off a licensed ENGL amp sim is a meaningful discount on a niche, brand-specific product. 
-
-[](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?utm_source=plugindrop&utm_medium=article&utm_campaign=50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30&a_aid=69cb95abe1763)
 
 ---
 

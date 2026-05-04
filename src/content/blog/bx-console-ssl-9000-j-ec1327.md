@@ -19,7 +19,7 @@ converted: true
 
 ## What Is bx_console SSL 9000 J?
 
-bx_console SSL 9000 J is a channel strip plugin by Brainworx (a Plugin Alliance brand), modeled after the SSL 9000 J series mixing console — a large-format desk used extensively in professional recording and mixing. The plugin aims to bring that console's EQ, dynamics, and analog character into a DAW environment. Brainworx is known for its TMT (Tolerance Modeling Technology), which emulates the subtle component-level variations found between channels on a real hardware console.
+Bx_console SSL 9000 J is a channel strip plugin by Brainworx (a Plugin Alliance brand), modeled after the SSL 9000 J series mixing console — a large-format desk used extensively in professional recording and mixing. The plugin aims to bring that console's EQ, dynamics, and analog character into a DAW environment. Brainworx is known for its TMT (Tolerance Modeling Technology), which emulates the subtle component-level variations found between channels on a real hardware console.
 
 ---
 
@@ -47,7 +47,7 @@ The bx_console series from Brainworx has built a solid reputation in mixing comm
 
 ---
 
- If you've had this on your wishlist, this is a meaningful price drop worth acting on.
+If you've had this on your wishlist, this is a meaningful price drop worth acting on.
 
 Note: Verify current pricing on the product page — deals can change.
 

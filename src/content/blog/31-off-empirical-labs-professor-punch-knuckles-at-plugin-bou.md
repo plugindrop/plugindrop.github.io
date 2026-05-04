@@ -50,8 +50,6 @@ Empirical Labs has strong brand equity among mixing engineers, largely built on 
 
 Empirical Labs plugins don't run frequent deep discounts — this brand tends to hold price. A 31% sale is meaningful for a developer at this tier, more in line with a once- or twice-a-year event than a regular promotional cycle. If you've been watching this one, waiting for a better deal may mean waiting a long time.
 
-**, 2026.** Verify current pricing directly on the listing, as deals can update without notice.
-
 [Check the current price and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=plugindrop&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou&a_aid=69cb95abe1763)
 
 ---

@@ -78,7 +78,7 @@ A: Leapwing has occasionally run deeper discounts on individual products (up to 
 
 ## Where to Buy
 
- If StageOne 2, DynOne, or any of their tools have been sitting in your wishlist, this is a smart time to pull the trigger. [See all Leapwing Audio deals on KVR](https://www.pluginboutique.com/manufacturers/247-Leapwing-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=up-to-40-off-leapwing-audio-2576b9).
+If StageOne 2, DynOne, or any of their tools have been sitting in your wishlist, this is a smart time to pull the trigger. [See all Leapwing Audio deals on KVR](https://www.pluginboutique.com/manufacturers/247-Leapwing-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=up-to-40-off-leapwing-audio-2576b9).
 
 ---
 

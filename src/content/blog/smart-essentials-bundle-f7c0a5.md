@@ -72,7 +72,7 @@ A: The smart: series generally supports VST, VST3, AU, and AAX, but confirm comp
 
 ##  If the smart: series is on your radar, this is the right moment to act.
 
-[pluginboutique.com/product/81-Bundles/84-Mix-Master/16550-smart-essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-essentials-bundle-f7c0a5)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/81-Bundles/84-Mix-Master/16550-smart-essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-essentials-bundle-f7c0a5)
 
 ---
 

@@ -43,7 +43,7 @@ Weiss plugins are not prolific or aggressively marketed — the company releases
 
 ---
 
- If you've been on the fence, this deal structure suggests it's worth acting on now rather than waiting for a better offer that may not materialize.
+If you've been on the fence, this deal structure suggests it's worth acting on now rather than waiting for a better offer that may not materialize.
 
 Note: Verify current pricing on the product page — deals can change.
 
@@ -59,7 +59,7 @@ Note: Verify current pricing on the product page — deals can change.
 | iZotope Ozone (Elements) | ~$49–$99 | Full mastering suite with AI-assisted tools; broader feature set |
 | TDR Limiter 6 GE | ~$50 | Multi-stage limiter with surgical control; strong value option |
 
- If you need a broader all-in-one mastering solution with EQ, stereo imaging, and AI tools, Ozone covers more ground in one package.
+If you need a broader all-in-one mastering solution with EQ, stereo imaging, and AI tools, Ozone covers more ground in one package.
 
 ---
 
@@ -81,9 +81,7 @@ A: Check the official product page for up-to-date system requirements — OS com
 
 ## Where to Buy
 
-$130 off a Weiss Engineering mastering plugin is not the kind of deal that comes around often. At **$69**, the MM-1 is within reach for producers and engineers who previously couldn't justify the full price.
-
-[](https://www.pluginboutique.com/product/2-Effects/50-Mastering-/4181-Weiss-MM-1?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=weiss-mm-1-8ebf12)
+A Weiss Engineering mastering plugin is not the kind of deal that comes around often. At **$69**, the MM-1 is within reach for producers and engineers who previously couldn't justify the full price.
 
 ---
 

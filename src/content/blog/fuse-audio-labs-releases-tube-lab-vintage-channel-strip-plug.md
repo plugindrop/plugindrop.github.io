@@ -60,7 +60,7 @@ A: The $29 intro price is available . After that, the regular price is $69.
 
 ## Where to Buy
 
-$40 off a vintage channel strip with five tube preamp models, Baxandall EQ, and optical compressor — all for $29 until May 2nd. That's a solid entry point for what Fuse Audio Labs is offering here.
+A vintage channel strip with five tube preamp models, Baxandall EQ, and optical compressor — all for $29 until May 2nd. That's a solid entry point for what Fuse Audio Labs is offering here.
 
 [Get Tube Lab at the intro price →](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17093-Tube-Lab?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug)
 

@@ -77,7 +77,7 @@ A: Compatibility details including supported plugin formats are listed on the Pl
 
 ## Where to Buy
 
-Voxmotive Soundbox Instrument is currently $27.95 — $15.05 off its regular $43.00 price. 
+Voxmotive Soundbox Instrument is currently $27.95 — its regular $43.00 price. 
 
 [→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/13304-Voxmotive-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=voxmotive-soundbox-instrument-f80b62)
 

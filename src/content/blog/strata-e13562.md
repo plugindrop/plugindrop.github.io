@@ -44,7 +44,7 @@ For full system requirements and activation details, check the official product 
 
 Note: Verify current pricing on the product page — deals can change.
 
-[pluginboutique.com/product/3-Studio-Tools/79-Metering/17125-Strata?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=strata-e13562)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/3-Studio-Tools/79-Metering/17125-Strata?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=strata-e13562)
 
 ## Alternatives at a Glance
 
@@ -74,7 +74,7 @@ A: Check the product listing on Plugin Boutique; some developers offer demo vers
 
 ## Where to Buy
 
-$25 off a dedicated metering plugin is a deal worth acting on — these tools pay for themselves in time saved second-guessing your levels. [Pick up Strata for $50 at Plugin Boutique while the 33% discount is live.](https://www.pluginboutique.com/product/3-Studio-Tools/79-Metering/17125-Strata?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=strata-e13562)
+A dedicated metering plugin is a deal worth acting on — these tools pay for themselves in time saved second-guessing your levels. [Pick up Strata for $50 at Plugin Boutique while the 33% discount is live.](https://www.pluginboutique.com/product/3-Studio-Tools/79-Metering/17125-Strata?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=strata-e13562)
 
 ---
 

@@ -71,7 +71,7 @@ A: The current deal runs through April 12, 2026. Pricing may change after that d
 
 ## Where to Buy
 
-$50 off a well-regarded spectral balancer doesn't come around every week. 
+A well-regarded spectral balancer doesn't come around every week. 
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o&a_aid=69cb95abe1763)
 

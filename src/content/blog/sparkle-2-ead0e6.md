@@ -75,7 +75,7 @@ A: Refund terms vary — check Plugin Boutique's official returns policy before 
 
 ## Where to Buy
 
-$100 off a virtual guitar plugin with 350+ phrases, 30 stomp box emulations, and 60 FX modes built in — $29 is a strong price for a fully self-contained instrument at this content level. [Pick up SPARKLE 2 at Plugin Boutique while the deal is live.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sparkle-2-ead0e6)
+A virtual guitar plugin with 350+ phrases, 30 stomp box emulations, and 60 FX modes built in — $29 is a strong price for a fully self-contained instrument at this content level. [Pick up SPARKLE 2 at Plugin Boutique while the deal is live.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sparkle-2-ead0e6)
 
 ---
 

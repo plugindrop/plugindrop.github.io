@@ -82,7 +82,7 @@ A: System requirements (macOS/Windows versions, RAM, CPU) are listed on the offi
 
 ## Where to Buy
 
-Transit 2 is down 39% to **$79.00**, saving you $50 off the regular  price. For a dedicated transitions and drops plugin from Sugar Bytes, that's a strong entry point.
+Transit 2 is down 39% to **$79.00**, saving you the regular  price. For a dedicated transitions and drops plugin from Sugar Bytes, that's a strong entry point.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c)
 

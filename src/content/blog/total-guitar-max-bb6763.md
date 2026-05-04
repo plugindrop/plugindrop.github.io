@@ -78,8 +78,6 @@ A: Check Plugin Boutique's official terms and the product page for current refun
 
 $99.99 for a bundle that retails at over $1,000 is the kind of math that doesn't need much debate. If guitar production is part of your workflow, this is a rare window to fill several gaps at once.
 
-[](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17062-TOTAL-Guitar-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-guitar-max-bb6763)
-
 ---
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*

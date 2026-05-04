@@ -87,7 +87,7 @@ A: Yes — individual ADpaks can be purchased separately through XLN Audio to ex
 
 ## Where to Buy
 
-$219.60 off the full Custom XXL Collection is a rare window for producers who want XLN Audio's entire drum ecosystem in one shot. Don't sleep on it if this has been on your list.
+The full Custom XXL Collection is a rare window for producers who want XLN Audio's entire drum ecosystem in one shot. Don't sleep on it if this has been on your list.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xxl-collection-35d796)
 

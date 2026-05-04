@@ -71,7 +71,7 @@ A: Check Baby Audio's official website for current trial availability — they h
 
 ## Where to Buy
 
-$50 off a plugin that handles risers, drops, sweeps, and rhythmic motion in a single macro sweep. At $79, Transit 2 is at one of its lowest prices. , 2026.
+A plugin that handles risers, drops, sweeps, and rhythmic motion in a single macro sweep. At $79, Transit 2 is at one of its lowest prices. , 2026.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-transition-designer-plugin-by-baby-audio-on-sale-f&a_aid=69cb95abe1763)
 

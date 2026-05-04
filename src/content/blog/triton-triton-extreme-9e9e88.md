@@ -77,7 +77,7 @@ A: Plugin Boutique's refund policy applies — check their terms directly at the
 
 ## Where to Buy
 
-$100 off a vintage workstation plugin with a sound library this deep is a deal worth acting on. 
+A vintage workstation plugin with a sound library this deep is a deal worth acting on. 
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=triton-triton-extreme-9e9e88)
 

@@ -61,7 +61,7 @@ Verify current pricing on the product page — deals can change.
 | iZotope Ozone EQ | ~$99 (in Ozone suite) | Bundled with mastering chain, not sold standalone |
 | Stock DAW EQ | Included | Varies by DAW — most lack per-band dynamic EQ |
 
- If you need the full 24-band dynamic EQ with visual spectrum interaction, Pro-Q is the established option at this price point. For a broader look at when free plugins are genuinely enough, see [free plugins vs. paid — is it worth upgrading?](/posts/free-plugins-vs-paid-worth-upgrading/)
+If you need the full 24-band dynamic EQ with visual spectrum interaction, Pro-Q is the established option at this price point. For a broader look at when free plugins are genuinely enough, see [free plugins vs. paid — is it worth upgrading?](/posts/free-plugins-vs-paid-worth-upgrading/)
 
 ## FAQ
 
@@ -81,4 +81,4 @@ A: Check the official FabFilter site for the latest supported formats and OS req
 
  FabFilter doesn't go deeper than 30%, so this is their standard best price.
 
-[pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off)

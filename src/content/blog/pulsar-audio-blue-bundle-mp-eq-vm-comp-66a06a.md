@@ -74,7 +74,7 @@ A: Check the product page for the full list of supported plugin formats and OS c
 
 ## Where to Buy
 
-$50 off a four-plugin analog modeling suite is a straightforward win — especially from a developer with Pulsar Audio's reputation for circuit-accurate modeling. The deal is live now at Plugin Boutique.
+A four-plugin analog modeling suite is a straightforward win — especially from a developer with Pulsar Audio's reputation for circuit-accurate modeling. The deal is live now at Plugin Boutique.
 
 [Pick up the Pulsar Audio Blue Bundle for $149 →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/9102-Pulsar-Audio-Blue-Bundle-MP-EQ-VM-COMP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-audio-blue-bundle-mp-eq-vm-comp-66a06a)
 

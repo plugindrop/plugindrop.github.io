@@ -78,9 +78,9 @@ A: Refund and returns policies vary — check Plugin Boutique's official terms o
 
 ## Where to Buy
 
-DC Snares is $20 off right now — $29 instead of the regular $49. That's 
+DC Snares is right now — $29 instead of the regular $49. That's 
 
-[pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12467-DC-Snares?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-e5cfb0)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12467-DC-Snares?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-e5cfb0)
 
 ---
 

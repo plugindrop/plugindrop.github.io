@@ -80,9 +80,9 @@ A: Check the Plugin Boutique product page — demo availability varies by develo
 
 ## Where to Buy
 
-$50 off a spectral processing tool at this price point is a concrete saving worth logging. The deal is live now on Plugin Boutique — pricing can revert at any time.
+A spectral processing tool at this price point is a concrete saving worth logging. The deal is live now on Plugin Boutique — pricing can revert at any time.
 
-[pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-77f18d)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-77f18d)
 
 ---
 

@@ -80,7 +80,7 @@ A: The plugin is designed around mastering and bus processing workflows, but the
 
 ## Where to Buy
 
-$109 off a professional mastering compressor modeled on a hardware unit that costs far more than this deal price on its own — that's the entire pitch. [Lock in the $40 price at Plugin Boutique here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10209-Shadow-Hills-Mastering-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-d121a4)
+A professional mastering compressor modeled on a hardware unit that costs far more than this deal price on its own — that's the entire pitch. [Lock in the $40 price at Plugin Boutique here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10209-Shadow-Hills-Mastering-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-d121a4)
 
 ---
 

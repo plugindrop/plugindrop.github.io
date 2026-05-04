@@ -86,9 +86,9 @@ A: Check the official Soundtoys product page for current macOS and Windows versi
 
 ## Where to Buy
 
-$50 off a Soundtoys plugin doesn't come around every week. At $49.00, Little AlterBoy is well within impulse-buy range for a tool with this much vocal manipulation capability.
+A Soundtoys plugin doesn't come around every week. At $49.00, Little AlterBoy is well within impulse-buy range for a tool with this much vocal manipulation capability.
 
-[pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=little-alterboy-586da2)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=little-alterboy-586da2)
 
 ---
 

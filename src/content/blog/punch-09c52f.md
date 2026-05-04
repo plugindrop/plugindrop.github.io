@@ -77,7 +77,7 @@ A: Check the product listing on Plugin Boutique — some plugins offer a time-li
 
 ## Where to Buy
 
-$50 off a dedicated transient shaper is a straightforward win for any producer's toolkit. The deal is live now at Plugin Boutique — don't leave it sitting in a browser tab.
+A dedicated transient shaper is a straightforward win for any producer's toolkit. The deal is live now at Plugin Boutique — don't leave it sitting in a browser tab.
 
 **[Pick up PUNCH for $99 →](https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14224-PUNCH?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=punch-09c52f)**
 

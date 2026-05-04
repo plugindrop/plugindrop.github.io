@@ -75,7 +75,6 @@ A: Confirm supported formats (VST2, VST3, AU, AAX) on the product page, as forma
 **Q: Is there a refund policy if it doesn't fit my workflow?**
 A: Plugin Boutique's refund policy applies — check their terms of service directly for current details on digital software purchases.
 
-****
 A: Deal durations aren't always published in advance. Check the product page for any listed expiry, and don't assume it runs indefinitely.
 
 ---

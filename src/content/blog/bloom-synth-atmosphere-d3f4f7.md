@@ -80,7 +80,7 @@ A: System requirements (OS version, RAM, disk space) should be verified directly
 
 ## Where to Buy
 
-$20 off at  [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14160-Bloom-Synth-Atmosphere?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-atmosphere-d3f4f7)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14160-Bloom-Synth-Atmosphere?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-atmosphere-d3f4f7)
 
 ---
 

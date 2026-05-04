@@ -54,7 +54,7 @@ A Type Multiband Dynamic Enhancer is an audio enhancement plugin available throu
 | Waves Aphex Vintage Aural Exciter | ~$29–$49 (sale) | Single-band exciter focused on harmonic saturation, not multiband dynamic processing |
 | FabFilter Pro-MB | ~$149–$179 | Multiband compressor/expander — more surgical dynamics control, less focused on enhancement character |
 
-If broad-spectrum channel processing with AI-assisted mix advice is the goal, Neutron covers more ground. If you specifically want multiband dynamic enhancement with analog character at the $74 price point, A Type is the more focused tool for that job.
+If broad-spectrum channel processing with AI-assisted mix advice is the goal, Neutron covers more ground. If you specifically want multiband dynamic enhancement with analog character at this price point, A Type is the more focused tool for that job.
 
 ---
 
@@ -75,8 +75,6 @@ A: Multiband dynamic enhancers are commonly used on both individual tracks and t
 ---
 
 ## Where to Buy
-
-** → $74.00. 50% off.** That's a real saving on a precision multiband enhancement tool, and these Plugin Boutique sale windows don't stay open forever.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15130-A-Type-Multiband-Dynamic-Enhancer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=a-type-multiband-dynamic-enhancer-b9de37)
 

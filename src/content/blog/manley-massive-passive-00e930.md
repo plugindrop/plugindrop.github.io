@@ -88,7 +88,7 @@ A: This appears to be a promotional sale price. Verify current pricing on the Pl
 
 ## Where to Buy
 
-$100 off a Manley hardware emulation is not an everyday occurrence. 
+A Manley hardware emulation is not an everyday occurrence. 
 [→ pluginboutique.com/product/2-Effects/16-EQ/11498-Manley-Massive-Passive?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=manley-massive-passive-00e930)
 
 ---

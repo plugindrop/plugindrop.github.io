@@ -76,7 +76,7 @@ A: Refund and return policies are set by Plugin Boutique. Check their official s
 
 ## Where to Buy
 
-$20 off an effects bundle doesn't happen every day — 17% is a legitimate discount worth acting on if this fits your workflow. [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16946-dime-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dime-bundle-0bd18e)
+An effects bundle doesn't happen every day — 17% is a legitimate discount worth acting on if this fits your workflow. [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16946-dime-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dime-bundle-0bd18e)
 
 ---
 

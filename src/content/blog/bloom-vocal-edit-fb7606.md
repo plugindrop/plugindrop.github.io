@@ -82,9 +82,9 @@ A: this offer. Plugin Boutique sales can expire without notice, so verify the cu
 
 ## Where to Buy
 
-$20 off a dedicated vocal instrument plugin is a straightforward win for producers who regularly reach for vocal textures. At $39, the barrier to entry is low enough to justify adding it to your toolkit during the sale window.
+A dedicated vocal instrument plugin is a straightforward win for producers who regularly reach for vocal textures. At $39, the barrier to entry is low enough to justify adding it to your toolkit during the sale window.
 
-[pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12619-Bloom-Vocal-Edit?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-vocal-edit-fb7606)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12619-Bloom-Vocal-Edit?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-vocal-edit-fb7606)
 
 ---
 

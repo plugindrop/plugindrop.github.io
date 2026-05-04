@@ -43,7 +43,7 @@ Worth noting: Forever 89 also offers **Topos: Play**, a free version with a redu
 - **Guitar & Bass Producers** — 35 amp and pedal models in one plugin covers a wide range of driven tones for instrument tracking.
 - **Producers on a CPU Budget** — Zero-latency, anti-aliased processing means it can run on multiple tracks without choking your session.
 
- If you've been on the fence, this is a stronger entry point than previous promotions. 
+If you've been on the fence, this is a stronger entry point than previous promotions. 
 
 Verify current pricing on the product page — deals can change. [Check the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=plugindrop&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763)
 
@@ -75,7 +75,7 @@ A: Downloading the free Topos: Play version is the best way to test the workflow
 
 30% off Topos brings it down to $69 — the lowest price seen on this plugin to date. If saturation, amp modeling, and speaker simulation in a single streamlined interface sounds like your lane, this is a solid time to jump in.
 
-[pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=plugindrop&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=plugindrop&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763)
 
 ---
 

@@ -85,7 +85,7 @@ A: System requirements vary — check the product page for current macOS/Windows
 
 60% off a multiband saturation plugin from an established plugin house is worth acting on. Sales at this depth don't stick around forever.
 
-[pluginboutique.com/product/2-Effects/44-Saturation/11077-Plamen?utm_source=plugindrop&utm_medium=article&utm_campaign=plamen-multiband-saturation-effect-by-united-plugins-on-sale&a_aid=69cb95abe1763)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/44-Saturation/11077-Plamen?utm_source=plugindrop&utm_medium=article&utm_campaign=plamen-multiband-saturation-effect-by-united-plugins-on-sale&a_aid=69cb95abe1763)
 
 ---
 

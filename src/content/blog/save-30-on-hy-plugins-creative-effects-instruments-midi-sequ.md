@@ -55,7 +55,7 @@ Exact regular prices vary by product across the HY-Plugins catalog.
 
 HY-Plugins doesn't run sales constantly — when discounts do appear, they're worth acting on for tools you've already been considering. Verify current pricing directly on the product page, as deals can change without notice.
 
-[pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ)
 
 ---
 
@@ -91,7 +91,7 @@ A: No end date is confirmed. Sales like this can end without notice, so check Pl
 
 30% off an already-affordable catalog is a straightforward win for producers exploring MIDI sequencing, sampling, and creative effects. Don't wait on this one — indie plugin sales rarely have long windows.
 
-[pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ)
 
 ---
 

@@ -63,7 +63,7 @@ Cherry Audio doesn't run deep discounts constantly — this $29 price point repr
 | TAL-U-NO-LX | ~$60 full price | Emulates the Juno-60; simpler single-DCO architecture, different character |
 | Roland Cloud Jupiter-6 | Subscription model | Official Roland emulation; requires Roland Cloud subscription rather than outright purchase |
 
- If you need the broader modulation depth of the Jupiter-8 architecture, Arturia's V Collection route covers more ground — at a significantly higher cost.
+If you need the broader modulation depth of the Jupiter-8 architecture, Arturia's V Collection route covers more ground — at a significantly higher cost.
 
 ---
 

@@ -71,9 +71,9 @@ A: Plugin Boutique's refund policy applies — review it at checkout or on their
 
 ## Where to Buy
 
-$36 off a dedicated pitch-shifting plugin is the kind of deal that's worth a quick look even if it's not top of your list today. At $39.00, the barrier to entry is low.
+A dedicated pitch-shifting plugin is the kind of deal that's worth a quick look even if it's not top of your list today. At $39.00, the barrier to entry is low.
 
-[pluginboutique.com/product/2-Effects/35-Pitch-Shifter/7552-Fluid-Pitch?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-pitch-c863d7)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/35-Pitch-Shifter/7552-Fluid-Pitch?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-pitch-c863d7)
 
 ---
 

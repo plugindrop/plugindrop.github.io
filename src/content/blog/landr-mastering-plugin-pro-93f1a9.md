@@ -78,7 +78,6 @@ A: The plugin is sold as a standalone license through Plugin Boutique. Check the
 **Q: What DAW and plugin formats are supported?**
 A: Confirmed format and compatibility details are available on the official product page.
 
-****
 A: This is a promotional price currently listed at Plugin Boutique. Deal pricing can change without notice.
 
 **Q: Does it require iLok for activation?**

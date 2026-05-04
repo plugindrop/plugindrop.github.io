@@ -45,7 +45,7 @@ Strum GS-2 has been around for several years and has built a loyal following amo
 
 Verify current pricing on the product page — deals can change.
 
-[pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2-Acoustic-Electric?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustics-systems-get-50-off-strum-gs-2-by-applied-a)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2-Acoustic-Electric?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustics-systems-get-50-off-strum-gs-2-by-applied-a)
 
 ## Alternatives at a Glance
 
@@ -73,9 +73,9 @@ A: Check the official AAS product page for up-to-date system requirements and OS
 
 ## Where to Buy
 
-Half off a physical modeling guitar synth that's been a staple for non-guitarists — ~~$198~~ down to $99. The deal .
+Half off a physical modeling guitar synth that's been a staple for non-guitarists — ~~$198~~ down to $99. The deal.
 
-[pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2-Acoustic-Electric?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustics-systems-get-50-off-strum-gs-2-by-applied-a)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2-Acoustic-Electric?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustics-systems-get-50-off-strum-gs-2-by-applied-a)
 
 ---
 

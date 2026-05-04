@@ -43,7 +43,7 @@ Check the [official product page](https://www.pluginboutique.com/search?search_q
 
 Slate Digital is running this as an **introductory launch discount** — these tend to expire once the plugin moves out of its release window. Prices are not listed here because they're subject to change; verify the exact figures before buying.
 
-[pluginboutique.com/search?search_query=bus+clipper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slate-digital-slate-digital-has-released-bus-clipper-plugin-)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/search?search_query=bus+clipper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slate-digital-slate-digital-has-released-bus-clipper-plugin-)
 
 ---
 
@@ -67,7 +67,6 @@ A: Slate Digital has historically used its own license manager rather than iLok.
 **Q: What plugin formats does Bus Clipper support?**
 A: Check the product page for the confirmed list of supported formats (VST, VST3, AU, AAX) and compatible DAWs.
 
-****
 A: Intro pricing typically runs for a limited window after launch. Slate Digital has not published an end date publicly — check the product page for the current price and any stated deadline.
 
 **Q: Is there a free trial available?**

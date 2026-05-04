@@ -78,7 +78,7 @@ A: Check Plugin Boutique's current refund and return policy on their site before
 
 ## Where to Buy
 
-$20 off a vocal choir instrument isn't something you see every day — 34% is a meaningful discount that brings a $59 plugin into genuinely affordable range. If choral textures are on your production wishlist, this is a good window to act.
+A vocal choir instrument isn't something you see every day — 34% is a meaningful discount that brings a $59 plugin into genuinely affordable range. If choral textures are on your production wishlist, this is a good window to act.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14542-Bloom-Vocal-Choir?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-vocal-choir-4eec6e)
 

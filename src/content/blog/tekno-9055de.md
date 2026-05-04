@@ -69,7 +69,7 @@ A: Yes — you can drag and drop individual synthesized hits directly from Tekno
 
  slashed to **$79.00** — that's $50 back in your pocket on a drum synth built entirely on synthesis. No samples, no compromises, no excuses not to check it out.
 
-[pluginboutique.com/product/1-Instruments/139-Drum-Synth/15545-Tekno?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tekno-9055de)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/1-Instruments/139-Drum-Synth/15545-Tekno?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tekno-9055de)
 
 ---
 

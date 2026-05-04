@@ -78,7 +78,7 @@ A: Plugin Boutique deals are promotional and subject to end without notice — t
 
 ## Where to Buy
 
-At $79.00 with $70 off the regular price, this is one of the steeper discounts available on a creative multi-effect plugin in this category. Producers building ambient, electronic, or experimental productions get the most direct value here.
+At $79.00 with the regular price, this is one of the steeper discounts available on a creative multi-effect plugin in this category. Producers building ambient, electronic, or experimental productions get the most direct value here.
 
 [→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/2709-WORMHOLE-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wormhole-d5160c)
 

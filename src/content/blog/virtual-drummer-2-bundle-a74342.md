@@ -84,7 +84,7 @@ A: Check Plugin Boutique's official terms and conditions for their current refun
 
 Half price on a full bundle of virtual drummers is a deal worth flagging. 
 
-[pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-drummer-2-bundle-a74342)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-drummer-2-bundle-a74342)
 
 ---
 

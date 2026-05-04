@@ -71,7 +71,7 @@ A: This specific deal pricing is listed on Plugin Boutique. Pricing may differ o
 
 ## Where to Buy
 
-$230 off a flagship workstation with this much library coverage doesn't happen constantly — 77% is a meaningful discount for a product at this tier. [](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12447-SampleTank-4-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sampletank-4-max-f073eb)
+A flagship workstation with this much library coverage doesn't happen constantly — 77% is a meaningful discount for a product at this tier. 
 
 ---
 

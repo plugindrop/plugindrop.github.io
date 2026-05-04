@@ -86,7 +86,7 @@ A: This is the official first-party plugin from Empirical Labs — not a third-p
 
 ## Where to Buy
 
-$150 off an official plugin from the designers of one of the most respected hardware compressors in studio history. ](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241)
+An official plugin from the designers of one of the most respected hardware compressors in studio history. ](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241)
 
 ---
 

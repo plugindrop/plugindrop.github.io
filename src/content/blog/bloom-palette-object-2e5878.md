@@ -77,7 +77,7 @@ A: Plugin Boutique's refund policy applies — check their terms of service dire
 
 ## Where to Buy
 
-$20 off a virtual instrument isn't something to sit on — sales like this don't have indefinite expiry dates. At $39.00, Bloom Palette Object is priced low enough to take a shot on a new sonic direction.
+A virtual instrument isn't something to sit on — sales like this don't have indefinite expiry dates. At $39.00, Bloom Palette Object is priced low enough to take a shot on a new sonic direction.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12929-Bloom-Palette-Object?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-palette-object-2e5878)
 

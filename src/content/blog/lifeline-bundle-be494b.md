@@ -82,7 +82,7 @@ A: Deal expiry dates are not always published. Confirm current availability and 
 
 ## Where to Buy
 
-$65 off a multi-plugin effects bundle is a solid haul — half price, single purchase, no subscription. If effects tools are on your list, this is a straightforward decision.
+A multi-plugin effects bundle is a solid haul — half price, single purchase, no subscription. If effects tools are on your list, this is a straightforward decision.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/10033-Lifeline-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-bundle-be494b)
 

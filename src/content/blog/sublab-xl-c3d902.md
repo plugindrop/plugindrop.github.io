@@ -79,7 +79,7 @@ A: It supports common plugin formats, but verify supported formats and DAW compa
 
 ## Where to Buy
 
-$30 off a dedicated bass synthesizer from a focused developer — 38% is a meaningful discount on a tool built for one specific job. If low-end is central to your productions, this is the kind of deal worth acting on.
+A dedicated bass synthesizer from a focused developer — 38% is a meaningful discount on a tool built for one specific job. If low-end is central to your productions, this is the kind of deal worth acting on.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sublab-xl-c3d902)
 

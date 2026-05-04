@@ -66,7 +66,6 @@ If your priority is deep rhythmic glitch and stutter effects specifically, Stutt
 
 ## FAQ
 
-****
 A: The deal is live on Plugin Boutique. Use the link in this article to make sure you land on the correct product page with the current pricing.
 
 **Q: Does the Motion Bundle require iLok?**
@@ -82,7 +81,7 @@ A: Plugin Boutique deals can expire without notice. Verify current pricing on th
 
 ## Where to Buy
 
-The Motion Bundle is half price right now — $80 off the standard rate, with no coupon code needed at checkout. Bundles at this discount level tend to move during the deal window.
+The Motion Bundle is half price right now — the standard rate, with no coupon code needed at checkout. Bundles at this discount level tend to move during the deal window.
 
 [Pick up the Motion Bundle for $79 at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/12397-Motion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=motion-bundle-755120)
 

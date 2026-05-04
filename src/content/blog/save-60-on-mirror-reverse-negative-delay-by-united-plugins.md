@@ -85,7 +85,7 @@ A: United Plugins often offers trial versions of their plugins — check the Plu
 
 ## Where to Buy
 
- If the sound design angle appeals, now is a reasonable time to move on it.
+If the sound design angle appeals, now is a reasonable time to move on it.
 
 [Save 60% on Mirror at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/8658-Mirror?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-60-on-mirror-reverse-negative-delay-by-united-plugins)
 

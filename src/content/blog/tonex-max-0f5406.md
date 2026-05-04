@@ -79,7 +79,7 @@ A: Check IK Multimedia's official product page for current macOS/Windows version
 
 ## Where to Buy
 
-$200 off the flagship tier of one of the most technically capable amp modeling platforms available right now. At $99.99, the barrier to entry for professional AI amp capture is at its lowest.
+The flagship tier of one of the most technically capable amp modeling platforms available right now. At $99.99, the barrier to entry for professional AI amp capture is at its lowest.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12452-TONEX-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tonex-max-0f5406)
 

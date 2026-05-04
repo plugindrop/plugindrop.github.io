@@ -72,7 +72,7 @@ A: This is a promotional deal price at Plugin Boutique. Deal pricing can expire 
 
 ## Where to Buy
 
-$150 off a full guitar plugin suite is a meaningful drop for this series. If guitar tracks are a consistent gap in your productions, this bundle brings the cost-per-instrument down significantly compared to individual pricing.
+A full guitar plugin suite is a meaningful drop for this series. If guitar tracks are a consistent gap in your productions, this bundle brings the cost-per-instrument down significantly compared to individual pricing.
 
 [→ pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11881-Virtual-Guitarist-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-guitarist-bundle-d17cef)
 
