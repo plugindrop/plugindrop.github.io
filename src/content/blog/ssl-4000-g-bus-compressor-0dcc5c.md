@@ -87,7 +87,7 @@ A: Yes — while designed as a bus compressor, there's no technical restriction 
 
 ## Where to Buy
 
-$50 off the official SSL bus compressor plugin doesn't happen at every sale cycle — this is a 34% discount on a product with strong long-term value in any mixing setup. [Lock in the $99 price at Plugin Boutique before it reverts.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13325-SSL-4000-G-Bus-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4000-g-bus-compressor-0dcc5c)
+$50  [Lock in the $99 price at Plugin Boutique before it reverts.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13325-SSL-4000-G-Bus-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4000-g-bus-compressor-0dcc5c)
 
 ---
 

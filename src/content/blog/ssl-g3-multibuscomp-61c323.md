@@ -14,7 +14,7 @@ converted: true
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bxws1bW1XzY" title="71% Off SSL G3 MultiBusComp — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bxws1bW1XzY" title="SSL G3 MultiBusComp — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is SSL G3 MultiBusComp?
@@ -50,7 +50,7 @@ The SSL G-Series bus compressor circuit has been a consistent recommendation acr
 
 ## Current Pricing
 
-SSL plugins at this price point are not a frequent occurrence.  Deals at this depth on SSL products at Plugin Boutique tend to be time-limited promotional windows rather than regular sale pricing.
+SSL plugins at this price point are not a frequent occurrence.  
 
 *Price verified at publication. Check the link for current availability.*
 

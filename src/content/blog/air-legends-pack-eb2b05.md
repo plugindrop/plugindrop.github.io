@@ -14,7 +14,7 @@ converted: true
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/30mU3641JDk" title="50% Off AIR Legends Pack — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/30mU3641JDk" title="AIR Legends Pack — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is the AIR Legends Pack?
@@ -44,7 +44,7 @@ AIR Music Technology has a long history in the plugin world — the company orig
 
 ## Current Pricing
 
-A 50% discount on a bundle from an established developer like AIR is meaningful. AIR Music Technology doesn't run deep discounts constantly — this kind of half-price event on their flagship bundle is worth noting for producers who've been waiting. Bundle deals at this discount depth from AIR are not the default; when they appear, they tend to be time-limited promotional windows rather than a permanent pricing shift.
+  
 
 *Price verified at publication. Check the link for current availability.*
 

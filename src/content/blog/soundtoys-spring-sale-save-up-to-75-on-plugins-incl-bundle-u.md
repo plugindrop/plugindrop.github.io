@@ -77,7 +77,7 @@ A: Soundtoys plugins have historically used iLok for license management. Check t
 A: Yes — Soundtoys has confirmed the sale includes upgrade pricing, so existing partial bundle owners can benefit as well. Verify eligible upgrade paths on the product page.
 
 **Q: How long does the Soundtoys Spring Sale last?**
-A: Sale end dates are set by Soundtoys and can vary. Check the Plugin Boutique listing for the current expiry — these promotions typically run for a limited window.
+ Check the Plugin Boutique listing for the current expiry — these promotions typically run for a limited window.
 
 **Q: What formats does Little AlterBoy support?**
 A: Check the official product page for confirmed format support (VST, AU, AAX) and system requirements, as these are version-specific.

@@ -83,7 +83,7 @@ A: Check Steinberg's official product page for current macOS and Windows compati
 
 ## Where to Buy
 
-**$251.99** for a Cubase Pro 15 competitive crossgrade is a rare 30% discount on one of the most established DAWs in production history. If the timing lines up with your workflow plans, this is a deal worth acting on.
+**$251.99**  If the timing lines up with your workflow plans, this is a deal worth acting on.
 
 [Grab Cubase Pro 15 at Plugin Boutique →](https://www.pluginboutique.com/product/3-Studio-Tools/23-DAW/16171-Cubase-Pro-15-Competitive-Crossgrade?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cubase-pro-15-competitive-crossgrade-045999)
 

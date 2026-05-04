@@ -82,7 +82,7 @@ A: Plugin Boutique's refund policy applies to this purchase — check their offi
 
 ## Where to Buy
 
-$137 off is real money — and 60% discounts on curated effects bundles don't always stick around. If texture and experimental processing are gaps in your plugin setup, this is a cost-efficient way to fill them.
+If texture and experimental processing are gaps in your plugin setup, this is a cost-efficient way to fill them.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17150-Texture-Lab-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=texture-lab-bundle-8897d9)
 

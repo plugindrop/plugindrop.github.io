@@ -39,11 +39,9 @@ SampleTank 4 has been part of the IK Multimedia ecosystem long enough to build a
 - **Film & Media Composers** — The orchestral and world instrument coverage makes it practical for scoring work across diverse genres.
 - **Bedroom Producers** — A single purchase covers a wide sonic palette, reducing the need to build out multiple libraries early on.
 - **Live Performers** — The standalone mode and multi-timbral engine suit keyboardists and live rig setups.
-- **
-
 ## Current Pricing
 
-IK Multimedia runs SampleTank sales a few times per year, but a 77% discount reaching the $69 price point is on the steeper end of what typically appears. Price history tracking suggests this tier of discount doesn't appear every month. Verify current pricing on the product page — deals can change.
+ Price history tracking suggests this tier of discount doesn't appear every month. Verify current pricing on the product page — deals can change.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12447-SampleTank-4-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sampletank-4-max-f073eb)
 

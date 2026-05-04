@@ -89,7 +89,7 @@ A: Refund policies for software plugins vary. Check Plugin Boutique's terms and 
 
 ## Where to Buy
 
-At $50.00 — down from ~~$164.00~~ — this is a 70% discount on a professionally licensed, hardware-accurate mastering compressor emulation. Deals at this level don't last indefinitely.
+At $50.00 — down from $164.00 —  Deals at this level don't last indefinitely.
 
 [Grab the Shadow Hills Mastering Compressor Class A at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10210-Shadow-Hills-Mastering-Compressor-Class-A?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-class-a-0d2b79)
 

@@ -14,7 +14,7 @@ converted: true
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_UDFXfdMnYc" title="65% Off EchoBoy — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_UDFXfdMnYc" title="EchoBoy — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is EchoBoy?
@@ -51,7 +51,7 @@ EchoBoy has been a fixture in professional production discussions for well over 
 
 ## Current Pricing
 
-Soundtoys runs sales a few times per year, typically around Black Friday and occasionally mid-year. A 65% discount on a flagship single plugin — not a bundle — is toward the higher end of what they typically offer. If you've been waiting for a meaningful price drop on EchoBoy specifically rather than holding out for the full Soundtoys 5 bundle, this is a concrete buying window.
+Soundtoys runs sales a few times per year, typically around Black Friday and occasionally mid-year.  If you've been waiting for a meaningful price drop on EchoBoy specifically rather than holding out for the full Soundtoys 5 bundle, this is a concrete buying window.
 
 *Price verified at publication. Check the link for current availability.*
 

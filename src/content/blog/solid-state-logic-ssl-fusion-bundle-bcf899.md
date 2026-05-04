@@ -14,7 +14,7 @@ converted: true
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CMnR6qpcTZw" title="92% Off Solid State Logic SSL Fusion Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CMnR6qpcTZw" title="Solid State Logic SSL Fusion Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is the SSL Fusion Bundle?
@@ -50,7 +50,7 @@ SSL's mix bus tools have long-standing credibility in professional circles. On f
 
 ## Current Pricing
 
-A 92% discount on SSL-branded software is not a common occurrence. SSL plugins typically hold their value close to full retail, and deep discounts across a full bundle are rare for a brand of this standing. This deal represents a significant departure from the standard pricing floor you'd expect from the SSL catalog.
+ SSL plugins typically hold their value close to full retail, and deep discounts across a full bundle are rare for a brand of this standing. This deal represents a significant departure from the standard pricing floor you'd expect from the SSL catalog.
 
 *Price verified at publication. Check the link for current availability.*
 

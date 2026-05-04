@@ -14,7 +14,7 @@ converted: true
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1objVd7fqx0" title="50% Off impOSCar3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1objVd7fqx0" title="impOSCar3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is impOSCar3?
@@ -51,7 +51,7 @@ GForce Software has a solid reputation on synthesis forums and communities like 
 
 ## Current Pricing
 
-GForce Software does not discount aggressively or frequently. A 50% reduction on this title is notable — Plugin Boutique flash sales of this depth on GForce products are not a regular occurrence, making this a meaningful window compared to the typical pricing pattern for this developer.
+GForce Software does not discount aggressively or frequently — deals of this depth on GForce products are not a regular occurrence for this developer.
 
 *Price verified at publication. Check the link for current availability.*
 

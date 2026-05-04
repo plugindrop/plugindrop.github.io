@@ -14,7 +14,7 @@ converted: true
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IslBZmbz47Q" title="33% Off LANDR Mastering Plugin PRO — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IslBZmbz47Q" title="LANDR Mastering Plugin PRO — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is LANDR Mastering Plugin PRO?
@@ -78,7 +78,7 @@ A: The plugin is sold as a standalone license through Plugin Boutique. Check the
 **Q: What DAW and plugin formats are supported?**
 A: Confirmed format and compatibility details are available on the official product page.
 
-**Q: Is the 33% discount time-limited?**
+****
 A: This is a promotional price currently listed at Plugin Boutique. Deal pricing can change without notice.
 
 **Q: Does it require iLok for activation?**

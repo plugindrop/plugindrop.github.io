@@ -67,7 +67,7 @@ A: Check Plugin Boutique's refund policy on their site, as terms may vary for pr
 
 ## Where to Buy
 
-Three full DnB preset packs. 210 presets. ~~$137~~ now **$19**.  If you produce drum & bass in Serum 2, the math speaks for itself.
+Three full DnB preset packs. 210 presets. $137 now **$19**.  If you produce drum & bass in Serum 2, the math speaks for itself.
 
 [Pick up the Drum & Bass for Serum 2 Bundle here →](https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/16791-Drum-Bass-for-Serum-2-Bundle-Exclusive-?utm_source=plugindrop&utm_medium=article&utm_campaign=the-tone-foundry-get-86-off-drum-bass-for-serum-2-bundle-by-&a_aid=69cb95abe1763)
 

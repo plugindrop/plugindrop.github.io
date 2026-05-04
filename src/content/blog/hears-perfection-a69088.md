@@ -47,7 +47,7 @@ For precise system requirements and supported plugin formats (VST/AU/AAX), verif
 
 ## Current Pricing
 
-A 61% discount is a meaningful move for this category. Referencing tools don't go on deep sale as frequently as synths or effects packs — when a tool in this niche drops by more than half, it's worth paying attention to. There's no widely published price history for HEARS Perfection suggesting this level of discount is routine, so treat it as an opportunistic buy rather than a sale you can wait out indefinitely.
+ Referencing tools don't go on deep sale as frequently as synths or effects packs — when a tool in this niche drops by more than half, it's worth paying attention to. There's no widely published price history for HEARS Perfection suggesting this level of discount is routine, so treat it as an opportunistic buy rather than a sale you can wait out indefinitely.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088)
 

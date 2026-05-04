@@ -43,7 +43,7 @@ The KORG M1 holds a well-documented place in production history. Its patches are
 
 ## Current Pricing
 
-A 25% discount on KORG Collection is not a routine event. For context, major plugin bundles at this price point typically see two to three meaningful sales per year — if past patterns hold, waiting for a deeper discount may mean waiting several months. Per-unit value depends on the number of instruments included; check the product page for the current title count to calculate your per-instrument cost.
+ For context, major plugin bundles at this price point typically see two to three meaningful sales per year — if past patterns hold, waiting for a deeper discount may mean waiting several months. Per-unit value depends on the number of instruments included; check the product page for the current title count to calculate your per-instrument cost.
 
 Verify current pricing on the product page — deals can change without notice.
 

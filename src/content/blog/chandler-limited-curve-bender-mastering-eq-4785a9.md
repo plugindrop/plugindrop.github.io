@@ -82,7 +82,7 @@ A: The hardware is a mastering EQ built by Chandler Limited, based on the EMI TG
 
 ## Where to Buy
 
-~~$299~~ down to **$79** — that's $220 back in your pocket for a plugin with genuine analog hardware roots. This kind of discount on Chandler Limited gear doesn't come around constantly.
+$299 down to **$79** — that's $220 back in your pocket for a plugin with genuine analog hardware roots. This kind of discount on Chandler Limited gear doesn't come around constantly.
 
 **[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/5618-Chandler-Limited-Curve-Bender-Mastering-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-4785a9)**
 

@@ -90,7 +90,7 @@ A: Upgrade pricing options may be available. Check the Plugin Boutique product p
 
 ## Where to Buy
 
-$150 off the complete Soundtoys library is a deal worth bookmarking — but deal pricing moves fast. Lock in $149.00 before it reverts to the full ~~$299.00~~ price.
+$150 off the complete Soundtoys library is a deal worth bookmarking — but deal pricing moves fast. Lock in $149.00 before it reverts to the full $299.00 price.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/6343-Soundtoys-Effect-Rack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-effect-rack-f99acc)
 
