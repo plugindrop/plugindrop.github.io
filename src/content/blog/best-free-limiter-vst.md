@@ -121,8 +121,6 @@ The plugin is Windows-only and does not include true peak detection, which is th
 
 ### Unlimited — Low-overhead brickwall for in-session mix-bus use
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/nxrHBxEbM1M" title="Unlimited — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Sonic Anomaly
 - **Price:** Free
 - **Platforms:** Windows, macOS

@@ -175,8 +175,6 @@ Windows support through community-built VST versions is functional but less poli
 
 ### mda Multiband — A classic freeware plugin still worth knowing
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/KDdO2VxMr18" title="mda Multiband — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Paul Kellett (mda)
 - **Price:** Free (open source)
 - **Platforms:** Windows, macOS (via ports)

@@ -120,7 +120,7 @@ Helm is a virtual-analog synthesizer with two oscillators, a dedicated sub-oscil
 
 ### OB-Xd — Warm Oberheim-style analog bass
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fEy9-2TpWL8" title="OB-Xd — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/jLwauTGsvYc" title="OB-Xd — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** DiscoDSP
 - **Price:** Free

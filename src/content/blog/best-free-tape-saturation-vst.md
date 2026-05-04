@@ -129,8 +129,6 @@ TesslaSE models transformer saturation — the harmonic behavior of input and ou
 
 ### Caramel — MeldaProduction's free multi-mode saturation
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/n4ew64M7QmI" title="Caramel — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** MeldaProduction
 - **Price:** Free (part of MFreeEffectsBundle)
 - **Platforms:** Windows, macOS
