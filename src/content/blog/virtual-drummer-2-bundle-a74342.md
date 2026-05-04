@@ -1,18 +1,15 @@
 ---
-title: "50% Off Virtual Drummer 2 Bundle"
-description: "Virtual Drummer 2 Bundle is currently **50% off** at Plugin Boutique — drop from ~~$199~~ to **$99**. That's a full $100 saved on a multi-instrument..."
-pubDate: "2026-04-23T18:27:38Z"
-tags: ["sale", "effects", "bundle", "music-production"]
+title: "Virtual Drummer 2 Bundle: Features, Pricing & Is It Worth It? (2026)"
+description: "The Virtual Drummer 2 Bundle is a collection of genre-specific virtual drummer instruments developed by UJAM. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T18:27:38Z'
+tags: ["review", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-drummer-2-bundle-a74342"
-heroImage: "/images/virtual-drummer-2-bundle-a74342.jpg"
+heroImage: /images/virtual-drummer-2-bundle-a74342.jpg
 score: 9.45
-dealPrice: "$99.00"
-originalPrice: "$199.00"
-discount: "50% OFF"
-xText: "50% off virtual drummer 2 – this is the deepest bundle pricing ever goes. per-unit cost is basically a steal at this price. drum tools like this don't usually move"
 draft: false
+converted: true
 ---
-**TL;DR:** Virtual Drummer 2 Bundle is currently **50% off** at Plugin Boutique — drop from ~~$199~~ to **$99**. That's a full $100 saved on a multi-instrument bundle of genre-specific virtual drummers from UJAM. [Grab it here while the deal lasts.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-drummer-2-bundle-a74342)
+**Virtual Drummer 2 Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-drummer-2-bundle-a74342)
 
 ---
 
@@ -45,13 +42,7 @@ The Virtual Drummer 2 Bundle is a collection of genre-specific virtual drummer i
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$199.00~~ | **$99.00** | $100.00 (50%) |
-
-At $99 for the full bundle, the per-title cost depends on how many instruments are included — check the product page for the exact count to do your own per-unit math. UJAM's individual Virtual Drummer 2 titles typically retail separately, so bundling is where the real value stacks up.
+##  UJAM's individual Virtual Drummer 2 titles typically retail separately, so bundling is where the real value stacks up.
 
 50% off is a strong discount for UJAM products. If you've been watching this bundle, this is a meaningful price drop worth acting on.
 
@@ -89,11 +80,11 @@ A: Check Plugin Boutique's official terms and conditions for their current refun
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-Half price on a full bundle of virtual drummers is a deal worth flagging. At **$99** (down from ~~$199~~), the math makes sense for anyone who's been putting off adding a solid drum toolkit to their setup.
+Half price on a full bundle of virtual drummers is a deal worth flagging. At **$99** (down from ), the math makes sense for anyone who's been putting off adding a solid drum toolkit to their setup.
 
-[Get the Virtual Drummer 2 Bundle at 50% off on Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-drummer-2-bundle-a74342)
+[pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-drummer-2-bundle-a74342)
 
 ---
 

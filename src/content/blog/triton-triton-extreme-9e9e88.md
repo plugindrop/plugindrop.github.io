@@ -1,18 +1,15 @@
 ---
-title: "40% Off TRITON TRITON Extreme"
-description: "TRITON Extreme is 40% off at Plugin Boutique right now — ~~$249~~ down to **$149**, putting $100 back in your pocket. This is a notable discount on a..."
-pubDate: "2026-04-23T04:45:44Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
+title: "TRITON TRITON Extreme: Features, Pricing & Is It Worth It? (2026)"
+description: "TRITON Extreme is a software instrument plugin based on KORG's iconic TRITON Extreme hardware workstation — a synth. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T04:45:44Z'
+tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=triton-triton-extreme-9e9e88"
-heroImage: "/images/triton-triton-extreme-9e9e88.jpg"
+heroImage: /images/triton-triton-extreme-9e9e88.jpg
 score: 8.45
-dealPrice: "$149.00"
-originalPrice: "$249.00"
-discount: "40% OFF"
-xText: "40% off a brand new synth in the first week is wild. that never happens. usually full price til the hype dies then discount. they're doing this backwards which is somehow better"
 draft: false
+converted: true
 ---
-**TL;DR:** TRITON Extreme is 40% off at Plugin Boutique right now — ~~$249~~ down to **$149**, putting $100 back in your pocket. This is a notable discount on a plugin built around one of the most celebrated hardware workstations in modern music history. [Grab it at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=triton-triton-extreme-9e9e88).
+**TRITON TRITON Extreme** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=triton-triton-extreme-9e9e88)
 
 ---
 
@@ -46,11 +43,7 @@ TRITON Extreme is a software instrument plugin based on KORG's iconic TRITON Ext
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$249.00~~ | **$149.00** | $100.00 (40%) |
+## Current Pricing
 
 A 40% discount is a meaningful cut for a plugin at this price tier. KORG software titles don't run deep discounts constantly, so when a sale hits this threshold it's worth paying attention to. Verify current pricing on the product page — deals can change.
 
@@ -86,11 +79,11 @@ A: Plugin Boutique's refund policy applies — check their terms directly at the
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-$100 off a vintage workstation plugin with a sound library this deep is a deal worth acting on. Head to Plugin Boutique and lock in the 40% discount before it expires.
+$100 off a vintage workstation plugin with a sound library this deep is a deal worth acting on. Head to Plugin Boutique and lock in the 40% discount .
 
-[Get TRITON Extreme for $149 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=triton-triton-extreme-9e9e88)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=triton-triton-extreme-9e9e88)
 
 ---
 

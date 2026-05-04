@@ -1,22 +1,20 @@
 ---
-title: "50% Off DW Soundworks"
-description: "DW Soundworks is currently 50% off at Plugin Boutique — ~~$199.00~~ **$99.50**, saving $99.50 on a professional virtual drum instrument recorded at DW's..."
-pubDate: "2026-04-27T15:42:43Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
+title: "DW Soundworks: Features, Pricing & Is It Worth It? (2026)"
+description: "DW Soundworks is a virtual drum instrument developed by Roland in collaboration with Drum Workshop (DW) and Gretsch —. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-27T15:42:43Z'
+tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15329-DW-Soundworks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dw-soundworks-a1130e"
-heroImage: "/images/dw-soundworks-a1130e.jpg"
+heroImage: /images/dw-soundworks-a1130e.jpg
 score: 8.65
-dealPrice: "$99.50"
-originalPrice: "$199.00"
-discount: "50% OFF"
 draft: false
+converted: true
 ---
-**TL;DR:** DW Soundworks is currently 50% off at Plugin Boutique — ~~$199.00~~ **$99.50**, saving $99.50 on a professional virtual drum instrument recorded at DW's California factory. Six named expansion kits are included at launch, spanning rock, jazz, blues, metal, and funk. [→ Get DW Soundworks at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15329-DW-Soundworks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dw-soundworks-a1130e)
+**DW Soundworks** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15329-DW-Soundworks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dw-soundworks-a1130e)
 
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/zclhOqjsRxM" title="50% Off DW Soundworks — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/zclhOqjsRxM" title="DW Soundworks — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is DW Soundworks?
@@ -45,11 +43,7 @@ DW Soundworks is a virtual drum instrument developed by Roland in collaboration 
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$199.00~~ | **$99.50** | $99.50 (50%) |
+## Current Pricing
 
 DW Soundworks positions itself at the premium end of virtual drum instruments — a 50% discount is a meaningful price event for this product. With six full expansion kits included, the per-kit cost at the deal price works out to roughly $16.58 each. DW as a brand does not have a history of frequent deep discounting, which makes this worth noting if acoustic drum authenticity is a priority in your toolkit.
 
@@ -87,9 +81,7 @@ A: Yes — DW Soundworks is built as an expandable platform with additional cont
 
 ---
 
-## Get the Deal
-
-At $99.50, DW Soundworks is priced at half its standard rate — with six genre-spanning kits recorded from actual DW and Gretsch hardware included from day one. The 50% discount narrows the gap considerably between this and lighter-weight alternatives.
+##  The 50% discount narrows the gap considerably between this and lighter-weight alternatives.
 
 [→ Get DW Soundworks at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15329-DW-Soundworks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dw-soundworks-a1130e)
 

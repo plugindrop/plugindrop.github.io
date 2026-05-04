@@ -1,18 +1,15 @@
 ---
-title: "55% Off Cooker"
-description: "808 Cooker is currently **$18.00** (~~$40.00~~) at Plugin Boutique — a 55% cut that makes it one of the more accessible entry points for a dedicated 808..."
-pubDate: "2026-04-23T23:42:51Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
+title: "Cooker: Features, Pricing & Is It Worth It? (2026)"
+description: "808 Cooker is a dedicated virtual instrument plugin built around the iconic 808-style bass and kick sounds that. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T23:42:51Z'
+tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11027-808-Cooker?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cooker-e7c691"
-heroImage: "/images/cooker-e7c691.jpg"
+heroImage: /images/cooker-e7c691.jpg
 score: 6.65
-dealPrice: "$18.00"
-originalPrice: "$40.00"
-discount: "55% OFF"
-xText: "just caught cooker at 55% off launch day pricing. that's gone in 48 hours tops. new plugin deals don't get more aggressive than this."
 draft: false
+converted: true
 ---
-**TL;DR:** 808 Cooker is currently **$18.00** (~~$40.00~~) at Plugin Boutique — a 55% cut that makes it one of the more accessible entry points for a dedicated 808 bass instrument. If trap, hip-hop, or any sub-heavy genre is your lane, this price is hard to pass up. [Grab it at Plugin Boutique before the deal expires.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11027-808-Cooker?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cooker-e7c691)
+**Cooker** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11027-808-Cooker?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cooker-e7c691)
 
 ---
 
@@ -49,17 +46,11 @@ The 808 bass — rooted in the Roland TR-808 drum machine — has been central t
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$40.00~~ | **$18.00** | $22.00 (55%) |
-
-At $18, this sits firmly in impulse-buy territory for a specialized instrument. Plugin Boutique runs periodic flash sales, and 55% off represents a meaningful discount from the standard price point. Deals like this typically have a limited window.
+##   Deals like this typically have a limited window.
 
 *Verify current pricing on the product page — deals can change without notice.*
 
-[Get 808 Cooker for $18.00 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11027-808-Cooker?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cooker-e7c691)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11027-808-Cooker?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cooker-e7c691)
 
 ---
 
@@ -91,9 +82,9 @@ A: Plugin Boutique deals are typically time-limited. Confirm current pricing on 
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-55% off drops 808 Cooker from ~~$40~~ to just **$18** — a low-stakes entry point for a purpose-built 808 instrument. That's the kind of price where you buy it and figure out where it fits later.
+55% off drops 808 Cooker from  to just **$18** — a low-stakes entry point for a purpose-built 808 instrument. That's the kind of price where you buy it and figure out where it fits later.
 
 [Lock in the $18 deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11027-808-Cooker?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cooker-e7c691)
 

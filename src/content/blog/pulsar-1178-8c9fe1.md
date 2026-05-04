@@ -1,18 +1,15 @@
 ---
-title: "47% Off Pulsar 1178"
-description: "Pulsar 1178 is down to **$79.00** (~~$149.00~~) at Plugin Boutique — that's 47% off one of the most respected FET compressor plugins on the market. You..."
-pubDate: "2026-04-23T18:28:21Z"
-tags: ["sale", "vst-plugin", "effects", "music-production"]
+title: "Pulsar 1178: Features, Pricing & Is It Worth It? (2026)"
+description: "Pulsar 1178 is a FET compressor plugin by Pulsar Audio, modeled after the classic hardware 1178 — the stereo. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T18:28:21Z'
+tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1"
-heroImage: "/images/pulsar-1178-8c9fe1.jpg"
+heroImage: /images/pulsar-1178-8c9fe1.jpg
 score: 7.95
-dealPrice: "$79.00"
-originalPrice: "$149.00"
-discount: "47% OFF"
-xText: "pulsar 1178 just dropped to 47% off — cheapest it's been in months. vintage 1176 character without the $6k price tag. if you've been waiting for a sign, this is it."
 draft: false
+converted: true
 ---
-**TL;DR:** Pulsar 1178 is down to **$79.00** (~~$149.00~~) at Plugin Boutique — that's 47% off one of the most respected FET compressor plugins on the market. You save $70 straight up. [Grab it here before the price resets.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1)
+**Pulsar 1178** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1)
 
 ---
 
@@ -52,15 +49,11 @@ Pulsar Audio has built a solid reputation in mixing communities for their circui
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$149.00~~ | **$79.00** | $70.00 (47%) |
+## Current Pricing
 
 Pulsar Audio doesn't run deep discounts constantly — when they do appear, 40%+ off is meaningful. Verify current pricing on the product page, as deals can change.
 
-[Get Pulsar 1178 for $79.00 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1)
 
 ---
 
@@ -92,11 +85,11 @@ A: System requirements vary by platform and plugin version. Check the official p
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-47% off a premium FET compressor isn't a deal you see every week. At $79.00 (~~$149.00~~), this is a solid entry point into Pulsar Audio's catalog.
+47% off a premium FET compressor isn't a deal you see every week. At $79.00 (), this is a solid entry point into Pulsar Audio's catalog.
 
-[Grab Pulsar 1178 at Plugin Boutique for $79.00 →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1)
 
 ---
 

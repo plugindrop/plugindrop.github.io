@@ -1,18 +1,15 @@
 ---
-title: "50% Off A Type Multiband Dynamic Enhancer"
-description: "A Type Multiband Dynamic Enhancer is currently **50% off** at Plugin Boutique — dropping from ~~$149.00~~ to **$74.00**. That's a solid $75 saving on a..."
-pubDate: "2026-04-23T18:28:13Z"
-tags: ["sale", "vst-plugin", "effects", "music-production"]
+title: "A Type Multiband Dynamic Enhancer: Features, Pricing & Is It Worth It? (2026)"
+description: "A Type Multiband Dynamic Enhancer is an audio enhancement plugin available through Plugin Boutique that applies. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T18:28:13Z'
+tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15130-A-Type-Multiband-Dynamic-Enhancer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=a-type-multiband-dynamic-enhancer-b9de37"
-heroImage: "/images/a-type-multiband-dynamic-enhancer-b9de37.jpg"
+heroImage: /images/a-type-multiband-dynamic-enhancer-b9de37.jpg
 score: 8.15
-dealPrice: "$74.00"
-originalPrice: "$149.00"
-discount: "50% OFF"
-xText: "50% off on fresh release multiband dynamics is absolutely not normal. independent control over each frequency band = the kind of mixing clarity that makes everything click together"
 draft: false
+converted: true
 ---
-**TL;DR:** A Type Multiband Dynamic Enhancer is currently **50% off** at Plugin Boutique — dropping from ~~$149.00~~ to **$74.00**. That's a solid $75 saving on a multiband enhancement tool designed to add presence, clarity, and punch across your mix. [Grab the deal here.](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15130-A-Type-Multiband-Dynamic-Enhancer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=a-type-multiband-dynamic-enhancer-b9de37)
+**A Type Multiband Dynamic Enhancer** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15130-A-Type-Multiband-Dynamic-Enhancer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=a-type-multiband-dynamic-enhancer-b9de37)
 
 ---
 
@@ -45,11 +42,7 @@ A Type Multiband Dynamic Enhancer is an audio enhancement plugin available throu
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$149.00~~ | **$74.00** | $75.00 (50%) |
+## Current Pricing
 
 A clean half-price deal. Plugin Boutique doesn't run percentage sales on every product every month, so when a 50% window opens it's worth noting. Deals like this can expire without notice — verify current pricing before checkout.
 
@@ -85,11 +78,11 @@ A: Multiband dynamic enhancers are commonly used on both individual tracks and t
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-**~~$149.00~~ → $74.00. 50% off.** That's a real saving on a precision multiband enhancement tool, and these Plugin Boutique sale windows don't stay open forever.
+** → $74.00. 50% off.** That's a real saving on a precision multiband enhancement tool, and these Plugin Boutique sale windows don't stay open forever.
 
-[Get A Type Multiband Dynamic Enhancer at Plugin Boutique for $74.00.](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15130-A-Type-Multiband-Dynamic-Enhancer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=a-type-multiband-dynamic-enhancer-b9de37)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15130-A-Type-Multiband-Dynamic-Enhancer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=a-type-multiband-dynamic-enhancer-b9de37)
 
 ---
 

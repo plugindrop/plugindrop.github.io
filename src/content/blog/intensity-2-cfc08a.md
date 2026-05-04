@@ -1,18 +1,15 @@
 ---
-title: "34% Off INTENSITY 2"
-description: "INTENSITY 2 is currently **34% off** at Plugin Boutique — drop from ~~$149~~ to **$99**. That's $50 in savings on a dedicated dynamics processor. Grab the..."
-pubDate: "2026-04-23T18:28:07Z"
-tags: ["sale", "vst-plugin", "effects", "music-production"]
+title: "INTENSITY 2: Features, Pricing & Is It Worth It? (2026)"
+description: "INTENSITY 2 is a dynamics processor plugin available through Plugin Boutique. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T18:28:07Z'
+tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=intensity-2-cfc08a"
-heroImage: "/images/intensity-2-cfc08a.jpg"
+heroImage: /images/intensity-2-cfc08a.jpg
 score: 8.32
-dealPrice: "$99.00"
-originalPrice: "$149.00"
-discount: "34% OFF"
-xText: "intensity 2 opened at 34% off. new plugins never drop like that. if the makers are confident enough to discount day one, probably worth the click"
 draft: false
+converted: true
 ---
-**TL;DR:** INTENSITY 2 is currently **34% off** at Plugin Boutique — drop from ~~$149~~ to **$99**. That's $50 in savings on a dedicated dynamics processor. [Grab the deal here.](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=intensity-2-cfc08a)
+**INTENSITY 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=intensity-2-cfc08a)
 
 ---
 
@@ -45,33 +42,17 @@ For exact system requirements, supported DAWs, and activation method, check the 
 - **Mix engineers** — A dynamics processor built for shaping transients and controlling density suits both surgical corrections and creative sound design.
 - **Beatmakers and producers** — Adding punch to drums or controlling the sustain on melodic elements is a core use case for this plugin category.
 - **Mastering engineers** — Dynamics control at the mix bus level is a standard part of a mastering chain; a dedicated tool here can replace more general-purpose compressors.
-- **Plugin collectors on a budget** — At $99 during this sale, it sits in the mid-tier price range where the value-per-feature ratio tends to be strongest.
+- **
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$149~~ | **$99** | $50 (34%) |
+## Current Pricing
 
 This is a 34% discount — not a trivial flash sale percentage. In the plugin market, discounts in the 30–35% range on dynamics tools are meaningful, especially when the regular price sits above $100. Whether this deal has a hard expiration date isn't confirmed, so verify current pricing before purchasing.
 
 > **Note:** Verify current pricing on the product page — deals can change.
 
-[Get INTENSITY 2 at $99 on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=intensity-2-cfc08a)
-
----
-
-## Alternatives at a Glance
-
-| Name | Price | Key Difference |
-|---|---|---|
-| FabFilter Pro-C 2 | ~$179 | Full-featured compressor with multiple compression styles and detailed visual feedback |
-| Native Instruments Transient Master | ~$49 | Focused purely on transient attack/sustain with a simpler, two-knob-style workflow |
-| Waves Scheps Omni Channel | Varies | Channel strip with dynamics as part of a broader signal chain tool |
-
-If you need a dedicated dynamics shaper with focused controls, INTENSITY 2 at $99 competes well in this tier. If you want a full compressor with more algorithmic variety, Pro-C 2 covers more ground at a higher price point.
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2? If you want a full compressor with more algorithmic variety, Pro-C 2 covers more ground at a higher price point.
 
 ---
 
@@ -91,7 +72,7 @@ A: Deal history isn't tracked in this article — check sites like Plugin Deals 
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 **$50 off** a dynamics processor is a solid window to grab a tool you'd otherwise pay full price for. If your mix chain is missing a dedicated dynamics shaper, this is worth a look at the current price.
 

@@ -1,18 +1,15 @@
 ---
-title: "34% Off Bloom Drum Breaks"
-description: "Bloom Drum Breaks is currently **34% off** at Plugin Boutique — dropping from ~~$59.00~~ to just **$39.00** and saving you a clean $20. For producers who..."
-pubDate: "2026-04-23T18:28:31Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "drums", "music-production"]
+title: "Bloom Drum Breaks: Features, Pricing & Is It Worth It? (2026)"
+description: "Bloom Drum Breaks is a virtual instrument and sample library built around drum break content, available through. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T18:28:31Z'
+tags: ["review", "vst-plugin", "virtual-instrument", "drums", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-breaks-4d77af"
-heroImage: "/images/bloom-drum-breaks-4d77af.jpg"
+heroImage: /images/bloom-drum-breaks-4d77af.jpg
 score: 7.80
-dealPrice: "$39.00"
-originalPrice: "$59.00"
-discount: "34% OFF"
-xText: "bloom drum breaks: brand new, already 34% off. new releases sitting at discount this hard? absolute sleeper deal. grab it while it's there."
 draft: false
+converted: true
 ---
-**TL;DR:** Bloom Drum Breaks is currently **34% off** at Plugin Boutique — dropping from ~~$59.00~~ to just **$39.00** and saving you a clean $20. For producers who build around drum break material, this is a meaningful discount on a focused library. [Grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-breaks-4d77af)
+**Bloom Drum Breaks** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-breaks-4d77af)
 
 ---
 
@@ -47,11 +44,7 @@ Bloom Drum Breaks is a virtual instrument and sample library built around drum b
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$59.00~~ | **$39.00** | $20.00 (34%) |
+## Current Pricing
 
 A 34% cut on a sub-$60 product is worth paying attention to. It pushes Bloom Drum Breaks comfortably under the $40 threshold — a notably more impulse-friendly price point for a niche library. Plugin Boutique runs periodic sales across its catalog, but discount frequency varies by developer, so there's no reliable pattern to predict when this title might go on sale again.
 
@@ -82,16 +75,16 @@ A: Licensing and activation methods vary by developer. Check the official Plugin
 A: Supported formats and DAW compatibility are listed on the product page — verify these match your setup before buying.
 
 **Q: Is this a one-time purchase or a subscription?**
-A: The Plugin Boutique listing is a one-time purchase at $39.00. Confirm full license terms on the product page.
+ Confirm full license terms on the product page.
 
 **Q: What is Plugin Boutique's refund policy on this product?**
 A: Refund eligibility depends on the developer's terms. Check Plugin Boutique's purchase policy before completing your order.
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-At **$39.00** (down from ~~$59.00~~), this 34% discount puts a dedicated drum break library well into impulse-buy territory. Break-focused libraries don't hit this price often — if they're part of your workflow, now is a reasonable time to add one.
+At **$39.00** (down from ), this 34% discount puts a dedicated drum break library well into impulse-buy territory. Break-focused libraries don't hit this price often — if they're part of your workflow, now is a reasonable time to add one.
 
 [→ Grab Bloom Drum Breaks at Plugin Boutique for $39.00](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-breaks-4d77af)
 

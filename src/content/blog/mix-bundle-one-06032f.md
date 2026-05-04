@@ -1,22 +1,21 @@
 ---
-title: "50% Off Mix Bundle One"
-description: "Slate Digital's Mix Bundle One — 7 analog-modeled mixing plugins — is currently **50% off** at **$49.50** (~~$99.00~~) on Plugin Boutique. That breaks..."
-pubDate: "2026-04-22T05:35:30Z"
-tags: ["sale", "bundle", "mixing", "music-production"]
+title: "Mix Bundle One: Features, Pricing & Is It Worth It? (2026)"
+description: "Mix Bundle One is a plugin bundle from Slate Digital that packages seven analog-modeled mixing tools into a single. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-22T05:35:30Z'
+tags: ["review", "bundle", "mixing", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15800-Mix-Bundle-One?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mix-bundle-one-06032f"
-heroImage: "/images/mix-bundle-one-06032f.jpg"
+heroImage: /images/mix-bundle-one-06032f.jpg
 score: 7.55
-dealPrice: "$49.50"
-originalPrice: "$99.00"
-discount: "50% OFF"
-xText: "mix bundle one at 50% off is hitting prices you haven't seen since like 2021. per-plugin cost is basically nothing. if you've been waiting for the right bundle moment this is it."
 draft: false
+converted: true
 ---
+**Mix Bundle One** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15800-Mix-Bundle-One?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mix-bundle-one-06032f)
+
+---
+
 Now I have everything needed. Writing the article.
 
 ---
-
-**TL;DR:** Slate Digital's Mix Bundle One — 7 analog-modeled mixing plugins — is currently **50% off** at **$49.50** (~~$99.00~~) on Plugin Boutique. That breaks down to roughly **$7.07 per plugin** for a complete EQ, compression, and enhancement chain. [Grab the deal here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15800-Mix-Bundle-One?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mix-bundle-one-06032f)
 
 ---
 
@@ -50,11 +49,7 @@ Mix Bundle One is a plugin bundle from **Slate Digital** that packages seven ana
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$99.00~~ | **$49.50** | $49.50 (50%) |
+## Current Pricing
 
 Seven plugins for $49.50 works out to approximately **$7.07 per plugin** — strong per-unit value for analog-modeled tools from a recognized developer. A 50% reduction is a meaningful discount worth acting on if these tools fit your workflow.
 
@@ -96,11 +91,11 @@ A: iLok cloud licensing typically allows multi-machine activation — check the 
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 Seven analog-modeled mixing plugins from Slate Digital for **$49.50** — half the regular price. That's a complete EQ, compression, limiting, and enhancement chain for less than the cost of a single premium plugin from most developers.
 
-[Grab Mix Bundle One at Plugin Boutique for $49.50 →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15800-Mix-Bundle-One?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mix-bundle-one-06032f)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15800-Mix-Bundle-One?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mix-bundle-one-06032f)
 
 ---
 

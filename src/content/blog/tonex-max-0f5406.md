@@ -1,18 +1,15 @@
 ---
-title: "67% Off TONEX MAX"
-description: "TONEX MAX — IK Multimedia's flagship AI amp modeling suite — is down to **$99.99** (~~$299.99~~) at Plugin Boutique, a 67% discount that saves you $200...."
-pubDate: "2026-04-23T18:27:51Z"
-tags: ["sale", "vst-plugin", "effects", "music-production"]
+title: "TONEX MAX: Features, Pricing & Is It Worth It? (2026)"
+description: "TONEX MAX is the top-tier edition of IK Multimedia's AI-powered amp modeling platform. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T18:27:51Z'
+tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12452-TONEX-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tonex-max-0f5406"
-heroImage: "/images/tonex-max-0f5406.jpg"
+heroImage: /images/tonex-max-0f5406.jpg
 score: 8.65
-dealPrice: "$99.99"
-originalPrice: "$299.99"
-discount: "67% OFF"
-xText: "tonex max 67% off — usually $200, around $66 right now. lowest price i've caught it at. tone modeling that doesn't sound thin or plastic, sits in a mix like real gear. honestly worth grabbing at this price before it bounces back up."
 draft: false
+converted: true
 ---
-**TL;DR:** TONEX MAX — IK Multimedia's flagship AI amp modeling suite — is down to **$99.99** (~~$299.99~~) at Plugin Boutique, a 67% discount that saves you $200. If you've been eyeing professional-grade amp capture software, [this is the time to grab it](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12452-TONEX-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tonex-max-0f5406).
+**TONEX MAX** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12452-TONEX-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tonex-max-0f5406)
 
 ---
 
@@ -46,15 +43,11 @@ TONEX MAX is the top-tier edition of IK Multimedia's AI-powered amp modeling pla
 
 ---
 
-## Pricing & Deal Details
+## Current Pricing
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$299.99~~ | **$99.99** | $200 (67%) |
+A two-thirds price cut on the MAX tier is a significant move.  Verify current pricing on the product page — deals can change.
 
-A two-thirds price cut on the MAX tier is a significant move. IK Multimedia doesn't run this depth of discount frequently — 67% off puts TONEX MAX at a price point closer to the standard tier's typical retail. Verify current pricing on the product page — deals can change.
-
-[Grab TONEX MAX at $99.99 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12452-TONEX-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tonex-max-0f5406)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12452-TONEX-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tonex-max-0f5406)
 
 ---
 
@@ -86,11 +79,11 @@ A: Check IK Multimedia's official product page for current macOS/Windows version
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 $200 off the flagship tier of one of the most technically capable amp modeling platforms available right now. At $99.99, the barrier to entry for professional AI amp capture is at its lowest.
 
-[Get TONEX MAX for $99.99 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12452-TONEX-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tonex-max-0f5406)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12452-TONEX-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tonex-max-0f5406)
 
 ---
 

@@ -1,18 +1,15 @@
 ---
-title: "17% Off dime Bundle"
-description: "The dime Bundle is currently **17% off** at Plugin Boutique — drop from ~~$119.00~~ to just **$99.00**, saving you $20 straight up. If effects bundles are..."
-pubDate: "2026-04-23T18:27:47Z"
-tags: ["sale", "effects", "bundle", "music-production"]
+title: "dime Bundle: Features, Pricing & Is It Worth It? (2026)"
+description: "The dime Bundle is an effects plugin bundle available exclusively through Plugin Boutique. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T18:27:47Z'
+tags: ["review", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16946-dime-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dime-bundle-0bd18e"
-heroImage: "/images/dime-bundle-0bd18e.jpg"
+heroImage: /images/dime-bundle-0bd18e.jpg
 score: 8.82
-dealPrice: "$99.00"
-originalPrice: "$119.00"
-discount: "17% OFF"
-xText: "the per-plugin math on dime bundle's 17% off is the best breakdown i've run in a minute. sometimes these deals actually pencil out"
 draft: false
+converted: true
 ---
-**TL;DR:** The dime Bundle is currently **17% off** at Plugin Boutique — drop from ~~$119.00~~ to just **$99.00**, saving you $20 straight up. If effects bundles are on your radar, [grab it here while the deal lasts](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16946-dime-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dime-bundle-0bd18e).
+**dime Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16946-dime-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dime-bundle-0bd18e)
 
 ---
 
@@ -49,13 +46,9 @@ Based on the product listing category and deal structure, the dime Bundle is pos
 
 ---
 
-## Pricing & Deal Details
+## Current Pricing
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$119.00~~ | **$99.00** | $20.00 (17%) |
-
-A $20 saving on a $119 bundle is a solid deal — that's not a token "5% off" discount, it's real money back. Effects bundles at this tier don't always see steep discounts, so 17% is worth paying attention to.
+ Effects bundles at this tier don't always see steep discounts, so 17% is worth paying attention to.
 
 Note: Verify current pricing on the product page — deals can change at any time.
 
@@ -80,7 +73,7 @@ If you're already invested in a specific ecosystem (iZotope, Waves, NI), staying
 ## FAQ
 
 **Q: Where can I buy the dime Bundle at this discounted price?**
-A: The 17% off deal is available through Plugin Boutique. Purchase directly at the product page to ensure you get the current deal price.
+ Purchase directly at the product page to ensure you get the current deal price.
 
 **Q: Does the dime Bundle require iLok or online activation?**
 A: Check the official Plugin Boutique product page for licensing and activation details — this varies by developer and isn't listed in the deal summary.
@@ -93,9 +86,9 @@ A: Refund and return policies are set by Plugin Boutique. Check their official s
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-$20 off an effects bundle doesn't happen every day — 17% is a legitimate discount worth acting on if this fits your workflow. [Grab the dime Bundle at $99.00 on Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16946-dime-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dime-bundle-0bd18e)
+$20 off an effects bundle doesn't happen every day — 17% is a legitimate discount worth acting on if this fits your workflow. [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16946-dime-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dime-bundle-0bd18e)
 
 ---
 

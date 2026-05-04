@@ -1,23 +1,20 @@
 ---
-title: "57% Off ZENOLOGY PRO"
-description: "Roland's flagship ZEN-Core synthesizer is down to $99.00 (~~$229.00~~) at Plugin Boutique — a 57% saving and $130 off a plugin that rarely sees discounts..."
-pubDate: "2026-05-01T01:38:34Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
+title: "ZENOLOGY PRO: Features, Pricing & Is It Worth It? (2026)"
+description: "ZENOLOGY PRO is Roland's flagship software synthesizer, built on the ZEN-Core synthesis engine — the same. Check current pricing at Plugin Boutique."
+pubDate: '2026-05-01T01:38:34Z'
+tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247"
-heroImage: "/images/zenology-pro-423247.jpg"
+heroImage: /images/zenology-pro-423247.jpg
 score: 10.00
-dealPrice: "$99.00"
-originalPrice: "$229.00"
-discount: "57% OFF"
-xText: "zenology pro is 57% off and honestly this is the cheapest it's ever been. if you've been eyeballing it, this is the reason to pull the trigger"
 draft: false
+converted: true
 ---
-**TL;DR:** Roland's flagship ZEN-Core synthesizer is down to $99.00 (~~$229.00~~) at Plugin Boutique — a 57% saving and $130 off a plugin that rarely sees discounts at this level. [→ Get ZENOLOGY PRO at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247)
+**ZENOLOGY PRO** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247)
 
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/l5pBmPZsmXQ" title="57% Off ZENOLOGY PRO — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/l5pBmPZsmXQ" title="ZENOLOGY PRO — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is ZENOLOGY PRO?
@@ -52,13 +49,9 @@ ZENOLOGY PRO is a frequently discussed entry point in Roland-focused producer co
 
 ---
 
-## Pricing & Deal Details
+## Current Pricing
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$229.00~~ | $99.00 | $130.00 (57%) |
-
-Roland software at 57% off through a third-party retailer is uncommon. Roland's own Roland Cloud model typically pushes users toward subscriptions, making perpetual license sales events like this worth noting. This is a one-time purchase — not a subscription.
+Roland software at a third-party retailer is uncommon. Roland's own Roland Cloud model typically pushes users toward subscriptions, making perpetual license sales events like this worth noting. This is a one-time purchase — not a subscription.
 
 *Price verified at publication. Check the link for current availability.*
 
@@ -94,7 +87,7 @@ A: Yes. ZENOLOGY PRO is compatible with Roland's Model Expansions, which unlock 
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 $99.00 for Roland's ZEN-Core flagship represents a 57% reduction from the standard $229.00 price — a developer that leans heavily on subscriptions makes perpetual license discounts like this worth acting on.
 

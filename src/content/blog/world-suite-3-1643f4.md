@@ -1,18 +1,15 @@
 ---
-title: "50% Off World Suite 3"
-description: "World Suite 3 is down to **$149** (was ~~$299~~) at Plugin Boutique — that's $150 off, a clean 50% discount. If you've been eyeing a world music virtual..."
-pubDate: "2026-04-23T18:27:44Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "bundle", "music-production"]
+title: "World Suite 3: Features, Pricing & Is It Worth It? (2026)"
+description: "World Suite 3 is a virtual instrument plugin designed to bring authentic global sounds into your DAW. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T18:27:44Z'
+tags: ["review", "vst-plugin", "virtual-instrument", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4"
-heroImage: "/images/world-suite-3-1643f4.jpg"
+heroImage: /images/world-suite-3-1643f4.jpg
 score: 8.95
-dealPrice: "$149.00"
-originalPrice: "$299.00"
-discount: "50% OFF"
-xText: "world suite 3 launched at 50% off. honestly caught me off guard. new plugin releases don't usually work like this. if you've been waiting, the timing just lined up."
 draft: false
+converted: true
 ---
-**TL;DR:** World Suite 3 is down to **$149** (was ~~$299~~) at Plugin Boutique — that's $150 off, a clean 50% discount. If you've been eyeing a world music virtual instrument library, this is a meaningful price drop worth acting on. [Grab it here at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4)
+**World Suite 3** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4)
 
 ---
 
@@ -45,11 +42,7 @@ World Suite 3 is a virtual instrument plugin designed to bring authentic global 
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$299.00~~ | **$149.00** | $150 (50%) |
+## Current Pricing
 
 A 50% discount on a virtual instrument at this tier is not an everyday occurrence. Half-off deals on full-price libraries in this price range typically represent a genuine buying window rather than routine promotional pricing — though deal history for this specific title isn't widely documented, so treat the current price as the floor to compare against.
 
@@ -87,9 +80,9 @@ A: Plugin Boutique's refund policy applies — check their terms of service dire
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-$150 off a world music virtual instrument library is a deal worth bookmarking — or better yet, acting on before it expires. Head to Plugin Boutique and lock in the $149 price while it's live.
+$150 off a world music virtual instrument library is a deal worth bookmarking — or better yet, acting on . Head to Plugin Boutique and lock in the $149 price while it's live.
 
 [**Get World Suite 3 for $149 at Plugin Boutique →**](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4)
 

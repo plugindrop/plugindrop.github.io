@@ -1,18 +1,15 @@
 ---
-title: "51% Off Little AlterBoy"
-description: "Little AlterBoy by Soundtoys is down to **$49.00** (was ~~$99.00~~) at Plugin Boutique — that's 51% off one of the most recognizable vocal processing..."
-pubDate: "2026-04-21T03:00:58Z"
-tags: ["sale", "vst-plugin", "effects", "music-production"]
+title: "Little AlterBoy: Features, Pricing & Is It Worth It? (2026)"
+description: "Little AlterBoy is a vocal pitch and formant shifting plugin developed by Soundtoys, the company behind well-regarded. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-21T03:00:58Z'
+tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=little-alterboy-586da2"
-heroImage: "/images/little-alterboy-586da2.jpg"
+heroImage: /images/little-alterboy-586da2.jpg
 score: 7.05
-dealPrice: "$49.00"
-originalPrice: "$99.00"
-discount: "51% OFF"
-xText: "little alterboy's brand new and it's 51% off. honestly don't remember it ever going this deep. if vocal harmonies make your mixes worse, that changes today."
 draft: false
+converted: true
 ---
-**TL;DR:** Little AlterBoy by Soundtoys is down to **$49.00** (was ~~$99.00~~) at Plugin Boutique — that's 51% off one of the most recognizable vocal processing plugins in the game. If you've been waiting on this one, [grab it here before the deal ends](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=little-alterboy-586da2).
+**Little AlterBoy** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=little-alterboy-586da2)
 
 ---
 
@@ -51,17 +48,13 @@ Little AlterBoy has been a community staple for years. On forums like KVR Audio 
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$99.00~~ | **$49.00** | $50.00 (51%) |
+## Current Pricing
 
 Soundtoys doesn't run deep discounts constantly — sales at this level tend to appear a few times a year, often around plugin deal events or as part of store-wide promotions. A 51% cut on a single plugin from a well-regarded developer is worth paying attention to.
 
 Note: Verify current pricing on the product page — deals can change without notice.
 
-[Get Little AlterBoy for $49.00 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=little-alterboy-586da2)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=little-alterboy-586da2)
 
 ---
 
@@ -93,11 +86,11 @@ A: Check the official Soundtoys product page for current macOS and Windows versi
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 $50 off a Soundtoys plugin doesn't come around every week. At $49.00, Little AlterBoy is well within impulse-buy range for a tool with this much vocal manipulation capability.
 
-[Grab Little AlterBoy at 51% off on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=little-alterboy-586da2)
+[pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=little-alterboy-586da2)
 
 ---
 

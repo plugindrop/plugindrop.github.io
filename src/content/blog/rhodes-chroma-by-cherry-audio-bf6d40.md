@@ -1,23 +1,20 @@
 ---
-title: "43% Off Rhodes Chroma by Cherry Audio"
-description: "Rhodes Chroma by Cherry Audio is currently 43% off at Plugin Boutique — dropping from ~~$69.00~~ to **$39.00**, saving you $30. This is a software..."
-pubDate: "2026-05-01T17:15:54Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
+title: "Rhodes Chroma: Features, Pricing & Is It Worth It? (2026)"
+description: "Rhodes Chroma is Cherry Audio's software emulation of the original Rhodes Chroma hardware synthesizer — a polyphonic. Check current pricing at Plugin Boutique."
+pubDate: '2026-05-01T17:15:54Z'
+tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/13870-Rhodes-Chroma-by-Cherry-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-chroma-by-cherry-audio-bf6d40"
-heroImage: "/images/rhodes-chroma-by-cherry-audio-bf6d40.jpg"
+heroImage: /images/rhodes-chroma-by-cherry-audio-bf6d40.jpg
 score: 9.72
-dealPrice: "$39.00"
-originalPrice: "$69.00"
-discount: "43% OFF"
-xText: "rhodes chroma's 43% off. not flashy but it's the electric piano living in the back of every mix you hear. cherry audio's sleeper masterpiece."
 draft: false
+converted: true
 ---
-**TL;DR:** Rhodes Chroma by Cherry Audio is currently 43% off at Plugin Boutique — dropping from ~~$69.00~~ to **$39.00**, saving you $30. This is a software recreation of one of the rarest and most complex polyphonic analog synthesizers of the early 1980s, now available at one of its sharpest discounts. [→ Get Rhodes Chroma at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/13870-Rhodes-Chroma-by-Cherry-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-chroma-by-cherry-audio-bf6d40)
+**Rhodes Chroma** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/13870-Rhodes-Chroma-by-Cherry-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-chroma-by-cherry-audio-bf6d40)
 
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/scMxNiv16H8" title="43% Off Rhodes Chroma by Cherry Audio — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/scMxNiv16H8" title="Rhodes Chroma by Cherry Audio — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is Rhodes Chroma by Cherry Audio?
@@ -39,20 +36,7 @@ Rhodes Chroma is Cherry Audio's software emulation of the original Rhodes Chroma
 
 ## Who Is It For?
 
-- **Vintage synth collectors** — Producers specifically interested in rare 1980s polysynths that rarely appear in software form
-- **Ambient and electronic producers** — The Chroma's layered polyphony and modulation depth suits evolving pads, drones, and textured movement
-- **Film and TV composers** — Complex analog tones with historical character suited for cinematic scoring contexts
-- **Budget-conscious producers** — At $39, this brings a historically significant emulation well below its regular asking price, making it a viable pickup for producers who've been on the fence
-
----
-
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$69.00~~ | **$39.00** | $30.00 (43%) |
-
-Cherry Audio runs promotions through Plugin Boutique periodically, but a 43% reduction is toward the higher end of their typical discount range. The $39 price point sits at a level where producers interested in vintage polysynth emulation can act without significant financial risk. The $30 savings over the standard price is concrete and meaningful at this price tier.
+- ** The $39 price point sits at a level where producers interested in vintage polysynth emulation can act without significant financial risk. The $30 savings over the standard price is concrete and meaningful at this price tier.
 
 *Price verified at publication. Check the link for current availability.*
 
@@ -88,9 +72,7 @@ A: Cherry Audio plugins are available in standard formats including VST, VST3, A
 
 ---
 
-## Get the Deal
-
-At $39 — 43% below the regular $69.00 — this is a meaningful entry point for one of Cherry Audio's more historically distinctive emulations. The discount is live now on Plugin Boutique.
+## 00 — this is a meaningful entry point for one of Cherry Audio's more historically distinctive emulations. The discount is live now on Plugin Boutique.
 
 [→ Get Rhodes Chroma at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/13870-Rhodes-Chroma-by-Cherry-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-chroma-by-cherry-audio-bf6d40)
 

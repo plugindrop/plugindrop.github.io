@@ -1,18 +1,15 @@
 ---
-title: "55% Off Unfiltered Audio Battalion"
-description: "Unfiltered Audio Battalion is currently **55% off** at Plugin Boutique — down from ~~$203.00~~ to just **$91.00**, saving you over $112 on a..."
-pubDate: "2026-04-23T18:27:58Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
+title: "Unfiltered Audio Battalion: Features, Pricing & Is It Worth It? (2026)"
+description: "Unfiltered Audio Battalion is a drum machine synthesizer plugin developed by Unfiltered Audio — a company known in. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T18:27:58Z'
+tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/14935-Unfiltered-Audio-Battalion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-battalion-d99c1b"
-heroImage: "/images/unfiltered-audio-battalion-d99c1b.jpg"
+heroImage: /images/unfiltered-audio-battalion-d99c1b.jpg
 score: 8.45
-dealPrice: "$91.00"
-originalPrice: "$203.00"
-discount: "55% OFF"
-xText: "new unfiltered audio plugin at 55% off right out of the gate? battalion's pricing is honestly wild. new releases don't usually discount this hard, so this might be worth checking before it normalizes"
 draft: false
+converted: true
 ---
-**TL;DR:** Unfiltered Audio Battalion is currently **55% off** at Plugin Boutique — down from ~~$203.00~~ to just **$91.00**, saving you over $112 on a synthesis-driven drum machine plugin. If you've been watching Unfiltered Audio's catalog, this is one of the deeper discounts their instruments see. [Grab Battalion at the deal price here.](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/14935-Unfiltered-Audio-Battalion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-battalion-d99c1b)
+**Unfiltered Audio Battalion** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/14935-Unfiltered-Audio-Battalion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-battalion-d99c1b)
 
 ---
 
@@ -47,11 +44,7 @@ Unfiltered Audio Battalion is a drum machine synthesizer plugin developed by Unf
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$203.00~~ | **$91.00** | $112.00 (~55%) |
+## Current Pricing
 
 A 55% discount on a $200+ instrument is a meaningful drop — Unfiltered Audio titles don't regularly hit this level of discount. Verify current pricing on the product page before purchasing, as deals can end without notice.
 
@@ -87,11 +80,11 @@ A: Plugin Boutique deals run for a set period and can expire without warning. Th
 
 ---
 
-## Get the Deal
+## Where to Buy
 
-**$112 off** a synthesis-driven drum machine from one of the more inventive names in the plugin space. At $91 versus a standard ~~$203~~, the math is clear — and there's no guarantee this price holds.
+**$112 off** a synthesis-driven drum machine from one of the more inventive names in the plugin space. At $91 versus a standard , the math is clear — and there's no guarantee this price holds.
 
-[Claim the 55% Battalion deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/14935-Unfiltered-Audio-Battalion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-battalion-d99c1b)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/14935-Unfiltered-Audio-Battalion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-battalion-d99c1b)
 
 ---
 

@@ -1,23 +1,20 @@
 ---
-title: "75% Off Anthology XII"
-description: "Anthology XII is currently 75% off at Plugin Boutique — down from ~~$1,999~~ to $499, a $1,500 saving on a complete plugin collection. At this price tier,..."
-pubDate: "2026-04-30T21:27:16Z"
-tags: ["sale", "effects", "music-production"]
+title: "Anthology XII: Features, Pricing & Is It Worth It? (2026)"
+description: "Anthology XII is a complete plugin collection bundle available through Plugin Boutique, categorized under their. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-30T21:27:16Z'
+tags: ["review", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/8762-Anthology-XII?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=anthology-xii-db5000"
-heroImage: "/images/anthology-xii-db5000.jpg"
+heroImage: /images/anthology-xii-db5000.jpg
 score: 9.65
-dealPrice: "$499.00"
-originalPrice: "$1,999.00"
-discount: "75% OFF"
-xText: "75% off anthology xii. new releases this discounted are basically unheard of. price gonna climb back up fast"
 draft: false
+converted: true
 ---
-**TL;DR:** Anthology XII is currently 75% off at Plugin Boutique — down from ~~$1,999~~ to $499, a $1,500 saving on a complete plugin collection. At this price tier, it enters range for producers who've been waiting on a meaningful sale. [→ Get Anthology XII at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/8762-Anthology-XII?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=anthology-xii-db5000)
+**Anthology XII** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/8762-Anthology-XII?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=anthology-xii-db5000)
 
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/AnrwnbZafFQ" title="75% Off Anthology XII — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/AnrwnbZafFQ" title="Anthology XII — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is Anthology XII?
@@ -44,11 +41,7 @@ Anthology XII is a complete plugin collection bundle available through Plugin Bo
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$1,999.00~~ | $499.00 | $1,500.00 (75%) |
+## Current Pricing
 
 A $499 entry point for a complete collection bundle is significant context. At $1,999 standard, this product sits in a bracket typically purchased by studios or producers with a dedicated software budget. The 75% reduction brings it to a price point accessible to independent producers.
 
@@ -88,9 +81,7 @@ A: System requirements depend on the publisher's specifications — check the of
 
 ---
 
-## Get the Deal
-
-Anthology XII at $499 is a 75% reduction from its $1,999 standard price — a $1,500 saving on a complete plugin collection. Discounts of this scale on full-catalog bundles are infrequent, making this a notable window for producers at that consideration stage.
+##  Discounts of this scale on full-catalog bundles are infrequent, making this a notable window for producers at that consideration stage.
 
 [→ Get Anthology XII at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/8762-Anthology-XII?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=anthology-xii-db5000)
 
