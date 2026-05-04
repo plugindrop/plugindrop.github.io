@@ -43,6 +43,9 @@ This guide covers every critical stage of the signal chain — EQ, compression, 
 Equalization is the most-used process in any mix. Getting it right means choosing between surgical precision, musical character, and workflow speed. These are the standout options at both ends of the price spectrum.
 
 ### FabFilter Pro-Q 4 — The industry-standard EQ, and still worth every cent
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** FabFilter
 - **Price:** $179
 - **Platforms:** Windows, macOS

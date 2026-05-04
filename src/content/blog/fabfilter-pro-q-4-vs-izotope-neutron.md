@@ -43,6 +43,9 @@ This guide breaks down every major category — sound quality, workflow, AI feat
 ## The Contenders
 
 ### FabFilter Pro-Q 4 — The surgical precision EQ that engineers trust
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** FabFilter
 - **Price:** $179
 - **Platforms:** Windows, macOS

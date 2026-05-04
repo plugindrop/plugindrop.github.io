@@ -22,6 +22,7 @@ score: 4.25
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/xkIUhqFpeb4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Universal Plug?
 
 Universal Plug is a utility plugin made by Stagecraft Software, a developer based in Chicago, IL. It acts as a plugin wrapper — install it in your DAW, and it lets you load plugin formats that your DAW doesn't natively support. Stuck in Logic Pro but need that one VST-only synth? Universal Plug bridges the gap. It's not a creative effect or instrument; it's plumbing that makes everything else work where it shouldn't.

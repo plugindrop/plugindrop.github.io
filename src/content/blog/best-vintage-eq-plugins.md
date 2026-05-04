@@ -44,6 +44,9 @@ This guide is for producers who already understand basic EQ and want to know whi
 ## SSL Console EQ Emulations
 
 ### Waves SSL E-Channel — The console EQ that earns its community dominance
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/b2IWMPae9I0" title="Waves SSL E-Channel — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Waves
 - **Price:** ~$30–$60 (sale pricing frequent; check Waves.com)
 - **Platforms:** Windows, macOS

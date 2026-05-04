@@ -22,6 +22,7 @@ score: 7.01
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/XNwXh1S8BD0" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is ENGL Ampthology Vol 1?
 
 ENGL is a German boutique amplifier brand with a decades-long reputation in the high-gain rock and metal world — their physical amps are used on stages and in studios worldwide. ENGL Ampthology Vol 1 is an amp simulator plugin that brings officially licensed models of ENGL hardware into your DAW. Rather than a generic "inspired by" recreation, the Ampthology series is built around the actual ENGL lineup, making it a direct route to that signature tight, high-gain German tone without the mic stands.

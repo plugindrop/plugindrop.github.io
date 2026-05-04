@@ -20,6 +20,7 @@ score: 7.21
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/9o-PNKr6lGU" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is the Desolate & Velvet Guitars Bundle?
 
 The Desolate & Velvet Guitars Bundle combines two cinematic guitar libraries from e-instruments, a developer known for deeply sampled virtual instruments. Both libraries run on Native Instruments' free Kontakt Player, making them accessible without a full Kontakt license. Together, they cover a wide tonal range — from twangy, atmospheric tension (Desolate) to mellow warmth and emotive depth (Velvet).

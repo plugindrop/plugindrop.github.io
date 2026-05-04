@@ -24,6 +24,7 @@ Good, I have the product details. Writing the article now.
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wKBh4vnXbrY" title="78% Off SPARKLE 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is SPARKLE 2?
 
 SPARKLE 2 is a virtual electric rhythm guitar plugin developed by UJAM, the Berlin-based studio behind a wide range of virtual instruments and effects. Described as "a true team player," it covers everything from funky clean tones to indie rock crunch, making it practical for chord work, octaves, and riff-based parts. The sample library was recorded through a customized vintage single-coil pickup guitar, giving it a grounded, realistic foundation rather than a purely synthesized feel. It runs fully inside your DAW — no real guitar, amp, or external pedals required.

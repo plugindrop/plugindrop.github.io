@@ -19,6 +19,7 @@ score: 5.57
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/p9WMLf854Kw" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Are DC Snares & BigKick?
 
 This bundle pairs two purpose-built drum instruments from Plugin Boutique. **DC Snares**, designed by multi-award-winning artist Davide Carbone, is a dedicated snare construction kit with layering, synthesis, and a signature "Sizzler" effect. **BigKick** is a kick drum synthesizer that combines sample layering with a tunable body synth, giving you precise control over your low end. Both plugins run as VST, VST3, AU, and AAX on macOS and Windows.
@@ -34,9 +35,6 @@ Together, they cover the two most critical elements of any drum sound: the snare
 - **Deep modulation** — four envelopes and a velocity curve mappable to hundreds of parameters
 
 ### BigKick
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/AcDCM5A6I2Y" title="BigKick — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Two body models** — "Original" for versatile styles and "Tough" for harder-edged electronic sounds
 - **300+ attack types and 110 presets** — large factory library for quick starting points
 - **Pitch-to-bassline tuning** — set the kick's pitch to match your bass, or play it chromatically via MIDI

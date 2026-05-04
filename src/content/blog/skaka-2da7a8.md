@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/HcaPF8r76OQ" title="59% Off Skaka — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Skaka?
 
 Skaka is a drum machine instrument plugin available exclusively through Plugin Boutique. It sits in the Instruments > Drum Machine category, designed to generate percussive sounds for music production across electronic and contemporary genres. At its regular price of $69.99, it occupies the mid-tier drum machine market — competing with tools aimed at producers who want a dedicated rhythmic instrument rather than a general-purpose sampler.

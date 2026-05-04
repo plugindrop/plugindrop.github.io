@@ -20,6 +20,7 @@ draft: false
 <iframe src="https://www.youtube.com/embed/H3V0SoiZVQU" title="Get 62% off Softube Model 80 Five Voice Synthesizer at Audio Deluxe — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Softube Model 80 Five Voice Synthesizer?
 
 Softube Model 80 is a five-voice polyphonic software synthesizer from Softube, a Swedish developer known for precision analog circuit modeling. The plugin is built around classic polyphonic synth architecture, designed to bring warm, organic analog tones into a modern DAW workflow. Softube has built a reputation across their catalog — from console emulations to vintage effects — for engineering accuracy, and Model 80 carries that same philosophy into their synthesizer lineup.

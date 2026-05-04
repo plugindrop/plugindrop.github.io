@@ -20,6 +20,7 @@ score: 6.26
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6nlzkAtrz00" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Scaler 3?
 
 Scaler 3 is a music theory and composition tool developed by Scaler Music (formerly Plugin Boutique's in-house brand). It's designed to help producers discover chords, progressions, and melodies — even without deep theory knowledge. The plugin detects what key and scale you're working in, suggests chord progressions that fit, and provides performance tools to turn those ideas into full arrangements. Scaler has earned multiple awards since its original release and has become one of the most recognized theory tools in the plugin market.

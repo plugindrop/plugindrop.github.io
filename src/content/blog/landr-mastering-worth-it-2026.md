@@ -129,6 +129,9 @@ Community documentation across Gearspace, Reddit, and KVR Audio converges on sev
 If the LANDR subscription math doesn't work for your release volume — or if genre fit or transparency is a concern — these two tools represent the community's documented standard for mastering.
 
 ### iZotope Ozone 12 — The most complete AI-assisted mastering suite for DAW users
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/lwIuaD8O61M" title="iZotope Ozone 12 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** iZotope
 - **Price:** From $199 (Standard edition, one-time purchase)
 - **Why upgrade:** LANDR's core weakness is opacity — Ozone 12 directly solves this. The Master Assistant analyzes your mix and proposes a starting chain covering EQ, dynamics, stereo width, and limiter settings. Every suggestion is transparent, visually presented, and fully adjustable. Reddit's r/edmproduction and r/WeAreTheMusicMakers consistently cite Ozone as the community's primary recommendation for serious self-mastering, particularly for producers already working inside a DAW who want to build lasting mastering knowledge rather than delegate the process indefinitely.

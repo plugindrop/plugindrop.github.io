@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OSI3RDdo20U" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Bloom Mura Masa?
 
 Bloom Mura Masa is a virtual instrument available exclusively through Plugin Boutique, developed in collaboration with British electronic producer and multi-instrumentalist Mura Masa. Known for blending indie, electronic, and pop textures, Mura Masa has built a reputation for lush, organic-sounding productions — and Bloom reflects that aesthetic. The instrument is designed to bring those signature tonal qualities directly into your DAW as a playable plugin.

@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/N_YDFXD_1k0" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Pulsar Vocal Studio?
 
 Pulsar Vocal Studio is a dedicated vocal processing plugin developed by Pulsar Audio, a French developer known for analog circuit modeling. The plugin functions as a complete vocal chain, integrating multiple processing stages — dynamics, EQ, and tonal shaping — into a single interface designed specifically for vocal production. Pulsar Audio has built a reputation across their catalog (Pulsar Massive, Pulsar 1178, Pulsar Mu) for depth of analog modeling, and Vocal Studio brings that same philosophy to voice-focused work. Rather than assembling a vocal chain from separate tools, it offers an all-in-one solution with controls oriented around the unique demands of the human voice.

@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ux8dyXHr8gA" title="78% Off bx console AMEK 9099 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is the bx console AMEK 9099?
 
 The bx console AMEK 9099 is a channel strip plugin by Brainworx (Plugin Alliance), built as a precise emulation of the AMEK 9099 analog console — a desk designed by Rupert Neve. It packages EQ, dynamics, and analog saturation into a single channel strip, modeled from the actual hardware. Brainworx is widely known for their console emulation line, and the AMEK 9099 sits alongside their SSL, Neve, and API channel strip recreations.

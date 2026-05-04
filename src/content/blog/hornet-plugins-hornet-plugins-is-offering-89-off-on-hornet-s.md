@@ -18,6 +18,7 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lD1XXUNR7sg" title="HoRNet Plugins — HoRNet Plugins is offering 89% off on HoRNet SAMP master bus plugin for Atmos mixing. Use the code: SAMP89 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is HoRNet SAMP?
 
 HoRNet SAMP is a master bus plugin developed by Italian audio software company HoRNet Plugins, designed for Dolby Atmos and immersive audio mixing workflows. The plugin occupies the master bus position in an Atmos session, addressing signal control and monitoring requirements specific to immersive delivery formats. HoRNet Plugins has been building technically precise tools since the early 2010s, maintaining a catalog spanning metering, dynamics, saturation, and analysis across major DAW platforms. Their approach prioritizes engineering accuracy over visual polish — a positioning that has earned them a steady following among working engineers.

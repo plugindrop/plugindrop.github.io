@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BBf10TeCa9g" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is the Shadow Hills Mastering Compressor Class A?
 
 The Shadow Hills Mastering Compressor Class A is a plugin emulation of the legendary Shadow Hills Industries hardware unit — a mastering-grade outboard compressor that retails in the thousands of dollars in hardware form. The plugin is developed by Plugin Alliance, who hold the official license from Shadow Hills Industries. It's designed to bring the character and control of a high-end mastering studio rack into your DAW at a fraction of the cost.

@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CMnR6qpcTZw" title="92% Off Solid State Logic SSL Fusion Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is the SSL Fusion Bundle?
 
 Solid State Logic is one of the most recognized names in professional audio — the company behind the consoles that shaped decades of commercial recordings. The SSL Fusion Bundle brings together plugin recreations of the processing modules found in SSL's Fusion hardware stereo processor, a rack unit designed for analog-style color, warmth, and control on mix buses and master chains. These are not generic emulations; they carry SSL's own engineering and branding, making this bundle a direct software counterpart to a piece of high-end hardware.

@@ -19,6 +19,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Imubcby-rkw" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Soundtoys 5.5?
 
 Soundtoys 5.5 is the complete bundle from Soundtoys, a company widely recognized for building some of the most characterful and sonically distinct audio plugins on the market. The bundle packages their full lineup of effects — from saturators and delays to pitch tools and rhythm processors — into a single collection. Soundtoys built their reputation on analog-inspired processing, emulating vintage hardware behavior rather than chasing surgical precision. This is the version for producers who want texture, movement, and vibe baked into their signal chain.

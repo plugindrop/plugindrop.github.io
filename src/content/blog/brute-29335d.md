@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/trSb6qOhciY" title="76% Off BRUTE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is BRUTE?
 
 BRUTE is a virtual instrument plugin sold through Plugin Boutique, sitting in the synthesizer tier of their catalog. The name itself telegraphs its design intent: raw, aggressive, high-energy synthesis — not the kind of tool built for gentle pads or soft textures. At its standard $119.00 price, it competes solidly in the mid-tier synth market. At $29.00, it drops into the range where producers typically buy without overthinking it.

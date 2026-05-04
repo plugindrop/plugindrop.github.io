@@ -244,6 +244,9 @@ The Yamaha DX7's 6-operator FM architecture is notoriously difficult to program 
 ## Worth Upgrading To
 
 ### Arturia V Collection 11 — the complete vintage library at one price
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Arturia
 - **Price:** ~$499 (frequent sales; check Plugin Boutique for current pricing)
 - **Why upgrade:** Buying even three or four individual Arturia instruments costs more than the full collection. The bundle nets you 40+ instruments, Analog Lab V, and all future Collection updates included in the license year.

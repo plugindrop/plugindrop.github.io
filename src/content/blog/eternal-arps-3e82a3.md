@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_1YTR___FQk" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Eternal Arps?
 
 Eternal Arps is a MIDI arpeggiator plugin available through Plugin Boutique. It sits in the MIDI effects category, designed to take incoming MIDI note input and transform it into complex, evolving arpeggio sequences. Rather than the rigid, one-size-fits-all arpeggiation built into most DAWs, Eternal Arps focuses on giving producers deeper control over pattern generation and motion. It targets electronic music producers who want melodic movement that feels alive rather than mechanical.

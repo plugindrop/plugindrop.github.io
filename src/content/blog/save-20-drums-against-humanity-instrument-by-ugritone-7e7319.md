@@ -19,6 +19,7 @@ score: 3.69
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mdmrdZMVTws" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Drums Against Humanity?
 
 Drums Against Humanity is a virtual drum instrument developed by Ugritone in collaboration with Zbigniew "Inferno" Prominski — the drummer behind Behemoth and Azarath. The library captures Inferno's signature sound, recorded at Tall Pine Records in Kolbudy, Poland by producer Haldor Grunberg (who also worked on Behemoth's chart-topping 2022 album *Opvs Contra Nvturam*). It runs on Ugritone's proprietary sampling engine and is built specifically for extreme and heavy metal production.

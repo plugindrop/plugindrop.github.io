@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/E5tC7wy4JeY" title="59% Off Swivel Audio Hitstrip — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Swivel Audio Hitstrip?
 
 Hitstrip is a channel strip plugin developed by Swivel Audio, available through Plugin Boutique in the Effects > Channel Strip category. Channel strip plugins consolidate the core processing stages of a mixing channel — typically EQ, dynamics, and harmonic shaping — into a single, cohesive interface. The goal is a more streamlined mixing workflow without jumping between multiple plugin windows on every track.

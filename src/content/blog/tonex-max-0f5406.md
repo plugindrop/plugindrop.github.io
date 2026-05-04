@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OElB1MCc4Pg" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is TONEX MAX?
 
 TONEX MAX is the top-tier edition of IK Multimedia's AI-powered amp modeling platform. It uses neural network technology to capture the exact sonic behavior of real amplifiers, cabinets, and pedals — a process IK calls "Tone Modeling." The result is highly accurate digital replicas of physical rigs, usable inside your DAW as a plugin or as a standalone application. TONEX MAX sits above the standard and SE tiers, unlocking the platform's full feature set.

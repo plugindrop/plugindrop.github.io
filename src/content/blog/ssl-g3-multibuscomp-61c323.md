@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bxws1bW1XzY" title="71% Off SSL G3 MultiBusComp — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is SSL G3 MultiBusComp?
 
 The SSL G3 MultiBusComp is a bus compressor plugin developed by Solid State Logic, the British manufacturer whose 4000-series mixing consoles defined the sound of commercial recording for decades. The plugin is rooted in the G-Series VCA bus compressor — the hardware section responsible for the "glue" compression that has appeared on major releases across pop, rock, and electronic music since the 1980s. Where the hardware unit lived on a single stereo bus, the G3 MultiBusComp extends that topology to handle multiple bus compression scenarios within a single plugin.

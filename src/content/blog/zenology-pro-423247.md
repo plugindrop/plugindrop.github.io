@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/l5pBmPZsmXQ" title="57% Off ZENOLOGY PRO — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is ZENOLOGY PRO?
 
 ZENOLOGY PRO is Roland's flagship software synthesizer, built on the ZEN-Core synthesis engine — the same architecture that powers Roland's modern hardware lineup, including the Jupiter-X, Fantom, and SH-4d series. It brings Roland's full synthesis palette into the DAW, covering analog modeling, PCM-based acoustic tones, and SuperNATURAL technology within a single plugin. As the top tier of Roland's software ecosystem, it functions as the primary software gateway to ZEN-Core.

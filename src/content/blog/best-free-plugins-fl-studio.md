@@ -47,6 +47,9 @@ This guide covers 15 of the best free VST plugins for FL Studio, tested across g
 The free synth landscape has reached an all-time high. These five instruments rival or surpass many paid options released just a few years ago.
 
 ### Vital — The best free wavetable synth, full stop
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Matt Tytel
 - **Price:** Free (paid tiers available)
 - **Platforms:** Windows, macOS, Linux

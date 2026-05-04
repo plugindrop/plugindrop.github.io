@@ -22,6 +22,7 @@ score: 5.42
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/jeKxocry60E" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is the ToneKnob Ultimate Bundle?
 
 The ToneKnob Ultimate Bundle is a collection of tone-shaping effect plugins developed by Audified, a Czech audio software company known for building processors modeled on real hardware circuits. The ToneKnob series is designed around one core idea: fast, musically useful tonal control without deep menu-diving. Rather than giving you endless parameters, these plugins focus on delivering character and color quickly — useful for producers and mixing engineers who want results over tweaking.

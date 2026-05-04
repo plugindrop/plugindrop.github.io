@@ -20,6 +20,7 @@ draft: false
 </audio>
 </div>
 
+
 ## What Is Royal Viol by Auddict?
 
 Royal Viol is a Kontakt instrument library built around the viola da gamba, a fretted, bowed string instrument from the Renaissance and Baroque periods. Auddict — a UK-based developer known for detailed, performance-oriented sample libraries — has sampled the viol across multiple articulations and dynamics to give composers a realistic, playable version of the instrument inside Kontakt. The full version of Kontakt is required; it is not compatible with the free Kontakt Player.

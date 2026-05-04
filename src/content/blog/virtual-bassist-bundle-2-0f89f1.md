@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/giI1UpROV4g" title="50% Off Virtual Bassist Bundle 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Virtual Bassist Bundle 2?
 
 Virtual Bassist Bundle 2 is a collection of bass instrument plugins from UJAM, the developer behind the AI-driven Virtual series of instruments. Rather than recording individual notes or programming MIDI by hand, producers trigger full bass performances via MIDI — chord keys set the harmony, style keys switch playing patterns. The result is a complete, realistic bass part generated in real time. Bundling multiple Virtual Bassist titles into one purchase brings the per-instrument cost well below individual retail pricing.

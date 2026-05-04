@@ -20,6 +20,7 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/d9XpkWxr-Og" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Current 2.0 by Minimal Audio?
 
 Current 2.0 is a synthesizer plugin developed by Minimal Audio, a company that has built a reputation around combining conventional synthesis with neural and spectral processing. Current 2.0 is their flagship instrument — a deep, modulation-heavy synth designed for producers who want expressive sound design capabilities beyond what a standard subtractive synth offers. It's available via Plugin Boutique for Windows and Mac.

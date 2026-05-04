@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wXwolRD_1g8" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Bloom Drum Breaks?
 
 Bloom Drum Breaks is a virtual instrument and sample library built around drum break content, available through Plugin Boutique. It's designed to give beatmakers direct access to organic, live-feeling rhythmic material — the kind of drum break foundation that's been central to hip-hop, lo-fi, jungle, and broken beat production for decades. For full developer info, version details, and technical specs, check the official product page.

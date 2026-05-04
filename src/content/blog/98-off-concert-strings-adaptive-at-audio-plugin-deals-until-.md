@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/dLI2wNuLbig" title="98% off Concert Strings Adaptive at Audio Plugin Deals until the 12th of May, 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Concert Strings Adaptive?
 
 Concert Strings Adaptive is an orchestral string ensemble sample library from Kirk Hunter Studios, a developer with a long-standing focus on professional orchestral sampling. The library is built around an adaptive legato engine designed to produce realistic note transitions and natural-sounding string performances. It targets film scoring, game audio, and classical composition workflows where authentic string articulation matters.

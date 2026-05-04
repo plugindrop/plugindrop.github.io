@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vD6-dH0PQCA" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is the Virtual Guitarist Bundle?
 
 The Virtual Guitarist Bundle is a collection of guitar instrument plugins developed by **UJAM**, a German music software company known for their "Virtual Musician" plugin series. Each plugin in the Virtual Guitarist lineup simulates a distinct guitar style — from clean acoustic to high-gain electric — using pre-recorded performances that respond to MIDI chord input. The bundle packages multiple Virtual Guitarist titles together at a substantial discount over buying them individually. Check the product page for the full list of included titles.

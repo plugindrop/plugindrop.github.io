@@ -20,6 +20,7 @@ score: 3.57
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CMd6x1bsOn4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is the FG-116 Blue Series FET Compressor?
 
 The FG-116 Blue Series is Slate Digital's software emulation of the iconic FET-based hardware compressors — specifically targeting the "Blue Stripe" revision of the legendary 1176-style unit. It's built for the Virtual Mix Rack (VMR) ecosystem, Slate Digital's modular plugin platform. The "Blue" designation points to a specific hardware revision prized for its fast attack characteristics and aggressive transient control. This is a workhorse compressor modeled for producers and engineers who want that punchy, characterful FET sound in the box.

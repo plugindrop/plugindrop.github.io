@@ -19,6 +19,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/zclhOqjsRxM" title="50% Off DW Soundworks — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is DW Soundworks?
 
 DW Soundworks is a virtual drum instrument developed by Roland in collaboration with Drum Workshop (DW) and Gretsch — two of the most respected names in acoustic drum hardware. The library was recorded at DW's California factory at 24-bit, 88.2 kHz with professional microphones and preamps. It runs as both a standalone application and a plugin, and ships with six named kits covering a broad genre range.

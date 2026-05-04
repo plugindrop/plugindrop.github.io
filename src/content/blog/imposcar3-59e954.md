@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1objVd7fqx0" title="50% Off impOSCar3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is impOSCar3?
 
 impOSCar3 is GForce Software's virtual recreation of the OSCar — a rare, monophonic British synthesizer from the early 1980s designed by Chris Huggett. The original hardware combined digital oscillator technology with analog-style filtering, producing a distinctive character that set it apart from contemporaries like the Minimoog. GForce, a UK-based developer with a long track record of vintage synth emulations, has developed the impOSCar series across multiple generations. Version 3 represents the most current and refined iteration of that lineage.

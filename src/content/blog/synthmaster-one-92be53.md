@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ZbseRF6SPLg" title="41% Off SynthMaster One — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is SynthMaster One?
 
 SynthMaster One is a wavetable and VA (virtual analog) synthesizer developed by KV331 Audio. It sits in the SynthMaster family as a more streamlined instrument compared to its sibling, SynthMaster 2 — designed to give producers a powerful sound engine without the steeper learning curve of a fully modular workflow. KV331 Audio is a Turkish indie developer with a strong track record in the plugin space, and SynthMaster One has been a consistent catalog offering across Windows and Mac platforms.

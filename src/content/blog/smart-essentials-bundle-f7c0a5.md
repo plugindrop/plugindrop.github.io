@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/cPD0s70HOT0" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is the smart essentials Bundle?
 
 The smart essentials Bundle is a collection of AI-powered mixing and mastering plugins from **sonible**, an Austrian audio software company known for building machine-learning tools that analyze your audio in real time. Rather than relying on manual tweaking alone, the smart: series is designed to suggest or apply intelligent starting points — which makes it particularly useful for producers who want professional-quality results faster. The bundle groups sonible's core "smart:" tools together under one discounted price, and it's listed in Plugin Boutique's Mix/Master category.

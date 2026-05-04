@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Etyeok74vsY" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Synthwave Drums V3?
 
 Synthwave Drums V3 is a drum instrument plugin built specifically for the synthwave, retrowave, and 80s-influenced electronic music space. It sits in Plugin Boutique's Drum Machine category, meaning it functions as a self-contained instrument rather than a sample library you load into a separate sampler. Version 3 of the product signals a mature, iterated release — not a first-generation experiment. Check the product page for confirmed developer details and version changelog.

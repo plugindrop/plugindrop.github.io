@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-pAuHW4qMpI" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is the Empirical Labs EL8 Distressor?
 
 The EL8 Distressor is a compressor with a serious hardware pedigree. Designed by Dave Derr at Empirical Labs, the original hardware unit became a fixture in professional recording studios for its ability to go from clean, transparent compression all the way to aggressively saturated, tape-style crush — all in one box. This plugin is the official software version from Empirical Labs themselves, meaning it's built by the people who know the circuit inside out.

@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/T_RSXMuoM1Y" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is the Motion Bundle?
 
 The Motion Bundle is an effects plugin bundle available exclusively through Plugin Boutique, built around dynamic, movement-driven audio processing. Bundling multiple effects tools under one purchase, it's positioned at producers who want to add life, rhythm, and evolving texture to their mixes without buying individual plugins at full price. Plugin Boutique regularly features curated bundles like this as part of their deal rotation — the 50% discount makes this one worth a close look.

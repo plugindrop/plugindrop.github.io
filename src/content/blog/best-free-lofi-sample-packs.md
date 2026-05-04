@@ -15,7 +15,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube-nocookie.com/embed/jj-xEQNtlxI" title="12 Best Free Lo-Fi Sample Packs in 2026 (Drums, Vinyl Crackle, Chords) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/BXHGHlTsJAA" title="12 Best Free Lo-Fi Sample Packs in 2026 (Drums, Vinyl Crackle, Chords) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -168,7 +168,7 @@ Bedroom Producers Blog has operated as a trusted free plugin and sample resource
 
 ### Sample Focus Lo-Fi Noise & Crackle — Searchable tag-based sample library
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/Rp8_F0JWRgc" title="Sample Focus Lo-Fi Noise & Crackle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/hZliwghTs74" title="Sample Focus Lo-Fi Noise & Crackle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Creator:** Community contributors (Sample Focus platform)
 - **Price:** Free (attribution tier) or royalty-free (cleared tier)
@@ -238,7 +238,7 @@ Splice's free sample section — distinct from its subscription service — incl
 
 ### MSXII Sound Design Free Lo-Fi Packs — Genre expertise in harmonic content
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/CZzlnT5snao" title="MSXII Sound Design Free Lo-Fi Packs — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/mXqePsXZJqg" title="MSXII Sound Design Free Lo-Fi Packs — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Creator:** MSXII Sound Design
 - **Price:** Free (select packs)
@@ -256,6 +256,9 @@ MSXII Sound Design is one of the most-cited creators in lo-fi hip hop production
 ## Worth Upgrading To (Paid Options)
 
 ### Loopmasters Lo-Fi Packs — Label-quality depth for serious producers
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BXHGHlTsJAA" title="Loopmasters lo-fi packs — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Loopmasters
 - **Price:** From $14.95
 - **Why upgrade:** Free sources cover the basics well, but Loopmasters' lo-fi catalog adds label-level recording quality, instrument variety that free packs rarely reach — live upright bass, live jazz drumming, Wurlitzer, Rhodes — and commercial licensing clarity that eliminates the attribution ambiguity common on community platforms. Their lo-fi catalog spans multiple sub-genre styles from ambient chill to upbeat lo-fi hip hop.

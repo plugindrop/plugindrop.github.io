@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/iplkap0TxEI" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is the SSL 4000 G Bus Compressor?
 
 The SSL 4000 G Bus Compressor is the official plugin recreation of the hardware bus compressor built into Solid State Logic's legendary 4000 G Series mixing console. This isn't a third-party emulation — it's built by SSL themselves. The original hardware unit has appeared on an enormous number of commercially released records, prized for its ability to "glue" a mix together and add cohesion across the stereo bus. The plugin aims to translate that character directly into a DAW environment.

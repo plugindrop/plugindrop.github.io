@@ -24,6 +24,7 @@ Now I have confirmed facts. Writing the article now.
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rpVwmNglFTM" title="78% Off CINEDREAM — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is CINEDREAM?
 
 CINEDREAM is a virtual instrument by UJAM that transforms real guitar recordings into cinematic pads and evolving ambient textures. The tagline is "guitars that don't sound like guitars" — the source material is guitar, but the output is atmospheric layers suited to film scoring, trailer music, and ambient production. It's a self-contained tool: styles, amp shaping, and effects are all built in, with no external signal chain required.

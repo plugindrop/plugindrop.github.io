@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/DCdzpO1wIig" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Bloom Synth Atmosphere?
 
 Bloom Synth Atmosphere is a virtual instrument plugin designed for producers and composers who need lush, evolving atmospheric sounds. It sits in the "sound design and texture" category — the kind of tool that handles pads, ambiences, and cinematic layers that other synths leave on the table. Available through Plugin Boutique, it targets the growing demand for ready-to-use atmospheric tools that work across genres from ambient and lo-fi to film scoring and electronic production.

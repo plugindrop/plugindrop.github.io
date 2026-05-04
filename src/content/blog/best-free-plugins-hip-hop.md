@@ -166,6 +166,9 @@ Komplete Start is Native Instruments' free entry-level bundle, which includes Ko
 ## Effects, Processing & Mixing
 
 ### iZotope Vinyl — Benchmark free lo-fi plugin
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/r0Q6I3y8tKY" title="iZotope Vinyl — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** iZotope
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -254,6 +257,9 @@ Graillon 2 provides real-time pitch correction alongside a pitch-shifting sectio
 ### Serum — The wavetable standard for advanced sound design
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Xfer Records
 - **Price:** ~$189 (subscription available)
 - **Why upgrade:** Vital's free tier covers basic wavetable synthesis with genuine depth, but Serum's visual wavetable editor, the scale of its community-shared preset library, and its long-standing status as the genre standard give it advantages that compound over years of use. Producers who design 808 basses and leads from scratch on a daily basis will find the workflow difference significant.

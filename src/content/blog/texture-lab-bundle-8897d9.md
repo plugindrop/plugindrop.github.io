@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/NfJvLvO_QCo" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is the Texture Lab Bundle?
 
 The Texture Lab Bundle is an effects bundle available exclusively through Plugin Boutique, designed around textural and experimental audio processing. It brings together a suite of tools aimed at producers and sound designers who want to add depth, movement, and character to their sounds — think grit, grain, atmosphere, and space. The bundle format means you're getting multiple complementary tools in a single purchase at a heavily discounted combined price. Check the product page for the full list of included plugins and their individual features.

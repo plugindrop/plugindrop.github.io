@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/YRS8pxLcknc" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is HEARS Perfection?
 
 HEARS Perfection is a referencing and mix analysis plugin available through Plugin Boutique, categorized under Studio Tools. Referencing tools exist to close the gap between your mix and a professional-sounding target — they let you load commercial tracks and switch between your session and those references quickly, so your ears recalibrate to the standard you're chasing. At its regular price of $132.00, it sits in the mid-to-premium tier of the referencing tool market. A 61% sale brings it down to a much more approachable entry point.

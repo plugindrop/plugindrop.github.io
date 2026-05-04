@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yt8pFK6fJk4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Little AlterBoy?
 
 Little AlterBoy is a vocal pitch and formant shifting plugin developed by Soundtoys, the company behind well-regarded effects like EchoBoy and Decapitator. It's designed specifically for vocal manipulation — shifting pitch, transforming formants, and adding harmonic drive to vocal tracks. The plugin is available in VST, AU, and AAX formats, making it compatible with most major DAWs.

@@ -19,6 +19,7 @@ score: 1.54
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TwIvUbOhcKE" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Power Grid Disruptor?
 
 Power Grid Disruptor is a creative destruction plugin from Korneff Audio designed to add glitch effects, distortion, and cinematic impact samples to your productions. It combines multiple damage-style effects — drive, bitcrushing, decimation, and noise — with a library of 40+ impact samples and a built-in glitch engine. The plugin syncs to your DAW's tempo and runs on Mac, Windows, and Linux in VST3, AU, AAX, and LV2 formats.

@@ -19,6 +19,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EVIdSXiVdDQ" title="47% Off WORMHOLE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is WORMHOLE?
 
 WORMHOLE is a multi-effect plugin available at Plugin Boutique, categorized under creative effects processing. It targets producers looking for a single plugin that chains multiple spatial and modulation-style effects together, rather than building manual signal chains across separate tools. The plugin is positioned at the sound design end of the effects spectrum — less surgical mixing tool, more texture and atmosphere generator.

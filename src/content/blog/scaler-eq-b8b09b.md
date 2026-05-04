@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/nxZVmRUoyKw" title="34% Off Scaler EQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Scaler EQ?
 
 Scaler EQ is a harmonic equalizer developed by ScalerAudio — the same team behind the widely used Scaler 2 chord and harmony plugin. Rather than treating EQ as a purely technical frequency-carving tool, Scaler EQ maps the frequency spectrum to musical notes, allowing producers to make boosts and cuts that correspond to actual pitches in a chosen key or scale. It bridges the gap between technical mixing and musical intuition.

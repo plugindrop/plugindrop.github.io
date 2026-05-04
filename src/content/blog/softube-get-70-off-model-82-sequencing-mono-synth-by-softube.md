@@ -20,6 +20,7 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/AWvOkWY66Lc" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is the Softube Model 82?
 
 Softube's Model 82 is a monophonic synthesizer plugin with a built-in step sequencer — a combination that targets producers who want classic analog bass and lead sounds without patching a separate sequencer into the chain. Softube is a Swedish developer known for applying rigorous analog circuit modeling to their instruments and effects. The Model 82 fits into their lineup of hardware-inspired instruments, designed to feel like working with a physical box rather than a menu-diving software synth.

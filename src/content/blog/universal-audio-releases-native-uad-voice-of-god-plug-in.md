@@ -21,6 +21,7 @@ score: 5.18
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/KbFb-ukH9DI" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is the UAD Little Labs Voice Of God?
 
 The Little Labs Voice Of God Bass Resonance is Universal Audio's official plug-in recreation of Little Labs' acclaimed 500-series hardware module. Originally built to add weight and chest resonance to voiceover recordings, Voice Of God has become a go-to for tuning and shaping low-end frequencies across kicks, bass, 808s, and vocals. Previously, the UAD version required Apollo hardware or a UAD Accelerator. Now it runs natively on macOS and Windows — opening it up to any DAW setup.

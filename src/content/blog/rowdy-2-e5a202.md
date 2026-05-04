@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/3OZbUc9qm2Y" title="76% Off ROWDY 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is ROWDY 2?
 
 ROWDY 2 is a virtual instrument plugin available at Plugin Boutique, positioned in the Virtual Instruments category. It represents the second generation of the ROWDY line, building on the foundation of the original with expanded sound design capabilities. Designed for producers who need a powerful, ready-to-play instrument that fits into modern music production workflows, it sits at a price point that makes sense for both hobbyists and working producers. At $29, the barrier to entry is about as low as it gets for a full virtual instrument.

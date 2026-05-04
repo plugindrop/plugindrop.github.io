@@ -20,6 +20,7 @@ score: 6.84
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/KT6h7WLSZmc" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is DANDY?
 
 DANDY is a virtual instrument available through Plugin Boutique, sitting in the Virtual Instruments category. It's designed for music producers and composers looking to add a distinct sonic character to their projects. Plugin Boutique is one of the most established storefronts for third-party plugins, known for curating instruments with strong sound design at competitive price points. Check the product page for the developer's full background and version history.

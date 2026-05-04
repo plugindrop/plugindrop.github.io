@@ -61,6 +61,9 @@ Valhalla VintageVerb models digital reverb algorithms from the late 1970s throug
 ---
 
 ### Arturia Rev PLATE-140 — The Most Accurate Plate Emulation at Any Price
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/42e9SI8Zy94" title="Arturia Rev PLATE-140 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Arturia
 - **Price:** ~$49
 - **Platforms:** Windows, macOS
@@ -265,6 +268,9 @@ Ozone Elements brings iZotope's Master Assistant AI into a streamlined mastering
 ## Worth Upgrading To (Paid Options)
 
 ### Valhalla VintageVerb — Still the Most Unbeatable Value in Reverb
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EzPouHxa18s" title="Valhalla VintageVerb — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Valhalla DSP
 - **Price:** ~$50
 - **Why upgrade:** Valhalla's free Supermassive is excellent for expansive ambient textures but lacks per-track mix precision. VintageVerb's 22 distinct algorithm modes, adjustable pre-delay, and Color shaping give you the control needed to place reverbs accurately in dense arrangements where every effect must occupy its own frequency pocket without overlap.

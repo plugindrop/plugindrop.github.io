@@ -20,6 +20,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wmyQHKgxOQo" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is The Orb?
 
 The Orb is a creative filter effect plugin sold through Plugin Boutique. It sits in the Effects > Filter category, designed to bring animated, modulated filtering to your productions. Whether you're sculpting movement into synth pads, chopping rhythmic cuts into drum buses, or adding sweeping texture to full mixes, filter plugins like this one are a go-to tool for adding life to static sounds. Check the product page for the full developer and version details.

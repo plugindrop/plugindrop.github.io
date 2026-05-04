@@ -20,6 +20,7 @@ draft: false
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="Softube — Softube Weekly Deals - 56% off on Drawmer 1973 Multi-Band Compressor plugin — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/203363728%3Fsecret_token%3Ds-n1etLw1IAx0&color=%2300c795&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 </div>
 
+
 ## What Is the Drawmer 1973 Multi-Band Compressor?
 
 The Drawmer 1973 is a plugin emulation developed by Softube, modeled after the classic Drawmer 1973 hardware multi-band compressor — a unit long associated with broadcast and professional mastering environments. Drawmer is a British pro audio manufacturer with a strong reputation in the hardware world, and Softube has built its name on meticulous hardware modeling. The plugin brings the 3-band FET-style compression architecture of the original hardware into a DAW-native format.

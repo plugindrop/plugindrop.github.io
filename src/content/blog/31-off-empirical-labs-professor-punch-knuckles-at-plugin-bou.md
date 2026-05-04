@@ -22,6 +22,7 @@ score: 7.73
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BlPaUFyd0ac" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Empirical Labs Professor Punch-Knuckles?
 
 Empirical Labs is the hardware company behind the Distressor — one of the most-copied compressors in studio history. Professor Punch-Knuckles is their distortion/saturation plugin, bringing that same analog-minded engineering philosophy into the DAW environment. The plugin sits in the distortion/dynamics category and is designed to add harmonic color, punch, and character to individual tracks or buses. Check the Plugin Boutique product page for the full technical specification list.

@@ -166,6 +166,9 @@ Limiter No6 provides five independent processing modules in sequence: RMS compre
 ## Reverb and Spatial Processing
 
 ### Valhalla Supermassive — The free reverb that disrupted a product category
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Valhalla DSP
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -200,7 +203,7 @@ TAL-Reverb-4 offers a minimal control set — room size, pre-delay, high and low
 
 ### ReaPlugs — Reaper's native DSP engines, free for Windows
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/2GbfLzn0dmU" title="ReaPlugs — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/PoEUcT9ytYU" title="ReaPlugs — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Cockos
 - **Price:** Free
