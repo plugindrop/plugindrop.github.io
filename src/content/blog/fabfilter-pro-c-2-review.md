@@ -1,7 +1,7 @@
 ---
 title: "FabFilter Pro-C 2 Review 2026: The Most Transparent Compressor Plugin?"
 description: "FabFilter Pro-C 2 delivers eight distinct compression styles, surgical parameter control, and the most informative gain reduction metering available in..."
-pubDate: "2026-05-04T18:10:19Z"
+pubDate: "2026-05-04T00:00:00Z"
 tags: ["guide", "vst", "effects", "review", "compressor"]
 affiliate: ""
 evergreen: true

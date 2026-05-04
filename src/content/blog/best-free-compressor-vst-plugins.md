@@ -1,7 +1,7 @@
 ---
 title: "12 Best Free Compressor VST Plugins in 2026, Ranked (Every Style Covered)"
 description: "TDR Kotelnikov is the best free compressor VST plugin in 2026 — mastering-grade transparency, every major platform, zero cost. If you want character..."
-pubDate: "2026-05-04T15:06:41Z"
+pubDate: "2026-05-04T00:00:00Z"
 tags: ["guide", "vst", "free", "effects", "compressor"]
 affiliate: ""
 evergreen: true
