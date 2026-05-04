@@ -159,7 +159,7 @@ const productLD = (affiliate && dealPrice && !saleExpired && !_isFreePrice && _n
 const BEST_GUIDE_MAP: Record<string, { label: string; slug: string }> = {
 	'eq':         { label: 'Best EQ Plugins 2026',          slug: 'best-eq-plugins-2026' },
 	'compressor': { label: 'Best Compressor Plugins 2026',  slug: 'best-compressor-plugins-2026' },
-	'reverb':     { label: 'Best Reverb Plugins 2026',      slug: 'best-reverb-plugins-2026' },
+	'reverb':     { label: 'Best Free Reverb Plugins 2026', slug: 'best-free-reverb-vst-plugins' },
 	'synth':      { label: 'Best Synth Plugins 2026',       slug: 'best-synth-plugins-2026' },
 	'mixing':     { label: 'Best Mixing Plugins 2026',      slug: 'best-mixing-plugins-2026' },
 	'hip-hop':    { label: 'Best Hip-Hop Sample Packs',     slug: 'best-sample-packs-hip-hop-2026' },
@@ -663,7 +663,7 @@ const relatedPosts = allPosts
 						{relatedPosts.map(p => (
 							<li class="related-item">
 								<a href={`/posts/${p.id.replace(/\.mdx?$/, '')}/`} class="related-link">
-									{p.data.heroImage && <img src={p.data.heroImage} alt="" loading="lazy" width="120" height="68" class="related-thumb" />}
+									{p.data.heroImage && <img src={p.data.heroImage} alt={p.data.title} loading="lazy" width="120" height="68" class="related-thumb" />}
 									<span class="related-info">
 										<span class="related-item-title">{p.data.title}</span>
 										{p.data.dealPrice && <span class="related-price">{p.data.dealPrice}</span>}

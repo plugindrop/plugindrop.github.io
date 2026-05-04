@@ -96,7 +96,7 @@ Noiiz is a subscription-based sample platform with strong curation standards. Th
 
 **Start free:** Cymatics free packs and Looperman cover enough material to produce full tracks. Download a focused selection by genre (boom bap vs. trap) rather than accumulating everything.
 
-**Add drums first:** Drum quality determines the feel of a hip-hop track more than melodic content. The Drum Broker or MSXII for authentic drums; Cymatics for modern trap 808s.
+**Add drums first:** Drum quality determines the feel of a hip-hop track more than melodic content. The Drum Broker or MSXII for authentic drums; Cymatics for modern trap 808s. If you also need VST drum plugins to trigger your samples, our [best free drum plugins guide](/posts/best-free-drum-plugins/) covers the top options at zero cost.
 
 **Subscribe for variety:** Once you have a core library, Splice or Noiiz subscriptions let you fill gaps by BPM, key, and style without buying full packs.
 

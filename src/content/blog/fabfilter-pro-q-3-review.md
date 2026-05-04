@@ -249,7 +249,7 @@ Buy it standalone if you're building selectively, or get the Total Bundle if you
 ## Related Guides
 
 - [Best Free EQ VST Plugins 2026 (FabFilter Alternatives)](/posts/best-free-eq-vst-plugins/)
-- [FabFilter Pro-Q 3 vs iZotope Neutron: Which EQ Wins?](/posts/fabfilter-pro-q-3-vs-izotope-neutron/)
+- FabFilter Pro-Q 3 vs iZotope Neutron: Which EQ Wins?
 - [Free Alternative to FabFilter Pro-Q 3](/posts/free-alternative-to-fabfilter-pro-q/)
 - [Best EQ Plugins 2026: Top Options Ranked](/posts/best-eq-plugins-2026/)
 - [Best Mixing Plugins 2026: Full Production Suite](/posts/best-mixing-plugins-2026/)

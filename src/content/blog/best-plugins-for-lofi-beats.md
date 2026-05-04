@@ -97,7 +97,7 @@ Tape Cassette 2 focuses on cassette-format degradation: lo-fi stereo crosstalk, 
 
 ## Free Reverb & Space
 
-### Valhalla Supermassive — The Community's Unanimous Free Reverb Pick
+### Valhalla Supermassive — The Community's Unanimous Free Reverb Pick (see our [best free reverb VST plugins guide](/posts/best-free-reverb-vst-plugins/) for more options)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -132,6 +132,8 @@ TAL-Reverb-4 is a plate-style reverb from the same developer as TAL-Dub-3. Where
 ---
 
 ## Free Delay
+
+Lo-fi beats also rely on well-timed drum machine textures — if you're building rhythms from scratch, our [best free drum plugins guide](/posts/best-free-drum-plugins/) covers the top options at zero cost.
 
 ### TAL-Dub-3 — Tape Delay Built for Warmth and Movement
 

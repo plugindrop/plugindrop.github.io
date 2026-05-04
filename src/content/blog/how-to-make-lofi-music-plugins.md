@@ -90,7 +90,7 @@ What RC-20 does that a chain of free plugins cannot fully replicate is produce c
 
 Lo-fi reverb isn't about adding pristine room size — it's about adding space with imperfect acoustics: slightly colored, subtly modulated, and never clinically clean. Spring and plate reverb are common references for the sound, but the shimmer and ambient modes in modern tools work particularly well on slower lo-fi beats and lo-fi ambient music.
 
-### Valhalla Supermassive — The Best Free Reverb for Lo-Fi Production
+### Valhalla Supermassive — The Best Free Reverb for Lo-Fi Production (see our [complete free reverb guide](/posts/best-free-reverb-vst-plugins/) for more options)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -146,7 +146,7 @@ The saturation in the feedback path is the key distinguishing feature: each repe
 
 ---
 
-### Arturia Pigments 5 — A Serious Synth Engine for Lo-Fi Texture Work
+### Arturia Pigments 5 — A Serious Synth Engine for Lo-Fi Texture Work (for free synth alternatives, see our [best free synth VST plugins guide](/posts/best-free-synth-plugins/))
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/bpb0QLrwwEY" title="Arturia Pigments 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

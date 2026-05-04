@@ -45,6 +45,9 @@ This guide covers the **best EQ plugins 2026** across free and paid tiers, for p
 ## The Professional Standard
 
 ### FabFilter Pro-Q 4 — The benchmark every other EQ is measured against
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** FabFilter
 - **Price:** $179
 - **Platforms:** Windows, macOS
@@ -194,7 +197,7 @@ In 2026, the quality floor for free EQ plugins is genuinely high — TDR Nova an
 - [10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering)](/posts/best-free-eq-vst-plugins/)
 - [12 Best Free VST Plugins for Ableton Live in 2026](/posts/best-free-plugins-ableton/)
 - [15 Best Free VST Plugins for FL Studio in 2026](/posts/best-free-plugins-fl-studio/)
-- [14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analog)](/posts/best-free-synth-vst-plugins/)
+- [14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analog)](/posts/best-free-synth-plugins/)
 
 ---
 

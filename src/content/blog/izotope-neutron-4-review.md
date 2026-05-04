@@ -189,7 +189,7 @@ The upgrade pricing is generally reasonable, and the improvements in Track Assis
 - [10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering)](/posts/best-free-eq-vst-plugins/)
 - [12 Best Free VST Plugins for Ableton Live in 2026](/posts/best-free-plugins-ableton/)
 - [15 Best Free VST Plugins for FL Studio in 2026](/posts/best-free-plugins-fl-studio/)
-- [14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analog)](/posts/best-free-synth-vst-plugins/)
+- [14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analog)](/posts/best-free-synth-plugins/)
 
 ---
 

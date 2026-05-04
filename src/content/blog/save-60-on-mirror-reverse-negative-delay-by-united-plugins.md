@@ -19,6 +19,7 @@ heroImage: "/images/save-60-on-mirror-reverse-negative-delay-by-united-plugins.j
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QlNBunhrqzY" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is Mirror (Reverse Negative Delay)?
 
 Mirror is a creative delay effect plugin developed by United Plugins in collaboration with JMG Sound. It goes beyond standard delay by offering reverse delay and — its headline trick — negative delay, where the delayed signal appears *before* the dry signal, creating an eerie pre-echo or predictive effect. This kind of temporal manipulation is hard to achieve with conventional delay tools, making Mirror a distinct option for producers working in cinematic, electronic, ambient, or experimental genres. United Plugins is a Prague-based developer known for building unconventional signal processors.
@@ -104,5 +105,5 @@ A 60% discount on a plugin built around a genuinely unusual concept — negative
 ## Related Guides
 
 - [Best Free Reverb VST Plugins](/posts/best-free-reverb-vst-plugins/)
-- [Best Reverb Plugins 2026](/posts/best-reverb-plugins-music-production/)
+- [Best Reverb Plugins 2026](/posts/best-free-reverb-vst-plugins/)
 - [Best Delay VST Plugins 2026](/posts/best-delay-vst-plugins-2026/)

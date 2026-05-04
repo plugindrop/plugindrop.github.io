@@ -36,7 +36,7 @@ draft: false
 
 ## Introduction
 
-Here's the claim that most roundup articles refuse to make: MT Power Drum Kit 2 — a completely free plugin with no paid tier — has shipped on released commercial recordings. The r/WeAreTheMusicMakers community has threads going back years of producers using it on client work. If you're searching for the best free drum machine VST in 2026 expecting to settle for "good enough for demos," that framing is already outdated.
+Here's the claim that most roundup articles refuse to make: MT Power Drum Kit 2 — a completely free plugin with no paid tier — has shipped on released commercial recordings. For a broader look at drum plugins beyond machine-style beat builders — including samplers and synthesized drum instruments — see our [complete free drum plugins guide](/posts/best-free-drum-plugins/). The r/WeAreTheMusicMakers community has threads going back years of producers using it on client work. If you're searching for the best free drum machine VST in 2026 expecting to settle for "good enough for demos," that framing is already outdated.
 
 The 2026 free tier divides into two distinct categories. Acoustic drum romplers — plugins that play back multisampled real kits — have become genuinely competitive with mid-tier paid plugins. Sample-based beat machines and drum sequencers have followed the same trajectory. What remains genuinely differentiated in paid plugins is kit variety, multi-mic routing, and workflow depth — not raw audio quality.
 

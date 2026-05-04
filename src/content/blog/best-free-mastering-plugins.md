@@ -95,7 +95,7 @@ The Correlometer is a dedicated stereo phase correlation meter: a single reading
 
 ## EQ for Mastering
 
-Mastering EQ operates at smaller scales than mixing EQ — subtle shelves, gentle cuts, and dynamic adjustments measured in single dB increments. The tools below are each suited to mastering work but differ significantly in workflow.
+Mastering EQ operates at smaller scales than mixing EQ — subtle shelves, gentle cuts, and dynamic adjustments measured in single dB increments. The tools below are each suited to mastering work but differ significantly in workflow. For a full comparison of free EQ options across mixing and mastering, see our [best free EQ VST plugins guide](/posts/best-free-eq-vst-plugins/).
 
 ### TDR Nova — Dynamic EQ with full surgical precision
 

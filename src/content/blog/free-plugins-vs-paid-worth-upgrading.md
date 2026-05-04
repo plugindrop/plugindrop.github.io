@@ -15,7 +15,7 @@ score: 1.68
 ## EQ: TDR Nova (Free) vs FabFilter Pro-Q 4 (Paid)
 
 ### TDR Nova — Free
-Four dynamic EQ bands, each switchable between static and dynamic mode. High-pass and low-pass filters. Spectrum analyzer. Handles surgical EQ work and gentle dynamic correction. [Full article here](/posts/tdr-nova-free-dynamic-eq/).
+Four dynamic EQ bands, each switchable between static and dynamic mode. High-pass and low-pass filters. Spectrum analyzer. Handles surgical EQ work and gentle dynamic correction. [Full article here](/posts/best-free-eq-vst-plugins/).
 
 ### FabFilter Pro-Q 4 — $189 (often on sale)
 Up to 24 bands, per-band mid/side processing, dynamic EQ on every band, linear phase mode, spectrum grab (EQ Match), surround support, and a resizable interface. [Current deal](/posts/fabfilter-pro-q-4-spring-sale-30-off/).
@@ -35,7 +35,7 @@ Up to 24 bands, per-band mid/side processing, dynamic EQ on every band, linear p
 ## Reverb: Valhalla Supermassive (Free) vs Valhalla VintageVerb ($50)
 
 ### Valhalla Supermassive — Free
-18+ modes focused on massive reverb tails, delays, and experimental warp effects. Infinite decay. Reverb/delay hybrid. [Full breakdown](/posts/valhalla-supermassive-free-reverb-delay/).
+18+ modes focused on massive reverb tails, delays, and experimental warp effects. Infinite decay. Reverb/delay hybrid. [Full breakdown](/posts/best-free-reverb-vst-plugins/).
 
 ### Valhalla VintageVerb — $50
 Classic reverb algorithms — Concert Hall, Bright Hall, Plate, Room, Chamber, Sanctuary, and more. Modeled after hardware reverb units from the 1970s-1980s. Color control for vintage or modern character.
@@ -55,7 +55,7 @@ Classic reverb algorithms — Concert Hall, Bright Hall, Plate, Room, Chamber, S
 ## Synth: Vital (Free) vs Serum ($189)
 
 ### Vital — Free Tier
-Three wavetable oscillators, spectral warping, drag-and-drop modulation, visual interface, MPE support. 75 presets in the free tier. Full synthesis engine available at $0. [Full article](/posts/vital-free-wavetable-synth-download/).
+Three wavetable oscillators, spectral warping, drag-and-drop modulation, visual interface, MPE support. 75 presets in the free tier. Full synthesis engine available at $0. [Full article](/posts/best-free-synth-plugins/).
 
 ### Serum — $189 (or $9.99/month rent-to-own via Splice)
 Two wavetable oscillators, sub-oscillator, noise oscillator, advanced unison with multiple modes, wavetable editor with formula-based generation, and the largest third-party preset ecosystem of any soft synth.
@@ -95,7 +95,7 @@ A: Free. Learn synthesis, mixing, and effects processing with free tools first. 
 A: Not inherently. Sound quality depends on the specific plugin, not its price. Some free plugins (Vital, Supermassive) are widely regarded as competing with paid alternatives in sound quality. Paid plugins more often offer workflow advantages rather than raw sound improvements.
 
 **Q: What is the best first paid plugin purchase?**
-A: Depends on the gap in your setup. For EQ, FabFilter Pro-Q is the most common recommendation. For reverb, Valhalla VintageVerb at $50 is the best value. For synths, Serum's rent-to-own at $9.99/month via Splice makes entry easy. Check [Plugin Boutique deals](/posts/plugin-boutique-deals-guide/) for current pricing.
+A: Depends on the gap in your setup. For EQ, FabFilter Pro-Q is the most common recommendation. For reverb, Valhalla VintageVerb at $50 is the best value. For synths, Serum's rent-to-own at $9.99/month via Splice makes entry easy. Check Plugin Boutique deals for current pricing.
 
 ## The Bottom Line
 

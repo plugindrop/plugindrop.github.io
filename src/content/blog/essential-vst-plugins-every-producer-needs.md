@@ -248,6 +248,8 @@ Fresh Air uses a proprietary algorithm to add presence and air to vocals, acoust
 
 ## Sampling & Virtual Instruments
 
+Before building out your plugin rack, make sure you're running a DAW that supports third-party VSTs. If you're still exploring options, our [Best Free DAW Software 2026](/posts/best-free-daw-software-2026/) guide covers every capable free DAW worth using.
+
 ### Native Instruments Kontakt 7 — The industry-standard sampler
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/cANXrimv8C8" title="Native Instruments Kontakt 7 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

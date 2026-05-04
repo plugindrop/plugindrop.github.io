@@ -177,6 +177,8 @@ TAL-NoiseMaker covers standard virtual analog synthesis — two oscillators, fil
 
 ## Drum Production
 
+For producers who want to explore free drum options before committing to a paid sampler, our [best free drum plugins guide](/posts/best-free-drum-plugins/) covers the strongest zero-cost alternatives — including several that professional producers use on released work.
+
 ### Battery 4 — Professional Drum Programming for NI-Based Setups
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ViFO4aNrPME" title="Battery 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

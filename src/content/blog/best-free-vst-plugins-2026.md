@@ -17,7 +17,7 @@ score: 1.68
 
 ### 1. Vital
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/eLbA42iH8hg" title="Vital — First Look: Free Wavetable Synth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-Wavetable synth with drag-and-drop modulation, spectral warping, and a visual interface that rivals Serum. The free tier includes 75 presets and full synthesis capabilities. [Full breakdown here](/posts/vital-free-wavetable-synth-download/).
+Wavetable synth with drag-and-drop modulation, spectral warping, and a visual interface that rivals Serum. The free tier includes 75 presets and full synthesis capabilities. [Full breakdown here](/posts/best-free-synth-plugins/).
 
 ### 2. Surge XT
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/8wdwrr4Nrk8" title="Surge XT — Free Synth No-Talking Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -33,7 +33,7 @@ Polyphonic synth with a clean visual interface. Two oscillators, sub-oscillator,
 ## Effects
 
 ### 5. Valhalla Supermassive
-18+ reverb/delay modes from the team behind VintageVerb and Plate. Massive tails, warp effects, and near-zero CPU usage. Permanently free. [Full breakdown here](/posts/valhalla-supermassive-free-reverb-delay/).
+18+ reverb/delay modes from the team behind VintageVerb and Plate. Massive tails, warp effects, and near-zero CPU usage. Permanently free. [Full breakdown here](/posts/best-free-reverb-vst-plugins/).
 
 ### 6. Soundtoys Little Plate (When Available)
 EMT 140 plate reverb — three knobs, instant results. Soundtoys occasionally offers it free for limited periods. Worth watching for. [Check availability](/posts/soundtoys-little-plate-free-download/).
@@ -51,7 +51,7 @@ Bundle of small effect modules — distortion, chorus, delay, filter, and more. 
 
 ### 10. TDR Nova
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/puv2KnHcavI" title="TDR Nova — Free Dynamic EQ Full Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-Dynamic EQ with four bands, each switchable between static EQ and dynamic processing. Competes with paid dynamic EQs at $0. [Full breakdown](/posts/tdr-nova-free-dynamic-eq/).
+Dynamic EQ with four bands, each switchable between static EQ and dynamic processing. Competes with paid dynamic EQs at $0. [Full breakdown](/posts/best-free-eq-vst-plugins/).
 
 ### 11. OTT (Xfer Records)
 Multiband upward/downward compressor. Originally a preset in Ableton, now a standalone plugin. A staple in electronic production for punchy, loud mixes.
@@ -74,16 +74,16 @@ Free bundle including synths (Massive, Reaktor Player), sampled instruments, eff
 
 | Plugin | Category | Stands Out For |
 |---|---|---|
-| [Vital](/posts/vital-free-wavetable-synth-download/) | Synth | Wavetable synthesis rivaling Serum |
+| [Vital](/posts/best-free-synth-plugins/) | Synth | Wavetable synthesis rivaling Serum |
 | [Surge XT](/posts/surge-xt-free-open-source-synth/) | Synth | Deep open-source hybrid synthesis |
 | [Dexed](/posts/dexed-free-dx7-emulation/) | Synth | Authentic DX7 FM synthesis |
 | [Helm](https://tytel.org/helm/) | Synth | Simple, visual polyphonic synth |
-| [Valhalla Supermassive](/posts/valhalla-supermassive-free-reverb-delay/) | Reverb/Delay | 18+ modes, massive ambient tails |
+| [Valhalla Supermassive](/posts/best-free-reverb-vst-plugins/) | Reverb/Delay | 18+ modes, massive ambient tails |
 | [Little Plate](/posts/soundtoys-little-plate-free-download/) | Reverb | EMT 140 plate, 3 controls |
 | [TAL-Reverb-4](https://tal-software.com/products/tal-reverb-4) | Reverb | Vintage plate character |
 | [iZotope Vinyl](/posts/izotope-vinyl-free-lofi-plugin/) | Lo-Fi | Instant analog texture |
 | [Kilohearts Essentials](https://kilohearts.com/products/kilohearts_essentials) | Multi-FX | Modular effect chain |
-| [TDR Nova](/posts/tdr-nova-free-dynamic-eq/) | EQ | Dynamic EQ, 4 bands |
+| [TDR Nova](/posts/best-free-eq-vst-plugins/) | EQ | Dynamic EQ, 4 bands |
 | [OTT](https://xferrecords.com/freeware) | Compressor | Multiband compression standard |
 | [Analog Obsession LALA](https://www.patreon.com/analogobsession) | Compressor | LA-2A optical compression |
 | [Youlean Loudness Meter](https://youlean.co/youlean-loudness-meter/) | Metering | LUFS loudness measurement |

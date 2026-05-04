@@ -60,7 +60,7 @@ Surge XT is free and open source under the GPL-3 license. No account required. N
 | u-he Hive 2 | $149 | Lightweight, fast workflow, wavetable + VA |
 | Xfer Serum | $189 | Wavetable standard, massive preset ecosystem |
 
-Surge XT at $0 offers the broadest synthesis range of any free synth — subtractive, wavetable, FM, and more. Vital excels at visual wavetable design — see our [Vital free wavetable synth breakdown](/posts/vital-free-wavetable-synth-download/) for a direct comparison. Serum and Hive 2 are paid alternatives with different workflows and larger commercial preset markets. For a broader look at the top free synths available, see our [best free synth plugins roundup](/posts/best-free-synth-plugins/).
+Surge XT at $0 offers the broadest synthesis range of any free synth — subtractive, wavetable, FM, and more. Vital excels at visual wavetable design — see our [Vital free wavetable synth breakdown](/posts/best-free-synth-plugins/) for a direct comparison. Serum and Hive 2 are paid alternatives with different workflows and larger commercial preset markets. For a broader look at the top free synths available, see our [best free synth plugins roundup](/posts/best-free-synth-plugins/).
 
 ## FAQ
 

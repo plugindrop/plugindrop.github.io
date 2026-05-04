@@ -41,6 +41,9 @@ This guide is for music producers, podcasters, dialogue editors, and home studio
 ## What iZotope RX 11 Actually Does
 
 ### iZotope RX 11 — The Most Complete Audio Repair Suite Available
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/aa_lUrD0n9M" title="iZotope RX 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** iZotope
 - **Price:** Standard ~$399 / Advanced ~$1,199
 - **Platforms:** Windows, macOS
@@ -129,6 +132,9 @@ One honest limitation: RX is not the right tool for light, occasional use. If yo
 [→ Get iZotope RX 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
 
 ### iZotope RX Elements — The Entry Point Worth Owning
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/MhUEmvneerc" title="iZotope RX Elements — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** iZotope
 - **Price:** ~$99
 - **Why upgrade:** RX Elements is the right first step if you are new to audio repair or working within a strict budget. It includes Voice De-noise, De-clip, De-click, and a subset of the spectral editor. It lacks the AI modules and deeper repair tools of higher tiers, but it handles common everyday repair tasks competently and gets you into the RX ecosystem at a fraction of the cost.
@@ -190,7 +196,7 @@ iZotope RX 11 is not a luxury purchase — it's professional infrastructure. For
 - [10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering)](/posts/best-free-eq-vst-plugins/)
 - [12 Best Free VST Plugins for Ableton Live in 2026](/posts/best-free-plugins-ableton/)
 - [15 Best Free VST Plugins for FL Studio in 2026](/posts/best-free-plugins-fl-studio/)
-- [14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analog)](/posts/best-free-synth-vst-plugins/)
+- [14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analog)](/posts/best-free-synth-plugins/)
 
 ---
 

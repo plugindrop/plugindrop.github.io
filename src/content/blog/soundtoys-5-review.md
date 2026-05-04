@@ -246,6 +246,9 @@ Both support tempo sync while deliberately avoiding perfect quantization. That h
 ## Worth Upgrading To (Paid Options)
 
 ### Soundtoys 5 — The full bundle is the obvious move
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/NlGqjb1ncF4" title="Soundtoys 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Soundtoys
 - **Price:** $499 (regularly on sale ~$299)
 - **Why upgrade:** Buying individual Soundtoys plugins adds up fast — Decapitator and EchoBoy alone cost $398 at retail, and you still do not have Little AlterBoy, MicroShift, Crystallizer, Devil-Loc, Tremolator, FilterFreak, and fifteen others. The bundle makes economic sense the moment you want more than two or three plugins.
@@ -255,6 +258,9 @@ Both support tempo sync while deliberately avoiding perfect quantization. That h
 ---
 
 ### Soundtoys Decapitator — The best entry point into the Soundtoys world
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_3Q3U-v0pzA" title="Soundtoys Decapitator — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Soundtoys
 - **Price:** $199
 - **Why upgrade:** If the full bundle is not in your budget right now, Decapitator is the single plugin that delivers the most immediate impact. It is used on professional sessions daily, works on every source type, and immediately demonstrates what Soundtoys does better than competitors — saturation that adds character rather than just harmonic content.
@@ -317,7 +323,7 @@ For individual effects: Auburn Sounds Graillon 2 covers some vocal pitch territo
 - [10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering)](/posts/best-free-eq-vst-plugins/)
 - [12 Best Free VST Plugins for Ableton Live in 2026](/posts/best-free-plugins-ableton/)
 - [15 Best Free VST Plugins for FL Studio in 2026](/posts/best-free-plugins-fl-studio/)
-- [14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analog)](/posts/best-free-synth-vst-plugins/)
+- [14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analog)](/posts/best-free-synth-plugins/)
 
 ---
 

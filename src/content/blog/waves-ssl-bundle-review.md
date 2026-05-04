@@ -42,6 +42,9 @@ This guide is a deep-dive review of the core Waves SSL bundle: the E-Channel str
 ## The Core Waves SSL Bundle: Plugin-by-Plugin Review
 
 ### Waves SSL E-Channel — The Industry's Default Channel Strip
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ca__LGPDK2o" title="Waves SSL E-Channel — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Waves Audio
 - **Price:** ~$29–49 (Waves sale pricing; check current price at link)
 - **Platforms:** Windows, macOS
@@ -164,7 +167,7 @@ Twenty years in, the Waves SSL bundle review verdict is unchanged: these are two
 - [10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering)](/posts/best-free-eq-vst-plugins/)
 - [12 Best Free VST Plugins for Ableton Live in 2026](/posts/best-free-plugins-ableton/)
 - [15 Best Free VST Plugins for FL Studio in 2026](/posts/best-free-plugins-fl-studio/)
-- [14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analog)](/posts/best-free-synth-vst-plugins/)
+- [14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analog)](/posts/best-free-synth-plugins/)
 
 ---
 
