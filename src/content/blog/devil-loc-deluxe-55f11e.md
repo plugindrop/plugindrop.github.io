@@ -3,7 +3,7 @@ title: "Devil Loc Deluxe: Features, Pricing & Is It Worth It? (2026)"
 description: "Devil Loc Deluxe is available at Plugin Boutique. Check current pricing and reviews on the product page."
 pubDate: '2026-04-28T16:43:51Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
-affiliate: https://www.pluginboutique.com/product/2-Effects/9-Limiter/1803-Devil-Loc-Deluxe?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=devil-loc-deluxe-55f11e
+affiliate: "https://www.pluginboutique.com/product/2-Effects/9-Limiter/1803-Devil-Loc-Deluxe?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=devil-loc-deluxe-55f11e"
 heroImage: /images/devil-loc-deluxe-55f11e.jpg
 score: 7.55
 draft: false

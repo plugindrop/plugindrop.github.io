@@ -3,7 +3,7 @@ title: "KORG Collection 6: Features, Pricing & Is It Worth It? (2026)"
 description: "KORG Collection 6 is a software bundle developed directly by KORG, packaging multiple software recreations of the brand's most iconic hardware synthesizers."
 pubDate: '2026-04-22T05:20:13Z'
 tags: ["review", "bundle", "effects", "music-production"]
-affiliate: https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16094-KORG-Collection-6?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-4e0a19
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16094-KORG-Collection-6?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-4e0a19"
 heroImage: /images/korg-collection-6-4e0a19.jpg
 score: 10.00
 draft: false

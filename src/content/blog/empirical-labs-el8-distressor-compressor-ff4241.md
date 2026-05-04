@@ -3,7 +3,7 @@ title: "Empirical Labs EL8 Distressor Compressor: Features, Pricing & Is It Wort
 description: "The EL8 Distressor is a compressor with a serious hardware pedigree."
 pubDate: '2026-04-23T18:27:48Z'
 tags: ["review", "vst-plugin", "effects", "compressor", "music-production"]
-affiliate: https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241
+affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241"
 heroImage: /images/empirical-labs-el8-distressor-compressor-ff4241.jpg
 score: 8.80
 draft: false

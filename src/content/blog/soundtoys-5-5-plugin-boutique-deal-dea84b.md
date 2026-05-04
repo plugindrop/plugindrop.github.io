@@ -3,7 +3,7 @@ title: "Soundtoys 5.5 Effects Bundle: Features, Pricing & Is It Worth It? (2026)
 description: "Soundtoys 5.5 Effects Bundle is available at Plugin Boutique. Check current pricing and reviews on the product page."
 pubDate: '2026-04-19T02:32:59Z'
 tags: ["review", "vst-plugin", "effects", "music-production", "bundle"]
-affiliate: https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-5-5-plugin-boutique-deal-dea84b&a_aid=69cb95abe1763
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-5-5-plugin-boutique-deal-dea84b&a_aid=69cb95abe1763"
 heroImage: /images/soundtoys-5-5-plugin-boutique-deal-dea84b.jpg
 score: 10.00
 draft: false

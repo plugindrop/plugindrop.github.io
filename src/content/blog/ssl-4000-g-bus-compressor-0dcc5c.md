@@ -3,7 +3,7 @@ title: "SSL 4000 G Bus Compressor: Features, Pricing & Is It Worth It? (2026)"
 description: "The SSL 4000 G Bus Compressor is the official plugin recreation of the hardware bus compressor built into Solid State Logic's legendary 4000 G Series mixing."
 pubDate: '2026-04-23T23:42:46Z'
 tags: ["review", "vst-plugin", "effects", "compressor", "music-production"]
-affiliate: https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13325-SSL-4000-G-Bus-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4000-g-bus-compressor-0dcc5c
+affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13325-SSL-4000-G-Bus-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4000-g-bus-compressor-0dcc5c"
 heroImage: /images/ssl-4000-g-bus-compressor-0dcc5c.jpg
 score: 9.80
 draft: false

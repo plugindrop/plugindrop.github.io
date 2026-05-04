@@ -3,7 +3,7 @@ title: "Manley Massive Passive: Features, Pricing & Is It Worth It? (2026)"
 description: "Manley Massive Passive is a plugin emulation of Manley Laboratories' flagship hardware passive EQ, a unit that has been a fixture in high-end recording studios."
 pubDate: '2026-04-23T18:28:16Z'
 tags: ["review", "vst-plugin", "effects", "synth", "music-production"]
-affiliate: https://www.pluginboutique.com/product/2-Effects/16-EQ/11498-Manley-Massive-Passive?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=manley-massive-passive-00e930
+affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/11498-Manley-Massive-Passive?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=manley-massive-passive-00e930"
 heroImage: /images/manley-massive-passive-00e930.jpg
 score: 8.00
 draft: false

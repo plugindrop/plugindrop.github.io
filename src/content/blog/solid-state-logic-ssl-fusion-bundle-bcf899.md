@@ -3,7 +3,7 @@ title: "Solid State Logic SSL Fusion Bundle: Features, Pricing & Is It Worth It?
 description: "Solid State Logic SSL Fusion Bundle is available at Plugin Boutique. Check current pricing and reviews on the product page."
 pubDate: '2026-05-02T04:58:01Z'
 tags: ["review", "effects", "bundle", "music-production"]
-affiliate: https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/14036-Solid-State-Logic-SSL-Fusion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-state-logic-ssl-fusion-bundle-bcf899
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/14036-Solid-State-Logic-SSL-Fusion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-state-logic-ssl-fusion-bundle-bcf899"
 heroImage: /images/solid-state-logic-ssl-fusion-bundle-bcf899.jpg
 score: 10.00
 draft: false
