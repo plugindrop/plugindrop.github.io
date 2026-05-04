@@ -16,6 +16,7 @@ draft: false
 <iframe src="https://www.youtube.com/embed/RNK8LVayPec" title="8 Best Free Choir & Vocal Ensemble VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -43,6 +44,8 @@ This guide is for producers who write film scores, ambient electronic music, pos
 ## The Best Free Choir & Vocal Ensemble VST Plugins
 
 ### Spitfire LABS Choir — The Free Benchmark That Paid Libraries Are Measured Against
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/RNK8LVayPec" title="Spitfire LABS Choir — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** Free
@@ -273,7 +276,6 @@ Spitfire LABS Choir is the correct first download for any producer who wants a f
 - [10 Best Free Strings VST Plugins in 2026](/posts/best-free-strings-vst-plugins/)
 - [10 Best Free Piano VST Plugins in 2026](/posts/best-free-piano-vst/)
 - [Best Kontakt Libraries in 2026: 14 Instruments Ranked by Value](/posts/best-kontakt-libraries-2026/)
-- [ADSR Sounds vs Splice: Which Sample Subscription Is Better in 2026?](/posts/adsr-vs-splice-samples/)
 
 ---
 

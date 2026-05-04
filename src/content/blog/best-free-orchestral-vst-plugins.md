@@ -10,6 +10,7 @@ xText: "New guide: 10 Best Free Orchestral & Strings VST Plugins in 2026"
 draft: false
 ---
 
+
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/-Sm714Dlci8" title="10 Best Free Orchestral & Strings VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -232,7 +233,6 @@ The Spitfire libraries, VSCO2 CE, and the main libraries listed here are license
 - [10 Best Free Strings VST Plugins in 2026](/posts/best-free-strings-vst-plugins/)
 - [8 Best Free Choir & Vocal Ensemble VST Plugins in 2026](/posts/best-free-choir-vst-plugins/)
 - [Best Kontakt Libraries in 2026: 14 Instruments Ranked by Value](/posts/best-kontakt-libraries-2026/)
-- [ADSR Sounds vs Splice: Which Sample Subscription Is Better in 2026?](/posts/adsr-vs-splice-samples/)
 
 ---
 

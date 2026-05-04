@@ -18,6 +18,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TmvzdoEECe8" title="Xfer Serum Review 2026: Still the Best Wavetable Synth? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -42,7 +43,9 @@ This review covers everything you need to know: what Serum does, how it sounds, 
 
 ### Serum — The Wavetable Synth That Defined a Generation
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1X-RlvQiqx0" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TmvzdoEECe8" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TmvzdoEECe8" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records (Steve Duda)
 - **Price:** ~$189 (one-time purchase)
@@ -106,6 +109,8 @@ Phase Plant rewards the producer who has already learned synthesis fundamentals 
 [→ Get Phase Plant on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Phase%20Plant%20kilohearts&a_aid=69cb95abe1763)
 
 ### Vital — Best Free Serum Alternative, Expandable via Paid Tier
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -176,6 +181,5 @@ Xfer Serum in 2026 is the rare piece of software that has aged into near-univers
 
 - [14 Best Free Synth VST Plugins 2026 (Including Vital)](/posts/best-free-synth-plugins/)
 - [Serum vs Vital: Free vs Paid Wavetable Comparison](/posts/serum-vs-vital-comparison/)
-- [Is Serum Worth It in 2026? Honest Look at the Price](/posts/is-serum-worth-it/)
 - [Phase Plant vs Serum: Which Wavetable Synth Wins?](/posts/phase-plant-vs-serum/)
 - [Best Synth VST Plugins 2026: Top Options Ranked](/posts/best-synth-vst-plugins-2026/)

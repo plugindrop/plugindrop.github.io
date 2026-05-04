@@ -55,6 +55,8 @@ The weakness is equally consistent across community discussion: credits don't ro
 
 ### Splice Sounds Library Quality — Curated depth, but genre-dependent
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/x4I_vyN_tjI" title="Splice Sounds Library Quality — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Splice
 - **Price:** Included with Sounds subscription
 - **Platform:** Web, macOS, Windows, iOS
@@ -169,10 +171,6 @@ The most commonly referenced alternative in community discussions is ADSR Sounds
 ## Related Guides
 
 - [ADSR Sounds vs Splice: Which Sample Subscription Is Better in 2026?](/posts/adsr-vs-splice-samples/)
-- [Best Free Sample Packs 2026: 30+ Packs Across Every Genre](/posts/best-free-sample-packs-2026/)
-- [Best Free Lo-Fi Sample Packs in 2026](/posts/best-free-lofi-sample-packs/)
-- [Best Hip-Hop Sample Packs in 2026: Loops, Drums, and One-Shots](/posts/best-sample-packs-hip-hop-2026/)
-- [LANDR Mastering: Is the AI Worth It in 2026?](/posts/landr-mastering-worth-it-2026/)
 
 ---
 

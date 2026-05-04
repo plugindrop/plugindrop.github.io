@@ -15,6 +15,7 @@ draft: false
 <iframe src="https://www.youtube.com/embed/EjFi4KURJLM" title="8 Best Free Strings & Orchestral VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -44,6 +45,8 @@ This guide covers eight real, community-documented free strings and orchestral V
 These are the plugins producers name first when free strings come up — genuinely high-quality sample libraries from established developers, with strong community documentation behind every claim made here.
 
 ### Spitfire LABS — The Undisputed Starting Point
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/EjFi4KURJLM" title="Spitfire LABS — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** Free
@@ -266,7 +269,6 @@ This varies significantly. BBC Symphony Orchestra Discover runs into multiple gi
 - [10 Best Free Orchestral VST Plugins in 2026](/posts/best-free-orchestral-vst-plugins/)
 - [8 Best Free Choir & Vocal Ensemble VST Plugins in 2026](/posts/best-free-choir-vst-plugins/)
 - [Best Strings VST Plugins 2026: 10 Top Picks Ranked](/posts/best-strings-vst-plugins/)
-- [Best Kontakt Libraries in 2026: 14 Instruments Ranked by Value](/posts/best-kontakt-libraries-2026/)
 
 ---
 

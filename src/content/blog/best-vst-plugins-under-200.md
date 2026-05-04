@@ -17,6 +17,7 @@ draft: false
 <iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="15 Best VST Plugins Under $200 in 2026 (Professional Sound, Honest Price) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -25,7 +26,7 @@ draft: false
 | FabFilter Pro-C 2 | $179 | Transparent compression | [Official Site](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
 | Valhalla VintageVerb | $50 | Algorithmic reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
 | iZotope Neutron 4 | Varies | AI-assisted mixing suite | [Official Site](https://www.izotope.com/en/products/neutron) |
-| Arturia Pigments 4 | ~$99–$149 | Multi-engine synthesis | — |
+| Arturia Pigments 5 | ~$99–$149 | Multi-engine synthesis | — |
 | Vital | Free | Wavetable synth entry point | — |
 | TDR Nova | Free | Dynamic EQ / multiband compression | — |
 
@@ -45,6 +46,8 @@ This guide covers 15 specific plugins across synthesis, reverb, dynamics, mixing
 
 ### Serum 2 — The wavetable synth the community uses more than any other at this price
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Xfer Records
 - **Price:** $189 (perpetual license)
 - **Platforms:** Windows, macOS
@@ -58,16 +61,16 @@ r/edmproduction has consistently cited Serum as the most-used wavetable synthesi
 
 ---
 
-### Arturia Pigments 4 — Multi-engine synthesis with a modulation system that rivals semi-modular hardware
+### Arturia Pigments 5 — Multi-engine synthesis with a modulation system that rivals semi-modular hardware
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Y0rSIbJ696U" title="Arturia Pigments 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Y0rSIbJ696U" title="Arturia Pigments 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** ~$99–$149
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-KVR community threads consistently describe Pigments 4 as the choice when Serum's wavetable focus isn't enough range. It combines wavetable, virtual analog, sample-based, and harmonic (spectral/additive) synthesis engines in a single instrument — a combination r/synthesizers notes is unusual at this price point. Its visual modulation matrix and built-in function generators draw frequent comparisons to semi-modular hardware workflows from users across both forums.
+KVR community threads consistently describe Pigments 5 as the choice when Serum's wavetable focus isn't enough range. It combines wavetable, virtual analog, sample-based, and harmonic (spectral/additive) synthesis engines in a single instrument — a combination r/synthesizers notes is unusual at this price point. Its visual modulation matrix and built-in function generators draw frequent comparisons to semi-modular hardware workflows from users across both forums.
 
 **Best for:** Producers who need one instrument to span radically different synthesis styles, from clean analog-style pads to experimental spectral sound design.
 
@@ -337,7 +340,7 @@ Spitfire Audio's LABS series offers an expanding catalogue of individual sample-
 | Serum 2 | $189 | Wavetable Synth | High-res wavetables, deep modulation routing | [Get it](https://xferrecords.com/products/serum-2) |
 | FabFilter Pro-C 2 | $179 | Compressor | 8 compression styles, real-time visualization | [Get it](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
 | iZotope Neutron 4 | Varies | Mixing Suite | AI Track Assistant, 6 integrated processors | [Get it](https://www.izotope.com/en/products/neutron) |
-| Arturia Pigments 4 | ~$99–$149 | Multi-Engine Synth | 4 engines, visual modulation matrix | — |
+| Arturia Pigments 5 | ~$99–$149 | Multi-Engine Synth | 4 engines, visual modulation matrix | — |
 | Soundtoys Decapitator | ~$99–$149 | Saturation | 5 saturation modes, musical harmonic color | — |
 | Valhalla VintageVerb | $50 | Algorithmic Reverb | 17 vintage algorithms, wide spatial range | [Get it](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
 | Valhalla Room | $50 | Algorithmic Reverb | Tight rooms, clean early reflections | — |
@@ -355,7 +358,7 @@ Spitfire Audio's LABS series offers an expanding catalogue of individual sample-
 ## How to Choose
 
 - **If synthesis is your core instrument** and you make electronic music, prioritize Serum 2. Vital is a strong free alternative for evaluation, but Serum 2's preset depth and modulation ceiling are meaningfully larger for full-time synthesis work.
-- **If you need diverse sound design across synthesis styles**, Arturia Pigments 4 covers more ground than Serum 2 by combining four engine types. It's the choice when genre flexibility matters more than depth in one approach.
+- **If you need diverse sound design across synthesis styles**, Arturia Pigments 5 covers more ground than Serum 2 by combining four engine types. It's the choice when genre flexibility matters more than depth in one approach.
 - **If you mix your own tracks and find yourself guessing at EQ and compression decisions**, iZotope Neutron 4's Track Assistant is the right investment. It teaches while it processes.
 - **If you need to stop overspending on reverb**, Valhalla VintageVerb at $50 is the answer in almost every genre. Add Valhalla Supermassive (free) for ambient and cinematic work.
 - **If you're building a toolkit from zero and want to defer paid purchases**, Vital, TDR Nova, TAL-Reverb-4, Valhalla Supermassive, and Spitfire LABS form a genuinely complete starting point across synthesis, dynamics, reverb, and sampling — all at no cost.
@@ -392,10 +395,9 @@ For under $200, the highest-ROI combination a producer can make in 2026 is Serum
 ## Related Guides
 
 - [20 Best Free VST Plugins for Beginners in 2026 (Complete Starter Kit)](/posts/best-free-vst-plugins-beginners/)
-- [10 Best Free Bass Synth VST Plugins in 2026](/posts/best-free-bass-synth-vst/)
-- [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)
-- [10 Best Free Delay VST Plugins in 2026 (Tape, Digital, Multi-tap)](/posts/best-free-delay-vst-plugins/)
-- [8 Best Free Chorus & Flanger VST Plugins in 2026](/posts/best-free-chorus-flanger-vst/)
+- [Best VST Plugins Under $150 in 2026: 12 Picks That Punch Above Their Price](/posts/best-vst-plugins-under-150-dollars-2026/)
+- [FabFilter Pro-Q 4 Review: The Best EQ Plugin?](/posts/fabfilter-pro-q-4-review/)
+- [Arturia V Collection 10 Review: 40+ Vintage Synths Worth the Price?](/posts/arturia-v-collection-review/)
 
 ---
 
