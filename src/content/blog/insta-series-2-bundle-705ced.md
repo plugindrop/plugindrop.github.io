@@ -1,6 +1,6 @@
 ---
 title: "Insta Series 2 Bundle: Features, Pricing & Is It Worth It? (2026)"
-description: "The Insta Series 2 Bundle is a multi-instrument collection available exclusively through Plugin Boutique. As the name implies, the Insta Ser Find current pricing and reviews at Plugin Boutique."
+description: "The Insta Series 2 Bundle is a multi-instrument collection available exclusively through Plugin Boutique. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-25T19:06:27Z'
 tags: ["review", "bundle", "effects", "music-production"]
 affiliate: https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17166-Insta-Series-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=insta-series-2-bundle-705ced

@@ -1,6 +1,6 @@
 ---
 title: "EchoBoy: Features, Pricing & Is It Worth It? (2026)"
-description: "EchoBoy is a delay and echo plugin developed by Soundtoys. It models the character of vintage tape echo units, analog delays, and digital ec Find current pricing and reviews at Plugin Boutique."
+description: "EchoBoy is a delay and echo plugin developed by Soundtoys. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-28T13:53:39Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=echoboy-4858a0

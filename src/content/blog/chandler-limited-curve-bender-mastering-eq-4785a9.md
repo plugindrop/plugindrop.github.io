@@ -1,6 +1,6 @@
 ---
 title: "Chandler Limited Curve Bender Mastering EQ: Features, Pricing & Is It Worth It? (2026)"
-description: "Chandler Limited is a boutique analog hardware manufacturer with a reputation built on high-end studio gear — most famously their Abbey Road Find current pricing and reviews at Plugin Boutique."
+description: "Chandler Limited is a boutique analog hardware manufacturer with a reputation built on high-end studio gear — most. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:27:42Z'
 tags: ["review", "vst-plugin", "effects", "eq", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/16-EQ/5618-Chandler-Limited-Curve-Bender-Mastering-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-4785a9

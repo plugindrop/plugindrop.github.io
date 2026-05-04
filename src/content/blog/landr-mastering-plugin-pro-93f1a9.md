@@ -1,6 +1,6 @@
 ---
 title: "LANDR Mastering Plugin PRO: Features, Pricing & Is It Worth It? (2026)"
-description: "LANDR Mastering Plugin PRO is an AI-powered mastering plugin developed by LANDR, the company behind one of the most widely used cloud master Find current pricing and reviews at Plugin Boutique."
+description: "LANDR Mastering Plugin PRO is an AI-powered mastering plugin developed by LANDR, the company behind one of the most. Check current pricing at Plugin Boutique."
 pubDate: '2026-05-02T07:30:00Z'
 tags: ["review", "vst-plugin", "effects", "mastering", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/50-Mastering-/11463-LANDR-Mastering-Plugin-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=landr-mastering-plugin-pro-93f1a9

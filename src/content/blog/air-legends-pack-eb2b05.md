@@ -1,6 +1,6 @@
 ---
 title: "AIR Legends Pack: Features, Pricing & Is It Worth It? (2026)"
-description: "AIR Music Technology has a long history in the plugin world — the company originated inside Avid and was responsible for the instrument suit Find current pricing and reviews at Plugin Boutique."
+description: "AIR Legends Pack is AIR Music Technology's vintage keyboard bundle — electric pianos, organs, and acoustic pianos. Check current pricing at Plugin Boutique."
 pubDate: '2026-05-02T14:42:38Z'
 tags: ["review", "effects", "music-production"]
 affiliate: https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=air-legends-pack-eb2b05
@@ -44,7 +44,7 @@ AIR Music Technology has a long history in the plugin world — the company orig
 
 ## Current Pricing
 
-  
+AIR Music Technology bundles tend to be discounted during Plugin Boutique seasonal promotions. Verify current pricing before purchasing.
 
 *Price verified at publication. Check the link for current availability.*
 

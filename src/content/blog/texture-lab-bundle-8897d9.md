@@ -1,6 +1,6 @@
 ---
 title: "Texture Lab Bundle: Features, Pricing & Is It Worth It? (2026)"
-description: "The Texture Lab Bundle is an effects bundle available exclusively through Plugin Boutique, designed around textural and experimental audio p Find current pricing and reviews at Plugin Boutique."
+description: "The Texture Lab Bundle is an effects bundle available exclusively through Plugin Boutique, designed around textural. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-22T23:12:19Z'
 tags: ["review", "bundle", "effects", "music-production"]
 affiliate: https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17150-Texture-Lab-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=texture-lab-bundle-8897d9
