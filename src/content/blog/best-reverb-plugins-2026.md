@@ -18,6 +18,7 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OZuKRaZK86k" title="Best Reverb Plugins 2026: Free & Paid Options Compared — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -25,7 +26,7 @@ draft: true
 | Valhalla Supermassive | Free | Lush pads, ambient, modulated spaces | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | OrilRiver | Free | Realistic room/hall reverb on a budget | [Free Download](https://www.kvraudio.com/product/orilriver-by-denis-tihanov) |
 | TAL-Reverb-4 | Free | Vintage plate textures, lo-fi aesthetics | [Free Download](https://tal-software.com/products/tal-reverb-4) |
-| Valhalla VintageVerb | $50 | Classic studio hardware emulation | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
+| Valhalla VintageVerb | $50 | Classic studio hardware emulation | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
 | FabFilter Pro-R 2 | $199 | Precision mixing, mastering, full sessions | [Get It](https://www.fabfilter.com/products/pro-r-2-reverb-plug-in) |
 | Eventide Blackhole | ~$99 | Otherworldly, cinematic sound design | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 
@@ -46,6 +47,8 @@ This guide covers six plugins across the free-to-premium spectrum. Whether you'r
 The free reverb landscape has matured significantly. These three plugins aren't compromises — they're genuine tools used by working producers at every level.
 
 ### Valhalla Supermassive — The free plugin that embarrasses paid competition
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** Free
@@ -116,7 +119,7 @@ These three plugins justify their price tags with features, sound quality, or ca
 
 VintageVerb models seventeen algorithms inspired by iconic hardware units across three color modes that shape the overall tonality from vintage warmth to modern clarity. At $50, it's arguably the best value-for-money paid reverb plugin available — the Valhalla pricing philosophy has always prioritized accessibility, and it shows.
 
-[→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/)
+[→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
 
 ---
 
@@ -159,7 +162,7 @@ Film composers, sound designers, and experimental producers treat this as an ins
 | Valhalla Supermassive | Free | Algorithmic | 18 modes, deep modulation, ambient specialist | [Download Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | OrilRiver | Free | Algorithmic | 3-band tail EQ, early reflections, mixing-focused | [Download Free](https://www.kvraudio.com/product/orilriver-by-denis-tihanov) |
 | TAL-Reverb-4 | Free | Plate emulation | Warm vintage plate, minimal interface, lo-fi ready | [Download Free](https://tal-software.com/products/tal-reverb-4) |
-| Valhalla VintageVerb | $50 | Algorithmic/vintage | 17 classic algorithms, 3 color modes | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
+| Valhalla VintageVerb | $50 | Algorithmic/vintage | 17 classic algorithms, 3 color modes | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
 | FabFilter Pro-R 2 | $199 | Algorithmic | Per-frequency decay control, built-in EQ, mastering-grade | [Get It](https://www.fabfilter.com/products/pro-r-2-reverb-plug-in) |
 | Eventide Blackhole | ~$99 | Creative/hardware-based | Negative room sizes, gravity control, cinematic | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 

@@ -24,7 +24,7 @@ draft: false
 | Soundtoys Decapitator | $199 | Analog amp drive, aggressive color | [Plugin Boutique](https://www.soundtoys.com/product/decapitator/) |
 | Klanghelm SDRR | ~$20 | Budget studio saturation, 4 models | [Plugin Boutique](https://klanghelm.com/contents/products/SDRR.php) |
 | Saturation Knob | Free | One-knob parallel saturation on any track | [Free Download](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| IVGI | Free | Subtle analog console warmth | [Free Download](https://vladgsound.wordpress.com/plugins/ivgi/) |
+| IVGI | Free | Subtle analog console warmth | [Free Download](https://klanghelm.com/IVGI.php) |
 | RC-20 Retro Color | $99 | Vintage tape aesthetic on synths & samples | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=rc-20+retro+color&a_aid=69cb95abe1763) |
 | Waves J37 Tape | $29–$99 | Classic tape saturation for tracking & mixing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=waves+j37+tape&a_aid=69cb95abe1763) |
 
@@ -70,7 +70,7 @@ IVGI models the nonlinear behavior of analog mixing consoles — specifically ho
 
 **Best for:** ITB producers who want console harmonic glue without buying hardware or subscribing to anything.
 
-[→ Download IVGI Free](https://vladgsound.wordpress.com/plugins/ivgi/)
+[→ Download IVGI Free](https://klanghelm.com/IVGI.php)
 
 ---
 
@@ -111,6 +111,9 @@ Tape Cassette 2 goes beyond saturation into full tape emulation — flutter, wow
 ## Paid Saturation Plugins for Serious Work
 
 ### FabFilter Saturn 2 — The Most Precise Saturation Plugin Available
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LYwY8VTR1eE" title="FabFilter Saturn 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** FabFilter
 - **Price:** $199
 - **Platforms:** Windows, macOS
@@ -277,7 +280,7 @@ TDR Prism takes a different approach than hardware emulators — it gives you di
 | Soundtoys Decapitator | $199 | Analog Amp Saturation | 5 hardware circuit models, Punish mode | [Get It](https://www.soundtoys.com/product/decapitator/) |
 | Klanghelm SDRR | ~$20 | Tube/Tape/Transistor/Digi | 4 saturation types, exceptional value | [Get It](https://klanghelm.com/contents/products/SDRR.php) |
 | Saturation Knob | Free | Parallel Harmonic | 4 modes, near-zero CPU, single knob | [Free](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| IVGI | Free | Console Saturation | Asymmetric nonlinearity, mix control | [Free](https://vladgsound.wordpress.com/plugins/ivgi/) |
+| IVGI | Free | Console Saturation | Asymmetric nonlinearity, mix control | [Free](https://klanghelm.com/IVGI.php) |
 | Analog Obsession SATUR8 | Free | Tape Emulation | Bias control, HF sheen section | [Free](https://www.pluginboutique.com/search?search_query=analog+obsession+satur8&a_aid=69cb95abe1763) |
 | Caelum Tape Cassette 2 | Free | Lo-Fi Tape | Flutter, wow, full cassette degradation | [Free](https://www.pluginboutique.com/search?search_query=caelum+audio+tape+cassette+2&a_aid=69cb95abe1763) |
 | Waves J37 Tape | $29–$99 | Tape Machine Emulation | Abbey Road J37, flutter, noise modeling | [Get It](https://www.pluginboutique.com/search?search_query=waves+j37+tape&a_aid=69cb95abe1763) |

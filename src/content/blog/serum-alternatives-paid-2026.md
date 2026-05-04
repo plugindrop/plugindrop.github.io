@@ -25,7 +25,7 @@ draft: false
 |--------|-------|----------|--------|
 | Phase Plant | $149 | Modular routing, deep sound design | [Official Site](https://kilohearts.com/products/phase_plant) |
 | Pigments | $199 | Multi-engine versatility, visual modulation | [Official Site](https://www.arturia.com/products/software-instruments/pigments/overview) |
-| Spire | $119 | EDM, trance, fast genre production | [Official Site](https://www.reveal-sound.com/products/spire) |
+| Spire | $119 | EDM, trance, fast genre production | [Official Site](https://www.reveal-sound.com/store/product/Spire_Synthesizer_License) |
 | Serum 2 | $189 | Industry-standard preset ecosystem | [Official Site](https://xferrecords.com/products/serum-2) |
 
 ---
@@ -43,6 +43,9 @@ This article is written for producers who already understand synthesis and are m
 ## Paid Serum Alternatives Worth Your Money
 
 ### Phase Plant — the modular-architecture pick for producers who think in signal flow
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/hYf0aHswino" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Kilohearts
 - **Price:** $149 (standalone); available as part of Kilohearts Toolbox subscription
 - **Platforms:** Windows, macOS
@@ -84,6 +87,9 @@ The preset library shipped with Pigments earns consistently positive reviews acr
 ### Spire — the EDM workhorse with a decade of community validation
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/0rDowVRCubk" title="Spire — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/0rDowVRCubk" title="Spire — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Reveal Sound
 - **Price:** $119
 - **Platforms:** Windows, macOS
@@ -97,7 +103,7 @@ At $119, Spire is the lowest-priced option in this comparison and the strongest 
 
 **Best for:** EDM, trance, and progressive house producers who prioritize workflow speed and a dense, immediately usable sound character over modulation depth.
 
-[→ Get Spire](https://www.reveal-sound.com/products/spire)
+[→ Get Spire](https://www.reveal-sound.com/store/product/Spire_Synthesizer_License)
 
 ---
 
@@ -135,7 +141,7 @@ At $119, Spire is the lowest-priced option in this comparison and the strongest 
 - **Price:** $119
 - **Why upgrade:** The per-patch time investment for genre-accurate EDM sounds is lower with Spire than with any other synth in this comparison. Producers on deadline who need usable trance leads, progressive bass lines, and pad textures without starting from scratch consistently cite this speed as Spire's central value proposition.
 
-[→ Get Spire](https://www.reveal-sound.com/products/spire)
+[→ Get Spire](https://www.reveal-sound.com/store/product/Spire_Synthesizer_License)
 
 ---
 
@@ -157,7 +163,7 @@ At $119, Spire is the lowest-priced option in this comparison and the strongest 
 |--------|-------|------|------------|-----|
 | Phase Plant | $149 | Modular (wavetable, analog, sample, phase distortion) | Fully modular signal path, Snapin ecosystem, blank-canvas architecture | [Get It](https://kilohearts.com/products/phase_plant) |
 | Pigments | $199 | Multi-engine (wavetable, VA, granular, harmonic, sample) | Dual-engine patches, visual mod routing, broad genre coverage | [Get It](https://www.arturia.com/products/software-instruments/pigments/overview) |
-| Spire | $119 | Wavetable + FM + spectral | Dense EDM sound character, fast genre workflow, four multi-mode oscillators | [Get It](https://www.reveal-sound.com/products/spire) |
+| Spire | $119 | Wavetable + FM + spectral | Dense EDM sound character, fast genre workflow, four multi-mode oscillators | [Get It](https://www.reveal-sound.com/store/product/Spire_Synthesizer_License) |
 | Serum 2 | $189 | Wavetable | Industry-standard preset ecosystem, Splice integration, largest tutorial library | [Get It](https://xferrecords.com/products/serum-2) |
 
 ---
@@ -205,7 +211,7 @@ Community consensus splits by genre: Spire's factory presets are most immediatel
 
 Phase Plant is the strongest paid Serum alternative for producers who've hit the ceiling of fixed-architecture synthesis — its modular routing is a genuine capability upgrade, not a lateral substitution. Pigments is the better call when multi-engine versatility matters more than architectural freedom. Serum 2 holds the ecosystem advantage, but in 2026 that advantage only translates into a purchase recommendation if preset interoperability is an active workflow requirement rather than a theoretical comfort.
 
-[→ Get Phase Plant](https://kilohearts.com/products/phase_plant) | [→ Get Pigments](https://www.arturia.com/products/software-instruments/pigments/overview) | [→ Get Spire](https://www.reveal-sound.com/products/spire)
+[→ Get Phase Plant](https://kilohearts.com/products/phase_plant) | [→ Get Pigments](https://www.arturia.com/products/software-instruments/pigments/overview) | [→ Get Spire](https://www.reveal-sound.com/store/product/Spire_Synthesizer_License)
 
 ---
 

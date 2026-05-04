@@ -24,7 +24,7 @@ draft: false
 |--------|-------|----------|--------|
 | Klanghelm SDRR | Free | Most versatile — tube, tape, and clip modes | [Free Download](https://klanghelm.com/contents/products/SDRR.php) |
 | Saturation Knob | Free | Instant warmth on any signal | [Free Download](https://www.softube.com/plug-ins/saturation-knob) |
-| IVGI | Free | Transparent analog warmth without harshness | [Free Download](https://klanghelm.com/contents/products/IVGI/) |
+| IVGI | Free | Transparent analog warmth without harshness | [Free Download](https://klanghelm.com/IVGI.php) |
 | Tape Cassette 2 | Free | Lo-fi cassette character | [Free Download](https://www.caelumaudio.com/CaelumAudio/) |
 | Chow Tape Model | Free | Detailed reel-to-reel tape emulation | [Free Download](https://github.com/jatinchowdhury18/AnalogTapeModel) |
 | Caramel | Free | Solid saturation in MeldaProduction's free bundle | [Free Download](https://www.meldaproduction.com/) |
@@ -73,7 +73,7 @@ From the developer behind the Molot compressor — a compressor with its own str
 
 **Best for:** Subtle harmonic enhancement on sources where you want color without audible distortion — synth pads, acoustic instruments, mix bus.
 
-[→ Download IVGI Free](https://klanghelm.com/contents/products/IVGI/)
+[→ Download IVGI Free](https://klanghelm.com/IVGI.php)
 
 ---
 
@@ -251,7 +251,7 @@ Chris Johnson releases all Airwindows plugins free as part of an ongoing Patreon
 |--------|-------|------|------------|-----|
 | Klanghelm SDRR | Free | Tube / Tape / Clip | 4 modes, bias and symmetry controls | [Download](https://klanghelm.com/contents/products/SDRR.php) |
 | Saturation Knob | Free | Analog modeled | 3 frequency modes, one-knob simplicity | [Download](https://www.soundtoys.com/product/decapitator/) |
-| IVGI | Free | Tube preamp model | Transparent, low harshness, parallel blend | [Download](https://klanghelm.com/contents/products/IVGI/) |
+| IVGI | Free | Tube preamp model | Transparent, low harshness, parallel blend | [Download](https://klanghelm.com/IVGI.php) |
 | bx_saturator V2 | Free | Mid/Side saturation | Independent M/S control, professional grade | [Download](https://www.plugin-alliance.com) |
 | Tape Cassette 2 | Free | Cassette tape | Wow/flutter, lo-fi degradation | [Download](https://www.caelumaudio.com/CaelumAudio/) |
 | Chow Tape Model | Free | Reel-to-reel physical model | SONY TC-260 model, open source | [Download](https://github.com/jatinchowdhury18/AnalogTapeModel) |

@@ -79,6 +79,9 @@ LABS Soft Piano is routinely cited in r/WeAreTheMusicMakers and r/songwriting th
 ## Grand Piano VST Plugins (Paid)
 
 ### Arturia Piano V3 — historically modeled grands with strong playability
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Y1XrdvPuZIU" title="Arturia Piano V3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Arturia
 - **Price:** ~$99
 - **Platforms:** Windows, macOS
@@ -211,7 +214,7 @@ Scarbee Mark I is sample-based, built from an extensively recorded Fender Rhodes
 
 **Best for:** R&B, soul, and neo-soul producers who need a realistic vintage Rhodes without sourcing or maintaining a physical instrument.
 
-[→ Get Scarbee Mark I](https://www.native-instruments.com/en/products/komplete/keys/scarbee-mark-i/)
+[→ Get Scarbee Mark I](https://www.native-instruments.com/en/products/komplete/keys/scarbee-mark-1/)
 
 ---
 
@@ -254,6 +257,9 @@ Una Corda is NI's one-string-per-note experimental piano, developed in collabora
 ## Worth Upgrading To (Paid Options)
 
 ### Arturia Piano V3 — the clearest step up from Piano One
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Y1XrdvPuZIU" title="Arturia Piano V3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Arturia
 - **Price:** ~$99
 - **Why upgrade:** Piano One delivers one static acoustic grand character with limited pedal modeling and fixed release samples. Arturia Piano V3 delivers a full suite of historically modeled instruments — concert grands, uprights, and tack-piano treatments — with a physics engine that responds to pedaling and dynamics far more convincingly than Piano One's fixed velocity layers. Producers who use Piano One for demos consistently report that Piano V3 handles slow, expressive passages in a way that Piano One noticeably cannot.
@@ -263,6 +269,9 @@ Una Corda is NI's one-string-per-note experimental piano, developed in collabora
 ---
 
 ### Spitfire Audio Felt Piano — the step up from LABS Soft Piano
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/erfUUq-KbNU" title="Spitfire Audio Felt Piano — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Spitfire Audio
 - **Price:** ~$79
 - **Why upgrade:** LABS Soft Piano gives you one fixed tonal character with basic controls. The full Felt Piano expands to multiple microphone positions, more granular velocity layers, and additional tonal variations that give you enough palette range to score full cues rather than picking up a single atmospheric texture. Producers who use LABS Soft Piano regularly for sync and ambient work tend to find the fixed character limiting within a few months of working with it seriously.

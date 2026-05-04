@@ -43,6 +43,9 @@ In 2026, full native Apple Silicon support has made the AU plugin ecosystem clea
 ## EQ Plugins That Go Beyond Logic's Channel EQ
 
 ### FabFilter Pro-Q 4 — the industry-standard parametric EQ
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** FabFilter
 - **Price:** $179
 - **Platforms:** macOS, Windows
@@ -167,6 +170,9 @@ ValhallaDelay follows the same pricing model and quality floor as VintageVerb bu
 ### Serum — the wavetable synth that redefined the category
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Xfer Records
 - **Price:** $189
 - **Platforms:** macOS, Windows
@@ -282,7 +288,7 @@ Fresh Air is a two-control high-frequency enhancer — "Air" and "Presence" — 
 
 **Best for:** Quick high-frequency enhancement on any source without the artificiality of a boosted EQ shelf.
 
-[→ Get Fresh Air Free](https://slate.audio/free-plugins//)
+[→ Get Fresh Air Free](https://slate.audio/free-plugins/)
 
 ---
 

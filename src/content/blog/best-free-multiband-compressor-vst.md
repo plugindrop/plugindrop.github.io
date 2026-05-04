@@ -27,7 +27,7 @@ draft: false
 | MMultiband | Free | Full-featured multiband, deep customization | [Plugin Boutique](https://www.meldaproduction.com/) |
 | Waves C6 Lite | Free | Mixing, broadcast, mastering fundamentals | [Plugin Boutique](https://www.waves.com/plugins/c6-multiband-compressor) |
 | Kilohearts Multiband Compressor | Free | Clean, snap-based dynamics | [Free Download](https://kilohearts.com/products/multipass) |
-| GVST GMulti | Free | Lightweight Windows utility compression | [Free Download](https://www.gvst.co.uk/gmulti.htm) |
+| GVST GMulti | Free | Lightweight Windows utility compression | [Free Download](https://gvst.uk/gmulti.htm) |
 
 ---
 
@@ -150,7 +150,7 @@ The Windows-only limitation is a meaningful constraint in 2026 for cross-platfor
 
 **Best for:** Windows producers on constrained hardware who need a CPU-light, no-frills multiband compressor for utility compression tasks.
 
-[→ Download GVST GMulti Free](https://www.gvst.co.uk/gmulti.htm)
+[→ Download GVST GMulti Free](https://gvst.uk/gmulti.htm)
 
 ---
 
@@ -225,7 +225,7 @@ Its value in 2026 is as a utility and educational resource: quick three-band glu
 | MMultiband | Free | Multiband Compressor | Up to 6 bands, full modulation engine, A/B comparison | [Official Site](https://www.izotope.com/en/products/ozone) |
 | Waves C6 Lite | Free | Multiband Compressor | 6 bands, wideband/multiband modes, broadcast-grade | [Official Site](https://www.izotope.com/en/products/ozone) |
 | Kilohearts Multiband Comp | Free | Snap Plugin | Clean interface, Kilohearts ecosystem integration | [Download](https://kilohearts.com/products/multipass) |
-| GVST GMulti | Free | Multiband Compressor | Low CPU, Windows-only, utility compression | [Download](https://www.gvst.co.uk/gmulti.htm) |
+| GVST GMulti | Free | Multiband Compressor | Low CPU, Windows-only, utility compression | [Download](https://gvst.uk/gmulti.htm) |
 | Calf Multiband | Free | Multiband Compressor | LV2/Linux native, open source, 5 bands, active development | [Download](https://calf-studio-gear.org/) |
 | mda Multiband | Free | Multiband Compressor | Open source, 3 bands, minimal CPU, educational value | [Download](https://sourceforge.net/projects/mda-vst/) |
 | FabFilter Pro-MB | €179 | Multiband Comp/Exp | Dynamic phase mode, zero-latency algorithm, precision routing | [Get It](https://www.fabfilter.com/products/pro-mb-multiband-compressor-expander-plug-in) |

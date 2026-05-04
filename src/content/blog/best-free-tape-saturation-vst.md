@@ -181,7 +181,7 @@ The BPB Saturator offers four saturation modes — Soft, Hard, Tape, and Clip �
 - **Price:** $149
 - **Why upgrade:** The free tools in this guide handle individual aspects of tape processing well, but none combine bias wobble, harmonic saturation, vinyl noise, reverb decay, bit reduction, and stereo width in a single, musically integrated interface. RC-20 Retro Color is what r/edmproduction recommends when producers want to stop stacking four or five separate plugins to achieve one aesthetic — the parameter interaction between modules produces lo-fi results that individually stacked free plugins can't fully replicate.
 
-[→ Get RC-20 Retro Color on XLN Audio](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color)
+[→ Get RC-20 Retro Color on XLN Audio](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color)
 
 ---
 
@@ -209,7 +209,7 @@ The BPB Saturator offers four saturation modes — Soft, Hard, Tape, and Clip �
 | Caramel | Free | Multi-mode saturation | Part of MFreeEffectsBundle, multiple saturation modes | [Download](https://www.meldaproduction.com/) |
 | Saturation Knob | Free | Simple saturation | Three tonal modes, single knob, zero friction | Free — Softube |
 | BPB Saturator | Free | Multi-character saturation | Tape mode included, four distinct characters | Free — BPB |
-| RC-20 Retro Color | $149 | Multi-effect lo-fi processor | Integrated saturation + noise + wobble + reverb | [Get It](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) |
+| RC-20 Retro Color | $149 | Multi-effect lo-fi processor | Integrated saturation + noise + wobble + reverb | [Get It](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
 | Soundtoys Decapitator | $199 | Hardware-modeled saturation | 5 hardware models, Tone control, clip mode | [Get It](https://www.soundtoys.com/product/decapitator/) |
 
 ---
@@ -255,7 +255,7 @@ In physical tape modeling accuracy, the gap has narrowed significantly. The area
 
 ## Final Thoughts
 
-Chow Tape Model is the technically grounded anchor of any free tape saturation setup in 2026, and IVGI covers the analog harmonic coloring side with the same no-friction reliability. When the workflow demands a consolidated lo-fi toolkit or a broader palette of hardware-modeled tonal characters that the free tier can't match, [RC-20 Retro Color](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) is the upgrade that replaces a chain of individual free plugins with one integrated tool.
+Chow Tape Model is the technically grounded anchor of any free tape saturation setup in 2026, and IVGI covers the analog harmonic coloring side with the same no-friction reliability. When the workflow demands a consolidated lo-fi toolkit or a broader palette of hardware-modeled tonal characters that the free tier can't match, [RC-20 Retro Color](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) is the upgrade that replaces a chain of individual free plugins with one integrated tool.
 
 ---
 

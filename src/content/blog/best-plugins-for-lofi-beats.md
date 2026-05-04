@@ -27,7 +27,7 @@ draft: false
 | TAL-Dub-3 | Free | Tape delay with dub feedback | [Free Download](https://tal-software.com/products/tal-dub-x) |
 | Chow Tape Model | Free | Physics-based tape saturation | [Free Download](https://chowdsp.com/products.html) |
 | Krush by Tritik | Free | Animated bitcrushing and grit | [Free Download](https://www.tritik.com/products/krush/) |
-| RC-20 Retro Color | Paid | All-in-one lo-fi chain | [Get It](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) |
+| RC-20 Retro Color | Paid | All-in-one lo-fi chain | [Get It](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
 | iZotope RX Elements | Paid | Audio repair before degradation | [Get It](https://www.izotope.com/en/products/rx) |
 
 ---
@@ -182,7 +182,7 @@ GDegrade is a focused bit crusher and sample-rate reducer from GVST, a developer
 
 **Best for:** Windows producers wanting a lightweight, no-frills bit depth and sample rate reduction utility.
 
-[→ Download GDegrade Free](https://www.gvst.co.uk/Downloads)
+[→ Download GDegrade Free](https://gvst.uk/Downloads)
 
 ---
 
@@ -201,7 +201,7 @@ Klanghelm's reputation in mixing communities comes from their paid compressors a
 
 **Best for:** Subtle saturation on individual stems to add analog density without obvious coloring artifacts.
 
-[→ Download IVGI Free](https://klanghelm.com/contents/products/IVGI/)
+[→ Download IVGI Free](https://klanghelm.com/IVGI.php)
 
 ---
 
@@ -225,11 +225,14 @@ TAL-Chorus-LX is a recreation of the Roland Juno-60's chorus circuit, offered fr
 ## Worth Upgrading To (Paid Options)
 
 ### RC-20 Retro Color — The All-in-One Lo-Fi Chain
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/wbQgt8u-Cm4" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** XLN Audio
 - **Price:** ~$99
 - **Why upgrade:** The free stack requires chaining six or more individual tools — vinyl noise, tape wobble, reverb, bitcrushing, saturation, filtering — each with its own routing and interaction. RC-20 consolidates all of these into one interface with modules designed to interact coherently. Community consensus across Reddit and KVR is consistent: it replaces a patchwork chain with something that sounds intentionally designed rather than assembled.
 
-[→ Get RC-20 Retro Color](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color)
+[→ Get RC-20 Retro Color](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color)
 
 ---
 
@@ -256,10 +259,10 @@ TAL-Chorus-LX is a recreation of the Roland Juno-60's chorus circuit, offered fr
 | TAL-Reverb-4 | Free | Plate reverb | Vintage plate character, short-medium decay | [Download](https://tal-software.com/products/tal-reverb-4) |
 | TAL-Dub-3 | Free | Tape delay | Dub feedback, tape saturation, modulation | [Download](https://tal-software.com/products/tal-dub-x) |
 | Krush | Free | Bitcrusher | Bit + SR reduction with LFO modulation | [Download](https://www.tritik.com/products/krush/) |
-| GVST GDegrade | Free | Degrader | Lightweight bit crush and SR reduction | [Download](https://www.gvst.co.uk/Downloads) |
-| IVGI | Free | Saturation | Tube/tape warmth, subtle density | [Download](https://klanghelm.com/contents/products/IVGI/) |
+| GVST GDegrade | Free | Degrader | Lightweight bit crush and SR reduction | [Download](https://gvst.uk/Downloads) |
+| IVGI | Free | Saturation | Tube/tape warmth, subtle density | [Download](https://klanghelm.com/IVGI.php) |
 | TAL-Chorus-LX | Free | Chorus | Juno-60 circuit, organic pitch movement | [Download](https://tal-software.com/products/tal-chorus-lx) |
-| RC-20 Retro Color | ~$99 | Lo-fi all-in-one | 6 modules, cohesive degradation chain | [Get It](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) |
+| RC-20 Retro Color | ~$99 | Lo-fi all-in-one | 6 modules, cohesive degradation chain | [Get It](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
 | iZotope RX Elements | ~$99 | Audio repair | Noise reduction, spectral repair | [Get It](https://www.izotope.com/en/products/rx) |
 
 ---
@@ -297,7 +300,7 @@ Community evidence says yes. Producers release commercially distributed lo-fi ma
 
 The starting point for a lo-fi toolkit in 2026 is three downloads: iZotope Vinyl for vinyl character, Valhalla Supermassive for reverb, and TAL-Dub-3 for tape delay — each free, each backed by strong community consensus, and together covering the core textures of the genre. When you are ready to replace that chain with something built for the purpose, RC-20 Retro Color is the paid upgrade the community consistently points to.
 
-[→ Get RC-20 Retro Color](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color)
+[→ Get RC-20 Retro Color](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color)
 
 ---
 

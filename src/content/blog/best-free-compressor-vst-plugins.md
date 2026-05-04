@@ -50,6 +50,9 @@ Every plugin in this guide is genuinely free — no trials, no feature locks, no
 These are the compressors you reach for when you need dynamics control without imparting character. They're the foundation of any professional mixing template.
 
 ### TDR Kotelnikov — The gold standard in free transparent compression
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Cpokm0j1DXQ" title="TDR Kotelnikov — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Tokyo Dawn Records
 - **Price:** Free
 - **Platforms:** Windows, macOS, Linux
@@ -95,7 +98,7 @@ ReaComp is the compressor from Reaper's internal FX suite, freely available to a
 
 **Best for:** High-track-count sessions, sidechain compression, surgical utility work.
 
-[→ Download ReaComp Free](https://www.cockos.com/reaper/reaplugs.php)
+[→ Download ReaComp Free](https://www.cockos.com/reaplugs/)
 
 ---
 
@@ -207,7 +210,7 @@ GComp2 doesn't try to be anything other than a reliable, lightweight, predictabl
 
 **Best for:** Background elements, room microphones, utility compression on supporting layers.
 
-[→ Download GVST GComp2 Free](https://www.gvst.co.uk/gcomp.htm)
+[→ Download GVST GComp2 Free](https://gvst.uk/gcomp.htm)
 
 ---
 
@@ -310,13 +313,13 @@ The free tier covers most professional needs in 2026. These two paid options add
 |--------|-------|------|------------|-----|
 | TDR Kotelnikov | Free | Transparent | Mastering-grade, all platforms | [Get It](https://www.pluginboutique.com/search?search_query=TDR%20Kotelnikov%20compressor&a_aid=69cb95abe1763) |
 | TDR Feedback Compressor II | Free | Feedback topology | Vintage circuit behavior, free | [Get It](https://www.tokyodawn.net/tdr-feedback-compressor-2/) |
-| Cockos ReaComp | Free | Precision utility | Sidechain, ultralow CPU, any DAW | [Get It](https://www.cockos.com/reaper/reaplugs.php) |
+| Cockos ReaComp | Free | Precision utility | Sidechain, ultralow CPU, any DAW | [Get It](https://www.cockos.com/reaplugs/) |
 | Molot GE | Free | Vintage character | Soviet-era punch, harmonic saturation | [Get It](https://www.pluginboutique.com/search?search_query=Molot%20GE%20compressor&a_aid=69cb95abe1763) |
 | Klanghelm MJUC jr. | Free | Variable-mu | Tube warmth, program-dependent release | [Get It](https://klanghelm.com/contents/products/MJUC.php) |
 | Analog Obsession RNLA | Free | Optical | LA-style leveling, musical on vocals | [Get It](https://www.analogobsession.com/) |
 | DC1A | Free | Simple/musical | 2 controls, always correct | [Get It](https://www.pluginboutique.com/search?search_query=Klanghelm%20DC1A%20compressor&a_aid=69cb95abe1763) |
 | Density mkIII | Free | Bus compressor | 4 characters, analog glue, Windows | [Get It](https://varietyofsound.wordpress.com/) |
-| GVST GComp2 | Free | Utility | Predictable, lightweight, Windows | [Get It](https://www.gvst.co.uk/gcomp.htm) |
+| GVST GComp2 | Free | Utility | Predictable, lightweight, Windows | [Get It](https://gvst.uk/gcomp.htm) |
 | Rough Rider 3 | Free | Aggressive/drums | Built-in parallel blend, high ratio | [Get It](https://www.pluginboutique.com/search?search_query=Rough%20Rider%203&a_aid=69cb95abe1763) |
 | Limiter No6 | Free | Multi-stage | Compressor + limiter + clipper chain | [Get It](https://vladgsound.wordpress.com/plugins/limiter6/) |
 | OTT | Free | Multiband upward | EDM standard, Depth control | [Get It](https://www.pluginboutique.com/search?search_query=OTT%20Xfer%20compressor&a_aid=69cb95abe1763) |

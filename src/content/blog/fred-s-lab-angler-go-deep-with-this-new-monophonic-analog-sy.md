@@ -9,7 +9,7 @@ heroImage: /images/fred-s-lab-angler-go-deep-with-this-new-monophonic-analog-sy.
 draft: false
 score: 4.0
 ---
-**TL;DR:** Fred's Lab Angler is a new monophonic analog synthesizer designed for deep, bass-heavy sound design — now available at Thomann. Check the current street price and any active promotions directly on the [Thomann product page](https://www.thomann.de/intl/freds_lab_angler.htm?utm_source=plugindrop&utm_medium=article&utm_campaign=fred-s-lab-angler-go-deep-with-this-new-monophonic-analog-sy) before stock moves.
+**TL;DR:** Fred's Lab Angler is a new monophonic analog synthesizer designed for deep, bass-heavy sound design — now available at Thomann. Check the current street price and any active promotions directly on the Thomann product page before stock moves.
 
 ---
 
@@ -27,7 +27,7 @@ Fred's Lab is a boutique synthesizer brand known for building affordable analog 
 - **Compact Hardware Format** — Built in a desktop-friendly form factor, designed to integrate into both studio setups and live rigs.
 - **MIDI Connectivity** — Standard MIDI I/O allows integration with DAWs, sequencers, and other hardware.
 
-*For full technical specifications including oscillator count, envelope types, and system requirements, check the [official Thomann listing](https://www.thomann.de/intl/freds_lab_angler.htm?utm_source=plugindrop&utm_medium=article&utm_campaign=fred-s-lab-angler-go-deep-with-this-new-monophonic-analog-sy).*
+*For full technical specifications including oscillator count, envelope types, and system requirements, check the official Thomann listing.*
 
 ---
 
@@ -54,7 +54,7 @@ The Angler is a newer release, so large-scale community discussion is still buil
 
 Pricing on new hardware releases can shift quickly, especially around launch windows. Thomann is the confirmed retailer for the Angler — verify the current price and any active promotions directly on the product page, as deals can change without notice.
 
-[Check current pricing at Thomann](https://www.thomann.de/intl/freds_lab_angler.htm?utm_source=plugindrop&utm_medium=article&utm_campaign=fred-s-lab-angler-go-deep-with-this-new-monophonic-analog-sy)
+Check current pricing at Thomann
 
 ---
 
@@ -88,7 +88,7 @@ A: Based on its monophonic analog design and emphasis on deep tones, it is parti
 
 ## Get the Deal
 
-The Fred's Lab Angler is analog hardware built for producers who want to go deep. New releases from boutique brands like Fred's Lab don't always stay in stock at launch prices — check availability and current pricing now on [Thomann](https://www.thomann.de/intl/freds_lab_angler.htm?utm_source=plugindrop&utm_medium=article&utm_campaign=fred-s-lab-angler-go-deep-with-this-new-monophonic-analog-sy).
+The Fred's Lab Angler is analog hardware built for producers who want to go deep. New releases from boutique brands like Fred's Lab don't always stay in stock at launch prices — check availability and current pricing now on Thomann.
 
 ---
 

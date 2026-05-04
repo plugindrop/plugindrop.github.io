@@ -39,6 +39,9 @@ This guide is written for bedroom producers, home studio engineers, and anyone w
 ## Best Free Chorus VST Plugins
 
 ### TAL-Chorus-LX — The default free chorus, still undefeated
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/tbM3E2Ov3zI" title="TAL-Chorus-LX — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** TAL Software (Togu Audio Line)
 - **Price:** Free
 - **Platforms:** Windows, macOS, Linux
@@ -164,7 +167,7 @@ GVST has been publishing free VST plugins since the format's early days. GChorus
 
 **Best for:** Windows producers who want the smallest possible chorus footprint without sacrificing basic quality.
 
-[→ Download GVST GChorus Free](https://www.gvst.co.uk/gchorus.htm)
+[→ Download GVST GChorus Free](https://gvst.uk/gchorus.htm)
 
 ---
 
@@ -223,7 +226,7 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 | TAL-Flanger | Free | Flanger | Analog-modeled, simple UI, TAL quality | [Free Download](https://tal-software.com/products/tal-effects) |
 | Valhalla SuperMassive | Free | Modulation/Reverb | Ensemble/chorus modes, ambient focus | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Blue Cat's Chorus | Free | Chorus | Clean and dependable, standard controls | [Free Download](https://www.bluecataudio.com/Products/Product_Chorus/) |
-| GVST GChorus | Free | Chorus | Ultra-lightweight, Windows/VST2 only | [Free Download](https://www.gvst.co.uk/gchorus.htm) |
+| GVST GChorus | Free | Chorus | Ultra-lightweight, Windows/VST2 only | [Free Download](https://gvst.uk/gchorus.htm) |
 | AirWindows Ensemble | Free | Ensemble/Chorus | Open source, no GUI, community-respected | [Free Download](https://www.airwindows.com) |
 | Arturia Chorus DIMENSION-D | $49 | Chorus | Roland Dimension D hardware emulation | [Get It](https://www.arturia.com/products/software-effects/chorus-dimension-d/overview) |
 | Valhalla Chorus | $50 | Chorus | Modern algorithmic, studio-grade | [Get It](https://valhalladsp.com/plugins//) |

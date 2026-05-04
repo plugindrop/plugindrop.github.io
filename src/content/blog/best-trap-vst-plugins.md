@@ -27,7 +27,7 @@ draft: false
 | Nexus 4 | $149 | Ready-to-use trap preset library | [Get Nexus 4](https://www.refx.com/nexus/) |
 | Battery 4 | $99 | Professional trap drum programming | [Get Battery 4](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) |
 | Vital | Free | Full-featured free Serum alternative | [Free Download](https://vital.audio) |
-| Valhalla Supermassive | Free | Atmospheric reverb and space | [Free Download](https://valhalladsp.com/tools/supermassive) |
+| Valhalla Supermassive | Free | Atmospheric reverb and space | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | iZotope Vinyl | Free | Texture, analog character, crackle | [Free Download](https://www.izotope.com/en/products/vinyl) |
 
 ---
@@ -47,6 +47,11 @@ This guide is for producers who have moved past tutorials and want deliberate re
 The synthesis category is where most trap production spending goes — and where most waste happens. One capable wavetable engine covers 808 bass, leads, and pads. Anything beyond that is specialization, not necessity.
 
 ### Serum — The Undisputed Standard for 808 Bass and Trap Synthesis
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Xfer Records (Steve Duda)
 - **Price:** $189 one-time (subscription also available)
 - **Platforms:** Windows, macOS
@@ -221,7 +226,7 @@ KVR's community votes and producer forum threads consistently rank Valhalla Supe
 
 **Best for:** Atmospheric reverb on 808s, pads, and leads. Non-negotiable free download for any genre.
 
-[→ Download Valhalla Supermassive Free](https://valhalladsp.com/tools/supermassive)
+[→ Download Valhalla Supermassive Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
 
@@ -255,7 +260,7 @@ XLN Audio's RC-20 Retro Color combines noise, wobble, distortion, bit reduction,
 
 **Best for:** Trap beats that need analog texture and grit applied to clean digital sources.
 
-[→ Get RC-20 Retro Color](https://www.xlnaudio.com/products/xcrement/rc-20_retro_color)
+[→ Get RC-20 Retro Color](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color)
 
 ---
 
@@ -276,6 +281,9 @@ If you're running on free tools and ready to invest in one paid synth, these are
 ---
 
 ### Massive X — Worth It for Producers Who Want a Distinctive Sound
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/T4mfM73egsQ" title="Massive X — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Native Instruments
 - **Price:** $149 standalone
 - **Why upgrade:** TAL-NoiseMaker covers virtual analog basics. Massive X's spectral morphing oscillators operate in territory free synths don't reach — evolving, unusual bass and lead patches that distinguish a producer's output from generic trap templates built on standard wavetables.
@@ -294,10 +302,10 @@ If you're running on free tools and ready to invest in one paid synth, these are
 | Battery 4 | $99 | Drum Sampler | 16-pad layout, multi-layer, NI ecosystem | [Get Battery 4](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) |
 | Sylenth1 | ~$189 | Virtual Analog | Warm leads, massive third-party preset banks | [Get Sylenth1](https://www.lennardigital.com/sylenth1/) |
 | Spire | ~$99 | Hybrid Synth | FM/spectral modes, deep built-in FX chain | [Get Spire](https://www.reveal-sound.com) |
-| RC-20 Retro Color | ~$99 | FX Unit | Noise, wobble, bit crush, analog color | [Get RC-20](https://www.xlnaudio.com/products/xcrement/rc-20_retro_color) |
+| RC-20 Retro Color | ~$99 | FX Unit | Noise, wobble, bit crush, analog color | [Get RC-20](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
 | iZotope Vinyl | Free | Texture FX | Vinyl simulation, harmonic warmth | [Free Download](https://www.izotope.com/en/products/vinyl) |
 | Vital | Free | Wavetable Synth | Full-featured, modulation matrix, Serum-comparable engine | [Free Download](https://vital.audio) |
-| Valhalla Supermassive | Free | Reverb/Delay | Best free reverb, massive atmospheric tails | [Free Download](https://valhalladsp.com/tools/supermassive) |
+| Valhalla Supermassive | Free | Reverb/Delay | Best free reverb, massive atmospheric tails | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | LFO Tool | Free | Sidechain FX | Tempo-sync volume, pumping effect, from Xfer | [Free Download](https://xferrecords.com/products/lfo_tool) |
 | TAL-NoiseMaker | Free | Virtual Analog | Basic subtractive, beginner-accessible | [Free Download](https://tal-software.com/products/tal-noisemaker) |
 

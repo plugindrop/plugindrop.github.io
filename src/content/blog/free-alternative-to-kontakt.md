@@ -15,6 +15,7 @@ draft: false
 <iframe src="https://www.youtube.com/embed/sBKjKZfNtfg" title="6 Best Free Kontakt Alternatives in 2026 (Decent Sampler and Beyond) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -22,7 +23,7 @@ draft: false
 | Decent Sampler | Free | General sampling, massive free library ecosystem | [Official Site](https://www.decentsamples.com/product/decent-sampler-plugin/) |
 | sforzando | Free | SFZ format libraries, technically precise playback | [Official Site](https://www.plogue.com/products/sforzando.html) |
 | TX16Wx | Free | Full-featured, DAW-grade creative sampling | [Official Site](https://www.tx16wx.com/) |
-| HISE | Free | Building and distributing custom sampler instruments | [Official Site](https://hise.audio/) |
+| HISE | Free | Building and distributing custom sampler instruments | [Official Site](https://hise.dev/) |
 | XT Sampler | Free | Modern UI, accessible SFZ playback for beginners | [Official Site](https://www.tx16wx.com/) |
 | Grace | Free (Win only) | Lightweight, stable playback on older hardware | [Official Site](https://www.onesmallclue.com/plugin/grace/) |
 
@@ -41,6 +42,8 @@ This guide covers the six most recommended free Kontakt alternatives actively ma
 ## Free Kontakt Alternatives
 
 ### Decent Sampler — The Community's Top Pick for a Reason
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/sBKjKZfNtfg" title="Decent Sampler — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** David Hilowitz / Decent Samples
 - **Price:** Free
@@ -78,7 +81,7 @@ The trade-off is an intentionally bare-bones interface. sforzando loads SFZ file
 
 ### TX16Wx Software Sampler — Full-Featured and Consistently Underrated
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Y0LHT3J-niM" title="TX16Wx Software Sampler — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/w9xNfl1eCEY" title="TX16Wx Software Sampler — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** CWITEC
 - **Price:** Free (paid Pro version also available)
@@ -110,7 +113,7 @@ For end-users loading libraries in a production session, HISE is not the right t
 
 **Best for:** Developers and technically advanced producers building and distributing their own custom sampler instruments.
 
-[→ Get HISE](https://hise.audio/)
+[→ Get HISE](https://hise.dev/)
 
 ---
 

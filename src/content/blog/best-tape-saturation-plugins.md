@@ -20,13 +20,13 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| RC-20 Retro Color | $99 | Lo-fi, bedroom pop, multi-character | [XLN Audio](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) |
+| RC-20 Retro Color | $99 | Lo-fi, bedroom pop, multi-character | [XLN Audio](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
 | UAD Studer A800 | $299 | Studio-grade accuracy | [Plugin Boutique](https://www.uaudio.com/products/studer-a800-tape-recorder) |
 | Waves J37 Tape | $29–$149 | British vintage and Abbey Road character | [Official Site](https://www.waves.com/plugins/j37-tape) |
 | Soundtoys Decapitator | $99 | Flexible harmonic saturation | [Soundtoys](https://www.soundtoys.com/product/decapitator/) |
 | Chow Tape Model | Free | Best free tape emulation | [Free Download](https://chowdsp.com) |
 | Klanghelm SDRR | $21 | Best-value paid saturation | [Official Site](https://klanghelm.com/contents/products/SDRR.php) |
-| Slate Digital VTM | ~$149 | Drum bus glue and mixbus processing | [Official Site](https://slate.audio/vtm//) |
+| Slate Digital VTM | ~$149 | Drum bus glue and mixbus processing | [Official Site](https://slate.audio/vtm/) |
 
 ---
 
@@ -117,6 +117,9 @@ Softube positions Tape as a more transparent emulation — designed to add tape'
 These tools use tape-style saturation as one component of a broader character-shaping approach. All three are among the most-cited saturation and warmth tools across producer communities.
 
 ### RC-20 Retro Color — The lo-fi toolkit that became a genre-defining standard
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/wbQgt8u-Cm4" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** XLN Audio
 - **Price:** $99
 - **Platforms:** Windows, macOS
@@ -126,7 +129,7 @@ RC-20 Retro Color integrates modules for noise, tape wobble, distortion, space, 
 
 **Best for:** Lo-fi, bedroom pop, chillhop, and any production where vintage character is an intentional aesthetic choice rather than subtle finishing.
 
-[→ Get RC-20 Retro Color on XLN Audio](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color)
+[→ Get RC-20 Retro Color on XLN Audio](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color)
 
 ---
 
@@ -160,7 +163,7 @@ Slate Digital's Virtual Tape Machines models multiple tape configurations at dif
 
 **Best for:** Drum bus and mixbus processing, especially for producers who are already on or considering the Slate Everything Bundle.
 
-[→ Get Slate Digital VTM](https://slate.audio/vtm//)
+[→ Get Slate Digital VTM](https://slate.audio/vtm/)
 
 ---
 
@@ -229,7 +232,7 @@ Chow Tape Model is built on a published physical modeling methodology using math
 - **Price:** $99
 - **Why upgrade:** Free tape emulators like Chow Tape Model handle the saturation component well, but they don't integrate noise, wobble, reverb, and distortion in a single plugin where the modules interact coherently. If your current vintage character chain is 3–4 separate plugins, RC-20 replaces them with a more natural, hardware-like result.
 
-[→ Get RC-20 Retro Color on XLN Audio](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color)
+[→ Get RC-20 Retro Color on XLN Audio](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color)
 
 ---
 
@@ -255,7 +258,7 @@ Chow Tape Model is built on a published physical modeling methodology using math
 | Softube Tape | $49–$79 | Tape emulation | Transparent, modern-friendly, clean glue | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
 | Waves J37 Tape | $29–$149 | Tape emulation | EMI J37 model, Abbey Road vintage character | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
 | Waves KRAMER MASTER TAPE | $29–$149 | Tape emulation | Eddie Kramer collab, multiple IPS speeds, rock character | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
-| RC-20 Retro Color | $99 | Multi-character | Integrated modules, lo-fi/bedroom pop community standard | [XLN Audio](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color) |
+| RC-20 Retro Color | $99 | Multi-character | Integrated modules, lo-fi/bedroom pop community standard | [XLN Audio](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
 | Soundtoys Decapitator | $99 | Harmonic saturation | 5 saturation modes, extreme range, KVR top-tier ranking | [Soundtoys](https://www.soundtoys.com/product/decapitator/) |
 | Slate Digital VTM | ~$149 | Tape emulation | Multiple tape configs, drum/mix bus glue, bundle value | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
 | UAD Studer A800 | $299 | Tape emulation | Highest-accuracy emulation, runs Native, studio standard | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
@@ -305,7 +308,7 @@ The KVR and Gearspace communities generally consider both the J37 Tape and KRAME
 
 RC-20 Retro Color earns its position as the most recommended tape and vintage character plugin in 2026 because it solves the whole aesthetic problem — not just the saturation — in a single plugin that integration makes more than the sum of its parts. For mix engineers who need technical accuracy over character, UAD Studer A800 is the defensible reference choice. Either way, start with Chow Tape Model first: it's free, it's serious, and it will tell you exactly what you're buying before you spend a dollar.
 
-[→ Get RC-20 Retro Color on XLN Audio](https://xlnaudio.com/plugins/addictive_fx/rc-20_retro_color)
+[→ Get RC-20 Retro Color on XLN Audio](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color)
 
 ---
 

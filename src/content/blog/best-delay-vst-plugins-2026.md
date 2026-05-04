@@ -21,7 +21,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | SoundToys EchoBoy | ~$99 | All-round tape/BBD/digital | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Valhalla Delay | $50 | Clean digital + experimental | [Valhalla DSP](https://valhalladsp.com/shop/delay/valhalla-delay/) |
+| Valhalla Delay | $50 | Clean digital + experimental | [Valhalla DSP](https://valhalladsp.com/shop/delay/valhalladelay/) |
 | Waves H-Delay | Variable | Hybrid analog-digital | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | D16 Group Repeater | ~€49 | Precise tempo-synced studio delay | [D16 Group](https://d16.pl/repeater) |
 | FabFilter Timeless 3 | ~€169 | Advanced modulated delay | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
@@ -43,6 +43,9 @@ Whether you're mixing electronic music in Ableton, producing hip-hop in FL Studi
 These plugins model the behavior of tape echo machines and bucket-brigade analog circuits — the warmth, flutter, bandwidth roll-off, and saturation that make vintage delay so distinct.
 
 ### SoundToys EchoBoy — The most complete delay plugin money can buy
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CMxM4YDpWM8" title="SoundToys EchoBoy — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** SoundToys
 - **Price:** ~$99 (also available in the SoundToys 5 bundle)
 - **Platforms:** Windows, macOS
@@ -107,7 +110,7 @@ Valhalla Delay packs twelve fundamentally different delay algorithms into one in
 
 **Best for:** Producers who want a single delay plugin covering tape, digital, pitch-shift, and diffusion modes without boutique pricing.
 
-[→ Get Valhalla Delay on the official site](https://valhalladsp.com/shop/delay/valhalla-delay/)
+[→ Get Valhalla Delay on the official site](https://valhalladsp.com/shop/delay/valhalladelay/)
 
 ---
 
@@ -258,6 +261,9 @@ Palindrome is an experimental buffer-glitch and delay effect that introduces ran
 If you've been relying on free delays and want to invest in something that covers significantly more ground, these two are the smartest single upgrades available.
 
 ### SoundToys EchoBoy — The paid delay that sets the reference standard
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CMxM4YDpWM8" title="SoundToys EchoBoy — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** SoundToys
 - **Price:** ~$99
 - **Why upgrade:** Free delays cap out at one or two sonic modes; EchoBoy covers tape, BBD, digital, and studio echo modes with hardware-informed algorithm design — effectively replacing multiple specialized tools in one purchase.
@@ -274,7 +280,7 @@ If you've been relying on free delays and want to invest in something that cover
 - **Price:** $50
 - **Why upgrade:** Free alternatives like TAL-Dub-3 and FreqEcho each excel at one thing. Valhalla Delay handles twelve distinct modes — tape, digital, pitch-shifting, diffusion, Lo-Fi, and more — for a one-time $50 cost that undercuts boutique competitors by a significant margin.
 
-[→ Get Valhalla Delay on the official site](https://valhalladsp.com/shop/delay/valhalla-delay/)
+[→ Get Valhalla Delay on the official site](https://valhalladsp.com/shop/delay/valhalladelay/)
 
 ---
 
@@ -283,7 +289,7 @@ If you've been relying on free delays and want to invest in something that cover
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | SoundToys EchoBoy | ~$99 | Tape / BBD / Digital | Hardware-inspired modes, Rhythm Echo, saturation | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Valhalla Delay | $50 | Digital / Experimental | 12 algorithms, Lo-Fi and Ghost modes | [Get It](https://valhalladsp.com/shop/delay/valhalla-delay/) |
+| Valhalla Delay | $50 | Digital / Experimental | 12 algorithms, Lo-Fi and Ghost modes | [Get It](https://valhalladsp.com/shop/delay/valhalladelay/) |
 | Waves H-Delay | Variable | Hybrid Analog/Digital | HP/LP filters, LFO modulation, tempo sync | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | D16 Group Repeater | ~€49 | Digital / Studio | Per-tap filtering, tight tempo sync, stereo spread | [Get It](https://d16.pl/repeater) |
 | FabFilter Timeless 3 | ~€169 | Digital / Modulated | XY modulation system, tape mode, freeze/reverse | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |

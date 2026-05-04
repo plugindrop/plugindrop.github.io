@@ -25,7 +25,7 @@ draft: false
 | Youlean Loudness Meter 2 | Free | LUFS & True Peak metering | [Free Download](https://youlean.co/youlean-loudness-meter/) |
 | SPAN (Voxengo) | Free | Real-time spectrum analysis | [Free Download](https://www.voxengo.com/product/span/) |
 | TDR Nova | Free | Dynamic EQ for mastering | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
-| Limiter 6 GE | Free | Multi-stage brickwall limiting | [Free Download](https://www.tb-software.com/TBProAudio/lim6ge.html) |
+| Limiter 6 GE | Free | Multi-stage brickwall limiting | [Free Download](https://tbproaudio.de/lim6ge.html) |
 | TDR VOS SlickEQ | Free | Analog-voiced mastering EQ | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | LoudMax | Free | Simple transparent brickwall | [Free Download](https://loudmax.blogspot.com/) |
 | TDR Kotelnikov | Free | Transparent mastering compression | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
@@ -43,6 +43,9 @@ This guide covers 10 free mastering plugins across the three categories that mat
 Accurate metering is the prerequisite for every other mastering decision. Streaming platforms use loudness normalization at specific LUFS targets, and a master submitted outside those parameters will sound quieter or dynamically squashed relative to everything around it.
 
 ### Youlean Loudness Meter 2 — The community standard for streaming-compliant loudness metering
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/XMKQeLHYutw" title="Youlean Loudness Meter 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Youlean
 - **Price:** Free (Pro version available)
 - **Platforms:** Windows, macOS
@@ -75,7 +78,7 @@ SPAN is a real-time FFT spectrum analyzer that Voxengo has kept free across its 
 
 ### Voxengo Correlometer — Phase correlation in a micro-plugin
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/Iaz3WhLp4uk" title="Voxengo Correlometer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/zvk3vtlTKbk" title="Voxengo Correlometer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Voxengo
 - **Price:** Free
@@ -162,7 +165,7 @@ Limiter 6 GE chains high-frequency limiting, RMS compression, peak clipping, a b
 
 **Best for:** Full multi-stage mastering limiting with True Peak compliance for streaming delivery
 
-[→ Download Limiter 6 GE Free](https://www.tb-software.com/TBProAudio/lim6ge.html)
+[→ Download Limiter 6 GE Free](https://tbproaudio.de/lim6ge.html)
 
 ---
 
@@ -213,7 +216,7 @@ IVGI is a harmonic saturation plugin modeled on the soft-knee saturation behavio
 
 **Best for:** Subtle analog warmth and harmonic density as a finishing layer on the master bus
 
-[→ Download Klanghelm IVGI Free](https://klanghelm.com/contents/products/IVGI/)
+[→ Download Klanghelm IVGI Free](https://klanghelm.com/IVGI.php)
 
 ---
 
@@ -255,10 +258,10 @@ The free toolkit above covers a complete mastering chain. These two paid tools b
 | TDR Nova | Free | Dynamic EQ | Parallel dynamic bands, de-essing | [Download](https://www.tokyodawn.net/tdr-nova/) |
 | TDR VOS SlickEQ | Free | Mastering EQ | Analog-voiced, saturation stage | [Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | Voxengo Marvel GEQ | Free | Graphic EQ | 16-band linear phase, M/S | [Download](https://www.voxengo.com/product/marvelgeq/) |
-| Limiter 6 GE | Free | Limiter | Multi-stage chain, True Peak | [Download](https://www.tb-software.com/TBProAudio/lim6ge.html) |
+| Limiter 6 GE | Free | Limiter | Multi-stage chain, True Peak | [Download](https://tbproaudio.de/lim6ge.html) |
 | LoudMax | Free | Limiter | 2-control transparent brickwall | [Download](https://loudmax.blogspot.com/) |
 | TDR Kotelnikov | Free | Compressor | Program-dependent, mastering-tuned | [Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
-| Klanghelm IVGI | Free | Saturation | Harmonic warmth, soft-knee | [Download](https://klanghelm.com/contents/products/IVGI/) |
+| Klanghelm IVGI | Free | Saturation | Harmonic warmth, soft-knee | [Download](https://klanghelm.com/IVGI.php) |
 | iZotope Ozone 12 | From $49 | Suite | AI mastering, integrated workflow | [Get It](https://www.izotope.com/en/products/ozone) |
 | FabFilter Pro-L 2 | $199 | Limiter | 8 algorithms, True Peak, pro delivery | [Get It](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) |
 

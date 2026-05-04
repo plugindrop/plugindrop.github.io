@@ -28,7 +28,7 @@ draft: false
 | Steven Slate Drums 5 Free | Free | Studio Acoustic Drums | [Free Download](https://stevenslatedrums.com/ssd5/) |
 | Sitala | Free | Beat Making & Custom Samples | [Free Download](https://decomposer.de/sitala/) |
 | Spitfire LABS | Free | Lo-Fi & Vintage Character | [Free Download](https://labs.spitfireaudio.com/) |
-| GetGood Drums One | Free | Metal & Heavy Rock | [Free Download](https://www.getgooddrums.com/) |
+| GetGood Drums One | Free | Metal & Heavy Rock | [Free Download](https://ggd.co/) |
 | Drumatic 4 | Free | Electronic & Synth Drums | [Free Download](https://www.e-phonic.com/) |
 | Drum Pro | Free | Hip-Hop & Trap | [Free Download](https://www.studiolinked.com/) |
 
@@ -49,6 +49,9 @@ This guide covers ten free drum VST plugins organized by use case: live acoustic
 These plugins are built around recorded real kits. Use them when your production needs acoustic realism — a live-band context, a natural drum feel, or sounds that respond like a drummer played them.
 
 ### MT Power Drum Kit 2 — The Community's Default Recommendation
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/1mnt7CoAfkk" title="MT Power Drum Kit 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Tentakelman
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -109,7 +112,7 @@ GetGood Drums One is the free entry point to the GGD library, delivering a singl
 
 **Best for:** Metal, djent, and hard rock producers who need drums that survive under heavily distorted guitars and dense low-end without sounding thin.
 
-[→ Download GetGood Drums One Free](https://www.getgooddrums.com/)
+[→ Download GetGood Drums One Free](https://ggd.co/)
 
 ---
 
@@ -256,7 +259,7 @@ If you've worked through the free tier and hit consistent friction — inflexibl
 | MT Power Drum Kit 2 | Free | Acoustic Rompler | Groove library, mixer, rock/metal/jazz | [Download](https://www.powerdrumkit.com/) |
 | Steven Slate Drums 5 Free | Free | Acoustic Rompler | SSD5 engine, iLok required, no demo limits | [Download](https://stevenslatedrums.com/ssd5/) |
 | Spitfire LABS | Free | Acoustic / Textured | Vintage Drum Room, tape-saturated samples | [Download](https://labs.spitfireaudio.com/) |
-| GetGood Drums One | Free | Acoustic Rompler | Articulate heavy music kit, GGD player | [Download](https://www.getgooddrums.com/) |
+| GetGood Drums One | Free | Acoustic Rompler | Articulate heavy music kit, GGD player | [Download](https://ggd.co/) |
 | Sitala | Free | Drum Sampler | 16-pad, drag-and-drop, custom WAV loading | [Download](https://decomposer.de/sitala/) |
 | Drum Pro | Free | Beat Machine | Hip-hop/trap sounds, grid layout | [Download](https://www.studiolinked.com/) |
 | BPB Cassette Drums | Free | Lo-Fi Beat Machine | Cassette-recorded samples, baked degradation | [Download](https://www.bedroomproducersblog.com/) |

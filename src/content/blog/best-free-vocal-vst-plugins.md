@@ -28,7 +28,7 @@ draft: false
 | TAL-Reverb-4 | Free | Warm vintage plate reverb | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL-Reverb-4&a_aid=69cb95abe1763) |
 | Wider (Polyverse) | Free | Mono-safe stereo widening | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Wider%20Polyverse%20stereo%20widener&a_aid=69cb95abe1763) |
 | Valhalla Supermassive | Free | Large ambient reverb and delay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Klanghelm MJUC jr | Free | Vintage vari-mu tube compression | [Free Download](https://klanghelm.com/contents/products/MJUCjr/) |
+| Klanghelm MJUC jr | Free | Vintage vari-mu tube compression | [Free Download](https://klanghelm.com/MJUCjr.php) |
 
 ---
 
@@ -63,6 +63,9 @@ MAutoPitch handles both natural-sounding correction and hard, locked T-Pain-styl
 ---
 
 ### Graillon 2 — Pitch Shifting and Robotic Vocal Effects Done Right
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Q5z549pi0G8" title="Graillon 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Auburn Sounds
 - **Price:** Free (Pro tier available)
 - **Platforms:** Windows, macOS
@@ -110,7 +113,7 @@ MJUC jr is a stripped-down version of Klanghelm's acclaimed MJUC vari-mu compres
 
 **Best for:** Adding vintage warmth and transparent glue to lead vocal tracks.
 
-[→ Download MJUC jr Free](https://klanghelm.com/contents/products/MJUCjr/)
+[→ Download MJUC jr Free](https://klanghelm.com/MJUCjr.php)
 
 ---
 
@@ -135,7 +138,7 @@ TDR Nova is a parallel dynamic EQ where each band can respond dynamically to inc
 
 ### Techivation T-De-Esser Plus — Purpose-Built Sibilance Control
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ima6Cjm4HUw" title="Techivation T-De-Esser Plus — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EnD9seFQ1_A" title="Techivation T-De-Esser Plus — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Techivation
 - **Price:** Free
@@ -305,7 +308,7 @@ Chow Tape Model is a physically modeled tape machine simulation that adds harmon
 | MAutoPitch | Free | Pitch Correction | Transparent, low latency, key/scale detection | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=MAutoPitch%20MeldaProduction&a_aid=69cb95abe1763) |
 | Graillon 2 | Free | Pitch Effects | Pitch shifting, bit crusher, ring modulation | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Graillon%202%20Auburn%20Sounds&a_aid=69cb95abe1763) |
 | Analog Obsession CHANNELSTRIP | Free | Channel Strip | HPF + EQ + compressor, analog warmth | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Analog%20Obsession%20CHANNELSTRIP&a_aid=69cb95abe1763) |
-| Klanghelm MJUC jr | Free | Compressor | Vintage vari-mu character, tube warmth | [Developer Site](https://klanghelm.com/contents/products/MJUCjr/) |
+| Klanghelm MJUC jr | Free | Compressor | Vintage vari-mu character, tube warmth | [Developer Site](https://klanghelm.com/MJUCjr.php) |
 | TDR Nova | Free | Dynamic EQ | Per-band dynamics, de-essing, transparent | [Developer Site](https://www.tokyodawn.net/tdr-nova/) |
 | Techivation T-De-Esser Plus | Free | De-esser | Focused sibilance detection, visual feedback | [Developer Site](https://techivation.com/t-de-esser-plus/) |
 | TDR SlickEQ | Free | EQ | 3-band with analog saturation mode | [Developer Site](https://www.tokyodawn.net/tdr-vos-slickeq/) |

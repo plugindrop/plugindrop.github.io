@@ -88,7 +88,7 @@ Free bundle including synths (Massive, Reaktor Player), sampled instruments, eff
 | [Analog Obsession LALA](https://www.patreon.com/analogobsession) | Compressor | LA-2A optical compression |
 | [Youlean Loudness Meter](https://youlean.co/youlean-loudness-meter/) | Metering | LUFS loudness measurement |
 | [Spitfire LABS](/posts/spitfire-labs-free-sample-library/) | Instruments | 80+ sampled instruments |
-| [Komplete Start](https://www.native-instruments.com/en/specials/komplete/start/) | Bundle | 2,000+ sounds, multiple plugins |
+| [Komplete Start](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/) | Bundle | 2,000+ sounds, multiple plugins |
 
 ## FAQ
 

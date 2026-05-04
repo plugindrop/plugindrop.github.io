@@ -48,6 +48,9 @@ This guide covers 10 of the best free delay VST plugins available in 2026, organ
 Tape delays are the most character-rich format in the delay world. Physical tape machines introduced wow (slow pitch drift), flutter (rapid instability), saturation, and high-frequency roll-off — all imperfections that make a delay sound like part of the room rather than a technical process. These two free options cover the tape spectrum from authentic dub warmth to physics-based open-source emulation.
 
 ### TAL-Dub-3 — The gold standard for free tape delay
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CdvgWcUMeSs" title="TAL-Dub-3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** TAL Software
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -167,6 +170,9 @@ The workflow is direct: send your dry signal to Graillon 2, shift the pitch by a
 ---
 
 ### MFreeformAnalyzer — Visual frequency feedback for delay chain optimization
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/sW7gfyQX_LM" title="MFreeformAnalyzer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** MeldaProduction
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -194,7 +200,7 @@ The free picks above handle the majority of production scenarios. But when speci
 - **Price:** $50
 - **Why upgrade:** Valhalla Supermassive covers spatial delay beautifully, but Valhalla Delay adds Tape, HiFi, Ghost, Pitch, Pitch Tape, and Ratio modes — each with dedicated tone-shaping, diffusion, and feedback controls that go significantly beyond the free tier. For producers who need one plugin covering all format types at professional quality, $50 for Valhalla Delay is the most efficient spend in the delay category.
 
-[→ Get Valhalla Delay](https://valhalladsp.com/shop/delay/valhalla-delay/)
+[→ Get Valhalla Delay](https://valhalladsp.com/shop/delay/valhalladelay/)
 
 ---
 
@@ -233,7 +239,7 @@ The free picks above handle the majority of production scenarios. But when speci
 | Valhalla Supermassive | Free | Reverb-delay hybrid | Self-oscillating modes, pitch shifting | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | Graillon 2 | Free | Pitch-delay utility | Harmonized echoes, pitch shifting | [Download](https://www.auburnsounds.com/products/Graillon.html) |
 | MFreeformAnalyzer | Free | Spectrum analyzer | Visual delay chain feedback | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Valhalla Delay | $50 | Multi-format delay | Tape/HiFi/Ghost/Pitch/Ratio modes | [Buy](https://valhalladsp.com/shop/delay/valhalla-delay/) |
+| Valhalla Delay | $50 | Multi-format delay | Tape/HiFi/Ghost/Pitch/Ratio modes | [Buy](https://valhalladsp.com/shop/delay/valhalladelay/) |
 | Waves H-Delay | ~$29 | Hybrid tape-digital | Analog warmth, BPM sync, Waves reliability | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | SoundToys EchoBoy | $199 | Hardware emulation | Space Echo, Echoplex, Echorec modeling | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 

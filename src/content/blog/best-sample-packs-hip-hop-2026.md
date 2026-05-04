@@ -64,3 +64,63 @@ NI's Maschine Expansions for hip-hop (including "Blanket Bass," "Cloud Supply," 
 Expansions typically run $50–$100; frequently included in Native Access bundle deals.
 
 ### 7. Producergrind — Full Construction Kits
+
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/qq8aJar55rA" title="450 FREE Hip Hop Samples Construction Kit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+
+**Best for: Ready-made hip-hop construction kits with stems**
+
+Producergrind offers construction kits that include full stems — separate tracks for drums, bass, melody, and effects — all royalty-free. For producers learning arrangement or needing a fast starting point, construction kits remove the blank-page problem. Their hip-hop catalog ranges from boom bap to modern lo-fi and drill.
+
+Multiple free starter packs are available with email signup. Premium packs range from $15–$40.
+
+### 8. Noiiz — Subscription Library with Quality Curation
+
+**Best for: Curated hip-hop content at subscription pricing**
+
+Noiiz is a subscription-based sample platform with strong curation standards. Their hip-hop content is organized by subgenre, key, and BPM with high-quality tagging that makes finding samples fast. The library is smaller than Splice but has a higher average quality standard. Subscription starts at $10/month; all downloads are royalty-free.
+
+## Comparison Table
+
+| Source | Format | Price | Best For | Free Option |
+|---|---|---|---|---|
+| Splice Sounds | Individual samples | ~$8/mo | Massive variety | No (trial only) |
+| MSXII Sound | Drum kits/loops | $15–$30/pack | Boom bap / vinyl | Occasional free packs |
+| Looperman | Loops | Free | All-purpose | Yes — fully free |
+| Cymatics | Full packs | Free + $20–$40 | Modern trap | Yes |
+| The Drum Broker | Drum kits | $20–$50/kit | Authentic vintage | No |
+| NI Expansions | Maschine packs | $50–$100 | Maschine users | No |
+| Producergrind | Construction kits | Free + $15–$40 | Learning / fast starts | Yes |
+| Noiiz | Individual samples | ~$10/mo | Curated library | No |
+
+## How to Build a Hip-Hop Sample Library
+
+**Start free:** Cymatics free packs and Looperman cover enough material to produce full tracks. Download a focused selection by genre (boom bap vs. trap) rather than accumulating everything.
+
+**Add drums first:** Drum quality determines the feel of a hip-hop track more than melodic content. The Drum Broker or MSXII for authentic drums; Cymatics for modern trap 808s.
+
+**Subscribe for variety:** Once you have a core library, Splice or Noiiz subscriptions let you fill gaps by BPM, key, and style without buying full packs.
+
+**Use construction kits to learn:** Producergrind's construction kits let you hear how professional producers structure arrangements — useful for learning even if you don't use the sounds directly.
+
+## FAQ
+
+**Q: Are royalty-free sample packs actually safe to use in commercial releases?**
+A: Yes, when purchased from reputable sources (Splice, Cymatics, The Drum Broker, etc.). The royalty-free license covers commercial releases. Always read the specific license terms — some packs prohibit sample flipping or resale in sample packs.
+
+**Q: Can I flip samples from Looperman in my releases?**
+A: Looperman's default license allows commercial use in finished tracks. Check individual loop licenses — some uploaders set different terms. The platform clearly labels each loop's license type.
+
+**Q: What's the difference between a drum kit and a construction kit?**
+A: A drum kit contains individual one-shot samples (kicks, snares, hats) and short loops. A construction kit contains full stems — separate audio tracks for every element of a complete beat, organized so you can remix or study the arrangement.
+
+## Find Sample Pack Deals
+
+Browse current discounts on Splice, Cymatics, Native Instruments, and more at PluginDrop.
+
+[Check Sample Pack Deals on PluginDrop →](https://plugindrop.net/)
+
+## Related Guides
+
+- [15 Best VST Plugins for Hip-Hop Production in 2026 — Ranked](/posts/best-vst-plugins-hip-hop/)
+- [Best Free Sample Packs 2026: 30+ Packs Across Every Genre](/posts/best-free-sample-packs-2026/)
+- [Splice Review 2026: Is It Worth the Monthly Fee?](/posts/splice-review-2026/)

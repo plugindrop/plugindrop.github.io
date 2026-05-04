@@ -16,6 +16,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OZuKRaZK86k" title="15 Best Free Reverb VST Plugins in 2026 (Free & Paid Options) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -23,9 +24,9 @@ draft: false
 | Valhalla Supermassive | Free | Ambient, modulated, cinematic reverb | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Reverb-4 | Free | Lush plate reverb for vocals & synths | [Free Download](https://tal-software.com/products/tal-reverb-4) |
 | Dragonfly Reverb | Free | Realistic room and hall sounds | [Free Download](https://michaelwillis.github.io/dragonfly-reverb/) |
-| OldSkoolVerb | Free | Vintage drum and snare reverb | [Free Download](https://www.meldaproduction.com/MOldSkoolVerb) |
+| OldSkoolVerb | Free | Vintage drum and snare reverb | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |
 | Convology XT | Free | Convolution / IR-based reverb | [Free Download](https://www.impulserecord.com/convology-xt/) |
-| Valhalla VintageVerb | $50 | Hardware-modeled studio reverb | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
+| Valhalla VintageVerb | $50 | Hardware-modeled studio reverb | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
 | FabFilter Pro-R 2 | $199 | Mastering-grade reverb | [Get It](https://www.fabfilter.com/products/pro-r-2-reverb-plug-in) |
 | Eventide SP2016 | ~$99 | Legendary hardware emulation | [Get It](https://www.eventideaudio.com/plug-ins/sp2016-reverb/) |
 
@@ -42,6 +43,8 @@ This guide covers the five best free reverb VST plugins available right now, tes
 ## The Best Free Reverb VST Plugins in 2026
 
 ### Valhalla Supermassive — The undisputed king of free reverb
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** Free
@@ -111,7 +114,7 @@ The controls are simple and clearly mapped: Size, Pre-delay, Decay, Damping, and
 
 **Best for:** Snare reverb, drum room, gated reverb textures, 80s and 90s production aesthetics.
 
-[→ Download OldSkoolVerb Free](https://www.meldaproduction.com/MOldSkoolVerb)
+[→ Download OldSkoolVerb Free](https://www.meldaproduction.com/MFreeFXBundle)
 
 ---
 
@@ -148,7 +151,7 @@ The free plugins above are production-ready. These three paid options are for pr
 - **Formats:** VST2, VST3, AU, AAX
 - **Why upgrade:** Supermassive is optimized for massive ambience and modulation. VintageVerb gives you 18 algorithms modeled on specific hardware units — AMS, Lexicon, EMT plate, and others — with precise control over diffusion, bass crossover, and high-frequency decay that matters on individual tracks in a dense mix. It's what professional mixing engineers reach for when Supermassive is too large and too modulated for a production context.
 
-[→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/)
+[→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
 
 ---
 
@@ -187,9 +190,9 @@ The free plugins above are production-ready. These three paid options are for pr
 | Valhalla Supermassive | Free | Algorithmic | 24 modes, modulation engine, massive decay | [Download Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Reverb-4 | Free | Plate | Warm, modulated, fast workflow | [Download Free](https://tal-software.com/products/tal-reverb-4) |
 | Dragonfly Reverb | Free | Algorithmic (x4) | Room, Hall, Plate, Early Reflections | [Download Free](https://michaelwillis.github.io/dragonfly-reverb/) |
-| OldSkoolVerb | Free | Algorithmic (vintage) | Classic hardware character, drum-focused | [Download Free](https://www.meldaproduction.com/MOldSkoolVerb) |
+| OldSkoolVerb | Free | Algorithmic (vintage) | Classic hardware character, drum-focused | [Download Free](https://www.meldaproduction.com/MFreeFXBundle) |
 | Convology XT | Free | Convolution | 70 IRs, custom IR import, acoustic realism | [Download Free](https://www.impulserecord.com/convology-xt/) |
-| Valhalla VintageVerb | $50 | Algorithmic | 18 hardware-modeled algorithms | [Buy](https://valhalladsp.com/shop/reverb/valhalla-vintageverb/) |
+| Valhalla VintageVerb | $50 | Algorithmic | 18 hardware-modeled algorithms | [Buy](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
 | FabFilter Pro-R 2 | $199 | Algorithmic | Frequency-dependent decay, mastering-grade | [Buy](https://www.fabfilter.com/products/pro-r-2-reverb-plug-in) |
 | Eventide SP2016 | ~$99 | Algorithmic | Legendary SP2016 hardware emulation | [Buy](https://www.eventideaudio.com/plug-ins/sp2016-reverb/) |
 

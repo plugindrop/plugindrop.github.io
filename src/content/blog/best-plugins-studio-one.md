@@ -27,7 +27,7 @@ draft: false
 | iZotope Neutron 4 | From $149 | AI-assisted mixing | [Official Site](https://www.izotope.com/en/products/neutron) |
 | TDR Nova | Free | Dynamics EQ on zero budget | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Valhalla Supermassive | Free | Lush ambient reverb & delay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Slate Digital Fresh Air | Free | Instant high-freq enhancement | [Free Download](https://slate.audio/free-plugins//) |
+| Slate Digital Fresh Air | Free | Instant high-freq enhancement | [Free Download](https://slate.audio/free-plugins/) |
 
 ## Introduction
 
@@ -42,6 +42,9 @@ This guide covers 12 third-party plugins with the strongest community endorsemen
 ## EQ & Dynamics
 
 ### FabFilter Pro-Q 4 — the benchmark dynamic EQ that every serious mixer eventually owns
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** FabFilter
 - **Price:** $179
 - **Platforms:** Windows, macOS
@@ -130,6 +133,9 @@ Valhalla documents Supermassive as using a modulated feedback delay network arch
 ### Serum — the community-standard wavetable synthesizer
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Xfer Records
 - **Price:** $189 one-time (rental-to-own also available via Splice)
 - **Platforms:** Windows, macOS
@@ -211,7 +217,7 @@ Slate Digital documents Fresh Air as a transient and high-frequency enhancement 
 
 **Best for:** Adding instant air and presence to any channel that sounds flat or buried in the mix.
 
-[→ Download Slate Digital Fresh Air Free](https://slate.audio/free-plugins//)
+[→ Download Slate Digital Fresh Air Free](https://slate.audio/free-plugins/)
 
 ---
 
@@ -288,7 +294,7 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 | Arturia Pigments 5 | ~$99–$199 | Hybrid Synth | 5 oscillator types, deep arpeggiator/sequencer | [Get it](https://www.arturia.com) |
 | u-he Tyrell N6 | Free | Analog Synth | Subtractive architecture, u-he filter quality | [Download](https://u-he.com) |
 | iZotope Ozone 12 | From ~$49 | Mastering | Master Assistant, full mastering chain in one plugin | [Get it](https://www.izotope.com/en/products/ozone) |
-| Slate Digital Fresh Air | Free | Enhancer | Two-control high-freq enhancement, zero setup | [Download](https://slate.audio/free-plugins//) |
+| Slate Digital Fresh Air | Free | Enhancer | Two-control high-freq enhancement, zero setup | [Download](https://slate.audio/free-plugins/) |
 | Soundtoys 5 | $499 bundle | Creative FX | 20+ plugins, EchoBoy, Decapitator, Little AlterBoy | [Get it](https://www.soundtoys.com) |
 | Kilohearts Snap Heap | Free/Paid | Modular FX | Snapin modular chain, macro control across effects | [Get it](https://kilohearts.com) |
 

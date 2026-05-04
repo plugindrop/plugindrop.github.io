@@ -112,7 +112,7 @@ Helm is the predecessor to Vital — a subtractive and FM hybrid synthesizer tha
 
 ### Phase Plant — The Most Flexible Synth Under $100
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ySDZJHWyqZA" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** $99
@@ -181,6 +181,11 @@ Hive 2 was designed by u-he as a streamlined complement to their more CPU-intens
 ## Premium Synthesizers ($150+) — Industry Standards
 
 ### Serum — The EDM World's Default Instrument
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Xfer Records (Steve Duda)
 - **Price:** $189
 - **Platforms:** Windows, macOS
@@ -275,7 +280,7 @@ Zebra 2 is a "wireless modular" synthesizer — a cable-free visual patchbay cov
 
 **Best for:** Sound designers, film composers, and experimental producers who need maximum synthesis depth and a timeless, extensively battle-tested engine.
 
-[→ Get u-he Zebra 2](https://u-he.com/products/zebra2/)
+[→ Get u-he Zebra 2](https://u-he.com/products/zebra-legacy/)
 
 ---
 
@@ -349,7 +354,7 @@ Omnisphere 2 is less a synthesizer and more a sound universe. It ships with over
 | Arturia Pigments 5 | $99 | Multi-engine | 4 simultaneous engines, visual modulation | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | u-he Hive 2 | $149 | Analog/wavetable | Fast workflow, u-he filter quality | [Get It](https://u-he.com/products/hive/) |
 | Massive X | $149 | Phase modulation/FM | Deep mod routing, NI integration | [Get It](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) |
-| u-he Zebra 2 | $149 | Wireless modular | Spectral/FM/wavetable, film-proven | [Get It](https://u-he.com/products/zebra2/) |
+| u-he Zebra 2 | $149 | Wireless modular | Spectral/FM/wavetable, film-proven | [Get It](https://u-he.com/products/zebra-legacy/) |
 | u-he Diva | $179 | Analog circuit simulation | Vintage accuracy, Minimoog/Juno/Jupiter models | [Get It](https://u-he.com/products/diva/) |
 | Serum | $189 | Wavetable | Largest preset ecosystem, wavetable editor | [Get It](https://xferrecords.com/products/serum) |
 | Sylenth1 | $189 | Virtual analog | Supersaw benchmark, trance staple | [Get It](https://www.lennardigital.com/sylenth1/) |

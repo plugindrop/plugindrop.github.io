@@ -21,7 +21,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Komplete Select | Free–$49 | First-time NI users, hardware owners | [Official Site](https://www.native-instruments.com/en/products/komplete/bundles/komplete-15-select/) |
-| Komplete 15 Standard | ~$199–$299 (sale) | All-around bedroom producer | [Official Site](https://www.native-instruments.com/en/products/komplete/bundles/komplete-15/) |
+| Komplete 15 Standard | ~$199–$299 (sale) | All-around bedroom producer | [Official Site](https://www.native-instruments.com/en/products/komplete/bundles/komplete-15-standard/) |
 | Komplete 15 Ultimate | ~$399–$599 (sale) | Film, TV, and game audio composers | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/13187-KOMPLETE-15-Ultimate?a_aid=69cb95abe1763) |
 | Komplete 15 Collector's Edition | ~$999+ (sale) | Professional sound designers | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/13184-KOMPLETE-15-Collector-s-Edition?a_aid=69cb95abe1763) |
 | Arturia V Collection 11 | ~$299–$499 (sale) | Synthesis-first producers | [Official Site](https://www.arturia.com/products/software-instruments/v-collection/overview) |
@@ -43,6 +43,9 @@ This guide breaks down every Komplete tier honestly, compares it against Arturia
 Komplete is not a single product — it's a tiered bundle that scales from a lightweight starter kit to one of the largest instrument collections available to any producer. Matching your tier to your actual workflow is the central question.
 
 ### Komplete Select — The No-Risk Entry Point
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ftJS9zSS6RM" title="Komplete Select — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Native Instruments
 - **Price:** Free with qualifying NI hardware; available as a low-cost standalone entry bundle
 - **Platforms:** Windows, macOS
@@ -59,6 +62,9 @@ Community consensus on Select, consistent across r/edmproduction and NI's own us
 ---
 
 ### Komplete 15 Standard — The Practical Sweet Spot
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ftJS9zSS6RM" title="Komplete 15 Standard — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Native Instruments
 - **Price:** ~$199–$299 (on sale); higher at full price
 - **Platforms:** Windows, macOS
@@ -72,7 +78,7 @@ The counterargument from the community is real: FM8 and Absynth 5, both included
 
 **Best for:** Producers who need full Kontakt access combined with a capable synth and effects suite.
 
-[→ Get Komplete 15 Standard](https://www.native-instruments.com/en/products/komplete/bundles/komplete-15/)
+[→ Get Komplete 15 Standard](https://www.native-instruments.com/en/products/komplete/bundles/komplete-15-standard/)
 
 ---
 
@@ -98,6 +104,9 @@ The per-plugin value at Ultimate's typical sale pricing is documented extensivel
 ---
 
 ### Komplete 15 Collector's Edition — The Full Catalog
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ftJS9zSS6RM" title="Komplete 15 Collector's Edition — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Native Instruments
 - **Price:** ~$999+ (on sale); $1,599+ at full price
 - **Platforms:** Windows, macOS
@@ -116,6 +125,9 @@ Producer forums are broadly aligned that the Collector's Edition targets profess
 ## Worth Upgrading To (Paid Options)
 
 ### Native Instruments Komplete — The Ecosystem Commitment
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ftJS9zSS6RM" title="Native Instruments Komplete — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Native Instruments
 - **Price:** From ~$199 (Standard on sale) to $1,599+ (Collector's Edition)
 - **Why upgrade:** Komplete Select's Player-locked Kontakt libraries block access to the full third-party sample ecosystem. Upgrading to any paid tier with full Kontakt unlocks thousands of independently developed libraries — a compounding access investment that Select simply cannot replicate. The upgrade pricing NI offers to existing Select owners frequently makes the math even more favorable than a new purchase.

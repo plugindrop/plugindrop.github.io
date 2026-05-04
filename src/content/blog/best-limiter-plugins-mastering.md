@@ -24,7 +24,7 @@ draft: false
 |--------|-------|----------|--------|
 | FabFilter Pro-L 2 | ~$199 | Transparent mastering, all genres | [Official Site](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) |
 | iZotope Ozone Maximizer | Included in Ozone (~$249+) | AI-assisted loudness maximizing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Limiter 6 GE | ~$49 | Multi-stage limiting on a tight budget | [Official Site](https://www.tb-software.com/TBProAudio/lim6ge.html) |
+| Limiter 6 GE | ~$49 | Multi-stage limiting on a tight budget | [Official Site](https://tbproaudio.de/lim6ge.html) |
 | W1 Limiter | Free | Zero-cost brickwall, beginners | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | Youlean Loudness Meter 2 | Free | LUFS targeting alongside any limiter | [Free Download](https://youlean.co/youlean-loudness-meter/) |
 
@@ -93,7 +93,7 @@ Limiter 6 GE packs a true peak limiter, RMS compressor, high-frequency limiter, 
 
 **Best for:** Engineers who want multi-stage limiting capability on a strict budget, or anyone building a serious mastering chain for the first time.
 
-[→ Get Limiter 6 GE](https://www.tb-software.com/TBProAudio/lim6ge.html)
+[→ Get Limiter 6 GE](https://tbproaudio.de/lim6ge.html)
 
 [Watch Demo on YouTube →](https://www.youtube.com/watch?v=I4DPPsQAU2A)
 
@@ -118,7 +118,7 @@ Voxengo Elephant has been a reliable mastering room staple for well over a decad
 
 ### AOM Invisible Limiter G2 — Maximum transparency for acoustic and orchestral work
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EuoZCNH3oc4" title="AOM Invisible Limiter G2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/8WiWLk9ueYY" title="AOM Invisible Limiter G2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** AOM (Audio Osaka Mastering)
 - **Price:** ~$79
@@ -137,7 +137,7 @@ The Invisible Limiter G2 prioritizes transparency above all else. Its algorithm 
 
 ### Waves L2 Ultramaximizer — The plugin that defined brickwall limiting
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/hAbJYhrGF3U" title="Waves L2 Ultramaximizer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lniV4mrGt0Y" title="Waves L2 Ultramaximizer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves Audio
 - **Price:** Variable (~$29–$99 depending on current Waves sales)
@@ -174,6 +174,9 @@ The Ozone Maximizer module's Intelligent Maximizer uses signal analysis to recom
 ## Premium: The Best Mastering Limiters You Can Buy
 
 ### FabFilter Pro-L 2 — The benchmark, and it still earns it
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/oMJeWXtJODc" title="FabFilter Pro-L 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** FabFilter
 - **Price:** ~$199
 - **Platforms:** Windows, macOS
@@ -255,7 +258,7 @@ The Sonnox Oxford Limiter V3 is a purpose-built tool for scenarios that demand s
 |--------|-------|------|------------|-----|
 | W1 Limiter | Free | Brickwall | Clean, minimal, L1-modeled | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | Youlean Loudness Meter 2 | Free | Metering | LUFS, true peak, streaming presets | [Get It](https://youlean.co/youlean-loudness-meter/) |
-| Limiter 6 GE | ~$49 | Multi-stage | 5-stage chain, true peak, ISP clipper | [Get It](https://www.tb-software.com/TBProAudio/lim6ge.html) |
+| Limiter 6 GE | ~$49 | Multi-stage | 5-stage chain, true peak, ISP clipper | [Get It](https://tbproaudio.de/lim6ge.html) |
 | Voxengo Elephant | ~$49 | Mastering | Multi-mode, built-in dithering | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | AOM Invisible Limiter G2 | ~$79 | Transparent | Acoustic focus, minimal artifacts | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | Waves L2 Ultramaximizer | ~$29–$99 | Classic brickwall | IDR dithering, era-defining character | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
