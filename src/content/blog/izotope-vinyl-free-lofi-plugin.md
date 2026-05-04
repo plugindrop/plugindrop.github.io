@@ -80,3 +80,8 @@ A: No. Vinyl is free-only. For more comprehensive lo-fi processing, iZotope's pa
 The original free lo-fi plugin. Over 20 years of service. Still free. Still relevant.
 
 [Get iZotope Vinyl — FREE](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/7091-Vinyl?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-vinyl-free-lofi-plugin)
+
+## Related Guides
+- [Best Tape Saturation Plugins](/posts/best-tape-saturation-plugins/)
+- [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)
+- [Best Free Plugins for Ableton Live](/posts/best-free-plugins-ableton/)

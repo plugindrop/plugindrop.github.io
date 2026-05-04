@@ -81,3 +81,8 @@ A: Yes. Surge XT has an active development community on GitHub with regular upda
 A synth that covers subtractive, wavetable, and FM — with 1000+ presets and a full FX section. Free. Open source. No strings.
 
 [Get Surge XT — FREE](https://surge-synthesizer.github.io/)
+
+## Related Guides
+- [Best Free Synth Plugins of 2026](/posts/best-free-synth-plugins/)
+- [Vital Synthesizer Review 2026](/posts/vital-synthesizer-review-2026/)
+- [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)

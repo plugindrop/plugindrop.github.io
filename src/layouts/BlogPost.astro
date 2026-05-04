@@ -9,7 +9,7 @@ import { SITE_TITLE } from '../consts';
 
 type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?: string; slug?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, score, allTimeLow, readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, score, allTimeLow, evergreen, readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
 const imageStr = typeof heroImage === 'string' ? heroImage : undefined;
 
 // Check if sale has expired
@@ -385,6 +385,24 @@ const relatedPosts = allPosts
 				padding: 0.2rem 0.45rem;
 				vertical-align: middle;
 			}
+			/* Verified badge */
+			.verified-badge {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.4rem;
+				background: #f0fdf4;
+				color: #166534;
+				border: 1px solid #bbf7d0;
+				border-radius: 6px;
+				padding: 0.3rem 0.75rem;
+				font-size: 0.875rem;
+				font-weight: 500;
+				margin-bottom: 1.5rem;
+			}
+			.verified-badge a {
+				color: #166534;
+				text-decoration: underline;
+			}
 			/* Best guide callout */
 			.best-guide-box {
 				margin: 1.5rem 0;
@@ -568,6 +586,11 @@ const relatedPosts = allPosts
 					<!-- Article Header -->
 					<div class="article-header">
 						<h1>{title}</h1>
+						{evergreen && (
+							<p class="verified-badge">
+								✓ Tested in our studio setup — <a href="/about/">See our gear</a>
+							</p>
+						)}
 						<div class="meta">
 							<span class="date">
 								<FormattedDate date={pubDate} />

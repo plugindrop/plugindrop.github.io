@@ -81,3 +81,8 @@ A: Check the official Soundtoys product page for the latest format and OS compat
 $99 reverb. Free right now. Permanent license. Limited time.
 
 [Get Little Plate — FREE](https://www.pluginboutique.com/product/2-Effects/17-Reverb/4715-Little-Plate?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-little-plate-free-download)
+
+## Related Guides
+- [Best Free Reverb VST Plugins](/posts/best-free-reverb-vst-plugins/)
+- [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)
+- [Best Free Plugins for Ableton Live](/posts/best-free-plugins-ableton/)

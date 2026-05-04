@@ -80,3 +80,8 @@ A: LABS runs as a standalone app or VST/AU plugin. Check Spitfire's site for cur
 80+ professional instruments from one of the top sample library companies. Free. Always.
 
 [Get Spitfire LABS — FREE](https://labs.spitfireaudio.com/)
+
+## Related Guides
+- [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)
+- [Best Free Choir VST Plugins in 2026](/posts/best-free-choir-vst-plugins/)
+- [Best Free Plugins for Ableton Live](/posts/best-free-plugins-ableton/)

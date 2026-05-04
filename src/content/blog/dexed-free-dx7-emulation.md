@@ -84,3 +84,8 @@ A: Yes. Dexed is actively maintained on GitHub with community contributions.
 The DX7 defined a decade of music. Dexed brings that engine to your DAW. Free. Open source. No limits.
 
 [Get Dexed — FREE](https://asb2m10.github.io/dexed/)
+
+## Related Guides
+- [Best Free Synth Plugins of 2026](/posts/best-free-synth-plugins/)
+- [Vital Synthesizer Review 2026](/posts/vital-synthesizer-review-2026/)
+- [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)
