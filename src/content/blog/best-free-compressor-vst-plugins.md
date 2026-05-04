@@ -98,7 +98,7 @@ ReaComp is the compressor from Reaper's internal FX suite, freely available to a
 
 **Best for:** High-track-count sessions, sidechain compression, surgical utility work.
 
-[→ Download ReaComp Free](https://www.cockos.com/reaplugs/)
+[→ Download ReaComp Free](https://www.cockos.com/reaper/reaplugs/)
 
 ---
 
@@ -313,7 +313,7 @@ The free tier covers most professional needs in 2026. These two paid options add
 |--------|-------|------|------------|-----|
 | TDR Kotelnikov | Free | Transparent | Mastering-grade, all platforms | [Get It](https://www.pluginboutique.com/search?search_query=TDR%20Kotelnikov%20compressor&a_aid=69cb95abe1763) |
 | TDR Feedback Compressor II | Free | Feedback topology | Vintage circuit behavior, free | [Get It](https://www.tokyodawn.net/tdr-feedback-compressor-2/) |
-| Cockos ReaComp | Free | Precision utility | Sidechain, ultralow CPU, any DAW | [Get It](https://www.cockos.com/reaplugs/) |
+| Cockos ReaComp | Free | Precision utility | Sidechain, ultralow CPU, any DAW | [Get It](https://www.cockos.com/reaper/reaplugs/) |
 | Molot GE | Free | Vintage character | Soviet-era punch, harmonic saturation | [Get It](https://www.pluginboutique.com/search?search_query=Molot%20GE%20compressor&a_aid=69cb95abe1763) |
 | Klanghelm MJUC jr. | Free | Variable-mu | Tube warmth, program-dependent release | [Get It](https://klanghelm.com/contents/products/MJUC.php) |
 | Analog Obsession RNLA | Free | Optical | LA-style leveling, musical on vocals | [Get It](https://www.analogobsession.com/) |
