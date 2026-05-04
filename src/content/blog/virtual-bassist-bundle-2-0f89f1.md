@@ -52,7 +52,6 @@ UJAM's Virtual Bassist line has built a consistent reputation in production comm
 
 Verify current pricing on the product page, as deals can change without notice.
 
-
 *Price verified at publication. Check the link for current availability.*
 
 [→ Get Virtual Bassist Bundle 2 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-bassist-bundle-2-0f89f1)

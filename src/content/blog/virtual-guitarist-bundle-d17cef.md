@@ -44,7 +44,6 @@ The Virtual Guitarist series has a well-established reputation in producer commu
 
 Verify current pricing on the product page, as deals can change without notice.
 
-
 [→ Get the Virtual Guitarist Bundle for $99 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11881-Virtual-Guitarist-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-guitarist-bundle-d17cef)
 
 ## Alternatives at a Glance

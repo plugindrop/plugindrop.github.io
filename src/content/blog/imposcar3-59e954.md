@@ -91,7 +91,6 @@ A: Yes — unlike the original OSCar hardware, the software version supports pol
 
 Verify current pricing on the product page, as deals can change without notice.
 
-
 [→ Get impOSCar3 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/12272-impOSCar3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=imposcar3-59e954)
 
 ---

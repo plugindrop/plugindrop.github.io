@@ -54,7 +54,6 @@ Soundtoys has been a go-to name in mixing and production discussions for well ov
 
 Verify current pricing on the product page, as deals can change without notice.
 
-
 Verify current pricing on the product page — deals can change.
 
 [Check current pricing and buy at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/6343-Soundtoys-Effect-Rack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-effect-rack-f99acc)

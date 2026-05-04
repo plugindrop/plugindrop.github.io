@@ -52,7 +52,6 @@ The Manley Massive Passive hardware is widely regarded as a reference-grade mast
 
 Verify current pricing on the product page, as deals can change without notice.
 
-
 Verify current pricing on the product page — deals can change.
 
 [→ Get Manley Massive Passive for $49 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/11498-Manley-Massive-Passive?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=manley-massive-passive-00e930)
@@ -89,8 +88,7 @@ A: This appears to be a promotional sale price. Verify current pricing on the Pl
 
 ## Where to Buy
 
-$100 off a Manley hardware emulation is not an everyday occurrence. At $49, this is the kind of price that makes classic studio gear accessible to a much wider range of producers.
-
+$100 off a Manley hardware emulation is not an everyday occurrence. 
 [→ pluginboutique.com/product/2-Effects/16-EQ/11498-Manley-Massive-Passive?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=manley-massive-passive-00e930)
 
 ---

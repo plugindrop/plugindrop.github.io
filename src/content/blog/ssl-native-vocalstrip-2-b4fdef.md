@@ -53,7 +53,6 @@ SSL carries serious weight in mixing communities. The Native plugin lineup is fr
 
 Verify current pricing on the product page, as deals can change without notice.
 
-
 [Check current price and grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/8662-SSL-Native-Vocalstrip-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-vocalstrip-2-b4fdef)
 
 ---
@@ -89,7 +88,6 @@ A: Refund and compatibility policies vary — check Plugin Boutique's terms and 
 ## Where to Buy
 
 Verify current pricing on the product page, as deals can change without notice.
-
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/8662-SSL-Native-Vocalstrip-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-vocalstrip-2-b4fdef)
 

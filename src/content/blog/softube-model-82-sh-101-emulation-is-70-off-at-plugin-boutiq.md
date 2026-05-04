@@ -53,7 +53,6 @@ The SH-101 occupies a near-mythic status in electronic music history, so any qua
 
 Verify current pricing on the product page, as deals can change without notice.
 
-
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763)
 
 ---
@@ -89,7 +88,6 @@ A: Check the official product page for current macOS and Windows compatibility d
 ## Where to Buy
 
 Verify current pricing on the product page, as deals can change without notice.
-
 
 [pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763)
 

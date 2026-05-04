@@ -53,7 +53,6 @@ Addictive Drums 2 has been a consistent recommendation across mixing and product
 
 Verify current pricing on the product page, as deals can change without notice.
 
-
 [Check the deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xxl-collection-35d796)
 
 ---

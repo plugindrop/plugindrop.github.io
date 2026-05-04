@@ -83,8 +83,7 @@ A: Refund eligibility for digital software varies; check Plugin Boutique's terms
 
 ## Where to Buy
 
-$81.00 off a dedicated referencing tool doesn't happen often in this category. At $51.00, HEARS Perfection is priced where the decision becomes a lot easier for producers who've been putting off adding a proper referencing step to their workflow.
-
+$81.00 off a dedicated referencing tool doesn't happen often in this category. 
 [pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088)
 
 ---

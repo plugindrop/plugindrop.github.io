@@ -51,7 +51,6 @@ The ATR-102 has built a steady reputation in mastering and mixing communities ov
 
 Verify current pricing on the product page, as deals can change without notice.
 
-
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee)
 
 ---
@@ -86,8 +85,7 @@ A: Plugin Boutique and Universal Audio occasionally offer trial options — chec
 
 ## Where to Buy
 
-$150 in savings on a mastering-grade tape emulation with UAD-level heritage behind it doesn't happen constantly. At $49, it's priced well within range for an upgrade to a dedicated mastering chain.
-
+$150 in savings on a mastering-grade tape emulation with UAD-level heritage behind it doesn't happen constantly. 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee)
 
 ---

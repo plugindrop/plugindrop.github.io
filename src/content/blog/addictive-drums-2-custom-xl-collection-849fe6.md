@@ -73,8 +73,6 @@ A: The MIDI patterns can be dragged into your DAW and played back on other instr
 
 ## Where to Buy
 
-**$143.60 off** a complete drum production toolkit is the kind of sale worth acting on rather than bookmarking. At $215.40, the Custom XL Collection is well below its usual ask.
-
 [Get Addictive Drums 2 Custom XL Collection at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xl-collection-849fe6)
 
 ---

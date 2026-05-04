@@ -21,8 +21,7 @@ converted: true
 
 The EL8 Distressor is a compressor with a serious hardware pedigree. Designed by Dave Derr at Empirical Labs, the original hardware unit became a fixture in professional recording studios for its ability to go from clean, transparent compression all the way to aggressively saturated, tape-style crush — all in one box. This plugin is the official software version from Empirical Labs themselves, meaning it's built by the people who know the circuit inside out.
 
-Empirical Labs doesn't flood the market with plugins. When they release software, it's a deliberate model of hardware they've spent decades perfecting. At full price, $199 already reflects that heritage. At $49, the entry point drops significantly.
-
+Empirical Labs doesn't flood the market with plugins. When they release software, it's a deliberate model of hardware they've spent decades perfecting. At full price, $199 already reflects that heritage. 
 ---
 
 ## Key Features
@@ -87,7 +86,7 @@ A: This is the official first-party plugin from Empirical Labs — not a third-p
 
 ## Where to Buy
 
-$150 off an official plugin from the designers of one of the most respected hardware compressors in studio history. At $49, this is the Distressor's lowest accessible price point — [pick it up at Plugin Boutique before the deal ends.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241)
+$150 off an official plugin from the designers of one of the most respected hardware compressors in studio history. ](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241)
 
 ---
 

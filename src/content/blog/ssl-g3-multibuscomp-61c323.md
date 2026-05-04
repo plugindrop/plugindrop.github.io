@@ -90,7 +90,6 @@ A: License terms including machine activation limits are set by SSL; the product
 
 Verify current pricing on the product page, as deals can change without notice.
 
-
 [→ Get SSL G3 MultiBusComp at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323)
 
 ---

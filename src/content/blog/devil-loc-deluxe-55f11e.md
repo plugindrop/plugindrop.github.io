@@ -50,8 +50,7 @@ Soundtoys has a strong standing in production communities. On forums like Gearsp
 
 ## Current Pricing
 
-Soundtoys plugins don't follow a predictable high-frequency sale cycle. Deep discounts on individual Soundtoys titles are less common than broad bundle promotions, making a standalone 61% reduction on Devil Loc Deluxe a notable price point. At $39.00, the entry cost is significantly lower than the full catalog pricing Soundtoys typically maintains.
-
+Soundtoys plugins don't follow a predictable high-frequency sale cycle. Deep discounts on individual Soundtoys titles are less common than broad bundle promotions, making a standalone 61% reduction on Devil Loc Deluxe a notable price point. 
 *Price verified at publication. Check the link for current availability.*
 
 [→ Get Devil Loc Deluxe at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/1803-Devil-Loc-Deluxe?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=devil-loc-deluxe-55f11e)
@@ -89,7 +88,6 @@ A: Yes — Soundtoys offers a free version of Devil Loc with a subset of feature
 ## Where to Buy
 
 Verify current pricing on the product page, as deals can change without notice.
-
 
 [→ Get Devil Loc Deluxe at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/1803-Devil-Loc-Deluxe?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=devil-loc-deluxe-55f11e)
 
