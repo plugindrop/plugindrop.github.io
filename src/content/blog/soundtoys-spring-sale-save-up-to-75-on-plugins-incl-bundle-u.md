@@ -1,6 +1,6 @@
 ---
 title: "Little Alterboy: Features, Pricing & Is It Worth It? (2026)"
-description: "Little AlterBoy is a vocal pitch and formant processing plugin developed by Soundtoys. It's built specifically for vocal transformation — sh Find current pricing and reviews at Plugin Boutique."
+description: "Little AlterBoy is a vocal pitch and formant processing plugin developed by Soundtoys."
 pubDate: '2026-04-14T11:06:16Z'
 tags: ["review", "soundtoys", "music-production", "bundle"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u&a_aid=69cb95abe1763

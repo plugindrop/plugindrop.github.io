@@ -1,6 +1,6 @@
 ---
 title: "smart bundle: Features, Pricing & Is It Worth It? (2026)"
-description: "The smart:bundle is a six-plugin collection from Austrian DSP developer Sonible, built around a single design principle: content-aware proce Find current pricing and reviews at Plugin Boutique."
+description: "smart bundle is available at Plugin Boutique. Check current pricing and reviews on the product page."
 pubDate: '2026-05-01T16:18:23Z'
 tags: ["review", "effects", "bundle", "music-production"]
 affiliate: https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa

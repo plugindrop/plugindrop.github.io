@@ -1,6 +1,6 @@
 ---
 title: "SSL Native Vocalstrip 2: Features, Pricing & Is It Worth It? (2026)"
-description: "SSL Native Vocalstrip 2 is a dedicated vocal processing plugin from Solid State Logic — the British console manufacturer behind some of the  Find current pricing and reviews at Plugin Boutique."
+description: "SSL Native Vocalstrip 2 is a dedicated vocal processing plugin from Solid State Logic — the British console manufacturer behind some of the most iconic mixing."
 pubDate: '2026-04-21T04:58:05Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/8662-SSL-Native-Vocalstrip-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-vocalstrip-2-b4fdef

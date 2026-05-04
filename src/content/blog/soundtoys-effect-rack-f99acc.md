@@ -1,6 +1,6 @@
 ---
 title: "Soundtoys Effect Rack: Features, Pricing & Is It Worth It? (2026)"
-description: "Soundtoys Effect Rack is the complete bundle from Soundtoys, a plugin developer with a long track record in professional studios. The bundle Find current pricing and reviews at Plugin Boutique."
+description: "Soundtoys Effect Rack is the complete bundle from Soundtoys, a plugin developer with a long track record in professional studios."
 pubDate: '2026-04-23T18:27:33Z'
 tags: ["review", "effects", "music-production"]
 affiliate: https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/6343-Soundtoys-Effect-Rack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-effect-rack-f99acc

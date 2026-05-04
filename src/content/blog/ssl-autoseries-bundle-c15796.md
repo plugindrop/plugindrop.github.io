@@ -1,6 +1,6 @@
 ---
 title: "SSL autoSeries Bundle: Features, Pricing & Is It Worth It? (2026)"
-description: "Solid State Logic is one of the most recognized names in professional audio — their mixing consoles have been the backbone of major label st Find current pricing and reviews at Plugin Boutique."
+description: "SSL autoSeries Bundle is available at Plugin Boutique. Check current pricing and reviews on the product page."
 pubDate: '2026-05-01T16:18:25Z'
 tags: ["review", "bundle", "effects", "music-production"]
 affiliate: https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16626-SSL-autoSeries-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-autoseries-bundle-c15796

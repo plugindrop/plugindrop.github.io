@@ -1,6 +1,6 @@
 ---
 title: "Addictive Drums 2 Custom XL Collection: Features, Pricing & Is It Worth It? (2026)"
-description: "Addictive Drums 2 is a drum production plugin from XLN Audio, built to deliver studio-quality drum sounds inside your DAW. The Custom XL Col Find current pricing and reviews at Plugin Boutique."
+description: "Addictive Drums 2 Custom XL Collection is available at Plugin Boutique. Check current pricing and reviews on the product page."
 pubDate: '2026-04-26T12:46:24Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "bundle", "music-production"]
 affiliate: https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xl-collection-849fe6

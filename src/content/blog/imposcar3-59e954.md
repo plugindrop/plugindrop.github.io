@@ -1,6 +1,6 @@
 ---
 title: "impOSCar3: Features, Pricing & Is It Worth It? (2026)"
-description: "impOSCar3 is GForce Software's virtual recreation of the OSCar — a rare, monophonic British synthesizer from the early 1980s designed by Chr Find current pricing and reviews at Plugin Boutique."
+description: "impOSCar3 is available at Plugin Boutique. Check current pricing and reviews on the product page."
 pubDate: '2026-05-02T00:52:12Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: https://www.pluginboutique.com/product/1-Instruments/4-Synth/12272-impOSCar3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=imposcar3-59e954

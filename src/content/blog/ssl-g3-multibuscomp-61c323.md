@@ -1,6 +1,6 @@
 ---
 title: "SSL G3 MultiBusComp: Features, Pricing & Is It Worth It? (2026)"
-description: "The SSL G3 MultiBusComp is a bus compressor plugin developed by Solid State Logic, the British manufacturer whose 4000-series mixing console Find current pricing and reviews at Plugin Boutique."
+description: "SSL G3 MultiBusComp is available at Plugin Boutique. Check current pricing and reviews on the product page."
 pubDate: '2026-05-01T17:15:56Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323

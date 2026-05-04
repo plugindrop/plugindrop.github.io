@@ -1,6 +1,6 @@
 ---
 title: "Shadow Hills Mastering Compressor Class A: Features, Pricing & Is It Worth It? (2026)"
-description: "The Shadow Hills Mastering Compressor Class A is a plugin emulation of the legendary Shadow Hills Industries hardware unit — a mastering-gra Find current pricing and reviews at Plugin Boutique."
+description: "The Shadow Hills Mastering Compressor Class A is a plugin emulation of the legendary Shadow Hills Industries hardware unit — a mastering-grade outboard."
 pubDate: '2026-04-23T18:28:11Z'
 tags: ["review", "vst-plugin", "effects", "compressor", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/8-Compressor/10210-Shadow-Hills-Mastering-Compressor-Class-A?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-class-a-0d2b79

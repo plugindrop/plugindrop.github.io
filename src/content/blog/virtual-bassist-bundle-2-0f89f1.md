@@ -1,6 +1,6 @@
 ---
 title: "Virtual Bassist Bundle 2: Features, Pricing & Is It Worth It? (2026)"
-description: "Virtual Bassist Bundle 2 is a collection of bass instrument plugins from UJAM, the developer behind the AI-driven Virtual series of instrume Find current pricing and reviews at Plugin Boutique."
+description: "Virtual Bassist Bundle 2 is available at Plugin Boutique. Check current pricing and reviews on the product page."
 pubDate: '2026-05-02T11:01:53Z'
 tags: ["review", "effects", "bundle", "music-production"]
 affiliate: https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-bassist-bundle-2-0f89f1
