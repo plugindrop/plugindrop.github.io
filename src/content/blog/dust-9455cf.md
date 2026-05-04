@@ -20,7 +20,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/-t1qkjekBsw" title="87% Off DUST — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is DUST?
 
 DUST is a synthesizer plugin available on Plugin Boutique, built around textured, atmospheric sound design. It sits in the instruments category and targets producers looking for something beyond standard subtractive synthesis. The name itself signals its character — gritty, worn, and distinctive. Check the official product page for developer details and the full technical overview.

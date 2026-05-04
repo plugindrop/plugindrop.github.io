@@ -16,7 +16,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/c00olPRn6oA" title="News: iZotope releases RX 12 audio editing and restoration suite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is iZotope RX 12?
 
 iZotope RX is the most widely recognized audio repair and restoration suite in professional audio production. Developed by iZotope — a Boston-based audio software company known for its signal processing depth — RX 12 is the latest major version of a platform that spans over 50 individual tools. It targets noise removal, spectral editing, dialogue cleanup, and source separation in a single integrated environment.

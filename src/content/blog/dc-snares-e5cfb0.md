@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/p9WMLf854Kw" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is DC Snares?
 
 DC Snares is a dedicated snare drum virtual instrument available at Plugin Boutique. Rather than bundling snares into a catch-all drum kit plugin, it focuses entirely on snare sounds — giving producers a targeted tool for one of the most critical elements in any mix. Check the product page for the full breakdown of included content and supported formats.

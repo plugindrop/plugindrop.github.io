@@ -15,7 +15,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yVmrRfk8FdM" title="Phase Plant vs Serum: Which Wavetable Synth Wins for Sound Design? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ySDZJHWyqZA" title="Phase Plant vs Serum: Which Wavetable Synth Wins for Sound Design? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -43,9 +43,6 @@ This guide cuts through the community tribalism and compares both synthesizers a
 The core of any wavetable synthesizer is how it generates and shapes sound. This is where the two tools diverge most dramatically.
 
 ### Phase Plant — Modular power with multiple synthesis modes
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Kilohearts
 - **Price:** $99
 - **Platforms:** Windows, macOS
@@ -62,9 +59,6 @@ Phase Plant's generator system lets you stack multiple sound sources — wavetab
 ### Serum — Industry-standard wavetable with a best-in-class editor
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Xfer Records
 - **Price:** $189
 - **Platforms:** Windows, macOS
@@ -123,9 +117,6 @@ Serum's drag-and-drop modulation matrix shows depth indicators directly on each 
 ## Built-in Effects
 
 ### Phase Plant — Snapin ecosystem integration
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1bhZN7hON6U" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Kilohearts
 - **Price:** $99
 - **Platforms:** Windows, macOS
@@ -140,9 +131,6 @@ Phase Plant uses the Kilohearts Snapin ecosystem for its effects chain. If you o
 ---
 
 ### Serum — Complete, self-contained effects chain
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BOI0KO629TI" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Xfer Records
 - **Price:** $189
 - **Platforms:** Windows, macOS
@@ -178,9 +166,6 @@ Phase Plant's preset market is growing but still trails Serum considerably. Kilo
 ---
 
 ### Serum — The dominant preset ecosystem
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BOI0KO629TI" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Xfer Records
 - **Price:** $189
 - **Platforms:** Windows, macOS
@@ -199,9 +184,6 @@ Serum has the largest third-party preset market of any synthesizer currently ava
 ## Learning Curve & Workflow
 
 ### Phase Plant — Steep but deeply rewarding
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1bhZN7hON6U" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Kilohearts
 - **Price:** $99
 - **Platforms:** Windows, macOS
@@ -216,9 +198,6 @@ Phase Plant rewards patience. The modular architecture means there is no single 
 ---
 
 ### Serum — Accessible without being shallow
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BOI0KO629TI" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Xfer Records
 - **Price:** $189
 - **Platforms:** Windows, macOS
@@ -237,9 +216,6 @@ Serum's interface is a masterclass in synthesizer UI design. Every element lives
 ## Value for Money
 
 ### Phase Plant — More synthesis capability per dollar
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1bhZN7hON6U" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Kilohearts
 - **Price:** $99
 - **Platforms:** Windows, macOS
@@ -254,9 +230,6 @@ At $99, Phase Plant delivers a synthesis engine that rivals tools costing three 
 ---
 
 ### Serum — Premium price with clear justification
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BOI0KO629TI" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Xfer Records
 - **Price:** $189
 - **Platforms:** Windows, macOS
@@ -275,9 +248,6 @@ Serum at $189 is a meaningful investment for a single synthesizer, but the all-i
 ## Worth Upgrading To (Paid Options)
 
 ### Phase Plant — The Kilohearts Ecosystem
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1bhZN7hON6U" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Kilohearts
 - **Price:** $99 (Phase Plant standalone); Toolbox bundles available separately
 - **Why upgrade:** Phase Plant's standalone built-in effects are limited. Expanding with Kilohearts Snapins — individually or via a bundle — significantly increases its sound design range and transforms it into a fully self-contained production tool.
@@ -287,9 +257,6 @@ Serum at $189 is a meaningful investment for a single synthesizer, but the all-i
 ---
 
 ### Serum — The Complete Purchase
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BOI0KO629TI" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Xfer Records
 - **Price:** $189
 - **Why upgrade:** Serum is a single, complete purchase with no meaningful expansion required. The full effects chain, wavetable editor, and ongoing preset compatibility are all included at the standard price — the upgrade path here is simply buying it.

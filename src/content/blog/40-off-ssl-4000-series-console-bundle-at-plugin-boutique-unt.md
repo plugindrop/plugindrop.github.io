@@ -22,7 +22,6 @@ score: 9.27
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/iplkap0TxEI" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is the SSL 4000 Series Console Bundle?
 
 The SSL 4000 Series Console Bundle is an official software emulation of Solid State Logic's legendary 4000 hardware console — the desk responsible for the sound of countless platinum records from the 1980s onward. SSL (Solid State Logic) is a UK-based manufacturer whose hardware consoles defined the sound of modern pop, rock, and hip-hop production for decades. The bundle packages their flagship channel strip and bus processing tools into a single offering, making the classic SSL workflow accessible in a DAW environment without the six-figure price tag of the hardware.

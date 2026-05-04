@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1jx9ON7BOU8" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Smooth Operator Pro?
 
 Smooth Operator Pro is a spectral processing and frequency-balancing plugin available on Plugin Boutique. Rather than functioning as a traditional parametric EQ, it uses FFT-based spectral analysis to detect and suppress resonances, tame harsh peaks, and create a more cohesive tonal balance — all in real time. The "Pro" designation points to an expanded feature set beyond the standard version, aimed at producers and engineers who need more control over the smoothing workflow.

@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OeZKvxZYNeA" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Loop Engine 3?
 
 Loop Engine 3 is a music theory and loop-generation plugin sold through Plugin Boutique, categorized under Studio Tools / Music Theory Tools. It's built to help producers construct chord progressions, harmonic loops, and melodic ideas inside their DAW without needing deep music theory knowledge. The "3" in the name signals this is a matured, iterated product — not a first-gen experiment. Check the official product page for full developer details and version history specifics.

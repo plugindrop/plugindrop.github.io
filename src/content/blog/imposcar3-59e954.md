@@ -1,27 +1,20 @@
 ---
-title: "50% Off impOSCar3"
-description: "impOSCar3 by GForce Software is down to **$59.99** (reg. ~~$119.99~~) at Plugin Boutique — a $60 saving on one of the most detailed software recreations..."
-pubDate: "2026-05-02T00:52:12Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/12272-impOSCar3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=imposcar3-59e954"
-heroImage: "/images/imposcar3-59e954.jpg"
+title: "impOSCar3: Features, Pricing & Is It Worth It? (2026)"
+description: "impOSCar3 is GForce Software's virtual recreation of the OSCar — a rare, monophonic British synthesizer from the early 1980s designed by Chr Find current pricing and reviews at Plugin Boutique."
+pubDate: '2026-05-02T00:52:12Z'
+tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
+affiliate: https://www.pluginboutique.com/product/1-Instruments/4-Synth/12272-impOSCar3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=imposcar3-59e954
+heroImage: /images/imposcar3-59e954.jpg
 score: 9.18
-dealPrice: "$59.99"
-originalPrice: "$119.99"
-discount: "50% OFF"
-xText: "impOSCar3 new gen at 50% off. if you're into oscillators or synthesis design, this is a solid grab. deal price won't last."
 draft: false
+converted: true
 ---
-**TL;DR:** impOSCar3 by GForce Software is down to **$59.99** (reg. ~~$119.99~~) at Plugin Boutique — a $60 saving on one of the most detailed software recreations of the rare British OSCar synthesizer. [→ Get impOSCar3 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/12272-impOSCar3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=imposcar3-59e954)
+**impOSCar3** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/12272-impOSCar3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=imposcar3-59e954)
 
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1objVd7fqx0" title="50% Off impOSCar3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
-## What Is impOSCar3?
+<iframe loading="lazy" src="https://www.youtube-nocookie.
 
 impOSCar3 is GForce Software's virtual recreation of the OSCar — a rare, monophonic British synthesizer from the early 1980s designed by Chris Huggett. The original hardware combined digital oscillator technology with analog-style filtering, producing a distinctive character that set it apart from contemporaries like the Minimoog. GForce, a UK-based developer with a long track record of vintage synth emulations, has developed the impOSCar series across multiple generations. Version 3 represents the most current and refined iteration of that lineage.
 
@@ -53,11 +46,7 @@ GForce Software has a solid reputation on synthesis forums and communities like 
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$119.99~~ | $59.99 | $60 (50%) |
+## Current Pricing
 
 GForce Software does not discount aggressively or frequently. A 50% reduction on this title is notable — Plugin Boutique flash sales of this depth on GForce products are not a regular occurrence, making this a meaningful window compared to the typical pricing pattern for this developer.
 
@@ -95,9 +84,7 @@ A: Yes — unlike the original OSCar hardware, the software version supports pol
 
 ---
 
-## Get the Deal
-
-At $59.99 against a regular price of ~~$119.99~~, this is a 50% discount on a niche but historically significant emulation from a developer that discounts infrequently. Producers looking to add the OSCar sound to their library have a clear opening here.
+## 99~~, this is a 50% discount on a niche but historically significant emulation from a developer that discounts infrequently. Producers looking to add the OSCar sound to their library have a clear opening here.
 
 [→ Get impOSCar3 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/12272-impOSCar3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=imposcar3-59e954)
 

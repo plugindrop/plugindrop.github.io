@@ -19,7 +19,6 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Dt4Ytzj8ln4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Lindell Audio 7X-500?
 
 Lindell Audio is a Swedish company with deep roots in both hardware manufacturing and software emulation. The 7X-500 is a plugin compressor modeled after the character and behavior of a 500-series format hardware unit — the kind of gear that lives in professional racks and adds punch, glue, and warmth to mixes. It targets the gap between surgical digital compression and the tactile feel of analog hardware, all within your DAW.

@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/scMxNiv16H8" title="43% Off Rhodes Chroma by Cherry Audio — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Rhodes Chroma by Cherry Audio?
 
 Rhodes Chroma is Cherry Audio's software emulation of the original Rhodes Chroma hardware synthesizer — a polyphonic analog instrument from the early 1980s that paired computer control with analog sound generation. The hardware was developed by the engineering team at ARP Instruments and completed under the Rhodes name, making it historically notable as one of the earliest computer-controlled analog polysynths. Cherry Audio has built its catalog around detailed recreations of rare vintage hardware, and the Rhodes Chroma fits squarely in that tradition.

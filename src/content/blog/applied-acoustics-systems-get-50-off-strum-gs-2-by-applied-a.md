@@ -19,7 +19,6 @@ score: 6.12
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6hXaR0u2sC4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Strum GS-2?
 
 Strum GS-2 is a guitar synthesizer developed by Applied Acoustics Systems (AAS), a Canadian company known for their physical modeling instruments. Unlike sample-based guitar libraries, Strum GS-2 uses physical modeling technology to generate acoustic and electric guitar tones in real time. It's designed to let producers and composers create realistic strumming patterns, chord progressions, and guitar textures directly from a MIDI keyboard — no guitar skills required.
@@ -85,7 +84,6 @@ A: Check the official AAS product page for up-to-date system requirements and OS
 Half off a physical modeling guitar synth that's been a staple for non-guitarists — ~~$198~~ down to $99. The deal expires April 20th.
 
 [Pick up Strum GS-2 at 50% off before it's gone →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2-Acoustic-Electric?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustics-systems-get-50-off-strum-gs-2-by-applied-a)
-
 
 ---
 

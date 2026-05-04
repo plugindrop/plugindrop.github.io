@@ -17,7 +17,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Is Serum Worth It in 2026? An Honest Look After 10 Years — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -39,10 +38,6 @@ What's changed is the competition. In 2016, there was no serious free alternativ
 ---
 
 ## Serum in 2026 — Still the Standard?
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### Serum — The benchmark wavetable synth that's earned its reputation
 
@@ -90,8 +85,6 @@ Where Vital lags behind is the preset ecosystem and, crucially, the wavetable ed
 
 ### Serum — The investment that stops feeling like one after your first serious track
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BOI0KO629TI" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Xfer Records
 - **Price:** $189
 - **Why upgrade:** Vital's free tier is excellent, but Serum's wavetable editor, mature preset ecosystem, and industry-standard status mean that collaborative sessions, tutorial resources, and preset compatibility all skew heavily toward Serum. If you're hitting Vital's ceiling on wavetable creation or spending time adapting Serum tutorials to a different workflow, the upgrade cost becomes straightforward.
@@ -102,7 +95,7 @@ Where Vital lags behind is the preset ecosystem and, crucially, the wavetable ed
 
 ### Phase Plant — For producers who've outgrown preset-and-tweak workflows entirely
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ySDZJHWyqZA" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** $199

@@ -21,7 +21,6 @@ score: 5.6
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/SaTrGNsDDAA" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Chimera?
 
 Chimera is a cinematic preset pack for the **Vital synthesizer**, created by HydraTek / Flame Sound. It includes **64 presets** across five categories — leads, basses, sequences, pads, and SFX — alongside **50 custom wavetables** and **23 custom noise samples**. Because it runs on Vital's free tier, no paid synth license is required. The pack is aimed squarely at film, trailer, and game composers who need dark, evolving, and textural sounds.

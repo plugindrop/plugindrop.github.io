@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/nG1UToAQfhU" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Bloom Palette Object?
 
 Bloom Palette Object is a virtual instrument available exclusively through Plugin Boutique. Listed under the Virtual Instruments category, it's designed to give producers access to a distinctive sound palette — the name "Bloom" points toward organic, evolving textures, while "Palette Object" suggests a broad tonal range built for creative exploration. Check the product page for the full developer description and supported formats, as specific technical details can vary by version.

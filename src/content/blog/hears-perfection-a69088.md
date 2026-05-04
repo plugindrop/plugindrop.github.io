@@ -1,25 +1,21 @@
 ---
-title: "61% Off HEARS Perfection"
-description: "HEARS Perfection is currently 61% off at Plugin Boutique — dropping from ~~$132.00~~ to just **$51.00**, saving you $81.00. That's a substantial discount..."
-pubDate: "2026-04-23T18:27:53Z"
-tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088"
-heroImage: "/images/hears-perfection-a69088.jpg"
+title: "HEARS Perfection: Features, Pricing & Is It Worth It? (2026)"
+description: "HEARS Perfection is a referencing and mix analysis plugin available through Plugin Boutique, categorized under Studio Tools. Referencing too Find current pricing and reviews at Plugin Boutique."
+pubDate: '2026-04-23T18:27:53Z'
+tags: ["review", "vst-plugin", "synth", "effects", "music-production"]
+affiliate: https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088
+heroImage: /images/hears-perfection-a69088.jpg
 score: 8.55
-dealPrice: "$51.00"
-originalPrice: "$132.00"
-discount: "61% OFF"
-xText: "new plugin, 61% off launch pricing. hears perfection just dropped. discount math like this doesn't last—windows close fast. grab it while it's still there"
 draft: false
+converted: true
 ---
-**TL;DR:** HEARS Perfection is currently 61% off at Plugin Boutique — dropping from ~~$132.00~~ to just **$51.00**, saving you $81.00. That's a substantial discount on a dedicated referencing tool in a category where serious options often run well over $100. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088) while pricing holds.
+**HEARS Perfection** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088)
 
 ---
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/YRS8pxLcknc" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is HEARS Perfection?
 
@@ -49,17 +45,11 @@ For precise system requirements and supported plugin formats (VST/AU/AAX), verif
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$132.00~~ | **$51.00** | $81.00 (61%) |
+## Current Pricing
 
 A 61% discount is a meaningful move for this category. Referencing tools don't go on deep sale as frequently as synths or effects packs — when a tool in this niche drops by more than half, it's worth paying attention to. There's no widely published price history for HEARS Perfection suggesting this level of discount is routine, so treat it as an opportunistic buy rather than a sale you can wait out indefinitely.
 
-> Verify current pricing on the product page — deals can change.
-
-[Get HEARS Perfection for $51.00 at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088)
 
 ---
 
@@ -91,11 +81,11 @@ A: Refund eligibility for digital software varies; check Plugin Boutique's terms
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 $81.00 off a dedicated referencing tool doesn't happen often in this category. At $51.00, HEARS Perfection is priced where the decision becomes a lot easier for producers who've been putting off adding a proper referencing step to their workflow.
 
-[Claim 61% off HEARS Perfection at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088)
+[pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088)
 
 ---
 

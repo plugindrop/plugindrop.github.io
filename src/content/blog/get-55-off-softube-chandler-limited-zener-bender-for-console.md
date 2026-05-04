@@ -20,7 +20,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/_8I6gqBuUTQ" title="Get 55% off Softube Chandler Limited Zener-Bender for Console 1 at Audio Deluxe — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Softube Chandler Limited Zener-Bender for Console 1?
 
 Chandler Limited is a manufacturer of high-end, transformer-based studio hardware with a reputation for adding distinctive harmonic character to recordings. Softube has licensed and emulated the Zener-Bender unit as part of their Console 1 plugin lineup — a system that pairs hardware controllers with software channel strips for tactile mixing control. The plugin brings the saturation and tonal coloring associated with Chandler Limited's hardware design directly into the Console 1 workflow. It's aimed at engineers who want analog warmth and transformer-style harmonic character without the hardware price point.

@@ -18,7 +18,6 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/m0LPoIrxkJg" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Best Service Desert Winds?
 
 Desert Winds is a virtual instrument library created by sample library designer Eduardo Tarilonte and published by Best Service. It features four solo wind instruments from the Middle East and surrounding regions — **Armenian Duduk, Persian Ney, Turkish Ney, and Zourna** — built from over 2,000 individually recorded samples. The library runs on Best Service's free Engine Player (1.5 or higher) and targets composers working in film scoring, world music, and cinematic production.
@@ -89,7 +88,6 @@ Sources:
 - [Desert Winds on KVR Marketplace](https://www.bestservice.com/en/desert_winds.html)
 - [VI-Control Legato Wind Instruments Discussion](https://vi-control.net/community/threads/the-big-list-of-true-legato-solo-wind-instruments.41153/)
 - [Sound On Sound Review](https://www.soundonsound.com/reviews/best-service-desert-winds)
-
 
 ---
 

@@ -19,7 +19,6 @@ heroImage: "/images/syntorial-2-training-software-synth-by-audible-genius-on-sal
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/5G0W-NLMqjw" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Syntorial 2?
 
 Syntorial 2 is an interactive synthesizer training application developed by Audible Genius. Rather than watching passive video tutorials, it teaches synthesis through hands-on challenges — you hear a sound, then program a built-in software synth to match it by ear. The approach is closer to a musical instrument course than a typical DAW tutorial. It's designed to build genuine synthesis intuition, not just plugin familiarity.

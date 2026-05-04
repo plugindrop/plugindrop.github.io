@@ -1,27 +1,20 @@
 ---
-title: "50% Off Virtual Bassist Bundle 2"
-description: "Virtual Bassist Bundle 2 is now 50% off at Plugin Boutique — ~~$199~~ $99, saving you $100 on a multi-instrument collection of UJAM's phrase-based bass..."
-pubDate: "2026-05-02T11:01:53Z"
-tags: ["sale", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-bassist-bundle-2-0f89f1"
-heroImage: "/images/virtual-bassist-bundle-2-0f89f1.jpg"
+title: "Virtual Bassist Bundle 2: Features, Pricing & Is It Worth It? (2026)"
+description: "Virtual Bassist Bundle 2 is a collection of bass instrument plugins from UJAM, the developer behind the AI-driven Virtual series of instrume Find current pricing and reviews at Plugin Boutique."
+pubDate: '2026-05-02T11:01:53Z'
+tags: ["review", "effects", "bundle", "music-production"]
+affiliate: https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-bassist-bundle-2-0f89f1
+heroImage: /images/virtual-bassist-bundle-2-0f89f1.jpg
 score: 10.00
-dealPrice: "$99.00"
-originalPrice: "$199.00"
-discount: "50% OFF"
-xText: "50% off virtual bassist bundle and the per-plugin price is the real story – lowest this has been. you don't usually see bundles discounted this hard. if your bass feel is lazy this locks it in without the midi editing hell."
 draft: false
+converted: true
 ---
-**TL;DR:** Virtual Bassist Bundle 2 is now 50% off at Plugin Boutique — ~~$199~~ $99, saving you $100 on a multi-instrument collection of UJAM's phrase-based bass tools. That's a meaningful discount on a bundle designed to deliver studio-ready bass without a studio session. [→ Get Virtual Bassist Bundle 2 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-bassist-bundle-2-0f89f1)
+**Virtual Bassist Bundle 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-bassist-bundle-2-0f89f1)
 
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/giI1UpROV4g" title="50% Off Virtual Bassist Bundle 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
-## What Is Virtual Bassist Bundle 2?
+<iframe loading="lazy" src="https://www.youtube-nocookie.
 
 Virtual Bassist Bundle 2 is a collection of bass instrument plugins from UJAM, the developer behind the AI-driven Virtual series of instruments. Rather than recording individual notes or programming MIDI by hand, producers trigger full bass performances via MIDI — chord keys set the harmony, style keys switch playing patterns. The result is a complete, realistic bass part generated in real time. Bundling multiple Virtual Bassist titles into one purchase brings the per-instrument cost well below individual retail pricing.
 
@@ -52,13 +45,7 @@ UJAM's Virtual Bassist line has built a consistent reputation in production comm
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$199.00~~ | $99.00 | $100.00 (50%) |
-
-UJAM runs periodic promotions, but 50% off on a bundle of this scope is at the aggressive end of their typical discount range. Purchasing Virtual Bassist titles individually at standard pricing would push the total well above $99, making this bundle the efficient entry point for producers wanting cross-genre bass coverage. The per-instrument value improves significantly compared to buying separately.
+##  Purchasing Virtual Bassist titles individually at standard pricing would push the total well above $99, making this bundle the efficient entry point for producers wanting cross-genre bass coverage. The per-instrument value improves significantly compared to buying separately.
 
 *Price verified at publication. Check the link for current availability.*
 
@@ -94,9 +81,7 @@ A: VST, AU, and AAX formats are included, covering Ableton Live, Logic Pro, Pro 
 
 ---
 
-## Get the Deal
-
-At $99, this deal cuts the standard bundle price in half — a reasonable window to pick up multi-genre bass coverage from an established developer. UJAM doesn't discount this deep on a regular schedule.
+##  UJAM doesn't discount this deep on a regular schedule.
 
 [→ Get Virtual Bassist Bundle 2 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-bassist-bundle-2-0f89f1)
 

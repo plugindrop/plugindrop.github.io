@@ -1,27 +1,20 @@
 ---
-title: "40% Off Addictive Drums 2 Custom XL Collection"
-description: "XLN Audio's Addictive Drums 2 Custom XL Collection is **40% off** at Plugin Boutique right now — down from ~~$359.00~~ to **$215.40**. That's $143.60 back..."
-pubDate: "2026-04-26T12:46:24Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xl-collection-849fe6"
-heroImage: "/images/addictive-drums-2-custom-xl-collection-849fe6.jpg"
+title: "Addictive Drums 2 Custom XL Collection: Features, Pricing & Is It Worth It? (2026)"
+description: "Addictive Drums 2 is a drum production plugin from XLN Audio, built to deliver studio-quality drum sounds inside your DAW. The Custom XL Col Find current pricing and reviews at Plugin Boutique."
+pubDate: '2026-04-26T12:46:24Z'
+tags: ["review", "vst-plugin", "virtual-instrument", "effects", "bundle", "music-production"]
+affiliate: https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xl-collection-849fe6
+heroImage: /images/addictive-drums-2-custom-xl-collection-849fe6.jpg
 score: 9.45
-dealPrice: "$215.40"
-originalPrice: "$359.00"
-discount: "40% OFF"
-xText: "addictive drums 2 custom xl at 40% off. lowest these bundles ever drop. if you're serious about your drum sounds this is the one you've been waiting for."
 draft: false
+converted: true
 ---
-**TL;DR:** XLN Audio's Addictive Drums 2 Custom XL Collection is **40% off** at Plugin Boutique right now — down from ~~$359.00~~ to **$215.40**. That's $143.60 back in your pocket on one of the most recognized drum plugin bundles around. [Grab it at Plugin Boutique before the deal closes.](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xl-collection-849fe6)
+**Addictive Drums 2 Custom XL Collection** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xl-collection-849fe6)
 
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ikaSahd3KFQ" title="40% Off Addictive Drums 2 Custom XL Collection — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
-## What Is Addictive Drums 2 Custom XL Collection?
+<iframe loading="lazy" src="https://www.youtube-nocookie.
 
 Addictive Drums 2 is a drum production plugin from XLN Audio, built to deliver studio-quality drum sounds inside your DAW. The Custom XL Collection is a bundled package that pairs the AD2 engine with a curated set of ADpaks (expansion drum kits) and MIDIpaks — giving producers a broad sonic palette without hunting down individual expansions separately. XLN Audio has been a recognized name in drum plugin production for over a decade.
 
@@ -45,13 +38,9 @@ Addictive Drums 2 has been a consistent thread recommendation across production 
 - **Rock and pop producers:** The kit selection and room characteristics lean toward organic, live-sounding production.
 - **Composers on a deadline:** Drag-and-drop MIDI and preset-ready sounds make this a fast-workflow solution when turnaround time matters.
 
-## Pricing & Deal Details
+## Current Pricing
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$359.00~~ | **$215.40** | $143.60 (40%) |
-
-A 40% discount on a full collection package is a meaningful drop — XLN Audio doesn't run deep sales constantly, so this price point is worth paying attention to. Verify current pricing on the product page, as deals can change without notice.
+ Verify current pricing on the product page, as deals can change without notice.
 
 [Check the current deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xl-collection-849fe6)
 
@@ -79,7 +68,7 @@ A: The bundle includes the AD2 engine plus a larger selection of ADpaks and MIDI
 **Q: Can MIDIpaks be used with other drum plugins?**
 A: The MIDI patterns can be dragged into your DAW and played back on other instruments, though they're mapped to AD2's kit layout and may need remapping.
 
-## Get the Deal
+## Where to Buy
 
 **$143.60 off** a complete drum production toolkit is the kind of sale worth acting on rather than bookmarking. At $215.40, the Custom XL Collection is well below its usual ask.
 

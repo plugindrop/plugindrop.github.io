@@ -1,25 +1,21 @@
 ---
-title: 'Soundtoys Spring Sale: Save up to 75% on plugins (incl. bundle & upgrades)'
-description: Soundtoys is running a Spring Sale with savings of up to 75% across individual
-  plugins, bundles, and upgrades — one of the steeper discounts this brand...
+title: "Little Alterboy: Features, Pricing & Is It Worth It? (2026)"
+description: "Little AlterBoy is a vocal pitch and formant processing plugin developed by Soundtoys. It's built specifically for vocal transformation — sh Find current pricing and reviews at Plugin Boutique."
 pubDate: '2026-04-14T11:06:16Z'
-tags: ["sale", "soundtoys", "music-production", "bundle"]
+tags: ["review", "soundtoys", "music-production", "bundle"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u&a_aid=69cb95abe1763
 heroImage: /images/soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u.jpg
-discount: "75% OFF"
-dealPrice: "$19.80"
-originalPrice: "$99.00"
-draft: false
 score: 8.16
+draft: false
+converted: true
 ---
-**TL;DR:** Soundtoys is running a Spring Sale with savings of up to 75% across individual plugins, bundles, and upgrades — one of the steeper discounts this brand offers through the year. Little AlterBoy, their cult vocal pitch and formant tool, is included in the sale. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u&a_aid=69cb95abe1763)
+**Little Alterboy** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u&a_aid=69cb95abe1763)
 
 ---
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yt8pFK6fJk4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## Soundtoys Spring Sale: Up to 75% Off Plugins, Bundles & Upgrades
 
@@ -63,30 +59,11 @@ It appears regularly in "must-have vocal plugins" discussions alongside more cli
 
 ---
 
-## Pricing & Deal Details
+## Current Pricing
 
 Soundtoys runs major sales a handful of times per year — typically around seasonal events. A 75% ceiling puts this among their deeper promotional windows. The sale covers individual plugins, the full Soundtoys bundle, and upgrade pricing if you already own part of the lineup.
 
-| Item | Regular Price | Deal Price | You Save |
-|---|---|---|---|
-| Little AlterBoy | $19.80 | Up to 75% off | Up to 75% |
-| Soundtoys Bundle | $19.80 | Up to 75% off | Up to 75% |
-| Upgrades | $19.80 | Included in sale | Varies |
-
-> Verify current pricing on the product page — deals can change without notice and exact figures depend on your region and any existing licenses.
-
-[Check current prices and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u&a_aid=69cb95abe1763)
-
----
-
-## Alternatives at a Glance
-
-| Plugin | Price | Key Difference |
-|---|---|---|
-| Antares Auto-Tune Vocal Tools | Check vendor | Includes pitch correction with real-time detection, broader feature set |
-| Waves Vocal Bender | Check vendor | Real-time pitch and formant bending with automation lanes |
-| Auburn Sounds Graillon 2 | Free / paid tier | Free version available with basic pitch and formant shifting |
-
+| Item 
 If you need a lightweight, purpose-built tool with an analog-flavored character and the Soundtoys ecosystem already interests you, Little AlterBoy is purpose-built for that lane. If you need real-time pitch correction alongside transformation, Auto-Tune covers more clinical ground. Graillon 2's free tier is worth trying first if budget is the primary concern.
 
 ---
@@ -107,11 +84,11 @@ A: Check the official product page for confirmed format support (VST, AU, AAX) a
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 Up to 75% off Soundtoys plugins — including Little AlterBoy, the full bundle, and upgrade paths — is one of the stronger discount windows this brand runs. If it's been on your list, this is a credible buying window.
 
-[Get the Soundtoys Spring Sale deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u&a_aid=69cb95abe1763)
 
 ---
 

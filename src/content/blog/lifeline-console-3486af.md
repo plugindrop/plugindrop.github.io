@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/edyUG-YUxh4" title="51% Off Lifeline Console — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Lifeline Console?
 
 Lifeline Console is a channel strip plugin developed by Excite Audio, built to bring classic analog console processing into a single in-the-box tool. It combines EQ, compression, and harmonic saturation stages designed to emulate the character and cohesion of vintage mixing hardware. Rather than targeting surgical precision, the plugin is aimed at adding the tonal weight and glue associated with console signal paths.

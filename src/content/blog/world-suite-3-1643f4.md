@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Z3He4KIQI5Y" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is World Suite 3?
 
 World Suite 3 is a virtual instrument plugin designed to bring authentic global sounds into your DAW. It covers a wide range of ethnic and traditional instruments from cultures across Asia, Africa, the Middle East, Europe, and beyond. The library is aimed at producers, composers, and sound designers who want cinematic, cross-cultural textures without piecing together multiple libraries. It's available via Plugin Boutique and works as a standalone instrument or within your existing plugin chain — check the product page for exact format and host compatibility details.

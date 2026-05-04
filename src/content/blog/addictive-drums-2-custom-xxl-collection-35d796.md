@@ -1,25 +1,21 @@
 ---
-title: "40% Off Addictive Drums 2 Custom XXL Collection"
-description: "Addictive Drums 2 Custom XXL Collection is down to **$329.40** (was ~~$549.00~~) at Plugin Boutique — that's $219.60 in savings, or roughly 40% off XLN..."
-pubDate: "2026-04-23T18:27:32Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xxl-collection-35d796"
-heroImage: "/images/addictive-drums-2-custom-xxl-collection-35d796.jpg"
+title: "Addictive Drums 2 Custom XXL Collection: Features, Pricing & Is It Worth It? (2026)"
+description: "Addictive Drums 2 (AD2) is a virtual drum instrument developed by XLN Audio, built around a high-quality sample library with an intuitive dr Find current pricing and reviews at Plugin Boutique."
+pubDate: '2026-04-23T18:27:32Z'
+tags: ["review", "vst-plugin", "virtual-instrument", "effects", "bundle", "music-production"]
+affiliate: https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xxl-collection-35d796
+heroImage: /images/addictive-drums-2-custom-xxl-collection-35d796.jpg
 score: 10.00
-dealPrice: "$329.40"
-originalPrice: "$549.00"
-discount: "40% OFF"
-xText: "when the xxl collection drops to 40% off, you're basically getting an entire drum studio for less than most single kits"
 draft: false
+converted: true
 ---
-**TL;DR:** Addictive Drums 2 Custom XXL Collection is down to **$329.40** (was ~~$549.00~~) at Plugin Boutique — that's $219.60 in savings, or roughly 40% off XLN Audio's flagship drum bundle. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xxl-collection-35d796)
+**Addictive Drums 2 Custom XXL Collection** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xxl-collection-35d796)
 
 ---
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ikaSahd3KFQ" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is the Addictive Drums 2 Custom XXL Collection?
 
@@ -53,13 +49,7 @@ Addictive Drums 2 has been a consistent recommendation across mixing and product
 
 ---
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$549.00~~ | **$329.40** | $219.60 (~40%) |
-
-XLN Audio doesn't run deep discounts constantly — 40% off a flagship bundle is on the higher end of what they typically offer. If you've been watching this collection, this is a meaningful price drop worth acting on. Verify current pricing on the product page — deals can change.
+##  If you've been watching this collection, this is a meaningful price drop worth acting on. Verify current pricing on the product page — deals can change.
 
 [Check the deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xxl-collection-35d796)
 
@@ -93,11 +83,11 @@ A: Yes — individual ADpaks can be purchased separately through XLN Audio to ex
 
 ---
 
-## Get the Deal
+## Where to Buy
 
 $219.60 off the full Custom XXL Collection is a rare window for producers who want XLN Audio's entire drum ecosystem in one shot. Don't sleep on it if this has been on your list.
 
-[Grab Addictive Drums 2 Custom XXL Collection at Plugin Boutique for $329.40 →](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xxl-collection-35d796)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xxl-collection-35d796)
 
 ---
 

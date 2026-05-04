@@ -1,27 +1,20 @@
 ---
-title: "71% Off SSL G3 MultiBusComp"
-description: "SSL's G3 MultiBusComp is down to $29.00 from ~~$99.00~~ — a 71% saving on a bus compressor built around Solid State Logic's iconic G-Series console..."
-pubDate: "2026-05-01T17:15:56Z"
-tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323"
-heroImage: "/images/ssl-g3-multibuscomp-61c323.jpg"
+title: "SSL G3 MultiBusComp: Features, Pricing & Is It Worth It? (2026)"
+description: "The SSL G3 MultiBusComp is a bus compressor plugin developed by Solid State Logic, the British manufacturer whose 4000-series mixing console Find current pricing and reviews at Plugin Boutique."
+pubDate: '2026-05-01T17:15:56Z'
+tags: ["review", "vst-plugin", "effects", "music-production"]
+affiliate: https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323
+heroImage: /images/ssl-g3-multibuscomp-61c323.jpg
 score: 9.36
-dealPrice: "$29.00"
-originalPrice: "$99.00"
-discount: "71% OFF"
-xText: "ssl g3 multibuscomp at 71% off – if you've been waiting for this to drop, that wait's over. absolute glue, never gets in the way."
 draft: false
+converted: true
 ---
-**TL;DR:** SSL's G3 MultiBusComp is down to $29.00 from ~~$99.00~~ — a 71% saving on a bus compressor built around Solid State Logic's iconic G-Series console circuit. At under $30, this is a straightforward pick for anyone who needs that classic VCA glue on their mix bus. [→ Get SSL G3 MultiBusComp at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323)
+**SSL G3 MultiBusComp** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323)
 
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bxws1bW1XzY" title="71% Off SSL G3 MultiBusComp — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
-## What Is SSL G3 MultiBusComp?
+<iframe loading="lazy" src="https://www.youtube-nocookie.
 
 The SSL G3 MultiBusComp is a bus compressor plugin developed by Solid State Logic, the British manufacturer whose 4000-series mixing consoles defined the sound of commercial recording for decades. The plugin is rooted in the G-Series VCA bus compressor — the hardware section responsible for the "glue" compression that has appeared on major releases across pop, rock, and electronic music since the 1980s. Where the hardware unit lived on a single stereo bus, the G3 MultiBusComp extends that topology to handle multiple bus compression scenarios within a single plugin.
 
@@ -48,18 +41,14 @@ The SSL G-Series bus compressor circuit has been a consistent recommendation acr
 
 - **Mix engineers working in SSL-adjacent workflows** — those who reference the hardware G-Bus character as a target sound will find the emulation a natural fit.
 - **Producers handling full mix bus processing** — the compressor is designed specifically for bus-stage use, where VCA-style glue is the primary goal.
-- **Home studio producers** — at $29.00, it gives access to a circuit emulation that would otherwise require expensive hardware or higher-priced plugin alternatives.
+- **
 - **Composers managing multiple stems** — the multi-bus capability makes it relevant beyond the stereo mix bus, applicable to drum, instrument, and vocal submixes.
 
 ---
 
-## Pricing & Deal Details
+## Current Pricing
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$99.00~~ | $29.00 | $70.00 (71%) |
-
-SSL plugins at this price point are not a frequent occurrence. The G-Series bus compressor name carries real weight, and 71% off an SSL-branded title puts it in impulse-buy territory even for producers who aren't actively shopping. Deals at this depth on SSL products at Plugin Boutique tend to be time-limited promotional windows rather than regular sale pricing.
+SSL plugins at this price point are not a frequent occurrence.  Deals at this depth on SSL products at Plugin Boutique tend to be time-limited promotional windows rather than regular sale pricing.
 
 *Price verified at publication. Check the link for current availability.*
 
@@ -75,7 +64,7 @@ SSL plugins at this price point are not a frequent occurrence. The G-Series bus 
 | UAD SSL G Bus Compressor | Requires UAD hardware | Hardware-accelerated processing; higher fidelity emulation claim, but locked to UAD ecosystem |
 | Native Instruments Solid Bus Comp | Included with Komplete bundles | VCA-style bus compressor in a different plugin ecosystem; no dedicated SSL branding |
 
-If you're already in the UAD ecosystem and want the highest-fidelity emulation, the UAD version is the comparison target — but it requires proprietary hardware. If you want standalone SSL-branded bus compression without ecosystem lock-in, the G3 MultiBusComp at $29.00 is the more accessible route.
+If you're already in the UAD ecosystem and want the highest-fidelity emulation, the UAD version is the comparison target — but it requires proprietary hardware. 
 
 ---
 
@@ -95,9 +84,7 @@ A: License terms including machine activation limits are set by SSL; the product
 
 ---
 
-## Get the Deal
-
-SSL G3 MultiBusComp at $29.00 represents a 71% reduction from its standard price — meaningful savings on a bus compressor backed by one of the most recognized names in studio hardware. The deal is live at Plugin Boutique.
+##  The deal is live at Plugin Boutique.
 
 [→ Get SSL G3 MultiBusComp at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323)
 

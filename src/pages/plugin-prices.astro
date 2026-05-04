@@ -1,0 +1,349 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+import priceData from '../data/price_history.json';
+
+const AFF = "a_aid=69cb95abe1763";
+const pbLink = (path: string) =>
+  `https://www.pluginboutique.com${path}?${AFF}`;
+
+interface HistoryEntry {
+  date: string;
+  regular: number | null;
+  sale: number | null;
+  source: string;
+}
+
+interface BundleData {
+  pb_url: string;
+  typical_regular: number | null;
+  typical_sale: number | null;
+  all_time_low: number | null;
+  notes?: string;
+  history: HistoryEntry[];
+}
+
+interface PriceData {
+  last_updated: string;
+  bundles: Record<string, BundleData>;
+}
+
+const data = priceData as PriceData;
+const { last_updated, bundles } = data;
+
+function dealRating(bundle: BundleData): { label: string; cls: string } {
+  const latest = bundle.history.at(-1);
+  if (!latest) return { label: "No Data", cls: "deal-unknown" };
+
+  const currentPrice = latest.sale ?? latest.regular;
+  if (currentPrice === null) return { label: "No Data", cls: "deal-unknown" };
+
+  // On sale and at or below typical sale price
+  if (latest.sale !== null && bundle.typical_sale !== null && latest.sale <= bundle.typical_sale) {
+    return { label: "Great Deal", cls: "deal-great" };
+  }
+  // On sale but above typical sale
+  if (latest.sale !== null) {
+    return { label: "On Sale", cls: "deal-sale" };
+  }
+  // At regular price
+  if (bundle.typical_regular !== null && currentPrice <= bundle.typical_regular) {
+    return { label: "Normal Price", cls: "deal-normal" };
+  }
+  return { label: "Above Typical", cls: "deal-above" };
+}
+
+function formatPrice(val: number | null): string {
+  if (val === null) return "—";
+  return `$${val}`;
+}
+
+function formatDate(iso: string): string {
+  return iso; // Already YYYY-MM-DD
+}
+
+const bundleEntries = Object.entries(bundles);
+
+const pageLD = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Plugin Bundle Price Tracker",
+  "description": "Track current and historical prices for major VST plugin bundles at Plugin Boutique. Updated weekly.",
+  "url": "https://plugindrop.net/plugin-prices/",
+};
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead
+      title={`Plugin Bundle Price Tracker — VST Bundle Price History | ${SITE_TITLE}`}
+      description="Track current and historical prices for major VST plugin bundles at Plugin Boutique: FabFilter, NI Komplete, iZotope, Arturia, Waves, Soundtoys. Updated weekly."
+    />
+    <script type="application/ld+json" set:html={JSON.stringify(pageLD)} />
+    <style>
+      main { max-width: 1000px; margin: 0 auto; padding: 2rem 1rem; }
+
+      .page-header { margin-bottom: 2.5rem; max-width: 720px; }
+      .page-header h1 { font-size: 1.8rem; font-weight: 800; margin: 0 0 0.6rem; line-height: 1.2; }
+      .page-header .subtitle { color: var(--text-secondary); font-size: 0.95rem; line-height: 1.6; margin: 0 0 0.4rem; }
+      .page-header .meta { font-size: 0.78rem; color: var(--text-muted); }
+
+      /* Bundle grid */
+      .bundle-grid {
+        display: grid;
+        gap: 1.25rem;
+      }
+
+      .bundle-card {
+        background: var(--bg-card);
+        border: 1px solid var(--border);
+        border-radius: 10px;
+        padding: 1.25rem 1.5rem;
+        transition: border-color 0.15s;
+      }
+      .bundle-card:hover { border-color: var(--accent-muted); }
+
+      .card-header {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: 1rem;
+        margin-bottom: 1rem;
+        flex-wrap: wrap;
+      }
+
+      .bundle-name-link {
+        font-size: 1.05rem;
+        font-weight: 700;
+        color: var(--text-primary);
+        text-decoration: none;
+        transition: color 0.15s;
+      }
+      .bundle-name-link:hover { color: var(--accent); }
+
+      /* Deal rating badge */
+      .deal-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.3rem;
+        font-size: 0.75rem;
+        font-weight: 700;
+        padding: 0.25rem 0.65rem;
+        border-radius: 20px;
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .deal-badge::before {
+        content: '';
+        display: block;
+        width: 6px;
+        height: 6px;
+        border-radius: 50%;
+      }
+      .deal-great  { background: rgba(80,200,120,0.15); color: #50c878; }
+      .deal-great::before { background: #50c878; }
+      .deal-sale   { background: rgba(255,200,60,0.12); color: #ffc83c; }
+      .deal-sale::before { background: #ffc83c; }
+      .deal-normal { background: rgba(150,150,180,0.12); color: var(--text-muted); }
+      .deal-normal::before { background: var(--text-muted); }
+      .deal-above  { background: rgba(255,100,80,0.1); color: #ff7060; }
+      .deal-above::before { background: #ff7060; }
+      .deal-unknown { background: rgba(150,150,180,0.1); color: var(--text-muted); }
+      .deal-unknown::before { background: var(--text-muted); }
+
+      /* Price section */
+      .price-section {
+        display: flex;
+        gap: 2rem;
+        flex-wrap: wrap;
+        margin-bottom: 1rem;
+      }
+
+      .price-block { display: flex; flex-direction: column; }
+      .price-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted); margin-bottom: 0.2rem; }
+      .price-value { font-size: 1.25rem; font-weight: 800; color: var(--text-primary); font-variant-numeric: tabular-nums; }
+      .price-value.sale-price { color: #50c878; }
+      .price-value.strike { text-decoration: line-through; color: var(--text-muted); font-size: 0.9rem; font-weight: 400; }
+      .price-range { font-size: 0.8rem; color: var(--text-secondary); }
+      .price-atl { font-size: 0.75rem; color: var(--text-muted); margin-top: 0.15rem; }
+
+      /* History table */
+      .history-wrap { margin-top: 0.75rem; overflow-x: auto; }
+      .history-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted); margin-bottom: 0.4rem; }
+      .history-table { width: 100%; border-collapse: collapse; font-size: 0.8rem; font-variant-numeric: tabular-nums; }
+      .history-table th {
+        text-align: left; padding: 0.25rem 0.6rem; color: var(--text-muted);
+        font-size: 0.7rem; border-bottom: 1px solid var(--border); font-weight: 600;
+        white-space: nowrap;
+      }
+      .history-table td {
+        padding: 0.3rem 0.6rem; border-bottom: 1px solid rgba(255,255,255,0.04);
+        color: var(--text-secondary); white-space: nowrap;
+      }
+      .history-table tr:last-child td { border-bottom: none; }
+      .td-sale { color: #50c878; font-weight: 600; }
+      .td-none { color: var(--text-muted); }
+
+      /* CTA */
+      .cta-row { margin-top: 1rem; display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; }
+      .cta-btn {
+        display: inline-block; padding: 0.45rem 1.1rem; border-radius: 6px;
+        background: var(--accent-muted); color: var(--accent-light);
+        text-decoration: none; font-size: 0.85rem; font-weight: 700;
+        transition: background 0.15s;
+      }
+      .cta-btn:hover { background: var(--accent); color: #000; }
+      .on-sale-tag {
+        font-size: 0.78rem; font-weight: 700; color: #50c878;
+        background: rgba(80,200,120,0.12); padding: 0.25rem 0.6rem; border-radius: 4px;
+      }
+
+      /* Footer note */
+      .footer-note {
+        margin-top: 3rem; padding: 1.25rem 1.5rem;
+        border-left: 3px solid var(--accent-muted);
+        color: var(--text-secondary); font-size: 0.875rem; line-height: 1.7;
+      }
+      .footer-note p { margin: 0 0 0.4rem; }
+      .footer-note p:last-child { margin: 0; }
+    </style>
+  </head>
+  <body>
+    <a href="#main-content" class="sr-only">Skip to content</a>
+    <Header />
+    <main id="main-content">
+      <div class="page-header">
+        <h1>Plugin Bundle Price Tracker</h1>
+        <p class="subtitle">
+          Historical prices for major VST plugin bundles at Plugin Boutique —
+          like CamelCamelCamel, but for VST plugins. See if it's a real deal before you buy.
+        </p>
+        <p class="meta">
+          Updated: {last_updated} &nbsp;|&nbsp; Checked weekly via Plugin Boutique
+        </p>
+      </div>
+
+      <div class="bundle-grid">
+        {bundleEntries.map(([name, bundle]) => {
+          const latest = bundle.history.at(-1);
+          const currentRegular = latest?.regular ?? null;
+          const currentSale = latest?.sale ?? null;
+          const displayPrice = currentSale ?? currentRegular;
+          const rating = dealRating(bundle);
+          const recentHistory = bundle.history.slice(-4).reverse();
+
+          return (
+            <div class="bundle-card">
+              <div class="card-header">
+                <div>
+                  <a
+                    href={pbLink(bundle.pb_url)}
+                    class="bundle-name-link"
+                    target="_blank"
+                    rel="noopener sponsored"
+                  >
+                    {name}
+                  </a>
+                </div>
+                <span class={`deal-badge ${rating.cls}`}>{rating.label}</span>
+              </div>
+
+              <div class="price-section">
+                <div class="price-block">
+                  <span class="price-label">Current Price</span>
+                  {currentSale !== null ? (
+                    <Fragment>
+                      <span class="price-value sale-price">{formatPrice(currentSale)}</span>
+                      <span class="price-value strike">{formatPrice(currentRegular)}</span>
+                    </Fragment>
+                  ) : (
+                    <span class="price-value">{formatPrice(currentRegular)}</span>
+                  )}
+                </div>
+
+                <div class="price-block">
+                  <span class="price-label">Typical Range</span>
+                  <span class="price-range">
+                    {bundle.typical_sale !== null
+                      ? `${formatPrice(bundle.typical_sale)} – ${formatPrice(bundle.typical_regular)}`
+                      : formatPrice(bundle.typical_regular)
+                    }
+                  </span>
+                  {bundle.all_time_low !== null && (
+                    <span class="price-atl">All-time low: {formatPrice(bundle.all_time_low)}</span>
+                  )}
+                </div>
+              </div>
+
+              {recentHistory.length > 0 && (
+                <div class="history-wrap">
+                  <div class="history-label">Recent Price History</div>
+                  <table class="history-table">
+                    <thead>
+                      <tr>
+                        <th>Date</th>
+                        <th>Regular</th>
+                        <th>Sale</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {recentHistory.map((entry) => (
+                        <tr>
+                          <td>{formatDate(entry.date)}</td>
+                          <td>{entry.regular !== null ? `$${entry.regular}` : <span class="td-none">—</span>}</td>
+                          <td>
+                            {entry.sale !== null
+                              ? <span class="td-sale">${entry.sale}</span>
+                              : <span class="td-none">—</span>
+                            }
+                          </td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              )}
+
+              <div class="cta-row">
+                <a
+                  href={pbLink(bundle.pb_url)}
+                  class="cta-btn"
+                  target="_blank"
+                  rel="noopener sponsored"
+                >
+                  View on Plugin Boutique
+                </a>
+                {currentSale !== null && (
+                  <span class="on-sale-tag">ON SALE NOW</span>
+                )}
+              </div>
+            </div>
+          );
+        })}
+      </div>
+
+      <div class="footer-note">
+        <p>
+          <strong>How this works:</strong> Prices are checked weekly via Plugin Boutique and logged automatically.
+          "Typical range" shows the normal price and the most common sale price based on historical observations.
+          "All-time low" is the lowest price recorded across all tracked retailers.
+        </p>
+        <p>
+          Prices change frequently — Plugin Boutique runs flash sales, anniversary promotions, and manufacturer-specific events throughout the year.
+          Use this tracker to decide when to buy, not just whether to buy.
+        </p>
+        <p>
+          Last checked: {last_updated} &nbsp;|&nbsp;
+          <a href="/about#affiliate" style="color: var(--accent);">Affiliate disclosure</a> &nbsp;|&nbsp;
+          <a href="/bundle-comparison/" style="color: var(--accent);">Compare bundles by $/plugin</a>
+        </p>
+      </div>
+    </main>
+    <Footer />
+
+    <script type="application/ld+json" set:html={JSON.stringify(pageLD)} />
+  </body>
+</html>

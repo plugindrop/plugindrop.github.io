@@ -1,25 +1,21 @@
 ---
-title: "60% Off Virtual Guitarist Bundle"
-description: "The Virtual Guitarist Bundle from UJAM is currently **60% off** at Plugin Boutique — get the full collection for **$99** (down from ~~$249~~). That's $150..."
-pubDate: "2026-04-23T18:27:35Z"
-tags: ["sale", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11881-Virtual-Guitarist-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-guitarist-bundle-d17cef"
-heroImage: "/images/virtual-guitarist-bundle-d17cef.jpg"
+title: "Virtual Guitarist Bundle: Features, Pricing & Is It Worth It? (2026)"
+description: "The Virtual Guitarist Bundle is a collection of guitar instrument plugins developed by UJAM, a German music software company known for their Find current pricing and reviews at Plugin Boutique."
+pubDate: '2026-04-23T18:27:35Z'
+tags: ["review", "effects", "bundle", "music-production"]
+affiliate: https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11881-Virtual-Guitarist-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-guitarist-bundle-d17cef
+heroImage: /images/virtual-guitarist-bundle-d17cef.jpg
 score: 9.95
-dealPrice: "$99.00"
-originalPrice: "$249.00"
-discount: "60% OFF"
-xText: "when a bundle drops to like $20-30 per plugin, that's stupid low for guitar tools. 60% off virtual guitarist basically never happens like this"
 draft: false
+converted: true
 ---
-**TL;DR:** The Virtual Guitarist Bundle from UJAM is currently **60% off** at Plugin Boutique — get the full collection for **$99** (down from ~~$249~~). That's $150 in savings on a suite of chord-driven guitar plugins built for producers who want pro guitar sounds without a session musician. [Grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11881-Virtual-Guitarist-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-guitarist-bundle-d17cef)
+**Virtual Guitarist Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11881-Virtual-Guitarist-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-guitarist-bundle-d17cef)
 
 ---
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vD6-dH0PQCA" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is the Virtual Guitarist Bundle?
 
@@ -44,15 +40,7 @@ The Virtual Guitarist series has a well-established reputation in producer commu
 - **Film and Media Composers:** The range of styles within the bundle covers multiple placement needs, from acoustic indie to heavier electric sounds.
 - **Home Studio Users:** The chord-based approach keeps the workflow accessible regardless of guitar playing ability.
 
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$249.00~~ | **$99.00** | $150.00 (60%) |
-
-At $99 for the bundle, the per-plugin value depends on how many titles are included — check the product page for the full plugin count. Buying the plugins individually at full price would cost significantly more, so this bundle entry point is worth comparing against individual title prices if you only need one or two styles.
-
-> Verify current pricing on the product page — deals can change.
+##  Buying the plugins individually at full price would cost significantly more, so this bundle entry point is worth comparing against individual title prices if you only need one or two styles.
 
 [→ Get the Virtual Guitarist Bundle for $99 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11881-Virtual-Guitarist-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-guitarist-bundle-d17cef)
 
@@ -80,11 +68,11 @@ A: The plugins support VST, AU, and AAX formats, covering most major DAWs. Check
 **Q: Is the $99 price permanent?**
 A: This is a promotional deal price at Plugin Boutique. Deal pricing can expire or change — confirm the current price at checkout.
 
-## Get the Deal
+## Where to Buy
 
 $150 off a full guitar plugin suite is a meaningful drop for this series. If guitar tracks are a consistent gap in your productions, this bundle brings the cost-per-instrument down significantly compared to individual pricing.
 
-[→ Grab the Virtual Guitarist Bundle at Plugin Boutique — 60% off](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11881-Virtual-Guitarist-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-guitarist-bundle-d17cef)
+[→ pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11881-Virtual-Guitarist-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-guitarist-bundle-d17cef)
 
 ---
 

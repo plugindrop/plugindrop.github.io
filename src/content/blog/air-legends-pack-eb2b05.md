@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/30mU3641JDk" title="50% Off AIR Legends Pack — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is the AIR Legends Pack?
 
 AIR Music Technology has a long history in the plugin world — the company originated inside Avid and was responsible for the instrument suite bundled with Pro Tools for years. The AIR Legends Pack bundles their vintage-flavored virtual instruments into a single purchase, covering the classic keyboard and organ sounds that have defined studio sessions for decades. It's sold exclusively through authorized retailers including Plugin Boutique.

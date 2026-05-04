@@ -16,7 +16,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EoqgM5hUsR0" title="K2get — K2get has updated Chord Dock Lite, a free reharmonization and arpeggio/bassline generation plugin for Win & Mac to v1.5. Expiry: None [FREE] — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Chord Dock Lite?
 
 Chord Dock Lite is a free MIDI plugin developed by K2get that handles reharmonization alongside arpeggio and bassline generation. The tool is designed to take chord input and transform or accompany it with harmonically intelligent output — useful for producers who want to explore chord substitutions or build movement into a track without writing every MIDI note by hand. The v1.5 update brings the plugin to its latest iteration, available for both Windows and Mac.

@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/zXG4hi6RI6A" title="34% Off BALANCE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is BALANCE?
 
 BALANCE is an EQ plugin available at Plugin Boutique, categorized under Effects/EQ. As the name signals, it's designed around the relationship between equalization and stereo balance — the kind of processing that sits at the intersection of tonal shaping and width control. It targets producers and engineers who want precise EQ work that accounts for how frequencies behave across the stereo field, not just at the mono level.

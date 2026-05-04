@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/u67Rf3YpgDo" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is TRITON Extreme?
 
 TRITON Extreme is a software instrument plugin based on KORG's iconic TRITON Extreme hardware workstation — a synth that defined the sound of countless pop, R&B, and hip-hop records in the early 2000s. KORG brought this workstation to the plugin world so producers can access its signature tones directly inside their DAW. The original hardware was renowned for its expansive PCM sound library, versatile synthesis engine, and the addition of MOSS (Modelling Object-based Sound Synthesis) physical modeling technology built into the Extreme edition. The plugin aims to preserve that legacy in a modern, accessible format.

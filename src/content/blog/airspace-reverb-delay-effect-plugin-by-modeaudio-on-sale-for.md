@@ -20,7 +20,6 @@ score: 4.99
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h97yUlOhIbc" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Airspace by ModeAudio?
 
 Airspace is ModeAudio's debut plugin — a hybrid that fuses convolution reverb with a fully-featured stereo delay engine. ModeAudio is known primarily as a sample and preset library company, and Airspace channels that DNA into a single effect plugin built around three processing stages: **Colour**, **Delay**, and **Space**. Each module can be used independently or blended together, giving producers a flexible spatial toolkit in one interface. It ships in VST3 and AU formats for both Windows and macOS.

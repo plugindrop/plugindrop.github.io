@@ -1,31 +1,26 @@
 ---
-title: "38% Off smart bundle"
-description: "Sonible's smart:bundle — six AI-powered mixing and mastering plugins — is currently 38% off at Plugin Boutique: ~~$399.00~~ $249.00, saving you $150. That..."
-pubDate: "2026-05-01T16:18:23Z"
-tags: ["sale", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa"
-heroImage: "/images/smart-bundle-0d04fa.jpg"
+title: "smart bundle: Features, Pricing & Is It Worth It? (2026)"
+description: "The smart:bundle is a six-plugin collection from Austrian DSP developer Sonible, built around a single design principle: content-aware proce Find current pricing and reviews at Plugin Boutique."
+pubDate: '2026-05-01T16:18:23Z'
+tags: ["review", "effects", "bundle", "music-production"]
+affiliate: https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa
+heroImage: /images/smart-bundle-0d04fa.jpg
 score: 10.00
-dealPrice: "$249.00"
-originalPrice: "$399.00"
-discount: "38% OFF"
-xText: "38% off bundle means each plugin costs basically nothing. rates usually don't drop this far. not waiting around on this one"
 draft: false
+converted: true
 ---
+**smart bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa)
+
+---
+
 Now I have everything I need. Writing the article.
 
 ---
 
-**TL;DR:** Sonible's smart:bundle — six AI-powered mixing and mastering plugins — is currently 38% off at Plugin Boutique: ~~$399.00~~ $249.00, saving you $150. That works out to roughly $41.50 per plugin across a complete intelligent processing chain. [→ Get smart:bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa)
-
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BwN005pDyFA" title="38% Off smart bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
-## What Is the Sonible smart:bundle?
+<iframe loading="lazy" src="https://www.youtube-nocookie.
 
 The smart:bundle is a six-plugin collection from Austrian DSP developer **Sonible**, built around a single design principle: content-aware processing. Each plugin analyzes incoming audio and adapts its behavior automatically, reducing the time spent on manual parameter setup. The bundle covers the core mixing and mastering chain — EQ, compression, reverb, gating, limiting, and de-essing — all under Sonible's AI-driven framework.
 
@@ -59,13 +54,9 @@ Sonible's smart:EQ has established a consistent presence in mixing discussions o
 
 ---
 
-## Pricing & Deal Details
+## Current Pricing
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$399.00~~ | $249.00 | $150.00 (38%) |
-
-Six plugins for $249 breaks down to approximately **$41.50 per plugin** — a meaningful per-unit value given that Sonible's tools are full-featured processors, not lite versions. Sonible runs promotional sales periodically; 38% off the full suite is a solid discount depth for this developer.
+Six plugins for $249 breaks down to approximately **$41.50 per plugin** — a meaningful per-unit value given that Sonible's tools are full-featured processors, not lite versions. 
 
 *Price verified at publication. Check the link for current availability.*
 
@@ -101,9 +92,7 @@ A: Each plugin is available for individual purchase — the bundle is the most c
 
 ---
 
-## Get the Deal
-
-At $249.00, the smart:bundle delivers six AI-powered Sonible processors at $41.50 per plugin — 38% below the regular $399.00 price. For producers looking to build out a full content-aware processing chain in one transaction, this is the entry point.
+## 50 per plugin — 38% below the regular $399.00 price. For producers looking to build out a full content-aware processing chain in one transaction, this is the entry point.
 
 [→ Get smart:bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa)
 

@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wxYYNiEQ4XE" title="48% Off Fluid Pitch — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Fluid Pitch?
 
 Fluid Pitch is a pitch-shifting plugin sold through Plugin Boutique, sitting in the dedicated pitch-shifter category rather than bundled inside a larger suite. That focus matters — specialized pitch tools are built around algorithm quality and low-artifact performance in a way that general-purpose DAW pitch functions rarely match. It targets producers, mix engineers, and sound designers who need precise, controllable pitch manipulation in their session.

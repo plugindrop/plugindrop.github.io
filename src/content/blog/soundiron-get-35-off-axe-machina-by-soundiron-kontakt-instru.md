@@ -22,7 +22,6 @@ score: 8.07
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WRfY8Gk3dI0" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Axe Machina by Soundiron?
 
 Axe Machina is a Kontakt-based sample instrument from Soundiron, a California-based developer known for deeply-sampled, production-ready libraries. The instrument is built around heavily processed and designed guitar sounds — blending real acoustic character with synthetic textures to deliver something that sits between organic and machine. Soundiron has a strong track record building instruments aimed at composers, sound designers, and producers who want expressive, unusual sources rather than vanilla presets.

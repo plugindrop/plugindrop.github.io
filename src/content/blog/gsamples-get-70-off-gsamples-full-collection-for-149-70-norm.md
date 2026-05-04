@@ -21,7 +21,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BNub0C0JyV0" title="GSamples — Get 70% off GSamples Full Collection for $149.70 (Normally 499) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is GSamples Full Collection?
 
 GSamples is a developer focused on orchestral and cinematic sample libraries built for Kontakt. The Full Collection bundles their entire catalog into a single purchase, giving producers access to a wide range of instruments — from strings and brass to ethnic and hybrid sounds — without buying each library individually. For composers working in film, TV, or trailer music, a full-collection deal like this is designed to cover most of the orchestral palette in one transaction.

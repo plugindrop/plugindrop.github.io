@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IslBZmbz47Q" title="33% Off LANDR Mastering Plugin PRO — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is LANDR Mastering Plugin PRO?
 
 LANDR Mastering Plugin PRO is an AI-powered mastering plugin developed by LANDR, the company behind one of the most widely used cloud mastering platforms in music production. The plugin brings LANDR's machine learning engine directly into a DAW, letting producers apply mastering processing without leaving their session. It targets independent artists and high-volume producers who want release-ready results through an automated, analysis-driven workflow.

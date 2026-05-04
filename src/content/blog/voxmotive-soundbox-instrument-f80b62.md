@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fGyDdvUUqWE" title="35% Off Voxmotive Soundbox Instrument — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Voxmotive Soundbox Instrument?
 
 Voxmotive Soundbox Instrument is a virtual instrument plugin developed by Voxmotive and sold through Plugin Boutique. It sits in the virtual instruments category, designed to extend a producer's sound palette with ready-to-play tones and textures. At under $30 on sale, it targets producers who want new sounds without a significant financial commitment. The 35% discount brings it into impulse-buy territory for most home studio setups.

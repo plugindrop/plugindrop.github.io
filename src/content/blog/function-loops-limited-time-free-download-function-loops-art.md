@@ -20,7 +20,6 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/kca5rO96x88" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Function Loops Artist Series Showcase?
 
 Function Loops is an established sample pack brand in the electronic music space, known for delivering production-ready loops, one-shots, and construction kits across genres like house, techno, and dance music. The Artist Series Showcase is a curated collection drawn from their Artist Series lineup — material developed in collaboration with working producers and artists. At a regular retail price of ~~$135~~, this represents a substantial release of studio-caliber content.

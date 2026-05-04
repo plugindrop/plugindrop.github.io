@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WZC6UlyBH18" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is the Lifeline Bundle?
 
 The Lifeline Bundle is an effects plugin bundle sold through Plugin Boutique, packaging multiple audio processing tools into a single purchase. It falls under Plugin Boutique's effects bundle category, targeting producers and mix engineers who want to expand their plugin rack without buying each tool separately. Check the product page for the full list of included titles and compatibility details.

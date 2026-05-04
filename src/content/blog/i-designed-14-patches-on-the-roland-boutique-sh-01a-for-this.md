@@ -17,7 +17,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/F8MuoVFBkNw" title="I designed 14 patches on the Roland Boutique SH-01A for this synthwave track (cover of &quot;Burnout&quot; by AERwave). Free patches and project notes in the post body — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is the Roland Boutique SH-01A?
 
 The Roland Boutique SH-01A is a compact hardware synthesizer that recreates the classic Roland SH-101, a monophonic synth originally released in 1982. The Boutique version adds polyphony and updated connectivity while retaining the original's tonal character. It's part of Roland's Boutique series — desktop modules aimed at producers who want classic synthesizer sounds in a portable, modern format.

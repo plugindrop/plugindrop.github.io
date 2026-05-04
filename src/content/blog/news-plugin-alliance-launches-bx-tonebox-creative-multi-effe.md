@@ -19,7 +19,6 @@ score: 4.0
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bz_lBe381HE" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is bx_tonebox?
 
 bx_tonebox is a creative multi-effect plugin developed by brainworx and sold through Plugin Alliance. Brainworx is well-known in the production community for their meticulous analog modeling work — titles like bx_console and bx_saturator have built a strong reputation in mixing and mastering circles. bx_tonebox appears to continue that lineage by packaging multiple creative processing tools into a single, cohesive unit aimed at sound design and music production workflows. Check the [official product page](https://www.plugin-alliance.com/products/bx_tonebox) for full technical specifications and supported formats.

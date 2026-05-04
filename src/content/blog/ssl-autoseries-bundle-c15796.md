@@ -1,27 +1,20 @@
 ---
-title: "34% Off SSL autoSeries Bundle"
-description: "The SSL autoSeries Bundle drops from ~~$149~~ to **$99** at Plugin Boutique — a 34% discount that puts $50 back in your pocket. SSL bundles at this price..."
-pubDate: "2026-05-01T16:18:25Z"
-tags: ["sale", "bundle", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16626-SSL-autoSeries-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-autoseries-bundle-c15796"
-heroImage: "/images/ssl-autoseries-bundle-c15796.jpg"
+title: "SSL autoSeries Bundle: Features, Pricing & Is It Worth It? (2026)"
+description: "Solid State Logic is one of the most recognized names in professional audio — their mixing consoles have been the backbone of major label st Find current pricing and reviews at Plugin Boutique."
+pubDate: '2026-05-01T16:18:25Z'
+tags: ["review", "bundle", "effects", "music-production"]
+affiliate: https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16626-SSL-autoSeries-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-autoseries-bundle-c15796
+heroImage: /images/ssl-autoseries-bundle-c15796.jpg
 score: 10.00
-dealPrice: "$99.00"
-originalPrice: "$149.00"
-discount: "34% OFF"
-xText: "ssl autoseries at 34% off doesn't happen often (usually bottoms out at 20%). full chain sits in a mix like butter. per-unit cost becomes basically free. if you're thinking about it, now's when"
 draft: false
+converted: true
 ---
-**TL;DR:** The SSL autoSeries Bundle drops from ~~$149~~ to **$99** at Plugin Boutique — a 34% discount that puts $50 back in your pocket. SSL bundles at this price tier don't get discounted frequently, making this a notable window for producers who've been watching the autoSeries. [→ Get SSL autoSeries Bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16626-SSL-autoSeries-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-autoseries-bundle-c15796)
+**SSL autoSeries Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16626-SSL-autoSeries-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-autoseries-bundle-c15796)
 
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_w1bBYjwVPo" title="34% Off SSL autoSeries Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
-## What Is the SSL autoSeries Bundle?
+<iframe loading="lazy" src="https://www.youtube-nocookie.
 
 Solid State Logic is one of the most recognized names in professional audio — their mixing consoles have been the backbone of major label studios for decades. The autoSeries Bundle is SSL's collection of automatic processing plugins, designed to bring intelligent gain management and dynamics control into modern DAW workflows. The bundle targets producers and engineers who want SSL's processing character with a focus on smart, automatic behavior rather than manual-only operation.
 
@@ -52,13 +45,9 @@ SSL occupies a specific tier in mixing communities — the brand carries institu
 
 ---
 
-## Pricing & Deal Details
+## Current Pricing
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$149~~ | $99 | $50 (34%) |
-
-SSL plugins at Plugin Boutique don't see 34% discounts as routine events. Their catalog tends to hold near full price between promotional windows, so a bundle discount in this range is worth noting on your deal calendar. For a multi-plugin bundle from an established hardware-legacy brand, the per-tool cost comes down significantly at $99.
+SSL plugins at Plugin Boutique don't see 34% discounts as routine events. Their catalog tends to hold near full price between promotional windows, so a bundle discount in this range is worth noting on your deal calendar. 
 
 *Price verified at publication. Check the link for current availability.*
 
@@ -74,7 +63,7 @@ SSL plugins at Plugin Boutique don't see 34% discounts as routine events. Their 
 | Brainworx bx_console SSL | ~$299 full price | Console strip emulation focused on per-channel SSL character |
 | UAD SSL 4000 E | Subscription/hardware tied | Hardware-dependent platform with strict UAD ecosystem lock-in |
 
-If you want SSL console-strip emulation channel by channel, bx_console covers that ground with deep per-instance variation. If the autoSeries' automatic processing workflow is the specific draw — especially at $99 — the alternatives don't directly replicate that angle.
+If you want SSL console-strip emulation channel by channel, bx_console covers that ground with deep per-instance variation. 
 
 ---
 
@@ -94,9 +83,7 @@ A: Promotional pricing on Plugin Boutique is time-limited. The current price is 
 
 ---
 
-## Get the Deal
-
-At $99 down from $149, this is a 34% reduction on a multi-plugin bundle from one of audio's most recognized hardware brands. SSL discounts at this depth don't appear on a predictable schedule.
+##  SSL discounts at this depth don't appear on a predictable schedule.
 
 [→ Get SSL autoSeries Bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16626-SSL-autoSeries-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-autoseries-bundle-c15796)
 

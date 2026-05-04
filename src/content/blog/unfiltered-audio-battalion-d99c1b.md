@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/u5s4BmHiscM" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Unfiltered Audio Battalion?
 
 Unfiltered Audio Battalion is a drum machine synthesizer plugin developed by Unfiltered Audio — a company known in the production community for building tools with unusually deep modulation architectures. Rather than functioning as a straightforward sample player, Battalion is built around synthesis-first drum sound generation paired with an integrated sequencer. Unfiltered Audio's broader catalog (including BYOME and Indent 2) has established the brand as one that pushes past conventional plugin design, and Battalion fits squarely within that philosophy.

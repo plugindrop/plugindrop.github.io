@@ -19,7 +19,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/9QQWmBNJTp4" title="34% Off Usynth Core — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Usynth Core?
 
 Usynth Core is a synthesizer instrument plugin developed by UJAM, the German music software company known for building streamlined, producer-friendly tools. It sits at the foundation of UJAM's Usynth product family, which spans a range of synthesis styles and sonic characters. The core design philosophy across UJAM's catalog prioritizes usability — accessible interfaces, fast workflows, and polished sounds out of the box.

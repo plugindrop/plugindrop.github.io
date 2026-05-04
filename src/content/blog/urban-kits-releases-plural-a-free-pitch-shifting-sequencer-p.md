@@ -18,7 +18,6 @@ score: 1.56
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LmpwnNfFjhI" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Plural?
 
 Plural is a free pitch-shifting sequencer plugin from **Urban Kits**, a developer focused on building tools for bedroom producers and beatmakers. It lets you run audio through a step sequencer that shifts pitch up or down by an octave per step — creating rhythmic, tonal movement from any loop or sound source. Think of it as an instant way to inject motion and texture into static audio. Urban Kits previously released Bedroom Guitar (a free sampled nylon guitar plugin) in October 2025, and Plural continues their streak of putting genuinely useful tools out at no cost.

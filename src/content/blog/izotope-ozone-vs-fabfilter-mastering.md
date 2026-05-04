@@ -44,9 +44,6 @@ This guide is for producers, mixing engineers, and home studio owners who are re
 Before scoring them head-to-head, you need to understand the scope of each tool. They occupy overlapping but distinct territory in a mastering chain.
 
 ### iZotope Ozone 12 — The AI-powered all-in-one mastering suite
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="iZotope Ozone 12 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** iZotope
 - **Price:** $249 (Standard), $499 (Advanced)
 - **Platforms:** Windows, macOS

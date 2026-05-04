@@ -19,7 +19,6 @@ heroImage: "/images/infinite-multi-effect-plugin-by-toolroom-on-sale-for-29-usd.
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/hsL5HrfrUf0" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Infinite by Toolroom?
 
 Infinite is a multi-effect plugin developed in partnership with Toolroom Records, the UK-based house and techno label that has shaped the sound of electronic music for over two decades. The plugin packages a chain of studio-grade effects — including modulation, reverb, and delay — into a single interface optimized for electronic and dance music workflows. Rather than being a general-purpose Swiss Army knife, Infinite is tuned specifically for the kinds of textures and spaces that work in club-ready tracks. Think: the Toolroom aesthetic in plugin form.

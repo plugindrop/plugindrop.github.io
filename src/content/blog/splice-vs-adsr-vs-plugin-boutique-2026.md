@@ -73,6 +73,9 @@ ADSR also offers a plugin subscription that provides access to a curated plugin 
 
 ### Plugin Boutique — The Ownership-First Plugin Marketplace
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/zwZoYo1SpaU" title="Plugin Boutique — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 - **Company:** Plugin Boutique Ltd
 - **Model:** Retail marketplace; pay per plugin, own the license permanently
 - **Cost:** No monthly fee; plugin prices set by individual developers
@@ -161,7 +164,7 @@ Splice is the right pick when sample volume or rent-to-own plugin access is the 
 - [Where to Find the Best Free Sample Packs in 2026 (Curated List)](/posts/best-free-sample-packs-2026/)
 - [ADSR Sounds vs Splice: Which Sample Subscription Is Better in 2026?](/posts/adsr-vs-splice-samples/)
 - [Kontakt vs Decent Sampler: Do You Actually Need to Pay for a Sampler?](/posts/kontakt-vs-decent-sampler/)
-- [Arturia Pigments 5 Review: Is This the Best All-in-One Soft Synth?](/posts/arturia-pigments-review/)
+- [Arturia Pigments 4 Review: Is This the Best All-in-One Soft Synth?](/posts/arturia-pigments-review/)
 
 ---
 

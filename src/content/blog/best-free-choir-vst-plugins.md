@@ -44,9 +44,6 @@ This guide is for producers who write film scores, ambient electronic music, pos
 ## The Best Free Choir & Vocal Ensemble VST Plugins
 
 ### Spitfire LABS Choir — The Free Benchmark That Paid Libraries Are Measured Against
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/RNK8LVayPec" title="Spitfire LABS Choir — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Spitfire Audio
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -100,7 +97,7 @@ The recording quality and sample depth do not compete with Spitfire's offerings.
 
 ### Virtual Playing Orchestra — The Community Orchestral Project Built for Templates
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/PGp1daVIBcs" title="Virtual Playing Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/SVN2x5J4q5Q" title="Virtual Playing Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Community project (Paul Battersby)
 - **Price:** Free
@@ -155,7 +152,7 @@ The KVR Audio community describes Alter/Ego as the standard recommendation for p
 
 ### VSCO2 Community Edition — Open-Source Orchestral With Vocal Content
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/IhnCgFe_j8s" title="VSCO2 Community Edition — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/3CxPeilBTGA" title="VSCO2 Community Edition — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Versilian Studios
 - **Price:** Free

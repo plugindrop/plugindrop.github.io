@@ -1,25 +1,21 @@
 ---
-title: Softube Model 82 SH-101 emulation is 70% OFF at Plugin Boutique ($29)
-description: Softube's Model 82 — a faithful emulation of the iconic Roland SH-101
-  — is currently **70% off** at Plugin Boutique, dropping from ~~$99~~ to just...
+title: "Softube Model 82 SH-101 emulation: Features, Pricing & Is It Worth It? (2026)"
+description: "Model 82 is Softube's software recreation of the Roland SH-101, the legendary monophonic synthesizer first released in 1982. The SH-101 beca Find current pricing and reviews at Plugin Boutique."
 pubDate: '2026-04-14T11:06:17Z'
-tags: ["sale", "deals", "hot", "music-production"]
+tags: ["review", "music-production"]
 affiliate: https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763
 heroImage: /images/softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq.jpg
-dealPrice: "$29"
-originalPrice: "$99"
-discount: "71% OFF"
-draft: false
 score: 6.71
+draft: false
+converted: true
 ---
-**TL;DR:** Softube's Model 82 — a faithful emulation of the iconic Roland SH-101 — is currently **70% off** at Plugin Boutique, dropping from ~~$99~~ to just **$29**. If you've been watching this one, that's a significant discount from a developer that doesn't run sales constantly. [Grab Model 82 at Plugin Boutique for $29.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763)
+**Softube Model 82 SH-101 emulation** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763)
 
 ---
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/AWvOkWY66Lc" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is Softube Model 82?
 
@@ -53,15 +49,9 @@ The SH-101 occupies a near-mythic status in electronic music history, so any qua
 
 ---
 
-## Pricing & Deal Details
+##  Price history context: deep discounts on Softube titles tend to appear around major sale events and don't always return quickly. Verify current pricing on the product page, as deals can change without notice.
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$99~~ | **$29** | ~$70 (70% off) |
-
-Softube doesn't discount at the frequency of some other developers — seeing 70% off on one of their instruments is worth paying attention to. Price history context: deep discounts on Softube titles tend to appear around major sale events and don't always return quickly. Verify current pricing on the product page, as deals can change without notice.
-
-[Get Model 82 for $29 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763)
 
 ---
 
@@ -73,7 +63,7 @@ Softube doesn't discount at the frequency of some other developers — seeing 70
 | Tal-BassLine-101 | Free | Free SH-101-style plugin, no circuit modeling depth |
 | Arturia Mini V | Check Arturia site | Moog Minimoog emulation — similar mono role, different filter character |
 
-If budget is the primary concern, TAL's BassLine-101 is a free starting point. If you want a deeper, circuit-modeled take on the SH-101 specifically — with Softube's analog accuracy and the built-in sequencer — Model 82 at $29 is a very different proposition.
+If budget is the primary concern, TAL's BassLine-101 is a free starting point. 
 
 ---
 
@@ -93,11 +83,9 @@ A: Check the official product page for current macOS and Windows compatibility d
 
 ---
 
-## Get the Deal
+##  At $29, Model 82 is priced well below what comparable modeled instruments typically cost.
 
-70% off a circuit-modeled SH-101 emulation from one of the more respected names in analog software is a deal that's hard to argue with. At $29, Model 82 is priced well below what comparable modeled instruments typically cost.
-
-[Claim 70% off Softube Model 82 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763)
+[pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763)
 
 ---
 
