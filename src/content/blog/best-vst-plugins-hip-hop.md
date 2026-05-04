@@ -1,7 +1,7 @@
 ---
 title: "15 Best VST Plugins for Hip-Hop Production in 2026 — Ranked"
 description: "For hip-hop production in 2026, **Serum by Xfer Records** is the community consensus pick for 808 design and synthesis — its modulation depth and the..."
-pubDate: "2026-05-04T10:39:54Z"
+pubDate: "2026-05-04T00:00:00Z"
 tags: ["guide", "vst", "genre specific"]
 affiliate: ""
 evergreen: true

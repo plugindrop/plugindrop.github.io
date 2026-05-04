@@ -1,7 +1,7 @@
 ---
 title: "Best Plugin Bundle Deals in 2026 — Ranked: Maximum Value, Minimum Spend"
 description: "Plugin bundles are the most cost-efficient path to a complete production toolkit in 2026 — if you buy at the right time. FabFilter Total Bundle is the..."
-pubDate: "2026-05-04T09:00:00Z"
+pubDate: "2026-05-04T00:00:00Z"
 tags: ["guide", "vst", "value"]
 affiliate: ""
 evergreen: true

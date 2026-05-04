@@ -108,7 +108,7 @@ When compression should do more than control dynamics — when you want it to ma
 
 ### Molot GE — Russian-engineered vintage punch, now with modern polish
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/eglhL2yU4wQ" title="Molot GE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/y9griw4Cw3s" title="Molot GE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** VladG Sound
 - **Price:** Free

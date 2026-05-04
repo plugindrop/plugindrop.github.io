@@ -138,7 +138,7 @@ TDR Nova is a parallel dynamic EQ where each band can respond dynamically to inc
 
 ### Techivation T-De-Esser Plus — Purpose-Built Sibilance Control
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EnD9seFQ1_A" title="Techivation T-De-Esser Plus — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ima6Cjm4HUw" title="Techivation T-De-Esser Plus — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Techivation
 - **Price:** Free

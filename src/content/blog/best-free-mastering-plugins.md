@@ -78,7 +78,7 @@ SPAN is a real-time FFT spectrum analyzer that Voxengo has kept free across its 
 
 ### Voxengo Correlometer — Phase correlation in a micro-plugin
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/zvk3vtlTKbk" title="Voxengo Correlometer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/Iaz3WhLp4uk" title="Voxengo Correlometer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Voxengo
 - **Price:** Free

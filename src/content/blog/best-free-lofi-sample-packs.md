@@ -168,7 +168,7 @@ Bedroom Producers Blog has operated as a trusted free plugin and sample resource
 
 ### Sample Focus Lo-Fi Noise & Crackle — Searchable tag-based sample library
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/hZliwghTs74" title="Sample Focus Lo-Fi Noise & Crackle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/Rp8_F0JWRgc" title="Sample Focus Lo-Fi Noise & Crackle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Creator:** Community contributors (Sample Focus platform)
 - **Price:** Free (attribution tier) or royalty-free (cleared tier)
@@ -238,7 +238,7 @@ Splice's free sample section — distinct from its subscription service — incl
 
 ### MSXII Sound Design Free Lo-Fi Packs — Genre expertise in harmonic content
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/mXqePsXZJqg" title="MSXII Sound Design Free Lo-Fi Packs — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/CZzlnT5snao" title="MSXII Sound Design Free Lo-Fi Packs — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Creator:** MSXII Sound Design
 - **Price:** Free (select packs)

@@ -193,7 +193,7 @@ TDR Nova is a parallel dynamic equalizer with four bands, a broadband dynamics s
 
 ### Baby Audio Smooth Operator — Intelligent spectral balancing at $49
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BiF27vS0CwA" title="Baby Audio Smooth Operator — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1jx9ON7BOU8" title="Baby Audio Smooth Operator — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Baby Audio
 - **Price:** $49

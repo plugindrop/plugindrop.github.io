@@ -118,7 +118,7 @@ Voxengo Elephant has been a reliable mastering room staple for well over a decad
 
 ### AOM Invisible Limiter G2 — Maximum transparency for acoustic and orchestral work
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/8WiWLk9ueYY" title="AOM Invisible Limiter G2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EuoZCNH3oc4" title="AOM Invisible Limiter G2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** AOM (Audio Osaka Mastering)
 - **Price:** ~$79
@@ -137,7 +137,7 @@ The Invisible Limiter G2 prioritizes transparency above all else. Its algorithm 
 
 ### Waves L2 Ultramaximizer — The plugin that defined brickwall limiting
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lniV4mrGt0Y" title="Waves L2 Ultramaximizer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/hAbJYhrGF3U" title="Waves L2 Ultramaximizer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves Audio
 - **Price:** Variable (~$29–$99 depending on current Waves sales)
