@@ -4,7 +4,11 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_TITLE } from '../consts';
 
-const PB_AID = "a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=bundle-comparison";
+// NOTE: PB product IDs change frequently. Links here use search URLs so they always
+// find the correct product. To update to direct product links, manually copy the URL
+// from each product page on pluginboutique.com.
+const PB_SEARCH = (q: string, campaign: string) =>
+  `https://www.pluginboutique.com/search?search_query=${encodeURIComponent(q)}&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=bundle-comparison&utm_campaign=${campaign}`;
 
 interface Bundle {
   name: string;
@@ -25,7 +29,7 @@ const BUNDLES: Bundle[] = [
     regularPrice: 999,
     plugins: 14,
     category: "Mixing & Mastering",
-    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/1222-Total-Bundle?${PB_AID}&utm_campaign=bundle-comparison-fabfilter-total`,
+    pbUrl: PB_SEARCH("FabFilter Total Bundle", "fabfilter-total"),
     highlight: "Industry-standard EQ, compressor, limiter in one package",
     tier: "professional",
   },
@@ -35,7 +39,7 @@ const BUNDLES: Bundle[] = [
     regularPrice: 449,
     plugins: 6,
     category: "Creative FX",
-    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/2540-Creative-Bundle?${PB_AID}&utm_campaign=bundle-comparison-fabfilter-creative`,
+    pbUrl: PB_SEARCH("FabFilter Creative Bundle", "fabfilter-creative"),
     highlight: "Saturn 2, Timeless 3, Volcano 3 — FX for sound design",
     tier: "essentials",
   },
@@ -45,28 +49,18 @@ const BUNDLES: Bundle[] = [
     regularPrice: 499,
     plugins: 18,
     category: "Creative FX",
-    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/2736-SoundToys-5?${PB_AID}&utm_campaign=bundle-comparison-soundtoys-5`,
+    pbUrl: PB_SEARCH("Soundtoys 5", "soundtoys-5"),
     highlight: "EchoBoy, Decapitator, PrimalTap — best creative FX bundle",
     tier: "professional",
   },
   {
-    name: "iZotope Music Production Suite 6",
+    name: "iZotope Music Production Suite",
     maker: "iZotope",
     regularPrice: 1099,
     plugins: 9,
     category: "Mixing & Mastering",
-    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/9985-Music-Production-Suite-6?${PB_AID}&utm_campaign=bundle-comparison-izotope-mps6`,
-    highlight: "Ozone 11, Neutron 4, Nectar 4, RX 11 — full production stack",
-    tier: "ultimate",
-  },
-  {
-    name: "iZotope Everything Bundle",
-    maker: "iZotope",
-    regularPrice: 1499,
-    plugins: 27,
-    category: "All-in-One",
-    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/5761-Everything-Bundle?${PB_AID}&utm_campaign=bundle-comparison-izotope-everything`,
-    highlight: "Every iZotope plugin — best value for mastering engineers",
+    pbUrl: "https://www.pluginboutique.com/meta_product/81-Bundles/39-Effects-Bundles/13854-iZotope-Music-Production-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=bundle-comparison&utm_campaign=izotope-mps",
+    highlight: "Ozone, Neutron, Nectar, RX — full production stack",
     tier: "ultimate",
   },
   {
@@ -75,7 +69,7 @@ const BUNDLES: Bundle[] = [
     regularPrice: 599,
     plugins: 38,
     category: "Instruments & FX",
-    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16401-Komplete-15?${PB_AID}&utm_campaign=bundle-comparison-komplete-15`,
+    pbUrl: PB_SEARCH("Komplete 15 Standard", "komplete-15"),
     highlight: "Massive X, Kontakt 7, Reaktor 6 — best instrument bundle for producers",
     tier: "professional",
   },
@@ -85,7 +79,7 @@ const BUNDLES: Bundle[] = [
     regularPrice: 999,
     plugins: 135,
     category: "Instruments & FX",
-    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16402-Komplete-15-Ultimate?${PB_AID}&utm_campaign=bundle-comparison-komplete-15-ultimate`,
+    pbUrl: PB_SEARCH("Komplete 15 Ultimate", "komplete-15-ultimate"),
     highlight: "135+ plugins including Kontakt libraries, synths, FX — complete studio",
     tier: "ultimate",
   },
@@ -95,7 +89,7 @@ const BUNDLES: Bundle[] = [
     regularPrice: 499,
     plugins: 33,
     category: "Vintage Synths",
-    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/10905-V-Collection-10?${PB_AID}&utm_campaign=bundle-comparison-arturia-v10`,
+    pbUrl: PB_SEARCH("Arturia V Collection 10", "arturia-v10"),
     highlight: "33 vintage synth & keyboard emulations — best value for keys players",
     tier: "professional",
   },
@@ -105,7 +99,7 @@ const BUNDLES: Bundle[] = [
     regularPrice: 399,
     plugins: 47,
     category: "Creative FX",
-    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16233-FX-Collection-5?${PB_AID}&utm_campaign=bundle-comparison-arturia-fx5`,
+    pbUrl: PB_SEARCH("Arturia FX Collection 5", "arturia-fx5"),
     highlight: "47 analog-modeled FX — best price per plugin in its category",
     tier: "professional",
   },
@@ -115,7 +109,7 @@ const BUNDLES: Bundle[] = [
     regularPrice: 399,
     plugins: 36,
     category: "Mixing",
-    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/1226-Gold?${PB_AID}&utm_campaign=bundle-comparison-waves-gold`,
+    pbUrl: PB_SEARCH("Waves Gold Bundle", "waves-gold"),
     highlight: "Classic SSL, L1, CLA compressors — workhorse mixing bundle",
     tier: "essentials",
   },
@@ -125,18 +119,8 @@ const BUNDLES: Bundle[] = [
     regularPrice: 599,
     plugins: 65,
     category: "Mixing",
-    pbUrl: `https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/1229-Platinum?${PB_AID}&utm_campaign=bundle-comparison-waves-platinum`,
+    pbUrl: PB_SEARCH("Waves Platinum Bundle", "waves-platinum"),
     highlight: "Everything in Gold plus H-Series, IR-L, TransX",
-    tier: "professional",
-  },
-  {
-    name: "u-he Ummet Ozcan Synth Bundle",
-    maker: "u-he",
-    regularPrice: 349,
-    plugins: 3,
-    category: "Synthesizers",
-    pbUrl: `https://www.pluginboutique.com/product/1-Instruments/17-Synthesiser/?${PB_AID}&utm_campaign=bundle-comparison-uhe`,
-    highlight: "Diva + Hive 2 + Repro — three acclaimed analog synths",
     tier: "professional",
   },
 ];

@@ -19,6 +19,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum 2 by Xfer Records — No talking sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -44,6 +45,8 @@ This guide breaks down every major category head-to-head — oscillators, modula
 The heart of any wavetable synth is how it generates, morphs, and sculpts sound at the oscillator level. This is where the two instruments diverge most meaningfully.
 
 ### Serum — The gold standard for pristine wavetable output
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum 2 by Xfer Records — No talking sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records (Steve Duda)
 - **Price:** ~$189 (one-time) or via Splice subscription
@@ -234,7 +237,7 @@ No — Serum does not offer a free trial, though Splice subscribers can access i
 ## Related Guides
 
 - [Serum VST Review 2026: Is It Still the Best Wavetable Synth?](/posts/serum-vst-review/)
-- [Vital Synthesizer Review 2026: The Best Free Synth?](/posts/vital-synthesizer-review-2026/)
+- [Vital Synthesizer Review 2026: The Best Free Synth?](/posts/best-free-synth-plugins/)
 - [Is Serum Worth It in 2026?](/posts/is-serum-worth-it/)
 - [14 Best Free Synth VST Plugins in 2026 (Try Before You Buy)](/posts/best-free-synth-plugins/)
 - [Phase Plant vs Serum: Which Wavetable Synth Wins in 2026?](/posts/phase-plant-vs-serum/)
