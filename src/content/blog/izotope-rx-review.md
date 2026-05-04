@@ -41,6 +41,8 @@ This guide is for music producers, podcasters, dialogue editors, and home studio
 
 ### iZotope RX 11 — The Most Complete Audio Repair Suite Available
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BwETF2GtPGI" title="iZotope RX 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** iZotope
 - **Price:** Standard ~$399 / Advanced ~$1,199
 - **Platforms:** Windows, macOS

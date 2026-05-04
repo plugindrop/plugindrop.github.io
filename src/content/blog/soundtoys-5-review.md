@@ -245,6 +245,8 @@ Both support tempo sync while deliberately avoiding perfect quantization. That h
 
 ### Soundtoys 5 — The full bundle is the obvious move
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/nJmeBHf2moE" title="Soundtoys 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Soundtoys
 - **Price:** $499 (regularly on sale ~$299)
 - **Why upgrade:** Buying individual Soundtoys plugins adds up fast — Decapitator and EchoBoy alone cost $398 at retail, and you still do not have Little AlterBoy, MicroShift, Crystallizer, Devil-Loc, Tremolator, FilterFreak, and fifteen others. The bundle makes economic sense the moment you want more than two or three plugins.

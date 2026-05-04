@@ -39,6 +39,8 @@ This review covers every major module in Ozone 11, breaks down the differences b
 
 ### Master Assistant — AI-Powered Starting Point
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/-XmGvXFmdM8" title="Master Assistant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** iZotope
 - **Included In:** All tiers (Elements, Standard, Advanced)
 - **Platforms:** Windows, macOS
@@ -55,6 +57,8 @@ In practice, Master Assistant gets you to a usable starting point in under 30 se
 ---
 
 ### Ozone EQ — Surgical Precision with Analog Character
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/N5ERarcHkwY" title="Ozone EQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Included In:** Standard, Advanced (limited in Elements)
@@ -73,6 +77,8 @@ Matching to a reference track is built in via the Match EQ function, which analy
 
 ### Maximizer — The Loudness Engine
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/chRsQbkLN6w" title="Maximizer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** iZotope
 - **Included In:** All tiers
 - **Platforms:** Windows, macOS
@@ -90,6 +96,8 @@ IRC IV handles transient-heavy material (drums, percussion-forward tracks) parti
 
 ### Imager — Stereo Width Control
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/YH3g4B68lro" title="Imager — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** iZotope
 - **Included In:** Standard, Advanced
 - **Platforms:** Windows, macOS
@@ -106,6 +114,8 @@ The vectorscope and correlation meter built into the module give you real-time f
 ---
 
 ### Dynamics — Multiband Control
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/6dN6raXIkR0" title="Dynamics — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Included In:** Standard, Advanced
@@ -141,6 +151,8 @@ Used at low drive settings, the Vintage modules add character without obvious pr
 
 ### Stem Focus — Isolate and Adjust (Advanced)
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/VMxU7EknlEU" title="Stem Focus — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** iZotope
 - **Included In:** Advanced only
 - **Platforms:** Windows, macOS
@@ -160,6 +172,8 @@ The separation is not perfect on every source, and artifacts are audible on heav
 
 ### FabFilter Pro-L 2 — The Professional's Limiting Benchmark
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/xExJ6snDzg4" title="FabFilter Pro-L 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** FabFilter
 - **Price:** ~$199
 - **Why upgrade:** Ozone's Maximizer is excellent, but FabFilter Pro-L 2 gives you six limiter algorithms, per-sample true peak limiting with higher oversampling, and a more granular loudness metering suite (EBU R128, ATSC A/85, CALM Act). For producers delivering to broadcast or submitting to mastering chains where maximum transparency is required, Pro-L 2 is the industry-standard final limiter that many engineers place after Ozone.
@@ -169,6 +183,8 @@ The separation is not perfect on every source, and artifacts are audible on heav
 ---
 
 ### iZotope Music Production Suite — The Full Ecosystem
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Sm66WGBAG_g" title="iZotope Music Production Suite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** Bundle (see current pricing)

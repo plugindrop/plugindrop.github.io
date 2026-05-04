@@ -19,7 +19,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum 2 by Xfer Records — No talking sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -45,8 +44,6 @@ This guide breaks down every major category head-to-head — oscillators, modula
 The heart of any wavetable synth is how it generates, morphs, and sculpts sound at the oscillator level. This is where the two instruments diverge most meaningfully.
 
 ### Serum — The gold standard for pristine wavetable output
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum 2 by Xfer Records — No talking sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records (Steve Duda)
 - **Price:** ~$189 (one-time) or via Splice subscription

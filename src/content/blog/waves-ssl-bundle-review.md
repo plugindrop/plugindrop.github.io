@@ -42,6 +42,8 @@ This guide is a deep-dive review of the core Waves SSL bundle: the E-Channel str
 
 ### Waves SSL E-Channel — The Industry's Default Channel Strip
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/HFlB6sgaa7Y" title="Waves SSL E-Channel — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Waves Audio
 - **Price:** ~$29–49 (Waves sale pricing; check current price at link)
 - **Platforms:** Windows, macOS

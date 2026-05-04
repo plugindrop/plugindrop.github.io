@@ -42,6 +42,8 @@ This review covers everything you need to know: what Serum does, how it sounds, 
 
 ### Serum — The Wavetable Synth That Defined a Generation
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/1X-RlvQiqx0" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Xfer Records (Steve Duda)
 - **Price:** ~$189 (one-time purchase)
 - **Platforms:** Windows, macOS

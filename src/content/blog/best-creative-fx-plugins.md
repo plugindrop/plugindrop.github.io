@@ -17,7 +17,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/CQJAsTD7VUU" title="12 Best Creative & Experimental Effect VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -152,8 +151,6 @@ Infiltrator 2 chains multiple effect modules with a sequencer-driven modulation 
 
 ### Output Portal — Granular effects as an insert, not a sound design exercise
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/CQJAsTD7VUU" title="Output Portal — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Output
 - **Price:** ~$99
 - **Platforms:** Windows, macOS
@@ -264,8 +261,6 @@ Snap Heap is a modular effects host that chains Kilohearts "snapin" effect modul
 
 ### Output Portal — From free granular utilities to a purpose-built real-time granular insert
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/CQJAsTD7VUU" title="Output Portal — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Output
 - **Price:** ~$99
 - **Why upgrade:** Free granular tools typically function as sound design environments requiring significant setup to work effectively as real-time insert effects. Output Portal is engineered specifically as a real-time granular processor with an interface that maps directly to production outcomes — the workflow difference between it and free granular alternatives is immediate from the first session.
@@ -275,8 +270,6 @@ Snap Heap is a modular effects host that chains Kilohearts "snapin" effect modul
 ---
 
 ### Soundtoys 5 — From piecemeal free plugins to a unified creative effects standard
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/sW3vt73eLM8" title="Soundtoys 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** ~$499
