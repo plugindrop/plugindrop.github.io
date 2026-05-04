@@ -116,7 +116,7 @@ Repeater models four hardware magnetic delay units, each with a distinct persona
 
 ### Native Instruments Replika — Five Delay Types, One Clean Interface
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/RfTtlyMmRWI" title="Native Instruments Replika — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/v5S5rvmsHr4" title="Native Instruments Replika — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
 - **Price:** ~$49

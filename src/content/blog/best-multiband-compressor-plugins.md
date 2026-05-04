@@ -61,7 +61,7 @@ What separates Pro-MB from every alternative is the hybrid architecture — each
 
 ### iZotope Ozone Dynamics — AI-assisted multiband for mastering
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/chRsQbkLN6w" title="iZotope Ozone Dynamics — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gXKcKp1CIIk" title="iZotope Ozone Dynamics — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** Included in Ozone Standard ($199) and above

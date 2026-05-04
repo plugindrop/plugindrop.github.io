@@ -85,7 +85,7 @@ The free tier's boundaries are in preset content and wavetable packs, not in the
 
 ### Phase Plant Lite — A Modular Gateway With a Real Engine Underneath
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/OCssF7PF7Tc" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/OxdRDhcNbe4" title="Phase Plant Lite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

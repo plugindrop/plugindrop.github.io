@@ -121,7 +121,7 @@ The plugin is Windows-only and does not include true peak detection, which is th
 
 ### Unlimited — Low-overhead brickwall for in-session mix-bus use
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/-UZH9e1FjPQ" title="Unlimited — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/CETvVDzEI-I" title="Unlimited — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Sonic Anomaly
 - **Price:** Free
@@ -140,7 +140,7 @@ Unlimited lacks true peak detection and multiband processing, which separates it
 
 ### MLimiter — Brick-wall limiting within Melda Production's free bundle
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/AjB0CIvX6iE" title="MLimiter — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/oOyY0U3gJ7M" title="MLimiter — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Melda Production
 - **Price:** Free (included in MFreeFXBundle)

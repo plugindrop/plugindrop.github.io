@@ -101,7 +101,7 @@ IRC IV handles transient-heavy material (drums, percussion-forward tracks) parti
 
 ### Imager — Stereo Width Control
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/4IPVMBCxfWk" title="Imager — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/JvTII3J6n9g" title="Imager — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Included In:** Standard, Advanced
@@ -120,7 +120,7 @@ The vectorscope and correlation meter built into the module give you real-time f
 
 ### Dynamics — Multiband Control
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-DCMQL44zQ4" title="Dynamics — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/hXpfFKBI2C0" title="Dynamics — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Included In:** Standard, Advanced

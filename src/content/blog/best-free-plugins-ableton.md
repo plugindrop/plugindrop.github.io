@@ -83,7 +83,7 @@ Surge XT is a hybrid synthesizer that combines subtractive, FM, wavetable, and w
 
 ### OB-Xd — Vintage Oberheim Warmth, Zero Cost
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fEy9-2TpWL8" title="OB-Xd — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/eddihFI7-bw" title="OB-Xd — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** discoDSP
 - **Price:** Free

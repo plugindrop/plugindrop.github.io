@@ -198,7 +198,7 @@ Once your core chain is locked in, these bundles and premium options offer the n
 
 ### Waves Vocal Bundle — The complete Waves vocal toolkit in one purchase
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_HLbHY7vRZM" title="Waves Vocal Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/pe_HTQxJo7U" title="Waves Vocal Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves Audio
 - **Price:** From $99

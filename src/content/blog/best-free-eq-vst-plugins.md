@@ -149,7 +149,7 @@ Voxengo Marvel GEQ is a 16-band linear phase graphic equalizer with the kind of 
 
 ### LP10 — The dedicated linear phase mastering EQ
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WiEjFdUfV_U" title="LP10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/xMUIlUMYeCo" title="LP10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** LKJB
 - **Price:** Free

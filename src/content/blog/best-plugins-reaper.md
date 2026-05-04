@@ -200,7 +200,7 @@ TAL-Reverb-4 offers a minimal control set — room size, pre-delay, high and low
 
 ### ReaPlugs — Reaper's native DSP engines, free for Windows
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/PoEUcT9ytYU" title="ReaPlugs — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/2yBMVUfYxzU" title="ReaPlugs — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Cockos
 - **Price:** Free

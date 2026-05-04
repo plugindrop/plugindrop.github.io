@@ -78,7 +78,7 @@ The trade-off is an intentionally bare-bones interface. sforzando loads SFZ file
 
 ### TX16Wx Software Sampler — Full-Featured and Consistently Underrated
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/w9xNfl1eCEY" title="TX16Wx Software Sampler — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Y0LHT3J-niM" title="TX16Wx Software Sampler — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** CWITEC
 - **Price:** Free (paid Pro version also available)
