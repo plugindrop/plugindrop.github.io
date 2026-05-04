@@ -80,6 +80,9 @@ Auto-Tune's Graph mode can achieve clean results too, but its Auto mode — even
 
 ### Real-Time Workflow — **Winner: Auto-Tune Pro**
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Q1Raev1Fp0g" title="Real-Time Workflow — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 Auto-Tune runs in your signal chain live. You can monitor pitch correction while tracking, set up a headphone mix with correction active, and never leave your session to bounce audio. For producers who like to track with pitch correction in the loop, this is a significant workflow advantage.
 
 Melodyne with ARA2 is far more streamlined than the old "transfer audio" method, but it is still an editor you open separately from the main timeline view. It's built for post-production editing sessions, not live signal processing. If you need something that just runs — always on, low-friction — Auto-Tune is faster to set up and simpler to maintain.
@@ -97,6 +100,9 @@ The stepped, quantized vocal sound that defined a generation of pop music is onl
 Melodyne can produce pitch effects, but it cannot replicate the real-time, continuous retune artifact that makes Auto-Tune's effect sound the way it does. If that sound is part of your aesthetic, Melodyne is the wrong purchase.
 
 ### Value and Tiered Entry — **Winner: Melodyne**
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wWjYSiw9riA" title="Value and Tiered Entry — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 Melodyne's tiered licensing structure ($99 for Essential up to $699 for Studio) means you can buy in at a level that matches your actual needs. Melodyne Essential is sufficient for basic monophonic vocal correction. Editor adds polyphonic editing and is the most popular production-focused tier. You can upgrade tiers by paying the price difference.
 

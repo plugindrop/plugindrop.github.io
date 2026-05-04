@@ -41,6 +41,9 @@ The drop lives or dies on its lead sound. Before any processing stage matters, y
 
 ### Serum — The Industry-Standard Wavetable Synth for EDM
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/iJk3rJm_cZI" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 - **Developer:** Xfer Records
 - **Price:** $189
 - **Platforms:** Windows, macOS

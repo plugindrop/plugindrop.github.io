@@ -82,6 +82,9 @@ This is where the decisions get made. For each major use case, one bundle wins �
 
 ### Vintage Analog Synthesis — Winner: Arturia V Collection
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/SolYIVy5obQ" title="Vintage Analog Synthesis — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 Arturia's modeling goes deeper. The Prophet-5 V includes per-voice detuning and vintage spread controls that replicate unit-to-unit hardware variation. The CS-80 V captures the polyphonic aftertouch and ribbon behavior of the original. The Jup-8 V models the DCO/VCF character specific to the Jupiter-8. Komplete Standard includes Monark (a Minimoog emulation) and some legacy synths via FM8 and Absynth, but these are not systematic hardware recreations. If vintage analog synthesis is your core workflow, V Collection wins by a wide margin.
 
 ### FM and Digital Vintage — Winner: Arturia V Collection (narrow win)
@@ -90,9 +93,15 @@ The DX7 V and CZ V in V Collection are solid emulations of the Yamaha DX7 and Ca
 
 ### Sampling and Acoustic Instruments — Winner: NI Komplete
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/827oa5RmMoU" title="Sampling and Acoustic Instruments — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 This isn't close. Komplete's Kontakt 7 full license opens the largest third-party sample library ecosystem in existence. The bundled libraries — Session Strings, Scarbee bass and keyboard emulations, Action Strings, The Gentleman (acoustic piano), and more — provide production-ready acoustic textures that V Collection simply doesn't attempt. V Collection has Piano V and Stage-73 V (modeled, not sampled), which are excellent for character but not replacements for full acoustic sample sets.
 
 ### Modern Synthesis — Winner: Tie, Different Strengths
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/4bdVi9KLqok" title="Modern Synthesis — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 V Collection's Pigments is a genuinely excellent modern synth — wavetable, virtual analog, granular, and sampling engines in one interface with a deep modulation matrix. Komplete's Massive X is a flagship wavetable instrument with an extensive preset library and strong community support. Reaktor 6 gives Komplete an open-ended modular environment that has no equivalent in V Collection. For wavetable production specifically, both are competitive. For experimental/generative synthesis, Reaktor has no comparison.
 
@@ -102,13 +111,22 @@ This category belongs entirely to V Collection. The B-3 V (Hammond organ emulati
 
 ### Guitar and Amp Simulation — Winner: NI Komplete
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WXIt6eBiijY" title="Guitar and Amp Simulation — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 Guitar Rig 7 Pro in Komplete Standard is a full-featured amp sim and effects chain. V Collection contains no guitar-focused tools. If you record guitars or produce music requiring realistic amp sounds, Komplete is the only option here.
 
 ### Effects and Mixing Tools — Winner: NI Komplete
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/cqZ5iMj72cU" title="Effects and Mixing Tools — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 Komplete Standard includes a suite of mixing effects — Replika XT (delay), Raum (reverb), Solid Bus Comp, Solid EQ, and more. V Collection is focused entirely on instruments and includes no dedicated effects processors. Producers who want a bundle that covers both production and mixing lean toward Komplete for this reason.
 
 ### CPU Efficiency — Winner: Arturia V Collection
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Ixmt5snnH8s" title="CPU Efficiency — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 V Collection's analog modeling is consistently lighter on CPU than Komplete's Kontakt-based libraries at high polyphony. On lower-spec machines or when running large sessions with many instances open, V Collection is the more practical choice. This is a real operational advantage, not a minor spec difference.
 

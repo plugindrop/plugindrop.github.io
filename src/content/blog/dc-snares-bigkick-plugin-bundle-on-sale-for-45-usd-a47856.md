@@ -34,6 +34,9 @@ Together, they cover the two most critical elements of any drum sound: the snare
 - **Deep modulation** — four envelopes and a velocity curve mappable to hundreds of parameters
 
 ### BigKick
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/AcDCM5A6I2Y" title="BigKick — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Two body models** — "Original" for versatile styles and "Tough" for harder-edged electronic sounds
 - **300+ attack types and 110 presets** — large factory library for quick starting points
 - **Pitch-to-bassline tuning** — set the kick's pitch to match your bass, or play it chromatically via MIDI

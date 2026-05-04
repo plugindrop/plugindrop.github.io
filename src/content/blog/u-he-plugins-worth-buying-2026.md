@@ -42,6 +42,9 @@ This guide is for producers who have already read the headlines and want a direc
 
 ### u-he Diva — The Benchmark for Virtual Analog
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LeSAuSUayFE" title="u-he Diva — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 - **Developer:** u-he
 - **Price:** $179
 - **Platforms:** Windows, macOS
@@ -114,9 +117,6 @@ No affiliate purchase link is available for Zebra2. It can be trialed and purcha
 ---
 
 ### u-he Diva — When Analog Authenticity Is Non-Negotiable
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/LeSAuSUayFE" title="u-he Diva — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** u-he
 - **Price:** $179
 - **Why upgrade from Hive 2:** Hive 2 is efficient and versatile, but it doesn't attempt circuit-level analog modeling. If your productions depend on sounds with the physical warmth, subtle pitch drift, and tonal complexity that circuit emulation produces, Diva is the step up. The community is consistent on this: Diva behaves differently in a mix in a way that behavioral modeling doesn't replicate.

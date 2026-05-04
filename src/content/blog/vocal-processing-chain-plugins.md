@@ -139,9 +139,6 @@ FabFilter Pro-C 2 covers eight distinct compression styles in a single plugin �
 After dynamics are controlled, this is where you add back the color and life that clinical processing can strip away. Harmonic saturation adds warmth and presence without needing to boost with EQ. A second EQ pass for presence or air also lives here. This step is where the vocal stops sounding processed and starts sounding like a record.
 
 ### iZotope Nectar 4 — AI-assisted vocal shaping in one intelligent suite
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/8q-mrB1jozE" title="iZotope Nectar 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** iZotope
 - **Price:** $249
 - **Platforms:** Windows, macOS

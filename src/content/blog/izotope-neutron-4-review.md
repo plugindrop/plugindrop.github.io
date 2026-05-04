@@ -41,6 +41,9 @@ This review covers Neutron 4 Standard and Advanced editions in full — every mo
 
 ### Track Assistant — The AI Starting Point That Works
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/D_KB8dnPnwU" title="Track Assistant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 The headline feature is Track Assistant: load Neutron 4 on a track, hit the button, and it listens to your audio for a few seconds. It then configures EQ, compression, transient shaping, and exciter settings based on the detected instrument or vocal. The result isn't a finished mix — it's an educated starting point.
 
 In practice, the suggestions are genuinely useful about 70% of the time. On drums, bass, and vocals especially, the initial EQ curve often cuts problem frequencies you'd have found anyway on a second pass. On complex sources like layered synths or mixed percussive elements, the suggestions are more generic. The key insight: use it as a diagnostic tool, not a finisher.
@@ -53,6 +56,9 @@ In practice, the suggestions are genuinely useful about 70% of the time. On drum
 
 ### The Equalizer Module — Genuinely Excellent, AI Aside
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/z5VaQT2FxWA" title="Equalizer Module — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 Strip out the AI entirely, and Neutron 4's EQ is one of the best-sounding channel EQs available at any price. It features eight bands with switchable filter types, a dedicated spectrum analyzer with pre/post display, and a high-quality algorithm that doesn't introduce harshness at extreme settings. The Dynamic EQ mode (where bands compress reactively based on threshold) is a direct competitor to FabFilter Pro-Q 3's dynamic EQ — and it's included in the same plugin rather than as a separate purchase.
 
 The EQ also supports mid-side processing per band, which is a feature that used to require dedicated M/S matrix plugins. For mix bus work and mastering preparation, this alone is worth knowing about.
@@ -62,6 +68,9 @@ The EQ also supports mid-side processing per band, which is a feature that used 
 ---
 
 ### Compressor Module — Two Modes, Both Useful
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Zede44-HhZ8" title="Compressor Module — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 Neutron 4 ships with a compressor that offers both a vintage-modeled mode and a modern clean mode. The vintage mode adds harmonic saturation at the knee — useful on drums and bass where you want the compression to be heard as a texture, not just gain reduction. The clean mode is transparent enough for dialogue, acoustic instruments, and mix bus work.
 
@@ -73,6 +82,9 @@ The compressor includes an integrated Transient Shaper that works in parallel wi
 
 ### Unmask — The Feature Engineers Don't Talk About Enough
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/U1sje7vIhaI" title="Unmask — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 Unmask is the inter-plugin feature that makes Neutron 4 more than a channel strip. Load Neutron on your kick drum and your bass guitar simultaneously, assign one as the "masker" and one as the "maskee," and Neutron will dynamically cut frequencies in the bass when the kick hits to create separation. This is frequency masking reduction done automatically in real time.
 
 Manually achieving this requires either careful static EQ carving (which doesn't follow the dynamics of either instrument) or a multiband sidechain compressor setup that takes significant routing work. Unmask does it in three clicks. On dense low-end arrangements — hip-hop, EDM, modern pop — this is a session-saver.
@@ -83,6 +95,9 @@ Manually achieving this requires either careful static EQ carving (which doesn't
 
 ### Sculptor — Advanced Edition Only, Worth the Upgrade
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/HmocPdOaqms" title="Sculptor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 Sculptor is Neutron 4 Advanced's spectral shaping module. Rather than working in traditional EQ bands, Sculptor applies processing across hundreds of frequency bins simultaneously, modeled on acoustic profiles of real instruments. You can blend a thin acoustic guitar toward a richer body, or push a nasal synth pad toward a warmer texture.
 
 This is genuinely a different category of processing than EQ. It doesn't replace EQ — it operates where EQ can't reach, in the micro-detail of spectral balance between adjacent frequency ranges. For producers working heavily in sound design or who frequently need to fix poorly recorded sources, Sculptor alone justifies the Advanced upgrade cost.
@@ -92,6 +107,9 @@ This is genuinely a different category of processing than EQ. It doesn't replace
 ---
 
 ### Visual Mixer and Relay — The Ecosystem Advantage
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/4wqkUEvsNNI" title="Visual Mixer and Relay — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 Neutron 4 includes the Relay plugin, a lightweight metering and communication plugin designed to sit on every track. Relay feeds the Visual Mixer — a separate floating window showing all your tracks' levels, panning, and width in a visual layout you can adjust by dragging.
 

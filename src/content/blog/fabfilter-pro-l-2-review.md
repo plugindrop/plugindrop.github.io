@@ -70,6 +70,9 @@ Switching between algorithms in real time is fast via the selector, and the gain
 
 ### True Peak Limiting and the Metering Suite
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/V2EUVpasalU" title="True Peak Limiting and the Metering Suite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 True peak limiting is not optional in 2026. Regular sample-peak limiting misses inter-sample peaks — distortion events that occur during digital-to-analogue conversion — meaning a master can measure -0.1 dBFS on a meter and still clip on playback. Pro-L 2's true peak mode operates at up to 32x oversampling, catching the peaks that pass through cheaper or older limiters.
 
 The integrated metering panel displays Short-term LUFS, Momentary LUFS, Integrated LUFS, True Peak, and Loudness Range (LRA) simultaneously and continuously. This coverage means that for the EBU R128 broadcast standard, Spotify, Apple Music, or YouTube delivery, you can verify compliance without opening a separate metering plugin. The ISP indicator is colour-coded and prominent — a detail that seems minor but saves meaningful time when troubleshooting codec distortion after export.
@@ -77,6 +80,9 @@ The integrated metering panel displays Short-term LUFS, Momentary LUFS, Integrat
 ---
 
 ### Mid/Side and Stereo Processing Modes
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/PriZRQanaeI" title="Mid/Side and Stereo Processing Modes — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 Pro-L 2 operates in three modes: Stereo Linked, Stereo Unlinked, and Mid/Side. The Mid/Side mode is where the plugin enters genuinely professional mastering territory. Processing the mid and sides independently allows for tighter control over wide, energetic mixes — you can apply heavier limiting to the sides to prevent mono compatibility issues while preserving more transient energy in the centre image.
 

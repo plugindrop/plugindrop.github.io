@@ -93,6 +93,9 @@ On sheer catalog size, Splice's library dwarfs ADSR Sounds. This is not a close 
 
 ### Sample Quality Consistency — ADSR's documented edge
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/D-osmO9Rkg0" title="Sample Quality Consistency — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 Community consensus distinguishes the two platforms clearly here. Producer forums consistently describe ADSR packs as having higher average quality per sound. The curation model means every pack has passed an editorial standard before entering the library. Splice's aggregated model means the producer does more of the curation work themselves. For producers who consider auditioning low-quality samples a real workflow tax, this distinction is economically meaningful — time spent sorting is cost.
 
 **Best for:** Producers who want higher hit rates per download and less time spent in the auditioning phase.

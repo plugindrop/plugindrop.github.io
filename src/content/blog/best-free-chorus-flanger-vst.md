@@ -39,6 +39,9 @@ This guide is written for bedroom producers, home studio engineers, and anyone w
 
 ### TAL-Chorus-LX — The default free chorus, still undefeated
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ZQ456UUkapA" title="TAL-Chorus-LX — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 - **Developer:** TAL Software (Togu Audio Line)
 - **Price:** Free
 - **Platforms:** Windows, macOS, Linux

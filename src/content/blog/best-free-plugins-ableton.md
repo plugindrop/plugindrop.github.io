@@ -47,6 +47,9 @@ Ableton's built-in instruments are solid, but these free VST synthesizers add ti
 
 ### Vital — The Free Synth That Rivals Serum
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/n0WWWh4tVKc" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 - **Developer:** Matt Tytel
 - **Price:** Free (paid tiers available for extra presets)
 - **Platforms:** Windows, macOS, Linux

@@ -29,6 +29,9 @@ Free is free. But that doesn't mean these are throwaway tools. Here's what you n
 
 ### MDV-II
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/pM4H3F8mE7s" title="MDV-II — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 MDV-II is a dynamics processor with a vintage character. It targets producers and engineers who want natural, musical gain control without clinical precision — the kind of tool that adds feel alongside function. Check the developer's product page for exact specifications and supported formats.
 
 ### BandMatrix
@@ -36,6 +39,9 @@ MDV-II is a dynamics processor with a vintage character. It targets producers an
 BandMatrix is a band-based routing and mixing utility. It's designed for complex signal-path work — think multiband processing chains, parallel routing setups, or layered sound design workflows. Verify DAW compatibility and system requirements on the official page before downloading.
 
 ### LAEA
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/04-gWAiMsKk" title="LAEA — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 LAEA is a spectral or EQ-adjacent tool — useful for frequency-focused shaping and analysis tasks. Details on its exact processing type and feature set should be confirmed directly at the source, as plugin specs can vary from version to version.
 

@@ -43,6 +43,9 @@ In 2026, full native Apple Silicon support has made the AU plugin ecosystem clea
 
 ### FabFilter Pro-Q 3 — the industry-standard parametric EQ
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/R30G0_DK7TI" title="FabFilter Pro-Q 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 - **Developer:** FabFilter
 - **Price:** $179
 - **Platforms:** macOS, Windows

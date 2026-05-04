@@ -96,6 +96,9 @@ Pro-L 2 has no AI features at all. That's not a criticism — it's a design phil
 
 ### Limiting Quality & Transparency — A genuine split
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/l8-H9flpBlo" title="Limiting Quality & Transparency — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 Ozone 11's IRC LL algorithm is excellent. For the vast majority of music production use cases — streaming releases, EP masters, album finales — it sounds clean, handles transients well, and is easy to dial in. Most producers won't hear a difference between it and Pro-L 2 at moderate limiting depths.
 
 Push harder — deep limiting for club records, high-loudness commercial masters, or anything where the limiter is genuinely working hard — and the gap widens. Pro-L 2's Transparent and Modern algorithms retain more inter-sample peak accuracy, deliver finer control over attack and release shaping, and exhibit less pumping or harshness at equivalent gain reduction. Experienced mastering engineers consistently reach for Pro-L 2 at the ceiling stage precisely because of this precision.

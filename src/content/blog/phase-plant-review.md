@@ -64,6 +64,9 @@ The **Snapin effects chain** processes the final signal and is where Phase Plant
 
 ### The Free Tier — Genuine Value or Just a Taste?
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lizjPo2NxG8" title="Free Tier — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 Kilohearts offers Phase Plant Essentials as a free download. It's a real synth, not a 5-minute demo. The free tier gives you access to the core architecture: you can run multiple generators, use envelopes and LFOs, and work with the included Snapins. The limitations kick in when you need the full generator roster (Sample player and Super oscillator are paywalled) and when you want the extended Snapin library.
 
 For producers evaluating whether to spend $199, this is an unusually honest trial. You can build real sounds, export audio, and decide based on actual usage. Most competing synths give you either a time-limited demo or a crippled export. Phase Plant Essentials is neither.
@@ -73,6 +76,9 @@ For producers evaluating whether to spend $199, this is an unusually honest tria
 ---
 
 ### Workflow and Interface — High Ceiling, Steep Ramp
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_1xtU0UuL4w" title="Workflow and Interface — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 The interface is clean by modular standards. Generators and modulators are laid out left-to-right, the effects chain sits below, and routing connections are color-coded. After a few sessions, the layout becomes intuitive. The challenge isn't the interface — it's the open-ended decision-making. When a synth can be anything, deciding *what* to make it can cause paralysis for producers used to fixed architectures.
 

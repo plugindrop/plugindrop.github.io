@@ -62,6 +62,9 @@ The defining feature of Pro-C 2 is its eight compression algorithms, each modele
 
 ### Clean — The Purest Path
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/2zjQNeM2RxU" title="Clean — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 Clean mode applies minimal harmonic coloration and responds predictably to all parameter settings. It's the workhorse mode for modern pop vocals, acoustic instruments, or mastering chains where you need gain reduction without any tonal imprint. When transparency is the goal — when the compressor should be felt but never heard — this is the correct starting point.
 
 ### Classic — General-Purpose Versatility
@@ -78,9 +81,15 @@ Vintage mode adds harmonic distortion and a slightly non-linear response charact
 
 ### Mastering — Reference-Grade Transparency
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/nWhKRsRopn0" title="Mastering — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 Mastering style is tuned specifically for 2-bus and mastering chain use. It applies gentle, musically intelligent gain reduction with lookahead capability, designed to handle wide stereo content without causing imaging artifacts or over-squashing transients. Paired with Pro-C 2's mid-side mode, it becomes a genuinely competitive alternative to dedicated mastering hardware at a fraction of the cost.
 
 ### Bus — Subtle Glue
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/eEg3Mwb4eZU" title="Bus — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 Bus mode optimizes the compression behavior for full mix or submix sources, applying a broader and gentler ratio response that pulls a mix together without squashing individual elements. This is Pro-C 2's answer to the classic SSL G-Buss sound — similar in intent but with cleaner internals and far more parameter flexibility.
 

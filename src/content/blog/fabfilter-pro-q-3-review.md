@@ -43,6 +43,9 @@ This guide covers every major feature, real-world use cases across genres, hones
 
 ### FabFilter Pro-Q 3 — The Parametric EQ That Still Sets the Standard
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/cms6wtyh96Y" title="FabFilter Pro-Q 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 - **Developer:** FabFilter
 - **Price:** ~$179
 - **Platforms:** Windows, macOS
@@ -62,11 +65,17 @@ The dynamic EQ functionality is native, not bolted on. Each band can be switched
 
 ### The Interface: Why Workflow Efficiency Still Matters
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IDMrLQGd21w" title="Interface: Why Workflow Efficiency Still Matters — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 FabFilter's UI design philosophy is unchanged and still unmatched in its category. Bands are created by double-clicking on the spectrum display and dragged into position directly. Q, gain, and frequency adjust with modifier keys — no modal switching, no separate parameter panels to navigate. You are always inside the EQ itself, not hunting through menus. For engineers spending hours daily inside a single plugin, this responsiveness compounds into real time savings across a session.
 
 The built-in Piano Roll display maps EQ band positions against musical notes, which is genuinely useful when targeting resonant fundamentals or harmonics by ear. Snap-to-note functionality makes harmonic EQing — increasingly standard in modern production — accessible without referencing frequency charts.
 
 ### Three Processing Modes for Every Situation
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Idhal0rRJj8" title="Three Processing Modes for Every Situation — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 Pro-Q 3 offers three distinct operating modes:
 
@@ -78,13 +87,22 @@ Switching between modes is a single click, the difference is audible on full mix
 
 ### Dynamic EQ: The Feature That Changes the Calculus
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/hjvEY0ilJFc" title="Dynamic EQ: The Feature That Changes the Calculus — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 Each of Pro-Q 3's 24 bands can operate in static or dynamic mode. In dynamic mode, you define a threshold, range, and attack/release — the band becomes a frequency-targeted compressor or expander. A 5 dB cut on a harsh 3 kHz resonance that only engages when a vocal pushes louder is cleaner and more transparent than a static notch sitting there all the time. Dynamic EQ was once the territory of dedicated plugins costing as much as Pro-Q 3 alone. Having it inside your primary EQ — already instantiated on every channel — removes friction and eliminates an extra plugin instance from the chain.
 
 ### EQ Match and Spectrum Grab
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fsQ16kZge24" title="EQ Match and Spectrum Grab — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 The EQ Match feature analyzes the spectral difference between two audio signals and generates filter bands to match one to the other. It's a practical tool for referencing a mix against a commercial track or matching tonality across multiple microphones on the same source. The results require editorial judgment — it generates a starting point, not a finished curve — but that starting point is often far closer than a blank slate.
 
 ### Collision Detection Across the Session
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/YpItccejoAA" title="Collision Detection Across the Session — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 Load Pro-Q 3 on multiple channels and enable spectrum display across instances. Each open instance can show the frequency content of any other Pro-Q 3 in the session simultaneously, with collision highlighting flagging where two tracks compete for the same frequency range. For engineers managing complex arrangements, this is one of the fastest methods available for identifying masking issues without switching between channel strips.
 

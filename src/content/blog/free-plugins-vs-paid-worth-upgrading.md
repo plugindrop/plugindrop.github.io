@@ -15,9 +15,15 @@ score: 1.68
 ## EQ: TDR Nova (Free) vs FabFilter Pro-Q 4 (Paid)
 
 ### TDR Nova — Free
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/RNbYGJ8gxSs" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 Four dynamic EQ bands, each switchable between static and dynamic mode. High-pass and low-pass filters. Spectrum analyzer. Handles surgical EQ work and gentle dynamic correction. [Full article here](/posts/tdr-nova-free-dynamic-eq/).
 
 ### FabFilter Pro-Q 4 — $189 (often on sale)
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 Up to 24 bands, per-band mid/side processing, dynamic EQ on every band, linear phase mode, spectrum grab (EQ Match), surround support, and a resizable interface. [Current deal](/posts/fabfilter-pro-q-4-spring-sale-30-off/).
 
 ### What Paid Gets You
@@ -35,9 +41,15 @@ Up to 24 bands, per-band mid/side processing, dynamic EQ on every band, linear p
 ## Reverb: Valhalla Supermassive (Free) vs Valhalla VintageVerb ($50)
 
 ### Valhalla Supermassive — Free
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Gng6RCDKPBg" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 18+ modes focused on massive reverb tails, delays, and experimental warp effects. Infinite decay. Reverb/delay hybrid. [Full breakdown](/posts/valhalla-supermassive-free-reverb-delay/).
 
 ### Valhalla VintageVerb — $50
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EzPouHxa18s" title="Valhalla VintageVerb — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 Classic reverb algorithms — Concert Hall, Bright Hall, Plate, Room, Chamber, Sanctuary, and more. Modeled after hardware reverb units from the 1970s-1980s. Color control for vintage or modern character.
 
 ### What Paid Gets You
@@ -55,9 +67,15 @@ Classic reverb algorithms — Concert Hall, Bright Hall, Plate, Room, Chamber, S
 ## Synth: Vital (Free) vs Serum ($189)
 
 ### Vital — Free Tier
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/n0WWWh4tVKc" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 Three wavetable oscillators, spectral warping, drag-and-drop modulation, visual interface, MPE support. 75 presets in the free tier. Full synthesis engine available at $0. [Full article](/posts/vital-free-wavetable-synth-download/).
 
 ### Serum — $189 (or $9.99/month rent-to-own via Splice)
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/iJk3rJm_cZI" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 Two wavetable oscillators, sub-oscillator, noise oscillator, advanced unison with multiple modes, wavetable editor with formula-based generation, and the largest third-party preset ecosystem of any soft synth.
 
 ### What Paid Gets You

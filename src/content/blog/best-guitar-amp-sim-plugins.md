@@ -44,9 +44,6 @@ This guide covers ten plugins across free and paid tiers: five professional paid
 ## Best Paid Guitar Amp Simulator VST Plugins
 
 ### Neural DSP Archetype — The Community's Consensus Top Pick
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/J5oiNtfsW2o" title="Neural DSP Archetype — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Neural DSP
 - **Price:** ~$99–$179 per artist pack
 - **Platforms:** Windows, macOS
@@ -230,9 +227,6 @@ TSE Audio X50 v2 targets the EVH 5150 III, and metal community threads on KVR an
 ## Worth Upgrading To
 
 ### Neural DSP Archetype — Unlock Captures and Remove Restrictions
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/J5oiNtfsW2o" title="Neural DSP Archetype — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Neural DSP
 - **Price:** ~$99–$179 per pack
 - **Why upgrade:** Free trial versions of all Archetype packs include a recurring audio interruption that prevents recording use. The paid license removes this restriction entirely and unlocks Neural Capture loading — the feature that allows you to run third-party captures of real hardware amps, which is where the long-term value of the Archetype ecosystem lives.
@@ -242,9 +236,6 @@ TSE Audio X50 v2 targets the EVH 5150 III, and metal community threads on KVR an
 ---
 
 ### Bias Amp 2 — Access the Full Amp Designer
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/OObQ_WxSdso" title="Bias Amp 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Positive Grid
 - **Price:** From $99
 - **Why upgrade:** The demo version of Bias Amp 2 limits access to the component-level amp designer — the core feature that distinguishes Bias Amp 2 from preset-based competitors. Without the full amp designer unlocked, you are using a moderately capable preset amp sim and missing the functionality the product is actually built around.

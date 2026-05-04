@@ -54,9 +54,6 @@ The weakness is equally consistent across community discussion: credits don't ro
 **Best for:** Producers in active project phases who can consistently use 200+ credits per month and want to build a permanent sample library over time.
 
 ### Splice Sounds Library Quality — Curated depth, but genre-dependent
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/x4I_vyN_tjI" title="Splice Sounds Library Quality — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Splice
 - **Price:** Included with Sounds subscription
 - **Platform:** Web, macOS, Windows, iOS

@@ -41,6 +41,9 @@ This guide covers five free wavetable VST plugins worth installing in 2026, rank
 
 ### Vital — The Free Benchmark
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/n0WWWh4tVKc" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 - **Developer:** Vital Audio (Matt Tytel)
 - **Price:** Free (Vital Plus and Vital Pro tiers available for expanded preset and wavetable libraries)
 - **Platforms:** Windows, macOS, Linux

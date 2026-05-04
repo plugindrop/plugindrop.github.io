@@ -73,6 +73,9 @@ ADSR also offers a plugin subscription that provides access to a curated plugin 
 
 ### Plugin Boutique — The Ownership-First Plugin Marketplace
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/zwZoYo1SpaU" title="Plugin Boutique — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 - **Company:** Plugin Boutique Ltd
 - **Model:** Retail marketplace; pay per plugin, own the license permanently
 - **Cost:** No monthly fee; plugin prices set by individual developers

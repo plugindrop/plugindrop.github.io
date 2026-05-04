@@ -45,6 +45,9 @@ The heart of any wavetable synth is how it generates, morphs, and sculpts sound 
 
 ### Serum — The gold standard for pristine wavetable output
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/iJk3rJm_cZI" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 - **Developer:** Xfer Records (Steve Duda)
 - **Price:** ~$189 (one-time) or via Splice subscription
 - **Platforms:** Windows, macOS

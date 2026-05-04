@@ -44,6 +44,9 @@ This guide covers the four strongest free alternatives to Serum currently availa
 
 ### Vital — The Definitive Free Wavetable Synth
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/n0WWWh4tVKc" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 - **Developer:** Matt Tytel
 - **Price:** Free (paid tiers at $25 and $80 add preset packs and online wavetable access — no synthesis features are locked)
 - **Platforms:** Windows, macOS, Linux
