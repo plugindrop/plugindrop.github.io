@@ -35,8 +35,6 @@ Fluid Pitch is a pitch-shifting plugin sold through Plugin Boutique, sitting in 
 
 ## Who Is It For?
 
-- ** Plugin Boutique runs periodic promotional deals, but individual plugin discounts at this depth don't always recur on a predictable schedule — if pitch shifting is a gap in your toolkit, this is a concrete reason to act rather than wait.
-
 Verify current pricing on the product page — deals can change without notice.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/7552-Fluid-Pitch?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-pitch-c863d7)

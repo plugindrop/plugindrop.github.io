@@ -43,11 +43,7 @@ DW Soundworks is a virtual drum instrument developed by Roland in collaboration 
 
 ---
 
-##  With six full expansion kits included, the per-kit cost at the deal price works out to roughly $16.58 each. DW as a brand does not have a history of frequent deep discounting, which makes this worth noting if acoustic drum authenticity is a priority in your toolkit.
-
-*Price verified at publication. Check the link for current availability.*
-
-[→ Get DW Soundworks at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15329-DW-Soundworks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dw-soundworks-a1130e)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15329-DW-Soundworks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dw-soundworks-a1130e)
 
 ---
 
@@ -81,7 +77,7 @@ A: Yes — DW Soundworks is built as an expandable platform with additional cont
 
 ##  
 
-[→ Get DW Soundworks at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15329-DW-Soundworks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dw-soundworks-a1130e)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15329-DW-Soundworks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dw-soundworks-a1130e)
 
 ---
 

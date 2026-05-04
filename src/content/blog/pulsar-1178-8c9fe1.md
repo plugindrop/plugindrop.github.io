@@ -49,8 +49,6 @@ Pulsar Audio has built a solid reputation in mixing communities for their circui
 
 ---
 
-## Current Pricing
-
 Pulsar Audio doesn't run deep discounts constantly — when they do appear, 40%+ off is meaningful. Verify current pricing on the product page, as deals can change.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1)
@@ -84,8 +82,6 @@ A: Pulsar Audio has offered demo versions of their plugins in the past — check
 A: System requirements vary by platform and plugin version. Check the official product page for the most accurate and up-to-date specs.
 
 ---
-
-##  At $79.00 (), this is a solid entry point into Pulsar Audio's catalog.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1)
 

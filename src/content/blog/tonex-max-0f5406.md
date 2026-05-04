@@ -43,8 +43,6 @@ TONEX MAX is the top-tier edition of IK Multimedia's AI-powered amp modeling pla
 
 ---
 
-## Current Pricing
-
 A two-thirds price cut on the MAX tier is a significant move.  Verify current pricing on the product page — deals can change.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12452-TONEX-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tonex-max-0f5406)

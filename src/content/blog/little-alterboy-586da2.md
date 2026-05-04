@@ -48,8 +48,6 @@ Little AlterBoy has been a community staple for years. On forums like KVR Audio 
 
 ---
 
-## Current Pricing
-
 Soundtoys doesn't run deep discounts constantly — sales at this level tend to appear a few times a year, often around plugin deal events or as part of store-wide promotions. A 51% cut on a single plugin from a well-regarded developer is worth paying attention to.
 
 Note: Verify current pricing on the product page — deals can change without notice.

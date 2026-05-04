@@ -37,8 +37,6 @@ Tekno is a fully synthesized drum machine plugin by Baby Audio, co-developed wit
 - **Sample-Free Workflow Advocates:** The fully synthetic architecture means every sound is unique to your session — no sample packs, no hunting for the right kick.
 - **Producers Exploring Baby Audio's Ecosystem:** Shares the same workflow-focused design philosophy as the rest of the Baby Audio lineup, making it a natural addition for existing users.
 
-## Current Pricing
-
 Baby Audio doesn't discount aggressively on a regular schedule — a 39% drop is a meaningful opportunity worth acting on. Verify current pricing on the product page, as deals can change without notice.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/139-Drum-Synth/15545-Tekno?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tekno-9055de)

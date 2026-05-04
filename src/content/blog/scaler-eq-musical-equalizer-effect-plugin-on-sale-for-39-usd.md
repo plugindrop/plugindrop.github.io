@@ -41,13 +41,9 @@ Scaler EQ is a musical equalizer plugin developed by the team behind Scaler, Plu
 
 ---
 
-## Current Pricing
-
 A Plugin Boutique runs sales across its catalog with some regularity, so catching this during the active window is worth doing — waiting for a deeper discount on a Plugin Boutique original isn't a reliable strategy.
 
-*Price verified at publication. Check the link for current availability.*
-
-[→ Get Scaler EQ at Plugin Boutique](https://www.pluginboutique.com/products/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-musical-equalizer-effect-plugin-on-sale-for-39-usd)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/products/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-musical-equalizer-effect-plugin-on-sale-for-39-usd)
 
 ---
 
@@ -79,9 +75,7 @@ A: The plugin is designed to accept or detect a song key as its core operating p
 
 ---
 
-##  The discount is available for a limited time at Plugin Boutique.
-
-[→ Get Scaler EQ at Plugin Boutique](https://www.pluginboutique.com/products/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-musical-equalizer-effect-plugin-on-sale-for-39-usd)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/products/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-musical-equalizer-effect-plugin-on-sale-for-39-usd)
 
 ---
 

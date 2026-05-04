@@ -47,8 +47,6 @@ The bx_console series from Brainworx has built a solid reputation in mixing comm
 
 ---
 
-## Current Pricing
-
  If you've had this on your wishlist, this is a meaningful price drop worth acting on.
 
 Note: Verify current pricing on the product page — deals can change.
@@ -84,8 +82,6 @@ A: Check the product page for the full system requirements and supported DAW/plu
 A: Plugin Alliance and Plugin Boutique frequently offer trial versions — check the product listing for demo availability.
 
 ---
-
-##  At $40, the math makes sense.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10241-bx-console-SSL-9000-J?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-ssl-9000-j-ec1327)
 

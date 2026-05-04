@@ -43,8 +43,6 @@ TRITON Extreme is a software instrument plugin based on KORG's iconic TRITON Ext
 
 ---
 
-##  KORG software titles don't run deep discounts constantly, so when a sale hits this threshold it's worth paying attention to. Verify current pricing on the product page — deals can change.
-
 [Check the current price and grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=triton-triton-extreme-9e9e88)
 
 ---

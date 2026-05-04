@@ -42,8 +42,6 @@ The MC2000 is a multiband compressor plugin developed by McDSP, a company with a
 
 ---
 
-##  At $79 for a professional-tier multiband compressor, the math makes sense for engineers who've been sitting on the fence.
-
 Verify current pricing on the product page — deals can change without notice.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8949-MC2000-Multi-Band-Compressor-Native-v7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mc2000-multi-band-compressor-native-v7-aef471)

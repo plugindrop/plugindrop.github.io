@@ -49,8 +49,6 @@ Mix Bundle One is a plugin bundle from **Slate Digital** that packages seven ana
 
 ---
 
-## Current Pricing
-
 Seven plugins for $49.50 works out to approximately **$7.07 per plugin** — strong per-unit value for analog-modeled tools from a recognized developer. 
 
 **Formats:** AU, VST2, AAX (macOS) | VST2, VST3, AAX (Windows)  

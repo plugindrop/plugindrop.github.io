@@ -44,13 +44,11 @@ Bloom Drum Breaks is a virtual instrument and sample library built around drum b
 
 ---
 
-## Current Pricing
-
 A 34% cut on a sub-$60 product is worth paying attention to. It pushes Bloom Drum Breaks comfortably under the $40 threshold — a notably more impulse-friendly price point for a niche library. Plugin Boutique runs periodic sales across its catalog, but discount frequency varies by developer, so there's no reliable pattern to predict when this title might go on sale again.
 
 *Verify current pricing on the product page — deals can change without notice.*
 
-[→ Get Bloom Drum Breaks for $39.00 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-breaks-4d77af)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-breaks-4d77af)
 
 ---
 

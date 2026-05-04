@@ -27,20 +27,13 @@ Anthology XII is a complete plugin collection bundle available through Plugin Bo
 
 - **Complete Collection Scope** — Positioned as a full-catalog bundle, covering a broad range of production tools in a single purchase
 - **Twelfth Generation** — The XII versioning indicates an established product line with successive updates baked into the package
-- **Plugin Boutique Delivery** — Licensed and delivered through Plugin Boutique's standard activation and download infrastructure
 - **Professional Price Tier** — Standard retail of $1,999 places this alongside other top-tier complete collections aimed at full-time producers and engineers
 
 ---
 
 ## Who Is It For?
 
-- ** 
-
-Complete collection bundles at this scale rarely sustain discounts of this depth — 25–30% is more typical for catalog-wide sales. 
-
-*Price verified at publication. Check the link for current availability.*
-
-[→ Get Anthology XII at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/8762-Anthology-XII?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=anthology-xii-db5000)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/8762-Anthology-XII?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=anthology-xii-db5000)
 
 ---
 
@@ -72,7 +65,7 @@ A: System requirements depend on the publisher's specifications — check the of
 
 ---
 
-[→ Get Anthology XII at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/8762-Anthology-XII?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=anthology-xii-db5000)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/8762-Anthology-XII?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=anthology-xii-db5000)
 
 ---
 

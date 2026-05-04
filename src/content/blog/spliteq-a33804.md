@@ -49,13 +49,9 @@ SplitEQ drew sustained discussion on KVR Audio and Gearspace after launch, large
 
 ---
 
-## Current Pricing
-
 Eventide titles don't rotate through Plugin Boutique sales on a monthly basis the way some larger plugin vendors do.  At $79, it lands below many conventional high-end EQ options with narrower feature sets.
 
-*Price verified at publication. Check the link for current availability.*
-
-[→ Get SplitEQ at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804)
 
 ---
 
@@ -87,9 +83,7 @@ A: Check the official Eventide site for current OS and DAW compatibility details
 
 ---
 
-##  Eventide discounts at this depth are infrequent, and the deal is currently live at Plugin Boutique.
-
-[→ Get SplitEQ at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804)
 
 ---
 

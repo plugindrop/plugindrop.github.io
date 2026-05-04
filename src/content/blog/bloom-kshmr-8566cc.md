@@ -80,7 +80,7 @@ A: Refund and return policies vary by product and publisher. Check Plugin Boutiq
 
 Bloom KSHMR is down to **$39.00**. If cinematic EDM textures belong in your next project, this is the right window to pick it up.
 
-[→ Get Bloom KSHMR for $39.00 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14907-Bloom-KSHMR?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-kshmr-8566cc)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14907-Bloom-KSHMR?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-kshmr-8566cc)
 
 ---
 

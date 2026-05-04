@@ -31,7 +31,6 @@ Based on the product listing category and available information:
 
 - **Dedicated percussion focus** — Built around drum and percussion sounds rather than being a catch-all rompler, keeping the workflow targeted.
 - **Virtual instrument format** — Runs inside your DAW as a plugin, meaning instant integration into existing sessions.
-- **Plugin Boutique distribution** — Sold through one of the most established plugin storefronts, with standard licensing and download infrastructure.
 - **Broad DAW compatibility** — Check the product page for the exact supported formats (VST/AU/AAX) and operating system requirements.
 
 *Note: For a complete feature breakdown — including engine specs, preset count, and format support — verify on the product page, as details vary by version.*
@@ -45,8 +44,6 @@ Based on the product listing category and available information:
 - **DAW-native workflow enthusiasts** — Anyone who prefers keeping everything inside the box rather than managing standalone sample libraries will appreciate the plugin format.
 
 ---
-
-## Current Pricing
 
 34% is a meaningful discount by plugin industry standards. Many percussion instruments in this category run sales in the 20–30% range a few times per year — hitting 34% puts this deal in the upper tier of what's typical. If you've been sitting on Bloom Drum Percussion, this is a reasonable moment to pull the trigger rather than wait for uncertain future pricing.
 
@@ -83,8 +80,6 @@ A: Supported formats and system requirements are listed on the product page — 
 A: Check the Plugin Boutique product listing for any available demo or trial option, as availability varies by title.
 
 ---
-
-##  If percussion sound design is part of your regular workflow, $39.00 is a low-friction entry point.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14163-Bloom-Drum-Percussion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-percussion-8617d0)
 

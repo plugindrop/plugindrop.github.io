@@ -38,8 +38,6 @@ Based on the product's categorization and artist context, Bloom Mura Masa is a v
 
 ## Who Is It For?
 
-- ** Plugin Boutique runs limited-time promotions regularly, but there's no guarantee this price returns once the deal window closes. Verify current pricing on the product page — deals can change.
-
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15252-Bloom-Mura-Masa?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-mura-masa-688626)
 
 ---

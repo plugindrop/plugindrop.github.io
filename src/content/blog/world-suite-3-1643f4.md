@@ -42,8 +42,6 @@ World Suite 3 is a virtual instrument plugin designed to bring authentic global 
 
 ---
 
-##  Half-off deals on full-price libraries in this price range typically represent a genuine buying window rather than routine promotional pricing — though deal history for this specific title isn't widely documented, so treat the current price as the floor to compare against.
-
 > **Note:** Verify current pricing on the product page — deals can change without notice.
 
 [Check the current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4)

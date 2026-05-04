@@ -43,11 +43,7 @@ Lifeline Console is a channel strip plugin developed by Excite Audio, built to b
 
 ---
 
-##  Excite Audio's discount history through Plugin Boutique leans toward occasional targeted promotions rather than the frequent flash sales common among larger plugin publishers — this deal is worth treating as a genuine window rather than a baseline.
-
-*Price verified at publication. Check the link for current availability.*
-
-[→ Get Lifeline Console at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/9066-Lifeline-Console?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-console-3486af)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/9066-Lifeline-Console?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-console-3486af)
 
 ---
 
@@ -81,7 +77,7 @@ A: Check the official product listing for current system requirements and confir
 
 ##  The channel strip format makes it a compact addition to a mixing toolkit without adding plugin chain complexity.
 
-[→ Get Lifeline Console at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/9066-Lifeline-Console?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-console-3486af)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/9066-Lifeline-Console?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-console-3486af)
 
 ---
 

@@ -31,15 +31,12 @@ Based on the product listing category and deal structure, the dime Bundle is pos
 
 - **Effects Processing Suite** — a curated set of audio effect plugins covering core mix and sound design territory
 - **Bundle Pricing Value** — purchasing as a bundle rather than individually is designed to reduce the per-plugin cost significantly
-- **Plugin Boutique Distribution** — sold and delivered through Plugin Boutique's established download and licensing system
 - **DAW Compatibility** — check the product page for confirmed host compatibility and supported formats (VST/AU/AAX)
 - **System Requirements** — verify macOS/Windows support and minimum specs directly on the product page before purchasing
 
 ---
 
 ## Who Is It For?
-
-- **
 
 Note: Verify current pricing on the product page — deals can change at any time.
 

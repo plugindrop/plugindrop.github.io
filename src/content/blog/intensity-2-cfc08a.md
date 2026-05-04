@@ -44,8 +44,6 @@ For exact system requirements, supported DAWs, and activation method, check the 
 - **Mastering engineers** — Dynamics control at the mix bus level is a standard part of a mastering chain; a dedicated tool here can replace more general-purpose compressors.
 ---
 
-##  In the plugin market, discounts in the 30–35% range on dynamics tools are meaningful, especially when the regular price sits above $100. Whether this deal has a hard expiration date isn't confirmed, so verify current pricing before purchasing.
-
 > **Note:** Verify current pricing on the product page — deals can change.
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2? If you want a full compressor with more algorithmic variety, Pro-C 2 covers more ground at a higher price point.
