@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_UDFXfdMnYc" title="65% Off EchoBoy — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is EchoBoy?
 
 EchoBoy is a delay and echo plugin developed by Soundtoys. It models the character of vintage tape echo units, analog delays, and digital echo hardware, giving producers access to a wide tonal palette from a single plugin. Soundtoys has been building DSP tools for professional studios since the late 1990s, and EchoBoy sits at the center of their lineup as their flagship delay processor. It runs as VST, AU, and AAX on both Mac and Windows.

@@ -20,7 +20,6 @@ score: 6.54
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lYnZ7ac4EtY" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is the UAD Musicians Collection?
 
 Universal Audio (UAD) is a hardware and software company known for its meticulous analog hardware emulations — tape machines, classic compressors, vintage EQs, and amp simulations. The Musicians Collection is a curated bundle of 10 UAD plugins aimed at producers and songwriters who want studio-grade processing without buying individual titles at full price. UAD plugins are widely regarded as some of the most accurate hardware emulations on the market, making this bundle a significant offer for anyone building out their plugin library.

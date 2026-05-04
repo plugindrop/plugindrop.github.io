@@ -15,7 +15,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Complete EDM Production Plugin Chain: From Drop to Master (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -41,10 +40,6 @@ This guide is for bedroom producers who already understand basic DAW routing and
 The drop lives or dies on its lead sound. Before any processing stage matters, you need a synthesizer capable of producing the core sonic material that defines modern EDM — supersaws, distorted basses, evolving leads, and layered pads. In 2026, producer communities have converged almost entirely on one instrument for this role.
 
 ### Serum — The Industry-Standard Wavetable Synth for EDM
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
 - **Price:** $189

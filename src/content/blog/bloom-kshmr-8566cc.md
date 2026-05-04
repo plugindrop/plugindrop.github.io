@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/geSnfwFllh4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Bloom KSHMR?
 
 Bloom KSHMR is a virtual instrument plugin developed in collaboration with KSHMR (Niles Hollowell-Dhar) — a Grammy-nominated DJ and producer widely recognized for fusing progressive house with cinematic, world-influenced sound design. The plugin packages his signature aesthetic into a playable instrument format, aimed at bringing that festival-ready, emotionally charged character into your DAW sessions. It's distributed through Plugin Boutique, one of the most established plugin storefronts in the industry.

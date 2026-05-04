@@ -18,7 +18,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/GpcyyBBQzzA" title="7 Best Free Alternatives to Spectrasonics Omnisphere in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -45,8 +44,6 @@ This guide is for producers who want synthesis-first replacements: film and game
 ## The Best Free Alternatives to Omnisphere
 
 ### Surge XT — The Community's Most-Recommended Free Synthesis Powerhouse
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/GpcyyBBQzzA" title="Surge XT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Surge Synth Team (open source)
 - **Price:** Free

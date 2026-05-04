@@ -25,7 +25,6 @@ Once you provide the pricing, I can write it in under 5 minutes.
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
 
-
 ---
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*

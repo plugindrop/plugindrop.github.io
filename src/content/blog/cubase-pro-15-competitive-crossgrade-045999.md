@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/77zQzd7XsdI" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Cubase Pro 15?
 
 Cubase Pro 15 is Steinberg's professional-tier digital audio workstation, covering music production, recording, mixing, and post-production in a single environment. Steinberg has been building Cubase since the 1980s — it's one of the longest-running DAWs in the industry. The competitive crossgrade edition is specifically priced for users who already hold a license for a qualifying competing DAW, making it a structured entry point rather than a clearance deal.

@@ -17,7 +17,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/I4DPPsQAU2A" title="8 Best Free Limiter VST Plugins in 2026 (Mastering-Grade Options) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -45,8 +44,6 @@ This guide covers eight community-validated free options plus two paid upgrades 
 ## Best Free Limiters for Mastering
 
 ### Limiter 6 GE — Most complete free mastering limiter available
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/I4DPPsQAU2A" title="Limiter 6 GE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** TBProAudio
 - **Price:** Free

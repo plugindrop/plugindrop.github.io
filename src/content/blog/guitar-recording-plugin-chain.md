@@ -18,7 +18,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/J5oiNtfsW2o" title="Complete Guitar Recording Plugin Chain: Amp Sim to Mastering (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -44,8 +43,6 @@ This guide covers the full chain from DI signal to mastering-ready guitar track 
 ## Step 1: Amp Simulation
 
 ### Neural DSP Archetype — The neural modeling standard for DI guitar
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/J5oiNtfsW2o" title="Neural DSP Archetype — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Neural DSP
 - **Price:** From $99 (varies by artist edition)
@@ -136,8 +133,6 @@ OTT is genuinely free with no paid upgrade path for this specific plugin. Xfer R
 ## Worth Upgrading To (Paid Options)
 
 ### Neural DSP Archetype — Committed tone for your genre
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/J5oiNtfsW2o" title="Neural DSP Archetype — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Neural DSP
 - **Price:** From $99

@@ -16,7 +16,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="12 Best Third-Party Plugins for Studio One Users in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -42,8 +41,6 @@ This guide covers 12 third-party plugins with the strongest community endorsemen
 ## EQ & Dynamics
 
 ### FabFilter Pro-Q 3 — the benchmark dynamic EQ that every serious mixer eventually owns
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
@@ -131,8 +128,6 @@ Valhalla documents Supermassive as using a modulated feedback delay network arch
 ## Synthesis
 
 ### Serum — the community-standard wavetable synthesizer
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

@@ -17,7 +17,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/rYLE97NbenM" title="How to Mix Drums with Plugins: Complete Step-by-Step Guide (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -103,8 +102,6 @@ For a standard rock or hip-hop drum mix, the most documented community workflow 
 Once individual elements are cleaned and shaped, the drum bus compressor's job is to make the whole kit feel like one instrument rather than separate tracks playing simultaneously. This "glue" — the term the community universally uses — comes from the compressor responding to the loudest elements (usually kick) and subtly reducing the rest of the kit in relation, creating a unified dynamic envelope across the bus.
 
 ### Waves SSL G-Master Buss Compressor — The Industry-Standard Glue Compressor
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/rYLE97NbenM" title="Waves SSL G-Master Buss Compressor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves
 - **Price:** ~$30 (Waves pricing varies)

@@ -17,7 +17,6 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1CHFv4mWQYM" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is TDR Nova?
 
 TDR Nova is a free dynamic equalizer by Tokyo Dawn Records. It combines standard parametric EQ with per-band dynamic processing — meaning each EQ band can react to the incoming signal level. The paid GE version ($50) adds extra features like mid/side processing and additional filter shapes, but the free version handles core dynamic EQ tasks without compromise.

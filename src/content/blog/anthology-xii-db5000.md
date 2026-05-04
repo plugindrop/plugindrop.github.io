@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/AnrwnbZafFQ" title="75% Off Anthology XII — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Anthology XII?
 
 Anthology XII is a complete plugin collection bundle available through Plugin Boutique, categorized under their "Complete Collection" tier — the broadest bundle category on the platform. The XII designation indicates this is the twelfth iteration of the series, suggesting a long product lineage and cumulative refinement across versions. At a regular retail price of $1,999, it sits firmly in the professional-grade bundle segment.

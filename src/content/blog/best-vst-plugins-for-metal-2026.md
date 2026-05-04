@@ -15,7 +15,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/w31Fr16otZ4" title="Best VST Plugins for Metal Production 2026 (Amp Sims, Drums, Mix) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -45,8 +44,6 @@ This guide covers amp simulators, cabinet IR loaders, drum production tools, and
 The guitar tone is the most scrutinized element in any metal production. Getting it wrong — thin, fizzy, or wrong for the sub-genre — undermines everything else in the mix. The two options below cover the community's top free and paid recommendations.
 
 ### Neural DSP Archetype: Gojira — The community consensus pick for modern metal amp tone
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/w31Fr16otZ4" title="Neural DSP Archetype: Gojira — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Neural DSP
 - **Price:** ~$149

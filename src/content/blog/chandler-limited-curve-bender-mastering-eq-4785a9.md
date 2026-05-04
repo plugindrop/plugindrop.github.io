@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/GTHcqLGyuBQ" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is the Chandler Limited Curve Bender Mastering EQ?
 
 Chandler Limited is a boutique analog hardware manufacturer with a reputation built on high-end studio gear — most famously their Abbey Road-approved designs. The Curve Bender is their mastering EQ, based on the circuit topology of the EMI TG12345 console used at Abbey Road Studios. The plugin version translates that hardware character into the DAW, targeting mastering engineers and mix engineers who want broad, musical EQ moves on full mixes and stems rather than surgical digital precision.

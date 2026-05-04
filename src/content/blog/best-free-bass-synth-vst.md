@@ -18,7 +18,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/GpcyyBBQzzA" title="10 Best Free Bass Synth VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -46,8 +45,6 @@ This guide covers ten genuinely capable free bass synth plugins, organized by us
 ## All-Purpose Powerhouses: Best Free Bass Synths for Every Genre
 
 ### Surge XT — The undisputed top free bass synth
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/GpcyyBBQzzA" title="Surge XT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Surge Synth Team (open source)
 - **Price:** Free

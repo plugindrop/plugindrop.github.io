@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/0Q1RsCn_Oxc" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is MELLOW 2?
 
 MELLOW 2 is a virtual acoustic double bass instrument from UJAM, part of their established Virtual Bassist series. It's built around meticulously recorded fingered bass samples designed to deliver smooth, soulful acoustic realism. The plugin targets producers working in jazz, hip-hop, R&B, and singer-songwriter genres who need a convincing low-end without hiring a session player or owning an upright bass.

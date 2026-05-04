@@ -17,7 +17,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/-Sm714Dlci8" title="15 Best Kontakt Libraries in 2026 (Free & Premium) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -45,8 +44,6 @@ This guide targets producers who are past the "any plugin will do" stage and wan
 ## Free & Entry-Level Libraries
 
 ### Spitfire LABS — The non-negotiable free install
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/-Sm714Dlci8" title="Spitfire LABS — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** Free
@@ -80,7 +77,7 @@ Recorded at BBC's Maida Vale Studios with the BBC Symphony Orchestra, Discover i
 
 ### Native Instruments Komplete Start — The free Kontakt Player on-ramp
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ftJS9zSS6RM" title="Native Instruments Komplete — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/kkIwyB266sU" title="Native Instruments Komplete — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
 - **Price:** Free

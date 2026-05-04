@@ -15,7 +15,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/EjFi4KURJLM" title="8 Best Free Strings & Orchestral VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -45,8 +44,6 @@ This guide covers eight real, community-documented free strings and orchestral V
 These are the plugins producers name first when free strings come up — genuinely high-quality sample libraries from established developers, with strong community documentation behind every claim made here.
 
 ### Spitfire LABS — The Undisputed Starting Point
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/EjFi4KURJLM" title="Spitfire LABS — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** Free

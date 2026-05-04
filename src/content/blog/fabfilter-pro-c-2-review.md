@@ -15,7 +15,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mSzvpCz-M2k" title="FabFilter Pro-C 2 Review: The Most Transparent Compressor Plugin? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -39,8 +38,6 @@ This review covers everything you need to know before buying Pro-C 2 in 2026: al
 ---
 
 ## FabFilter Pro-C 2 — Full Plugin Review
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mSzvpCz-M2k" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### FabFilter Pro-C 2 — The Transparent Standard for Modern Mixing
 

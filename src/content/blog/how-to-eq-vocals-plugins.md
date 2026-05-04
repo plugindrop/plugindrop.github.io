@@ -15,7 +15,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="How to EQ Vocals: Step-by-Step Guide with Best Plugins (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -121,8 +120,6 @@ TDR Nova is the most consistently recommended free dynamic EQ across KVR's plugi
 ---
 
 ### FabFilter Pro-Q 3 — The Community's Consensus Pick for Surgical Vocal EQ
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179

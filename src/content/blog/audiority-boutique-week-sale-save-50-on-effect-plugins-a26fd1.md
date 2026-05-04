@@ -19,7 +19,6 @@ heroImage: "/images/audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/GVIVs2XCo9M" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Audiority's Space Station UM282 (and the Boutique Week Sale)?
 
 Audiority is an Italian plugin developer known for meticulously modeled boutique-style effects — the kind of processors that aim to capture the character of rare, vintage hardware rather than generic DSP. Their catalog spans delay, reverb, distortion, and dynamics processing.

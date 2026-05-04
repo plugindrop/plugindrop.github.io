@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yGnUMwxNitk" title="47% Off SplitEQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is SplitEQ?
 
 SplitEQ is a parametric equalizer from Eventide — the hardware company behind decades of studio-grade effects units. Its defining feature is a transient/tonal split: before any EQ is applied, the plugin separates the audio signal into its transient components (attacks, transients) and its tonal components (sustained pitches, resonances). You then EQ each layer independently. This solves a real mixing problem: adding presence to a snare attack without thickening its sustain, or removing a muddy resonance from a vocal without dulling its consonants.

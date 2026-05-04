@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BTOGMSQv1mY" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is the Soundiron Omnium Piano Collection?
 
 The Omnium Piano Collection is a brand-new virtual instrument bundle from Soundiron, a San Francisco–based sample library developer with a long catalog of production-ready instruments. The collection brings together 16 virtual instruments designed to run inside Native Instruments' free Kontakt Player — no paid Kontakt license required. At a $199 intro price, it's positioned as a wide-ranging piano library at a discounted entry point.

@@ -18,7 +18,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CdvgWcUMeSs" title="10 Best Free Delay VST Plugins in 2026 (Tape, Digital, Multi-tap) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -48,8 +47,6 @@ This guide covers 10 of the best free delay VST plugins available in 2026, organ
 Tape delays are the most character-rich format in the delay world. Physical tape machines introduced wow (slow pitch drift), flutter (rapid instability), saturation, and high-frequency roll-off — all imperfections that make a delay sound like part of the room rather than a technical process. These two free options cover the tape spectrum from authentic dub warmth to physics-based open-source emulation.
 
 ### TAL-Dub-3 — The gold standard for free tape delay
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CdvgWcUMeSs" title="TAL-Dub-3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** TAL Software
 - **Price:** Free

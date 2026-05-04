@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/JgE1eoxwR_4" title="76% Off SLAP — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is SLAP?
 
 SLAP is a virtual instrument available on Plugin Boutique, purpose-built around slap bass — one of the most expressive and technically demanding techniques in bass playing. Rather than relying on generic multi-purpose bass libraries, it focuses specifically on capturing the articulations, tonal character, and dynamics that define the slap style. For producers working in funk, R&B, soul, or modern pop who want convincing bass without hiring a session player, that kind of specialization matters.

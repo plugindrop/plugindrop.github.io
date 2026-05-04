@@ -18,7 +18,6 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OZuKRaZK86k" title="Best Reverb Plugins 2026: Free & Paid Options Compared — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -47,8 +46,6 @@ This guide covers six plugins across the free-to-premium spectrum. Whether you'r
 The free reverb landscape has matured significantly. These three plugins aren't compromises — they're genuine tools used by working producers at every level.
 
 ### Valhalla Supermassive — The free plugin that embarrasses paid competition
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** Free

@@ -18,7 +18,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/8q-mrB1jozE" title="12 Best Plugins for Mixing Vocals in 2026 (Complete Chain) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -154,8 +153,6 @@ Soundtoys Decapitator is consistently described in KVR and Gearspace communities
 ## Stage 5: All-in-One Suite
 
 ### iZotope Nectar 4 — intelligent vocal processing across a complete chain
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/8q-mrB1jozE" title="iZotope Nectar 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** $199

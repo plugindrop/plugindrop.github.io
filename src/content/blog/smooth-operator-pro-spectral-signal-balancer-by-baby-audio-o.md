@@ -22,7 +22,6 @@ score: 5.81
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1jx9ON7BOU8" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Smooth Operator Pro?
 
 Smooth Operator Pro is a spectral signal balancing plugin from Baby Audio, the developer behind popular tools like Crystalline, Comeback Kid, and Super VHS. Rather than working like a traditional EQ where you manually hunt for problem frequencies, Smooth Operator Pro analyzes your signal's spectral content and rebalances it based on a target curve you set. The idea is simple: set your curve, turn the global threshold knob, and let the plugin remove excessive frequency energy — mud, boxiness, harshness — without the tedious node-by-node approach. It's the "Pro" evolution of Baby Audio's original Smooth Operator, adding deeper controls and surgical per-node adjustments for users who want more precision.

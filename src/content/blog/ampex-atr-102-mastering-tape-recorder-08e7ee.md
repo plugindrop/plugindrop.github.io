@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/RKz5FME2fL0" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is the Ampex ATR-102 Mastering Tape Recorder?
 
 The Ampex ATR-102 Mastering Tape Recorder is a plugin by Universal Audio that models the legendary Ampex ATR-102 2-track reel-to-reel — a machine that shaped the sound of professional mastering suites for decades. The plugin is designed to recreate the harmonic saturation, natural compression, and tonal character that analog tape imparts at every stage of processing. It operates as a native plugin, meaning no UAD DSP hardware is required to run it.

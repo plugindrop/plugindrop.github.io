@@ -11,7 +11,6 @@ xText: "New guide: 10 Best Free Piano VST Plugins in 2026 (Grand, Upright, Elec.
 draft: false
 ---
 
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/RCtLp_EmJ2s" title="10 Best Free Piano VST Plugins in 2026 (Grand, Upright, Electric) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

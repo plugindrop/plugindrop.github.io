@@ -18,7 +18,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/OZuKRaZK86k" title="6 Best Free Alternatives to Valhalla DSP Reverbs in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -45,8 +44,6 @@ This guide is for bedroom producers and home studio engineers who want a clear m
 ## The Free Valhalla Option
 
 ### Valhalla Supermassive — the free reverb that makes the paid tier hard to justify for ambient work
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** Free

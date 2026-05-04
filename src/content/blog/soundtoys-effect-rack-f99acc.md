@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/7j-p8xyoLlI" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Soundtoys Effect Rack?
 
 Soundtoys Effect Rack is the complete bundle from Soundtoys, a plugin developer with a long track record in professional studios. The bundle packages their full lineup of effects into a single purchase — covering everything from analog-modeled saturation and vintage delay to modulation and pitch manipulation. Soundtoys plugins are built around analog circuit emulation and creative sound design, making the Effect Rack a broad toolkit rather than a single-purpose tool.

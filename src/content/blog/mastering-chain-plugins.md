@@ -19,7 +19,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="The Complete Mastering Plugin Chain: 6 Plugins for a Pro Master (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -91,8 +90,6 @@ What separates Pro-Q 3 from cheaper alternatives is its phase response flexibili
 ### Step 3: Full Mastering Suite
 
 ### iZotope Ozone 11 — The most complete AI-powered mastering environment available
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="iZotope Ozone 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** $349 (Standard)

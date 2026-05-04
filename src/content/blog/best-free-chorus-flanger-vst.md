@@ -15,7 +15,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/tbM3E2Ov3zI" title="8 Best Free Chorus & Flanger VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -39,8 +38,6 @@ This guide is written for bedroom producers, home studio engineers, and anyone w
 ## Best Free Chorus VST Plugins
 
 ### TAL-Chorus-LX — The default free chorus, still undefeated
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/tbM3E2Ov3zI" title="TAL-Chorus-LX — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** TAL Software (Togu Audio Line)
 - **Price:** Free

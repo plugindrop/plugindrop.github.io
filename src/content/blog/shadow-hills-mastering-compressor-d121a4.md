@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/jz4vmtYzNzg" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is the Shadow Hills Mastering Compressor?
 
 The Shadow Hills Mastering Compressor is a plugin emulation of the Shadow Hills Industries hardware unit — a two-stage mastering compressor that has appeared on countless professional records. The hardware sells for several thousand dollars, making plugin versions the practical path for most producers. Plugin Alliance developed this emulation to capture both stages of the original's signal chain: an optical compressor followed by a discrete VCA, each with its own character and control set.

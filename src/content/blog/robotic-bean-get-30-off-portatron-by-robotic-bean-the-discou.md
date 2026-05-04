@@ -21,7 +21,6 @@ score: 5.16
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OtcAuBR3PmM" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Portatron?
 
 Portatron is a virtual instrument by Robotic Bean that emulates the experience of a 4-track cassette recorder — think Tascam Portastudio vibes, but inside your DAW. It's part tape machine, part sampler, part Mellotron-style instrument. You load samples onto four independent tape tracks, dial in lo-fi character (wobble, dropout, saturation), and play back everything as drones, loops, or MIDI-triggered notes. It ships with a library of included samples spanning piano, vibraphone, vocals, synths, hydrophones, and shortwave radio recordings. Additional sound packs called "Portapacks" are available separately.

@@ -17,7 +17,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/wbQgt8u-Cm4" title="12 Best VST Plugins for Lo-Fi Beats in 2026 (Free & Paid) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -225,8 +224,6 @@ TAL-Chorus-LX is a recreation of the Roland Juno-60's chorus circuit, offered fr
 ## Worth Upgrading To (Paid Options)
 
 ### RC-20 Retro Color — The All-in-One Lo-Fi Chain
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/wbQgt8u-Cm4" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** XLN Audio
 - **Price:** ~$99

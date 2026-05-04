@@ -17,7 +17,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/rYLE97NbenM" title="10 Best Compressor Plugins for Drums in 2026 (Punch, Glue, Transient Control) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -47,8 +46,6 @@ This guide covers 10 real, community-documented compressors — paid and free, c
 These compressors go across your drum bus or mix bus, where the goal is cohesion rather than individual channel shaping.
 
 ### Waves SSL G-Master Buss Compressor — The industry-standard drum bus workhorse
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/rYLE97NbenM" title="Waves SSL G-Master Buss Compressor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves Audio
 - **Price:** Frequently $29–49 (routine sale pricing at Waves)

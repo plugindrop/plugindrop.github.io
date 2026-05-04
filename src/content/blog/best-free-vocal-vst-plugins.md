@@ -17,7 +17,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Q5z549pi0G8" title="12 Best Free Vocal VST Plugins in 2026 (Tuning, Compression, Effects) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -63,8 +62,6 @@ MAutoPitch handles both natural-sounding correction and hard, locked T-Pain-styl
 ---
 
 ### Graillon 2 — Pitch Shifting and Robotic Vocal Effects Done Right
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Q5z549pi0G8" title="Graillon 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Auburn Sounds
 - **Price:** Free (Pro tier available)

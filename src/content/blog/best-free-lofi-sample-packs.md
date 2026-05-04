@@ -18,7 +18,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/BXHGHlTsJAA" title="12 Best Free Lo-Fi Sample Packs in 2026 (Drums, Vinyl Crackle, Chords) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Pack / Source | Price | Best For | Get It |
@@ -256,8 +255,6 @@ MSXII Sound Design is one of the most-cited creators in lo-fi hip hop production
 ## Worth Upgrading To (Paid Options)
 
 ### Loopmasters Lo-Fi Packs — Label-quality depth for serious producers
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/BXHGHlTsJAA" title="Loopmasters lo-fi packs — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Loopmasters
 - **Price:** From $14.95

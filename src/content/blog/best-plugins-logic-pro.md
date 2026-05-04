@@ -17,7 +17,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="15 Best Third-Party Plugins for Logic Pro Users in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -43,8 +42,6 @@ In 2026, full native Apple Silicon support has made the AU plugin ecosystem clea
 ## EQ Plugins That Go Beyond Logic's Channel EQ
 
 ### FabFilter Pro-Q 3 — the industry-standard parametric EQ
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
@@ -168,8 +165,6 @@ ValhallaDelay follows the same pricing model and quality floor as VintageVerb bu
 ## Synthesis Beyond Logic's Stock Instruments
 
 ### Serum — the wavetable synth that redefined the category
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

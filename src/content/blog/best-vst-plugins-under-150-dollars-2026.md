@@ -16,7 +16,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="15 Best VST Plugins Under $150 in 2026 (Pro-Level on a Budget) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -309,8 +308,6 @@ Komplete Start is NI's free tier of the Komplete bundle, including Kontakt Playe
 ## Worth Upgrading To
 
 ### FabFilter Pro-Q 3 — The benchmark EQ for serious mix engineers
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179

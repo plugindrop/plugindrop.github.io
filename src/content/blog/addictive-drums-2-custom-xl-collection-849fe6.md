@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ikaSahd3KFQ" title="40% Off Addictive Drums 2 Custom XL Collection — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Addictive Drums 2 Custom XL Collection?
 
 Addictive Drums 2 is a drum production plugin from XLN Audio, built to deliver studio-quality drum sounds inside your DAW. The Custom XL Collection is a bundled package that pairs the AD2 engine with a curated set of ADpaks (expansion drum kits) and MIDIpaks — giving producers a broad sonic palette without hunting down individual expansions separately. XLN Audio has been a recognized name in drum plugin production for over a decade.

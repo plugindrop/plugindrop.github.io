@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/um_Z-51nGP4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Transit 2?
 
 Transit 2 is a multi-effect plugin from Sugar Bytes designed specifically for creating powerful transitions, drops, and builds in electronic music. Rather than functioning as a static insert effect, it's built around the idea of *momentary* processing — triggering effect combinations at key moments in a track or live performance. Sugar Bytes is known for creative, performance-oriented tools, and Transit 2 sits firmly in that tradition.

@@ -16,7 +16,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/rYLE97NbenM" title="Hip-Hop Mixing Plugin Chain: Beat by Beat Breakdown (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -91,8 +90,6 @@ Route the drum group to a parallel return bus, insert OTT, and blend to taste. T
 Once individual stems are EQ'd and parallel density is established, the drum bus and mix bus need a final compressor to make all the elements breathe together. This is the "glue" stage — the processing that turns a collection of separate sounds into something that feels like one instrument. The SSL bus compressor is the most-documented hardware origin point for this quality in hip-hop production.
 
 ### Waves SSL G-Master Buss Compressor — the VCA bus compressor behind decades of hip-hop mixes
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/rYLE97NbenM" title="Waves SSL G-Master Buss Compressor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves
 - **Price:** From $29.99 (Waves runs frequent promotional pricing; current price reflects sale availability)

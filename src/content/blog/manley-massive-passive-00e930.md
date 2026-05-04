@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OgtUzKH57-A" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Manley Massive Passive?
 
 Manley Massive Passive is a plugin emulation of Manley Laboratories' flagship hardware passive EQ, a unit that has been a fixture in high-end recording studios for decades. The hardware earned its reputation for a distinctive musicality rooted in its passive circuit topology — a fundamentally different character from the surgical precision of modern digital EQs. The plugin brings that hardware DNA into a DAW-compatible format, targeting producers and engineers who want the texture of classic analog shaping without the rack space or hardware price tag.

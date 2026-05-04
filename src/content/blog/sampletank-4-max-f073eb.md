@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/M5732Lv8ZuM" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is SampleTank 4 MAX?
 
 SampleTank 4 MAX is IK Multimedia's top-tier sample-based virtual instrument workstation. The MAX edition represents the highest tier of the SampleTank 4 lineup, offering a massive library of instruments spanning orchestral, electronic, acoustic, and world categories. It runs as a standalone application and as a plugin in VST, AU, and AAX formats, making it compatible with most major DAWs.

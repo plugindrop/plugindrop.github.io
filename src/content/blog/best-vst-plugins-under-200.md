@@ -17,7 +17,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="15 Best VST Plugins Under $200 in 2026 (Professional Sound, Honest Price) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -45,8 +44,6 @@ This guide covers 15 specific plugins across synthesis, reverb, dynamics, mixing
 ## Synths and Sound Design
 
 ### Serum 2 — The wavetable synth the community uses more than any other at this price
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
 - **Price:** $189 (perpetual license)

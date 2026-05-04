@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TH1J3Ywh6DY" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Tekno?
 
 Tekno is a fully synthesized drum machine plugin by Baby Audio, co-developed with analog circuit modeling specialist Jatin Chowdhury. Every sound it produces is generated from scratch in real time — there is no pre-recorded audio of any kind. It packs 18 purpose-built drum engines covering kicks, snares, claps, hats, cymbals, and percussion. This makes it a complete drum production tool built entirely around synthesis rather than sample playback.

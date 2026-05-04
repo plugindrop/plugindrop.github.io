@@ -16,7 +16,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/8q-mrB1jozE" title="How to Mix Vocals at Home: Complete 2026 Guide (With Plugin Recommendations) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -113,8 +112,6 @@ For pop and hip-hop vocals where a more controlled, shorter reverb is needed, Su
 For producers who want a guided, integrated approach to the full vocal chain — rather than assembling individual EQ, compression, pitch, saturation, and reverb plugins — an all-in-one suite removes routing complexity and decision fatigue. The tradeoff is cost versus the speed and coherence of a single connected interface.
 
 ### iZotope Nectar 4 — The AI-assisted vocal suite the community treats as the category standard
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/8q-mrB1jozE" title="iZotope Nectar 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** From $199

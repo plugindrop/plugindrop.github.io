@@ -15,7 +15,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/Y1XrdvPuZIU" title="12 Best Piano VST Plugins in 2026 (Grand, Upright, Electric, Toy) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -79,8 +78,6 @@ LABS Soft Piano is routinely cited in r/WeAreTheMusicMakers and r/songwriting th
 ## Grand Piano VST Plugins (Paid)
 
 ### Arturia Piano V3 — historically modeled grands with strong playability
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Y1XrdvPuZIU" title="Arturia Piano V3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** ~$99
@@ -258,8 +255,6 @@ Una Corda is NI's one-string-per-note experimental piano, developed in collabora
 
 ### Arturia Piano V3 — the clearest step up from Piano One
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Y1XrdvPuZIU" title="Arturia Piano V3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Arturia
 - **Price:** ~$99
 - **Why upgrade:** Piano One delivers one static acoustic grand character with limited pedal modeling and fixed release samples. Arturia Piano V3 delivers a full suite of historically modeled instruments — concert grands, uprights, and tack-piano treatments — with a physics engine that responds to pedaling and dynamics far more convincingly than Piano One's fixed velocity layers. Producers who use Piano One for demos consistently report that Piano V3 handles slow, expressive passages in a way that Piano One noticeably cannot.
@@ -269,8 +264,6 @@ Una Corda is NI's one-string-per-note experimental piano, developed in collabora
 ---
 
 ### Spitfire Audio Felt Piano — the step up from LABS Soft Piano
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/erfUUq-KbNU" title="Spitfire Audio Felt Piano — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** ~$79

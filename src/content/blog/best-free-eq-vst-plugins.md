@@ -17,7 +17,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1CHFv4mWQYM" title="10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -45,8 +44,6 @@ This guide covers ten free EQ VSTs organized by use case, with honest assessment
 ## Best Free Parametric EQ Plugins for Mixing
 
 ### TDR Nova — The single best free EQ you can download today
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1CHFv4mWQYM" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Tokyo Dawn Labs
 - **Price:** Free (GE version available as paid upgrade)

@@ -17,7 +17,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/B49AQdh1sTw" title="10 Best Strings & Orchestral VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -158,8 +157,6 @@ Native Instruments designed Session Strings Pro 2 specifically for pop, soul, an
 
 ### Spitfire BBC Symphony Orchestra — Community's top-rated premium strings library
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/B49AQdh1sTw" title="Spitfire BBC Symphony Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Spitfire Audio
 - **Price:** ~$449 (Core); Professional edition at higher price
 - **Platforms:** Windows, macOS
@@ -245,8 +242,6 @@ Cinesamples built CineStrings CORE specifically for film and television scoring 
 ---
 
 ### EastWest Hollywood Strings — Multi-mic depth that single-perspective libraries can't replicate
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ScEF8OALc_M" title="EastWest Hollywood Strings — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** EastWest
 - **Price:** ComposerCloud+ (~$29.99/month)

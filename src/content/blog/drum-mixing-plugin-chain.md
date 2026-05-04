@@ -17,7 +17,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rYLE97NbenM" title="Complete Drum Mixing Plugin Chain: Best Tools for Punchy Drums (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -128,8 +127,6 @@ bx_boom! is a specialized drum enhancer focused specifically on kick drums and l
 This is where the individual elements of a drum kit — kick, snare, hats, overheads — stop sounding like separate recordings and start sounding like a cohesive instrument. Bus compression is the step most often over-applied; the goal is glue and punch, not squashing.
 
 ### Waves SSL G-Master Buss Compressor — The SSL sound in every DAW
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rYLE97NbenM" title="Waves SSL G-Master Buss Compressor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves
 - **Price:** $29.99

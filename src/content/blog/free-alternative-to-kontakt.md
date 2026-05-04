@@ -15,7 +15,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/sBKjKZfNtfg" title="6 Best Free Kontakt Alternatives in 2026 (Decent Sampler and Beyond) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -42,8 +41,6 @@ This guide covers the six most recommended free Kontakt alternatives actively ma
 ## Free Kontakt Alternatives
 
 ### Decent Sampler — The Community's Top Pick for a Reason
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/sBKjKZfNtfg" title="Decent Sampler — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** David Hilowitz / Decent Samples
 - **Price:** Free

@@ -15,7 +15,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/r0Q6I3y8tKY" title="12 Best Free VST Plugins for Hip Hop Production in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -167,8 +166,6 @@ Komplete Start is Native Instruments' free entry-level bundle, which includes Ko
 
 ### iZotope Vinyl — Benchmark free lo-fi plugin
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/r0Q6I3y8tKY" title="iZotope Vinyl — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** iZotope
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -255,8 +252,6 @@ Graillon 2 provides real-time pitch correction alongside a pitch-shifting sectio
 ## Worth Upgrading To (Paid Options)
 
 ### Serum — The wavetable standard for advanced sound design
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

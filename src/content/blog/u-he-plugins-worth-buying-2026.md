@@ -16,7 +16,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/-PO84tYA6mA" title="u-he Plugins: Which Ones Are Worth Buying in 2026? (Diva, Repro, Hive) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -42,8 +41,6 @@ This guide is for producers who have already read the headlines and want a direc
 ## The Core u-he Synthesizer Lineup
 
 ### u-he Diva — The Benchmark for Virtual Analog
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/-PO84tYA6mA" title="u-he Diva — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** $179

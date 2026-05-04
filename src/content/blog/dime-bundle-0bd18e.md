@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/5DNykzKgoGI" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is the dime Bundle?
 
 The dime Bundle is an effects plugin bundle available exclusively through Plugin Boutique. It packages together a collection of audio processing tools designed for producers and engineers working across mixing, sound design, and music production workflows. Plugin Boutique is one of the most established plugin storefronts in the industry, regularly hosting time-limited deals on developer titles like this one.

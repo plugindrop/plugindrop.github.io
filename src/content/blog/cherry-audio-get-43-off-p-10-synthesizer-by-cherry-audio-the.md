@@ -20,7 +20,6 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/hGLaSdnEouM" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is the Cherry Audio P-10 Synthesizer?
 
 The P-10 is a software synthesizer from Cherry Audio, a developer known for faithful and affordable recreations of classic hardware synths. The P-10 draws inspiration from vintage polyphonic analog synthesizers, bringing that warm, characterful sound into a modern DAW-friendly plugin format. Cherry Audio has built a reputation for releasing well-crafted instruments at accessible price points, making this sale particularly worth paying attention to.

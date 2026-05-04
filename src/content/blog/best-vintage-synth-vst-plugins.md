@@ -15,7 +15,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/DHA0HjTm1fM" title="12 Best Vintage Synth VST Emulations in 2026 (Moog, Roland, Oberheim) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -92,8 +91,6 @@ Surge XT includes analog-modeled filter circuits drawn from classic hardware arc
 ## Moog Emulations: The Ladder Filter Legacy
 
 ### Arturia Mini V3 — The Minimoog Standard
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/DHA0HjTm1fM" title="Arturia Mini V3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** $99 (also included in V Collection 11)
@@ -255,8 +252,6 @@ The Yamaha CS-80 was used by Vangelis on the Blade Runner soundtrack — one of 
 ## Worth Upgrading To
 
 ### u-he Diva — The Step Up From Any Free Emulation
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/q8LGFteoC1g" title="u-he Diva — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** $179

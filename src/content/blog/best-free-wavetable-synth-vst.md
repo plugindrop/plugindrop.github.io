@@ -16,7 +16,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/K9bhFJmvRa0" title="8 Best Free Wavetable Synth VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -41,8 +40,6 @@ This guide covers five free wavetable VST plugins worth installing in 2026, rank
 ## Best Free Wavetable Synth VST Plugins in 2026
 
 ### Vital — The Free Benchmark
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/K9bhFJmvRa0" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Vital Audio (Matt Tytel)
 - **Price:** Free (Vital Plus and Vital Pro tiers available for expanded preset and wavetable libraries)
@@ -142,8 +139,6 @@ Development has slowed significantly since Vital launched. The preset library is
 ## Worth Upgrading To (Paid Options)
 
 ### Serum — The Industry Standard
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

@@ -18,7 +18,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TmvzdoEECe8" title="Xfer Serum Review 2026: Still the Best Wavetable Synth? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -42,10 +41,6 @@ This review covers everything you need to know: what Serum does, how it sounds, 
 ## Core Review: Xfer Serum
 
 ### Serum — The Wavetable Synth That Defined a Generation
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TmvzdoEECe8" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TmvzdoEECe8" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records (Steve Duda)
 - **Price:** ~$189 (one-time purchase)
@@ -109,8 +104,6 @@ Phase Plant rewards the producer who has already learned synthesis fundamentals 
 [→ Get Phase Plant on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Phase%20Plant%20kilohearts&a_aid=69cb95abe1763)
 
 ### Vital — Best Free Serum Alternative, Expandable via Paid Tier
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

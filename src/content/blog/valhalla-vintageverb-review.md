@@ -17,7 +17,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EzPouHxa18s" title="Valhalla VintageVerb Review: The $50 Reverb That Beats Plugins 10x Its Price — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -44,8 +43,6 @@ What follows: a breakdown of every algorithm category, an honest look at the wor
 ## The Plugin: Valhalla VintageVerb in Full
 
 ### Valhalla VintageVerb — The best reverb plugin at any price under $200
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EzPouHxa18s" title="Valhalla VintageVerb — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** $50

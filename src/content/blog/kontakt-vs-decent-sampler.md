@@ -16,7 +16,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/dif_AFeB9B8" title="Kontakt vs Decent Sampler: Do You Actually Need to Pay for a Sampler? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -125,8 +124,6 @@ For producers who have not yet committed to specific commercial libraries, start
 ## Worth Upgrading To (Paid Options)
 
 ### Kontakt 7 — Unlocks the full professional ecosystem
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/54GnYnwdW_w" title="Kontakt 7 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
 - **Price:** $199

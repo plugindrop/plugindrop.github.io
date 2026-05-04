@@ -16,7 +16,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/wbQgt8u-Cm4" title="8 Best Free Tape Saturation VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -179,8 +178,6 @@ The BPB Saturator offers four saturation modes — Soft, Hard, Tape, and Clip �
 ## Worth Upgrading To (Paid Options)
 
 ### RC-20 Retro Color — When you want lo-fi processing in a single integrated tool
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/wbQgt8u-Cm4" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** XLN Audio
 - **Price:** $149

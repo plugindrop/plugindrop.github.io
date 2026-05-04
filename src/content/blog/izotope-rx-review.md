@@ -17,7 +17,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/aa_lUrD0n9M" title="iZotope RX 11 Review: The Industry Standard for Audio Repair — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -41,8 +40,6 @@ This guide is for music producers, podcasters, dialogue editors, and home studio
 ## What iZotope RX 11 Actually Does
 
 ### iZotope RX 11 — The Most Complete Audio Repair Suite Available
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/aa_lUrD0n9M" title="iZotope RX 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** Standard ~$399 / Advanced ~$1,199
@@ -133,7 +130,7 @@ One honest limitation: RX is not the right tool for light, occasional use. If yo
 
 ### iZotope RX Elements — The Entry Point Worth Owning
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/MhUEmvneerc" title="iZotope RX Elements — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/cALcFgDIWGs" title="iZotope RX Elements — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** ~$99

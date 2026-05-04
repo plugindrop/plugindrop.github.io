@@ -16,7 +16,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yVmrRfk8FdM" title="Phase Plant Review: The Most Flexible Synth for Sound Designers in 2026? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -39,8 +38,6 @@ This guide is a deep-dive review for sound designers, electronic producers, and 
 ---
 
 ## Phase Plant — Deep Dive Review
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### Phase Plant — The Most Modular Semi-Modular Synth in Its Class
 
@@ -101,8 +98,6 @@ It's less ideal for producers who need a fast preset-browser workflow and minima
 ## Worth Upgrading To (Paid Options)
 
 ### Serum — The Wavetable Benchmark, Still Earning Its Reputation
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

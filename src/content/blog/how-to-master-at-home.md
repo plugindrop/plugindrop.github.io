@@ -18,7 +18,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/lwIuaD8O61M" title="How to Master Music at Home: Step-by-Step with the Best Plugins (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -115,8 +114,6 @@ The developer-confirmed ISP (inter-sample peak) metering and true peak limiting 
 For producers who want a guided workflow rather than coordinating multiple individual plugins, an all-in-one mastering suite integrates EQ, dynamics, imaging, and limiting into a single coherent interface. The trade-off versus dedicated plugins is less per-module granularity in exchange for a streamlined, AI-assisted process.
 
 ### iZotope Ozone 11 — The most-recommended AI-assisted mastering suite for bedroom producers
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/lwIuaD8O61M" title="iZotope Ozone 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** From $249 (Standard); from $499 (Advanced)

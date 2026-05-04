@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CVgMfMHHeAw" title="33% Off Strata — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Strata?
 
 Strata is a metering and audio analysis plugin available through Plugin Boutique in the Studio Tools category. Designed to give producers and engineers a detailed visual picture of their audio signal, it sits in the metering segment — tools built to help you make informed, ear-and-eye decisions during mixing and mastering. Check the product page for the full developer background and exact version details.

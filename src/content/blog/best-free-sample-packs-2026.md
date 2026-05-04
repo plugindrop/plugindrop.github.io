@@ -15,7 +15,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/89grrQTF5Ow" title="Where to Find the Best Free Sample Packs in 2026 (Curated List) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Source | Cost | Best For | Get It |
@@ -132,8 +131,6 @@ Bedroom Producers Blog (BPB) doesn't host samples directly but functions as one 
 The free sources above cover most production needs. These two paid platforms consistently earn community recommendation for producers ready to invest in their library.
 
 ### Loopmasters — The benchmark for professional genre-specific packs
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/89grrQTF5Ow" title="Loopmasters — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Loopmasters
 - **Price:** From approximately $15–$30 per pack

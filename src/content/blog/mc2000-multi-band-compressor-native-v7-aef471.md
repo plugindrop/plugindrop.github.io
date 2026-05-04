@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gReVtSMTH5s" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is MC2000 Multi Band Compressor Native v7?
 
 The MC2000 is a multiband compressor plugin developed by McDSP, a company with a long-standing reputation in professional audio — particularly in music production, post-production, and broadcast. The "Native v7" designation means this is the software-only version that runs on your host CPU, with no DSP hardware required. As a multiband compressor, it applies independent dynamic processing to separate frequency bands, giving engineers precise control over specific parts of the spectrum without affecting the signal as a whole.

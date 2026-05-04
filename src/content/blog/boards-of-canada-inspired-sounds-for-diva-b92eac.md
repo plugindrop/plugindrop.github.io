@@ -80,7 +80,6 @@ CMYK offered a rare focused take on BOC-style synthesis inside one of the most a
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 
-
 ---
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*

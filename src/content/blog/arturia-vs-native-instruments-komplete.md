@@ -18,7 +18,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection vs NI Komplete: Which Bundle Is Worth Your Money? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Bundle | Price | Best For | Get It |
@@ -46,8 +45,6 @@ This comparison is for producers, composers, and keyboardists who are evaluating
 Before the head-to-head, the scope of each bundle needs to be clear, because the gap is wider than most people expect.
 
 ### Arturia V Collection 11 — The Vintage Keyboard Library
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** ~$499 (frequent sales at $199–$299)
@@ -124,8 +121,6 @@ Both bundles go on deep sale. V Collection 11 at $199 represents arguably more f
 ## Worth Upgrading To
 
 ### Arturia V Collection 11 — Deepest vintage synth library available
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** ~$499 (watch for sales at $199–$299)

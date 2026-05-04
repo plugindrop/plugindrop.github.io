@@ -18,7 +18,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/OZuKRaZK86k" title="12 Best VST Plugins for Ambient & Atmospheric Music in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -48,8 +47,6 @@ This guide covers 12 plugins across reverb, synthesis, and creative effects — 
 Reverb is not one of the tools you need for ambient music — it is the tool. These four options span free-and-excellent to paid-and-surgical.
 
 ### Valhalla Supermassive — The free benchmark the community keeps recommending
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** Free
@@ -247,8 +244,6 @@ Spitfire LABS is a free plugin platform that provides access to an expanding cat
 These two paid tools address specific limitations in the free options above. Both have a clear case that the community has documented.
 
 ### Output Portal — From free granular tools to professional real-time processing
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/-tEGqUbdE-w" title="Output Portal — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Output
 - **Price:** $99

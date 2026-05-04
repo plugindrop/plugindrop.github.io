@@ -19,7 +19,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bpb0QLrwwEY" title="Arturia Pigments 4 Review: Is This the Best All-in-One Soft Synth? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

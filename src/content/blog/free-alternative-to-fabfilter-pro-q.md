@@ -16,7 +16,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/1CHFv4mWQYM" title="5 Best Free Alternatives to FabFilter Pro-Q 3 in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -42,8 +41,6 @@ This guide covers four free EQ plugins that the production community consistentl
 ## Best Free Alternatives to FabFilter Pro-Q 3
 
 ### TDR Nova — The closest free dynamic EQ to Pro-Q 3
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1CHFv4mWQYM" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Tokyo Dawn Records
 - **Price:** Free (GE edition available as paid upgrade)

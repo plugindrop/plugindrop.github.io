@@ -16,7 +16,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/l_j-k7Ko21Y" title="Plugin Boutique vs Splice: Which Is Better for Producers in 2026? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Comparison at a Glance
 
 | Category | Plugin Boutique | Splice | Explore |
@@ -114,8 +113,6 @@ Splice offers project file sharing and version history for DAW sessions. This is
 ## Worth Upgrading To (Paid Options)
 
 ### Plugin Boutique Subscription — Best for Frequent Buyers
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/l_j-k7Ko21Y" title="Plugin Boutique subscription — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Platform:** Plugin Boutique
 - **Price:** Account-based (free to create; premium deal tiers available)

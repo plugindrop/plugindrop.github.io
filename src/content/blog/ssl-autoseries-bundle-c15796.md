@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_w1bBYjwVPo" title="34% Off SSL autoSeries Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is the SSL autoSeries Bundle?
 
 Solid State Logic is one of the most recognized names in professional audio — their mixing consoles have been the backbone of major label studios for decades. The autoSeries Bundle is SSL's collection of automatic processing plugins, designed to bring intelligent gain management and dynamics control into modern DAW workflows. The bundle targets producers and engineers who want SSL's processing character with a focus on smart, automatic behavior rather than manual-only operation.

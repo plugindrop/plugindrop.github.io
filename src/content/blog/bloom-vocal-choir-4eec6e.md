@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/MbjJKOaFr4U" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Bloom Vocal Choir?
 
 Bloom Vocal Choir is a virtual choir instrument designed to bring lush, layered vocal textures into your DAW. It falls into the virtual instrument category, making it suitable for composers, producers, and sound designers who want choral elements without booking a session ensemble. The plugin is available through Plugin Boutique, one of the most widely used storefronts for third-party audio software. Check the official product page for full developer details and format specifications.

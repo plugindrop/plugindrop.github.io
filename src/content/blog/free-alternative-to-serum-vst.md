@@ -16,7 +16,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/K9bhFJmvRa0" title="7 Best Free Alternatives to Xfer Serum in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -44,8 +43,6 @@ This guide covers the four strongest free alternatives to Serum currently availa
 ## Free Wavetable and Hybrid Synthesizers
 
 ### Vital — The Definitive Free Wavetable Synth
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/K9bhFJmvRa0" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Matt Tytel
 - **Price:** Free (paid tiers at $25 and $80 add preset packs and online wavetable access — no synthesis features are locked)
@@ -148,8 +145,6 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 ---
 
 ### Serum — The Benchmark Itself
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

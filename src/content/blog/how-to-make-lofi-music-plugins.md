@@ -17,7 +17,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/wbQgt8u-Cm4" title="How to Make Lo-Fi Music: Complete Plugin Guide for That Vintage Sound (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -68,8 +67,6 @@ The recurring community recommendation on r/lofi is to keep the Dust & Scratches
 Beyond vinyl noise, lo-fi music relies on tape-style saturation: gentle harmonic distortion, pitch wobble (flutter), and soft high-frequency rolloff. These can come from separate plugins, but purpose-built all-in-one tools designed around this aesthetic tend to produce more coherent results because the modules are designed to interact.
 
 ### RC-20 Retro Color — The Paid Standard for Lo-Fi Character
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/wbQgt8u-Cm4" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** XLN Audio
 - **Price:** $99

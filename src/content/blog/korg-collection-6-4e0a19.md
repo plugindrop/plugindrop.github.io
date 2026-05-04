@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-fPucWPCoMM" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is KORG Collection 6?
 
 KORG Collection 6 is a software bundle developed directly by KORG, packaging multiple software recreations of the brand's most iconic hardware synthesizers into a single purchase. The collection spans several decades of KORG's hardware legacy — from early analog polysynths to landmark PCM workstations. KORG builds and maintains these titles in-house, which means each instrument is designed to closely reflect the behavior of its hardware counterpart. It targets producers, composers, and keyboardists who want authentic KORG character in a plugin format.

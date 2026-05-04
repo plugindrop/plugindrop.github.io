@@ -18,7 +18,6 @@ draft: true
 <iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="10 Best EQ Plugins for Mixing & Mastering in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -46,8 +45,6 @@ This guide covers 10 EQ plugins across free and paid tiers — organized by work
 ## Professional Paid EQ Plugins
 
 ### FabFilter Pro-Q 3 — The community standard for a reason
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179

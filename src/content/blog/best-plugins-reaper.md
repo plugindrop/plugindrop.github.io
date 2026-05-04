@@ -16,7 +16,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/OZuKRaZK86k" title="15 Best VST Plugins for Reaper Users in 2026 (Free & Paid) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -166,8 +165,6 @@ Limiter No6 provides five independent processing modules in sequence: RMS compre
 ## Reverb and Spatial Processing
 
 ### Valhalla Supermassive — The free reverb that disrupted a product category
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** Free

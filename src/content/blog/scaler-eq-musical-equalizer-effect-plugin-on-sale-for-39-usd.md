@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/nxZVmRUoyKw" title="Scaler EQ musical equalizer effect plugin on sale for $39 USD — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Scaler EQ?
 
 Scaler EQ is a musical equalizer plugin developed by the team behind Scaler, Plugin Boutique's widely used scale and chord assistant. Rather than operating on fixed frequency bands alone, Scaler EQ is designed around musical keys: it enhances note frequencies that belong in your song's key and reduces those that don't. The concept positions it as a creative, color-adding tool rather than a purely corrective one.

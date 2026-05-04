@@ -15,7 +15,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="15 Best Synthesizer VST Plugins in 2026 (Every Budget Covered) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -181,10 +180,6 @@ Hive 2 was designed by u-he as a streamlined complement to their more CPU-intens
 ## Premium Synthesizers ($150+) — Industry Standards
 
 ### Serum — The EDM World's Default Instrument
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records (Steve Duda)
 - **Price:** $189

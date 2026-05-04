@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/N1o7uKBUlxs" title="35% Off Opacity 2 Soundbox Instrument — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Opacity 2 Soundbox Instrument?
 
 Opacity 2 Soundbox Instrument is a virtual instrument plugin available through Plugin Boutique, designed for producers working in ambient, cinematic, and textural sound design. It sits in the virtual instruments category and is the second iteration of the Opacity line. At its regular price of $43.00, it targets producers who want expressive, layered sounds without committing to a flagship-priced instrument.

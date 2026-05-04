@@ -16,7 +16,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/lwIuaD8O61M" title="LANDR Mastering Review 2026: Is the Subscription Worth It? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Tool | Price | Best For | Get It |
@@ -129,8 +128,6 @@ Community documentation across Gearspace, Reddit, and KVR Audio converges on sev
 If the LANDR subscription math doesn't work for your release volume — or if genre fit or transparency is a concern — these two tools represent the community's documented standard for mastering.
 
 ### iZotope Ozone 11 — The most complete AI-assisted mastering suite for DAW users
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/lwIuaD8O61M" title="iZotope Ozone 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** From $199 (Standard edition, one-time purchase)

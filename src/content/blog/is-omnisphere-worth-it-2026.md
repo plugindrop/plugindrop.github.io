@@ -18,7 +18,6 @@ draft: false
 <iframe src="https://www.youtube.com/embed/86jF9e-zNvI" title="Is Omnisphere Worth It in 2026? Honest Review After Using It for Years — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -46,8 +45,6 @@ This guide is for producers seriously weighing the purchase: those working in sy
 ### Omnisphere 2 — the most community-endorsed all-in-one premium synthesizer
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/WVapN3zbhRk" title="Omnisphere 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/86jF9e-zNvI" title="Omnisphere — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spectrasonics
 - **Price:** $499 (one-time, no subscription)

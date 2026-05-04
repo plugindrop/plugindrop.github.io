@@ -12,9 +12,7 @@ score: 8.00
 xText: "14 free synth VST plugins in 2026 — Vital, Surge XT, OB-Xd, Dexed, and more. All tested in real sessions."
 ---
 
-
 **TL;DR:** Vital is the best free synth VST plugin in 2026 — it delivers professional wavetable synthesis that competes with $200 instruments at zero cost. For FM, Dexed is the definitive free option. All 14 plugins below are genuinely free, DAW-ready, and worth installing today.
-
 
 ## Quick Picks at a Glance
 

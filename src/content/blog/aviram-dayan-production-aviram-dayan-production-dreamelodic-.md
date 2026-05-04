@@ -17,7 +17,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/sovJGqVyuq0" title="Aviram Dayan Production — Aviram Dayan Production DreaMelodiC Black Sale: 60% Off All Product — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Aviram Dayan Production DreaMelodiC?
 
 Aviram Dayan Production is an independent music software developer selling under the DreaMelodiC brand through a direct storefront. Buying direct means no third-party marketplace overhead — the developer sets prices and runs promotions on their own terms. The Black Sale applies to the entire product catalogue without stated exceptions.

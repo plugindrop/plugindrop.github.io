@@ -18,7 +18,6 @@ draft: false
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="Serum Bundle — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2160940344&color=%23b4f000&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
 </div>
 
-
 ## What Is the ADSR Sounds Serum Bundle?
 
 The Serum Bundle from ADSR Sounds is a curated collection of preset packs designed for Xfer Records' Serum wavetable synthesizer. ADSR Sounds is an established marketplace for professional-grade sample packs and presets, and this bundle pulls together multiple Serum sound libraries into a single discounted purchase. It's aimed at producers who already own Serum and want to fast-track their sound design library without buying packs one at a time.
@@ -101,7 +100,6 @@ At $20 for a full bundle of professional Serum presets, this is hard to pass up 
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

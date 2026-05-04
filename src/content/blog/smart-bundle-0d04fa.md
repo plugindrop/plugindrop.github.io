@@ -24,7 +24,6 @@ Now I have everything I need. Writing the article.
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BwN005pDyFA" title="38% Off smart bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is the Sonible smart:bundle?
 
 The smart:bundle is a six-plugin collection from Austrian DSP developer **Sonible**, built around a single design principle: content-aware processing. Each plugin analyzes incoming audio and adapts its behavior automatically, reducing the time spent on manual parameter setup. The bundle covers the core mixing and mastering chain — EQ, compression, reverb, gating, limiting, and de-essing — all under Sonible's AI-driven framework.
