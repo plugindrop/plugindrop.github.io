@@ -1,5 +1,5 @@
 ---
-title: "12 Best VST Plugins for Lo-Fi Beats in 2026 (Free & Paid)"
+title: "12 Best VST Plugins for Lo-Fi Beats in 2026, Ranked (Free & Paid)"
 description: "iZotope Vinyl is the most-recommended free lo-fi plugin in producer communities — it has been in continuous free distribution since 2002 and targets the..."
 pubDate: "2026-05-26T22:39:54Z"
 tags: ["guide", "vst", "genre specific"]
@@ -16,6 +16,7 @@ draft: false
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/wbQgt8u-Cm4" title="12 Best VST Plugins for Lo-Fi Beats in 2026 (Free & Paid) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 ## Quick Picks at a Glance
 
@@ -225,8 +226,7 @@ TAL-Chorus-LX is a recreation of the Roland Juno-60's chorus circuit, offered fr
 
 ### RC-20 Retro Color — The All-in-One Lo-Fi Chain
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mQ9BlM9k980" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/wbQgt8u-Cm4" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** XLN Audio
 - **Price:** ~$99

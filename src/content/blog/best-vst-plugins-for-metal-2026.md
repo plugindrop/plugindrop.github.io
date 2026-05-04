@@ -1,5 +1,5 @@
 ---
-title: "Best VST Plugins for Metal Production 2026 (Amp Sims, Drums, Mix)"
+title: "Best VST Plugins for Metal Production 2026, Ranked (Amp Sims, Drums, Mix)"
 description: "Neural DSP Archetype: Gojira is the community benchmark for in-the-box metal amp tones in 2026 — r/metalguitarists and r/WeAreTheMusicMakers consistently..."
 pubDate: "2026-05-07T20:22:38Z"
 tags: ["guide", "vst", "instruments"]
@@ -45,6 +45,9 @@ This guide covers amp simulators, cabinet IR loaders, drum production tools, and
 The guitar tone is the most scrutinized element in any metal production. Getting it wrong — thin, fizzy, or wrong for the sub-genre — undermines everything else in the mix. The two options below cover the community's top free and paid recommendations.
 
 ### Neural DSP Archetype: Gojira — The community consensus pick for modern metal amp tone
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/w31Fr16otZ4" title="Neural DSP Archetype: Gojira — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Neural DSP
 - **Price:** ~$149
 - **Platforms:** Windows, macOS

@@ -1,5 +1,5 @@
 ---
-title: "10 Best Free Saturation & Distortion VST Plugins in 2026"
+title: "10 Best Free Saturation & Distortion VST Plugins in 2026 — Ranked"
 description: "Klanghelm SDRR is the most versatile free saturator in 2026 — four distinct modes, donationware pricing, and a feature set that embarrasses plugins..."
 pubDate: "2026-07-01T22:39:54Z"
 tags: ["guide", "vst", "free", "effects"]
@@ -16,6 +16,7 @@ draft: false
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/2rOEkCJZFBQ" title="10 Best Free Saturation & Distortion VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 ## Quick Picks at a Glance
 
@@ -46,6 +47,8 @@ This guide covers ten free saturation and distortion VST plugins with strong com
 These four address the core use case: adding harmonic content to digital signals to give them weight, presence, and analog character. All four are single-band processors with different trade-offs in complexity versus convenience.
 
 ### Saturation Knob — The Fastest Path from Thin to Warm
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/2rOEkCJZFBQ" title="Saturation Knob — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Softube
 - **Price:** Free
@@ -189,7 +192,7 @@ Cyanide 2 applies digital distortion and overdrive with a focus on aggressive, c
 
 ### Caramel — MeldaProduction's Free Saturator
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/uWWLjNj08JA" title="Caramel — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/aNEABdm-i50" title="Caramel — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** MeldaProduction
 - **Price:** Free (part of MFreeFXBundle)

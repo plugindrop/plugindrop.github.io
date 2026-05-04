@@ -1,5 +1,5 @@
 ---
-title: "8 Best Free Strings & Orchestral VST Plugins in 2026"
+title: "8 Best Free Strings & Orchestral VST Plugins in 2026 — Ranked"
 description: "Spitfire LABS is the most-recommended free strings plugin across producer communities — real BBC-recorded samples, genuinely free, and regularly updated..."
 pubDate: "2026-07-10T22:39:54Z"
 tags: ["guide", "vst", "free", "instruments"]
@@ -45,6 +45,9 @@ This guide covers eight real, community-documented free strings and orchestral V
 These are the plugins producers name first when free strings come up — genuinely high-quality sample libraries from established developers, with strong community documentation behind every claim made here.
 
 ### Spitfire LABS — The Undisputed Starting Point
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/EjFi4KURJLM" title="Spitfire LABS — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Spitfire Audio
 - **Price:** Free
 - **Platforms:** Windows, macOS

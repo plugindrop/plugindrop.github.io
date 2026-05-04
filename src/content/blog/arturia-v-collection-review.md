@@ -1,5 +1,5 @@
 ---
-title: "Arturia V Collection 11 Review: 40+ Vintage Synths Worth the Price?"
+title: "Arturia V Collection 11 Review 2026: 40+ Vintage Synths Worth the Price?"
 description: "Arturia V Collection 11 is the most comprehensive vintage synth emulation bundle available in 2026 — 40+ meticulously modeled classics in a single..."
 pubDate: "2026-05-06T18:10:19Z"
 tags: ["guide", "vst", "instruments", "review"]
@@ -16,6 +16,7 @@ draft: false
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 11 Review: 40+ Vintage Synths Worth the Price? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 ## Quick Picks at a Glance
 
@@ -244,7 +245,7 @@ The Yamaha DX7's 6-operator FM architecture is notoriously difficult to program 
 
 ### Arturia V Collection 11 — the complete vintage library at one price
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/hU_iHr7eBWQ" title="Arturia V Collection 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** ~$499 (frequent sales; check Plugin Boutique for current pricing)

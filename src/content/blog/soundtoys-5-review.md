@@ -1,6 +1,7 @@
 ---
-title: "Soundtoys 5 Review: The Creative Effects Bundle Every Producer Wants"
-description: "Soundtoys 5 is the most consistently used creative effects bundle in professional studios — 22 plugins built around analog character, warmth, and..."
+heroImage: "/images/soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u.jpg"
+title: "Soundtoys 5 Review 2026: The Creative Effects Bundle Every Producer Wants"
+description: "Soundtoys 5 is the most consistently used creative effects bundle in professional studios — 22 plugins built around analog character, warmth, and... Updated 2026."
 pubDate: "2026-05-08T18:10:19Z"
 tags: ["guide", "vst", "effects", "review"]
 affiliate: ""
@@ -17,6 +18,7 @@ draft: false
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/NlGqjb1ncF4" title="Soundtoys 5 Review: The Creative Effects Bundle Every Producer Wants — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 ## Quick Picks at a Glance
 
@@ -245,7 +247,7 @@ Both support tempo sync while deliberately avoiding perfect quantization. That h
 
 ### Soundtoys 5 — The full bundle is the obvious move
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/nJmeBHf2moE" title="Soundtoys 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/NlGqjb1ncF4" title="Soundtoys 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** $499 (regularly on sale ~$299)
@@ -256,6 +258,8 @@ Both support tempo sync while deliberately avoiding perfect quantization. That h
 ---
 
 ### Soundtoys Decapitator — The best entry point into the Soundtoys world
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_3Q3U-v0pzA" title="Soundtoys Decapitator — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** $199

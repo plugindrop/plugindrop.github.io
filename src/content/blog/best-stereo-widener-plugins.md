@@ -1,5 +1,5 @@
 ---
-title: "10 Best Stereo Widener & Imager Plugins in 2026"
+title: "10 Best Stereo Widener & Imager Plugins in 2026 — Ranked"
 description: "Wider by Polyverse is the best free stereo widener VST in 2026 — it's completely free, phase-coherent, and passes mono checks without artifacts. For..."
 pubDate: "2026-05-16T18:10:19Z"
 tags: ["guide", "vst", "effects"]
@@ -16,6 +16,7 @@ draft: false
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CZsy0xHu7og" title="10 Best Stereo Widener & Imager Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 ## Quick Picks at a Glance
 
@@ -44,6 +45,8 @@ This guide covers the ten best stereo widener and imager plugins available in 20
 ## Best Free Stereo Wideners
 
 ### Wider (Polyverse) — The gold standard for free stereo widening
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CZsy0xHu7og" title="Wider — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Polyverse Music
 - **Price:** Free
@@ -235,15 +238,15 @@ If MicroShift feels too saturated or vintage for a production, MicroPitch offers
 
 ## Worth Upgrading To
 
-### iZotope Ozone 11 — Complete mastering suite with advanced stereo imaging
+### iZotope Ozone 12 — Complete mastering suite with advanced stereo imaging
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="iZotope Ozone 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="iZotope Ozone 12 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** From $249 (Standard)
-- **Why upgrade:** Ozone Imager 2 (free) is capable, but Ozone 11's Imager module adds AI-assisted stereo analysis, automatic mono compatibility correction, and deep integration with the full mastering chain — EQ, dynamics, limiter — all in one session. If you're doing regular mastering work and need a complete signal chain, the gap between the free Imager and Ozone 11 Standard is substantial.
+- **Why upgrade:** Ozone Imager 2 (free) is capable, but Ozone 12's Imager module adds AI-assisted stereo analysis, automatic mono compatibility correction, and deep integration with the full mastering chain — EQ, dynamics, limiter — all in one session. If you're doing regular mastering work and need a complete signal chain, the gap between the free Imager and Ozone 12 Standard is substantial.
 
-[→ Get iZotope Ozone 11](https://www.izotope.com/en/products/ozone.html)
+[→ Get iZotope Ozone 12](https://www.izotope.com/en/products/ozone.html)
 
 ---
 

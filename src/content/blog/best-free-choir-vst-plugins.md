@@ -1,5 +1,5 @@
 ---
-title: "8 Best Free Choir & Vocal Ensemble VST Plugins in 2026"
+title: "8 Best Free Choir & Vocal Ensemble VST Plugins in 2026 — Ranked"
 description: "Spitfire LABS Choir is the most consistently recommended free choir VST across bedroom producer communities — its professional ensemble recording has no..."
 pubDate: "2026-05-03T15:12:56Z"
 tags: ["guide", "vst", "free", "instruments"]
@@ -44,6 +44,9 @@ This guide is for producers who write film scores, ambient electronic music, pos
 ## The Best Free Choir & Vocal Ensemble VST Plugins
 
 ### Spitfire LABS Choir — The Free Benchmark That Paid Libraries Are Measured Against
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/RNK8LVayPec" title="Spitfire LABS Choir — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - **Developer:** Spitfire Audio
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -97,7 +100,7 @@ The recording quality and sample depth do not compete with Spitfire's offerings.
 
 ### Virtual Playing Orchestra — The Community Orchestral Project Built for Templates
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/8ywVVkF8txc" title="Virtual Playing Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/PGp1daVIBcs" title="Virtual Playing Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Community project (Paul Battersby)
 - **Price:** Free
@@ -152,7 +155,7 @@ The KVR Audio community describes Alter/Ego as the standard recommendation for p
 
 ### VSCO2 Community Edition — Open-Source Orchestral With Vocal Content
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/H9F5LYwFcWI" title="VSCO2 Community Edition — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/IhnCgFe_j8s" title="VSCO2 Community Edition — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Versilian Studios
 - **Price:** Free
