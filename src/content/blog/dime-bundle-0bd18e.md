@@ -73,7 +73,7 @@ If you're already invested in a specific ecosystem (iZotope, Waves, NI), staying
 ## FAQ
 
 **Q: Where can I buy the dime Bundle at this discounted price?**
- Purchase directly at the product page to ensure you get the current deal price.
+A: Purchase directly at the product page to ensure you get the current deal price.
 
 **Q: Does the dime Bundle require iLok or online activation?**
 A: Check the official Plugin Boutique product page for licensing and activation details — this varies by developer and isn't listed in the deal summary.

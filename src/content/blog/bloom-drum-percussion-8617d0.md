@@ -42,7 +42,6 @@ Based on the product listing category and available information:
 
 - **Beat producers working in electronic genres** — A purpose-built percussion plugin keeps sessions organized and speeds up rhythmic sound design compared to hunting through folder-based sample libraries.
 - **Film and media composers** — Producers scoring to picture often need percussion textures quickly; a focused instrument plugin fits that need better than a general-purpose sampler.
-- **
 - **DAW-native workflow enthusiasts** — Anyone who prefers keeping everything inside the box rather than managing standalone sample libraries will appreciate the plugin format.
 
 ---

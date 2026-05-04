@@ -43,7 +43,7 @@ Scaler EQ is a musical equalizer plugin developed by the team behind Scaler, Plu
 
 ## Current Pricing
 
-A 33% discount puts Scaler EQ below the $40 threshold where it competes directly on price with mid-tier creative EQ tools. Plugin Boutique runs sales across its catalog with some regularity, so catching this during the active window is worth doing — waiting for a deeper discount on a Plugin Boutique original isn't a reliable strategy.
+A Plugin Boutique runs sales across its catalog with some regularity, so catching this during the active window is worth doing — waiting for a deeper discount on a Plugin Boutique original isn't a reliable strategy.
 
 *Price verified at publication. Check the link for current availability.*
 

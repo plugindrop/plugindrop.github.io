@@ -75,7 +75,7 @@ A: Licensing and activation methods vary by developer. Check the official Plugin
 A: Supported formats and DAW compatibility are listed on the product page — verify these match your setup before buying.
 
 **Q: Is this a one-time purchase or a subscription?**
- Confirm full license terms on the product page.
+A: Confirm full license terms on the product page.
 
 **Q: What is Plugin Boutique's refund policy on this product?**
 A: Refund eligibility depends on the developer's terms. Check Plugin Boutique's purchase policy before completing your order.
@@ -83,8 +83,6 @@ A: Refund eligibility depends on the developer's terms. Check Plugin Boutique's 
 ---
 
 ## Where to Buy
-
-At **$39.00** (down from ), this 34% discount puts a dedicated drum break library well into impulse-buy territory. Break-focused libraries don't hit this price often — if they're part of your workflow, now is a reasonable time to add one.
 
 [→ Grab Bloom Drum Breaks at Plugin Boutique for $39.00](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-breaks-4d77af)
 

@@ -82,7 +82,7 @@ A: Check Plugin Boutique's official terms and conditions for their current refun
 
 ## Where to Buy
 
-Half price on a full bundle of virtual drummers is a deal worth flagging. At **$99** (down from ), the math makes sense for anyone who's been putting off adding a solid drum toolkit to their setup.
+Half price on a full bundle of virtual drummers is a deal worth flagging. 
 
 [pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-drummer-2-bundle-a74342)
 

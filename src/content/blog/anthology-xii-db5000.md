@@ -68,10 +68,10 @@ If your primary gap is in synthesis and virtual instruments, a complete collecti
 ## FAQ
 
 **Q: Where is Anthology XII available at this sale price?**
-A: This deal is live at Plugin Boutique. The discounted price is $499 against a regular retail of $1,999.
+A: Check the current price at Plugin Boutique.
 
 **Q: Is this a permanent price reduction or a limited-time sale?**
-A: This is a promotional deal price. Sale windows at Plugin Boutique are time-limited — verify current pricing at the product page.
+A: Pricing may change — verify current pricing on the product page.
 
 **Q: Does Anthology XII include future version updates?**
 A: Update and upgrade terms vary by publisher. Check the official product page for the current update policy.
@@ -80,8 +80,6 @@ A: Update and upgrade terms vary by publisher. Check the official product page f
 A: System requirements depend on the publisher's specifications — check the official product listing for confirmed compatibility details.
 
 ---
-
-##  Discounts of this scale on full-catalog bundles are infrequent, making this a notable window for producers at that consideration stage.
 
 [→ Get Anthology XII at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/8762-Anthology-XII?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=anthology-xii-db5000)
 

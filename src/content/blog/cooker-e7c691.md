@@ -46,8 +46,6 @@ The 808 bass — rooted in the Roland TR-808 drum machine — has been central t
 
 ---
 
-##   Deals like this typically have a limited window.
-
 *Verify current pricing on the product page — deals can change without notice.*
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11027-808-Cooker?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cooker-e7c691)

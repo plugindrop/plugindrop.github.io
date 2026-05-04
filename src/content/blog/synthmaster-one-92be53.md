@@ -39,8 +39,6 @@ SynthMaster One is a wavetable and VA (virtual analog) synthesizer developed by 
 - **Beginners entering sound design** — The simplified layout compared to SynthMaster 2 makes wavetable synthesis more approachable without stripping out depth.
 - **Producers working in electronic genres** — The wavetable engine is well-suited for leads, pads, and basses common in EDM, synthwave, and lo-fi production.
 - **Existing SynthMaster 2 users** — SynthMaster One complements the full version as a faster, lighter tool for quick patch iteration.
-- **
-
 ---
 
 ## Current Pricing
@@ -78,8 +76,6 @@ A: Check the official product page for current macOS/Windows version requirement
 A: SynthMaster One is designed as a more streamlined, single-oscillator-layer instrument compared to the full modular architecture of SynthMaster 2, making it faster to use for standard production tasks.
 
 ---
-
-##  Deals on KV331 Audio plugins don't linger — [secure SynthMaster One at the discounted price here](https://www.pluginboutique.com/product/1-Instruments/4-Synth/3188-SynthMaster-One?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthmaster-one-92be53).
 
 ---
 

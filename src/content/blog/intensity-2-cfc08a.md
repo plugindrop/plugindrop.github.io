@@ -42,8 +42,6 @@ For exact system requirements, supported DAWs, and activation method, check the 
 - **Mix engineers** — A dynamics processor built for shaping transients and controlling density suits both surgical corrections and creative sound design.
 - **Beatmakers and producers** — Adding punch to drums or controlling the sustain on melodic elements is a core use case for this plugin category.
 - **Mastering engineers** — Dynamics control at the mix bus level is a standard part of a mastering chain; a dedicated tool here can replace more general-purpose compressors.
-- **
-
 ---
 
 ## Current Pricing

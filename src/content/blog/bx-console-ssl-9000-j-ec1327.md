@@ -43,7 +43,6 @@ The bx_console series from Brainworx has built a solid reputation in mixing comm
 
 - **Mix engineers working in-the-box:** Designed to bring hardware console behavior — EQ, dynamics, and analog variation — into a purely digital workflow.
 - **Producers chasing an SSL sound:** The 9000 J console has a documented history in commercial pop, rock, and R&B production; this plugin targets that aesthetic.
-- **
 - **Tracking and mixing engineers who run large sessions:** The multi-instance design makes it viable for strapping across an entire session, not just select channels.
 
 ---
