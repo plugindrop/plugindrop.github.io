@@ -16,9 +16,6 @@ draft: false
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_NHpFw6JJDc" title="Orchestral Tools — Orchestral Tools has released Lyra, a pluck string instruments library for the free Sine Player. The intro is 20% off — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ## What Is Orchestral Tools Lyra?

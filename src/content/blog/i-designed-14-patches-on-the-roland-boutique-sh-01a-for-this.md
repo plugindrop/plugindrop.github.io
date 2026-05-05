@@ -13,9 +13,6 @@ draft: false
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/F8MuoVFBkNw" title="I designed 14 patches on the Roland Boutique SH-01A for this synthwave track (cover of &quot;Burnout&quot; by AERwave). Free patches and project notes in the post body — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ## What Is the Roland Boutique SH-01A?

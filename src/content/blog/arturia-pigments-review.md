@@ -16,7 +16,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bpb0QLrwwEY" title="Arturia Pigments 5 Review: Is This the Best All-in-One Soft Synth? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/G1BbqY4tIxU" title="Arturia Pigments 5 Review: Is This the Best All-in-One Soft Synth? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
