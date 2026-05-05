@@ -13,9 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/zXG4hi6RI6A" title="BALANCE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 ## What Is BALANCE?
 

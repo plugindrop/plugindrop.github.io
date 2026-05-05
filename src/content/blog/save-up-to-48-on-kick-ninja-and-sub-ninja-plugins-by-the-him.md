@@ -15,9 +15,6 @@ heroImage: "/images/save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ahXZKiXP1iM" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ## Kick Ninja and Sub Ninja: What Are These Plugins?

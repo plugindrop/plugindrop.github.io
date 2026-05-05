@@ -18,7 +18,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/U0IDucUFYbk" title="Audio Plugin Deals — Get 89% off Collab Gem Bundle 300 for $35 (Normally $300) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/0YnNmHA3iNA" title="Audio Plugin Deals — Get 89% off Collab Gem Bundle 300 for $35 (Normally $300) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
