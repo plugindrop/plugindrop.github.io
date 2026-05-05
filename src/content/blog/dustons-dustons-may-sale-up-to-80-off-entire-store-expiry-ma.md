@@ -5,7 +5,6 @@ pubDate: "2026-05-01T07:24:04Z"
 tags: ["dustons", "music-production"]
 affiliate: "https://dustons.com/maysale"
 heroImage: "/images/dustons-dustons-may-sale-up-to-80-off-entire-store-expiry-ma.webp"
-aiImage: true
 score: 5.76
 dealPrice: "$9.97"
 originalPrice: "$19.95"

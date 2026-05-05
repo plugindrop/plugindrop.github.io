@@ -1,7 +1,7 @@
 ---
 title: "Devil Loc Deluxe"
 description: "SoundToys Devil-Loc Deluxe is down to **$39** (was ~~$99~~) — that's 60% off a character compression plugin built for producers who want destructive,"
-pubDate: "2026-04-23T23:42:59Z..."
+pubDate: "2026-04-23T23:42:59Z"
 tags: ["vst-plugin", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?search_query=devil+loc+deluxe&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=devil-loc-deluxe-98f555"
 heroImage: "/images/devil-loc-deluxe-98f555.jpg"

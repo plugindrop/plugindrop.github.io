@@ -4,9 +4,8 @@ description: "Axe Machina is a Kontakt-based sample instrument from Soundiron, a
 pubDate: '2026-04-16T03:48:40Z'
 tags: ["review", "soundiron", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763"
-heroImage: /images/soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru.webp
+heroImage: "/images/soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru.jpg"
 score: 8.07
-aiImage: true
 draft: false
 converted: true
 ---

@@ -1,13 +1,12 @@
 ---
 title: "Best Free Drum Plugins in 2026 — 10 Picks for Any Genre"
 description: "The best free drum VST plugins for hip-hop, EDM, rock, and more. From sample-based kits to full drum machines — no cost, no catch. Updated 2026."
-pubDate: "2026-03-20T10:00:00Z..."
+pubDate: "2026-03-20T10:00:00Z"
 tags: ["free", "vst-plugin", "drums", "music-production", "roundup"]
 affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-drum-plugins"
 dealPrice: "FREE"
 draft: false
 heroImage: "/images/best-free-drum-plugins.webp"
-aiImage: true
 score: 1.53
 ---
 

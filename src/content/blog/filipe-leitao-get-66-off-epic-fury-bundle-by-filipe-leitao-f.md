@@ -7,8 +7,7 @@ description: Filipe Leitao's Epic Fury Bundle is currently **66% off** — dropp
 pubDate: '2026-04-17T11:06:50Z'
 tags: ["sale", "filipe leitao", "music-production", "bundle"]
 affiliate: https://audioplugin.deals/product/epic-fury-bundle-by-filipe-leitao/ref/21/
-heroImage: /images/filipe-leitao-get-66-off-epic-fury-bundle-by-filipe-leitao-f.webp
-aiImage: true
+heroImage: "/images/filipe-leitao-get-66-off-epic-fury-bundle-by-filipe-leitao-f.jpg"
 dealPrice: "$9.99"
 originalPrice: "$29.00"
 discount: "66% OFF"

@@ -1,7 +1,7 @@
 ---
 title: "8Dio Lacrimosa Choir — 200-Singer Epic Choir for Kontakt"
 description: "8Dio Lacrimosa Choir: 200-piece cinematic choir with true layered legato and multi-vowel phrases. Part of the Pick 3 for $69 deal."
-pubDate: "2026-04-23T00:00:00Z..."
+pubDate: "2026-04-23T00:00:00Z"
 tags: ["vst-plugin", "music-production", "kontakt", "choir"]
 affiliate: "https://www.pluginboutique.com/search?search_query=lacrimosa+epic+choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-lacrimosa-choir"
 heroImage: "/images/8dio-lacrimosa-choir.jpg"

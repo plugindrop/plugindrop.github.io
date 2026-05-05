@@ -17,6 +17,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CSZrKTaoYcc" title="free plugin pack — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## Waves Free Plugin Pack: What You're Actually Getting
 
 Waves doesn't hand out free stuff often. When they do, it moves fast.

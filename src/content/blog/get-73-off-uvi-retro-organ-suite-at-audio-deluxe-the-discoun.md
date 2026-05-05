@@ -4,7 +4,7 @@ description: "UVI Retro Organ Suite is currently **73% off at just $39** at Audi
 pubDate: "2026-04-25T19:06:23Z"
 tags: ["bundle", "music-production"]
 affiliate: "https://audiodeluxe.com/collections/software/products/uvi-retro-organ-suite"
-heroImage: "/images/get-73-off-uvi-retro-organ-suite-at-audio-deluxe-the-discoun.webp"
+heroImage: "/images/get-73-off-uvi-retro-organ-suite-at-audio-deluxe-the-discoun.jpg"
 score: 4.00
 dealPrice: "$39"
 discount: "73% OFF"

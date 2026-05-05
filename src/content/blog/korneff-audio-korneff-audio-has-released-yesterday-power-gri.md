@@ -7,8 +7,7 @@ description: Korneff Audio's Power Grid Disruptor — a glitch, distortion, and 
 pubDate: '2026-04-03T05:10:09Z'
 tags: ["free", "freeaudioplugins", "korneff audio", "music-production"]
 affiliate: https://korneffaudio.com/product/power-grid-disruptor/
-heroImage: /images/korneff-audio-korneff-audio-has-released-yesterday-power-gri.webp
-aiImage: true
+heroImage: "/images/korneff-audio-korneff-audio-has-released-yesterday-power-gri.jpg"
 dealPrice: "FREE"
 draft: false
 score: 1.54
@@ -18,6 +17,7 @@ score: 1.54
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TwIvUbOhcKE" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 ## What Is Power Grid Disruptor?
 

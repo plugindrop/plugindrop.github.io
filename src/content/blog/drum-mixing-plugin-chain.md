@@ -1,7 +1,7 @@
 ---
 title: "Complete Drum Mixing Plugin Chain: Best Tools for Punchy Drums (2026)"
 description: "The fastest path to punchy, professional drums in 2026 is a five-step plugin chain: EQ → transient shaping → low-end reinforcement → bus compression →"
-pubDate: "2026-05-03T14:06:41Z..."
+pubDate: "2026-05-03T14:06:41Z"
 tags: ["guide", "vst", "drums", "workflow"]
 affiliate: ""
 evergreen: true

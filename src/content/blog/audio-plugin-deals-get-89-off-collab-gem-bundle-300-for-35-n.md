@@ -21,6 +21,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/U0IDucUFYbk" title="Audio Plugin Deals — Get 89% off Collab Gem Bundle 300 for $35 (Normally $300) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is the Collab Gem Bundle 300?
 
 The Collab Gem Bundle 300 is a curated plugin collection available through Audio Plugin Deals, a platform known for aggregating discounted software instruments and effects for music producers. The bundle is priced to reflect a $300 combined value, making the $35 deal price a rare entry point for producers looking to expand their toolkit in bulk. Bundles at this price-to-value ratio typically target producers who want broad coverage across multiple production categories without committing to individual plugin purchases.

@@ -4,9 +4,8 @@ description: "The ToneKnob Ultimate Bundle is a collection of tone-shaping effec
 pubDate: '2026-04-02T06:34:24Z'
 tags: ["review", "audified", "music-production", "bundle"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15324-ToneKnob-Ultimate-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=audified-get-50-off-toneknob-ultimate-bundle-by-audified-the&a_aid=69cb95abe1763"
-heroImage: /images/audified-get-50-off-toneknob-ultimate-bundle-by-audified-the.webp
+heroImage: "/images/audified-get-50-off-toneknob-ultimate-bundle-by-audified-the.jpg"
 score: 5.42
-aiImage: true
 draft: false
 converted: true
 ---

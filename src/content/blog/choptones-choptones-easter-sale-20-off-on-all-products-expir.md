@@ -8,7 +8,6 @@ tags: ["sale", "choptones", "music-production"]
 affiliate: https://www.choptones.com/collections
 heroImage: /images/choptones-choptones-easter-sale-20-off-on-all-products-expir.webp
 saleExpiry: '2026-04-13'
-aiImage: true
 discount: "20% OFF"
 draft: true
 score: 2.8

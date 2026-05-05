@@ -4,9 +4,8 @@ description: "Black Salt Audio is a plugin developer known for streamlined, sing
 pubDate: '2026-04-02T06:34:42Z'
 tags: ["review", "black salt audio", "music-production", "bundle"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13453-BSA-Drum-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=black-salt-audio-get-39-off-bsa-drum-bundle-by-black-salt-au&a_aid=69cb95abe1763"
-heroImage: /images/black-salt-audio-get-39-off-bsa-drum-bundle-by-black-salt-au.webp
+heroImage: "/images/black-salt-audio-get-39-off-bsa-drum-bundle-by-black-salt-au.jpg"
 score: 5.93
-aiImage: true
 draft: false
 converted: true
 ---

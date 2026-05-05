@@ -18,6 +18,7 @@ score: 3.82
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/SSI9uK5rtkc" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is NUGEN Audio Halo Vision?
 
 Halo Vision is a 3D audio metering and monitoring plugin from NUGEN Audio, a UK-based developer with a strong reputation in broadcast and post-production circles. It's built specifically for immersive audio workflows, providing visual feedback on spatial audio mixes across formats including Dolby Atmos and other object-based audio standards. The latest update introduces refined precision analysis capabilities, making it more useful for engineers who need accurate, real-time spatial imaging data during a session.

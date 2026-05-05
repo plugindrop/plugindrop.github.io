@@ -1,7 +1,7 @@
 ---
 title: "iZotope RX 11 Review 2026: The Industry Standard for Audio Repair"
 description: "iZotope RX 11 remains the undisputed standard for audio repair in 2026 — no competing tool matches its combination of AI-powered dialogue isolation,"
-pubDate: "2026-05-04T02:10:19Z..."
+pubDate: "2026-05-04T02:10:19Z"
 tags: ["guide", "vst", "effects", "review"]
 affiliate: ""
 evergreen: true

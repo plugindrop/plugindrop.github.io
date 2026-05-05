@@ -6,7 +6,6 @@ pubDate: '2026-04-14T11:43:38Z'
 tags: ["sale", "bass", "deals", "effects", "eq", "kick", "mastering", "mixing", "native", "resonance", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?search_query=little+labs+voice+of+god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-universal-audio-launches-little-labs-voice-of-god-bass-"
 heroImage: /images/news-universal-audio-launches-little-labs-voice-of-god-bass-.webp
-aiImage: true
 dealPrice: "$49"
 draft: false
 score: 4.84

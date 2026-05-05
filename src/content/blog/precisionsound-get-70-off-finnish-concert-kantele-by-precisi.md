@@ -6,12 +6,11 @@ description: Precisionsound's Finnish Concert Kantele is down to **$21** — tha
 pubDate: '2026-04-14T23:26:35Z'
 tags: ["sale", "precisionsound", "music-production"]
 affiliate: https://audioplugin.deals/product/finnish-concert-kantele-by-precision-sounds/ref/21/
-heroImage: /images/precisionsound-get-70-off-finnish-concert-kantele-by-precisi.webp
+heroImage: "/images/precisionsound-get-70-off-finnish-concert-kantele-by-precisi.jpg"
 dealPrice: "$21"
 originalPrice: "$69"
 discount: "70% OFF"
 saleExpiry: '2026-04-27'
-aiImage: true
 draft: true
 score: 4.89
 ---

@@ -1,7 +1,7 @@
 ---
 title: "10 Best Free Drum Machine & Beat VST Plugins in 2026 — Ranked"
 description: "MT Power Drum Kit 2 is the most consistently recommended free acoustic drum VST in producer communities — it handles rock, metal, and jazz without... Updated 2026."
-pubDate: "2026-05-25T10:39:54Z..."
+pubDate: "2026-05-25T10:39:54Z"
 tags: ["guide", "vst", "free", "instruments"]
 affiliate: ""
 heroImage: "/images/best-free-drum-machine-vst.jpg"

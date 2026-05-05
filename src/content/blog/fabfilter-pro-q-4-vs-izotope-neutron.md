@@ -1,7 +1,7 @@
 ---
 title: "FabFilter Pro-Q 4 vs iZotope Neutron 4 2026: Which EQ Wins for Mixing?"
 description: "FabFilter Pro-Q 4 is the unmatched industry-standard parametric EQ — surgical, transparent, and built for engineers who know exactly what they want... Updated 2026."
-pubDate: "2026-04-27T08:06:41Z..."
+pubDate: "2026-04-27T08:06:41Z"
 tags: ["guide", "vst", "effects", "alternatives"]
 affiliate: ""
 evergreen: true

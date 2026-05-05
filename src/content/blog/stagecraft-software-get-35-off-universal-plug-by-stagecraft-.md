@@ -4,9 +4,8 @@ description: "Universal Plug is a utility plugin made by Stagecraft Software, a 
 pubDate: '2026-04-03T05:45:08Z'
 tags: ["review", "stagecraft software", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=plugindrop&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-&a_aid=69cb95abe1763"
-heroImage: /images/stagecraft-software-get-35-off-universal-plug-by-stagecraft-.webp
+heroImage: "/images/stagecraft-software-get-35-off-universal-plug-by-stagecraft-.jpg"
 score: 4.25
-aiImage: true
 draft: false
 converted: true
 ---

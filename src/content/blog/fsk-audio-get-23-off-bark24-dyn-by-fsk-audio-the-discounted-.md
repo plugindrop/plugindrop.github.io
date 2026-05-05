@@ -4,9 +4,8 @@ description: "Bark24 | Dyn is a dynamics processor plugin developed by FSK Audio
 pubDate: '2026-04-17T09:57:59Z'
 tags: ["review", "fsk audio", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17070-Bark24-Dyn?utm_source=plugindrop&utm_medium=article&utm_campaign=fsk-audio-get-23-off-bark24-dyn-by-fsk-audio-the-discounted-&a_aid=69cb95abe1763"
-heroImage: /images/fsk-audio-get-23-off-bark24-dyn-by-fsk-audio-the-discounted-.webp
+heroImage: "/images/fsk-audio-get-23-off-bark24-dyn-by-fsk-audio-the-discounted-.jpg"
 score: 6.74
-aiImage: true
 draft: false
 converted: true
 ---

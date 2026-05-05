@@ -4,9 +4,8 @@ description: "Smooth Operator Pro is a spectral signal balancing plugin from Bab
 pubDate: '2026-04-03T08:32:32Z'
 tags: ["review", "baby audio", "spectral shaper", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o&a_aid=69cb95abe1763"
-heroImage: /images/smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o.webp
+heroImage: "/images/smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o.jpg"
 score: 5.81
-aiImage: true
 draft: false
 converted: true
 ---

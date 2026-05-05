@@ -4,7 +4,7 @@ description: "Softube Model 80 Five Voice Synthesizer is **62% off** — down to
 pubDate: "2026-05-02T17:23:55Z"
 tags: ["synth", "music-production"]
 affiliate: "https://audiodeluxe.com/collections/software/products/softube-model-80-five-voice-synthesizer"
-heroImage: "/images/get-62-off-softube-model-80-five-voice-synthesizer-at-audio-.webp"
+heroImage: "/images/get-62-off-softube-model-80-five-voice-synthesizer-at-audio-.jpg"
 score: 8.06
 dealPrice: "$59"
 discount: "62% OFF"

@@ -6,9 +6,8 @@ description: Sonora Cinematic's Spring Sale knocks **up to 40% off** their Konta
 pubDate: '2026-04-02T13:21:11Z'
 tags: ["sale", "sonora cinematic", "music-production"]
 affiliate: https://sonoracinematic.com/collections/all
-heroImage: /images/sonora-cinematic-sonora-cinematic-spring-sale-up-to-40-off-k.webp
+heroImage: "/images/sonora-cinematic-sonora-cinematic-spring-sale-up-to-40-off-k.jpg"
 saleExpiry: '2026-04-30'
-aiImage: true
 discount: "40% OFF"
 draft: true
 score: 3.85

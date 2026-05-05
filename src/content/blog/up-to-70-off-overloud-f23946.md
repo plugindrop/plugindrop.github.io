@@ -6,7 +6,6 @@ tags: ["review", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?search_query=overloud&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=up-to-70-off-overloud-f23946"
 heroImage: /images/up-to-70-off-overloud-f23946.webp
 score: 2.45
-aiImage: true
 draft: false
 converted: true
 ---

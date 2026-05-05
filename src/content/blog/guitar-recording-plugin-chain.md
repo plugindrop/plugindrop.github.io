@@ -1,7 +1,7 @@
 ---
 title: "Complete Guitar Recording Plugin Chain: Amp Sim to Mastering (2026)"
 description: "The complete guitar recording plugin chain for 2026 runs Neural DSP Archetype for amp simulation, Waves IR-L for cabinet impulse response loading,"
-pubDate: "2026-06-19T22:39:54Z..."
+pubDate: "2026-06-19T22:39:54Z"
 tags: ["guide", "vst", "instruments", "workflow"]
 affiliate: ""
 evergreen: true

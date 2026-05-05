@@ -7,7 +7,6 @@ tags: ["sale", "music-production"]
 affiliate: https://www.veryloudindeed.com/
 heroImage: /images/the-very-loud-indeed-co-spring-sale-up-to-60-off-74a582.webp
 saleExpiry: '2026-04-30'
-aiImage: true
 discount: "60% OFF"
 draft: true
 score: 2.66

@@ -1,7 +1,7 @@
 ---
 title: "10 Best Free Orchestral & Strings VST Plugins in 2026 — Ranked"
 description: "Details on 10 Best Free Orchestral & Strings VST Plugins in 2026 — is it worth it?"
-pubDate: "2026-04-26T23:53:47Z..."
+pubDate: "2026-04-26T23:53:47Z"
 tags: ["guide", "vst", "free", "instruments"]
 affiliate: ""
 evergreen: true

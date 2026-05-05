@@ -1,7 +1,7 @@
 ---
 title: "14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analog)"
 description: "Vital is the best free synth VST plugin in 2026 — it delivers professional wavetable synthesis that competes with $200 instruments at zero cost. For FM,"
-pubDate: "2026-05-06T17:06:41Z..."
+pubDate: "2026-05-06T17:06:41Z"
 tags: ["guide", "vst", "free", "instruments", "synth"]
 affiliate: ""
 evergreen: true

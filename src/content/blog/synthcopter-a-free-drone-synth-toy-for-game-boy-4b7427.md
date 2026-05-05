@@ -6,7 +6,6 @@ pubDate: '2026-04-03T05:44:50Z'
 tags: ["free", "synth", "music-production"]
 affiliate: https://www.synthcopter.com/
 heroImage: /images/synthcopter-a-free-drone-synth-toy-for-game-boy-4b7427.webp
-aiImage: true
 dealPrice: "FREE"
 draft: true
 score: 1.41

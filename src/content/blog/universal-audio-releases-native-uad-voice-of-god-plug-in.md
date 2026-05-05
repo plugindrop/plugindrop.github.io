@@ -6,7 +6,6 @@ tags: ["review", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?search_query=little+labs+voice+of+god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-releases-native-uad-voice-of-god-plug-in"
 heroImage: /images/universal-audio-releases-native-uad-voice-of-god-plug-in.webp
 score: 5.18
-aiImage: true
 draft: false
 converted: true
 ---

@@ -5,8 +5,7 @@ description: QFX Cube by 2B Played Music — a creative reflection effect plugin
 pubDate: '2026-04-02T08:09:43Z'
 tags: ["free", "2b played", "music-production"]
 affiliate: https://2bplayed.com/product/qfx-cube/
-heroImage: /images/2b-played-download-qfx-cube-from-2b-played-music-for-free-wi.webp
-aiImage: true
+heroImage: "/images/2b-played-download-qfx-cube-from-2b-played-music-for-free-wi.jpg"
 dealPrice: "FREE"
 saleExpiry: "2026-04-20"
 draft: true

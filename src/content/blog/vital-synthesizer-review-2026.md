@@ -1,7 +1,7 @@
 ---
 title: "Vital Review 2026: Is the Free Synth Really Worth It (And When to Upgrade)?"
 description: "Vital's free tier delivers a complete spectral wavetable synthesis engine that the community consistently ranks alongside paid competitors costing... Updated 2026."
-pubDate: "2026-05-05T06:47:51Z..."
+pubDate: "2026-05-05T06:47:51Z"
 tags: ["guide", "vst", "instruments", "review", "synth"]
 affiliate: ""
 heroImage: "/images/vital-synthesizer-review-2026.png"

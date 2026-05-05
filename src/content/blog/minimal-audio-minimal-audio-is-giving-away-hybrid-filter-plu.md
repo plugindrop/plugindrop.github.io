@@ -5,7 +5,6 @@ pubDate: "2026-05-02T05:49:02Z"
 tags: ["free", "minimal audio", "music-production"]
 affiliate: "https://www.minimal.audio/products/hybrid-filter"
 heroImage: "/images/minimal-audio-minimal-audio-is-giving-away-hybrid-filter-plu.webp"
-aiImage: true
 score: 8.46
 dealPrice: "FREE"
 xText: "minimal audio just dropped their hybrid filter for free. honestly underrated—this thing does multimode work most paid filters charge for. go grab it now before it's gone."

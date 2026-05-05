@@ -1,7 +1,7 @@
 ---
 title: "10 Best Free Mastering Plugins in 2026, Ranked (Limiter, EQ, Metering)"
 description: "The strongest free mastering toolkit in 2026 starts with Youlean Loudness Meter 2 for streaming-accurate LUFS analysis, TDR Nova for precise dynamic EQ,"
-pubDate: "2026-06-03T10:39:54Z..."
+pubDate: "2026-06-03T10:39:54Z"
 tags: ["guide", "vst", "free", "mastering"]
 affiliate: ""
 heroImage: "/images/best-free-mastering-plugins.png"

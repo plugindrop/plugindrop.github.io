@@ -6,8 +6,7 @@ description: MIDI Klowd is running an Easter Sale with **50% off all MIDI and sa
 pubDate: '2026-04-04T05:39:11Z'
 tags: ["sale", "midi klowd", "music-production", "sample-pack"]
 affiliate: https://midiklowd.com/midi-klowd-everything-bundle
-heroImage: /images/midi-klowd-midi-klowd-easter-sale-50-off-on-all-midi-and-sam.webp
-aiImage: true
+heroImage: "/images/midi-klowd-midi-klowd-easter-sale-50-off-on-all-midi-and-sam.jpg"
 discount: "50% OFF"
 draft: false
 score: 2.8

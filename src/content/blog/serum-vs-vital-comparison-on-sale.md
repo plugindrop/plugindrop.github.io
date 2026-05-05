@@ -1,7 +1,7 @@
 ---
 title: "Serum vs Vital: Which Wavetable Synth Should You Buy in 2026? — Sale Deal $19.99"
 description: "Details on Serum vs Vital: Which Wavetable Synth Should You Buy in 2026? — Sale Deal $19.99 — is it worth it? Covers: Regular price, Saving amount."
-pubDate: "2026-04-28T08:26:51Z..."
+pubDate: "2026-04-28T08:26:51Z"
 tags: ["sale", "deal", "vst", "guide", "instruments", "alternatives", "synth"]
 affiliate: ""
 heroImage: "/images/serum-vs-vital-comparison-on-sale.jpg"

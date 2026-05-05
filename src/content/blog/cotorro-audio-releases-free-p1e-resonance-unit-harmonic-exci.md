@@ -6,8 +6,7 @@ description: Cotorro Audio just dropped the P1E Resonance Unit — a harmonic ex
 pubDate: '2026-04-02T11:37:46Z'
 tags: ["free", "music-production"]
 affiliate: https://cotorroaudio.itch.io/p1eru
-heroImage: /images/cotorro-audio-releases-free-p1e-resonance-unit-harmonic-exci.webp
-aiImage: true
+heroImage: "/images/cotorro-audio-releases-free-p1e-resonance-unit-harmonic-exci.jpg"
 dealPrice: "FREE"
 draft: false
 score: 1.41

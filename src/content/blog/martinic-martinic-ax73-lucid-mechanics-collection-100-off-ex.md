@@ -5,7 +5,6 @@ pubDate: "2026-05-01T17:16:20Z"
 tags: ["free", "martinic", "bundle", "music-production"]
 affiliate: "https://www.martinic.com/bandcamp"
 heroImage: "/images/martinic-martinic-ax73-lucid-mechanics-collection-100-off-ex.webp"
-aiImage: true
 score: 7.66
 dealPrice: "FREE"
 xText: "the martinic ax73 is free right now. full 100% off on something people normally pay for. grab it before this deal dies"

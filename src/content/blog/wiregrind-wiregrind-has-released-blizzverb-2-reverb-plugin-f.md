@@ -4,13 +4,12 @@ description: "BlizzVerb 2 is available at ~~$50~~ **$29** — that's 42% off as 
 pubDate: "2026-04-20T06:09:41Z"
 tags: ["sale", "wiregrind", "music-production"]
 affiliate: "https://www.wiregrind.com/blizzverb/"
-aiImage: true
 score: 6.76
 dealPrice: "$29"
 originalPrice: "$50"
 discount: "42% OFF"
 saleExpiry: "2026-04-23"
-heroImage: "/images/wiregrind-wiregrind-has-released-blizzverb-2-reverb-plugin-f.webp"
+heroImage: "/images/wiregrind-wiregrind-has-released-blizzverb-2-reverb-plugin-f.jpg"
 draft: true
 ---
 **TL;DR:** BlizzVerb 2 is available at ~~$50~~ **$29** — that's 42% off as an intro deal, valid until April 23, 2026. A Windows VST3 reverb with acoustic modeling and 1,000 room shapes for under thirty bucks is worth a look. [Grab it directly from WireGrind.](https://www.wiregrind.com/blizzverb/)

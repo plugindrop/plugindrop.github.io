@@ -10,7 +10,6 @@ dealPrice: "$40"
 originalPrice: "$50"
 discount: "20% OFF"
 saleExpiry: '2026-04-30'
-aiImage: true
 draft: true
 score: 5.67
 ---
@@ -19,6 +18,7 @@ score: 5.67
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/RYYILuy_u4M" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 ## What Is Abletonlive.aaf?
 

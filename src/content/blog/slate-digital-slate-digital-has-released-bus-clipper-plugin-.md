@@ -6,7 +6,6 @@ tags: ["review", "slate digital", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?search_query=bus+clipper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slate-digital-slate-digital-has-released-bus-clipper-plugin-"
 heroImage: /images/slate-digital-slate-digital-has-released-bus-clipper-plugin-.webp
 score: 6.00
-aiImage: true
 draft: false
 converted: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Kontakt vs Decent Sampler 2026: Do You Actually Need to Pay for a Sampler?"
 description: "For most producers in 2026, **Decent Sampler is the smarter starting point** — it's completely free, handles a growing catalog of high-quality libraries,"
-pubDate: "2026-05-12T02:10:19Z..."
+pubDate: "2026-05-12T02:10:19Z"
 tags: ["guide", "vst", "free", "instruments", "alternatives"]
 affiliate: ""
 evergreen: true

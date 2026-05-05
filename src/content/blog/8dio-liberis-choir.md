@@ -1,7 +1,7 @@
 ---
 title: "8Dio Liberis Angelic Choir — 45-Piece Award-Winning Children's Choir"
 description: "8Dio Liberis: 45-piece Piedmont Children's Choir with true layered legato, 50+ multi-vowel phrases, and 3 soloists. On sale as part of the Pick 3 for $69 deal."
-pubDate: "2026-04-23T00:00:00Z..."
+pubDate: "2026-04-23T00:00:00Z"
 tags: ["vst-plugin", "music-production", "kontakt", "choir"]
 affiliate: "https://www.pluginboutique.com/search?search_query=liberis+childrens+choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-liberis-choir"
 heroImage: "/images/8dio-liberis-choir.jpg"

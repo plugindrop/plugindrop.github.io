@@ -1,7 +1,7 @@
 ---
 title: "Vital — FREE Wavetable Synth Download (Free Tier Always Available)"
 description: "Vital is a free wavetable synth with visual modulation, 3 oscillators, and spectral warping. The free tier includes 75 presets — no time limit."
-pubDate: "2026-03-17T09:00:00Z..."
+pubDate: "2026-03-17T09:00:00Z"
 tags: ["free", "vst-plugin", "synth", "music-production"]
 affiliate: "https://vital.audio/"
 dealPrice: "FREE"

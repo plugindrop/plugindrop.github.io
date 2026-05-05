@@ -6,7 +6,6 @@ tags: ["review", "rhodes", "music-production"]
 affiliate: "https://www.pluginboutique.com/deals/22664?utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763"
 heroImage: /images/rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr.webp
 score: 3.08
-aiImage: true
 draft: false
 converted: true
 ---

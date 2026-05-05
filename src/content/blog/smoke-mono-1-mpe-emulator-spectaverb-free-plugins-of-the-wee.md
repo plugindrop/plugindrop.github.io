@@ -1,7 +1,7 @@
 ---
 title: "Smoke Mono 1, MPE Emulator, Spectaverb: Free Plugins of the Week"
 description: "Smoke Mono 1, MPE Emulator, and Spectaverb are all free downloads this week — zero cost, zero strings. If you're refreshing your plugin arsenal anyway,"
-pubDate: "2026-04-26T06:44:41Z..."
+pubDate: "2026-04-26T06:44:41Z"
 tags: ["tips  tricks", "effect", "free", "free plug-ins this week", "freeware", "linux", "midi", "monophonic", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?search_query=decapitator&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee"
 heroImage: "/images/smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee.png"

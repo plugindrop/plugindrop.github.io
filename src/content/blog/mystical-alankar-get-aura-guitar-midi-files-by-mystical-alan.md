@@ -6,8 +6,7 @@ description: Aura - Guitar MIDI Files by Mystical Alankar is dropping from ~~$20
 pubDate: '2026-04-17T11:06:30Z'
 tags: ["free", "mystical alankar", "music-production"]
 affiliate: https://audioplugin.deals/product/aura-guitar-midi-files-by-mystical-alankar/ref/21/
-heroImage: /images/mystical-alankar-get-aura-guitar-midi-files-by-mystical-alan.webp
-aiImage: true
+heroImage: "/images/mystical-alankar-get-aura-guitar-midi-files-by-mystical-alan.jpg"
 dealPrice: "FREE"
 originalPrice: "$20"
 saleExpiry: '2026-04-30'

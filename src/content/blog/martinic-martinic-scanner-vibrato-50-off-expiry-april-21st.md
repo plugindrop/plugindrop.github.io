@@ -5,7 +5,6 @@ pubDate: "2026-04-21T07:33:55Z"
 tags: ["martinic", "music-production"]
 affiliate: "https://www.martinic.com/products/scanner-vibrato/"
 heroImage: "/images/martinic-martinic-scanner-vibrato-50-off-expiry-april-21st.webp"
-aiImage: true
 score: 4.80
 saleExpiry: "2026-04-21"
 xText: "Scanner Vibrato's 50% off through end of today. that's the kind of discount that doesn't stick around."

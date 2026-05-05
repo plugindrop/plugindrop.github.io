@@ -17,6 +17,7 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/argBwTHDDVI" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ## What Is the u-he Diva Ambient Depths Expansion?
 
 u-he Diva is one of the most respected analog-modeled synthesizers in the plugin world, known for its circuit-level emulation of classic hardware synths. The *Ambient Depths* expansion is a preset pack designed specifically for Diva, focused on atmospheric, cinematic, and ambient sound design. It extends Diva's out-of-the-box library with sounds tailored for producers working in ambient, drone, soundtrack, and textural electronic music. The expansion is currently listed as a free download through Plugin Boutique.

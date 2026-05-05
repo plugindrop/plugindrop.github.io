@@ -21,6 +21,7 @@ draft: true
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A2211102035&color=%23c90000&auto_play=false&show_comments=false&show_user=false&show_reposts=false&visual=false&color=%23ff0000"></iframe>
 </div>
 
+
 ## What Is the Shhh 1+2 Bundle by Pssst Instruments?
 
 Pssst Instruments is a boutique sample instrument developer known for intimate, character-rich Kontakt libraries. The Shhh Series bundles their first two Shhh installments into a single purchase, giving buyers two distinct instruments built on Native Instruments' Kontakt platform. The "Shhh" branding leans into soft, expressive, close-mic'd textures — check the official product page for the full breakdown of each library's sonic focus and included content.

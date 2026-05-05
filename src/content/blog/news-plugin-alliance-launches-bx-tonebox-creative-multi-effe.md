@@ -5,8 +5,7 @@ description: Plugin Alliance has just launched **bx_tonebox**, a new creative mu
 pubDate: '2026-04-14T11:44:00Z'
 tags: ["sale", "compressor", "creative", "deals", "effects", "midside", "modular", "multi-effect", "plugin alliance", "plugin alliance bx_tonebox", "music-production"]
 affiliate: https://www.plugin-alliance.com/products/bx_tonebox
-heroImage: /images/news-plugin-alliance-launches-bx-tonebox-creative-multi-effe.webp
-aiImage: true
+heroImage: "/images/news-plugin-alliance-launches-bx-tonebox-creative-multi-effe.jpg"
 dealPrice: "$39.99"
 draft: false
 score: 4.0
@@ -18,6 +17,7 @@ score: 4.0
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bz_lBe381HE" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 ## What Is bx_tonebox?
 

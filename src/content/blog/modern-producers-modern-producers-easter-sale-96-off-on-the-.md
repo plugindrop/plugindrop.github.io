@@ -6,8 +6,7 @@ description: Modern Producers is running an Easter Sale with a massive **96% off
 pubDate: '2026-04-04T05:03:33Z'
 tags: ["sale", "modern producers", "music-production", "bundle"]
 affiliate: https://www.modernproducers.com/products/easter-bundle-2026
-heroImage: /images/modern-producers-modern-producers-easter-sale-96-off-on-the-.webp
-aiImage: true
+heroImage: "/images/modern-producers-modern-producers-easter-sale-96-off-on-the-.jpg"
 discount: "96% OFF"
 draft: false
 score: 3.92

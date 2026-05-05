@@ -6,7 +6,6 @@ tags: ["review", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?search_query=uvi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a"
 heroImage: /images/uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a.webp
 score: 6.58
-aiImage: true
 draft: false
 converted: true
 ---

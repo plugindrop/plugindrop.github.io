@@ -4,7 +4,7 @@ description: "Softube's Chandler Limited Zener-Bender for Console 1 is currently
 pubDate: "2026-05-02T17:43:41Z"
 tags: ["music-production"]
 affiliate: "https://audiodeluxe.com/collections/software/products/softube-chandler-limited-zener-bender-console-1"
-heroImage: "/images/get-55-off-softube-chandler-limited-zener-bender-for-console.webp"
+heroImage: "/images/get-55-off-softube-chandler-limited-zener-bender-for-console.jpg"
 score: 7.34
 dealPrice: "$89"
 discount: "55% OFF"

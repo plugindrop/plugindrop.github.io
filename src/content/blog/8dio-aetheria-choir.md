@@ -1,7 +1,7 @@
 ---
 title: "8Dio Aetheria Choir — 16-Singer Intimate Ensemble for Kontakt"
 description: "8Dio Aetheria: 16-voice intimate choir with 5 velocity legatos, 26 multi-vowels, and 29 staccato articulations. On sale as part of the Pick 3 for $69 deal."
-pubDate: "2026-04-23T00:00:00Z..."
+pubDate: "2026-04-23T00:00:00Z"
 tags: ["vst-plugin", "music-production", "kontakt", "choir"]
 affiliate: "https://www.pluginboutique.com/search?search_query=aetheria&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-aetheria-choir"
 heroImage: "/images/8dio-aetheria-choir.jpg"
