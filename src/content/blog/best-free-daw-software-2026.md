@@ -6,7 +6,7 @@ tags: ["free", "daw", "software", "music-production", "roundup"]
 affiliate: "https://www.pluginboutique.com/categories/3-Studio-Tools?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-daw-software-2026"
 dealPrice: "FREE"
 draft: false
-heroImage: "/images/best-free-daw-software-2026.webp"
+heroImage: "/images/best-free-daw-software-2026.jpg"
 score: 1.47
 ---
 

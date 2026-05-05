@@ -6,7 +6,7 @@ tags: ["guide", "vst", "free", "instruments", "synth"]
 affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins"
 dealPrice: "FREE"
 draft: false
-heroImage: "/images/best-free-synth-plugins.webp"
+heroImage: "/images/best-free-synth-plugins.jpg"
 evergreen: true
 score: 8.00
 xText: "14 free synth VST plugins in 2026 — Vital, Surge XT, OB-Xd, Dexed, and more. All tested in real sessions."
