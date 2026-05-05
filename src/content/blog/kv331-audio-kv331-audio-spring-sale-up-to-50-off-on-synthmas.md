@@ -17,6 +17,9 @@ draft: true
 
 ---
 
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/videoseries" title="KV331 Audio — KV331 Audio Spring Sale - up to 50% off on Synthmaster synths and expansions — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ## What Is KV331 Audio Synthmaster?

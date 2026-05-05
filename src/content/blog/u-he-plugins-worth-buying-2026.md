@@ -12,6 +12,9 @@ draft: false
 ---
 **TL;DR:** u-he builds some of the most acoustically faithful virtual instruments on the market, and the lineup justifies the price for producers who are serious about synthesis. Diva is the community's consistent top pick for analog warmth and vintage character; Hive 2 is the smarter buy if CPU efficiency matters more than circuit-level authenticity.
 
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-PO84tYA6mA" title="u-he Plugins: Which Ones Are Worth Buying in 2026? (Diva, Repro, Hive) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ## Quick Picks at a Glance
@@ -40,6 +43,7 @@ This guide is for producers who have already read the headlines and want a direc
 
 ### u-he Diva — The Benchmark for Virtual Analog
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-PO84tYA6mA" title="u-he Diva — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** $179
@@ -60,6 +64,7 @@ u-he's documentation recommends trialing Diva at medium quality settings first t
 
 ### u-he Repro — Sequential Circuit Emulations Done Right
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EulUMJVD-m0" title="u-he Repro — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** Repro-1 $99 / Repro-5 $149
@@ -78,6 +83,7 @@ Repro is not available through third-party storefronts, and no affiliate purchas
 
 ### u-he Hive 2 — The Practical Choice in the u-he Lineup
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/dJtf3JmwnjI" title="u-he Hive 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** $149
@@ -100,6 +106,7 @@ Hive 2 does not attempt circuit-level analog modeling and doesn't claim to. What
 
 ### u-he Zebra2 — The Modular Option for Advanced Sound Design
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lh0gXVuXdQk" title="u-he Zebra2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** $199
@@ -111,6 +118,7 @@ No affiliate purchase link is available for Zebra2. It can be trialed and purcha
 
 ### u-he Diva — When Analog Authenticity Is Non-Negotiable
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LeSAuSUayFE" title="u-he Diva — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** $179
@@ -122,6 +130,7 @@ No affiliate purchase link is available for Zebra2. It can be trialed and purcha
 
 ### u-he Hive 2 — The Efficient Entry Point Into the u-he Ecosystem
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mblpEMddi2E" title="u-he Hive 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** $149
@@ -133,6 +142,7 @@ No affiliate purchase link is available for Zebra2. It can be trialed and purcha
 
 ### u-he Repro — For Sequential-Specific Tones
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/hjcsG9iXx7I" title="u-he Repro — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** $99–$149

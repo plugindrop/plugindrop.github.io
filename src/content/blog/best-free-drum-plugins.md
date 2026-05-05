@@ -17,7 +17,7 @@ score: 1.53
 > **Quick Answer:** The best free drum VST plugins in 2026 are **Steven Slate Drums SSD5.5 FREE** (studio-recorded multi-mic acoustic kits for rock, pop, and session work), **MT Power Drum Kit 2** (high-quality acoustic drums with a built-in MIDI groove library), and **Sitala** (lightweight 16-pad sampler for hip-hop and lo-fi beat-making with drag-and-drop simplicity). All are free to download with no time limits.
 
 ### 1. Steven Slate Drums SSD5.5 FREE
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/xEXgupOqxjE" title="Steven Slate Drums SSD5 FREE — Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/dzctGK4HUjw" title="Steven Slate Drums SSD5 FREE — Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 **Type: Sample-based | Best for: Rock, pop, session-quality acoustic drums**
 
 Industry-standard drum samples recorded at top studios with professional mic placements. The free version includes a core multi-layered kit with bleed-channel mixing. A go-to for producers who need realistic acoustic drums without paying for Superior Drummer or BFD.

@@ -12,6 +12,9 @@ draft: false
 ---
 **TL;DR:** For most producers in 2026, **Decent Sampler is the smarter starting point** — it's completely free, handles a growing catalog of high-quality libraries, and removes every financial barrier to entry. Upgrade to **Kontakt 7** only when you need professional-tier commercial libraries or want to build your own instruments with advanced scripting.
 
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/dif_AFeB9B8" title="Kontakt vs Decent Sampler: Do You Actually Need to Pay for a Sampler? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ## Quick Picks at a Glance
@@ -39,6 +42,7 @@ This guide is for producers who want a definitive answer. It covers both tools h
 
 ### Decent Sampler — Free, lightweight, and more capable than its price suggests
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/UxPRmD_RNCY" title="Decent Sampler — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** David Hilowitz Music
 - **Price:** Free
@@ -57,6 +61,7 @@ For bedroom producers, this is the most frictionless free sampler available in 2
 
 ### Kontakt 7 — The industry standard, once you understand what you're actually buying
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/54GnYnwdW_w" title="Kontakt 7 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
 - **Price:** Free (Player) / $199 (Full)
@@ -121,6 +126,7 @@ For producers who have not yet committed to specific commercial libraries, start
 
 ### Kontakt 7 — Unlocks the full professional ecosystem
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/54GnYnwdW_w" title="Kontakt 7 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
 - **Price:** $199
@@ -130,6 +136,7 @@ For producers who have not yet committed to specific commercial libraries, start
 
 ### Native Instruments Komplete — Best per-plugin value if you want the full NI stack
 
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/y9PU7pLkO7g" title="Native Instruments Komplete — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
 - **Price:** From $199 (varies by tier)

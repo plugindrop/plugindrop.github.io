@@ -14,7 +14,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6DLpfMwqw3E" title="Arturia V Collection 11 Review: 40+ Vintage Synths Worth the Price? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 11 Review: 40+ Vintage Synths Worth the Price? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -245,7 +245,7 @@ The Yamaha DX7's 6-operator FM architecture is notoriously difficult to program 
 
 ### Arturia V Collection 11 — the complete vintage library at one price
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6DLpfMwqw3E" title="Arturia V Collection 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** ~$499 (frequent sales; check Plugin Boutique for current pricing)

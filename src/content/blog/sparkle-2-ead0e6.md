@@ -19,6 +19,9 @@ Good, I have the product details. Writing the article now.
 
 ---
 
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wKBh4vnXbrY" title="SPARKLE 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## What Is SPARKLE 2?
 
