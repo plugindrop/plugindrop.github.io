@@ -1,7 +1,7 @@
 ---
 title: "Best Free VST Plugins in 2026 — 15 Plugins Worth Installing"
 description: "The 15 best free VST plugins in 2026 across synths, effects, mixing, and instruments. All genuinely free — no trials, no hidden costs."
-pubDate: "2026-03-26T14:00:00Z"
+pubDate: "2026-03-26T14:00:00Z..."
 tags: ["free", "roundup", "music-production"]
 affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026"
 dealPrice: "FREE"

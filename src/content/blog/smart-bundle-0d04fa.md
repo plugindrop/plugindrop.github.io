@@ -1,66 +1,67 @@
 ---
-title: "38% Off smart bundle"
-description: "The Smart Bundle on Plugin Boutique is currently 38% off — drop from ~~$438.90~~ to **$273.90** and walk away with 15 plugins for under $280. That breaks..."
-pubDate: "2026-05-05T01:51:29Z"
-tags: ["sale", "effects", "bundle", "music-production"]
+title: "smart bundle: Features, Pricing & Is It Worth It? (2026)"
+description: "smart bundle is available at Plugin Boutique. Check current pricing and reviews on the product page."
+pubDate: '2026-05-01T16:18:23Z'
+tags: ["review", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa"
-heroImage: "/images/smart-bundle-0d04fa.jpg"
+heroImage: /images/smart-bundle-0d04fa.jpg
 score: 10.00
-dealPrice: "$273.9"
-originalPrice: "$438.9"
-discount: "38% OFF"
-xText: "38% off a bundle hits stupid hard when you break down the per-plugin cost. this is rebuild-your-entire-toolkit territory"
 draft: false
+converted: true
 ---
-**TL;DR:** The Smart Bundle on Plugin Boutique is currently 38% off — drop from ~~$438.90~~ to **$273.90** and walk away with 15 plugins for under $280. That breaks down to roughly **$18.26 per plugin**, which is strong value for an effects bundle of this size. [Grab the deal here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa)
+**smart bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa)
+
+---
+
+---
 
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/BwN005pDyFA" title="38% Off smart bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BwN005pDyFA" title="smart bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## What Is the Sonible smart:bundle?
 
-## What Is the Smart Bundle?
-
-The Smart Bundle is an effects plugin collection available through Plugin Boutique, one of the largest plugin marketplaces in the industry. It packages 15 plugins into a single purchase, targeting producers and engineers who want to build out a versatile effects toolkit without buying individual licenses at full price. The bundle sits in the Effects Bundles category, covering a broad range of audio processing tools in one transaction.
+The smart:bundle is a six-plugin collection from Austrian DSP developer **Sonible**, built around a single design principle: content-aware processing. Each plugin analyzes incoming audio and adapts its behavior automatically, reducing the time spent on manual parameter setup. The bundle covers the core mixing and mastering chain — EQ, compression, reverb, gating, limiting, and de-essing — all under Sonible's AI-driven framework.
 
 ---
 
 ## Key Features
 
-- **15 plugins included** — a comprehensive set covering multiple effect types, giving producers a wide toolset from a single purchase
-- **Significant per-unit value** — at the deal price, each plugin averages approximately $18.26, well below typical individual plugin pricing
-- **Plugin Boutique delivery** — licenses and downloads managed through Plugin Boutique's established platform, with your purchase tied to your account
-- **Effects-focused collection** — the bundle targets audio processing workflows, check the product page for the full list of included titles and their categories
-- **Bundled pricing structure** — buying as a bundle eliminates the need to hunt separate sales across multiple vendors
+- **smart:EQ 4** — Intelligent equalizer with profile-based spectral analysis; the fourth generation of Sonible's flagship EQ tool.
+- **smart:comp 3** — Spectro-dynamic compressor with a visual compression matrix for frequency-dependent dynamics control.
+- **smart:reverb 2** — Source-adaptive reverb with inter-plugin communication that responds to audio content rather than fixed settings.
+- **smart:gate** — Content-aware gate using target source detection to cleanly separate signal from unwanted noise.
+- **smart:limit** — Loudness-aware limiter with integrated dynamics analysis and real-time monitoring.
+- **smart:deess** — AI phoneme detection-based de-esser for surgical sibilance control.
+
+All six plugins support VST2, VST3, AU, and AAX formats, and are compatible with Apple Silicon (M1/M2) natively.
+
+---
+
+## What Producers Are Saying
+
+Sonible's smart:EQ has established a consistent presence in mixing discussions on KVR Audio and r/audioengineering, where it's frequently cited as a useful first-pass analytical tool — engineers use it to generate an AI-suggested EQ curve before applying their own judgment. The broader Sonible suite is regularly mentioned alongside iZotope's intelligent processing tools when producers discuss AI-assisted workflows. Community reception centers on the speed advantage for session work rather than as a replacement for manual processing.
 
 ---
 
 ## Who Is It For?
 
-- **Home studio producers** — building a plugin library from scratch benefits most from bundles, since per-unit cost drops significantly compared to individual purchases.
-- **Beat makers and composers** — a varied effects suite supports everything from sound design to mixing without requiring multiple separate purchases.
-- **Intermediate producers leveling up** — if your current effects library feels thin, a 15-plugin bundle adds depth quickly and at a manageable one-time cost.
-- **Budget-conscious engineers** — at $273.90 for 15 tools, this bundle is designed for producers who want more processing options without a large individual spend per plugin.
+- **Home studio producers** — AI parametrization lowers the entry barrier for complex processors like spectro-dynamic compression and adaptive reverb.
+- **Mixing engineers building a core toolkit** — Six processors in one purchase covers EQ, dynamics, spatial, and mastering-stage tools without sourcing them individually.
+- **Multi-genre freelancers** — Content-aware processing adapts to varied source material, making it practical across sessions with different instrumentation.
+- **Podcast and post-production editors** — The smart:gate and smart:deess are directly applicable to spoken-word challenges like background noise and vocal sibilance.
 
 ---
 
-## Pricing & Deal Details
+## Current Pricing
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$438.90~~ | **$273.90** | $165.00 (38%) |
+Six plugins for $249 breaks down to approximately **$41.50 per plugin** — a meaningful per-unit value given that Sonible's tools are full-featured processors, not lite versions. 
 
-**Per-plugin breakdown:** $273.90 ÷ 15 plugins = **~$18.26 each**
+*Price verified at publication. Check the link for current availability.*
 
-For context, individual effects plugins typically retail anywhere from $29 to $149+. A 15-plugin bundle averaging $18 per plugin represents meaningful savings if you'd use even half the included tools regularly.
-
-Plugin Boutique runs promotional pricing periodically, but a 38% discount on a full bundle is worth paying attention to — these bundle windows don't always return at the same depth.
-
-> Verify current pricing on the product page — deals can change without notice.
-
-[Check the current price and full plugin list on Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa)
+[→ Get smart:bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa)
 
 ---
 
@@ -68,41 +69,40 @@ Plugin Boutique runs promotional pricing periodically, but a 38% discount on a f
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Plugin Boutique individual effects | Varies ($29–$149+) | Buy only what you need, no bundle commitment |
-| iZotope Music Production Suite | Check iZotope site | Broader scope including mastering and repair tools |
-| Native Instruments Komplete | Check NI site | Includes instruments alongside effects; larger footprint |
+| iZotope Neutron | Varies | AI mixing assistant focused on track balance and instrument separation; no reverb or de-esser |
+| FabFilter Total Bundle | ~$899 | Broader plugin count, manual-first workflow, considered industry standard across genres |
+| Waves Platinum Bundle | Varies | Higher plugin count; less AI-driven, more traditional processing models |
 
-If your library is already established and you only need one or two specific tools, buying individual plugins on sale may be more efficient. If you're building from scratch or want to fill multiple processing gaps at once, a 15-plugin bundle at this price point covers more ground per dollar.
+If the priority is an AI-assisted starting point across the full chain — especially EQ and dynamics — the smart:bundle is purpose-built for that workflow. For deeper plugin variety or a traditional, parameter-first approach, FabFilter's suite covers more ground at a higher price.
 
 ---
 
 ## FAQ
 
-**Q: How are the plugins delivered?**
-A: Purchases through Plugin Boutique are tied to your account on their platform. Check the product page for specific activation details.
+**Q: Does the smart:bundle require an iLok dongle?**
+A: No. Sonible uses its own license management system; iLok hardware is not required.
 
-**Q: Is iLok required?**
-A: This depends on the individual plugins included in the bundle. Check the official product page for licensing and activation requirements for each title.
+**Q: What formats and sample rates does the bundle support?**
+A: VST2, VST3, AU, and AAX formats are supported, with sample rates from 44.1 kHz up to 192 kHz.
 
-**Q: Can I upgrade individual plugins later?**
-A: Plugin Boutique frequently offers upgrade pricing for existing customers — check your account and the product pages for each included title after purchase.
+**Q: Is the bundle compatible with Apple Silicon Macs?**
+A: Yes, all smart: plugins support Apple Silicon natively.
 
-**Q: What is Plugin Boutique's refund policy?**
-A: Refund and return policies vary by product and developer. Check Plugin Boutique's official terms of service and the product page for specifics before purchasing.
+**Q: Can I upgrade or buy individual plugins from the bundle later?**
+A: Each plugin is available for individual purchase — the bundle is the most cost-effective entry point for the full suite.
 
 ---
 
-## Get the Deal
+## 50 per plugin — 38% below the regular $399.00 price. For producers looking to build out a full content-aware processing chain in one transaction, this is the entry point.
 
-Fifteen plugins for $273.90 — that's $165 off the regular bundle price, or 38% savings locked in right now. At roughly $18 per plugin, this is one of the more straightforward value calculations in a bundle deal.
-
-[Get the Smart Bundle at 38% off on Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa)
-
-## Related Guides
-
-- [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
+[→ Get smart:bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa)
 
 ---
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
+
+## Related Guides
+
+- [Best Plugin Bundle Deals](/posts/best-plugin-bundle-deals/)
+- [Best Mixing Plugins 2026](/posts/best-mixing-plugins-2026/)
+- [Best Creative FX Plugins](/posts/best-creative-fx-plugins/)

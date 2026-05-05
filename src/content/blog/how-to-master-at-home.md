@@ -1,7 +1,7 @@
 ---
 title: "How to Master Music at Home: Step-by-Step with the Best Plugins (2026)"
-description: "Mastering at home in 2026 is fully achievable with the right tools and the right sequencing. FabFilter Pro-Q 4 and Pro-L 2 form the most transparent,..."
-pubDate: "2026-06-27T10:39:54Z"
+description: "Mastering at home in 2026 is fully achievable with the right tools and the right sequencing. FabFilter Pro-Q 4 and Pro-L 2 form the most transparent,"
+pubDate: "2026-06-27T10:39:54Z..."
 tags: ["guide", "vst", "mastering"]
 affiliate: ""
 evergreen: true

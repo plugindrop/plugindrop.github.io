@@ -1,7 +1,7 @@
 ---
 title: "10 Best Free Piano VST Plugins in 2026, Ranked (Grand, Upright, Electric)"
 description: "Details on 10 Best Free Piano VST Plugins in 2026 (Grand, Upright, Electric) — is it worth it?"
-pubDate: "2026-05-23T22:39:54Z"
+pubDate: "2026-05-23T22:39:54Z..."
 tags: ["guide", "vst", "free", "instruments"]
 affiliate: ""
 heroImage: "/images/best-free-piano-vst.png"

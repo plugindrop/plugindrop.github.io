@@ -1,7 +1,7 @@
 ---
 title: "15 Best Free Reverb VST Plugins in 2026 — Tested & Ranked"
 description: "Valhalla Supermassive, Convology XT, OrilRiver — 15 free reverb plugins tested and ranked. Plates, halls, rooms, and experimental tails. All permanently free."
-pubDate: "2026-04-30T18:10:19Z"
+pubDate: "2026-04-30T18:10:19Z..."
 tags: ["guide", "vst", "free", "effects", "reverb"]
 affiliate: ""
 heroImage: "/images/best-free-reverb-vst-plugins.jpg"

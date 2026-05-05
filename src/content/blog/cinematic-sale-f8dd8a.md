@@ -5,7 +5,7 @@ pubDate: '2026-04-30T10:42:33Z'
 tags: ["review", "vst-plugin", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?search_query=cinematic+sale&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinematic-sale-f8dd8a"
 score: 4.30
-draft: false
+draft: true
 converted: true
 ---
 **cinematic sale** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?search_query=cinematic+sale&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinematic-sale-f8dd8a)

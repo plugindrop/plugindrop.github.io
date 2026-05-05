@@ -1,6 +1,6 @@
 ---
 title: "Safari Audio, Soundtoys, and EastWest: 3 Plugins That Bring Fresh Sound to Your Tracks"
-description: "Thomann is spotlighting deals from three plugin developers — Safari Audio, Soundtoys, and EastWest — each bringing something distinct to your sessions...."
+description: "Thomann is spotlighting deals from three plugin developers — Safari Audio, Soundtoys, and EastWest — each bringing something distinct to your sessions..."
 pubDate: "2026-04-22T00:50:15Z"
 tags: ["deals", "audio plugin sale", "cinematic sounds", "creative audio plugins", "daw plugins deals", "eastwest composercloud", "mastering plugins", "mixing plugins", "music production tools", "music-production"]
 affiliate: "https://www.thomann.de/intl/special_downloaddeals.html?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=safari-audio-soundtoys-and-eastwest-3-plugins-that-bring-fre"
@@ -27,27 +27,18 @@ Three very different developers. One common thread: each has built a reputation 
 ## Key Features by Plugin
 
 ### Safari Audio
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/G33j7YwIbyY" title="Safari Audio — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Character processing** — designed to add analog texture and color to digital sources
 - **Workflow-first design** — minimal interface focused on fast, musical results
 - **Targeted processing** — purpose-built tools rather than generalist Swiss Army knives
 - Check the product page for confirmed specs and system requirements
 
 ### Soundtoys
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/sW3vt73eLM8" title="Soundtoys — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Analog modeling** — circuits sourced from vintage hardware references
 - **Creative modulation** — LFOs, rhythmic patterns, and envelope followers built into core effects
 - **Broad format support** — AU, VST, VST3, and AAX across Mac and Windows
 - **EchoBoy & Decapitator** — two of the most widely cited effects in mixing forums, routinely recommended for saturation and delay work
 
 ### EastWest
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/R6Qkvn0-wvM" title="EastWest — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Hollywood-grade sample libraries** — recorded at EastWest Studios with professional session players
 - **PLAY and Opus engine** — proprietary sample player with deep articulation control
 - **Composer Cloud integration** — many titles available via subscription alongside perpetual licenses

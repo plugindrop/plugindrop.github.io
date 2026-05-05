@@ -1,7 +1,7 @@
 ---
 title: "8Dio Requiem Professional — Cathedral-Recorded Choir for Kontakt"
 description: "8Dio Requiem Professional: cathedral-recorded, 15,500+ samples, polyphonic legato, 5 soloists, 1,000+ choral effects. Part of the Pick 3 for $69 deal."
-pubDate: "2026-04-23T00:00:00Z"
+pubDate: "2026-04-23T00:00:00Z..."
 tags: ["vst-plugin", "music-production", "kontakt", "choir"]
 affiliate: "https://www.pluginboutique.com/search?search_query=requiem+professional&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-requiem-professional"
 heroImage: "/images/8dio-requiem-professional.jpg"

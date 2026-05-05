@@ -1,7 +1,7 @@
 ---
 title: "Built a free open-source BLE-MIDI bridge for Windows - Roland, Yamaha, etc"
-description: "Perfect Bluetooth MIDI for Windows is a free, open-source BLE-MIDI bridge that routes Bluetooth MIDI devices into a standard DAW-visible port on Windows —..."
-pubDate: "2026-04-30T14:07:19Z"
+description: "Perfect Bluetooth MIDI for Windows is a free, open-source BLE-MIDI bridge that routes Bluetooth MIDI devices into a standard DAW-visible port on Windows —"
+pubDate: "2026-04-30T14:07:19Z..."
 tags: ["free", "synth", "music-production"]
 affiliate: "https://mayerwin.github.io/Perfect-Bluetooth-MIDI-For-Windows/"
 score: 7.35

@@ -1,7 +1,7 @@
 ---
 title: "10 Best Tape Saturation & Vintage Warmth Plugins in 2026 — Ranked"
 description: "RC-20 Retro Color is the most widely recommended single-plugin solution for tape and vintage character in lo-fi, bedroom pop, and indie production... Updated 2026."
-pubDate: "2026-06-10T22:39:54Z"
+pubDate: "2026-06-10T22:39:54Z..."
 tags: ["guide", "vst", "effects"]
 affiliate: ""
 evergreen: true

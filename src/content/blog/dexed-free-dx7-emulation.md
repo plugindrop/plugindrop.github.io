@@ -1,7 +1,7 @@
 ---
 title: "Dexed — FREE DX7 FM Synth Emulation (Open Source)"
 description: "Dexed is a free, open-source DX7 FM synth emulation. Loads original DX7 SysEx patches, 6 operators, and faithful FM synthesis — all at $0."
-pubDate: "2026-03-24T09:00:00Z"
+pubDate: "2026-03-24T09:00:00Z..."
 tags: ["free", "vst-plugin", "synth", "fm", "music-production"]
 affiliate: "https://asb2m10.github.io/dexed/"
 dealPrice: "FREE"

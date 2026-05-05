@@ -1,7 +1,7 @@
 ---
 title: "TDR Nova — FREE Dynamic EQ (Always Free)"
 description: "TDR Nova is a free dynamic EQ with 4 bands and parallel processing. The paid GE version is $50 — but the free version covers the essentials."
-pubDate: "2026-03-18T11:00:00Z"
+pubDate: "2026-03-18T11:00:00Z..."
 tags: ["free", "vst-plugin", "eq", "music-production"]
 affiliate: "https://www.tokyodawn.net/tdr-nova/"
 dealPrice: "FREE"
@@ -16,6 +16,7 @@ draft: true
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1CHFv4mWQYM" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 ## What Is TDR Nova?
 

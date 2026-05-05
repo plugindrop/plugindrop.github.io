@@ -1,7 +1,7 @@
 ---
 title: "12 Best Free Lo-Fi Sample Packs in 2026, Ranked (Drums, Vinyl Crackle, Chords)"
-description: "For bedroom producers building a lo-fi sample library in 2026, ADSR Sounds' free section is the most concentrated source of quality drums, vinyl crackle,..."
-pubDate: "2026-07-09T10:39:54Z"
+description: "For bedroom producers building a lo-fi sample library in 2026, ADSR Sounds' free section is the most concentrated source of quality drums, vinyl crackle,"
+pubDate: "2026-07-09T10:39:54Z..."
 tags: ["guide", "vst", "free", "samples"]
 affiliate: ""
 evergreen: true

@@ -1,7 +1,7 @@
 ---
 title: "14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analog)"
-description: "Vital is the best free synth VST plugin in 2026 — it delivers professional wavetable synthesis that competes with $200 instruments at zero cost. For FM,..."
-pubDate: "2026-05-06T17:06:41Z"
+description: "Vital is the best free synth VST plugin in 2026 — it delivers professional wavetable synthesis that competes with $200 instruments at zero cost. For FM,"
+pubDate: "2026-05-06T17:06:41Z..."
 tags: ["guide", "vst", "free", "instruments", "synth"]
 affiliate: ""
 evergreen: true
@@ -12,6 +12,7 @@ draft: true
 ---
 
 **TL;DR:** Vital is the best free synth VST plugin in 2026 — it delivers professional wavetable synthesis that competes with $200 instruments at zero cost. For FM, Dexed is the definitive free option. All 14 plugins below are genuinely free, DAW-ready, and worth installing today.
+
 
 ## Quick Picks at a Glance
 
@@ -306,7 +307,7 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 
 ### Phase Plant — Modular-style synthesis with a best-in-class interface
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ySDZJHWyqZA" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** ~$199 (also included in Kilohearts subscription)

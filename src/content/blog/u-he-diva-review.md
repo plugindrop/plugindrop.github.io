@@ -1,8 +1,8 @@
 ---
 heroImage: "/images/free-plugin-review-u-he-zebralette-3-08700c.webp"
 title: "u-he Diva Review 2026: The Analog Synthesizer Emulation That Changed Everything"
-description: "u-he Diva remains the most convincing analog synthesizer emulation in software — its circuit-level oscillator and filter modeling produces warmth, drift,..."
-pubDate: "2026-05-06T02:10:19Z"
+description: "u-he Diva remains the most convincing analog synthesizer emulation in software — its circuit-level oscillator and filter modeling produces warmth, drift,"
+pubDate: "2026-05-06T02:10:19Z..."
 tags: ["guide", "vst", "instruments", "review", "synth"]
 affiliate: ""
 evergreen: true
@@ -126,7 +126,7 @@ Composers working in film and television report that Diva's Divine mode output o
 
 ### Phase Plant — When You Need Modern Modular Alongside Vintage Analog
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ySDZJHWyqZA" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** $99

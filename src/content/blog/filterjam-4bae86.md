@@ -1,7 +1,7 @@
 ---
 title: "Filterjam — Free Filter Plugin by AudioThing"
 description: "Filterjam by AudioThing is now available for FREE on Plugin Boutique — a multi-band resonant filter for VST/AU/AAX."
-pubDate: "2026-04-22T05:48:24Z"
+pubDate: "2026-04-22T05:48:24Z..."
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/19-Filter/3022-Filterjam?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=filterjam-4bae86"
 heroImage: "/images/filterjam-4bae86.jpg"
@@ -18,6 +18,7 @@ draft: false
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/p8H7Yyu8PSM" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 ## What Is Filterjam?
 
