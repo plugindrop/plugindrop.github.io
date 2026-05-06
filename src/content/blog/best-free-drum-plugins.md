@@ -35,36 +35,64 @@ High-quality acoustic drum samples with multiple velocity layers and round-robin
 Lightweight 16-pad drum sampler with per-pad pitch, envelope, and filter controls. Drag-and-drop sample loading with a clean interface. Low CPU, no install complexity — fast to set up for quick beat-making sessions.
 
 ### 4. Hydrogen
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/IE9Dn36eIvQ" title="Using Hydrogen Drum Machine With Virtual Drums (demo)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 **Type: Open-source drum machine | Best for: Pattern-based programming, any genre**
 
 Full-featured open-source drum machine with a step sequencer, multiple kits, and MIDI support. Includes a pattern editor and song editor for full arrangement-level drum programming. Active development community with a growing library of free kit downloads.
 
 ### 5. TX16Wx by CWITEC
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Y0LHT3J-niM" title="TX16Wx - The definitive FREE Software Sampler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 **Type: Software sampler | Best for: Hip-hop, trap, any sample-based workflow**
 
 Full-featured free software sampler that loads any drum sample. Multi-layer mapping, velocity switching, built-in effects per pad, and a clean interface. Works as a universal drum sampler — load your own kits or community packs.
 
 ### 6. BPB Dirty Drums by Instruments for Music
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/kzADUQZlQLM" title="BPB Dirty Filter Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 **Type: Sample-based | Best for: Lo-fi, indie, gritty textures**
 
 A free drum plugin focused on lo-fi and processed drum sounds. Includes analog-style kits with saturation and character built into the samples. Useful for producers who want pre-processed, vintage-sounding drums without stacking effects.
 
 ### 7. Drum Pro by StudioLinked
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/OMEC6WdFm80" title="Drum Pro 32 by studiolinked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 **Type: Sample-based drum machine | Best for: Multi-genre production**
 
 24 onboard kits spanning acoustic, electronic, hip-hop, and Latin styles. Simple pad interface with individual pad tuning and velocity sensitivity. Wide genre coverage makes it useful across different production styles.
 
 ### 8. Drumatic 4 by e-phonic
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Jdw5s_pyIIs" title="Drumatic 2 by e-Phonic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 **Type: Analog-modeled synthesis | Best for: Electronic, techno, experimental**
 
 Six-voice drum synthesizer with analog-modeled oscillators for each component — kick, snare, hihat, clap, and two toms. Fully synthesis-based with no samples: every drum sound is shaped with dedicated pitch, decay, and tone controls. Good for punchy electronic and industrial textures.
 
 ### 9. AVL Drumkits
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/vPYtb2hisJ8" title="Why, Phil? #10 BOOM!! AVL Drumkits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 **Type: Sample-based | Best for: Acoustic drums, open-source workflows**
 
 High-quality acoustic drum samples released under open licensing. Multiple kits available with multi-layer velocity and realistic room sound. Primarily used in Linux Audio environments but available cross-platform through compatible samplers.
 
 ### 10. MiniSpillage by AudioSpillage
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/p2kGO9EtYV4" title="MiniSpillage Drum Machine by AudioSpillage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 **Type: Drum synthesizer | Best for: Mac users, electronic, experimental**
 
 Mac-only drum synth with six synthesis-based drum voices. Each voice uses physical modeling rather than samples — unique textures compared to sample-based alternatives. Free tier covers core synthesis functionality.
