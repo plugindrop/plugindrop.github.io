@@ -19,9 +19,6 @@ Now I have confirmed facts. Writing the article now.
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rpVwmNglFTM" title="CINEDREAM — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 ## What Is CINEDREAM?
 

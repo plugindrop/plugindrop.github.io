@@ -13,7 +13,7 @@ draft: false
 **TL;DR:** Spitfire LABS Choir is the most consistently recommended free choir VST across bedroom producer communities — its professional ensemble recording has no meaningful free rival for raw realism. Pair it with BBC Symphony Orchestra Discover when you need choir inside a full orchestral context. The remaining six picks on this list cover every workflow from SFZ-based templates to synthetic vocal generation, all at zero cost.
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/RNK8LVayPec" title="8 Best Free Choir & Vocal Ensemble VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/8RHiEtt5hYM" title="8 Best Free Choir & Vocal Ensemble VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -45,7 +45,7 @@ This guide is for producers who write film scores, ambient electronic music, pos
 
 ### Spitfire LABS Choir — The Free Benchmark That Paid Libraries Are Measured Against
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/RNK8LVayPec" title="Spitfire LABS Choir — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/8RHiEtt5hYM" title="Spitfire LABS Choir — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** Free

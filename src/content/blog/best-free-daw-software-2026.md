@@ -27,7 +27,7 @@ When you are ready to expand with professional plugins, [Plugin Boutique](https:
 ### 1. GarageBand — Best free DAW overall (Mac / iOS)
 
 <div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/BXbMPBcXMV8" title="GarageBand Full Tutorial 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/rWEB6Z3k6Ts" title="GarageBand Full Tutorial 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
 - **Platform:** macOS, iOS
@@ -45,6 +45,10 @@ There are no track limits, no time limits, and no watermarked exports. The only 
 
 ### 2. Cakewalk by BandLab — Best free DAW for Windows
 
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/8PVxIqeDZ7U" title="How To Use Cakewalk by Bandlab - Tutorial For Beginners (FREE DAW)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 - **Platform:** Windows only
 - **Price:** Free (BandLab account required)
 - **Best for:** Recording bands, full production, Windows producers who need a professional-grade tool
@@ -61,7 +65,7 @@ BandLab has continued maintaining it with updates, and the plugin compatibility 
 ### 3. LMMS — Best free DAW for beat-making and electronic music
 
 <div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/TrMTlpeSw8M" title="LMMS Complete Beginner Tutorial 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/RxufVnnHG60" title="LMMS Complete Beginner Tutorial 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
 - **Platform:** Windows, macOS, Linux
@@ -97,6 +101,10 @@ The free tier requires compiling from source, which is straightforward on Linux 
 
 ### 5. Waveform Free (Tracktion) — Best free DAW for a modern workflow
 
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/fGToHMsnlQM" title="Tracktion Waveform Free Tutorial - How to Start Making Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 - **Platform:** Windows, macOS, Linux
 - **Price:** Free
 - **Best for:** Producers who want a modern, uncluttered interface on any platform
@@ -111,6 +119,10 @@ Newer paid versions of Waveform add more features, but Waveform Free is not a st
 ---
 
 ### 6. REAPER — The most powerful "free" DAW (with an honor system)
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/_shjd4GBILo" title="Reaper  - Tutorial for Beginners in 13 MINUTES!  [ COMPLETE ]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
 
 - **Platform:** Windows, macOS, Linux
 - **Price:** Free indefinite trial; license costs $60 for personal/small commercial use
@@ -127,6 +139,10 @@ The feature set is extraordinary: unlimited tracks, real-time pitch and time man
 
 ### 7. Audacity — Best free tool for audio editing and simple recording
 
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/C_mHOHv28Ic" title="Audacity - Tutorial for Beginners in 9 MINUTES !  [ FULL GUIDE 2025 ]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 - **Platform:** Windows, macOS, Linux
 - **Price:** Free (open source)
 - **Best for:** Podcast editing, audio cleanup, simple multi-track recording, vocal recording on a budget
@@ -142,6 +158,10 @@ For podcasters, voice-over artists, and anyone who needs to record, edit, and ex
 
 ### 8. SoundBridge — Best free DAW with a modern UI
 
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Ku-y_9496PI" title="SoundBridge DAW Tutorial For Beginners (FREE DAW)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 - **Platform:** Windows, macOS
 - **Price:** Free
 - **Best for:** Producers who want a clean, modern interface without the complexity of older free DAWs
@@ -156,6 +176,10 @@ The trade-off is a smaller community and fewer third-party tutorials. For produc
 ---
 
 ### 9. BandLab — Best browser-based DAW for collaboration
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/NmUaIoydldg" title="How To Use BandLab Studio | Navigate Our Free DAW With This Detailed BandLab Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
 
 - **Platform:** Browser (Chrome/Edge), iOS, Android
 - **Price:** Free
