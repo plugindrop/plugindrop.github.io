@@ -16,12 +16,20 @@ score: 5.5
 **TL;DR:** Dexibell's T2L piano plugins are currently **65% off**, bringing each title down from its regular price to a fraction of the cost. If you've had your eye on these hybrid sampling-plus-modeling instruments, this is one of the steepest discounts Dexibell has offered. [Grab the deal here before it expires.](https://digitalstore.dexibell.com/en-gb/product/T2L-Electric-Piano)
 
 ## What Is Dexibell T2L?
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/u4Cgkcd2rSI" title="DEXIBELL T2L Piano - Stunning Sounds, Tiny Footprint! 🎹" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 Dexibell is an Italian company known primarily for high-end digital pianos and stage keyboards. Their **T2L (True to Life)** technology is the same engine that powers their flagship hardware — a hybrid approach that blends 24-bit / 48 kHz sampling with real-time physical modeling. Rather than relying solely on recorded samples, the engine dynamically reconstructs micro-components like hammer noise, key release artifacts, sympathetic resonance, and cabinet resonance based on your actual playing input.
 
 They offer two plugin titles under this technology: the **T2L Piano** (acoustic pianos) and the **T2L Electric Piano** (electric pianos, clavs, and more). Both are available as VST2, VST3, AAX, CLAP, and Audio Units on macOS and Windows, with additional LV2 support on Linux.
 
 ## Key Features
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 - **Hybrid sampling + modeling engine** — T2L combines high-resolution samples with real-time physical modeling for dynamic, expressive response that pure sample libraries can't match.
 - **Unlimited polyphony** — No voice stealing, even during heavy sustain-pedal passages or complex chord work.
@@ -42,6 +50,10 @@ Dexibell's T2L plugins occupy a niche space — they're well-regarded among keyb
 - **Linux-based producers** — Native Linux support with LV2 and CLAP is uncommon for piano plugins at this quality tier.
 
 ## Pricing & Deal Details
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/N-pN8Mmo1UM" title="Explaining Claude Code&#39;s Pricing Plan #claudecode #claude #pricing #explained #product" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 | | Regular Price | Deal Price | You Save |
 |---|---|---|---|
@@ -53,6 +65,10 @@ Dexibell doesn't run deep discounts frequently — this brand is more commonly s
 [Check current prices and pick up the deal here.](https://digitalstore.dexibell.com/en-gb/product/T2L-Electric-Piano)
 
 ## Alternatives at a Glance
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/KiqpSKvifxM" title="Kissmetrics Overview - Top Features, Pros &amp; Cons, and Alternatives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 | Name | Typical Price | Key Difference |
 |---|---|---|
@@ -63,6 +79,10 @@ Dexibell doesn't run deep discounts frequently — this brand is more commonly s
 If install size and CPU efficiency are priorities, Pianoteq's pure modeling approach keeps things under 1 GB. If you want sheer breadth of keyboard models in one package, Keyscape covers more ground. Dexibell's T2L sits in between — hybrid modeling with sample-quality tone but more dynamic response than pure sample playback.
 
 ## FAQ
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/1gpwhNSnC1k" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 **Q: What plugin formats does Dexibell T2L support?**
 A: VST2, VST3, AAX, and CLAP on Windows. Audio Units, VST2, VST3, AAX, and CLAP on macOS. VST2, VST3, LV2, and CLAP on Linux.

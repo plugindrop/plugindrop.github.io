@@ -17,6 +17,9 @@ draft: false
 
 ---
 
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BNub0C0JyV0" title="GSamples — Get 70% off GSamples Full Collection for $149.70 (Normally 499) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ## What Is GSamples Full Collection?

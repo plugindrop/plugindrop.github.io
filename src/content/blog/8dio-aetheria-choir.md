@@ -23,6 +23,10 @@ draft: false
 ---
 
 ## Overview
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/g2Wg-djHTKk" title="Lindell 80 Series Channel and Buss Overview | Plugin Alliance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 Aetheria features 8 male and 8 female singers with five true velocity-based legatos and 26 advanced multi-vowel expressions. Its word sequencer makes it practical for composers who need choir texture that tracks melodic movement closely.
 

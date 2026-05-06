@@ -15,7 +15,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/g6mMyjPzeY4" title="Best EQ Plugins 2026: Free & Paid for Every Producer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="Best EQ Plugins 2026: Free & Paid for Every Producer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -46,7 +46,7 @@ This guide covers the **best EQ plugins 2026** across free and paid tiers, for p
 
 ### FabFilter Pro-Q 4 — The benchmark every other EQ is measured against
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/g6mMyjPzeY4" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179

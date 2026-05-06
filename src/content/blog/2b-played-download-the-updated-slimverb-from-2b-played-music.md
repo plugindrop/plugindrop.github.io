@@ -18,12 +18,20 @@ draft: false
 ---
 
 ## What Is SLIMVERB?
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/OuFkouF2jDM" title="Get SlimVerb and 2B Delayed Classic Free – Review and Demo – No Talking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 SLIMVERB is a reverb plugin developed by 2B Played Music, designed to deliver high-quality spatial effects for music producers and sound designers. The plugin has recently received an update, making this free offer an excellent entry point into the 2B Played ecosystem. 2B Played Music is an independent plugin developer focused on practical, producer-friendly tools.
 
 ---
 
 ## Key Features
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 - **High-Quality Reverb Engine** — Built for professional-grade spatial processing without excessive CPU overhead
 - **Updated Algorithm** — The latest version includes improvements over the original release; check the product page for full changelog details
@@ -43,6 +51,10 @@ SLIMVERB is a reverb plugin developed by 2B Played Music, designed to deliver hi
 ---
 
 ## Pricing & Deal Details
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/N-pN8Mmo1UM" title="Explaining Claude Code&#39;s Pricing Plan #claudecode #claude #pricing #explained #product" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 | Regular Price | Sale Price | With Coupon MAY26 | You Save |
 |---|---|---|---|
@@ -57,6 +69,10 @@ The deal structure here is straightforward: the plugin is already discounted fro
 ---
 
 ## Alternatives at a Glance
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/KiqpSKvifxM" title="Kissmetrics Overview - Top Features, Pros &amp; Cons, and Alternatives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 | Name | Price | Key Difference |
 |---|---|---|
@@ -69,6 +85,10 @@ If you're looking for a specifically large, wash-heavy reverb, Valhalla Supermas
 ---
 
 ## FAQ
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/F6zhZ9y9uFc" title="WPB Advanced FAQ | Probably The Best WordPress FAQ Plugin by WPBean" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 **Q: What is the coupon code for free SLIMVERB?**
 A: Use coupon code **MAY26** at checkout on the 2B Played website to get SLIMVERB for free.

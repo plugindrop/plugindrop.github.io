@@ -12,6 +12,9 @@ draft: false
 ---
 **TL;DR:** "Desert Soul" by Fouzan Beats is available **free for non-profit use** right now — a cinematic Tamil x Arabic trap fusion beat with zero upfront cost. Commercial licensing is available separately; check the product page for terms. Grab it directly at [Fouzan Beats on YouTube](https://www.youtube.com/@Fouzan-Beats-foryou).
 
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/12vrpHnVJ44" title="FREE — Emotional Tamil x Arabic Trap Beat 2026 | &quot;Desert Soul&quot; | Fouzan Beats — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ## What Is "Desert Soul" by Fouzan Beats?

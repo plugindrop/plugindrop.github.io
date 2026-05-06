@@ -25,55 +25,31 @@ score: 2.64
 [Full breakdown here](/posts/valhalla-supermassive-free-reverb-delay/)
 
 ### 2. OrilRiver
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/azfDuU_B3zk" title="Orilriver Review - Free Reverb Plugin   Denis Tanihov" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 **Best for: General-purpose algorithmic reverb**
 
 Full-featured algorithmic reverb with early reflections control, 12 room variations, 3-band EQ on the wet signal, and stereo width adjustment. Handles everything from tight rooms to large halls. One of the most versatile free reverbs available.
 
 ### 3. TAL-Reverb-4
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/L0IAqYNQQC8" title="TAL Bassline 101 Synth Plugin - Tour &amp; Review With Dom Kane" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 **Best for: Vintage plate sound with minimal controls**
 
 Plate reverb with a warm, slightly diffused character. Simple interface — size, pre-delay, low/high cut. Sits well in busy mixes without dominating. Low CPU usage makes it practical on every track.
 
 ### 4. Dragonfly Reverb
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Sf7wJw_zPIc" title="Dragonfly Reverb 3.2.0 (best free reverb update!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 **Best for: Rooms and halls with precise control**
 
 Open-source reverb suite with four variants: Room, Hall, Plate, and Early Reflections. Each one is a separate plugin. The Room and Hall versions offer detailed size, width, and diffusion controls. Cross-platform and regularly updated.
 
 ### 5. CloudSeed
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/AdkFzEj94rE" title="CloudSeed VST Plugin (Alpha version)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 **Best for: Shimmer and granular-style reverb textures**
 
 Algorithmic reverb focused on lush, diffused textures. Modulation, pitch-shifting in the feedback loop, and extensive parameter control create sounds ranging from subtle room ambience to dense, evolving pads. Unique character among free reverbs.
 
 ### 6. Native Instruments RAUM
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/A8Ry94NDve0" title="RAUM Walkthrough | Native Instruments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 **Best for: Creative reverb with freeze and visual feedback**
 
 Three reverb algorithms — Grounded, Airy, and Cosmic. Includes a freeze function for infinite sustain, pre-delay up to 500ms, and a built-in modulation section. Available free as part of Komplete Start. Visual interface shows the reverb character in real time.
 
 ### 7. Soundtoys Little Plate (When Available)
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/pHQ-OY2PfYc" title="Soundtoys Little Plate Review Plugin of the Week #1 (Best New Free Reverb?)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 **Best for: EMT 140 plate reverb, fast workflow**
 
 Three controls — Mix, Decay, Low Cut. EMT 140 plate reverb modeling from Soundtoys. Normally $99, but periodically offered for free during limited-time promotions. Worth watching for.
