@@ -7,6 +7,8 @@ affiliate: "https://www.native-instruments.com/en/specials/komplete/komplete-26/
 score: 8.35
 xText: "komplete 26 just dropped with routing flexibility that sits different. one of those updates where you realize how clunky your current setup actually was. if you've been waiting on a reason to upgrade, here it is."
 draft: false
+heroImage: "/images/news-native-instruments-releases-komplete-26-the-latest-vers_comfyui.png"
+aiImage: true
 ---
 **TL;DR:** Native Instruments has officially launched Komplete 26 — their most comprehensive bundle yet, packing 190+ instruments and effects, 180,000+ sounds, and tools from the NI, iZotope, and Brainworx families. Prices vary by tier, so verify current pricing and available upgrade paths on the [official product page](https://www.native-instruments.com/en/specials/komplete/komplete-26/?utm_source=plugindrop&utm_medium=article&utm_campaign=news-native-instruments-releases-komplete-26-the-latest-vers).
 
