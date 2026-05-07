@@ -8,6 +8,8 @@ score: 8.10
 dealPrice: "FREE"
 xText: "altered state machines released 3 free vcv modules and the fact that nobody's talking about this yet is wild. honestly solid stuff too."
 draft: false
+heroImage: "/images/we-altered-state-machines-released-3-of-our-modules-on-vcv-r_comfyui.png"
+aiImage: true
 ---
 **TL;DR:** Altered State Machines has made three of their VCV Rack modules available at no cost — a straight free grab for modular synthesis enthusiasts. No trial limits, no coupon needed. [→ Watch the announcement and get the modules at Direct](https://youtu.be/xVIjHaD8eAw)
 
