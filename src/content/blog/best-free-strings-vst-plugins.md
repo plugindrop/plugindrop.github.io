@@ -9,7 +9,6 @@ score: 8.00
 xText: "New guide: 8 Best Free Strings & Orchestral VST Plugins in 2026"
 draft: false
 heroImage: "/images/best-free-strings-vst-plugins_collage.jpg"
-aiImage: true
 ---
 **TL;DR:** Spitfire LABS is the most-recommended free strings plugin across producer communities — real BBC-recorded samples, genuinely free, and regularly updated with new instruments. BBC Symphony Orchestra Discover takes it further with a complete orchestral toolkit at zero cost. These two alone cover the vast majority of free strings use cases before you spend anything.
 

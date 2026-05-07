@@ -8,8 +8,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: 10 Best Free Orchestral & Strings VST Plugins in 2026"
 draft: false
-heroImage: "/images/best-free-orchestral-vst-plugins_comfyui.png"
-aiImage: true
+heroImage: "/images/best-free-orchestral-vst-plugins_og.jpg"
 ---
 
 

@@ -8,8 +8,7 @@ score: 9.36
 dealPrice: "FREE"
 xText: "aw noise maker just went free. this glitch synth is literally broken in the most useful way possible. go grab it now"
 draft: false
-heroImage: "/images/giveaway-aw-noise-maker-the-glitched-noise-synth-for-free_comfyui.png"
-aiImage: true
+heroImage: "/images/giveaway-aw-noise-maker-the-glitched-noise-synth-for-free_og.jpg"
 ---
 **TL;DR:** Audiowanderer is giving away AW Noise Maker — a glitched noise synthesizer — completely free. Winner announced **May 4th**, so the window closes tomorrow. [Enter the giveaway here.](https://www.instagram.com/reel/DXwN0Z9I%5C_-e/)
 

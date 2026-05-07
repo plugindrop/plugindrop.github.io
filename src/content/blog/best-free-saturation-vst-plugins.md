@@ -4,8 +4,7 @@ description: "Klanghelm SDRR is the most versatile free saturator in 2026 — fo
 pubDate: "2026-07-01T22:39:54Z"
 tags: ["guide", "vst", "free", "effects"]
 affiliate: ""
-heroImage: "/images/best-free-saturation-vst-plugins_comfyui.png"
-aiImage: true
+heroImage: "/images/best-free-saturation-vst-plugins_og.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: 10 Best Free Saturation & Distortion VST Plugins in 2026"
