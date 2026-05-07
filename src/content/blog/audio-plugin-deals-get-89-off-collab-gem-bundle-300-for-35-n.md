@@ -11,7 +11,7 @@ originalPrice: "$300"
 discount: "89% OFF"
 saleExpiry: "2026-05-06"
 xText: "$35 for $300 of plugins. 89% off the Collab Gem Bundle. per-unit cost basically doesn't exist at that price"
-draft: false
+draft: true
 ---
 **TL;DR:** The Collab Gem Bundle 300 is currently on sale for $35 — down from ~~$300~~ — representing an 89% discount and $265 in savings. That's a significant price point for a multi-plugin collection. [→ Get Collab Gem Bundle 300 at Audio Plugin Deals](https://audioplugin.deals/product/collab-gem-bundle-300/ref/21/)
 

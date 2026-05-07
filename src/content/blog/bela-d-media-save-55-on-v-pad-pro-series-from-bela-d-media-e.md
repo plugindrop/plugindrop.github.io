@@ -8,7 +8,7 @@ score: 5.47
 discount: "55% OFF"
 saleExpiry: "2026-05-06"
 xText: "55% off v pad pro — grab it if you've been sleeping on quality pads. deals like this don't last long."
-draft: false
+draft: true
 heroImage: "/images/bela-d-media-save-55-on-v-pad-pro-series-from-bela-d-media-e_comfyui.png"
 aiImage: true
 ---

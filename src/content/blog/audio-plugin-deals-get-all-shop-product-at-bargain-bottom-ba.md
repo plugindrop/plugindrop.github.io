@@ -10,7 +10,7 @@ dealPrice: "$60"
 discount: "10% OFF"
 saleExpiry: "2026-05-07"
 xText: "every plugin in the shop already sits at floor price. CINCO10 stacks another 10% on top. this is the kind of stacked deal you rarely see."
-draft: false
+draft: true
 ---
 **TL;DR:** Audio Plugin Deals is running a Cinco de Mayo storewide sale — every product in the shop is available at its bargain base price, plus an extra 10% off when you apply code **CINCO10** at checkout. A featured item is priced at $60 after the deal applies. Browse the full catalog and grab your discount at [audioplugin.deals](https://audioplugin.deals/ref/21/).
 

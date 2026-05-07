@@ -10,7 +10,7 @@ dealPrice: "$149"
 discount: "20% OFF"
 saleExpiry: "2026-05-06"
 xText: "orchestral library that costs nothing but sounds expensive. lyra's in sine player now. go get it"
-draft: false
+draft: true
 ---
 **TL;DR:** Orchestral Tools has launched Lyra, a dedicated pluck string instruments library for the free Sine Player, at an introductory price of $149 — 20% off its standard price for the launch window. [→ Get Lyra at Orchestral Tools Direct](https://www.orchestraltools.com/lyra)
 
