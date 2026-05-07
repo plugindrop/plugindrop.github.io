@@ -11,6 +11,8 @@ discount: "51% OFF"
 saleExpiry: "2026-05-15"
 xText: "33% intro pricing on a new string library for soundbox. bunker samples basically never goes this aggressive on launch. if you've wanted orchestral strings that actually sit right in a mix, now's your moment."
 draft: false
+heroImage: "/images/bunker-samples-bunker-samples-release-viola-moto-for-soundbo_comfyui.png"
+aiImage: true
 ---
 **TL;DR:** Bunker Samples has launched Viola-Moto — a dedicated viola instrument for Soundbox — at an intro price of **$19** (~~$39~~), saving you $20 during the introductory window. This kind of pricing doesn't last, so [check it out at bunkersamples.com](https://bunkersamples.com/viola-moto/) now.
 
