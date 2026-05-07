@@ -9,8 +9,7 @@ discount: "30% OFF"
 saleExpiry: "2026-07-02"
 xText: "stop bouncing stems out. lalal's vst splits vocals live in your daw. 30% off which is the lowest i've seen it."
 draft: false
-heroImage: "/images/lalal-ai-get-30-off-lalal-ai-pro-subscription-incl-vst-plugi_comfyui.png"
-aiImage: true
+heroImage: "/images/lalal-ai-get-30-off-lalal-ai-pro-subscription-incl-vst-plugi_og.jpg"
 ---
 **TL;DR:** LALAL.AI's Pro subscription — including VST plugin access — is currently 30% off with code **AUDIOPLUGINGUY** at checkout. The discount applies directly on the LALAL.AI pricing page with no third-party store needed. [→ Get LALAL.AI at Direct](https://www.lalal.ai/pricing/)
 

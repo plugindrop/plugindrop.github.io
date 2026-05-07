@@ -7,8 +7,7 @@ affiliate: "https://www.pluginboutique.com/search?search_query=izotope+rx.html&a
 score: 5.50
 xText: "rx 12 landed. this tool fixes what shouldn't be fixable – your recording's a disaster, rx makes it usable. dialogue cleaning, noise removal, spectral editing. iZotope keeps the magic sharp."
 draft: false
-heroImage: "/images/news-izotope-releases-rx-12-audio-editing-and-restoration-su_comfyui.png"
-aiImage: true
+heroImage: "/images/news-izotope-releases-rx-12-audio-editing-and-restoration-su_og.jpg"
 ---
 **TL;DR:** iZotope has released RX 12, the latest update to its flagship audio repair and restoration platform. The new version adds machine learning-powered tools and expanded source separation across its module ecosystem. [→ Get iZotope RX 12 at Plugin Boutique](https://www.pluginboutique.com/search?search_query=izotope+rx.html&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-izotope-releases-rx-12-audio-editing-and-restoration-su)
 
