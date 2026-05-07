@@ -9,6 +9,8 @@ discount: "55% OFF"
 saleExpiry: "2026-05-06"
 xText: "55% off v pad pro — grab it if you've been sleeping on quality pads. deals like this don't last long."
 draft: false
+heroImage: "/images/bela-d-media-save-55-on-v-pad-pro-series-from-bela-d-media-e_comfyui.png"
+aiImage: true
 ---
 **TL;DR:** Bela D Media is offering 55% off the V Pad Pro Series — but the window is tight. The deal expires **May 6th**, which means you have roughly 48 hours to act. Prices aren't listed here (they shift fast), so [verify the current deal price on the product page](https://beladmedia.com/vpadpro-sale/) before it closes.
 

@@ -1,57 +1,69 @@
 ---
-title: "SplitEQ: Features, Pricing & Is It Worth It? (2026)"
-description: "SplitEQ is a parametric equalizer from Eventide — the hardware company behind decades of studio-grade effects units. Check current pricing at Plugin Boutique."
-pubDate: '2026-05-01T07:23:43Z'
-tags: ["review", "vst-plugin", "effects", "music-production"]
+title: "47% Off SplitEQ"
+description: "Eventide SplitEQ is down 47% at Plugin Boutique — ~~$163.90~~ **$86.90**, saving you $77 on one of the most distinctive EQ concepts on the market. If..."
+pubDate: "2026-05-07T05:05:38Z"
+tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804"
-heroImage: /images/spliteq-a33804.jpg
-score: 9.90
+heroImage: "/images/spliteq-a33804.jpg"
+score: 7.38
+dealPrice: "$86.9"
+originalPrice: "$163.9"
+discount: "47% OFF"
+xText: "47% off right now. split-band eqing is one of those things that sounds boring until you use it and realize how much time it saves"
 draft: false
-converted: true
 ---
-**SplitEQ** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804)
+**TL;DR:** Eventide SplitEQ is down 47% at Plugin Boutique — ~~$163.90~~ **$86.90**, saving you $77 on one of the most distinctive EQ concepts on the market. If you've been watching this one, now is a solid time to pull the trigger. [Grab it here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804)
 
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yGnUMwxNitk" title="SplitEQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yGnUMwxNitk" title="47% Off SplitEQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 ## What Is SplitEQ?
 
-SplitEQ is a parametric equalizer from Eventide — the hardware company behind decades of studio-grade effects units. Its defining feature is a transient/tonal split: before any EQ is applied, the plugin separates the audio signal into its transient components (attacks, transients) and its tonal components (sustained pitches, resonances). You then EQ each layer independently. This solves a real mixing problem: adding presence to a snare attack without thickening its sustain, or removing a muddy resonance from a vocal without dulling its consonants.
+SplitEQ is an equalizer plugin developed by Eventide — the hardware legend behind iconic studio gear. What sets it apart from conventional EQs is its core approach: rather than treating audio as a single signal, SplitEQ separates the **transient** and **tonal** components before applying EQ to each independently. This lets producers shape, for example, the attack of a snare without touching its body — or pull mud from a guitar's sustain without affecting its pick attack. It also includes mid-side processing for stereo shaping.
 
 ---
 
 ## Key Features
 
-- **Transient/Tonal Split Processing** — the core architecture; audio is divided into attack and sustain layers before any band touches the signal.
-- **8-Band Parametric EQ** — each band can be applied to the transient layer, the tonal layer, or both simultaneously.
-- **Mid/Side Mode** — operate in stereo or M/S, giving separate control over the center image and the stereo field.
-- **Multiple Filter Shapes** — bell, shelf, high-pass, low-pass, and standard parametric types are available across all bands.
-- **Real-Time Spectrum Analyzer** — visual frequency display for identifying problem areas before applying corrections.
-- **Perpetual License** — a one-time purchase through Eventide's own account-based activation system.
+- **Transient/Tonal Split Engine** — The defining feature: process the attack and sustain components of a sound with separate EQ bands simultaneously.
+- **8 Fully Parametric Bands** — Standard band count with a range of filter shapes including bell, shelf, and cut options.
+- **Mid-Side Processing** — Apply different EQ curves to the center and sides of a stereo signal for precise spatial control.
+- **Parallel Processing Architecture** — The transient and tonal paths run in parallel, meaning adjustments to one don't bleed into the other.
+- **Real-Time Spectrum Analyzer** — Visual feedback for both transient and tonal content separately, helping guide EQ decisions.
+- **Zero Latency Mode** — Suitable for tracking and monitoring use cases, not just mixing.
 
 ---
 
 ## What Producers Are Saying
 
-SplitEQ drew sustained discussion on KVR Audio and Gearspace after launch, largely centered on its split processing concept rather than its EQ curve behavior. The consistent pattern in those conversations: producers find it most useful on sources where standard EQ forces a tradeoff — drums (where attack and sustain often need conflicting treatment), acoustic guitars, and complex mix bus situations come up repeatedly. It's generally treated as a specialty tool that complements a conventional EQ rather than replacing one.
+SplitEQ has earned consistent attention in mixing communities since its release. The transient/tonal split concept is frequently cited as genuinely useful rather than a marketing novelty — producers working with drums, guitars, and layered synths commonly highlight it as a way to solve problems that standard dynamic EQs can't address as cleanly. It tends to come up in discussions about "surgical but musical" EQ tools.
 
 ---
 
 ## Who Is It For?
 
-- **Mix engineers working with percussive sources** — drums, percussion, and plucked instruments are where the transient/tonal separation delivers the clearest results.
-- **Producers mixing dense arrangements** — when elements share frequency space, independent transient EQ allows surgical adjustments without affecting sustain characteristics.
-- **Mastering engineers** — M/S mode combined with split processing enables precise stereo-field corrections at the final stage.
-- **Sound designers** — EQing transients independently from tonal content opens up creative reshaping of samples and synthesis patches.
+- **Mix Engineers** — SplitEQ's transient/tonal split is purpose-built for solving complex frequency problems that conventional EQs require multiple plugins to address.
+- **Drum and Percussion Producers** — The ability to EQ attack and sustain separately makes it especially effective on drums, where transient shaping and tonal cleanup are often competing goals.
+- **Electronic Music Producers** — Mid-side EQ combined with transient splitting offers granular control over synthesized sounds and layered elements.
+- **Composers and Sound Designers** — Useful for shaping recorded instruments and sound sources where tonal content needs adjustment without disturbing the natural attack.
 
 ---
 
-Eventide titles don't rotate through Plugin Boutique sales on a monthly basis the way some larger plugin vendors do.  At $79, it lands below many conventional high-end EQ options with narrower feature sets.
+## Pricing & Deal Details
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804)
+| Regular Price | Deal Price | You Save |
+|---|---|---|
+| ~~$163.90~~ | **$86.90** | ~$77 (47%) |
+
+Eventide doesn't run deep discounts constantly — this 47% off window is worth noting if SplitEQ has been on your radar. Deals at this depth are less common for Eventide titles compared to some other developers who run frequent sales cycles.
+
+Note: Verify current pricing on the product page — deals can change.
+
+[Get SplitEQ at 47% off on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804)
 
 ---
 
@@ -59,35 +71,40 @@ Eventide titles don't rotate through Plugin Boutique sales on a monthly basis th
 
 | Name | Price | Key Difference |
 |---|---|---|
-| FabFilter Pro-Q 3 | ~$179 | Industry-standard parametric EQ; no transient/tonal split |
-| TDR Nova | Free | Dynamic EQ with no split processing; conventional parametric only |
-| Kirchhoff EQ | ~$99 | Extensive filter library; standard EQ architecture |
+| FabFilter Pro-Q 3 | ~$179 | Industry-standard dynamic EQ; no transient/tonal split |
+| iZotope Neutron (EQ Module) | Part of suite | AI-assisted EQ; requires Neutron subscription/bundle |
+| TDR Nova | Free | Dynamic EQ with no transient splitting; free entry point |
 
-If you need a reliable everyday EQ with broad feature coverage, Pro-Q 3 remains the benchmark at a higher price. SplitEQ addresses a more specific problem — sources where standard EQ creates tradeoffs between attack and sustain. For that use case, the split architecture is the differentiator here.
+If budget is the top priority and you just need a capable dynamic EQ, TDR Nova covers the basics at no cost. If you want the transient/tonal split workflow specifically — which is SplitEQ's unique case — neither alternative replicates it directly.
 
 ---
 
 ## FAQ
 
 **Q: Does SplitEQ require an iLok dongle?**
-A: No. SplitEQ uses Eventide's own account-based licensing and does not require iLok hardware.
+A: Check the official product page for current activation requirements, as these can change between versions.
 
-**Q: What plugin formats does SplitEQ support?**
-A: SplitEQ is available in VST, VST3, AU, and AAX formats, covering major DAWs on both Mac and Windows.
+**Q: What formats does SplitEQ support?**
+A: SplitEQ is available in VST, VST3, AU, and AAX formats. Verify current system requirements on the product page.
 
-**Q: What are the system requirements?**
-A: Check the official Eventide site for current OS and DAW compatibility details.
+**Q: Is this a perpetual license or a subscription?**
+A: Plugin Boutique sells it as a perpetual license — you buy once and own it. Confirm on the product page if this has changed.
+
+**Q: Can SplitEQ be used on vocals?**
+A: The transient/tonal split is applicable to any audio source with distinct attack and sustain characteristics, including vocals. Check the product page for any workflow-specific documentation.
 
 ---
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804)
+## Get the Deal
+
+47% off SplitEQ is one of the deeper discounts on an Eventide plugin in recent memory — $86.90 for a genuinely differentiated EQ concept is hard to argue with. [Grab SplitEQ at Plugin Boutique before the deal expires.](https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804)
+
+## Related Guides
+
+- [Best EQ Plugins 2026](/posts/best-eq-plugins-2026/)
+- [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
+
 
 ---
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
-
-## Related Guides
-
-- [Best Mixing Plugins 2026](/posts/best-mixing-plugins-2026/)
-- [Best Creative FX Plugins](/posts/best-creative-fx-plugins/)
-- [Best Free VST Plugins 2026](/posts/best-free-vst-plugins-2026/)
