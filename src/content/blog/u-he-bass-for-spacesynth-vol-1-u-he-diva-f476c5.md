@@ -1,42 +1,43 @@
 ---
 title: "40% Off U He Bass For Spacesynth Vol 1 U He Diva"
-description: "U-He Bass For Spacesynth Vol 1 is now 40% off at ADSR Sounds — down from ~~$29~~ to just **$17.40**. That's a solid saving on a specialized bass preset..."
-pubDate: "2026-05-05T04:14:08Z"
+description: "U-he Bass For Spacesynth Vol 1 is currently 40% off at ADSR Sounds — down from ~~$29~~ to just $17.40. If you produce spacesynth, italo disco, or retro..."
+pubDate: "2026-05-08T04:00:01Z"
 tags: ["sale", "preset-pack", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/u-he-bass-for-spacesynth-vol-1-u-he-diva/?a_aid=plugindrop&data1=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5"
 heroImage: "/images/u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5.jpg"
-score: 9.00
+score: 9.12
 dealPrice: "$17.4"
 originalPrice: "$29"
 discount: "40% OFF"
-xText: "these new diva spacesynth bass patches sit in a mix different. 40% off. honestly might be the best patch collection for this synth."
+xText: "new diva spacesynth bass pack just dropped at 40% off. analog modeling this good doesn't typically discount on release. if you've been curious about ambient textures this hits different"
 draft: false
 ---
-**TL;DR:** U-He Bass For Spacesynth Vol 1 is now 40% off at ADSR Sounds — down from ~~$29~~ to just **$17.40**. That's a solid saving on a specialized bass preset library built specifically for U-He Diva. [Grab it here while the deal is live.](https://www.adsrsounds.com/product/presets/u-he-bass-for-spacesynth-vol-1-u-he-diva/?a_aid=plugindrop&data1=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5)
+**TL;DR:** U-he Bass For Spacesynth Vol 1 is currently 40% off at ADSR Sounds — down from ~~$29~~ to just $17.40. If you produce spacesynth, italo disco, or retro sci-fi electronic music with U-he Diva, this is a focused bass preset library worth picking up at this price. [Grab the deal on ADSR Sounds.](https://www.adsrsounds.com/product/presets/u-he-bass-for-spacesynth-vol-1-u-he-diva/?a_aid=plugindrop&data1=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5)
 
 ---
 
-## What Is U-He Bass For Spacesynth Vol 1?
+## What Is U-he Bass For Spacesynth Vol 1?
 
-U-He Bass For Spacesynth Vol 1 is a dedicated preset pack for U-He's Diva synthesizer, designed around the spacesynth genre. Spacesynth sits at the intersection of Eurodisco, cosmic electronic music, and retrofuturistic sound design — think deep, pulsing bass lines with atmospheric texture. The pack targets producers who want genre-authentic bass tones without building patches from scratch inside Diva's complex engine.
+Bass For Spacesynth Vol 1 is a preset library designed specifically for U-he Diva, one of the most respected virtual analog synthesizers in production today. The pack targets the spacesynth genre — a niche but dedicated corner of electronic music rooted in 80s space-themed synth pop and italo disco. Rather than casting a wide net across sound categories, this library zeroes in on bass tones: the deep, pulsing, and often heavily filtered low-end textures that define the spacesynth aesthetic. Diva is required to use the presets; they are not standalone instruments.
 
 ---
 
 ## Key Features
 
-- **Spacesynth-Specific Bass Sounds:** Presets are tailored to the genre's signature cosmic and atmospheric bass character, not generic utility tones.
-- **Built for U-He Diva:** Fully optimized for Diva's circuit-modeled oscillators and filter models — no cross-compatibility workarounds needed.
-- **Ready-to-Use Patches:** Designed as production-ready starting points, usable directly in a mix or as a foundation for further sound design.
-- **Genre-Focused Curation:** The "Vol 1" naming suggests a deliberate thematic focus, with sounds selected for stylistic cohesion rather than breadth.
+- **Purpose-built for spacesynth bass** — presets are tailored to the analog-flavored, vintage sci-fi aesthetic of the genre rather than general-purpose bass design
+- **Built for U-he Diva** — takes full advantage of Diva's hardware-accurate circuit modeling for authentic analog warmth and character
+- **Genre-specific tonal range** — covers the driving bass lines, synth subs, and punchy retro textures central to spacesynth and italo disco production
+- **Instant workflow integration** — presets load directly into Diva with no additional software or format conversion required
+- **Focused volume** — a specialized collection rather than a bloated all-in-one pack; check the product page for the exact preset count
 
 ---
 
 ## Who Is It For?
 
-- **Spacesynth and Eurodisco producers:** Designed specifically for this genre, making it a direct fit for producers working in or inspired by the cosmic electronic tradition.
-- **U-He Diva owners looking to expand their library:** If Diva is already in your DAW, this pack slots in without requiring any additional software investment.
-- **Retrofuturistic and synthwave composers:** The atmospheric, deep-space bass character aligns well with adjacent genres like synthwave and dark elektro.
-- **Sound designers who want a genre reference point:** Useful as a benchmark for understanding how spacesynth bass tones are constructed within Diva's architecture.
+- **Spacesynth and italo disco producers** — the library is built around this specific genre's bass vocabulary, making it a direct fit rather than an approximation
+- **U-he Diva owners looking to expand** — producers who already own Diva and want ready-to-use bass patches without building from scratch
+- **Retro/synthwave beatmakers** — the vintage analog character of these presets also translates well into adjacent genres like synthwave and cosmic disco
+- **Sound designers studying genre conventions** — the presets can serve as a reference point for understanding how spacesynth bass tones are constructed in Diva
 
 ---
 
@@ -44,13 +45,11 @@ U-He Bass For Spacesynth Vol 1 is a dedicated preset pack for U-He's Diva synthe
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
-| ~~$29~~ | **$17.40** | $11.60 (40%) |
+| ~~$29~~ | **$17.40** | $11.60 (40% off) |
 
-A 40% discount is a meaningful cut for a focused preset pack. U-He preset libraries at this price tier don't always see heavy discounting, so this is worth noting if spacesynth is on your radar. Deals on ADSR Sounds can be time-limited, so it's worth acting if this fits your workflow.
+40% is a meaningful discount for a genre-specific preset pack. ADSR Sounds does run periodic sales, but specialized packs like this don't always get standalone discounts — when they do, it's worth acting. Verify current pricing on the product page — deals can change.
 
-Note: Verify current pricing on the product page — deals can change.
-
-[Get U-He Bass For Spacesynth Vol 1 at $17.40 →](https://www.adsrsounds.com/product/presets/u-he-bass-for-spacesynth-vol-1-u-he-diva/?a_aid=plugindrop&data1=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5)
+[Get Bass For Spacesynth Vol 1 at $17.40 on ADSR Sounds.](https://www.adsrsounds.com/product/presets/u-he-bass-for-spacesynth-vol-1-u-he-diva/?a_aid=plugindrop&data1=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5)
 
 ---
 
@@ -58,35 +57,35 @@ Note: Verify current pricing on the product page — deals can change.
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Other Diva preset packs (various artists) | Varies | Broader genre coverage, less spacesynth-specific |
-| Spacesynth packs for other synths (e.g. Serum, Massive) | Varies | Different synthesis engine — not Diva's circuit-modeled character |
-| General bass preset libraries for Diva | Varies | More genre-agnostic; wider range but less atmospheric focus |
+| Other U-he Diva preset packs (ADSR) | Varies | Broader genre coverage — synth leads, pads, arps, not bass-focused |
+| Syntronik 2 CS (IK Multimedia) | Free tier available | Standalone instrument with built-in spacesynth-style sounds, no Diva required |
+| Analog Lab V (Arturia) | Subscription or one-time | Massive multi-synth preset browser with vintage bass options across many instruments |
 
-If you want genre-authentic spacesynth bass and already own Diva, this pack is purpose-built for that use case. If you need a broader bass library across multiple genres, a more general Diva preset collection may cover more ground.
+If you already own Diva and want a tight, genre-authentic bass toolkit, this pack is the most direct path. If you don't own Diva or want something host-agnostic, Syntronik 2 CS offers a no-cost entry point for similar territory.
 
 ---
 
 ## FAQ
 
-**Q: Do I need U-He Diva to use this preset pack?**
-A: Yes. This is a native preset pack for U-He Diva — you must own Diva to load and use these patches.
+**Q: Do I need U-he Diva to use these presets?**
+A: Yes. These are Diva-native presets and require a licensed copy of U-he Diva to load and play.
 
-**Q: Is this a download or a physical product?**
-A: Preset packs sold through ADSR Sounds are digital downloads. Check the product page for exact delivery details.
+**Q: Is this a sample pack or a synth preset pack?**
+A: It is a synth preset pack — these are patch files for Diva, not audio samples or loops.
 
-**Q: Does it require any additional plugins or samples?**
-A: Based on the product description, these are Diva presets — no additional samples or plugins should be required beyond the synth itself. Verify on the product page if you have specific setup questions.
+**Q: What genres work best with these presets beyond spacesynth?**
+A: Based on the genre focus, these bass tones are well-suited to italo disco, synthwave, cosmic disco, and retro electronic music broadly. Check the product page for audio demos to confirm fit for your style.
 
-**Q: What is ADSR Sounds' refund policy?**
-A: Check the official ADSR Sounds site for their current refund and return policy on digital products.
+**Q: Where can I hear demos before buying?**
+A: Audio previews are available on the [ADSR Sounds product page.](https://www.adsrsounds.com/product/presets/u-he-bass-for-spacesynth-vol-1-u-he-diva/?a_aid=plugindrop&data1=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5)
 
 ---
 
 ## Get the Deal
 
-~~$29~~ down to **$17.40** — 40% off a genre-focused bass library for one of the most respected soft synths available. If spacesynth or atmospheric electronic production is part of your workflow, this is the kind of targeted pack that rarely needs a second look.
+~~$29~~ down to **$17.40** — 40% off a focused bass library built specifically for Diva and the spacesynth sound. Niche packs at this discount don't stick around indefinitely.
 
-[Claim the 40% off deal at ADSR Sounds →](https://www.adsrsounds.com/product/presets/u-he-bass-for-spacesynth-vol-1-u-he-diva/?a_aid=plugindrop&data1=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5)
+[Lock in the price at ADSR Sounds before it expires.](https://www.adsrsounds.com/product/presets/u-he-bass-for-spacesynth-vol-1-u-he-diva/?a_aid=plugindrop&data1=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5)
 
 ## Related Guides
 
