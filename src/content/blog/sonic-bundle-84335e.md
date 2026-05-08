@@ -16,6 +16,10 @@ draft: false
 
 ---
 
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/zO6yG6wWbl4" title="Introducing UVI SonicBundle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## What Is the Sonic Bundle?
 
 The Sonic Bundle is a multi-tool plugin bundle sold through Plugin Boutique, one of the most established plugin marketplaces for music producers. Designed to cover a wide range of production needs in a single purchase, it packages multiple audio instruments and effects under one discounted price. Bundles at this price tier are typically aimed at producers who want to expand their toolkit significantly without buying plugins one by one. Check the product page for the full list of included titles and compatibility details.
