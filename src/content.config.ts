@@ -21,7 +21,6 @@ const blog = defineCollection({
 			saleExpiry: z.string().optional(),
 			xText: z.string().optional(),
 			evergreen: z.boolean().optional(),
-			allTimeLow: z.boolean().optional(),
 		}),
 });
 
