@@ -4,8 +4,7 @@ description: "For producers serious about drum sound in 2026, Loopmasters remain
 pubDate: "2026-05-21T15:53:40Z"
 tags: ["guide", "vst", "samples"]
 affiliate: ""
-heroImage: "/images/best-drum-sample-packs-2026.webp"
-aiImage: true
+heroImage: "/images/best-drum-sample-packs-2026_collage.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: Best Drum Sample Packs 2026: Acoustic, Electronic and Hybrid..."

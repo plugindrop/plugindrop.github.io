@@ -4,8 +4,7 @@ description: "Waves wins on analog emulation, value-per-dollar, and classic hard
 pubDate: "2026-06-01T11:53:40Z"
 tags: ["guide", "vst", "effects", "alternatives"]
 affiliate: ""
-heroImage: "/images/waves-vs-izotope-2026.webp"
-aiImage: true
+heroImage: "/images/waves-vs-izotope-2026_collage.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: Waves vs iZotope: Which Plugin Brand Is Better for Mixing in..."

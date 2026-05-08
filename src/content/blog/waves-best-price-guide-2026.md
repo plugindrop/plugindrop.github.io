@@ -4,8 +4,7 @@ description: "Waves plugins go on sale constantly — buying at full price is al
 pubDate: "2026-05-16T05:53:40Z"
 tags: ["guide", "vst", "mixing"]
 affiliate: ""
-heroImage: "/images/waves-best-price-guide-2026.webp"
-aiImage: true
+heroImage: "/images/waves-best-price-guide-2026_collage.jpg"
 evergreen: true
 score: 8.00
 originalPrice: "$29"

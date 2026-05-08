@@ -4,8 +4,7 @@ description: "Kontakt 7 remains the definitive sampler platform for professional
 pubDate: "2026-05-13T12:53:40Z"
 tags: ["guide", "vst", "instruments", "review"]
 affiliate: ""
-heroImage: "/images/kontakt-7-review.webp"
-aiImage: true
+heroImage: "/images/kontakt-7-review_og.jpg"
 evergreen: true
 score: 8.00
 dealPrice: "$449"

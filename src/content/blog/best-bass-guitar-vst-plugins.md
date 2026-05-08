@@ -4,8 +4,7 @@ description: "For genre-flexible, deeply realistic bass tone, MODO Bass 2's phys
 pubDate: "2026-05-10T19:53:40Z"
 tags: ["guide", "vst", "instruments"]
 affiliate: ""
-heroImage: "/images/best-bass-guitar-vst-plugins.webp"
-aiImage: true
+heroImage: "/images/best-bass-guitar-vst-plugins_collage.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: Best Bass Guitar VST Plugins 2026: Scarbee, MODO Bass and Mo..."

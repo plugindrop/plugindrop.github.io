@@ -4,8 +4,7 @@ description: "For producers hunting the best vocal sample packs in 2026, Loopmas
 pubDate: "2026-05-18T22:53:40Z"
 tags: ["guide", "vst", "samples", "vocals"]
 affiliate: ""
-heroImage: "/images/best-vocal-sample-packs-2026.webp"
-aiImage: true
+heroImage: "/images/best-vocal-sample-packs-2026_collage.jpg"
 evergreen: true
 score: 8.00
 originalPrice: "$14.95"

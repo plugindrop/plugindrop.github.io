@@ -4,8 +4,7 @@ description: "For authentic Rhodes sampling, **Scarbee Mark I** is the benchmark
 pubDate: "2026-05-08T02:53:40Z"
 tags: ["guide", "vst", "instruments"]
 affiliate: ""
-heroImage: "/images/best-electric-piano-vst-2026.webp"
-aiImage: true
+heroImage: "/images/best-electric-piano-vst-2026_collage.jpg"
 evergreen: true
 score: 8.00
 originalPrice: "$149"
