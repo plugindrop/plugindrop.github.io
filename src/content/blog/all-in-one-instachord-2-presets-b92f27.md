@@ -14,12 +14,20 @@ converted: true
 ---
 
 ## What Is All In One InstaChord 2 Presets?
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/34BWo6yOC9I" title="InstaChord 2 - What&#39;s New? (AI Powered Chords, MIDI Drag &amp; Drop &amp; More)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 All In One InstaChord 2 Presets is a preset expansion library built specifically for InstaChord 2, the chord-triggering instrument plugin. The pack delivers a wide catalog of ready-mapped chord voicings, configurations, and progressions designed to slot directly into InstaChord 2's engine. Rather than replacing the workflow of InstaChord 2, it extends it — giving users a broad starting palette across multiple production contexts without manual patch-building.
 
 ---
 
 ## Key Features
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 - **Broad genre coverage** — the "all in one" positioning indicates the library spans multiple production styles rather than targeting a single niche
 - **Instant InstaChord 2 integration** — presets load natively into the plugin, requiring no additional setup or configuration
@@ -45,6 +53,10 @@ All In One InstaChord 2 Presets is a preset expansion library built specifically
 ---
 
 ## Alternatives at a Glance
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/KiqpSKvifxM" title="Kissmetrics Overview - Top Features, Pros &amp; Cons, and Alternatives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 | Name | Price | Key Difference |
 |---|---|---|
@@ -57,6 +69,10 @@ For producers already inside the InstaChord 2 ecosystem, an all-in-one pack cons
 ---
 
 ## FAQ
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/1gpwhNSnC1k" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 **Q: Do I need InstaChord 2 to use this preset pack?**
 A: Yes. This is a preset library built exclusively for InstaChord 2. The base plugin is required to load and use any presets from this pack.
@@ -70,6 +86,10 @@ A: Compatibility depends on InstaChord 2 itself — any DAW that supports InstaC
 ---
 
 ## Where to Buy
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/11iHfsl2QTk" title="POV You Buy Archetype Tim Henson X #polyphia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 At $39.60 against a $99.00 regular price, this 60% discount represents a concrete reduction that existing InstaChord 2 users won't encounter regularly. The $59.40 savings gap is meaningful for a preset library at this scope.
 

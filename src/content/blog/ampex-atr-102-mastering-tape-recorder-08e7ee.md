@@ -18,12 +18,20 @@ converted: true
 </div>
 
 ## What Is the Ampex ATR-102 Mastering Tape Recorder?
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/33atVtJTu3M" title="Master Your Mix with the Ampex ATR-102 Tape Plug-In" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 The Ampex ATR-102 Mastering Tape Recorder is a plugin by Universal Audio that models the legendary Ampex ATR-102 2-track reel-to-reel — a machine that shaped the sound of professional mastering suites for decades. The plugin is designed to recreate the harmonic saturation, natural compression, and tonal character that analog tape imparts at every stage of processing. It operates as a native plugin, meaning no UAD DSP hardware is required to run it.
 
 ---
 
 ## Key Features
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 - **Multiple Tape Speeds:** Switchable between 7.5, 15, and 30 ips — slower speeds produce more low-end warmth and saturation, faster speeds retain more transient detail.
 - **Input Drive Control:** Push the input into the tape for increasing saturation, or keep levels conservative for transparent glue — the drive staging is the core of the effect.
@@ -48,6 +56,10 @@ The ATR-102 has built a steady reputation in mastering and mixing communities ov
 ---
 
 ## Current Pricing
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/WSZeQaUG93A" title="Squarespace Pricing Explained in 50 Secs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 Verify current pricing on the product page, as deals can change without notice.
 
@@ -56,6 +68,10 @@ Verify current pricing on the product page, as deals can change without notice.
 ---
 
 ## Alternatives at a Glance
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/5JeTxvCRFrU" title="SeedProd Coming Soon WordPress Plugin Quick Glance Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 | Name | Price | Key Difference |
 |---|---|---|
@@ -68,6 +84,10 @@ If you want the EMI/British-studio flavor, the J37 covers different sonic ground
 ---
 
 ## FAQ
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/F6zhZ9y9uFc" title="WPB Advanced FAQ | Probably The Best WordPress FAQ Plugin by WPBean" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 **Q: Does the Ampex ATR-102 plugin require iLok hardware?**
 A: Check the official product page for current activation requirements, as copy-protection details can vary by version and licensing updates.

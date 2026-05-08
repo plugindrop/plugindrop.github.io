@@ -13,10 +13,18 @@ score: 1.38
 **TL;DR:** Audio Assault is giving away Amp Locker 98 — a 6-amp-model guitar plugin — completely **free** for 48 hours only. That's ~~$0 reason to hesitate~~ zero dollars. Grab it before the window closes at [Audio Assault](https://audioassault.mx/amplocker98).
 
 ## What Is Amp Locker 98?
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/pl0S0KImsKc" title="This FREE PLUGIN adds 90&#39;s analog Guitar distortion  - Amp Locker 98 By Audio Assault (Sound) Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 Amp Locker 98 is a free guitar amplifier effect plugin from Audio Assault, a developer known for their full Amp Locker suite featuring 90+ amp sims, pedals, and effects. This standalone freebie packs 6 modeled guitar amplifiers into a deliberately retro, late-'90s-era interface. Don't let the nostalgic look fool you — it runs on modern systems and uses current DSP under the hood. It's available in VST3, AU, and AAX formats across Windows, macOS, and Linux.
 
 ## Key Features
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 - **6 Guitar Amp Models** — Covers a range of tones commonly used in both recording and live performance contexts.
 - **Full Tone Stack Controls** — Gain, bass, mid, treble, presence, and master knobs give you hands-on shaping of your sound.
@@ -37,6 +45,10 @@ Audio Assault has a solid reputation in the guitar plugin space, particularly am
 - **Producers Curious About Audio Assault** — A risk-free entry point before committing to their larger Amp Locker suite.
 
 ## Pricing & Deal Details
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/N-pN8Mmo1UM" title="Explaining Claude Code&#39;s Pricing Plan #claudecode #claude #pricing #explained #product" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
@@ -49,6 +61,10 @@ This is a **48-hour freeaway**. Audio Assault occasionally runs time-limited pro
 [**Grab Amp Locker 98 free while it lasts →**](https://audioassault.mx/amplocker98)
 
 ## Alternatives at a Glance
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/5JeTxvCRFrU" title="SeedProd Coming Soon WordPress Plugin Quick Glance Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 | Name | Price | Key Difference |
 |---|---|---|
@@ -59,6 +75,10 @@ This is a **48-hour freeaway**. Audio Assault occasionally runs time-limited pro
 If you want a straightforward multi-amp plugin with zero setup, Amp Locker 98 covers that ground. If you're after community-captured profiles of real-world amps with near-limitless variety, Neural Amp Modeler goes deeper but requires more hands-on configuration.
 
 ## FAQ
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/1gpwhNSnC1k" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 **Q: Is Amp Locker 98 really free?**
 A: Yes — but only during Audio Assault's 48-hour promotional window. After that, availability may change. Act fast.
@@ -73,6 +93,10 @@ A: The product page focuses on the amplifier models themselves. Check the offici
 A: Audio Assault's main Amp Locker product features 90+ amp sims, pedals, and effects. Amp Locker 98 is a separate, smaller freebie with 6 amp models and the retro-styled interface.
 
 ## Get the Deal
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/0F7QHWXDJxA" title="Positive Grid&#39;s Bias X Plugin – All Hype Or The Real Deal?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 Six amp models. Three plugin formats. Three operating systems. Zero dollars. The math is simple — but the 48-hour clock is ticking.
 

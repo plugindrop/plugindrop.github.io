@@ -26,6 +26,10 @@ ADSR Sounds is a well-known preset and sample marketplace catering to producers 
 ---
 
 ## Key Features
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 Each bundle is synth-specific and contains 8 packs of professionally designed presets:
 
@@ -47,6 +51,10 @@ Each bundle is synth-specific and contains 8 packs of professionally designed pr
 ---
 
 ## Pricing & Deal Details
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/N-pN8Mmo1UM" title="Explaining Claude Code&#39;s Pricing Plan #claudecode #claude #pricing #explained #product" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 | Bundle | Regular Price | Deal Price | Per Pack |
 |---|---|---|---|
@@ -73,6 +81,10 @@ If you're already subscribed to Splice and happy renting sounds, these bundles a
 ---
 
 ## FAQ
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/F6zhZ9y9uFc" title="WPB Advanced FAQ | Probably The Best WordPress FAQ Plugin by WPBean" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 **Q: Do I need to own the synth to use these presets?**
 A: Yes. The Serum presets require Xfer Serum or Serum 2, the Massive presets require NI Massive, and the Cthulhu presets require Chord Child's Cthulhu. These are not standalone sounds.
@@ -89,6 +101,10 @@ A: Check the official ADSR Sounds site for their current refund and end-user lic
 ---
 
 ## Get the Deal
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/0F7QHWXDJxA" title="Positive Grid&#39;s Bias X Plugin – All Hype Or The Real Deal?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 Eight packs, one synth, twenty dollars — the math is simple. If you produce with Serum, Massive, or Cthulhu, this limited promotion is worth a look before it expires.
 

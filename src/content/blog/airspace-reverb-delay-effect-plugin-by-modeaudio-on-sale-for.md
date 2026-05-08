@@ -18,10 +18,18 @@ converted: true
 </div>
 
 ## What Is Airspace by ModeAudio?
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/xQ4t54K_FAc" title="Airspace Plugin Review | Back to the Reverb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 Airspace is ModeAudio's debut plugin — a hybrid that fuses convolution reverb with a fully-featured stereo delay engine. ModeAudio is known primarily as a sample and preset library company, and Airspace channels that DNA into a single effect plugin built around three processing stages: **Colour**, **Delay**, and **Space**. Each module can be used independently or blended together, giving producers a flexible spatial toolkit in one interface. It ships in VST3 and AU formats for both Windows and macOS.
 
 ## Key Features
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 - **450+ Impulse Responses** — Organized into categories like Real Spaces, Hardware Reverbs, Springs & Plates, Amplifiers, Experimental Textures, and more. This is a notably large IR library for a plugin at this price point.
 - **Three-Stage Processing Chain (Colour → Delay → Space)** — Each stage can be activated or bypassed independently, allowing everything from subtle room ambience to heavily processed spatial effects.
@@ -47,6 +55,10 @@ A 15-day free trial is also available with no restrictions, so you can test it i
 [**Get Airspace for $59 at Plugin Boutique →**](https://www.pluginboutique.com/product/2-Effects/17-Reverb/14865-Airspace?utm_source=plugindrop&utm_medium=article&utm_campaign=airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for&a_aid=69cb95abe1763)
 
 ## Alternatives at a Glance
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/KiqpSKvifxM" title="Kissmetrics Overview - Top Features, Pros &amp; Cons, and Alternatives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 | Name | Price | Key Difference |
 |---|---|---|
@@ -57,6 +69,10 @@ A 15-day free trial is also available with no restrictions, so you can test it i
 If you want a free option for lush delays and reverbs, Valhalla Supermassive is hard to beat. If custom IR loading is a must-have, Reverberate 3 covers that at a higher price. Airspace sits in between — offering a curated 450+ IR library combined with a modulated stereo delay in a single plugin.
 
 ## FAQ
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/e_4Bz0Jr6IQ" title="WP Awesome FAQ PRO Plugin Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 **Q: What plugin formats does Airspace support?**
 A: Airspace is available in VST3 and AU formats for Windows and macOS.
@@ -71,6 +87,10 @@ A: Yes — ModeAudio offers a 15-day free trial with no restrictions.
 A: Check the Plugin Boutique product page or ModeAudio's official site for current refund and return terms.
 
 ## Where to Buy
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/11iHfsl2QTk" title="POV You Buy Archetype Tim Henson X #polyphia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 Airspace is a hybrid convolution reverb and stereo delay with 450+ IRs and 240+ presets out of the box.
 

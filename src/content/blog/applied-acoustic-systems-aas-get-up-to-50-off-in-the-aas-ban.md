@@ -15,10 +15,18 @@ converted: true
 ---
 
 ## What Is Applied Acoustics Systems (AAS)?
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/AW0BfyWKIRI" title="Chromaphone 3 by Applied Acoustics Systems | Overview &amp; Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 Applied Acoustics Systems is a Canadian developer that has been a leading name in physical modeling synthesis for over two decades. Unlike sample-based instruments that play back recordings, AAS plugins use mathematical models to simulate the physical behavior of instruments — strings, resonators, electric piano tines, guitar bodies — in real time. Their lineup includes electric pianos, acoustic and electric guitars, analog-style synths, a modular environment, and creative effects. If you've ever wanted instruments that respond dynamically to your playing rather than triggering static samples, AAS is one of the first names that comes up.
 
 ## Key Features of the AAS Product Line
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/7k-mmSkrFZs" title="FREE AAS Sound Design Bundle with ANY Purchase in April 2019 on www.timespace.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 - **Physical modeling engine** — Every AAS instrument is built on synthesis rather than samples, resulting in smaller install sizes and highly expressive, responsive playback.
 - **[Lounge Lizard EP-5](https://www.pluginboutique.com/product/1-Instruments/4-Synth/14967-Lounge-Lizard-EP-5-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban)** — A dedicated electric piano plugin covering Rhodes, Wurlitzer, and other classic tones with deep tonal shaping.
@@ -28,6 +36,10 @@ Applied Acoustics Systems is a Canadian developer that has been a leading name i
 - **Multiphonics CV-3** — A polyphonic modular synth environment combining physical modeling, FM, and subtractive synthesis with MPE support.
 
 ## Featured Products on Sale
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/MyraEpccAO4" title="How to add products on Shopify" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 <div style="display:flex;gap:1.5rem;flex-wrap:wrap;margin:1rem 0">
   <div style="flex:1;min-width:200px;text-align:center">
@@ -76,6 +88,10 @@ AAS has built a loyal following in the physical modeling space over the years. O
  [Check the full AAS Band Month Sale here](https://www.pluginboutique.com/deals/22636?utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban&a_aid=69cb95abe1763).
 
 ## Alternatives at a Glance
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/KiqpSKvifxM" title="Kissmetrics Overview - Top Features, Pros &amp; Cons, and Alternatives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 | Name | Approx. Price | Key Difference |
 |---|---|---|
@@ -86,6 +102,10 @@ AAS has built a loyal following in the physical modeling space over the years. O
 If you specifically want physical modeling across multiple instrument types (keys, guitar, mallets, synths), the AAS Modeling Collection or Integral bundle covers more ground than single-instrument alternatives. If you only need piano, Pianoteq is the direct competitor. If you want sheer breadth of sounds regardless of synthesis method, Komplete or V Collection cast a wider net.
 
 ## FAQ
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/1gpwhNSnC1k" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 **Q: What plugin formats does AAS support?**
 A: AAS instruments are available in VST, VST3, Audio Units (AU), and AAX formats, covering all major DAWs.
@@ -100,6 +120,10 @@ A: Check the official [AAS website](https://www.applied-acoustics.com/) for curr
 A: Yes, AAS offers upgrade pricing from Session instruments to their full Professional counterparts. Check the product page for current upgrade pricing during the sale.
 
 ## Where to Buy
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/11iHfsl2QTk" title="POV You Buy Archetype Tim Henson X #polyphia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
  Whether you're after a single instrument or the full Integral bundle, this is one of the better price points AAS hits during the year. [Pick up the AAS Band Month Sale at Plugin Boutique](https://www.pluginboutique.com/deals/22636?utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban&a_aid=69cb95abe1763).
 
