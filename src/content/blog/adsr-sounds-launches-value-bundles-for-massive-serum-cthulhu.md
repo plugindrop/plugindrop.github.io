@@ -20,6 +20,10 @@ draft: false
 
 
 ## What Are the ADSR Sounds Value Bundles?
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/HwYyfeslVAU" title="ADSR VST Drum Machine 55 Drum Kits Introductory Offer + Free Plugin FIRST LOOK Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 ADSR Sounds is a well-known preset and sample marketplace catering to producers who work with industry-standard synths. Their latest promotion bundles together curated preset collections for three widely-used instruments — Xfer Serum (and Serum 2), Native Instruments Massive, and Chord Child's Cthulhu — each sold as a grouped 8-pack for a flat $20. This is a limited-time deal, not a permanent price drop.
 
@@ -69,6 +73,10 @@ The original individual pricing isn't confirmed — verify current pricing on th
 ---
 
 ## Alternatives at a Glance
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/KiqpSKvifxM" title="Kissmetrics Overview - Top Features, Pros &amp; Cons, and Alternatives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 | Name | Price | Key Difference |
 |---|---|---|

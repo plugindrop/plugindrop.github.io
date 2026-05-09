@@ -29,7 +29,7 @@ The Ampex ATR-102 Mastering Tape Recorder is a plugin by Universal Audio that mo
 
 ## Key Features
 <div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/qNkCWJbFDRU" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
 
@@ -57,7 +57,7 @@ The ATR-102 has built a steady reputation in mastering and mixing communities ov
 
 ## Current Pricing
 <div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/WSZeQaUG93A" title="Squarespace Pricing Explained in 50 Secs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/qNkCWJbFDRU" title="Squarespace Pricing Explained in 50 Secs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
 
@@ -69,7 +69,7 @@ Verify current pricing on the product page, as deals can change without notice.
 
 ## Alternatives at a Glance
 <div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/5JeTxvCRFrU" title="SeedProd Coming Soon WordPress Plugin Quick Glance Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/qNkCWJbFDRU" title="SeedProd Coming Soon WordPress Plugin Quick Glance Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
 
@@ -85,7 +85,7 @@ If you want the EMI/British-studio flavor, the J37 covers different sonic ground
 
 ## FAQ
 <div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/F6zhZ9y9uFc" title="WPB Advanced FAQ | Probably The Best WordPress FAQ Plugin by WPBean" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/qNkCWJbFDRU" title="WPB Advanced FAQ | Probably The Best WordPress FAQ Plugin by WPBean" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
 
@@ -104,6 +104,10 @@ A: Plugin Boutique and Universal Audio occasionally offer trial options — chec
 ---
 
 ## Where to Buy
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/11iHfsl2QTk" title="POV You Buy Archetype Tim Henson X #polyphia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 $150 in savings on a mastering-grade tape emulation with UAD-level heritage behind it doesn't happen constantly. 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee)

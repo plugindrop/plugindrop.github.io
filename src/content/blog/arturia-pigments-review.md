@@ -31,6 +31,10 @@ draft: false
 ---
 
 ## Introduction
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/LYwY8VTR1eE" title="Introduction to FabFilter Saturn 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 Here is the misconception that costs producers money: most assume "all-in-one" synths are jack-of-all-trades compromises — competent at everything, exceptional at nothing. Arturia Pigments 5 challenges that assumption directly. In every **Arturia Pigments 5 review 2026** conversation happening across producer communities and YouTube comment sections, one observation keeps surfacing: this synth punches well above its category, and producers who dismiss it as a pretty-UI novelty are leaving serious tools on the table.
 
@@ -41,12 +45,16 @@ This guide is a deep dive for producers deciding whether Pigments 5 belongs in t
 ---
 
 ## The Five Synthesis Engines
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Nj1dDC98y5U" title="Review: Korg Volca FM2 vs OG // DX-7 based synth gets better // Volca FM 2 synthesis tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 The core argument for Pigments 5 rests on its multi-engine architecture. Two engine slots run simultaneously, each drawing from any of the available synthesis types. This layering capability alone separates it from most single-paradigm competitors.
 
 ### Wavetable Engine — Instant Modern Leads and Pads
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fmKHB4UCYRQ" title="Wavetable Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/XMmlkkgQ378" title="Wavetable Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in Pigments 5 (~$199)
@@ -63,7 +71,7 @@ The wavetable engine handles the sonic territory that defines modern electronic 
 
 ### Virtual Analog Engine — Fat Basses and Classic Synth Character
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Jn1FXdYx58o" title="Virtual Analog Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/XMmlkkgQ378" title="Virtual Analog Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in Pigments 5 (~$199)
@@ -80,7 +88,7 @@ The virtual analog engine covers the bread-and-butter synthesis that powered dec
 
 ### Harmonic / Additive Engine — Unique Timbres No Other Method Produces
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/b8sWsALyABQ" title="Harmonic / Additive Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/XMmlkkgQ378" title="Harmonic / Additive Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in Pigments 5 (~$199)
@@ -97,7 +105,7 @@ The additive engine is where Pigments genuinely separates itself from the pack. 
 
 ### Granular Engine — Morphing Atmospheres and Time-Stretched Complexity
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/AzctFLgtEGA" title="Granular Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/XMmlkkgQ378" title="Granular Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in Pigments 5 (~$199)
@@ -114,7 +122,7 @@ Granular synthesis slices any audio into microscopic grains and reassembles them
 
 ### Sample Engine — Rompler Functionality Built Into the Ecosystem
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lTRW83CMXiE" title="Sample Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/XMmlkkgQ378" title="Sample Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in Pigments 5 (~$199)
@@ -130,6 +138,10 @@ The sample engine lets you load standard audio files and route them through Pigm
 ---
 
 ## The Modulation System — Pigments' Defining Strength
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/BQHadomlvrU" title="Heritage Organ v2 - Part 4 : The Modulation System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 If the five engines are what Pigments promises, the modulation system is what it actually delivers on. Pigments uses a visual modulation architecture: drag any source — LFOs, envelopes, a function generator, random modules, macro knobs, MIDI data — directly onto any parameter. Color-coded indicators show at a glance which modulators are active and at what depth.
 
@@ -140,6 +152,10 @@ The macro system is worth calling out specifically. Assigning multiple parameter
 ---
 
 ## FX Section — A Production Tool, Not an Afterthought
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/9NESppGHaoo" title="Thenatan Vybz Lofi Beats FX Plugin ★ (RETRO SOUNDS) Review Sound Demos Overview - Any Good? AU VST" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 Most soft synths treat built-in FX as an add-on. Pigments treats its FX rack as a core component of the instrument. Two FX slots — each capable of holding multiple effects in a configurable chain — include EQ, compression, reverb, delay, distortion, chorus, flanger, and more. Crucially, every FX parameter accepts the same modulation routing as the synthesis parameters.
 
@@ -165,7 +181,7 @@ On mid-range 2024 hardware, Pigments 5 runs efficiently with multiple instances 
 
 ### Phase Plant — Modular Depth for Power Users
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/XMmlkkgQ378" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** ~$199 (perpetual) or via Kilohearts subscription

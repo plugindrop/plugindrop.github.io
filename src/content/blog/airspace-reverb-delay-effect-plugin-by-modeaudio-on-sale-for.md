@@ -27,7 +27,7 @@ Airspace is ModeAudio's debut plugin — a hybrid that fuses convolution reverb 
 
 ## Key Features
 <div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/xQ4t54K_FAc" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
 
@@ -56,7 +56,7 @@ A 15-day free trial is also available with no restrictions, so you can test it i
 
 ## Alternatives at a Glance
 <div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/KiqpSKvifxM" title="Kissmetrics Overview - Top Features, Pros &amp; Cons, and Alternatives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/xQ4t54K_FAc" title="Kissmetrics Overview - Top Features, Pros &amp; Cons, and Alternatives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
 
@@ -70,7 +70,7 @@ If you want a free option for lush delays and reverbs, Valhalla Supermassive is 
 
 ## FAQ
 <div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/e_4Bz0Jr6IQ" title="WP Awesome FAQ PRO Plugin Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/xQ4t54K_FAc" title="WP Awesome FAQ PRO Plugin Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
 
@@ -88,7 +88,7 @@ A: Check the Plugin Boutique product page or ModeAudio's official site for curre
 
 ## Where to Buy
 <div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/11iHfsl2QTk" title="POV You Buy Archetype Tim Henson X #polyphia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/xQ4t54K_FAc" title="POV You Buy Archetype Tim Henson X #polyphia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
 

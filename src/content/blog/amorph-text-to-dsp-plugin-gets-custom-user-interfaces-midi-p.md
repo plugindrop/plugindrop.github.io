@@ -92,6 +92,10 @@ A: No. The intended workflow is to use an external LLM (like ChatGPT or Gemini) 
 A: It's a new third variant introduced in v0.9.9 that processes MIDI input and outputs MIDI, letting you create custom arpeggiators, sequencers, and MIDI logic tools via text prompts.
 
 ## Get the Deal
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/0F7QHWXDJxA" title="Positive Grid&#39;s Bias X Plugin – All Hype Or The Real Deal?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 A free plugin that turns text prompts into working instruments, effects, and now MIDI tools — with custom UI design on top. Hard to beat that price.
 
