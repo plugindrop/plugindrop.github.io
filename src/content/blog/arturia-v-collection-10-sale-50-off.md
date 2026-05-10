@@ -18,6 +18,10 @@ converted: true
 </div>
 
 ## What Is V Collection 11 Pro?
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Yq6OLLwn7Bk" title="Overview | What is V Collection 11 Intro?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 Arturia V Collection is a bundle of software recreations of classic hardware instruments. Version 11 brings the total to **45 instruments** — analog synths, digital synths, electric pianos, organs, and the Augmented hybrid series. Arturia has been building these models for over a decade using TAE (True Analog Emulation) technology.
 
@@ -31,6 +35,10 @@ Arturia V Collection is a bundle of software recreations of classic hardware ins
 - **Augmented Yangtze** — Hybrid instrument drawing on traditional Chinese sounds
 
 ## Key Features
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 - **45 instruments** — Analog synths, digital synths, keyboards, organs, and hybrid instruments
 - **TAE modeling** — Arturia's proprietary analog modeling technology
@@ -62,6 +70,10 @@ V Collection is a consistent recommendation in "best plugin bundle" threads on R
 [Check current pricing on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-v-collection-10-sale-50-off)
 
 ## Alternatives at a Glance
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/5JeTxvCRFrU" title="SeedProd Coming Soon WordPress Plugin Quick Glance Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 | Bundle | Price | Instruments | Key Difference |
 |---|---|---|---|
@@ -75,6 +87,10 @@ If you want the widest vintage instrument coverage in one purchase, V Collection
 Not ready to invest yet? Check out our [best free synth plugins roundup](/posts/best-free-synth-plugins/) for capable options at zero cost, or read [free plugins vs paid — when to upgrade](/posts/free-plugins-vs-paid-worth-upgrading/) for guidance on timing your purchase.
 
 ## FAQ
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/1gpwhNSnC1k" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 **Q: Does it work with my DAW?**
 A: V Collection supports VST3, AU, and AAX. Check Arturia's site for the latest OS requirements.
@@ -92,6 +108,10 @@ A: V Collection 11 Intro ($199) includes 10 curated instruments. Pro ($699) incl
 A: Arturia offers upgrade pricing based on what you own. Check their site — it can significantly reduce the cost.
 
 ## Get V Collection 11 Pro
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/6DLpfMwqw3E" title="These INSANE Plugins Got More Affordable? | Arturia V Collection 11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 45 instruments. Vintage analog, digital, keys, organs, and hybrid. Arturia runs 50% sales periodically — worth watching for.
 

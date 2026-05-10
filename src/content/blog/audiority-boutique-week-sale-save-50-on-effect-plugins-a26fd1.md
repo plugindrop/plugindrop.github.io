@@ -18,6 +18,10 @@ converted: true
 </div>
 
 ## What Is Audiority's Space Station UM282 (and the Boutique Week Sale)?
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/GVIVs2XCo9M" title="Audiority Space Station UM282 - Quick Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 Audiority is an Italian plugin developer known for meticulously modeled boutique-style effects — the kind of processors that aim to capture the character of rare, vintage hardware rather than generic DSP. Their catalog spans delay, reverb, distortion, and dynamics processing.
 
@@ -28,6 +32,10 @@ Audiority doesn't run deep discounts constantly, which makes a 50% event worth p
 ---
 
 ## Key Features
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 - **Vintage hardware modeling** — Audiority's approach centers on circuit-level emulation, aiming to replicate the sonic character of the original hardware rather than a generic approximation.
 - **Delay with character** — The Space Station UM282 targets the textured, lo-fi bucket-brigade delay sound associated with vintage studio gear, suited for tape-style repeats and washed-out ambience.
@@ -61,6 +69,10 @@ Audiority doesn't run 50% sales frequently; this Boutique Week promotion is a no
 ---
 
 ## Alternatives at a Glance
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/5JeTxvCRFrU" title="SeedProd Coming Soon WordPress Plugin Quick Glance Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 | Name | Price | Key Difference |
 |---|---|---|
@@ -73,6 +85,10 @@ Valhalla Delay covers more stylistic ground at a lower price point. If the speci
 ---
 
 ## FAQ
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/1gpwhNSnC1k" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 **Q: Where is this sale available?**
 A: The Audiority Boutique Week sale is running exclusively on Plugin Boutique. No other storefronts are listed for this promotion.

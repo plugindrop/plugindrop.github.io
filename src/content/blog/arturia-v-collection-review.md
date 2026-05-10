@@ -43,10 +43,14 @@ This review covers every major instrument in the bundle, who each one is for, ho
 ---
 
 ## The Core Collection: What You're Actually Getting
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/ix8zA2Pmlmo" title="The Core Collection by Plugin Boutique" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 ### Analog Lab V — the command center you'll use every day
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OlvT2RXqozU" title="Analog Lab V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6DLpfMwqw3E" title="Analog Lab V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included (standalone version free)
@@ -67,7 +71,7 @@ These are the instruments most producers buy the collection for — the emulatio
 
 ### Prophet-5 V — the gold standard poly emulation
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/36XCZTjNh_c" title="Prophet-5 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6DLpfMwqw3E" title="Prophet-5 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in V Collection 11
@@ -84,7 +88,7 @@ Arturia's Prophet-5 V captures both the Rev 3.2 and Rev 3.3 circuit behaviors, i
 
 ### CS-80 V — Arturia's crown jewel, and arguably the best in class
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ut3uIWrTSVI" title="CS-80 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6DLpfMwqw3E" title="CS-80 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in V Collection 11
@@ -117,6 +121,10 @@ The Oberheim OB-Xa's defining characteristic is its chorus — thick, slightly d
 ---
 
 ## The Mono Synths and Modular Systems
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/k0NxXqXgaKI" title="JAMES BLAKE on Modular Synths. #musicproducer #jamesblake #modularsynth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 ### Mini V4 — still the best Minimoog emulation on the market
 
@@ -190,7 +198,7 @@ Arturia models the Rhodes Stage 73 tine behavior with velocity-sensitive bark, s
 
 ### B-3 V3 — Hammond tonewheel organ with physical drawbar modeling
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gquzHy37X20" title="B-3 V3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6DLpfMwqw3E" title="B-3 V3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** Included in V Collection 11
@@ -206,6 +214,10 @@ B-3 V3 models the Hammond B-3's tonewheel generator system, including crosstalk,
 ---
 
 ## The Experimental and Rare Instruments
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Nh8QxkOAokw" title="Noises - My New Experimental Instrument With AudioThing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 ### CMI V — the Fairlight in your DAW
 
@@ -242,6 +254,10 @@ The Yamaha DX7's 6-operator FM architecture is notoriously difficult to program 
 ---
 
 ## Worth Upgrading To
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/zPtnO8Xy0qs" title="UAD Ruby plugin : my review (is it worth it?)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 ### Arturia V Collection 11 — the complete vintage library at one price
 
@@ -257,7 +273,7 @@ The Yamaha DX7's 6-operator FM architecture is notoriously difficult to program 
 
 ### Native Instruments Komplete — broader scope, different philosophy
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/y9PU7pLkO7g" title="Native Instruments Komplete — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6DLpfMwqw3E" title="Native Instruments Komplete — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
 - **Price:** Varies by tier (Standard / Select / Ultimate / Collector's Edition)
@@ -268,6 +284,10 @@ The Yamaha DX7's 6-operator FM architecture is notoriously difficult to program 
 ---
 
 ## Full Comparison Table
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/kXlroU9wr34" title="Affiliate Websites do better using this WordPress Product Comparison table plugin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 | Instrument | Price | Type | Highlights | CTA |
 |------------|-------|------|------------|-----|
@@ -297,6 +317,10 @@ The Yamaha DX7's 6-operator FM architecture is notoriously difficult to program 
 ---
 
 ## FAQ
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/1gpwhNSnC1k" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 **Is Arturia V Collection 11 worth the price in 2026?**
 Yes — at full price the per-instrument cost is under $15. On sale (which happens multiple times per year), it drops further. No competing bundle offers this depth of vintage synth emulation at this price point.
@@ -316,6 +340,10 @@ Arturia has historically offered V Collection updates as paid upgrades to the ne
 ---
 
 ## Final Thoughts
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/VuCrFPH21Mg" title="Final Boss of SYNTH Plugins | Unisynth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 Arturia V Collection 11 remains the most comprehensive and musically credible vintage synth emulation library available in 2026 — nothing else at this price point gives you the Prophet-5, CS-80, Minimoog, DX7, Rhodes, Hammond B-3, and 35+ more instruments with this level of circuit-model accuracy. If vintage texture, warmth, and authentic analog character matter to your productions, this is the benchmark buy that pays for itself within the first serious project.
 

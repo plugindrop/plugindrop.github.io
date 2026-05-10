@@ -29,6 +29,10 @@ Royal Viol is a Kontakt instrument library built around the viola da gamba, a fr
 ---
 
 ## Key Features
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 - **Dedicated viola da gamba sampling** — focused entirely on the viol's characteristic tone, distinct from modern cello or viola
 - **Multiple articulations** — covers sustained bowing, short strokes, and ornamental techniques native to period playing styles
@@ -48,6 +52,10 @@ Royal Viol is a Kontakt instrument library built around the viola da gamba, a fr
 ---
 
 ## Pricing & Deal Details
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/N-pN8Mmo1UM" title="Explaining Claude Code&#39;s Pricing Plan #claudecode #claude #pricing #explained #product" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
@@ -62,6 +70,10 @@ This is a launch intro offer — 60% off the regular price for a limited window.
 ---
 
 ## Alternatives at a Glance
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/5JeTxvCRFrU" title="SeedProd Coming Soon WordPress Plugin Quick Glance Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 | Name | Price | Key Difference |
 |---|---|---|
@@ -74,6 +86,10 @@ Royal Viol is the better pick when you specifically need a playable, articulatio
 ---
 
 ## FAQ
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/1gpwhNSnC1k" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 **Q: Does Royal Viol require the full version of Kontakt?**
 A: Yes. The full version of Kontakt is required. It is not compatible with the free Kontakt Player.
