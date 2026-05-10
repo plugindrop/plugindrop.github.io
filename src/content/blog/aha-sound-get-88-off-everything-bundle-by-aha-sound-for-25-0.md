@@ -11,7 +11,7 @@ originalPrice: "$215"
 discount: "88% OFF"
 saleExpiry: "2026-05-10"
 xText: "aha sound's complete suite is $25 right now (was $215). per-plugin cost is basically free. rarely hits this price"
-draft: false
+draft: true
 ---
 **TL;DR:** Aha Sound's Everything Bundle is currently priced at **$25**, down from ~~$215~~ — that's 88% off and $190 in savings on their complete plugin catalog. Sub-$30 pricing for a full developer library is a significant threshold in the plugin deal market. [→ Get the Everything Bundle at Direct](https://audioplugin.deals/product/everything-bundle-by-aha-sound/ref/21/)
 
