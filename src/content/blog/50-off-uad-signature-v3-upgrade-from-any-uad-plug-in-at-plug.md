@@ -59,10 +59,6 @@ UAD plug-ins have long been a staple recommendation on mixing forums. On KVR Aud
 ---
 
 ## Alternatives at a Glance
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/KiqpSKvifxM" title="Kissmetrics Overview - Top Features, Pros &amp; Cons, and Alternatives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 | Name | Price | Key Difference |
 |---|---|---|
@@ -75,10 +71,6 @@ If you are already invested in the UAD ecosystem and want authentic analog emula
 ---
 
 ## FAQ
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/1gpwhNSnC1k" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 **Q: Do I need UAD hardware to use these plug-ins?**
 A: UAD plug-ins now run natively on Mac and PC without DSP hardware. Check the official product page for current system requirements and supported formats.

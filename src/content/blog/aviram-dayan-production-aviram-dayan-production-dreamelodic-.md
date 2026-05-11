@@ -46,10 +46,6 @@ The sale covers the full DreaMelodiC product line. A few consistent points acros
 - **Producers exploring independent developers** — Those who actively look beyond the major plugin storefronts will find the direct-sale structure practical.
 
 ## Pricing & Deal Details
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/N-pN8Mmo1UM" title="Explaining Claude Code&#39;s Pricing Plan #claudecode #claude #pricing #explained #product" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 The Black Sale puts every DreaMelodiC product at 60% off regular pricing. Individual product prices vary by title — the discount applies uniformly across the catalogue. Independent developers running sitewide sales at this depth are relatively uncommon, particularly outside major seasonal sale periods. A 60% cut from a direct store carries more weight than a platform-driven promotion where the base price may already be inflated.
 
@@ -58,10 +54,6 @@ The Black Sale puts every DreaMelodiC product at 60% off regular pricing. Indivi
 [→ Get DreaMelodiC at Direct](https://aviramdayan-dreamelodic.com/products)
 
 ## Alternatives at a Glance
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/KiqpSKvifxM" title="Kissmetrics Overview - Top Features, Pros &amp; Cons, and Alternatives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 | Name | Price | Key Difference |
 |---|---|---|
@@ -72,10 +64,6 @@ The Black Sale puts every DreaMelodiC product at 60% off regular pricing. Indivi
 If you want a proven commodity backed by years of community consensus, established direct-store developers offer more certainty. If exploring independent tools at a steep discount is the goal, the DreaMelodiC Black Sale is the more aggressive deal currently available.
 
 ## FAQ
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/1gpwhNSnC1k" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 **Q: Does the 60% discount apply to every product in the DreaMelodiC catalogue?**
 A: Yes — the Black Sale is described as covering all products with no stated exclusions.

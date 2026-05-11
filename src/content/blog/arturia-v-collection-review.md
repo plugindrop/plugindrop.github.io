@@ -317,10 +317,6 @@ The Yamaha DX7's 6-operator FM architecture is notoriously difficult to program 
 ---
 
 ## FAQ
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/1gpwhNSnC1k" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 **Is Arturia V Collection 11 worth the price in 2026?**
 Yes — at full price the per-instrument cost is under $15. On sale (which happens multiple times per year), it drops further. No competing bundle offers this depth of vintage synth emulation at this price point.

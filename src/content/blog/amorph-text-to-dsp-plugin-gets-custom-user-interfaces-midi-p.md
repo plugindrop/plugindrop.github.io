@@ -44,10 +44,6 @@ Amorph is still relatively new — it entered open beta in early 2026 — so the
 - **Budget-conscious creators** — At a pay-what-you-like price (including free), the barrier to entry is zero.
 
 ## Pricing & Deal Details
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/N-pN8Mmo1UM" title="Explaining Claude Code&#39;s Pricing Plan #claudecode #claude #pricing #explained #product" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
@@ -60,10 +56,6 @@ Amorph uses a pay-what-you-like model on Gumroad, meaning you can download it fo
 [Get Amorph free on the product page.](https://artistsindsp.gumroad.com/l/amorph)
 
 ## Alternatives at a Glance
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/5JeTxvCRFrU" title="SeedProd Coming Soon WordPress Plugin Quick Glance Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 | Name | Price | Key Difference |
 |---|---|---|
@@ -74,10 +66,6 @@ Amorph uses a pay-what-you-like model on Gumroad, meaning you can download it fo
 If you want a fully code-free visual approach, Plugdata or Reaktor offer drag-and-connect workflows. If you prefer describing what you want in plain text and letting AI handle the code, Amorph is the only option currently built around that concept.
 
 ## FAQ
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/1gpwhNSnC1k" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 **Q: Is Amorph really free?**
 A: Yes. It uses a pay-what-you-like model on Gumroad during the open beta, and $0 is a valid option.

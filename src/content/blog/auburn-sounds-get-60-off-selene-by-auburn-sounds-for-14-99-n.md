@@ -53,10 +53,6 @@ Selene has generated a multi-page discussion thread on the [KVR Audio forums](ht
 - **Linux Users** — Full Linux support with CLAP and LV2 formats — not something every reverb plugin offers.
 
 ## Pricing & Deal Details
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/N-pN8Mmo1UM" title="Explaining Claude Code&#39;s Pricing Plan #claudecode #claude #pricing #explained #product" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
@@ -69,10 +65,6 @@ Deal expires **April 16th**. Verify current pricing on the product page — deal
 [Get Selene Full Edition for $14.99 here.](https://audioplugin.deals/product/selene-by-auburn-sounds/ref/21/)
 
 ## Alternatives at a Glance
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/KiqpSKvifxM" title="Kissmetrics Overview - Top Features, Pros &amp; Cons, and Alternatives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 | Name | Price | Key Difference |
 |---|---|---|

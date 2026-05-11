@@ -88,10 +88,6 @@ AAS has built a loyal following in the physical modeling space over the years. O
  [Check the full AAS Band Month Sale here](https://www.pluginboutique.com/deals/22636?utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban&a_aid=69cb95abe1763).
 
 ## Alternatives at a Glance
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/KiqpSKvifxM" title="Kissmetrics Overview - Top Features, Pros &amp; Cons, and Alternatives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 | Name | Approx. Price | Key Difference |
 |---|---|---|
@@ -102,10 +98,6 @@ AAS has built a loyal following in the physical modeling space over the years. O
 If you specifically want physical modeling across multiple instrument types (keys, guitar, mallets, synths), the AAS Modeling Collection or Integral bundle covers more ground than single-instrument alternatives. If you only need piano, Pianoteq is the direct competitor. If you want sheer breadth of sounds regardless of synthesis method, Komplete or V Collection cast a wider net.
 
 ## FAQ
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/1gpwhNSnC1k" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 **Q: What plugin formats does AAS support?**
 A: AAS instruments are available in VST, VST3, Audio Units (AU), and AAX formats, covering all major DAWs.
