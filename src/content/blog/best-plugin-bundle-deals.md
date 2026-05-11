@@ -1,6 +1,9 @@
 ---
 title: "Best Plugin Bundle Deals in 2026 — Ranked: Maximum Value, Minimum Spend"
 description: "Best plugin bundle deals in 2026, updated weekly. FabFilter, NI, iZotope — ranked by value per dollar. Know exactly when to buy and what to skip."
+pubDate: "2026-05-04T00:00:00Z"
+tags: ["guide", "vst", "value"]
+affiliate: ""
 evergreen: true
 score: 8.00
 discount: "70% OFF"
