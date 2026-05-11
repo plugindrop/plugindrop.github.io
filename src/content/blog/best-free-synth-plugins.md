@@ -1,6 +1,6 @@
 ---
 title: "17 Best Free Synth VST Plugins 2026 — Direct Downloads, Zero Cost"
-description: "Free synth VSTs ranked by genre and workflow: wavetable (Vital), FM (Dexed), analog (Surge XT), granular & more. Direct download links. No trials, no subscriptions."
+description: "Free synth VSTs ranked by genre: wavetable (Vital), FM (Dexed), analog (Surge XT) & more. Direct download links. No trials, no subscriptions."
 pubDate: "2026-03-19T09:00:00Z"
 tags: ["guide", "vst", "free", "instruments", "synth"]
 affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins"

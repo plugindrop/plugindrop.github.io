@@ -1,9 +1,6 @@
 ---
 title: "6 Best Free Kontakt Alternatives in 2026 (Decent Sampler and Beyond)"
-description: "Decent Sampler is the community's top pick for a free Kontakt alternative in 2026 — its library ecosystem is unmatched and it runs on every major DAW..."
-pubDate: "2026-06-18T10:39:54Z"
-tags: ["guide", "vst", "free", "alternatives"]
-affiliate: ""
+description: "6 free Kontakt alternatives tested in 2026. Decent Sampler leads — massive free library, runs in every major DAW. Install guides included."
 evergreen: true
 score: 8.00
 xText: "New guide: 6 Best Free Kontakt Alternatives in 2026 (Decent Sampler and..."
