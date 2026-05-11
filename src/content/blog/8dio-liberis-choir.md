@@ -23,6 +23,10 @@ draft: false
 ---
 
 ## Overview
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Euef8rtUYf0" title="Waves Abbey Road Studio 3 Plugin | Overview, Impressions, and Hear It In Action!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 Liberis features the Piedmont Children's Choir — 45 professional young singers recorded in a church environment with three dedicated mic positions. Three soloists (one male, two female) are included for intimate exposed lines.
 
@@ -31,6 +35,10 @@ Liberis features the Piedmont Children's Choir — 45 professional young singers
 ---
 
 ## Key Features
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 - **45-piece children's choir** — Piedmont's award-winning ensemble
 - **3 mic positions** — close, room, hall for blend control
@@ -49,6 +57,10 @@ Liberis is the only dedicated children's choir option in the 8Dio lineup. It fil
 ---
 
 ## Part of the Pick 3 Deal
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/-E8AadhDGSY" title="PeachPay Review and Demo: The Most Simple &amp; Stable Woocommerce Checkout Plugin🔥 Lifetime Deal $49" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 Liberis is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](/posts/choirs-solo-vocals-102b4c)** offer. Its unique timbre pairs well with any of the adult choir libraries for textural contrast.
 

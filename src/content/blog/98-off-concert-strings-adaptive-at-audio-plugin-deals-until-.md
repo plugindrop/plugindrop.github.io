@@ -22,12 +22,20 @@ draft: false
 
 
 ## What Is Concert Strings Adaptive?
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/tDuqG3zQ8_4" title="Kirk Hunter Studios  - Concert Strings II Polyphonic Round Robin Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 Concert Strings Adaptive is an orchestral string ensemble sample library from Kirk Hunter Studios, a developer with a long-standing focus on professional orchestral sampling. The library is built around an adaptive legato engine designed to produce realistic note transitions and natural-sounding string performances. It targets film scoring, game audio, and classical composition workflows where authentic string articulation matters.
 
 ---
 
 ## Key Features
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 - **Adaptive Legato System** — The library's core technology, enabling note transitions that respond to playing dynamics and tempo rather than triggering static samples.
 - **Multiple Articulations** — Covers sustains, staccatos, spiccato, and additional playing styles to support a wide range of compositional situations.
@@ -47,6 +55,10 @@ Concert Strings Adaptive is an orchestral string ensemble sample library from Ki
 ---
 
 ## Pricing & Deal Details
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/N-pN8Mmo1UM" title="Explaining Claude Code&#39;s Pricing Plan #claudecode #claude #pricing #explained #product" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
@@ -61,6 +73,10 @@ A 98% discount is well outside the standard discount range for Kirk Hunter Studi
 ---
 
 ## Alternatives at a Glance
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/5JeTxvCRFrU" title="SeedProd Coming Soon WordPress Plugin Quick Glance Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 | Name | Price | Key Difference |
 |---|---|---|
@@ -73,6 +89,10 @@ Spitfire LABS is the logical starting point if budget is the binding constraint,
 ---
 
 ## FAQ
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/1gpwhNSnC1k" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 **Q: Does Concert Strings Adaptive require a paid version of Kontakt?**
 A: Kirk Hunter Studios libraries have historically required the full paid version of Kontakt rather than the free Kontakt Player. Verify the exact requirement on the official site before purchasing.
