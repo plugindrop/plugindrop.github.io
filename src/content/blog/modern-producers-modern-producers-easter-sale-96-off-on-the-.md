@@ -8,7 +8,7 @@ tags: ["sale", "modern producers", "music-production", "bundle"]
 affiliate: https://www.modernproducers.com/products/easter-bundle-2026
 heroImage: "/images/modern-producers-modern-producers-easter-sale-96-off-on-the-.jpg"
 discount: "96% OFF"
-draft: false
+draft: true
 score: 3.92
 dealPrice: "$30"
 originalPrice: "$749.7"

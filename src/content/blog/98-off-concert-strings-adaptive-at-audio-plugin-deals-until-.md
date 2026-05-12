@@ -10,7 +10,7 @@ dealPrice: "$39.99"
 discount: "98% OFF"
 saleExpiry: "2026-05-12"
 xText: "98% off professional orchestral strings is genuinely wild. concert strings adaptive normally doesn't move like this. worth taking the 2 minutes to see what we're talking about"
-draft: false
+draft: true
 ---
 **TL;DR:** Concert Strings Adaptive by Kirk Hunter Studios is currently **$39.99** — a 98% discount on a professional orchestral string library. The deal runs through May 12, 2026. [→ Get Concert Strings Adaptive at Direct](https://audioplugin.deals/product/concert-strings-adaptive-by-kirk-hunter-studios/ref/425/)
 

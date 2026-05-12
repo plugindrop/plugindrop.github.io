@@ -11,7 +11,7 @@ originalPrice: "$499"
 discount: "70% OFF"
 saleExpiry: "2026-05-12"
 xText: "gsamples' collection just hit $149.70 from $499. that's 70% off and genuinely the floor on this one. rare pricing, move fast if you're sitting on the fence."
-draft: false
+draft: true
 ---
 **TL;DR:** GSamples Full Collection is currently available at 70% off — ~~$499~~ $149.70 — making this one of the steeper discounts the brand has offered on its complete library package. That's roughly $350 in savings on a full orchestral and cinematic sample bundle. [→ Get GSamples Full Collection at Direct](https://audioplugin.deals/product/gsamples-full-collection/ref/21/)
 
