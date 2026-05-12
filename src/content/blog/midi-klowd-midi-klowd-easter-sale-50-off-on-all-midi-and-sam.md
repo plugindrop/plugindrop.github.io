@@ -8,6 +8,7 @@ tags: ["sale", "midi klowd", "music-production", "sample-pack"]
 affiliate: https://midiklowd.com/midi-klowd-everything-bundle
 heroImage: "/images/midi-klowd-midi-klowd-easter-sale-50-off-on-all-midi-and-sam.jpg"
 discount: "50% OFF"
+saleExpiry: "2026-04-05"
 draft: false
 score: 2.8
 ---
