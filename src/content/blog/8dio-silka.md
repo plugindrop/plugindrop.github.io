@@ -10,7 +10,7 @@ xText: "8Dio Silka — emotional soft choir, 63k samples, phrase builder up to 6
 dealPrice: "$23"
 originalPrice: "$99"
 discount: "Pick 3 for $69"
-draft: false
+draft: true
 ---
 **TL;DR:** Silka is 8Dio's emotional soft choir — 65 voices, 63,500 samples, and a rhythmic phrase builder for creating moving choral textures. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](/posts/choirs-solo-vocals-102b4c)**. [Buy on 8Dio →](https://www.pluginboutique.com/search?search_query=silka&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-silka)
 
@@ -22,12 +22,10 @@ draft: false
 
 ---
 
-
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/-8rOW8MV5UU" title="8dio Silka Choir QUICK Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 ## Overview
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Euef8rtUYf0" title="Waves Abbey Road Studio 3 Plugin | Overview, Impressions, and Hear It In Action!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
 
 
 Silka features 40 male and 25 female voices recorded with 63,500 samples across multiple dynamic layers. Its phrase builder allows sequences of up to 64 characters, making it practical for complex rhythmic choral writing beyond sustained pads.
@@ -37,6 +35,9 @@ Silka features 40 male and 25 female voices recorded with 63,500 samples across 
 ---
 
 ## Key Features
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/rzPBijaWoeU" title="Introducing Freakshow Industries | Mishby, Dumpster Fire, Backmask Plugins | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
 
 
 - **63,500 samples** — one of the deepest soft choir libraries available
@@ -55,6 +56,9 @@ Silka is well-suited for composers who need emotionally expressive choir texture
 ---
 
 ## Part of the Pick 3 Deal
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/-E8AadhDGSY" title="PeachPay Review and Demo: The Most Simple &amp; Stable Woocommerce Checkout Plugin🔥 Lifetime Deal $49" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
 
 
 Silka is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](/posts/choirs-solo-vocals-102b4c)** offer. It pairs naturally with Lacrimosa (epic/soft contrast) or Insolidus (two complementary soft choir colors).

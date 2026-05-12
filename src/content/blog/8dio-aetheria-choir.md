@@ -10,7 +10,7 @@ xText: "8Dio Aetheria — 16 singers, intimate ensemble, 5 velocity legatos. sma
 dealPrice: "$23"
 originalPrice: "$99"
 discount: "Pick 3 for $69"
-draft: false
+draft: true
 ---
 **TL;DR:** Aetheria is 8Dio's intimate 16-singer choir — smaller scale than Lacrimosa, but with deeper per-voice detail and a word sequencer for expressive lyrical writing. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](/posts/choirs-solo-vocals-102b4c)**. [Buy on 8Dio →](https://www.pluginboutique.com/search?search_query=aetheria&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-aetheria-choir)
 
@@ -35,6 +35,9 @@ Aetheria features 8 male and 8 female singers with five true velocity-based lega
 ---
 
 ## Key Features
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
 
 
 - **16 singers** — 8 male, 8 female, balanced ensemble
@@ -53,6 +56,9 @@ Aetheria is a good fit for composers who want choir texture that doesn't overwhe
 ---
 
 ## Part of the Pick 3 Deal
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/-E8AadhDGSY" title="PeachPay Review and Demo: The Most Simple &amp; Stable Woocommerce Checkout Plugin🔥 Lifetime Deal $49" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
 
 
 Aetheria is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](/posts/choirs-solo-vocals-102b4c)** offer. It pairs well with Insolidus for complementary small-choir textures, or with Lacrimosa to have both intimate and epic ends covered.
