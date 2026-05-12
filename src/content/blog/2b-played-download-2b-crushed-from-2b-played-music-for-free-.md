@@ -15,8 +15,11 @@ draft: true
 
 ---
 
-## 2B Crushed: Free Saturation Plugin From 2B Played Music
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/-qunywIk6gk" title="Best FREE Reverb Plugin For Music Production 2B REVERBED By 2B Played LIMITED TIME - Sound Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
 
+## 2B Crushed: Free Saturation Plugin From 2B Played Music
 
 Free is free. When a paid plugin goes to $0 with a coupon, you grab it first and ask questions later.
 
@@ -25,10 +28,6 @@ Free is free. When a paid plugin goes to $0 with a coupon, you grab it first and
 ---
 
 ## Key Features
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/-qunywIk6gk" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 - **Saturation / Crushing Engine** — Core drive circuit designed to add harmonic distortion and thickness to audio signals
 - **Mix-Friendly Controls** — Gain staging and blend controls to dial in subtle warmth or aggressive clipping
@@ -48,10 +47,6 @@ Free is free. When a paid plugin goes to $0 with a coupon, you grab it first and
 ---
 
 ## Pricing & Deal Details
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/-qunywIk6gk" title="Explaining Claude Code&#39;s Pricing Plan #claudecode #claude #pricing #explained #product" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 | Regular Price | Sale Price | With Coupon CRUSH26 |
 |---|---|---|
@@ -66,10 +61,6 @@ Coupon codes like this don't last forever — no expiry date is publicly confirm
 ---
 
 ## Alternatives at a Glance
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/-qunywIk6gk" title="Kissmetrics Overview - Top Features, Pros &amp; Cons, and Alternatives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 | Name | Price | Key Difference |
 |---|---|---|
@@ -82,10 +73,6 @@ If you only need saturation and free is the priority, Softube's Saturation Knob 
 ---
 
 ## FAQ
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/-qunywIk6gk" title="Ultimate FAQ Plugin - Shortcodes and Attributes (Tutorial 01)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 **Q: What coupon code makes 2B Crushed free?**
 A: Use coupon code **CRUSH26** at checkout on the 2B Played website to bring the price to $0.
@@ -102,7 +89,6 @@ A: No confirmed expiry has been publicly stated, but free coupon deals are typic
 ---
 
 ## Get the Deal
-
 
 ~~$55~~ → **$0**. Apply coupon **CRUSH26** and it's yours. No reason to wait on a free plugin.
 

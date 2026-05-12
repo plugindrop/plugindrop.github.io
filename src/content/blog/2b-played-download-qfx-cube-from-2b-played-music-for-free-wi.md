@@ -13,19 +13,15 @@ score: 1.41
 ---
 **TL;DR:** QFX Cube by 2B Played Music — a creative reflection effect plugin that blends reverb and delay — is normally ~~€19.00~~ but right now it's **completely FREE** with coupon code **SPRING26**. Deal expires April 20th. [Grab it here before it's gone.](https://2bplayed.com/product/qfx-cube/)
 
-## What Is QFX Cube?
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/dTeqM88yaMg" title="2B Played Music releases QFX Cube and QFX Color effect plugins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
+## What Is QFX Cube?
 
 QFX Cube is a creative effect plugin from 2B Played Music that generates fast reflection effects by simulating sound bouncing inside a virtual cube. It's not strictly a reverb. It's not strictly a delay. It sits somewhere in between — combining both to create reflections that add depth, warmth, and spatial character to your audio. QFX Cube is part of 2B Played Music's QFX One Series, a lineup of streamlined, single-purpose effect plugins designed to keep you focused on making music instead of tweaking parameters.
 
 ## Key Features
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/dTeqM88yaMg" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 - **Large Central Rotary Knob** — Dial in the ideal blend of reverb and delay while controlling effect strength, all from one intuitive control.
 - **Four Preset Cube Sizes** — Jumpstart your creativity with four distinct virtual room sizes that shape the reflection character.
@@ -42,10 +38,6 @@ QFX Cube is a creative effect plugin from 2B Played Music that generates fast re
 - **Electronic & Ambient Producers** — The blend of reverb and delay reflections suits genres where spatial depth is a core element of the sound.
 
 ## Pricing & Deal Details
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/dTeqM88yaMg" title="Explaining Claude Code&#39;s Pricing Plan #claudecode #claude #pricing #explained #product" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
@@ -59,10 +51,6 @@ QFX Cube is a creative effect plugin from 2B Played Music that generates fast re
 Verify current pricing on the product page — deals can change without notice. [Get QFX Cube free with coupon SPRING26.](https://2bplayed.com/product/qfx-cube/)
 
 ## Alternatives at a Glance
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/dTeqM88yaMg" title="Kissmetrics Overview - Top Features, Pros &amp; Cons, and Alternatives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 | Name | Price | Key Difference |
 |---|---|---|
@@ -73,10 +61,6 @@ Verify current pricing on the product page — deals can change without notice. 
 If you want a lush, expansive reverb/delay combo with deep controls, Valhalla Supermassive is the go-to freeware giant. If you want something quick and focused — a simple spatial reflection tool that stays out of your way — QFX Cube fills that niche. TAL-Reverb-4 covers traditional plate reverb territory for zero cost.
 
 ## FAQ
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/dTeqM88yaMg" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 **Q: How do I get QFX Cube for free?**
 A: Add QFX Cube to your cart on the 2B Played Music website and apply coupon code **SPRING26** at checkout. The price drops to €0.00. The offer expires April 20th, 2026.
@@ -91,7 +75,6 @@ A: Check the official 2B Played Music product page for specific licensing and ac
 A: Generally, plugins acquired through free coupon promotions remain yours permanently. Confirm the license terms on the product page at checkout.
 
 ## Get the Deal
-
 
 A creative reflection effect plugin for the price of absolutely nothing. That's the kind of deal you don't overthink — you just grab it.
 

@@ -14,24 +14,16 @@ converted: true
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/aKJnKRaReIQ" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/aKJnKRaReIQ" title="Distressor vs. Arouser - Epic Plugin Battle!!! Universal Audio vs. Empirical Labs - MUST SEE!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
 ## What Is Empirical Labs Professor Punch-Knuckles?
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/aKJnKRaReIQ" title="Distressor vs. Arouser - Epic Plugin Battle!!!   Universal Audio vs. Empirical Labs - MUST SEE!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 Empirical Labs is the hardware company behind the Distressor — one of the most-copied compressors in studio history. Professor Punch-Knuckles is their distortion/saturation plugin, bringing that same analog-minded engineering philosophy into the DAW environment. The plugin sits in the distortion/dynamics category and is designed to add harmonic color, punch, and character to individual tracks or buses. Check the Plugin Boutique product page for the full technical specification list.
 
 ---
 
 ## Key Features
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/aKJnKRaReIQ" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 - **Analog-Modeled Saturation** — Circuit-level modeling informed by Empirical Labs' decades of hardware design experience.
 - **Punch & Transient Shaping** — Goes beyond simple clipping; the plugin is designed to enhance attack and impact, not just add grit.
@@ -63,10 +55,6 @@ Empirical Labs plugins don't run frequent deep discounts — this brand tends to
 ---
 
 ## Alternatives at a Glance
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/aKJnKRaReIQ" title="Kissmetrics Overview - Top Features, Pros &amp; Cons, and Alternatives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 | Name | Price | Key Difference |
 |---|---|---|
@@ -79,10 +67,6 @@ If your priority is precise multi-band control and modulation, Saturn 2 covers m
 ---
 
 ## FAQ
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/aKJnKRaReIQ" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 **Q: Does Professor Punch-Knuckles require an iLok dongle?**
 A: Check the official Plugin Boutique product page for current activation requirements — Empirical Labs plugins have used iLok-based licensing in the past, but confirm before purchasing.
@@ -93,11 +77,6 @@ A: Check the product listing for the current confirmed compatibility list — fo
 ---
 
 ## Where to Buy
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/aKJnKRaReIQ" title="POV You Buy Archetype Tim Henson X #polyphia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
-
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=plugindrop&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou&a_aid=69cb95abe1763)
 
