@@ -3,14 +3,11 @@ title: "8Dio Requiem Professional — Cathedral-Recorded Choir for Kontakt"
 description: "8Dio Requiem Professional: cathedral-recorded, 15,500+ samples, polyphonic legato, 5 soloists, 1,000+ choral effects. Part of the Pick 3 for $69 deal."
 pubDate: "2026-04-23T00:00:00Z"
 tags: ["vst-plugin", "music-production", "kontakt", "choir"]
-affiliate: "https://www.pluginboutique.com/search?search_query=requiem+professional&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-requiem-professional"
+affiliate: "https://8dio.com/8dio-requiem-professional/"
 heroImage: "/images/8dio-requiem-professional.jpg"
 score: 4.30
 xText: "8Dio Requiem Pro — cathedral recording, 5 soloists, 1000+ choral effects. distinct acoustic character from the others. part of pick-3 deal at $69"
-dealPrice: "$23"
-originalPrice: "$99"
-discount: "Pick 3 for $69"
-draft: true
+draft: false
 ---
 **TL;DR:** Requiem Professional is 8Dio's cathedral-recorded choir — a full ensemble plus 5 soloists, captured in a San Francisco church with natural reverb. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](/posts/choirs-solo-vocals-102b4c)**. [Buy on 8Dio →](https://www.pluginboutique.com/search?search_query=requiem+professional&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-requiem-professional)
 
