@@ -32,9 +32,6 @@ Audiority doesn't run deep discounts constantly, which makes a 50% event worth p
 ---
 
 ## Key Features
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 - **Vintage hardware modeling** — Audiority's approach centers on circuit-level emulation, aiming to replicate the sonic character of the original hardware rather than a generic approximation.

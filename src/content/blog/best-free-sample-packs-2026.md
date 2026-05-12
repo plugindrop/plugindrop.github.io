@@ -12,9 +12,6 @@ heroImage: "/images/best-free-sample-packs-2026_og.jpg"
 ---
 **TL;DR:** ADSR Sounds is the most consistently recommended single destination for curated free sample packs across producer communities in 2026 — the combination of curation standards, reliable metadata, and genre coverage is what r/edmproduction and r/makinghiphop return to consistently. MusicRadar's editorial vault and Cymatics' periodic releases are the community's most-cited genre supplements. This guide maps eight proven sources and flags the paid upgrades worth budgeting for.
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/89grrQTF5Ow" title="Where to Find the Best Free Sample Packs in 2026 (Curated List) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ## Quick Picks at a Glance

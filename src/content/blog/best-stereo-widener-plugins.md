@@ -13,9 +13,6 @@ draft: false
 ---
 **TL;DR:** Wider by Polyverse is the best free stereo widener VST in 2026 — it's completely free, phase-coherent, and passes mono checks without artifacts. For professional mastering, Brainworx bx_stereomaker and Nugen Audio Stereoizer are the paid tools worth the investment.
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CZsy0xHu7og" title="10 Best Stereo Widener & Imager Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ## Quick Picks at a Glance

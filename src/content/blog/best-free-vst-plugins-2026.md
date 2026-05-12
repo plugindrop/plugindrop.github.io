@@ -27,46 +27,28 @@ Open-source hybrid synth with 3 oscillators, 14 filter algorithms, and a deep mo
 Faithful emulation of the Yamaha DX7 — loads original DX7 SysEx patches. FM synthesis made accessible with a modern UI. [Full article](/posts/dexed-free-dx7-emulation/).
 
 ### 4. Helm
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/kcbOGUej_n4" title="HELM - Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 Polyphonic synth with a clean visual interface. Two oscillators, sub-oscillator, built-in effects, and a step sequencer. Lightweight and straightforward.
 
 ## Effects
 
 ### 5. Valhalla Supermassive
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/gUa6b11mGS4" title="Plugin Review: Valhalla SUPERMASSIVE!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 18+ reverb/delay modes from the team behind VintageVerb and Plate. Massive tails, warp effects, and near-zero CPU usage. Permanently free. [Full breakdown here](/posts/best-free-reverb-vst-plugins/).
 
 ### 6. Soundtoys Little Plate (When Available)
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/pHQ-OY2PfYc" title="Soundtoys Little Plate Review Plugin of the Week #1 (Best New Free Reverb?)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 EMT 140 plate reverb — three knobs, instant results. Soundtoys occasionally offers it free for limited periods. Worth watching for. [Check availability](/posts/soundtoys-little-plate-free-download/).
 
 ### 7. TAL-Reverb-4
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/L0IAqYNQQC8" title="TAL Bassline 101 Synth Plugin - Tour &amp; Review With Dom Kane" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 Plate reverb with a vintage character. Simple controls, low CPU, and a sound that sits well in dense mixes without heavy parameter tweaking.
 
 ### 8. iZotope Vinyl
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Lp8jR6sn-5U" title="Free Plugin for Lofi - iZotope Vinyl Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 Lo-fi processor that adds vinyl noise, warp, dust, and electrical hum. A quick way to add analog texture to any track. [Full article](/posts/izotope-vinyl-free-lofi-plugin/).
 
 ### 9. Kilohearts Essentials
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/2gGzsrMucuM" title="Kilohearts Essentials Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 Bundle of small effect modules — distortion, chorus, delay, filter, and more. Each one is lightweight; they also integrate into the Kilohearts ecosystem if you expand later.
 
@@ -77,39 +59,24 @@ Bundle of small effect modules — distortion, chorus, delay, filter, and more. 
 Dynamic EQ with four bands, each switchable between static EQ and dynamic processing. Competes with paid dynamic EQs at $0. [Full breakdown](/posts/best-free-eq-vst-plugins/).
 
 ### 11. OTT (Xfer Records)
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/iTi78-oE-Zc" title="What is the &quot;OTT sound&quot;? #shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 Multiband upward/downward compressor. Originally a preset in Ableton, now a standalone plugin. A staple in electronic production for punchy, loud mixes.
 
 ### 12. Analog Obsession LALA
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/wYzG3zusaSo" title="LALA (V.2.1) by Analog Obsession Review (Teletronix LA2A Styled Plugin)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 LA-2A-style optical compressor. Smooth compression for vocals, bass, and bus processing. Part of Analog Obsession's large free plugin library.
 
 ### 13. Youlean Loudness Meter 2
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/ld11Be_ixzY" title="I Use This Plugin On Every Mix and Master - Youlean Loudness Meter 2 Pro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 LUFS metering plugin — essential for checking loudness levels against streaming platform targets (Spotify, Apple Music, YouTube). The free version covers all critical metering needs.
 
 ## Instruments
 
 ### 14. Spitfire LABS
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/EjFi4KURJLM" title="SPITFIRE AUDIO LABS Free Plugins - Demo of them ALL!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 Sample-based instrument library with 80+ instruments — soft piano, strings, pads, choir, drums, and experimental textures. Orchestral and cinematic production staple. [Full article](/posts/spitfire-labs-free-sample-library/).
 
 ### 15. Native Instruments Komplete Start
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/VDHu7L2pv0g" title="Exploring the all-new Komplete Start free plugin bundle | Native Instruments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 Free bundle including synths (Massive, Reaktor Player), sampled instruments, effects, and loops. Over 2,000 sounds across multiple categories.
 

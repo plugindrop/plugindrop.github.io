@@ -12,9 +12,6 @@ draft: false
 ---
 **TL;DR:** FabFilter Pro-Q 4 is the most defensible first purchase for Studio One producers — its dynamic EQ addresses a real gap in the native toolset that PreSonus has never fully closed. Valhalla VintageVerb at $50 is the clearest value-per-dollar in algorithmic reverb, period. If synthesis is part of your workflow, Serum's visual modulation engine and community ecosystem make it the community-standard wavetable synth.
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="12 Best Third-Party Plugins for Studio One Users in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ## Quick Picks at a Glance

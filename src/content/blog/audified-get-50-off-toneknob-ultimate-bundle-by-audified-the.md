@@ -13,8 +13,10 @@ converted: true
 
 ---
 
+
+
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/jeKxocry60E" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/jeKxocry60E" title="ToneKnob Ultimate Bundle – 6 Essential Effects for $49" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
 ## What Is the ToneKnob Ultimate Bundle?
@@ -24,9 +26,6 @@ The ToneKnob Ultimate Bundle is a collection of tone-shaping effect plugins deve
 ---
 
 ## Key Features
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 - **Hardware-modeled tone shaping** — Each plugin in the series draws from analog circuit modeling concepts, targeting the warmth and character of hardware gear.
@@ -71,9 +70,6 @@ If you only need an EQ-style tone tool and want to spend nothing, SlickEQ covers
 ---
 
 ## FAQ
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/zf-tYLqHpRs" title="Ultimate FAQ Plugin - Shortcodes and Attributes (Tutorial 01)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 **Q: Where can I buy the ToneKnob Ultimate Bundle at this price?**
@@ -91,9 +87,6 @@ A: Refund policies vary by store and developer. Check Plugin Boutique's terms an
 ---
 
 ## Where to Buy
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/11iHfsl2QTk" title="POV You Buy Archetype Tim Henson X #polyphia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 50,  

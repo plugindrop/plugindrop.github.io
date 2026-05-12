@@ -91,9 +91,6 @@ A: Check the official 2B Played Music product page for specific licensing and ac
 A: Generally, plugins acquired through free coupon promotions remain yours permanently. Confirm the license terms on the product page at checkout.
 
 ## Get the Deal
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/0F7QHWXDJxA" title="Positive Grid&#39;s Bias X Plugin – All Hype Or The Real Deal?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 A creative reflection effect plugin for the price of absolutely nothing. That's the kind of deal you don't overthink — you just grab it.

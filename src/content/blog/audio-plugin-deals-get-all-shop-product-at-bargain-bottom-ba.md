@@ -88,9 +88,6 @@ A: An end date hasn't been publicly confirmed. The Cinco de Mayo tie-in suggests
 ---
 
 ## Get the Deal
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/0F7QHWXDJxA" title="Positive Grid&#39;s Bias X Plugin – All Hype Or The Real Deal?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 Every product in the Audio Plugin Deals catalog is sitting at its base price right now — stack code **CINCO10** on top and you're walking away with an additional 10% off your entire cart.

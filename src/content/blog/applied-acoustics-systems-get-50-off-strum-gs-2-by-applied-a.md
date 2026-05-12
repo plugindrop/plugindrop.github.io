@@ -18,17 +18,11 @@ converted: true
 </div>
 
 ## What Is Strum GS-2?
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/TQn8Wl0lh10" title="Applied Acoustic Systems Strum Session vs Strum GS-2 guitar plug-in" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 Strum GS-2 is a guitar synthesizer developed by Applied Acoustics Systems (AAS), a Canadian company known for their physical modeling instruments. Unlike sample-based guitar libraries, Strum GS-2 uses physical modeling technology to generate acoustic and electric guitar tones in real time. It's designed to let producers and composers create realistic strumming patterns, chord progressions, and guitar textures directly from a MIDI keyboard — no guitar skills required.
 
 ## Key Features
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/TQn8Wl0lh10" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 - **Physical Modeling Engine** — Generates guitar sounds through real-time synthesis rather than triggering samples, allowing for expressive, dynamic playback.
@@ -56,9 +50,6 @@ Verify current pricing on the product page — deals can change.
 [Check the current price at Plugin Boutique.](https://pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2-Acoustic-Electric?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustics-systems-get-50-off-strum-gs-2-by-applied-a)
 
 ## Alternatives at a Glance
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/TQn8Wl0lh10" title="SeedProd Coming Soon WordPress Plugin Quick Glance Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 | Name | Price | Key Difference |
@@ -70,9 +61,6 @@ Verify current pricing on the product page — deals can change.
 If budget is tight and you just need basic acoustic guitar, Ample Guitar M Lite is free and worth trying first. If you prefer physical modeling's flexibility and real-time responsiveness over sample playback, Strum GS-2 occupies a unique space in this category.
 
 ## FAQ
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/TQn8Wl0lh10" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 **Q: Does Strum GS-2 require iLok?**
@@ -88,9 +76,6 @@ A: Strum GS-2 is primarily designed for chord-based strumming and rhythmic guita
 A: Check the official AAS product page for up-to-date system requirements and OS compatibility.
 
 ## Where to Buy
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/TQn8Wl0lh10" title="POV You Buy Archetype Tim Henson X #polyphia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 Half off a physical modeling guitar synth that's been a staple for non-guitarists —  down to $99. The deal.

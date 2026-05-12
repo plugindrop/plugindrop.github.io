@@ -14,9 +14,6 @@ converted: true
 ---
 
 ## What Is UAD Signature V3?
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/807hFkrtdcE" title="If I Could Only Have 5 UAD Plugins. My Essential Picks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 UAD Signature V3 is a curated plug-in bundle from Universal Audio, one of the most recognized names in professional audio software and hardware. The Signature series brings together a hand-picked selection of UAD's flagship emulations — think analog console processors, classic hardware compressors, and studio-grade EQs — into a single package. This deal is specifically structured as an **upgrade path**: you need to own at least one UAD plug-in to qualify, making it a targeted offer for existing UAD users looking to expand their toolkit.
@@ -24,9 +21,6 @@ UAD Signature V3 is a curated plug-in bundle from Universal Audio, one of the mo
 ---
 
 ## Key Features
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/h4WAihWfaso" title="MorphVerb by United Plugins | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 - **Analog hardware emulations** — UAD is known for meticulous modeling of iconic studio gear, including SSL, Neve, and API-style processors
@@ -84,9 +78,6 @@ A: Check the official product page or UAD's site for current activation requirem
 ---
 
 ## Where to Buy
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/11iHfsl2QTk" title="POV You Buy Archetype Tim Henson X #polyphia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
  Don't let the deadline catch you off guard.

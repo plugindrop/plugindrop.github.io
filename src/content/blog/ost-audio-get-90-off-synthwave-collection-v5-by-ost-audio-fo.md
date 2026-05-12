@@ -17,9 +17,6 @@ draft: false
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WkWdA7LXw64" title="OST Audio — Get 90% off Synthwave Collection v5 by OST Audio for $59 (Normally $599) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ## What Is Synthwave Collection v5 by OST Audio?

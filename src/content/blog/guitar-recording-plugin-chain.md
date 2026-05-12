@@ -14,9 +14,6 @@ draft: false
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/J5oiNtfsW2o" title="Complete Guitar Recording Plugin Chain: Amp Sim to Mastering (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ## Quick Picks at a Glance

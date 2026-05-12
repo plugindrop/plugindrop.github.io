@@ -12,9 +12,6 @@ draft: false
 ---
 
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/RCtLp_EmJ2s" title="10 Best Free Piano VST Plugins in 2026 (Grand, Upright, Electric) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 |--------|-------|------|------------|-----|
 | LABS Soft Piano | Free | Sampled (felt) | Intimate character, LABS ecosystem | [Free Download](https://labs.spitfireaudio.com/) |
 | Piano One | Free | Sampled (grand) | Deep multi-velocity Yamaha-based sampling | [Official Site](https://www.kvraudio.com/product/piano-one-by-sound-magic) |

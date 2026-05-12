@@ -17,9 +17,6 @@ draft: false
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/AqHW5aL-i4g" title="Sonic Nomad — Get 85% off Cheap Keys by Sonic Nomad for $15 (Normally $99) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ## What Is Cheap Keys by Sonic Nomad?

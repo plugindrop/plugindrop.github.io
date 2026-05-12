@@ -12,9 +12,6 @@ draft: false
 ---
 **TL;DR:** Chow Tape Model is the most technically rigorous free tape simulation available in 2026 — KVR's technical community consistently benchmarks it against paid plugins at several times the price and rates it favorably on physical modeling accuracy. For producers who want analog harmonic coloring without a full tape machine parameter set, IVGI by Klanghelm is the first plugin r/WeAreTheMusicMakers and r/edmproduction recommend.
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wbQgt8u-Cm4" title="8 Best Free Tape Saturation VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ## Quick Picks at a Glance

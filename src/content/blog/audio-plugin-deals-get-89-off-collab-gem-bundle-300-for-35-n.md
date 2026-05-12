@@ -29,9 +29,6 @@ The Collab Gem Bundle 300 is a curated plugin collection available through Audio
 ---
 
 ## Key Features
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 - **Multi-plugin collection:** The bundle packages several plugins under a single purchase, consolidating cost versus buying titles individually.
@@ -93,9 +90,6 @@ A: Limited-time deals at this discount level can end without notice — the list
 ---
 
 ## Get the Deal
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/0F7QHWXDJxA" title="Positive Grid&#39;s Bias X Plugin – All Hype Or The Real Deal?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 At $35 against a $300 listed value, this is an 89% reduction that rarely appears outside of structured bundle sales. For producers who want to expand coverage across production categories at minimal cost, the math is straightforward.

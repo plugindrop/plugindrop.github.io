@@ -13,9 +13,6 @@ draft: false
 
 **TL;DR:** FabFilter Pro-Q 4 is the single most impactful purchase any producer can make in 2026 — its surgical precision and real-time spectrum analysis raise the quality ceiling of every mix it touches. Pair it with Valhalla Room for space and Serum for synthesis, and you've covered 80% of a professional production workflow before spending $500.
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="15 Essential VST Plugins Every Music Producer Needs in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ## Quick Picks at a Glance

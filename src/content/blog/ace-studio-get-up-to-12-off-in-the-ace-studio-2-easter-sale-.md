@@ -13,6 +13,11 @@ converted: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/yz1-mE5YZ2M" title="ACE Studio 2.0: Full Walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is ACE Studio 2?
 
 ACE Studio 2.0 is an AI-powered singing voice synthesizer and music production suite developed by Timedomain Tech. It generates realistic vocal performances from MIDI and lyrics input — no vocalist required. Version 2.0 expanded well beyond vocals, adding AI-driven virtual instruments, generative composition tools, and audio processing features like stem splitting and vocal-to-MIDI conversion. It integrates into standard DAW workflows via the ACE Bridge plugin (VST3, AU, AAX).

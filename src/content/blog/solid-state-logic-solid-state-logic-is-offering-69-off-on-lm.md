@@ -16,9 +16,6 @@ draft: false
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/u2sOswNDXNM" title="Solid State Logic — Solid State Logic is offering 69% off on LMC+ compressor plugin for Win & Mac — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ## What Is the SSL LMC+ Compressor Plugin?

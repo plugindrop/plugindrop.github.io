@@ -24,9 +24,6 @@ All In One InstaChord 2 Presets is a preset expansion library built specifically
 ---
 
 ## Key Features
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/LghBjpea8h8" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 - **Broad genre coverage** — the "all in one" positioning indicates the library spans multiple production styles rather than targeting a single niche
@@ -53,9 +50,6 @@ All In One InstaChord 2 Presets is a preset expansion library built specifically
 ---
 
 ## Alternatives at a Glance
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/LghBjpea8h8" title="Kissmetrics Overview - Top Features, Pros &amp; Cons, and Alternatives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 | Name | Price | Key Difference |
@@ -69,9 +63,6 @@ For producers already inside the InstaChord 2 ecosystem, an all-in-one pack cons
 ---
 
 ## FAQ
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/LghBjpea8h8" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 **Q: Do I need InstaChord 2 to use this preset pack?**
@@ -86,9 +77,6 @@ A: Compatibility depends on InstaChord 2 itself — any DAW that supports InstaC
 ---
 
 ## Where to Buy
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/LghBjpea8h8" title="POV You Buy Archetype Tim Henson X #polyphia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 At $39.60 against a $99.00 regular price, this 60% discount represents a concrete reduction that existing InstaChord 2 users won't encounter regularly. The $59.40 savings gap is meaningful for a preset library at this scope.

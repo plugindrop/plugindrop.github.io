@@ -11,9 +11,6 @@ draft: false
 ---
 **TL;DR:** u-he Diva is the community's undisputed benchmark for circuit-accurate analog emulation in 2026 — but OB-Xd (free) and the Arturia V Collection give you genre-ready vintage tones at a fraction of the cost and CPU overhead. This guide covers 12 vetted vintage synth VSTs across Moog, Roland, Oberheim, Sequential, ARP, and Yamaha lineages.
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/DHA0HjTm1fM" title="12 Best Vintage Synth VST Emulations in 2026 (Moog, Roland, Oberheim) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ## Quick Picks at a Glance

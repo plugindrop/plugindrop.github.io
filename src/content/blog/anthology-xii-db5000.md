@@ -18,9 +18,6 @@ converted: true
 </div>
 
 ## What Is Anthology XII?
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/cVbXbdGaAwU" title="Eventide Anthology XII - Let&#39;s see what&#39;s included and demo mix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 Anthology XII is a complete plugin collection bundle available through Plugin Boutique, categorized under their "Complete Collection" tier — the broadest bundle category on the platform. The XII designation indicates this is the twelfth iteration of the series, suggesting a long product lineage and cumulative refinement across versions. At a regular retail price of $1,999, it sits firmly in the professional-grade bundle segment.
@@ -28,9 +25,6 @@ Anthology XII is a complete plugin collection bundle available through Plugin Bo
 ---
 
 ## Key Features
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/sbSCXRrjIDk" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 - **Complete Collection Scope** — Positioned as a full-catalog bundle, covering a broad range of production tools in a single purchase
@@ -46,9 +40,6 @@ Anthology XII is a complete plugin collection bundle available through Plugin Bo
 ---
 
 ## Alternatives at a Glance
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/cVbXbdGaAwU" title="Analog Heat +FX — At A Glance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 | Name | Price | Key Difference |
@@ -62,9 +53,6 @@ If your primary gap is in synthesis and virtual instruments, a complete collecti
 ---
 
 ## FAQ
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/sbSCXRrjIDk" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 **Q: Where is Anthology XII available at this sale price?**

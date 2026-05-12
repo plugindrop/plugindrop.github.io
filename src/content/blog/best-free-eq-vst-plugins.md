@@ -13,9 +13,6 @@ draft: false
 
 **TL;DR:** TDR Nova is the best free EQ VST plugin in 2026 — a dynamic parametric equalizer that genuinely competes with premium tools costing $100 or more. If you only download one plugin from this list, make it Nova. Everything else here fills the gaps: linear phase mastering, analog character, surgical mixing, and vintage Pultec coloring.
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1CHFv4mWQYM" title="10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ## Quick Picks at a Glance

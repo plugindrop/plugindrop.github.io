@@ -13,9 +13,6 @@ draft: false
 ---
 **TL;DR:** FabFilter Pro-Q 4 remains the single best mixing EQ you can buy in 2026 — its dynamic EQ mode alone justifies the price for most engineers. Pair it with TDR Nova (free) for budget sessions, and you have professional-grade EQ covered at every price point without compromise.
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="Best Mixing Plugins 2026: Free & Paid for Every Stage of the Mix — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ## Quick Picks at a Glance

@@ -13,9 +13,6 @@ draft: false
 
 **TL;DR:** The fastest path to punchy, professional drums in 2026 is a five-step plugin chain: EQ → transient shaping → low-end reinforcement → bus compression → optional multiband finishing. FabFilter Pro-Q 4 is the non-negotiable anchor, but every tool in this chain earns its slot — including one free plugin that punches well above its price tag.
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rYLE97NbenM" title="Complete Drum Mixing Plugin Chain: Best Tools for Punchy Drums (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ## Quick Picks at a Glance

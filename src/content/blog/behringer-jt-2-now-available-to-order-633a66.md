@@ -13,6 +13,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/f4f4wvTNUOo" title="BEHRINGER JT-2 Sound Demo: Warm Pads, Punchy Leads, Huge Analog Tone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Behringer JT-2?
 
 The Behringer JT-2 is a Eurorack synthesizer voice module modeled after the legendary Roland Jupiter-8's voice architecture. It brings the characteristic sound of one of the most sought-after analog polysynths in history into a compact, modular format. Behringer has built its reputation on making classic analog circuits accessible at a fraction of vintage market prices — the JT-2 continues that mission for the modular community.

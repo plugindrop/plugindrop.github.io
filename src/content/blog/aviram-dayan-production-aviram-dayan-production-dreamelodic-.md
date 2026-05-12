@@ -19,17 +19,11 @@ draft: false
 
 
 ## What Is Aviram Dayan Production DreaMelodiC?
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/tgu08coZdeg" title="Aviram Dayan Production | DreaMelodiC 50% off - *Black Friday*" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 Aviram Dayan Production is an independent music software developer selling under the DreaMelodiC brand through a direct storefront. Buying direct means no third-party marketplace overhead — the developer sets prices and runs promotions on their own terms. The Black Sale applies to the entire product catalogue without stated exceptions.
 
 ## Key Features
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 The sale covers the full DreaMelodiC product line. A few consistent points across the storefront:
@@ -78,9 +72,6 @@ A: System requirements vary by product — check the official site for specs on 
 A: No specific end date has been confirmed publicly. Monitor the storefront directly for when pricing returns to normal.
 
 ## Get the Deal
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/0F7QHWXDJxA" title="Positive Grid&#39;s Bias X Plugin – All Hype Or The Real Deal?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 The DreaMelodiC Black Sale brings Aviram Dayan Production's full catalogue to 60% off — a significant discount for a direct-store independent developer that rarely has platform-driven sale events pushing prices down. Browse all available titles to find what fits your production workflow.

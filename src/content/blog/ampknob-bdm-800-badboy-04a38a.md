@@ -27,9 +27,6 @@ Ampknob BDM 800 Badboy is a guitar amp simulator plugin sold on Plugin Boutique.
 ---
 
 ## Key Features
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 - **Amp Simulation Engine** — Core technology designed to replicate the tone, distortion character, and dynamic response of a hardware amp
@@ -78,9 +75,6 @@ If you need a broad suite of amp and cab options across genres, AmpliTube's tier
 ---
 
 ## FAQ
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/zf-tYLqHpRs" title="Ultimate FAQ Plugin - Shortcodes and Attributes (Tutorial 01)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 **Q: Where can I buy Ampknob BDM 800 Badboy at this sale price?**
@@ -98,9 +92,6 @@ A: Refer to Plugin Boutique's current refund and returns policy directly on thei
 ---
 
 ## Get the Deal
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/0F7QHWXDJxA" title="Positive Grid&#39;s Bias X Plugin – All Hype Or The Real Deal?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 30% off brings the BDM 800 Badboy from ~~$53.90~~ to **$37.73** — a straightforward saving on a purpose-built amp simulator. Deals like this don't have guaranteed end dates, so check availability now.

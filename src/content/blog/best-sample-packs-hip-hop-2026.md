@@ -24,9 +24,6 @@ Splice's subscription model gives access to millions of samples across every hip
 Monthly credits model starts at around $8/month. Royalty-free license is included with every download.
 
 ### 2. MSXII Sound Design — Drum Kits and Loops
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/QRpM1ztAeqY" title="Chomplr: New iOS App from MSXII Sound Design" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 **Best for: Authentic boom bap and sample-flip-style sounds**
@@ -34,9 +31,6 @@ Monthly credits model starts at around $8/month. Royalty-free license is include
 MSXII is a community-trusted source for vinyl-textured boom bap. Their drum kits use processed, saturated samples that sit naturally in sampled-based hip-hop beats without heavy processing. Multiple "Trilogy" packs of drum kits, chop kits, and loop libraries at affordable prices ($15–$30 per pack). Frequently used by producers in the underground hip-hop space.
 
 ### 3. Looperman — Free Community Loops
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/KoH6UySnuVc" title="Looperman Is The Free Splice alternative!!!! #loop #splice #looperman #studio #traplife #emo #cookup" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 **Best for: Free royalty-free loops for all budgets**
@@ -56,9 +50,6 @@ Cymatics produces high-production-quality sample packs focused on modern trap an
 Their "Infinity" bundle collects multiple packs at a significant discount — worth checking during sales.
 
 ### 5. The Drum Broker — Classic Hip-Hop Drum Kits
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/z4ZxVvbMvqs" title="Boom and Bap: Drum Broker Essential Kicks review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 **Best for: Authentic vintage drum machine sounds**
@@ -68,9 +59,6 @@ The Drum Broker specializes in high-quality drum kits built from MPC-style sampl
 Individual packs range from $20–$50. Quality is consistently high across the catalog.
 
 ### 6. Native Instruments — Maschine Expansion Packs
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/VDHu7L2pv0g" title="Exploring the all-new Komplete Start free plugin bundle | Native Instruments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 **Best for: Fully playable hip-hop kits with instrument integration**
@@ -90,9 +78,6 @@ Producergrind offers construction kits that include full stems — separate trac
 Multiple free starter packs are available with email signup. Premium packs range from $15–$40.
 
 ### 8. Noiiz — Subscription Library with Quality Curation
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/ILHWMVWIUWc" title="Noiiz Plugin - what is it  ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 **Best for: Curated hip-hop content at subscription pricing**

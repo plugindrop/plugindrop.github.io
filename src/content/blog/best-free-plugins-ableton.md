@@ -13,9 +13,6 @@ draft: false
 
 **TL;DR:** Vital is the best free VST plugin for Ableton Live in 2026 — a spectral wavetable synthesizer that rivals premium paid synths in sound design depth, all at zero cost. Pair it with Valhalla Supermassive for reverb and TDR Nova for dynamic EQ, and you have a studio-grade signal chain without spending a penny.
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="12 Best Free VST Plugins for Ableton Live in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ## Quick Picks at a Glance

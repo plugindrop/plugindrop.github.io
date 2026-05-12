@@ -22,6 +22,11 @@ heroImage: "/images/auddict-auddict-has-rteleased-royal-viol-viola-da-gamba-libr
 </div>
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/hgGdEMZPQ3Y" title="Auddict &quot;Master Brass&quot; - The Samplecast Big Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Royal Viol by Auddict?
 
 Royal Viol is a Kontakt instrument library built around the viola da gamba, a fretted, bowed string instrument from the Renaissance and Baroque periods. Auddict — a UK-based developer known for detailed, performance-oriented sample libraries — has sampled the viol across multiple articulations and dynamics to give composers a realistic, playable version of the instrument inside Kontakt. The full version of Kontakt is required; it is not compatible with the free Kontakt Player.
@@ -29,9 +34,6 @@ Royal Viol is a Kontakt instrument library built around the viola da gamba, a fr
 ---
 
 ## Key Features
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 - **Dedicated viola da gamba sampling** — focused entirely on the viol's characteristic tone, distinct from modern cello or viola

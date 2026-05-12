@@ -13,14 +13,8 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/n46hnnvQ2t8" title="Arturia V Collection — Official Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin-bottom:1.5rem"></iframe>
-</div>
 
 ## What Is V Collection 11 Pro?
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Yq6OLLwn7Bk" title="Overview | What is V Collection 11 Intro?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 Arturia V Collection is a bundle of software recreations of classic hardware instruments. Version 11 brings the total to **45 instruments** — analog synths, digital synths, electric pianos, organs, and the Augmented hybrid series. Arturia has been building these models for over a decade using TAE (True Analog Emulation) technology.
@@ -35,9 +29,6 @@ Arturia V Collection is a bundle of software recreations of classic hardware ins
 - **Augmented Yangtze** — Hybrid instrument drawing on traditional Chinese sounds
 
 ## Key Features
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 - **45 instruments** — Analog synths, digital synths, keyboards, organs, and hybrid instruments

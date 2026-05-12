@@ -20,9 +20,6 @@ score: 0.42
 Amorph is a text-to-DSP plugin from **Artists in DSP** that lets you generate fully working audio instruments and effects inside your DAW using text prompts and the Cmajor programming language. The workflow is simple: ask an LLM (like ChatGPT or Gemini) to write DSP code based on your idea, paste it into Amorph, and it compiles into a playable plugin with a generated interface. It ships as two separate plugins — **Amorph Instrument** (synths, drones, noise generators) and **Amorph Effect** (reverbs, delays, distortion, filters) — in VST3 and AU formats for Windows and macOS.
 
 ## Key Features in the v0.9.9 Update
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/AFPjodKoMR4" title="Polybrush 1.1 Update Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 - **Custom UI Engine** — Design your own graphical interfaces for generated patches using HTML/JS. Think custom visualizers, boutique-style knobs, and fully branded layouts instead of generic auto-generated controls.
@@ -80,9 +77,6 @@ A: No. The intended workflow is to use an external LLM (like ChatGPT or Gemini) 
 A: It's a new third variant introduced in v0.9.9 that processes MIDI input and outputs MIDI, letting you create custom arpeggiators, sequencers, and MIDI logic tools via text prompts.
 
 ## Get the Deal
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/0F7QHWXDJxA" title="Positive Grid&#39;s Bias X Plugin – All Hype Or The Real Deal?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 A free plugin that turns text prompts into working instruments, effects, and now MIDI tools — with custom UI design on top. Hard to beat that price.

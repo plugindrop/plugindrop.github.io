@@ -16,9 +16,6 @@ draft: true
 ---
 
 ## 2B Crushed: Free Saturation Plugin From 2B Played Music
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/FBl9ZpLsO8I" title="2B Reverbed reverb plug-in" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 Free is free. When a paid plugin goes to $0 with a coupon, you grab it first and ask questions later.
@@ -105,9 +102,6 @@ A: No confirmed expiry has been publicly stated, but free coupon deals are typic
 ---
 
 ## Get the Deal
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/0F7QHWXDJxA" title="Positive Grid&#39;s Bias X Plugin – All Hype Or The Real Deal?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 ~~$55~~ → **$0**. Apply coupon **CRUSH26** and it's yours. No reason to wait on a free plugin.

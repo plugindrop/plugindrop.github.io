@@ -26,9 +26,6 @@ Dexibell is an Italian company known primarily for high-end digital pianos and s
 They offer two plugin titles under this technology: the **T2L Piano** (acoustic pianos) and the **T2L Electric Piano** (electric pianos, clavs, and more). Both are available as VST2, VST3, AAX, CLAP, and Audio Units on macOS and Windows, with additional LV2 support on Linux.
 
 ## Key Features
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 
 - **Hybrid sampling + modeling engine** — T2L combines high-resolution samples with real-time physical modeling for dynamic, expressive response that pure sample libraries can't match.

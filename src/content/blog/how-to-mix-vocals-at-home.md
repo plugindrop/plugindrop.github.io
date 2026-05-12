@@ -12,9 +12,6 @@ draft: false
 ---
 **TL;DR:** Learning how to mix vocals at home in 2026 doesn't require an expensive plugin budget — TDR Nova and Valhalla Supermassive cover EQ and reverb at professional quality for free. If you want a single tool that handles the entire chain intelligently, iZotope Nectar 4 is the community's consistent recommendation for AI-assisted vocal production.
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/8q-mrB1jozE" title="How to Mix Vocals at Home: Complete 2026 Guide (With Plugin Recommendations) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ## Quick Picks at a Glance

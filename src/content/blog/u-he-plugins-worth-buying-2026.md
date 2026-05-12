@@ -12,9 +12,6 @@ draft: false
 ---
 **TL;DR:** u-he builds some of the most acoustically faithful virtual instruments on the market, and the lineup justifies the price for producers who are serious about synthesis. Diva is the community's consistent top pick for analog warmth and vintage character; Hive 2 is the smarter buy if CPU efficiency matters more than circuit-level authenticity.
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-PO84tYA6mA" title="u-he Plugins: Which Ones Are Worth Buying in 2026? (Diva, Repro, Hive) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ## Quick Picks at a Glance
