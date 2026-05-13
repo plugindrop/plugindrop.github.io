@@ -8,7 +8,7 @@ score: 5.60
 heroImage: "/images/free-plugins-buy-2-get-2-free-april-2026-90473d.jpg"
 discount: "Buy 2 Get 2 Free"
 xText: "$500 in free plugins just dropped, buy 2 get 2 free. not even a sale. go claim yours before stock dies."
-draft: false
+draft: true
 ---
 **TL;DR:** Waves is running a Buy 2 Get 2 Free promotion in April 2026 — pick any four plugins from the eligible catalog and pay for just two. That's an effective 50% off your total basket. Verify current pricing on the product page, then [grab the deal at Waves](https://www.pluginboutique.com/deals/22694?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugins-buy-2-get-2-free-april-2026-90473d) before the offer ends.
 

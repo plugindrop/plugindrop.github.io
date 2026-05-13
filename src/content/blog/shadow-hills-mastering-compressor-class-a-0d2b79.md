@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "compressor", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10210-Shadow-Hills-Mastering-Compressor-Class-A?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-class-a-0d2b79"
 heroImage: /images/shadow-hills-mastering-compressor-class-a-0d2b79.jpg
 score: 8.25
-draft: false
+draft: true
 converted: true
 ---
 **Shadow Hills Mastering Compressor Class A** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10210-Shadow-Hills-Mastering-Compressor-Class-A?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-class-a-0d2b79)

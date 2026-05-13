@@ -6,7 +6,7 @@ tags: ["review", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=plugindrop&utm_medium=article&utm_campaign=primavera-99699e&a_aid=69cb95abe1763"
 heroImage: /images/primavera-99699e.jpg
 score: 6.59
-draft: false
+draft: true
 converted: true
 ---
 **Primavera Reverb Plugin** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/17-Reverb/12011-Primavera?utm_source=plugindrop&utm_medium=article&utm_campaign=primavera-99699e&a_aid=69cb95abe1763)

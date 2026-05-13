@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production", "synth"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11198-M1?utm_source=plugindrop&utm_medium=article&utm_campaign=m1-plugin-boutique-deal-596503&a_aid=69cb95abe1763"
 heroImage: /images/m1-plugin-boutique-deal-596503.jpg
 score: 7.65
-draft: false
+draft: true
 converted: true
 ---
 **Korg M1 Synthesizer** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11198-M1?utm_source=plugindrop&utm_medium=article&utm_campaign=m1-plugin-boutique-deal-596503&a_aid=69cb95abe1763)

@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-productio
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8991-SLAP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slap-281ca7"
 heroImage: /images/slap-281ca7.jpg
 score: 7.35
-draft: false
+draft: true
 converted: true
 ---
 **SLAP** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8991-SLAP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slap-281ca7)

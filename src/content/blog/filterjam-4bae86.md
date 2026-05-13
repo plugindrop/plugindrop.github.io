@@ -9,7 +9,7 @@ score: 6.25
 dealPrice: "FREE"
 originalPrice: ""
 xText: "free creative filter plugin from AudioThing. multi-band resonant filter, four filter types, modulation built in. plugin boutique, no cost."
-draft: false
+draft: true
 ---
 **TL;DR:** Filterjam by AudioThing is **FREE** on Plugin Boutique — a multi-band resonant filter plugin for Mac and Windows (VST/AU/AAX). No catch, no trial period. [Download it free here.](https://www.pluginboutique.com/product/2-Effects/19-Filter/3022-Filterjam?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=filterjam-4bae86)
 

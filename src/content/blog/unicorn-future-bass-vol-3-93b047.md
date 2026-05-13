@@ -8,7 +8,7 @@ heroImage: "/images/unicorn-future-bass-vol-3-93b047.jpg"
 score: 4.70
 dealPrice: "$17.99"
 xText: "if you're building future bass tracks, vol 3 just dropped and the sound design is actually something special. layering and modulation that makes you want to dig in"
-draft: false
+draft: true
 ---
 **TL;DR:** Unicorn Future Bass Vol 3 is currently on sale at ADSR Sounds for **$17.99** — verify the original price on the product page to see your full savings. If you produce future bass and run NI Massive, this is a targeted preset pack worth checking out. [Grab it here while the deal is live.](https://www.adsrsounds.com/product/massive-presets/unicorn-future-bass-vol-3/?a_aid=plugindrop&data1=unicorn-future-bass-vol-3-93b047&utm_source=plugindrop&utm_medium=article&utm_campaign=unicorn-future-bass-vol-3-93b047)
 

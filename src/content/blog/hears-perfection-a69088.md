@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "synth", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088"
 heroImage: /images/hears-perfection-a69088.jpg
 score: 8.55
-draft: false
+draft: true
 converted: true
 ---
 **HEARS Perfection** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088)

@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?search_query=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643"
 heroImage: /images/th-u-rob-balducci-2a0643.jpg
 score: 3.35
-draft: false
+draft: true
 converted: true
 ---
 ** [Check the current price here.](https://www.pluginboutique.com/search?search_query=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643)

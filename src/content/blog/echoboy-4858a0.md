@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=echoboy-4858a0
 heroImage: /images/echoboy-4858a0.jpg
 score: 8.50
-draft: false
+draft: true
 converted: true
 ---
 **EchoBoy** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=echoboy-4858a0)

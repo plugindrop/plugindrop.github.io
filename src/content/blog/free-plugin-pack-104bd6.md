@@ -7,7 +7,7 @@ affiliate: "https://www.waves.com/bundles/free-plugin-pack?utm_source=plugindrop
 score: 4.95
 dealPrice: "FREE"
 xText: "free plugin pack is live. reverb that sounds like $100+ plugins. saturation and eq are genuinely good. seriously just grab this one"
-draft: false
+draft: true
 ---
 **TL;DR:** Waves is giving away a free plugin pack — no coupon needed, just grab it. This deal is live now and costs nothing to add to your DAW toolkit. [Claim your free Waves plugins here.](https://www.waves.com/bundles/free-plugin-pack?utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugin-pack-104bd6)
 

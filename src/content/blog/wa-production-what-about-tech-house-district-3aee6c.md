@@ -10,7 +10,7 @@ dealPrice: "$11.96"
 originalPrice: "$29.9"
 discount: "60% OFF"
 xText: "the preset depth on WA's new tech house pack is architectural. like actual production-level sound design. 60% off on a new drop — never happens"
-draft: false
+draft: true
 ---
 **TL;DR:** Wa Production's What About Tech House District is currently 60% off at ADSR Sounds — drop from ~~$29.90~~ to just **$11.96**. That's a solid window to add a genre-specific preset pack to your tech house toolkit without the full price tag. [Grab the deal here.](https://www.adsrsounds.com/product/presets/wa-production-what-about-tech-house-district/?a_aid=plugindrop&data1=wa-production-what-about-tech-house-district-3aee6c&utm_source=plugindrop&utm_medium=article&utm_campaign=wa-production-what-about-tech-house-district-3aee6c)
 

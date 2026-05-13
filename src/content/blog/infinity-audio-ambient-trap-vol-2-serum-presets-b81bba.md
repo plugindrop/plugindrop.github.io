@@ -8,7 +8,7 @@ heroImage: "/images/infinity-audio-ambient-trap-vol-2-serum-presets-b81bba.jpg"
 score: 5.70
 dealPrice: "$19.99"
 xText: "infinity audio vol 2 landed. if you work in serum the ambient trap sound design is worth your time — these aren't just loops, actual preset architecture"
-draft: false
+draft: true
 ---
 **TL;DR:** Infinity Audio Ambient Trap Vol 2 is currently available at ADSR Sounds for **$19.99** — a dedicated Serum preset pack built for the atmospheric, melodic side of trap production. [→ Get Infinity Audio Ambient Trap Vol 2 at ADSR Sounds](https://www.adsrsounds.com/product/presets/infinity-audio-ambient-trap-vol-2-serum-presets/?a_aid=plugindrop&data1=infinity-audio-ambient-trap-vol-2-serum-presets-b81bba&utm_source=plugindrop&utm_medium=article&utm_campaign=infinity-audio-ambient-trap-vol-2-serum-presets-b81bba)
 

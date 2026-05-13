@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1"
 heroImage: /images/pulsar-1178-8c9fe1.jpg
 score: 7.95
-draft: false
+draft: true
 converted: true
 ---
 **Pulsar 1178** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1)

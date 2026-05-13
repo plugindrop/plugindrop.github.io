@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "vocal", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15002-Pulsar-Vocal-Studio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-vocal-studio-a8f5e8"
 heroImage: /images/pulsar-vocal-studio-a8f5e8.jpg
 score: 8.45
-draft: false
+draft: true
 converted: true
 ---
 **Pulsar Vocal Studio** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15002-Pulsar-Vocal-Studio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-vocal-studio-a8f5e8)

@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17137-Bus-Clipper?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bus-clipper-837a04"
 heroImage: /images/bus-clipper-837a04.jpg
 score: 7.55
-draft: false
+draft: true
 converted: true
 ---
 **Bus Clipper** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17137-Bus-Clipper?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bus-clipper-837a04)

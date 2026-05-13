@@ -6,7 +6,7 @@ tags: ["sale", "bundle", "music-production"]
 affiliate: "https://pluginfox.com/products/slate-digital-custom-series?utm_source=affiliate-bot&utm_medium=article&utm_campaign=custom-series-bundle-b45887"
 heroImage: "/images/custom-series-bundle-b45887.png"
 score: 4.30
-draft: false
+draft: true
 ---
 **TL;DR:** The Slate Digital Custom Series Bundle is available at PluginFox — grab a suite of professional mixing tools in one package for less than buying them separately. Check the product page for current pricing. [Grab the bundle at PluginFox →](https://pluginfox.com/products/slate-digital-custom-series?utm_source=affiliate-bot&utm_medium=article&utm_campaign=custom-series-bundle-b45887)
 

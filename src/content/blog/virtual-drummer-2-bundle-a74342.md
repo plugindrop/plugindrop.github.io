@@ -6,7 +6,7 @@ tags: ["review", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-drummer-2-bundle-a74342"
 heroImage: /images/virtual-drummer-2-bundle-a74342.jpg
 score: 9.45
-draft: false
+draft: true
 converted: true
 ---
 **Virtual Drummer 2 Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-drummer-2-bundle-a74342)

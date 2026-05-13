@@ -10,7 +10,7 @@ dealPrice: "$5"
 originalPrice: "$14.99"
 discount: "67% OFF"
 xText: "58% off brandon chapa's new hihat loops. nobody's really talking about these yet but a good hihat kit does more for your pocket than you think"
-draft: false
+draft: true
 ---
 **TL;DR:** Brandon Chapa's The Pulse Hi Hat Midi Loop Kit is currently 58% off at ADSR Sounds — drop from ~~$59.99~~ to just $24.99. That's $35 in savings on a dedicated hi-hat MIDI library from a well-known trap and hip-hop production educator. [Grab the deal at ADSR Sounds.](https://www.adsrsounds.com/product/presets/brandon-chapa-the-pulse-hi-hat-midi-loop-kit/?a_aid=plugindrop&data1=brandon-chapa-the-pulse-hi-hat-midi-loop-kit-942b2f&utm_source=plugindrop&utm_medium=article&utm_campaign=brandon-chapa-the-pulse-hi-hat-midi-loop-kit-942b2f)
 

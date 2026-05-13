@@ -8,7 +8,7 @@ heroImage: "/images/street-talk-trap-sample-pack-709771.jpg"
 score: 6.25
 dealPrice: "$14"
 xText: "trap sample packs don't go this cheap. street talk hit 76% off and it's the lowest i've ever clocked — grab it before they realize what happened."
-draft: false
+draft: true
 ---
 **TL;DR:** STREET TALK by TKID The Producer is currently **$25** — down from ~~$105.99~~ — at ADSR Sounds, a 76% discount on a focused trap production library. Sales at this depth on individual packs are less common than shallow sitewide promotions, making this a notable price point. [Grab STREET TALK at ADSR Sounds →](https://www.adsrsounds.com/product/presets/tkid-the-producer-street-talk-trap-sample-pack/?a_aid=plugindrop&data1=street-talk-trap-sample-pack-709771&utm_source=plugindrop&utm_medium=article&utm_campaign=street-talk-trap-sample-pack-709771)
 

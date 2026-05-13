@@ -6,7 +6,7 @@ tags: ["review", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/10033-Lifeline-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-bundle-be494b"
 heroImage: /images/lifeline-bundle-be494b.jpg
 score: 8.35
-draft: false
+draft: true
 converted: true
 ---
 **Lifeline Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/10033-Lifeline-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-bundle-be494b)

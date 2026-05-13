@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "music-production", "kontakt", "choir"]
 affiliate: "https://www.pluginboutique.com/search?search_query=choirs+solo+vocals&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c"
 heroImage: /images/choirs-solo-vocals-102b4c.jpg
 score: 4.50
-draft: false
+draft: true
 converted: true
 ---
 **8Dio Pick Any 3 Choirs — $69 Deal** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?search_query=choirs+solo+vocals&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=choirs-solo-vocals-102b4c)

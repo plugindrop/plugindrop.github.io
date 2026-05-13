@@ -8,7 +8,7 @@ heroImage: "/images/unison-midi-box-free-teaser-8d9eef.jpg"
 score: 5.50
 dealPrice: "FREE"
 xText: "pattern generation that sits in your workflow like butter? unison midi box teaser dropped free right now. not the usual filler plugin energy"
-draft: false
+draft: true
 ---
 **TL;DR:** Unison Audio's MIDI Box is available as a free teaser — grab it at no cost right now. This is a limited-opportunity freebie from a well-known music production resource brand. [Claim the free download here.](https://unison.audio/ref/jc374/product/midi-box-free-teaser/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-box-free-teaser-8d9eef)
 

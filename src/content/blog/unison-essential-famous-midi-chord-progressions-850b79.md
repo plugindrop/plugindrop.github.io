@@ -8,7 +8,7 @@ heroImage: "/images/unison-essential-famous-midi-chord-progressions-850b79.jpg"
 score: 5.50
 dealPrice: "FREE"
 xText: "famous progressions from songs you know just dropped free. exact midi shapes. no more hunting"
-draft: false
+draft: true
 ---
 **TL;DR:** Unison Essential Famous MIDI Chord Progressions is currently **FREE** at Unison Audio. Grab a library of professionally crafted chord progressions for your DAW at zero cost. [Snag it free here](https://unison.audio/ref/jc374/product/unison-essential-famous-midi-chord-progressions/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-essential-famous-midi-chord-progressions-850b79) before the deal changes.
 

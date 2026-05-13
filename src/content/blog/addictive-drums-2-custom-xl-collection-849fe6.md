@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "bundle", "music
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xl-collection-849fe6"
 heroImage: /images/addictive-drums-2-custom-xl-collection-849fe6.jpg
 score: 9.45
-draft: false
+draft: true
 converted: true
 ---
 **Addictive Drums 2 Custom XL Collection** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xl-collection-849fe6)

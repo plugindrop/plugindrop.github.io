@@ -6,7 +6,7 @@ tags: ["review", "software synthesizers  samplers", "virtual instruments", "cher
 affiliate: "https://www.pluginboutique.com/search?search_query=ds+2+synthesizer&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d"
 heroImage: /images/cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d.jpg
 score: 4.27
-draft: false
+draft: true
 converted: true
 ---
 **Cherry Audio Intros Crumar DS-2 Synthesizer Plugin** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?search_query=ds+2+synthesizer&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d)
