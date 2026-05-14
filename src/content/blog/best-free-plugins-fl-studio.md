@@ -83,7 +83,7 @@ Surge XT packs an almost intimidating feature set into a free open-source packag
 
 ### TAL-NoiseMaker — Fast, playable virtual analog classic
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ZoMsXVFoAno" title="TAL-NoiseMaker — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="TAL-NoiseMaker — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** TAL Software
 - **Price:** Free
@@ -101,7 +101,7 @@ TAL-NoiseMaker is the ideal grab-and-play analog synth for producers who don't w
 
 ### OB-Xd — Warm analog polysynth emulation
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mfJ6WlZWg1M" title="OB-Xd — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="OB-Xd — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** discoDSP
 - **Price:** Free
@@ -118,7 +118,7 @@ OB-Xd models the classic Oberheim OB-X architecture with impressive accuracy, de
 
 ### Dexed — The ultimate free FM synthesizer
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wSs1-020nNY" title="Dexed — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="Dexed — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Digital Suburban
 - **Price:** Free (open source)
@@ -248,7 +248,7 @@ Valhalla Supermassive delivers massive, lush reverbs and delays that range from 
 
 ### Dragonfly Reverb — Four purpose-built reverb algorithms in one download
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/USp0xBkoz2c" title="Dragonfly Reverb — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="Dragonfly Reverb — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Michael Willis
 - **Price:** Free (open source)

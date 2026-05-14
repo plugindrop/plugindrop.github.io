@@ -27,16 +27,28 @@ Open-source hybrid synth with 3 oscillators, 14 filter algorithms, and a deep mo
 Faithful emulation of the Yamaha DX7 — loads original DX7 SysEx patches. FM synthesis made accessible with a modern UI. [Full article](/posts/dexed-free-dx7-emulation/).
 
 ### 4. Helm
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/kcbOGUej_n4" title="HELM - Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 Polyphonic synth with a clean visual interface. Two oscillators, sub-oscillator, built-in effects, and a step sequencer. Lightweight and straightforward.
 
 ## Effects
 
 ### 5. Valhalla Supermassive
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/gUa6b11mGS4" title="Plugin Review: Valhalla SUPERMASSIVE!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 18+ reverb/delay modes from the team behind VintageVerb and Plate. Massive tails, warp effects, and near-zero CPU usage. Permanently free. [Full breakdown here](/posts/best-free-reverb-vst-plugins/).
 
 ### 6. Soundtoys Little Plate (When Available)
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Cio7zhnIIvg" title="Little Plate by Soundtoys | The Best Plate Reverb of 2018?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 
 EMT 140 plate reverb — three knobs, instant results. Soundtoys occasionally offers it free for limited periods. Worth watching for. [Check availability](/posts/soundtoys-little-plate-free-download/).
 

@@ -43,7 +43,7 @@ Every plugin in this list is free — no trial, no crippled demo. The two paid o
 
 ### Chow Tape Model — Physics-based tape modeling the free tier shouldn't have
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ISeYhK1hpyg" title="Chow Tape Model — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/48kBX8AvYuA" title="Chow Tape Model — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** ChowDSP (Jatin Chowdhury)
 - **Price:** Free (open source, GPL license)
@@ -62,7 +62,7 @@ The parameter count is substantial for a tool often used at conservative setting
 
 ### FERRIC TDS — Tape dynamics without the full tape machine learning curve
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/US1Vl3qK0Ug" title="FERRIC TDS — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/48kBX8AvYuA" title="FERRIC TDS — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Variety of Sound (Dieter Scherer)
 - **Price:** Free
@@ -77,7 +77,7 @@ FERRIC TDS (Tape Dynamics Simulator) focuses exclusively on tape's compression a
 
 ### Tape Cassette 2 — Built for cassette character, not reel-to-reel emulation
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/YXR114od8dY" title="Tape Cassette 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/48kBX8AvYuA" title="Tape Cassette 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Caelum Audio
 - **Price:** Free
@@ -94,7 +94,7 @@ Tape Cassette 2 models the specific character of compact cassette tape — narro
 
 ### IVGI — Klanghelm's free analog tone with zero setup friction
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/KwiPGtRPvlo" title="IVGI — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/48kBX8AvYuA" title="IVGI — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Klanghelm
 - **Price:** Free (donationware)
@@ -111,7 +111,7 @@ IVGI is a focused analog saturation plugin from Klanghelm, a developer with a st
 
 ### TesslaSE — Console-style transformer density on any channel
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ViCrUWaaG9c" title="TesslaSE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/48kBX8AvYuA" title="TesslaSE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Variety of Sound (Dieter Scherer)
 - **Price:** Free
@@ -141,7 +141,7 @@ Caramel is available through MeldaProduction's MFreeEffectsBundle, a package of 
 
 ### Saturation Knob — Softube's no-decisions saturator for fast session work
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/5B7F8_ygjTs" title="Saturation Knob — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/48kBX8AvYuA" title="Saturation Knob — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Softube
 - **Price:** Free
@@ -184,7 +184,7 @@ The BPB Saturator offers four saturation modes — Soft, Hard, Tape, and Clip �
 
 ### Soundtoys Decapitator — Five hardware-modeled saturation characters, one plugin
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_3Q3U-v0pzA" title="Soundtoys Decapitator — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/48kBX8AvYuA" title="Soundtoys Decapitator — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** $199
