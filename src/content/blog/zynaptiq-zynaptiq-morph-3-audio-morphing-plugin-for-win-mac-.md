@@ -10,7 +10,7 @@ score: 4.75
 discount: "47% OFF"
 saleExpiry: "2026-05-14"
 xText: "morphing plugin that doesn't sound like two sources fighting each other. morph 3 is 47% off. lowest price i've caught."
-draft: false
+draft: true
 ---
 **TL;DR:** Zynaptiq Morph 3 — one of the most technically sophisticated audio morphing plugins on the market — is currently **47% off** until May 14th. Prices aren't listed here (deals can shift), so verify current pricing and grab it directly at [zynaptiq.com/morph](https://www.zynaptiq.com/morph/).
 

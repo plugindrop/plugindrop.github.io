@@ -10,7 +10,7 @@ dealPrice: "$15"
 discount: "69% OFF"
 saleExpiry: "2026-05-14"
 xText: "ssl lmc+ at 69% off and this basically never happens. transparent comp that sits in a mix like butter. absolute sleeper deal if you've been considering it seriously."
-draft: false
+draft: true
 ---
 **TL;DR:** SSL's LMC+ compressor plugin is down to **$15** — a 69% discount valid through May 14th. This is the plugin version of one of the most famous "happy accident" compressor circuits in studio history. [Grab it directly from SSL here.](https://store.solidstatelogic.com/plug-ins/ssl-lmc)
 
