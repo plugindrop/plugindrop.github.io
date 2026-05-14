@@ -58,7 +58,7 @@ The free version covers the vast majority of production and mastering needs, inc
 
 ### OTT — The community's essential multiband tool for electronic music
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/aZ-V30E7pOg" title="OTT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Z8EFobAdlJo" title="OTT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
 - **Price:** Free
@@ -77,7 +77,7 @@ The interface is deliberately minimal: one depth knob, per-band time controls, a
 
 ### MMultiband — Deep customization in a free package
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/UmdJJJtpUQQ" title="MMultiband — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Z8EFobAdlJo" title="MMultiband — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** MeldaProduction
 - **Price:** Free (part of MFreeFXBundle)
@@ -96,7 +96,7 @@ The interface demands more initial investment than OTT or TDR Nova, which reflec
 
 ### Waves C6 Lite — A broadcast and mastering workhorse, now free
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/z7eGOpPuSVM" title="Waves C6 Lite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Z8EFobAdlJo" title="Waves C6 Lite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves Audio
 - **Price:** Free (via Waves account)
@@ -115,7 +115,7 @@ Account registration and Waves' license management software are required. For pr
 
 ### Kilohearts Multiband Compressor — Clean integration for a modular ecosystem
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/FBEBh3MuMkU" title="Kilohearts Multiband Compressor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Z8EFobAdlJo" title="Kilohearts Multiband Compressor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** Free
@@ -134,7 +134,7 @@ It is a focused tool without deep feature layers, which is either a feature or a
 
 ### GVST GMulti — Lightweight and CPU-efficient for Windows producers
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/u0jHC_SYOuE" title="GVST GMulti — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Z8EFobAdlJo" title="GVST GMulti — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** GVST (Graham Yeadon)
 - **Price:** Free
@@ -203,7 +203,7 @@ Its value in 2026 is as a utility and educational resource: quick three-band glu
 
 ### iZotope Ozone 12 — AI-assisted multiband mastering suite
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="iZotope Ozone 12 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Z8EFobAdlJo" title="iZotope Ozone 12 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** From $249 Standard; frequently discounted

@@ -137,7 +137,7 @@ Dexed is a faithful DX7 emulation that also loads native DX7 patches (.syx files
 
 ### Spitfire LABS — Endless free cinematic sound sources
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-Sm714Dlci8" title="Spitfire LABS — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="Spitfire LABS — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** Free
@@ -158,7 +158,7 @@ Good mixing starts with great EQ and compression. These four free plugins compet
 
 ### TDR Nova — The best free dynamic EQ for mixing
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1CHFv4mWQYM" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Tokyo Dawn Records
 - **Price:** Free (GE upgrade available)
@@ -211,7 +211,7 @@ Rough Rider 3 is not a transparent compressor — it's a character compressor th
 
 ### TDR Kotelnikov — Mastering-grade free bus compressor
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Cpokm0j1DXQ" title="TDR Kotelnikov — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="TDR Kotelnikov — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Tokyo Dawn Records
 - **Price:** Free (GE upgrade available)
@@ -230,7 +230,7 @@ TDR Kotelnikov is widely considered the best free mastering compressor available
 
 ### Valhalla Supermassive — The best free reverb plugin in 2026
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** Free
@@ -284,7 +284,7 @@ Ozone Imager 2 provides stereo field widening and narrowing with a real-time Lis
 
 ### MFreeFXBundle — 37 free mixing tools in one install
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/0OlrhpGNeZ0" title="MFreeFXBundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="MFreeFXBundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Melda Production
 - **Price:** Free
@@ -301,7 +301,7 @@ MFreeFXBundle is arguably the best single download in free plugin history: 37 fu
 
 ### CHOW Tape Model — Physically modeled analog tape saturation
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/dBu_h-CAfhI" title="CHOW Tape Model — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="CHOW Tape Model — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Jatin Chowdhury
 - **Price:** Free (open source)
@@ -334,7 +334,7 @@ If the free toolkit is serving you well and you're ready to invest, these three 
 
 ### Harmor — FL Studio's own additive/resynthesis powerhouse
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/qsjxgut9_js" title="Harmor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="Harmor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Image-Line
 - **Price:** ~$99 (included in FL Studio All Plugins edition)

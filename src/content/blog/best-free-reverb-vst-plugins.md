@@ -45,7 +45,7 @@ This guide covers the five best free reverb VST plugins available right now, tes
 
 ### Valhalla Supermassive — The undisputed king of free reverb
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LtmYmNcEkUk" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** Free
@@ -121,7 +121,7 @@ The controls are simple and clearly mapped: Size, Pre-delay, Decay, Damping, and
 
 ### Convology XT — The best free convolution reverb available
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/uHROIpbqUeQ" title="Convology XT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LtmYmNcEkUk" title="Convology XT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Impulse Record
 - **Price:** Free
@@ -158,7 +158,7 @@ The free plugins above are production-ready. These three paid options are for pr
 
 ### FabFilter Pro-R 2 — Mastering-grade reverb with surgical control
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BuIXvKKtVSw" title="FabFilter Pro-R 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LtmYmNcEkUk" title="FabFilter Pro-R 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $199
