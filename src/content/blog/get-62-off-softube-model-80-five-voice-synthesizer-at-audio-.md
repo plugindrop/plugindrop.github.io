@@ -10,7 +10,7 @@ dealPrice: "$59"
 discount: "62% OFF"
 saleExpiry: "2026-05-15"
 xText: "62% off model 80 is absolutely wild. softube doesn't discount this deep. warm vintage fm that somehow doesn't murder your cpu. this is the price to finally grab it."
-draft: false
+draft: true
 ---
 **TL;DR:** Softube Model 80 Five Voice Synthesizer is **62% off** — down to just **$59** at Audio Deluxe until May 15th. That's a steep discount for an analog-modeled polyphonic synth from one of the more premium plugin developers on the market. [Grab it here before the deadline.](https://audiodeluxe.com/collections/software/products/softube-model-80-five-voice-synthesizer)
 

@@ -10,7 +10,7 @@ dealPrice: "$58.8"
 discount: "40% OFF"
 saleExpiry: "2026-05-15"
 xText: "40% off rc-20 and that's rare. tape saturation that actually melts into a mix without making itself known."
-draft: false
+draft: true
 ---
 **TL;DR:** XLN Audio RC-20 Retro Color is **40% off at $58.80** through May 15th — a firm deadline on a plugin that's become a staple in lo-fi and vintage production workflows. The deal is live now at Audio Deluxe. [Grab RC-20 Retro Color →](https://audiodeluxe.com/collections/software/products/xln-audio-rc-20-retro-color)
 

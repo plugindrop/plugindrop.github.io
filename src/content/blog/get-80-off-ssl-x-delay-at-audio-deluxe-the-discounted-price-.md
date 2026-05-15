@@ -10,7 +10,7 @@ dealPrice: "$19"
 discount: "80% OFF"
 saleExpiry: "2026-05-15"
 xText: "80% off ssl x-delay. this thing never goes this cheap. reverb character on the decay is absolutely unhinged – the kind of plugin that makes you rethink your delay chain."
-draft: false
+draft: true
 ---
 **TL;DR:** SSL Native X-Delay — from Solid State Logic, makers of some of the most iconic recording consoles in history — is currently $19 at Audio Deluxe, an 80% discount off the regular price. That's a rare entry price for an SSL-branded plugin. [Grab it here while the deal is live.](https://audiodeluxe.com/collections/software/products/solid-state-logic-ssl-native-x-delay)
 

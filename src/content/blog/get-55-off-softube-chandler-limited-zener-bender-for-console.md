@@ -10,7 +10,7 @@ dealPrice: "$89"
 discount: "55% OFF"
 saleExpiry: "2026-05-15"
 xText: "softube zener-bender dropped 55%. this thing never goes on sale—lowest price ever. catch it while it's actually here."
-draft: false
+draft: true
 ---
 **TL;DR:** Softube's Chandler Limited Zener-Bender for Console 1 is currently **55% off at $89** at Audio Deluxe — one of the steeper discounts this brand runs on its licensed hardware emulations. If you're already in the Console 1 ecosystem and chasing vintage transformer character, [grab it here before the deal ends](https://audiodeluxe.com/collections/software/products/softube-chandler-limited-zener-bender-console-1).
 
