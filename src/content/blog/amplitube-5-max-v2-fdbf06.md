@@ -6,8 +6,8 @@ tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12444-AmpliTube-5-MAX-v2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=amplitube-5-max-v2-fdbf06"
 heroImage: "/images/amplitube-5-max-v2-fdbf06.jpg"
 score: 10.00
-dealPrice: "$16990"
-originalPrice: "$17214.8"
+dealPrice: "$169.90"
+originalPrice: "$172.14"
 discount: "1% OFF"
 xText: "the amp models in amplitube 5 max v2 are actually insane. barely discounted but this is what you upgrade for, not the 1% off. if you do any guitar work this is worth checking."
 draft: false
