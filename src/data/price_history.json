@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04",
+  "last_updated": "2026-05-16",
   "bundles": {
     "FabFilter Total Bundle": {
       "pb_url": "/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle",
@@ -8,7 +8,18 @@
       "all_time_low": null,
       "notes": "FabFilter only discounts once/year at Black Friday: 25% off. Regular price ~$1176 at PB.",
       "history": [
-        {"date": "2026-05-04", "regular": 1176, "sale": null, "source": "live_check"}
+        {
+          "date": "2026-05-04",
+          "regular": 1176,
+          "sale": null,
+          "source": "live_check"
+        },
+        {
+          "date": "2026-05-16",
+          "regular": 186330,
+          "sale": null,
+          "source": "auto_check"
+        }
       ]
     },
     "FabFilter Creative Bundle": {
@@ -18,7 +29,18 @@
       "all_time_low": 269,
       "notes": "BF 2024: $269 at PB (lowest recorded). Typical BF/IMSTA sale 25% off = ~$321.",
       "history": [
-        {"date": "2026-05-04", "regular": 428, "sale": null, "source": "live_check"}
+        {
+          "date": "2026-05-04",
+          "regular": 428,
+          "sale": null,
+          "source": "live_check"
+        },
+        {
+          "date": "2026-05-16",
+          "regular": 67800,
+          "sale": null,
+          "source": "auto_check"
+        }
       ]
     },
     "Soundtoys 5.5": {
@@ -28,7 +50,18 @@
       "all_time_low": 239,
       "notes": "Frequent 50% off sales at PB. April 2026 sale was $299 (50% off $599). ATL ~$239 recorded at various retailers.",
       "history": [
-        {"date": "2026-05-04", "regular": 659, "sale": null, "source": "live_check"}
+        {
+          "date": "2026-05-04",
+          "regular": 659,
+          "sale": null,
+          "source": "live_check"
+        },
+        {
+          "date": "2026-05-16",
+          "regular": 104410,
+          "sale": null,
+          "source": "auto_check"
+        }
       ]
     },
     "iZotope Music Production Suite": {
@@ -38,7 +71,12 @@
       "all_time_low": 362,
       "notes": "Regular price $999 (iZotope direct) / $905 at PB. Sale prices 40-50% off. ATL $362 (Aug 2023, Bestservice). Apr 2026: $678 at Gear4music.",
       "history": [
-        {"date": "2026-05-04", "regular": 905, "sale": null, "source": "live_check"}
+        {
+          "date": "2026-05-04",
+          "regular": 905,
+          "sale": null,
+          "source": "live_check"
+        }
       ]
     },
     "NI Komplete 15 Standard": {
@@ -48,7 +86,12 @@
       "all_time_low": 266,
       "notes": "PB regularly runs 50% off NI Komplete (Feb 2025, BF 2025). ATL $266 at Thomann (Nov 2024).",
       "history": [
-        {"date": "2026-05-04", "regular": 659, "sale": null, "source": "live_check"}
+        {
+          "date": "2026-05-04",
+          "regular": 659,
+          "sale": null,
+          "source": "live_check"
+        }
       ]
     },
     "NI Komplete 15 Ultimate": {
@@ -58,7 +101,12 @@
       "all_time_low": null,
       "notes": "PB runs 50% off during major sales (BF, summer). Typical sale ~50% off = $659.",
       "history": [
-        {"date": "2026-05-04", "regular": 1319, "sale": null, "source": "live_check"}
+        {
+          "date": "2026-05-04",
+          "regular": 1319,
+          "sale": null,
+          "source": "live_check"
+        }
       ]
     },
     "Arturia V Collection 11": {
@@ -68,7 +116,18 @@
       "all_time_low": 295,
       "notes": "Regular $699-$769. Typical sale 50% off = $349 (BF 2025, PB 14th Anniversary Feb 2026). ATL $295 at Thomann (Nov 2025).",
       "history": [
-        {"date": "2026-05-04", "regular": 769, "sale": null, "source": "live_check"}
+        {
+          "date": "2026-05-04",
+          "regular": 769,
+          "sale": null,
+          "source": "live_check"
+        },
+        {
+          "date": "2026-05-16",
+          "regular": 121840,
+          "sale": null,
+          "source": "auto_check"
+        }
       ]
     },
     "Arturia FX Collection 6": {
@@ -78,7 +137,18 @@
       "all_time_low": null,
       "notes": "Released Feb 2026. MSRP $499 at Arturia direct / $549 at PB. Arturia typically runs 50% off during BF/summer sales.",
       "history": [
-        {"date": "2026-05-04", "regular": 549, "sale": null, "source": "live_check"}
+        {
+          "date": "2026-05-04",
+          "regular": 549,
+          "sale": null,
+          "source": "live_check"
+        },
+        {
+          "date": "2026-05-16",
+          "regular": 86970,
+          "sale": null,
+          "source": "auto_check"
+        }
       ]
     },
     "Waves Gold Bundle": {
@@ -88,7 +158,18 @@
       "all_time_low": 79,
       "notes": "Waves runs very aggressive flash sales. Regular ~$799-$879 but frequently at $99-$175. ATL $79.99 (Feb 2026 flash sale).",
       "history": [
-        {"date": "2026-05-04", "regular": 879, "sale": 175, "source": "live_check"}
+        {
+          "date": "2026-05-04",
+          "regular": 879,
+          "sale": 175,
+          "source": "live_check"
+        },
+        {
+          "date": "2026-05-16",
+          "regular": 20732,
+          "sale": 19980,
+          "source": "auto_check"
+        }
       ]
     },
     "Waves Platinum Bundle": {
@@ -98,7 +179,18 @@
       "all_time_low": 77,
       "notes": "Waves Platinum list price is ~$1999 but almost always on deep sale ($77-$199). PB 14th Anniversary: £99. July 2025: $199. ATL ~$77 (recurring flash sales).",
       "history": [
-        {"date": "2026-05-04", "regular": 131, "sale": 77, "source": "live_check"}
+        {
+          "date": "2026-05-04",
+          "regular": 131,
+          "sale": 77,
+          "source": "live_check"
+        },
+        {
+          "date": "2026-05-16",
+          "regular": 10545,
+          "sale": 10480,
+          "source": "auto_check"
+        }
       ]
     }
   }
