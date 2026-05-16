@@ -58,7 +58,7 @@ Waves Gold is one of the most argued-about bundles on KVR and r/audioengineering
 
 ### iZotope Music Production Suite — The AI-Assisted Workflow Bundle
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BbADT051Nuk" title="iZotope Music Production Suite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/F89Q3HuOxfY" title="iZotope Music Production Suite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** Typically $299–$499 during sales
@@ -77,7 +77,7 @@ iZotope's Music Production Suite bundles Neutron (mixing assistant), Ozone (mast
 
 ### Soundtoys 5 — The Benchmark for Analog Character Effects
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/UYZdFYeaEEA" title="Soundtoys 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/F89Q3HuOxfY" title="Soundtoys 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** Typically $199–$299 during sales
@@ -96,7 +96,7 @@ Soundtoys 5 bundles EchoBoy, Decapitator, PhaseMistress, FilterFreak, Crystalliz
 
 ### Native Instruments Komplete 15 Select — The Smartest Ecosystem Entry Point
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ftJS9zSS6RM" title="Native Instruments Komplete 15 Select — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/F89Q3HuOxfY" title="Native Instruments Komplete 15 Select — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
 - **Price:** Typically $99 on sale
@@ -115,7 +115,7 @@ Komplete 15 Select provides a curated portion of the full Komplete library — K
 
 ### FabFilter Total Bundle — The Most Trusted Premium Mixing Bundle
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vfM6F7pRmog" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/F89Q3HuOxfY" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** ~$499–$799 (sale to retail range)
@@ -139,7 +139,7 @@ Komplete 15 Select provides a curated portion of the full Komplete library — K
 
 ### Arturia V Collection 11 — The Definitive Vintage Keyboard Collection
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/F89Q3HuOxfY" title="Arturia V Collection 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** ~$299–$599 (sale to retail range)

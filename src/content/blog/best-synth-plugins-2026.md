@@ -57,7 +57,7 @@ For producers in electronic genres — future bass, techno, synthpop, lo-fi — 
 
 ### Surge XT — Open Source, Industrial-Grade Modulation
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/GpcyyBBQzzA" title="Surge XT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WBPF_D9NBcU" title="Surge XT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Surge Synth Team
 - **Price:** Free
@@ -95,7 +95,7 @@ For producers working in retrowave, synthwave, or any style that calls for lush,
 
 ### Dexed — The Definitive Free FM Synthesizer
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wSs1-020nNY" title="Dexed — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WBPF_D9NBcU" title="Dexed — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Digital Suburban
 - **Price:** Free
@@ -118,7 +118,7 @@ The free synths above cover a wide range of synthesis types and production scena
 
 ### Serum — The Industry Standard for a Reason
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WBPF_D9NBcU" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
 - **Price:** ~$189 (one-time) or available via Splice subscription
@@ -130,7 +130,7 @@ The free synths above cover a wide range of synthesis types and production scena
 
 ### Phase Plant — Modular Synthesis Without the Cable Mess
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ySDZJHWyqZA" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WBPF_D9NBcU" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** ~$99 (standalone) or included in Kilohearts subscription tiers
@@ -142,7 +142,7 @@ The free synths above cover a wide range of synthesis types and production scena
 
 ### Arturia Pigments — Hybrid Synthesis for Cinematic and Electronic Work
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IaKKZWUu_Xc" title="Arturia Pigments — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WBPF_D9NBcU" title="Arturia Pigments — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** ~$99–$149

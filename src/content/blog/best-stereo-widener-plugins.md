@@ -43,7 +43,7 @@ This guide covers the ten best stereo widener and imager plugins available in 20
 
 ### Wider (Polyverse) — The gold standard for free stereo widening
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CZsy0xHu7og" title="Wider — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/P2_4UM2tIQk" title="Wider — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Polyverse Music
 - **Price:** Free
@@ -62,7 +62,7 @@ It has been in regular rotation since its release and remains the top community 
 
 ### iZotope Ozone Imager 2 — Visual stereo control with scientific precision
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6sswOcOOc18" title="iZotope Ozone Imager 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/P2_4UM2tIQk" title="iZotope Ozone Imager 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** Free
@@ -81,7 +81,7 @@ The mono compatibility checker alone makes this worth installing even if you use
 
 ### Voxengo MSED — The professional's free M/S utility
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/nVMP36SlEHU" title="Voxengo MSED — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/P2_4UM2tIQk" title="Voxengo MSED — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Voxengo
 - **Price:** Free
@@ -100,7 +100,7 @@ This is the tool that graduates producers from "turn up the width knob" to genui
 
 ### MeldaProduction MStereoExpander — Flexible free widening with multiband options
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/qqvVobSTdFw" title="MeldaProduction MStereoExpander — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/P2_4UM2tIQk" title="MeldaProduction MStereoExpander — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** MeldaProduction
 - **Price:** Free (part of MFreeEffectsBundle)
@@ -121,7 +121,7 @@ For producers who need more than a single width knob but aren't ready to spend o
 
 ### Waves S1 Stereo Imager — The industry workhorse
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ZRT70qx0vqA" title="Waves S1 Stereo Imager — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/P2_4UM2tIQk" title="Waves S1 Stereo Imager — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves
 - **Price:** ~$29 (frequently on sale)
@@ -140,7 +140,7 @@ At its regular sale price, the S1 is one of the best value-for-money professiona
 
 ### Brainworx bx_stereomaker — Mono-to-stereo conversion that actually works
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/kM-WxepQB6Q" title="Brainworx bx_stereomaker — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/P2_4UM2tIQk" title="Brainworx bx_stereomaker — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Brainworx / Plugin Alliance
 - **Price:** ~$49 (check Plugin Alliance for current pricing)
@@ -159,7 +159,7 @@ This is the plugin engineers reach for when they receive a mono guitar DI, a mon
 
 ### Soundtoys MicroShift — Lush analog-style widening with character
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WmtmNQPreQA" title="Soundtoys MicroShift — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/P2_4UM2tIQk" title="Soundtoys MicroShift — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** ~$99
@@ -178,7 +178,7 @@ This is a character widener: use it when you want the width itself to contribute
 
 ### Waves Center — Surgical stereo and mono field control
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/T_hTOQGvVOQ" title="Waves Center — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/P2_4UM2tIQk" title="Waves Center — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves
 - **Price:** ~$29 (frequently on sale)
@@ -197,7 +197,7 @@ The Punch parameter, which controls transient behavior independently per channel
 
 ### Nugen Audio Stereoizer — Mastering-grade frequency-selective widening
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/8viIW_Ad01M" title="Nugen Audio Stereoizer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/P2_4UM2tIQk" title="Nugen Audio Stereoizer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Nugen Audio
 - **Price:** ~$99
@@ -216,7 +216,7 @@ The price is higher than most options here, but the precision and transparency j
 
 ### Eventide MicroPitch — Pitch-shifting stereo width with modern controls
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/zf6hy4rcHXg" title="Eventide MicroPitch — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/P2_4UM2tIQk" title="Eventide MicroPitch — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Eventide
 - **Price:** ~$99
@@ -237,7 +237,7 @@ If MicroShift feels too saturated or vintage for a production, MicroPitch offers
 
 ### iZotope Ozone 12 — Complete mastering suite with advanced stereo imaging
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="iZotope Ozone 12 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/P2_4UM2tIQk" title="iZotope Ozone 12 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** From $249 (Standard)
@@ -249,7 +249,7 @@ If MicroShift feels too saturated or vintage for a production, MicroPitch offers
 
 ### Waves Platinum Bundle — The professional mixing toolkit including S1 and Center
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Y-GErHQtJhQ" title="Waves Platinum Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/P2_4UM2tIQk" title="Waves Platinum Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves
 - **Price:** ~$299 (check for frequent sales)

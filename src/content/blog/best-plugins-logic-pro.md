@@ -41,7 +41,7 @@ In 2026, full native Apple Silicon support has made the AU plugin ecosystem clea
 
 ### FabFilter Pro-Q 4 — the industry-standard parametric EQ
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h_HXhYSXOzA" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
@@ -58,7 +58,7 @@ FabFilter Pro-Q 4 is the most-recommended parametric EQ in producer communities 
 
 ### TDR Nova — free dynamic EQ that competes with paid options
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1CHFv4mWQYM" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h_HXhYSXOzA" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Tokyo Dawn Labs
 - **Price:** Free (GE edition ~$67)
@@ -77,7 +77,7 @@ TDR Nova combines a four-band parametric EQ with per-band dynamic compression in
 
 ### FabFilter Pro-C 2 — the compressor that explains what it's doing
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mSzvpCz-M2k" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h_HXhYSXOzA" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
@@ -94,7 +94,7 @@ FabFilter Pro-C 2's defining feature is its gain reduction display, which visual
 
 ### Klanghelm MJUC jr. — free vintage compressor with genuine character
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/GDnYTJ4rDzM" title="Klanghelm MJUC jr. — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h_HXhYSXOzA" title="Klanghelm MJUC jr. — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Klanghelm
 - **Price:** Free
@@ -111,7 +111,7 @@ MJUC jr. is the free limited version of Klanghelm's variable-mu compressor, and 
 
 ### OTT by Xfer Records — the free multiband Logic producers use deliberately hard
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Bhy6kfwM3Ag" title="OTT by Xfer Records — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h_HXhYSXOzA" title="OTT by Xfer Records — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
 - **Price:** Free
@@ -130,7 +130,7 @@ OTT is an extreme upward/downward multiband compressor that Xfer Records release
 
 ### Valhalla VintageVerb — the most-recommended algorithmic reverb under $60
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EzPouHxa18s" title="Valhalla VintageVerb — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h_HXhYSXOzA" title="Valhalla VintageVerb — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** $50
@@ -147,7 +147,7 @@ Valhalla VintageVerb models reverb algorithms from the 1970s and 1980s — the R
 
 ### ValhallaDelay — 16 delay modes from tape to experimental pitch-shifting
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1pDVayo9GWc" title="ValhallaDelay — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h_HXhYSXOzA" title="ValhallaDelay — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** $50
@@ -166,7 +166,7 @@ ValhallaDelay follows the same pricing model and quality floor as VintageVerb bu
 
 ### Serum — the wavetable synth that redefined the category
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h_HXhYSXOzA" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -185,7 +185,7 @@ Serum is the most-used wavetable synthesizer in electronic music production by c
 
 ### Vital — free wavetable synthesis at a competitive level
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h_HXhYSXOzA" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Matt Tytel
 - **Price:** Free (Plus: $25/year, Pro: $80/year)
@@ -202,7 +202,7 @@ Vital is the free wavetable synthesizer the community positions as the legitimat
 
 ### u-he Diva — the analog synth emulation the community trusts most
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/q8LGFteoC1g" title="u-he Diva — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h_HXhYSXOzA" title="u-he Diva — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** €179 (~$195 USD)
@@ -221,7 +221,7 @@ Diva combines circuit-level simulation of classic oscillator, filter, and envelo
 
 ### iZotope Neutron 4 — AI-assisted mix analysis that earns its price
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vsjZop8_Fq4" title="iZotope Neutron 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h_HXhYSXOzA" title="iZotope Neutron 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** $249 (Standard) / $499 (Advanced)
@@ -238,7 +238,7 @@ Neutron 4's Mix Assistant function listens to your full mix, identifies frequenc
 
 ### Soothe2 by oeksound — the resonance suppressor every Logic mixer should know
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Wig_j-Fd8Jo" title="Soothe2 by oeksound — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h_HXhYSXOzA" title="Soothe2 by oeksound — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** oeksound
 - **Price:** €149 (~$160 USD)
@@ -257,7 +257,7 @@ Soothe2 automatically detects and attenuates problematic resonant frequencies in
 
 ### Soundtoys Decapitator — the saturation benchmark the community keeps returning to
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_3Q3U-v0pzA" title="Soundtoys Decapitator — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h_HXhYSXOzA" title="Soundtoys Decapitator — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** $99 (individual) / included in Soundtoys 5 bundle
@@ -274,7 +274,7 @@ Soundtoys Decapitator models five distinct analog saturation topologies — Ampe
 
 ### Slate Digital Fresh Air — free high-frequency enhancement that producers use on everything
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lOogGDzZZ8I" title="Slate Digital Fresh Air — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h_HXhYSXOzA" title="Slate Digital Fresh Air — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Slate Digital
 - **Price:** Free (requires free Slate Digital account)
@@ -291,7 +291,7 @@ Fresh Air is a two-control high-frequency enhancer — "Air" and "Presence" — 
 
 ### Soundtoys EchoBoy — the creative delay that Logic's tape echo can't match
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CMxM4YDpWM8" title="Soundtoys EchoBoy — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h_HXhYSXOzA" title="Soundtoys EchoBoy — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** $99 (individual) / included in Soundtoys 5 bundle
@@ -310,7 +310,7 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 
 ### FabFilter Total Bundle — the complete FabFilter toolkit at a bundle discount
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vfM6F7pRmog" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h_HXhYSXOzA" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** ~$899 (significant discount vs. individual purchases)
@@ -322,7 +322,7 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 
 ### iZotope Music Production Suite — the full iZotope workflow in one purchase
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BbADT051Nuk" title="iZotope Music Production Suite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h_HXhYSXOzA" title="iZotope Music Production Suite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** ~$499–$999 (varies by tier and sale cycle)

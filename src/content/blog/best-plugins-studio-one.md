@@ -40,7 +40,7 @@ This guide covers 12 third-party plugins with the strongest community endorsemen
 
 ### FabFilter Pro-Q 4 — the benchmark dynamic EQ that every serious mixer eventually owns
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/SJxHDbvfQgs" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
@@ -57,7 +57,7 @@ Developer documentation confirms Pro-Q 4 supports up to 24 EQ bands, with dynami
 
 ### TDR Nova — the free dynamics EQ that punches well above its price
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1CHFv4mWQYM" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ONKCi9Ebxa8" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Tokyo Dawn Records
 - **Price:** Free (Gentlemen's Edition upgrade available)
@@ -74,7 +74,7 @@ TDR Nova combines a four-band parametric EQ with per-band dynamics processing, m
 
 ### iZotope Neutron 4 — AI-assisted channel strip for producers who mix as they produce
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vsjZop8_Fq4" title="iZotope Neutron 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ONKCi9Ebxa8" title="iZotope Neutron 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** From $149
@@ -93,7 +93,7 @@ Neutron 4's Track Assistant feature, documented in iZotope's official product ma
 
 ### Valhalla VintageVerb — the most-recommended algorithmic reverb under $100 in producer communities
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EzPouHxa18s" title="Valhalla VintageVerb — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ONKCi9Ebxa8" title="Valhalla VintageVerb — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** $50
@@ -110,7 +110,7 @@ VintageVerb models reverb algorithms inspired by classic hardware units of the 1
 
 ### Valhalla Supermassive — free massive reverb and delay with no meaningful competition at its price
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ONKCi9Ebxa8" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** Free
@@ -129,7 +129,7 @@ Valhalla documents Supermassive as using a modulated feedback delay network arch
 
 ### Serum — the community-standard wavetable synthesizer
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ONKCi9Ebxa8" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -148,7 +148,7 @@ Serum's developer documentation describes a dual oscillator architecture with an
 
 ### Arturia Pigments 5 — a hybrid synthesizer with unusual depth for sound designers
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bpb0QLrwwEY" title="Arturia Pigments 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ONKCi9Ebxa8" title="Arturia Pigments 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** ~$99–$199 (frequent sales; MSRP varies by region)
@@ -165,7 +165,7 @@ Arturia's developer documentation for Pigments 5 describes a hybrid engine combi
 
 ### u-he Tyrell N6 — the free analog-modeled synth that producers keep permanently
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/jnq6bQzfus4" title="u-he Tyrell N6 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/SJxHDbvfQgs" title="u-he Tyrell N6 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** Free
@@ -203,7 +203,7 @@ iZotope's documentation for Ozone 12 describes a modular mastering chain includi
 
 ### Slate Digital Fresh Air — the free high-frequency enhancer producers add to almost every channel
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QDQyAwCNHcA" title="Slate Digital Fresh Air — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ONKCi9Ebxa8" title="Slate Digital Fresh Air — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Slate Digital
 - **Price:** Free
@@ -220,7 +220,7 @@ Slate Digital documents Fresh Air as a transient and high-frequency enhancement 
 
 ### Soundtoys 5 — the most-recommended creative effects bundle in producer communities
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/sW3vt73eLM8" title="Soundtoys 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ONKCi9Ebxa8" title="Soundtoys 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** $499 bundle; individual plugins ~$99–$149
@@ -237,7 +237,7 @@ The Soundtoys 5 bundle, per the developer's documentation, includes over 20 crea
 
 ### Kilohearts Snap Heap — modular effects hosting with a genuinely useful free tier
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/0EMYT9rOIbo" title="Kilohearts Snap Heap — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/SJxHDbvfQgs" title="Kilohearts Snap Heap — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** Free base; full ecosystem from ~$99 (Phase Plant bundle)
@@ -256,7 +256,7 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 
 ### Serum — the paid upgrade from free wavetable synths
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BOI0KO629TI" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/SJxHDbvfQgs" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
 - **Price:** $189 (one-time); rental-to-own via Splice
@@ -268,7 +268,7 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 
 ### FabFilter Total Bundle — the complete FabFilter mix-to-master signal chain
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vfM6F7pRmog" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ONKCi9Ebxa8" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** Bundle pricing (discount from individual purchase total)
