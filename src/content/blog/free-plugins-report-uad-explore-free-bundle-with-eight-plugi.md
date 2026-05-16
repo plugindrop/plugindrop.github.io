@@ -10,7 +10,7 @@ score: 10.00
 dealPrice: "FREE"
 saleExpiry: "2026-04-17"
 xText: "uad, united plugins, zebralette 3, 8dio—all free right now. this actually doesn't happen often. load these up before it's gone"
-draft: false
+draft: true
 ---
 **TL;DR:** Four major free plugin grabs dropped in April 2026 — UAD's Explore Free bundle (eight plugins plus Luna), a United Plugins ten-pack, Zebralette 3 from u-he, and 8Dio Synthetic Shadows. All free. Check expiry dates before they disappear. [Browse more deals here.](https://www.pluginboutique.com/search?search_query=news&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugins-report-uad-explore-free-bundle-with-eight-plugi)
 
