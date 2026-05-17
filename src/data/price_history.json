@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16",
+  "last_updated": "2026-05-17",
   "bundles": {
     "FabFilter Total Bundle": {
       "pb_url": "/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle",
@@ -15,8 +15,8 @@
           "source": "live_check"
         },
         {
-          "date": "2026-05-16",
-          "regular": 186330,
+          "date": "2026-05-17",
+          "regular": 1069,
           "sale": null,
           "source": "auto_check"
         }
@@ -36,8 +36,8 @@
           "source": "live_check"
         },
         {
-          "date": "2026-05-16",
-          "regular": 67800,
+          "date": "2026-05-17",
+          "regular": 389,
           "sale": null,
           "source": "auto_check"
         }
@@ -57,8 +57,8 @@
           "source": "live_check"
         },
         {
-          "date": "2026-05-16",
-          "regular": 104410,
+          "date": "2026-05-17",
+          "regular": 599,
           "sale": null,
           "source": "auto_check"
         }
@@ -123,8 +123,8 @@
           "source": "live_check"
         },
         {
-          "date": "2026-05-16",
-          "regular": 121840,
+          "date": "2026-05-17",
+          "regular": 699,
           "sale": null,
           "source": "auto_check"
         }
@@ -144,8 +144,8 @@
           "source": "live_check"
         },
         {
-          "date": "2026-05-16",
-          "regular": 86970,
+          "date": "2026-05-17",
+          "regular": 499,
           "sale": null,
           "source": "auto_check"
         }
@@ -165,9 +165,9 @@
           "source": "live_check"
         },
         {
-          "date": "2026-05-16",
-          "regular": 20732,
-          "sale": 19980,
+          "date": "2026-05-17",
+          "regular": 115,
+          "sale": null,
           "source": "auto_check"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "live_check"
         },
         {
-          "date": "2026-05-16",
-          "regular": 10545,
-          "sale": 10480,
+          "date": "2026-05-17",
+          "regular": 119,
+          "sale": 60,
           "source": "auto_check"
         }
       ]
