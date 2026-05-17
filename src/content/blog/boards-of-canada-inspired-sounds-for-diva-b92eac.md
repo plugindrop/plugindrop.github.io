@@ -13,6 +13,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/90Ez0Vki-0g" title="Emulating Boards of Canada with U-He Satin &amp; Diva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## Boards of Canada Inspired Presets for u-he Diva: The CMYK Pack Explained
 
 u-he Diva is already famous for sounding *uncannily* analog. Pair it with the right preset pack, and the gap between your DAW and a dusty 1970s synthesizer gets very small, very fast. The CMYK pack from Like No Orange was designed with exactly that goal in mind — delivering Boards of Canada-flavored textures, drones, and melodic patches straight into Diva's architecture.

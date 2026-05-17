@@ -46,7 +46,7 @@ The drum section defines the genre. Whether you're programming swung boom bap or
 
 ### Native Instruments Battery 4 — Industry-standard sample-based drum programming
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ViFO4aNrPME" title="Native Instruments Battery 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/KYVc69lzIDc" title="Native Instruments Battery 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
 - **Price:** $149

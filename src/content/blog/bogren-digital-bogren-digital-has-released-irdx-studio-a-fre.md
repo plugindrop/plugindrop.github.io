@@ -15,7 +15,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IhbJ-cLgJx0" title="Bogren Digital — Bogren Digital has released IRDX Studio, a free IR loader plugin for Mac & Win. Expiry: None [FREE] — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/zzpLL-zTtmY" title="Bogren Digital — Bogren Digital has released IRDX Studio, a free IR loader plugin for Mac & Win. Expiry: None [FREE] — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
