@@ -6,8 +6,8 @@ tags: ["pulse audio", "bundle", "music-production"]
 affiliate: "https://pulse.audio/product/vivid-strings-chamber-strings-by-pulse-audio/"
 heroImage: "/images/pulse-audio-get-80-off-vivid-strings-bundle-by-pulse-audio-f.jpg"
 score: 8.21
-dealPrice: "$5"
-originalPrice: "$9"
+dealPrice: "$49"
+originalPrice: "$249"
 discount: "80% OFF"
 saleExpiry: "2026-05-22"
 xText: "vivid strings bundle at $49 is the best price i've seen it. was $249. full kontakt required but the value math is just too good. that's what 80% off looks like"

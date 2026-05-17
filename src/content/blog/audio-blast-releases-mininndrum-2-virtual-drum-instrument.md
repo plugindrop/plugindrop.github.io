@@ -8,7 +8,7 @@ affiliate: https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/1
 heroImage: /images/audio-blast-releases-mininndrum-2-virtual-drum-instrument.jpg
 dealPrice: "$19.80"
 originalPrice: "$108.9"
-discount: "51% OFF"
+discount: "82% OFF"
 draft: false
 score: 2.46
 ---
@@ -55,7 +55,7 @@ For the full, confirmed feature list, check the [official Plugin Boutique produc
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
-| $19.80 | $19.80 | $19.80 |
+| $108.90 | $19.80 | $89.10 (82%) |
 
 Pricing and any active promotions can change frequently. Always verify the current price directly on Plugin Boutique before purchasing.
 

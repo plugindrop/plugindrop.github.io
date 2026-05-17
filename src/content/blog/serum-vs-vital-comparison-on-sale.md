@@ -8,7 +8,7 @@ heroImage: "/images/serum-vs-vital-comparison-on-sale.jpg"
 score: 6.00
 dealPrice: "$19.9"
 xText: "Serum (Xfer Records)  off — does it beat Vital at this price?"
-draft: false
+draft: true
 ---
 I need a couple of missing details to write this accurately:
 

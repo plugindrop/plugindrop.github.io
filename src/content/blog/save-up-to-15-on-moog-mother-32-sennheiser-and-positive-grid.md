@@ -7,8 +7,6 @@ affiliate: "https://www.thomann.de/intl/moog_mother_32.htm?utm_source=plugindrop
 heroImage: "/images/save-up-to-15-on-moog-mother-32-sennheiser-and-positive-grid.jpg"
 discount: "15% OFF"
 score: 7.98
-dealPrice: "$89.00"
-originalPrice: "$568.46"
 draft: false
 ---
 **TL;DR:** Thomann is running discounts of up to 15% across three major brands — Moog, Sennheiser, and Positive Grid — making this one of the better hardware-and-software deal weeks of the season. If the Moog Mother-32 has been sitting in your cart, now's a smart time to pull the trigger. [Check current prices at Thomann →](https://www.thomann.de/intl/moog_mother_32.htm?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-15-on-moog-mother-32-sennheiser-and-positive-grid)
@@ -46,8 +44,8 @@ Moog rarely participates in broad sales. When Thomann does discount Moog hardwar
 
 | Item | Regular Price | Deal Price | You Save |
 |------|--------------|-----------|---------|
-| Moog Mother-32 | ~~$89.00~~ | Up to 15% off | Up to 15% |
-| Sennheiser (selected models) | ~~$89.00~~ | Up to 15% off | Up to 15% |
+| Moog Mother-32 | (varies) | Up to 15% off | Up to 15% |
+| Sennheiser (selected models) | (varies) | Up to 15% off | Up to 15% |
 | Positive Grid (selected models) | ~~$89.00~~ | Up to 15% off | Up to 15% |
 
 Verify current pricing on the product page — deals can change and exact discount percentages vary by specific model.
