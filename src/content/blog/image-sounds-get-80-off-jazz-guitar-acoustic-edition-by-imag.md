@@ -11,7 +11,7 @@ originalPrice: "$45"
 discount: "80% OFF"
 saleExpiry: "2026-05-18"
 xText: "just caught image sounds acoustic jazz guitar at $9. was $45. lowest i've seen this library go. if you need quality jazz samples in your kit, literally now or never."
-draft: false
+draft: true
 ---
 **TL;DR:** Image Sounds is running an 80% discount on Jazz Guitar (Acoustic Edition) — down to just $9 from ~~$45~~ until May 18th. That's a realistic entry point for an authentic acoustic jazz guitar library without breaking your sample budget. [Grab it here while the deal is live.](https://audioplugin.deals/product/jazz-guitar-acoustic-edition-by-image-sounds/ref/21/)
 

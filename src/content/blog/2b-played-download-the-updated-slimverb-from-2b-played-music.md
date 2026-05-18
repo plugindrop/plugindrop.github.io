@@ -11,7 +11,7 @@ originalPrice: "$55"
 discount: "55% OFF"
 saleExpiry: "2026-05-18"
 xText: "slimverb just dropped free (code MAY26). sleeping on free reverbs is leaving clean tones on the table"
-draft: false
+draft: true
 ---
 **TL;DR:** SLIMVERB from 2B Played Music is currently priced down from ~~$55~~ to $24.75 — and with coupon code **MAY26** at checkout, it drops all the way to **FREE**. Grab it now at [2bplayed.com](https://2bplayed.com/product/slimverb/) before the code expires.
 
