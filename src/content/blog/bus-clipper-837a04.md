@@ -13,6 +13,11 @@ converted: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/WJh_vxEZC_8" title="The Bus Plus - Fire series | Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Bus Clipper?
 
 Bus Clipper is a dynamics processor plug-in built specifically for hard clipping applications on mix buses, stem buses, and master chains. Rather than using traditional limiting algorithms, it applies clip-based peak reduction — a technique that shaves transient peaks with minimal impact on the perceived loudness character of a mix. It sits in the "transparent aggression" camp of dynamics tools: push levels harder without the pumping or squash that can come from standard limiters.

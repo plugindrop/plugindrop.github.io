@@ -43,7 +43,7 @@ By the end of this guide, you'll know exactly which plugins to download today, w
 
 ### FabFilter Pro-Q 4 — The industry-standard EQ for a reason
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
@@ -61,7 +61,7 @@ Pro-Q 4 earns its reputation through an interface that makes complex EQ decision
 
 ### TDR Nova — The best free dynamic EQ you're probably not using
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1CHFv4mWQYM" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Tokyo Dawn Records
 - **Price:** Free
@@ -78,7 +78,7 @@ TDR Nova is a parametric EQ with dynamic EQ capabilities built in — a feature 
 
 ### FabFilter Pro-C 2 — Compression that stays out of the way
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mSzvpCz-M2k" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
@@ -96,7 +96,7 @@ Pro-C 2 covers every compression style from ultra-clean bus glue to aggressive p
 
 ### OTT by Xfer Records — Free multiband compression for electronic music
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Bhy6kfwM3Ag" title="OTT by Xfer Records — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="OTT by Xfer Records — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
 - **Price:** Free
@@ -115,7 +115,7 @@ OTT (Over The Top) is a free three-band upward/downward compressor that has beco
 
 ### Valhalla Room — The studio reverb every mix engineer trusts
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ogaodQa-fb0" title="Valhalla Room — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="Valhalla Room — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="audio-embed"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="Valhalla Room — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1589803&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></div>
 
@@ -134,7 +134,7 @@ Valhalla Room packs 12 room algorithms that convincingly model spaces from tight
 
 ### Valhalla Supermassive — Free ambient reverb that sounds anything but free
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** Free
@@ -153,7 +153,7 @@ Supermassive delivers massive, evolving reverbs and modulated delays built for a
 
 ### Waves SSL E-Channel — Classic console character in a single plugin
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/b2IWMPae9I0" title="Waves SSL E-Channel — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="Waves SSL E-Channel — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves
 - **Price:** $29.99 (frequently on sale — check current pricing)
@@ -172,7 +172,7 @@ The SSL E-Channel emulates the console strip that defined the sound of records f
 
 ### Serum — The wavetable synth that redefined modern production
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TmvzdoEECe8" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TmvzdoEECe8" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -192,7 +192,7 @@ Serum's combination of wavetable oscillators, a flexible modulation matrix, and 
 
 ### Vital — The free wavetable synth that rivals paid competitors
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Matt Tytel
 - **Price:** Free (Plus and Pro tiers available)
@@ -211,7 +211,7 @@ Vital delivers spectral warping, full wavetable editing, and a modulation system
 
 ### Softube Saturation Knob — One knob, instant warmth
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/c70_kaOhGNo" title="Softube Saturation Knob — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="Softube Saturation Knob — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Softube
 - **Price:** Free
@@ -228,7 +228,7 @@ The Saturation Knob is a single-parameter saturator with three selectable modes 
 
 ### Slate Digital Fresh Air — High-frequency enhancement with zero artifacts
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QDQyAwCNHcA" title="Slate Digital Fresh Air — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="Slate Digital Fresh Air — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Slate Digital
 - **Price:** Free
@@ -249,7 +249,7 @@ Before building out your plugin rack, make sure you're running a DAW that suppor
 
 ### Native Instruments Kontakt 7 — The industry-standard sampler
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/cANXrimv8C8" title="Native Instruments Kontakt 7 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="Native Instruments Kontakt 7 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
 - **Price:** $399 (also available via Komplete bundles)
@@ -266,7 +266,7 @@ Kontakt is the platform that powers thousands of commercial sample libraries —
 
 ### Addictive Drums 2 — The fastest path to mix-ready acoustic drums
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/SYgVJt42rLY" title="Addictive Drums 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="Addictive Drums 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** XLN Audio
 - **Price:** $179
@@ -285,7 +285,7 @@ Addictive Drums 2 ships with a complete acoustic drum kit and an intuitive mixer
 
 ### RC-20 Retro Color — The texture plugin that defined a generation of lo-fi
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rnO8dEKVE8E" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** XLN Audio
 - **Price:** $99
@@ -304,7 +304,7 @@ RC-20 bundles six lo-fi effect modules — noise, wobble, distortion, reverb, li
 
 ### iZotope Ozone 12 — AI-assisted mastering that meets professional results
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="iZotope Ozone 12 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="iZotope Ozone 12 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** $249 (Standard) — check current pricing
@@ -324,7 +324,7 @@ Ozone 12's Master Assistant analyzes your track and builds a starting mastering 
 
 ### FabFilter Total Bundle — Every FabFilter tool, at a significant discount
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/RAKKgLtcpdg" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** Check Plugin Boutique for current bundle pricing
@@ -336,7 +336,7 @@ Ozone 12's Master Assistant analyzes your track and builds a starting mastering 
 
 ### Waves Platinum Bundle — A deep toolkit at a compelling bundle price
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Y-GErHQtJhQ" title="Waves Platinum Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="Waves Platinum Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves
 - **Price:** Check Plugin Boutique for current bundle pricing

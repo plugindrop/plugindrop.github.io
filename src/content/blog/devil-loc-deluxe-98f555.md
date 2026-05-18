@@ -16,6 +16,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/fh3esAOHe2w" title="Sound Toys Devil-Loc Deluxe Bass Distortion Review by Nick from Arcane Sanctuary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Devil-Loc Deluxe?
 
 Devil-Loc Deluxe is a character compression plugin by SoundToys, modeled on the Shure Level-Loc — a hardware unit originally designed for PA and broadcast use that producers discovered could deliver extreme, musical compression with real sonic grit. The plugin takes that hardware DNA and pushes it further, offering everything from subtle glue to full-on audio destruction. SoundToys is one of the most well-regarded plugin developers in the industry, known for analog-accurate modeling and distinctive creative tools.

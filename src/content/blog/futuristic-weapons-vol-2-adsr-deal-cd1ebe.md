@@ -16,6 +16,11 @@ score: 5.23
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YoGR8AhHV3Y" title="Resonance Sound - Future Bass MIDI Weapons Vol.2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Futuristic Weapons Vol 2?
 
 Futuristic Weapons Vol 2 is a preset and sound design pack available on ADSR Sounds, built for producers working in sci-fi, cinematic, trap, bass music, and experimental electronic genres. It's the second volume in the Futuristic Weapons series, expanding on the original with a new set of synthesis-driven, heavily designed sounds. The pack targets producers who want aggressive, forward-thinking tones ready to drop straight into a session.

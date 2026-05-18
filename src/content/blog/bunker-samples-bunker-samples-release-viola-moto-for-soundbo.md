@@ -15,6 +15,11 @@ heroImage: "/images/bunker-samples-bunker-samples-release-viola-moto-for-soundbo
 ---
 **TL;DR:** Bunker Samples has launched Viola-Moto — a dedicated viola instrument for Soundbox — at an intro price of **$19** (~~$39~~), saving you $20 during the introductory window. This kind of pricing doesn't last, so [check it out at bunkersamples.com](https://bunkersamples.com/viola-moto/) now.
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/ccb__QjwQaM" title="Quick Look: Off World Volume 1 by Bunker Samples" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Viola-Moto?
 
 Viola-Moto is a focused viola instrument from Bunker Samples, designed to run inside their Soundbox platform. The viola is one of the most underserved instruments in the sample library world — plenty of violin and cello options exist, but the viola's warmer, darker midrange sits in a tonal space that's genuinely hard to cover well on a budget. Bunker Samples is an independent developer that builds precise, purpose-built instruments rather than sprawling catch-all packs.

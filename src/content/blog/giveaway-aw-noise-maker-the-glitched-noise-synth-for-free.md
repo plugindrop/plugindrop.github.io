@@ -14,6 +14,11 @@ heroImage: "/images/giveaway-aw-noise-maker-the-glitched-noise-synth-for-free_og
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/opUeUvJLje0" title="The Ultimate Giveaway Plugin for WordPress: RafflePress Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## Free Glitched Noise Synth Giveaway: AW Noise Maker
 
 One day left. That's it. Audiowanderer is running a giveaway for AW Noise Maker, their new glitched noise synthesizer, and the winner gets announced **Monday, May 4th**. This is the kind of weird, experimental tool that rarely surfaces for free — enter now or miss it.

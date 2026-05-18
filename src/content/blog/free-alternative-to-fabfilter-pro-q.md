@@ -40,7 +40,7 @@ This guide covers four free EQ plugins that the production community consistentl
 
 ### TDR Nova — The closest free dynamic EQ to Pro-Q 4
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1CHFv4mWQYM" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Kr7bfDIu0QI" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Tokyo Dawn Records
 - **Price:** Free (GE edition available as paid upgrade)
@@ -61,7 +61,7 @@ KVR's community consistently describes TDR Nova's dynamic behavior as unusually 
 
 ### MEqualizer — Feature-dense parametric EQ from MeldaProduction
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OBA0Omugrfg" title="MEqualizer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Kr7bfDIu0QI" title="MEqualizer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** MeldaProduction
 - **Price:** Free (part of MFreeFXBundle)
@@ -80,7 +80,7 @@ Compared to Pro-Q 4, MEqualizer is a static parametric EQ, full stop. There is n
 
 ### Voxengo Marvel GEQ — Linear phase graphic EQ for mastering tasks
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gZf46Iz8RMA" title="Voxengo Marvel GEQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Kr7bfDIu0QI" title="Voxengo Marvel GEQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Voxengo
 - **Price:** Free
@@ -99,7 +99,7 @@ The community's primary use case for Marvel GEQ is mastering-style broad tonal m
 
 ### LP10 — Lightweight parametric EQ for CPU-constrained sessions
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WiEjFdUfV_U" title="LP10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Kr7bfDIu0QI" title="LP10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** LKJB
 - **Price:** Free

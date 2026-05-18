@@ -12,6 +12,11 @@ draft: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/dZnqlxvL2Qg" title="Waves H-series Plugin Bundle - Review &amp; Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Slate Digital Custom Series Bundle?
 
 Slate Digital is a well-established name in the plugin world, known for emulations of classic analog hardware and modern mixing tools. The Custom Series Bundle packages multiple plugins from their catalog into a single purchase, targeting producers and engineers who want a cohesive, professional-grade mixing toolkit. Rather than picking up individual titles at full price, the bundle format lets you consolidate your investment. Check the product page for the exact titles included, as bundle contents can be updated over time.

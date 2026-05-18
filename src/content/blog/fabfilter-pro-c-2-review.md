@@ -125,7 +125,7 @@ Oversampling options go up to 32x, pushing the internal noise floor below what a
 
 ### Waves SSL G-Master Buss Compressor — Analog Character With Proven History
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rYLE97NbenM" title="Waves SSL G-Master Buss Compressor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Y-1cvQVUDDw" title="Waves SSL G-Master Buss Compressor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves
 - **Price:** ~$29–$49 (frequent sale pricing)

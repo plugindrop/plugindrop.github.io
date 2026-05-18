@@ -16,6 +16,11 @@ draft: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/hcvcffsnqzg" title="Universal Audio UAD 9.2 New Plugins Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Universal Audio UAD Select 2 Bundle?
 
 Universal Audio (UA) is one of the most recognized names in professional audio — known for hardware like the Apollo interface line and an extensive catalog of meticulously modeled analog emulations. The UAD Select 2 Bundle is a software plugin package that brings a curated selection of UA's processing tools to your DAW. Universal Audio's reputation rests on years of precision hardware modeling, and their plugin catalog is a go-to reference point in professional mixing and mastering circles.

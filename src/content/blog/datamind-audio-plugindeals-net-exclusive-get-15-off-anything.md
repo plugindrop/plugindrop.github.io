@@ -14,6 +14,11 @@ draft: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/TJr9BY7HLdQ" title="COMBOBULATOR Plugin by DataMind Audio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is DataMind Audio?
 
 DataMind Audio is a plugin developer focused on creative audio tools for music producers and sound designers. Their catalog spans instruments and effects aimed at the modern DAW workflow. This exclusive discount applies sitewide, meaning every product in their store is eligible — a rare opportunity to pick up multiple titles at a reduced rate. Verify current pricing on the product page, as prices vary by product.

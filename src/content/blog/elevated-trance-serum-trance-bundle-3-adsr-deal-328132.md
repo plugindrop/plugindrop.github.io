@@ -15,6 +15,11 @@ draft: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/gsASjw4jMh8" title="Serum 2 | Free Euphoric Trance Presets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Elevated Trance Serum Trance Bundle 3?
 
 Elevated Trance Serum Trance Bundle 3 is a preset collection for Xfer Records Serum, built specifically for trance producers. Elevated Trance is a brand focused exclusively on the trance genre, meaning every patch in this bundle is engineered with trance arrangement and sound design in mind — not repurposed from a general-purpose library. This is the third installment in their Serum bundle series, suggesting an established catalogue and iterative refinement across releases.

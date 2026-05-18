@@ -14,6 +14,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/CnUIXu6oGeg" title="Expert Sleepers: Disting NT | Full Demo and Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## Expert Sleepers NTX-8CV and Forever: Two New Eurorack Modules Debut at Superbooth
 
 Expert Sleepers has announced a pair of new Eurorack modules at Superbooth: the NTX-8CV, a versatile audio and MIDI interface, and Forever, an audio freezer module derived from the disting NT's Freeze algorithm. If you're deep in the Eurorack world, Expert Sleepers needs no introduction — the UK-based company has been building essential utility modules for modular synthesis for years.

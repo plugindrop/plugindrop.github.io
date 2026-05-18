@@ -21,6 +21,11 @@ draft: false
 </div>
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/sij2grdx200" title="UVI Falcon 2026 | Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Falcon 2026?
 
 Falcon 2026 is the latest edition of UVI's flagship hybrid instrument platform. UVI has built Falcon into one of the most expansive synthesis environments available to producers and sound designers — combining multiple synthesis engines inside a single, modular host. Whether you're layering complex pads, building custom instruments from scratch, or designing sound effects, Falcon is built to handle serious depth without forcing you into a narrow workflow.

@@ -17,6 +17,11 @@ draft: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/nNKpqwjEFGw" title="Limited Time Free! GREAT Immersive Synth Libraries! Ethereal Echoes by Golden Screw Studio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Golden Screw Studio?
 
 Golden Screw Studio is a sample pack and audio content creator selling directly through their own storefront. Their catalog is aimed at DAW-based producers looking for loops, one-shots, and production-ready material across a range of genres. Selling direct means no marketplace account requirements — you buy, you download, you produce.

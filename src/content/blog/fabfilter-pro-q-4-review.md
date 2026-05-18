@@ -109,7 +109,7 @@ Load Pro-Q 4 on multiple channels and enable spectrum display across instances. 
 
 ### TDR Nova — Best Free Dynamic EQ Alternative
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1CHFv4mWQYM" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Y-1cvQVUDDw" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Tokyo Dawn Records
 - **Price:** Free (Nova GE: €49)
@@ -124,7 +124,7 @@ TDR Nova is genuinely strong for a free plugin and the closest free alternative 
 
 ### DMG Audio EQuality — Best for Analog-Voiced Precision
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gdnCGuD_uhU" title="DMG Audio EQuality — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Y-1cvQVUDDw" title="DMG Audio EQuality — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** DMG Audio
 - **Price:** ~$99

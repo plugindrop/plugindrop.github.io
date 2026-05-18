@@ -13,6 +13,11 @@ converted: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/9VCt4P0dzWs" title="Fuse Audio Labs releases VREV-140 All-In Channel Strip with Intro Offer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Tube Lab?
 
 Tube Lab is a new vintage channel strip plugin from Fuse Audio Labs, a developer founded by Reimund Dratwa — whose design credits include modeling work for brands like elysia, Millennia, Neold, and Vertigo. The plugin combines three classic studio processors — a multi-tube preamp, a three-band Baxandall-style EQ, and an optical compressor — into a single, flexible channel strip. It's available in VST2, VST3, AU, and AAX formats for both macOS (10.12+, Intel and Apple Silicon) and Windows (7+).
