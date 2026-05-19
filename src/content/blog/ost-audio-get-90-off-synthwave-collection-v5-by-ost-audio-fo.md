@@ -11,7 +11,7 @@ originalPrice: "$599"
 discount: "90% OFF"
 saleExpiry: "2026-05-19"
 xText: "$59 for $599 worth of synthwave. ost audio 90% off drops are genuinely rare—wait too long and this won't be the price anymore."
-draft: false
+draft: true
 ---
 **TL;DR:** OST Audio is offering Synthwave Collection v5 at **90% off** — just $59 instead of ~~$599~~. That's a rare, deep-discount window on a comprehensive synthwave production toolkit. [Grab it here before May 19th.](https://audioplugin.deals/product/synthwave-collection-v5-by-ost-audio/ref/21/)
 
