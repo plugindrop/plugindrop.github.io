@@ -13,6 +13,11 @@ converted: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Q-i5TfMMee8" title="500GB Of Sounds For Just 50$🔥 - IK Multimedia Total VI Max Review 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is IK Multimedia Total VI MAX 2?
 
 IK Multimedia is an Italian music technology company with decades of experience building industry-standard software instruments, amp sims, and audio tools. Total VI MAX 2 is their flagship virtual instrument bundle, packaging multiple flagship titles — including SampleTank, MODO Bass, MODO Drum, and more — into a single purchase. It's designed to cover essentially every production need from realistic acoustic instruments to cutting-edge electronic sounds. Check the product page for the full, current list of included titles, as bundle contents can be updated.

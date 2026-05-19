@@ -46,7 +46,7 @@ Whether you're mastering your own productions or running a small mastering studi
 
 ### SPAN (Voxengo) — The always-on reference analyzer every mastering engineer needs
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/zFkqzZxSv6A" title="SPAN (Voxengo) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/NGY_DMtvWjQ" title="SPAN (Voxengo) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Voxengo
 - **Price:** Free
@@ -66,7 +66,7 @@ SPAN is the industry's go-to free FFT spectrum analyzer, and there's a reason it
 
 ### FabFilter Pro-Q 4 — The gold standard for transparent, precise mastering EQ
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/NGY_DMtvWjQ" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
@@ -89,7 +89,7 @@ What separates Pro-Q 4 from cheaper alternatives is its phase response flexibili
 
 ### iZotope Ozone 12 — The most complete AI-powered mastering environment available
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="iZotope Ozone 12 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/NGY_DMtvWjQ" title="iZotope Ozone 12 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** $349 (Standard)
@@ -112,7 +112,7 @@ The Stabilizer module introduced in recent versions is particularly useful: it a
 
 ### FabFilter Pro-L 2 — Transparent, algorithm-rich limiting that holds up on every platform
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/oMJeWXtJODc" title="FabFilter Pro-L 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/NGY_DMtvWjQ" title="FabFilter Pro-L 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $199
@@ -135,7 +135,7 @@ The oversampling options (up to 32x) and the integrated loudness metering panel 
 
 ### Youlean Loudness Meter 2 — Fast, free LUFS metering with real streaming platform presets
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/XMKQeLHYutw" title="Youlean Loudness Meter 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/NGY_DMtvWjQ" title="Youlean Loudness Meter 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Youlean
 - **Price:** Free (Pro version available)
@@ -159,7 +159,7 @@ Place Youlean at the end of your chain, after your limiter, and run the track in
 
 ### iZotope Insight 2 — Deep, broadcast-grade metering for engineers who need the full picture
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/zBjdTQE3630" title="iZotope Insight 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/NGY_DMtvWjQ" title="iZotope Insight 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** $199
@@ -184,7 +184,7 @@ If you're currently running a stripped-back chain with free alternatives at any 
 
 ### iZotope Ozone 12 — The all-in-one suite that replaces five separate tools
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Sm66WGBAG_g" title="iZotope Ozone 12 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/NGY_DMtvWjQ" title="iZotope Ozone 12 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** $349 (Standard)
@@ -196,7 +196,7 @@ If you're currently running a stripped-back chain with free alternatives at any 
 
 ### FabFilter Pro-L 2 — The limiter that professionals trust for streaming delivery
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/V2EUVpasalU" title="FabFilter Pro-L 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/NGY_DMtvWjQ" title="FabFilter Pro-L 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $199

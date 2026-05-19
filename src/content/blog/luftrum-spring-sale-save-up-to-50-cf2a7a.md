@@ -14,6 +14,11 @@ score: 2.8
 
 **TL;DR:** Luftrum's Spring Sale is live — save up to 50% on their catalog of synth soundsets and Kontakt instruments. Latest releases are 20–30% off, while catalog favorites like Lunaris, Bioscape, and Twilight drop 40–50%. Use promo code **"hellosun"** at checkout. [Grab the deals before they're gone.](https://www.luftrum.com/synthpresets/)
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Hqud-uWuToc" title="LUNARIS 2 | Out Of This World Pads From Luftrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Luftrum?
 
 Luftrum is a boutique sound design studio known for crafting premium preset libraries and Kontakt instruments. Their catalog spans soundsets for major synth platforms — Omnisphere, u-he Diva, Serum, Arturia Pigments, Kilohearts Phase Plant, u-he Zebra 2, and more. They also develop standalone Kontakt-based instruments like Lunaris and Bioscape, which focus on evolving cinematic textures and ambient sound design. The company has built a reputation in the ambient, cinematic, and electronic production space over many years.

@@ -14,6 +14,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/NcuOyACeHwM" title="How to Transform Audio using a Synthesizer | Virtual Riot Growl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is gFractor by Growl Audio?
 
 gFractor is a spectrum analyzer plugin developed by Growl Audio, designed to give producers and engineers a clear visual picture of their audio's frequency content. Spectrum analyzers are essential mixing tools — they let you see what you can't always hear, helping you make informed EQ decisions, identify problematic frequencies, and ensure your mixes translate across playback systems. Growl Audio is making gFractor available at no cost, with no stated expiry on the free offer.

@@ -14,6 +14,11 @@ draft: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/RtBTcqOpEHo" title="Martinic - Elka Panther | VST Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Martinic AX73 Lucid Mechanics Collection?
 
 Martinic is a boutique plugin developer known for detailed emulations of vintage hardware synthesizers. The AX73 is their recreation of the Akai AX73, a six-voice polyphonic analog synthesizer from the mid-1980s. The Lucid Mechanics Collection is a preset expansion pack designed for the AX73 plugin, extending its sound palette with a curated set of patches.

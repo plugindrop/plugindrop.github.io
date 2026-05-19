@@ -135,7 +135,7 @@ This module is the most technically demanding part of Ozone to use well. In the 
 
 ### Vintage Modules — Analog Character Processing
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TKgUkYLuOFI" title="Vintage Modules — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6dN6raXIkR0" title="Vintage Modules — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 - **Developer:** iZotope

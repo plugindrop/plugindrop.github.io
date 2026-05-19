@@ -13,6 +13,11 @@ converted: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/DYSKB9d-dvI" title="Is this The Only Plugin You Need? IK Multimedia MixBox Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the IK Multimedia Spring Instruments Sale?
 
  The promotion covers five flagship instruments: **MODO BASS 2**, **MODO DRUM 1.5**, **Hammond B-3X**, **Miroslav Philharmonik 2**, and **SampleTank 4 MAX v2**. Collections start from $29.99 USD/EUR. IK is framing this as part of their 30th anniversary celebrations, so expect deeper-than-usual discounts.

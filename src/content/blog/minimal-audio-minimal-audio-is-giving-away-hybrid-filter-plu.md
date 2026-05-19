@@ -14,6 +14,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/2w4-BnNoUcE" title="This plugin is INSANE! | Rift by Minimal Audio | #shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Minimal Audio Hybrid Filter?
 
 Minimal Audio is a plugin developer known for pushing modern sound design tools beyond conventional boundaries. Hybrid Filter is their standalone filter plugin, designed to bring expressive, tonally flexible filtering to any DAW-based production workflow. The "hybrid" concept suggests the plugin combines or blends filter topologies — giving producers access to multiple filter characters from a single interface. Minimal Audio's design aesthetic consistently prioritizes usability alongside sonic depth.

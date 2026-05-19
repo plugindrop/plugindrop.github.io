@@ -14,6 +14,11 @@ heroImage: "/images/i-vibe-coded-a-free-web-midi-arpeggiator-for-the-korg-phase8
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/B_hEkSp3tEk" title="Vibe-Coding Audio Plugins: From Prompt to VST3 in Minutes (JUCE 8 &amp; APC)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## Free Web MIDI Arpeggiator for Korg Phase8: What You Need to Know
 
 Zero dollars. No sign-up. No install. Just plug in your Phase8, open a browser tab, and start building chord progressions.

@@ -14,6 +14,11 @@ draft: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/RtBTcqOpEHo" title="Martinic - Elka Panther | VST Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Martinic Scanner Vibrato?
 
 Martinic Scanner Vibrato is a plugin that faithfully models the iconic scanner vibrato and chorus circuit found in vintage Hammond tonewheel organs. Martinic — a boutique Swedish developer known for meticulous hardware emulation — built this effect around the mechanical rotary scanner that gave classic Hammond organs their distinctive wavering, warm modulation. The result is a dedicated vibrato/chorus effect plugin, separate from a full organ emulation, designed to bring that same circuit to any signal in your DAW.

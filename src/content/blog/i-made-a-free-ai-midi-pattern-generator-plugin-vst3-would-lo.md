@@ -12,6 +12,11 @@ score: 1.41
 ---
 **TL;DR:** Stepista is a **100% free** AI-powered MIDI pattern generator plugin (VST3) from developer Mr Jefferson. No trial limits, no account required, no catch. It uses Claude AI to generate musically coherent MIDI patterns across 24 electronic genres. Grab it at [stepista.vercel.app](https://stepista.vercel.app) before you forget.
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/sOKkX3vjgxc" title="AI MIDI Pattern Generator by AMG LABS [No Talking Audio Demo]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Stepista?
 
 Stepista is a free VST3 plugin that generates MIDI patterns using AI. Developed by Mr Jefferson, it's built around Claude AI to produce musically coherent sequences you can drag straight into your DAW. It covers 24 electronic music genre presets — from House and Techno to Lo-Fi, DnB, IDM, and more — with 9 musical modes and 13 real-time parameters for shaping output. The plugin runs on both Windows and macOS.

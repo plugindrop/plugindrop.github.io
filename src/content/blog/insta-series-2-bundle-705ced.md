@@ -14,6 +14,11 @@ converted: true
 ---
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/SXvGO007ZM4" title="InstaComposer 3 - Your MIDI Copilot (VST / AU / AAX)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Insta Series 2 Bundle?
 
 The Insta Series 2 Bundle is a multi-instrument collection available exclusively through Plugin Boutique. As the name implies, the Insta Series is built around the concept of fast, ready-to-play sounds — instruments designed to drop into a session quickly without requiring deep programming. The bundle groups multiple titles from the series into a single purchase, which is where the value stacks up. Check the product page for the full list of included instruments and their individual specifications.

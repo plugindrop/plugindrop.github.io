@@ -16,6 +16,11 @@ heroImage: "/images/i-designed-14-patches-on-the-roland-boutique-sh-01a-for-this
 
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/ClZ3EwM-x1k" title="ranzee Live Stream #14 - Roland SH-01A and analog flangers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Roland Boutique SH-01A?
 
 The Roland Boutique SH-01A is a compact hardware synthesizer that recreates the classic Roland SH-101, a monophonic synth originally released in 1982. The Boutique version adds polyphony and updated connectivity while retaining the original's tonal character. It's part of Roland's Boutique series — desktop modules aimed at producers who want classic synthesizer sounds in a portable, modern format.

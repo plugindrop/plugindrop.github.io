@@ -117,7 +117,7 @@ Third, **the price structure creates awkward decisions**. Neutron 4 Standard is 
 
 ### FabFilter Pro-Q 4 — The Best Pure EQ on the Market
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ODtgIwQTIc4" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
@@ -131,7 +131,7 @@ Third, **the price structure creates awkward decisions**. Neutron 4 Standard is 
 
 ### iZotope Music Production Suite — The Full Ecosystem
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BbADT051Nuk" title="iZotope Music Production Suite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ODtgIwQTIc4" title="iZotope Music Production Suite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** Bundle pricing — check current offers

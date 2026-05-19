@@ -16,6 +16,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/CQ00v5AzGuY" title="Native Instruments KOMPLETE 26 — Worth the Upgrade or Just a Name Change?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## inMusic Acquires Native Instruments: What It Means for Producers
 
 This one landed like a dropped sample. inMusic Brands — the hardware and software conglomerate behind Akai Professional, Moog, M-Audio, Denon DJ, Numark, Rane, Alesis, AIR Music Technology, and BFD — has confirmed the acquisition of Native Instruments. That means Kontakt, Komplete, Maschine, and the entire NI ecosystem now sit under the same corporate roof as some of the most recognizable names in DJ and production hardware.

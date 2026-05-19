@@ -131,7 +131,7 @@ Pro-L 2 at $199 is a single limiter. It's worth every dollar for what it does, b
 
 ### iZotope Ozone 12 Advanced — Pro mastering with stem mastering and deeper AI
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Sm66WGBAG_g" title="iZotope Ozone 12 Advanced — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ONKCi9Ebxa8" title="iZotope Ozone 12 Advanced — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** $499
@@ -143,7 +143,7 @@ Pro-L 2 at $199 is a single limiter. It's worth every dollar for what it does, b
 
 ### FabFilter Total Bundle — The complete FabFilter production and mastering toolkit
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/I_I_3ojs2Ps" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ONKCi9Ebxa8" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** ~$799

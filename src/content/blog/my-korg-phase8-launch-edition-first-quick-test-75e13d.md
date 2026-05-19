@@ -13,6 +13,11 @@ score: 3.99
 
 **TL;DR:** The Korg Phase8 Launch Edition is available at $1,149 — the same price as the standard version but bundled with three exclusive limited-edition percussive resonators you can't get separately. If you've been eyeing this one-of-a-kind acoustic synthesizer, the Launch Edition extras make now the time to pull the trigger. [Check availability here](https://www.sweetwater.com/store/detail/Phase8LE--korg-phase8-8-voice-acoustic-synthesizer-launch-edition).
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/6X1_Nv9MfdQ" title="Korg Phase8 Launch Edition // First Quick Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Korg Phase8?
 
 The Korg Phase8 is an 8-voice acoustic synthesizer developed by Korg Berlin. It's not analog. It's not digital. It uses electromagnets to excite chromatically tuned steel resonators — real, physical tines — and feeds their vibrations into a synthesis engine with envelope shaping, wavefolding, and modulation. Think of a Fender Rhodes turned inside-out, crossed with a kalimba and strapped to a sequencer. There's genuinely nothing else quite like it on the market right now.

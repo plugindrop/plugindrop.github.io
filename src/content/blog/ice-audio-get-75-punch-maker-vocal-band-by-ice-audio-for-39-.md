@@ -17,6 +17,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/UJCuWsjKLzM" title="Froze a microphone in ice and recorded it" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Punch Maker + Vocal Band Bundle?
 
 Ice Audio is a plugin developer focused on practical, producer-oriented tools for modern music production. This bundle combines two of their plugins — Punch Maker, a dynamics and transient-shaping tool, and Vocal Band, a dedicated vocal processing plugin — into a single purchase. The pairing targets two of the most common mixing pain points: getting low-end and drums to hit hard, and getting vocals to sit cleanly in a mix.
