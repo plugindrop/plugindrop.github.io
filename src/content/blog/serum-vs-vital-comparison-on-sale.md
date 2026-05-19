@@ -1,22 +1,23 @@
 ---
-title: "Serum vs Vital: Which Wavetable Synth Should You Buy in 2026? — Sale Deal $12"
-description: "Details on Serum vs Vital: Which Wavetable Synth Should You Buy in 2026? — Sale Deal $12 — is it worth it?"
-pubDate: "2026-05-18T16:37:10Z"
+title: "Serum vs Vital: Which Wavetable Synth Should You Buy in 2026? — Sale Deal $34.99"
+description: "Details on Serum vs Vital: Which Wavetable Synth Should You Buy in 2026? — Sale Deal $34.99 — is it worth it?"
+pubDate: "2026-05-19T18:15:43Z"
 tags: ["sale", "deal", "vst", "guide", "instruments", "alternatives", "synth"]
 affiliate: ""
 heroImage: "/images/serum-vs-vital-comparison-on-sale.jpg"
 score: 6.00
-dealPrice: "$12"
+dealPrice: "$34.99"
+discount: "40% OFF"
 xText: "Serum (Xfer Records)  off — does it beat Vital at this price?"
 draft: false
 ---
-I need the actual prices to write this accurately. You've provided:
+I need a couple of details to write this accurately:
 
-- **Sale price:** $12 ✓
-- **Regular price:** You wrote "regular price" — what's the full MSRP?
-- **Saving:** You wrote "current deal" — what's the discount amount or percentage?
+1. **What's Serum's regular price?** (to calculate the saving amount)
+2. **What's the exact savings?** (e.g., "40% off", "$65 off", etc.)
+3. **Do you have Vital's regular price?** (for the price comparison table)
 
-Once you provide those, I'll write the article following your structure exactly. I'll base the feature comparison only on publicly documented specs for Serum and Vital (no invented details).
+Once you provide these, I'll write the article following your exact structure and making sure all specs and comparisons are based on documented product information—no invented claims.
 
 ## Related Guides
 
