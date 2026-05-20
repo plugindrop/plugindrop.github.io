@@ -16,6 +16,11 @@ score: 3.85
 **TL;DR:** Sonora Cinematic's Spring Sale knocks **up to 40% off** their Kontakt Player and Soundbox instrument libraries — plus you get a **free instrument** with every qualifying purchase. Titles like Panorama Guitars (~~$80~~), Emma Legato (~~from $40~~), and Refraction (~~$122~~) are all included. Sale runs through **May 5th**. [Browse the full sale here.](https://sonoracinematic.com/collections/all)
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/vuYQaya2Nfg" title="Sonora Cinematic Harmonic Bloom Sale - 25% Off" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Sonora Cinematic?
 
 Sonora Cinematic is a UK-based sample library developer focused on cinematic, ambient, and textural virtual instruments. They build libraries for two platforms: **Native Instruments Kontakt Player** (the free version — no full Kontakt needed) and **Soundbox**, a newer instrument platform. Their catalog leans heavily into evocative, cinematic sound design — think post-rock guitars, ethereal vocals, expressive strings, and deeply-sampled acoustic instruments.

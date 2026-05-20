@@ -13,6 +13,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/buoS8VpN0EI" title="UADx Opal Morphing Synth - Sonic LAB Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Queen Elmyra?
 
 Queen Elmyra is a new hardware synthesizer from Neutral Labs, announced as a significantly scaled-up evolution of their Elmyra2. Neutral Labs has built a reputation in the hardware synth community for making distinctive, characterful instruments with a strong DIY-friendly ethos. The Queen Elmyra takes the Elmyra2's core concept and pushes it considerably further — described in the announcement as "much bigger." It is launching via Kickstarter, making it a crowdfunded hardware release.

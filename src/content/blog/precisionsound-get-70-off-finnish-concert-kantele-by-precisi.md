@@ -19,6 +19,11 @@ score: 4.89
 ---
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/5a2OxN4Cn-s" title="PRECISIONSOUND 10-IN-1 European Bundle Walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Finnish Concert Kantele by Precision Sounds?
 
 The Finnish Concert Kantele is a sample library from Precisionsound, a developer with a long track record of recording traditional and ethnic instruments with serious detail. The kantele is Finland's national instrument — a plucked string instrument with a distinctly resonant, crystalline tone that sits somewhere between a harp and a hammered dulcimer. This library brings that sound into your DAW as a playable virtual instrument, designed to give composers and producers access to an instrument that's genuinely difficult to find in other sample collections.

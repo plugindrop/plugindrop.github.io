@@ -16,6 +16,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/mirNm_31fNw" title="What&#39;s New &amp; Improved With iZotope Ozone 12 Advanced or Standard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Ozone 12 Standard?
 
 Ozone 12 Standard is iZotope's mid-tier mastering suite — the step between the entry-level Elements and the full Advanced version. iZotope has been a dominant name in audio processing software for years, and Ozone is their flagship mastering product. Standard gives producers and engineers an AI-assisted, all-in-one mastering environment with a collection of processors purpose-built for the final stage of production.

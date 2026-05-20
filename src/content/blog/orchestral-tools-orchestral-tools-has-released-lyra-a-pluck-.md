@@ -18,6 +18,11 @@ draft: true
 
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/kWuxCvZK7IE" title="Checking Out: Svara by Orchestral Tools" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Orchestral Tools Lyra?
 
 Lyra is a new sample library from Berlin-based developer Orchestral Tools, built around plucked string instruments and designed to run inside the free Sine Player. Orchestral Tools built their reputation on the Berlin series — high-resolution orchestral recordings made with professional ensembles — and Lyra continues in that production tradition. The Sine Player itself costs nothing to download, which means the $149 covers the library content only, with no additional platform fee on top.

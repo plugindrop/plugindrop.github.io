@@ -13,6 +13,11 @@ converted: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/tM0oPoq8KDA" title="Slate Digital Virtual Modules: VMR Classics as Standalone Analog Plugins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Slate Digital Bus Clipper?
 
 Slate Digital Bus Clipper is a newly released clipping plugin designed for transparent peak control on mix buses, stems, and individual tracks. Developed by Slate Digital — the team behind widely used tools like Virtual Mix Rack and FG-X — Bus Clipper targets the "clip before you limit" stage of the mix chain that's become standard practice in modern mastering and mixing workflows. It's compatible with both Windows and Mac, making it accessible across the most common studio setups.

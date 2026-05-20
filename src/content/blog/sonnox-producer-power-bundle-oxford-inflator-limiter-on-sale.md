@@ -13,6 +13,11 @@ converted: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Ldi4zNp4M90" title="Sonnox Oxford Inflator and Limiter Review &amp; Giveaway - Warren Huart: Produce Like A Pro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Sonnox Producer Power Bundle?
 
 Sonnox is a UK-based plugin developer with roots in professional broadcast and recording studio tools. The Producer Power Bundle packages two of their most recognized processors — the **Oxford Inflator** and the **Oxford Limiter** — into a single purchase. Both plugins target the mastering and mixing stage, where loudness, dynamics control, and perceived density matter most.

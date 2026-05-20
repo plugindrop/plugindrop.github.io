@@ -19,6 +19,11 @@ draft: false
 </div>
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/UrBF5axSXcA" title="This New Reverb Sounds so Good! Pulsar Audio Primavera Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Pulsar Smasher?
 
 Pulsar Smasher is a bus compressor plugin from Pulsar Audio, a French developer known for precision analog modeling. It targets the classic "glue compressor" territory — the kind of processor you reach for on the stereo bus, drum bus, or any group channel that needs cohesion. Pulsar Audio has built a reputation for detailed hardware emulation at competitive price points, and Smasher sits in their mixing toolkit alongside their other dynamics and saturation tools.

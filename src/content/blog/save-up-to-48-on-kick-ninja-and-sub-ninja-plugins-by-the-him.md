@@ -17,6 +17,11 @@ heroImage: "/images/save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him
 
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/ahXZKiXP1iM" title="Next Level Kick Synth. Recreate any kick with AI!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## Kick Ninja and Sub Ninja: What Are These Plugins?
 
 The Him DSP is a developer focused on precision drum synthesis tools. Kick Ninja is a dedicated kick drum synthesizer designed to give producers direct control over the transient, body, and tail of a kick — without relying on samples. Sub Ninja is its companion plugin, targeting the sub-bass layer that underpins a kick's low-end punch. Together they form a synthesis-based toolkit built specifically around kick drum construction.

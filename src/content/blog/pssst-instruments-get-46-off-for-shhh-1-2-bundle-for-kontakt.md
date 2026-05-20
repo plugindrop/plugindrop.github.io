@@ -22,6 +22,11 @@ draft: true
 </div>
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/0r9cmMJv4Fc" title="Avant-Gardist - Prepared Piano VST by Pssst Instruments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Shhh 1+2 Bundle by Pssst Instruments?
 
 Pssst Instruments is a boutique sample instrument developer known for intimate, character-rich Kontakt libraries. The Shhh Series bundles their first two Shhh installments into a single purchase, giving buyers two distinct instruments built on Native Instruments' Kontakt platform. The "Shhh" branding leans into soft, expressive, close-mic'd textures — check the official product page for the full breakdown of each library's sonic focus and included content.

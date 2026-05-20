@@ -19,6 +19,11 @@ draft: false
 </div>
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YIh3eGUCaHU" title="PLUGIN SERUM VERSI GRATIS? | Live Cut 21/10/22" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the ADSR Sounds Serum Bundle?
 
 The Serum Bundle from ADSR Sounds is a curated collection of preset packs designed for Xfer Records' Serum — one of the most widely used wavetable synthesizers in modern music production. ADSR Sounds is a well-established platform that partners with sound designers and producers to distribute professional-grade sample packs, presets, and tutorials. This bundle consolidates multiple Serum preset collections into a single purchase, offering a cost-effective way to stock up on production-ready sounds. Check the product page for the exact number of presets and included packs.

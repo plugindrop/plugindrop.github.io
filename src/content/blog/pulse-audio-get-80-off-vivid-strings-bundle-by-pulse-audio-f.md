@@ -20,6 +20,11 @@ draft: false
 </div>
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/iKVK0G8tx2s" title="Checking Out: Liikkuva Scandi String Textures by Pulse Audio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Vivid Strings Bundle by Pulse Audio?
 
 Vivid Strings is a chamber strings sample library built for Native Instruments Kontakt, developed by Pulse Audio. It targets composers and producers who need expressive, orchestral string textures without the cost of a full ensemble session or a flagship library budget. The library lives inside the Kontakt ecosystem, integrating into any Kontakt-compatible DAW workflow.

@@ -18,6 +18,11 @@ draft: true
 
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/eFUxrEzs9IM" title="Solid State Logic SSL2 &amp; SSL2+ MKII - Review, Features &amp; Latency Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the SSL LMC+ Compressor Plugin?
 
 Solid State Logic is one of the most revered names in professional audio, responsible for the consoles that shaped countless hit records. The LMC+ is their plugin recreation of the Listen Mic Compressor — a circuit originally embedded in the talkback section of the legendary SSL 4000 series console.

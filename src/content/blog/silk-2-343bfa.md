@@ -16,6 +16,11 @@ draft: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/g9axjTWWaXk" title="Limited Time FREE Vocal VST Plugin by Waves Audio - Silk vocal (Soothe 2 Alternative?) - Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is SILK 2?
 
 SILK 2 is a virtual instrument plugin available on Plugin Boutique, designed to deliver high-quality synthesis and expressive playability for music producers. It represents the second generation of the SILK instrument line, building on its predecessor with refined sound design capabilities. At its regular price of $141.90, it sits in the mid-range tier of virtual instruments — the kind of tool that normally requires a deliberate purchase decision. At $31.90, that calculus changes completely.

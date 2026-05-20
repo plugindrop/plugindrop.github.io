@@ -13,6 +13,11 @@ heroImage: "/images/soundmorph-soundmorph-has-released-dro1d-a-free-online-synth
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/zHY6f4IUqT0" title="Checking out Dust by SoundMorph #audioplugindeals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is DRO1D? SoundMorph's Free Online Synthesizer
 
 Free. Browser-based. No install required. SoundMorph — the studio behind genre-defining sci-fi and sound-design tools — has launched **DRO1D**, a synthesizer that runs entirely in your web browser. No download, no license activation, no iLok. Just open and play.

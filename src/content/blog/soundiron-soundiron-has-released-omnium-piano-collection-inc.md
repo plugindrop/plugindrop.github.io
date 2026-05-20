@@ -14,6 +14,11 @@ converted: true
 ---
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Ps4JY1ljtYg" title="Soundiron Playthrough Using Strymon&#39;s New BigSky Reverb Plugin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Soundiron Omnium Piano Collection?
 
 The Omnium Piano Collection is a brand-new virtual instrument bundle from Soundiron, a San Francisco–based sample library developer with a long catalog of production-ready instruments. The collection brings together 16 virtual instruments designed to run inside Native Instruments' free Kontakt Player — no paid Kontakt license required. At a $199 intro price, it's positioned as a wide-ranging piano library at a discounted entry point.

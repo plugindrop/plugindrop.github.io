@@ -13,6 +13,11 @@ heroImage: "/images/native-instruments-absynth-6-1-this-update-brings-a-fresh-so
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/gS1tNQD4PV4" title="Native Instruments Absynth 6 Sound Snacks - The Soundscape Synthesizer Is Back" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Native Instruments Absynth 6?
 
 Absynth is Native Instruments' long-running semi-modular synthesizer, built for producers who want sounds that are anything but ordinary. It specializes in atmospheric textures, evolving pads, cinematic drones, and complex timbres that are difficult to replicate with standard subtractive synths. The 6.1 update refreshes the instrument with new content and improvements, keeping it relevant for modern workflows. It runs as a plugin (VST/AU/AAX) and standalone.

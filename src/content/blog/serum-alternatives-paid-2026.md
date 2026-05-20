@@ -41,7 +41,7 @@ This article is written for producers who already understand synthesis and are m
 
 ### Phase Plant — the modular-architecture pick for producers who think in signal flow
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/hYf0aHswino" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Nc7xq1J-86g" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** $149 (standalone); available as part of Kilohearts Toolbox subscription

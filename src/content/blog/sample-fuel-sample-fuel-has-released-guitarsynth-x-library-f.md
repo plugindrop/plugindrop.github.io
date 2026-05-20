@@ -16,7 +16,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IOVQL2gC3mY" title="Sample Fuel — Sample Fuel has released GuitarSynth-X library for HALion. Owners of any full paid version product from Sample Fuel are eligible for a 25% loyalty discount — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/t7Sw_8akrOI" title="Sample Fuel — Sample Fuel has released GuitarSynth-X library for HALion. Owners of any full paid version product from Sample Fuel are eligible for a 25% loyalty discount — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

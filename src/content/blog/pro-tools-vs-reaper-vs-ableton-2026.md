@@ -56,7 +56,7 @@ Avid's move to subscription pricing is among the more contested decisions in DAW
 
 ### Reaper — The Best Value in DAW History
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CejOR83X6lM" title="Reaper — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LQzcDIZO3tY" title="Reaper — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Cockos Incorporated
 - **Price:** $60 discounted license (individuals and businesses under $20k gross annual revenue); $225 commercial license
@@ -75,7 +75,7 @@ The community on r/Reaper and KVR's dedicated Reaper forum is consistently cited
 
 ### Ableton Live — The Benchmark for Electronic Music Workflow
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/z0eN63xKNG4" title="Ableton Live — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LQzcDIZO3tY" title="Ableton Live — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Ableton AG
 - **Price:** Intro $99 / Standard $449 / Suite $749 (all perpetual)

@@ -19,6 +19,11 @@ draft: true
 
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/IL1GQwGFSRM" title="Audio Demo - Black Rooster&#39;s VTC-2 Vintage Tube Compressor Plugin!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Synthwave Collection v5 by OST Audio?
 
 OST Audio specializes in production-ready sample libraries and instrument collections aimed at film, game, and electronic music composers. Synthwave Collection v5 is their fifth iteration of a dedicated synthwave production suite, designed to give producers period-accurate 80s-inspired sounds — arpeggiated leads, lush pads, punchy bass sequences, and retro drum textures — without spending hours on sound design from scratch. It targets producers who want polished, genre-authentic material they can drop directly into a session.

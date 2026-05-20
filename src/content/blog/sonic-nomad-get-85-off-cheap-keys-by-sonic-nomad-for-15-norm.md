@@ -19,6 +19,11 @@ draft: false
 
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/blfxDEiBmk8" title="Fuego by Sonic Nomad | Full Walkthrough, Review and Cook-Up!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Cheap Keys by Sonic Nomad?
 
 Cheap Keys is a keyboard instrument plugin from Sonic Nomad — a developer known for lo-fi and character-driven sound design tools. The product name leans into the aesthetic: think vintage, imperfect, and distinctly un-pristine keyboard textures. It targets producers who want keys sounds that feel lived-in rather than polished, fitting comfortably into lo-fi hip-hop, indie pop, bedroom pop, and similar genres. Check the product page for the full technical spec sheet and supported formats.

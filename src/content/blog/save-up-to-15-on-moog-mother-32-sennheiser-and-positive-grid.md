@@ -13,6 +13,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/JexfJSNVQmM" title="Behringer CRAVE vs Moog MOTHER-32: The definitive comparison" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## Moog Mother-32 Deal: What Is It?
 
 The Moog Mother-32 is a semi-modular analog synthesizer from Moog Music — one of the most recognized names in synthesis history. It's a standalone tabletop unit that also functions as a fully patchable Eurorack module, making it uniquely versatile for both desktop and modular setups.

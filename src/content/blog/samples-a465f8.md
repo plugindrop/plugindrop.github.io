@@ -16,6 +16,11 @@ draft: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/M2GHiD0HtUo" title="How To Turn Samples Into MIDI Notes FAST #plugins #vst #sampling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Hard Delta Techno by Audentity Records?
 
 Audentity Records is a well-established Dutch sample label with a deep catalog spanning electronic sub-genres. *Hard Delta Techno* is their pack aimed squarely at the harder end of techno — delta techno being a subgenre defined by relentless, mechanized grooves and a raw industrial edge. The pack delivers production-ready loops and one-shots built around that aesthetic, giving producers a fast starting point for tracks with attitude.
