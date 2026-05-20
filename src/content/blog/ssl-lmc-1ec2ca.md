@@ -10,7 +10,7 @@ dealPrice: "$16.5"
 originalPrice: "$53.9"
 discount: "69% OFF"
 xText: "ssl lmc at 69% off is the kind of rare deal that makes you actually look. this is the compressor in every pro rack but normally out of reach — suddenly it's not."
-draft: false
+draft: true
 ---
 **TL;DR:** Solid State Logic's LMC compressor plugin is currently **$16.50** (~~$53.90~~) at Plugin Boutique — that's 69% off a piece of genuine SSL heritage. SSL doesn't discount this aggressively often, which makes this worth paying attention to. [Pick it up at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8677-SSL-LMC-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-lmc-1ec2ca) while the deal is live.
 

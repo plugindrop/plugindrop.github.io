@@ -10,7 +10,7 @@ dealPrice: "$31.9"
 originalPrice: "$141.9"
 discount: "78% OFF"
 xText: "new silk 2 compression just released at 78% off. that's the floor price on a new release — lowest you're ever catching this."
-draft: false
+draft: true
 ---
 **TL;DR:** SILK 2 is currently 78% off at Plugin Boutique — down from ~~$141.90~~ to just **$31.90**. That's over $110 in savings on a virtual instrument built for expressive, nuanced sound design. [Grab the deal here](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11871-SILK-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=silk-2-343bfa) before it expires.
 

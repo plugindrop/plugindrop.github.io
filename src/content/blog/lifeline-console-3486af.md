@@ -10,7 +10,7 @@ dealPrice: "$39.00"
 originalPrice: "$79.00"
 discount: "51% OFF"
 xText: "51% off a mixing console plugin—these never discount this hard. lifeline at this price point is rare. if you've been thinking about upgrading, the window's narrow."
-draft: false
+draft: true
 ---
 **TL;DR:** Lifeline Console is down to **$39** (from ~~$79~~) at Plugin Boutique — that's 51% off a well-regarded analog console channel strip. If you've been sitting on this one, now's a smart time to pull the trigger. [Grab it at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/9066-Lifeline-Console?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-console-3486af)
 

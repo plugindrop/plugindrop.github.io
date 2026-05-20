@@ -10,7 +10,7 @@ dealPrice: "$56.1"
 originalPrice: "$75.9"
 discount: "26% OFF"
 xText: "26% off bx_pulsar, same-day sale. pretty wild – either they're incredibly confident or you should already be grabbing this."
-draft: false
+draft: true
 ---
 **TL;DR:** bx_pulsar by Brainworx is now 26% off at Plugin Boutique — drop from ~~$75.90~~ to **$56.10**, saving you nearly $20. Brainworx sales at this depth don't show up constantly, so if this plugin is on your radar, [grab it now at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/15327-bx-pulsar?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-pulsar-42a036).
 

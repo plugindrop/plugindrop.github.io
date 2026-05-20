@@ -10,7 +10,7 @@ dealPrice: "$33"
 originalPrice: "$56.1"
 discount: "41% OFF"
 xText: "sandman pro at 41% off is the best deal i've seen all week. multiband that actually stays clean. this pricing won't hang around - grab it."
-draft: false
+draft: true
 ---
 **TL;DR:** Unfiltered Audio Sandman Pro is currently **$33** (~~$56.10~~) at Plugin Boutique — 41% off a delay plugin built specifically for looping, freezing, and experimental sound design. If this kind of tool fits your workflow, [grab it here while the discount holds](https://www.pluginboutique.com/product/2-Effects/10-Delay/14927-Unfiltered-Audio-Sandman-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-sandman-pro-6f47ba).
 

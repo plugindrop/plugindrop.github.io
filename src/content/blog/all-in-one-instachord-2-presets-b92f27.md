@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-productio
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/31-Synth-Presets/7920-All-In-One-InstaChord-2-Presets?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=all-in-one-instachord-2-presets-b92f27"
 heroImage: /images/all-in-one-instachord-2-presets-b92f27.jpg
 score: 8.82
-draft: false
+draft: true
 converted: true
 ---
 **All In One InstaChord 2 Presets** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/31-Synth-Presets/7920-All-In-One-InstaChord-2-Presets?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=all-in-one-instachord-2-presets-b92f27)

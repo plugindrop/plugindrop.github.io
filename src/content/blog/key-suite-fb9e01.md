@@ -10,7 +10,7 @@ dealPrice: "$218.9"
 originalPrice: "$328.9"
 discount: "33% OFF"
 xText: "key suite just dropped 33% off. new releases never discount this fast or this hard. this is the window to grab it."
-draft: false
+draft: true
 ---
 **TL;DR:** Key Suite is 33% off at Plugin Boutique right now — down from ~~$328.9~~ to **$218.9**, a flat $110 saving on a keyboard instrument bundle aimed at producers who need serious key sounds without piecing together individual plugins. Sales at this depth aren't an everyday occurrence, so it's worth evaluating now. [Check it out here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16200-Key-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=key-suite-fb9e01)
 

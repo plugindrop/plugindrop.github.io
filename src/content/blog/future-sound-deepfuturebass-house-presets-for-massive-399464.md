@@ -10,7 +10,7 @@ dealPrice: "$23.03"
 originalPrice: "$39"
 discount: "41% OFF"
 xText: "these deepfuturebass presets for massive sit in a dark mix like butter — 41% off rn. rare price on something that actually works"
-draft: false
+draft: true
 ---
 **TL;DR:** Future Sound's Deepfuturebass House Presets for Massive is down 41% at ADSR Sounds — ~~$39~~ **$23.03**. That's a solid discount on a dedicated deep future bass and house preset library for NI Massive. [Grab the deal here.](https://www.adsrsounds.com/product/massive-presets/future-sound-deepfuturebass-house-presets-for-massive/?a_aid=plugindrop&data1=future-sound-deepfuturebass-house-presets-for-massive-399464&utm_source=plugindrop&utm_medium=article&utm_campaign=future-sound-deepfuturebass-house-presets-for-massive-399464)
 
