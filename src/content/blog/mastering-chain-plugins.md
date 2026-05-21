@@ -265,7 +265,7 @@ The complete mastering chain outlined here — SPAN for analysis, FabFilter Pro-
 
 - [Plugin Bundle Price Comparison 2026 — Cost Per Plugin Ranked](/bundle-comparison/)
 - [iZotope Ozone vs FabFilter Mastering: Which Wins?](/posts/izotope-ozone-vs-fabfilter-mastering/)
-- [FabFilter Pro-L 2 Review: Best Mastering Limiter?](/posts/fabfilter-pro-l-2-review/)
+- [FabFilter Pro-L 2 Review 2026: Still the Best Limiter?](/posts/fabfilter-pro-l-2-review/)
 - [Best Free Mastering Plugins 2026](/posts/best-free-mastering-plugins/)
 - [Best Limiter Plugins for Mastering 2026](/posts/best-limiter-plugins-mastering/)
 - [iZotope Ozone 12 Review 2026: Still the Mastering King?](/posts/izotope-ozone-12-review/)
