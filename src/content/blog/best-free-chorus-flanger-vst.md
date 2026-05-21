@@ -12,7 +12,7 @@ draft: false
 **TL;DR:** TAL-Chorus-LX is the unanimous go-to free chorus in producer communities — it emulates a Roland JC-120 circuit, it's free on every platform, and years of community consensus haven't found a better free alternative for classic chorus duties. For flanging, MeldaProduction's MFlanger (free, part of their bundle) offers more modulation depth than most plugins costing $50+. Start with those two.
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/DwavVmCGBak" title="8 Best Free Chorus & Flanger VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_ps-nhq52XY" title="8 Best Free Chorus & Flanger VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -40,7 +40,7 @@ This guide is written for bedroom producers, home studio engineers, and anyone w
 
 ### TAL-Chorus-LX — The default free chorus, still undefeated
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/DwavVmCGBak" title="TAL-Chorus-LX — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_ps-nhq52XY" title="TAL-Chorus-LX — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** TAL Software (Togu Audio Line)
 - **Price:** Free
@@ -60,7 +60,7 @@ The interface is deliberately minimal: two chorus modes (one-stage and two-stage
 
 ### MChorus (MeldaProduction) — Multiband chorus depth in a free plugin
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/DwavVmCGBak" title="MChorus (MeldaProduction) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/sPMXUkZrXuY" title="MChorus (MeldaProduction) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** MeldaProduction
 - **Price:** Free (part of MFreeFXBundle)
@@ -79,7 +79,7 @@ The interface follows MeldaProduction's house style — dense, customizable, wit
 
 ### Valhalla SuperMassive — Not a chorus, but widely used like one
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/DwavVmCGBak" title="Valhalla SuperMassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Ck92MDL4APw" title="Valhalla SuperMassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** Free
@@ -98,7 +98,7 @@ Valhalla DSP built SuperMassive's reputation on the same DSP quality that makes 
 
 ### Blue Cat's Chorus — Clean, dependable, requires no explanation
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/DwavVmCGBak" title="Blue Cat's Chorus — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/PYuI1FQX2ak" title="Blue Cat's Chorus — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Blue Cat Audio
 - **Price:** Free
@@ -117,7 +117,7 @@ Blue Cat Audio maintains a well-regarded freeware plugin collection alongside th
 
 ### MFlanger (MeldaProduction) — More flanger than most paid options
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/DwavVmCGBak" title="MFlanger — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/icDEDz2_-D0" title="MFlanger — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** MeldaProduction
 - **Price:** Free (part of MFreeFXBundle)
@@ -137,7 +137,7 @@ The UI density is the tradeoff, consistent with all MeldaProduction plugins. Fir
 
 ### TAL-Flanger — TAL's philosophy applied to flanging
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/DwavVmCGBak" title="TAL-Flanger — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/pt9Y6I5Okm0" title="TAL-Flanger — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** TAL Software (Togu Audio Line)
 - **Price:** Free
@@ -156,7 +156,7 @@ TAL-Flanger follows the same design philosophy as TAL-Chorus-LX: analog-modeled 
 
 ### GVST GChorus — Lightweight and reliable for Windows producers
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/DwavVmCGBak" title="GVST GChorus — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Va0aWg2SSw4" title="GVST GChorus — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** GVST
 - **Price:** Free
@@ -173,7 +173,7 @@ GVST has been publishing free VST plugins since the format's early days. GChorus
 
 ### AirWindows Ensemble — Open-source modulation with community credibility
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/DwavVmCGBak" title="AirWindows Ensemble — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Qf4elskSbXg" title="AirWindows Ensemble — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** AirWindows (Chris Johnson)
 - **Price:** Free (open source)
@@ -192,7 +192,7 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 
 ### Arturia Chorus DIMENSION-D — The Roland Dimension D without the hardware hunt
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/DwavVmCGBak" title="Arturia Chorus DIMENSION-D — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/zWDahsu8vFE" title="Arturia Chorus DIMENSION-D — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** $49
@@ -205,7 +205,7 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 
 ### Valhalla Chorus — Modern algorithmic chorus from a developer the community trusts
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/DwavVmCGBak" title="Valhalla Chorus — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EzPouHxa18s" title="Valhalla Chorus — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Valhalla DSP
 - **Price:** $50

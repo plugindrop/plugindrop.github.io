@@ -14,6 +14,9 @@ draft: false
 
 ---
 
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/g6mMyjPzeY4" title="Best EQ Plugins 2026: Free & Paid for Every Producer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ## Quick Picks at a Glance
@@ -62,7 +65,7 @@ Pro-Q 4 earned its reputation through a combination of pristine sound quality, a
 
 ### TDR Nova — Free dynamic EQ that competes with plugins ten times its price
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/g6mMyjPzeY4" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1CHFv4mWQYM" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Tokyo Dawn Records
 - **Price:** Free (GE edition: ~$50)
@@ -79,7 +82,7 @@ TDR Nova is a parallel dynamic equalizer — meaning each band can function as a
 
 ### Voxengo Marvel GEQ — The free graphic EQ that belongs on every master bus
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/g6mMyjPzeY4" title="Voxengo Marvel GEQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gZf46Iz8RMA" title="Voxengo Marvel GEQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Voxengo
 - **Price:** Free
@@ -96,7 +99,7 @@ Marvel GEQ is a 16-band linear-phase graphic EQ with a clean spectrum display an
 
 ### MEqualizer — Fast, clean, and zero friction for static shaping
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/g6mMyjPzeY4" title="MEqualizer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OBA0Omugrfg" title="MEqualizer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** MeldaProduction
 - **Price:** Free
@@ -115,7 +118,7 @@ MEqualizer is part of MeldaProduction's free MFreeFXBundle and offers six fully 
 
 ### iZotope Neutron — AI-assisted EQ and mixing in one channel strip
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/g6mMyjPzeY4" title="iZotope Neutron — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/uH-B1GVxg6I" title="iZotope Neutron — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** $99–$199 (standard / advanced; frequent sales)
@@ -127,7 +130,7 @@ MEqualizer is part of MeldaProduction's free MFreeFXBundle and offers six fully 
 
 ### Waves SSL E-Channel — Analog SSL character in a plugin, at sale prices that make it a no-brainer
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/g6mMyjPzeY4" title="Waves SSL E-Channel — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/b2IWMPae9I0" title="Waves SSL E-Channel — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves
 - **Price:** $29–$79 (Waves sales run constantly; rarely full price)
