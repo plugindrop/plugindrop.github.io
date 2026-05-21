@@ -7,6 +7,7 @@ affiliate: ""
 evergreen: true
 score: 8.00
 xText: "New guide: Arturia V Collection 11 Review: 40+ Vintage Synths Worth the..."
+heroImage: "/images/arturia-v-collection-review.jpg"
 draft: false
 ---
 **TL;DR:** Arturia V Collection 11 is the most comprehensive vintage synth emulation bundle available in 2026 — 40+ meticulously modeled classics in a single license. If you want authentic analog and digital textures without hunting down hardware, this is the benchmark buy. The value-per-instrument ratio makes individual purchases look wasteful.

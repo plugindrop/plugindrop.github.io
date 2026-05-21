@@ -7,6 +7,7 @@ affiliate: ""
 evergreen: true
 score: 8.00
 xText: "New guide: FabFilter Pro-C 2 Review: The Most Transparent Compressor Pl..."
+heroImage: "/images/fabfilter-pro-c-2-review.jpg"
 draft: false
 ---
 **TL;DR:** FabFilter Pro-C 2 delivers eight distinct compression styles, surgical parameter control, and the most informative gain reduction metering available in any dynamics plugin — all for $179. For producers serious about transparent dynamics control in 2026, it's the benchmark other compressors are measured against.

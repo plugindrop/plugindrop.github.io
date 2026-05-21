@@ -7,6 +7,7 @@ affiliate: ""
 evergreen: true
 score: 8.00
 xText: "New guide: 8 Best Free Chorus & Flanger VST Plugins in 2026"
+heroImage: "/images/best-free-chorus-flanger-vst.jpg"
 draft: false
 ---
 **TL;DR:** TAL-Chorus-LX is the unanimous go-to free chorus in producer communities — it emulates a Roland JC-120 circuit, it's free on every platform, and years of community consensus haven't found a better free alternative for classic chorus duties. For flanging, MeldaProduction's MFlanger (free, part of their bundle) offers more modulation depth than most plugins costing $50+. Start with those two.

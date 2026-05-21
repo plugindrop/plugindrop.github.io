@@ -7,6 +7,7 @@ affiliate: ""
 evergreen: true
 score: 8.00
 xText: "New guide: How to Mix Drums with Plugins: Complete Step-by-Step Guide (..."
+heroImage: "/images/how-to-mix-drums-plugins.jpg"
 draft: false
 ---
 **TL;DR:** For drum mixing in 2026, FabFilter Pro-Q 4 handles the surgical EQ work that defines clarity and punch, while the Waves SSL G-Master Buss Compressor delivers the bus glue that holds a kit together. Start with those two, add Transient Master for punch shaping, and grab OTT free for parallel density in electronic contexts — that chain covers every major drum mixing scenario.
