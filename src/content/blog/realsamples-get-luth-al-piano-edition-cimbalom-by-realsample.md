@@ -10,7 +10,7 @@ dealPrice: "$0"
 originalPrice: "$39.99"
 saleExpiry: "2026-05-21"
 xText: "realsamples is giving away a cimbalom kontakt library normally $39.99. go grab it. kontakt required."
-draft: false
+draft: true
 ---
 **TL;DR:** Realsamples is giving away **Luthéal Piano Edition Cimbalom** at no cost — normally ~~$39.99~~, now free until May 21st. This is a Kontakt instrument capturing a genuinely rare acoustic sound. [Grab it here before it's gone.](https://audioplugin.deals/product/lutheal-piano-edition-cimbalom-by-realsamples/ref/21/)
 

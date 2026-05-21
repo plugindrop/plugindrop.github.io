@@ -11,7 +11,7 @@ originalPrice: "$199"
 discount: "70% OFF"
 saleExpiry: "2026-05-21"
 xText: "eastwest orchestral vocals at 70% off ($59 from $199)—lowest i've seen it. perfect for cinematic layers that actually sound expensive."
-draft: false
+draft: true
 ---
 **TL;DR:** EastWest Gypsy + Hollywood Fantasy Voices is available as a bundle for **$59** (~~$199~~) — a 70% discount on two cinematic sample libraries from one of the most established names in professional sample production. EastWest doesn't run this depth of discount constantly, so this is a notable window for composers watching the price. [Grab the deal here.](https://audioplugin.deals/product/eastwest-gypsy/ref/21/)
 

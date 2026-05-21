@@ -11,7 +11,7 @@ originalPrice: "$99"
 discount: "85% OFF"
 saleExpiry: "2026-05-21"
 xText: "cheap keys just hit $15. never drops below $50. this price is genuinely rare. normally $99"
-draft: false
+draft: true
 ---
 **TL;DR:** Sonic Nomad's Cheap Keys is currently 85% off — just $15 instead of the usual ~~$99~~. The deal runs until May 21st, making this a solid window for producers hunting affordable, characterful keyboard sounds. [Grab it here before the deadline.](https://audioplugin.deals/product/cheap-keys-by-sonic-nomad/ref/21/)
 
