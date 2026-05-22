@@ -16,6 +16,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/QQ0tjIX3z70" title="U-he Synth Bundle - DIVA, Repro1, Hive 2, &amp; Zebra for Limited Time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## u-he Hive 2 Synthwave Bundle: What the Deal Actually Includes
 
 u-he Hive 2 is a polyphonic software synthesizer from Cologne-based developer u-he, built around a dual-layer architecture that prioritizes CPU efficiency without sacrificing sound quality. This Plugin Boutique deal bundles the full Hive 2 license with a dedicated Synthwave Expansion — a curated preset library oriented toward retro-futuristic electronic music. The expansion is included at no additional cost compared to buying it alongside Hive 2 separately.

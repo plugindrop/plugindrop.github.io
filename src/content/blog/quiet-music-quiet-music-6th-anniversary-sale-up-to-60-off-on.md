@@ -15,6 +15,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/9n-wqmXhtss" title="Quiet Piano by Quiet Music Free Plugin Review (The Best Free Piano Plugin of 2020?????)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## Quiet Music Anniversary Sale: Up to 60% Off All Plugins & Samples
 
 Anniversary sales are worth paying attention to. They happen once a year, they're usually the deepest discount a brand runs, and when a developer puts their entire catalog on sale, it's a genuine opportunity to fill gaps in your toolkit at a fraction of the usual cost.

@@ -17,6 +17,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/izITuje4m88" title="2B Reverbed By 2B Played Music VST Plugin Review and Demo (2B Played Music Bundle Giveaway)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is LowEnd Friend 2?
 
 LowEnd Friend 2 is a low-end management and bass enhancement plugin from 2B Played Music, built to help producers get tight, controlled bottom end in their mixes. It's the successor to the original LowEnd Friend, bringing an updated processing engine and refined workflow to version 2. The plugin targets the frequency range where mixes most commonly fall apart — loose subs, muddy bass, weak kick punch — and gives you dedicated tools to address it. Check the product page for full system requirements and DAW compatibility.

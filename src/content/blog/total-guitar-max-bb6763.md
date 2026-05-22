@@ -13,6 +13,11 @@ converted: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/qGtFMUHcZMg" title="Total Studio 4 MAX? WATCH THIS BEFORE YOU BUY!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is TOTAL Guitar MAX?
 
 TOTAL Guitar MAX is a plugin bundle sold through Plugin Boutique that packages multiple guitar-focused tools — covering amp simulation, effects processing, and guitar production utilities — into a single discounted collection. Rather than hunting individual deals across months, the bundle is designed to give producers and guitarists a broad toolkit in one purchase. Check the product page for the full list of included titles and developer details.

@@ -16,6 +16,11 @@ score: 6.29
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/_sIPx7IJefo" title="Vandalism Shocking Future Bass for SynthMaster One" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Vandalism Shocking UK House for Serum?
 
 Vandalism is one of the most recognizable names in the Xfer Serum preset market, known for releasing genre-specific sound packs aimed at contemporary electronic music producers. *Shocking UK House for Serum* is a dedicated preset library targeting the UK House sound — a genre defined by punchy basslines, chopped vocal chops, filtered synths, and driving four-to-the-floor energy. The pack is designed to load directly into Serum and deliver production-ready sounds without additional setup.

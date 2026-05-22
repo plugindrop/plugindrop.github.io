@@ -13,6 +13,11 @@ converted: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/bC5fN8h_36k" title="UVI Super 7 Review and Demo 80s inspired by the MKS-7, an 8-voice rackmount synthesizer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Key Suite?
 
 Key Suite is a virtual instrument collection from UVI — the French developer known for deep-sampled instruments and tight integration with their own playback ecosystem. The collection covers a wide range of keyboard instruments, from classic electric pianos and vintage organs to acoustic and digital keys. It runs inside either UVI Workstation (free) or Falcon, UVI's flagship synthesis and sampling platform.

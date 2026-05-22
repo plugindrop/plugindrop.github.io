@@ -18,6 +18,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/bC5fN8h_36k" title="UVI Super 7 Review and Demo 80s inspired by the MKS-7, an 8-voice rackmount synthesizer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is UVI Orchestral Suite 2?
 
 UVI Orchestral Suite 2 is a brand-new symphonic orchestra sample library from UVI, the French audio software company behind the Falcon synthesizer platform. Designed to deliver a full orchestral palette — covering the core sections of a symphony orchestra — within a single, cohesive package. Crucially, it runs on both the premium Falcon synth and the **free UVI Workstation** player, which removes the barrier for producers who don't already own Falcon. As a newly released title, this 35% intro window is the lowest price it's likely to be.

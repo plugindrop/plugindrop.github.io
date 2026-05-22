@@ -22,6 +22,11 @@ draft: false
 </div>
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/50m2Q7wPUFg" title="A Laughable Sales Pitch - The Unison MIDI Chord Pack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Unison MIDI Chord Pack?
 
 The Unison MIDI Chord Pack — sold as the MIDI Wizard Beatmaker Expansion Pack — is a dedicated MIDI library from Unison Audio, a brand focused on producer-first tools that accelerate the creative workflow. The pack delivers pre-built chord progressions in standard MIDI format, meaning every file drops straight into your DAW and plays through any instrument, synth, or plugin you already own. It's built to complement Unison Audio's broader ecosystem, including their synthesizer tools, while remaining fully usable as a standalone resource.

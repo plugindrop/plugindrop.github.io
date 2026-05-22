@@ -15,6 +15,11 @@ score: 4.83
 
 **TL;DR:** Universal Audio's Little Labs Voice Of God bass resonance plugin is now available as a native plugin — no UAD hardware required. It's currently **50% off at ~~$99~~ $49** during the introductory sale. If you've been wanting that broadcast-style low-end weight on vocals, kicks, and bass, [grab it while the intro pricing lasts](https://www.thomann.de/intl/universal_audio_little_labs_voice_of_god.htm).
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Hm0EkpubD7Q" title="UAD Little Labs Voice of God | UAD Spotlight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Little Labs Voice Of God?
 
 The Little Labs Voice Of God is a bass resonance and proximity effect processor developed by Universal Audio, based on the original analog hardware designed by Jonathan Little. The concept is rooted in the rich, chest-heavy low end that broadcast microphones gave to classic radio announcers. It uses a resonant high-pass filter to add focused weight and body to audio sources — think controlled low-end thump rather than boomy mud. Engineer Joe Barresi collaborated on the original hardware design.

@@ -15,6 +15,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/W5cKtUkNfTs" title="👀 First Look 👀 Retrograde by Simon Servida // Reverse Plugin I Didn&#39;t Think I Needed..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is YSFC Forge?
 
 YSFC Forge is a community-led open-source project that reverse-engineered Yamaha's undocumented .Y2L and .Y2U performance file format used in the MODX M synthesizer. It was built the hard way: binary-diffing real hardware exports one parameter at a time, across thousands of test files. The result is a fully verified format spec covering every known user-editable parameter across all four synthesis engines — AWM2, AN-X, FM-X, and Drum — plus free browser-based tools for working with the files directly.

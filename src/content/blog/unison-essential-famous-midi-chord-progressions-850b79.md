@@ -26,6 +26,11 @@ draft: true
 </audio>
 </div>
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/50m2Q7wPUFg" title="A Laughable Sales Pitch - The Unison MIDI Chord Pack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Unison Essential Famous MIDI Chord Progressions?
 
 Unison Essential Famous MIDI Chord Progressions is a MIDI pack from Unison Audio — a brand known for music production tools aimed at beatmakers, songwriters, and producers working in modern genres. The pack delivers a curated collection of chord progressions modeled after the harmonic patterns found in well-known tracks, formatted as drag-and-drop MIDI files. It's designed to plug straight into your DAW and your existing virtual instruments without any additional software required.

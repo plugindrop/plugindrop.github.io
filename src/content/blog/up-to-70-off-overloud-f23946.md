@@ -13,6 +13,11 @@ converted: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/trXfUf9rpkw" title="Overloud Comp LA - Opto compressor beyond the original hardware" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Overloud?
 
 Overloud is an Italian audio software company known for high-fidelity analog hardware emulations and guitar amp modeling. Their product range spans two main lines: the **TH-U** series of guitar amp simulators and the **Gems** series of studio mixing/mastering plugins. The Gems lineup covers compressors, EQs, tape emulation, modulation, and delay — all modeled after classic analog studio hardware. The TH-U platform, meanwhile, combines amp modeling, cabinet simulation, and effects processing into a single guitar rig environment.

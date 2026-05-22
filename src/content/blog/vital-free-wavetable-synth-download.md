@@ -13,6 +13,11 @@ draft: true
 
 **TL;DR:** Vital — **free tier available permanently.** A wavetable synth that goes head-to-head with Serum. 3 oscillators, spectral warping, drag-and-drop visual modulation, 75 presets. Paid tiers ($25/$80) add more presets and wavetables, but the free version is fully functional. [Get it here](https://vital.audio/).
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/7qQX6YGBQEA" title="Free Vital Synth - Full Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Vital?
 
 Vital is a wavetable synthesizer created by Matt Tytel. It launched in 2020 and immediately drew comparisons to Xfer Serum ($189) due to its visual modulation system and wavetable engine. The free tier is not a trial — it's a permanent, fully functional version of the synth. Paid tiers (Plus at $25, Pro at $80) unlock additional presets and wavetables.

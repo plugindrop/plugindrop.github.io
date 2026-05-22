@@ -106,7 +106,7 @@ For producers who prioritize routing depth and tonal range over surface-level ae
 
 ### TDR Kotelnikov — The free compressor professionals keep reaching for
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Cpokm0j1DXQ" title="TDR Kotelnikov — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ZpYwUztWqqU" title="TDR Kotelnikov — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Tokyo Dawn Labs
 - **Price:** Free (Gentleman's Edition: €49)
@@ -158,7 +158,7 @@ This plugin does one thing well and does not pretend to do anything else. For pr
 
 ### Waves API 2500 — A different register of bus compression the SSL cannot replicate
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Qj23SbCofoA" title="Waves API 2500 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ZpYwUztWqqU" title="Waves API 2500 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves Audio
 - **Price:** From $29.99 (frequent sales)

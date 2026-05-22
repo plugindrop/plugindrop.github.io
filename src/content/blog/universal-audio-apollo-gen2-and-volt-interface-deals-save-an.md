@@ -14,6 +14,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/3EXQUTh4oec" title="New Apollo X Gen 2 by Universal Audio | Review &amp; Sound Quality Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## Universal Audio Apollo Gen 2 and Volt Interface Deals
 
 Free plugins with a hardware purchase. That's the headline. Universal Audio is running discounts on Apollo Gen 2 and Volt interfaces through the end of May, and Volt buyers are walking away with additional native plugins at zero extra cost. If you've been sitting on a UA interface upgrade, the timing is hard to ignore.

@@ -14,6 +14,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/i4nCfXv7mec" title="Granular Synthesizer Comparison! Polyend Synth, 1010Music Bento, Torso Electronics S-4." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Torso Electronics S-4?
 
 The S-4 is a polyphonic hardware synthesizer from Torso Electronics, the Danish company known for building instruments that reward deep exploration. It combines synthesis with an algorithmic, sequencer-driven approach — aimed squarely at producers and performers who want to move beyond static patch recall. Torso Electronics has built a reputation for supporting their hardware post-launch with meaningful firmware updates, and version 2.2 continues that tradition.

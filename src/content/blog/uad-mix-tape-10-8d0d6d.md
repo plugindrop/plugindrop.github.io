@@ -14,6 +14,11 @@ draft: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/LKS_B8gO7Fs" title="10 UAD Plugins I Use ALL The Time.. #universalaudio #plugins #studio #homestudio #producer #mixing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is UAD Mix Tape 10?
 
 Universal Audio's Mix Tape series is a recurring bundle format that packages a hand-selected lineup of UAD plugins — the same professional hardware emulations trusted in major studios worldwide — into a single, value-priced collection. Mix Tape 10 is the tenth installment of this series, giving producers and engineers access to UA's analog modeling technology at a significantly lower cost than purchasing titles individually. The bundle spans multiple production categories, covering the kinds of processing engineers reach for throughout a mix session.

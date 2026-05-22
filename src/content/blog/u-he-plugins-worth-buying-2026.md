@@ -40,7 +40,7 @@ This guide is for producers who have already read the headlines and want a direc
 
 ### u-he Diva — The Benchmark for Virtual Analog
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-PO84tYA6mA" title="u-he Diva — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/301rH2Tc8ec" title="u-he Diva — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** $179
@@ -80,7 +80,7 @@ Repro is not available through third-party storefronts, and no affiliate purchas
 
 ### u-he Hive 2 — The Practical Choice in the u-he Lineup
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/dJtf3JmwnjI" title="u-he Hive 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/301rH2Tc8ec" title="u-he Hive 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** $149
@@ -127,7 +127,7 @@ No affiliate purchase link is available for Zebra2. It can be trialed and purcha
 
 ### u-he Hive 2 — The Efficient Entry Point Into the u-he Ecosystem
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mblpEMddi2E" title="u-he Hive 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/301rH2Tc8ec" title="u-he Hive 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** $149

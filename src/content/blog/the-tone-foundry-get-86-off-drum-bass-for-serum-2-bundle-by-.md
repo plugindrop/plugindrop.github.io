@@ -13,6 +13,11 @@ converted: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Ur5vZRZDfgY" title="Did you know Serum 2 can do this?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Drum & Bass for Serum 2 Bundle?
 
 The Drum & Bass for Serum 2 Bundle is a Plugin Boutique exclusive from The Tone Foundry, a developer known for crafting genre-focused preset packs for Xfer Records' Serum synthesizer. This bundle rolls three standalone DnB expansion packs into one collection — 210 presets total, all built specifically for Serum 2. It covers liquid, techy, and deep styles of drum & bass, drawing inspiration from artists like Hybrid Minds, Break, Enei, Bou, and S.P.Y.

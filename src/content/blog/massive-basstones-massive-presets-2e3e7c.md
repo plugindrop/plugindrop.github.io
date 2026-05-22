@@ -14,6 +14,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/_Bp-W8eaOAk" title="Massive Presets from MSXII - Plug &amp; Play Vol. 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Massive Basstones?
 
 Massive Basstones is a preset pack built exclusively for Native Instruments Massive, one of the most widely used synthesizers in electronic music production. Unlike all-category preset banks, this collection focuses entirely on bass sounds — growling, punchy, and sub-heavy patches designed for genres where the low end is the main event. It's sold through ADSR Sounds, a well-established marketplace for production tools, sample packs, and synth presets.

@@ -14,6 +14,11 @@ converted: true
 ---
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/oZkiWNrQgxc" title="Dream Big with @ujamInstruments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the UJAM SELECT 5 Bundle?
 
 UJAM is a German music software developer known for their lineup of virtual instruments spanning guitars, basses, drums, and beatmakers. Their SELECT bundles are curated packages that group five of their core plugins together at a reduced price — designed to give producers a cross-category toolkit from a single developer. SELECT 5 is the fifth edition of this series, offering broad coverage across UJAM's instrument categories in one purchase.

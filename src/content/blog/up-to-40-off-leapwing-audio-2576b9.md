@@ -13,6 +13,11 @@ converted: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/BEICbgGhxS8" title="StageOne by Leapwing Audio | Tutorial &amp; Review of Main Parameters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Leapwing Audio?
 
 Leapwing Audio is a Belgian plugin developer founded in 2015 by Robin, Jeroen, and Emiliano. Their stated mission is building "plugins that didn't exist before" — professional-grade tools for mixing and mastering that take novel approaches to common audio problems. Their catalog includes spectral limiters, stereo imaging tools, subharmonic generators, and signature plugins co-developed with legendary engineers like Al Schmitt and Joe Chiccarelli. The brand sits firmly in the premium tier of the plugin market, which makes 
