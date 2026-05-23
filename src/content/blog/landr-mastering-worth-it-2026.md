@@ -60,7 +60,7 @@ The documented limitation is equally consistent across community discussions: LA
 
 ### The Reference Track Feature — Useful directionally, not transparent
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bl3_hb5GCWo" title="The Reference Track Feature — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IslBZmbz47Q" title="The Reference Track Feature — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** LANDR
 - **Price:** Paid tiers only
@@ -77,7 +77,7 @@ The community's documented criticism is transparency: unlike iZotope Ozone 12's 
 
 ### Distribution Integration — The actual reason LANDR makes sense for high-volume producers
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/JONilffWkZE" title="Distribution Integration — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IslBZmbz47Q" title="Distribution Integration — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** LANDR
 - **Price:** Bundled with higher-tier subscription plans
@@ -143,7 +143,7 @@ If the LANDR subscription math doesn't work for your release volume — or if ge
 
 ### FabFilter Pro-L 2 — The community's preferred true-peak limiter for the final mastering stage
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/oMJeWXtJODc" title="FabFilter Pro-L 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IslBZmbz47Q" title="FabFilter Pro-L 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $199 (one-time purchase)

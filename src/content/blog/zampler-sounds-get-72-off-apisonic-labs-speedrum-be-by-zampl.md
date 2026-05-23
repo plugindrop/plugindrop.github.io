@@ -18,7 +18,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ZSL3CVVILiI" title="Zampler Sounds — Get 72% off Apisonic Labs Speedrum BE by ZamplerSounds for $19 (Normally $69) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/14jY3plHx2c" title="Zampler Sounds — Get 72% off Apisonic Labs Speedrum BE by ZamplerSounds for $19 (Normally $69) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

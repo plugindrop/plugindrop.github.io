@@ -17,6 +17,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/rSdqiH5td90" title="My First Look At The Zen Master By Unison Audio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Zen Audio Quadila?
 
 Quadila is a multiband fuzz plugin developed by Zen Audio, available for Mac and Windows. Unlike a traditional fuzz pedal emulation that processes your full signal as one, Quadila splits the signal into frequency bands and applies fuzz independently to each — giving producers and engineers much finer control over where the grit lands. It's the kind of tool built for situations where a standard fuzz plugin either overwhelms the low end or leaves the highs untouched when you actually want texture across the spectrum.

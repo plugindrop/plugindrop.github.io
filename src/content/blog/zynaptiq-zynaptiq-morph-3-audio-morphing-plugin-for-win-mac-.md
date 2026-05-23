@@ -16,6 +16,11 @@ draft: true
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Icl_NrS427k" title="The Power of Zynaptiq&#39;s Unfilter Plug-in" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Zynaptiq Morph 3?
 
 Zynaptiq Morph 3 is an audio morphing plugin for Windows and Mac that blends two audio signals together in real time — not with simple crossfading, but through advanced spectral analysis that transforms one sound *into* another. Zynaptiq is a German audio software company known for pushing into territory most developers avoid: AI-driven source separation, upmixing, and signal reconstruction. Morph sits at the center of their lineup as a tool for producers and sound designers who need something genuinely unusual.
