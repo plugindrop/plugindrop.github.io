@@ -14,6 +14,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/ub5ks1FhXOE" title="GFRACTOR: УБИЙЦА SPAN И MANALYZER? ОБЗОР БЕСПЛАТНОГО ПЛАГИНА" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is gFractor?
 
 gFractor is a spectrum analyzer plugin developed by Growl Audio, available as a free download directly from the developer. What sets it apart from the crowd is a feature that sounds simple but has been surprisingly absent from the market: a **linear frequency scale** display mode. According to community discussion, it may be the first multifunctional VST spectrum analyzer to offer this alongside standard logarithmic display. The linear frequency scale was added by the developer in response to direct user feedback — a sign of an actively maintained, community-driven tool.
