@@ -11,7 +11,7 @@ originalPrice: "$608"
 discount: "97% OFF"
 saleExpiry: "2026-05-24"
 xText: "honestly the serum bundle at $20 is completely different. normally $608, never drops this low. if you've got serum the value is just insane."
-draft: false
+draft: true
 ---
 **TL;DR:** Aubit Sound's Serum Bundle is currently on sale for just **$20** — down from ~~$608~~ — a 97% discount that's hard to ignore. This is a preset bundle for Xfer Serum, one of the most-used synths in modern production. [Grab it here before the deal ends.](https://audioplugin.deals/product/the-serum-bundle-by-aubit-sound/ref/21/)
 
