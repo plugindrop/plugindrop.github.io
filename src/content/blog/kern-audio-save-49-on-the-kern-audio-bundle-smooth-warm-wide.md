@@ -11,7 +11,7 @@ dealPrice: "$59"
 discount: "49% OFF"
 saleExpiry: "2026-05-25"
 xText: "four KERN plugins for $59 is basically $15 each. the fact they layer without fighting is what makes this work. lowest price on this bundle I've seen."
-draft: false
+draft: true
 ---
 **TL;DR:** KERN Audio is currently offering their full 4-plugin bundle — SMOOTH, WARM, WIDE, and PUSH — at 49% off for **$59**. That breaks down to roughly **$14.75 per plugin**, which is strong value for a complete analog-flavored processing toolkit. [Grab the bundle here.](https://kernaudio.io/bundle)
 

@@ -10,7 +10,7 @@ score: 9.36
 dealPrice: "FREE"
 saleExpiry: "2026-05-22"
 xText: "free reverbs like parish infinity don't sound this good unless you're paying. whole pack of sleepers just dropped — grab these now while the devs are feeling generous"
-draft: false
+draft: true
 ---
 **TL;DR:** This week's free plugins report drops zero-cost downloads including Unfiltered Audio BattleFX, Moonwave Aries, WA Production Orchid, and Parish Audio Infinity Reverb — no payment required, just grab and install. Some of these freebies are time-limited, so check expiry dates before they disappear. [See the full free plugins list here.](https://plugindeals.net/free-plugins-report/free-plugins-report-unfiltered-audio-battlefx-moonwave-aries-wa-production-orchid-parish-audio-infinity-reverb-and-more-new-freebies-to-power-your-mix-2026-05-22/)
 
