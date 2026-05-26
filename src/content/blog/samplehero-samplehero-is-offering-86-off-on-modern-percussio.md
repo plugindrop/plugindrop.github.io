@@ -20,6 +20,11 @@ draft: false
 </div>
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/9qlB_mb-TJo" title="SampleHero - Snaps Claps Stomps Walkthrough Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is SampleHero Modern Percussion + Hybrid SFX?
 
 SampleHero's Modern Percussion + Hybrid SFX is a Kontakt-based sample library built for producers who need both organic rhythmic textures and cinematic sound design elements in a single instrument. It targets the increasingly popular hybrid music space — think trailers, sync, electronic-adjacent film scores, and modern beat production. The library requires the **full version of Native Instruments Kontakt** (not the free Kontakt Player), so factor that into your setup. SampleHero positions itself as a developer focused on practical, genre-ready content for working producers.

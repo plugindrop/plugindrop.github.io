@@ -17,7 +17,7 @@ draft: false
 **TL;DR:** Tapes of India for Sonic Atlas is down to **$69** (~~$237~~) — that's over 60% off through June 30th. If Indian-inspired, tape-recorded sounds are on your production wish list, this is a meaningful discount worth acting on before the window closes. [Grab the deal at Pitch Innovations](https://pitchinnovations.com/products/sonic-atlas).
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Bg3LqI5f2eE" title="Pitch Innovations — Get over 60% off on Tapes of India for Sonic Atlas by Pitch Innovations — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/W05Y16TxgTo" title="Pitch Innovations — Get over 60% off on Tapes of India for Sonic Atlas by Pitch Innovations — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
