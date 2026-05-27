@@ -11,7 +11,7 @@ originalPrice: "$160"
 discount: "75% OFF"
 saleExpiry: "2026-05-27"
 xText: "punch maker is one of those tools that just works in any mix. $39 for it and vocal band (normally $160) is the cheapest i've ever tracked ice audio. obvious grab."
-draft: false
+draft: true
 ---
 **TL;DR:** Ice Audio's Punch Maker + Vocal Band bundle drops from ~~$160~~ to just $39 — that's 75% off, putting two purpose-built production tools at roughly $19.50 each. If punch and vocal polish are gaps in your current setup, this is the kind of bundle math worth acting on. [Grab the deal here.](https://audioplugin.deals/product/punch-maker-vocal-band-by-ice-audio/ref/21/)
 
