@@ -53,7 +53,7 @@ Vital is a spectral warping wavetable synthesizer with a feature set that would 
 
 **Best for:** Leads, pads, basses, and any producer who wants Serum-level sound design without the price tag.
 
-[→ Download Vital Free](https://vital.audio/)
+[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-ableton)
 [→ Get Vital on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Vital%20synth&a_aid=69cb95abe1763)
 
 ---
@@ -91,7 +91,7 @@ OB-Xd is a faithful recreation of the Oberheim OB-X polyphonic synthesizer — o
 
 **Best for:** 80s-style pads, lush chord stabs, and warm leads with authentic analog character.
 
-[→ Download OB-Xd Free](https://www.discodsp.com/obxd/)
+[→ Download OB-Xd Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-ableton)
 [→ Get OB-Xd on Plugin Boutique](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763)
 
 ---
@@ -132,7 +132,7 @@ TDR Nova is a parallel dynamic equalizer that functions simultaneously as a stat
 
 **Best for:** Mixing, mastering prep, taming harsh resonances, and frequency-specific dynamic control.
 
-[→ Download TDR Nova Free](https://www.tokyodawn.net/tdr-nova/)
+[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-ableton)
 [→ Get TDR Nova on Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova%20equalizer&a_aid=69cb95abe1763)
 
 ---
@@ -172,7 +172,7 @@ Valhalla DSP is one of the most respected reverb brands in professional audio, a
 
 **Best for:** Lush pads, cinematic reverb tails, ambient textures, and any genre where space and atmosphere matter.
 
-[→ Download Valhalla Supermassive Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-ableton)
 [→ Get Valhalla Supermassive on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive%20reverb&a_aid=69cb95abe1763)
 
 ---
@@ -190,7 +190,7 @@ TAL-Chorus-LX is a meticulous recreation of the BBD chorus circuit found in the 
 
 **Best for:** Synth pads, leads requiring vintage warmth, guitars, and vocals that need natural stereo width without harsh digital artifacts.
 
-[→ Download TAL-Chorus-LX Free](https://tal-software.com/products/tal-chorus-lx)
+[→ Download TAL-Chorus-LX Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TAL%20Chorus&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-ableton)
 
 ---
 
@@ -268,7 +268,7 @@ iZotope's Ozone Imager 2 gives you precise stereo width control with a Lissajous
 
 **Best for:** Controlling stereo width on submixes and individual tracks, widening mono sources, checking mono compatibility, and mastering prep.
 
-[→ Download Ozone Imager 2 Free](https://www.izotope.com/en/products/ozone-imager.html)
+[→ Download Ozone Imager 2 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-ableton)
 
 ---
 
@@ -323,11 +323,11 @@ Once you've maxed out what the free tier offers, these three commercial plugins 
 | TDR Nova | Free | Dynamic EQ | Per-band dynamics, parallel EQ architecture, transparent processing | [Get It](https://www.pluginboutique.com/search?search_query=TDR%20Nova%20equalizer&a_aid=69cb95abe1763) |
 | Rough Rider 3 | Free | Compressor | Character compression, wet/dry blend, sidechain input | [Get It](https://www.pluginboutique.com/search?search_query=Rough%20Rider%203&a_aid=69cb95abe1763) |
 | Valhalla Supermassive | Free | Reverb / Delay | Long decay times, WARP parameter, 11 reverb algorithms | [Get It](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive%20reverb&a_aid=69cb95abe1763) |
-| TAL-Chorus-LX | Free | Chorus | Juno-6 BBD circuit emulation, natural stereo width | [Get It](https://tal-software.com/products/tal-chorus-lx) |
+| TAL-Chorus-LX | Free | Chorus | Juno-6 BBD circuit emulation, natural stereo width | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20Chorus&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-ableton) |
 | LABS | Free | Sample Instrument | Curated Spitfire samples, growing catalog, all genres covered | [Get It](https://labs.spitfireaudio.com/) |
 | Sitala | Free | Drum Sampler | 16-pad workflow, drag-and-drop loading, per-pad filter and envelope | [Get It](https://decomposer.de/sitala/) |
 | SPAN | Free | Spectrum Analyzer | Real-time FFT, near-zero CPU, configurable display modes | [Get It](https://www.voxengo.com/product/span/) |
-| Ozone Imager 2 | Free | Stereo Imager | Lissajous vectorscope, Stereoize function, mono compatibility check | [Get It](https://www.izotope.com/en/products/ozone-imager.html) |
+| Ozone Imager 2 | Free | Stereo Imager | Lissajous vectorscope, Stereoize function, mono compatibility check | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-ableton) |
 
 ---
 

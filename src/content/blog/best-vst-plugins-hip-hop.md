@@ -21,13 +21,13 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Serum | $189 | 808 bass & lead synths | [Official Site](https://xferrecords.com/products/serum-2) |
+| Serum | $189 | 808 bass & lead synths | [Official Site](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
 | Battery 4 | $149 | Drum sample layering | [Official Site](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) |
 | Addictive Drums 2 | From $179 | Live boom bap drum kits | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763) |
 | Waves SSL G-Master | From $29 | Bus glue compression | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | iZotope Vinyl | Free | Lofi vinyl texture | [Free Download](https://www.izotope.com/en/products/vinyl) |
-| Vital | Free | Serum alternative for 808 design | [Free Download](https://vital.audio) |
-| Valhalla Supermassive | Free | Snare tails & 808 space | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| Vital | Free | Serum alternative for 808 design | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
+| Valhalla Supermassive | Free | Snare tails & 808 space | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
 
 ---
 
@@ -130,7 +130,7 @@ Serum dominates discussions about 808 bass design on Reddit's r/makinghiphop and
 
 **Best for:** 808 bass design, wavetable leads, and any producer ready to invest in their primary synthesis tool.
 
-[→ Get Serum on the Official Site](https://xferrecords.com/products/serum-2)
+[→ Get Serum on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop)
 
 ---
 
@@ -147,7 +147,7 @@ r/edmproduction and r/makinghiphop consistently name Vital the starting point fo
 
 **Best for:** Producers who want wavetable synthesis with 808 capabilities at no cost.
 
-[→ Download Vital Free](https://vital.audio)
+[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop)
 
 ---
 
@@ -181,7 +181,7 @@ OB-Xd models the Oberheim OB-X series — synthesizers that appear throughout th
 
 **Best for:** Boom bap and old-school hip-hop producers who want vintage analog character in chord stabs and keys.
 
-[→ Download OB-Xd Free](https://www.discodsp.com/obxd/)
+[→ Download OB-Xd Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop)
 
 ---
 
@@ -202,7 +202,7 @@ Valhalla Supermassive is arguably the most unanimously recommended free plugin a
 
 **Best for:** Snare reverb tails, 808 spatial depth, pad atmospherics, and any element that needs space.
 
-[→ Download Valhalla Supermassive Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop)
 
 ---
 
@@ -274,7 +274,7 @@ KVR Audio consistently rates TDR Nova as one of the best free EQ plugins availab
 
 **Best for:** Managing 808 and kick resonances, transparent mix EQ, and dynamic frequency correction.
 
-[→ Download TDR Nova Free](https://www.tokyodawn.net/tdr-nova/)
+[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop)
 
 ---
 
@@ -322,7 +322,7 @@ LoudMax is a look-ahead true peak limiter that producer forums recommend when yo
 - **Price:** $189
 - **Why upgrade:** Vital covers wavetable synthesis at zero cost, but Serum's modulation routing depth and the ecosystem built around it — third-party 808 packs, community patches, tutorial libraries — represent a resource that free alternatives haven't matched. If synthesis is central to your workflow rather than incidental, that ecosystem compounds in value over time.
 
-[→ Get Serum on the Official Site](https://xferrecords.com/products/serum-2)
+[→ Get Serum on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop)
 
 ---
 
@@ -342,19 +342,19 @@ LoudMax is a look-ahead true peak limiter that producer forums recommend when yo
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Serum | $189 | Wavetable Synth | 808 design, massive preset ecosystem, deep modulation | [Get it](https://xferrecords.com/products/serum-2) |
+| Serum | $189 | Wavetable Synth | 808 design, massive preset ecosystem, deep modulation | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
 | Battery 4 | $149 | Drum Sampler | Cell-based layering, per-pad tuning, pro library | [Get it](https://www.native-instruments.com/en/products/maschine/) |
 | Addictive Drums 2 | From $179 | Acoustic Drums | Mic bleed modeling, live-recorded kits, mix board | [Get it](https://www.native-instruments.com/en/products/maschine/) |
 | Waves SSL G-Master | From $29 | Bus Compressor | SSL 4000 G emulation, drum bus glue | [Get it](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | iZotope Vinyl | Free | Character Effect | Vinyl artifact simulation, lofi texture, instant character | [Free](https://www.izotope.com/en/products/vinyl) |
-| Vital | Free | Wavetable Synth | Serum-class engine, custom wavetables, free tier | [Free](https://vital.audio) |
+| Vital | Free | Wavetable Synth | Serum-class engine, custom wavetables, free tier | [Free](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
 | LABS | Free | Sample Library | High-quality instrument samples, released periodically | [Free](https://labs.spitfireaudio.com) |
-| Valhalla Supermassive | Free | Reverb | Lush algorithmic reverb, CPU-efficient, universal pick | [Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| Valhalla Supermassive | Free | Reverb | Lush algorithmic reverb, CPU-efficient, universal pick | [Free](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
 | Surge XT | Free | Hybrid Synth | Wavetable + FM + analog, open source, deep modulation | [Free](https://surge-synthesizer.github.io) |
-| OB-Xd | Free | Analog Synth | Oberheim emulation, warm character, vintage stabs | [Free](https://www.discodsp.com/obxd/) |
+| OB-Xd | Free | Analog Synth | Oberheim emulation, warm character, vintage stabs | [Free](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
 | GlitchMachines Hysteresis | Free | Tape Delay | Wow/flutter/saturation, lo-fi tape character | [Free](https://glitchmachines.com/products/hysteresis/) |
 | Graillon 2 | Free / $25 | Pitch Effect | Pitch correction, formant shift, vocal modulation | [Free](https://www.auburnsounds.com/products/Graillon.html) |
-| TDR Nova | Free | Dynamic EQ | Parallel dynamic EQ, 808 resonance control | [Free](https://www.tokyodawn.net/tdr-nova/) |
+| TDR Nova | Free | Dynamic EQ | Parallel dynamic EQ, 808 resonance control | [Free](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
 | Klanghelm IVGI | Free | Saturation | Tube/tape saturation, 808 harmonic density | [Free](https://klanghelm.com/contents/products/IVGI.php) |
 | LoudMax | Free | Limiter | Look-ahead true peak limiting, transparent masters | [Free](https://loudmax.blogspot.com) |
 

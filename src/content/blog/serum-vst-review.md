@@ -160,7 +160,7 @@ Yes. Serum supports VST2, VST3, AU, and AAX formats, covering compatibility with
 It's one of the best learning tools for synthesis available precisely because of its visual approach. Every modulation connection and signal flow is visible on screen. Many producers cite Serum as the instrument that finally made synthesis concepts click.
 
 **Does Serum have a free trial?**
-Xfer Records has offered a rental-to-own model via Splice in the past, which allowed producers to pay monthly toward the full purchase price. Check the developer site at [xferrecords.com](https://xferrecords.com/products/serum) for current purchase and trial options.
+Xfer Records has offered a rental-to-own model via Splice in the past, which allowed producers to pay monthly toward the full purchase price. Check the developer site at [xferrecords.com](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-vst-review) for current purchase and trial options.
 
 ---
 

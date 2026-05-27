@@ -22,7 +22,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| TAL-Dub-3 | Free | Tape delay & dub echo | [Free Download](https://tal-software.com/products/tal-dub) |
+| TAL-Dub-3 | Free | Tape delay & dub echo | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20Dub&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins) |
 | Valhalla Supermassive | Free | Cavernous reverb-delay hybrids | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | Valhalla SpaceModulator | Free | Flanger & modulated delay | [Free Download](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/) |
 | Graillon 2 | Free | Pitch-shifted delay FX | [Free Download](https://www.auburnsounds.com/products/Graillon.html) |
@@ -61,7 +61,7 @@ Beyond dub and reggae, TAL-Dub-3 earns its place on guitar send buses, synth pad
 
 **Best for:** Producers who need tape character — warmth, saturation, wow and flutter — without spending anything.
 
-[→ Download TAL-Dub-3 Free](https://tal-software.com/products/tal-dub)
+[→ Download TAL-Dub-3 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TAL%20Dub&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins)
 
 ---
 
@@ -231,7 +231,7 @@ The free picks above handle the majority of production scenarios. But when speci
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| TAL-Dub-3 | Free | Tape delay | Wow/flutter, saturation, dub-focused | [Download](https://tal-software.com/products/tal-dub) |
+| TAL-Dub-3 | Free | Tape delay | Wow/flutter, saturation, dub-focused | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20Dub&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins) |
 | CHOW Tape Model | Free | Tape emulation | Physics-based hysteresis modeling | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | Delay Lama | Free | Formant/vocal | Organic vocal textures, experimental | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | Valhalla SpaceModulator | Free | Modulated delay/flanger | 11 algorithms, through-zero flanging | [Download](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/) |

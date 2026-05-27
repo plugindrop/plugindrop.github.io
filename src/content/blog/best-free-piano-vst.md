@@ -24,7 +24,7 @@ draft: false
 | MDA EPiano | Free | FM synthesis | DX7 electric piano, negligible overhead | Free (open-source) |
 | Dexed | Free | FM synthesis | Full DX7 preset library, cross-platform | Free (open-source) |
 | Spitfire Felt Piano | Paid | Sampled (prepared) | Deeper articulations beyond free LABS tier | [Official Site](https://labs.spitfireaudio.com/) |
-| Arturia Piano V3 | Paid | Physical modeling | Full resonance modeling, dynamic response | [Official Site](https://www.arturia.com/products/software-instruments/piano-v/overview) |
+| Arturia Piano V3 | Paid | Physical modeling | Full resonance modeling, dynamic response | [Official Site](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-piano-vst) |
 
 ---
 
@@ -70,7 +70,7 @@ All plugins listed here are documented for commercial use. Spitfire LABS instrum
 
 For most bedroom producers in 2026, Spitfire LABS Soft Piano is the free piano to install first — and for ambient, lo-fi, and cinematic work, it may be the only piano instrument the session ever needs. When that character is wrong for the mix, Piano One by Sound Magic delivers the clean, realistic acoustic grand that covers everything else. When both eventually run out of expressive headroom, Arturia Piano V3 is where the community points.
 
-[→ Get Arturia Piano V3](https://www.arturia.com/products/software-instruments/piano-v/overview)
+[→ Get Arturia Piano V3 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-piano-vst)
 
 ---
 

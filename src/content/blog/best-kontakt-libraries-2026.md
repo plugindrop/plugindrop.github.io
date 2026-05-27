@@ -21,11 +21,11 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Spitfire LABS | Free | Acoustic texture, pads, color | [Official Site](https://labs.spitfireaudio.com/) |
-| BBC Symphony Orchestra Discover | Free | Orchestral sketching | [Official Site](https://www.spitfireaudio.com/en-us/products/bbc-symphony-orchestra-discover) |
+| BBC Symphony Orchestra Discover | Free | Orchestral sketching | [Official Site](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
 | NI Komplete Start | Free | Kontakt Player + starter instruments | [Official Site](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/) |
 | Heavyocity Damage 2 | ~$149 | Cinematic hybrid percussion | [Official Site](https://heavyocity.com/product/damage-2/) |
 | ProjectSAM Symphobia 1 | ~$199 | Ensemble cinematic scoring | [Official Site](https://projectsam.com/libraries/symphobia/) |
-| Spitfire Albion ONE | ~$399 | Full orchestral palette in one library | [Official Site](https://www.spitfireaudio.com/en-us/products/albion-one) |
+| Spitfire Albion ONE | ~$399 | Full orchestral palette in one library | [Official Site](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
 | Native Instruments Komplete | ~$599 | Full Kontakt license + massive bundle | [Plugin Boutique](https://www.pluginboutique.com/meta_product/81-Bundles/97-Various-Category/13062-Native-Instruments-KOMPLETE-15?a_aid=69cb95abe1763) |
 
 ---
@@ -72,7 +72,7 @@ Recorded at BBC's Maida Vale Studios with the BBC Symphony Orchestra, Discover i
 
 **Best for:** Film and TV composers who need a credible orchestral sketch tool at zero cost.
 
-[→ Download BBC Symphony Orchestra Discover Free](https://www.spitfireaudio.com/en-us/products/bbc-symphony-orchestra-discover)
+[→ Download BBC Symphony Orchestra Discover Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026)
 
 ---
 
@@ -108,7 +108,7 @@ The Originals series sits between the free LABS instruments and Spitfire's flags
 
 **Best for:** Producers who need playable strings beyond LABS depth but aren't ready for a full orchestral library investment.
 
-[→ Get Spitfire Audio Originals](https://www.spitfireaudio.com/en-us/products/originals-epic-strings)
+[→ Get Spitfire Audio Originals (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026)
 
 ---
 
@@ -265,7 +265,7 @@ Albion ONE is the library that r/WeAreTheMusicMakers surfaces first in every "wh
 
 **Best for:** Composers who want one library covering the full orchestral palette at a professional standard.
 
-[→ Get Albion ONE](https://www.spitfireaudio.com/en-us/products/albion-one)
+[→ Get Albion ONE (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026)
 
 ---
 
@@ -291,7 +291,7 @@ Albion ONE is the library that r/WeAreTheMusicMakers surfaces first in every "wh
 - **Price:** ~$299 (Core); higher for Professional and Ultimate tiers
 - **Why upgrade:** BBC Symphony Orchestra Discover covers the essential articulations across all sections, but the paid Core tier adds significantly more mic positions, a wider articulation set per section, and ensemble configurations unavailable in the free version. Scoring community discussions on Vi-Control consistently describe the Discover-to-Core upgrade as one of the most justified in the orchestral market — the sonic and playability gap between the two tiers is large enough that composers who regularly need BBCSO results will hit Discover's ceiling quickly.
 
-[→ Get BBC Symphony Orchestra](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra)
+[→ Get BBC Symphony Orchestra (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026)
 
 ---
 
@@ -299,21 +299,21 @@ Albion ONE is the library that r/WeAreTheMusicMakers surfaces first in every "wh
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Spitfire LABS | Free | Multi-instrument | Rotating curated free instruments | [Official Site](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra) |
-| BBC Symphony Orchestra Discover | Free | Full orchestra | Maida Vale recording, all sections | [Official Site](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra) |
-| NI Komplete Start | Free | Bundle | Kontakt Player + starter instruments | [Official Site](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra) |
-| Spitfire Originals Epic Strings | ~$29–$49 | Strings | Budget step up from LABS | [Official Site](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra) |
-| Soundiron Olympus Choir Micro | ~$49 | Choir | Budget choral entry point | [Official Site](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra) |
-| NI Session Strings Pro 2 | ~$149 | Strings | Pop/hybrid mix-ready strings | [Official Site](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra) |
-| Heavyocity Damage 2 | ~$149 | Percussion | Cinematic hybrid percussion | [Official Site](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra) |
-| ProjectSAM Symphobia 1 | ~$199 | Orchestral | Ensemble cinematic textures | [Official Site](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra) |
-| 8Dio Hybrid Tools 3 | ~$199 | Cinematic/Hybrid | Experimental scoring source material | [Official Site](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra) |
-| Strezov AFFLATUS Ch. 1 | ~$249 | Choir | Deep legato symphonic choir | [Official Site](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra) |
-| Spitfire Hans Zimmer Piano | ~$299 | Piano | Cinematic grand + extended techniques | [Official Site](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra) |
-| Cinesamples CineStrings | ~$299 | Strings | Playable pro string library | [Official Site](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra) |
-| Spitfire Albion ONE | ~$399 | Full orchestra | Air Studios, complete palette | [Official Site](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra) |
-| Spitfire BBC Symphony Orchestra | ~$299+ | Full orchestra | Maida Vale, deep articulations | [Official Site](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra) |
-| Native Instruments Komplete | ~$599+ | Bundle | Full Kontakt license + 100+ instruments | [Official Site](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra) |
+| Spitfire LABS | Free | Multi-instrument | Rotating curated free instruments | [Official Site](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| BBC Symphony Orchestra Discover | Free | Full orchestra | Maida Vale recording, all sections | [Official Site](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| NI Komplete Start | Free | Bundle | Kontakt Player + starter instruments | [Official Site](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| Spitfire Originals Epic Strings | ~$29–$49 | Strings | Budget step up from LABS | [Official Site](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| Soundiron Olympus Choir Micro | ~$49 | Choir | Budget choral entry point | [Official Site](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| NI Session Strings Pro 2 | ~$149 | Strings | Pop/hybrid mix-ready strings | [Official Site](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| Heavyocity Damage 2 | ~$149 | Percussion | Cinematic hybrid percussion | [Official Site](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| ProjectSAM Symphobia 1 | ~$199 | Orchestral | Ensemble cinematic textures | [Official Site](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| 8Dio Hybrid Tools 3 | ~$199 | Cinematic/Hybrid | Experimental scoring source material | [Official Site](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| Strezov AFFLATUS Ch. 1 | ~$249 | Choir | Deep legato symphonic choir | [Official Site](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| Spitfire Hans Zimmer Piano | ~$299 | Piano | Cinematic grand + extended techniques | [Official Site](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| Cinesamples CineStrings | ~$299 | Strings | Playable pro string library | [Official Site](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| Spitfire Albion ONE | ~$399 | Full orchestra | Air Studios, complete palette | [Official Site](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| Spitfire BBC Symphony Orchestra | ~$299+ | Full orchestra | Maida Vale, deep articulations | [Official Site](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| Native Instruments Komplete | ~$599+ | Bundle | Full Kontakt license + 100+ instruments | [Official Site](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
 
 ---
 
@@ -364,7 +364,7 @@ For producers planning to use more than three or four NI products, community con
 
 Start with Spitfire LABS and BBC Symphony Orchestra Discover — both are free, both are genuinely professional, and together they give any producer an immediate acoustic foundation worth building on. When budget becomes available, Native Instruments Komplete remains the most defensible single investment in the library ecosystem, giving you a full Kontakt license alongside an enormous content catalog at a cost no individual library purchase can match.
 
-[→ Get Native Instruments Komplete](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra)
+[→ Get Native Instruments Komplete (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026)
 
 ---
 

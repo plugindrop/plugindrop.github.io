@@ -26,7 +26,7 @@ draft: false
 | MEqualizer | Free | Feature-complete parametric EQ | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=MeldaProduction%20MEqualizer&a_aid=69cb95abe1763) |
 | Baxter EQ | Free | Analog color on mix channels | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Baxter%20EQ&a_aid=69cb95abe1763) |
 | LP10 | Free | Transparent mastering EQ | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=LP10%20EQ%20plugin&a_aid=69cb95abe1763) |
-| TDR SlickEQ | Free | Bus EQ with musical saturation | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
+| TDR SlickEQ | Free | Bus EQ with musical saturation | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20SlickEQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-eq-vst-plugins) |
 | ReaEQ | Free | Unlimited-band surgical mixing | [Free Download](https://www.reaper.fm/reaplugs/) |
 
 ---
@@ -58,7 +58,7 @@ TDR Nova is a parallel dynamic equalizer with four fully parametric bands, switc
 
 [→ Watch TDR Nova in action on YouTube](https://www.youtube.com/watch?v=1CHFv4mWQYM)
 
-[→ Download TDR Nova Free](https://www.tokyodawn.net/tdr-nova/) | [→ Get TDR Nova on Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova%20equalizer&a_aid=69cb95abe1763)
+[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-eq-vst-plugins) | [→ Get TDR Nova on Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova%20equalizer&a_aid=69cb95abe1763)
 
 ---
 
@@ -179,7 +179,7 @@ From the same team behind TDR Nova, SlickEQ is designed specifically for mix bus
 
 **Best for:** Mix bus and mastering EQ when you want a musical, characterful result rather than clinical transparency.
 
-[→ Download TDR SlickEQ Free](https://www.tokyodawn.net/tdr-vos-slickeq/)
+[→ Download TDR SlickEQ Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR%20SlickEQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-eq-vst-plugins)
 
 ---
 
@@ -270,7 +270,7 @@ Voxengo's Overtone GEQ takes a different approach to equalization by working wit
 | ReaEQ | Free | Parametric | Unlimited bands, low CPU | [Developer Site](https://www.reaper.fm/reaplugs/) |
 | Voxengo Marvel GEQ | Free | Linear phase graphic | 16 bands, zero phase distortion | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Voxengo%20Marvel%20GEQ&a_aid=69cb95abe1763) |
 | LP10 | Free | Linear phase mastering | Up to 10 bands, surgical | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=LP10%20EQ%20plugin&a_aid=69cb95abe1763) |
-| TDR SlickEQ | Free | Bus/mastering EQ | Musical saturation, 3 bands | [Developer Site](https://www.tokyodawn.net/tdr-vos-slickeq/) |
+| TDR SlickEQ | Free | Bus/mastering EQ | Musical saturation, 3 bands | [Developer Site](https://www.pluginboutique.com/search?search_query=TDR%20SlickEQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-eq-vst-plugins) |
 | Ignite Amps PTEq-X | Free | Passive/vintage | Pultec character, low-end shaping | [Developer Site](https://www.igniteamps.com/) |
 | Voxengo Overtone GEQ | Free | Harmonic graphic | Harmonic partial shaping | [Developer Site](https://www.voxengo.com/) |
 | FabFilter Pro-Q 4 | ~$179 | Dynamic parametric | Industry standard, EQ match | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763) |

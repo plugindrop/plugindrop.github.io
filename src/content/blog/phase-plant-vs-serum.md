@@ -20,8 +20,8 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Phase Plant | $99 | Modular sound design, multi-synthesis textures | [Get Phase Plant](https://kilohearts.com/products/phase_plant) |
-| Serum | $189 | EDM, bass music, wavetable production | [Get Serum](https://xferrecords.com/products/serum) |
+| Phase Plant | $99 | Modular sound design, multi-synthesis textures | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum) |
+| Serum | $189 | EDM, bass music, wavetable production | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum) |
 
 ---
 
@@ -52,7 +52,7 @@ Phase Plant's generator system lets you stack multiple sound sources — wavetab
 
 **Best for:** Sound designers who want to combine synthesis types and build complex, layered textures from the ground up.
 
-[→ Get Phase Plant](https://kilohearts.com/products/phase_plant)
+[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum)
 
 ---
 
@@ -71,7 +71,7 @@ Serum's built-in wavetable editor is one of the best available in any synthesize
 
 **Best for:** Producers who want high-quality wavetable synthesis with professional-grade editing tools and a clearly defined workflow.
 
-[→ Get Serum](https://xferrecords.com/products/serum)
+[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum)
 
 **Category Winner: Phase Plant** — More synthesis modes and stacking flexibility give it the edge. Serum's wavetable editor is excellent, but it remains a single synthesis paradigm.
 
@@ -94,7 +94,7 @@ Phase Plant's modulation system uses a drag-and-drop lane layout where you see e
 
 **Best for:** Sound designers who need deep, traceable modulation chains without losing track of signal flow.
 
-[→ Get Phase Plant](https://kilohearts.com/products/phase_plant)
+[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum)
 
 ---
 
@@ -111,7 +111,7 @@ Serum's drag-and-drop modulation matrix shows depth indicators directly on each 
 
 **Best for:** Producers who want powerful modulation that is genuinely enjoyable to use without consulting documentation.
 
-[→ Get Serum](https://xferrecords.com/products/serum)
+[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum)
 
 **Category Winner: Phase Plant** — Greater modulation depth and clearer routing visibility. Serum's LFO editor is arguably more fun for everyday use, but Phase Plant goes further.
 
@@ -132,7 +132,7 @@ Phase Plant uses the Kilohearts Snapin ecosystem for its effects chain. If you o
 
 **Best for:** Producers already invested in the Kilohearts ecosystem, or those planning to expand their Snapin library over time.
 
-[→ Get Phase Plant](https://kilohearts.com/products/phase_plant)
+[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum)
 
 ---
 
@@ -149,7 +149,7 @@ Serum ships with a full professional effects section: distortion, hyper/dimensio
 
 **Best for:** Producers who want a finished synthesizer that sounds professional without routing through external plugins.
 
-[→ Get Serum](https://xferrecords.com/products/serum)
+[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum)
 
 **Category Winner: Serum** — A complete, integrated effects chain that ships ready to use. Phase Plant's modular approach is powerful but requires additional investment to match it.
 
@@ -170,7 +170,7 @@ Phase Plant's preset market is growing but still trails Serum considerably. Kilo
 
 **Best for:** Producers who want to learn synthesis through presets rather than simply use them as-is.
 
-[→ Get Phase Plant](https://kilohearts.com/products/phase_plant)
+[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum)
 
 ---
 
@@ -187,7 +187,7 @@ Serum has the largest third-party preset market of any synthesizer currently ava
 
 **Best for:** Producers who want immediate access to professional sounds and an enormous knowledge base to draw from.
 
-[→ Get Serum](https://xferrecords.com/products/serum)
+[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum)
 
 **Category Winner: Serum** — It is not close. Serum's preset and tutorial ecosystem is the largest in the synthesizer world right now.
 
@@ -208,7 +208,7 @@ Phase Plant rewards patience. The modular architecture means there is no single 
 
 **Best for:** Sound designers and producers with some synthesis background who value depth over instant gratification.
 
-[→ Get Phase Plant](https://kilohearts.com/products/phase_plant)
+[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum)
 
 ---
 
@@ -225,7 +225,7 @@ Serum's interface is a masterclass in synthesizer UI design. Every element lives
 
 **Best for:** Producers at any skill level who want results quickly while retaining meaningful room to grow.
 
-[→ Get Serum](https://xferrecords.com/products/serum)
+[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum)
 
 **Category Winner: Serum** — More accessible entry point without sacrificing meaningful depth.
 
@@ -246,7 +246,7 @@ At $99, Phase Plant delivers a synthesis engine that rivals tools costing three 
 
 **Best for:** Budget-conscious producers who prioritize synthesis power over immediate out-of-the-box usability.
 
-[→ Get Phase Plant](https://kilohearts.com/products/phase_plant)
+[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum)
 
 ---
 
@@ -263,7 +263,7 @@ Serum at $189 is a meaningful investment for a single synthesizer, but the all-i
 
 **Best for:** Producers who want a single, complete tool that justifies its price from the first session.
 
-[→ Get Serum](https://xferrecords.com/products/serum)
+[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum)
 
 **Category Winner: Phase Plant** — Better dollars-to-capability ratio. Serum's all-in pricing has real workflow value, but Phase Plant simply delivers more synthesis for less money.
 
@@ -279,7 +279,7 @@ Serum at $189 is a meaningful investment for a single synthesizer, but the all-i
 - **Price:** $99 (Phase Plant standalone); Toolbox bundles available separately
 - **Why upgrade:** Phase Plant's standalone built-in effects are limited. Expanding with Kilohearts Snapins — individually or via a bundle — significantly increases its sound design range and transforms it into a fully self-contained production tool.
 
-[→ Get Phase Plant](https://kilohearts.com/products/phase_plant)
+[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum)
 
 ---
 
@@ -291,7 +291,7 @@ Serum at $189 is a meaningful investment for a single synthesizer, but the all-i
 - **Price:** $189
 - **Why upgrade:** Serum is a single, complete purchase with no meaningful expansion required. The full effects chain, wavetable editor, and ongoing preset compatibility are all included at the standard price — the upgrade path here is simply buying it.
 
-[→ Get Serum](https://xferrecords.com/products/serum)
+[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum)
 
 ---
 
@@ -299,8 +299,8 @@ Serum at $189 is a meaningful investment for a single synthesizer, but the all-i
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Phase Plant | $99 | Modular multi-synthesis | Generator stacking, Snapin integration, deep modulation routing | [Get It](https://kilohearts.com/products/phase_plant) |
-| Serum | $189 | Wavetable | Built-in wavetable editor, complete FX chain, massive preset ecosystem | [Get It](https://xferrecords.com/products/serum) |
+| Phase Plant | $99 | Modular multi-synthesis | Generator stacking, Snapin integration, deep modulation routing | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum) |
+| Serum | $189 | Wavetable | Built-in wavetable editor, complete FX chain, massive preset ecosystem | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum) |
 
 ---
 
@@ -338,7 +338,7 @@ Serum is significantly more accessible. Its single-screen layout, approachable m
 
 For most producers in 2026, **Serum** is the safer and more immediately rewarding choice — its workflow, preset ecosystem, and complete built-in effects chain make it a self-contained instrument that earns its price from the first session. But if sound design is your priority and you want a synthesizer with genuine long-term depth, **Phase Plant** at $99 is an extraordinary value that repays every hour you invest in learning it.
 
-[→ Get Serum on Xfer Records](https://xferrecords.com/products/serum) | [→ Get Phase Plant on Kilohearts](https://kilohearts.com/products/phase_plant)
+[→ Get Serum on Xfer Records (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum) | [→ Get Phase Plant on Kilohearts (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-vs-serum)
 
 ---
 

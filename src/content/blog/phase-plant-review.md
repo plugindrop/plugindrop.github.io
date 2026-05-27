@@ -18,10 +18,10 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Phase Plant (Free Tier) | Free | Exploring modular synthesis before committing | [Free Download](https://kilohearts.com/products/phase_plant) |
-| Phase Plant (Full) | ~$199 | All synthesis styles, deep sound design | [Official Site](https://kilohearts.com/products/phase_plant) |
-| Serum | ~$189 | Wavetable-focused EDM production | [Official Site](https://xferrecords.com/products/serum) |
-| u-he Hive 2 | ~$149 | Fast analog/wavetable workflow | [Official Site](https://u-he.com/products/hive/) |
+| Phase Plant (Free Tier) | Free | Exploring modular synthesis before committing | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review) |
+| Phase Plant (Full) | ~$199 | All synthesis styles, deep sound design | [Official Site](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review) |
+| Serum | ~$189 | Wavetable-focused EDM production | [Official Site](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review) |
+| u-he Hive 2 | ~$149 | Fast analog/wavetable workflow | [Official Site](https://www.pluginboutique.com/search?search_query=u-he%20Hive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review) |
 
 ---
 
@@ -58,7 +58,7 @@ The **Snapin effects chain** processes the final signal and is where Phase Plant
 
 **Best for:** Sound designers who need cross-style synthesis in one instrument — scoring, electronic music, film sound, experimental production.
 
-[→ Get Phase Plant on Official Site](https://kilohearts.com/products/phase_plant)
+[→ Get Phase Plant on Official Site (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review)
 
 ---
 
@@ -68,7 +68,7 @@ Kilohearts offers Phase Plant Essentials as a free download. It's a real synth, 
 
 For producers evaluating whether to spend $199, this is an unusually honest trial. You can build real sounds, export audio, and decide based on actual usage. Most competing synths give you either a time-limited demo or a crippled export. Phase Plant Essentials is neither.
 
-[→ Download Phase Plant Free](https://kilohearts.com/products/phase_plant)
+[→ Download Phase Plant Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review)
 
 ---
 
@@ -107,7 +107,7 @@ It's less ideal for producers who need a fast preset-browser workflow and minima
 - **Price:** ~$189 (perpetual license or Splice subscription)
 - **Why upgrade:** If your production style lives in wavetable synthesis — EDM, future bass, pop, trap — Serum's dedicated wavetable editor, visual modulation display, and massive preset ecosystem give you a faster, more community-supported workflow than Phase Plant's more generalist approach. Phase Plant can match Serum's wavetable output technically, but Serum's purpose-built interface gets you there in half the clicks.
 
-[→ Get Serum on Official Site](https://xferrecords.com/products/serum)
+[→ Get Serum on Official Site (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review)
 
 ---
 
@@ -119,7 +119,7 @@ It's less ideal for producers who need a fast preset-browser workflow and minima
 - **Price:** ~$149
 - **Why upgrade:** Hive 2 is engineered for speed. Its analog/wavetable hybrid engine sounds excellent out of the box, its interface is stripped down to essential controls, and its preset library is among the best in the industry for immediate usability. If Phase Plant's open-endedness feels like overhead and you want great sounds in 30 seconds rather than 30 minutes, Hive 2 is the smarter buy.
 
-[→ Get u-he Hive 2 on Official Site](https://u-he.com/products/hive/)
+[→ Get u-he Hive 2 on Official Site (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=u-he%20Hive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review)
 
 ---
 
@@ -127,10 +127,10 @@ It's less ideal for producers who need a fast preset-browser workflow and minima
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Phase Plant (Free) | Free | Modular Semi-Modular | Multi-generator, Snapin effects, free tier | [Get It](https://kilohearts.com/products/phase_plant) |
-| Phase Plant (Full) | ~$199 | Modular Semi-Modular | Full generator roster, audio-rate mod, Snapin ecosystem | [Get It](https://kilohearts.com/products/phase_plant) |
-| Serum | ~$189 | Wavetable | Wavetable editor, visual modulation, preset community | [Get It](https://xferrecords.com/products/serum) |
-| u-he Hive 2 | ~$149 | Analog/Wavetable Hybrid | Fast workflow, polished presets, low CPU | [Get It](https://u-he.com/products/hive/) |
+| Phase Plant (Free) | Free | Modular Semi-Modular | Multi-generator, Snapin effects, free tier | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review) |
+| Phase Plant (Full) | ~$199 | Modular Semi-Modular | Full generator roster, audio-rate mod, Snapin ecosystem | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review) |
+| Serum | ~$189 | Wavetable | Wavetable editor, visual modulation, preset community | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review) |
+| u-he Hive 2 | ~$149 | Analog/Wavetable Hybrid | Fast workflow, polished presets, low CPU | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=u-he%20Hive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review) |
 
 ---
 

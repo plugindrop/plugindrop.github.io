@@ -10,6 +10,7 @@ dealPrice: "$34.99"
 discount: "40% OFF"
 xText: "Serum (Xfer Records)  off — does it beat Vital at this price?"
 draft: false
+evergreen: true
 ---
 I need a couple of details to write this accurately:
 

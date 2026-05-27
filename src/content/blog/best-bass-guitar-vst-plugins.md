@@ -27,7 +27,7 @@ draft: false
 |--------|-------|----------|--------|
 | MODO Bass 2 | $149.99 | Multi-genre production, 14 instrument models | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2?a_aid=69cb95abe1763) |
 | Scarbee Pre-Bass | $99 | Vintage Fender Precision Bass authenticity | [Native Instruments](https://www.native-instruments.com/en/products/komplete/guitar/scarbee-pre-bass/) |
-| Trilian | $299 | Professional all-in-one bass workstation | [Spectrasonics](https://www.spectrasonics.net/products/trilian/) |
+| Trilian | $299 | Professional all-in-one bass workstation | [Spectrasonics](https://www.pluginboutique.com/search?search_query=Spectrasonics%20Omnisphere&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-bass-guitar-vst-plugins) |
 | Ample Bass P Lite | Free | Zero-budget realistic Precision Bass starting point | — |
 | EZbass | ~$179 | MIDI groove library + realistic playback engine | — |
 | Scarbee MM-Bass | $99 | Music Man Stingray character in Kontakt | — |
@@ -109,7 +109,7 @@ At $299, Trilian is clearly positioned above mid-tier options, and its value pro
 
 **Best for:** Film composers, professional pop producers, sync writers, and anyone who needs electric, upright, and synth bass under a single license without compromise.
 
-[→ Get Trilian on Spectrasonics](https://www.spectrasonics.net/products/trilian/)
+[→ Get Trilian on Spectrasonics (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Spectrasonics%20Omnisphere&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-bass-guitar-vst-plugins)
 
 ---
 
@@ -147,7 +147,7 @@ At $299, Trilian is clearly positioned above mid-tier options, and its value pro
 - **Price:** $299
 - **Why upgrade:** Trilian's scope — electric bass, upright/acoustic bass, and synthesized bass with 34GB+ of content — is categorically different from any mid-tier option. Producers who currently own separate libraries for electric and upright bass will often find Trilian more economical as a long-term single investment, and the depth of Spectrasonics' programming is consistently rated above competing workstation approaches in professional community discussions.
 
-[→ Get Trilian on Spectrasonics](https://www.spectrasonics.net/products/trilian/)
+[→ Get Trilian on Spectrasonics (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Spectrasonics%20Omnisphere&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-bass-guitar-vst-plugins)
 
 ---
 
@@ -157,7 +157,7 @@ At $299, Trilian is clearly positioned above mid-tier options, and its value pro
 |--------|-------|------|------------|-----|
 | MODO Bass 2 | $149.99 | Physical modeling | 14 bass models, real-time physics, multiple playing styles | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2?a_aid=69cb95abe1763) |
 | Scarbee Pre-Bass | $99 | Sample-based | Pre-CBS P-Bass, deep articulations, Kontakt Player-compatible | [Native Instruments](https://www.native-instruments.com/en/products/komplete/guitar/scarbee-pre-bass/) |
-| Trilian | $299 | Sample workstation | Electric, upright, synth bass, 34GB+ content, STEAM Engine | [Spectrasonics](https://www.spectrasonics.net/products/trilian/) |
+| Trilian | $299 | Sample workstation | Electric, upright, synth bass, 34GB+ content, STEAM Engine | [Spectrasonics](https://www.pluginboutique.com/search?search_query=Spectrasonics%20Omnisphere&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-bass-guitar-vst-plugins) |
 | Ample Bass P Lite | Free | Sample-based | Free Precision Bass, functional starting point, limited articulations | — |
 | EZbass | ~$179 | Sample + MIDI grooves | Extensive groove pattern library, Toontrack ecosystem integration | — |
 | Scarbee MM-Bass | $99 | Sample-based | Music Man Stingray tones, Kontakt Player-compatible | — |

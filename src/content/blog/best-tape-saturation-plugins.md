@@ -24,7 +24,7 @@ draft: false
 | RC-20 Retro Color | $99 | Lo-fi, bedroom pop, multi-character | [XLN Audio](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
 | UAD Studer A800 | $299 | Studio-grade accuracy | [Plugin Boutique](https://www.uaudio.com/products/studer-a800-tape-recorder) |
 | Waves J37 Tape | $29–$149 | British vintage and Abbey Road character | [Official Site](https://www.waves.com/plugins/j37-tape) |
-| Soundtoys Decapitator | $99 | Flexible harmonic saturation | [Soundtoys](https://www.soundtoys.com/product/decapitator/) |
+| Soundtoys Decapitator | $99 | Flexible harmonic saturation | [Soundtoys](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-tape-saturation-plugins) |
 | Chow Tape Model | Free | Best free tape emulation | [Free Download](https://chowdsp.com) |
 | Klanghelm SDRR | $21 | Best-value paid saturation | [Official Site](https://klanghelm.com/contents/products/SDRR.php) |
 | Slate Digital VTM | ~$149 | Drum bus glue and mixbus processing | [Official Site](https://slate.audio/vtm/) |
@@ -147,7 +147,7 @@ Decapitator models five different classes of analog saturation hardware, giving 
 
 **Best for:** Producers and mix engineers who want one saturation tool that works across drums, vocals, synths, and bus processing without mode-specific limitations.
 
-[→ Get Soundtoys Decapitator](https://www.soundtoys.com/product/decapitator/)
+[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-tape-saturation-plugins)
 
 ---
 
@@ -245,7 +245,7 @@ Chow Tape Model is built on a published physical modeling methodology using math
 - **Price:** ~$499 (frequently on significant sale)
 - **Why upgrade:** Decapitator alone is $99, but Soundtoys 5 includes the full suite — Radiator, Crystallizer, PanMan, FilterFreq, MicroShift, and more — at a per-plugin cost that makes the individual Decapitator price look inefficient. For producers who use Decapitator regularly, the bundle is the logical next step.
 
-[→ Get Soundtoys 5](https://www.soundtoys.com/product/soundtoys-5/)
+[→ Get Soundtoys 5 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-tape-saturation-plugins)
 
 ---
 
@@ -254,15 +254,15 @@ Chow Tape Model is built on a published physical modeling methodology using math
 | Plugin | Price | Type | Key Strengths | CTA |
 |--------|-------|------|---------------|-----|
 | Chow Tape Model | Free | Tape emulation | Physical modeling, open source, competitive with paid options | [Free Download](https://chowdsp.com) |
-| Klevgrand DAW Cassette | ~$20 | Cassette emulation | Consumer tape aesthetic, iOS/macOS/Windows, affordable | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
-| Klanghelm SDRR | $21 | Multi-mode saturation | Multiple harmonic profiles, strong KVR value reputation | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
-| Softube Tape | $49–$79 | Tape emulation | Transparent, modern-friendly, clean glue | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
-| Waves J37 Tape | $29–$149 | Tape emulation | EMI J37 model, Abbey Road vintage character | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
-| Waves KRAMER MASTER TAPE | $29–$149 | Tape emulation | Eddie Kramer collab, multiple IPS speeds, rock character | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
+| Klevgrand DAW Cassette | ~$20 | Cassette emulation | Consumer tape aesthetic, iOS/macOS/Windows, affordable | [Official Site](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-tape-saturation-plugins) |
+| Klanghelm SDRR | $21 | Multi-mode saturation | Multiple harmonic profiles, strong KVR value reputation | [Official Site](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-tape-saturation-plugins) |
+| Softube Tape | $49–$79 | Tape emulation | Transparent, modern-friendly, clean glue | [Official Site](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-tape-saturation-plugins) |
+| Waves J37 Tape | $29–$149 | Tape emulation | EMI J37 model, Abbey Road vintage character | [Official Site](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-tape-saturation-plugins) |
+| Waves KRAMER MASTER TAPE | $29–$149 | Tape emulation | Eddie Kramer collab, multiple IPS speeds, rock character | [Official Site](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-tape-saturation-plugins) |
 | RC-20 Retro Color | $99 | Multi-character | Integrated modules, lo-fi/bedroom pop community standard | [XLN Audio](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
-| Soundtoys Decapitator | $99 | Harmonic saturation | 5 saturation modes, extreme range, KVR top-tier ranking | [Soundtoys](https://www.soundtoys.com/product/decapitator/) |
-| Slate Digital VTM | ~$149 | Tape emulation | Multiple tape configs, drum/mix bus glue, bundle value | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
-| UAD Studer A800 | $299 | Tape emulation | Highest-accuracy emulation, runs Native, studio standard | [Official Site](https://www.soundtoys.com/product/soundtoys-5/) |
+| Soundtoys Decapitator | $99 | Harmonic saturation | 5 saturation modes, extreme range, KVR top-tier ranking | [Soundtoys](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-tape-saturation-plugins) |
+| Slate Digital VTM | ~$149 | Tape emulation | Multiple tape configs, drum/mix bus glue, bundle value | [Official Site](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-tape-saturation-plugins) |
+| UAD Studer A800 | $299 | Tape emulation | Highest-accuracy emulation, runs Native, studio standard | [Official Site](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-tape-saturation-plugins) |
 
 ---
 

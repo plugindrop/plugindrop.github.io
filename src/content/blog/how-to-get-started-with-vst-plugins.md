@@ -16,12 +16,12 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | Wavetable synthesis, leads, pads | [Free Download](https://vital.audio/) |
+| Vital | Free | Wavetable synthesis, leads, pads | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
 | Surge XT | Free | Advanced hybrid synthesis, deep modulation | [Free Download](https://surge-synthesizer.github.io/) |
-| TDR Nova | Free | Transparent dynamic EQ, mixing | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
-| Valhalla Supermassive | Free | Lush reverb, ambient spaces | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Serum 2 | $189 | Professional wavetable synthesis, preset ecosystem | [Get Serum 2](https://xferrecords.com/products/serum-2) |
-| FabFilter Pro-Q 4 | $179 | Professional mixing and mastering EQ | [Get Pro-Q 4](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
+| TDR Nova | Free | Transparent dynamic EQ, mixing | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
+| Valhalla Supermassive | Free | Lush reverb, ambient spaces | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
+| Serum 2 | $189 | Professional wavetable synthesis, preset ecosystem | [Get Serum 2 (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
+| FabFilter Pro-Q 4 | $179 | Professional mixing and mastering EQ | [Get Pro-Q 4 (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
 
 ---
 
@@ -52,7 +52,7 @@ Vital is a spectral warping wavetable synthesizer whose free tier includes three
 
 **Best for:** Leads, pads, basses, and any producer learning wavetable synthesis for the first time.
 
-[→ Download Vital Free](https://vital.audio/)
+[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins)
 
 ---
 
@@ -90,7 +90,7 @@ TDR Nova is a parallel dynamic equalizer with four fully parametric bands, a hig
 
 **Best for:** Mixing, mastering, de-essing, and any workflow requiring dynamic EQ without a $150+ budget.
 
-[→ Download TDR Nova Free](https://www.tokyodawn.net/tdr-nova/)
+[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins)
 
 ---
 
@@ -111,7 +111,7 @@ Valhalla Supermassive is an algorithmic reverb and delay plugin offering 23 dist
 
 **Best for:** Ambient pads, large spaces, send reverb across any genre, and producers who need a capable reverb before spending anything.
 
-[→ Download Valhalla Supermassive Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins)
 
 ---
 
@@ -127,7 +127,7 @@ The free stack above covers a complete production workflow. These paid upgrades 
 - **Price:** $189
 - **Why upgrade:** Vital's free synthesis engine is genuinely competitive, but Serum 2's advantage lies outside the plugin itself. The commercial preset ecosystem built around Serum 2 is the largest of any synthesizer in producer communities — r/edmproduction cites this consistently as the primary reason to upgrade. If your workflow involves purchasing or using third-party sound packs professionally, Serum 2's ecosystem dwarfs what's available for any free alternative.
 
-[→ Get Serum 2](https://xferrecords.com/products/serum-2)
+[→ Get Serum 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins)
 
 ---
 
@@ -139,7 +139,7 @@ The free stack above covers a complete production workflow. These paid upgrades 
 - **Price:** $179
 - **Why upgrade:** TDR Nova handles the majority of mixing EQ tasks with no functional compromise, but FabFilter Pro-Q 4's natural phase mode, real-time spectrum collision detection, and mastering-grade band precision represent a workflow step-up that mixing and mastering engineers cite in Gearspace discussions as justifying the price at professional volume. The differentiator is speed and visualization at scale — not features unavailable in TDR Nova, but features executed with less friction on a daily basis.
 
-[→ Get FabFilter Pro-Q 4](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in)
+[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins)
 
 ---
 
@@ -147,12 +147,12 @@ The free stack above covers a complete production workflow. These paid upgrades 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital | Free | Wavetable Synth | Drag-and-drop modulation, spectral warping, 75 presets | [Download Free](https://vital.audio/) |
+| Vital | Free | Wavetable Synth | Drag-and-drop modulation, spectral warping, 75 presets | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
 | Surge XT | Free | Hybrid Synth | 2,800+ presets, multi-synthesis engine, microtonal tuning | [Download Free](https://surge-synthesizer.github.io/) |
-| TDR Nova | Free | Dynamic EQ | 4-band parametric, per-band dynamics, linear phase | [Download Free](https://www.tokyodawn.net/tdr-nova/) |
-| Valhalla Supermassive | Free | Reverb / Delay | 23 modes, infinite decay, low CPU overhead | [Download Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Serum 2 | $189 | Wavetable Synth | Largest third-party preset ecosystem, advanced wavetable editor | [Get It](https://xferrecords.com/products/serum-2) |
-| FabFilter Pro-Q 4 | $179 | EQ | Natural phase, collision detection, M/S, mastering precision | [Get It](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
+| TDR Nova | Free | Dynamic EQ | 4-band parametric, per-band dynamics, linear phase | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
+| Valhalla Supermassive | Free | Reverb / Delay | 23 modes, infinite decay, low CPU overhead | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
+| Serum 2 | $189 | Wavetable Synth | Largest third-party preset ecosystem, advanced wavetable editor | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
+| FabFilter Pro-Q 4 | $179 | EQ | Natural phase, collision detection, M/S, mastering precision | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
 
 ---
 
@@ -189,7 +189,7 @@ Vital's free tier is not a trial. The free version includes the full synthesis e
 
 For any producer starting from zero in 2026, the stack is clear and costs nothing to assemble: Vital for synthesis, TDR Nova for EQ, and Valhalla Supermassive for reverb. These are not entry-level compromises — they are community-validated tools used in professional contexts, and the tutorial ecosystems around them are large enough to take a beginner from zero to a finished track. When the synthesis ceiling arrives and you need access to the largest commercial preset ecosystem in production communities, Serum 2 is the upgrade the community consistently points to.
 
-[→ Download Vital Free and start building your first patch today](https://vital.audio/)
+[→ Download Vital Free and start building your first patch today (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins)
 
 ---
 

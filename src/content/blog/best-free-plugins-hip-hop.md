@@ -18,13 +18,13 @@ heroImage: "/images/best-free-plugins-hip-hop_collage.jpg"
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | 808 bass, wavetable pads, leads | [Free Download](https://vital.audio) |
+| Vital | Free | 808 bass, wavetable pads, leads | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop) |
 | iZotope Vinyl | Free | Lo-fi vinyl texture | [Free Download](https://www.izotope.com/en/products/vinyl) |
 | MT Power Drum Kit 2 | Free | Realistic drum sounds | [Free Download](https://www.powerdrumkit.com/) |
 | Rough Rider 3 | Free | Punchy drum bus compression | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
 | Graillon 2 | Free | Vocal pitch correction & FX | [Free Download](https://www.auburnsounds.com/products/Graillon.html) |
 | Valhalla Supermassive | Free | Reverb tails, atmospheric space | [Free Download](https://valhalladsp.com) |
-| TAL-NoiseMaker | Free | Analog-style bass and stabs | [Free Download](https://tal-software.com/products/tal-noisemaker) |
+| TAL-NoiseMaker | Free | Analog-style bass and stabs | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop) |
 
 ---
 
@@ -53,7 +53,7 @@ TAL-NoiseMaker is a three-oscillator virtual analog synthesizer with integrated 
 
 **Best for:** Analog-style bass lines, synth stabs, lo-fi leads.
 
-[→ Download TAL-NoiseMaker Free](https://tal-software.com/products/tal-noisemaker)
+[→ Download TAL-NoiseMaker Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop)
 
 ---
 
@@ -70,7 +70,7 @@ Vital's free tier unlocks the full core synthesis engine, which combines wavetab
 
 **Best for:** 808 sub bass, wavetable leads, evolving pad textures.
 
-[→ Download Vital Free](https://vital.audio)
+[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop)
 
 ---
 
@@ -227,7 +227,7 @@ TDR Nova is a parallel dynamic equalizer that combines parametric EQ with freque
 
 **Best for:** Sample EQ cleanup, dynamic sibilance control, precise mixing utility.
 
-[→ Download TDR Nova Free](https://www.tokyodawn.net/tdr-nova/)
+[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop)
 
 ---
 
@@ -262,7 +262,7 @@ Graillon 2 provides real-time pitch correction alongside a pitch-shifting sectio
 - **Price:** ~$189 (subscription available)
 - **Why upgrade:** Vital's free tier covers basic wavetable synthesis with genuine depth, but Serum's visual wavetable editor, the scale of its community-shared preset library, and its long-standing status as the genre standard give it advantages that compound over years of use. Producers who design 808 basses and leads from scratch on a daily basis will find the workflow difference significant.
 
-[→ Get Serum on Xfer Records](https://xferrecords.com/products/serum-2)
+[→ Get Serum on Xfer Records (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop)
 
 ---
 
@@ -282,8 +282,8 @@ Graillon 2 provides real-time pitch correction alongside a pitch-shifting sectio
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| TAL-NoiseMaker | Free | Virtual Analog Synth | 3 oscillators, built-in FX, low CPU | [Free Download](https://tal-software.com/products/tal-noisemaker) |
-| Vital | Free | Wavetable Synth | Wavetable, FM, granular, drag-drop modulation | [Free Download](https://vital.audio) |
+| TAL-NoiseMaker | Free | Virtual Analog Synth | 3 oscillators, built-in FX, low CPU | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop) |
+| Vital | Free | Wavetable Synth | Wavetable, FM, granular, drag-drop modulation | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop) |
 | Surge XT | Free | Wavetable/FM Synth | 11 oscillator types, open source, 160+ mod sources | [Free Download](https://surge-synthesizer.github.io) |
 | OB-Xd | Free | Vintage Analog Synth | Oberheim OB-X emulation, warm analog character | [Free Download](https://www.discodsp.com) |
 | MT Power Drum Kit 2 | Free | Drum Rompler | Velocity layers, MIDI grooves, built-in mixer | [Free Download](https://www.powerdrumkit.com/) |
@@ -292,7 +292,7 @@ Graillon 2 provides real-time pitch correction alongside a pitch-shifting sectio
 | iZotope Vinyl | Free | Lo-fi Effect | Vinyl simulation, noise and wear controls | [Free Download](https://www.izotope.com/en/products/vinyl) |
 | Valhalla Supermassive | Free | Reverb/Delay | Long tails, modulated modes, lush space | [Free Download](https://valhalladsp.com) |
 | Rough Rider 3 | Free | Compressor | Pumping compression, sidechain high-pass filter | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
-| TDR Nova | Free | Dynamic EQ | Per-band dynamics, static + dynamic EQ modes | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
+| TDR Nova | Free | Dynamic EQ | Per-band dynamics, static + dynamic EQ modes | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop) |
 | Graillon 2 | Free | Vocal Processor | Pitch correction, bitcrusher, real-time operation | [Free Download](https://www.auburnsounds.com/products/Graillon.html) |
 
 ---
@@ -338,7 +338,7 @@ LABS requires a free Spitfire Audio account. Komplete Start requires a Native In
 
 Vital is the first download for any hip-hop producer building a free kit in 2026 — its synthesis depth is unmatched at zero cost, and the community support around it makes learning faster than any other free option. When the free tier stops covering what you need, Serum is the single paid upgrade that producers on r/hiphopproduction point to most consistently.
 
-[→ Get Serum on Xfer Records](https://xferrecords.com/products/serum-2)
+[→ Get Serum on Xfer Records (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop)
 
 ---
 

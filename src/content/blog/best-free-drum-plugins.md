@@ -8,6 +8,7 @@ dealPrice: "FREE"
 draft: false
 heroImage: "/images/best-free-drum-plugins.jpg"
 score: 1.53
+evergreen: true
 ---
 
 **TL;DR:** Steven Slate Drums SSD5.5 FREE is the best free drum VST for realistic acoustic kits — studio-recorded samples at zero cost. MT Power Drum Kit 2 is the best lightweight acoustic option with built-in MIDI grooves. Sitala leads for hip-hop beat-making, and Hydrogen covers open-source pattern-based programming on all platforms.

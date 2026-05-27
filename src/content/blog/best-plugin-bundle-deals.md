@@ -149,7 +149,7 @@ Komplete 15 Select provides a curated portion of the full Komplete library — K
 - **Price:** ~$299–$599 (sale to retail range)
 - **Why upgrade:** Free and budget synths cannot replicate the physical modeling approach Arturia uses across V Collection. Developer documentation describes TAE (True Analog Emulation) technology as component-level hardware circuit simulation — not sample playback or basic waveshaping. V Collection 11 includes emulations of the Minimoog, Jupiter-8, Prophet-5, CS-80, DX7, and over 30 additional vintage instruments. The producer community on r/synthesizers consistently rates V Collection 11 as the most comprehensive vintage keyboard library available outside of owning the hardware, with the Jup-8 V and CS-80 V receiving particular recognition for playability and tonal authenticity.
 
-[→ Get Arturia V Collection 11](https://www.arturia.com/products/software-instruments/v-collection/overview)
+[→ Get Arturia V Collection 11 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugin-bundle-deals)
 
 ---
 
@@ -161,9 +161,9 @@ Komplete 15 Select provides a curated portion of the full Komplete library — K
 | iZotope Music Production Suite | $299–$499 | AI Mix/Master/Repair | Neutron, Ozone, RX — AI-assisted full chain | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) |
 | Soundtoys 5 | $199–$299 | Effects/Character | EchoBoy, Decapitator, 18+ analog-modeled tools | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) |
 | NI Komplete 15 Select | $99–$149 | Instruments/Samples | 2,000+ sounds, Kontakt Player, Massive | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) |
-| Waves Platinum Bundle | $99–$199 | Mixing/Processing | Adds CLA comps, H-EQ, C6 over Gold | [Official Site](https://www.arturia.com/products/software-instruments/v-collection/overview) |
-| FabFilter Total Bundle | $499–$799 | Premium Mixing | Pro-Q 4, Pro-C 2, Pro-L 2, Pro-R, Saturn 2 | [Official Site](https://www.arturia.com/products/software-instruments/v-collection/overview) |
-| Arturia V Collection 11 | $299–$599 | Instruments | 30+ hardware emulations, TAE technology | [Official Site](https://www.arturia.com/products/software-instruments/v-collection/overview) |
+| Waves Platinum Bundle | $99–$199 | Mixing/Processing | Adds CLA comps, H-EQ, C6 over Gold | [Official Site](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugin-bundle-deals) |
+| FabFilter Total Bundle | $499–$799 | Premium Mixing | Pro-Q 4, Pro-C 2, Pro-L 2, Pro-R, Saturn 2 | [Official Site](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugin-bundle-deals) |
+| Arturia V Collection 11 | $299–$599 | Instruments | 30+ hardware emulations, TAE technology | [Official Site](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugin-bundle-deals) |
 
 ---
 

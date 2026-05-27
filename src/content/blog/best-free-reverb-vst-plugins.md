@@ -20,13 +20,13 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Valhalla Supermassive | Free | Ambient, modulated, cinematic reverb | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| TAL-Reverb-4 | Free | Lush plate reverb for vocals & synths | [Free Download](https://tal-software.com/products/tal-reverb-4) |
+| Valhalla Supermassive | Free | Ambient, modulated, cinematic reverb | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-vst-plugins) |
+| TAL-Reverb-4 | Free | Lush plate reverb for vocals & synths | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-vst-plugins) |
 | Dragonfly Reverb | Free | Realistic room and hall sounds | [Free Download](https://michaelwillis.github.io/dragonfly-reverb/) |
 | OldSkoolVerb | Free | Vintage drum and snare reverb | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |
 | Convology XT | Free | Convolution / IR-based reverb | [Free Download](https://www.impulserecord.com/convology-xt/) |
 | Valhalla VintageVerb | $50 | Hardware-modeled studio reverb | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
-| FabFilter Pro-R 2 | $199 | Mastering-grade reverb | [Get It](https://www.fabfilter.com/products/pro-r-2-reverb-plug-in) |
+| FabFilter Pro-R 2 | $199 | Mastering-grade reverb | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-R&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-vst-plugins) |
 | Eventide SP2016 | ~$99 | Legendary hardware emulation | [Get It](https://www.eventideaudio.com/plug-ins/sp2016-reverb/) |
 
 ## Introduction
@@ -58,7 +58,7 @@ The interface is deliberately minimal. Six primary controls handle most use case
 
 **Best for:** Ambient textures, synth pads, cinematic reverb, experimental sound design.
 
-[→ Download Valhalla Supermassive Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-vst-plugins)
 
 ---
 
@@ -77,7 +77,7 @@ The modulated tail has a distinctly vintage, 80s-influenced character that's fou
 
 **Best for:** Vocals, synth leads, retro aesthetics, quick session decisions.
 
-[→ Download TAL-Reverb-4 Free](https://tal-software.com/products/tal-reverb-4)
+[→ Download TAL-Reverb-4 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-vst-plugins)
 
 ---
 
@@ -166,7 +166,7 @@ The free plugins above are production-ready. These three paid options are for pr
 - **Formats:** VST2, VST3, AU, AAX
 - **Why upgrade:** None of the free options offer frequency-dependent decay — the ability to let low frequencies decay slower or faster than highs, which is how real rooms actually behave. Pro-R 2 provides this plus a full EQ curve that shapes the reverb tail independently per frequency band. When a reverb needs to integrate into a finished mix without masking other elements, this level of control is what professional mixers and mastering engineers use.
 
-[→ Get FabFilter Pro-R 2](https://www.fabfilter.com/products/pro-r-2-reverb-plug-in)
+[→ Get FabFilter Pro-R 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-R&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-vst-plugins)
 
 ---
 
@@ -188,13 +188,13 @@ The free plugins above are production-ready. These three paid options are for pr
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Valhalla Supermassive | Free | Algorithmic | 24 modes, modulation engine, massive decay | [Download Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| TAL-Reverb-4 | Free | Plate | Warm, modulated, fast workflow | [Download Free](https://tal-software.com/products/tal-reverb-4) |
+| Valhalla Supermassive | Free | Algorithmic | 24 modes, modulation engine, massive decay | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-vst-plugins) |
+| TAL-Reverb-4 | Free | Plate | Warm, modulated, fast workflow | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-vst-plugins) |
 | Dragonfly Reverb | Free | Algorithmic (x4) | Room, Hall, Plate, Early Reflections | [Download Free](https://michaelwillis.github.io/dragonfly-reverb/) |
 | OldSkoolVerb | Free | Algorithmic (vintage) | Classic hardware character, drum-focused | [Download Free](https://www.meldaproduction.com/MFreeFXBundle) |
 | Convology XT | Free | Convolution | 70 IRs, custom IR import, acoustic realism | [Download Free](https://www.impulserecord.com/convology-xt/) |
 | Valhalla VintageVerb | $50 | Algorithmic | 18 hardware-modeled algorithms | [Buy](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
-| FabFilter Pro-R 2 | $199 | Algorithmic | Frequency-dependent decay, mastering-grade | [Buy](https://www.fabfilter.com/products/pro-r-2-reverb-plug-in) |
+| FabFilter Pro-R 2 | $199 | Algorithmic | Frequency-dependent decay, mastering-grade | [Buy (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-R&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-vst-plugins) |
 | Eventide SP2016 | ~$99 | Algorithmic | Legendary SP2016 hardware emulation | [Buy](https://www.eventideaudio.com/plug-ins/sp2016-reverb/) |
 
 ---

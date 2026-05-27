@@ -25,9 +25,9 @@ draft: false
 |--------|-------|----------|--------|
 | Surge XT | Free | All-purpose bass synthesis | [Free Download](https://surge-synthesizer.github.io/) |
 | TAL-BassLine-101 | Free | Acid / 303-style bass lines | [Free Download](https://tal-software.com/products/tal-bassline-101) |
-| Vital | Free | Wavetable bass & modern sound design | [Free Download](https://vital.audio/) |
-| OB-Xd | Free | Warm analog-style bass | [Free Download](https://www.discodsp.com/obxd/) |
-| Helm | Free | Clean mono subtractive bass | [Free Download](https://tytel.org/helm/) |
+| Vital | Free | Wavetable bass & modern sound design | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst) |
+| OB-Xd | Free | Warm analog-style bass | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst) |
+| Helm | Free | Clean mono subtractive bass | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst) |
 | Dexed | Free | FM bass & DX7 tones | [Free Download](https://github.com/asb2m10/dexed) |
 | Odin 2 | Free | Semi-modular complex bass design | [Free Download](https://www.thewavewarden.com/odin2) |
 
@@ -78,7 +78,7 @@ Matt Tytel also developed Helm (listed separately below), but Vital's wavetable 
 
 **Best for:** Wavetable bass design, evolving bass tones, hip-hop, trap, and modern electronic pop.
 
-[→ Download Vital Free](https://vital.audio/)
+[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst)
 
 ---
 
@@ -116,7 +116,7 @@ Helm is a virtual-analog synthesizer with two oscillators, a dedicated sub-oscil
 
 **Best for:** Sub bass, standard monophonic analog bass, and producers learning synthesis for the first time.
 
-[→ Download Helm Free](https://tytel.org/helm/)
+[→ Download Helm Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst)
 
 ---
 
@@ -133,7 +133,7 @@ OB-Xd is a faithful emulation of the Oberheim OB-X architecture, characterized b
 
 **Best for:** Warm, musical bass in soul, funk, R&B, slow-tempo electronic music, and any context where analog richness matters.
 
-[→ Download OB-Xd Free](https://www.discodsp.com/obxd/)
+[→ Download OB-Xd Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst)
 
 ---
 
@@ -186,7 +186,7 @@ ZebraLette 3 is u-he's free single-oscillator spectral synthesizer — a deliber
 
 **Best for:** Harmonically complex bass, cinematic low-end, and producers who want precise spectral control over bass timbre.
 
-[→ Download ZebraLette 3 Free](https://u-he.com/products/zebralette3/)
+[→ Download ZebraLette 3 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst)
 
 ---
 
@@ -255,13 +255,13 @@ Triple Cheese uses three comb filters as its primary sound source instead of con
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Surge XT | Free | Multi-engine | 12+ oscillator types, massive patch library, CLAP support | [Download](https://surge-synthesizer.github.io/) |
-| Vital | Free | Wavetable | Visual modulation, 20+ filter types, community wavetables | [Download](https://vital.audio/) |
+| Vital | Free | Wavetable | Visual modulation, 20+ filter types, community wavetables | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst) |
 | TAL-BassLine-101 | Free | Virtual analog (303) | Built-in step sequencer, accent, slide, classic acid character | [Download](https://tal-software.com/products/tal-bassline-101) |
-| OB-Xd | Free | Virtual analog (Oberheim) | Warm filter, unison, AAX support, large preset community | [Download](https://www.discodsp.com/obxd/) |
-| Helm | Free | Virtual analog | Sub-oscillator, drag-and-drop modulation, built-in effects | [Download](https://tytel.org/helm/) |
+| OB-Xd | Free | Virtual analog (Oberheim) | Warm filter, unison, AAX support, large preset community | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst) |
+| Helm | Free | Virtual analog | Sub-oscillator, drag-and-drop modulation, built-in effects | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst) |
 | Dexed | Free | FM (6-operator) | DX7 SysEx compatible, tight FM bass, low CPU | [Download](https://github.com/asb2m10/dexed) |
 | Odin 2 | Free | Semi-modular | Patch cables in GUI, 12+ filter models, complex routing | [Download](https://www.thewavewarden.com/odin2) |
-| ZebraLette 3 | Free | Spectral | Custom harmonic spectrum drawing, u-he audio quality | [Download](https://u-he.com/products/zebralette3/) |
+| ZebraLette 3 | Free | Spectral | Custom harmonic spectrum drawing, u-he audio quality | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst) |
 | Podolski | Free | Subtractive (mono) | Simple, CPU-light, clean sub, built-in arpeggiator | [Download](https://u-he.com/products/podolski/) |
 | Triple Cheese | Free | Comb filter | Unique metallic bass textures, industrial character | [Download](https://u-he.com/products/triple-cheese/) |
 | Scaler 2 | ~$49 | Compositional tool | Scale/chord detection, bass pattern generation | [Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/70-Utility/6439-Scaler-2?a_aid=69cb95abe1763) |

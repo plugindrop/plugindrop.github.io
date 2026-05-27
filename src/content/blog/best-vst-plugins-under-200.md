@@ -20,10 +20,10 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Serum 2 | $189 | Wavetable synthesis | [Official Site](https://xferrecords.com/products/serum-2) |
-| FabFilter Pro-C 2 | $179 | Transparent compression | [Official Site](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
+| Serum 2 | $189 | Wavetable synthesis | [Official Site](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200) |
+| FabFilter Pro-C 2 | $179 | Transparent compression | [Official Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200) |
 | Valhalla VintageVerb | $50 | Algorithmic reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
-| iZotope Neutron 4 | Varies | AI-assisted mixing suite | [Official Site](https://www.izotope.com/en/products/neutron) |
+| iZotope Neutron 4 | Varies | AI-assisted mixing suite | [Official Site](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200) |
 | Arturia Pigments 5 | ~$99–$149 | Multi-engine synthesis | — |
 | Vital | Free | Wavetable synth entry point | — |
 | TDR Nova | Free | Dynamic EQ / multiband compression | — |
@@ -55,7 +55,7 @@ r/edmproduction has consistently cited Serum as the most-used wavetable synthesi
 
 **Best for:** Electronic producers who need one synth that handles leads, basses, pads, and effects design without a sound ceiling.
 
-[→ Get Serum 2](https://xferrecords.com/products/serum-2)
+[→ Get Serum 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200)
 
 ---
 
@@ -89,7 +89,7 @@ r/edmproduction threads consistently describe Vital as "Serum-quality at free ti
 
 **Best for:** Producers evaluating wavetable synthesis before committing to a paid license, or those on Linux where the option pool is significantly narrower.
 
-[→ Download Vital Free (Official)](https://vital.audio/)
+[→ Download Vital Free (Official) (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200)
 
 ---
 
@@ -123,7 +123,7 @@ r/audioengineering threads consistently cite Pro-C 2 as the reference point for 
 
 **Best for:** Mix engineers and producers who compress every element of a mix and want a single tool that handles the full range of compression applications with precision.
 
-[→ Get FabFilter Pro-C 2](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in)
+[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200)
 
 ---
 
@@ -140,7 +140,7 @@ KVR's freeware dynamics discussions consistently rank TDR Nova among the best fr
 
 **Best for:** Producers learning dynamic EQ as a concept, or anyone needing a capable multiband dynamics tool at no cost.
 
-[→ Download TDR Nova Free (Official)](https://www.tokyodawn.net/tdr-nova/)
+[→ Download TDR Nova Free (Official) (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200)
 
 ---
 
@@ -193,7 +193,7 @@ KVR threads consistently note that Valhalla Room is the Valhalla plugin to reach
 
 **Best for:** Producers working in hip-hop, pop, and acoustic-adjacent genres where natural room placement is the goal rather than vintage reverb character.
 
-[→ Get Valhalla Room (Official Site)](https://valhalladsp.com/shop/reverb/valhalla-room/)
+[→ Get Valhalla Room (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Room&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200)
 
 *(No affiliate link available for this plugin.)*
 
@@ -212,7 +212,7 @@ TAL-Reverb-4 appears on nearly every curated "best free reverb" list maintained 
 
 **Best for:** Producers who need a warm, usable reverb at no cost before committing to a paid option.
 
-[→ Download TAL-Reverb-4 Free (Official)](https://tal-software.com/products/tal-reverb-4)
+[→ Download TAL-Reverb-4 Free (Official) (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200)
 
 ---
 
@@ -229,7 +229,7 @@ Valhalla DSP offers Supermassive as one of their flagship free plugins, and r/am
 
 **Best for:** Producers working in ambient, experimental, or cinematic contexts who need extreme reverb spaces and evolving textural effects.
 
-[→ Download Valhalla Supermassive Free (Official)](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+[→ Download Valhalla Supermassive Free (Official) (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200)
 
 ---
 
@@ -248,7 +248,7 @@ iZotope's developer documentation for Neutron 4 centers on its Track Assistant f
 
 **Best for:** Self-producing artists who mix their own work and want intelligent guidance to compress the learning curve without surrendering control of decisions.
 
-[→ Get iZotope Neutron 4](https://www.izotope.com/en/products/neutron)
+[→ Get iZotope Neutron 4 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200)
 
 ---
 
@@ -265,7 +265,7 @@ Soundtoys Decapitator is a consistently cited saturation tool in r/audioengineer
 
 **Best for:** Producers and engineers who want a dedicated saturation tool for adding harmonic content to drums, synths, and mix buses where a subtle but distinguishable character is the goal.
 
-[→ Get Soundtoys Decapitator (Official Site)](https://www.soundtoys.com/product/decapitator/)
+[→ Get Soundtoys Decapitator (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200)
 
 *(No affiliate link available for this plugin.)*
 
@@ -315,7 +315,7 @@ Spitfire Audio's LABS series offers an expanding catalogue of individual sample-
 - **Price:** $189
 - **Why upgrade:** Vital's free tier provides a complete and capable wavetable engine, but Serum 2's expanded modulation architecture, broader wavetable library, and the depth of its community-driven preset ecosystem represent a meaningful gap. If synthesis drives your production approach rather than supplementing it, the ceiling difference justifies the investment.
 
-[→ Get Serum 2](https://xferrecords.com/products/serum-2)
+[→ Get Serum 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200)
 
 ---
 
@@ -327,7 +327,7 @@ Spitfire Audio's LABS series offers an expanding catalogue of individual sample-
 - **Price:** $179
 - **Why upgrade:** DC1A and TDR Nova are both strong free options for their specific use cases, but Pro-C 2's eight compression styles and real-time visualization represent a precision ceiling that free alternatives do not reach — particularly for mastering-chain work and complex bus processing where subtle parameter control directly affects the final release quality.
 
-[→ Get FabFilter Pro-C 2](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in)
+[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200)
 
 ---
 
@@ -335,9 +335,9 @@ Spitfire Audio's LABS series offers an expanding catalogue of individual sample-
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Serum 2 | $189 | Wavetable Synth | High-res wavetables, deep modulation routing | [Get it](https://xferrecords.com/products/serum-2) |
-| FabFilter Pro-C 2 | $179 | Compressor | 8 compression styles, real-time visualization | [Get it](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
-| iZotope Neutron 4 | Varies | Mixing Suite | AI Track Assistant, 6 integrated processors | [Get it](https://www.izotope.com/en/products/neutron) |
+| Serum 2 | $189 | Wavetable Synth | High-res wavetables, deep modulation routing | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200) |
+| FabFilter Pro-C 2 | $179 | Compressor | 8 compression styles, real-time visualization | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200) |
+| iZotope Neutron 4 | Varies | Mixing Suite | AI Track Assistant, 6 integrated processors | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200) |
 | Arturia Pigments 5 | ~$99–$149 | Multi-Engine Synth | 4 engines, visual modulation matrix | — |
 | Soundtoys Decapitator | ~$99–$149 | Saturation | 5 saturation modes, musical harmonic color | — |
 | Valhalla VintageVerb | $50 | Algorithmic Reverb | 17 vintage algorithms, wide spatial range | [Get it](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
@@ -386,7 +386,7 @@ Consistently, yes. KVR threads on professional freeware regularly cite both TDR 
 
 For under $200, the highest-ROI combination a producer can make in 2026 is Serum 2 for synthesis, FabFilter Pro-C 2 for compression, and Valhalla VintageVerb for reverb — three tools that cover the most-used plugin categories at price points where the community consensus rates them above alternatives at two to five times the cost. Fill the remaining gaps with the free picks in this guide and the toolkit is complete before you spend anything else.
 
-[→ Start with Serum 2](https://xferrecords.com/products/serum-2) | [→ Get FabFilter Pro-C 2](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) | [→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
+[→ Start with Serum 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200) | [→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200) | [→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
 
 ---
 

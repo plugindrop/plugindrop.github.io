@@ -173,7 +173,7 @@ Valhalla Supermassive is arguably the best free plugin ever released. Its reverb
 
 **Watch a demo:** [YouTube](https://www.youtube.com/watch?v=OZuKRaZK86k)
 
-[→ Download Valhalla Supermassive Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vocal-processing-chain-plugins)
 
 [→ Find Valhalla Supermassive on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive%20reverb&a_aid=69cb95abe1763)
 
@@ -224,7 +224,7 @@ Once your core chain is locked in, these bundles and premium options offer the n
 | Waves Sibilance | $29 | De-esser | Spectral detection, invisible results | [Buy](https://www.pluginboutique.com/search?search_query=Waves%20Sibilance%20de-esser&a_aid=69cb95abe1763) |
 | FabFilter Pro-C 2 | €149 | Compressor | 8 compression styles, vocal mode | [Buy](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
 | iZotope Nectar 4 | $249 | Full Vocal Suite | AI assistant, Unmask, all-in-one | [Buy](https://www.pluginboutique.com/search?search_query=iZotope%20Nectar%204&a_aid=69cb95abe1763) |
-| Valhalla Supermassive | Free | Reverb/Delay | Lush Valhalla algorithms, completely free | [Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| Valhalla Supermassive | Free | Reverb/Delay | Lush Valhalla algorithms, completely free | [Free](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vocal-processing-chain-plugins) |
 | Waves Vocal Bundle | From $99 | Bundle | Full Waves vocal toolkit at bundle pricing | [Buy](https://www.pluginboutique.com/search?search_query=Waves%20Vocal%20Bundle&a_aid=69cb95abe1763) |
 | FabFilter Total Bundle | €899 | Bundle | Every FabFilter plugin, best per-plugin value | [Buy](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
 

@@ -25,7 +25,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Soundtoys 5 Bundle | $499 (~$299 on sale) | Complete creative effects suite | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Decapitator | $199 standalone | Analog saturation & harmonic grit | [Soundtoys](https://www.soundtoys.com/product/decapitator/) |
+| Decapitator | $199 standalone | Analog saturation & harmonic grit | [Soundtoys](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-5-review) |
 | EchoBoy | $199 standalone | Tape & analog delay/echo | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | Little AlterBoy | $99 standalone | Vocal pitch & formant shifting | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | Crystallizer | $99 standalone | Reverse granular pitch echo | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
@@ -61,7 +61,7 @@ Its real advantage over more complex competitors is speed: the five circuit mode
 **Best for:** Adding analog harmonic character to drums, bass, synths, and vocals.
 
 [→ Watch the demo on YouTube](https://www.youtube.com/watch?v=_3Q3U-v0pzA)
-[→ Get Decapitator on Soundtoys](https://www.soundtoys.com/product/decapitator/)
+[→ Get Decapitator on Soundtoys (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-5-review)
 
 ---
 
@@ -265,7 +265,7 @@ Both support tempo sync while deliberately avoiding perfect quantization. That h
 - **Price:** $199
 - **Why upgrade:** If the full bundle is not in your budget right now, Decapitator is the single plugin that delivers the most immediate impact. It is used on professional sessions daily, works on every source type, and immediately demonstrates what Soundtoys does better than competitors — saturation that adds character rather than just harmonic content.
 
-[→ Get Decapitator on Soundtoys](https://www.soundtoys.com/product/decapitator/)
+[→ Get Decapitator on Soundtoys (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-5-review)
 
 ---
 
@@ -274,7 +274,7 @@ Both support tempo sync while deliberately avoiding perfect quantization. That h
 | Plugin | Price (Standalone) | Type | Highlights | CTA |
 |--------|--------------------|------|------------|-----|
 | Soundtoys 5 Bundle | $499 (~$299 sale) | Bundle | 22 plugins, complete creative suite | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Decapitator | $199 | Saturation | 5 analog circuits, Punish button | [Soundtoys](https://www.soundtoys.com/product/decapitator/) |
+| Decapitator | $199 | Saturation | 5 analog circuits, Punish button | [Soundtoys](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-5-review) |
 | EchoBoy | $199 | Delay/Echo | 30 hardware models, Rhythm Echo mode | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | Little AlterBoy | $99 | Pitch/Formant | Drive-enhanced pitch shifting | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | Crystallizer | $99 | Granular/Pitch | Reverse pitch echo, ambient design | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |

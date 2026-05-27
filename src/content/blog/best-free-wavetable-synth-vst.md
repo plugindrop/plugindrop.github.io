@@ -18,14 +18,14 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | Spectral wavetable leads, basses, evolving pads | [Free Download](https://vital.audio/) |
+| Vital | Free | Spectral wavetable leads, basses, evolving pads | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
 | Surge XT | Free | Complex hybrid patches, deep modulation routing | [Free Download](https://surge-synthesizer.github.io/) |
 | Odin 2 | Free | Wavetable + FM hybrid sounds, cinematic textures | [Free Download](https://github.com/TheWaveWarden/odin2) |
-| Zebralette | Free | Spectral morphing, u-he-quality timbres at no cost | [Free Download](https://u-he.com/products/zebralette/) |
-| Helm | Free | Learning wavetable synthesis fundamentals | [Free Download](https://tytel.org/helm/) |
-| Serum | ~$189 | Industry-standard wavetable, professional ecosystem | [Get Serum](https://xferrecords.com/products/serum-2) |
-| Phase Plant | ~$99 | Modular wavetable design, Snapins integration | [Get Phase Plant](https://kilohearts.com/products/phase_plant) |
-| u-he Hive 2 | ~$99 | u-he quality in a fast, production-ready instrument | [Get u-he Hive 2](https://u-he.com/products/hive/) |
+| Zebralette | Free | Spectral morphing, u-he-quality timbres at no cost | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
+| Helm | Free | Learning wavetable synthesis fundamentals | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
+| Serum | ~$189 | Industry-standard wavetable, professional ecosystem | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
+| Phase Plant | ~$99 | Modular wavetable design, Snapins integration | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
+| u-he Hive 2 | ~$99 | u-he quality in a fast, production-ready instrument | [Get u-he Hive 2 (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=u-he%20Hive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
 
 ## Introduction
 
@@ -54,7 +54,7 @@ For producers who work heavily with third-party or user-designed wavetables, Vit
 
 **Best for:** Any producer who wants a professional-grade wavetable synth at zero cost — this is the first install.
 
-[→ Download Vital Free](https://vital.audio/)
+[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst)
 
 ---
 
@@ -113,7 +113,7 @@ The one-oscillator limitation is real. Layering complex polyphonic sounds requir
 
 **Best for:** Spectral texture design and producers who want u-he's sonic character as a free entry point before committing to Zebra2 or Hive 2.
 
-[→ Download Zebralette Free](https://u-he.com/products/zebralette/)
+[→ Download Zebralette Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst)
 
 ---
 
@@ -132,7 +132,7 @@ Development has slowed significantly since Vital launched. The preset library is
 
 **Best for:** Producers new to wavetable synthesis who want a simplified architecture before moving to Vital's deeper interface.
 
-[→ Download Helm Free](https://tytel.org/helm/)
+[→ Download Helm Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst)
 
 ---
 
@@ -148,7 +148,7 @@ Development has slowed significantly since Vital launched. The preset library is
 - **Price:** ~$189 one-time (rent-to-own available via Splice)
 - **Why upgrade:** Vital's free tier handles the synthesis tasks that Serum handles, but Serum's third-party preset and wavetable ecosystem has been built over years of industry deployment. If you work with major electronic music sound packs, collaborate with other producers on patches, or deliver client work where preset compatibility matters, Serum remains the default standard that those assets are designed around. The synthesis engines are comparable — the ecosystem is not.
 
-[→ Get Serum](https://xferrecords.com/products/serum-2)
+[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst)
 
 ---
 
@@ -160,7 +160,7 @@ Development has slowed significantly since Vital launched. The preset library is
 - **Price:** ~$99
 - **Why upgrade:** Vital and Surge XT are fixed-architecture instruments. Phase Plant lets you build synthesis chains from components — wavetable oscillators, sample playback, FM operators, noise generators — combined with Kilohearts' "Snapin" effects system in a single patch. Reddit's r/synthesizers community frequently identifies Phase Plant as the logical step for producers who have internalized conventional wavetable concepts and want to remove architecture constraints from their sound design process.
 
-[→ Get Phase Plant](https://kilohearts.com/products/phase_plant)
+[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst)
 
 ---
 
@@ -172,7 +172,7 @@ Development has slowed significantly since Vital launched. The preset library is
 - **Price:** ~$99
 - **Why upgrade:** Zebralette delivers one oscillator from the u-he ecosystem. Hive 2 provides a complete two-oscillator wavetable/virtual-analog hybrid instrument designed explicitly for fast patch creation in live and studio contexts. Producers who rely on Zebralette and want the full u-he character in a production-ready instrument — without the depth investment required by Zebra2 — consistently identify Hive 2 as the right paid entry point into u-he's catalog.
 
-[→ Get u-he Hive 2](https://u-he.com/products/hive/)
+[→ Get u-he Hive 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=u-he%20Hive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst)
 
 ---
 
@@ -180,14 +180,14 @@ Development has slowed significantly since Vital launched. The preset library is
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital | Free | Spectral wavetable | 3 oscillators, drag-drop modulation, full effects chain, 32-voice poly | [Download](https://vital.audio/) |
+| Vital | Free | Spectral wavetable | 3 oscillators, drag-drop modulation, full effects chain, 32-voice poly | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
 | Surge XT | Free | Hybrid (8 oscillator types) | 4,000+ patches, matrix modulation routing, open source | [Download](https://surge-synthesizer.github.io/) |
 | Odin 2 | Free | Wavetable + FM hybrid | 3 independent oscillator slots, 3 filters, open source | [Download](https://github.com/TheWaveWarden/odin2) |
-| Zebralette | Free | Spectral wavetable | u-he spectral oscillator tech, organic tonal character | [Download](https://u-he.com/products/zebralette/) |
-| Helm | Free | Wavetable | Simple 2-oscillator architecture, ideal for learning | [Download](https://tytel.org/helm/) |
-| Serum | ~$189 | Wavetable | Industry standard, massive third-party preset/wavetable library | [Get it](https://xferrecords.com/products/serum-2) |
-| Phase Plant | ~$99 | Modular wavetable | Component-based architecture, Snapins integration | [Get it](https://kilohearts.com/products/phase_plant) |
-| u-he Hive 2 | ~$99 | Wavetable/analog hybrid | u-he quality, designed for fast studio workflow | [Get it](https://u-he.com/products/hive/) |
+| Zebralette | Free | Spectral wavetable | u-he spectral oscillator tech, organic tonal character | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
+| Helm | Free | Wavetable | Simple 2-oscillator architecture, ideal for learning | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
+| Serum | ~$189 | Wavetable | Industry standard, massive third-party preset/wavetable library | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
+| Phase Plant | ~$99 | Modular wavetable | Component-based architecture, Snapins integration | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
+| u-he Hive 2 | ~$99 | Wavetable/analog hybrid | u-he quality, designed for fast studio workflow | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=u-he%20Hive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
 
 ---
 
@@ -238,7 +238,7 @@ Only if you work with commercial sound packs built specifically for Serum, colla
 
 ## Final Thoughts
 
-For most producers, Vital is the only free wavetable synth that needs to be installed — its engine is complete, uncapped, and capable of professional-level sound design without any financial commitment. When your workflow demands the third-party preset ecosystem or professional collaboration standard that comes with market adoption, [Serum](https://xferrecords.com/products/serum-2) remains the benchmark upgrade worth the cost.
+For most producers, Vital is the only free wavetable synth that needs to be installed — its engine is complete, uncapped, and capable of professional-level sound design without any financial commitment. When your workflow demands the third-party preset ecosystem or professional collaboration standard that comes with market adoption, [Serum](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) remains the benchmark upgrade worth the cost.
 
 ---
 

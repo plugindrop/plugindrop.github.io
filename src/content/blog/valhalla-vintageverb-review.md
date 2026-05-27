@@ -25,7 +25,7 @@ draft: false
 | Valhalla VintageVerb | $50 | All-purpose vintage digital reverb | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763) |
 | Valhalla Room | $50 | Realistic acoustic rooms and small spaces | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Room%20reverb&a_aid=69cb95abe1763) |
 | Valhalla Delay | $50 | Modulated delay with reverb-like diffused tails | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Delay&a_aid=69cb95abe1763) |
-| TAL-Reverb-4 | Free | Lush plate reverb on a zero budget | [Free Download](https://tal-software.com/products/tal-reverb-4) |
+| TAL-Reverb-4 | Free | Lush plate reverb on a zero budget | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=valhalla-vintageverb-review) |
 | Dragonfly Reverb | Free | Open-source hall and room algorithms | [Free Download](https://github.com/michaelwillis/dragonfly-reverb/releases) |
 | OldSkoolVerb (MeldaProduction) | Free | Smooth, transparent ambience at no cost | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |
 
@@ -153,7 +153,7 @@ VintageVerb is capable enough that most producers will never need anything else.
 | Valhalla VintageVerb | $50 | Algorithmic reverb | 18 algorithms, 3 color modes, minimal CPU | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763) |
 | Valhalla Room | $50 | Room reverb | Realistic acoustic spaces, early reflection detail | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Room%20reverb&a_aid=69cb95abe1763) |
 | Valhalla Delay | $50 | Delay + diffusion hybrid | 16 delay modes, modulation, diffusion tails | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Delay&a_aid=69cb95abe1763) |
-| TAL-Reverb-4 | Free | Plate/hall reverb | Simple interface, smooth sound, beginner-friendly | [Free Download](https://tal-software.com/products/tal-reverb-4) |
+| TAL-Reverb-4 | Free | Plate/hall reverb | Simple interface, smooth sound, beginner-friendly | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=valhalla-vintageverb-review) |
 | Dragonfly Reverb | Free | Hall/room reverb | Open-source, multiple algorithms, active development | [Free Download](https://github.com/michaelwillis/dragonfly-reverb/releases) |
 | OldSkoolVerb | Free | Transparent reverb | Very low CPU, smooth ambience, part of MFreeFXBundle | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |
 

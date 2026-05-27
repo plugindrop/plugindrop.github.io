@@ -21,12 +21,12 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| TAL-Chorus-LX | Free | Classic JC-120 chorus on any source | [Free Download](https://tal-software.com/products/tal-chorus-lx) |
+| TAL-Chorus-LX | Free | Classic JC-120 chorus on any source | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20Chorus&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-chorus-flanger-vst) |
 | MFlanger | Free | Deep, controllable flanging | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/12-Flanger/86-MFlangerMB?a_aid=69cb95abe1763) |
 | MChorus | Free | Multiband chorus with precise control | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |
 | TAL-Flanger | Free | Analog-style flanging, zero friction | [Free Download](https://tal-software.com/products/tal-effects) |
-| Valhalla SuperMassive | Free | Lush ensemble and chorus textures | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Arturia Chorus DIMENSION-D | $49 | Authentic Roland Dimension D emulation | [Get It](https://www.arturia.com/products/software-effects/chorus-dimension-d/overview) |
+| Valhalla SuperMassive | Free | Lush ensemble and chorus textures | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-chorus-flanger-vst) |
+| Arturia Chorus DIMENSION-D | $49 | Authentic Roland Dimension D emulation | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-chorus-flanger-vst) |
 | Valhalla Chorus | $50 | Studio-grade professional chorus | [Get It](https://valhalladsp.com/plugins//) |
 
 ## Introduction
@@ -54,7 +54,7 @@ The interface is deliberately minimal: two chorus modes (one-stage and two-stage
 
 **Best for:** Synth pads, electric piano, clean guitars, bass — anything that benefits from classic analog stereo width without coloring the source.
 
-[→ Download TAL-Chorus-LX Free](https://tal-software.com/products/tal-chorus-lx)
+[→ Download TAL-Chorus-LX Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TAL%20Chorus&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-chorus-flanger-vst)
 [Watch Demo](https://www.youtube.com/watch?v=tbM3E2Ov3zI)
 
 ---
@@ -93,7 +93,7 @@ Valhalla DSP built SuperMassive's reputation on the same DSP quality that makes 
 
 **Best for:** Ambient pads, drone textures, experimental modulation. Not a drop-in substitute for a traditional chorus on a vocal or guitar.
 
-[→ Download Valhalla SuperMassive Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+[→ Download Valhalla SuperMassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-chorus-flanger-vst)
 
 ---
 
@@ -199,7 +199,7 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 - **Price:** $49
 - **Why upgrade:** TAL-Chorus-LX models the JC-120 circuit. The Roland Dimension D is a different piece of hardware entirely — a four-mode spatial chorus used heavily in professional studio production through the 80s and 90s, and consistently sought after by producers trying to replicate that specific sound. Arturia's developer documentation confirms the emulation targets the original Dimension D hardware circuit, including all four preset modes. The plugin adds additional controls not available on the hardware unit. If the JC-120 character is close but not quite what you're after, this is where to look.
 
-[→ Get Arturia Chorus DIMENSION-D](https://www.arturia.com/products/software-effects/chorus-dimension-d/overview)
+[→ Get Arturia Chorus DIMENSION-D (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-chorus-flanger-vst)
 [Watch Demo](https://www.youtube.com/watch?v=zWDahsu8vFE)
 
 ---
@@ -221,15 +221,15 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 
 | Plugin | Price | Type | Highlights | Get It |
 |--------|-------|------|------------|--------|
-| TAL-Chorus-LX | Free | Chorus | JC-120 BBD emulation, minimal UI, cross-platform | [Free Download](https://tal-software.com/products/tal-chorus-lx) |
+| TAL-Chorus-LX | Free | Chorus | JC-120 BBD emulation, minimal UI, cross-platform | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20Chorus&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-chorus-flanger-vst) |
 | MFlanger | Free | Flanger | Multiband, deep LFO control, MFreeFXBundle | [Official Site](https://valhalladsp.com/plugins//) |
 | MChorus | Free | Chorus | Multiband chorus, visualization, MFreeFXBundle | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |
 | TAL-Flanger | Free | Flanger | Analog-modeled, simple UI, TAL quality | [Free Download](https://tal-software.com/products/tal-effects) |
-| Valhalla SuperMassive | Free | Modulation/Reverb | Ensemble/chorus modes, ambient focus | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| Valhalla SuperMassive | Free | Modulation/Reverb | Ensemble/chorus modes, ambient focus | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-chorus-flanger-vst) |
 | Blue Cat's Chorus | Free | Chorus | Clean and dependable, standard controls | [Free Download](https://www.bluecataudio.com/Products/Product_Chorus/) |
 | GVST GChorus | Free | Chorus | Ultra-lightweight, Windows/VST2 only | [Free Download](https://gvst.uk/gchorus.htm) |
 | AirWindows Ensemble | Free | Ensemble/Chorus | Open source, no GUI, community-respected | [Free Download](https://www.airwindows.com) |
-| Arturia Chorus DIMENSION-D | $49 | Chorus | Roland Dimension D hardware emulation | [Get It](https://www.arturia.com/products/software-effects/chorus-dimension-d/overview) |
+| Arturia Chorus DIMENSION-D | $49 | Chorus | Roland Dimension D hardware emulation | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-chorus-flanger-vst) |
 | Valhalla Chorus | $50 | Chorus | Modern algorithmic, studio-grade | [Get It](https://valhalladsp.com/plugins//) |
 
 ---
@@ -278,7 +278,7 @@ They serve different use cases. Arturia's Dimension D is a hardware emulation wi
 
 TAL-Chorus-LX is still the first plugin you should download — its combination of zero cost, cross-platform stability, and decade-long community consensus makes it the obvious starting point for any producer building a free modulation toolkit. When the free options reach their limits, Arturia Chorus DIMENSION-D and Valhalla Chorus both justify their price with results that outperform plugins costing significantly more.
 
-[→ Download TAL-Chorus-LX Free](https://tal-software.com/products/tal-chorus-lx)
+[→ Download TAL-Chorus-LX Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TAL%20Chorus&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-chorus-flanger-vst)
 
 ---
 

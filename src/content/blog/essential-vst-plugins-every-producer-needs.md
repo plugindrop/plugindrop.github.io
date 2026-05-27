@@ -24,8 +24,8 @@ draft: false
 | FabFilter Pro-C 2 | $179 | Transparent compression | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
 | Serum | $189 | Wavetable synthesis | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Serum%20Xfer%20Records&a_aid=69cb95abe1763) |
 | iZotope Ozone 12 | $249 | AI-assisted mastering | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2011&a_aid=69cb95abe1763) |
-| Valhalla Supermassive | Free | Ambient reverb & delay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Vital | Free | Wavetable synthesis | [Free Download](https://vital.audio/) |
+| Valhalla Supermassive | Free | Ambient reverb & delay | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-vst-plugins-every-producer-needs) |
+| Vital | Free | Wavetable synthesis | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-vst-plugins-every-producer-needs) |
 
 ---
 
@@ -72,7 +72,7 @@ TDR Nova is a parametric EQ with dynamic EQ capabilities built in — a feature 
 
 **Best for:** Producers who want dynamic EQ functionality without the Pro-Q 4 price tag.
 
-[→ Download TDR Nova Free](https://www.tokyodawn.net/tdr-nova/)
+[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-vst-plugins-every-producer-needs)
 
 ---
 
@@ -145,7 +145,7 @@ Supermassive delivers massive, evolving reverbs and modulated delays built for a
 
 **Best for:** Ambient pads, long reverb tails, and creative delay effects.
 
-[→ Download Valhalla Supermassive Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-vst-plugins-every-producer-needs)
 
 ---
 
@@ -203,7 +203,7 @@ Vital delivers spectral warping, full wavetable editing, and a modulation system
 
 **Best for:** Producers who want Serum-level synthesis capabilities without the upfront cost.
 
-[→ Download Vital Free](https://vital.audio/)
+[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-vst-plugins-every-producer-needs)
 
 ---
 
@@ -351,14 +351,14 @@ Ozone 12's Master Assistant analyzes your track and builds a starting mastering 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | FabFilter Pro-Q 4 | $179 | EQ | Dynamic EQ, M/S, zero-latency mode | [Get it](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763) |
-| TDR Nova | Free | EQ | Dynamic EQ, 4 bands, clean metering | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
+| TDR Nova | Free | EQ | Dynamic EQ, 4 bands, clean metering | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-vst-plugins-every-producer-needs) |
 | FabFilter Pro-C 2 | $179 | Compressor | 8 algorithms, real-time GR display | [Get it](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
 | OTT | Free | Multiband Compressor | Upward/downward compression, 3-band | [Free Download](https://xferrecords.com/freeware) |
 | Valhalla Room | $50 | Reverb | 12 algorithms, natural room modeling | [Get it](https://www.pluginboutique.com/search?search_query=Valhalla%20Room%20reverb&a_aid=69cb95abe1763) |
-| Valhalla Supermassive | Free | Reverb/Delay | Massive ambiences, modulated tails | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| Valhalla Supermassive | Free | Reverb/Delay | Massive ambiences, modulated tails | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-vst-plugins-every-producer-needs) |
 | Waves SSL E-Channel | $29.99 | Channel Strip | SSL console EQ + dynamics | [Get it](https://www.pluginboutique.com/search?search_query=Waves%20SSL%20E-Channel&a_aid=69cb95abe1763) |
 | Serum | $189 | Synthesizer | Wavetable editor, modulation matrix, FX | [Get it](https://www.pluginboutique.com/search?search_query=Serum%20Xfer%20Records&a_aid=69cb95abe1763) |
-| Vital | Free | Synthesizer | Spectral warping, advanced modulation | [Free Download](https://vital.audio/) |
+| Vital | Free | Synthesizer | Spectral warping, advanced modulation | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-vst-plugins-every-producer-needs) |
 | Softube Saturation Knob | Free | Saturation | Single-knob, three modes | [Free Download](https://www.softube.com/saturationknob) |
 | Slate Digital Fresh Air | Free | Enhancer | Artifact-free high-frequency lift | [Free Download](https://slatedigital.com/fresh-air/) |
 | Kontakt 7 | $399 | Sampler | Industry-standard, thousands of libraries | [Get it](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-7/) |

@@ -20,7 +20,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-Q 4 | $179 | Surgical EQ, resonance control | [Official Site](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in) |
+| FabFilter Pro-Q 4 | $179 | Surgical EQ, resonance control | [Official Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-mix-drums-plugins) |
 | Waves SSL G-Master Buss Compressor | ~$30 | Bus glue, cohesion | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | Transient Master (NI) | $49 | Kick/snare punch shaping | [Official Site](https://www.native-instruments.com/en/products/komplete/effects/transient-master/) |
 | OTT (Xfer Records) | Free | Parallel density, electronic drums | [Free Download](https://xferrecords.com/freeware) |
@@ -69,7 +69,7 @@ Developer documentation confirms linear phase mode for when phase coherence acro
 
 **Best for:** Kick mud removal, snare resonance control, tom high-passing, room mic cleanup
 
-[→ Get FabFilter Pro-Q 4](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in)
+[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-mix-drums-plugins)
 
 ---
 
@@ -170,7 +170,7 @@ On acoustic drum kits, OTT in this role is less common; community discussion the
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| FabFilter Pro-Q 4 | $179 | EQ | Dynamic EQ, spectrum collision detection, linear phase mode | [Get It](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in) |
+| FabFilter Pro-Q 4 | $179 | EQ | Dynamic EQ, spectrum collision detection, linear phase mode | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-mix-drums-plugins) |
 | Waves SSL G-Master Buss Compressor | ~$30 | Bus Compressor | SSL 4000 G emulation, Auto release, glue compression | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | Transient Master (NI) | $49 | Transient Shaper | Attack/Sustain two-knob control, internal parallel architecture | [Get It](https://www.native-instruments.com/en/products/komplete/effects/transient-master/) |
 | OTT (Xfer Records) | Free | Multiband Compressor | Upward/downward multiband, Depth blend control | [Free](https://xferrecords.com/freeware) |
@@ -222,7 +222,7 @@ OTT is primarily documented in electronic music contexts. For live-recorded acou
 
 The drum mixing workflow this guide covers — EQ, transient shaping, bus compression, parallel density — is the sequence the community returns to because it addresses each problem at the correct stage. FabFilter Pro-Q 4 and the Waves SSL G-Master Buss Compressor are the two tools that appear most consistently across genre-specific and general-purpose drum mixing discussions; starting there is the practical recommendation for any producer. If you're working in an electronic music context, download OTT while you're at it — the community's enthusiasm for it on parallel drum buses is proportional to how well it works.
 
-[→ Get FabFilter Pro-Q 4](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in) | [→ Get Waves SSL G-Master Buss Compressor](https://www.waves.com/plugins/ssl-g-master-buss-compressor) | [→ Download OTT Free](https://xferrecords.com/freeware)
+[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-mix-drums-plugins) | [→ Get Waves SSL G-Master Buss Compressor](https://www.waves.com/plugins/ssl-g-master-buss-compressor) | [→ Download OTT Free](https://xferrecords.com/freeware)
 
 ---
 

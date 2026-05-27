@@ -158,7 +158,7 @@ DSK Music produces a large catalog of free Windows VSTs. DSK Overture covers the
 - **Price:** ~$599 (frequent sale pricing)
 - **Why upgrade:** The Discover tier's articulation set is limited and excludes solo instruments entirely. Professional adds the complete articulation library, all solo instruments, additional mic positions, and the full expressive range required for delivery-quality orchestral writing. For anyone using BBCSO Discover seriously, this is the direct upgrade path.
 
-[→ Get BBCSO Professional on Spitfire Audio](https://www.spitfireaudio.com/en-us/products/bbc-symphony-orchestra-professional)
+[→ Get BBCSO Professional on Spitfire Audio (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-orchestral-vst-plugins)
 
 ---
 
@@ -179,7 +179,7 @@ DSK Music produces a large catalog of free Windows VSTs. DSK Overture covers the
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Spitfire LABS | Free | Sample library | Air Studios recording, textural strings | [Spitfire LABS](https://labs.spitfireaudio.com/) |
-| BBCSO Discover | Free | Full orchestra | Real BBC SO, all sections, multi-mic | [BBCSO Discover](https://www.spitfireaudio.com/en-us/products/bbc-symphony-orchestra-discover) |
+| BBCSO Discover | Free | Full orchestra | Real BBC SO, all sections, multi-mic | [BBCSO Discover](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-orchestral-vst-plugins) |
 | VSCO2 CE | Free | Chamber orchestra | Open source, Linux, SFZ/DS | [Free Download](https://versilian-studios.com/vsco-community/) |
 | ProjectSAM Free Orchestra | Free | Cinematic textures | Premium developer, pad-focused | [Free Download](https://projectsam.com/libraries/the-free-orchestra/) |
 | Miroslav Philharmonik CE | Free | Full orchestra | Vintage character, European flavor | [Free (IK)](https://www.ikmultimedia.com/products/philharmonik2ce/) |
@@ -188,7 +188,7 @@ DSK Music produces a large catalog of free Windows VSTs. DSK Overture covers the
 | OT SINE Player | Free | Premium ecosystem | Gateway to Berlin Series, polished UI | [Free Download](https://www.orchestraltools.com/get-sine) |
 | Decent Sampler | Free | Sample player | Modular, growing library ecosystem | [Free Download](https://www.decentsamples.com/product/decent-sampler-plugin/) |
 | DSK Overture | Free | Full orchestra VST | Windows-only, zero setup | [Free Download](https://www.dskmusic.com/dsk-overture/) |
-| BBCSO Professional | ~$599 | Full orchestra | Complete articulations, solo instruments | [Spitfire Audio](https://www.spitfireaudio.com/en-us/products/bbc-symphony-orchestra-professional) |
+| BBCSO Professional | ~$599 | Full orchestra | Complete articulations, solo instruments | [Spitfire Audio](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-orchestral-vst-plugins) |
 | EastWest Hollywood Strings | Sub/purchase | Strings | Industry standard, Composer Cloud | [soundsonline.com](https://www.soundsonline.com/orchestral/hollywood-strings) |
 
 ---

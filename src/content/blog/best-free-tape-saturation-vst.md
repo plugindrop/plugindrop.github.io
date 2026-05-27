@@ -190,7 +190,7 @@ The BPB Saturator offers four saturation modes — Soft, Hard, Tape, and Clip �
 - **Price:** $199
 - **Why upgrade:** Soundtoys built Decapitator by modeling five specific pieces of analog hardware, including tape amplifier and transformer circuit topologies. The tonal range across those five models — from clean and harmonically subtle to aggressive harmonic clipping — is wider than any free saturation plugin in this guide achieves. Decapitator also includes a Tone control that shapes harmonic content post-saturation, and an analog clip mode that the free tools here don't convincingly replicate at high drive settings. Producer communities recommend it when a free tool is pointing in the right direction but lacks sufficient control range.
 
-[→ Get Soundtoys Decapitator on Soundtoys](https://www.soundtoys.com/product/decapitator/)
+[→ Get Soundtoys Decapitator on Soundtoys (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-tape-saturation-vst)
 
 ---
 
@@ -207,7 +207,7 @@ The BPB Saturator offers four saturation modes — Soft, Hard, Tape, and Clip �
 | Saturation Knob | Free | Simple saturation | Three tonal modes, single knob, zero friction | Free — Softube |
 | BPB Saturator | Free | Multi-character saturation | Tape mode included, four distinct characters | Free — BPB |
 | RC-20 Retro Color | $149 | Multi-effect lo-fi processor | Integrated saturation + noise + wobble + reverb | [Get It](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
-| Soundtoys Decapitator | $199 | Hardware-modeled saturation | 5 hardware models, Tone control, clip mode | [Get It](https://www.soundtoys.com/product/decapitator/) |
+| Soundtoys Decapitator | $199 | Hardware-modeled saturation | 5 hardware models, Tone control, clip mode | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-tape-saturation-vst) |
 
 ---
 

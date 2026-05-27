@@ -243,7 +243,7 @@ If MicroShift feels too saturated or vintage for a production, MicroPitch offers
 - **Price:** From $249 (Standard)
 - **Why upgrade:** Ozone Imager 2 (free) is capable, but Ozone 12's Imager module adds AI-assisted stereo analysis, automatic mono compatibility correction, and deep integration with the full mastering chain — EQ, dynamics, limiter — all in one session. If you're doing regular mastering work and need a complete signal chain, the gap between the free Imager and Ozone 12 Standard is substantial.
 
-[→ Get iZotope Ozone 12](https://www.izotope.com/en/products/ozone.html)
+[→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-stereo-widener-plugins)
 
 ---
 

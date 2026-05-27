@@ -22,7 +22,7 @@ draft: false
 |--------|-------|----------|--------|
 | iZotope RX 11 Advanced | ~$1,199 | Film/TV post, professional dialogue editing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | iZotope RX 11 Standard | ~$399 | Podcasters, music producers, serious home studio | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| iZotope RX Elements | ~$99 | Beginners, occasional repair work | [iZotope Official](https://www.izotope.com/en/products/rx.html) |
+| iZotope RX Elements | ~$99 | Beginners, occasional repair work | [iZotope Official](https://www.pluginboutique.com/search?search_query=iZotope%20RX&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-rx-review) |
 
 ---
 
@@ -137,7 +137,7 @@ One honest limitation: RX is not the right tool for light, occasional use. If yo
 - **Price:** ~$99
 - **Why upgrade:** RX Elements is the right first step if you are new to audio repair or working within a strict budget. It includes Voice De-noise, De-clip, De-click, and a subset of the spectral editor. It lacks the AI modules and deeper repair tools of higher tiers, but it handles common everyday repair tasks competently and gets you into the RX ecosystem at a fraction of the cost.
 
-[→ Get iZotope RX Elements on the Official Site](https://www.izotope.com/en/products/rx.html)
+[→ Get iZotope RX Elements on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=iZotope%20RX&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-rx-review)
 
 ---
 
@@ -147,7 +147,7 @@ One honest limitation: RX is not the right tool for light, occasional use. If yo
 |--------|-------|------|------------|-----|
 | iZotope RX 11 Advanced | ~$1,199 | Standalone + Plugin | Full AI suite, Dialogue Isolation, Music Rebalance, Spectral Recovery | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 | iZotope RX 11 Standard | ~$399 | Standalone + Plugin | De-noise, De-reverb, Ambience Match, ARA2, Voice De-noise | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| iZotope RX Elements | ~$99 | Standalone + Plugin | Voice De-noise, De-clip, De-click, core spectral editor | [iZotope Official](https://www.izotope.com/en/products/rx.html) |
+| iZotope RX Elements | ~$99 | Standalone + Plugin | Voice De-noise, De-clip, De-click, core spectral editor | [iZotope Official](https://www.pluginboutique.com/search?search_query=iZotope%20RX&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-rx-review) |
 
 ---
 

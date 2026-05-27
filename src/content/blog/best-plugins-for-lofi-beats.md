@@ -21,12 +21,12 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | iZotope Vinyl | Free | Vinyl crackle, warp, dust | [Free Download](https://www.izotope.com/en/products/vinyl) |
-| Valhalla Supermassive | Free | Lush, drifting reverb | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| TAL-Dub-3 | Free | Tape delay with dub feedback | [Free Download](https://tal-software.com/products/tal-dub-x) |
+| Valhalla Supermassive | Free | Lush, drifting reverb | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-beats) |
+| TAL-Dub-3 | Free | Tape delay with dub feedback | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20Dub&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-beats) |
 | Chow Tape Model | Free | Physics-based tape saturation | [Free Download](https://chowdsp.com/products.html) |
 | Krush by Tritik | Free | Animated bitcrushing and grit | [Free Download](https://www.tritik.com/products/krush/) |
 | RC-20 Retro Color | Paid | All-in-one lo-fi chain | [Get It](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
-| iZotope RX Elements | Paid | Audio repair before degradation | [Get It](https://www.izotope.com/en/products/rx) |
+| iZotope RX Elements | Paid | Audio repair before degradation | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20RX&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-beats) |
 
 ---
 
@@ -108,7 +108,7 @@ Valhalla DSP is known primarily for paid reverbs that communities consistently r
 
 **Best for:** Atmospheric reverb tails, dreamy long decays, and spacious lo-fi texture on pads and melodic elements.
 
-[→ Download Valhalla Supermassive Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-beats)
 
 ---
 
@@ -125,7 +125,7 @@ TAL-Reverb-4 is a plate-style reverb from the same developer as TAL-Dub-3. Where
 
 **Best for:** Plate-style reverb on drums and melodic elements, short to medium vintage room character.
 
-[→ Download TAL-Reverb-4 Free](https://tal-software.com/products/tal-reverb-4)
+[→ Download TAL-Reverb-4 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-beats)
 
 ---
 
@@ -146,7 +146,7 @@ TAL-Dub-3 is a free tape-style delay with built-in modulation, filtering, and sa
 
 **Best for:** Dub-style echoes, looping warm feedback textures, and tape-colored delay across any element in a lo-fi mix.
 
-[→ Download TAL-Dub-3 Free](https://tal-software.com/products/tal-dub-x)
+[→ Download TAL-Dub-3 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TAL%20Dub&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-beats)
 
 ---
 
@@ -220,7 +220,7 @@ TAL-Chorus-LX is a recreation of the Roland Juno-60's chorus circuit, offered fr
 
 **Best for:** Subtle pitch modulation on synths and sampled keys, organic stereo widening with an analog character.
 
-[→ Download TAL-Chorus-LX Free](https://tal-software.com/products/tal-chorus-lx)
+[→ Download TAL-Chorus-LX Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TAL%20Chorus&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-beats)
 
 ---
 
@@ -246,7 +246,7 @@ TAL-Chorus-LX is a recreation of the Roland Juno-60's chorus circuit, offered fr
 - **Price:** ~$99 (frequently on sale)
 - **Why upgrade:** iZotope Vinyl adds lo-fi artifacts — RX Elements removes the wrong ones before you start. If your workflow involves sample flipping or recorded sources with broadband noise, hum, or clicks you did not intend, RX Elements' spectral repair and noise reduction tools let you clean the source before applying intentional degradation. The community frames it as a workflow tool, not a lo-fi plugin itself: it gives you control over which artifacts stay.
 
-[→ Get iZotope RX Elements](https://www.izotope.com/en/products/rx)
+[→ Get iZotope RX Elements (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=iZotope%20RX&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-beats)
 
 ---
 
@@ -257,15 +257,15 @@ TAL-Chorus-LX is a recreation of the Roland Juno-60's chorus circuit, offered fr
 | iZotope Vinyl | Free | Vinyl simulator | Crackle, warp, dust, aging controls | [Download](https://www.izotope.com/en/products/vinyl) |
 | Chow Tape Model | Free | Tape emulator | Physics-based hysteresis, wow/flutter | [Download](https://chowdsp.com/products.html) |
 | Caelum Audio Tape Cassette 2 | Free | Cassette sim | Crosstalk, bias, hiss, frequency rolloff | [Download](https://www.caelumaudio.com/CaelumAudio/?Page=TapeCassette2PP) |
-| Valhalla Supermassive | Free | Reverb/echo | 25+ modes, lush tails, CPU-efficient | [Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| TAL-Reverb-4 | Free | Plate reverb | Vintage plate character, short-medium decay | [Download](https://tal-software.com/products/tal-reverb-4) |
-| TAL-Dub-3 | Free | Tape delay | Dub feedback, tape saturation, modulation | [Download](https://tal-software.com/products/tal-dub-x) |
+| Valhalla Supermassive | Free | Reverb/echo | 25+ modes, lush tails, CPU-efficient | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-beats) |
+| TAL-Reverb-4 | Free | Plate reverb | Vintage plate character, short-medium decay | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-beats) |
+| TAL-Dub-3 | Free | Tape delay | Dub feedback, tape saturation, modulation | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20Dub&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-beats) |
 | Krush | Free | Bitcrusher | Bit + SR reduction with LFO modulation | [Download](https://www.tritik.com/products/krush/) |
 | GVST GDegrade | Free | Degrader | Lightweight bit crush and SR reduction | [Download](https://gvst.uk/Downloads) |
 | IVGI | Free | Saturation | Tube/tape warmth, subtle density | [Download](https://klanghelm.com/IVGI.php) |
-| TAL-Chorus-LX | Free | Chorus | Juno-60 circuit, organic pitch movement | [Download](https://tal-software.com/products/tal-chorus-lx) |
+| TAL-Chorus-LX | Free | Chorus | Juno-60 circuit, organic pitch movement | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20Chorus&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-beats) |
 | RC-20 Retro Color | ~$99 | Lo-fi all-in-one | 6 modules, cohesive degradation chain | [Get It](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
-| iZotope RX Elements | ~$99 | Audio repair | Noise reduction, spectral repair | [Get It](https://www.izotope.com/en/products/rx) |
+| iZotope RX Elements | ~$99 | Audio repair | Noise reduction, spectral repair | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20RX&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-beats) |
 
 ---
 

@@ -25,7 +25,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Arturia Pigments 5 | ~$199 | All-in-one synthesis, any genre | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Phase Plant | ~$199 | Modular-style deep sound design | [Official Site](https://kilohearts.com/products/phase_plant) |
+| Phase Plant | ~$199 | Modular-style deep sound design | [Official Site](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-pigments-review) |
 | Arturia V Collection 11 | ~$599 | Vintage instrument bundle | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 
 ---
@@ -187,7 +187,7 @@ On mid-range 2024 hardware, Pigments 5 runs efficiently with multiple instances 
 - **Price:** ~$199 (perpetual) or via Kilohearts subscription
 - **Why upgrade:** Phase Plant operates as a fully modular synthesis environment paired with Kilohearts' Snapin effects ecosystem. Where Pigments is structured and guided, Phase Plant is a blank canvas — more powerful for producers who want to build synthesis architectures from scratch, but with a significantly steeper learning curve. If you've mastered Pigments and want to move into modular-style sound design, Phase Plant is the natural next step.
 
-[→ Get Phase Plant](https://kilohearts.com/products/phase_plant)
+[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-pigments-review)
 
 ---
 
@@ -208,7 +208,7 @@ On mid-range 2024 hardware, Pigments 5 runs efficiently with multiple instances 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Arturia Pigments 5 | ~$199 | Multi-engine synth | 5 engines, visual modulation, full FX rack | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Phase Plant | ~$199 | Modular synth | True modular routing, Snapin FX ecosystem | [kilohearts.com](https://kilohearts.com/products/phase_plant) |
+| Phase Plant | ~$199 | Modular synth | True modular routing, Snapin FX ecosystem | [kilohearts.com](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-pigments-review) |
 | Arturia V Collection 11 | ~$599 | Vintage instrument bundle | 30+ vintage emulations, full Arturia ecosystem | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
 
 ---

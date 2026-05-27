@@ -23,7 +23,7 @@ draft: false
 |--------|-------|----------|--------|
 | Neural DSP Archetype | From $99 | Amp simulation & built-in cab sim | [Official Site](https://neuraldsp.com/plugins) |
 | Waves IR-L Convolution Reverb | Varies | Cabinet IR loading & room ambience | [Official Site](https://www.waves.com/plugins/ir-l) |
-| FabFilter Pro-Q 4 | $179 | Surgical EQ with dynamic EQ per band | [FabFilter](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in) |
+| FabFilter Pro-Q 4 | $179 | Surgical EQ with dynamic EQ per band | [FabFilter](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=guitar-recording-plugin-chain) |
 | OTT (Xfer Records) | Free | Multiband dynamics & mid-range density | [Free Download](https://xferrecords.com/freeware) |
 | FabFilter Total Bundle | ~$899 | Complete professional production suite | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
 
@@ -104,7 +104,7 @@ In the signal chain, Pro-Q 4 belongs after the amp sim and cab stage. The amp si
 
 **Best for:** Producers who need precise frequency control and want dynamic EQ capability built into their main EQ plugin without adding a separate plugin to the chain.
 
-[→ Get FabFilter Pro-Q 4](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in)
+[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=guitar-recording-plugin-chain)
 
 ---
 
@@ -161,7 +161,7 @@ OTT is genuinely free with no paid upgrade path for this specific plugin. Xfer R
 |--------|-------|------|------------|-----|
 | Neural DSP Archetype | From $99 | Amp Simulation | Neural network modeling, full built-in cab sim, 14-day free trial | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
 | Waves IR-L Convolution Reverb | Varies | Convolution Reverb / IR Loader | Third-party IR support, mono/stereo/true stereo, CPU-efficient | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
-| FabFilter Pro-Q 4 | $179 | Parametric EQ | 24 bands, dynamic EQ per band, mid/side processing, EQ match | [FabFilter](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in) |
+| FabFilter Pro-Q 4 | $179 | Parametric EQ | 24 bands, dynamic EQ per band, mid/side processing, EQ match | [FabFilter](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=guitar-recording-plugin-chain) |
 | OTT (Xfer Records) | Free | Multiband Compressor | Upward/downward compression, three bands, Depth control | [Free Download](https://xferrecords.com/freeware) |
 | FabFilter Total Bundle | ~$899 | Full Plugin Suite | Pro-Q 4, Pro-C 2, Pro-L 2, Pro-MB, Saturn 2 + reverb/delay | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
 

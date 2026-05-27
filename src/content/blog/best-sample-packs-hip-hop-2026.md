@@ -7,6 +7,7 @@ heroImage: "/images/best-sample-packs-hip-hop-2026.jpg"
 score: 5.1
 draft: false
 affiliate: "https://www.pluginboutique.com/genres/5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-sample-packs-hip-hop-2026"
+evergreen: true
 ---
 
 **TL;DR:** The best hip-hop sample packs in 2026 cover boom bap, trap, lo-fi, and drill. This list covers royalty-free drum kits, melodic loops, one-shots, and full construction kits from trusted sources. All packs listed are cleared for commercial use.

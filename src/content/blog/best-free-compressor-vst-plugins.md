@@ -61,7 +61,7 @@ TDR Kotelnikov delivers mastering-grade transparency at a level that genuinely c
 
 **Best for:** Mix bus, mastering chains, any source where clean dynamics control is the goal.
 
-[→ Get TDR Kotelnikov on Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Kotelnikov%20compressor&a_aid=69cb95abe1763) | [→ Download TDR Kotelnikov Free](https://www.tokyodawn.net/tdr-kotelnikov/)
+[→ Get TDR Kotelnikov on Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Kotelnikov%20compressor&a_aid=69cb95abe1763) | [→ Download TDR Kotelnikov Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-compressor-vst-plugins)
 
 *Watch the demo:* [YouTube](https://www.youtube.com/watch?v=Cpokm0j1DXQ)
 

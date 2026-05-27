@@ -22,12 +22,12 @@ xText: "14 free synth VST plugins in 2026 — Vital, Surge XT, OB-Xd, Dexed, and
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | Modern wavetable leads, pads, bass | [Free Download](https://vital.audio/) |
+| Vital | Free | Modern wavetable leads, pads, bass | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
 | Surge XT | Free | Hybrid synthesis, deep sound design | [Free Download](https://surge-synthesizer.github.io/) |
-| Zebralette 3 | Free | Modern wavetable with u-he quality | [Free Download](https://u-he.com/products/zebralette/) |
+| Zebralette 3 | Free | Modern wavetable with u-he quality | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
 | Dexed | Free | DX7 FM patches, 80s electric pianos | [Free Download](https://asb2m10.github.io/dexed/) |
-| OB-Xd | Free | Synthwave pads, Oberheim analog leads | [Free Download](https://www.discodsp.com/obxd/) |
-| TAL-NoiseMaker | Free | Beginner-friendly analog sounds | [Free Download](https://tal-software.com/products/tal-noisemaker) |
+| OB-Xd | Free | Synthwave pads, Oberheim analog leads | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
+| TAL-NoiseMaker | Free | Beginner-friendly analog sounds | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
 | Odin2 | Free | Advanced semi-modular synthesis | [Free Download](https://www.pluginboutique.com/product/1-Instruments/4-Synth/7226-Odin-2?a_aid=69cb95abe1763) |
 | Synth1 | Free | Classic subtractive with 100k+ presets | Free Download |
 
@@ -56,7 +56,7 @@ Vital is the free synth benchmark of 2026. The wavetable engine supports spectra
 
 **Best for:** Modern leads, evolving pads, cinematic textures, bass design across every genre
 
-[→ Download Vital Free](https://vital.audio/)
+[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins)
 
 ---
 
@@ -88,7 +88,7 @@ Zebralette 3 is the standalone, single-oscillator version of u-he's Zebra2 — o
 
 **Best for:** Producers who want u-he wavetable quality at zero cost, spectral waveform drawing, clean modern leads and pads, Linux users
 
-[→ Download Zebralette 3 Free](https://u-he.com/products/zebralette/)
+[→ Download Zebralette 3 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins)
 
 ---
 
@@ -143,7 +143,7 @@ OB-Xd emulates the Oberheim OB-X and OB-Xa, classic polysynths defined by their 
 
 **Best for:** Synthwave leads and pads, cinematic strings, 80s-style polyphonic patches
 
-[→ Download OB-Xd Free](https://www.discodsp.com/obxd/)
+[→ Download OB-Xd Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins)
 
 ---
 
@@ -158,7 +158,7 @@ Helm was Matthew Tytel's main instrument before Vital arrived, and it still earn
 
 **Best for:** Learning synthesis fundamentals, lightweight sessions, clean subtractive patches
 
-[→ Download Helm Free](https://tytel.org/helm/)
+[→ Download Helm Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins)
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/V7CXeh2WZQc" title="Helm Synth Review & Presets Demo (Free VST Plugin by Matt Tytel)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -194,7 +194,7 @@ TAL-NoiseMaker is a three-oscillator virtual analog synth built for immediacy. T
 
 **Best for:** Beginners, quick patch creation, clean analog tones without a steep learning curve
 
-[→ Download TAL-NoiseMaker Free](https://tal-software.com/products/tal-noisemaker)
+[→ Download TAL-NoiseMaker Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins)
 
 ---
 
@@ -344,7 +344,7 @@ Yoshimi is a fork of ZynAddSubFX with the same three synthesis engines — addit
 - **Price:** ~$189 (subscription options available via Splice)
 - **Why upgrade:** Vital's free tier is genuinely close, but Serum's built-in wavetable editor, its deeper workflow integration across commercial sound packs, and the breadth of third-party presets built specifically for it make it the benchmark for professional wavetable production that Vital references but does not yet match in ecosystem depth.
 
-[→ Get Serum (Official Site)](https://xferrecords.com/products/serum-2)
+[→ Get Serum (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins)
 
 ---
 
@@ -356,7 +356,7 @@ Yoshimi is a fork of ZynAddSubFX with the same three synthesis engines — addit
 - **Price:** ~$199 (also included in Kilohearts subscription)
 - **Why upgrade:** Odin2 and Surge XT push free synthesis further than most people expect, but Phase Plant's visual modular architecture, deep integration with the Kilohearts snapin ecosystem, and the quality of its commercial preset library represent a step change for producers working at a professional level who want everything in one organized instrument.
 
-[→ Get Phase Plant (Official Site)](https://kilohearts.com/products/phase_plant)
+[→ Get Phase Plant (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins)
 
 ---
 
@@ -368,7 +368,7 @@ Yoshimi is a fork of ZynAddSubFX with the same three synthesis engines — addit
 - **Price:** ~$99
 - **Why upgrade:** If Tyrell N6 or Podolski converted you to u-he's sound quality, Hive 2 is the obvious next step — it adds a second oscillator type, more filter options, MPE support, and a full modulation matrix while keeping the same analog character that makes u-he instruments stand out. The price-to-quality ratio is the best in the paid synth market.
 
-[→ Get u-he Hive 2 (Official Site)](https://u-he.com/products/hive/)
+[→ Get u-he Hive 2 (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=u-he%20Hive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins)
 
 ---
 
@@ -376,15 +376,15 @@ Yoshimi is a fork of ZynAddSubFX with the same three synthesis engines — addit
 
 | Plugin | Price | Type | Highlights | Get It |
 |--------|-------|------|------------|--------|
-| Vital | Free | Wavetable | Spectral warping, drag-and-drop mod, built-in FX | [Official Site](https://vital.audio/) |
+| Vital | Free | Wavetable | Spectral warping, drag-and-drop mod, built-in FX | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
 | Surge XT | Free | Hybrid | Multiple oscillator modes, deep modulation, open source | [Official Site](https://surge-synthesizer.github.io/) |
-| Zebralette 3 | Free | Wavetable | u-he spectral oscillator, 16-slot FX chain, CLAP support | [Official Site](https://u-he.com/products/zebralette/) |
+| Zebralette 3 | Free | Wavetable | u-he spectral oscillator, 16-slot FX chain, CLAP support | [Official Site](https://www.pluginboutique.com/search?search_query=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
 | Dexed | Free | FM (6-op) | DX7 SysEx compatible, 6-operator FM engine | [Official Site](https://asb2m10.github.io/dexed/) |
 | ZynAddSubFX | Free | Additive / Subtractive | PADsynth engine, deep harmonic control | [Developer](https://zynaddsubfx.sourceforge.io/) |
-| OB-Xd | Free | Virtual Analog | Oberheim filter, 12-voice polyphony, AAX support | [Official Site](https://www.discodsp.com/obxd/) |
-| Helm | Free | Analog Hybrid | Step sequencer, visual modulation, beginner-friendly | [Official Site](https://tytel.org/helm/) |
+| OB-Xd | Free | Virtual Analog | Oberheim filter, 12-voice polyphony, AAX support | [Official Site](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
+| Helm | Free | Analog Hybrid | Step sequencer, visual modulation, beginner-friendly | [Official Site](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
 | Tyrell N6 | Free | Virtual Analog | u-he analog character, warm filter | [Official Site](https://u-he.com/products/tyrelln6/) |
-| TAL-NoiseMaker | Free | Virtual Analog | 3 oscillators, onboard FX, easiest to learn | [Official Site](https://tal-software.com/products/tal-noisemaker) |
+| TAL-NoiseMaker | Free | Virtual Analog | 3 oscillators, onboard FX, easiest to learn | [Official Site](https://www.pluginboutique.com/search?search_query=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
 | Synth1 | Free | Virtual Analog | 100,000+ community presets, Nord-inspired | [Free Download](https://daichilab.sakura.ne.jp/softsynth/index.html) |
 | Charlatan | Free | Virtual Analog | Simple, stable, clean two-oscillator patches | [Developer](https://www.blaukraut.info/) |
 | Podolski | Free | Virtual Analog | ZDF filter, ultra-low CPU, u-he quality | [Free Download](https://u-he.com/products/podolski/) |
@@ -474,7 +474,7 @@ TAL-NoiseMaker is the recommended starting point — the three-oscillator layout
 
 ## Final Thoughts
 
-For most producers in 2026, **Vital** is the only free synth you need to start — wavetable power, a visual modulation system, and a built-in effects chain in a single free download. Add **OB-Xd** for vintage analog character and **Dexed** for FM textures, and you have a production-ready synthesis toolkit before spending anything. When you are ready to invest, [Serum](https://xferrecords.com/products/serum-2) remains the most logical paid upgrade — the ecosystem depth and wavetable editor are worth every dollar for producers working at scale.
+For most producers in 2026, **Vital** is the only free synth you need to start — wavetable power, a visual modulation system, and a built-in effects chain in a single free download. Add **OB-Xd** for vintage analog character and **Dexed** for FM textures, and you have a production-ready synthesis toolkit before spending anything. When you are ready to invest, [Serum](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) remains the most logical paid upgrade — the ecosystem depth and wavetable editor are worth every dollar for producers working at scale.
 
 ---
 

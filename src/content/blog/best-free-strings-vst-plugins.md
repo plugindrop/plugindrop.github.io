@@ -19,7 +19,7 @@ heroImage: "/images/best-free-strings-vst-plugins_collage.jpg"
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Spitfire LABS | Free | Cinematic string texture and modern beds | [Official Site](https://labs.spitfireaudio.com/) |
-| BBC Symphony Orchestra Discover | Free | Realistic full-orchestra writing, all skill levels | [Official Site](https://www.spitfireaudio.com/en-us/products/bbc-symphony-orchestra-discover) |
+| BBC Symphony Orchestra Discover | Free | Realistic full-orchestra writing, all skill levels | [Official Site](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins) |
 | VSCO2 Community Edition | Free | Realistic section strings and orchestral arrangements | [Official Site](https://versilian-studios.com/vsco-community/) |
 | Sonatina Symphonic Orchestra | Free | Complete orchestral sketching, notation workflows | [Official Site](https://sfzinstruments.github.io/orchestra/sso/) |
 | Virtual Playing Orchestra | Free | Notation-integrated mock-ups, solo and ensemble | [Official Site](https://virtualplaying.com/virtual-playing-orchestra//) |
@@ -72,7 +72,7 @@ BBC Symphony Orchestra Discover is Spitfire's free tier of their flagship BBC Sy
 
 **Best for:** Producers and composers who need a complete, realistic orchestral palette without spending anything.
 
-[→ Download BBC Symphony Orchestra Discover Free](https://www.spitfireaudio.com/en-us/products/bbc-symphony-orchestra-discover)
+[→ Download BBC Symphony Orchestra Discover Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins)
 
 ---
 
@@ -198,7 +198,7 @@ When the free tier runs out — typically when you need more articulations, high
 - **Price:** Check current pricing on Plugin Boutique
 - **Why upgrade:** BBC Symphony Orchestra Discover is the right starting point, but the full library adds substantially more articulations, multiple mic positions (close, ambient, outrigger, and additional positions depending on the tier), and dynamic layers that are essential for competitive orchestral mock-ups. Producer communities focused on film scoring consistently describe the jump from Discover to the full BBC SO as the single most impactful upgrade in the free-to-paid transition for orchestral work.
 
-[→ Get Spitfire BBC Symphony Orchestra](https://www.spitfireaudio.com/en-us/collections/bbc-symphony-orchestra)
+[→ Get Spitfire BBC Symphony Orchestra (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins)
 
 ---
 

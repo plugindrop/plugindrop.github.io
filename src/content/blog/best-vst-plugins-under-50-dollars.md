@@ -74,7 +74,7 @@ Valhalla released Supermassive as a permanent free plugin, and it has become one
 **Best for:** Ambient soundscapes, shimmer reverbs, experimental feedback textures, lo-fi diffusion.
 
 [→ Get Valhalla Supermassive on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763)
-[→ Download Valhalla Supermassive Free](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-50-dollars)
 
 ---
 
@@ -278,7 +278,7 @@ Zebralette is u-he's free, single-oscillator version of their flagship Zebra2 sy
 **Best for:** Atmospheric pads, spectral sound design, complex evolving leads with u-he quality.
 
 [→ Get Zebralette on Plugin Boutique](https://www.pluginboutique.com/search?search_query=u-he%20Zebralette&a_aid=69cb95abe1763)
-[→ Download Zebralette Free](https://u-he.com/products/zebralette/)
+[→ Download Zebralette Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-50-dollars)
 
 ---
 

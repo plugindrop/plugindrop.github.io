@@ -18,13 +18,13 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | Wavetable synthesis, direct Serum workflow replacement | [Free Download](https://vital.audio/) |
+| Vital | Free | Wavetable synthesis, direct Serum workflow replacement | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
 | Surge XT | Free | Deep hybrid synthesis, advanced modulation | [Free Download](https://surge-synthesizer.github.io/) |
-| Phase Plant Lite | Free (Lite) | Modular workflows, Kilohearts ecosystem entry | [Official Site](https://kilohearts.com/products/phase_plant) |
-| Helm | Free | Beginners, lightweight polyphonic synthesis | [Free Download](https://tytel.org/helm/) |
-| Phase Plant | Paid | Full modular synthesis, post-Lite upgrade | [Get Phase Plant](https://kilohearts.com/products/phase_plant) |
-| u-he Hive 2 | Paid | Fast professional workflow, u-he analog quality | [Get Hive 2](https://u-he.com/products/hive/) |
-| Serum | $189 | The industry-standard benchmark itself | [Get Serum](https://xferrecords.com/products/serum-2) |
+| Phase Plant Lite | Free (Lite) | Modular workflows, Kilohearts ecosystem entry | [Official Site](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
+| Helm | Free | Beginners, lightweight polyphonic synthesis | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
+| Phase Plant | Paid | Full modular synthesis, post-Lite upgrade | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
+| u-he Hive 2 | Paid | Fast professional workflow, u-he analog quality | [Get Hive 2 (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=u-he%20Hive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
+| Serum | $189 | The industry-standard benchmark itself | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
 
 ---
 
@@ -55,7 +55,7 @@ The free tier is not a crippled demo. Developer documentation confirms that all 
 
 **Best for:** Producers who want Serum-like wavetable workflows without the price tag — and the community's unanimous top recommendation for this use case.
 
-[→ Download Vital Free](https://vital.audio/)
+[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst)
 
 ---
 
@@ -95,7 +95,7 @@ Phase Plant Lite does not map onto Serum's workflow. It is a fundamentally diffe
 
 **Best for:** Producers curious about modular synthesis workflows who want a free starting point before deciding on the full Phase Plant.
 
-[→ Get Phase Plant Lite](https://kilohearts.com/products/phase_plant)
+[→ Get Phase Plant Lite (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst)
 
 ---
 
@@ -114,7 +114,7 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 
 **Best for:** Beginners learning synthesis basics, or producers on low-spec machines where Vital's CPU footprint is a constraint.
 
-[→ Download Helm Free](https://tytel.org/helm/)
+[→ Download Helm Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst)
 
 ---
 
@@ -128,7 +128,7 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 - **Price:** Check current pricing at developer site
 - **Why upgrade:** Phase Plant Lite's module selection is deliberately restricted — generators, shapers, and effects that define the plugin's character are locked. The full version removes all module restrictions, adds macro knobs with customizable ranges, complete preset management, and access to every Kilohearts Snapin effect inline. The Lite version functions more like an extended trial than a standalone product; the full version is where Phase Plant's genuine capability lives.
 
-[→ Get Phase Plant](https://kilohearts.com/products/phase_plant)
+[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst)
 
 ---
 
@@ -140,7 +140,7 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 - **Price:** Check current pricing at developer site
 - **Why upgrade:** Hive 2 occupies a distinct niche that no free alternative covers: a fast, streamlined workflow with u-he's documented reputation for analog modeling quality. The interface is designed for rapid sound design — fewer screens, more immediate feedback — which makes it a different tool from Serum or Vital rather than a direct replacement. r/synthesizers' community regularly positions it as underpriced relative to its output quality. It won't replicate Serum's wavetable editor workflow, but for producers who want professional sound character without the architecture overhead of Surge XT, it's the clearest paid upgrade path.
 
-[→ Get u-he Hive 2](https://u-he.com/products/hive/)
+[→ Get u-he Hive 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=u-he%20Hive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst)
 
 ---
 
@@ -154,7 +154,7 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 - **Price:** $189 direct, or rent-to-own via Splice
 - **Why upgrade:** Serum's primary value proposition in 2026 is its ecosystem, not its synthesis engine. Thousands of commercial preset packs, a mature resale market for wavetable content, and a tutorial library built almost entirely around Serum's interface are advantages that no free alternative has replicated. For producers regularly purchasing commercial presets or working alongside tutorials that assume you're running Serum, the upgrade is commercially justified. For synthesis capability in isolation, Vital closes the technical gap to a degree the community widely acknowledges. The remaining case for Serum is network effects — not the engine.
 
-[→ Get Serum by Xfer Records](https://xferrecords.com/products/serum-2)
+[→ Get Serum by Xfer Records (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst)
 
 ---
 
@@ -162,13 +162,13 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital | Free | Wavetable | Serum-adjacent workflow, all synthesis features unlocked free, active community | [Download Free](https://vital.audio/) |
+| Vital | Free | Wavetable | Serum-adjacent workflow, all synthesis features unlocked free, active community | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
 | Surge XT | Free | Hybrid (wavetable, VA, FM, string) | Deepest free synthesis engine available, open source, CLAP support | [Download Free](https://surge-synthesizer.github.io/) |
-| Phase Plant Lite | Free (Lite) | Modular | Kilohearts Snapin ecosystem, modular signal chain, upgradeable | [Official Site](https://kilohearts.com/products/phase_plant) |
-| Helm | Free | Polyphonic VA | Lightweight, open source, beginner-appropriate interface | [Download Free](https://tytel.org/helm/) |
-| Phase Plant | Paid | Modular | Full module library, macro routing, Snapin integration, no restrictions | [Kilohearts](https://kilohearts.com/products/phase_plant) |
-| u-he Hive 2 | Paid | Hybrid VA/wavetable | Fast workflow design, u-he analog modeling, professional quality | [u-he](https://u-he.com/products/hive/) |
-| Serum | $189 | Wavetable | Industry-standard, commercial preset ecosystem, Splice rent-to-own | [Xfer Records](https://xferrecords.com/products/serum-2) |
+| Phase Plant Lite | Free (Lite) | Modular | Kilohearts Snapin ecosystem, modular signal chain, upgradeable | [Official Site](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
+| Helm | Free | Polyphonic VA | Lightweight, open source, beginner-appropriate interface | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
+| Phase Plant | Paid | Modular | Full module library, macro routing, Snapin integration, no restrictions | [Kilohearts](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
+| u-he Hive 2 | Paid | Hybrid VA/wavetable | Fast workflow design, u-he analog modeling, professional quality | [u-he](https://www.pluginboutique.com/search?search_query=u-he%20Hive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
+| Serum | $189 | Wavetable | Industry-standard, commercial preset ecosystem, Splice rent-to-own | [Xfer Records](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
 
 ---
 
