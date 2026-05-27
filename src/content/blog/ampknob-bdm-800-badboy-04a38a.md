@@ -10,7 +10,7 @@ dealPrice: "$37.73"
 originalPrice: "$53.9"
 discount: "30% OFF"
 xText: "30% off ampknob's brand new bdm 800 — never seen them discount a fresh release before. if the compression hits like people say, this is a steal"
-draft: false
+draft: true
 ---
 **TL;DR:** Ampknob BDM 800 Badboy is currently 30% off at Plugin Boutique — down from ~~$53.90~~ to **$37.73**. For producers chasing aggressive, character-rich amp tones without spending on physical gear, this is a window worth taking seriously. [Grab the deal here.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/14858-Ampknob-BDM-800-Badboy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampknob-bdm-800-badboy-04a38a)
 

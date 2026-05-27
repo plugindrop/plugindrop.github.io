@@ -10,7 +10,7 @@ dealPrice: "$7.2"
 originalPrice: "$12"
 discount: "40% OFF"
 xText: "40% off hardest trap sounds for massive – lowest these have gone. presets that producers actually use for dark trap, not random throwaway stuff"
-draft: false
+draft: true
 ---
 **TL;DR:** Hardest Trap Sounds Massive Presets is currently **40% off** at ADSR Sounds — drop from ~~$12~~ to **$7.20**. That's under $8 for a dedicated trap preset library built for NI Massive. [Grab the deal here.](https://www.adsrsounds.com/product/massive-presets/hardest-trap-sounds-massive-presets/?a_aid=plugindrop&data1=hardest-trap-sounds-massive-presets-dbc9aa&utm_source=plugindrop&utm_medium=article&utm_campaign=hardest-trap-sounds-massive-presets-dbc9aa)
 

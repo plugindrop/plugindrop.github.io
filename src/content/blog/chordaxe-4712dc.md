@@ -9,7 +9,7 @@ score: 9.60
 dealPrice: "$39"
 originalPrice: "$49"
 xText: "new chord voicing plugin chordaxe just hit and the approach is actually wild. this might be a game changer for how you build progressions"
-draft: false
+draft: true
 ---
 **TL;DR:** ChordAXE is currently listed at **$39** (down from ~~$49~~) at Plugin Boutique — a negligible price difference that essentially puts this at its standard rate. There's no dramatic markdown here, but if you've been watching this chord progression tool and waiting for a reason to pull the trigger, [grab it directly from Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/17319-ChordAXE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chordaxe-4712dc).
 

@@ -10,7 +10,7 @@ dealPrice: "$19"
 originalPrice: "$149"
 discount: "87% OFF"
 xText: "ssl bus compressor 2 launched today and honestly it's wild that it's already discounted. 87% off doesn't sound like much but ssl never goes on sale. this is the glue your mix is missing."
-draft: false
+draft: true
 ---
 **TL;DR:** SSL Native Bus Compressor 2 is now $19 (~~$149~~) at Plugin Boutique — roughly 87% off one of the most iconic mix bus compressors in software form, built by the original hardware manufacturer. [Grab it at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-50a0ef)
 

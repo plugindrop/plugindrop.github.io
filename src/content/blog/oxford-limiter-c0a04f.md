@@ -10,7 +10,7 @@ dealPrice: "$75.9"
 originalPrice: "$290.4"
 discount: "74% OFF"
 xText: "never seen oxford limiter this cheap – 74% off. if you've been wanting transparent limiting that doesn't color your mix, now's when you grab it."
-draft: false
+draft: true
 ---
 **TL;DR:** The Sonnox Oxford Limiter is down 74% at Plugin Boutique — ~~$290.4~~ → **$75.9**. That's a significant drop on a professional mastering-grade limiter with a long history in high-end studio workflows. [Grab it here before the deal ends.](https://www.pluginboutique.com/product/2-Effects/9-Limiter/495-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=oxford-limiter-c0a04f)
 

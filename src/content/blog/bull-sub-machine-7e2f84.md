@@ -10,7 +10,7 @@ dealPrice: "$49"
 originalPrice: "$79"
 discount: "38% OFF"
 xText: "bull sub machine just dropped. finally sub control that feels natural instead of overcomplicated. this thing sits in a mix like butter. if you're stacking plugs just for low end management, this is the move"
-draft: false
+draft: true
 ---
 **TL;DR:** Bull Sub Machine is currently listed on Plugin Boutique at **$49**, down from ~~$79~~ — the discount is minimal, so the buying decision comes down to the plugin itself, not the markdown. If sub-bass enhancement is on your checklist, [grab it here](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15367-Bull-Sub-Machine?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bull-sub-machine-7e2f84).
 

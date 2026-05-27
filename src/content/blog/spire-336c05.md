@@ -10,7 +10,7 @@ dealPrice: "$83.6"
 originalPrice: "$207.9"
 discount: "60% OFF"
 xText: "$99→$40 for spire. one of those wavetable synths that actually does everything - filters sit in a mix like butter, barely eats your CPU. if you've been sleeping on it, this is the window."
-draft: false
+draft: true
 ---
 **TL;DR:** Spire by Reveal Sound is down to **$83.60** (was ~~$207.90~~) — that's 60% off one of the most recognizable synth plugins in electronic music production. If you've had it on your wishlist, this is a rare deep discount worth acting on. [Grab it at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/3187-Spire?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spire-336c05)
 
