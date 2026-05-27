@@ -524,20 +524,13 @@ const relatedPosts = allPosts
 					setInterval(tick, 60000);
 				}
 				// Track affiliate link clicks in GA4
-				// 本文中の a_aid 付きリンク、deal-cta-btn、sticky-cta も含めて全て計測
-				const AFFILIATE_HOSTS = ['pluginboutique.com','splice.com','adsrsounds.com','loopmasters.com','sweetwater.com','thomann.de','waves.com','beatport.com','djcity.com','pluginfox.com','unison.audio','udemy.com'];
-				document.querySelectorAll('.deal-cta-btn, .sticky-cta a, .prose a[href^="http"]').forEach(link => {
-					const href = link.getAttribute('href') || '';
-					const isAffiliate = href.includes('a_aid=') || href.includes('?ref=') || href.includes('?affid=') || AFFILIATE_HOSTS.some(h => href.includes(h));
-					if (!isAffiliate && !link.classList.contains('deal-cta-btn') && !link.closest('.sticky-cta')) return;
+				document.querySelectorAll('.deal-cta-btn, .sticky-cta a').forEach(link => {
 					link.addEventListener('click', () => {
 						if (typeof gtag !== 'undefined') {
 							gtag('event', 'affiliate_click', {
-								link_url: href,
-								link_text: link.textContent?.trim().slice(0, 80),
+								link_url: link.getAttribute('href'),
+								link_text: link.textContent?.trim(),
 								page_title: document.title,
-								link_location: link.classList.contains('deal-cta-btn') ? 'cta_box' :
-								               link.closest('.sticky-cta') ? 'sticky_cta' : 'body',
 							});
 						}
 					});
