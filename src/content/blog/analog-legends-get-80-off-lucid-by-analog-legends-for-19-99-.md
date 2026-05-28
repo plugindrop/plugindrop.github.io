@@ -11,7 +11,7 @@ originalPrice: "$99.99"
 discount: "80% OFF"
 saleExpiry: "2026-05-28"
 xText: "$19.99 for lucid (normally $99.99). analog legends' compressor that doesn't just squash—it colors your sound. lowest i've seen this drop."
-draft: false
+draft: true
 ---
 **TL;DR:** Analog Legends is offering Lucid at **80% off** — that's **$19.99** down from ~~$99.99~~. For producers looking to add analog-modeled sound design to their toolkit, this is a rare deep discount worth acting on. [Grab Lucid at $19.99 here.](https://audioplugin.deals/product/lucid-by-analog-legends/ref/21/)
 

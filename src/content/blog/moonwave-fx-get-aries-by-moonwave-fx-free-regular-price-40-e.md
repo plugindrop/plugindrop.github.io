@@ -10,7 +10,7 @@ dealPrice: "$0"
 originalPrice: "$40"
 saleExpiry: "2026-05-28"
 xText: "aries from moonwave free rn. $40 normally. this sits in a mix like butter. go grab it asap before they realize"
-draft: false
+draft: true
 ---
 **TL;DR:** Aries by Moonwave FX normally retails for ~~$40~~ — right now it's completely free. The promotion closes May 28th, leaving less than two weeks to claim it. [Grab Aries here before the deadline.](https://audioplugin.deals/product/aries-by-moonwave-fx/ref/21/)
 
