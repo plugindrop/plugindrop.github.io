@@ -11,7 +11,7 @@ originalPrice: "$79.60"
 discount: "75% OFF"
 saleExpiry: "2026-05-29"
 xText: "orvital just hit 75% off. golden screw basically never discounts like this. cinematic tension engine that builds dread you can't fake elsewhere."
-draft: false
+draft: true
 ---
 **TL;DR:** Golden Screw Studio is offering ORVITAL — a Kontakt cinematic tension engine — at **75% off**, dropping to just **$19.90** (regular price ~$79.60). The deal runs through May 29th, so if you're building dark, suspenseful soundscapes, [grab ORVITAL here](https://goldenscrewstudio.com/product/orvital-cinematic-engine-kontakt/) before it expires.
 
