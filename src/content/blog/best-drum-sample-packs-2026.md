@@ -195,24 +195,20 @@ Loopmasters' hybrid drum series layers acoustically recorded elements — live s
 ---
 
 ## FAQ
+**Q: What bit depth and sample rate should I look for in drum sample packs?**
+A: 24-bit / 44.1kHz or 48kHz is the practical standard for professional production in 2026. 16-bit packs are usable but lose dynamic range in heavy processing chains. 32-bit float offers maximum headroom but is less common in sample packs than in plugin outputs. When pack documentation specifies recording chain and bit depth, that transparency is itself a quality signal.
 
-**What bit depth and sample rate should I look for in drum sample packs?**
-24-bit / 44.1kHz or 48kHz is the practical standard for professional production in 2026. 16-bit packs are usable but lose dynamic range in heavy processing chains. 32-bit float offers maximum headroom but is less common in sample packs than in plugin outputs. When pack documentation specifies recording chain and bit depth, that transparency is itself a quality signal.
+**Q: Are WAV files better than REX2 for drum packs?**
+A: WAV files give you the raw audio to map, tune, and process independently in any environment. REX2 files are pre-sliced for tempo-syncing in DAWs like Reason and older Logic workflows. For drum one-shots and custom kit building, WAV is the more versatile and future-proof format. REX2 is specifically useful for loop-based workflows where automatic tempo-stretching matters.
 
-**Are WAV files better than REX2 for drum packs?**
-WAV files give you the raw audio to map, tune, and process independently in any environment. REX2 files are pre-sliced for tempo-syncing in DAWs like Reason and older Logic workflows. For drum one-shots and custom kit building, WAV is the more versatile and future-proof format. REX2 is specifically useful for loop-based workflows where automatic tempo-stretching matters.
+**Q: How many velocity layers do acoustic drum packs need?**
+A: The production community generally treats four velocity layers as the functional minimum for convincing humanization, with eight to sixteen layers providing the timbral variation that holds up under expressive MIDI programming. Fewer than four layers forces reliance on volume automation alone, which does not replicate what happens acoustically when a drummer hits harder.
 
-**How many velocity layers do acoustic drum packs need?**
-The production community generally treats four velocity layers as the functional minimum for convincing humanization, with eight to sixteen layers providing the timbral variation that holds up under expressive MIDI programming. Fewer than four layers forces reliance on volume automation alone, which does not replicate what happens acoustically when a drummer hits harder.
+**Q: Is it worth buying sample packs if I already have Superior Drummer or BFD?**
+A: Yes — for complementary reasons. Full drum plugins provide kit simulation with modeled room acoustics and bleed between mics. Standalone sample packs give you isolated one-shots for layering under plugin outputs, importing into custom samplers, or working in genres where plugin kits miss tonally. Producer forums consistently recommend both: plugins for naturalistic full-kit simulation, sample packs for sound design and layering flexibility.
 
-**Is it worth buying sample packs if I already have Superior Drummer or BFD?**
-Yes — for complementary reasons. Full drum plugins provide kit simulation with modeled room acoustics and bleed between mics. Standalone sample packs give you isolated one-shots for layering under plugin outputs, importing into custom samplers, or working in genres where plugin kits miss tonally. Producer forums consistently recommend both: plugins for naturalistic full-kit simulation, sample packs for sound design and layering flexibility.
-
-**Do I need a sampler plugin to use WAV drum packs?**
-No. Every major DAW — Ableton, FL Studio, Logic, Reaper, Studio One, Bitwig — accepts WAV files directly into its native drum rack or sampler. Specialized tools like Battery or Trigger add drum-specific features but are not required to use WAV sample packs.
-
----
-
+**Q: Do I need a sampler plugin to use WAV drum packs?**
+A: No. Every major DAW — Ableton, FL Studio, Logic, Reaper, Studio One, Bitwig — accepts WAV files directly into its native drum rack or sampler. Specialized tools like Battery or Trigger add drum-specific features but are not required to use WAV sample packs. ---
 ## Related Guides
 
 - [12 Best Free Lo-Fi Sample Packs in 2026, Ranked (Drums, Vinyl Crackle, Chords)](/posts/best-free-lofi-sample-packs/)

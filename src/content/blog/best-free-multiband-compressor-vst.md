@@ -242,24 +242,20 @@ Its value in 2026 is as a utility and educational resource: quick three-band glu
 ---
 
 ## FAQ
+**Q: What is a multiband compressor and when should I use one?**
+A: A multiband compressor splits audio into frequency bands and applies independent compression to each one. Use it when a single-band compressor creates more problems than it solves — for example, when heavy bass is triggering gain reduction that affects the high-mids, or when a specific frequency range needs to be tamed without touching the rest of the spectrum. For straightforward dynamics control without frequency interaction issues, a standard single-band compressor is usually simpler and more appropriate.
 
-**What is a multiband compressor and when should I use one?**
-A multiband compressor splits audio into frequency bands and applies independent compression to each one. Use it when a single-band compressor creates more problems than it solves — for example, when heavy bass is triggering gain reduction that affects the high-mids, or when a specific frequency range needs to be tamed without touching the rest of the spectrum. For straightforward dynamics control without frequency interaction issues, a standard single-band compressor is usually simpler and more appropriate.
+**Q: Is TDR Nova a multiband compressor or a dynamic EQ?**
+A: Both — and the practical distinction is less important than it used to be. TDR Nova can operate as a dynamic EQ, a parallel compressor, or a traditional multiband compressor depending on how its bands are configured. Developer documentation explicitly positions it as a hybrid tool, and the community uses it across all three functions depending on the specific session context.
 
-**Is TDR Nova a multiband compressor or a dynamic EQ?**
-Both — and the practical distinction is less important than it used to be. TDR Nova can operate as a dynamic EQ, a parallel compressor, or a traditional multiband compressor depending on how its bands are configured. Developer documentation explicitly positions it as a hybrid tool, and the community uses it across all three functions depending on the specific session context.
+**Q: Why is OTT so popular in EDM production specifically?**
+A: OTT applies upward compression (raising quiet signal) and downward compression (reducing loud signal) simultaneously across three frequency bands. The result is an aggressive, hyper-compressed tonal density that r/edmproduction consistently associates with the "in-your-face" character of modern electronic music. Its zero-cost availability and near-zero learning curve account for the rest of its reach — it delivers a specific, recognizable result immediately.
 
-**Why is OTT so popular in EDM production specifically?**
-OTT applies upward compression (raising quiet signal) and downward compression (reducing loud signal) simultaneously across three frequency bands. The result is an aggressive, hyper-compressed tonal density that r/edmproduction consistently associates with the "in-your-face" character of modern electronic music. Its zero-cost availability and near-zero learning curve account for the rest of its reach — it delivers a specific, recognizable result immediately.
+**Q: Are free multiband compressors usable on professional and commercial releases?**
+A: Yes. TDR Nova and Waves C6 in particular are regularly cited by professional mixing engineers in forum discussions as tools they use on commercial work. The gap between the top free options and paid options like FabFilter Pro-MB is real but narrow for most standard compression tasks. The meaningful advantages of paid tools are workflow speed, advanced phase processing modes, and deeper metering — not a fundamental quality difference for typical use cases.
 
-**Are free multiband compressors usable on professional and commercial releases?**
-Yes. TDR Nova and Waves C6 in particular are regularly cited by professional mixing engineers in forum discussions as tools they use on commercial work. The gap between the top free options and paid options like FabFilter Pro-MB is real but narrow for most standard compression tasks. The meaningful advantages of paid tools are workflow speed, advanced phase processing modes, and deeper metering — not a fundamental quality difference for typical use cases.
-
-**What is the difference between a multiband compressor and a multiband limiter?**
-A compressor reduces gain above a threshold at a configurable ratio; a limiter uses an extreme ratio — typically 10:1 or higher — to hard-cap signal from exceeding a ceiling. Some mastering tools like iZotope Ozone 12 combine both in an integrated processing chain. For mixing and dynamics shaping, a multiband compressor is the appropriate tool; for final output ceiling control before delivery, a limiter is used after the compressor stage.
-
----
-
+**Q: What is the difference between a multiband compressor and a multiband limiter?**
+A: A compressor reduces gain above a threshold at a configurable ratio; a limiter uses an extreme ratio — typically 10:1 or higher — to hard-cap signal from exceeding a ceiling. Some mastering tools like iZotope Ozone 12 combine both in an integrated processing chain. For mixing and dynamics shaping, a multiband compressor is the appropriate tool; for final output ceiling control before delivery, a limiter is used after the compressor stage. ---
 ## Related Guides
 
 - [Best Compressor Plugins 2026: Free & Paid for Mixing and Mastering](/posts/best-compressor-plugins-2026/)

@@ -245,24 +245,20 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 ---
 
 ## FAQ
+**Q: What's the actual difference between a chorus and a flanger?**
+A: Both mix a delayed copy of the signal back with the original, with modulation applied to the delay time. Chorus uses longer delay times — typically 20–30ms — to create a rich, doubled or multi-voice effect. Flanging uses much shorter delay times — often 1–10ms — which produces the characteristic jet-sweep or comb-filtering sound. The controls look similar on the surface, but the audible results are distinct enough that they serve different purposes in a mix.
 
-**What's the actual difference between a chorus and a flanger?**
-Both mix a delayed copy of the signal back with the original, with modulation applied to the delay time. Chorus uses longer delay times — typically 20–30ms — to create a rich, doubled or multi-voice effect. Flanging uses much shorter delay times — often 1–10ms — which produces the characteristic jet-sweep or comb-filtering sound. The controls look similar on the surface, but the audible results are distinct enough that they serve different purposes in a mix.
+**Q: Is TAL-Chorus-LX reliable in professional mixing contexts?**
+A: KVR Forum discussions and r/audioengineering threads include engineers using TAL-Chorus-LX in commercial work. Its plugin stability has been established over many years of wide use. The "bedroom producer" association is about the price, not the output quality.
 
-**Is TAL-Chorus-LX reliable in professional mixing contexts?**
-KVR Forum discussions and r/audioengineering threads include engineers using TAL-Chorus-LX in commercial work. Its plugin stability has been established over many years of wide use. The "bedroom producer" association is about the price, not the output quality.
+**Q: Do these free plugins work in Ableton Live, Logic Pro, and FL Studio?**
+A: Most of the plugins on this list — TAL-Chorus-LX, TAL-Flanger, MFlanger, MChorus, Valhalla SuperMassive, Blue Cat's Chorus — support VST3 and/or AU, covering all major modern DAWs. GVST GChorus is the notable exception: Windows and VST2 only. AirWindows format support varies by plugin and DAW; check compatibility before committing.
 
-**Do these free plugins work in Ableton Live, Logic Pro, and FL Studio?**
-Most of the plugins on this list — TAL-Chorus-LX, TAL-Flanger, MFlanger, MChorus, Valhalla SuperMassive, Blue Cat's Chorus — support VST3 and/or AU, covering all major modern DAWs. GVST GChorus is the notable exception: Windows and VST2 only. AirWindows format support varies by plugin and DAW; check compatibility before committing.
+**Q: What else comes in the MFreeFXBundle besides MFlanger and MChorus?**
+A: MeldaProduction's MFreeFXBundle includes over 30 plugins covering dynamics processing, EQ, distortion, reverb, delay, and modulation effects. Downloading MFlanger or MChorus means getting the entire bundle. Most producers who install it end up keeping several plugins from it beyond the two they originally wanted.
 
-**What else comes in the MFreeFXBundle besides MFlanger and MChorus?**
-MeldaProduction's MFreeFXBundle includes over 30 plugins covering dynamics processing, EQ, distortion, reverb, delay, and modulation effects. Downloading MFlanger or MChorus means getting the entire bundle. Most producers who install it end up keeping several plugins from it beyond the two they originally wanted.
-
-**Should I buy Valhalla Chorus or Arturia Chorus DIMENSION-D first?**
-They serve different use cases. Arturia's Dimension D is a hardware emulation with a specific, well-defined character — four modes, that's it, and all four are designed to sound like the original Roland unit. Valhalla Chorus is more flexible and modern, designed for a broader range of mixing applications. If you are chasing a specific vintage hardware sound, go Arturia. If you want a professional chorus that grows with your workflow, go Valhalla.
-
----
-
+**Q: Should I buy Valhalla Chorus or Arturia Chorus DIMENSION-D first?**
+A: They serve different use cases. Arturia's Dimension D is a hardware emulation with a specific, well-defined character — four modes, that's it, and all four are designed to sound like the original Roland unit. Valhalla Chorus is more flexible and modern, designed for a broader range of mixing applications. If you are chasing a specific vintage hardware sound, go Arturia. If you want a professional chorus that grows with your workflow, go Valhalla. ---
 ## Related Guides
 
 - [10 Best Tape Saturation & Vintage Warmth Plugins in 2026](/posts/best-tape-saturation-plugins/)

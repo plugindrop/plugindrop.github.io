@@ -244,24 +244,20 @@ The constraint is platform lock-in: Soundpaint instruments require the Soundpain
 ---
 
 ## FAQ
+**Q: Are free choir VST plugins good enough for professional use?**
+A: For background textures, ambient layers, and productions where the choir supports rather than leads the mix, yes — Spitfire LABS Choir specifically shows up in professional contexts. For exposed, front-of-mix choral writing in film and television scoring, the free options lack the articulation set and dynamic range that placement-quality work requires.
 
-**Are free choir VST plugins good enough for professional use?**
-For background textures, ambient layers, and productions where the choir supports rather than leads the mix, yes — Spitfire LABS Choir specifically shows up in professional contexts. For exposed, front-of-mix choral writing in film and television scoring, the free options lack the articulation set and dynamic range that placement-quality work requires.
+**Q: Do any of these plugins require Kontakt?**
+A: None of the options in this guide require a paid Kontakt license. Spitfire LABS Choir and BBC Symphony Orchestra Discover use Spitfire's own free player. Virtual Playing Orchestra, Sonatina, and VSCO2 use the SFZ format, which works with free SFZ players like sforzando by Plogue. DSK Choirs is a standalone VST. Soundpaint uses its own free proprietary player. Alter/Ego uses Plogue's own engine.
 
-**Do any of these plugins require Kontakt?**
-None of the options in this guide require a paid Kontakt license. Spitfire LABS Choir and BBC Symphony Orchestra Discover use Spitfire's own free player. Virtual Playing Orchestra, Sonatina, and VSCO2 use the SFZ format, which works with free SFZ players like sforzando by Plogue. DSK Choirs is a standalone VST. Soundpaint uses its own free proprietary player. Alter/Ego uses Plogue's own engine.
+**Q: What is the difference between sampled and synthetic choir plugins?**
+A: Sampled choir plugins trigger recordings of real human singers at specific pitches, dynamics, and articulations. Synthetic choir plugins like Alter/Ego generate vocal audio through algorithmic models. Sampled libraries produce more realistic results in naturalistic contexts; synthetic tools offer more fluid pitch and timing control and suit electronic or experimental production better.
 
-**What is the difference between sampled and synthetic choir plugins?**
-Sampled choir plugins trigger recordings of real human singers at specific pitches, dynamics, and articulations. Synthetic choir plugins like Alter/Ego generate vocal audio through algorithmic models. Sampled libraries produce more realistic results in naturalistic contexts; synthetic tools offer more fluid pitch and timing control and suit electronic or experimental production better.
+**Q: Can these plugins run on Apple Silicon Macs?**
+A: Spitfire LABS Choir and BBC Symphony Orchestra Discover have native Apple Silicon support through the Spitfire Audio app. DSK Choirs is Windows-only. Alter/Ego and SFZ-based options depend on the player used — sforzando by Plogue supports Apple Silicon. Compatibility status across the SFZ options changes with player updates; verify before downloading if native ARM performance matters to your workflow.
 
-**Can these plugins run on Apple Silicon Macs?**
-Spitfire LABS Choir and BBC Symphony Orchestra Discover have native Apple Silicon support through the Spitfire Audio app. DSK Choirs is Windows-only. Alter/Ego and SFZ-based options depend on the player used — sforzando by Plogue supports Apple Silicon. Compatibility status across the SFZ options changes with player updates; verify before downloading if native ARM performance matters to your workflow.
-
-**What is the best free choir VST for a complete beginner?**
-Spitfire LABS Choir. The player is straightforward, the presets produce usable results immediately, and the sample quality is high enough that the output sounds professional before any mixing work is applied. It is the entry point that almost every community resource points to first, and that consensus is well-founded.
-
----
-
+**Q: What is the best free choir VST for a complete beginner?**
+A: Spitfire LABS Choir. The player is straightforward, the presets produce usable results immediately, and the sample quality is high enough that the output sounds professional before any mixing work is applied. It is the entry point that almost every community resource points to first, and that consensus is well-founded. ---
 ## Final Thoughts
 
 Spitfire LABS Choir is the correct first download for any producer who wants a free choir VST — the recording quality makes it competitive with paid options from several years ago, and the community consensus on that point is consistent across every major producer forum. When the articulation depth and dynamic range of the free tier eventually become the limiting factor, 8Dio Requiem Professional is where experienced film and media composers consistently move next.

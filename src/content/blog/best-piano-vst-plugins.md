@@ -22,7 +22,7 @@ draft: false
 | Spitfire LABS Soft Piano | Free | Intimate felt-muted atmosphere | [Free Download](https://labs.spitfireaudio.com/) |
 | Arturia Piano V3 | ~$99 | Multiple modeled grands in one plugin | [Official Site](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-piano-vst-plugins) |
 | Pianoteq 8 | ~$149 | Physical modeling, ~80MB install | [Official Site](https://www.modartt.com/pianoteq) |
-| Keyscape | ~$399 | Complete acoustic and electric keyboard library | [Official Site](https://www.pluginboutique.com/search?search_query=Spectrasonics%20Omnisphere&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-piano-vst-plugins) |
+| Keyscape | ~$399 | Complete acoustic and electric keyboard library | [Official Site](https://www.spectrasonics.net/products/omnisphere/) |
 | Spitfire Audio Felt Piano | ~$79 | Felt-damped sync and cinematic writing | [Official Site](https://labs.spitfireaudio.com/) |
 | Lounge Lizard EP-4 | ~$99 | Fully tweakable Rhodes and Wurlitzer modeling | [Official Site](https://www.applied-acoustics.com/lounge-lizard-ep-4/) |
 
@@ -123,7 +123,7 @@ Keyscape is the benchmark that most other keyboard plugins are measured against 
 
 **Best for:** Film composers, pop producers, and anyone who needs a complete acoustic and electric keyboard library from one license.
 
-[→ Get Keyscape (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Spectrasonics%20Omnisphere&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-piano-vst-plugins)
+[→ Get Keyscape (via Plugin Boutique)](https://www.spectrasonics.net/products/omnisphere/)
 
 ---
 
@@ -309,24 +309,20 @@ Una Corda is NI's one-string-per-note experimental piano, developed in collabora
 ---
 
 ## FAQ
+**Q: What's the best free piano VST plugin in 2026?**
+A: Spitfire LABS Soft Piano for textured, atmospheric work. Piano One by Sound Magic for a neutral acoustic grand. Both are free, both are widely used, and they cover different tonal territory — downloading both costs nothing and takes under ten minutes.
 
-**What's the best free piano VST plugin in 2026?**
-Spitfire LABS Soft Piano for textured, atmospheric work. Piano One by Sound Magic for a neutral acoustic grand. Both are free, both are widely used, and they cover different tonal territory — downloading both costs nothing and takes under ten minutes.
+**Q: Is Pianoteq worth buying over a sample-based piano library?**
+A: For producers who perform live, work on machines with limited storage, or write in styles where piano is layered with other instruments, yes. Physical modeling handles nuance at extreme dynamics better than fixed velocity-layer samples. For solo classical or jazz piano where raw realism is the priority, large sample libraries like Keyscape or Ravenscroft 275 are generally more convincing in isolation.
 
-**Is Pianoteq worth buying over a sample-based piano library?**
-For producers who perform live, work on machines with limited storage, or write in styles where piano is layered with other instruments, yes. Physical modeling handles nuance at extreme dynamics better than fixed velocity-layer samples. For solo classical or jazz piano where raw realism is the priority, large sample libraries like Keyscape or Ravenscroft 275 are generally more convincing in isolation.
+**Q: Can these piano VSTs run in any DAW?**
+A: Most support VST3, AU, and AAX — covering Ableton Live, Logic Pro, FL Studio, Cubase, Pro Tools, and Studio One. Kontakt-based plugins (The Grandeur, Scarbee Mark I, Una Corda) require the free Kontakt Player. LABS-based instruments require the free Spitfire LABS player. Neither imposes additional cost.
 
-**Can these piano VSTs run in any DAW?**
-Most support VST3, AU, and AAX — covering Ableton Live, Logic Pro, FL Studio, Cubase, Pro Tools, and Studio One. Kontakt-based plugins (The Grandeur, Scarbee Mark I, Una Corda) require the free Kontakt Player. LABS-based instruments require the free Spitfire LABS player. Neither imposes additional cost.
+**Q: What is the difference between a felt piano and a toy piano?**
+A: A felt piano is a standard grand or upright with felt strips inserted between hammers and strings, creating a dry, muted, intimate tone — the same mechanism used for acoustic "silent practice." A toy piano is a physically separate, smaller instrument with metal tines or rods in place of strings, producing a thinner, more metallic, high-register character. Una Corda bridges both categories through prepared-piano recording rather than either pure technique.
 
-**What is the difference between a felt piano and a toy piano?**
-A felt piano is a standard grand or upright with felt strips inserted between hammers and strings, creating a dry, muted, intimate tone — the same mechanism used for acoustic "silent practice." A toy piano is a physically separate, smaller instrument with metal tines or rods in place of strings, producing a thinner, more metallic, high-register character. Una Corda bridges both categories through prepared-piano recording rather than either pure technique.
-
-**Do I need an expensive MIDI controller to get the most from these plugins?**
-Velocity sensitivity is the only essential feature for all twelve plugins on this list. Any MIDI keyboard with velocity-sensitive keys works. Aftertouch is used by some Pianoteq and Keyscape articulations but is not required for standard piano playing.
-
----
-
+**Q: Do I need an expensive MIDI controller to get the most from these plugins?**
+A: Velocity sensitivity is the only essential feature for all twelve plugins on this list. Any MIDI keyboard with velocity-sensitive keys works. Aftertouch is used by some Pianoteq and Keyscape articulations but is not required for standard piano playing. ---
 ## Related Guides
 
 - [10 Best Free Piano VST Plugins in 2026 (Grand, Upright, Electric)](/posts/best-free-piano-vst/)

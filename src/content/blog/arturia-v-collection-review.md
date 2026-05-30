@@ -318,28 +318,20 @@ The Yamaha DX7's 6-operator FM architecture is notoriously difficult to program 
 ---
 
 ## FAQ
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/kLnke_-5pHc" title="Ultimate FAQ Plugin - Toggle VS Accordion (Tutorial 07)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
+**Q: Is Arturia V Collection 11 worth the price in 2026?**
+A: Yes — at full price the per-instrument cost is under $15. On sale (which happens multiple times per year), it drops further. No competing bundle offers this depth of vintage synth emulation at this price point.
 
+**Q: Does V Collection 11 run natively on Apple Silicon?**
+A: Yes. Arturia has fully supported Apple Silicon natively since V Collection 9. Performance on M-series Macs is strong.
 
-**Is Arturia V Collection 11 worth the price in 2026?**
-Yes — at full price the per-instrument cost is under $15. On sale (which happens multiple times per year), it drops further. No competing bundle offers this depth of vintage synth emulation at this price point.
+**Q: Can I buy individual instruments instead of the full collection?**
+A: Arturia sells most instruments individually. However, buying even five individual instruments typically exceeds the bundle price during a sale. The collection represents significantly better value unless you only need one or two specific instruments.
 
-**Does V Collection 11 run natively on Apple Silicon?**
-Yes. Arturia has fully supported Apple Silicon natively since V Collection 9. Performance on M-series Macs is strong.
+**Q: How does V Collection 11 compare to Komplete for vintage sounds?**
+A: For specifically vintage hardware emulation, V Collection 11 is deeper and more accurate. Komplete's vintage offerings (like the Vintage Keys series in higher tiers) are good but narrower in scope. If vintage authenticity is your priority, Arturia wins. If you need a broader production toolkit that includes vintage elements, Komplete is the better all-in-one.
 
-**Can I buy individual instruments instead of the full collection?**
-Arturia sells most instruments individually. However, buying even five individual instruments typically exceeds the bundle price during a sale. The collection represents significantly better value unless you only need one or two specific instruments.
-
-**How does V Collection 11 compare to Komplete for vintage sounds?**
-For specifically vintage hardware emulation, V Collection 11 is deeper and more accurate. Komplete's vintage offerings (like the Vintage Keys series in higher tiers) are good but narrower in scope. If vintage authenticity is your priority, Arturia wins. If you need a broader production toolkit that includes vintage elements, Komplete is the better all-in-one.
-
-**Does V Collection 11 include updates for free?**
-Arturia has historically offered V Collection updates as paid upgrades to the next major version number. Minor updates within a version (bug fixes, performance improvements) are free. Check Arturia's current policy before purchasing if this is a concern.
-
----
-
+**Q: Does V Collection 11 include updates for free?**
+A: Arturia has historically offered V Collection updates as paid upgrades to the next major version number. Minor updates within a version (bug fixes, performance improvements) are free. Check Arturia's current policy before purchasing if this is a concern. ---
 ## Final Thoughts
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/kLnke_-5pHc" title="Final Boss of SYNTH Plugins | Unisynth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>

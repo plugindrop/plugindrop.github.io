@@ -179,27 +179,23 @@ The saturation in the feedback path is the key distinguishing feature: each repe
 ---
 
 ## FAQ
+**Q: What's the minimum plugin setup for lo-fi music in 2026?**
+A: Community consensus on r/lofi and r/edmproduction points to three: a vinyl simulator (iZotope Vinyl), a reverb (Valhalla Supermassive), and a tape delay (TAL-Dub-3). All three are free. Adding more plugins before mastering these three is the most common mistake newer lo-fi producers make.
 
-**What's the minimum plugin setup for lo-fi music in 2026?**
-Community consensus on r/lofi and r/edmproduction points to three: a vinyl simulator (iZotope Vinyl), a reverb (Valhalla Supermassive), and a tape delay (TAL-Dub-3). All three are free. Adding more plugins before mastering these three is the most common mistake newer lo-fi producers make.
+**Q: Is RC-20 Retro Color worth buying if I already have iZotope Vinyl?**
+A: It depends on your routing complexity. If you're already running iZotope Vinyl for noise, a separate plugin for wobble, and a third for tape saturation, RC-20 consolidates all three with designed module interaction that produces more coherent results. If iZotope Vinyl alone covers your needs, there's no immediate reason to upgrade.
 
-**Is RC-20 Retro Color worth buying if I already have iZotope Vinyl?**
-It depends on your routing complexity. If you're already running iZotope Vinyl for noise, a separate plugin for wobble, and a third for tape saturation, RC-20 consolidates all three with designed module interaction that produces more coherent results. If iZotope Vinyl alone covers your needs, there's no immediate reason to upgrade.
+**Q: Do these plugins work in Ableton Live, FL Studio, and Logic Pro?**
+A: Yes. iZotope Vinyl, Valhalla Supermassive, and RC-20 Retro Color all support AU (macOS) and VST3 (Windows/macOS), which covers Logic Pro, Ableton Live, and FL Studio. TAL-Dub-3 supports the same formats and adds Linux compatibility. If you haven't settled on a DAW yet, see our [best free DAW software guide](/posts/best-free-daw-software-2026/) for a rundown of the top zero-cost options.
 
-**Do these plugins work in Ableton Live, FL Studio, and Logic Pro?**
-Yes. iZotope Vinyl, Valhalla Supermassive, and RC-20 Retro Color all support AU (macOS) and VST3 (Windows/macOS), which covers Logic Pro, Ableton Live, and FL Studio. TAL-Dub-3 supports the same formats and adds Linux compatibility. If you haven't settled on a DAW yet, see our [best free DAW software guide](/posts/best-free-daw-software-2026/) for a rundown of the top zero-cost options.
+**Q: What drum plugins work well for lo-fi production?**
+A: Lo-fi beats rely on understated, slightly imperfect drum textures rather than precision acoustic samples. Sitala and BPB Dirty Drums are community favorites at zero cost — see our [best free drum plugins guide](/posts/best-free-drum-plugins/) for a ranked list covering every style from hip-hop samplers to lo-fi drum machines.
 
-**What drum plugins work well for lo-fi production?**
-Lo-fi beats rely on understated, slightly imperfect drum textures rather than precision acoustic samples. Sitala and BPB Dirty Drums are community favorites at zero cost — see our [best free drum plugins guide](/posts/best-free-drum-plugins/) for a ranked list covering every style from hip-hop samplers to lo-fi drum machines.
+**Q: What sample rate should I use for lo-fi production?**
+A: 44.1kHz is the standard for lo-fi production. Higher sample rates add processing overhead without contributing to the vintage character — the deliberate degradation applied by these plugins is what defines the sound. Several lo-fi tutorial creators on YouTube also note that saturation algorithms can interact differently at 44.1kHz versus 96kHz, sometimes in ways that affect the character of the lo-fi texture.
 
-**What sample rate should I use for lo-fi production?**
-44.1kHz is the standard for lo-fi production. Higher sample rates add processing overhead without contributing to the vintage character — the deliberate degradation applied by these plugins is what defines the sound. Several lo-fi tutorial creators on YouTube also note that saturation algorithms can interact differently at 44.1kHz versus 96kHz, sometimes in ways that affect the character of the lo-fi texture.
-
-**Does lo-fi music need mastering plugins?**
-Lo-fi masters are typically lower in loudness than pop or EDM, which means aggressive limiting works against the aesthetic. The mastering chain for lo-fi is usually simpler: gentle EQ, mild compression, and a limiter set conservatively. The mastering guide linked below covers this in detail.
-
----
-
+**Q: Does lo-fi music need mastering plugins?**
+A: Lo-fi masters are typically lower in loudness than pop or EDM, which means aggressive limiting works against the aesthetic. The mastering chain for lo-fi is usually simpler: gentle EQ, mild compression, and a limiter set conservatively. The mastering guide linked below covers this in detail. ---
 ## Related Guides
 
 - [Complete Drum Mixing Plugin Chain: Best Tools for Punchy Drums (2026)](/posts/drum-mixing-plugin-chain/)

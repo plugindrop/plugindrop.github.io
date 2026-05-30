@@ -182,24 +182,20 @@ The free sources above cover most production needs. These two paid platforms con
 ---
 
 ## FAQ
+**Q: Are free sample packs actually royalty-free for commercial use?**
+A: Not automatically — royalty-free and free-to-download are different things. ADSR Sounds clearly indicates royalty-free licensing for its library. Freesound.org uses various Creative Commons licenses, some of which restrict commercial use or require attribution. Always verify the specific license for any pack before using it in a commercial release.
 
-**Are free sample packs actually royalty-free for commercial use?**
-Not automatically — royalty-free and free-to-download are different things. ADSR Sounds clearly indicates royalty-free licensing for its library. Freesound.org uses various Creative Commons licenses, some of which restrict commercial use or require attribution. Always verify the specific license for any pack before using it in a commercial release.
+**Q: What is the difference between one-shots and loops?**
+A: One-shots are single-hit samples — a kick drum, a snare hit, a synth stab — that trigger once on playback. Loops are pre-recorded musical phrases designed to repeat. One-shots give more production control; loops are faster for sketching arrangements. Most professional libraries carry both, and most producers use both depending on the stage of the session.
 
-**What is the difference between one-shots and loops?**
-One-shots are single-hit samples — a kick drum, a snare hit, a synth stab — that trigger once on playback. Loops are pre-recorded musical phrases designed to repeat. One-shots give more production control; loops are faster for sketching arrangements. Most professional libraries carry both, and most producers use both depending on the stage of the session.
+**Q: Do I need to create accounts on all of these platforms?**
+A: Most free platforms require registration to download. ADSR Sounds, Looperman, Cymatics, and SampleFocus all require sign-up. MusicRadar typically does not. Creating accounts on two or three trusted platforms is worth the friction to access their full free libraries — just use a dedicated email address if inbox clutter is a concern.
 
-**Do I need to create accounts on all of these platforms?**
-Most free platforms require registration to download. ADSR Sounds, Looperman, Cymatics, and SampleFocus all require sign-up. MusicRadar typically does not. Creating accounts on two or three trusted platforms is worth the friction to access their full free libraries — just use a dedicated email address if inbox clutter is a concern.
+**Q: How many sample packs do I actually need?**
+A: Producer communities consistently recommend quality over volume. A well-auditioned set of 5–10 packs covering your core genre and workflow will serve most sessions better than 50 loosely downloaded packs you've never properly sorted. ADSR Sounds' free library is large enough to cover most needs without requiring many additional sources.
 
-**How many sample packs do I actually need?**
-Producer communities consistently recommend quality over volume. A well-auditioned set of 5–10 packs covering your core genre and workflow will serve most sessions better than 50 loosely downloaded packs you've never properly sorted. ADSR Sounds' free library is large enough to cover most needs without requiring many additional sources.
-
-**Is it worth paying for sample packs when so much is free?**
-The community consensus is yes — once you've identified your core style and are producing finished tracks regularly. Free packs cover the fundamentals effectively. Paid packs from producers like Loopmasters offer the musical coherence and mix-ready processing that meaningfully shortens session time. The upgrade makes practical sense when you're consistently finishing tracks, not when you're still experimenting.
-
----
-
+**Q: Is it worth paying for sample packs when so much is free?**
+A: The community consensus is yes — once you've identified your core style and are producing finished tracks regularly. Free packs cover the fundamentals effectively. Paid packs from producers like Loopmasters offer the musical coherence and mix-ready processing that meaningfully shortens session time. The upgrade makes practical sense when you're consistently finishing tracks, not when you're still experimenting. ---
 ## Related Guides
 
 - [ADSR Sounds vs Splice: Which Sample Subscription Is Better in 2026?](/posts/adsr-vs-splice-samples/)

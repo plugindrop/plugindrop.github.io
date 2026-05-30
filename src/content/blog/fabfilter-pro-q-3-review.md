@@ -216,24 +216,20 @@ Neutron's EQ module includes AI-generated band suggestions, session-level maskin
 ---
 
 ## FAQ
+**Q: Is FabFilter Pro-Q 3 still worth buying in 2026?**
+A: Yes. Despite stronger competition than at any previous point, Pro-Q 3 remains the most complete parametric EQ at its price. The dynamic EQ, linear phase mode, M/S per-band processing, and inter-track collision detection are all still best-in-class for what they contribute to daily workflow.
 
-**Is FabFilter Pro-Q 3 still worth buying in 2026?**
-Yes. Despite stronger competition than at any previous point, Pro-Q 3 remains the most complete parametric EQ at its price. The dynamic EQ, linear phase mode, M/S per-band processing, and inter-track collision detection are all still best-in-class for what they contribute to daily workflow.
+**Q: What did Pro-Q 3 add over Pro-Q 2?**
+A: Pro-Q 3 introduced native per-band dynamic EQ with individual threshold, range, attack, and release controls; the Piano Roll display for note-based band placement; and the inter-track spectrum display showing frequency collisions from other Pro-Q 3 instances in real time. These are meaningful additions, not incremental polish.
 
-**What did Pro-Q 3 add over Pro-Q 2?**
-Pro-Q 3 introduced native per-band dynamic EQ with individual threshold, range, attack, and release controls; the Piano Roll display for note-based band placement; and the inter-track spectrum display showing frequency collisions from other Pro-Q 3 instances in real time. These are meaningful additions, not incremental polish.
+**Q: Can Pro-Q 3 be used for mastering?**
+A: Yes, and it's a strong mastering EQ. Linear Phase mode eliminates phase shift across the frequency spectrum, which is the correct choice when phase relationships in the mix are already fixed. Mid/Side mode enables independent center and side channel processing, which is standard practice in professional mastering.
 
-**Can Pro-Q 3 be used for mastering?**
-Yes, and it's a strong mastering EQ. Linear Phase mode eliminates phase shift across the frequency spectrum, which is the correct choice when phase relationships in the mix are already fixed. Mid/Side mode enables independent center and side channel processing, which is standard practice in professional mastering.
+**Q: Is Pro-Q 3 CPU-intensive?**
+A: Pro-Q 3 is widely regarded as efficient for the quality of processing it delivers. Zero Latency mode carries the lowest CPU load; Linear Phase mode with high band counts increases demand, as expected. On any modern machine, heavy sessions with multiple instances handle without issue.
 
-**Is Pro-Q 3 CPU-intensive?**
-Pro-Q 3 is widely regarded as efficient for the quality of processing it delivers. Zero Latency mode carries the lowest CPU load; Linear Phase mode with high band counts increases demand, as expected. On any modern machine, heavy sessions with multiple instances handle without issue.
-
-**Does FabFilter offer a free trial?**
-Yes. FabFilter provides a fully functional 30-day trial of all plugins, including Pro-Q 3, directly from their website. Testing it in actual sessions before purchasing is strongly recommended.
-
----
-
+**Q: Does FabFilter offer a free trial?**
+A: Yes. FabFilter provides a fully functional 30-day trial of all plugins, including Pro-Q 3, directly from their website. Testing it in actual sessions before purchasing is strongly recommended. ---
 ## Final Thoughts
 
 FabFilter Pro-Q 3 doesn't win in 2026 by coasting on its reputation — it wins because no competitor has delivered a better balance of precision, depth, and workflow speed at the price. Dynamic EQ, linear phase processing, per-band mid/side routing, and inter-track collision detection are all still best-in-class, and the interface remains the most efficient in the category for engineers doing real work under session time pressure. There are cheaper tools that cover specific needs and more expensive tools that add AI layers, but none have displaced Pro-Q 3 as the EQ that belongs on every channel strip.

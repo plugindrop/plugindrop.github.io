@@ -1,25 +1,6 @@
 ---
 title: "SSL G3 MultiBusComp: Features, Pricing & Is It Worth It? (2026)"
-description: "SSL G3 MultiBusComp is available at Plugin Boutique. Check current pricing and reviews on the product page."
-pubDate: '2026-05-01T17:15:56Z'
-tags: ["review", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323"
-heroImage: /images/ssl-g3-multibuscomp-61c323.jpg
-score: 9.36
-draft: false
-converted: true
----
-**SSL G3 MultiBusComp** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323)
-
----
-
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bxws1bW1XzY" title="SSL G3 MultiBusComp — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-## What Is SSL G3 MultiBusComp?
-
-The SSL G3 MultiBusComp is a bus compressor plugin developed by Solid State Logic, the British manufacturer whose 4000-series mixing consoles defined the sound of commercial recording for decades. The plugin is rooted in the G-Series VCA bus compressor — the hardware section responsible for the "glue" compression that has appeared on major releases across pop, rock, and electronic music since the 1980s. Where the hardware unit lived on a single stereo bus, the G3 MultiBusComp extends that topology to handle multiple bus compression scenarios within a single plugin.
+description: "SSL G3 MultiBusComp delivers 3-band bus compression with SSL's analog character. Features, pricing & verdict on whether it's worth it in 2026." compression that has appeared on major releases across pop, rock, and electronic music since the 1980s. Where the hardware unit lived on a single stereo bus, the G3 MultiBusComp extends that topology to handle multiple bus compression scenarios within a single plugin.
 
 ---
 

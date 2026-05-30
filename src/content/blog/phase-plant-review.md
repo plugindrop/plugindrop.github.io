@@ -20,7 +20,7 @@ draft: false
 |--------|-------|----------|--------|
 | Phase Plant (Free Tier) | Free | Exploring modular synthesis before committing | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review) |
 | Phase Plant (Full) | ~$199 | All synthesis styles, deep sound design | [Official Site](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review) |
-| Serum | ~$189 | Wavetable-focused EDM production | [Official Site](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review) |
+| Serum | ~$189 | Wavetable-focused EDM production | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review) |
 | u-he Hive 2 | ~$149 | Fast analog/wavetable workflow | [Official Site](https://www.pluginboutique.com/search?search_query=u-he%20Hive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review) |
 
 ---
@@ -107,7 +107,7 @@ It's less ideal for producers who need a fast preset-browser workflow and minima
 - **Price:** ~$189 (perpetual license or Splice subscription)
 - **Why upgrade:** If your production style lives in wavetable synthesis — EDM, future bass, pop, trap — Serum's dedicated wavetable editor, visual modulation display, and massive preset ecosystem give you a faster, more community-supported workflow than Phase Plant's more generalist approach. Phase Plant can match Serum's wavetable output technically, but Serum's purpose-built interface gets you there in half the clicks.
 
-[→ Get Serum on Official Site (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review)
+[→ Get Serum on Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review)
 
 ---
 
@@ -129,7 +129,7 @@ It's less ideal for producers who need a fast preset-browser workflow and minima
 |--------|-------|------|------------|-----|
 | Phase Plant (Free) | Free | Modular Semi-Modular | Multi-generator, Snapin effects, free tier | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review) |
 | Phase Plant (Full) | ~$199 | Modular Semi-Modular | Full generator roster, audio-rate mod, Snapin ecosystem | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review) |
-| Serum | ~$189 | Wavetable | Wavetable editor, visual modulation, preset community | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review) |
+| Serum | ~$189 | Wavetable | Wavetable editor, visual modulation, preset community | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review) |
 | u-he Hive 2 | ~$149 | Analog/Wavetable Hybrid | Fast workflow, polished presets, low CPU | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=u-he%20Hive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-review) |
 
 ---
@@ -145,24 +145,20 @@ It's less ideal for producers who need a fast preset-browser workflow and minima
 ---
 
 ## FAQ
+**Q: Is Phase Plant good for beginners?**
+A: Phase Plant Essentials is genuinely useful for beginners specifically *because* its architecture is visual and explicit — you see exactly what every modulator is doing. The learning curve is about synthesis concepts, not the interface. That said, producers who want usable sounds fast without learning theory may find Hive 2 more accessible.
 
-**Is Phase Plant good for beginners?**
-Phase Plant Essentials is genuinely useful for beginners specifically *because* its architecture is visual and explicit — you see exactly what every modulator is doing. The learning curve is about synthesis concepts, not the interface. That said, producers who want usable sounds fast without learning theory may find Hive 2 more accessible.
+**Q: Can Phase Plant do FM synthesis?**
+A: Yes — you can route an oscillator's output as a frequency modulation source to another oscillator using the Output modulator. This is true audio-rate FM, not a workaround. It's not as deep as a dedicated FM synth like FM8, but it's more than capable for standard FM bass, bell, and metallic textures.
 
-**Can Phase Plant do FM synthesis?**
-Yes — you can route an oscillator's output as a frequency modulation source to another oscillator using the Output modulator. This is true audio-rate FM, not a workaround. It's not as deep as a dedicated FM synth like FM8, but it's more than capable for standard FM bass, bell, and metallic textures.
+**Q: Does Phase Plant come with a good preset library?**
+A: The factory preset library is solid and genuinely usable across cinematic, electronic, and experimental styles. The presets are also well-built for reverse engineering — opening them is an effective way to learn advanced Phase Plant techniques.
 
-**Does Phase Plant come with a good preset library?**
-The factory preset library is solid and genuinely usable across cinematic, electronic, and experimental styles. The presets are also well-built for reverse engineering — opening them is an effective way to learn advanced Phase Plant techniques.
+**Q: How does Phase Plant compare to Serum in 2026?**
+A: Serum is purpose-built for wavetable synthesis with a faster, more focused workflow. Phase Plant is broader — it includes a wavetable engine alongside analog, FM, sample, and noise generators in one instrument. For wavetable-centric work, Serum's dedicated editor and community ecosystem give it an edge. For cross-genre sound design, Phase Plant wins on flexibility.
 
-**How does Phase Plant compare to Serum in 2026?**
-Serum is purpose-built for wavetable synthesis with a faster, more focused workflow. Phase Plant is broader — it includes a wavetable engine alongside analog, FM, sample, and noise generators in one instrument. For wavetable-centric work, Serum's dedicated editor and community ecosystem give it an edge. For cross-genre sound design, Phase Plant wins on flexibility.
-
-**What are Kilohearts Snapins and do I need to buy them separately?**
-Snapins are Kilohearts' modular effects format, compatible with Phase Plant, Snap Heap, and Multipass. Phase Plant ships with a core set of Snapins included. Additional Snapins (more advanced reverb, multiband effects, etc.) are sold separately or bundled via the Kilohearts subscription. The included set covers most production needs; the upsells are for advanced users who are already in the ecosystem.
-
----
-
+**Q: What are Kilohearts Snapins and do I need to buy them separately?**
+A: Snapins are Kilohearts' modular effects format, compatible with Phase Plant, Snap Heap, and Multipass. Phase Plant ships with a core set of Snapins included. Additional Snapins (more advanced reverb, multiband effects, etc.) are sold separately or bundled via the Kilohearts subscription. The included set covers most production needs; the upsells are for advanced users who are already in the ecosystem. ---
 ## Related Guides
 
 - [14 Best Free Synth VST Plugins 2026](/posts/best-free-synth-plugins/)

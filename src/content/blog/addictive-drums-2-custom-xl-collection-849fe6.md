@@ -1,38 +1,6 @@
 ---
 title: "Addictive Drums 2 Custom XL Collection: Features, Pricing & Is It Worth It? (2026)"
-description: "Addictive Drums 2 Custom XL Collection is available at Plugin Boutique. Check current pricing and reviews on the product page."
-pubDate: '2026-04-26T12:46:24Z'
-tags: ["review", "vst-plugin", "virtual-instrument", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xl-collection-849fe6"
-heroImage: /images/addictive-drums-2-custom-xl-collection-849fe6.jpg
-score: 9.45
-draft: true
-converted: true
----
-**Addictive Drums 2 Custom XL Collection** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xl-collection-849fe6)
-
----
-
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ikaSahd3KFQ" title="Addictive Drums 2 Custom XL Collection — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-## What Is Addictive Drums 2 Custom XL Collection?
-
-Addictive Drums 2 is a drum production plugin from XLN Audio, built to deliver studio-quality drum sounds inside your DAW. The Custom XL Collection is a bundled package that pairs the AD2 engine with a curated set of ADpaks (expansion drum kits) and MIDIpaks — giving producers a broad sonic palette without hunting down individual expansions separately. XLN Audio has been a recognized name in drum plugin production for over a decade.
-
-## Key Features
-
-- **AD2 Engine:** The core Addictive Drums 2 software with a built-in channel mixer, transient shaping, and bleed controls for natural-sounding rooms.
-- **Multiple ADpaks included:** Multi-microphone, multi-velocity sampled drum kits spanning different genres — check the product page for the exact kit list in this collection.
-- **Built-in MIDI library:** A collection of MIDIpaks with grooves and patterns playable directly inside the plugin.
-- **Genre mix presets:** Ready-to-use mix presets let you dial in a polished sound fast, without deep mixing expertise.
-- **Drag-and-drop MIDI:** Patterns drag straight into your DAW timeline for quick arrangement work.
-- **Multi-output routing:** Route individual drums into separate DAW tracks for independent processing.
-
-## What Producers Are Saying
-
-Addictive Drums 2 has been a consistent thread recommendation across production communities for years. On KVR Audio forums and Reddit's r/audioengineering, it's regularly described as a strong middle-ground option — more approachable than Superior Drummer 3's deep sample-editing workflow, yet noticeably more realistic than entry-level drum VSTis. Producers working in pop, rock, and indie frequently mention it when the conversation turns to "sounds great with minimal setup."
+description: "Addictive Drums 2 Custom XL Collection 2026 review: features, sound demo, pricing on Plugin Boutique, and verdict on whether it's worth buying."
 
 ## Who Is It For?
 

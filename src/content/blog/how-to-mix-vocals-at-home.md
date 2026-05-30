@@ -176,24 +176,20 @@ KVR Audio discussions on vocal processing tools regularly position Nectar 4 as t
 ---
 
 ## FAQ
+**Q: Do I need a dedicated pitch correction plugin to mix vocals at home?**
+A: Not necessarily, but it's the most common reason bedroom recordings sound unpolished compared to commercial releases. Most DAWs include basic pitch correction, and for subtle, transparent correction, a native tool is often sufficient. Waves Tune Real-Time becomes worth the investment when DAW pitch correction introduces audible artifacts or when you're delivering vocals for clients who expect seamless, transparent correction.
 
-**Do I need a dedicated pitch correction plugin to mix vocals at home?**
-Not necessarily, but it's the most common reason bedroom recordings sound unpolished compared to commercial releases. Most DAWs include basic pitch correction, and for subtle, transparent correction, a native tool is often sufficient. Waves Tune Real-Time becomes worth the investment when DAW pitch correction introduces audible artifacts or when you're delivering vocals for clients who expect seamless, transparent correction.
+**Q: Is TDR Nova actually good enough for professional vocal production, or is it a beginner tool?**
+A: Community consensus on KVR Audio and r/edmproduction is unambiguous: TDR Nova is professional-grade. The free-versus-paid framing doesn't apply here — the plugin is used without apology at all levels of production. The GE expansion adds additional processing algorithms, but the free version covers everything a standard vocal mixing workflow requires.
 
-**Is TDR Nova actually good enough for professional vocal production, or is it a beginner tool?**
-Community consensus on KVR Audio and r/edmproduction is unambiguous: TDR Nova is professional-grade. The free-versus-paid framing doesn't apply here — the plugin is used without apology at all levels of production. The GE expansion adds additional processing algorithms, but the free version covers everything a standard vocal mixing workflow requires.
+**Q: What's the difference between a dynamic EQ and a standard EQ on vocals?**
+A: A standard parametric EQ applies a fixed gain change whenever audio passes through it, regardless of whether that frequency is actually problematic in that moment. A dynamic EQ only applies gain reduction — or a boost — when the signal in a given frequency band exceeds a threshold you define, meaning it responds to the performance rather than treating every moment identically. On vocals, this is most useful for controlling low-mid buildup in the 200–400 Hz range that appears when a singer is close to the microphone but isn't consistently present throughout an entire take.
 
-**What's the difference between a dynamic EQ and a standard EQ on vocals?**
-A standard parametric EQ applies a fixed gain change whenever audio passes through it, regardless of whether that frequency is actually problematic in that moment. A dynamic EQ only applies gain reduction — or a boost — when the signal in a given frequency band exceeds a threshold you define, meaning it responds to the performance rather than treating every moment identically. On vocals, this is most useful for controlling low-mid buildup in the 200–400 Hz range that appears when a singer is close to the microphone but isn't consistently present throughout an entire take.
+**Q: Does iZotope Nectar 4 replace individual plugins, or is it meant to be used alongside them?**
+A: Developer documentation and producer community discussions both frame Nectar 4 as a complete chain replacement for most workflows. It includes EQ, compression, saturation, pitch correction, reverb, delay, and harmony in one interface. Most producers who use it do so instead of a chain of individual plugins — the integration between modules is central to the value proposition.
 
-**Does iZotope Nectar 4 replace individual plugins, or is it meant to be used alongside them?**
-Developer documentation and producer community discussions both frame Nectar 4 as a complete chain replacement for most workflows. It includes EQ, compression, saturation, pitch correction, reverb, delay, and harmony in one interface. Most producers who use it do so instead of a chain of individual plugins — the integration between modules is central to the value proposition.
-
-**What order should plugins go on a vocal channel?**
-Community consensus follows a general sequence: high-pass filter → static EQ → compression → dynamic EQ → pitch correction → saturation → reverb/delay. The exact order is debated, but the most consistent recommendation in r/edmproduction is to place pitch correction after primary compression so the compressor isn't reacting to pitchy note transitions, and to keep reverb and delay at the end of the chain so they process the finished, corrected signal.
-
----
-
+**Q: What order should plugins go on a vocal channel?**
+A: Community consensus follows a general sequence: high-pass filter → static EQ → compression → dynamic EQ → pitch correction → saturation → reverb/delay. The exact order is debated, but the most consistent recommendation in r/edmproduction is to place pitch correction after primary compression so the compressor isn't reacting to pitchy note transitions, and to keep reverb and delay at the end of the chain so they process the finished, corrected signal. ---
 ## Final Thoughts
 
 For mixing vocals at home in 2026, the free tier is genuinely strong: TDR Nova for dynamic EQ and Valhalla Supermassive for reverb cover the most critical stages of a vocal chain without compromise or apology. When the workflow requires pitch correction and DAW-native tools are the limiting factor, Waves Tune Real-Time is the direct, low-latency solution. When you want a single AI-assisted plugin to handle the entire chain intelligently and cut setup time significantly, iZotope Nectar 4 is the community's consistent top recommendation.

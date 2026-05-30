@@ -312,24 +312,20 @@ MSXII Sound Design is one of the most-cited creators in lo-fi hip hop production
 ---
 
 ## FAQ
+**Q: Are free lo-fi sample packs safe to use commercially?**
+A: It depends on the source. ADSR Sounds' free tier, MusicRadar, and Sample Focus (royalty-free tier) are commercially cleared. Freesound samples carry varying Creative Commons licenses — some require attribution, some do not, and this must be checked per sample rather than assumed. Looperman community loops are royalty-free for music releases per the platform's terms, but always verify for individual loops. When commercial use is a concern, stick to packs with explicit royalty-free language.
 
-**Are free lo-fi sample packs safe to use commercially?**
-It depends on the source. ADSR Sounds' free tier, MusicRadar, and Sample Focus (royalty-free tier) are commercially cleared. Freesound samples carry varying Creative Commons licenses — some require attribution, some do not, and this must be checked per sample rather than assumed. Looperman community loops are royalty-free for music releases per the platform's terms, but always verify for individual loops. When commercial use is a concern, stick to packs with explicit royalty-free language.
+**Q: What file format do lo-fi sample packs typically come in?**
+A: The standard is 24-bit WAV at 44.1kHz, which works natively in every major DAW. Splice delivers in WAV through their app. If a source only offers MP3 downloads, that is a reliable quality signal worth factoring into your decision — the lossy compression artifacts conflict with lo-fi processing chains where you're adding deliberate degradation.
 
-**What file format do lo-fi sample packs typically come in?**
-The standard is 24-bit WAV at 44.1kHz, which works natively in every major DAW. Splice delivers in WAV through their app. If a source only offers MP3 downloads, that is a reliable quality signal worth factoring into your decision — the lossy compression artifacts conflict with lo-fi processing chains where you're adding deliberate degradation.
+**Q: Do I need to process free lo-fi samples, or use them as-is?**
+A: It depends on the source. Cymatics lo-fi drums are widely documented as pre-treated and mix-ready with minimal additional work. Raw Freesound vinyl recordings often benefit from mild high-frequency EQ (cutting above 12kHz) and subtle saturation to match a specific track's spectral character. ADSR Sounds' pre-processed texture packs are typically layer-ready without additional processing steps.
 
-**Do I need to process free lo-fi samples, or use them as-is?**
-It depends on the source. Cymatics lo-fi drums are widely documented as pre-treated and mix-ready with minimal additional work. Raw Freesound vinyl recordings often benefit from mild high-frequency EQ (cutting above 12kHz) and subtle saturation to match a specific track's spectral character. ADSR Sounds' pre-processed texture packs are typically layer-ready without additional processing steps.
+**Q: How loud should vinyl crackle sit in a lo-fi mix?**
+A: Community production tutorials and mix references consistently place vinyl crackle 10–18dB below the main music elements. Heavily aesthetic lo-fi approaches push this closer to 8–10dB below. Crackle positioned too high in the mix creates listener fatigue over extended play — a frequently cited critique in community feedback threads on r/lofi track reviews.
 
-**How loud should vinyl crackle sit in a lo-fi mix?**
-Community production tutorials and mix references consistently place vinyl crackle 10–18dB below the main music elements. Heavily aesthetic lo-fi approaches push this closer to 8–10dB below. Crackle positioned too high in the mix creates listener fatigue over extended play — a frequently cited critique in community feedback threads on r/lofi track reviews.
-
-**What is the difference between lo-fi hip hop samples and chillhop samples?**
-The categories overlap substantially in practice. Chillhop packs tend toward lighter harmonic density, more ambient characteristics, and slower attack drum sounds. Lo-fi hip hop packs typically feature more defined jazz and soul chord voicings and more rhythmic specificity in the drum content. The distinction is stylistic rather than technical, and most producers treat the terms interchangeably when browsing free catalogs.
-
----
-
+**Q: What is the difference between lo-fi hip hop samples and chillhop samples?**
+A: The categories overlap substantially in practice. Chillhop packs tend toward lighter harmonic density, more ambient characteristics, and slower attack drum sounds. Lo-fi hip hop packs typically feature more defined jazz and soul chord voicings and more rhythmic specificity in the drum content. The distinction is stylistic rather than technical, and most producers treat the terms interchangeably when browsing free catalogs. ---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

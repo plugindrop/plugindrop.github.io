@@ -162,24 +162,20 @@ One honest limitation: RX is not the right tool for light, occasional use. If yo
 ---
 
 ## FAQ
+**Q: Is iZotope RX 11 worth it for home studio producers?**
+A: It depends on your workflow. If you record in an acoustically treated space and rarely deal with location audio or location-recorded interviews, RX Elements handles the occasional repair task for a fraction of the cost. If you work with real-world recordings, remote contributors, or any dialogue, Standard or Advanced pays for itself quickly.
 
-**Is iZotope RX 11 worth it for home studio producers?**
-It depends on your workflow. If you record in an acoustically treated space and rarely deal with location audio or location-recorded interviews, RX Elements handles the occasional repair task for a fraction of the cost. If you work with real-world recordings, remote contributors, or any dialogue, Standard or Advanced pays for itself quickly.
+**Q: What's the difference between RX 11 Standard and Advanced?**
+A: The key Advanced-only modules are Dialogue Isolation (AI voice/background separation), Music Rebalance (stem separation in mixed audio), and Spectral Recovery (high-frequency reconstruction for compressed audio). Standard covers everything else — De-noise, De-reverb, De-click, De-clip, Ambience Match, and the full spectrogram editor.
 
-**What's the difference between RX 11 Standard and Advanced?**
-The key Advanced-only modules are Dialogue Isolation (AI voice/background separation), Music Rebalance (stem separation in mixed audio), and Spectral Recovery (high-frequency reconstruction for compressed audio). Standard covers everything else — De-noise, De-reverb, De-click, De-clip, Ambience Match, and the full spectrogram editor.
+**Q: Does iZotope RX 11 work as a plugin inside my DAW?**
+A: Yes. RX 11 includes ARA2 plugin versions that integrate directly into Pro Tools, Logic Pro, Studio One, Cubase, and other ARA2-compatible hosts. RX Connect also handles round-trip editing in any DAW. The standalone application handles heavier repair tasks outside the DAW.
 
-**Does iZotope RX 11 work as a plugin inside my DAW?**
-Yes. RX 11 includes ARA2 plugin versions that integrate directly into Pro Tools, Logic Pro, Studio One, Cubase, and other ARA2-compatible hosts. RX Connect also handles round-trip editing in any DAW. The standalone application handles heavier repair tasks outside the DAW.
+**Q: How does RX 11 compare to free noise reduction tools?**
+A: There is no free tool that competes with RX 11's AI modules or spectrogram editor. Free options like Audacity's noise reduction or basic DAW de-noise processors handle simple, consistent noise floors adequately. RX 11 handles complex, varying noise environments, transient events, clipping reconstruction, and voice isolation — categories where free tools are not comparable.
 
-**How does RX 11 compare to free noise reduction tools?**
-There is no free tool that competes with RX 11's AI modules or spectrogram editor. Free options like Audacity's noise reduction or basic DAW de-noise processors handle simple, consistent noise floors adequately. RX 11 handles complex, varying noise environments, transient events, clipping reconstruction, and voice isolation — categories where free tools are not comparable.
-
-**Does iZotope RX 11 work on Apple Silicon natively?**
-Yes. RX 11 runs natively on Apple Silicon (M1/M2/M3/M4) and benefits significantly from the Neural Engine for AI-powered modules. Processing times on M-series chips are substantially faster than on equivalent Intel hardware.
-
----
-
+**Q: Does iZotope RX 11 work on Apple Silicon natively?**
+A: Yes. RX 11 runs natively on Apple Silicon (M1/M2/M3/M4) and benefits significantly from the Neural Engine for AI-powered modules. Processing times on M-series chips are substantially faster than on equivalent Intel hardware. ---
 ## Final Thoughts
 
 iZotope RX 11 is not a luxury purchase — it's professional infrastructure. For anyone who works with audio that exists outside of perfect recording conditions, it is the single most impactful tool investment available in 2026. Start with RX Elements to learn the environment, upgrade to Standard when the work demands it, and consider Advanced if dialogue editing or stem separation are core parts of your workflow.

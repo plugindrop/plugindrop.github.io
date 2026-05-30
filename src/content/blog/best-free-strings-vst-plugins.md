@@ -243,24 +243,20 @@ When the free tier runs out — typically when you need more articulations, high
 ---
 
 ## FAQ
+**Q: Are free strings VST plugins good enough for professional use?**
+A: For sketching, pre-production, and demo work, yes — BBC Symphony Orchestra Discover is used professionally at the mock-up stage. For final renders in competitive commercial contexts such as film scoring or sync licensing, most professionals upgrade to the full BBC SO or Hollywood Strings for the additional articulations, mic positions, and dynamic layers that distinguish polished deliverables from sketches.
 
-**Are free strings VST plugins good enough for professional use?**
-For sketching, pre-production, and demo work, yes — BBC Symphony Orchestra Discover is used professionally at the mock-up stage. For final renders in competitive commercial contexts such as film scoring or sync licensing, most professionals upgrade to the full BBC SO or Hollywood Strings for the additional articulations, mic positions, and dynamic layers that distinguish polished deliverables from sketches.
+**Q: Do I need a paid version of Kontakt to use these free string plugins?**
+A: None of the plugins on this list require the paid version of Kontakt. The SFZ-based libraries (VSCO2 CE, SSO, VCSL, VPO) work with the free sforzando player by Plogue. Spitfire LABS and BBC Symphony Orchestra Discover use Spitfire's own free LABS downloader. Decent Sampler is its own standalone free player.
 
-**Do I need a paid version of Kontakt to use these free string plugins?**
-None of the plugins on this list require the paid version of Kontakt. The SFZ-based libraries (VSCO2 CE, SSO, VCSL, VPO) work with the free sforzando player by Plogue. Spitfire LABS and BBC Symphony Orchestra Discover use Spitfire's own free LABS downloader. Decent Sampler is its own standalone free player.
+**Q: What is SFZ and why do I need a separate player for it?**
+A: SFZ is an open sample format — the SFZ file contains instrument data, but requires a player application to load it into a DAW as a plugin. The free sforzando player by Plogue is the most widely recommended option for Windows and macOS. Think of sforzando as the app and SFZ libraries as the content files it plays back.
 
-**What is SFZ and why do I need a separate player for it?**
-SFZ is an open sample format — the SFZ file contains instrument data, but requires a player application to load it into a DAW as a plugin. The free sforzando player by Plogue is the most widely recommended option for Windows and macOS. Think of sforzando as the app and SFZ libraries as the content files it plays back.
+**Q: Which free strings plugin is best for a solo violin sound specifically?**
+A: KVR community discussions consistently point to Spitfire LABS' solo string instruments as the most realistic available for free. The LABS Solo Violin is cited for its tone and playability, with the caveat that convincing solo string performance still depends heavily on MIDI programming and articulation handling at the composition stage.
 
-**Which free strings plugin is best for a solo violin sound specifically?**
-KVR community discussions consistently point to Spitfire LABS' solo string instruments as the most realistic available for free. The LABS Solo Violin is cited for its tone and playability, with the caveat that convincing solo string performance still depends heavily on MIDI programming and articulation handling at the composition stage.
-
-**How large are these free orchestral library downloads?**
-This varies significantly. BBC Symphony Orchestra Discover runs into multiple gigabytes — Spitfire displays exact sizes during the installation process. VSCO2 CE and SSO are considerably smaller. Decent Sampler instruments vary by library but individual Pianobook packs are generally modest in size compared to full orchestral libraries.
-
----
-
+**Q: How large are these free orchestral library downloads?**
+A: This varies significantly. BBC Symphony Orchestra Discover runs into multiple gigabytes — Spitfire displays exact sizes during the installation process. VSCO2 CE and SSO are considerably smaller. Decent Sampler instruments vary by library but individual Pianobook packs are generally modest in size compared to full orchestral libraries. ---
 ## Related Guides
 
 - [10 Best Free Piano VST Plugins in 2026 (Grand, Upright, Electric)](/posts/best-free-piano-vst/)

@@ -274,24 +274,20 @@ Chris Johnson releases all Airwindows plugins free as part of an ongoing Patreon
 ---
 
 ## FAQ
+**Q: What is the actual difference between saturation and distortion?**
+A: Saturation adds harmonic content at low to moderate drive levels, typically modeled on analog hardware like tube preamps or tape machines — the result is warmth and perceived density rather than obvious sonic change. Distortion pushes further into clipping territory, adding more aggressive harmonic content that noticeably changes the character of the signal. Most plugins in this list cover both ends of the spectrum depending on drive settings, with SDRR's Clip mode and Cyanide 2 sitting furthest toward the distortion end.
 
-**What is the actual difference between saturation and distortion?**
-Saturation adds harmonic content at low to moderate drive levels, typically modeled on analog hardware like tube preamps or tape machines — the result is warmth and perceived density rather than obvious sonic change. Distortion pushes further into clipping territory, adding more aggressive harmonic content that noticeably changes the character of the signal. Most plugins in this list cover both ends of the spectrum depending on drive settings, with SDRR's Clip mode and Cyanide 2 sitting furthest toward the distortion end.
+**Q: Is Klanghelm SDRR actually free?**
+A: Yes. SDRR is listed as donationware on Klanghelm's site, which means you can pay any amount including zero. The plugin is fully functional at no cost, without feature limitations or nag screens. The donationware label is a goodwill model, not a trial version.
 
-**Is Klanghelm SDRR actually free?**
-Yes. SDRR is listed as donationware on Klanghelm's site, which means you can pay any amount including zero. The plugin is fully functional at no cost, without feature limitations or nag screens. The donationware label is a goodwill model, not a trial version.
+**Q: Can free saturation plugins be used on a mix bus?**
+A: Yes, and several on this list are specifically suited for it. IVGI and bx_saturator V2 are both used regularly on mix buses. The key constraint is conservative drive settings — on a full mix, you are adding density and cohesion, not audible distortion, which typically means drive amounts that seem almost imperceptibly low in isolation.
 
-**Can free saturation plugins be used on a mix bus?**
-Yes, and several on this list are specifically suited for it. IVGI and bx_saturator V2 are both used regularly on mix buses. The key constraint is conservative drive settings — on a full mix, you are adding density and cohesion, not audible distortion, which typically means drive amounts that seem almost imperceptibly low in isolation.
+**Q: Why does Chow Tape Model have so many parameters compared to other free plugins?**
+A: Because it is a physical model, not a convolution approximation. Each parameter maps to a real variable in the physics of magnetic tape recording: bias affects high-frequency response and distortion character, record head magnetization controls input saturation, tape speed changes flutter and noise characteristics. Most producers use a subset of the controls and leave the rest at default values — the complexity is available but not required.
 
-**Why does Chow Tape Model have so many parameters compared to other free plugins?**
-Because it is a physical model, not a convolution approximation. Each parameter maps to a real variable in the physics of magnetic tape recording: bias affects high-frequency response and distortion character, record head magnetization controls input saturation, tape speed changes flutter and noise characteristics. Most producers use a subset of the controls and leave the rest at default values — the complexity is available but not required.
-
-**Should I apply saturation to every track in a session?**
-Community practice is mixed on this. A widely used approach applies subtle saturation to individual tracks — particularly digital synths and samples that lack harmonic content — and then uses a separate instance on bus channels to add cohesion to groups. Full-mix saturation at the stereo bus exists but requires careful management of cumulative drive levels. The risk at the track level is that ten mildly saturated signals feeding into a bus sum to more total harmonic content than any single track suggested.
-
----
-
+**Q: Should I apply saturation to every track in a session?**
+A: Community practice is mixed on this. A widely used approach applies subtle saturation to individual tracks — particularly digital synths and samples that lack harmonic content — and then uses a separate instance on bus channels to add cohesion to groups. Full-mix saturation at the stereo bus exists but requires careful management of cumulative drive levels. The risk at the track level is that ten mildly saturated signals feeding into a bus sum to more total harmonic content than any single track suggested. ---
 ## Final Thoughts
 
 Klanghelm SDRR is the plugin to install first — its four saturation modes teach you more about harmonic processing in an afternoon than most written guides accomplish in twenty pages, and it is free. Once you know which type of saturation you actually need, IVGI handles transparent warmth with more precision than most plugins at any price, and Chow Tape Model's tape emulation remains the most technically rigorous option in the free tier. When per-band saturation control becomes the bottleneck, FabFilter Saturn 2 is the upgrade the community consistently points to — and it earns that consensus.

@@ -284,24 +284,20 @@ For straightforward compression tasks it can feel like overkill, but for produce
 ---
 
 ## FAQ
+**Q: What's the difference between a multiband compressor and a dynamic EQ?**
+A: A multiband compressor splits audio into bands and applies compression to each independently, typically with fixed crossover points. A dynamic EQ applies gain reduction at specific frequencies based on signal level, using EQ-style bands. In 2026, many plugins — including FabFilter Pro-MB — operate as both, which has largely blurred the practical distinction for most mixing and mastering tasks.
 
-**What's the difference between a multiband compressor and a dynamic EQ?**
-A multiband compressor splits audio into bands and applies compression to each independently, typically with fixed crossover points. A dynamic EQ applies gain reduction at specific frequencies based on signal level, using EQ-style bands. In 2026, many plugins — including FabFilter Pro-MB — operate as both, which has largely blurred the practical distinction for most mixing and mastering tasks.
+**Q: Should I use a multiband compressor on every mix bus?**
+A: No. Multiband compression is a corrective and shaping tool, not a default insert. Reserve it for specific problems: low-mid buildup on a dense mix, harsh high-frequency energy on a vocal bus, or frequency balance issues on a stereo master. Overuse creates unnatural-sounding results where the frequency balance shifts dynamically in a way that draws attention to itself.
 
-**Should I use a multiband compressor on every mix bus?**
-No. Multiband compression is a corrective and shaping tool, not a default insert. Reserve it for specific problems: low-mid buildup on a dense mix, harsh high-frequency energy on a vocal bus, or frequency balance issues on a stereo master. Overuse creates unnatural-sounding results where the frequency balance shifts dynamically in a way that draws attention to itself.
+**Q: Can I use a multiband compressor for vocals?**
+A: Yes, but carefully. It's most effective for managing sibilance in the high frequencies and proximity effect in the low end. A dedicated de-esser is usually more surgical for sibilance control alone, but a multiband compressor gives you broader frequency-by-frequency control when the vocal needs more complex treatment.
 
-**Can I use a multiband compressor for vocals?**
-Yes, but carefully. It's most effective for managing sibilance in the high frequencies and proximity effect in the low end. A dedicated de-esser is usually more surgical for sibilance control alone, but a multiband compressor gives you broader frequency-by-frequency control when the vocal needs more complex treatment.
+**Q: Is FabFilter Pro-MB worth $199?**
+A: For professional mixing and mastering work, yes. The dynamic EQ hybrid mode covers use cases that would otherwise require a separate plugin, and the visual interface makes precise decisions significantly faster. For bedroom producers on a tight budget, TDR Nova and Waves C6 are capable alternatives — but Pro-MB remains the most complete multiband tool available at any price.
 
-**Is FabFilter Pro-MB worth $199?**
-For professional mixing and mastering work, yes. The dynamic EQ hybrid mode covers use cases that would otherwise require a separate plugin, and the visual interface makes precise decisions significantly faster. For bedroom producers on a tight budget, TDR Nova and Waves C6 are capable alternatives — but Pro-MB remains the most complete multiband tool available at any price.
-
-**What is OTT and why does it appear everywhere?**
-OTT (Over The Top) is a free plugin by Xfer Records applying aggressive simultaneous upward and downward multiband compression. The name references a classic Ableton Live preset that became popular in dubstep and EDM. Its heavily-compressed, hyper-dense texture became a defining production sound in electronic music, which is why it appears across tutorials, templates, and mix sessions throughout the genre.
-
----
-
+**Q: What is OTT and why does it appear everywhere?**
+A: OTT (Over The Top) is a free plugin by Xfer Records applying aggressive simultaneous upward and downward multiband compression. The name references a classic Ableton Live preset that became popular in dubstep and EDM. Its heavily-compressed, hyper-dense texture became a defining production sound in electronic music, which is why it appears across tutorials, templates, and mix sessions throughout the genre. ---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

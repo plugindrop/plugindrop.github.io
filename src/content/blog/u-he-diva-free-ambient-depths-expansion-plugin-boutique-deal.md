@@ -9,7 +9,7 @@ dealPrice: "FREE"
 score: 6.30
 draft: false
 ---
-**TL;DR:** u-he's Diva synth just got a free expansion — *Ambient Depths* is available at no cost through Plugin Boutique right now. Free means free: ~~paid~~ $0. If you own Diva, there's no reason not to grab it. [Download Ambient Depths free at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/7582-u-he-Diva-Free-Ambient-Depths-Expansion?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=u-he-diva-free-ambient-depths-expansion-plugin-boutique-deal)
+**TL;DR:** u-he's Diva synth just got a free expansion — *Ambient Depths* is available at no cost through Plugin Boutique right now. Free means free: ~~paid~~ $0. If you own Diva, there's no reason not to grab it. Download Ambient Depths free at Plugin Boutique.
 
 ---
 
@@ -59,7 +59,7 @@ This is a free download — no discount code needed, no time-limited sale price 
 
 > Verify current pricing on the product page — deals can change.
 
-[Claim the free Ambient Depths expansion at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/7582-u-he-Diva-Free-Ambient-Depths-Expansion?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=u-he-diva-free-ambient-depths-expansion-plugin-boutique-deal)
+Claim the free Ambient Depths expansion at Plugin Boutique →
 
 ---
 
@@ -93,7 +93,7 @@ A: Based on the product description, the expansion targets ambient, atmospheric,
 
 ## Get the Deal
 
-Free expansions for top-tier synths don't stay listed forever — if you own Diva, this is a no-brainer addition to your preset library at zero cost. [Grab the Ambient Depths expansion free at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/7582-u-he-Diva-Free-Ambient-Depths-Expansion?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=u-he-diva-free-ambient-depths-expansion-plugin-boutique-deal)
+Free expansions for top-tier synths don't stay listed forever — if you own Diva, this is a no-brainer addition to your preset library at zero cost. Grab the Ambient Depths expansion free at Plugin Boutique.
 
 ---
 

@@ -9,7 +9,7 @@ score: 8.16
 draft: false
 converted: true
 ---
-**Model 80 Five Voice Synthesizer** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763)
+**Model 80 Five Voice Synthesizer** is available at Plugin Boutique. Check the current price here.
 
 ---
 
@@ -46,7 +46,7 @@ Model 80 occupies a somewhat niche space in discussions around analog poly emula
 - **Softube Ecosystem Users** — Particularly relevant for producers already invested in Softube's Console 1 workflow or plugin suite.
 ---
 
-> **Note:** Verify current pricing on the [Plugin Boutique product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763) — deals can change and exact figures should be confirmed before purchase.
+> **Note:** Verify current pricing on the Plugin Boutique product page — deals can change and exact figures should be confirmed before purchase.
 
 Softube doesn't run deep discounts constantly. 
 
@@ -79,7 +79,7 @@ A: System requirements vary by version and platform — check the official produ
 
 ## Where to Buy
 
- This is the kind of deal depth that doesn't show up often — [lock it in at Plugin Boutique .](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763)
+ This is the kind of deal depth that doesn't show up often — lock it in at Plugin Boutique .
 
 ---
 

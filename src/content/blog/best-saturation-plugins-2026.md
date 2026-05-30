@@ -300,24 +300,20 @@ TDR Prism takes a different approach than hardware emulators — it gives you di
 ---
 
 ## FAQ
+**Q: What is the difference between saturation and harmonic excitation?**
+A: Saturation adds harmonics by pushing a signal into soft clipping — the process is gain-dependent and typically applies across the full signal. Harmonic excitation generates new harmonics synthetically, often targeted at specific frequency ranges, without necessarily compressing the signal in the process. In practice, the terms are used interchangeably for most plugins that add warmth and presence.
 
-**What is the difference between saturation and harmonic excitation?**
-Saturation adds harmonics by pushing a signal into soft clipping — the process is gain-dependent and typically applies across the full signal. Harmonic excitation generates new harmonics synthetically, often targeted at specific frequency ranges, without necessarily compressing the signal in the process. In practice, the terms are used interchangeably for most plugins that add warmth and presence.
+**Q: Can I use saturation on every channel in my mix?**
+A: Yes — and many professional mixing engineers do exactly that. Using a subtle saturation plugin like IVGI or Saturation Knob at low drive settings on every channel before the mix bus creates cohesion that simulates the harmonic interaction of an analog summing environment. The key is restraint: if you can clearly identify the saturation on a single channel soloed, the drive is probably too high.
 
-**Can I use saturation on every channel in my mix?**
-Yes — and many professional mixing engineers do exactly that. Using a subtle saturation plugin like IVGI or Saturation Knob at low drive settings on every channel before the mix bus creates cohesion that simulates the harmonic interaction of an analog summing environment. The key is restraint: if you can clearly identify the saturation on a single channel soloed, the drive is probably too high.
+**Q: Is FabFilter Saturn 2 worth $199?**
+A: For producers who mix and master regularly, yes. The per-band distortion modes, real-time modulation system, and CPU efficiency mean it replaces multiple single-purpose saturation plugins. If you only need occasional saturation on individual tracks, Klanghelm SDRR at ~$20 offers far better value per use case.
 
-**Is FabFilter Saturn 2 worth $199?**
-For producers who mix and master regularly, yes. The per-band distortion modes, real-time modulation system, and CPU efficiency mean it replaces multiple single-purpose saturation plugins. If you only need occasional saturation on individual tracks, Klanghelm SDRR at ~$20 offers far better value per use case.
+**Q: What saturation plugin works best on drums?**
+A: Soundtoys Decapitator is the community consensus for drums — the N and A circuit modes add aggressive transient color and tape-style compression that makes drum hits feel physical. For subtler parallel saturation on a drum bus, Saturn 2's multiband control keeps the low end tight while adding harmonics in the high mids independently.
 
-**What saturation plugin works best on drums?**
-Soundtoys Decapitator is the community consensus for drums — the N and A circuit modes add aggressive transient color and tape-style compression that makes drum hits feel physical. For subtler parallel saturation on a drum bus, Saturn 2's multiband control keeps the low end tight while adding harmonics in the high mids independently.
-
-**Are free saturation plugins good enough for professional work?**
-IVGI and Analog Obsession SATUR8 appear in professional sessions regularly. The main limitation of free tools is flexibility and character range — they do one or two things exceptionally well, but paid tools offer more modes, better metering, and more predictable behavior across varied source material. Start free, upgrade when you hit a specific wall.
-
----
-
+**Q: Are free saturation plugins good enough for professional work?**
+A: IVGI and Analog Obsession SATUR8 appear in professional sessions regularly. The main limitation of free tools is flexibility and character range — they do one or two things exceptionally well, but paid tools offer more modes, better metering, and more predictable behavior across varied source material. Start free, upgrade when you hit a specific wall. ---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

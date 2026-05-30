@@ -309,24 +309,20 @@ If you have been working with IVGI, Saturation Knob, Chow Tape Model, or TAL-Sat
 ---
 
 ## FAQ
+**Q: What is the difference between distortion and overdrive VST plugins?**
+A: Overdrive models the soft, asymmetric clipping of an analog circuit pushed slightly past its clean operating threshold — warm harmonics, limited dynamic compression. Distortion pushes further into harder clipping, heavier harmonic generation, and more significant transient reshaping. In plugin terms, this distinction often matters less than the specific character of the circuit being modeled. Plugins like Decapitator and Saturn 2 cover both ends of that range in a single interface.
 
-**What is the difference between distortion and overdrive VST plugins?**
-Overdrive models the soft, asymmetric clipping of an analog circuit pushed slightly past its clean operating threshold — warm harmonics, limited dynamic compression. Distortion pushes further into harder clipping, heavier harmonic generation, and more significant transient reshaping. In plugin terms, this distinction often matters less than the specific character of the circuit being modeled. Plugins like Decapitator and Saturn 2 cover both ends of that range in a single interface.
+**Q: Do distortion VST plugins work on sources other than guitars?**
+A: Yes, and the most useful applications are often non-guitar. Drum buses, synthesizer leads, bass tracks, and full mix buses all respond to controlled distortion. FabFilter Saturn 2's multiband design was built specifically for this: treating individual frequency ranges independently means a bass track can be distorted in the midrange without destroying the low-end fundamental. This is also where free single-band tools show their ceiling.
 
-**Do distortion VST plugins work on sources other than guitars?**
-Yes, and the most useful applications are often non-guitar. Drum buses, synthesizer leads, bass tracks, and full mix buses all respond to controlled distortion. FabFilter Saturn 2's multiband design was built specifically for this: treating individual frequency ranges independently means a bass track can be distorted in the midrange without destroying the low-end fundamental. This is also where free single-band tools show their ceiling.
+**Q: Is Soundtoys Decapitator worth the full price?**
+A: At full retail (~$179), it is the most-recommended analog drive plugin in professional production communities, and the price reflects its position. That said, Soundtoys runs deep sales multiple times per year — community members on r/synthesizers and r/edmproduction consistently recommend waiting for $49–99 sale pricing rather than paying full retail. At that price point, it is the clearest buy in this category.
 
-**Is Soundtoys Decapitator worth the full price?**
-At full retail (~$179), it is the most-recommended analog drive plugin in professional production communities, and the price reflects its position. That said, Soundtoys runs deep sales multiple times per year — community members on r/synthesizers and r/edmproduction consistently recommend waiting for $49–99 sale pricing rather than paying full retail. At that price point, it is the clearest buy in this category.
+**Q: Are free distortion plugins good enough for professional use?**
+A: Chow Tape Model specifically is used in professional sessions — it is an open-source physics simulation, not a hobbyist toy. Softube Saturation Knob and IVGI are broadly used in professional contexts for supporting-role saturation. The free tier in 2026 is genuinely strong. Paid plugins earn their price through hardware-modeling accuracy, multiband capability, and depth of control — not simply by being "better" than free alternatives at every task.
 
-**Are free distortion plugins good enough for professional use?**
-Chow Tape Model specifically is used in professional sessions — it is an open-source physics simulation, not a hobbyist toy. Softube Saturation Knob and IVGI are broadly used in professional contexts for supporting-role saturation. The free tier in 2026 is genuinely strong. Paid plugins earn their price through hardware-modeling accuracy, multiband capability, and depth of control — not simply by being "better" than free alternatives at every task.
-
-**What is the best distortion VST for bass guitar and bass synths?**
-FabFilter Saturn 2 is the community's consistent answer because its multiband capability preserves the fundamental frequency while distorting upper harmonics independently — something single-band plugins cannot do regardless of price. Soundtoys Decapitator is the second recommendation for single-band applications where precise tone shaping is needed. For lo-fi bass texture, RC-20 Retro Color's distortion module handles tape-style degradation without the harshness of dedicated clipping distortion.
-
----
-
+**Q: What is the best distortion VST for bass guitar and bass synths?**
+A: FabFilter Saturn 2 is the community's consistent answer because its multiband capability preserves the fundamental frequency while distorting upper harmonics independently — something single-band plugins cannot do regardless of price. Soundtoys Decapitator is the second recommendation for single-band applications where precise tone shaping is needed. For lo-fi bass texture, RC-20 Retro Color's distortion module handles tape-style degradation without the harshness of dedicated clipping distortion. ---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

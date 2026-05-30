@@ -1,20 +1,6 @@
 ---
 title: "Virtual Bassist Bundle 2: Features, Pricing & Is It Worth It? (2026)"
-description: "Virtual Bassist Bundle 2 is available at Plugin Boutique. Check current pricing and reviews on the product page."
-pubDate: '2026-05-02T11:01:53Z'
-tags: ["review", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-bassist-bundle-2-0f89f1"
-heroImage: /images/virtual-bassist-bundle-2-0f89f1.jpg
-score: 10.00
-draft: false
-converted: true
----
-**Virtual Bassist Bundle 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-bassist-bundle-2-0f89f1)
-
----
-
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/giI1UpROV4g" title="Virtual Bassist Bundle 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+description: "Virtual Bassist Bundle 2 review: 4 UJAM bass plugins (Royal, Mellow, Rowdy, Dandy) bundled. Features, pricing & verdict for 2026 producers." allowfullscreen></iframe>
 </div>
 
 ## What Is Virtual Bassist Bundle 2?

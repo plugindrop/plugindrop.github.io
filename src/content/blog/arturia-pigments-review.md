@@ -224,24 +224,20 @@ On mid-range 2024 hardware, Pigments 5 runs efficiently with multiple instances 
 ---
 
 ## FAQ
+**Q: Is Arturia Pigments 5 good for beginners?**
+A: Yes. The visual interface, large preset library, and clear signal flow make it more accessible than most synths of comparable depth. Beginners can work with presets immediately and learn synthesis by observing how those presets are constructed — the interface makes modulation and routing visible rather than hidden.
 
-**Is Arturia Pigments 5 good for beginners?**
-Yes. The visual interface, large preset library, and clear signal flow make it more accessible than most synths of comparable depth. Beginners can work with presets immediately and learn synthesis by observing how those presets are constructed — the interface makes modulation and routing visible rather than hidden.
+**Q: How does Pigments 5 compare to Serum?**
+A: Serum remains the community standard for wavetable synthesis specifically, with a larger third-party preset market. Pigments offers more engine variety — granular, additive, sample, VA — and a more developed built-in FX section. If you primarily need wavetable sounds and want access to the largest possible preset ecosystem, Serum is competitive. If you want versatility across synthesis types, Pigments wins decisively.
 
-**How does Pigments 5 compare to Serum?**
-Serum remains the community standard for wavetable synthesis specifically, with a larger third-party preset market. Pigments offers more engine variety — granular, additive, sample, VA — and a more developed built-in FX section. If you primarily need wavetable sounds and want access to the largest possible preset ecosystem, Serum is competitive. If you want versatility across synthesis types, Pigments wins decisively.
+**Q: Does Arturia Pigments 5 run natively on Apple Silicon?**
+A: Yes. Arturia has released native Apple Silicon support, and Pigments 5 runs natively on M-series Macs without Rosetta translation. Performance on M-series hardware is strong.
 
-**Does Arturia Pigments 5 run natively on Apple Silicon?**
-Yes. Arturia has released native Apple Silicon support, and Pigments 5 runs natively on M-series Macs without Rosetta translation. Performance on M-series hardware is strong.
+**Q: What did Pigments 5 add over Pigments 3?**
+A: Pigments 5 expanded the sample engine capabilities, refined the modulation system, added additional FX options, and substantially grew the included preset library. Producers upgrading from version 3 consistently report meaningful improvements in both sound quality and workflow efficiency.
 
-**What did Pigments 5 add over Pigments 3?**
-Pigments 5 expanded the sample engine capabilities, refined the modulation system, added additional FX options, and substantially grew the included preset library. Producers upgrading from version 3 consistently report meaningful improvements in both sound quality and workflow efficiency.
-
-**Is Pigments 5 CPU-intensive?**
-Moderately, depending on the patch. Wavetable and virtual analog patches are efficient on current hardware. Granular patches with high grain density, multiple active modulators, and high polyphony will consume more resources. Most producers report no performance issues on mid-range machines from 2022 onward.
-
----
-
+**Q: Is Pigments 5 CPU-intensive?**
+A: Moderately, depending on the patch. Wavetable and virtual analog patches are efficient on current hardware. Granular patches with high grain density, multiple active modulators, and high polyphony will consume more resources. Most producers report no performance issues on mid-range machines from 2022 onward. ---
 ## Related Guides
 
 - [14 Best Free Synth VST Plugins 2026](/posts/best-free-synth-plugins/)

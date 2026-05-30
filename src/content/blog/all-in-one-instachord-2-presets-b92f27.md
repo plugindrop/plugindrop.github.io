@@ -9,7 +9,7 @@ score: 8.82
 draft: true
 converted: true
 ---
-**All In One InstaChord 2 Presets** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/31-Synth-Presets/7920-All-In-One-InstaChord-2-Presets?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=all-in-one-instachord-2-presets-b92f27)
+**All In One InstaChord 2 Presets** is available at Plugin Boutique. Check the current price here.
 
 ---
 
@@ -45,7 +45,7 @@ All In One InstaChord 2 Presets is a preset expansion library built specifically
 
  Preset libraries at this price point typically see 20–30% sales more commonly than deep discounts like this.  If InstaChord 2 is already in your toolkit, this is the clearest the value proposition gets.
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/31-Synth-Presets/7920-All-In-One-InstaChord-2-Presets?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=all-in-one-instachord-2-presets-b92f27)
+→ Check current price at Plugin Boutique
 
 ---
 
@@ -81,7 +81,7 @@ A: Compatibility depends on InstaChord 2 itself — any DAW that supports InstaC
 
 At $39.60 against a $99.00 regular price, this 60% discount represents a concrete reduction that existing InstaChord 2 users won't encounter regularly. The $59.40 savings gap is meaningful for a preset library at this scope.
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/31-Synth-Presets/7920-All-In-One-InstaChord-2-Presets?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=all-in-one-instachord-2-presets-b92f27)
+→ Check current price at Plugin Boutique
 
 ---
 

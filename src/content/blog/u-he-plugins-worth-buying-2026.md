@@ -172,24 +172,20 @@ No affiliate purchase link is available for Repro.
 ---
 
 ## FAQ
+**Q: Are u-he plugins worth the price in 2026?**
+A: The community consensus across KVR, r/synthesizers, and r/edmproduction is yes — with the caveat that none of them are impulse buys. All u-he instruments offer fully-functional 30-day trials from the developer, which makes it straightforward to evaluate them in your actual sessions before committing.
 
-**Are u-he plugins worth the price in 2026?**
-The community consensus across KVR, r/synthesizers, and r/edmproduction is yes — with the caveat that none of them are impulse buys. All u-he instruments offer fully-functional 30-day trials from the developer, which makes it straightforward to evaluate them in your actual sessions before committing.
+**Q: Is Diva too CPU-heavy to be practical?**
+A: The developer is transparent about Diva's CPU demands, and the concern is legitimate. At its highest quality setting, Diva is demanding. At medium quality — which many producers use for tracking — it becomes significantly more manageable. Producers on modern multi-core systems report fewer issues; anyone on older hardware or running dense session configurations should trial it carefully before purchasing.
 
-**Is Diva too CPU-heavy to be practical?**
-The developer is transparent about Diva's CPU demands, and the concern is legitimate. At its highest quality setting, Diva is demanding. At medium quality — which many producers use for tracking — it becomes significantly more manageable. Producers on modern multi-core systems report fewer issues; anyone on older hardware or running dense session configurations should trial it carefully before purchasing.
+**Q: What's the difference between Repro-1 and Repro-5?**
+A: Repro-1 is monophonic, based on the Sequential Pro-One — it's designed for bass lines, leads, and mono sequences where that circuit's filter character is the goal. Repro-5 is polyphonic, based on the Prophet-5, and covers chords, pads, and the lush polyphonic sound that has appeared on thousands of recordings. They're separate instruments sold individually; check u-he's website for any current bundle pricing.
 
-**What's the difference between Repro-1 and Repro-5?**
-Repro-1 is monophonic, based on the Sequential Pro-One — it's designed for bass lines, leads, and mono sequences where that circuit's filter character is the goal. Repro-5 is polyphonic, based on the Prophet-5, and covers chords, pads, and the lush polyphonic sound that has appeared on thousands of recordings. They're separate instruments sold individually; check u-he's website for any current bundle pricing.
+**Q: Does u-he offer sales or discounts?**
+A: u-he runs periodic sales, most commonly toward the end of the calendar year. The 30-day fully-functional trial means there's no urgency to buy at full price if you're on the fence — use the trial, then time your purchase around a sale if one is active.
 
-**Does u-he offer sales or discounts?**
-u-he runs periodic sales, most commonly toward the end of the calendar year. The 30-day fully-functional trial means there's no urgency to buy at full price if you're on the fence — use the trial, then time your purchase around a sale if one is active.
-
-**Which u-he plugin should a producer buy first?**
-Hive 2 is the recommendation most frequently offered to producers newer to paid synthesis. Its interface is more approachable than Diva's, the CPU demands are lower, and the preset library is well-suited to contemporary production without requiring deep synthesis knowledge to get usable results quickly.
-
----
-
+**Q: Which u-he plugin should a producer buy first?**
+A: Hive 2 is the recommendation most frequently offered to producers newer to paid synthesis. Its interface is more approachable than Diva's, the CPU demands are lower, and the preset library is well-suited to contemporary production without requiring deep synthesis knowledge to get usable results quickly. ---
 ## Related Guides
 
 - [u-he Diva Review 2026: The Best Analog Synth Emulation?](/posts/u-he-diva-review/)

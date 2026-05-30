@@ -282,24 +282,20 @@ Cinesamples built CineStrings CORE specifically for film and television scoring 
 ---
 
 ## FAQ
+**Q: Do I need Kontakt to use strings VST plugins?**
+A: No. Spitfire BBC Symphony Orchestra, BBCSO Discover, and LABS run in Spitfire's own free players. Orchestral Tools Berlin Strings runs in the free SINE player. Session Strings Pro 2 runs in the free Kontakt Player. Cinematic Studio Strings, 8Dio Adagio Strings, and CineStrings CORE require the full paid Kontakt license.
 
-**Do I need Kontakt to use strings VST plugins?**
-No. Spitfire BBC Symphony Orchestra, BBCSO Discover, and LABS run in Spitfire's own free players. Orchestral Tools Berlin Strings runs in the free SINE player. Session Strings Pro 2 runs in the free Kontakt Player. Cinematic Studio Strings, 8Dio Adagio Strings, and CineStrings CORE require the full paid Kontakt license.
+**Q: What's the difference between BBCSO Discover and BBC Symphony Orchestra Core?**
+A: Both use the same BBC Symphony Orchestra recordings. Discover is free but limits you to long notes and basic shorts. Core adds the full articulation range — spiccato, sul ponticello, tremolo, col legno, extended techniques — plus additional mic position control. For professional scoring work, Core is the standard community recommendation; Discover is a legitimate starting tool.
 
-**What's the difference between BBCSO Discover and BBC Symphony Orchestra Core?**
-Both use the same BBC Symphony Orchestra recordings. Discover is free but limits you to long notes and basic shorts. Core adds the full articulation range — spiccato, sul ponticello, tremolo, col legno, extended techniques — plus additional mic position control. For professional scoring work, Core is the standard community recommendation; Discover is a legitimate starting tool.
+**Q: Are these libraries CPU- and RAM-intensive?**
+A: EastWest Hollywood Strings is frequently cited as the most demanding option due to its multi-mic architecture. BBCSO Discover and LABS are comparatively light. Orchestral Tools Berlin Strings and Spitfire BBC Symphony Orchestra Core sit in the middle — demanding in a full template but manageable on modern hardware with proper RAM allocation and sample streaming settings.
 
-**Are these libraries CPU- and RAM-intensive?**
-EastWest Hollywood Strings is frequently cited as the most demanding option due to its multi-mic architecture. BBCSO Discover and LABS are comparatively light. Orchestral Tools Berlin Strings and Spitfire BBC Symphony Orchestra Core sit in the middle — demanding in a full template but manageable on modern hardware with proper RAM allocation and sample streaming settings.
+**Q: Can these plugins run in any DAW?**
+A: All listed plugins support VST3 and AU, covering Ableton Live, Logic Pro, FL Studio, Cubase, Studio One, and Reaper. Pro Tools users need AAX, which all paid options here provide. VSCO2 CE requires a compatible SFZ host — the free sforzando player from Plogue is the standard pairing.
 
-**Can these plugins run in any DAW?**
-All listed plugins support VST3 and AU, covering Ableton Live, Logic Pro, FL Studio, Cubase, Studio One, and Reaper. Pro Tools users need AAX, which all paid options here provide. VSCO2 CE requires a compatible SFZ host — the free sforzando player from Plogue is the standard pairing.
-
-**Which strings library is best for film scoring specifically?**
-Community consensus at VI-Control and r/composer consistently points to three: Spitfire BBC Symphony Orchestra Core, Cinematic Studio Strings, and EastWest Hollywood Strings. The choice between them comes down to budget and whether mic position flexibility or legato scripting is the higher priority for your workflow.
-
----
-
+**Q: Which strings library is best for film scoring specifically?**
+A: Community consensus at VI-Control and r/composer consistently points to three: Spitfire BBC Symphony Orchestra Core, Cinematic Studio Strings, and EastWest Hollywood Strings. The choice between them comes down to budget and whether mic position flexibility or legato scripting is the higher priority for your workflow. ---
 ## Related Guides
 
 - [10 Best Free Strings VST Plugins in 2026](/posts/best-free-strings-vst-plugins/)

@@ -24,7 +24,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Keyscape | $399 | All-in-one Rhodes, Wurlitzer & CP-80 collection | [Official Site](https://www.pluginboutique.com/search?search_query=Spectrasonics%20Omnisphere&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-electric-piano-vst-2026) |
+| Keyscape | $399 | All-in-one Rhodes, Wurlitzer & CP-80 collection | [Official Site](https://www.spectrasonics.net/products/omnisphere/) |
 | Scarbee Mark I | ~$99 | Definitive sampled Fender Rhodes Mark I | [Official Site](https://www.native-instruments.com/en/products/komplete/keys/scarbee-mark-i/) |
 | Lounge Lizard EP-4 | ~$99 | Physical modeling for tweakers | [Official Site](https://www.applied-acoustics.com/lounge-lizard-ep-4/) |
 | Arturia Stage-73 V | ~$99 | Solid Rhodes emulation for V Collection users | — |
@@ -80,7 +80,7 @@ Reddit's r/WeAreTheMusicMakers and r/edmproduction treat Keyscape as the standar
 
 **Best for:** Producers who need Rhodes, Wurlitzer, and CP-80 coverage from a single instrument, or who do session work requiring versatility across multiple electric piano types.
 
-[→ Get Keyscape (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Spectrasonics%20Omnisphere&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-electric-piano-vst-2026)
+[→ Get Keyscape (via Plugin Boutique)](https://www.spectrasonics.net/products/omnisphere/)
 
 ---
 
@@ -151,7 +151,7 @@ Neither free plugin covers Wurlitzer or CP-80 sounds, which is a meaningful gap 
 - **Price:** $399
 - **Why upgrade:** No other instrument — including Scarbee Mark I and Lounge Lizard EP-4 combined — covers the full Rhodes, Wurlitzer, and CP-80 spectrum at Keyscape's sampling depth. For producers who need all three instrument types at a professional level, it consolidates what would otherwise require multiple purchases.
 
-[→ Get Keyscape (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Spectrasonics%20Omnisphere&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-electric-piano-vst-2026)
+[→ Get Keyscape (via Plugin Boutique)](https://www.spectrasonics.net/products/omnisphere/)
 
 ---
 
@@ -159,7 +159,7 @@ Neither free plugin covers Wurlitzer or CP-80 sounds, which is a meaningful gap 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Keyscape | $399 | Sample-based | Rhodes, Wurlitzer, CP-80 at 77GB depth; Custom Controls per instrument | [Get Keyscape (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Spectrasonics%20Omnisphere&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-electric-piano-vst-2026) |
+| Keyscape | $399 | Sample-based | Rhodes, Wurlitzer, CP-80 at 77GB depth; Custom Controls per instrument | [Get Keyscape (Plugin Boutique)](https://www.spectrasonics.net/products/omnisphere/) |
 | Scarbee Mark I | ~$99 | Sample-based | Exhaustive Mark I sampling; tine/damper noise; NI ecosystem; Kontakt Player included | [Get it](https://www.native-instruments.com/en/products/komplete/keys/scarbee-mark-i/) |
 | Lounge Lizard EP-4 | ~$99 | Physical modeling | Tweakable Rhodes & Wurlitzer; low disk footprint; exceptional dynamic response | [Get it](https://www.applied-acoustics.com/lounge-lizard-ep-4/) |
 | Arturia Stage-73 V | ~$99 | Hybrid modeling | V Collection integration; multiple Suitcase/Stage configurations | — |
@@ -179,24 +179,20 @@ Neither free plugin covers Wurlitzer or CP-80 sounds, which is a meaningful gap 
 ---
 
 ## FAQ
+**Q: What's the difference between a Rhodes and a Wurlitzer?**
+A: The Fender Rhodes uses tuning forks (tines) struck by felt-tipped hammers, producing a warm, bell-like tone with pronounced overtones. The Wurlitzer uses thin steel reeds with electrostatic pickups, producing a brighter, woodier, more aggressive sound under hard playing. They're complementary — many productions use both, often doubled or panned against each other.
 
-**What's the difference between a Rhodes and a Wurlitzer?**
-The Fender Rhodes uses tuning forks (tines) struck by felt-tipped hammers, producing a warm, bell-like tone with pronounced overtones. The Wurlitzer uses thin steel reeds with electrostatic pickups, producing a brighter, woodier, more aggressive sound under hard playing. They're complementary — many productions use both, often doubled or panned against each other.
+**Q: Do I need to own the full version of Kontakt to run Scarbee Mark I?**
+A: No. Scarbee Mark I ships with the free Kontakt Player, installed through Native Instruments' Native Access platform. You don't need the paid full version of Kontakt.
 
-**Do I need to own the full version of Kontakt to run Scarbee Mark I?**
-No. Scarbee Mark I ships with the free Kontakt Player, installed through Native Instruments' Native Access platform. You don't need the paid full version of Kontakt.
+**Q: Is Keyscape worth $399 in 2026?**
+A: Producer communities consistently answer yes for anyone who uses electric piano regularly. The alternative — purchasing separate professional-grade libraries for Rhodes, Wurlitzer, and CP-80 — costs more in aggregate and involves managing multiple instruments. Keyscape's CP-80 content in particular has no serious competition in plugin form.
 
-**Is Keyscape worth $399 in 2026?**
-Producer communities consistently answer yes for anyone who uses electric piano regularly. The alternative — purchasing separate professional-grade libraries for Rhodes, Wurlitzer, and CP-80 — costs more in aggregate and involves managing multiple instruments. Keyscape's CP-80 content in particular has no serious competition in plugin form.
+**Q: What is the CP-80 used for, and which plugins cover it?**
+A: The Yamaha CP-80 is a hybrid electro-acoustic grand piano with a brighter, more cutting character than Rhodes or Wurlitzer. It's prominent in 1980s pop and new wave (Kate Bush, Peter Gabriel) and in cinematic underscore. Keyscape is the community's primary recommendation for CP-80 sounds; Arturia's CP-70 V covers the smaller sibling instrument for V Collection users.
 
-**What is the CP-80 used for, and which plugins cover it?**
-The Yamaha CP-80 is a hybrid electro-acoustic grand piano with a brighter, more cutting character than Rhodes or Wurlitzer. It's prominent in 1980s pop and new wave (Kate Bush, Peter Gabriel) and in cinematic underscore. Keyscape is the community's primary recommendation for CP-80 sounds; Arturia's CP-70 V covers the smaller sibling instrument for V Collection users.
-
-**Can Lounge Lizard EP-4 replace a real Rhodes in a professional session context?**
-In many production contexts, yes — particularly where you process the signal or where a slightly stylized character is acceptable or desirable. For hyper-realistic Rhodes reproduction where the listening context is unforgiving, Scarbee Mark I's sample depth has a higher ceiling. The two instruments serve different workflows rather than competing directly.
-
----
-
+**Q: Can Lounge Lizard EP-4 replace a real Rhodes in a professional session context?**
+A: In many production contexts, yes — particularly where you process the signal or where a slightly stylized character is acceptable or desirable. For hyper-realistic Rhodes reproduction where the listening context is unforgiving, Scarbee Mark I's sample depth has a higher ceiling. The two instruments serve different workflows rather than competing directly. ---
 ## Related Guides
 
 - [10 Best Free Bass Synth VST Plugins in 2026 — Ranked](/posts/best-free-bass-synth-vst/)
@@ -211,7 +207,7 @@ In many production contexts, yes — particularly where you process the signal o
 
 Keyscape is the clearest overall recommendation for producers who reach for electric piano sounds regularly — its depth across Rhodes, Wurlitzer, and CP-80 models makes it the most defensible single purchase in this category. For producers who focus primarily on Rhodes and want maximum sample authenticity at a lower entry price, Scarbee Mark I is what professional communities recommend first.
 
-[→ Get Keyscape — the most comprehensive electric piano library available (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Spectrasonics%20Omnisphere&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-electric-piano-vst-2026)
+[→ Get Keyscape — the most comprehensive electric piano library available (via Plugin Boutique)](https://www.spectrasonics.net/products/omnisphere/)
 
 ---
 

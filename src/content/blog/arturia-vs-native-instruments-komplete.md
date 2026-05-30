@@ -172,24 +172,20 @@ Both bundles go on deep sale. V Collection 11 at $199 represents arguably more f
 ---
 
 ## FAQ
+**Q: Is Arturia V Collection 11 worth it at full price?**
+A: At $499 full price, it's a hard sell unless you're specifically shopping for vintage synth emulations and know you'll use most of them. Wait for Arturia's regular sales — 50–60% off is common and brings it into clear value territory. At $199–$249, it's one of the best-value instrument bundles available.
 
-**Is Arturia V Collection 11 worth it at full price?**
-At $499 full price, it's a hard sell unless you're specifically shopping for vintage synth emulations and know you'll use most of them. Wait for Arturia's regular sales — 50–60% off is common and brings it into clear value territory. At $199–$249, it's one of the best-value instrument bundles available.
+**Q: Does NI Komplete include a Rhodes or Wurlitzer emulation?**
+A: Komplete Standard includes Scarbee Mark I (a sampled Rhodes) in some configurations, but it's a sample library rather than a modeled emulation. Arturia's Stage-73 V and Wurli V are widely considered more expressive and playable for keyboard players, while Scarbee is better for preset-style production use.
 
-**Does NI Komplete include a Rhodes or Wurlitzer emulation?**
-Komplete Standard includes Scarbee Mark I (a sampled Rhodes) in some configurations, but it's a sample library rather than a modeled emulation. Arturia's Stage-73 V and Wurli V are widely considered more expressive and playable for keyboard players, while Scarbee is better for preset-style production use.
+**Q: Can I run V Collection and Komplete together without conflicts?**
+A: Yes, they coexist without issues. Both install via their own managers (Arturia Software Center and NI Native Access), and there's no format conflict. Running both is common and the combination covers almost every synthesis and instrument need.
 
-**Can I run V Collection and Komplete together without conflicts?**
-Yes, they coexist without issues. Both install via their own managers (Arturia Software Center and NI Native Access), and there's no format conflict. Running both is common and the combination covers almost every synthesis and instrument need.
+**Q: Which bundle has better presets?**
+A: Komplete has a larger raw preset count, but V Collection's presets per instrument are generally more curated and musicically useful. V Collection's presets are organized by hardware model and era, which makes them easier to navigate when you know what sound you're after. Komplete's breadth comes with more variability in preset quality across its libraries.
 
-**Which bundle has better presets?**
-Komplete has a larger raw preset count, but V Collection's presets per instrument are generally more curated and musicically useful. V Collection's presets are organized by hardware model and era, which makes them easier to navigate when you know what sound you're after. Komplete's breadth comes with more variability in preset quality across its libraries.
-
-**Which is better for live performance?**
-V Collection is generally preferred for live keyboard work — the instruments are CPU-efficient, the interfaces replicate physical hardware layouts familiar to keyboardists, and standalone mode is well-optimized. Komplete is more oriented toward studio production workflows, though Kontakt and Massive X both work in live contexts.
-
----
-
+**Q: Which is better for live performance?**
+A: V Collection is generally preferred for live keyboard work — the instruments are CPU-efficient, the interfaces replicate physical hardware layouts familiar to keyboardists, and standalone mode is well-optimized. Komplete is more oriented toward studio production workflows, though Kontakt and Massive X both work in live contexts. ---
 ## Final Thoughts
 
 For vintage synthesis and classic keyboard sounds, Arturia V Collection 11 is the more decisive purchase — it's focused, deep, and on sale frequently enough that the price objection rarely holds. For producers who need sampling infrastructure, acoustic instruments, guitar processing, and a broader toolkit, Native Instruments Komplete Standard earns its place. The strongest setup for most working producers is V Collection for keys and a Komplete tier for everything else — bought opportunistically during each brand's regular promotions.

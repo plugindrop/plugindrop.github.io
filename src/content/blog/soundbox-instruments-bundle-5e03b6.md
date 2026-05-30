@@ -1,20 +1,6 @@
 ---
 title: "Soundbox Instruments Bundle: Features, Pricing & Is It Worth It? (2026)"
-description: "Soundbox is a developer known for producing sample-based virtual instruments available through Plugin Boutique. Check current pricing at Plugin Boutique."
-pubDate: '2026-04-23T18:27:50Z'
-tags: ["review", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/13347-Soundbox-Instruments-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundbox-instruments-bundle-5e03b6"
-heroImage: /images/soundbox-instruments-bundle-5e03b6.jpg
-score: 8.72
-draft: true
-converted: true
----
-**Soundbox Instruments Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/13347-Soundbox-Instruments-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundbox-instruments-bundle-5e03b6)
-
----
-
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/5LOtwT9u-GQ" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+description: "Soundbox Instruments Bundle 2026: sample-based virtual instruments via Plugin Boutique. Features, pricing, pros, cons & whether it's worth buying." allowfullscreen></iframe>
 </div>
 
 ## What Is the Soundbox Instruments Bundle?

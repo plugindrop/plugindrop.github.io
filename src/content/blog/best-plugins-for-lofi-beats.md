@@ -280,24 +280,20 @@ TAL-Chorus-LX is a recreation of the Roland Juno-60's chorus circuit, offered fr
 ---
 
 ## FAQ
+**Q: Does iZotope Vinyl still work in 2026?**
+A: Vinyl is a legacy 32-bit plugin that iZotope has maintained as freeware without architectural updates. Most modern DAWs either no longer support 32-bit plugins natively or require a bridge like jBridge on Windows. Check your specific DAW's 32-bit compatibility documentation before relying on it in a production workflow — compatibility varies significantly by DAW version and operating system.
 
-**Does iZotope Vinyl still work in 2026?**
-Vinyl is a legacy 32-bit plugin that iZotope has maintained as freeware without architectural updates. Most modern DAWs either no longer support 32-bit plugins natively or require a bridge like jBridge on Windows. Check your specific DAW's 32-bit compatibility documentation before relying on it in a production workflow — compatibility varies significantly by DAW version and operating system.
+**Q: What is the difference between a bitcrusher and a vinyl simulator?**
+A: Vinyl simulators target analog noise artifacts — crackle, dust, warp, and aging that emulate mechanical playback. Bitcrushers target digital degradation — reduced bit depth creates quantization noise, and sample rate reduction creates aliased harmonics. They produce different sonic results and are complementary in lo-fi chains: vinyl simulation for organic texture, bitcrushing for digital grit.
 
-**What is the difference between a bitcrusher and a vinyl simulator?**
-Vinyl simulators target analog noise artifacts — crackle, dust, warp, and aging that emulate mechanical playback. Bitcrushers target digital degradation — reduced bit depth creates quantization noise, and sample rate reduction creates aliased harmonics. They produce different sonic results and are complementary in lo-fi chains: vinyl simulation for organic texture, bitcrushing for digital grit.
+**Q: Is RC-20 Retro Color worth buying if I already have free alternatives?**
+A: The community consensus is that it depends on your workflow. RC-20 is worth the price if you are spending time routing and balancing multiple free plugins and want a unified interface designed specifically around lo-fi aesthetics. If you are comfortable building signal chains and happy with the patchwork, the free stack covers the same sonic territory.
 
-**Is RC-20 Retro Color worth buying if I already have free alternatives?**
-The community consensus is that it depends on your workflow. RC-20 is worth the price if you are spending time routing and balancing multiple free plugins and want a unified interface designed specifically around lo-fi aesthetics. If you are comfortable building signal chains and happy with the patchwork, the free stack covers the same sonic territory.
+**Q: What DAWs are compatible with these plugins?**
+A: All VST/VST3-compatible DAWs — FL Studio, Ableton Live, Reaper, Studio One, Bitwig, and others — support the full list. TAL plugins and Chow Tape Model include AU format for Logic Pro. GDegrade is Windows-only. Verify 32-bit compatibility for iZotope Vinyl specifically. If you need a DAW recommendation before diving in, see our [best free DAW software guide](/posts/best-free-daw-software-2026/).
 
-**What DAWs are compatible with these plugins?**
-All VST/VST3-compatible DAWs — FL Studio, Ableton Live, Reaper, Studio One, Bitwig, and others — support the full list. TAL plugins and Chow Tape Model include AU format for Logic Pro. GDegrade is Windows-only. Verify 32-bit compatibility for iZotope Vinyl specifically. If you need a DAW recommendation before diving in, see our [best free DAW software guide](/posts/best-free-daw-software-2026/).
-
-**Can you make professional-quality lo-fi beats using only free plugins?**
-Community evidence says yes. Producers release commercially distributed lo-fi material built around iZotope Vinyl, Valhalla Supermassive, and similar free tools. The paid upgrades offer workflow and control advantages, not a qualitative ceiling the free options cannot reach.
-
----
-
+**Q: Can you make professional-quality lo-fi beats using only free plugins?**
+A: Community evidence says yes. Producers release commercially distributed lo-fi material built around iZotope Vinyl, Valhalla Supermassive, and similar free tools. The paid upgrades offer workflow and control advantages, not a qualitative ceiling the free options cannot reach. ---
 ## Final Thoughts
 
 The starting point for a lo-fi toolkit in 2026 is three downloads: iZotope Vinyl for vinyl character, Valhalla Supermassive for reverb, and TAL-Dub-3 for tape delay — each free, each backed by strong community consensus, and together covering the core textures of the genre. When you are ready to replace that chain with something built for the purpose, RC-20 Retro Color is the paid upgrade the community consistently points to.

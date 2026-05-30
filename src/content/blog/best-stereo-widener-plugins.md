@@ -288,29 +288,20 @@ If MicroShift feels too saturated or vintage for a production, MicroPitch offers
 ---
 
 ## FAQ
+**Q: Can stereo wideners cause mono compatibility problems?**
+A: Yes — any widener that uses phase manipulation or pitch shifting can create cancellation artifacts when a stereo mix is summed to mono. Always check your mix in mono after widening. Plugins like Wider (Polyverse) and Nugen Audio Stereoizer are specifically engineered to minimize these issues, but no widener is completely risk-free at extreme settings.
 
-**Can stereo wideners cause mono compatibility problems?**
+**Q: What's the difference between M/S processing and a stereo widener?**
+A: M/S processing separates a stereo signal into a center channel (Mid) and a side-only channel (Side), letting you process each independently. A traditional stereo widener typically works by increasing the Side signal relative to the Mid — which is itself a form of M/S processing. Tools like Voxengo MSED expose the full M/S signal path so you can apply any plugin in that domain, giving you far more control than a fixed widening algorithm.
 
-Yes — any widener that uses phase manipulation or pitch shifting can create cancellation artifacts when a stereo mix is summed to mono. Always check your mix in mono after widening. Plugins like Wider (Polyverse) and Nugen Audio Stereoizer are specifically engineered to minimize these issues, but no widener is completely risk-free at extreme settings.
+**Q: Should I put a stereo widener before or after compression on my master bus?**
+A: Generally, stereo widening goes after compression. Widening before a compressor can cause inconsistent sidechain behavior because transient energy differs significantly between the phantom center and the sides. The exception is frequency-selective widening (such as Nugen Stereoizer), which some mastering engineers place before a broadband limiter to manage how the limiter perceives side material.
 
-**What's the difference between M/S processing and a stereo widener?**
+**Q: Is it safe to use a stereo widener on a bass track?**
+A: No — low frequencies below roughly 100–150Hz should remain in mono in virtually all production contexts. Most professional wideners on this list include bass mono controls specifically for this reason. Widening a bass track causes low-end phase cancellation on club systems and reduces perceived punch everywhere.
 
-M/S processing separates a stereo signal into a center channel (Mid) and a side-only channel (Side), letting you process each independently. A traditional stereo widener typically works by increasing the Side signal relative to the Mid — which is itself a form of M/S processing. Tools like Voxengo MSED expose the full M/S signal path so you can apply any plugin in that domain, giving you far more control than a fixed widening algorithm.
-
-**Should I put a stereo widener before or after compression on my master bus?**
-
-Generally, stereo widening goes after compression. Widening before a compressor can cause inconsistent sidechain behavior because transient energy differs significantly between the phantom center and the sides. The exception is frequency-selective widening (such as Nugen Stereoizer), which some mastering engineers place before a broadband limiter to manage how the limiter perceives side material.
-
-**Is it safe to use a stereo widener on a bass track?**
-
-No — low frequencies below roughly 100–150Hz should remain in mono in virtually all production contexts. Most professional wideners on this list include bass mono controls specifically for this reason. Widening a bass track causes low-end phase cancellation on club systems and reduces perceived punch everywhere.
-
-**Are free stereo wideners good enough for professional use?**
-
-Wider by Polyverse and iZotope Ozone Imager 2 are both used by professional engineers on commercial releases. The free options are limited in frequency-selective control and advanced diagnostics, but for most mixing tasks they perform at a professional level. The paid tools earn their price on mastering work, mono source conversion, and complex stereo repair — not day-to-day widening.
-
----
-
+**Q: Are free stereo wideners good enough for professional use?**
+A: Wider by Polyverse and iZotope Ozone Imager 2 are both used by professional engineers on commercial releases. The free options are limited in frequency-selective control and advanced diagnostics, but for most mixing tasks they perform at a professional level. The paid tools earn their price on mastering work, mono source conversion, and complex stereo repair — not day-to-day widening. ---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

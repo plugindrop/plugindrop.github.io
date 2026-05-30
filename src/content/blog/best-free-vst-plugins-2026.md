@@ -100,7 +100,7 @@ Free bundle including synths (Massive, Reaktor Player), sampled instruments, eff
 | [Vital](/posts/best-free-synth-plugins/) | Synth | Wavetable synthesis rivaling Serum |
 | [Surge XT](/posts/surge-xt-free-open-source-synth/) | Synth | Deep open-source hybrid synthesis |
 | [Dexed](/posts/dexed-free-dx7-emulation/) | Synth | Authentic DX7 FM synthesis |
-| [Helm](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026) | Synth | Simple, visual polyphonic synth |
+| [Helm](https://tytel.org/helm/) | Synth | Simple, visual polyphonic synth |
 | [Valhalla Supermassive](/posts/best-free-reverb-vst-plugins/) | Reverb/Delay | 18+ modes, massive ambient tails |
 | [Little Plate](/posts/soundtoys-little-plate-free-download/) | Reverb | EMT 140 plate, 3 controls |
 | [TAL-Reverb-4](https://www.pluginboutique.com/search?search_query=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026) | Reverb | Vintage plate character |

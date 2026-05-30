@@ -157,24 +157,20 @@ Composers working in film and television report that Diva's Divine mode output o
 ---
 
 ## FAQ
+**Q: Is u-he Diva still worth buying in 2026?**
+A: Yes, for producers who prioritize analog authenticity. Circuit modeling as an architectural approach has not been superseded — competitors have narrowed the gap at lower price points, but Diva's Divine mode output remains a benchmark. The use cases where it outperforms alternatives are specific and important: leads, basses, and pads that need to hold up under professional monitoring.
 
-**Is u-he Diva still worth buying in 2026?**
-Yes, for producers who prioritize analog authenticity. Circuit modeling as an architectural approach has not been superseded — competitors have narrowed the gap at lower price points, but Diva's Divine mode output remains a benchmark. The use cases where it outperforms alternatives are specific and important: leads, basses, and pads that need to hold up under professional monitoring.
+**Q: Why is u-he Diva so CPU-intensive?**
+A: Diva runs real-time differential equation models of analog circuits rather than table-lookup approximations or hardware samples. In Divine mode, each voice calculates oscillator and filter behavior at multiple times the audio sample rate to avoid aliasing artifacts. This is computationally expensive by design — it is what produces the accuracy. The standard workflow response is to compose in Fast mode and switch to Divine before freezing tracks.
 
-**Why is u-he Diva so CPU-intensive?**
-Diva runs real-time differential equation models of analog circuits rather than table-lookup approximations or hardware samples. In Divine mode, each voice calculates oscillator and filter behavior at multiple times the audio sample rate to avoid aliasing artifacts. This is computationally expensive by design — it is what produces the accuracy. The standard workflow response is to compose in Fast mode and switch to Divine before freezing tracks.
+**Q: What hardware synthesizers does u-he Diva emulate?**
+A: Diva models circuits from the Moog Minimoog (Dual VCO oscillators, Ladder filter), Roland Juno-60 and SH-101 (DCO oscillators, Cascade filter), Oberheim SEM (Triple VCO oscillators, Uhbie filter), Korg MS-20 (Bite filter), and Steiner-Parker (Steiner-Parker filter). These modules are recombineable — you can pair oscillator and filter models from different hardware lineages to create architectures no original hardware ever offered.
 
-**What hardware synthesizers does u-he Diva emulate?**
-Diva models circuits from the Moog Minimoog (Dual VCO oscillators, Ladder filter), Roland Juno-60 and SH-101 (DCO oscillators, Cascade filter), Oberheim SEM (Triple VCO oscillators, Uhbie filter), Korg MS-20 (Bite filter), and Steiner-Parker (Steiner-Parker filter). These modules are recombineable — you can pair oscillator and filter models from different hardware lineages to create architectures no original hardware ever offered.
+**Q: How does u-he Diva compare to Arturia's individual synthesizer emulations?**
+A: Arturia's emulations are historically faithful to specific hardware instruments with lower CPU overhead per instance. Diva is architecturally flexible — the module-based approach allows hybrid patches that no hardware produced — and Divine mode modeling is generally considered more harmonically complex. For reproducing one specific historical instrument at a lower CPU cost, Arturia is competitive. For synthesis that moves beyond historical recreation, Diva has substantially more range.
 
-**How does u-he Diva compare to Arturia's individual synthesizer emulations?**
-Arturia's emulations are historically faithful to specific hardware instruments with lower CPU overhead per instance. Diva is architecturally flexible — the module-based approach allows hybrid patches that no hardware produced — and Divine mode modeling is generally considered more harmonically complex. For reproducing one specific historical instrument at a lower CPU cost, Arturia is competitive. For synthesis that moves beyond historical recreation, Diva has substantially more range.
-
-**Can u-he Diva be used for modern electronic music, or is it only for vintage-sounding productions?**
-Diva's analog character is present across genres from synthwave to contemporary techno, future bass, and commercial pop. The warmth it produces sits well in dense digital mixes precisely because it is not digitally thin. It is, however, not optimized for FM synthesis, wavetable-based spectral design, or granular processing — those workflows are better served by instruments built for those architectures.
-
----
-
+**Q: Can u-he Diva be used for modern electronic music, or is it only for vintage-sounding productions?**
+A: Diva's analog character is present across genres from synthwave to contemporary techno, future bass, and commercial pop. The warmth it produces sits well in dense digital mixes precisely because it is not digitally thin. It is, however, not optimized for FM synthesis, wavetable-based spectral design, or granular processing — those workflows are better served by instruments built for those architectures. ---
 ## Related Guides
 
 - [12 Best Vintage Synth VST Emulations in 2026 (Moog, Roland, Oberheim)](/posts/best-vintage-synth-vst-plugins/)
