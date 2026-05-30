@@ -53,7 +53,7 @@ Vital is a spectral warping wavetable synthesizer with a feature set that would 
 
 **Best for:** Leads, pads, basses, and any producer who wants Serum-level sound design without the price tag.
 
-[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-ableton)
+[→ Download Vital Free](https://vital.audio/)
 [→ Get Vital on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Vital%20synth&a_aid=69cb95abe1763)
 
 ---

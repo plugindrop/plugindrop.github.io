@@ -9,6 +9,8 @@ evergreen: true
 score: 8.00
 xText: "New guide: Best Serum Alternatives 2026: Wavetable Synths Worth Buying"
 draft: false
+priceTrack:
+  - "Serum 2"
 ---
 **TL;DR:** Phase Plant is the top pick for producers who've outgrown Serum's fixed architecture — its modular signal path and Kilohearts Snapin ecosystem represent a genuine capability upgrade. Pigments wins for versatility, covering wavetable, granular, and analog in a single dual-engine instrument. Serum 2 remains the ecosystem benchmark, but in 2026 it's only the obvious choice if preset interoperability is non-negotiable.
 

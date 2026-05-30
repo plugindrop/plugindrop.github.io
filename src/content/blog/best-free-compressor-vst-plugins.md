@@ -10,6 +10,8 @@ score: 8.00
 originalPrice: "$29.99"
 xText: "New guide: 12 Best Free Compressor VST Plugins in 2026 (Every Style Cov..."
 draft: false
+priceTrack:
+  - "FabFilter Pro-C 2"
 ---
 
 **TL;DR:** TDR Kotelnikov is the best free compressor VST plugin in 2026 — mastering-grade transparency, every major platform, zero cost. If you want character alongside it, Molot GE is the free vintage second install that no other freeware touches.

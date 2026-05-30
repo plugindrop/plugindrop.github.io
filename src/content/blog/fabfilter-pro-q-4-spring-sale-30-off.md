@@ -8,6 +8,8 @@ heroImage: /images/fabfilter-pro-q-4-spring-sale-30-off.jpg
 score: 7.7
 draft: false
 converted: true
+priceTrack:
+  - "FabFilter Pro-Q 4"
 ---
 **FabFilter Pro-Q 4** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off)
 

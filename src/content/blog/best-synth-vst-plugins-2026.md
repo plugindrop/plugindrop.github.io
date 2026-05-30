@@ -21,7 +21,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | Wavetable synthesis, all genres | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-vst-plugins-2026) |
+| Vital | Free | Wavetable synthesis, all genres | [Free](https://vital.audio/) |
 | Serum | $189 | EDM, bass music, professional workflows | [Xfer Records](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-vst-plugins-2026) |
 | Phase Plant | $99 | Modular sound design, maximum flexibility | [Kilohearts](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-vst-plugins-2026) |
 | Arturia Pigments 5 | $99 | Multi-engine exploration, visual patching | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
@@ -54,7 +54,7 @@ Vital is a spectral warping wavetable synthesizer with a feature set that matche
 
 **Best for:** Any producer at any level who wants a capable wavetable synthesizer with no financial commitment.
 
-[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-vst-plugins-2026)
+[→ Download Vital Free](https://vital.audio/)
 
 ---
 
@@ -346,7 +346,7 @@ Omnisphere 2 is less a synthesizer and more a sound universe. It ships with over
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital | Free | Wavetable | Spectral warping, CLAP, visual modulation | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-vst-plugins-2026) |
+| Vital | Free | Wavetable | Spectral warping, CLAP, visual modulation | [Get](https://vital.audio/) |
 | Surge XT | Free | Hybrid wavetable/subtractive | 12-route mod matrix, open source | [Get It](https://surge-synthesizer.github.io/) |
 | OB-Xd | Free | Analog modeling | Oberheim circuit emulation, chorus | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-vst-plugins-2026) |
 | Helm | Free | Subtractive/FM | CPU-light, step sequencer included | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-vst-plugins-2026) |

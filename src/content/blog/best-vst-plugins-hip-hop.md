@@ -26,7 +26,7 @@ draft: false
 | Addictive Drums 2 | From $179 | Live boom bap drum kits | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763) |
 | Waves SSL G-Master | From $29 | Bus glue compression | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | iZotope Vinyl | Free | Lofi vinyl texture | [Free Download](https://www.izotope.com/en/products/vinyl) |
-| Vital | Free | Serum alternative for 808 design | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
+| Vital | Free | Serum alternative for 808 design | [Free](https://vital.audio/) |
 | Valhalla Supermassive | Free | Snare tails & 808 space | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
 
 ---
@@ -147,7 +147,7 @@ r/edmproduction and r/makinghiphop consistently name Vital the starting point fo
 
 **Best for:** Producers who want wavetable synthesis with 808 capabilities at no cost.
 
-[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop)
+[→ Download Vital Free](https://vital.audio/)
 
 ---
 
@@ -347,7 +347,7 @@ LoudMax is a look-ahead true peak limiter that producer forums recommend when yo
 | Addictive Drums 2 | From $179 | Acoustic Drums | Mic bleed modeling, live-recorded kits, mix board | [Get it](https://www.native-instruments.com/en/products/maschine/) |
 | Waves SSL G-Master | From $29 | Bus Compressor | SSL 4000 G emulation, drum bus glue | [Get it](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | iZotope Vinyl | Free | Character Effect | Vinyl artifact simulation, lofi texture, instant character | [Free](https://www.izotope.com/en/products/vinyl) |
-| Vital | Free | Wavetable Synth | Serum-class engine, custom wavetables, free tier | [Free](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
+| Vital | Free | Wavetable Synth | Serum-class engine, custom wavetables, free tier | [Free](https://vital.audio/) |
 | LABS | Free | Sample Library | High-quality instrument samples, released periodically | [Free](https://labs.spitfireaudio.com) |
 | Valhalla Supermassive | Free | Reverb | Lush algorithmic reverb, CPU-efficient, universal pick | [Free](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
 | Surge XT | Free | Hybrid Synth | Wavetable + FM + analog, open source, deep modulation | [Free](https://surge-synthesizer.github.io) |

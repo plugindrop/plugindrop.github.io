@@ -9,6 +9,12 @@ score: 8.00
 xText: "New guide: 15 Best VST Plugins Under $200 in 2026 (Professional Sound, ..."
 heroImage: "/images/best-vst-plugins-under-200.jpg"
 draft: false
+priceTrack:
+  - "FabFilter Pro-Q 4"
+  - "FabFilter Pro-C 2"
+  - "Serum 2"
+  - "Valhalla Room"
+  - "Valhalla VintageVerb"
 ---
 **TL;DR:** Serum 2, FabFilter Pro-C 2, and Valhalla VintageVerb are the three purchases under $200 where no free alternative closes the gap in 2026. Add iZotope Neutron 4 for intelligent mixing guidance, and the free picks in this guide fill the rest of your toolkit without meaningful trade-offs.
 
@@ -89,7 +95,7 @@ r/edmproduction threads consistently describe Vital as "Serum-quality at free ti
 
 **Best for:** Producers evaluating wavetable synthesis before committing to a paid license, or those on Linux where the option pool is significantly narrower.
 
-[→ Download Vital Free (Official) (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200)
+[→ Download Vital Free (Official)](https://vital.audio/)
 
 ---
 

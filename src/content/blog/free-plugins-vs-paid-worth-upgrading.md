@@ -8,6 +8,9 @@ draft: false
 heroImage: "/images/free-plugins-vs-paid-worth-upgrading.jpg"
 score: 1.68
 evergreen: true
+priceTrack:
+  - "FabFilter Pro-Q 4"
+  - "Valhalla VintageVerb"
 ---
 
 **TL;DR:** Free plugins cover roughly 80% of production needs. Paid upgrades make sense when you need a specific workflow feature, not just "better sound." Here is a category-by-category breakdown of where free holds up and where paid pulls ahead.

@@ -10,6 +10,8 @@ heroImage: "/images/best-free-synth-plugins.jpg"
 evergreen: true
 score: 8.00
 xText: "14 free synth VST plugins in 2026 — Vital, Surge XT, OB-Xd, Dexed, and more. All tested in real sessions."
+priceTrack:
+  - "Serum 2"
 ---
 
 
@@ -22,7 +24,7 @@ xText: "14 free synth VST plugins in 2026 — Vital, Surge XT, OB-Xd, Dexed, and
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | Modern wavetable leads, pads, bass | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
+| Vital | Free | Modern wavetable leads, pads, bass | [Free](https://vital.audio/) |
 | Surge XT | Free | Hybrid synthesis, deep sound design | [Free Download](https://surge-synthesizer.github.io/) |
 | Zebralette 3 | Free | Modern wavetable with u-he quality | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
 | Dexed | Free | DX7 FM patches, 80s electric pianos | [Free Download](https://asb2m10.github.io/dexed/) |
@@ -56,7 +58,7 @@ Vital is the free synth benchmark of 2026. The wavetable engine supports spectra
 
 **Best for:** Modern leads, evolving pads, cinematic textures, bass design across every genre
 
-[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins)
+[→ Download Vital Free](https://vital.audio/)
 
 ---
 
@@ -376,7 +378,7 @@ Yoshimi is a fork of ZynAddSubFX with the same three synthesis engines — addit
 
 | Plugin | Price | Type | Highlights | Get It |
 |--------|-------|------|------------|--------|
-| Vital | Free | Wavetable | Spectral warping, drag-and-drop mod, built-in FX | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
+| Vital | Free | Wavetable | Spectral warping, drag-and-drop mod, built-in FX | [Official Site](https://vital.audio/) |
 | Surge XT | Free | Hybrid | Multiple oscillator modes, deep modulation, open source | [Official Site](https://surge-synthesizer.github.io/) |
 | Zebralette 3 | Free | Wavetable | u-he spectral oscillator, 16-slot FX chain, CLAP support | [Official Site](https://www.pluginboutique.com/search?search_query=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
 | Dexed | Free | FM (6-op) | DX7 SysEx compatible, 6-operator FM engine | [Official Site](https://asb2m10.github.io/dexed/) |

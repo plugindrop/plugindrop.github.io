@@ -9,6 +9,8 @@ heroImage: "/images/serum-vs-vital-comparison.jpg"
 score: 8.00
 xText: "New guide: Serum vs Vital: Which Wavetable Synth Should You Buy in 2026..."
 draft: false
+priceTrack:
+  - "Serum 2"
 ---
 
 **TL;DR:** Vital is the smarter pick for most producers in 2026 — its free tier is genuinely powerful, and its spectral morphing modulation gives it an edge in sound design depth. Serum remains the industry-standard choice if you need flawless preset compatibility, professional-grade CPU efficiency, and the widest third-party patch ecosystem on the market.
@@ -72,7 +74,7 @@ Vital introduces spectral morphing as a core oscillator feature — it can blend
 **Best for:** Sound designers who want more modulation sources out of the box, Linux users, and producers who can't justify a $189 price tag yet.
 
 [→ Get Vital on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Vital%20synth&a_aid=69cb95abe1763)
-[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-vs-vital-comparison)
+[→ Download Vital Free](https://vital.audio/)
 
 **Winner: Tie.** Serum wins on output fidelity and import tools; Vital wins on spectral morphing depth and oscillator count.
 
@@ -187,7 +189,7 @@ Once you've outgrown the standard wavetable paradigm, these tools push synthesis
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Serum | ~$189 | Wavetable | Best-in-class audio quality, massive preset ecosystem, industry standard | [Buy](https://www.pluginboutique.com/search?search_query=Serum%20Xfer%20Records&a_aid=69cb95abe1763) |
-| Vital | Free / Paid tiers | Wavetable + Spectral | Free full engine, 6 LFOs, FM-capable, Linux support | [Get Free (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-vs-vital-comparison) / [PB](https://www.pluginboutique.com/search?search_query=Vital%20synth&a_aid=69cb95abe1763) |
+| Vital | Free / Paid tiers | Wavetable + Spectral | Free full engine, 6 LFOs, FM-capable, Linux support | [Get Free (Plugin Boutique)](https://vital.audio/) / [PB](https://www.pluginboutique.com/search?search_query=Vital%20synth&a_aid=69cb95abe1763) |
 | Phase Plant | ~$99+ | Modular/Hybrid | Fully modular signal path, wavetable + granular + additive | [Buy](https://www.pluginboutique.com/search?search_query=Phase%20Plant%20kilohearts&a_aid=69cb95abe1763) |
 
 ---
@@ -225,7 +227,7 @@ No — Serum does not offer a free trial, though Splice subscribers can access i
 
 **Start with Vital — upgrade to Serum when your workflow demands it.** For the vast majority of producers in 2026, Vital's free tier provides more synthesis capability than they'll fully explore in the first year, and its paid tiers represent excellent value relative to the competition. If you're working professionally in EDM or need the deepest commercial preset library available, Serum justifies every dollar of its price tag.
 
-[→ Download Vital Free at vital.audio (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-vs-vital-comparison) | [→ Get Serum on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Serum%20Xfer%20Records&a_aid=69cb95abe1763)
+[→ Download Vital Free at vital.audio](https://vital.audio/) | [→ Get Serum on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Serum%20Xfer%20Records&a_aid=69cb95abe1763)
 
 ---
 

@@ -9,6 +9,8 @@ heroImage: "/images/serum-vst-review.jpg"
 score: 8.00
 xText: "New guide: Xfer Serum Review 2026: Still the Best Wavetable Synth?"
 draft: false
+priceTrack:
+  - "Serum 2"
 ---
 **TL;DR:** Xfer Serum remains the gold standard for wavetable synthesis in 2026 — its visual workflow, deep modulation system, and production-ready sound engine are unmatched for the price. If you produce any form of electronic music and don't already own it, this is the plugin you buy first.
 

@@ -8,6 +8,8 @@ heroImage: /images/slate-digital-slate-digital-has-released-bus-clipper-plugin-.
 score: 6.00
 draft: false
 converted: true
+priceTrack:
+  - "FabFilter Pro-L 2"
 ---
 **Slate Digital — Slate Digital has released Bus Clipper plugin for Win & Mac. The** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?search_query=bus+clipper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slate-digital-slate-digital-has-released-bus-clipper-plugin-)
 

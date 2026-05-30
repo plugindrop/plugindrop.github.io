@@ -8,6 +8,8 @@ heroImage: /images/sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale.
 score: 10.00
 draft: false
 converted: true
+priceTrack:
+  - "FabFilter Pro-L 2"
 ---
 **Sonnox Producer Power Bundle (Oxford Inflator & Limiter)** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16123-Sonnox-Producer-Power-Bundle-Oxford-Inflator-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale)
 

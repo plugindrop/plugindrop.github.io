@@ -8,6 +8,8 @@ heroImage: /images/airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for.
 score: 4.99
 draft: false
 converted: true
+priceTrack:
+  - "Valhalla VintageVerb"
 ---
 **Airspace reverb & delay effect plugin** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/17-Reverb/14865-Airspace?utm_source=plugindrop&utm_medium=article&utm_campaign=airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for&a_aid=69cb95abe1763)
 

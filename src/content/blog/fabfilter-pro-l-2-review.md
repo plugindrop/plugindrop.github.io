@@ -9,6 +9,8 @@ evergreen: true
 score: 8.00
 xText: "New guide: FabFilter Pro-L 2 Review: Still the Best Mastering Limiter i..."
 draft: false
+priceTrack:
+  - "FabFilter Pro-L 2"
 ---
 **TL;DR:** FabFilter Pro-L 2 is still the mastering limiter most professionals reach for first in 2026 — eight precisely tuned limiting algorithms, true peak control up to 32x oversampling, and a metering suite that handles every modern streaming target without a separate tool. At $199 it is a premium investment, but nothing else at this price offers the same combination of transparency, loudness control, and workflow depth.
 

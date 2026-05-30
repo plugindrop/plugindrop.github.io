@@ -18,7 +18,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | Wavetable synthesis, direct Serum workflow replacement | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
+| Vital | Free | Wavetable synthesis, direct Serum workflow replacement | [Free](https://vital.audio/) |
 | Surge XT | Free | Deep hybrid synthesis, advanced modulation | [Free Download](https://surge-synthesizer.github.io/) |
 | Phase Plant Lite | Free (Lite) | Modular workflows, Kilohearts ecosystem entry | [Official Site](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
 | Helm | Free | Beginners, lightweight polyphonic synthesis | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
@@ -55,7 +55,7 @@ The free tier is not a crippled demo. Developer documentation confirms that all 
 
 **Best for:** Producers who want Serum-like wavetable workflows without the price tag — and the community's unanimous top recommendation for this use case.
 
-[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst)
+[→ Download Vital Free](https://vital.audio/)
 
 ---
 
@@ -162,7 +162,7 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital | Free | Wavetable | Serum-adjacent workflow, all synthesis features unlocked free, active community | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
+| Vital | Free | Wavetable | Serum-adjacent workflow, all synthesis features unlocked free, active community | [Download Free (Plugin Boutique)](https://vital.audio/) |
 | Surge XT | Free | Hybrid (wavetable, VA, FM, string) | Deepest free synthesis engine available, open source, CLAP support | [Download Free](https://surge-synthesizer.github.io/) |
 | Phase Plant Lite | Free (Lite) | Modular | Kilohearts Snapin ecosystem, modular signal chain, upgradeable | [Official Site](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
 | Helm | Free | Polyphonic VA | Lightweight, open source, beginner-appropriate interface | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |

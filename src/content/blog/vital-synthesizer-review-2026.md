@@ -22,9 +22,9 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital Free | Free | Full wavetable synthesis at zero cost | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
-| Vital Plus | $25 | Expanded factory presets + wavetables | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
-| Vital Pro | $80 | Complete official library + priority updates | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
+| Vital Free | Free | Full wavetable synthesis at zero cost | [Free](https://vital.audio/) |
+| Vital Plus | $25 | Expanded factory presets + wavetables | [Get](https://vital.audio/) |
+| Vital Pro | $80 | Complete official library + priority updates | [Get](https://vital.audio/) |
 | Serum | $189 | Industry-standard preset ecosystem, EDM workflows | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
 | Phase Plant | from $99 | Modular architecture, multi-oscillator patching | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
 | Pigments | $99 | Multi-engine synthesis, analog warmth | [Get Pigments (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
@@ -66,7 +66,7 @@ Linux support across all tiers — including free — is worth noting separately
 
 **Best for:** Producers who want a complete spectral wavetable synthesis engine for original sound design, or who intend to use third-party Vital preset packs as their primary content source.
 
-[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026)
+[→ Download Vital Free](https://vital.audio/)
 
 ---
 
@@ -85,7 +85,7 @@ For producers who use presets as a starting point and modify from there, the Plu
 
 **Best for:** Producers who plan to use Vital as a primary synthesizer and need a factory library deep enough to support preset-first sound design without sourcing third-party packs.
 
-[→ Get Vital Plus (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026)
+[→ Get Vital Plus](https://vital.audio/)
 
 ---
 
@@ -104,7 +104,7 @@ Community discussions about Pro consistently circle back to the same calculation
 
 **Best for:** Producers who are committed to Vital as their primary synthesis environment and want the complete official library with ongoing access to new official content.
 
-[→ Get Vital Pro (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026)
+[→ Get Vital Pro](https://vital.audio/)
 
 ---
 
@@ -154,9 +154,9 @@ The case for moving to a different synthesizer — rather than paying within Vit
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital Free | Free | Spectral wavetable | Full engine, limited factory content, text-to-wavetable, Linux support | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
-| Vital Plus | $25 | Spectral wavetable | Expanded presets + wavetables, full engine | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
-| Vital Pro | $80 | Spectral wavetable | Complete official library, priority updates | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
+| Vital Free | Free | Spectral wavetable | Full engine, limited factory content, text-to-wavetable, Linux support | [Download Free (Plugin Boutique)](https://vital.audio/) |
+| Vital Plus | $25 | Spectral wavetable | Expanded presets + wavetables, full engine | [Get](https://vital.audio/) |
+| Vital Pro | $80 | Spectral wavetable | Complete official library, priority updates | [Get](https://vital.audio/) |
 | Serum | $189 | Wavetable | Industry-standard ecosystem, Splice integration, massive preset market | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
 | Phase Plant | from $99 | Modular (wavetable/granular/additive) | Fully modular signal path, Snapin ecosystem, combinable oscillator types | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
 | Pigments | $99 | Multi-engine | Wavetable + VA + sample + harmonic, analog warmth, Arturia ecosystem | [Get Pigments (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |

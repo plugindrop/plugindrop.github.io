@@ -9,6 +9,9 @@ heroImage: "/images/best-vst-plugins-under-100-dollars.jpg"
 score: 8.00
 xText: "New guide: 12 Best VST Plugins Under $100 in 2026 (Pro-Level at Budget ..."
 draft: false
+priceTrack:
+  - "FabFilter Pro-C 2"
+  - "Valhalla VintageVerb"
 ---
 
 **TL;DR:** FabFilter Pro-C 2 is the single best investment under $100 for mixing — eight compression styles in one plugin, used on professional sessions worldwide. Pair it with Valhalla VintageVerb at $50 and you have two career-defining tools for less than the cost of a single hardware unit.

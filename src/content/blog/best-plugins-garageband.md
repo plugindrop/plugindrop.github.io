@@ -9,6 +9,10 @@ evergreen: true
 score: 8.00
 xText: "New guide: 12 Best Plugins for GarageBand in 2026 (Free AU & Third-Part..."
 draft: false
+priceTrack:
+  - "FabFilter Pro-Q 4"
+  - "Serum 2"
+  - "Valhalla VintageVerb"
 ---
 **TL;DR:** Vital is the standout free pick — a spectral wavetable synthesizer that r/edmproduction and r/synthesizers consistently rank above plugins costing hundreds of dollars, and it works natively in GarageBand via AU. Pair it with Valhalla Supermassive for reverb and TDR Nova for dynamic EQ to build a genuinely professional signal chain at zero cost. For producers ready to invest, Serum 2 and FabFilter Pro-Q 4 are the community's clearest paid benchmarks for their respective categories.
 
@@ -18,7 +22,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | Wavetable synthesis | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
+| Vital | Free | Wavetable synthesis | [Free](https://vital.audio/) |
 | Valhalla Supermassive | Free | Lush reverb & spatial texture | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
 | TDR Nova | Free | Dynamic EQ & mixing | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
 | Surge XT | Free | Deep hybrid synthesis | [Free Download](https://surge-synthesizer.github.io/) |
@@ -57,7 +61,7 @@ The spectral morphing approach means Vital produces the kind of evolving, animat
 
 **Best for:** Electronic music, ambient, pop, and any producer who wants complex, evolving textures without reading a manual first.
 
-[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband)
+[→ Download Vital Free](https://vital.audio/)
 
 ---
 
@@ -204,7 +208,7 @@ These three plugins represent the community's clearest benchmarks for their cate
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital | Free | Wavetable Synth | Spectral morphing, visual modulation, active community | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
+| Vital | Free | Wavetable Synth | Spectral morphing, visual modulation, active community | [Get](https://vital.audio/) |
 | Surge XT | Free | Hybrid Synth | Open-source, multiple oscillator types, built-in FX chain | [Download](https://surge-synthesizer.github.io/) |
 | TAL-NoiseMaker | Free | Virtual Analog | Approachable UI, arpeggiator, classic analog architecture | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
 | TDR Nova | Free | Dynamic EQ | Static + dynamic EQ per band, professional-grade, trusted by engineers | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
@@ -260,7 +264,7 @@ For most tracking and mixing tasks in GarageBand, TDR Nova covers the functional
 
 For GarageBand producers, Vital is the single highest-leverage plugin you can install today — a professional-grade wavetable synthesizer that community consensus ranks above commercial alternatives at multiple times the cost, available at zero cost with no functional restrictions. Round out your chain with Valhalla Supermassive for reverb and TDR Nova for dynamic EQ, and you have a professional-grade free toolkit that removes GarageBand's most significant limitations. When you're ready to invest, Valhalla VintageVerb at ~$50 is the most consistent "worth every dollar" recommendation in producer communities for reverb that serves a mix rather than defining it.
 
-[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) | [→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
+[→ Download Vital Free](https://vital.audio/) | [→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
 
 ---
 

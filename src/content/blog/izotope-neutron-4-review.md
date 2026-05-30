@@ -10,6 +10,8 @@ score: 8.00
 originalPrice: "$149"
 xText: "New guide: iZotope Neutron 4 Review: Is AI-Assisted Mixing Actually Use..."
 draft: false
+priceTrack:
+  - "FabFilter Pro-Q 4"
 ---
 **TL;DR:** iZotope Neutron 4 is the most complete AI-assisted channel strip on the market in 2026 — its Track Assistant and Unmask features alone justify the price for producers who mix their own music. If you're a songwriter or beatmaker who wants professional-sounding mixes without a steep learning curve, it's the most practical buy in the channel strip category.
 

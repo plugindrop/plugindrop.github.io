@@ -10,6 +10,8 @@ originalPrice: "$199"
 xText: "New guide: LANDR Mastering Review 2026: Is the Subscription Worth It?"
 heroImage: "/images/landr-mastering-worth-it-2026.jpg"
 draft: false
+priceTrack:
+  - "FabFilter Pro-L 2"
 ---
 **TL;DR:** LANDR Mastering delivers fast, serviceable AI masters that work well for social media releases and high-volume distribution catalogs. For producers who care about the final 10% of sonic detail — or who release fewer than 10 tracks per year — iZotope Ozone 12 is the more cost-effective long-term investment. LANDR's value proposition is speed and convenience, not control.
 

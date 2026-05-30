@@ -9,6 +9,10 @@ heroImage: "/images/mastering-chain-plugins.jpg"
 score: 8.00
 xText: "New guide: The Complete Mastering Plugin Chain: 6 Plugins for a Pro Mas..."
 draft: false
+priceTrack:
+  - "FabFilter Pro-Q 4"
+  - "FabFilter Pro-C 2"
+  - "FabFilter Pro-L 2"
 ---
 
 **TL;DR:** For a professional master in 2026, iZotope Ozone 12 is the single most powerful plugin in this chain — it handles EQ, dynamics, imaging, and limiting in one suite. Pair it with FabFilter Pro-Q 4 for surgical corrections, FabFilter Pro-L 2 for transparent brick-wall limiting, and keep SPAN plus Youlean on your meters at all times. Follow this six-step chain and your masters will translate everywhere.

@@ -8,6 +8,8 @@ heroImage: "/images/the-tone-foundry-get-86-off-drum-bass-for-serum-2-bundle-by-
 score: 6.93
 draft: false
 converted: true
+priceTrack:
+  - "Serum 2"
 ---
 **Drum & Bass for Serum 2 Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/16791-Drum-Bass-for-Serum-2-Bundle-Exclusive-?utm_source=plugindrop&utm_medium=article&utm_campaign=the-tone-foundry-get-86-off-drum-bass-for-serum-2-bundle-by-&a_aid=69cb95abe1763)
 

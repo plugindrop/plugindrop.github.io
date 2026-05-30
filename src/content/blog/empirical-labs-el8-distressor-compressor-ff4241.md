@@ -8,6 +8,8 @@ heroImage: /images/empirical-labs-el8-distressor-compressor-ff4241.jpg
 score: 8.80
 draft: false
 converted: true
+priceTrack:
+  - "FabFilter Pro-C 2"
 ---
 **Empirical Labs EL8 Distressor Compressor** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241)
 

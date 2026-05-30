@@ -9,6 +9,8 @@ evergreen: true
 score: 8.00
 xText: "New guide: 10 Best Compressor Plugins for Drums in 2026 (Punch, Glue, T..."
 draft: false
+priceTrack:
+  - "FabFilter Pro-C 2"
 ---
 **TL;DR:** FabFilter Pro-C 2 is the most capable drum compressor for producers who want surgical control across bus and channel work in a single plugin. Waves SSL G-Master Buss Compressor is the industry-standard pick for classic drum bus glue. Rough Rider 3 is the best free option — and it's not close.
 

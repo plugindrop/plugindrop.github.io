@@ -18,7 +18,7 @@ heroImage: "/images/best-free-plugins-hip-hop_collage.jpg"
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | 808 bass, wavetable pads, leads | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop) |
+| Vital | Free | 808 bass, wavetable pads, leads | [Free](https://vital.audio/) |
 | iZotope Vinyl | Free | Lo-fi vinyl texture | [Free Download](https://www.izotope.com/en/products/vinyl) |
 | MT Power Drum Kit 2 | Free | Realistic drum sounds | [Free Download](https://www.powerdrumkit.com/) |
 | Rough Rider 3 | Free | Punchy drum bus compression | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
@@ -70,7 +70,7 @@ Vital's free tier unlocks the full core synthesis engine, which combines wavetab
 
 **Best for:** 808 sub bass, wavetable leads, evolving pad textures.
 
-[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop)
+[→ Download Vital Free](https://vital.audio/)
 
 ---
 
@@ -283,7 +283,7 @@ Graillon 2 provides real-time pitch correction alongside a pitch-shifting sectio
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | TAL-NoiseMaker | Free | Virtual Analog Synth | 3 oscillators, built-in FX, low CPU | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop) |
-| Vital | Free | Wavetable Synth | Wavetable, FM, granular, drag-drop modulation | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop) |
+| Vital | Free | Wavetable Synth | Wavetable, FM, granular, drag-drop modulation | [Free](https://vital.audio/) |
 | Surge XT | Free | Wavetable/FM Synth | 11 oscillator types, open source, 160+ mod sources | [Free Download](https://surge-synthesizer.github.io) |
 | OB-Xd | Free | Vintage Analog Synth | Oberheim OB-X emulation, warm analog character | [Free Download](https://www.discodsp.com) |
 | MT Power Drum Kit 2 | Free | Drum Rompler | Velocity layers, MIDI grooves, built-in mixer | [Free Download](https://www.powerdrumkit.com/) |

@@ -9,6 +9,9 @@ score: 8.00
 xText: "New guide: Complete EDM Production Plugin Chain: From Drop to Master (2..."
 heroImage: "/images/edm-production-plugin-chain.jpg"
 draft: false
+priceTrack:
+  - "FabFilter Pro-Q 4"
+  - "FabFilter Pro-L 2"
 ---
 **TL;DR:** The most battle-tested complete EDM production plugin chain 2026 runs Serum for synthesis, OTT for multiband compression, FabFilter Pro-Q 4 for surgical EQ, Valhalla Supermassive for space, and FabFilter Pro-L 2 at the master bus. Two of the five plugins are completely free — meaning a competitive, professional-grade chain is within reach for the cost of one synth and two FabFilter licenses.
 

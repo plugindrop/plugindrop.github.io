@@ -21,7 +21,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Serum | $189 | Professional wavetable design, industry-standard workflow | [Official Site](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=is-serum-worth-it) |
-| Vital | Free / $25 / $80 | Beginners, budget producers, wavetable exploration | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=is-serum-worth-it) |
+| Vital | Free / $25 / $80 | Beginners, budget producers, wavetable exploration | [Free](https://vital.audio/) |
 | Phase Plant | $199 | Modular power users, deep sound architects | [Official Site](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=is-serum-worth-it) |
 
 ---
@@ -80,7 +80,7 @@ Where Vital lags behind is the preset ecosystem and, crucially, the wavetable ed
 
 **Best for:** Producers learning wavetable synthesis, those on a tight budget, Linux users, and anyone who wants to audition a Serum-adjacent workflow before committing.
 
-[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=is-serum-worth-it)
+[→ Download Vital Free](https://vital.audio/)
 
 ---
 
@@ -115,9 +115,9 @@ Where Vital lags behind is the preset ecosystem and, crucially, the wavetable ed
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Serum | $189 | Wavetable | Mature wavetable editor, vast preset ecosystem, industry standard | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=is-serum-worth-it) |
-| Vital (Free) | Free | Wavetable | Spectral morphing, 3 oscillators, deep mod matrix, Linux support | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=is-serum-worth-it) |
-| Vital (Plus) | $25 | Wavetable | Expanded preset library, additional wavetables | [Vital.audio](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=is-serum-worth-it) |
-| Vital (Pro) | $80 | Wavetable | Full preset library, all features unlocked | [Vital.audio](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=is-serum-worth-it) |
+| Vital (Free) | Free | Wavetable | Spectral morphing, 3 oscillators, deep mod matrix, Linux support | [Download Free (Plugin Boutique)](https://vital.audio/) |
+| Vital (Plus) | $25 | Wavetable | Expanded preset library, additional wavetables | [Vital.audio](https://vital.audio/) |
+| Vital (Pro) | $80 | Wavetable | Full preset library, all features unlocked | [Vital.audio](https://vital.audio/) |
 | Phase Plant | $199 | Modular | Component-based architecture, unlimited signal routing | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=is-serum-worth-it) |
 
 ---

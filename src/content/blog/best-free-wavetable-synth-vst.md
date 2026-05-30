@@ -18,7 +18,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | Spectral wavetable leads, basses, evolving pads | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
+| Vital | Free | Spectral wavetable leads, basses, evolving pads | [Free](https://vital.audio/) |
 | Surge XT | Free | Complex hybrid patches, deep modulation routing | [Free Download](https://surge-synthesizer.github.io/) |
 | Odin 2 | Free | Wavetable + FM hybrid sounds, cinematic textures | [Free Download](https://github.com/TheWaveWarden/odin2) |
 | Zebralette | Free | Spectral morphing, u-he-quality timbres at no cost | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
@@ -54,7 +54,7 @@ For producers who work heavily with third-party or user-designed wavetables, Vit
 
 **Best for:** Any producer who wants a professional-grade wavetable synth at zero cost — this is the first install.
 
-[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst)
+[→ Download Vital Free](https://vital.audio/)
 
 ---
 
@@ -180,7 +180,7 @@ Development has slowed significantly since Vital launched. The preset library is
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital | Free | Spectral wavetable | 3 oscillators, drag-drop modulation, full effects chain, 32-voice poly | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
+| Vital | Free | Spectral wavetable | 3 oscillators, drag-drop modulation, full effects chain, 32-voice poly | [Get](https://vital.audio/) |
 | Surge XT | Free | Hybrid (8 oscillator types) | 4,000+ patches, matrix modulation routing, open source | [Download](https://surge-synthesizer.github.io/) |
 | Odin 2 | Free | Wavetable + FM hybrid | 3 independent oscillator slots, 3 filters, open source | [Download](https://github.com/TheWaveWarden/odin2) |
 | Zebralette | Free | Spectral wavetable | u-he spectral oscillator tech, organic tonal character | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |

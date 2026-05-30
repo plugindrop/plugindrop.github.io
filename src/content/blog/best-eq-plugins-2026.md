@@ -9,6 +9,8 @@ evergreen: true
 score: 8.00
 xText: "New guide: Best EQ Plugins 2026: Free & Paid for Every Producer"
 draft: false
+priceTrack:
+  - "FabFilter Pro-Q 4"
 ---
 **TL;DR:** FabFilter Pro-Q 4 remains the gold standard EQ plugin in 2026 — its mid/side processing, dynamic EQ mode, and surgical precision make it the one plugin professionals reach for on every session. If you're not ready to spend $179, TDR Nova is a genuinely pro-grade free alternative that holds its own on most mixing tasks.
 

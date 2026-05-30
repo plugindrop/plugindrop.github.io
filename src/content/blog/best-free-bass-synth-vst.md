@@ -25,7 +25,7 @@ draft: false
 |--------|-------|----------|--------|
 | Surge XT | Free | All-purpose bass synthesis | [Free Download](https://surge-synthesizer.github.io/) |
 | TAL-BassLine-101 | Free | Acid / 303-style bass lines | [Free Download](https://tal-software.com/products/tal-bassline-101) |
-| Vital | Free | Wavetable bass & modern sound design | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst) |
+| Vital | Free | Wavetable bass & modern sound design | [Free](https://vital.audio/) |
 | OB-Xd | Free | Warm analog-style bass | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst) |
 | Helm | Free | Clean mono subtractive bass | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst) |
 | Dexed | Free | FM bass & DX7 tones | [Free Download](https://github.com/asb2m10/dexed) |
@@ -78,7 +78,7 @@ Matt Tytel also developed Helm (listed separately below), but Vital's wavetable 
 
 **Best for:** Wavetable bass design, evolving bass tones, hip-hop, trap, and modern electronic pop.
 
-[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst)
+[→ Download Vital Free](https://vital.audio/)
 
 ---
 
@@ -255,7 +255,7 @@ Triple Cheese uses three comb filters as its primary sound source instead of con
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Surge XT | Free | Multi-engine | 12+ oscillator types, massive patch library, CLAP support | [Download](https://surge-synthesizer.github.io/) |
-| Vital | Free | Wavetable | Visual modulation, 20+ filter types, community wavetables | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst) |
+| Vital | Free | Wavetable | Visual modulation, 20+ filter types, community wavetables | [Get](https://vital.audio/) |
 | TAL-BassLine-101 | Free | Virtual analog (303) | Built-in step sequencer, accent, slide, classic acid character | [Download](https://tal-software.com/products/tal-bassline-101) |
 | OB-Xd | Free | Virtual analog (Oberheim) | Warm filter, unison, AAX support, large preset community | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst) |
 | Helm | Free | Virtual analog | Sub-oscillator, drag-and-drop modulation, built-in effects | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst) |

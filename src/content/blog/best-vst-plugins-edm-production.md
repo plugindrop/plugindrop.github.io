@@ -21,7 +21,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Serum | $189 | Wavetable synthesis, leads, basses | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production) |
-| Vital | Free–$80 | Wavetable entry point, free Serum alternative | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production) |
+| Vital | Free–$80 | Wavetable entry point, free Serum alternative | [Free](https://vital.audio/) |
 | Massive X | Standalone / Komplete | Complex modulation, dark techno textures | [Get Massive X](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) |
 | Sylenth1 | €139 | Trance, big room, festival house | [Get Sylenth1](https://www.lennardigital.com/sylenth1/) |
 | Nexus 4 | Subscription | Preset-driven, all-genre prototyping | [Get Nexus 4](https://www.refx.com/nexus/) |
@@ -75,7 +75,7 @@ Developer documentation confirms Vital uses spectral warping on its wavetables �
 
 **Best for:** Producers entering wavetable synthesis, or anyone who wants a free Serum-class engine without compromising on modulation depth.
 
-[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production)
+[→ Download Vital Free](https://vital.audio/)
 
 ---
 
@@ -353,7 +353,7 @@ If you have exhausted the free options or are ready to invest in tools that will
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Serum | $189 | Wavetable synth | Industry standard, deep preset ecosystem | [Get (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production) |
-| Vital | Free–$80 | Wavetable synth | Spectral warping, full engine on free tier | [Free](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production) |
+| Vital | Free–$80 | Wavetable synth | Spectral warping, full engine on free tier | [Free](https://vital.audio/) |
 | Massive X | Paid | Modulation synth | Phase/FM routing, NI ecosystem, dark character | [Get](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) |
 | Sylenth1 | €139 | Analog VA | 16-voice unison, trance/big room staple | [Get](https://www.lennardigital.com/sylenth1/) |
 | Nexus 4 | Subscription | Rompler | Genre-spanning preset library, rapid prototyping | [Get](https://www.refx.com/nexus/) |

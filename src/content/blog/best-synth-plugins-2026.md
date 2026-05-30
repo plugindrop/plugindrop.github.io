@@ -21,7 +21,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free / $25+ | Wavetable synthesis, modern electronic | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-plugins-2026) |
+| Vital | Free / $25+ | Wavetable synthesis, modern electronic | [Free](https://vital.audio/) |
 | Surge XT | Free | Complex modulation, experimental | [Free Download](https://surge-synthesizer.github.io/) |
 | OB-Xd | Free | Vintage analog emulation, pads | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-plugins-2026) |
 | Dexed | Free | FM synthesis, DX7 patches | [Free Download](https://asb2m10.github.io/dexed/) |
@@ -51,7 +51,7 @@ For producers in electronic genres — future bass, techno, synthpop, lo-fi — 
 
 **Best for:** Electronic producers, sound designers, anyone transitioning from stock DAW instruments.
 
-[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-plugins-2026)
+[→ Download Vital Free](https://vital.audio/)
 
 ---
 
@@ -156,7 +156,7 @@ The free synths above cover a wide range of synthesis types and production scena
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital | Free / $25–$80 | Wavetable | Spectral warping, audio-to-wavetable, deep mod matrix | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-plugins-2026) |
+| Vital | Free / $25–$80 | Wavetable | Spectral warping, audio-to-wavetable, deep mod matrix | [Download Free (Plugin Boutique)](https://vital.audio/) |
 | Surge XT | Free | Multi-engine | 16 oscillator types, extreme modulation depth, open source | [Download Free](https://surge-synthesizer.github.io/) |
 | OB-Xd | Free | Virtual Analog | Oberheim OB-X/Xa/8 emulation, voice detune, warm character | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-plugins-2026) |
 | Dexed | Free | FM | DX7 emulation, SysEx compatible, 6-operator FM engine | [Download Free](https://asb2m10.github.io/dexed/) |

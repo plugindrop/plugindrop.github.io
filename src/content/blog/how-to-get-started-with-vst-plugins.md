@@ -9,6 +9,9 @@ evergreen: true
 score: 8.00
 xText: "New guide: How to Get Started with VST Plugins: A Complete Beginner Gui..."
 draft: false
+priceTrack:
+  - "FabFilter Pro-Q 4"
+  - "Serum 2"
 ---
 **TL;DR:** For new producers in 2026, Vital is the single best free VST to install first — it covers wavetable synthesis at a level that previously cost $200+, and the community consensus is consistent enough to skip the debate. Pair it with TDR Nova for EQ and Valhalla Supermassive for reverb, and you have a production-ready free toolkit before spending a dollar.
 
@@ -16,7 +19,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | Wavetable synthesis, leads, pads | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
+| Vital | Free | Wavetable synthesis, leads, pads | [Free](https://vital.audio/) |
 | Surge XT | Free | Advanced hybrid synthesis, deep modulation | [Free Download](https://surge-synthesizer.github.io/) |
 | TDR Nova | Free | Transparent dynamic EQ, mixing | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
 | Valhalla Supermassive | Free | Lush reverb, ambient spaces | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
@@ -52,7 +55,7 @@ Vital is a spectral warping wavetable synthesizer whose free tier includes three
 
 **Best for:** Leads, pads, basses, and any producer learning wavetable synthesis for the first time.
 
-[→ Download Vital Free (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins)
+[→ Download Vital Free](https://vital.audio/)
 
 ---
 
@@ -147,7 +150,7 @@ The free stack above covers a complete production workflow. These paid upgrades 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital | Free | Wavetable Synth | Drag-and-drop modulation, spectral warping, 75 presets | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
+| Vital | Free | Wavetable Synth | Drag-and-drop modulation, spectral warping, 75 presets | [Download Free (Plugin Boutique)](https://vital.audio/) |
 | Surge XT | Free | Hybrid Synth | 2,800+ presets, multi-synthesis engine, microtonal tuning | [Download Free](https://surge-synthesizer.github.io/) |
 | TDR Nova | Free | Dynamic EQ | 4-band parametric, per-band dynamics, linear phase | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
 | Valhalla Supermassive | Free | Reverb / Delay | 23 modes, infinite decay, low CPU overhead | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
@@ -189,7 +192,7 @@ Vital's free tier is not a trial. The free version includes the full synthesis e
 
 For any producer starting from zero in 2026, the stack is clear and costs nothing to assemble: Vital for synthesis, TDR Nova for EQ, and Valhalla Supermassive for reverb. These are not entry-level compromises — they are community-validated tools used in professional contexts, and the tutorial ecosystems around them are large enough to take a beginner from zero to a finished track. When the synthesis ceiling arrives and you need access to the largest commercial preset ecosystem in production communities, Serum 2 is the upgrade the community consistently points to.
 
-[→ Download Vital Free and start building your first patch today (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8276-Vital?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins)
+[→ Download Vital Free and start building your first patch today](https://vital.audio/)
 
 ---
 

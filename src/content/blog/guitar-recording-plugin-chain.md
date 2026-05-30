@@ -10,6 +10,8 @@ originalPrice: "$99"
 xText: "New guide: Complete Guitar Recording Plugin Chain: Amp Sim to Mastering..."
 heroImage: "/images/guitar-recording-plugin-chain.jpg"
 draft: false
+priceTrack:
+  - "FabFilter Pro-Q 4"
 ---
 **TL;DR:** The complete guitar recording plugin chain for 2026 runs Neural DSP Archetype for amp simulation, Waves IR-L for cabinet impulse response loading, FabFilter Pro-Q 4 for surgical EQ, and OTT for multiband dynamics. Each stage solves a specific problem in the direct-recording signal path — together they replicate what professional studios achieve with physical gear, without leaving the box.
 
