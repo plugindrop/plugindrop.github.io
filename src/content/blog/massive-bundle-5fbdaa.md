@@ -20,6 +20,11 @@ draft: false
 </div>
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/1PcvacKMWjI" title="Ueberschall Massive Alternative Bundle | Song Demo and Preset Playthrough | Jong Uy Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Massive Bundle?
 
 The Massive Bundle is a preset collection for Native Instruments Massive, one of the most widely used synthesizers in electronic music production. Sold through ADSR Sounds — a well-established marketplace for samples, loops, presets, and courses — this bundle packages a range of ready-to-use sounds at a flat price. It targets producers who want to speed up sound design without building patches from scratch.
