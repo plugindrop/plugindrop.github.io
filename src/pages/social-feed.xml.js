@@ -56,7 +56,7 @@ export async function GET(context) {
 				description: xText,
 				link: `/posts/${post.id}/`,
 				pubDate: d.pubDate,
-				...(imageUrl ? { enclosure: { url: imageUrl, type: 'image/jpeg', length: 0 } } : {}),
+				...(imageUrl ? { enclosures: [{ url: imageUrl, type: 'image/jpeg', length: 0 }] } : {}),
 			};
 		}),
 	});
