@@ -12,7 +12,7 @@ originalPrice: "$589"
 discount: "80% OFF"
 saleExpiry: "2026-05-31"
 xText: "thEQorange hitting 30% off is the kind of rare i never see on MAAT gear. perfect for vocals. code: 30-PERCENT-EQO-2026"
-draft: false
+draft: true
 ---
 **TL;DR:** MAAT's thEQorange is currently **$119** (down from ~~$589~~) — a major discount on a professional-grade precision EQ plugin. Apply code **30-PERCENT-EQO-2026** at checkout before May 31, 2026. [Grab it directly from MAAT](https://www.maat.digital/theqorange/).
 

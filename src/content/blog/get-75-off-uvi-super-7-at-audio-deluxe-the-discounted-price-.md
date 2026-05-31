@@ -10,7 +10,7 @@ dealPrice: "$19"
 discount: "75% OFF"
 saleExpiry: "2026-05-31"
 xText: "75% off super 7 and i'm genuinely shocked this happened. doesn't ever discount this hard. one of the best synth interfaces i've felt. if you've been waiting, this is your moment."
-draft: false
+draft: true
 ---
 **TL;DR:** UVI Super 7 is down to just **$19** — that's 75% off its regular price — at Audio Deluxe until May 31st. If you've been eyeing this virtual instrument, this is the kind of discount that doesn't come around often. [Grab it here before the deal expires.](https://audiodeluxe.com/collections/software/products/uvi-super-7)
 

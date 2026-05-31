@@ -11,7 +11,7 @@ originalPrice: "$99"
 discount: "50% OFF"
 saleExpiry: "2026-05-31"
 xText: "50% off slate digital fg-stress - slate gear barely discounts, so this is huge. compressor that glues a mix without sounding compressed"
-draft: false
+draft: true
 ---
 **TL;DR:** Slate Digital's FG-Stress is currently **50% off at $49.50** (regular $99) at Audio Deluxe — a rare discount on one of the most recognizable names in the Distressor-style compressor market. The deal runs until May 31st. [Grab it here.](https://audiodeluxe.com/collections/software/products/slate-digital-fg-stress)
 

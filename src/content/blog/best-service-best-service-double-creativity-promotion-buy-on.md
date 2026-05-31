@@ -10,7 +10,7 @@ dealPrice: "FREE"
 discount: "50% OFF"
 saleExpiry: "2026-05-31"
 xText: "honestly if you're sleeping on best service, this promo is your wake-up call. buy a plugin get another one free. studio upgrade literally free."
-draft: false
+draft: true
 ---
 **TL;DR:** Best Service is running a Buy One, Get One Free promotion — purchase any participating product and add a second one of equal or lesser value to your cart for free. That's up to 50% off your total spend with zero complicated math. [Browse the deal at Best Service →](https://www.bestservice.com/en/deals/best_service_2for1_promotion_7684.html)
 

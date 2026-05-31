@@ -10,7 +10,7 @@ dealPrice: "$29.99"
 discount: "70% OFF"
 saleExpiry: "2026-05-31"
 xText: "70% off the lo-fi punch - this rarely dips below $15 and it's at that price right now. makes everything sound sampled from vintage tape. serious sleeper for lo-fi and breaks."
-draft: false
+draft: true
 ---
 **TL;DR:** IK Multimedia LO-FI Punch is 70% off at Audio Deluxe, down to just **$29.99** — verify the original price on the product page. The deal runs until **May 31st**, making this a time-sensitive pick for producers hunting lo-fi textures on a real budget. [Grab it here.](https://audiodeluxe.com/collections/software/products/ik-multimedia-lo-fi-punch)
 

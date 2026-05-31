@@ -9,7 +9,7 @@ score: 4.80
 discount: "60% OFF"
 saleExpiry: "2026-05-31"
 xText: "60% off aviram dayan production's melody tools. genuinely don't see this discount on quality stuff like this. if you've been eyeing it, the math works right now."
-draft: false
+draft: true
 ---
 **TL;DR:** Aviram Dayan Production is running a Black Sale with 60% off every title in the DreaMelodiC catalogue — sitewide, no exclusions. For a direct-store independent developer, this is an unusually deep discount window. [→ Get DreaMelodiC at Direct](https://aviramdayan-dreamelodic.com/products)
 

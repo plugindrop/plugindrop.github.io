@@ -11,7 +11,7 @@ originalPrice: "$29.99"
 discount: "83% OFF"
 saleExpiry: "2026-05-31"
 xText: "$4.99 for the freq v2 (was $29.99). lowest gooey's ever been. v2 release usually means something reworked. worth the dive into what changed here"
-draft: false
+draft: true
 ---
 **TL;DR:** Gooey Audio's The Freq V2 has dropped to just **$4.99** (down from ~~$29.99~~) as an introductory launch price — that's 83% off through May 31st. If you've been sleeping on this one, now's the time to grab it. [Pick it up directly from Gooey Audio.](https://www.gooeyaudio.com/plugins/addon/freq)
 

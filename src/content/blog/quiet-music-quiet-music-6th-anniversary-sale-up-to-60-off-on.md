@@ -9,7 +9,7 @@ score: 5.47
 discount: "60% OFF"
 saleExpiry: "2026-05-31"
 xText: "quiet music is dropping 60% for their anniversary — lowest I've ever seen their tools go. the kind of deal that doesn't sit around long. if you've been waiting, this is the moment"
-draft: false
+draft: true
 ---
 **TL;DR:** Quiet Music is running a 6th Anniversary Sale with up to 60% off its entire catalog — one of the steepest discounts this indie developer has offered. The sale ends May 31st, so the window is tight. Browse the full sale at [quietmusic.eu/anniversary](https://quietmusic.eu/anniversary).
 

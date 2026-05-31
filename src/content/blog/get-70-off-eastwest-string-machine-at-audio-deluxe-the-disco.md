@@ -10,7 +10,7 @@ dealPrice: "$29"
 discount: "70% OFF"
 saleExpiry: "2026-05-31"
 xText: "string machine dropped to 70% off — absolute sleeper deal. lush orchestral beds normally cost way more; this is stupid cheap if you do that kinda work."
-draft: false
+draft: true
 ---
 **TL;DR:** EastWest String Machine is currently **70% off at just $29** at Audio Deluxe — a significant discount on a vintage string synthesizer plugin from one of the most respected names in virtual instruments. The deal runs until **May 31st**, so there's a narrow window to grab it. [Claim the deal at Audio Deluxe →](https://audiodeluxe.com/collections/software/products/eastwest-string-machine)
 

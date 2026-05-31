@@ -12,7 +12,7 @@ originalPrice: "$196"
 discount: "75% OFF"
 saleExpiry: "2026-05-31"
 xText: "kontakt cinematic libraries dropped to $49 for 7 packs. that's $7 each. 75% off never hits this hard. honestly the lowest i've seen this bundle priced"
-draft: false
+draft: true
 ---
 **TL;DR:** The Cinematic Alpha Kontakt Full 7+ Collection is currently available for $49 — a 75% discount off the standard price. For a full bundle of Kontakt-native cinematic instruments, that's a serious price drop. [Grab the deal directly here](https://cinematicalpha.com/b/Dq9s4).
 

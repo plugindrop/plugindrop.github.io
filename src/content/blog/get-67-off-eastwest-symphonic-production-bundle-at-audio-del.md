@@ -10,7 +10,7 @@ dealPrice: "$129"
 discount: "67% OFF"
 saleExpiry: "2026-05-31"
 xText: "eastwest symphonic 67% off is the lowest it's ever been. if you layer orchestral sounds you already know what this means — you're not beating this price anywhere else."
-draft: false
+draft: true
 ---
 **TL;DR:** The EastWest Symphonic Production Bundle is 67% off at Audio Deluxe — just $129 for a professional orchestral sample library from one of the most established names in the space. The deal runs until May 31st, making this a time-limited window. [Grab it at Audio Deluxe](https://audiodeluxe.com/collections/software/products/eastwest-symphonic-production-bundle).
 

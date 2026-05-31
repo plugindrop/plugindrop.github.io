@@ -12,7 +12,7 @@ originalPrice: "$199"
 discount: "35% OFF"
 saleExpiry: "2026-05-31"
 xText: "35% off orchestral library + free workstation support. you've been wanting strings in your mix. stop waiting, grab this."
-draft: false
+draft: true
 ---
 **TL;DR:** UVI's newly launched Orchestral Suite 2 symphonic library is on intro sale for ~~$199~~ **$129** — that's 35% off, saving you $70. The discount runs until May 31, 2026, and the library works with the free UVI Workstation so there's no extra player cost. [Grab the intro deal here.](https://www.pluginboutique.com/search?search_query=orchestral+suite+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-has-released-orchestral-suite-2-symphonic-orchestra-)
 

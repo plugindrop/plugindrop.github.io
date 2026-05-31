@@ -11,7 +11,7 @@ originalPrice: "$86.9"
 discount: "50% OFF"
 saleExpiry: "2026-05-31"
 xText: "quadila's 50% off—multiband fuzz rarely goes this cheap. separate saturation control on lows/mids/highs is way more useful than it sounds."
-draft: false
+draft: true
 ---
 **TL;DR:** Zen Audio's Quadila multiband fuzz plugin is now **50% off** — dropping from ~~$86.90~~ to **$43.45** through May 31st. If you've been looking for a flexible fuzz processor that works across frequency bands rather than smashing your whole signal at once, this is a solid window to grab it. [Get Quadila at the deal price →](https://zen.audio/quadila)
 

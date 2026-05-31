@@ -9,7 +9,7 @@ score: 7.63
 discount: "86% OFF"
 saleExpiry: "2026-05-31"
 xText: "samplehero kontakt percussion just hit 86% off. lowest this has ever gone. modern samples that actually cut through a mix instead of getting buried. code: SH_PercDeal_CRAZY"
-draft: false
+draft: true
 ---
 **TL;DR:** SampleHero is running an 86% off sale on their Modern Percussion + Hybrid SFX library for Kontakt — one of the steepest discounts you'll see on a dedicated percussion instrument. Verify current pricing on the product page. Use code **SH_PercDeal_CRAZY** at checkout and grab it at [SampleHero's product page](https://samplehero.com/collections/virtual-instruments/products/modern-percussion-hybrid-sfx).
 
