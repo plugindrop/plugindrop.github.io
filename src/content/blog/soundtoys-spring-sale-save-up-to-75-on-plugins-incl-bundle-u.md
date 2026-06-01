@@ -1,6 +1,50 @@
 ---
 title: "Little Alterboy: Features, Pricing & Is It Worth It? (2026)"
-description: "Little AlterBoy by Soundtoys: vocal pitch & formant plugin. Check 2026 pricing at Plugin Boutique—up to 75% off during the Soundtoys Spring Sale." discussions alongside more clinical tools, positioned as the go-to option when producers want character rather than transparency. Community reception has remained broadly positive since its release.
+description: "Little AlterBoy is a vocal pitch and formant processing plugin developed by Soundtoys."
+pubDate: '2026-04-14T11:06:16Z'
+tags: ["review", "soundtoys", "music-production", "bundle"]
+affiliate: "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u&a_aid=69cb95abe1763"
+heroImage: /images/soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u.jpg
+score: 8.16
+draft: false
+converted: true
+---
+**Little Alterboy** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u&a_aid=69cb95abe1763)
+
+---
+
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yt8pFK6fJk4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Soundtoys doesn't flood the market with discounts every month. When they do run a sale, especially one touching 75%, it's worth paying attention — particularly if Little AlterBoy or the full Soundtoys bundle has been on your wishlist.
+
+---
+
+## What Is Little AlterBoy?
+
+Little AlterBoy is a vocal pitch and formant processing plugin developed by Soundtoys. It's built specifically for vocal transformation — shifting pitch, altering formants, and adding harmonic texture in ways that range from subtle correction to full-on character changes.
+
+It sits in Soundtoys' lineup of creative effects processors, a catalog known for analog-inspired sound design tools rather than clinical, transparent processing.
+
+---
+
+## Key Features
+
+- **Pitch Shifting** — Shift vocal pitch up or down with control over cents and semitones for both corrective and creative applications.
+- **Formant Control** — Adjust formants independently from pitch, letting you change the "size" of a voice without affecting tuning.
+- **Drive Circuit** — Analog-modeled saturation designed to add warmth or grit to processed vocals.
+- **Mode Selection** — Multiple processing modes including Transpose and Quantize, useful for harmonization and pitch-locking effects.
+- **Mix Knob** — Blend between the dry signal and processed output for parallel processing workflows.
+- **Tweak Control** — A single macro knob that adjusts multiple parameters simultaneously for fast character changes.
+
+---
+
+## What Producers Are Saying
+
+Little AlterBoy has a consistent presence in mixing and production forums. On KVR Audio and Reddit's r/synthesizers and r/WeAreTheMusicMakers, it's commonly recommended for creative vocal work — particularly the formant-shifting capabilities, which users frequently mention as a standout feature at this price tier.
+
+It appears regularly in "must-have vocal plugins" discussions alongside more clinical tools, positioned as the go-to option when producers want character rather than transparency. Community reception has remained broadly positive since its release.
 
 ---
 

@@ -1,6 +1,42 @@
 ---
 title: "EchoBoy: Features, Pricing & Is It Worth It? (2026)"
-description: "EchoBoy by Soundtoys delivers 30+ vintage tape & analog echo styles. Get features, pricing, and verdict on whether this delay plugin is worth it in 2026." EchoBoy is routinely the first name mentioned.
+description: "EchoBoy is a delay and echo plugin developed by Soundtoys. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-28T13:53:39Z'
+tags: ["review", "vst-plugin", "effects", "music-production"]
+affiliate: https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=echoboy-4858a0
+heroImage: /images/echoboy-4858a0.jpg
+score: 8.50
+draft: true
+converted: true
+---
+**EchoBoy** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=echoboy-4858a0)
+
+---
+
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_UDFXfdMnYc" title="EchoBoy — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## What Is EchoBoy?
+
+EchoBoy is a delay and echo plugin developed by Soundtoys. It models the character of vintage tape echo units, analog delays, and digital echo hardware, giving producers access to a wide tonal palette from a single plugin. Soundtoys has been building DSP tools for professional studios since the late 1990s, and EchoBoy sits at the center of their lineup as their flagship delay processor. It runs as VST, AU, and AAX on both Mac and Windows.
+
+---
+
+## Key Features
+
+- **Multiple Echo Styles** — EchoBoy includes a library of echo "styles" that model specific hardware devices, each with distinct tonal character and saturation behavior.
+- **Rhythm Echo Mode** — A dedicated rhythmic mode lets you dial in complex syncopated delay patterns beyond simple repeats.
+- **Dual Echo Engine** — The plugin can run two independent delay lines simultaneously, enabling stereo ping-pong and more complex spatial effects.
+- **Saturation and Drive Controls** — Built-in saturation parameters allow you to push the signal into warm tape-style overdrive without external processing.
+- **Groove and Swing** — A timing deviation control lets delays drift slightly off the grid for a more human, tape-like feel.
+- **LFO Modulation** — Onboard modulation shapes the delay time and other parameters for chorus-adjacent shimmer or subtle pitch movement.
+
+---
+
+## What Producers Are Saying
+
+EchoBoy has been a fixture in professional production discussions for well over a decade. On forums like GearSpace and Reddit's r/mixingmastering, it's consistently named alongside Valhalla DSP tools as one of the delay plugins worth paying for. Users frequently cite its saturation character as the differentiator — the ability to add tape grit directly in the delay path rather than chaining a separate saturator. In discussions about "essential Soundtoys plugins," EchoBoy is routinely the first name mentioned.
 
 ---
 

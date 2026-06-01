@@ -1,6 +1,24 @@
 ---
 title: "smart bundle: Features, Pricing & Is It Worth It? (2026)"
-description: "Sonible smart:bundle review 2026 — AI-powered smart:EQ, smart:comp & smart:reverb in one pack. See current Plugin Boutique price & is it worth it." allowfullscreen></iframe>
+description: "smart bundle is available at Plugin Boutique. Check current pricing and reviews on the product page."
+pubDate: '2026-05-01T16:18:23Z'
+tags: ["review", "effects", "bundle", "music-production"]
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa"
+heroImage: /images/smart-bundle-0d04fa.jpg
+score: 10.00
+draft: false
+converted: true
+---
+**smart bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa)
+
+---
+
+---
+
+---
+
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BwN005pDyFA" title="smart bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is the Sonible smart:bundle?

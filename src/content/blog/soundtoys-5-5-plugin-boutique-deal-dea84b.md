@@ -1,6 +1,42 @@
 ---
 title: "Soundtoys 5.5 Effects Bundle: Features, Pricing & Is It Worth It? (2026)"
-description: "Soundtoys 5.5 Effects Bundle review: 21 award-winning plugins including Decapitator, EchoBoy & Little AlterBoy. See 2026 pricing and sale deals." threads as one of the few delays producers say they'd never give up. The bundle as a whole is commonly described in production communities as a creative effects collection rather than a utility set — the choice when you want your processing to have a distinct personality.
+description: "Soundtoys 5.5 Effects Bundle is available at Plugin Boutique. Check current pricing and reviews on the product page."
+pubDate: '2026-04-19T02:32:59Z'
+tags: ["review", "vst-plugin", "effects", "music-production", "bundle"]
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-5-5-plugin-boutique-deal-dea84b&a_aid=69cb95abe1763"
+heroImage: /images/soundtoys-5-5-plugin-boutique-deal-dea84b.jpg
+score: 10.00
+draft: false
+converted: true
+---
+**Soundtoys 5.5 Effects Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-5-5-plugin-boutique-deal-dea84b&a_aid=69cb95abe1763)
+
+---
+
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Q4mXLF62XpI" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## What Is Soundtoys 5.5?
+
+Soundtoys 5.5 is the complete bundle from Soundtoys, a company widely recognized for building some of the most characterful and sonically distinct audio plugins on the market. The bundle packages their full lineup of effects — from saturators and delays to pitch tools and rhythm processors — into a single collection. Soundtoys built their reputation on analog-inspired processing, emulating vintage hardware behavior rather than chasing surgical precision. This is the version for producers who want texture, movement, and vibe baked into their signal chain.
+
+---
+
+## Key Features
+
+- **EchoBoy** — Soundtoys' flagship delay plugin, offering a wide range of delay styles from tape echo to digital, with deep rhythm and feel controls.
+- **Decapitator** — An analog saturation plugin modeled on five classic hardware units, covering everything from subtle warmth to extreme overdrive.
+- **PrimalTap** — A recreation of the classic Lexicon Prime Time digital delay, known for its lo-fi, experimental character.
+- **Radiator** — A preamp and EQ emulation based on the Altec 1567A mixer, designed to add harmonic color to any signal.
+- **Little AlterBoy** — A real-time voice transformation and pitch shifting tool, commonly used for vocal manipulation in pop, hip-hop, and electronic music.
+- **Tremolator, PanMan, and FilterFreak** — Modulation tools that sync to tempo, enabling rhythmic gating, panning, and filtering effects.
+
+---
+
+## What Producers Are Saying
+
+Soundtoys has been a recurring recommendation on mixing and sound design forums for well over a decade. On KVR Audio and Reddit's r/WeAreTheMusicMakers, Decapitator in particular is frequently mentioned as a go-to saturation plugin for both subtle analog warmth and aggressive distortion. EchoBoy consistently appears in "desert island plugin" threads as one of the few delays producers say they'd never give up. The bundle as a whole is commonly described in production communities as a creative effects collection rather than a utility set — the choice when you want your processing to have a distinct personality.
 
 ---
 

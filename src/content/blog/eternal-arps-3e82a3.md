@@ -1,6 +1,20 @@
 ---
 title: "Eternal Arps: Features, Pricing & Is It Worth It? (2026)"
-description: "Eternal Arps MIDI arpeggiator: features, presets, workflow, and current 2026 Plugin Boutique price - everything you need to decide if it's worth buying." allowfullscreen></iframe>
+description: "Eternal Arps is a MIDI arpeggiator plugin available through Plugin Boutique. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T18:28:41Z'
+tags: ["review", "vst-plugin", "effects", "music-production"]
+affiliate: "https://www.pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3"
+heroImage: /images/eternal-arps-3e82a3.jpg
+score: 7.73
+draft: true
+converted: true
+---
+**Eternal Arps** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3)
+
+---
+
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_1YTR___FQk" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is Eternal Arps?

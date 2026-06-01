@@ -1,6 +1,20 @@
 ---
 title: "INTENSITY 2: Features, Pricing & Is It Worth It? (2026)"
-description: "INTENSITY 2 dynamics processor adds punch, clarity, and excitement to mixes. See features, pricing, and whether it's worth buying in 2026." allowfullscreen></iframe>
+description: "INTENSITY 2 is a dynamics processor plugin available through Plugin Boutique. Check current pricing at Plugin Boutique."
+pubDate: '2026-04-23T18:28:07Z'
+tags: ["review", "vst-plugin", "effects", "music-production"]
+affiliate: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=intensity-2-cfc08a"
+heroImage: /images/intensity-2-cfc08a.jpg
+score: 8.32
+draft: true
+converted: true
+---
+**INTENSITY 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=intensity-2-cfc08a)
+
+---
+
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_whRLEwHx-M" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is INTENSITY 2?

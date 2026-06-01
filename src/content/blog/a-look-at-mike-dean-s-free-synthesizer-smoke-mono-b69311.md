@@ -1,6 +1,22 @@
 ---
 title: "A look at Mike Dean's free synthesizer \"Smoke Mono\""
-description: "Mike Dean's "Smoke Mono" synth plugin is 100% free — no trial, no paywall. Grab the hip-hop legend's signature sound for your rack now."></iframe>
+description: "Mike Dean's Smoke Mono synth plugin is 100% free — no trial, no paywall. Grab the hip-hop legend's signature sound for your rack now."
+pubDate: "2026-04-22T23:12:21Z"
+tags: ["free", "synth", "music-production"]
+affiliate: "https://www.youtube.com/watch"
+heroImage: "/images/a-look-at-mike-dean-s-free-synthesizer-smoke-mono-b69311.jpg"
+score: 8.10
+dealPrice: "FREE"
+xText: "mike dean just dropped a free synth that sounds way more expensive than zero dollars. unison mode is the sleeper feature here. go grab it"
+draft: false
+---
+**TL;DR:** Mike Dean's "Smoke Mono" synthesizer is completely free — no catch, no trial, no paywall. This is a rare chance to add a plugin from one of hip-hop's most influential producers to your rack at zero cost. [Grab it here.](https://www.youtube.com/watch)
+
+---
+
+## What Is Smoke Mono?
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/3lDGPOR-9Sk" title="Mike Dean&#39;s New &quot;Smoke Mono&quot; Plugin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
 

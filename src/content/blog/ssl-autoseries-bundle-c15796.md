@@ -1,6 +1,20 @@
 ---
 title: "SSL autoSeries Bundle: Features, Pricing & Is It Worth It? (2026)"
-description: "SSL autoSeries Bundle 2026 review: auto-EQ, auto-gate & auto-dynamics features, current Plugin Boutique price and whether it's worth buying." allowfullscreen></iframe>
+description: "SSL autoSeries Bundle is available at Plugin Boutique. Check current pricing and reviews on the product page."
+pubDate: '2026-05-01T16:18:25Z'
+tags: ["review", "bundle", "effects", "music-production"]
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16626-SSL-autoSeries-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-autoseries-bundle-c15796"
+heroImage: /images/ssl-autoseries-bundle-c15796.jpg
+score: 10.00
+draft: false
+converted: true
+---
+**SSL autoSeries Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16626-SSL-autoSeries-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-autoseries-bundle-c15796)
+
+---
+
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_w1bBYjwVPo" title="SSL autoSeries Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is the SSL autoSeries Bundle?
