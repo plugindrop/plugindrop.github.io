@@ -18,7 +18,7 @@ draft: false
 ---
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/UY9DR9pi4BI" title="Universal Audio — Get 50% off Paradise Guitar Studio by Universal Audio for $99 (Normally $199) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IlIz38Mh6vE" title="Universal Audio — Get 50% off Paradise Guitar Studio by Universal Audio for $99 (Normally $199) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

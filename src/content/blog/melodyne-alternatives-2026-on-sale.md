@@ -16,6 +16,11 @@ draft: false
 
 **TL;DR:** Melodyne is currently on sale for $24.00—a stunning 76% off the $99 regular price. Here's how it stacks up against Auto-Tune, Waves Tune Real-Time, and Antares Auto-Tune EFX+ at this game-changing deal price.
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/wr3NXDi8Z0A" title="The Best Pitch Correction Plugin for Vocals (With Live Sound Tests!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## Is Melodyne Worth It at $24.00?
 
 At full price, Melodyne sits in the mid-range for pitch correction tools. But at $24.00, it becomes one of the most cost-effective entry points into professional vocal tuning and pitch editing. Melodyne's core strength is its visual, graphical editing interface—you see the pitch on a note-by-note basis and can adjust timing and vibrato with precision that's hard to match. This makes it ideal for detailed editing work, especially on vocals and monophonic instruments.

@@ -22,6 +22,11 @@ draft: false
 </div>
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/50m2Q7wPUFg" title="A Laughable Sales Pitch - The Unison MIDI Chord Pack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Unison MIDI Chord Pack?
 
 The Unison MIDI Chord Pack is a professionally crafted collection of MIDI chord progressions from Unison Audio, a brand known for producing music production tools, presets, and educational resources aimed at modern beatmakers and producers. The pack delivers ready-to-use MIDI files containing fully voiced chord progressions that load directly into any DAW. Rather than spending time manually constructing harmony from scratch, producers can drag these chords straight onto their timeline and build from there.
