@@ -12,7 +12,7 @@ originalPrice: "$1188"
 discount: "95% OFF"
 saleExpiry: "2026-06-02"
 xText: "24-sound kontakt bundle at dollar per instrument. 95% off hollywood audio design. this pricing is rare. if you work with kontakt, grab it."
-draft: false
+draft: true
 ---
 **TL;DR:** Hollywood Audio Design's 24-in-1 Premium Complete Bundle is down to **$59.95** (~~$1,188~~ regular price) — a 95% saving that works out to roughly $2.50 per library. If you own the full version of Kontakt and need a bulk collection of cinematic and audio-design instruments, [grab the deal here](https://vstalarm.com/product/premium-complete-bundle-24-by-hollywood-audio-design/).
 

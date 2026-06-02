@@ -11,7 +11,7 @@ originalPrice: "$69"
 discount: "72% OFF"
 saleExpiry: "2026-06-02"
 xText: "speedrum be just hit $19 normally $69. one of those deals where you actually make the jump. sits perfect for beat work. this won't last at this price"
-draft: false
+draft: true
 ---
 **TL;DR:** Speedrum BE by Apisonic Labs / ZamplerSounds is currently **$19** (~~$69~~) — a 72% discount that saves you $50 on a dedicated drum sampler. It's a straightforward pickup for producers who want a capable drum instrument without the flagship price tag. [Grab the deal here.](https://audioplugin.deals/product/apisonic-labs-speedrum-be-by-zamplersounds/ref/21/)
 

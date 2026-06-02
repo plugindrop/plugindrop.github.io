@@ -11,7 +11,7 @@ originalPrice: "$130"
 discount: "61% OFF"
 saleExpiry: "2026-06-02"
 xText: "robbie hutton's vocal toplines just dropped to $49.99 (was $130). per-vocal math is wild. literally less than a splice subscription to completely refresh your edm sample library."
-draft: false
+draft: true
 ---
 **TL;DR:** Robbie Hutton's EDM Vocal Toplines Bundle is currently **$49.99** — down from ~~$130~~ — a 61% saving on a dedicated set of professionally recorded vocal hooks built for electronic dance music production. One-time purchase, no subscription required. [Grab it here.](https://audioplugin.deals/product/edm-vocal-toplines-bundle-by-robbie-hutton/ref/21/)
 
