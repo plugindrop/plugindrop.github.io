@@ -10,7 +10,7 @@ dealPrice: "$17.4"
 originalPrice: "$29"
 discount: "40% OFF"
 xText: "do the math: 40% off this 90s drum loop bundle and we're talking ridiculous per-sample cost. the kind of price where you stop overthinking and just grab it. been hunting that vibe all year anyway"
-draft: false
+draft: true
 ---
 **TL;DR:** The Master Of Dreams 90S Drum Loops Remake Bundle is **40% off** at ADSR Sounds right now — ~~$29~~ down to **$17.40**. That's $11.60 back in your pocket for a bundle purpose-built around authentic 90s drum aesthetics. [Grab it at the deal price here.](https://www.adsrsounds.com/product/presets/master-of-dreams-90s-drum-loops-remake-bundle/?a_aid=plugindrop&data1=master-of-dreams-90s-drum-loops-remake-bundle-828d12&utm_source=plugindrop&utm_medium=article&utm_campaign=master-of-dreams-90s-drum-loops-remake-bundle-828d12)
 

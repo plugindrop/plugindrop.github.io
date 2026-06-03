@@ -10,7 +10,7 @@ dealPrice: "$79.00"
 originalPrice: "$139.00"
 discount: "43% OFF"
 xText: "43% off fixate's new midrange—fresh plugins don't discount this fast. normally it's months of full price. if you've been waiting to upgrade your eq game, this is the moment"
-draft: false
+draft: true
 ---
 **TL;DR:** Fixate Midrange is 43% off at Plugin Boutique right now — down from ~~$139~~ to just $79, putting $60 back in your pocket. If the midrange is where your mixes consistently fall apart, [this deal is worth a serious look](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17321-Fixate-Midrange?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fixate-midrange-68d19f).
 

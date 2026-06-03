@@ -8,7 +8,7 @@ heroImage: "/images/sonic-bundle-84335e.jpg"
 score: 10.00
 dealPrice: "$799.00"
 xText: "sonic bundle 38% off. suddenly individual plugins don't look worth their price anymore. that's the kind of deal that rewires your setup strategy"
-draft: false
+draft: true
 ---
 **TL;DR:** The Sonic Bundle is currently 38% off on Plugin Boutique — dropping from ~~$799~~ to **$499**, saving you $300 on a collection of production-ready audio tools. If you've been eyeing this bundle, [grab it now at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/14774-Sonic-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sonic-bundle-84335e) before the deal expires.
 

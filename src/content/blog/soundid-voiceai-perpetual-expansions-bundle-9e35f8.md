@@ -10,7 +10,7 @@ dealPrice: "$99.00"
 originalPrice: "$149.00"
 discount: "34% OFF"
 xText: "34% off soundid voiceai bundle with perpetual licenses. vocal producers keep the tools forever, not stuck in subscription hell. that math works different than you think."
-draft: false
+draft: true
 ---
 **TL;DR:** The SoundID VoiceAI Perpetual Expansions Bundle is currently **34% off** at Plugin Boutique — drop from ~~$149~~ to **$99**, saving you $50 on a one-time perpetual license. If you've been building out your AI vocal toolkit, [grab it here before the price resets](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15969-SoundID-VoiceAI-Perpetual-Expansions-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-voiceai-perpetual-expansions-bundle-9e35f8).
 

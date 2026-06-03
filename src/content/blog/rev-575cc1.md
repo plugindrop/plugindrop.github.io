@@ -10,7 +10,7 @@ dealPrice: "$79.99"
 originalPrice: "$199.00"
 discount: "59% OFF"
 xText: "rev just hit 50% off and it's the lowest i've ever seen. new release with algorithms that actually land different in a mix. deal won't last at this price"
-draft: false
+draft: true
 ---
 **TL;DR:** REV is currently 50% off at Plugin Boutique — dropping from ~~$199.00~~ to **$99.50**. That's a $99.50 saving on a Kontakt instrument library. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/1513-REV?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rev-575cc1)
 

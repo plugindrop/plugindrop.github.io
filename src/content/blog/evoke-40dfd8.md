@@ -10,7 +10,7 @@ dealPrice: "$64.50"
 originalPrice: "$129.00"
 discount: "50% OFF"
 xText: "evoke hit 50% off on launch day—that's the rare moment when new plugin excitement and actual deal pricing line up at once."
-draft: false
+draft: true
 ---
 **TL;DR:** Evoke is currently 50% off at Plugin Boutique — dropping from ~~$129.00~~ to **$64.50**. That's a solid $64.50 in savings on a dedicated vocal processing plugin. [Grab it here before the deal expires.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15793-Evoke?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evoke-40dfd8)
 

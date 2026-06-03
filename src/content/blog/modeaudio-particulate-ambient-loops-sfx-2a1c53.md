@@ -10,7 +10,7 @@ dealPrice: "$11.4"
 originalPrice: "$19"
 discount: "40% OFF"
 xText: "40% off modeaudio's particulate ambient loops. granular textures sitting in a mix like butter, no clutter. rarely see discounts this good. essential for cinematic scoring work"
-draft: false
+draft: true
 ---
 **TL;DR:** Modeaudio's Particulate Ambient Loops SFX is currently **40% off** at ADSR Sounds — dropping from ~~$19~~ to just **$11.40**. That's a solid entry price for a dedicated atmospheric texture library from one of the more consistent sample pack makers in the game. [Grab it here while the deal is live.](https://www.adsrsounds.com/product/presets/modeaudio-particulate-ambient-loops-sfx/?a_aid=plugindrop&data1=modeaudio-particulate-ambient-loops-sfx-2a1c53&utm_source=plugindrop&utm_medium=article&utm_campaign=modeaudio-particulate-ambient-loops-sfx-2a1c53)
 

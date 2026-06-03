@@ -10,7 +10,7 @@ dealPrice: "$50.00"
 originalPrice: "$129.00"
 discount: "61% OFF"
 xText: "90% off total tapes 2026. full tape suite in a bundle. pricing this deep doesn't come around often. do the math if you're thinking about upgrading your chain."
-draft: false
+draft: true
 ---
 **TL;DR:** Total Tapes 2026 is 90% off right now at Plugin Boutique — ~~$799.92~~ down to just **$79.99**. That's over $720 in savings on a full tape effects bundle. [Grab the deal here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17289-Total-Tapes-2026?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-tapes-2026-e44150)
 

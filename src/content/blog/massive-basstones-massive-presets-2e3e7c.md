@@ -8,7 +8,7 @@ heroImage: "/images/massive-basstones-massive-presets-2e3e7c.jpg"
 score: 5.16
 dealPrice: "$22"
 xText: "basstones massive presets just dropped. clean sound design, modern production character, actually sits in a mix. fresh tones that work. if you're looking to expand your bass toolkit, worth the check."
-draft: false
+draft: true
 ---
 **TL;DR:** Massive Basstones is a dedicated bass preset pack for Native Instruments Massive, available now at ADSR Sounds for **$22** — verify original pricing on the product page to see your full savings. If your Massive library is thin on low-end firepower, [grab it here](https://www.adsrsounds.com/product/massive-presets/massive-basstones-massive-presets/?a_aid=plugindrop&data1=massive-basstones-massive-presets-2e3e7c&utm_source=plugindrop&utm_medium=article&utm_campaign=massive-basstones-massive-presets-2e3e7c).
 

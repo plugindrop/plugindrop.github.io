@@ -10,7 +10,7 @@ dealPrice: "$12"
 originalPrice: "$19"
 discount: "37% OFF"
 xText: "serum just got daft punk presets and they're not what i expected—locked-in minimal house textures that sit in a mix like butter. tonepusher's new electro palette is an absolute sleeper"
-draft: false
+draft: true
 ---
 **TL;DR:** Tonepusher's Daft Tones Electro Serum Presets are currently on sale at ADSR Sounds for **$12**, down from the regular $19 — that's roughly 37% off for a pack of electro-focused Serum presets built for modern production. [Grab the deal at ADSR Sounds.](https://www.adsrsounds.com/product/presets/tonepusher-daft-tones-electro-serum-presets/?a_aid=plugindrop&data1=tonepusher-daft-tones-electro-serum-presets-08fc76&utm_source=plugindrop&utm_medium=article&utm_campaign=tonepusher-daft-tones-electro-serum-presets-08fc76)
 

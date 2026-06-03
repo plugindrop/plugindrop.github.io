@@ -10,7 +10,7 @@ dealPrice: "$69.00"
 originalPrice: "$149.00"
 discount: "54% OFF"
 xText: "54% off vintagewarmer2 — tape saturation that works on everything and costs almost nothing right now. one of those purchases you'll appreciate in 3 months"
-draft: false
+draft: true
 ---
 **TL;DR:** PSP VintageWarmer2 is down to **$69** (~~$149~~) at Plugin Boutique — that's $80 off and one of the steeper percentage discounts this plugin has seen. If analog warmth and saturation are gaps in your mix toolkit, [grab it here before the deal ends](https://www.pluginboutique.com/product/2-Effects/8-Compressor/123-PSP-VintageWarmer2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=psp-vintagewarmer2-b555ec).
 

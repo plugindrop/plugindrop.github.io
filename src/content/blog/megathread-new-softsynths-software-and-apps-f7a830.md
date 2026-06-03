@@ -7,7 +7,7 @@ affiliate: "https://www.databricks.com/blog/passing-security-vibe-check-dangers-
 heroImage: "/images/megathread-new-softsynths-software-and-apps-f7a830.jpg"
 score: 9.36
 xText: "megathread just dropped new synths and the sound design potential is genuinely fresh. if you've been hunting for new tools with actual character, this is worth the dive"
-draft: false
+draft: true
 ---
 **TL;DR:** The r/synthesizers New Softsynths Megathread is a live, community-curated directory of freshly released VSTs, virtual synths, Max Devices, and apps — free and paid. Developers post directly, so you get first-look access before word spreads elsewhere. Verify current pricing on individual product pages. Before downloading vibe-coded tools, [read up on the risks first](https://www.databricks.com/blog/passing-security-vibe-check-dangers-vibe-coding).
 

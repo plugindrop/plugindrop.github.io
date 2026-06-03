@@ -10,7 +10,7 @@ dealPrice: "$79.00"
 originalPrice: "$149.00"
 discount: "47% OFF"
 xText: "orange vocoder iv just shipped at 47% off (lowest since launch). this vocoder actually works for serious production, not just the robotic fun-stuff. now's the time if you've been waiting."
-draft: false
+draft: true
 ---
 **TL;DR:** ORANGE VOCODER IV is 47% off at Plugin Boutique right now — down from ~~$149.00~~ to **$79.00**, a straight $70 saving. For producers who've been sitting on adding a dedicated vocoder to their setup, this is a meaningful price drop worth acting on. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/43-Vocoder/10533-ORANGE-VOCODER-IV?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=orange-vocoder-iv-74bee5)
 

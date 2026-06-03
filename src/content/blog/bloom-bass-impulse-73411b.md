@@ -10,7 +10,7 @@ dealPrice: "$39.00"
 originalPrice: "$59.00"
 discount: "34% OFF"
 xText: "bloom bass impulse at 34% off—these rarely go this deep. sits like butter in a mix, dense enough it won't disappoint. worth grabbing if you do bass work."
-draft: false
+draft: true
 ---
 **TL;DR:** Bloom Bass Impulse is currently 34% off at Plugin Boutique — drop from ~~$59.00~~ to just $39.00, saving you $20.00. That's a meaningful cut for a dedicated bass instrument. [Grab it here before the deal expires.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11968-Bloom-Bass-Impulse?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-bass-impulse-73411b)
 

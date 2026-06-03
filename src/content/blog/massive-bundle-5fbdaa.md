@@ -9,7 +9,7 @@ score: 6.60
 dealPrice: "$20"
 discount: "80% OFF"
 xText: "break down the per-plugin cost on this massive bundle and the math just works. value play that makes sense if you're building a toolkit"
-draft: false
+draft: true
 ---
 **TL;DR:** The Massive Bundle is currently $20 at ADSR Sounds — a solid grab if you produce with Native Instruments Massive and want to fill out your preset library fast. Original pricing varies, so verify savings on the product page before the deal ends. [Grab it here.](https://www.adsrsounds.com/product/presets/massive-bundle/?a_aid=plugindrop&data1=massive-bundle-5fbdaa&utm_source=plugindrop&utm_medium=article&utm_campaign=massive-bundle-5fbdaa)
 

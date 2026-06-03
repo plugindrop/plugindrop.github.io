@@ -10,7 +10,7 @@ dealPrice: "$199.00"
 originalPrice: "$499.00"
 discount: "60% OFF"
 xText: "drum machine collection at 60% off and the per-unit cost is stupid cheap. lowest price i've seen on this collection."
-draft: false
+draft: true
 ---
 **TL;DR:** The Drum Machine Collection is now 60% off at Plugin Boutique — ~~$499~~ **$199** for 16 vintage drum machines in a single bundle. That breaks down to roughly $12.44 per machine. [Grab it here before the deal ends.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15283-Drum-Machine-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=drum-machine-collection-c8ab7a)
 

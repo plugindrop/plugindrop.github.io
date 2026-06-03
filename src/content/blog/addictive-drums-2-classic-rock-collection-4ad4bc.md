@@ -10,7 +10,7 @@ dealPrice: "$101.40"
 originalPrice: "$169.00"
 discount: "40% OFF"
 xText: "addictive drums 2 just dropped to 40% off and the bundle math on classic rock collection is stupid good. per-kit cost basically evaporates. rare pricing."
-draft: false
+draft: true
 ---
 **TL;DR:** Addictive Drums 2 Classic Rock Collection is currently **$101.40** (was ~~$169.00~~) at Plugin Boutique — a 40% discount that puts $67.60 back in your budget. For producers already in the AD2 ecosystem, this is a straightforward pickup. [Grab it here.](https://www.pluginboutique.com/product/1-Instruments/70-Expansion-Packs/8235-Addictive-Drums-2-Classic-Rock-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-classic-rock-collection-4ad4bc)
 

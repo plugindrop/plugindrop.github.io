@@ -9,7 +9,7 @@ aiImage: true
 score: 4.08
 dealPrice: "$67"
 xText: "new unison midi chord pack just dropped and it's different—progressions actually feel produced instead of templated. if you're building a lot this saves mad time"
-draft: false
+draft: true
 ---
 **TL;DR:** The Unison MIDI Chord Pack (officially listed as the MIDI Wizard Beatmaker Expansion Pack) is available now for **$67** at Unison Audio — a ready-to-drop MIDI library built around studio-grade chord progressions for modern producers. Verify current pricing on the product page, as deals can change. [Grab it at Unison Audio →](https://unison.audio/ref/jc374/product/midi-wizard-beatmaker-expansion-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-chord-pack-0a31f8)
 

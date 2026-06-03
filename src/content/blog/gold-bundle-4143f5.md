@@ -10,7 +10,7 @@ dealPrice: "$114.99"
 originalPrice: "$799.00"
 discount: "85% OFF"
 xText: "80% off gold bundle means you're actually thinking through your setup instead of random singles. per-plugin cost hits different at this price."
-draft: false
+draft: true
 ---
 **TL;DR:** The Gold Bundle on Plugin Boutique is currently 80% off — down to just $159.00 from ~~$799.00~~, saving you $640. That's a significant chunk of tools for a fraction of the full price. [Grab the Gold Bundle here.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12534-Gold-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=gold-bundle-4143f5)
 
