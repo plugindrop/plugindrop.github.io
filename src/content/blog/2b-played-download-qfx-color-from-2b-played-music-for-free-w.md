@@ -18,6 +18,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/-qunywIk6gk" title="Best FREE Reverb Plugin For Music Production 2B REVERBED By 2B Played LIMITED TIME - Sound Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is QFX Color?
 
 QFX Color is an audio processing plugin from 2B Played Music built around the concept of "color grading" for sound. The idea is borrowed from video post-production — instead of just correcting audio, you're applying intentional tonal character and harmonic texture to shape its identity. 2B Played Music develops character-driven tools aimed at producers who want something beyond standard mixing utilities.

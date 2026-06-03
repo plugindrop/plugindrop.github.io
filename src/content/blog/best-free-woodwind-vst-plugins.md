@@ -12,6 +12,11 @@ draft: false
 ---
 **TL;DR:** BBC Symphony Orchestra Discover is the best free woodwind VST in 2026 — it delivers professional orchestral flute, oboe, clarinet, and bassoon recorded with the actual BBC Symphony Orchestra, at no cost. For dedicated saxophone sounds, the free tier is genuinely thin; the honest upgrade path leads to Cinesamples CineWoodwinds or BBC Symphony Orchestra Core.
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/EXo6O9I4A8E" title="VG Jazz Alto Saxophone sample library for Native Instruments Kontakt. Woodwind and brass vst nki wav" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

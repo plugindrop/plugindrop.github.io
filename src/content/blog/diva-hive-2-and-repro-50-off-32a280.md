@@ -19,6 +19,11 @@ draft: false
 </div>
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/QQ0tjIX3z70" title="U-he Synth Bundle - DIVA, Repro1, Hive 2, &amp; Zebra for Limited Time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Are Diva, Hive 2, and Repro?
 
 u-he is a German audio software developer known for precision analog modeling and exacting sound quality. This promotion covers three distinct synthesizers, each targeting a different workflow. Together they cover a wide range of synthesis approaches — from CPU-intensive analog emulation to lightweight hybrid design.
