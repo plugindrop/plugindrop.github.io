@@ -18,6 +18,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/dGtrH5U9cMo" title="Behringer - RV600 Reverb Machine - Stereo Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Synth Icons Bundle by Reverb Machine?
 
 The Synth Icons Bundle is a collection of synthesizer instruments from Reverb Machine, an independent plugin developer specializing in virtual instruments for modern music production. The bundle packages multiple synth titles under one purchase, making it a cost-efficient way to expand your instrument library in one shot. It's sold directly, meaning no storefront markup — just the developer's own pricing.
