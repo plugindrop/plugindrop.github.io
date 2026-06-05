@@ -17,6 +17,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/xbewuwcTs2I" title="Add Depth &amp; Motion to Your Tracks in 10 Seconds - Visage by Gooey Audio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Gooey Audio?
 
 Gooey Audio is an independent audio plug-in developer focused on creative and utility tools for music producers and sound designers. Their Add-On Plug-ins are designed to expand your existing workflow — supplementary processors, effects, and utilities that sit alongside your core toolkit. At the standard price point, they sit comfortably in the mid-range indie plugin market. At $4.99, the barrier to entry essentially disappears.
