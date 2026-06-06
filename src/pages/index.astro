@@ -87,39 +87,11 @@ function isSamplePackDeal(post: any): boolean {
 	return post.data.tags?.includes('sample-pack-deal') ?? false;
 }
 
-// 同一製品ファミリーの重複排除（例: Ozone 12 Advanced と Ozone 12 Standard を同時表示しない）
-function getProductBase(title: string): string {
-	return title
-		.replace(/^\d+%\s*off\s*/i, '')                          // "23% Off" を除去
-		.replace(/\bat\s+(plugin\s+boutique|audio\s+\w+|kvr\s*\w*).*/i, '') // "at Plugin Boutique..." を除去
-		.replace(/\b(standard|advanced|elements|pro|lite|basic|ultimate|complete|bundle|upgrade|intro\s+price)\b/gi, '')
-		.replace(/\s+/g, ' ')
-		.trim()
-		.toLowerCase()
-		.slice(0, 30);                                            // 先頭30文字で比較
-}
-
-function dedupeByProduct<T extends { data: { title?: string } }>(posts: T[], max: number): T[] {
-	const seen = new Set<string>();
-	const result: T[] = [];
-	for (const p of posts) {
-		const base = getProductBase(p.data.title ?? '');
-		if (!seen.has(base)) {
-			seen.add(base);
-			result.push(p);
-		}
-		if (result.length >= max) break;
-	}
-	return result;
-}
-
 // Editor's Picks: scored paid deals, non-expired, with affiliate + hero image (FREE excluded → shown in Free Deals section)
-const topDeals = dedupeByProduct(
-	heroPosts
-		.filter(p => p.data.affiliate && !isExpired(p) && isRealDeal(p) && !isFreePrice(p.data.dealPrice) && !isSamplePackDeal(p))
-		.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0)),
-	4
-);
+const topDeals = heroPosts
+	.filter(p => p.data.affiliate && !isExpired(p) && isRealDeal(p) && !isFreePrice(p.data.dealPrice) && !isSamplePackDeal(p))
+	.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
+	.slice(0, 4);
 
 const topIds = new Set(topDeals.map(p => p.id));
 
