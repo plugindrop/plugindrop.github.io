@@ -214,24 +214,20 @@ The free plugins above are production-ready. These three paid options are for pr
 ---
 
 ## FAQ
+**Q: Are free reverb VST plugins good enough for professional mixing?**
+A: Yes, for most use cases. Valhalla Supermassive is used on commercially released recordings with no apology needed. The critical factor isn't price — it's whether the reverb type suits the source material and sits correctly in the mix.
 
-**Are free reverb VST plugins good enough for professional mixing?**
-Yes, for most use cases. Valhalla Supermassive is used on commercially released recordings with no apology needed. The critical factor isn't price — it's whether the reverb type suits the source material and sits correctly in the mix.
+**Q: What's the difference between algorithmic and convolution reverb?**
+A: Algorithmic reverb (Supermassive, TAL-Reverb-4, OldSkoolVerb) generates reverb mathematically — it's flexible, CPU-light, and easy to modulate. Convolution reverb (Convology XT) uses recordings of real spaces or hardware units to recreate them with greater acoustic accuracy, at the cost of flexibility and higher CPU usage.
 
-**What's the difference between algorithmic and convolution reverb?**
-Algorithmic reverb (Supermassive, TAL-Reverb-4, OldSkoolVerb) generates reverb mathematically — it's flexible, CPU-light, and easy to modulate. Convolution reverb (Convology XT) uses recordings of real spaces or hardware units to recreate them with greater acoustic accuracy, at the cost of flexibility and higher CPU usage.
+**Q: Which free reverb plugin is best for vocals?**
+A: TAL-Reverb-4 is the fastest path to a good vocal reverb — its warm plate character sits in a mix without building up in the upper mids. For more tonal control on lead vocals in a dense arrangement, Dragonfly's Plate algorithm is a strong second option.
 
-**Which free reverb plugin is best for vocals?**
-TAL-Reverb-4 is the fastest path to a good vocal reverb — its warm plate character sits in a mix without building up in the upper mids. For more tonal control on lead vocals in a dense arrangement, Dragonfly's Plate algorithm is a strong second option.
+**Q: Do these plugins work in FL Studio, Ableton Live, Logic Pro, and Pro Tools?**
+A: All five free plugins support VST3, which covers FL Studio, Ableton Live, Cubase, and most major Windows and macOS DAWs. TAL-Reverb-4 and Dragonfly Reverb include AU format for Logic Pro and GarageBand on macOS. OldSkoolVerb and Convology XT include AAX for Pro Tools.
 
-**Do these plugins work in FL Studio, Ableton Live, Logic Pro, and Pro Tools?**
-All five free plugins support VST3, which covers FL Studio, Ableton Live, Cubase, and most major Windows and macOS DAWs. TAL-Reverb-4 and Dragonfly Reverb include AU format for Logic Pro and GarageBand on macOS. OldSkoolVerb and Convology XT include AAX for Pro Tools.
-
-**Is Valhalla Supermassive actually free — no trial limit or watermark?**
-Fully free, permanently, with no time limit, no reduced functionality, and no watermarking. Valhalla DSP releases it as a promotional vehicle for their paid catalog. Commercial use is unrestricted.
-
----
-
+**Q: Is Valhalla Supermassive actually free — no trial limit or watermark?**
+A: Fully free, permanently, with no time limit, no reduced functionality, and no watermarking. Valhalla DSP releases it as a promotional vehicle for their paid catalog. Commercial use is unrestricted. ---
 ## Related Guides
 
 - [Valhalla Room vs VintageVerb: Which Reverb Is Right for You?](/posts/valhalla-room-vs-vintageverb/)

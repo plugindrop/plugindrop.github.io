@@ -192,24 +192,20 @@ On acoustic drum kits, OTT in this role is less common; community discussion the
 ---
 
 ## FAQ
+**Q: Do I need all four of these plugins to mix drums?**
+A: No. The most common community-recommended starting point is an EQ and a bus compressor — Pro-Q 4 and the SSL G-Master cover the two most critical drum mixing functions. Transient Master and OTT address specific problems (weak transients, thin electronic drums) rather than universal needs.
 
-**Do I need all four of these plugins to mix drums?**
-No. The most common community-recommended starting point is an EQ and a bus compressor — Pro-Q 4 and the SSL G-Master cover the two most critical drum mixing functions. Transient Master and OTT address specific problems (weak transients, thin electronic drums) rather than universal needs.
+**Q: Should I EQ before or after compression when mixing drums?**
+A: Community consensus on r/audioengineering favors EQ before compression on individual drum tracks — so the compressor responds to an already-cleaned signal — and a second EQ after compression on the bus for tonal shaping once the dynamic behavior is set. Pro-Q 4's zero-latency and linear phase modes accommodate both positions in the chain.
 
-**Should I EQ before or after compression when mixing drums?**
-Community consensus on r/audioengineering favors EQ before compression on individual drum tracks — so the compressor responds to an already-cleaned signal — and a second EQ after compression on the bus for tonal shaping once the dynamic behavior is set. Pro-Q 4's zero-latency and linear phase modes accommodate both positions in the chain.
+**Q: Is the Waves SSL G-Master Buss Compressor the same as the hardware?**
+A: It is a software model of the SSL 4000 G-series hardware bus compressor. KVR forum comparisons and developer documentation describe the plugin as an emulation that includes harmonic character and rounding behavior, not just the gain reduction curve. Whether it is sonically identical to any specific hardware unit is a debate the community actively continues, but its practical utility on drum buses is not disputed.
 
-**Is the Waves SSL G-Master Buss Compressor the same as the hardware?**
-It is a software model of the SSL 4000 G-series hardware bus compressor. KVR forum comparisons and developer documentation describe the plugin as an emulation that includes harmonic character and rounding behavior, not just the gain reduction curve. Whether it is sonically identical to any specific hardware unit is a debate the community actively continues, but its practical utility on drum buses is not disputed.
+**Q: What's the difference between transient shaping and compression for drums?**
+A: Compression responds to amplitude over time, applying gain reduction based on a threshold. Transient shaping specifically targets the attack and decay characteristics of a transient regardless of overall level, which is why Transient Master can increase kick punch without the pumping behavior a fast-attack compressor introduces. They complement rather than substitute for each other.
 
-**What's the difference between transient shaping and compression for drums?**
-Compression responds to amplitude over time, applying gain reduction based on a threshold. Transient shaping specifically targets the attack and decay characteristics of a transient regardless of overall level, which is why Transient Master can increase kick punch without the pumping behavior a fast-attack compressor introduces. They complement rather than substitute for each other.
-
-**Is OTT suitable for live drum recording or just programmed drums?**
-OTT is primarily documented in electronic music contexts. For live-recorded acoustic drums, the community more commonly recommends saturation or tape emulation for adding density, as OTT's upward compression behavior can exaggerate room noise and bleed that acoustic recordings contain.
-
----
-
+**Q: Is OTT suitable for live drum recording or just programmed drums?**
+A: OTT is primarily documented in electronic music contexts. For live-recorded acoustic drums, the community more commonly recommends saturation or tape emulation for adding density, as OTT's upward compression behavior can exaggerate room noise and bleed that acoustic recordings contain. ---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

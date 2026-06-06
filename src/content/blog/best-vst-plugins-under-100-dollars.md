@@ -321,24 +321,20 @@ Ozone Elements brings iZotope's Master Assistant AI into a streamlined mastering
 ---
 
 ## FAQ
+**Q: Are VST plugins under $100 actually good enough for professional work?**
+A: Yes — unambiguously. Valhalla VintageVerb at $50 appears on platinum-certified albums. FabFilter Pro-C 2 at $99 is used at major mixing studios on major label projects. Price and quality correlation in plugin software is weak; sound quality, workflow fit, and reliability matter far more than cost.
 
-**Are VST plugins under $100 actually good enough for professional work?**
-Yes — unambiguously. Valhalla VintageVerb at $50 appears on platinum-certified albums. FabFilter Pro-C 2 at $99 is used at major mixing studios on major label projects. Price and quality correlation in plugin software is weak; sound quality, workflow fit, and reliability matter far more than cost.
+**Q: What's the difference between VST3, AU, and AAX formats?**
+A: VST3 is the current standard format for Windows and macOS DAWs (Ableton, FL Studio, Cubase, Studio One). AU (Audio Units) is the native macOS format required by Logic Pro. AAX is required for Pro Tools. Most modern plugins ship in all three — check your DAW's requirements before purchasing.
 
-**What's the difference between VST3, AU, and AAX formats?**
-VST3 is the current standard format for Windows and macOS DAWs (Ableton, FL Studio, Cubase, Studio One). AU (Audio Units) is the native macOS format required by Logic Pro. AAX is required for Pro Tools. Most modern plugins ship in all three — check your DAW's requirements before purchasing.
+**Q: Is Valhalla VintageVerb or Arturia Rev PLATE-140 better for vocal reverb?**
+A: They serve different purposes. Rev PLATE-140 gives you the dense, present, forward-sitting plate character that works immediately on lead vocals. VintageVerb is more versatile — it covers rooms and halls as well as plate-style sounds across 22 modes. For a single-purpose vocal reverb, Rev PLATE-140 is more immediately flattering; for an all-project reverb, VintageVerb has more range.
 
-**Is Valhalla VintageVerb or Arturia Rev PLATE-140 better for vocal reverb?**
-They serve different purposes. Rev PLATE-140 gives you the dense, present, forward-sitting plate character that works immediately on lead vocals. VintageVerb is more versatile — it covers rooms and halls as well as plate-style sounds across 22 modes. For a single-purpose vocal reverb, Rev PLATE-140 is more immediately flattering; for an all-project reverb, VintageVerb has more range.
+**Q: When should I buy iZotope RX Elements vs the higher-tier RX versions?**
+A: Elements handles the core repair tasks — noise reduction, hum removal, de-clicking — that most production sessions require. Upgrade to RX Standard or Advanced only when you need specific advanced tools like the Spectral Repair editor, Dialogue Isolation, or Music Rebalance. For the majority of producers, Elements is the right tier and the right starting point.
 
-**When should I buy iZotope RX Elements vs the higher-tier RX versions?**
-Elements handles the core repair tasks — noise reduction, hum removal, de-clicking — that most production sessions require. Upgrade to RX Standard or Advanced only when you need specific advanced tools like the Spectral Repair editor, Dialogue Isolation, or Music Rebalance. For the majority of producers, Elements is the right tier and the right starting point.
-
-**Does Waves CLA-76 go on sale often enough to wait for a discount?**
-Waves runs sales nearly continuously, and the CLA-76 regularly drops to the $20–$30 range. If budget is tight, it is worth waiting two to four weeks for a Waves sale cycle rather than paying full price. The plugin itself is fully worth the full price; waiting just optimizes the ROI further.
-
----
-
+**Q: Does Waves CLA-76 go on sale often enough to wait for a discount?**
+A: Waves runs sales nearly continuously, and the CLA-76 regularly drops to the $20–$30 range. If budget is tight, it is worth waiting two to four weeks for a Waves sale cycle rather than paying full price. The plugin itself is fully worth the full price; waiting just optimizes the ROI further. ---
 ## Final Thoughts
 
 If you can only buy one plugin from this list, make it FabFilter Pro-C 2 — it improves every single mix you run it on, regardless of genre or style, and no other tool under $100 covers as much professional ground. The second purchase should be Valhalla VintageVerb, which remains one of the best-value plugins in the history of audio software at $50.

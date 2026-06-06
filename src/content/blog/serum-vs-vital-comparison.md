@@ -205,24 +205,20 @@ Once you've outgrown the standard wavetable paradigm, these tools push synthesis
 ---
 
 ## FAQ
+**Q: Is Vital actually as good as Serum, or is it just a free alternative?**
+A: Vital is genuinely competitive with Serum — not just "good for free." Its spectral morphing, larger LFO count, and FM-capable modulation system give it real advantages in specific use cases. The free version alone is better than many paid wavetable synths.
 
-**Is Vital actually as good as Serum, or is it just a free alternative?**
-Vital is genuinely competitive with Serum — not just "good for free." Its spectral morphing, larger LFO count, and FM-capable modulation system give it real advantages in specific use cases. The free version alone is better than many paid wavetable synths.
+**Q: Does Serum still get updates in 2026?**
+A: Yes. Xfer Records has continued releasing updates, and Serum 2 has been in development. Existing owners are expected to receive favorable upgrade pricing when it launches. The original Serum still functions flawlessly on all current DAWs.
 
-**Does Serum still get updates in 2026?**
-Yes. Xfer Records has continued releasing updates, and Serum 2 has been in development. Existing owners are expected to receive favorable upgrade pricing when it launches. The original Serum still functions flawlessly on all current DAWs.
+**Q: Can I use Vital on Linux?**
+A: Yes. Vital supports Linux via VST3 and LV2 formats, which is a meaningful advantage over Serum, which officially supports only Windows and macOS.
 
-**Can I use Vital on Linux?**
-Yes. Vital supports Linux via VST3 and LV2 formats, which is a meaningful advantage over Serum, which officially supports only Windows and macOS.
+**Q: Which synth is better for bass design specifically?**
+A: Both excel at bass design. Serum has a slight edge for sub-heavy, clean bass patches thanks to its anti-aliasing quality. Vital's aggressive distortion stack and filter variety can produce dirtier, more complex bass textures more naturally.
 
-**Which synth is better for bass design specifically?**
-Both excel at bass design. Serum has a slight edge for sub-heavy, clean bass patches thanks to its anti-aliasing quality. Vital's aggressive distortion stack and filter variety can produce dirtier, more complex bass textures more naturally.
-
-**Is there a meaningful free trial for Serum before buying?**
-No — Serum does not offer a free trial, though Splice subscribers can access it for a monthly fee without a full upfront commitment. This is one reason many producers start with Vital before purchasing Serum.
-
----
-
+**Q: Is there a meaningful free trial for Serum before buying?**
+A: No — Serum does not offer a free trial, though Splice subscribers can access it for a monthly fee without a full upfront commitment. This is one reason many producers start with Vital before purchasing Serum. ---
 ## Final Thoughts
 
 **Start with Vital — upgrade to Serum when your workflow demands it.** For the vast majority of producers in 2026, Vital's free tier provides more synthesis capability than they'll fully explore in the first year, and its paid tiers represent excellent value relative to the competition. If you're working professionally in EDM or need the deepest commercial preset library available, Serum justifies every dollar of its price tag.

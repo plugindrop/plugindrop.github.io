@@ -200,24 +200,20 @@ Compression strategy changes depending on where in the signal chain you are work
 ---
 
 ## FAQ
+**Q: What compression ratio should I use for vocal mixing?**
+A: Production and mixing communities most commonly document 3:1 to 6:1 as the standard working range for lead vocals, with attack times between 5–20ms to preserve consonant articulation. The ratio is less important than the attack time — set the attack to keep the vocal's initial consonants intact before compression engages.
 
-**What compression ratio should I use for vocal mixing?**
-Production and mixing communities most commonly document 3:1 to 6:1 as the standard working range for lead vocals, with attack times between 5–20ms to preserve consonant articulation. The ratio is less important than the attack time — set the attack to keep the vocal's initial consonants intact before compression engages.
+**Q: What is mix bus compression and when should it be applied?**
+A: Mix bus compression is light compression applied to the stereo master bus before mastering. Its purpose is cohesion rather than dynamic reduction. Mix engineers typically document targeting 2–4dB of gain reduction at slow attack settings so the compressor responds to the overall mix energy rather than individual transients. Both TDR Kotelnikov and the Waves SSL G-Master Buss Compressor are documented as effective tools for this stage.
 
-**What is mix bus compression and when should it be applied?**
-Mix bus compression is light compression applied to the stereo master bus before mastering. Its purpose is cohesion rather than dynamic reduction. Mix engineers typically document targeting 2–4dB of gain reduction at slow attack settings so the compressor responds to the overall mix energy rather than individual transients. Both TDR Kotelnikov and the Waves SSL G-Master Buss Compressor are documented as effective tools for this stage.
+**Q: What is parallel compression and how do I set it up?**
+A: Parallel compression blends a heavily compressed duplicate of a signal with the unprocessed original. The compressed layer adds density and sustain; the dry layer preserves transient impact. Production forums most commonly document this applied to drum buses and individual drums, with blend points between 20–50% compressed signal depending on how much density the source material needs.
 
-**What is parallel compression and how do I set it up?**
-Parallel compression blends a heavily compressed duplicate of a signal with the unprocessed original. The compressed layer adds density and sustain; the dry layer preserves transient impact. Production forums most commonly document this applied to drum buses and individual drums, with blend points between 20–50% compressed signal depending on how much density the source material needs.
+**Q: Is FabFilter Pro-C 2 worth $179 for a bedroom producer?**
+A: Based on community consensus across r/mixingmastering, r/edmproduction, and professional mixing forums, Pro-C 2 is consistently described as the highest-value paid compressor for producers who treat it as a learning accelerator alongside a production tool. Its eight compression modes cover use cases that would otherwise require multiple purpose-built plugins.
 
-**Is FabFilter Pro-C 2 worth $179 for a bedroom producer?**
-Based on community consensus across r/mixingmastering, r/edmproduction, and professional mixing forums, Pro-C 2 is consistently described as the highest-value paid compressor for producers who treat it as a learning accelerator alongside a production tool. Its eight compression modes cover use cases that would otherwise require multiple purpose-built plugins.
-
-**How do I know if I am over-compressing?**
-The production community most commonly discusses 3–6dB as the transparent working range for individual track compression and 2–4dB for bus and mix bus duties. Compression becomes audible between 6–10dB of gain reduction on most material — whether that is intentional (parallel compression, creative effect) or a problem depends on the context and the goal.
-
----
-
+**Q: How do I know if I am over-compressing?**
+A: The production community most commonly discusses 3–6dB as the transparent working range for individual track compression and 2–4dB for bus and mix bus duties. Compression becomes audible between 6–10dB of gain reduction on most material — whether that is intentional (parallel compression, creative effect) or a problem depends on the context and the goal. ---
 ## Related Guides
 
 - [Complete Drum Mixing Plugin Chain: Best Tools for Punchy Drums (2026)](/posts/drum-mixing-plugin-chain/)

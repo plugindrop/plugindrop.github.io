@@ -184,24 +184,20 @@ The Advanced tier adds two developer-confirmed features that address common home
 ---
 
 ## FAQ
+**Q: What LUFS target should I hit for Spotify and Apple Music in 2026?**
+A: Spotify's documented normalization target is -14 LUFS integrated. Apple Music targets -16 LUFS integrated. Tracks louder than the platform target are turned down; quieter tracks are turned up. The widely-documented best practice across r/audioengineering is to target -14 LUFS integrated with a true peak ceiling of -1 dBTP, which covers Spotify compliance without sacrificing audible loudness.
 
-**What LUFS target should I hit for Spotify and Apple Music in 2026?**
-Spotify's documented normalization target is -14 LUFS integrated. Apple Music targets -16 LUFS integrated. Tracks louder than the platform target are turned down; quieter tracks are turned up. The widely-documented best practice across r/audioengineering is to target -14 LUFS integrated with a true peak ceiling of -1 dBTP, which covers Spotify compliance without sacrificing audible loudness.
+**Q: Can I use iZotope Ozone 12 and FabFilter Pro-L 2 in the same chain?**
+A: Yes, and this is a documented workflow pattern in producer communities. A common configuration uses Ozone 12's EQ, dynamics, and imager modules for the body of the mastering chain, then bypasses Ozone's maximizer and feeds the output into FabFilter Pro-L 2 as the final limiter stage. This combines Ozone's guided mid-chain processing with Pro-L 2's algorithm variety at the output stage.
 
-**Can I use iZotope Ozone 12 and FabFilter Pro-L 2 in the same chain?**
-Yes, and this is a documented workflow pattern in producer communities. A common configuration uses Ozone 12's EQ, dynamics, and imager modules for the body of the mastering chain, then bypasses Ozone's maximizer and feeds the output into FabFilter Pro-L 2 as the final limiter stage. This combines Ozone's guided mid-chain processing with Pro-L 2's algorithm variety at the output stage.
+**Q: What's the difference between integrated LUFS and short-term LUFS?**
+A: Integrated LUFS measures average loudness across the entire track duration — this is the value streaming platforms use for normalization decisions. Short-term LUFS measures loudness across a rolling three-second window, giving real-time feedback during playback. Youlean Loudness Meter 2 displays both simultaneously, which its developer documentation identifies as a core feature of the plugin's interface design.
 
-**What's the difference between integrated LUFS and short-term LUFS?**
-Integrated LUFS measures average loudness across the entire track duration — this is the value streaming platforms use for normalization decisions. Short-term LUFS measures loudness across a rolling three-second window, giving real-time feedback during playback. Youlean Loudness Meter 2 displays both simultaneously, which its developer documentation identifies as a core feature of the plugin's interface design.
+**Q: Is FabFilter Pro-Q 4 better than iZotope Ozone 12's EQ module?**
+A: These serve different workflows rather than competing directly. Pro-Q 4 is a dedicated EQ with more band precision, dynamic EQ mode, and the inter-plugin spectrum analysis feature. Ozone 12's EQ module is designed for integrated operation within the Ozone mastering workflow, with the Master Assistant able to inform its settings. Producer communities generally describe Pro-Q 4 as offering more surgical per-band control, while Ozone's EQ is more contextually useful within the all-in-one environment.
 
-**Is FabFilter Pro-Q 4 better than iZotope Ozone 12's EQ module?**
-These serve different workflows rather than competing directly. Pro-Q 4 is a dedicated EQ with more band precision, dynamic EQ mode, and the inter-plugin spectrum analysis feature. Ozone 12's EQ module is designed for integrated operation within the Ozone mastering workflow, with the Master Assistant able to inform its settings. Producer communities generally describe Pro-Q 4 as offering more surgical per-band control, while Ozone's EQ is more contextually useful within the all-in-one environment.
-
-**Do I need acoustic treatment to master at home?**
-Room treatment affects how accurately you hear what you're doing, but several tools reduce its impact. Relying on Youlean's LUFS metering makes loudness decisions objective. Using FabFilter Pro-Q 4's spectrum analyzer with a reference track loaded in a second instance gives you a spectral comparison that doesn't depend on room accuracy. Cross-checking on calibrated headphones alongside monitors is a documented practice in home mastering communities for exactly this reason.
-
----
-
+**Q: Do I need acoustic treatment to master at home?**
+A: Room treatment affects how accurately you hear what you're doing, but several tools reduce its impact. Relying on Youlean's LUFS metering makes loudness decisions objective. Using FabFilter Pro-Q 4's spectrum analyzer with a reference track loaded in a second instance gives you a spectral comparison that doesn't depend on room accuracy. Cross-checking on calibrated headphones alongside monitors is a documented practice in home mastering communities for exactly this reason. ---
 ## Related Guides
 
 - [The Complete Mastering Plugin Chain: 6 Plugins for a Pro Master (2026)](/posts/mastering-chain-plugins/)

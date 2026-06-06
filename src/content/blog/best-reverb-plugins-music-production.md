@@ -309,24 +309,20 @@ Convology XT comes from Impulse Record, a company whose primary business is sell
 ---
 
 ## FAQ
+**Q: What's the difference between algorithmic and convolution reverb?**
+A: Algorithmic reverbs use mathematical models to simulate acoustic space — they're flexible, low-latency, and easy to automate. Convolution reverbs use recorded snapshots (impulse responses) of real spaces or hardware units, making them more accurate for realistic spaces but less flexible for creative shaping. Most producers keep both types in their workflow.
 
-**What's the difference between algorithmic and convolution reverb?**
-Algorithmic reverbs use mathematical models to simulate acoustic space — they're flexible, low-latency, and easy to automate. Convolution reverbs use recorded snapshots (impulse responses) of real spaces or hardware units, making them more accurate for realistic spaces but less flexible for creative shaping. Most producers keep both types in their workflow.
+**Q: Is Valhalla VintageVerb worth $50 for a beginner?**
+A: The community answer is consistently yes — but build context first. Spend real sessions with Valhalla Supermassive and TAL-Reverb-4 (both free) before purchasing. If you've used those and understand what they're missing for natural-sounding mix reverb, VintageVerb is the right step and $50 is a fair price for years of use.
 
-**Is Valhalla VintageVerb worth $50 for a beginner?**
-The community answer is consistently yes — but build context first. Spend real sessions with Valhalla Supermassive and TAL-Reverb-4 (both free) before purchasing. If you've used those and understand what they're missing for natural-sounding mix reverb, VintageVerb is the right step and $50 is a fair price for years of use.
+**Q: Can free reverb plugins genuinely compete with paid options?**
+A: For ambient and creative applications, yes — Valhalla Supermassive competes with plugins costing much more for those specific use cases. For precise mix-ready reverb with frequency control, no: the decay EQ features in Pro-R 2 have no free equivalent. Free wins in creative and experimental territory; paid wins on precision engineering.
 
-**Can free reverb plugins genuinely compete with paid options?**
-For ambient and creative applications, yes — Valhalla Supermassive competes with plugins costing much more for those specific use cases. For precise mix-ready reverb with frequency control, no: the decay EQ features in Pro-R 2 have no free equivalent. Free wins in creative and experimental territory; paid wins on precision engineering.
+**Q: What reverb works best on vocals?**
+A: Community consensus splits between two approaches: plate reverb (Arturia Rev PLATE-140 for classic warm density) and short algorithmic reverb with pre-delay (Valhalla VintageVerb's Plate or Room modes, pre-delay set to 15–30ms to separate the verb from the dry signal). Both are valid — plate works best for warm, intimate productions; algorithmic with pre-delay works better in dense mixes where you need the vocal to stay present.
 
-**What reverb works best on vocals?**
-Community consensus splits between two approaches: plate reverb (Arturia Rev PLATE-140 for classic warm density) and short algorithmic reverb with pre-delay (Valhalla VintageVerb's Plate or Room modes, pre-delay set to 15–30ms to separate the verb from the dry signal). Both are valid — plate works best for warm, intimate productions; algorithmic with pre-delay works better in dense mixes where you need the vocal to stay present.
-
-**Do I need multiple reverb plugins?**
-Most producers settle on two or three: one for general mixing, one for creative/ambient applications, and optionally one convolution reverb for realistic spaces. Valhalla Supermassive (free) plus Valhalla VintageVerb ($50) covers the first two use cases entirely — and that's the combination the community most frequently recommends as a starting foundation.
-
----
-
+**Q: Do I need multiple reverb plugins?**
+A: Most producers settle on two or three: one for general mixing, one for creative/ambient applications, and optionally one convolution reverb for realistic spaces. Valhalla Supermassive (free) plus Valhalla VintageVerb ($50) covers the first two use cases entirely — and that's the combination the community most frequently recommends as a starting foundation. ---
 ## Final Thoughts
 
 Valhalla VintageVerb remains the most defensible single purchase in this list — $50 for the most-recommended algorithmic reverb across the production community is a straightforward decision. Start with Valhalla Supermassive to understand reverb fundamentals in your workflow, then add VintageVerb when the free options are no longer sufficient for your mixing needs.

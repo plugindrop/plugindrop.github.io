@@ -177,24 +177,20 @@ ZynAddSubFX does not offer granular audio manipulation, sample import, or a mode
 ---
 
 ## FAQ
+**Q: Can any free plugin actually replace Omnisphere?**
+A: No free plugin replicates Omnisphere's Steam sample library, hardware synth integration, or its curated preset scale. For synthesis-only workflows — evolving pads, textural sound design, complex modulation — Vital and Surge XT close the gap substantially. For sample playback and acoustic instrument modeling, there is no current free equivalent.
 
-**Can any free plugin actually replace Omnisphere?**
-No free plugin replicates Omnisphere's Steam sample library, hardware synth integration, or its curated preset scale. For synthesis-only workflows — evolving pads, textural sound design, complex modulation — Vital and Surge XT close the gap substantially. For sample playback and acoustic instrument modeling, there is no current free equivalent.
+**Q: Is Vital's free version genuinely free or a demo?**
+A: The free tier of Vital includes the complete synthesis engine: all three oscillators, all spectral morph filter modes, the wavetable editor, and the full modulation system. Developer documentation confirms the engine is not tiered. Paid tiers add preset content and additional wavetable packs. For original sound design, the free version is complete.
 
-**Is Vital's free version genuinely free or a demo?**
-The free tier of Vital includes the complete synthesis engine: all three oscillators, all spectral morph filter modes, the wavetable editor, and the full modulation system. Developer documentation confirms the engine is not tiered. Paid tiers add preset content and additional wavetable packs. For original sound design, the free version is complete.
+**Q: Is Surge XT actually capable or just popular because it costs nothing?**
+A: Surge XT's reputation on r/synthesizers and KVR Audio is grounded in its architecture — the number of oscillator types, the depth of the modulation matrix, and the per-scene layering system are features uncommon at any price point. The community consensus is that it is technically capable independent of its cost.
 
-**Is Surge XT actually capable or just popular because it costs nothing?**
-Surge XT's reputation on r/synthesizers and KVR Audio is grounded in its architecture — the number of oscillator types, the depth of the modulation matrix, and the per-scene layering system are features uncommon at any price point. The community consensus is that it is technically capable independent of its cost.
+**Q: Do these plugins run on Apple Silicon (M-series Macs)?**
+A: Surge XT and Vital both provide native Apple Silicon builds on their official download pages. Phase Plant Lite and the full Phase Plant are confirmed Apple Silicon compatible by Kilohearts' documentation. Check each developer's current release notes, as ARM build support has expanded rapidly across the free plugin ecosystem since 2023.
 
-**Do these plugins run on Apple Silicon (M-series Macs)?**
-Surge XT and Vital both provide native Apple Silicon builds on their official download pages. Phase Plant Lite and the full Phase Plant are confirmed Apple Silicon compatible by Kilohearts' documentation. Check each developer's current release notes, as ARM build support has expanded rapidly across the free plugin ecosystem since 2023.
-
-**What format should I install — VST3 or AU?**
-On macOS, AU is the native format and is generally preferred for stability within AU-compliant DAWs. On Windows, VST3 is the current standard. Both Surge XT and Vital ship both formats. If your DAW supports only VST2, check developer release pages for availability, as some newer builds have moved away from VST2.
-
----
-
+**Q: What format should I install — VST3 or AU?**
+A: On macOS, AU is the native format and is generally preferred for stability within AU-compliant DAWs. On Windows, VST3 is the current standard. Both Surge XT and Vital ship both formats. If your DAW supports only VST2, check developer release pages for availability, as some newer builds have moved away from VST2. ---
 ## Final Thoughts
 
 For producers searching for a free alternative to Omnisphere VST in 2026, **Vital and Surge XT are the two instruments to download first** — both are fully functional at the free tier, actively maintained, and carry synthesis capabilities that justify professional use. If a $99 budget is available and you need multi-engine range in a single instrument, **Arturia Pigments 5 is the community's most-cited upgrade path** and the closest single-instrument match to Omnisphere's synthesis breadth at that price point.

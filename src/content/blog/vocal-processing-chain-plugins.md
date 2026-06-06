@@ -244,29 +244,20 @@ Once your core chain is locked in, these bundles and premium options offer the n
 ---
 
 ## FAQ
+**Q: What order should VST plugins go in a vocal processing chain?**
+A: The standard professional order is: pitch correction → corrective EQ → de-esser → compression → enhancement/saturation → reverb and delay. This sequence ensures you fix the fundamental issues before adding dynamics control and spatial processing. Running reverb before compression, for example, causes the reverb tail to get pumped by the compressor, which produces an unnatural swell that's difficult to fix in the mix.
 
-**What order should VST plugins go in a vocal processing chain?**
+**Q: Do I need a dedicated de-esser, or can my EQ handle sibilance?**
+A: An EQ can cut sibilance, but a static cut in the 6–10 kHz range reduces presence and air on every vowel, not just during sibilant consonants. A dedicated spectral de-esser like Waves Sibilance only activates when harshness is actually present, leaving the natural brightness of the vocal intact the rest of the time. For professional results, a dedicated de-esser is worth the slot.
 
-The standard professional order is: pitch correction → corrective EQ → de-esser → compression → enhancement/saturation → reverb and delay. This sequence ensures you fix the fundamental issues before adding dynamics control and spatial processing. Running reverb before compression, for example, causes the reverb tail to get pumped by the compressor, which produces an unnatural swell that's difficult to fix in the mix.
+**Q: Is iZotope Nectar 4 worth it if I already own FabFilter Pro-Q 4 and Pro-C 2?**
+A: Yes — primarily because of the Unmask feature, which communicates with other iZotope plugins to carve frequency space for the vocal in the broader mix. No combination of individual third-party plugins replicates this inter-plugin communication. If you're mixing many vocals across multiple projects, Nectar 4's Vocal Assistant also provides calibrated starting points that save meaningful time even for experienced engineers.
 
-**Do I need a dedicated de-esser, or can my EQ handle sibilance?**
+**Q: Can Valhalla Supermassive be used on professional, commercial releases?**
+A: Absolutely. It appears on commercial releases across pop, film scoring, and electronic music. Being free reflects Valhalla DSP's distribution strategy, not a quality compromise — the reverb algorithms share lineage with the paid Valhalla lineup. Always run it on a dedicated send bus at 100% wet and blend to taste on the return fader.
 
-An EQ can cut sibilance, but a static cut in the 6–10 kHz range reduces presence and air on every vowel, not just during sibilant consonants. A dedicated spectral de-esser like Waves Sibilance only activates when harshness is actually present, leaving the natural brightness of the vocal intact the rest of the time. For professional results, a dedicated de-esser is worth the slot.
-
-**Is iZotope Nectar 4 worth it if I already own FabFilter Pro-Q 4 and Pro-C 2?**
-
-Yes — primarily because of the Unmask feature, which communicates with other iZotope plugins to carve frequency space for the vocal in the broader mix. No combination of individual third-party plugins replicates this inter-plugin communication. If you're mixing many vocals across multiple projects, Nectar 4's Vocal Assistant also provides calibrated starting points that save meaningful time even for experienced engineers.
-
-**Can Valhalla Supermassive be used on professional, commercial releases?**
-
-Absolutely. It appears on commercial releases across pop, film scoring, and electronic music. Being free reflects Valhalla DSP's distribution strategy, not a quality compromise — the reverb algorithms share lineage with the paid Valhalla lineup. Always run it on a dedicated send bus at 100% wet and blend to taste on the return fader.
-
-**What is the difference between FabFilter Pro-Q 4 and Pro-C 2?**
-
-Pro-Q 4 is an equalizer that shapes frequency content. Pro-C 2 is a compressor that controls dynamic range. They solve different problems and both belong in a complete vocal chain. Use Pro-Q 4 to remove problem frequencies and shape tone, and Pro-C 2 to even out the performance level and optionally add character. They are not interchangeable.
-
----
-
+**Q: What is the difference between FabFilter Pro-Q 4 and Pro-C 2?**
+A: Pro-Q 4 is an equalizer that shapes frequency content. Pro-C 2 is a compressor that controls dynamic range. They solve different problems and both belong in a complete vocal chain. Use Pro-Q 4 to remove problem frequencies and shape tone, and Pro-C 2 to even out the performance level and optionally add character. They are not interchangeable. ---
 ## Final Thoughts
 
 The complete vocal processing chain in 2026 does not require a rack full of hardware or a sprawling plugin folder — it requires six well-chosen tools applied in the right order. For producers who want the most flexible, modular approach, the combination of Waves Tune Real-Time, FabFilter Pro-Q 4, Waves Sibilance, FabFilter Pro-C 2, and Valhalla Supermassive covers every stage of the chain at a professional standard. For producers who want to move faster and let AI handle the calibration work, **iZotope Nectar 4** remains the single most capable vocal plugin available in 2026 — and the one most likely to close the gap between your rough mix and the final master.

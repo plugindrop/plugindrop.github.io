@@ -21,10 +21,10 @@ draft: false
 | Vital | Free | Wavetable synthesis, direct Serum workflow replacement | [Free](https://vital.audio/) |
 | Surge XT | Free | Deep hybrid synthesis, advanced modulation | [Free Download](https://surge-synthesizer.github.io/) |
 | Phase Plant Lite | Free (Lite) | Modular workflows, Kilohearts ecosystem entry | [Official Site](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
-| Helm | Free | Beginners, lightweight polyphonic synthesis | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
+| Helm | Free | Beginners, lightweight polyphonic synthesis | [Free via Plugin Boutique](https://tytel.org/helm/) |
 | Phase Plant | Paid | Full modular synthesis, post-Lite upgrade | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
 | u-he Hive 2 | Paid | Fast professional workflow, u-he analog quality | [Get Hive 2 (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=u-he%20Hive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
-| Serum | $189 | The industry-standard benchmark itself | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
+| Serum | $189 | The industry-standard benchmark itself | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
 
 ---
 
@@ -114,7 +114,7 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 
 **Best for:** Beginners learning synthesis basics, or producers on low-spec machines where Vital's CPU footprint is a constraint.
 
-[→ Download Helm Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst)
+[→ Download Helm Free (via Plugin Boutique)](https://tytel.org/helm/)
 
 ---
 
@@ -154,7 +154,7 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 - **Price:** $189 direct, or rent-to-own via Splice
 - **Why upgrade:** Serum's primary value proposition in 2026 is its ecosystem, not its synthesis engine. Thousands of commercial preset packs, a mature resale market for wavetable content, and a tutorial library built almost entirely around Serum's interface are advantages that no free alternative has replicated. For producers regularly purchasing commercial presets or working alongside tutorials that assume you're running Serum, the upgrade is commercially justified. For synthesis capability in isolation, Vital closes the technical gap to a degree the community widely acknowledges. The remaining case for Serum is network effects — not the engine.
 
-[→ Get Serum by Xfer Records (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst)
+[→ Get Serum by Xfer Records (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst)
 
 ---
 
@@ -165,10 +165,10 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 | Vital | Free | Wavetable | Serum-adjacent workflow, all synthesis features unlocked free, active community | [Download Free (Plugin Boutique)](https://vital.audio/) |
 | Surge XT | Free | Hybrid (wavetable, VA, FM, string) | Deepest free synthesis engine available, open source, CLAP support | [Download Free](https://surge-synthesizer.github.io/) |
 | Phase Plant Lite | Free (Lite) | Modular | Kilohearts Snapin ecosystem, modular signal chain, upgradeable | [Official Site](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
-| Helm | Free | Polyphonic VA | Lightweight, open source, beginner-appropriate interface | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
+| Helm | Free | Polyphonic VA | Lightweight, open source, beginner-appropriate interface | [Download Free (Plugin Boutique)](https://tytel.org/helm/) |
 | Phase Plant | Paid | Modular | Full module library, macro routing, Snapin integration, no restrictions | [Kilohearts](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
 | u-he Hive 2 | Paid | Hybrid VA/wavetable | Fast workflow design, u-he analog modeling, professional quality | [u-he](https://www.pluginboutique.com/search?search_query=u-he%20Hive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
-| Serum | $189 | Wavetable | Industry-standard, commercial preset ecosystem, Splice rent-to-own | [Xfer Records](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
+| Serum | $189 | Wavetable | Industry-standard, commercial preset ecosystem, Splice rent-to-own | [Xfer Records](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-serum-vst) |
 
 ---
 
@@ -183,24 +183,20 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 ---
 
 ## FAQ
+**Q: Is Vital really comparable to Serum?**
+A: For wavetable synthesis tasks — designing lead sounds, pads, evolving textures, and modulated basses — Vital's free tier covers the same functional ground as Serum. KVR's community and r/edmproduction both maintain this position consistently, not as hype but as a practical assessment of what each engine produces. Where Serum maintains a clear edge is its commercial preset ecosystem, the volume of third-party wavetable packs available for purchase, and the density of tutorial content built around its specific interface. For synthesis capability in isolation, the community consensus is that Vital is a genuine peer.
 
-**Is Vital really comparable to Serum?**
-For wavetable synthesis tasks — designing lead sounds, pads, evolving textures, and modulated basses — Vital's free tier covers the same functional ground as Serum. KVR's community and r/edmproduction both maintain this position consistently, not as hype but as a practical assessment of what each engine produces. Where Serum maintains a clear edge is its commercial preset ecosystem, the volume of third-party wavetable packs available for purchase, and the density of tutorial content built around its specific interface. For synthesis capability in isolation, the community consensus is that Vital is a genuine peer.
+**Q: Does Vital's free tier have any synthesis limitations?**
+A: No — developer documentation confirms that all synthesis features in Vital are available on the free tier. The free version includes all oscillators, modulation options, effects, and the wavetable editor. The paid tiers ($25 and $80) unlock additional preset packs and access to Vital's online wavetable library; they do not unlock synthesis capabilities. This is an important distinction from plugins where the free version is a trial of a restricted engine.
 
-**Does Vital's free tier have any synthesis limitations?**
-No — developer documentation confirms that all synthesis features in Vital are available on the free tier. The free version includes all oscillators, modulation options, effects, and the wavetable editor. The paid tiers ($25 and $80) unlock additional preset packs and access to Vital's online wavetable library; they do not unlock synthesis capabilities. This is an important distinction from plugins where the free version is a trial of a restricted engine.
+**Q: Is Surge XT suitable for beginners?**
+A: Surge XT's interface is complex and the manual is substantial. Community consensus on r/synthesizers and KVR consistently positions it as a plugin that rewards time invested in understanding it, rather than one that's immediately intuitive. Beginners learning synthesis will reach usable results faster with Vital or Helm. Surge XT's depth becomes an asset once foundational synthesis knowledge — oscillators, filters, envelope behavior, modulation routing — is already in place.
 
-**Is Surge XT suitable for beginners?**
-Surge XT's interface is complex and the manual is substantial. Community consensus on r/synthesizers and KVR consistently positions it as a plugin that rewards time invested in understanding it, rather than one that's immediately intuitive. Beginners learning synthesis will reach usable results faster with Vital or Helm. Surge XT's depth becomes an asset once foundational synthesis knowledge — oscillators, filters, envelope behavior, modulation routing — is already in place.
+**Q: Can I use these free plugins on commercial releases?**
+A: Yes. Vital, Surge XT, Phase Plant Lite, and Helm are all fully licensed for commercial use. Their free distribution model is a business decision by the developers, not a licensing restriction. Thousands of commercial releases use them. The "free" label reflects pricing, not production-readiness.
 
-**Can I use these free plugins on commercial releases?**
-Yes. Vital, Surge XT, Phase Plant Lite, and Helm are all fully licensed for commercial use. Their free distribution model is a business decision by the developers, not a licensing restriction. Thousands of commercial releases use them. The "free" label reflects pricing, not production-readiness.
-
-**What does Phase Plant Lite actually restrict?**
-Phase Plant Lite limits which generator and effect modules are available in the signal chain. Core modules function, but several generators and shaper types are locked to the paid version. Kilohearts positions the Lite version as an extended trial — it demonstrates the modular workflow and Snapin ecosystem without delivering the full feature set. Producers who connect with the workflow will need the full version to use Phase Plant at its intended capability.
-
----
-
+**Q: What does Phase Plant Lite actually restrict?**
+A: Phase Plant Lite limits which generator and effect modules are available in the signal chain. Core modules function, but several generators and shaper types are locked to the paid version. Kilohearts positions the Lite version as an extended trial — it demonstrates the modular workflow and Snapin ecosystem without delivering the full feature set. Producers who connect with the workflow will need the full version to use Phase Plant at its intended capability. ---
 ## Related Guides
 
 - [14 Best Free Synth VST Plugins 2026 (Vital, Surge XT)](/posts/best-free-synth-plugins/)

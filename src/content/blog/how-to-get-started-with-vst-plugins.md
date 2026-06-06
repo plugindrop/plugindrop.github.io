@@ -23,7 +23,7 @@ priceTrack:
 | Surge XT | Free | Advanced hybrid synthesis, deep modulation | [Free Download](https://surge-synthesizer.github.io/) |
 | TDR Nova | Free | Transparent dynamic EQ, mixing | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
 | Valhalla Supermassive | Free | Lush reverb, ambient spaces | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
-| Serum 2 | $189 | Professional wavetable synthesis, preset ecosystem | [Get Serum 2 (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
+| Serum 2 | $189 | Professional wavetable synthesis, preset ecosystem | [Get Serum 2 (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
 | FabFilter Pro-Q 4 | $179 | Professional mixing and mastering EQ | [Get Pro-Q 4 (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
 
 ---
@@ -130,7 +130,7 @@ The free stack above covers a complete production workflow. These paid upgrades 
 - **Price:** $189
 - **Why upgrade:** Vital's free synthesis engine is genuinely competitive, but Serum 2's advantage lies outside the plugin itself. The commercial preset ecosystem built around Serum 2 is the largest of any synthesizer in producer communities — r/edmproduction cites this consistently as the primary reason to upgrade. If your workflow involves purchasing or using third-party sound packs professionally, Serum 2's ecosystem dwarfs what's available for any free alternative.
 
-[→ Get Serum 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins)
+[→ Get Serum 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins)
 
 ---
 
@@ -154,7 +154,7 @@ The free stack above covers a complete production workflow. These paid upgrades 
 | Surge XT | Free | Hybrid Synth | 2,800+ presets, multi-synthesis engine, microtonal tuning | [Download Free](https://surge-synthesizer.github.io/) |
 | TDR Nova | Free | Dynamic EQ | 4-band parametric, per-band dynamics, linear phase | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
 | Valhalla Supermassive | Free | Reverb / Delay | 23 modes, infinite decay, low CPU overhead | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
-| Serum 2 | $189 | Wavetable Synth | Largest third-party preset ecosystem, advanced wavetable editor | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
+| Serum 2 | $189 | Wavetable Synth | Largest third-party preset ecosystem, advanced wavetable editor | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
 | FabFilter Pro-Q 4 | $179 | EQ | Natural phase, collision detection, M/S, mastering precision | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
 
 ---
@@ -170,24 +170,20 @@ The free stack above covers a complete production workflow. These paid upgrades 
 ---
 
 ## FAQ
+**Q: Do I need a DAW installed before VST plugins will work?**
+A: Yes. VST plugins are instruments and effects that run inside a host application. They are not standalone programs. Ableton Live, FL Studio, Logic Pro (macOS only for AU), Reaper, and Studio One all support VST3 and AU formats. Install your DAW first, then add plugins to it.
 
-**Do I need a DAW installed before VST plugins will work?**
-Yes. VST plugins are instruments and effects that run inside a host application. They are not standalone programs. Ableton Live, FL Studio, Logic Pro (macOS only for AU), Reaper, and Studio One all support VST3 and AU formats. Install your DAW first, then add plugins to it.
+**Q: What is the difference between VST, VST3, and AU?**
+A: VST2 is the original Steinberg format and is now considered legacy — most developers have stopped releasing new VST2 versions. VST3 is the current cross-platform standard for Windows and macOS. AU (Audio Units) is Apple's format used natively by Logic Pro on macOS and iOS. All four free plugins in this guide ship both VST3 and AU builds, covering every major DAW in current use.
 
-**What is the difference between VST, VST3, and AU?**
-VST2 is the original Steinberg format and is now considered legacy — most developers have stopped releasing new VST2 versions. VST3 is the current cross-platform standard for Windows and macOS. AU (Audio Units) is Apple's format used natively by Logic Pro on macOS and iOS. All four free plugins in this guide ship both VST3 and AU builds, covering every major DAW in current use.
+**Q: Will these free plugins work on Apple Silicon Macs (M1/M2/M3/M4)?**
+A: All four free plugins in this guide offer native Apple Silicon builds. Vital, Surge XT, TDR Nova, and Valhalla Supermassive have each published ARM-native versions, confirmed in their respective developer release documentation. Rosetta 2 compatibility exists as a fallback for older plugin versions, but native ARM builds are available and recommended.
 
-**Will these free plugins work on Apple Silicon Macs (M1/M2/M3/M4)?**
-All four free plugins in this guide offer native Apple Silicon builds. Vital, Surge XT, TDR Nova, and Valhalla Supermassive have each published ARM-native versions, confirmed in their respective developer release documentation. Rosetta 2 compatibility exists as a fallback for older plugin versions, but native ARM builds are available and recommended.
+**Q: How many plugins do I actually need to get started?**
+A: Four categories cover the essentials: one synthesizer, one EQ, one compressor (your DAW's built-in is sufficient to start), and one reverb. The free stack in this guide covers three of the four at no cost. Accumulating plugins faster than you can learn them — a pattern r/edmproduction's wiki addresses under "GAS" (Gear Acquisition Syndrome) — is the most common beginner error documented by the community.
 
-**How many plugins do I actually need to get started?**
-Four categories cover the essentials: one synthesizer, one EQ, one compressor (your DAW's built-in is sufficient to start), and one reverb. The free stack in this guide covers three of the four at no cost. Accumulating plugins faster than you can learn them — a pattern r/edmproduction's wiki addresses under "GAS" (Gear Acquisition Syndrome) — is the most common beginner error documented by the community.
-
-**Is Vital actually free or is it a time-limited trial?**
-Vital's free tier is not a trial. The free version includes the full synthesis engine — three oscillators, a complete modulation matrix, the wavetable editor, and 75 presets — with no time limit or expiration. The paid Pro tier adds online preset packs and community features. The core synthesis capability is fully unlocked in the free version.
-
----
-
+**Q: Is Vital actually free or is it a time-limited trial?**
+A: Vital's free tier is not a trial. The free version includes the full synthesis engine — three oscillators, a complete modulation matrix, the wavetable editor, and 75 presets — with no time limit or expiration. The paid Pro tier adds online preset packs and community features. The core synthesis capability is fully unlocked in the free version. ---
 ## Final Thoughts
 
 For any producer starting from zero in 2026, the stack is clear and costs nothing to assemble: Vital for synthesis, TDR Nova for EQ, and Valhalla Supermassive for reverb. These are not entry-level compromises — they are community-validated tools used in professional contexts, and the tutorial ecosystems around them are large enough to take a beginner from zero to a finished track. When the synthesis ceiling arrives and you need access to the largest commercial preset ecosystem in production communities, Serum 2 is the upgrade the community consistently points to.

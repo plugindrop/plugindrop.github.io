@@ -155,24 +155,20 @@ Community threads focused on production workflow, particularly on forums caterin
 ---
 
 ## FAQ
+**Q: Is TDR Nova actually a viable free replacement for FabFilter Pro-Q 4's dynamic EQ?**
+A: For core dynamic EQ tasks — reactive resonance control, de-essing, taming problematic frequency buildup — TDR Nova covers the fundamentals credibly. The gap opens when you need per-band mid/side dynamic processing, more than four simultaneous dynamic bands, or the level of visual feedback Pro-Q 4 provides. For single-channel mixing work, most producers report that the free version is genuinely sufficient.
 
-**Is TDR Nova actually a viable free replacement for FabFilter Pro-Q 4's dynamic EQ?**
-For core dynamic EQ tasks — reactive resonance control, de-essing, taming problematic frequency buildup — TDR Nova covers the fundamentals credibly. The gap opens when you need per-band mid/side dynamic processing, more than four simultaneous dynamic bands, or the level of visual feedback Pro-Q 4 provides. For single-channel mixing work, most producers report that the free version is genuinely sufficient.
+**Q: Can I use these free EQs for mastering?**
+A: Voxengo Marvel GEQ is the most appropriate for mastering due to its linear phase design. TDR Nova can handle broad corrective work on a mix bus in its free version, but lacks the M/S per-band capability that mastering frequently demands. MEqualizer and LP10 are designed as mixing tools and are not specifically suited to mastering workflows.
 
-**Can I use these free EQs for mastering?**
-Voxengo Marvel GEQ is the most appropriate for mastering due to its linear phase design. TDR Nova can handle broad corrective work on a mix bus in its free version, but lacks the M/S per-band capability that mastering frequently demands. MEqualizer and LP10 are designed as mixing tools and are not specifically suited to mastering workflows.
+**Q: Do any of these free EQs support mid/side processing?**
+A: Not in their free versions. Mid/side per-band control is one of the harder features to find in the free EQ space, and it is a legitimate reason to consider upgrading to Pro-Q 4 if M/S work is a regular part of your process. TDR Nova's GE edition (paid) adds this capability.
 
-**Do any of these free EQs support mid/side processing?**
-Not in their free versions. Mid/side per-band control is one of the harder features to find in the free EQ space, and it is a legitimate reason to consider upgrading to Pro-Q 4 if M/S work is a regular part of your process. TDR Nova's GE edition (paid) adds this capability.
+**Q: Which of these plugins work in Ableton Live and FL Studio?**
+A: All four — TDR Nova, MEqualizer, Voxengo Marvel GEQ, and LP10 — support VST/VST3 on Windows, covering both DAWs. macOS users running Ableton Live can use the AU versions of TDR Nova and Voxengo Marvel GEQ. Check each developer's download page for the specific format that matches your setup and operating system.
 
-**Which of these plugins work in Ableton Live and FL Studio?**
-All four — TDR Nova, MEqualizer, Voxengo Marvel GEQ, and LP10 — support VST/VST3 on Windows, covering both DAWs. macOS users running Ableton Live can use the AU versions of TDR Nova and Voxengo Marvel GEQ. Check each developer's download page for the specific format that matches your setup and operating system.
-
-**When does FabFilter Pro-Q 4 become worth the $179 over TDR Nova?**
-Producers consistently report hitting TDR Nova's limits in three scenarios: when they need more than four dynamic bands simultaneously, when M/S per-band control is required for stereo mix work, and when they want spectrum collision detection across instances to manage frequency masking across multiple channels at once. If none of those scenarios apply to your current workflow, TDR Nova's free version is a credible long-term tool rather than a stopgap.
-
----
-
+**Q: When does FabFilter Pro-Q 4 become worth the $179 over TDR Nova?**
+A: Producers consistently report hitting TDR Nova's limits in three scenarios: when they need more than four dynamic bands simultaneously, when M/S per-band control is required for stereo mix work, and when they want spectrum collision detection across instances to manage frequency masking across multiple channels at once. If none of those scenarios apply to your current workflow, TDR Nova's free version is a credible long-term tool rather than a stopgap. ---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

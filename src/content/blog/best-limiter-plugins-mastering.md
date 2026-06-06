@@ -283,24 +283,20 @@ The Sonnox Oxford Limiter V3 is a purpose-built tool for scenarios that demand s
 ---
 
 ## FAQ
+**Q: What's the difference between a limiter and a maximizer?**
+A: Both prevent signal from exceeding a set ceiling, but "maximizer" implies an aggressive loudness-increase focus alongside the limiting. A plugin like FabFilter Pro-L 2 can operate transparently or act as a maximizer depending on which algorithm you select. Standalone maximizers — like the Waves L2 — are tuned specifically for loud output.
 
-**What's the difference between a limiter and a maximizer?**
-Both prevent signal from exceeding a set ceiling, but "maximizer" implies an aggressive loudness-increase focus alongside the limiting. A plugin like FabFilter Pro-L 2 can operate transparently or act as a maximizer depending on which algorithm you select. Standalone maximizers — like the Waves L2 — are tuned specifically for loud output.
+**Q: What LUFS should I master to in 2026?**
+A: For Spotify and YouTube: target -14 LUFS integrated. For Apple Music: -16 LUFS. Club and electronic releases often push -7 to -9 LUFS. Always confirm with a metering plugin like Youlean Loudness Meter 2 — perceived loudness and integrated LUFS don't always align with what your eyes tell you on a limiter's gain reduction meter.
 
-**What LUFS should I master to in 2026?**
-For Spotify and YouTube: target -14 LUFS integrated. For Apple Music: -16 LUFS. Club and electronic releases often push -7 to -9 LUFS. Always confirm with a metering plugin like Youlean Loudness Meter 2 — perceived loudness and integrated LUFS don't always align with what your eyes tell you on a limiter's gain reduction meter.
+**Q: Do I actually need true peak limiting?**
+A: Yes, for any streaming delivery. MP3 and AAC encoding can introduce inter-sample peaks even when your output reads -0.1 dBFS. Set your true peak ceiling to -1.0 dBTP as a general rule, or check each platform's specific recommendation. Most modern limiters on this list support true peak mode.
 
-**Do I actually need true peak limiting?**
-Yes, for any streaming delivery. MP3 and AAC encoding can introduce inter-sample peaks even when your output reads -0.1 dBFS. Set your true peak ceiling to -1.0 dBTP as a general rule, or check each platform's specific recommendation. Most modern limiters on this list support true peak mode.
+**Q: Is FabFilter Pro-L 2 worth $199 for someone mastering their own music?**
+A: If you master frequently and release professionally, yes — the algorithm variety and output transparency justify the cost quickly. If you're mastering one or two releases a year for yourself, Limiter 6 GE at ~$49 closes most of the practical gap.
 
-**Is FabFilter Pro-L 2 worth $199 for someone mastering their own music?**
-If you master frequently and release professionally, yes — the algorithm variety and output transparency justify the cost quickly. If you're mastering one or two releases a year for yourself, Limiter 6 GE at ~$49 closes most of the practical gap.
-
-**Can I use a mastering limiter on mix buses?**
-Yes, and it's common practice on drum buses and lead vocal chains. The difference is that mix bus limiting typically benefits from faster attack times and a degree of coloration — whereas mastering chain limiting prioritizes transparency and true peak protection. If using a mastering limiter on a mix bus, engage faster release settings and monitor for pumping.
-
----
-
+**Q: Can I use a mastering limiter on mix buses?**
+A: Yes, and it's common practice on drum buses and lead vocal chains. The difference is that mix bus limiting typically benefits from faster attack times and a degree of coloration — whereas mastering chain limiting prioritizes transparency and true peak protection. If using a mastering limiter on a mix bus, engage faster release settings and monitor for pumping. ---
 ## Related Guides
 
 - [6-Step Mastering Plugin Chain for a Pro Master (2026)](/posts/mastering-chain-plugins/)

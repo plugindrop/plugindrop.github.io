@@ -173,24 +173,20 @@ VintageVerb is capable enough that most producers will never need anything else.
 ---
 
 ## FAQ
+**Q: Is Valhalla VintageVerb worth $50 in 2026?**
+A: Yes, without reservation. At $50 it competes with — and frequently outperforms — plugins priced at $150 to $200. It's one of the rare cases in plugin economics where the price feels almost too low relative to the quality delivered.
 
-**Is Valhalla VintageVerb worth $50 in 2026?**
-Yes, without reservation. At $50 it competes with — and frequently outperforms — plugins priced at $150 to $200. It's one of the rare cases in plugin economics where the price feels almost too low relative to the quality delivered.
+**Q: What's the difference between Valhalla VintageVerb and Valhalla Room?**
+A: VintageVerb emulates the character of classic digital reverb hardware with distinct algorithm "flavors" and era-based coloration. Valhalla Room focuses on realistic acoustic room simulation with more nuanced early reflection control and diffusion geometry. For most music production, VintageVerb is the more versatile choice. For post-production or scenarios where acoustic realism is non-negotiable, Room is the specialist.
 
-**What's the difference between Valhalla VintageVerb and Valhalla Room?**
-VintageVerb emulates the character of classic digital reverb hardware with distinct algorithm "flavors" and era-based coloration. Valhalla Room focuses on realistic acoustic room simulation with more nuanced early reflection control and diffusion geometry. For most music production, VintageVerb is the more versatile choice. For post-production or scenarios where acoustic realism is non-negotiable, Room is the specialist.
+**Q: Can Valhalla VintageVerb be used on vocals?**
+A: Absolutely. The Plate and Dirty Plate algorithms are among the best vocal reverbs in any price category. Use a 15–30ms pre-delay, moderate decay (1.0–2.5 seconds depending on tempo), and the 1980s Color mode for a classic vocal sound. Apply the built-in Low Cut control to prevent the reverb tail from accumulating low-frequency mud in the mix.
 
-**Can Valhalla VintageVerb be used on vocals?**
-Absolutely. The Plate and Dirty Plate algorithms are among the best vocal reverbs in any price category. Use a 15–30ms pre-delay, moderate decay (1.0–2.5 seconds depending on tempo), and the 1980s Color mode for a classic vocal sound. Apply the built-in Low Cut control to prevent the reverb tail from accumulating low-frequency mud in the mix.
+**Q: Does VintageVerb run natively on Apple Silicon (M1/M2/M3/M4)?**
+A: Yes. Valhalla DSP has shipped Apple Silicon native builds since 2021. VintageVerb runs without Rosetta translation on all M-series Macs, and performance on Apple Silicon is excellent — CPU usage is noticeably lower than on equivalent Intel hardware.
 
-**Does VintageVerb run natively on Apple Silicon (M1/M2/M3/M4)?**
-Yes. Valhalla DSP has shipped Apple Silicon native builds since 2021. VintageVerb runs without Rosetta translation on all M-series Macs, and performance on Apple Silicon is excellent — CPU usage is noticeably lower than on equivalent Intel hardware.
-
-**How does Valhalla VintageVerb compare to Lexicon or Eventide plugin reverbs?**
-VintageVerb is algorithmically inspired by hardware from Lexicon, EMT, and AMS, but it is not a sample-accurate hardware emulation. For producers wanting the *character* of those eras of reverb hardware, VintageVerb delivers it convincingly. Lexicon and Eventide software products tend to cost significantly more and offer closer hardware-accurate modeling — relevant for archival or restoration work where precision matters. For everyday music production, VintageVerb represents considerably better value.
-
----
-
+**Q: How does Valhalla VintageVerb compare to Lexicon or Eventide plugin reverbs?**
+A: VintageVerb is algorithmically inspired by hardware from Lexicon, EMT, and AMS, but it is not a sample-accurate hardware emulation. For producers wanting the *character* of those eras of reverb hardware, VintageVerb delivers it convincingly. Lexicon and Eventide software products tend to cost significantly more and offer closer hardware-accurate modeling — relevant for archival or restoration work where precision matters. For everyday music production, VintageVerb represents considerably better value. ---
 ## Final Thoughts
 
 Valhalla VintageVerb is the reverb plugin I recommend to every producer, from someone building their first studio setup to engineers with decades of credits. Eighteen algorithms, three color modes, exceptional CPU efficiency, and sound quality that genuinely outpaces plugins at two and three times the price — all for $50. There is no better value in reverb processing in 2026, and there hasn't been for years.

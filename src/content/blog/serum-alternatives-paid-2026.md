@@ -25,7 +25,7 @@ priceTrack:
 | Phase Plant | $149 | Modular routing, deep sound design | [Official Site](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026) |
 | Pigments | $199 | Multi-engine versatility, visual modulation | [Official Site](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026) |
 | Spire | $119 | EDM, trance, fast genre production | [Official Site](https://www.reveal-sound.com/store/product/Spire_Synthesizer_License) |
-| Serum 2 | $189 | Industry-standard preset ecosystem | [Official Site](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026) |
+| Serum 2 | $189 | Industry-standard preset ecosystem | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026) |
 
 ---
 
@@ -152,7 +152,7 @@ At $119, Spire is the lowest-priced option in this comparison and the strongest 
 - **Price:** $189
 - **Why upgrade:** None of the alternatives replicate Serum's third-party preset ecosystem, tutorial infrastructure, or Splice integration. If you collaborate with producers who share Serum patches, purchase commercial preset banks, or rely on the volume of Serum-specific educational content available online, Serum 2 is the only option that preserves that workflow.
 
-[→ Get Serum 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026)
+[→ Get Serum 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026)
 
 ---
 
@@ -163,7 +163,7 @@ At $119, Spire is the lowest-priced option in this comparison and the strongest 
 | Phase Plant | $149 | Modular (wavetable, analog, sample, phase distortion) | Fully modular signal path, Snapin ecosystem, blank-canvas architecture | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026) |
 | Pigments | $199 | Multi-engine (wavetable, VA, granular, harmonic, sample) | Dual-engine patches, visual mod routing, broad genre coverage | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026) |
 | Spire | $119 | Wavetable + FM + spectral | Dense EDM sound character, fast genre workflow, four multi-mode oscillators | [Get It](https://www.reveal-sound.com/store/product/Spire_Synthesizer_License) |
-| Serum 2 | $189 | Wavetable | Industry-standard preset ecosystem, Splice integration, largest tutorial library | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026) |
+| Serum 2 | $189 | Wavetable | Industry-standard preset ecosystem, Splice integration, largest tutorial library | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026) |
 
 ---
 
@@ -178,24 +178,20 @@ At $119, Spire is the lowest-priced option in this comparison and the strongest 
 ---
 
 ## FAQ
+**Q: Is Phase Plant a like-for-like Serum replacement?**
+A: Phase Plant can reproduce everything in Serum's scope — wavetable oscillators, subtractive synthesis, deep modulation — and extends significantly beyond it with modular routing. It does not import Serum presets. Producer community discussions describe the transition as a meaningful learning investment that pays off for serious sound designers; less worthwhile for producers whose workflow is primarily preset-based.
 
-**Is Phase Plant a like-for-like Serum replacement?**
-Phase Plant can reproduce everything in Serum's scope — wavetable oscillators, subtractive synthesis, deep modulation — and extends significantly beyond it with modular routing. It does not import Serum presets. Producer community discussions describe the transition as a meaningful learning investment that pays off for serious sound designers; less worthwhile for producers whose workflow is primarily preset-based.
+**Q: Does Pigments work for EDM production specifically?**
+A: Yes, with caveats. Pigments is most frequently cited in community discussions for ambient, cinematic, and contemporary electronic production, but Arturia ships EDM-oriented preset banks and r/synthrecipes regularly documents Pigments-based EDM patches. It handles bass, leads, and pads across genres competently; it's simply not optimized for genre EDM the way Spire is.
 
-**Does Pigments work for EDM production specifically?**
-Yes, with caveats. Pigments is most frequently cited in community discussions for ambient, cinematic, and contemporary electronic production, but Arturia ships EDM-oriented preset banks and r/synthrecipes regularly documents Pigments-based EDM patches. It handles bass, leads, and pads across genres competently; it's simply not optimized for genre EDM the way Spire is.
+**Q: Is Spire still worth buying in 2026 given its slower update cadence?**
+A: KVR community threads consistently note that Spire's core sound engine — particularly its lead and bass characteristics for EDM — holds up for genre production regardless of update frequency. It is not the choice for experimental sound design or producers who need the latest synthesis features. For its target application it remains competitive at its price point.
 
-**Is Spire still worth buying in 2026 given its slower update cadence?**
-KVR community threads consistently note that Spire's core sound engine — particularly its lead and bass characteristics for EDM — holds up for genre production regardless of update frequency. It is not the choice for experimental sound design or producers who need the latest synthesis features. For its target application it remains competitive at its price point.
+**Q: Can any of these synths open Serum presets?**
+A: No. Serum's preset format carries synthesizer-specific parameters that are not portable to Phase Plant, Pigments, or Spire. If third-party Serum preset libraries represent a significant part of your workflow, none of these alternatives can replicate that without manual patch reconstruction.
 
-**Can any of these synths open Serum presets?**
-No. Serum's preset format carries synthesizer-specific parameters that are not portable to Phase Plant, Pigments, or Spire. If third-party Serum preset libraries represent a significant part of your workflow, none of these alternatives can replicate that without manual patch reconstruction.
-
-**Which synth has the strongest factory preset library?**
-Community consensus splits by genre: Spire's factory presets are most immediately deployable for EDM and trance production; Pigments covers the broadest range of styles including ambient, cinematic, and electronic; Phase Plant's included patches demonstrate its modular capabilities but are most valuable to producers who intend to build their own sounds. Serum 2's preset library is the largest in absolute terms when third-party packs are included.
-
----
-
+**Q: Which synth has the strongest factory preset library?**
+A: Community consensus splits by genre: Spire's factory presets are most immediately deployable for EDM and trance production; Pigments covers the broadest range of styles including ambient, cinematic, and electronic; Phase Plant's included patches demonstrate its modular capabilities but are most valuable to producers who intend to build their own sounds. Serum 2's preset library is the largest in absolute terms when third-party packs are included. ---
 ## Related Guides
 
 - [Best Synth Plugins 2026 — Ranked: Free & Paid VSTs for Every Style](/posts/best-synth-plugins-2026/)

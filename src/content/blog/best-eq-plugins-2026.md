@@ -167,24 +167,20 @@ MEqualizer is part of MeldaProduction's free MFreeFXBundle and offers six fully 
 ---
 
 ## FAQ
+**Q: What's the difference between a parametric EQ and a dynamic EQ?**
+A: A parametric EQ applies a fixed boost or cut at a frequency — it's always on, always the same amount. A dynamic EQ only engages when the signal hits a threshold, similar to a frequency-specific compressor. Dynamic EQ is more transparent on material with variable levels, like vocals or acoustic instruments, because it only processes when there's actually a problem.
 
-**What's the difference between a parametric EQ and a dynamic EQ?**
-A parametric EQ applies a fixed boost or cut at a frequency — it's always on, always the same amount. A dynamic EQ only engages when the signal hits a threshold, similar to a frequency-specific compressor. Dynamic EQ is more transparent on material with variable levels, like vocals or acoustic instruments, because it only processes when there's actually a problem.
+**Q: Is FabFilter Pro-Q 4 really worth $179 when TDR Nova is free?**
+A: For most producers just mixing their own music, TDR Nova handles the majority of tasks competently. Pro-Q 4's advantages — more bands, smoother interface, better spectrum grab interaction, tighter analyzer, and broader format support — matter most in professional mixing and mastering contexts where you're on the plugin all day. If you're billing clients for mixing time, $179 is trivial. If you're a bedroom producer, start free.
 
-**Is FabFilter Pro-Q 4 really worth $179 when TDR Nova is free?**
-For most producers just mixing their own music, TDR Nova handles the majority of tasks competently. Pro-Q 4's advantages — more bands, smoother interface, better spectrum grab interaction, tighter analyzer, and broader format support — matter most in professional mixing and mastering contexts where you're on the plugin all day. If you're billing clients for mixing time, $179 is trivial. If you're a bedroom producer, start free.
+**Q: Do I need a linear phase EQ?**
+A: Linear phase EQ preserves the phase relationships between frequencies, which matters most on the master bus or stereo bus when you're making broad tonal adjustments. On individual tracks at mix stage, regular minimum phase EQs are usually preferable because they have lower latency and avoid pre-ringing artifacts. Voxengo Marvel GEQ covers the linear phase use case for free.
 
-**Do I need a linear phase EQ?**
-Linear phase EQ preserves the phase relationships between frequencies, which matters most on the master bus or stereo bus when you're making broad tonal adjustments. On individual tracks at mix stage, regular minimum phase EQs are usually preferable because they have lower latency and avoid pre-ringing artifacts. Voxengo Marvel GEQ covers the linear phase use case for free.
+**Q: Can I use these plugins in any DAW?**
+A: Yes. All plugins listed here support VST3 on Windows and macOS. Most also support AU (Logic, GarageBand) and AAX (Pro Tools). MEqualizer and TDR Nova also have 32-bit VST builds for older DAWs. Check each developer's format list before purchasing if AAX support is required.
 
-**Can I use these plugins in any DAW?**
-Yes. All plugins listed here support VST3 on Windows and macOS. Most also support AU (Logic, GarageBand) and AAX (Pro Tools). MEqualizer and TDR Nova also have 32-bit VST builds for older DAWs. Check each developer's format list before purchasing if AAX support is required.
-
-**What's the best EQ for mastering specifically?**
-FabFilter Pro-Q 4 in linear phase mode is the most common choice in professional mastering. Voxengo Marvel GEQ is the best free option. Dynamic EQ from TDR Nova (or Pro-Q 4's built-in dynamic mode) is valuable for transparent level-dependent tonal control without heavy-handed static cuts.
-
----
-
+**Q: What's the best EQ for mastering specifically?**
+A: FabFilter Pro-Q 4 in linear phase mode is the most common choice in professional mastering. Voxengo Marvel GEQ is the best free option. Dynamic EQ from TDR Nova (or Pro-Q 4's built-in dynamic mode) is valuable for transparent level-dependent tonal control without heavy-handed static cuts. ---
 ## Final Thoughts
 
 In 2026, the quality floor for free EQ plugins is genuinely high — TDR Nova and Voxengo Marvel GEQ are not compromises, they're legitimate tools. But FabFilter Pro-Q 4 remains the single best investment if you mix regularly: its combination of dynamic EQ, M/S processing, and workflow efficiency adds up to faster, better-sounding sessions over time.

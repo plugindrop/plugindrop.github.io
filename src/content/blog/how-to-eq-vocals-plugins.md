@@ -202,24 +202,20 @@ Neutron 4 is not a standalone EQ — it's a full mixing channel strip where the 
 ---
 
 ## FAQ
+**Q: What frequency should I cut first when EQ'ing vocals?**
+A: Start with the high-pass filter to clear sub-bass content below 80–120Hz. After that, the 200–350Hz range is the most common first problem — low-mid mud that makes vocals sound boxy or occluded. Identify and address that region before applying any boosts elsewhere in the spectrum.
 
-**What frequency should I cut first when EQ'ing vocals?**
-Start with the high-pass filter to clear sub-bass content below 80–120Hz. After that, the 200–350Hz range is the most common first problem — low-mid mud that makes vocals sound boxy or occluded. Identify and address that region before applying any boosts elsewhere in the spectrum.
+**Q: Should I use a dynamic EQ or a static EQ on vocals?**
+A: Both serve different roles in the same chain. Static EQ handles consistent structural corrections: the HPF, a fixed mud cut, a presence boost that applies uniformly. Dynamic EQ handles frequency content that varies with the performance's dynamics — low-mid buildup and high-frequency harshness that only appear when the vocalist pushes loud or hard. TDR Nova covers the dynamic EQ role for free; FabFilter Pro-Q 4 handles both modes in one plugin.
 
-**Should I use a dynamic EQ or a static EQ on vocals?**
-Both serve different roles in the same chain. Static EQ handles consistent structural corrections: the HPF, a fixed mud cut, a presence boost that applies uniformly. Dynamic EQ handles frequency content that varies with the performance's dynamics — low-mid buildup and high-frequency harshness that only appear when the vocalist pushes loud or hard. TDR Nova covers the dynamic EQ role for free; FabFilter Pro-Q 4 handles both modes in one plugin.
+**Q: What's the difference between iZotope Neutron 4 and Nectar 4 for vocals?**
+A: Neutron 4 is a general-purpose channel strip designed for any instrument in a mix. Nectar 4 is built exclusively for vocal production — its modules, AI Vocal Assistant, and Unmask inter-plugin feature are specifically designed around vocal EQ and processing challenges that Neutron addresses only in passing.
 
-**What's the difference between iZotope Neutron 4 and Nectar 4 for vocals?**
-Neutron 4 is a general-purpose channel strip designed for any instrument in a mix. Nectar 4 is built exclusively for vocal production — its modules, AI Vocal Assistant, and Unmask inter-plugin feature are specifically designed around vocal EQ and processing challenges that Neutron addresses only in passing.
+**Q: Is FabFilter Pro-Q 4 worth the price for a home studio producer?**
+A: Producer communities have positioned Pro-Q 4 as a long-term investment precisely because it doesn't need to be replaced as skills develop. The precision it provides is accessible to beginners and still relevant to professional engineers. That said, TDR Nova is a legitimate free alternative for producers not ready to commit $179.
 
-**Is FabFilter Pro-Q 4 worth the price for a home studio producer?**
-Producer communities have positioned Pro-Q 4 as a long-term investment precisely because it doesn't need to be replaced as skills develop. The precision it provides is accessible to beginners and still relevant to professional engineers. That said, TDR Nova is a legitimate free alternative for producers not ready to commit $179.
-
-**What's the best EQ curve to start with on every vocal?**
-There is no universal starting curve — every voice, microphone, and room produces a different frequency profile. What transfers reliably is the process: high-pass filter first, cut mud around 200–350Hz, find and remove narrow resonances in the 500Hz–2kHz range, consider a broad presence boost around 3–4kHz, and optionally add a high-shelf air boost above 12kHz. Apply that sequence to every vocal and adjust the specific frequencies and depths to match what you hear.
-
----
-
+**Q: What's the best EQ curve to start with on every vocal?**
+A: There is no universal starting curve — every voice, microphone, and room produces a different frequency profile. What transfers reliably is the process: high-pass filter first, cut mud around 200–350Hz, find and remove narrow resonances in the 500Hz–2kHz range, consider a broad presence boost around 3–4kHz, and optionally add a high-shelf air boost above 12kHz. Apply that sequence to every vocal and adjust the specific frequencies and depths to match what you hear. ---
 ## Related Guides
 
 - [Complete Drum Mixing Plugin Chain: Best Tools for Punchy Drums (2026)](/posts/drum-mixing-plugin-chain/)

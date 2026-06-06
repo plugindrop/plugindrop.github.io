@@ -30,7 +30,7 @@ priceTrack:
 | Dexed | Free | DX7 FM patches, 80s electric pianos | [Free Download](https://asb2m10.github.io/dexed/) |
 | OB-Xd | Free | Synthwave pads, Oberheim analog leads | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
 | TAL-NoiseMaker | Free | Beginner-friendly analog sounds | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
-| Odin2 | Free | Advanced semi-modular synthesis | [Free Download](https://www.pluginboutique.com/product/1-Instruments/4-Synth/7226-Odin-2?a_aid=69cb95abe1763) |
+| Odin2 | Free | Advanced semi-modular synthesis | Free Download |
 | Synth1 | Free | Classic subtractive with 100k+ presets | Free Download |
 
 ## Introduction
@@ -160,7 +160,7 @@ Helm was Matthew Tytel's main instrument before Vital arrived, and it still earn
 
 **Best for:** Learning synthesis fundamentals, lightweight sessions, clean subtractive patches
 
-[→ Download Helm Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins)
+[→ Download Helm Free (via Plugin Boutique)](https://tytel.org/helm/)
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/V7CXeh2WZQc" title="Helm Synth Review & Presets Demo (Free VST Plugin by Matt Tytel)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -346,7 +346,7 @@ Yoshimi is a fork of ZynAddSubFX with the same three synthesis engines — addit
 - **Price:** ~$189 (subscription options available via Splice)
 - **Why upgrade:** Vital's free tier is genuinely close, but Serum's built-in wavetable editor, its deeper workflow integration across commercial sound packs, and the breadth of third-party presets built specifically for it make it the benchmark for professional wavetable production that Vital references but does not yet match in ecosystem depth.
 
-[→ Get Serum (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins)
+[→ Get Serum (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins)
 
 ---
 
@@ -384,7 +384,7 @@ Yoshimi is a fork of ZynAddSubFX with the same three synthesis engines — addit
 | Dexed | Free | FM (6-op) | DX7 SysEx compatible, 6-operator FM engine | [Official Site](https://asb2m10.github.io/dexed/) |
 | ZynAddSubFX | Free | Additive / Subtractive | PADsynth engine, deep harmonic control | [Developer](https://zynaddsubfx.sourceforge.io/) |
 | OB-Xd | Free | Virtual Analog | Oberheim filter, 12-voice polyphony, AAX support | [Official Site](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
-| Helm | Free | Analog Hybrid | Step sequencer, visual modulation, beginner-friendly | [Official Site](https://www.pluginboutique.com/search?search_query=Helm%20synth&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
+| Helm | Free | Analog Hybrid | Step sequencer, visual modulation, beginner-friendly | [Official Site](https://tytel.org/helm/) |
 | Tyrell N6 | Free | Virtual Analog | u-he analog character, warm filter | [Official Site](https://u-he.com/products/tyrelln6/) |
 | TAL-NoiseMaker | Free | Virtual Analog | 3 oscillators, onboard FX, easiest to learn | [Official Site](https://www.pluginboutique.com/search?search_query=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
 | Synth1 | Free | Virtual Analog | 100,000+ community presets, Nord-inspired | [Free Download](https://daichilab.sakura.ne.jp/softsynth/index.html) |
@@ -450,33 +450,29 @@ Downloading a free synth is straightforward, but the installation step trips up 
 ---
 
 ## FAQ
+**Q: What is the best free synth VST plugin in 2026?**
+A: Vital is the top free synth VST plugin in 2026 for most producers. The wavetable engine, drag-and-drop modulation system, and built-in effects rack deliver professional results in every major DAW. For FM synthesis specifically, Dexed is the definitive free choice.
 
-**What is the best free synth VST plugin in 2026?**
-Vital is the top free synth VST plugin in 2026 for most producers. The wavetable engine, drag-and-drop modulation system, and built-in effects rack deliver professional results in every major DAW. For FM synthesis specifically, Dexed is the definitive free choice.
+**Q: Are free synth VST plugins good enough for professional use?**
+A: Yes — Vital, Surge XT, and OB-Xd appear regularly in professional releases. The quality gap between free and paid synths has narrowed substantially over the past several years, and for the majority of production work, the instruments on this list are indistinguishable from paid alternatives in a finished mix.
 
-**Are free synth VST plugins good enough for professional use?**
-Yes — Vital, Surge XT, and OB-Xd appear regularly in professional releases. The quality gap between free and paid synths has narrowed substantially over the past several years, and for the majority of production work, the instruments on this list are indistinguishable from paid alternatives in a finished mix.
+**Q: What is the difference between wavetable and FM synthesis?**
+A: Wavetable synthesis scans through short audio snapshots and morphs between them to create evolving timbres — Vital and Surge XT both use this approach. FM synthesis uses frequency modulation between oscillators to produce complex inharmonic spectra, giving it the metallic and bell-like character associated with the Yamaha DX7. Dexed is FM; Surge XT supports both modes within the same patch.
 
-**What is the difference between wavetable and FM synthesis?**
-Wavetable synthesis scans through short audio snapshots and morphs between them to create evolving timbres — Vital and Surge XT both use this approach. FM synthesis uses frequency modulation between oscillators to produce complex inharmonic spectra, giving it the metallic and bell-like character associated with the Yamaha DX7. Dexed is FM; Surge XT supports both modes within the same patch.
+**Q: Which free synths are compatible with macOS Sonoma and Windows 11 in 2026?**
+A: Vital, Surge XT, OB-Xd, TAL-NoiseMaker, Helm, Odin2, and Pendulate all have current releases verified on macOS Sonoma and Windows 11. Synth1 is Windows-only officially, though the community maintains macOS builds. Always download from the official developer site to ensure you have the most recent version.
 
-**Which free synths are compatible with macOS Sonoma and Windows 11 in 2026?**
-Vital, Surge XT, OB-Xd, TAL-NoiseMaker, Helm, Odin2, and Pendulate all have current releases verified on macOS Sonoma and Windows 11. Synth1 is Windows-only officially, though the community maintains macOS builds. Always download from the official developer site to ensure you have the most recent version.
+**Q: Can I use these free VST synths in Ableton Live, FL Studio, and Logic Pro?**
+A: Yes. Every plugin on this list supports VST3 (for Ableton Live and FL Studio) or AU (for Logic Pro), with most supporting both. Dexed supports VST and AU. Synth1 is VST for Windows only. Check the developer page for the latest format availability before downloading.
 
-**Can I use these free VST synths in Ableton Live, FL Studio, and Logic Pro?**
-Yes. Every plugin on this list supports VST3 (for Ableton Live and FL Studio) or AU (for Logic Pro), with most supporting both. Dexed supports VST and AU. Synth1 is VST for Windows only. Check the developer page for the latest format availability before downloading.
+**Q: What is the best free synth for EDM and electronic music production?**
+A: Vital is the strongest all-around choice for EDM — the wavetable engine handles supersaw leads, evolving pads, and aggressive bass patches that define the genre. Surge XT is the better choice if you want deeper modulation routing for complex, animated sound design. For house and tech house specifically, Tyrell N6's warm analog character sits well in a mix without needing heavy post-processing.
 
-**What is the best free synth for EDM and electronic music production?**
-Vital is the strongest all-around choice for EDM — the wavetable engine handles supersaw leads, evolving pads, and aggressive bass patches that define the genre. Surge XT is the better choice if you want deeper modulation routing for complex, animated sound design. For house and tech house specifically, Tyrell N6's warm analog character sits well in a mix without needing heavy post-processing.
-
-**What is the best free synth for beginners in 2026?**
-TAL-NoiseMaker is the recommended starting point — the three-oscillator layout, clean filter section, and onboard reverb/chorus teach synthesis fundamentals without overwhelming routing options. Once the basics are clear, Vital is the natural next step: the drag-and-drop modulation system is intuitive enough for beginners but deep enough to grow with. Helm is another good beginner option from the same developer, with a visual modulation routing system that makes the signal flow easy to understand.
-
----
-
+**Q: What is the best free synth for beginners in 2026?**
+A: TAL-NoiseMaker is the recommended starting point — the three-oscillator layout, clean filter section, and onboard reverb/chorus teach synthesis fundamentals without overwhelming routing options. Once the basics are clear, Vital is the natural next step: the drag-and-drop modulation system is intuitive enough for beginners but deep enough to grow with. Helm is another good beginner option from the same developer, with a visual modulation routing system that makes the signal flow easy to understand. ---
 ## Final Thoughts
 
-For most producers in 2026, **Vital** is the only free synth you need to start — wavetable power, a visual modulation system, and a built-in effects chain in a single free download. Add **OB-Xd** for vintage analog character and **Dexed** for FM textures, and you have a production-ready synthesis toolkit before spending anything. When you are ready to invest, [Serum](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) remains the most logical paid upgrade — the ecosystem depth and wavetable editor are worth every dollar for producers working at scale.
+For most producers in 2026, **Vital** is the only free synth you need to start — wavetable power, a visual modulation system, and a built-in effects chain in a single free download. Add **OB-Xd** for vintage analog character and **Dexed** for FM textures, and you have a production-ready synthesis toolkit before spending anything. When you are ready to invest, [Serum](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) remains the most logical paid upgrade — the ecosystem depth and wavetable editor are worth every dollar for producers working at scale.
 
 ---
 

@@ -227,24 +227,20 @@ The separation is not perfect on every source, and artifacts are audible on heav
 ---
 
 ## FAQ
+**Q: Is iZotope Ozone 12 worth it for bedroom producers?**
+A: Yes, particularly Ozone 12 Standard. The Master Assistant alone removes the steepest learning curve in mastering — generating a calibrated starting chain from your actual audio. For self-releasing producers without dedicated mastering training, the time and quality return on the ~$199 investment is difficult to match with individual plugins at the same budget.
 
-**Is iZotope Ozone 12 worth it for bedroom producers?**
-Yes, particularly Ozone 12 Standard. The Master Assistant alone removes the steepest learning curve in mastering — generating a calibrated starting chain from your actual audio. For self-releasing producers without dedicated mastering training, the time and quality return on the ~$199 investment is difficult to match with individual plugins at the same budget.
+**Q: What is the difference between Ozone 12 Standard and Advanced?**
+A: The main Advanced-exclusive features are Stem Focus (AI stem separation for mastering-stage mix corrections), the Vintage Compressor and Vintage Limiter modules (Standard only includes Vintage EQ and Tape), and access to the full codec preview and advanced metering suite. Advanced is aimed at professional mastering engineers and producers who need the stem correction capabilities.
 
-**What is the difference between Ozone 12 Standard and Advanced?**
-The main Advanced-exclusive features are Stem Focus (AI stem separation for mastering-stage mix corrections), the Vintage Compressor and Vintage Limiter modules (Standard only includes Vintage EQ and Tape), and access to the full codec preview and advanced metering suite. Advanced is aimed at professional mastering engineers and producers who need the stem correction capabilities.
+**Q: Can I use Ozone 12 alongside FabFilter Pro-L 2?**
+A: Yes, and many professional engineers do. A common workflow is to use Ozone 12 for EQ, dynamics, imaging, and character processing, then bypass the Maximizer and feed the signal to Pro-L 2 for the final limiting stage. This gives you Ozone's module depth combined with Pro-L 2's superior limiting transparency and broadcast-compliant metering.
 
-**Can I use Ozone 12 alongside FabFilter Pro-L 2?**
-Yes, and many professional engineers do. A common workflow is to use Ozone 12 for EQ, dynamics, imaging, and character processing, then bypass the Maximizer and feed the signal to Pro-L 2 for the final limiting stage. This gives you Ozone's module depth combined with Pro-L 2's superior limiting transparency and broadcast-compliant metering.
+**Q: Does Ozone 12 work well in Ableton Live and FL Studio?**
+A: Yes. Ozone 12 runs as VST3 and AU on both platforms with no known compatibility issues. The recommended workflow is to load it on the master bus as the final processing plugin. The standalone mode also allows mastering outside your DAW entirely, which some producers prefer for a fresh listening perspective.
 
-**Does Ozone 12 work well in Ableton Live and FL Studio?**
-Yes. Ozone 12 runs as VST3 and AU on both platforms with no known compatibility issues. The recommended workflow is to load it on the master bus as the final processing plugin. The standalone mode also allows mastering outside your DAW entirely, which some producers prefer for a fresh listening perspective.
-
-**Is the AI in Ozone 12 actually useful or just a gimmick?**
-Master Assistant is genuinely useful as a starting point generator — it saves significant time on initial setup. Stem Focus is useful for light corrections but shows artifacts on heavy processing. The AI tools are best understood as accelerators, not replacements: they get you 70% of the way there faster, and you close the remaining gap by ear.
-
----
-
+**Q: Is the AI in Ozone 12 actually useful or just a gimmick?**
+A: Master Assistant is genuinely useful as a starting point generator — it saves significant time on initial setup. Stem Focus is useful for light corrections but shows artifacts on heavy processing. The AI tools are best understood as accelerators, not replacements: they get you 70% of the way there faster, and you close the remaining gap by ear. ---
 ## Related Guides
 
 - [FabFilter Pro-L 2 Review: Industry-Standard Limiter?](/posts/fabfilter-pro-l-2-review/)

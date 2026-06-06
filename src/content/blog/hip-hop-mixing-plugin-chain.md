@@ -180,24 +180,20 @@ The four-plugin chain above covers EQ, dynamics, and character for a complete hi
 ---
 
 ## FAQ
+**Q: What order should plugins run in a hip-hop mixing chain?**
+A: EQ first on individual channels (Pro-Q 4), parallel multiband compression second on a drum bus return (OTT), bus compression third on drum and mix bus (SSL G-Master), and texture and character last on the mix bus or a parallel return (iZotope Vinyl). This sequence ensures each stage receives properly conditioned audio rather than compressing or coloring problems introduced by the previous processor.
 
-**What order should plugins run in a hip-hop mixing chain?**
-EQ first on individual channels (Pro-Q 4), parallel multiband compression second on a drum bus return (OTT), bus compression third on drum and mix bus (SSL G-Master), and texture and character last on the mix bus or a parallel return (iZotope Vinyl). This sequence ensures each stage receives properly conditioned audio rather than compressing or coloring problems introduced by the previous processor.
+**Q: Is OTT only for EDM, or does it actually work in hip-hop?**
+A: The Xfer OTT preset originated in EDM, but its multiband upward compression behavior is documented consistently across hip-hop sub-genres. R/trapproduction and r/beatmakers threads document it as effective on 808 groups and drum buses at low depth values — the critical variable is using it in parallel at under 40% mix depth for most hip-hop applications rather than as a direct insert at full strength.
 
-**Is OTT only for EDM, or does it actually work in hip-hop?**
-The Xfer OTT preset originated in EDM, but its multiband upward compression behavior is documented consistently across hip-hop sub-genres. R/trapproduction and r/beatmakers threads document it as effective on 808 groups and drum buses at low depth values — the critical variable is using it in parallel at under 40% mix depth for most hip-hop applications rather than as a direct insert at full strength.
+**Q: Do I need iZotope Vinyl if I'm not making lo-fi beats?**
+A: Not exclusively — the producer community documents it working at conservative settings on trap, boom-bap, and melodic hip-hop sessions specifically to reduce the high-frequency harshness that digital recording chains introduce. At under 10% on most parameters, it functions as a subtle warmth processor, not a lo-fi effect. The lo-fi character only appears at high settings with noise and warp controls pushed.
 
-**Do I need iZotope Vinyl if I'm not making lo-fi beats?**
-Not exclusively — the producer community documents it working at conservative settings on trap, boom-bap, and melodic hip-hop sessions specifically to reduce the high-frequency harshness that digital recording chains introduce. At under 10% on most parameters, it functions as a subtle warmth processor, not a lo-fi effect. The lo-fi character only appears at high settings with noise and warp controls pushed.
+**Q: Can the Waves SSL G-Master Buss Compressor be used on individual channels?**
+A: The circuit behavior and gain reduction characteristics are optimized for summed bus signals. Community documentation consistently positions it as a drum bus and mix bus tool. For individual channel compression in hip-hop — kick, snare, vocal — the community more commonly references the CLA-76 (included in Waves Platinum Bundle) or an SSL E-Channel strip for single-channel dynamics work.
 
-**Can the Waves SSL G-Master Buss Compressor be used on individual channels?**
-The circuit behavior and gain reduction characteristics are optimized for summed bus signals. Community documentation consistently positions it as a drum bus and mix bus tool. For individual channel compression in hip-hop — kick, snare, vocal — the community more commonly references the CLA-76 (included in Waves Platinum Bundle) or an SSL E-Channel strip for single-channel dynamics work.
-
-**Is FabFilter Pro-Q 4 worth $179 when free EQ options exist?**
-The community answer is consistently yes, with the dynamic EQ mode cited as the primary justification. Free alternatives like TDR Nova offer dynamic EQ functionality and are regularly recommended as starting points on r/audioengineering, but Pro-Q 4's frequency collision detection, the quality of its analyzer, and the linear phase mode across all bands are the workflow features that producer communities document as the practical gap between the two. TDR Nova is the recommended free alternative until the budget supports Pro-Q 4.
-
----
-
+**Q: Is FabFilter Pro-Q 4 worth $179 when free EQ options exist?**
+A: The community answer is consistently yes, with the dynamic EQ mode cited as the primary justification. Free alternatives like TDR Nova offer dynamic EQ functionality and are regularly recommended as starting points on r/audioengineering, but Pro-Q 4's frequency collision detection, the quality of its analyzer, and the linear phase mode across all bands are the workflow features that producer communities document as the practical gap between the two. TDR Nova is the recommended free alternative until the budget supports Pro-Q 4. ---
 ## Related Guides
 
 - [12 Best Free Lo-Fi Sample Packs in 2026 (Drums, Vinyl Crackle, Chords)](/posts/best-free-lofi-sample-packs/)

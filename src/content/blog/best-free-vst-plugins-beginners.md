@@ -456,24 +456,20 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 ---
 
 ## FAQ
+**Q: Are free VST plugins good enough for professional music production?**
+A: Yes — several major releases use plugins from this exact list, particularly Valhalla Supermassive and Vital. The limiting factor in your music will almost certainly be experience before plugin quality becomes the issue.
 
-**Are free VST plugins good enough for professional music production?**
-Yes — several major releases use plugins from this exact list, particularly Valhalla Supermassive and Vital. The limiting factor in your music will almost certainly be experience before plugin quality becomes the issue.
+**Q: What DAW works best with these free VST plugins?**
+A: Every DAW supporting VST3 — or AU on Mac — will work with these plugins. Reaper is the best free/budget host, while Ableton Live, FL Studio, and Logic Pro X are the leading paid options. All the plugins here are DAW-agnostic.
 
-**What DAW works best with these free VST plugins?**
-Every DAW supporting VST3 — or AU on Mac — will work with these plugins. Reaper is the best free/budget host, while Ableton Live, FL Studio, and Logic Pro X are the leading paid options. All the plugins here are DAW-agnostic.
+**Q: Do I need all 20 plugins, or should I start with just a few?**
+A: Start with five: Vital (synth), TDR Nova (EQ), TDR Kotelnikov (compressor), Valhalla Supermassive (reverb), and LABS (instruments). These five cover every essential production function and will take months to fully explore before you need anything else.
 
-**Do I need all 20 plugins, or should I start with just a few?**
-Start with five: Vital (synth), TDR Nova (EQ), TDR Kotelnikov (compressor), Valhalla Supermassive (reverb), and LABS (instruments). These five cover every essential production function and will take months to fully explore before you need anything else.
+**Q: Will these plugins slow down my computer?**
+A: Most are well-optimized. Vital, Surge XT, and the TDR plugins are all known for low CPU usage. MeldaProduction's bundle is the heaviest on resources — be selective about which of the 37 plugins you keep active in sessions if you're on older hardware.
 
-**Will these plugins slow down my computer?**
-Most are well-optimized. Vital, Surge XT, and the TDR plugins are all known for low CPU usage. MeldaProduction's bundle is the heaviest on resources — be selective about which of the 37 plugins you keep active in sessions if you're on older hardware.
-
-**What's the difference between VST2 and VST3?**
-VST3 is the current standard and is recommended for all new installs — it offers better performance, proper plugin deactivation when not processing signal, and cleaner MIDI handling. All major plugins on this list are available in VST3.
-
----
-
+**Q: What's the difference between VST2 and VST3?**
+A: VST3 is the current standard and is recommended for all new installs — it offers better performance, proper plugin deactivation when not processing signal, and cleaner MIDI handling. All major plugins on this list are available in VST3. ---
 ## Final Thoughts
 
 For beginners in 2026, the quality of free plugins is genuinely extraordinary — and **Vital** remains the single best starting point in the entire ecosystem. Install it alongside **Valhalla Supermassive** and **TDR Nova**, and you have a production-ready kit that will serve you for years before you feel the ceiling.

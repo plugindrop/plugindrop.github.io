@@ -296,24 +296,20 @@ Available through slatedigital.com.
 ---
 
 ## FAQ
+**Q: What type of compressor is best for a drum bus?**
+A: VCA-style bus compressors are the most widely used on drum buses. Their timing characteristics — especially automatic release modes — respond musically to rhythmic material. The Waves SSL G-Master Buss Compressor and Cytomic The Glue are both VCA emulations built specifically for this application, and both dominate community recommendation threads for this use case.
 
-**What type of compressor is best for a drum bus?**
-VCA-style bus compressors are the most widely used on drum buses. Their timing characteristics — especially automatic release modes — respond musically to rhythmic material. The Waves SSL G-Master Buss Compressor and Cytomic The Glue are both VCA emulations built specifically for this application, and both dominate community recommendation threads for this use case.
+**Q: Should I compress individual drums or just the drum bus?**
+A: Both. Channel compression on kick, snare, and room mics shapes transients and corrects dynamic inconsistencies within each hit. Bus compression then glues those compressed channels together into a cohesive sound. Most commercial drum sounds in pop, hip-hop, and rock use both stages.
 
-**Should I compress individual drums or just the drum bus?**
-Both. Channel compression on kick, snare, and room mics shapes transients and corrects dynamic inconsistencies within each hit. Bus compression then glues those compressed channels together into a cohesive sound. Most commercial drum sounds in pop, hip-hop, and rock use both stages.
+**Q: What compression ratio works best on a drum bus?**
+A: Ratios of 2:1 to 4:1 with slow-to-medium attack are the most commonly recommended in production communities for drum bus work — enough to reduce peaks and add glue without killing transients. For snare channel compression using a fast FET-style compressor, ratios of 4:1 to 8:1 with faster attack are standard.
 
-**What compression ratio works best on a drum bus?**
-Ratios of 2:1 to 4:1 with slow-to-medium attack are the most commonly recommended in production communities for drum bus work — enough to reduce peaks and add glue without killing transients. For snare channel compression using a fast FET-style compressor, ratios of 4:1 to 8:1 with faster attack are standard.
+**Q: Is FabFilter Pro-C 2 worth $179 specifically for drums?**
+A: The r/WeAreTheMusicMakers and r/audioengineering communities consistently position it as high-value when you account for versatility — it replaces multiple single-purpose compressors in a session. If you're doing drum bus glue, snare channel compression, and parallel compression in the same project, the ability to use one plugin across all three saves both CPU and the cost of separate tools.
 
-**Is FabFilter Pro-C 2 worth $179 specifically for drums?**
-The r/WeAreTheMusicMakers and r/audioengineering communities consistently position it as high-value when you account for versatility — it replaces multiple single-purpose compressors in a session. If you're doing drum bus glue, snare channel compression, and parallel compression in the same project, the ability to use one plugin across all three saves both CPU and the cost of separate tools.
-
-**What is the difference between Rough Rider 3 and TDR Kotelnikov on drums?**
-They serve different purposes. Rough Rider 3 adds character and pumping — it has a sound, and that sound is part of its value on drums. TDR Kotelnikov is transparent — it controls dynamics without coloring the signal. For electronic music where the pump is a desirable effect, Rough Rider 3 is the community recommendation. For acoustic drums where the character needs to come from the samples or the room, TDR Kotelnikov is the better fit.
-
----
-
+**Q: What is the difference between Rough Rider 3 and TDR Kotelnikov on drums?**
+A: They serve different purposes. Rough Rider 3 adds character and pumping — it has a sound, and that sound is part of its value on drums. TDR Kotelnikov is transparent — it controls dynamics without coloring the signal. For electronic music where the pump is a desirable effect, Rough Rider 3 is the community recommendation. For acoustic drums where the character needs to come from the samples or the room, TDR Kotelnikov is the better fit. ---
 ## Related Guides
 
 - [ADSR Sounds vs Splice: Which Sample Subscription Is Better in 2026?](/posts/adsr-vs-splice-samples/)

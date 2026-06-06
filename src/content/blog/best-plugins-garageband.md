@@ -27,7 +27,7 @@ priceTrack:
 | TDR Nova | Free | Dynamic EQ & mixing | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
 | Surge XT | Free | Deep hybrid synthesis | [Free Download](https://surge-synthesizer.github.io/) |
 | TAL-NoiseMaker | Free | Analog-style synth | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
-| Serum 2 | Paid | Pro wavetable synth | [Get Serum 2 (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
+| Serum 2 | Paid | Pro wavetable synth | [Get Serum 2 (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
 | FabFilter Pro-Q 4 | ~$199 | Professional EQ | [Get Pro-Q 4 (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
 
 ---
@@ -176,7 +176,7 @@ These three plugins represent the community's clearest benchmarks for their cate
 - **Price:** Subscription or one-time purchase
 - **Why upgrade:** Vital is an excellent free synthesizer with no core engine limitations. The practical case for Serum 2 is its ecosystem: it has the largest third-party preset and wavetable library of any commercial synthesizer, a deep community of sound designers producing Serum-specific content, and tutorial resources that dwarf any free alternative. For producers working in EDM, future bass, or hip-hop — genres where Serum-designed sounds are stylistically foundational — the workflow advantage of that ecosystem is real and well-documented across producer communities.
 
-[→ Get Serum 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband)
+[→ Get Serum 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband)
 
 ---
 
@@ -214,7 +214,7 @@ These three plugins represent the community's clearest benchmarks for their cate
 | TDR Nova | Free | Dynamic EQ | Static + dynamic EQ per band, professional-grade, trusted by engineers | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
 | Valhalla Supermassive | Free | Reverb / Delay | Massive reverb tails, creative spatial effects, no limitations | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
 | Rough Rider 3 | Free | Compressor | Colored, punchy character, excellent on drums | [Download](https://www.audiodamage.com/pages/free-and-legacy) |
-| Serum 2 | Paid | Wavetable Synth | Industry standard, largest preset ecosystem, Steve Duda | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
+| Serum 2 | Paid | Wavetable Synth | Industry standard, largest preset ecosystem, Steve Duda | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
 | Valhalla VintageVerb | ~$50 | Algorithmic Reverb | Vintage hardware emulation, mix-transparent, top community pick | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
 | FabFilter Pro-Q 4 | ~$199 | Parametric / Dynamic EQ | Unlimited bands, mid/side, spectrum grab, industry reference | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
 
@@ -232,24 +232,20 @@ These three plugins represent the community's clearest benchmarks for their cate
 ---
 
 ## FAQ
+**Q: Do VST plugins work in GarageBand on Mac?**
+A: GarageBand on macOS supports Audio Unit (AU) format only — it does not load VST or VST3 plugins natively without a wrapper. Every plugin in this guide has a native AU version for macOS. When downloading from a developer's site, confirm you're installing the AU build rather than VST3.
 
-**Do VST plugins work in GarageBand on Mac?**
-GarageBand on macOS supports Audio Unit (AU) format only — it does not load VST or VST3 plugins natively without a wrapper. Every plugin in this guide has a native AU version for macOS. When downloading from a developer's site, confirm you're installing the AU build rather than VST3.
+**Q: Is the free tier of Vital actually fully functional?**
+A: Developer Matt Tytel has explicitly confirmed the free tier is a permanent offering with no trial limitations, watermarking, or functional restrictions on the synthesis engine. The 25 included presets are enough to start; the paid tiers add curated preset packs and additional wavetable content, not engine features.
 
-**Is the free tier of Vital actually fully functional?**
-Developer Matt Tytel has explicitly confirmed the free tier is a permanent offering with no trial limitations, watermarking, or functional restrictions on the synthesis engine. The 25 included presets are enough to start; the paid tiers add curated preset packs and additional wavetable content, not engine features.
+**Q: What's the real difference between Valhalla Supermassive and VintageVerb?**
+A: Supermassive is a creative effects tool built around extreme reverb tails and spatial textures — it's designed to be heard and felt. VintageVerb emulates the character of specific vintage hardware reverb units and is engineered to sit transparently in a mix. Producer communities use Supermassive for ambient and textural work, VintageVerb for mixing. They serve different purposes and are worth owning both.
 
-**What's the real difference between Valhalla Supermassive and VintageVerb?**
-Supermassive is a creative effects tool built around extreme reverb tails and spatial textures — it's designed to be heard and felt. VintageVerb emulates the character of specific vintage hardware reverb units and is engineered to sit transparently in a mix. Producer communities use Supermassive for ambient and textural work, VintageVerb for mixing. They serve different purposes and are worth owning both.
+**Q: Should GarageBand users upgrade to Logic Pro just for plugin access?**
+A: Not if plugins are the primary reason. Logic Pro adds VST3 support, a significantly larger built-in instrument library, and advanced mixing capabilities — but every AU plugin in this guide works identically in GarageBand. The case for Logic Pro is its workflow, Flex Pitch, and built-in content library, not plugin compatibility.
 
-**Should GarageBand users upgrade to Logic Pro just for plugin access?**
-Not if plugins are the primary reason. Logic Pro adds VST3 support, a significantly larger built-in instrument library, and advanced mixing capabilities — but every AU plugin in this guide works identically in GarageBand. The case for Logic Pro is its workflow, Flex Pitch, and built-in content library, not plugin compatibility.
-
-**Is TDR Nova a real replacement for FabFilter Pro-Q 4?**
-For most tracking and mixing tasks in GarageBand, TDR Nova covers the functional requirements without meaningful compromise. FabFilter Pro-Q 4's advantages — unlimited bands, spectrum grab, per-band mid/side, external sidechain — become material when mixing is a significant part of your workflow and session time is valuable. Nova is excellent for the price of free; Pro-Q 4 justifies its cost through workflow speed, not capability gatekeeping.
-
----
-
+**Q: Is TDR Nova a real replacement for FabFilter Pro-Q 4?**
+A: For most tracking and mixing tasks in GarageBand, TDR Nova covers the functional requirements without meaningful compromise. FabFilter Pro-Q 4's advantages — unlimited bands, spectrum grab, per-band mid/side, external sidechain — become material when mixing is a significant part of your workflow and session time is valuable. Nova is excellent for the price of free; Pro-Q 4 justifies its cost through workflow speed, not capability gatekeeping. ---
 ## Related Guides
 
 - [Ableton vs FL Studio 2026: Which DAW Should You Buy?](/posts/ableton-live-vs-fl-studio-2026/)

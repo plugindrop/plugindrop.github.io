@@ -279,24 +279,20 @@ The free toolkit above covers a complete mastering chain. These two paid tools b
 ---
 
 ## FAQ
+**Q: What LUFS target should I aim for in 2026?**
+A: Spotify and YouTube both normalize to -14 LUFS Integrated; Apple Music normalizes to -16 LUFS; Tidal targets -14 LUFS. The practical standard is to master to -14 LUFS Integrated with a True Peak ceiling of -1 dBTP — this covers the widest range of platforms without requiring separate masters for each service. Youlean Loudness Meter 2 includes presets for each major platform.
 
-**What LUFS target should I aim for in 2026?**
-Spotify and YouTube both normalize to -14 LUFS Integrated; Apple Music normalizes to -16 LUFS; Tidal targets -14 LUFS. The practical standard is to master to -14 LUFS Integrated with a True Peak ceiling of -1 dBTP — this covers the widest range of platforms without requiring separate masters for each service. Youlean Loudness Meter 2 includes presets for each major platform.
+**Q: Can free mastering plugins produce commercially competitive results?**
+A: Community blind tests documented on Gearspace and KVR consistently show that Limiter 6 GE is indistinguishable from Pro-L 2 at moderate gain reduction, and TDR Nova holds up against paid dynamic EQ tools in direct comparisons. For most genres and most delivery destinations, the answer is yes — the ceiling is producer skill, not plugin cost.
 
-**Can free mastering plugins produce commercially competitive results?**
-Community blind tests documented on Gearspace and KVR consistently show that Limiter 6 GE is indistinguishable from Pro-L 2 at moderate gain reduction, and TDR Nova holds up against paid dynamic EQ tools in direct comparisons. For most genres and most delivery destinations, the answer is yes — the ceiling is producer skill, not plugin cost.
+**Q: What is the correct plugin order for a free mastering chain?**
+A: A standard signal path using these tools: SPAN (reference, always on) → TDR Nova (corrective EQ) → TDR Kotelnikov (gentle compression) → TDR VOS SlickEQ (tonal shaping) → Limiter 6 GE (brickwall and True Peak) → Youlean Loudness Meter 2 (final LUFS check). This order is not a rigid rule, but it reflects the processing hierarchy most mastering engineers follow.
 
-**What is the correct plugin order for a free mastering chain?**
-A standard signal path using these tools: SPAN (reference, always on) → TDR Nova (corrective EQ) → TDR Kotelnikov (gentle compression) → TDR VOS SlickEQ (tonal shaping) → Limiter 6 GE (brickwall and True Peak) → Youlean Loudness Meter 2 (final LUFS check). This order is not a rigid rule, but it reflects the processing hierarchy most mastering engineers follow.
+**Q: Does LoudMax support True Peak limiting?**
+A: No. LoudMax is a sample-peak brickwall limiter, not a True Peak limiter. Sample-peak limiting can allow inter-sample peaks above 0 dBFS to pass through, which streaming encoders can then clip during format conversion. For streaming delivery, Limiter 6 GE's True Peak stage is the more reliable choice. LoudMax is appropriate for offline rendering contexts or when inter-sample compliance is handled separately.
 
-**Does LoudMax support True Peak limiting?**
-No. LoudMax is a sample-peak brickwall limiter, not a True Peak limiter. Sample-peak limiting can allow inter-sample peaks above 0 dBFS to pass through, which streaming encoders can then clip during format conversion. For streaming delivery, Limiter 6 GE's True Peak stage is the more reliable choice. LoudMax is appropriate for offline rendering contexts or when inter-sample compliance is handled separately.
-
-**Is Limiter 6 GE genuinely free with no restrictions?**
-TBProAudio makes Limiter 6 GE available as a free download from their official site with no time limits, no watermarking, and no required registration. The developer has maintained it as freeware alongside their commercial product lineup. There is no catch beyond the absence of dedicated technical support.
-
----
-
+**Q: Is Limiter 6 GE genuinely free with no restrictions?**
+A: TBProAudio makes Limiter 6 GE available as a free download from their official site with no time limits, no watermarking, and no required registration. The developer has maintained it as freeware alongside their commercial product lineup. There is no catch beyond the absence of dedicated technical support. ---
 ## Related Guides
 
 - [iZotope Ozone 12 Review: The Best Mastering Plugin?](/posts/izotope-ozone-12-review/)

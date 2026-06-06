@@ -25,7 +25,7 @@ draft: false
 | Vital Free | Free | Full wavetable synthesis at zero cost | [Free](https://vital.audio/) |
 | Vital Plus | $25 | Expanded factory presets + wavetables | [Get](https://vital.audio/) |
 | Vital Pro | $80 | Complete official library + priority updates | [Get](https://vital.audio/) |
-| Serum | $189 | Industry-standard preset ecosystem, EDM workflows | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
+| Serum | $189 | Industry-standard preset ecosystem, EDM workflows | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
 | Phase Plant | from $99 | Modular architecture, multi-oscillator patching | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
 | Pigments | $99 | Multi-engine synthesis, analog warmth | [Get Pigments (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
 
@@ -122,7 +122,7 @@ The case for moving to a different synthesizer — rather than paying within Vit
 - **Price:** $189
 - **Why upgrade:** Serum's decade-long position as the default wavetable synthesizer in EDM, future bass, and electronic production has produced a commercial preset ecosystem that Vital hasn't matched in volume or genre depth. Producers whose workflow depends on purchasing and loading Serum-format preset packs — a major segment of how commercial EDM sound design is distributed — will find that format incompatibility with Vital is a hard constraint. The Serum engine is technically different from Vital's, not superior in any absolute sense, but its preset ecosystem and Splice integration represent a genre infrastructure that Vital hasn't replicated.
 
-[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026)
+[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026)
 
 ---
 
@@ -157,7 +157,7 @@ The case for moving to a different synthesizer — rather than paying within Vit
 | Vital Free | Free | Spectral wavetable | Full engine, limited factory content, text-to-wavetable, Linux support | [Download Free (Plugin Boutique)](https://vital.audio/) |
 | Vital Plus | $25 | Spectral wavetable | Expanded presets + wavetables, full engine | [Get](https://vital.audio/) |
 | Vital Pro | $80 | Spectral wavetable | Complete official library, priority updates | [Get](https://vital.audio/) |
-| Serum | $189 | Wavetable | Industry-standard ecosystem, Splice integration, massive preset market | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
+| Serum | $189 | Wavetable | Industry-standard ecosystem, Splice integration, massive preset market | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
 | Phase Plant | from $99 | Modular (wavetable/granular/additive) | Fully modular signal path, Snapin ecosystem, combinable oscillator types | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
 | Pigments | $99 | Multi-engine | Wavetable + VA + sample + harmonic, analog warmth, Arturia ecosystem | [Get Pigments (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
 
@@ -178,24 +178,20 @@ The case for moving to a different synthesizer — rather than paying within Vit
 ---
 
 ## FAQ
+**Q: Is Vital Free actually free, or is it a time-limited trial?**
+A: Vital Free is a permanent free tier with no expiration. Developer documentation confirms this explicitly, and the community has verified it over several years of use. The synthesis engine is fully functional at no cost indefinitely.
 
-**Is Vital Free actually free, or is it a time-limited trial?**
-Vital Free is a permanent free tier with no expiration. Developer documentation confirms this explicitly, and the community has verified it over several years of use. The synthesis engine is fully functional at no cost indefinitely.
+**Q: Can Vital Free be used in commercial productions?**
+A: Yes. The published license permits commercial use at all tiers, including the free tier. This is one of the more frequently confirmed points in producer forum discussions about the plugin.
 
-**Can Vital Free be used in commercial productions?**
-Yes. The published license permits commercial use at all tiers, including the free tier. This is one of the more frequently confirmed points in producer forum discussions about the plugin.
+**Q: Is Vital better than Serum in 2026?**
+A: The community frames this as a workflow compatibility question rather than a quality judgment. Vital's spectral warping produces different timbral results than Serum's wavetable approach — neither is objectively superior. Serum's advantage is its larger commercial preset ecosystem and its established position in EDM production workflows. Vital's advantage is its free engine, Linux support, and spectral warping capabilities.
 
-**Is Vital better than Serum in 2026?**
-The community frames this as a workflow compatibility question rather than a quality judgment. Vital's spectral warping produces different timbral results than Serum's wavetable approach — neither is objectively superior. Serum's advantage is its larger commercial preset ecosystem and its established position in EDM production workflows. Vital's advantage is its free engine, Linux support, and spectral warping capabilities.
+**Q: Does the free tier have ads, watermarks, or export limitations?**
+A: No. Developer documentation and community testing confirm that the free tier does not watermark audio output, restrict export, or impose ads. The only meaningful restriction is the included content library.
 
-**Does the free tier have ads, watermarks, or export limitations?**
-No. Developer documentation and community testing confirm that the free tier does not watermark audio output, restrict export, or impose ads. The only meaningful restriction is the included content library.
-
-**Why would a producer pay for Vital Pro when the engine is free?**
-The paid tiers are content upgrades, not capability unlocks. Producers pay for Plus or Pro because they want Vital's official factory preset and wavetable library to be their primary sound design resource. Producers who build patches from scratch, or who source content from the third-party Vital preset community, have considerably less incentive to pay.
-
----
-
+**Q: Why would a producer pay for Vital Pro when the engine is free?**
+A: The paid tiers are content upgrades, not capability unlocks. Producers pay for Plus or Pro because they want Vital's official factory preset and wavetable library to be their primary sound design resource. Producers who build patches from scratch, or who source content from the third-party Vital preset community, have considerably less incentive to pay. ---
 ## Related Guides
 
 - [14 Best Free Synth VST Plugins 2026 (Vital is #1)](/posts/best-free-synth-plugins/)

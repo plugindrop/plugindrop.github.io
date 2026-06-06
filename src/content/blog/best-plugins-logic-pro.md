@@ -27,7 +27,7 @@ priceTrack:
 | FabFilter Pro-Q 4 | $179 | Precision EQ with dynamic capability | [Developer Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro) |
 | Valhalla VintageVerb | $50 | Algorithmic reverb at any budget | [Developer Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | FabFilter Pro-C 2 | $179 | Transparent and character compression | [Developer Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro) |
-| Serum | $189 | Wavetable synthesis with modern workflow | [Developer Site](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro) |
+| Serum | $189 | Wavetable synthesis with modern workflow | [Developer Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro) |
 | iZotope Neutron 4 | $249+ | AI-assisted mix analysis | [Developer Site](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro) |
 | Vital | Free | Wavetable synthesis without the price tag | [Free](https://vital.audio/) |
 | TDR Nova | Free | Dynamic EQ on a zero budget | [Official Site](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro) |
@@ -184,7 +184,7 @@ Serum is the most-used wavetable synthesizer in electronic music production by c
 
 **Best for:** Electronic music production, sound design, producers who want to build a large preset ecosystem.
 
-[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro)
+[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro)
 
 ---
 
@@ -348,7 +348,7 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 | OTT | Free | Multiband Comp | Extreme upward/downward compression | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | Valhalla VintageVerb | $50 | Reverb | 17 algorithms, $50 price | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | ValhallaDelay | $50 | Delay | 16 modes, tape through pitch-shift | [Get It](https://www.izotope.com/en/products/music-production-suite) |
-| Serum | $189 | Wavetable Synth | Custom wavetable editor, massive preset market | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Xfer%20Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro) |
+| Serum | $189 | Wavetable Synth | Custom wavetable editor, massive preset market | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro) |
 | Vital | Free | Wavetable Synth | Spectral warping, 3 oscillators | [Get](https://vital.audio/) |
 | u-he Diva | ~$195 | Analog Synth | Circuit-level filter/oscillator emulation | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | iZotope Neutron 4 | $249+ | Mix Suite | AI Mix Assistant, EQ + comp + shaper | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro) |
@@ -370,21 +370,17 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 ---
 
 ## FAQ
+**Q: Do VST plugins work in Logic Pro?**
+A: Logic Pro natively uses the AU (Audio Units) format on macOS — not VST or VST3. Most professional third-party developers release AU versions for macOS alongside Windows VST builds, and all 15 plugins in this guide ship in AU format. If you encounter a macOS plugin that only supports VST3, a wrapper like Blue Cat's PatchWork can bridge the gap, but native AU is always preferable for stability.
 
-**Do VST plugins work in Logic Pro?**
-Logic Pro natively uses the AU (Audio Units) format on macOS — not VST or VST3. Most professional third-party developers release AU versions for macOS alongside Windows VST builds, and all 15 plugins in this guide ship in AU format. If you encounter a macOS plugin that only supports VST3, a wrapper like Blue Cat's PatchWork can bridge the gap, but native AU is always preferable for stability.
+**Q: Is FabFilter Pro-Q 4 worth the upgrade over Logic's Channel EQ?**
+A: For most serious mixing work, yes. Logic's Channel EQ is a capable static equalizer, but Pro-Q 4 adds per-band dynamic EQ, a full-resolution spectrum analyzer with inter-channel comparison, Natural Phase mode, and native mid/side capability. Community consensus on r/Logic_Studio consistently treats the upgrade as meaningful, not marginal — especially for producers doing their own mix bus and mastering work.
 
-**Is FabFilter Pro-Q 4 worth the upgrade over Logic's Channel EQ?**
-For most serious mixing work, yes. Logic's Channel EQ is a capable static equalizer, but Pro-Q 4 adds per-band dynamic EQ, a full-resolution spectrum analyzer with inter-channel comparison, Natural Phase mode, and native mid/side capability. Community consensus on r/Logic_Studio consistently treats the upgrade as meaningful, not marginal — especially for producers doing their own mix bus and mastering work.
+**Q: Do these plugins run natively on Apple Silicon?**
+A: As of 2026, every developer in this guide has released native Apple Silicon builds. FabFilter, Valhalla DSP, iZotope, Xfer Records, Soundtoys, u-he, oeksound, Klanghelm, and Tokyo Dawn Labs all confirmed Apple Silicon support in their release notes. Always verify the current system requirements on the developer's page before purchasing, as support timelines can vary between minor versions.
 
-**Do these plugins run natively on Apple Silicon?**
-As of 2026, every developer in this guide has released native Apple Silicon builds. FabFilter, Valhalla DSP, iZotope, Xfer Records, Soundtoys, u-he, oeksound, Klanghelm, and Tokyo Dawn Labs all confirmed Apple Silicon support in their release notes. Always verify the current system requirements on the developer's page before purchasing, as support timelines can vary between minor versions.
-
-**Is Vital actually as good as Serum?**
-The community is genuinely divided on this. KVR discussions and comparison threads on r/edmproduction generally conclude that Vital's spectral warping is a unique capability Serum doesn't offer, while Serum's preset library and third-party patch ecosystem are significantly larger. For pure synthesis capability, Vital is competitive at any price — but for working within a preset-driven production workflow, Serum's market depth is the real advantage.
-
----
-
+**Q: Is Vital actually as good as Serum?**
+A: The community is genuinely divided on this. KVR discussions and comparison threads on r/edmproduction generally conclude that Vital's spectral warping is a unique capability Serum doesn't offer, while Serum's preset library and third-party patch ecosystem are significantly larger. For pure synthesis capability, Vital is competitive at any price — but for working within a preset-driven production workflow, Serum's market depth is the real advantage. ---
 ## Final Thoughts
 
 FabFilter Pro-Q 4 remains the upgrade most likely to change how you work in Logic Pro — not because Logic's EQ is broken, but because dynamic EQ with real-time spectrum analysis changes the way you hear your mix. For producers building a complete core stack, pairing Pro-Q 4 with Valhalla VintageVerb and either Serum or Vital covers EQ, reverb, and synthesis for under $420 (or under $230 with Vital's free tier) — the combination that production communities consistently identify as the practical Logic Pro third-party foundation in 2026.

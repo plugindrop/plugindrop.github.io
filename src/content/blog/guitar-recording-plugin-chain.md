@@ -180,24 +180,20 @@ OTT is genuinely free with no paid upgrade path for this specific plugin. Xfer R
 ---
 
 ## FAQ
+**Q: Do I need a separate cabinet loader if I'm running Neural DSP Archetype?**
+A: Not by default. Neural DSP developer documentation confirms each Archetype edition includes a full cab simulation stage as part of the modeled chain. A separate IR loader is only needed if you want to substitute the native cab section with third-party IRs, or if you explicitly route the amp sim to a "no cab" output where available.
 
-**Do I need a separate cabinet loader if I'm running Neural DSP Archetype?**
-Not by default. Neural DSP developer documentation confirms each Archetype edition includes a full cab simulation stage as part of the modeled chain. A separate IR loader is only needed if you want to substitute the native cab section with third-party IRs, or if you explicitly route the amp sim to a "no cab" output where available.
+**Q: Where in the chain should FabFilter Pro-Q 4 go?**
+A: After the amp sim and cab stage, not before. The amp sim and cab define the core frequency character of the guitar tone — Pro-Q 4's role is shaping that character to fit the mix, not pre-processing the clean DI signal.
 
-**Where in the chain should FabFilter Pro-Q 4 go?**
-After the amp sim and cab stage, not before. The amp sim and cab define the core frequency character of the guitar tone — Pro-Q 4's role is shaping that character to fit the mix, not pre-processing the clean DI signal.
+**Q: Is OTT appropriate for guitar, or is it primarily an EDM tool?**
+A: OTT is genre-agnostic by technical design. Guitar production communities document its use for adding density to single-coil tones and tightening rhythm guitar tracks in dense productions. Keeping the Depth knob between 15–40% is the consistently documented best practice for guitar material to avoid over-processing.
 
-**Is OTT appropriate for guitar, or is it primarily an EDM tool?**
-OTT is genre-agnostic by technical design. Guitar production communities document its use for adding density to single-coil tones and tightening rhythm guitar tracks in dense productions. Keeping the Depth knob between 15–40% is the consistently documented best practice for guitar material to avoid over-processing.
+**Q: Should I run this guitar chain in mono or stereo?**
+A: The community consensus for rhythm guitars is to track and process in mono, then double-track and hard-pan for stereo width. For lead guitars and single-note lines, a stereo chain with subtle room reverb via Waves IR-L adds natural mix placement. Running a single rhythm guitar in stereo frequently creates phase cancellation issues when the mix is summed to mono.
 
-**Should I run this guitar chain in mono or stereo?**
-The community consensus for rhythm guitars is to track and process in mono, then double-track and hard-pan for stereo width. For lead guitars and single-note lines, a stereo chain with subtle room reverb via Waves IR-L adds natural mix placement. Running a single rhythm guitar in stereo frequently creates phase cancellation issues when the mix is summed to mono.
-
-**What is the correct signal order for this chain?**
-DI input → Amp Sim (Neural DSP Archetype) → Cabinet IR if substituting native cab (Waves IR-L inline) → EQ (FabFilter Pro-Q 4) → Multiband Dynamics (OTT) → mix bus. If using Waves IR-L for room ambience rather than cab loading, run it as a send/return after the EQ stage for independent wet/dry control.
-
----
-
+**Q: What is the correct signal order for this chain?**
+A: DI input → Amp Sim (Neural DSP Archetype) → Cabinet IR if substituting native cab (Waves IR-L inline) → EQ (FabFilter Pro-Q 4) → Multiband Dynamics (OTT) → mix bus. If using Waves IR-L for room ambience rather than cab loading, run it as a send/return after the EQ stage for independent wet/dry control. ---
 ## Related Guides
 
 - [10 Best Guitar Amp Simulator VST Plugins 2026 (Paid Options Ranked)](/posts/best-guitar-amp-sim-plugins/)

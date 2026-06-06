@@ -226,24 +226,20 @@ Once your chain is locked in, two paid expansions offer capabilities that none o
 ---
 
 ## FAQ
+**Q: Do I need all five steps in my drum chain, or can I use fewer?**
+A: Start with EQ and bus compression (Steps 1 and 4) — those two alone will make the biggest difference. Add transient shaping (Step 2) when the kick or snare attack needs tightening. Steps 3 and 5 are genre-dependent and optional for acoustic or jazz-style mixing.
 
-**Do I need all five steps in my drum chain, or can I use fewer?**
-Start with EQ and bus compression (Steps 1 and 4) — those two alone will make the biggest difference. Add transient shaping (Step 2) when the kick or snare attack needs tightening. Steps 3 and 5 are genre-dependent and optional for acoustic or jazz-style mixing.
+**Q: Should I use a transient shaper before or after compression?**
+A: Before. Transient shapers shape the envelope of the signal, and a compressor after them will respond more predictably to a transient that's already been intentionally sculpted. Running a compressor first can suppress the very transients you're trying to enhance.
 
-**Should I use a transient shaper before or after compression?**
-Before. Transient shapers shape the envelope of the signal, and a compressor after them will respond more predictably to a transient that's already been intentionally sculpted. Running a compressor first can suppress the very transients you're trying to enhance.
+**Q: Can I use this entire chain on individual drum tracks instead of just the bus?**
+A: Yes, with adjustments. Pro-Q 4 and transient shaping work well on individual tracks. bx_boom! is specifically useful on the kick channel. The SSL G-Master is designed for bus use — on individual tracks, a standard channel compressor (SSL E-Channel, API 2500, etc.) will feel more appropriate.
 
-**Can I use this entire chain on individual drum tracks instead of just the bus?**
-Yes, with adjustments. Pro-Q 4 and transient shaping work well on individual tracks. bx_boom! is specifically useful on the kick channel. The SSL G-Master is designed for bus use — on individual tracks, a standard channel compressor (SSL E-Channel, API 2500, etc.) will feel more appropriate.
+**Q: Is OTT too aggressive for mixing — isn't it mainly a sound design tool?**
+A: At full settings, yes — it's extreme. But at 10–25% Depth, OTT adds a subtle multiband lift that increases perceived loudness and presence without introducing obvious pumping. Many professional engineers use it at low settings as a finishing step even in commercial pop and rock mixes.
 
-**Is OTT too aggressive for mixing — isn't it mainly a sound design tool?**
-At full settings, yes — it's extreme. But at 10–25% Depth, OTT adds a subtle multiband lift that increases perceived loudness and presence without introducing obvious pumping. Many professional engineers use it at low settings as a finishing step even in commercial pop and rock mixes.
-
-**What order should these plugins run in the signal chain?**
-The recommended signal order: **EQ (Pro-Q 4) → Transient Shaper → bx_boom! → SSL G-Master Bus Compressor → OTT (optional)**. The key principle is to clean and shape before compressing, and to compress before adding the final finishing layer.
-
----
-
+**Q: What order should these plugins run in the signal chain?**
+A: The recommended signal order: **EQ (Pro-Q 4) → Transient Shaper → bx_boom! → SSL G-Master Bus Compressor → OTT (optional)**. The key principle is to clean and shape before compressing, and to compress before adding the final finishing layer. ---
 ## Final Thoughts
 
 The best drum mixing plugin chain in 2026 isn't the most expensive one — it's the one with each slot performing a defined, non-overlapping job. EQ cleans the source, transient shaping defines the attack character, low-end reinforcement adds weight, bus compression creates cohesion, and optional upward compression delivers final presence. FabFilter Pro-Q 4 remains the standout investment in this chain, delivering both diagnostic and corrective EQ capabilities no other tool in the market matches at this depth.
