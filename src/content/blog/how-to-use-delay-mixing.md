@@ -11,6 +11,11 @@ draft: false
 ---
 **TL;DR:** Delay adds depth, rhythm, and space to a mix — but most producers use it as a default effect rather than a deliberate decision. This guide covers the four essential delay techniques: sync vs free delay selection, feedback and mix level control, sidechain ducking to preserve mix clarity, and ping-pong for stereo width. Valhalla Delay ($50) and Soundtoys EchoBoy ($149) are the paid options; TAL-Dub-X (free) and Arturia Tape MELLO-FI cover the free and creative ends.
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/LKS_B8gO7Fs" title="10 UAD Plugins I Use ALL The Time.. #universalaudio #plugins #studio #homestudio #producer #mixing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

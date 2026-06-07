@@ -11,6 +11,11 @@ draft: false
 ---
 **TL;DR:** Lo-fi music production is built on the deliberate introduction of imperfection — vinyl noise, tape saturation, pitch instability, and frequency limiting. XLN Audio RC-20 is the most complete single-plugin solution; iZotope Vinyl is free and does the same job acceptably; Vital and Valhalla Supermassive are free tools that handle synthesis and reverb at professional quality without any cost.
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/fE7dAeUP-JE" title="5 FREE Lo-Fi Plugins That Shouldn&#39;t Be Free!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

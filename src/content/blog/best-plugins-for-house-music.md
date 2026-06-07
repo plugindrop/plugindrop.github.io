@@ -11,6 +11,11 @@ draft: false
 ---
 **TL;DR:** House music production requires a specific combination of tools — warm analog-style synthesizers for chords and bass, precise EQ for DJ mix compatibility, and sample management for the classic vocal and loop elements that define the genre. Serum and Sylenth1 cover synthesis, Pro-Q 4 handles the mix, and Valhalla VintageVerb and Soundtoys EchoBoy provide the space and groove that make house tracks work at volume.
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/9u7Yz7mNHLo" title="10 VST Plugins you NEED for Music Production 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

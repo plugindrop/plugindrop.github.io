@@ -7,18 +7,11 @@ interface Props {
 	description: string;
 	image?: string;
 	ogType?: string;
-	articleSection?: string;
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-const { title, description, image = '/images/default-og.jpg', ogType = 'website', articleSection } = Astro.props;
+const { title, description, image = '/images/default-og.jpg', ogType = 'website' } = Astro.props;
 const resolvedImage = new URL(image, Astro.site);
-
-// Pinterest prefers portrait images (2:3 ratio). Use 1000x1500 for pin-optimized pages.
-// Standard OG uses 1200x630 (landscape). We expose both via og:image:width/height
-// so each platform picks the right size. For article pages the hero is landscape,
-// but we declare the dimensions explicitly so Pinterest can crop intelligently.
-const isArticle = ogType === 'article';
 ---
 
 <!-- Google Analytics 4 -->
@@ -70,24 +63,10 @@ const isArticle = ogType === 'article';
 <meta property="og:image" content={resolvedImage} />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:image:alt" content={title} />
 <meta property="og:site_name" content={SITE_TITLE} />
 <meta property="og:locale" content="en_US" />
 
-<!-- Pinterest OGP: portrait image variant (1000x1500, 2:3 ratio recommended by Pinterest) -->
-<!-- Pinterest picks the best image from og:image tags; we declare the landscape one above -->
-<!-- and add explicit dimensions so Pinterest's crawler can choose the portrait crop. -->
-{isArticle && (
-  <>
-    <meta property="og:image:width" content="1000" />
-    <meta property="og:image:height" content="1500" />
-  </>
-)}
-
-<!-- article:section for Pinterest category signals -->
-{articleSection && <meta property="article:section" content={articleSection} />}
-
-<!-- Twitter / X -->
+<!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content={SITE_TWITTER} />
 <meta name="twitter:creator" content={SITE_TWITTER} />
@@ -95,10 +74,6 @@ const isArticle = ogType === 'article';
 <meta name="twitter:title" content={title} />
 <meta name="twitter:description" content={description} />
 <meta name="twitter:image" content={resolvedImage} />
-<meta name="twitter:image:alt" content={title} />
-
-<!-- Pinterest Rich Pin verification (article type) -->
-{isArticle && <meta name="pinterest:media" content={String(resolvedImage)} />}
 
 <!-- Bing Webmaster Tools -->
 <meta name="msvalidate.01" content="D65FD174BC09065B3E7ECD3506F12B99" />
@@ -108,34 +83,3 @@ const isArticle = ogType === 'article';
 
 <!-- Indexing -->
 <meta name="robots" content="index, follow, max-image-preview:large" />
-
-<!-- Organization + WebSite schema (site-wide brand identity for AI/LLM citations) -->
-<script type="application/ld+json" set:html={JSON.stringify({
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Organization",
-      "@id": "https://plugindrop.net/#organization",
-      "name": "PluginDrop",
-      "url": "https://plugindrop.net",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://plugindrop.net/favicon.png",
-        "width": 64,
-        "height": 64
-      },
-      "description": "PluginDrop curates the best VST plugin deals, honest reviews, and free downloads for music producers — updated daily.",
-      "knowsAbout": ["VST plugins", "audio plugins", "music production", "mixing", "mastering", "synthesizers", "sample packs"],
-      "publishingPrinciples": "https://plugindrop.net/about/"
-    },
-    {
-      "@type": "WebSite",
-      "@id": "https://plugindrop.net/#website",
-      "url": "https://plugindrop.net",
-      "name": "PluginDrop",
-      "description": "Best VST plugin deals, free downloads and reviews — curated daily for music producers.",
-      "publisher": { "@id": "https://plugindrop.net/#organization" },
-      "inLanguage": "en-US"
-    }
-  ]
-})} />
