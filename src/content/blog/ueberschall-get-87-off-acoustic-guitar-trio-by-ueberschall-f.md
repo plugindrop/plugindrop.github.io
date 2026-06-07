@@ -11,7 +11,7 @@ originalPrice: "$69"
 discount: "87% OFF"
 saleExpiry: "2026-06-07"
 xText: "$9 for guitar samples that actually sit in a mix without screaming 'plugin' ueberschall's acoustic trio—lowest i've tracked it, 87% off, probably won't last"
-draft: false
+draft: true
 ---
 **TL;DR:** Acoustic Guitar Trio by Ueberschall is down to **$9** — that's 87% off the regular ~~$69~~ price. If you need organic acoustic guitar textures for your productions, this is a hard deal to pass up. [Grab it here before it ends.](https://audioplugin.deals/product/acoustic-guitar-trio-by-ueberschall/ref/21/)
 

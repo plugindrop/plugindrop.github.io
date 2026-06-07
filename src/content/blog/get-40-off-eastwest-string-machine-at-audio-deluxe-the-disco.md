@@ -10,7 +10,7 @@ dealPrice: "$59"
 discount: "40% OFF"
 saleExpiry: "2026-06-07"
 xText: "string machine at 40% off is genuinely the lowest price i've ever seen it at. absolute move if you're doing orchestral work this year."
-draft: false
+draft: true
 ---
 **TL;DR:** EastWest String Machine is **40% off at $59** at Audio Deluxe — and the deal expires today, June 7th. If vintage orchestral string sounds from one of the most respected names in sample libraries are on your radar, [today is the day to move](https://audiodeluxe.com/collections/software/products/eastwest-string-machine).
 
