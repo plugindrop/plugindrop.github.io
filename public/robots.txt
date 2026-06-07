@@ -2,24 +2,25 @@ User-agent: *
 Allow: /
 Sitemap: https://plugindrop.net/sitemap-index.xml
 
-# AI search crawlers — explicitly allowed for citation indexing
-User-agent: GPTBot
-Allow: /
-
+# AI citation crawlers — allowed because they link back to source (drives affiliate funnel)
 User-agent: ChatGPT-User
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: anthropic-ai
 Allow: /
 
 User-agent: PerplexityBot
 Allow: /
 
+# Training-only crawlers — disallowed (learn content without linking back, bypasses affiliate funnel)
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
 User-agent: Google-Extended
-Allow: /
+Disallow: /
 
 User-agent: CCBot
-Allow: /
+Disallow: /
