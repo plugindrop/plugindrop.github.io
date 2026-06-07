@@ -110,7 +110,7 @@ const isArticle = ogType === 'article';
 <meta name="robots" content="index, follow, max-image-preview:large" />
 
 <!-- Organization + WebSite schema (site-wide brand identity for AI/LLM citations) -->
-<script type="application/ld+json">{JSON.stringify({
+<script type="application/ld+json" set:html={JSON.stringify({
   "@context": "https://schema.org",
   "@graph": [
     {
@@ -138,4 +138,4 @@ const isArticle = ogType === 'article';
       "inLanguage": "en-US"
     }
   ]
-})}</script>
+})} />
