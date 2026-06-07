@@ -35,3 +35,17 @@ Once you provide these, I'll write the article following your exact structure an
 ---
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
+
+## FAQ
+
+**Q: Is Serum or Vital better for beginners in 2026?**
+A: Vital is generally easier for beginners because it's free to start and has a clean, intuitive interface with visual modulation drag-and-drop. Serum has a slightly steeper learning curve but offers more polished workflow and a larger preset/skin ecosystem. Both produce professional-quality sound, so beginners can start with Vital and upgrade to Serum later if needed.
+
+**Q: Is Vital really free and how does it compare to the paid Serum?**
+A: Yes, Vital has a free tier (Basic) with full synth engine access, while paid tiers unlock more presets, wavetables, and skins. Sound quality is comparable to Serum in blind tests, but Serum has a larger third-party preset market and more tutorials. For exact tier pricing, check vital.audio.
+
+**Q: Does Serum work with Apple Silicon (M1/M2/M3/M4) Macs?**
+A: Yes, Serum runs natively on Apple Silicon as of Serum 1.36+, supporting both Intel and ARM architectures. It works in all major DAWs including Logic Pro, Ableton Live, FL Studio, and Cubase. For the latest compatibility details, check Xfer Records' official site.
+
+**Q: Can I import my own wavetables into Serum and Vital?**
+A: Yes, both synths support custom wavetable import from WAV files, and they can read each other's wavetable formats with minor conversion. Serum has a built-in wavetable editor with FFT and pitch detection, while Vital offers a similar editor plus text-to-wavetable generation. This makes both highly flexible for sound designers.

@@ -381,29 +381,20 @@ If you have exhausted the free options or are ready to invest in tools that will
 ---
 
 ## FAQ
+**Q: Is Serum still worth buying in 2026 when Vital is free?**
+A: Yes, but the argument is narrower than it used to be. Vital's synthesis engine is competitive with Serum's at a technical level. The case for Serum in 2026 is primarily the preset ecosystem — the depth of commercially available Serum packs covering every EDM subgenre has no free equivalent. If you are building a professional template library or working with clients, that ecosystem matters. If you are learning synthesis, Vital's free tier is the right starting point.
 
-**Is Serum still worth buying in 2026 when Vital is free?**
+**Q: What is the best free VST plugin for EDM production right now?**
+A: Community consensus across r/edmproduction and r/audioengineering consistently points to two answers: Vital for synthesis and Valhalla Supermassive for effects. Both have held these positions for several years, and nothing in the free tier has displaced either of them. OTT is a third pick that appears in almost every community thread on free EDM tools.
 
-Yes, but the argument is narrower than it used to be. Vital's synthesis engine is competitive with Serum's at a technical level. The case for Serum in 2026 is primarily the preset ecosystem — the depth of commercially available Serum packs covering every EDM subgenre has no free equivalent. If you are building a professional template library or working with clients, that ecosystem matters. If you are learning synthesis, Vital's free tier is the right starting point.
+**Q: Do I need Nexus 4 if I already own Serum and Sylenth1?**
+A: Not necessarily — Nexus 4 addresses a different need than either. It is a rompler designed for fast, production-ready output, not synthesis depth. If you are doing serious sound design in Serum and Sylenth1, Nexus 4 adds speed and genre range, not additional capability. It is most valuable for producers prototyping quickly across multiple genres or delivering commercial work at high volume.
 
-**What is the best free VST plugin for EDM production right now?**
+**Q: Is OTT safe to use on every channel?**
+A: This is a documented pitfall in r/edmproduction discussions. OTT applied to every channel is a common mistake that flattens dynamics and makes mixes sound dense without definition. It works most effectively on synth layers, pads, and pluck sounds — used surgically rather than as a default insert. The same threads that recommend it consistently flag over-application as a beginner mistake.
 
-Community consensus across r/edmproduction and r/audioengineering consistently points to two answers: Vital for synthesis and Valhalla Supermassive for effects. Both have held these positions for several years, and nothing in the free tier has displaced either of them. OTT is a third pick that appears in almost every community thread on free EDM tools.
-
-**Do I need Nexus 4 if I already own Serum and Sylenth1?**
-
-Not necessarily — Nexus 4 addresses a different need than either. It is a rompler designed for fast, production-ready output, not synthesis depth. If you are doing serious sound design in Serum and Sylenth1, Nexus 4 adds speed and genre range, not additional capability. It is most valuable for producers prototyping quickly across multiple genres or delivering commercial work at high volume.
-
-**Is OTT safe to use on every channel?**
-
-This is a documented pitfall in r/edmproduction discussions. OTT applied to every channel is a common mistake that flattens dynamics and makes mixes sound dense without definition. It works most effectively on synth layers, pads, and pluck sounds — used surgically rather than as a default insert. The same threads that recommend it consistently flag over-application as a beginner mistake.
-
-**Which of these plugins work in both Ableton Live and FL Studio?**
-
-All 15 plugins in this guide support both Ableton Live and FL Studio. The majority ship with VST3 and AU versions, covering all major DAWs. Surge XT and Vital additionally support the CLAP format, which is supported in Bitwig Studio and REAPER.
-
----
-
+**Q: Which of these plugins work in both Ableton Live and FL Studio?**
+A: All 15 plugins in this guide support both Ableton Live and FL Studio. The majority ship with VST3 and AU versions, covering all major DAWs. Surge XT and Vital additionally support the CLAP format, which is supported in Bitwig Studio and REAPER. ---
 ## Final Thoughts
 
 The core of a complete EDM production toolkit is three tools: Serum or Vital for synthesis, Valhalla Supermassive for space, and OTT for dynamics. Everything else in this guide adds specificity — FM texture from Dexed, trance density from Sylenth1, organic layering from LABS — but those three tools are what consistently appear across community workflow threads, regardless of subgenre.
