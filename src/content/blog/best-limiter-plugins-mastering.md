@@ -296,7 +296,9 @@ A: Yes, for any streaming delivery. MP3 and AAC encoding can introduce inter-sam
 A: If you master frequently and release professionally, yes — the algorithm variety and output transparency justify the cost quickly. If you're mastering one or two releases a year for yourself, Limiter 6 GE at ~$49 closes most of the practical gap.
 
 **Q: Can I use a mastering limiter on mix buses?**
-A: Yes, and it's common practice on drum buses and lead vocal chains. The difference is that mix bus limiting typically benefits from faster attack times and a degree of coloration — whereas mastering chain limiting prioritizes transparency and true peak protection. If using a mastering limiter on a mix bus, engage faster release settings and monitor for pumping. ---
+A: Yes, and it's common practice on drum buses and lead vocal chains. The difference is that mix bus limiting typically benefits from faster attack times and a degree of coloration — whereas mastering chain limiting prioritizes transparency and true peak protection. If using a mastering limiter on a mix bus, engage faster release settings and monitor for pumping.
+
+---
 ## Related Guides
 
 - [6-Step Mastering Plugin Chain for a Pro Master (2026)](/posts/mastering-chain-plugins/)

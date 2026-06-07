@@ -193,7 +193,9 @@ A: OTT is genre-agnostic by technical design. Guitar production communities docu
 A: The community consensus for rhythm guitars is to track and process in mono, then double-track and hard-pan for stereo width. For lead guitars and single-note lines, a stereo chain with subtle room reverb via Waves IR-L adds natural mix placement. Running a single rhythm guitar in stereo frequently creates phase cancellation issues when the mix is summed to mono.
 
 **Q: What is the correct signal order for this chain?**
-A: DI input → Amp Sim (Neural DSP Archetype) → Cabinet IR if substituting native cab (Waves IR-L inline) → EQ (FabFilter Pro-Q 4) → Multiband Dynamics (OTT) → mix bus. If using Waves IR-L for room ambience rather than cab loading, run it as a send/return after the EQ stage for independent wet/dry control. ---
+A: DI input → Amp Sim (Neural DSP Archetype) → Cabinet IR if substituting native cab (Waves IR-L inline) → EQ (FabFilter Pro-Q 4) → Multiband Dynamics (OTT) → mix bus. If using Waves IR-L for room ambience rather than cab loading, run it as a send/return after the EQ stage for independent wet/dry control.
+
+---
 ## Related Guides
 
 - [10 Best Guitar Amp Simulator VST Plugins 2026 (Paid Options Ranked)](/posts/best-guitar-amp-sim-plugins/)

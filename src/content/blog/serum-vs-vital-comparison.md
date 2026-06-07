@@ -218,7 +218,9 @@ A: Yes. Vital supports Linux via VST3 and LV2 formats, which is a meaningful adv
 A: Both excel at bass design. Serum has a slight edge for sub-heavy, clean bass patches thanks to its anti-aliasing quality. Vital's aggressive distortion stack and filter variety can produce dirtier, more complex bass textures more naturally.
 
 **Q: Is there a meaningful free trial for Serum before buying?**
-A: No — Serum does not offer a free trial, though Splice subscribers can access it for a monthly fee without a full upfront commitment. This is one reason many producers start with Vital before purchasing Serum. ---
+A: No — Serum does not offer a free trial, though Splice subscribers can access it for a monthly fee without a full upfront commitment. This is one reason many producers start with Vital before purchasing Serum.
+
+---
 ## Final Thoughts
 
 **Start with Vital — upgrade to Serum when your workflow demands it.** For the vast majority of producers in 2026, Vital's free tier provides more synthesis capability than they'll fully explore in the first year, and its paid tiers represent excellent value relative to the competition. If you're working professionally in EDM or need the deepest commercial preset library available, Serum justifies every dollar of its price tag.

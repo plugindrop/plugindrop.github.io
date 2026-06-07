@@ -405,7 +405,9 @@ A: They are complementary tools. Supermassive is designed for ambient, expansive
 A: Nova delivers strong dynamic EQ at no cost and is the correct starting point. Pro-Q 4 adds real-time per-band spectrum display, zero-latency linear phase mode, and full mid/side per-band control. Those features matter primarily for mastering and detailed mix-level EQ surgery — less so for tracking and arrangement. Start with Nova; upgrade when you identify a specific workflow limitation.
 
 **Q: Should I buy plugin bundles or individual plugins on a $150 budget?**
-A: Individual plugins on a defined budget. Bundles optimize for price-per-plugin but routinely include tools you won't use for months. On a $150 cap, Valhalla Room, Valhalla Delay, and Wavesfactory Trackspacer together cost less than the budget and solve concrete, daily production problems. A focused rack of purpose-built tools outperforms a bundle where most content sits idle. ---
+A: Individual plugins on a defined budget. Bundles optimize for price-per-plugin but routinely include tools you won't use for months. On a $150 cap, Valhalla Room, Valhalla Delay, and Wavesfactory Trackspacer together cost less than the budget and solve concrete, daily production problems. A focused rack of purpose-built tools outperforms a bundle where most content sits idle.
+
+---
 ## Related Guides
 
 - [10 Best Tape Saturation & Vintage Warmth Plugins in 2026](/posts/best-tape-saturation-plugins/)

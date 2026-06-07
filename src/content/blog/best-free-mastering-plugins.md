@@ -292,7 +292,9 @@ A: A standard signal path using these tools: SPAN (reference, always on) → TDR
 A: No. LoudMax is a sample-peak brickwall limiter, not a True Peak limiter. Sample-peak limiting can allow inter-sample peaks above 0 dBFS to pass through, which streaming encoders can then clip during format conversion. For streaming delivery, Limiter 6 GE's True Peak stage is the more reliable choice. LoudMax is appropriate for offline rendering contexts or when inter-sample compliance is handled separately.
 
 **Q: Is Limiter 6 GE genuinely free with no restrictions?**
-A: TBProAudio makes Limiter 6 GE available as a free download from their official site with no time limits, no watermarking, and no required registration. The developer has maintained it as freeware alongside their commercial product lineup. There is no catch beyond the absence of dedicated technical support. ---
+A: TBProAudio makes Limiter 6 GE available as a free download from their official site with no time limits, no watermarking, and no required registration. The developer has maintained it as freeware alongside their commercial product lineup. There is no catch beyond the absence of dedicated technical support.
+
+---
 ## Related Guides
 
 - [iZotope Ozone 12 Review: The Best Mastering Plugin?](/posts/izotope-ozone-12-review/)

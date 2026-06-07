@@ -168,7 +168,9 @@ A: Not in their free versions. Mid/side per-band control is one of the harder fe
 A: All four — TDR Nova, MEqualizer, Voxengo Marvel GEQ, and LP10 — support VST/VST3 on Windows, covering both DAWs. macOS users running Ableton Live can use the AU versions of TDR Nova and Voxengo Marvel GEQ. Check each developer's download page for the specific format that matches your setup and operating system.
 
 **Q: When does FabFilter Pro-Q 4 become worth the $179 over TDR Nova?**
-A: Producers consistently report hitting TDR Nova's limits in three scenarios: when they need more than four dynamic bands simultaneously, when M/S per-band control is required for stereo mix work, and when they want spectrum collision detection across instances to manage frequency masking across multiple channels at once. If none of those scenarios apply to your current workflow, TDR Nova's free version is a credible long-term tool rather than a stopgap. ---
+A: Producers consistently report hitting TDR Nova's limits in three scenarios: when they need more than four dynamic bands simultaneously, when M/S per-band control is required for stereo mix work, and when they want spectrum collision detection across instances to manage frequency masking across multiple channels at once. If none of those scenarios apply to your current workflow, TDR Nova's free version is a credible long-term tool rather than a stopgap.
+
+---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

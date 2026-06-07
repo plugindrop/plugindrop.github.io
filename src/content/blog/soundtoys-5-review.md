@@ -312,7 +312,9 @@ A: All major DAWs are supported via VST3, AU, and AAX — including Ableton Live
 A: Decapitator is the most universally applicable entry point — it works on any source, has an immediate audible impact, and demonstrates exactly what Soundtoys does better than the competition. EchoBoy is the runner-up for producers whose primary need is delay with character.
 
 **Q: Are there free alternatives to Soundtoys 5?**
-A: For individual effects: Auburn Sounds Graillon 2 covers some vocal pitch territory; free saturation options exist for basic harmonic distortion; standard DAW delays handle straightforward echo. No free bundle replicates the combination of sound quality, analog modeling depth, and workflow cohesion across all 22 plugins. ---
+A: For individual effects: Auburn Sounds Graillon 2 covers some vocal pitch territory; free saturation options exist for basic harmonic distortion; standard DAW delays handle straightforward echo. No free bundle replicates the combination of sound quality, analog modeling depth, and workflow cohesion across all 22 plugins.
+
+---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

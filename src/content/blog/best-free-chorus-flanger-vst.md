@@ -258,7 +258,9 @@ A: Most of the plugins on this list — TAL-Chorus-LX, TAL-Flanger, MFlanger, MC
 A: MeldaProduction's MFreeFXBundle includes over 30 plugins covering dynamics processing, EQ, distortion, reverb, delay, and modulation effects. Downloading MFlanger or MChorus means getting the entire bundle. Most producers who install it end up keeping several plugins from it beyond the two they originally wanted.
 
 **Q: Should I buy Valhalla Chorus or Arturia Chorus DIMENSION-D first?**
-A: They serve different use cases. Arturia's Dimension D is a hardware emulation with a specific, well-defined character — four modes, that's it, and all four are designed to sound like the original Roland unit. Valhalla Chorus is more flexible and modern, designed for a broader range of mixing applications. If you are chasing a specific vintage hardware sound, go Arturia. If you want a professional chorus that grows with your workflow, go Valhalla. ---
+A: They serve different use cases. Arturia's Dimension D is a hardware emulation with a specific, well-defined character — four modes, that's it, and all four are designed to sound like the original Roland unit. Valhalla Chorus is more flexible and modern, designed for a broader range of mixing applications. If you are chasing a specific vintage hardware sound, go Arturia. If you want a professional chorus that grows with your workflow, go Valhalla.
+
+---
 ## Related Guides
 
 - [10 Best Tape Saturation & Vintage Warmth Plugins in 2026](/posts/best-tape-saturation-plugins/)

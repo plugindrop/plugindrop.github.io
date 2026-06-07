@@ -256,7 +256,9 @@ A: SFZ is an open sample format — the SFZ file contains instrument data, but r
 A: KVR community discussions consistently point to Spitfire LABS' solo string instruments as the most realistic available for free. The LABS Solo Violin is cited for its tone and playability, with the caveat that convincing solo string performance still depends heavily on MIDI programming and articulation handling at the composition stage.
 
 **Q: How large are these free orchestral library downloads?**
-A: This varies significantly. BBC Symphony Orchestra Discover runs into multiple gigabytes — Spitfire displays exact sizes during the installation process. VSCO2 CE and SSO are considerably smaller. Decent Sampler instruments vary by library but individual Pianobook packs are generally modest in size compared to full orchestral libraries. ---
+A: This varies significantly. BBC Symphony Orchestra Discover runs into multiple gigabytes — Spitfire displays exact sizes during the installation process. VSCO2 CE and SSO are considerably smaller. Decent Sampler instruments vary by library but individual Pianobook packs are generally modest in size compared to full orchestral libraries.
+
+---
 ## Related Guides
 
 - [10 Best Free Piano VST Plugins in 2026 (Grand, Upright, Electric)](/posts/best-free-piano-vst/)

@@ -185,7 +185,9 @@ A: Yes, they coexist without issues. Both install via their own managers (Arturi
 A: Komplete has a larger raw preset count, but V Collection's presets per instrument are generally more curated and musicically useful. V Collection's presets are organized by hardware model and era, which makes them easier to navigate when you know what sound you're after. Komplete's breadth comes with more variability in preset quality across its libraries.
 
 **Q: Which is better for live performance?**
-A: V Collection is generally preferred for live keyboard work — the instruments are CPU-efficient, the interfaces replicate physical hardware layouts familiar to keyboardists, and standalone mode is well-optimized. Komplete is more oriented toward studio production workflows, though Kontakt and Massive X both work in live contexts. ---
+A: V Collection is generally preferred for live keyboard work — the instruments are CPU-efficient, the interfaces replicate physical hardware layouts familiar to keyboardists, and standalone mode is well-optimized. Komplete is more oriented toward studio production workflows, though Kontakt and Massive X both work in live contexts.
+
+---
 ## Final Thoughts
 
 For vintage synthesis and classic keyboard sounds, Arturia V Collection 11 is the more decisive purchase — it's focused, deep, and on sale frequently enough that the price objection rarely holds. For producers who need sampling infrastructure, acoustic instruments, guitar processing, and a broader toolkit, Native Instruments Komplete Standard earns its place. The strongest setup for most working producers is V Collection for keys and a Komplete tier for everything else — bought opportunistically during each brand's regular promotions.

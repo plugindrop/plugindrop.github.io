@@ -205,7 +205,9 @@ A: It is a software model of the SSL 4000 G-series hardware bus compressor. KVR 
 A: Compression responds to amplitude over time, applying gain reduction based on a threshold. Transient shaping specifically targets the attack and decay characteristics of a transient regardless of overall level, which is why Transient Master can increase kick punch without the pumping behavior a fast-attack compressor introduces. They complement rather than substitute for each other.
 
 **Q: Is OTT suitable for live drum recording or just programmed drums?**
-A: OTT is primarily documented in electronic music contexts. For live-recorded acoustic drums, the community more commonly recommends saturation or tape emulation for adding density, as OTT's upward compression behavior can exaggerate room noise and bleed that acoustic recordings contain. ---
+A: OTT is primarily documented in electronic music contexts. For live-recorded acoustic drums, the community more commonly recommends saturation or tape emulation for adding density, as OTT's upward compression behavior can exaggerate room noise and bleed that acoustic recordings contain.
+
+---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

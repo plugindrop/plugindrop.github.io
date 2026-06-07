@@ -239,7 +239,9 @@ A: Yes, with adjustments. Pro-Q 4 and transient shaping work well on individual 
 A: At full settings, yes — it's extreme. But at 10–25% Depth, OTT adds a subtle multiband lift that increases perceived loudness and presence without introducing obvious pumping. Many professional engineers use it at low settings as a finishing step even in commercial pop and rock mixes.
 
 **Q: What order should these plugins run in the signal chain?**
-A: The recommended signal order: **EQ (Pro-Q 4) → Transient Shaper → bx_boom! → SSL G-Master Bus Compressor → OTT (optional)**. The key principle is to clean and shape before compressing, and to compress before adding the final finishing layer. ---
+A: The recommended signal order: **EQ (Pro-Q 4) → Transient Shaper → bx_boom! → SSL G-Master Bus Compressor → OTT (optional)**. The key principle is to clean and shape before compressing, and to compress before adding the final finishing layer.
+
+---
 ## Final Thoughts
 
 The best drum mixing plugin chain in 2026 isn't the most expensive one — it's the one with each slot performing a defined, non-overlapping job. EQ cleans the source, transient shaping defines the attack character, low-end reinforcement adds weight, bus compression creates cohesion, and optional upward compression delivers final presence. FabFilter Pro-Q 4 remains the standout investment in this chain, delivering both diagnostic and corrective EQ capabilities no other tool in the market matches at this depth.

@@ -193,7 +193,9 @@ A: Not exclusively — the producer community documents it working at conservati
 A: The circuit behavior and gain reduction characteristics are optimized for summed bus signals. Community documentation consistently positions it as a drum bus and mix bus tool. For individual channel compression in hip-hop — kick, snare, vocal — the community more commonly references the CLA-76 (included in Waves Platinum Bundle) or an SSL E-Channel strip for single-channel dynamics work.
 
 **Q: Is FabFilter Pro-Q 4 worth $179 when free EQ options exist?**
-A: The community answer is consistently yes, with the dynamic EQ mode cited as the primary justification. Free alternatives like TDR Nova offer dynamic EQ functionality and are regularly recommended as starting points on r/audioengineering, but Pro-Q 4's frequency collision detection, the quality of its analyzer, and the linear phase mode across all bands are the workflow features that producer communities document as the practical gap between the two. TDR Nova is the recommended free alternative until the budget supports Pro-Q 4. ---
+A: The community answer is consistently yes, with the dynamic EQ mode cited as the primary justification. Free alternatives like TDR Nova offer dynamic EQ functionality and are regularly recommended as starting points on r/audioengineering, but Pro-Q 4's frequency collision detection, the quality of its analyzer, and the linear phase mode across all bands are the workflow features that producer communities document as the practical gap between the two. TDR Nova is the recommended free alternative until the budget supports Pro-Q 4.
+
+---
 ## Related Guides
 
 - [12 Best Free Lo-Fi Sample Packs in 2026 (Drums, Vinyl Crackle, Chords)](/posts/best-free-lofi-sample-packs/)

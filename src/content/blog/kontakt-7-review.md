@@ -193,7 +193,9 @@ A: It depends on the specific library. Spitfire's LABS series and several commer
 A: Falcon 3 has a more flexible synthesis architecture and deeper modulation routing — it suits producers building hybrid synth-sampler instruments from scratch. HALion 7 integrates tightly with Cubase and offers strong scoring workflow features. Kontakt 7's competitive advantage is its third-party library ecosystem: no other platform has equivalent breadth of developer support, which is the deciding factor for most professional composers.
 
 **Q: Does Kontakt 7 run natively on Apple Silicon?**
-A: Yes. Native Instruments added full Apple Silicon native support (no Rosetta 2 bridge) for Kontakt 7. Performance on M2, M3, and M4 Macs with large orchestral session templates is substantially better than on equivalent Intel machines, particularly in terms of disk streaming headroom and low-latency responsiveness. ---
+A: Yes. Native Instruments added full Apple Silicon native support (no Rosetta 2 bridge) for Kontakt 7. Performance on M2, M3, and M4 Macs with large orchestral session templates is substantially better than on equivalent Intel machines, particularly in terms of disk streaming headroom and low-latency responsiveness.
+
+---
 ## Related Guides
 
 - [10 Best Free Bass Synth VST Plugins in 2026 — Ranked](/posts/best-free-bass-synth-vst/)

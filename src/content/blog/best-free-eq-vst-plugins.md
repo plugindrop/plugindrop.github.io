@@ -307,7 +307,9 @@ A: Linear phase EQ processes audio without introducing phase shift at any freque
 A: Most plugins on this list are available in VST, VST3, and AU formats, covering every major DAW on Windows and macOS — Ableton Live, Logic Pro, FL Studio, Reaper, Studio One, Cubase, and others. ReaEQ is available as VST/VST3 and does not include AU, so Logic users should opt for one of the other options on this list. Always verify AAX availability separately if you use Pro Tools.
 
 **Q: What is a dynamic EQ and why does it matter for mixing?**
-A: A dynamic EQ is a parametric EQ where individual bands respond to the level of the incoming signal — essentially combining the frequency precision of EQ with the reactive behaviour of a compressor. **TDR Nova** includes dynamic control on all four bands, making it possible to tame resonances that only appear at loud transients, control sibilance without a separate de-esser, and apply transparent multiband-style correction with surgical accuracy. It is one of the most useful tools in a professional mixing chain. ---
+A: A dynamic EQ is a parametric EQ where individual bands respond to the level of the incoming signal — essentially combining the frequency precision of EQ with the reactive behaviour of a compressor. **TDR Nova** includes dynamic control on all four bands, making it possible to tame resonances that only appear at loud transients, control sibilance without a separate de-esser, and apply transparent multiband-style correction with surgical accuracy. It is one of the most useful tools in a professional mixing chain.
+
+---
 ## When to Upgrade to Paid EQ
 
 The free tools here cover 90% of use cases. These are the paid upgrades worth buying when the gaps start to matter:

@@ -383,7 +383,9 @@ A: iZotope uses tiered and sale-based pricing that changes regularly across thei
 A: Not immediately. VintageVerb covers more ground as a first purchase, including the vintage character and wider spatial range. Room is worth adding later when you find yourself needing tighter, more controlled natural spaces that VintageVerb's warmth works against. Both at $50 each represent a $100 reverb toolkit that r/audioengineering consistently recommends over single-reverb alternatives at several times the combined price.
 
 **Q: Are free VST compressors like TDR Nova and DC1A usable on commercial releases?**
-A: Consistently, yes. KVR threads on professional freeware regularly cite both TDR Nova and Klanghelm DC1A as tools working engineers use in commercial contexts. The free-versus-paid distinction in compression matters at the margins — for mastering-grade bus work where FabFilter Pro-C 2's visualization and style range become genuinely useful — not for most general mixing applications. ---
+A: Consistently, yes. KVR threads on professional freeware regularly cite both TDR Nova and Klanghelm DC1A as tools working engineers use in commercial contexts. The free-versus-paid distinction in compression matters at the margins — for mastering-grade bus work where FabFilter Pro-C 2's visualization and style range become genuinely useful — not for most general mixing applications.
+
+---
 ## Final Thoughts
 
 For under $200, the highest-ROI combination a producer can make in 2026 is Serum 2 for synthesis, FabFilter Pro-C 2 for compression, and Valhalla VintageVerb for reverb — three tools that cover the most-used plugin categories at price points where the community consensus rates them above alternatives at two to five times the cost. Fill the remaining gaps with the free picks in this guide and the toolkit is complete before you spend anything else.

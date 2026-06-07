@@ -315,7 +315,9 @@ A: Several, yes. u-he Diva, OB-Xd, Dexed, and Surge XT all officially support Li
 A: If you own one instrument and plan to buy two more, the math usually favors the collection — but Arturia runs regular sales on both individual instruments and V Collection, so check current pricing. The gap between buying three individually and buying the bundle narrows significantly during promotion periods.
 
 **Q: What is the difference between Arturia Mini V3 and u-he Diva for Minimoog tones?**
-A: Arturia Mini V3 adds features the original hardware lacked — polyphony, expanded modulation — and uses TAE modeling. u-he Diva's Minimoog-derived module uses circuit simulation and is considered more accurate for reproducing specific hardware non-linearities. KVR community comparisons generally describe Mini V3 as "the most playable" and Diva as "the most accurate." ---
+A: Arturia Mini V3 adds features the original hardware lacked — polyphony, expanded modulation — and uses TAE modeling. u-he Diva's Minimoog-derived module uses circuit simulation and is considered more accurate for reproducing specific hardware non-linearities. KVR community comparisons generally describe Mini V3 as "the most playable" and Diva as "the most accurate."
+
+---
 ## Related Guides
 
 - [14 Best Free Synth VST Plugins in 2026 (Try Before You Buy)](/posts/best-free-synth-plugins/)

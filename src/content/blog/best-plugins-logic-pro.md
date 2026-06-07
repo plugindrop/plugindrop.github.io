@@ -380,7 +380,9 @@ A: For most serious mixing work, yes. Logic's Channel EQ is a capable static equ
 A: As of 2026, every developer in this guide has released native Apple Silicon builds. FabFilter, Valhalla DSP, iZotope, Xfer Records, Soundtoys, u-he, oeksound, Klanghelm, and Tokyo Dawn Labs all confirmed Apple Silicon support in their release notes. Always verify the current system requirements on the developer's page before purchasing, as support timelines can vary between minor versions.
 
 **Q: Is Vital actually as good as Serum?**
-A: The community is genuinely divided on this. KVR discussions and comparison threads on r/edmproduction generally conclude that Vital's spectral warping is a unique capability Serum doesn't offer, while Serum's preset library and third-party patch ecosystem are significantly larger. For pure synthesis capability, Vital is competitive at any price — but for working within a preset-driven production workflow, Serum's market depth is the real advantage. ---
+A: The community is genuinely divided on this. KVR discussions and comparison threads on r/edmproduction generally conclude that Vital's spectral warping is a unique capability Serum doesn't offer, while Serum's preset library and third-party patch ecosystem are significantly larger. For pure synthesis capability, Vital is competitive at any price — but for working within a preset-driven production workflow, Serum's market depth is the real advantage.
+
+---
 ## Final Thoughts
 
 FabFilter Pro-Q 4 remains the upgrade most likely to change how you work in Logic Pro — not because Logic's EQ is broken, but because dynamic EQ with real-time spectrum analysis changes the way you hear your mix. For producers building a complete core stack, pairing Pro-Q 4 with Valhalla VintageVerb and either Serum or Vital covers EQ, reverb, and synthesis for under $420 (or under $230 with Vital's free tier) — the combination that production communities consistently identify as the practical Logic Pro third-party foundation in 2026.

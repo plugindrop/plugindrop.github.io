@@ -195,7 +195,9 @@ A: Lo-fi beats rely on understated, slightly imperfect drum textures rather than
 A: 44.1kHz is the standard for lo-fi production. Higher sample rates add processing overhead without contributing to the vintage character — the deliberate degradation applied by these plugins is what defines the sound. Several lo-fi tutorial creators on YouTube also note that saturation algorithms can interact differently at 44.1kHz versus 96kHz, sometimes in ways that affect the character of the lo-fi texture.
 
 **Q: Does lo-fi music need mastering plugins?**
-A: Lo-fi masters are typically lower in loudness than pop or EDM, which means aggressive limiting works against the aesthetic. The mastering chain for lo-fi is usually simpler: gentle EQ, mild compression, and a limiter set conservatively. The mastering guide linked below covers this in detail. ---
+A: Lo-fi masters are typically lower in loudness than pop or EDM, which means aggressive limiting works against the aesthetic. The mastering chain for lo-fi is usually simpler: gentle EQ, mild compression, and a limiter set conservatively. The mastering guide linked below covers this in detail.
+
+---
 ## Related Guides
 
 - [Complete Drum Mixing Plugin Chain: Best Tools for Punchy Drums (2026)](/posts/drum-mixing-plugin-chain/)

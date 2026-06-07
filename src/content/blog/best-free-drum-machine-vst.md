@@ -296,7 +296,9 @@ A: All VST/AU/AAX formats on this list require a DAW host to function as plugins
 A: Steven Slate Audio's developer documentation confirms SSD5 Free is a fully functional, unrestricted build. It is not a demo. It requires a free iLok account for license management but has no time limits, watermarks, or save restrictions. The difference between free and paid is kit selection, not engine capability.
 
 **Q: Which free drum plugin works best with Ableton Live?**
-A: Sitala integrates cleanly with Ableton via drag-and-drop for building custom sample kits. MT Power Drum Kit 2 includes a MIDI groove library compatible with Ableton's Session View. The r/ableton community references both regularly for different workflow needs — Sitala for custom sampling, MT Power for out-of-the-box acoustic sounds. ---
+A: Sitala integrates cleanly with Ableton via drag-and-drop for building custom sample kits. MT Power Drum Kit 2 includes a MIDI groove library compatible with Ableton's Session View. The r/ableton community references both regularly for different workflow needs — Sitala for custom sampling, MT Power for out-of-the-box acoustic sounds.
+
+---
 ## Related Guides
 
 - [Complete Drum Mixing Plugin Chain: Punchy Drums](/posts/drum-mixing-plugin-chain/)

@@ -211,7 +211,9 @@ A: Community consensus across r/audioengineering, Gearspace, and KVR answers yes
 A: These terms describe the gain reduction element the compressor circuit is modeled on. VCA (voltage-controlled amplifier) compressors respond quickly and predictably to signal levels, making them standard for drums and bus compression — the Waves SSL G-Master and API 2500 fall into this category. Optical compressors use a light-dependent resistor that produces a slower, more program-sensitive response, typically associated with smooth vocal leveling and acoustic instruments. FabFilter Pro-C 2's Classic mode models VCA behavior; its Opto mode models optical behavior — both available in the same plugin.
 
 **Q: Do I need multiple compressor plugins, or can one cover everything?**
-A: One can cover everything if it is sufficiently versatile. FabFilter Pro-C 2 is the community's primary example of a compressor that handles this. In practice, most producers working across genres end up with at least two: one transparent option for bus and mastering work, and one character option for drums and tracking. For producers starting out, TDR Kotelnikov and Rough Rider 3 together establish this two-compressor workflow at no cost. ---
+A: One can cover everything if it is sufficiently versatile. FabFilter Pro-C 2 is the community's primary example of a compressor that handles this. In practice, most producers working across genres end up with at least two: one transparent option for bus and mastering work, and one character option for drums and tracking. For producers starting out, TDR Kotelnikov and Rough Rider 3 together establish this two-compressor workflow at no cost.
+
+---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

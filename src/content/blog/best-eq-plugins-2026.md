@@ -180,7 +180,9 @@ A: Linear phase EQ preserves the phase relationships between frequencies, which 
 A: Yes. All plugins listed here support VST3 on Windows and macOS. Most also support AU (Logic, GarageBand) and AAX (Pro Tools). MEqualizer and TDR Nova also have 32-bit VST builds for older DAWs. Check each developer's format list before purchasing if AAX support is required.
 
 **Q: What's the best EQ for mastering specifically?**
-A: FabFilter Pro-Q 4 in linear phase mode is the most common choice in professional mastering. Voxengo Marvel GEQ is the best free option. Dynamic EQ from TDR Nova (or Pro-Q 4's built-in dynamic mode) is valuable for transparent level-dependent tonal control without heavy-handed static cuts. ---
+A: FabFilter Pro-Q 4 in linear phase mode is the most common choice in professional mastering. Voxengo Marvel GEQ is the best free option. Dynamic EQ from TDR Nova (or Pro-Q 4's built-in dynamic mode) is valuable for transparent level-dependent tonal control without heavy-handed static cuts.
+
+---
 ## Final Thoughts
 
 In 2026, the quality floor for free EQ plugins is genuinely high — TDR Nova and Voxengo Marvel GEQ are not compromises, they're legitimate tools. But FabFilter Pro-Q 4 remains the single best investment if you mix regularly: its combination of dynamic EQ, M/S processing, and workflow efficiency adds up to faster, better-sounding sessions over time.

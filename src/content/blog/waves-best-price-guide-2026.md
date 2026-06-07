@@ -194,7 +194,9 @@ A: Gold covers the fundamentals well, but producer forums consistently note that
 A: WUP — the annual maintenance fee required to keep plugins compatible with OS and DAW updates — has been discontinued. Plugins purchased under the current model do not require ongoing fees to remain functional, removing one of the historically cited risks of heavy Waves investment.
 
 **Q: Can Waves plugins be used without a hardware dongle?**
-A: Yes. Waves licensing is now managed through the Waves License Center application, which is software-based. Dongles are no longer required, simplifying activation across multiple machines. ---
+A: Yes. Waves licensing is now managed through the Waves License Center application, which is software-based. Dongles are no longer required, simplifying activation across multiple machines.
+
+---
 ## Related Guides
 
 - [Ableton vs FL Studio 2026: Which DAW Should You Buy?](/posts/ableton-live-vs-fl-studio-2026/)

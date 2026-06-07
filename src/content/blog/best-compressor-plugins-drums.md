@@ -309,7 +309,9 @@ A: Ratios of 2:1 to 4:1 with slow-to-medium attack are the most commonly recomme
 A: The r/WeAreTheMusicMakers and r/audioengineering communities consistently position it as high-value when you account for versatility — it replaces multiple single-purpose compressors in a session. If you're doing drum bus glue, snare channel compression, and parallel compression in the same project, the ability to use one plugin across all three saves both CPU and the cost of separate tools.
 
 **Q: What is the difference between Rough Rider 3 and TDR Kotelnikov on drums?**
-A: They serve different purposes. Rough Rider 3 adds character and pumping — it has a sound, and that sound is part of its value on drums. TDR Kotelnikov is transparent — it controls dynamics without coloring the signal. For electronic music where the pump is a desirable effect, Rough Rider 3 is the community recommendation. For acoustic drums where the character needs to come from the samples or the room, TDR Kotelnikov is the better fit. ---
+A: They serve different purposes. Rough Rider 3 adds character and pumping — it has a sound, and that sound is part of its value on drums. TDR Kotelnikov is transparent — it controls dynamics without coloring the signal. For electronic music where the pump is a desirable effect, Rough Rider 3 is the community recommendation. For acoustic drums where the character needs to come from the samples or the room, TDR Kotelnikov is the better fit.
+
+---
 ## Related Guides
 
 - [ADSR Sounds vs Splice: Which Sample Subscription Is Better in 2026?](/posts/adsr-vs-splice-samples/)

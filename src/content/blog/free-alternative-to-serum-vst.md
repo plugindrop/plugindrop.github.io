@@ -196,7 +196,9 @@ A: Surge XT's interface is complex and the manual is substantial. Community cons
 A: Yes. Vital, Surge XT, Phase Plant Lite, and Helm are all fully licensed for commercial use. Their free distribution model is a business decision by the developers, not a licensing restriction. Thousands of commercial releases use them. The "free" label reflects pricing, not production-readiness.
 
 **Q: What does Phase Plant Lite actually restrict?**
-A: Phase Plant Lite limits which generator and effect modules are available in the signal chain. Core modules function, but several generators and shaper types are locked to the paid version. Kilohearts positions the Lite version as an extended trial — it demonstrates the modular workflow and Snapin ecosystem without delivering the full feature set. Producers who connect with the workflow will need the full version to use Phase Plant at its intended capability. ---
+A: Phase Plant Lite limits which generator and effect modules are available in the signal chain. Core modules function, but several generators and shaper types are locked to the paid version. Kilohearts positions the Lite version as an extended trial — it demonstrates the modular workflow and Snapin ecosystem without delivering the full feature set. Producers who connect with the workflow will need the full version to use Phase Plant at its intended capability.
+
+---
 ## Related Guides
 
 - [14 Best Free Synth VST Plugins 2026 (Vital, Surge XT)](/posts/best-free-synth-plugins/)

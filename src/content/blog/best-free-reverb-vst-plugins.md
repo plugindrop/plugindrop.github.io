@@ -227,7 +227,9 @@ A: TAL-Reverb-4 is the fastest path to a good vocal reverb — its warm plate ch
 A: All five free plugins support VST3, which covers FL Studio, Ableton Live, Cubase, and most major Windows and macOS DAWs. TAL-Reverb-4 and Dragonfly Reverb include AU format for Logic Pro and GarageBand on macOS. OldSkoolVerb and Convology XT include AAX for Pro Tools.
 
 **Q: Is Valhalla Supermassive actually free — no trial limit or watermark?**
-A: Fully free, permanently, with no time limit, no reduced functionality, and no watermarking. Valhalla DSP releases it as a promotional vehicle for their paid catalog. Commercial use is unrestricted. ---
+A: Fully free, permanently, with no time limit, no reduced functionality, and no watermarking. Valhalla DSP releases it as a promotional vehicle for their paid catalog. Commercial use is unrestricted.
+
+---
 ## Related Guides
 
 - [Valhalla Room vs VintageVerb: Which Reverb Is Right for You?](/posts/valhalla-room-vs-vintageverb/)

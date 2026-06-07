@@ -174,7 +174,9 @@ A: No directly — Plugin Boutique does not offer a sample subscription or sampl
 A: Yes. Samples downloaded with your monthly credits remain in your library and stay licensed for commercial use after cancellation. This is documented in Splice's license terms and consistently confirmed across community discussions on r/edmproduction and r/WeAreTheMusicMakers.
 
 **Q: Which platform has better customer support?**
-A: Community reporting on both platforms describes typical mid-tier software retailer support — email-based, variable response times. Neither platform is consistently praised or criticized for support quality in community discussions, which suggests neither is a standout differentiator in this dimension. ---
+A: Community reporting on both platforms describes typical mid-tier software retailer support — email-based, variable response times. Neither platform is consistently praised or criticized for support quality in community discussions, which suggests neither is a standout differentiator in this dimension.
+
+---
 ## Final Thoughts
 
 In the Plugin Boutique vs Splice 2026 comparison, Plugin Boutique is the stronger platform for producers optimizing their plugin library over time — the permanent ownership model, flash sale pricing, and free monthly plugin program deliver compounding value that subscription and rent-to-own models can't match dollar-for-dollar. Splice wins on sample access and is a legitimate solution for producers with cash-flow constraints. The move most experienced producers make is keeping a Plugin Boutique account active for the monthly free plugin and deal hunting, while using Splice selectively for samples when the workflow demands it.

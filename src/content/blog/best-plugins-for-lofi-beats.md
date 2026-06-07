@@ -293,7 +293,9 @@ A: The community consensus is that it depends on your workflow. RC-20 is worth t
 A: All VST/VST3-compatible DAWs — FL Studio, Ableton Live, Reaper, Studio One, Bitwig, and others — support the full list. TAL plugins and Chow Tape Model include AU format for Logic Pro. GDegrade is Windows-only. Verify 32-bit compatibility for iZotope Vinyl specifically. If you need a DAW recommendation before diving in, see our [best free DAW software guide](/posts/best-free-daw-software-2026/).
 
 **Q: Can you make professional-quality lo-fi beats using only free plugins?**
-A: Community evidence says yes. Producers release commercially distributed lo-fi material built around iZotope Vinyl, Valhalla Supermassive, and similar free tools. The paid upgrades offer workflow and control advantages, not a qualitative ceiling the free options cannot reach. ---
+A: Community evidence says yes. Producers release commercially distributed lo-fi material built around iZotope Vinyl, Valhalla Supermassive, and similar free tools. The paid upgrades offer workflow and control advantages, not a qualitative ceiling the free options cannot reach.
+
+---
 ## Final Thoughts
 
 The starting point for a lo-fi toolkit in 2026 is three downloads: iZotope Vinyl for vinyl character, Valhalla Supermassive for reverb, and TAL-Dub-3 for tape delay — each free, each backed by strong community consensus, and together covering the core textures of the genre. When you are ready to replace that chain with something built for the purpose, RC-20 Retro Color is the paid upgrade the community consistently points to.

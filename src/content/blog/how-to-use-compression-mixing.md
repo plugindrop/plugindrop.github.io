@@ -213,7 +213,9 @@ A: Parallel compression blends a heavily compressed duplicate of a signal with t
 A: Based on community consensus across r/mixingmastering, r/edmproduction, and professional mixing forums, Pro-C 2 is consistently described as the highest-value paid compressor for producers who treat it as a learning accelerator alongside a production tool. Its eight compression modes cover use cases that would otherwise require multiple purpose-built plugins.
 
 **Q: How do I know if I am over-compressing?**
-A: The production community most commonly discusses 3–6dB as the transparent working range for individual track compression and 2–4dB for bus and mix bus duties. Compression becomes audible between 6–10dB of gain reduction on most material — whether that is intentional (parallel compression, creative effect) or a problem depends on the context and the goal. ---
+A: The production community most commonly discusses 3–6dB as the transparent working range for individual track compression and 2–4dB for bus and mix bus duties. Compression becomes audible between 6–10dB of gain reduction on most material — whether that is intentional (parallel compression, creative effect) or a problem depends on the context and the goal.
+
+---
 ## Related Guides
 
 - [Complete Drum Mixing Plugin Chain: Best Tools for Punchy Drums (2026)](/posts/drum-mixing-plugin-chain/)

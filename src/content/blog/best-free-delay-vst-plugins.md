@@ -268,7 +268,9 @@ A: Tape delay introduces physical imperfections — wow, flutter, high-frequency
 A: Not universally, but they're useful for rhythmic complexity. Multi-tap delays generate different echo lengths from a single input simultaneously — quarter note, dotted eighth, half note — creating polyrhythmic delay patterns. The paid options (Valhalla Delay, EchoBoy) offer multi-tap; the free tier largely focuses on single-tap with modulation.
 
 **Q: When does it make sense to upgrade from free to paid delay plugins?**
-A: When you need something specific: hardware-accurate machine emulation (EchoBoy), structured multi-format control in a single interface (Valhalla Delay), or session-critical reliability with professional developer support. For the majority of mixing and production tasks, the 2026 free tier is production-ready. ---
+A: When you need something specific: hardware-accurate machine emulation (EchoBoy), structured multi-format control in a single interface (Valhalla Delay), or session-critical reliability with professional developer support. For the majority of mixing and production tasks, the 2026 free tier is production-ready.
+
+---
 ## Related Guides
 
 - [Best Delay VST Plugins 2026: Top Paid Options](/posts/best-delay-vst-plugins-2026/)

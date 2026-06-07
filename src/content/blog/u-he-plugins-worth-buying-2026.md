@@ -185,7 +185,9 @@ A: Repro-1 is monophonic, based on the Sequential Pro-One — it's designed for 
 A: u-he runs periodic sales, most commonly toward the end of the calendar year. The 30-day fully-functional trial means there's no urgency to buy at full price if you're on the fence — use the trial, then time your purchase around a sale if one is active.
 
 **Q: Which u-he plugin should a producer buy first?**
-A: Hive 2 is the recommendation most frequently offered to producers newer to paid synthesis. Its interface is more approachable than Diva's, the CPU demands are lower, and the preset library is well-suited to contemporary production without requiring deep synthesis knowledge to get usable results quickly. ---
+A: Hive 2 is the recommendation most frequently offered to producers newer to paid synthesis. Its interface is more approachable than Diva's, the CPU demands are lower, and the preset library is well-suited to contemporary production without requiring deep synthesis knowledge to get usable results quickly.
+
+---
 ## Related Guides
 
 - [u-he Diva Review 2026: The Best Analog Synth Emulation?](/posts/u-he-diva-review/)

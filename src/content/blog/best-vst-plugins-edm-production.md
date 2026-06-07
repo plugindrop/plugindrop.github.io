@@ -394,7 +394,9 @@ A: Not necessarily — Nexus 4 addresses a different need than either. It is a r
 A: This is a documented pitfall in r/edmproduction discussions. OTT applied to every channel is a common mistake that flattens dynamics and makes mixes sound dense without definition. It works most effectively on synth layers, pads, and pluck sounds — used surgically rather than as a default insert. The same threads that recommend it consistently flag over-application as a beginner mistake.
 
 **Q: Which of these plugins work in both Ableton Live and FL Studio?**
-A: All 15 plugins in this guide support both Ableton Live and FL Studio. The majority ship with VST3 and AU versions, covering all major DAWs. Surge XT and Vital additionally support the CLAP format, which is supported in Bitwig Studio and REAPER. ---
+A: All 15 plugins in this guide support both Ableton Live and FL Studio. The majority ship with VST3 and AU versions, covering all major DAWs. Surge XT and Vital additionally support the CLAP format, which is supported in Bitwig Studio and REAPER.
+
+---
 ## Final Thoughts
 
 The core of a complete EDM production toolkit is three tools: Serum or Vital for synthesis, Valhalla Supermassive for space, and OTT for dynamics. Everything else in this guide adds specificity — FM texture from Dexed, trance density from Sylenth1, organic layering from LABS — but those three tools are what consistently appear across community workflow threads, regardless of subgenre.

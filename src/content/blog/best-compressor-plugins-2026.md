@@ -209,7 +209,9 @@ A: TDR Kotelnikov. It was designed specifically for mastering and mix bus work, 
 A: OTT applies upward compression — raising quiet signals louder rather than only reducing loud ones. Combined with three-band processing, this creates the hyper-dense, harmonically rich texture associated with modern electronic music production. No other free plugin replicates this behavior.
 
 **Q: Do I need different compressors for mixing and mastering?**
-A: For most producers, one flexible compressor like FabFilter Pro-C 2 handles both jobs. If you prefer dedicated tools: TDR Kotelnikov for mastering and bus compression, and DC8C or LALA for individual tracks. Specialization matters most when you are chasing specific vintage hardware tones. ---
+A: For most producers, one flexible compressor like FabFilter Pro-C 2 handles both jobs. If you prefer dedicated tools: TDR Kotelnikov for mastering and bus compression, and DC8C or LALA for individual tracks. Specialization matters most when you are chasing specific vintage hardware tones.
+
+---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

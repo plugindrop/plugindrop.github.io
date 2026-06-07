@@ -190,7 +190,9 @@ A: Surge XT's reputation on r/synthesizers and KVR Audio is grounded in its arch
 A: Surge XT and Vital both provide native Apple Silicon builds on their official download pages. Phase Plant Lite and the full Phase Plant are confirmed Apple Silicon compatible by Kilohearts' documentation. Check each developer's current release notes, as ARM build support has expanded rapidly across the free plugin ecosystem since 2023.
 
 **Q: What format should I install — VST3 or AU?**
-A: On macOS, AU is the native format and is generally preferred for stability within AU-compliant DAWs. On Windows, VST3 is the current standard. Both Surge XT and Vital ship both formats. If your DAW supports only VST2, check developer release pages for availability, as some newer builds have moved away from VST2. ---
+A: On macOS, AU is the native format and is generally preferred for stability within AU-compliant DAWs. On Windows, VST3 is the current standard. Both Surge XT and Vital ship both formats. If your DAW supports only VST2, check developer release pages for availability, as some newer builds have moved away from VST2.
+
+---
 ## Final Thoughts
 
 For producers searching for a free alternative to Omnisphere VST in 2026, **Vital and Surge XT are the two instruments to download first** — both are fully functional at the free tier, actively maintained, and carry synthesis capabilities that justify professional use. If a $99 budget is available and you need multi-engine range in a single instrument, **Arturia Pigments 5 is the community's most-cited upgrade path** and the closest single-instrument match to Omnisphere's synthesis breadth at that price point.

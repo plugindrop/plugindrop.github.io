@@ -215,7 +215,9 @@ A: Loopmasters packs are delivered as WAV files, typically at 24-bit resolution.
 A: A vocal phrase recorded in D minor played over a track in G major creates obvious harmonic clash. Correcting that programmatically — pitch-shifting the vocal to match — introduces frequency artifacts that become audible in the upper registers, particularly on headphone mixes. Purchasing a pack with key-labeled files means you can filter for content in your track's key before committing to it, which eliminates the correction problem entirely.
 
 **Q: What is a reasonable starting budget for a vocal sample library?**
-A: Producer communities typically recommend $40–$60 as a sensible initial investment: two genre-specific packs in the $14.95–$24.95 range, each matched to your primary production style. That purchase volume gives you enough material to understand whether vocal sampling genuinely serves your workflow before building a larger library. A free Cymatics pack before that spend is worth the time to validate the workflow first. ---
+A: Producer communities typically recommend $40–$60 as a sensible initial investment: two genre-specific packs in the $14.95–$24.95 range, each matched to your primary production style. That purchase volume gives you enough material to understand whether vocal sampling genuinely serves your workflow before building a larger library. A free Cymatics pack before that spend is worth the time to validate the workflow first.
+
+---
 ## Related Guides
 
 - [12 Best Free Lo-Fi Sample Packs in 2026, Ranked (Drums, Vinyl Crackle, Chords)](/posts/best-free-lofi-sample-packs/)

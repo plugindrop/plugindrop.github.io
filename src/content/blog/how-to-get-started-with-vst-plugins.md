@@ -183,7 +183,9 @@ A: All four free plugins in this guide offer native Apple Silicon builds. Vital,
 A: Four categories cover the essentials: one synthesizer, one EQ, one compressor (your DAW's built-in is sufficient to start), and one reverb. The free stack in this guide covers three of the four at no cost. Accumulating plugins faster than you can learn them — a pattern r/edmproduction's wiki addresses under "GAS" (Gear Acquisition Syndrome) — is the most common beginner error documented by the community.
 
 **Q: Is Vital actually free or is it a time-limited trial?**
-A: Vital's free tier is not a trial. The free version includes the full synthesis engine — three oscillators, a complete modulation matrix, the wavetable editor, and 75 presets — with no time limit or expiration. The paid Pro tier adds online preset packs and community features. The core synthesis capability is fully unlocked in the free version. ---
+A: Vital's free tier is not a trial. The free version includes the full synthesis engine — three oscillators, a complete modulation matrix, the wavetable editor, and 75 presets — with no time limit or expiration. The paid Pro tier adds online preset packs and community features. The core synthesis capability is fully unlocked in the free version.
+
+---
 ## Final Thoughts
 
 For any producer starting from zero in 2026, the stack is clear and costs nothing to assemble: Vital for synthesis, TDR Nova for EQ, and Valhalla Supermassive for reverb. These are not entry-level compromises — they are community-validated tools used in professional contexts, and the tutorial ecosystems around them are large enough to take a beginner from zero to a finished track. When the synthesis ceiling arrives and you need access to the largest commercial preset ecosystem in production communities, Serum 2 is the upgrade the community consistently points to.

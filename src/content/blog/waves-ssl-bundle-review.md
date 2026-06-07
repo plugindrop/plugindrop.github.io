@@ -152,7 +152,9 @@ A: Yes, and this is actually a common professional approach: the E-Channel handl
 A: It can, but with caveats. The G-Bus Compressor adds color and is not a transparent mastering tool. Some mastering engineers use it at very low gain reduction (1–2dB) for its tonal characteristics, but for transparent limiting and dynamic control in mastering, a dedicated mastering compressor or the FabFilter Pro-C 2/Pro-L 2 combination is more appropriate.
 
 **Q: What DAWs are the Waves SSL plugins compatible with?**
-A: The SSL E-Channel and G-Master Buss Compressor support VST3, VST2, AU, and AAX formats, covering Ableton Live, FL Studio, Logic Pro, Pro Tools, Studio One, Cubase, Reaper, and all other major DAWs on both Windows and macOS. Waves also provides an offline installer and license management through Waves Central. ---
+A: The SSL E-Channel and G-Master Buss Compressor support VST3, VST2, AU, and AAX formats, covering Ableton Live, FL Studio, Logic Pro, Pro Tools, Studio One, Cubase, Reaper, and all other major DAWs on both Windows and macOS. Waves also provides an offline installer and license management through Waves Central.
+
+---
 ## Final Thoughts
 
 Twenty years in, the Waves SSL bundle review verdict is unchanged: these are two of the most useful mixing tools available at any price, and at Waves' sale pricing, they are an absurd value. Start with the G-Master Buss Compressor if you are choosing one, add the E-Channel for a complete per-channel workflow, and consider the full SSL 4000 Collection when your budget allows.

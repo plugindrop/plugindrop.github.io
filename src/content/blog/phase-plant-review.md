@@ -158,7 +158,9 @@ A: The factory preset library is solid and genuinely usable across cinematic, el
 A: Serum is purpose-built for wavetable synthesis with a faster, more focused workflow. Phase Plant is broader — it includes a wavetable engine alongside analog, FM, sample, and noise generators in one instrument. For wavetable-centric work, Serum's dedicated editor and community ecosystem give it an edge. For cross-genre sound design, Phase Plant wins on flexibility.
 
 **Q: What are Kilohearts Snapins and do I need to buy them separately?**
-A: Snapins are Kilohearts' modular effects format, compatible with Phase Plant, Snap Heap, and Multipass. Phase Plant ships with a core set of Snapins included. Additional Snapins (more advanced reverb, multiband effects, etc.) are sold separately or bundled via the Kilohearts subscription. The included set covers most production needs; the upsells are for advanced users who are already in the ecosystem. ---
+A: Snapins are Kilohearts' modular effects format, compatible with Phase Plant, Snap Heap, and Multipass. Phase Plant ships with a core set of Snapins included. Additional Snapins (more advanced reverb, multiband effects, etc.) are sold separately or bundled via the Kilohearts subscription. The included set covers most production needs; the upsells are for advanced users who are already in the ecosystem.
+
+---
 ## Related Guides
 
 - [14 Best Free Synth VST Plugins 2026](/posts/best-free-synth-plugins/)

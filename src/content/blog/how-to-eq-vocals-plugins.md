@@ -215,7 +215,9 @@ A: Neutron 4 is a general-purpose channel strip designed for any instrument in a
 A: Producer communities have positioned Pro-Q 4 as a long-term investment precisely because it doesn't need to be replaced as skills develop. The precision it provides is accessible to beginners and still relevant to professional engineers. That said, TDR Nova is a legitimate free alternative for producers not ready to commit $179.
 
 **Q: What's the best EQ curve to start with on every vocal?**
-A: There is no universal starting curve — every voice, microphone, and room produces a different frequency profile. What transfers reliably is the process: high-pass filter first, cut mud around 200–350Hz, find and remove narrow resonances in the 500Hz–2kHz range, consider a broad presence boost around 3–4kHz, and optionally add a high-shelf air boost above 12kHz. Apply that sequence to every vocal and adjust the specific frequencies and depths to match what you hear. ---
+A: There is no universal starting curve — every voice, microphone, and room produces a different frequency profile. What transfers reliably is the process: high-pass filter first, cut mud around 200–350Hz, find and remove narrow resonances in the 500Hz–2kHz range, consider a broad presence boost around 3–4kHz, and optionally add a high-shelf air boost above 12kHz. Apply that sequence to every vocal and adjust the specific frequencies and depths to match what you hear.
+
+---
 ## Related Guides
 
 - [Complete Drum Mixing Plugin Chain: Best Tools for Punchy Drums (2026)](/posts/drum-mixing-plugin-chain/)

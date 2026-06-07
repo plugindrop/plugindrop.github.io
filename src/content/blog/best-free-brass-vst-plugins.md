@@ -189,7 +189,9 @@ A: BBCSO Discover has the highest system requirements in this list — it is a l
 A: BBCSO Discover and Virtual Playing Orchestra cover the full standard orchestral brass family, including all three instruments in section form. VSCO2 CE focuses on chamber-scale individual instrument recordings of each. DSK Brass provides basic tonal coverage of core brass categories without the depth or articulation variety of a sampled library. Sonatina SSO covers French horn, trumpet, and trombone with more limited articulation options than the modern alternatives.
 
 **Q: Are free orchestral VSTs licensed for commercial use?**
-A: BBC Symphony Orchestra Discover explicitly permits commercial use, including sync licensing and streaming releases, per Spitfire Audio's published license. VSCO2 Community Edition and Virtual Playing Orchestra are also licensed for commercial use. Confirm the specific license terms for each library before commercial deployment, as terms can be updated and vary between releases. ---
+A: BBC Symphony Orchestra Discover explicitly permits commercial use, including sync licensing and streaming releases, per Spitfire Audio's published license. VSCO2 Community Edition and Virtual Playing Orchestra are also licensed for commercial use. Confirm the specific license terms for each library before commercial deployment, as terms can be updated and vary between releases.
+
+---
 ## Related Guides
 
 - [8 Best Free Choir & Vocal Ensemble VST Plugins in 2026 — Ranked](/posts/best-free-choir-vst-plugins/)

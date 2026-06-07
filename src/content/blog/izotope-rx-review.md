@@ -175,7 +175,9 @@ A: Yes. RX 11 includes ARA2 plugin versions that integrate directly into Pro Too
 A: There is no free tool that competes with RX 11's AI modules or spectrogram editor. Free options like Audacity's noise reduction or basic DAW de-noise processors handle simple, consistent noise floors adequately. RX 11 handles complex, varying noise environments, transient events, clipping reconstruction, and voice isolation — categories where free tools are not comparable.
 
 **Q: Does iZotope RX 11 work on Apple Silicon natively?**
-A: Yes. RX 11 runs natively on Apple Silicon (M1/M2/M3/M4) and benefits significantly from the Neural Engine for AI-powered modules. Processing times on M-series chips are substantially faster than on equivalent Intel hardware. ---
+A: Yes. RX 11 runs natively on Apple Silicon (M1/M2/M3/M4) and benefits significantly from the Neural Engine for AI-powered modules. Processing times on M-series chips are substantially faster than on equivalent Intel hardware.
+
+---
 ## Final Thoughts
 
 iZotope RX 11 is not a luxury purchase — it's professional infrastructure. For anyone who works with audio that exists outside of perfect recording conditions, it is the single most impactful tool investment available in 2026. Start with RX Elements to learn the environment, upgrade to Standard when the work demands it, and consider Advanced if dialogue editing or stem separation are core parts of your workflow.

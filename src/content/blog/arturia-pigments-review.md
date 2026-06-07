@@ -237,7 +237,9 @@ A: Yes. Arturia has released native Apple Silicon support, and Pigments 5 runs n
 A: Pigments 5 expanded the sample engine capabilities, refined the modulation system, added additional FX options, and substantially grew the included preset library. Producers upgrading from version 3 consistently report meaningful improvements in both sound quality and workflow efficiency.
 
 **Q: Is Pigments 5 CPU-intensive?**
-A: Moderately, depending on the patch. Wavetable and virtual analog patches are efficient on current hardware. Granular patches with high grain density, multiple active modulators, and high polyphony will consume more resources. Most producers report no performance issues on mid-range machines from 2022 onward. ---
+A: Moderately, depending on the patch. Wavetable and virtual analog patches are efficient on current hardware. Granular patches with high grain density, multiple active modulators, and high polyphony will consume more resources. Most producers report no performance issues on mid-range machines from 2022 onward.
+
+---
 ## Related Guides
 
 - [14 Best Free Synth VST Plugins 2026](/posts/best-free-synth-plugins/)

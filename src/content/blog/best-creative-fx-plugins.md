@@ -327,7 +327,9 @@ A: Producer communities consistently answer yes, with the qualification that it'
 A: Some, yes. RC-20 Retro Color's subtle noise and wow & flutter modules are used in lo-fi mastering contexts where vintage character is the goal. Valhalla Freq Echo appears on ambient and experimental masters. Stutter Edit 2 and Turnado are not mastering tools — they're designed for element-level creative processing, not full-program audio. Applying them across a stereo master produces results that are difficult to control and rarely intentional.
 
 **Q: Which plugins on this list have the lowest CPU impact?**
-A: Valhalla Freq Echo has minimal CPU overhead, consistent with Valhalla DSP's design philosophy across their free plugin lineup. Glitch 2 also runs efficiently relative to its feature set. Soundtoys plugins and Output Portal carry moderate CPU demands; iZotope Stutter Edit 2 can spike under complex real-time gesture processing. CPU impact across all of these varies significantly depending on patch complexity and simultaneous instance count. ---
+A: Valhalla Freq Echo has minimal CPU overhead, consistent with Valhalla DSP's design philosophy across their free plugin lineup. Glitch 2 also runs efficiently relative to its feature set. Soundtoys plugins and Output Portal carry moderate CPU demands; iZotope Stutter Edit 2 can spike under complex real-time gesture processing. CPU impact across all of these varies significantly depending on patch complexity and simultaneous instance count.
+
+---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

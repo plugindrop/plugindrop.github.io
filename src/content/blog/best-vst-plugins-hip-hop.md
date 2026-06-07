@@ -384,7 +384,9 @@ A: Bus compression is a preference, not a requirement. The SSL G-Master appears 
 A: Community consensus across r/makinghiphop and Gearspace is that free plugins can produce professional results. Vital, Valhalla Supermassive, TDR Nova, iZotope Vinyl, LABS, IVGI, and LoudMax together cover synthesis, reverb, EQ, vinyl texture, sample instruments, saturation, and limiting — a complete hip-hop production and mixing toolkit at zero cost.
 
 **Q: Which plugins on this list work in both FL Studio and Ableton Live?**
-A: Every plugin listed here supports VST3 format, which is compatible with both FL Studio and Ableton Live (on current versions). macOS users also have AU support across most entries. Battery 4, Addictive Drums 2, Serum, and the Waves SSL G-Master additionally support AAX for Pro Tools users. ---
+A: Every plugin listed here supports VST3 format, which is compatible with both FL Studio and Ableton Live (on current versions). macOS users also have AU support across most entries. Battery 4, Addictive Drums 2, Serum, and the Waves SSL G-Master additionally support AAX for Pro Tools users.
+
+---
 ## Related Guides
 
 - [Hip-Hop Mixing Plugin Chain: Beat by Beat Breakdown (2026)](/posts/hip-hop-mixing-plugin-chain/)

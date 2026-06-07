@@ -189,7 +189,9 @@ A: A standard parametric EQ applies a fixed gain change whenever audio passes th
 A: Developer documentation and producer community discussions both frame Nectar 4 as a complete chain replacement for most workflows. It includes EQ, compression, saturation, pitch correction, reverb, delay, and harmony in one interface. Most producers who use it do so instead of a chain of individual plugins — the integration between modules is central to the value proposition.
 
 **Q: What order should plugins go on a vocal channel?**
-A: Community consensus follows a general sequence: high-pass filter → static EQ → compression → dynamic EQ → pitch correction → saturation → reverb/delay. The exact order is debated, but the most consistent recommendation in r/edmproduction is to place pitch correction after primary compression so the compressor isn't reacting to pitchy note transitions, and to keep reverb and delay at the end of the chain so they process the finished, corrected signal. ---
+A: Community consensus follows a general sequence: high-pass filter → static EQ → compression → dynamic EQ → pitch correction → saturation → reverb/delay. The exact order is debated, but the most consistent recommendation in r/edmproduction is to place pitch correction after primary compression so the compressor isn't reacting to pitchy note transitions, and to keep reverb and delay at the end of the chain so they process the finished, corrected signal.
+
+---
 ## Final Thoughts
 
 For mixing vocals at home in 2026, the free tier is genuinely strong: TDR Nova for dynamic EQ and Valhalla Supermassive for reverb cover the most critical stages of a vocal chain without compromise or apology. When the workflow requires pitch correction and DAW-native tools are the limiting factor, Waves Tune Real-Time is the direct, low-latency solution. When you want a single AI-assisted plugin to handle the entire chain intelligently and cut setup time significantly, iZotope Nectar 4 is the community's consistent top recommendation.

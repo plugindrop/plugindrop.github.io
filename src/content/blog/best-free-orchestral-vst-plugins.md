@@ -218,7 +218,9 @@ A: Most don't. Spitfire libraries use their own free player. VSCO2 and Sonatina 
 A: BBC Symphony Orchestra Discover is the community's first recommendation for film scoring work, specifically because it provides all orchestral sections in one cohesive library with a natural, professional sound. Adding LABS for textural elements gives a strong combined toolkit for cinematic work.
 
 **Q: Are these plugins licensed for commercial projects?**
-A: The Spitfire libraries, VSCO2 CE, and the main libraries listed here are licensed for commercial use. For any library downloaded through Decent Sampler or Pianobook's community catalog, verify the individual license terms before commercial release — community libraries vary. ---
+A: The Spitfire libraries, VSCO2 CE, and the main libraries listed here are licensed for commercial use. For any library downloaded through Decent Sampler or Pianobook's community catalog, verify the individual license terms before commercial release — community libraries vary.
+
+---
 ## Related Guides
 
 - [10 Best Free Piano VST Plugins in 2026 (Grand, Upright, Electric)](/posts/best-free-piano-vst/)

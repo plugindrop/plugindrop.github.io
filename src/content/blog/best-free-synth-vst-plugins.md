@@ -375,7 +375,9 @@ A: Wavetable synthesis scans through short audio snapshots and morphs between th
 A: Vital, Surge XT, OB-Xd, TAL-NoiseMaker, Helm, Odin2, and Pendulate all have current releases verified on macOS Sonoma and Windows 11. Synth1 is Windows-only officially, though the community maintains macOS builds. Always download from the official developer site to ensure you have the most recent version.
 
 **Q: Can I use these free VST synths in Ableton Live, FL Studio, and Logic Pro?**
-A: Yes. Every plugin on this list supports VST3 (for Ableton Live and FL Studio) or AU (for Logic Pro), with most supporting both. Dexed supports VST and AU. Synth1 is VST for Windows only. Check the developer page for the latest format availability before downloading. ---
+A: Yes. Every plugin on this list supports VST3 (for Ableton Live and FL Studio) or AU (for Logic Pro), with most supporting both. Dexed supports VST and AU. Synth1 is VST for Windows only. Check the developer page for the latest format availability before downloading.
+
+---
 ## Final Thoughts
 
 For most producers in 2026, **Vital** is the only free synth you need to start — wavetable power, a visual modulation system, and a built-in effects chain in a single free download. Add **OB-Xd** for vintage analog character and **Dexed** for FM textures, and you have a production-ready synthesis toolkit before spending anything. When you are ready to invest, [Serum on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Serum%20Xfer%20Records&a_aid=69cb95abe1763) remains the most logical paid upgrade — the ecosystem depth and wavetable editor are worth every dollar for producers working at scale.

@@ -469,7 +469,9 @@ A: Start with five: Vital (synth), TDR Nova (EQ), TDR Kotelnikov (compressor), V
 A: Most are well-optimized. Vital, Surge XT, and the TDR plugins are all known for low CPU usage. MeldaProduction's bundle is the heaviest on resources — be selective about which of the 37 plugins you keep active in sessions if you're on older hardware.
 
 **Q: What's the difference between VST2 and VST3?**
-A: VST3 is the current standard and is recommended for all new installs — it offers better performance, proper plugin deactivation when not processing signal, and cleaner MIDI handling. All major plugins on this list are available in VST3. ---
+A: VST3 is the current standard and is recommended for all new installs — it offers better performance, proper plugin deactivation when not processing signal, and cleaner MIDI handling. All major plugins on this list are available in VST3.
+
+---
 ## Final Thoughts
 
 For beginners in 2026, the quality of free plugins is genuinely extraordinary — and **Vital** remains the single best starting point in the entire ecosystem. Install it alongside **Valhalla Supermassive** and **TDR Nova**, and you have a production-ready kit that will serve you for years before you feel the ceiling.

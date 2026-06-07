@@ -293,7 +293,9 @@ A: There is no strict technical distinction — a "bass synth" is a general-purp
 A: All ten plugins in this guide support VST3, which is compatible with Ableton Live, FL Studio, Logic Pro, Cubase, Reaper, Studio One, Bitwig, and every other major DAW. TAL-BassLine-101 and OB-Xd additionally support AU for macOS hosts. Surge XT, Helm, Dexed, and Odin 2 also support Linux.
 
 **Q: How many bass synths do I actually need?**
-A: For most production workflows, two is sufficient: one general-purpose synth (Surge XT or Vital) for broad sound design capability, and one specialist tool (TAL-BassLine-101 for acid work, Dexed for FM bass). Installing all ten is an option, but it multiplies decision overhead. Start with Surge XT and add purpose-specific tools as your workflow identifies specific needs. ---
+A: For most production workflows, two is sufficient: one general-purpose synth (Surge XT or Vital) for broad sound design capability, and one specialist tool (TAL-BassLine-101 for acid work, Dexed for FM bass). Installing all ten is an option, but it multiplies decision overhead. Start with Surge XT and add purpose-specific tools as your workflow identifies specific needs.
+
+---
 ## Related Guides
 
 - [14 Best Free Synth VST Plugins in 2026 (Try Before You Buy)](/posts/best-free-synth-plugins/)

@@ -205,7 +205,9 @@ A: No. The developer documentation describes Supermassive's shorter delay modes 
 A: Yes, for streaming-focused self-mastering. Pro-L 2's built-in LUFS-I, LUFS-S, and true peak metering covers the measurement requirements for Spotify, Apple Music, and YouTube without a separate plugin. Professional mastering engineers often add a dedicated meter for client delivery reports, but for bedroom production the Pro-L 2 metering is sufficient and removes one plugin from the master bus chain.
 
 **Q: What is the difference between buying Serum outright versus through Splice?**
-A: Serum is available for outright purchase at $189 from the Xfer Records developer site. Third-party rental-to-own platforms like Splice offer it at approximately $9.99/month, where payments accumulate toward the full license. The plugin is identical either way. The outright purchase owns the license immediately; the rental model spreads the cost but extends the time before you fully own the plugin. ---
+A: Serum is available for outright purchase at $189 from the Xfer Records developer site. Third-party rental-to-own platforms like Splice offer it at approximately $9.99/month, where payments accumulate toward the full license. The plugin is identical either way. The outright purchase owns the license immediately; the rental model spreads the cost but extends the time before you fully own the plugin.
+
+---
 ## Related Guides
 
 Extending your toolkit beyond this chain? These guides cover the adjacent plugin categories in depth:

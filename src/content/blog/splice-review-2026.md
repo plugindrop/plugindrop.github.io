@@ -164,7 +164,9 @@ A: Almost never. Splice Rent-to-Own charges the plugin's full retail price sprea
 A: Community discussions on r/edmproduction and r/WeAreTheMusicMakers most consistently point to the Creator tier (~$13.99/mo, 300 credits) as the practical sweet spot. The Personal tier's 100 credits is frequently exhausted by active producers within the first week of a billing cycle; the Pro tier's 600 credits exceeds what most producers can consistently use.
 
 **Q: How does Splice compare to other sample subscription platforms?**
-A: The most commonly referenced alternative in community discussions is ADSR Sounds, operated by Loopmasters — the same company behind Plugin Boutique. The two services differ in library focus, credit structure, and catalog curation approach. A detailed side-by-side comparison is linked in the Related Guides section below. ---
+A: The most commonly referenced alternative in community discussions is ADSR Sounds, operated by Loopmasters — the same company behind Plugin Boutique. The two services differ in library focus, credit structure, and catalog curation approach. A detailed side-by-side comparison is linked in the Related Guides section below.
+
+---
 ## Related Guides
 
 - [ADSR Sounds vs Splice: Which Sample Subscription Is Better in 2026?](/posts/adsr-vs-splice-samples/)

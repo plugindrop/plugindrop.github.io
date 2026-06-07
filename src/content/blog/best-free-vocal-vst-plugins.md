@@ -344,7 +344,9 @@ A: All 12 plugins in this guide support VST3 on Windows and VST3/AU on macOS, wh
 A: A standard starting point: High-Pass Filter → De-esser → EQ → Compression → Saturation → Reverb/Delay (on sends) → Stereo Width. The Analog Obsession CHANNELSTRIP covers HPF through compression in one insert; place T-De-Esser Plus or TDR Nova before it on particularly sibilant recordings.
 
 **Q: Is Valhalla Supermassive really free — what's the catch?**
-A: It is genuinely free with no time limit, no watermarks, and no feature restrictions. Valhalla DSP releases it as a goodwill offering and to build awareness for their paid lineup. The only practical note is that it is not available on Plugin Boutique — download it directly from valhalladsp.com. ---
+A: It is genuinely free with no time limit, no watermarks, and no feature restrictions. Valhalla DSP releases it as a goodwill offering and to build awareness for their paid lineup. The only practical note is that it is not available on Plugin Boutique — download it directly from valhalladsp.com.
+
+---
 ## Final Thoughts
 
 For 2026, MAutoPitch remains the strongest single free vocal plugin you can download — stable, transparent, and reliable across every major DAW and operating system. Build your chain around it with Analog Obsession CHANNELSTRIP for compression and TAL-Reverb-4 on your reverb send, then fill in gaps with TDR Nova, Wider, and Valhalla Supermassive as your sessions demand. When you're ready to consolidate and accelerate your workflow, iZotope Nectar 4 replaces the entire chain with one intelligent plugin worth every dollar.

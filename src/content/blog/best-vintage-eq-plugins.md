@@ -228,7 +228,9 @@ A: Not in the traditional sense. It does not model a specific hardware unit. Wha
 A: For the core passive EQ behavior — the simultaneous boost and attenuation interaction that creates the Pultec low-end — free emulations like PTEq-X capture what the community documents as the foundational Pultec sound. Commercial emulations from UAD and Waves add additional circuit detail, but KVR community comparisons consistently show that the free options handle the fundamental Pultec behavior well.
 
 **Q: Which plugin format should I prioritize in 2026?**
-A: VST3 and AU are the current standards — VST3 for Windows DAWs (FL Studio, Ableton on Windows, Studio One, Cubase) and AU for macOS (Logic Pro). AAX is required for Pro Tools. VST2 support is being phased out by most major developers. All of the paid plugins in this guide ship with VST3 + AU + AAX as the standard package. ---
+A: VST3 and AU are the current standards — VST3 for Windows DAWs (FL Studio, Ableton on Windows, Studio One, Cubase) and AU for macOS (Logic Pro). AAX is required for Pro Tools. VST2 support is being phased out by most major developers. All of the paid plugins in this guide ship with VST3 + AU + AAX as the standard package.
+
+---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

@@ -173,7 +173,9 @@ A: Both ADSR Sounds and Splice provide royalty-free licenses covering standard c
 A: Yes — ADSR Sounds makes free sample packs available without a subscription, and this is a documented and functional part of their platform model. Producer communities regularly cite the free offering as a legitimate way to evaluate the platform's curation quality before committing to a paid subscription. The free content is representative rather than a stripped-down teaser.
 
 **Q: Should you subscribe to both ADSR Sounds and Splice simultaneously?**
-A: Community threads that address this question generally land on the same answer: subscribe to both only if your production volume justifies the combined cost. The platforms serve different use cases well enough that stacking is genuinely useful for some producers — particularly those who use ADSR for genre-specific quality packs and Splice for broad discovery searches. For most bedroom producers, the smarter approach is committing to one platform that matches your production style and download behavior, then reassessing after six months. ---
+A: Community threads that address this question generally land on the same answer: subscribe to both only if your production volume justifies the combined cost. The platforms serve different use cases well enough that stacking is genuinely useful for some producers — particularly those who use ADSR for genre-specific quality packs and Splice for broad discovery searches. For most bedroom producers, the smarter approach is committing to one platform that matches your production style and download behavior, then reassessing after six months.
+
+---
 ## Related Guides
 
 - [Splice vs ADSR vs Plugin Boutique 2026: Best Subscription?](/posts/splice-vs-adsr-vs-plugin-boutique-2026/)

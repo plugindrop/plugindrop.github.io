@@ -180,7 +180,9 @@ A: Yes, and many producers do. A common workflow documented across mixing forums
 A: The community consensus is consistent: wait for a Waves sale. Waves runs promotions frequently throughout the year, and per-plugin prices during sales are substantially lower than list prices. Buying at full Waves prices is generally considered unnecessary by r/audioengineering and KVR community standards.
 
 **Q: Does iZotope Ozone replace a mastering engineer?**
-A: No, and iZotope does not claim it does. The community position on Ozone — consistent across r/mixingmastering and Gearspace — is that it is a capable tool for independent bedroom producers releasing music on streaming platforms, and a useful learning tool for understanding what mastering addresses. For major label releases or high-stakes commercial work, a professional mastering engineer with a calibrated room remains the standard. ---
+A: No, and iZotope does not claim it does. The community position on Ozone — consistent across r/mixingmastering and Gearspace — is that it is a capable tool for independent bedroom producers releasing music on streaming platforms, and a useful learning tool for understanding what mastering addresses. For major label releases or high-stakes commercial work, a professional mastering engineer with a calibrated room remains the standard.
+
+---
 ## Final Thoughts
 
 Waves and iZotope are not competing for the same job in 2026, and the producers who understand that use both strategically. For analog emulation and classic hardware character, Waves — particularly the SSL G-Master Buss Compressor and the Platinum Bundle on sale — remains the benchmark. For AI-guided mixing and mastering, iZotope Neutron 4 and Ozone 12 are the most-recommended tools in the category, period. If you are building a mixing toolkit from scratch and have to choose one brand first, start with iZotope; the guided workflow will teach you while you work. When you are ready to go deeper on hardware character and emulation precision, Waves will be waiting.

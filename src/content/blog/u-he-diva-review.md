@@ -170,7 +170,9 @@ A: Diva models circuits from the Moog Minimoog (Dual VCO oscillators, Ladder fil
 A: Arturia's emulations are historically faithful to specific hardware instruments with lower CPU overhead per instance. Diva is architecturally flexible — the module-based approach allows hybrid patches that no hardware produced — and Divine mode modeling is generally considered more harmonically complex. For reproducing one specific historical instrument at a lower CPU cost, Arturia is competitive. For synthesis that moves beyond historical recreation, Diva has substantially more range.
 
 **Q: Can u-he Diva be used for modern electronic music, or is it only for vintage-sounding productions?**
-A: Diva's analog character is present across genres from synthwave to contemporary techno, future bass, and commercial pop. The warmth it produces sits well in dense digital mixes precisely because it is not digitally thin. It is, however, not optimized for FM synthesis, wavetable-based spectral design, or granular processing — those workflows are better served by instruments built for those architectures. ---
+A: Diva's analog character is present across genres from synthwave to contemporary techno, future bass, and commercial pop. The warmth it produces sits well in dense digital mixes precisely because it is not digitally thin. It is, however, not optimized for FM synthesis, wavetable-based spectral design, or granular processing — those workflows are better served by instruments built for those architectures.
+
+---
 ## Related Guides
 
 - [12 Best Vintage Synth VST Emulations in 2026 (Moog, Roland, Oberheim)](/posts/best-vintage-synth-vst-plugins/)

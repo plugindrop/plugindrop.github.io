@@ -197,7 +197,9 @@ A: Integrated LUFS measures average loudness across the entire track duration â€
 A: These serve different workflows rather than competing directly. Pro-Q 4 is a dedicated EQ with more band precision, dynamic EQ mode, and the inter-plugin spectrum analysis feature. Ozone 12's EQ module is designed for integrated operation within the Ozone mastering workflow, with the Master Assistant able to inform its settings. Producer communities generally describe Pro-Q 4 as offering more surgical per-band control, while Ozone's EQ is more contextually useful within the all-in-one environment.
 
 **Q: Do I need acoustic treatment to master at home?**
-A: Room treatment affects how accurately you hear what you're doing, but several tools reduce its impact. Relying on Youlean's LUFS metering makes loudness decisions objective. Using FabFilter Pro-Q 4's spectrum analyzer with a reference track loaded in a second instance gives you a spectral comparison that doesn't depend on room accuracy. Cross-checking on calibrated headphones alongside monitors is a documented practice in home mastering communities for exactly this reason. ---
+A: Room treatment affects how accurately you hear what you're doing, but several tools reduce its impact. Relying on Youlean's LUFS metering makes loudness decisions objective. Using FabFilter Pro-Q 4's spectrum analyzer with a reference track loaded in a second instance gives you a spectral comparison that doesn't depend on room accuracy. Cross-checking on calibrated headphones alongside monitors is a documented practice in home mastering communities for exactly this reason.
+
+---
 ## Related Guides
 
 - [The Complete Mastering Plugin Chain: 6 Plugins for a Pro Master (2026)](/posts/mastering-chain-plugins/)

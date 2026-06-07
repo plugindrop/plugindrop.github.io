@@ -301,7 +301,9 @@ A: Generally, stereo widening goes after compression. Widening before a compress
 A: No — low frequencies below roughly 100–150Hz should remain in mono in virtually all production contexts. Most professional wideners on this list include bass mono controls specifically for this reason. Widening a bass track causes low-end phase cancellation on club systems and reduces perceived punch everywhere.
 
 **Q: Are free stereo wideners good enough for professional use?**
-A: Wider by Polyverse and iZotope Ozone Imager 2 are both used by professional engineers on commercial releases. The free options are limited in frequency-selective control and advanced diagnostics, but for most mixing tasks they perform at a professional level. The paid tools earn their price on mastering work, mono source conversion, and complex stereo repair — not day-to-day widening. ---
+A: Wider by Polyverse and iZotope Ozone Imager 2 are both used by professional engineers on commercial releases. The free options are limited in frequency-selective control and advanced diagnostics, but for most mixing tasks they perform at a professional level. The paid tools earn their price on mastering work, mono source conversion, and complex stereo repair — not day-to-day widening.
+
+---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

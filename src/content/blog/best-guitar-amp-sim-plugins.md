@@ -292,7 +292,9 @@ A: Modern paid amp sims including Neural DSP Archetype, AmpliTube 5, and Bias Am
 A: Most professional-grade amp sims support VST3, AU (macOS), and AAX (Pro Tools). Standalone operation — running as its own application outside a DAW — is standard in paid products like Neural DSP Archetype, Bias Amp 2, and AmpliTube 5, which is useful for practice and quick tracking without opening a full session.
 
 **Q: Is Line 6 Helix Native worth $399 for studio-only work?**
-A: For studio-only use without Helix hardware, the $399 price is difficult to justify against Neural DSP Archetype at under $180. The $399 price point makes sense only when the hardware/software patch parity is actively needed — guitarists who play live with Helix and record with Helix Native are the intended audience, not studio-only engineers. ---
+A: For studio-only use without Helix hardware, the $399 price is difficult to justify against Neural DSP Archetype at under $180. The $399 price point makes sense only when the hardware/software patch parity is actively needed — guitarists who play live with Helix and record with Helix Native are the intended audience, not studio-only engineers.
+
+---
 ## Related Guides
 
 - [10 Best Free Guitar Amp Simulator VST Plugins in 2026](/posts/best-free-guitar-amp-vst/)

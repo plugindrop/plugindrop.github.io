@@ -168,7 +168,9 @@ A: Set your output ceiling to -1.0 dBFS (or -0.5 dBFS for extra safety), enable 
 A: Yes. The Bus algorithm is specifically designed for stem and track limiting and has a different release characteristic that avoids the pumping that can occur when using a master bus algorithm on narrower-range material. CPU use increases at high oversampling settings, so many engineers use lower oversampling on non-master instances.
 
 **Q: How does FabFilter Pro-L 2 compare to the Waves L2?**
-A: Pro-L 2 is the more modern and more flexible tool by a significant margin. The Waves L2 remains popular for its simplicity and characteristic sound on certain material, but it has no true peak limiting, no LUFS metering, and no algorithm options. For any new purchase in 2026, Pro-L 2 is the stronger choice in almost every context. ---
+A: Pro-L 2 is the more modern and more flexible tool by a significant margin. The Waves L2 remains popular for its simplicity and characteristic sound on certain material, but it has no true peak limiting, no LUFS metering, and no algorithm options. For any new purchase in 2026, Pro-L 2 is the stronger choice in almost every context.
+
+---
 ## Related Guides
 
 - [The Complete Mastering Plugin Chain: 6 Plugins for a Pro Master (2026)](/posts/mastering-chain-plugins/)

@@ -322,7 +322,9 @@ A: At full retail (~$179), it is the most-recommended analog drive plugin in pro
 A: Chow Tape Model specifically is used in professional sessions — it is an open-source physics simulation, not a hobbyist toy. Softube Saturation Knob and IVGI are broadly used in professional contexts for supporting-role saturation. The free tier in 2026 is genuinely strong. Paid plugins earn their price through hardware-modeling accuracy, multiband capability, and depth of control — not simply by being "better" than free alternatives at every task.
 
 **Q: What is the best distortion VST for bass guitar and bass synths?**
-A: FabFilter Saturn 2 is the community's consistent answer because its multiband capability preserves the fundamental frequency while distorting upper harmonics independently — something single-band plugins cannot do regardless of price. Soundtoys Decapitator is the second recommendation for single-band applications where precise tone shaping is needed. For lo-fi bass texture, RC-20 Retro Color's distortion module handles tape-style degradation without the harshness of dedicated clipping distortion. ---
+A: FabFilter Saturn 2 is the community's consistent answer because its multiband capability preserves the fundamental frequency while distorting upper harmonics independently — something single-band plugins cannot do regardless of price. Soundtoys Decapitator is the second recommendation for single-band applications where precise tone shaping is needed. For lo-fi bass texture, RC-20 Retro Color's distortion module handles tape-style degradation without the harshness of dedicated clipping distortion.
+
+---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

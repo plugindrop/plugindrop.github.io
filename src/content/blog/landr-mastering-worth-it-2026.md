@@ -190,7 +190,9 @@ A: Both tools use AI analysis as a starting point, but the workflows diverge fun
 A: No, and LANDR's own developer documentation positions the service as accessible AI mastering, not an engineer replacement. Human mastering engineers provide mix feedback, genre-specific technical judgment, and accountability for the final commercial result that automated services do not replicate. For commercially important releases, community consensus consistently recommends human engineers for critical work.
 
 **Q: Is the LANDR free tier usable for distributing music?**
-A: No. The free tier outputs low-quality, potentially watermarked audio. It is useful for evaluating whether LANDR's AI character suits your material before subscribing, but developer documentation confirms that full-resolution WAV output requires a paid subscription tier. ---
+A: No. The free tier outputs low-quality, potentially watermarked audio. It is useful for evaluating whether LANDR's AI character suits your material before subscribing, but developer documentation confirms that full-resolution WAV output requires a paid subscription tier.
+
+---
 ## Related Guides
 
 - [10 Best Limiter Plugins for Mastering in 2026 (From Free to Pro)](/posts/best-limiter-plugins-mastering/)

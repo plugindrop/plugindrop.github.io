@@ -356,7 +356,9 @@ A: Vital's core synthesizer engine is genuinely free with no time limit and no f
 A: Rough Rider 3 is the best option when you want the compressor to add character and punch. If you need something more transparent and surgical, TDR Nova's per-band dynamic mode can function as a precise multiband compressor without the coloration.
 
 **Q: Can I use these free plugins in commercial music releases?**
-A: All 12 plugins in this guide permit commercial use under their respective free licenses. Always check each developer's specific terms for edge cases — but none of the plugins listed here restrict you from releasing music commercially. ---
+A: All 12 plugins in this guide permit commercial use under their respective free licenses. Always check each developer's specific terms for edge cases — but none of the plugins listed here restrict you from releasing music commercially.
+
+---
 ## Ready to Upgrade? First Paid Plugins Worth Buying
 
 When you've maxed out the free toolkit, these are the three paid plugins the community consistently buys first:

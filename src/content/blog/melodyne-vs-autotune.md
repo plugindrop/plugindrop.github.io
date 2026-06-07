@@ -171,7 +171,9 @@ A: For transparent correction where the editing should be inaudible, most engine
 A: The $24.99/month subscription includes Auto-Tune Pro and several other Antares products (EFX+, Artist, etc.), which can be good value if you use multiple Antares tools. If you only need Auto-Tune Pro, the perpetual license (~$399) pays for itself in under 17 months. For a long-term production setup, perpetual is almost always the better financial decision.
 
 **Q: Does Melodyne work in Ableton Live?**
-A: Yes. Melodyne supports ARA2 in Ableton Live 11 and later (on macOS; Windows ARA2 in Ableton came later — verify your version). In older setups or DAWs without full ARA2 support, Melodyne can still run as a VST/AU plugin using the manual audio transfer method, which is more cumbersome but functional. ---
+A: Yes. Melodyne supports ARA2 in Ableton Live 11 and later (on macOS; Windows ARA2 in Ableton came later — verify your version). In older setups or DAWs without full ARA2 support, Melodyne can still run as a VST/AU plugin using the manual audio transfer method, which is more cumbersome but functional.
+
+---
 ## Related Guides
 
 - [12 Best Free Vocal VST Plugins in 2026 (Tuning, Compression, Effects)](/posts/best-free-vocal-vst-plugins/)

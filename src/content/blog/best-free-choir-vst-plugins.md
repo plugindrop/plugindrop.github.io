@@ -257,7 +257,9 @@ A: Sampled choir plugins trigger recordings of real human singers at specific pi
 A: Spitfire LABS Choir and BBC Symphony Orchestra Discover have native Apple Silicon support through the Spitfire Audio app. DSK Choirs is Windows-only. Alter/Ego and SFZ-based options depend on the player used — sforzando by Plogue supports Apple Silicon. Compatibility status across the SFZ options changes with player updates; verify before downloading if native ARM performance matters to your workflow.
 
 **Q: What is the best free choir VST for a complete beginner?**
-A: Spitfire LABS Choir. The player is straightforward, the presets produce usable results immediately, and the sample quality is high enough that the output sounds professional before any mixing work is applied. It is the entry point that almost every community resource points to first, and that consensus is well-founded. ---
+A: Spitfire LABS Choir. The player is straightforward, the presets produce usable results immediately, and the sample quality is high enough that the output sounds professional before any mixing work is applied. It is the entry point that almost every community resource points to first, and that consensus is well-founded.
+
+---
 ## Final Thoughts
 
 Spitfire LABS Choir is the correct first download for any producer who wants a free choir VST — the recording quality makes it competitive with paid options from several years ago, and the community consensus on that point is consistent across every major producer forum. When the articulation depth and dynamic range of the free tier eventually become the limiting factor, 8Dio Requiem Professional is where experienced film and media composers consistently move next.

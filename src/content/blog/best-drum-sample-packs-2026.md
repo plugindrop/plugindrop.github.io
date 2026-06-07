@@ -208,7 +208,9 @@ A: The production community generally treats four velocity layers as the functio
 A: Yes — for complementary reasons. Full drum plugins provide kit simulation with modeled room acoustics and bleed between mics. Standalone sample packs give you isolated one-shots for layering under plugin outputs, importing into custom samplers, or working in genres where plugin kits miss tonally. Producer forums consistently recommend both: plugins for naturalistic full-kit simulation, sample packs for sound design and layering flexibility.
 
 **Q: Do I need a sampler plugin to use WAV drum packs?**
-A: No. Every major DAW — Ableton, FL Studio, Logic, Reaper, Studio One, Bitwig — accepts WAV files directly into its native drum rack or sampler. Specialized tools like Battery or Trigger add drum-specific features but are not required to use WAV sample packs. ---
+A: No. Every major DAW — Ableton, FL Studio, Logic, Reaper, Studio One, Bitwig — accepts WAV files directly into its native drum rack or sampler. Specialized tools like Battery or Trigger add drum-specific features but are not required to use WAV sample packs.
+
+---
 ## Related Guides
 
 - [12 Best Free Lo-Fi Sample Packs in 2026, Ranked (Drums, Vinyl Crackle, Chords)](/posts/best-free-lofi-sample-packs/)

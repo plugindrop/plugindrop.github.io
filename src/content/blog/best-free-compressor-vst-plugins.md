@@ -354,7 +354,9 @@ A: A bus compressor is designed for groups of instruments or a full mix, where t
 A: OTT applies upward multiband compression, which makes quiet signal components louder rather than pushing loud components down. The practical result is a dense, hyper-present sound that feels larger and more defined than standard compression produces. Use it on synth leads, pads, and layered elements in electronic music where you want maximum energy and presence. The Depth knob runs from subtle enhancement at lower settings to the full "over the top" effect the name references at maximum.
 
 **Q: Is it safe to download free VST plugins, and where should I get them?**
-A: Yes, when downloaded directly from official developer websites or verified plugin marketplaces like Plugin Boutique. All plugins listed in this guide link exclusively to official sources. Avoid third-party mirror sites and torrent distributions — they frequently bundle malware and provide no update path. When in doubt, go directly to the developer's official URL. ---
+A: Yes, when downloaded directly from official developer websites or verified plugin marketplaces like Plugin Boutique. All plugins listed in this guide link exclusively to official sources. Avoid third-party mirror sites and torrent distributions — they frequently bundle malware and provide no update path. When in doubt, go directly to the developer's official URL.
+
+---
 ## Final Thoughts
 
 TDR Kotelnikov is the best free compressor VST plugin in 2026 — full stop. Install it, add Molot GE for character work and DC1A for fast everyday compression, and you have a toolkit that genuinely competes with setups costing several hundred dollars.

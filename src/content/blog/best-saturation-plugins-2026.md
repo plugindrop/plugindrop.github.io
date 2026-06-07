@@ -313,7 +313,9 @@ A: For producers who mix and master regularly, yes. The per-band distortion mode
 A: Soundtoys Decapitator is the community consensus for drums — the N and A circuit modes add aggressive transient color and tape-style compression that makes drum hits feel physical. For subtler parallel saturation on a drum bus, Saturn 2's multiband control keeps the low end tight while adding harmonics in the high mids independently.
 
 **Q: Are free saturation plugins good enough for professional work?**
-A: IVGI and Analog Obsession SATUR8 appear in professional sessions regularly. The main limitation of free tools is flexibility and character range — they do one or two things exceptionally well, but paid tools offer more modes, better metering, and more predictable behavior across varied source material. Start free, upgrade when you hit a specific wall. ---
+A: IVGI and Analog Obsession SATUR8 appear in professional sessions regularly. The main limitation of free tools is flexibility and character range — they do one or two things exceptionally well, but paid tools offer more modes, better metering, and more predictable behavior across varied source material. Start free, upgrade when you hit a specific wall.
+
+---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

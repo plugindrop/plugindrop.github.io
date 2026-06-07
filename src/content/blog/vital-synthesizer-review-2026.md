@@ -191,7 +191,9 @@ A: The community frames this as a workflow compatibility question rather than a 
 A: No. Developer documentation and community testing confirm that the free tier does not watermark audio output, restrict export, or impose ads. The only meaningful restriction is the included content library.
 
 **Q: Why would a producer pay for Vital Pro when the engine is free?**
-A: The paid tiers are content upgrades, not capability unlocks. Producers pay for Plus or Pro because they want Vital's official factory preset and wavetable library to be their primary sound design resource. Producers who build patches from scratch, or who source content from the third-party Vital preset community, have considerably less incentive to pay. ---
+A: The paid tiers are content upgrades, not capability unlocks. Producers pay for Plus or Pro because they want Vital's official factory preset and wavetable library to be their primary sound design resource. Producers who build patches from scratch, or who source content from the third-party Vital preset community, have considerably less incentive to pay.
+
+---
 ## Related Guides
 
 - [14 Best Free Synth VST Plugins 2026 (Vital is #1)](/posts/best-free-synth-plugins/)

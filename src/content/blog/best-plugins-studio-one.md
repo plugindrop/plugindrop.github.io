@@ -325,7 +325,9 @@ A: Valhalla Supermassive and Slate Digital Fresh Air have the broadest community
 A: At full price, the answer is genre-dependent. For producers in hip-hop, lo-fi, indie rock, or any style where tape saturation and character-driven effects are not optional, the community consensus — primarily on Gearspace and r/WeAreTheMusicMakers — is yes. EchoBoy alone justifies the purchase for many workflows. The bundle appears on sale annually at significant discounts; buying at sale price substantially changes the per-plugin cost calculation.
 
 **Q: Should I buy iZotope Neutron 4 or FabFilter Pro-Q 4 first?**
-A: These plugins serve genuinely different roles. Pro-Q 4 rewards active mixing knowledge and scales with skill indefinitely. Neutron 4's primary value is its Track Assistant — most useful for producers who find the blank starting point of a mix overwhelming. If you have a working understanding of EQ and want more precision, Pro-Q 4 first. If mixing feels like guesswork and you want an analyzable starting point, Neutron 4 first. ---
+A: These plugins serve genuinely different roles. Pro-Q 4 rewards active mixing knowledge and scales with skill indefinitely. Neutron 4's primary value is its Track Assistant — most useful for producers who find the blank starting point of a mix overwhelming. If you have a working understanding of EQ and want more precision, Pro-Q 4 first. If mixing feels like guesswork and you want an analyzable starting point, Neutron 4 first.
+
+---
 ## Related Guides
 
 - [12 Best Free VST Plugins for Ableton Live in 2026](/posts/best-free-plugins-ableton/)

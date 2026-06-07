@@ -216,7 +216,9 @@ A: For producers focused on hybrid synthesis, complex modulation routing, or exp
 A: Vital, Surge XT, and Odin 2 support VST3 and AU, covering Ableton Live, FL Studio, Logic Pro, Reaper, Cubase, Studio One, and most major DAWs. Helm supports VST and AU. Zebralette supports VST2, VST3, and AU. Vital and Surge XT both confirm AAX support for Pro Tools workflows.
 
 **Q: Should I buy Serum if I already have Vital?**
-A: Only if you work with commercial sound packs built specifically for Serum, collaborate with producers who share Serum patches, or need compatibility with client-supplied presets. For independent production, Vital covers the same synthesis tasks. The purchase case is the ecosystem — not what the synthesis engine does that Vital's free tier cannot. ---
+A: Only if you work with commercial sound packs built specifically for Serum, collaborate with producers who share Serum patches, or need compatibility with client-supplied presets. For independent production, Vital covers the same synthesis tasks. The purchase case is the ecosystem — not what the synthesis engine does that Vital's free tier cannot.
+
+---
 ## Related Guides
 
 - [Vital Synthesizer Review 2026: The Best Free Wavetable Synth?](/posts/vital-synthesizer-review-2026/)

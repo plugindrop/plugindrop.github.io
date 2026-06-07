@@ -52,7 +52,9 @@ A: MrRay73 Mark II by GSi is the community's top pick for warm, physical-modeled
 A: Synthesis-based options — 4Front Piano, MDA EPiano, Dexed — have minimal CPU and RAM requirements. Sample-based options like Piano One and Salamander Grand Piano benefit from 2–4 GB of available RAM and an SSD for fast loading. LABS Soft Piano streams efficiently through the LABS platform but still benefits from faster storage.
 
 **Q: Can I use these free plugins in commercial releases?**
-A: All plugins listed here are documented for commercial use. Spitfire LABS instruments are explicitly licensed for commercial productions. Sound Magic, Bitsonic, DSK Music, and the open-source MDA and Dexed projects permit commercial use under their respective licenses. Verify the current license for any plugin you download, as terms can update. ---
+A: All plugins listed here are documented for commercial use. Spitfire LABS instruments are explicitly licensed for commercial productions. Sound Magic, Bitsonic, DSK Music, and the open-source MDA and Dexed projects permit commercial use under their respective licenses. Verify the current license for any plugin you download, as terms can update.
+
+---
 ## Related Guides
 
 - [10 Best Free Strings VST Plugins in 2026](/posts/best-free-strings-vst-plugins/)

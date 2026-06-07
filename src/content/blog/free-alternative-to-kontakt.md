@@ -209,7 +209,9 @@ A: sforzando supports the SFZ 2.0 specification fully, which covers the vast maj
 A: No. HISE is a development environment for building instruments — not a plugin you drop into a session to load libraries. If you need a free sampler for your DAW workflow, Decent Sampler, sforzando, TX16Wx, XT Sampler, or Grace are the appropriate choices depending on your format requirements.
 
 **Q: What is the difference between the free Kontakt Player and the paid Kontakt 7?**
-A: Kontakt Player is genuinely free and available directly from Native Instruments. It plays NKI libraries that developers have specifically unlocked for it — these are labeled "Kontakt Player compatible" at point of sale. The full paid Kontakt 7 removes this restriction and loads any NKI file, including the large catalog of commercial libraries that do not carry Player compatibility. If you are buying commercial NKI libraries without checking for Player compatibility, expect to hit that wall. ---
+A: Kontakt Player is genuinely free and available directly from Native Instruments. It plays NKI libraries that developers have specifically unlocked for it — these are labeled "Kontakt Player compatible" at point of sale. The full paid Kontakt 7 removes this restriction and loads any NKI file, including the large catalog of commercial libraries that do not carry Player compatibility. If you are buying commercial NKI libraries without checking for Player compatibility, expect to hit that wall.
+
+---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

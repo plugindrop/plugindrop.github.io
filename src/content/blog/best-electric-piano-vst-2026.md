@@ -192,7 +192,9 @@ A: Producer communities consistently answer yes for anyone who uses electric pia
 A: The Yamaha CP-80 is a hybrid electro-acoustic grand piano with a brighter, more cutting character than Rhodes or Wurlitzer. It's prominent in 1980s pop and new wave (Kate Bush, Peter Gabriel) and in cinematic underscore. Keyscape is the community's primary recommendation for CP-80 sounds; Arturia's CP-70 V covers the smaller sibling instrument for V Collection users.
 
 **Q: Can Lounge Lizard EP-4 replace a real Rhodes in a professional session context?**
-A: In many production contexts, yes — particularly where you process the signal or where a slightly stylized character is acceptable or desirable. For hyper-realistic Rhodes reproduction where the listening context is unforgiving, Scarbee Mark I's sample depth has a higher ceiling. The two instruments serve different workflows rather than competing directly. ---
+A: In many production contexts, yes — particularly where you process the signal or where a slightly stylized character is acceptable or desirable. For hyper-realistic Rhodes reproduction where the listening context is unforgiving, Scarbee Mark I's sample depth has a higher ceiling. The two instruments serve different workflows rather than competing directly.
+
+---
 ## Related Guides
 
 - [10 Best Free Bass Synth VST Plugins in 2026 — Ranked](/posts/best-free-bass-synth-vst/)

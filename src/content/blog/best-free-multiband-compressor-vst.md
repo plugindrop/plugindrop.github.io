@@ -255,7 +255,9 @@ A: OTT applies upward compression (raising quiet signal) and downward compressio
 A: Yes. TDR Nova and Waves C6 in particular are regularly cited by professional mixing engineers in forum discussions as tools they use on commercial work. The gap between the top free options and paid options like FabFilter Pro-MB is real but narrow for most standard compression tasks. The meaningful advantages of paid tools are workflow speed, advanced phase processing modes, and deeper metering — not a fundamental quality difference for typical use cases.
 
 **Q: What is the difference between a multiband compressor and a multiband limiter?**
-A: A compressor reduces gain above a threshold at a configurable ratio; a limiter uses an extreme ratio — typically 10:1 or higher — to hard-cap signal from exceeding a ceiling. Some mastering tools like iZotope Ozone 12 combine both in an integrated processing chain. For mixing and dynamics shaping, a multiband compressor is the appropriate tool; for final output ceiling control before delivery, a limiter is used after the compressor stage. ---
+A: A compressor reduces gain above a threshold at a configurable ratio; a limiter uses an extreme ratio — typically 10:1 or higher — to hard-cap signal from exceeding a ceiling. Some mastering tools like iZotope Ozone 12 combine both in an integrated processing chain. For mixing and dynamics shaping, a multiband compressor is the appropriate tool; for final output ceiling control before delivery, a limiter is used after the compressor stage.
+
+---
 ## Related Guides
 
 - [Best Compressor Plugins 2026: Free & Paid for Mixing and Mastering](/posts/best-compressor-plugins-2026/)

@@ -267,7 +267,9 @@ A: Community consensus is yes, with a clear boundary: for demos and low-stakes p
 A: All seven plugins listed support VST3 on both Windows and macOS. FabFilter Pro-C 2, Superior Drummer 3, and Neural DSP Archetype: Gojira additionally support AAX for Pro Tools users. Ignite Amps plugins support AU for Logic Pro. Verify current version compatibility in each developer's documentation before purchase.
 
 **Q: Can I use these plugins for sub-genres beyond modern metal — black metal, death metal, doom?**
-A: Yes, with adjustments. Neural DSP Archetype: Gojira is tuned for modern high-gain tones with controlled low-end — it requires less post-EQ for djent and progressive styles than for raw black metal, where community producers typically report preferring different preamp voicings or adding significant high-mid saturation post-sim. TDR Nova and FabFilter Pro-C 2 are genre-agnostic tools applicable across every metal sub-genre. ---
+A: Yes, with adjustments. Neural DSP Archetype: Gojira is tuned for modern high-gain tones with controlled low-end — it requires less post-EQ for djent and progressive styles than for raw black metal, where community producers typically report preferring different preamp voicings or adding significant high-mid saturation post-sim. TDR Nova and FabFilter Pro-C 2 are genre-agnostic tools applicable across every metal sub-genre.
+
+---
 ## Related Guides
 
 - [10 Best Guitar Amp Simulator VST Plugins 2026 (Paid Options Ranked)](/posts/best-guitar-amp-sim-plugins/)

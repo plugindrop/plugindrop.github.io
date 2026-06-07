@@ -245,7 +245,9 @@ A: Supermassive is a creative effects tool built around extreme reverb tails and
 A: Not if plugins are the primary reason. Logic Pro adds VST3 support, a significantly larger built-in instrument library, and advanced mixing capabilities — but every AU plugin in this guide works identically in GarageBand. The case for Logic Pro is its workflow, Flex Pitch, and built-in content library, not plugin compatibility.
 
 **Q: Is TDR Nova a real replacement for FabFilter Pro-Q 4?**
-A: For most tracking and mixing tasks in GarageBand, TDR Nova covers the functional requirements without meaningful compromise. FabFilter Pro-Q 4's advantages — unlimited bands, spectrum grab, per-band mid/side, external sidechain — become material when mixing is a significant part of your workflow and session time is valuable. Nova is excellent for the price of free; Pro-Q 4 justifies its cost through workflow speed, not capability gatekeeping. ---
+A: For most tracking and mixing tasks in GarageBand, TDR Nova covers the functional requirements without meaningful compromise. FabFilter Pro-Q 4's advantages — unlimited bands, spectrum grab, per-band mid/side, external sidechain — become material when mixing is a significant part of your workflow and session time is valuable. Nova is excellent for the price of free; Pro-Q 4 justifies its cost through workflow speed, not capability gatekeeping.
+
+---
 ## Related Guides
 
 - [Ableton vs FL Studio 2026: Which DAW Should You Buy?](/posts/ableton-live-vs-fl-studio-2026/)

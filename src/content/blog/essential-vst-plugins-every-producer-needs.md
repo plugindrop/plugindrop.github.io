@@ -396,7 +396,9 @@ A: VST plugins work inside any VST-compatible DAW, including Ableton Live, FL St
 A: A complete workflow needs coverage in five categories: EQ, compression, reverb, synthesis, and mastering. You can cover all five with the six free plugins in this list alone. More plugins rarely means better music — deeper mastery of fewer tools almost always produces stronger results than a large collection used shallowly.
 
 **Q: What's the difference between VST2 and VST3, and does it matter?**
-A: VST3 is the current standard, offering improved CPU efficiency, better parameter automation, and native MIDI routing. Most modern DAWs fully support VST3, and the majority of plugin developers have discontinued new VST2 builds. If a plugin offers both, always choose VST3. ---
+A: VST3 is the current standard, offering improved CPU efficiency, better parameter automation, and native MIDI routing. Most modern DAWs fully support VST3, and the majority of plugin developers have discontinued new VST2 builds. If a plugin offers both, always choose VST3.
+
+---
 ## Final Thoughts
 
 For producers equipping their toolkit in 2026, FabFilter Pro-Q 4 remains the single most impactful investment in the market — it will improve every mix you make from the moment you install it, and its workflow logic carries forward as your skills grow. Supplement it with the six free picks in this guide and you have a professional-grade production environment at zero cost while you save for paid upgrades.

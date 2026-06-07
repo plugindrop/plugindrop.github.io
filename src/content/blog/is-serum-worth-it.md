@@ -147,7 +147,9 @@ A: Xfer Records has historically offered Serum through Splice's rent-to-own mode
 A: Serum has been updated for native Apple Silicon support. Check the Xfer Records site for the current version and system requirements before purchasing if you're on an M-series Mac.
 
 **Q: What's the difference between Serum and Phase Plant?**
-A: Serum is an instrument with a fixed but highly flexible architecture — two wavetable oscillators, a sub, noise, effects chain. Phase Plant is modular: you construct the signal chain from scratch using components. Phase Plant offers more architectural freedom; Serum offers faster workflow for wavetable-centric sound design. They complement each other rather than directly compete. ---
+A: Serum is an instrument with a fixed but highly flexible architecture — two wavetable oscillators, a sub, noise, effects chain. Phase Plant is modular: you construct the signal chain from scratch using components. Phase Plant offers more architectural freedom; Serum offers faster workflow for wavetable-centric sound design. They complement each other rather than directly compete.
+
+---
 ## Final Thoughts
 
 Ten years in, Serum is still worth buying if you're serious about synthesis — the wavetable editor, preset ecosystem, and workflow efficiency hold up against everything released since. Start with Vital if you're building your skills; move to Serum when the free tier starts limiting what you can hear in your head.

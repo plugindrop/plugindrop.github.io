@@ -190,7 +190,9 @@ A: No catch. Valhalla DSP releases Supermassive as a completely free plugin with
 A: All plugins listed here support VST3, which covers Ableton Live, FL Studio, Cubase, Reaper, and most modern Windows DAWs. macOS-compatible plugins also support AU format for Logic Pro and GarageBand. OrilRiver is the exception — it's Windows only. Always check your DAW's supported formats before downloading.
 
 **Q: Which reverb plugin is best for vocals?**
-A: For dry, controlled vocal reverb in a mix, FabFilter Pro-R 2's per-frequency decay control is the most precise option. For lo-fi or indie vocal texture, TAL-Reverb-4 adds character quickly. Avoid Valhalla Supermassive on lead vocals in dense mixes — its long, modulated tails can wash out intelligibility unless used very sparingly. ---
+A: For dry, controlled vocal reverb in a mix, FabFilter Pro-R 2's per-frequency decay control is the most precise option. For lo-fi or indie vocal texture, TAL-Reverb-4 adds character quickly. Avoid Valhalla Supermassive on lead vocals in dense mixes — its long, modulated tails can wash out intelligibility unless used very sparingly.
+
+---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

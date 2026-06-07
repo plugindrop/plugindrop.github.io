@@ -191,7 +191,9 @@ A: KVR community threads consistently note that Spire's core sound engine — pa
 A: No. Serum's preset format carries synthesizer-specific parameters that are not portable to Phase Plant, Pigments, or Spire. If third-party Serum preset libraries represent a significant part of your workflow, none of these alternatives can replicate that without manual patch reconstruction.
 
 **Q: Which synth has the strongest factory preset library?**
-A: Community consensus splits by genre: Spire's factory presets are most immediately deployable for EDM and trance production; Pigments covers the broadest range of styles including ambient, cinematic, and electronic; Phase Plant's included patches demonstrate its modular capabilities but are most valuable to producers who intend to build their own sounds. Serum 2's preset library is the largest in absolute terms when third-party packs are included. ---
+A: Community consensus splits by genre: Spire's factory presets are most immediately deployable for EDM and trance production; Pigments covers the broadest range of styles including ambient, cinematic, and electronic; Phase Plant's included patches demonstrate its modular capabilities but are most valuable to producers who intend to build their own sounds. Serum 2's preset library is the largest in absolute terms when third-party packs are included.
+
+---
 ## Related Guides
 
 - [Best Synth Plugins 2026 — Ranked: Free & Paid VSTs for Every Style](/posts/best-synth-plugins-2026/)

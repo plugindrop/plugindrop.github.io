@@ -392,7 +392,9 @@ A: Most support VST3 (Windows and macOS) and AU (macOS only), with several also 
 A: Without question. Most dedicated saturation plugins start at $50, and many don't offer a quarter of SDRR's mode variety. Its four circuit modes each have a distinct harmonic character and frequency response, meaning it genuinely serves as four different saturation tools in one interface.
 
 **Q: Do Valhalla plugins ever go on sale?**
-A: Valhalla DSP has publicly stated that their $50 pricing is permanent — no seasonal sales, no launch discounts. This is actually useful to know for budgeting: what you see is the permanent price, and it's worth every cent of it. ---
+A: Valhalla DSP has publicly stated that their $50 pricing is permanent — no seasonal sales, no launch discounts. This is actually useful to know for budgeting: what you see is the permanent price, and it's worth every cent of it.
+
+---
 ## Final Thoughts
 
 Start with Valhalla Room — it's the highest-impact purchase available at this budget, and its reverb quality will show up in every mix you make from the first session. Layer in the free picks on this list, and you'll have a toolkit that would cost $500–$1,000 to assemble from commercial alternatives just three years ago.

@@ -322,7 +322,9 @@ A: Most support VST3, AU, and AAX — covering Ableton Live, Logic Pro, FL Studi
 A: A felt piano is a standard grand or upright with felt strips inserted between hammers and strings, creating a dry, muted, intimate tone — the same mechanism used for acoustic "silent practice." A toy piano is a physically separate, smaller instrument with metal tines or rods in place of strings, producing a thinner, more metallic, high-register character. Una Corda bridges both categories through prepared-piano recording rather than either pure technique.
 
 **Q: Do I need an expensive MIDI controller to get the most from these plugins?**
-A: Velocity sensitivity is the only essential feature for all twelve plugins on this list. Any MIDI keyboard with velocity-sensitive keys works. Aftertouch is used by some Pianoteq and Keyscape articulations but is not required for standard piano playing. ---
+A: Velocity sensitivity is the only essential feature for all twelve plugins on this list. Any MIDI keyboard with velocity-sensitive keys works. Aftertouch is used by some Pianoteq and Keyscape articulations but is not required for standard piano playing.
+
+---
 ## Related Guides
 
 - [10 Best Free Piano VST Plugins in 2026 (Grand, Upright, Electric)](/posts/best-free-piano-vst/)

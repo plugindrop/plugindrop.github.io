@@ -189,7 +189,9 @@ A: Yes. Both plugins are native Apple Silicon compatible, running efficiently on
 A: Absolutely, and many engineers do exactly this — Room on acoustic sources and orchestral beds, VintageVerb on drums and synths. They complement each other well and don't compete for the same sonic space when used with intention.
 
 **Q: Are there free Valhalla plugins worth trying before buying?**
-A: Yes. Valhalla DSP offers Valhalla Supermassive (massive ambient reverb and delay effects) and Valhalla Freq Echo as free downloads. Neither replaces Room or VintageVerb, but both give you a feel for Costello's sound design philosophy and the Valhalla GUI before you spend anything. ---
+A: Yes. Valhalla DSP offers Valhalla Supermassive (massive ambient reverb and delay effects) and Valhalla Freq Echo as free downloads. Neither replaces Room or VintageVerb, but both give you a feel for Costello's sound design philosophy and the Valhalla GUI before you spend anything.
+
+---
 ## Final Thoughts
 
 Valhalla Room and VintageVerb are two of the best-value reverb plugins on the market regardless of price point, and at $50 each they're near-impossible to justify skipping. Room is the clear pick for engineers who need a transparent, natural-sounding reverb that serves the mix and disappears into it. VintageVerb is the pick for producers who want classic hardware character built into their sound. If your sessions span both worlds — and most eventually do — buy both.

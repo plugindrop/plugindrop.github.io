@@ -322,7 +322,9 @@ A: For ambient and creative applications, yes — Valhalla Supermassive competes
 A: Community consensus splits between two approaches: plate reverb (Arturia Rev PLATE-140 for classic warm density) and short algorithmic reverb with pre-delay (Valhalla VintageVerb's Plate or Room modes, pre-delay set to 15–30ms to separate the verb from the dry signal). Both are valid — plate works best for warm, intimate productions; algorithmic with pre-delay works better in dense mixes where you need the vocal to stay present.
 
 **Q: Do I need multiple reverb plugins?**
-A: Most producers settle on two or three: one for general mixing, one for creative/ambient applications, and optionally one convolution reverb for realistic spaces. Valhalla Supermassive (free) plus Valhalla VintageVerb ($50) covers the first two use cases entirely — and that's the combination the community most frequently recommends as a starting foundation. ---
+A: Most producers settle on two or three: one for general mixing, one for creative/ambient applications, and optionally one convolution reverb for realistic spaces. Valhalla Supermassive (free) plus Valhalla VintageVerb ($50) covers the first two use cases entirely — and that's the combination the community most frequently recommends as a starting foundation.
+
+---
 ## Final Thoughts
 
 Valhalla VintageVerb remains the most defensible single purchase in this list — $50 for the most-recommended algorithmic reverb across the production community is a straightforward decision. Start with Valhalla Supermassive to understand reverb fundamentals in your workflow, then add VintageVerb when the free options are no longer sufficient for your mixing needs.

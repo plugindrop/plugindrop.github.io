@@ -315,7 +315,9 @@ A: Yes. Matt Tytel has confirmed the free tier includes all core synthesis featu
 A: Supermassive is built for infinite, algorithmic tails — enormous sustaining spaces suited to drone and ambient. VintageVerb models the character of specific hardware reverbs from distinct eras (late 1970s through 1990s), producing warmer, more colored results with a different tonal personality. VintageVerb costs $50 — Valhalla's standard price for all paid plugins — and the r/ambientmusic community consistently cites it as the best-value single paid reverb available.
 
 **Q: Can FM synthesis work for ambient music, or is it too harsh?**
-A: FM synthesis is underused in ambient production, not unsuited to it. Dexed (a free DX7 emulator) produces crystalline, bell-like, and metallic textures that contrast effectively with the smooth pads from subtractive or wavetable synthesis. Many ambient and new age productions from the 1980s and 1990s relied on DX7 FM heavily — the preset catalog is a direct reference library for that sonic territory. ---
+A: FM synthesis is underused in ambient production, not unsuited to it. Dexed (a free DX7 emulator) produces crystalline, bell-like, and metallic textures that contrast effectively with the smooth pads from subtractive or wavetable synthesis. Many ambient and new age productions from the 1980s and 1990s relied on DX7 FM heavily — the preset catalog is a direct reference library for that sonic territory.
+
+---
 ## Related Guides
 
 - [15 Best Free Reverb VST Plugins 2026](/posts/best-free-reverb-vst-plugins/)

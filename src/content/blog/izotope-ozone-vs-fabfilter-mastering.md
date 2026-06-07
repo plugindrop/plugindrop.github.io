@@ -197,7 +197,9 @@ A: No. Pro-L 2 is purely a limiter and loudness meter. It does not include EQ, c
 A: For high-loudness electronic music where you're pushing the limiter hard, Pro-L 2's Modern and Aggressive algorithms handle extreme gain reduction more gracefully than most alternatives. If you're targeting competitive streaming loudness for EDM, techno, or hip-hop, Pro-L 2 is worth having specifically for that final stage.
 
 **Q: Does iZotope offer a subscription or trial?**
-A: iZotope regularly offers free trials of Ozone and runs significant discounts through their site. FabFilter offers a fully functional 30-day trial with no registration required. Both companies frequently discount during major sale events. ---
+A: iZotope regularly offers free trials of Ozone and runs significant discounts through their site. FabFilter offers a fully functional 30-day trial with no registration required. Both companies frequently discount during major sale events.
+
+---
 ## Related Guides
 
 - [iZotope Ozone Review 2026: Best Mastering Suite?](/posts/izotope-ozone-12-review/)

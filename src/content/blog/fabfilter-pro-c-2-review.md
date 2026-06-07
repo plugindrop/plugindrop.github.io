@@ -183,7 +183,9 @@ A: Yes. FabFilter updated Pro-C 2 with native Apple Silicon support covering M1 
 A: For most modern mastering scenarios, yes. The digital transparency is comparable to high-end mastering hardware, and the Vintage and Classic styles provide convincing analog character. The area where hardware retains an edge is tactile feel — physical knobs remain faster for some engineers. For output quality and metering precision, Pro-C 2 holds up at any professional level.
 
 **Q: Is the FabFilter Total Bundle worth buying if I already own Pro-C 2?**
-A: FabFilter offers crossgrade pricing that accounts for plugins you already own. Before purchasing Pro-Q 4, Pro-L 2, or any other FabFilter title individually, check the crossgrade price to the Total Bundle on the official site — in most cases the bundle price minus your crossgrade discount makes it the better investment. ---
+A: FabFilter offers crossgrade pricing that accounts for plugins you already own. Before purchasing Pro-Q 4, Pro-L 2, or any other FabFilter title individually, check the crossgrade price to the Total Bundle on the official site — in most cases the bundle price minus your crossgrade discount makes it the better investment.
+
+---
 ## Final Thoughts
 
 FabFilter Pro-C 2 earns its reputation as the most versatile and practically useful compressor plugin available in 2026 — not because it wins every A/B test against analog hardware, but because it handles every mixing scenario competently while giving engineers the visual feedback they need to make better decisions faster. Eight compression styles, class-leading metering, mid-side capability, sidechain EQ with frequency visualization, and zero-latency tracking mode make it the single dynamics plugin most worth purchasing at full price.

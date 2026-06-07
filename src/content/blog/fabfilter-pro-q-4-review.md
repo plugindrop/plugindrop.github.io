@@ -216,7 +216,9 @@ A: Yes, and it's a strong mastering EQ. Linear Phase mode eliminates phase shift
 A: Pro-Q 4 is widely regarded as efficient for the quality of processing it delivers. Zero Latency mode carries the lowest CPU load; Linear Phase mode with high band counts increases demand, as expected. On any modern machine, heavy sessions with multiple instances handle without issue.
 
 **Q: Does FabFilter offer a free trial?**
-A: Yes. FabFilter provides a fully functional 30-day trial of all plugins, including Pro-Q 4, directly from their website. Testing it in actual sessions before purchasing is strongly recommended. ---
+A: Yes. FabFilter provides a fully functional 30-day trial of all plugins, including Pro-Q 4, directly from their website. Testing it in actual sessions before purchasing is strongly recommended.
+
+---
 ## Final Thoughts
 
 FabFilter Pro-Q 4 doesn't win in 2026 by coasting on its reputation — it wins because no competitor has delivered a better balance of precision, depth, and workflow speed at the price. Dynamic EQ, linear phase processing, per-band mid/side routing, and inter-track collision detection are all still best-in-class, and the interface remains the most efficient in the category for engineers doing real work under session time pressure. There are cheaper tools that cover specific needs and more expensive tools that add AI layers, but none have displaced Pro-Q 4 as the EQ that belongs on every channel strip.

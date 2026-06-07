@@ -240,7 +240,9 @@ A: Yes, and many professional engineers do. A common workflow is to use Ozone 12
 A: Yes. Ozone 12 runs as VST3 and AU on both platforms with no known compatibility issues. The recommended workflow is to load it on the master bus as the final processing plugin. The standalone mode also allows mastering outside your DAW entirely, which some producers prefer for a fresh listening perspective.
 
 **Q: Is the AI in Ozone 12 actually useful or just a gimmick?**
-A: Master Assistant is genuinely useful as a starting point generator — it saves significant time on initial setup. Stem Focus is useful for light corrections but shows artifacts on heavy processing. The AI tools are best understood as accelerators, not replacements: they get you 70% of the way there faster, and you close the remaining gap by ear. ---
+A: Master Assistant is genuinely useful as a starting point generator — it saves significant time on initial setup. Stem Focus is useful for light corrections but shows artifacts on heavy processing. The AI tools are best understood as accelerators, not replacements: they get you 70% of the way there faster, and you close the remaining gap by ear.
+
+---
 ## Related Guides
 
 - [FabFilter Pro-L 2 Review: Industry-Standard Limiter?](/posts/fabfilter-pro-l-2-review/)

@@ -171,7 +171,9 @@ A: The community consensus is no — not as a direct replacement. Omnisphere inc
 A: Yes. The Hardware Library, documented in Spectrasonics' developer material, supports hundreds of hardware synthesizers from major manufacturers including Roland, Moog, Korg, Waldorf, and Sequential. Supported hardware can be used to control Omnisphere's interface directly, and the library includes specially recorded multi-samples of supported instruments as synthesis sources.
 
 **Q: Is Omnisphere worth buying if you're early in your production career?**
-A: Community sentiment is split. The patch library makes Omnisphere immediately usable without deep synthesis knowledge, which is a genuine accessibility advantage. However, $499 is a significant commitment, and the community consistently recommends building synthesis fundamentals with a free tool like Vital first — both to develop a working mental model and to confirm that Omnisphere's specific sonic territory aligns with your production direction before spending at that level. ---
+A: Community sentiment is split. The patch library makes Omnisphere immediately usable without deep synthesis knowledge, which is a genuine accessibility advantage. However, $499 is a significant commitment, and the community consistently recommends building synthesis fundamentals with a free tool like Vital first — both to develop a working mental model and to confirm that Omnisphere's specific sonic territory aligns with your production direction before spending at that level.
+
+---
 ## Related Guides
 
 - [10 Best Free Bass Synth VST Plugins in 2026](/posts/best-free-bass-synth-vst/)

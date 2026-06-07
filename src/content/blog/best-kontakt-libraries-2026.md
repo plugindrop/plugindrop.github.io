@@ -341,7 +341,9 @@ A: BBC Symphony Orchestra Discover is the consistent community answer on Vi-Cont
 A: Ranges vary dramatically. LABS instruments are typically a few hundred MB each. A mid-range library like Symphobia 1 runs approximately 15–20 GB. A full Albion ONE installation requires substantially more. NI Komplete in its larger tiers can require several hundred GB across all included content. Plan storage before purchasing premium libraries — most installers let you select content to skip if space is limited.
 
 **Q: Is it worth buying NI Komplete instead of individual NI libraries?**
-A: For producers planning to use more than three or four NI products, community consensus on r/WeAreTheMusicMakers and KVR is consistently yes. The bundle price-per-instrument is well below individual pricing, the full Kontakt license adds significant value for producers who plan to buy third-party libraries, and the bundle regularly goes on sale at substantially reduced prices. ---
+A: For producers planning to use more than three or four NI products, community consensus on r/WeAreTheMusicMakers and KVR is consistently yes. The bundle price-per-instrument is well below individual pricing, the full Kontakt license adds significant value for producers who plan to buy third-party libraries, and the bundle regularly goes on sale at substantially reduced prices.
+
+---
 ## Related Guides
 
 - [10 Best Free Orchestral VST Plugins in 2026](/posts/best-free-orchestral-vst-plugins/)

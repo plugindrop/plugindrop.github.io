@@ -252,7 +252,9 @@ A: For the core EQ tasks most producers need — cutting problem frequencies, ad
 A: FabFilter Pro-Q 4 in linear phase mode and iZotope Ozone 12 are the two most-cited mastering EQ options across producer communities. Pro-Q 4 provides surgical flexibility in a familiar interface; Ozone 12 is purpose-built for mastering with an integrated chain. For free options, TDR Nova and Voxengo Marvel GEQ are the community-recommended starting points for mastering-context EQ work.
 
 **Q: Do I need separate EQ plugins for mixing and mastering?**
-A: Not necessarily. FabFilter Pro-Q 4 handles both tasks cleanly — zero-latency mode for mix session work, linear phase mode for mastering passes. A dedicated mastering suite like iZotope Ozone 12 becomes relevant when you want the EQ, limiting, and imaging tools to operate as an integrated system rather than individual plugins across a chain. ---
+A: Not necessarily. FabFilter Pro-Q 4 handles both tasks cleanly — zero-latency mode for mix session work, linear phase mode for mastering passes. A dedicated mastering suite like iZotope Ozone 12 becomes relevant when you want the EQ, limiting, and imaging tools to operate as an integrated system rather than individual plugins across a chain.
+
+---
 ## Final Thoughts
 
 FabFilter Pro-Q 4 remains the community default for mixing and mastering EQ in 2026 — its 24-band dynamic EQ, dual-mode processing, and visual workflow justify the $179 investment for any producer serious about their mixes. If the budget is not there yet, TDR Nova paired with TDR VOS SlickEQ GE covers the vast majority of EQ tasks with zero cost and genuine professional capability. When you are ready to move to the paid standard, Pro-Q 4 is the clearest upgrade path available.

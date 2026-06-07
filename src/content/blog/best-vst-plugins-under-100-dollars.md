@@ -334,7 +334,9 @@ A: They serve different purposes. Rev PLATE-140 gives you the dense, present, fo
 A: Elements handles the core repair tasks — noise reduction, hum removal, de-clicking — that most production sessions require. Upgrade to RX Standard or Advanced only when you need specific advanced tools like the Spectral Repair editor, Dialogue Isolation, or Music Rebalance. For the majority of producers, Elements is the right tier and the right starting point.
 
 **Q: Does Waves CLA-76 go on sale often enough to wait for a discount?**
-A: Waves runs sales nearly continuously, and the CLA-76 regularly drops to the $20–$30 range. If budget is tight, it is worth waiting two to four weeks for a Waves sale cycle rather than paying full price. The plugin itself is fully worth the full price; waiting just optimizes the ROI further. ---
+A: Waves runs sales nearly continuously, and the CLA-76 regularly drops to the $20–$30 range. If budget is tight, it is worth waiting two to four weeks for a Waves sale cycle rather than paying full price. The plugin itself is fully worth the full price; waiting just optimizes the ROI further.
+
+---
 ## Final Thoughts
 
 If you can only buy one plugin from this list, make it FabFilter Pro-C 2 — it improves every single mix you run it on, regardless of genre or style, and no other tool under $100 covers as much professional ground. The second purchase should be Valhalla VintageVerb, which remains one of the best-value plugins in the history of audio software at $50.

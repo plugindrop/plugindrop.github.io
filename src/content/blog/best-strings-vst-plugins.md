@@ -295,7 +295,9 @@ A: EastWest Hollywood Strings is frequently cited as the most demanding option d
 A: All listed plugins support VST3 and AU, covering Ableton Live, Logic Pro, FL Studio, Cubase, Studio One, and Reaper. Pro Tools users need AAX, which all paid options here provide. VSCO2 CE requires a compatible SFZ host — the free sforzando player from Plogue is the standard pairing.
 
 **Q: Which strings library is best for film scoring specifically?**
-A: Community consensus at VI-Control and r/composer consistently points to three: Spitfire BBC Symphony Orchestra Core, Cinematic Studio Strings, and EastWest Hollywood Strings. The choice between them comes down to budget and whether mic position flexibility or legato scripting is the higher priority for your workflow. ---
+A: Community consensus at VI-Control and r/composer consistently points to three: Spitfire BBC Symphony Orchestra Core, Cinematic Studio Strings, and EastWest Hollywood Strings. The choice between them comes down to budget and whether mic position flexibility or legato scripting is the higher priority for your workflow.
+
+---
 ## Related Guides
 
 - [10 Best Free Strings VST Plugins in 2026](/posts/best-free-strings-vst-plugins/)

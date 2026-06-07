@@ -194,7 +194,9 @@ A: No. Waves bundle purchases are perpetual for the plugins included at the time
 A: Waves offers upgrade pricing for existing license holders, and upgrade costs vary by current licenses owned and active promotions. Checking Plugin Boutique's Waves listings during a sale often surfaces upgrade deals that undercut direct developer pricing.
 
 **Q: What's the difference between buying FabFilter Total Bundle versus plugins individually?**
-A: At full retail, FabFilter's individual plugins sum significantly higher than the Total Bundle price. KVR forum members consistently recommend buying the Total Bundle on sale rather than accumulating individual plugins — the math rarely favors the piecemeal approach once you need more than three FabFilter tools. ---
+A: At full retail, FabFilter's individual plugins sum significantly higher than the Total Bundle price. KVR forum members consistently recommend buying the Total Bundle on sale rather than accumulating individual plugins — the math rarely favors the piecemeal approach once you need more than three FabFilter tools.
+
+---
 ## Related Guides
 
 - [20 Best Free VST Plugins for Beginners in 2026 (Complete Starter Kit)](/posts/best-free-vst-plugins-beginners/)

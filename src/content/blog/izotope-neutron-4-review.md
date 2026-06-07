@@ -180,7 +180,9 @@ A: The main additions in Advanced are Sculptor (spectral shaping module), Audiol
 A: Better than it did at launch, with improvements to detection accuracy across version updates. It performs strongest on conventional sources — drums, bass, vocals, piano, acoustic guitar — and is less reliable on heavily processed or layered inputs. The dynamic EQ suggestions in particular have improved significantly and are often usable with minimal editing.
 
 **Q: Is iZotope Neutron 4 worth it if I already own older Neutron versions?**
-A: The upgrade pricing is generally reasonable, and the improvements in Track Assistant accuracy, Sculptor's refinements, and the Visual Mixer interface are meaningful. If you use Neutron regularly in sessions, upgrading from Neutron 3 or earlier makes sense. From Neutron 4's own initial release if you're already on the current version, check iZotope's upgrade path pricing before committing. ---
+A: The upgrade pricing is generally reasonable, and the improvements in Track Assistant accuracy, Sculptor's refinements, and the Visual Mixer interface are meaningful. If you use Neutron regularly in sessions, upgrading from Neutron 3 or earlier makes sense. From Neutron 4's own initial release if you're already on the current version, check iZotope's upgrade path pricing before committing.
+
+---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

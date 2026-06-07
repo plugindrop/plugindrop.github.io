@@ -195,7 +195,9 @@ A: Most free platforms require registration to download. ADSR Sounds, Looperman,
 A: Producer communities consistently recommend quality over volume. A well-auditioned set of 5–10 packs covering your core genre and workflow will serve most sessions better than 50 loosely downloaded packs you've never properly sorted. ADSR Sounds' free library is large enough to cover most needs without requiring many additional sources.
 
 **Q: Is it worth paying for sample packs when so much is free?**
-A: The community consensus is yes — once you've identified your core style and are producing finished tracks regularly. Free packs cover the fundamentals effectively. Paid packs from producers like Loopmasters offer the musical coherence and mix-ready processing that meaningfully shortens session time. The upgrade makes practical sense when you're consistently finishing tracks, not when you're still experimenting. ---
+A: The community consensus is yes — once you've identified your core style and are producing finished tracks regularly. Free packs cover the fundamentals effectively. Paid packs from producers like Loopmasters offer the musical coherence and mix-ready processing that meaningfully shortens session time. The upgrade makes practical sense when you're consistently finishing tracks, not when you're still experimenting.
+
+---
 ## Related Guides
 
 - [ADSR Sounds vs Splice: Which Sample Subscription Is Better in 2026?](/posts/adsr-vs-splice-samples/)

@@ -190,7 +190,9 @@ A: For ambient and spatial work specifically: yes, Supermassive is genuinely com
 A: Algorithmic reverbs — all the picks in this guide — generate reverb using mathematical models. They are CPU-efficient, highly tweakable, and don't require impulse response files. Convolution reverbs use recordings of real acoustic spaces and can sound more realistic for specific rooms, but require IR files and offer less creative flexibility. For most music production contexts, algorithmic reverbs are the more practical tool.
 
 **Q: Is the Melda MFreeFXBundle worth installing just to get OldSkoolVerb?**
-A: The bundle includes over 40 free plugins, so the value proposition is real if you're open to adding Melda tools to your workflow. If you want a single clean reverb install without bundle overhead, TAL-Reverb-4 or Valhalla Supermassive are the simpler options. ---
+A: The bundle includes over 40 free plugins, so the value proposition is real if you're open to adding Melda tools to your workflow. If you want a single clean reverb install without bundle overhead, TAL-Reverb-4 or Valhalla Supermassive are the simpler options.
+
+---
 ## Related Guides
 
 - [Best Free Reverb VST Plugins 2026](/posts/best-free-reverb-vst-plugins/)

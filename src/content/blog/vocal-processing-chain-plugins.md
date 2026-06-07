@@ -257,7 +257,9 @@ A: Yes — primarily because of the Unmask feature, which communicates with othe
 A: Absolutely. It appears on commercial releases across pop, film scoring, and electronic music. Being free reflects Valhalla DSP's distribution strategy, not a quality compromise — the reverb algorithms share lineage with the paid Valhalla lineup. Always run it on a dedicated send bus at 100% wet and blend to taste on the return fader.
 
 **Q: What is the difference between FabFilter Pro-Q 4 and Pro-C 2?**
-A: Pro-Q 4 is an equalizer that shapes frequency content. Pro-C 2 is a compressor that controls dynamic range. They solve different problems and both belong in a complete vocal chain. Use Pro-Q 4 to remove problem frequencies and shape tone, and Pro-C 2 to even out the performance level and optionally add character. They are not interchangeable. ---
+A: Pro-Q 4 is an equalizer that shapes frequency content. Pro-C 2 is a compressor that controls dynamic range. They solve different problems and both belong in a complete vocal chain. Use Pro-Q 4 to remove problem frequencies and shape tone, and Pro-C 2 to even out the performance level and optionally add character. They are not interchangeable.
+
+---
 ## Final Thoughts
 
 The complete vocal processing chain in 2026 does not require a rack full of hardware or a sprawling plugin folder — it requires six well-chosen tools applied in the right order. For producers who want the most flexible, modular approach, the combination of Waves Tune Real-Time, FabFilter Pro-Q 4, Waves Sibilance, FabFilter Pro-C 2, and Valhalla Supermassive covers every stage of the chain at a professional standard. For producers who want to move faster and let AI handle the calibration work, **iZotope Nectar 4** remains the single most capable vocal plugin available in 2026 — and the one most likely to close the gap between your rough mix and the final master.

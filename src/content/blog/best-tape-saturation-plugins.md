@@ -290,7 +290,9 @@ A: Tape saturation plugins model professional reel-to-reel studio recorders oper
 A: Yes, and both are standard practice. On individual tracks, tape saturation adds harmonic enrichment and transient rounding to specific sounds — drums, bass, and vocals are common targets. On bus or mix processing, it adds cohesion across multiple tracks simultaneously. Gearspace and Reddit discussions routinely describe using tape emulation at both levels in the same session.
 
 **Q: Are Waves tape plugins worth buying when they go on sale?**
-A: The KVR and Gearspace communities generally consider both the J37 Tape and KRAMER MASTER TAPE strong value at Waves' sale prices, which regularly reach the $29–$49 range. The main caveat is Waves' licensing model, which has changed over time — verify current licensing terms and update policies before purchasing. ---
+A: The KVR and Gearspace communities generally consider both the J37 Tape and KRAMER MASTER TAPE strong value at Waves' sale prices, which regularly reach the $29–$49 range. The main caveat is Waves' licensing model, which has changed over time — verify current licensing terms and update policies before purchasing.
+
+---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

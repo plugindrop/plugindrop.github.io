@@ -325,7 +325,9 @@ A: It depends on the source. Cymatics lo-fi drums are widely documented as pre-t
 A: Community production tutorials and mix references consistently place vinyl crackle 10–18dB below the main music elements. Heavily aesthetic lo-fi approaches push this closer to 8–10dB below. Crackle positioned too high in the mix creates listener fatigue over extended play — a frequently cited critique in community feedback threads on r/lofi track reviews.
 
 **Q: What is the difference between lo-fi hip hop samples and chillhop samples?**
-A: The categories overlap substantially in practice. Chillhop packs tend toward lighter harmonic density, more ambient characteristics, and slower attack drum sounds. Lo-fi hip hop packs typically feature more defined jazz and soul chord voicings and more rhythmic specificity in the drum content. The distinction is stylistic rather than technical, and most producers treat the terms interchangeably when browsing free catalogs. ---
+A: The categories overlap substantially in practice. Chillhop packs tend toward lighter harmonic density, more ambient characteristics, and slower attack drum sounds. Lo-fi hip hop packs typically feature more defined jazz and soul chord voicings and more rhythmic specificity in the drum content. The distinction is stylistic rather than technical, and most producers treat the terms interchangeably when browsing free catalogs.
+
+---
 ## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

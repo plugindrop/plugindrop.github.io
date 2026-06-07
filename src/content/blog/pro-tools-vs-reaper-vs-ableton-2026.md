@@ -157,7 +157,9 @@ A: Reaper and Ableton both support VST, VST3, and AU on macOS, giving full acces
 A: For electronic music producers: yes. The Session View workflow, Push integration, and Ableton 12's MIDI improvements are genuinely differentiating, not incremental. For producers who work primarily with recorded audio, the $389 difference is harder to justify — Reaper with a well-chosen plugin stack from Plugin Boutique covers the same ground.
 
 **Q: Do Pro Tools, Reaper, and Ableton sound different from each other?**
-A: No. At equivalent bit depths and sample rates, the audio output from all three DAWs is indistinguishable. Audio quality differences between DAWs are among the most reliably debunked myths in producer communities, with extensive documentation in r/audioengineering and similar forums. The differences are entirely in workflow, feature set, and ecosystem. ---
+A: No. At equivalent bit depths and sample rates, the audio output from all three DAWs is indistinguishable. Audio quality differences between DAWs are among the most reliably debunked myths in producer communities, with extensive documentation in r/audioengineering and similar forums. The differences are entirely in workflow, feature set, and ecosystem.
+
+---
 ## Related Guides
 
 - [Ableton Live vs FL Studio 2026: Full Comparison for Every Producer Type](/posts/ableton-live-vs-fl-studio-2026/)

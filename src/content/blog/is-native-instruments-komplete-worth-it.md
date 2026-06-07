@@ -190,7 +190,9 @@ A: Standard includes full Kontakt 7, Massive X, Battery 4, Reaktor 6, Guitar Rig
 A: Community consensus across KVR and GearSpace consistently favors V Collection 11 for producers whose primary focus is synthesis. V Collection's vintage emulation accuracy — particularly for Minimoog, Prophet-5, and Juno-60 style sounds — is its specific, well-documented strength. Komplete includes capable synthesizers in Massive X and Reaktor 6, but the bundle is fundamentally built around Kontakt and sample-based production. If you need a sampler, Komplete wins. If you don't, V Collection 11 is the more focused buy.
 
 **Q: Does Komplete 15 run natively on Apple Silicon Macs?**
-A: Native Instruments has released native Apple Silicon support across the Komplete 15 suite, as confirmed in NI's developer documentation. Specific compatibility details for individual instruments and plugin formats are maintained in NI's official system requirements pages, which are updated as support rolls out across the catalog. ---
+A: Native Instruments has released native Apple Silicon support across the Komplete 15 suite, as confirmed in NI's developer documentation. Specific compatibility details for individual instruments and plugin formats are maintained in NI's official system requirements pages, which are updated as support rolls out across the catalog.
+
+---
 ## Related Guides
 
 - [Arturia V Collection vs NI Komplete: Which Bundle Is Worth Your Money?](/posts/arturia-vs-native-instruments-komplete/)

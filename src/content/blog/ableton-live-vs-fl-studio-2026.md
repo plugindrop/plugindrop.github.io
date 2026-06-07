@@ -173,7 +173,9 @@ A: Community consensus in 2026 is that both are capable mixing environments. Abl
 A: Yes. Both FL Studio and Ableton support VST2 and VST3 on Windows. On macOS, Ableton also supports AU (Audio Units), which FL Studio does not. AAX (Pro Tools) is not natively supported by either.
 
 **Q: Which has a better free trial for evaluating before purchase?**
-A: Ableton offers a 90-day free trial of Live 12 Suite with full functionality. FL Studio's free trial allows you to open existing projects but not save new ones. Ableton's trial is substantially more useful for genuine evaluation before committing. ---
+A: Ableton offers a 90-day free trial of Live 12 Suite with full functionality. FL Studio's free trial allows you to open existing projects but not save new ones. Ableton's trial is substantially more useful for genuine evaluation before committing.
+
+---
 ## Related Guides
 
 - [Pro Tools vs Reaper vs Ableton 2026: DAW Showdown](/posts/pro-tools-vs-reaper-vs-ableton-2026/)

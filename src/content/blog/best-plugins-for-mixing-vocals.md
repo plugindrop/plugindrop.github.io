@@ -328,7 +328,9 @@ A: Valhalla Supermassive is the answer r/edmproduction, KVR Audio, and Gearspace
 A: Not necessarily. Nectar 4's primary value-adds are the Vocal Assistant AI starting-chain generation and the Unmask inter-plugin feature. If you already have trusted tools for compression, EQ, de-essing, and reverb, Nectar 4 adds workflow convenience and integration rather than raw capability you're missing.
 
 **Q: What order should plugins be in a vocal chain?**
-A: Community consensus on chain order: pitch correction first, then compression (control dynamics before shaping tone), then de-essing (compression can increase sibilance, so de-ess after), then EQ (shape a stable, controlled signal), then saturation, then width and doubling, then reverb and delay last. A limiter, if used, goes at the end of the vocal bus as a ceiling. ---
+A: Community consensus on chain order: pitch correction first, then compression (control dynamics before shaping tone), then de-essing (compression can increase sibilance, so de-ess after), then EQ (shape a stable, controlled signal), then saturation, then width and doubling, then reverb and delay last. A limiter, if used, goes at the end of the vocal bus as a ceiling.
+
+---
 ## Related Guides
 
 - [12 Best Free Vocal VST Plugins in 2026 (Tuning, Compression, Effects)](/posts/best-free-vocal-vst-plugins/)

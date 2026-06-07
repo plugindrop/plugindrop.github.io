@@ -238,7 +238,9 @@ A: All plugins listed here support VST3, which is compatible with Ableton Live, 
 A: TDR Nova is a professional-grade tool. KVR community members regularly use it in commercial sessions. FabFilter Pro-Q 4's advantages — faster workflow on complex moves, a superior spectrum analyzer, and more surgical precision — become meaningful as your mixing skills develop. Start with Nova and upgrade when you feel it limiting your speed, not your capability.
 
 **Q: How many plugins do I actually need as a beginner?**
-A: Educators and experienced producers consistently active on r/edmproduction make the same point: mastering a small set of tools deeply outperforms collecting many plugins superficially. The seven plugins in this guide cover every foundational production task. More plugins do not accelerate learning. More focused practice does. ---
+A: Educators and experienced producers consistently active on r/edmproduction make the same point: mastering a small set of tools deeply outperforms collecting many plugins superficially. The seven plugins in this guide cover every foundational production task. More plugins do not accelerate learning. More focused practice does.
+
+---
 ## Related Guides
 
 - [20 Best Free VST Plugins for Beginners in 2026, Ranked (Complete Starter Kit)](/posts/best-free-vst-plugins-beginners/)

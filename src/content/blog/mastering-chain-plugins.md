@@ -250,7 +250,9 @@ A: For Spotify, target -14 LUFS integrated. For Apple Music (with Loudness Norma
 A: Ozone 12 includes its own EQ module, and for many projects it's sufficient. However, Pro-Q 4's per-band mid/side processing, dynamic EQ, and spectrum grab workflow are significantly more flexible for complex problem-solving. Run both: Ozone 12 for broadband mastering processing, Pro-Q 4 for targeted surgical corrections before or after.
 
 **Q: Is the complete mastering chain VST plugins 2026 setup overkill for bedroom producers?**
-A: Start with Ozone 12 + Youlean Loudness Meter 2 — that's a genuinely complete mastering setup for under $350 total (with Youlean free). Add Pro-Q 4 and Pro-L 2 once you're working on material where you notice the limitations of Ozone's internal modules. Insight 2 is a professional tool; add it when clients need it. ---
+A: Start with Ozone 12 + Youlean Loudness Meter 2 — that's a genuinely complete mastering setup for under $350 total (with Youlean free). Add Pro-Q 4 and Pro-L 2 once you're working on material where you notice the limitations of Ozone's internal modules. Insight 2 is a professional tool; add it when clients need it.
+
+---
 ## Final Thoughts
 
 The complete mastering chain outlined here — SPAN for analysis, FabFilter Pro-Q 4 for surgical EQ, iZotope Ozone 12 as the mastering centerpiece, FabFilter Pro-L 2 for transparent limiting, and Youlean Loudness Meter 2 plus iZotope Insight 2 for metering — represents the professional standard in 2026 for good reason: each plugin does exactly one job better than almost anything else at its price point. If you can only buy one plugin from this list today, make it iZotope Ozone 12 — it's the single tool that moves the needle most dramatically on master quality.
