@@ -1,7 +1,7 @@
 ---
 heroImage: "/images/best-free-mastering-plugins.png"
-title: "FabFilter Pro-L 2 Review 2026: Still the Best Limiter?"
-description: "Yes — Pro-L 2 is still the gold standard for mastering. 8 algorithms, true peak up to 32x oversampling, streaming-target metering. Our full verdict."
+title: "FabFilter Pro-L 2 Review 2026: Is $199 Worth It? (The Industry Standard)"
+description: "Pro-L 2 is the gold standard mastering limiter in 2026 — 8 algorithms, true peak up to 32x oversampling, streaming-target metering. Full verdict on whether $199 is justified."
 pubDate: "2026-05-05T10:10:19Z"
 tags: ["guide", "vst", "mastering", "review"]
 affiliate: ""

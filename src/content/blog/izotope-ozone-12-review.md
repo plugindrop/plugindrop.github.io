@@ -1,7 +1,7 @@
 ---
 heroImage: "/images/best-free-mastering-plugins.png"
-title: "iZotope Ozone 12 Review 2026: Still the Mastering King?"
-description: "Yes — Ozone 12 remains the ultimate all-in-one mastering suite. AI Master Assistant gives you a pro starting point in under 30 seconds. Our full verdict."
+title: "iZotope Ozone 12 Review 2026: Is It Worth $199–$499? (Honest Verdict)"
+description: "Ozone 12 is the most complete mastering suite in 2026 — AI Master Assistant delivers a pro-quality starting point in 30 seconds. Full Standard vs Advanced breakdown with pricing."
 pubDate: "2026-05-03T10:10:19Z"
 tags: ["guide", "vst", "mastering", "review"]
 affiliate: ""

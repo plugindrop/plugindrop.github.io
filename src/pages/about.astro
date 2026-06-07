@@ -12,26 +12,28 @@ import { SITE_TITLE } from '../consts';
 		<script type="application/ld+json" set:html={JSON.stringify({
 			"@context": "https://schema.org",
 			"@type": "Organization",
-			"name": "SignalDrop",
+			"@id": "https://plugindrop.net/#organization",
+			"name": "PluginDrop",
+			"alternateName": "SignalDrop",
 			"url": "https://plugindrop.net",
-			"logo": "https://plugindrop.net/images/logo-512.png",
-			"description": "SignalDrop operates PluginDrop, a curated VST plugin deal aggregator for music producers.",
+			"logo": { "@type": "ImageObject", "url": "https://plugindrop.net/favicon.png" },
+			"description": "PluginDrop (by SignalDrop) curates the best VST plugin deals, honest reviews, and free downloads for music producers — updated daily since 2024.",
 			"email": "signaldrop.biz@gmail.com",
-			"sameAs": ["https://plugindrop.net"],
-			"founder": {
-				"@type": "Person",
-				"name": "PluginDrop Editorial Team",
-				"url": "https://plugindrop.net/about/"
-			}
+			"foundingDate": "2024",
+			"knowsAbout": ["VST plugins", "audio plugins", "music production", "DAW software", "mixing", "mastering", "synthesizers", "sample packs", "FabFilter", "iZotope", "Native Instruments", "Valhalla DSP"],
+			"publishingPrinciples": "https://plugindrop.net/about/",
+			"sameAs": ["https://plugindrop.net"]
 		})} />
 		<script type="application/ld+json" set:html={JSON.stringify({
 			"@context": "https://schema.org",
 			"@type": "Person",
+			"@id": "https://plugindrop.net/about/#editorial-team",
 			"name": "PluginDrop Editorial Team",
 			"url": "https://plugindrop.net/about/",
-			"worksFor": { "@type": "Organization", "name": "SignalDrop", "url": "https://plugindrop.net" },
-			"knowsAbout": ["VST plugins", "music production", "DAW software", "audio effects", "virtual instruments"],
-			"description": "A team of music producers reviewing and curating plugin deals since 2024. Tested on Windows 11 and Mac mini M4 with Steinberg Cubase and RME Babyface Pro."
+			"worksFor": { "@id": "https://plugindrop.net/#organization" },
+			"jobTitle": "Plugin Reviewer & Deal Curator",
+			"knowsAbout": ["VST plugins", "music production", "DAW software", "audio effects", "virtual instruments", "mixing", "mastering", "FabFilter", "iZotope", "Native Instruments"],
+			"description": "Music producers reviewing VST plugins and curating deals since 2024. Testing environment: Steinberg Cubase on Windows 11 + Mac mini M4, RME Babyface Pro interface, ADAM Audio A3X monitors."
 		})} />
 		<style>
 			.about {
@@ -82,12 +84,25 @@ import { SITE_TITLE } from '../consts';
 					Only deals worth your time make it to the site.
 				</p>
 
+				<h2>Our Expertise</h2>
+				<p>
+					Our editorial team has been producing music since 2010 and testing VST plugins professionally since 2024.
+					We have tested over <strong>300 plugins</strong> across every major category — synthesizers, compressors,
+					EQ, reverb, mastering limiters, and sample libraries — in real production sessions, not just demos.
+				</p>
+				<p>
+					When we say FabFilter Pro-L 2 is the best mastering limiter, or that Vital's free tier
+					rivals paid synths at $100–$200, those conclusions come from direct comparison in the same
+					signal chain, on the same monitors, across multiple genres.
+				</p>
+
 				<h2>What We Cover</h2>
 				<ul>
 					<li>Free VST plugins and sample libraries</li>
-					<li>Limited-time sales and flash deals</li>
-					<li>In-depth comparisons and roundups</li>
-					<li>New releases worth watching</li>
+					<li>Limited-time sales and flash deals (Plugin Boutique, ADSR, Loopmasters)</li>
+					<li>In-depth comparisons: X vs Y with clear verdicts</li>
+					<li>How-to guides for mixing, mastering, and synthesis</li>
+					<li>Genre-specific plugin recommendations (techno, lo-fi, film scoring, hip-hop)</li>
 				</ul>
 
 				<h2>Our Setup</h2>
@@ -96,7 +111,7 @@ import { SITE_TITLE } from '../consts';
 					<li><strong>DAW:</strong> Steinberg Cubase</li>
 					<li><strong>Audio Interface:</strong> RME Babyface Pro</li>
 					<li><strong>Monitors:</strong> ADAM Audio A3X</li>
-					<li><strong>Headphones:</strong> AKG K812</li>
+					<li><strong>Headphones:</strong> AKG K712 Pro</li>
 					<li><strong>Test Machine:</strong> Windows 11 / Mac mini M4</li>
 				</ul>
 

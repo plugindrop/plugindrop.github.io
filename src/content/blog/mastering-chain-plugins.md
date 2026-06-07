@@ -1,6 +1,6 @@
 ---
-title: "6-Step Mastering Plugin Chain for a Pro Master (2026)"
-description: "6 mastering plugins tested in 2026. Ozone 12 anchors the chain — AI-assisted EQ, dynamics, and limiting in one suite. See the full pro setup."
+title: "Mastering Plugin Chain 2026: 6-Step Setup for a Professional Master"
+description: "Build a pro mastering chain in 2026: EQ → compressor → saturation → stereo imaging → limiter. Full plugin list with free and paid options at every stage."
 pubDate: "2026-05-02T13:06:41Z"
 tags: ["guide", "vst", "mastering", "workflow"]
 affiliate: ""
