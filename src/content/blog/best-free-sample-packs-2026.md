@@ -1,6 +1,6 @@
 ---
-title: "8 Best Sites for Free Sample Packs in 2026 (Ranked)"
-description: "8 free sample pack sources tested in 2026. ADSR Sounds tops the list — best curation and royalty-free coverage across genres. All sites ranked."
+title: "8 Best Sites for Free Sample Packs in 2026: Royalty-Free Downloads (Ranked)"
+description: "8 best sites for free sample packs in 2026 — royalty-free drums, loops, one-shots and presets. ADSR Sounds tops the list. All sources ranked and tested."
 pubDate: "2026-07-07T22:39:54Z"
 tags: ["guide", "vst", "free", "samples"]
 affiliate: ""

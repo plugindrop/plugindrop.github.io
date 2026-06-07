@@ -205,4 +205,4 @@ In 2026, the quality floor for free EQ plugins is genuinely high — TDR Nova an
 
 ---
 
-*Comparing bundles? See our [Plugin Bundle Price Comparison](/bundle-comparison/) for cost-per-plugin rankings across FabFilter, NI Komplete, iZotope, and more.*
+*Comparing bundles? See our [Best Plugin Bundle Deals 2026](/posts/best-plugin-bundle-deals/) for cost-per-plugin rankings across FabFilter, NI Komplete, iZotope, and more.*

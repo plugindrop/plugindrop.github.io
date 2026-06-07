@@ -177,4 +177,4 @@ Twenty years in, the Waves SSL bundle review verdict is unchanged: these are two
 
 ---
 
-*Comparing bundles? See our [Plugin Bundle Price Comparison](/bundle-comparison/) for cost-per-plugin rankings across FabFilter, NI Komplete, iZotope, and more.*
+*Comparing bundles? See our [Best Plugin Bundle Deals 2026](/posts/best-plugin-bundle-deals/) for cost-per-plugin rankings across FabFilter, NI Komplete, iZotope, and more.*
