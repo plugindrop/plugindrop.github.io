@@ -1,7 +1,14 @@
 ---
 title: "Empirical Labs EL8 Distressor Compressor: Features, Pricing & Is It Worth It? (2026)"
-description: "Empirical Labs EL8 Distressor plugin at Plugin Boutique: harmonic distortion modes, Dist 2/3 settings, analog warmth. Check 2026 price and bundles." lists across mixing forums, and is frequently cited on communities like Gearslutz (now Gearspace) and Reddit's r/audioengineering as one of the most versatile hardware compressors available. Users commonly mention its ability to handle everything from vocal glue to drum smash without sounding like a one-trick unit. The plugin version, being the official release from Empirical Labs, carries that same brand trust.
-
+description: "Empirical Labs EL8 Distressor plugin at Plugin Boutique: harmonic distortion modes, Dist 2/3 settings, analog warmth. Check 2026 price and bundles."
+pubDate: '2026-04-23T18:27:48Z'
+tags: ["review", "vst-plugin", "effects", "compressor", "music-production"]
+affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241"
+heroImage: /images/empirical-labs-el8-distressor-compressor-ff4241.jpg
+score: 8.80
+draft: false
+priceTrack:
+  - "FabFilter Pro-C 2"
 ---
 
 ## Who Is It For?

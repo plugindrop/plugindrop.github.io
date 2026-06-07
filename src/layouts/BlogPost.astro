@@ -5,11 +5,12 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
+import PriceTracker from '../components/PriceTracker.astro';
 import { SITE_TITLE } from '../consts';
 
 type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?: string; slug?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, score, allTimeLow, evergreen, readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, score, allTimeLow, evergreen, priceTrack = [], readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
 const imageStr = typeof heroImage === 'string' ? heroImage : undefined;
 
 // Check if sale has expired
@@ -129,6 +130,33 @@ const faqLD = faqPairs.length > 0 ? {
 	})),
 } : null;
 
+// HowTo schema for tutorial articles (title starts with "How to" or has "tutorials" tag)
+// Gives Google rich "How To" results with numbered steps in SERP
+const isHowTo = title.toLowerCase().startsWith('how to') || tags.includes('tutorials');
+const howToSteps: { name: string; text: string }[] = [];
+if (isHowTo && rawBody) {
+	const stepRegex = /^## (Step \d+[:\s—–-].+?)$([\s\S]*?)(?=^## |\s*$)/gm;
+	let stepMatch;
+	while ((stepMatch = stepRegex.exec(rawBody)) !== null) {
+		const stepName = stripMarkdown(stepMatch[1].trim());
+		const stepText = stripMarkdown(stepMatch[2].replace(/#{1,6}\s+/g, '').replace(/\[([^\]]+)\]\([^\)]+\)/g, '$1').replace(/[*`]/g, '').trim().slice(0, 500));
+		if (stepName && stepText) howToSteps.push({ name: stepName, text: stepText });
+	}
+}
+const howToLD = (isHowTo && howToSteps.length >= 2) ? {
+	"@context": "https://schema.org",
+	"@type": "HowTo",
+	"name": title,
+	"description": description,
+	...(resolvedImage ? { "image": resolvedImage } : {}),
+	"step": howToSteps.map((s, i) => ({
+		"@type": "HowToStep",
+		"position": i + 1,
+		"name": s.name,
+		"text": s.text,
+	})),
+} : null;
+
 // Product + Offer schema for deal pages (enables price rich results)
 // FREE または価格が取得できない場合は Product schema を省略（price=0 は誤シグナル）
 const _rawPrice = dealPrice?.trim().toUpperCase().replace(/[$€£¥]/g, '') ?? '';
@@ -163,12 +191,20 @@ const productLD = (affiliate && dealPrice && !saleExpired && !_isFreePrice && _n
 
 // Internal link: tag → Best guide mapping
 const BEST_GUIDE_MAP: Record<string, { label: string; slug: string }> = {
-	'eq':         { label: 'Best EQ Plugins 2026',          slug: 'best-eq-plugins-2026' },
-	'compressor': { label: 'Best Compressor Plugins 2026',  slug: 'best-compressor-plugins-2026' },
-	'reverb':     { label: 'Best Free Reverb Plugins 2026', slug: 'best-free-reverb-vst-plugins' },
-	'synth':      { label: 'Best Synth Plugins 2026',       slug: 'best-synth-plugins-2026' },
-	'mixing':     { label: 'Best Mixing Plugins 2026',      slug: 'best-mixing-plugins-2026' },
-	'hip-hop':    { label: 'Best Hip-Hop Sample Packs',     slug: 'best-sample-packs-hip-hop-2026' },
+	'eq':           { label: 'Best EQ Plugins 2026',            slug: 'best-eq-plugins-2026' },
+	'compressor':   { label: 'Best Compressor Plugins 2026',    slug: 'best-compressor-plugins-2026' },
+	'reverb':       { label: 'Best Free Reverb Plugins 2026',   slug: 'best-free-reverb-vst-plugins' },
+	'synth':        { label: 'Best Synth Plugins 2026',         slug: 'best-synth-plugins-2026' },
+	'mixing':       { label: 'Best Mixing Plugins 2026',        slug: 'best-mixing-plugins-2026' },
+	'mastering':    { label: 'Best Mastering Plugins 2026',     slug: 'best-mastering-plugins-2026' },
+	'hip-hop':      { label: 'Best Hip-Hop Sample Packs',       slug: 'best-sample-packs-hip-hop-2026' },
+	'drums':        { label: 'Best Drum Plugins 2026',          slug: 'best-drum-plugins-2026' },
+	'tutorials':    { label: 'How-To Mixing Guides',            slug: 'how-to-sidechain-compression' },
+	'techno':       { label: 'Best Plugins for Techno',         slug: 'best-plugins-for-techno-production' },
+	'house':        { label: 'Best Plugins for House Music',    slug: 'best-plugins-for-house-music' },
+	'metal':        { label: 'Best Plugins for Metal Mixing',   slug: 'best-vst-plugins-for-metal-mixing' },
+	'film-scoring': { label: 'Best Plugins for Film Scoring',   slug: 'best-plugins-for-film-scoring' },
+	'lo-fi':        { label: 'Best Plugins for Lo-Fi',          slug: 'best-plugins-for-lofi-production' },
 };
 const bestGuides = tags
 	.map((t: string) => BEST_GUIDE_MAP[t])
@@ -189,10 +225,11 @@ const relatedPosts = allPosts
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={`${title} | ${SITE_TITLE}`} description={description} image={imageStr} ogType="article" />
+		<BaseHead title={`${title} | ${SITE_TITLE}`} description={description} image={imageStr} ogType="article" articleSection={tags[0] ?? 'Music Production'} />
 		<script type="application/ld+json" set:html={JSON.stringify(articleLD)} />
 		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbLD)} />
 		{faqLD && <script type="application/ld+json" set:html={JSON.stringify(faqLD)} />}
+		{howToLD && <script type="application/ld+json" set:html={JSON.stringify(howToLD)} />}
 		{productLD && <script type="application/ld+json" set:html={JSON.stringify(productLD)} />}
 		<style>
 			main {
@@ -524,13 +561,20 @@ const relatedPosts = allPosts
 					setInterval(tick, 60000);
 				}
 				// Track affiliate link clicks in GA4
-				document.querySelectorAll('.deal-cta-btn, .sticky-cta a').forEach(link => {
+				// 本文中の a_aid 付きリンク、deal-cta-btn、sticky-cta も含めて全て計測
+				const AFFILIATE_HOSTS = ['pluginboutique.com','splice.com','adsrsounds.com','loopmasters.com','sweetwater.com','thomann.de','waves.com','beatport.com','djcity.com','pluginfox.com','unison.audio','udemy.com'];
+				document.querySelectorAll('.deal-cta-btn, .sticky-cta a, .prose a[href^="http"]').forEach(link => {
+					const href = link.getAttribute('href') || '';
+					const isAffiliate = href.includes('a_aid=') || href.includes('?ref=') || href.includes('?affid=') || AFFILIATE_HOSTS.some(h => href.includes(h));
+					if (!isAffiliate && !link.classList.contains('deal-cta-btn') && !link.closest('.sticky-cta')) return;
 					link.addEventListener('click', () => {
 						if (typeof gtag !== 'undefined') {
 							gtag('event', 'affiliate_click', {
-								link_url: link.getAttribute('href'),
-								link_text: link.textContent?.trim(),
+								link_url: href,
+								link_text: link.textContent?.trim().slice(0, 80),
 								page_title: document.title,
+								link_location: link.classList.contains('deal-cta-btn') ? 'cta_box' :
+								               link.closest('.sticky-cta') ? 'sticky_cta' : 'body',
 							});
 						}
 					});
@@ -644,6 +688,10 @@ const relatedPosts = allPosts
 
 					<!-- Article content (from markdown) -->
 					<slot />
+
+					{priceTrack.length > 0 && (
+						<PriceTracker pluginNames={priceTrack} />
+					)}
 
 					{bestGuides.length > 0 && (
 						<div class="best-guide-box">

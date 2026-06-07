@@ -2,6 +2,7 @@
 title: "15 Best Mixing Plugins in 2026 (Free & Paid, Ranked)"
 description: "15 mixing plugins tested in 2026. FabFilter Pro-Q 4 leads — dynamic EQ mode alone justifies the price. EQ to compressor to saturation, all ranked."
 pubDate: "2026-04-29T10:10:19Z"
+updatedDate: "2026-06-07T00:00:00Z"
 tags: ["guide", "vst", "effects"]
 affiliate: ""
 heroImage: "/images/best-mixing-plugins-2026.jpg"
