@@ -20,6 +20,11 @@ priceTrack:
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/F89Q3HuOxfY" title="Ultimate Black Friday VST Plugin Deals Tier List - 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## When Is Plugin Boutique Black Friday 2026?
 
 Plugin Boutique typically launches their Black Friday sale in **mid-to-late November 2026**, with deals running from approximately November 21 through December 2. Some deals begin earlier as "early access" for newsletter subscribers.

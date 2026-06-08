@@ -14,6 +14,11 @@ draft: false
 ---
 **TL;DR:** MeldaProduction is marking its 18th year in business with discounts reaching up to 91% off across its plugin catalog — one of the steepest sales the Czech developer runs all year. Pricing varies by item, so verify current deals directly on the product page. Start browsing at [MeldaProduction's 18th Anniversary page](https://www.meldaproduction.com/18_Anniversary).
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/HZlog-hcPy8" title="MeldaProduction V15 - The Best MeldaProduction Plugins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is MeldaProduction?
 
 MeldaProduction is a Czech-based audio software developer building plugins since 2008. The company is known for its sprawling catalog — spanning dynamics, EQ, reverb, modulation, and creative effects — with a reputation for deep customization that rewards power users. Their flagship offering, the MCompleteBundle, packages over 150 plugins into a single license. They also maintain MFreeBundle, a widely-used collection of free tools that serves as a solid entry point into the ecosystem.

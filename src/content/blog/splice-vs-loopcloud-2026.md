@@ -12,6 +12,11 @@ draft: false
 ---
 **TL;DR:** Splice and Loopcloud both offer 4M+ samples and competitive monthly pricing, but they serve different workflows. Loopcloud wins on DAW integration and has a free tier to try before you pay. Splice stands out with its unique rent-to-own plugin model. If DAW-native previewing matters to you, Loopcloud is the stronger pick.
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/jVkvOZ1sXIU" title="Splice vs  LANDR - Which should YOU use?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## Quick Comparison
 
 | Feature | Splice | Loopcloud |

@@ -16,6 +16,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/GIvVFIib4wA" title="MSoundFactory   3 versions differences" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is MSoundFactoryLE?
 
 MSoundFactoryLE is the entry-level edition of MSoundFactory, the flagship instrument platform from **Meldaproduction** — a Czech audio software company known for their deep, feature-rich plugin ecosystem. The LE version is designed to bring the core of that engine to producers who want professional-grade sounds without committing to the full package. It runs as a VST/VST3/AU/AAX plugin on both Windows and Mac, fitting into any major DAW.
