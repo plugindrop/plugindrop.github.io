@@ -11,7 +11,7 @@ originalPrice: "$119"
 discount: "87% OFF"
 saleExpiry: "2026-06-08"
 xText: "$14.90 for loop engine 3 (was $119) — lowest ever on this one. if you're into pattern variations or loop creation, this hits different at that price"
-draft: false
+draft: true
 ---
 **TL;DR:** Loop Engine 3 by W.A. Production is down to $14.90 — 87% off the regular ~~$119~~ price tag. That's a steep markdown for an established loop manipulation plugin, and it puts a dedicated tool in your rack for less than a sample pack. [Grab it at this price here](https://audioplugin.deals/product/loop-engine-3-by-wa-production/ref/21/) before the deal window closes.
 
