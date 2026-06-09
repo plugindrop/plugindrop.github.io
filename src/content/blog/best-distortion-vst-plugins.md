@@ -61,7 +61,7 @@ Decapitator models five distinct analog saturation circuits — labeled A, E, N,
 
 ### FabFilter Saturn 2 — Multiband distortion done precisely right
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LYwY8VTR1eE" title="FabFilter Saturn 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1DmK5ZoEnik" title="FabFilter Saturn 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $199
@@ -114,7 +114,7 @@ SDRR offers four distinct saturation modes — TUBE, TAPE, DIGI, and TRANS — e
 
 ### iZotope Trash 2 — The extreme distortion specialist
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/YzlHygrWLtk" title="iZotope Trash 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IEFr2qDS5mQ" title="iZotope Trash 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** ~$49–99 (often included in Music Production Suite bundles)
@@ -131,7 +131,7 @@ Trash 2 is built for producers who need distortion that goes all the way. Its mu
 
 ### RC-20 Retro Color — Vintage texture and tape-driven distortion
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/tba_KPAzDvk" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1DmK5ZoEnik" title="RC-20 Retro Color — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** XLN Audio
 - **Price:** ~$99
@@ -184,7 +184,7 @@ The HG-2 models the Black Box Analog Design hardware unit — a two-stage tube a
 
 ### Chow Tape Model — The technically rigorous free tape plugin
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/dBu_h-CAfhI" title="Chow Tape Model — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1DmK5ZoEnik" title="Chow Tape Model — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Chowdhury DSP (jatin chowdhury)
 - **Price:** Free
@@ -268,7 +268,7 @@ If you have been working with IVGI, Saturation Knob, Chow Tape Model, or TAL-Sat
 
 ### FabFilter Saturn 2 — When multiband capability matters
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rU2XJQui3uU" title="FabFilter Saturn 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1DmK5ZoEnik" title="FabFilter Saturn 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $199
