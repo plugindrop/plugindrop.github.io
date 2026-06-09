@@ -9,7 +9,7 @@ score: 9.50
 discount: "50% OFF"
 saleExpiry: "2026-06-09"
 xText: "diva normally $199. this sale hits ~$99. u-he basically never prices this deep — usually stuck at 20-30% off. lowest window you'll get on these"
-draft: false
+draft: true
 ---
 **TL;DR:** u-he is running a rare 50% off sale on three of its most celebrated synthesizers — Diva, Hive 2, and Repro — through June 9th. Verify current pricing on the product page, but half-off u-he is not something to sleep on. [Grab the deal here.](https://www.image-line.com/specials/u-he-friends)
 
