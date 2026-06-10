@@ -10,7 +10,7 @@ dealPrice: "$24.99"
 originalPrice: "$59.99"
 discount: "58% OFF"
 xText: "zora stem loops just dropped at 58% off and they're pre-decomposed so they actually layer without hijacking your mix. the kind of sleeper deal that quietly becomes your go-to."
-draft: false
+draft: true
 ---
 **TL;DR:** Brandon Chapa's Zora Stem Loop Kit is down to **$24.99** (was ~~$59.99~~) at ADSR Sounds — that's 58% off a professionally crafted stem loop collection. If you've been eyeing loop-based production tools, this is a meaningful discount worth acting on. [Grab the deal at ADSR Sounds.](https://www.adsrsounds.com/product/presets/brandon-chapa-zora-stem-loop-kit-samples-loops/?a_aid=plugindrop&data1=brandon-chapa-zora-stem-loop-kit-samples-loops-eb8217&utm_source=plugindrop&utm_medium=article&utm_campaign=brandon-chapa-zora-stem-loop-kit-samples-loops-eb8217)
 

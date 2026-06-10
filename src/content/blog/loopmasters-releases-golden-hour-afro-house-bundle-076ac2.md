@@ -9,7 +9,7 @@ score: 5.18
 dealPrice: "$0"
 discount: "50% OFF"
 xText: "bundle math finally works on afro house. golden hour's per-pack cost is the play. if you're serious about building that sound this one checks out"
-draft: false
+draft: true
 ---
 **TL;DR:** Loopmasters is offering the Golden Hour – Afro House Bundle at 50% off its regular price — five premium Afro House sample packs in a single purchase totaling 4.27 GB of production-ready material. The bundle is priced at £79.95 GBP. [Grab it on Loopmasters](https://www.loopmasters.com/genres/181-Afro-House/products/20789-Golden-Hour-Afro-House-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=loopmasters-releases-golden-hour-afro-house-bundle-076ac2) before the deal ends.
 

@@ -10,7 +10,7 @@ dealPrice: "$20"
 originalPrice: "$119.95"
 discount: "83% OFF"
 xText: "m1d1 just dropped at 83% off for edm/dance. launch pricing this steep doesn't stick around once it normalizes."
-draft: false
+draft: true
 ---
 **TL;DR:** m1d1's EDM & Dance sample pack is currently 83% off at ADSR Sounds — down to just **$20** from ~~$119.95~~. That's nearly $100 in savings on a royalty-free WAV library built for electronic dance production. [Grab it here before the price changes.](https://www.adsrsounds.com/product/wav-samples/m1d1-edm-dance/?a_aid=plugindrop&data1=m1d1-edm-dance-4e4ce9&utm_source=plugindrop&utm_medium=article&utm_campaign=m1d1-edm-dance-4e4ce9)
 

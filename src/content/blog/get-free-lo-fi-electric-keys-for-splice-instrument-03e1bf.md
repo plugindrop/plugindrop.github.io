@@ -8,7 +8,7 @@ heroImage: "/images/get-free-lo-fi-electric-keys-for-splice-instrument-03e1bf.jp
 score: 7.92
 dealPrice: "FREE"
 xText: "free lo-fi keys on splice and they sound buttery in a mix. this is the move if you produce beats. go grab them right now"
-draft: false
+draft: true
 ---
 **TL;DR:** Splice is giving away a free lo-fi electric keys preset pack for Splice INSTRUMENT — grab it during the drop window and it's yours to keep permanently, no subscription strings attached. Don't sleep on this one. [Claim it free on Splice →](https://splice.com/sounds/create?utm_source=plugindrop&utm_medium=article&utm_campaign=get-free-lo-fi-electric-keys-for-splice-instrument-03e1bf)
 

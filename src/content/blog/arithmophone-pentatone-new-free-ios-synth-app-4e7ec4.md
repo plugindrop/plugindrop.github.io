@@ -8,7 +8,7 @@ heroImage: "/images/arithmophone-pentatone-new-free-ios-synth-app-4e7ec4.jpg"
 score: 9.36
 dealPrice: "FREE"
 xText: "free ios synth dropped: arithmophone pentatone has scaled tuning that feels right. zero dollars. go grab it now"
-draft: false
+draft: true
 ---
 **TL;DR:** Pentatone by Arithmophone just dropped on the App Store — completely free, zero in-app purchases, zero ads. It's a purpose-built iOS synth with a pentatonic keyboard that strips away the complexity of traditional layouts. [Grab it free on the App Store.](https://apps.apple.com/us/app/pentatone/id6757822197)
 
