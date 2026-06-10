@@ -11,7 +11,7 @@ originalPrice: "$170"
 discount: "94% OFF"
 saleExpiry: "2026-06-10"
 xText: "$9.99 for cinematic + ambient samples that usually cost $170. price never goes this low. absolute sleeper deal."
-draft: false
+draft: true
 ---
 **TL;DR:** Cloudy Samples is offering their Cinematic & Ambient Bundle for just $9.99 — down from ~~$170~~ — a 94% discount that's hard to ignore. This is a direct purchase with no subscription required. [Grab it here before the deal expires.](https://audioplugin.deals/product/cinematic-ambient-bundle-by-cloudy-samples/ref/21/)
 

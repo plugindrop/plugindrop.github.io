@@ -10,7 +10,7 @@ score: 8.82
 dealPrice: "FREE"
 saleExpiry: "2026-06-05"
 xText: "free plugin drop: talkie, formant filter, orchestral bass, saturation. this is the kind of bundle you don't ask questions about, just grab"
-draft: false
+draft: true
 ---
 **TL;DR:** Five paid plugins — a formant filter, chorus, saturation tool, orchestral bass instrument, and tone-shaper — are all free for a limited time in this June 2026 roundup. Some of these will go back to paid, so the clock is ticking. [Grab all five free plugins here](https://plugindeals.net/free-plugins-report/free-plugins-report-talkie-formant-filter-air-jura-chorus-turnt-holding-hands-saturation-crow-hill-orchestral-bass-slides-and-qfx-color-free-for-a-limited-time-2026-06-05/).
 
