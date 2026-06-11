@@ -11,7 +11,7 @@ originalPrice: "$2,504"
 discount: "96% OFF"
 saleExpiry: "2026-06-11"
 xText: "sampletraxx everything bundle is $99. cost per plugin is so low you stop thinking 'should i grab this' and start thinking 'what am i making today'"
-draft: false
+draft: true
 ---
 **TL;DR:** Sampletraxx is offering their entire sample library catalog — the Everything Bundle — for just $99 (~~$2,504~~), a 96% discount that expires June 11th. That's a complete production toolkit for less than the price of a single premium plugin. [Grab it here before the deadline.](https://audioplugin.deals/product/sampletraxx-everything-bundle/ref/21/)
 
