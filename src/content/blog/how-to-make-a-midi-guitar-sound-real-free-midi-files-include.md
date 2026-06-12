@@ -14,6 +14,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/DmrFT6u6HT4" title="How To Make MIDI Guitar Sound EXTREMELY Realistic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Splice's Free MIDI Guitar Resource?
 
 Splice — the sample subscription platform used by millions of producers — has published a practical technique guide on realistic MIDI guitar programming, bundled with downloadable MIDI files you can drop straight into your DAW. The resource covers chord structures, strumming patterns, and melodic lines designed to help programmed guitar pass as the real thing. It targets a persistent pain point in modern production: MIDI guitar that sounds mechanical, stiff, and obviously fake.
