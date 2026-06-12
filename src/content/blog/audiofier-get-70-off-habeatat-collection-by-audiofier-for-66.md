@@ -11,7 +11,7 @@ originalPrice: "$223"
 discount: "70% OFF"
 saleExpiry: "2026-06-12"
 xText: "habetat just hit $66. 70% off normally $223. full kontakt collection for the price of a coffee. that's the math."
-draft: false
+draft: true
 ---
 **TL;DR:** Audiofier's HaBEATat Collection is down 70% — from ~~$223~~ to just $66 until the deal expires. That's a significant drop for a full Kontakt drum and beats library from a respected developer. [Grab it here.](https://pulse.audio/product/habeatat-collection-by-audiofier/)
 

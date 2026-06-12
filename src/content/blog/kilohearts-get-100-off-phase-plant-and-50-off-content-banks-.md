@@ -11,7 +11,7 @@ originalPrice: "$100"
 discount: "50% OFF"
 saleExpiry: "2026-06-12"
 xText: "phase plant just dropped $100 off. kilohearts barely discounts ever. content banks are 50% off too. if you've had this on your wishlist, today's the day. don't sleep on it."
-draft: false
+draft: true
 ---
 **TL;DR:** Phase Plant is down to $99 — that's $100 off the regular price — as part of Kilohearts' 7th Anniversary Sale, with Content Banks at 50% off at the same time. Kilohearts doesn't run discounts at this depth often, so if this synthesizer has been sitting on your wishlist, now is the time to act. [Grab Phase Plant for $99 →](https://kilohearts.com/products/phase_plant)
 
