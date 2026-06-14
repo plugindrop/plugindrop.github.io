@@ -13,7 +13,7 @@ draft: false
 **TL;DR:** Xfer Serum remains the community's most-recommended paid bass synth VST in 2026 for its combination of workflow clarity and genre versatility, while Surge XT is the strongest free starting point for producers unwilling to compromise on synthesis depth. This guide covers both analog-warm and digitally precise options across free and paid tiers, ranked by what they actually do well.
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/oeamVu1qY-g" title="Best Bass Synth VST Plugins in 2026 (Analog & Digital) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/p05S6kjGcCE" title="Best Bass Synth VST Plugins in 2026 (Analog & Digital) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
