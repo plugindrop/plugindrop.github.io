@@ -11,7 +11,7 @@ originalPrice: "$199"
 discount: "50% OFF"
 saleExpiry: "2026-06-14"
 xText: "paradise studio is half off ($99 from $199). this is the rare sale. honestly if you've ever wondered whether you need hardware for tone – this proves you don't."
-draft: false
+draft: true
 ---
 **TL;DR:** Universal Audio's Paradise Guitar Studio is down to **$99** (~~$199~~) — that's 50% off through June 14th. UA doesn't run deep discounts often, so this is a meaningful window. [Grab it here.](https://audioplugin.deals/product/paradise-guitar-studio-by-universal-audio/ref/21/)
 
