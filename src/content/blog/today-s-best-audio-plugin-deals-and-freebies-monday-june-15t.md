@@ -16,6 +16,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/qtcLvehheiI" title="Are you cheating at music?! [plus the latest top deals and freebies] | Audio Plugin Guy Weekly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Mutant Delay by WA Production?
 
 WA Production is a plugin developer known for bold, character-heavy effects aimed at modern music producers. Mutant Delay is their creative delay plugin, built around modulation and sonic texture rather than clean, transparent repeats. It's designed for producers who want delays that move, evolve, and add character — not just echo.

@@ -16,6 +16,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/sZfsf5_1m9Q" title="KORG Collection 2: Refined" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is WAVESTATION?
 
 WAVESTATION is Korg's official software recreation of the original WAVESTATION hardware synthesizer, first released in 1990. The hardware became iconic for its unique approach to sound design — wave sequencing and vector synthesis — and shaped the sound of ambient, new age, and electronic music throughout the early 90s. The software version brings that same engine to modern DAWs, preserving the original presets and synthesis architecture in plugin form.
