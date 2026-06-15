@@ -10,7 +10,7 @@ dealPrice: "$69"
 discount: "56% OFF"
 saleExpiry: "2026-06-15"
 xText: "56% off lil freq? empirical labs' surgical eq barely ever hits this price. grab it at audio deluxe."
-draft: false
+draft: true
 ---
 **TL;DR:** Softube's Empirical Labs Lil FrEQ — a parametric EQ built on hardware pedigree — is currently **56% off at $69** at Audio Deluxe, with the deal running through June 15th. If you've been watching this one, now is a concrete reason to pull the trigger. [Grab it here.](https://audiodeluxe.com/collections/software/products/softube-empirical-labs-lil-freq)
 

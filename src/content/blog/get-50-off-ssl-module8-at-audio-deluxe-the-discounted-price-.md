@@ -10,7 +10,7 @@ dealPrice: "$24.5"
 discount: "50% OFF"
 saleExpiry: "2026-06-15"
 xText: "ssl's module8 at half off, lowest i've ever seen it go. this eq sits on a master bus like butter and honestly if you've been thinking about grabbing it, now's the time"
-draft: false
+draft: true
 ---
 **TL;DR:** SSL Module8 is 50% off at Audio Deluxe, dropping to just **$24.50** — an unusually low entry point for an officially developed Solid State Logic plugin targeting vintage EQ character. The deal expires June 15th. [Grab it here.](https://audiodeluxe.com/collections/software/products/solid-state-logic-ssl-module8)
 
