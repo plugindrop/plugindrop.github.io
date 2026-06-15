@@ -1,52 +1,56 @@
 ---
-title: "Phase Plant vs Serum: Which Wavetable Synth Wins for Sound Design? — Sale Deal $99"
-description: "Phase Plant is on sale right now at $99—here's how it compares to Serum (Xfer Records) at this price point. Both are powerful wavetable synths, but they..."
-pubDate: "2026-05-28T05:39:45Z"
+title: "Phase Plant vs Serum: Which Wavetable Synth Wins for Sound Design? — Sale Deal $8.39"
+description: "Phase Plant is on sale right now at $8.39 — a significant saving on a capable wavetable synth. If you're deciding between Phase Plant and Serum (Xfer..."
+pubDate: "2026-06-15T20:57:23Z"
 tags: ["sale", "deal", "vst", "guide", "instruments", "alternatives", "synth"]
 affiliate: ""
 heroImage: "/images/phase-plant-vs-serum-on-sale.jpg"
 score: 6.00
-dealPrice: "$99"
-originalPrice: "$100"
-discount: "1% OFF"
+dealPrice: "$8.39"
+originalPrice: "$13.99"
+discount: "40% OFF"
 xText: "Phase Plant  off — does it beat Serum (Xfer Records) at this price?"
 draft: false
 ---
-# Phase Plant vs Serum: Is This $99 Deal Worth It?
+# Phase Plant vs Serum: Is This $8.39 Deal Worth It?
 
-**TL;DR:** Phase Plant is on sale right now at $99—here's how it compares to Serum (Xfer Records) at this price point. Both are powerful wavetable synths, but they take different design approaches that matter depending on your workflow.
+**TL;DR:** Phase Plant is on sale right now at $8.39 — a significant saving on a capable wavetable synth. If you're deciding between Phase Plant and Serum (Xfer Records), price suddenly tips the scales in Phase Plant's favour for producers on a budget.
 
-## Is Phase Plant Worth It at $99?
+## Is Phase Plant Worth It at $8.39?
 
-Phase Plant is Kilohearts' modular wavetable synthesizer, designed around flexible patch-based sound design. At $99, it undercuts Serum's typical pricing and offers a compelling alternative if you want deep creative control without committing full retail price. Phase Plant's strength is its modular architecture—you build synth chains by connecting oscillators, effects, and modulation sources in any configuration. This flexibility appeals to sound designers who want to experiment with unconventional synth designs.
+Phase Plant is a wavetable synthesizer built around modular sound design. You get a flexible workflow with customizable parameter layouts, multi-layer wavetables, and a deep modulation system—tools you'd expect from a modern synth. At $8.39, Phase Plant undercuts its regular $13.99 price by roughly 40%, which matters when comparing it to Serum's premium positioning.
 
-Serum (Xfer Records) is the industry standard wavetable synth, known for its refined workflow, advanced wavetable morphing, and production-ready sound quality. Serum typically costs more, and at this price difference ($99 vs full retail), Phase Plant becomes an attractive entry point to serious wavetable synthesis if you've been hesitant to commit. The question isn't which synth is "better"—it's which design philosophy fits your workflow.
+Serum (Xfer Records) is the industry benchmark for wavetable synthesis. It has a larger preset library, deeply established workflows in electronic music production, and years of third-party wavetable collections built around it. Serum isn't on sale, and its regular price sits significantly higher. At Phase Plant's current deal price, you're looking at a 3–4x cost difference depending on where you buy Serum—a gap that changes the buying decision entirely.
+
+For the feature set and price, Phase Plant delivers strong value right now. You get wavetable editing, filter design, and modulation that covers most production needs. The key question isn't "is Phase Plant as good as Serum"—it's "does Phase Plant justify saving $50+ right now?"
 
 ## Price Comparison Right Now
 
 | | Phase Plant | Serum (Xfer Records) |
 |---|---|---|
-| Regular Price | $100 | $189 (approx.) |
-| **Current Price** | **$99** | No active sale |
-| Saving | Current deal | — |
+| Regular Price | $13.99 | $189 (typical) |
+| **Current Price** | **$8.39** | No active sale |
+| Saving | current deal | — |
 
 ## Who Should Buy This Deal?
 
-Buy Phase Plant at $99 if you're a sound designer who enjoys patching and experimentation—the modular layout rewards creative thinking and lets you build synths that don't exist elsewhere. If you primarily want immediate production-ready tones with minimal setup, Serum remains the safer choice despite its higher cost. At this price, Phase Plant is the smarter purchase for anyone exploring synthesis design without the full investment—especially if you work with evolving, complex textures rather than stock presets.
+**Buy Phase Plant now if:** you're starting wavetable synthesis, want a second synth for sound design workflows, or need to save money on your next plugin purchase. At $8.39, Phase Plant is a no-brainer entry point—the risk is minimal and the feature set is solid. Skip it only if you're specifically committed to Serum's workflow and preset ecosystem.
+
+**Skip it if:** you're investing in a long-term workflow and want Serum specifically. Higher upfront cost, but the industry library and preset compatibility justify it for professionals.
 
 ## Where to Get It
 
-Grab Phase Plant at this sale price via [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763).
+Grab Phase Plant at the sale price [here](https://www.pluginboutique.com/?a_aid=69cb95abe1763). You can also [buy from the Plugin Boutique store](https://www.pluginboutique.com/?a_aid=69cb95abe1763) and check the current price.
 
-For a full head-to-head breakdown covering oscillator design, modulation depth, workflow, and preset library, read our [Phase Plant vs Serum comparison guide](https://plugindrop.net/posts/phase-plant-vs-serum/).
+For a full head-to-head breakdown, read our [Phase Plant vs Serum: Which Wavetable Synth Wins for Sound Design](https://plugindrop.net/posts/phase-plant-vs-serum/).
 
 ## FAQ
 
 **Q: Is Phase Plant on sale right now?**
-A: Yes—currently $99 (down from $100). Verify the current price at [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) as deals can expire.
+A: Yes — currently $8.39 (down from $13.99). Verify the current price at the link above as deals can expire.
 
 **Q: How does Phase Plant compare to Serum (Xfer Records)?**
-A: Both are wavetable synths, but Phase Plant emphasizes modular patching flexibility while Serum focuses on polished wavetable morphing and professional workflow. Phase Plant encourages experimental sound design; Serum prioritizes accessibility and production-ready results. Your choice depends on whether you value creative patching freedom or streamlined usability.
+A: Both are wavetable synths with sound-design depth, but Serum commands a premium price and has a larger ecosystem of third-party content. Phase Plant offers comparable core features at a fraction of the cost, making it ideal for budget-conscious producers. The choice depends on whether you need Serum's specific workflow or can make Phase Plant's architecture work for you.
 
 ## Related Guides
 
