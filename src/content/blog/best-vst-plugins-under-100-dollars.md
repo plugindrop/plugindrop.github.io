@@ -352,3 +352,5 @@ If you can only buy one plugin from this list, make it FabFilter Pro-C 2 — it 
 - [10 Best Free Delay VST Plugins in 2026 (Tape, Digital, Multi-tap)](/posts/best-free-delay-vst-plugins/)
 - [10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering)](/posts/best-free-eq-vst-plugins/)
 - [12 Best Free VST Plugins for Ableton Live in 2026](/posts/best-free-plugins-ableton/)
+
+- [free guitar amp sim plugins](/posts/best-free-guitar-amp-vst/)

@@ -163,6 +163,7 @@ For producers who have not yet committed to specific commercial libraries, start
 
 ---
 
+
 ## FAQ
 **Q: Can Decent Sampler replace Kontakt for most producers?**
 A: For bedroom and hobbyist producers making lo-fi, ambient, indie, or singer-songwriter music: yes, in most cases. Decent Sampler covers piano, strings, pads, and acoustic instruments at zero cost. It falls short specifically for access to high-tier commercial libraries, which are built almost exclusively on the Kontakt platform.

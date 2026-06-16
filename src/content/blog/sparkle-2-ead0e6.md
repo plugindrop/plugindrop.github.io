@@ -1,6 +1,6 @@
 ---
 title: "78% Off SPARKLE 2"
-description: "SPARKLE 2 is currently **$31.9** (~~$141.9~~) at Plugin Boutique — that's 78% off and over $110 in savings on a premium virtual instrument. Sales of this..."
+description: "SPARKLE 2 is currently $31.9 (~~$141.9~~) at Plugin Boutique — that's 78% off and over $110 in savings on a premium virtual instrument. Sales of this"
 pubDate: "2026-05-06T07:14:38Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sparkle-2-ead0e6"

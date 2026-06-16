@@ -1,6 +1,6 @@
 ---
 title: "I made a free melodic techno Ableton project (TH;EN / Mia Mendi style)"
-description: "A community producer just dropped a free melodic techno Ableton project inspired by TH;EN and Mia Mendi — no cost, no catch. This is a rare look inside a..."
+description: "A community producer just dropped a free melodic techno Ableton project inspired by TH;EN and Mia Mendi — no cost, no catch. This is a rare look inside a"
 pubDate: "2026-04-28T17:22:35Z"
 tags: ["free", "wearethemusicmakers", "daw", "music-production"]
 affiliate: "https://www.youtube.com/watch"

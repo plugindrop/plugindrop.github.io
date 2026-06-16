@@ -1,6 +1,6 @@
 ---
 title: "The most slept on (FREE) Masterclass series I’ve ever watched! [AFROJACK]"
-description: "Afrojack's WALL Pro Academy is a 94-video production masterclass series available completely free on YouTube. It covers professional-level EDM and..."
+description: "Afrojack's WALL Pro Academy is a 94-video production masterclass series available completely free on YouTube. It covers professional-level EDM and electronic"
 pubDate: "2026-04-28T00:03:32Z"
 tags: ["free", "edmproduction", "music-production"]
 affiliate: "https://youtube.com/playlist"

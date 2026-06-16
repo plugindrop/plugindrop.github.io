@@ -1,6 +1,6 @@
 ---
 title: "FREE — Emotional Tamil x Arabic Trap Beat 2026 | \"Desert Soul\" | Fouzan Beats"
-description: "\"Desert Soul\" by Fouzan Beats is available **free for non-profit use** right now — a cinematic Tamil x Arabic trap fusion beat with zero upfront cost..."
+description: ""Desert Soul" by Fouzan Beats is available free for non-profit use right now — a cinematic Tamil x Arabic trap fusion beat with zero upfront cost. Commercial"
 pubDate: "2026-04-26T09:44:30Z"
 tags: ["wearethemusicmakers", "free", "music-production"]
 affiliate: "https://www.youtube.com/@Fouzan-Beats-foryou"

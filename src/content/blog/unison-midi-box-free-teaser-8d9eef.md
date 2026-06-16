@@ -1,6 +1,6 @@
 ---
 title: "Unison MIDI Box (Free Teaser)"
-description: "Unison Audio's MIDI Box is available as a free teaser — grab it at no cost right now. This is a limited-opportunity freebie from a well-known music..."
+description: "Unison Audio's MIDI Box is available as a free teaser — grab it at no cost right now. This is a limited-opportunity freebie from a well-known music"
 pubDate: "2026-04-21T03:40:43Z"
 tags: ["unison", "midi-pack", "free", "music-production"]
 affiliate: "https://unison.audio/ref/jc374/product/midi-box-free-teaser/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-box-free-teaser-8d9eef"

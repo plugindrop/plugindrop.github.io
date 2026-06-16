@@ -1,6 +1,6 @@
 ---
 title: "Trip Hop Ezkeys Midi"
-description: "Toontrack's Trip Hop EZkeys MIDI pack delivers authentic downtempo keyboard patterns built for the EZkeys workflow — moody chord progressions, cinematic..."
+description: "Toontrack's Trip Hop EZkeys MIDI pack delivers authentic downtempo keyboard patterns built for the EZkeys workflow — moody chord progressions, cinematic"
 pubDate: "2026-04-22T07:45:41Z"
 tags: ["vst-plugin", "music-production"]
 affiliate: "https://www.pluginboutique.com/manufacturers/24-Toontrack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-ezkeys-midi-d2a3d3"

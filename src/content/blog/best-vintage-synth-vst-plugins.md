@@ -1,6 +1,6 @@
 ---
 title: "12 Best Vintage Synth VST Emulations in 2026, Ranked (Moog, Roland, Oberheim)"
-description: "u-he Diva is the community's undisputed benchmark for circuit-accurate analog emulation in 2026 — but OB-Xd (free) and the Arturia V Collection give you..."
+description: "u-he Diva is the community's undisputed benchmark for circuit-accurate analog emulation in 2026 — but OB-Xd (free) and the Arturia V Collection give you"
 pubDate: "2026-05-08T22:39:54Z"
 tags: ["guide", "vst", "instruments", "synth"]
 affiliate: ""

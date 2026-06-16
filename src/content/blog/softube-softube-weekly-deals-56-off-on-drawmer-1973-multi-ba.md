@@ -1,6 +1,6 @@
 ---
 title: "Softube — Softube Weekly Deals - 56% off on Drawmer 1973 Multi-Band Compressor plugin"
-description: "Softube's Drawmer 1973 Multi-Band Compressor plugin is 56% off at $69 as part of Softube's Weekly Deals promotion. This is a plugin emulation of a..."
+description: "Softube's Drawmer 1973 Multi-Band Compressor plugin is 56% off at $69 as part of Softube's Weekly Deals promotion. This is a plugin emulation of a respected"
 pubDate: "2026-05-01T05:43:37Z"
 tags: ["softube", "music-production"]
 affiliate: "https://www.softube.com/us/plug-ins/drawmer-1973-multi-band-compressor"

@@ -1,6 +1,6 @@
 ---
 title: "Harrison Audio — Harrison Audio is offering 69% off on Harrison Multi-Band Compressor plugin"
-description: "Harrison Audio's Multi-Band Compressor is down to just $15 — that's 69% off the regular price. If you've been waiting to add a multiband compressor from a..."
+description: "Harrison Audio's Multi-Band Compressor is down to just $15 — that's 69% off the regular price. If you've been waiting to add a multiband compressor from a"
 pubDate: "2026-04-22T06:01:24Z"
 tags: ["harrison audio", "music-production"]
 affiliate: "https://store.harrisonaudio.com/all-products/multiband-compressor"

@@ -1,6 +1,6 @@
 ---
 title: "iloudsub"
-description: "IK Multimedia's iLoud Sub is a compact powered studio subwoofer built to close the low-frequency gap in near-field monitoring setups. Prices aren't listed..."
+description: "IK Multimedia's iLoud Sub is a compact powered studio subwoofer built to close the low-frequency gap in near-field monitoring setups. Prices aren't listed"
 pubDate: "2026-04-22T11:32:17Z"
 tags: ["hardware", "studio-monitor", "music-production"]
 affiliate: "https://www.pluginboutique.com/manufacturers/410-IK-Multimedia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=iloudsub-4cb771"

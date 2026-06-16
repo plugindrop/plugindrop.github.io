@@ -175,6 +175,7 @@ At $119, Spire is the lowest-priced option in this comparison and the strongest 
 
 ---
 
+
 ## FAQ
 **Q: Is Phase Plant a like-for-like Serum replacement?**
 A: Phase Plant can reproduce everything in Serum's scope — wavetable oscillators, subtractive synthesis, deep modulation — and extends significantly beyond it with modular routing. It does not import Serum presets. Producer community discussions describe the transition as a meaningful learning investment that pays off for serious sound designers; less worthwhile for producers whose workflow is primarily preset-based.

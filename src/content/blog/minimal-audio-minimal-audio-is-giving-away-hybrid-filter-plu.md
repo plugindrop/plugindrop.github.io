@@ -1,6 +1,6 @@
 ---
 title: "Minimal Audio — Minimal Audio is giving away Hybrid Filter plugin for free. Expiry: Unknown [FREE]"
-description: "Minimal Audio is giving away Hybrid Filter at no cost — a multimode filter plugin now free to claim directly from the developer. No original price to..."
+description: "Minimal Audio is giving away Hybrid Filter at no cost — a multimode filter plugin now free to claim directly from the developer. No original price to strike"
 pubDate: "2026-05-02T05:49:02Z"
 tags: ["free", "minimal audio", "music-production"]
 affiliate: "https://www.minimal.audio/products/hybrid-filter"

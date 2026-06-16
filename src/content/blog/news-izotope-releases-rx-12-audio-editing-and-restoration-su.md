@@ -1,6 +1,6 @@
 ---
 title: "News: iZotope releases RX 12 audio editing and restoration suite"
-description: "iZotope has released RX 12, the latest update to its flagship audio repair and restoration platform. The new version adds machine learning-powered tools..."
+description: "iZotope has released RX 12, the latest update to its flagship audio repair and restoration platform. The new version adds machine learning-powered tools and"
 pubDate: "2026-04-30T04:00:59Z"
 tags: ["audio restoration", "editor", "izotope", "mastering", "mixing", "noise reduction", "post production", "real-time", "repair", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?search_query=izotope+rx.html&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-izotope-releases-rx-12-audio-editing-and-restoration-su"

@@ -1,6 +1,6 @@
 ---
 title: "How to Mix Drums with Plugins: Complete Step-by-Step Guide (2026)"
-description: "For drum mixing in 2026, FabFilter Pro-Q 4 handles the surgical EQ work that defines clarity and punch, while the Waves SSL G-Master Buss Compressor..."
+description: "For drum mixing in 2026, FabFilter Pro-Q 4 handles the surgical EQ work that defines clarity and punch, while the Waves SSL G-Master Buss Compressor delivers"
 pubDate: "2026-06-30T10:39:54Z"
 tags: ["guide", "vst", "drums"]
 affiliate: ""
@@ -12,6 +12,7 @@ draft: false
 priceTrack:
   - "FabFilter Pro-Q 4"
 ---
+
 **TL;DR:** For drum mixing in 2026, FabFilter Pro-Q 4 handles the surgical EQ work that defines clarity and punch, while the Waves SSL G-Master Buss Compressor delivers the bus glue that holds a kit together. Start with those two, add Transient Master for punch shaping, and grab OTT free for parallel density in electronic contexts — that chain covers every major drum mixing scenario.
 
 ---
@@ -216,6 +217,7 @@ A: OTT is primarily documented in electronic music contexts. For live-recorded a
 
 ---
 
+- [free guitar amp sim plugins](/posts/best-free-guitar-amp-vst/)
 ## Final Thoughts
 
 The drum mixing workflow this guide covers — EQ, transient shaping, bus compression, parallel density — is the sequence the community returns to because it addresses each problem at the correct stage. FabFilter Pro-Q 4 and the Waves SSL G-Master Buss Compressor are the two tools that appear most consistently across genre-specific and general-purpose drum mixing discussions; starting there is the practical recommendation for any producer. If you're working in an electronic music context, download OTT while you're at it — the community's enthusiasm for it on parallel drum buses is proportional to how well it works.

@@ -235,3 +235,6 @@ A: You need a proper limiter at minimum for delivery compliance — true peak li
 - [10 Best Mastering Limiter Plugins in 2026 (Ranked)](/posts/best-limiter-plugins-mastering/)
 - [iZotope Ozone 12 Review 2026: Best All-in-One Mastering Suite?](/posts/izotope-ozone-12-review/)
 - [Mastering Chain Plugins: Step-by-Step Pro Setup](/posts/mastering-chain-plugins/)
+
+- [stereo widening plugins](/posts/best-stereo-widener-plugins/)
+- [free guitar amp sim plugins](/posts/best-free-guitar-amp-vst/)

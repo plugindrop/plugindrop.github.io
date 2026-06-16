@@ -1,6 +1,6 @@
 ---
 title: "12 Best Saturation & Harmonic Exciter Plugins in 2026 — Ranked"
-description: "FabFilter Saturn 2 is the best saturation plugin in 2026 for producers who need precision — multiband control, 12 distortion modes, and surgical harmonic..."
+description: "FabFilter Saturn 2 is the best saturation plugin in 2026 for producers who need precision — multiband control, 12 distortion modes, and surgical harmonic"
 pubDate: "2026-05-14T18:10:19Z"
 tags: ["guide", "vst", "effects"]
 affiliate: ""

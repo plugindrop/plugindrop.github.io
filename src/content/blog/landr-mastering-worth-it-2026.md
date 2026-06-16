@@ -1,6 +1,6 @@
 ---
 title: "LANDR Mastering Review 2026: Is the Subscription Worth It?"
-description: "LANDR Mastering delivers fast, serviceable AI masters that work well for social media releases and high-volume distribution catalogs. For producers who..."
+description: "LANDR Mastering delivers fast, serviceable AI masters that work well for social media releases and high-volume distribution catalogs. For producers who care"
 pubDate: "2026-05-23T15:01:07Z"
 tags: ["guide", "vst", "mastering", "review"]
 affiliate: ""

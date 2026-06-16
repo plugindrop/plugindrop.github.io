@@ -1,6 +1,6 @@
 ---
 title: "New Synth Announcement - Queen Elmyra from Neutral Labs"
-description: "Neutral Labs has officially announced Queen Elmyra — a substantially expanded take on their acclaimed Elmyra2 hardware synthesizer, now heading to..."
+description: "Neutral Labs has officially announced Queen Elmyra — a substantially expanded take on their acclaimed Elmyra2 hardware synthesizer, now heading to"
 pubDate: "2026-05-01T16:09:43Z"
 tags: ["synth", "music-production"]
 affiliate: "https://www.youtube.com/watch"

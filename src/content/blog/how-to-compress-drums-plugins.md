@@ -9,6 +9,7 @@ score: 8.00
 heroImage: "/images/how-to-compress-drums-plugins.jpg"
 draft: false
 ---
+
 **TL;DR:** Drum compression has four distinct applications — individual drum channel compression for tone and character, bus compression for glue and punch, parallel compression for density without losing transients, and transient shaping for controlling attack and sustain separately. FabFilter Pro-C 2 handles all four; Klanghelm DC8C (free) covers the vintage compression character; Waves SSL G-Master Buss is the classic bus compressor model.
 
 ## Quick Picks at a Glance

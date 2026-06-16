@@ -1,6 +1,6 @@
 ---
 title: "41% Off Future Sound Deepfuturebass House Presets For Massive"
-description: "Future Sound's Deepfuturebass House Presets for Massive is down 41% at ADSR Sounds — ~~$39~~ **$23.03**. That's a solid discount on a dedicated deep..."
+description: "Future Sound's Deepfuturebass House Presets for Massive is down 41% at ADSR Sounds — ~~$39~~ $23.03. That's a solid discount on a dedicated deep future bass"
 pubDate: "2026-05-01T14:24:30Z"
 tags: ["sale", "preset-pack", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/massive-presets/future-sound-deepfuturebass-house-presets-for-massive/?a_aid=plugindrop&data1=future-sound-deepfuturebass-house-presets-for-massive-399464&utm_source=plugindrop&utm_medium=article&utm_campaign=future-sound-deepfuturebass-house-presets-for-massive-399464"

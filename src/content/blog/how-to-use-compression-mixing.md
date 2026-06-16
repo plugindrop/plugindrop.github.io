@@ -1,6 +1,6 @@
 ---
 title: "How to Use Compression Plugins: A Complete Mixing Guide (2026)"
-description: "TDR Kotelnikov is the strongest free starting point for transparent mixing compression, and FabFilter Pro-C 2 is the producer community's consensus pick..."
+description: "TDR Kotelnikov is the strongest free starting point for transparent mixing compression, and FabFilter Pro-C 2 is the producer community's consensus pick for"
 pubDate: "2026-06-25T22:39:54Z"
 tags: ["guide", "vst", "tutorials"]
 affiliate: ""
@@ -13,6 +13,7 @@ draft: false
 priceTrack:
   - "FabFilter Pro-C 2"
 ---
+
 **TL;DR:** TDR Kotelnikov is the strongest free starting point for transparent mixing compression, and FabFilter Pro-C 2 is the producer community's consensus pick for anyone who wants precise control and real-time visual feedback at every stage of a mix. For bus glue specifically, the Waves SSL G-Master Buss Compressor delivers the most-referenced console character in modern production at an entry-level price.
 
 ## Quick Picks at a Glance
@@ -224,6 +225,7 @@ A: The production community most commonly discusses 3–6dB as the transparent w
 
 ---
 
+- [stereo widening plugins](/posts/best-stereo-widener-plugins/)
 ## Final Thoughts
 
 For producers learning how to use compression plugins in mixing in 2026, the clearest path is TDR Kotelnikov for free transparent compression and FabFilter Pro-C 2 as the visual learning environment that makes compression decisions legible rather than guesswork — production community consensus across multiple forums consistently points to those two as the foundational pair. If you are building a mix bus chain specifically, the Waves SSL G-Master Buss Compressor at $29.99 delivers documented hardware character at a price that removes any justification for holding off.

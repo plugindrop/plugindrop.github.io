@@ -1,6 +1,6 @@
 ---
 title: "Pssst! Instruments — Get 46% off for Shhh 1+2 Bundle for Kontakt by Pssst Instruments"
-description: "The Shhh 1+2 Bundle by Pssst Instruments is currently **46% off** — drop from ~~$238~~ to **$128**, saving you $110 on two Kontakt instruments in one..."
+description: "The Shhh 1+2 Bundle by Pssst Instruments is currently 46% off — drop from ~~$238~~ to $128, saving you $110 on two Kontakt instruments in one shot. That"
 pubDate: "2026-04-21T05:38:07Z"
 tags: ["pssst instruments", "bundle", "music-production"]
 affiliate: "https://pssst-instruments.com/shhh_series_pack/"

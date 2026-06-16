@@ -1,7 +1,7 @@
 ---
 heroImage: "/images/fabfilter-pro-q-4-vs-izotope-neutron.jpg"
 title: "iZotope Neutron 4 Review 2026: Is AI-Assisted Mixing Actually Useful?"
-description: "iZotope Neutron 4 is the most complete AI-assisted channel strip on the market in 2026 — its Track Assistant and Unmask features alone justify the price..."
+description: "iZotope Neutron 4 is the most complete AI-assisted channel strip on the market in 2026 — its Track Assistant and Unmask features alone justify the price for"
 pubDate: "2026-05-07T10:10:19Z"
 tags: ["guide", "vst", "effects", "review"]
 affiliate: ""

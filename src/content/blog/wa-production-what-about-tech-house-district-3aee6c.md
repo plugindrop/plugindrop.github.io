@@ -1,6 +1,6 @@
 ---
 title: "60% Off Wa Production What About Tech House District"
-description: "Wa Production's What About Tech House District is currently 60% off at ADSR Sounds — drop from ~~$29.90~~ to just **$11.96**. That's a solid window to add..."
+description: "Wa Production's What About Tech House District is currently 60% off at ADSR Sounds — drop from ~~$29.90~~ to just $11.96. That's a solid window to add a"
 pubDate: "2026-04-22T01:12:08Z"
 tags: ["sale", "preset-pack", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/wa-production-what-about-tech-house-district/?a_aid=plugindrop&data1=wa-production-what-about-tech-house-district-3aee6c&utm_source=plugindrop&utm_medium=article&utm_campaign=wa-production-what-about-tech-house-district-3aee6c"

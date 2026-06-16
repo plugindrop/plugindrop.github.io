@@ -1,6 +1,6 @@
 ---
 title: "10 Best Strings & Orchestral VST Plugins in 2026 — Ranked"
-description: "Spitfire BBC Symphony Orchestra Core is the most consistently recommended premium strings library across composer forums in 2026 — professional-grade..."
+description: "Spitfire BBC Symphony Orchestra Core is the most consistently recommended premium strings library across composer forums in 2026 — professional-grade"
 pubDate: "2026-06-07T22:39:54Z"
 tags: ["guide", "vst", "instruments"]
 affiliate: ""

@@ -1,6 +1,6 @@
 ---
 title: "Explore Your Inner Space with Cherry Audio’s Free Crumar DS-2 Bank! – Sounds and Presets"
-description: "Inner Space is a free preset bank for Cherry Audio's Crumar DS-2, created by Soniccouture. It adds a focused set of curated sounds to one of Cherry..."
+description: "Inner Space is a free preset bank for Cherry Audio's Crumar DS-2, created by Soniccouture. It adds a focused set of curated sounds to one of Cherry Audio's"
 pubDate: "2026-04-29T16:54:22Z"
 tags: ["free", "columns", "airwave", "crumar ds-2", "je-8086", "jp-8000", "jp-8080", "kontakt", "patches", "pigments", "music-production"]
 affiliate: "https://www.thomann.de/intl/cherry_audio_crumar_ds_2.htm?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=explore-your-inner-space-with-cherry-audio-s-free-crumar-ds-"

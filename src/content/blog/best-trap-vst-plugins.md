@@ -1,6 +1,6 @@
 ---
 title: "12 Best VST Plugins for Trap Beats in 2026, Ranked (808s, Synths, FX)"
-description: "Serum is the most community-endorsed VST for trap production in 2026 — its wavetable engine handles 808 bass, leads, and pads in a single install, and..."
+description: "Serum is the most community-endorsed VST for trap production in 2026 — its wavetable engine handles 808 bass, leads, and pads in a single install, and"
 pubDate: "2026-05-20T14:22:38Z"
 tags: ["guide", "vst", "genre specific"]
 affiliate: ""

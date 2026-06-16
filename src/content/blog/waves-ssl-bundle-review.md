@@ -1,6 +1,6 @@
 ---
 title: "Waves SSL Bundle Review 2026: Are These Classic Console Emulations Worth It?"
-description: "The Waves SSL Bundle — anchored by the SSL E-Channel and SSL G-Master Buss Compressor — remains one of the most cost-effective ways to bring genuine SSL..."
+description: "The Waves SSL Bundle — anchored by the SSL E-Channel and SSL G-Master Buss Compressor — remains one of the most cost-effective ways to bring genuine SSL 4000"
 pubDate: "2026-05-08T02:10:19Z"
 tags: ["guide", "vst", "effects", "review"]
 affiliate: ""

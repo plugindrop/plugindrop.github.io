@@ -1,6 +1,6 @@
 ---
 title: "We (Altered State Machines) released 3 of our Modules on VCV Rack for free. Here's a crappy video announcing it!"
-description: "Altered State Machines has made three of their VCV Rack modules available at no cost — a straight free grab for modular synthesis enthusiasts. No trial..."
+description: "Altered State Machines has made three of their VCV Rack modules available at no cost — a straight free grab for modular synthesis enthusiasts. No trial"
 pubDate: "2026-04-29T18:48:55Z"
 tags: ["free", "synth", "music-production"]
 affiliate: "https://youtu.be/xVIjHaD8eAw"

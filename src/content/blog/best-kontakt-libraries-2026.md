@@ -1,6 +1,6 @@
 ---
 title: "15 Best Kontakt Libraries in 2026, Ranked (Free & Premium)"
-description: "Spitfire LABS is the mandatory free install for any producer touching sample-based instruments — the community consensus on this is about as unified as it..."
+description: "Spitfire LABS is the mandatory free install for any producer touching sample-based instruments — the community consensus on this is about as unified as it"
 pubDate: "2026-06-13T22:39:54Z"
 tags: ["guide", "vst", "free", "instruments"]
 affiliate: ""

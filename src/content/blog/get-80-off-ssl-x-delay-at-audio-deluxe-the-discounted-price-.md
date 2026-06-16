@@ -1,6 +1,6 @@
 ---
 title: "Get 80% off SSL X-Delay at Audio Deluxe"
-description: "SSL Native X-Delay — from Solid State Logic, makers of some of the most iconic recording consoles in history — is currently $19 at Audio Deluxe, an 80%..."
+description: "SSL Native X-Delay — from Solid State Logic, makers of some of the most iconic recording consoles in history — is currently $19 at Audio Deluxe, an 80%"
 pubDate: "2026-05-08T04:29:26Z"
 tags: ["music-production"]
 affiliate: "https://audiodeluxe.com/collections/software/products/solid-state-logic-ssl-native-x-delay"

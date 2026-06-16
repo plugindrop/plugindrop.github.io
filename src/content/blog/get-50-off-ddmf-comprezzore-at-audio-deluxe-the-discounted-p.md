@@ -1,6 +1,6 @@
 ---
 title: "Get 50% off DDMF Comprezzore at Audio Deluxe"
-description: "DDMF Comprezzore is currently 50% off at Audio Deluxe — available now for **$39.50**. The original regular price isn't displayed publicly, so verify it on..."
+description: "DDMF Comprezzore is currently 50% off at Audio Deluxe — available now for $39.50. The original regular price isn't displayed publicly, so verify it on the"
 pubDate: "2026-04-22T23:26:53Z"
 tags: ["music-production"]
 affiliate: "https://audiodeluxe.com/collections/software/products/ddmf-comprezzore"

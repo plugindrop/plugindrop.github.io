@@ -93,6 +93,7 @@ Free plugins match or exceed paid in:
 2. **Learning** — Free plugins teach the same synthesis, EQ, and reverb concepts as paid ones
 3. **CPU efficiency** — Many free plugins are lighter on resources than their paid alternatives
 
+
 ## FAQ
 
 **Q: Should beginners start with free or paid plugins?**

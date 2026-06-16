@@ -9,12 +9,8 @@ score: 8.00
 heroImage: "/images/how-to-eq-bass-guitar-plugins.jpg"
 draft: false
 ---
+
 **TL;DR:** Bass EQ is the most consequential mix decision for translation on different playback systems — getting the low end wrong makes the mix sound too heavy on subwoofers and inaudible on laptop speakers simultaneously. This guide covers the four key steps: identifying the fundamental and harmonic content, cutting sub-bass mud, sidechaining with the kick for frequency separation, and using saturation to add presence on small speakers.
-
-
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/uMrRsEEbZwU" title="4 Best Bass Guitar VST Plugins 2025! (FREE + Paid)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 ## Quick Picks at a Glance
 

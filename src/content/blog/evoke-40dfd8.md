@@ -1,6 +1,6 @@
 ---
 title: "50% Off Evoke"
-description: "Evoke is currently 50% off at Plugin Boutique — dropping from ~~$129.00~~ to **$64.50**. That's a solid $64.50 in savings on a dedicated vocal processing..."
+description: "Evoke is currently 50% off at Plugin Boutique — dropping from ~~$129.00~~ to $64.50. That's a solid $64.50 in savings on a dedicated vocal processing plugin."
 pubDate: "2026-05-08T03:59:58Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15793-Evoke?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evoke-40dfd8"

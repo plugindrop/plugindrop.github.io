@@ -1,6 +1,6 @@
 ---
 title: "Trap Legends Bundle by T-KID The Producer: 8 Trap & Hip Hop packs for $25"
-description: "Eight trap and hip hop sample packs for a flat $25 — that breaks down to roughly $3.13 per pack. If you're building out your trap library without blowing..."
+description: "Eight trap and hip hop sample packs for a flat $25 — that breaks down to roughly $3.13 per pack. If you're building out your trap library without blowing"
 pubDate: "2026-04-21T12:43:02Z"
 tags: ["samples and presets", "hip-hop", "sale", "trap", "bundle", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/trap-legends-bundle-by-tkid-the-producer-8-trap-hip-hop-sample-packs-for-25/?a_aid=plugindrop&utm_source=plugindrop&utm_medium=article&utm_campaign=trap-legends-bundle-by-t-kid-the-producer-8-trap-hip-hop-pac"

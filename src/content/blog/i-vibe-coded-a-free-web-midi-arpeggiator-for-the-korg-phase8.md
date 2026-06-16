@@ -1,6 +1,6 @@
 ---
 title: "i vibe-coded a free web-midi arpeggiator for the korg phase8"
-description: "A developer built a free, browser-based Web MIDI arpeggiator purpose-built for the Korg Phase8 — no DAW required. It handles STATIC and FREQUENCY modes..."
+description: "A developer built a free, browser-based Web MIDI arpeggiator purpose-built for the Korg Phase8 — no DAW required. It handles STATIC and FREQUENCY modes out"
 pubDate: "2026-05-01T10:49:48Z"
 tags: ["free", "synth", "music-production"]
 affiliate: "https://johnusher.github.io/Arp8/"

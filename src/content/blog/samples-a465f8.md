@@ -1,6 +1,6 @@
 ---
 title: "samples"
-description: "Audentity Records' *Hard Delta Techno* sample pack has dropped to **$4.99** (down from ~~$12.99~~) on Splice — that's more than 60% off a pack built for..."
+description: "Audentity Records' Hard Delta Techno sample pack has dropped to $4.99 (down from ~~$12.99~~) on Splice — that's more than 60% off a pack built for producers"
 pubDate: "2026-04-22T09:32:13Z"
 tags: ["vst-plugin", "music-production"]
 affiliate: "https://splice.com/sounds/packs/audentity/hard-delta-techno/samples?utm_source=plugindrop&utm_medium=article&utm_campaign=samples-a465f8"

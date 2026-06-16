@@ -1,6 +1,6 @@
 ---
 title: "47% Off SplitEQ"
-description: "Eventide SplitEQ is down 47% at Plugin Boutique — ~~$163.90~~ **$86.90**, saving you $77 on one of the most distinctive EQ concepts on the market. If..."
+description: "Eventide SplitEQ is down 47% at Plugin Boutique — ~~$163.90~~ $86.90, saving you $77 on one of the most distinctive EQ concepts on the market. If you've been"
 pubDate: "2026-05-07T05:05:38Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804"

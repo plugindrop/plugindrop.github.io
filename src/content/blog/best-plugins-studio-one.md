@@ -1,6 +1,6 @@
 ---
 title: "12 Best Third-Party Plugins for Studio One Users in 2026 — Ranked"
-description: "FabFilter Pro-Q 4 is the most defensible first purchase for Studio One producers — its dynamic EQ addresses a real gap in the native toolset that PreSonus..."
+description: "FabFilter Pro-Q 4 is the most defensible first purchase for Studio One producers — its dynamic EQ addresses a real gap in the native toolset that PreSonus"
 pubDate: "2026-05-13T10:39:54Z"
 tags: ["guide", "vst", "daw specific"]
 affiliate: ""

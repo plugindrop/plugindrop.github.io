@@ -9,12 +9,8 @@ score: 8.00
 heroImage: "/images/how-to-master-with-izotope-ozone.jpg"
 draft: false
 ---
+
 **TL;DR:** iZotope Ozone 12 is the most complete mastering suite available — its Master Assistant AI creates a starting point in seconds, but the real value is in learning to refine it manually. This guide covers every step from initial analysis through EQ, dynamics, imaging, and Maximizer settings for streaming delivery. The process applies to all Ozone 12 tiers; Advanced-specific features are noted where they apply.
-
-
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/SJxHDbvfQgs" title="iZotope OZONE 12 – The Next Level of MASTERING?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 ## Quick Picks at a Glance
 

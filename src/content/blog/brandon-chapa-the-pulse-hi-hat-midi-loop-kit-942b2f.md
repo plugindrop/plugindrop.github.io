@@ -1,6 +1,6 @@
 ---
 title: "67% Off Brandon Chapa The Pulse Hi Hat Midi Loop Kit"
-description: "Brandon Chapa's The Pulse Hi Hat Midi Loop Kit is currently 58% off at ADSR Sounds — drop from ~~$59.99~~ to just $24.99. That's $35 in savings on a..."
+description: "Brandon Chapa's The Pulse Hi Hat Midi Loop Kit is currently 58% off at ADSR Sounds — drop from ~~$59.99~~ to just $24.99. That's $35 in savings on a"
 pubDate: "2026-04-22T13:33:31Z"
 tags: ["sale", "preset-pack", "sample-pack-deal", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/brandon-chapa-the-pulse-hi-hat-midi-loop-kit/?a_aid=plugindrop&data1=brandon-chapa-the-pulse-hi-hat-midi-loop-kit-942b2f&utm_source=plugindrop&utm_medium=article&utm_campaign=brandon-chapa-the-pulse-hi-hat-midi-loop-kit-942b2f"

@@ -1,6 +1,6 @@
 ---
 title: "Expressive Synths 01"
-description: "Expressive Synths 01 is a synth-focused WAV sample pack available at a deal price on ADSR Sounds. If you're building melodic, atmospheric, or electronic..."
+description: "Expressive Synths 01 is a synth-focused WAV sample pack available at a deal price on ADSR Sounds. If you're building melodic, atmospheric, or electronic"
 pubDate: "2026-04-18T23:47:00Z"
 tags: ["sale", "music-production", "synth"]
 affiliate: "https://www.adsrsounds.com/product/wav-samples/expressive-synths-01/?a_aid=plugindrop&utm_source=plugindrop&utm_medium=article&utm_campaign=expressive-synths-01-adsr-deal-529d86"

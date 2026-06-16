@@ -1,6 +1,6 @@
 ---
 title: "Lindell Audio 7X-500"
-description: "The Lindell Audio 7X-500 compressor plugin is available now at Plugin Boutique — check the current deal price (~~full price~~ → discounted) before it..."
+description: "The Lindell Audio 7X-500 compressor plugin is available now at Plugin Boutique — check the current deal price (~~full price~~ → discounted) before it"
 pubDate: "2026-04-19T00:21:57Z"
 tags: ["sale", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/14585-Lindell-Audio-7X-500?utm_source=plugindrop&utm_medium=article&utm_campaign=lindell-audio-7x-500-403df6&a_aid=69cb95abe1763"

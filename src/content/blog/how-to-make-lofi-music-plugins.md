@@ -1,6 +1,6 @@
 ---
 title: "How to Make Lo-Fi Music: Complete Plugin Guide for That Vintage Sound (2026)"
-description: "iZotope Vinyl is the most-recommended free vinyl simulator in producer communities and the natural first stop for anyone learning how to make lo-fi music..."
+description: "iZotope Vinyl is the most-recommended free vinyl simulator in producer communities and the natural first stop for anyone learning how to make lo-fi music"
 pubDate: "2026-06-28T22:39:54Z"
 tags: ["guide", "vst", "tutorials"]
 affiliate: ""
@@ -10,6 +10,7 @@ xText: "New guide: How to Make Lo-Fi Music: Complete Plugin Guide for That Vint.
 heroImage: "/images/how-to-make-lofi-music-plugins.jpg"
 draft: false
 ---
+
 **TL;DR:** iZotope Vinyl is the most-recommended free vinyl simulator in producer communities and the natural first stop for anyone learning how to make lo-fi music with VST plugins in 2026. For a complete lo-fi character suite in a single plugin, RC-20 Retro Color is the paid standard the community consistently returns to. This guide builds the full chain: vinyl texture, reverb, tape delay, and synthesis.
 
 ---

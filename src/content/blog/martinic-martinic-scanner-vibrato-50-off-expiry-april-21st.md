@@ -1,6 +1,6 @@
 ---
 title: "Martinic — Martinic Scanner Vibrato 50% off"
-description: "Martinic's Scanner Vibrato plugin is currently 50% off at their official store — a rare discount from a developer that doesn't run sales often. Verify..."
+description: "Martinic's Scanner Vibrato plugin is currently 50% off at their official store — a rare discount from a developer that doesn't run sales often. Verify"
 pubDate: "2026-04-21T07:33:55Z"
 tags: ["martinic", "music-production"]
 affiliate: "https://www.martinic.com/products/scanner-vibrato/"

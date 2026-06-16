@@ -1,6 +1,6 @@
 ---
 title: "DataMind Audio — PLUGINDEALS.NET EXCLUSIVE: Get 15% off anything from Datamind Audio with code DMATAKE15OFF (use in the cart)"
-description: "PLUGINDEALS.NET is running an exclusive 15% off sitewide deal at DataMind Audio — use code **DMATAKE15OFF** at checkout. No specific end date is..."
+description: "PLUGINDEALS.NET is running an exclusive 15% off sitewide deal at DataMind Audio — use code DMATAKE15OFF at checkout. No specific end date is announced, so"
 pubDate: "2026-04-21T07:33:32Z"
 tags: ["datamind audio", "music-production"]
 affiliate: "https://plugindeals.net/ext/datamind-social"

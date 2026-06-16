@@ -1,6 +1,6 @@
 ---
 title: "10 Best Stereo Widener & Imager Plugins in 2026 — Ranked"
-description: "Wider by Polyverse is the best free stereo widener VST in 2026 — it's completely free, phase-coherent, and passes mono checks without artifacts. For..."
+description: "Best stereo widener VST plugins in 2026 — free and paid, ranked. Wider (Polyverse), Ozone Imager, Nugen Stereoizer: which keeps mono compatibility and how to widen without phase issues."
 pubDate: "2026-05-16T18:10:19Z"
 tags: ["guide", "vst", "effects"]
 affiliate: ""

@@ -1,6 +1,6 @@
 ---
 title: "Dustons — Dustons May Sale: Up To 80% Off Entire Store"
-description: "Dustons is running their May Sale with up to 80% off sitewide — entry-level picks start at $9.97 (down from ~~$19.95~~). If titles from their catalog have..."
+description: "Dustons is running their May Sale with up to 80% off sitewide — entry-level picks start at $9.97 (down from ~~$19.95~~). If titles from their catalog have"
 pubDate: "2026-05-01T07:24:04Z"
 tags: ["dustons", "music-production"]
 affiliate: "https://dustons.com/maysale"

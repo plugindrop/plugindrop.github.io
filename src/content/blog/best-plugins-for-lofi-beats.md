@@ -1,6 +1,6 @@
 ---
 title: "12 Best VST Plugins for Lo-Fi Beats in 2026, Ranked (Free & Paid)"
-description: "iZotope Vinyl is the most-recommended free lo-fi plugin in producer communities — it has been in continuous free distribution since 2002 and targets the..."
+description: "iZotope Vinyl is the most-recommended free lo-fi plugin in producer communities — it has been in continuous free distribution since 2002 and targets the"
 pubDate: "2026-05-26T22:39:54Z"
 tags: ["guide", "vst", "genre specific"]
 affiliate: ""

@@ -1,6 +1,6 @@
 ---
 title: "15 Best VST Plugins for EDM Production in 2026 — Ranked"
-description: "Serum remains the most consistently recommended wavetable synthesizer in EDM production communities heading into 2026, and nothing has displaced it. For..."
+description: "Serum remains the most consistently recommended wavetable synthesizer in EDM production communities heading into 2026, and nothing has displaced it. For"
 pubDate: "2026-05-29T22:39:54Z"
 tags: ["guide", "vst", "genre specific"]
 affiliate: ""

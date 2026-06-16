@@ -1,6 +1,6 @@
 ---
 title: "85% Off Gold Bundle"
-description: "The Gold Bundle on Plugin Boutique is currently 80% off — down to just $159.00 from ~~$799.00~~, saving you $640. That's a significant chunk of tools for..."
+description: "The Gold Bundle on Plugin Boutique is currently 80% off — down to just $159.00 from ~~$799.00~~, saving you $640. That's a significant chunk of tools for a"
 pubDate: "2026-05-08T05:18:35Z"
 tags: ["sale", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12534-Gold-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=gold-bundle-4143f5"

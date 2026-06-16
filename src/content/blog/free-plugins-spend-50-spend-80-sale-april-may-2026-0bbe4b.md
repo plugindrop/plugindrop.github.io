@@ -1,6 +1,6 @@
 ---
 title: "free plugins spend 50 spend 80 sale april may 2026"
-description: "Waves is running a Beat Makers Sale through April–May 2026, with free plugins unlocked at two spend thresholds — hit $50 or $80 in qualifying purchases..."
+description: "Waves is running a Beat Makers Sale through April–May 2026, with free plugins unlocked at two spend thresholds — hit $50 or $80 in qualifying purchases and a"
 pubDate: "2026-04-29T15:18:49Z"
 tags: ["free", "vst-plugin", "music-production"]
 affiliate: "https://www.waves.com/free-plugins-spend-50-spend-80-sale-april-may-2026?utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugins-spend-50-spend-80-sale-april-may-2026-0bbe4b"

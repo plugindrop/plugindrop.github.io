@@ -1,6 +1,6 @@
 ---
 title: "15 Best VST Plugins for Reaper Users in 2026, Ranked (Free & Paid)"
-description: "Vital and Valhalla Supermassive give Reaper users world-class synthesis and reverb at zero cost — both are community-consensus picks that outperform many..."
+description: "Vital and Valhalla Supermassive give Reaper users world-class synthesis and reverb at zero cost — both are community-consensus picks that outperform many"
 pubDate: "2026-07-12T10:39:54Z"
 tags: ["guide", "vst", "daw specific"]
 affiliate: ""

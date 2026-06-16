@@ -1,6 +1,6 @@
 ---
 title: "u-he Plugins: Which Ones Are Worth Buying in 2026? (Diva, Repro, Hive)"
-description: "u-he builds some of the most acoustically faithful virtual instruments on the market, and the lineup justifies the price for producers who are serious..."
+description: "u-he builds some of the most acoustically faithful virtual instruments on the market, and the lineup justifies the price for producers who are serious about"
 pubDate: "2026-05-16T08:22:38Z"
 tags: ["guide", "vst", "instruments"]
 affiliate: ""

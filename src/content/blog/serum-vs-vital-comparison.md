@@ -202,6 +202,7 @@ Once you've outgrown the standard wavetable paradigm, these tools push synthesis
 
 ---
 
+
 ## FAQ
 **Q: Is Vital actually as good as Serum, or is it just a free alternative?**
 A: Vital is genuinely competitive with Serum — not just "good for free." Its spectral morphing, larger LFO count, and FM-capable modulation system give it real advantages in specific use cases. The free version alone is better than many paid wavetable synths.

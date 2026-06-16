@@ -198,3 +198,5 @@ A: The bundle includes over 40 free plugins, so the value proposition is real if
 - [Valhalla VintageVerb Review: The $50 Reverb That Wins](/posts/valhalla-vintageverb-review/)
 - [15 Best Mixing Plugins in 2026 (Free & Paid, Ranked)](/posts/best-mixing-plugins-2026/)
 - [10 Best Mastering Limiter Plugins in 2026 (Ranked)](/posts/best-limiter-plugins-mastering/)
+
+- [stereo widening plugins](/posts/best-stereo-widener-plugins/)

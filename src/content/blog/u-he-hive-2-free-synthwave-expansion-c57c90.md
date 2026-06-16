@@ -1,6 +1,6 @@
 ---
 title: "u he Hive 2 FREE Synthwave Expansion"
-description: "u-he Hive 2 is currently bundled with a free Synthwave Expansion at Plugin Boutique for ~~$167.42~~ $149.00 — saving $18.42 on a combined package that..."
+description: "u-he Hive 2 is currently bundled with a free Synthwave Expansion at Plugin Boutique for ~~$167.42~~ $149.00 — saving $18.42 on a combined package that would"
 pubDate: "2026-04-27T10:40:25Z"
 tags: ["free", "effects", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/7683-u-he-Hive-2-FREE-Synthwave-Expansion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-hive-2-free-synthwave-expansion-c57c90"

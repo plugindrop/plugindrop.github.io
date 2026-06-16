@@ -1,6 +1,6 @@
 ---
 title: "NAP Works Devious Pocket Is a Standalone DVS Device – No More Laptops?"
-description: "NAP Works is making waves with the Devious Pocket — a standalone DVS device that promises to cut the laptop entirely from your vinyl DJ setup. No prices..."
+description: "NAP Works is making waves with the Devious Pocket — a standalone DVS device that promises to cut the laptop entirely from your vinyl DJ setup. No prices"
 pubDate: "2026-04-22T01:55:44Z"
 tags: ["devious pocket", "dj", "dvs", "serato", "video", "youtube", "music-production"]
 affiliate: "https://www.thomann.de/intl/rane_serato_vinyl_black.htm?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=nap-works-devious-pocket-is-a-standalone-dvs-device-no-more-"

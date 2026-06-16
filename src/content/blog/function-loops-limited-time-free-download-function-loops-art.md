@@ -1,6 +1,6 @@
 ---
 title: "Function Loops — Limited time free download: Function Loops Artist Series Showcase, regularly $135"
-description: "Function Loops Artist Series Showcase — normally ~~$135~~ — is available as a **free limited-time download**. That's a full-priced, professionally..."
+description: "Function Loops Artist Series Showcase — normally ~~$135~~ — is available as a free limited-time download. That's a full-priced, professionally produced"
 pubDate: "2026-04-22T06:01:24Z"
 tags: ["free", "freeaudioplugins", "function loops", "music-production"]
 affiliate: "https://audioplugin.deals/product/limited-free-download-function-loops-artist-series-showcase/ref/21/"

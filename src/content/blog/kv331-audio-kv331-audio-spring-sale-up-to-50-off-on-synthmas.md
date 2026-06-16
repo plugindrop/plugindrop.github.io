@@ -1,6 +1,6 @@
 ---
 title: "KV331 Audio — KV331 Audio Spring Sale - up to 50% off on Synthmaster synths and expansions"
-description: "KV331 Audio's Spring Sale drops select Synthmaster synths and expansions to ~~$24.99~~ **$19.99**, with the broader sale reaching up to 50% off across the..."
+description: "KV331 Audio's Spring Sale drops select Synthmaster synths and expansions to ~~$24.99~~ $19.99, with the broader sale reaching up to 50% off across the"
 pubDate: "2026-04-26T01:08:25Z"
 tags: ["kv331 audio", "synth", "music-production"]
 affiliate: "https://www.kv331audio.com/index.aspx"

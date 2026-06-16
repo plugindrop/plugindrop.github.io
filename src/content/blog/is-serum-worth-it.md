@@ -1,6 +1,6 @@
 ---
 title: "Is Serum Worth It in 2026? An Honest Look After 10 Years"
-description: "Serum is still the industry-standard wavetable synth in 2026 — its workflow, preset ecosystem, and visual feedback loop are unmatched for serious..."
+description: "Serum is still the industry-standard wavetable synth in 2026 — its workflow, preset ecosystem, and visual feedback loop are unmatched for serious producers."
 pubDate: "2026-05-09T10:10:19Z"
 tags: ["guide", "vst", "instruments"]
 affiliate: ""

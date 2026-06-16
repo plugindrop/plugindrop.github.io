@@ -156,6 +156,7 @@ Auto-Tune Pro is sold as one full-featured product with a perpetual license or s
 
 ---
 
+
 ## FAQ
 **Q: Can I use both Melodyne and Auto-Tune in the same session?**
 A: Yes, and many professional engineers do. A common workflow is using Auto-Tune Pro in Graph mode for quick vocal corrections mid-session, then switching to Melodyne for detailed cleanup passes or on any polyphonic content like backing guitar or piano. They are not mutually exclusive — they solve different problems.

@@ -1,6 +1,6 @@
 ---
 title: "release notes"
-description: "Toontrack has published new release notes covering updates across their software lineup. Whether you're running EZdrummer, Superior Drummer, or any of..."
+description: "Toontrack has published new release notes covering updates across their software lineup. Whether you're running EZdrummer, Superior Drummer, or any of their"
 pubDate: "2026-05-02T14:42:43Z"
 tags: ["vst-plugin", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?search_query=release+notes&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=release-notes-54c82c"

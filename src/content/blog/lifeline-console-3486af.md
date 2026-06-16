@@ -1,6 +1,6 @@
 ---
 title: "51% Off Lifeline Console"
-description: "Lifeline Console is down to **$39** (from ~~$79~~) at Plugin Boutique — that's 51% off a well-regarded analog console channel strip. If you've been..."
+description: "Lifeline Console is down to $39 (from ~~$79~~) at Plugin Boutique — that's 51% off a well-regarded analog console channel strip. If you've been sitting on"
 pubDate: "2026-05-07T10:54:47Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/9066-Lifeline-Console?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-console-3486af"

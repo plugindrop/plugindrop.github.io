@@ -1,6 +1,6 @@
 ---
 title: "10 Best Multiband Compressor Plugins in 2026, Ranked (Mixing & Mastering)"
-description: "FabFilter Pro-MB is the definitive multiband compressor VST in 2026 — its dynamic EQ hybrid mode, zero-latency processing, and visual clarity make it the..."
+description: "FabFilter Pro-MB is the definitive multiband compressor VST in 2026 — its dynamic EQ hybrid mode, zero-latency processing, and visual clarity make it the top"
 pubDate: "2026-05-16T02:10:19Z"
 tags: ["guide", "vst", "effects", "compressor"]
 affiliate: ""

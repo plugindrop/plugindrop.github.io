@@ -1,6 +1,6 @@
 ---
 title: "Get 73% off UVI Retro Organ Suite at Audio Deluxe"
-description: "UVI Retro Organ Suite is currently **73% off at just $39** at Audio Deluxe — a steep discount on a multi-instrument vintage organ collection that rarely..."
+description: "UVI Retro Organ Suite is currently 73% off at just $39 at Audio Deluxe — a steep discount on a multi-instrument vintage organ collection that rarely sees"
 pubDate: "2026-04-25T19:06:23Z"
 tags: ["bundle", "music-production"]
 affiliate: "https://audiodeluxe.com/collections/software/products/uvi-retro-organ-suite"

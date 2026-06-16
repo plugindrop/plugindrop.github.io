@@ -1,6 +1,6 @@
 ---
 title: "Get 67% off Universal Audio UAD Select 2 Bundle at Audio Deluxe"
-description: "Universal Audio's UAD Select 2 Bundle is currently **67% off at Audio Deluxe**, dropping to just **$49**. That's a serious discount on a plugin collection..."
+description: "Universal Audio's UAD Select 2 Bundle is currently 67% off at Audio Deluxe, dropping to just $49. That's a serious discount on a plugin collection from one"
 pubDate: "2026-04-23T23:42:56Z"
 tags: ["bundle", "music-production"]
 affiliate: "https://audiodeluxe.com/collections/software/products/universal-audio-uad-select-2-bundle"

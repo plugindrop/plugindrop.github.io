@@ -1,6 +1,6 @@
 ---
 title: "Orchestral Tools — Orchestral Tools has released Lyra, a pluck string instruments library for the free Sine Player. The intro is 20% off"
-description: "Orchestral Tools has launched Lyra, a dedicated pluck string instruments library for the free Sine Player, at an introductory price of $149 — 20% off its..."
+description: "Orchestral Tools has launched Lyra, a dedicated pluck string instruments library for the free Sine Player, at an introductory price of $149 — 20% off its"
 pubDate: "2026-04-29T10:00:40Z"
 tags: ["free", "orchestral tools", "music-production"]
 affiliate: "https://www.orchestraltools.com/lyra"

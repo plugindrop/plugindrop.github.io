@@ -271,3 +271,5 @@ The complete mastering chain outlined here — SPAN for analysis, FabFilter Pro-
 - [Best Limiter Plugins for Mastering 2026](/posts/best-limiter-plugins-mastering/)
 - [iZotope Ozone 12 Review 2026: Still the Mastering King?](/posts/izotope-ozone-12-review/)
 - [FabFilter Pro-C 2 Review 2026: Best Transparent Compressor?](/posts/fabfilter-pro-c-2-review/)
+
+- [stereo widening plugins](/posts/best-stereo-widener-plugins/)

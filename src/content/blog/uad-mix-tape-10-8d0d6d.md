@@ -1,6 +1,6 @@
 ---
 title: "Uad Mix Tape 10"
-description: "UAD Mix Tape 10 is available for **$99** — a curated bundle of Universal Audio's acclaimed plugin emulations at a fraction of buying them individually..."
+description: "UAD Mix Tape 10 is available for $99 — a curated bundle of Universal Audio's acclaimed plugin emulations at a fraction of buying them individually. Original"
 pubDate: "2026-04-22T07:45:38Z"
 tags: ["vst-plugin", "music-production"]
 affiliate: "https://www.pluginboutique.com/manufacturers/15-Universal-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-10-8d0d6d"

@@ -1,6 +1,6 @@
 ---
 title: "ToneLib — Tonelib Spring Sale Part II: Get up to 60% Off All ToneLib Products and Bundles"
-description: "ToneLib is running Spring Sale Part II with up to 60% off their full lineup of guitar software — including individual plugins and bundles. If you've been..."
+description: "ToneLib is running Spring Sale Part II with up to 60% off their full lineup of guitar software — including individual plugins and bundles. If you've been"
 pubDate: "2026-04-26T02:05:06Z"
 tags: ["tonelib", "bundle", "music-production"]
 affiliate: "https://tonelib.net/purchase.html"

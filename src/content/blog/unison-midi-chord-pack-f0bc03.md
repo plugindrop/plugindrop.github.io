@@ -1,6 +1,6 @@
 ---
 title: "Unison MIDI Chord Pack"
-description: "The Unison MIDI Chord Pack is live at Unison Audio for **$47** — a straightforward pickup if you want a ready-to-use chord library in your DAW. No..."
+description: "The Unison MIDI Chord Pack is live at Unison Audio for $47 — a straightforward pickup if you want a ready-to-use chord library in your DAW. No original price"
 pubDate: "2026-04-23T23:42:57Z"
 tags: ["unison", "sample-pack", "sample-pack-deal", "music-production"]
 affiliate: "https://unison.audio/ref/jc374/product/unison-iced-out-collection-for-serum-vol-1/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-chord-pack-f0bc03"

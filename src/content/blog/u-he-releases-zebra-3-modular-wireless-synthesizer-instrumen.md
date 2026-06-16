@@ -1,6 +1,6 @@
 ---
 title: "u-he releases Zebra 3 modular wireless synthesizer instrument"
-description: "u-he has officially launched Zebra 3, the long-awaited successor to the iconic Zebra 2 wireless modular synthesizer. Zebra 2 built a cult following over..."
+description: "u-he has officially launched Zebra 3, the long-awaited successor to the iconic Zebra 2 wireless modular synthesizer. Zebra 2 built a cult following over"
 pubDate: "2026-04-20T11:06:36Z"
 tags: ["sale", "instruments", "clap", "synth", "u-he", "zebra", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?search_query=zebra3&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen"

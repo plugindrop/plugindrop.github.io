@@ -1,6 +1,6 @@
 ---
 title: "Sample Logic — Get 80% off ELECTRO CITY by Sample Logic for $59.99 (Normally $299.99)"
-description: "ELECTRO CITY by Sample Logic is currently 80% off — drop from ~~$299.99~~ to just $59.99. That's $240 in savings on a cinematic electronic instrument..."
+description: "ELECTRO CITY by Sample Logic is currently 80% off — drop from ~~$299.99~~ to just $59.99. That's $240 in savings on a cinematic electronic instrument built"
 pubDate: "2026-04-22T01:04:33Z"
 tags: ["sample logic", "music-production"]
 affiliate: "https://audioplugin.deals/product/electro-city-sample-logic/ref/21/"

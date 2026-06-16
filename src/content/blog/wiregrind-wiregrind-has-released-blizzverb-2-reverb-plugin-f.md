@@ -1,6 +1,6 @@
 ---
 title: "WireGrind — WireGrind has released BlizzVerb 2 reverb plugin for Windows. The intro is 40% off"
-description: "BlizzVerb 2 is available at ~~$50~~ **$29** — that's 42% off as an intro deal, valid until April 23, 2026. A Windows VST3 reverb with acoustic modeling..."
+description: "BlizzVerb 2 is available at ~~$50~~ $29 — that's 42% off as an intro deal, valid until April 23, 2026. A Windows VST3 reverb with acoustic modeling and 1,000"
 pubDate: "2026-04-20T06:09:41Z"
 tags: ["sale", "wiregrind", "music-production"]
 affiliate: "https://www.wiregrind.com/blizzverb/"

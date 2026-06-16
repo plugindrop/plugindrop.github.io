@@ -1,6 +1,6 @@
 ---
 title: "LALAL.AI — Get 30% off LALAL.AI Pro subscription (incl. VST plugin) with code: AUDIOPLUGINGUY"
-description: "LALAL.AI's Pro subscription — including VST plugin access — is currently 30% off with code **AUDIOPLUGINGUY** at checkout. The discount applies directly..."
+description: "LALAL.AI's Pro subscription — including VST plugin access — is currently 30% off with code AUDIOPLUGINGUY at checkout. The discount applies directly on the"
 pubDate: "2026-04-28T16:43:57Z"
 tags: ["lalalai", "music-production"]
 affiliate: "https://www.lalal.ai/pricing/"

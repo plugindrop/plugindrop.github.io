@@ -1,6 +1,6 @@
 ---
 title: "FabFilter Pro-Q 4 Review: Is It Still the Best EQ Plugin in 2026?"
-description: "FabFilter Pro-Q 4 remains the benchmark parametric EQ in 2026 — no competitor has matched its combination of surgical precision, dynamic EQ, mid/side..."
+description: "FabFilter Pro-Q 4 remains the benchmark parametric EQ in 2026 — no competitor has matched its combination of surgical precision, dynamic EQ, mid/side"
 pubDate: "2026-04-24T05:06:41Z"
 tags: ["guide", "vst", "effects", "review"]
 affiliate: ""

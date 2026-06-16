@@ -1,6 +1,6 @@
 ---
 title: "lo fi hip hop ezkeys midi"
-description: "Lo-Fi Hip Hop EZkeys MIDI is currently part of a Toontrack new-release promotion with up to 25% off EZkeys 2 content — a solid entry point into..."
+description: "Lo-Fi Hip Hop EZkeys MIDI is currently part of a Toontrack new-release promotion with up to 25% off EZkeys 2 content — a solid entry point into Toontrack's"
 pubDate: "2026-04-28T13:53:43Z"
 tags: ["vst-plugin", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?search_query=lo+fi+hip+hop+ezkeys+midi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lo-fi-hip-hop-ezkeys-midi-d96569"

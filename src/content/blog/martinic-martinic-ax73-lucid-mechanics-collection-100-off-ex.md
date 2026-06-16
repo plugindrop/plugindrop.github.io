@@ -1,6 +1,6 @@
 ---
 title: "Martinic — Martinic AX73 Lucid Mechanics Collection 100% off. Expiry: Unknown [FREE]"
-description: "The Martinic AX73 Lucid Mechanics Collection is currently free via Martinic's Bandcamp store — grab a preset expansion for the AX73 vintage synthesizer..."
+description: "The Martinic AX73 Lucid Mechanics Collection is currently free via Martinic's Bandcamp store — grab a preset expansion for the AX73 vintage synthesizer"
 pubDate: "2026-05-01T17:16:20Z"
 tags: ["free", "martinic", "bundle", "music-production"]
 affiliate: "https://www.martinic.com/bandcamp"

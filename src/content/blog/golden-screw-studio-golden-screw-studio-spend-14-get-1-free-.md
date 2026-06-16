@@ -1,6 +1,6 @@
 ---
 title: "Golden Screw Studio — Golden Screw Studio – Spend $14 get 1 free pack"
-description: "Golden Screw Studio is running a \"spend $14, get 1 free pack\" promo — one of the lowest spend-to-free ratios in the sample market right now. A larger..."
+description: "Golden Screw Studio is running a "spend $14, get 1 free pack" promo — one of the lowest spend-to-free ratios in the sample market right now. A larger bundle"
 pubDate: "2026-04-22T06:12:55Z"
 tags: ["free", "freeaudioplugins", "golden screw studio", "music-production"]
 affiliate: "https://goldenscrewstudio.com/product-category/deals/"

@@ -1,6 +1,6 @@
 ---
 title: "VISION 4X Crossgrade from any Excite Audio Product LTD Time Offer"
-description: "VISION 4X by Excite Audio is available as a crossgrade for $39.00 — down from ~~$89.00~~ — a 56% saving for any existing Excite Audio customer. This is a..."
+description: "VISION 4X by Excite Audio is available as a crossgrade for $39.00 — down from ~~$89.00~~ — a 56% saving for any existing Excite Audio customer. This is a"
 pubDate: "2026-04-27T02:25:45Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/25-Spectral-Analysis/16910-VISION-4X-Crossgrade-from-any-Excite-Audio-Product-LTD-Time-Offer-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vision-4x-crossgrade-from-any-excite-audio-product-ltd-time-"

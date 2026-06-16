@@ -1,6 +1,6 @@
 ---
 title: "7 Best Free Alternatives to Xfer Serum in 2026"
-description: "Vital is the strongest free alternative to Serum VST in 2026 — a wavetable synthesizer built by the same developer as Helm, and the plugin r/edmproduction..."
+description: "Vital is the strongest free alternative to Serum VST in 2026 — a wavetable synthesizer built by the same developer as Helm, and the plugin r/edmproduction"
 pubDate: "2026-05-14T22:39:54Z"
 tags: ["guide", "vst", "free", "alternatives"]
 affiliate: ""

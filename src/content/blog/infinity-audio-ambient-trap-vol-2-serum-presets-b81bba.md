@@ -1,6 +1,6 @@
 ---
 title: "Infinity Audio Ambient Trap Vol 2 Serum Presets"
-description: "Infinity Audio Ambient Trap Vol 2 is currently available at ADSR Sounds for **$19.99** — a dedicated Serum preset pack built for the atmospheric, melodic..."
+description: "Infinity Audio Ambient Trap Vol 2 is currently available at ADSR Sounds for $19.99 — a dedicated Serum preset pack built for the atmospheric, melodic side of"
 pubDate: "2026-04-28T08:56:46Z"
 tags: ["sale", "preset-pack", "serum", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/infinity-audio-ambient-trap-vol-2-serum-presets/?a_aid=plugindrop&data1=infinity-audio-ambient-trap-vol-2-serum-presets-b81bba&utm_source=plugindrop&utm_medium=article&utm_campaign=infinity-audio-ambient-trap-vol-2-serum-presets-b81bba"

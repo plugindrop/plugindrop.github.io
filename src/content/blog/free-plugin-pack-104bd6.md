@@ -1,6 +1,6 @@
 ---
 title: "free plugin pack"
-description: "Waves is giving away a free plugin pack — no coupon needed, just grab it. This deal is live now and costs nothing to add to your DAW toolkit. Claim your..."
+description: "Waves is giving away a free plugin pack — no coupon needed, just grab it. This deal is live now and costs nothing to add to your DAW toolkit. Claim your free"
 pubDate: "2026-04-26T12:21:56Z"
 tags: ["free", "vst-plugin", "music-production"]
 affiliate: "https://www.waves.com/bundles/free-plugin-pack?utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugin-pack-104bd6"

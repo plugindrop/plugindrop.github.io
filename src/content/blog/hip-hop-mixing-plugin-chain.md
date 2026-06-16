@@ -1,6 +1,6 @@
 ---
 title: "Hip-Hop Mixing Plugin Chain: Beat by Beat Breakdown (2026)"
-description: "The most defensible hip-hop mixing plugin chain in 2026 runs FabFilter Pro-Q 4 for surgical EQ, OTT for parallel multiband density, the Waves SSL G-Master..."
+description: "The most defensible hip-hop mixing plugin chain in 2026 runs FabFilter Pro-Q 4 for surgical EQ, OTT for parallel multiband density, the Waves SSL G-Master"
 pubDate: "2026-04-27T10:22:42Z"
 tags: ["guide", "vst", "genre specific", "workflow"]
 affiliate: ""

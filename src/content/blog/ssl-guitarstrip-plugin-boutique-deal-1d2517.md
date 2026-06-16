@@ -1,6 +1,6 @@
 ---
 title: "SSL Guitarstrip"
-description: "SSL Guitarstrip is currently on deal at Plugin Boutique, bringing Solid State Logic's legendary console processing to your guitar tracks at a reduced..."
+description: "SSL Guitarstrip is currently on deal at Plugin Boutique, bringing Solid State Logic's legendary console processing to your guitar tracks at a reduced price."
 pubDate: "2026-04-19T23:09:54Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/9572-SSL-Guitarstrip?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=ssl-guitarstrip-plugin-boutique-deal-1d2517"

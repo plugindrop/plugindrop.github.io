@@ -1,6 +1,6 @@
 ---
 title: "Unison Beatmaker Box (Free Teaser)"
-description: "Unison Audio is giving away the Beatmaker Box Free Teaser at no cost — $0, no strings attached. This is a free sample of Unison's beat-making toolkit..."
+description: "Unison Audio is giving away the Beatmaker Box Free Teaser at no cost — $0, no strings attached. This is a free sample of Unison's beat-making toolkit"
 pubDate: "2026-04-21T04:19:54Z"
 tags: ["unison", "sample-pack", "free", "music-production"]
 affiliate: "https://unison.audio/ref/jc374/product/beatmaker-box-free-teaser/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-beatmaker-box-free-teaser-08668d"

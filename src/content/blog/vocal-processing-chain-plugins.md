@@ -273,3 +273,5 @@ The complete vocal processing chain in 2026 does not require a rack full of hard
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)
 - [10 Best Free Delay VST Plugins in 2026 (Tape, Digital, Multi-tap)](/posts/best-free-delay-vst-plugins/)
 - [10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering)](/posts/best-free-eq-vst-plugins/)
+
+- [stereo widening plugins](/posts/best-stereo-widener-plugins/)

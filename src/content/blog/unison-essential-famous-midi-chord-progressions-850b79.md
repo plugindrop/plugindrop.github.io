@@ -1,6 +1,6 @@
 ---
 title: "Unison Essential Famous MIDI Chord Progressions"
-description: "Unison Essential Famous MIDI Chord Progressions is currently **FREE** at Unison Audio. Grab a library of professionally crafted chord progressions for..."
+description: "Unison Essential Famous MIDI Chord Progressions is currently FREE at Unison Audio. Grab a library of professionally crafted chord progressions for your DAW"
 pubDate: "2026-04-21T03:40:44Z"
 tags: ["unison", "midi-pack", "free", "music-production"]
 affiliate: "https://unison.audio/ref/jc374/product/unison-essential-famous-midi-chord-progressions/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-essential-famous-midi-chord-progressions-850b79"

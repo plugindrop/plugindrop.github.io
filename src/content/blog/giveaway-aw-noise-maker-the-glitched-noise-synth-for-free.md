@@ -1,6 +1,6 @@
 ---
 title: "giveaway — AW noise maker, the glitched noise synth for FREE"
-description: "Audiowanderer is giving away AW Noise Maker — a glitched noise synthesizer — completely free. Winner announced **May 4th**, so the window closes tomorrow..."
+description: "Audiowanderer is giving away AW Noise Maker — a glitched noise synthesizer — completely free. Winner announced May 4th, so the window closes tomorrow. Enter"
 pubDate: "2026-05-02T19:21:41Z"
 tags: ["free", "synth", "giveaway", "music-production"]
 affiliate: "https://www.instagram.com/reel/DXwN0Z9I%5C_-e/"

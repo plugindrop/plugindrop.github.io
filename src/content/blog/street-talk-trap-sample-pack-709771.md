@@ -1,6 +1,6 @@
 ---
 title: "76% Off STREET TALK - Trap Sample Pack"
-description: "STREET TALK by TKID The Producer is currently **$25** — down from ~~$105.99~~ — at ADSR Sounds, a 76% discount on a focused trap production library. Sales..."
+description: "STREET TALK by TKID The Producer is currently $25 — down from ~~$105.99~~ — at ADSR Sounds, a 76% discount on a focused trap production library. Sales at"
 pubDate: "2026-04-23T06:03:55Z"
 tags: ["sale", "preset-pack", "sample-pack-deal", "sample-pack", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/tkid-the-producer-street-talk-trap-sample-pack/?a_aid=plugindrop&data1=street-talk-trap-sample-pack-709771&utm_source=plugindrop&utm_medium=article&utm_campaign=street-talk-trap-sample-pack-709771"

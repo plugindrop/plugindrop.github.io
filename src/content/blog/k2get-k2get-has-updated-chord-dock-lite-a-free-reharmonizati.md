@@ -1,6 +1,6 @@
 ---
 title: "K2get — K2get has updated Chord Dock Lite, a free reharmonization and arpeggio/bassline generation plugin for Win & Mac to v1.5. Expiry: None [FREE]"
-description: "Chord Dock Lite v1.5 is a free reharmonization and arpeggio/bassline generation plugin for Windows and Mac — no cost, no expiry. → Get Chord Dock Lite at..."
+description: "Chord Dock Lite v1.5 is a free reharmonization and arpeggio/bassline generation plugin for Windows and Mac — no cost, no expiry. → Get Chord Dock Lite at"
 pubDate: "2026-04-27T10:40:26Z"
 tags: ["free", "k2get", "music-production"]
 affiliate: "https://k2get.github.io/chord-dock-site/index.en.html"

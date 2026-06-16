@@ -1,6 +1,6 @@
 ---
 title: "Function Loops — Get 90% off Function Loops Urban Bundle by Function Loops for $25 (Normally $251.40)"
-description: "The Function Loops Urban Bundle is 90% off — ~~$251.40~~ down to $25. That's a multi-pack collection of royalty-free urban samples at the price of a..."
+description: "The Function Loops Urban Bundle is 90% off — ~~$251.40~~ down to $25. That's a multi-pack collection of royalty-free urban samples at the price of a single"
 pubDate: "2026-04-30T21:27:26Z"
 tags: ["function loops", "bundle", "music-production"]
 affiliate: "https://pulse.audio/product/function-loops-urban-bundle/"

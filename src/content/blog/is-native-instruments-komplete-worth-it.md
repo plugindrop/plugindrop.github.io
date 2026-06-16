@@ -1,6 +1,6 @@
 ---
 title: "Is Native Instruments Komplete Worth It in 2026? Honest Breakdown"
-description: "Native Instruments Komplete 15 Standard, bought during one of NI's regular sales, is worth it primarily because full Kontakt access alone approaches the..."
+description: "Native Instruments Komplete 15 Standard, bought during one of NI's regular sales, is worth it primarily because full Kontakt access alone approaches the sale"
 pubDate: "2026-07-16T22:39:54Z"
 tags: ["guide", "vst", "instruments"]
 affiliate: ""

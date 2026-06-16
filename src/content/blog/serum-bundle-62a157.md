@@ -1,6 +1,6 @@
 ---
 title: "Serum Bundle"
-description: "ADSR Sounds is offering a Serum preset bundle for just **$20** — a sharp deal for producers looking to expand their sound library without breaking the..."
+description: "ADSR Sounds is offering a Serum preset bundle for just $20 — a sharp deal for producers looking to expand their sound library without breaking the bank. This"
 pubDate: "2026-05-08T04:29:24Z"
 tags: ["sale", "preset-pack", "serum", "synth", "bundle", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/serum-bundle/?a_aid=plugindrop&data1=serum-bundle-62a157&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-bundle-62a157"

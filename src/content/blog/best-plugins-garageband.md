@@ -1,6 +1,6 @@
 ---
 title: "12 Best Plugins for GarageBand in 2026 (Free AU & Third-Party)"
-description: "Vital is the standout free pick — a spectral wavetable synthesizer that r/edmproduction and r/synthesizers consistently rank above plugins costing..."
+description: "Vital is the standout free pick — a spectral wavetable synthesizer that r/edmproduction and r/synthesizers consistently rank above plugins costing hundreds"
 pubDate: "2026-05-31T00:22:12Z"
 tags: ["guide", "vst", "daw specific"]
 affiliate: ""

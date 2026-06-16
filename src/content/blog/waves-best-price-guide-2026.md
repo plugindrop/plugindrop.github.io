@@ -1,6 +1,6 @@
 ---
 title: "How to Buy Waves Plugins at the Lowest Price: Sales, Bundles and Strategy 2026"
-description: "Waves plugins go on sale so frequently that paying list price is essentially optional — the real skill is knowing which bundle tier to target, when the..."
+description: "Waves plugins go on sale so frequently that paying list price is essentially optional — the real skill is knowing which bundle tier to target, when the"
 pubDate: "2026-05-29T00:22:12Z"
 tags: ["guide", "vst", "mixing"]
 affiliate: ""

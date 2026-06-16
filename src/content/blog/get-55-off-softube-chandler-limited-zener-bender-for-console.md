@@ -1,6 +1,6 @@
 ---
 title: "Get 55% off Softube Chandler Limited Zener-Bender for Console 1 at Audio Deluxe"
-description: "Softube's Chandler Limited Zener-Bender for Console 1 is currently **55% off at $89** at Audio Deluxe — one of the steeper discounts this brand runs on..."
+description: "Softube's Chandler Limited Zener-Bender for Console 1 is currently 55% off at $89 at Audio Deluxe — one of the steeper discounts this brand runs on its"
 pubDate: "2026-05-02T17:43:41Z"
 tags: ["music-production"]
 affiliate: "https://audiodeluxe.com/collections/software/products/softube-chandler-limited-zener-bender-console-1"

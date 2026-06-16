@@ -1,6 +1,6 @@
 ---
 title: "HoRNet Plugins — HoRNet Plugins is offering 89% off on HoRNet SAMP master bus plugin for Atmos mixing. Use the code: SAMP89"
-description: "HoRNet SAMP is currently **89% off at $59.99** with code **SAMP89** at direct checkout. Built for Dolby Atmos and immersive audio workflows, this master..."
+description: "HoRNet SAMP is currently 89% off at $59.99 with code SAMP89 at direct checkout. Built for Dolby Atmos and immersive audio workflows, this master bus plugin"
 pubDate: "2026-04-29T14:22:59Z"
 tags: ["hornet plugins", "music-production"]
 affiliate: "https://www.hornetplugins.com/plugins/hornet-samp/"

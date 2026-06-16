@@ -1,6 +1,6 @@
 ---
 title: "Unicorn Future Bass Vol 3"
-description: "Unicorn Future Bass Vol 3 is currently on sale at ADSR Sounds for **$17.99** — verify the original price on the product page to see your full savings. If..."
+description: "Unicorn Future Bass Vol 3 is currently on sale at ADSR Sounds for $17.99 — verify the original price on the product page to see your full savings. If you"
 pubDate: "2026-04-29T18:58:13Z"
 tags: ["sale", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/massive-presets/unicorn-future-bass-vol-3/?a_aid=plugindrop&data1=unicorn-future-bass-vol-3-93b047&utm_source=plugindrop&utm_medium=article&utm_campaign=unicorn-future-bass-vol-3-93b047"

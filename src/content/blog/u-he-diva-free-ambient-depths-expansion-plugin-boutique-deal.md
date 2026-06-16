@@ -1,6 +1,6 @@
 ---
 title: "u he Diva Free Ambient Depths Expansion"
-description: "u-he's Diva synth just got a free expansion — *Ambient Depths* is available at no cost through Plugin Boutique right now. Free means free: ~~paid~~ $0. If..."
+description: "u-he's Diva synth just got a free expansion — Ambient Depths is available at no cost through Plugin Boutique right now. Free means free: ~~paid~~ $0. If you"
 pubDate: "2026-04-20T23:23:30Z"
 tags: ["free", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7582-u-he-Diva-Free-Ambient-Depths-Expansion?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=u-he-diva-free-ambient-depths-expansion-plugin-boutique-deal"

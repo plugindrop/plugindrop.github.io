@@ -1,6 +1,6 @@
 ---
 title: "Safari Audio, Soundtoys, and EastWest: 3 Plugins That Bring Fresh Sound to Your Tracks"
-description: "Thomann is spotlighting deals from three plugin developers — Safari Audio, Soundtoys, and EastWest — each bringing something distinct to your sessions..."
+description: "Thomann is spotlighting deals from three plugin developers — Safari Audio, Soundtoys, and EastWest — each bringing something distinct to your sessions."
 pubDate: "2026-04-22T00:50:15Z"
 tags: ["deals", "audio plugin sale", "cinematic sounds", "creative audio plugins", "daw plugins deals", "eastwest composercloud", "mastering plugins", "mixing plugins", "music production tools", "music-production"]
 affiliate: "https://www.thomann.de/intl/special_downloaddeals.html?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=safari-audio-soundtoys-and-eastwest-3-plugins-that-bring-fre"

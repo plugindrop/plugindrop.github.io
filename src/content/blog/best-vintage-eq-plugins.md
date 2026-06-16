@@ -1,6 +1,6 @@
 ---
 title: "10 Best Vintage EQ Emulation Plugins in 2026, Ranked (Neve, API, SSL)"
-description: "Waves SSL E-Channel is the most widely recommended entry point into vintage EQ emulation — it captures the SSL 4000E's balanced, punchy character at a..."
+description: "Waves SSL E-Channel is the most widely recommended entry point into vintage EQ emulation — it captures the SSL 4000E's balanced, punchy character at a sale"
 pubDate: "2026-06-12T10:39:54Z"
 tags: ["guide", "vst", "effects"]
 affiliate: ""

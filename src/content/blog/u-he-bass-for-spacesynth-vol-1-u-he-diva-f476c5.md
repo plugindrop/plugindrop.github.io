@@ -1,6 +1,6 @@
 ---
 title: "40% Off U He Bass For Spacesynth Vol 1 U He Diva"
-description: "U-he Bass For Spacesynth Vol 1 is currently 40% off at ADSR Sounds — down from ~~$29~~ to just $17.40. If you produce spacesynth, italo disco, or retro..."
+description: "U-he Bass For Spacesynth Vol 1 is currently 40% off at ADSR Sounds — down from ~~$29~~ to just $17.40. If you produce spacesynth, italo disco, or retro"
 pubDate: "2026-05-08T04:00:01Z"
 tags: ["sale", "preset-pack", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/u-he-bass-for-spacesynth-vol-1-u-he-diva/?a_aid=plugindrop&data1=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5"

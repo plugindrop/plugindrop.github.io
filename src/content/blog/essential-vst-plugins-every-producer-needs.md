@@ -1,6 +1,6 @@
 ---
 title: "15 Essential VST Plugins Every Music Producer Needs in 2026"
-description: "FabFilter Pro-Q 4 is the single most impactful purchase any producer can make in 2026 — its surgical precision and real-time spectrum analysis raise the..."
+description: "FabFilter Pro-Q 4 is the single most impactful purchase any producer can make in 2026 — its surgical precision and real-time spectrum analysis raise the"
 pubDate: "2026-05-12T23:06:41Z"
 tags: ["guide", "vst", "starter kit"]
 affiliate: ""

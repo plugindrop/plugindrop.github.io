@@ -193,6 +193,7 @@ iZotope Neutron 4 at $249 bundles an EQ, compressor, transient shaper, exciter, 
 
 ---
 
+
 ## FAQ
 **Q: Is FabFilter Pro-Q 4 better than iZotope Neutron 4 for mastering?**
 A: Yes. For mastering specifically, Pro-Q 4's linear phase mode, ultra-transparent algorithm, and focused single-purpose design make it the superior choice. Neutron 4 is designed as a channel strip for mixing contexts, not mastering-grade detail work.

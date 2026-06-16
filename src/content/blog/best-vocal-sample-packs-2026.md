@@ -1,6 +1,6 @@
 ---
 title: "Best Vocal Sample Packs 2026: Chops, Hooks and Harmonies"
-description: "Loopmasters is the most consistently recommended paid destination for vocal sample packs in 2026 — deeper catalog than most subscription services, clear..."
+description: "Loopmasters is the most consistently recommended paid destination for vocal sample packs in 2026 — deeper catalog than most subscription services, clear"
 pubDate: "2026-05-29T16:22:12Z"
 tags: ["guide", "vst", "samples", "vocals"]
 affiliate: ""

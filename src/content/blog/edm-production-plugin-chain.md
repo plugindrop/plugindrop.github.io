@@ -1,6 +1,6 @@
 ---
 title: "Complete EDM Production Plugin Chain: From Drop to Master (2026)"
-description: "The most battle-tested complete EDM production plugin chain 2026 runs Serum for synthesis, OTT for multiband compression, FabFilter Pro-Q 4 for surgical..."
+description: "The most battle-tested complete EDM production plugin chain 2026 runs Serum for synthesis, OTT for multiband compression, FabFilter Pro-Q 4 for surgical EQ,"
 pubDate: "2026-06-22T22:39:54Z"
 tags: ["guide", "vst", "genre specific", "workflow"]
 affiliate: ""

@@ -1,6 +1,6 @@
 ---
 title: "Best VST Plugins for Metal Production 2026, Ranked (Amp Sims, Drums, Mix)"
-description: "Neural DSP Archetype: Gojira is the community benchmark for in-the-box metal amp tones in 2026 — r/metalguitarists and r/WeAreTheMusicMakers consistently..."
+description: "Neural DSP Archetype: Gojira is the community benchmark for in-the-box metal amp tones in 2026 — r/metalguitarists and r/WeAreTheMusicMakers consistently"
 pubDate: "2026-05-07T20:22:38Z"
 tags: ["guide", "vst", "instruments"]
 affiliate: ""
