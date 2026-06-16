@@ -1,6 +1,6 @@
 ---
 title: "Best Electric Piano VST Plugins 2026 (Rhodes, Wurlitzer and CP-80)"
-description: "For most producers, **Keyscape** is the definitive electric piano library in 2026 — its coverage of Rhodes, Wurlitzer, and CP-80 models in a single..."
+description: "For most producers, Keyscape is the definitive electric piano library in 2026 — its coverage of Rhodes, Wurlitzer, and CP-80 models in a single instrument is"
 pubDate: "2026-05-27T00:22:12Z"
 tags: ["guide", "vst", "instruments"]
 affiliate: ""

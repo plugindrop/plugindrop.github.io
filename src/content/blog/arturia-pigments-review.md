@@ -1,7 +1,7 @@
 ---
 heroImage: "/images/arturia-v-collection-10-sale-50-off.jpg"
 title: "Arturia Pigments 5 Review 2026: Is This the Best All-in-One Soft Synth?"
-description: "Arturia Pigments 5 is the best all-in-one soft synth available in 2026 — five synthesis engines, a visual modulation matrix, and a full FX rack in a..."
+description: "Arturia Pigments 5 is the best all-in-one soft synth available in 2026 — five synthesis engines, a visual modulation matrix, and a full FX rack in a single,"
 pubDate: "2026-05-02T18:10:19Z"
 tags: ["guide", "vst", "instruments", "review"]
 affiliate: ""

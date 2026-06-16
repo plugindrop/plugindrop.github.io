@@ -1,6 +1,6 @@
 ---
 title: "10 Best Free Saturation & Distortion VST Plugins in 2026 — Ranked"
-description: "Klanghelm SDRR is the most versatile free saturator in 2026 — four distinct modes, donationware pricing, and a feature set that embarrasses plugins..."
+description: "Klanghelm SDRR is the most versatile free saturator in 2026 — four distinct modes, donationware pricing, and a feature set that embarrasses plugins costing"
 pubDate: "2026-07-01T22:39:54Z"
 tags: ["guide", "vst", "free", "effects"]
 affiliate: ""
@@ -309,3 +309,5 @@ Klanghelm SDRR is the plugin to install first — its four saturation modes teac
 ---
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
+
+- [stereo widening plugins](/posts/best-stereo-widener-plugins/)

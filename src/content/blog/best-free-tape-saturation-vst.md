@@ -1,7 +1,7 @@
 ---
 heroImage: "/images/ampex-atr-102-mastering-tape-recorder-08e7ee.jpg"
 title: "8 Best Free Tape Saturation VST Plugins in 2026 — Ranked"
-description: "Chow Tape Model is the most technically rigorous free tape simulation available in 2026 — KVR's technical community consistently benchmarks it against..."
+description: "Chow Tape Model is the most technically rigorous free tape simulation available in 2026 — KVR's technical community consistently benchmarks it against paid"
 pubDate: "2026-05-03T15:01:07Z"
 tags: ["guide", "vst", "free", "effects"]
 affiliate: ""

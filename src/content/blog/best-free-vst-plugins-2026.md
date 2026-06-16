@@ -137,6 +137,7 @@ A: Each plugin is available from its developer's website. Many are also availabl
 
 ---
 
+- [free guitar amp sim plugins](/posts/best-free-guitar-amp-vst/)
 ## Start Building Your Collection
 
 These 15 plugins cover synths, effects, mixing, and instruments — enough to produce full tracks without spending anything. Bookmark this page — we update it as new free plugins drop.

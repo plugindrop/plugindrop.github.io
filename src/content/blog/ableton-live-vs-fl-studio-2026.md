@@ -158,6 +158,7 @@ Ableton dominates in electronic music production — techno, house, ambient, and
 
 ---
 
+
 ## FAQ
 **Q: Can FL Studio and Ableton read each other's project files?**
 A: No. FL Studio saves as `.flp`; Ableton saves as `.als`. There is no cross-compatibility. Producers who work in both DAWs exchange audio stems or MIDI files rather than project files.

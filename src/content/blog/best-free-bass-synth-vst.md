@@ -1,6 +1,6 @@
 ---
 title: "10 Best Free Bass Synth VST Plugins in 2026 — Ranked"
-description: "Surge XT is the single best free bass synth VST in 2026 — open-source, cross-platform, and consistently ranked as the most capable free synthesizer in..."
+description: "Surge XT is the single best free bass synth VST in 2026 — open-source, cross-platform, and consistently ranked as the most capable free synthesizer in"
 pubDate: "2026-07-04T22:39:54Z"
 tags: ["guide", "vst", "free", "instruments", "synth"]
 affiliate: ""

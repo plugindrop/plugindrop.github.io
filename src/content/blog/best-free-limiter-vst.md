@@ -1,6 +1,6 @@
 ---
 title: "8 Best Free Limiter VST Plugins in 2026, Ranked (Mastering-Grade Options)"
-description: "Limiter 6 GE from TBProAudio is the most technically complete free mastering limiter available in 2026, chaining RMS compression, true peak limiting, and..."
+description: "Limiter 6 GE from TBProAudio is the most technically complete free mastering limiter available in 2026, chaining RMS compression, true peak limiting, and"
 pubDate: "2026-07-03T10:39:54Z"
 tags: ["guide", "vst", "free", "effects"]
 affiliate: ""

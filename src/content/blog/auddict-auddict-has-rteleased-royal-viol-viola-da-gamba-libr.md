@@ -1,6 +1,6 @@
 ---
 title: "Auddict — Auddict has rteleased Royal Viol viola da gamba library for Kontakt (full version). The intro is 60% off. Expiry: Unknown"
-description: "Auddict's Royal Viol — a dedicated viola da gamba library for Kontakt — is available at $200 as part of a 60% off intro launch deal. This is one of the..."
+description: "Auddict's Royal Viol — a dedicated viola da gamba library for Kontakt — is available at $200 as part of a 60% off intro launch deal. This is one of the few"
 pubDate: "2026-04-27T11:07:21Z"
 tags: ["auddict", "music-production"]
 affiliate: "https://www.auddict.com/productpage/royal-viol"

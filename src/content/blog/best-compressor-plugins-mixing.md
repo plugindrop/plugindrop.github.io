@@ -1,6 +1,6 @@
 ---
 title: "10 Best Compressor Plugins for Mixing in 2026"
-description: "FabFilter Pro-C 2 is the community's consensus pick for an all-purpose professional compressor in 2026 — but TDR Kotelnikov and Rough Rider 3 deliver..."
+description: "FabFilter Pro-C 2 is the community's consensus pick for an all-purpose professional compressor in 2026 — but TDR Kotelnikov and Rough Rider 3 deliver"
 pubDate: "2026-05-20T22:39:54Z"
 tags: ["guide", "vst", "effects", "compressor"]
 affiliate: ""

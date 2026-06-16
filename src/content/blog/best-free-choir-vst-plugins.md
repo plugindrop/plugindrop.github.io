@@ -1,6 +1,6 @@
 ---
 title: "8 Best Free Choir & Vocal Ensemble VST Plugins in 2026 — Ranked"
-description: "Spitfire LABS Choir is the most consistently recommended free choir VST across bedroom producer communities — its professional ensemble recording has no..."
+description: "Spitfire LABS Choir is the most consistently recommended free choir VST across bedroom producer communities — its professional ensemble recording has no"
 pubDate: "2026-05-03T15:12:56Z"
 tags: ["guide", "vst", "free", "instruments"]
 affiliate: ""

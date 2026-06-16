@@ -1,6 +1,6 @@
 ---
 title: "10 Best Guitar Amp Simulator VST Plugins in 2026, Ranked (Free & Paid)"
-description: "Neural DSP Archetype is the most-recommended guitar amp simulator in producer communities heading into 2026 — artist-specific signal chains, Neural..."
+description: "Neural DSP Archetype is the most-recommended guitar amp simulator in producer communities heading into 2026 — artist-specific signal chains, Neural Capture"
 pubDate: "2026-05-07T10:39:54Z"
 tags: ["guide", "vst", "instruments"]
 affiliate: ""

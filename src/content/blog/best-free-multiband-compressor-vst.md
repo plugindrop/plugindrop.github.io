@@ -1,6 +1,6 @@
 ---
 title: "8 Best Free Multiband Compressor VST Plugins in 2026 — Ranked"
-description: "TDR Nova is the strongest all-around free multiband compressor for mixing and mastering in 2026 — a transparent dynamic EQ/compressor hybrid that..."
+description: "TDR Nova is the strongest all-around free multiband compressor for mixing and mastering in 2026 — a transparent dynamic EQ/compressor hybrid that community"
 pubDate: "2026-05-02T05:53:47Z"
 tags: ["guide", "vst", "free", "effects", "compressor"]
 affiliate: ""

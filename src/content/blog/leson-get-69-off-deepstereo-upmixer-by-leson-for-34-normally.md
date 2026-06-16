@@ -11,7 +11,7 @@ originalPrice: "$110"
 discount: "69% OFF"
 saleExpiry: "2026-06-16"
 xText: "deepstereo upmixer: $34 from $110. designed for transparent stereo-to-surround. most tools with this capability run $150+. if you've considered getting into surround mixing, the entry cost just got interesting"
-draft: false
+draft: true
 ---
 **TL;DR:** DeepStereo Upmixer by Leson is down to **$34** — that's 69% off the regular ~~$110~~ price tag, saving you $76. If stereo widening and spatial enhancement are on your radar, this is a solid window to pick it up. [Grab the deal here.](https://audioplugin.deals/product/deepstereo-upmixer-by-leson/ref/21/)
 

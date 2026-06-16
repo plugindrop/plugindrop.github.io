@@ -1,6 +1,6 @@
 ---
 title: "Aha Sound — Get 88% off Everything Bundle by Aha Sound for $25.00 (Normally $215.00)"
-description: "Aha Sound's Everything Bundle is currently priced at **$25**, down from ~~$215~~ — that's 88% off and $190 in savings on their complete plugin catalog..."
+description: "Aha Sound's Everything Bundle is currently priced at $25, down from ~~$215~~ — that's 88% off and $190 in savings on their complete plugin catalog. Sub-$30"
 pubDate: "2026-04-27T11:24:50Z"
 tags: ["aha sound", "bundle", "music-production"]
 affiliate: "https://audioplugin.deals/product/everything-bundle-by-aha-sound/ref/21/"

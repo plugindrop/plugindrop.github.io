@@ -1,6 +1,6 @@
 ---
 title: "12 Best Free VST Plugins for Hip Hop Production in 2026 — Ranked"
-description: "Vital is the free wavetable synthesizer r/edmproduction consistently puts at the top of hip-hop starter kit lists — fully capable and zero cost. Pair it..."
+description: "Vital is the free wavetable synthesizer r/edmproduction consistently puts at the top of hip-hop starter kit lists — fully capable and zero cost. Pair it with"
 pubDate: "2026-05-31T10:39:54Z"
 tags: ["guide", "vst", "free", "genre specific"]
 affiliate: ""

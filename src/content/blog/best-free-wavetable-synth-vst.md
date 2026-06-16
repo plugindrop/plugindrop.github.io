@@ -1,6 +1,6 @@
 ---
 title: "8 Best Free Wavetable Synth VST Plugins in 2026 — Ranked"
-description: "Vital is the best free wavetable synth VST available in 2026 — its full synthesis engine is completely free and rivals Serum in depth. Pair it with Surge..."
+description: "Vital is the best free wavetable synth VST available in 2026 — its full synthesis engine is completely free and rivals Serum in depth. Pair it with Surge XT"
 pubDate: "2026-06-01T22:39:54Z"
 tags: ["guide", "vst", "free", "instruments", "synth"]
 affiliate: ""

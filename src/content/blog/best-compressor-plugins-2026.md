@@ -1,6 +1,6 @@
 ---
 title: "Best Compressor Plugins 2026 — Ranked: Free & Paid for Mixing and Mastering"
-description: "FabFilter Pro-C 2 is the top pick for 2026 — eight compression styles and surgical visual feedback make it the only compressor most engineers keep in..."
+description: "FabFilter Pro-C 2 is the top pick for 2026 — eight compression styles and surgical visual feedback make it the only compressor most engineers keep in every"
 pubDate: "2026-04-27T10:10:19Z"
 tags: ["guide", "vst", "effects", "compressor"]
 affiliate: ""

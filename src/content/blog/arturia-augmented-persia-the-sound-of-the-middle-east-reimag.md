@@ -1,6 +1,6 @@
 ---
 title: "Arturia Augmented PERSIA – The Sound of the Middle East Reimagined"
-description: "Arturia Augmented PERSIA brings the sonic palette of the Middle East into a modern hybrid synthesis engine — a genuinely rare instrument category with few..."
+description: "Arturia Augmented PERSIA brings the sonic palette of the Middle East into a modern hybrid synthesis engine — a genuinely rare instrument category with few"
 pubDate: "2026-04-22T01:04:31Z"
 tags: ["alto kamancheh", "augmented", "oud", "persia", "saz", "shah kaman", "software", "music-production"]
 affiliate: "https://www.thomann.de/intl/prod_AR_642182.html?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-augmented-persia-the-sound-of-the-middle-east-reimag"

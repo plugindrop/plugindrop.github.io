@@ -1,6 +1,6 @@
 ---
 title: "10 Best Glitch & Stutter Effect VST Plugins in 2026 — Ranked"
-description: "iZotope Stutter Edit 2 is the most-recommended professional stutter plugin in production communities, with Output Portal as the top granular alternative..."
+description: "iZotope Stutter Edit 2 is the most-recommended professional stutter plugin in production communities, with Output Portal as the top granular alternative"
 pubDate: "2026-04-27T17:13:23Z"
 tags: ["guide", "vst", "effects"]
 affiliate: ""

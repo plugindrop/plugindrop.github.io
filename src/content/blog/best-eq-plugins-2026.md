@@ -1,6 +1,6 @@
 ---
 title: "Best EQ Plugins 2026 — Ranked: Free & Paid for Every Producer"
-description: "FabFilter Pro-Q 4 remains the gold standard EQ plugin in 2026 — its mid/side processing, dynamic EQ mode, and surgical precision make it the one plugin..."
+description: "FabFilter Pro-Q 4 remains the gold standard EQ plugin in 2026 — its mid/side processing, dynamic EQ mode, and surgical precision make it the one plugin"
 pubDate: "2026-04-28T02:10:19Z"
 tags: ["guide", "vst", "effects"]
 affiliate: ""

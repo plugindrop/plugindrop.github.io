@@ -1,6 +1,6 @@
 ---
 title: "10 Best EQ Plugins for Mixing & Mastering in 2026"
-description: "FabFilter Pro-Q 4 is the most-recommended EQ plugin in professional mixing communities — its 24-band dynamic EQ, zero-latency/linear phase toggle, and..."
+description: "FabFilter Pro-Q 4 is the most-recommended EQ plugin in professional mixing communities — its 24-band dynamic EQ, zero-latency/linear phase toggle, and"
 pubDate: "2026-05-22T10:39:54Z"
 tags: ["guide", "vst", "effects", "mastering"]
 affiliate: ""

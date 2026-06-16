@@ -1,7 +1,7 @@
 ---
 heroImage: "/images/best-compressor-plugins-2026.jpg"
 title: "10 Best Compressor Plugins for Drums in 2026 — Ranked"
-description: "FabFilter Pro-C 2 is the most capable drum compressor for producers who want surgical control across bus and channel work in a single plugin. Waves SSL..."
+description: "FabFilter Pro-C 2 is the most capable drum compressor for producers who want surgical control across bus and channel work in a single plugin. Waves SSL"
 pubDate: "2026-05-07T11:53:47Z"
 tags: ["guide", "vst", "drums", "compressor"]
 affiliate: ""

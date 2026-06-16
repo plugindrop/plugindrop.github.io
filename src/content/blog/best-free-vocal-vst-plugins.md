@@ -1,6 +1,6 @@
 ---
 title: "12 Best Free Vocal VST Plugins in 2026, Ranked (Tuning, Compression, Effects)"
-description: "MAutoPitch is the top free pitch correction pick in 2026 — transparent, CPU-light, and stable across every major DAW. Pair it with Analog Obsession..."
+description: "MAutoPitch is the top free pitch correction pick in 2026 — transparent, CPU-light, and stable across every major DAW. Pair it with Analog Obsession"
 pubDate: "2026-05-09T20:06:41Z"
 tags: ["guide", "vst", "free", "vocals"]
 affiliate: ""

@@ -1,6 +1,6 @@
 ---
 title: "2B Played — Download 2B Crushed from 2B Played Music for FREE with coupon: CRUSH26. "
-description: "2B Crushed by 2B Played Music normally sells for ~~$55~~, currently discounted to $24.75 — and with coupon **CRUSH26** at checkout, it drops to..."
+description: "2B Crushed by 2B Played Music normally sells for ~~$55~~, currently discounted to $24.75 — and with coupon CRUSH26 at checkout, it drops to completely free."
 pubDate: "2026-04-23T12:45:47Z"
 tags: ["2b played", "music-production"]
 affiliate: "https://2bplayed.com/product/2b-crushed/"

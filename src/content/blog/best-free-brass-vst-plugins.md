@@ -1,6 +1,6 @@
 ---
 title: "Best Free Brass VST Plugins 2026 (Trumpet, Trombone and French Horn)"
-description: "BBC Symphony Orchestra Discover is the best free brass VST plugin available in 2026 — recorded at Maida Vale Studios with real BBC Symphony Orchestra..."
+description: "BBC Symphony Orchestra Discover is the best free brass VST plugin available in 2026 — recorded at Maida Vale Studios with real BBC Symphony Orchestra"
 pubDate: "2026-06-02T16:22:12Z"
 tags: ["guide", "vst", "free", "instruments"]
 affiliate: ""

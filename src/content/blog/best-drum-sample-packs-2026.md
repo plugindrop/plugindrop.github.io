@@ -1,6 +1,6 @@
 ---
 title: "Best Drum Sample Packs 2026: Acoustic, Electronic and Hybrid Kits"
-description: "For bedroom producers in 2026, Loopmasters is the most consistently recommended single catalog for professionally recorded drum sample packs across..."
+description: "For bedroom producers in 2026, Loopmasters is the most consistently recommended single catalog for professionally recorded drum sample packs across acoustic,"
 pubDate: "2026-05-30T08:22:12Z"
 tags: ["guide", "vst", "samples"]
 affiliate: ""

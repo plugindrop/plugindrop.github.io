@@ -1,6 +1,6 @@
 ---
 title: "8 Best Free Chorus & Flanger VST Plugins in 2026 — Ranked"
-description: "TAL-Chorus-LX is the unanimous go-to free chorus in producer communities — it emulates a Roland JC-120 circuit, it's free on every platform, and years of..."
+description: "TAL-Chorus-LX is the unanimous go-to free chorus in producer communities — it emulates a Roland JC-120 circuit, it's free on every platform, and years of"
 pubDate: "2026-05-12T17:53:47Z"
 tags: ["guide", "vst", "free", "effects"]
 affiliate: ""

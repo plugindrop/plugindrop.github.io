@@ -487,3 +487,5 @@ When you're ready to invest, the [FabFilter Total Bundle on Plugin Boutique](htt
 - [Best Free EQ VST Plugins 2026](/posts/best-free-eq-vst-plugins/)
 - [Best Free Compressor VST Plugins 2026](/posts/best-free-compressor-vst-plugins/)
 - [Best Free Reverb VST Plugins 2026](/posts/best-free-reverb-vst-plugins/)
+
+- [free guitar amp sim plugins](/posts/best-free-guitar-amp-vst/)

@@ -1,6 +1,6 @@
 ---
 title: "Best Bass Guitar VST Plugins 2026: Scarbee, MODO Bass and More"
-description: "For producers who need one bass VST that covers multiple instrument models and playing styles across genres, MODO Bass 2 is the strongest single..."
+description: "For producers who need one bass VST that covers multiple instrument models and playing styles across genres, MODO Bass 2 is the strongest single"
 pubDate: "2026-05-27T16:22:12Z"
 tags: ["guide", "vst", "instruments"]
 affiliate: ""

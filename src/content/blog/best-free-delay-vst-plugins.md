@@ -1,6 +1,6 @@
 ---
 title: "10 Best Free Delay VST Plugins in 2026, Ranked (Tape, Digital, Multi-tap)"
-description: "TAL-Dub-3 is the best free delay VST plugin for tape character in 2026 — warm, saturated, and genuinely musical at zero cost. Pair it with Valhalla..."
+description: "TAL-Dub-3 is the best free delay VST plugin for tape character in 2026 — warm, saturated, and genuinely musical at zero cost. Pair it with Valhalla"
 pubDate: "2026-05-01T10:10:19Z"
 tags: ["guide", "vst", "free", "effects"]
 affiliate: ""

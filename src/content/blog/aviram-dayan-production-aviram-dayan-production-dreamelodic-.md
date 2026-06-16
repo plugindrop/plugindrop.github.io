@@ -1,6 +1,6 @@
 ---
 title: "Aviram Dayan Production — Aviram Dayan Production DreaMelodiC Black Sale: 60% Off All Product"
-description: "Aviram Dayan Production is running a Black Sale with 60% off every title in the DreaMelodiC catalogue — sitewide, no exclusions. For a direct-store..."
+description: "Aviram Dayan Production is running a Black Sale with 60% off every title in the DreaMelodiC catalogue — sitewide, no exclusions. For a direct-store"
 pubDate: "2026-04-28T14:49:58Z"
 tags: ["aviram dayan production", "music-production"]
 affiliate: "https://aviramdayan-dreamelodic.com/products"

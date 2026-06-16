@@ -1,6 +1,6 @@
 ---
 title: "Behringer JT-2 Now Available to Order!"
-description: "The Behringer JT-2 — a Eurorack recreation of the iconic Roland Jupiter voice — is now available to order at Thomann. Verify current pricing on the..."
+description: "The Behringer JT-2 — a Eurorack recreation of the iconic Roland Jupiter voice — is now available to order at Thomann. Verify current pricing on the product"
 pubDate: "2026-04-22T09:32:16Z"
 tags: ["available", "behringer", "desktop", "eurorack", "jt-2", "jupiter", "monosynth", "namm", "namm 2026", "music-production"]
 affiliate: "https://www.thomann.de/de/behringer_jt_2.htm?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=behringer-jt-2-now-available-to-order-633a66"

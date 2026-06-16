@@ -1,6 +1,6 @@
 ---
 title: "Arturia V Collection 11 Review 2026: 40+ Vintage Synths Worth the Price?"
-description: "Arturia V Collection 11 is the most comprehensive vintage synth emulation bundle available in 2026 — 40+ meticulously modeled classics in a single..."
+description: "Arturia V Collection 11 is the most comprehensive vintage synth emulation bundle available in 2026 — 40+ meticulously modeled classics in a single license."
 pubDate: "2026-05-06T18:10:19Z"
 tags: ["guide", "vst", "instruments", "review"]
 affiliate: ""
