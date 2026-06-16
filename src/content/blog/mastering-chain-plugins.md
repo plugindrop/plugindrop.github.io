@@ -1,6 +1,6 @@
 ---
-title: "Mastering Plugin Chain 2026: 6-Step Setup for a Professional Master"
-description: "Build a pro mastering chain in 2026: EQ → compressor → saturation → stereo imaging → limiter. Full plugin list with free and paid options at every stage."
+title: "Mastering Plugin Chain 2026: Complete 6-Step Setup (Free & Paid Picks)"
+description: "Build a pro mastering chain in 2026 step by step: spectrum analysis → EQ → compression → saturation → stereo imaging → limiting. Every slot covered with free and paid recommendations."
 pubDate: "2026-05-02T13:06:41Z"
 tags: ["guide", "vst", "mastering", "workflow"]
 affiliate: ""

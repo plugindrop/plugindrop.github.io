@@ -269,6 +269,7 @@ Spitfire LABS Choir is the correct first download for any producer who wants a f
 ---
 
 ## Related Guides
+- [8 Best Free Strings & Orchestral VST Plugins in 2026](/posts/best-free-strings-vst-plugins/)
 
 - [10 Best Free Orchestral VST Plugins in 2026](/posts/best-free-orchestral-vst-plugins/)
 - [10 Best Free Strings VST Plugins in 2026](/posts/best-free-strings-vst-plugins/)

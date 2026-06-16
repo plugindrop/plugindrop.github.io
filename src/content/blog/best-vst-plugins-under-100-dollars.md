@@ -1,6 +1,6 @@
 ---
-title: "12 Best VST Plugins Under $100 in 2026: Pro Quality, Budget Price (Ranked)"
-description: "The best VST plugins under $100 in 2026 — compressors, reverbs, synths, and more. 12 picks that punch well above their price, ranked by category and use case."
+title: "12 Best VST Plugins Under 00 in 2026: Pro Quality, Budget Price"
+description: "Pro-quality VST plugins under 00 in 2026 — EQ, compression, reverb, and synths that compete with plugins costing 3x more. 12 ranked with prices and direct buy links."
 pubDate: "2026-04-30T11:06:41Z"
 tags: ["guide", "vst", "value"]
 affiliate: ""

@@ -1,6 +1,6 @@
 ---
-title: "5 Best Free Alternatives to FabFilter Pro-Q 4 in 2026"
-description: "TDR Nova is the strongest free alternative to FabFilter Pro-Q 4 for producers who need dynamic EQ without the $179 price tag — its per-band dynamic..."
+title: "5 Best Free Alternatives to FabFilter Pro-Q 4 in 2026 (Tested)"
+description: "TDR Nova is the best free FabFilter Pro-Q 4 alternative in 2026 — dynamic EQ with per-band compression. 5 free EQs tested side-by-side with clear use cases for each."
 pubDate: "2026-05-17T22:39:54Z"
 tags: ["guide", "vst", "free", "alternatives"]
 affiliate: ""

@@ -1,6 +1,6 @@
 ---
-title: "Best Plugin Bundle Deals 2026: Save 80%+ on Pro VSTs (Ranked by Value)"
-description: "The best VST plugin bundle deals in 2026 — Native Instruments, iZotope, FabFilter bundles ranked by value. Updated as new sales drop at Plugin Boutique."
+title: "Best Plugin Bundle Deals 2026: 80%+ Off Pro VSTs (Updated Weekly)"
+description: "The best VST plugin bundles in 2026 — iZotope, Native Instruments, FabFilter, and more. Updated weekly with verified discount percentages and the best value per dollar."
 pubDate: "2026-05-04T00:00:00Z"
 tags: ["guide", "vst", "value"]
 affiliate: ""

@@ -1,6 +1,6 @@
 ---
-title: "Vital Synth Review 2026: Best Free Wavetable Synth? (vs Serum & Phase Plant)"
-description: "Vital's free tier matches paid synths at $100–$200. Same synthesis engine as the $80 paid version — spectral wavetable, modular routing. Honest comparison vs Serum and Phase Plant."
+title: "Vital Synth Review 2026: Is the Free Wavetable Synth Worth It? (vs Serum)"
+description: "Vital is the best free wavetable synth in 2026 — its free tier rivals Serum at 89. This review covers sound quality, modulation routing, and exactly where paid tiers are worth upgrading."
 pubDate: "2026-05-05T06:47:51Z"
 tags: ["guide", "vst", "instruments", "review", "synth"]
 affiliate: ""
