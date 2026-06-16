@@ -16,6 +16,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/j40dVL94c-8" title="5 Common Psytrance Synth Sounds and How to make them in Serum VST!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Vandalism Shocking Psytrance for Serum?
 
 Vandalism is a well-established preset developer known for genre-specific sound packs targeting electronic producers. Shocking Psytrance for Serum is their dedicated pack aimed at the psytrance niche — covering the driving, hypnotic, and heavily modulated sounds that define the genre. It runs inside Xfer Records' Serum synthesizer, meaning you get full access to every preset's mod matrix and can dial sounds in exactly to your taste.
