@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yt8pFK6fJk4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 Soundtoys doesn't flood the market with discounts every month. When they do run a sale, especially one touching 75%, it's worth paying attention — particularly if Little AlterBoy or the full Soundtoys bundle has been on your wishlist.
 
 ---

@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/5LOtwT9u-GQ" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is the Soundbox Instruments Bundle?
 
 Soundbox is a developer known for producing sample-based virtual instruments available through Plugin Boutique. The Soundbox Instruments Bundle packages multiple individual instrument titles into a single purchase at a reduced combined price. Buying the bundle is the most economical way to get the full Soundbox lineup without purchasing each plugin separately at full retail.

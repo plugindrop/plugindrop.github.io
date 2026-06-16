@@ -13,10 +13,6 @@ draft: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6nlzkAtrz00" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is Scaler 3?
 
 Scaler 3 is a music theory plugin by Plugin Boutique and Scaler Music, designed to help producers find chords, scales, and progressions that work together musically. It sits inside your DAW as a VST/AU/AAX instrument or MIDI effect, bridging the gap between music theory and practical production.

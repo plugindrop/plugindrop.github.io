@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ts8_cyQfDLI" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is the Virtual Drummer 2 Bundle?
 
 The Virtual Drummer 2 Bundle is a collection of genre-specific virtual drummer instruments developed by UJAM. Each title in the series is built around a distinct playing style — covering territory from rock and metal to hip-hop and acoustic grooves. The instruments are designed for producers who need realistic, performance-ready drum tracks without building patterns from scratch. Check the Plugin Boutique product page for the exact list of titles included in this bundle.

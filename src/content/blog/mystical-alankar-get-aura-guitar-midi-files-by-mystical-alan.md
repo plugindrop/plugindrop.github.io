@@ -17,7 +17,6 @@ score: 1.72
 
 ---
 
-
 ## What Are Aura Guitar MIDI Files by Mystical Alankar?
 
 Mystical Alankar is an audio content creator focused on production-ready MIDI resources. Aura is their guitar MIDI file collection — a pack of pre-programmed guitar patterns designed to drop directly into your DAW. No recording, no mic setup, no session guitarist required. Load them with any guitar VST and you've got instant, playable guitar parts that feel composed rather than programmed.

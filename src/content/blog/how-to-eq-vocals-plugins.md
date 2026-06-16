@@ -14,8 +14,6 @@ priceTrack:
 ---
 **TL;DR:** FabFilter Pro-Q 4 is the most-recommended paid EQ for vocal work across producer communities — its dynamic EQ bands, collision detection, and surgical precision make it the clear top pick. For a free starting point, TDR Nova delivers genuinely professional dynamic EQ at zero cost. This guide covers every step of the vocal EQ process and the specific VST plugins that serve each stage.
 
-
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

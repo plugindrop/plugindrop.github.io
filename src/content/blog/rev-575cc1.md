@@ -20,7 +20,6 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/8WlzL8dJkgk" title="50% Off REV — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is REV?
 
 REV is a Kontakt-based instrument library available through Plugin Boutique. As the name suggests, it centres around reversed and processed sound design — the kind of textural, atmospheric content that sits at the heart of cinematic, ambient, and modern electronic production. It runs inside Native Instruments' Kontakt platform, meaning it slots directly into existing Kontakt-based workflows. Check the product page for full developer details and compatibility notes.
@@ -100,7 +99,6 @@ Half price on a dedicated Kontakt library isn't a deal that tends to stick aroun
 
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

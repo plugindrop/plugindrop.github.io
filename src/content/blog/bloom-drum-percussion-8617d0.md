@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vlPWlSExwC8" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is Bloom Drum Percussion?
 
 Bloom Drum Percussion is a virtual percussion instrument sold through Plugin Boutique. It sits in the virtual instruments category, aimed at producers who want expressive, ready-to-use drum and percussion sounds built into a dedicated plugin. Rather than pulling one-shots from a generic sample library, Bloom focuses specifically on percussion — giving the workflow a tighter, more intentional scope.

@@ -19,7 +19,6 @@ priceTrack:
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vsjZop8_Fq4" title="iZotope Neutron 4 Review: Is AI-Assisted Mixing Actually Useful? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -27,7 +26,7 @@ priceTrack:
 | iZotope Neutron 4 Standard | From $149 | AI-guided mixing for producers who self-mix | [Official Site](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-neutron-4-review) |
 | iZotope Neutron 4 Advanced | From $249 | Pro engineers needing Sculptor + full inter-plugin suite | [Official Site](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-neutron-4-review) |
 | FabFilter Pro-Q 4 | $179 | Surgical EQ precision, Dynamic EQ, spectrum grab | [Official Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-neutron-4-review) |
-| iZotope Music Production Suite | Bundle pricing | Full iZotope ecosystem (Ozone, RX, Neutron, Nectar) | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| iZotope Music Production Suite | Bundle pricing | Full iZotope ecosystem (Ozone, RX, Neutron, Nectar) | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron%204&a_aid=69cb95abe1763) |
 
 ---
 
@@ -141,7 +140,7 @@ Third, **the price structure creates awkward decisions**. Neutron 4 Standard is 
 - **Formats:** VST3, AU, AAX
 - **Why upgrade:** Neutron 4 alone covers mixing, but Music Production Suite adds Ozone (mastering), RX (audio repair), Nectar (vocal processing), and Relay — the complete iZotope production stack. For producers who need mastering and vocal processing alongside mixing, the bundle price undercuts buying each product separately significantly.
 
-[→ Get iZotope Music Production Suite on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get iZotope Music Production Suite on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763)
 
 ---
 
@@ -152,7 +151,7 @@ Third, **the price structure creates awkward decisions**. Neutron 4 Standard is 
 | Neutron 4 Standard | From $149 | AI Channel Strip | Track Assistant, Unmask, Dynamic EQ, Compressor | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-neutron-4-review) |
 | Neutron 4 Advanced | From $249 | AI Channel Strip | All Standard features + Sculptor spectral shaping | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-neutron-4-review) |
 | FabFilter Pro-Q 4 | $179 | Precision EQ | Dynamic EQ, spectrum grab, zero-latency linear phase | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-neutron-4-review) |
-| iZotope Music Production Suite | Bundle | Full Production Suite | Neutron + Ozone + RX + Nectar + Relay | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| iZotope Music Production Suite | Bundle | Full Production Suite | Neutron + Ozone + RX + Nectar + Relay | [Get It](https://www.pluginboutique.com/search?search_query=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763) |
 
 ---
 

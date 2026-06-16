@@ -15,11 +15,6 @@ score: 3.69
 ---
 **TL;DR:** Ugritone's Drums Against Humanity — the Inferno-powered metal drum instrument — is currently ~~$99~~ **$79.20** with 20% off during the April Annihilation sale (through April 6, 2026). An extra coupon code may stack for additional savings. If you produce extreme metal and want *that* Behemoth drum tone, [grab the deal here](https://ugritone.com/products/drums-against-humanity).
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mdmrdZMVTws" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
 ## What Is Drums Against Humanity?
 
 Drums Against Humanity is a virtual drum instrument developed by Ugritone in collaboration with Zbigniew "Inferno" Prominski — the drummer behind Behemoth and Azarath. The library captures Inferno's signature sound, recorded at Tall Pine Records in Kolbudy, Poland by producer Haldor Grunberg (who also worked on Behemoth's chart-topping 2022 album *Opvs Contra Nvturam*). It runs on Ugritone's proprietary sampling engine and is built specifically for extreme and heavy metal production.

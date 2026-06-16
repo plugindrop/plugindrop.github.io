@@ -24,7 +24,6 @@ draft: false
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Euef8rtUYf0" title="Waves Abbey Road Studio 3 Plugin | Overview, Impressions, and Hear It In Action!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
-
 Requiem Professional was recorded in a San Francisco cathedral, giving it a natural acoustic character distinct from studio-recorded choir libraries. It includes a full ensemble and 5 individual soloists (SATB + soprano), with over 15,500 samples at 14.45GB.
 
 **Regular price:** $99 | **Part of Pick 3 deal:** [$69 for any 3 choirs](/posts/choirs-solo-vocals-102b4c)
@@ -35,7 +34,6 @@ Requiem Professional was recorded in a San Francisco cathedral, giving it a natu
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
-
 
 - **Cathedral recording** — San Francisco church acoustic, natural reverb built in
 - **15,500+ samples, 14.45GB** — full ensemble + 5 soloists
@@ -56,7 +54,6 @@ Requiem Professional suits composers who want a choir with inherent room and atm
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/-E8AadhDGSY" title="PeachPay Review and Demo: The Most Simple &amp; Stable Woocommerce Checkout Plugin🔥 Lifetime Deal $49" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
-
 
 Requiem Professional is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](/posts/choirs-solo-vocals-102b4c)** offer. Its cathedral character pairs well with Lacrimosa for a large-scale epic combination, or with Liberis for a sacred/innocent contrast.
 

@@ -13,15 +13,10 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/GVIVs2XCo9M" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is Audiority's Space Station UM282 (and the Boutique Week Sale)?
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/GVIVs2XCo9M" title="Audiority Space Station UM282 - Quick Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
-
 
 Audiority is an Italian plugin developer known for meticulously modeled boutique-style effects — the kind of processors that aim to capture the character of rare, vintage hardware rather than generic DSP. Their catalog spans delay, reverb, distortion, and dynamics processing.
 
@@ -32,7 +27,6 @@ Audiority doesn't run deep discounts constantly, which makes a 50% event worth p
 ---
 
 ## Key Features
-
 
 - **Vintage hardware modeling** — Audiority's approach centers on circuit-level emulation, aiming to replicate the sonic character of the original hardware rather than a generic approximation.
 - **Delay with character** — The Space Station UM282 targets the textured, lo-fi bucket-brigade delay sound associated with vintage studio gear, suited for tape-style repeats and washed-out ambience.
@@ -91,7 +85,6 @@ A: The promotion covers a selection of Audiority effect plugins (delay, reverb, 
 ---
 
 ## Where to Buy
-
 
 [Shop the Audiority Boutique Week Sale at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/10-Delay/8565-Space-Station-UM282?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1)
 

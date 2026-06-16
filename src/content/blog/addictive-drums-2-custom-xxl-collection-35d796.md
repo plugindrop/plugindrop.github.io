@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ikaSahd3KFQ" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is the Addictive Drums 2 Custom XXL Collection?
 
 Addictive Drums 2 (AD2) is a virtual drum instrument developed by XLN Audio, built around a high-quality sample library with an intuitive drag-and-drop workflow. The Custom XXL Collection is XLN Audio's most comprehensive bundle tier — it packages the AD2 engine together with a large selection of ADpak expansion packs covering a wide range of genres and sonic characters. Rather than buying AD2 and individual ADpaks separately, the Custom XXL gives producers a deep library in a single purchase.

@@ -26,7 +26,6 @@ draft: true
 </audio>
 </div>
 
-
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/50m2Q7wPUFg" title="A Laughable Sales Pitch - The Unison MIDI Chord Pack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>

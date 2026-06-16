@@ -19,13 +19,11 @@ converted: true
 
 ## What Is Anthology XII?
 
-
 Anthology XII is a complete plugin collection bundle available through Plugin Boutique, categorized under their "Complete Collection" tier — the broadest bundle category on the platform. The XII designation indicates this is the twelfth iteration of the series, suggesting a long product lineage and cumulative refinement across versions. At a regular retail price of $1,999, it sits firmly in the professional-grade bundle segment.
 
 ---
 
 ## Key Features
-
 
 - **Complete Collection Scope** — Positioned as a full-catalog bundle, covering a broad range of production tools in a single purchase
 - **Twelfth Generation** — The XII versioning indicates an established product line with successive updates baked into the package
@@ -41,7 +39,6 @@ Anthology XII is a complete plugin collection bundle available through Plugin Bo
 
 ## Alternatives at a Glance
 
-
 | Name | Price | Key Difference |
 |---|---|---|
 | Native Instruments Komplete | Varies by tier | Multi-format bundle with heavy sampled instruments and Kontakt integration |
@@ -53,7 +50,6 @@ If your primary gap is in synthesis and virtual instruments, a complete collecti
 ---
 
 ## FAQ
-
 
 **Q: Where is Anthology XII available at this sale price?**
 A: Check the current price at Plugin Boutique.

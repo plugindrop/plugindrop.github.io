@@ -16,8 +16,6 @@ draft: true
 
 ---
 
-
-
 ## What Is VISION 4X?
 
 VISION 4X is a multi-channel spectral analyzer plugin developed by Excite Audio, built for frequency visualization during mixing and mastering. Unlike a standard single-channel analyzer, it allows you to monitor multiple audio streams simultaneously in one display — making direct frequency comparisons a visual task rather than a switch-and-listen guessing game. It sits firmly in the utility category: no processing, no coloring, just analysis.

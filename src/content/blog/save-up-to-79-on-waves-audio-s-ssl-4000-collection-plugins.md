@@ -16,11 +16,6 @@ score: 8.67
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/0iYgAkfkuis" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
 ## What Is the Waves SSL 4000 Collection?
 
 The Waves SSL 4000 Collection is a set of plugins modeled after the Solid State Logic 4000 series consoles — hardware that shaped the sound of countless chart-topping records from the 1980s onward. Developed in collaboration with SSL, the collection brings the character of the 4000 E and G series to your DAW. It's one of Waves' longest-standing and most recognized product lines, built for engineers who want that classic British analog console texture without the hardware price tag.

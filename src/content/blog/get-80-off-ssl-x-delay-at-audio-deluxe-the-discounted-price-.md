@@ -20,7 +20,6 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/9hPDLLgfM3Q" title="Get 80% off SSL X-Delay at Audio Deluxe — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is SSL Native X-Delay?
 
 SSL Native X-Delay is a stereo delay plugin developed by Solid State Logic as part of their Native plugin suite. SSL built their reputation on mixing consoles that defined the sound of modern recorded music, and their Native range brings that heritage into software form. X-Delay is designed to deliver classic delay textures — from clean digital repeats to warmer, tape-influenced tones — within a DAW environment. It targets professional workflows where analog-inspired processing and precise tempo-sync are both priorities.
@@ -97,7 +96,6 @@ A: Refund terms vary by store and product — check Audio Deluxe's official poli
 ## Related Guides
 
 - [10 Best Free Delay VST Plugins in 2026](/posts/best-free-delay-vst-plugins/)
-
 
 ---
 

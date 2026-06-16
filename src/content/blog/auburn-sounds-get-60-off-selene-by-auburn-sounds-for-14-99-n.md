@@ -16,15 +16,10 @@ score: 3.6
 ---
 **TL;DR:** Selene by Auburn Sounds is 60% off right now — ~~$38.67~~ **$14.99** for the Full Edition of this versatile algorithmic reverb. The deal runs until April 16th, so there's a decent window to decide. [Grab Selene at 60% off here.](https://audioplugin.deals/product/selene-by-auburn-sounds/ref/21/)
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/YgNrQ3eXca4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is Selene by Auburn Sounds?
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/t34EubXxRL8" title="Auburn Sounds SELENE Reverberator Demo  |  No Talking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
-
 
 Selene is a versatile algorithmic reverb plugin from Auburn Sounds, a developer known for offering polished audio tools with generous free tiers. The Full Edition — which is what's on sale here — adds Shimmer with four distinct modes and 2x oversampling on top of an already feature-rich core engine. It runs on Windows, macOS, and Linux and supports VST, VST3, AAX, AU, LV2, FLP, and CLAP formats. No subscription, no phoning home, no update fees.
 
@@ -32,7 +27,6 @@ Selene is a versatile algorithmic reverb plugin from Auburn Sounds, a developer 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/t34EubXxRL8" title="Introducing Freakshow Industries | Mishby, Dumpster Fire, Backmask Plugins | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
-
 
 - **64-bit Double Processing Signal Path** — Full precision under the hood for clean, artifact-free reverb tails.
 - **8-Band Damping EQ** — Shape the frequency response of the reverb decay across eight bands for precise tonal control.
@@ -57,7 +51,6 @@ Selene has generated a multi-page discussion thread on the [KVR Audio forums](ht
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/t34EubXxRL8" title="Explaining Claude Code&#39;s Pricing Plan #claudecode #claude #pricing #explained #product" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
-
 | Regular Price | Deal Price | You Save |
 |---|---|---|
 | ~~$38.67~~ | **$14.99** | **$23.68 (60%)** |
@@ -73,7 +66,6 @@ Deal expires **April 16th**. Verify current pricing on the product page — deal
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/t34EubXxRL8" title="Kissmetrics Overview - Top Features, Pros &amp; Cons, and Alternatives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
-
 | Name | Price | Key Difference |
 |---|---|---|
 | Valhalla VintageVerb | $50 | Multiple reverb algorithms (plate, room, hall, chamber, etc.) in one plugin |
@@ -86,7 +78,6 @@ If you only need a basic reverb and want to spend nothing, TAL-Reverb-4 or Cloud
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/t34EubXxRL8" title="WPB Advanced FAQ | Probably The Best WordPress FAQ Plugin by WPBean" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
-
 
 **Q: Is there a free version of Selene?**
 A: Yes. Auburn Sounds offers a free edition with the core reverb engine. The Full Edition (on sale here) adds Shimmer with four modes and 2x oversampling.

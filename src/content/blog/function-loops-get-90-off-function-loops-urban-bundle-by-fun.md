@@ -21,7 +21,6 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/g_zh4sA2Ik4" title="Function Loops — Get 90% off Function Loops Urban Bundle by Function Loops for $25 (Normally $251.40) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is the Function Loops Urban Bundle?
 
 Function Loops is a sample library developer specializing in royalty-free loop packs for urban production genres — hip-hop, trap, R&B, and related styles. The Urban Bundle packages multiple of their individual packs into a single purchase, covering the core sonic elements of modern urban production: drums, melodics, bass lines, and atmospheric elements. At full price the bundle runs $251.40, which makes this 90% discount an unusually steep markdown for this category of content.

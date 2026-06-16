@@ -15,8 +15,6 @@ score: 5.67
 ---
 **TL;DR:** XterminatorApps is running 20% off Abletonlive.aaf — the AAF-to-Ableton converter drops from ~~$50~~ to $40 until April 30, 2026. If you're tired of manually rebuilding timelines from Pro Tools or Premiere Pro sessions, [grab the deal here](https://xterminatorapps.gumroad.com/l/abletonliveaaf/20APRIL).
 
-
-
 ## What Is Abletonlive.aaf?
 
 Abletonlive.aaf is a standalone desktop utility by XterminatorApps that converts AAF (Advanced Authoring Format) files directly into Ableton Live project files (.als). Ableton Live has never natively supported AAF import — a long-standing pain point for anyone moving sessions between Pro Tools, Premiere Pro, DaVinci Resolve, or Media Composer and Ableton. This tool bridges that gap, turning what used to be hours of manual track rebuilding into a near-instant conversion.

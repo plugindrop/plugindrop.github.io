@@ -13,7 +13,6 @@ converted: true
 
 ---
 
-
 ## What Is the BA-1 Synthesizer by Baby Audio?
 
 The BA-1 is a software synthesizer developed by Baby Audio, a plugin company that's built a strong reputation for polished, creatively focused tools. The BA-1 is modeled after the spirit of classic analog monosynths — particularly the vintage Roland SH-101 — bringing that warm, characterful tone into a modern DAW environment. Baby Audio has positioned it as a go-to for producers who want vintage texture without the hassle of hardware. It targets the sweet spot between authentic analog character and modern workflow convenience.
@@ -79,7 +78,6 @@ A: BA-1 supports expansion packs sold separately. The base synth purchase gives 
 ## Where to Buy
 
  
-
 
 [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=plugindrop&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763)
 

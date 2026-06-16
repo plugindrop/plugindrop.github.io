@@ -16,7 +16,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BtpgI5hoRrI" title="ADSR Sounds vs Splice: Which Sample Subscription Is Better in 2026? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Platform | Model | Best For | Get It |

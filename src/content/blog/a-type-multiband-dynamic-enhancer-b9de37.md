@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/YTiqNM2G5c8" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is A Type Multiband Dynamic Enhancer?
 
 A Type Multiband Dynamic Enhancer is an audio enhancement plugin available through Plugin Boutique that applies dynamic processing across multiple frequency bands. Rather than a single broadband boost, it divides the signal into bands and applies enhancement independently — giving you precision control over where and how much energy is added. This kind of tool is aimed at mix engineers and producers who need to bring out presence, warmth, or air without introducing the artifacts that a single-band enhancer can cause at extremes.

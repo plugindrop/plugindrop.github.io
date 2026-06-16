@@ -12,7 +12,6 @@ score: 1.68
 
 **TL;DR:** Plugin Boutique runs multiple discount systems simultaneously — sales, loyalty rewards, Virtual Cash, and free plugins with purchase. Knowing how these stack can cut plugin costs significantly. Here is how each one works.
 
-
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/KogPrsX_nFo" title="5 Plugin Boutique Deals To Grab Now!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>

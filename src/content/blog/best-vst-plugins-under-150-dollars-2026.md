@@ -18,8 +18,6 @@ priceTrack:
 ---
 **TL;DR:** The best VST plugins under $150 in 2026 include tools that appear on major-label releases, and several of them are free. Start with Vital (free wavetable synth) and Valhalla Room ($50 reverb) — the community consensus on both is unambiguous. The rest of this list fills every gap in between.
 
-
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

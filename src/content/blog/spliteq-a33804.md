@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yGnUMwxNitk" title="47% Off SplitEQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is SplitEQ?
 
 SplitEQ is an equalizer plugin developed by Eventide — the hardware legend behind iconic studio gear. What sets it apart from conventional EQs is its core approach: rather than treating audio as a single signal, SplitEQ separates the **transient** and **tonal** components before applying EQ to each independently. This lets producers shape, for example, the attack of a snare without touching its body — or pull mud from a guitar's sustain without affecting its pick attack. It also includes mid-side processing for stereo shaping.
@@ -103,7 +102,6 @@ A: The transient/tonal split is applicable to any audio source with distinct att
 
 - [Best EQ Plugins 2026](/posts/best-eq-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/spLsQSPi1oQ" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is SubLab XL?
 
 SubLab XL is a dedicated bass synthesizer developed by Future Audio Workshop (FAW). Built around their proprietary X-Sub engine, it combines a synth layer, a sample layer, and a sub-bass generator in a single plugin — making it a purpose-built tool for crafting punchy, low-end-focused sounds. It targets producers working in trap, hip-hop, lo-fi, house, and any genre where controlled, clean sub bass is non-negotiable.

@@ -16,7 +16,6 @@ heroImage: "/images/best-free-sample-packs-2026_og.jpg"
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/89grrQTF5Ow" title="Where to Find the Best Free Sample Packs in 2026 (Curated List) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Source | Cost | Best For | Get It |

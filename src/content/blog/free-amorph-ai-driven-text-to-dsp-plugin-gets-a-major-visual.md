@@ -13,11 +13,6 @@ score: 1.44
 
 **TL;DR:** Amorph, the AI-driven text-to-DSP plugin by Artists in DSP, just dropped a major GUI overhaul — and it's still **completely free** in open beta. Custom UI skins, cloud-based preset browsing, and a new MIDI variant for building arpeggiators and sequencers. Zero dollars. [Grab it while it's free](https://artistsindsp.gumroad.com/l/amorph).
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CJ806YGSQlE" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
 ## What Is Amorph?
 
 Amorph is a text-to-DSP plugin developed by **Artists in DSP** that lets you create custom instruments and effects from plain language prompts — no coding required. You type what you want, Amorph generates a prompt to feed into a large language model like ChatGPT, and the LLM spits back a script you paste into the plugin for compilation. It's an unusual workflow that essentially turns natural language into functioning DSP code. Available in AU and VST3 formats for macOS (10.15+) and Windows 10/11, the plugin is currently in open beta.

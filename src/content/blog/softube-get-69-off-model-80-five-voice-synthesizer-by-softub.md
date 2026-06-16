@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ffD9MRCEppU" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is Model 80 Five Voice Synthesizer?
 
 Model 80 is a polyphonic synthesizer plugin developed by Softube, a Swedish company known for high-fidelity analog modeling. The instrument is built around a five-voice architecture, drawing on the character and warmth of classic analog polysynths. Softube develops their plugins under strict hardware-focused engineering principles, and Model 80 fits squarely into their catalog of professional-grade virtual instruments.

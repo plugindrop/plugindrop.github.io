@@ -18,7 +18,6 @@ priceTrack:
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mSzvpCz-M2k" title="FabFilter Pro-C 2 Review: The Most Transparent Compressor Plugin? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -27,7 +26,7 @@ priceTrack:
 | FabFilter Pro-C 2 — Vintage Style | $179 | Analog-colored drums and saturated transients | [Official Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-c-2-review) |
 | FabFilter Pro-C 2 — Bus Style | $179 | Transparent mix bus glue without coloration | [Official Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-c-2-review) |
 | Waves SSL G-Master Buss Compressor | ~$29–$49 | Classic SSL-style bus compression character | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| FabFilter Total Bundle | ~$899 | Complete FabFilter mixing and mastering suite | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| FabFilter Total Bundle | ~$899 | Complete FabFilter mixing and mastering suite | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
 
 ---
 
@@ -144,7 +143,7 @@ Oversampling options go up to 32x, pushing the internal noise floor below what a
 - **Price:** ~$899
 - **Why upgrade:** The Total Bundle includes Pro-C 2, Pro-Q 4, Pro-MB, Pro-L 2, Pro-DS, Pro-G, Saturn 2, Timeless 3, Volcano 3, and FabFilter's full creative suite. If Pro-C 2 has already proven its value in your sessions, the bundle delivers every remaining FabFilter plugin at a substantially lower cost than buying them individually. FabFilter also offers crossgrade pricing for existing owners — check the official site before purchasing separate licenses.
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20FabFilter%20Total%20Bundle&a_aid=69cb95abe1763)
 
 ---
 
@@ -154,7 +153,7 @@ Oversampling options go up to 32x, pushing the internal noise floor below what a
 |--------|-------|------|------------|-----|
 | FabFilter Pro-C 2 | $179 | Multi-style compressor | 8 styles, M/S mode, sidechain EQ, interactive display, zero-latency | [Official Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-c-2-review) |
 | Waves SSL G-Master Buss Compressor | ~$29–$49 | Bus compressor emulation | Classic SSL character, simple interface, proven on commercial releases | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| FabFilter Total Bundle | ~$899 | Full plugin suite | All FabFilter plugins, significant bundle savings, crossgrade options | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| FabFilter Total Bundle | ~$899 | Full plugin suite | All FabFilter plugins, significant bundle savings, crossgrade options | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
 
 ---
 

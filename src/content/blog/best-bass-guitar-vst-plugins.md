@@ -20,7 +20,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mgZKNfzIkjw" title="Best Bass Guitar VST Plugins 2026: Scarbee, MODO Bass and More — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

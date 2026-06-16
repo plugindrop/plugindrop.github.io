@@ -11,7 +11,6 @@ draft: false
 heroImage: "/images/best-free-orchestral-vst-plugins_og.jpg"
 ---
 
-
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-Sm714Dlci8" title="10 Best Free Orchestral & Strings VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

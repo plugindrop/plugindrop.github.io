@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ldwd5cfJzqo" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is Inner Pitch?
 
 Inner Pitch is a pitch-shifting effect plugin developed by Auburn Sounds. Its core design philosophy centers on preserving the natural character of source material — pitch changes that sound musical rather than robotic. Destruction and experimental effects are available, but they're opt-in rather than the default. The plugin shipped its 2.0 update as a free upgrade, which improved pitch-shifting accuracy and added a hard-tune robot pitch correction mode for Full Edition users.

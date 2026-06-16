@@ -18,18 +18,17 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6DLpfMwqw3E" title="Arturia V Collection 11 Review: 40+ Vintage Synths Worth the Price? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Instrument | Included In | Best For | Get It |
 |------------|------------|----------|--------|
-| Prophet-5 V | V Collection 11 | Classic poly pads, prog rock | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| CS-80 V | V Collection 11 | Cinematic sweeps, Vangelis tones | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Mini V4 | V Collection 11 | Bass lines, lead synths | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Stage-73 V | V Collection 11 | Vintage electric piano | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| OB-Xa V | V Collection 11 | Warm chorused analog pads | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| DX7 V | V Collection 11 | FM bass, electric piano tones | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| ARP 2600 V | V Collection 11 | Experimental sound design | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Prophet-5 V | V Collection 11 | Classic poly pads, prog rock | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20V%20Collection%2011&a_aid=69cb95abe1763) |
+| CS-80 V | V Collection 11 | Cinematic sweeps, Vangelis tones | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20V%20Collection%2011&a_aid=69cb95abe1763) |
+| Mini V4 | V Collection 11 | Bass lines, lead synths | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20V%20Collection%2011&a_aid=69cb95abe1763) |
+| Stage-73 V | V Collection 11 | Vintage electric piano | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20V%20Collection%2011&a_aid=69cb95abe1763) |
+| OB-Xa V | V Collection 11 | Warm chorused analog pads | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20V%20Collection%2011&a_aid=69cb95abe1763) |
+| DX7 V | V Collection 11 | FM bass, electric piano tones | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20V%20Collection%2011&a_aid=69cb95abe1763) |
+| ARP 2600 V | V Collection 11 | Experimental sound design | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20V%20Collection%2011&a_aid=69cb95abe1763) |
 
 ---
 
@@ -44,10 +43,6 @@ This review covers every major instrument in the bundle, who each one is for, ho
 ---
 
 ## The Core Collection: What You're Actually Getting
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/kLnke_-5pHc" title="The Core Collection by Plugin Boutique" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 ### Analog Lab V — the command center you'll use every day
 
@@ -62,7 +57,7 @@ Analog Lab V is the front-end browser that ties the entire collection together. 
 
 **Best for:** Live performers, producers who want instant inspiration without deep programming.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20V%20Collection%2011&a_aid=69cb95abe1763)
 
 ---
 
@@ -83,7 +78,7 @@ Arturia's Prophet-5 V captures both the Rev 3.2 and Rev 3.3 circuit behaviors, i
 
 **Best for:** Classic poly pads, 80s-influenced leads, any genre needing warm harmonic density.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20V%20Collection%2011&a_aid=69cb95abe1763)
 
 ---
 
@@ -100,7 +95,7 @@ The Yamaha CS-80 is the most sonically complex polysynth ever built, and Arturia
 
 **Best for:** Film scoring, ambient music, any producer chasing that expensive, organic poly pad sound.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20V%20Collection%2011&a_aid=69cb95abe1763)
 
 ---
 
@@ -117,15 +112,11 @@ The Oberheim OB-Xa's defining characteristic is its chorus — thick, slightly d
 
 **Best for:** Pop, retro-funk, synthwave producers needing instant warmth without heavy processing.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20V%20Collection%2011&a_aid=69cb95abe1763)
 
 ---
 
 ## The Mono Synths and Modular Systems
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/kLnke_-5pHc" title="JAMES BLAKE on Modular Synths. #musicproducer #jamesblake #modularsynth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 ### Mini V4 — still the best Minimoog emulation on the market
 
@@ -140,7 +131,7 @@ Version 4 of Arturia's Minimoog model added a polyphonic mode and an expanded mo
 
 **Best for:** Bass-heavy genres, classic rock lead tones, any producer who needs the Moog filter character.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20V%20Collection%2011&a_aid=69cb95abe1763)
 
 ---
 
@@ -157,7 +148,7 @@ The ARP 2600 is a semi-modular system with a built-in spring reverb and a signal
 
 **Best for:** Sound designers, experimental producers, anyone building unique sample libraries.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20V%20Collection%2011&a_aid=69cb95abe1763)
 
 ---
 
@@ -174,7 +165,7 @@ Roland's TB-303 has spawned hundreds of emulations but few capture the specific 
 
 **Best for:** House, techno, acid producers who need an authentic 303 without the hardware maintenance headaches.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20V%20Collection%2011&a_aid=69cb95abe1763)
 
 ---
 
@@ -193,7 +184,7 @@ Arturia models the Rhodes Stage 73 tine behavior with velocity-sensitive bark, s
 
 **Best for:** Soul, R&B, jazz, neo-soul producers needing a mix-ready electric piano.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20V%20Collection%2011&a_aid=69cb95abe1763)
 
 ---
 
@@ -210,15 +201,11 @@ B-3 V3 models the Hammond B-3's tonewheel generator system, including crosstalk,
 
 **Best for:** Gospel, blues, rock, jazz — any context requiring authentic organ tone.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20V%20Collection%2011&a_aid=69cb95abe1763)
 
 ---
 
 ## The Experimental and Rare Instruments
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/kLnke_-5pHc" title="Noises - My New Experimental Instrument With AudioThing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 ### CMI V — the Fairlight in your DAW
 
@@ -233,7 +220,7 @@ The Fairlight CMI was a $25,000 sampling workstation that defined the sound of 1
 
 **Best for:** Producers hunting for that specific 80s digital grit; sample library builders.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20V%20Collection%2011&a_aid=69cb95abe1763)
 
 ---
 
@@ -250,15 +237,11 @@ The Yamaha DX7's 6-operator FM architecture is notoriously difficult to program 
 
 **Best for:** Electronic producers, lo-fi hip-hop beatmakers, anyone needing authentic FM tones without a FM programming degree.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20V%20Collection%2011&a_aid=69cb95abe1763)
 
 ---
 
 ## Worth Upgrading To
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/kLnke_-5pHc" title="UAD Ruby plugin : my review (is it worth it?)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 ### Arturia V Collection 11 — the complete vintage library at one price
 
@@ -268,7 +251,7 @@ The Yamaha DX7's 6-operator FM architecture is notoriously difficult to program 
 - **Price:** ~$499 (frequent sales; check Plugin Boutique for current pricing)
 - **Why upgrade:** Buying even three or four individual Arturia instruments costs more than the full collection. The bundle nets you 40+ instruments, Analog Lab V, and all future Collection updates included in the license year.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20V%20Collection%2011&a_aid=69cb95abe1763)
 
 ---
 
@@ -280,30 +263,26 @@ The Yamaha DX7's 6-operator FM architecture is notoriously difficult to program 
 - **Price:** Varies by tier (Standard / Select / Ultimate / Collector's Edition)
 - **Why upgrade:** If you need orchestral libraries, modern synths, effects processing, and sampling tools alongside vintage keys, Komplete's scope is wider. It trades V Collection's depth of vintage accuracy for breadth across production categories — a better fit for composers who work across multiple genres and need everything in one ecosystem.
 
-[→ Get Native Instruments Komplete on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Native Instruments Komplete on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Native%20Instruments%20Komplete&a_aid=69cb95abe1763)
 
 ---
 
 ## Full Comparison Table
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/kLnke_-5pHc" title="Affiliate Websites do better using this WordPress Product Comparison table plugin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 | Instrument | Price | Type | Highlights | CTA |
 |------------|-------|------|------------|-----|
-| Arturia V Collection 11 (full bundle) | ~$499 | Bundle | 40+ instruments, Analog Lab V, 11,000+ presets | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Prophet-5 V | Included | Poly Synth | Rev 3.2/3.3 voice variation modeling | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| CS-80 V | Included | Poly Synth | Dual-layer, ribbon, polyphonic AT | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| OB-Xa V | Included | Poly Synth | Voice card variation, classic chorus | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Mini V4 | Included | Mono Synth | Ladder filter, poly mode added | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| ARP 2600 V | Included | Semi-Modular | Spring reverb, extended sequencer | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Acid V | Included | Bass Synth | Circuit-accurate 303 accent/glide | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Stage-73 V | Included | Electric Piano | Tine variation, suitcase tremolo | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| B-3 V3 | Included | Organ | Tonewheel crosstalk, Leslie simulation | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| DX7 V | Included | FM Synth | Visual FM editor, 6-operator accuracy | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| CMI V | Included | Sampler | 8-bit Fairlight character, Page R sequencer | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| NI Komplete | Paid (varies) | Mega Bundle | Orchestral, modern synths, FX, sampling | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia V Collection 11 (full bundle) | ~$499 | Bundle | 40+ instruments, Analog Lab V, 11,000+ presets | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Komplete&a_aid=69cb95abe1763) |
+| Prophet-5 V | Included | Poly Synth | Rev 3.2/3.3 voice variation modeling | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Komplete&a_aid=69cb95abe1763) |
+| CS-80 V | Included | Poly Synth | Dual-layer, ribbon, polyphonic AT | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Komplete&a_aid=69cb95abe1763) |
+| OB-Xa V | Included | Poly Synth | Voice card variation, classic chorus | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Komplete&a_aid=69cb95abe1763) |
+| Mini V4 | Included | Mono Synth | Ladder filter, poly mode added | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Komplete&a_aid=69cb95abe1763) |
+| ARP 2600 V | Included | Semi-Modular | Spring reverb, extended sequencer | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Komplete&a_aid=69cb95abe1763) |
+| Acid V | Included | Bass Synth | Circuit-accurate 303 accent/glide | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Komplete&a_aid=69cb95abe1763) |
+| Stage-73 V | Included | Electric Piano | Tine variation, suitcase tremolo | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Komplete&a_aid=69cb95abe1763) |
+| B-3 V3 | Included | Organ | Tonewheel crosstalk, Leslie simulation | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Komplete&a_aid=69cb95abe1763) |
+| DX7 V | Included | FM Synth | Visual FM editor, 6-operator accuracy | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Komplete&a_aid=69cb95abe1763) |
+| CMI V | Included | Sampler | 8-bit Fairlight character, Page R sequencer | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Komplete&a_aid=69cb95abe1763) |
+| NI Komplete | Paid (varies) | Mega Bundle | Orchestral, modern synths, FX, sampling | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Komplete&a_aid=69cb95abe1763) |
 
 ---
 
@@ -335,14 +314,10 @@ A: Arturia has historically offered V Collection updates as paid upgrades to the
 
 ---
 ## Final Thoughts
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/kLnke_-5pHc" title="Final Boss of SYNTH Plugins | Unisynth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 Arturia V Collection 11 remains the most comprehensive and musically credible vintage synth emulation library available in 2026 — nothing else at this price point gives you the Prophet-5, CS-80, Minimoog, DX7, Rhodes, Hammond B-3, and 35+ more instruments with this level of circuit-model accuracy. If vintage texture, warmth, and authentic analog character matter to your productions, this is the benchmark buy that pays for itself within the first serious project.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20V%20Collection%2011&a_aid=69cb95abe1763)
 
 ---
 

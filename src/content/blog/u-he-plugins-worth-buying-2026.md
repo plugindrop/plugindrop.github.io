@@ -12,8 +12,6 @@ draft: false
 ---
 **TL;DR:** u-he builds some of the most acoustically faithful virtual instruments on the market, and the lineup justifies the price for producers who are serious about synthesis. Diva is the community's consistent top pick for analog warmth and vintage character; Hive 2 is the smarter buy if CPU efficiency matters more than circuit-level authenticity.
 
-
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

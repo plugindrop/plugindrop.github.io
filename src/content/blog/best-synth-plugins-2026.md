@@ -16,7 +16,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="Best Synth Plugins 2026: Free & Paid VSTs for Every Style — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
@@ -27,7 +26,7 @@ draft: false
 | Dexed | Free | FM synthesis, DX7 patches | [Free Download](https://asb2m10.github.io/dexed/) |
 | Serum | ~$189 | Professional sound design, EDM | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-plugins-2026) |
 | Phase Plant | ~$99 | Modular workflow, versatility | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-plugins-2026) |
-| Arturia Pigments | ~$99–$149 | Cinematic, hybrid synthesis | [Get Pigments](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia Pigments | ~$99–$149 | Cinematic, hybrid synthesis | [Get Pigments](https://www.pluginboutique.com/search?search_query=Pigments&a_aid=69cb95abe1763) |
 
 ## Introduction
 
@@ -148,7 +147,7 @@ The free synths above cover a wide range of synthesis types and production scena
 - **Price:** ~$99–$149
 - **Why upgrade:** Pigments combines wavetable, virtual analog, sample, harmonic (additive), and granular synthesis engines — and lets you layer any two simultaneously in a single patch. That hybrid architecture opens sound design combinations no single-engine synth can reach. For composers working in cinematic, ambient, or hybrid electronic music, Pigments' built-in FX chain and advanced arpeggiator add significant production value that free alternatives can't replicate.
 
-[→ Get Arturia Pigments on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia Pigments on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20Pigments&a_aid=69cb95abe1763)
 
 ---
 
@@ -162,7 +161,7 @@ The free synths above cover a wide range of synthesis types and production scena
 | Dexed | Free | FM | DX7 emulation, SysEx compatible, 6-operator FM engine | [Download Free](https://asb2m10.github.io/dexed/) |
 | Serum | ~$189 | Wavetable | Industry-standard, massive preset ecosystem, oscillator quality | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-plugins-2026) |
 | Phase Plant | ~$99 | Modular | Build-your-own signal path, additive + wavetable + sampler | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-plugins-2026) |
-| Arturia Pigments | ~$99–$149 | Hybrid Multi-engine | 5 engine types, layer two simultaneously, built-in FX | [Get Pigments](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia Pigments | ~$99–$149 | Hybrid Multi-engine | 5 engine types, layer two simultaneously, built-in FX | [Get Pigments](https://www.pluginboutique.com/search?search_query=Pigments&a_aid=69cb95abe1763) |
 
 ## How to Choose
 

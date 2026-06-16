@@ -19,10 +19,6 @@ Now I have everything needed. Writing the article.
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/UWtre9qsUuE" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is Mix Bundle One?
 
 Mix Bundle One is a plugin bundle from **Slate Digital** that packages seven analog-modeled mixing tools into a single, ready-to-use signal chain. It's built around the FG series — four core modules designed to replicate the character of classic British and American hardware — plus three utility and enhancement plugins. The bundle targets producers and engineers who want a complete mix chain without piecing individual plugins together over time.

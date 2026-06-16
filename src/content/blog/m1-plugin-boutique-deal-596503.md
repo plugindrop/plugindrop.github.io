@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/SGy0XvSBJqM" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is the Korg M1?
 
 The Korg M1 is a software recreation of the iconic 1988 Korg M1 workstation synthesizer — arguably the best-selling synthesizer of all time. Developed by Korg as part of their legacy software lineup, the plugin faithfully emulates the original hardware's AI (Advanced Integrated) synthesis engine, bringing those unmistakable PCM-based tones into any modern DAW. If you've heard pop, house, or R&B from the late '80s and '90s, you've heard the M1.

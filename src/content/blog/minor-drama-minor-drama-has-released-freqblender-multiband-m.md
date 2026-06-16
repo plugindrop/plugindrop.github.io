@@ -15,8 +15,6 @@ heroImage: "/images/minor-drama-minor-drama-has-released-freqblender-multiband-m
 
 ---
 
-
-
 ## What Is FreqBlender?
 
 FreqBlender is a multiband mix knob plugin from Minor Drama, available for Windows and Mac. The concept centers on blending processed and unprocessed signal across multiple frequency bands — a workflow that sits between traditional parallel processing and multiband dynamics. Minor Drama is a boutique plugin developer, and FreqBlender appears to be a new release landing with an intro discount attached.

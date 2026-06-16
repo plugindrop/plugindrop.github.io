@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_whRLEwHx-M" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is INTENSITY 2?
 
 INTENSITY 2 is a dynamics processor plugin available through Plugin Boutique. As a second-generation release, it builds on an earlier version with refined controls for shaping the dynamic character of audio signals. Dynamics processors in this category are used across mixing and mastering workflows to control punch, density, and transient response. Check the product page for the full developer background and version history.

@@ -13,19 +13,17 @@ draft: false
 ---
 **TL;DR:** Wider by Polyverse is the best free stereo widener VST in 2026 — it's completely free, phase-coherent, and passes mono checks without artifacts. For professional mastering, Brainworx bx_stereomaker and Nugen Audio Stereoizer are the paid tools worth the investment.
 
-
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Wider (Polyverse) | Free | All-purpose widening, any DAW | [Free Download](https://polyversemusic.com/products/wider/) |
-| iZotope Ozone Imager 2 | Free | Visual stereo control + mono checking | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| iZotope Ozone Imager 2 | Free | Visual stereo control + mono checking | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=10%20Best%20Stereo%20Widener%20%26%20Imager%20Plugins%20in%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763) |
 | Voxengo MSED | Free | M/S routing and side-chain processing | [Free Download](https://www.voxengo.com/product/msed/) |
-| Waves S1 Stereo Imager | ~$29 | Classic transparent stereo shaping | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Brainworx bx_stereomaker | ~$49 | Mono-to-stereo conversion | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Nugen Audio Stereoizer | ~$99 | Mastering-grade frequency-selective width | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Soundtoys MicroShift | ~$99 | Analog-character chorus widening | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Waves S1 Stereo Imager | ~$29 | Classic transparent stereo shaping | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=10%20Best%20Stereo%20Widener%20%26%20Imager%20Plugins%20in%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763) |
+| Brainworx bx_stereomaker | ~$49 | Mono-to-stereo conversion | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=10%20Best%20Stereo%20Widener%20%26%20Imager%20Plugins%20in%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763) |
+| Nugen Audio Stereoizer | ~$99 | Mastering-grade frequency-selective width | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=10%20Best%20Stereo%20Widener%20%26%20Imager%20Plugins%20in%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763) |
+| Soundtoys MicroShift | ~$99 | Analog-character chorus widening | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=10%20Best%20Stereo%20Widener%20%26%20Imager%20Plugins%20in%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763) |
 
 ---
 
@@ -75,7 +73,7 @@ The mono compatibility checker alone makes this worth installing even if you use
 
 **Best for:** Visual monitoring, multi-band stereo correction, and mono compatibility checks on final mixes.
 
-[→ Get iZotope Ozone Imager 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get iZotope Ozone Imager 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20iZotope%20Ozone%20Imager%202&a_aid=69cb95abe1763)
 
 ---
 
@@ -134,7 +132,7 @@ At its regular sale price, the S1 is one of the best value-for-money professiona
 
 **Best for:** Bus processing, mastering chains, and engineers who want the transparency of a classic M/S widener with a proven professional track record.
 
-[→ Get Waves S1 Stereo Imager on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Waves S1 Stereo Imager on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Waves%20S1%20Stereo%20Imager&a_aid=69cb95abe1763)
 
 ---
 
@@ -153,7 +151,7 @@ This is the plugin engineers reach for when they receive a mono guitar DI, a mon
 
 **Best for:** Converting mono sources to stereo on individual stems — especially guitars, keys, and synth pads.
 
-[→ Get Brainworx bx_stereomaker on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Brainworx bx_stereomaker on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Brainworx%20bx_stereomaker&a_aid=69cb95abe1763)
 
 ---
 
@@ -172,7 +170,7 @@ This is a character widener: use it when you want the width itself to contribute
 
 **Best for:** Vocals, guitars, and melodic elements where analog warmth and organic stereo width are creatively desirable.
 
-[→ Get Soundtoys MicroShift on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Soundtoys MicroShift on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Soundtoys%20MicroShift&a_aid=69cb95abe1763)
 
 ---
 
@@ -191,7 +189,7 @@ The Punch parameter, which controls transient behavior independently per channel
 
 **Best for:** Mix repair, stereo field balancing, and surgically adjusting center/sides balance on full mixes and stems.
 
-[→ Get Waves Center on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Waves Center on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Waves%20Center&a_aid=69cb95abe1763)
 
 ---
 
@@ -210,7 +208,7 @@ The price is higher than most options here, but the precision and transparency j
 
 **Best for:** Mastering engineers who need frequency-selective widening with full low-end mono protection and professional delivery standards.
 
-[→ Get Nugen Audio Stereoizer on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Nugen Audio Stereoizer on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Nugen%20Audio%20Stereoizer&a_aid=69cb95abe1763)
 
 ---
 
@@ -229,7 +227,7 @@ If MicroShift feels too saturated or vintage for a production, MicroPitch offers
 
 **Best for:** Modern productions where pitch-based widening is needed with greater precision and fewer vintage coloration artifacts.
 
-[→ Get Eventide MicroPitch on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Eventide MicroPitch on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Eventide%20MicroPitch&a_aid=69cb95abe1763)
 
 ---
 
@@ -255,7 +253,7 @@ If MicroShift feels too saturated or vintage for a production, MicroPitch offers
 - **Price:** ~$299 (check for frequent sales)
 - **Why upgrade:** Rather than purchasing S1 and Center individually, the Waves Platinum Bundle includes both plus over 60 additional professional plugins — compressors, EQs, reverbs, and saturation tools — making it one of the most cost-effective ways to build out a professional Waves toolkit in a single purchase.
 
-[→ Get Waves Platinum Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Waves Platinum Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Waves%20Platinum%20Bundle&a_aid=69cb95abe1763)
 
 ---
 
@@ -264,15 +262,15 @@ If MicroShift feels too saturated or vintage for a production, MicroPitch offers
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Wider (Polyverse) | Free | M/S Widener | Mono-safe, single-knob, zero artifacts | [Free Download](https://polyversemusic.com/products/wider/) |
-| iZotope Ozone Imager 2 | Free | Multi-band Imager | Lissajous display, frequency-selective, mono meter | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| iZotope Ozone Imager 2 | Free | Multi-band Imager | Lissajous display, frequency-selective, mono meter | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20Platinum%20Bundle&a_aid=69cb95abe1763) |
 | Voxengo MSED | Free | M/S Utility | M/S encode/decode, use any plugin in M/S domain | [Free Download](https://www.voxengo.com/product/msed/) |
 | MeldaProduction MStereoExpander | Free | Stereo Expander | Multi-control, bass mono protection | [Free Download](https://www.meldaproduction.com/MStereoExpander) |
-| Waves S1 Stereo Imager | ~$29 | M/S Imager | Shuffler + widener modes, industry-proven | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Brainworx bx_stereomaker | ~$49 | Mono-to-Stereo | Clean mono-to-stereo conversion, artifact-free | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Soundtoys MicroShift | ~$99 | ADT Widener | Vintage pitch-shift character, 3 style modes | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Waves Center | ~$29 | Stereo Control | Independent center/sides volume and punch | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Nugen Audio Stereoizer | ~$99 | Mastering Imager | Frequency-selective, mastering-grade transparency | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
-| Eventide MicroPitch | ~$99 | Pitch Widener | Modern pitch-shift width, modulation controls | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Waves S1 Stereo Imager | ~$29 | M/S Imager | Shuffler + widener modes, industry-proven | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20Platinum%20Bundle&a_aid=69cb95abe1763) |
+| Brainworx bx_stereomaker | ~$49 | Mono-to-Stereo | Clean mono-to-stereo conversion, artifact-free | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20Platinum%20Bundle&a_aid=69cb95abe1763) |
+| Soundtoys MicroShift | ~$99 | ADT Widener | Vintage pitch-shift character, 3 style modes | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20Platinum%20Bundle&a_aid=69cb95abe1763) |
+| Waves Center | ~$29 | Stereo Control | Independent center/sides volume and punch | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20Platinum%20Bundle&a_aid=69cb95abe1763) |
+| Nugen Audio Stereoizer | ~$99 | Mastering Imager | Frequency-selective, mastering-grade transparency | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20Platinum%20Bundle&a_aid=69cb95abe1763) |
+| Eventide MicroPitch | ~$99 | Pitch Widener | Modern pitch-shift width, modulation controls | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20Platinum%20Bundle&a_aid=69cb95abe1763) |
 
 ---
 
@@ -318,7 +316,7 @@ A: Wider by Polyverse and iZotope Ozone Imager 2 are both used by professional e
 
 Wider by Polyverse is the starting point every producer should install first — it's free, reliable, and passes mono checks without a second thought. For professional mastering or stem-level work where frequency-selective precision matters, Nugen Audio Stereoizer and Brainworx bx_stereomaker solve problems the free options simply can't address.
 
-[→ Start with Wider (Free)](https://polyversemusic.com/products/wider/) — then [→ upgrade to Nugen Audio Stereoizer on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) when your mastering work demands it.
+[→ Start with Wider (Free)](https://polyversemusic.com/products/wider/) — then [→ upgrade to Nugen Audio Stereoizer on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20upgrade%20to%20Nugen%20Audio%20Stereoizer&a_aid=69cb95abe1763) when your mastering work demands it.
 
 ---
 

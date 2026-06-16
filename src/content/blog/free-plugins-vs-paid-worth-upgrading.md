@@ -15,7 +15,6 @@ priceTrack:
 
 **TL;DR:** Free plugins cover roughly 80% of production needs. Paid upgrades make sense when you need a specific workflow feature, not just "better sound." Here is a category-by-category breakdown of where free holds up and where paid pulls ahead.
 
-
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/-cSL5Z7NjwA" title="Paid vs Free Plugins — Phase Cancellation Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>

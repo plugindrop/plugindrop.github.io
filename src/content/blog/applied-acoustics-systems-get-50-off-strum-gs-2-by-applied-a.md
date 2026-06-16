@@ -13,17 +13,11 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6hXaR0u2sC4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is Strum GS-2?
-
 
 Strum GS-2 is a guitar synthesizer developed by Applied Acoustics Systems (AAS), a Canadian company known for their physical modeling instruments. Unlike sample-based guitar libraries, Strum GS-2 uses physical modeling technology to generate acoustic and electric guitar tones in real time. It's designed to let producers and composers create realistic strumming patterns, chord progressions, and guitar textures directly from a MIDI keyboard — no guitar skills required.
 
 ## Key Features
-
 
 - **Physical Modeling Engine** — Generates guitar sounds through real-time synthesis rather than triggering samples, allowing for expressive, dynamic playback.
 - **Acoustic & Electric Guitars** — Covers both acoustic and electric guitar types within a single instrument.
@@ -51,7 +45,6 @@ Verify current pricing on the product page — deals can change.
 
 ## Alternatives at a Glance
 
-
 | Name | Price | Key Difference |
 |---|---|---|
 | Ample Guitar M Lite | Free | Sample-based acoustic guitar with limited articulations — good for testing the waters |
@@ -61,7 +54,6 @@ Verify current pricing on the product page — deals can change.
 If budget is tight and you just need basic acoustic guitar, Ample Guitar M Lite is free and worth trying first. If you prefer physical modeling's flexibility and real-time responsiveness over sample playback, Strum GS-2 occupies a unique space in this category.
 
 ## FAQ
-
 
 **Q: Does Strum GS-2 require iLok?**
 A: AAS uses their own authorization system. Check the official AAS website for current activation details.
@@ -76,7 +68,6 @@ A: Strum GS-2 is primarily designed for chord-based strumming and rhythmic guita
 A: Check the official AAS product page for up-to-date system requirements and OS compatibility.
 
 ## Where to Buy
-
 
 Half off a physical modeling guitar synth that's been a staple for non-guitarists —  down to $99. The deal.
 

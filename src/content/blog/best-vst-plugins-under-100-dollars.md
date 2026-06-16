@@ -16,8 +16,6 @@ priceTrack:
 
 **TL;DR:** FabFilter Pro-C 2 is the single best investment under $100 for mixing — eight compression styles in one plugin, used on professional sessions worldwide. Pair it with Valhalla VintageVerb at $50 and you have two career-defining tools for less than the cost of a single hardware unit.
 
-
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

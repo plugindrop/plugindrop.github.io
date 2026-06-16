@@ -15,17 +15,11 @@ priceTrack:
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/h97yUlOhIbc" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is Airspace by ModeAudio?
-
 
 Airspace is ModeAudio's debut plugin — a hybrid that fuses convolution reverb with a fully-featured stereo delay engine. ModeAudio is known primarily as a sample and preset library company, and Airspace channels that DNA into a single effect plugin built around three processing stages: **Colour**, **Delay**, and **Space**. Each module can be used independently or blended together, giving producers a flexible spatial toolkit in one interface. It ships in VST3 and AU formats for both Windows and macOS.
 
 ## Key Features
-
 
 - **450+ Impulse Responses** — Organized into categories like Real Spaces, Hardware Reverbs, Springs & Plates, Amplifiers, Experimental Textures, and more. This is a notably large IR library for a plugin at this price point.
 - **Three-Stage Processing Chain (Colour → Delay → Space)** — Each stage can be activated or bypassed independently, allowing everything from subtle room ambience to heavily processed spatial effects.
@@ -52,7 +46,6 @@ A 15-day free trial is also available with no restrictions, so you can test it i
 
 ## Alternatives at a Glance
 
-
 | Name | Price | Key Difference |
 |---|---|---|
 | Valhalla VintageVerb | $50 | Algorithmic reverb with multiple reverb modes — no convolution or delay engine |
@@ -62,7 +55,6 @@ A 15-day free trial is also available with no restrictions, so you can test it i
 If you want a free option for lush delays and reverbs, Valhalla Supermassive is hard to beat. If custom IR loading is a must-have, Reverberate 3 covers that at a higher price. Airspace sits in between — offering a curated 450+ IR library combined with a modulated stereo delay in a single plugin.
 
 ## FAQ
-
 
 **Q: What plugin formats does Airspace support?**
 A: Airspace is available in VST3 and AU formats for Windows and macOS.
@@ -77,7 +69,6 @@ A: Yes — ModeAudio offers a 15-day free trial with no restrictions.
 A: Check the Plugin Boutique product page or ModeAudio's official site for current refund and return terms.
 
 ## Where to Buy
-
 
 Airspace is a hybrid convolution reverb and stereo delay with 450+ IRs and 240+ presets out of the box.
 

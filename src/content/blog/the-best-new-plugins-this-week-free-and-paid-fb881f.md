@@ -13,8 +13,6 @@ score: 2.19
 
 ---
 
-
-
 ## Best New Free Plugin This Week: UAD Explore by Universal Audio
 
 Free. From Universal Audio. Let that land.

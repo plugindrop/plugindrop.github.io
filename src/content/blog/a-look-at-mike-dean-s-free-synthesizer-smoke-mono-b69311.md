@@ -19,13 +19,11 @@ draft: false
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/3lDGPOR-9Sk" title="Mike Dean&#39;s New &quot;Smoke Mono&quot; Plugin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
-
 Smoke Mono is a free software synthesizer created by Mike Dean — the Grammy-winning producer and engineer behind landmark records with Kanye West, Travis Scott, and many others. The plugin reflects Dean's signature sonic aesthetic: dense, moody, and built for modern hip-hop and experimental production. It's a monophonic synth, meaning it plays one note at a time, which makes it particularly well-suited for basslines, leads, and focused melodic lines. For a free release, the pedigree alone makes it worth downloading.
 
 ---
 
 ## Key Features
-
 
 - **Monophonic architecture** — Single-voice design keeps the signal focused and punchy, ideal for cutting through dense mixes
 - **Mike Dean's signature sound DNA** — Built to reflect the tonal palette that defines his production style across major-label records
@@ -48,7 +46,6 @@ Smoke Mono is a free software synthesizer created by Mike Dean — the Grammy-wi
 
 ## Pricing & Deal Details
 
-
 | Regular Price | Deal Price | You Save |
 |---|---|---|
 | — | **FREE** | Everything |
@@ -61,7 +58,6 @@ This is a free release with no stated expiration date, but free deals from indiv
 
 ## Alternatives at a Glance
 
-
 | Name | Price | Key Difference |
 |---|---|---|
 | Vital | Free (paid tiers available) | Full-featured spectral warping synth with a large preset community |
@@ -73,7 +69,6 @@ If you want a broad, general-purpose free synth with community support and thous
 ---
 
 ## FAQ
-
 
 **Q: How much does Smoke Mono cost?**
 A: It is available for free.

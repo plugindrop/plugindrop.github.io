@@ -29,8 +29,6 @@ Monthly credits model starts at around $8/month. Royalty-free license is include
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YYlYX3uOcLA" title="MSXII Sound Design - The Synthesized Soul Library Vol. 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
-
-
 **Best for: Authentic boom bap and sample-flip-style sounds**
 
 MSXII is a community-trusted source for vinyl-textured boom bap. Their drum kits use processed, saturated samples that sit naturally in sampled-based hip-hop beats without heavy processing. Multiple "Trilogy" packs of drum kits, chop kits, and loop libraries at affordable prices ($15–$30 per pack). Frequently used by producers in the underground hip-hop space.
@@ -39,8 +37,6 @@ MSXII is a community-trusted source for vinyl-textured boom bap. Their drum kits
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/KoH6UySnuVc" title="Looperman Is The Free Splice alternative!!!! #loop #splice #looperman #studio #traplife #emo #cookup" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
-
-
 
 **Best for: Free royalty-free loops for all budgets**
 
@@ -63,8 +59,6 @@ Their "Infinity" bundle collects multiple packs at a significant discount — wo
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/z4ZxVvbMvqs" title="Boom and Bap: Drum Broker Essential Kicks review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
-
-
 **Best for: Authentic vintage drum machine sounds**
 
 The Drum Broker specializes in high-quality drum kits built from MPC-style samples and vintage drum machine recordings. Collaborations with producers like Ras G, Pete Rock, and others make it a trusted source for both classic and modern hip-hop drum sounds. The catalog covers SP-1200 textures, 808 kits, boom bap, and contemporary trap.
@@ -75,8 +69,6 @@ Individual packs range from $20–$50. Quality is consistently high across the c
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/nYexOJIl9vY" title="Using KOMPLETE KONTROL M32 with KOMPLETE NOW | Native Instruments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
-
-
 
 **Best for: Fully playable hip-hop kits with instrument integration**
 
@@ -98,8 +90,6 @@ Multiple free starter packs are available with email signup. Premium packs range
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/ILHWMVWIUWc" title="Noiiz Plugin - what is it  ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
-
-
 
 **Best for: Curated hip-hop content at subscription pricing**
 

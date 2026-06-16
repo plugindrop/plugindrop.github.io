@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/2pbSi35I4Lc" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is Pulsar 1178?
 
 Pulsar 1178 is a FET compressor plugin by Pulsar Audio, modeled after the classic hardware 1178 — the stereo counterpart to the legendary 1176. Pulsar Audio is a French developer with a strong reputation for meticulous analog circuit emulation, and this plugin carries that pedigree. The 1178 hardware was prized for its low noise floor and punchy FET character, and this plugin aims to bring that behavior into the DAW with modern precision.

@@ -19,8 +19,6 @@ draft: true
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="Massive Bundle — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307566564&color=%23b4f000&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
 </div>
 
-
-
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/1PcvacKMWjI" title="Ueberschall Massive Alternative Bundle | Song Demo and Preset Playthrough | Jong Uy Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
@@ -103,7 +101,6 @@ $20 for a ready-to-deploy Massive preset library is a strong value play — espe
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

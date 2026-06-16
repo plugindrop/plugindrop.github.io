@@ -19,7 +19,6 @@ priceTrack:
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="LANDR Mastering Review 2026: Is the Subscription Worth It? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Tool | Price | Best For | Get It |

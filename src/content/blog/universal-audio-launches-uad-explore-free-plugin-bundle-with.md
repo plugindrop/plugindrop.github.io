@@ -15,10 +15,6 @@ score: 2.28
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/16EVxbY-208" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## Universal Audio UAD Explore: 8 Free Plugins + LUNA DAW
 
 Free. Eight UAD plugins. A full DAW. That's the headline — and it's real.

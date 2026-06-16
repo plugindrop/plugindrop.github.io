@@ -19,7 +19,6 @@ heroImage: "/images/best-free-lofi-sample-packs_og.jpg"
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BXHGHlTsJAA" title="12 Best Free Lo-Fi Sample Packs in 2026 (Drums, Vinyl Crackle, Chords) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Pack / Source | Price | Best For | Get It |

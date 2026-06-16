@@ -16,10 +16,6 @@ score: 2.46
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lNjWE3YU5_E" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is MininnDrum 2?
 
 MininnDrum 2 is a virtual drum instrument developed by Audio Blast, the second major version of their compact drum machine plugin. It's designed to give producers a focused, no-frills approach to programming beats — built around a streamlined interface that prioritizes speed and workflow over complexity. Audio Blast has positioned it as an accessible yet capable option in the crowded virtual drum space.
@@ -27,7 +23,6 @@ MininnDrum 2 is a virtual drum instrument developed by Audio Blast, the second m
 ---
 
 ## Key Features
-
 
 Based on the product's category and Audio Blast's focus on compact design:
 
@@ -78,7 +73,6 @@ If you need a free, no-cost starting point, MT Power Drum Kit 2 or Sitala cover 
 ---
 
 ## FAQ
-
 
 **Q: Does MininnDrum 2 require iLok?**
 A: Check the official product page on Plugin Boutique for activation requirements — Audio Blast's licensing details are listed there.

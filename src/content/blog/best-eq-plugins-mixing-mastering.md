@@ -21,7 +21,6 @@ priceTrack:
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/3APpoqWCQz8" title="10 Best EQ Plugins for Mixing & Mastering in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

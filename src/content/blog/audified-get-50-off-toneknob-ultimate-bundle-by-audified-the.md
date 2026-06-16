@@ -13,8 +13,6 @@ converted: true
 
 ---
 
-
-
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/jeKxocry60E" title="ToneKnob Ultimate Bundle – 6 Essential Effects for $49" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
@@ -26,7 +24,6 @@ The ToneKnob Ultimate Bundle is a collection of tone-shaping effect plugins deve
 ---
 
 ## Key Features
-
 
 - **Hardware-modeled tone shaping** — Each plugin in the series draws from analog circuit modeling concepts, targeting the warmth and character of hardware gear.
 - **Streamlined UI** — The ToneKnob design philosophy centers on minimal controls to speed up workflow and reduce decision fatigue.
@@ -71,7 +68,6 @@ If you only need an EQ-style tone tool and want to spend nothing, SlickEQ covers
 
 ## FAQ
 
-
 **Q: Where can I buy the ToneKnob Ultimate Bundle at this price?**
 A: The 50% deal is available exclusively through Plugin Boutique. 
 
@@ -87,7 +83,6 @@ A: Refund policies vary by store and developer. Check Plugin Boutique's terms an
 ---
 
 ## Where to Buy
-
 
 50,  
 

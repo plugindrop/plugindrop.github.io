@@ -17,8 +17,6 @@ priceTrack:
 
 **TL;DR:** FabFilter Pro-Q 4 is the single most impactful purchase any producer can make in 2026 — its surgical precision and real-time spectrum analysis raise the quality ceiling of every mix it touches. Pair it with Valhalla Room for space and Serum for synthesis, and you've covered 80% of a professional production workflow before spending $500.
 
-
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

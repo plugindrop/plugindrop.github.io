@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/aZBy50Ocx_c" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is SSL Native Vocalstrip 2?
 
 SSL Native Vocalstrip 2 is a dedicated vocal processing plugin from Solid State Logic — the British console manufacturer behind some of the most iconic mixing desks in recording history. It packages a full channel-strip signal chain specifically tuned for the human voice, drawing on SSL's hardware processing heritage. Rather than a generic channel strip, every module in Vocalstrip 2 is designed around the particular dynamics, frequency range, and transient character of vocal recordings.

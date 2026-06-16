@@ -14,7 +14,6 @@ score: 2.8
 ---
 **TL;DR:** ChopTones is running a 20% off Easter Sale on their entire catalog of guitar amp profiles and impulse responses. If you've been eyeing any of their tone packs, this is a solid window to grab them at a discount. Sale runs through April 13th — [shop the full catalog here](https://www.choptones.com/collections).
 
-
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/N-zM1DAeO0M" title="Studios Del Conte - TH-U Intro - Choptones Fried BE50D - Slate Digital - 009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>

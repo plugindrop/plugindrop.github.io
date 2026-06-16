@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/x-hHxMRCxOQ" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is Primavera?
 
 Primavera is a reverb effect plugin sold through Plugin Boutique, sitting in the effects category alongside some of the most-used tools in modern music production. Reverb plugins at this tier are designed to add space, depth, and dimension to any sound source — from vocals and synths to drums and guitars. Check the Plugin Boutique product page for developer details and the most current version information.

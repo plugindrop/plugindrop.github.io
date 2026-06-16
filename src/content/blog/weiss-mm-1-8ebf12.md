@@ -15,10 +15,6 @@ priceTrack:
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/JIHt14UMBBw" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is the Weiss MM-1?
 
 The Weiss MM-1 is a mastering-grade plugin from Weiss Engineering, a Swiss manufacturer with decades of reputation in high-end professional mastering hardware. Their hardware units have appeared in top mastering studios worldwide, and the MM-1 brings that lineage into a plugin format. It's designed specifically for mastering workflows — loudness maximization, dynamics control, and final-stage polish before distribution.

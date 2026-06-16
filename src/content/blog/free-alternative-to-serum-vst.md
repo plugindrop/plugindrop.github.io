@@ -12,8 +12,6 @@ draft: false
 ---
 **TL;DR:** Vital is the strongest free alternative to Serum VST in 2026 — a wavetable synthesizer built by the same developer as Helm, and the plugin r/edmproduction consistently places in Serum's tier at zero cost. Surge XT is the runner-up for producers who want maximum synthesis depth without opening their wallet.
 
-
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

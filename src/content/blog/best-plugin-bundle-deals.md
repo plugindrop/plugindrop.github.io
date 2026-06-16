@@ -19,7 +19,6 @@ priceTrack:
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vfM6F7pRmog" title="Best Plugin Bundle Deals in 2026: Maximum Value, Minimum Spend — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Bundle | Typical Sale Price | Best For | Get It |

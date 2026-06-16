@@ -16,8 +16,6 @@ priceTrack:
 ---
 **TL;DR:** FabFilter Pro-Q 4 is the most defensible first purchase for Studio One producers — its dynamic EQ addresses a real gap in the native toolset that PreSonus has never fully closed. Valhalla VintageVerb at $50 is the clearest value-per-dollar in algorithmic reverb, period. If synthesis is part of your workflow, Serum's visual modulation engine and community ecosystem make it the community-standard wavetable synth.
 
-
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

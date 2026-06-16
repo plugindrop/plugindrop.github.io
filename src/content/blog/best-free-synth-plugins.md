@@ -14,9 +14,7 @@ priceTrack:
   - "Serum 2"
 ---
 
-
 **TL;DR:** Vital is the best free synth VST plugin in 2026 — wavetable synthesis competitive with $200 instruments at zero cost. Surge XT covers deep hybrid and FM synthesis as a full open-source alternative. Dexed nails DX7 FM patches, and OB-Xd delivers classic Oberheim analog character. All 17 plugins below are genuinely free with no time limits.
-
 
 ## Quick Picks at a Glance
 

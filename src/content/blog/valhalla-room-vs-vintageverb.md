@@ -20,7 +20,6 @@ priceTrack:
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EzPouHxa18s" title="Valhalla VintageVerb — Demo & Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

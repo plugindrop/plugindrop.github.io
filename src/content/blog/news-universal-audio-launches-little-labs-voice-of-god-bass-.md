@@ -14,10 +14,6 @@ score: 4.84
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/KbFb-ukH9DI" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## Universal Audio Launches Little Labs Voice of God Bass Resonance Plugin
 
 ## What Is the Little Labs Voice of God?

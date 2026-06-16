@@ -49,7 +49,6 @@ Full-featured open-source drum machine with a step sequencer, multiple kits, and
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Y0LHT3J-niM" title="TX16Wx - The definitive FREE Software Sampler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
-
 **Type: Software sampler | Best for: Hip-hop, trap, any sample-based workflow**
 
 Full-featured free software sampler that loads any drum sample. Multi-layer mapping, velocity switching, built-in effects per pad, and a clean interface. Works as a universal drum sampler — load your own kits or community packs.
@@ -58,7 +57,6 @@ Full-featured free software sampler that loads any drum sample. Multi-layer mapp
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/kzADUQZlQLM" title="BPB Dirty Filter Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
-
 
 **Type: Sample-based | Best for: Lo-fi, indie, gritty textures**
 
@@ -78,7 +76,6 @@ A free drum plugin focused on lo-fi and processed drum sounds. Includes analog-s
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/5Ursjruqehw" title="drumatic 4-5 guiter -Dj Monophonics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
-
 **Type: Analog-modeled synthesis | Best for: Electronic, techno, experimental**
 
 Six-voice drum synthesizer with analog-modeled oscillators for each component — kick, snare, hihat, clap, and two toms. Fully synthesis-based with no samples: every drum sound is shaped with dedicated pitch, decay, and tone controls. Good for punchy electronic and industrial textures.
@@ -87,7 +84,6 @@ Six-voice drum synthesizer with analog-modeled oscillators for each component �
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/vPYtb2hisJ8" title="Why, Phil? #10 BOOM!! AVL Drumkits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
-
 
 **Type: Sample-based | Best for: Acoustic drums, open-source workflows**
 

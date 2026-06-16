@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/um_Z-51nGP4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is Transit 2?
 
 Transit 2 is a motion effects plugin from Baby Audio, developed in collaboration with YouTuber and producer Andrew Huang. It's designed to handle transitions, risers, drops, sweeps, and rhythmic motion — the kind of stuff that normally requires stacking multiple plugins and drawing tedious automation curves. Instead, Transit 2 lets you link multiple effect parameters to a single macro control and sweep them all at once. It runs as a VST, VST3, AU, and AAX plugin (64-bit) on macOS 10.11+ (including Apple Silicon) and Windows 10+.

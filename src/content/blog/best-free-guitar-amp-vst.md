@@ -18,7 +18,6 @@ heroImage: "/images/best-free-guitar-amp-vst_og.jpg"
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/nQxpf2dIbcQ" title="10 Best Free Guitar Amp Simulator VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

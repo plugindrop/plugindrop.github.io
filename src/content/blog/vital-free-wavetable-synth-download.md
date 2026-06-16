@@ -13,7 +13,6 @@ draft: true
 
 **TL;DR:** Vital — **free tier available permanently.** A wavetable synth that goes head-to-head with Serum. 3 oscillators, spectral warping, drag-and-drop visual modulation, 75 presets. Paid tiers ($25/$80) add more presets and wavetables, but the free version is fully functional. [Get it here](https://vital.audio/).
 
-
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/7qQX6YGBQEA" title="Free Vital Synth - Full Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>

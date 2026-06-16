@@ -20,7 +20,6 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/edyUG-YUxh4" title="51% Off Lifeline Console — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Lifeline Console?
 
 Lifeline Console is an analog console channel strip plugin available at Plugin Boutique. It sits in the "Channel Strip" category under Effects, designed to replicate the warmth, coloration, and dynamic response of classic analog mixing desks inside your DAW. Channel strip plugins like this one are workhorses — they consolidate EQ, compression, and harmonic saturation into a single, cohesive signal chain modeled on real hardware. Check the product page for full developer details and version specifics.
@@ -97,7 +96,6 @@ Lifeline Console at ~~$79~~ down to **$39** is a clean 51% saving on an analog c
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

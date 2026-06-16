@@ -19,10 +19,6 @@ score: 5.4
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/kDqJ9eYmFgg" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is the Epic Fury Bundle by Filipe Leitao?
 
 The Epic Fury Bundle is a collection of music production tools created by Filipe Leitao, an independent developer known for crafting genre-focused sound design resources and instruments. The bundle packages multiple products under a single discounted price — the kind of deal that makes sense to grab when you're building out your production toolkit. At the current deal price, the per-unit value across the included items drops significantly below what you'd pay picking them up individually. Check the [product page](https://audioplugin.deals/product/epic-fury-bundle-by-filipe-leitao/ref/21/) for the exact list of what's included.

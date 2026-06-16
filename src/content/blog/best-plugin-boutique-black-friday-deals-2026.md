@@ -8,7 +8,6 @@ affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=
 heroImage: "/images/best-plugin-boutique-black-friday-deals-2026.jpg"
 evergreen: true
 score: 9.00
-saleExpiry: '2026-12-02'
 draft: false
 priceTrack:
   - "FabFilter Pro-Q 4"
@@ -20,11 +19,6 @@ priceTrack:
 **TL;DR:** Plugin Boutique's Black Friday sale is the single best time to buy premium VST plugins — discounts regularly hit 75–90% off on plugins that almost never go on sale. FabFilter, iZotope, Valhalla, Native Instruments, and Arturia all participate. This guide tracks every verified deal and tells you which ones are genuinely worth buying.
 
 ---
-
-
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/F89Q3HuOxfY" title="Ultimate Black Friday VST Plugin Deals Tier List - 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 ## When Is Plugin Boutique Black Friday 2026?
 
@@ -107,7 +101,7 @@ A: Plugin Boutique's policy doesn't cover post-purchase price drops. Buy only wh
 ## Related Guides
 
 - [Best Compressor Plugins 2026](/posts/best-compressor-plugins-2026/)
-- [Best Mastering Plugins 2026](/posts/best-mastering-plugins-2026/)
+- [Best Mastering Plugins 2026](/posts/best-free-mastering-plugins/)
 - [Best Plugin Bundle Deals 2026](/posts/best-plugin-bundle-deals/)
 - [Best EQ Plugins 2026](/posts/best-eq-plugins-2026/)
 

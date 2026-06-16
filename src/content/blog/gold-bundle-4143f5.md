@@ -20,7 +20,6 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bTJWUQhM3rU" title="80% Off Gold Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is the Gold Bundle?
 
 The Gold Bundle is a multi-plugin collection available exclusively through Plugin Boutique, combining a range of professional-grade audio tools at a heavily discounted price. Bundles like this are designed to give producers, beatmakers, and mixing engineers access to a full production toolkit in a single purchase rather than buying individual licenses separately. The value proposition is simple: you're getting tools that would cost considerably more if purchased individually. Check the product page for the complete list of included plugins, as bundle contents can be updated over time.
@@ -99,7 +98,6 @@ $640 in savings on a professional plugin bundle is a hard number to ignore. At $
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

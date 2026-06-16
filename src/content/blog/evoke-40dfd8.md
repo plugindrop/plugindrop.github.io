@@ -20,7 +20,6 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/e3gh9ROAFQw" title="50% Off Evoke — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Evoke?
 
 Evoke is a vocal processing plugin available through Plugin Boutique, sitting in the Effects > Vocal Processing category. It's designed to shape, enhance, and transform vocal tracks — covering the kind of processing that would otherwise require chaining multiple separate plugins. At its core, it targets producers and engineers who want a focused, dedicated tool for vocal work without the overhead of a full suite. Check the product page for full developer and version details.
@@ -99,7 +98,6 @@ Evoke at ~~$129.00~~ **$64.50** is a clean 50% off a dedicated vocal processing 
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

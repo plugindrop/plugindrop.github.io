@@ -14,9 +14,6 @@ heroImage: "/images/i-designed-14-patches-on-the-roland-boutique-sh-01a-for-this
 
 ---
 
-
-
-
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/ClZ3EwM-x1k" title="ranzee Live Stream #14 - Roland SH-01A and analog flangers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>

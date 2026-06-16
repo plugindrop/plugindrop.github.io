@@ -15,11 +15,6 @@ draft: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/p8H7Yyu8PSM" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
 ## What Is Filterjam?
 
 Filterjam is a creative multi-filter effect plugin by AudioThing, available for free through Plugin Boutique. It sits in the effects/filter category and is designed to add movement, texture, and character to audio signals through modulated filtering. Plugins in this space are go-to tools for electronic producers, sound designers, and anyone who wants to inject life into static loops, synths, or drum buses.

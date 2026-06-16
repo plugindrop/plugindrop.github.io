@@ -16,7 +16,6 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/88FWrfHCIqo" title="release notes — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Are Toontrack's Latest Release Notes?
 
 Toontrack is a Swedish music software company best known for its drum production engines — EZdrummer, Superior Drummer, and a catalog of genre-specific expansion packs. Their release notes page documents ongoing software updates, bug fixes, and feature additions pushed across their entire product ecosystem.

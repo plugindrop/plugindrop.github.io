@@ -15,11 +15,6 @@ heroImage: "/images/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IctmWvvJy9k" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
 ## What Is AIR Music Tech Fabric Vintage Jup?
 
 AIR Music Technology — the studio behind a long line of instruments bundled with Pro Tools and used across major DAWs — brings vintage Roland Jupiter-style synthesis into a modern plugin format with Fabric Vintage Jup. It sits inside AIR's Fabric platform, a hybrid synthesis engine that layers sample playback with synthesis and effects. The result is a soft synth aimed at capturing the lush, wide pads and punchy leads that made the Jupiter series a studio staple across pop, electronic, and film scoring.

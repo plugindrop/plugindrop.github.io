@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/AWvOkWY66Lc" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is Softube Model 82?
 
 Model 82 is Softube's software recreation of the Roland SH-101, the legendary monophonic synthesizer first released in 1982. The SH-101 became a cornerstone of early electronic music — its warm bass lines and punchy leads can be heard across decades of house, techno, acid, and synth-pop. Softube, a Swedish audio software company widely respected for its analog circuit modeling, built Model 82 to bring that classic hardware character into modern DAWs, including its built-in step sequencer.

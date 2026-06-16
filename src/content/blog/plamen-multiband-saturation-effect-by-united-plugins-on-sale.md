@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ulWsyUCEanQ" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is Plamen Multiband Saturation?
 
 Plamen is a multiband saturation effect developed by SoundEvice Digital and published under the United Plugins umbrella. The name means "flame" in several Slavic languages — fitting for a plugin designed to add heat, drive, and harmonic character to your audio. Rather than applying saturation globally, Plamen lets you target specific frequency bands independently, giving producers and mixing engineers surgical control over where the grit lands.

@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/hITUSxFsj48" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is the Mercury-6 by Cherry Audio?
 
 The Mercury-6 is Cherry Audio's software emulation of the Roland Jupiter-6, a classic analog polysynth from the early 1980s. Cherry Audio is known for producing detailed, affordable software recreations of vintage hardware — their catalog includes emulations of everything from Oberheim to Moog-era designs. The Mercury-6 targets producers and sound designers who want that warm, characterful Jupiter-6 sound without hunting down aging hardware.

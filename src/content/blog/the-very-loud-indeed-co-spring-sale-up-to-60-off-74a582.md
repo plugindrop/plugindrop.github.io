@@ -13,7 +13,6 @@ score: 2.66
 ---
 **TL;DR:** The Very Loud Indeed Co. is running a Spring Sale with up to 60% off their entire catalogue of cinematic scoring tools — Kontakt libraries, Omnisphere soundsets, and more. Sale runs **April 2–15, 2026**. If you score to picture or design cinematic textures, this is one of the steeper discounts this brand offers. [Grab the deal on KVR →](https://www.veryloudindeed.com/)
 
-
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/yIQfbmgp-Iw" title="The Very Loud Indeed Co. — MOBILIS II sample library walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>

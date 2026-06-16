@@ -16,7 +16,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/12vrpHnVJ44" title="FREE — Emotional Tamil x Arabic Trap Beat 2026 | &quot;Desert Soul&quot; | Fouzan Beats — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is "Desert Soul" by Fouzan Beats?
 
 "Desert Soul" is a world fusion trap beat produced by Fouzan Beats, blending Sri Lankan Tamil melodic elements with Arabic harmonic influences over a modern trap production framework. The track targets independent artists working in Tamil rap, Arabic hip-hop, or cross-cultural fusion genres. Fouzan Beats distributes instrumentals through their YouTube channel, making beats accessible to artists globally. This 2026 release sits squarely in the growing lane of emotionally driven, culturally specific trap productions.

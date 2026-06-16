@@ -20,16 +20,13 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/dLI2wNuLbig" title="98% off Concert Strings Adaptive at Audio Plugin Deals until the 12th of May, 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is Concert Strings Adaptive?
-
 
 Concert Strings Adaptive is an orchestral string ensemble sample library from Kirk Hunter Studios, a developer with a long-standing focus on professional orchestral sampling. The library is built around an adaptive legato engine designed to produce realistic note transitions and natural-sounding string performances. It targets film scoring, game audio, and classical composition workflows where authentic string articulation matters.
 
 ---
 
 ## Key Features
-
 
 - **Adaptive Legato System** — The library's core technology, enabling note transitions that respond to playing dynamics and tempo rather than triggering static samples.
 - **Multiple Articulations** — Covers sustains, staccatos, spiccato, and additional playing styles to support a wide range of compositional situations.
@@ -50,7 +47,6 @@ Concert Strings Adaptive is an orchestral string ensemble sample library from Ki
 
 ## Pricing & Deal Details
 
-
 | Regular Price | Deal Price | You Save |
 |---|---|---|
 | 98% off list | **$39.99** | 98% |
@@ -65,7 +61,6 @@ A 98% discount is well outside the standard discount range for Kirk Hunter Studi
 
 ## Alternatives at a Glance
 
-
 | Name | Price | Key Difference |
 |---|---|---|
 | Spitfire LABS Strings | Free | Single lightweight patches, not a full production ensemble library |
@@ -77,7 +72,6 @@ Spitfire LABS is the logical starting point if budget is the binding constraint,
 ---
 
 ## FAQ
-
 
 **Q: Does Concert Strings Adaptive require a paid version of Kontakt?**
 A: Kirk Hunter Studios libraries have historically required the full paid version of Kontakt rather than the free Kontakt Player. Verify the exact requirement on the official site before purchasing.

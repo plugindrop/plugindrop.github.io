@@ -20,8 +20,6 @@ draft: true
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="Softube — Softube Weekly Deals - 56% off on Drawmer 1973 Multi-Band Compressor plugin — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/203363728%3Fsecret_token%3Ds-n1etLw1IAx0&color=%2300c795&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 </div>
 
-
-
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/shkmOEbaKCw" title="Softube: 5 Criminally Underrated Plugins (You Can Afford!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>

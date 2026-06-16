@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/xGPa0cKKZ1I" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is Voices of Rage v2?
 
 Voices of Rage v2 is a Kontakt instrument library from Soundiron, a San Francisco-based developer known for deeply sampled, unconventional vocal and instrument libraries. This library captures raw, aggressive human vocal performances — screams, growls, shouts, and tension-filled extended techniques — and organizes them into a playable, expressive instrument. Version 2 represents an expanded and refined iteration of the original library, built for composers and producers who need genuine emotional intensity in their sound design or scoring work.

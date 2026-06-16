@@ -19,22 +19,17 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bpb0QLrwwEY" title="Arturia Pigments 5 Review: Is This the Best All-in-One Soft Synth? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Arturia Pigments 5 | ~$199 | All-in-one synthesis, any genre | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia Pigments 5 | ~$199 | All-in-one synthesis, any genre | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Pigments%205&a_aid=69cb95abe1763) |
 | Phase Plant | ~$199 | Modular-style deep sound design | [Official Site](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-pigments-review) |
-| Arturia V Collection 11 | ~$599 | Vintage instrument bundle | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia V Collection 11 | ~$599 | Vintage instrument bundle | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Pigments%205&a_aid=69cb95abe1763) |
 
 ---
 
 ## Introduction
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/XMmlkkgQ378" title="Introduction to FabFilter Saturn 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 Here is the misconception that costs producers money: most assume "all-in-one" synths are jack-of-all-trades compromises — competent at everything, exceptional at nothing. Arturia Pigments 5 challenges that assumption directly. In every **Arturia Pigments 5 review 2026** conversation happening across producer communities and YouTube comment sections, one observation keeps surfacing: this synth punches well above its category, and producers who dismiss it as a pretty-UI novelty are leaving serious tools on the table.
 
@@ -45,10 +40,6 @@ This guide is a deep dive for producers deciding whether Pigments 5 belongs in t
 ---
 
 ## The Five Synthesis Engines
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/XMmlkkgQ378" title="Review: Korg Volca FM2 vs OG // DX-7 based synth gets better // Volca FM 2 synthesis tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 The core argument for Pigments 5 rests on its multi-engine architecture. Two engine slots run simultaneously, each drawing from any of the available synthesis types. This layering capability alone separates it from most single-paradigm competitors.
 
@@ -65,7 +56,7 @@ The wavetable engine handles the sonic territory that defines modern electronic 
 
 **Best for:** Modern electronic leads, evolving pads, cinematic textures.
 
-[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20Pigments%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -82,7 +73,7 @@ The virtual analog engine covers the bread-and-butter synthesis that powered dec
 
 **Best for:** Bass lines, classic synth leads, analog chord stabs.
 
-[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20Pigments%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -99,7 +90,7 @@ The additive engine is where Pigments genuinely separates itself from the pack. 
 
 **Best for:** Experimental textures, bell-like timbres, unique atmospheric elements that stand out in a mix.
 
-[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20Pigments%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -116,7 +107,7 @@ Granular synthesis slices any audio into microscopic grains and reassembles them
 
 **Best for:** Ambient production, cinematic scoring, experimental electronic music.
 
-[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20Pigments%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -133,15 +124,11 @@ The sample engine lets you load standard audio files and route them through Pigm
 
 **Best for:** Hybrid synthesis, layering sampled instruments with synthesized textures.
 
-[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20Pigments%205&a_aid=69cb95abe1763)
 
 ---
 
 ## The Modulation System — Pigments' Defining Strength
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/XMmlkkgQ378" title="Heritage Organ v2 - Part 4 : The Modulation System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 If the five engines are what Pigments promises, the modulation system is what it actually delivers on. Pigments uses a visual modulation architecture: drag any source — LFOs, envelopes, a function generator, random modules, macro knobs, MIDI data — directly onto any parameter. Color-coded indicators show at a glance which modulators are active and at what depth.
 
@@ -152,10 +139,6 @@ The macro system is worth calling out specifically. Assigning multiple parameter
 ---
 
 ## FX Section — A Production Tool, Not an Afterthought
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/XMmlkkgQ378" title="Thenatan Vybz Lofi Beats FX Plugin ★ (RETRO SOUNDS) Review Sound Demos Overview - Any Good? AU VST" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 
 Most soft synths treat built-in FX as an add-on. Pigments treats its FX rack as a core component of the instrument. Two FX slots — each capable of holding multiple effects in a configurable chain — include EQ, compression, reverb, delay, distortion, chorus, flanger, and more. Crucially, every FX parameter accepts the same modulation routing as the synthesis parameters.
 
@@ -199,7 +182,7 @@ On mid-range 2024 hardware, Pigments 5 runs efficiently with multiple instances 
 - **Price:** ~$599 (regularly on sale)
 - **Why upgrade:** V Collection 11 bundles Arturia's complete lineup of vintage instrument models — classic polysynths, electric pianos, organs, and more — in one package. Pigments handles forward-looking modern synthesis exceptionally well; V Collection handles historically accurate vintage emulations. Together, they cover the full spectrum of what Arturia software offers, and for producers who want authentic vintage character alongside Pigments' modern capabilities, V Collection is the most logical companion purchase.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20V%20Collection%2011&a_aid=69cb95abe1763)
 
 ---
 
@@ -207,9 +190,9 @@ On mid-range 2024 hardware, Pigments 5 runs efficiently with multiple instances 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Arturia Pigments 5 | ~$199 | Multi-engine synth | 5 engines, visual modulation, full FX rack | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia Pigments 5 | ~$199 | Multi-engine synth | 5 engines, visual modulation, full FX rack | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20V%20Collection%2011&a_aid=69cb95abe1763) |
 | Phase Plant | ~$199 | Modular synth | True modular routing, Snapin FX ecosystem | [kilohearts.com](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-pigments-review) |
-| Arturia V Collection 11 | ~$599 | Vintage instrument bundle | 30+ vintage emulations, full Arturia ecosystem | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| Arturia V Collection 11 | ~$599 | Vintage instrument bundle | 30+ vintage emulations, full Arturia ecosystem | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20V%20Collection%2011&a_aid=69cb95abe1763) |
 
 ---
 

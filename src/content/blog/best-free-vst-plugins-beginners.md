@@ -15,8 +15,6 @@ draft: false
 
 ---
 
-
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

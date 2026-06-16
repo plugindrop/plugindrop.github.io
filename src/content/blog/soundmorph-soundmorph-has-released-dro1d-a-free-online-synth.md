@@ -13,7 +13,6 @@ heroImage: "/images/soundmorph-soundmorph-has-released-dro1d-a-free-online-synth
 
 ---
 
-
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/zHY6f4IUqT0" title="Checking out Dust by SoundMorph #audioplugindeals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>

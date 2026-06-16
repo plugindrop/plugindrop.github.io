@@ -15,8 +15,6 @@ priceTrack:
 ---
 **TL;DR:** The most defensible hip-hop mixing plugin chain in 2026 runs FabFilter Pro-Q 4 for surgical EQ, OTT for parallel multiband density, the Waves SSL G-Master Buss Compressor for bus glue, and iZotope Vinyl for analog texture. Two of those four plugins are completely free — there is no excuse for a muddy mix.
 
-
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

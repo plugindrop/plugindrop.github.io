@@ -14,8 +14,6 @@ priceTrack:
 ---
 **TL;DR:** Neural DSP Archetype: Gojira is the community benchmark for in-the-box metal amp tones in 2026 — r/metalguitarists and r/WeAreTheMusicMakers consistently cite it as the closest VST equivalent to a boutique tube head without hardware. Pair it with Superior Drummer 3 for production-ready programmed drums, and FabFilter Pro-C 2 on the drum bus for the compression quality that separates bedroom mixes from professional releases.
 
-
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

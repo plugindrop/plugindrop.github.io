@@ -26,7 +26,6 @@ draft: true
 </audio>
 </div>
 
-
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/H8DU0eph2-Y" title="FREE Samples, Loops, &amp; MIDI Pack | Unison Beatmaker Blueprint FREE Teaser" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>

@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/nguLLl0fu_g" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is Topos?
 
 Topos is a saturation, amp simulation, and speaker modeling plugin developed by Forever 89. Rather than a traditional preset-based approach, it's built around a pair of interactive "Map Views" — one for the amp section, one for the speaker section — that let you visually morph between different tonal characters by dragging a point across a 2D space. The idea is topographical tone exploration: blend between classic hardware voicings instead of toggling through static presets. It's available in VST3 and AU formats (64-bit).

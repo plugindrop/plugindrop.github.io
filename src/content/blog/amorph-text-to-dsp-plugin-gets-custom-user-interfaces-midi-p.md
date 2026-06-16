@@ -21,7 +21,6 @@ Amorph is a text-to-DSP plugin from **Artists in DSP** that lets you generate fu
 
 ## Key Features in the v0.9.9 Update
 
-
 - **Custom UI Engine** — Design your own graphical interfaces for generated patches using HTML/JS. Think custom visualizers, boutique-style knobs, and fully branded layouts instead of generic auto-generated controls.
 - **Amorph MIDI** — A third plugin variant that accepts MIDI input and outputs MIDI. Build custom arpeggiators, sequencers, and complex MIDI logic tools from text prompts.
 - **The Hub** — A new cloud-based preset browser built right into the plugin. Browse and download patches directly, with community sharing features planned for future updates.
@@ -77,7 +76,6 @@ A: No. The intended workflow is to use an external LLM (like ChatGPT or Gemini) 
 A: It's a new third variant introduced in v0.9.9 that processes MIDI input and outputs MIDI, letting you create custom arpeggiators, sequencers, and MIDI logic tools via text prompts.
 
 ## Get the Deal
-
 
 A free plugin that turns text prompts into working instruments, effects, and now MIDI tools — with custom UI design on top. Hard to beat that price.
 

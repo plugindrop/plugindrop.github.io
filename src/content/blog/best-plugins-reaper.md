@@ -15,8 +15,6 @@ priceTrack:
 ---
 **TL;DR:** Vital and Valhalla Supermassive give Reaper users world-class synthesis and reverb at zero cost — both are community-consensus picks that outperform many paid alternatives. When you're ready to spend, FabFilter Pro-Q 4 is the EQ that Reaper's professional community names first as the industry standard, consistently and without qualification.
 
-
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

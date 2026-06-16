@@ -21,8 +21,6 @@ draft: true
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A2211102035&color=%23c90000&auto_play=false&show_comments=false&show_user=false&show_reposts=false&visual=false&color=%23ff0000"></iframe>
 </div>
 
-
-
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/0r9cmMJv4Fc" title="Avant-Gardist - Prepared Piano VST by Pssst Instruments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>

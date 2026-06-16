@@ -21,7 +21,6 @@ draft: true
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/kWsCEH7sil0" title="Aha Sound — Get 88% off Everything Bundle by Aha Sound for $25.00 (Normally $215.00) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What Is the Everything Bundle by Aha Sound?
 
 Aha Sound is an independent audio plugin developer, and their Everything Bundle packages the complete Aha Sound catalog into a single, flat-price purchase. Instead of buying individual tools at retail, producers get the full library in one transaction. Standard pricing for the bundle sits at $215; the current deal reduces that to $25.

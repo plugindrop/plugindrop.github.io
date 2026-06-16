@@ -20,13 +20,11 @@ score: 5.5
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/u4Cgkcd2rSI" title="DEXIBELL T2L Piano - Stunning Sounds, Tiny Footprint! 🎹" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
-
 Dexibell is an Italian company known primarily for high-end digital pianos and stage keyboards. Their **T2L (True to Life)** technology is the same engine that powers their flagship hardware — a hybrid approach that blends 24-bit / 48 kHz sampling with real-time physical modeling. Rather than relying solely on recorded samples, the engine dynamically reconstructs micro-components like hammer noise, key release artifacts, sympathetic resonance, and cabinet resonance based on your actual playing input.
 
 They offer two plugin titles under this technology: the **T2L Piano** (acoustic pianos) and the **T2L Electric Piano** (electric pianos, clavs, and more). Both are available as VST2, VST3, AAX, CLAP, and Audio Units on macOS and Windows, with additional LV2 support on Linux.
 
 ## Key Features
-
 
 - **Hybrid sampling + modeling engine** — T2L combines high-resolution samples with real-time physical modeling for dynamic, expressive response that pure sample libraries can't match.
 - **Unlimited polyphony** — No voice stealing, even during heavy sustain-pedal passages or complex chord work.

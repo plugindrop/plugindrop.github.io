@@ -13,10 +13,6 @@ converted: true
 
 ---
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Hu5UThQIXM4" title="Plugin demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## What Is Bark24 | Dyn by FSK Audio?
 
 Bark24 | Dyn is a dynamics processor plugin developed by FSK Audio, available through Plugin Boutique. As the name suggests, it sits in the dynamics category — think compression, transient shaping, or dynamic control tailored for music production workflows. FSK Audio is known for building focused, no-frills tools aimed at producers who want character and usability without the bloat. Bark24 | Dyn appears to be part of their Bark24 line, suggesting a design philosophy rooted in a specific sonic signature.
