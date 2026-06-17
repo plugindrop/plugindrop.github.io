@@ -16,6 +16,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/K4LnW2hOAus" title="10 EPIC Free Synth Plugins You Need for Sound Design 🎹" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## How Many Synth Plugins Do You Actually Need?
 
 Most producers know the feeling. You open a new session, stare at a synth folder the size of a small library, and somehow end up reaching for the same two plugins you always use. The rest sit there — purchased at intro prices, barely opened, quietly eating hard drive space.

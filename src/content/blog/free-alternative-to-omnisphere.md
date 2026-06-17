@@ -41,7 +41,7 @@ This guide is for producers who want synthesis-first replacements: film and game
 
 ### Surge XT — The Community's Most-Recommended Free Synthesis Powerhouse
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/GpcyyBBQzzA" title="Surge XT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Nc7xq1J-86g" title="Surge XT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Surge Synth Team (open source)
 - **Price:** Free
@@ -62,7 +62,7 @@ What Surge XT does not offer is sample playback, audio granularization of import
 
 ### Vital — The Wavetable Synth That Redefined Free-Tier Sound Design
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Nc7xq1J-86g" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Matt Tytel
 - **Price:** Free (basic tier) / $25–$80 for additional preset and wavetable content
@@ -83,9 +83,9 @@ The free tier's boundaries are in preset content and wavetable packs, not in the
 
 ### Phase Plant Lite — A Modular Gateway With a Real Engine Underneath
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yVmrRfk8FdM" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Nc7xq1J-86g" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OxdRDhcNbe4" title="Phase Plant Lite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Nc7xq1J-86g" title="Phase Plant Lite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** Free (Lite tier)
@@ -106,7 +106,7 @@ Phase Plant Lite is an honest preview of a paid product. Kilohearts' commercial 
 
 ### ZynAddSubFX — The Additive Synthesis Engine Nobody Talks About Enough
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/flPTIU0KuZM" title="ZynAddSubFX — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Nc7xq1J-86g" title="ZynAddSubFX — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Mark McCurry (open source, community-maintained)
 - **Price:** Free
@@ -129,7 +129,7 @@ ZynAddSubFX does not offer granular audio manipulation, sample import, or a mode
 
 ### Phase Plant — The Full Modular Build
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1bhZN7hON6U" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Nc7xq1J-86g" title="Phase Plant — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Kilohearts
 - **Price:** $99
@@ -141,7 +141,7 @@ ZynAddSubFX does not offer granular audio manipulation, sample import, or a mode
 
 ### Arturia Pigments 5 — The Benchmark Multi-Engine Alternative at $99
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bpb0QLrwwEY" title="Arturia Pigments 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Nc7xq1J-86g" title="Arturia Pigments 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** $99
