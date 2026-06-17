@@ -12,7 +12,7 @@ originalPrice: "$150"
 discount: "74% OFF"
 saleExpiry: "2026-06-17"
 xText: "$150 synth bundle down to $39. 74% off. the per-unit math on these is insane — honestly once you see these prices singles don't make sense."
-draft: false
+draft: true
 ---
 **TL;DR:** Reverb Machine's Synth Icons Bundle is **74% off** right now — just **$39** instead of the usual ~~$150~~. That's $111 in savings on a multi-instrument synthesizer bundle from a developer focused on quality virtual instruments. [Grab it here before the price reverts.](https://audioplugin.deals/product/synth-icons-bundle-by-reverb-machine/ref/21/)
 
