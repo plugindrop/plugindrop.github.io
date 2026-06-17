@@ -10,7 +10,7 @@ dealPrice: "$179.00"
 originalPrice: "$299.00"
 discount: "40% OFF"
 xText: "revoice pro 5 at 40% off just dropped. if you need pitch and time correction beyond what your daw can do, this is the move"
-draft: false
+draft: true
 ---
 **TL;DR:** Revoice Pro 5 is 40% off at Plugin Boutique right now — ~~$299~~ down to **$179**, a flat $120 saving on one of the most established vocal alignment tools in the market. Sales this deep on Synchro Arts products don't come around often. [Grab the deal here.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/11742-Revoice-Pro-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=revoice-pro-5-85b042)
 

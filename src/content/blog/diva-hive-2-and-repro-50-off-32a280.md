@@ -8,7 +8,7 @@ heroImage: "/images/diva-hive-2-and-repro-50-off-32a280.jpg"
 score: 5.54
 discount: "50% OFF"
 xText: "u-he doesn't discount. but diva, hive 2, and repro are 50% off rn which is genuinely rare. these tools just sit different in a mix. if you've been sleeping on them, this is your moment honestly"
-draft: false
+draft: true
 ---
 **TL;DR:** Diva, Hive 2, and Repro — three of u-he's most respected synthesizer plugins — are each 50% off right now through Image-Line's u-he friends promotion. Prices vary by plugin, so verify current figures directly on the [deal page](https://www.image-line.com/specials/u-he-friends). u-he runs deep discounts infrequently, which makes this worth a serious look.
 

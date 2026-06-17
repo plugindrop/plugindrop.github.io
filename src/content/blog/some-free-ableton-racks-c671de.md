@@ -8,7 +8,7 @@ heroImage: "/images/some-free-ableton-racks-c671de.jpg"
 score: 10.00
 dealPrice: "FREE"
 xText: "free ableton racks live now. get them before you close this tab and forget forever. genuinely just go grab them."
-draft: false
+draft: true
 ---
 **TL;DR:** A community producer just dropped 10 free Ableton racks built for simplicity and workflow speed — no strings attached, completely free. Grab them directly at [basicshapestools.com/racks](https://basicshapestools.com/racks).
 

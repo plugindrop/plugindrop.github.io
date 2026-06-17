@@ -8,7 +8,7 @@ heroImage: "/images/muchild-dt-600-mini-fltrs-le-free-plugins-of-the-week-0cea11
 score: 9.36
 dealPrice: "FREE"
 xText: "three normally paid plugins went free. go download them now before this ends. MuChild, DT-600 Mini, FLTRS-LE"
-draft: false
+draft: true
 ---
 **TL;DR:** MuChild, DT-600 Mini, and FLTRS-LE are all available completely free right now — zero cost to add three new tools to your production arsenal. MuChild by Analog Obsession is the standout pick, modeling one of the most revered hardware compressors ever built. If the Fairchild 670 sound has you curious about the real hardware, [check out the original unit at Thomann](https://www.thomann.de/intl/fairchild_670.htm?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=muchild-dt-600-mini-fltrs-le-free-plugins-of-the-week-0cea11).
 

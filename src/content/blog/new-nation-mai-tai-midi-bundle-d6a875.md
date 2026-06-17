@@ -10,7 +10,7 @@ dealPrice: "$20"
 originalPrice: "$109.76"
 discount: "82% OFF"
 xText: "82% off bundle = per-pack costs in single digits. mai tai midi sitting at this price is the kind of deal where you actually do the math and go okay, i'm in."
-draft: false
+draft: true
 ---
 **TL;DR:** New Nation's Mai Tai Midi Bundle drops from ~~$109.76~~ to just **$20** — an 82% discount on 100+ MIDI loops built for producers who need ready-to-use creative material fast. That's less than $0.20 per loop. [Grab it on ADSR Sounds before it's gone.](https://www.adsrsounds.com/product/presets/new-nation-mai-tai-midi-bundle/?a_aid=plugindrop&data1=new-nation-mai-tai-midi-bundle-d6a875&utm_source=plugindrop&utm_medium=article&utm_campaign=new-nation-mai-tai-midi-bundle-d6a875)
 

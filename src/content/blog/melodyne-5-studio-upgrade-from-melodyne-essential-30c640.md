@@ -10,7 +10,7 @@ dealPrice: "$241.00"
 originalPrice: "$599.00"
 discount: "60% OFF"
 xText: "melodyne studio upgrade at 60% off — lowest price i've seen on this. time-stretching mode makes vocal editing feel like cheating in the best way."
-draft: false
+draft: true
 ---
 **TL;DR:** Melodyne 5 Studio is down to **$241** (~~$599~~) at Plugin Boutique — a 60% saving on Celemony's flagship pitch and time editing suite. If you're already on Melodyne Essential and want access to polyphonic DNA editing and the full Studio feature set, [this upgrade is worth a close look](https://www.pluginboutique.com/product/3-Studio-Tools/48-Audio-Editor/6454-Melodyne-5-Studio-Upgrade-from-Melodyne-Essential?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melodyne-5-studio-upgrade-from-melodyne-essential-30c640).
 

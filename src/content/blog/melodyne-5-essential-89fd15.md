@@ -10,7 +10,7 @@ dealPrice: "$24.00"
 originalPrice: "$99.00"
 discount: "76% OFF"
 xText: "melodyne essential just hit the lowest price i've seen. 76% off the vocal standard—transparent, clean, doesn't scream autotune. if you've been on the fence about learning it, this price removes the last excuse."
-draft: false
+draft: true
 ---
 **TL;DR:** Melodyne 5 Essential is down to **$24** (~~$99~~) at Plugin Boutique — a 76% discount on Celemony's entry-level pitch and time editing tool. For producers who want professional note-level vocal correction without the full-tier price tag, this is a rare discount depth for this product. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/3-Studio-Tools/48-Audio-Editor/6446-Melodyne-5-Essential?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melodyne-5-essential-89fd15)
 

@@ -10,7 +10,7 @@ dealPrice: "$34.00"
 originalPrice: "$47.00"
 discount: "28% OFF"
 xText: "28% off discoteca drums just dropped. the saturation character is the move — cuts your processing chain in half. new release, lowest it'll hit"
-draft: false
+draft: true
 ---
 **TL;DR:** Discoteca Drums is currently **$34.00** (reg. ~~$47.00~~) at Plugin Boutique — a 28% discount on a Kontakt-based drum instrument built for club, disco, and funk production. That's $13.00 off with no subscription required. [Grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15862-Discoteca-Drums?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=discoteca-drums-0972d6)
 

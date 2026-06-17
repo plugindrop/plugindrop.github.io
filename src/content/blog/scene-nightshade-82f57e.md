@@ -10,7 +10,7 @@ dealPrice: "$19.00"
 originalPrice: "$28.00"
 discount: "32% OFF"
 xText: "32% off fresh synth just dropped. nightshade's got that saturated warmth at entry price - new gear almost never stays this cheap. grab it while it's here."
-draft: false
+draft: true
 ---
 **TL;DR:** Scene Nightshade is currently 32% off at Plugin Boutique — drop from ~~$28.00~~ to just **$19.00**. That's a solid saving on a Kontakt instrument built for atmospheric and cinematic sound design. [Grab it here while the deal lasts.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15845-Scene-Nightshade?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scene-nightshade-82f57e)
 

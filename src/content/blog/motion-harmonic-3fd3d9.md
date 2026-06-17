@@ -10,7 +10,7 @@ dealPrice: "$29.00"
 originalPrice: "$79.00"
 discount: "63% OFF"
 xText: "motion harmonic hit 63% off in week one. new releases basically never slash this hard this fast. either they're betting big or there's something worth finding out about"
-draft: false
+draft: true
 ---
 **TL;DR:** Motion Harmonic is down to **$29** (was ~~$79~~) at Plugin Boutique — that's 63% off a harmonic distortion and motion design plugin built for producers who want texture and movement in a single unit. At under thirty dollars, it's worth a serious look. [Grab it here while the deal is live.](https://www.pluginboutique.com/product/2-Effects/30-Distortion/10435-Motion-Harmonic?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=motion-harmonic-3fd3d9)
 

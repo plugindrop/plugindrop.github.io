@@ -10,7 +10,7 @@ dealPrice: "$49.00"
 originalPrice: "$79.00"
 discount: "38% OFF"
 xText: "uad summer mix tape bundle at 38% off – the per-unit cost breakdown is genuinely unbeatable for studio mixing plugins. do the math and see if you've ever seen better value."
-draft: false
+draft: true
 ---
 **TL;DR:** The UAD Summer Mix Tape Bundle drops from ~~$79~~ to **$49** — that's 38% off Universal Audio's mixing-focused plugin bundle. A solid window to pick up UAD-quality processing at an accessible price. [Grab the deal on Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17397-UAD-Summer-Mix-Tape-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-summer-mix-tape-bundle-8c6711)
 

@@ -10,7 +10,7 @@ dealPrice: "$70.89"
 originalPrice: "$139.00"
 discount: "49% OFF"
 xText: "new drum plugin just dropped at 49% off. that's wild — fresh releases almost never go that hard this quick. eloy drums doing something different."
-draft: false
+draft: true
 ---
 **TL;DR:** Eloy Drums is currently 49% off at Plugin Boutique — dropping from ~~$139.00~~ to **$70.89**. That's over $68 in savings on a Kontakt drum instrument built for producers who want raw, high-quality drum sounds. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15592-Eloy-Drums?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eloy-drums-e9227e)
 

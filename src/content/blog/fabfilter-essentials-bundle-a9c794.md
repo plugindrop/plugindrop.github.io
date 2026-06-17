@@ -10,7 +10,7 @@ dealPrice: "$314.00"
 originalPrice: "$419.00"
 discount: "25% OFF"
 xText: "fabfilter essentials at 25% off is an absolute sleeper. three pro-grade tools (eq, comp, reverb) for basically one plugin's normal price. not every bundle works like this."
-draft: false
+draft: true
 ---
 **TL;DR:** The FabFilter Essentials Bundle is now 25% off at Plugin Boutique — dropping from ~~$419~~ to **$314**, saving you $105 on a curated set of professional-grade audio plugins. FabFilter doesn't discount often, so this is a window worth paying attention to. [Grab it at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/14128-FabFilter-Essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-essentials-bundle-a9c794)
 

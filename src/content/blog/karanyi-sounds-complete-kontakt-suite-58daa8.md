@@ -10,7 +10,7 @@ dealPrice: "$99.00"
 originalPrice: "$149.00"
 discount: "34% OFF"
 xText: "karanyi sounds kontakt suite is 34% off which never happens. sits in any mix like butter and the processing alone is worth double the sale price."
-draft: false
+draft: true
 ---
 **TL;DR:** Karanyi Sounds Complete Kontakt Suite is currently **$99.00** (down from ~~$149.00~~) at Plugin Boutique — that's $50 off, or 34% savings on a full suite of Kontakt instruments. If you've been waiting for a deep discount on this bundle, [grab it here before the deal expires](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15056-Karanyi-Sounds-Complete-Kontakt-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=karanyi-sounds-complete-kontakt-suite-58daa8).
 

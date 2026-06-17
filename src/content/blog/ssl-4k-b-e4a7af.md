@@ -10,7 +10,7 @@ dealPrice: "$49.00"
 originalPrice: "$149.00"
 discount: "67% OFF"
 xText: "new ssl 4k b dropped at 67% off—they barely discount on launch. best mixing glue you can get, sitting cheaper than most synth subscriptions"
-draft: false
+draft: true
 ---
 **TL;DR:** The SSL 4K B is down to **$49** (~~$149~~) at Plugin Boutique — that's 67% off a classic British console compressor emulation. If you've been waiting for a price drop on this one, this is it. [Grab it here while the deal is live.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-e4a7af)
 

@@ -10,7 +10,7 @@ dealPrice: "$550.00"
 originalPrice: "$799.00"
 discount: "31% OFF"
 xText: "pitch n time pro launched at 31% off. never see new releases hit that discount out the gate. if you deal with vocals, this is the move"
-draft: false
+draft: true
 ---
 **TL;DR:** Serato's Pitch N Time Pro is currently **31% off** at Plugin Boutique — dropping from ~~$799~~ to **$550**, saving you $249 on one of the most established pitch and time correction plugins in professional audio. If you've been watching this one, [grab it here while the deal is live](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/5098-Pitch-N-Time-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pitch-n-time-pro-60c007).
 

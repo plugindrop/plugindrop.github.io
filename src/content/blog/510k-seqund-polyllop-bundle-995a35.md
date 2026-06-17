@@ -16,6 +16,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/nfn0PcAY-F8" title="SEQUND Quick Tutorials: Create a cool  Bassline under a minute!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the 510k SEQUND POLYLLOP Bundle?
 
 The 510k SEQUND POLYLLOP Bundle is a plugin collection available through Plugin Boutique, combining tools aimed at producers working in sequenced and loop-based music production workflows. The bundle packages multiple instruments or effects under one discounted price, making it a value play for producers who want to expand their toolkit without buying each plugin individually. Check the product page for the full list of included titles and developer information.

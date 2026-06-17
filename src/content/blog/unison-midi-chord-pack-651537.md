@@ -9,7 +9,7 @@ aiImage: true
 score: 4.68
 dealPrice: "$47"
 xText: "most chord packs sit unused for months. this new unison pack sounds different—actually compelling progressions that make you want to build on them"
-draft: false
+draft: true
 ---
 **TL;DR:** The Unison MIDI Chord Pack is currently available for **$47** at Unison Audio — a ready-to-drop collection of professional chord progressions designed to accelerate your production workflow. If you're tired of staring at a blank MIDI editor, [grab the Unison MIDI Chord Pack here](https://unison.audio/ref/jc374/product/bass-dragon-factory-expansion-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-chord-pack-651537) and start building tracks faster.
 

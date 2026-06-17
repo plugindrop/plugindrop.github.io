@@ -10,7 +10,7 @@ dealPrice: "$34.00"
 originalPrice: "$47.00"
 discount: "28% OFF"
 xText: "28% off homage—lowest price i've seen. whether you use it for tape warmth or that transformer stage, this thing just sits right in a mix. if you've been waiting to pull the trigger, now's it."
-draft: false
+draft: true
 ---
 **TL;DR:** Homage is currently on sale for **$34.00** (~~$47.00~~) at Plugin Boutique — a 28% saving on a vintage-flavored Kontakt instrument. That's $13 off a library built for producers chasing classic synth character. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15886-Homage?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=homage-30fc8b)
 

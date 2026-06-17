@@ -10,7 +10,7 @@ dealPrice: "$99.00"
 originalPrice: "$199.00"
 discount: "50% OFF"
 xText: "phase plant just dropped to 50% off — lowest i've seen it go. modulation depth this good usually costs way more. if you've been waiting on it, this is the moment."
-draft: false
+draft: true
 ---
 **TL;DR:** Phase Plant by Kilohearts is currently **50% off** at Plugin Boutique — drop from ~~$199~~ to **$99**. That's a significant discount on one of the most flexible modular synths available for producers. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-226633)
 
