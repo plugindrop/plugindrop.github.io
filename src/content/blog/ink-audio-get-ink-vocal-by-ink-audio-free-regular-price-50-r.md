@@ -10,7 +10,7 @@ dealPrice: "$0"
 originalPrice: "$50"
 saleExpiry: "2026-06-18"
 xText: "ink vocal free right now. was $50. clean vocal processing with intuitive workflow. if you have kontakt, you're sleeping on this. go get it."
-draft: false
+draft: true
 ---
 **TL;DR:** Ink Vocal by Ink Audio is available completely free right now — that's ~~$50~~ $0. Grab it while the deal is live at [audioplugin.deals](https://audioplugin.deals/product/ink-vocal-by-ink-audio/ref/21/). You'll need the full retail version of Kontakt 5 or higher to run it.
 

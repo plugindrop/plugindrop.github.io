@@ -11,7 +11,7 @@ originalPrice: "$99.99"
 discount: "76% OFF"
 saleExpiry: "2026-06-18"
 xText: "midi vault at $24 (was $99.99). lowest i've tracked this. if midi generation or inspiration is central to your workflow, this deal is rare enough to grab."
-draft: false
+draft: true
 ---
 **TL;DR:** MIDI Vault by AudioCipher is down to **$24** — that's 76% off the regular ~~$99.99~~ price. If you've been building your MIDI library piecemeal, this is a chance to bulk up in one shot. [Grab the deal here.](https://audioplugin.deals/product/midi-vault-by-audiocipher/ref/21/)
 
