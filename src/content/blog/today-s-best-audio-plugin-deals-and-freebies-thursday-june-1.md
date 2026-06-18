@@ -14,6 +14,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/qtcLvehheiI" title="Are you cheating at music?! [plus the latest top deals and freebies] | Audio Plugin Guy Weekly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## Free Vocal Splitter Plugin from W.A. Production — Plus More Freebies
 
 Thursday, June 18th dropped a surprisingly solid batch of freebies. Lead pick: a stem separation plugin, gratis. Here's everything worth your attention today.
