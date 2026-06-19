@@ -21,6 +21,11 @@ draft: false
 </div>
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/9TEAuMrVJ_k" title="Review: Tom Wolfe Premier Collection by Tom Wolfe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is the Tom Wolfe Presets Complete Collection?
 
 Tom Wolfe Presets is a specialist preset designer focused almost entirely on the u-he synth ecosystem — think Diva, Zebra2, Hive, Repro, and similar instruments. The Complete Collection is the brand's all-in-one bundle, pulling every soundbank they've released into a single purchase. According to the deal announcement, that totals **4,750 synth presets and 600+ effect patches**, covering a wide sweep of sounds from lush pads and leads to textures and basses.
