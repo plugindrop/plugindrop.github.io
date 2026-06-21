@@ -5,6 +5,7 @@ pubDate: "2026-05-06T17:06:41Z"
 tags: ["guide", "vst", "free", "instruments", "synth"]
 affiliate: ""
 evergreen: true
+draft: true
 heroImage: "/images/best-free-synth-vst-plugins.jpg"
 score: 8.00
 xText: "New guide: 14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analo..."
