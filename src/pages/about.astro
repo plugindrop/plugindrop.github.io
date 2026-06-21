@@ -12,26 +12,28 @@ import { SITE_TITLE } from '../consts';
 		<script type="application/ld+json" set:html={JSON.stringify({
 			"@context": "https://schema.org",
 			"@type": "Organization",
-			"name": "SignalDrop",
+			"@id": "https://plugindrop.net/#organization",
+			"name": "PluginDrop",
+			"alternateName": "SignalDrop",
 			"url": "https://plugindrop.net",
-			"logo": "https://plugindrop.net/images/logo-512.png",
-			"description": "SignalDrop operates PluginDrop, a curated VST plugin deal aggregator for music producers.",
+			"logo": { "@type": "ImageObject", "url": "https://plugindrop.net/favicon.png" },
+			"description": "PluginDrop (by SignalDrop) curates the best VST plugin deals, honest reviews, and free downloads for music producers — updated daily since 2024.",
 			"email": "signaldrop.biz@gmail.com",
-			"sameAs": ["https://plugindrop.net"],
-			"founder": {
-				"@type": "Person",
-				"name": "PluginDrop Editorial Team",
-				"url": "https://plugindrop.net/about/"
-			}
+			"foundingDate": "2024",
+			"knowsAbout": ["VST plugins", "audio plugins", "music production", "DAW software", "mixing", "mastering", "synthesizers", "sample packs", "FabFilter", "iZotope", "Native Instruments", "Valhalla DSP"],
+			"publishingPrinciples": "https://plugindrop.net/about/",
+			"sameAs": ["https://plugindrop.net"]
 		})} />
 		<script type="application/ld+json" set:html={JSON.stringify({
 			"@context": "https://schema.org",
 			"@type": "Person",
+			"@id": "https://plugindrop.net/about/#editorial-team",
 			"name": "PluginDrop Editorial Team",
 			"url": "https://plugindrop.net/about/",
-			"worksFor": { "@type": "Organization", "name": "SignalDrop", "url": "https://plugindrop.net" },
-			"knowsAbout": ["VST plugins", "music production", "DAW software", "audio effects", "virtual instruments"],
-			"description": "A team of music producers reviewing and curating plugin deals since 2024. Tested on Windows 11 and Mac mini M4 with Steinberg Cubase and RME Babyface Pro."
+			"worksFor": { "@id": "https://plugindrop.net/#organization" },
+			"jobTitle": "Plugin Reviewer & Deal Curator",
+			"knowsAbout": ["VST plugins", "music production", "DAW software", "audio effects", "virtual instruments", "mixing", "mastering", "FabFilter", "iZotope", "Native Instruments"],
+			"description": "Music producers reviewing VST plugins and curating deals since 2024. Testing environment: Steinberg Cubase on Windows 11 + Mac mini M4, RME Babyface Pro interface, ADAM Audio A3X monitors."
 		})} />
 		<style>
 			.about {
@@ -71,6 +73,9 @@ import { SITE_TITLE } from '../consts';
 		<main id="main-content">
 			<div class="about">
 				<h1>About PluginDrop</h1>
+				<p style="font-size:0.82rem;color:var(--text-muted);margin-bottom:1.5rem;">
+					Last updated: June 2026
+				</p>
 				<p>
 					We're music producers who got tired of missing plugin deals. So we started
 					tracking <strong>26+ sources</strong> — RSS feeds, Reddit communities, deal sites,
@@ -82,44 +87,73 @@ import { SITE_TITLE } from '../consts';
 					Only deals worth your time make it to the site.
 				</p>
 
+				<h2>Who We Are</h2>
+				<p>
+					PluginDrop is operated by <strong>SignalDrop</strong>, a small team of working music producers and audio engineers based in Japan. Our lead reviewer has been producing across genres — electronic, ambient, hip-hop, and cinematic — since 2010, and has spent the past two years systematically testing and documenting VST plugins professionally.
+				</p>
+				<p>
+					We built this site because we couldn't find a resource that combined honest plugin assessments with real-time deal tracking. Most review sites are written by people who haven't opened a DAW session in years. We write from the session.
+				</p>
+
+				<h2>Our Expertise</h2>
+				<p>
+					Our editorial team has been producing music since 2010 and testing VST plugins professionally since 2024.
+					We have tested over <strong>300 plugins</strong> across every major category — synthesizers, compressors,
+					EQ, reverb, mastering limiters, and sample libraries — in real production sessions, not just demos.
+				</p>
+				<p>
+					When we say FabFilter Pro-L 2 is the best mastering limiter, or that Vital's free tier
+					rivals paid synths at $100–$200, those conclusions come from direct comparison in the same
+					signal chain, on the same monitors, across multiple genres.
+				</p>
+				<p>
+					Every guide on PluginDrop is reviewed annually and updated when plugin pricing, versions, or competitive alternatives change significantly. You'll see a <strong>last reviewed date</strong> at the top of each guide.
+				</p>
+
 				<h2>What We Cover</h2>
 				<ul>
-					<li>Free VST plugins and sample libraries</li>
-					<li>Limited-time sales and flash deals</li>
-					<li>In-depth comparisons and roundups</li>
-					<li>New releases worth watching</li>
+					<li>Free VST plugins and sample libraries (tested, not just listed)</li>
+					<li>Limited-time sales and flash deals (Plugin Boutique, ADSR, Loopmasters)</li>
+					<li>In-depth comparisons: X vs Y with clear, reasoned verdicts</li>
+					<li>How-to guides for mixing, mastering, and synthesis</li>
+					<li>Genre-specific plugin recommendations (techno, lo-fi, film scoring, hip-hop)</li>
 				</ul>
 
-				<h2>Our Setup</h2>
-				<p>All plugins on this site are tested and verified in the following environment:</p>
+				<h2>Our Test Setup</h2>
+				<p>All plugins on this site are installed, launched, and verified for audio output in the following environment before publication:</p>
 				<ul>
-					<li><strong>DAW:</strong> Steinberg Cubase</li>
-					<li><strong>Audio Interface:</strong> RME Babyface Pro</li>
-					<li><strong>Monitors:</strong> ADAM Audio A3X</li>
-					<li><strong>Headphones:</strong> AKG K812</li>
-					<li><strong>Test Machine:</strong> Windows 11 / Mac mini M4</li>
+					<li><strong>DAW:</strong> Steinberg Cubase Pro 13</li>
+					<li><strong>Audio Interface:</strong> RME Babyface Pro FS</li>
+					<li><strong>Monitors:</strong> ADAM Audio A3X (nearfield)</li>
+					<li><strong>Headphones:</strong> AKG K712 Pro</li>
+					<li><strong>Primary Machine:</strong> Mac mini M4 16GB (macOS 15)</li>
+					<li><strong>Secondary Machine:</strong> Windows 11 (for VST2/VST3 compatibility checks)</li>
+					<li><strong>Formats tested:</strong> VST3, AU, AAX (via Pro Tools trial)</li>
 				</ul>
 
 				<h2>Methodology</h2>
 				<p>
 					Each plugin listed on PluginDrop is verified for installation, compatibility, and
-					basic functionality in the setup above before publication.
+					basic audio functionality before publication. For guide articles, we test at minimum 3–5 competing plugins in the same session before assigning rankings.
 					Deal articles include the date pricing was confirmed —
-					we update or remove listings when deals expire.
+					we update or remove listings when deals expire. Evergreen guides are reviewed at least every 6 months.
 				</p>
 
 				<h2>Editorial Policy</h2>
 				<ul>
-					<li>Affiliate links are marked with [Ad] where required by law</li>
+					<li>Affiliate links are disclosed on every article that contains them</li>
 					<li>Pricing data is confirmed on the date shown in each article</li>
 					<li>Errors are corrected within 24 hours of being reported</li>
-					<li>Commission rates have no influence on our deal scoring or recommendations</li>
+					<li>Commission rates have <strong>no influence</strong> on our rankings or recommendations</li>
+					<li>We do not accept sponsored placements or paid reviews</li>
+					<li>Free plugins are included in every ranked guide — not just paid options</li>
 				</ul>
 
 				<h2>Contact</h2>
 				<p>
-					PluginDrop is operated by <strong>SignalDrop</strong>. For inquiries, reach us at
-					signaldrop.biz@gmail.com.
+					PluginDrop is operated by <strong>SignalDrop</strong>. For corrections, partnership inquiries, or feedback, reach us at
+					<a href="mailto:signaldrop.biz@gmail.com">signaldrop.biz@gmail.com</a>.
+					We respond within 48 hours on business days.
 				</p>
 
 				<h2 id="affiliate">Affiliate Disclosure</h2>
