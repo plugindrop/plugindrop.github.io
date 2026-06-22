@@ -11,7 +11,7 @@ dealPrice: "FREE"
 discount: "76% OFF"
 saleExpiry: "2026-06-22"
 xText: "free eastwest drums right now + up to 76% off. if you've been putting this off, today's the day you stop sleeping on one of the best drum sound libraries out there"
-draft: false
+draft: true
 ---
 **TL;DR:** EastWest Sounds is running a massive sale — up to 76% off DrumX — and throwing in their Iconic library for FREE. Prices aren't listed here, so verify current numbers on the product page, but a free bonus library on top of a 76% discount is hard to ignore. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/deals/23280?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eastwest-sounds-get-up-to-76-off-in-the-eastwest-sounds-drum)
 
