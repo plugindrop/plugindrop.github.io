@@ -11,7 +11,7 @@ originalPrice: "$74.95"
 discount: "65% OFF"
 saleExpiry: "2026-06-23"
 xText: "$26 for both violin & cello extended techniques (normally $74.95). that's two instruments' worth of extended articulations for basically nothing. if you layer strings, the math checks out."
-draft: false
+draft: true
 ---
 **TL;DR:** Elastic Sounds is offering 65% off its Violin & Cello Extended Techniques Bundle — drop from ~~$74.95~~ to just **$26**. That's two specialized Kontakt libraries covering unconventional string articulations for under $13 each. [Grab the deal here.](https://audioplugin.deals/product/violin-cello-extended-techniques-bundle-by-elastic-sounds/ref/21/)
 
