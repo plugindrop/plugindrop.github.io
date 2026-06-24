@@ -10,7 +10,7 @@ dealPrice: "$314.00"
 originalPrice: "$419.00"
 discount: "25% OFF"
 xText: "fab essentials at 25% off hits that sweet spot where the per-plugin cost is basically a no-brainer. three tools you'll end up buying anyway, might as well grab the bundle and save the cash"
-draft: false
+draft: true
 ---
 **TL;DR:** The FabFilter Essentials Bundle is currently 25% off at Plugin Boutique — drop from ~~$419~~ to **$314**, saving you $105 on a curated collection of 10 professional-grade plugins. If you've been waiting for a FabFilter sale, this is a genuine entry point. [Grab it here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17434-FabFilter-Essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-essentials-bundle-76e4c7)
 

@@ -10,7 +10,7 @@ dealPrice: "$20"
 originalPrice: "$119.95"
 discount: "83% OFF"
 xText: "m1d1 synthwave just dropped at 83% off. new synth gear rarely discounts this deep. if you're sketching retro vibes this window probably won't last long"
-draft: false
+draft: true
 ---
 **TL;DR:** M1D1 Synthwave is down to **$20** (was ~~$119.95~~) at ADSR Sounds — an 83% cut on a royalty-free WAV sample pack built around authentic retro-electronic tones. Sales this steep on dedicated genre packs don't happen often. [Grab it at ADSR Sounds before the price changes.](https://www.adsrsounds.com/product/wav-samples/m1d1-synthwave/?a_aid=plugindrop&data1=m1d1-synthwave-481765&utm_source=plugindrop&utm_medium=article&utm_campaign=m1d1-synthwave-481765)
 

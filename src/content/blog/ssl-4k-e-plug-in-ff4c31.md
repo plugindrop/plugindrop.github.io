@@ -10,7 +10,7 @@ dealPrice: "$74.00"
 originalPrice: "$149.00"
 discount: "50% OFF"
 xText: "ssl 4k e just dropped 50%—lowest price i've tracked it. if you've been waiting for a mastering eq that actually works on real monitors, this is it"
-draft: false
+draft: true
 ---
 **TL;DR:** The SSL 4K E Plug-in is now 50% off at Plugin Boutique — down from ~~$149~~ to just **$74**. This is a first-party channel strip emulation from Solid State Logic themselves, based on the legendary 4000 E Series console. [Grab it at Plugin Boutique while the deal is live.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/11695-SSL-4K-E-Plug-in?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-e-plug-in-ff4c31)
 

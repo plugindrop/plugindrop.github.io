@@ -10,7 +10,7 @@ dealPrice: "$18"
 originalPrice: "$30"
 discount: "40% OFF"
 xText: "40% off these brand new sepia loops and the warmth is unreal - exactly what you reach for when all your other samples feel too bright and clinical. fresh release absolute sleeper"
-draft: false
+draft: true
 ---
 **TL;DR:** Mystic Alankar Sepia Chill Guitar Loops are currently 40% off at ADSR Sounds — dropping from ~~$30~~ to just **$18**. That's $12 back in your pocket for a pack built around atmospheric, mellow guitar textures. [Grab the deal here.](https://www.adsrsounds.com/product/presets/mystic-alankar-sepia-chill-guitar-loops/?a_aid=plugindrop&data1=mystic-alankar-sepia-chill-guitar-loops-5d9ac0&utm_source=plugindrop&utm_medium=article&utm_campaign=mystic-alankar-sepia-chill-guitar-loops-5d9ac0)
 

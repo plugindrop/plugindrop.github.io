@@ -10,7 +10,7 @@ dealPrice: "$20"
 originalPrice: "$109.76"
 discount: "82% OFF"
 xText: "midnight circuit 6-pack for twenty bucks—that's $3.33 per pack. absolute sleeper deal at this price. floor pricing doesn't happen often."
-draft: false
+draft: true
 ---
 **TL;DR:** D Fused Sounds is bundling 6 Midnight Circuit packs for just $20 — down from ~~$109.76~~ — an 82% discount that works out to roughly $3.33 per pack. If you produce dark electronic music and need fresh sound design material, [grab this bundle on ADSR Sounds](https://www.adsrsounds.com/product/presets/d-fused-sounds-midnight-circuit-bundle-6-packs-for-20/?a_aid=plugindrop&data1=d-fused-sounds-midnight-circuit-bundle-6-packs-for-20-6315fd&utm_source=plugindrop&utm_medium=article&utm_campaign=d-fused-sounds-midnight-circuit-bundle-6-packs-for-20-6315fd) before the price changes.
 

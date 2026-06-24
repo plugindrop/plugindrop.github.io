@@ -10,7 +10,7 @@ dealPrice: "$249.00"
 originalPrice: "$399.00"
 discount: "38% OFF"
 xText: "damage 2 at 38% off. fabfilter saturation rarely sits this low. been waiting for a dip? this is probably it."
-draft: false
+draft: true
 ---
 **TL;DR:** Damage 2 by Heavyocity is currently 38% off at Plugin Boutique — dropping from ~~$399~~ to **$249**, saving you $150 on one of the most recognized cinematic percussion libraries available for Kontakt. If you've been waiting for a sale on this title, this is worth a serious look. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/6669-Damage-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=damage-2-189e9c)
 

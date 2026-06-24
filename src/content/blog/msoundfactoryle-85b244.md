@@ -10,7 +10,7 @@ dealPrice: "$35.00"
 originalPrice: "$113.00"
 discount: "69% OFF"
 xText: "69% off msoundfactoryle and it literally just dropped. you don't see discounts this heavy on brand new plugins. grab it before it normalizes."
-draft: false
+draft: true
 ---
 **TL;DR:** MSoundFactoryLE is currently 69% off at Plugin Boutique — dropping from ~~$113~~ to just **$35**. That's a solid entry point into Meldaproduction's flagship instrument engine. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/6602-MSoundFactoryLE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=msoundfactoryle-85b244)
 

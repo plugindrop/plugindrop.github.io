@@ -10,7 +10,7 @@ dealPrice: "$99.00"
 originalPrice: "$199.00"
 discount: "50% OFF"
 xText: "50% off a brand new release is basically unheard of in plugin land. rumble just did it anyway. worth the attention or nah"
-draft: false
+draft: true
 ---
 **TL;DR:** Rumble is currently 50% off at Plugin Boutique — drop from ~~$199~~ to **$99**. That's a $100 saving on a synthesizer built for deep, textured sound design. [Grab Rumble at the deal price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17445-Rumble?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rumble-6a9e88)
 

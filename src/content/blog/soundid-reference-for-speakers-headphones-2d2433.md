@@ -10,7 +10,7 @@ dealPrice: "$169.00"
 originalPrice: "$249.00"
 discount: "32% OFF"
 xText: "soundid reference 32% off and this is genuinely the cheapest it gets. if you're mixing on headphones you can't skip this anymore"
-draft: false
+draft: true
 ---
 **TL;DR:** SoundID Reference for Speakers & Headphones is **32% off** at Plugin Boutique — dropping from ~~$249~~ to **$169**, a flat $80 saving. This is the full dual-mode version: both speaker room calibration and headphone correction profiles in one license. [Grab it at Plugin Boutique while the deal is live.](https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/7410-SoundID-Reference-for-Speakers-Headphones?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-reference-for-speakers-headphones-2d2433)
 

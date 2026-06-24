@@ -10,7 +10,7 @@ dealPrice: "$135.00"
 originalPrice: "$329.00"
 discount: "59% OFF"
 xText: "soundfactory down 59%. lowest i've ever tracked it. if you're hunting fresh samples this is legitimately the moment"
-draft: false
+draft: true
 ---
 **TL;DR:** MSoundFactory by Meldaproduction is currently **59% off** at Plugin Boutique — dropping from ~~$329~~ to just **$135**. That's nearly $194 in savings on one of the most feature-dense instrument plugins on the market. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/6076-MSoundFactory?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=msoundfactory-4ff59f)
 

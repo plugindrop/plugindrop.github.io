@@ -10,7 +10,7 @@ dealPrice: "$27.95"
 originalPrice: "$43.00"
 discount: "35% OFF"
 xText: "35% off soundbox just dropped — rarely see fresh instruments hit this price point this fast. whether you're into sound design or just need something that sits in a mix like butter, this is it."
-draft: false
+draft: true
 ---
 **TL;DR:** Opacity Soundbox Instrument is currently 35% off at Plugin Boutique — dropping from ~~$43.00~~ to **$27.95**. That's over $15 in savings on a virtual instrument built for producers who want distinctive, ready-to-play sounds. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15215-Opacity-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-soundbox-instrument-3c8dc7)
 
