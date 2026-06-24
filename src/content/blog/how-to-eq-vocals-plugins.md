@@ -104,7 +104,7 @@ iZotope Neutron 4's masking meter takes this further by displaying frequency-dom
 
 ### TDR Nova — Best Free Dynamic EQ for Vocals
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1CHFv4mWQYM" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QFnmXts3xdQ" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Tokyo Dawn Records
 - **Price:** Free
@@ -121,7 +121,7 @@ TDR Nova is the most consistently recommended free dynamic EQ across KVR's plugi
 
 ### FabFilter Pro-Q 4 — The Community's Consensus Pick for Surgical Vocal EQ
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QFnmXts3xdQ" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
@@ -138,7 +138,7 @@ FabFilter Pro-Q 4 is the most-recommended paid EQ plugin on r/edmproduction, r/m
 
 ### iZotope Neutron 4 — AI-Assisted EQ with Mix-Context Intelligence
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vsjZop8_Fq4" title="iZotope Neutron 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TVMWw2l9kgg" title="iZotope Neutron 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** $249
@@ -157,7 +157,7 @@ Neutron 4 is not a standalone EQ — it's a full mixing channel strip where the 
 
 ### iZotope Nectar 4 — Vocal-Dedicated Processing Chain
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/8q-mrB1jozE" title="iZotope Nectar 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QFnmXts3xdQ" title="iZotope Nectar 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** $249
@@ -169,7 +169,7 @@ Neutron 4 is not a standalone EQ — it's a full mixing channel strip where the 
 
 ### FabFilter Pro-Q 4 — When Precision Is Non-Negotiable
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/712h_AuoKio" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QFnmXts3xdQ" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
