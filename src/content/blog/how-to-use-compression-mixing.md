@@ -56,7 +56,7 @@ Before any plugin discussion, four parameters are worth understanding at the lev
 
 ### TDR Kotelnikov — The community's benchmark free transparent compressor
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Cpokm0j1DXQ" title="TDR Kotelnikov — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yi0J9JsRdI4" title="TDR Kotelnikov — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Tokyo Dawn Records
 - **Price:** Free (GE version available at additional cost)
@@ -75,7 +75,7 @@ What separates Kotelnikov from typical free compressors is that its M-S mode mak
 
 ### Rough Rider 3 — The go-to free compressor for aggressive character
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/j47NrMNeaf0" title="Rough Rider 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yi0J9JsRdI4" title="Rough Rider 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Audio Damage
 - **Price:** Free
@@ -96,7 +96,7 @@ For producers who want compression movement as a creative effect — particularl
 
 ### FabFilter Pro-C 2 — The producer community's consensus pick for versatile mixing compression
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mSzvpCz-M2k" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/7Qhw8_AjoqI" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
@@ -115,7 +115,7 @@ Reddit's r/mixingmastering consistently describes Pro-C 2 as the compressor that
 
 ### Waves SSL G-Master Buss Compressor — The most-referenced bus glue plugin in modern mixing
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rYLE97NbenM" title="Waves SSL G-Master Buss Compressor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yi0J9JsRdI4" title="Waves SSL G-Master Buss Compressor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves
 - **Price:** $29.99
@@ -136,7 +136,7 @@ The 4–6dB gain reduction sweet spot that mix engineers discuss extensively is 
 
 ### FabFilter Pro-C 2 — Best full-featured compressor for producers ready to go deep
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/R1VetmWadbg" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yi0J9JsRdI4" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
@@ -148,7 +148,7 @@ The 4–6dB gain reduction sweet spot that mix engineers discuss extensively is 
 
 ### Waves SSL 4000 Collection — The complete SSL console toolkit in one bundle
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/cUazTovo8Co" title="Waves SSL 4000 Collection — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/7Qhw8_AjoqI" title="Waves SSL 4000 Collection — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves
 - **Price:** from $199
