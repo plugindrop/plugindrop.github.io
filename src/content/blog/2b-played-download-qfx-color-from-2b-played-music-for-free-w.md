@@ -12,7 +12,7 @@ originalPrice: "$69"
 discount: "58% OFF"
 saleExpiry: "2026-06-26"
 xText: "qfx color is free rn (code JUNE26 at 2B Played). sits in a mix like butter—absolute sleeper deal"
-draft: false
+draft: true
 ---
 **TL;DR:** QFX Color from 2B Played Music is going for free — normally ~~$69~~, currently $29, and dropping to **$0** with code **JUNE26** at checkout. Offer expires June 26. [Claim it at 2bplayed.com/shop.](https://2bplayed.com/shop/)
 
