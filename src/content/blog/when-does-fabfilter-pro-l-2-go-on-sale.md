@@ -1,6 +1,6 @@
 ---
 title: "When Does FabFilter Pro-L 2 Go On Sale? (Updated 2026)"
-description: "FabFilter Pro-L 2 goes on sale 3-4x per year at 25-30% off (~$149-$139). Lowest ever: ~$64 via Gear4music GBP exchange at Black Friday."
+description: "FabFilter Pro-L 2 goes on sale 3-4x per year at 25% off (~$134). Regular price: $179. Lowest ever: ~$64 via Gear4music GBP exchange (March 2023)."
 pubDate: "2026-06-29"
 tags:
   - "fabfilter"
@@ -15,7 +15,7 @@ relatedPosts:
   - "mastering-chain-plugins"
 ---
 
-**Short answer:** FabFilter Pro-L 2 goes on sale **3-4 times per year**. The typical discount is **25–30% off**, bringing the $199 regular price down to around **$149**. The best times to buy:
+**Short answer:** FabFilter Pro-L 2 goes on sale **3-4 times per year**. The typical discount is **25–64% off**, bringing the $179 regular price down to around **$134**. The best times to buy:
 
 - **Summer Sale (June)**
 - **Black Friday (November)**
@@ -27,12 +27,12 @@ relatedPosts:
 
 | When | Discount | Approx. Price | Source |
 |------|----------|---------------|--------|
-| Summer 2025 (June) | 25% off | ~$149 | Plugin Boutique / Official |
-| Black Friday 2024 (November) | 30% off | ~$139 | Plugin Boutique / Official |
-| Black Friday 2024 (Gear4music GBP) | ~68% off | ~$64 | Gear4music (GBP exchange) |
-| Anniversary 2024 (December) | 30% off | ~$139 | Plugin Boutique / Official |
+| Summer 2025 (June) | 25% off | ~$134 | FabFilter Official / Plugin Boutique |
+| Black Friday 2025 (November) | 25% off | ~$134 | FabFilter Official / Plugin Boutique |
+| Black Friday 2024 (November) | 25% off | ~$134 | FabFilter Official / Plugin Boutique |
+| Gear4music (GBP exchange, March 2023) | ~64% off | ~$64 | Gear4music — confirmed by plugindeals.net price tracker |
 
-**Lowest price ever recorded:** ~$64 (Gear4music (GBP exchange rate, Black Friday 2024))
+**Lowest price ever recorded:** ~$64 (Gear4music (GBP exchange, March 4, 2023 — confirmed by plugindeals.net))
 
 ## When to Buy FabFilter Pro-L 2: Season-by-Season Guide
 

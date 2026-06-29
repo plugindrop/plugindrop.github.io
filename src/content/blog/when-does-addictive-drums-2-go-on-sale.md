@@ -1,6 +1,6 @@
 ---
 title: "When Does XLN Audio Addictive Drums 2 Go On Sale? (Updated 2026)"
-description: "XLN Audio Addictive Drums 2 goes on sale 3-4x per year at 40-50% off. Black Friday hits $70 (50% off). Standard sale price: ~$99."
+description: "XLN Audio Addictive Drums 2 Custom Collection regular price: $169-179. Goes on sale 3-4x per year at 40-58% off. Lowest ever: $70 (Thomann, Nov 23 2024)."
 pubDate: "2026-06-29"
 tags:
   - "xln-audio"
@@ -14,7 +14,7 @@ relatedPosts:
   - "best-synth-vst-plugins-2026"
 ---
 
-**Short answer:** Addictive Drums 2 goes on sale **3-4 times per year**. The typical discount is **40–53% off**, bringing the $149 regular price down to around **$89**. The best times to buy:
+**Short answer:** Addictive Drums 2 Custom Collection goes on sale **3-4 times per year**. The typical discount is **40–58% off**, bringing the $169 regular price down to around **$101**. The best times to buy:
 
 - **Black Friday (November)**
 - **Summer (June-July)**
@@ -26,20 +26,21 @@ relatedPosts:
 
 | When | Discount | Approx. Price | Source |
 |------|----------|---------------|--------|
-| Black Friday 2024 | 50% off | ~$70 | XLN Audio / PB |
-| Summer 2024 (June) | 40% off | ~$89 | XLN Audio / PB |
-| Spring 2024 | 40% off | ~$89 | XLN Audio |
-| Black Friday 2023 | 53% off | ~$70 | XLN Audio / PB |
+| Thomann (November 23, 2024) | ~58% off | ~$70 | Thomann (confirmed lowest ever) |
+| Black Friday 2024 (PB/Official) | 50% off | ~$84 | XLN Audio / Plugin Boutique |
+| Summer 2025 (June) | 40% off | ~$101 | XLN Audio / PB |
+| Summer 2024 (June) | 40% off | ~$101 | XLN Audio / PB |
+| Spring 2024 | 40% off | ~$101 | XLN Audio |
 
-**Lowest price ever recorded:** ~$70 (Black Friday 2024 (XLN Audio / Plugin Boutique))
+**Lowest price ever recorded:** ~$70 (Thomann (November 23, 2024 — confirmed lowest ever))
 
-## When to Buy Addictive Drums 2: Season-by-Season Guide
+## When to Buy Addictive Drums 2 Custom Collection: Season-by-Season Guide
 
 - **Black Friday (November)**
 - **Summer (June-July)**
 - **XLN Audio spring sales**
 
-> **Buying tip:** Addictive Drums 2's Black Friday sales are very consistent at 50% off. XLN Audio also runs summer promotions. Note: the Custom XL Collection expansion packs go on sale separately and often deeply at PB.
+> **Buying tip:** Addictive Drums 2's Black Friday sales are very consistent at 40-50% off. Thomann often undercuts PB pricing by $10-15 on XLN Audio. The Custom XL Collection expansion packs also go on sale separately and often deeply at PB. At $70 (Thomann BF 2024), it's outstanding value for a professional acoustic drum instrument.
 
 
 **[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763)**

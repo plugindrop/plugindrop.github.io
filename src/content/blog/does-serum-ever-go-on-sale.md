@@ -1,6 +1,6 @@
 ---
-title: "Does Xfer Serum Ever Go On Sale? (The Real Answer in 2026)"
-description: "Xfer Serum never goes on sale — confirmed by developer Steve Duda. Price is always $189. The only cheaper option is Splice rent-to-own at $8.99/month."
+title: "Does Xfer Serum 2 Ever Go On Sale? (The Real Answer in 2026)"
+description: "Xfer Serum 2 never goes on sale. Regular price is $249 (intro promo $189 ended June 2024). Serum 1 owners get free upgrade. Only option: Splice rent-to-own."
 pubDate: "2026-06-29"
 tags:
   - "serum"
@@ -14,17 +14,17 @@ relatedPosts:
   - "free-alternative-to-serum-vst"
 ---
 
-**Short answer:** Xfer Serum **never goes on sale.** The price has always been **$189** and there are no plans to change that.
+**Short answer:** Xfer Serum 2 **never goes on sale.** The price has always been **$249** and there are no plans to change that.
 
 ---
 
-## Why Xfer Serum Has No Sales
+## Why Xfer Serum 2 Has No Sales
 
-Steve Duda (creator of Serum) has publicly confirmed on multiple occasions that Serum will never go on sale. The $189 price has remained constant since its launch. This is a deliberate decision — Duda prefers a stable price over artificial discount cycles.
+Xfer Records explicitly states: 'We do not run sales on our software. The price for our plugins remain consistent.' Serum 2's regular price is $249. The $189 intro price during launch (until June 2024) was a one-time event, not a recurring sale. Serum 1 owners got a free upgrade to Serum 2.
 
-## The Only Way to Get Xfer Serum Cheaper: Splice Rent-to-Own
+## The Only Way to Get Xfer Serum 2 Cheaper: Splice Rent-to-Own
 
-[Splice](https://splice.com/plugins/xfer/serum) offers Xfer Serum through a rent-to-own subscription:
+[Splice](https://splice.com/plugins/xfer/serum) offers Xfer Serum 2 through a rent-to-own subscription:
 
 | | Details |
 |---|---|
@@ -38,21 +38,21 @@ This is the **only legitimate way to reduce the upfront cost** — there are no 
 
 ## Should You Just Buy It at Full Price?
 
-At **$189**, here's how to think about it:
+At **$249**, here's how to think about it:
 
 - **Buy now** if you actively need it for your current work
 - **Try the free alternatives first** if you're still exploring or use Splice to spread the cost
 - **Accept the price** — waiting will not get you a better deal
 
 
-**[Buy Xfer Serum on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/68-Virtual-Analogue/5765-Serum?a_aid=69cb95abe1763)**
+**[Buy Xfer Serum 2 on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/68-Virtual-Analogue/5765-Serum?a_aid=69cb95abe1763)**
 
 Plugin Boutique offers Virtual Cash back (typically 5%) on every purchase — the only way to soften the cost.
 
 
 ## Free Alternatives Worth Considering
 
-Since Xfer Serum never goes on sale:
+Since Xfer Serum 2 never goes on sale:
 
 - **[Vital](https://vital.audio)** — Free wavetable synth — widely considered nearly equal to Serum in capability
 - **[Surge XT](https://surge-synthesizer.github.io)** — Free open-source synth with extensive wavetable and modulation features

@@ -1,6 +1,6 @@
 ---
 title: "When Does FabFilter Pro-Q 4 Go On Sale? (Updated 2026)"
-description: "FabFilter Pro-Q 4 goes on sale 3-4x per year. Typical discount: 25-30% off ($134-$125). Best times: June, November, December. Lowest ever: ~$105 at Gear4music."
+description: "FabFilter Pro-Q 4 goes on sale 3-4x per year at 25% off (~$149). Black Friday 2025 lowest ever: ~$104 at Plugin Boutique. Regular price: $199."
 pubDate: "2026-06-29"
 tags:
   - "fabfilter"
@@ -14,7 +14,7 @@ relatedPosts:
   - "mastering-chain-plugins"
 ---
 
-**Short answer:** FabFilter Pro-Q 4 goes on sale **3-4 times per year**. The typical discount is **25–30% off**, bringing the $179 regular price down to around **$134**. The best times to buy:
+**Short answer:** FabFilter Pro-Q 4 goes on sale **3-4 times per year**. The typical discount is **25–48% off**, bringing the $199 regular price down to around **$149**. The best times to buy:
 
 - **Summer Sale (June)**
 - **Black Friday (November)**
@@ -26,13 +26,13 @@ relatedPosts:
 
 | When | Discount | Approx. Price | Source |
 |------|----------|---------------|--------|
-| Summer 2025 (June) | 25% off | ~$134 | Plugin Boutique / Official |
-| Black Friday 2024 (November) | 25% off | ~$134 | Plugin Boutique / Official |
-| Black Friday 2024 (Gear4music GBP) | ~41% off | ~$105 | Gear4music (GBP exchange) |
-| Anniversary 2024 (December) | 30% off | ~$125 | Plugin Boutique / Official |
-| Summer 2024 (June) | 25% off | ~$134 | Plugin Boutique / Official |
+| Black Friday 2025 (November) | ~48% off | ~$104 | Plugin Boutique (confirmed via Perplexity/YouTube) |
+| Summer 2025 (June) | 25% off | ~$149 | FabFilter Official / Plugin Boutique |
+| Black Friday 2024 (November) | 25% off | ~$149 | FabFilter Official / Plugin Boutique |
+| Summer 2024 (June) | 25% off | ~$149 | FabFilter Official / Plugin Boutique |
+| Gear4music (GBP exchange) | ~47% off | ~$105 | Gear4music (GBP favourable rate, Black Friday 2024) |
 
-**Lowest price ever recorded:** ~$105 (Gear4music (GBP exchange rate, Black Friday 2024))
+**Lowest price ever recorded:** ~$104 (Plugin Boutique (Black Friday 2025, confirmed stacked promo))
 
 ## When to Buy FabFilter Pro-Q 4: Season-by-Season Guide
 

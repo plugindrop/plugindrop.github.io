@@ -1,6 +1,6 @@
 ---
 title: "When Does Cherry Audio Mercury-6 Go On Sale? (Updated 2026)"
-description: "Cherry Audio Mercury-6 goes on sale 4-5x per year at 20-52% off. Lowest ever: $23 (Cherry Audio Focus Sale at PB). Regular sale price around $34."
+description: "Cherry Audio Mercury-6 regular price: $49. Goes on sale 4-5x per year at 20-41% off. Black Friday 2025 lowest confirmed: $29 (per YouTube/community). Official Cherry Audio October sale: $39."
 pubDate: "2026-06-29"
 tags:
   - "cherry-audio"
@@ -14,11 +14,11 @@ relatedPosts:
   - "best-vintage-synth-vst-plugins"
 ---
 
-**Short answer:** Cherry Audio Mercury-6 goes on sale **4-5 times per year**. The typical discount is **30–52% off**, bringing the $49 regular price down to around **$34**. The best times to buy:
+**Short answer:** Cherry Audio Mercury-6 goes on sale **4-5 times per year**. The typical discount is **20–41% off**, bringing the $49 regular price down to around **$39**. The best times to buy:
 
-- **PB Focus Sales (Cherry Audio featured)**
 - **Black Friday (November)**
-- **Cherry Audio seasonal sales**
+- **Cherry Audio October sale**
+- **PB Focus Sales (Cherry Audio featured)**
 
 ---
 
@@ -26,20 +26,20 @@ relatedPosts:
 
 | When | Discount | Approx. Price | Source |
 |------|----------|---------------|--------|
-| PB Cherry Audio Focus Sale 2025 | ~52% off | ~$23 | Plugin Boutique |
-| Black Friday 2024 | 40% off | ~$29 | Cherry Audio / PB |
-| Summer 2024 | 30% off | ~$34 | Cherry Audio / PB |
-| Spring 2025 | 20% off | ~$39 | Cherry Audio |
+| Black Friday 2025 (November) | ~41% off | ~$29 | Cherry Audio (confirmed via YouTube/community — BF 2025 sale) |
+| Cherry Audio October 2024 Sale | 20% off | ~$39 | Cherry Audio Official (confirmed) |
+| Summer 2025 (June) | ~20% off | ~$39 | Cherry Audio / PB |
+| PB Cherry Audio Focus Sale 2025 | ~20% off | ~$39 | Plugin Boutique |
 
-**Lowest price ever recorded:** ~$23 (PB Cherry Audio Focus Sale (2025))
+**Lowest price ever recorded:** ~$29 (Black Friday 2025 (Cherry Audio — confirmed via YouTube/community reports))
 
 ## When to Buy Cherry Audio Mercury-6: Season-by-Season Guide
 
-- **PB Focus Sales (Cherry Audio featured)**
 - **Black Friday (November)**
-- **Cherry Audio seasonal sales**
+- **Cherry Audio October sale**
+- **PB Focus Sales (Cherry Audio featured)**
 
-> **Buying tip:** Cherry Audio runs frequent PB Focus Sales across their product line. The Mercury-6 (Jupiter-6 emulation) at $23 is exceptional value. Cherry Audio's entire catalog follows similar sale patterns — watch Plugin Boutique's featured brand rotation.
+> **Buying tip:** Cherry Audio runs frequent promotions, including an October sale and Black Friday. The Mercury-6 (Jupiter-6 emulation) at $29 on BF is exceptional value. The official Cherry Audio price on non-BF sales is typically $39 (20% off). Cherry Audio's entire catalog follows similar sale patterns.
 
 
 **[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/66-Synth/9649-Mercury-6?a_aid=69cb95abe1763)**

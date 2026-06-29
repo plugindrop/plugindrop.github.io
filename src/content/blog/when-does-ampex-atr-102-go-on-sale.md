@@ -1,6 +1,6 @@
 ---
 title: "When Does the Ampex ATR-102 (Plugin Alliance) Go On Sale? (Updated 2026)"
-description: "The Ampex ATR-102 tape machine emulation goes on sale 2-3x per year at 80-89% off. Lowest ever: $39. PB Anniversary and Black Friday are the best times."
+description: "The Ampex ATR-102 tape machine emulation (MSRP $349) goes on sale at 80-89% off. Lowest ever: $37 (Thomann, Feb 3 2025). Black Friday and PB Anniversary are the best times."
 pubDate: "2026-06-29"
 tags:
   - "plugin-alliance"
@@ -27,12 +27,12 @@ relatedPosts:
 
 | When | Discount | Approx. Price | Source |
 |------|----------|---------------|--------|
-| PB Anniversary 2025 (February) | ~89% off | ~$39 | Plugin Boutique |
+| Thomann (February 3, 2025) | ~89% off | ~$37 | Thomann (confirmed lowest ever) |
+| Plugin Alliance / PB 80% off (ongoing BF/Anniversary) | ~89% off | ~$39 | Plugin Boutique (confirmed at PB BF and Anniversary) |
 | Black Friday 2024 | 80% off | ~$69 | Plugin Alliance / PB |
 | Summer 2024 | 80% off | ~$69 | Plugin Alliance |
-| Flash sale 2024 | 80% off | ~$69 | Plugin Alliance |
 
-**Lowest price ever recorded:** ~$39 (Plugin Boutique 13th Anniversary (February 2025))
+**Lowest price ever recorded:** ~$37 (Thomann (February 3, 2025 — confirmed lowest ever))
 
 ## When to Buy Ampex ATR-102: Season-by-Season Guide
 
@@ -40,7 +40,7 @@ relatedPosts:
 - **Black Friday (November)**
 - **Plugin Alliance flash sales**
 
-> **Buying tip:** Plugin Alliance products including the Ampex ATR-102 frequently reach 80-89% off at PB Anniversary and Black Friday. At $39, this professional-grade tape machine emulation (authorized by Ampex) is a remarkable deal. Plugin Alliance also occasionally runs flash sales outside of the main sale seasons.
+> **Buying tip:** Plugin Alliance products including the Ampex ATR-102 frequently reach 80-89% off at PB Anniversary and Black Friday. At $37 (Thomann Feb 2025) or $39 (PB BF), this authorized Ampex tape machine emulation is extraordinary value. Always check Thomann vs PB — Thomann has beat PB price on this product.
 
 
 **[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-effects/42-Saturation/6702-Ampex-ATR-102?a_aid=69cb95abe1763)**

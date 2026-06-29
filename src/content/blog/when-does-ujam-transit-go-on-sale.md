@@ -1,9 +1,9 @@
 ---
-title: "When Does UJAM Transit 2 Go On Sale? (Updated 2026)"
-description: "UJAM Transit 2 goes on sale 3-4x per year at 39-46% off. Black Friday lowest: $69 (46% off). Regular sale price: $75-$78."
+title: "When Does Baby Audio Transit 2 Go On Sale? (Updated 2026)"
+description: "Baby Audio Transit 2 (co-developed with Andrew Huang) regular price: $129. Black Friday 2025 lowest: $69 (46% off). Intro launch sale: $79. Watch Baby Audio and Plugin Boutique for deals."
 pubDate: "2026-06-29"
 tags:
-  - "ujam"
+  - "baby-audio"
   - "transit"
   - "effects"
   - "plugin-deals"
@@ -13,11 +13,10 @@ relatedPosts:
   - "best-plugin-bundle-deals"
 ---
 
-**Short answer:** UJAM Transit 2 goes on sale **3-4 times per year**. The typical discount is **40–46% off**, bringing the $129 regular price down to around **$77**. The best times to buy:
+**Short answer:** Baby Audio Transit 2 goes on sale **2-3 times per year**. The typical discount is **39–46% off**, bringing the $129 regular price down to around **$78**. The best times to buy:
 
 - **Black Friday (November)**
-- **Summer (June-July)**
-- **UJAM seasonal sales**
+- **Baby Audio seasonal sales**
 - **PB Focus Sales**
 
 ---
@@ -26,21 +25,20 @@ relatedPosts:
 
 | When | Discount | Approx. Price | Source |
 |------|----------|---------------|--------|
-| Black Friday 2024 | 46% off | ~$69 | UJAM / PB |
-| Summer 2024 | 39% off | ~$78 | UJAM / PB |
-| Spring 2025 | 39% off | ~$78 | UJAM / PB |
-| PB Focus Sale 2024 | 40% off | ~$75 | Plugin Boutique |
+| Black Friday 2025 (November) | ~46% off | ~$69 | Baby Audio / Plugin Boutique (confirmed) |
+| Launch intro sale (2024) | ~39% off | ~$79 | Baby Audio Official (intro price at launch) |
+| Summer 2025 (June) | ~39% off | ~$79 | Baby Audio / PB |
+| PB Focus Sale 2025 | ~39% off | ~$79 | Plugin Boutique |
 
-**Lowest price ever recorded:** ~$69 (Black Friday 2024 (UJAM / Plugin Boutique))
+**Lowest price ever recorded:** ~$69 (Black Friday 2025 (Baby Audio / Plugin Boutique))
 
-## When to Buy UJAM Transit 2: Season-by-Season Guide
+## When to Buy Baby Audio Transit 2: Season-by-Season Guide
 
 - **Black Friday (November)**
-- **Summer (June-July)**
-- **UJAM seasonal sales**
+- **Baby Audio seasonal sales**
 - **PB Focus Sales**
 
-> **Buying tip:** UJAM products regularly appear in Plugin Boutique's focus sales. Transit 2 (a live performance transition tool) follows UJAM's typical 40% off seasonal pattern. Black Friday is consistently the best deal.
+> **Buying tip:** Baby Audio Transit 2 (co-developed with YouTube producer Andrew Huang) is a creative transition effects plugin. Baby Audio's Black Friday is consistently the best sale window. The $79 intro price at launch was one-time; $69 at BF 2025 is currently the confirmed lowest ever.
 
 
 **[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-effects/69-Multi-effect/11166-Transit-2?a_aid=69cb95abe1763)**
