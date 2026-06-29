@@ -31,6 +31,8 @@ priceTrack:
 
 ---
 
+> **Considering the upgrade?** Valhalla VintageVerb and Room are always $50 — no sales ever. → [Does Valhalla DSP Go On Sale?](/posts/does-valhalla-dsp-ever-go-on-sale/) | [Buy Valhalla Room (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla+Room&a_aid=69cb95abe1763)
+
 ## Introduction
 
 Here's what catches most producers off guard: the best free alternative to Valhalla reverb is made by Valhalla themselves. Supermassive has been free since 2020, carries zero feature restrictions, and sits at or near the top of every serious free reverb discussion on Reddit's r/edmproduction, r/audioengineering, and KVR Audio's forums. If you're searching for a free alternative to Valhalla reverb specifically because of price, Supermassive eliminates the problem before it starts — and it isn't a consolation prize.

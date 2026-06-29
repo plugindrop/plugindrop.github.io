@@ -1,6 +1,6 @@
 ---
 title: "Mastering Plugin Chain 2026: Complete 6-Step Setup (Free & Paid Picks)"
-description: "Build a pro mastering chain in 2026 step by step: spectrum analysis → EQ → compression → saturation → stereo imaging → limiting. Every slot covered with free and paid recommendations."
+description: "Pro mastering chain 2026: spectrum analysis → EQ → compression → saturation → stereo imaging → limiting. Free and paid plugin picks for every step."
 pubDate: "2026-05-02T13:06:41Z"
 tags: ["guide", "vst", "mastering", "workflow"]
 affiliate: ""
@@ -265,6 +265,8 @@ The complete mastering chain outlined here — SPAN for analysis, FabFilter Pro-
 ## Related Guides
 
 - [Best Plugin Bundle Deals 2026: Save 80%+ on Pro VSTs](/posts/best-plugin-bundle-deals/)
+- [When Does FabFilter Pro-L 2 Go On Sale? (25-30% off, 3-4x/year)](/posts/when-does-fabfilter-pro-l-2-go-on-sale/)
+- [When Does iZotope Ozone Go On Sale?](/posts/when-does-izotope-ozone-go-on-sale/)
 - [iZotope Ozone vs FabFilter Mastering: Which Wins?](/posts/izotope-ozone-vs-fabfilter-mastering/)
 - [FabFilter Pro-L 2 Review 2026: Still the Best Limiter?](/posts/fabfilter-pro-l-2-review/)
 - [Best Free Mastering Plugins 2026](/posts/best-free-mastering-plugins/)

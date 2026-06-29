@@ -186,6 +186,8 @@ FabFilter Pro-L 2 is not the best mastering limiter because nothing better exist
 
 [→ Get FabFilter Pro-L 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-L%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-l-2-review)
 
+> **Waiting for a sale?** FabFilter Pro-L 2 goes on sale 3-4x per year (typically 25-30% off). → [When Does FabFilter Pro-L 2 Go On Sale?](/posts/when-does-fabfilter-pro-l-2-go-on-sale/)
+
 ---
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*

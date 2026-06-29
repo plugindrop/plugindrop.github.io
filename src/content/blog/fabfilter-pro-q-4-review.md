@@ -232,6 +232,7 @@ Buy it standalone if you're building selectively, or get the Total Bundle if you
 
 ## Related Guides
 
+- [When Does FabFilter Pro-Q 4 Go On Sale? (Sale History + Best Price)](/posts/when-does-fabfilter-pro-q-4-go-on-sale/)
 - [Best Free EQ VST Plugins 2026 (FabFilter Alternatives)](/posts/best-free-eq-vst-plugins/)
 - [FabFilter Pro-Q 4 vs iZotope Neutron: Which EQ Wins?](/posts/fabfilter-pro-q-4-vs-izotope-neutron/)
 - [Free Alternative to FabFilter Pro-Q 4](/posts/free-alternative-to-fabfilter-pro-q/)

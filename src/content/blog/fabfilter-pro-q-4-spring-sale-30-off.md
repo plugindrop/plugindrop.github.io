@@ -7,6 +7,7 @@ affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilt
 heroImage: /images/fabfilter-pro-q-4-spring-sale-30-off.jpg
 score: 7.7
 draft: false
+noindex: true
 converted: true
 priceTrack:
   - "FabFilter Pro-Q 4"
