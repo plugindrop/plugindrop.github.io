@@ -12,6 +12,7 @@ tags:
   - "vst"
 relatedPosts:
   - "best-synth-vst-plugins-2026"
+heroImage: '/images/when-does-scaler-3-go-on-sale.jpg'
 ---
 
 **Short answer:** Scaler 3 goes on sale **4-5 times per year**. The typical discount is **30–30% off**, bringing the $99 regular price down to around **$69**. The best times to buy:

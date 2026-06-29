@@ -13,6 +13,7 @@ tags:
 relatedPosts:
   - "when-do-waves-plugins-go-on-sale"
   - "best-plugin-bundle-deals"
+heroImage: '/images/when-does-ssl-4000-bundle-go-on-sale.jpg'
 ---
 
 **Short answer:** Waves SSL 4000 Bundle goes on sale **Effectively year-round — Waves flash sales run almost constantly**. The typical discount is **80–77% off**, bringing the $499 regular price down to around **$99**. The best times to buy:

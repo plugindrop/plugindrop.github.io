@@ -8,7 +8,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: 12 Best VST Plugins for Trap Beats in 2026 (808s, Synths, FX..."
 heroImage: "/images/best-trap-vst-plugins.jpg"
-draft: false
+draft: true
 priceTrack:
   - "Serum 2"
 ---

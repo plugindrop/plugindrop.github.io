@@ -7,7 +7,7 @@ affiliate: ""
 evergreen: true
 score: 8.00
 xText: "New guide: 12 Best Free VST Plugins for Hip Hop Production in 2026"
-draft: false
+draft: true
 heroImage: "/images/best-free-plugins-hip-hop_collage.jpg"
 ---
 **TL;DR:** Vital is the free wavetable synthesizer r/edmproduction consistently puts at the top of hip-hop starter kit lists — fully capable and zero cost. Pair it with iZotope Vinyl for lo-fi texture and Rough Rider 3 for punchy compression, and you have 80% of a functional hip-hop rig before spending a dollar. This guide covers all 12 picks, organized by workflow stage.

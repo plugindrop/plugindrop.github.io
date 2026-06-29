@@ -7,7 +7,7 @@ affiliate: ""
 evergreen: true
 score: 8.00
 xText: "New guide: 8 Best Free Limiter VST Plugins in 2026 (Mastering-Grade Opt..."
-draft: false
+draft: true
 heroImage: "/images/best-free-limiter-vst_og.jpg"
 priceTrack:
   - "FabFilter Pro-L 2"

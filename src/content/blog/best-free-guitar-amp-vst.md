@@ -7,7 +7,7 @@ affiliate: ""
 evergreen: true
 score: 8.00
 xText: "New guide: 10 Best Free Guitar Amp Simulator VST Plugins in 2026"
-draft: false
+draft: true
 heroImage: "/images/best-free-guitar-amp-vst_og.jpg"
 ---
 **TL;DR:** TSE Audio X50 v2.4 is the most community-validated free amp sim for high-gain production — circuit-modeled, mix-tested, and backed by years of KVR and Gearspace documentation. For clean and crunch, Ignite Amps TPA-1 is the consistent recommendation. If you want a complete chain in one plugin, Guitar Rig 7 Player gives you a functional, expandable ecosystem at no cost.

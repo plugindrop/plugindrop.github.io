@@ -12,6 +12,7 @@ relatedPosts:
   - "fabfilter-pro-q-4-review"
   - "fabfilter-pro-l-2-review"
   - "best-eq-plugins-2026"
+heroImage: '/images/when-does-fabfilter-total-bundle-go-on-sale.jpg'
 ---
 
 **Short answer:** FabFilter Total Bundle goes on sale **2-3 times per year**. The typical discount is **25–38% off**, bringing the $879 regular price down to around **$659**. The best times to buy:

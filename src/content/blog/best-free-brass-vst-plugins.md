@@ -8,7 +8,7 @@ heroImage: "/images/best-free-brass-vst-plugins.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: Best Free Brass VST Plugins 2026 (Trumpet, Trombone and Fren..."
-draft: false
+draft: true
 ---
 **TL;DR:** BBC Symphony Orchestra Discover is the best free brass VST plugin available in 2026 — recorded at Maida Vale Studios with real BBC Symphony Orchestra players, it covers the full brass section including trumpets, trombones, and French horns at zero cost. VSCO2 Community Edition is the strongest lightweight alternative for producers who need SFZ-format flexibility and a smaller CPU footprint.
 

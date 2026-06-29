@@ -13,6 +13,7 @@ relatedPosts:
   - "when-do-waves-plugins-go-on-sale"
   - "best-plugin-bundle-deals"
   - "mastering-chain-plugins"
+heroImage: '/images/when-does-bx-console-ssl-9000-go-on-sale.jpg'
 ---
 
 **Short answer:** Brainworx bx_console SSL 9000 J goes on sale **Near-constantly — ongoing sale is the norm, not the exception**. The typical discount is **91–93% off**, bringing the $349 regular price down to around **$31**. The best times to buy:

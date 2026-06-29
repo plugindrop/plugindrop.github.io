@@ -12,6 +12,7 @@ relatedPosts:
   - "arturia-vs-native-instruments-komplete"
   - "is-native-instruments-komplete-worth-it"
   - "best-synth-vst-plugins-2026"
+heroImage: '/images/when-does-ni-komplete-go-on-sale.jpg'
 ---
 
 **Short answer:** NI Komplete 15 goes on sale **2 times per year (very predictable)**. The typical discount is **50–56% off**, bringing the $599 regular price down to around **$299**. The best times to buy:

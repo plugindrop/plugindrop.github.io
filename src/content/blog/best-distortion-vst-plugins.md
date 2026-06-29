@@ -8,7 +8,7 @@ heroImage: "/images/best-distortion-vst-plugins.png"
 evergreen: true
 score: 8.00
 xText: "New guide: 12 Best Distortion & Overdrive VST Plugins in 2026"
-draft: false
+draft: true
 ---
 **TL;DR:** Soundtoys Decapitator is the most-recommended analog drive plugin in production communities — its five hardware-modeled saturation styles cover subtle warmth through full annihilation. For multiband surgical distortion, FabFilter Saturn 2 is the community's unambiguous standard. If budget is a constraint, Klanghelm SDRR is the overachiever under $20, and Chow Tape Model is the best free tape simulation available in 2026.
 

@@ -13,6 +13,7 @@ relatedPosts:
   - "izotope-ozone-12-review"
   - "mastering-chain-plugins"
   - "best-limiter-plugins-mastering"
+heroImage: '/images/when-does-izotope-ozone-go-on-sale.jpg'
 ---
 
 **Short answer:** iZotope Ozone 12 Advanced goes on sale **2-3 times per year**. The typical discount is **50–80% off**, bringing the $499 regular price down to around **$249**. The best times to buy:

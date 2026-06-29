@@ -8,7 +8,7 @@ heroImage: "/images/best-vst-plugins-for-beginners.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: Best VST Plugins for Beginners in 2026: Start Here (Free & P..."
-draft: false
+draft: true
 priceTrack:
   - "FabFilter Pro-Q 4"
 ---

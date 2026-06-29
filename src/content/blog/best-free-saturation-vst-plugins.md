@@ -8,7 +8,7 @@ heroImage: "/images/best-free-saturation-vst-plugins_og.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: 10 Best Free Saturation & Distortion VST Plugins in 2026"
-draft: false
+draft: true
 ---
 **TL;DR:** Klanghelm SDRR is the most versatile free saturator in 2026 — four distinct modes, donationware pricing, and a feature set that embarrasses plugins costing $50 or more. For tape character specifically, Chow Tape Model and Tape Cassette 2 cover two different points on the spectrum with equal depth.
 

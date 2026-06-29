@@ -9,7 +9,7 @@ evergreen: true
 score: 8.00
 originalPrice: "$99"
 xText: "New guide: 10 Best Free Drum Machine & Beat VST Plugins in 2026"
-draft: false
+draft: true
 ---
 **TL;DR:** MT Power Drum Kit 2 is the most consistently recommended free acoustic drum VST in producer communities — it handles rock, metal, and jazz without sounding artificial. If you build beats from one-shots, Sitala is the fastest free pad sampler available. Steven Slate Drums 5 Free is the only plugin on this list built on a commercial studio engine, at zero cost.
 

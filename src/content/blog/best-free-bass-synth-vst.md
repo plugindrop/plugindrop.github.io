@@ -8,7 +8,7 @@ heroImage: "/images/best-free-bass-synth-vst.png"
 evergreen: true
 score: 8.00
 xText: "New guide: 10 Best Free Bass Synth VST Plugins in 2026"
-draft: false
+draft: true
 ---
 **TL;DR:** Surge XT is the single best free bass synth VST in 2026 — open-source, cross-platform, and consistently ranked as the most capable free synthesizer in producer communities by a decisive margin. For 303/acid bass lines specifically, TAL-BassLine-101 is the undisputed specialist choice. Between these two and the eight other picks in this guide, every bass synthesis style is covered without spending a dollar.
 

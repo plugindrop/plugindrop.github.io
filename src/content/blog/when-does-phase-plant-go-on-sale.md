@@ -13,6 +13,7 @@ relatedPosts:
   - "phase-plant-review"
   - "phase-plant-vs-serum"
   - "best-synth-vst-plugins-2026"
+heroImage: '/images/when-does-phase-plant-go-on-sale.jpg'
 ---
 
 **Short answer:** Phase Plant goes on sale **2-3 times per year**. The typical discount is **50–54% off**, bringing the $199 regular price down to around **$99**. The best times to buy:

@@ -8,7 +8,7 @@ heroImage: "/images/best-free-piano-vst.png"
 evergreen: true
 score: 8.00
 xText: "New guide: 10 Best Free Piano VST Plugins in 2026 (Grand, Upright, Elec..."
-draft: false
+draft: true
 ---
 
 |--------|-------|------|------------|-----|

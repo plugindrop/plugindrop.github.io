@@ -12,6 +12,7 @@ relatedPosts:
   - "fabfilter-pro-c-2-review"
   - "best-compressor-plugins-2026"
   - "mastering-chain-plugins"
+heroImage: '/images/when-does-fabfilter-pro-c-2-go-on-sale.jpg'
 ---
 
 **Short answer:** FabFilter Pro-C 2 goes on sale **3-4 times per year**. The typical discount is **25–30% off**, bringing the $179 regular price down to around **$134**. The best times to buy:

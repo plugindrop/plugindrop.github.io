@@ -7,7 +7,7 @@ affiliate: ""
 evergreen: true
 score: 8.00
 heroImage: "/images/best-plugins-for-film-scoring.jpg"
-draft: false
+draft: true
 ---
 **TL;DR:** Film scoring requires tools across two distinct categories — realistic orchestral sample libraries for traditional scoring, and sound design instruments for the hybrid cinematic textures that define current scoring trends. Spitfire BBC Symphony Orchestra and EastWest Hollywood Orchestra cover the orchestral foundation; Omnisphere, Native Instruments Komplete, and Valhalla's reverbs cover texture and space; iZotope RX handles the post-production reality of working with dialogue and real recordings.
 

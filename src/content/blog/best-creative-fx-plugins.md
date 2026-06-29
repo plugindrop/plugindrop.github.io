@@ -8,7 +8,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: 12 Best Creative & Experimental Effect VST Plugins in 2026"
 heroImage: "/images/best-creative-fx-plugins.jpg"
-draft: false
+draft: true
 ---
 **TL;DR:** **Soundtoys 5** remains the community-consensus creative effects bundle for producers who want a permanent, genre-spanning toolkit — and it's the top pick in this category. If your budget points to a single standalone tool, **iZotope Stutter Edit 2** covers performative rhythmic destruction that no free plugin replicates. This guide covers 12 real picks — free to premium — organized by what you actually need to accomplish.
 

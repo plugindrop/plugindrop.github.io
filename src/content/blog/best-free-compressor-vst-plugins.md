@@ -9,7 +9,7 @@ heroImage: "/images/best-free-compressor-vst-plugins.jpg"
 score: 8.00
 originalPrice: "$29.99"
 xText: "New guide: 12 Best Free Compressor VST Plugins in 2026 (Every Style Cov..."
-draft: false
+draft: true
 priceTrack:
   - "FabFilter Pro-C 2"
 ---

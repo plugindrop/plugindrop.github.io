@@ -8,7 +8,7 @@ heroImage: "/images/best-plugins-garageband.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: 12 Best Plugins for GarageBand in 2026 (Free AU & Third-Part..."
-draft: false
+draft: true
 priceTrack:
   - "FabFilter Pro-Q 4"
   - "Serum 2"

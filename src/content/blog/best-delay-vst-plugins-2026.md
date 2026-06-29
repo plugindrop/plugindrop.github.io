@@ -8,7 +8,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: 12 Best Delay VST Plugins in 2026 (Tape, Digital, Modulated)"
 heroImage: "/images/best-delay-vst-plugins-2026.jpg"
-draft: false
+draft: true
 priceTrack:
   - "Kilohearts Phase Plant"
   - "Valhalla Room"

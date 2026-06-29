@@ -13,6 +13,7 @@ relatedPosts:
   - "fabfilter-pro-l-2-review"
   - "best-limiter-plugins-mastering"
   - "mastering-chain-plugins"
+heroImage: '/images/when-does-fabfilter-pro-l-2-go-on-sale.jpg'
 ---
 
 **Short answer:** FabFilter Pro-L 2 goes on sale **3-4 times per year**. The typical discount is **25–64% off**, bringing the $179 regular price down to around **$134**. The best times to buy:

@@ -12,6 +12,7 @@ tags:
 relatedPosts:
   - "when-does-phase-plant-go-on-sale"
   - "best-eq-plugins-2026"
+heroImage: '/images/when-does-smooth-operator-pro-go-on-sale.jpg'
 ---
 
 **Short answer:** Baby Audio Smooth Operator Pro goes on sale **2-3 times per year**. The typical discount is **46–54% off**, bringing the $129 regular price down to around **$69**. The best times to buy:

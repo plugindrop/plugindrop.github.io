@@ -10,7 +10,7 @@ dealPrice: "$8.39"
 originalPrice: "$13.99"
 discount: "40% OFF"
 xText: "Serum (Xfer Records)  off — does it beat Vital at this price?"
-draft: false
+draft: true
 ---
 # Serum (Xfer Records) vs Vital: Which Wavetable Synth to Buy at $8.39?
 
