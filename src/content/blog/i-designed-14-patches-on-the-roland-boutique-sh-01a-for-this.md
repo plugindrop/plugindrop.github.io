@@ -1,6 +1,6 @@
 ---
-title: "I designed 14 patches on the Roland Boutique SH-01A for this synthwave track (cover of \"Burnout\" by AERwave). Free patches and project notes in the post body"
-description: "A producer has shared 14 free Roland Boutique SH-01A patches built for a synthwave cover of "Burnout" by AERwave, with full project notes included. No"
+title: 'I designed 14 patches on the Roland Boutique SH-01A for this synthwave track (cover of "Burnout" by AERwave). Free patches and project notes in the post body'
+description: 'A producer has shared 14 free Roland Boutique SH-01A patches built for a synthwave cover of "Burnout" by AERwave, with full project notes included. No'
 pubDate: "2026-04-30T21:27:23Z"
 tags: ["free", "synth", "music-production"]
 affiliate: "https://medium.ultimateoutsider.com/the-single-synth-project-roland-boutique-sh-01a-0c8022124c67"

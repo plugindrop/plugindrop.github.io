@@ -1,6 +1,6 @@
 ---
 title: "free sfx april 6untt"
-description: "Boom Library is giving away a free cinematic sound effects pack this month — no cost, no coupon needed. The "Cinematic Expressions Designed" pack targets"
+description: 'Boom Library is giving away a free cinematic sound effects pack this month — no cost, no coupon needed. The "Cinematic Expressions Designed" pack targets'
 pubDate: "2026-04-28T15:49:31Z"
 tags: ["free", "vst-plugin", "music-production"]
 affiliate: "https://www.boomlibrary.com/free-sfx-april-6untt/"
