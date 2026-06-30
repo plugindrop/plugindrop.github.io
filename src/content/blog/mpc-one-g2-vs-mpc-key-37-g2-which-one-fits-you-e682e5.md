@@ -16,6 +16,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/ZJWe9nQJkK8" title="AKAI Professional MPC Key 37 Standalone Production Keyboard | Demo and Overview with Andy Mac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## MPC One G2 vs. MPC Key 37 G2: What Are These Machines?
 
 Akai's G2 lineup gives beat makers two updated standalone production workstations built around the same core engine. Both run the latest MPC3 software, meaning you get a full-featured DAW-like environment without ever opening a laptop. The key split between the two comes down to form factor: one is compact and controller-agnostic, the other packs a 37-key keyboard directly into the unit.

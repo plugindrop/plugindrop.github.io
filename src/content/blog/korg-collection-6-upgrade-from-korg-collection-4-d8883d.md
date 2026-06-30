@@ -16,6 +16,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/-fPucWPCoMM" title="KORG Collection 6 is HERE!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is KORG Collection 6 Upgrade from Collection 4?
 
 KORG Collection is a suite of software instruments recreating decades of iconic KORG hardware — synthesizers and keyboards that shaped the sound of modern music production. This specific SKU is an upgrade license for existing Collection 4 owners, unlocking the instruments and content added in versions 5 and 6 without repurchasing what you already own. KORG is a long-established Japanese instrument manufacturer, and their software collection brings that hardware legacy into modern DAW environments. This is not a full license — you must already own Collection 4 for this upgrade to apply.
