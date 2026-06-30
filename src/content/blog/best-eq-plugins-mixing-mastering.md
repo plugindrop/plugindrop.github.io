@@ -9,7 +9,7 @@ score: 8.00
 originalPrice: "$249"
 xText: "New guide: 10 Best EQ Plugins for Mixing & Mastering in 2026"
 heroImage: "/images/best-eq-plugins-mixing-mastering.jpg"
-draft: false
+draft: true
 priceTrack:
   - "FabFilter Pro-Q 4"
 ---

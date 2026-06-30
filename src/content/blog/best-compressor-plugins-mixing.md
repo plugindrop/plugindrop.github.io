@@ -9,7 +9,7 @@ score: 8.00
 originalPrice: "$29.99"
 xText: "New guide: 10 Best Compressor Plugins for Mixing in 2026"
 heroImage: "/images/best-compressor-plugins-mixing.jpg"
-draft: false
+draft: true
 priceTrack:
   - "FabFilter Pro-C 2"
 ---

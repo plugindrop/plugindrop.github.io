@@ -8,7 +8,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: 15 Best Synthesizer VST Plugins in 2026 (Every Budget Covere..."
 heroImage: "/images/best-synth-vst-plugins-2026.jpg"
-draft: false
+draft: true
 ---
 **TL;DR:** Vital is the best free synthesizer VST in 2026 — it's a genuine professional instrument, not a stripped-down demo. When you're ready to spend, Serum remains the most supported wavetable synth on the market, and Phase Plant offers unmatched flexibility at $99.
 

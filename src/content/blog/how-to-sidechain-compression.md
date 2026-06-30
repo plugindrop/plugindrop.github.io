@@ -7,7 +7,7 @@ affiliate: ""
 evergreen: true
 score: 8.00
 heroImage: "/images/how-to-sidechain-compression.jpg"
-draft: false
+draft: true
 ---
 
 **TL;DR:** Sidechain compression lets a kick drum (or any trigger signal) duck another element — typically a bass or pad — in perfect sync with the groove. The free Klanghelm DC8C handles the concept cleanly for producers learning the technique; FabFilter Pro-C 2 is the community's standard recommendation when you need precise control, frequency-selective key filtering, and transparent pumping or invisible ducking in a professional mix.

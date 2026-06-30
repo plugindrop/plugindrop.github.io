@@ -10,7 +10,7 @@ evergreen: true
 score: 8.00
 originalPrice: "$150"
 xText: "New guide: Best Bass Guitar VST Plugins 2026: Scarbee, MODO Bass and Mo..."
-draft: false
+draft: true
 ---
 **TL;DR:** For producers who need one bass VST that covers multiple instrument models and playing styles across genres, MODO Bass 2 is the strongest single recommendation in 2026 — physical modeling has matured to the point where its versatility wins over fixed sample libraries for most production contexts. For nail-it-every-time vintage Fender Precision Bass tone, Scarbee Pre-Bass remains the community's consistent first recommendation. For a single license that covers electric, upright, and synth bass at a professional level, Trilian has no peer.
 

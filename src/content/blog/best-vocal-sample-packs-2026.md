@@ -10,7 +10,7 @@ evergreen: true
 score: 8.00
 originalPrice: "$14.95"
 xText: "New guide: Best Vocal Sample Packs 2026: Chops, Hooks and Harmonies"
-draft: false
+draft: true
 ---
 **TL;DR:** Loopmasters is the most consistently recommended paid destination for vocal sample packs in 2026 — deeper catalog than most subscription services, clear royalty-free licensing, and content drawn from active label pipelines. For chops, filter by genre and always buy dry. For hooks, refuse to buy without key and BPM metadata included.
 

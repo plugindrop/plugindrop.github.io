@@ -8,7 +8,7 @@ affiliate: ""
 evergreen: true
 score: 8.00
 xText: "New guide: 10 Best Compressor Plugins for Drums in 2026 (Punch, Glue, T..."
-draft: false
+draft: true
 priceTrack:
   - "FabFilter Pro-C 2"
 ---

@@ -10,7 +10,7 @@ evergreen: true
 score: 8.00
 originalPrice: "$29"
 xText: "New guide: Best Drum Sample Packs 2026: Acoustic, Electronic and Hybrid..."
-draft: false
+draft: true
 ---
 **TL;DR:** For bedroom producers in 2026, Loopmasters is the most consistently recommended single catalog for professionally recorded drum sample packs across acoustic, electronic, and hybrid categories. For acoustic realism, Drumdrops' multi-velocity studio kits set the benchmark; for vintage drum machine authenticity, Samples From Mars is the community consensus pick.
 

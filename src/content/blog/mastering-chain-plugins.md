@@ -8,7 +8,7 @@ evergreen: true
 heroImage: "/images/mastering-chain-plugins.jpg"
 score: 8.00
 xText: "New guide: The Complete Mastering Plugin Chain: 6 Plugins for a Pro Mas..."
-draft: false
+draft: true
 priceTrack:
   - "FabFilter Pro-Q 4"
   - "FabFilter Pro-C 2"

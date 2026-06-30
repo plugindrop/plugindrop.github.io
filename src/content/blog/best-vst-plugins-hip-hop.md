@@ -9,7 +9,7 @@ score: 8.00
 originalPrice: "$179"
 xText: "New guide: 15 Best VST Plugins for Hip-Hop Production in 2026"
 heroImage: "/images/best-vst-plugins-hip-hop.jpg"
-draft: false
+draft: true
 ---
 **TL;DR:** For hip-hop production in 2026, **Serum by Xfer Records** is the community consensus pick for 808 design and synthesis — its modulation depth and the sheer volume of third-party 808 preset packs built around it make it the most productive starting point for producers serious about sound design. Pair it with **Native Instruments Battery 4** for sample-based drum programming and **iZotope Vinyl** for instant lofi texture, and you have the core of a professional hip-hop toolkit.
 

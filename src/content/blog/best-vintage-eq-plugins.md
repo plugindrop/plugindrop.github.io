@@ -8,7 +8,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: 10 Best Vintage EQ Emulation Plugins in 2026 (Neve, API, SSL..."
 heroImage: "/images/best-vintage-eq-plugins.jpg"
-draft: false
+draft: true
 priceTrack:
   - "FabFilter Pro-Q 4"
 ---

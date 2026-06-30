@@ -8,7 +8,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: 10 Best Strings & Orchestral VST Plugins in 2026"
 heroImage: "/images/best-strings-vst-plugins.jpg"
-draft: false
+draft: true
 ---
 **TL;DR:** Spitfire BBC Symphony Orchestra Core is the most consistently recommended premium strings library across composer forums in 2026 — professional-grade recordings, a complete articulation set, and a workflow that suits both film composers and beatmakers. If budget is a barrier, BBCSO Discover delivers the same recording quality for free with reduced articulation depth. This guide covers all ten options, from zero-cost foundations to Hollywood-grade orchestral tools.
 

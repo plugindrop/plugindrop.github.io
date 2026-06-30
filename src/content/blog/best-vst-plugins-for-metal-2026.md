@@ -8,7 +8,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: Best VST Plugins for Metal Production 2026 (Amp Sims, Drums,..."
 heroImage: "/images/best-vst-plugins-for-metal-2026.jpg"
-draft: false
+draft: true
 priceTrack:
   - "FabFilter Pro-C 2"
 ---
