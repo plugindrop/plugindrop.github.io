@@ -12,7 +12,7 @@ originalPrice: "$237"
 discount: "60% OFF"
 saleExpiry: "2026-06-30"
 xText: "tapes of india dropped 60% off. this thing sits in a mix like butter—tape warmth that doesn't massacre your headroom. absolute sleeper at this price"
-draft: false
+draft: true
 ---
 **TL;DR:** Tapes of India for Sonic Atlas is down to **$69** (~~$237~~) — that's over 60% off through June 30th. If Indian-inspired, tape-recorded sounds are on your production wish list, this is a meaningful discount worth acting on before the window closes. [Grab the deal at Pitch Innovations](https://pitchinnovations.com/products/sonic-atlas).
 

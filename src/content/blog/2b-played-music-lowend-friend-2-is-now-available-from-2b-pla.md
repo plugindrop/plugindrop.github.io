@@ -11,7 +11,7 @@ originalPrice: "$69"
 discount: "58% OFF"
 saleExpiry: "2026-06-30"
 xText: "lowend friend 2 at $29 (was $69). lowest i've seen it. analog bass that sits in a mix like butter, doesn't destroy your cpu. intro pricing ends soon though."
-draft: false
+draft: true
 ---
 **TL;DR:** LowEnd Friend 2 from 2B Played Music launches at **$29** during its intro sale — more than half off the regular ~~$69~~ price. V1 owners can upgrade for just $19. [Grab it at the intro price here](https://2bplayed.com/product/lowend-friend-2/) before the window closes.
 

@@ -12,7 +12,7 @@ originalPrice: "$9"
 discount: "98% OFF"
 saleExpiry: "2026-06-30"
 xText: "$626 worth of vsts for $9.99 is absolutely unhinged. like you're not even debating whether you need them you're just wondering if your ssd can handle it"
-draft: false
+draft: true
 ---
 **TL;DR:** The June Mega Bundle from Audio Plugin Deals packs a combined retail value of $626 into a single $9.99 purchase — that's 98% off. This deal runs through June 30th, so producers on a budget have a narrow window to act. [Grab it here before it expires.](https://audioplugin.deals/june-mega-bundle/ref/21/)
 

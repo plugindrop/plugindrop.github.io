@@ -9,7 +9,7 @@ score: 6.91
 discount: "60% OFF"
 saleExpiry: "2026-06-30"
 xText: "60% off antares bundles. the kind of discount you don't see often on autotune suites. if you've been thinking about going all in, this is the window."
-draft: false
+draft: true
 ---
 **TL;DR:** Antares is running a Summer Sale with up to 60% off their full lineup — plugins, bundles, upgrades, and subscriptions, including Auto-Tune Pro and Vocal Studio packages. The sale runs through June 30th. Verify current pricing and grab your deal at [antarestech.com](https://www.antarestech.com/auto-tune-special-offers).
 

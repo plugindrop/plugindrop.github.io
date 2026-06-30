@@ -11,7 +11,7 @@ originalPrice: "$109"
 discount: "40% OFF"
 saleExpiry: "2026-06-30"
 xText: "neurontube rectify $69 intro (normally $115). clarity that doesn't sound sterile. lowest price i've seen it. if you've been waiting for a dip, window's probably open."
-draft: false
+draft: true
 ---
 **TL;DR:** Audiosingularity's Neurontube Rectify is currently available at an intro price of $69 — that's 40% off the regular ~~$109~~ price tag. The deal runs through June 30th, so there's a firm deadline here. [Grab it directly from Audiosingularity.](https://audiosingularity.com/product/neurontube-rectify/)
 

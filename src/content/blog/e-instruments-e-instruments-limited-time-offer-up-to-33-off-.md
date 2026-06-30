@@ -11,7 +11,7 @@ originalPrice: "$149"
 discount: "33% OFF"
 saleExpiry: "2026-06-30"
 xText: "kontakt bundles at 33% off rn is wild. you're building your complete sample collection for what one library normally costs. this pricing is rare"
-draft: false
+draft: true
 ---
 **TL;DR:** E-instruments is running a limited-time sale with up to 33% off selected Kontakt Player libraries and bundles — dropping select titles from ~~$149~~ to $99 through June 30th. If you've been sitting on the fence about expanding your sample library collection, this is a concrete window to act. [Browse the sale at e-instruments.com.](https://e-instruments.com/instruments/)
 

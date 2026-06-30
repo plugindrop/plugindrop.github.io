@@ -12,7 +12,7 @@ originalPrice: "$139"
 discount: "90% OFF"
 saleExpiry: "2026-06-28"
 xText: "antelope's mastering converters just dropped 90% off. these never get discounted. if you've been on the fence, the barrier just disappeared."
-draft: false
+draft: true
 ---
 **TL;DR:** Antelope Audio is running a sitewide native plugin sale with discounts up to 90% — select plugins dropping to **$39.99** from ~~$139~~. The sale runs through **June 28th**, so there's a clear deadline. Browse the full catalog at [en.antelopeaudio.com/software-store](https://en.antelopeaudio.com/software-store/).
 

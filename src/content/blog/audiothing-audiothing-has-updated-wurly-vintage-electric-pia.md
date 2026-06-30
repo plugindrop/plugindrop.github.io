@@ -10,7 +10,7 @@ dealPrice: "$39"
 discount: "43% OFF"
 saleExpiry: "2026-06-30"
 xText: "wurly's that vintage piano that hits different in a mix. intro's 43% off and this is legitimately the lowest price i've tracked it at"
-draft: false
+draft: true
 ---
 **TL;DR:** AudioThing's Wurly vintage electric piano plugin is **43% off at $39** through June 30th — a clean deadline to grab a cross-platform Wurlitzer-style instrument for Mac, Windows, and Linux. [Grab Wurly at AudioThing →](https://www.audiothing.net/instruments/wurly/)
 
