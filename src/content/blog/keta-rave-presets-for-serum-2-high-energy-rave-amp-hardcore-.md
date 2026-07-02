@@ -16,6 +16,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/PRwOVViFHes" title="Infinix Note 40 Charging Test.   #infinixnote40 #shorts #infinix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Keta – Rave Presets for Serum 2?
 
 Keta is a preset pack for Serum 2 developed by Ghosthack Audio, a brand known for producing genre-focused sound design tools for electronic music producers. The pack targets the rave, hardcore, and high-energy dance music space — stocking Serum 2 with ready-to-use presets built around the harder end of the electronic spectrum. It's designed to load directly into Serum 2 (Xfer Records' updated wavetable synthesizer), so no additional routing or third-party tools are required. Producers working in genres like hardcore, hardstyle, rave techno, or industrial should find this directly applicable to their workflow.

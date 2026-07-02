@@ -13,7 +13,7 @@ draft: true
 **TL;DR:** Klanghelm SDRR is the most versatile free saturator in 2026 — four distinct modes, donationware pricing, and a feature set that embarrasses plugins costing $50 or more. For tape character specifically, Chow Tape Model and Tape Cassette 2 cover two different points on the spectrum with equal depth.
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/2rOEkCJZFBQ" title="10 Best Free Saturation & Distortion VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/7KHvQx521n8" title="10 Best Free Saturation & Distortion VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Quick Picks at a Glance
@@ -60,7 +60,7 @@ Softube's Saturation Knob is a single-page interface built around one large knob
 
 ### IVGI — Analog Warmth That Does Not Bite
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/0brhfg86mWQ" title="IVGI — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/7KHvQx521n8" title="IVGI — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Vladislav Goncharov (vladgsound)
 - **Price:** Free
@@ -77,7 +77,7 @@ From the developer behind the Molot compressor — a compressor with its own str
 
 ### Klanghelm SDRR — The Most Feature-Rich Free Saturator Available
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/j1nNbQAXhYI" title="Klanghelm SDRR — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/7KHvQx521n8" title="Klanghelm SDRR — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Klanghelm
 - **Price:** Free (donationware)
@@ -94,7 +94,7 @@ SDRR ships with four distinct saturation modes — Triode (smooth tube), Pentode
 
 ### bx_saturator V2 — Mid/Side Saturation for Free
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bVGynpn6iwA" title="bx_saturator V2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/7KHvQx521n8" title="bx_saturator V2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Brainworx / Plugin Alliance
 - **Price:** Free (via Plugin Alliance free plugin tier)
@@ -115,7 +115,7 @@ Tape simulation is a specific subset of saturation — it adds the compression b
 
 ### Tape Cassette 2 — Lo-Fi Character on Demand
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/YXR114od8dY" title="Tape Cassette 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/7KHvQx521n8" title="Tape Cassette 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Caelum Audio
 - **Price:** Free
@@ -132,7 +132,7 @@ Tape Cassette 2 simulates cassette tape degradation rather than reel-to-reel mac
 
 ### Chow Tape Model — Physical Modeling of a SONY TC-260
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/dBu_h-CAfhI" title="Chow Tape Model — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/7KHvQx521n8" title="Chow Tape Model — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Chowdhury DSP (Jatin Chowdhury)
 - **Price:** Free (open source)
@@ -149,7 +149,7 @@ Chow Tape Model is a physical model of the SONY TC-260 reel-to-reel tape machine
 
 ### Ferric TDS — Tape Dynamics in a Mixing Context
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/US1Vl3qK0Ug" title="Ferric TDS — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/7KHvQx521n8" title="Ferric TDS — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Variety Of Sound (Bootsy)
 - **Price:** Free
@@ -170,7 +170,7 @@ These three move past warmth into more aggressive and specialized territory — 
 
 ### Cyanide 2 — Straight-Up Digital Distortion
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/UXeEEjNGvL0" title="Cyanide 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/7KHvQx521n8" title="Cyanide 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Digital Brain Instruments
 - **Price:** Free
@@ -202,7 +202,7 @@ Caramel is part of MeldaProduction's MFreeFXBundle — a collection of 37 free p
 
 ### Airwindows Density — Weight and Focus Without Overt Coloring
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6L6JN4N6UPM" title="Airwindows Density — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/7KHvQx521n8" title="Airwindows Density — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Chris Johnson (Airwindows)
 - **Price:** Free (open source, Patreon-supported)
@@ -221,7 +221,7 @@ Chris Johnson releases all Airwindows plugins free as part of an ongoing Patreon
 
 ### FabFilter Saturn 2 — The Professional Standard for Multiband Saturation
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LYwY8VTR1eE" title="FabFilter Saturn 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/7KHvQx521n8" title="FabFilter Saturn 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $179
@@ -233,7 +233,7 @@ Chris Johnson releases all Airwindows plugins free as part of an ongoing Patreon
 
 ### Soundtoys Decapitator — Five Analog Circuit Models in One Plugin
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_3Q3U-v0pzA" title="Soundtoys Decapitator — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/7KHvQx521n8" title="Soundtoys Decapitator — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Soundtoys
 - **Price:** $199

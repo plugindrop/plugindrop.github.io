@@ -21,6 +21,11 @@ draft: false
 </div>
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/juPhTuJsqTQ" title="Weave Velvet Into Your Sound Design" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Evolve Velvet?
 
 Evolve Velvet is a virtual instrument from Heavyocity, the developer behind the long-running Evolve series of cinematic hybrid sound libraries. The "Velvet" edition is designed to deliver warm, textured, and emotionally rich sounds — think intimate strings, layered pads, and evolving atmospheres aimed at film composers, trailer music producers, and anyone working in cinematic or ambient genres. It runs as a plugin within your DAW and draws on Heavyocity's reputation for deeply playable, production-ready instruments.
