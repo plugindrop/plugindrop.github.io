@@ -15,6 +15,11 @@ draft: false
 
 ---
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/S013XcjaWxY" title="Rave Generator 3, Abx3 and Mininn Drum Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## Who Is Audio Blast and What Are Their Creative Effect Plugins?
 
 Audio Blast is a boutique electronic music team focused on building plugins designed to elevate live performance. Their core philosophy centers on expressive controls — the kind of real-time, hands-on manipulation that differentiates a live set from simply pressing play. Their plugin catalog sits squarely in the creative effects category: delays, modulators, and processors built for movement and character rather than surgical precision.
