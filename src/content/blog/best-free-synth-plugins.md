@@ -5,7 +5,7 @@ pubDate: "2026-03-19T09:00:00Z"
 tags: ["guide", "vst", "free", "instruments", "synth"]
 affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins"
 dealPrice: "FREE"
-draft: true
+draft: false
 heroImage: "/images/best-free-synth-plugins.jpg"
 evergreen: true
 score: 8.00

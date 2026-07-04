@@ -8,7 +8,7 @@ heroImage: "/images/best-free-choir-vst-plugins.png"
 evergreen: true
 score: 8.00
 xText: "New guide: 8 Best Free Choir & Vocal Ensemble VST Plugins in 2026"
-draft: true
+draft: false
 ---
 **TL;DR:** Spitfire LABS Choir is the most consistently recommended free choir VST across bedroom producer communities — its professional ensemble recording has no meaningful free rival for raw realism. Pair it with BBC Symphony Orchestra Discover when you need choir inside a full orchestral context. The remaining six picks on this list cover every workflow from SFZ-based templates to synthetic vocal generation, all at zero cost.
 
