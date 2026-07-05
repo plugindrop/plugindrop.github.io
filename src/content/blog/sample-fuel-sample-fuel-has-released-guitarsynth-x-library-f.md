@@ -9,7 +9,7 @@ score: 6.62
 discount: "25% OFF"
 saleExpiry: "2026-06-10"
 xText: "sample fuel loyalty discounts don't happen often. guitarsynth-x is 25% off for existing users and the pricing finally justifies it. gui synths hitting different lately"
-draft: true
+draft: false
 ---
 **TL;DR:** Sample Fuel has launched **GuitarSynth-X**, a new guitar-synthesizer hybrid library built for HALion — and if you already own any full paid product from Sample Fuel, you're eligible for a **25% loyalty discount** through June 10th. Verify current pricing and grab it at [samplefuel.com](https://www.samplefuel.com/product/guitarsynth-x).
 

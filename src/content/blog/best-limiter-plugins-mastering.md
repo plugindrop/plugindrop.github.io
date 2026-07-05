@@ -8,7 +8,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: 10 Best Limiter Plugins for Mastering in 2026 (From Free to ..."
 heroImage: "/images/best-limiter-plugins-mastering.jpg"
-draft: true
+draft: false
 priceTrack:
   - "FabFilter Pro-L 2"
 ---

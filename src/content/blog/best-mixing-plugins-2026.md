@@ -10,7 +10,7 @@ evergreen: true
 score: 8.00
 originalPrice: "$99"
 xText: "New guide: Best Mixing Plugins 2026: Free & Paid for Every Stage of the..."
-draft: true
+draft: false
 priceTrack:
   - "FabFilter Pro-Q 4"
   - "FabFilter Pro-C 2"

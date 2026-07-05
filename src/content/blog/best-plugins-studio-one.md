@@ -9,7 +9,7 @@ score: 8.00
 originalPrice: "$149"
 xText: "New guide: 12 Best Third-Party Plugins for Studio One Users in 2026"
 heroImage: "/images/best-plugins-studio-one.jpg"
-draft: true
+draft: false
 priceTrack:
   - "FabFilter Pro-Q 4"
   - "Valhalla VintageVerb"
