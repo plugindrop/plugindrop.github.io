@@ -11,7 +11,7 @@ import { SITE_TITLE } from '../consts';
 
 type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?: string; slug?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, score, allTimeLow, evergreen, onSaleNow, priceTrack = [], readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, score, allTimeLow, evergreen, onSaleNow, bundleValue, noindex, priceTrack = [], readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
 const imageStr = typeof heroImage === 'string' ? heroImage : undefined;
 
 // Check if sale has expired
@@ -327,6 +327,7 @@ const featuredDeals = isEvergreen ? allPosts
 <html lang="en">
 	<head>
 		<BaseHead title={title.length > 50 ? title : `${title} | ${SITE_TITLE}`} description={description} image={imageStr} ogType="article" articleSection={tags[0] ?? 'Music Production'} />
+		{noindex && <meta name="robots" content="noindex, follow" />}
 		<script type="application/ld+json" set:html={JSON.stringify(articleLD)} />
 		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbLD)} />
 		{faqLD && <script type="application/ld+json" set:html={JSON.stringify(faqLD)} />}
@@ -864,8 +865,11 @@ const featuredDeals = isEvergreen ? allPosts
 									)}
 									{(dealPrice || _displayDiscount) && (
 										<div class="deal-price-row">
-											{originalPrice && <span class="deal-price-original">{originalPrice}</span>}
-											{dealPrice && <span class={`deal-price-current${_isFreePrice ? ' is-free' : ''}`}>{_isFreePrice ? 'FREE' : dealPrice}</span>}
+											{(bundleValue || originalPrice) && !_isFreePrice && (
+												<span class="deal-value-label">Over <span class="deal-price-original">{bundleValue ?? originalPrice}</span> value</span>
+											)}
+											{!bundleValue && originalPrice && _isFreePrice && <span class="deal-price-original">{originalPrice}</span>}
+											{dealPrice && <span class={`deal-price-current${_isFreePrice ? ' is-free' : ''}`}>{_isFreePrice ? 'FREE' : `→ ${dealPrice}`}</span>}
 											{_displayDiscount && (
 												<span class={`deal-save-badge${_isFreePrice ? ' is-free' : ''}`}>{_displayDiscount}</span>
 											)}

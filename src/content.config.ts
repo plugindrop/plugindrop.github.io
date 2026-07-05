@@ -23,6 +23,8 @@ const blog = defineCollection({
 			evergreen: z.boolean().optional(),
 			allTimeLow: z.boolean().optional(),
 			onSaleNow: z.boolean().optional(),
+			bundleValue: z.string().optional(),
+			noindex: z.boolean().optional(),
 			priceTrack: z.array(z.string()).default([]),
 		}),
 });
