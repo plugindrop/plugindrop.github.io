@@ -64,7 +64,7 @@ The open-source development model means updates ship faster than most commercial
 
 ### Vital — The closest free alternative to Xfer Serum
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6zY00_cMprM" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Matt Tytel
 - **Price:** Free (25 presets included; paid tiers add more)
@@ -85,7 +85,7 @@ Matt Tytel also developed Helm (listed separately below), but Vital's wavetable 
 
 ### TAL-BassLine-101 — The essential free 303 emulator
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/JES2T3kaQTc" title="TAL-BassLine-101 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6zY00_cMprM" title="TAL-BassLine-101 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** TAL Software (Togu Audio Line)
 - **Price:** Free
@@ -104,7 +104,7 @@ If your production touches acid house, techno, or any genre rooted in sequenced 
 
 ### Helm — Reliable mono synth bass with a sub-oscillator
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/pJ8oXe9Tnfs" title="Helm — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CdbO20AXA-Q" title="Helm — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Matt Tytel (open source)
 - **Price:** Free
@@ -121,7 +121,7 @@ Helm is a virtual-analog synthesizer with two oscillators, a dedicated sub-oscil
 
 ### OB-Xd — Warm Oberheim-style analog bass
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/jLwauTGsvYc" title="OB-Xd — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6zY00_cMprM" title="OB-Xd — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** DiscoDSP
 - **Price:** Free
@@ -140,7 +140,7 @@ OB-Xd is a faithful emulation of the Oberheim OB-X architecture, characterized b
 
 ### Dexed — The definitive free FM bass synthesizer
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wSs1-020nNY" title="Dexed — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6zY00_cMprM" title="Dexed — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Digital Suburban (asb2m10, open source)
 - **Price:** Free
@@ -174,7 +174,7 @@ Odin 2 is a semi-modular synthesizer with three oscillator slots supporting mult
 
 ### ZebraLette 3 — Spectral bass textures from u-he
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/AS4Vgc8XEnk" title="ZebraLette 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6zY00_cMprM" title="ZebraLette 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** Free
@@ -191,7 +191,7 @@ ZebraLette 3 is u-he's free single-oscillator spectral synthesizer — a deliber
 
 ### Podolski — The fastest clean sub bass tool in the list
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/eyq2X9zyulI" title="Podolski — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6zY00_cMprM" title="Podolski — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** Free
@@ -208,7 +208,7 @@ Podolski is a single-oscillator monosynth from u-he with a built-in arpeggiator 
 
 ### Triple Cheese — Comb-filter bass textures for industrial and experimental work
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/MaiTfdvrOLg" title="Triple Cheese — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6zY00_cMprM" title="Triple Cheese — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** Free
@@ -227,7 +227,7 @@ Triple Cheese uses three comb filters as its primary sound source instead of con
 
 ### Scaler 2 — Elevate your bass line composition
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6nlzkAtrz00" title="Scaler 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6zY00_cMprM" title="Scaler 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Plugin Boutique / ScalerAudio
 - **Price:** ~$49
@@ -239,7 +239,7 @@ Triple Cheese uses three comb filters as its primary sound source instead of con
 
 ### u-he Tyrell N6 — Deeper analog bass from a trusted developer
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/VFwnacLajoI" title="u-he Tyrell N6 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CdbO20AXA-Q" title="u-he Tyrell N6 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** u-he
 - **Price:** Paid — check Plugin Boutique for current pricing

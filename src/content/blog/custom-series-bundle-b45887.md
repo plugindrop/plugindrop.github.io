@@ -3,12 +3,12 @@ title: "Custom Series Bundle"
 description: "The Slate Digital Custom Series Bundle is available at PluginFox — grab a suite of professional mixing tools in one package for less than buying them"
 pubDate: "2026-04-21T00:31:30Z"
 tags: ["sale", "bundle", "music-production"]
-affiliate: "https://pluginfox.com/products/slate-digital-custom-series?utm_source=affiliate-bot&utm_medium=article&utm_campaign=custom-series-bundle-b45887"
+affiliate: "https://pluginfox.com/products/slate-digital-custom-series?utm_source=affiliate-bot&aff=580&utm_medium=article&utm_campaign=custom-series-bundle-b45887"
 heroImage: "/images/custom-series-bundle-b45887.png"
 score: 4.30
 draft: true
 ---
-**TL;DR:** The Slate Digital Custom Series Bundle is available at PluginFox — grab a suite of professional mixing tools in one package for less than buying them separately. Check the product page for current pricing. [Grab the bundle at PluginFox →](https://pluginfox.com/products/slate-digital-custom-series?utm_source=affiliate-bot&utm_medium=article&utm_campaign=custom-series-bundle-b45887)
+**TL;DR:** The Slate Digital Custom Series Bundle is available at PluginFox — grab a suite of professional mixing tools in one package for less than buying them separately. Check the product page for current pricing. [Grab the bundle at PluginFox →](https://pluginfox.com/products/slate-digital-custom-series?utm_source=affiliate-bot&aff=580&utm_medium=article&utm_campaign=custom-series-bundle-b45887)
 
 ---
 
@@ -56,7 +56,7 @@ Slate Digital has a long-standing reputation in mixing communities. On forums li
 
 Bundle math is where this kind of deal earns its value — purchasing individual plugins separately almost always costs more than a curated bundle. If the Custom Series includes multiple titles, the per-plugin cost typically drops significantly. **Verify current pricing on the product page — deals can change.**
 
-[See current bundle pricing at PluginFox →](https://pluginfox.com/products/slate-digital-custom-series?utm_source=affiliate-bot&utm_medium=article&utm_campaign=custom-series-bundle-b45887)
+[See current bundle pricing at PluginFox →](https://pluginfox.com/products/slate-digital-custom-series?utm_source=affiliate-bot&aff=580&utm_medium=article&utm_campaign=custom-series-bundle-b45887)
 
 ---
 
@@ -92,7 +92,7 @@ A: Refund and return policies vary by retailer. Check PluginFox's terms directly
 
 Bundles like this are the most efficient way to build out a pro mixing toolkit — more plugins, less spend per tool. Don't sleep on it if Slate Digital's workflow fits your setup.
 
-[Grab the Slate Digital Custom Series Bundle at PluginFox →](https://pluginfox.com/products/slate-digital-custom-series?utm_source=affiliate-bot&utm_medium=article&utm_campaign=custom-series-bundle-b45887)
+[Grab the Slate Digital Custom Series Bundle at PluginFox →](https://pluginfox.com/products/slate-digital-custom-series?utm_source=affiliate-bot&aff=580&utm_medium=article&utm_campaign=custom-series-bundle-b45887)
 
 ---
 

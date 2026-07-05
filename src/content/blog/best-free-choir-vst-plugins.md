@@ -3,12 +3,12 @@ title: "8 Best Free Choir & Vocal Ensemble VST Plugins in 2026 — Ranked"
 description: "Spitfire LABS Choir is the most consistently recommended free choir VST across bedroom producer communities — its professional ensemble recording has no"
 pubDate: "2026-05-03T15:12:56Z"
 tags: ["guide", "vst", "free", "instruments"]
-affiliate: ""
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14542-Bloom-Vocal-Choir?a_aid=69cb95abe1763"
 heroImage: "/images/best-free-choir-vst-plugins.png"
 evergreen: true
 score: 8.00
 xText: "New guide: 8 Best Free Choir & Vocal Ensemble VST Plugins in 2026"
-draft: true
+draft: false
 priceTrack: ["Bloom Vocal Choir"]
 ---
 **TL;DR:** Spitfire LABS Choir is the most consistently recommended free choir VST across bedroom producer communities — its professional ensemble recording has no meaningful free rival for raw realism. Pair it with BBC Symphony Orchestra Discover when you need choir inside a full orchestral context. The remaining six picks on this list cover every workflow from SFZ-based templates to synthetic vocal generation, all at zero cost.
@@ -216,8 +216,6 @@ The constraint is platform lock-in: Soundpaint instruments require the Soundpain
 ---
 
 ### Bloom Vocal Choir — Instant Cinematic Choir on a Budget
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ" title="Bloom Vocal Choir — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Audio Ollie
 - **Price:** See Plugin Boutique for current pricing and sales
