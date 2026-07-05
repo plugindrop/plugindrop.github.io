@@ -190,7 +190,7 @@ On mid-range 2024 hardware, Pigments 5 runs efficiently with multiple instances 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Arturia Pigments 5 | ~$199 | Multi-engine synth | 5 engines, visual modulation, full FX rack | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
+| Arturia Pigments 5 | ~$199 | Multi-engine synth | 5 engines, visual modulation, full FX rack | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/66-Synth/7120-Pigments?a_aid=69cb95abe1763) |
 | Phase Plant | ~$199 | Modular synth | True modular routing, Snapin FX ecosystem | [kilohearts.com](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) |
 | Arturia V Collection 11 | ~$599 | Vintage instrument bundle | 30+ vintage emulations, full Arturia ecosystem | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
 
