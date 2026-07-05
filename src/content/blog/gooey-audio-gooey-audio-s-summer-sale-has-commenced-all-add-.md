@@ -11,7 +11,7 @@ originalPrice: "$29.99"
 discount: "83% OFF"
 saleExpiry: "2026-07-05"
 xText: "gooey audio add-ons at $4.99 each rn. normally $20+ so this is the cheapest they've ever been. at this price you might as well grab whatever you're curious about"
-draft: false
+draft: true
 ---
 **TL;DR:** Gooey Audio's summer sale drops all Add-On Plug-ins to just $4.99 — down from ~~$29.99~~ — an 83% saving that lasts only until July 5th. If you've been curious about Gooey Audio's lineup, this is the lowest price point to try them risk-free. [Grab the deal at Gooey Audio's store.](https://www.gooeyaudio.com/plugins/addon)
 
