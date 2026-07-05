@@ -23,10 +23,10 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| iZotope Neutron 4 Standard | From $149 | AI-guided mixing for producers who self-mix | [Official Site](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-neutron-4-review) |
-| iZotope Neutron 4 Advanced | From $249 | Pro engineers needing Sculptor + full inter-plugin suite | [Official Site](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-neutron-4-review) |
-| FabFilter Pro-Q 4 | $179 | Surgical EQ precision, Dynamic EQ, spectrum grab | [Official Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-neutron-4-review) |
-| iZotope Music Production Suite | Bundle pricing | Full iZotope ecosystem (Ozone, RX, Neutron, Nectar) | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron%204&a_aid=69cb95abe1763) |
+| iZotope Neutron 4 Standard | From $149 | AI-guided mixing for producers who self-mix | [Official Site](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
+| iZotope Neutron 4 Advanced | From $249 | Pro engineers needing Sculptor + full inter-plugin suite | [Official Site](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
+| FabFilter Pro-Q 4 | $179 | Surgical EQ precision, Dynamic EQ, spectrum grab | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
+| iZotope Music Production Suite | Bundle pricing | Full iZotope ecosystem (Ozone, RX, Neutron, Nectar) | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
 
 ---
 
@@ -50,7 +50,7 @@ In practice, the suggestions are genuinely useful about 70% of the time. On drum
 
 **Best for:** Producers who spend too long on initial gain staging and EQ before getting to the creative work.
 
-[→ Get iZotope Neutron 4 on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-neutron-4-review)
+[→ Get iZotope Neutron 4 on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763)
 
 ---
 
@@ -126,7 +126,7 @@ Third, **the price structure creates awkward decisions**. Neutron 4 Standard is 
 - **Formats:** VST, VST3, AU, AAX
 - **Why upgrade:** Neutron 4's EQ is excellent but Pro-Q 4's spectrum grab interface, zero-latency linear phase mode, and inter-plugin collision detection are unmatched for surgical work. If you mix in a genre where EQ precision is the primary skill — acoustic music, jazz, classical — Pro-Q 4 is the better specialized tool.
 
-[→ Get FabFilter Pro-Q 4 on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-neutron-4-review)
+[→ Get FabFilter Pro-Q 4 on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
 
 ---
 
@@ -148,9 +148,9 @@ Third, **the price structure creates awkward decisions**. Neutron 4 Standard is 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Neutron 4 Standard | From $149 | AI Channel Strip | Track Assistant, Unmask, Dynamic EQ, Compressor | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-neutron-4-review) |
-| Neutron 4 Advanced | From $249 | AI Channel Strip | All Standard features + Sculptor spectral shaping | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-neutron-4-review) |
-| FabFilter Pro-Q 4 | $179 | Precision EQ | Dynamic EQ, spectrum grab, zero-latency linear phase | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-neutron-4-review) |
+| Neutron 4 Standard | From $149 | AI Channel Strip | Track Assistant, Unmask, Dynamic EQ, Compressor | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
+| Neutron 4 Advanced | From $249 | AI Channel Strip | All Standard features + Sculptor spectral shaping | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
+| FabFilter Pro-Q 4 | $179 | Precision EQ | Dynamic EQ, spectrum grab, zero-latency linear phase | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
 | iZotope Music Production Suite | Bundle | Full Production Suite | Neutron + Ozone + RX + Nectar + Relay | [Get It](https://www.pluginboutique.com/search?search_query=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763) |
 
 ---
@@ -196,7 +196,7 @@ A: The upgrade pricing is generally reasonable, and the improvements in Track As
 
 iZotope Neutron 4 is the best AI-assisted channel strip available in 2026 for producers who mix their own work — the Track Assistant and Unmask features genuinely save time in ways that compound across full session workflows, and the quality of the underlying modules is competitive with anything else at the price. If you're a songwriter, beatmaker, or home studio engineer who spends more time fighting your mix than making music, this is the most practical investment in your production chain.
 
-[→ Get iZotope Neutron 4 on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-neutron-4-review)
+[→ Get iZotope Neutron 4 on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763)
 
 ---
 

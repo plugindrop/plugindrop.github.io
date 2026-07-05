@@ -8,7 +8,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: 12 Best Vintage Synth VST Emulations in 2026 (Moog, Roland, ..."
 heroImage: "/images/best-vintage-synth-vst-plugins.jpg"
-draft: false
+draft: true
 ---
 **TL;DR:** u-he Diva is the community's undisputed benchmark for circuit-accurate analog emulation in 2026 — but OB-Xd (free) and the Arturia V Collection give you genre-ready vintage tones at a fraction of the cost and CPU overhead. This guide covers 12 vetted vintage synth VSTs across Moog, Roland, Oberheim, Sequential, ARP, and Yamaha lineages.
 
@@ -226,7 +226,7 @@ The ARP 2600 is a semi-modular synthesizer from the early 1970s known for its bu
 
 **Best for:** Film scoring, industrial, and experimental producers who need raw, patchable vintage tones.
 
-[→ Get Arturia ARP 2600 V3 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins)
+[→ Get Arturia ARP 2600 V3 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763)
 
 ---
 
@@ -243,7 +243,7 @@ The Yamaha CS-80 was used by Vangelis on the Blade Runner soundtrack — one of 
 
 **Best for:** Film and TV composers seeking cinematic polysynth pads with unmistakable character.
 
-[→ Get Arturia CS-80 V (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins)
+[→ Get Arturia CS-80 V (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763)
 
 ---
 
@@ -266,7 +266,7 @@ The Yamaha CS-80 was used by Vangelis on the Blade Runner soundtrack — one of 
 - **Price:** $599 (frequently discounted; individual instruments sold at ~$99 each)
 - **Why upgrade:** V Collection 11 contains Mini V3, Prophet-5 V, Jup-8 V, ARP 2600 V3, CS-80 V, and over 25 additional instruments. If you're buying more than two Arturia emulations individually, the bundle math favors the collection at any discount price below $400.
 
-[→ Get Arturia V Collection 11 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins)
+[→ Get Arturia V Collection 11 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763)
 
 ---
 
@@ -274,15 +274,15 @@ The Yamaha CS-80 was used by Vangelis on the Blade Runner soundtrack — one of 
 
 | Plugin | Price | Vintage Source | Key Technical Differentiator | CTA |
 |--------|-------|----------------|-------------------------------|-----|
-| u-he Diva | $179 | Multi-vintage | Near-sample-accurate circuit simulation | [Official Site](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins) |
-| Arturia Mini V3 | $99 | Minimoog Model D | TAE transistor-level engine | [Official Site](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins) |
-| Arturia Prophet-5 V | $99 | Sequential Prophet-5 | Curtis filter model, Sequential collaboration | [Official Site](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins) |
-| Arturia Jup-8 V | $99 | Roland Jupiter-8 | TAE, wide polyphonic filter sweep | [Official Site](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins) |
-| Arturia ARP 2600 V3 | $99 | ARP 2600 | Semi-modular routing, spring reverb | [Official Site](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins) |
-| Arturia CS-80 V | $99 | Yamaha CS-80 | Dual filter, ribbon controller model | [Official Site](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins) |
-| Synapse Audio The Legend | ~$99 | Minimoog | Zero-delay-feedback filter | [Official Site](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins) |
-| TAL-U-NO-LX | ~$60 | Roland Juno-60 | BBD chorus circuit emulation | [Official Site](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins) |
-| Cherry Audio Memorymode | ~$39 | Moog Model D | Best price-to-accuracy ratio | [Official Site](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins) |
+| u-he Diva | $179 | Multi-vintage | Near-sample-accurate circuit simulation | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
+| Arturia Mini V3 | $99 | Minimoog Model D | TAE transistor-level engine | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
+| Arturia Prophet-5 V | $99 | Sequential Prophet-5 | Curtis filter model, Sequential collaboration | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
+| Arturia Jup-8 V | $99 | Roland Jupiter-8 | TAE, wide polyphonic filter sweep | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
+| Arturia ARP 2600 V3 | $99 | ARP 2600 | Semi-modular routing, spring reverb | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
+| Arturia CS-80 V | $99 | Yamaha CS-80 | Dual filter, ribbon controller model | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
+| Synapse Audio The Legend | ~$99 | Minimoog | Zero-delay-feedback filter | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
+| TAL-U-NO-LX | ~$60 | Roland Juno-60 | BBD chorus circuit emulation | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
+| Cherry Audio Memorymode | ~$39 | Moog Model D | Best price-to-accuracy ratio | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
 | OB-Xd | Free | Oberheim OB-Xa | Per-voice detuning, 2/4-pole filter | [DiscoDSP](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins) |
 | Dexed | Free | Yamaha DX7 | Full SysEx compatibility | [Developer Site](https://asb2m10.github.io/dexed/) |
 | Surge XT | Free | Multi-vintage | Ladder, K35, OB filters; CLAP support | [Developer Site](https://surge-synthesizer.github.io/) |
@@ -330,7 +330,7 @@ A: Arturia Mini V3 adds features the original hardware lacked — polyphony, exp
 
 For most producers, the free tier — OB-Xd, Dexed, and Surge XT — covers enough vintage ground to make serious music without spending anything. When you're ready to invest, u-he Diva is the defensible top pick for producers who need circuit-level accuracy, and Arturia V Collection 11 is the most efficient path to a full vintage keyboard library in one purchase.
 
-[→ Get u-he Diva (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins)
+[→ Get u-he Diva (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763)
 
 ---
 

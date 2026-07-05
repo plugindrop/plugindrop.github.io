@@ -4,7 +4,7 @@ description: "iZotope Ozone 12 vs LANDR mastering compared on sound quality, con
 pubDate: "2026-06-08T00:00:00Z"
 updatedDate: "2026-06-08T00:00:00Z"
 tags: ["guide", "vst", "mastering", "alternatives", "review"]
-affiliate: "https://www.pluginboutique.com/search?search_query=iZotope+Ozone+12&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ozone-vs-landr"
+affiliate: "https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763"
 heroImage: "/images/izotope-ozone-vs-landr-2026.jpg"
 evergreen: true
 score: 8.00
@@ -48,7 +48,7 @@ The core modules — EQ, Dynamic EQ, Imager, Maximizer, and Exciter — cover ev
 
 Master Assistant gives you a reasonable starting point quickly, but the results depend on how well you mixed your track. A clean mix with good headroom will translate into a strong master. A problem mix will expose its issues.
 
-**Where to buy:** [iZotope Ozone 12 at Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope+Ozone+12&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ozone-vs-landr) — Plugin Boutique frequently runs iZotope sales of 40–60% off.
+**Where to buy:** [iZotope Ozone 12 at Plugin Boutique](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763) — Plugin Boutique frequently runs iZotope sales of 40–60% off.
 
 ---
 

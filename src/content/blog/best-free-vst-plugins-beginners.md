@@ -8,7 +8,7 @@ evergreen: true
 heroImage: "/images/best-free-vst-plugins-beginners.jpg"
 score: 8.00
 xText: "New guide: 20 Best Free VST Plugins for Beginners in 2026 (Complete Sta..."
-draft: false
+draft: true
 ---
 
 **TL;DR:** Vital is the single best free VST plugin for beginners in 2026 — a professional-grade wavetable synth that costs nothing at the base tier. Pair it with Valhalla Supermassive for reverb and TDR Nova for EQ, and you have a production-ready starter kit without spending a cent.
@@ -399,7 +399,7 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 - **Price:** $189 (or subscription)
 - **Why upgrade:** The free synths on this list are excellent, but Serum offers unmatched wavetable editing depth, a massive third-party preset ecosystem, and the most commonly referenced sound in modern EDM, pop, and trap. When you're serious about synthesis, Serum is the industry standard everyone is talking about.
 
-[→ Get Serum on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Serum%20Xfer%20Records&a_aid=69cb95abe1763)
+[→ Get Serum on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/68-Virtual-Analogue/5765-Serum?a_aid=69cb95abe1763)
 
 ---
 
@@ -411,7 +411,7 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 - **Price:** €899 (frequent sales)
 - **Why upgrade:** FabFilter's Pro-Q 4, Pro-C 2, and Pro-R are used in virtually every major mixing studio worldwide. The Total Bundle covers EQ, compression, reverb, delay, limiting, and saturation at a level of transparency and control that no free plugin on this list can fully match.
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763)
+[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763)
 
 ---
 
@@ -438,8 +438,8 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 | Decent Sampler | Free | Sample Player | Huge free community library ecosystem | [Developer Site](https://www.decentsamples.com/product/decent-sampler-plugin/) |
 | iZotope Vinyl | Free | FX | Vinyl artifacts, lo-fi standard | [Developer Site](https://www.izotope.com/en/products/vinyl.html) |
 | Melda MFreeFXBundle | Free | Bundle | 37 plugins, broad coverage | [Developer Site](https://www.meldaproduction.com/MFreeFXBundle) |
-| Serum | $189 | Synth | Industry standard wavetable | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Serum%20Xfer%20Records&a_aid=69cb95abe1763) |
-| FabFilter Total Bundle | €899 | Suite | Pro mixing suite, top-tier quality | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
+| Serum | $189 | Synth | Industry standard wavetable | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/68-Virtual-Analogue/5765-Serum?a_aid=69cb95abe1763) |
+| FabFilter Total Bundle | €899 | Suite | Pro mixing suite, top-tier quality | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
 
 ---
 
@@ -474,7 +474,7 @@ A: VST3 is the current standard and is recommended for all new installs — it o
 
 For beginners in 2026, the quality of free plugins is genuinely extraordinary — and **Vital** remains the single best starting point in the entire ecosystem. Install it alongside **Valhalla Supermassive** and **TDR Nova**, and you have a production-ready kit that will serve you for years before you feel the ceiling.
 
-When you're ready to invest, the [FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) is the clearest upgrade path — it's what working professionals actually use.
+When you're ready to invest, the [FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763) is the clearest upgrade path — it's what working professionals actually use.
 
 ---
 

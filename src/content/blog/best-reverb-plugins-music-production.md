@@ -21,9 +21,9 @@ priceTrack:
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Valhalla VintageVerb | $50 | Mixing — all genres, all sources | [Get It (Official)](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
-| FabFilter Pro-R 2 | €179 | Precision mixing, decay EQ | [Get It (Official) (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-R&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production) |
+| FabFilter Pro-R 2 | €179 | Precision mixing, decay EQ | [Get It (Official) (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/17-Reverb/3725-FabFilter-Pro-R?a_aid=69cb95abe1763) |
 | Eventide SP2016 | $99 | Vintage hardware character | [Get It (Official)](https://www.eventideaudio.com/plug-ins/sp2016-reverb/) |
-| Arturia Rev PLATE-140 | ~$49 standalone | Plate reverb, vocals, drums | [Get It (Official) (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production) |
+| Arturia Rev PLATE-140 | ~$49 standalone | Plate reverb, vocals, drums | [Get It (Official) (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
 | Valhalla Supermassive | Free | Ambient, pads, massive tails | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production) |
 | TAL-Reverb-4 | Free | Lush algorithmic reverb | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production) |
 | MConvolutionEZ | Free | Convolution reverb, IR loading | [Free Download](https://www.meldaproduction.com/MConvolutionEZ) |
@@ -55,7 +55,7 @@ FabFilter Pro-R 2 is distinguished by a single feature that the Gearspace and r/
 
 **Best for:** Mixing engineers, anyone whose reverb regularly conflicts with bass and low-mids.
 
-[→ Get FabFilter Pro-R 2 (Official) (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-R&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production)
+[→ Get FabFilter Pro-R 2 (Official) (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/17-Reverb/3725-FabFilter-Pro-R?a_aid=69cb95abe1763)
 
 ---
 
@@ -106,7 +106,7 @@ The EMT 140 plate reverb has appeared on studio recordings from Frank Sinatra se
 
 **Best for:** Vocals, drum room, any application where classic plate warmth is the target character.
 
-[→ Get Arturia Rev PLATE-140 (Official) (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production)
+[→ Get Arturia Rev PLATE-140 (Official) (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763)
 
 ---
 
@@ -272,7 +272,7 @@ Convology XT comes from Impulse Record, a company whose primary business is sell
 - **Price:** €179
 - **Why upgrade:** No free algorithmic reverb offers frequency-dependent decay control — the ability to shorten low-end decay while retaining high-end shimmer. Pro-R 2's decay EQ directly addresses low-mid buildup in reverb tails, which is the most common engineering problem free reverbs leave unsolved.
 
-[→ Get FabFilter Pro-R 2 (Official) (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-R&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production)
+[→ Get FabFilter Pro-R 2 (Official) (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/17-Reverb/3725-FabFilter-Pro-R?a_aid=69cb95abe1763)
 
 ---
 
@@ -280,10 +280,10 @@ Convology XT comes from Impulse Record, a company whose primary business is sell
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| FabFilter Pro-R 2 | €179 | Algorithmic | Decay EQ, precision mixing | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-R&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production) |
+| FabFilter Pro-R 2 | €179 | Algorithmic | Decay EQ, precision mixing | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/3725-FabFilter-Pro-R?a_aid=69cb95abe1763) |
 | Eventide SP2016 | $99 | Hardware emulation | Original 1982 algorithms, Stereo Room mode | [Get It](https://www.eventideaudio.com/plug-ins/sp2016-reverb/) |
 | Valhalla VintageVerb | $50 | Algorithmic | 18 vintage modes, best-value paid | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
-| Arturia Rev PLATE-140 | ~$49 | Physical model | EMT 140 plate emulation | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production) |
+| Arturia Rev PLATE-140 | ~$49 | Physical model | EMT 140 plate emulation | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
 | Valhalla Supermassive | Free | Algorithmic | Extreme tails, ambient — free from Valhalla | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production) |
 | TAL-Reverb-4 | Free | Algorithmic | Dense, lush, Linux support | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production) |
 | OldSkoolVerb | Free | Algorithmic | Transparent, low-CPU, Voxengo quality | [Free Download](https://www.voxengo.com/product/oldskoolverb/) |

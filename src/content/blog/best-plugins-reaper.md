@@ -23,7 +23,7 @@ priceTrack:
 | Surge XT | Free | Complex hybrid synthesis, deep modulation | [Free Download](https://surge-synthesizer.github.io/) |
 | TDR Nova | Free | Dynamic EQ, surgical mixing | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-reaper) |
 | Valhalla Supermassive | Free | Ambient reverb, massive spatial effects | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-reaper) |
-| FabFilter Pro-Q 4 | $179 | Professional mixing and mastering EQ | [Official Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-reaper) |
+| FabFilter Pro-Q 4 | $179 | Professional mixing and mastering EQ | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
 | Valhalla VintageVerb | $50 | Vintage-character studio reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 
 ---
@@ -265,7 +265,7 @@ FabFilter Pro-Q 4 is the EQ that r/mixthis, r/audioengineering, and KVR's mixing
 
 **Best for:** Professional mixing, mastering EQ, dynamic EQ, producers investing in a long-term reference EQ
 
-[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-reaper)
+[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
 
 ---
 
@@ -311,7 +311,7 @@ FabFilter Pro-Q 4 is the EQ that r/mixthis, r/audioengineering, and KVR's mixing
 | ReaPlugs | Free (Win) | DSP Suite | Reaper-native engines, ReaEQ unlimited bands | — |
 | Chow Tape Model | Free | Tape Saturation | Physical model, research-based hysteresis | — |
 | Melda MFreeFXBundle | Free | Multi-FX Bundle | 37 plugins across all processing categories | — |
-| FabFilter Pro-Q 4 | $179 | Parametric / Dynamic EQ | Per-band dynamic EQ, collision detection, linear phase | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-reaper) |
+| FabFilter Pro-Q 4 | $179 | Parametric / Dynamic EQ | Per-band dynamic EQ, collision detection, linear phase | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
 | FabFilter Total Bundle | $899 | Full Suite | 14 plugins, cohesive GUI, cross-plugin spectrum display | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | Valhalla VintageVerb | $50 | Algorithmic Reverb | 18 vintage algorithms, tight rooms to large halls | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 
@@ -358,7 +358,7 @@ A: They cover different territory. Supermassive's algorithms are designed for la
 
 The free plugin ecosystem available to Reaper users in 2026 is strong enough that Vital, TDR Nova, and Valhalla Supermassive alone form a defensible professional starting stack — no compromises, no placeholders. When you are ready to invest in a paid tool, FabFilter Pro-Q 4 is the EQ that the professional community returns to consistently as the reference standard, and at $179 it is the single upgrade most likely to change how you hear your mixes.
 
-[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-reaper)
+[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
 
 ---
 

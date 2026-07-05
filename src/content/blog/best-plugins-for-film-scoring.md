@@ -21,7 +21,7 @@ draft: true
 | Omnisphere 2 | $499 | Cinematic textures and sound design | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Omnisphere+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-film-scoring) |
 | Valhalla VintageVerb | $50 | Room and hall reverb for orchestral staging | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla+VintageVerb&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-film-scoring) |
 | Valhalla Room | $50 | Tight room reverb for hybrid scoring | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla+Room&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-film-scoring) |
-| FabFilter Pro-Q 4 | $179 | Spectral clarity for dense orchestral mixes | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter+Pro-Q+4&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-film-scoring) |
+| FabFilter Pro-Q 4 | $179 | Spectral clarity for dense orchestral mixes | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
 | iZotope RX | $399+ | Audio repair and dialogue cleanup | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope+RX&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-film-scoring) |
 
 ---
@@ -130,7 +130,7 @@ This guide covers the eight most important plugins for film scoring in 2026 — 
 
 **Best for:** Film composers managing complex orchestral templates who need dynamic EQ for frequency competition control and linear phase processing for final mix quality.
 
-[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter+Pro-Q+4&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-film-scoring)
+[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
 
 ---
 

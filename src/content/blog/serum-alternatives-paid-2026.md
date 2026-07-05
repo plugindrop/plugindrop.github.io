@@ -14,16 +14,14 @@ priceTrack:
 ---
 **TL;DR:** Phase Plant is the top pick for producers who've outgrown Serum's fixed architecture — its modular signal path and Kilohearts Snapin ecosystem represent a genuine capability upgrade. Pigments wins for versatility, covering wavetable, granular, and analog in a single dual-engine instrument. Serum 2 remains the ecosystem benchmark, but in 2026 it's only the obvious choice if preset interoperability is non-negotiable.
 
-> **Looking for FREE Serum alternatives?** See our [Best Free Serum Alternatives 2026](/posts/free-alternative-to-serum-vst/) guide for Vital, Phase Plant, and more.
-
 ---
 
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Phase Plant | $149 | Modular routing, deep sound design | [Official Site](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026) |
-| Pigments | $199 | Multi-engine versatility, visual modulation | [Official Site](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026) |
+| Phase Plant | $149 | Modular routing, deep sound design | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) |
+| Pigments | $199 | Multi-engine versatility, visual modulation | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
 | Spire | $119 | EDM, trance, fast genre production | [Official Site](https://www.reveal-sound.com/store/product/Spire_Synthesizer_License) |
 | Serum 2 | $189 | Industry-standard preset ecosystem | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026) |
 
@@ -58,7 +56,7 @@ The Kilohearts ecosystem argument is worth taking seriously. If you already use 
 
 **Best for:** Sound designers and producers who've hit the ceiling of Serum's fixed architecture and want modular routing without moving to a hardware-style modular environment.
 
-[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026)
+[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763)
 
 ---
 
@@ -79,7 +77,7 @@ The preset library shipped with Pigments earns consistently positive reviews acr
 
 **Best for:** Producers who want a single synth covering wavetable, granular, and analog in one purchase, or who find Serum's mod routing opaque.
 
-[→ Get Pigments (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026)
+[→ Get Pigments (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763)
 
 ---
 
@@ -116,7 +114,7 @@ At $119, Spire is the lowest-priced option in this comparison and the strongest 
 - **Price:** $149
 - **Why upgrade:** Producers who start with preset-focused synths and eventually need synthesis architectures that fixed-chain instruments cannot build — hybrid oscillator stacks, inline modular effects, multi-path signal routing — will find Phase Plant unlocks categories of sound that Serum and Pigments cannot replicate. The Snapin ecosystem extends the investment beyond the synth itself.
 
-[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026)
+[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763)
 
 ---
 
@@ -128,7 +126,7 @@ At $119, Spire is the lowest-priced option in this comparison and the strongest 
 - **Price:** $199
 - **Why upgrade:** Serum's single-engine architecture means patches that require layered textures from different synthesis types need multiple plugin instances. Pigments handles in one patch what would otherwise require two or three Serum instances running simultaneously — a real argument on CPU-constrained systems, and a cleaner workflow regardless of hardware.
 
-[→ Get Pigments (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026)
+[→ Get Pigments (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763)
 
 ---
 
@@ -160,8 +158,8 @@ At $119, Spire is the lowest-priced option in this comparison and the strongest 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Phase Plant | $149 | Modular (wavetable, analog, sample, phase distortion) | Fully modular signal path, Snapin ecosystem, blank-canvas architecture | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026) |
-| Pigments | $199 | Multi-engine (wavetable, VA, granular, harmonic, sample) | Dual-engine patches, visual mod routing, broad genre coverage | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026) |
+| Phase Plant | $149 | Modular (wavetable, analog, sample, phase distortion) | Fully modular signal path, Snapin ecosystem, blank-canvas architecture | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) |
+| Pigments | $199 | Multi-engine (wavetable, VA, granular, harmonic, sample) | Dual-engine patches, visual mod routing, broad genre coverage | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
 | Spire | $119 | Wavetable + FM + spectral | Dense EDM sound character, fast genre workflow, four multi-mode oscillators | [Get It](https://www.reveal-sound.com/store/product/Spire_Synthesizer_License) |
 | Serum 2 | $189 | Wavetable | Industry-standard preset ecosystem, Splice integration, largest tutorial library | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026) |
 
@@ -209,7 +207,7 @@ A: Community consensus splits by genre: Spire's factory presets are most immedia
 
 Phase Plant is the strongest paid Serum alternative for producers who've hit the ceiling of fixed-architecture synthesis — its modular routing is a genuine capability upgrade, not a lateral substitution. Pigments is the better call when multi-engine versatility matters more than architectural freedom. Serum 2 holds the ecosystem advantage, but in 2026 that advantage only translates into a purchase recommendation if preset interoperability is an active workflow requirement rather than a theoretical comfort.
 
-[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026) | [→ Get Pigments (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026) | [→ Get Spire](https://www.reveal-sound.com/store/product/Spire_Synthesizer_License)
+[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) | [→ Get Pigments (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) | [→ Get Spire](https://www.reveal-sound.com/store/product/Spire_Synthesizer_License)
 
 ---
 

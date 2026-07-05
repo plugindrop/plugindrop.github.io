@@ -317,7 +317,7 @@ Komplete Start is NI's free tier of the Komplete bundle, including Kontakt Playe
 - **Price:** $179
 - **Why upgrade:** TDR Nova delivers strong dynamic EQ free of charge, but it lacks Pro-Q 4's per-node real-time spectrum display, zero-latency linear phase mode, and full mid/side control per band. Those features are workflow-critical distinctions for mastering and detailed mix-level EQ work — not cosmetic additions.
 
-[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-150-dollars-2026)
+[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
 
 ---
 
@@ -341,7 +341,7 @@ Komplete Start is NI's free tier of the Komplete bundle, including Kontakt Playe
 - **Price:** ~$399 (bundle; individual plugins available separately)
 - **Why upgrade:** Individual free and budget delay and saturation tools cover standard use cases well. Soundtoys 5 includes EchoBoy, Decapitator, PhaseMistress, and additional tools in a bundle where their internal Effect Rack enables routing combinations that simply do not exist in comparable budget options. Community consensus on Gearspace and r/audioengineering is that the bundle pricing — particularly during sales — makes it the strongest per-dollar investment in creative effects for producers who have outgrown standard utility tools.
 
-[→ Get Soundtoys 5 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-150-dollars-2026)
+[→ Get Soundtoys 5 (via Plugin Boutique)](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/766-Soundtoys-5?a_aid=69cb95abe1763)
 
 ---
 
@@ -353,7 +353,7 @@ Komplete Start is NI's free tier of the Komplete bundle, including Kontakt Playe
 - **Price:** ~$99 (frequently on sale)
 - **Why upgrade:** Vital covers wavetable synthesis comprehensively at the free tier. Pigments adds wavetable, virtual analog, sample, and granular synthesis engines in one instrument. Arturia's developer documentation confirms Pigments supports up to five simultaneous modulation paths per target — a depth that positions it as the documented next step for producers who have reached the ceiling on Vital's sound design complexity.
 
-[→ Get Arturia Pigments (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-150-dollars-2026)
+[→ Get Arturia Pigments (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763)
 
 ---
 

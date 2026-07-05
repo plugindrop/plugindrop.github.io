@@ -169,7 +169,7 @@ Free plugins will carry you a long way, but there's a point where a paid tool sa
 |---|---|---|
 | [Serum 2](https://www.pluginboutique.com/search?search_query=Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026) | ~$189 | The industry-standard wavetable synth — deeper factory content and workflow than Vital's free tier |
 | [FabFilter Pro-Q 4](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026) | ~$179 | Surgical + dynamic EQ with the cleanest interface in the business — a true upgrade from TDR Nova |
-| [iZotope Ozone](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026) | ~$249 | Assistant-driven mastering chain when Youlean metering shows you're ready to master properly |
+| [iZotope Ozone](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763) | ~$249 | Assistant-driven mastering chain when Youlean metering shows you're ready to master properly |
 
 ## Quick Comparison
 

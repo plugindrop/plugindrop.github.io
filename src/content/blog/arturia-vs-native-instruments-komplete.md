@@ -58,7 +58,7 @@ V Collection 11 contains 40+ instruments, almost all emulations of iconic vintag
 
 **Best for:** Producers whose sound palette leans on classic keyboards, vintage synths, and authentic organ/electric piano textures.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20V%20Collection%2011&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763)
 
 ---
 
@@ -131,7 +131,7 @@ Both bundles go on deep sale. V Collection 11 at $199 represents arguably more f
 - **Price:** ~$499 (watch for sales at $199–$299)
 - **Why upgrade:** The individual synths (Prophet-5 V, CS-80 V, Jup-8 V) are available separately but cost $99–$149 each. If you use more than 3–4 vintage instruments regularly, the full bundle pays for itself immediately.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20V%20Collection%2011&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763)
 
 ---
 
@@ -192,7 +192,7 @@ A: V Collection is generally preferred for live keyboard work — the instrument
 
 For vintage synthesis and classic keyboard sounds, Arturia V Collection 11 is the more decisive purchase — it's focused, deep, and on sale frequently enough that the price objection rarely holds. For producers who need sampling infrastructure, acoustic instruments, guitar processing, and a broader toolkit, Native Instruments Komplete Standard earns its place. The strongest setup for most working producers is V Collection for keys and a Komplete tier for everything else — bought opportunistically during each brand's regular promotions.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20V%20Collection%2011&a_aid=69cb95abe1763) | [→ Get NI Komplete on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20NI%20Komplete&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) | [→ Get NI Komplete on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20NI%20Komplete&a_aid=69cb95abe1763)
 
 ---
 

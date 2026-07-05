@@ -28,7 +28,7 @@ priceTrack:
 | Surge XT | Free | Deep hybrid synthesis | [Free Download](https://surge-synthesizer.github.io/) |
 | TAL-NoiseMaker | Free | Analog-style synth | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
 | Serum 2 | Paid | Pro wavetable synth | [Get Serum 2 (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
-| FabFilter Pro-Q 4 | ~$199 | Professional EQ | [Get Pro-Q 4 (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
+| FabFilter Pro-Q 4 | ~$199 | Professional EQ | [Get Pro-Q 4 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
 
 ---
 
@@ -200,7 +200,7 @@ These three plugins represent the community's clearest benchmarks for their cate
 - **Price:** ~$199
 - **Why upgrade:** TDR Nova is genuinely strong for a free plugin, but FabFilter Pro-Q 4 is the EQ that professional mixing engineers reach for in critical sessions. It adds dynamic EQ across unlimited bands, mid/side processing per band, per-band external sidechain capability, and a real-time spectrum analyzer widely considered the clearest in the industry. The "spectrum grab" feature — clicking directly on the spectrum analyzer to create an EQ node at that frequency — meaningfully accelerates surgical mixing decisions. For GarageBand users who are serious about their mix quality and plan to remain on macOS, Pro-Q 4 is the EQ you won't grow past.
 
-[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband)
+[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
 
 ---
 
@@ -216,7 +216,7 @@ These three plugins represent the community's clearest benchmarks for their cate
 | Rough Rider 3 | Free | Compressor | Colored, punchy character, excellent on drums | [Download](https://www.audiodamage.com/pages/free-and-legacy) |
 | Serum 2 | Paid | Wavetable Synth | Industry standard, largest preset ecosystem, Steve Duda | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
 | Valhalla VintageVerb | ~$50 | Algorithmic Reverb | Vintage hardware emulation, mix-transparent, top community pick | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
-| FabFilter Pro-Q 4 | ~$199 | Parametric / Dynamic EQ | Unlimited bands, mid/side, spectrum grab, industry reference | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
+| FabFilter Pro-Q 4 | ~$199 | Parametric / Dynamic EQ | Unlimited bands, mid/side, spectrum grab, industry reference | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
 
 ---
 

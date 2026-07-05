@@ -8,7 +8,7 @@ heroImage: "/images/best-free-wavetable-synth-vst.png"
 evergreen: true
 score: 8.00
 xText: "New guide: 8 Best Free Wavetable Synth VST Plugins in 2026"
-draft: false
+draft: true
 ---
 **TL;DR:** Vital is the best free wavetable synth VST available in 2026 — its full synthesis engine is completely free and rivals Serum in depth. Pair it with Surge XT for patches that need hybrid oscillator complexity, and you have a complete free wavetable toolkit before spending a cent.
 
@@ -22,8 +22,8 @@ draft: false
 | Zebralette | Free | Spectral morphing, u-he-quality timbres at no cost | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
 | Helm | Free | Learning wavetable synthesis fundamentals | [Free via Plugin Boutique](https://tytel.org/helm/) |
 | Serum | ~$189 | Industry-standard wavetable, professional ecosystem | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
-| Phase Plant | ~$99 | Modular wavetable design, Snapins integration | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
-| u-he Hive 2 | ~$99 | u-he quality in a fast, production-ready instrument | [Get u-he Hive 2 (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=u-he%20Hive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
+| Phase Plant | ~$99 | Modular wavetable design, Snapins integration | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) |
+| u-he Hive 2 | ~$99 | u-he quality in a fast, production-ready instrument | [Get u-he Hive 2 (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763) |
 
 ## Introduction
 
@@ -158,7 +158,7 @@ Development has slowed significantly since Vital launched. The preset library is
 - **Price:** ~$99
 - **Why upgrade:** Vital and Surge XT are fixed-architecture instruments. Phase Plant lets you build synthesis chains from components — wavetable oscillators, sample playback, FM operators, noise generators — combined with Kilohearts' "Snapin" effects system in a single patch. Reddit's r/synthesizers community frequently identifies Phase Plant as the logical step for producers who have internalized conventional wavetable concepts and want to remove architecture constraints from their sound design process.
 
-[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst)
+[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763)
 
 ---
 
@@ -170,7 +170,7 @@ Development has slowed significantly since Vital launched. The preset library is
 - **Price:** ~$99
 - **Why upgrade:** Zebralette delivers one oscillator from the u-he ecosystem. Hive 2 provides a complete two-oscillator wavetable/virtual-analog hybrid instrument designed explicitly for fast patch creation in live and studio contexts. Producers who rely on Zebralette and want the full u-he character in a production-ready instrument — without the depth investment required by Zebra2 — consistently identify Hive 2 as the right paid entry point into u-he's catalog.
 
-[→ Get u-he Hive 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=u-he%20Hive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst)
+[→ Get u-he Hive 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763)
 
 ---
 
@@ -184,8 +184,8 @@ Development has slowed significantly since Vital launched. The preset library is
 | Zebralette | Free | Spectral wavetable | u-he spectral oscillator tech, organic tonal character | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
 | Helm | Free | Wavetable | Simple 2-oscillator architecture, ideal for learning | [Get via Plugin Boutique](https://tytel.org/helm/) |
 | Serum | ~$189 | Wavetable | Industry standard, massive third-party preset/wavetable library | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
-| Phase Plant | ~$99 | Modular wavetable | Component-based architecture, Snapins integration | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
-| u-he Hive 2 | ~$99 | Wavetable/analog hybrid | u-he quality, designed for fast studio workflow | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=u-he%20Hive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst) |
+| Phase Plant | ~$99 | Modular wavetable | Component-based architecture, Snapins integration | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) |
+| u-he Hive 2 | ~$99 | Wavetable/analog hybrid | u-he quality, designed for fast studio workflow | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763) |
 
 ---
 

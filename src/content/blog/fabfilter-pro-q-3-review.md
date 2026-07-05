@@ -21,8 +21,8 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-Q 3 | ~$179 | All-around mixing & mastering EQ | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763) |
-| FabFilter Total Bundle | ~$879 | Full FabFilter studio toolkit | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
+| FabFilter Pro-Q 3 | ~$179 | All-around mixing & mastering EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
+| FabFilter Total Bundle | ~$879 | Full FabFilter studio toolkit | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
 | TDR Nova | Free / €49 | Budget-friendly dynamic EQ | — |
 | DMG Audio EQuality | ~$99 | Analog-voiced precision EQ | — |
 | iZotope Neutron | ~$249 | AI-assisted EQ with session integration | — |
@@ -56,7 +56,7 @@ The dynamic EQ functionality is native, not bolted on. Each band can be switched
 
 **Best for:** Mixing engineers, mastering engineers, and producers who want one EQ plugin that handles everything from precise surgical correction to creative tonal shaping.
 
-[→ Get FabFilter Pro-Q 3 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-Q 3 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
 
 ---
 
@@ -159,7 +159,7 @@ Neutron's EQ module includes AI-generated band suggestions, session-level maskin
 
 **Best for:** Producers who want AI assistance baked into their EQ and are invested in iZotope's ecosystem.
 
-[→ Get iZotope Neutron on Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763)
+[→ Get iZotope Neutron on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763)
 
 ---
 
@@ -173,7 +173,7 @@ Neutron's EQ module includes AI-generated band suggestions, session-level maskin
 - **Price:** ~$179
 - **Why upgrade:** Stock DAW EQs and basic parametric tools lack dynamic EQ, mid/side processing per band, linear phase mode, and inter-track spectrum collision detection — the features in Pro-Q 3 that handle the most time-consuming mixing problems fastest. The workflow efficiency difference between a stock EQ and Pro-Q 3 is noticeable within the first session.
 
-[→ Get FabFilter Pro-Q 3 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-Q 3 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
 
 ### FabFilter Total Bundle — Best Value for Committed FabFilter Users
 
@@ -183,7 +183,7 @@ Neutron's EQ module includes AI-generated band suggestions, session-level maskin
 - **Price:** ~$879
 - **Why upgrade:** The Total Bundle includes every FabFilter plugin — Pro-Q 3, Pro-C 2 (compressor), Pro-L 2 (limiter), Pro-MB (multiband dynamics), Pro-R (reverb), Volcano 3 (filter), and more — at significantly reduced cost versus buying individually. If you plan to add two or more FabFilter tools over the next 12–18 months, the bundle price is the rational choice.
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763)
+[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763)
 
 ---
 
@@ -191,8 +191,8 @@ Neutron's EQ module includes AI-generated band suggestions, session-level maskin
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| FabFilter Pro-Q 3 | ~$179 | Parametric + Dynamic EQ | 24 bands, M/S, dynamic EQ, linear phase, collision detection | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763) |
-| FabFilter Total Bundle | ~$879 | Full plugin suite | Every FabFilter plugin, significant savings vs. individual | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
+| FabFilter Pro-Q 3 | ~$179 | Parametric + Dynamic EQ | 24 bands, M/S, dynamic EQ, linear phase, collision detection | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
+| FabFilter Total Bundle | ~$879 | Full plugin suite | Every FabFilter plugin, significant savings vs. individual | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
 | TDR Nova | Free / €49 | Dynamic EQ | Solid free tier, dynamic EQ, limited M/S depth | — |
 | DMG Audio EQuality | ~$99 | Analog-style parametric EQ | Analog filter character, CPU-efficient | — |
 | iZotope Neutron | ~$249 | AI-assisted EQ | AI band suggestions, session-level masking detection | — |
@@ -232,7 +232,7 @@ FabFilter Pro-Q 3 doesn't win in 2026 by coasting on its reputation — it wins 
 
 Buy it standalone if you're building selectively, or get the Total Bundle if you're committed to FabFilter's ecosystem.
 
-[→ Get FabFilter Pro-Q 3 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-Q 3 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
 
 ---
 

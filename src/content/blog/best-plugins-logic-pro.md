@@ -8,7 +8,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: 15 Best Third-Party Plugins for Logic Pro Users in 2026"
 heroImage: "/images/best-plugins-logic-pro.jpg"
-draft: false
+draft: true
 priceTrack:
   - "FabFilter Pro-Q 4"
   - "FabFilter Pro-C 2"
@@ -22,11 +22,11 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-Q 4 | $179 | Precision EQ with dynamic capability | [Developer Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro) |
+| FabFilter Pro-Q 4 | $179 | Precision EQ with dynamic capability | [Developer Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
 | Valhalla VintageVerb | $50 | Algorithmic reverb at any budget | [Developer Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
-| FabFilter Pro-C 2 | $179 | Transparent and character compression | [Developer Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro) |
+| FabFilter Pro-C 2 | $179 | Transparent and character compression | [Developer Site](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
 | Serum | $189 | Wavetable synthesis with modern workflow | [Developer Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro) |
-| iZotope Neutron 4 | $249+ | AI-assisted mix analysis | [Developer Site](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro) |
+| iZotope Neutron 4 | $249+ | AI-assisted mix analysis | [Developer Site](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
 | Vital | Free | Wavetable synthesis without the price tag | [Free](https://vital.audio/) |
 | TDR Nova | Free | Dynamic EQ on a zero budget | [Official Site](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro) |
 
@@ -55,7 +55,7 @@ FabFilter Pro-Q 4 is the most-recommended parametric EQ in producer communities 
 
 **Best for:** Any mixing or mastering chain where precision and visual feedback are the priority.
 
-[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro)
+[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
 
 ---
 
@@ -91,7 +91,7 @@ FabFilter Pro-C 2's defining feature is its gain reduction display, which visual
 
 **Best for:** Producers learning gain staging who want visual feedback alongside the sound result.
 
-[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro)
+[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763)
 
 ---
 
@@ -235,7 +235,7 @@ Neutron 4's Mix Assistant function listens to your full mix, identifies frequenc
 
 **Best for:** Producers self-mixing their material who want systematic, track-level feedback on the full mix.
 
-[→ Get iZotope Neutron 4 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro)
+[→ Get iZotope Neutron 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763)
 
 ---
 
@@ -271,7 +271,7 @@ Soundtoys Decapitator models five distinct analog saturation topologies — Ampe
 
 **Best for:** Adding analog harmonic character to any source — drums, synths, buses, or full mixes.
 
-[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro)
+[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/766-Soundtoys-5?a_aid=69cb95abe1763)
 
 ---
 
@@ -305,7 +305,7 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 
 **Best for:** Creative, character-driven delay where hardware authenticity matters more than CPU efficiency.
 
-[→ Get Soundtoys EchoBoy (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro)
+[→ Get Soundtoys EchoBoy (via Plugin Boutique)](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/766-Soundtoys-5?a_aid=69cb95abe1763)
 
 ---
 
@@ -339,9 +339,9 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| FabFilter Pro-Q 4 | $179 | EQ | Dynamic EQ, mid/side, 24 bands | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro) |
+| FabFilter Pro-Q 4 | $179 | EQ | Dynamic EQ, mid/side, 24 bands | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
 | TDR Nova | Free | Dynamic EQ | Parallel compression (GE), fully free | [Get It](https://www.izotope.com/en/products/music-production-suite) |
-| FabFilter Pro-C 2 | $179 | Compressor | 8 styles, visual GR display | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro) |
+| FabFilter Pro-C 2 | $179 | Compressor | 8 styles, visual GR display | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
 | Klanghelm MJUC jr. | Free | Compressor | Variable-mu warmth, bus glue | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | OTT | Free | Multiband Comp | Extreme upward/downward compression | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | Valhalla VintageVerb | $50 | Reverb | 17 algorithms, $50 price | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
@@ -349,7 +349,7 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 | Serum | $189 | Wavetable Synth | Custom wavetable editor, massive preset market | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro) |
 | Vital | Free | Wavetable Synth | Spectral warping, 3 oscillators | [Get](https://vital.audio/) |
 | u-he Diva | ~$195 | Analog Synth | Circuit-level filter/oscillator emulation | [Get It](https://www.izotope.com/en/products/music-production-suite) |
-| iZotope Neutron 4 | $249+ | Mix Suite | AI Mix Assistant, EQ + comp + shaper | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Neutron&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro) |
+| iZotope Neutron 4 | $249+ | Mix Suite | AI Mix Assistant, EQ + comp + shaper | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
 | Soothe2 | ~$160 | Resonance Suppressor | Reactive dynamic notch filtering | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | Soundtoys Decapitator | $99 | Saturation | 5 analog topologies, macOS only | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | Slate Digital Fresh Air | Free | Enhancer | Two-band air/presence, free w/ account | [Get It](https://www.izotope.com/en/products/music-production-suite) |
@@ -385,7 +385,7 @@ A: The community is genuinely divided on this. KVR discussions and comparison th
 
 FabFilter Pro-Q 4 remains the upgrade most likely to change how you work in Logic Pro — not because Logic's EQ is broken, but because dynamic EQ with real-time spectrum analysis changes the way you hear your mix. For producers building a complete core stack, pairing Pro-Q 4 with Valhalla VintageVerb and either Serum or Vital covers EQ, reverb, and synthesis for under $420 (or under $230 with Vital's free tier) — the combination that production communities consistently identify as the practical Logic Pro third-party foundation in 2026.
 
-[→ Start with FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro)
+[→ Start with FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
 
 ---
 

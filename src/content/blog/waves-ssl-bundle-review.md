@@ -122,8 +122,8 @@ The mix knob is genuinely useful. Running the compressor at 30–50% wet allows 
 |--------|-------|------|------------|--------|
 | Waves SSL E-Channel | ~$29–49 (sale) | Channel Strip | 4-band parametric EQ, HPF/LPF, compressor, expander-gate, analog character | [Waves.com](https://www.waves.com/plugins/ssl-e-channel) |
 | Waves SSL G-Master Buss Compressor | ~$29–49 (sale) | Bus Compressor | Mix bus glue, parallel mix knob, program-dependent release, SSL 4000G emulation | [Waves.com](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| Waves SSL 4000 Collection | Bundle (sale) | Full Console Bundle | E-Channel + G-Channel + G-EQ, complete SSL workflow | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
-| FabFilter Total Bundle | Premium | Professional Suite | Pro-Q 4, Pro-C 2, Pro-L 2, dynamic EQ, linear phase, surgical precision | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763) |
+| Waves SSL 4000 Collection | Bundle (sale) | Full Console Bundle | E-Channel + G-Channel + G-EQ, complete SSL workflow | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
+| FabFilter Total Bundle | Premium | Professional Suite | Pro-Q 4, Pro-C 2, Pro-L 2, dynamic EQ, linear phase, surgical precision | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
 
 ---
 

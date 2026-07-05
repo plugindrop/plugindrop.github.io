@@ -28,7 +28,7 @@ priceTrack:
 | Surge XT | Free | Deep modulated synthesis, complex pads | [Free Download](https://surge-synthesizer.github.io/) |
 | Vital | Free | Spectral warping, modern cinematic textures | [Free](https://vital.audio/) |
 | Eventide SP2016 | $149 | Vintage hardware reverb character | [Official Site](https://www.eventideaudio.com/plug-ins/sp2016-reverb/) |
-| FabFilter Pro-R 2 | $199 | Surgical reverb control for mixing | [Official Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-R&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-ambient-music-plugins) |
+| FabFilter Pro-R 2 | $199 | Surgical reverb control for mixing | [Official Site](https://www.pluginboutique.com/product/2-Effects/17-Reverb/3725-FabFilter-Pro-R?a_aid=69cb95abe1763) |
 | Output Portal | $99 | Granular processing, otherworldly textures | [Official Site](https://output.com/products/portal) |
 | TAL-Reverb-4 | Free | Warm vintage plate reverb | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-ambient-music-plugins) |
 
@@ -95,7 +95,7 @@ FabFilter's developer documentation for Pro-R 2 confirms its core differentiator
 
 **Best for:** Producers who mix and master their own ambient records; anyone who needs precise control over how reverb tails sit in a mix.
 
-[→ Get FabFilter Pro-R 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-R&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-ambient-music-plugins)
+[→ Get FabFilter Pro-R 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/17-Reverb/3725-FabFilter-Pro-R?a_aid=69cb95abe1763)
 
 ---
 
@@ -277,7 +277,7 @@ These two paid tools address specific limitations in the free options above. Bot
 |--------|-------|------|------------|--------|
 | Valhalla Supermassive | Free | Reverb | Massive algorithms, infinite tails, modulation | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-ambient-music-plugins) |
 | Eventide SP2016 | $149 | Reverb | Authentic hardware emulation, Room/Plate algorithms | [Official Site](https://www.eventideaudio.com/plug-ins/sp2016-reverb/) |
-| FabFilter Pro-R 2 | $199 | Reverb | Decay Rate EQ, per-frequency decay control | [Official Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-R&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-ambient-music-plugins) |
+| FabFilter Pro-R 2 | $199 | Reverb | Decay Rate EQ, per-frequency decay control | [Official Site](https://www.pluginboutique.com/product/2-Effects/17-Reverb/3725-FabFilter-Pro-R?a_aid=69cb95abe1763) |
 | TAL-Reverb-4 | Free | Reverb | Smooth plate, low CPU, multi-send friendly | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-ambient-music-plugins) |
 | Surge XT | Free | Synthesizer | Deep modulation matrix, multiple oscillator types, CLAP | [Download](https://surge-synthesizer.github.io/) |
 | Vital | Free | Synthesizer | Spectral warping wavetable, visual interface | [Get](https://vital.audio/) |

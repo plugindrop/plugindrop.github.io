@@ -24,7 +24,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Arturia Pigments 5 | ~$199 | All-in-one synthesis, any genre | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Pigments%205&a_aid=69cb95abe1763) |
-| Phase Plant | ~$199 | Modular-style deep sound design | [Official Site](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-pigments-review) |
+| Phase Plant | ~$199 | Modular-style deep sound design | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) |
 | Arturia V Collection 11 | ~$599 | Vintage instrument bundle | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Pigments%205&a_aid=69cb95abe1763) |
 
 ---
@@ -170,7 +170,7 @@ On mid-range 2024 hardware, Pigments 5 runs efficiently with multiple instances 
 - **Price:** ~$199 (perpetual) or via Kilohearts subscription
 - **Why upgrade:** Phase Plant operates as a fully modular synthesis environment paired with Kilohearts' Snapin effects ecosystem. Where Pigments is structured and guided, Phase Plant is a blank canvas — more powerful for producers who want to build synthesis architectures from scratch, but with a significantly steeper learning curve. If you've mastered Pigments and want to move into modular-style sound design, Phase Plant is the natural next step.
 
-[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-pigments-review)
+[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763)
 
 ---
 
@@ -182,7 +182,7 @@ On mid-range 2024 hardware, Pigments 5 runs efficiently with multiple instances 
 - **Price:** ~$599 (regularly on sale)
 - **Why upgrade:** V Collection 11 bundles Arturia's complete lineup of vintage instrument models — classic polysynths, electric pianos, organs, and more — in one package. Pigments handles forward-looking modern synthesis exceptionally well; V Collection handles historically accurate vintage emulations. Together, they cover the full spectrum of what Arturia software offers, and for producers who want authentic vintage character alongside Pigments' modern capabilities, V Collection is the most logical companion purchase.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20V%20Collection%2011&a_aid=69cb95abe1763)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763)
 
 ---
 
@@ -190,9 +190,9 @@ On mid-range 2024 hardware, Pigments 5 runs efficiently with multiple instances 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Arturia Pigments 5 | ~$199 | Multi-engine synth | 5 engines, visual modulation, full FX rack | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20V%20Collection%2011&a_aid=69cb95abe1763) |
-| Phase Plant | ~$199 | Modular synth | True modular routing, Snapin FX ecosystem | [kilohearts.com](https://www.pluginboutique.com/search?search_query=Kilohearts%20Phase%20Plant&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-pigments-review) |
-| Arturia V Collection 11 | ~$599 | Vintage instrument bundle | 30+ vintage emulations, full Arturia ecosystem | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20V%20Collection%2011&a_aid=69cb95abe1763) |
+| Arturia Pigments 5 | ~$199 | Multi-engine synth | 5 engines, visual modulation, full FX rack | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
+| Phase Plant | ~$199 | Modular synth | True modular routing, Snapin FX ecosystem | [kilohearts.com](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) |
+| Arturia V Collection 11 | ~$599 | Vintage instrument bundle | 30+ vintage emulations, full Arturia ecosystem | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
 
 ---
 

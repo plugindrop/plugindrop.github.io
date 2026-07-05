@@ -8,7 +8,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: 8 Best Free Chorus & Flanger VST Plugins in 2026"
 heroImage: "/images/best-free-chorus-flanger-vst.jpg"
-draft: false
+draft: true
 ---
 **TL;DR:** TAL-Chorus-LX is the unanimous go-to free chorus in producer communities — it emulates a Roland JC-120 circuit, it's free on every platform, and years of community consensus haven't found a better free alternative for classic chorus duties. For flanging, MeldaProduction's MFlanger (free, part of their bundle) offers more modulation depth than most plugins costing $50+. Start with those two.
 
@@ -25,7 +25,7 @@ draft: false
 | MChorus | Free | Multiband chorus with precise control | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |
 | TAL-Flanger | Free | Analog-style flanging, zero friction | [Free Download](https://tal-software.com/products/tal-effects) |
 | Valhalla SuperMassive | Free | Lush ensemble and chorus textures | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-chorus-flanger-vst) |
-| Arturia Chorus DIMENSION-D | $49 | Authentic Roland Dimension D emulation | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-chorus-flanger-vst) |
+| Arturia Chorus DIMENSION-D | $49 | Authentic Roland Dimension D emulation | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
 | Valhalla Chorus | $50 | Studio-grade professional chorus | [Get It](https://valhalladsp.com/plugins//) |
 
 ## Introduction
@@ -198,7 +198,7 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 - **Price:** $49
 - **Why upgrade:** TAL-Chorus-LX models the JC-120 circuit. The Roland Dimension D is a different piece of hardware entirely — a four-mode spatial chorus used heavily in professional studio production through the 80s and 90s, and consistently sought after by producers trying to replicate that specific sound. Arturia's developer documentation confirms the emulation targets the original Dimension D hardware circuit, including all four preset modes. The plugin adds additional controls not available on the hardware unit. If the JC-120 character is close but not quite what you're after, this is where to look.
 
-[→ Get Arturia Chorus DIMENSION-D (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-chorus-flanger-vst)
+[→ Get Arturia Chorus DIMENSION-D (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763)
 [Watch Demo](https://www.youtube.com/watch?v=zWDahsu8vFE)
 
 ---
@@ -228,7 +228,7 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 | Blue Cat's Chorus | Free | Chorus | Clean and dependable, standard controls | [Free Download](https://www.bluecataudio.com/Products/Product_Chorus/) |
 | GVST GChorus | Free | Chorus | Ultra-lightweight, Windows/VST2 only | [Free Download](https://gvst.uk/gchorus.htm) |
 | AirWindows Ensemble | Free | Ensemble/Chorus | Open source, no GUI, community-respected | [Free Download](https://www.airwindows.com) |
-| Arturia Chorus DIMENSION-D | $49 | Chorus | Roland Dimension D hardware emulation | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-chorus-flanger-vst) |
+| Arturia Chorus DIMENSION-D | $49 | Chorus | Roland Dimension D hardware emulation | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
 | Valhalla Chorus | $50 | Chorus | Modern algorithmic, studio-grade | [Get It](https://valhalladsp.com/plugins//) |
 
 ---
