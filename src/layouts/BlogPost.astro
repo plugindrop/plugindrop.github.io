@@ -11,7 +11,7 @@ import { SITE_TITLE } from '../consts';
 
 type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?: string; slug?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, score, allTimeLow, evergreen, priceTrack = [], readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, score, allTimeLow, evergreen, onSaleNow, priceTrack = [], readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
 const imageStr = typeof heroImage === 'string' ? heroImage : undefined;
 
 // Check if sale has expired
@@ -326,7 +326,7 @@ const featuredDeals = isEvergreen ? allPosts
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={`${title} | ${SITE_TITLE}`} description={description} image={imageStr} ogType="article" articleSection={tags[0] ?? 'Music Production'} />
+		<BaseHead title={title.length > 50 ? title : `${title} | ${SITE_TITLE}`} description={description} image={imageStr} ogType="article" articleSection={tags[0] ?? 'Music Production'} />
 		<script type="application/ld+json" set:html={JSON.stringify(articleLD)} />
 		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbLD)} />
 		{faqLD && <script type="application/ld+json" set:html={JSON.stringify(faqLD)} />}
@@ -541,6 +541,15 @@ const featuredDeals = isEvergreen ? allPosts
 				border-radius: 3px;
 				padding: 0.2rem 0.45rem;
 				vertical-align: middle;
+			}
+			.on-sale-banner {
+				background: linear-gradient(135deg, #e63946 0%, #c1121f 100%);
+				color: #fff;
+				padding: 0.75rem 1rem;
+				border-radius: 6px;
+				font-size: 0.92rem;
+				margin-bottom: 1.5rem;
+				text-align: center;
 			}
 			/* Best guide callout */
 			.best-guide-box {
@@ -869,6 +878,13 @@ const featuredDeals = isEvergreen ? allPosts
 									</a>
 								</>
 							)}
+						</div>
+					)}
+
+					<!-- ON SALE NOW banner for when-does articles -->
+					{onSaleNow && (
+						<div class="on-sale-banner">
+							🔥 <strong>It's ON SALE right now</strong> — Current pricing and deal links are below.
 						</div>
 					)}
 
