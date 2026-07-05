@@ -8,8 +8,10 @@ heroImage: "/images/best-free-piano-vst.png"
 evergreen: true
 score: 8.00
 xText: "New guide: 10 Best Free Piano VST Plugins in 2026 (Grand, Upright, Elec..."
-draft: true
+draft: false
 ---
+
+> **Want premium piano plugins?** See our [Best Piano VST Plugins 2026](/posts/best-piano-vst-plugins/) guide for Keyscape, Pianoteq 8, Ravenscroft 275, and more.
 
 |--------|-------|------|------------|-----|
 | LABS Soft Piano | Free | Sampled (felt) | Intimate character, LABS ecosystem | [Free Download](https://labs.spitfireaudio.com/) |

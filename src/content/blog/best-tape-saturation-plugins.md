@@ -8,9 +8,11 @@ evergreen: true
 score: 8.00
 xText: "New guide: 10 Best Tape Saturation & Vintage Warmth Plugins in 2026"
 heroImage: "/images/best-tape-saturation-plugins.jpg"
-draft: true
+draft: false
 ---
 **TL;DR:** RC-20 Retro Color is the most widely recommended single-plugin solution for tape and vintage character in lo-fi, bedroom pop, and indie production communities. UAD Studer A800 is the consensus accuracy benchmark when budget is not the constraint. Start with Chow Tape Model (free) before spending money on anything — it consistently competes with paid options that cost $150–$300.
+
+> **Want free tape saturation plugins first?** See our [Best Free Tape Saturation VST Plugins 2026](/posts/best-free-tape-saturation-vst/) guide.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wbQgt8u-Cm4" title="10 Best Tape Saturation & Vintage Warmth Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

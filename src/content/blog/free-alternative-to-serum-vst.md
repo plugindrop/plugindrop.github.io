@@ -11,6 +11,8 @@ xText: "New guide: 7 Best Free Alternatives to Xfer Serum in 2026"
 draft: false
 ---
 
+> **Looking for paid Serum alternatives?** See our [Best Paid Serum Alternatives 2026](/posts/serum-alternatives-paid-2026/) guide.
+
 ## Quick Picks at a Glance
 
 | Plugin | Price (2026) | Best For | Get It |
