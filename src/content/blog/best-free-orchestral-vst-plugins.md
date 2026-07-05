@@ -2,6 +2,7 @@
 title: "Best Free Orchestral VST Plugins"
 description: "This page has moved. Find the best free orchestral and strings VST plugins in our updated guide."
 slug: best-free-orchestral-vst-plugins
+pubDate: 2026-07-05
 draft: false
 ---
 

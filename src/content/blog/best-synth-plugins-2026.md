@@ -2,6 +2,7 @@
 title: "Best Synth Plugins 2026"
 description: "This page has moved. Find the best synth plugins for 2026 in our updated guide."
 slug: best-synth-plugins-2026
+pubDate: 2026-07-05
 draft: false
 ---
 

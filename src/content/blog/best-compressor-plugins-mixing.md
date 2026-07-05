@@ -2,6 +2,7 @@
 title: "Best Compressor Plugins for Mixing"
 description: "This page has moved. Find the best compressor plugins in our updated 2026 guide."
 slug: best-compressor-plugins-mixing
+pubDate: 2026-07-05
 draft: false
 ---
 
