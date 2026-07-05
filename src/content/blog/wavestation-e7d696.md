@@ -10,7 +10,7 @@ dealPrice: "$49.00"
 originalPrice: "$99.99"
 discount: "51% OFF"
 xText: "51% off the new wavestation—morphing sequences are genuinely clean and lowest price i've seen at launch. if you're into pads that evolve this is the move"
-draft: false
+draft: true
 ---
 **TL;DR:** Korg's legendary WAVESTATION plugin is currently **51% off** at Plugin Boutique — drop from ~~$99.99~~ to just **$49.00**. If you've been eyeing this classic vector synth, this is a rare chance to grab it at half price. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11199-WAVESTATION?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wavestation-e7d696)
 

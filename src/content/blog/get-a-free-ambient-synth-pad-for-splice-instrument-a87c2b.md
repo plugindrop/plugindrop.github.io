@@ -8,7 +8,7 @@ heroImage: "/images/get-a-free-ambient-synth-pad-for-splice-instrument-a87c2b.jp
 score: 9.00
 dealPrice: "FREE"
 xText: "free splice ambient pad synth just dropped. literally zero dollars. the good deals vanish in hours so honestly just go grab it"
-draft: false
+draft: true
 ---
 **TL;DR:** Splice is dropping a free ambient synth pad preset for their INSTRUMENT plugin — and if you grab it during the drop window, it's yours to keep forever. No subscription required to claim it. [Grab the free preset here.](https://splice.com/sounds/create?utm_source=plugindrop&utm_medium=article&utm_campaign=get-a-free-ambient-synth-pad-for-splice-instrument-a87c2b)
 

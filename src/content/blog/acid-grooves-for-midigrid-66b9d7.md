@@ -10,7 +10,7 @@ dealPrice: "$14.4"
 originalPrice: "$24"
 discount: "40% OFF"
 xText: "acid grooves hit 40% off. lowest it's been. if you're using midigrid, this is the 303 sound you've actually been waiting for."
-draft: false
+draft: true
 ---
 **TL;DR:** Acid Grooves For Midigrid is currently **40% off** at ADSR Sounds — dropping from ~~$24~~ to just **$14.40**. That's nearly $10 saved on a WAV sample pack built specifically for grid-based MIDI workflows. [Grab the deal here.](https://www.adsrsounds.com/product/wav-samples/acid-grooves-for-midigrid/?a_aid=plugindrop&data1=acid-grooves-for-midigrid-66b9d7&utm_source=plugindrop&utm_medium=article&utm_campaign=acid-grooves-for-midigrid-66b9d7)
 

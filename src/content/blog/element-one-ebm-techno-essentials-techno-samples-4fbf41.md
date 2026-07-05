@@ -10,7 +10,7 @@ dealPrice: "$12.27"
 originalPrice: "$20.45"
 discount: "40% OFF"
 xText: "40% off element one ebm—rarely drops this far. the percussion design is genuinely next level if you're into that industrial techno sound. this is the move."
-draft: false
+draft: true
 ---
 **TL;DR:** Element One EBM Techno Essentials is now 40% off at ADSR Sounds — down from ~~$20.45~~ to just **$12.27**. That's a genre-specific techno and EBM sample toolkit for under $13. If hard-edged electronic production is your lane, this is a low-risk entry point. [Grab it at ADSR Sounds →](https://www.adsrsounds.com/product/presets/element-one-ebm-techno-essentials-techno-samples/?a_aid=plugindrop&data1=element-one-ebm-techno-essentials-techno-samples-4fbf41&utm_source=plugindrop&utm_medium=article&utm_campaign=element-one-ebm-techno-essentials-techno-samples-4fbf41)
 

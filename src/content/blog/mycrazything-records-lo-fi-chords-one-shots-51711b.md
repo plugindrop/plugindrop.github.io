@@ -10,7 +10,7 @@ dealPrice: "$7.8"
 originalPrice: "$13"
 discount: "40% OFF"
 xText: "new lo-fi chord one-shots at 40% off on launch day? shouldn't happen but mycrazything records just blew past the playbook."
-draft: false
+draft: true
 ---
 **TL;DR:** Mycrazything Records Lo Fi Chords One Shots is currently **40% off** at ADSR Sounds — dropping from ~~$13~~ to just **$7.80**. That's over $5 in savings on a ready-to-use lo-fi chord sample pack built for chill beats and atmospheric productions. [Grab it here before the price resets.](https://www.adsrsounds.com/product/presets/mycrazything-records-lo-fi-chords-one-shots/?a_aid=plugindrop&data1=mycrazything-records-lo-fi-chords-one-shots-51711b&utm_source=plugindrop&utm_medium=article&utm_campaign=mycrazything-records-lo-fi-chords-one-shots-51711b)
 

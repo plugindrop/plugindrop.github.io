@@ -10,7 +10,7 @@ dealPrice: "$8.39"
 originalPrice: "$13.99"
 discount: "40% OFF"
 xText: "40% off psytrance serum—these rarely drop this heavy. low-end motion design that actually cuts through mixes without fighting your bass"
-draft: false
+draft: true
 ---
 **TL;DR:** Vandalism's Shocking Psytrance for Serum is down 40% at ADSR Sounds — just $8.39 instead of ~~$13.99~~. If you produce psytrance or dark trance and run Xfer Serum, this is a low-risk pick-up at under $9. [Grab it here while the deal is live.](https://www.adsrsounds.com/product/presets/vandalism-shocking-psytrance-for-serum/?a_aid=plugindrop&data1=vandalism-shocking-psytrance-for-serum-6edf95&utm_source=plugindrop&utm_medium=article&utm_campaign=vandalism-shocking-psytrance-for-serum-6edf95)
 

@@ -8,7 +8,7 @@ heroImage: "/images/free-spirit-dub-jam-2b5935.jpg"
 score: 8.11
 dealPrice: "FREE"
 xText: "free dub plugin that genuinely sounds like it costs 200+. analog character, warmth, actual depth. one of those rare freebies that doesn't feel like a downgrade."
-draft: false
+draft: true
 ---
 **TL;DR:** A free dub techno hardware jam session just dropped on YouTube — no paywall, no plugin license, no strings attached. Watch a full multi-hardware rig come alive with dub vibes at [youtube.com/@cerelydatone](https://youtube.com/@cerelydatone).
 

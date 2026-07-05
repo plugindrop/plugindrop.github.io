@@ -10,7 +10,7 @@ dealPrice: "$60.00"
 originalPrice: "$80.00"
 discount: "25% OFF"
 xText: "new plugin hits 25% off on day one. that's not how releases usually work. debuts stay full price forever then drop slowly. this one's already moving. worth checking what's actually going on"
-draft: false
+draft: true
 ---
 **TL;DR:** FUSER is currently 25% off at Plugin Boutique — drop from ~~$80~~ to **$60**, saving you $20 on a dynamics processor built for creative sound design. If your toolkit is missing a flexible dynamics tool, [grab FUSER at the sale price here](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/11102-FUSER?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fuser-29eac0).
 

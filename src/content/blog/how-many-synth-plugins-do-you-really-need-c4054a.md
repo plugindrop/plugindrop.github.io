@@ -10,7 +10,7 @@ dealPrice: "$149.99"
 originalPrice: "$199.99"
 discount: "25% OFF"
 xText: "you're probably sitting on synths you never use because you think the next one will be different. spoiler: it won't"
-draft: false
+draft: true
 ---
 **TL;DR:** A curated synth plugin deal is live at ~~$199.99~~ **$149.99** — saving you $50 on a tool designed to replace the endless stack most producers accumulate. If you've ever asked yourself whether your 40-plugin synth folder is actually helping you make better music, this is the conversation (and the deal) worth checking out: [audioplugin.deals](https://audioplugin.deals/blog/how-many-synth-plugins-do-you-really-need/).
 

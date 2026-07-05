@@ -10,7 +10,7 @@ dealPrice: "$69.00"
 originalPrice: "$99.00"
 discount: "30% OFF"
 xText: "30% off 510k + seqund + polyllop at once. the math just works out if you were considering two or more. per-unit cost is the real story here"
-draft: false
+draft: true
 ---
 **TL;DR:** The 510k SEQUND POLYLLOP Bundle is currently **30% off** at Plugin Boutique — ~~$99~~ **$69**. That's a $30 saving on a multi-plugin bundle covering sequencing and looping territory. [Grab it here before the deal ends.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15228-510k-SEQUND-POLYLLOP-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=510k-seqund-polyllop-bundle-995a35)
 

@@ -10,7 +10,7 @@ dealPrice: "$99.00"
 originalPrice: "$129.00"
 discount: "23% OFF"
 xText: "effectrix 2 is 23% off at launch and honestly that never happens. algorithmic reverb with the parametric control that makes you actually design instead of guessing"
-draft: false
+draft: true
 ---
 **TL;DR:** Effectrix 2 by Sugar Bytes is currently **23% off** at Plugin Boutique — drop from ~~$129~~ to **$99**, saving you $30. If you've been sitting on the fence about a dedicated multi-effect sequencer, this is a solid window to pull the trigger. [Grab the deal here.](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/11389-Effectrix-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=effectrix-2-b44566)
 

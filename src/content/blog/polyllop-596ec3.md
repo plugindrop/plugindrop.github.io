@@ -10,7 +10,7 @@ dealPrice: "$39.00"
 originalPrice: "$59.00"
 discount: "34% OFF"
 xText: "polyllop hitting 34% off is legitimately rare for a new plugin. not sticking around long if people catch wind"
-draft: false
+draft: true
 ---
 **TL;DR:** POLYLLOP is currently **34% off** at Plugin Boutique — down from ~~$59.00~~ to just **$39.00**. That's a $20 saving on a sequencer effects plugin that doesn't come up for this price often. [Grab the deal here.](https://www.pluginboutique.com/product/2-Effects/24-Sequencer/14957-POLYLLOP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=polyllop-596ec3)
 

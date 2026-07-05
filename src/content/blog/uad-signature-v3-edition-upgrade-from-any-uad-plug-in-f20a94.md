@@ -10,7 +10,7 @@ dealPrice: "$249.00"
 originalPrice: "$599.00"
 discount: "58% OFF"
 xText: "v3 signature edition just dropped at 58% off, and you can upgrade from literally any uad plugin. if you've had one sitting around, suddenly the full ecosystem becomes an actual option."
-draft: false
+draft: true
 ---
 **TL;DR:** UAD's Signature V3 Edition — normally ~~$599~~ — is currently available for **$249** at Plugin Boutique, a 58% discount that rarely comes around for Universal Audio's flagship bundle. If you already own any UAD plug-in, this upgrade path is one of the most efficient ways to land a premium processing suite. [Grab the deal here.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17065-UAD-Signature-V3-Edition-Upgrade-from-Any-UAD-Plug-in?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-signature-v3-edition-upgrade-from-any-uad-plug-in-f20a94)
 
