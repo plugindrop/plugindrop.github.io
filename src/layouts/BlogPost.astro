@@ -176,6 +176,16 @@ const howToLD = (isHowTo && howToSteps.length >= 2) ? {
 const _rawPrice = dealPrice?.trim().toUpperCase().replace(/[$€£¥]/g, '') ?? '';
 const _isFreePrice = _rawPrice === 'FREE' || parseFloat(_rawPrice) === 0;
 const _numericPrice = dealPrice ? dealPrice.replace(/[^0-9.]/g, '') : '';
+// Compute discount badge from prices when not explicitly set in frontmatter
+const _computedDiscount = (() => {
+	if (discount) return discount;
+	if (!originalPrice || !dealPrice || _isFreePrice) return null;
+	const orig = parseFloat(originalPrice.replace(/[^0-9.]/g, ''));
+	const deal = parseFloat(_numericPrice);
+	if (!orig || !deal || orig <= deal) return null;
+	return `${Math.round((1 - deal / orig) * 100)}% OFF`;
+})();
+const _displayDiscount = _computedDiscount;
 const productLD = (affiliate && dealPrice && !saleExpired && !_isFreePrice && _numericPrice && _numericPrice !== '0') ? {
 	"@context": "https://schema.org",
 	"@type": "Product",
@@ -843,14 +853,14 @@ const featuredDeals = isEvergreen ? allPosts
 											</div>
 										</div>
 									)}
-									{(dealPrice || discount) && (
+									{(dealPrice || _displayDiscount) && (
 										<div class="deal-price-row">
 											{originalPrice && <span class="deal-price-original">{originalPrice}</span>}
 											{dealPrice && <span class={`deal-price-current${_isFreePrice ? ' is-free' : ''}`}>{_isFreePrice ? 'FREE' : dealPrice}</span>}
-											{discount && (
-												<span class={`deal-save-badge${_isFreePrice ? ' is-free' : ''}`}>{discount}</span>
+											{_displayDiscount && (
+												<span class={`deal-save-badge${_isFreePrice ? ' is-free' : ''}`}>{_displayDiscount}</span>
 											)}
-											{allTimeLow && <span class="atl-badge">All-Time Low</span>}
+											{allTimeLow && <span class="atl-badge">⭐ All-Time Low</span>}
 										</div>
 									)}
 									{dealSource && <div class="deal-source">Available via {dealSource}</div>}
