@@ -8,7 +8,7 @@ heroImage: "/images/best-free-reverb-vst-plugins.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: 15 Best Free Reverb VST Plugins in 2026 (Free & Paid Options..."
-draft: true
+draft: false
 priceTrack:
   - "Valhalla Room"
   - "Valhalla VintageVerb"

@@ -8,7 +8,7 @@ heroImage: "/images/best-compressor-plugins-2026.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: Best Compressor Plugins 2026: Free & Paid for Mixing and Mas..."
-draft: true
+draft: false
 priceTrack:
   - "FabFilter Pro-C 2"
 ---

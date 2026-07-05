@@ -8,7 +8,7 @@ heroImage: "/images/best-eq-plugins-2026.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: Best EQ Plugins 2026: Free & Paid for Every Producer"
-draft: true
+draft: false
 priceTrack:
   - "FabFilter Pro-Q 4"
 ---

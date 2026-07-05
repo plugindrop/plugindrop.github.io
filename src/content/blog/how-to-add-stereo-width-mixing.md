@@ -7,7 +7,7 @@ affiliate: ""
 evergreen: true
 score: 8.00
 heroImage: "/images/how-to-add-stereo-width-mixing.jpg"
-draft: true
+draft: false
 ---
 
 **TL;DR:** Stereo width in mixing is about contrast — elements that are wide feel wider when the low end and key elements are properly mono. Before adding width, check mono compatibility; then use mid/side EQ to shape how elements sit across the stereo field; use imaging plugins like iZotope Ozone Imager (free) for controlled widening; and understand the Haas effect for creative width on pads and synths.

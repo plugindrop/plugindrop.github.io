@@ -8,7 +8,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: 15 Best Third-Party Plugins for Logic Pro Users in 2026"
 heroImage: "/images/best-plugins-logic-pro.jpg"
-draft: true
+draft: false
 priceTrack:
   - "FabFilter Pro-Q 4"
   - "FabFilter Pro-C 2"

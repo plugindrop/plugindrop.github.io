@@ -7,7 +7,7 @@ affiliate: ""
 evergreen: true
 score: 8.00
 heroImage: "/images/how-to-use-saturation-mixing.jpg"
-draft: true
+draft: false
 ---
 
 **TL;DR:** Saturation adds harmonic content, density, and perceived loudness to individual elements and full mixes without increasing peak levels — it's why analog recordings sound "warm" and overly clean digital mixes sound thin. Klanghelm IVGI is the free saturation plugin the community recommends for transparent harmonic enhancement; Soundtoys Decapitator is the character-driven analog emulation used by professionals; FabFilter Saturn 2 is the surgical option for multiband, frequency-selective saturation with full parameter control.

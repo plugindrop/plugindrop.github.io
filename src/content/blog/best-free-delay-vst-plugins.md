@@ -8,7 +8,7 @@ heroImage: "/images/best-free-delay-vst-plugins.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: 10 Best Free Delay VST Plugins in 2026 (Tape, Digital, Multi..."
-draft: true
+draft: false
 ---
 **TL;DR:** TAL-Dub-3 is the best free delay VST plugin for tape character in 2026 — warm, saturated, and genuinely musical at zero cost. Pair it with Valhalla Supermassive for massive spatial depth and Graillon 2 for pitch-shifted delay textures, and you have a professional free toolkit that most paid collections can't beat outright.
 

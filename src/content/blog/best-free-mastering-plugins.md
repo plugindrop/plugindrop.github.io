@@ -9,7 +9,7 @@ evergreen: true
 score: 8.00
 originalPrice: "$49"
 xText: "New guide: 10 Best Free Mastering Plugins in 2026 (Limiter, EQ, Meterin..."
-draft: true
+draft: false
 priceTrack:
   - "FabFilter Pro-L 2"
 ---
