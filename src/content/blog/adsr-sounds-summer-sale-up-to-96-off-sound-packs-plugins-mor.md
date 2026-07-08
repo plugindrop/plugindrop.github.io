@@ -10,7 +10,7 @@ dealPrice: "$25"
 discount: "96% OFF"
 saleExpiry: "2026-07-06"
 xText: "96% off adsr packs. genuinely the lowest i've ever seen. if your sample library's been collecting dust, this hits different"
-draft: false
+draft: true
 ---
 **TL;DR:** ADSR Sounds' 2026 Summer Sale is live with savings of up to 96% off sound packs, plugins, and courses — including a standout bundle: 10 house packs for just $25. The sale runs until July 6th, so the window to lock in these prices is short. [Browse the Summer House Collection deal here.](https://www.adsrsounds.com/product/presets/summer-house-collection-10-packs-for-25/?a_aid=plugindrop&data1=adsr-sounds-summer-sale-up-to-96-off-sound-packs-plugins-mor&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-summer-sale-up-to-96-off-sound-packs-plugins-mor#a_aid=rekkerd)
 
