@@ -17,7 +17,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Klanghelm IVGI | Free | Transparent harmonic enhancement on any channel | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Klanghelm+IVGI&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-use-saturation-mixing) |
-| Soundtoys Decapitator | $199 | Analog amp saturation with five circuit character modes | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763) |
+| Soundtoys Decapitator | $199 | Analog amp saturation with five circuit character modes | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%20Decapitator&a_aid=69cb95abe1763) |
 | FabFilter Saturn 2 | $199 | Multiband, frequency-selective saturation with modulation | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/6-Multi-Effect/6844-FabFilter-Saturn-2?a_aid=69cb95abe1763) |
 | Waves J37 Tape | ~$49 | Tape saturation emulation for warmth on buses | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves+J37+Tape&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-use-saturation-mixing) |
 

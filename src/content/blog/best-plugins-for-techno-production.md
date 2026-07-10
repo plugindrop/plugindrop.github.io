@@ -21,7 +21,7 @@ draft: true
 | FabFilter Pro-C 2 | $179 | Punchy drum bus compression | [Plugin Boutique](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
 | Valhalla Room | $50 | Dark club-ready reverb | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla+Room&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-techno-production) |
 | Valhalla VintageVerb | $50 | 80s industrial reverb textures | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla+VintageVerb&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-techno-production) |
-| Soundtoys Decapitator | $149 | Analog saturation and drive | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763) |
+| Soundtoys Decapitator | $149 | Analog saturation and drive | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%20Decapitator&a_aid=69cb95abe1763) |
 | u-he Diva | $179 | Vintage analog synth emulation | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=u-he+Diva&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-techno-production) |
 
 ---

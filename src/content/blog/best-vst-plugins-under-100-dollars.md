@@ -302,7 +302,7 @@ Ozone Elements brings iZotope's Master Assistant AI into a streamlined mastering
 | FabFilter Pro-C 2 | $99 | Compressor | 8 compression styles, sidechain EQ built in | [Buy](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
 | Waves CLA-76 | ~$29–$99 | Compressor | Dual 1176 emulation, all-buttons-in mode | [Buy](https://www.pluginboutique.com/search?search_query=Waves%20CLA-76&a_aid=69cb95abe1763) |
 | iZotope RX Elements | ~$99 | Audio Repair | AI repair, de-noise, de-hum, de-click | [Buy](https://www.pluginboutique.com/search?search_query=iZotope%20RX%20Elements&a_aid=69cb95abe1763) |
-| Soundtoys Decapitator | $99 | Saturation | 5 hardware drive models, high-cut filter | [Buy](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763) |
+| Soundtoys Decapitator | $99 | Saturation | 5 hardware drive models, high-cut filter | [Buy](https://www.pluginboutique.com/search?search_query=Soundtoys%20Decapitator&a_aid=69cb95abe1763) |
 | Kilohearts Snap Heap | ~$29 | Creative FX | Modular rack, LFO and envelope routing | [Buy](https://www.pluginboutique.com/search?search_query=Kilohearts%20Snap%20Heap&a_aid=69cb95abe1763) |
 | iZotope Ozone Elements | ~$99 | Mastering | AI Master Assistant, EQ + imager + limiter | [Buy](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%20Elements&a_aid=69cb95abe1763) |
 
