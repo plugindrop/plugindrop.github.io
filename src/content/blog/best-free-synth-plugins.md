@@ -482,7 +482,7 @@ The free synths above cover most use cases. If you find yourself hitting their l
 
 | Plugin | Best For | Price |
 |---|---|---|
-| [Serum 2](https://www.pluginboutique.com/search?search_query=Serum+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) | Sound design, massive preset ecosystem | ~$189 |
+| [Serum 2](https://xferrecords.com/products/serum) | Sound design, massive preset ecosystem | ~$189 |
 | [Phase Plant](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) | Modular architecture, advanced producers | ~$199 |
 
 ---

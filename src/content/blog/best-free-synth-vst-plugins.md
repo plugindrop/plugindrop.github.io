@@ -300,7 +300,7 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 - **Price:** ~$189 (subscription options available via Splice)
 - **Why upgrade:** Vital's free tier is genuinely close, but Serum's built-in wavetable editor, its deeper workflow integration across commercial sound packs, and the breadth of third-party presets built specifically for it make it the benchmark for professional wavetable production that Vital references but does not yet match in ecosystem depth.
 
-[→ Get Serum on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/68-Virtual-Analogue/5765-Serum?a_aid=69cb95abe1763)
+[Xfer Records](https://xferrecords.com/products/serum)
 
 ---
 
@@ -379,7 +379,7 @@ A: Yes. Every plugin on this list supports VST3 (for Ableton Live and FL Studio)
 ---
 ## Final Thoughts
 
-For most producers in 2026, **Vital** is the only free synth you need to start — wavetable power, a visual modulation system, and a built-in effects chain in a single free download. Add **OB-Xd** for vintage analog character and **Dexed** for FM textures, and you have a production-ready synthesis toolkit before spending anything. When you are ready to invest, [Serum on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/68-Virtual-Analogue/5765-Serum?a_aid=69cb95abe1763) remains the most logical paid upgrade — the ecosystem depth and wavetable editor are worth every dollar for producers working at scale.
+For most producers in 2026, **Vital** is the only free synth you need to start — wavetable power, a visual modulation system, and a built-in effects chain in a single free download. Add **OB-Xd** for vintage analog character and **Dexed** for FM textures, and you have a production-ready synthesis toolkit before spending anything. When you are ready to invest, [Xfer Records](https://xferrecords.com/products/serum) remains the most logical paid upgrade — the ecosystem depth and wavetable editor are worth every dollar for producers working at scale.
 
 ---
 

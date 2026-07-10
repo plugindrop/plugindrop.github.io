@@ -21,7 +21,7 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Serum | ~$189 | Industry-standard wavetable, EDM, bass music | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/68-Virtual-Analogue/5765-Serum?a_aid=69cb95abe1763) |
+| Serum | ~$189 | Industry-standard wavetable, EDM, bass music | [Xfer Records](https://xferrecords.com/products/serum) |
 | Vital | Free / Paid tiers | Beginners, advanced sound design, budget-conscious producers | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Vital%20synth&a_aid=69cb95abe1763) |
 | Phase Plant | ~$99+ | Modular power users, hybrid synthesis | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) |
 
@@ -54,7 +54,7 @@ Serum's dual oscillators use a high-quality anti-aliasing algorithm that produce
 
 **Best for:** Producers who demand studio-grade clarity, particularly in EDM, future bass, synthwave, and cinematic sound design.
 
-[→ Get Serum on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/68-Virtual-Analogue/5765-Serum?a_aid=69cb95abe1763)
+[Xfer Records](https://xferrecords.com/products/serum)
 
 ---
 
@@ -178,7 +178,7 @@ Once you've outgrown the standard wavetable paradigm, these tools push synthesis
 - **Price:** ~$189 one-time
 - **Why upgrade:** If you've been using Serum via Splice and want to own it outright — plus stop the monthly fee — buying the full license makes financial sense by month 10. Ownership also future-proofs you against subscription model changes.
 
-[→ Get Serum on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/68-Virtual-Analogue/5765-Serum?a_aid=69cb95abe1763)
+[Xfer Records](https://xferrecords.com/products/serum)
 
 ---
 
@@ -186,7 +186,7 @@ Once you've outgrown the standard wavetable paradigm, these tools push synthesis
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Serum | ~$189 | Wavetable | Best-in-class audio quality, massive preset ecosystem, industry standard | [Buy](https://www.pluginboutique.com/product/1-Instruments/68-Virtual-Analogue/5765-Serum?a_aid=69cb95abe1763) |
+| Serum | ~$189 | Wavetable | Best-in-class audio quality, massive preset ecosystem, industry standard | [Buy](https://xferrecords.com/products/serum) |
 | Vital | Free / Paid tiers | Wavetable + Spectral | Free full engine, 6 LFOs, FM-capable, Linux support | [Get Free (Plugin Boutique)](https://vital.audio/) / [PB](https://www.pluginboutique.com/search?search_query=Vital%20synth&a_aid=69cb95abe1763) |
 | Phase Plant | ~$99+ | Modular/Hybrid | Fully modular signal path, wavetable + granular + additive | [Buy](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) |
 
@@ -224,7 +224,7 @@ A: No — Serum does not offer a free trial, though Splice subscribers can acces
 
 **Start with Vital — upgrade to Serum when your workflow demands it.** For the vast majority of producers in 2026, Vital's free tier provides more synthesis capability than they'll fully explore in the first year, and its paid tiers represent excellent value relative to the competition. If you're working professionally in EDM or need the deepest commercial preset library available, Serum justifies every dollar of its price tag.
 
-[→ Download Vital Free at vital.audio](https://vital.audio/) | [→ Get Serum on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/68-Virtual-Analogue/5765-Serum?a_aid=69cb95abe1763)
+[→ Download Vital Free at vital.audio](https://vital.audio/) | [Xfer Records](https://xferrecords.com/products/serum)
 
 ---
 

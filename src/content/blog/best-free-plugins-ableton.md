@@ -283,7 +283,7 @@ Once you've maxed out what the free tier offers, these three commercial plugins 
 - **Price:** ~$189 one-time, or rental-to-own via Splice
 - **Why upgrade:** Vital is genuinely excellent, but Serum has the deeper preset ecosystem, a more refined wavetable editor, and is the de facto standard in electronic music production. That status translates directly into a vastly larger library of tutorials, third-party preset packs, and community support — making it easier to learn and faster to find sounds.
 
-[→ Get Serum on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/68-Virtual-Analogue/5765-Serum?a_aid=69cb95abe1763)
+[Xfer Records](https://xferrecords.com/products/serum)
 
 ---
 
@@ -382,7 +382,7 @@ The free plugins above cover most production needs. When you're ready to invest,
 
 | Plugin | What It Adds | Price |
 |---|---|---|
-| [Serum 2](https://www.pluginboutique.com/search?search_query=Serum+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-ableton) | Industry-standard wavetable synth, massive preset library | ~$10/mo or ~$189 |
+| [Serum 2](https://xferrecords.com/products/serum) | Industry-standard wavetable synth, massive preset library | ~$10/mo or ~$189 |
 | [FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) | Dynamic EQ, surgical precision, zero-latency | ~$179 |
 | [Valhalla VintageVerb](https://www.pluginboutique.com/search?search_query=Valhalla+VintageVerb&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-ableton) | 18 reverb algorithms, $50, beats plugins 3× the price | $50 |
 
