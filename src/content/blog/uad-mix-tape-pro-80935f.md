@@ -14,6 +14,11 @@ draft: false
 ---
 **TL;DR:** Universal Audio's UAD Mix Tape Pro is on sale at Plugin Boutique for **$99**, down from ~~$149~~ — a 34% discount that saves you $50. If you've been wanting authentic tape saturation and mix bus glue without buying vintage hardware, this is a solid entry point. [Grab the deal here](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17197-UAD-Mix-Tape-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-pro-80935f).
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/kFpoTVweL58" title="UAD Mix Tape Pro Bundle | Top 10 Picks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is UAD Mix Tape Pro?
 
 UAD Mix Tape Pro is a tape emulation plugin bundle from Universal Audio, the company best known for its UAD hardware DSP platform and modeled analog gear. The plugin is built to recreate the sound of classic analog tape machines for use on individual tracks or across a full mix bus. It's aimed at producers and engineers who want tape-style saturation, compression, and coloration as part of their mixing and mastering chain. Check the product page for the exact list of tape machine models included in this specific "Pro" edition.
