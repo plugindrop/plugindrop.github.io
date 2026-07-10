@@ -41,7 +41,8 @@ const tracked = pluginNames
   .filter(x => x.data);
 
 function pbLink(path: string) {
-  if (path && path.startsWith('http')) return path;
+  if (!path) return '#';
+  if (path.startsWith('http')) return path;
   const sep = path.includes('?') ? '&' : '?';
   return `https://www.pluginboutique.com${path}${sep}${AFF}&${UTM}`;
 }

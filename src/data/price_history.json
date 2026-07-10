@@ -355,7 +355,7 @@
       ]
     },
     "Serum 2": {
-      "pb_url": null,
+      "pb_url": "/search?search_query=Serum%202",
       "typical_regular": 249,
       "typical_sale": 189,
       "all_time_low": 99,
@@ -538,7 +538,7 @@
       ]
     },
     "Spectrasonics Omnisphere": {
-      "pb_url": null,
+      "pb_url": "/search?search_query=Spectrasonics%20Omnisphere",
       "typical_regular": 499,
       "typical_sale": null,
       "all_time_low": null,
@@ -553,7 +553,7 @@
       ]
     },
     "reFX Nexus 5": {
-      "pb_url": null,
+      "pb_url": "/search?search_query=reFX%20Nexus%205",
       "typical_regular": 249,
       "typical_sale": 179,
       "all_time_low": null,
@@ -568,7 +568,7 @@
       ]
     },
     "LennarDigital Sylenth1": {
-      "pb_url": null,
+      "pb_url": "/search?search_query=LennarDigital%20Sylenth1",
       "typical_regular": 149,
       "typical_sale": 135,
       "all_time_low": 135,
@@ -613,7 +613,7 @@
       ]
     },
     "FabFilter Pro-R 2": {
-      "pb_url": null,
+      "pb_url": "/search?search_query=FabFilter%20Pro-R%202",
       "typical_regular": 169,
       "typical_sale": 127,
       "all_time_low": null,
@@ -628,7 +628,7 @@
       ]
     },
     "oeksound Soothe2": {
-      "pb_url": null,
+      "pb_url": "/search?search_query=oeksound%20Soothe2",
       "typical_regular": 199,
       "typical_sale": 139,
       "all_time_low": null,
@@ -643,7 +643,7 @@
       ]
     },
     "Soundtheory Gullfoss": {
-      "pb_url": null,
+      "pb_url": "/search?search_query=Soundtheory%20Gullfoss",
       "typical_regular": 199,
       "typical_sale": 139,
       "all_time_low": null,
@@ -658,7 +658,7 @@
       ]
     },
     "Sonible smart:EQ 4": {
-      "pb_url": null,
+      "pb_url": "/search?search_query=Sonible%20smart%3AEQ%204",
       "typical_regular": 129,
       "typical_sale": 79,
       "all_time_low": 49,
@@ -733,7 +733,7 @@
       ]
     },
     "Vital": {
-      "pb_url": null,
+      "pb_url": "/search?search_query=Vital",
       "typical_regular": 0,
       "typical_sale": null,
       "all_time_low": null,
