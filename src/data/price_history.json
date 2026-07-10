@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27",
+  "last_updated": "2026-07-10",
   "bundles": {
     "FabFilter Total Bundle": {
       "pb_url": "/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle",
@@ -226,6 +226,221 @@
           "regular": 119,
           "sale": 70,
           "source": "auto_check"
+        }
+      ]
+    }
+  },
+  "plugins": {
+    "FabFilter Pro-Q 4": {
+      "pb_url": "/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4",
+      "typical_regular": 199,
+      "typical_sale": 149,
+      "all_time_low": 105,
+      "notes": "FabFilter discounts 25% once/year at Black Friday only. ATL $105.25 at Gear4Music (BF Nov 2025). PB BF 2024/2025: 25% off = $149.",
+      "history": [
+        {
+          "date": "2024-11-22",
+          "regular": 199,
+          "sale": 149,
+          "source": "research_bf2024"
+        },
+        {
+          "date": "2025-11-22",
+          "regular": 199,
+          "sale": 105,
+          "source": "research_bf2025_gear4music"
+        },
+        {
+          "date": "2026-05-30",
+          "regular": 199,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "FabFilter Pro-C 2": {
+      "pb_url": "/search?search_query=FabFilter%20Pro-C%202",
+      "typical_regular": 129,
+      "typical_sale": 97,
+      "all_time_low": 97,
+      "notes": "FabFilter discounts 25% at Black Friday only. Typical BF sale ~$97 (25% off $129).",
+      "history": [
+        {
+          "date": "2024-11-22",
+          "regular": 129,
+          "sale": 97,
+          "source": "research_bf2024"
+        },
+        {
+          "date": "2026-05-30",
+          "regular": 129,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "FabFilter Pro-L 2": {
+      "pb_url": "/search?search_query=FabFilter%20Pro-L%202",
+      "typical_regular": 179,
+      "typical_sale": 134,
+      "all_time_low": 134,
+      "notes": "FabFilter discounts 25% at Black Friday only. Typical BF sale ~$134 (25% off $179).",
+      "history": [
+        {
+          "date": "2024-11-22",
+          "regular": 179,
+          "sale": 134,
+          "source": "research_bf2024"
+        },
+        {
+          "date": "2026-05-30",
+          "regular": 179,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "Kilohearts Phase Plant": {
+      "pb_url": "/product/1-Instruments/4-Synth/5391-Phase-Plant",
+      "typical_regular": 199,
+      "typical_sale": 119,
+      "all_time_low": 92,
+      "notes": "PB 14th Anniversary Feb 2026: $119 (40% off). ATL $92 recorded at Plugin Boutique. Kilohearts runs regular 40-50% off sales at PB.",
+      "history": [
+        {
+          "date": "2025-11-01",
+          "regular": 199,
+          "sale": 99,
+          "source": "research_bf2025"
+        },
+        {
+          "date": "2026-02-01",
+          "regular": 199,
+          "sale": 119,
+          "source": "research_pb14th"
+        },
+        {
+          "date": "2026-05-30",
+          "regular": 199,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "Serum 2": {
+      "pb_url": "/search?search_query=Serum%202%20Xfer%20Records",
+      "typical_regular": 259,
+      "typical_sale": 189,
+      "all_time_low": 99,
+      "notes": "Xfer Records rarely discounts. Serum 2 intro price was $99 (Mar 2025, limited time). Last sale $189 (May 2025). Free upgrade from original Serum.",
+      "history": [
+        {
+          "date": "2025-03-20",
+          "regular": 259,
+          "sale": 99,
+          "source": "research_intro_offer"
+        },
+        {
+          "date": "2025-05-29",
+          "regular": 259,
+          "sale": 189,
+          "source": "research"
+        },
+        {
+          "date": "2026-05-30",
+          "regular": 259,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "iZotope Ozone 11 Standard": {
+      "pb_url": "/search?search_query=iZotope%20Ozone%2011%20Standard",
+      "typical_regular": 199,
+      "typical_sale": 99,
+      "all_time_low": 70,
+      "notes": "iZotope runs regular 50% off sales. ATL $70.26 at Best Service (BF Nov 2024). PB BF 2024: also deep discount. Frequent sales throughout year.",
+      "history": [
+        {
+          "date": "2024-08-01",
+          "regular": 199,
+          "sale": 99,
+          "source": "research_summer2024"
+        },
+        {
+          "date": "2024-11-19",
+          "regular": 199,
+          "sale": 70,
+          "source": "research_bf2024"
+        },
+        {
+          "date": "2025-11-01",
+          "regular": 199,
+          "sale": 79,
+          "source": "research_bf2025"
+        },
+        {
+          "date": "2026-05-30",
+          "regular": 199,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "iZotope Ozone 11 Advanced": {
+      "pb_url": "/search?search_query=iZotope%20Ozone%2011%20Advanced",
+      "typical_regular": 399,
+      "typical_sale": 199,
+      "all_time_low": 141,
+      "notes": "iZotope runs 50% off sales. ATL $141.40 at Best Service (BF Nov 2024). Consider upgrading from Standard instead.",
+      "history": [
+        {
+          "date": "2024-11-19",
+          "regular": 399,
+          "sale": 141,
+          "source": "research_bf2024"
+        },
+        {
+          "date": "2025-11-01",
+          "regular": 399,
+          "sale": 199,
+          "source": "research_bf2025"
+        },
+        {
+          "date": "2026-05-30",
+          "regular": 399,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "Valhalla Room": {
+      "pb_url": "/search?search_query=Valhalla%20Room",
+      "typical_regular": 50,
+      "typical_sale": null,
+      "all_time_low": 50,
+      "notes": "Valhalla DSP maintains a fixed $50 price across all retailers and does not offer discounts. Best price you'll ever see IS $50.",
+      "history": [
+        {
+          "date": "2026-05-30",
+          "regular": 50,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "Valhalla VintageVerb": {
+      "pb_url": "/search?search_query=Valhalla%20VintageVerb",
+      "typical_regular": 50,
+      "typical_sale": null,
+      "all_time_low": 50,
+      "notes": "Valhalla DSP maintains a fixed $50 price. No discounts ever. Valhalla Supermassive is free (no purchase needed).",
+      "history": [
+        {
+          "date": "2026-05-30",
+          "regular": 50,
+          "sale": null,
+          "source": "research"
         }
       ]
     }
