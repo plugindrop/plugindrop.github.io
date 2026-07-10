@@ -18,8 +18,8 @@ draft: false
 |--------|-------|----------|--------|
 | W1 Limiter | Free | Transparent brick-wall brick wall limiting for beginners | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=W1+Limiter&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-use-a-limiter-mastering) |
 | Limiter 6 GE | ~$26 | Multi-stage limiting with per-module metering | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Limiter+6+GE&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-use-a-limiter-mastering) |
-| FabFilter Pro-L 2 | $179 | Transparent or aggressive limiting with ISP metering | [Plugin Boutique](https://www.pluginboutique.com/product/2-effects/32-limiter/2281-FabFilter-Pro-L-2?a_aid=69cb95abe1763) |
-| iZotope Ozone 11 Maximizer | Part of Ozone | AI-assisted LUFS targeting for streaming platforms | [Plugin Boutique](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763) |
+| FabFilter Pro-L 2 | $179 | Transparent or aggressive limiting with ISP metering | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-L%202&a_aid=69cb95abe1763) |
+| iZotope Ozone 11 Maximizer | Part of Ozone | AI-assisted LUFS targeting for streaming platforms | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
 
 ---
 
@@ -50,7 +50,7 @@ FabFilter Pro-L 2 includes a true peak limiting mode (labeled ISP in the interfa
 
 **Setting:** Output ceiling at -1.0 dBTP, ISP mode enabled. Start with the Transparent algorithm. Input gain set at 0 — you'll add gain in Step 2.
 
-[→ Get FabFilter Pro-L 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/32-limiter/2281-FabFilter-Pro-L-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-L 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-L%202&a_aid=69cb95abe1763)
 
 ---
 
@@ -149,7 +149,7 @@ Mastering limiting in 2026 is fundamentally a loudness compliance and transient 
 
 The free W1 Limiter handles everything a new mastering engineer needs to learn the fundamentals. Limiter 6 GE adds per-stage visibility and control at a modest price. FabFilter Pro-L 2 is the community's benchmark for transparent, algorithm-flexible mastering limiting — it's the tool to invest in when your masters need to compete at professional level.
 
-[→ Get FabFilter Pro-L 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/32-limiter/2281-FabFilter-Pro-L-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-L 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-L%202&a_aid=69cb95abe1763)
 
 ---
 

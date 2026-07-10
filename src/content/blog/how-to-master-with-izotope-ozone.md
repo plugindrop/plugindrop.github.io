@@ -26,8 +26,8 @@ draft: false
 
 | Plugin | Price | Role | Get It |
 |--------|-------|------|--------|
-| iZotope Ozone 12 | $99–$499 | Complete mastering suite | [Plugin Boutique](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763) |
-| FabFilter Pro-L 2 | $179 | Standalone limiter for comparison | [Plugin Boutique](https://www.pluginboutique.com/product/2-effects/32-limiter/2281-FabFilter-Pro-L-2?a_aid=69cb95abe1763) |
+| iZotope Ozone 12 | $99–$499 | Complete mastering suite | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
+| FabFilter Pro-L 2 | $179 | Standalone limiter for comparison | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-L%202&a_aid=69cb95abe1763) |
 
 ---
 
@@ -167,7 +167,7 @@ These modules add analog character — harmonic saturation, high-frequency roll-
 
 **Advanced ($499):** Adds Master Rebalance, Stabilizer, Low End Focus with stem input, and the full vintage module library. The Master Rebalance module alone can justify the upgrade for producers who find themselves wanting to adjust mix balance at the mastering stage. For producers who send all mixes to a dedicated mastering engineer, Standard covers the self-mastering workflow completely.
 
-[→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763)
+[→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763)
 
 ---
 
@@ -179,7 +179,7 @@ These modules add analog character — harmonic saturation, high-frequency roll-
 - **Formats:** VST3, AU, AAX
 - **Why it matters alongside Ozone:** Pro-L 2 is specifically useful as a comparison limiter — after setting the Ozone Maximizer for your primary limiting pass, insert Pro-L 2 after Ozone on the master bus and compare the limiting character between the two at matched output levels. The eight algorithms in Pro-L 2 (including Transparent, Allround, and Aggressive) provide different gain reduction characters that may suit specific genres better than Ozone's IRC modes. Pro-L 2's LUFS integrated metering and true peak display are also among the clearest and most readable available.
 
-[→ Get FabFilter Pro-L 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/32-limiter/2281-FabFilter-Pro-L-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-L 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-L%202&a_aid=69cb95abe1763)
 
 ---
 

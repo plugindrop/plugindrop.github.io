@@ -231,7 +231,7 @@ The free toolkit above covers a complete mastering chain. These two paid tools b
 - **Price:** From $49 (Elements) / $249 (Standard)
 - **Why upgrade:** The free toolkit requires you to calibrate every stage manually — there is no reference point, no automatic loudness targeting, and no integrated workflow. Ozone 12's Master Assistant analyzes your track and proposes initial settings for EQ, dynamics, and loudness targeting, which accelerates the starting point considerably. It also adds a dedicated Imager module for mid/side stereo control and a Tonal Balance reference system not available in any free tool.
 
-[→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763)
+[→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763)
 
 ---
 
@@ -243,7 +243,7 @@ The free toolkit above covers a complete mastering chain. These two paid tools b
 - **Price:** $199
 - **Why upgrade:** Limiter 6 GE performs comparably to Pro-L 2 at moderate gain reduction, but FabFilter's tool provides eight distinct limiting algorithms (Transparent, Dynamic, Aggressive, Bus, and others), a Unity Gain monitoring mode for accurate A/B comparison, and a precision True Peak implementation that professional mastering engineers cite as their preferred option for final delivery sign-off. The real-time statistics display is also more detailed than anything available free.
 
-[→ Get FabFilter Pro-L 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/32-limiter/2281-FabFilter-Pro-L-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-L 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-L%202&a_aid=69cb95abe1763)
 
 ---
 
@@ -261,8 +261,8 @@ The free toolkit above covers a complete mastering chain. These two paid tools b
 | LoudMax | Free | Limiter | 2-control transparent brickwall | [Download](https://loudmax.blogspot.com/) |
 | TDR Kotelnikov | Free | Compressor | Program-dependent, mastering-tuned | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-mastering-plugins) |
 | Klanghelm IVGI | Free | Saturation | Harmonic warmth, soft-knee | [Download](https://klanghelm.com/IVGI.php) |
-| iZotope Ozone 12 | From $49 | Suite | AI mastering, integrated workflow | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763) |
-| FabFilter Pro-L 2 | $199 | Limiter | 8 algorithms, True Peak, pro delivery | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-effects/32-limiter/2281-FabFilter-Pro-L-2?a_aid=69cb95abe1763) |
+| iZotope Ozone 12 | From $49 | Suite | AI mastering, integrated workflow | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
+| FabFilter Pro-L 2 | $199 | Limiter | 8 algorithms, True Peak, pro delivery | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-L%202&a_aid=69cb95abe1763) |
 
 ---
 

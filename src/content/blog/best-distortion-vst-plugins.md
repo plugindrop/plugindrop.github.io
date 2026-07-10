@@ -18,7 +18,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Soundtoys Decapitator | ~$179 | Analog hardware drive emulation | [Official Site](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/766-Soundtoys-5?a_aid=69cb95abe1763) |
+| Soundtoys Decapitator | ~$179 | Analog hardware drive emulation | [Official Site](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
 | FabFilter Saturn 2 | $199 | Multiband and multimode distortion | [Official Site](https://www.pluginboutique.com/product/2-Effects/6-Multi-Effect/6844-FabFilter-Saturn-2?a_aid=69cb95abe1763) |
 | Waves J37 Tape | varies | Tape warmth, classic British character | [Official Site](https://www.waves.com/plugins/j37-tape) |
 | Klanghelm SDRR | ~$19 | Best-value analog saturation | [Official Site](https://klanghelm.com/contents/products/SDRR.php) |
@@ -53,7 +53,7 @@ Decapitator models five distinct analog saturation circuits — labeled A, E, N,
 
 **Best for:** Vocals, drum buses, mix buses, and any source that needs documented hardware analog character.
 
-[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/766-Soundtoys-5?a_aid=69cb95abe1763)
+[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -157,7 +157,7 @@ Devil-Loc Deluxe models the Shure Level-Loc, a broadcast limiter known for extre
 
 **Best for:** Crushed parallel drum processing, room mic saturation, aggressive transient distortion.
 
-[→ Search Soundtoys Devil-Loc Deluxe (via Plugin Boutique)](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/766-Soundtoys-5?a_aid=69cb95abe1763)
+[→ Search Soundtoys Devil-Loc Deluxe (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -260,7 +260,7 @@ If you have been working with IVGI, Saturation Knob, Chow Tape Model, or TAL-Sat
 - **Price:** ~$179 (watch for sale pricing at $49–99)
 - **Why upgrade:** Free saturation plugins deliver one generic harmonic character. Decapitator delivers five distinct hardware-modeled circuits — each with documented analog source equipment — plus a Punish knob that pushes drive well past where any free plugin goes cleanly. The gap between IVGI and Decapitator is the gap between "harmonic content" and "hardware character with a specific room and circuit identity."
 
-[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/766-Soundtoys-5?a_aid=69cb95abe1763)
+[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -280,7 +280,7 @@ If you have been working with IVGI, Saturation Knob, Chow Tape Model, or TAL-Sat
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Soundtoys Decapitator | ~$179 | Analog hardware emulation | 5 circuit models, Punish knob, tone control | [Get via Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/766-Soundtoys-5?a_aid=69cb95abe1763) |
+| Soundtoys Decapitator | ~$179 | Analog hardware emulation | 5 circuit models, Punish knob, tone control | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
 | FabFilter Saturn 2 | $199 | Multiband distortion | 28 styles, 6 bands, modulation matrix | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/6-Multi-Effect/6844-FabFilter-Saturn-2?a_aid=69cb95abe1763) |
 | Waves J37 Tape | varies | Tape machine emulation | EMI J37 model, bias/flutter controls | [Official Site](https://www.pluginboutique.com/product/2-Effects/6-Multi-Effect/6844-FabFilter-Saturn-2?a_aid=69cb95abe1763) |
 | Klanghelm SDRR | ~$19 | Multi-mode saturation | TUBE/TAPE/DIGI/TRANS, Linux support | [Get It](https://klanghelm.com/contents/products/SDRR.php) |
@@ -337,7 +337,7 @@ A: FabFilter Saturn 2 is the community's consistent answer because its multiband
 
 If you buy one plugin from this list, buy Soundtoys Decapitator — it is the most-recommended analog drive plugin in production communities for documented reasons, and its five hardware-modeled saturation styles make it the last single-band distortion tool most producers will need. Download Chow Tape Model, Softube Saturation Knob, and IVGI immediately: they are free, professional-grade, and cover the range of quick saturation tasks that fill a session. When multiband control becomes the limiting factor, FabFilter Saturn 2 is the logical next investment.
 
-[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/766-Soundtoys-5?a_aid=69cb95abe1763)
+[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 

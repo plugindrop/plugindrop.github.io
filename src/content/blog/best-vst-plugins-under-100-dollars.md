@@ -20,7 +20,7 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-C 2 | $99 | All-purpose compression | [Plugin Boutique](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
+| FabFilter Pro-C 2 | $99 | All-purpose compression | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
 | Valhalla VintageVerb | ~$50 | Vintage hall and room reverbs | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763) |
 | Arturia Rev PLATE-140 | ~$49 | EMT 140 plate emulation | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Rev%20PLATE-140&a_aid=69cb95abe1763) |
 | D16 Group Repeater | ~$49 | Vintage tape delay | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=D16%20Group%20Repeater%20delay&a_aid=69cb95abe1763) |
@@ -166,7 +166,7 @@ Eight distinct compression styles — Clean, Classic, Opto, Vocal, Mastering, Bu
 
 **Best for:** Lead vocals, stereo bus compression, mastering chains, sidechained four-on-the-floor production
 
-[→ Get FabFilter Pro-C 2 on Plugin Boutique](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-C 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)
 
 ---
 
@@ -285,7 +285,7 @@ Ozone Elements brings iZotope's Master Assistant AI into a streamlined mastering
 - **Price:** $99
 - **Why upgrade:** Stock DAW compressors and free alternatives handle basic gain reduction, but none replicate Pro-C 2's eight compression style algorithms, real-time interactive display, and integrated sidechain EQ. Engineers who switch to Pro-C 2 consistently report that their mixes translate better to other playback systems — a result of the plugin's superior transient shaping precision and frequency-selective sidechain capability.
 
-[→ Get FabFilter Pro-C 2 on Plugin Boutique](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-C 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)
 
 ---
 
@@ -299,7 +299,7 @@ Ozone Elements brings iZotope's Master Assistant AI into a streamlined mastering
 | D16 Group Repeater | ~$49 | Delay | 4 tape machine models, diffusion control | [Buy](https://www.pluginboutique.com/search?search_query=D16%20Group%20Repeater%20delay&a_aid=69cb95abe1763) |
 | NI Replika | ~$49 | Delay | 5 delay types, built-in reverb tail | [Buy](https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Replika&a_aid=69cb95abe1763) |
 | Baby Audio Comeback Kid | ~$49 | Delay | Tape drift simulation, Drift control | [Buy](https://www.pluginboutique.com/search?search_query=Baby%20Audio%20Comeback%20Kid&a_aid=69cb95abe1763) |
-| FabFilter Pro-C 2 | $99 | Compressor | 8 compression styles, sidechain EQ built in | [Buy](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
+| FabFilter Pro-C 2 | $99 | Compressor | 8 compression styles, sidechain EQ built in | [Buy](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
 | Waves CLA-76 | ~$29–$99 | Compressor | Dual 1176 emulation, all-buttons-in mode | [Buy](https://www.pluginboutique.com/search?search_query=Waves%20CLA-76&a_aid=69cb95abe1763) |
 | iZotope RX Elements | ~$99 | Audio Repair | AI repair, de-noise, de-hum, de-click | [Buy](https://www.pluginboutique.com/search?search_query=iZotope%20RX%20Elements&a_aid=69cb95abe1763) |
 | Soundtoys Decapitator | $99 | Saturation | 5 hardware drive models, high-cut filter | [Buy](https://www.pluginboutique.com/search?search_query=Soundtoys%20Decapitator&a_aid=69cb95abe1763) |
@@ -339,7 +339,7 @@ A: Waves runs sales nearly continuously, and the CLA-76 regularly drops to the $
 
 If you can only buy one plugin from this list, make it FabFilter Pro-C 2 — it improves every single mix you run it on, regardless of genre or style, and no other tool under $100 covers as much professional ground. The second purchase should be Valhalla VintageVerb, which remains one of the best-value plugins in the history of audio software at $50.
 
-[→ Get FabFilter Pro-C 2 on Plugin Boutique](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-C 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)
 
 ---
 

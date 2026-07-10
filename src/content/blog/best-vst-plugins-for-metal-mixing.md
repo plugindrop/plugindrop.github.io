@@ -18,10 +18,10 @@ draft: true
 | Neural DSP Fortin Nameless | $149 | High-gain guitar amp simulation | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Neural+DSP+Fortin+Nameless&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-metal-mixing) |
 | Slate Digital DrumXchanger | $149/yr | Drum replacement and layering | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Slate+Digital+DrumXchanger&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-metal-mixing) |
 | FabFilter Pro-Q 4 | $179 | Surgical EQ for dense guitar tracks | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
-| FabFilter Pro-C 2 | $179 | Drum bus and parallel compression | [Plugin Boutique](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
-| FabFilter Pro-L 2 | $179 | True peak limiting for loud masters | [Plugin Boutique](https://www.pluginboutique.com/product/2-effects/32-limiter/2281-FabFilter-Pro-L-2?a_aid=69cb95abe1763) |
+| FabFilter Pro-C 2 | $179 | Drum bus and parallel compression | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
+| FabFilter Pro-L 2 | $179 | True peak limiting for loud masters | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-L%202&a_aid=69cb95abe1763) |
 | Waves CLA-76 | $29 | Snare and drum channel compression | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves+CLA-76&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-metal-mixing) |
-| iZotope Ozone 12 | $99+ | AI-assisted mastering chain | [Plugin Boutique](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763) |
+| iZotope Ozone 12 | $99+ | AI-assisted mastering chain | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
 | OwnHammer IRs | $15–$45/pack | Cabinet IR library for amp sims | [OwnHammer.com](https://www.ownhammer.com) |
 
 ---
@@ -88,7 +88,7 @@ This guide covers the eight most important plugins for metal mixing in 2026. The
 
 **Best for:** Metal engineers using parallel compression on drum buses and individual drum channels, needing the visual feedback and flexible compression styles to balance transient impact with sustained body.
 
-[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)
 
 ---
 
@@ -102,7 +102,7 @@ This guide covers the eight most important plugins for metal mixing in 2026. The
 
 **Best for:** Metal engineers who need to achieve competitive loudness targets (-7 to -10 LUFS) without audible limiting artifacts or inter-sample clipping in the final master.
 
-[→ Get FabFilter Pro-L 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/32-limiter/2281-FabFilter-Pro-L-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-L 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-L%202&a_aid=69cb95abe1763)
 
 ---
 
@@ -130,7 +130,7 @@ This guide covers the eight most important plugins for metal mixing in 2026. The
 
 **Best for:** Metal producers who self-master and need AI-assisted starting points, resonance control for dense guitar mixes, and an integrated loudness-targeting workflow.
 
-[→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763)
+[→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763)
 
 ---
 

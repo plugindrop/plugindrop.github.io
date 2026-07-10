@@ -38,8 +38,8 @@ These plugins almost always appear in Black Friday sales and represent genuine v
 | Plugin | Normal Price | BF Target Price | Why Buy |
 |---|---|---|---|
 | [FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) | ~$179 | ~$89–$109 | Best EQ plugin available — dynamic EQ mode alone justifies full price |
-| [FabFilter Pro-L 2](https://www.pluginboutique.com/product/2-effects/32-limiter/2281-FabFilter-Pro-L-2?a_aid=69cb95abe1763) | ~$199 | ~$99–$129 | Industry-standard mastering limiter, 8 algorithms, true peak |
-| [iZotope Ozone 12 Standard](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763) | ~$199 | ~$79–$99 | Best all-in-one mastering suite — AI Master Assistant alone worth the price |
+| [FabFilter Pro-L 2](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-L%202&a_aid=69cb95abe1763) | ~$199 | ~$99–$129 | Industry-standard mastering limiter, 8 algorithms, true peak |
+| [iZotope Ozone 12 Standard](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) | ~$199 | ~$79–$99 | Best all-in-one mastering suite — AI Master Assistant alone worth the price |
 | [Valhalla Room](https://www.pluginboutique.com/search?search_query=Valhalla+Room&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=black-friday-2026) | $50 | $30–$40 | Rarely discounted — grab it if it drops |
 | [Serum 2](https://xferrecords.com/products/serum) | ~$189 | ~$99 | Industry-standard wavetable synth — massive preset ecosystem |
 | [Arturia V Collection](https://www.pluginboutique.com/search?search_query=Arturia+V+Collection&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=black-friday-2026) | ~$399 | ~$149–$199 | 33 vintage synth emulations — exceptional value at sale price |

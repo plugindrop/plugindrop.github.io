@@ -24,7 +24,7 @@ This guide ranks the 12 best saturation plugins 2026 producers are actually buyi
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | FabFilter Saturn 2 | $199 | Multiband saturation, mastering | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/6-Multi-Effect/6844-FabFilter-Saturn-2?a_aid=69cb95abe1763) |
-| Soundtoys Decapitator | $199 | Analog amp drive, aggressive color | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/766-Soundtoys-5?a_aid=69cb95abe1763) |
+| Soundtoys Decapitator | $199 | Analog amp drive, aggressive color | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
 | Klanghelm SDRR | ~$20 | Budget studio saturation, 4 models | [Plugin Boutique](https://klanghelm.com/contents/products/SDRR.php) |
 | Saturation Knob | Free | One-knob parallel saturation on any track | [Free Download](https://www.pluginboutique.com/search?search_query=Free%20Download&a_aid=69cb95abe1763) |
 | IVGI | Free | Subtle analog console warmth | [Free Download](https://klanghelm.com/IVGI.php) |
@@ -141,7 +141,7 @@ Decapitator models five analog preamp and amplifier circuits — labeled A, E, N
 
 **Best for:** Producers who want the grit of real analog hardware on drums, bass, guitars, and synth leads.
 
-[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/766-Soundtoys-5?a_aid=69cb95abe1763)
+[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -269,7 +269,7 @@ TDR Prism takes a different approach than hardware emulators — it gives you di
 - **Price:** ~$499 (bundle)
 - **Why upgrade:** If Decapitator is already in your chain, Soundtoys 5 adds EchoBoy, PrimalTap, FilterFreq, Crystallizer, and nine additional effect units — all sharing the same analog modeling philosophy and cohesion. The per-plugin cost drops significantly in the bundle, and the interaction between Soundtoys units across a session is difficult to replicate with plugins from different developers. Soundtoys runs sitewide sales a few times a year that bring this bundle down meaningfully — this is one worth timing rather than buying at full price on impulse.
 
-[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/766-Soundtoys-5?a_aid=69cb95abe1763)
+[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -278,7 +278,7 @@ TDR Prism takes a different approach than hardware emulators — it gives you di
 | Plugin | Price | Best For | Free Trial? | Plugin Boutique Link |
 |--------|-------|----------|--------------|----------------------|
 | FabFilter Saturn 2 | $199 | Multiband saturation, mastering, sound design | Yes (fully functional, 30 days) | [Get It](https://www.pluginboutique.com/product/2-Effects/6-Multi-Effect/6844-FabFilter-Saturn-2?a_aid=69cb95abe1763) |
-| Soundtoys Decapitator | $199 | Analog amp drive, drums, aggressive color | Yes (bundle trial) | [Get It](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/766-Soundtoys-5?a_aid=69cb95abe1763) |
+| Soundtoys Decapitator | $199 | Analog amp drive, drums, aggressive color | Yes (bundle trial) | [Get It](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
 | Klanghelm SDRR | ~$20 | Tube/tape/transistor/digi, budget mixing | No (demo audio watermark) | [Get It](https://klanghelm.com/contents/products/SDRR.php) |
 | Saturation Knob | Free | Parallel harmonic glue on any channel | N/A (free) | [Get It](https://www.pluginboutique.com/search?search_query=Free&a_aid=69cb95abe1763) |
 | IVGI | Free | Console-style asymmetric saturation | N/A (free) | [Get It](https://klanghelm.com/IVGI.php) |

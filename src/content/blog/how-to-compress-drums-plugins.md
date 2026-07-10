@@ -16,7 +16,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-C 2 | $179 | All-purpose drum compression | [Plugin Boutique](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
+| FabFilter Pro-C 2 | $179 | All-purpose drum compression | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
 | Klanghelm DC8C | Free | Vintage-character individual drum compression | [Klanghelm.com](https://klanghelm.com/contents/products/DC8C.php) |
 | Waves SSL G-Master Buss | $29 | Classic drum bus glue | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves+SSL+G+Master&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-compress-drums-plugins) |
 
@@ -141,7 +141,7 @@ For snare:
 - **Formats:** VST3, AU, AAX
 - **Why it matters for drum compression:** Pro-C 2's eight compression modes — Classic, Opto, Vocal, Mastering, Bus, Punch, Pumping, Clean — cover the full range of drum compression scenarios. Punch mode is specifically designed for transient-heavy sources like drums: it applies compression after the initial attack phase to preserve the transient while controlling the body. The built-in Dry/Wet blend simplifies parallel compression. The visual gain reduction display makes it easy to see exactly how much compression is being applied without metering guesswork.
 
-[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)
 
 ---
 

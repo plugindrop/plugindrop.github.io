@@ -22,7 +22,7 @@ draft: false
 |--------|-------|----------|--------|
 | Waves SSL G-Master Buss Compressor | From $29 (on sale) | Mix bus glue compression | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | iZotope Neutron 4 | $149 (Standard) | AI-assisted channel mixing | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
-| iZotope Ozone 12 | $249 (Standard) | Home mastering, loudness processing | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763) |
+| iZotope Ozone 12 | $249 (Standard) | Home mastering, loudness processing | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
 | Waves Platinum Bundle | From $99 (on sale) | Broad analog-emulation toolkit | [Get It](https://www.waves.com/bundles/platinum) |
 | iZotope Music Production Suite | $499 | Full AI mixing and mastering pipeline | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 
@@ -116,7 +116,7 @@ The sound quality is not a substitute for a professional mastering engineer at h
 
 **Best for:** Home mastering, loudness processing, AI-guided mastering chains, Spotify/streaming normalization targeting.
 
-[→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763)
+[→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763)
 
 ---
 
@@ -150,7 +150,7 @@ The sound quality is not a substitute for a professional mastering engineer at h
 | Waves SSL G-Master Buss Compressor | From $29 | Bus Compressor | SSL G hardware emulation, mix bus glue, sidechain HPF | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | Waves H-Delay | From $29 | Delay | Hybrid analog/digital, tempo sync, pitch modulation | No link available |
 | iZotope Neutron 4 | $149 | AI Channel Strip | Track Assistant AI, EQ + compression + transient shaper | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
-| iZotope Ozone 12 | $249 | AI Mastering Suite | Master Assistant, Stem Focus, multiband dynamics + limiting | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763) |
+| iZotope Ozone 12 | $249 | AI Mastering Suite | Master Assistant, Stem Focus, multiband dynamics + limiting | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
 | Waves Platinum Bundle | From $99 | Bundle (60+ plugins) | SSL, API, Neve emulations; broad analog toolkit | [Get It](https://www.waves.com/bundles/platinum) |
 | iZotope Music Production Suite | $499 | Bundle (full pipeline) | Neutron + Ozone + RX + Nectar + Relay | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 
@@ -188,7 +188,7 @@ A: No, and iZotope does not claim it does. The community position on Ozone — c
 
 Waves and iZotope are not competing for the same job in 2026, and the producers who understand that use both strategically. For analog emulation and classic hardware character, Waves — particularly the SSL G-Master Buss Compressor and the Platinum Bundle on sale — remains the benchmark. For AI-guided mixing and mastering, iZotope Neutron 4 and Ozone 12 are the most-recommended tools in the category, period. If you are building a mixing toolkit from scratch and have to choose one brand first, start with iZotope; the guided workflow will teach you while you work. When you are ready to go deeper on hardware character and emulation precision, Waves will be waiting.
 
-For the mastering stage specifically, Ozone 12 is the single strongest pick from either catalog — get it here: [→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763).
+For the mastering stage specifically, Ozone 12 is the single strongest pick from either catalog — get it here: [→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763).
 
 ---
 

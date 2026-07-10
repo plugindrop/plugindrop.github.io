@@ -44,7 +44,7 @@ heroImage: '/images/when-does-fabfilter-pro-l-2-go-on-sale.jpg'
 > **Buying tip:** Same reliable sale cycle as other FabFilter products. Pro-L 2's MSRP is $199, so 25% off saves $50 — worth timing your purchase. Gear4music (UK) occasionally has exceptional effective prices due to GBP/USD exchange.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-effects/32-limiter/2281-FabFilter-Pro-L-2?a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-L%202&a_aid=69cb95abe1763)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 

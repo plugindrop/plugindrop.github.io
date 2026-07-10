@@ -315,7 +315,7 @@ The free tools here cover 90% of use cases. These are the paid upgrades worth bu
 | Plugin | Price | What You Gain Over Free | Get It |
 |--------|-------|------------------------|--------|
 | FabFilter Pro-Q 4 | ~$179 | Per-band dynamic EQ, mid/side mode, EQ match, linear phase — a decade-proof tool | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
-| iZotope Ozone 12 | ~$249 | AI-assisted mastering EQ + full suite — adds spectrum analysis, imaging, and limiting in one plugin | [Plugin Boutique](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763) |
+| iZotope Ozone 12 | ~$249 | AI-assisted mastering EQ + full suite — adds spectrum analysis, imaging, and limiting in one plugin | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
 
 → Full review: [iZotope Ozone 12: Is It Still the Best Mastering Suite?](/posts/izotope-ozone-12-review/)
 

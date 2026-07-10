@@ -22,11 +22,11 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-C 2 | $179 | Transparent mixing, mastering, all source types | [Official Site](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
-| FabFilter Pro-C 2 — Vintage Style | $179 | Analog-colored drums and saturated transients | [Official Site](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
-| FabFilter Pro-C 2 — Bus Style | $179 | Transparent mix bus glue without coloration | [Official Site](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
+| FabFilter Pro-C 2 | $179 | Transparent mixing, mastering, all source types | [Official Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
+| FabFilter Pro-C 2 — Vintage Style | $179 | Analog-colored drums and saturated transients | [Official Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
+| FabFilter Pro-C 2 — Bus Style | $179 | Transparent mix bus glue without coloration | [Official Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
 | Waves SSL G-Master Buss Compressor | ~$29–$49 | Classic SSL-style bus compression character | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| FabFilter Total Bundle | ~$899 | Complete FabFilter mixing and mastering suite | [Plugin Boutique](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
+| FabFilter Total Bundle | ~$899 | Complete FabFilter mixing and mastering suite | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
 
 ---
 
@@ -57,7 +57,7 @@ FabFilter Pro-C 2 is a full-featured stereo and mid-side compressor plugin with 
 
 **Best for:** Professional mixing and mastering engineers who need one compressor that handles everything from individual vocals to stereo bus processing.
 
-[→ Get FabFilter Pro-C 2 — Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-C 2 — Official Site (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)
 
 ---
 
@@ -151,7 +151,7 @@ Oversampling options go up to 32x, pushing the internal noise floor below what a
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| FabFilter Pro-C 2 | $179 | Multi-style compressor | 8 styles, M/S mode, sidechain EQ, interactive display, zero-latency | [Official Site](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
+| FabFilter Pro-C 2 | $179 | Multi-style compressor | 8 styles, M/S mode, sidechain EQ, interactive display, zero-latency | [Official Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
 | Waves SSL G-Master Buss Compressor | ~$29–$49 | Bus compressor emulation | Classic SSL character, simple interface, proven on commercial releases | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | FabFilter Total Bundle | ~$899 | Full plugin suite | All FabFilter plugins, significant bundle savings, crossgrade options | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
 
@@ -189,7 +189,7 @@ A: FabFilter offers crossgrade pricing that accounts for plugins you already own
 
 FabFilter Pro-C 2 earns its reputation as the most versatile and practically useful compressor plugin available in 2026 — not because it wins every A/B test against analog hardware, but because it handles every mixing scenario competently while giving engineers the visual feedback they need to make better decisions faster. Eight compression styles, class-leading metering, mid-side capability, sidechain EQ with frequency visualization, and zero-latency tracking mode make it the single dynamics plugin most worth purchasing at full price.
 
-[→ Get FabFilter Pro-C 2 — Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-C 2 — Official Site (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)
 
 ---
 

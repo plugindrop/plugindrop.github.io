@@ -26,7 +26,7 @@ priceTrack:
 | Waves Tune Real-Time | $49 | Low-latency pitch correction | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20Tune%20Real-Time&a_aid=69cb95abe1763) |
 | FabFilter Pro-Q 4 | €179 | Surgical & creative EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
 | Waves Sibilance | $29 | Spectral de-essing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20Sibilance%20de-esser&a_aid=69cb95abe1763) |
-| FabFilter Pro-C 2 | €149 | Transparent & character compression | [Plugin Boutique](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
+| FabFilter Pro-C 2 | €149 | Transparent & character compression | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
 | iZotope Nectar 4 | $249 | All-in-one AI vocal suite | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Nectar%204&a_aid=69cb95abe1763) |
 | Valhalla Supermassive | Free | Lush vocal reverb & delay | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive%20reverb&a_aid=69cb95abe1763) |
 
@@ -128,7 +128,7 @@ FabFilter Pro-C 2 covers eight distinct compression styles in a single plugin �
 
 **Watch a demo:** [YouTube](https://www.youtube.com/watch?v=mSzvpCz-M2k)
 
-[→ Get FabFilter Pro-C 2 on Plugin Boutique](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-C 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)
 
 ---
 
@@ -223,7 +223,7 @@ Once your core chain is locked in, these bundles and premium options offer the n
 | Waves Tune Real-Time | $49 | Pitch Correction | Low-latency, natural tuning, simple UI | [Buy](https://www.pluginboutique.com/search?search_query=Waves%20Tune%20Real-Time&a_aid=69cb95abe1763) |
 | FabFilter Pro-Q 4 | €179 | EQ | Dynamic EQ, M/S per band, zero-latency mode | [Buy](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
 | Waves Sibilance | $29 | De-esser | Spectral detection, invisible results | [Buy](https://www.pluginboutique.com/search?search_query=Waves%20Sibilance%20de-esser&a_aid=69cb95abe1763) |
-| FabFilter Pro-C 2 | €149 | Compressor | 8 compression styles, vocal mode | [Buy](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
+| FabFilter Pro-C 2 | €149 | Compressor | 8 compression styles, vocal mode | [Buy](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
 | iZotope Nectar 4 | $249 | Full Vocal Suite | AI assistant, Unmask, all-in-one | [Buy](https://www.pluginboutique.com/search?search_query=iZotope%20Nectar%204&a_aid=69cb95abe1763) |
 | Valhalla Supermassive | Free | Reverb/Delay | Lush Valhalla algorithms, completely free | [Free](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vocal-processing-chain-plugins) |
 | Waves Vocal Bundle | From $99 | Bundle | Full Waves vocal toolkit at bundle pricing | [Buy](https://www.pluginboutique.com/search?search_query=Waves%20Vocal%20Bundle&a_aid=69cb95abe1763) |

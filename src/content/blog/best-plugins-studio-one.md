@@ -197,7 +197,7 @@ iZotope's documentation for Ozone 12 describes a modular mastering chain includi
 
 **Best for:** Producers mastering their own releases who want a guided, full-chain approach rather than assembling individual mastering plugins.
 
-[→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763)
+[→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763)
 
 ---
 
@@ -233,7 +233,7 @@ The Soundtoys 5 bundle, per the developer's documentation, includes over 20 crea
 
 **Best for:** Producers in hip-hop, lo-fi, indie, and psychedelic pop where tape saturation and character-driven delay are core sounds, not optional additions.
 
-[→ Get Soundtoys 5 (via Plugin Boutique)](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/766-Soundtoys-5?a_aid=69cb95abe1763)
+[→ Get Soundtoys 5 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -292,9 +292,9 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 | Serum | $189 | Wavetable Synth | Visual modulation matrix, built-in wavetable editor | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one) |
 | Arturia Pigments 5 | ~$99–$199 | Hybrid Synth | 5 oscillator types, deep arpeggiator/sequencer | [Get it](https://www.arturia.com) |
 | u-he Tyrell N6 | Free | Analog Synth | Subtractive architecture, u-he filter quality | [Download](https://u-he.com) |
-| iZotope Ozone 12 | From ~$49 | Mastering | Master Assistant, full mastering chain in one plugin | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763) |
+| iZotope Ozone 12 | From ~$49 | Mastering | Master Assistant, full mastering chain in one plugin | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
 | Slate Digital Fresh Air | Free | Enhancer | Two-control high-freq enhancement, zero setup | [Download](https://slate.audio/free-plugins/) |
-| Soundtoys 5 | $499 bundle | Creative FX | 20+ plugins, EchoBoy, Decapitator, Little AlterBoy | [Get via Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/766-Soundtoys-5?a_aid=69cb95abe1763) |
+| Soundtoys 5 | $499 bundle | Creative FX | 20+ plugins, EchoBoy, Decapitator, Little AlterBoy | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
 | Kilohearts Snap Heap | Free/Paid | Modular FX | Snapin modular chain, macro control across effects | [Get it](https://kilohearts.com) |
 
 ---

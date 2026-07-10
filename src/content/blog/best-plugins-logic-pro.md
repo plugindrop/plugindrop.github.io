@@ -24,7 +24,7 @@ priceTrack:
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 4 | $179 | Precision EQ with dynamic capability | [Developer Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
 | Valhalla VintageVerb | $50 | Algorithmic reverb at any budget | [Developer Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
-| FabFilter Pro-C 2 | $179 | Transparent and character compression | [Developer Site](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
+| FabFilter Pro-C 2 | $179 | Transparent and character compression | [Developer Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
 | Serum | $189 | Wavetable synthesis with modern workflow | [Developer Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro) |
 | iZotope Neutron 4 | $249+ | AI-assisted mix analysis | [Developer Site](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
 | Vital | Free | Wavetable synthesis without the price tag | [Free](https://vital.audio/) |
@@ -91,7 +91,7 @@ FabFilter Pro-C 2's defining feature is its gain reduction display, which visual
 
 **Best for:** Producers learning gain staging who want visual feedback alongside the sound result.
 
-[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)
 
 ---
 
@@ -271,7 +271,7 @@ Soundtoys Decapitator models five distinct analog saturation topologies — Ampe
 
 **Best for:** Adding analog harmonic character to any source — drums, synths, buses, or full mixes.
 
-[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/766-Soundtoys-5?a_aid=69cb95abe1763)
+[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -305,7 +305,7 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 
 **Best for:** Creative, character-driven delay where hardware authenticity matters more than CPU efficiency.
 
-[→ Get Soundtoys EchoBoy (via Plugin Boutique)](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/766-Soundtoys-5?a_aid=69cb95abe1763)
+[→ Get Soundtoys EchoBoy (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -341,7 +341,7 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 |--------|-------|------|------------|-----|
 | FabFilter Pro-Q 4 | $179 | EQ | Dynamic EQ, mid/side, 24 bands | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
 | TDR Nova | Free | Dynamic EQ | Parallel compression (GE), fully free | [Get It](https://www.izotope.com/en/products/music-production-suite) |
-| FabFilter Pro-C 2 | $179 | Compressor | 8 styles, visual GR display | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
+| FabFilter Pro-C 2 | $179 | Compressor | 8 styles, visual GR display | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
 | Klanghelm MJUC jr. | Free | Compressor | Variable-mu warmth, bus glue | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | OTT | Free | Multiband Comp | Extreme upward/downward compression | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | Valhalla VintageVerb | $50 | Reverb | 17 algorithms, $50 price | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |

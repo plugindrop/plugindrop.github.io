@@ -18,7 +18,7 @@ draft: true
 | Xfer Serum | $189 | Acid basslines, industrial leads | [Xfer Records](https://xferrecords.com/products/serum) |
 | Arturia Pigments | $99 | Evolving modular textures | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia+Pigments&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-techno-production) |
 | FabFilter Pro-Q 4 | $179 | Surgical EQ on every channel | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
-| FabFilter Pro-C 2 | $179 | Punchy drum bus compression | [Plugin Boutique](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
+| FabFilter Pro-C 2 | $179 | Punchy drum bus compression | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
 | Valhalla Room | $50 | Dark club-ready reverb | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla+Room&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-techno-production) |
 | Valhalla VintageVerb | $50 | 80s industrial reverb textures | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla+VintageVerb&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-techno-production) |
 | Soundtoys Decapitator | $149 | Analog saturation and drive | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%20Decapitator&a_aid=69cb95abe1763) |
@@ -88,7 +88,7 @@ In 2026, the plugin landscape covers all of these requirements at multiple price
 
 **Best for:** Producers who need their drum bus to hit hard on club systems without losing the transient impact that makes techno kick drums physical.
 
-[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)
 
 ---
 

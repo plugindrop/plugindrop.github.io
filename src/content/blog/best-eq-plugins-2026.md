@@ -32,7 +32,7 @@ priceTrack:
 | Ignite Amps PTEq-X | Free | Pultec-style low-end & air | [Free Download](https://www.igniteamps.com/) |
 | Slate Digital Fresh Air | Free | Vocal air & presence | [Free Download](https://slate.audio/free-plugins/) |
 | iZotope Neutron | $99+ | AI-assisted mixing, track analysis | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
-| iZotope Ozone 12 | from $249 | Full mastering-chain EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763) |
+| iZotope Ozone 12 | from $249 | Full mastering-chain EQ | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
 | Waves SSL E-Channel | $29–$79 | Analog character, channel strips | [Get it here](https://www.waves.com/plugins/ssl-e-channel) |
 
 ---
@@ -210,7 +210,7 @@ The honest limitation: the AI suggests a starting point, not a finished mix — 
 
 The honest limitation: if you only want EQ, this is far more plugin (and cost) than you need — FabFilter Pro-Q 4 in linear phase mode is the cheaper mastering-EQ path.
 
-[→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763)
+[→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763)
 
 ---
 
@@ -240,7 +240,7 @@ The honest limitation: it colors by design, so it's the wrong pick when you need
 | Ignite Amps PTEq-X | Free | Pultec Passive Emulation | EQP-1A + MEQ-5 circuits, passive boost/cut behavior | [Free Download](https://www.igniteamps.com/) |
 | Slate Digital Fresh Air | Free | High-Freq Enhancer | Presence + Air bands, vocal-optimized | [Free Download](https://slate.audio/free-plugins/) |
 | iZotope Neutron | $99–$249 | AI Channel Strip | Track Assistant, Masking Meter, dynamic EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
-| iZotope Ozone 12 | from $249 | Mastering Suite with EQ | Linear phase, M/S, AI Master Assistant | [Plugin Boutique](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763) |
+| iZotope Ozone 12 | from $249 | Mastering Suite with EQ | Linear phase, M/S, AI Master Assistant | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
 | Waves SSL E-Channel | $29–$79 | Analog / Channel Strip | SSL console character, integrated gate + compressor | [Get it](https://www.waves.com/plugins/ssl-e-channel) |
 
 ---

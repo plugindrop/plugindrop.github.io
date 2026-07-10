@@ -19,7 +19,7 @@ draft: false
 | SPAN | Free | Stereo field and phase correlation metering | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=SPAN&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-add-stereo-width-mixing) |
 | iZotope Ozone Imager | Free | Controlled stereo widening with mono compatibility check | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope+Ozone+Imager&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-add-stereo-width-mixing) |
 | FabFilter Pro-Q 4 | $199 | Mid/side EQ for surgical stereo field shaping | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
-| iZotope Ozone 11 Imager (full) | Part of Ozone 11 | Multiband stereo control for mastering | [Plugin Boutique](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763) |
+| iZotope Ozone 11 Imager (full) | Part of Ozone 11 | Multiband stereo control for mastering | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
 
 ---
 

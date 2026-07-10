@@ -17,7 +17,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Klanghelm DC8C | Free (gratis version) | Learning sidechain compression without cost | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Klanghelm+DC8C&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression) |
-| FabFilter Pro-C 2 | $179 | Transparent or pumping sidechain in any context | [Plugin Boutique](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
+| FabFilter Pro-C 2 | $179 | Transparent or pumping sidechain in any context | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
 | Xfer LFO Tool | $20 | Volume automation-style pumping as sidechain alternative | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Xfer+LFO+Tool&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression) |
 | Waves OneKnob Pumper | ~$29 | Fast, tempo-synced sidechain effect without routing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves+OneKnob+Pumper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression) |
 
@@ -96,7 +96,7 @@ The Classic mode in Pro-C 2 produces the most natural-sounding compression behav
 
 **Key filter setting for kick-bass sidechain:** High-pass filter at 120 Hz in the sidechain panel. This removes sub-bass from the trigger signal and tightens the response.
 
-[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)
 
 ---
 
@@ -156,7 +156,7 @@ Sidechain compression in 2026 is both a standard mixing technique and a stylisti
 
 Klanghelm DC8C free is the right starting tool for learning the concept. FabFilter Pro-C 2 is the standard recommendation for professional mixing where sidechain display, key filtering, and algorithmic flexibility matter.
 
-[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)
 
 ---
 

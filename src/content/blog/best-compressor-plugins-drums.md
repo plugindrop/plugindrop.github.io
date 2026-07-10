@@ -20,7 +20,7 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-C 2 | $179 | Versatile bus & channel compression | [Developer Site](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
+| FabFilter Pro-C 2 | $179 | Versatile bus & channel compression | [Developer Site](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
 | Waves SSL G-Master Buss | ~$29–49 | Classic drum bus glue | [Developer Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | Cytomic The Glue | ~$40 | Analog-modeled SSL bus emulation | cytomic.com |
 | Rough Rider 3 | Free | Character compression & pumping | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
@@ -116,7 +116,7 @@ Reddit's r/edmproduction and r/WeAreTheMusicMakers both consistently rank Pro-C 
 
 **Best for:** Producers who want a single plugin to handle kick and snare channel compression, drum bus glue, and parallel compression without switching tools.
 
-[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)
 
 ---
 
@@ -258,7 +258,7 @@ Available through slatedigital.com.
 - **Price:** $179
 - **Why upgrade:** Rough Rider 3 has one defined sound, and that sound is useful in specific contexts. Pro-C 2's eight compression modes and real-time gain reduction display cover every drum compression scenario — punch, glue, transient control, parallel compression — in a single plugin with enough visual feedback to understand exactly what the compressor is doing to the signal. It replaces multiple single-purpose compressors.
 
-[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)
 
 ---
 
@@ -267,7 +267,7 @@ Available through slatedigital.com.
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Waves SSL G-Master Buss | ~$29–49 | VCA Bus Emulation | Auto release, minimal controls, industry-standard | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| FabFilter Pro-C 2 | $179 | Multi-Style | 8 compression modes, visual GR display, sidechain EQ | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763) |
+| FabFilter Pro-C 2 | $179 | Multi-Style | 8 compression modes, visual GR display, sidechain EQ | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
 | Cytomic The Glue | ~$40 | VCA Bus Emulation | Circuit-modeled SSL, basis for Ableton's Glue Compressor | cytomic.com |
 | TDR Kotelnikov | Free | Precision/Transparent | Stereo link control, no coloration | [Free](https://www.pluginboutique.com/search?search_query=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-compressor-plugins-drums) |
 | Rough Rider 3 | Free | Character/Pumping | Mix knob, drum-focused design, large tutorial library | [Free](https://www.audiodamage.com/pages/free-and-legacy) |
@@ -324,7 +324,7 @@ A: They serve different purposes. Rough Rider 3 adds character and pumping — i
 
 FabFilter Pro-C 2 is the top pick for producers who want one compressor that handles every drum compression scenario — bus glue, channel punch, transient control, and parallel compression — without compromising on any of them. For producers who specifically need drum bus glue and want to minimize spend, the Waves SSL G-Master Buss Compressor at its regular sale price is the most practical and battle-tested option in the category.
 
-[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/4-compressor/2282-FabFilter-Pro-C-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)
 
 ---
 

@@ -192,7 +192,7 @@ Once your chain is locked in, two paid expansions offer capabilities that none o
 - **Price:** $199
 - **Why upgrade:** OTT handles upward compression brilliantly for stylistic effect, but it's not a surgical tool. Pro-MB adds per-band dynamic EQ and multiband compression with FabFilter's visual interface, making it ideal for taming specific problem frequency ranges on a drum bus without affecting the overall character — something OTT cannot do with precision.
 
-[→ Get FabFilter Pro-MB on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Multi-Band/1252-FabFilter-Pro-MB?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-MB on Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-MB&a_aid=69cb95abe1763)
 
 > **Watch it in action:** [FabFilter Pro-MB Demo on YouTube](https://www.youtube.com/watch?v=LNkaGACWuhs)
 
@@ -209,7 +209,7 @@ Once your chain is locked in, two paid expansions offer capabilities that none o
 | Waves SSL G-Master | $29.99 | Bus Compressor | VCA glue, auto-release, classic SSL character | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20SSL%20G-Master%20Buss%20Compressor&a_aid=69cb95abe1763) |
 | OTT (Xfer) | Free | Upward Compressor | 3-band upward compression, presence & shimmer | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=OTT%20Xfer%20compressor&a_aid=69cb95abe1763) |
 | Waves SSL Bundle | $299 | Bundle | Full SSL signal path, channel + bus tools | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves%20SSL%20Bundle&a_aid=69cb95abe1763) |
-| FabFilter Pro-MB | $199 | Multiband Compressor | Surgical per-band dynamics, visual interface | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Multi-Band/1252-FabFilter-Pro-MB?a_aid=69cb95abe1763) |
+| FabFilter Pro-MB | $199 | Multiband Compressor | Surgical per-band dynamics, visual interface | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-MB&a_aid=69cb95abe1763) |
 
 ---
 

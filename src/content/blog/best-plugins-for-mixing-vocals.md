@@ -143,7 +143,7 @@ Soundtoys Decapitator is consistently described in KVR and Gearspace communities
 
 **Best for:** Adding analog warmth and harmonic presence to digital vocal recordings that sound thin or overly clean.
 
-[→ Get Soundtoys Decapitator (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/766-Soundtoys-5?a_aid=69cb95abe1763)
+[→ Get Soundtoys Decapitator (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -234,7 +234,7 @@ Soundtoys EchoBoy is the most consistently name-checked delay plugin in Gearspac
 
 **Best for:** Delay with analog character for lead vocals, or creative rhythmic delay effects where a clean digital echo would feel sterile.
 
-[→ Search Soundtoys EchoBoy (via Plugin Boutique)](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/766-Soundtoys-5?a_aid=69cb95abe1763)
+[→ Search Soundtoys EchoBoy (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -253,7 +253,7 @@ FabFilter Pro-L 2 is the most-recommended transparent limiter in KVR Audio and G
 
 **Best for:** Final output control on the vocal bus where transparency is the priority and any coloration would compromise upstream work.
 
-[→ Get FabFilter Pro-L 2 (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/32-limiter/2281-FabFilter-Pro-L-2?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-L 2 (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-L%202&a_aid=69cb95abe1763)
 
 ---
 

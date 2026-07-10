@@ -44,14 +44,14 @@ heroImage: '/images/when-does-izotope-ozone-go-on-sale.jpg'
 > **Buying tip:** iZotope was acquired by NI in 2022 — sales now align with NI's Summer and BF schedule. The current version is Ozone 12 Advanced ($499). Ozone 11 Advanced (previous version) has hit $99 during major sales — worth checking if Ozone 12 features aren't essential. Best Service, ADSR, and Gear4Music often undercut PB pricing.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 
 
 ## Free Alternatives If You Can't Wait
 
-- **[FabFilter Pro-L 2](https://www.pluginboutique.com/product/2-effects/32-limiter/2281-FabFilter-Pro-L-2?a_aid=69cb95abe1763)** — Best standalone mastering limiter — goes 25-30% off 3-4x/year
+- **[FabFilter Pro-L 2](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-L%202&a_aid=69cb95abe1763)** — Best standalone mastering limiter — goes 25-30% off 3-4x/year
 
 
 ---

@@ -276,7 +276,7 @@ Ozone Imager 2 provides stereo field widening and narrowing with a real-time Lis
 
 **Best for:** Stereo width on mix buses, mono compatibility checking, widening synth pads before print.
 
-[→ Download Ozone Imager 2 Free (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763)
+[→ Download Ozone Imager 2 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763)
 
 ---
 
@@ -370,7 +370,7 @@ If the free toolkit is serving you well and you're ready to invest, these three 
 | TDR Kotelnikov | Free | Bus Compressor | Mastering-grade, transparent, program-dependent | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-fl-studio) |
 | Valhalla Supermassive | Free | Reverb / Delay | 23 algorithms, ambient to tight room | [Get It](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Dragonfly Reverb | Free | Multi-type Reverb | Room, Hall, Plate, Early Reflections | [Get It](https://michaelwillis.github.io/dragonfly-reverb/) |
-| Ozone Imager 2 | Free | Stereo Processor | Lissajous meter, smooth width control | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763) |
+| Ozone Imager 2 | Free | Stereo Processor | Lissajous meter, smooth width control | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
 | MFreeFXBundle | Free | FX Bundle (37 plugins) | Comprehensive, one install, consistent UI | [Get It](https://www.meldaproduction.com/MFreeFXBundle) |
 | CHOW Tape Model | Free | Tape Saturation | Physical modeling, harmonic warmth, CLAP support | [Get It](https://chowdsp.com/products.html) |
 | Serum | ~$189 | Wavetable Synth | Industry preset ecosystem, visual wavetable editor | [Get It](https://xferrecords.com/products/serum) |

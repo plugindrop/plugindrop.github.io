@@ -267,7 +267,7 @@ iZotope's Ozone Imager 2 gives you precise stereo width control with a Lissajous
 
 **Best for:** Controlling stereo width on submixes and individual tracks, widening mono sources, checking mono compatibility, and mastering prep.
 
-[→ Download Ozone Imager 2 Free (via Plugin Boutique)](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763)
+[→ Download Ozone Imager 2 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763)
 
 ---
 
@@ -326,7 +326,7 @@ Once you've maxed out what the free tier offers, these three commercial plugins 
 | LABS | Free | Sample Instrument | Curated Spitfire samples, growing catalog, all genres covered | [Get It](https://labs.spitfireaudio.com/) |
 | Sitala | Free | Drum Sampler | 16-pad workflow, drag-and-drop loading, per-pad filter and envelope | [Get It](https://decomposer.de/sitala/) |
 | SPAN | Free | Spectrum Analyzer | Real-time FFT, near-zero CPU, configurable display modes | [Get It](https://www.voxengo.com/product/span/) |
-| Ozone Imager 2 | Free | Stereo Imager | Lissajous vectorscope, Stereoize function, mono compatibility check | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-effects/34-mastering/9534-iZotope-Ozone-12-Advanced?a_aid=69cb95abe1763) |
+| Ozone Imager 2 | Free | Stereo Imager | Lissajous vectorscope, Stereoize function, mono compatibility check | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
 
 ---
 
@@ -365,7 +365,7 @@ When you've maxed out the free toolkit, these are the three paid plugins the com
 |--------|-------|-------------|--------|
 | Valhalla VintageVerb | $50 | 18 algorithms, 3 vintage color modes — covers room, hall, plate, and chamber with no free equivalent | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla+VintageVerb&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-ableton) |
 | FabFilter Pro-Q 4 | ~$179 | Dynamic EQ per band + mid/side processing that TDR Nova can't do | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
-| FabFilter Pro-L 2 | ~$199 | True peak limiting for streaming delivery — required for professional masters | [Plugin Boutique](https://www.pluginboutique.com/product/2-effects/32-limiter/2281-FabFilter-Pro-L-2?a_aid=69cb95abe1763) |
+| FabFilter Pro-L 2 | ~$199 | True peak limiting for streaming delivery — required for professional masters | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-L%202&a_aid=69cb95abe1763) |
 
 → Full paid reverb breakdown: [Valhalla VintageVerb Review: Worth the $50?](/posts/valhalla-vintageverb-review/)
 → Full mastering limiter breakdown: [10 Best Mastering Limiter Plugins in 2026](/posts/best-limiter-plugins-mastering/)
