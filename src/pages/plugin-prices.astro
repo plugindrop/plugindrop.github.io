@@ -28,10 +28,12 @@ interface BundleData {
 interface PriceData {
   last_updated: string;
   bundles: Record<string, BundleData>;
+  plugins?: Record<string, BundleData>;
 }
 
 const data = priceData as PriceData;
 const { last_updated, bundles } = data;
+const plugins = data.plugins ?? {};
 
 function dealRating(bundle: BundleData): { label: string; cls: string } {
   const latest = bundle.history.at(-1);
@@ -65,12 +67,13 @@ function formatDate(iso: string): string {
 }
 
 const bundleEntries = Object.entries(bundles);
+const pluginEntries = Object.entries(plugins);
 
 const pageLD = {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "Plugin Bundle Price Tracker",
-  "description": "Track current and historical prices for major VST plugin bundles at Plugin Boutique. Updated weekly.",
+  "name": "VST Plugin Price Tracker — Bundles & Individual Plugins",
+  "description": "Track current and historical prices for major VST plugins and bundles at Plugin Boutique. FabFilter, Kilohearts, iZotope, Waves, Serum 2 and more. Updated regularly.",
   "url": "https://plugindrop.net/plugin-prices/",
 };
 ---
@@ -216,16 +219,123 @@ const pageLD = {
     <Header />
     <main id="main-content">
       <div class="page-header">
-        <h1>Plugin Bundle Price Tracker</h1>
+        <h1>VST Plugin Price Tracker</h1>
         <p class="subtitle">
-          Historical prices for major VST plugin bundles at Plugin Boutique —
-          like CamelCamelCamel, but for VST plugins. See if it's a real deal before you buy.
+          Historical prices for major VST plugins and bundles — like CamelCamelCamel, but for music software.
+          Know the real value before you buy: see typical sale prices, lowest tracked prices, and when to wait.
         </p>
         <p class="meta">
-          Updated: {last_updated} &nbsp;|&nbsp; Checked weekly via Plugin Boutique
+          Updated: {last_updated} &nbsp;|&nbsp;
+          <a href="#bundles" style="color:var(--accent)">Bundles</a> &nbsp;·&nbsp;
+          <a href="#individual" style="color:var(--accent)">Individual Plugins</a>
         </p>
       </div>
 
+      <h2 id="individual" style="font-size:1.15rem;font-weight:800;margin:0 0 1rem;color:var(--text-primary)">Individual Plugins</h2>
+      <div class="bundle-grid" style="margin-bottom:3rem">
+        {pluginEntries.map(([name, bundle]) => {
+          const latest = bundle.history.at(-1);
+          const currentRegular = latest?.regular ?? null;
+          const currentSale = latest?.sale ?? null;
+          const displayPrice = currentSale ?? currentRegular;
+          const rating = dealRating(bundle);
+          const recentHistory = bundle.history.slice(-4).reverse();
+
+          return (
+            <div class="bundle-card">
+              <div class="card-header">
+                <div>
+                  <a
+                    href={pbLink(bundle.pb_url)}
+                    class="bundle-name-link"
+                    target="_blank"
+                    rel="noopener sponsored"
+                  >
+                    {name}
+                  </a>
+                </div>
+                <span class={`deal-badge ${rating.cls}`}>{rating.label}</span>
+              </div>
+
+              <div class="price-section">
+                <div class="price-block">
+                  <span class="price-label">Current Price</span>
+                  {currentSale !== null ? (
+                    <Fragment>
+                      <span class="price-value sale-price">{formatPrice(currentSale)}</span>
+                      <span class="price-value strike">{formatPrice(currentRegular)}</span>
+                    </Fragment>
+                  ) : (
+                    <span class="price-value">{formatPrice(currentRegular)}</span>
+                  )}
+                </div>
+
+                <div class="price-block">
+                  <span class="price-label">Typical Range</span>
+                  <span class="price-range">
+                    {bundle.typical_sale !== null
+                      ? `${formatPrice(bundle.typical_sale)} – ${formatPrice(bundle.typical_regular)}`
+                      : formatPrice(bundle.typical_regular)
+                    }
+                  </span>
+                  {bundle.all_time_low !== null && (
+                    <span class="price-atl">Lowest tracked: {formatPrice(bundle.all_time_low)}</span>
+                  )}
+                </div>
+              </div>
+
+              {recentHistory.length > 0 && (
+                <div class="history-wrap">
+                  <div class="history-label">Price History</div>
+                  <table class="history-table">
+                    <thead>
+                      <tr>
+                        <th>Date</th>
+                        <th>Regular</th>
+                        <th>Sale</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {recentHistory.map((entry) => (
+                        <tr>
+                          <td>{formatDate(entry.date)}</td>
+                          <td>{entry.regular !== null ? `$${entry.regular}` : <span class="td-none">—</span>}</td>
+                          <td>
+                            {entry.sale !== null
+                              ? <span class="td-sale">${entry.sale}</span>
+                              : <span class="td-none">—</span>
+                            }
+                          </td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              )}
+
+              {bundle.notes && (
+                <p style="font-size:0.78rem;color:var(--text-muted);margin:0.6rem 0 0;line-height:1.5">{bundle.notes}</p>
+              )}
+
+              <div class="cta-row">
+                <a
+                  href={pbLink(bundle.pb_url)}
+                  class="cta-btn"
+                  target="_blank"
+                  rel="noopener sponsored"
+                >
+                  View on Plugin Boutique
+                </a>
+                {currentSale !== null && (
+                  <span class="on-sale-tag">ON SALE NOW</span>
+                )}
+              </div>
+            </div>
+          );
+        })}
+      </div>
+
+      <h2 id="bundles" style="font-size:1.15rem;font-weight:800;margin:0 0 1rem;color:var(--text-primary)">Plugin Bundles</h2>
       <div class="bundle-grid">
         {bundleEntries.map(([name, bundle]) => {
           const latest = bundle.history.at(-1);
