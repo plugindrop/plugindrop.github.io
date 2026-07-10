@@ -1,5 +1,5 @@
 ---
-title: "12 Best Free Strings & Orchestral VST Plugins 2026 (Strings & Orchestral)"
+title: "12 Best Free Strings & Orchestral VST Plugins 2026"
 description: "Spitfire LABS leads our 2026 free strings and orchestral rankings — real orchestra samples, free forever. 12 free strings and orchestral VSTs compared for realism, playability, and CPU load across major DAWs."
 pubDate: "2026-07-10T22:39:54Z"
 tags: ["guide", "vst", "free", "instruments"]
