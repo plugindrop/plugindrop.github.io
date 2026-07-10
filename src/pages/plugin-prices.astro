@@ -35,28 +35,6 @@ const data = priceData as PriceData;
 const { last_updated, bundles } = data;
 const plugins = data.plugins ?? {};
 
-function dealRating(bundle: BundleData): { label: string; cls: string } {
-  const latest = bundle.history.at(-1);
-  if (!latest) return { label: "No Data", cls: "deal-unknown" };
-
-  const currentPrice = latest.sale ?? latest.regular;
-  if (currentPrice === null) return { label: "No Data", cls: "deal-unknown" };
-
-  // On sale and at or below typical sale price
-  if (latest.sale !== null && bundle.typical_sale !== null && latest.sale <= bundle.typical_sale) {
-    return { label: "Great Deal", cls: "deal-great" };
-  }
-  // On sale but above typical sale
-  if (latest.sale !== null) {
-    return { label: "On Sale", cls: "deal-sale" };
-  }
-  // At regular price
-  if (bundle.typical_regular !== null && currentPrice <= bundle.typical_regular) {
-    return { label: "Normal Price", cls: "deal-normal" };
-  }
-  return { label: "Above Typical", cls: "deal-above" };
-}
-
 function formatPrice(val: number | null): string {
   if (val === null) return "—";
   return `$${val}`;
@@ -66,8 +44,83 @@ function formatDate(iso: string): string {
   return iso; // Already YYYY-MM-DD
 }
 
-const bundleEntries = Object.entries(bundles);
-const pluginEntries = Object.entries(plugins);
+function pctOff(sale: number | null, regular: number | null): number {
+  if (sale === null || regular === null || regular <= 0 || sale >= regular) return 0;
+  return Math.round((1 - sale / regular) * 100);
+}
+
+// Builds an SVG polyline points-string from an entry's history (sale price when
+// available, otherwise regular price). Returns null when there isn't enough
+// data to draw an honest trend line.
+function sparklinePoints(history: HistoryEntry[]): string | null {
+  const vals = history.map((h) => h.sale ?? h.regular).filter((v): v is number => v !== null);
+  if (vals.length < 2) return null;
+
+  const min = Math.min(...vals);
+  const max = Math.max(...vals);
+  const range = max - min || 1;
+  const w = 100;
+  const h = 28;
+  const pad = 3;
+  const step = (w - pad * 2) / (vals.length - 1);
+
+  return vals
+    .map((v, i) => {
+      const x = pad + i * step;
+      const y = pad + (h - pad * 2) * (1 - (v - min) / range);
+      return `${x.toFixed(1)},${y.toFixed(1)}`;
+    })
+    .join(' ');
+}
+
+// Finds the date a bundle's recorded all_time_low actually happened, when it
+// matches a logged history entry. Returns null rather than guessing.
+function findLowestDate(bundle: BundleData): string | null {
+  if (bundle.all_time_low === null) return null;
+  const match = bundle.history.find((h) => (h.sale ?? h.regular) === bundle.all_time_low);
+  return match ? match.date : null;
+}
+
+interface Row {
+  name: string;
+  bundle: BundleData;
+  current: number | null;
+  regular: number | null;
+  currentIsSale: boolean;
+  off: number;
+  pts: string | null;
+  lowestDate: string | null;
+}
+
+function buildRow(name: string, bundle: BundleData): Row {
+  const latest = bundle.history.at(-1);
+  const regular = latest?.regular ?? null;
+  const sale = latest?.sale ?? null;
+  return {
+    name,
+    bundle,
+    current: sale ?? regular,
+    regular,
+    currentIsSale: sale !== null,
+    off: pctOff(sale, regular),
+    pts: sparklinePoints(bundle.history),
+    lowestDate: findLowestDate(bundle),
+  };
+}
+
+const pluginRows = Object.entries(plugins)
+  .map(([name, b]) => buildRow(name, b))
+  .sort((a, b) => b.off - a.off);
+
+const bundleRows = Object.entries(bundles)
+  .map(([name, b]) => buildRow(name, b))
+  .sort((a, b) => b.off - a.off);
+
+const allRows = [...pluginRows, ...bundleRows];
+const totalTracked = allRows.length;
+const onSaleCount = allRows.filter(
+  (r) => r.currentIsSale && r.bundle.typical_regular !== null && r.current !== null && r.current < r.bundle.typical_regular
+).length;
 
 const pageLD = {
   "@context": "https://schema.org",
@@ -87,131 +140,109 @@ const pageLD = {
     />
     <script type="application/ld+json" set:html={JSON.stringify(pageLD)} />
     <style>
-      main { max-width: 1000px; margin: 0 auto; padding: 2rem 1rem; }
+      main { max-width: 1100px; margin: 0 auto; padding: 2rem 1rem; }
 
-      .page-header { margin-bottom: 2.5rem; max-width: 720px; }
+      .page-header { margin-bottom: 1.5rem; max-width: 720px; }
       .page-header h1 { font-size: 1.8rem; font-weight: 800; margin: 0 0 0.6rem; line-height: 1.2; }
       .page-header .subtitle { color: var(--text-secondary); font-size: 0.95rem; line-height: 1.6; margin: 0 0 0.4rem; }
       .page-header .meta { font-size: 0.78rem; color: var(--text-muted); }
+      .page-header .meta a { color: var(--accent); }
 
-      /* Bundle grid */
-      .bundle-grid {
-        display: grid;
-        gap: 1.25rem;
+      /* Stat chips */
+      .stats-row { display: flex; flex-wrap: wrap; gap: 0.75rem; margin: 1.25rem 0 2.25rem; }
+      .stat-chip {
+        display: flex; align-items: center; gap: 0.65rem;
+        background: var(--bg-card); border: 1px solid var(--border);
+        padding: 0.6rem 1rem; border-radius: 8px;
+      }
+      .stat-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); flex-shrink: 0; }
+      .stat-dot.sale { background: var(--sale-text); }
+      .stat-label { font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--text-muted); margin: 0 0 0.15rem; }
+      .stat-value {
+        font-size: 0.95rem; font-weight: 800; color: var(--text-primary);
+        font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
       }
 
-      .bundle-card {
-        background: var(--bg-card);
+      h2.section-title {
+        font-size: 1.1rem; font-weight: 800; margin: 0 0 1rem; color: var(--text-primary);
+        padding-top: 0.5rem;
+      }
+
+      /* Ledger table */
+      .ledger-wrap {
+        overflow-x: auto;
         border: 1px solid var(--border);
         border-radius: 10px;
-        padding: 1.25rem 1.5rem;
-        transition: border-color 0.15s;
+        background: var(--bg-card);
+        margin-bottom: 3rem;
+        -webkit-overflow-scrolling: touch;
       }
-      .bundle-card:hover { border-color: var(--accent-muted); }
+      .ledger-table { width: 100%; min-width: 700px; border-collapse: collapse; font-size: 0.85rem; }
+      .ledger-table thead th {
+        text-align: left; padding: 0.65rem 1rem; background: var(--bg-low);
+        color: var(--text-muted); font-size: 0.68rem; text-transform: uppercase;
+        letter-spacing: 0.06em; font-weight: 700; white-space: nowrap;
+        border-bottom: 1px solid var(--border);
+      }
+      .ledger-table tbody tr { border-bottom: 1px solid var(--border-light); transition: background 0.15s; }
+      .ledger-table tbody tr:last-child { border-bottom: none; }
+      .ledger-table tbody tr:nth-child(even) { background: rgba(255, 255, 255, 0.015); }
+      .ledger-table tbody tr:hover { background: var(--bg-card-hover); }
+      .ledger-table tbody tr.is-sale td:first-child { box-shadow: inset 3px 0 0 var(--sale-text); }
+      .ledger-table td { padding: 0.75rem 1rem; vertical-align: middle; color: var(--text-secondary); }
 
-      .card-header {
-        display: flex;
-        align-items: flex-start;
-        justify-content: space-between;
-        gap: 1rem;
-        margin-bottom: 1rem;
-        flex-wrap: wrap;
-      }
-
-      .bundle-name-link {
-        font-size: 1.05rem;
-        font-weight: 700;
-        color: var(--text-primary);
-        text-decoration: none;
-        transition: color 0.15s;
-      }
-      .bundle-name-link:hover { color: var(--accent); }
-
-      /* Deal rating badge */
-      .deal-badge {
-        display: inline-flex;
-        align-items: center;
-        gap: 0.3rem;
-        font-size: 0.75rem;
-        font-weight: 700;
-        padding: 0.25rem 0.65rem;
-        border-radius: 20px;
-        white-space: nowrap;
-        flex-shrink: 0;
-      }
-      .deal-badge::before {
-        content: '';
-        display: block;
-        width: 6px;
-        height: 6px;
-        border-radius: 50%;
-      }
-      .deal-great  { background: rgba(80,200,120,0.15); color: #50c878; }
-      .deal-great::before { background: #50c878; }
-      .deal-sale   { background: rgba(255,200,60,0.12); color: #ffc83c; }
-      .deal-sale::before { background: #ffc83c; }
-      .deal-normal { background: rgba(150,150,180,0.12); color: var(--text-muted); }
-      .deal-normal::before { background: var(--text-muted); }
-      .deal-above  { background: rgba(255,100,80,0.1); color: #ff7060; }
-      .deal-above::before { background: #ff7060; }
-      .deal-unknown { background: rgba(150,150,180,0.1); color: var(--text-muted); }
-      .deal-unknown::before { background: var(--text-muted); }
-
-      /* Price section */
-      .price-section {
-        display: flex;
-        gap: 2rem;
-        flex-wrap: wrap;
-        margin-bottom: 1rem;
+      .mono {
+        font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+        font-variant-numeric: tabular-nums;
       }
 
-      .price-block { display: flex; flex-direction: column; }
-      .price-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted); margin-bottom: 0.2rem; }
-      .price-value { font-size: 1.25rem; font-weight: 800; color: var(--text-primary); font-variant-numeric: tabular-nums; }
-      .price-value.sale-price { color: #50c878; }
-      .price-value.strike { text-decoration: line-through; color: var(--text-muted); font-size: 0.9rem; font-weight: 400; }
-      .price-range { font-size: 0.8rem; color: var(--text-secondary); }
-      .price-atl { font-size: 0.75rem; color: var(--text-muted); margin-top: 0.15rem; }
-
-      /* History table */
-      .history-wrap { margin-top: 0.75rem; overflow-x: auto; }
-      .history-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted); margin-bottom: 0.4rem; }
-      .history-table { width: 100%; border-collapse: collapse; font-size: 0.8rem; font-variant-numeric: tabular-nums; }
-      .history-table th {
-        text-align: left; padding: 0.25rem 0.6rem; color: var(--text-muted);
-        font-size: 0.7rem; border-bottom: 1px solid var(--border); font-weight: 600;
-        white-space: nowrap;
+      .plugin-name-link { font-weight: 700; color: var(--text-primary); font-size: 0.95rem; text-decoration: none; }
+      .plugin-name-link:hover { color: var(--accent); }
+      .plugin-notes {
+        font-size: 0.72rem; color: var(--text-muted); margin-top: 0.2rem;
+        line-height: 1.4; max-width: 300px;
       }
-      .history-table td {
-        padding: 0.3rem 0.6rem; border-bottom: 1px solid rgba(255,255,255,0.04);
-        color: var(--text-secondary); white-space: nowrap;
-      }
-      .history-table tr:last-child td { border-bottom: none; }
-      .td-sale { color: #50c878; font-weight: 600; }
-      .td-none { color: var(--text-muted); }
 
-      /* CTA */
-      .cta-row { margin-top: 1rem; display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; }
-      .cta-btn {
-        display: inline-block; padding: 0.45rem 1.1rem; border-radius: 6px;
+      .price-current { font-size: 1rem; font-weight: 800; color: var(--text-primary); }
+      .price-current.on-sale { color: var(--sale-text); }
+      .price-regular-strike { text-decoration: line-through; color: var(--text-muted); font-weight: 400; }
+
+      .off-badge {
+        display: inline-block; padding: 0.15rem 0.55rem; border-radius: 4px;
+        background: var(--sale-bg); color: var(--sale-text);
+        font-weight: 700; font-size: 0.78rem; white-space: nowrap;
+      }
+      .off-none { color: var(--text-muted); }
+
+      .spark-svg { display: block; }
+      .spark-placeholder { color: var(--text-muted); font-size: 0.85rem; }
+
+      .low-price { font-weight: 700; color: var(--text-primary); }
+      .low-date { font-size: 0.68rem; color: var(--text-muted); margin-top: 0.15rem; }
+      .low-none { font-size: 0.75rem; color: var(--text-muted); font-style: italic; white-space: nowrap; }
+
+      .cta-btn-sm {
+        display: inline-block; padding: 0.4rem 0.85rem; border-radius: 6px;
         background: var(--accent-muted); color: var(--accent-light);
-        text-decoration: none; font-size: 0.85rem; font-weight: 700;
-        transition: background 0.15s;
+        text-decoration: none; font-size: 0.78rem; font-weight: 700; white-space: nowrap;
+        transition: background 0.15s, color 0.15s;
       }
-      .cta-btn:hover { background: var(--accent); color: #000; }
-      .on-sale-tag {
-        font-size: 0.78rem; font-weight: 700; color: #50c878;
-        background: rgba(80,200,120,0.12); padding: 0.25rem 0.6rem; border-radius: 4px;
-      }
+      .cta-btn-sm:hover { background: var(--accent); color: #0b0e0d; }
 
       /* Footer note */
       .footer-note {
-        margin-top: 3rem; padding: 1.25rem 1.5rem;
+        margin-top: 1rem; padding: 1.25rem 1.5rem;
         border-left: 3px solid var(--accent-muted);
         color: var(--text-secondary); font-size: 0.875rem; line-height: 1.7;
       }
       .footer-note p { margin: 0 0 0.4rem; }
       .footer-note p:last-child { margin: 0; }
+
+      @media (max-width: 480px) {
+        .page-header h1 { font-size: 1.5rem; }
+        .stats-row { gap: 0.5rem; }
+        .stat-chip { padding: 0.5rem 0.75rem; }
+      }
     </style>
   </head>
   <body>
@@ -225,221 +256,225 @@ const pageLD = {
           Know the real value before you buy: see typical sale prices, lowest tracked prices, and when to wait.
         </p>
         <p class="meta">
-          Updated: {last_updated} &nbsp;|&nbsp;
-          <a href="#bundles" style="color:var(--accent)">Bundles</a> &nbsp;·&nbsp;
-          <a href="#individual" style="color:var(--accent)">Individual Plugins</a>
+          <a href="#individual">Individual Plugins</a> &nbsp;·&nbsp;
+          <a href="#bundles">Plugin Bundles</a>
         </p>
       </div>
 
-      <h2 id="individual" style="font-size:1.15rem;font-weight:800;margin:0 0 1rem;color:var(--text-primary)">Individual Plugins</h2>
-      <div class="bundle-grid" style="margin-bottom:3rem">
-        {pluginEntries.map(([name, bundle]) => {
-          const latest = bundle.history.at(-1);
-          const currentRegular = latest?.regular ?? null;
-          const currentSale = latest?.sale ?? null;
-          const displayPrice = currentSale ?? currentRegular;
-          const rating = dealRating(bundle);
-          const recentHistory = bundle.history.slice(-4).reverse();
-
-          return (
-            <div class="bundle-card">
-              <div class="card-header">
-                <div>
-                  <a
-                    href={pbLink(bundle.pb_url)}
-                    class="bundle-name-link"
-                    target="_blank"
-                    rel="noopener sponsored"
-                  >
-                    {name}
-                  </a>
-                </div>
-                <span class={`deal-badge ${rating.cls}`}>{rating.label}</span>
-              </div>
-
-              <div class="price-section">
-                <div class="price-block">
-                  <span class="price-label">Current Price</span>
-                  {currentSale !== null ? (
-                    <Fragment>
-                      <span class="price-value sale-price">{formatPrice(currentSale)}</span>
-                      <span class="price-value strike">{formatPrice(currentRegular)}</span>
-                    </Fragment>
-                  ) : (
-                    <span class="price-value">{formatPrice(currentRegular)}</span>
-                  )}
-                </div>
-
-                <div class="price-block">
-                  <span class="price-label">Typical Range</span>
-                  <span class="price-range">
-                    {bundle.typical_sale !== null
-                      ? `${formatPrice(bundle.typical_sale)} – ${formatPrice(bundle.typical_regular)}`
-                      : formatPrice(bundle.typical_regular)
-                    }
-                  </span>
-                  {bundle.all_time_low !== null && (
-                    <span class="price-atl">Lowest tracked: {formatPrice(bundle.all_time_low)}</span>
-                  )}
-                </div>
-              </div>
-
-              {recentHistory.length > 0 && (
-                <div class="history-wrap">
-                  <div class="history-label">Price History</div>
-                  <table class="history-table">
-                    <thead>
-                      <tr>
-                        <th>Date</th>
-                        <th>Regular</th>
-                        <th>Sale</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      {recentHistory.map((entry) => (
-                        <tr>
-                          <td>{formatDate(entry.date)}</td>
-                          <td>{entry.regular !== null ? `$${entry.regular}` : <span class="td-none">—</span>}</td>
-                          <td>
-                            {entry.sale !== null
-                              ? <span class="td-sale">${entry.sale}</span>
-                              : <span class="td-none">—</span>
-                            }
-                          </td>
-                        </tr>
-                      ))}
-                    </tbody>
-                  </table>
-                </div>
-              )}
-
-              {bundle.notes && (
-                <p style="font-size:0.78rem;color:var(--text-muted);margin:0.6rem 0 0;line-height:1.5">{bundle.notes}</p>
-              )}
-
-              <div class="cta-row">
-                <a
-                  href={pbLink(bundle.pb_url)}
-                  class="cta-btn"
-                  target="_blank"
-                  rel="noopener sponsored"
-                >
-                  View on Plugin Boutique
-                </a>
-                {currentSale !== null && (
-                  <span class="on-sale-tag">ON SALE NOW</span>
-                )}
-              </div>
-            </div>
-          );
-        })}
+      <div class="stats-row">
+        <div class="stat-chip">
+          <span class="stat-dot"></span>
+          <div>
+            <p class="stat-label">Plugins Tracked</p>
+            <p class="stat-value">{totalTracked}</p>
+          </div>
+        </div>
+        <div class="stat-chip">
+          <span class="stat-dot sale"></span>
+          <div>
+            <p class="stat-label">On Sale Now</p>
+            <p class="stat-value">{onSaleCount}</p>
+          </div>
+        </div>
+        <div class="stat-chip">
+          <span class="stat-dot"></span>
+          <div>
+            <p class="stat-label">Last Checked</p>
+            <p class="stat-value">{last_updated}</p>
+          </div>
+        </div>
       </div>
 
-      <h2 id="bundles" style="font-size:1.15rem;font-weight:800;margin:0 0 1rem;color:var(--text-primary)">Plugin Bundles</h2>
-      <div class="bundle-grid">
-        {bundleEntries.map(([name, bundle]) => {
-          const latest = bundle.history.at(-1);
-          const currentRegular = latest?.regular ?? null;
-          const currentSale = latest?.sale ?? null;
-          const displayPrice = currentSale ?? currentRegular;
-          const rating = dealRating(bundle);
-          const recentHistory = bundle.history.slice(-4).reverse();
-
-          return (
-            <div class="bundle-card">
-              <div class="card-header">
-                <div>
+      <h2 id="individual" class="section-title">Individual Plugins</h2>
+      <div class="ledger-wrap">
+        <table class="ledger-table">
+          <thead>
+            <tr>
+              <th>Plugin</th>
+              <th>Current</th>
+              <th>Regular</th>
+              <th>% Off</th>
+              <th>Trend</th>
+              <th>Lowest Tracked</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody>
+            {pluginRows.map((row) => (
+              <tr class={row.currentIsSale ? 'ledger-row is-sale' : 'ledger-row'}>
+                <td>
                   <a
-                    href={pbLink(bundle.pb_url)}
-                    class="bundle-name-link"
+                    href={pbLink(row.bundle.pb_url)}
+                    class="plugin-name-link"
                     target="_blank"
                     rel="noopener sponsored"
                   >
-                    {name}
+                    {row.name}
                   </a>
-                </div>
-                <span class={`deal-badge ${rating.cls}`}>{rating.label}</span>
-              </div>
-
-              <div class="price-section">
-                <div class="price-block">
-                  <span class="price-label">Current Price</span>
-                  {currentSale !== null ? (
-                    <Fragment>
-                      <span class="price-value sale-price">{formatPrice(currentSale)}</span>
-                      <span class="price-value strike">{formatPrice(currentRegular)}</span>
-                    </Fragment>
-                  ) : (
-                    <span class="price-value">{formatPrice(currentRegular)}</span>
-                  )}
-                </div>
-
-                <div class="price-block">
-                  <span class="price-label">Typical Range</span>
-                  <span class="price-range">
-                    {bundle.typical_sale !== null
-                      ? `${formatPrice(bundle.typical_sale)} – ${formatPrice(bundle.typical_regular)}`
-                      : formatPrice(bundle.typical_regular)
-                    }
+                  {row.bundle.notes && <div class="plugin-notes">{row.bundle.notes}</div>}
+                </td>
+                <td class="mono">
+                  <span class={row.currentIsSale ? 'price-current on-sale' : 'price-current'}>
+                    {formatPrice(row.current)}
                   </span>
-                  {bundle.all_time_low !== null && (
-                    <span class="price-atl">Lowest tracked: {formatPrice(bundle.all_time_low)}</span>
+                </td>
+                <td class="mono">
+                  {row.currentIsSale ? (
+                    <span class="price-regular-strike">{formatPrice(row.regular)}</span>
+                  ) : (
+                    <span>{formatPrice(row.regular)}</span>
                   )}
-                </div>
-              </div>
+                </td>
+                <td>
+                  {row.off > 0 ? <span class="off-badge">-{row.off}%</span> : <span class="off-none">—</span>}
+                </td>
+                <td>
+                  {row.pts ? (
+                    <svg
+                      class="spark-svg"
+                      width="72"
+                      height="26"
+                      viewBox="0 0 100 28"
+                      preserveAspectRatio="none"
+                      aria-hidden="true"
+                    >
+                      <polyline
+                        points={row.pts}
+                        fill="none"
+                        stroke={row.currentIsSale ? 'var(--sale-text)' : 'var(--accent)'}
+                        stroke-width="2"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      />
+                    </svg>
+                  ) : (
+                    <span class="spark-placeholder">—</span>
+                  )}
+                </td>
+                <td>
+                  {row.bundle.all_time_low !== null ? (
+                    <>
+                      <div class="mono low-price">{formatPrice(row.bundle.all_time_low)}</div>
+                      {row.lowestDate && <div class="low-date">{formatDate(row.lowestDate)}</div>}
+                    </>
+                  ) : (
+                    <span class="low-none">tracking since 2026</span>
+                  )}
+                </td>
+                <td>
+                  <a
+                    href={pbLink(row.bundle.pb_url)}
+                    class="cta-btn-sm"
+                    target="_blank"
+                    rel="noopener sponsored"
+                  >
+                    Get deal
+                  </a>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
 
-              {recentHistory.length > 0 && (
-                <div class="history-wrap">
-                  <div class="history-label">Recent Price History</div>
-                  <table class="history-table">
-                    <thead>
-                      <tr>
-                        <th>Date</th>
-                        <th>Regular</th>
-                        <th>Sale</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      {recentHistory.map((entry) => (
-                        <tr>
-                          <td>{formatDate(entry.date)}</td>
-                          <td>{entry.regular !== null ? `$${entry.regular}` : <span class="td-none">—</span>}</td>
-                          <td>
-                            {entry.sale !== null
-                              ? <span class="td-sale">${entry.sale}</span>
-                              : <span class="td-none">—</span>
-                            }
-                          </td>
-                        </tr>
-                      ))}
-                    </tbody>
-                  </table>
-                </div>
-              )}
-
-              <div class="cta-row">
-                <a
-                  href={pbLink(bundle.pb_url)}
-                  class="cta-btn"
-                  target="_blank"
-                  rel="noopener sponsored"
-                >
-                  View on Plugin Boutique
-                </a>
-                {currentSale !== null && (
-                  <span class="on-sale-tag">ON SALE NOW</span>
-                )}
-              </div>
-            </div>
-          );
-        })}
+      <h2 id="bundles" class="section-title">Plugin Bundles</h2>
+      <div class="ledger-wrap">
+        <table class="ledger-table">
+          <thead>
+            <tr>
+              <th>Bundle</th>
+              <th>Current</th>
+              <th>Regular</th>
+              <th>% Off</th>
+              <th>Trend</th>
+              <th>Lowest Tracked</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody>
+            {bundleRows.map((row) => (
+              <tr class={row.currentIsSale ? 'ledger-row is-sale' : 'ledger-row'}>
+                <td>
+                  <a
+                    href={pbLink(row.bundle.pb_url)}
+                    class="plugin-name-link"
+                    target="_blank"
+                    rel="noopener sponsored"
+                  >
+                    {row.name}
+                  </a>
+                  {row.bundle.notes && <div class="plugin-notes">{row.bundle.notes}</div>}
+                </td>
+                <td class="mono">
+                  <span class={row.currentIsSale ? 'price-current on-sale' : 'price-current'}>
+                    {formatPrice(row.current)}
+                  </span>
+                </td>
+                <td class="mono">
+                  {row.currentIsSale ? (
+                    <span class="price-regular-strike">{formatPrice(row.regular)}</span>
+                  ) : (
+                    <span>{formatPrice(row.regular)}</span>
+                  )}
+                </td>
+                <td>
+                  {row.off > 0 ? <span class="off-badge">-{row.off}%</span> : <span class="off-none">—</span>}
+                </td>
+                <td>
+                  {row.pts ? (
+                    <svg
+                      class="spark-svg"
+                      width="72"
+                      height="26"
+                      viewBox="0 0 100 28"
+                      preserveAspectRatio="none"
+                      aria-hidden="true"
+                    >
+                      <polyline
+                        points={row.pts}
+                        fill="none"
+                        stroke={row.currentIsSale ? 'var(--sale-text)' : 'var(--accent)'}
+                        stroke-width="2"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      />
+                    </svg>
+                  ) : (
+                    <span class="spark-placeholder">—</span>
+                  )}
+                </td>
+                <td>
+                  {row.bundle.all_time_low !== null ? (
+                    <>
+                      <div class="mono low-price">{formatPrice(row.bundle.all_time_low)}</div>
+                      {row.lowestDate && <div class="low-date">{formatDate(row.lowestDate)}</div>}
+                    </>
+                  ) : (
+                    <span class="low-none">tracking since 2026</span>
+                  )}
+                </td>
+                <td>
+                  <a
+                    href={pbLink(row.bundle.pb_url)}
+                    class="cta-btn-sm"
+                    target="_blank"
+                    rel="noopener sponsored"
+                  >
+                    Get deal
+                  </a>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
       </div>
 
       <div class="footer-note">
         <p>
           <strong>How this works:</strong> Prices are checked weekly via Plugin Boutique and logged automatically.
-          "Typical range" shows the normal price and the most common sale price based on historical observations.
-          "Lowest tracked" is the lowest price we have recorded since we began tracking in 2026 — not a guaranteed historical minimum.
+          "Regular" and "Current" reflect the most recent check. "Lowest tracked" is the lowest price we have
+          recorded since we began tracking in 2026 — not a guaranteed historical minimum. Rows sorted by biggest
+          current discount first.
         </p>
         <p>
           Prices change frequently — Plugin Boutique runs flash sales, anniversary promotions, and manufacturer-specific events throughout the year.
