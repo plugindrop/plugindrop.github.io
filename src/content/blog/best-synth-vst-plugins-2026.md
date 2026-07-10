@@ -123,6 +123,25 @@ Helm is the predecessor to Vital — a subtractive and FM hybrid synthesizer tha
 
 ---
 
+### Dexed — Free FM Synthesis and Full DX7 Compatibility
+
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WBPF_D9NBcU" title="Dexed — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+- **Developer:** Digital Suburban
+- **Price:** Free
+- **Platforms:** Windows, macOS, Linux
+- **Formats:** VST3, AU, AAX, LV2, Standalone
+
+Dexed is a faithful emulation of the Yamaha DX7 — the six-operator FM synthesizer behind the electric pianos, metallic basses, and bell tones that defined 80s and 90s records. It reads original DX7 SysEx patch files, so thousands of real hardware presets spanning four decades of programming load straight in, and the six-operator engine is complete rather than a simplified subset. Every wavetable and analog synth above generates sound a different way; Dexed is the one free instrument on this list that covers FM territory properly.
+
+FM programming has a deserved reputation for being unintuitive, and Dexed doesn’t hide that — building a patch from scratch means thinking in operators, algorithms, and modulation ratios, a steeper conceptual jump than turning a filter cutoff. The payoff is that full SysEx compatibility means you rarely have to start from a blank patch.
+
+**Best for:** FM synthesis, DX7 patch compatibility, electric piano tones, and metallic or bell textures in lo-fi, funk, and future bass.
+
+[→ Download Dexed Free](https://asb2m10.github.io/dexed/)
+
+---
+
 ## Mid-Range Synthesizers ($50–$150) — Where Features Get Serious
 
 ### Phase Plant — The Most Flexible Synth Under $100
@@ -415,6 +434,10 @@ For most producers, the shortlist is Vital (free, best overall value), Serum ($1
 ### What is the best free synth VST plugin in 2026?
 
 Vital. It's a full-featured wavetable synthesizer with spectral warping and visual modulation, and its free tier isn't a crippled demo — it's the complete synthesis engine. Surge XT is the best free option if you want deeper, more experimental modulation routing instead of wavetable-focused sound design.
+
+### What’s the best free synth VST for FM synthesis?
+
+Dexed. It’s a faithful Yamaha DX7 emulation with a complete six-operator engine and full SysEx patch compatibility, so decades of real hardware presets load directly. For pure FM sounds — electric pianos, bells, metallic basses — no other free instrument on this list matches it, and it runs in VST3, AU, and AAX for Pro Tools users.
 
 ### Is Serum still worth buying in 2026 with so many good free synths?
 
