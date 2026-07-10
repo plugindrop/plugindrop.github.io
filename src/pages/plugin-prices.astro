@@ -7,7 +7,7 @@ import priceData from '../data/price_history.json';
 
 const AFF = "a_aid=69cb95abe1763";
 const pbLink = (path: string) =>
-  `https://www.pluginboutique.com${path}?${AFF}`;
+  path && path.startsWith('http') ? path : `https://www.pluginboutique.com${path}?${AFF}`;
 
 interface HistoryEntry {
   date: string;

@@ -1,14 +1,15 @@
 ---
-// NewsletterForm.astro - Resend経由メール登録フォーム（リードマグネット付き）
-// フッターに埋め込む。登録特典としてFree Plugin Guideを訴求。
+// NewsletterForm.astro - Resend経由メール登録フォーム
+// フッター + evergreenガイド記事本文（BlogPost.astro isEvergreen）に埋め込む。
+// 価格ドロップアラート訴求（generic "weekly deals" から変更・2026-07 CRO改善）。
 ---
 
 <div class="newsletter-wrap">
   <div class="nl-magnet">
-    <span class="nl-gift">🎁</span>
+    <span class="nl-gift">🔔</span>
     <div class="nl-magnet-text">
-      <p class="nl-headline">Get the <strong>Free VST Plugin Guide 2026</strong></p>
-      <p class="nl-sub">50+ curated free plugins by category — plus weekly deals every Tuesday.</p>
+      <p class="nl-headline"><strong>Price-drop alerts</strong></p>
+      <p class="nl-sub">We track 200+ plugins daily. Get one email when something you want hits its lowest price.</p>
     </div>
   </div>
   <form class="nl-form" id="nl-form" novalidate>
@@ -23,7 +24,7 @@
       class="nl-input"
       aria-describedby="nl-msg"
     />
-    <button type="submit" class="nl-btn" id="nl-btn">Get Free Guide</button>
+    <button type="submit" class="nl-btn" id="nl-btn">Get Alerts</button>
   </form>
   <p class="nl-msg" id="nl-msg" aria-live="polite"></p>
   <p class="nl-fine">No spam. Unsubscribe anytime.</p>
