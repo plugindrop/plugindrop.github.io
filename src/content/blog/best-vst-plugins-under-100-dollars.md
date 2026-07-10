@@ -223,7 +223,7 @@ Decapitator models five hardware drive and saturation units across its A–E Sty
 
 **Best for:** Adding warmth and harmonic density to digital sources, parallel drum saturation, making synthesizers feel more organic and three-dimensional
 
-[→ Get Soundtoys Decapitator on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763)
+[→ Get Soundtoys Decapitator on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%20Decapitator&a_aid=69cb95abe1763)
 
 ---
 

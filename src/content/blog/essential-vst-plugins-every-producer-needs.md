@@ -344,7 +344,7 @@ Ozone 12's Master Assistant analyzes your track and builds a starting mastering 
 - **Price:** Check Plugin Boutique for current bundle pricing
 - **Why upgrade:** The SSL E-Channel alone is a strong entry point into the Waves ecosystem, but the Platinum Bundle adds H-Comp, CLA-76, Renaissance Compressor, Kramer Master Tape, and dozens of additional classic emulations — covering hardware character types that a single channel strip can't provide.
 
-[→ Get Waves Platinum Bundle on Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/5781-Waves-Platinum?a_aid=69cb95abe1763)
+[→ Get Waves Platinum Bundle on Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/12542-Platinum-Bundle?a_aid=69cb95abe1763)
 
 ---
 

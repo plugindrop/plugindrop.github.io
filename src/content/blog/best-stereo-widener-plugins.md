@@ -262,15 +262,15 @@ If MicroShift feels too saturated or vintage for a production, MicroPitch offers
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Wider (Polyverse) | Free | M/S Widener | Mono-safe, single-knob, zero artifacts | [Free Download](https://polyversemusic.com/products/wider/) |
-| iZotope Ozone Imager 2 | Free | Multi-band Imager | Lissajous display, frequency-selective, mono meter | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/5781-Waves-Platinum?a_aid=69cb95abe1763) |
+| iZotope Ozone Imager 2 | Free | Multi-band Imager | Lissajous display, frequency-selective, mono meter | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/12542-Platinum-Bundle?a_aid=69cb95abe1763) |
 | Voxengo MSED | Free | M/S Utility | M/S encode/decode, use any plugin in M/S domain | [Free Download](https://www.voxengo.com/product/msed/) |
 | MeldaProduction MStereoExpander | Free | Stereo Expander | Multi-control, bass mono protection | [Free Download](https://www.meldaproduction.com/MStereoExpander) |
-| Waves S1 Stereo Imager | ~$29 | M/S Imager | Shuffler + widener modes, industry-proven | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/5781-Waves-Platinum?a_aid=69cb95abe1763) |
-| Brainworx bx_stereomaker | ~$49 | Mono-to-Stereo | Clean mono-to-stereo conversion, artifact-free | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/5781-Waves-Platinum?a_aid=69cb95abe1763) |
-| Soundtoys MicroShift | ~$99 | ADT Widener | Vintage pitch-shift character, 3 style modes | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/5781-Waves-Platinum?a_aid=69cb95abe1763) |
-| Waves Center | ~$29 | Stereo Control | Independent center/sides volume and punch | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/5781-Waves-Platinum?a_aid=69cb95abe1763) |
-| Nugen Audio Stereoizer | ~$99 | Mastering Imager | Frequency-selective, mastering-grade transparency | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/5781-Waves-Platinum?a_aid=69cb95abe1763) |
-| Eventide MicroPitch | ~$99 | Pitch Widener | Modern pitch-shift width, modulation controls | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/5781-Waves-Platinum?a_aid=69cb95abe1763) |
+| Waves S1 Stereo Imager | ~$29 | M/S Imager | Shuffler + widener modes, industry-proven | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/12542-Platinum-Bundle?a_aid=69cb95abe1763) |
+| Brainworx bx_stereomaker | ~$49 | Mono-to-Stereo | Clean mono-to-stereo conversion, artifact-free | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/12542-Platinum-Bundle?a_aid=69cb95abe1763) |
+| Soundtoys MicroShift | ~$99 | ADT Widener | Vintage pitch-shift character, 3 style modes | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/12542-Platinum-Bundle?a_aid=69cb95abe1763) |
+| Waves Center | ~$29 | Stereo Control | Independent center/sides volume and punch | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/12542-Platinum-Bundle?a_aid=69cb95abe1763) |
+| Nugen Audio Stereoizer | ~$99 | Mastering Imager | Frequency-selective, mastering-grade transparency | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/12542-Platinum-Bundle?a_aid=69cb95abe1763) |
+| Eventide MicroPitch | ~$99 | Pitch Widener | Modern pitch-shift width, modulation controls | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/12542-Platinum-Bundle?a_aid=69cb95abe1763) |
 
 ---
 

@@ -130,7 +130,7 @@ In 2026, the plugin landscape covers all of these requirements at multiple price
 
 **Best for:** Techno producers who want controlled analog-style saturation and distortion on synthesizers and drum channels, from subtle warmth to aggressive industrial character.
 
-[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763)
+[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys%20Decapitator&a_aid=69cb95abe1763)
 
 ---
 

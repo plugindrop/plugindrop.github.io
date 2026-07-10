@@ -38,7 +38,7 @@ relatedPosts:
 > **Buying tip:** Waves' 'regular price' is essentially fiction — they've run perpetual sales for over a decade. If you see a Waves plugin at its listed MSRP, just wait 3-7 days. A sale will appear. Plugin Boutique also stocks Waves and matches their flash sale prices.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/5781-Waves-Platinum?a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/12542-Platinum-Bundle?a_aid=69cb95abe1763)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 

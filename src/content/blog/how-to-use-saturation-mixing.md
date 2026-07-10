@@ -83,7 +83,7 @@ The Tone control is the most important setting after Style: it shifts the harmon
 
 **Per-style recommendations:** Style A (Ampex) for warm tape character on full buses. Style N for transformer-like density on drums. Style T for aggressive, upper-harmonic presence on synths and guitars. Mix knob at 40–60% for parallel blend without external routing.
 
-[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763)
+[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys%20Decapitator&a_aid=69cb95abe1763)
 
 ---
 
@@ -150,7 +150,7 @@ Saturation is the missing ingredient in many digital mixes that have technically
 
 Start with Klanghelm IVGI free on bass and drums to understand the effect before buying anything. When you need character-driven analog emulation, Soundtoys Decapitator's five circuit modes are the community's benchmark for that use case. For surgical, multiband control over where saturation is applied in the frequency spectrum, FabFilter Saturn 2 is the most capable option available.
 
-[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763)
+[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys%20Decapitator&a_aid=69cb95abe1763)
 
 ---
 
