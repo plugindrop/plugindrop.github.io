@@ -22,6 +22,7 @@ interface BundleData {
   typical_sale: number | null;
   all_time_low: number | null;
   notes?: string;
+  category?: string;
   history: HistoryEntry[];
 }
 
@@ -47,6 +48,52 @@ function formatDate(iso: string): string {
 function pctOff(sale: number | null, regular: number | null): number {
   if (sale === null || regular === null || regular <= 0 || sale >= regular) return 0;
   return Math.round((1 - sale / regular) * 100);
+}
+
+// Slug used for per-product pages: /plugin-prices/{slug}/
+function slugify(name: string): string {
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+const CATEGORIES = [
+  'All', 'Synth', 'EQ', 'Compressor', 'Reverb', 'Saturation', 'Mastering',
+  'Limiter', 'Instrument', 'Drums', 'Vocal', 'Bundle', 'Effects', 'Utility',
+];
+
+// Infers a category tag from the entry's own `category` field when present,
+// otherwise from keyword matches against its name, notes and PB catalog URL
+// (which often carries a real category segment, e.g. "/16-EQ/", "/4-Synth/").
+// Falls back to "Bundle" for bundle-section rows or "Effects" otherwise —
+// never guesses more specifically than the data supports.
+function inferCategory(name: string, notes: string | undefined, pbUrl: string, isBundleSection: boolean): string {
+  const haystack = `${name} ${notes ?? ''} ${pbUrl}`.toLowerCase();
+
+  // A handful of well-known naming conventions in this niche (FabFilter's
+  // Pro-X product codes, well-known synth names) that plain keywords miss.
+  if (/\bpro-r\b/.test(haystack)) return 'Reverb';
+  if (/\bpro-c\b/.test(haystack)) return 'Compressor';
+  if (/\bpro-l\b/.test(haystack)) return 'Limiter';
+  if (/\bpro-mb\b/.test(haystack)) return 'Compressor';
+  if (/\bpro-ds\b/.test(haystack)) return 'Vocal';
+  if (/\b(serum|omnisphere|nexus|sylenth1?|vital)\b/.test(haystack)) return 'Synth';
+
+  if (/\breverb\b/.test(haystack)) return 'Reverb';
+  if (/\beq\b/.test(haystack)) return 'EQ';
+  if (/\bcomp(?:ressor)?\b/.test(haystack)) return 'Compressor';
+  if (/synth/.test(haystack)) return 'Synth';
+  if (/tape|saturat/.test(haystack)) return 'Saturation';
+  if (/master|ozone/.test(haystack)) return 'Mastering';
+  if (/\blimit(?:er)?\b/.test(haystack)) return 'Limiter';
+  if (/drum/.test(haystack)) return 'Drums';
+  if (/tune|vocal|melodyne/.test(haystack)) return 'Vocal';
+  if (/bundle|collection/.test(haystack)) return 'Bundle';
+  if (/instrument|orchestral|piano|guitar|\borgan\b|strings|choir|brass/.test(haystack)) return 'Instrument';
+  if (/utility|\bmeter\b|analy[sz]|loudness/.test(haystack)) return 'Utility';
+
+  return isBundleSection ? 'Bundle' : 'Effects';
 }
 
 // Builds an SVG polyline points-string from an entry's history (sale price when
@@ -83,6 +130,8 @@ function findLowestDate(bundle: BundleData): string | null {
 
 interface Row {
   name: string;
+  slug: string;
+  category: string;
   bundle: BundleData;
   current: number | null;
   regular: number | null;
@@ -90,14 +139,17 @@ interface Row {
   off: number;
   pts: string | null;
   lowestDate: string | null;
+  searchText: string;
 }
 
-function buildRow(name: string, bundle: BundleData): Row {
+function buildRow(name: string, bundle: BundleData, isBundleSection: boolean): Row {
   const latest = bundle.history.at(-1);
   const regular = latest?.regular ?? null;
   const sale = latest?.sale ?? null;
   return {
     name,
+    slug: slugify(name),
+    category: bundle.category ?? inferCategory(name, bundle.notes, bundle.pb_url, isBundleSection),
     bundle,
     current: sale ?? regular,
     regular,
@@ -105,15 +157,16 @@ function buildRow(name: string, bundle: BundleData): Row {
     off: pctOff(sale, regular),
     pts: sparklinePoints(bundle.history),
     lowestDate: findLowestDate(bundle),
+    searchText: `${name} ${bundle.notes ?? ''}`.toLowerCase(),
   };
 }
 
 const pluginRows = Object.entries(plugins)
-  .map(([name, b]) => buildRow(name, b))
+  .map(([name, b]) => buildRow(name, b, false))
   .sort((a, b) => b.off - a.off);
 
 const bundleRows = Object.entries(bundles)
-  .map(([name, b]) => buildRow(name, b))
+  .map(([name, b]) => buildRow(name, b, true))
   .sort((a, b) => b.off - a.off);
 
 const allRows = [...pluginRows, ...bundleRows];
@@ -168,6 +221,44 @@ const pageLD = {
         padding-top: 0.5rem;
       }
 
+      /* Toolbar: search + category chips */
+      .tracker-toolbar {
+        position: sticky;
+        top: 0;
+        z-index: 5;
+        background: var(--bg-base);
+        padding: 0.85rem 0 1rem;
+        margin: 0 0 1.75rem;
+        border-bottom: 1px solid var(--border);
+      }
+      .search-wrap {
+        display: flex; align-items: center; gap: 0.85rem; flex-wrap: wrap;
+        margin-bottom: 0.85rem;
+      }
+      .search-input {
+        flex: 1 1 260px; min-width: 200px;
+        background: var(--bg-card); border: 1px solid var(--border); color: var(--text-primary);
+        padding: 0.55rem 0.9rem; border-radius: 8px; font-size: 0.9rem; font-family: inherit;
+      }
+      .search-input::placeholder { color: var(--text-muted); }
+      .search-input:focus { outline: none; border-color: var(--accent-border-hover); }
+      .search-count { font-size: 0.75rem; color: var(--text-muted); white-space: nowrap; }
+
+      .chip-row { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+      .chip {
+        padding: 0.35rem 0.85rem; border-radius: 999px;
+        border: 1px solid var(--border); background: var(--bg-card);
+        color: var(--text-secondary); font-size: 0.78rem; font-weight: 600;
+        cursor: pointer; transition: background 0.15s, border-color 0.15s, color 0.15s;
+        white-space: nowrap; font-family: inherit;
+      }
+      .chip:hover { border-color: var(--accent-border-hover); color: var(--text-primary); }
+      .chip.active { background: var(--accent-muted); border-color: var(--accent); color: var(--accent-light); }
+
+      @media (max-width: 640px) {
+        .tracker-toolbar { position: static; }
+      }
+
       /* Ledger table */
       .ledger-wrap {
         overflow-x: auto;
@@ -183,6 +274,18 @@ const pageLD = {
         color: var(--text-muted); font-size: 0.68rem; text-transform: uppercase;
         letter-spacing: 0.06em; font-weight: 700; white-space: nowrap;
         border-bottom: 1px solid var(--border);
+      }
+      .ledger-table thead th[data-sort] { cursor: pointer; user-select: none; }
+      .ledger-table thead th[data-sort]:hover { color: var(--text-secondary); }
+      .ledger-table thead th[data-sort]::after {
+        content: '\2195'; display: inline-block; margin-left: 0.35em; opacity: 0.35; font-size: 0.85em;
+      }
+      .ledger-table thead th[data-sort].sorted-asc::after { content: '\2191'; opacity: 1; color: var(--accent); }
+      .ledger-table thead th[data-sort].sorted-desc::after { content: '\2193'; opacity: 1; color: var(--accent); }
+
+      .no-results-row td {
+        text-align: center; padding: 2rem 1rem; color: var(--text-muted);
+        font-size: 0.9rem; font-style: italic;
       }
       .ledger-table tbody tr { border-bottom: 1px solid var(--border-light); transition: background 0.15s; }
       .ledger-table tbody tr:last-child { border-bottom: none; }
@@ -201,6 +304,11 @@ const pageLD = {
       .plugin-notes {
         font-size: 0.72rem; color: var(--text-muted); margin-top: 0.2rem;
         line-height: 1.4; max-width: 300px;
+      }
+      .cat-tag {
+        display: inline-block; margin-top: 0.35rem; padding: 0.1rem 0.5rem; border-radius: 4px;
+        background: var(--tag-bg); color: var(--tag-text); font-size: 0.64rem; font-weight: 700;
+        text-transform: uppercase; letter-spacing: 0.05em;
       }
 
       .price-current { font-size: 1rem; font-weight: 800; color: var(--text-primary); }
@@ -285,33 +393,65 @@ const pageLD = {
         </div>
       </div>
 
+      <div class="tracker-toolbar">
+        <div class="search-wrap">
+          <input
+            type="search"
+            id="plugin-search"
+            class="search-input"
+            placeholder="Search plugins, developers, notes…"
+            aria-label="Search tracked plugins"
+            autocomplete="off"
+          />
+          <span class="search-count" id="search-count">Showing {totalTracked} of {totalTracked}</span>
+        </div>
+        <div class="chip-row" id="category-chips" role="group" aria-label="Filter by category">
+          {CATEGORIES.map((cat) => (
+            <button
+              type="button"
+              class={cat === 'All' ? 'chip active' : 'chip'}
+              data-cat={cat}
+            >
+              {cat}
+            </button>
+          ))}
+        </div>
+      </div>
+
       <h2 id="individual" class="section-title">Individual Plugins</h2>
       <div class="ledger-wrap">
         <table class="ledger-table">
           <thead>
             <tr>
-              <th>Plugin</th>
-              <th>Current</th>
+              <th data-sort="name">Plugin</th>
+              <th data-sort="price">Current</th>
               <th>Regular</th>
-              <th>% Off</th>
+              <th data-sort="off" data-dir="desc" class="sorted-desc">% Off</th>
               <th>Trend</th>
-              <th>Lowest Tracked</th>
+              <th data-sort="low">Lowest Tracked</th>
               <th></th>
             </tr>
           </thead>
           <tbody>
             {pluginRows.map((row) => (
-              <tr class={row.currentIsSale ? 'ledger-row is-sale' : 'ledger-row'}>
+              <tr
+                class={row.currentIsSale ? 'ledger-row is-sale' : 'ledger-row'}
+                data-category={row.category}
+                data-search={row.searchText}
+                data-name={row.name.toLowerCase()}
+                data-price={row.current ?? ''}
+                data-off={row.off}
+                data-low={row.bundle.all_time_low ?? ''}
+              >
                 <td>
                   <a
-                    href={pbLink(row.bundle.pb_url)}
+                    href={`/plugin-prices/${row.slug}/`}
                     class="plugin-name-link"
-                    target="_blank"
-                    rel="noopener sponsored"
                   >
                     {row.name}
                   </a>
                   {row.bundle.notes && <div class="plugin-notes">{row.bundle.notes}</div>}
+                  <div class="cat-tag">{row.category}</div>
                 </td>
                 <td class="mono">
                   <span class={row.currentIsSale ? 'price-current on-sale' : 'price-current'}>
@@ -373,6 +513,9 @@ const pageLD = {
                 </td>
               </tr>
             ))}
+            <tr class="no-results-row" style="display: none;">
+              <td colspan="7">No plugins match — try another search or category.</td>
+            </tr>
           </tbody>
         </table>
       </div>
@@ -382,28 +525,35 @@ const pageLD = {
         <table class="ledger-table">
           <thead>
             <tr>
-              <th>Bundle</th>
-              <th>Current</th>
+              <th data-sort="name">Bundle</th>
+              <th data-sort="price">Current</th>
               <th>Regular</th>
-              <th>% Off</th>
+              <th data-sort="off" data-dir="desc" class="sorted-desc">% Off</th>
               <th>Trend</th>
-              <th>Lowest Tracked</th>
+              <th data-sort="low">Lowest Tracked</th>
               <th></th>
             </tr>
           </thead>
           <tbody>
             {bundleRows.map((row) => (
-              <tr class={row.currentIsSale ? 'ledger-row is-sale' : 'ledger-row'}>
+              <tr
+                class={row.currentIsSale ? 'ledger-row is-sale' : 'ledger-row'}
+                data-category={row.category}
+                data-search={row.searchText}
+                data-name={row.name.toLowerCase()}
+                data-price={row.current ?? ''}
+                data-off={row.off}
+                data-low={row.bundle.all_time_low ?? ''}
+              >
                 <td>
                   <a
-                    href={pbLink(row.bundle.pb_url)}
+                    href={`/plugin-prices/${row.slug}/`}
                     class="plugin-name-link"
-                    target="_blank"
-                    rel="noopener sponsored"
                   >
                     {row.name}
                   </a>
                   {row.bundle.notes && <div class="plugin-notes">{row.bundle.notes}</div>}
+                  <div class="cat-tag">{row.category}</div>
                 </td>
                 <td class="mono">
                   <span class={row.currentIsSale ? 'price-current on-sale' : 'price-current'}>
@@ -465,6 +615,9 @@ const pageLD = {
                 </td>
               </tr>
             ))}
+            <tr class="no-results-row" style="display: none;">
+              <td colspan="7">No plugins match — try another search or category.</td>
+            </tr>
           </tbody>
         </table>
       </div>
@@ -488,5 +641,122 @@ const pageLD = {
       </div>
     </main>
     <Footer />
+    <script>
+      (function () {
+        const searchInput = document.getElementById('plugin-search');
+        const countLabel = document.getElementById('search-count');
+        const chipRow = document.getElementById('category-chips');
+        const tables = Array.from(document.querySelectorAll('.ledger-table'));
+        let activeCategory = 'all';
+
+        function parseNum(str) {
+          if (str === null || str === undefined || str === '') return null;
+          const n = parseFloat(str);
+          return Number.isNaN(n) ? null : n;
+        }
+
+        function getDataRows(table) {
+          return Array.from(table.querySelectorAll('tbody > tr.ledger-row'));
+        }
+
+        function applyFilters() {
+          const q = ((searchInput && searchInput.value) || '').trim().toLowerCase();
+          let totalVisible = 0;
+          let totalAll = 0;
+
+          tables.forEach((table) => {
+            const rows = getDataRows(table);
+            let visibleInTable = 0;
+            rows.forEach((row) => {
+              totalAll++;
+              const cat = (row.getAttribute('data-category') || '').toLowerCase();
+              const search = row.getAttribute('data-search') || '';
+              const matchesCategory = activeCategory === 'all' || cat === activeCategory;
+              const matchesSearch = q === '' || search.indexOf(q) !== -1;
+              const visible = matchesCategory && matchesSearch;
+              row.style.display = visible ? '' : 'none';
+              if (visible) {
+                visibleInTable++;
+                totalVisible++;
+              }
+            });
+            const noResultsRow = table.querySelector('.no-results-row');
+            if (noResultsRow) {
+              noResultsRow.style.display = visibleInTable === 0 ? '' : 'none';
+            }
+          });
+
+          if (countLabel) {
+            countLabel.textContent = `Showing ${totalVisible} of ${totalAll}`;
+          }
+        }
+
+        if (searchInput) {
+          searchInput.addEventListener('input', applyFilters);
+        }
+
+        if (chipRow) {
+          chipRow.addEventListener('click', (e) => {
+            const target = e.target.closest('.chip');
+            if (!target || !chipRow.contains(target)) return;
+            chipRow.querySelectorAll('.chip').forEach((c) => c.classList.remove('active'));
+            target.classList.add('active');
+            activeCategory = (target.getAttribute('data-cat') || 'all').toLowerCase();
+            applyFilters();
+          });
+        }
+
+        // Column sorting: click a sortable header to toggle asc/desc.
+        // Values missing (empty string, e.g. "—" prices) always sort last.
+        function sortTable(table, key, dir) {
+          const tbody = table.querySelector('tbody');
+          const rows = getDataRows(table);
+          const noResultsRow = table.querySelector('.no-results-row');
+
+          function getValue(row) {
+            if (key === 'name') return row.getAttribute('data-name') || '';
+            return parseNum(row.getAttribute('data-' + key));
+          }
+
+          rows.sort((a, b) => {
+            const va = getValue(a);
+            const vb = getValue(b);
+
+            if (key === 'name') {
+              return dir === 'asc' ? va.localeCompare(vb) : vb.localeCompare(va);
+            }
+
+            const aNull = va === null;
+            const bNull = vb === null;
+            if (aNull && bNull) return 0;
+            if (aNull) return 1; // nulls/"—" always last, regardless of direction
+            if (bNull) return -1;
+            return dir === 'asc' ? va - vb : vb - va;
+          });
+
+          rows.forEach((row) => tbody.insertBefore(row, noResultsRow || null));
+        }
+
+        document.querySelectorAll('.ledger-table thead th[data-sort]').forEach((th) => {
+          th.addEventListener('click', () => {
+            const table = th.closest('table');
+            const key = th.getAttribute('data-sort');
+            const currentDir = th.getAttribute('data-dir') || '';
+            const nextDir = currentDir === 'asc' ? 'desc' : 'asc';
+
+            table.querySelectorAll('th[data-sort]').forEach((h) => {
+              h.removeAttribute('data-dir');
+              h.classList.remove('sorted-asc', 'sorted-desc');
+            });
+            th.setAttribute('data-dir', nextDir);
+            th.classList.add(nextDir === 'asc' ? 'sorted-asc' : 'sorted-desc');
+
+            sortTable(table, key, nextDir);
+          });
+        });
+
+        applyFilters();
+      })();
+    </script>
   </body>
 </html>

@@ -20,7 +20,8 @@
           "sale": null,
           "source": "auto_check"
         }
-      ]
+      ],
+      "category": "Bundle"
     },
     "FabFilter Creative Bundle": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/8394-FabFilter-Creative-Bundle",
@@ -41,7 +42,8 @@
           "sale": null,
           "source": "auto_check"
         }
-      ]
+      ],
+      "category": "Bundle"
     },
     "Soundtoys 5.5": {
       "pb_url": "/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5",
@@ -68,7 +70,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Bundle"
     },
     "iZotope Music Production Suite": {
       "pb_url": "/meta_product/81-Bundles/39-Effects-Bundles/13854-iZotope-Music-Production-Suite",
@@ -83,7 +86,8 @@
           "sale": null,
           "source": "live_check"
         }
-      ]
+      ],
+      "category": "Bundle"
     },
     "NI Komplete 15 Standard": {
       "pb_url": "/product/81-Bundles/97-Various-Category/13188-KOMPLETE-15-Standard",
@@ -98,7 +102,8 @@
           "sale": null,
           "source": "live_check"
         }
-      ]
+      ],
+      "category": "Bundle"
     },
     "NI Komplete 15 Ultimate": {
       "pb_url": "/product/81-Bundles/97-Various-Category/13187-KOMPLETE-15-Ultimate",
@@ -113,7 +118,8 @@
           "sale": null,
           "source": "live_check"
         }
-      ]
+      ],
+      "category": "Bundle"
     },
     "Arturia V Collection 11": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro",
@@ -134,7 +140,8 @@
           "sale": null,
           "source": "auto_check"
         }
-      ]
+      ],
+      "category": "Bundle"
     },
     "Arturia FX Collection 6": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/16835-FX-Collection-6-PRO",
@@ -155,7 +162,8 @@
           "sale": null,
           "source": "auto_check"
         }
-      ]
+      ],
+      "category": "Bundle"
     },
     "Waves Gold Bundle": {
       "pb_url": "/product/81-Bundles/97-Various-Category/12534-Gold-Bundle",
@@ -194,7 +202,8 @@
           "sale": 159,
           "source": "auto_check"
         }
-      ]
+      ],
+      "category": "Bundle"
     },
     "Waves Platinum Bundle": {
       "pb_url": "/product/81-Bundles/84-Mix-Master/12542-Platinum-Bundle",
@@ -239,7 +248,8 @@
           "sale": 199,
           "source": "auto_check"
         }
-      ]
+      ],
+      "category": "Bundle"
     },
     "Baby Audio Complete Bundle": {
       "pb_url": "/product/1-Instruments/88-Bundle/8901-Baby-Audio-Complete-Bundle",
@@ -252,6 +262,103 @@
           "date": "2026-07-10",
           "regular": 399,
           "sale": null,
+          "source": "research"
+        }
+      ],
+      "category": "Bundle"
+    },
+    "EastWest Composer Cloud+": {
+      "pb_url": "https://www.soundsonline.com/composercloud",
+      "typical_regular": 149,
+      "typical_sale": 99,
+      "all_time_low": null,
+      "notes": "EastWest ComposerCloud+ subscription (43,000+ instruments). Not sold via Plugin Boutique — direct/Sweetwater/Musician's Friend only. Regular $19.99/mo or $149/yr; frequent first-year promos to ~$99/yr; student-only plans run $49-69/yr.",
+      "category": "Bundle",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 149,
+          "sale": 99,
+          "source": "research"
+        }
+      ]
+    },
+    "Output One (Arcade)": {
+      "pb_url": "https://output.com/products/output-one",
+      "typical_regular": 119.99,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Output. The standalone Arcade subscription has been folded into Output One ($14.99/mo or $119.99/yr, includes Arcade + Co-Producer + Output FX plugins). Not sold via Plugin Boutique. A Reason+ & Arcade bundle promo briefly offered $149 for the first year, and existing Arcade subscribers have migration/loyalty pricing, but no general public discount is documented for Output One itself.",
+      "category": "Bundle",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 119.99,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "Waves Mercury Bundle": {
+      "pb_url": "https://www.waves.com/bundles/mercury",
+      "typical_regular": 1999,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Waves. Not sold on Plugin Boutique. Nominal/full list price is $7,599 but the actual standing price almost everyone pays is $1,999 (marketed as '74% off'). No confirmed price below $1,999 was found.",
+      "category": "Bundle",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 1999,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "Plugin Alliance CORE Subscription": {
+      "pb_url": "https://plugin-alliance.com/pages/subscriptions",
+      "typical_regular": 149.99,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Plugin Alliance. All-access subscription is now branded 'CORE Subscription' ($14.99/mo or $149.99/yr for 200+ plugins); a premium 'Everything Bundle' tier is $29.99/mo or $299.99/yr. The older 'MEGA Bundle' name is no longer used. Not confirmed as sold via Plugin Boutique. No discount/sale data was found in research.",
+      "category": "Bundle",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 149.99,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "Slate Digital Complete Access": {
+      "pb_url": "https://www.slatedigital.com/complete-access",
+      "typical_regular": 199.99,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Slate Digital. The former 'All Access Pass' has been folded into 'Complete Access' (Slate Digital + SSL + Harrison), $19.99/mo or $199.99/yr, no long-term commitment. Not sold via Plugin Boutique (only individual perpetual Slate licenses are). A student/faculty rate ($99.99/yr, 50% off) exists but is eligibility-restricted, not a general public sale.",
+      "category": "Bundle",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 199.99,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "UAD Spark": {
+      "pb_url": "https://www.uaudio.com/products/uad-spark",
+      "typical_regular": 149.99,
+      "typical_sale": 79,
+      "all_time_low": null,
+      "notes": "Universal Audio. UAD Spark subscription, $19.99/mo or $149.99/yr, sold directly via uaudio.com only (not Plugin Boutique). Black Friday deals have cut the annual price to ~$79 ('Save 47%'); a recurring first-year promo of ~$99/yr is also common, plus a 3-months-for-$0.99 new-subscriber intro offer.",
+      "category": "Bundle",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 149.99,
+          "sale": 79,
           "source": "research"
         }
       ]
@@ -283,7 +390,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "EQ"
     },
     "FabFilter Pro-C 2": {
       "pb_url": "/search?search_query=FabFilter%20Pro-C%202",
@@ -304,7 +412,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Compressor"
     },
     "FabFilter Pro-L 2": {
       "pb_url": "/search?search_query=FabFilter%20Pro-L%202",
@@ -325,7 +434,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Limiter"
     },
     "Kilohearts Phase Plant": {
       "pb_url": "/product/1-Instruments/4-Synth/5391-Phase-Plant",
@@ -358,7 +468,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Synth"
     },
     "Serum 2": {
       "pb_url": "/search?search_query=Serum%202",
@@ -391,7 +502,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Synth"
     },
     "iZotope Ozone 11 Standard": {
       "pb_url": "/search?search_query=iZotope%20Ozone%2011%20Standard",
@@ -424,7 +536,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Mastering"
     },
     "iZotope Ozone 11 Advanced": {
       "pb_url": "/search?search_query=iZotope%20Ozone%2011%20Advanced",
@@ -451,7 +564,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Mastering"
     },
     "Valhalla Room": {
       "pb_url": "https://valhalladsp.com/shop/reverb/valhalla-room/",
@@ -466,7 +580,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Reverb"
     },
     "Valhalla VintageVerb": {
       "pb_url": "https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/",
@@ -481,7 +596,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Reverb"
     },
     "Native Instruments Massive X": {
       "pb_url": "/product/1-Instruments/4-Synth/10604-MASSIVE-X",
@@ -496,7 +612,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Synth"
     },
     "u-he Diva": {
       "pb_url": "/product/1-Instruments/4-Synth/1396-Diva",
@@ -511,7 +628,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Synth"
     },
     "u-he Repro": {
       "pb_url": "/product/1-Instruments/4-Synth/3027-Repro",
@@ -526,7 +644,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Synth"
     },
     "Arturia Pigments": {
       "pb_url": "/product/1-Instruments/4-Synth/11867-Pigments-7",
@@ -541,7 +660,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Synth"
     },
     "Spectrasonics Omnisphere": {
       "pb_url": "/search?search_query=Spectrasonics%20Omnisphere",
@@ -556,7 +676,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Synth"
     },
     "reFX Nexus 5": {
       "pb_url": "/search?search_query=reFX%20Nexus%205",
@@ -571,7 +692,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Synth"
     },
     "LennarDigital Sylenth1": {
       "pb_url": "/search?search_query=LennarDigital%20Sylenth1",
@@ -586,7 +708,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Synth"
     },
     "iZotope Ozone 12 Advanced": {
       "pb_url": "/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced",
@@ -601,7 +724,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Mastering"
     },
     "iZotope Neutron 5": {
       "pb_url": "/product/2-Effects/21-Channel-Strip/13502-Neutron-5",
@@ -616,7 +740,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Utility"
     },
     "FabFilter Pro-R 2": {
       "pb_url": "/search?search_query=FabFilter%20Pro-R%202",
@@ -631,7 +756,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Reverb"
     },
     "oeksound Soothe2": {
       "pb_url": "/search?search_query=oeksound%20Soothe2",
@@ -646,7 +772,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "EQ"
     },
     "Soundtheory Gullfoss": {
       "pb_url": "/search?search_query=Soundtheory%20Gullfoss",
@@ -661,7 +788,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "EQ"
     },
     "Sonible smart:EQ 4": {
       "pb_url": "/search?search_query=Sonible%20smart%3AEQ%204",
@@ -676,7 +804,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "EQ"
     },
     "XLN Audio RC-20 Retro Color": {
       "pb_url": "/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color",
@@ -691,7 +820,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Effects"
     },
     "Baby Audio Crystalline": {
       "pb_url": "/product/2-Effects/17-Reverb/8900-Crystalline",
@@ -706,7 +836,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Reverb"
     },
     "Output Portal": {
       "pb_url": "/product/2-Effects/45-Granular-FX/5458-Portal",
@@ -721,7 +852,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Effects"
     },
     "Native Instruments Kontakt 8": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/13195-Kontakt-8",
@@ -736,7 +868,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "category": "Instrument"
     },
     "Vital": {
       "pb_url": "/search?search_query=Vital",
@@ -748,6 +881,679 @@
         {
           "date": "2026-07-10",
           "regular": 0,
+          "sale": null,
+          "source": "research"
+        }
+      ],
+      "category": "Synth"
+    },
+    "u-he Hive 2": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2",
+      "typical_regular": 149,
+      "typical_sale": 104,
+      "all_time_low": 65,
+      "notes": "u-he. Regular promo ~30% off ($104). Documented Black Friday low of $65 in 2022 and 2023 (Reddit r/AudioProductionDeals tracking thread); missed the BF sale in 2024.",
+      "category": "Synth",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 149,
+          "sale": 104,
+          "source": "research"
+        }
+      ]
+    },
+    "u-he Bazille": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/1399-Bazille",
+      "typical_regular": 129,
+      "typical_sale": 90,
+      "all_time_low": 64.5,
+      "notes": "u-he. Typical PB promo ~30% off (~$90). Deeper direct-from-u-he Autumn Sale 2025 hit 50% off (€64.50), Nov 18–Dec 3 2025.",
+      "category": "Synth",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 129,
+          "sale": 90,
+          "source": "research"
+        }
+      ]
+    },
+    "Synapse Audio Dune 3": {
+      "pb_url": "https://www.synapse-audio.com/dune3.html",
+      "typical_regular": 179,
+      "typical_sale": 99,
+      "all_time_low": 72.3,
+      "notes": "Developer is Synapse Audio (not Xfer Records). Not documented as sold on Plugin Boutique. Group/coupon deals have hit $74.76; a $99 Thomann price is described as the closest to typical Black-Friday-level pricing.",
+      "category": "Synth",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 179,
+          "sale": 99,
+          "source": "research"
+        }
+      ]
+    },
+    "Vengeance Sound Avenger 2": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11545-VPS-Avenger-2",
+      "typical_regular": 249,
+      "typical_sale": 150.75,
+      "all_time_low": null,
+      "notes": "Vengeance Sound. Black Friday promo documented at 33% off ($150.75). A $98 low was reported at Thomann on Jan 6, 2025 (plugindeals.net) but is treated as an unconfirmed outlier and not used as the all-time low.",
+      "category": "Synth",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 249,
+          "sale": 150.75,
+          "source": "research"
+        }
+      ]
+    },
+    "KV331 Audio SynthMaster 3": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/12813-SynthMaster-3",
+      "typical_regular": 99,
+      "typical_sale": 49,
+      "all_time_low": null,
+      "notes": "KV331 Audio. Winter sale $49 (~50% off); Summer Sale $59 (~40% off). No source explicitly labels either price as an all-time low.",
+      "category": "Synth",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 99,
+          "sale": 49,
+          "source": "research"
+        }
+      ]
+    },
+    "Reveal Sound Spire": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/3187-Spire",
+      "typical_regular": 189,
+      "typical_sale": 76,
+      "all_time_low": 66,
+      "notes": "Reveal Sound. Recurring flash sales to $75–$76 (~60% off); documented low $66 at Best Service on May 16, 2026 (and previously Dec 20, 2025). Reddit users cite a usual sale price around $100.",
+      "category": "Synth",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 189,
+          "sale": 76,
+          "source": "research"
+        }
+      ]
+    },
+    "Native Instruments Massive": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7998-MASSIVE",
+      "typical_regular": 99,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "NI's original/classic Massive (not Massive X) — still sold, not discontinued. Nov 2025 Plugin Boutique promo gave it away free with any purchase rather than a cash discount, so no reliable typical sale price is documented.",
+      "category": "Synth",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 99,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "GForce OB-E": {
+      "pb_url": "https://www.gforcesoftware.com/product/ob-e/",
+      "typical_regular": 169.99,
+      "typical_sale": 119,
+      "all_time_low": null,
+      "notes": "GForce Software. Not documented as sold on Plugin Boutique. Current promo price $119 (~30% off $169.99) appears to be the standing price at both GForce direct and Sweetwater; no dated Black Friday figure or confirmed all-time low was found.",
+      "category": "Synth",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 169.99,
+          "sale": 119,
+          "source": "research"
+        }
+      ]
+    },
+    "Cherry Audio GX-80": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10001-GX-80-Synthesizer",
+      "typical_regular": 69,
+      "typical_sale": 39,
+      "all_time_low": 39,
+      "notes": "Cherry Audio. Blockbuster Sale price $39 (44% off) matched at Plugin Boutique (43% off until Jun 1); no source shows a lower documented promo price.",
+      "category": "Synth",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 69,
+          "sale": 39,
+          "source": "research"
+        }
+      ]
+    },
+    "Tokyo Dawn Labs TDR Nova GE": {
+      "pb_url": "https://www.pluginboutique.com/search?search_query=TDR%20Nova%20GE",
+      "typical_regular": 60,
+      "typical_sale": 19,
+      "all_time_low": 14,
+      "notes": "Tokyo Dawn Labs. Frequently discounted at Plugin Boutique to ~$19 (68% off); direct Summer Sale price €39 (35% off). Documented lowest-ever price $14 at AudioDeluxe on Jul 4, 2024 (plugindeals.net).",
+      "category": "EQ",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 60,
+          "sale": 19,
+          "source": "research"
+        }
+      ]
+    },
+    "DMG Audio EQuilibrium": {
+      "pb_url": "https://dmgaudio.com/products_equilibrium.php",
+      "typical_regular": 230,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "DMG Audio, sold direct only (not on Plugin Boutique). A third-party aggregator (pluginplug.io) shows $130 and $100 price points with no clear dates, so these are not counted as a confirmed sale or low.",
+      "category": "EQ",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 230,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "Waves SSL E-Channel": {
+      "pb_url": "https://www.waves.com/plugins/ssl-e-channel",
+      "typical_regular": 149,
+      "typical_sale": 34.99,
+      "all_time_low": 31.46,
+      "notes": "Waves. Not currently sold on Plugin Boutique (historical PB listing only). Effectively in a near-permanent sale at $34.99 (77% off $149 MSRP); reseller PluginDiscounts cited $31.46 as a documented low, though the exact date wasn't specified in the source.",
+      "category": "EQ",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 149,
+          "sale": 34.99,
+          "source": "research"
+        }
+      ]
+    },
+    "Sonnox Oxford EQ": {
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Sonnox%20Oxford%20EQ",
+      "typical_regular": 474,
+      "typical_sale": 114.61,
+      "all_time_low": 47,
+      "notes": "Sonnox. HDX/HD version historically sold via Plugin Boutique (regular ~$474); native plugin lists direct at £239.99 with a 75% off Summer Sale to £59.99. Lowest recorded PB price $47 on Jul 14, 2025 (plugindeals.net).",
+      "category": "EQ",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 474,
+          "sale": 114.61,
+          "source": "research"
+        }
+      ]
+    },
+    "Klanghelm MJUC": {
+      "pb_url": "https://klanghelm.com/contents/products/MJUC.html",
+      "typical_regular": 26,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Klanghelm, sold direct only (not on Plugin Boutique). Stable everyday-low price (~€24); MJUC jr is free. No documented sales or Black Friday discounts — an old ~€23-24 intro price from launch is essentially unchanged from today's price.",
+      "category": "Compressor",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 26,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "Klanghelm DC8C mkII": {
+      "pb_url": "https://klanghelm.com/contents/products/DC8C",
+      "typical_regular": 25,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Klanghelm, sold direct only (not on Plugin Boutique). No sales/Black Friday discounting documented; price has only crept up slowly over time (~€20 circa 2014 to ~€23-24 today) rather than via time-limited markdowns.",
+      "category": "Compressor",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 25,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "Wavesfactory Trackspacer": {
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/3259-Trackspacer",
+      "typical_regular": 59,
+      "typical_sale": 36,
+      "all_time_low": 29,
+      "notes": "Wavesfactory. Moderate promos to $36 (38% off); deeper sales recur at $29 (~51% off), most recently documented Dec 8, 2025 at Plugin Boutique (musicsoftwaredeals.com).",
+      "category": "Effects",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 59,
+          "sale": 36,
+          "source": "research"
+        }
+      ]
+    },
+    "Waves CLA-2A": {
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13687-CLA-2A-Compressor-Limiter",
+      "typical_regular": 149,
+      "typical_sale": 29.99,
+      "all_time_low": null,
+      "notes": "Waves. Sold individually on Plugin Boutique. Full non-sale list is typically $149-199; also bundled in the $89.99 CLA Classic Compressors bundle, which itself drops to $29.99-$49.99 on sale.",
+      "category": "Compressor",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 149,
+          "sale": 29.99,
+          "source": "research"
+        }
+      ]
+    },
+    "Waves CLA-76": {
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Waves%20CLA-76",
+      "typical_regular": 149,
+      "typical_sale": 29.99,
+      "all_time_low": null,
+      "notes": "Waves. Sold individually on Plugin Boutique alongside CLA-2A (same 2026 Band Month promo, $29.99 / 79% off); the exact PB product-page ID wasn't confirmed in research, so a PB search link is used instead of guessing the ID.",
+      "category": "Compressor",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 149,
+          "sale": 29.99,
+          "source": "research"
+        }
+      ]
+    },
+    "UAD 1176 Classic Limiter Collection": {
+      "pb_url": "https://www.pluginboutique.com/search?search_query=UAD%201176%20Classic%20Limiter%20Collection",
+      "typical_regular": 149,
+      "typical_sale": 49,
+      "all_time_low": 29,
+      "notes": "Universal Audio. Available as a perpetual purchase (not subscription-only) via uaudio.com and resellers including Plugin Boutique. Common sale price $49 (67% off); documented low $29 at Plugin Boutique on May 3, 2025 (plugindeals.net).",
+      "category": "Compressor",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 149,
+          "sale": 49,
+          "source": "research"
+        }
+      ]
+    },
+    "LiquidSonics Cinematic Rooms MKII": {
+      "pb_url": "https://www.liquidsonics.com/software/cinematic-rooms/",
+      "typical_regular": 199,
+      "typical_sale": 129,
+      "all_time_low": null,
+      "notes": "LiquidSonics. Not sold on Plugin Boutique — direct only. Standard $199 / Professional $399. Launch intro pricing was ~35% off; bundles see 12-37% off, and a Black-Friday 'Ultimate Bundle' reportedly hit ~63% off across multiple products, but no single-product all-time low is confirmed.",
+      "category": "Reverb",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 199,
+          "sale": 129,
+          "source": "research"
+        }
+      ]
+    },
+    "Eventide Blackhole": {
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/2855-Blackhole",
+      "typical_regular": 99,
+      "typical_sale": 39,
+      "all_time_low": 24.9,
+      "notes": "Eventide. Sold on both Eventide's own store and Plugin Boutique at $99. Frequent promos to $39-$49; a coupon-driven deal reached $29 (87% off), but plugindeals.net's price-history tracker documents an earlier, lower $24.90 at Thomann on Nov 29, 2022.",
+      "category": "Reverb",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 99,
+          "sale": 39,
+          "source": "research"
+        }
+      ]
+    },
+    "Relab Development LX480 Complete": {
+      "pb_url": "https://www.pluginboutique.com/search?search_query=LX480%20Dual-Engine%20Reverb",
+      "typical_regular": 349,
+      "typical_sale": 149,
+      "all_time_low": null,
+      "notes": "Relab Development. Sold via Plugin Boutique among other resellers (Dual-Engine Reverb V4 = the 'Complete' tier). Band Month sale price $149 (57% off $349). The cut-down Essentials tier ($99 reg.) separately hits $29 (70% off), but that figure doesn't apply to the Complete/Dual-Engine version.",
+      "category": "Reverb",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 349,
+          "sale": 149,
+          "source": "research"
+        }
+      ]
+    },
+    "Softube Tape": {
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/3416-Tape",
+      "typical_regular": 99,
+      "typical_sale": 79,
+      "all_time_low": null,
+      "notes": "Softube. Sold on Plugin Boutique at $99. Single-plugin sales typically ~$79-$89.99 (10-20% off); the Softube Producers Collection bundle ($139 for 13 plugins) was separately called 'lowest price ever' for that bundle, not for standalone Tape.",
+      "category": "Saturation",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 99,
+          "sale": 79,
+          "source": "research"
+        }
+      ]
+    },
+    "Wavesfactory Cassette": {
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/5905-Cassette",
+      "typical_regular": 59,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Wavesfactory. Sold on Plugin Boutique at the standard $59 price; no reliable sale, discount percentage, or Black Friday pricing was found in research as of mid-2026.",
+      "category": "Saturation",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 59,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "u-he Satin": {
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/1400-Satin",
+      "typical_regular": 129,
+      "typical_sale": 89,
+      "all_time_low": null,
+      "notes": "u-he. Recurring promo to $89-$90 (~30-31% off $129). A third-party aggregator (Equipboard) lists prices as low as $39, but with no dated primary source, so it isn't counted as a confirmed all-time low.",
+      "category": "Saturation",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 129,
+          "sale": 89,
+          "source": "research"
+        }
+      ]
+    },
+    "Baby Audio TAIP": {
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/8102-TAIP",
+      "typical_regular": 99,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Baby Audio. Sold on Plugin Boutique at $99. A YouTube review referenced a ~90%-off sale down to about $9.99, but this is a single anecdotal/YouTube-sourced reference with no confirmed date, so it is not used as a tracked sale or all-time-low figure.",
+      "category": "Saturation",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 99,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "iZotope Ozone Elements": {
+      "pb_url": "https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Elements",
+      "typical_regular": 55,
+      "typical_sale": 29,
+      "all_time_low": 29,
+      "notes": "iZotope Ozone 12 Elements. Sold on Plugin Boutique per MusicTech coverage of a 'lowest price ever' PB promotion on Mar 19, 2026 (no exact PB product URL confirmed in research). iZotope's own Summer Sale (Jun 2026) separately offered Elements-tier plugins at $25 each.",
+      "category": "Mastering",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 55,
+          "sale": 29,
+          "source": "research"
+        }
+      ]
+    },
+    "Sonnox Oxford Limiter": {
+      "pb_url": "https://sonnox.com/products/oxford-limiter",
+      "typical_regular": 290,
+      "typical_sale": 72,
+      "all_time_low": null,
+      "notes": "Sonnox. Sold direct; historically also available via Plugin Boutique through the 'Producer Power Bundle' (lowest recorded bundle price $49). Direct Summer Sale price £57.49 (75% off £229.99, converted here to ~$290/$72). A YouTube review mentions a $29 Black Friday 2024 price, but that single unconfirmed source isn't used as an all-time low.",
+      "category": "Limiter",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 290,
+          "sale": 72,
+          "source": "research"
+        }
+      ]
+    },
+    "DMG Audio Limitless": {
+      "pb_url": "https://dmgaudio.com/products_limitless.php",
+      "typical_regular": 200,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "DMG Audio, direct-sale only (not on Plugin Boutique). No documented sales or discounting pattern beyond DMG's general policy of discounting brand-new releases for their first month.",
+      "category": "Limiter",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 200,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "Newfangled Audio Elevate": {
+      "pb_url": "https://www.newfangledaudio.com/elevatemasteringbundle",
+      "typical_regular": 199,
+      "typical_sale": 79,
+      "all_time_low": null,
+      "notes": "Newfangled Audio/Eventide. Not sold on Plugin Boutique. Elevate Mastering Bundle regularly discounted to $79 (~60% off $199 list). A ~$39.50 price was mentioned anecdotally in a Reddit comment but is unconfirmed and not used as an all-time low.",
+      "category": "Mastering",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 199,
+          "sale": 79,
+          "source": "research"
+        }
+      ]
+    },
+    "Spitfire Audio BBC Symphony Orchestra Professional": {
+      "pb_url": "https://www.spitfireaudio.com/products/bbc-symphony-orchestra-professional",
+      "typical_regular": 999,
+      "typical_sale": 649,
+      "all_time_low": 549,
+      "notes": "Spitfire Audio. Not sold on Plugin Boutique — direct/Thomann only. Core tier $449, Discover tier free. Seasonal sales (incl. Black Friday) typically 30-40% off ($649-$699); documented all-time low $549 (Jan 8, 2022, musicsoftwaredeals.com). More recent 2025 Thomann lows of $582-$666 are shallower than this 2022 figure.",
+      "category": "Instrument",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 999,
+          "sale": 649,
+          "source": "research"
+        }
+      ]
+    },
+    "Spectrasonics Keyscape": {
+      "pb_url": "https://www.spectrasonics.net/products/keyscape/buykeyscape.php",
+      "typical_regular": 399,
+      "typical_sale": 379,
+      "all_time_low": 379,
+      "notes": "Spectrasonics. Not sold on Plugin Boutique — direct/authorized-dealer network only (AudioDeluxe, PluginFox, Best Service, etc). Spectrasonics avoids large seasonal discounts; documented lowest price $379 (~5% off $399) at AudioDeluxe on Jun 27, 2024 (plugindeals.net), unusually shallow for the plugin market.",
+      "category": "Instrument",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 399,
+          "sale": 379,
+          "source": "research"
+        }
+      ]
+    },
+    "UVI Falcon 3": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14777-Falcon-2026",
+      "typical_regular": 299,
+      "typical_sale": 149,
+      "all_time_low": 149,
+      "notes": "UVI (Falcon 2026 release). Sold on Plugin Boutique. Late-Oct/early-Nov 2025 intro and 'Synth Month' promos consistently priced Falcon 3 at $149 (50% off $299) across UVI direct, Plugin Boutique, and Reddit deal threads — no source shows anything lower.",
+      "category": "Instrument",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 299,
+          "sale": 149,
+          "source": "research"
+        }
+      ]
+    },
+    "XLN Audio Addictive Keys": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/1191-Addictive-Keys-Studio-Grand",
+      "typical_regular": 99,
+      "typical_sale": 59.4,
+      "all_time_low": null,
+      "notes": "XLN Audio. Addictive Keys is sold as individual instruments (e.g. Studio Grand, priced here) as well as a $249 Complete Collection direct from XLN. Plugin Boutique promo documented at $59.40 (40% off $99); no dated all-time-low record was found.",
+      "category": "Instrument",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 99,
+          "sale": 59.4,
+          "source": "research"
+        }
+      ]
+    },
+    "Toontrack EZdrummer 3": {
+      "pb_url": "https://www.toontrack.com/product/ezdrummer-3/",
+      "typical_regular": 179,
+      "typical_sale": 134,
+      "all_time_low": null,
+      "notes": "Toontrack. Not confirmed as sold on Plugin Boutique. Standard $179, with a recurring 25% off promo to $134 (Thomann shows $122, a deeper ~32% off). No documented Black Friday-specific figure or all-time low was found.",
+      "category": "Drums",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 179,
+          "sale": 134,
+          "source": "research"
+        }
+      ]
+    },
+    "Toontrack Superior Drummer 3": {
+      "pb_url": "https://www.toontrack.com/product/superior-drummer-3/",
+      "typical_regular": 399,
+      "typical_sale": 299,
+      "all_time_low": null,
+      "notes": "Toontrack. Not confirmed as sold on Plugin Boutique. Regular $399, standard sale $299 (25% off) — a forum user calls this one of the best prices ever seen since SD3 rarely discounts. A $251.26 price using a stacked BestService coupon code appears in a single forum post but is treated as an unconfirmed one-off, not a tracked all-time low.",
+      "category": "Drums",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 399,
+          "sale": 299,
+          "source": "research"
+        }
+      ]
+    },
+    "GetGood Drums Modern & Massive 2": {
+      "pb_url": "https://ggd.co/",
+      "typical_regular": 219,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "GetGood Drums. Not confirmed sold on Plugin Boutique (direct-from-GGD only in available data). Regular price $219; no dated sale, Black Friday percentage, or all-time-low figures were found despite GGD being known generally to run seasonal sales.",
+      "category": "Drums",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 219,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "Antares Auto-Tune Pro": {
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Antares%20Auto-Tune%20Pro",
+      "typical_regular": 450,
+      "typical_sale": 250,
+      "all_time_low": null,
+      "notes": "Antares. Auto-Tune Pro 11 lists at $450-$500 depending on source; Spring 2026 flash sale cut it to $250 (50% off). Plugin Boutique is a confirmed Antares reseller, though the $150/72%-off low documented Nov 25, 2025 was for the separate, cheaper 'Auto-Tune 2026' tier, not Pro.",
+      "category": "Vocal",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 450,
+          "sale": 250,
+          "source": "research"
+        }
+      ]
+    },
+    "Celemony Melodyne 5 Studio": {
+      "pb_url": "https://shop.celemony.com/",
+      "typical_regular": 699,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Celemony. Not sold on Plugin Boutique (only upgrades/updates appear at third-party shops). $699 web-shop price is a permanent 17% markdown off the $849 MSRP, not a limited sale. Deep discounts (e.g. 80% off) apply only to version-upgrade paths, not new full licenses.",
+      "category": "Vocal",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 699,
+          "sale": null,
+          "source": "research"
+        }
+      ]
+    },
+    "iZotope Nectar 4": {
+      "pb_url": "https://www.pluginboutique.com/search?search_query=iZotope%20Nectar%204",
+      "typical_regular": 199,
+      "typical_sale": 149.25,
+      "all_time_low": 129,
+      "notes": "iZotope. Sold on Plugin Boutique. Prices shown are for the Standard tier ($199 reg., $149.25 current promo); the Advanced tier is $299 regular. The $129 all-time low (57% off, Aug 17, 2025, plugindeals.net) is documented specifically for the Advanced tier at Plugin Boutique, not Standard.",
+      "category": "Vocal",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 199,
+          "sale": 149.25,
+          "source": "research"
+        }
+      ]
+    },
+    "Waves Tune Real-Time": {
+      "pb_url": "https://www.waves.com/plugins/waves-tune-real-time",
+      "typical_regular": 199,
+      "typical_sale": 49.99,
+      "all_time_low": null,
+      "notes": "Waves. Not confirmed as sold on Plugin Boutique (no PB listing found in research). Effectively in a near-permanent sale at $49.99 (75% off $199 MSRP); related Waves Tune LT drops to $34.99 (65% off $99).",
+      "category": "Vocal",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 199,
+          "sale": 49.99,
+          "source": "research"
+        }
+      ]
+    },
+    "Baby Audio Spaced Out": {
+      "pb_url": "https://babyaud.io/all-products",
+      "typical_regular": 99,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Baby Audio. Substituted for the non-existent 'Baby Audio Parametric'. Regular price $99 one-time. A follow-up query to confirm Plugin Boutique listing and sale history failed (Perplexity API quota error), so PB status and sale pricing are unconfirmed — treat this entry as provisional until re-researched.",
+      "category": "Effects",
+      "history": [
+        {
+          "date": "2026-07-11",
+          "regular": 99,
           "sale": null,
           "source": "research"
         }
