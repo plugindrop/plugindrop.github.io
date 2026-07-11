@@ -140,7 +140,7 @@ Third, **the price structure creates awkward decisions**. Neutron 4 Standard is 
 - **Formats:** VST3, AU, AAX
 - **Why upgrade:** Neutron 4 alone covers mixing, but Music Production Suite adds Ozone (mastering), RX (audio repair), Nectar (vocal processing), and Relay — the complete iZotope production stack. For producers who need mastering and vocal processing alongside mixing, the bundle price undercuts buying each product separately significantly.
 
-[→ Get iZotope Music Production Suite on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763)
+[→ Get iZotope Music Production Suite on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763)
 
 ---
 
@@ -151,7 +151,7 @@ Third, **the price structure creates awkward decisions**. Neutron 4 Standard is 
 | Neutron 4 Standard | From $149 | AI Channel Strip | Track Assistant, Unmask, Dynamic EQ, Compressor | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
 | Neutron 4 Advanced | From $249 | AI Channel Strip | All Standard features + Sculptor spectral shaping | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
 | FabFilter Pro-Q 4 | $179 | Precision EQ | Dynamic EQ, spectrum grab, zero-latency linear phase | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
-| iZotope Music Production Suite | Bundle | Full Production Suite | Neutron + Ozone + RX + Nectar + Relay | [Get It](https://www.pluginboutique.com/search?search_query=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763) |
+| iZotope Music Production Suite | Bundle | Full Production Suite | Neutron + Ozone + RX + Nectar + Relay | [Get It](https://www.pluginboutique.com/search?q=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763) |
 
 ---
 

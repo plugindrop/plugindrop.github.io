@@ -211,7 +211,7 @@ Developer documentation confirms TDR Nova combines parametric EQ and dynamic EQ 
 
 **Best for:** Dynamic EQ tasks — taming harshness in synths, frequency-specific compression, and surgical resonance control.
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production)
+[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production)
 
 ---
 
@@ -232,7 +232,7 @@ Valhalla DSP's documentation describes Supermassive as using delay-based diffusi
 
 **Best for:** Long, lush reverb tails, ambient pad layers, and atmospheric textures in melodic house, techno, and ambient electronic music.
 
-[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production)
+[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production)
 
 ---
 
@@ -249,7 +249,7 @@ TAL Software's documentation describes TAL-Reverb-4 as a plate reverb with modul
 
 **Best for:** Warm, short-to-medium plate reverb on leads, pads, and percussion when Supermassive's scale is too much.
 
-[→ Download TAL-Reverb-4 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production)
+[→ Download TAL-Reverb-4 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production)
 
 ---
 
@@ -359,9 +359,9 @@ If you have exhausted the free options or are ready to invest in tools that will
 | Odin 2 | Free | Hybrid synth | Chord mode, multi-oscillator type support | [Free](https://www.thewavewarden.com/odin2) |
 | Dexed | Free | FM synth | DX7 algorithm, full SysEx compatibility | [Free](https://asb2m10.github.io/dexed/) |
 | OTT | Free | Multiband comp | Upward compression, ubiquitous in EDM | [Free](https://xferrecords.com/freeware) |
-| TDR Nova | Free | Dynamic EQ | Parametric + dynamic EQ in one plugin | [Free](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production) |
-| Valhalla Supermassive | Free | Reverb/delay | Massive diffusion tails, pad modulation | [Free](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production) |
-| TAL-Reverb-4 | Free | Plate reverb | Warm, musical, low CPU | [Free](https://www.pluginboutique.com/search?search_query=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production) |
+| TDR Nova | Free | Dynamic EQ | Parametric + dynamic EQ in one plugin | [Free](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production) |
+| Valhalla Supermassive | Free | Reverb/delay | Massive diffusion tails, pad modulation | [Free](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production) |
+| TAL-Reverb-4 | Free | Plate reverb | Warm, musical, low CPU | [Free](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production) |
 | Valhalla Freq Echo | Free | Freq-shift delay | Metallic, psychedelic delay textures | [Free](https://valhalladsp.com/shop/delay/valhalla-freq-echo/) |
 | LABS | Free | Sample library | Cinematic, organic, continuously updated | [Free](https://labs.spitfireaudio.com) |
 | Podolski | Free | Subtractive synth | Clean sound, very low CPU, musical output | [Free](https://u-he.com/products/podolski/) |

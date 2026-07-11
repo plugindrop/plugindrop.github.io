@@ -3,7 +3,7 @@ title: "FREE Plugins Report UAD Explore Free bundle with eight plugins and Luna 
 description: "Four major free plugin grabs dropped in April 2026 — UAD's Explore Free bundle (eight plugins plus Luna), a United Plugins ten-pack, Zebralette 3 from..."
 pubDate: "2026-05-15T16:00:57Z"
 tags: ["free", "free plugins report", "bundle", "synth", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?search_query=news&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugins-report-uad-explore-free-bundle-with-eight-plugi"
+affiliate: "https://www.pluginboutique.com/search?q=news&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugins-report-uad-explore-free-bundle-with-eight-plugi"
 heroImage: "/images/free-plugins-report-uad-explore-free-bundle-with-eight-plugi_comfyui.png"
 aiImage: true
 score: 10.00
@@ -12,7 +12,7 @@ saleExpiry: "2026-04-17"
 xText: "uad, united plugins, zebralette 3, 8dio—all free right now. this actually doesn't happen often. load these up before it's gone"
 draft: true
 ---
-**TL;DR:** Four major free plugin grabs dropped in April 2026 — UAD's Explore Free bundle (eight plugins plus Luna), a United Plugins ten-pack, Zebralette 3 from u-he, and 8Dio Synthetic Shadows. All free. Check expiry dates before they disappear. [Browse more deals here.](https://www.pluginboutique.com/search?search_query=news&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugins-report-uad-explore-free-bundle-with-eight-plugi)
+**TL;DR:** Four major free plugin grabs dropped in April 2026 — UAD's Explore Free bundle (eight plugins plus Luna), a United Plugins ten-pack, Zebralette 3 from u-he, and 8Dio Synthetic Shadows. All free. Check expiry dates before they disappear. [Browse more deals here.](https://www.pluginboutique.com/search?q=news&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugins-report-uad-explore-free-bundle-with-eight-plugi)
 
 ---
 
@@ -68,7 +68,7 @@ Zebralette 3 is the free, single-oscillator synth from u-he — one of the most 
 | Zebralette 3 (u-he) | Verify on product page | **FREE** |
 | 8Dio Synthetic Shadows | Verify on product page | **FREE** |
 
-Deals in free plugin reports can expire without notice. Confirm availability and any time limits directly on each developer's site. [Check the latest free and discounted plugin deals here.](https://www.pluginboutique.com/search?search_query=news&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugins-report-uad-explore-free-bundle-with-eight-plugi)
+Deals in free plugin reports can expire without notice. Confirm availability and any time limits directly on each developer's site. [Check the latest free and discounted plugin deals here.](https://www.pluginboutique.com/search?q=news&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugins-report-uad-explore-free-bundle-with-eight-plugi)
 
 ---
 
@@ -102,7 +102,7 @@ A: Check the 8Dio product page for format and player requirements before downloa
 
 ## Get the Deal
 
-Four free plugins from four respected developers. Zero excuses to skip this one. [Find this and more plugin deals here](https://www.pluginboutique.com/search?search_query=news&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugins-report-uad-explore-free-bundle-with-eight-plugi) — and move fast on anything with an expiry date.
+Four free plugins from four respected developers. Zero excuses to skip this one. [Find this and more plugin deals here](https://www.pluginboutique.com/search?q=news&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugins-report-uad-explore-free-bundle-with-eight-plugi) — and move fast on anything with an expiry date.
 
 ## Related Guides
 

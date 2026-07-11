@@ -3,12 +3,12 @@ title: "release notes"
 description: "Toontrack has published new release notes covering updates across their software lineup. Whether you're running EZdrummer, Superior Drummer, or any of their"
 pubDate: "2026-05-02T14:42:43Z"
 tags: ["vst-plugin", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?search_query=release+notes&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=release-notes-54c82c"
+affiliate: "https://www.pluginboutique.com/search?q=release+notes&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=release-notes-54c82c"
 heroImage: "/images/release-notes-54c82c.jpg"
 score: 4.68
 draft: true
 ---
-**TL;DR:** Toontrack has published new release notes covering updates across their software lineup. Whether you're running EZdrummer, Superior Drummer, or any of their other instruments, these updates are worth checking. [→ Get Toontrack products at Plugin Boutique](https://www.pluginboutique.com/search?search_query=release+notes&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=release-notes-54c82c)
+**TL;DR:** Toontrack has published new release notes covering updates across their software lineup. Whether you're running EZdrummer, Superior Drummer, or any of their other instruments, these updates are worth checking. [→ Get Toontrack products at Plugin Boutique](https://www.pluginboutique.com/search?q=release+notes&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=release-notes-54c82c)
 
 ---
 
@@ -54,7 +54,7 @@ Toontrack products are sold individually and in bundles. EZdrummer, Superior Dru
 
 *Price verified at publication. Check the link for current availability.*
 
-[→ Get Toontrack products at Plugin Boutique](https://www.pluginboutique.com/search?search_query=release+notes&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=release-notes-54c82c)
+[→ Get Toontrack products at Plugin Boutique](https://www.pluginboutique.com/search?q=release+notes&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=release-notes-54c82c)
 
 ---
 
@@ -90,7 +90,7 @@ A: Check the official site for current DAW and OS compatibility, as this changes
 
 Toontrack's software updates are listed on their release notes page and the products are available through Plugin Boutique. If you've been considering adding EZdrummer, Superior Drummer, or any expansion to your toolkit, checking current pricing takes seconds.
 
-[→ Get Toontrack products at Plugin Boutique](https://www.pluginboutique.com/search?search_query=release+notes&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=release-notes-54c82c)
+[→ Get Toontrack products at Plugin Boutique](https://www.pluginboutique.com/search?q=release+notes&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=release-notes-54c82c)
 
 ---
 

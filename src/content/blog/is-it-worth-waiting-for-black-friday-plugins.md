@@ -56,7 +56,7 @@ Plugin Alliance's "Any Plugin $29.99" promotion shows up repeatedly in our track
 
 ### iZotope — somewhat, BF tends to be the deepest cut
 
-This is the closest thing to a genuine "wait for it" case outside FabFilter. [Ozone 11 Standard's](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2011%20Standard&a_aid=69cb95abe1763) tracked history shows a $99 Summer 2024 sale price, then a deeper $70 at Black Friday 2024 — roughly 30% lower than the mid-year discount. Music Production Suite follows a similar shape, with its all-time low ($362) recorded in August rather than November, which muddies the pattern a little. If you're buying an iZotope product and can wait until Q4, our data suggests it's usually worth it — just don't assume BF is the *only* time iZotope discounts.
+This is the closest thing to a genuine "wait for it" case outside FabFilter. [Ozone 11 Standard's](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2011%20Standard&a_aid=69cb95abe1763) tracked history shows a $99 Summer 2024 sale price, then a deeper $70 at Black Friday 2024 — roughly 30% lower than the mid-year discount. Music Production Suite follows a similar shape, with its all-time low ($362) recorded in August rather than November, which muddies the pattern a little. If you're buying an iZotope product and can wait until Q4, our data suggests it's usually worth it — just don't assume BF is the *only* time iZotope discounts.
 
 ### Universal Audio (UAD) — no, several windows tie
 

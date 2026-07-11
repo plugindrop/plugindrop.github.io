@@ -20,13 +20,13 @@ draft: true
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| XLN Audio RC-20 Retro Color | $99 | All-in-one lo-fi processing | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=RC-20+Retro+Color&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-production) |
+| XLN Audio RC-20 Retro Color | $99 | All-in-one lo-fi processing | [Plugin Boutique](https://www.pluginboutique.com/search?q=RC-20+Retro+Color&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-production) |
 | iZotope Vinyl | Free | Vinyl noise and degradation | [iZotope.com](https://www.izotope.com/en/products/vinyl.html) |
 | Vital | Free | Warm lo-fi pads and bass | [Vital.audio](https://vital.audio) |
 | TAL-Dub-X | Free | Lo-fi dub delay effects | [TAL-Software.com](https://tal-software.com/products/tal-dub-x) |
 | Valhalla Supermassive | Free | Washed-out reverb and space | [Valhalla DSP](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Arturia PolyBrute Noir | $399 | Warm analog hardware (virtual) | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia+PolyBrute&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-production) |
-| XLN Audio RC-20 | $99 | Tape, vinyl, and noise (same as above) | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=RC-20+Retro+Color&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-production) |
+| Arturia PolyBrute Noir | $399 | Warm analog hardware (virtual) | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia+PolyBrute&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-production) |
+| XLN Audio RC-20 | $99 | Tape, vinyl, and noise (same as above) | [Plugin Boutique](https://www.pluginboutique.com/search?q=RC-20+Retro+Color&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-production) |
 | Lofi Piano (Spitfire LABS) | Free | Detuned, prepared piano samples | [Spitfire Audio](https://labs.spitfireaudio.com) |
 
 ---
@@ -51,7 +51,7 @@ This guide covers both the degradation effects side of lo-fi production and the 
 
 **Best for:** Lo-fi producers who want a complete degradation processing chain in a single plugin with randomization and genre-specific parameter ranges already calibrated.
 
-[→ Get XLN Audio RC-20 Retro Color (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=RC-20+Retro+Color&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-production)
+[→ Get XLN Audio RC-20 Retro Color (via Plugin Boutique)](https://www.pluginboutique.com/search?q=RC-20+Retro+Color&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-production)
 
 ---
 
@@ -121,7 +121,7 @@ This guide covers both the degradation effects side of lo-fi production and the 
 
 **Best for:** Lo-fi producers who want premium analog synthesis character for pads and bass, where the inherent warmth and slight imprecision of advanced analog hardware emulation reduces the need for additional lo-fi processing.
 
-[→ Get Arturia PolyBrute (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Arturia+PolyBrute&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-production)
+[→ Get Arturia PolyBrute (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Arturia+PolyBrute&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-production)
 
 ---
 

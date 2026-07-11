@@ -26,8 +26,8 @@ priceTrack:
 | FabFilter Pro-R 2 | €179 | Precision mixing, decay EQ | [Get It (Official) (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/17-Reverb/3725-FabFilter-Pro-R?a_aid=69cb95abe1763) |
 | Eventide SP2016 | $99 | Vintage hardware character | [Get It (Official)](https://www.eventideaudio.com/plug-ins/sp2016-reverb/) |
 | Arturia Rev PLATE-140 | ~$49 standalone | Plate reverb, vocals, drums | [Get It (Official)](https://www.arturia.com/products/reverbs/rev-plate-140/overview) |
-| Valhalla Supermassive | Free | Ambient, pads, massive tails | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production) |
-| TAL-Reverb-4 | Free | Lush algorithmic reverb | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production) |
+| Valhalla Supermassive | Free | Ambient, pads, massive tails | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production) |
+| TAL-Reverb-4 | Free | Lush algorithmic reverb | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production) |
 | MConvolutionEZ | Free | Convolution reverb, IR loading | [Free Download](https://www.meldaproduction.com/MConvolutionEZ) |
 
 ---
@@ -127,7 +127,7 @@ Valhalla DSP released Supermassive as a free tool in 2020 and the community resp
 
 **Best for:** Ambient music, pads, long reverb tails, experimental and post-rock textures.
 
-[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production)
+[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production)
 
 ---
 
@@ -144,7 +144,7 @@ TAL Software has a well-established track record with free plugins — their TAL
 
 **Best for:** Pads, vocals, synth leads, any dense mix element requiring dimensional space.
 
-[→ Download TAL-Reverb-4 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production)
+[→ Download TAL-Reverb-4 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production)
 
 ---
 
@@ -286,8 +286,8 @@ Convology XT comes from Impulse Record, a company whose primary business is sell
 | Eventide SP2016 | $99 | Hardware emulation | Original 1982 algorithms, Stereo Room mode | [Get It](https://www.eventideaudio.com/plug-ins/sp2016-reverb/) |
 | Valhalla VintageVerb | $50 | Algorithmic | 18 vintage modes, best-value paid | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | Arturia Rev PLATE-140 | ~$49 | Physical model | EMT 140 plate emulation | [Get It (Official)](https://www.arturia.com/products/reverbs/rev-plate-140/overview) |
-| Valhalla Supermassive | Free | Algorithmic | Extreme tails, ambient — free from Valhalla | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production) |
-| TAL-Reverb-4 | Free | Algorithmic | Dense, lush, Linux support | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production) |
+| Valhalla Supermassive | Free | Algorithmic | Extreme tails, ambient — free from Valhalla | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production) |
+| TAL-Reverb-4 | Free | Algorithmic | Dense, lush, Linux support | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-reverb-plugins-music-production) |
 | OldSkoolVerb | Free | Algorithmic | Transparent, low-CPU, Voxengo quality | [Free Download](https://www.voxengo.com/product/oldskoolverb/) |
 | Dragonfly Reverb | Free | Algorithmic suite | Room/Hall/Plate/ER, LV2/Linux | [Free Download](https://github.com/michaelwillis/dragonfly-reverb) |
 | Raum | Free | Algorithmic/Spectral | 3 distinct modes, Cosmic for experimental | [Free Download](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/) |

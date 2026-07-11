@@ -23,9 +23,9 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Arturia Pigments 5 | ~$199 | All-in-one synthesis, any genre | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Pigments%205&a_aid=69cb95abe1763) |
+| Arturia Pigments 5 | ~$199 | All-in-one synthesis, any genre | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20Pigments%205&a_aid=69cb95abe1763) |
 | Phase Plant | ~$199 | Modular-style deep sound design | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) |
-| Arturia V Collection 11 | ~$599 | Vintage instrument bundle | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Arturia%20Pigments%205&a_aid=69cb95abe1763) |
+| Arturia V Collection 11 | ~$599 | Vintage instrument bundle | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20Pigments%205&a_aid=69cb95abe1763) |
 
 ---
 
@@ -56,7 +56,7 @@ The wavetable engine handles the sonic territory that defines modern electronic 
 
 **Best for:** Modern electronic leads, evolving pads, cinematic textures.
 
-[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20Pigments%205&a_aid=69cb95abe1763)
+[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Arturia%20Pigments%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -73,7 +73,7 @@ The virtual analog engine covers the bread-and-butter synthesis that powered dec
 
 **Best for:** Bass lines, classic synth leads, analog chord stabs.
 
-[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20Pigments%205&a_aid=69cb95abe1763)
+[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Arturia%20Pigments%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -90,7 +90,7 @@ The additive engine is where Pigments genuinely separates itself from the pack. 
 
 **Best for:** Experimental textures, bell-like timbres, unique atmospheric elements that stand out in a mix.
 
-[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20Pigments%205&a_aid=69cb95abe1763)
+[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Arturia%20Pigments%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -107,7 +107,7 @@ Granular synthesis slices any audio into microscopic grains and reassembles them
 
 **Best for:** Ambient production, cinematic scoring, experimental electronic music.
 
-[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20Pigments%205&a_aid=69cb95abe1763)
+[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Arturia%20Pigments%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -124,7 +124,7 @@ The sample engine lets you load standard audio files and route them through Pigm
 
 **Best for:** Hybrid synthesis, layering sampled instruments with synthesized textures.
 
-[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Arturia%20Pigments%205&a_aid=69cb95abe1763)
+[→ Get Arturia Pigments 5 on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Arturia%20Pigments%205&a_aid=69cb95abe1763)
 
 ---
 

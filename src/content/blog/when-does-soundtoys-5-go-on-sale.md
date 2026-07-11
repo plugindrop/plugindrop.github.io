@@ -43,7 +43,7 @@ heroImage: '/images/when-does-soundtoys-5-go-on-sale.jpg'
 > **Buying tip:** SoundToys' Black Friday deals are legendary in the production community. If you want the full bundle, Black Friday is definitively the best time. Always check Thomann alongside Plugin Boutique — Thomann has consistently offered an additional $30-70 off on SoundToys vs PB's official price.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 

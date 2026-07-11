@@ -43,7 +43,7 @@ heroImage: '/images/when-does-fabfilter-pro-c-2-go-on-sale.jpg'
 > **Buying tip:** FabFilter Pro-C 2 follows the exact same sale cycle as Pro-Q 4 and Pro-L 2. If FabFilter is running a sale, all three are discounted simultaneously. Consider the Total Bundle if you want multiple FabFilter compressors/limiters.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 

@@ -56,7 +56,7 @@ iZotope Music Production Suite lists at $905–$999, but our tracked sale price 
 
 ### UAD 1176 Classic Limiter Collection — $149 down to $29
 
-Universal Audio's storewide "up to 80% off" events bring the [1176 Classic Limiter Collection](https://www.pluginboutique.com/search?search_query=UAD%201176%20Classic%20Limiter%20Collection&a_aid=69cb95abe1763) from $149 down to a common $49, with a documented low of $29 recorded at Plugin Boutique in May 2025. These UA sales run multiple times a year rather than only at Black Friday, which is worth knowing if you assumed BF was your only shot — see the [Black Friday brand-by-brand breakdown](/posts/is-it-worth-waiting-for-black-friday-plugins/) for the full picture.
+Universal Audio's storewide "up to 80% off" events bring the [1176 Classic Limiter Collection](https://www.pluginboutique.com/search?q=UAD%201176%20Classic%20Limiter%20Collection&a_aid=69cb95abe1763) from $149 down to a common $49, with a documented low of $29 recorded at Plugin Boutique in May 2025. These UA sales run multiple times a year rather than only at Black Friday, which is worth knowing if you assumed BF was your only shot — see the [Black Friday brand-by-brand breakdown](/posts/is-it-worth-waiting-for-black-friday-plugins/) for the full picture.
 
 ### Soundtoys — the flagship bundle and the singles both drop hard
 

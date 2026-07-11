@@ -121,7 +121,7 @@ TDR Nova is genuinely strong for a free plugin and the closest free alternative 
 
 **Best for:** Budget-conscious producers who need dynamic EQ functionality without committing to a paid plugin.
 
-[→ Get TDR Nova on Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763)
+[→ Get TDR Nova on Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763)
 
 ### DMG Audio EQuality — Best for Analog-Voiced Precision
 
@@ -136,7 +136,7 @@ EQuality uses analog-modeled filter curves and has a dedicated following among e
 
 **Best for:** Engineers who specifically want analog filter character paired with strong CPU performance.
 
-[→ Get DMG Audio EQuality on Plugin Boutique](https://www.pluginboutique.com/search?search_query=DMG%20Audio%20EQuality&a_aid=69cb95abe1763)
+[→ Get DMG Audio EQuality on Plugin Boutique](https://www.pluginboutique.com/search?q=DMG%20Audio%20EQuality&a_aid=69cb95abe1763)
 
 ### iZotope Neutron — Best for AI-Assisted Workflow
 

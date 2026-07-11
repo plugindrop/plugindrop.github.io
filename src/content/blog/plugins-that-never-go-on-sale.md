@@ -49,7 +49,7 @@ Valhalla Room, VintageVerb, Plate, Delay, Ubermod, and Shimmer all sell at a fla
 
 ### Serum 2 — $249, no promotions
 
-Xfer's official price for Serum 2 sits at $249, and the developer has publicly stated that Xfer doesn't run promotions or sales on the perpetual license. Our history shows a couple of legacy data points — a $99 intro offer in March 2025 and a one-off $189 price in May 2025 — but neither recurred, and neither should be treated as a pattern. As of our most recent check, the regular price is what you'll pay — [check the current price](https://www.pluginboutique.com/search?search_query=Serum%202&a_aid=69cb95abe1763).
+Xfer's official price for Serum 2 sits at $249, and the developer has publicly stated that Xfer doesn't run promotions or sales on the perpetual license. Our history shows a couple of legacy data points — a $99 intro offer in March 2025 and a one-off $189 price in May 2025 — but neither recurred, and neither should be treated as a pattern. As of our most recent check, the regular price is what you'll pay — [check the current price](https://www.pluginboutique.com/search?q=Serum%202&a_aid=69cb95abe1763).
 
 ### Spectrasonics Omnisphere — $499, direct-only, no sales
 

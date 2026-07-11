@@ -20,7 +20,7 @@ heroImage: "/images/izotope-ozone-11-review_og.jpg"
 | Ozone 11 Standard | ~$199 | Independent artists, bedroom producers | [Official Site](https://www.izotope.com/en/products/ozone.html) |
 | Ozone 11 Advanced | ~$499 | Professional engineers, advanced workflows | [Official Site](https://www.izotope.com/en/products/ozone.html) |
 | FabFilter Pro-L 2 | ~$199 | Dedicated limiting alongside Ozone | [Official Site](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) |
-| iZotope Music Production Suite | Bundle | Full iZotope mixing + mastering ecosystem | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| iZotope Music Production Suite | Bundle | Full iZotope mixing + mastering ecosystem | [Plugin Boutique](https://www.pluginboutique.com/search?q=&a_aid=69cb95abe1763) |
 
 *Prices vary. Always verify current pricing at checkout.*
 
@@ -208,7 +208,7 @@ The separation is not perfect on every source, and artifacts are audible on heav
 - **Price:** Bundle (see current pricing)
 - **Why upgrade:** Ozone 11 Advanced covers mastering completely, but the Music Production Suite adds Neutron (mix bus processing), Nectar (vocal production), RX (audio repair), and the full iZotope plugin library. The Tonal Balance Control plugin — which lets you view the spectral balance of your mix against mastered references while mixing — is only available in the Suite and fundamentally changes how you mix into a master. For producers who want one subscription to cover the entire post-production workflow, this is the route.
 
-[→ Get iZotope Music Production Suite on Plugin Boutique](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763)
+[→ Get iZotope Music Production Suite on Plugin Boutique](https://www.pluginboutique.com/search?q=&a_aid=69cb95abe1763)
 
 ---
 
@@ -220,7 +220,7 @@ The separation is not perfect on every source, and artifacts are audible on heav
 | Ozone 11 Standard | ~$199 | All-in-one mastering | Full module chain, Vintage modules, Match EQ | [Get It](https://www.izotope.com/en/products/ozone.html) |
 | Ozone 11 Advanced | ~$499 | Professional mastering suite | Stem Focus, all modules, advanced metering | [Get It](https://www.izotope.com/en/products/ozone.html) |
 | FabFilter Pro-L 2 | ~$199 | Dedicated limiter | 6 algorithms, broadcast metering, true peak | [Get It](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) |
-| iZotope Music Production Suite | Bundle | Full production ecosystem | Ozone + Neutron + RX + Nectar + Tonal Balance | [Get It](https://www.pluginboutique.com/search?search_query=&a_aid=69cb95abe1763) |
+| iZotope Music Production Suite | Bundle | Full production ecosystem | Ozone + Neutron + RX + Nectar + Tonal Balance | [Get It](https://www.pluginboutique.com/search?q=&a_aid=69cb95abe1763) |
 
 ---
 

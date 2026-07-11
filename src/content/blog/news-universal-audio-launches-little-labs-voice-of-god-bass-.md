@@ -4,13 +4,13 @@ description: Universal Audio has just launched the Little Labs Voice of God Bass
   plugin — a digital recreation of the legendary hardware unit designed to add...
 pubDate: '2026-04-14T11:43:38Z'
 tags: ["sale", "bass", "deals", "effects", "eq", "kick", "mastering", "mixing", "native", "resonance", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?search_query=little+labs+voice+of+god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-universal-audio-launches-little-labs-voice-of-god-bass-"
+affiliate: "https://www.pluginboutique.com/search?q=little+labs+voice+of+god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-universal-audio-launches-little-labs-voice-of-god-bass-"
 heroImage: /images/news-universal-audio-launches-little-labs-voice-of-god-bass-.webp
 dealPrice: "$49"
 draft: false
 score: 4.84
 ---
-**TL;DR:** Universal Audio has just launched the Little Labs Voice of God Bass Resonance plugin — a digital recreation of the legendary hardware unit designed to add weight and sub-harmonic presence to your low end. New releases from UA don't sit unnoticed for long. [Grab it at the official UA store.](https://www.pluginboutique.com/search?search_query=little+labs+voice+of+god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-universal-audio-launches-little-labs-voice-of-god-bass-)
+**TL;DR:** Universal Audio has just launched the Little Labs Voice of God Bass Resonance plugin — a digital recreation of the legendary hardware unit designed to add weight and sub-harmonic presence to your low end. New releases from UA don't sit unnoticed for long. [Grab it at the official UA store.](https://www.pluginboutique.com/search?q=little+labs+voice+of+god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-universal-audio-launches-little-labs-voice-of-god-bass-)
 
 ---
 
@@ -53,7 +53,7 @@ Pricing for new UA plugins varies by format and any introductory offers. Univers
 
 > **Verify current pricing on the product page — deals can change.**
 
-[Check current pricing and availability at Universal Audio.](https://www.pluginboutique.com/search?search_query=little+labs+voice+of+god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-universal-audio-launches-little-labs-voice-of-god-bass-)
+[Check current pricing and availability at Universal Audio.](https://www.pluginboutique.com/search?q=little+labs+voice+of+god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-universal-audio-launches-little-labs-voice-of-god-bass-)
 
 ---
 
@@ -89,7 +89,7 @@ A: Universal Audio offers trials on some plugins. Visit the product page to see 
 
 The Little Labs Voice of God is now live — if low-end weight is something you're actively hunting for, this launch is worth your attention. Hardware-modeled bass tools from credible sources don't come around constantly.
 
-[Get the Little Labs Voice of God at Universal Audio.](https://www.pluginboutique.com/search?search_query=little+labs+voice+of+god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-universal-audio-launches-little-labs-voice-of-god-bass-)
+[Get the Little Labs Voice of God at Universal Audio.](https://www.pluginboutique.com/search?q=little+labs+voice+of+god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-universal-audio-launches-little-labs-voice-of-god-bass-)
 
 ---
 

@@ -341,7 +341,7 @@ Komplete Start is NI's free tier of the Komplete bundle, including Kontakt Playe
 - **Price:** ~$399 (bundle; individual plugins available separately)
 - **Why upgrade:** Individual free and budget delay and saturation tools cover standard use cases well. Soundtoys 5 includes EchoBoy, Decapitator, PhaseMistress, and additional tools in a bundle where their internal Effect Rack enables routing combinations that simply do not exist in comparable budget options. Community consensus on Gearspace and r/audioengineering is that the bundle pricing — particularly during sales — makes it the strongest per-dollar investment in creative effects for producers who have outgrown standard utility tools.
 
-[→ Get Soundtoys 5 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys 5 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 

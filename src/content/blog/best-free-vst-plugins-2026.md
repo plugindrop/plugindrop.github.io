@@ -168,8 +168,8 @@ Free plugins will carry you a long way, but there's a point where a paid tool sa
 | Upgrade | Approx. price | Why step up |
 |---|---|---|
 | [Serum 2](https://xferrecords.com/products/serum) | ~$189 | The industry-standard wavetable synth — deeper factory content and workflow than Vital's free tier |
-| [FabFilter Pro-Q 4](https://www.pluginboutique.com/search?search_query=FabFilter%20Pro-Q&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026) | ~$179 | Surgical + dynamic EQ with the cleanest interface in the business — a true upgrade from TDR Nova |
-| [iZotope Ozone](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) | ~$249 | Assistant-driven mastering chain when Youlean metering shows you're ready to master properly |
+| [FabFilter Pro-Q 4](https://www.pluginboutique.com/search?q=FabFilter%20Pro-Q&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026) | ~$179 | Surgical + dynamic EQ with the cleanest interface in the business — a true upgrade from TDR Nova |
+| [iZotope Ozone](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) | ~$249 | Assistant-driven mastering chain when Youlean metering shows you're ready to master properly |
 
 ## Quick Comparison
 
@@ -181,9 +181,9 @@ Free plugins will carry you a long way, but there's a point where a paid tool sa
 | [Helm](https://tytel.org/helm/) | Synth | Simple, visual polyphonic synth |
 | [Valhalla Supermassive](/posts/best-free-reverb-vst-plugins/) | Reverb/Delay | 18+ modes, massive ambient tails |
 | [Little Plate](/posts/soundtoys-little-plate-free-download/) | Reverb | EMT 140 plate, 3 controls |
-| [TAL-Reverb-4](https://www.pluginboutique.com/search?search_query=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026) | Reverb | Vintage plate character |
+| [TAL-Reverb-4](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026) | Reverb | Vintage plate character |
 | [iZotope Vinyl](/posts/izotope-vinyl-free-lofi-plugin/) | Lo-Fi | Instant analog texture |
-| [Kilohearts Essentials](https://www.pluginboutique.com/search?search_query=Kilohearts%20Essentials&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026) | Multi-FX | Modular effect chain |
+| [Kilohearts Essentials](https://www.pluginboutique.com/search?q=Kilohearts%20Essentials&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026) | Multi-FX | Modular effect chain |
 | [TDR Nova](/posts/best-free-eq-vst-plugins/) | EQ | Dynamic EQ, 4 bands |
 | [OTT](https://xferrecords.com/freeware) | Compressor | Multiband compression standard |
 | [Analog Obsession LALA](https://www.patreon.com/analogobsession) | Compressor | LA-2A optical compression |

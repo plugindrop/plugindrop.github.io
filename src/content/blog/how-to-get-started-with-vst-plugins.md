@@ -22,8 +22,8 @@ priceTrack:
 |--------|-------|----------|--------|
 | Vital | Free | Wavetable synthesis, leads, pads | [Free](https://vital.audio/) |
 | Surge XT | Free | Advanced hybrid synthesis, deep modulation | [Free Download](https://surge-synthesizer.github.io/) |
-| TDR Nova | Free | Transparent dynamic EQ, mixing | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
-| Valhalla Supermassive | Free | Lush reverb, ambient spaces | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
+| TDR Nova | Free | Transparent dynamic EQ, mixing | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
+| Valhalla Supermassive | Free | Lush reverb, ambient spaces | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
 | Serum 2 | $189 | Professional wavetable synthesis, preset ecosystem | [Get Serum 2 (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
 | FabFilter Pro-Q 4 | $179 | Professional mixing and mastering EQ | [Get Pro-Q 4 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
 
@@ -94,7 +94,7 @@ TDR Nova is a parallel dynamic equalizer with four fully parametric bands, a hig
 
 **Best for:** Mixing, mastering, de-essing, and any workflow requiring dynamic EQ without a $150+ budget.
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins)
+[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins)
 
 ---
 
@@ -115,7 +115,7 @@ Valhalla Supermassive is an algorithmic reverb and delay plugin offering 23 dist
 
 **Best for:** Ambient pads, large spaces, send reverb across any genre, and producers who need a capable reverb before spending anything.
 
-[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins)
+[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins)
 
 ---
 
@@ -153,8 +153,8 @@ The free stack above covers a complete production workflow. These paid upgrades 
 |--------|-------|------|------------|-----|
 | Vital | Free | Wavetable Synth | Drag-and-drop modulation, spectral warping, 75 presets | [Download Free (Plugin Boutique)](https://vital.audio/) |
 | Surge XT | Free | Hybrid Synth | 2,800+ presets, multi-synthesis engine, microtonal tuning | [Download Free](https://surge-synthesizer.github.io/) |
-| TDR Nova | Free | Dynamic EQ | 4-band parametric, per-band dynamics, linear phase | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
-| Valhalla Supermassive | Free | Reverb / Delay | 23 modes, infinite decay, low CPU overhead | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
+| TDR Nova | Free | Dynamic EQ | 4-band parametric, per-band dynamics, linear phase | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
+| Valhalla Supermassive | Free | Reverb / Delay | 23 modes, infinite decay, low CPU overhead | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
 | Serum 2 | $189 | Wavetable Synth | Largest third-party preset ecosystem, advanced wavetable editor | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins) |
 | FabFilter Pro-Q 4 | $179 | EQ | Natural phase, collision detection, M/S, mastering precision | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
 

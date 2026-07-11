@@ -17,8 +17,8 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 4 | $179 | Surgical bass EQ with dynamic bands | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
-| TDR Nova | Free | Free dynamic EQ for bass | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR+Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-bass-guitar-plugins) |
-| Waves RBass | $29 | Sub-frequency enhancement | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Waves+RBass&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-bass-guitar-plugins) |
+| TDR Nova | Free | Free dynamic EQ for bass | [Plugin Boutique](https://www.pluginboutique.com/search?q=TDR+Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-bass-guitar-plugins) |
+| Waves RBass | $29 | Sub-frequency enhancement | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves+RBass&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-bass-guitar-plugins) |
 
 ---
 
@@ -130,7 +130,7 @@ This technique works best as a parallel process: duplicate the bass channel, app
 - **Formats:** VST, VST3, AU, AAX
 - **Why it matters for bass EQ:** TDR Nova is a parallel dynamic equalizer with sidechain support — it covers every technique in this guide at no cost. The GE (paid) upgrade adds additional bands and controls, but the free version handles four bands of dynamic EQ, high-pass filtering, and sidechain-triggered processing. For producers who want to apply all four steps in this guide without purchasing additional plugins, TDR Nova is the complete free solution.
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR+Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-bass-guitar-plugins)
+[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR+Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-bass-guitar-plugins)
 
 ---
 
@@ -142,7 +142,7 @@ This technique works best as a parallel process: duplicate the bass channel, app
 - **Formats:** VST, VST3, AU, AAX
 - **Why it matters for bass EQ:** RBass uses a psychoacoustic technique called "missing fundamental" to make bass instruments audible on small speakers by adding synthesized harmonics above the fundamental. It addresses a specific translation problem — bass instruments that disappear on earbuds and laptop speakers — that standard EQ cannot solve because the problem is a lack of harmonic content in the audible range, not a mixing error.
 
-[→ Get Waves RBass (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Waves+RBass&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-bass-guitar-plugins)
+[→ Get Waves RBass (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Waves+RBass&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-bass-guitar-plugins)
 
 ---
 

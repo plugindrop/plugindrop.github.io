@@ -23,12 +23,12 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Soundtoys 5 Bundle | $499 (~$299 on sale) | Complete creative effects suite | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
+| Soundtoys 5 Bundle | $499 (~$299 on sale) | Complete creative effects suite | [Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
 | Decapitator | $199 standalone | Analog saturation & harmonic grit | [Soundtoys](https://www.soundtoys.com/product/decapitator/) |
-| EchoBoy | $199 standalone | Tape & analog delay/echo | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
-| Little AlterBoy | $99 standalone | Vocal pitch & formant shifting | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
-| Crystallizer | $99 standalone | Reverse granular pitch echo | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
-| MicroShift | $99 standalone | Stereo widening & doubling | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763) |
+| EchoBoy | $199 standalone | Tape & analog delay/echo | [Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
+| Little AlterBoy | $99 standalone | Vocal pitch & formant shifting | [Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
+| Crystallizer | $99 standalone | Reverse granular pitch echo | [Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
+| MicroShift | $99 standalone | Stereo widening & doubling | [Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
 
 ---
 
@@ -79,7 +79,7 @@ It excels on acoustic instruments, piano, strings, and any source where you want
 
 **Best for:** Organic tube warmth on acoustic instruments, vocals, and full mix buses.
 
-[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -101,7 +101,7 @@ Four output modes cover everything from standard single echoes to ping-pong dela
 **Best for:** Any delay application, especially when clean digital repeats feel too sterile.
 
 [→ Watch the demo on YouTube](https://www.youtube.com/watch?v=OYHxH3hNQwg)
-[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -120,7 +120,7 @@ This is the bundle's most experimental plugin — it does not have obvious every
 
 **Best for:** Ambient textures, experimental sound design, and ethereal depth on pads and guitars.
 
-[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -139,7 +139,7 @@ Where EchoBoy handles pristine and characterful delays alike, PrimalTap is speci
 
 **Best for:** Lo-fi beats, vintage hip-hop production, and deliberately degraded delay textures.
 
-[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -160,7 +160,7 @@ These artifacts are the point — producers use them intentionally rather than w
 
 **Best for:** Creative vocal processing, gender-bending vocal effects, and experimental pitch design.
 
-[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -179,7 +179,7 @@ The "Vintage" model is particularly effective for making mono synthesizers sound
 
 **Best for:** Widening synths, guitars, and pads without tracking additional takes.
 
-[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -198,7 +198,7 @@ Think classic funky wah filter effects with the precision of sequenced automatio
 
 **Best for:** Rhythmically animated filter effects on synths, bass, and atmospheric textures.
 
-[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -219,7 +219,7 @@ This is not a general-purpose compressor and is not trying to be. For the specif
 
 **Best for:** Aggressive drum bus crush, parallel compression, lo-fi drum textures.
 
-[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -238,7 +238,7 @@ Both support tempo sync while deliberately avoiding perfect quantization. That h
 
 **Best for:** Organic rhythmic movement on guitars, synths, and programmed elements.
 
-[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -252,7 +252,7 @@ Both support tempo sync while deliberately avoiding perfect quantization. That h
 - **Price:** $499 (regularly on sale ~$299)
 - **Why upgrade:** Buying individual Soundtoys plugins adds up fast — Decapitator and EchoBoy alone cost $398 at retail, and you still do not have Little AlterBoy, MicroShift, Crystallizer, Devil-Loc, Tremolator, FilterFreak, and fifteen others. The bundle makes economic sense the moment you want more than two or three plugins.
 
-[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 
@@ -328,7 +328,7 @@ A: For individual effects: Auburn Sounds Graillon 2 covers some vocal pitch terr
 
 Soundtoys 5 is not the flashiest release in any given year, but it is one of the most consistently found plugins on professional producers' and engineers' rigs — because these tools sound right, load fast, and solve real production problems with analog character that digital alternatives consistently fall short of replicating. Wait for a sale, and when the bundle hits around $299, buy it without hesitation.
 
-[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys 5 on Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763)
 
 ---
 

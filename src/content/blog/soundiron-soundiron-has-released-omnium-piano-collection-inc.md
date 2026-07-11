@@ -3,13 +3,13 @@ title: "Soundiron — Soundiron has released Omnium Piano Collection, including 
 description: "The Omnium Piano Collection is a brand-new virtual instrument bundle from Soundiron, a San Francisco–based sample. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-22T05:35:32Z'
 tags: ["review", "soundiron", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?search_query=omnium+piano+collection&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-soundiron-has-released-omnium-piano-collection-inc"
+affiliate: "https://www.pluginboutique.com/search?q=omnium+piano+collection&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-soundiron-has-released-omnium-piano-collection-inc"
 heroImage: /images/soundiron-soundiron-has-released-omnium-piano-collection-inc.jpg
 score: 7.08
 draft: false
 converted: true
 ---
-**Soundiron — Soundiron has released Omnium Piano Collection, including 16 virtual** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?search_query=omnium+piano+collection&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-soundiron-has-released-omnium-piano-collection-inc)
+**Soundiron — Soundiron has released Omnium Piano Collection, including 16 virtual** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?q=omnium+piano+collection&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-soundiron-has-released-omnium-piano-collection-inc)
 
 ---
 
@@ -43,7 +43,7 @@ The $199 intro price represents  Since no hard expiry has been announced, there'
 
 > **Note:** Verify current pricing on the product page — deals can change.
 
-[Get the Omnium Piano Collection at Soundiron.com →](https://www.pluginboutique.com/search?search_query=omnium+piano+collection&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-soundiron-has-released-omnium-piano-collection-inc)
+[Get the Omnium Piano Collection at Soundiron.com →](https://www.pluginboutique.com/search?q=omnium+piano+collection&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-soundiron-has-released-omnium-piano-collection-inc)
 
 ---
 
@@ -76,7 +76,7 @@ A: Refer to Soundiron's licensing terms on the product page for activation limit
 
  The 20% intro discount has no announced expiry, but intro pricing rarely sticks around forever.
 
-[Pick up the Omnium Piano Collection at Soundiron.com →](https://www.pluginboutique.com/search?search_query=omnium+piano+collection&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-soundiron-has-released-omnium-piano-collection-inc)
+[Pick up the Omnium Piano Collection at Soundiron.com →](https://www.pluginboutique.com/search?q=omnium+piano+collection&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-soundiron-has-released-omnium-piano-collection-inc)
 
 ---
 

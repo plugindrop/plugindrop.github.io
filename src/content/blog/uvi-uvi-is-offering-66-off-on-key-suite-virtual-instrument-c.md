@@ -3,13 +3,13 @@ title: "UVI — UVI is offering 66% off on Key Suite virtual instrument collecti
 description: "Key Suite is a virtual instrument collection from UVI — the French developer known for deep-sampled instruments and. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-17T09:23:35Z'
 tags: ["review", "uvi", "music-production", "bundle"]
-affiliate: "https://www.pluginboutique.com/search?search_query=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c"
+affiliate: "https://www.pluginboutique.com/search?q=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c"
 heroImage: /images/uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c.png
 score: 4.25
 draft: false
 converted: true
 ---
-** [Check the current price here.](https://www.pluginboutique.com/search?search_query=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)
+** [Check the current price here.](https://www.pluginboutique.com/search?q=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)
 
 ---
 
@@ -52,7 +52,7 @@ Key Suite has been a recurring recommendation in keyboard-focused instrument dis
 
  UVI doesn't run deep discounts constantly — when they do, it's worth paying attention. This deal is available exclusively through UVI's own store.
 
-**[pluginboutique.com/search?search_query=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)**
+**[pluginboutique.com/search?q=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)**
 
 ---
 
@@ -88,7 +88,7 @@ A: Head directly to the product page — the current discount is reflected there
 
  If you're building out your sound library, this is a strong window to add serious keys coverage at a fraction of the regular price.
 
-**[Check current price at Plugin Boutique](https://www.pluginboutique.com/search?search_query=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)**
+**[Check current price at Plugin Boutique](https://www.pluginboutique.com/search?q=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)**
 
 ---
 

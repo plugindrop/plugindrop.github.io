@@ -19,12 +19,12 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Wider (Polyverse) | Free | All-purpose widening, any DAW | [Free Download](https://polyversemusic.com/products/wider/) |
-| iZotope Ozone Imager 2 | Free | Visual stereo control + mono checking | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=10%20Best%20Stereo%20Widener%20%26%20Imager%20Plugins%20in%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763) |
+| iZotope Ozone Imager 2 | Free | Visual stereo control + mono checking | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Stereo%20Widener%20%26%20Imager%20Plugins%20in%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763) |
 | Voxengo MSED | Free | M/S routing and side-chain processing | [Free Download](https://www.voxengo.com/product/msed/) |
-| Waves S1 Stereo Imager | ~$29 | Classic transparent stereo shaping | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=10%20Best%20Stereo%20Widener%20%26%20Imager%20Plugins%20in%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763) |
-| Brainworx bx_stereomaker | ~$49 | Mono-to-stereo conversion | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=10%20Best%20Stereo%20Widener%20%26%20Imager%20Plugins%20in%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763) |
-| Nugen Audio Stereoizer | ~$99 | Mastering-grade frequency-selective width | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=10%20Best%20Stereo%20Widener%20%26%20Imager%20Plugins%20in%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763) |
-| Soundtoys MicroShift | ~$99 | Analog-character chorus widening | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=10%20Best%20Stereo%20Widener%20%26%20Imager%20Plugins%20in%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763) |
+| Waves S1 Stereo Imager | ~$29 | Classic transparent stereo shaping | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Stereo%20Widener%20%26%20Imager%20Plugins%20in%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763) |
+| Brainworx bx_stereomaker | ~$49 | Mono-to-stereo conversion | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Stereo%20Widener%20%26%20Imager%20Plugins%20in%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763) |
+| Nugen Audio Stereoizer | ~$99 | Mastering-grade frequency-selective width | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Stereo%20Widener%20%26%20Imager%20Plugins%20in%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763) |
+| Soundtoys MicroShift | ~$99 | Analog-character chorus widening | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Stereo%20Widener%20%26%20Imager%20Plugins%20in%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763) |
 
 ---
 
@@ -74,7 +74,7 @@ The mono compatibility checker alone makes this worth installing even if you use
 
 **Best for:** Visual monitoring, multi-band stereo correction, and mono compatibility checks on final mixes.
 
-[→ Get iZotope Ozone Imager 2 on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20iZotope%20Ozone%20Imager%202&a_aid=69cb95abe1763)
+[→ Get iZotope Ozone Imager 2 on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20iZotope%20Ozone%20Imager%202&a_aid=69cb95abe1763)
 
 ---
 
@@ -133,7 +133,7 @@ At its regular sale price, the S1 is one of the best value-for-money professiona
 
 **Best for:** Bus processing, mastering chains, and engineers who want the transparency of a classic M/S widener with a proven professional track record.
 
-[→ Get Waves S1 Stereo Imager on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Waves%20S1%20Stereo%20Imager&a_aid=69cb95abe1763)
+[→ Get Waves S1 Stereo Imager on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Waves%20S1%20Stereo%20Imager&a_aid=69cb95abe1763)
 
 ---
 
@@ -152,7 +152,7 @@ This is the plugin engineers reach for when they receive a mono guitar DI, a mon
 
 **Best for:** Converting mono sources to stereo on individual stems — especially guitars, keys, and synth pads.
 
-[→ Get Brainworx bx_stereomaker on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Brainworx%20bx_stereomaker&a_aid=69cb95abe1763)
+[→ Get Brainworx bx_stereomaker on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Brainworx%20bx_stereomaker&a_aid=69cb95abe1763)
 
 ---
 
@@ -171,7 +171,7 @@ This is a character widener: use it when you want the width itself to contribute
 
 **Best for:** Vocals, guitars, and melodic elements where analog warmth and organic stereo width are creatively desirable.
 
-[→ Get Soundtoys MicroShift on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Soundtoys%20MicroShift&a_aid=69cb95abe1763)
+[→ Get Soundtoys MicroShift on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Soundtoys%20MicroShift&a_aid=69cb95abe1763)
 
 ---
 
@@ -190,7 +190,7 @@ The Punch parameter, which controls transient behavior independently per channel
 
 **Best for:** Mix repair, stereo field balancing, and surgically adjusting center/sides balance on full mixes and stems.
 
-[→ Get Waves Center on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Waves%20Center&a_aid=69cb95abe1763)
+[→ Get Waves Center on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Waves%20Center&a_aid=69cb95abe1763)
 
 ---
 
@@ -209,7 +209,7 @@ The price is higher than most options here, and Nugen discounts less aggressivel
 
 **Best for:** Mastering engineers who need frequency-selective widening with full low-end mono protection and professional delivery standards.
 
-[→ Get Nugen Audio Stereoizer on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Nugen%20Audio%20Stereoizer&a_aid=69cb95abe1763)
+[→ Get Nugen Audio Stereoizer on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Nugen%20Audio%20Stereoizer&a_aid=69cb95abe1763)
 
 ---
 
@@ -228,7 +228,7 @@ If MicroShift feels too saturated or vintage for a production, MicroPitch offers
 
 **Best for:** Modern productions where pitch-based widening is needed with greater precision and fewer vintage coloration artifacts.
 
-[→ Get Eventide MicroPitch on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Eventide%20MicroPitch&a_aid=69cb95abe1763)
+[→ Get Eventide MicroPitch on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Eventide%20MicroPitch&a_aid=69cb95abe1763)
 
 ---
 
@@ -244,7 +244,7 @@ If MicroShift feels too saturated or vintage for a production, MicroPitch offers
 
 This is the single biggest "wait for it" recommendation in this guide. iZotope's list price of $249 is close to a fiction — the plugin spends a large share of the year at 50%+ off. Paying full price for Ozone 12 Standard is close to the worst possible time to buy it. Track the pattern at [when does iZotope Ozone go on sale](/blog/when-does-izotope-ozone-go-on-sale) before committing.
 
-[→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763)
+[→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763)
 
 ---
 
@@ -256,7 +256,7 @@ This is the single biggest "wait for it" recommendation in this guide. iZotope's
 - **Price:** ~$299 list; historically discounted to $199 or lower during major sale events
 - **Why upgrade:** Rather than purchasing S1 and Center individually, the Waves Platinum Bundle includes both plus over 60 additional professional plugins — compressors, EQs, reverbs, and saturation tools — making it one of the most cost-effective ways to build out a professional Waves toolkit in a single purchase. Once the combined standalone price of S1 (~$29) and Center (~$29) plus a handful of other plugins you'd likely want anyway crosses roughly $150-200, the bundle becomes the objectively cheaper path. Check [when does Waves Platinum Bundle go on sale](/blog/when-does-waves-platinum-bundle-go-on-sale) before buying S1 and Center separately — buying both individually at list price and later wanting the bundle is the single most common overspend pattern in this category.
 
-[→ Get Waves Platinum Bundle on Plugin Boutique](https://www.pluginboutique.com/search?search_query=%E2%86%92%20Get%20Waves%20Platinum%20Bundle&a_aid=69cb95abe1763)
+[→ Get Waves Platinum Bundle on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Waves%20Platinum%20Bundle&a_aid=69cb95abe1763)
 
 ---
 

@@ -9,7 +9,7 @@ score: 4.30
 xText: "8Dio Requiem Pro — cathedral recording, 5 soloists, 1000+ choral effects. distinct acoustic character from the others. part of pick-3 deal at $69"
 draft: false
 ---
-**TL;DR:** Requiem Professional is 8Dio's cathedral-recorded choir — a full ensemble plus 5 soloists, captured in a San Francisco church with natural reverb. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](/posts/choirs-solo-vocals-102b4c)**. [Buy on 8Dio →](https://www.pluginboutique.com/search?search_query=requiem+professional&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-requiem-professional)
+**TL;DR:** Requiem Professional is 8Dio's cathedral-recorded choir — a full ensemble plus 5 soloists, captured in a San Francisco church with natural reverb. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](/posts/choirs-solo-vocals-102b4c)**. [Buy on 8Dio →](https://www.pluginboutique.com/search?q=requiem+professional&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-requiem-professional)
 
 ---
 
@@ -51,7 +51,7 @@ Requiem Professional suits composers who want a choir with inherent room and atm
 
 Requiem Professional is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](/posts/choirs-solo-vocals-102b4c)** offer. Its cathedral character pairs well with Lacrimosa for a large-scale epic combination, or with Liberis for a sacred/innocent contrast.
 
-[→ See all eligible titles and grab the deal](https://www.pluginboutique.com/search?search_query=requiem+professional&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-requiem-professional)
+[→ See all eligible titles and grab the deal](https://www.pluginboutique.com/search?q=requiem+professional&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-requiem-professional)
 
 ---
 

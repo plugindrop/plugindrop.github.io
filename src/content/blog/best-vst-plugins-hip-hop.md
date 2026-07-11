@@ -25,7 +25,7 @@ draft: false
 | Waves SSL G-Master | From $29 | Bus glue compression | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | iZotope Vinyl | Free | Lofi vinyl texture | [Free Download](https://www.izotope.com/en/products/vinyl) |
 | Vital | Free | Serum alternative for 808 design | [Free](https://vital.audio/) |
-| Valhalla Supermassive | Free | Snare tails & 808 space | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
+| Valhalla Supermassive | Free | Snare tails & 808 space | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
 
 ---
 
@@ -179,7 +179,7 @@ OB-Xd models the Oberheim OB-X series — synthesizers that appear throughout th
 
 **Best for:** Boom bap and old-school hip-hop producers who want vintage analog character in chord stabs and keys.
 
-[→ Download OB-Xd Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop)
+[→ Download OB-Xd Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop)
 
 ---
 
@@ -200,7 +200,7 @@ Valhalla Supermassive is arguably the most unanimously recommended free plugin a
 
 **Best for:** Snare reverb tails, 808 spatial depth, pad atmospherics, and any element that needs space.
 
-[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop)
+[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop)
 
 ---
 
@@ -272,7 +272,7 @@ KVR Audio consistently rates TDR Nova as one of the best free EQ plugins availab
 
 **Best for:** Managing 808 and kick resonances, transparent mix EQ, and dynamic frequency correction.
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop)
+[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop)
 
 ---
 
@@ -347,12 +347,12 @@ LoudMax is a look-ahead true peak limiter that producer forums recommend when yo
 | iZotope Vinyl | Free | Character Effect | Vinyl artifact simulation, lofi texture, instant character | [Free](https://www.izotope.com/en/products/vinyl) |
 | Vital | Free | Wavetable Synth | Serum-class engine, custom wavetables, free tier | [Free](https://vital.audio/) |
 | LABS | Free | Sample Library | High-quality instrument samples, released periodically | [Free](https://labs.spitfireaudio.com) |
-| Valhalla Supermassive | Free | Reverb | Lush algorithmic reverb, CPU-efficient, universal pick | [Free](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
+| Valhalla Supermassive | Free | Reverb | Lush algorithmic reverb, CPU-efficient, universal pick | [Free](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
 | Surge XT | Free | Hybrid Synth | Wavetable + FM + analog, open source, deep modulation | [Free](https://surge-synthesizer.github.io) |
-| OB-Xd | Free | Analog Synth | Oberheim emulation, warm character, vintage stabs | [Free](https://www.pluginboutique.com/search?search_query=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
+| OB-Xd | Free | Analog Synth | Oberheim emulation, warm character, vintage stabs | [Free](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
 | GlitchMachines Hysteresis | Free | Tape Delay | Wow/flutter/saturation, lo-fi tape character | [Free](https://glitchmachines.com/products/hysteresis/) |
 | Graillon 2 | Free / $25 | Pitch Effect | Pitch correction, formant shift, vocal modulation | [Free](https://www.auburnsounds.com/products/Graillon.html) |
-| TDR Nova | Free | Dynamic EQ | Parallel dynamic EQ, 808 resonance control | [Free](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
+| TDR Nova | Free | Dynamic EQ | Parallel dynamic EQ, 808 resonance control | [Free](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) |
 | Klanghelm IVGI | Free | Saturation | Tube/tape saturation, 808 harmonic density | [Free](https://klanghelm.com/contents/products/IVGI.php) |
 | LoudMax | Free | Limiter | Look-ahead true peak limiting, transparent masters | [Free](https://loudmax.blogspot.com) |
 

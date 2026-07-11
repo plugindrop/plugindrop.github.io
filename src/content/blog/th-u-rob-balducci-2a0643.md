@@ -3,13 +3,13 @@ title: "TH-U Rob Balducci — Overloud Mid-Season Sale 50% Off: Features, Pricin
 description: "TH-U Rob Balducci is an artist signature expansion for Overloud's TH-U guitar amp simulation platform. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-22T08:39:13Z'
 tags: ["review", "vst-plugin", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?search_query=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643"
+affiliate: "https://www.pluginboutique.com/search?q=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643"
 heroImage: /images/th-u-rob-balducci-2a0643.jpg
 score: 3.35
 draft: true
 converted: true
 ---
-** [Check the current price here.](https://www.pluginboutique.com/search?search_query=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643)
+** [Check the current price here.](https://www.pluginboutique.com/search?q=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643)
 
 ---
 
@@ -39,7 +39,7 @@ Note: TH-U (the base plugin) is required to run this expansion. Check the produc
 
 Verify current pricing on the product page — deals can change.
 
-[Pick up TH-U Rob Balducci at Overloud](https://www.pluginboutique.com/search?search_query=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643)
+[Pick up TH-U Rob Balducci at Overloud](https://www.pluginboutique.com/search?q=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643)
 
 ---
 
@@ -70,7 +70,7 @@ A: Rob Balducci is a guitarist known for his work in the melodic rock and instru
 
 ## Where to Buy
 
-[Grab the TH-U Rob Balducci expansion at Overloud](https://www.pluginboutique.com/search?search_query=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643) for €49 during the mid-season sale and add it to your TH-U library.
+[Grab the TH-U Rob Balducci expansion at Overloud](https://www.pluginboutique.com/search?q=th+u+rob+balducci&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=th-u-rob-balducci-2a0643) for €49 during the mid-season sale and add it to your TH-U library.
 
 ---
 

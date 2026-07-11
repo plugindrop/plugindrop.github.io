@@ -22,7 +22,7 @@ priceTrack: ["Bloom Vocal Choir"]
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Spitfire LABS Choir | Free | Cinematic realism, film scoring, ambient beds | [Free Download](https://labs.spitfireaudio.com/) |
-| BBC Symphony Orchestra Discover | Free | Full orchestral library with integrated choir | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-choir-vst-plugins) |
+| BBC Symphony Orchestra Discover | Free | Full orchestral library with integrated choir | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-choir-vst-plugins) |
 | DSK Choirs | Free | CPU-light choir textures, Windows workflow | Free (DSK Music) |
 | Virtual Playing Orchestra | Free | Complete orchestral + choir template | Free (community project) |
 | Sonatina Symphonic Orchestra | Free | Open SFZ choir, maximum portability | Free (community project) |
@@ -77,7 +77,7 @@ The choir section in Discover is not as detailed as LABS Choir in isolation. The
 
 **Best for:** Film composers and orchestral producers who need choir as one section among many, not as the centerpiece.
 
-[→ Download BBC Symphony Orchestra Discover Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-choir-vst-plugins)
+[→ Download BBC Symphony Orchestra Discover Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-choir-vst-plugins)
 
 ---
 
@@ -230,7 +230,7 @@ The constraint is platform lock-in: Soundpaint instruments require the Soundpain
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Spitfire LABS Choir | Free | Sampled choir | Professional ensemble recording, LABS player | [Free Download](https://labs.spitfireaudio.com/) |
-| BBC Symphony Orchestra Discover | Free | Full orchestral library | Maida Vale recording, choir + full orchestra | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-choir-vst-plugins) |
+| BBC Symphony Orchestra Discover | Free | Full orchestral library | Maida Vale recording, choir + full orchestra | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-choir-vst-plugins) |
 | DSK Choirs | Free | Sampled VST | Lightweight, no extra player, Windows | Free (DSK Music) |
 | Virtual Playing Orchestra | Free | SFZ orchestral | Full orchestra + choir, community-maintained | Free (community) |
 | Sonatina Symphonic Orchestra | Free | SFZ orchestral | Open-source, cross-platform, portable | Free (community) |

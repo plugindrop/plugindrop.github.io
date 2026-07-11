@@ -3,7 +3,7 @@ title: "Smoke Mono 1, MPE Emulator, Spectaverb: Free Plugins of the Week"
 description: "Smoke Mono 1, MPE Emulator, and Spectaverb are all free downloads this week — zero cost, zero strings. If you're refreshing your plugin arsenal anyway,"
 pubDate: "2026-04-26T06:44:41Z"
 tags: ["tips  tricks", "effect", "free", "free plug-ins this week", "freeware", "linux", "midi", "monophonic", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?search_query=decapitator&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee"
+affiliate: "https://www.pluginboutique.com/search?q=decapitator&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee"
 heroImage: "/images/smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee.png"
 score: 7.95
 dealPrice: "$69"
@@ -12,7 +12,7 @@ discount: "65% OFF"
 xText: "three free plugins this week and spectaverb's the one that actually changes reverb. mpe emulator's slept on too. grab all three while they're loose, don't sleep."
 draft: false
 ---
-**TL;DR:** Smoke Mono 1, MPE Emulator, and Spectaverb are all free downloads this week — zero cost, zero strings. If you're refreshing your plugin arsenal anyway, Decapitator from SoundToys is also on sale at ~~$199~~ $69 right now. [Check the Plugin Boutique deal here.](https://www.pluginboutique.com/search?search_query=decapitator&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee)
+**TL;DR:** Smoke Mono 1, MPE Emulator, and Spectaverb are all free downloads this week — zero cost, zero strings. If you're refreshing your plugin arsenal anyway, Decapitator from SoundToys is also on sale at ~~$199~~ $69 right now. [Check the Plugin Boutique deal here.](https://www.pluginboutique.com/search?q=decapitator&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee)
 
 ---
 
@@ -82,7 +82,7 @@ All three are free with no time limit — verify activation requirements on each
 
 ### Bonus Paid Deal This Week
 
-If you're already browsing deals, SoundToys Decapitator is currently ~~$199~~ **$69** on Plugin Boutique — one of the most-recommended saturation plugins in mixing communities. [Grab Decapitator at $69 here.](https://www.pluginboutique.com/search?search_query=decapitator&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee)
+If you're already browsing deals, SoundToys Decapitator is currently ~~$199~~ **$69** on Plugin Boutique — one of the most-recommended saturation plugins in mixing communities. [Grab Decapitator at $69 here.](https://www.pluginboutique.com/search?q=decapitator&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee)
 
 *Verify current pricing on the product page — deals can change.*
 
@@ -112,13 +112,13 @@ A: Activation requirements vary by developer. Check each plugin's official page 
 A: Format availability differs per plugin. Verify supported formats and DAW compatibility on each developer's product page before downloading.
 
 **Q: Is the Decapitator deal available everywhere or only on Plugin Boutique?**
-A: The ~~$199~~ $69 price linked here is via Plugin Boutique. [Check availability and current pricing here.](https://www.pluginboutique.com/search?search_query=decapitator&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee)
+A: The ~~$199~~ $69 price linked here is via Plugin Boutique. [Check availability and current pricing here.](https://www.pluginboutique.com/search?q=decapitator&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee)
 
 ---
 
 ## Get the Deal
 
-All three free plugins are available now — no price barrier, no excuse not to grab them. And if Decapitator at ~~$199~~ **$69** has been on your list, this is a solid window to pull the trigger. [See the Plugin Boutique deal here.](https://www.pluginboutique.com/search?search_query=decapitator&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee)
+All three free plugins are available now — no price barrier, no excuse not to grab them. And if Decapitator at ~~$199~~ **$69** has been on your list, this is a solid window to pull the trigger. [See the Plugin Boutique deal here.](https://www.pluginboutique.com/search?q=decapitator&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee)
 
 ---
 

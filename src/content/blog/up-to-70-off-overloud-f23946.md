@@ -3,13 +3,13 @@ title: "Overloud: Features, Pricing & Is It Worth It? (2026)"
 description: "Overloud is an Italian audio software company known for high-fidelity analog hardware emulations and guitar amp. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-02T08:45:15Z'
 tags: ["review", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?search_query=overloud&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=up-to-70-off-overloud-f23946"
+affiliate: "https://www.pluginboutique.com/search?q=overloud&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=up-to-70-off-overloud-f23946"
 heroImage: /images/up-to-70-off-overloud-f23946.webp
 score: 2.45
 draft: true
 converted: true
 ---
-**Overloud** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?search_query=overloud&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=up-to-70-off-overloud-f23946)
+**Overloud** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?q=overloud&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=up-to-70-off-overloud-f23946)
 
 ---
 
@@ -60,7 +60,7 @@ A: Overloud has offered TH-U Essentials as a free download in the past. Check th
 
 ## Where to Buy
 
- Whether you're stacking Gems for your mix chain or grabbing TH-U for amp sim duties, the math favors buying now. [See all Overloud deals on KVR Marketplace](https://www.pluginboutique.com/search?search_query=overloud&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=up-to-70-off-overloud-f23946).
+ Whether you're stacking Gems for your mix chain or grabbing TH-U for amp sim duties, the math favors buying now. [See all Overloud deals on KVR Marketplace](https://www.pluginboutique.com/search?q=overloud&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=up-to-70-off-overloud-f23946).
 
 ---
 

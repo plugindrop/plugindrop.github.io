@@ -25,7 +25,7 @@ priceTrack:
 | Nexus 4 | $149 | Ready-to-use trap preset library | [Get Nexus 4](https://www.refx.com/nexus/) |
 | Battery 4 | $99 | Professional trap drum programming | [Get Battery 4](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) |
 | Vital | Free | Full-featured free Serum alternative | [Free](https://vital.audio/) |
-| Valhalla Supermassive | Free | Atmospheric reverb and space | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins) |
+| Valhalla Supermassive | Free | Atmospheric reverb and space | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins) |
 | iZotope Vinyl | Free | Texture, analog character, crackle | [Free Download](https://www.izotope.com/en/products/vinyl) |
 
 ---
@@ -169,7 +169,7 @@ TAL-NoiseMaker covers standard virtual analog synthesis — two oscillators, fil
 
 **Best for:** Beginners learning synthesis fundamentals and budget setups that need a capable fallback synth.
 
-[→ Download TAL-NoiseMaker Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins)
+[→ Download TAL-NoiseMaker Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins)
 
 ---
 
@@ -226,7 +226,7 @@ KVR's community votes and producer forum threads consistently rank Valhalla Supe
 
 **Best for:** Atmospheric reverb on 808s, pads, and leads. Non-negotiable free download for any genre.
 
-[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins)
+[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins)
 
 ---
 
@@ -305,9 +305,9 @@ If you're running on free tools and ready to invest in one paid synth, these are
 | RC-20 Retro Color | ~$99 | FX Unit | Noise, wobble, bit crush, analog color | [Get RC-20](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
 | iZotope Vinyl | Free | Texture FX | Vinyl simulation, harmonic warmth | [Free Download](https://www.izotope.com/en/products/vinyl) |
 | Vital | Free | Wavetable Synth | Full-featured, modulation matrix, Serum-comparable engine | [Free](https://vital.audio/) |
-| Valhalla Supermassive | Free | Reverb/Delay | Best free reverb, massive atmospheric tails | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins) |
+| Valhalla Supermassive | Free | Reverb/Delay | Best free reverb, massive atmospheric tails | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins) |
 | LFO Tool | Free | Sidechain FX | Tempo-sync volume, pumping effect, from Xfer | [Free Download](https://xferrecords.com/products/lfo_tool) |
-| TAL-NoiseMaker | Free | Virtual Analog | Basic subtractive, beginner-accessible | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins) |
+| TAL-NoiseMaker | Free | Virtual Analog | Basic subtractive, beginner-accessible | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins) |
 
 ---
 

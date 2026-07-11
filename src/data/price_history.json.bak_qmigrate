@@ -382,7 +382,7 @@
       ]
     },
     "Cableguys ShaperBox 3": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Cableguys%20ShaperBox%203",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Cableguys%20ShaperBox%203",
       "typical_regular": 149,
       "typical_sale": 75,
       "all_time_low": null,
@@ -434,7 +434,7 @@
       "category": "EQ"
     },
     "FabFilter Pro-C 2": {
-      "pb_url": "/search?q=FabFilter%20Pro-C%202",
+      "pb_url": "/search?search_query=FabFilter%20Pro-C%202",
       "typical_regular": 129,
       "typical_sale": 97,
       "all_time_low": 97,
@@ -518,7 +518,7 @@
       "category": "Synth"
     },
     "Serum 2": {
-      "pb_url": "/search?q=Serum%202",
+      "pb_url": "/search?search_query=Serum%202",
       "typical_regular": 249,
       "typical_sale": 189,
       "all_time_low": 99,
@@ -552,7 +552,7 @@
       "category": "Synth"
     },
     "iZotope Ozone 11 Standard": {
-      "pb_url": "/search?q=iZotope%20Ozone%2011%20Standard",
+      "pb_url": "/search?search_query=iZotope%20Ozone%2011%20Standard",
       "typical_regular": 199,
       "typical_sale": 99,
       "all_time_low": 70,
@@ -586,7 +586,7 @@
       "category": "Mastering"
     },
     "iZotope Ozone 11 Advanced": {
-      "pb_url": "/search?q=iZotope%20Ozone%2011%20Advanced",
+      "pb_url": "/search?search_query=iZotope%20Ozone%2011%20Advanced",
       "typical_regular": 399,
       "typical_sale": 199,
       "all_time_low": 141,
@@ -734,7 +734,7 @@
       "category": "Synth"
     },
     "Spectrasonics Omnisphere": {
-      "pb_url": "/search?q=Spectrasonics%20Omnisphere",
+      "pb_url": "/search?search_query=Spectrasonics%20Omnisphere",
       "typical_regular": 499,
       "typical_sale": null,
       "all_time_low": null,
@@ -750,7 +750,7 @@
       "category": "Synth"
     },
     "reFX Nexus 5": {
-      "pb_url": "/search?q=reFX%20Nexus%205",
+      "pb_url": "/search?search_query=reFX%20Nexus%205",
       "typical_regular": 249,
       "typical_sale": 179,
       "all_time_low": null,
@@ -766,7 +766,7 @@
       "category": "Synth"
     },
     "LennarDigital Sylenth1": {
-      "pb_url": "/search?q=LennarDigital%20Sylenth1",
+      "pb_url": "/search?search_query=LennarDigital%20Sylenth1",
       "typical_regular": 149,
       "typical_sale": 135,
       "all_time_low": 135,
@@ -836,7 +836,7 @@
       "category": "Reverb"
     },
     "oeksound Soothe2": {
-      "pb_url": "/search?q=oeksound%20Soothe2",
+      "pb_url": "/search?search_query=oeksound%20Soothe2",
       "typical_regular": 199,
       "typical_sale": 139,
       "all_time_low": null,
@@ -852,7 +852,7 @@
       "category": "EQ"
     },
     "Soundtheory Gullfoss": {
-      "pb_url": "/search?q=Soundtheory%20Gullfoss",
+      "pb_url": "/search?search_query=Soundtheory%20Gullfoss",
       "typical_regular": 199,
       "typical_sale": 139,
       "all_time_low": null,
@@ -948,7 +948,7 @@
       "category": "Instrument"
     },
     "Vital": {
-      "pb_url": "/search?q=Vital",
+      "pb_url": "/search?search_query=Vital",
       "typical_regular": 0,
       "typical_sale": null,
       "all_time_low": null,
@@ -1108,7 +1108,7 @@
       ]
     },
     "Tokyo Dawn Labs TDR Nova GE": {
-      "pb_url": "https://www.pluginboutique.com/search?q=TDR%20Nova%20GE",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=TDR%20Nova%20GE",
       "typical_regular": 60,
       "typical_sale": 19,
       "all_time_low": 14,
@@ -1242,7 +1242,7 @@
       ]
     },
     "Waves CLA-76": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Waves%20CLA-76",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Waves%20CLA-76",
       "typical_regular": 149,
       "typical_sale": 29.99,
       "all_time_low": null,
@@ -1306,7 +1306,7 @@
       ]
     },
     "Relab Development LX480 Complete": {
-      "pb_url": "https://www.pluginboutique.com/search?q=LX480%20Dual-Engine%20Reverb",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=LX480%20Dual-Engine%20Reverb",
       "typical_regular": 349,
       "typical_sale": 149,
       "all_time_low": null,
@@ -1386,7 +1386,7 @@
       ]
     },
     "iZotope Ozone Elements": {
-      "pb_url": "https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Elements",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=iZotope%20Ozone%2012%20Elements",
       "typical_regular": 55,
       "typical_sale": 29,
       "all_time_low": 29,
@@ -1568,7 +1568,7 @@
       ]
     },
     "Antares Auto-Tune Pro": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Antares%20Auto-Tune%20Pro",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Antares%20Auto-Tune%20Pro",
       "typical_regular": 450,
       "typical_sale": 250,
       "all_time_low": null,
@@ -1600,7 +1600,7 @@
       ]
     },
     "iZotope Nectar 4": {
-      "pb_url": "https://www.pluginboutique.com/search?q=iZotope%20Nectar%204",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=iZotope%20Nectar%204",
       "typical_regular": 199,
       "typical_sale": 149.25,
       "all_time_low": 129,
@@ -1852,7 +1852,7 @@
       ]
     },
     "Native Instruments FM8": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Native%20Instruments%20FM8",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Native%20Instruments%20FM8",
       "typical_regular": 99,
       "typical_sale": 29,
       "all_time_low": 10,
@@ -1932,7 +1932,7 @@
       ]
     },
     "Native Instruments Raum": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Native%20Instruments%20Raum",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Raum",
       "typical_regular": 49,
       "typical_sale": 25,
       "all_time_low": null,
@@ -1964,7 +1964,7 @@
       ]
     },
     "Native Instruments Action Strings": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Native%20Instruments%20Action%20Strings",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Action%20Strings",
       "typical_regular": 199,
       "typical_sale": 99,
       "all_time_low": null,
@@ -1980,7 +1980,7 @@
       ]
     },
     "Native Instruments Discovery Series West Africa": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Native%20Instruments%20Discovery%20Series%20West%20Africa",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Discovery%20Series%20West%20Africa",
       "typical_regular": 149,
       "typical_sale": 74,
       "all_time_low": null,
@@ -1996,7 +1996,7 @@
       ]
     },
     "Native Instruments Strummed Acoustic 2": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Native%20Instruments%20Strummed%20Acoustic%202",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Native%20Instruments%20Strummed%20Acoustic%202",
       "typical_regular": 149,
       "typical_sale": 74,
       "all_time_low": null,
@@ -2012,7 +2012,7 @@
       ]
     },
     "Arturia Analog Lab": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Arturia%20Analog%20Lab",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Arturia%20Analog%20Lab",
       "typical_regular": 199,
       "typical_sale": 89,
       "all_time_low": null,
@@ -2060,7 +2060,7 @@
       ]
     },
     "Arturia CS-80 V": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Arturia%20CS-80%20V",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Arturia%20CS-80%20V",
       "typical_regular": 149,
       "typical_sale": 89,
       "all_time_low": null,
@@ -2076,7 +2076,7 @@
       ]
     },
     "Arturia Prophet V": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Arturia%20Prophet%20V",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Arturia%20Prophet%20V",
       "typical_regular": 149,
       "typical_sale": 89,
       "all_time_low": null,
@@ -2092,7 +2092,7 @@
       ]
     },
     "Arturia Piano V": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Arturia%20Piano%20V",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Arturia%20Piano%20V",
       "typical_regular": 199,
       "typical_sale": 99,
       "all_time_low": null,
@@ -2140,7 +2140,7 @@
       ]
     },
     "iZotope Trash 2": {
-      "pb_url": "https://www.pluginboutique.com/search?q=iZotope%20Trash%202",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=iZotope%20Trash%202",
       "typical_regular": 99,
       "typical_sale": 29,
       "all_time_low": 29,
@@ -2156,7 +2156,7 @@
       ]
     },
     "iZotope Iris 2": {
-      "pb_url": "https://www.pluginboutique.com/search?q=iZotope%20Iris%202",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=iZotope%20Iris%202",
       "typical_regular": 149,
       "typical_sale": null,
       "all_time_low": null,
@@ -2188,7 +2188,7 @@
       ]
     },
     "iZotope Tonal Balance Control 2": {
-      "pb_url": "https://www.pluginboutique.com/search?q=iZotope%20Tonal%20Balance%20Control%202",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=iZotope%20Tonal%20Balance%20Control%202",
       "typical_regular": 99,
       "typical_sale": 29,
       "all_time_low": null,
@@ -2204,7 +2204,7 @@
       ]
     },
     "Waves H-Delay": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Waves%20H-Delay",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Waves%20H-Delay",
       "typical_regular": 69.99,
       "typical_sale": 24.99,
       "all_time_low": null,
@@ -2220,7 +2220,7 @@
       ]
     },
     "Waves H-Reverb": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Waves%20H-Reverb",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Waves%20H-Reverb",
       "typical_regular": 129,
       "typical_sale": 24.99,
       "all_time_low": null,
@@ -2300,7 +2300,7 @@
       ]
     },
     "Waves PuigTec EQP-1A": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Waves%20PuigTec%20EQP-1A",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Waves%20PuigTec%20EQP-1A",
       "typical_regular": 109,
       "typical_sale": 24.99,
       "all_time_low": null,
@@ -2514,7 +2514,7 @@
       ]
     },
     "Softube Summit Audio TLA-100A": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Softube%20Summit%20Audio%20TLA-100A",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Softube%20Summit%20Audio%20TLA-100A",
       "typical_regular": 249,
       "typical_sale": 79,
       "all_time_low": null,
@@ -2530,7 +2530,7 @@
       ]
     },
     "Softube Tube-Tech CL 1B": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Softube%20Tube-Tech%20CL%201B",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Softube%20Tube-Tech%20CL%201B",
       "typical_regular": 399,
       "typical_sale": 99,
       "all_time_low": 56.5,
@@ -2568,7 +2568,7 @@
       ]
     },
     "Softube Model 72": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Softube%20Model%2072",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Softube%20Model%2072",
       "typical_regular": 149,
       "typical_sale": 49,
       "all_time_low": null,
@@ -2584,7 +2584,7 @@
       ]
     },
     "Softube Drawmer S73": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Softube%20Drawmer%20S73",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Softube%20Drawmer%20S73",
       "typical_regular": 249,
       "typical_sale": 89,
       "all_time_low": null,
@@ -2616,7 +2616,7 @@
       ]
     },
     "Plugin Alliance bx_console SSL 4000E": {
-      "pb_url": "https://www.pluginboutique.com/search?q=bx_console%20SSL%204000E",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=bx_console%20SSL%204000E",
       "typical_regular": 299,
       "typical_sale": 29.99,
       "all_time_low": 29.99,
@@ -2632,7 +2632,7 @@
       ]
     },
     "Plugin Alliance bx_console Neve 88RS": {
-      "pb_url": "https://www.pluginboutique.com/search?q=bx_console%20Neve%2088RS",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=bx_console%20Neve%2088RS",
       "typical_regular": 299,
       "typical_sale": 29.99,
       "all_time_low": 29.99,
@@ -2648,7 +2648,7 @@
       ]
     },
     "Plugin Alliance Maag EQ4": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Maag%20EQ4",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Maag%20EQ4",
       "typical_regular": 179,
       "typical_sale": 29.99,
       "all_time_low": 29.99,
@@ -2664,7 +2664,7 @@
       ]
     },
     "Plugin Alliance SPL Vitalizer": {
-      "pb_url": "https://www.pluginboutique.com/search?q=SPL%20Vitalizer",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=SPL%20Vitalizer",
       "typical_regular": 179,
       "typical_sale": 29.99,
       "all_time_low": 29.99,
@@ -2680,7 +2680,7 @@
       ]
     },
     "Plugin Alliance Lindell 80 Series": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Lindell%2080%20Series",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Lindell%2080%20Series",
       "typical_regular": 229,
       "typical_sale": 29.99,
       "all_time_low": 29.99,
@@ -2712,7 +2712,7 @@
       ]
     },
     "Plugin Alliance Elysia niveau filter": {
-      "pb_url": "https://www.pluginboutique.com/search?q=elysia%20niveau%20filter",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=elysia%20niveau%20filter",
       "typical_regular": 299,
       "typical_sale": 29.99,
       "all_time_low": 29.99,
@@ -2728,7 +2728,7 @@
       ]
     },
     "UAD LA-2A Collection": {
-      "pb_url": "https://www.pluginboutique.com/search?q=UAD%20LA-2A%20Collection",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=UAD%20LA-2A%20Collection",
       "typical_regular": 149,
       "typical_sale": 49,
       "all_time_low": null,
@@ -2744,7 +2744,7 @@
       ]
     },
     "UAD Neve 1073": {
-      "pb_url": "https://www.pluginboutique.com/search?q=UAD%20Neve%201073",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=UAD%20Neve%201073",
       "typical_regular": 199,
       "typical_sale": 79,
       "all_time_low": null,
@@ -2776,7 +2776,7 @@
       ]
     },
     "UAD Studer A800": {
-      "pb_url": "https://www.pluginboutique.com/search?q=UAD%20Studer%20A800",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=UAD%20Studer%20A800",
       "typical_regular": 199,
       "typical_sale": 39,
       "all_time_low": 39,
@@ -2872,7 +2872,7 @@
       ]
     },
     "Spitfire Studio Orchestra": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Spitfire%20Audio%20Studio%20Orchestra",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Spitfire%20Audio%20Studio%20Orchestra",
       "typical_regular": 399,
       "typical_sale": 220,
       "all_time_low": null,
@@ -2974,7 +2974,7 @@
       ]
     },
     "Output Analog Brass and Winds": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Output%20Analog%20Brass%20and%20Winds",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Output%20Analog%20Brass%20and%20Winds",
       "typical_regular": 199,
       "typical_sale": 129,
       "all_time_low": null,
@@ -3262,7 +3262,7 @@
       ]
     },
     "Xfer Nerve": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Xfer%20Nerve",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Xfer%20Nerve",
       "typical_regular": 149,
       "typical_sale": 99,
       "all_time_low": null,
@@ -3278,7 +3278,7 @@
       ]
     },
     "Xfer Cthulhu": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Xfer%20Cthulhu",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Xfer%20Cthulhu",
       "typical_regular": 50,
       "typical_sale": 35,
       "all_time_low": null,
@@ -3294,7 +3294,7 @@
       ]
     },
     "Xfer LFO Tool": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Xfer%20LFO%20Tool",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Xfer%20LFO%20Tool",
       "typical_regular": 49,
       "typical_sale": 35,
       "all_time_low": null,
@@ -3326,7 +3326,7 @@
       ]
     },
     "UVI World Suite": {
-      "pb_url": "https://www.pluginboutique.com/search?q=UVI%20World%20Suite",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=UVI%20World%20Suite",
       "typical_regular": 299,
       "typical_sale": 189,
       "all_time_low": null,
@@ -3342,7 +3342,7 @@
       ]
     },
     "UVI Model D": {
-      "pb_url": "https://www.pluginboutique.com/search?q=UVI%20Model%20D",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=UVI%20Model%20D",
       "typical_regular": 89,
       "typical_sale": 49,
       "all_time_low": null,
@@ -3358,7 +3358,7 @@
       ]
     },
     "UVI Digital Synsations": {
-      "pb_url": "https://www.pluginboutique.com/search?q=UVI%20Digital%20Synsations",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=UVI%20Digital%20Synsations",
       "typical_regular": 149,
       "typical_sale": 89,
       "all_time_low": null,
@@ -3374,7 +3374,7 @@
       ]
     },
     "Toontrack EZkeys 2": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Toontrack%20EZkeys%202",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Toontrack%20EZkeys%202",
       "typical_regular": 149,
       "typical_sale": 99,
       "all_time_low": null,
@@ -3390,7 +3390,7 @@
       ]
     },
     "Toontrack EZbass": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Toontrack%20EZbass",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Toontrack%20EZbass",
       "typical_regular": 149,
       "typical_sale": 99,
       "all_time_low": null,
@@ -3406,7 +3406,7 @@
       ]
     },
     "Toontrack EZmix 3": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Toontrack%20EZmix%203",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Toontrack%20EZmix%203",
       "typical_regular": 149,
       "typical_sale": 99,
       "all_time_low": null,
@@ -3422,7 +3422,7 @@
       ]
     },
     "Toontrack Metal! EZX": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Toontrack%20Metal%20EZX",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Toontrack%20Metal%20EZX",
       "typical_regular": 79,
       "typical_sale": 39,
       "all_time_low": null,
@@ -3438,7 +3438,7 @@
       ]
     },
     "XLN Audio Addictive Drums 2": {
-      "pb_url": "https://www.pluginboutique.com/search?q=XLN%20Audio%20Addictive%20Drums%202",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=XLN%20Audio%20Addictive%20Drums%202",
       "typical_regular": 159,
       "typical_sale": 98,
       "all_time_low": 98,
@@ -3454,7 +3454,7 @@
       ]
     },
     "XLN Audio XO": {
-      "pb_url": "https://www.pluginboutique.com/search?q=XLN%20Audio%20XO",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=XLN%20Audio%20XO",
       "typical_regular": 149,
       "typical_sale": 89,
       "all_time_low": 61,
@@ -3470,7 +3470,7 @@
       ]
     },
     "XLN Audio Life": {
-      "pb_url": "https://www.pluginboutique.com/search?q=XLN%20Audio%20Life",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=XLN%20Audio%20Life",
       "typical_regular": 149,
       "typical_sale": 89,
       "all_time_low": null,
@@ -3486,7 +3486,7 @@
       ]
     },
     "Slate Digital VMR": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Slate%20Digital%20VMR",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Slate%20Digital%20VMR",
       "typical_regular": 99,
       "typical_sale": 49,
       "all_time_low": null,
@@ -3502,7 +3502,7 @@
       ]
     },
     "Slate Digital VTM": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Slate%20Digital%20VTM",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Slate%20Digital%20VTM",
       "typical_regular": 149,
       "typical_sale": 89,
       "all_time_low": null,
@@ -3518,7 +3518,7 @@
       ]
     },
     "Slate Digital FG-X": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Slate%20Digital%20FG-X",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Slate%20Digital%20FG-X",
       "typical_regular": 149,
       "typical_sale": 79,
       "all_time_low": null,
@@ -3598,7 +3598,7 @@
       ]
     },
     "Eventide H3000 Factory": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Eventide%20H3000%20Factory",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Eventide%20H3000%20Factory",
       "typical_regular": 149,
       "typical_sale": 75,
       "all_time_low": 75,
@@ -3614,7 +3614,7 @@
       ]
     },
     "Eventide Physion": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Eventide%20Physion",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Eventide%20Physion",
       "typical_regular": 149,
       "typical_sale": 75,
       "all_time_low": 75,
@@ -3726,7 +3726,7 @@
       ]
     },
     "Cableguys Kickstart 2": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Cableguys%20Kickstart%202",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Cableguys%20Kickstart%202",
       "typical_regular": 49,
       "typical_sale": 25,
       "all_time_low": null,
@@ -3742,7 +3742,7 @@
       ]
     },
     "Cableguys Curve": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Cableguys%20Curve",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Cableguys%20Curve",
       "typical_regular": 39,
       "typical_sale": 20,
       "all_time_low": null,
@@ -3822,7 +3822,7 @@
       ]
     },
     "GForce impOSCar 2": {
-      "pb_url": "https://www.pluginboutique.com/search?q=GForce%20impOSCar%202",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=GForce%20impOSCar%202",
       "typical_regular": 179,
       "typical_sale": 89,
       "all_time_low": null,
@@ -3838,7 +3838,7 @@
       ]
     },
     "GForce M-Tron Pro": {
-      "pb_url": "https://www.pluginboutique.com/search?q=GForce%20M-Tron%20Pro",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=GForce%20M-Tron%20Pro",
       "typical_regular": 149,
       "typical_sale": 75,
       "all_time_low": null,
@@ -3854,7 +3854,7 @@
       ]
     },
     "GForce Oddity 2": {
-      "pb_url": "https://www.pluginboutique.com/search?q=GForce%20Oddity%202",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=GForce%20Oddity%202",
       "typical_regular": 149,
       "typical_sale": 75,
       "all_time_low": null,
@@ -3982,7 +3982,7 @@
       ]
     },
     "Wavesfactory Bass Rider": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Wavesfactory%20Bass%20Rider",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Wavesfactory%20Bass%20Rider",
       "typical_regular": 44,
       "typical_sale": 22,
       "all_time_low": null,
@@ -3998,7 +3998,7 @@
       ]
     },
     "Klanghelm SDRR": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Klanghelm%20SDRR",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Klanghelm%20SDRR",
       "typical_regular": 27,
       "typical_sale": 21,
       "all_time_low": null,
@@ -4014,7 +4014,7 @@
       ]
     },
     "Klanghelm VUMT Deluxe": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Klanghelm%20VUMT%20Deluxe",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Klanghelm%20VUMT%20Deluxe",
       "typical_regular": 44,
       "typical_sale": 34,
       "all_time_low": null,
@@ -4078,7 +4078,7 @@
       ]
     },
     "Denise Audio Bloom": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Denise%20Audio%20Bloom",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Denise%20Audio%20Bloom",
       "typical_regular": 79,
       "typical_sale": 40,
       "all_time_low": null,
@@ -4094,7 +4094,7 @@
       ]
     },
     "Denise Audio Warm": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Denise%20Audio%20Warm",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Denise%20Audio%20Warm",
       "typical_regular": 49,
       "typical_sale": 25,
       "all_time_low": null,
@@ -4110,7 +4110,7 @@
       ]
     },
     "Denise Audio Punch": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Denise%20Audio%20Punch",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Denise%20Audio%20Punch",
       "typical_regular": 59,
       "typical_sale": 30,
       "all_time_low": null,
@@ -4206,7 +4206,7 @@
       ]
     },
     "Heavyocity Novo": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Heavyocity%20Novo",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Heavyocity%20Novo",
       "typical_regular": 349,
       "typical_sale": 175,
       "all_time_low": null,
@@ -4222,7 +4222,7 @@
       ]
     },
     "Heavyocity Ascend": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Heavyocity%20Ascend",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=Heavyocity%20Ascend",
       "typical_regular": 229,
       "typical_sale": 115,
       "all_time_low": null,
@@ -4270,7 +4270,7 @@
       ]
     },
     "ProjectSAM True Strike 2": {
-      "pb_url": "https://www.pluginboutique.com/search?q=ProjectSAM%20True%20Strike%202",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=ProjectSAM%20True%20Strike%202",
       "typical_regular": 275,
       "typical_sale": 193,
       "all_time_low": null,
@@ -4286,7 +4286,7 @@
       ]
     },
     "ProjectSAM Orchestral Essentials 2": {
-      "pb_url": "https://www.pluginboutique.com/search?q=ProjectSAM%20Orchestral%20Essentials%202",
+      "pb_url": "https://www.pluginboutique.com/search?search_query=ProjectSAM%20Orchestral%20Essentials%202",
       "typical_regular": 225,
       "typical_sale": 158,
       "all_time_low": null,

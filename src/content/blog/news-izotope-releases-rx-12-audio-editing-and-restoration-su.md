@@ -3,13 +3,13 @@ title: "News: iZotope releases RX 12 audio editing and restoration suite"
 description: "iZotope has released RX 12, the latest update to its flagship audio repair and restoration platform. The new version adds machine learning-powered tools and"
 pubDate: "2026-04-30T04:00:59Z"
 tags: ["audio restoration", "editor", "izotope", "mastering", "mixing", "noise reduction", "post production", "real-time", "repair", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?search_query=izotope+rx.html&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-izotope-releases-rx-12-audio-editing-and-restoration-su"
+affiliate: "https://www.pluginboutique.com/search?q=izotope+rx.html&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-izotope-releases-rx-12-audio-editing-and-restoration-su"
 score: 5.50
 xText: "rx 12 landed. this tool fixes what shouldn't be fixable – your recording's a disaster, rx makes it usable. dialogue cleaning, noise removal, spectral editing. iZotope keeps the magic sharp."
 draft: false
 heroImage: "/images/news-izotope-releases-rx-12-audio-editing-and-restoration-su_og.jpg"
 ---
-**TL;DR:** iZotope has released RX 12, the latest update to its flagship audio repair and restoration platform. The new version adds machine learning-powered tools and expanded source separation across its module ecosystem. [→ Get iZotope RX 12 at Plugin Boutique](https://www.pluginboutique.com/search?search_query=izotope+rx.html&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-izotope-releases-rx-12-audio-editing-and-restoration-su)
+**TL;DR:** iZotope has released RX 12, the latest update to its flagship audio repair and restoration platform. The new version adds machine learning-powered tools and expanded source separation across its module ecosystem. [→ Get iZotope RX 12 at Plugin Boutique](https://www.pluginboutique.com/search?q=izotope+rx.html&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-izotope-releases-rx-12-audio-editing-and-restoration-su)
 
 ---
 
@@ -58,7 +58,7 @@ iZotope offers RX 12 in multiple editions — typically Elements, Standard, and 
 
 *Price verified at publication. Check the link for current availability.*
 
-[→ Get iZotope RX 12 at Plugin Boutique](https://www.pluginboutique.com/search?search_query=izotope+rx.html&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-izotope-releases-rx-12-audio-editing-and-restoration-su)
+[→ Get iZotope RX 12 at Plugin Boutique](https://www.pluginboutique.com/search?q=izotope+rx.html&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-izotope-releases-rx-12-audio-editing-and-restoration-su)
 
 ---
 
@@ -94,7 +94,7 @@ A: RX is available in multiple tiers — each offering a different subset of the
 
 RX 12 represents a meaningful update to an already deep platform, with the new ML tools and source separation improvements addressing common production bottlenecks. It is available now across editions.
 
-[→ Get iZotope RX 12 at Plugin Boutique](https://www.pluginboutique.com/search?search_query=izotope+rx.html&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-izotope-releases-rx-12-audio-editing-and-restoration-su)
+[→ Get iZotope RX 12 at Plugin Boutique](https://www.pluginboutique.com/search?q=izotope+rx.html&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-izotope-releases-rx-12-audio-editing-and-restoration-su)
 
 ---
 

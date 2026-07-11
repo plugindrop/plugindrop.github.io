@@ -22,7 +22,7 @@ priceTrack:
 |--------|-------|----------|--------|
 | Serum (Xfer Records) | ~$189 | All-around wavetable synthesis | [Xfer Records](https://xferrecords.com/products/serum) |
 | Phase Plant | ~$199 | Modular-style sound design | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) |
-| Vital | Free / Paid | Budget Serum alternative | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Vital%20synth&a_aid=69cb95abe1763) |
+| Vital | Free / Paid | Budget Serum alternative | [Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763) |
 
 ---
 
@@ -117,7 +117,7 @@ Phase Plant rewards the producer who has already learned synthesis fundamentals 
 
 For producers on a strict budget, Vital is where to start. For producers ready to invest in their toolkit, it's worth comparing directly against Serum before deciding. The quality gap is real but narrower than it was at launch.
 
-[→ Get Vital on Plugin Boutique](https://www.pluginboutique.com/search?search_query=Vital%20synth&a_aid=69cb95abe1763)
+[→ Get Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763)
 
 ---
 
@@ -127,7 +127,7 @@ For producers on a strict budget, Vital is where to start. For producers ready t
 |--------|-------|------|------------|-----|
 | Serum | ~$189 | Wavetable | Custom wavetable editor, drag-and-drop modulation, 100+ filters, built-in FX | [Xfer Records](https://xferrecords.com/products/serum) |
 | Phase Plant | ~$199 | Modular / Multi-engine | Node-based routing, wavetable + FM + analog sources, Snapin effects integration | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) |
-| Vital | Free / Paid | Wavetable | Free tier covers core features, strong community, visual modulation | [Plugin Boutique](https://www.pluginboutique.com/search?search_query=Vital%20synth&a_aid=69cb95abe1763) |
+| Vital | Free / Paid | Wavetable | Free tier covers core features, strong community, visual modulation | [Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763) |
 
 ---
 

@@ -18,7 +18,7 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| TDR Nova | Free | Dynamic EQ, surgical mixing | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-fabfilter-pro-q) |
+| TDR Nova | Free | Dynamic EQ, surgical mixing | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-fabfilter-pro-q) |
 | MEqualizer | Free | Full-featured parametric EQ | [Free Download](https://www.meldaproduction.com/MEqualizer) |
 | Voxengo Marvel GEQ | Free | Linear phase graphic EQ, mastering | [Free Download](https://www.voxengo.com/product/marvelgeq/) |
 | LP10 | Free | Lightweight parametric EQ, dense sessions | [Free Download](https://ddmf.eu/lp10-linear-phase-equalizer-plugin/) |
@@ -55,7 +55,7 @@ KVR's community consistently describes TDR Nova's dynamic behavior as unusually 
 
 **Best for:** Dynamic EQ without paying — reactive resonance control, de-essing, transient-aware low-mid management on complex sources.
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-fabfilter-pro-q)
+[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-fabfilter-pro-q)
 
 ---
 
@@ -134,7 +134,7 @@ Community threads focused on production workflow, particularly on forums caterin
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| TDR Nova | Free | Dynamic EQ | 4 dynamic bands, per-band dynamics, VST3/AU/AAX | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-fabfilter-pro-q) |
+| TDR Nova | Free | Dynamic EQ | 4 dynamic bands, per-band dynamics, VST3/AU/AAX | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-fabfilter-pro-q) |
 | MEqualizer | Free | Parametric EQ | 6 bands, MFreeFXBundle, neutral sound | [Download Free](https://www.meldaproduction.com/MEqualizer) |
 | Voxengo Marvel GEQ | Free | Linear Phase Graphic EQ | 16 bands, linear phase, mastering-focused | [Download Free](https://www.voxengo.com/product/marvelgeq/) |
 | LP10 | Free | Parametric EQ | 10 bands, low CPU, clean filter shapes | [Download Free](https://ddmf.eu/lp10-linear-phase-equalizer-plugin/) |

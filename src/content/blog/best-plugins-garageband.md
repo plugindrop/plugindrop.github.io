@@ -23,10 +23,10 @@ priceTrack:
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Vital | Free | Wavetable synthesis | [Free](https://vital.audio/) |
-| Valhalla Supermassive | Free | Lush reverb & spatial texture | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
-| TDR Nova | Free | Dynamic EQ & mixing | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
+| Valhalla Supermassive | Free | Lush reverb & spatial texture | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
+| TDR Nova | Free | Dynamic EQ & mixing | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
 | Surge XT | Free | Deep hybrid synthesis | [Free Download](https://surge-synthesizer.github.io/) |
-| TAL-NoiseMaker | Free | Analog-style synth | [Free via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
+| TAL-NoiseMaker | Free | Analog-style synth | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
 | Serum 2 | Paid | Pro wavetable synth | [Get Serum 2 (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
 | FabFilter Pro-Q 4 | ~$199 | Professional EQ | [Get Pro-Q 4 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
 
@@ -99,7 +99,7 @@ For GarageBand producers who find Vital's interface visually complex or Surge XT
 
 **Best for:** Beginners learning synthesis fundamentals, or any producer who needs quick analog-character sounds without a setup overhead.
 
-[→ Download TAL-NoiseMaker Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband)
+[→ Download TAL-NoiseMaker Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband)
 
 ---
 
@@ -122,7 +122,7 @@ The free version covers nearly all practical use cases. The Nova GE upgrade adds
 
 **Best for:** Mixing, mastering, taming resonant frequencies in recordings, and any situation where static EQ is too blunt.
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband)
+[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband)
 
 ---
 
@@ -141,7 +141,7 @@ In r/edmproduction, r/synthesizers, and producer-focused communities broadly, Va
 
 **Best for:** Ambient, electronic, cinematic, and any genre where reverb is a creative element rather than just acoustic context.
 
-[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband)
+[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband)
 
 ---
 
@@ -210,9 +210,9 @@ These three plugins represent the community's clearest benchmarks for their cate
 |--------|-------|------|------------|-----|
 | Vital | Free | Wavetable Synth | Spectral morphing, visual modulation, active community | [Get](https://vital.audio/) |
 | Surge XT | Free | Hybrid Synth | Open-source, multiple oscillator types, built-in FX chain | [Download](https://surge-synthesizer.github.io/) |
-| TAL-NoiseMaker | Free | Virtual Analog | Approachable UI, arpeggiator, classic analog architecture | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
-| TDR Nova | Free | Dynamic EQ | Static + dynamic EQ per band, professional-grade, trusted by engineers | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
-| Valhalla Supermassive | Free | Reverb / Delay | Massive reverb tails, creative spatial effects, no limitations | [Get via Plugin Boutique](https://www.pluginboutique.com/search?search_query=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
+| TAL-NoiseMaker | Free | Virtual Analog | Approachable UI, arpeggiator, classic analog architecture | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
+| TDR Nova | Free | Dynamic EQ | Static + dynamic EQ per band, professional-grade, trusted by engineers | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
+| Valhalla Supermassive | Free | Reverb / Delay | Massive reverb tails, creative spatial effects, no limitations | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
 | Rough Rider 3 | Free | Compressor | Colored, punchy character, excellent on drums | [Download](https://www.audiodamage.com/pages/free-and-legacy) |
 | Serum 2 | Paid | Wavetable Synth | Industry standard, largest preset ecosystem, Steve Duda | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-garageband) |
 | Valhalla VintageVerb | ~$50 | Algorithmic Reverb | Vintage hardware emulation, mix-transparent, top community pick | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
