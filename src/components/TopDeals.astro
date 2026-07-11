@@ -117,15 +117,19 @@ const railTitle = watchMode ? 'Deals Worth Watching' : "Today's Best Plugin Deal
   }
   .deals-rail-item:last-child { border-bottom: none; padding-bottom: 0; }
   .deals-rail-name {
-    display: block;
+    /* 2-line wrap: single-line nowrap truncated long names like
+       "Plugin Alliance bx_console SSL 4000 E" to an unreadable prefix. */
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
     font-size: 0.85rem;
     font-weight: 700;
+    line-height: 1.35;
     color: var(--text-primary);
     text-decoration: none;
     margin-bottom: 0.3rem;
     overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
+    overflow-wrap: anywhere;
   }
   .deals-rail-name:hover { color: var(--accent); }
   .deals-rail-prices {
