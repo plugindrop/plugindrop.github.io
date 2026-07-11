@@ -1,0 +1,229 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import priceData from '../../data/price_history.json';
+
+interface HistoryEntry {
+  date: string;
+  regular: number | null;
+  sale: number | null;
+  source: string;
+}
+interface EntryData {
+  pb_url: string;
+  typical_regular: number | null;
+  typical_sale: number | null;
+  all_time_low: number | null;
+  notes?: string;
+  category?: string;
+  history: HistoryEntry[];
+}
+interface PriceData {
+  last_updated: string;
+  bundles: Record<string, EntryData>;
+  plugins?: Record<string, EntryData>;
+}
+interface Product {
+  name: string;
+  kind: 'plugin' | 'bundle';
+  entry: EntryData;
+}
+
+// Same brand-detection rules as /brands/[brand].astro — kept in sync
+// manually since Astro pages don't share non-component modules here.
+const BRAND_ALIASES: Array<{ canonical: string; prefixes: string[] }> = [
+  { canonical: 'FabFilter', prefixes: ['FabFilter'] },
+  { canonical: 'u-he', prefixes: ['u-he'] },
+  { canonical: 'Native Instruments', prefixes: ['Native Instruments', 'NI Komplete'] },
+  { canonical: 'Arturia', prefixes: ['Arturia'] },
+  { canonical: 'iZotope', prefixes: ['iZotope'] },
+  { canonical: 'Waves', prefixes: ['Waves'] },
+  { canonical: 'Soundtoys', prefixes: ['Soundtoys'] },
+  { canonical: 'Softube', prefixes: ['Softube'] },
+  { canonical: 'Plugin Alliance', prefixes: ['Plugin Alliance'] },
+  { canonical: 'Universal Audio', prefixes: ['UAD', 'Universal Audio'] },
+  { canonical: 'Spitfire Audio', prefixes: ['Spitfire Audio', 'Spitfire'] },
+  { canonical: 'Output', prefixes: ['Output'] },
+  { canonical: 'Baby Audio', prefixes: ['Baby Audio'] },
+  { canonical: 'Cherry Audio', prefixes: ['Cherry Audio'] },
+  { canonical: 'Kilohearts', prefixes: ['Kilohearts'] },
+  { canonical: 'Xfer', prefixes: ['Xfer'] },
+  { canonical: 'Spectrasonics', prefixes: ['Spectrasonics'] },
+  { canonical: 'UVI', prefixes: ['UVI'] },
+  { canonical: 'Toontrack', prefixes: ['Toontrack'] },
+  { canonical: 'XLN Audio', prefixes: ['XLN Audio'] },
+  { canonical: 'Slate Digital', prefixes: ['Slate Digital'] },
+  { canonical: 'Valhalla', prefixes: ['Valhalla'] },
+  { canonical: 'Eventide', prefixes: ['Eventide'] },
+  { canonical: 'Sonnox', prefixes: ['Sonnox'] },
+  { canonical: 'Cableguys', prefixes: ['Cableguys'] },
+  { canonical: 'Newfangled Audio', prefixes: ['Newfangled Audio', 'Newfangled'] },
+  { canonical: 'GForce', prefixes: ['GForce'] },
+  { canonical: 'Sonible', prefixes: ['Sonible'] },
+  { canonical: 'oeksound', prefixes: ['oeksound'] },
+  { canonical: 'Wavesfactory', prefixes: ['Wavesfactory'] },
+  { canonical: 'Klanghelm', prefixes: ['Klanghelm'] },
+  { canonical: 'AudioThing', prefixes: ['AudioThing'] },
+  { canonical: 'Denise Audio', prefixes: ['Denise Audio'] },
+  { canonical: 'Minimal Audio', prefixes: ['Minimal Audio'] },
+  { canonical: 'Excite Audio', prefixes: ['Excite Audio'] },
+  { canonical: 'Heavyocity', prefixes: ['Heavyocity'] },
+  { canonical: 'ProjectSAM', prefixes: ['ProjectSAM'] },
+  { canonical: 'EastWest', prefixes: ['EastWest'] },
+  { canonical: 'Vengeance', prefixes: ['Vengeance Sound', 'Vengeance'] },
+  { canonical: 'reFX', prefixes: ['reFX'] },
+  { canonical: 'Reveal Sound', prefixes: ['Reveal Sound'] },
+  { canonical: 'KV331', prefixes: ['KV331 Audio', 'KV331'] },
+  { canonical: 'LennarDigital', prefixes: ['LennarDigital'] },
+  { canonical: 'Celemony', prefixes: ['Celemony'] },
+  { canonical: 'Antares', prefixes: ['Antares'] },
+  { canonical: 'Relab', prefixes: ['Relab Development', 'Relab'] },
+  { canonical: 'LiquidSonics', prefixes: ['LiquidSonics'] },
+  { canonical: 'DMG Audio', prefixes: ['DMG Audio'] },
+  { canonical: 'GetGood Drums', prefixes: ['GetGood Drums'] },
+];
+
+function escapeRegExp(s: string): string {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function flattenBrandPrefixes(defs: Array<{ canonical: string; prefixes: string[] }>) {
+  const flat: Array<{ prefix: string; canonical: string }> = [];
+  for (const d of defs) for (const p of d.prefixes) flat.push({ prefix: p, canonical: d.canonical });
+  return flat.sort((a, b) => b.prefix.length - a.prefix.length);
+}
+
+function detectBrand(
+  name: string,
+  notes: string | undefined,
+  flatPrefixes: Array<{ prefix: string; canonical: string }>
+): string | null {
+  for (const { prefix, canonical } of flatPrefixes) {
+    if (name === prefix || name.startsWith(prefix + ' ')) return canonical;
+  }
+  if (notes) {
+    for (const { prefix, canonical } of flatPrefixes) {
+      const re = new RegExp(`\\b${escapeRegExp(prefix)}\\b`);
+      if (re.test(notes)) return canonical;
+    }
+  }
+  return null;
+}
+
+function slugify(name: string): string {
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+const data = priceData as PriceData;
+const plugins = data.plugins ?? {};
+const bundles = data.bundles ?? {};
+
+const allProducts: Product[] = [];
+for (const [n, e] of Object.entries(plugins)) allProducts.push({ name: n, kind: 'plugin', entry: e });
+for (const [n, e] of Object.entries(bundles)) allProducts.push({ name: n, kind: 'bundle', entry: e });
+
+const flatPrefixes = flattenBrandPrefixes(BRAND_ALIASES);
+
+const groups = new Map<string, Product[]>();
+for (const p of allProducts) {
+  const brand = detectBrand(p.name, p.entry.notes, flatPrefixes);
+  if (!brand) continue;
+  const arr = groups.get(brand) ?? [];
+  arr.push(p);
+  groups.set(brand, arr);
+}
+
+interface BrandSummary {
+  brand: string;
+  slug: string;
+  count: number;
+  onSaleCount: number;
+}
+
+const brandSummaries: BrandSummary[] = [...groups.entries()]
+  .filter(([, products]) => products.length >= 2)
+  .map(([brand, products]) => {
+    const onSaleCount = products.filter((p) => {
+      const e = p.entry;
+      return e.typical_sale !== null && e.typical_regular !== null && e.typical_sale < e.typical_regular;
+    }).length;
+    return { brand, slug: slugify(brand), count: products.length, onSaleCount };
+  })
+  .sort((a, b) => a.brand.localeCompare(b.brand));
+
+const pageTitle = 'Browse Plugin Deals by Brand | PluginDrop';
+const pageDescription = `Browse tracked VST/AU plugin prices and deals by manufacturer — ${brandSummaries.length} brands, updated daily.`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead title={pageTitle} description={pageDescription} />
+    <style>
+      main { max-width: 960px; margin: 0 auto; padding: 2rem 1rem 3rem; }
+
+      .breadcrumb { font-size: 0.8rem; color: var(--text-muted); margin-bottom: 1.5rem; }
+      .breadcrumb a { color: var(--text-muted); text-decoration: none; }
+      .breadcrumb a:hover { text-decoration: underline; }
+      .breadcrumb .sep { margin: 0 0.4rem; }
+
+      h1 {
+        font-size: clamp(1.6rem, 4.5vw, 2.4rem); font-weight: 800; margin: 0 0 0.85rem;
+        line-height: 1.2; color: var(--text-primary);
+      }
+      .page-intro { color: var(--text-secondary); font-size: 1rem; line-height: 1.6; margin: 0 0 2rem; }
+
+      .brand-grid {
+        display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+        gap: 1rem;
+      }
+      .brand-card {
+        display: block; background: var(--bg-card); border: 1px solid var(--border);
+        border-radius: var(--radius); padding: 1.1rem 1.25rem; text-decoration: none;
+        transition: border-color 0.15s, background 0.15s;
+      }
+      .brand-card:hover { border-color: var(--accent); background: var(--bg-card-hover); }
+      .brand-name { color: var(--text-primary); font-weight: 700; font-size: 1rem; margin: 0 0 0.4rem; }
+      .brand-meta { color: var(--text-muted); font-size: 0.8rem; margin: 0; }
+      .brand-meta .sale-flag { color: var(--sale-text); font-weight: 700; }
+
+      .trust-line {
+        margin-top: 2.5rem; padding: 1rem 1.25rem; border-left: 3px solid var(--accent-muted);
+        color: var(--text-muted); font-size: 0.82rem; line-height: 1.6;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="#main-content" class="sr-only">Skip to content</a>
+    <Header />
+    <main id="main-content">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a><span class="sep">/</span>
+        <span>Brands</span>
+      </nav>
+
+      <h1>Browse Plugin Deals by Brand</h1>
+      <p class="page-intro">
+        We track {brandSummaries.length} plugin manufacturers. Pick a brand to see every product's current price, typical sale price, and lowest price recorded.
+      </p>
+
+      <div class="brand-grid">
+        {brandSummaries.map((b) => (
+          <a href={`/brands/${b.slug}/`} class="brand-card">
+            <p class="brand-name">{b.brand}</p>
+            <p class="brand-meta">
+              {b.count} products tracked{b.onSaleCount > 0 && <span class="sale-flag"> · {b.onSaleCount} on sale</span>}
+            </p>
+          </a>
+        ))}
+      </div>
+
+      <p class="trust-line">Prices checked daily. Data since 2026.</p>
+    </main>
+    <Footer />
+  </body>
+</html>

@@ -1,0 +1,280 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead
+			title="How We Track Plugin Prices | PluginDrop"
+			description="How PluginDrop's price tracker works: what we track, where the data comes from, what 'lowest tracked' means, and how our deal-score badges are calculated."
+		/>
+		<script type="application/ld+json" set:html={JSON.stringify({
+			"@context": "https://schema.org",
+			"@type": "WebPage",
+			"name": "How We Track Plugin Prices",
+			"url": "https://plugindrop.net/how-we-track-prices/",
+			"description": "An explanation of PluginDrop's plugin price-tracking methodology, data sources, and deal-score badges.",
+			"publisher": {
+				"@type": "Organization",
+				"name": "SignalDrop",
+				"url": "https://plugindrop.net"
+			}
+		})} />
+		<style>
+			.methodology {
+				max-width: 720px;
+				margin: 0 auto;
+				padding: 3rem 1rem 4rem;
+			}
+			.methodology h1 {
+				font-size: 2rem;
+				margin-bottom: 0.75rem;
+			}
+			.methodology .intro {
+				color: var(--text-secondary);
+				line-height: 1.7;
+				margin-bottom: 2rem;
+				font-size: 1.05rem;
+			}
+			.methodology h2 {
+				font-size: 1.3rem;
+				margin-top: 2.5rem;
+				margin-bottom: 0.75rem;
+				color: var(--text-primary);
+				border-bottom: 1px solid var(--border);
+				padding-bottom: 0.5rem;
+			}
+			.methodology p {
+				color: var(--text-secondary);
+				line-height: 1.7;
+				margin-bottom: 1.1rem;
+			}
+			.methodology strong {
+				color: var(--text-primary);
+			}
+			.methodology ul,
+			.methodology ol {
+				padding-left: 1.4rem;
+				color: var(--text-secondary);
+				margin-bottom: 1.1rem;
+			}
+			.methodology li {
+				margin-bottom: 0.6rem;
+				line-height: 1.6;
+			}
+			.methodology a {
+				color: var(--accent);
+			}
+			.badge-list {
+				list-style: none;
+				padding-left: 0;
+				display: flex;
+				flex-direction: column;
+				gap: 0.6rem;
+				margin-bottom: 1.25rem;
+			}
+			.badge-row {
+				display: flex;
+				align-items: flex-start;
+				gap: 0.75rem;
+				flex-wrap: wrap;
+			}
+			.badge {
+				display: inline-block;
+				flex-shrink: 0;
+				font-size: 0.75rem;
+				font-weight: 600;
+				padding: 0.2rem 0.6rem;
+				border-radius: var(--radius, 4px);
+				white-space: nowrap;
+			}
+			.badge-desc {
+				color: var(--text-secondary);
+				line-height: 1.6;
+				flex: 1 1 260px;
+			}
+			.ds-lowest { background: rgba(230, 57, 70, 0.15); color: #ff8a94; }
+			.ds-great  { background: rgba(80, 200, 120, 0.15); color: #50c878; }
+			.ds-sale   { background: rgba(255, 186, 69, 0.12); color: var(--sale-text); }
+			.ds-wait   { background: rgba(150, 150, 180, 0.12); color: var(--text-secondary); }
+			.ds-rare   { background: rgba(150, 150, 180, 0.1); color: var(--text-muted); }
+			.callout {
+				background: var(--bg-card);
+				border: 1px solid var(--border);
+				border-radius: var(--radius, 4px);
+				padding: 1rem 1.25rem;
+				margin-bottom: 1.25rem;
+			}
+			.callout p:last-child {
+				margin-bottom: 0;
+			}
+			.methodology .stat-line {
+				display: flex;
+				gap: 1.5rem;
+				flex-wrap: wrap;
+				margin-bottom: 1.5rem;
+			}
+			.stat-box {
+				background: var(--bg-card);
+				border: 1px solid var(--border);
+				border-radius: var(--radius, 4px);
+				padding: 0.75rem 1.1rem;
+				text-align: center;
+			}
+			.stat-box .num {
+				font-size: 1.4rem;
+				font-weight: 700;
+				color: var(--text-primary);
+				display: block;
+			}
+			.stat-box .lbl {
+				font-size: 0.75rem;
+				color: var(--text-muted);
+			}
+		</style>
+	</head>
+	<body>
+		<a href="#main-content" class="sr-only">Skip to content</a>
+		<Header />
+		<main id="main-content">
+			<div class="methodology">
+				<h1>How We Track Plugin Prices</h1>
+				<p class="intro">
+					PluginDrop's <a href="/plugin-prices/">price tracker</a> shows the current price, sale
+					history, and deal quality for VST/AU plugins and bundles. This page explains exactly
+					how that data is collected and how our "deal score" badges are calculated — so you can
+					judge for yourself how much to trust them.
+				</p>
+
+				<div class="stat-line">
+					<div class="stat-box">
+						<span class="num">250+</span>
+						<span class="lbl">plugins &amp; bundles tracked</span>
+					</div>
+					<div class="stat-box">
+						<span class="num">2024</span>
+						<span class="lbl">tracking history begins</span>
+					</div>
+				</div>
+
+				<h2>What We Track</h2>
+				<p>
+					For each product on our <a href="/plugin-prices/">plugin price page</a>, we record its
+					current price, its typical regular (non-sale) price, its typical sale price, and the
+					lowest price we've recorded since we started tracking. We currently follow over 250
+					plugins and bundles, primarily sold through <strong>Plugin Boutique</strong> and, where
+					relevant, direct vendor stores.
+				</p>
+
+				<h2>Where Our Data Comes From</h2>
+				<p>
+					Price data on PluginDrop comes from a mix of sources, and we label our confidence
+					honestly rather than presenting every number as equally certain:
+				</p>
+				<ul>
+					<li>
+						<strong>Automated checks</strong> — a script that periodically checks product pages
+						on Plugin Boutique and vendor stores and records the price it sees on that date.
+					</li>
+					<li>
+						<strong>Manufacturer sale announcements</strong> — publicly posted sale prices and
+						discount percentages from developers themselves (newsletters, product pages, press
+						releases).
+					</li>
+					<li>
+						<strong>Researched historical data</strong> — for periods before our automated
+						checks began, or for gaps between checks, we fill in known prices from publicly
+						documented sources: deal-tracking communities, forum posts, and archived sale pages.
+						These entries are not something we personally observed in real time — they're
+						compiled from public records.
+					</li>
+				</ul>
+				<div class="callout">
+					<p>
+						We don't pretend every historical data point was captured live. Automated and
+						manually-verified checks make up a smaller share of our overall price history than
+						researched entries, particularly for older dates. We'd rather be upfront about that
+						mix than imply a level of live monitoring we don't have.
+					</p>
+				</div>
+
+				<h2>What "Lowest Tracked" Means</h2>
+				<p>
+					When you see <strong>"Lowest tracked"</strong> next to a product, that's the lowest
+					price <em>we have on record</em> since we began compiling price history in 2024 — it is
+					<strong> not</strong> a guaranteed claim that the product has never sold for less,
+					anywhere, ever. Plugin pricing has decades of history in some cases (Waves, Native
+					Instruments, etc.), and one-off coupon stacks or regional pricing can occasionally beat
+					our recorded low.
+				</p>
+				<p>
+					Where a specific historical all-time low is well-documented — for example, a widely
+					reported Black Friday price or a one-time bundle deal covered by multiple sources — we
+					note it separately in the product's history rather than folding it silently into
+					"lowest tracked."
+				</p>
+
+				<h2>What the Deal Badges Mean</h2>
+				<p>
+					Every tracked product gets one badge, computed automatically from its current price
+					compared against its own typical sale price, typical regular price, and lowest tracked
+					price. Nothing here is subjective or manually assigned — it's the same formula for every
+					product:
+				</p>
+				<ul class="badge-list">
+					<li class="badge-row">
+						<span class="badge ds-lowest">At its lowest</span>
+						<span class="badge-desc">Current price is at or within ~2% of the lowest price we've ever tracked for this product.</span>
+					</li>
+					<li class="badge-row">
+						<span class="badge ds-great">Great deal</span>
+						<span class="badge-desc">Current price is at or below the product's typical sale price.</span>
+					</li>
+					<li class="badge-row">
+						<span class="badge ds-sale">On sale</span>
+						<span class="badge-desc">Current price is below regular price, but hasn't reached the depth of a typical sale for this product yet.</span>
+					</li>
+					<li class="badge-row">
+						<span class="badge ds-wait">Wait for a sale</span>
+						<span class="badge-desc">Currently at regular price, but this product does go on sale sometimes — it may be worth waiting.</span>
+					</li>
+					<li class="badge-row">
+						<span class="badge ds-rare">Rarely discounts</span>
+						<span class="badge-desc">No meaningful sale on record for this product (or its "sale" price rarely moves more than ~5% off regular) — waiting usually doesn't pay off.</span>
+					</li>
+				</ul>
+				<p>
+					Because the badge is derived purely from tracked numbers, it can only be as good as the
+					data behind it — see the section above on where that data comes from.
+				</p>
+
+				<h2>Honesty &amp; Affiliate Disclosure</h2>
+				<p>
+					PluginDrop doesn't publish fake hands-on reviews claiming we've personally tested every
+					plugin we list. Our picks and recommendations are based on published specifications,
+					documented pricing, and community consensus (forums, subreddits, and developer
+					communications) — not unverifiable first-person claims.
+				</p>
+				<p>
+					Some links on this site are affiliate links, primarily through Plugin Boutique. If you
+					buy through one of our links, we may earn a small commission at
+					<strong> no extra cost to you</strong>. This never changes which price we display —
+					our price data and deal badges are computed the same way regardless of whether a
+					commission is attached to a link.
+				</p>
+
+				<h2>Corrections</h2>
+				<p>
+					Prices change, and our automated checks can occasionally lag or miss a change. If you
+					spot a price on PluginDrop that doesn't match what you see at checkout, please
+					<a href="/about/#affiliate">let us know</a> — we correct reported errors as soon as we
+					can verify them.
+				</p>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>

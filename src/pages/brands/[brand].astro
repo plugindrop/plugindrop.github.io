@@ -1,0 +1,541 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import { SITE_TITLE } from '../../consts';
+import priceData from '../../data/price_history.json';
+
+// --- Shared types ------------------------------------------------------------
+interface HistoryEntry {
+  date: string;
+  regular: number | null;
+  sale: number | null;
+  source: string;
+}
+
+interface EntryData {
+  pb_url: string;
+  typical_regular: number | null;
+  typical_sale: number | null;
+  all_time_low: number | null;
+  notes?: string;
+  category?: string;
+  history: HistoryEntry[];
+}
+
+interface PriceData {
+  last_updated: string;
+  bundles: Record<string, EntryData>;
+  plugins?: Record<string, EntryData>;
+}
+
+interface Product {
+  name: string;
+  kind: 'plugin' | 'bundle';
+  entry: EntryData;
+}
+
+interface BrandGroup {
+  brand: string;
+  products: Product[];
+}
+
+// --- Affiliate link helper ---------------------------------------------------
+const AFF = "a_aid=69cb95abe1763";
+const pbLink = (path: string | null | undefined) =>
+  !path ? '#' : path.startsWith('http') ? path : `https://www.pluginboutique.com${path}?${AFF}`;
+
+// --- Brand detection ----------------------------------------------------------
+// Maps a raw product name (as stored in price_history.json) to a canonical
+// manufacturer/brand name. Matching is done against the *start* of the
+// product name (e.g. "FabFilter Pro-Q 4" -> "FabFilter"), falling back to a
+// whole-word search in `notes` for the rare product whose name doesn't carry
+// the brand token. Products that don't match any known brand are left
+// ungrouped rather than guessed at.
+const BRAND_ALIASES: Array<{ canonical: string; prefixes: string[] }> = [
+  { canonical: 'FabFilter', prefixes: ['FabFilter'] },
+  { canonical: 'u-he', prefixes: ['u-he'] },
+  { canonical: 'Native Instruments', prefixes: ['Native Instruments', 'NI Komplete'] },
+  { canonical: 'Arturia', prefixes: ['Arturia'] },
+  { canonical: 'iZotope', prefixes: ['iZotope'] },
+  { canonical: 'Waves', prefixes: ['Waves'] },
+  { canonical: 'Soundtoys', prefixes: ['Soundtoys'] },
+  { canonical: 'Softube', prefixes: ['Softube'] },
+  { canonical: 'Plugin Alliance', prefixes: ['Plugin Alliance'] },
+  { canonical: 'Universal Audio', prefixes: ['UAD', 'Universal Audio'] },
+  { canonical: 'Spitfire Audio', prefixes: ['Spitfire Audio', 'Spitfire'] },
+  { canonical: 'Output', prefixes: ['Output'] },
+  { canonical: 'Baby Audio', prefixes: ['Baby Audio'] },
+  { canonical: 'Cherry Audio', prefixes: ['Cherry Audio'] },
+  { canonical: 'Kilohearts', prefixes: ['Kilohearts'] },
+  { canonical: 'Xfer', prefixes: ['Xfer'] },
+  { canonical: 'Spectrasonics', prefixes: ['Spectrasonics'] },
+  { canonical: 'UVI', prefixes: ['UVI'] },
+  { canonical: 'Toontrack', prefixes: ['Toontrack'] },
+  { canonical: 'XLN Audio', prefixes: ['XLN Audio'] },
+  { canonical: 'Slate Digital', prefixes: ['Slate Digital'] },
+  { canonical: 'Valhalla', prefixes: ['Valhalla'] },
+  { canonical: 'Eventide', prefixes: ['Eventide'] },
+  { canonical: 'Sonnox', prefixes: ['Sonnox'] },
+  { canonical: 'Cableguys', prefixes: ['Cableguys'] },
+  { canonical: 'Newfangled Audio', prefixes: ['Newfangled Audio', 'Newfangled'] },
+  { canonical: 'GForce', prefixes: ['GForce'] },
+  { canonical: 'Sonible', prefixes: ['Sonible'] },
+  { canonical: 'oeksound', prefixes: ['oeksound'] },
+  { canonical: 'Wavesfactory', prefixes: ['Wavesfactory'] },
+  { canonical: 'Klanghelm', prefixes: ['Klanghelm'] },
+  { canonical: 'AudioThing', prefixes: ['AudioThing'] },
+  { canonical: 'Denise Audio', prefixes: ['Denise Audio'] },
+  { canonical: 'Minimal Audio', prefixes: ['Minimal Audio'] },
+  { canonical: 'Excite Audio', prefixes: ['Excite Audio'] },
+  { canonical: 'Heavyocity', prefixes: ['Heavyocity'] },
+  { canonical: 'ProjectSAM', prefixes: ['ProjectSAM'] },
+  { canonical: 'EastWest', prefixes: ['EastWest'] },
+  { canonical: 'Vengeance', prefixes: ['Vengeance Sound', 'Vengeance'] },
+  { canonical: 'reFX', prefixes: ['reFX'] },
+  { canonical: 'Reveal Sound', prefixes: ['Reveal Sound'] },
+  { canonical: 'KV331', prefixes: ['KV331 Audio', 'KV331'] },
+  { canonical: 'LennarDigital', prefixes: ['LennarDigital'] },
+  { canonical: 'Celemony', prefixes: ['Celemony'] },
+  { canonical: 'Antares', prefixes: ['Antares'] },
+  { canonical: 'Relab', prefixes: ['Relab Development', 'Relab'] },
+  { canonical: 'LiquidSonics', prefixes: ['LiquidSonics'] },
+  { canonical: 'DMG Audio', prefixes: ['DMG Audio'] },
+  { canonical: 'GetGood Drums', prefixes: ['GetGood Drums'] },
+];
+
+function escapeRegExp(s: string): string {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+// Flattened + sorted longest-prefix-first so e.g. "Spitfire Audio" is tried
+// before the shorter "Spitfire", and "NI Komplete" before any bare "NI".
+function flattenBrandPrefixes(defs: Array<{ canonical: string; prefixes: string[] }>) {
+  const flat: Array<{ prefix: string; canonical: string }> = [];
+  for (const d of defs) for (const p of d.prefixes) flat.push({ prefix: p, canonical: d.canonical });
+  return flat.sort((a, b) => b.prefix.length - a.prefix.length);
+}
+
+function detectBrand(
+  name: string,
+  notes: string | undefined,
+  flatPrefixes: Array<{ prefix: string; canonical: string }>
+): string | null {
+  for (const { prefix, canonical } of flatPrefixes) {
+    if (name === prefix || name.startsWith(prefix + ' ')) return canonical;
+  }
+  if (notes) {
+    for (const { prefix, canonical } of flatPrefixes) {
+      const re = new RegExp(`\\b${escapeRegExp(prefix)}\\b`);
+      if (re.test(notes)) return canonical;
+    }
+  }
+  return null;
+}
+
+function slugify(name: string): string {
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+// --- getStaticPaths (self-contained: Astro isolates this export, so every
+// helper it needs is re-declared inline rather than closing over the module
+// scope above) --------------------------------------------------------------
+export async function getStaticPaths() {
+  interface _HistoryEntry {
+    date: string;
+    regular: number | null;
+    sale: number | null;
+    source: string;
+  }
+  interface _EntryData {
+    pb_url: string;
+    typical_regular: number | null;
+    typical_sale: number | null;
+    all_time_low: number | null;
+    notes?: string;
+    category?: string;
+    history: _HistoryEntry[];
+  }
+  interface _PriceData {
+    last_updated: string;
+    bundles: Record<string, _EntryData>;
+    plugins?: Record<string, _EntryData>;
+  }
+  interface _Product {
+    name: string;
+    kind: 'plugin' | 'bundle';
+    entry: _EntryData;
+  }
+
+  const _BRAND_ALIASES: Array<{ canonical: string; prefixes: string[] }> = [
+    { canonical: 'FabFilter', prefixes: ['FabFilter'] },
+    { canonical: 'u-he', prefixes: ['u-he'] },
+    { canonical: 'Native Instruments', prefixes: ['Native Instruments', 'NI Komplete'] },
+    { canonical: 'Arturia', prefixes: ['Arturia'] },
+    { canonical: 'iZotope', prefixes: ['iZotope'] },
+    { canonical: 'Waves', prefixes: ['Waves'] },
+    { canonical: 'Soundtoys', prefixes: ['Soundtoys'] },
+    { canonical: 'Softube', prefixes: ['Softube'] },
+    { canonical: 'Plugin Alliance', prefixes: ['Plugin Alliance'] },
+    { canonical: 'Universal Audio', prefixes: ['UAD', 'Universal Audio'] },
+    { canonical: 'Spitfire Audio', prefixes: ['Spitfire Audio', 'Spitfire'] },
+    { canonical: 'Output', prefixes: ['Output'] },
+    { canonical: 'Baby Audio', prefixes: ['Baby Audio'] },
+    { canonical: 'Cherry Audio', prefixes: ['Cherry Audio'] },
+    { canonical: 'Kilohearts', prefixes: ['Kilohearts'] },
+    { canonical: 'Xfer', prefixes: ['Xfer'] },
+    { canonical: 'Spectrasonics', prefixes: ['Spectrasonics'] },
+    { canonical: 'UVI', prefixes: ['UVI'] },
+    { canonical: 'Toontrack', prefixes: ['Toontrack'] },
+    { canonical: 'XLN Audio', prefixes: ['XLN Audio'] },
+    { canonical: 'Slate Digital', prefixes: ['Slate Digital'] },
+    { canonical: 'Valhalla', prefixes: ['Valhalla'] },
+    { canonical: 'Eventide', prefixes: ['Eventide'] },
+    { canonical: 'Sonnox', prefixes: ['Sonnox'] },
+    { canonical: 'Cableguys', prefixes: ['Cableguys'] },
+    { canonical: 'Newfangled Audio', prefixes: ['Newfangled Audio', 'Newfangled'] },
+    { canonical: 'GForce', prefixes: ['GForce'] },
+    { canonical: 'Sonible', prefixes: ['Sonible'] },
+    { canonical: 'oeksound', prefixes: ['oeksound'] },
+    { canonical: 'Wavesfactory', prefixes: ['Wavesfactory'] },
+    { canonical: 'Klanghelm', prefixes: ['Klanghelm'] },
+    { canonical: 'AudioThing', prefixes: ['AudioThing'] },
+    { canonical: 'Denise Audio', prefixes: ['Denise Audio'] },
+    { canonical: 'Minimal Audio', prefixes: ['Minimal Audio'] },
+    { canonical: 'Excite Audio', prefixes: ['Excite Audio'] },
+    { canonical: 'Heavyocity', prefixes: ['Heavyocity'] },
+    { canonical: 'ProjectSAM', prefixes: ['ProjectSAM'] },
+    { canonical: 'EastWest', prefixes: ['EastWest'] },
+    { canonical: 'Vengeance', prefixes: ['Vengeance Sound', 'Vengeance'] },
+    { canonical: 'reFX', prefixes: ['reFX'] },
+    { canonical: 'Reveal Sound', prefixes: ['Reveal Sound'] },
+    { canonical: 'KV331', prefixes: ['KV331 Audio', 'KV331'] },
+    { canonical: 'LennarDigital', prefixes: ['LennarDigital'] },
+    { canonical: 'Celemony', prefixes: ['Celemony'] },
+    { canonical: 'Antares', prefixes: ['Antares'] },
+    { canonical: 'Relab', prefixes: ['Relab Development', 'Relab'] },
+    { canonical: 'LiquidSonics', prefixes: ['LiquidSonics'] },
+    { canonical: 'DMG Audio', prefixes: ['DMG Audio'] },
+    { canonical: 'GetGood Drums', prefixes: ['GetGood Drums'] },
+  ];
+
+  function _escapeRegExp(s: string): string {
+    return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function _flattenBrandPrefixes(defs: Array<{ canonical: string; prefixes: string[] }>) {
+    const flat: Array<{ prefix: string; canonical: string }> = [];
+    for (const d of defs) for (const p of d.prefixes) flat.push({ prefix: p, canonical: d.canonical });
+    return flat.sort((a, b) => b.prefix.length - a.prefix.length);
+  }
+
+  function _detectBrand(
+    name: string,
+    notes: string | undefined,
+    flatPrefixes: Array<{ prefix: string; canonical: string }>
+  ): string | null {
+    for (const { prefix, canonical } of flatPrefixes) {
+      if (name === prefix || name.startsWith(prefix + ' ')) return canonical;
+    }
+    if (notes) {
+      for (const { prefix, canonical } of flatPrefixes) {
+        const re = new RegExp(`\\b${_escapeRegExp(prefix)}\\b`);
+        if (re.test(notes)) return canonical;
+      }
+    }
+    return null;
+  }
+
+  function _slugify(n: string): string {
+    return n
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-+|-+$/g, '');
+  }
+
+  const _data = priceData as _PriceData;
+  const _plugins = _data.plugins ?? {};
+  const _bundles = _data.bundles ?? {};
+
+  const _allProducts: _Product[] = [];
+  for (const [n, e] of Object.entries(_plugins)) _allProducts.push({ name: n, kind: 'plugin', entry: e });
+  for (const [n, e] of Object.entries(_bundles)) _allProducts.push({ name: n, kind: 'bundle', entry: e });
+
+  const _flatPrefixes = _flattenBrandPrefixes(_BRAND_ALIASES);
+
+  const _groups = new Map<string, _Product[]>();
+  for (const p of _allProducts) {
+    const brand = _detectBrand(p.name, p.entry.notes, _flatPrefixes);
+    if (!brand) continue;
+    const arr = _groups.get(brand) ?? [];
+    arr.push(p);
+    _groups.set(brand, arr);
+  }
+
+  const paths: Array<{ params: { brand: string }; props: { brand: string; products: _Product[] } }> = [];
+  for (const [brand, products] of _groups.entries()) {
+    if (products.length < 2) continue;
+    paths.push({
+      params: { brand: _slugify(brand) },
+      props: { brand, products },
+    });
+  }
+  return paths;
+}
+
+const { brand, products } = Astro.props as BrandGroup;
+
+// --- Price helpers (render-time only) ---------------------------------------
+function currentPrice(e: EntryData): number | null {
+  return e.typical_sale ?? e.typical_regular ?? null;
+}
+function isOnSale(e: EntryData): boolean {
+  return e.typical_sale !== null && e.typical_regular !== null && e.typical_sale < e.typical_regular;
+}
+function pctOff(sale: number | null, regular: number | null): number {
+  if (sale === null || regular === null || regular <= 0 || sale >= regular) return 0;
+  return Math.round((1 - sale / regular) * 100);
+}
+function formatPrice(val: number | null): string {
+  return val === null ? '—' : `$${val}`;
+}
+
+interface Row {
+  name: string;
+  slug: string;
+  category: string;
+  current: number | null;
+  regular: number | null;
+  onSale: boolean;
+  off: number;
+  allTimeLow: number | null;
+  pbUrl: string;
+}
+
+const rows: Row[] = products
+  .map((p): Row => {
+    const category = p.entry.category ?? (p.kind === 'bundle' ? 'Plugin Bundle' : 'Plugin');
+    const current = currentPrice(p.entry);
+    const onSale = isOnSale(p.entry);
+    return {
+      name: p.name,
+      slug: slugify(p.name),
+      category,
+      current,
+      regular: p.entry.typical_regular,
+      onSale,
+      off: onSale ? pctOff(p.entry.typical_sale, p.entry.typical_regular) : 0,
+      allTimeLow: p.entry.all_time_low,
+      pbUrl: p.entry.pb_url,
+    };
+  })
+  .sort((a, b) => a.name.localeCompare(b.name));
+
+const onSaleRows = rows.filter((r) => r.onSale);
+
+// --- Honest, data-driven "when does {brand} go on sale" note ------------------
+// Synthesized purely from the numbers we actually have (how many tracked
+// products are currently discounted, and by how much) — no fabricated
+// discount calendar, no invented dates. Omitted entirely when there isn't
+// enough data to say anything meaningful (fewer than 3 tracked products).
+function buildSaleNote(brandName: string, allRows: Row[], saleRows: Row[]): string | null {
+  const total = allRows.length;
+  if (total < 3) return null;
+  const onSaleCount = saleRows.length;
+  const ratio = onSaleCount / total;
+  const avgOff = onSaleCount > 0
+    ? Math.round(saleRows.reduce((sum, r) => sum + r.off, 0) / onSaleCount)
+    : 0;
+
+  if (onSaleCount === 0) {
+    return `We haven't recorded a live discount on any of the ${total} tracked ${brandName} products right now.`;
+  }
+  if (ratio < 0.2) {
+    return `${brandName} discounts are uncommon in what we track — right now ${onSaleCount} of ${total} products are on sale, averaging about ${avgOff}% off when they do drop.`;
+  }
+  if (ratio >= 0.5) {
+    return `${brandName} plugins are frequently discounted — ${onSaleCount} of ${total} tracked products are on sale right now, averaging about ${avgOff}% off.`;
+  }
+  return `${onSaleCount} of ${total} tracked ${brandName} products are currently on sale, averaging about ${avgOff}% off.`;
+}
+const saleNote = buildSaleNote(brand, rows, onSaleRows);
+
+// --- Meta --------------------------------------------------------------------
+const pageTitle = `${brand} Plugin Prices & Deals 2026 | ${SITE_TITLE}`;
+const pageDescription = `Every ${brand} plugin we track, with current price, typical sale price, and the lowest price we've recorded. Updated daily.`;
+
+const itemListLD = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": `${brand} plugins`,
+  "itemListElement": rows.map((r, i) => ({
+    "@type": "ListItem",
+    "position": i + 1,
+    "url": `https://plugindrop.net/plugin-prices/${r.slug}/`,
+    "name": r.name,
+  })),
+};
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead title={pageTitle} description={pageDescription} />
+    <script type="application/ld+json" set:html={JSON.stringify(itemListLD)} />
+    <style>
+      main { max-width: 960px; margin: 0 auto; padding: 2rem 1rem 3rem; }
+
+      .breadcrumb { font-size: 0.8rem; color: var(--text-muted); margin-bottom: 1.5rem; }
+      .breadcrumb a { color: var(--text-muted); text-decoration: none; }
+      .breadcrumb a:hover { text-decoration: underline; }
+      .breadcrumb .sep { margin: 0 0.4rem; }
+
+      .brand-header { margin-bottom: 2rem; }
+      .brand-header h1 {
+        font-size: clamp(1.6rem, 4.5vw, 2.4rem); font-weight: 800; margin: 0 0 0.85rem;
+        line-height: 1.2; color: var(--text-primary);
+      }
+      .brand-intro { color: var(--text-secondary); font-size: 1rem; line-height: 1.6; margin: 0; }
+
+      .sale-note-box {
+        display: flex; gap: 0.75rem; align-items: flex-start;
+        background: var(--bg-card); border-left: 3px solid var(--accent);
+        border-radius: var(--radius); padding: 1rem 1.25rem; margin: 1.5rem 0 0;
+      }
+      .sale-note-icon { flex-shrink: 0; font-size: 1.1rem; line-height: 1.4; }
+      .sale-note-label {
+        font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.08em;
+        color: var(--text-muted); font-weight: 700; margin: 0 0 0.35rem;
+      }
+      .sale-note-text { color: var(--text-secondary); font-size: 0.92rem; line-height: 1.55; margin: 0; }
+
+      h2.section-title {
+        font-size: 1.2rem; font-weight: 800; margin: 2.5rem 0 0.4rem; color: var(--text-primary);
+      }
+      .section-sub { font-size: 0.82rem; color: var(--text-muted); margin: 0 0 1.25rem; }
+
+      .ledger-wrap {
+        overflow-x: auto;
+        border: 1px solid var(--border);
+        border-radius: 10px;
+        background: var(--bg-card);
+        margin-bottom: 2rem;
+        -webkit-overflow-scrolling: touch;
+      }
+      .ledger-table { width: 100%; min-width: 640px; border-collapse: collapse; font-size: 0.85rem; }
+      .ledger-table thead th {
+        text-align: left; padding: 0.65rem 1rem; background: var(--bg-low);
+        color: var(--text-muted); font-size: 0.68rem; text-transform: uppercase;
+        letter-spacing: 0.06em; font-weight: 700; white-space: nowrap;
+        border-bottom: 1px solid var(--border);
+      }
+      .ledger-table tbody tr { border-bottom: 1px solid var(--border-light); transition: background 0.15s; }
+      .ledger-table tbody tr:last-child { border-bottom: none; }
+      .ledger-table tbody tr:hover { background: var(--bg-card-hover); }
+      .ledger-table tbody tr.is-sale td:first-child { box-shadow: inset 3px 0 0 var(--sale-text); }
+      .ledger-table td { padding: 0.75rem 1rem; vertical-align: middle; color: var(--text-secondary); }
+      .ledger-table a.product-link { color: var(--text-primary); font-weight: 600; text-decoration: none; }
+      .ledger-table a.product-link:hover { color: var(--accent); text-decoration: underline; }
+
+      .mono {
+        font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+        font-variant-numeric: tabular-nums;
+      }
+      .price-current { font-weight: 700; color: var(--text-primary); }
+      .price-current.on-sale { color: var(--sale-text); }
+      .price-regular-strike { text-decoration: line-through; color: var(--text-muted); }
+      .off-badge {
+        display: inline-block; padding: 0.15rem 0.5rem; border-radius: 4px;
+        background: var(--sale-bg); color: var(--sale-text);
+        font-weight: 700; font-size: 0.75rem; white-space: nowrap;
+      }
+      .cta-btn {
+        display: inline-block; padding: 0.4rem 0.9rem; border-radius: 6px;
+        background: var(--accent); color: #0b0e0d; font-weight: 700; font-size: 0.78rem;
+        text-decoration: none; white-space: nowrap; transition: background 0.15s;
+      }
+      .cta-btn:hover { background: var(--accent-light); }
+
+      .trust-line {
+        margin-top: 2.5rem; padding: 1rem 1.25rem; border-left: 3px solid var(--accent-muted);
+        color: var(--text-muted); font-size: 0.82rem; line-height: 1.6;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="#main-content" class="sr-only">Skip to content</a>
+    <Header />
+    <main id="main-content">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a><span class="sep">/</span>
+        <a href="/brands">Brands</a><span class="sep">/</span>
+        <span>{brand}</span>
+      </nav>
+
+      <section class="brand-header">
+        <h1>All {brand} Plugins: Prices, Deals &amp; When They Go On Sale (2026)</h1>
+        <p class="brand-intro">
+          We track {rows.length} {brand} products. Here's the current price, typical sale price, and lowest price we've recorded for each.
+        </p>
+        {saleNote && (
+          <div class="sale-note-box">
+            <span class="sale-note-icon">📊</span>
+            <div>
+              <p class="sale-note-label">When {brand} goes on sale</p>
+              <p class="sale-note-text">{saleNote}</p>
+            </div>
+          </div>
+        )}
+      </section>
+
+      <h2 class="section-title">{brand} Price List</h2>
+      <p class="section-sub">Sorted alphabetically. Click a product for full price history.</p>
+      <div class="ledger-wrap">
+        <table class="ledger-table">
+          <thead>
+            <tr>
+              <th>Product</th>
+              <th>Category</th>
+              <th>Current</th>
+              <th>Regular</th>
+              <th>% Off</th>
+              <th>Lowest Tracked</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody>
+            {rows.map((r) => (
+              <tr class={r.onSale ? 'is-sale' : ''}>
+                <td>
+                  <a href={`/plugin-prices/${r.slug}/`} class="product-link">{r.name}</a>
+                </td>
+                <td>{r.category}</td>
+                <td class="mono">
+                  <span class={r.onSale ? 'price-current on-sale' : 'price-current'}>{formatPrice(r.current)}</span>
+                </td>
+                <td class="mono">
+                  {r.onSale && r.regular !== null ? (
+                    <span class="price-regular-strike">{formatPrice(r.regular)}</span>
+                  ) : (
+                    formatPrice(r.regular)
+                  )}
+                </td>
+                <td>{r.onSale && r.off > 0 ? <span class="off-badge">-{r.off}%</span> : '—'}</td>
+                <td class="mono">{formatPrice(r.allTimeLow)}</td>
+                <td>
+                  <a href={pbLink(r.pbUrl)} class="cta-btn" target="_blank" rel="noopener sponsored">See deal</a>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+
+      <p class="trust-line">Prices checked daily. Data since 2026.</p>
+    </main>
+    <Footer />
+  </body>
+</html>
