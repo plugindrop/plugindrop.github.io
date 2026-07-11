@@ -4,6 +4,7 @@ import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import priceData from '../../data/price_history.json';
+import productVideosRaw from '../../data/product_videos.json';
 
 const AFF = "a_aid=69cb95abe1763";
 const pbLink = (path: string | null | undefined) =>
@@ -79,6 +80,12 @@ export async function getStaticPaths() {
 
 const { name, kind, entry } = Astro.props as StaticEntry;
 
+// Verified demo video for this product (built by build_product_videos.py from
+// already-audited article embeds; only high-confidence matches are included).
+interface ProductVideo { video_id: string; title: string; channel: string }
+const productVideos = productVideosRaw as Record<string, ProductVideo>;
+const demoVideo: ProductVideo | null = productVideos[name] ?? null;
+
 // --- Price helpers -----------------------------------------------------
 // "Current" price follows the same rule the ledger page uses: sale price
 // when we have one, otherwise the regular price. Never fabricated.
@@ -144,9 +151,11 @@ function toTimestamp(d: string): number {
 }
 
 function formatShortDate(d: string): string {
+  // Full 4-digit year: "Jul 26" reads as "July 26th" when it actually means
+  // July 2026 — "Jul 2026" is unambiguous on the x-axis.
   return new Date(`${d}T00:00:00Z`).toLocaleDateString('en-US', {
     month: 'short',
-    year: '2-digit',
+    year: 'numeric',
     timeZone: 'UTC',
   });
 }
@@ -469,6 +478,36 @@ const faqLD = {
         padding: 1.5rem; overflow-x: auto; -webkit-overflow-scrolling: touch;
       }
       .price-chart { display: block; width: 100%; min-width: 480px; height: auto; }
+      .chart-legend {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.4rem 1.1rem;
+        align-items: center;
+        margin: 0.55rem 0 0;
+        font-size: 0.72rem;
+        color: var(--text-muted);
+      }
+      .legend-item { display: inline-flex; align-items: center; gap: 0.35rem; }
+      .legend-dot {
+        width: 9px; height: 9px; border-radius: 50%; display: inline-block;
+        border: 1.5px solid var(--bg-card);
+      }
+      .legend-dot-normal { background: var(--accent); }
+      .legend-dot-sale { background: var(--sale-text); }
+      .legend-dash {
+        width: 18px; height: 0; display: inline-block;
+        border-top: 2px dashed var(--text-muted); opacity: 0.7;
+      }
+      .legend-note { opacity: 0.8; }
+      .video-embed iframe {
+        aspect-ratio: 16 / 9;
+        width: 100%;
+        max-width: 100%;
+        border: 0;
+        border-radius: var(--radius);
+        display: block;
+      }
+      .video-caption { font-size: 0.78rem; color: var(--text-muted); margin: 0.45rem 0 0; }
       .price-chart .grid-line { stroke: var(--bg-highest); stroke-width: 1; }
       .price-chart .axis-label {
         fill: var(--text-muted); font-size: 10px; font-family: var(--font-body, inherit);
@@ -697,6 +736,12 @@ const faqLD = {
               />
             </svg>
             <div id="price-chart-tooltip" class="chart-tooltip" role="status" aria-live="polite"></div>
+            <p class="chart-legend">
+              <span class="legend-item"><span class="legend-dot legend-dot-normal"></span>logged price (USD)</span>
+              <span class="legend-item"><span class="legend-dot legend-dot-sale"></span>sale / lowest</span>
+              <span class="legend-item"><span class="legend-dash"></span>typical regular &amp; lowest tracked</span>
+              <span class="legend-item legend-note">Dates are month + year (e.g. Jul 2026)</span>
+            </p>
           </div>
         ) : (
           <p class="chart-empty">
@@ -812,6 +857,22 @@ const faqLD = {
           }
         </script>
       </section>
+
+      {demoVideo && (
+        <section class="page-section">
+          <h2 class="section-title">Watch It In Action</h2>
+          <div class="video-embed">
+            <iframe
+              loading="lazy"
+              src={`https://www.youtube-nocookie.com/embed/${demoVideo.video_id}`}
+              title={demoVideo.title}
+              allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </div>
+          <p class="video-caption">{demoVideo.title} — {demoVideo.channel} (YouTube)</p>
+        </section>
+      )}
 
       <section class="page-section">
         <h2 class="section-title">Past Sales &amp; Lowest Tracked Price</h2>
