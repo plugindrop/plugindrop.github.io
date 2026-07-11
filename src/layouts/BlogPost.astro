@@ -7,6 +7,7 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import NewsletterForm from '../components/NewsletterForm.astro';
 import PriceTracker from '../components/PriceTracker.astro';
+import TopDeals from '../components/TopDeals.astro';
 import { SITE_TITLE } from '../consts';
 
 type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?: string; slug?: string };
@@ -356,12 +357,44 @@ const featuredDeals = isEvergreen ? allPosts
 				border-radius: var(--radius);
 				border: 1px solid var(--border);
 			}
+			/* Two-column layout: article prose + sticky "best deals" rail.
+			   Falls back gracefully to a single centered column when TopDeals
+			   renders nothing (no products currently on sale). */
+			.content-layout {
+				display: flex;
+				align-items: flex-start;
+				gap: 2rem;
+				max-width: 1040px;
+				margin: 0 auto;
+			}
 			.prose {
 				width: 720px;
 				max-width: calc(100% - 2rem);
 				margin: 0 auto;
 				padding: 1rem 1rem 3rem;
 				color: var(--text-secondary);
+				flex: 1 1 720px;
+				min-width: 0;
+			}
+			.content-layout :global(.deals-rail) {
+				flex: 0 0 260px;
+				width: 260px;
+				position: sticky;
+				top: calc(56px + 1.25rem);
+				margin-top: 1rem;
+			}
+			@media (max-width: 980px) {
+				.content-layout {
+					flex-direction: column;
+				}
+				.content-layout :global(.deals-rail) {
+					position: static;
+					width: 100%;
+					flex-basis: auto;
+					margin: 0 auto;
+					max-width: calc(720px + 2rem);
+					padding: 0 1rem;
+				}
 			}
 			.article-header {
 				margin-bottom: 1.5rem;
@@ -800,6 +833,7 @@ const featuredDeals = isEvergreen ? allPosts
 						<img src={imageStr} alt={title} loading="eager" fetchpriority="high" data-fallback="/images/default-placeholder.jpg" />
 					</div>
 				)}
+				<div class="content-layout">
 				<div class="prose">
 					<!-- Breadcrumb -->
 					<nav class="breadcrumb" aria-label="Breadcrumb">
@@ -932,6 +966,8 @@ const featuredDeals = isEvergreen ? allPosts
 					<div class="affiliate-disclosure">
 						<p>This post contains affiliate links. We may earn a small commission at no extra cost to you.</p>
 					</div>
+				</div>
+				<TopDeals />
 				</div>
 			</article>
 

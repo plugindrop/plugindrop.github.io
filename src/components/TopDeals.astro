@@ -1,0 +1,156 @@
+---
+/**
+ * "Today's Best Plugin Deals" sidebar — sticky rail on article pages.
+ * Computed at build time from src/data/price_history.json: the biggest
+ * current discounts among products that are actually on sale right now
+ * (current < regular). Renders nothing if no product currently qualifies.
+ */
+import priceDataRaw from '../data/price_history.json';
+import {
+  type PriceEntry,
+  pbLink as basePbLink,
+  slugify,
+  formatPrice,
+  currentPriceOf,
+  regularPriceOf,
+  pctOff,
+} from '../lib/priceUtils';
+
+const UTM = "utm_source=plugindrop&utm_medium=sidebar&utm_campaign=best-deals";
+function pbLink(path: string) {
+  return basePbLink(path, UTM);
+}
+
+const priceData = priceDataRaw as { last_updated: string; bundles: Record<string, PriceEntry>; plugins?: Record<string, PriceEntry> };
+const allEntries: Record<string, PriceEntry> = {
+  ...(priceData.bundles ?? {}),
+  ...(priceData.plugins ?? {}),
+};
+
+const deals = Object.entries(allEntries)
+  .map(([name, entry]) => {
+    const current = currentPriceOf(entry);
+    const regular = regularPriceOf(entry);
+    return { name, entry, current, regular, off: pctOff(current, regular) };
+  })
+  .filter(d => d.off > 0 && d.current !== null && d.regular !== null)
+  .sort((a, b) => b.off - a.off)
+  .slice(0, 5);
+---
+
+{deals.length > 0 && (
+  <aside class="deals-rail" aria-label="Today's best plugin deals">
+    <div class="deals-rail-inner">
+      <h2 class="deals-rail-title">Today's Best Plugin Deals</h2>
+      <ul class="deals-rail-list">
+        {deals.map(d => (
+          <li class="deals-rail-item">
+            <a href={`/plugin-prices/${slugify(d.name)}/`} class="deals-rail-name">{d.name}</a>
+            <div class="deals-rail-prices">
+              <span class="deals-rail-off">-{d.off}%</span>
+              <span class="deals-rail-reg">{formatPrice(d.regular)}</span>
+              <span class="deals-rail-cur mono">{formatPrice(d.current)}</span>
+            </div>
+            <a href={pbLink(d.entry.pb_url)} class="deals-rail-cta" target="_blank" rel="noopener sponsored">See deal →</a>
+          </li>
+        ))}
+      </ul>
+      <a href="/plugin-prices/" class="deals-rail-more">See all tracked prices →</a>
+    </div>
+  </aside>
+)}
+
+<style>
+  .deals-rail {
+    width: 100%;
+  }
+  .deals-rail-inner {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--sale-text);
+    border-radius: var(--radius);
+    padding: 0.9rem 1rem 0.8rem;
+  }
+  .deals-rail-title {
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+    margin: 0 0 0.75rem;
+  }
+  .deals-rail-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 0.6rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.65rem;
+  }
+  .deals-rail-item {
+    padding-bottom: 0.65rem;
+    border-bottom: 1px solid var(--border-light);
+  }
+  .deals-rail-item:last-child { border-bottom: none; padding-bottom: 0; }
+  .deals-rail-name {
+    display: block;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    text-decoration: none;
+    margin-bottom: 0.3rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .deals-rail-name:hover { color: var(--accent); }
+  .deals-rail-prices {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.4rem;
+  }
+  .deals-rail-off {
+    font-size: 0.68rem;
+    font-weight: 700;
+    color: #fff;
+    background: linear-gradient(135deg, #e63946 0%, #c1121f 100%);
+    border-radius: 3px;
+    padding: 0.12rem 0.4rem;
+  }
+  .deals-rail-reg {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    text-decoration: line-through;
+  }
+  .deals-rail-cur {
+    font-size: 0.92rem;
+    font-weight: 800;
+    color: var(--sale-text);
+  }
+  .deals-rail-cta {
+    display: block;
+    text-align: center;
+    padding: 0.35rem 0.5rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--bg-base);
+    background: var(--accent);
+    border-radius: var(--radius-sm);
+    text-decoration: none;
+  }
+  .deals-rail-cta:hover { background: var(--accent-light); }
+  .deals-rail-more {
+    display: inline-block;
+    font-size: 0.78rem;
+    color: var(--accent-light);
+    text-decoration: none;
+  }
+  .deals-rail-more:hover { text-decoration: underline; }
+
+  .mono {
+    font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+    font-variant-numeric: tabular-nums;
+  }
+</style>
