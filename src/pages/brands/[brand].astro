@@ -351,21 +351,21 @@ function buildSaleNote(brandName: string, allRows: Row[], saleRows: Row[]): stri
     : 0;
 
   if (onSaleCount === 0) {
-    return `We haven't recorded a live discount on any of the ${total} tracked ${brandName} products right now.`;
+    return `We don't have a typical sale price recorded for any of the ${total} tracked ${brandName} products yet.`;
   }
   if (ratio < 0.2) {
-    return `${brandName} discounts are uncommon in what we track — right now ${onSaleCount} of ${total} products are on sale, averaging about ${avgOff}% off when they do drop.`;
+    return `${brandName} discounts are uncommon in what we track — only ${onSaleCount} of ${total} tracked products typically go on sale, averaging about ${avgOff}% off when they do drop (usually Black Friday).`;
   }
   if (ratio >= 0.5) {
-    return `${brandName} plugins are frequently discounted — ${onSaleCount} of ${total} tracked products are on sale right now, averaging about ${avgOff}% off.`;
+    return `${brandName} plugins are frequently discounted — ${onSaleCount} of ${total} tracked products typically go on sale, averaging about ${avgOff}% off (e.g. Black Friday).`;
   }
-  return `${onSaleCount} of ${total} tracked ${brandName} products are currently on sale, averaging about ${avgOff}% off.`;
+  return `${onSaleCount} of ${total} tracked ${brandName} products typically go on sale, averaging about ${avgOff}% off.`;
 }
 const saleNote = buildSaleNote(brand, rows, onSaleRows);
 
 // --- Meta --------------------------------------------------------------------
 const pageTitle = `${brand} Plugin Prices & Deals 2026 | ${SITE_TITLE}`;
-const pageDescription = `Every ${brand} plugin we track, with current price, typical sale price, and the lowest price we've recorded. Updated daily.`;
+const pageDescription = `Every ${brand} plugin we track, with its list price, typical sale price, and the lowest price we've recorded. Updated daily.`;
 
 const itemListLD = {
   "@context": "https://schema.org",
@@ -478,7 +478,7 @@ const itemListLD = {
       <section class="brand-header">
         <h1>All {brand} Plugins: Prices, Deals &amp; When They Go On Sale (2026)</h1>
         <p class="brand-intro">
-          We track {rows.length} {brand} products. Here's the current price, typical sale price, and lowest price we've recorded for each.
+          We track {rows.length} {brand} products. Here's each product's list price, its typical sale price, and the lowest price we've recorded. These are typical/expected prices from past sales — see a product's page for its latest tracked price.
         </p>
         {saleNote && (
           <div class="sale-note-box">
@@ -499,9 +499,9 @@ const itemListLD = {
             <tr>
               <th>Product</th>
               <th>Category</th>
-              <th>Current</th>
+              <th>Typical Sale</th>
               <th>Regular</th>
-              <th>% Off</th>
+              <th>Typical Off</th>
               <th>Lowest Tracked</th>
               <th></th>
             </tr>

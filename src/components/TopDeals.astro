@@ -27,7 +27,8 @@ const allEntries: Record<string, PriceEntry> = {
   ...(priceData.plugins ?? {}),
 };
 
-const deals = Object.entries(allEntries)
+// Real, live discounts (a genuine scraped observation below regular).
+const liveDeals = Object.entries(allEntries)
   .map(([name, entry]) => {
     const current = currentPriceOf(entry);
     const regular = regularPriceOf(entry);
@@ -36,18 +37,40 @@ const deals = Object.entries(allEntries)
   .filter(d => d.off > 0 && d.current !== null && d.regular !== null)
   .sort((a, b) => b.off - a.off)
   .slice(0, 5);
+
+// If we don't have enough genuinely-live deals, fall back to the biggest
+// TYPICAL discounts (typical sale price vs regular) — clearly labelled as
+// "typical", never claimed as live. Honest and still useful.
+let deals = liveDeals;
+let watchMode = false;
+if (liveDeals.length < 4) {
+  watchMode = true;
+  deals = Object.entries(allEntries)
+    .map(([name, entry]) => ({
+      name, entry,
+      current: entry.typical_sale,
+      regular: entry.typical_regular,
+      off: (entry.typical_sale !== null && entry.typical_regular !== null && entry.typical_sale < entry.typical_regular)
+        ? pctOff(entry.typical_sale, entry.typical_regular) : 0,
+    }))
+    .filter(d => d.off > 0 && d.current !== null && d.regular !== null)
+    .sort((a, b) => b.off - a.off)
+    .slice(0, 5);
+}
+const railTitle = watchMode ? 'Deals Worth Watching' : "Today's Best Plugin Deals";
 ---
 
 {deals.length > 0 && (
   <aside class="deals-rail" aria-label="Today's best plugin deals">
     <div class="deals-rail-inner">
-      <h2 class="deals-rail-title">Today's Best Plugin Deals</h2>
+      <h2 class="deals-rail-title">{railTitle}</h2>
+      {watchMode && <p class="deals-rail-sub">Typical sale prices — not necessarily live right now.</p>}
       <ul class="deals-rail-list">
         {deals.map(d => (
           <li class="deals-rail-item">
             <a href={`/plugin-prices/${slugify(d.name)}/`} class="deals-rail-name">{d.name}</a>
             <div class="deals-rail-prices">
-              <span class="deals-rail-off">-{d.off}%</span>
+              <span class="deals-rail-off">{watchMode ? 'typ. ' : ''}-{d.off}%</span>
               <span class="deals-rail-reg">{formatPrice(d.regular)}</span>
               <span class="deals-rail-cur mono">{formatPrice(d.current)}</span>
             </div>
@@ -79,6 +102,7 @@ const deals = Object.entries(allEntries)
     color: var(--text-muted);
     margin: 0 0 0.75rem;
   }
+  .deals-rail-sub { font-size: 0.68rem; color: var(--text-muted); margin: -0.4rem 0 0.7rem; }
   .deals-rail-list {
     list-style: none;
     padding: 0;
