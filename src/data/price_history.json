@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10",
+  "last_updated": "2026-07-11",
   "bundles": {
     "FabFilter Total Bundle": {
       "pb_url": "/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle",
@@ -231,6 +231,12 @@
           "date": "2026-06-27",
           "regular": 119,
           "sale": 70,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-11",
+          "regular": 1999,
+          "sale": 199,
           "source": "auto_check"
         }
       ]
