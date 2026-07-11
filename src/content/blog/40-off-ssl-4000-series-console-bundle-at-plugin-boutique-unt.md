@@ -23,9 +23,6 @@ The SSL 4000 Series Console Bundle is an official software emulation of Solid St
 ---
 
 ## Key Features
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/R9lXj9jlX9w" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 - **4000 E-Channel Strip** — Emulation of the E-series EQ and dynamics section, known for its musical, punchy character
 - **G-Bus Compressor** — Models the famed SSL G-series stereo bus compressor, a go-to for bus glue

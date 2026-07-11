@@ -21,7 +21,7 @@ draft: false
 
 ## Overview
 <div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Euef8rtUYf0" title="Waves Abbey Road Studio 3 Plugin | Overview, Impressions, and Hear It In Action!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/jO5SGU6vuzY" title="8Dio Lacrimosa Choir || Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
 Lacrimosa is 8Dio's largest choir library — 200 singers recorded across four sections: 70 basses, 60 tenors, 40 altos, and 30 sopranos. It's built for large-scale cinematic scoring where scale and impact matter.
@@ -31,9 +31,6 @@ Lacrimosa is 8Dio's largest choir library — 200 singers recorded across four s
 ---
 
 ## Key Features
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YbHePXZtAaE" title="The Sauce by DJ Swivel | Vocal Processing Multi-Effect VST Plugin | Review of Key Features" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 - **200-singer ensemble** — basses, tenors, altos, sopranos fully covered
 - **True Layered Legato** — velocity-based transitions across dynamic layers
@@ -51,9 +48,6 @@ Lacrimosa suits composers who need a large, weighty choir sound for epic scoring
 ---
 
 ## Part of the Pick 3 Deal
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/-E8AadhDGSY" title="PeachPay Review and Demo: The Most Simple &amp; Stable Woocommerce Checkout Plugin🔥 Lifetime Deal $49" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 Lacrimosa is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](/posts/choirs-solo-vocals-102b4c)** offer. Pair it with Insolidus for lyrical contrast or Silka for emotional soft layers.
 
