@@ -1,7 +1,7 @@
 ---
 title: "Plugins You Should Never Pay Full Price For (2026)"
 description: "Waves Platinum Bundle lists at $1999. Our tracked price history shows it selling for $77–$199 almost year-round. Here's every plugin in our dataset with the same pattern."
-pubDate: "2026-07-11T10:00:00Z"
+pubDate: "2026-07-11T04:20:00Z"
 tags: ["guide", "price", "vst-plugin", "music-production"]
 evergreen: true
 score: 8.00

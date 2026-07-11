@@ -1,7 +1,7 @@
 ---
 title: "Is It Worth Waiting for Black Friday? Every Major Plugin Brand, Answered (2026)"
 description: "For FabFilter, Black Friday is the only discount all year — wait for it. For Waves, Black Friday changes nothing — it's already cheaper than that most weeks. Brand-by-brand, from tracked price data."
-pubDate: "2026-07-11T11:00:00Z"
+pubDate: "2026-07-11T04:40:00Z"
 tags: ["guide", "price", "vst-plugin", "music-production"]
 evergreen: true
 score: 8.00
