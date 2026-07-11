@@ -125,52 +125,190 @@ function findLowestDate(e: EntryData): string | null {
 const lowestDate = findLowestDate(entry);
 
 // --- Price history chart ---------------------------------------------------
-interface ChartPoint { x: number; y: number; value: number; date: string; isSale: boolean; }
-interface ChartData {
-  points: ChartPoint[];
-  linePath: string;
-  areaPath: string;
+// Real price-tracker data (Keepa/SteamDB) is a dense daily series. Ours is not:
+// each product only has a handful of logged observations plus a couple of
+// summary reference values (typical_regular / all_time_low). The chart below
+// is built honestly from exactly what we have — no interpolation, no invented
+// data points — and refuses to render a misleading line when there isn't
+// enough history to plot one (see emptyStateText below).
+
+interface SeriesPoint {
+  date: string;
+  value: number;
+  isSale: boolean;
+  isLowest: boolean;
+}
+
+function toTimestamp(d: string): number {
+  return new Date(`${d}T00:00:00Z`).getTime();
+}
+
+function formatShortDate(d: string): string {
+  return new Date(`${d}T00:00:00Z`).toLocaleDateString('en-US', {
+    month: 'short',
+    year: '2-digit',
+    timeZone: 'UTC',
+  });
+}
+
+// Build the plotted series from every dated observation we actually have:
+// logged history points, plus today's current price. If the all-time-low
+// happens to match a logged history point, that point is flagged so it can
+// be highlighted — we never fabricate a date for it.
+function buildPriceSeries(e: EntryData, lastUpdated: string): SeriesPoint[] {
+  const byDate = new Map<string, SeriesPoint>();
+
+  for (const h of e.history) {
+    const value = h.sale ?? h.regular;
+    if (value === null) continue;
+    byDate.set(h.date, {
+      date: h.date,
+      value,
+      isSale: h.sale !== null,
+      isLowest: e.all_time_low !== null && value === e.all_time_low,
+    });
+  }
+
+  const cur = currentPrice(e);
+  if (cur !== null) {
+    const curDate = lastUpdated || '2026-07-11';
+    if (!byDate.has(curDate)) {
+      byDate.set(curDate, {
+        date: curDate,
+        value: cur,
+        isSale: isOnSale(e),
+        isLowest: e.all_time_low !== null && cur === e.all_time_low,
+      });
+    }
+  }
+
+  return [...byDate.values()].sort((a, b) => toTimestamp(a.date) - toTimestamp(b.date));
+}
+
+interface PlottedPoint extends SeriesPoint {
+  x: number;
+  y: number;
+}
+interface AxisTick {
+  pos: number;
+  label: string;
+}
+interface ChartGeom {
   width: number;
   height: number;
-  min: number;
-  max: number;
+  padX: number;
+  padTop: number;
+  padBottom: number;
+  points: PlottedPoint[];
+  stepPath: string;
+  areaPath: string;
+  yTicks: AxisTick[];
+  xTicks: AxisTick[];
+  regularY: number | null;
+  lowestY: number | null;
 }
 
-function buildChart(history: HistoryEntry[]): ChartData | null {
-  const usable = history
-    .map((h) => ({ date: h.date, value: h.sale ?? h.regular, isSale: h.sale !== null }))
-    .filter((h): h is { date: string; value: number; isSale: boolean } => h.value !== null);
-
-  if (usable.length < 2) return null;
-
-  const values = usable.map((u) => u.value);
-  const min = Math.min(...values);
-  const max = Math.max(...values);
-  const range = max - min || 1;
+// Reference lines (regular / lowest-tracked) are folded into the value range
+// so they always fit on the chart with room for their labels, even if the
+// logged history never actually touched those values.
+function buildChartGeom(series: SeriesPoint[], regularVal: number | null, lowestVal: number | null): ChartGeom | null {
+  if (series.length < 2) return null;
 
   const width = 760;
-  const height = 240;
-  const padX = 24;
-  const padTop = 24;
-  const padBottom = 24;
+  const height = 280;
+  const padX = 46;
+  const padTop = 26;
+  const padBottom = 34;
   const innerW = width - padX * 2;
   const innerH = height - padTop - padBottom;
-  const step = innerW / (usable.length - 1);
 
-  const points: ChartPoint[] = usable.map((u, i) => {
-    const x = padX + i * step;
-    const y = padTop + innerH * (1 - (u.value - min) / range);
-    return { x, y, value: u.value, date: u.date, isSale: u.isSale };
+  const times = series.map((p) => toTimestamp(p.date));
+  const minT = Math.min(...times);
+  const maxT = Math.max(...times);
+  const spanT = maxT - minT || 1;
+
+  const values = series.map((p) => p.value);
+  const rangeCandidates = [...values];
+  if (regularVal !== null) rangeCandidates.push(regularVal);
+  if (lowestVal !== null) rangeCandidates.push(lowestVal);
+  const rawMin = Math.min(...rangeCandidates);
+  const rawMax = Math.max(...rangeCandidates);
+  const rawRange = rawMax - rawMin || Math.max(rawMax * 0.1, 10);
+  const pad = rawRange * 0.18;
+  const yMin = Math.max(0, rawMin - pad);
+  const yMax = rawMax + pad;
+  const yRange = yMax - yMin || 1;
+
+  const xForT = (t: number) => padX + ((t - minT) / spanT) * innerW;
+  const yForV = (v: number) => padTop + innerH * (1 - (v - yMin) / yRange);
+
+  const points: PlottedPoint[] = series.map((p) => ({
+    ...p,
+    x: xForT(toTimestamp(p.date)),
+    y: yForV(p.value),
+  }));
+
+  // Step-after line: price holds flat at the old value until the next
+  // observation, then steps — this is how real price trackers draw sparse
+  // data, and it doesn't invent a diagonal trend between two unrelated points.
+  let stepPath = `M ${points[0].x.toFixed(1)} ${points[0].y.toFixed(1)}`;
+  for (let i = 1; i < points.length; i++) {
+    const prev = points[i - 1];
+    const p = points[i];
+    stepPath += ` L ${p.x.toFixed(1)} ${prev.y.toFixed(1)} L ${p.x.toFixed(1)} ${p.y.toFixed(1)}`;
+  }
+  const rightEdge = width - padX;
+  const lastPoint = points[points.length - 1];
+  if (rightEdge > lastPoint.x) {
+    // Hold the current price through to "today" on the right edge.
+    stepPath += ` L ${rightEdge.toFixed(1)} ${lastPoint.y.toFixed(1)}`;
+  }
+
+  const baseline = height - padBottom;
+  const areaPath = `${stepPath} L ${rightEdge.toFixed(1)} ${baseline.toFixed(1)} L ${points[0].x.toFixed(1)} ${baseline.toFixed(1)} Z`;
+
+  const tickCount = 4;
+  const yTicks: AxisTick[] = Array.from({ length: tickCount }, (_, i) => {
+    const v = yMin + (yRange * i) / (tickCount - 1);
+    return { pos: yForV(v), label: `$${Math.round(v)}` };
   });
 
-  const linePath = points.map((p, i) => `${i === 0 ? 'M' : 'L'} ${p.x.toFixed(1)} ${p.y.toFixed(1)}`).join(' ');
-  const last = points[points.length - 1];
-  const first = points[0];
-  const areaPath = `${linePath} L ${last.x.toFixed(1)} ${(height - padBottom).toFixed(1)} L ${first.x.toFixed(1)} ${(height - padBottom).toFixed(1)} Z`;
+  const maxXTicks = Math.min(5, points.length);
+  const tickIdxs = new Set<number>();
+  for (let i = 0; i < maxXTicks; i++) {
+    tickIdxs.add(Math.round((i * (points.length - 1)) / Math.max(1, maxXTicks - 1)));
+  }
+  const xTicks: AxisTick[] = [...tickIdxs]
+    .sort((a, b) => a - b)
+    .map((idx) => ({ pos: points[idx].x, label: formatShortDate(points[idx].date) }));
 
-  return { points, linePath, areaPath, width, height, min, max };
+  return {
+    width,
+    height,
+    padX,
+    padTop,
+    padBottom,
+    points,
+    stepPath,
+    areaPath,
+    yTicks,
+    xTicks,
+    regularY: regularVal !== null ? yForV(regularVal) : null,
+    lowestY: lowestVal !== null ? yForV(lowestVal) : null,
+  };
 }
-const chart = buildChart(entry.history);
+
+function emptyStateText(e: EntryData): string {
+  let s = 'Not enough price history yet — we started tracking in 2026.';
+  if (e.typical_regular !== null) {
+    s += ` Regular $${e.typical_regular}`;
+    s += e.typical_sale !== null ? `; typically drops to $${e.typical_sale} on sale.` : '.';
+  }
+  return s;
+}
+
+const series = buildPriceSeries(entry, data.last_updated);
+const chartGeom = buildChartGeom(series, entry.typical_regular, entry.all_time_low);
 
 // --- FAQ -------------------------------------------------------------------
 function faqSaleAnswer(e: EntryData): string {
@@ -326,20 +464,50 @@ const faqLD = {
 
       /* Chart */
       .chart-card {
+        position: relative;
         background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius);
         padding: 1.5rem; overflow-x: auto; -webkit-overflow-scrolling: touch;
       }
       .price-chart { display: block; width: 100%; min-width: 480px; height: auto; }
-      .chart-labels {
-        display: flex; gap: 1.5rem; margin-top: 1rem; min-width: 480px;
-        font-size: 0.75rem; color: var(--text-muted);
+      .price-chart .grid-line { stroke: var(--bg-highest); stroke-width: 1; }
+      .price-chart .axis-label {
+        fill: var(--text-muted); font-size: 10px; font-family: var(--font-body, inherit);
       }
-      .chart-label { display: flex; flex-direction: column; gap: 0.15rem; }
-      .chart-label-value { color: var(--text-primary); font-weight: 700; }
+      .price-chart .y-label { text-anchor: end; }
+      .price-chart .x-label { text-anchor: middle; }
+      .price-chart .ref-line { stroke: var(--text-muted); stroke-width: 1; stroke-dasharray: 4 3; opacity: 0.5; }
+      .price-chart .ref-line.ref-lowest { stroke: var(--sale-text); opacity: 0.55; }
+      .price-chart .ref-label { font-size: 10px; text-anchor: end; }
+      .price-chart .ref-label.ref-regular-label { fill: var(--text-muted); }
+      .price-chart .ref-label.ref-lowest-label { fill: var(--sale-text); }
+      .price-chart .crosshair { stroke: var(--text-muted); stroke-width: 1; stroke-dasharray: 3 3; pointer-events: none; }
+      .price-chart .hover-dot { fill: var(--bg-card); stroke: var(--accent); stroke-width: 2; pointer-events: none; }
+      .price-chart .price-point { stroke: var(--bg-card); stroke-width: 1.5; }
+      .price-chart .overlay-rect { fill: transparent; cursor: crosshair; }
+
+      .chart-tooltip {
+        position: absolute; top: 0; left: 0; opacity: 0; pointer-events: none;
+        background: var(--bg-highest); border: 1px solid var(--border); border-radius: var(--radius);
+        padding: 0.5rem 0.7rem; font-size: 0.78rem; color: var(--text-primary);
+        white-space: nowrap; z-index: 5; transition: opacity 0.1s ease;
+      }
+      .chart-tooltip .tt-date { color: var(--text-muted); font-size: 0.7rem; margin-bottom: 0.15rem; }
+      .chart-tooltip .tt-price {
+        font-weight: 800; font-size: 0.95rem;
+        font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+      }
+      .chart-tooltip .tt-label { font-size: 0.7rem; color: var(--accent); margin-top: 0.15rem; }
+      .chart-tooltip .tt-label.tt-sale { color: var(--sale-text); }
+
       .chart-empty {
-        color: var(--text-muted); font-size: 0.9rem; text-align: center;
-        padding: 2.5rem 1rem; background: var(--bg-card); border: 1px solid var(--border);
+        color: var(--text-muted); font-size: 0.9rem; text-align: left; line-height: 1.6;
+        padding: 1.25rem 1.5rem; background: var(--bg-card); border: 1px solid var(--border);
         border-radius: var(--radius); margin: 0;
+      }
+      .chart-empty .chart-empty-price {
+        display: block; font-size: 1.4rem; font-weight: 800; color: var(--text-primary);
+        font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+        margin-bottom: 0.5rem;
       }
 
       /* Lowest tracked / notes */
@@ -448,39 +616,201 @@ const faqLD = {
       <section class="page-section">
         <h2 class="section-title">Price History</h2>
         <p class="section-sub">Every price point we've logged for {name} since we started tracking.</p>
-        {chart ? (
-          <div class="chart-card">
+        {chartGeom ? (
+          <div class="chart-card" id="price-chart-card">
             <svg
-              viewBox={`0 0 ${chart.width} ${chart.height}`}
+              viewBox={`0 0 ${chartGeom.width} ${chartGeom.height}`}
               class="price-chart"
-              preserveAspectRatio="none"
+              id="price-chart-svg"
               role="img"
               aria-label={`Price history chart for ${name}`}
             >
               <defs>
                 <linearGradient id="chartFill" x1="0" x2="0" y1="0" y2="1">
-                  <stop offset="0%" stop-color="var(--accent)" stop-opacity="0.25" />
+                  <stop offset="0%" stop-color="var(--accent)" stop-opacity="0.28" />
                   <stop offset="100%" stop-color="var(--accent)" stop-opacity="0" />
                 </linearGradient>
               </defs>
-              <path d={chart.areaPath} fill="url(#chartFill)" stroke="none" />
-              <path d={chart.linePath} fill="none" stroke="var(--accent)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
-              {chart.points.map((p) => (
-                <circle cx={p.x} cy={p.y} r="4.5" fill={p.isSale ? 'var(--sale-text)' : 'var(--accent)'} />
+
+              {chartGeom.yTicks.map((t) => (
+                <>
+                  <line x1={chartGeom.padX} x2={chartGeom.width - chartGeom.padX} y1={t.pos} y2={t.pos} class="grid-line" />
+                  <text x={chartGeom.padX - 8} y={t.pos + 3} class="axis-label y-label">{t.label}</text>
+                </>
               ))}
+
+              {chartGeom.xTicks.map((t) => (
+                <text x={t.pos} y={chartGeom.height - chartGeom.padBottom + 18} class="axis-label x-label">{t.label}</text>
+              ))}
+
+              {chartGeom.regularY !== null && (
+                <>
+                  <line
+                    x1={chartGeom.padX} x2={chartGeom.width - chartGeom.padX}
+                    y1={chartGeom.regularY} y2={chartGeom.regularY}
+                    class="ref-line ref-regular"
+                  />
+                  <text x={chartGeom.width - chartGeom.padX} y={chartGeom.regularY - 6} class="ref-label ref-regular-label">
+                    Regular ${entry.typical_regular}
+                  </text>
+                </>
+              )}
+              {chartGeom.lowestY !== null && (
+                <>
+                  <line
+                    x1={chartGeom.padX} x2={chartGeom.width - chartGeom.padX}
+                    y1={chartGeom.lowestY} y2={chartGeom.lowestY}
+                    class="ref-line ref-lowest"
+                  />
+                  <text x={chartGeom.width - chartGeom.padX} y={chartGeom.lowestY + 14} class="ref-label ref-lowest-label">
+                    Lowest tracked ${entry.all_time_low}
+                  </text>
+                </>
+              )}
+
+              <path d={chartGeom.areaPath} fill="url(#chartFill)" stroke="none" />
+              <path
+                d={chartGeom.stepPath} fill="none" stroke="var(--accent)"
+                stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"
+              />
+
+              {chartGeom.points.map((p) => (
+                <circle
+                  cx={p.x} cy={p.y} r="4.5" class="price-point"
+                  fill={p.isSale || p.isLowest ? 'var(--sale-text)' : 'var(--accent)'}
+                />
+              ))}
+
+              <line
+                id="price-chart-crosshair"
+                x1="0" x2="0" y1={chartGeom.padTop} y2={chartGeom.height - chartGeom.padBottom}
+                class="crosshair" style="opacity:0"
+              />
+              <circle id="price-chart-hoverdot" r="5.5" class="hover-dot" style="opacity:0" />
+
+              <rect
+                id="price-chart-overlay"
+                class="overlay-rect"
+                x={chartGeom.padX} y="0"
+                width={chartGeom.width - chartGeom.padX * 2}
+                height={chartGeom.height}
+              />
             </svg>
-            <div class="chart-labels">
-              {chart.points.map((p) => (
-                <div class="chart-label">
-                  <span>{p.date}</span>
-                  <span class="chart-label-value">${p.value}</span>
-                </div>
-              ))}
-            </div>
+            <div id="price-chart-tooltip" class="chart-tooltip" role="status" aria-live="polite"></div>
           </div>
         ) : (
-          <p class="chart-empty">Not enough price history yet — we started tracking in 2026.</p>
+          <p class="chart-empty">
+            <span class="chart-empty-price">{formatPrice(current)}</span>
+            {emptyStateText(entry)}
+          </p>
         )}
+
+        <script
+          define:vars={{
+            chartPoints: chartGeom ? chartGeom.points : [],
+            chartWidth: chartGeom ? chartGeom.width : 0,
+            chartHeight: chartGeom ? chartGeom.height : 0,
+          }}
+        >
+          if (chartPoints && chartPoints.length >= 2) {
+            const svg = document.getElementById('price-chart-svg');
+            const overlay = document.getElementById('price-chart-overlay');
+            const crosshair = document.getElementById('price-chart-crosshair');
+            const hoverDot = document.getElementById('price-chart-hoverdot');
+            const tooltip = document.getElementById('price-chart-tooltip');
+            const card = document.getElementById('price-chart-card');
+
+            if (svg && overlay && crosshair && hoverDot && tooltip && card) {
+              const nearestPoint = (localX) => {
+                let nearest = chartPoints[0];
+                let bestDist = Infinity;
+                for (const p of chartPoints) {
+                  const dist = Math.abs(p.x - localX);
+                  if (dist < bestDist) {
+                    bestDist = dist;
+                    nearest = p;
+                  }
+                }
+                return nearest;
+              };
+
+              const labelFor = (p) => {
+                if (p.isLowest) return 'Lowest tracked';
+                if (p.isSale) return 'On sale';
+                return 'Regular price';
+              };
+
+              const formatDate = (d) =>
+                new Date(`${d}T00:00:00Z`).toLocaleDateString('en-US', {
+                  month: 'short',
+                  day: 'numeric',
+                  year: 'numeric',
+                  timeZone: 'UTC',
+                });
+
+              const showAt = (clientX, clientY) => {
+                const svgRect = svg.getBoundingClientRect();
+                const scaleX = chartWidth / svgRect.width;
+                const scaleY = chartHeight / svgRect.height;
+                const localX = (clientX - svgRect.left) * scaleX;
+                const p = nearestPoint(localX);
+
+                crosshair.setAttribute('x1', String(p.x));
+                crosshair.setAttribute('x2', String(p.x));
+                crosshair.style.opacity = '1';
+
+                hoverDot.setAttribute('cx', String(p.x));
+                hoverDot.setAttribute('cy', String(p.y));
+                hoverDot.style.opacity = '1';
+
+                const saleClass = (p.isLowest || p.isSale) ? 'tt-label tt-sale' : 'tt-label';
+                tooltip.innerHTML =
+                  '<div class="tt-date">' + formatDate(p.date) + '</div>' +
+                  '<div class="tt-price">$' + p.value + '</div>' +
+                  '<div class="' + saleClass + '">' + labelFor(p) + '</div>';
+                tooltip.style.opacity = '1';
+
+                const cardRect = card.getBoundingClientRect();
+                const pxOnScreen = svgRect.left - cardRect.left + p.x / scaleX;
+                const pyOnScreen = svgRect.top - cardRect.top + p.y / scaleY;
+
+                const tw = tooltip.offsetWidth || 140;
+                let left = pxOnScreen - tw / 2;
+                left = Math.max(4, Math.min(left, cardRect.width - tw - 4));
+                tooltip.style.left = left + 'px';
+
+                const th = tooltip.offsetHeight || 50;
+                let top = pyOnScreen - th - 14;
+                if (top < 0) top = pyOnScreen + 14;
+                tooltip.style.top = top + 'px';
+              };
+
+              const hide = () => {
+                crosshair.style.opacity = '0';
+                hoverDot.style.opacity = '0';
+                tooltip.style.opacity = '0';
+              };
+
+              overlay.addEventListener('mousemove', (e) => showAt(e.clientX, e.clientY));
+              overlay.addEventListener('mouseleave', hide);
+              overlay.addEventListener(
+                'touchstart',
+                (e) => {
+                  if (e.touches[0]) showAt(e.touches[0].clientX, e.touches[0].clientY);
+                },
+                { passive: true }
+              );
+              overlay.addEventListener(
+                'touchmove',
+                (e) => {
+                  if (e.touches[0]) showAt(e.touches[0].clientX, e.touches[0].clientY);
+                },
+                { passive: true }
+              );
+              overlay.addEventListener('touchend', hide);
+            }
+          }
+        </script>
       </section>
 
       <section class="page-section">
