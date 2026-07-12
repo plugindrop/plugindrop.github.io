@@ -693,6 +693,14 @@ const pageLD = {
 
         if (searchInput) {
           searchInput.addEventListener('input', applyFilters);
+          // ホームの検索フォーム(/plugin-prices/?q=...)からの遷移: クエリを
+          // 検索欄に反映して即フィルタする
+          const initialQ = new URLSearchParams(window.location.search).get('q');
+          if (initialQ) {
+            searchInput.value = initialQ;
+            applyFilters();
+            searchInput.focus();
+          }
         }
 
         if (chipRow) {

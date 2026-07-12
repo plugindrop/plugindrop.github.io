@@ -4,6 +4,57 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import priceDataRaw from '../data/price_history.json';
+import productVideosRaw from '../data/product_videos.json';
+import {
+	type PriceEntry,
+	slugify,
+	formatPrice,
+	currentPriceOf,
+	regularPriceOf,
+	pctOff,
+} from '../lib/priceUtils';
+
+// --- Price-intelligence hero data (NW-D) -----------------------------------
+const priceData = priceDataRaw as { last_updated: string; bundles: Record<string, PriceEntry>; plugins?: Record<string, PriceEntry> };
+const trackerEntries: Record<string, PriceEntry> = {
+	...(priceData.bundles ?? {}),
+	...(priceData.plugins ?? {}),
+};
+const trackedCount = Object.keys(trackerEntries).length;
+const pricePointCount = Object.values(trackerEntries).reduce(
+	(n, e) => n + (e.history?.length ?? 0),
+	0,
+);
+const demoVideoCount = Object.keys(productVideosRaw as Record<string, unknown>).length;
+
+// Live drops: a genuine scraped observation below the regular price —
+// same honesty rule as the TopDeals sidebar (never "typical" claims here).
+const liveDrops = Object.entries(trackerEntries)
+	.map(([name, entry]) => {
+		const current = currentPriceOf(entry);
+		const regular = regularPriceOf(entry);
+		return { name, current, regular, off: pctOff(current, regular) };
+	})
+	.filter((d) => d.off > 0 && d.current !== null && d.regular !== null)
+	.sort((a, b) => b.off - a.off)
+	.slice(0, 6);
+
+// Brand hub chips — slugs verified against built /brands/ pages
+const brandChips = [
+	{ label: 'FabFilter', slug: 'fabfilter' },
+	{ label: 'iZotope', slug: 'izotope' },
+	{ label: 'Native Instruments', slug: 'native-instruments' },
+	{ label: 'Arturia', slug: 'arturia' },
+	{ label: 'Waves', slug: 'waves' },
+	{ label: 'Soundtoys', slug: 'soundtoys' },
+	{ label: 'u-he', slug: 'u-he' },
+	{ label: 'Valhalla', slug: 'valhalla' },
+	{ label: 'Xfer', slug: 'xfer' },
+	{ label: 'Spitfire Audio', slug: 'spitfire-audio' },
+	{ label: 'Plugin Alliance', slug: 'plugin-alliance' },
+	{ label: 'Universal Audio', slug: 'universal-audio' },
+];
 
 const allPosts = (await getCollection('blog'))
 	.filter((p) => !p.data.draft)
@@ -133,15 +184,55 @@ const freeDeals = allPosts
 		<Header />
 		<main id="main-content">
 
-			<!-- ── Hero Strip ─────────────────────────── -->
+			<!-- ── Hero Strip: price intelligence (NW-D) ── -->
 			<section class="hero-strip">
 				<div class="hero-headline-wrap">
-					<h1 class="hero-headline">Plugin deals, verified daily.</h1>
+					<h1 class="hero-headline">Know what a plugin really costs.</h1>
 					<p class="hero-sub">
-						Prices, specs &amp; community takes &mdash; no hype, no fake reviews.
+						Daily price tracking, sale history &amp; verified deals &mdash; no hype, no fake reviews.
 					</p>
 				</div>
+				<form class="hero-search" action="/plugin-prices/" method="get" role="search">
+					<input
+						type="search"
+						name="q"
+						class="hero-search-input"
+						placeholder={`Search ${trackedCount} tracked plugins — e.g. Serum 2, Pro-Q 4…`}
+						aria-label="Search tracked plugin prices"
+					/>
+					<button type="submit" class="hero-search-btn">Check price</button>
+				</form>
+				<div class="hero-stats">
+					<a href="/plugin-prices/" class="hero-stat"><strong>{trackedCount}</strong> plugins tracked</a>
+					<span class="hero-stat"><strong>{pricePointCount.toLocaleString('en-US')}</strong> price points logged</span>
+					<span class="hero-stat"><strong>{demoVideoCount}</strong> verified demos</span>
+					<a href="/brands/" class="hero-stat hero-stat-link">Browse by brand &rarr;</a>
+				</div>
 			</section>
+
+			<!-- ── Live Price Drops (scraped, not "typical") ── -->
+			{liveDrops.length > 0 && (
+				<section class="section">
+					<header class="section-hd">
+						<span class="section-label">📉 Live Price Drops</span>
+						<a href="/plugin-prices/" class="section-more">All tracked prices &rarr;</a>
+					</header>
+					<p class="drops-sub">From our daily price checks &mdash; observed prices, not marketing claims.</p>
+					<div class="drop-grid">
+						{liveDrops.map((d) => (
+							<a href={`/plugin-prices/${slugify(d.name)}/`} class="drop-card">
+								<span class="drop-name">{d.name}</span>
+								<span class="drop-prices">
+									<span class="drop-off">-{d.off}%</span>
+									<s class="drop-was">{formatPrice(d.regular)}</s>
+									<strong class="drop-now">{formatPrice(d.current)}</strong>
+								</span>
+								<span class="drop-cta">Price history &rarr;</span>
+							</a>
+						))}
+					</div>
+				</section>
+			)}
 
 			<!-- ── Editor's Picks ─────────────────────── -->
 			{topDeals.length > 0 && (
@@ -268,6 +359,19 @@ const freeDeals = allPosts
 			)}
 
 
+			<!-- ── Brand Hubs ─────────────────────────── -->
+			<section class="section section--brands">
+				<header class="section-hd">
+					<span class="section-label">🏷 Price Trackers by Brand</span>
+					<a href="/brands/" class="section-more">All brands &rarr;</a>
+				</header>
+				<div class="brand-chip-row">
+					{brandChips.map((b) => (
+						<a href={`/brands/${b.slug}/`} class="brand-chip">{b.label}</a>
+					))}
+				</div>
+			</section>
+
 			<section class="section section--guides">
 				<div class="section-hd">
 					<span class="section-label">📖 Production Guides</span>
@@ -322,6 +426,96 @@ const freeDeals = allPosts
 		margin-bottom: 2.5rem;
 	}
 	.hero-headline-wrap { margin-bottom: 0.75rem; }
+	/* ── Price-intelligence hero (NW-D) ── */
+	.hero-search {
+		display: flex;
+		gap: 0.5rem;
+		max-width: 560px;
+		margin: 1rem 0 0.85rem;
+	}
+	.hero-search-input {
+		flex: 1;
+		min-width: 0;
+		padding: 0.65rem 0.9rem;
+		font-size: 0.95rem;
+		color: var(--text-primary);
+		background: var(--bg-card);
+		border: 1px solid var(--border);
+		border-radius: var(--radius);
+	}
+	.hero-search-input::placeholder { color: var(--text-muted); }
+	.hero-search-input:focus { outline: none; border-color: var(--accent); }
+	.hero-search-btn {
+		padding: 0.65rem 1.1rem;
+		font-size: 0.9rem;
+		font-weight: 700;
+		color: var(--bg-base);
+		background: var(--accent);
+		border: none;
+		border-radius: var(--radius);
+		cursor: pointer;
+		white-space: nowrap;
+	}
+	.hero-search-btn:hover { background: var(--accent-light); }
+	.hero-stats {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.4rem 1.4rem;
+		font-size: 0.82rem;
+		color: var(--text-muted);
+	}
+	.hero-stat { color: var(--text-muted); text-decoration: none; }
+	.hero-stat strong { color: var(--text-primary); font-weight: 800; }
+	a.hero-stat:hover { color: var(--accent); }
+	.hero-stat-link { color: var(--accent-light); }
+
+	/* ── Live Price Drops ── */
+	.drops-sub { font-size: 0.8rem; color: var(--text-muted); margin: -0.35rem 0 0.8rem; }
+	.drop-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+		gap: 0.7rem;
+	}
+	.drop-card {
+		display: flex;
+		flex-direction: column;
+		gap: 0.35rem;
+		padding: 0.8rem 0.9rem;
+		background: var(--bg-card);
+		border: 1px solid var(--border);
+		border-left: 3px solid var(--sale-text);
+		border-radius: var(--radius);
+		text-decoration: none;
+	}
+	.drop-card:hover { border-color: var(--accent-border-hover, var(--accent)); }
+	.drop-name { font-size: 0.9rem; font-weight: 700; color: var(--text-primary); }
+	.drop-prices { display: flex; align-items: center; gap: 0.5rem; }
+	.drop-off {
+		font-size: 0.7rem;
+		font-weight: 700;
+		color: #fff;
+		background: linear-gradient(135deg, #e63946 0%, #c1121f 100%);
+		border-radius: 3px;
+		padding: 0.1rem 0.4rem;
+	}
+	.drop-was { font-size: 0.8rem; color: var(--text-muted); }
+	.drop-now { font-size: 0.95rem; font-weight: 800; color: var(--sale-text); }
+	.drop-cta { font-size: 0.75rem; color: var(--accent-light); }
+
+	/* ── Brand chips ── */
+	.section--brands { padding-top: 1.6rem; border-top: 1px solid var(--border); }
+	.brand-chip-row { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+	.brand-chip {
+		padding: 0.4rem 0.85rem;
+		font-size: 0.85rem;
+		font-weight: 600;
+		color: var(--text-primary);
+		background: var(--bg-card);
+		border: 1px solid var(--border);
+		border-radius: 999px;
+		text-decoration: none;
+	}
+	.brand-chip:hover { border-color: var(--accent); color: var(--accent); }
 	.hero-headline {
 		font-family: var(--font-display);
 		font-size: 2.75rem;
