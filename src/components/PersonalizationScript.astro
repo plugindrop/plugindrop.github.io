@@ -144,12 +144,37 @@
     return s;
   }
 
+  // NW-K5: 興味→アイテムの親和性マトリクス（ペルソナ調査 2026-07-12）。
+  // セグメントは1カテゴリに閉じない: 例 ギタリスト = アンプ系1.0 + FX0.6 +
+  // 基礎ミックス0.4。完全一致だけの旧実装より購買行動に近い並べ替えになる。
+  // 検証: pd_active/pd_click のGA4イベントで3週計測、改善ゼロなら撤去。
+  var AFFINITY = {
+    'guitar-bass': { 'guitar-bass': 1, 'effects': 0.6, 'mixing': 0.4, 'drums': 0.2, 'orchestral': 0.1 },
+    'drums':       { 'drums': 1, 'sampling': 0.6, 'effects': 0.4, 'mixing': 0.4, 'synth': 0.3 },
+    'synth':       { 'synth': 1, 'effects': 0.5, 'sampling': 0.4, 'mixing': 0.3, 'daw': 0.3 },
+    'vocals':      { 'vocals': 1, 'mixing': 0.6, 'effects': 0.5 },
+    'orchestral':  { 'orchestral': 1, 'sampling': 0.4, 'effects': 0.3, 'mixing': 0.3, 'daw': 0.2 },
+    'mixing':      { 'mixing': 1, 'effects': 0.6, 'vocals': 0.3 },
+    'effects':     { 'effects': 1, 'mixing': 0.4, 'synth': 0.3 },
+    'sampling':    { 'sampling': 1, 'drums': 0.4, 'synth': 0.3 },
+    'daw':         { 'daw': 1, 'synth': 0.3, 'mixing': 0.2 },
+    'free':        { 'free': 1, 'synth': 0.2, 'effects': 0.2, 'drums': 0.2, 'mixing': 0.2, 'guitar-bass': 0.2, 'vocals': 0.2, 'sampling': 0.2, 'orchestral': 0.2, 'daw': 0.2 }
+  };
+
   function itemScore(el, s) {
     var pd = el.getAttribute('data-pd');
     if (!pd) return 0;
-    var parts = pd.split(',');
+    var itemCats = pd.split(',');
     var v = 0;
-    for (var i = 0; i < parts.length; i++) v += s[parts[i].trim()] || 0;
+    for (var u = 0; u < CATS.length; u++) {
+      var userCat = CATS[u];
+      var w = s[userCat] || 0;
+      if (!w) continue;
+      var row = AFFINITY[userCat] || {};
+      for (var i = 0; i < itemCats.length; i++) {
+        v += w * (row[itemCats[i].trim()] || 0);
+      }
+    }
     return v;
   }
 
