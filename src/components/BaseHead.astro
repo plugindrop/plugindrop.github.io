@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import PersonalizationScript from './PersonalizationScript.astro';
 import { SITE_TITLE, SITE_TWITTER } from '../consts';
 
 interface Props {
@@ -83,3 +84,5 @@ const resolvedImage = new URL(image, Astro.site);
 
 <!-- Indexing -->
 <meta name="robots" content="index, follow, max-image-preview:large" />
+
+<PersonalizationScript />

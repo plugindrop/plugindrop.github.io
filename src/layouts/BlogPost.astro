@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import { pdAttr } from '../lib/interestTaxonomy.mjs';
 import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
@@ -328,6 +329,7 @@ const featuredDeals = isEvergreen ? allPosts
 <html lang="en">
 	<head>
 		<BaseHead title={title.length > 50 ? title : `${title} | ${SITE_TITLE}`} description={description} image={imageStr} ogType="article" articleSection={tags[0] ?? 'Music Production'} />
+		{pdAttr({ title, tags }) && <meta name="pd-interests" content={pdAttr({ title, tags })} />}
 		{noindex && <meta name="robots" content="noindex, follow" />}
 		<script type="application/ld+json" set:html={JSON.stringify(articleLD)} />
 		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbLD)} />

@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { pdAttr } from '../../lib/interestTaxonomy.mjs';
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
@@ -342,6 +343,7 @@ function isSaleDeal(tags: string[], hasPriceOrAffiliate: boolean): boolean {
 						<a
 							href={`/posts/${post.id}/`}
 							class={`post-item${expired && isSale ? ' is-expired' : ''}`}
+							data-pd={pdAttr({ title: post.data.title, tags })}
 							data-tags={tagsStr}
 							data-has-price={hasPriceOrAffiliate ? '1' : '0'}
 							data-has-affiliate={post.data.affiliate ? '1' : '0'}

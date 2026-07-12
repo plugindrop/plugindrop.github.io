@@ -6,6 +6,7 @@ import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import priceDataRaw from '../data/price_history.json';
 import productVideosRaw from '../data/product_videos.json';
+import { pdAttr } from '../lib/interestTaxonomy.mjs';
 import {
 	type PriceEntry,
 	slugify,
@@ -220,7 +221,7 @@ const freeDeals = allPosts
 					<p class="drops-sub">From our daily price checks &mdash; observed prices, not marketing claims.</p>
 					<div class="drop-grid">
 						{liveDrops.map((d) => (
-							<a href={`/plugin-prices/${slugify(d.name)}/`} class="drop-card">
+							<a href={`/plugin-prices/${slugify(d.name)}/`} class="drop-card" data-pd={pdAttr({ title: d.name })}>
 								<span class="drop-name">{d.name}</span>
 								<span class="drop-prices">
 									<span class="drop-off">-{d.off}%</span>
@@ -245,7 +246,7 @@ const freeDeals = allPosts
 						{topDeals.map(post => {
 							const days = daysLeft(post);
 							return (
-								<a href={`/posts/${post.id}/`} class="deal-card">
+								<a href={`/posts/${post.id}/`} class="deal-card" data-pd={pdAttr({ title: post.data.title, tags: post.data.tags ?? [] })}>
 									<div class="card-img-wrap">
 										<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
 										{getDiscountBadge(post) && <span class="bdg-discount">{getDiscountBadge(post)}</span>}
@@ -289,7 +290,7 @@ const freeDeals = allPosts
 						{recentDeals.map(post => {
 							const days = daysLeft(post);
 							return (
-								<a href={`/posts/${post.id}/`} class="deal-card">
+								<a href={`/posts/${post.id}/`} class="deal-card" data-pd={pdAttr({ title: post.data.title, tags: post.data.tags ?? [] })}>
 									{post.data.heroImage && (
 										<div class="card-img-wrap">
 											<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />

@@ -1,0 +1,197 @@
+---
+/**
+ * PersonalizationScript — NW-H 興味プロファイル収集＋並べ替え（クライアント）。
+ * 設計: docs/nw-h-personalization-design.md
+ *
+ * - プロファイルは端末内（localStorage/sessionStorage）のみ。外部送信しない。
+ * - GA4イベントはサイト既存のgtagが存在する場合のみ、スロット名とカテゴリ名だけ送る。
+ * - すべての処理はtry/catchで包み、失敗時は既定表示のまま（任意強化）。
+ * - 並べ替えは同一親内のappendのみ（要素の追加/削除なし → SEO/CLSセーフ）。
+ */
+---
+<script is:inline>
+(function () {
+  'use strict';
+  var PD_DISABLED = false; // 緊急停止フラグ（設計書§6）
+  if (PD_DISABLED) return;
+
+  var CATS = ['synth','guitar-bass','drums','vocals','orchestral','mixing','effects','sampling','daw','free'];
+  var LS_KEY = 'pd_profile_v1';
+  var SS_KEY = 'pd_session_v1';
+  var HALF_LIFE_DECAY = 0.977; // 1日あたり（半減期 ~30日）
+  var CLAMP = 50;
+  var MIN_SIGNAL = 2; // 合計カウントがこれ未満なら並べ替えない（コールドスタート）
+
+  function track(name, params) {
+    try {
+      if (typeof gtag === 'function') gtag('event', name, params || {});
+    } catch (e) { /* noop */ }
+  }
+
+  function sanitizeProfile(raw, now) {
+    var out = { long: {}, updated: now };
+    if (!raw || typeof raw !== 'object') return out;
+    var upd = Date.parse(raw.updated);
+    if (isFinite(upd) && upd <= now) out.updated = upd;
+    var src = (raw.long && typeof raw.long === 'object') ? raw.long : {};
+    for (var i = 0; i < CATS.length; i++) {
+      var v = src[CATS[i]];
+      if (typeof v === 'number' && isFinite(v) && v > 0) {
+        out.long[CATS[i]] = Math.min(v, CLAMP);
+      }
+    }
+    return out;
+  }
+
+  function loadJSON(storage, key) {
+    try { return JSON.parse(storage.getItem(key)); } catch (e) { return null; }
+  }
+  function saveJSON(storage, key, val) {
+    try { storage.setItem(key, JSON.stringify(val)); } catch (e) { /* quota/private */ }
+  }
+
+  var now = Date.now();
+  var profile = sanitizeProfile(loadJSON(localStorage, LS_KEY), now);
+  var session = loadJSON(sessionStorage, SS_KEY) || {};
+
+  // 減衰（経過日数は下限0 — 未来日付でも係数が1を超えない）
+  var days = Math.max(0, (now - profile.updated) / 86400000);
+  var decay = Math.pow(HALF_LIFE_DECAY, days);
+  for (var c in profile.long) profile.long[c] = Math.min(profile.long[c] * decay, CLAMP);
+  profile.updated = now;
+
+  // このページの興味シグナルを加算
+  var meta = document.querySelector('meta[name="pd-interests"]');
+  if (meta && meta.content) {
+    meta.content.split(',').forEach(function (cat) {
+      cat = cat.trim();
+      if (CATS.indexOf(cat) === -1) return;
+      profile.long[cat] = Math.min((profile.long[cat] || 0) + 1, CLAMP);
+      session[cat] = Math.min((typeof session[cat] === 'number' && isFinite(session[cat]) && session[cat] > 0 ? session[cat] : 0) + 1, CLAMP);
+    });
+  }
+  saveJSON(localStorage, LS_KEY, { long: profile.long, updated: new Date(now).toISOString() });
+  saveJSON(sessionStorage, SS_KEY, session);
+
+  // 合成スコア（セッション意図を2倍重み）
+  function scores() {
+    var s = {};
+    var total = 0;
+    for (var i = 0; i < CATS.length; i++) {
+      var c = CATS[i];
+      var sess = (typeof session[c] === 'number' && isFinite(session[c])) ? session[c] : 0;
+      s[c] = 2 * sess + (profile.long[c] || 0);
+      total += sess + (profile.long[c] || 0);
+    }
+    s.__total = total;
+    return s;
+  }
+
+  function itemScore(el, s) {
+    var pd = el.getAttribute('data-pd');
+    if (!pd) return 0;
+    var parts = pd.split(',');
+    var v = 0;
+    for (var i = 0; i < parts.length; i++) v += s[parts[i].trim()] || 0;
+    return v;
+  }
+
+  function topCat(s) {
+    var best = '', bv = 0;
+    for (var i = 0; i < CATS.length; i++) {
+      if (s[CATS[i]] > bv) { bv = s[CATS[i]]; best = CATS[i]; }
+    }
+    return best;
+  }
+
+  function addBadge(sectionEl, slot) {
+    try {
+      var hd = sectionEl.querySelector('.section-hd') || sectionEl;
+      if (hd.querySelector('.pd-badge')) return;
+      var b = document.createElement('span');
+      b.className = 'pd-badge';
+      b.style.cssText = 'font-size:.68rem;color:var(--text-muted);margin-left:auto;padding-left:.6rem;white-space:nowrap';
+      b.innerHTML = 'Sorted for you · <a href="#" class="pd-reset" style="color:inherit;text-decoration:underline">reset</a>';
+      hd.appendChild(b);
+    } catch (e) { /* noop */ }
+  }
+
+  function reorderGrid(containerEl, itemSel, slot, s) {
+    var items = Array.prototype.slice.call(containerEl.querySelectorAll(':scope > ' + itemSel));
+    if (items.length < 3) return false;
+    var scored = items.map(function (el, idx) { return { el: el, v: itemScore(el, s), i: idx }; });
+    if (!scored.some(function (x) { return x.v > 0; })) return false;
+    scored.sort(function (a, b) { return (b.v - a.v) || (a.i - b.i); }); // 安定
+    // 既定順と同じなら何もしない
+    var changed = scored.some(function (x, idx) { return x.i !== idx; });
+    if (!changed) return false;
+    scored.forEach(function (x) { containerEl.appendChild(x.el); });
+    return true;
+  }
+
+  function personalize() {
+    var s = scores();
+    if (s.__total < MIN_SIGNAL) return;
+    var tc = topCat(s);
+    var fired = [];
+
+    // S1: ホームのdeal-grid / S2: drop-grid / S3: 記事一覧
+    [['.deal-grid', 'a.deal-card', 'home-deals'],
+     ['.drop-grid', 'a.drop-card', 'home-drops'],
+     ['.post-list', 'a.post-item', 'posts-list']].forEach(function (def) {
+      document.querySelectorAll(def[0]).forEach(function (c) {
+        if (reorderGrid(c, def[1], def[2], s)) {
+          fired.push(def[2]);
+          var section = c.closest('section') || c.parentElement;
+          if (section) addBadge(section, def[2]);
+        }
+      });
+    });
+
+    // S4: サイドバーTopDeals — 10件レンダリング済みのうちスコア順に5件表示
+    document.querySelectorAll('.deals-rail-list').forEach(function (list) {
+      var items = Array.prototype.slice.call(list.querySelectorAll('li.deals-rail-item'));
+      if (items.length <= 5) return;
+      var scored = items.map(function (el, idx) { return { el: el, v: itemScore(el, s), i: idx }; });
+      if (!scored.some(function (x) { return x.v > 0; })) return;
+      scored.sort(function (a, b) { return (b.v - a.v) || (a.i - b.i); });
+      var changed = false;
+      scored.forEach(function (x, idx) {
+        var wantHidden = idx >= 5;
+        if (x.el.hidden !== wantHidden) { x.el.hidden = wantHidden; changed = true; }
+        if (!wantHidden) list.appendChild(x.el);
+      });
+      if (changed || scored[0].i !== 0) {
+        fired.push('sidebar-deals');
+        var rail = list.closest('.deals-rail-inner') || list.parentElement;
+        if (rail) addBadge(rail, 'sidebar-deals');
+      }
+    });
+
+    if (fired.length) track('pd_active', { slot: fired.join('|'), top_cat: tc });
+
+    // 発動枠内クリック計測
+    document.addEventListener('click', function (ev) {
+      var a = ev.target && ev.target.closest && ev.target.closest('[data-pd]');
+      if (a && a.closest('.deal-grid,.drop-grid,.post-list,.deals-rail-list')) {
+        track('pd_click', { cat: a.getAttribute('data-pd') });
+      }
+    }, { capture: true, passive: true });
+  }
+
+  // reset（イベント委譲）
+  document.addEventListener('click', function (ev) {
+    var r = ev.target && ev.target.closest && ev.target.closest('.pd-reset');
+    if (!r) return;
+    ev.preventDefault();
+    try { localStorage.removeItem(LS_KEY); sessionStorage.removeItem(SS_KEY); } catch (e) {}
+    location.reload();
+  });
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', personalize);
+  } else {
+    personalize();
+  }
+})();
+</script>

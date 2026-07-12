@@ -6,6 +6,7 @@
  * (current < regular). Renders nothing if no product currently qualifies.
  */
 import priceDataRaw from '../data/price_history.json';
+import { pdAttr } from '../lib/interestTaxonomy.mjs';
 import {
   type PriceEntry,
   pbLink as basePbLink,
@@ -36,7 +37,7 @@ const liveDeals = Object.entries(allEntries)
   })
   .filter(d => d.off > 0 && d.current !== null && d.regular !== null)
   .sort((a, b) => b.off - a.off)
-  .slice(0, 5);
+  .slice(0, 10);
 
 // If we don't have enough genuinely-live deals, fall back to the biggest
 // TYPICAL discounts (typical sale price vs regular) — clearly labelled as
@@ -55,7 +56,7 @@ if (liveDeals.length < 4) {
     }))
     .filter(d => d.off > 0 && d.current !== null && d.regular !== null)
     .sort((a, b) => b.off - a.off)
-    .slice(0, 5);
+    .slice(0, 10);
 }
 const railTitle = watchMode ? 'Deals Worth Watching' : "Today's Best Plugin Deals";
 ---
@@ -66,8 +67,8 @@ const railTitle = watchMode ? 'Deals Worth Watching' : "Today's Best Plugin Deal
       <h2 class="deals-rail-title">{railTitle}</h2>
       {watchMode && <p class="deals-rail-sub">Typical sale prices — not necessarily live right now.</p>}
       <ul class="deals-rail-list">
-        {deals.map(d => (
-          <li class="deals-rail-item">
+        {deals.map((d, i) => (
+          <li class="deals-rail-item" data-pd={pdAttr({ title: d.name, extra: d.entry.category ?? '' })} hidden={i >= 5}>
             <a href={`/plugin-prices/${slugify(d.name)}/`} class="deals-rail-name">{d.name}</a>
             <div class="deals-rail-prices">
               <span class="deals-rail-off">{watchMode ? 'typ. ' : ''}-{d.off}%</span>
