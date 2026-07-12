@@ -42,7 +42,7 @@ const liveDrops = Object.entries(trackerEntries)
 	})
 	.filter((d) => d.off > 0 && d.current !== null && d.regular !== null)
 	.sort((a, b) => b.off - a.off)
-	.slice(0, 13);
+	.slice(0, 4);
 
 const allPosts = (await getCollection('blog'))
 	.filter((p) => !p.data.draft)
@@ -125,54 +125,48 @@ const topDeals = heroPosts
 			<section class="hero-strip">
 				<div class="hero-copy">
 					<h1>Know what a plugin really costs.</h1>
-					<p>Daily price tracking and sale history &mdash; no hype, no fake reviews.</p>
+					<p>Independent price tracking and honest deal curation for music producers.</p>
 				</div>
 				<form class="hero-search" action="/posts/" method="get" role="search">
 					<input type="search" name="q" placeholder="Search plugins and deals&hellip;" aria-label="Search plugins and deals" />
 					<button type="submit">Search</button>
 				</form>
-				<div class="hero-stats">
-					<span><strong>{trackedCount}</strong> plugins tracked</span>
-					<span><strong>{pricePointCount.toLocaleString('en-US')}</strong> price points</span>
-					<span>updated daily</span>
-					<a href="/how-we-track-prices/">How we track &rarr;</a>
-					<a href="/brands/">Browse by brand &rarr;</a>
+				<div class="hero-actions">
+					<a class="primary-cta" href="/plugin-prices/">Open Price Tracker &rarr;</a>
+					<a class="text-link" href="/posts">Browse today&apos;s deals &rarr;</a>
 				</div>
+				<p class="hero-trust">{trackedCount} plugins tracked &middot; updated daily &middot; no fake reviews</p>
+			</section>
+
+			<section class="task-gateways" aria-label="Explore PluginDrop">
+				<a href="/posts"><strong>All Deals</strong><span>Every verified discount, updated daily</span></a>
+				<a href="/plugin-prices/"><strong>Price Tracker</strong><span>Full price history for {trackedCount} plugins</span></a>
+				<a href="/free/"><strong>Free Plugins</strong><span>Genuinely free, tested picks</span></a>
+				<a href="/posts?filter=guide"><strong>Guides</strong><span>Buying advice without the hype</span></a>
 			</section>
 
 			{liveDrops.length > 0 && (
 				<section class="section live-drops-section">
-					<header class="section-hd live-drops-hd">
-						<h2>Live price drops</h2>
-						<div class="section-actions">
-							<span>Checked daily &middot; via Plugin Boutique</span>
-							<a href="/plugin-prices/">Open full price tracker &rarr;</a>
-						</div>
+					<header class="section-hd">
+						<div class="section-title"><h2>Live Drops</h2><span>Checked daily &middot; via Plugin Boutique</span></div>
+						<a href="/plugin-prices/">See all live drops &rarr;</a>
 					</header>
-					<div class="live-drops-table-wrap">
-						<table class="live-drops-table">
-							<thead><tr><th>Plugin</th><th>Current</th><th>Regular</th><th>Off</th><th>Checked</th></tr></thead>
-							<tbody>
-								{liveDrops.map((d) => {
-									const entry = trackerEntries[d.name];
-									const atAllTimeLow = entry.all_time_low != null && !(d.current > entry.all_time_low);
-									return (
-										<tr>
-											<td>
-												<a href={d.pbHref} target="_blank" rel="noopener sponsored">
-													<strong>{d.name}</strong>
-													{entry.category && <small>{entry.category}</small>}
-												</a>
-											</td>
-											<td class="drop-price-current">{formatPrice(d.current)}</td>
-											<td class="drop-price-regular"><s>{formatPrice(d.regular)}</s></td>
-											<td><span class:list={['drop-off-chip', { 'is-low': atAllTimeLow }]}>&minus;{d.off}%</span></td>
-											<td class="drop-checked-date">{d.checkedLabel ?? '&mdash;'} &middot; PB</td>
-										</tr>
-									);
-								})}
-							</tbody>
-						</table>
+					<div class="live-drop-grid">
+						{liveDrops.map((d) => {
+							const entry = trackerEntries[d.name];
+							const atAllTimeLow = entry.all_time_low != null && !(d.current > entry.all_time_low);
+							return (
+								<a class="live-drop-card" href={d.pbHref} target="_blank" rel="noopener sponsored">
+									<strong class="drop-name">{d.name}</strong>
+									<div class="drop-prices">
+										<span class="drop-price-current">{formatPrice(d.current)}</span>
+										<s class="drop-price-regular">{formatPrice(d.regular)}</s>
+										<span class:list={['drop-off-chip', { 'is-low': atAllTimeLow }]}>&minus;{d.off}% OFF</span>
+									</div>
+									<span class="drop-checked-date">Checked {d.checkedLabel ?? '&mdash;'} &middot; PB</span>
+								</a>
+							);
+						})}
 					</div>
 				</section>
 			)}
@@ -197,46 +191,56 @@ const topDeals = heroPosts
 					</div>
 				</section>
 			)}
+
+			<section class="method-note">
+				<p>Prices are checked by our own tracker, not copied from press releases. <a href="/how-we-track-prices/">How we track &rarr;</a></p>
+			</section>
 		</main>
 		<Footer />
 	</body>
 </html>
 
 <style>
-	.hero-strip { padding: 2.5rem 0 2rem; margin-bottom: 3rem; border-bottom: 1px solid var(--border); }
+	.hero-strip { max-width: 780px; padding: 5rem 0 3.5rem; }
 	.hero-copy { max-width: 760px; }
 	.hero-copy h1, .section-hd h2 { font-family: var(--font-display); font-weight: 400; color: var(--text-primary); }
-	.hero-copy h1 { margin: 0 0 0.5rem; font-size: 2.75rem; line-height: 1.08; letter-spacing: -0.02em; }
-	.hero-copy p { margin: 0; color: var(--text-secondary); font-size: 1rem; }
-	.hero-search { display: flex; max-width: 560px; gap: 0.5rem; margin: 1.25rem 0 1rem; }
-	.hero-search input { flex: 1; min-width: 0; padding: 0.65rem 0.9rem; color: var(--text-primary); background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); }
+	.hero-copy h1 { margin: 0 0 1rem; font-size: clamp(2.75rem, 6vw, 4.5rem); line-height: 1.05; letter-spacing: -0.025em; }
+	.hero-copy p { margin: 0; color: var(--text-secondary); font-size: 1.1rem; }
+	.hero-search { display: flex; max-width: 620px; gap: 0.5rem; margin: 2rem 0 1rem; }
+	.hero-search input { flex: 1; min-width: 0; padding: 0.85rem 1rem; color: var(--text-primary); background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); }
 	.hero-search input:focus { outline: none; border-color: var(--accent); }
-	.hero-search button { padding: 0.65rem 1.1rem; font-weight: 700; color: var(--bg-base); background: var(--accent); border: 0; border-radius: var(--radius); cursor: pointer; }
+	.hero-search button { padding: 0.85rem 1.25rem; font-weight: 700; color: var(--bg-base); background: var(--accent); border: 0; border-radius: var(--radius); cursor: pointer; }
 	.hero-search button:hover { background: var(--accent-light); }
-	.hero-stats { display: flex; flex-wrap: wrap; gap: 0.35rem 1.25rem; font-family: var(--font-mono); font-size: 0.75rem; color: var(--text-muted); }
-	.hero-stats strong { color: var(--text-primary); }
-	.hero-stats a, .section-hd a { color: var(--accent); text-decoration: none; }
-	.hero-stats a:hover, .section-hd a:hover { text-decoration: underline; }
+	.hero-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem 1.25rem; }
+	.primary-cta { padding: 0.75rem 1rem; font-weight: 700; color: var(--bg-base); background: var(--accent); border-radius: var(--radius); text-decoration: none; }
+	.primary-cta:hover { background: var(--accent-light); }
+	.text-link, .section-hd a, .method-note a { color: var(--accent); text-decoration: none; }
+	.text-link:hover, .section-hd a:hover, .method-note a:hover { text-decoration: underline; }
+	.hero-trust { margin: 1.25rem 0 0; font-family: var(--font-mono); font-size: 0.72rem; color: var(--text-muted); }
+	.task-gateways { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); margin-bottom: 3.5rem; border: 1px solid var(--border); border-radius: var(--radius); }
+	.task-gateways a { display: flex; min-width: 0; flex-direction: column; gap: 1.5rem; padding: 1.5rem; color: inherit; background: var(--bg-card); text-decoration: none; }
+	.task-gateways a + a { border-left: 1px solid var(--border); }
+	.task-gateways a:hover { background: var(--bg-card-hover); }
+	.task-gateways strong { font-family: var(--font-display); font-size: 1.35rem; font-weight: 400; color: var(--text-primary); }
+	.task-gateways a:hover strong { color: var(--accent); }
+	.task-gateways span { color: var(--text-muted); font-size: 0.78rem; line-height: 1.4; }
 	.section { margin-bottom: 3.5rem; }
 	.section-hd { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-bottom: 1rem; }
 	.section-hd h2 { margin: 0; font-size: 1.35rem; }
-	.section-actions, .section-title { display: flex; align-items: baseline; gap: 1rem; }
-	.section-actions span, .section-title span { font-family: var(--font-mono); font-size: 0.7rem; color: var(--text-muted); }
+	.section-title { display: flex; align-items: baseline; gap: 1rem; }
+	.section-title span { font-family: var(--font-mono); font-size: 0.7rem; color: var(--text-muted); }
 	.section-hd a { font-size: 0.8rem; white-space: nowrap; }
-	.live-drops-table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: var(--radius); }
-	.live-drops-table { width: 100%; min-width: 680px; border-collapse: collapse; }
-	.live-drops-table th, .live-drops-table td { padding: 0.7rem 0.85rem; border-bottom: 1px solid var(--border); }
-	.live-drops-table th { font-family: var(--font-mono); font-size: 0.63rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-muted); background: var(--bg-card); text-align: left; }
-	.live-drops-table th:nth-child(n + 2), .live-drops-table td:nth-child(n + 2) { text-align: right; }
-	.live-drops-table tbody tr:last-child td { border-bottom: 0; }
-	.live-drops-table tbody tr:hover { background: var(--bg-card); }
-	.live-drops-table td:first-child a { display: flex; flex-direction: column; gap: 0.1rem; color: var(--text-primary); text-decoration: none; }
-	.live-drops-table td:first-child a:hover strong { color: var(--accent); }
-	.live-drops-table td:first-child strong { font-size: 0.84rem; }
-	.live-drops-table td:first-child small { color: var(--text-muted); font-size: 0.68rem; }
+	.live-drop-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); border: 1px solid var(--border); border-radius: var(--radius); }
+	.live-drop-card { display: flex; min-width: 0; min-height: 145px; flex-direction: column; gap: 1rem; padding: 1.25rem; color: inherit; background: var(--bg-card); text-decoration: none; }
+	.live-drop-card + .live-drop-card { border-left: 1px solid var(--border); }
+	.live-drop-card:hover { background: var(--bg-card-hover); }
+	.drop-name { color: var(--text-primary); font-size: 0.92rem; }
+	.live-drop-card:hover .drop-name { color: var(--accent); }
+	.drop-prices { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; }
 	.drop-price-current, .drop-price-regular, .drop-checked-date, .drop-off-chip { font-family: var(--font-mono); font-variant-numeric: tabular-nums; white-space: nowrap; }
-	.drop-price-current { font-weight: 700; color: var(--text-primary); }
-	.drop-price-regular, .drop-checked-date { font-size: 0.72rem; color: var(--text-muted); }
+	.drop-price-current { font-size: 1.05rem; font-weight: 700; color: var(--text-primary); }
+	.drop-price-regular { font-size: 0.78rem; color: var(--text-muted); }
+	.drop-checked-date { margin-top: auto; font-size: 0.66rem; color: var(--text-muted); }
 	.drop-off-chip { display: inline-block; padding: 0.2rem 0.45rem; border-radius: var(--radius-sm); background: var(--sale-bg); color: var(--sale-text); font-size: 0.7rem; font-weight: 700; }
 	.drop-off-chip.is-low { background: var(--verdict-good); color: var(--bg-base); }
 	.editors-picks { padding-top: 0.5rem; border-top: 1px solid var(--border); }
@@ -249,10 +253,19 @@ const topDeals = heroPosts
 	.deal-copy h3 { display: -webkit-box; overflow: hidden; margin: 0 0 auto; color: var(--text-primary); font-size: 0.78rem; line-height: 1.25; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
 	.deal-copy strong { font-family: var(--font-mono); color: var(--text-primary); font-size: 0.78rem; }
 	.deal-copy span { overflow: hidden; color: var(--text-muted); font-size: 0.65rem; text-overflow: ellipsis; white-space: nowrap; }
-	@media (max-width: 900px) { .deal-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+	.method-note { padding: 3rem 0; border-top: 1px solid var(--border); text-align: center; }
+	.method-note p { margin: 0; font-family: var(--font-display); font-size: 1.05rem; font-style: italic; color: var(--text-muted); }
+	@media (max-width: 900px) {
+		.task-gateways, .live-drop-grid, .deal-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+		.task-gateways a:nth-child(3), .live-drop-card:nth-child(3) { border-left: 0; border-top: 1px solid var(--border); }
+		.task-gateways a:nth-child(4), .live-drop-card:nth-child(4) { border-top: 1px solid var(--border); }
+	}
 	@media (max-width: 680px) {
-		.hero-copy h1 { font-size: 2rem; }
-		.section-hd, .section-actions { align-items: flex-start; flex-direction: column; gap: 0.35rem; }
-		.deal-grid { grid-template-columns: 1fr; }
+		.hero-strip { padding: 3.5rem 0 3rem; }
+		.hero-search { align-items: stretch; flex-direction: column; }
+		.section-hd { align-items: flex-start; flex-direction: column; gap: 0.35rem; }
+		.section-title { align-items: flex-start; flex-direction: column; gap: 0.25rem; }
+		.task-gateways, .live-drop-grid, .deal-grid { grid-template-columns: 1fr; }
+		.task-gateways a + a, .live-drop-card + .live-drop-card { border-top: 1px solid var(--border); border-left: 0; }
 	}
 </style>
