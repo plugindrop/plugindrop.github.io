@@ -987,6 +987,12 @@
           "regular": 129.0,
           "sale": 59.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-12",
+          "sale": 59.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll"
         }
       ],
       "category": "EQ"
@@ -1528,6 +1534,12 @@
           "regular": 59.0,
           "sale": 36.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-12",
+          "sale": 36.0,
+          "regular": 59.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -1768,6 +1780,12 @@
           "regular": 290,
           "sale": null,
           "source": "research"
+        },
+        {
+          "date": "2026-07-12",
+          "sale": 65.0,
+          "regular": 264.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -4126,6 +4144,12 @@
           "regular": 185,
           "sale": null,
           "source": "research"
+        },
+        {
+          "date": "2026-07-12",
+          "sale": 39.0,
+          "regular": 156.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -4398,6 +4422,12 @@
           "regular": 79,
           "sale": null,
           "source": "research"
+        },
+        {
+          "date": "2026-07-12",
+          "sale": 60.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
