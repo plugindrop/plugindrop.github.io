@@ -9,12 +9,12 @@ import productVideosRaw from '../data/product_videos.json';
 import { pdAttr } from '../lib/interestTaxonomy.mjs';
 import {
 	type PriceEntry,
-	slugify,
 	formatPrice,
 	liveDropOf,
 	pctOff,
 	latestCheckedDate,
 	formatCheckedDate,
+	pbLink,
 } from '../lib/priceUtils';
 
 // --- Price-intelligence hero data (NW-D) -----------------------------------
@@ -38,6 +38,7 @@ const liveDrops = Object.entries(trackerEntries)
 		const checked = latestCheckedDate(entry);
 		return {
 			name,
+			pbHref: pbLink(entry.pb_url),
 			current: live?.current ?? null,
 			regular: live?.regular ?? null,
 			off: live ? pctOff(live.current, live.regular) : 0,
@@ -46,7 +47,9 @@ const liveDrops = Object.entries(trackerEntries)
 	})
 	.filter((d) => d.off > 0 && d.current !== null && d.regular !== null)
 	.sort((a, b) => b.off - a.off)
-	.slice(0, 6);
+	.slice(0, 12);
+
+const biggestRecentDrops = liveDrops.slice(0, 5);
 
 // Brand hub chips — slugs verified against built /brands/ pages
 const brandChips = [
@@ -218,36 +221,32 @@ const freeDeals = allPosts
 				</div>
 			</section>
 
-			<!-- ── Live Price Drops (scraped, not "typical") ── -->
-			{liveDrops.length > 0 && (
-				<section class="section">
-					<header class="section-hd">
-						<span class="section-label">Live price drops</span>
-						<a href="/plugin-prices/" class="section-more">All tracked prices &rarr;</a>
-					</header>
-					<p class="drops-sub">From our daily price checks &middot; <a href="/how-we-track-prices/">how we track</a></p>
-					<div class="drop-grid">
-						{liveDrops.map((d) => (
-							<a href={`/plugin-prices/${slugify(d.name)}/`} class="drop-card" data-pd={pdAttr({ title: d.name })}>
-								<span class="drop-name">{d.name}</span>
-								<span class="drop-prices">
-									<span class="drop-off">-{d.off}%</span>
-									<s class="drop-was">{formatPrice(d.regular)}</s>
-									<strong class="drop-now">{formatPrice(d.current)}</strong>
-								</span>
-								<span class="drop-foot">
-									<span class="drop-cta">Price history &rarr;</span>
-									{d.checkedLabel && <span class="drop-checked">checked {d.checkedLabel}</span>}
-								</span>
-							</a>
-						))}
-					</div>
-				</section>
-			)}
+			<div class="home-desk">
+				<aside class="home-desk-rail">
+					{biggestRecentDrops.length > 0 && (
+						<section class="section recent-drops-panel">
+							<header class="section-hd">
+								<span class="section-label">Biggest recent drops</span>
+								<a href="/plugin-prices/" class="section-more">All prices &rarr;</a>
+							</header>
+							<ol class="recent-drops-list">
+								{biggestRecentDrops.map((d) => (
+									<li>
+										<a href={d.pbHref} target="_blank" rel="noopener sponsored">
+											<span class="recent-drop-name">{d.name}</span>
+											<span class="recent-drop-price">{formatPrice(d.current)}</span>
+											<span class="recent-drop-off">-{d.off}%</span>
+										</a>
+									</li>
+								))}
+							</ol>
+						</section>
+					)}
 
-			<!-- ── Editor's Picks ─────────────────────── -->
-			{topDeals.length > 0 && (
-				<section class="section">
+					<!-- ── Editor's Picks ─────────────────────── -->
+					<div class="editors-picks-panel">
+					{topDeals.length > 0 && (
+						<section class="section">
 					<header class="section-hd">
 						<span class="section-label">Editor&apos;s picks</span>
 						<a href="/posts" class="section-more">See all deals &rarr;</a>
@@ -286,8 +285,39 @@ const freeDeals = allPosts
 							);
 						})}
 					</div>
-				</section>
-			)}
+						</section>
+					)}
+					</div>
+				</aside>
+
+				{liveDrops.length > 0 && (
+					<section class="section live-drops-panel">
+						<header class="section-hd">
+							<span class="section-label">Live drops</span>
+							<a href="/plugin-prices/" class="section-more">Open full price tracker &rarr;</a>
+						</header>
+						<p class="drops-sub">From our daily price checks &middot; <a href="/how-we-track-prices/">how we track</a></p>
+						<div class="live-drops-table-wrap">
+							<table class="live-drops-table">
+								<thead>
+									<tr><th>Plugin</th><th>Current</th><th>Regular</th><th>OFF</th><th>Checked / source</th></tr>
+								</thead>
+								<tbody>
+									{liveDrops.map((d) => (
+										<tr>
+											<td><a href={d.pbHref} target="_blank" rel="noopener sponsored">{d.name}</a></td>
+											<td class="drop-price-current">{formatPrice(d.current)}</td>
+											<td class="drop-price-regular"><s>{formatPrice(d.regular)}</s></td>
+											<td class="drop-off-percent">-{d.off}%</td>
+											<td class="drop-checked-date">{d.checkedLabel ? `Checked ${d.checkedLabel}` : 'Checked —'} &middot; PB</td>
+										</tr>
+									))}
+								</tbody>
+							</table>
+						</div>
+					</section>
+				)}
+			</div>
 
 			<!-- ── Recent Deals ───────────────────────── -->
 			{recentDeals.length > 0 && (
@@ -467,40 +497,77 @@ const freeDeals = allPosts
 	a.hero-stat:hover { color: var(--accent); }
 	.hero-stat-link { color: var(--accent-light); }
 
-	/* ── Live Price Drops ── */
-	.drops-sub { font-size: 0.8rem; color: var(--text-muted); margin: -0.35rem 0 0.8rem; }
-	.drop-grid {
+	/* ── Dual data desk ── */
+	.home-desk {
 		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-		gap: 0.7rem;
+		grid-template-columns: minmax(250px, 0.72fr) minmax(0, 1.8fr);
+		gap: 1.5rem;
+		align-items: start;
+		margin-bottom: 3rem;
 	}
-	.drop-card {
-		display: flex;
-		flex-direction: column;
-		gap: 0.35rem;
-		padding: 0.8rem 0.9rem;
-		background: var(--bg-card);
+	.home-desk .section { margin-bottom: 1.5rem; }
+	.recent-drops-panel,
+	.live-drops-panel {
+		padding: 1rem;
+		background: var(--bg-low);
 		border: 1px solid var(--border);
-		border-left: 3px solid var(--sale-text);
 		border-radius: var(--radius);
+	}
+	.recent-drops-list { list-style: none; margin: 0; padding: 0; }
+	.recent-drops-list li { border-top: 1px solid var(--border); }
+	.recent-drops-list li:first-child { border-top: 0; }
+	.recent-drops-list a {
+		display: grid;
+		grid-template-columns: minmax(0, 1fr) auto;
+		gap: 0.2rem 0.75rem;
+		padding: 0.7rem 0;
 		text-decoration: none;
 	}
-	.drop-card:hover { border-color: var(--accent-border-hover, var(--accent)); }
-	.drop-name { font-size: 0.9rem; font-weight: 700; color: var(--text-primary); }
-	.drop-prices { display: flex; align-items: center; gap: 0.5rem; }
-	.drop-off {
-		font-size: 0.7rem;
-		font-weight: 700;
-		color: #fff;
-		background: #C1121F;
-		border-radius: 3px;
-		padding: 0.1rem 0.4rem;
+	.recent-drop-name { color: var(--text-primary); font-size: 0.84rem; font-weight: 700; }
+	.recent-drop-price,
+	.recent-drop-off {
+		font-family: var(--font-mono);
+		font-variant-numeric: tabular-nums;
+		white-space: nowrap;
 	}
-	.drop-was { font-size: 0.8rem; color: var(--text-muted); }
-	.drop-now { font-size: 0.95rem; font-weight: 800; color: var(--sale-text); }
-	.drop-foot { display: flex; align-items: baseline; justify-content: space-between; gap: 0.5rem; }
-	.drop-cta { font-size: 0.75rem; color: var(--accent-light); }
-	.drop-checked { font-size: 0.68rem; color: var(--text-muted); white-space: nowrap; }
+	.recent-drop-price { color: var(--text-primary); font-size: 0.82rem; }
+	.recent-drop-off { color: var(--verdict-good); font-size: 0.72rem; font-weight: 700; }
+	.recent-drops-list a:hover .recent-drop-name { color: var(--accent); }
+	.editors-picks-panel .deal-grid--4 { grid-template-columns: 1fr; }
+	.editors-picks-panel .card-img-wrap img { height: 138px; }
+
+	/* ── Live Price Drops ── */
+	.drops-sub { font-size: 0.8rem; color: var(--text-muted); margin: -0.35rem 0 0.8rem; }
+	.live-drops-table-wrap { overflow-x: auto; border: 1px solid var(--border); }
+	.live-drops-table { width: 100%; min-width: 660px; border-collapse: collapse; }
+	.live-drops-table th,
+	.live-drops-table td { padding: 0.72rem 0.65rem; border-bottom: 1px solid var(--border); }
+	.live-drops-table th {
+		font-family: var(--font-mono);
+		font-size: 0.64rem;
+		font-weight: 700;
+		letter-spacing: 0.07em;
+		text-align: left;
+		text-transform: uppercase;
+		color: var(--text-muted);
+		background: var(--bg-card);
+		white-space: nowrap;
+	}
+	.live-drops-table td:not(:first-child) {
+		font-family: var(--font-mono);
+		font-variant-numeric: tabular-nums;
+		white-space: nowrap;
+	}
+	.live-drops-table th:nth-child(n + 2):nth-child(-n + 4),
+	.live-drops-table td:nth-child(n + 2):nth-child(-n + 4) { text-align: right; }
+	.live-drops-table tbody tr:last-child td { border-bottom: 0; }
+	.live-drops-table tbody tr:hover { background: var(--bg-card); }
+	.live-drops-table td:first-child a { color: var(--text-primary); font-size: 0.84rem; font-weight: 700; text-decoration: none; }
+	.live-drops-table td:first-child a:hover { color: var(--accent); }
+	.drop-price-current { color: var(--text-primary); font-weight: 700; }
+	.drop-price-regular,
+	.drop-checked-date { color: var(--text-muted); font-size: 0.72rem; }
+	.drop-off-percent { color: var(--verdict-good); font-weight: 700; }
 
 	/* ── Brand chips ── */
 	.section--brands { padding-top: 1.6rem; border-top: 1px solid var(--border); }
@@ -710,11 +777,14 @@ const freeDeals = allPosts
 	/* ── Responsive ───────────────────────────────────────── */
 	@media (max-width: 720px) {
 		.hero-headline { font-size: 2rem; }
+		.home-desk { grid-template-columns: 1fr; }
+		.editors-picks-panel .deal-grid--4 { grid-template-columns: repeat(2, 1fr); }
 		.deal-grid--4 { grid-template-columns: repeat(2, 1fr); }
 		.deal-grid--3 { grid-template-columns: repeat(2, 1fr); }
 	}
 	@media (max-width: 480px) {
 		.hero-headline { font-size: 1.75rem; }
+		.editors-picks-panel .deal-grid--4 { grid-template-columns: 1fr; }
 		.deal-grid--4 { grid-template-columns: 1fr; }
 		.deal-grid--3 { grid-template-columns: 1fr; }
 	}
