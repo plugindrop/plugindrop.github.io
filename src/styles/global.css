@@ -1,16 +1,26 @@
 /* PluginDrop — The Curator's Desk (Dark Editorial) */
 
+@font-face {
+	font-family: "Source Sans 3 Fallback";
+	src: local("Arial");
+	ascent-override: 91.52%;
+	descent-override: 25.42%;
+	line-gap-override: 0%;
+	size-adjust: 100.06%;
+}
+
 :root {
 	/* Fonts */
 	--font-display: "Newsreader", Georgia, "Times New Roman", serif;
-	--font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+	--font-body: "Source Sans 3 Variable", "Source Sans 3 Fallback", sans-serif;
+	--font-mono: "JetBrains Mono Variable", ui-monospace, SFMono-Regular, Menlo, monospace;
 
 	/* Surfaces */
-	--bg-base: #131319;
-	--bg-low: #1B1B21;
-	--bg-card: #1F1F25;
-	--bg-card-hover: #2A2930;
-	--bg-highest: #34343B;
+	--bg-base: #1B1917;
+	--bg-low: #211F1C;
+	--bg-card: #26231F;
+	--bg-card-hover: #302C27;
+	--bg-highest: #3A352F;
 
 	/* Text */
 	--text-primary: #E4E1EA;
@@ -25,6 +35,11 @@
 	/* Sale/discount — warm amber */
 	--sale: #FFBA45;
 	--sale-dark: #CC8C00;
+
+	/* Price verdicts (reserved for data UI) */
+	--verdict-good: #3DBE74;
+	--verdict-ok: #E0A93B;
+	--verdict-bad: #D5584E;
 
 	/* Free — teal (same as accent) */
 	--free-text: #94D3C4;
@@ -517,17 +532,21 @@ hr {
 	}
 }
 
-/* ── D3: tabular numerals for every price / percentage display ──
-   Broad selector on purpose — catches price/discount classes across
-   components (index, TopDeals, plugin-prices, BlogPost) that render numbers
-   with the proportional body font instead of the .mono utility. */
+/* ── Tabular mono numerals for prices, dates, percentages and table data ── */
 [class*="price"],
+[class*="date"],
+[class*="updated"],
+[class*="percent"],
 [class*="-off"],
 [class*="off-badge"],
 [class*="discount"],
 [class*="deal-save-badge"],
 .stat-value,
-.countdown-num {
+.countdown-num,
+.mono,
+time,
+table td {
+	font-family: var(--font-mono);
 	font-variant-numeric: tabular-nums;
 }
 
