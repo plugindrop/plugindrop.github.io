@@ -11,18 +11,18 @@ xText: "New guide: 12 Best Free Vocal VST Plugins in 2026 (Tuning, Compression,.
 draft: false
 ---
 
-**TL;DR:** MAutoPitch is the top free pitch correction pick in 2026 — transparent, CPU-light, and stable across every major DAW. It handles both natural correction and hard T-Pain-style tuning, installs in VST3/AU/AAX on Windows and macOS, and costs $0. Pair it with Analog Obsession CHANNELSTRIP for analog EQ and compression, TDR Nova for dynamic de-essing, and TAL-Reverb-4 for warm plate reverb, and you have a professional-grade vocal chain that costs exactly nothing. Everything below is picked on specs, format support, community consensus, and price — the seven plugins in the table are the fastest way to a finished vocal in 2026.
+**TL;DR:** **If you only install one, make it MAutoPitch** — the top free pitch correction pick in 2026 — transparent, CPU-light, and stable across every major DAW. It handles both natural correction and hard T-Pain-style tuning, installs in VST3/AU/AAX on Windows and macOS, and costs $0. Pair it with Analog Obsession CHANNELSTRIP for analog EQ and compression, TDR Nova for dynamic de-essing, and TAL-Reverb-4 for warm plate reverb, and you have a professional-grade vocal chain that costs exactly nothing. Everything below is picked on specs, format support, community consensus, and price — the seven plugins in the table are the fastest way to a finished vocal in 2026.
 
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | MAutoPitch | Free | Transparent pitch correction | [Plugin Boutique](https://www.pluginboutique.com/search?q=MAutoPitch%20MeldaProduction&a_aid=69cb95abe1763) |
-| Graillon 2 | Free | Creative pitch effects & robot vocals | [Plugin Boutique](https://www.pluginboutique.com/search?q=Graillon%202%20Auburn%20Sounds&a_aid=69cb95abe1763) |
-| Analog Obsession CHANNELSTRIP | Free | Analog EQ + compression in one slot | [Plugin Boutique](https://www.pluginboutique.com/search?q=Analog%20Obsession%20CHANNELSTRIP&a_aid=69cb95abe1763) |
+| Graillon 2 | Free | Creative pitch effects & robot vocals | [auburnsounds.com](https://www.auburnsounds.com/products/Graillon.html) |
+| Analog Obsession CHANNELSTRIP | Free | Analog EQ + compression in one slot | [analog-obsession.com](https://www.analog-obsession.com/) |
 | TAL-Reverb-4 | Free | Warm vintage plate reverb | [Plugin Boutique](https://www.pluginboutique.com/search?q=TAL-Reverb-4&a_aid=69cb95abe1763) |
 | Wider (Polyverse) | Free | Mono-safe stereo widening | [Plugin Boutique](https://www.pluginboutique.com/search?q=Wider%20Polyverse%20stereo%20widener&a_aid=69cb95abe1763) |
-| Valhalla Supermassive | Free | Large ambient reverb and delay | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vocal-vst-plugins) |
+| Valhalla Supermassive | Free | Large ambient reverb and delay | [valhalladsp.com](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Klanghelm MJUC jr | Free | Vintage vari-mu tube compression | [Free Download](https://klanghelm.com/MJUCjr.php) |
 
 ---
@@ -54,7 +54,7 @@ MAutoPitch handles both natural-sounding correction and hard, locked T-Pain-styl
 
 **Best for:** Subtle pitch correction on lead vocals and backing harmonies without audible artifacts.
 
-**Limitation:** There is no graphical note-by-note editing (Graph Mode); correction is fully automatic and speed/depth based, so heavily off-pitch performances that need manual note surgery are still a job for a paid tool like Auto-Tune Pro.
+**Skip it if:** the performance needs note-by-note surgery — MAutoPitch has no Graph Mode; correction is fully automatic, so heavily off-pitch takes are still a job for a paid editor like Auto-Tune Pro.
 
 [→ Get MAutoPitch on Plugin Boutique](https://www.pluginboutique.com/search?q=MAutoPitch%20MeldaProduction&a_aid=69cb95abe1763)
 [→ Download MAutoPitch Free](https://www.meldaproduction.com/MAutoPitch)
@@ -63,7 +63,6 @@ MAutoPitch handles both natural-sounding correction and hard, locked T-Pain-styl
 
 ### Graillon 2 — Pitch Shifting and Robotic Vocal Effects Done Right
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Q5z549pi0G8" title="Graillon 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Auburn Sounds
 - **Price:** Free (Pro tier available)
@@ -74,9 +73,8 @@ Graillon 2 is half vocal processor, half creative playground. The free version i
 
 **Best for:** Robotic pitch-lock effects, creative pitch-shifted doubles, and experimental vocal processing.
 
-**Limitation:** As a correction tool it is less transparent than MAutoPitch — the free tier lacks smooth "natural" tuning modes, so on quiet, exposed pop verses it can sound processed. Use it as an effect, not as an invisible fixer.
+**Skip it if:** you want invisible correction on quiet, exposed verses — the free Graillon tier lacks smooth "natural" modes and can sound processed. It's an effect box, not a fixer.
 
-[→ Get Graillon 2 on Plugin Boutique](https://www.pluginboutique.com/search?q=Graillon%202%20Auburn%20Sounds&a_aid=69cb95abe1763)
 [→ Download Graillon 2 Free](https://www.auburnsounds.com/products/Graillon.html)
 
 ---
@@ -85,7 +83,6 @@ Graillon 2 is half vocal processor, half creative playground. The free version i
 
 ### Analog Obsession CHANNELSTRIP — Analog Color for Free
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ov3VmU9DvHA" title="Analog Obsession CHANNELSTRIP — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Analog Obsession
 - **Price:** Free (Patreon-supported)
@@ -96,16 +93,14 @@ Analog Obsession's CHANNELSTRIP packs a high-pass filter, EQ, and compressor int
 
 **Best for:** Full analog-style vocal processing in a single plugin slot.
 
-**Limitation:** Analog Obsession plugins are maintained by a single developer and updated through Patreon, so versioning and long-term support are less formal than a commercial release; keep an installer backup, as older builds occasionally disappear when new ones ship.
+**Skip it if:** you need formal vendor support — Analog Obsession is one developer on Patreon, so keep an installer backup; older builds occasionally disappear when new ones ship.
 
-[→ Get Analog Obsession CHANNELSTRIP on Plugin Boutique](https://www.pluginboutique.com/search?q=Analog%20Obsession%20CHANNELSTRIP&a_aid=69cb95abe1763)
 [→ Download CHANNELSTRIP Free](https://www.analog-obsession.com/)
 
 ---
 
 ### Klanghelm MJUC jr — Free Vari-Mu Compression with Attitude
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/GDnYTJ4rDzM" title="Klanghelm MJUC jr — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Klanghelm
 - **Price:** Free
@@ -116,7 +111,7 @@ MJUC jr is a stripped-down version of Klanghelm's acclaimed MJUC vari-mu compres
 
 **Best for:** Adding vintage warmth and transparent glue to lead vocal tracks.
 
-**Limitation:** The "jr" edition exposes only two knobs and fixed timing, so there is no sidechain filtering or attack/release control; for fast, aggressive rap or rock vocals that need precise transient shaping, reach for a full-featured compressor or the paid MJUC.
+**Skip it if:** you need precise attack/release or sidechain filtering — MJUC jr is two knobs with fixed timing, so fast aggressive rap/rock vocals want a full-featured compressor (or the paid MJUC).
 
 [→ Download MJUC jr Free](https://klanghelm.com/MJUCjr.php)
 
@@ -137,7 +132,7 @@ TDR Nova is a parallel dynamic EQ where each band can respond dynamically to inc
 
 **Best for:** Dynamic vocal EQ, frequency-specific compression, and transparent de-essing.
 
-**Limitation:** With only four bands and no built-in spectrum analyzer, surgical resonance-hunting is slower than on a full analog-modeled or FFT EQ; the paid GE version adds bands, higher-quality processing, and a spectrum display if you outgrow it.
+**Skip it if:** you hunt resonances by eye — the free Nova has four bands and no spectrum analyzer, so surgical work is slower than on an FFT EQ (the paid GE adds both).
 
 [→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vocal-vst-plugins)
 
@@ -145,7 +140,6 @@ TDR Nova is a parallel dynamic EQ where each band can respond dynamically to inc
 
 ### Techivation T-De-Esser Plus — Purpose-Built Sibilance Control
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EnD9seFQ1_A" title="Techivation T-De-Esser Plus — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Techivation
 - **Price:** Free
@@ -156,7 +150,7 @@ T-De-Esser Plus uses a focused detection algorithm that isolates harsh "s" and "
 
 **Best for:** Taming harsh sibilance on vocals without coloring the rest of the signal.
 
-**Limitation:** It is a single-purpose de-esser — there is no wideband, dynamic-EQ, or multiband mode — so for material that needs both de-essing and general harshness control you will still pair it with something like TDR Nova.
+**Skip it if:** you want one tool for sibilance and general harshness — T-De-Esser Plus does exactly one job, so it pairs with (not replaces) TDR Nova.
 
 [→ Download T-De-Esser Plus Free](https://techivation.com/t-de-esser-plus/)
 
@@ -175,7 +169,7 @@ TDR SlickEQ is a three-band mixing EQ with a saturation mode that gives it a mus
 
 **Best for:** Broad tonal shaping on lead vocals and vocal buses before compression.
 
-**Limitation:** Three fixed bands mean it is a broad-strokes tone shaper, not a surgical corrective EQ; for narrow-Q notching of a single problem frequency, use a dynamic or parametric EQ instead.
+**Skip it if:** you need narrow-Q notching — SlickEQ's three fixed bands are broad-strokes tone shaping; single problem frequencies belong to a parametric or dynamic EQ.
 
 [→ Download TDR SlickEQ Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20SlickEQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vocal-vst-plugins)
 
@@ -196,7 +190,7 @@ TAL-Reverb-4 models a vintage plate reverb with pre-delay, a high-pass filter on
 
 **Best for:** Warm, vintage-inspired vocal reverb that doesn't obscure the lead vocal.
 
-**Limitation:** It emulates a single plate-style character with limited room and hall options, so for realistic acoustic spaces or long cinematic tails you will want a dedicated algorithmic reverb such as Valhalla Supermassive alongside it.
+**Skip it if:** you need realistic rooms or long cinematic tails — TAL-Reverb-4 is one plate character, so run Valhalla Supermassive alongside it for everything bigger.
 
 [→ Get TAL-Reverb-4 on Plugin Boutique](https://www.pluginboutique.com/search?q=TAL-Reverb-4&a_aid=69cb95abe1763)
 [→ Download TAL-Reverb-4 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vocal-vst-plugins)
@@ -216,9 +210,9 @@ Valhalla Supermassive delivers the company's signature dense, evolving reverb ta
 
 **Best for:** Large ambient vocal reverbs, evolving tails, and creative delay effects on vocal sends.
 
-**Limitation:** It is built for big, lush, obviously-effected spaces — it does not do tight, natural, "invisible" room ambience, so for a dry pop lead that needs only a hint of space, TAL-Reverb-4 is the better first reach.
+**Skip it if:** you only need a hint of natural space on a dry pop lead — Supermassive does big and obvious, not tight and invisible; reach for TAL-Reverb-4 first.
 
-[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vocal-vst-plugins)
+[→ Download Valhalla Supermassive Free (valhalladsp.com)](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
 
@@ -237,7 +231,7 @@ Wider uses mid-side processing to expand the stereo field without introducing ph
 
 **Best for:** Adding controlled stereo width to vocal channels and backing vocal buses without mono compatibility issues.
 
-**Limitation:** It is deliberately a single-knob tool — there is no per-band control or visual metering — so aggressive settings on a mono lead can hollow out the center; keep it gentle and reserve heavy widening for stereo backing stacks.
+**Skip it if:** you want per-band width control or metering — Wider is one knob, and pushed hard on a mono lead it hollows out the center. Keep it gentle; save heavy widening for stereo stacks.
 
 [→ Get Wider on Plugin Boutique](https://www.pluginboutique.com/search?q=Wider%20Polyverse%20stereo%20widener&a_aid=69cb95abe1763)
 [→ Download Wider Free](https://polyversemusic.com/products/wider/)
@@ -257,7 +251,7 @@ Multiply layers up to six independent voices with individually adjustable pitch,
 
 **Best for:** Creating natural-sounding vocal doubles, thickening harmonies, and building wide backing vocal stacks.
 
-**Limitation:** It is a modulated chorus/doubler, not a true pitch-corrected harmonizer — it cannot generate diatonic harmony notes, so for scale-locked harmony parts you will need a dedicated harmonizer or manual comping.
+**Skip it if:** you want generated harmony notes — Multiply is a chorus/doubler, not a harmonizer; scale-locked harmony parts still need a dedicated tool or a second take.
 
 [→ Download Acon Digital Multiply Free](https://acondigital.com/products/multiply/)
 
@@ -278,7 +272,7 @@ Chow Tape Model is a physically modeled tape machine simulation that adds harmon
 
 **Best for:** Adding analog tape warmth and harmonic saturation to vocals that sound too clean.
 
-**Limitation:** The physical model is CPU-heavier than a simple waveshaper, and its deep, parameter-rich interface has a real learning curve; for a fast, one-knob "warm it up" move on a busy session, a lighter saturator is quicker to dial in.
+**Skip it if:** you want a one-knob warmer on a busy session — Chow Tape Model is CPU-heavier and parameter-rich; a simple saturator gets you 80% of the warmth in a tenth of the time.
 
 [→ Download Chow Tape Model Free](https://chowdsp.com/products.html)
 
@@ -286,13 +280,13 @@ Chow Tape Model is a physically modeled tape machine simulation that adds harmon
 
 ## Ready for the Next Level? Paid Vocal Upgrades Worth Buying
 
-Free plugins cover every individual task in the vocal chain, but at some point a paid tool saves enough setup time — or delivers enough extra control — to pay for itself. These are the three most common paid upgrades vocal producers move to in 2026, with approximate prices (check the store for current sales, as these go on discount often):
+Free plugins cover every individual task in the vocal chain, but at some point a paid tool saves enough setup time — or delivers enough extra control — to pay for itself. These are the three most common paid upgrades vocal producers move to in 2026. The prices are from our own daily tracking — none of them is worth buying at full sticker:
 
 | Paid Upgrade | Approx. Price | Why Upgrade | Get It |
 |--------------|---------------|-------------|--------|
-| iZotope Nectar 4 | ~$99 (frequent sales) | Full AI-assisted vocal chain in one plugin — tuning, EQ, compression, de-essing, reverb, and harmony from a single interface | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Nectar%204&a_aid=69cb95abe1763) |
-| Waves Tune Real-Time | ~$30–50 (frequent sales) | Ultra-low-latency correction with formant shifting — the standard for live rigs and precise studio tuning | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20Tune%20Real-Time&a_aid=69cb95abe1763) |
-| Auto-Tune Pro | Subscription or ~$399 perpetual | Graph Mode note-by-note editing that no free plugin matches — the industry-standard pitch tool | [Plugin Boutique](https://www.pluginboutique.com/search?q=Auto-Tune%20Pro&a_aid=69cb95abe1763) |
+| iZotope Nectar 4 | $199 reg — typically ~$149 on sale, lowest tracked $129 ([history](/plugin-prices/izotope-nectar-4/)) | Full AI-assisted vocal chain in one plugin — tuning, EQ, compression, de-essing, reverb, and harmony from a single interface | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Nectar%204&a_aid=69cb95abe1763) |
+| Waves Tune Real-Time | $199 reg — typically ~$50 on sale ([history](/plugin-prices/waves-tune-real-time/)) | Ultra-low-latency correction with formant shifting — the standard for live rigs and precise studio tuning | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20Tune%20Real-Time&a_aid=69cb95abe1763) |
+| Auto-Tune Pro | $450 reg perpetual — typically ~$250 on sale; subscription available ([history](/plugin-prices/antares-auto-tune-pro/)) | Graph Mode note-by-note editing that no free plugin matches — the industry-standard pitch tool | [Plugin Boutique](https://www.pluginboutique.com/search?q=Auto-Tune%20Pro&a_aid=69cb95abe1763) |
 
 The detailed breakdown of each paid option follows below.
 
@@ -301,7 +295,7 @@ The detailed breakdown of each paid option follows below.
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/8q-mrB1jozE" title="iZotope Nectar 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
-- **Price:** ~$99 (check current pricing)
+- **Price:** $199 regular — our tracking shows it typically drops to ~$149 on sale (lowest tracked: $129)
 - **Why upgrade:** Free plugins cover individual vocal processing tasks well, but Nectar 4 handles the entire chain in one interface, with an AI Vocal Assistant that builds a starting processing chain automatically and a Backer module for generating harmony and doubling — saving substantial setup time on every session.
 
 [→ Get iZotope Nectar 4 on Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Nectar%204&a_aid=69cb95abe1763)
@@ -313,7 +307,7 @@ The detailed breakdown of each paid option follows below.
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/dk33sU84b04" title="Waves Tune Real-Time — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves
-- **Price:** Check current pricing (frequent sales)
+- **Price:** $199 regular — our tracking shows it typically drops to ~$50 in Waves sales
 - **Why upgrade:** MAutoPitch is excellent for studio correction, but Waves Tune Real-Time offers tighter low-latency performance, formant shifting for natural-sounding correction at larger intervals, and a more detailed pitch display — making it the better choice for live performance rigs or sessions that demand precise, transparent correction.
 
 [→ Get Waves Tune Real-Time on Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20Tune%20Real-Time&a_aid=69cb95abe1763)
@@ -322,10 +316,9 @@ The detailed breakdown of each paid option follows below.
 
 ### Auto-Tune Pro — The Industry Standard Pitch Correction
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/V_FufjeRGfE" title="Auto-Tune Pro — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Antares Audio Technologies
-- **Price:** Subscription and perpetual license options available
+- **Price:** $450 regular for the perpetual license — typically ~$250 on sale in our tracking; subscription also available
 - **Why upgrade:** If pitch correction is the center of your workflow — especially in a commercial or professional studio context — Auto-Tune Pro's Graph Mode gives you manual, note-by-note correction control that no free plugin matches. It remains the first tool most session engineers and major-label productions reach for when the performance needs real editorial attention.
 
 [→ Get Auto-Tune Pro on Plugin Boutique](https://www.pluginboutique.com/search?q=Auto-Tune%20Pro&a_aid=69cb95abe1763)
@@ -337,18 +330,18 @@ The detailed breakdown of each paid option follows below.
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | MAutoPitch | Free | Pitch Correction | Transparent, low latency, key/scale detection | [Plugin Boutique](https://www.pluginboutique.com/search?q=MAutoPitch%20MeldaProduction&a_aid=69cb95abe1763) |
-| Graillon 2 | Free | Pitch Effects | Pitch shifting, bit crusher, ring modulation | [Plugin Boutique](https://www.pluginboutique.com/search?q=Graillon%202%20Auburn%20Sounds&a_aid=69cb95abe1763) |
-| Analog Obsession CHANNELSTRIP | Free | Channel Strip | HPF + EQ + compressor, analog warmth | [Plugin Boutique](https://www.pluginboutique.com/search?q=Analog%20Obsession%20CHANNELSTRIP&a_aid=69cb95abe1763) |
+| Graillon 2 | Free | Pitch Effects | Pitch shifting, bit crusher, ring modulation | [auburnsounds.com](https://www.auburnsounds.com/products/Graillon.html) |
+| Analog Obsession CHANNELSTRIP | Free | Channel Strip | HPF + EQ + compressor, analog warmth | [analog-obsession.com](https://www.analog-obsession.com/) |
 | Klanghelm MJUC jr | Free | Compressor | Vintage vari-mu character, tube warmth | [Developer Site](https://klanghelm.com/MJUCjr.php) |
 | TDR Nova | Free | Dynamic EQ | Per-band dynamics, de-essing, transparent | [Developer Site](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vocal-vst-plugins) |
 | Techivation T-De-Esser Plus | Free | De-esser | Focused sibilance detection, visual feedback | [Developer Site](https://techivation.com/t-de-esser-plus/) |
 | TDR SlickEQ | Free | EQ | 3-band with analog saturation mode | [Developer Site](https://www.pluginboutique.com/search?q=TDR%20SlickEQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vocal-vst-plugins) |
 | TAL-Reverb-4 | Free | Reverb | Vintage plate, envelope follower, HPF return | [Plugin Boutique](https://www.pluginboutique.com/search?q=TAL-Reverb-4&a_aid=69cb95abe1763) |
-| Valhalla Supermassive | Free | Reverb/Delay | Dense evolving tails, cosmic modes | [Developer Site](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vocal-vst-plugins) |
+| Valhalla Supermassive | Free | Reverb/Delay | Dense evolving tails, cosmic modes | [Developer Site](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Wider (Polyverse) | Free | Stereo Width | M/S widening, mono-safe | [Plugin Boutique](https://www.pluginboutique.com/search?q=Wider%20Polyverse%20stereo%20widener&a_aid=69cb95abe1763) |
 | Acon Digital Multiply | Free | Chorus/Doubler | Up to 6 layers, independent pitch and pan | [Developer Site](https://acondigital.com/products/multiply/) |
 | Chow Tape Model | Free | Saturation | Physically modeled tape, open source | [Developer Site](https://chowdsp.com/products.html) |
-| iZotope Nectar 4 | ~$99 | Full Vocal Chain | AI assistant, complete processing suite | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Nectar%204&a_aid=69cb95abe1763) |
+| iZotope Nectar 4 | ~$149 (sale) | Full Vocal Chain | AI assistant, complete processing suite | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Nectar%204&a_aid=69cb95abe1763) |
 | Waves Tune Real-Time | Varies | Pitch Correction | Low latency, formant shifting, live-safe | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20Tune%20Real-Time&a_aid=69cb95abe1763) |
 | Auto-Tune Pro | Varies | Pitch Correction | Graph Mode, industry standard, manual editing | [Plugin Boutique](https://www.pluginboutique.com/search?q=Auto-Tune%20Pro&a_aid=69cb95abe1763) |
 
