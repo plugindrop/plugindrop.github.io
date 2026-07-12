@@ -33,9 +33,9 @@ draft: false
 
 A decade ago, a wavetable synth on par with Serum would have cost you $189. In 2026, Vital does the same job for $0 — and it isn't even the only free plugin on this list that trades blows with paid-tier tools.
 
-The freeware and open-source scene has matured to the point where you can build a complete production chain — synthesis, EQ, compression, reverb, saturation, metering — without spending a cent. FL Studio's VST/VST3 architecture loads every plugin here with no friction, so there is no technical barrier to getting started.
+The freeware and open-source scene has matured to the point where you can build a complete production chain (synthesis, EQ, compression, reverb, saturation, metering) without spending a cent. FL Studio's VST/VST3 architecture loads every plugin here with no friction, so there is no technical barrier to getting started.
 
-This guide ranks 15 of the best free VST plugins for FL Studio, chosen based on specs, developer documentation, and community consensus across genres from trap to ambient to cinematic. Each pick lists its format, OS support, one concrete use case, and — because no free plugin is perfect — one honest limitation so you know exactly where it falls short before you install it.
+This guide ranks 15 of the best free VST plugins for FL Studio, chosen based on specs, developer documentation, and community consensus across genres from trap to ambient to cinematic. Each pick lists its format, OS support, one concrete use case, and, because no free plugin is perfect, one honest limitation so you know exactly where it falls short before you install it.
 
 ---
 
@@ -45,14 +45,14 @@ The free synth landscape has reached an all-time high. These five instruments ri
 
 ### Vital — The best free wavetable synth, full stop
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="Vital — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="FREE SYNTH: Vital - No talking demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Matt Tytel
 - **Price:** Free (paid tiers available)
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST3, AU, CLAP, LV2
 
-Vital is a spectral warping wavetable synthesizer with a fully visual, drag-and-drop modulation system that makes programming expressive patches fast and intuitive. The oscillator quality is exceptional, and the built-in effects chain — including a high-quality reverb, chorus, and filter — means you can build complete, production-ready patches without reaching for external processors. It's the closest thing to a free Serum, and for many workflows it goes further.
+Vital is a spectral warping wavetable synthesizer with a fully visual, drag-and-drop modulation system that makes programming expressive patches fast and intuitive. The oscillator quality is exceptional, and the built-in effects chain (including a high-quality reverb, chorus, and filter) means you can build complete, production-ready patches without reaching for external processors. It's the closest thing to a free Serum, and for many workflows it goes further.
 
 **Best for:** Leads, pads, plucks, and complex wavetable evolving textures in any genre.
 
@@ -65,7 +65,7 @@ Vital is a spectral warping wavetable synthesizer with a fully visual, drag-and-
 
 ### Surge XT — Deep synthesis powerhouse for advanced producers
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/GpcyyBBQzzA" title="Surge XT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/GpcyyBBQzzA" title="Surge XT | No Talking | Presets Sound Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="audio-embed"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="Surge XT — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1803556615"></iframe></div>
 
@@ -87,14 +87,12 @@ Surge XT packs an almost intimidating feature set into a free open-source packag
 
 ### TAL-NoiseMaker — Fast, playable virtual analog classic
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="TAL-NoiseMaker — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** TAL Software
 - **Price:** Free
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST2, VST3, AU
 
-TAL-NoiseMaker is the ideal grab-and-play analog synth for producers who don't want to spend time deep-diving into modulation matrices. It features two oscillators, multiple waveforms, a noise generator, a built-in reverb, and a simple arpeggiator. The sound is warm and punchy — perfect for retro leads, basslines, and keys — and it loads instantly on even older machines.
+TAL-NoiseMaker is the ideal grab-and-play analog synth for producers who don't want to spend time deep-diving into modulation matrices. It features two oscillators, multiple waveforms, a noise generator, a built-in reverb, and a simple arpeggiator. The sound is warm and punchy, well suited to retro leads, basslines, and keys, and it loads instantly on even older machines.
 
 **Best for:** Quick analog leads, basslines, retro synth sounds, and CPU-limited setups.
 
@@ -107,8 +105,6 @@ TAL-NoiseMaker is the ideal grab-and-play analog synth for producers who don't w
 
 ### OB-Xd — Warm analog polysynth emulation
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="OB-Xd — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** discoDSP
 - **Price:** Free
 - **Platforms:** Windows, macOS, Linux
@@ -118,7 +114,7 @@ OB-Xd models the classic Oberheim OB-X architecture with impressive accuracy, de
 
 **Best for:** Lush chord pads, synth-wave leads, warm polyphonic textures.
 
-**Skip it if…** you want one do-everything synth. OB-Xd nails a single flavor — the Oberheim polysynth sound — and little else; its modulation and onboard effects are basic by 2026 standards. Treat it as a specialist, not your main instrument.
+**Skip it if…** you want one do-everything synth. OB-Xd nails a single flavor, the Oberheim polysynth sound, and little else; its modulation and onboard effects are basic by 2026 standards. Treat it as a specialist, not your main instrument.
 
 [→ Download OB-Xd Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-fl-studio)
 
@@ -126,14 +122,12 @@ OB-Xd models the classic Oberheim OB-X architecture with impressive accuracy, de
 
 ### Dexed — The ultimate free FM synthesizer
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="Dexed — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Digital Suburban
 - **Price:** Free (open source)
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST2, AU
 
-Dexed is a faithful DX7 emulation that also loads native DX7 patches (.syx files), instantly unlocking thousands of classic FM presets. The six-operator FM engine produces electric pianos, metallic percussion, glass leads, and bass tones that purely subtractive synths simply cannot replicate. If you work in house, lo-fi, jazz-influenced beats, or any genre where DX7 textures matter, this is non-negotiable.
+Dexed is a faithful DX7 emulation that also loads native DX7 patches (.syx files), instantly giving you thousands of classic FM presets. The six-operator FM engine produces electric pianos, metallic percussion, glass leads, and bass tones that purely subtractive synths simply cannot replicate. If you work in house, lo-fi, jazz-influenced beats, or any genre where DX7 textures matter, this is non-negotiable.
 
 **Best for:** Electric pianos, FM bass, metallic percussion, lo-fi and jazz-influenced production.
 
@@ -146,8 +140,6 @@ Dexed is a faithful DX7 emulation that also loads native DX7 patches (.syx files
 ## Sample-Based Instruments
 
 ### Spitfire LABS — Endless free cinematic sound sources
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="Spitfire LABS — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Spitfire Audio
 - **Price:** Free
@@ -170,8 +162,6 @@ Good mixing starts with great EQ and compression. These four free plugins compet
 
 ### TDR Nova — The best free dynamic EQ for mixing
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Tokyo Dawn Records
 - **Price:** Free (GE upgrade available)
 - **Platforms:** Windows, macOS
@@ -190,7 +180,7 @@ TDR Nova combines a four-band parametric EQ with per-band dynamic EQ capability,
 
 ### Voxengo SPAN — The industry-standard free spectrum analyzer
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/iZrWMv02tlA" title="Voxengo SPAN — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/iZrWMv02tlA" title="Mixing With Your Eyes: Voxengo SPAN mixing settings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Voxengo
 - **Price:** Free
@@ -201,7 +191,7 @@ Voxengo SPAN is the real-time FFT spectrum analyzer used in professional studios
 
 **Best for:** Frequency analysis, A/B referencing, checking low-end balance, identifying problem frequencies.
 
-**Skip it if…** you expected it to fix anything. SPAN is analysis only — it measures your spectrum and changes nothing in the signal — and the interface shows its age. Pair it with an EQ; it is a meter, not a tool.
+**Skip it if…** you expected it to fix anything. SPAN is analysis only; it measures your spectrum and changes nothing in the signal, and the interface shows its age. Pair it with an EQ; it is a meter, not a tool.
 
 [→ Download Voxengo SPAN Free](https://www.voxengo.com/product/span/)
 
@@ -209,7 +199,7 @@ Voxengo SPAN is the real-time FFT spectrum analyzer used in professional studios
 
 ### Rough Rider 3 — Character compression with a bite
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/j47NrMNeaf0" title="Rough Rider 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/j47NrMNeaf0" title="Audio Damage Rough Rider 3 Compressor - Test and Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Audio Damage
 - **Price:** Free
@@ -228,8 +218,6 @@ Rough Rider 3 is not a transparent compressor — it's a character compressor th
 ---
 
 ### TDR Kotelnikov — Mastering-grade free bus compressor
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="TDR Kotelnikov — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Tokyo Dawn Records
 - **Price:** Free (GE upgrade available)
@@ -250,8 +238,6 @@ TDR Kotelnikov is widely considered the best free mastering compressor available
 
 ### Valhalla Supermassive — The best free reverb plugin in 2026
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Valhalla DSP
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -270,14 +256,12 @@ Valhalla Supermassive delivers massive, lush reverbs and delays that range from 
 
 ### Dragonfly Reverb — Four purpose-built reverb algorithms in one download
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="Dragonfly Reverb — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Michael Willis
 - **Price:** Free (open source)
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST2
 
-Dragonfly Reverb is a set of four open-source reverb plugins — Room, Hall, Plate, and Early Reflections — each optimized for a specific acoustic scenario. The algorithms are based on the Freeverb3 library and are surprisingly musical for an open-source tool. The plate reverb in particular works beautifully on snares and vocals when you want something more intimate than Supermassive's epic scale.
+Dragonfly Reverb is a set of four open-source reverb plugins (Room, Hall, Plate, and Early Reflections), each optimized for a specific acoustic scenario. The algorithms are based on the Freeverb3 library and are surprisingly musical for an open-source tool. The plate reverb in particular works beautifully on snares and vocals when you want something more intimate than Supermassive's epic scale.
 
 **Best for:** Drum room reverbs, plate reverb on snares and vocals, producers who need dedicated algorithm types.
 
@@ -291,7 +275,7 @@ Dragonfly Reverb is a set of four open-source reverb plugins — Room, Hall, Pla
 
 ### Ozone Imager 2 — Professional stereo width control
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6sswOcOOc18" title="Ozone Imager 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6sswOcOOc18" title="iZotope Ozone Imager 2 Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
 - **Price:** Free
@@ -310,8 +294,6 @@ Ozone Imager 2 provides stereo field widening and narrowing with a real-time Lis
 
 ### MFreeFXBundle — 37 free mixing tools in one install
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="MFreeFXBundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Melda Production
 - **Price:** Free
 - **Platforms:** Windows, macOS
@@ -328,8 +310,6 @@ MFreeFXBundle is arguably the best single download in free plugin history: 37 fu
 ---
 
 ### CHOW Tape Model — Physically modeled analog tape saturation
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="CHOW Tape Model — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Jatin Chowdhury
 - **Price:** Free (open source)
@@ -352,10 +332,10 @@ If the free toolkit is serving you well and you're ready to invest, these three 
 
 ### Serum (Xfer Records) — The industry-standard wavetable synthesizer
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TmvzdoEECe8" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TmvzdoEECe8" title="Serum 2 is out and no one is going crazy about this feature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
-- **Price:** ~$189 (or subscription via Splice)
+- **Price:** $249 regular, typically $189 on sale, lowest we've tracked $99 ([price history](/plugin-prices/serum-2/)). Splice offers rent-to-own.
 - **Why upgrade:** Vital covers much of the same synthesis ground, but Serum's commercial preset ecosystem is unmatched — tens of thousands of professionally designed patches are available. The visual wavetable editor and deep modulation system have become the industry benchmark for sound design workflows. If you're producing commercially or regularly working with preset packs, Serum's ecosystem depth justifies the cost.
 
 [Xfer Records](https://xferrecords.com/products/serum)
@@ -363,8 +343,6 @@ If the free toolkit is serving you well and you're ready to invest, these three 
 ---
 
 ### Harmor — FL Studio's own additive/resynthesis powerhouse
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/w1Sd28RNKOU" title="Harmor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Image-Line
 - **Price:** ~$99 (included in FL Studio All Plugins edition)
@@ -376,7 +354,7 @@ If the free toolkit is serving you well and you're ready to invest, these three 
 
 ### Sytrus — Advanced FM synthesis native to FL Studio
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/cFvSEFibCN8" title="Sytrus — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/cFvSEFibCN8" title="Until You Learn How To Use Sytrus (FL Studio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Image-Line
 - **Price:** ~$99 (included in FL Studio All Plugins edition)
@@ -413,11 +391,11 @@ If the free toolkit is serving you well and you're ready to invest, these three 
 
 ## How to Choose
 
-- **If you want one synth that does everything**, start with Vital — it covers wavetable, subtractive, and FM-adjacent sounds with an interface that rewards both beginners and advanced sound designers. When you outgrow it, [Serum on Plugin Boutique](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763) is the standard next step.
-- **If your mixes sound thin or harsh**, load TDR Nova on every bus and TDR Kotelnikov on the master — these two tools together fix the most common amateur mix problems without coloring the sound.
-- **If you produce ambient, cinematic, or electronic music**, Valhalla Supermassive is non-negotiable; its reverb algorithms match $200 commercial plugins in quality.
+- **If you want one synth that does everything**, start with Vital: it covers wavetable, subtractive, and FM-adjacent sounds with an interface that rewards both beginners and advanced sound designers. When you outgrow it, [Serum on Plugin Boutique](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763) is the standard next step.
+- **If your mixes sound thin or harsh**, load TDR Nova on every bus and TDR Kotelnikov on the master: these two tools together fix the most common amateur mix problems without coloring the sound.
+- **If you produce ambient, cinematic, or electronic music**, Valhalla Supermassive is non-negotiable; its reverb algorithms match commercial reverbs costing far more.
 - **If you need drums and low-end to punch harder**, Rough Rider 3's built-in blend control makes parallel compression accessible in seconds without complex sends routing in FL Studio.
-- **If you're starting completely from scratch**, download MFreeFXBundle first — 37 tools in one install lets you experiment across every mixing discipline before you know which specialty plugins you actually need.
+- **If you're starting completely from scratch**, download MFreeFXBundle first: 37 tools in one install lets you experiment across every mixing discipline before you know which specialty plugins you actually need.
 
 ---
 
@@ -447,9 +425,9 @@ A: For most producers, yes — Vital's synthesis engine, modulation system, and 
 A: All 15 free plugins in this list permit commercial use. Open-source tools like Surge XT, Dexed, and CHOW Tape Model use GPL-compatible licenses that explicitly allow commercial production. Review the specific license agreement if you plan to distribute plugin sounds in a sample pack.
 
 ---
-## Final Thoughts
+## The Bottom Line
 
-Fifteen plugins, zero dollars, and a chain that covers synthesis, mixing, mastering, and effects — that is the state of free software for FL Studio in 2026. The gap between free and paid is now mostly convenience and preset depth, not raw sound quality.
+Fifteen plugins, zero dollars, and a chain that covers synthesis, mixing, mastering, and effects: that is the state of free software for FL Studio in 2026. The gap between free and paid is now mostly convenience and preset depth, not raw sound quality.
 
 Your next ten minutes: download Vital, drop TDR Nova on your master bus and Valhalla Supermassive on a reverb send, and load one Spitfire LABS instrument for color. That is a professional starting chain before your coffee gets cold. When you eventually hit a wall, [Xfer Records](https://xferrecords.com/products/serum) and the price-intelligence table below tell you exactly what to buy — and when to wait for a sale.
 
@@ -461,15 +439,15 @@ The free plugins above handle most production tasks. When you hit a specific wal
 
 | Upgrade | What It Adds | Approx. 2026 Price | When It Usually Goes On Sale |
 |---|---|---|---|
-| [Serum 2](https://www.pluginboutique.com/search?q=Serum%202&a_aid=69cb95abe1763) | The industry-standard wavetable synth and the deepest commercial preset ecosystem | ~$189 (or ~$11/mo rent-to-own) | Rarely discounted outright; Splice rent-to-own is the usual way in |
-| [FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) | Surgical and dynamic EQ with linear phase and per-node processing | ~$179 | FabFilter almost never discounts — expect only ~15% off at Black Friday |
-| [FabFilter Pro-C 2](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) | Transparent, flexible compression with sidechain and oversampling | ~$179 | Same story — a rare ~15% Black Friday dip is the best you'll see |
-| [FabFilter Pro-L 2](https://www.pluginboutique.com/search?q=FabFilter%20Pro-L%202&a_aid=69cb95abe1763) | True-peak mastering limiter with multiple algorithms | ~$179 | Black Friday only, and only lightly |
-| [iZotope Ozone 11](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2011&a_aid=69cb95abe1763) | A full AI-assisted mastering chain in one window | ~$249 Standard / ~$499 Advanced | Discounts hard — routinely 50–70% off at Black Friday and summer sales |
-| [Arturia Pigments](https://www.pluginboutique.com/search?q=Arturia%20Pigments&a_aid=69cb95abe1763) | Wavetable, granular, and analog engines with a friendlier UI than Surge | ~$199 | Frequently ~50% off in Arturia's seasonal sales |
-| [Soundtoys 5](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) | The classic character-effects bundle (EchoBoy, Decapitator, and more) | ~$299 bundle | Big 50–70% bundle sales twice a year; single effects often drop to ~$29 |
-| [Cableguys ShaperBox 3](https://www.pluginboutique.com/search?q=Cableguys%20ShaperBox%203&a_aid=69cb95abe1763) | Rhythmic multiband modulation for volume, filter, pan, and more | ~$89 | Cableguys runs ~40% off seasonal sales a few times a year |
-| [Valhalla Room](https://valhalladsp.com/shop/reverb/valhalla-room/) | Natural room and hall simulation for vocals and drums | $50 | Never — Valhalla has held the same $50 price with no sales for years |
+| [Serum 2](https://www.pluginboutique.com/search?q=Serum%202&a_aid=69cb95abe1763) | The industry-standard wavetable synth and the deepest commercial preset ecosystem | $249 list · $189 sale · $99 low ([track](/plugin-prices/serum-2/)); or ~$11/mo rent-to-own | Rarely discounted outright; Splice rent-to-own is the usual way in |
+| [FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) | Surgical and dynamic EQ with linear phase and per-node processing | $199 list · $149 sale · $105 low ([track](/plugin-prices/fabfilter-pro-q-4/)) | FabFilter almost never discounts; expect only ~15% off at Black Friday |
+| [FabFilter Pro-C 2](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) | Transparent, flexible compression with sidechain and oversampling | $129 list · $97 sale · $97 low ([track](/plugin-prices/fabfilter-pro-c-2/)) | Same story; a rare ~15% Black Friday dip is the best you'll see |
+| [FabFilter Pro-L 2](https://www.pluginboutique.com/search?q=FabFilter%20Pro-L%202&a_aid=69cb95abe1763) | True-peak mastering limiter with multiple algorithms | $179 list · $134 sale · $134 low ([track](/plugin-prices/fabfilter-pro-l-2/)) | Black Friday only, and only lightly |
+| [iZotope Ozone 11](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2011&a_aid=69cb95abe1763) | A full AI-assisted mastering chain in one window | Standard $199 list · $99 sale · $70 low; Advanced $399 list · $199 sale · $141 low ([track](/plugin-prices/izotope-ozone-11-advanced/)) | Discounts hard, routinely 50–70% off at Black Friday and summer sales |
+| [Arturia Pigments](https://www.pluginboutique.com/search?q=Arturia%20Pigments&a_aid=69cb95abe1763) | Wavetable, granular, and analog engines with a friendlier UI than Surge | $199 list · $99 sale ([track](/plugin-prices/arturia-pigments/)) | Frequently ~50% off in Arturia's seasonal sales |
+| [Soundtoys 5](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) | The classic character-effects bundle (EchoBoy, Decapitator, and more) | Bundle price set by developer (not price-tracked) | Big 50–70% bundle sales twice a year; individual effects have tracked as low as $40 |
+| [Cableguys ShaperBox 3](https://www.pluginboutique.com/search?q=Cableguys%20ShaperBox%203&a_aid=69cb95abe1763) | Rhythmic multiband modulation for volume, filter, pan, and more | ~$89 (developer list; not price-tracked) | Cableguys runs ~40% off seasonal sales a few times a year |
+| [Valhalla Room](https://valhalladsp.com/shop/reverb/valhalla-room/) | Natural room and hall simulation for vocals and drums | $50 flat ([track](/plugin-prices/valhalla-room/)) | Never; Valhalla has held the same $50 price with no sales for years |
 
 The pattern worth remembering: FabFilter and Valhalla almost never move on price, while iZotope, Arturia, Soundtoys, and Cableguys run deep seasonal sales — so time those purchases for Black Friday or their summer events, and don't wait around for the ones that never drop.
 
