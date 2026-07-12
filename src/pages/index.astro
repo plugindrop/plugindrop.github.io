@@ -5,7 +5,6 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import priceDataRaw from '../data/price_history.json';
-import productVideosRaw from '../data/product_videos.json';
 import { pdAttr } from '../lib/interestTaxonomy.mjs';
 import {
 	type PriceEntry,
@@ -17,7 +16,6 @@ import {
 	pbLink,
 } from '../lib/priceUtils';
 
-// --- Price-intelligence hero data (NW-D) -----------------------------------
 const priceData = priceDataRaw as { last_updated: string; bundles: Record<string, PriceEntry>; plugins?: Record<string, PriceEntry> };
 const trackerEntries: Record<string, PriceEntry> = {
 	...(priceData.bundles ?? {}),
@@ -28,10 +26,7 @@ const pricePointCount = Object.values(trackerEntries).reduce(
 	(n, e) => n + (e.history?.length ?? 0),
 	0,
 );
-const demoVideoCount = Object.keys(productVideosRaw as Record<string, unknown>).length;
 
-// Live drops: a genuine scraped observation below the regular price —
-// same honesty rule as the TopDeals sidebar (never "typical" claims here).
 const liveDrops = Object.entries(trackerEntries)
 	.map(([name, entry]) => {
 		const live = liveDropOf(entry);
@@ -47,29 +42,11 @@ const liveDrops = Object.entries(trackerEntries)
 	})
 	.filter((d) => d.off > 0 && d.current !== null && d.regular !== null)
 	.sort((a, b) => b.off - a.off)
-	.slice(0, 12);
-
-const biggestRecentDrops = liveDrops.slice(0, 5);
-
-// Brand hub chips — slugs verified against built /brands/ pages
-const brandChips = [
-	{ label: 'FabFilter', slug: 'fabfilter' },
-	{ label: 'iZotope', slug: 'izotope' },
-	{ label: 'Native Instruments', slug: 'native-instruments' },
-	{ label: 'Arturia', slug: 'arturia' },
-	{ label: 'Waves', slug: 'waves' },
-	{ label: 'Soundtoys', slug: 'soundtoys' },
-	{ label: 'u-he', slug: 'u-he' },
-	{ label: 'Valhalla', slug: 'valhalla' },
-	{ label: 'Xfer', slug: 'xfer' },
-	{ label: 'Spitfire Audio', slug: 'spitfire-audio' },
-	{ label: 'Plugin Alliance', slug: 'plugin-alliance' },
-	{ label: 'Universal Audio', slug: 'universal-audio' },
-];
+	.slice(0, 13);
 
 const allPosts = (await getCollection('blog'))
 	.filter((p) => !p.data.draft)
-	.filter((p) => p.data.pubDate.valueOf() <= Date.now())  // 未来日の予約投稿は非表示
+	.filter((p) => p.data.pubDate.valueOf() <= Date.now())
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 function hasHeroImage(post: any): boolean {
@@ -98,20 +75,9 @@ function getStoreName(url: string | undefined): string {
 	try { return new URL(url).hostname.replace('www.', ''); } catch { return ''; }
 }
 
-function isNew(date: Date): boolean {
-	return (Date.now() - date.getTime()) < 4 * 24 * 60 * 60 * 1000;
-}
-
 function isExpired(post: any): boolean {
 	if (!post.data.saleExpiry) return false;
 	return new Date(post.data.saleExpiry) < new Date();
-}
-
-function daysLeft(post: any): number | null {
-	if (!post.data.saleExpiry) return null;
-	const diff = new Date(post.data.saleExpiry).getTime() - Date.now();
-	const days = Math.ceil(diff / (1000 * 60 * 60 * 24));
-	return days > 0 ? days : null;
 }
 
 function isFreePrice(price: string | undefined): boolean {
@@ -124,53 +90,15 @@ function isRealDeal(post: any): boolean {
 	return !!(post.data.discount || (post.data.dealPrice && post.data.originalPrice) || isFreePrice(post.data.dealPrice));
 }
 
-function parsePrice(s: string | undefined): number {
-	if (!s) return 0;
-	const m = s.replace(/,/g, '').match(/[\d]+(?:\.\d+)?/);
-	return m ? parseFloat(m[0]) : 0;
-}
-
-function getDiscountBadge(post: any): string | null {
-	if (post.data.discount) return post.data.discount;
-	const dp = parsePrice(post.data.dealPrice);
-	const op = parsePrice(post.data.originalPrice);
-	if (dp > 0 && op > dp) {
-		const pct = Math.round((1 - dp / op) * 100);
-		return pct > 0 ? `${pct}% OFF` : null;
-	}
-	return null;
-}
-
-const heroPosts = allPosts.filter(hasHeroImage);
-
-// sample-pack-deal タグ付きアイテムは /tags/sample-pack-deal/ のみに表示
-// （無名ブランドのサンプルパック・プリセット等をメインフィードから除外）
 function isSamplePackDeal(post: any): boolean {
 	return post.data.tags?.includes('sample-pack-deal') ?? false;
 }
 
-// Editor's Picks: scored paid deals, non-expired, with affiliate + hero image (FREE excluded → shown in Free Deals section)
+const heroPosts = allPosts.filter(hasHeroImage);
 const topDeals = heroPosts
 	.filter(p => p.data.affiliate && !isExpired(p) && isRealDeal(p) && !isFreePrice(p.data.dealPrice) && !isSamplePackDeal(p))
 	.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
 	.slice(0, 4);
-
-const topIds = new Set(topDeals.map(p => p.id));
-
-// Recent Deals: 有料ディールのみ（isRealDeal + 非FREE）、Editor's Picks除外
-const recentDeals = heroPosts
-	.filter(p => !topIds.has(p.id) && !isExpired(p) && p.data.affiliate && isRealDeal(p) && !isFreePrice(p.data.dealPrice) && !isSamplePackDeal(p))
-	.slice(0, 6);
-
-// Free Deals: confirmed free, non-expired, not shown above (recentDeals excluded too)
-const recentIds = new Set(recentDeals.map(p => p.id));
-const freeDeals = allPosts
-	.filter(p => hasHeroImage(p) && !topIds.has(p.id) && !recentIds.has(p.id) && !isExpired(p) && (
-		isFreePrice(p.data.dealPrice) ||
-		(p.data.tags?.includes('free') && p.data.affiliate)
-	))
-	.slice(0, 3);
-
 ---
 
 <!doctype html>
@@ -194,623 +122,137 @@ const freeDeals = allPosts
 		<a href="#main-content" class="sr-only">Skip to content</a>
 		<Header />
 		<main id="main-content">
-
-			<!-- ── Hero Strip: price intelligence (NW-D) ── -->
 			<section class="hero-strip">
-				<div class="hero-headline-wrap">
-					<h1 class="hero-headline">Know what a plugin really costs.</h1>
-					<p class="hero-sub">
-						Daily price tracking, sale history &amp; verified deals &mdash; no hype, no fake reviews.
-					</p>
+				<div class="hero-copy">
+					<h1>Know what a plugin really costs.</h1>
+					<p>Daily price tracking and sale history &mdash; no hype, no fake reviews.</p>
 				</div>
-				<form class="hero-search" action="/plugin-prices/" method="get" role="search">
-					<input
-						type="search"
-						name="q"
-						class="hero-search-input"
-						placeholder={`Search ${trackedCount} tracked plugins — e.g. Serum 2, Pro-Q 4…`}
-						aria-label="Search tracked plugin prices"
-					/>
-					<button type="submit" class="hero-search-btn">Check price</button>
+				<form class="hero-search" action="/posts/" method="get" role="search">
+					<input type="search" name="q" placeholder="Search plugins and deals&hellip;" aria-label="Search plugins and deals" />
+					<button type="submit">Search</button>
 				</form>
 				<div class="hero-stats">
-					<a href="/plugin-prices/" class="hero-stat"><strong>{trackedCount}</strong> plugins tracked</a>
-					<span class="hero-stat"><strong>{pricePointCount.toLocaleString('en-US')}</strong> price points logged</span>
-					<span class="hero-stat"><strong>{demoVideoCount}</strong> verified demos</span>
-					<a href="/brands/" class="hero-stat hero-stat-link">Browse by brand &rarr;</a>
+					<span><strong>{trackedCount}</strong> plugins tracked</span>
+					<span><strong>{pricePointCount.toLocaleString('en-US')}</strong> price points</span>
+					<span>updated daily</span>
+					<a href="/how-we-track-prices/">How we track &rarr;</a>
+					<a href="/brands/">Browse by brand &rarr;</a>
 				</div>
 			</section>
 
-			<div class="home-desk">
-				<aside class="home-desk-rail">
-					{biggestRecentDrops.length > 0 && (
-						<section class="section recent-drops-panel">
-							<header class="section-hd">
-								<span class="section-label">Biggest recent drops</span>
-								<a href="/plugin-prices/" class="section-more">All prices &rarr;</a>
-							</header>
-							<ol class="recent-drops-list">
-								{biggestRecentDrops.map((d) => (
-									<li>
-										<a href={d.pbHref} target="_blank" rel="noopener sponsored">
-											<span class="recent-drop-name">{d.name}</span>
-											<span class="recent-drop-price">{formatPrice(d.current)}</span>
-											<span class="recent-drop-off">-{d.off}%</span>
-										</a>
-									</li>
-								))}
-							</ol>
-						</section>
-					)}
-
-					<!-- ── Editor's Picks ─────────────────────── -->
-					<div class="editors-picks-panel">
-					{topDeals.length > 0 && (
-						<section class="section">
-					<header class="section-hd">
-						<span class="section-label">Editor&apos;s picks</span>
-						<a href="/posts" class="section-more">See all deals &rarr;</a>
+			{liveDrops.length > 0 && (
+				<section class="section live-drops-section">
+					<header class="section-hd live-drops-hd">
+						<h2>Live price drops</h2>
+						<div class="section-actions">
+							<span>Checked daily &middot; via Plugin Boutique</span>
+							<a href="/plugin-prices/">Open full price tracker &rarr;</a>
+						</div>
 					</header>
-					<div class="deal-grid deal-grid--4">
-						{topDeals.map(post => {
-							const days = daysLeft(post);
-							return (
-								<a href={`/posts/${post.id}/`} class="deal-card" data-pd={pdAttr({ title: post.data.title, tags: post.data.tags ?? [] })}>
-									<div class="card-img-wrap">
-										<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
-										{getDiscountBadge(post) && <span class="bdg-discount">{getDiscountBadge(post)}</span>}
-										{isNew(post.data.pubDate) && <span class="bdg-new">NEW</span>}
-									</div>
-									<div class="card-body">
-										<h4 class="card-title">{post.data.title}</h4>
-										{(post.data.dealPrice || post.data.originalPrice) && (
-											<div class="price-cluster">
-												{post.data.originalPrice && <s class="price-was">{post.data.originalPrice}</s>}
-												{post.data.dealPrice && (
-													<strong class={`price-now ${isFreePrice(post.data.dealPrice) ? 'is-free' : ''}`}>
-														{post.data.dealPrice}
-													</strong>
-												)}
-											</div>
-										)}
-										{days !== null && days <= 3 && (
-											<span class="urgency-badge">{days === 1 ? 'Last day!' : `${days} days left`}</span>
-										)}
-										<div class="card-foot">
-											{post.data.affiliate && <span class="via-store">{getStoreName(post.data.affiliate)}</span>}
-											<span class="card-cta">Get deal &rarr;</span>
-										</div>
-									</div>
-								</a>
-							);
-						})}
-					</div>
-						</section>
-					)}
-					</div>
-				</aside>
-
-				{liveDrops.length > 0 && (
-					<section class="section live-drops-panel">
-						<header class="section-hd">
-							<span class="section-label">Live drops</span>
-							<a href="/plugin-prices/" class="section-more">Open full price tracker &rarr;</a>
-						</header>
-						<p class="drops-sub">From our daily price checks &middot; <a href="/how-we-track-prices/">how we track</a></p>
-						<div class="live-drops-table-wrap">
-							<table class="live-drops-table">
-								<thead>
-									<tr><th>Plugin</th><th>Current</th><th>Regular</th><th>OFF</th><th>Checked / source</th></tr>
-								</thead>
-								<tbody>
-									{liveDrops.map((d) => (
+					<div class="live-drops-table-wrap">
+						<table class="live-drops-table">
+							<thead><tr><th>Plugin</th><th>Current</th><th>Regular</th><th>Off</th><th>Checked</th></tr></thead>
+							<tbody>
+								{liveDrops.map((d) => {
+									const entry = trackerEntries[d.name];
+									const atAllTimeLow = entry.all_time_low != null && !(d.current > entry.all_time_low);
+									return (
 										<tr>
-											<td><a href={d.pbHref} target="_blank" rel="noopener sponsored">{d.name}</a></td>
+											<td>
+												<a href={d.pbHref} target="_blank" rel="noopener sponsored">
+													<strong>{d.name}</strong>
+													{entry.category && <small>{entry.category}</small>}
+												</a>
+											</td>
 											<td class="drop-price-current">{formatPrice(d.current)}</td>
 											<td class="drop-price-regular"><s>{formatPrice(d.regular)}</s></td>
-											<td class="drop-off-percent">-{d.off}%</td>
-											<td class="drop-checked-date">{d.checkedLabel ? `Checked ${d.checkedLabel}` : 'Checked —'} &middot; PB</td>
+											<td><span class:list={['drop-off-chip', { 'is-low': atAllTimeLow }]}>&minus;{d.off}%</span></td>
+											<td class="drop-checked-date">{d.checkedLabel ?? '&mdash;'} &middot; PB</td>
 										</tr>
-									))}
-								</tbody>
-							</table>
-						</div>
-					</section>
-				)}
-			</div>
-
-			<!-- ── Recent Deals ───────────────────────── -->
-			{recentDeals.length > 0 && (
-				<section class="section">
-					<header class="section-hd">
-						<span class="section-label">Recent deals</span>
-						<a href="/posts" class="section-more">See all &rarr;</a>
-					</header>
-					<div class="deal-grid deal-grid--3">
-						{recentDeals.map(post => {
-							const days = daysLeft(post);
-							return (
-								<a href={`/posts/${post.id}/`} class="deal-card" data-pd={pdAttr({ title: post.data.title, tags: post.data.tags ?? [] })}>
-									{post.data.heroImage && (
-										<div class="card-img-wrap">
-											<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
-											{getDiscountBadge(post) && <span class="bdg-discount">{getDiscountBadge(post)}</span>}
-											{isNew(post.data.pubDate) && <span class="bdg-new">NEW</span>}
-										</div>
-									)}
-									<div class="card-body">
-										<h4 class="card-title">{post.data.title}</h4>
-										{(post.data.dealPrice || post.data.originalPrice) && (
-											<div class="price-cluster">
-												{post.data.originalPrice && <s class="price-was">{post.data.originalPrice}</s>}
-												{post.data.dealPrice && (
-													<strong class={`price-now ${isFreePrice(post.data.dealPrice) ? 'is-free' : ''}`}>
-														{post.data.dealPrice}
-													</strong>
-												)}
-											</div>
-										)}
-										{days !== null && days <= 3 && (
-											<span class="urgency-badge">{days === 1 ? 'Last day!' : `${days} days left`}</span>
-										)}
-										<div class="card-foot">
-											{post.data.affiliate && <span class="via-store">{getStoreName(post.data.affiliate)}</span>}
-											<span class="card-cta">Read more &rarr;</span>
-										</div>
-									</div>
-								</a>
-							);
-						})}
-					</div>
-					<div class="see-all">
-						<a href="/posts">View all {allPosts.length} deals &rarr;</a>
+									);
+								})}
+							</tbody>
+						</table>
 					</div>
 				</section>
 			)}
 
-			<!-- ── Free Deals ─────────────────────────── -->
-			{freeDeals.length > 0 && (
-				<section class="section section--free">
+			{topDeals.length > 0 && (
+				<section class="section editors-picks">
 					<header class="section-hd">
-						<span class="section-label section-label--free">Free downloads</span>
+						<div class="section-title"><h2>Editor&apos;s picks</h2><span>From the blog</span></div>
+						<a href="/posts/">All deals &rarr;</a>
 					</header>
-					<div class="deal-grid deal-grid--3">
-						{freeDeals.map(post => (
-							<a href={`/posts/${post.id}/`} class="deal-card deal-card--free">
-								{post.data.heroImage && (
-									<div class="card-img-wrap">
-										<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
-										<span class="bdg-free">FREE</span>
-									</div>
-								)}
-								<div class="card-body">
-									<h4 class="card-title">{post.data.title}</h4>
-									<div class="price-cluster">
-										<strong class="price-now is-free">FREE</strong>
-									</div>
-									<div class="card-foot">
-										{post.data.affiliate && <span class="via-store">{getStoreName(post.data.affiliate)}</span>}
-										<span class="card-cta">Get free &rarr;</span>
-									</div>
+					<div class="deal-grid">
+						{topDeals.map(post => (
+							<a href={`/posts/${post.id}/`} class="deal-card" data-pd={pdAttr({ title: post.data.title, tags: post.data.tags ?? [] })}>
+								<img src={post.data.heroImage} alt="" loading="lazy" />
+								<div class="deal-copy">
+									<h3>{post.data.title}</h3>
+									{post.data.dealPrice && <strong>{post.data.dealPrice}</strong>}
+									{post.data.affiliate && <span>{getStoreName(post.data.affiliate)}</span>}
 								</div>
 							</a>
 						))}
 					</div>
 				</section>
 			)}
-
-
-			<!-- ── Brand Hubs ─────────────────────────── -->
-			<section class="section section--brands">
-				<header class="section-hd">
-					<span class="section-label">Price trackers by brand</span>
-					<a href="/brands/" class="section-more">All brands &rarr;</a>
-				</header>
-				<div class="brand-chip-row">
-					{brandChips.map((b) => (
-						<a href={`/brands/${b.slug}/`} class="brand-chip">{b.label}</a>
-					))}
-				</div>
-			</section>
-
-			<section class="section section--guides">
-				<div class="section-hd">
-					<span class="section-label">Production guides</span>
-					<a href="/free/" class="see-all">All guides →</a>
-				</div>
-				<div class="guide-strip">
-					<a href="/posts/best-free-synth-plugins/" class="gcard">
-						<span class="gc-title">14 Best Free Synths 2026</span>
-					</a>
-					<a href="/posts/best-free-reverb-vst-plugins/" class="gcard">
-						<span class="gc-title">Best Free Reverb 2026</span>
-					</a>
-					<a href="/posts/vital-synthesizer-review-2026/" class="gcard">
-						<span class="gc-title">Vital Synth Review</span>
-					</a>
-					<a href="/posts/serum-vst-review/" class="gcard">
-						<span class="gc-title">Is Serum Worth It?</span>
-					</a>
-					<a href="/posts/best-free-vst-plugins-beginners/" class="gcard">
-						<span class="gc-title">Free Plugins for Beginners</span>
-					</a>
-					<a href="/posts/best-free-eq-vst-plugins/" class="gcard">
-						<span class="gc-title">Best Free EQ Plugins</span>
-					</a>
-				</div>
-			</section>
-
 		</main>
-
 		<Footer />
 	</body>
 </html>
 
 <style>
-	/* ── Hero Strip ───────────────────────────────────────── */
-	.hero-strip {
-		padding: 2.25rem 0 1.75rem;
-		border-bottom: 1px solid var(--border);
-		margin-bottom: 2.5rem;
-	}
-	.hero-headline-wrap { margin-bottom: 0.75rem; }
-	/* ── Price-intelligence hero (NW-D) ── */
-	.hero-search {
-		display: flex;
-		gap: 0.5rem;
-		max-width: 560px;
-		margin: 1rem 0 0.85rem;
-	}
-	.hero-search-input {
-		flex: 1;
-		min-width: 0;
-		padding: 0.65rem 0.9rem;
-		font-size: 0.95rem;
-		color: var(--text-primary);
-		background: var(--bg-card);
-		border: 1px solid var(--border);
-		border-radius: var(--radius);
-	}
-	.hero-search-input::placeholder { color: var(--text-muted); }
-	.hero-search-input:focus { outline: none; border-color: var(--accent); }
-	.hero-search-btn {
-		padding: 0.65rem 1.1rem;
-		font-size: 0.9rem;
-		font-weight: 700;
-		color: var(--bg-base);
-		background: var(--accent);
-		border: none;
-		border-radius: var(--radius);
-		cursor: pointer;
-		white-space: nowrap;
-	}
-	.hero-search-btn:hover { background: var(--accent-light); }
-	.hero-stats {
-		display: flex;
-		flex-wrap: wrap;
-		gap: 0.4rem 1.4rem;
-		font-size: 0.82rem;
-		color: var(--text-muted);
-	}
-	.hero-stat { color: var(--text-muted); text-decoration: none; }
-	.hero-stat strong { color: var(--text-primary); font-weight: 800; }
-	a.hero-stat:hover { color: var(--accent); }
-	.hero-stat-link { color: var(--accent-light); }
-
-	/* ── Dual data desk ── */
-	.home-desk {
-		display: grid;
-		grid-template-columns: minmax(250px, 0.72fr) minmax(0, 1.8fr);
-		gap: 1.5rem;
-		align-items: start;
-		margin-bottom: 3rem;
-	}
-	.home-desk .section { margin-bottom: 1.5rem; }
-	.recent-drops-panel,
-	.live-drops-panel {
-		padding: 1rem;
-		background: var(--bg-low);
-		border: 1px solid var(--border);
-		border-radius: var(--radius);
-	}
-	.recent-drops-list { list-style: none; margin: 0; padding: 0; }
-	.recent-drops-list li { border-top: 1px solid var(--border); }
-	.recent-drops-list li:first-child { border-top: 0; }
-	.recent-drops-list a {
-		display: grid;
-		grid-template-columns: minmax(0, 1fr) auto;
-		gap: 0.2rem 0.75rem;
-		padding: 0.7rem 0;
-		text-decoration: none;
-	}
-	.recent-drop-name { color: var(--text-primary); font-size: 0.84rem; font-weight: 700; }
-	.recent-drop-price,
-	.recent-drop-off {
-		font-family: var(--font-mono);
-		font-variant-numeric: tabular-nums;
-		white-space: nowrap;
-	}
-	.recent-drop-price { color: var(--text-primary); font-size: 0.82rem; }
-	.recent-drop-off { color: var(--verdict-good); font-size: 0.72rem; font-weight: 700; }
-	.recent-drops-list a:hover .recent-drop-name { color: var(--accent); }
-	.editors-picks-panel .deal-grid--4 { grid-template-columns: 1fr; }
-	.editors-picks-panel .card-img-wrap img { height: 138px; }
-
-	/* ── Live Price Drops ── */
-	.drops-sub { font-size: 0.8rem; color: var(--text-muted); margin: -0.35rem 0 0.8rem; }
-	.live-drops-table-wrap { overflow-x: auto; border: 1px solid var(--border); }
-	.live-drops-table { width: 100%; min-width: 660px; border-collapse: collapse; }
-	.live-drops-table th,
-	.live-drops-table td { padding: 0.72rem 0.65rem; border-bottom: 1px solid var(--border); }
-	.live-drops-table th {
-		font-family: var(--font-mono);
-		font-size: 0.64rem;
-		font-weight: 700;
-		letter-spacing: 0.07em;
-		text-align: left;
-		text-transform: uppercase;
-		color: var(--text-muted);
-		background: var(--bg-card);
-		white-space: nowrap;
-	}
-	.live-drops-table td:not(:first-child) {
-		font-family: var(--font-mono);
-		font-variant-numeric: tabular-nums;
-		white-space: nowrap;
-	}
-	.live-drops-table th:nth-child(n + 2):nth-child(-n + 4),
-	.live-drops-table td:nth-child(n + 2):nth-child(-n + 4) { text-align: right; }
+	.hero-strip { padding: 2.5rem 0 2rem; margin-bottom: 3rem; border-bottom: 1px solid var(--border); }
+	.hero-copy { max-width: 760px; }
+	.hero-copy h1, .section-hd h2 { font-family: var(--font-display); font-weight: 400; color: var(--text-primary); }
+	.hero-copy h1 { margin: 0 0 0.5rem; font-size: 2.75rem; line-height: 1.08; letter-spacing: -0.02em; }
+	.hero-copy p { margin: 0; color: var(--text-secondary); font-size: 1rem; }
+	.hero-search { display: flex; max-width: 560px; gap: 0.5rem; margin: 1.25rem 0 1rem; }
+	.hero-search input { flex: 1; min-width: 0; padding: 0.65rem 0.9rem; color: var(--text-primary); background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); }
+	.hero-search input:focus { outline: none; border-color: var(--accent); }
+	.hero-search button { padding: 0.65rem 1.1rem; font-weight: 700; color: var(--bg-base); background: var(--accent); border: 0; border-radius: var(--radius); cursor: pointer; }
+	.hero-search button:hover { background: var(--accent-light); }
+	.hero-stats { display: flex; flex-wrap: wrap; gap: 0.35rem 1.25rem; font-family: var(--font-mono); font-size: 0.75rem; color: var(--text-muted); }
+	.hero-stats strong { color: var(--text-primary); }
+	.hero-stats a, .section-hd a { color: var(--accent); text-decoration: none; }
+	.hero-stats a:hover, .section-hd a:hover { text-decoration: underline; }
+	.section { margin-bottom: 3.5rem; }
+	.section-hd { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-bottom: 1rem; }
+	.section-hd h2 { margin: 0; font-size: 1.35rem; }
+	.section-actions, .section-title { display: flex; align-items: baseline; gap: 1rem; }
+	.section-actions span, .section-title span { font-family: var(--font-mono); font-size: 0.7rem; color: var(--text-muted); }
+	.section-hd a { font-size: 0.8rem; white-space: nowrap; }
+	.live-drops-table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: var(--radius); }
+	.live-drops-table { width: 100%; min-width: 680px; border-collapse: collapse; }
+	.live-drops-table th, .live-drops-table td { padding: 0.7rem 0.85rem; border-bottom: 1px solid var(--border); }
+	.live-drops-table th { font-family: var(--font-mono); font-size: 0.63rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-muted); background: var(--bg-card); text-align: left; }
+	.live-drops-table th:nth-child(n + 2), .live-drops-table td:nth-child(n + 2) { text-align: right; }
 	.live-drops-table tbody tr:last-child td { border-bottom: 0; }
 	.live-drops-table tbody tr:hover { background: var(--bg-card); }
-	.live-drops-table td:first-child a { color: var(--text-primary); font-size: 0.84rem; font-weight: 700; text-decoration: none; }
-	.live-drops-table td:first-child a:hover { color: var(--accent); }
-	.drop-price-current { color: var(--text-primary); font-weight: 700; }
-	.drop-price-regular,
-	.drop-checked-date { color: var(--text-muted); font-size: 0.72rem; }
-	.drop-off-percent { color: var(--verdict-good); font-weight: 700; }
-
-	/* ── Brand chips ── */
-	.section--brands { padding-top: 1.6rem; border-top: 1px solid var(--border); }
-	.brand-chip-row { display: flex; flex-wrap: wrap; gap: 0.5rem; }
-	.brand-chip {
-		padding: 0.4rem 0.85rem;
-		font-size: 0.85rem;
-		font-weight: 600;
-		color: var(--text-primary);
-		background: var(--bg-card);
-		border: 1px solid var(--border);
-		border-radius: 999px;
-		text-decoration: none;
+	.live-drops-table td:first-child a { display: flex; flex-direction: column; gap: 0.1rem; color: var(--text-primary); text-decoration: none; }
+	.live-drops-table td:first-child a:hover strong { color: var(--accent); }
+	.live-drops-table td:first-child strong { font-size: 0.84rem; }
+	.live-drops-table td:first-child small { color: var(--text-muted); font-size: 0.68rem; }
+	.drop-price-current, .drop-price-regular, .drop-checked-date, .drop-off-chip { font-family: var(--font-mono); font-variant-numeric: tabular-nums; white-space: nowrap; }
+	.drop-price-current { font-weight: 700; color: var(--text-primary); }
+	.drop-price-regular, .drop-checked-date { font-size: 0.72rem; color: var(--text-muted); }
+	.drop-off-chip { display: inline-block; padding: 0.2rem 0.45rem; border-radius: var(--radius-sm); background: var(--sale-bg); color: var(--sale-text); font-size: 0.7rem; font-weight: 700; }
+	.drop-off-chip.is-low { background: var(--verdict-good); color: var(--bg-base); }
+	.editors-picks { padding-top: 0.5rem; border-top: 1px solid var(--border); }
+	.editors-picks .section-hd { padding-top: 1rem; }
+	.deal-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0.75rem; }
+	.deal-card { display: flex; min-width: 0; height: 92px; overflow: hidden; color: inherit; background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); text-decoration: none; }
+	.deal-card:hover { border-color: var(--accent-border-hover); background: var(--bg-card-hover); }
+	.deal-card > img { width: 92px; flex: 0 0 92px; object-fit: cover; }
+	.deal-copy { display: flex; min-width: 0; flex-direction: column; padding: 0.65rem 0.7rem; }
+	.deal-copy h3 { display: -webkit-box; overflow: hidden; margin: 0 0 auto; color: var(--text-primary); font-size: 0.78rem; line-height: 1.25; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
+	.deal-copy strong { font-family: var(--font-mono); color: var(--text-primary); font-size: 0.78rem; }
+	.deal-copy span { overflow: hidden; color: var(--text-muted); font-size: 0.65rem; text-overflow: ellipsis; white-space: nowrap; }
+	@media (max-width: 900px) { .deal-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+	@media (max-width: 680px) {
+		.hero-copy h1 { font-size: 2rem; }
+		.section-hd, .section-actions { align-items: flex-start; flex-direction: column; gap: 0.35rem; }
+		.deal-grid { grid-template-columns: 1fr; }
 	}
-	.brand-chip:hover { border-color: var(--accent); color: var(--accent); }
-	.hero-headline {
-		font-family: var(--font-display);
-		font-size: 2.75rem;
-		font-weight: 400;
-		letter-spacing: -0.02em;
-		line-height: 1.1;
-		color: var(--text-primary);
-		margin: 0 0 0.5rem;
-	}
-	.hero-sub {
-		color: var(--text-secondary);
-		font-size: 0.95rem;
-		margin: 0;
-		line-height: 1.5;
-	}
-
-	/* ── Sections ─────────────────────────────────────────── */
-	.section { margin-bottom: 3rem; }
-	.section--free {
-		padding-top: 2rem;
-		border-top: 1px solid var(--border);
-	}
-	.section-hd {
-		display: flex;
-		align-items: baseline;
-		justify-content: space-between;
-		margin-bottom: 1rem;
-		gap: 1rem;
-	}
-	.section-label {
-		font-size: 0.68rem;
-		font-weight: 800;
-		color: var(--text-muted);
-		letter-spacing: 0.1em;
-		text-transform: uppercase;
-	}
-	.section-label--free { color: var(--free-text, #4caf50); }
-	.section-more {
-		font-size: 0.78rem;
-		font-weight: 600;
-		color: var(--text-secondary);
-		text-decoration: none;
-		transition: color 0.15s;
-	}
-	.section-more:hover { color: var(--accent-dark); }
-
-	/* ── Price atoms ──────────────────────────────────────── */
-	.price-cluster {
-		display: flex;
-		align-items: baseline;
-		gap: 0.45rem;
-		flex-wrap: wrap;
-	}
-	.price-was {
-		font-size: 0.8rem;
-		color: var(--text-muted);
-		text-decoration: line-through;
-		font-weight: 400;
-	}
-	.price-now {
-		font-size: 1.25rem;
-		font-weight: 800;
-		color: var(--text-primary);
-		letter-spacing: -0.02em;
-	}
-	.price-now.is-free { color: var(--free-text); font-family: var(--font-body); letter-spacing: 0; }
-	.via-store {
-		font-size: 0.72rem;
-		color: var(--text-muted);
-		font-weight: 500;
-	}
-
-	/* ── Urgency badge ────────────────────────────────────── */
-	.urgency-badge {
-		display: inline-block;
-		font-size: 0.7rem;
-		font-weight: 700;
-		color: #c0392b;
-		background: rgba(192, 57, 43, 0.08);
-		border: 1px solid rgba(192, 57, 43, 0.2);
-		padding: 0.18em 0.5em;
-		border-radius: 3px;
-		letter-spacing: 0.02em;
-	}
-
-	/* ── Badges ───────────────────────────────────────────── */
-	.bdg-discount {
-		position: absolute;
-		top: 0.5rem; right: 0.5rem;
-		background: var(--sale-bg);
-		color: var(--sale-text);
-		font-size: 0.62rem; font-weight: 800;
-		padding: 0.22em 0.5em;
-		border-radius: 2px;
-		letter-spacing: 0.04em;
-	}
-	.bdg-new {
-		position: absolute;
-		top: 0.5rem; left: 0.5rem;
-		background: rgba(148, 211, 196, 0.12);
-		color: var(--accent);
-		font-size: 0.58rem; font-weight: 700;
-		padding: 0.2em 0.5em;
-		border-radius: 2px;
-		letter-spacing: 0.1em;
-		text-transform: uppercase;
-		font-family: var(--font-body);
-	}
-	.bdg-free {
-		position: absolute;
-		top: 0.5rem; right: 0.5rem;
-		background: rgba(76, 175, 80, 0.15);
-		color: #2e7d32;
-		font-size: 0.62rem; font-weight: 800;
-		padding: 0.22em 0.5em;
-		border-radius: 2px;
-		letter-spacing: 0.04em;
-	}
-
-	/* ── Deal Cards ───────────────────────────────────────── */
-	.deal-grid { display: grid; gap: 1rem; }
-	.deal-grid--4 { grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); }
-	.deal-grid--3 { grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
-
-	.deal-card {
-		display: flex; flex-direction: column;
-		background: var(--bg-card);
-		border: 1px solid var(--border);
-		border-radius: var(--radius);
-		overflow: hidden;
-		text-decoration: none;
-		box-shadow: var(--box-shadow);
-		transition: border-color 0.15s, background 0.2s;
-	}
-	.deal-card:hover {
-		border-color: var(--accent-border-hover);
-		background: var(--bg-card-hover);
-	}
-	.deal-card--free { border-color: rgba(76, 175, 80, 0.2); }
-	.deal-card--free:hover { border-color: rgba(76, 175, 80, 0.5); }
-
-	.card-img-wrap { position: relative; overflow: hidden; }
-	.card-img-wrap img {
-		width: 100%; height: 160px;
-		object-fit: cover; display: block;
-		transition: transform 0.3s ease;
-	}
-	.deal-card:hover .card-img-wrap img { transform: scale(1.04); }
-
-	.card-body {
-		padding: 0.875rem 1rem 1rem;
-		flex: 1;
-		display: flex; flex-direction: column; gap: 0.4rem;
-	}
-	.card-title {
-		color: var(--text-primary);
-		font-size: 0.9rem;
-		font-weight: 700;
-		line-height: 1.4;
-		margin: 0;
-	}
-	.card-foot {
-		display: flex; align-items: center;
-		justify-content: space-between;
-		margin-top: auto; padding-top: 0.5rem;
-	}
-	.card-cta {
-		font-size: 0.72rem; font-weight: 600;
-		color: var(--accent);
-		transition: color 0.15s;
-		white-space: nowrap;
-	}
-	.deal-card:hover .card-cta { color: var(--accent-light); }
-
-	/* ── See All ──────────────────────────────────────────── */
-	.see-all { text-align: center; margin-top: 1.75rem; }
-	.see-all a {
-		display: inline-block;
-		padding: 0.65rem 1.75rem;
-		border: 1.5px solid var(--border);
-		border-radius: var(--radius-sm);
-		color: var(--text-secondary); font-weight: 600; font-size: 0.875rem;
-		transition: border-color 0.15s, color 0.15s, background 0.15s;
-	}
-	.see-all a:hover {
-		border-color: var(--accent);
-		color: var(--accent-dark);
-		background: var(--tag-bg);
-	}
-
-	/* ── Disclosure ───────────────────────────────────────── */
-	/* ── Responsive ───────────────────────────────────────── */
-	@media (max-width: 720px) {
-		.hero-headline { font-size: 2rem; }
-		.home-desk { grid-template-columns: 1fr; }
-		.editors-picks-panel .deal-grid--4 { grid-template-columns: repeat(2, 1fr); }
-		.deal-grid--4 { grid-template-columns: repeat(2, 1fr); }
-		.deal-grid--3 { grid-template-columns: repeat(2, 1fr); }
-	}
-	@media (max-width: 480px) {
-		.hero-headline { font-size: 1.75rem; }
-		.editors-picks-panel .deal-grid--4 { grid-template-columns: 1fr; }
-		.deal-grid--4 { grid-template-columns: 1fr; }
-		.deal-grid--3 { grid-template-columns: 1fr; }
-	}
-	/* ── Guide Strip ──────────────────────────────────────── */
-	.section--guides {
-		padding-top: 2rem;
-		border-top: 1px solid var(--border);
-	}
-	.guide-strip {
-		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-		gap: 0.5rem;
-	}
-	.gcard {
-		display: flex;
-		flex-direction: column;
-		gap: 0.3rem;
-		padding: 0.75rem;
-		border: 1px solid var(--border);
-		border-radius: var(--radius-sm);
-		background: var(--bg-card);
-		text-decoration: none;
-		color: inherit;
-		transition: border-color 0.15s;
-	}
-	.gcard:hover { border-color: var(--accent); }
-	.gc-title { font-size: 0.78rem; font-weight: 600; line-height: 1.3; color: var(--text-primary); }
-
 </style>
