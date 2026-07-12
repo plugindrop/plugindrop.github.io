@@ -41,6 +41,10 @@ const today = new Date();
 			</div>
 		</div>
 		<div class="footer-legal">
+			<p class="footer-editorial">
+				PluginDrop is run by an independent producer. Prices are checked by our own tracker,
+				not copied from press releases. <a href="/about">About</a>
+			</p>
 			<p>&copy; {today.getFullYear()} PluginDrop. Affiliate links may earn us a commission.</p>
 		</div>
 	</div>
@@ -133,5 +137,13 @@ const today = new Date();
 		color: var(--text-muted);
 		font-size: 0.75rem;
 		margin: 0;
+	}
+	.footer-editorial {
+		margin-bottom: 0.4rem !important;
+		max-width: 640px;
+	}
+	.footer-editorial a {
+		color: var(--text-muted);
+		text-decoration: underline;
 	}
 </style>

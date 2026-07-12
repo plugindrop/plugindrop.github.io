@@ -26,6 +26,15 @@
     />
     <button type="submit" class="nl-btn" id="nl-btn">Get Alerts</button>
   </form>
+  <fieldset class="nl-interests">
+    <legend class="nl-interests-legend">What are you into? (optional)</legend>
+    <label class="nl-interest"><input type="checkbox" name="interests" value="synth" /> Synths</label>
+    <label class="nl-interest"><input type="checkbox" name="interests" value="guitar-bass" /> Guitar &amp; Bass</label>
+    <label class="nl-interest"><input type="checkbox" name="interests" value="drums" /> Drums</label>
+    <label class="nl-interest"><input type="checkbox" name="interests" value="vocals" /> Vocals</label>
+    <label class="nl-interest"><input type="checkbox" name="interests" value="orchestral" /> Orchestral</label>
+    <label class="nl-interest"><input type="checkbox" name="interests" value="mixing" /> Mixing &amp; Mastering</label>
+  </fieldset>
   <p class="nl-msg" id="nl-msg" aria-live="polite"></p>
   <p class="nl-fine">No spam. Unsubscribe anytime.</p>
 </div>
@@ -40,6 +49,10 @@
     const email = (document.getElementById("nl-email") as HTMLInputElement)?.value?.trim();
     if (!email) return;
 
+    const interests = Array.from(
+      document.querySelectorAll<HTMLInputElement>('.nl-interest input[name="interests"]:checked')
+    ).map((el) => el.value);
+
     if (btn) btn.disabled = true;
     if (msg) { msg.textContent = "Subscribing…"; msg.className = "nl-msg"; }
 
@@ -48,7 +61,7 @@
       const res = await fetch(SUBSCRIBE_URL, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email }),
+        body: JSON.stringify({ email, interests }),
       });
       const data = await res.json();
       if (data.success) {
@@ -149,6 +162,37 @@
   }
   .nl-btn:hover { opacity: 0.85; }
   .nl-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+  .nl-interests {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.35rem 0.7rem;
+    width: 100%;
+    max-width: 420px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+  .nl-interests-legend {
+    width: 100%;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 0.2rem;
+    font-size: 0.72rem;
+    color: var(--text-muted, #666);
+  }
+  .nl-interest {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-size: 0.75rem;
+    color: var(--text-muted, #999);
+    cursor: pointer;
+  }
+  .nl-interest input {
+    accent-color: var(--accent, #7c3aed);
+    cursor: pointer;
+  }
   .nl-msg {
     margin: 0;
     font-size: 0.78rem;

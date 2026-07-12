@@ -243,6 +243,7 @@ const pageLD = {
       .search-input::placeholder { color: var(--text-muted); }
       .search-input:focus { outline: none; border-color: var(--accent-border-hover); }
       .search-count { font-size: 0.75rem; color: var(--text-muted); white-space: nowrap; }
+      .search-updated { font-size: 0.75rem; color: var(--text-muted); white-space: nowrap; }
 
       .chip-row { display: flex; flex-wrap: wrap; gap: 0.5rem; }
       .chip {
@@ -404,6 +405,7 @@ const pageLD = {
             autocomplete="off"
           />
           <span class="search-count" id="search-count">Showing {totalTracked} of {totalTracked}</span>
+          <span class="search-updated">Last updated {last_updated}</span>
         </div>
         <div class="chip-row" id="category-chips" role="group" aria-label="Filter by category">
           {CATEGORIES.map((cat) => (

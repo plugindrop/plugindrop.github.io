@@ -14,6 +14,8 @@ import {
   formatPrice,
   liveDropOf,
   pctOff,
+  latestCheckedDate,
+  formatCheckedDate,
 } from '../lib/priceUtils';
 
 const UTM = "utm_source=plugindrop&utm_medium=sidebar&utm_campaign=best-deals";
@@ -31,12 +33,14 @@ const allEntries: Record<string, PriceEntry> = {
 const liveDeals = Object.entries(allEntries)
   .map(([name, entry]) => {
     const live = liveDropOf(entry);
+    const checked = latestCheckedDate(entry);
     return {
       name,
       entry,
       current: live?.current ?? null,
       regular: live?.regular ?? null,
       off: live ? pctOff(live.current, live.regular) : 0,
+      checkedLabel: checked ? formatCheckedDate(checked) : null,
     };
   })
   .filter(d => d.off > 0 && d.current !== null && d.regular !== null)
@@ -51,13 +55,17 @@ let watchMode = false;
 if (liveDeals.length < 4) {
   watchMode = true;
   deals = Object.entries(allEntries)
-    .map(([name, entry]) => ({
-      name, entry,
-      current: entry.typical_sale,
-      regular: entry.typical_regular,
-      off: (entry.typical_sale !== null && entry.typical_regular !== null && entry.typical_sale < entry.typical_regular)
-        ? pctOff(entry.typical_sale, entry.typical_regular) : 0,
-    }))
+    .map(([name, entry]) => {
+      const checked = latestCheckedDate(entry);
+      return {
+        name, entry,
+        current: entry.typical_sale,
+        regular: entry.typical_regular,
+        off: (entry.typical_sale !== null && entry.typical_regular !== null && entry.typical_sale < entry.typical_regular)
+          ? pctOff(entry.typical_sale, entry.typical_regular) : 0,
+        checkedLabel: checked ? formatCheckedDate(checked) : null,
+      };
+    })
     .filter(d => d.off > 0 && d.current !== null && d.regular !== null)
     .sort((a, b) => b.off - a.off)
     .slice(0, 10);
@@ -75,10 +83,11 @@ const railTitle = watchMode ? 'Deals Worth Watching' : "Today's Best Plugin Deal
           <li class="deals-rail-item" data-pd={pdAttr({ title: d.name, extra: d.entry.category ?? '' })} hidden={i >= 5}>
             <a href={`/plugin-prices/${slugify(d.name)}/`} class="deals-rail-name">{d.name}</a>
             <div class="deals-rail-prices">
-              <span class="deals-rail-off">{watchMode ? 'typ. ' : ''}-{d.off}%</span>
-              <span class="deals-rail-reg">{formatPrice(d.regular)}</span>
+              <span class="deals-rail-off mono">{watchMode ? 'typ. ' : ''}-{d.off}%</span>
+              <span class="deals-rail-reg mono">{formatPrice(d.regular)}</span>
               <span class="deals-rail-cur mono">{formatPrice(d.current)}</span>
             </div>
+            {d.checkedLabel && <span class="deals-rail-checked">checked {d.checkedLabel}</span>}
             <a href={pbLink(d.entry.pb_url)} class="deals-rail-cta" target="_blank" rel="noopener sponsored">See deal →</a>
           </li>
         ))}
@@ -148,7 +157,7 @@ const railTitle = watchMode ? 'Deals Worth Watching' : "Today's Best Plugin Deal
     font-size: 0.68rem;
     font-weight: 700;
     color: #fff;
-    background: linear-gradient(135deg, #e63946 0%, #c1121f 100%);
+    background: #C1121F;
     border-radius: 3px;
     padding: 0.12rem 0.4rem;
   }
@@ -161,6 +170,12 @@ const railTitle = watchMode ? 'Deals Worth Watching' : "Today's Best Plugin Deal
     font-size: 0.92rem;
     font-weight: 800;
     color: var(--sale-text);
+  }
+  .deals-rail-checked {
+    display: block;
+    font-size: 0.66rem;
+    color: var(--text-muted);
+    margin-bottom: 0.4rem;
   }
   .deals-rail-cta {
     display: block;

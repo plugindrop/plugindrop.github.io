@@ -517,6 +517,20 @@ hr {
 	}
 }
 
+/* ── D3: tabular numerals for every price / percentage display ──
+   Broad selector on purpose — catches price/discount classes across
+   components (index, TopDeals, plugin-prices, BlogPost) that render numbers
+   with the proportional body font instead of the .mono utility. */
+[class*="price"],
+[class*="-off"],
+[class*="off-badge"],
+[class*="discount"],
+[class*="deal-save-badge"],
+.stat-value,
+.countdown-num {
+	font-variant-numeric: tabular-nums;
+}
+
 /* Focus styles (WCAG 2.4.7) */
 a:focus-visible,
 button:focus-visible,

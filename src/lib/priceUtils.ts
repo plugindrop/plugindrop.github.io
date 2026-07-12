@@ -88,6 +88,24 @@ export function liveDropOf(
   return { current, regular };
 }
 
+// Latest date we actually scraped this entry (source === 'auto_check'), for
+// provenance display ("checked Jul 12"). Not gated by freshness — unlike
+// liveDropOf, this isn't claiming a live discount, just when we last looked.
+// Returns null when we've never auto-checked this entry.
+export function latestCheckedDate(entry: PriceEntry): Date | null {
+  const obs = entry.history
+    .filter((h) => h.source === 'auto_check')
+    .sort((a, b) => (a.date < b.date ? -1 : 1));
+  const latest = obs.at(-1);
+  return latest ? new Date(`${latest.date}T00:00:00Z`) : null;
+}
+
+// Formats a provenance date as "Jul 12" (no year — always recent/current year
+// in context, matches the short-date convention used elsewhere on the site).
+export function formatCheckedDate(d: Date): string {
+  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' });
+}
+
 export function pctOff(current: number | null, regular: number | null): number {
   if (current === null || regular === null || regular <= 0 || current >= regular) return 0;
   return Math.round((1 - current / regular) * 100);

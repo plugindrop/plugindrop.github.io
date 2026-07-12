@@ -6,6 +6,7 @@ import { SITE_TITLE } from '../../consts';
 import priceData from '../../data/price_history.json';
 import { pdAttr } from '../../lib/interestTaxonomy.mjs';
 import productVideosRaw from '../../data/product_videos.json';
+import { latestCheckedDate, formatCheckedDate } from '../../lib/priceUtils';
 
 const AFF = "a_aid=69cb95abe1763";
 const pbLink = (path: string | null | undefined) =>
@@ -131,6 +132,10 @@ function findLowestDate(e: EntryData): string | null {
   return match ? match.date : null;
 }
 const lowestDate = findLowestDate(entry);
+
+// --- Provenance: when we actually last scraped this product (D4) --------
+const checkedDate = latestCheckedDate(entry);
+const checkedLabel = checkedDate ? `Last checked: ${formatCheckedDate(checkedDate)}` : 'Tracking since 2026 — no scrape yet';
 
 // --- Price history chart ---------------------------------------------------
 // Real price-tracker data (Keepa/SteamDB) is a dense daily series. Ours is not:
@@ -378,10 +383,21 @@ const productLD: Record<string, unknown> = {
   "name": name,
   "category": category,
 };
-if (current !== null && entry.pb_url) {
+// Offer schema は「7日以内の実測観測」がある場合のみ出す。typical値を
+// Google に「現在の販売価格」として渡さない（Live Drops と同じ鮮度規律）。
+const freshObs = (() => {
+  const obs = entry.history
+    .filter((h) => h.source === 'auto_check' && (h.sale ?? h.regular) !== null)
+    .sort((a, b) => (a.date < b.date ? -1 : 1))
+    .at(-1);
+  if (!obs) return null;
+  const age = Date.now() - new Date(`${obs.date}T00:00:00Z`).getTime();
+  return age >= 0 && age <= 7 * 86400000 ? (obs.sale ?? obs.regular) : null;
+})();
+if (freshObs !== null && entry.pb_url) {
   productLD.offers = {
     "@type": "Offer",
-    "price": current,
+    "price": freshObs,
     "priceCurrency": "USD",
     "url": pbLink(entry.pb_url),
     "availability": "https://schema.org/InStock",
@@ -631,10 +647,9 @@ const faqLD = {
           )}
           {onSale && off > 0 && <span class="off-badge">-{off}%</span>}
         </div>
-        <p class="last-checked">Last checked: {data.last_updated}</p>
+        <p class="last-checked">{checkedLabel}</p>
 
         <div class="verdict-box">
-          <span class="verdict-icon">📊</span>
           <div>
             <p class="verdict-label">Market verdict</p>
             <p class="verdict-text">{verdict}</p>

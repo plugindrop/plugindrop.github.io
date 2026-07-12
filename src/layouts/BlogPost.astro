@@ -370,13 +370,17 @@ const featuredDeals = isEvergreen ? allPosts
 				margin: 0 auto;
 			}
 			.prose {
-				width: 720px;
+				width: 70ch;
 				max-width: calc(100% - 2rem);
 				margin: 0 auto;
 				padding: 1rem 1rem 3rem;
 				color: var(--text-secondary);
-				flex: 1 1 720px;
+				line-height: 1.7;
+				flex: 1 1 70ch;
 				min-width: 0;
+			}
+			.prose :global(h2) {
+				margin-top: 2.5rem;
 			}
 			.content-layout :global(.deals-rail) {
 				flex: 0 0 260px;
@@ -573,13 +577,13 @@ const featuredDeals = isEvergreen ? allPosts
 				text-transform: uppercase;
 				letter-spacing: 0.06em;
 				color: #fff;
-				background: linear-gradient(135deg, #e63946 0%, #c1121f 100%);
+				background: #C1121F;
 				border-radius: 3px;
 				padding: 0.2rem 0.45rem;
 				vertical-align: middle;
 			}
 			.on-sale-banner {
-				background: linear-gradient(135deg, #e63946 0%, #c1121f 100%);
+				background: #C1121F;
 				color: #fff;
 				padding: 0.75rem 1rem;
 				border-radius: 6px;
@@ -878,7 +882,7 @@ const featuredDeals = isEvergreen ? allPosts
 						<div class={`deal-cta-box${saleExpired ? ' sale-expired' : ''}`}>
 							{saleExpired ? (
 								<>
-									<div class="deal-expired-notice">⚠️ This sale has ended — check current price below</div>
+									<div class="deal-expired-notice">This sale has ended — check current price below</div>
 									{dealSource && <div class="deal-source">Available via {dealSource}</div>}
 									<a href={affiliate} class="deal-cta-btn is-expired" target="_blank" rel="noopener noreferrer nofollow">
 										View Current Price →
@@ -909,7 +913,7 @@ const featuredDeals = isEvergreen ? allPosts
 											{_displayDiscount && (
 												<span class={`deal-save-badge${_isFreePrice ? ' is-free' : ''}`}>{_displayDiscount}</span>
 											)}
-											{allTimeLow && <span class="atl-badge">⭐ Lowest price we’ve tracked</span>}
+											{allTimeLow && <span class="atl-badge">Lowest price we’ve tracked</span>}
 										</div>
 									)}
 									{dealSource && <div class="deal-source">Available via {dealSource}</div>}
@@ -924,7 +928,7 @@ const featuredDeals = isEvergreen ? allPosts
 					<!-- ON SALE NOW banner for when-does articles -->
 					{onSaleNow && (
 						<div class="on-sale-banner">
-							🔥 <strong>It's ON SALE right now</strong> — Current pricing and deal links are below.
+							<strong>It's on sale right now</strong> — Current pricing and deal links are below.
 						</div>
 					)}
 
@@ -948,7 +952,7 @@ const featuredDeals = isEvergreen ? allPosts
 
 					{isEvergreen && featuredDeals.length > 0 && (
 						<div class="pb-deals-box">
-							<div class="pb-deals-header">🔥 This Week's Top Deals on Plugin Boutique</div>
+							<div class="pb-deals-header">This week's top deals on Plugin Boutique</div>
 							<ul class="pb-deals-list">
 								{featuredDeals.map(deal => (
 									<li class="pb-deal-item">
@@ -1004,7 +1008,7 @@ const featuredDeals = isEvergreen ? allPosts
 			</div>
 		) : (
 			<div class="sticky-cta sticky-cta-guide" id="sticky-cta">
-				<span class="sticky-title">🔥 Today's plugin deals — up to 90% off</span>
+				<span class="sticky-title">Today's plugin deals — up to 90% off</span>
 				<a href="https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=sticky&utm_campaign=guide-cta" class="deal-cta-btn sticky-cta-link" target="_blank" rel="noopener noreferrer nofollow">
 					Browse Deals →
 				</a>

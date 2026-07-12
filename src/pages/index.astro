@@ -13,6 +13,8 @@ import {
 	formatPrice,
 	liveDropOf,
 	pctOff,
+	latestCheckedDate,
+	formatCheckedDate,
 } from '../lib/priceUtils';
 
 // --- Price-intelligence hero data (NW-D) -----------------------------------
@@ -33,11 +35,13 @@ const demoVideoCount = Object.keys(productVideosRaw as Record<string, unknown>).
 const liveDrops = Object.entries(trackerEntries)
 	.map(([name, entry]) => {
 		const live = liveDropOf(entry);
+		const checked = latestCheckedDate(entry);
 		return {
 			name,
 			current: live?.current ?? null,
 			regular: live?.regular ?? null,
 			off: live ? pctOff(live.current, live.regular) : 0,
+			checkedLabel: checked ? formatCheckedDate(checked) : null,
 		};
 	})
 	.filter((d) => d.off > 0 && d.current !== null && d.regular !== null)
@@ -218,10 +222,10 @@ const freeDeals = allPosts
 			{liveDrops.length > 0 && (
 				<section class="section">
 					<header class="section-hd">
-						<span class="section-label">📉 Live Price Drops</span>
+						<span class="section-label">Live price drops</span>
 						<a href="/plugin-prices/" class="section-more">All tracked prices &rarr;</a>
 					</header>
-					<p class="drops-sub">From our daily price checks &mdash; observed prices, not marketing claims.</p>
+					<p class="drops-sub">From our daily price checks &middot; <a href="/how-we-track-prices/">how we track</a></p>
 					<div class="drop-grid">
 						{liveDrops.map((d) => (
 							<a href={`/plugin-prices/${slugify(d.name)}/`} class="drop-card" data-pd={pdAttr({ title: d.name })}>
@@ -231,7 +235,10 @@ const freeDeals = allPosts
 									<s class="drop-was">{formatPrice(d.regular)}</s>
 									<strong class="drop-now">{formatPrice(d.current)}</strong>
 								</span>
-								<span class="drop-cta">Price history &rarr;</span>
+								<span class="drop-foot">
+									<span class="drop-cta">Price history &rarr;</span>
+									{d.checkedLabel && <span class="drop-checked">checked {d.checkedLabel}</span>}
+								</span>
 							</a>
 						))}
 					</div>
@@ -242,7 +249,7 @@ const freeDeals = allPosts
 			{topDeals.length > 0 && (
 				<section class="section">
 					<header class="section-hd">
-						<span class="section-label">Editor&apos;s Picks</span>
+						<span class="section-label">Editor&apos;s picks</span>
 						<a href="/posts" class="section-more">See all deals &rarr;</a>
 					</header>
 					<div class="deal-grid deal-grid--4">
@@ -268,7 +275,7 @@ const freeDeals = allPosts
 											</div>
 										)}
 										{days !== null && days <= 3 && (
-											<span class="urgency-badge">⏰ {days === 1 ? 'Last day!' : `${days} days left`}</span>
+											<span class="urgency-badge">{days === 1 ? 'Last day!' : `${days} days left`}</span>
 										)}
 										<div class="card-foot">
 											{post.data.affiliate && <span class="via-store">{getStoreName(post.data.affiliate)}</span>}
@@ -286,7 +293,7 @@ const freeDeals = allPosts
 			{recentDeals.length > 0 && (
 				<section class="section">
 					<header class="section-hd">
-						<span class="section-label">Recent Deals</span>
+						<span class="section-label">Recent deals</span>
 						<a href="/posts" class="section-more">See all &rarr;</a>
 					</header>
 					<div class="deal-grid deal-grid--3">
@@ -314,7 +321,7 @@ const freeDeals = allPosts
 											</div>
 										)}
 										{days !== null && days <= 3 && (
-											<span class="urgency-badge">⏰ {days === 1 ? 'Last day!' : `${days} days left`}</span>
+											<span class="urgency-badge">{days === 1 ? 'Last day!' : `${days} days left`}</span>
 										)}
 										<div class="card-foot">
 											{post.data.affiliate && <span class="via-store">{getStoreName(post.data.affiliate)}</span>}
@@ -335,7 +342,7 @@ const freeDeals = allPosts
 			{freeDeals.length > 0 && (
 				<section class="section section--free">
 					<header class="section-hd">
-						<span class="section-label section-label--free">Free Downloads</span>
+						<span class="section-label section-label--free">Free downloads</span>
 					</header>
 					<div class="deal-grid deal-grid--3">
 						{freeDeals.map(post => (
@@ -366,7 +373,7 @@ const freeDeals = allPosts
 			<!-- ── Brand Hubs ─────────────────────────── -->
 			<section class="section section--brands">
 				<header class="section-hd">
-					<span class="section-label">🏷 Price Trackers by Brand</span>
+					<span class="section-label">Price trackers by brand</span>
 					<a href="/brands/" class="section-more">All brands &rarr;</a>
 				</header>
 				<div class="brand-chip-row">
@@ -378,32 +385,26 @@ const freeDeals = allPosts
 
 			<section class="section section--guides">
 				<div class="section-hd">
-					<span class="section-label">📖 Production Guides</span>
+					<span class="section-label">Production guides</span>
 					<a href="/free/" class="see-all">All guides →</a>
 				</div>
 				<div class="guide-strip">
 					<a href="/posts/best-free-synth-plugins/" class="gcard">
-						<span class="gc-emoji">🎹</span>
 						<span class="gc-title">14 Best Free Synths 2026</span>
 					</a>
 					<a href="/posts/best-free-reverb-vst-plugins/" class="gcard">
-						<span class="gc-emoji">🌊</span>
 						<span class="gc-title">Best Free Reverb 2026</span>
 					</a>
 					<a href="/posts/vital-synthesizer-review-2026/" class="gcard">
-						<span class="gc-emoji">⚡</span>
 						<span class="gc-title">Vital Synth Review</span>
 					</a>
 					<a href="/posts/serum-vst-review/" class="gcard">
-						<span class="gc-emoji">🔊</span>
 						<span class="gc-title">Is Serum Worth It?</span>
 					</a>
 					<a href="/posts/best-free-vst-plugins-beginners/" class="gcard">
-						<span class="gc-emoji">🎛️</span>
 						<span class="gc-title">Free Plugins for Beginners</span>
 					</a>
 					<a href="/posts/best-free-eq-vst-plugins/" class="gcard">
-						<span class="gc-emoji">🎚️</span>
 						<span class="gc-title">Best Free EQ Plugins</span>
 					</a>
 				</div>
@@ -498,13 +499,15 @@ const freeDeals = allPosts
 		font-size: 0.7rem;
 		font-weight: 700;
 		color: #fff;
-		background: linear-gradient(135deg, #e63946 0%, #c1121f 100%);
+		background: #C1121F;
 		border-radius: 3px;
 		padding: 0.1rem 0.4rem;
 	}
 	.drop-was { font-size: 0.8rem; color: var(--text-muted); }
 	.drop-now { font-size: 0.95rem; font-weight: 800; color: var(--sale-text); }
+	.drop-foot { display: flex; align-items: baseline; justify-content: space-between; gap: 0.5rem; }
 	.drop-cta { font-size: 0.75rem; color: var(--accent-light); }
+	.drop-checked { font-size: 0.68rem; color: var(--text-muted); white-space: nowrap; }
 
 	/* ── Brand chips ── */
 	.section--brands { padding-top: 1.6rem; border-top: 1px solid var(--border); }

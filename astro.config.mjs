@@ -9,6 +9,12 @@ import rehypeProductLinks from './src/lib/rehypeProductLinks.mjs';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://plugindrop.net',
+	// 製品キーのリネームでスラッグが変わった価格ページの旧URL → 新URL。
+	// (2026-07-12: PBのIntro/Pro分割に合わせArturia 2製品をPro明示にリネーム)
+	redirects: {
+		'/plugin-prices/arturia-v-collection-11/': '/plugin-prices/arturia-v-collection-11-pro/',
+		'/plugin-prices/arturia-fx-collection-6/': '/plugin-prices/arturia-fx-collection-6-pro/',
+	},
 	integrations: [mdx(), sitemap({
 		serialize(item) {
 			// トップページ・記事一覧は高優先度

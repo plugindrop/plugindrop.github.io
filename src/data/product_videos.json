@@ -20,12 +20,47 @@
     "score": 7,
     "source": "article_embed"
   },
+  "Arturia V Collection 11 Pro": {
+    "video_id": "qs_25euEj9k",
+    "title": "Arturia V collection 11 Pro first impressions",
+    "channel": "Chris Mick Studentsmusic",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
+  "Baby Audio Crystalline": {
+    "video_id": "FquRvVSInZc",
+    "title": "Crystalline - Baby Audio - Official Tutorial",
+    "channel": "Baby Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Baby Audio Spaced Out": {
+    "video_id": "wlzd9Ya9JX0",
+    "title": "A Modern Space Echo Plugin - Spaced Out by Baby Audio",
+    "channel": "Baby Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Cableguys ShaperBox 3": {
     "video_id": "SCPWwVZD1XE",
     "title": "25 Ways To Use Cableguys ShaperBox 3 (No Talking)",
     "channel": "Cableguys",
     "score": 8,
     "source": "article_embed"
+  },
+  "Cherry Audio GX-80": {
+    "video_id": "5h-oki0UOFg",
+    "title": "GX-80 | Cherry Audio",
+    "channel": "Cherry Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Eventide Blackhole": {
+    "video_id": "_r4P47EkDOs",
+    "title": "Eventide Blackhole Reverb Pedal - Synth Presets Demo",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
   },
   "Eventide SP2016 Reverb": {
     "video_id": "HM7Bw9c7vWA",
@@ -47,6 +82,13 @@
     "channel": "FabFilter",
     "score": 11,
     "source": "article_embed"
+  },
+  "FabFilter Pro-G": {
+    "video_id": "ZtV3s6i-p4Y",
+    "title": "Introduction to FabFilter Pro-G Expander / Gate",
+    "channel": "FabFilter",
+    "score": 11,
+    "source": "yt_api_fill"
   },
   "FabFilter Pro-L 2": {
     "video_id": "oMJeWXtJODc",
@@ -90,6 +132,20 @@
     "score": 8,
     "source": "article_embed"
   },
+  "FabFilter Twin 3": {
+    "video_id": "-76_s1f3Mw4",
+    "title": "Introduction to FabFilter Twin 3",
+    "channel": "FabFilter",
+    "score": 13,
+    "source": "yt_api_fill"
+  },
+  "FabFilter Volcano 3": {
+    "video_id": "a94R5T4dSsM",
+    "title": "Introduction to FabFilter Volcano 3",
+    "channel": "FabFilter",
+    "score": 13,
+    "source": "yt_api_fill"
+  },
   "Heavyocity Damage 2": {
     "video_id": "3J8vV21bj6E",
     "title": "The Beat Of Your Own Drum - Heavyocity Damage 2 Demo",
@@ -103,6 +159,13 @@
     "channel": "Kilohearts",
     "score": 10,
     "source": "article_embed"
+  },
+  "Kilohearts Phase Plant": {
+    "video_id": "yLnIUf63P-8",
+    "title": "Kilohearts Phase Plant Demo Song by Nasko",
+    "channel": "Kilohearts",
+    "score": 12,
+    "source": "yt_api_fill"
   },
   "Native Instruments FM8": {
     "video_id": "lx_L9dPIa78",
@@ -139,6 +202,13 @@
     "score": 10,
     "source": "article_embed"
   },
+  "Native Instruments Reaktor 6": {
+    "video_id": "YwlzB5AG_D0",
+    "title": "Introducing Reaktor 6 | Native Instruments",
+    "channel": "Native Instruments",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Native Instruments Strummed Acoustic 2": {
     "video_id": "_ng0b_uJJho",
     "title": "STRUMMED ACOUSTIC 2 - Separate Bass Feature | Native Instruments",
@@ -152,6 +222,27 @@
     "channel": "Output",
     "score": 10,
     "source": "article_embed"
+  },
+  "Serum 2": {
+    "video_id": "3gjqON4gTQU",
+    "title": "Dubstep Serum 2 Presets Demo",
+    "channel": "AYJINPLATES",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Softube Tape": {
+    "video_id": "X_ozhR7It2c",
+    "title": "The Sound of Tape Saturation – Softube",
+    "channel": "SoftubeStudios",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Sonible smart:EQ 4": {
+    "video_id": "cPD0s70HOT0",
+    "title": "smart:EQ 4 by sonible | the intelligent equalizer",
+    "channel": "sonible",
+    "score": 10,
+    "source": "yt_api_fill"
   },
   "Sonible smart:limit": {
     "video_id": "BwN005pDyFA",
@@ -174,6 +265,55 @@
     "score": 11,
     "source": "article_embed"
   },
+  "Spectrasonics Omnisphere": {
+    "video_id": "UDqyskj-VbQ",
+    "title": "Spectrasonics Omnisphere 3 with Eric Persing - Interview and Demo",
+    "channel": "sonicstate",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Synapse Audio Dune 3": {
+    "video_id": "7vRjtcjp99o",
+    "title": "Synapse Audio DUNE 3 | Presets Sound Demo",
+    "channel": "The Sonic Oasis",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Toontrack EZdrummer 3": {
+    "video_id": "xIfTgdTcY6I",
+    "title": "Toontrack EZdrummer 3 Bandmate - The Killer Feature",
+    "channel": "Production Expert",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
+  "Toontrack Superior Drummer 3": {
+    "video_id": "NyhjmCTtNic",
+    "title": "Full Review Toontrack Superior Drummer 3",
+    "channel": "LANTV",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
+  "UAD 1176 Classic Limiter Collection": {
+    "video_id": "XhDTreH0U54",
+    "title": "UA 1176 Classic Limiter Plug-In Collection | UAD Quick Tips",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Spark": {
+    "video_id": "NA6jK9DbwLI",
+    "title": "How to polish demo vocals with UAD Spark",
+    "channel": "Universal Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "UVI Falcon 3": {
+    "video_id": "kIMGFF0VskQ",
+    "title": "UVI Falcon 3 - First look Part 1 - Review & Presets",
+    "channel": "Mattias Holmgren",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Valhalla Delay": {
     "video_id": "1pDVayo9GWc",
     "title": "VALHALLA DELAY",
@@ -181,12 +321,33 @@
     "score": 11,
     "source": "article_embed"
   },
+  "Valhalla Room": {
+    "video_id": "p9iAQ1hmKm4",
+    "title": "Valhalla Room Stereo Algorithmic Reverb Plugin Overview",
+    "channel": "Noisebox Research",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Waves CLA-76": {
+    "video_id": "2mF7A3J6plU",
+    "title": "Waves CLA-76 Tutorial for Vocals | LV1 Plugin Demo",
+    "channel": "Drew Brashler",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Waves H-Delay": {
     "video_id": "A-EX-tTq0m8",
     "title": "Using Waves H-Delay in Electronic Music Production: Part 2 – Bass, Synths, Pads",
     "channel": "Waves Audio",
     "score": 11,
     "source": "article_embed"
+  },
+  "Waves Tune Real-Time": {
+    "video_id": "wEYV9FH91Vo",
+    "title": "Waves Tune Real-Time – Plugin Tutorial and Demo with Dave Darlington",
+    "channel": "Waves Audio",
+    "score": 12,
+    "source": "yt_api_fill"
   },
   "XLN Audio RC-20 Retro Color": {
     "video_id": "tba_KPAzDvk",
@@ -236,5 +397,75 @@
     "channel": "sonicstate",
     "score": 8,
     "source": "article_embed"
+  },
+  "reFX Nexus 5": {
+    "video_id": "lWtzrGcwETg",
+    "title": "refx Nexus 5 - new additional 1177 factory presets - walkthrough with Bartek",
+    "channel": "Vengeance-Sound",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "u-he ACE": {
+    "video_id": "1ScUqqTp5LM",
+    "title": "U-he ACE overview and Use",
+    "channel": "Music Marketing TV",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "u-he Bazille": {
+    "video_id": "nleGAfInHNs",
+    "title": "u-he Bazille Musikmesse Demo - Make a track in 2 minutes",
+    "channel": "u-he",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "u-he Colour Copy": {
+    "video_id": "DY-Hv2Cd2Qs",
+    "title": "u-he Colour Copy: Bucket Brigade Delay (Demo & Review)",
+    "channel": "Matt Huber",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "u-he Diva": {
+    "video_id": "u_wDX7EN9_g",
+    "title": "u-he Oxide - Preset Walkthrough (Soundset for Diva)",
+    "channel": "u-he",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "u-he Hive 2": {
+    "video_id": "53e9wOJdi6Y",
+    "title": "u-he Hive 2 — Presets Walkthrough | Fast & Clean Synth",
+    "channel": "Autodafe",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "u-he Presswerk": {
+    "video_id": "OwZqKc_j7qA",
+    "title": "u-he Presswerk Musikmesse Demo",
+    "channel": "u-he",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "u-he Repro": {
+    "video_id": "hjcsG9iXx7I",
+    "title": "U-HE REPRO DEMO - Orchestral Manoeuvres In The Dark",
+    "channel": "Woody Piano Shack",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "u-he Satin": {
+    "video_id": "jZ_06w0zTu8",
+    "title": "u-he Satin Basics, Part 1: Studio",
+    "channel": "u-he",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "u-he Zebra 3": {
+    "video_id": "iwakfaiRa3E",
+    "title": "u-he Zebra 3 - Powerful Synthesis And Sound Design - SonicLAB",
+    "channel": "sonicstate",
+    "score": 9,
+    "source": "yt_api_fill"
   }
 }
