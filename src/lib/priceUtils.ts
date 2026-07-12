@@ -172,3 +172,21 @@ export function dealScore(
   }
   return { label: 'Wait for a sale', cls: 'ds-wait' };
 }
+
+export function dealScoreNumeric(entry: PriceEntry): { score: number; verdict: 'good' | 'ok' | 'bad' | 'none' } {
+  const latest = entry.history.at(-1);
+  const current = latest ? (latest.sale ?? latest.regular) : null;
+  const hi = latest?.regular ?? entry.typical_regular;
+  const atl = entry.all_time_low;
+
+  if (current === null || hi === null || atl === null) {
+    return { score: 0, verdict: 'none' };
+  }
+
+  const score = hi <= atl
+    ? (current <= atl ? 100 : 0)
+    : Math.round(100 * Math.min(1, Math.max(0, (hi - current) / (hi - atl))));
+  const verdict = score >= 70 ? 'good' : score >= 40 ? 'ok' : 'bad';
+
+  return { score, verdict };
+}

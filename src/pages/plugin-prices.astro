@@ -4,6 +4,7 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_TITLE } from '../consts';
 import priceData from '../data/price_history.json';
+import { dealScoreNumeric } from '../lib/priceUtils';
 
 const AFF = "a_aid=69cb95abe1763";
 const pbLink = (path: string) =>
@@ -137,6 +138,7 @@ interface Row {
   regular: number | null;
   currentIsSale: boolean;
   off: number;
+  dealScore: ReturnType<typeof dealScoreNumeric>;
   pts: string | null;
   lowestDate: string | null;
   searchText: string;
@@ -155,6 +157,7 @@ function buildRow(name: string, bundle: BundleData, isBundleSection: boolean): R
     regular,
     currentIsSale: sale !== null,
     off: pctOff(sale, regular),
+    dealScore: dealScoreNumeric(bundle),
     pts: sparklinePoints(bundle.history),
     lowestDate: findLowestDate(bundle),
     searchText: `${name} ${bundle.notes ?? ''}`.toLowerCase(),
@@ -323,6 +326,18 @@ const pageLD = {
       }
       .off-none { color: var(--text-muted); }
 
+      .score-badge {
+        display: inline-block; min-width: 2.25rem; padding: 0.15rem 0.45rem;
+        border-radius: var(--radius-sm); text-align: center; font-weight: 700; font-size: 0.78rem;
+      }
+      .score-badge.good { background: var(--verdict-good); color: var(--bg-base); }
+      .score-badge.ok { background: var(--verdict-ok); color: var(--bg-base); }
+      .score-badge.bad { background: var(--verdict-bad); color: var(--text-primary); }
+      .score-none { color: var(--text-muted); }
+      .score-legend {
+        margin: 0.75rem 0; color: var(--text-muted); font-size: 0.7rem;
+      }
+
       .spark-svg { display: block; }
       .spark-placeholder { color: var(--text-muted); font-size: 0.85rem; }
 
@@ -420,6 +435,8 @@ const pageLD = {
         </div>
       </div>
 
+      <p class="score-legend mono">Deal Score: 100 = at all-time low · 0 = regular price. Green ≥70 · Amber ≥40 · Red &lt;40</p>
+
       <h2 id="individual" class="section-title">Individual Plugins</h2>
       <div class="ledger-wrap">
         <table class="ledger-table">
@@ -429,6 +446,7 @@ const pageLD = {
               <th data-sort="price">Current</th>
               <th>Regular</th>
               <th data-sort="off" data-dir="desc" class="sorted-desc">% Off</th>
+              <th data-sort="score">Score</th>
               <th>Trend</th>
               <th data-sort="low">Lowest Tracked</th>
               <th></th>
@@ -443,6 +461,7 @@ const pageLD = {
                 data-name={row.name.toLowerCase()}
                 data-price={row.current ?? ''}
                 data-off={row.off}
+                data-score={row.dealScore.verdict === 'none' ? '' : row.dealScore.score}
                 data-low={row.bundle.all_time_low ?? ''}
               >
                 <td>
@@ -469,6 +488,13 @@ const pageLD = {
                 </td>
                 <td>
                   {row.off > 0 ? <span class="off-badge">-{row.off}%</span> : <span class="off-none">—</span>}
+                </td>
+                <td class="mono">
+                  {row.dealScore.verdict === 'none' ? (
+                    <span class="score-none">—</span>
+                  ) : (
+                    <span class={`score-badge ${row.dealScore.verdict}`}>{row.dealScore.score}</span>
+                  )}
                 </td>
                 <td>
                   {row.pts ? (
@@ -516,7 +542,7 @@ const pageLD = {
               </tr>
             ))}
             <tr class="no-results-row" style="display: none;">
-              <td colspan="7">No plugins match — try another search or category.</td>
+              <td colspan="8">No plugins match — try another search or category.</td>
             </tr>
           </tbody>
         </table>
@@ -531,6 +557,7 @@ const pageLD = {
               <th data-sort="price">Current</th>
               <th>Regular</th>
               <th data-sort="off" data-dir="desc" class="sorted-desc">% Off</th>
+              <th data-sort="score">Score</th>
               <th>Trend</th>
               <th data-sort="low">Lowest Tracked</th>
               <th></th>
@@ -545,6 +572,7 @@ const pageLD = {
                 data-name={row.name.toLowerCase()}
                 data-price={row.current ?? ''}
                 data-off={row.off}
+                data-score={row.dealScore.verdict === 'none' ? '' : row.dealScore.score}
                 data-low={row.bundle.all_time_low ?? ''}
               >
                 <td>
@@ -571,6 +599,13 @@ const pageLD = {
                 </td>
                 <td>
                   {row.off > 0 ? <span class="off-badge">-{row.off}%</span> : <span class="off-none">—</span>}
+                </td>
+                <td class="mono">
+                  {row.dealScore.verdict === 'none' ? (
+                    <span class="score-none">—</span>
+                  ) : (
+                    <span class={`score-badge ${row.dealScore.verdict}`}>{row.dealScore.score}</span>
+                  )}
                 </td>
                 <td>
                   {row.pts ? (
@@ -618,7 +653,7 @@ const pageLD = {
               </tr>
             ))}
             <tr class="no-results-row" style="display: none;">
-              <td colspan="7">No plugins match — try another search or category.</td>
+              <td colspan="8">No plugins match — try another search or category.</td>
             </tr>
           </tbody>
         </table>
