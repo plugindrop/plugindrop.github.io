@@ -10,10 +10,12 @@ heroImage: "/images/spitfire-labs-free-sample-library.jpg"
 score: 1.68
 ---
 
-**TL;DR:** Spitfire Audio LABS — **80+ instruments, permanently free.** Soft Piano, Strings, Choir, Drums, and dozens more. This is from Spitfire Audio, whose paid libraries run $29 to $499+. LABS costs nothing, requires only a free Spitfire account. [Get it here](https://labs.spitfireaudio.com/).
+**TL;DR — If you only add one free instrument collection this year, make it Spitfire LABS.** Spitfire Audio LABS — **80+ instruments, permanently free.** Soft Piano, Strings, Choir, Drums, and dozens more. This is from Spitfire Audio, whose paid libraries run $29 to $499+. LABS costs nothing, requires only a free Spitfire account. [Get it here](https://labs.spitfireaudio.com/).
+
+*How we pick: this is based on Spitfire's published specs and community consensus (Reddit's r/WeAreTheMusicMakers, KVR) — no paid placement, and we earn nothing on LABS because it's free.*
 
 <div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Dssamz-3o2Q" title="Spitfire Audio LABS — Official Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin-bottom:1.5rem"></iframe>
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Dssamz-3o2Q" title="LABS Soft Piano — FREE Download!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin-bottom:1.5rem"></iframe>
 </div>
 
 ## What Is Spitfire Audio LABS?
@@ -40,6 +42,8 @@ LABS is one of the most widely recommended free instrument collections online. O
 - **Lo-fi and ambient producers** — Soft Piano and Felt Piano are staples of the lo-fi sound
 - **Beginners** — Quality sounds from day one without spending anything
 
+**Skip it if:** you need a full orchestral template with key-switch articulations — LABS gives you individual curated instruments, so BBC SO Discover (free) or a paid Spitfire library is the better fit.
+
 ## Pricing & Deal Details
 
 | | Regular Price | Deal Price | You Save |
@@ -47,6 +51,8 @@ LABS is one of the most widely recommended free instrument collections online. O
 | Spitfire LABS (80+ instruments) | ~~$29–$499~~ (comparable Spitfire libraries) | **FREE** | **100%** |
 
 LABS is permanently free. Requires a free Spitfire Audio account and the Spitfire app to download individual instruments. Each instrument downloads separately — install only what you need.
+
+**Skip it if:** you want a single all-in-one download or won't create a free Spitfire account — LABS requires the Spitfire app and pulls each instrument down separately.
 
 [Download Spitfire LABS — FREE](https://labs.spitfireaudio.com/)
 

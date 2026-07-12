@@ -411,6 +411,114 @@
           "regular": 199,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2024-12-12",
+          "regular": 179.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-01-05",
+          "regular": 179.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-02-02",
+          "regular": 179.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-03-18",
+          "regular": 179.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-04-17",
+          "regular": 179.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-05-12",
+          "regular": 179.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-06-15",
+          "regular": 179.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-07-08",
+          "regular": 179.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-08-08",
+          "regular": 179.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-09-11",
+          "regular": 179.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-10-05",
+          "regular": 49.0,
+          "sale": 7.99,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-11-07",
+          "regular": 199.0,
+          "sale": 49.99,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-12-12",
+          "regular": 599.98,
+          "sale": 99.99,
+          "source": "wayback"
+        },
+        {
+          "date": "2026-01-16",
+          "regular": 299.99,
+          "sale": 24.0,
+          "source": "wayback"
+        },
+        {
+          "date": "2026-02-08",
+          "regular": 49.0,
+          "sale": 7.99,
+          "source": "wayback"
+        },
+        {
+          "date": "2026-03-06",
+          "regular": 199.0,
+          "sale": 49.99,
+          "source": "wayback"
+        },
+        {
+          "date": "2026-04-12",
+          "regular": 129.0,
+          "sale": 99.0,
+          "source": "wayback"
+        },
+        {
+          "date": "2026-05-10",
+          "regular": 219.0,
+          "sale": 169.0,
+          "source": "wayback"
         }
       ],
       "category": "EQ"
