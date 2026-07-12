@@ -11,8 +11,7 @@ import {
 	type PriceEntry,
 	slugify,
 	formatPrice,
-	currentPriceOf,
-	regularPriceOf,
+	liveDropOf,
 	pctOff,
 } from '../lib/priceUtils';
 
@@ -33,9 +32,13 @@ const demoVideoCount = Object.keys(productVideosRaw as Record<string, unknown>).
 // same honesty rule as the TopDeals sidebar (never "typical" claims here).
 const liveDrops = Object.entries(trackerEntries)
 	.map(([name, entry]) => {
-		const current = currentPriceOf(entry);
-		const regular = regularPriceOf(entry);
-		return { name, current, regular, off: pctOff(current, regular) };
+		const live = liveDropOf(entry);
+		return {
+			name,
+			current: live?.current ?? null,
+			regular: live?.regular ?? null,
+			off: live ? pctOff(live.current, live.regular) : 0,
+		};
 	})
 	.filter((d) => d.off > 0 && d.current !== null && d.regular !== null)
 	.sort((a, b) => b.off - a.off)

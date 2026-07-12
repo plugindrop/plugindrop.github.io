@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12",
+  "last_updated": "2026-07-11",
   "bundles": {
     "FabFilter Total Bundle": {
       "pb_url": "/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle",
@@ -25,6 +25,12 @@
           "regular": 1176,
           "sale": null,
           "source": "live_check"
+        },
+        {
+          "date": "2026-05-17",
+          "regular": 1069,
+          "sale": null,
+          "source": "auto_check"
         }
       ],
       "category": "Bundle"
@@ -129,6 +135,50 @@
           "regular": 1319,
           "sale": null,
           "source": "live_check"
+        }
+      ],
+      "category": "Bundle"
+    },
+    "Arturia V Collection 11": {
+      "pb_url": "/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro",
+      "typical_regular": 769,
+      "typical_sale": 349,
+      "all_time_low": 295,
+      "notes": "Regular $699-$769. Typical sale 50% off = $349 (BF 2025, PB 14th Anniversary Feb 2026). ATL $295 at Thomann (Nov 2025).",
+      "history": [
+        {
+          "date": "2026-05-04",
+          "regular": 769,
+          "sale": null,
+          "source": "live_check"
+        },
+        {
+          "date": "2026-05-17",
+          "regular": 699,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ],
+      "category": "Bundle"
+    },
+    "Arturia FX Collection 6": {
+      "pb_url": "/product/81-Bundles/39-Effects-Bundles/16835-FX-Collection-6-PRO",
+      "typical_regular": 549,
+      "typical_sale": 274,
+      "all_time_low": null,
+      "notes": "Released Feb 2026. MSRP $499 at Arturia direct / $549 at PB. Arturia typically runs 50% off during BF/summer sales.",
+      "history": [
+        {
+          "date": "2026-05-04",
+          "regular": 549,
+          "sale": null,
+          "source": "live_check"
+        },
+        {
+          "date": "2026-05-17",
+          "regular": 499,
+          "sale": null,
+          "source": "auto_check"
         }
       ],
       "category": "Bundle"
@@ -346,38 +396,6 @@
           "source": "research"
         }
       ]
-    },
-    "Arturia V Collection 11 Pro": {
-      "pb_url": "/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro",
-      "typical_regular": 699,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Regular $699-$769. Typical sale 50% off = $349 (BF 2025, PB 14th Anniversary Feb 2026). ATL $295 at Thomann (Nov 2025). | 2026-07-12: PB現行はIntro/Pro二本立て。本エントリはPro版。旧標準版のresearch履歴は分離済み",
-      "history": [
-        {
-          "date": "2026-05-17",
-          "regular": 699,
-          "sale": null,
-          "source": "auto_check"
-        }
-      ],
-      "category": "Bundle"
-    },
-    "Arturia FX Collection 6 Pro": {
-      "pb_url": "/product/81-Bundles/39-Effects-Bundles/16835-FX-Collection-6-PRO",
-      "typical_regular": 499,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Released Feb 2026. MSRP $499 at Arturia direct / $549 at PB. Arturia typically runs 50% off during BF/summer sales. | 2026-07-12: PB現行はIntro/Pro二本立て。本エントリはPro版。旧標準版のresearch履歴は分離済み",
-      "history": [
-        {
-          "date": "2026-05-17",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check"
-        }
-      ],
-      "category": "Bundle"
     }
   },
   "plugins": {
@@ -411,114 +429,6 @@
           "regular": 199,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2024-12-12",
-          "regular": 179.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-01-05",
-          "regular": 179.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-02-02",
-          "regular": 179.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-18",
-          "regular": 179.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-04-17",
-          "regular": 179.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-05-12",
-          "regular": 179.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-06-15",
-          "regular": 179.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-07-08",
-          "regular": 179.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-08-08",
-          "regular": 179.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-09-11",
-          "regular": 179.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-10-05",
-          "regular": 49.0,
-          "sale": 7.99,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-11-07",
-          "regular": 199.0,
-          "sale": 49.99,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-12-12",
-          "regular": 599.98,
-          "sale": 99.99,
-          "source": "wayback"
-        },
-        {
-          "date": "2026-01-16",
-          "regular": 299.99,
-          "sale": 24.0,
-          "source": "wayback"
-        },
-        {
-          "date": "2026-02-08",
-          "regular": 49.0,
-          "sale": 7.99,
-          "source": "wayback"
-        },
-        {
-          "date": "2026-03-06",
-          "regular": 199.0,
-          "sale": 49.99,
-          "source": "wayback"
-        },
-        {
-          "date": "2026-04-12",
-          "regular": 129.0,
-          "sale": 99.0,
-          "source": "wayback"
-        },
-        {
-          "date": "2026-05-10",
-          "regular": 219.0,
-          "sale": 169.0,
-          "source": "wayback"
         }
       ],
       "category": "EQ"

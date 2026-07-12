@@ -67,6 +67,27 @@ export function regularPriceOf(entry: PriceEntry): number | null {
   return latest?.regular ?? entry.typical_regular ?? null;
 }
 
+// A "live" drop must be a RECENT scraped observation (auto_check within
+// maxAgeDays). Without this gate, stale months-old observations surfaced as
+// "Live Price Drops" (2026-07-12 incident: FabFilter Total Bundle showed a
+// May price that no longer existed on the store page).
+export function liveDropOf(
+  entry: PriceEntry,
+  maxAgeDays = 7,
+): { current: number; regular: number } | null {
+  const obs = [...entry.history]
+    .filter((h) => h.source === 'auto_check' && (h.sale ?? h.regular) !== null)
+    .sort((a, b) => (a.date < b.date ? -1 : 1));
+  const latest = obs.at(-1);
+  if (!latest) return null;
+  const ageMs = Date.now() - new Date(`${latest.date}T00:00:00Z`).getTime();
+  if (!(ageMs >= 0) || ageMs > maxAgeDays * 86400000) return null;
+  const current = latest.sale ?? latest.regular;
+  const regular = latest.regular ?? entry.typical_regular;
+  if (current === null || regular === null || current >= regular) return null;
+  return { current, regular };
+}
+
 export function pctOff(current: number | null, regular: number | null): number {
   if (current === null || regular === null || regular <= 0 || current >= regular) return 0;
   return Math.round((1 - current / regular) * 100);

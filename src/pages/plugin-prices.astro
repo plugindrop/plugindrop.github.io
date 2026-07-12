@@ -714,6 +714,74 @@ const pageLD = {
           });
         }
 
+        // P2: トラッカー初期フィルタ — URLに?q=が無く、pd_profile_v1/pd_session_v1
+        // の合成スコア最上位カテゴリが確定している（合計シグナル>=2）場合、対応する
+        // カテゴリチップを初期activeにしてapplyFilters()する。マッピングが無い
+        // カテゴリ（一致するものだけ）は何もしない。
+        (function personalizeInitialFilter() {
+          try {
+            if (!chipRow || !searchInput) return;
+            if (new URLSearchParams(window.location.search).get('q')) return;
+
+            // NW-H CATS（PersonalizationScript.astroと同一の10カテゴリ）
+            const CATS = ['synth', 'guitar-bass', 'drums', 'vocals', 'orchestral', 'mixing', 'effects', 'sampling', 'daw', 'free'];
+            // data-cat（トラッカーのチップ値）と一致するものだけをマッピング
+            const CAT_MAP = { synth: 'Synth', drums: 'Drums', vocals: 'Vocal', effects: 'Effects' };
+
+            function loadJSON(storage, key) {
+              try { return JSON.parse(storage.getItem(key)); } catch (e) { return null; }
+            }
+            const profileRaw = loadJSON(window.localStorage, 'pd_profile_v1');
+            const session = loadJSON(window.sessionStorage, 'pd_session_v1') || {};
+            const long = (profileRaw && profileRaw.long && typeof profileRaw.long === 'object') ? profileRaw.long : {};
+
+            let bestCat = '';
+            let bestScore = 0;
+            let total = 0;
+            CATS.forEach((cat) => {
+              const sess = (typeof session[cat] === 'number' && isFinite(session[cat])) ? session[cat] : 0;
+              const lng = (typeof long[cat] === 'number' && isFinite(long[cat])) ? long[cat] : 0;
+              const score = 2 * sess + lng;
+              total += sess + lng;
+              if (score > bestScore) { bestScore = score; bestCat = cat; }
+            });
+            if (total < 2 || !bestCat || !CAT_MAP[bestCat]) return;
+
+            const chipValue = CAT_MAP[bestCat];
+            const chip = Array.from(chipRow.querySelectorAll('.chip')).find(
+              (c) => (c.getAttribute('data-cat') || '') === chipValue
+            );
+            if (!chip) return;
+
+            chipRow.querySelectorAll('.chip').forEach((c) => c.classList.remove('active'));
+            chip.classList.add('active');
+            activeCategory = chipValue.toLowerCase();
+            applyFilters();
+
+            // "Sorted for you · reset" バッジ（PersonalizationScript.astroと同じ枠を流用）
+            const toolbar = chipRow.closest('.tracker-toolbar') || chipRow.parentElement;
+            if (toolbar && !toolbar.querySelector('.pd-badge')) {
+              const badge = document.createElement('span');
+              badge.className = 'pd-badge';
+              badge.style.cssText = 'font-size:.68rem;color:var(--text-muted);margin-left:.6rem;white-space:nowrap';
+              badge.innerHTML = 'Sorted for you · <a href="#" class="pd-reset-filter" style="color:inherit;text-decoration:underline">reset</a>';
+              toolbar.appendChild(badge);
+              const resetLink = badge.querySelector('.pd-reset-filter');
+              if (resetLink) {
+                resetLink.addEventListener('click', (e) => {
+                  e.preventDefault();
+                  chipRow.querySelectorAll('.chip').forEach((c) => c.classList.remove('active'));
+                  const allChip = chipRow.querySelector('.chip[data-cat="All"]');
+                  if (allChip) allChip.classList.add('active');
+                  activeCategory = 'all';
+                  applyFilters();
+                  badge.remove();
+                });
+              }
+            }
+          } catch (e) { /* noop */ }
+        })();
+
         // Column sorting: click a sortable header to toggle asc/desc.
         // Values missing (empty string, e.g. "—" prices) always sort last.
         function sortTable(table, key, dir) {

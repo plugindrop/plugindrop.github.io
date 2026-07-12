@@ -60,18 +60,75 @@
   for (var c in profile.long) profile.long[c] = Math.min(profile.long[c] * decay, CLAMP);
   profile.updated = now;
 
+  function addSignal(cat, weight) {
+    if (CATS.indexOf(cat) === -1) return;
+    profile.long[cat] = Math.min((profile.long[cat] || 0) + weight, CLAMP);
+    session[cat] = Math.min((typeof session[cat] === 'number' && isFinite(session[cat]) && session[cat] > 0 ? session[cat] : 0) + weight, CLAMP);
+  }
+
+  function persist() {
+    saveJSON(localStorage, LS_KEY, { long: profile.long, updated: new Date(Date.now()).toISOString() });
+    saveJSON(sessionStorage, SS_KEY, session);
+  }
+
   // このページの興味シグナルを加算
   var meta = document.querySelector('meta[name="pd-interests"]');
+  var pdCats = [];
   if (meta && meta.content) {
-    meta.content.split(',').forEach(function (cat) {
-      cat = cat.trim();
-      if (CATS.indexOf(cat) === -1) return;
-      profile.long[cat] = Math.min((profile.long[cat] || 0) + 1, CLAMP);
-      session[cat] = Math.min((typeof session[cat] === 'number' && isFinite(session[cat]) && session[cat] > 0 ? session[cat] : 0) + 1, CLAMP);
-    });
+    pdCats = meta.content.split(',').map(function (c) { return c.trim(); }).filter(function (c) { return CATS.indexOf(c) !== -1; });
   }
-  saveJSON(localStorage, LS_KEY, { long: profile.long, updated: new Date(now).toISOString() });
-  saveJSON(sessionStorage, SS_KEY, session);
+  pdCats.forEach(function (cat) { addSignal(cat, 1); });
+  persist();
+
+  // 再訪ボーナス（+5） — 同一パスの2回目以降の訪問。
+  // pd_seen_v1: 訪問済みパスのハッシュ配列（最大200件、超過時は追加しない単純実装）。
+  try {
+    var SEEN_KEY = 'pd_seen_v1';
+    var SEEN_MAX = 200;
+    var seenRaw = loadJSON(localStorage, SEEN_KEY);
+    var seen = Array.isArray(seenRaw) ? seenRaw : [];
+    var h = 0;
+    var path = location.pathname;
+    for (var pi = 0; pi < path.length; pi++) { h = ((h << 5) - h + path.charCodeAt(pi)) | 0; }
+    var pathHash = h.toString(36);
+    var isRevisit = seen.indexOf(pathHash) !== -1;
+    if (isRevisit) {
+      pdCats.forEach(function (cat) { addSignal(cat, 5); });
+      persist();
+    } else if (seen.length < SEEN_MAX) {
+      seen.push(pathHash);
+      saveJSON(localStorage, SEEN_KEY, seen);
+    }
+  } catch (e) { /* noop */ }
+
+  // アフィリエイト/外部リンククリック（+10） — このページのpd-interests
+  // メタ、無ければクリック要素の最も近い祖先[data-pd]のカテゴリへ加算。
+  document.addEventListener('click', function (ev) {
+    try {
+      var a = ev.target && ev.target.closest && ev.target.closest('a[href*="pluginboutique.com"], a[rel~="sponsored"]');
+      if (!a) return;
+      var cats = pdCats;
+      if (!cats.length) {
+        var host = a.closest('[data-pd]');
+        if (host) {
+          cats = host.getAttribute('data-pd').split(',').map(function (c) { return c.trim(); }).filter(function (c) { return CATS.indexOf(c) !== -1; });
+        }
+      }
+      if (!cats.length) return;
+      cats.forEach(function (cat) { addSignal(cat, 10); });
+      persist();
+    } catch (e) { /* noop */ }
+  }, { capture: true, passive: true });
+
+  // 滞在バケット（+2） — ページに60秒以上滞在。
+  if (pdCats.length) {
+    setTimeout(function () {
+      try {
+        pdCats.forEach(function (cat) { addSignal(cat, 2); });
+        persist();
+      } catch (e) { /* noop */ }
+    }, 60000);
+  }
 
   // 合成スコア（セッション意図を2倍重み）
   function scores() {
