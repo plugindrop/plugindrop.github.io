@@ -4,6 +4,7 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig } from 'astro/config';
 import rehypeExternalLinks from 'rehype-external-links';
+import rehypeProductLinks from './src/lib/rehypeProductLinks.mjs';
 
 // https://astro.build/config
 export default defineConfig({
@@ -28,6 +29,8 @@ export default defineConfig({
 	})],
 	markdown: {
 		rehypePlugins: [
+			// 内部リンク（追跡製品名→/plugin-prices/）を先に張り、後段で外部リンク属性を付与
+			rehypeProductLinks,
 			[rehypeExternalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] }],
 		],
 	},
