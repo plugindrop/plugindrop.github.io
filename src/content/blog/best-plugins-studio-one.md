@@ -26,7 +26,7 @@ priceTrack:
 | iZotope Neutron 4 | From $149 | AI-assisted mixing | [Official Site](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
 | TDR Nova | Free | Dynamics EQ on zero budget | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one) |
 | Valhalla Supermassive | Free | Lush ambient reverb & delay | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one) |
-| Slate Digital Fresh Air | Free | Instant high-freq enhancement | [Free Download](https://slate.audio/free-plugins/) |
+| Slate Digital Fresh Air | Free | Instant high-freq enhancement | [Free Download](https://slatedigital.com/free-plugins/) |
 
 ## Introduction
 
@@ -216,7 +216,7 @@ Slate Digital documents Fresh Air as a transient and high-frequency enhancement 
 
 **Best for:** Adding instant air and presence to any channel that sounds flat or buried in the mix.
 
-[→ Download Slate Digital Fresh Air Free](https://slate.audio/free-plugins/)
+[→ Download Slate Digital Fresh Air Free](https://slatedigital.com/free-plugins/)
 
 ---
 
@@ -293,7 +293,7 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 | Arturia Pigments 5 | ~$99–$199 | Hybrid Synth | 5 oscillator types, deep arpeggiator/sequencer | [Get it](https://www.arturia.com) |
 | u-he Tyrell N6 | Free | Analog Synth | Subtractive architecture, u-he filter quality | [Download](https://u-he.com) |
 | iZotope Ozone 12 | From ~$49 | Mastering | Master Assistant, full mastering chain in one plugin | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
-| Slate Digital Fresh Air | Free | Enhancer | Two-control high-freq enhancement, zero setup | [Download](https://slate.audio/free-plugins/) |
+| Slate Digital Fresh Air | Free | Enhancer | Two-control high-freq enhancement, zero setup | [Download](https://slatedigital.com/free-plugins/) |
 | Soundtoys 5 | $499 bundle | Creative FX | 20+ plugins, EchoBoy, Decapitator, Little AlterBoy | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
 | Kilohearts Snap Heap | Free/Paid | Modular FX | Snapin modular chain, macro control across effects | [Get it](https://kilohearts.com) |
 

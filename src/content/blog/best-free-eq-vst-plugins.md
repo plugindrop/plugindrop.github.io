@@ -99,7 +99,7 @@ Analog Obsession has earned a devoted following by releasing console-modeled plu
 
 **Skip it if:** you need clean, transparent correction. Baxter colors everything it touches, so for a surgical cut on a lead vocal or anything in a mastering chain it is the wrong tool — use TDR Nova or Marvel GEQ.
 
-[→ Download Baxter EQ Free](https://www.analog-obsession.com/) | [→ Get Baxter EQ on Plugin Boutique](https://www.pluginboutique.com/search?q=Baxter%20EQ&a_aid=69cb95abe1763)
+[→ Download Baxter EQ Free](https://analogobsession.com/) | [→ Get Baxter EQ on Plugin Boutique](https://www.pluginboutique.com/search?q=Baxter%20EQ&a_aid=69cb95abe1763)
 
 ---
 
@@ -177,7 +177,7 @@ LP10 is purpose-built for mastering and high-precision processing. It uses linea
 
 **Skip it if:** you want musical, minimum-phase mixing moves. LP10 is a clinical mastering tool; on individual channels its linear phase design just adds latency and pre-ringing you do not need there.
 
-[→ Download LP10 Free](https://lkjb.de/LP10) | [→ Get LP10 on Plugin Boutique](https://www.pluginboutique.com/search?q=LP10%20EQ%20plugin&a_aid=69cb95abe1763)
+[→ Download LP10 Free](https://ddmf.eu/lp10-linear-phase-equalizer-plugin/) | [→ Get LP10 on Plugin Boutique](https://www.pluginboutique.com/search?q=LP10%20EQ%20plugin&a_aid=69cb95abe1763)
 
 ---
 

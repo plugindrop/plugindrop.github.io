@@ -214,7 +214,7 @@ Charlatan is a straightforward two-oscillator virtual analog synth with polyphon
 
 **Best for:** Fast sessions, producers who want clean analog patches without menu-diving
 
-[→ Download Charlatan Free](https://www.blaukrautengineering.com/)
+[→ Download Charlatan Free](https://plugins4free.com/plugin/2285/)
 
 ---
 
@@ -341,7 +341,7 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 | Tyrell N6 | Free | Virtual Analog | u-he analog character, warm filter | [Plugin Boutique](https://www.pluginboutique.com/search?q=Tyrell%20N6&a_aid=69cb95abe1763) |
 | TAL-NoiseMaker | Free | Virtual Analog | 3 oscillators, onboard FX, easiest to learn | [Plugin Boutique](https://www.pluginboutique.com/search?q=TAL-NoiseMaker&a_aid=69cb95abe1763) |
 | Synth1 | Free | Virtual Analog | 100,000+ community presets, Nord-inspired | [Free Download](https://www.pluginboutique.com/search?q=Synth1&a_aid=69cb95abe1763) |
-| Charlatan | Free | Virtual Analog | Simple, stable, clean two-oscillator patches | [Developer](https://www.blaukrautengineering.com/) |
+| Charlatan | Free | Virtual Analog | Simple, stable, clean two-oscillator patches | [Developer](https://plugins4free.com/plugin/2285/) |
 | Podolski | Free | Virtual Analog | ZDF filter, ultra-low CPU, u-he quality | [Free Download](https://u-he.com/products/podolski/) |
 | Odin2 | Free | Multi-Synthesis | 6 oscillator modes, semi-modular, open source | [Free Download](https://www.pluginboutique.com/search?q=Odin2&a_aid=69cb95abe1763) |
 | Pendulate | Free | Chaos / Experimental | Double-pendulum oscillator, Eventide-backed | [Developer](https://www.newfangledaudio.com/pendulate) |

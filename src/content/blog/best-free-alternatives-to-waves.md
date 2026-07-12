@@ -77,7 +77,7 @@ The classic low-end trick — simultaneously boosting and cutting the same low f
 
 **Best for:** Adding warmth and air to tracks, low-end shaping, and any situation where a Pultec-style EQ is the natural choice.
 
-[→ Download PTEq-X Free](https://www.igniteamps.com/en/audio-plug-ins/) | [→ Find It on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763)
+[→ Download PTEq-X Free](https://www.igniteamps.com/) | [→ Find It on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763)
 
 ---
 

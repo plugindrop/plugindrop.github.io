@@ -3,7 +3,7 @@ title: "Dustons — Dustons May Sale: Up To 80% Off Entire Store"
 description: "Dustons is running their May Sale with up to 80% off sitewide — entry-level picks start at $9.97 (down from ~~$19.95~~). If titles from their catalog have"
 pubDate: "2026-05-01T07:24:04Z"
 tags: ["dustons", "music-production"]
-affiliate: "https://dustons.com/maysale"
+affiliate: "https://dustons.com/shop/"
 heroImage: "/images/dustons-dustons-may-sale-up-to-80-off-entire-store-expiry-ma.webp"
 score: 5.76
 dealPrice: "$9.97"
@@ -13,7 +13,7 @@ saleExpiry: "2026-05-31"
 xText: "dustons knocked their whole store down to 80% off. honestly the discount is so deep i'm waiting to see if there's a catch, but either way this is rare. grab something if you've been thinking about it"
 draft: true
 ---
-**TL;DR:** Dustons is running their May Sale with up to 80% off sitewide — entry-level picks start at $9.97 (down from ~~$19.95~~). If titles from their catalog have been sitting on your wishlist, this is the window to act. [→ Get the Dustons May Sale at Direct](https://dustons.com/maysale)
+**TL;DR:** Dustons is running their May Sale with up to 80% off sitewide — entry-level picks start at $9.97 (down from ~~$19.95~~). If titles from their catalog have been sitting on your wishlist, this is the window to act. [→ Get the Dustons May Sale at Direct](https://dustons.com/shop/)
 
 ---
 
@@ -51,7 +51,7 @@ The $9.97 price point (from ~~$19.95~~) reflects entry-level items in the sale. 
 
 *Price verified at publication. Check the link for current availability.*
 
-[→ Get the Dustons May Sale at Direct](https://dustons.com/maysale)
+[→ Get the Dustons May Sale at Direct](https://dustons.com/shop/)
 
 ---
 
@@ -87,7 +87,7 @@ A: Supported formats are listed per product. Check individual listings for VST, 
 
 The Dustons May Sale runs up to 80% off sitewide, with entry pricing from $9.97 — a straightforward entry point for producers looking to add tools at a fraction of catalog cost.
 
-[→ Get the Dustons May Sale at Direct](https://dustons.com/maysale)
+[→ Get the Dustons May Sale at Direct](https://dustons.com/shop/)
 
 ---
 

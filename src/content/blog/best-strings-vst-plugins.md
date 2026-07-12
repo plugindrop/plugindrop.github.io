@@ -22,7 +22,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Spitfire BBC Symphony Orchestra | ~$449 (Core), often $299–$349 on sale | Full orchestral scoring, film and TV | [Official Site](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-strings-vst-plugins) |
-| EastWest Hollywood Strings | ~$29.99/mo (ComposerCloud+), first month often discounted | Multi-mic Hollywood depth | [Official Site](https://www.soundsonline.com/orchestral/hollywood-strings) |
+| EastWest Hollywood Strings | ~$29.99/mo (ComposerCloud+), first month often discounted | Multi-mic Hollywood depth | [Official Site](https://www.soundsonline.com/orchestras/hollywood-strings-2) |
 | Cinematic Studio Strings | ~$149, rarely discounted below $135 | Legato-focused cinematic writing | [Plugin Boutique](https://cinematicstudioseries.com//) |
 | Orchestral Tools Berlin Strings | Modular, ~$99–$599 per section bundle | Expressive European strings | [Official Site](https://www.orchestraltools.com/berlin-strings) |
 | BBCSO Discover | Free | Best free orchestral starting point | Free from Spitfire Audio |
@@ -205,7 +205,7 @@ EastWest Hollywood Strings was recorded at EastWest Studios in Hollywood, and th
 
 **Best for:** Composers who require maximum recording-perspective flexibility and a definitively Hollywood orchestral character.
 
-[→ Get EastWest Hollywood Strings](https://www.soundsonline.com/orchestral/hollywood-strings)
+[→ Get EastWest Hollywood Strings](https://www.soundsonline.com/orchestras/hollywood-strings-2)
 
 🎬 [Watch the official demo](https://www.youtube.com/watch?v=ScEF8OALc_M)
 
@@ -273,7 +273,7 @@ Cinesamples built CineStrings CORE specifically for film and television scoring 
 - **Why upgrade:** Free and budget strings libraries offer one or two mic perspectives at best. Hollywood Strings' five-position architecture gives you the recording control that professional post-production and sync licensing often requires — and the depth at each position is substantially greater than what any mid-range alternative provides.
 - **When to upgrade:** Because it's a subscription, there's low commitment risk in trying it a month before a project actually needs multi-mic delivery — cancel if it doesn't fit your workflow. The main reason to delay is cost accumulation over a long-term score; if you know you'll need it for 6+ months, check whether an annual plan or promo period lowers the effective monthly rate first.
 
-[→ Get EastWest Hollywood Strings](https://www.soundsonline.com/orchestral/hollywood-strings)
+[→ Get EastWest Hollywood Strings](https://www.soundsonline.com/orchestras/hollywood-strings-2)
 
 ---
 
@@ -284,13 +284,13 @@ Cinesamples built CineStrings CORE specifically for film and television scoring 
 | BBCSO Discover | Free | Sample (BBCSO player) | BBC SO recordings, limited articulations | Free from Spitfire |
 | Spitfire LABS Strings | Free | Sample (LABS player) | Textural, unusual string tones | Free from Spitfire |
 | VSCO2 Community Edition | Free | SFZ | Full orchestra, open-source | Free from Versilian Studios |
-| Cinematic Studio Strings | ~$149 | Sample (Kontakt) | True legato, cinematic focus | [Official Site](https://www.soundsonline.com/orchestral/hollywood-strings) |
-| Session Strings Pro 2 | ~$149 | Sample (Kontakt Player) | Pop/contemporary, free player compatible | [Official Site](https://www.soundsonline.com/orchestral/hollywood-strings) |
-| 8Dio Adagio Strings | ~$149–$249 | Sample (Kontakt) | Warm, sustained, romantic tone | [Official Site](https://www.soundsonline.com/orchestral/hollywood-strings) |
-| Cinesamples CineStrings CORE | ~$299 | Sample (Kontakt) | Broad articulations, film scoring depth | [Official Site](https://www.soundsonline.com/orchestral/hollywood-strings) |
-| Orchestral Tools Berlin Strings | Modular | Sample (SINE player) | Modular buy-in, expressive dynamics | [Official Site](https://www.soundsonline.com/orchestral/hollywood-strings) |
-| EastWest Hollywood Strings | Subscription | Sample (Opus engine) | 5-mic architecture, Hollywood recordings | [Official Site](https://www.soundsonline.com/orchestral/hollywood-strings) |
-| Spitfire BBC Symphony Orchestra | ~$449 | Sample (BBCSO player) | Community's top premium pick, full articulations | [Official Site](https://www.soundsonline.com/orchestral/hollywood-strings) |
+| Cinematic Studio Strings | ~$149 | Sample (Kontakt) | True legato, cinematic focus | [Official Site](https://www.soundsonline.com/orchestras/hollywood-strings-2) |
+| Session Strings Pro 2 | ~$149 | Sample (Kontakt Player) | Pop/contemporary, free player compatible | [Official Site](https://www.soundsonline.com/orchestras/hollywood-strings-2) |
+| 8Dio Adagio Strings | ~$149–$249 | Sample (Kontakt) | Warm, sustained, romantic tone | [Official Site](https://www.soundsonline.com/orchestras/hollywood-strings-2) |
+| Cinesamples CineStrings CORE | ~$299 | Sample (Kontakt) | Broad articulations, film scoring depth | [Official Site](https://www.soundsonline.com/orchestras/hollywood-strings-2) |
+| Orchestral Tools Berlin Strings | Modular | Sample (SINE player) | Modular buy-in, expressive dynamics | [Official Site](https://www.soundsonline.com/orchestras/hollywood-strings-2) |
+| EastWest Hollywood Strings | Subscription | Sample (Opus engine) | 5-mic architecture, Hollywood recordings | [Official Site](https://www.soundsonline.com/orchestras/hollywood-strings-2) |
+| Spitfire BBC Symphony Orchestra | ~$449 | Sample (BBCSO player) | Community's top premium pick, full articulations | [Official Site](https://www.soundsonline.com/orchestras/hollywood-strings-2) |
 
 ---
 

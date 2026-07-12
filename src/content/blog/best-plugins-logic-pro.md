@@ -288,7 +288,7 @@ Fresh Air is a two-control high-frequency enhancer — "Air" and "Presence" — 
 
 **Best for:** Quick high-frequency enhancement on any source without the artificiality of a boosted EQ shelf.
 
-[→ Get Fresh Air Free](https://slate.audio/free-plugins/)
+[→ Get Fresh Air Free](https://slatedigital.com/free-plugins/)
 
 ---
 

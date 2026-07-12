@@ -25,7 +25,7 @@ draft: false
 |--------|-------|----------|--------|
 | Kontakt Player | Free | Running certified NI and third-party Kontakt libraries | [Free Download](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-7/) |
 | Decent Sampler | Free | Community sample packs, zero-budget production | [Free Download](https://www.decentsamples.com/product/decent-sampler-plugin/) |
-| UVI Workstation | Free | Multi-format playback, UVI library ecosystem access | [Free Download](https://www.uvi.net/workstation.html) |
+| UVI Workstation | Free | Multi-format playback, UVI library ecosystem access | [Free Download](https://www.uvi.net/uvi-workstation) |
 | **Kontakt 7** | **$449** | **Full scripting, Factory Library 2, unrestricted third-party use** | [→ Get Kontakt 7](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-7/) |
 | Komplete 15 | From $599 | Kontakt 7 + 150+ instruments, synths, and FX in one bundle | [→ Get Komplete 15](https://www.native-instruments.com/en/products/komplete/bundles/komplete-15/) |
 
@@ -114,7 +114,7 @@ UVI Workstation is the free host engine for UVI's commercial library catalog, in
 
 **Best for:** UVI library owners; producers comparing ecosystem options before a major purchase.
 
-[→ Download UVI Workstation Free](https://www.uvi.net/workstation.html)
+[→ Download UVI Workstation Free](https://www.uvi.net/uvi-workstation)
 
 ### Kontakt Player — The free gateway to the Kontakt ecosystem
 
@@ -163,7 +163,7 @@ Kontakt Player is the free runtime for Kontakt-format instruments. When a develo
 |--------|-------|------|------------|-----|
 | Kontakt Player | Free | Sampler Host | Runs certified libraries, no time limit for authorized content | [Get Free](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-7/) |
 | Decent Sampler | Free | Sampler | Open format, Linux support, active community library | [Get Free](https://www.decentsamples.com/product/decent-sampler-plugin/) |
-| UVI Workstation | Free | Sampler Host | Multi-timbral, arpeggiator, UVI ecosystem access | [Get Free](https://www.uvi.net/workstation.html) |
+| UVI Workstation | Free | Sampler Host | Multi-timbral, arpeggiator, UVI ecosystem access | [Get Free](https://www.uvi.net/uvi-workstation) |
 | Kontakt 7 | $449 | Full Sampler | KSP scripting, Factory Library 2, Wavetable module, no demo limits | [Get It](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-7/) |
 | Komplete 15 Standard | From $599 | Bundle | Kontakt 7 + 150+ instruments, synthesizers, drums, FX | [Get It](https://www.native-instruments.com/en/products/komplete/bundles/komplete-15/) |
 

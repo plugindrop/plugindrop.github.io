@@ -24,7 +24,7 @@ priceTrack:
 | Youlean Loudness Meter 2 | Free | LUFS & True Peak metering | [Free Download](https://youlean.co/youlean-loudness-meter/) |
 | SPAN (Voxengo) | Free | Real-time spectrum analysis | [Free Download](https://www.voxengo.com/product/span/) |
 | TDR Nova | Free | Dynamic EQ for mastering | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-mastering-plugins) |
-| Limiter 6 GE | Free | Multi-stage brickwall limiting | [Free Download](https://tbproaudio.de/lim6ge.html) |
+| Limiter 6 GE | Free | Multi-stage brickwall limiting | [Free Download](https://www.tokyodawn.net/tdr-limiter6-ge/) |
 | TDR VOS SlickEQ | Free | Analog-voiced mastering EQ | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20SlickEQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-mastering-plugins) |
 | LoudMax | Free | Simple transparent brickwall | [Free Download](https://loudmax.blogspot.com/) |
 | TDR Kotelnikov | Free | Transparent mastering compression | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-mastering-plugins) |
@@ -164,7 +164,7 @@ Limiter 6 GE chains high-frequency limiting, RMS compression, peak clipping, a b
 
 **Best for:** Full multi-stage mastering limiting with True Peak compliance for streaming delivery
 
-[→ Download Limiter 6 GE Free](https://tbproaudio.de/lim6ge.html)
+[→ Download Limiter 6 GE Free](https://www.tokyodawn.net/tdr-limiter6-ge/)
 
 ---
 
@@ -257,7 +257,7 @@ The free toolkit above covers a complete mastering chain. These two paid tools b
 | TDR Nova | Free | Dynamic EQ | Parallel dynamic bands, de-essing | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-mastering-plugins) |
 | TDR VOS SlickEQ | Free | Mastering EQ | Analog-voiced, saturation stage | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20SlickEQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-mastering-plugins) |
 | Voxengo Marvel GEQ | Free | Graphic EQ | 16-band linear phase, M/S | [Download](https://www.voxengo.com/product/marvelgeq/) |
-| Limiter 6 GE | Free | Limiter | Multi-stage chain, True Peak | [Download](https://tbproaudio.de/lim6ge.html) |
+| Limiter 6 GE | Free | Limiter | Multi-stage chain, True Peak | [Download](https://www.tokyodawn.net/tdr-limiter6-ge/) |
 | LoudMax | Free | Limiter | 2-control transparent brickwall | [Download](https://loudmax.blogspot.com/) |
 | TDR Kotelnikov | Free | Compressor | Program-dependent, mastering-tuned | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-mastering-plugins) |
 | Klanghelm IVGI | Free | Saturation | Harmonic warmth, soft-knee | [Download](https://klanghelm.com/IVGI.php) |

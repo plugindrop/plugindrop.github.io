@@ -129,7 +129,7 @@ Analog Obsession has built an extraordinary reputation releasing analog hardware
 **Best for:** Mix bus cohesion, drum bus punch, parallel compression glue.
 
 [→ Get BUSTERse on Plugin Boutique](https://www.pluginboutique.com/search?q=Analog%20Obsession%20BUSTERse&a_aid=69cb95abe1763)
-[→ Download BUSTERse Free](https://www.analog-obsession.com/)
+[→ Download BUSTERse Free](https://analogobsession.com/)
 
 ---
 

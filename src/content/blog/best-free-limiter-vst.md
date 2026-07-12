@@ -20,7 +20,7 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Limiter 6 GE | Free | Full mastering chains | [Free Download](https://tbproaudio.de/lim6ge.html) |
+| Limiter 6 GE | Free | Full mastering chains | [Free Download](https://www.tokyodawn.net/tdr-limiter6-ge/) |
 | W1 Limiter | Free | Transparent brickwall mastering | [Official Site](https://www.yohng.com/software/w1limit.html) |
 | LoudMax | Free | Zero-fuss transparent limiting | Free |
 | Limiter No6 | Free | Multi-stage mastering architecture | Free |
@@ -54,7 +54,7 @@ Each of the six modules can be toggled independently, which makes Limiter 6 GE e
 
 **Best for:** Producers learning mastering signal chains, or anyone who needs true peak compliance at no cost.
 
-[→ Download Limiter 6 GE Free](https://tbproaudio.de/lim6ge.html)
+[→ Download Limiter 6 GE Free](https://www.tokyodawn.net/tdr-limiter6-ge/)
 
 ---
 
@@ -223,7 +223,7 @@ KVR Audio and Reddit's r/edmproduction consistently position it as the most comp
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Limiter 6 GE | Free | Multi-stage mastering | 6 modules, true peak, clipper | [Download Free](https://tbproaudio.de/lim6ge.html) |
+| Limiter 6 GE | Free | Multi-stage mastering | 6 modules, true peak, clipper | [Download Free](https://www.tokyodawn.net/tdr-limiter6-ge/) |
 | W1 Limiter | Free | Brickwall | Near-L1 transparency, minimal controls | [Official Site](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
 | LoudMax | Free | Lookahead brickwall | Ultra-simple, beginner-friendly | — |
 | Limiter No6 | Free | Multi-stage | Original multistate design, Windows-only | — |
@@ -278,7 +278,7 @@ A: Yes. A common mastering approach — well-documented in both KVR Audio tutori
 
 For the majority of bedroom producers in 2026, Limiter 6 GE covers all of the ground that commercial mastering limiters promise — multi-stage processing, true peak detection, and integrated hard clipping — at no cost. Pair it with Youlean Loudness Meter 2 to confirm your masters meet streaming targets, and you have a complete free mastering chain. When you outgrow it, FabFilter Pro-L 2 is the community consensus upgrade with no close second.
 
-[→ Download Limiter 6 GE Free](https://tbproaudio.de/lim6ge.html)
+[→ Download Limiter 6 GE Free](https://www.tokyodawn.net/tdr-limiter6-ge/)
 
 ---
 

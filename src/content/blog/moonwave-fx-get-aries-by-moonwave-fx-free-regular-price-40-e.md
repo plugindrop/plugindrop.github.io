@@ -3,7 +3,7 @@ title: "Moonwave FX — Get Aries by Moonwave FX free. Regular price $40. [FREE]
 description: "Aries by Moonwave FX normally retails for ~~$40~~ — right now it's completely free. The promotion closes May 28th, leaving less than two weeks to claim..."
 pubDate: "2026-05-15T11:34:40Z"
 tags: ["free", "moonwave fx", "music-production"]
-affiliate: "https://audioplugin.deals/product/aries-by-moonwave-fx/ref/21/"
+affiliate: "https://moonwavefx.com/effects/aries-energy-transfer-engine/"
 heroImage: "/images/moonwave-fx-get-aries-by-moonwave-fx-free-regular-price-40-e.jpg"
 score: 8.10
 dealPrice: "$0"
@@ -12,7 +12,7 @@ saleExpiry: "2026-05-28"
 xText: "aries from moonwave free rn. $40 normally. this sits in a mix like butter. go grab it asap before they realize"
 draft: true
 ---
-**TL;DR:** Aries by Moonwave FX normally retails for ~~$40~~ — right now it's completely free. The promotion closes May 28th, leaving less than two weeks to claim it. [Grab Aries here before the deadline.](https://audioplugin.deals/product/aries-by-moonwave-fx/ref/21/)
+**TL;DR:** Aries by Moonwave FX normally retails for ~~$40~~ — right now it's completely free. The promotion closes May 28th, leaving less than two weeks to claim it. [Grab Aries here before the deadline.](https://moonwavefx.com/effects/aries-energy-transfer-engine/)
 
 ---
 
@@ -57,7 +57,7 @@ Check the official page for plugin format compatibility (VST/AU/AAX), activation
 
 The deal is live now and expires May 28th. No indication it will repeat or extend. Verify current pricing on the product page — deals can change without notice.
 
-[→ Claim Aries free at Audio Plugin Deals](https://audioplugin.deals/product/aries-by-moonwave-fx/ref/21/)
+[→ Claim Aries free at Audio Plugin Deals](https://moonwavefx.com/effects/aries-energy-transfer-engine/)
 
 ---
 
@@ -95,7 +95,7 @@ A: No regional restrictions are noted in the deal listing, but verify on the pro
 
 A $40 plugin, free until May 28th. That's the whole pitch — and it's a clean one. Don't wait for a reminder that doesn't come.
 
-[Get Aries free →](https://audioplugin.deals/product/aries-by-moonwave-fx/ref/21/)
+[Get Aries free →](https://moonwavefx.com/effects/aries-energy-transfer-engine/)
 
 ## Related Guides
 

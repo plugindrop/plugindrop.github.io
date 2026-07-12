@@ -3,7 +3,7 @@ title: "Harrison Audio — Harrison Audio is offering 69% off on Harrison Multi-
 description: "Harrison Audio's Multi-Band Compressor is down to just $15 — that's 69% off the regular price. If you've been waiting to add a multiband compressor from a"
 pubDate: "2026-04-22T06:01:24Z"
 tags: ["harrison audio", "music-production"]
-affiliate: "https://store.harrisonaudio.com/all-products/multiband-compressor"
+affiliate: "https://store.harrisonaudio.com/all-products/harrison-multi-band-compressor"
 heroImage: "/images/harrison-audio-harrison-audio-is-offering-69-off-on-harrison.jpg"
 score: 4.44
 dealPrice: "$15"
@@ -11,7 +11,7 @@ saleExpiry: "2026-04-30"
 xText: "69% off on a plugin that's usually untouchable on price. harrison's multi-band compressor does something weird—it controls without sounding like it's controlling"
 draft: true
 ---
-**TL;DR:** Harrison Audio's Multi-Band Compressor is down to just $15 — that's 69% off the regular price. If you've been waiting to add a multiband compressor from a legendary console brand to your toolkit, now is a rare opportunity. [Grab it directly from Harrison Audio.](https://store.harrisonaudio.com/all-products/multiband-compressor)
+**TL;DR:** Harrison Audio's Multi-Band Compressor is down to just $15 — that's 69% off the regular price. If you've been waiting to add a multiband compressor from a legendary console brand to your toolkit, now is a rare opportunity. [Grab it directly from Harrison Audio.](https://store.harrisonaudio.com/all-products/harrison-multi-band-compressor)
 
 ---
 
@@ -43,7 +43,7 @@ Harrison Audio brings its console engineering philosophy to this plugin, making 
 - **Flexible Band Routing:** Allows customization of crossover points to match the frequency distribution of your source material.
 - **Mixing and Mastering Utility:** Suitable for individual track processing as well as bus and master chain use.
 
-For full technical specs and system requirements, check the [official product page](https://store.harrisonaudio.com/all-products/multiband-compressor).
+For full technical specs and system requirements, check the [official product page](https://store.harrisonaudio.com/all-products/harrison-multi-band-compressor).
 
 ---
 
@@ -66,7 +66,7 @@ The original price is not confirmed — verify current pricing directly on the p
 
 > Note: Verify current pricing on the product page — deals can change.
 
-[Get the Harrison Multi-Band Compressor for $15 →](https://store.harrisonaudio.com/all-products/multiband-compressor)
+[Get the Harrison Multi-Band Compressor for $15 →](https://store.harrisonaudio.com/all-products/harrison-multi-band-compressor)
 
 ---
 
@@ -88,7 +88,7 @@ If budget is the main constraint and you need a capable multiband tool right now
 A: Check the official product page for current activation and license requirements, as these can vary by version.
 
 **Q: What formats does it come in (VST, AU, AAX)?**
-A: Supported plugin formats are listed on the [Harrison Audio store page](https://store.harrisonaudio.com/all-products/multiband-compressor) — confirm compatibility with your DAW before purchasing.
+A: Supported plugin formats are listed on the [Harrison Audio store page](https://store.harrisonaudio.com/all-products/harrison-multi-band-compressor) — confirm compatibility with your DAW before purchasing.
 
 **Q: Is there a refund policy?**
 A: Refund policies for digital software vary — check Harrison Audio's official terms on their website before completing your purchase.
@@ -102,7 +102,7 @@ A: No end date is confirmed. Deals at this level can expire or change without no
 
 $15 for a multiband compressor from one of the most respected names in console engineering is a deal worth acting on. Harrison Audio doesn't run discounts at this depth regularly.
 
-[Grab the Harrison Multi-Band Compressor for $15 →](https://store.harrisonaudio.com/all-products/multiband-compressor)
+[Grab the Harrison Multi-Band Compressor for $15 →](https://store.harrisonaudio.com/all-products/harrison-multi-band-compressor)
 
 ---
 

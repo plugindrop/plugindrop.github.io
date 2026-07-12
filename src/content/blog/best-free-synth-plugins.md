@@ -349,7 +349,7 @@ Crystal combines three synthesis approaches (FM, wavetable, and granular) inside
 
 **Skip it if:** interface polish matters to you — the sound-design range is huge, but the late-90s UI feels dated next to Vital or Surge XT.
 
-[→ Download Crystal Free](https://www.greenoak.com/crystal/index2.html)
+[→ Download Crystal Free](https://plugins4free.com/plugin/262/)
 
 ---
 
@@ -440,7 +440,7 @@ Honest take: none of these will make you a better producer than a well-learned V
 | Odin2 | Free | Multi-Synthesis | 6 oscillator modes, semi-modular, open source | [Free Download](https://thewavewarden.com/odin2/) |
 | Pendulate | Free | Chaos / Experimental | Double-pendulum oscillator, Eventide-backed | [Developer](https://www.newfangledaudio.com/pendulate) |
 | Magical8bitPlug 2 | Free | Chiptune | NES/Game Boy chip emulation, duty cycle control | [Free Download](https://ymck.net/app/magical-8bit-plug-en/) |
-| Crystal | Free | FM / Wavetable / Granular | 3 synthesis engines, semi-modular, 10 mod slots | [Free Download](https://www.greenoak.com/crystal/index2.html) |
+| Crystal | Free | FM / Wavetable / Granular | 3 synthesis engines, semi-modular, 10 mod slots | [Free Download](https://plugins4free.com/plugin/262/) |
 | Yoshimi | Free | Additive / Subtractive / PADsynth | ZynAddSubFX fork, organic pads, advanced bank mgmt | [Free Download](https://yoshimi.github.io/) |
 
 ---

@@ -31,7 +31,7 @@ priceTrack:
 | Soundtoys Decapitator | $99 (rarely discounted standalone) | Flexible harmonic saturation | [Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
 | Chow Tape Model | Free | Best free tape emulation | [Free Download](https://chowdsp.com) |
 | Klanghelm SDRR | $21 | Best-value paid saturation | [Official Site](https://klanghelm.com/contents/products/SDRR.php) |
-| Slate Digital VTM | ~$149 (or $14.99/mo bundle) | Drum bus glue and mixbus processing | [Official Site](https://slate.audio/vtm/) |
+| Slate Digital VTM | ~$149 (or $14.99/mo bundle) | Drum bus glue and mixbus processing | [Official Site](https://slatedigital.com/virtual-tape-machines/) |
 
 ---
 
@@ -182,7 +182,7 @@ The math here almost always favors the subscription over the standalone $149 pur
 
 **Best for:** Drum bus and mixbus processing, especially for producers who are already on or considering the Slate Everything Bundle.
 
-[→ Get Slate Digital VTM](https://slate.audio/vtm/)
+[→ Get Slate Digital VTM](https://slatedigital.com/virtual-tape-machines/)
 
 ---
 
@@ -203,7 +203,7 @@ DAW Cassette is designed specifically for the cassette tape character — bandwi
 
 **Best for:** Lo-fi and cassette-aesthetic productions where you specifically want consumer-tape character rather than studio reel-to-reel warmth.
 
-[→ Get Klevgrand DAW Cassette](https://klevgrand.com/products/daw-cassette)
+[→ Get Klevgrand DAW Cassette](https://klevgrand.com/products/dawcassette/)
 
 ---
 
@@ -274,14 +274,14 @@ There's no purchasing decision to make here, which is exactly why it belongs at 
 | Plugin | Price | Type | Key Strengths | CTA |
 |--------|-------|------|---------------|-----|
 | Chow Tape Model | Free | Tape emulation | Physical modeling, open source, competitive with paid options | [Free Download](https://chowdsp.com) |
-| Klevgrand DAW Cassette | ~$20 | Cassette emulation | Consumer tape aesthetic, iOS/macOS/Windows, affordable | [Official Site](https://klevgrand.com/products/daw-cassette) |
+| Klevgrand DAW Cassette | ~$20 | Cassette emulation | Consumer tape aesthetic, iOS/macOS/Windows, affordable | [Official Site](https://klevgrand.com/products/dawcassette/) |
 | Klanghelm SDRR | $21 | Multi-mode saturation | Multiple harmonic profiles, strong KVR value reputation | [Official Site](https://klanghelm.com/contents/products/SDRR.php) |
 | Softube Tape | $49–$79 | Tape emulation | Transparent, modern-friendly, clean glue | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-Vintage/3689-Softube-Tape?a_aid=69cb95abe1763) |
 | Waves J37 Tape | $29–$149 | Tape emulation | EMI J37 model, Abbey Road vintage character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Tape/981-Waves-J37-Tape?a_aid=69cb95abe1763) |
 | Waves KRAMER MASTER TAPE | $29–$149 | Tape emulation | Eddie Kramer collab, multiple IPS speeds, rock character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/13679-Kramer-Master-Tape?a_aid=69cb95abe1763) |
 | RC-20 Retro Color | $99 | Multi-character | Integrated modules, lo-fi/bedroom pop community standard | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=69cb95abe1763) |
 | Soundtoys Decapitator | $99 | Harmonic saturation | 5 saturation modes, extreme range, KVR top-tier ranking | [Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
-| Slate Digital VTM | ~$149 | Tape emulation | Multiple tape configs, drum/mix bus glue, bundle value | [Official Site](https://slate.audio/vtm/) |
+| Slate Digital VTM | ~$149 | Tape emulation | Multiple tape configs, drum/mix bus glue, bundle value | [Official Site](https://slatedigital.com/virtual-tape-machines/) |
 | UAD Studer A800 | $299 | Tape emulation | Highest-accuracy emulation, runs Native, studio standard | [UA Store](https://www.uaudio.com/products/studer-a800-tape-recorder) |
 
 ---

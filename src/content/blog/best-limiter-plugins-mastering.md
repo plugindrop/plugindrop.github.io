@@ -27,7 +27,7 @@ priceTrack:
 |--------|-------|----------|--------------|----------------------|
 | FabFilter Pro-L 2 | ~$199 | Transparent mastering, all genres | Yes (30-day) | [Official Site](https://www.pluginboutique.com/search?q=FabFilter%20Pro-L%202&a_aid=69cb95abe1763) |
 | iZotope Ozone Maximizer | Included in Ozone (~$249+) | AI-assisted loudness maximizing | Yes | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Mastering%20Limiter%20Plugins%202026&a_aid=69cb95abe1763) |
-| Limiter 6 GE | ~$49 | Multi-stage limiting on a tight budget | Yes (demo) | [Official Site](https://tbproaudio.de/lim6ge.html) |
+| Limiter 6 GE | ~$49 | Multi-stage limiting on a tight budget | Yes (demo) | [Official Site](https://www.tokyodawn.net/tdr-limiter6-ge/) |
 | W1 Limiter | Free | Zero-cost brickwall, beginners | N/A — free | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Mastering%20Limiter%20Plugins%202026&a_aid=69cb95abe1763) |
 | Youlean Loudness Meter 2 | Free | LUFS targeting alongside any limiter | N/A — free | [Free Download](https://youlean.co/youlean-loudness-meter/) |
 
@@ -110,7 +110,7 @@ Limiter 6 GE packs a true peak limiter, RMS compressor, high-frequency limiter, 
 
 **Best for:** Engineers who want multi-stage limiting capability on a strict budget, or anyone building a serious mastering chain for the first time.
 
-[→ Get Limiter 6 GE](https://tbproaudio.de/lim6ge.html)
+[→ Get Limiter 6 GE](https://www.tokyodawn.net/tdr-limiter6-ge/)
 
 [Watch Demo on YouTube →](https://www.youtube.com/watch?v=I4DPPsQAU2A)
 
@@ -275,7 +275,7 @@ The Sonnox Oxford Limiter V3 is a purpose-built tool for scenarios that demand s
 |--------|-------|------|----------|--------------|----------------------|
 | W1 Limiter | Free | Brickwall | Beginners, acoustic material | N/A — free | [Get It](https://www.pluginboutique.com/search?q=%E2%86%92%20Download%20W1%20Limiter%20Free&a_aid=69cb95abe1763) |
 | Youlean Loudness Meter 2 | Free | Metering | LUFS targeting alongside any limiter | N/A — free | [Get It](https://youlean.co/youlean-loudness-meter/) |
-| Limiter 6 GE | ~$49 | Multi-stage | Budget multi-stage mastering | Yes | [Get It](https://tbproaudio.de/lim6ge.html) |
+| Limiter 6 GE | ~$49 | Multi-stage | Budget multi-stage mastering | Yes | [Get It](https://www.tokyodawn.net/tdr-limiter6-ge/) |
 | Voxengo Elephant | ~$49 | Mastering | Flexible limiting with built-in dithering | Yes | [Get It](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Voxengo%20Elephant&a_aid=69cb95abe1763) |
 | AOM Invisible Limiter G2 | ~$79 | Transparent | Acoustic, classical, jazz | Yes | [Get It](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20AOM%20Invisible%20Limiter%20G2&a_aid=69cb95abe1763) |
 | Waves L2 Ultramaximizer | ~$29–$99 | Classic brickwall | IDR dithering, classic loud character | Yes | [Get It](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Waves%20L2%20Ultramaximizer&a_aid=69cb95abe1763) |

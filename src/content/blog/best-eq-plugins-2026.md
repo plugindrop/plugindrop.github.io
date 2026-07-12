@@ -30,7 +30,7 @@ priceTrack:
 | Voxengo Marvel GEQ | Free | Graphic EQ on buses & master | [Free Download](https://www.voxengo.com/product/marvelgeq/) |
 | MEqualizer | Free | Beginners, fast static shaping | [Free Download](https://www.meldaproduction.com/MEqualizer) |
 | Ignite Amps PTEq-X | Free | Pultec-style low-end & air | [Free Download](https://www.igniteamps.com/) |
-| Slate Digital Fresh Air | Free | Vocal air & presence | [Free Download](https://slate.audio/free-plugins/) |
+| Slate Digital Fresh Air | Free | Vocal air & presence | [Free Download](https://slatedigital.com/free-plugins/) |
 | iZotope Neutron | $99+ | AI-assisted mixing, track analysis | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
 | iZotope Ozone 12 | from $249 | Full mastering-chain EQ | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
 | Waves SSL E-Channel | $29–$79 | Analog character, channel strips | [Get it here](https://www.waves.com/plugins/ssl-e-channel) |
@@ -180,7 +180,7 @@ The honest limitation: two knobs and a fixed focus mean it's a finishing tool, n
 
 **Best for:** Producers who need a fast, single-purpose tool for adding vocal air and presence without dialing in a parametric EQ by hand.
 
-[→ Download Slate Digital Fresh Air Free](https://slate.audio/free-plugins/)
+[→ Download Slate Digital Fresh Air Free](https://slatedigital.com/free-plugins/)
 
 ---
 
@@ -238,7 +238,7 @@ The honest limitation: it colors by design, so it's the wrong pick when you need
 | Voxengo Marvel GEQ | Free | Graphic (Linear Phase) | 16-band linear phase, M/S support, spectrum display | [Free Download](https://www.voxengo.com/product/marvelgeq/) |
 | MEqualizer | Free | Parametric | 6 bands, spectrum analyzer, low CPU, fast workflow | [Free Download](https://www.meldaproduction.com/MEqualizer) |
 | Ignite Amps PTEq-X | Free | Pultec Passive Emulation | EQP-1A + MEQ-5 circuits, passive boost/cut behavior | [Free Download](https://www.igniteamps.com/) |
-| Slate Digital Fresh Air | Free | High-Freq Enhancer | Presence + Air bands, vocal-optimized | [Free Download](https://slate.audio/free-plugins/) |
+| Slate Digital Fresh Air | Free | High-Freq Enhancer | Presence + Air bands, vocal-optimized | [Free Download](https://slatedigital.com/free-plugins/) |
 | iZotope Neutron | $99–$249 | AI Channel Strip | Track Assistant, Masking Meter, dynamic EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
 | iZotope Ozone 12 | from $249 | Mastering Suite with EQ | Linear phase, M/S, AI Master Assistant | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
 | Waves SSL E-Channel | $29–$79 | Analog / Channel Strip | SSL console character, integrated gate + compressor | [Get it](https://www.waves.com/plugins/ssl-e-channel) |

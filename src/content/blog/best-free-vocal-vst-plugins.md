@@ -19,7 +19,7 @@ draft: false
 |--------|-------|----------|--------|
 | MAutoPitch | Free | Transparent pitch correction | [Plugin Boutique](https://www.pluginboutique.com/search?q=MAutoPitch%20MeldaProduction&a_aid=69cb95abe1763) |
 | Graillon 2 | Free | Creative pitch effects & robot vocals | [auburnsounds.com](https://www.auburnsounds.com/products/Graillon.html) |
-| Analog Obsession CHANNELSTRIP | Free | Analog EQ + compression in one slot | [analog-obsession.com](https://www.analog-obsession.com/) |
+| Analog Obsession CHANNELSTRIP | Free | Analog EQ + compression in one slot | [analog-obsession.com](https://analogobsession.com/) |
 | TAL-Reverb-4 | Free | Warm vintage plate reverb | [Plugin Boutique](https://www.pluginboutique.com/search?q=TAL-Reverb-4&a_aid=69cb95abe1763) |
 | Wider (Polyverse) | Free | Mono-safe stereo widening | [Plugin Boutique](https://www.pluginboutique.com/search?q=Wider%20Polyverse%20stereo%20widener&a_aid=69cb95abe1763) |
 | Valhalla Supermassive | Free | Large ambient reverb and delay | [valhalladsp.com](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
@@ -95,7 +95,7 @@ Analog Obsession's CHANNELSTRIP packs a high-pass filter, EQ, and compressor int
 
 **Skip it if:** you need formal vendor support — Analog Obsession is one developer on Patreon, so keep an installer backup; older builds occasionally disappear when new ones ship.
 
-[→ Download CHANNELSTRIP Free](https://www.analog-obsession.com/)
+[→ Download CHANNELSTRIP Free](https://analogobsession.com/)
 
 ---
 
@@ -331,7 +331,7 @@ The detailed breakdown of each paid option follows below.
 |--------|-------|------|------------|-----|
 | MAutoPitch | Free | Pitch Correction | Transparent, low latency, key/scale detection | [Plugin Boutique](https://www.pluginboutique.com/search?q=MAutoPitch%20MeldaProduction&a_aid=69cb95abe1763) |
 | Graillon 2 | Free | Pitch Effects | Pitch shifting, bit crusher, ring modulation | [auburnsounds.com](https://www.auburnsounds.com/products/Graillon.html) |
-| Analog Obsession CHANNELSTRIP | Free | Channel Strip | HPF + EQ + compressor, analog warmth | [analog-obsession.com](https://www.analog-obsession.com/) |
+| Analog Obsession CHANNELSTRIP | Free | Channel Strip | HPF + EQ + compressor, analog warmth | [analog-obsession.com](https://analogobsession.com/) |
 | Klanghelm MJUC jr | Free | Compressor | Vintage vari-mu character, tube warmth | [Developer Site](https://klanghelm.com/MJUCjr.php) |
 | TDR Nova | Free | Dynamic EQ | Per-band dynamics, de-essing, transparent | [Developer Site](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vocal-vst-plugins) |
 | Techivation T-De-Esser Plus | Free | De-esser | Focused sibilance detection, visual feedback | [Developer Site](https://techivation.com/t-de-esser-plus/) |
