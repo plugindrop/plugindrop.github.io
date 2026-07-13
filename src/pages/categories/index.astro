@@ -1,0 +1,143 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import priceData from '../../data/price_history.json';
+
+interface HistoryEntry {
+  date: string;
+  regular: number | null;
+  sale: number | null;
+  source: string;
+}
+
+interface EntryData {
+  pb_url: string;
+  typical_regular: number | null;
+  typical_sale: number | null;
+  all_time_low: number | null;
+  notes?: string;
+  category?: string;
+  history: HistoryEntry[];
+}
+
+interface PriceData {
+  last_updated: string;
+  bundles: Record<string, EntryData>;
+  plugins?: Record<string, EntryData>;
+}
+
+// Same inference rules as /plugin-prices.astro. Kept in sync manually because
+// Astro pages in this area do not share non-component modules.
+function inferCategory(name: string, notes: string | undefined, pbUrl: string, isBundleSection: boolean): string {
+  const haystack = `${name} ${notes ?? ''} ${pbUrl}`.toLowerCase();
+
+  if (/\bpro-r\b/.test(haystack)) return 'Reverb';
+  if (/\bpro-c\b/.test(haystack)) return 'Compressor';
+  if (/\bpro-l\b/.test(haystack)) return 'Limiter';
+  if (/\bpro-mb\b/.test(haystack)) return 'Compressor';
+  if (/\bpro-ds\b/.test(haystack)) return 'Vocal';
+  if (/\b(serum|omnisphere|nexus|sylenth1?|vital)\b/.test(haystack)) return 'Synth';
+
+  if (/\breverb\b/.test(haystack)) return 'Reverb';
+  if (/\beq\b/.test(haystack)) return 'EQ';
+  if (/\bcomp(?:ressor)?\b/.test(haystack)) return 'Compressor';
+  if (/synth/.test(haystack)) return 'Synth';
+  if (/tape|saturat/.test(haystack)) return 'Saturation';
+  if (/master|ozone/.test(haystack)) return 'Mastering';
+  if (/\blimit(?:er)?\b/.test(haystack)) return 'Limiter';
+  if (/drum/.test(haystack)) return 'Drums';
+  if (/tune|vocal|melodyne/.test(haystack)) return 'Vocal';
+  if (/bundle|collection/.test(haystack)) return 'Bundle';
+  if (/instrument|orchestral|piano|guitar|\borgan\b|strings|choir|brass/.test(haystack)) return 'Instrument';
+  if (/utility|\bmeter\b|analy[sz]|loudness/.test(haystack)) return 'Utility';
+
+  return isBundleSection ? 'Bundle' : 'Effects';
+}
+
+const data = priceData as PriceData;
+const plugins = data.plugins ?? {};
+const bundles = data.bundles ?? {};
+const categoryCounts = new Map<string, number>();
+
+function countCategory(name: string, entry: EntryData, isBundleSection: boolean): void {
+  const category = entry.category ?? inferCategory(name, entry.notes, entry.pb_url, isBundleSection);
+  if (!category) return;
+  categoryCounts.set(category, (categoryCounts.get(category) ?? 0) + 1);
+}
+
+for (const [name, entry] of Object.entries(plugins)) countCategory(name, entry, false);
+for (const [name, entry] of Object.entries(bundles)) countCategory(name, entry, true);
+
+const categories = [...categoryCounts.entries()]
+  .filter(([, count]) => count > 0)
+  .map(([name, count]) => ({ name, count }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+const totalTracked = Object.keys(plugins).length + Object.keys(bundles).length;
+
+const pageTitle = 'Browse Plugins by Category | PluginDrop';
+const pageDescription = `Browse ${totalTracked} tracked plugin and bundle prices by category, updated daily.`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead title={pageTitle} description={pageDescription} />
+    <style>
+      main { max-width: 960px; margin: 0 auto; padding: 2rem 1rem 3rem; }
+
+      .breadcrumb { font-size: 0.8rem; color: var(--text-muted); margin-bottom: 1.5rem; }
+      .breadcrumb a { color: var(--text-muted); text-decoration: none; }
+      .breadcrumb a:hover { text-decoration: underline; }
+      .breadcrumb .sep { margin: 0 0.4rem; }
+
+      h1 {
+        margin: 0 0 0.85rem; color: var(--text-primary); font-family: var(--font-display);
+        font-size: clamp(1.6rem, 4.5vw, 2.4rem); font-weight: 400; line-height: 1.2;
+      }
+      .page-intro { margin: 0 0 2rem; color: var(--text-secondary); font-size: 1rem; line-height: 1.6; }
+
+      .category-grid {
+        display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1rem;
+      }
+      .category-card {
+        display: block; padding: 1.1rem 1.25rem; color: var(--text-primary); background: var(--bg-card);
+        border: 1px solid var(--border); border-radius: var(--radius); text-decoration: none;
+        transition: border-color 0.15s, background 0.15s;
+      }
+      .category-card:hover { background: var(--bg-card-hover); border-color: var(--accent); }
+      .category-name { margin: 0 0 0.4rem; color: var(--text-primary); font-size: 1rem; font-weight: 700; }
+      .category-meta { margin: 0; color: var(--text-muted); font-size: 0.8rem; }
+
+      .trust-line {
+        margin-top: 2.5rem; padding: 1rem 1.25rem; color: var(--text-muted);
+        border-left: 3px solid var(--accent-muted); font-size: 0.82rem; line-height: 1.6;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="#main-content" class="sr-only">Skip to content</a>
+    <Header />
+    <main id="main-content">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a><span class="sep">/</span>
+        <span>Categories</span>
+      </nav>
+
+      <h1>Browse by category</h1>
+      <p class="page-intro">{totalTracked} tracked plugins and bundles, sorted by type.</p>
+
+      <div class="category-grid">
+        {categories.map((category) => (
+          <a href={`/plugin-prices?category=${encodeURIComponent(category.name)}`} class="category-card">
+            <p class="category-name">{category.name}</p>
+            <p class="category-meta">{category.count} products tracked</p>
+          </a>
+        ))}
+      </div>
+
+      <p class="trust-line">Prices checked daily. Data since 2026.</p>
+    </main>
+    <Footer />
+  </body>
+</html>

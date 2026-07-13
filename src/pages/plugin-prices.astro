@@ -741,6 +741,17 @@ const pageLD = {
         }
 
         if (chipRow) {
+          const initialCategory = new URLSearchParams(window.location.search).get('category');
+          if (initialCategory) {
+            const matchingChip = Array.from(chipRow.querySelectorAll('.chip')).find(
+              (chip) => (chip.getAttribute('data-cat') || '').toLowerCase() === initialCategory.toLowerCase()
+            );
+            chipRow.querySelectorAll('.chip').forEach((chip) => chip.classList.remove('active'));
+            if (matchingChip) matchingChip.classList.add('active');
+            activeCategory = initialCategory.toLowerCase();
+            applyFilters();
+          }
+
           chipRow.addEventListener('click', (e) => {
             const target = e.target.closest('.chip');
             if (!target || !chipRow.contains(target)) return;
@@ -758,7 +769,8 @@ const pageLD = {
         (function personalizeInitialFilter() {
           try {
             if (!chipRow || !searchInput) return;
-            if (new URLSearchParams(window.location.search).get('q')) return;
+            const searchParams = new URLSearchParams(window.location.search);
+            if (searchParams.get('q') || searchParams.get('category')) return;
 
             // NW-H CATS（PersonalizationScript.astroと同一の10カテゴリ）
             const CATS = ['synth', 'guitar-bass', 'drums', 'vocals', 'orchestral', 'mixing', 'effects', 'sampling', 'daw', 'free'];
