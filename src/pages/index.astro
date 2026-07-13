@@ -3,8 +3,9 @@ import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { ENABLE_PIP_PREVIEW, SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import priceDataRaw from '../data/price_history.json';
+import productVideosRaw from '../data/product_videos.json';
 import { pdAttr } from '../lib/interestTaxonomy.mjs';
 import {
 	type PriceEntry,
@@ -23,6 +24,17 @@ const trackerEntries: Record<string, PriceEntry> = {
 	...(priceData.plugins ?? {}),
 };
 const trackedCount = Object.keys(trackerEntries).length;
+
+interface ProductVideo { video_id: string; title: string; channel: string }
+const productVideos = productVideosRaw as Record<string, ProductVideo>;
+const productVideoEntries = Object.entries(productVideos);
+
+function productVideoFor(title: string, trackedName?: string): [string, ProductVideo] | null {
+	if (!ENABLE_PIP_PREVIEW) return null;
+	if (trackedName && productVideos[trackedName]) return [trackedName, productVideos[trackedName]];
+	const normalizedTitle = title.toLowerCase();
+	return productVideoEntries.find(([name]) => normalizedTitle.includes(name.toLowerCase())) ?? null;
+}
 
 const trackerRows = Object.entries(trackerEntries)
 	.map(([name, entry]) => {
@@ -151,8 +163,15 @@ const moreFreshDeals = allPosts
 							const trackedName = post.data.priceTrack?.[0];
 							const trackedEntry = trackedName ? trackerEntries[trackedName] : undefined;
 							const score = trackedEntry ? dealScoreNumeric(trackedEntry) : null;
+							const videoMatch = productVideoFor(post.data.title, trackedName);
 							return (
-								<a href={`/posts/${post.id}/`} class="deal-card" data-pd={pdAttr({ title: post.data.title, tags: post.data.tags ?? [] })}>
+								<a
+									href={`/posts/${post.id}/`}
+									class="deal-card"
+									data-pd={pdAttr({ title: post.data.title, tags: post.data.tags ?? [] })}
+									data-video-id={videoMatch?.[1].video_id}
+									data-video-product={videoMatch?.[0]}
+								>
 									<div class="deal-image">
 										<img src={post.data.heroImage} alt="" loading="lazy" />
 										{score && <span class={`score-badge is-${score.verdict}`}>{score.score}</span>}
@@ -224,6 +243,13 @@ const moreFreshDeals = allPosts
 			</section>
 		</main>
 		<Footer />
+		{ENABLE_PIP_PREVIEW && (
+			<button class="pip-preview" type="button" hidden aria-label="Play demo with sound">
+				<img class="pip-preview-poster" alt="" />
+				<span class="pip-preview-player"></span>
+				<span class="pip-preview-hint">Click for sound</span>
+			</button>
+		)}
 		<script>
 			const filter = document.querySelector<HTMLInputElement>('#tracker-filter');
 			const rows = document.querySelectorAll<HTMLTableRowElement>('.tracker-table tbody tr');
@@ -232,8 +258,141 @@ const moreFreshDeals = allPosts
 				rows.forEach((row) => { row.hidden = !row.dataset.name?.includes(query); });
 			});
 		</script>
+		{ENABLE_PIP_PREVIEW && (
+			<script is:inline>
+				(function () {
+					'use strict';
+					if (!window.matchMedia('(hover: hover) and (pointer: fine)').matches) return;
+
+					var preview = document.querySelector('.pip-preview');
+					var poster = preview && preview.querySelector('.pip-preview-poster');
+					var player = preview && preview.querySelector('.pip-preview-player');
+					var cards = document.querySelectorAll('.deal-card[data-video-id]');
+					if (!preview || !poster || !player || !cards.length) return;
+
+					var hoverTimer = 0;
+					var closeTimer = 0;
+					var activeCard = null;
+					var activeVideoId = '';
+					var activeProduct = '';
+
+					function track(name, product) {
+						try {
+							if (typeof window.gtag === 'function') window.gtag('event', name, { product: product });
+						} catch (e) { /* noop */ }
+					}
+
+					function playerUrl(videoId, muted) {
+						return 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(videoId)
+							+ '?autoplay=1&mute=' + (muted ? '1' : '0') + '&playsinline=1&rel=0';
+					}
+
+					function loadPlayer(muted) {
+						var iframe = document.createElement('iframe');
+						iframe.src = playerUrl(activeVideoId, muted);
+						iframe.title = activeProduct + ' demo video';
+						iframe.allow = 'autoplay; encrypted-media; picture-in-picture';
+						iframe.referrerPolicy = 'strict-origin-when-cross-origin';
+						iframe.allowFullscreen = true;
+						player.replaceChildren(iframe);
+					}
+
+					function positionPreview(card) {
+						var rect = card.getBoundingClientRect();
+						var width = 320;
+						var height = 180;
+						var gap = 12;
+						var margin = 12;
+						var left;
+						var top;
+
+						if (rect.right + gap + width <= window.innerWidth - margin) {
+							left = rect.right + gap;
+							top = Math.min(Math.max(rect.top, margin), window.innerHeight - height - margin);
+						} else if (rect.left - gap - width >= margin) {
+							left = rect.left - gap - width;
+							top = Math.min(Math.max(rect.top, margin), window.innerHeight - height - margin);
+						} else if (rect.bottom + gap + height <= window.innerHeight - margin) {
+							left = Math.min(Math.max(rect.left, margin), window.innerWidth - width - margin);
+							top = rect.bottom + gap;
+						} else if (rect.top - gap - height >= margin) {
+							left = Math.min(Math.max(rect.left, margin), window.innerWidth - width - margin);
+							top = rect.top - gap - height;
+						} else {
+							return false;
+						}
+
+						preview.style.left = left + 'px';
+						preview.style.top = top + 'px';
+						return true;
+					}
+
+					function show(card) {
+						activeCard = card;
+						activeVideoId = card.dataset.videoId || '';
+						activeProduct = card.dataset.videoProduct || '';
+						if (!activeVideoId || !activeProduct) return;
+						if (!positionPreview(card)) return;
+						poster.src = 'https://i.ytimg.com/vi/' + encodeURIComponent(activeVideoId) + '/hqdefault.jpg';
+						preview.hidden = false;
+						loadPlayer(true);
+						track('pip_hover', activeProduct);
+					}
+
+					function hide() {
+						window.clearTimeout(hoverTimer);
+						window.clearTimeout(closeTimer);
+						activeCard = null;
+						activeVideoId = '';
+						activeProduct = '';
+						preview.hidden = true;
+						poster.removeAttribute('src');
+						player.replaceChildren();
+					}
+
+					function scheduleHide() {
+						window.clearTimeout(hoverTimer);
+						window.clearTimeout(closeTimer);
+						closeTimer = window.setTimeout(hide, 180);
+					}
+
+					cards.forEach(function (card) {
+						card.addEventListener('mouseenter', function () {
+							window.clearTimeout(hoverTimer);
+							window.clearTimeout(closeTimer);
+							hoverTimer = window.setTimeout(function () { show(card); }, 300);
+						});
+						card.addEventListener('mouseleave', scheduleHide);
+					});
+
+					preview.addEventListener('mouseenter', function () { window.clearTimeout(closeTimer); });
+					preview.addEventListener('mouseleave', scheduleHide);
+					preview.addEventListener('click', function () {
+						if (!activeVideoId || !activeProduct) return;
+						loadPlayer(false);
+						track('pip_unmute', activeProduct);
+					});
+					window.addEventListener('scroll', function () { if (!preview.hidden) hide(); }, { passive: true });
+					window.addEventListener('resize', function () {
+						if (!preview.hidden && activeCard && !positionPreview(activeCard)) hide();
+					});
+				})();
+			</script>
+		)}
 	</body>
 </html>
+
+{ENABLE_PIP_PREVIEW && (
+	<style is:inline>
+		@media (hover: hover) and (pointer: fine) {
+			.pip-preview { position: fixed; z-index: 20; width: 320px; height: 180px; box-sizing: border-box; overflow: hidden; padding: 0; color: var(--text-primary); background: var(--bg-low); border: 1px solid var(--border); border-radius: var(--radius); cursor: pointer; }
+			.pip-preview[hidden] { display: none; }
+			.pip-preview-poster, .pip-preview-player, .pip-preview-player iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+			.pip-preview-player iframe { pointer-events: none; }
+			.pip-preview-poster { object-fit: cover; }
+			.pip-preview-hint { position: absolute; right: 0.5rem; bottom: 0.5rem; padding: 0.25rem 0.45rem; background: var(--bg-highest); border: 1px solid var(--border); border-radius: var(--radius-sm); font-family: var(--font-mono); font-size: 0.68rem; }
+		}</style>
+)}
 
 <style>
 	.hero-strip { max-width: 780px; padding: 5rem 0 3.5rem; }
