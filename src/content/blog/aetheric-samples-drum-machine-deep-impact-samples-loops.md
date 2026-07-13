@@ -16,6 +16,13 @@ draft: false
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2238493-1994721519.mp3">
+</audio>
+</div>
+
+
 ## What Is Aetheric Samples Drum Machine Deep Impact?
 
 Aetheric Samples Drum Machine Deep Impact is a sample and loop pack built around drum machine-sourced sounds with a focus on heavy, impactful hits and production-ready loops. The pack is designed for producers who want classic machine grit alongside versatile, mix-ready content. It's available directly through ADSR Sounds, one of the major platforms for producer sample content.

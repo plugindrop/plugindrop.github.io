@@ -14,6 +14,13 @@ draft: false
 ---
 **TL;DR:** ADSR Sounds has Banger Samples' *Vicious Hip Hop Trap Samples* pack marked down to **$11.4** from ~~$19~~ — a 40% discount on a ready-to-use trap sample collection. If you're stocking up on trap loops and one-shots for beat-making, this is a straightforward way to grab extra content at a lower cost. [Grab the deal at ADSR Sounds](https://www.adsrsounds.com/product/presets/banger-samples-vicious-hip-hop-trap-samples/?a_aid=plugindrop&data1=banger-samples-vicious-hip-hop-trap-samples-d5ace1&utm_source=plugindrop&utm_medium=article&utm_campaign=banger-samples-vicious-hip-hop-trap-samples-d5ace1).
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2312090-2350624976.mp3">
+</audio>
+</div>
+
+
 ## What Is Banger Samples Vicious Hip Hop Trap Samples?
 
 *Vicious Hip Hop Trap Samples* is a sample pack from Banger Samples, distributed through ADSR Sounds, aimed at producers working in hip hop and trap. It's built as a source of loops, one-shots, and/or construction elements that plug directly into a DAW for beat-making. As with most ADSR sample packs, the content is designed to be royalty-free for use in your own productions — for exact usage terms, check the license details on the product page.

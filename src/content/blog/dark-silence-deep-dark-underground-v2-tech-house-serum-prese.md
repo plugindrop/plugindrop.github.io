@@ -15,6 +15,13 @@ draft: false
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/848928-655709585.mp3">
+</audio>
+</div>
+
+
 ## What Is Dark Silence Deep Dark Underground V2?
 
 Dark Silence Deep Dark Underground V2 is the second volume in the Deep Dark Underground Serum preset series, built specifically for producers working in dark, underground tech house. Released under the Dark Silence brand and sold through ADSR Sounds, the pack targets the gritty, hypnotic textures that define the genre's warehouse aesthetic. It requires Xfer Records Serum — the industry-standard wavetable synthesizer — and loads directly into your existing workflow. The "V2" designation signals an expanded palette beyond the original, not just a rehash.

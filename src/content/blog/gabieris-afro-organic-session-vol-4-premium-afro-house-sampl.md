@@ -16,6 +16,13 @@ draft: false
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2312279-2341115771.mp3">
+</audio>
+</div>
+
+
 ## What Is Gabieris Afro Organic Session Vol 4?
 
 Gabieris Afro Organic Session Vol 4 is a premium sample pack from the Afro Organic Session series, available at ADSR Sounds. It targets producers working in Afro House and adjacent rhythmic genres, delivering audio content built around authentic organic instrumentation. The series positions itself at the intersection of traditional African musical textures and contemporary electronic production — the defining quality of the Afro House sound.

@@ -16,6 +16,13 @@ score: 2.36
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2306421-2300180318.mp3">
+</audio>
+</div>
+
+
 ## What Is Collab Gem The Heist Underground Hip Hop Sample Pack?
 
 *The Heist* is a sample pack from Collab Gem, built specifically around the underground hip hop sound — think dark loops, dusty drums, moody chords, and street-level energy. It sits firmly in the tradition of boom bap and underground rap production, targeting producers who want pre-crafted material that doesn't sound polished to a fault. ADSR Sounds carries the pack as part of their catalog of genre-specific sample libraries for music producers.

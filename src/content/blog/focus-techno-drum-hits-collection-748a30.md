@@ -16,6 +16,13 @@ draft: false
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/592899-491982603.mp3">
+</audio>
+</div>
+
+
 ## What Is the Focus Techno Drum Hits Collection?
 
 The Focus Techno Drum Hits Collection is a dedicated sample pack from ADSR Sounds, built specifically around authentic techno drum sounds. Rather than offering a broad genre-spanning library, it zeroes in on the percussive palette that defines the techno genre — tight kicks, crisp snares, driving hi-hats, and the kind of industrial-tinged percussion that keeps a dancefloor locked in.

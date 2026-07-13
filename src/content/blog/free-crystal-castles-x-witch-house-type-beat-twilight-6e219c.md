@@ -12,6 +12,11 @@ draft: false
 ---
 **TL;DR:** A free-to-download type beat inspired by the dark, glitchy sound of Crystal Castles and the witch house movement is now available directly from the producer — no cost, no catch mentioned. If you're building a horrorcore, witch house, or atmospheric trap track, this is a zero-risk way to grab a usable instrumental. Stream or download it here: [Crystal Castles x Witch House Type Beat](https://youtu.be/zHCo8IhoRzE).
 
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/zHCo8IhoRzE" title="FREE — Crystal Castles x Witch House Type Beat - TWIL… — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## What Is the Crystal Castles x Witch House Type Beat?
 
 This is a free instrumental ("type beat") produced in the style popularized by Crystal Castles and the broader witch house scene — think detuned synths, chopped vocal chops, and lo-fi distortion layered over heavy, atmospheric drum programming. It was shared directly by its producer and surfaced on Reddit's r/edmproduction community, where free type beats are a common way for beatmakers to get exposure and for vocalists/rappers to find instrumentals without upfront cost. The track is hosted on YouTube, where you can preview and download it.

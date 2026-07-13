@@ -16,6 +16,13 @@ draft: false
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2266342-2114049936.mp3">
+</audio>
+</div>
+
+
 ## What Is Diginoiz Modern Trap Starters?
 
 Diginoiz is a well-established sample pack label known for production-ready hip-hop and trap content. Modern Trap Starters Samples & Loops is one of their trap-focused packs built around the concept of "song starters" — pre-arranged loops that give you a working musical foundation from bar one. Rather than piecing together individual one-shots, you get layered, cohesive loops that already sound like a track in progress. The pack targets producers who want to move fast without sacrificing sonic quality.

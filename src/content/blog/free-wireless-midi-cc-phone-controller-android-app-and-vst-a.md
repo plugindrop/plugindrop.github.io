@@ -14,6 +14,11 @@ draft: false
 
 ---
 
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/AmpIbfPKfDs" title="Free wireless Midi CC Phone Controller (Android app and VST/AU plugin) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## Free Wireless MIDI CC Phone Controller: Android App + VST/AU Plugin
 
 ## What Is the MIDI CC Phone Controller?

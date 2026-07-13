@@ -16,6 +16,13 @@ draft: false
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2312084-2337320927.mp3">
+</audio>
+</div>
+
+
 ## What Is the Banger Samples Obsidian Melody Collection?
 
 Obsidian Melody is a dark trap melody loops and MIDI collection produced by Banger Samples, a sample pack brand focused on modern hip-hop and trap production. The pack targets producers who build in the darker, more intense corner of trap — think minor key progressions, tense atmospheres, and melodic hooks that carry weight. It's sold exclusively through ADSR Sounds, one of the major marketplaces for royalty-free samples and presets.

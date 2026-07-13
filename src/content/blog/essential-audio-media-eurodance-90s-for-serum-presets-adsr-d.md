@@ -15,6 +15,13 @@ heroImage: "/images/essential-audio-media-eurodance-90s-for-serum-presets-adsr-d
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2204474-1880338266.mp3">
+</audio>
+</div>
+
+
 ## What Is Essential Audio Media Eurodance 90s for Serum?
 
 Essential Audio Media Eurodance 90s for Serum is a preset pack designed to recreate the signature sounds of early-to-mid 1990s Eurodance — think pounding synth leads, euphoric pads, bouncy arpeggios, and the kind of hooks that defined a generation of dancefloors. It targets Xfer Records' Serum synthesizer, one of the most widely used soft synths in modern production. The pack is developed by Essential Audio Media, a preset developer known for genre-specific sound libraries aimed at producers who want period-accurate tones without building patches from scratch.
