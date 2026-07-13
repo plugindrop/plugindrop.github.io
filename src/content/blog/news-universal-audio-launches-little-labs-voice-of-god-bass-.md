@@ -4,7 +4,7 @@ description: Universal Audio has just launched the Little Labs Voice of God Bass
   plugin — a digital recreation of the legendary hardware unit designed to add...
 pubDate: '2026-04-14T11:43:38Z'
 tags: ["sale", "bass", "deals", "effects", "eq", "kick", "mastering", "mixing", "native", "resonance", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=little+labs+voice+of+god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-universal-audio-launches-little-labs-voice-of-god-bass-"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17066-Little-Labs-Voice-of-God?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-universal-audio-launches-little-labs-voice-of-god-bass-"
 heroImage: /images/news-universal-audio-launches-little-labs-voice-of-god-bass-.webp
 dealPrice: "$49"
 draft: false

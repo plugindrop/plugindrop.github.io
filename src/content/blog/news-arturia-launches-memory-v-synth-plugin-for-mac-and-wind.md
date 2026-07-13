@@ -3,7 +3,7 @@ title: "News: Arturia Launches Memory V Synth Plugin for Mac and Windows Users"
 description: "Arturia has launched Memory V, a software recreation of the legendary 1982 Memorymoog, available now for just **$15** at launch. That's an entry price..."
 pubDate: "2026-05-29T12:16:49Z"
 tags: ["analog", "arp", "arturia", "arturia memory v", "deals", "effects", "emulation", "instruments", "modeling", "synth", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=overview&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-arturia-launches-memory-v-synth-plugin-for-mac-and-wind"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17383-Memory-V?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-arturia-launches-memory-v-synth-plugin-for-mac-and-wind"
 heroImage: "/images/news-arturia-launches-memory-v-synth-plugin-for-mac-and-wind.jpg"
 score: 7.20
 dealPrice: "$15"

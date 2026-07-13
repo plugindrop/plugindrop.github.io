@@ -6,7 +6,7 @@ tags: ["review", "soundtoys", "music-production"]
 affiliate: "https://www.pluginboutique.com/deals/22775?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763"
 heroImage: /images/soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi.png
 score: 5.1
-draft: false
+draft: true
 converted: true
 ---
 **22775** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/deals/22775?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763)

@@ -3,7 +3,7 @@ title: "RELEASE — OceanTouch: A Free Dual-Delay & Reverb Firmware for Synthux 
 description: "OceanTouch is a completely free custom firmware that transforms the Synthux Touch 2 (Daisy Seed) into a standalone hardware dual-delay and reverb"
 pubDate: "2026-04-26T14:10:48Z"
 tags: ["free", "synth", "release", "music-production"]
-affiliate: "https://www.youtube.com/watch"
+affiliate: "https://www.youtube.com/watch?v=EAGfnLNAbpY"
 heroImage: "/images/release-oceantouch-a-free-dual-delay-reverb-firmware-for-syn.png"
 score: 9.00
 dealPrice: "FREE"

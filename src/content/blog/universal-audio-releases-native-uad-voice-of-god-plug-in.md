@@ -3,7 +3,7 @@ title: "Universal Audio releases native UAD Voice Of God Plug‑In: Features, Pr
 description: "The Little Labs Voice Of God Bass Resonance is Universal Audio's official plug-in recreation of Little Labs'. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-03T04:34:43Z'
 tags: ["review", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=little+labs+voice+of+god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-releases-native-uad-voice-of-god-plug-in"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17066-Little-Labs-Voice-of-God?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-releases-native-uad-voice-of-god-plug-in"
 heroImage: /images/universal-audio-releases-native-uad-voice-of-god-plug-in.webp
 score: 5.18
 draft: false

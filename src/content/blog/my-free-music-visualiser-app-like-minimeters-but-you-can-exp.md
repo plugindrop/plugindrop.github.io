@@ -8,7 +8,7 @@ heroImage: "/images/my-free-music-visualiser-app-like-minimeters-but-you-can-exp
 score: 7.74
 dealPrice: "FREE"
 xText: "free visualiser that exports your meters as video. drop it in tutorials, socials, whatever. go grab it"
-draft: false
+draft: true
 ---
 **TL;DR:** A music producer just released their music visualiser app for **completely free** — built specifically so producers can skip the After Effects grind and post to Instagram and TikTok faster. If you've ever wanted MiniMeters-style visuals with actual video export built in, [grab it now while it's free](https://www.youtube.com/watch).
 
