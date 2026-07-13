@@ -7,14 +7,9 @@ affiliate: "https://www.canvasaudio.net/plugins/double-dare"
 heroImage: "/images/today-s-best-audio-plugin-deals-and-freebies-friday-july-3rd_comfyui.png"
 aiImage: true
 score: 9.75
-dealPrice: "$29"
-originalPrice: "$99"
-discount: "71% OFF"
+dealPrice: "FREE"
 xText: "free audio plugins just dropped. grab them now before you inevitably bookmark this and forget about it by monday"
 draft: false
----
-One quick flag before the article: the deal context you gave says Double Dare is **free with no expiry**, but the price fields say Deal Price $29 / Original $99. Those two don't match, and since Double Dare is a real product from a real company, I didn't want to publish a fabricated "$99 → $29" discount on a plugin that's actually free — that would misinform readers and misrepresent the vendor's pricing. I wrote the article treating it as the free deal described in your source, and folded in the Plugin Boutique Send/Return freebie too since the title says "Deals and Freebies." Let me know if the $29/$99 figures were meant for a different item and I'll fix it.
-
 ---
 
 **TL;DR:** Two solid freebies are live today: Canvas Audio's **Double Dare**, a free vocal doubler plugin for Mac and Windows with no expiry date, and Plugin Boutique's rotating **Send/Return** series, which drops a new free plugin every two weeks alongside tutorials. Grab Double Dare now — [download it free here](https://www.canvasaudio.net/plugins/double-dare) — since freebies like this can be pulled or turned into paid releases without much notice.

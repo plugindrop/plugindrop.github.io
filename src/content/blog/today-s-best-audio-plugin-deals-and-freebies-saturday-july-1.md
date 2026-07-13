@@ -6,7 +6,7 @@ tags: ["free", "music-production"]
 affiliate: "https://www.noizlabs.com/products/beheader"
 heroImage: "/images/today-s-best-audio-plugin-deals-and-freebies-saturday-july-1.jpg"
 score: 10.00
-dealPrice: "$4.99"
+dealPrice: "FREE"
 originalPrice: "$4.99"
 xText: "yo these free plugins just dropped and some hit different. go grab them rn the good stuff goes fast."
 draft: false
