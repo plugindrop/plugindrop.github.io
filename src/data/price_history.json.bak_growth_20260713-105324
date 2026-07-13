@@ -5970,22 +5970,6 @@
           "source": "pb_deals_poll"
         }
       ]
-    },
-    "39% Off Transit 2": {
-      "pb_url": "/product/2-Effects/53-Multi-Effect-/13431-Transit-2",
-      "typical_regular": 129.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-intake 2026-07-13",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-13",
-          "regular": 129.0,
-          "sale": 79.0,
-          "source": "deal_intake"
-        }
-      ]
     }
   }
 }
