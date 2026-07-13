@@ -14,6 +14,11 @@ draft: false
 ---
 **TL;DR:** zplane's ElastiquePitch V2.5 is currently ~~$175.00~~ **$122.50** at Plugin Boutique, a 30% discount. If you need real-time pitch shifting or correction built on zplane's élastique engine, this is a straightforward way to pick it up below list price. [Get ElastiquePitch V2.5 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/4185-ElastiquePitch-V2-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=elastiquepitch-v2-5-7d3be3).
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/5ZUbftSKuJk" title="Introducing: ELASTIQUE PITCH Version 2.5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is ElastiquePitch V2.5?
 
 ElastiquePitch V2.5 is a real-time pitch shifting and correction plugin from zplane.development, the company behind the élastique time-stretching and pitch-shifting engine. That same élastique technology is licensed by major DAW makers, including Ableton and Steinberg, for their own built-in time-stretch and warp tools. ElastiquePitch packages that engine into a standalone effect for pitch correction, vocal tuning, and creative pitch manipulation inside your DAW of choice.
