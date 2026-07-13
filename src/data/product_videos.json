@@ -1,10 +1,45 @@
 {
+  "Arturia Analog Lab": {
+    "video_id": "BKN2Rf8Ss8o",
+    "title": "Arturia Analog Lab: NO TALKING...just Sounds. | Gear4music Synths & Tech",
+    "channel": "Gear4music Synths & Tech",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Arturia Augmented STRINGS": {
+    "video_id": "DULaj145KNQ",
+    "title": "Playthrough | Augmented STRINGS | ARTURIA",
+    "channel": "Arturia",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Arturia CS-80 V": {
+    "video_id": "ut3uIWrTSVI",
+    "title": "Arturia CS-80 V4 | No Talking |",
+    "channel": "DKS SYNTH LAB",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Arturia Jup-8 V": {
     "video_id": "tih7PqwyPc4",
     "title": "ARTURIA JUP-8 V Is Here!  Walkthrough, Demo and Features V Collection 11",
     "channel": "MATTHS",
     "score": 8,
     "source": "article_embed"
+  },
+  "Arturia Mini V": {
+    "video_id": "0zLx3Eiy1Tc",
+    "title": "Mini V | The Greatest Of All Time | ARTURIA",
+    "channel": "Arturia",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Arturia Piano V": {
+    "video_id": "IL7E9O8043Y",
+    "title": "Arturia Piano V Tutorial",
+    "channel": "Arturia",
+    "score": 11,
+    "source": "yt_api_fill"
   },
   "Arturia Pigments": {
     "video_id": "XMmlkkgQ378",
@@ -167,12 +202,33 @@
     "score": 12,
     "source": "yt_api_fill"
   },
+  "Native Instruments Action Strings": {
+    "video_id": "dany1xPTtTo",
+    "title": "ACTION STRINGS | Native Instruments",
+    "channel": "Native Instruments",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Native Instruments Battery 4": {
+    "video_id": "vB66fKl1zpE",
+    "title": "KOMPLETE TruTorials: Easy Riser with BATTERY 4 | Native Instruments",
+    "channel": "Native Instruments",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Native Instruments FM8": {
     "video_id": "lx_L9dPIa78",
     "title": "How To:  A Beginner's Guide to FM8 | Native Instruments",
     "channel": "Native Instruments",
     "score": 10,
     "source": "article_embed"
+  },
+  "Native Instruments Guitar Rig 7 Pro": {
+    "video_id": "RRcTI_xrM3Q",
+    "title": "Guitar Rig 7 Pro walkthrough | Native Instruments",
+    "channel": "Native Instruments",
+    "score": 10,
+    "source": "yt_api_fill"
   },
   "Native Instruments Kontakt 8": {
     "video_id": "bTbFEv_PCwI",
@@ -209,12 +265,33 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "Native Instruments Replika XT": {
+    "video_id": "v5S5rvmsHr4",
+    "title": "Replika XT - Creative multi-mode delay | Native Instruments",
+    "channel": "Native Instruments",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Native Instruments Strummed Acoustic 2": {
     "video_id": "_ng0b_uJJho",
     "title": "STRUMMED ACOUSTIC 2 - Separate Bass Feature | Native Instruments",
     "channel": "Native Instruments",
     "score": 10,
     "source": "article_embed"
+  },
+  "Native Instruments Supercharger GT": {
+    "video_id": "COlY_Qar3b0",
+    "title": "SUPERCHARGER GT Walkthrough - KOMPLETE NOW | Native Instruments",
+    "channel": "Native Instruments",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Output Analog Strings": {
+    "video_id": "TTHNDxVQM3Q",
+    "title": "ANALOG STRINGS by Output - Watch It In Action - Presets Demo",
+    "channel": "Output",
+    "score": 11,
+    "source": "yt_api_fill"
   },
   "Output Portal": {
     "video_id": "-tEGqUbdE-w",
@@ -223,6 +300,34 @@
     "score": 10,
     "source": "article_embed"
   },
+  "Output Substance": {
+    "video_id": "qq6SmkHpI9M",
+    "title": "SUBSTANCE by Output",
+    "channel": "Output",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Plugin Alliance Lindell 80 Series": {
+    "video_id": "g2Wg-djHTKk",
+    "title": "Lindell 80 Series Channel and Buss Overview | Plugin Alliance",
+    "channel": "Plugin Alliance",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Plugin Alliance SPL Vitalizer": {
+    "video_id": "0PdGlBhlL-s",
+    "title": "SPL Vitalizer Mk3-T - Quick Overview | Plugin Alliance",
+    "channel": "Plugin Alliance",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Plugin Alliance Shadow Hills Mastering Compressor": {
+    "video_id": "yxdf7KKWrJw",
+    "title": "Shadow Hills Mastering Compressor NATIVE Plug-in - Feature Walkthrough | Plugin Alliance",
+    "channel": "Plugin Alliance",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Serum 2": {
     "video_id": "3gjqON4gTQU",
     "title": "Dubstep Serum 2 Presets Demo",
@@ -230,9 +335,30 @@
     "score": 8,
     "source": "yt_api_fill"
   },
+  "Softube Drawmer S73": {
+    "video_id": "eX9Ieud9rJw",
+    "title": "Drawmer S73 Intelligent Master Processor Walkthrough – Softube",
+    "channel": "SoftubeStudios",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Softube Model 72": {
+    "video_id": "1hB07rbuYy0",
+    "title": "Softube Model 72 Melodic Techno Soundbank (By Insight) - Single Presets Demo",
+    "channel": "MyloopsVideos",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Softube Tape": {
     "video_id": "X_ozhR7It2c",
     "title": "The Sound of Tape Saturation – Softube",
+    "channel": "SoftubeStudios",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Softube Weiss DS1-MK3": {
+    "video_id": "o91Wr5eo5PE",
+    "title": "Weiss DS1-MK3 Walkthrough – Softube",
     "channel": "SoftubeStudios",
     "score": 8,
     "source": "yt_api_fill"
@@ -258,6 +384,27 @@
     "score": 13,
     "source": "article_embed"
   },
+  "Soundtoys Decapitator": {
+    "video_id": "4pvu-mJqr5k",
+    "title": "Soundtoys Decapitator: A Quick-Start Guide",
+    "channel": "soundtoys",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Soundtoys Devil-Loc Deluxe": {
+    "video_id": "tJbQCzfd8mY",
+    "title": "How to Crush It With Soundtoys Devil-Loc Deluxe",
+    "channel": "soundtoys",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Soundtoys Little AlterBoy": {
+    "video_id": "47p8eiwz3uU",
+    "title": "Getting Started With Soundtoys Little AlterBoy",
+    "channel": "soundtoys",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
   "Soundtoys MicroShift": {
     "video_id": "WmtmNQPreQA",
     "title": "Soundtoys MicroShift",
@@ -270,6 +417,41 @@
     "title": "Spectrasonics Omnisphere 3 with Eric Persing - Interview and Demo",
     "channel": "sonicstate",
     "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Spitfire Albion Colossus": {
+    "video_id": "1OJqS3ffA-Y",
+    "title": "EPIC SOUNDTRACKS! Spitfire Albion Colossus (FIRST LOOK)",
+    "channel": "Creative Sauce",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Spitfire Albion ONE": {
+    "video_id": "33R4c8HrwUc",
+    "title": "Spitfire Walkthrough - Albion ONE: Darwin Percussion",
+    "channel": "Spitfire Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Spitfire Chamber Strings": {
+    "video_id": "B4D1KMZA8Lg",
+    "title": "Overview : Spitfire Chamber Strings Professional",
+    "channel": "Spitfire Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Spitfire Cinematic Soft Piano": {
+    "video_id": "h1FUmSsSqhg",
+    "title": "Spitfire Cinematic Soft Piano - Song Demo",
+    "channel": "Warren Wilcock",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Spitfire Symphony Orchestra": {
+    "video_id": "4H-3YrqvyjU",
+    "title": "OUT NOW: Spitfire Symphony Orchestra",
+    "channel": "Spitfire Audio",
+    "score": 11,
     "source": "yt_api_fill"
   },
   "Synapse Audio Dune 3": {
@@ -300,11 +482,46 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "UAD API Vision Channel Strip": {
+    "video_id": "aTwnR7WAp30",
+    "title": "UAD API Vision Channel Strip Plug-In Trailer",
+    "channel": "Universal Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "UAD Neve 1073": {
+    "video_id": "as8vSCUF1Do",
+    "title": "Neve 1073 Preamp & EQ Plug-In | UAD Quick Tips",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Oxide Tape Recorder": {
+    "video_id": "hMs5eG-4YTY",
+    "title": "5-Minute UAD Tips: Oxide Tape Recorder",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Pultec Passive EQ Collection": {
+    "video_id": "s1WjiyFSUu8",
+    "title": "Pultec Passive EQ Collection Sound Examples | UAD Native & UAD-2",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "UAD Spark": {
     "video_id": "NA6jK9DbwLI",
     "title": "How to polish demo vocals with UAD Spark",
     "channel": "Universal Audio",
     "score": 12,
+    "source": "yt_api_fill"
+  },
+  "UAD Studer A800": {
+    "video_id": "3U6DZIIDTyE",
+    "title": "Studer A800 Tape Machine | UAD Quick Tips",
+    "channel": "Universal Audio",
+    "score": 10,
     "source": "yt_api_fill"
   },
   "UVI Falcon 3": {
@@ -328,6 +545,20 @@
     "score": 8,
     "source": "yt_api_fill"
   },
+  "Waves API 2500": {
+    "video_id": "C_s2DkQsLeM",
+    "title": "Review Of Waves API 2500 Compressor Plug-in",
+    "channel": "Studio One Expert",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
+  "Waves Abbey Road Reverb Plates": {
+    "video_id": "NlWiUtTGhr4",
+    "title": "Waves Abbey Road Reverb Plates Plugin – Audio Demos",
+    "channel": "Waves Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
   "Waves CLA-76": {
     "video_id": "2mF7A3J6plU",
     "title": "Waves CLA-76 Tutorial for Vocals | LV1 Plugin Demo",
@@ -342,11 +573,39 @@
     "score": 11,
     "source": "article_embed"
   },
+  "Waves H-Reverb": {
+    "video_id": "sfSYseNmVU0",
+    "title": "Waves H-Reverb Plugin: In-Depth Tutorial with Audio Demos",
+    "channel": "Waves Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Waves L1 Ultramaximizer": {
+    "video_id": "hAbJYhrGF3U",
+    "title": "How to Use the Waves L1 and L2 Ultramaximizer Plugins",
+    "channel": "Waves Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Waves Renaissance Reverb": {
+    "video_id": "cAd_Qaa4Irk",
+    "title": "Waves Renaissance Reverb overview",
+    "channel": "Czar",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Waves Tune Real-Time": {
     "video_id": "wEYV9FH91Vo",
     "title": "Waves Tune Real-Time – Plugin Tutorial and Demo with Dave Darlington",
     "channel": "Waves Audio",
     "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Waves Vocal Rider": {
+    "video_id": "RMiDEzKv09o",
+    "title": "Intro to Waves Vocal Rider",
+    "channel": "Waves Audio",
+    "score": 11,
     "source": "yt_api_fill"
   },
   "XLN Audio RC-20 Retro Color": {
@@ -362,6 +621,13 @@
     "channel": "iZotope, Inc.",
     "score": 13,
     "source": "article_embed"
+  },
+  "iZotope Iris 2": {
+    "video_id": "96C-5OifLcM",
+    "title": "iZotope Iris 2: Exploring Patches | 20-Minute Manual Video #1",
+    "channel": "iZotope, Inc.",
+    "score": 13,
+    "source": "yt_api_fill"
   },
   "iZotope Music Production Suite": {
     "video_id": "BbADT051Nuk",
@@ -390,6 +656,20 @@
     "channel": "Audio Tech TV",
     "score": 7,
     "source": "article_embed"
+  },
+  "iZotope Tonal Balance Control 2": {
+    "video_id": "l3A9xUkyuuI",
+    "title": "Izotope Tonal Balance Control 2 - A Secret Weapon to Level Up Your Mixes (VST / AU Plugin Review)",
+    "channel": "Subphotic",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
+  "iZotope Trash 2": {
+    "video_id": "xqzbiTSPhaA",
+    "title": "Video de Características | Trash 2 de iZotope",
+    "channel": "iZotope, Inc.",
+    "score": 10,
+    "source": "yt_api_fill"
   },
   "iZotope VocalSynth 2": {
     "video_id": "2BxiHjHzz-k",

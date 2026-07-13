@@ -5984,6 +5984,12 @@
           "regular": 129.0,
           "sale": 79.0,
           "source": "deal_intake"
+        },
+        {
+          "date": "2026-07-13",
+          "sale": 79.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll"
         }
       ]
     }
