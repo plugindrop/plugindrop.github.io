@@ -15,6 +15,13 @@ draft: false
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2121901-1626617736.mp3">
+</audio>
+</div>
+
+
 ## What Is Immense Sounds Halloween Horror Voices Phrases Samples?
 
 Immense Sounds is a sample library developer known for producing niche, production-ready content aimed at composers and producers working in film, game audio, and electronic music. This pack specifically targets the horror and Halloween production space, delivering a curated collection of horror voice recordings, phrase samples, and construction kits. The library is designed to slot directly into dark cinematic scores, horror game soundtracks, Halloween event productions, and spooky-themed electronic tracks. It's a specialist tool — not a general-purpose vocal library.

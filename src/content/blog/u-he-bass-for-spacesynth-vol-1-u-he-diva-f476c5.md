@@ -16,6 +16,13 @@ draft: false
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2307784-2312173556.mp3">
+</audio>
+</div>
+
+
 ## What Is U-he Bass For Spacesynth Vol 1?
 
 Bass For Spacesynth Vol 1 is a preset library designed specifically for U-he Diva, one of the most respected virtual analog synthesizers in production today. The pack targets the spacesynth genre — a niche but dedicated corner of electronic music rooted in 80s space-themed synth pop and italo disco. Rather than casting a wide net across sound categories, this library zeroes in on bass tones: the deep, pulsing, and often heavily filtered low-end textures that define the spacesynth aesthetic. Diva is required to use the presets; they are not standalone instruments.

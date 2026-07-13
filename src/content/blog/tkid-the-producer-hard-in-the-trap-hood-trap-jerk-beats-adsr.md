@@ -15,6 +15,13 @@ draft: false
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2306307-2303705495.mp3">
+</audio>
+</div>
+
+
 ## What Is Tkid The Producer Hard In The Trap Hood Trap Jerk Beats?
 
 This is a beat and loop pack from Tkid The Producer, a producer known for crafting grimy, bass-heavy trap and jerk music. The pack is designed to deliver ready-to-use material in the hood trap and jerk subgenres — two styles with strong regional roots in Southern rap and West Coast party music. Available through ADSR Sounds, it sits in the presets/beats category, making it a practical toolkit for producers who want authentic-sounding foundations fast.

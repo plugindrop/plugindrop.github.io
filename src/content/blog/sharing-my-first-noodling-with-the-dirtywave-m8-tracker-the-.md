@@ -14,6 +14,11 @@ draft: false
 
 ---
 
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TpBIjuG5C4Q" title="Sharing my first noodling with the Dirtywave M8 Tracker – the &quot;render&quot; function is also great for cable-free videos 😉 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## What Is the Dirtywave M8 Tracker?
 
 The **Dirtywave M8** is a handheld music tracker and synthesizer designed for producers who want a fully self-contained, portable creative tool. Built by Dirtywave, it packs a sequencer, multiple synthesis engines, and sample playback into a palm-sized device with a small display. The M8 runs on battery power, making it genuinely portable — no laptop, no DAW required.

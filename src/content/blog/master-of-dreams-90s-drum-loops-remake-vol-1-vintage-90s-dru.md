@@ -16,6 +16,13 @@ draft: false
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2304571-2304365180.mp3">
+</audio>
+</div>
+
+
 ## What Is Master Of Dreams 90S Drum Loops Remake Vol 1?
 
 Master Of Dreams 90S Drum Loops Remake Vol 1 is a sample pack dedicated to recreating the drum loop sound of 1990s hip-hop and R&B production. Rather than sampling original records, it takes a remake approach — crafting loops that capture the warmth, punch, and gritty texture that defined the era. It's available exclusively through ADSR Sounds, currently at a 40% markdown.

@@ -16,6 +16,13 @@ score: 4.04
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2266710-2115390003.mp3">
+</audio>
+</div>
+
+
 ## What Is Khron Studio Mech Core Alliance?
 
 Khron Studio Mech Core Alliance is a samples and loops pack designed for producers working in industrial, cyberpunk, sci-fi, and hybrid electronic music genres. Khron Studio has built a reputation for releasing niche, texture-heavy content that sits between cinematic sound design and club-ready production. This pack targets the gap between raw mechanical noise and musical loops — the kind of gritty, mechanical DNA that elevates modern bass music, dark techno, and sync-ready production.

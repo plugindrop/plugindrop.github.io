@@ -15,6 +15,13 @@ heroImage: "/images/shamanstems-witch-house-hip-hop-serum-presets-adsr-deal.jpg"
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/1482445-972653638.mp3">
+</audio>
+</div>
+
+
 ## What Is Shamanstems Witch House Hip Hop Serum Presets?
 
 Shamanstems Witch House Hip Hop Serum Presets is a sound design pack for Xfer Records Serum, targeting producers who work in witch house, dark trap, lo-fi hip hop, and adjacent underground genres. The pack is focused on delivering eerie, occult-tinged textures and melodic elements that define the witch house aesthetic — think heavily reverbed leads, detuned pads, and murky bass tones. It's listed on ADSR Sounds, one of the most established marketplaces for third-party presets and samples.

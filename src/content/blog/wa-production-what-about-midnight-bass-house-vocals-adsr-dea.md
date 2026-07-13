@@ -15,6 +15,13 @@ draft: false
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2306724-2303059487.mp3">
+</audio>
+</div>
+
+
 ## What Is Wa Production What About Midnight Bass House Vocals?
 
 Wa Production is a well-established name in the sample pack and plugin space, known for their genre-specific "What About" series. *What About Midnight Bass House Vocals* is a dedicated vocal sample library built for producers working in bass house and adjacent styles — think dark, driving grooves with processed vocal energy layered on top. The pack targets a specific sonic lane: the late-night, subby side of bass house rather than the more polished, festival-pop end of the spectrum.

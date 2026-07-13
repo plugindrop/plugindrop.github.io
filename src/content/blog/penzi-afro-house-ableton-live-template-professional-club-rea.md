@@ -14,6 +14,13 @@ draft: false
 ---
 **TL;DR:** Ableton Live producers can grab PENZI, a club-ready Afro House template from Mister Pluck Production, for ~~$22~~ **$13.20** at ADSR Sounds — a 40% discount. If you're building out an Afro House set and want a professional arrangement to learn from or remix, [get PENZI here](https://www.adsrsounds.com/product/presets/mister-pluck-production-penzi-afro-house-ableton-live-template-professional-club-ready-production-project/?a_aid=plugindrop&data1=penzi-afro-house-ableton-live-template-professional-club-rea&utm_source=plugindrop&utm_medium=article&utm_campaign=penzi-afro-house-ableton-live-template-professional-club-rea) while the deal is live.
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2315289-2355691619.mp3">
+</audio>
+</div>
+
+
 ## What Is PENZI?
 
 PENZI is an Afro House Ableton Live Template produced by Mister Pluck Production and sold through ADSR Sounds. It's built as a professional, club-ready production project — meaning the arrangement, sound selection, and mix decisions are already made for you inside an Ableton Live Set. Templates like this are typically used as a starting point for original productions, a remix framework, or a study reference for producers trying to understand how a polished Afro House track is structured.

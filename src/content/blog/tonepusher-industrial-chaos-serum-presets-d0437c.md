@@ -16,6 +16,13 @@ draft: false
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/1809105-1175376457.mp3">
+</audio>
+</div>
+
+
 ## What Is Tonepusher Industrial Chaos Serum Presets?
 
 Industrial Chaos is a Serum preset pack from Tonepusher, designed around the darker end of the sonic spectrum. The pack targets producers working in industrial, EBM, dark techno, noise, and experimental electronic genres — sounds built for grit, aggression, and texture rather than clean polish. It requires Xfer Records Serum, one of the most widely used wavetable synthesizers in modern production.

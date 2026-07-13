@@ -16,6 +16,13 @@ draft: false
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2310682-2325023651.mp3">
+</audio>
+</div>
+
+
 ## What Is Shocking Melodic Techno 2 For Serum?
 
 Shocking Melodic Techno 2 is a preset and MIDI collection by **Vandalism**, a sound design label with a long catalog of genre-targeted packs for Xfer Records' Serum synthesizer. This release focuses specifically on the melodic techno sound — layered pads, driving leads, atmospheric textures, and the hypnotic chord progressions that define the genre. It's the follow-up to their original Shocking Melodic Techno pack, expanding on that foundation with new sounds and accompanying MIDI data.

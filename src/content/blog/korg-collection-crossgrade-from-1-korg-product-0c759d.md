@@ -16,6 +16,11 @@ draft: false
 
 ---
 
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EYu-d1_N_tw" title="40% Off KORG Collection Crossgrade from 1 KORG Product — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## What Is the KORG Collection Crossgrade?
 
 The KORG Collection is KORG's official software bundle of precisely recreated versions of their most iconic hardware synthesizers and keyboards. It brings together multiple legendary instruments — including the M1, Wavestation, MS-20, Polysix, Mono/Poly, ARP Odyssey, and others — into a single cohesive software suite. The crossgrade offer makes the full Collection available at a significantly reduced price for users who already own at least one qualifying KORG software product. Check the Plugin Boutique product page for the full list of eligible titles.

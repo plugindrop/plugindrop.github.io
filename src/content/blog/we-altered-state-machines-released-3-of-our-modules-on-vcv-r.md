@@ -14,6 +14,11 @@ heroImage: "/images/we-altered-state-machines-released-3-of-our-modules-on-vcv-r
 
 ---
 
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/xVIjHaD8eAw" title="We (Altered State Machines) released 3 of our Modules on VCV Rack for free. Here's a crappy video announcing it! — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## Altered State Machines Drops 3 Free VCV Rack Modules
 
 ## What Are These VCV Rack Modules?

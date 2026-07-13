@@ -16,6 +16,13 @@ draft: false
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2312571-2337294707.mp3">
+</audio>
+</div>
+
+
 ## What Are Relentless Dark Drill Construction Kits by Project Blvck?
 
 Project Blvck is a sample pack brand known for urban, street-influenced sounds — and Relentless Dark Drill Construction Kits is built squarely for producers working in the drill lane. The "construction kit" format means you're getting multi-track stems organized by song, not just loose loops. That structure gives you the flexibility to pull individual elements, rearrange them, or rebuild tracks entirely from the ground up. The focus is on the heavy, minor-key aesthetic that defines modern drill — dark, cinematic, and intentionally intense.

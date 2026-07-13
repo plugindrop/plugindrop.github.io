@@ -16,6 +16,13 @@ draft: false
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2260539-2092068783.mp3">
+</audio>
+</div>
+
+
 ## What Are the Efrits Of Djamena Serum 2 Presets?
 
 Efrits Of Djamena is a Serum 2 preset pack from Infinity Audio, designed specifically for Melodic Afro House production. The collection draws thematic inspiration from N'Djamena — the capital of Chad — and the mystical concept of efrits (spirits from Islamic folklore), giving it a distinctly evocative, cultural character. Infinity Audio positions the pack for producers who want ready-to-play sounds rooted in the tonal palette of modern Afro House. It runs exclusively in Xfer Records' **Serum 2** synthesizer.

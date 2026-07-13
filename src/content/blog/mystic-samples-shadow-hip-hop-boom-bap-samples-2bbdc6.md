@@ -16,6 +16,13 @@ draft: false
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2312921-2346444071.mp3">
+</audio>
+</div>
+
+
 ## What Is Mystic Samples Shadow Hip Hop Boom Bap Samples?
 
 Shadow Hip Hop Boom Bap Samples is a genre-focused sample library from Mystic Samples, aimed squarely at producers working in the 90s hip hop and boom bap tradition. The "Shadow" name signals the aesthetic clearly: dark, atmospheric, vinyl-influenced sounds rather than polished modern hip hop. Mystic Samples builds packs around tight genre briefs, so the content here stays on-theme rather than trying to cover broad territory.

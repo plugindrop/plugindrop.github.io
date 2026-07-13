@@ -16,6 +16,13 @@ draft: false
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2307807-2310268694.mp3">
+</audio>
+</div>
+
+
 ## What Is Vandalism Shocking Afro House for Vital?
 
 Vandalism is a preset developer known for releasing genre-focused sound libraries for popular synthesizers. *Shocking Afro House* is their dedicated preset pack for Vital — Matt Tytel's widely used spectral warping wavetable synthesizer — built specifically for producers working in the Afro house and Afrobeats-adjacent space. The pack targets the rhythmic textures, percussive leads, and lush pads that define the genre, packaged as ready-to-use presets that load directly into Vital.

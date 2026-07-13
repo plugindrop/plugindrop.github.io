@@ -16,6 +16,13 @@ draft: false
 
 ---
 
+<div class="audio-embed">
+<audio controls style="width:100%">
+  <source src="https://adsrsounds.com/mp3/2309965-2324255009.mp3">
+</audio>
+</div>
+
+
 ## What Is Master Of Dreams Drum Machine 626?
 
 Master Of Dreams Drum Machine 626 is a custom preset and sample collection centered on three of the most influential drum machines in recorded music history: the Linn LM-1, the Oberheim DMX, and the Roland TR-707. These machines shaped the sound of early hip-hop, funk, electro, and R&B — and this pack brings those textures into modern production workflows. It's available through ADSR Sounds, a well-established marketplace for production tools and sample libraries.
