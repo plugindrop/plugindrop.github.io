@@ -94,7 +94,11 @@ const heroPosts = allPosts.filter(hasHeroImage);
 const topDeals = heroPosts
 	.filter(p => p.data.affiliate && !isExpired(p) && isRealDeal(p) && !isFreePrice(p.data.dealPrice) && !isSamplePackDeal(p))
 	.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
-	.slice(0, 6);
+	.slice(0, 9);
+const topDealIds = new Set(topDeals.map(post => post.id));
+const moreFreshDeals = allPosts
+	.filter(p => !topDealIds.has(p.id) && p.data.affiliate && !isExpired(p) && isRealDeal(p))
+	.slice(0, 10);
 ---
 
 <!doctype html>
@@ -160,6 +164,23 @@ const topDeals = heroPosts
 							);
 						})}
 					</div>
+					{moreFreshDeals.length > 0 && (
+						<div class="more-deals">
+							<header class="more-deals-hd">
+								<h3>More fresh deals</h3>
+								<a href="/posts/">All deals &rarr;</a>
+							</header>
+							<div class="more-deals-list">
+								{moreFreshDeals.map(post => (
+									<div class="more-deal-row" data-more-deal>
+										<a href={`/posts/${post.id}/`}>{post.data.title}</a>
+										{post.data.dealPrice && <strong>{post.data.dealPrice}</strong>}
+										{post.data.discount && <span class="discount-chip">{post.data.discount}</span>}
+									</div>
+								))}
+							</div>
+						</div>
+					)}
 				</section>
 			)}
 
@@ -242,6 +263,18 @@ const topDeals = heroPosts
 	.deal-prices s { color: var(--text-muted); font-size: 0.75rem; }
 	.discount-chip { display: inline-block; padding: 0.15rem 0.4rem; border-radius: var(--radius-sm); background: var(--sale-bg); color: var(--sale-text); font-family: var(--font-mono); font-size: 0.68rem; font-weight: 700; white-space: nowrap; }
 	.deal-store { overflow: hidden; margin-top: 0.65rem; color: var(--text-muted); font-size: 0.72rem; text-overflow: ellipsis; white-space: nowrap; }
+	.more-deals { margin-top: 2rem; }
+	.more-deals-hd { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-bottom: 0.6rem; }
+	.more-deals-hd h3 { margin: 0; color: var(--text-primary); font-family: var(--font-display); font-size: 1rem; font-weight: 400; }
+	.more-deals-hd a { color: var(--accent); font-size: 0.8rem; text-decoration: none; white-space: nowrap; }
+	.more-deals-hd a:hover { text-decoration: underline; }
+	.more-deals-list { overflow: hidden; border: 1px solid var(--border); border-radius: var(--radius); }
+	.more-deal-row { display: grid; grid-template-columns: minmax(0, 1fr) auto auto; align-items: center; gap: 0.65rem; padding: 0.65rem 0.8rem; background: var(--bg-card); }
+	.more-deal-row + .more-deal-row { border-top: 1px solid var(--border); }
+	.more-deal-row:hover { background: var(--bg-card-hover); }
+	.more-deal-row > a { overflow: hidden; color: var(--text-primary); font-size: 0.82rem; text-decoration: none; text-overflow: ellipsis; white-space: nowrap; }
+	.more-deal-row > a:hover { color: var(--accent); }
+	.more-deal-row > strong { color: var(--text-primary); font-family: var(--font-mono); font-size: 0.78rem; font-variant-numeric: tabular-nums; white-space: nowrap; }
 	.score-badge { display: inline-flex; min-width: 2rem; align-items: center; justify-content: center; padding: 0.18rem 0.4rem; border-radius: var(--radius-sm); color: var(--bg-base); background: var(--text-muted); font-family: var(--font-mono); font-size: 0.68rem; font-weight: 700; }
 	.score-badge.is-good { background: var(--verdict-good); }
 	.score-badge.is-ok { background: var(--verdict-ok); }
