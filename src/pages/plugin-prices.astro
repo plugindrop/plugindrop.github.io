@@ -435,7 +435,7 @@ const pageLD = {
         </div>
       </div>
 
-      <p class="score-legend mono">Deal Score: 100 = at all-time low · 0 = regular price. Green ≥70 · Amber ≥40 · Red &lt;40</p>
+      <p class="score-legend mono">Deal Score: 100 = at all-time low · 0 = regular price · — = no discount history. Green ≥70 · Amber ≥40 · Red &lt;40</p>
 
       <h2 id="individual" class="section-title">Individual Plugins</h2>
       <div class="ledger-wrap">
@@ -491,7 +491,7 @@ const pageLD = {
                 </td>
                 <td class="mono">
                   {row.dealScore.verdict === 'none' ? (
-                    <span class="score-none">—</span>
+                    <span class="score-none" title="No discount history — price is stable">—</span>
                   ) : (
                     <span class={`score-badge ${row.dealScore.verdict}`}>{row.dealScore.score}</span>
                   )}
@@ -602,7 +602,7 @@ const pageLD = {
                 </td>
                 <td class="mono">
                   {row.dealScore.verdict === 'none' ? (
-                    <span class="score-none">—</span>
+                    <span class="score-none" title="No discount history — price is stable">—</span>
                   ) : (
                     <span class={`score-badge ${row.dealScore.verdict}`}>{row.dealScore.score}</span>
                   )}

@@ -37,8 +37,14 @@ const trackerRows = Object.entries(trackerEntries)
 			dealScore: dealScoreNumeric(entry),
 		};
 	})
-	.sort((a, b) => b.dealScore.score - a.dealScore.score || a.name.localeCompare(b.name))
-	.slice(0, 40);
+	.sort((a, b) => {
+		const aHasScore = a.dealScore.verdict !== 'none';
+		const bHasScore = b.dealScore.verdict !== 'none';
+		if (aHasScore !== bHasScore) return aHasScore ? -1 : 1;
+		return aHasScore
+			? b.dealScore.score - a.dealScore.score || a.name.localeCompare(b.name)
+			: a.name.localeCompare(b.name);
+	});
 
 const allPosts = (await getCollection('blog'))
 	.filter((p) => !p.data.draft)
@@ -193,7 +199,7 @@ const moreFreshDeals = allPosts
 					<a href="/plugin-prices/">Open full tracker &rarr;</a>
 				</header>
 				<label class="sr-only" for="tracker-filter">Filter tracked plugins</label>
-				<input id="tracker-filter" class="tracker-filter" type="search" placeholder="Filter 254 plugins…" />
+				<input id="tracker-filter" class="tracker-filter" type="search" placeholder={`Filter ${trackedCount} plugins…`} />
 				<div class="tracker-table-wrap">
 					<table class="tracker-table">
 						<thead><tr><th>Plugin</th><th>Current</th><th>Regular</th><th>Off</th><th>Score</th><th><span class="sr-only">Store</span></th></tr></thead>
@@ -204,7 +210,7 @@ const moreFreshDeals = allPosts
 									<td class="price-current">{formatPrice(row.current)}</td>
 									<td><s class="price-regular">{formatPrice(row.regular)}</s></td>
 									<td>{row.off > 0 ? <span class="discount-chip">&minus;{row.off}%</span> : <span class="muted">&mdash;</span>}</td>
-									<td><span class={`score-badge is-${row.dealScore.verdict}`}>{row.dealScore.score}</span></td>
+									<td>{row.dealScore.verdict === 'none' ? <span class="muted" title="No discount history — price is stable">&mdash;</span> : <span class={`score-badge is-${row.dealScore.verdict}`}>{row.dealScore.score}</span>}</td>
 									<td><a class="pb-link" href={pbLink(row.entry.pb_url)} target="_blank" rel="noopener sponsored">PB &rarr;</a></td>
 								</tr>
 							))}

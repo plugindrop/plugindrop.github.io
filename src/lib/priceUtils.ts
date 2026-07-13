@@ -179,6 +179,10 @@ export function dealScoreNumeric(entry: PriceEntry): { score: number; verdict: '
   const hi = latest?.regular ?? entry.typical_regular;
   const atl = entry.all_time_low;
 
+  if (atl !== null && hi !== null && atl >= hi * 0.98) {
+    return { score: 0, verdict: 'none' };
+  }
+
   if (current === null || hi === null || atl === null) {
     return { score: 0, verdict: 'none' };
   }

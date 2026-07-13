@@ -6,8 +6,9 @@ tags: ["free", "bleass", "vocals", "music-production"]
 affiliate: "https://www.pluginboutique.com/products/11909-BLEASS-Vox?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bleass-vox-vocal-processor-free-with-purchase-at-plugin-bout"
 heroImage: "/images/bleass-vox-vocal-processor-free-with-purchase-at-plugin-bout.jpg"
 score: 8.64
-dealPrice: "$39.00"
+dealPrice: "FREE"
 originalPrice: "$39"
+saleExpiry: "2026-06-30"
 xText: "free bleass vox with any plugin boutique purchase. solid vocal processor that sits right in a mix. grab it while the deal lasts"
 draft: false
 ---
