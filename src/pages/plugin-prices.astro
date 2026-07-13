@@ -4,7 +4,7 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_TITLE } from '../consts';
 import priceData from '../data/price_history.json';
-import { dealScoreNumeric } from '../lib/priceUtils';
+import { dealScoreNumeric, sparklinePoints } from '../lib/priceUtils';
 
 const AFF = "a_aid=69cb95abe1763";
 const pbLink = (path: string) =>
@@ -64,6 +64,80 @@ const CATEGORIES = [
   'Limiter', 'Instrument', 'Drums', 'Vocal', 'Bundle', 'Effects', 'Utility',
 ];
 
+// Same brand-detection rules as /brands/index.astro. Keep this list in sync so
+// the tracker facets never disagree with the site's canonical brand pages.
+const BRAND_ALIASES: Array<{ canonical: string; prefixes: string[] }> = [
+  { canonical: 'FabFilter', prefixes: ['FabFilter'] },
+  { canonical: 'u-he', prefixes: ['u-he'] },
+  { canonical: 'Native Instruments', prefixes: ['Native Instruments', 'NI Komplete'] },
+  { canonical: 'Arturia', prefixes: ['Arturia'] },
+  { canonical: 'iZotope', prefixes: ['iZotope'] },
+  { canonical: 'Waves', prefixes: ['Waves'] },
+  { canonical: 'Soundtoys', prefixes: ['Soundtoys'] },
+  { canonical: 'Softube', prefixes: ['Softube'] },
+  { canonical: 'Plugin Alliance', prefixes: ['Plugin Alliance'] },
+  { canonical: 'Universal Audio', prefixes: ['UAD', 'Universal Audio'] },
+  { canonical: 'Spitfire Audio', prefixes: ['Spitfire Audio', 'Spitfire'] },
+  { canonical: 'Output', prefixes: ['Output'] },
+  { canonical: 'Baby Audio', prefixes: ['Baby Audio'] },
+  { canonical: 'Cherry Audio', prefixes: ['Cherry Audio'] },
+  { canonical: 'Kilohearts', prefixes: ['Kilohearts'] },
+  { canonical: 'Xfer', prefixes: ['Xfer'] },
+  { canonical: 'Spectrasonics', prefixes: ['Spectrasonics'] },
+  { canonical: 'UVI', prefixes: ['UVI'] },
+  { canonical: 'Toontrack', prefixes: ['Toontrack'] },
+  { canonical: 'XLN Audio', prefixes: ['XLN Audio'] },
+  { canonical: 'Slate Digital', prefixes: ['Slate Digital'] },
+  { canonical: 'Valhalla', prefixes: ['Valhalla'] },
+  { canonical: 'Eventide', prefixes: ['Eventide'] },
+  { canonical: 'Sonnox', prefixes: ['Sonnox'] },
+  { canonical: 'Cableguys', prefixes: ['Cableguys'] },
+  { canonical: 'Newfangled Audio', prefixes: ['Newfangled Audio', 'Newfangled'] },
+  { canonical: 'GForce', prefixes: ['GForce'] },
+  { canonical: 'Sonible', prefixes: ['Sonible'] },
+  { canonical: 'oeksound', prefixes: ['oeksound'] },
+  { canonical: 'Wavesfactory', prefixes: ['Wavesfactory'] },
+  { canonical: 'Klanghelm', prefixes: ['Klanghelm'] },
+  { canonical: 'AudioThing', prefixes: ['AudioThing'] },
+  { canonical: 'Denise Audio', prefixes: ['Denise Audio'] },
+  { canonical: 'Minimal Audio', prefixes: ['Minimal Audio'] },
+  { canonical: 'Excite Audio', prefixes: ['Excite Audio'] },
+  { canonical: 'Heavyocity', prefixes: ['Heavyocity'] },
+  { canonical: 'ProjectSAM', prefixes: ['ProjectSAM'] },
+  { canonical: 'EastWest', prefixes: ['EastWest'] },
+  { canonical: 'Vengeance', prefixes: ['Vengeance Sound', 'Vengeance'] },
+  { canonical: 'reFX', prefixes: ['reFX'] },
+  { canonical: 'Reveal Sound', prefixes: ['Reveal Sound'] },
+  { canonical: 'KV331', prefixes: ['KV331 Audio', 'KV331'] },
+  { canonical: 'LennarDigital', prefixes: ['LennarDigital'] },
+  { canonical: 'Celemony', prefixes: ['Celemony'] },
+  { canonical: 'Antares', prefixes: ['Antares'] },
+  { canonical: 'Relab', prefixes: ['Relab Development', 'Relab'] },
+  { canonical: 'LiquidSonics', prefixes: ['LiquidSonics'] },
+  { canonical: 'DMG Audio', prefixes: ['DMG Audio'] },
+  { canonical: 'GetGood Drums', prefixes: ['GetGood Drums'] },
+];
+
+function escapeRegExp(s: string): string {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+const brandPrefixes = BRAND_ALIASES
+  .flatMap(({ canonical, prefixes }) => prefixes.map((prefix) => ({ prefix, canonical })))
+  .sort((a, b) => b.prefix.length - a.prefix.length);
+
+function detectDeveloper(name: string, notes: string | undefined): string | null {
+  for (const { prefix, canonical } of brandPrefixes) {
+    if (name === prefix || name.startsWith(`${prefix} `)) return canonical;
+  }
+  if (notes) {
+    for (const { prefix, canonical } of brandPrefixes) {
+      if (new RegExp(`\\b${escapeRegExp(prefix)}\\b`).test(notes)) return canonical;
+    }
+  }
+  return null;
+}
+
 // Infers a category tag from the entry's own `category` field when present,
 // otherwise from keyword matches against its name, notes and PB catalog URL
 // (which often carries a real category segment, e.g. "/16-EQ/", "/4-Synth/").
@@ -97,30 +171,6 @@ function inferCategory(name: string, notes: string | undefined, pbUrl: string, i
   return isBundleSection ? 'Bundle' : 'Effects';
 }
 
-// Builds an SVG polyline points-string from an entry's history (sale price when
-// available, otherwise regular price). Returns null when there isn't enough
-// data to draw an honest trend line.
-function sparklinePoints(history: HistoryEntry[]): string | null {
-  const vals = history.map((h) => h.sale ?? h.regular).filter((v): v is number => v !== null);
-  if (vals.length < 2) return null;
-
-  const min = Math.min(...vals);
-  const max = Math.max(...vals);
-  const range = max - min || 1;
-  const w = 100;
-  const h = 28;
-  const pad = 3;
-  const step = (w - pad * 2) / (vals.length - 1);
-
-  return vals
-    .map((v, i) => {
-      const x = pad + i * step;
-      const y = pad + (h - pad * 2) * (1 - (v - min) / range);
-      return `${x.toFixed(1)},${y.toFixed(1)}`;
-    })
-    .join(' ');
-}
-
 // Finds the date a bundle's recorded all_time_low actually happened, when it
 // matches a logged history entry. Returns null rather than guessing.
 function findLowestDate(bundle: BundleData): string | null {
@@ -133,6 +183,7 @@ interface Row {
   name: string;
   slug: string;
   category: string;
+  developer: string | null;
   bundle: BundleData;
   current: number | null;
   regular: number | null;
@@ -148,10 +199,12 @@ function buildRow(name: string, bundle: BundleData, isBundleSection: boolean): R
   const latest = bundle.history.at(-1);
   const regular = latest?.regular ?? null;
   const sale = latest?.sale ?? null;
+  const developer = detectDeveloper(name, bundle.notes);
   return {
     name,
     slug: slugify(name),
     category: bundle.category ?? inferCategory(name, bundle.notes, bundle.pb_url, isBundleSection),
+    developer,
     bundle,
     current: sale ?? regular,
     regular,
@@ -160,7 +213,7 @@ function buildRow(name: string, bundle: BundleData, isBundleSection: boolean): R
     dealScore: dealScoreNumeric(bundle),
     pts: sparklinePoints(bundle.history),
     lowestDate: findLowestDate(bundle),
-    searchText: `${name} ${bundle.notes ?? ''}`.toLowerCase(),
+    searchText: `${name} ${developer ?? ''} ${bundle.notes ?? ''}`.toLowerCase(),
   };
 }
 
@@ -174,6 +227,16 @@ const bundleRows = Object.entries(bundles)
 
 const allRows = [...pluginRows, ...bundleRows];
 const totalTracked = allRows.length;
+const categoryCounts = new Map<string, number>();
+const developerCounts = new Map<string, number>();
+for (const row of allRows) {
+  categoryCounts.set(row.category, (categoryCounts.get(row.category) ?? 0) + 1);
+  if (row.developer) developerCounts.set(row.developer, (developerCounts.get(row.developer) ?? 0) + 1);
+}
+const developers = [...developerCounts.entries()]
+  .filter(([, count]) => count >= 2)
+  .map(([name, count]) => ({ name, count }))
+  .sort((a, b) => a.name.localeCompare(b.name));
 const onSaleCount = allRows.filter(
   (r) => r.currentIsSale && r.bundle.typical_regular !== null && r.current !== null && r.current < r.bundle.typical_regular
 ).length;
@@ -224,7 +287,7 @@ const pageLD = {
         padding-top: 0.5rem;
       }
 
-      /* Toolbar: search + category chips */
+      /* Toolbar: search + active filters */
       .tracker-toolbar {
         position: sticky;
         top: 0;
@@ -248,19 +311,71 @@ const pageLD = {
       .search-count { font-size: 0.75rem; color: var(--text-muted); white-space: nowrap; }
       .search-updated { font-size: 0.75rem; color: var(--text-muted); white-space: nowrap; }
 
-      .chip-row { display: flex; flex-wrap: wrap; gap: 0.5rem; }
-      .chip {
-        padding: 0.35rem 0.85rem; border-radius: 999px;
+      .active-filter-row { display: flex; align-items: center; flex-wrap: wrap; gap: 0.5rem; }
+      .active-filter-row[hidden] { display: none; }
+      .active-filter-label {
+        color: var(--text-muted); font-size: 0.68rem; font-weight: 700;
+        letter-spacing: 0.06em; text-transform: uppercase;
+      }
+      :global(.active-filter-chip) {
+        padding: 0.3rem 0.65rem; border-radius: 999px;
         border: 1px solid var(--border); background: var(--bg-card);
-        color: var(--text-secondary); font-size: 0.78rem; font-weight: 600;
+        color: var(--text-secondary); font-size: 0.72rem; font-weight: 600;
         cursor: pointer; transition: background 0.15s, border-color 0.15s, color 0.15s;
         white-space: nowrap; font-family: inherit;
       }
-      .chip:hover { border-color: var(--accent-border-hover); color: var(--text-primary); }
-      .chip.active { background: var(--accent-muted); border-color: var(--accent); color: var(--accent-light); }
+      :global(.active-filter-chip:hover) { border-color: var(--accent); color: var(--text-primary); }
+      .clear-filters {
+        border: 0; background: none; color: var(--accent); padding: 0.3rem;
+        font: inherit; font-size: 0.72rem; cursor: pointer;
+      }
+      .clear-filters:hover { color: var(--accent-light); }
 
-      @media (max-width: 640px) {
+      /* Faceted tracker layout */
+      .tracker-layout {
+        display: grid; grid-template-columns: 220px minmax(0, 1fr);
+        gap: 1.5rem; align-items: start;
+      }
+      .tracker-sidebar {
+        position: sticky; top: 6rem; max-height: calc(100vh - 7rem); overflow-y: auto;
+        border: 1px solid var(--border); background: var(--bg-low); border-radius: var(--radius);
+      }
+      .facet-panel summary {
+        padding: 0.8rem 1rem; color: var(--text-primary); cursor: pointer;
+        font-size: 0.8rem; font-weight: 700; border-bottom: 1px solid var(--border);
+      }
+      .facet-panel:not([open]) summary { border-bottom: 0; }
+      .facet-body { padding: 0 1rem; }
+      .facet-section { padding: 1rem 0; border-bottom: 1px solid var(--border); }
+      .facet-section:last-child { border-bottom: 0; }
+      .facet-heading {
+        margin: 0 0 0.65rem; color: var(--text-muted); font-size: 0.68rem;
+        font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase;
+      }
+      .facet-options { display: grid; gap: 0.25rem; }
+      .facet-options.developers { max-height: 13rem; overflow-y: auto; padding-right: 0.2rem; }
+      .facet-option {
+        display: flex; align-items: center; justify-content: space-between; gap: 0.5rem;
+        min-width: 0; padding: 0.2rem 0; color: var(--text-secondary); cursor: pointer;
+        font-size: 0.78rem;
+      }
+      .facet-option-main { display: flex; align-items: center; gap: 0.5rem; min-width: 0; }
+      .facet-option-name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+      .facet-option input { accent-color: var(--accent); flex: 0 0 auto; }
+      .facet-count { color: var(--text-muted); font-size: 0.68rem; }
+      .score-control-head { display: flex; align-items: center; justify-content: space-between; gap: 0.5rem; }
+      .score-control-head .facet-heading { margin-bottom: 0; }
+      .score-value { color: var(--accent); font-size: 0.72rem; }
+      .score-range { width: 100%; margin-top: 0.75rem; accent-color: var(--accent); }
+      .tracker-results { min-width: 0; }
+
+      @media (max-width: 800px) {
         .tracker-toolbar { position: static; }
+        .tracker-layout { grid-template-columns: 1fr; gap: 1rem; }
+        .tracker-sidebar { position: static; max-height: none; overflow: visible; }
+        .facet-body { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 1.5rem; }
+        .facet-section { min-width: 0; }
+        .facet-section:last-child { border-bottom: 1px solid var(--border); }
       }
 
       /* Ledger table */
@@ -366,6 +481,7 @@ const pageLD = {
         .page-header h1 { font-size: 1.5rem; }
         .stats-row { gap: 0.5rem; }
         .stat-chip { padding: 0.5rem 0.75rem; }
+        .facet-body { grid-template-columns: 1fr; }
       }
     </style>
   </head>
@@ -422,23 +538,79 @@ const pageLD = {
           <span class="search-count" id="search-count">Showing {totalTracked} of {totalTracked}</span>
           <span class="search-updated">Last updated {last_updated}</span>
         </div>
-        <div class="chip-row" id="category-chips" role="group" aria-label="Filter by category">
-          {CATEGORIES.map((cat) => (
-            <button
-              type="button"
-              class={cat === 'All' ? 'chip active' : 'chip'}
-              data-cat={cat}
-            >
-              {cat}
-            </button>
-          ))}
+        <div class="active-filter-row" id="active-filters" aria-label="Active filters" hidden>
+          <span class="active-filter-label">Active</span>
+          <div class="active-filter-row" id="active-filter-chips"></div>
+          <button type="button" class="clear-filters" id="clear-filters">Clear all</button>
         </div>
       </div>
 
-      <p class="score-legend mono">Deal Score: 100 = at all-time low · 0 = regular price · — = no discount history. Green ≥70 · Amber ≥40 · Red &lt;40</p>
+      <div class="tracker-layout">
+        <aside class="tracker-sidebar" aria-label="Price tracker filters">
+          <details class="facet-panel" id="facet-panel" open>
+            <summary>Filters <span class="mono" id="filter-summary-count"></span></summary>
+            <div class="facet-body">
+              <section class="facet-section" aria-labelledby="category-filter-heading">
+                <h2 class="facet-heading" id="category-filter-heading">Categories</h2>
+                <div class="facet-options" id="category-filters">
+                  {CATEGORIES.map((cat) => (
+                    <label class="facet-option">
+                      <span class="facet-option-main">
+                        <input
+                          type="checkbox"
+                          name="tracker-category"
+                          value={cat}
+                          data-cat={cat}
+                          checked={cat === 'All'}
+                        />
+                        <span class="facet-option-name">{cat}</span>
+                      </span>
+                      <span class="facet-count mono">{cat === 'All' ? totalTracked : (categoryCounts.get(cat) ?? 0)}</span>
+                    </label>
+                  ))}
+                </div>
+              </section>
 
-      <h2 id="individual" class="section-title">Individual Plugins</h2>
-      <div class="ledger-wrap">
+              <section class="facet-section" aria-labelledby="developer-filter-heading">
+                <h2 class="facet-heading" id="developer-filter-heading">Developers</h2>
+                <div class="facet-options developers" id="developer-filters">
+                  {developers.map((developer) => (
+                    <label class="facet-option">
+                      <span class="facet-option-main">
+                        <input type="checkbox" value={developer.name} />
+                        <span class="facet-option-name">{developer.name}</span>
+                      </span>
+                      <span class="facet-count mono">{developer.count}</span>
+                    </label>
+                  ))}
+                </div>
+              </section>
+
+              <section class="facet-section" aria-labelledby="score-filter-heading">
+                <div class="score-control-head">
+                  <h2 class="facet-heading" id="score-filter-heading">Min Score</h2>
+                  <output class="score-value mono" id="score-filter-value" for="score-filter">0</output>
+                </div>
+                <input
+                  class="score-range"
+                  type="range"
+                  id="score-filter"
+                  min="0"
+                  max="100"
+                  step="1"
+                  value="0"
+                  aria-label="Minimum deal score"
+                />
+              </section>
+            </div>
+          </details>
+        </aside>
+
+        <div class="tracker-results">
+          <p class="score-legend mono">Deal Score: 100 = at all-time low · 0 = regular price · — = no discount history. Green ≥70 · Amber ≥40 · Red &lt;40</p>
+
+          <h2 id="individual" class="section-title">Individual Plugins</h2>
+          <div class="ledger-wrap">
         <table class="ledger-table">
           <thead>
             <tr>
@@ -457,6 +629,7 @@ const pageLD = {
               <tr
                 class={row.currentIsSale ? 'ledger-row is-sale' : 'ledger-row'}
                 data-category={row.category}
+                data-developer={row.developer ?? ''}
                 data-search={row.searchText}
                 data-name={row.name.toLowerCase()}
                 data-price={row.current ?? ''}
@@ -546,10 +719,10 @@ const pageLD = {
             </tr>
           </tbody>
         </table>
-      </div>
+          </div>
 
-      <h2 id="bundles" class="section-title">Plugin Bundles</h2>
-      <div class="ledger-wrap">
+          <h2 id="bundles" class="section-title">Plugin Bundles</h2>
+          <div class="ledger-wrap">
         <table class="ledger-table">
           <thead>
             <tr>
@@ -568,6 +741,7 @@ const pageLD = {
               <tr
                 class={row.currentIsSale ? 'ledger-row is-sale' : 'ledger-row'}
                 data-category={row.category}
+                data-developer={row.developer ?? ''}
                 data-search={row.searchText}
                 data-name={row.name.toLowerCase()}
                 data-price={row.current ?? ''}
@@ -657,6 +831,8 @@ const pageLD = {
             </tr>
           </tbody>
         </table>
+          </div>
+        </div>
       </div>
 
       <div class="footer-note">
@@ -682,9 +858,18 @@ const pageLD = {
       (function () {
         const searchInput = document.getElementById('plugin-search');
         const countLabel = document.getElementById('search-count');
-        const chipRow = document.getElementById('category-chips');
+        const categoryFilters = document.getElementById('category-filters');
+        const developerFilters = document.getElementById('developer-filters');
+        const scoreFilter = document.getElementById('score-filter');
+        const scoreValue = document.getElementById('score-filter-value');
+        const activeFilters = document.getElementById('active-filters');
+        const activeFilterChips = document.getElementById('active-filter-chips');
+        const clearFilters = document.getElementById('clear-filters');
+        const filterSummaryCount = document.getElementById('filter-summary-count');
         const tables = Array.from(document.querySelectorAll('.ledger-table'));
         let activeCategory = 'all';
+        const activeDevelopers = new Set();
+        let minScore = 0;
 
         function parseNum(str) {
           if (str === null || str === undefined || str === '') return null;
@@ -694,6 +879,57 @@ const pageLD = {
 
         function getDataRows(table) {
           return Array.from(table.querySelectorAll('tbody > tr.ledger-row'));
+        }
+
+        function categoryInputs() {
+          return categoryFilters ? Array.from(categoryFilters.querySelectorAll('input[data-cat]')) : [];
+        }
+
+        function setCategory(category) {
+          const requested = (category || 'all').toLowerCase();
+          const matchingInput = categoryInputs().find(
+            (input) => (input.getAttribute('data-cat') || '').toLowerCase() === requested
+          );
+          activeCategory = matchingInput ? requested : 'all';
+          categoryInputs().forEach((input) => {
+            const value = (input.getAttribute('data-cat') || '').toLowerCase();
+            input.checked = value === activeCategory;
+          });
+        }
+
+        function addActiveChip(label, type, value) {
+          if (!activeFilterChips) return;
+          const chip = document.createElement('button');
+          chip.type = 'button';
+          chip.className = 'active-filter-chip';
+          chip.setAttribute('data-filter-type', type);
+          chip.setAttribute('data-filter-value', value);
+          chip.setAttribute('aria-label', `Remove ${label} filter`);
+          chip.textContent = `${label} ×`;
+          activeFilterChips.appendChild(chip);
+        }
+
+        function renderActiveFilters() {
+          if (!activeFilterChips || !activeFilters) return;
+          activeFilterChips.replaceChildren();
+          let count = 0;
+          if (activeCategory !== 'all') {
+            const categoryLabel = categoryInputs().find(
+              (input) => (input.getAttribute('data-cat') || '').toLowerCase() === activeCategory
+            )?.getAttribute('data-cat') || activeCategory;
+            addActiveChip(`Category: ${categoryLabel}`, 'category', activeCategory);
+            count++;
+          }
+          activeDevelopers.forEach((developer) => {
+            addActiveChip(`Developer: ${developer}`, 'developer', developer);
+            count++;
+          });
+          if (minScore > 0) {
+            addActiveChip(`Score: ${minScore}+`, 'score', String(minScore));
+            count++;
+          }
+          activeFilters.hidden = count === 0;
+          if (filterSummaryCount) filterSummaryCount.textContent = count > 0 ? `(${count})` : '';
         }
 
         function applyFilters() {
@@ -707,10 +943,14 @@ const pageLD = {
             rows.forEach((row) => {
               totalAll++;
               const cat = (row.getAttribute('data-category') || '').toLowerCase();
+              const developer = row.getAttribute('data-developer') || '';
               const search = row.getAttribute('data-search') || '';
+              const score = parseNum(row.getAttribute('data-score'));
               const matchesCategory = activeCategory === 'all' || cat === activeCategory;
+              const matchesDevelopers = Array.from(activeDevelopers).every((selected) => developer === selected);
+              const matchesScore = minScore === 0 || (score !== null && score >= minScore);
               const matchesSearch = q === '' || search.indexOf(q) !== -1;
-              const visible = matchesCategory && matchesSearch;
+              const visible = matchesCategory && matchesDevelopers && matchesScore && matchesSearch;
               row.style.display = visible ? '' : 'none';
               if (visible) {
                 visibleInTable++;
@@ -726,41 +966,87 @@ const pageLD = {
           if (countLabel) {
             countLabel.textContent = `Showing ${totalVisible} of ${totalAll}`;
           }
+          renderActiveFilters();
         }
 
         if (searchInput) {
           searchInput.addEventListener('input', applyFilters);
-          // ホームの検索フォーム(/plugin-prices/?q=...)からの遷移: クエリを
-          // 検索欄に反映して即フィルタする
           const initialQ = new URLSearchParams(window.location.search).get('q');
           if (initialQ) {
             searchInput.value = initialQ;
-            applyFilters();
             searchInput.focus();
           }
         }
 
-        if (chipRow) {
+        if (categoryFilters) {
           const initialCategory = new URLSearchParams(window.location.search).get('category');
-          if (initialCategory) {
-            const matchingChip = Array.from(chipRow.querySelectorAll('.chip')).find(
-              (chip) => (chip.getAttribute('data-cat') || '').toLowerCase() === initialCategory.toLowerCase()
-            );
-            chipRow.querySelectorAll('.chip').forEach((chip) => chip.classList.remove('active'));
-            if (matchingChip) matchingChip.classList.add('active');
-            activeCategory = initialCategory.toLowerCase();
-            applyFilters();
-          }
+          if (initialCategory) setCategory(initialCategory);
 
-          chipRow.addEventListener('click', (e) => {
-            const target = e.target.closest('.chip');
-            if (!target || !chipRow.contains(target)) return;
-            chipRow.querySelectorAll('.chip').forEach((c) => c.classList.remove('active'));
-            target.classList.add('active');
-            activeCategory = (target.getAttribute('data-cat') || 'all').toLowerCase();
+          categoryFilters.addEventListener('change', (e) => {
+            const target = e.target.closest('input[data-cat]');
+            if (!target || !categoryFilters.contains(target)) return;
+            const category = target.checked ? (target.getAttribute('data-cat') || 'all') : 'all';
+            setCategory(category);
             applyFilters();
           });
         }
+
+        if (developerFilters) {
+          developerFilters.addEventListener('change', (e) => {
+            const target = e.target.closest('input[type="checkbox"]');
+            if (!target || !developerFilters.contains(target)) return;
+            if (target.checked) activeDevelopers.add(target.value);
+            else activeDevelopers.delete(target.value);
+            applyFilters();
+          });
+        }
+
+        if (scoreFilter) {
+          scoreFilter.addEventListener('input', () => {
+            minScore = Number(scoreFilter.value) || 0;
+            if (scoreValue) scoreValue.textContent = String(minScore);
+            applyFilters();
+          });
+        }
+
+        if (activeFilterChips) {
+          activeFilterChips.addEventListener('click', (e) => {
+            const chip = e.target.closest('.active-filter-chip');
+            if (!chip || !activeFilterChips.contains(chip)) return;
+            const type = chip.getAttribute('data-filter-type');
+            const value = chip.getAttribute('data-filter-value') || '';
+            if (type === 'category') setCategory('all');
+            if (type === 'developer') {
+              activeDevelopers.delete(value);
+              if (developerFilters) {
+                const input = Array.from(developerFilters.querySelectorAll('input')).find((item) => item.value === value);
+                if (input) input.checked = false;
+              }
+            }
+            if (type === 'score') {
+              minScore = 0;
+              if (scoreFilter) scoreFilter.value = '0';
+              if (scoreValue) scoreValue.textContent = '0';
+            }
+            applyFilters();
+          });
+        }
+
+        function resetFacetFilters() {
+          setCategory('all');
+          activeDevelopers.clear();
+          if (developerFilters) {
+            developerFilters.querySelectorAll('input[type="checkbox"]').forEach((input) => { input.checked = false; });
+          }
+          minScore = 0;
+          if (scoreFilter) scoreFilter.value = '0';
+          if (scoreValue) scoreValue.textContent = '0';
+          applyFilters();
+          const badge = document.querySelector('.tracker-toolbar .pd-badge');
+          if (badge) badge.remove();
+        }
+
+        if (clearFilters) clearFilters.addEventListener('click', resetFacetFilters);
 
         // P2: トラッカー初期フィルタ — URLに?q=が無く、pd_profile_v1/pd_session_v1
         // の合成スコア最上位カテゴリが確定している（合計シグナル>=2）場合、対応する
@@ -768,7 +1054,7 @@ const pageLD = {
         // カテゴリ（一致するものだけ）は何もしない。
         (function personalizeInitialFilter() {
           try {
-            if (!chipRow || !searchInput) return;
+            if (!categoryFilters || !searchInput) return;
             const searchParams = new URLSearchParams(window.location.search);
             if (searchParams.get('q') || searchParams.get('category')) return;
 
@@ -797,18 +1083,16 @@ const pageLD = {
             if (total < 2 || !bestCat || !CAT_MAP[bestCat]) return;
 
             const chipValue = CAT_MAP[bestCat];
-            const chip = Array.from(chipRow.querySelectorAll('.chip')).find(
-              (c) => (c.getAttribute('data-cat') || '') === chipValue
+            const categoryInput = categoryInputs().find(
+              (input) => (input.getAttribute('data-cat') || '') === chipValue
             );
-            if (!chip) return;
+            if (!categoryInput) return;
 
-            chipRow.querySelectorAll('.chip').forEach((c) => c.classList.remove('active'));
-            chip.classList.add('active');
-            activeCategory = chipValue.toLowerCase();
+            setCategory(chipValue);
             applyFilters();
 
             // "Sorted for you · reset" バッジ（PersonalizationScript.astroと同じ枠を流用）
-            const toolbar = chipRow.closest('.tracker-toolbar') || chipRow.parentElement;
+            const toolbar = categoryFilters.closest('main')?.querySelector('.tracker-toolbar');
             if (toolbar && !toolbar.querySelector('.pd-badge')) {
               const badge = document.createElement('span');
               badge.className = 'pd-badge';
@@ -819,12 +1103,7 @@ const pageLD = {
               if (resetLink) {
                 resetLink.addEventListener('click', (e) => {
                   e.preventDefault();
-                  chipRow.querySelectorAll('.chip').forEach((c) => c.classList.remove('active'));
-                  const allChip = chipRow.querySelector('.chip[data-cat="All"]');
-                  if (allChip) allChip.classList.add('active');
-                  activeCategory = 'all';
-                  applyFilters();
-                  badge.remove();
+                  resetFacetFilters();
                 });
               }
             }

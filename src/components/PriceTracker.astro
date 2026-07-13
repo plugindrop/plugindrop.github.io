@@ -14,6 +14,7 @@ import {
   currentPriceOf,
   sparklinePoints,
   dealScore,
+  dealScoreNumeric,
 } from '../lib/priceUtils';
 
 interface Props {
@@ -45,6 +46,7 @@ const tracked = pluginNames
     current: currentPriceOf(data),
     pts: sparklinePoints(data.history),
     score: dealScore(currentPriceOf(data), data.typical_regular, data.typical_sale, data.all_time_low),
+    numericScore: dealScoreNumeric(data),
   }));
 ---
 
@@ -55,11 +57,16 @@ const tracked = pluginNames
       <a href="/plugin-prices/" class="pt-fulllink">See full history →</a>
     </div>
     <div class="pt-grid">
-      {tracked.map(({ name, data, slug, current, pts, score }) => (
+      {tracked.map(({ name, data, slug, current, pts, score, numericScore }) => (
         <div class="pt-card">
           <div class="pt-card-top">
             <a href={`/plugin-prices/${slug}/`} class="pt-name">{name}</a>
             <span class={`pt-badge ${score.cls}`}>{score.label}</span>
+            {numericScore.verdict === 'none' ? (
+              <span class="score-none" title="No discount history — price is stable">—</span>
+            ) : (
+              <span class={`score-badge ${numericScore.verdict}`}>{numericScore.score}</span>
+            )}
           </div>
           <div class="pt-card-mid">
             <span class="pt-price mono">{formatPrice(current)}</span>
@@ -174,6 +181,23 @@ const tracked = pluginNames
   .ds-rare    { background: rgba(150, 150, 180, 0.1); color: var(--text-muted); }
   .ds-wait    { background: rgba(150, 150, 180, 0.12); color: var(--text-secondary); }
   .ds-unknown { background: rgba(150, 150, 180, 0.1); color: var(--text-muted); }
+
+  .score-badge {
+    display: inline-flex;
+    min-width: 2rem;
+    align-items: center;
+    justify-content: center;
+    padding: 0.18rem 0.4rem;
+    border-radius: var(--radius-sm);
+    color: var(--bg-base);
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    font-weight: 700;
+  }
+  .score-badge.good { background: var(--verdict-good); }
+  .score-badge.ok { background: var(--verdict-ok); }
+  .score-badge.bad { background: var(--verdict-bad); }
+  .score-none { color: var(--text-muted); font-family: var(--font-mono); }
 
   .pt-card-mid {
     display: flex;
