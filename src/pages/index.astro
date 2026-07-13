@@ -29,8 +29,17 @@ interface ProductVideo { video_id: string; title: string; channel: string }
 const productVideos = productVideosRaw as Record<string, ProductVideo>;
 const productVideoEntries = Object.entries(productVideos);
 
-function productVideoFor(title: string, trackedName?: string): [string, ProductVideo] | null {
+function extractEmbeddedVideoId(body: unknown): string | null {
+	if (typeof body !== 'string') return null;
+	return body.match(/youtube-nocookie\.com\/embed\/([a-zA-Z0-9_-]{11})/)?.[1] ?? null;
+}
+
+function productVideoFor(title: string, body: unknown, trackedName?: string): [string, ProductVideo] | null {
 	if (!ENABLE_PIP_PREVIEW) return null;
+	const embeddedVideoId = extractEmbeddedVideoId(body);
+	if (embeddedVideoId) {
+		return [title, { video_id: embeddedVideoId, title, channel: '' }];
+	}
 	if (trackedName && productVideos[trackedName]) return [trackedName, productVideos[trackedName]];
 	const normalizedTitle = title.toLowerCase();
 	return productVideoEntries.find(([name]) => normalizedTitle.includes(name.toLowerCase())) ?? null;
@@ -163,7 +172,7 @@ const moreFreshDeals = allPosts
 							const trackedName = post.data.priceTrack?.[0];
 							const trackedEntry = trackedName ? trackerEntries[trackedName] : undefined;
 							const score = trackedEntry ? dealScoreNumeric(trackedEntry) : null;
-							const videoMatch = productVideoFor(post.data.title, trackedName);
+							const videoMatch = productVideoFor(post.data.title, post.body, trackedName);
 							return (
 								<a
 									href={`/posts/${post.id}/`}
@@ -198,6 +207,7 @@ const moreFreshDeals = allPosts
 							<div class="more-deals-list">
 								{moreFreshDeals.map(post => (
 									<div class="more-deal-row" data-more-deal>
+										<img class="more-deal-thumb" src={post.data.heroImage} alt="" loading="lazy" />
 										<a href={`/posts/${post.id}/`}>{post.data.title}</a>
 										{post.data.dealPrice && <strong>{post.data.dealPrice}</strong>}
 										{post.data.discount && <span class="discount-chip">{post.data.discount}</span>}
@@ -434,9 +444,10 @@ const moreFreshDeals = allPosts
 	.more-deals-hd a { color: var(--accent); font-size: 0.8rem; text-decoration: none; white-space: nowrap; }
 	.more-deals-hd a:hover { text-decoration: underline; }
 	.more-deals-list { overflow: hidden; border: 1px solid var(--border); border-radius: var(--radius); }
-	.more-deal-row { display: grid; grid-template-columns: minmax(0, 1fr) auto auto; align-items: center; gap: 0.65rem; padding: 0.65rem 0.8rem; background: var(--bg-card); }
+	.more-deal-row { display: grid; grid-template-columns: 48px minmax(0, 1fr) auto auto; align-items: center; gap: 0.65rem; padding: 0.5rem 0.8rem; background: var(--bg-card); }
 	.more-deal-row + .more-deal-row { border-top: 1px solid var(--border); }
 	.more-deal-row:hover { background: var(--bg-card-hover); }
+	.more-deal-thumb { width: 48px; height: 48px; border-radius: var(--radius-sm); object-fit: cover; }
 	.more-deal-row > a { overflow: hidden; color: var(--text-primary); font-size: 0.82rem; text-decoration: none; text-overflow: ellipsis; white-space: nowrap; }
 	.more-deal-row > a:hover { color: var(--accent); }
 	.more-deal-row > strong { color: var(--text-primary); font-family: var(--font-mono); font-size: 0.78rem; font-variant-numeric: tabular-nums; white-space: nowrap; }

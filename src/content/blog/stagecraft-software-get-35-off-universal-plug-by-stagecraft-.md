@@ -9,6 +9,11 @@ score: 4.25
 draft: false
 converted: true
 ---
+
+
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/xkIUhqFpeb4" title="Universal Plug: Features, Pricing & Is It Worth It? (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 **Universal Plug** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=plugindrop&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-&a_aid=69cb95abe1763)
 
 ---

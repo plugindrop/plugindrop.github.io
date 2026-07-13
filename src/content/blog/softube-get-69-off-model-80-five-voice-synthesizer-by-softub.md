@@ -9,6 +9,11 @@ score: 8.16
 draft: false
 converted: true
 ---
+
+
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ffD9MRCEppU" title="Model 80 Five Voice Synthesizer: Features, Pricing & Is It Worth It? (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 **Model 80 Five Voice Synthesizer** is available at Plugin Boutique. Check the current price here.
 
 ---

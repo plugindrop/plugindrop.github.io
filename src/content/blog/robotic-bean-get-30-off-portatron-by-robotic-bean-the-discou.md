@@ -9,6 +9,11 @@ score: 5.16
 draft: false
 converted: true
 ---
+
+
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OtcAuBR3PmM" title="Portatron: Features, Pricing & Is It Worth It? (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 **Portatron** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763)
 
 ---

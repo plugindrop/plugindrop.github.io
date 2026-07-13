@@ -9,6 +9,11 @@ score: 10.00
 draft: false
 converted: true
 ---
+
+
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-fPucWPCoMM" title="KORG Collection 6: Features, Pricing & Is It Worth It? (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 **KORG Collection 6** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16094-KORG-Collection-6?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-4e0a19)
 
 ---

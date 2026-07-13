@@ -11,6 +11,11 @@ converted: true
 priceTrack:
   - "FabFilter Pro-L 2"
 ---
+
+
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/JIHt14UMBBw" title="Weiss MM 1: Features, Pricing & Is It Worth It? (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 **Weiss MM 1** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/50-Mastering-/4181-Weiss-MM-1?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=weiss-mm-1-8ebf12)
 
 ---

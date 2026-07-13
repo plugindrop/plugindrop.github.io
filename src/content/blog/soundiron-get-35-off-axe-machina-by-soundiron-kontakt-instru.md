@@ -9,6 +9,11 @@ score: 8.07
 draft: false
 converted: true
 ---
+
+
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WRfY8Gk3dI0" title="Axe Machina: Features, Pricing & Is It Worth It? (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 **Axe Machina** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763)
 
 ---

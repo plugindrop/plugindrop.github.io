@@ -9,6 +9,11 @@ score: 7.05
 draft: false
 converted: true
 ---
+
+
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/yt8pFK6fJk4" title="Little AlterBoy: Features, Pricing & Is It Worth It? (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 **Little AlterBoy** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=little-alterboy-586da2)
 
 ---
