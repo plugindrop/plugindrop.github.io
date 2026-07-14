@@ -3,7 +3,7 @@ title: "UVI — UVI is offering 66% off on Key Suite virtual instrument collecti
 description: "Key Suite is a virtual instrument collection from UVI — the French developer known for deep-sampled instruments and. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-17T09:23:35Z'
 tags: ["review", "uvi", "music-production", "bundle"]
-affiliate: "https://www.pluginboutique.com/search?q=key+suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16200-Key-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c"
 heroImage: /images/uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c.png
 score: 4.25
 draft: false

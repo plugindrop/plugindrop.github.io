@@ -3,7 +3,7 @@ title: "Leap Into Void summer sale - soundsets 40% off - bundles up to 77% off"
 description: "Leap Into Void is running a summer sale through July 31st, 2026 — individual soundsets are 40% off and bundles are discounted up to 77% off. That bundle..."
 pubDate: "2026-07-02T15:06:27Z"
 tags: ["bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=bazille&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=leap-into-void-summer-sale-soundsets-40-off-bundles-up-to-77"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/1399-Bazille?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=leap-into-void-summer-sale-soundsets-40-off-bundles-up-to-77"
 heroImage: "/images/leap-into-void-summer-sale-soundsets-40-off-bundles-up-to-77.jpg"
 score: 5.70
 discount: "40% OFF"

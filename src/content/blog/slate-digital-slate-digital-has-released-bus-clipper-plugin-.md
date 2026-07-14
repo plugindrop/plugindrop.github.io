@@ -3,7 +3,7 @@ title: "Slate Digital — Slate Digital has released Bus Clipper plugin for Win 
 description: "Slate Digital Bus Clipper is a newly released clipping plugin designed for transparent peak control on mix buses. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-22T05:48:43Z'
 tags: ["review", "slate digital", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=bus+clipper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slate-digital-slate-digital-has-released-bus-clipper-plugin-"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17137-Bus-Clipper?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slate-digital-slate-digital-has-released-bus-clipper-plugin-"
 heroImage: /images/slate-digital-slate-digital-has-released-bus-clipper-plugin-.webp
 score: 6.00
 draft: false

@@ -3,7 +3,7 @@ title: "Tom Wolfe Presets: Complete Collection Four-Day Sale for $299.99 – Las
 description: "Tom Wolfe Presets is running a four-day sale on the Complete Collection — every soundbank the brand has ever made, bundled together for $299.99. The sale..."
 pubDate: "2026-06-19T12:38:27Z"
 tags: ["bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=diva&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tom-wolfe-presets-complete-collection-four-day-sale-for-299-"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/1396-Diva?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tom-wolfe-presets-complete-collection-four-day-sale-for-299-"
 heroImage: "/images/tom-wolfe-presets-complete-collection-four-day-sale-for-299-.jpg"
 score: 7.20
 dealPrice: "$0.063"
