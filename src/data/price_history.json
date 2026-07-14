@@ -4542,6 +4542,12 @@
           "regular": 69,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-14",
+          "sale": 10.0,
+          "regular": 69.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
