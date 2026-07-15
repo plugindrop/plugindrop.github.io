@@ -62,6 +62,13 @@
     "score": 9,
     "source": "yt_api_fill"
   },
+  "AudioThing Outer Space 2": {
+    "video_id": "fS2OG6C9c7I",
+    "title": "iOS - AudioThing Outer Space 2 Tape Echo - Tutorial and Demo",
+    "channel": "SoundForMore Tutorials",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Baby Audio Comeback Kid": {
     "video_id": "I7cDWJgrZfw",
     "title": "BABY AUDIO COMEBACK KID Delay Plugin | Tutorial & Demonstration",
@@ -258,12 +265,61 @@
     "score": 13,
     "source": "yt_api_fill"
   },
+  "HEAVY 2": {
+    "video_id": "GdGczn2cjCQ",
+    "title": "Ujam ''Virtual Drummer Heavy 2'' Metal drums demo test preset",
+    "channel": "Jean Marc Vignolo",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Heavyocity Ascend": {
+    "video_id": "CanNc8yBsn8",
+    "title": "ASCEND: Modern Grand - Demo Walkthrough | Heavyocity",
+    "channel": "Heavyocity Media",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
   "Heavyocity Damage 2": {
     "video_id": "3J8vV21bj6E",
     "title": "The Beat Of Your Own Drum - Heavyocity Damage 2 Demo",
     "channel": "Thomas dB",
     "score": 8,
     "source": "article_embed"
+  },
+  "Heavyocity Gravity": {
+    "video_id": "9lP05N2AR3k",
+    "title": "Gravity - Demo Walkthrough | Heavyocity",
+    "channel": "Heavyocity Media",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Heavyocity Gravity 2": {
+    "video_id": "1OzHmCyZ_yI",
+    "title": "GRAVITY 2 - Content Overview │ Heavyocity",
+    "channel": "Heavyocity Media",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Heavyocity Novo": {
+    "video_id": "cLqDVuOeaFI",
+    "title": "NOVO - Demo Walkthrough | Heavyocity",
+    "channel": "Heavyocity Media",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "IRON 2": {
+    "video_id": "ntgzX553N_I",
+    "title": "IRON 2 by UJAM Instruments | Song Demo and Preset Playthrough",
+    "channel": "Jong Uy",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "KORG Collection 6": {
+    "video_id": "uCzyCzFyf3w",
+    "title": "KORG Collection 6 - TRINITY: The 1995 Icon Reborn",
+    "channel": "KORG",
+    "score": 13,
+    "source": "yt_api_fill"
   },
   "Kilohearts Carve EQ": {
     "video_id": "2H3oeOS1CeA",
@@ -445,6 +501,27 @@
     "title": "Shadow Hills Mastering Compressor NATIVE Plug-in - Feature Walkthrough | Plugin Alliance",
     "channel": "Plugin Alliance",
     "score": 10,
+    "source": "yt_api_fill"
+  },
+  "ProjectSAM Symphobia 2": {
+    "video_id": "Nj2zKdJAoPE",
+    "title": "ProjectSam - Symphobia 2 Demo",
+    "channel": "Ivan Jebakumar",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "ProjectSAM True Strike 2": {
+    "video_id": "KIeaPSjRlvo",
+    "title": "ProjectSam True Strike 2 Demo @ MB",
+    "channel": "Mantvydas Binderis",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "SSL Native X-Comp": {
+    "video_id": "PMB0_DnCbKI",
+    "title": "SSL Native X-Comp - Audio Examples",
+    "channel": "Solid State Logic",
+    "score": 11,
     "source": "yt_api_fill"
   },
   "Serum 2": {
@@ -678,6 +755,13 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "UAD Sound City Studios Plugin": {
+    "video_id": "HWM5btaiOSE",
+    "title": "UAD Sound City Studios Plugin Sound Walkthrough & Demo #dtm",
+    "channel": "櫻井徳右衛門ギターDTMチャンネル",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "UAD Spark": {
     "video_id": "NA6jK9DbwLI",
     "title": "How to polish demo vocals with UAD Spark",
@@ -796,6 +880,13 @@
     "channel": "High Resolution co.,ltd.  ハイ・リゾリューション",
     "score": 7,
     "source": "article_embed"
+  },
+  "Xpand!2": {
+    "video_id": "zwkOTkFc1yA",
+    "title": "Pro Tools 8 Xpand 2 sound demo",
+    "channel": "Vince V. Music",
+    "score": 8,
+    "source": "yt_api_fill"
   },
   "iZotope Insight 2": {
     "video_id": "zBjdTQE3630",
