@@ -10,7 +10,7 @@ dealPrice: "$14.97"
 originalPrice: "$24.95"
 discount: "40% OFF"
 xText: "40% off boom bap just landed — mystic shadow is the cleanest hip hop sample pack i've tested. sits in a mix like butter and sound nothing like every other pack out there."
-draft: false
+draft: true
 ---
 **TL;DR:** Mystic Samples Shadow Hip Hop Boom Bap Samples is currently **$14.97** (down from ~~$24.95~~) at ADSR Sounds — a clean 40% discount on a pack built around the dark, dusty textures of 90s underground hip hop. At under $15, the entry cost is low enough to make this a straightforward grab for producers in this lane. [Pick it up at ADSR Sounds while the price holds.](https://www.adsrsounds.com/product/presets/mystic-samples-shadow-hip-hop-boom-bap-samples/?a_aid=plugindrop&data1=mystic-samples-shadow-hip-hop-boom-bap-samples-2bbdc6&utm_source=plugindrop&utm_medium=article&utm_campaign=mystic-samples-shadow-hip-hop-boom-bap-samples-2bbdc6)
 

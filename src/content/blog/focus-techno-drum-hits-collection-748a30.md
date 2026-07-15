@@ -10,7 +10,7 @@ dealPrice: "$14.99"
 originalPrice: "$24.99"
 discount: "40% OFF"
 xText: "40% off bundles like this are where the math finally works. focus techno drum hits per-pack cost gets low enough you stop counting cents and start building an actual library."
-draft: false
+draft: true
 ---
 **TL;DR:** The Focus Techno Drum Hits Collection is currently 40% off at ADSR Sounds — dropping from ~~$24.99~~ to just **$14.99**. That's a solid $10 saving on a dedicated techno drum sample pack. [Grab it here while the deal is live.](https://www.adsrsounds.com/product/presets/focus-techno-drum-hits-collection/?a_aid=plugindrop&data1=focus-techno-drum-hits-collection-748a30&utm_source=plugindrop&utm_medium=article&utm_campaign=focus-techno-drum-hits-collection-748a30)
 
