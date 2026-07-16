@@ -114,7 +114,7 @@ const off = onSale ? pctOff(entry.typical_sale, entry.typical_regular) : 0;
 // --- Verdict line --------------------------------------------------------
 function verdictLine(e: EntryData): string {
   if (e.all_time_low === null) {
-    return "We haven't recorded a discount yet — tracking since 2026.";
+    return "No discount on record yet — we're watching for sales.";
   }
   if (e.typical_sale !== null && e.typical_regular !== null && e.typical_sale < e.typical_regular) {
     const p = pctOff(e.typical_sale, e.typical_regular);
@@ -136,7 +136,7 @@ const lowestDate = findLowestDate(entry);
 
 // --- Provenance: when we actually last scraped this product (D4) --------
 const checkedDate = latestCheckedDate(entry);
-const checkedLabel = checkedDate ? `Last checked: ${formatCheckedDate(checkedDate)}` : 'Tracking since 2026 — no scrape yet';
+const checkedLabel = checkedDate ? `Last checked: ${formatCheckedDate(checkedDate)}` : 'Tracking since 2026 — no price data yet';
 
 // --- Price history chart ---------------------------------------------------
 // Real price-tracker data (Keepa/SteamDB) is a dense daily series. Ours is not:
@@ -339,7 +339,7 @@ function faqSaleAnswer(e: EntryData): string {
 }
 function faqLowestAnswer(e: EntryData): string {
   if (e.all_time_low === null) {
-    return `We haven't recorded a discount for ${name} yet — tracking since 2026.`;
+    return `No discount recorded for ${name} yet — we're watching for sales.`;
   }
   return lowestDate
     ? `The lowest price we've tracked for ${name} is $${e.all_time_low}, recorded on ${lowestDate}.`
@@ -915,7 +915,7 @@ const faqLD = {
               <span class="lowest-date">Lowest tracked{lowestDate ? ` — ${lowestDate}` : ''}</span>
             </div>
           ) : (
-            <p class="lowest-none">We haven't recorded a discount for {name} yet — tracking since 2026.</p>
+            <p class="lowest-none">No discount recorded for {name} yet — we're watching for sales.</p>
           )}
           {entry.notes && <p class="sale-notes">{entry.notes}</p>}
         </div>

@@ -174,27 +174,36 @@ const moreFreshDeals = allPosts
 							const score = trackedEntry ? dealScoreNumeric(trackedEntry) : null;
 							const videoMatch = productVideoFor(post.data.title, post.body, trackedName);
 							return (
-								<a
-									href={`/posts/${post.id}/`}
-									class="deal-card"
-									data-pd={pdAttr({ title: post.data.title, tags: post.data.tags ?? [] })}
-									data-video-id={videoMatch?.[1].video_id}
-									data-video-product={videoMatch?.[0]}
-								>
-									<div class="deal-image">
-										<img src={post.data.heroImage} alt="" loading="lazy" />
-										{score && <span class={`score-badge is-${score.verdict}`}>{score.score}</span>}
-									</div>
-									<div class="deal-copy">
-										<h3>{post.data.title}</h3>
-										<div class="deal-prices">
-											{post.data.dealPrice && <strong>{post.data.dealPrice}</strong>}
-											{post.data.originalPrice && <s>{post.data.originalPrice}</s>}
-											{post.data.discount && <span class="discount-chip">{post.data.discount}</span>}
+								<div class="deal-card-wrap">
+									<a
+										href={`/posts/${post.id}/`}
+										class="deal-card"
+										data-pd={pdAttr({ title: post.data.title, tags: post.data.tags ?? [] })}
+									>
+										<div class="deal-image">
+											<img src={post.data.heroImage} alt="" loading="lazy" />
+											{score && <span class={`score-badge is-${score.verdict}`}>{score.score}</span>}
 										</div>
-										{post.data.affiliate && <span class="deal-store">{getStoreName(post.data.affiliate)}</span>}
-									</div>
-								</a>
+										<div class="deal-copy">
+											<h3>{post.data.title}</h3>
+											<div class="deal-prices">
+												{post.data.dealPrice && <strong>{post.data.dealPrice}</strong>}
+												{post.data.originalPrice && <s>{post.data.originalPrice}</s>}
+												{post.data.discount && <span class="discount-chip">{post.data.discount}</span>}
+											</div>
+											{post.data.affiliate && <span class="deal-store">{getStoreName(post.data.affiliate)}</span>}
+										</div>
+									</a>
+									{ENABLE_PIP_PREVIEW && videoMatch && (
+										<button
+											class="pip-btn"
+											type="button"
+											data-video-id={videoMatch[1].video_id}
+											data-video-product={videoMatch[0]}
+											aria-label={`Preview ${videoMatch[0]} video`}
+										>▶</button>
+									)}
+								</div>
 							);
 						})}
 					</div>
@@ -254,11 +263,10 @@ const moreFreshDeals = allPosts
 		</main>
 		<Footer />
 		{ENABLE_PIP_PREVIEW && (
-			<button class="pip-preview" type="button" hidden aria-label="Play demo with sound">
-				<img class="pip-preview-poster" alt="" />
+			<div class="pip-preview" hidden aria-label="Video preview">
+				<button class="pip-close" type="button" aria-label="Close preview">✕</button>
 				<span class="pip-preview-player"></span>
-				<span class="pip-preview-hint">Click for sound</span>
-			</button>
+			</div>
 		)}
 		<script>
 			const filter = document.querySelector<HTMLInputElement>('#tracker-filter');
@@ -272,19 +280,12 @@ const moreFreshDeals = allPosts
 			<script is:inline>
 				(function () {
 					'use strict';
-					if (!window.matchMedia('(hover: hover) and (pointer: fine)').matches) return;
 
 					var preview = document.querySelector('.pip-preview');
-					var poster = preview && preview.querySelector('.pip-preview-poster');
 					var player = preview && preview.querySelector('.pip-preview-player');
-					var cards = document.querySelectorAll('.deal-card[data-video-id]');
-					if (!preview || !poster || !player || !cards.length) return;
-
-					var hoverTimer = 0;
-					var closeTimer = 0;
-					var activeCard = null;
-					var activeVideoId = '';
-					var activeProduct = '';
+					var closeBtn = preview && preview.querySelector('.pip-close');
+					var btns = document.querySelectorAll('.pip-btn');
+					if (!preview || !player || !btns.length) return;
 
 					function track(name, product) {
 						try {
@@ -292,99 +293,36 @@ const moreFreshDeals = allPosts
 						} catch (e) { /* noop */ }
 					}
 
-					function playerUrl(videoId, muted) {
-						return 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(videoId)
-							+ '?autoplay=1&mute=' + (muted ? '1' : '0') + '&playsinline=1&rel=0';
-					}
-
-					function loadPlayer(muted) {
+					function openPip(videoId, product) {
+						if (!videoId || !product) return;
 						var iframe = document.createElement('iframe');
-						iframe.src = playerUrl(activeVideoId, muted);
-						iframe.title = activeProduct + ' demo video';
+						iframe.src = 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(videoId)
+							+ '?rel=0&playsinline=1';
+						iframe.title = product + ' demo video';
 						iframe.allow = 'autoplay; encrypted-media; picture-in-picture';
 						iframe.referrerPolicy = 'strict-origin-when-cross-origin';
 						iframe.allowFullscreen = true;
 						player.replaceChildren(iframe);
-					}
-
-					function positionPreview(card) {
-						var rect = card.getBoundingClientRect();
-						var width = 320;
-						var height = 180;
-						var gap = 12;
-						var margin = 12;
-						var left;
-						var top;
-
-						if (rect.right + gap + width <= window.innerWidth - margin) {
-							left = rect.right + gap;
-							top = Math.min(Math.max(rect.top, margin), window.innerHeight - height - margin);
-						} else if (rect.left - gap - width >= margin) {
-							left = rect.left - gap - width;
-							top = Math.min(Math.max(rect.top, margin), window.innerHeight - height - margin);
-						} else if (rect.bottom + gap + height <= window.innerHeight - margin) {
-							left = Math.min(Math.max(rect.left, margin), window.innerWidth - width - margin);
-							top = rect.bottom + gap;
-						} else if (rect.top - gap - height >= margin) {
-							left = Math.min(Math.max(rect.left, margin), window.innerWidth - width - margin);
-							top = rect.top - gap - height;
-						} else {
-							return false;
-						}
-
-						preview.style.left = left + 'px';
-						preview.style.top = top + 'px';
-						return true;
-					}
-
-					function show(card) {
-						activeCard = card;
-						activeVideoId = card.dataset.videoId || '';
-						activeProduct = card.dataset.videoProduct || '';
-						if (!activeVideoId || !activeProduct) return;
-						if (!positionPreview(card)) return;
-						poster.src = 'https://i.ytimg.com/vi/' + encodeURIComponent(activeVideoId) + '/hqdefault.jpg';
 						preview.hidden = false;
-						loadPlayer(true);
-						track('pip_hover', activeProduct);
+						track('pip_open', product);
 					}
 
-					function hide() {
-						window.clearTimeout(hoverTimer);
-						window.clearTimeout(closeTimer);
-						activeCard = null;
-						activeVideoId = '';
-						activeProduct = '';
+					function closePip() {
 						preview.hidden = true;
-						poster.removeAttribute('src');
 						player.replaceChildren();
 					}
 
-					function scheduleHide() {
-						window.clearTimeout(hoverTimer);
-						window.clearTimeout(closeTimer);
-						closeTimer = window.setTimeout(hide, 180);
-					}
-
-					cards.forEach(function (card) {
-						card.addEventListener('mouseenter', function () {
-							window.clearTimeout(hoverTimer);
-							window.clearTimeout(closeTimer);
-							hoverTimer = window.setTimeout(function () { show(card); }, 300);
+					btns.forEach(function (btn) {
+						btn.addEventListener('click', function (e) {
+							e.preventDefault();
+							e.stopPropagation();
+							openPip(btn.dataset.videoId, btn.dataset.videoProduct);
 						});
-						card.addEventListener('mouseleave', scheduleHide);
 					});
 
-					preview.addEventListener('mouseenter', function () { window.clearTimeout(closeTimer); });
-					preview.addEventListener('mouseleave', scheduleHide);
-					preview.addEventListener('click', function () {
-						if (!activeVideoId || !activeProduct) return;
-						loadPlayer(false);
-						track('pip_unmute', activeProduct);
-					});
-					window.addEventListener('scroll', function () { if (!preview.hidden) hide(); }, { passive: true });
-					window.addEventListener('resize', function () {
-						if (!preview.hidden && activeCard && !positionPreview(activeCard)) hide();
+					closeBtn && closeBtn.addEventListener('click', closePip);
+					document.addEventListener('keydown', function (e) {
+						if (e.key === 'Escape' && !preview.hidden) closePip();
 					});
 				})();
 			</script>
@@ -394,14 +332,15 @@ const moreFreshDeals = allPosts
 
 {ENABLE_PIP_PREVIEW && (
 	<style is:inline>
-		@media (hover: hover) and (pointer: fine) {
-			.pip-preview { position: fixed; z-index: 20; width: 320px; height: 180px; box-sizing: border-box; overflow: hidden; padding: 0; color: var(--text-primary); background: var(--bg-low); border: 1px solid var(--border); border-radius: var(--radius); cursor: pointer; }
-			.pip-preview[hidden] { display: none; }
-			.pip-preview-poster, .pip-preview-player, .pip-preview-player iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
-			.pip-preview-player iframe { pointer-events: none; }
-			.pip-preview-poster { object-fit: cover; }
-			.pip-preview-hint { position: absolute; right: 0.5rem; bottom: 0.5rem; padding: 0.25rem 0.45rem; background: var(--bg-highest); border: 1px solid var(--border); border-radius: var(--radius-sm); font-family: var(--font-mono); font-size: 0.68rem; }
-		}</style>
+		.pip-preview { position: fixed; bottom: 1.5rem; right: 1.5rem; z-index: 9999; width: 480px; height: 270px; box-sizing: border-box; overflow: hidden; background: #000; border: 1px solid var(--border); border-radius: var(--radius); box-shadow: 0 8px 32px rgba(0,0,0,0.5); }
+		.pip-preview[hidden] { display: none; }
+		.pip-preview-player, .pip-preview-player iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+		.pip-close { position: absolute; top: 0.5rem; right: 0.5rem; z-index: 1; display: flex; align-items: center; justify-content: center; width: 1.75rem; height: 1.75rem; background: rgba(0,0,0,0.7); border: 1px solid rgba(255,255,255,0.2); border-radius: 50%; color: #fff; cursor: pointer; font-size: 0.8rem; line-height: 1; }
+		.pip-close:hover { background: rgba(0,0,0,0.9); }
+		.pip-btn { position: absolute; top: 0.5rem; right: 0.5rem; z-index: 2; display: flex; align-items: center; justify-content: center; gap: 0.25rem; padding: 0.25rem 0.5rem; background: rgba(0,0,0,0.65); border: 1px solid rgba(255,255,255,0.25); border-radius: var(--radius-sm); color: #fff; cursor: pointer; font-size: 0.68rem; opacity: 0; transition: opacity 0.15s; }
+		.deal-card-wrap:hover .pip-btn, .pip-btn:focus-visible { opacity: 1; }
+		@media (max-width: 640px) { .pip-preview { width: calc(100vw - 2rem); height: auto; aspect-ratio: 16/9; bottom: 1rem; right: 1rem; } }
+	</style>
 )}
 
 <style>
@@ -425,7 +364,8 @@ const moreFreshDeals = allPosts
 	.section-title span { font-family: var(--font-mono); font-size: 0.7rem; color: var(--text-muted); }
 	.section-hd a { font-size: 0.8rem; white-space: nowrap; }
 	.deal-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
-	.deal-card { display: flex; min-width: 0; overflow: hidden; flex-direction: column; color: inherit; background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); text-decoration: none; }
+	.deal-card-wrap { position: relative; display: flex; flex-direction: column; }
+	.deal-card { display: flex; min-width: 0; overflow: hidden; flex: 1; flex-direction: column; color: inherit; background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); text-decoration: none; }
 	.deal-card:hover { border-color: var(--accent-border-hover); background: var(--bg-card-hover); }
 	.deal-image { position: relative; aspect-ratio: 16 / 10; overflow: hidden; background: var(--bg-low); }
 	.deal-image img { width: 100%; height: 100%; border-radius: 0; object-fit: cover; }

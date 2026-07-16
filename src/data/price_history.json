@@ -5,7 +5,7 @@
       "pb_url": "/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle",
       "typical_regular": 1176,
       "typical_sale": 882,
-      "all_time_low": null,
+      "all_time_low": 802,
       "notes": "FabFilter only discounts once/year at Black Friday: 25% off. Regular price ~$1176 at PB.",
       "history": [
         {
@@ -213,7 +213,7 @@
       "pb_url": "/product/81-Bundles/84-Mix-Master/12542-Platinum-Bundle",
       "typical_regular": 1999,
       "typical_sale": 99,
-      "all_time_low": 77,
+      "all_time_low": 60,
       "notes": "Waves Platinum list price is ~$1999 but almost always on deep sale ($77-$199). PB 14th Anniversary: £99. July 2025: $199. ATL ~$77 (recurring flash sales).",
       "history": [
         {
@@ -1141,7 +1141,7 @@
       "pb_url": "/product/2-Effects/17-Reverb/11576-FabFilter-Pro-R-2",
       "typical_regular": 169,
       "typical_sale": 127,
-      "all_time_low": null,
+      "all_time_low": 149,
       "notes": "Regular $169 direct from FabFilter (also sold on Plugin Boutique, exact product URL not verified this pass). Like other FabFilter plugins, discounts primarily once/year at Black Friday, ~25-30% off (consistent with the Pro-Q4/Pro-C2/Pro-L2 pattern already tracked) — inferred ~$118-135 sale range; no specific dated Pro-R2 sale price confirmed yet.",
       "history": [
         {
@@ -1627,7 +1627,7 @@
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11545-VPS-Avenger-2",
       "typical_regular": 249,
       "typical_sale": 150.75,
-      "all_time_low": null,
+      "all_time_low": 167.0,
       "notes": "Vengeance Sound. Black Friday promo documented at 33% off ($150.75). A $98 low was reported at Thomann on Jan 6, 2025 (plugindeals.net) but is treated as an unconfirmed outlier and not used as the all-time low.",
       "category": "Synth",
       "history": [
@@ -2397,7 +2397,7 @@
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/5905-Cassette",
       "typical_regular": 59,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 36.0,
       "notes": "Wavesfactory. Sold on Plugin Boutique at the standard $59 price; no reliable sale, discount percentage, or Black Friday pricing was found in research as of mid-2026.",
       "category": "Saturation",
       "history": [
@@ -2587,7 +2587,7 @@
       "pb_url": "https://sonnox.com/products/oxford-limiter",
       "typical_regular": 290,
       "typical_sale": 72,
-      "all_time_low": null,
+      "all_time_low": 65.0,
       "notes": "Sonnox. Sold direct; historically also available via Plugin Boutique through the 'Producer Power Bundle' (lowest recorded bundle price $49). Direct Summer Sale price £57.49 (75% off £229.99, converted here to ~$290/$72). A YouTube review mentions a $29 Black Friday 2024 price, but that single unconfirmed source isn't used as an all-time low.",
       "category": "Limiter",
       "history": [
@@ -3121,7 +3121,7 @@
       "pb_url": "/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2",
       "typical_regular": 179,
       "typical_sale": 134,
-      "all_time_low": null,
+      "all_time_low": 112,
       "notes": "FabFilter multiband saturation/distortion. ~25% off Black Friday only.",
       "category": "Saturation",
       "history": [
@@ -3233,7 +3233,7 @@
       "pb_url": "/product/2-Effects/19-Filter/8389-FabFilter-Volcano-3",
       "typical_regular": 169,
       "typical_sale": 127,
-      "all_time_low": null,
+      "all_time_low": 149.0,
       "notes": "FabFilter filter plugin. ~25% off Black Friday only.",
       "category": "Effects",
       "history": [
@@ -3273,7 +3273,7 @@
       "pb_url": "/product/2-Effects/10-Delay/7604-FabFilter-Timeless-3",
       "typical_regular": 169,
       "typical_sale": 127,
-      "all_time_low": null,
+      "all_time_low": 112,
       "notes": "FabFilter tape-style delay. ~25% off Black Friday only.",
       "category": "Delay",
       "history": [
@@ -3407,7 +3407,7 @@
       "pb_url": "/product/1-Instruments/4-Synth/17180-Zebra-3",
       "typical_regular": 269,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 245.0,
       "notes": "u-he's newest flagship modular synth (successor to Zebra2/ZebraHZ). Sold direct from u-he; occasional 20-30% off during u-he's infrequent sales (BF/anniversary).",
       "category": "Synth",
       "history": [
@@ -3983,7 +3983,7 @@
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/9812-Augmented-STRINGS",
       "typical_regular": 199,
       "typical_sale": 99,
-      "all_time_low": null,
+      "all_time_low": 149.0,
       "notes": "Hybrid synthesized/sampled string instrument from Arturia's Augmented series. 30-50% off in Arturia's frequent seasonal sales.",
       "category": "Instrument",
       "history": [
@@ -4207,7 +4207,7 @@
       "pb_url": "/product/2-Effects/17-Reverb/13674-Renaissance-Reverb",
       "typical_regular": 69.99,
       "typical_sale": 19.99,
-      "all_time_low": null,
+      "all_time_low": 39.99,
       "notes": "Classic algorithmic reverb (R-Verb). Regularly seen at $19.99 or lower in Waves' 'any plugin' sales.",
       "category": "Reverb",
       "history": [
@@ -4363,7 +4363,7 @@
       "pb_url": "/product/2-Effects/8-Compressor/13665-Renaissance-Vox",
       "typical_regular": 69.99,
       "typical_sale": 19.99,
-      "all_time_low": null,
+      "all_time_low": 34.99,
       "notes": "Vocal compressor/leveler (R-Vox). One of the most frequently deep-discounted Waves plugins, often under $19.99.",
       "category": "Vocal",
       "history": [
@@ -4667,7 +4667,7 @@
       "pb_url": "/product/2-Effects/49-Echo/1799-Crystallizer",
       "typical_regular": 199,
       "typical_sale": 69,
-      "all_time_low": null,
+      "all_time_low": 149.0,
       "notes": "Pitch-shifting reverse-delay/texture effect, part of the flagship $199 tier. Same sale pattern as Decapitator/EchoBoy.",
       "category": "Effects",
       "history": [
@@ -5573,7 +5573,7 @@
       "pb_url": "/product/2-Effects/30-Distortion/6525-Thermal",
       "typical_regular": 199,
       "typical_sale": 129,
-      "all_time_low": null,
+      "all_time_low": 74.5,
       "notes": "Distortion/saturation effects rack. Follows Output's Black Friday 30-40% off pattern.",
       "category": "Saturation",
       "history": [
@@ -5613,7 +5613,7 @@
       "pb_url": "/product/2-Effects/53-Multi-Effect-/5900-Super-VHS",
       "typical_regular": 69,
       "typical_sale": 34,
-      "all_time_low": null,
+      "all_time_low": 10.0,
       "notes": "Lo-fi/retro multi-effect. No permanent PB discount observed at list; Baby Audio's frequent flash/BF sales bring it to ~$29-39.",
       "category": "Effects",
       "history": [
@@ -6759,7 +6759,7 @@
       "pb_url": "/product/2-Effects/8-Compressor/16541-smart-comp-3",
       "typical_regular": 129,
       "typical_sale": 59,
-      "all_time_low": null,
+      "all_time_low": 59.0,
       "notes": "AI-assisted compressor. List $129, reseller sale seen at $59 (~55% off, jrrshop.com); Sonible runs several sales/year.",
       "category": "Compressor",
       "history": [
@@ -6787,7 +6787,7 @@
       "pb_url": "/product/2-Effects/9-Limiter/8476-smart-limit",
       "typical_regular": 129,
       "typical_sale": 69,
-      "all_time_low": null,
+      "all_time_low": 59.0,
       "notes": "AI-assisted loudness limiter, part of the smart:essentials trio ($249 bundle = ~30% off vs buying individually). Same 30-50% off seasonal pattern.",
       "category": "Limiter",
       "history": [
@@ -6815,7 +6815,7 @@
       "pb_url": "/product/2-Effects/17-Reverb/15044-smart-reverb-2",
       "typical_regular": 129,
       "typical_sale": 59,
-      "all_time_low": null,
+      "all_time_low": 59.0,
       "notes": "AI-guided reverb. List $129, reseller sale seen at $59 (~55% off, jrrshop.com).",
       "category": "Reverb",
       "history": [
@@ -6903,7 +6903,7 @@
       "pb_url": "/product/2-Effects/42-Enhancer/4801-Spectre",
       "typical_regular": 79,
       "typical_sale": 44,
-      "all_time_low": null,
+      "all_time_low": 60.0,
       "notes": "Creative EQ/saturation tool. 30-50% off in Wavesfactory's major promos (price tier estimated).",
       "category": "EQ",
       "history": [
@@ -7041,7 +7041,7 @@
       "pb_url": "/product/2-Effects/17-Reverb/5380-Springs",
       "typical_regular": 69,
       "typical_sale": 39,
-      "all_time_low": null,
+      "all_time_low": 39.33,
       "notes": "Spring reverb collection (multiple tanks/amps). Same ~35-45% off pattern as AudioThing's other FX (price tier estimated from comparable titles).",
       "category": "Reverb",
       "history": [
@@ -7133,7 +7133,7 @@
       "pb_url": "/product/2-Effects/30-Distortion/7803-Rift-2-0",
       "typical_regular": 149,
       "typical_sale": 64.5,
-      "all_time_low": null,
+      "all_time_low": 129.0,
       "notes": "Multi-effect distortion/modulation plugin. A specific $64.50 sale price was reported in community deal threads (unconfirmed as absolute lowest); Minimal Audio runs frequent 40-50% off sales.",
       "category": "Effects",
       "history": [
@@ -7253,7 +7253,7 @@
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/6669-Damage-2",
       "typical_regular": 249,
       "typical_sale": 125,
-      "all_time_low": null,
+      "all_time_low": 249.0,
       "notes": "Flagship hybrid/epic percussion instrument (Kontakt/NKS). 30-50% off in Heavyocity's site-wide and NI partner sales (price tier estimated).",
       "category": "Drums",
       "history": [
@@ -7377,7 +7377,7 @@
       "pb_url": "/product/2-Effects/8-Compressor/8664-SSL-Native-X-Comp",
       "typical_regular": 99.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 10.0,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -7417,7 +7417,7 @@
       "pb_url": "/product/2-Effects/71-Dynamics-Processor/3259-Trackspacer",
       "typical_regular": 59.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 36.0,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -7475,7 +7475,7 @@
       "pb_url": "/product/2-Effects/9-Limiter/492-Oxford-Inflator",
       "typical_regular": 156.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 39.0,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -7521,7 +7521,7 @@
       "pb_url": "/product/1-Instruments/4-Synth/11198-M1",
       "typical_regular": 99.99,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 49.99,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -7579,7 +7579,7 @@
       "pb_url": "/product/2-Effects/42-Enhancer/4801-Spectre",
       "typical_regular": 99.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 60.0,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -7637,7 +7637,7 @@
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5507-SOLID-2",
       "typical_regular": 119.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 9.0,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -7683,7 +7683,7 @@
       "pb_url": "/product/81-Bundles/89-Complete-Collection/14789-Excite-Audio-Bundle-Crossgrade-From-Any-Excite-Audio-Product",
       "typical_regular": 738.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 269.0,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -7729,7 +7729,7 @@
       "pb_url": "/product/81-Bundles/89-Complete-Collection/9866-Excite-Audio-Bundle",
       "typical_regular": 738.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 369.0,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -7787,7 +7787,7 @@
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/1560-Xpand-2",
       "typical_regular": 99.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 29.0,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -7833,7 +7833,7 @@
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/16094-KORG-Collection-6",
       "typical_regular": 399.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 199.0,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -7891,7 +7891,7 @@
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5508-HEAVY-2",
       "typical_regular": 119.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 9.0,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -7937,7 +7937,7 @@
       "pb_url": "/product/2-Effects/25-Spectral-Analysis/9301-VISION-4X",
       "typical_regular": 89.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 49.0,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -7995,7 +7995,7 @@
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/8111-IRON-2",
       "typical_regular": 129.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 9.0,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -8041,7 +8041,7 @@
       "pb_url": "/product/2-Effects/16-EQ/8182-Claro",
       "typical_regular": 134.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 32.0,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -8087,7 +8087,7 @@
       "pb_url": "/product/81-Bundles/89-Complete-Collection/15171-Total-Studio-5-MAX",
       "typical_regular": 599.99,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 199.99,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -8133,7 +8133,7 @@
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5506-PHAT-2",
       "typical_regular": 119.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 9.0,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -8167,7 +8167,7 @@
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5842-CARBON",
       "typical_regular": 129.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 9.0,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -8213,7 +8213,7 @@
       "pb_url": "/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor",
       "typical_regular": 199.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 39.0,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -8259,7 +8259,7 @@
       "pb_url": "/product/2-Effects/9-Limiter/495-Oxford-Limiter",
       "typical_regular": 264.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 65.0,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -8305,7 +8305,7 @@
       "pb_url": "/product/2-Effects/21-Channel-Strip/11503-UAD-Sound-City-Studios-Plugin",
       "typical_regular": 249.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 39.0,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -8333,7 +8333,7 @@
       "pb_url": "/product/2-Effects/53-Multi-Effect-/13431-Transit-2",
       "typical_regular": 129.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 79.0,
       "notes": "auto-intake 2026-07-13",
       "category": null,
       "history": [

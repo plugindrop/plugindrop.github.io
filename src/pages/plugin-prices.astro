@@ -354,6 +354,16 @@ const pageLD = {
       }
       .facet-options { display: grid; gap: 0.25rem; }
       .facet-options.developers { max-height: 13rem; overflow-y: auto; padding-right: 0.2rem; }
+      .tracker-sidebar::-webkit-scrollbar,
+      .facet-options.developers::-webkit-scrollbar { width: 4px; }
+      .tracker-sidebar::-webkit-scrollbar-track,
+      .facet-options.developers::-webkit-scrollbar-track { background: transparent; }
+      .tracker-sidebar::-webkit-scrollbar-thumb,
+      .facet-options.developers::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+      .tracker-sidebar::-webkit-scrollbar-thumb:hover,
+      .facet-options.developers::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
+      .tracker-sidebar { scrollbar-width: thin; scrollbar-color: var(--border) transparent; }
+      .facet-options.developers { scrollbar-width: thin; scrollbar-color: var(--border) transparent; }
       .facet-option {
         display: flex; align-items: center; justify-content: space-between; gap: 0.5rem;
         min-width: 0; padding: 0.2rem 0; color: var(--text-secondary); cursor: pointer;
