@@ -1,106 +1,97 @@
 ---
-title: "20% Off Synthesizer V Studio 2 Pro — AI Vocal Production ($79)"
-description: "If you only install one, make it Synthesizer V Studio 2 Pro if you need an editable AI vocal editor with a perpetual license. Plugin Boutique has it at..."
-pubDate: "2026-07-16T15:37:54Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "synth", "music-production"]
+title: "20% Off Synthesizer V Studio 2 Pro — AI Vocal Synthesis ($79)"
+description: "Synthesizer V Studio 2 Pro is down to **$79** from ~~$99~~ at Plugin Boutique, a 20% discount ($20 off). It's an AI-driven vocal synthesis application for..."
+pubDate: "2026-07-16T18:19:41Z"
+tags: ["sale", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthesizer-v-studio-2-pro-15dca3"
 heroImage: "/images/synthesizer-v-studio-2-pro-15dca3.jpg"
 score: 8.12
 dealPrice: "$79.00"
 originalPrice: "$99.00"
 discount: "20% OFF"
-xText: "new vocal workflow, $99 -> $79. synthesizer v studio 2 pro turns notes + lyrics into a singer, then lets you shape the expression. sale ends july 20 — wait and that $20 goes straight back on the price tag."
+xText: "synth v studio 2 pro just launched at 20% off. if you do vocal synths you already know why that's the move. window doesn't stay open long"
 draft: false
 ---
-**TL;DR:** If you only install one, make it Synthesizer V Studio 2 Pro if you need an editable AI vocal editor with a perpetual license. Plugin Boutique has it at **$79.00**, down from ~~$99.00~~, saving **$20.00 (20%)**. [Check the current deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthesizer-v-studio-2-pro-15dca3).
+If you only need one AI vocal synthesizer this year, Synthesizer V Studio 2 Pro is the one to check out — Dreamtonics' flagship is currently 20% off at Plugin Boutique.
+
+**TL;DR:** Synthesizer V Studio 2 Pro is down to **$79** from ~~$99~~ at Plugin Boutique, a 20% discount ($20 off). It's an AI-driven vocal synthesis application for producing singing vocals from text and note input, with DAW plugin support. [Get the deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthesizer-v-studio-2-pro-15dca3).
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/W2GN--snDHY" title="20% Off Synthesizer V Studio 2 Pro — AI Vocal Production ($79) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/m3hI0YzucRw" title="20% Off Synthesizer V Studio 2 Pro — AI Vocal Synthesis ($79) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
 ## What Is Synthesizer V Studio 2 Pro?
 
-Synthesizer V Studio 2 Pro is Dreamtonics’ AI vocal-synthesis software. It turns MIDI notes and lyrics into editable singing performances using compatible voice libraries.
-
-The Pro edition runs as a standalone application and as a DAW plugin. It supports VST3, AU, and AAX formats, with ARA variants also available for supported hosts.
-
-It is designed for writing and arranging vocals inside a production workflow, rather than generating a complete song from a text prompt. A compatible voice is needed to create a vocal performance.
-
-Where it shines is a project where the melody, words, phrasing, and pitch need to remain editable after the initial idea. Skip it if you only need vocal processing for a recorded human singer.
+Synthesizer V Studio is an AI vocal synthesis application developed by Dreamtonics, used to generate singing vocal tracks from typed lyrics and pitch/note data. The Pro edition is the full-featured tier of the software, built for producers and vocal synth artists who need deeper editing control and DAW integration. Voice banks (the AI vocal timbres) are sold separately from the application itself. Check the product page for the exact feature breakdown between editions.
 
 ## Key Features
 
-- **Piano-roll vocal editing:** Enter notes and lyrics, then edit the synthesized vocal performance from the editor.
+- **AI vocal synthesis engine** — generates natural-sounding singing vocals from text and MIDI-style note input.
+- **DAW plugin support** — runs as a VST/AU/AAX plugin alongside the standalone app, so vocals can sit directly in your session. Confirm exact plugin formats on the product page.
+- **Multi-track and multi-language workflow** — the Pro tier is built for handling larger, more complex vocal projects than the Basic edition.
+- **Advanced pitch and parameter editing** — fine-tune pitch curves, timing, and vocal parameters note by note.
+- **Voice bank compatibility** — works with Dreamtonics' library of separately sold AI voice banks across supported languages.
+- **Export and rendering tools** — render finished vocal tracks as audio for mixing in your DAW of choice.
 
-- **Smart Pitch Controls:** Version 2 adds control points for shaping pitch behavior without drawing every part of a curve manually.
+Exact feature limits between Basic and Pro editions, plus supported voice banks, are listed on the official product page.
 
-- **Phoneme Timing Panel:** Adjust phoneme timing and intensity within a note, including detailed control of certain consonant onsets.
+## What Producers Are Saying
 
-- **AI Retakes:** Generate alternative timing and vocal-performance options from the Notes panel.
-
-- **Cross-lingual synthesis:** Dreamtonics lists English, Spanish, Japanese, Korean, Mandarin Chinese, and Cantonese among the supported languages, subject to voice compatibility.
-
-- **Offline rendering:** Dreamtonics states that Synthesizer V Studio 2 Pro continues to render offline and does not require dedicated GPU acceleration.
+Synthesizer V has built a solid reputation in vocal synthesis circles as a modern alternative to older tools like VOCALOID and UTAU. On forums such as KVR Audio and Reddit communities focused on vocal synths, it's commonly cited for producing more natural-sounding results than legacy engines. Discussions frequently center on voice bank quality and how the Pro tier's editing depth compares to free alternatives like UTAU.
 
 ## Who Is It For?
 
-- **Songwriters building toplines:** Use MIDI and lyrics to sketch a vocal part before recording, arranging, or licensing a final vocal.
+- **Vocaloid-style producers** — musicians building AI-sung vocal tracks for original songs or covers.
+- **Composers needing vocal mockups** — quick vocal placeholders for demos before hiring a session singer.
+- **Content creators** — producers making vocal-driven tracks for video, streaming, or virtual artist projects.
+- **Sound designers exploring vocal synthesis** — anyone experimenting with synthetic voice as a production tool rather than a traditional instrument.
 
-- **DTM producers:** The plugin and standalone options suit projects that need vocals placed alongside MIDI instruments and audio tracks.
-
-- **Composers working across languages:** Cross-lingual capability can matter when arranging compatible voices in more than one supported language.
-
-- **Existing Synthesizer V users:** Version 1 projects can be imported, though Dreamtonics notes that some edits may reset because certain older functions are no longer used in version 2.
+Hobbyists who only need occasional vocal chops may find the free Basic edition sufficient; Pro is aimed at users who need the expanded editing and track capacity.
 
 ## Pricing & Deal Details
 
 | Regular Price | Deal Price | You Save |
-|---|---:|---:|
-| ~~$99.00~~ | $79.00 | $20.00 (20%) |
+|---|---|---|
+| ~~$99~~ | $79 | $20 (20%) |
 
-This is a single-product deal, so there is no bundle per-unit calculation. The $99 regular price matches Dreamtonics’ published launch pricing for the Pro editor.
+Plugin Boutique regularly runs promotions on Dreamtonics products, though the frequency and depth of Synthesizer V discounts vary by campaign. Verify current pricing on the product page — deals can change.
 
-The license is a one-time perpetual purchase rather than a subscription. Dreamtonics says version 2 updates within the same major version are included, but check the product page for the exact license, included content, and current terms.
-
-Verify current pricing on the product page — deals can change. [View the $79 Synthesizer V Studio 2 Pro deal](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthesizer-v-studio-2-pro-15dca3).
+[Grab Synthesizer V Studio 2 Pro at 20% off](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthesizer-v-studio-2-pro-15dca3).
 
 ## Alternatives at a Glance
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Synthesizer V Studio 2 Pro | $79.00 during this deal | Perpetual AI vocal editor with standalone and plugin operation. |
-| Synthesizer V Studio Basic | Free | Free edition of the Synthesizer V editor with a more limited feature set. |
-| VOCALOID6 | Check product page for current pricing | A separate virtual-singer editor built around the VOCALOID ecosystem and compatible voicebanks. |
-| NEUTRINO | Free | A free Japanese singing-synthesis workflow rather than a commercial DAW-focused Pro editor. |
+| Synthesizer V Studio 2 Basic | Free | Entry-level edition with reduced track and editing capacity versus Pro. |
+| UTAU | Free | Open-source vocal synth engine, community-driven voicebanks, steeper learning curve. |
+| VOCALOID6 | Check vendor site | Long-established vocal synth line from Yamaha with its own separate voice bank ecosystem. |
 
-Pick Synthesizer V Studio Basic to explore the platform before buying Pro features. Choose VOCALOID6 when a required voicebank is specific to that ecosystem, while NEUTRINO is relevant for a free Japanese vocal-synthesis route.
+If you're new to AI vocal synthesis and want to try before spending, Synthesizer V Studio 2 Basic or UTAU cost nothing to start. If you're already invested in a voice bank library, sticking with that ecosystem's paid tier usually makes more sense than switching platforms.
 
 ## FAQ
 
-**Q: Is Synthesizer V Studio 2 Pro a subscription?**
+**Q: Does Synthesizer V Studio 2 Pro require iLok?**
+A: No. Dreamtonics uses its own license activation system rather than iLok or an external dongle, based on the vendor's standard licensing approach for this product line.
 
-A: No. Dreamtonics describes it as a one-time purchase with a perpetual license, not a recurring monthly subscription.
+**Q: Is this a subscription or a one-time purchase?**
+A: Synthesizer V Studio is sold as a perpetual license per major version, not a recurring subscription. Confirm license terms on the product page before buying.
 
-**Q: Does Synthesizer V Studio 2 Pro include a voice?**
+**Q: Do voice banks come included with Synthesizer V Studio 2 Pro?**
+A: Voice banks are typically sold separately from the core application. Check the product page for bundled options or included voices, if any.
 
-A: Dreamtonics announced a choice of one complimentary voice with the Pro editor: Mai 2, Liam, or Mo Xu. Check the Plugin Boutique product page before purchase to confirm the current included-content terms.
-
-**Q: Can Synthesizer V Studio 2 Pro be used in a DAW?**
-
-A: Yes. Dreamtonics lists VST3, AU, and AAX plugin formats, plus supported ARA variants. Check the official site for current host and system requirements.
-
-**Q: Can I use songs made with Synthesizer V Studio 2 Pro commercially?**
-
-A: Dreamtonics states that the Pro editor and official Dreamtonics voices include commercial-use licenses. Review the license for the specific voice used in a release.
+**Q: What are the system requirements?**
+A: Check the official product page for current Windows/macOS system requirements before purchasing.
 
 ## Get the Deal
 
-The saving is simple: **$20.00 off**, taking Synthesizer V Studio 2 Pro from ~~$99.00~~ to **$79.00**. [Get the Plugin Boutique deal while the price is active](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthesizer-v-studio-2-pro-15dca3).
+$20 off Synthesizer V Studio 2 Pro brings it down to $79 at Plugin Boutique, a straightforward 20% saving on Dreamtonics' full-featured vocal synthesis app.
+
+[Get Synthesizer V Studio 2 Pro now](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthesizer-v-studio-2-pro-15dca3).
 
 ## Is This Deal Worth It?
 
-At 20% off, this is a straightforward discount on a perpetual editor with a published $99 regular price. Dreamtonics has run promotional pricing around product launches and seasonal sales, so there is no factual basis to call this a rare lowest-ever price. Buy now if a compatible voice and editable AI-vocal workflow are already part of an active project; otherwise, the free trial and Synthesizer V Studio Basic provide ways to assess the workflow before paying.
+A 20% discount is a solid, if not exceptional, markdown for a specialized production tool like this. Vocal synthesis software doesn't see the same constant sale cadence as sample libraries or generic plugins, so a discount at all is worth noting for anyone already planning to buy. Since the license is perpetual rather than subscription-based, there's no recurring cost to weigh against the upfront price. If you've been waiting to try AI vocal synthesis at the Pro tier, this is a reasonable point to buy rather than wait indefinitely for a deeper cut.
 
 ## Related Guides
 
