@@ -10,7 +10,7 @@ dealPrice: "$25"
 originalPrice: "$105.99"
 discount: "76% OFF"
 xText: "8 trap bundles for $25 ($3 per pack). this is the price point i literally wait for. if you're sleeping, you're missing the move."
-draft: false
+draft: true
 ---
 **TL;DR:** Eight trap and hip hop sample packs for a flat $25 — that breaks down to roughly $3.13 per pack. If you're building out your trap library without blowing your budget, [grab the Trap Legends Bundle on ADSR Sounds](https://www.adsrsounds.com/product/presets/trap-legends-bundle-by-tkid-the-producer-8-trap-hip-hop-sample-packs-for-25/?utm_source=plugindrop&utm_medium=article&utm_campaign=trap-legends-bundle-by-t-kid-the-producer-8-trap-hip-hop-pac) while this price holds.
 

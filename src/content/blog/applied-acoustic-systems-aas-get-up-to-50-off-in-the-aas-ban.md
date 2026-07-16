@@ -7,7 +7,7 @@ affiliate: "https://www.pluginboutique.com/deals/22636?utm_source=plugindrop&utm
 heroImage: /images/applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban.webp
 score: 3.5
 saleExpiry: '2027-04-20'
-draft: false
+draft: true
 converted: true
 ---
 **AAS Band Month Sale.  [Check the current price here.](https://www.pluginboutique.com/deals/22636?utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustic-systems-aas-get-up-to-50-off-in-the-aas-ban&a_aid=69cb95abe1763)

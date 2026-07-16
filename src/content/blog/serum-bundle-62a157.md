@@ -8,7 +8,7 @@ heroImage: "/images/serum-bundle-62a157.jpg"
 score: 7.44
 dealPrice: "$20"
 xText: "serum bundle just made the per-plugin cost stupid low. this rarely discounts — grab it while it sticks"
-draft: false
+draft: true
 ---
 **TL;DR:** ADSR Sounds is offering a Serum preset bundle for just **$20** — a sharp deal for producers looking to expand their sound library without breaking the bank. This bundle packages multiple Serum preset collections together at a single low price. [Grab the Serum Bundle at ADSR Sounds →](https://www.adsrsounds.com/product/presets/serum-bundle/?a_aid=plugindrop&data1=serum-bundle-62a157&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-bundle-62a157)
 

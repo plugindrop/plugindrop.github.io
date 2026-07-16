@@ -6,7 +6,7 @@ tags: ["free", "vst-plugin", "reverb", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/4715-Little-Plate?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-little-plate-free-download"
 dealPrice: "FREE"
 originalPrice: "$99"
-draft: false
+draft: true
 noindex: true
 heroImage: "/images/soundtoys-little-plate-free-download.jpg"
 score: 2.88

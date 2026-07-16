@@ -6,7 +6,7 @@ tags: ["music-production"]
 affiliate: "https://play.google.com/store/apps/details"
 score: 9.00
 xText: "android plugin deals app is live. no more scattered deal-hunting across five websites. ios coming soon."
-draft: false
+draft: true
 ---
 **TL;DR:** The Plugin Deals app for Android is free and just received a meaningful update — smoother performance and bookmarking are now live. iOS support is confirmed as coming. [Download free on Google Play](https://play.google.com/store/apps/details?id=net.plugindeals.app100467).
 
