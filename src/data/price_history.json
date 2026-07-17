@@ -9346,6 +9346,1166 @@
           "source": "auto_check"
         }
       ]
+    },
+    "FabFilter One": {
+      "pb_url": "/product/1-Instruments/4-Synth/929-FabFilter-One",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "FabFilter Simplon": {
+      "pb_url": "/product/2-Effects/19-Filter/930-FabFilter-Simplon",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "FabFilter Micro": {
+      "pb_url": "/product/2-Effects/19-Filter/931-FabFilter-Micro",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Arturia Analog Lab Intro": {
+      "pb_url": "/product/1-Instruments/4-Synth/17135-Analog-Lab-Intro",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "u-he Uhbik 2": {
+      "pb_url": "/product/2-Effects/53-Multi-Effect-/15854-Uhbik-2",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "u-he Twangstr m": {
+      "pb_url": "/product/2-Effects/17-Reverb/5024-Twangstr-m",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "u-he MFM2": {
+      "pb_url": "/product/2-Effects/10-Delay/9610-MFM2",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "u-he Filterscape": {
+      "pb_url": "/product/2-Effects/19-Filter/11231-Filterscape",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Kilohearts Disperser": {
+      "pb_url": "/product/2-Effects/19-Filter/611-Disperser",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Kilohearts Convolver": {
+      "pb_url": "/product/2-Effects/17-Reverb/8218-Convolver",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Kilohearts Snap Heap": {
+      "pb_url": "/product/2-Effects/53-Multi-Effect-/2397-Snap-Heap",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Kilohearts Filter Table": {
+      "pb_url": "/product/2-Effects/19-Filter/14112-Filter-Table",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Kilohearts Faturator": {
+      "pb_url": "/product/2-Effects/30-Distortion/337-Faturator",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Kilohearts Shaper Table": {
+      "pb_url": "/product/2-Effects/30-Distortion/12131-Shaper-Table",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "iZotope VEA": {
+      "pb_url": "/product/2-Effects/54-Vocal-Processing/11847-VEA",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "iZotope Ozone EQ": {
+      "pb_url": "/product/2-Effects/16-EQ/11504-iZotope-Ozone-EQ",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "iZotope FXEQ": {
+      "pb_url": "/product/2-Effects/53-Multi-Effect-/15248-FXEQ",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "iZotope Velvet": {
+      "pb_url": "/product/2-Effects/59-De-Esser/14847-Velvet",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Soundtoys Sie Q": {
+      "pb_url": "/product/2-Effects/16-EQ/4717-Sie-Q",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Soundtoys SuperPlate": {
+      "pb_url": "/product/2-Effects/17-Reverb/10583-SuperPlate",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Soundtoys Radiator": {
+      "pb_url": "/product/2-Effects/44-Saturation/1802-Radiator",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Soundtoys PhaseMistress": {
+      "pb_url": "/product/2-Effects/29-Phaser/1808-PhaseMistress",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Soundtoys PrimalTap": {
+      "pb_url": "/product/2-Effects/10-Delay/1857-PrimalTap",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Soundtoys SpaceBlender": {
+      "pb_url": "/product/2-Effects/17-Reverb/14961-SpaceBlender",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Moog Minimoog": {
+      "pb_url": "/product/1-Instruments/64-Virtual-Instruments/10188-Moog-Minimoog",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD LUNA Pro Mk 2": {
+      "pb_url": "/product/3-Studio-Tools/23-DAW/15966-LUNA-Pro-Mk-2",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Ampex ATR 102 Mastering Tape Recorder": {
+      "pb_url": "/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Topline Vocal Suite": {
+      "pb_url": "/product/2-Effects/54-Vocal-Processing/13320-Topline-Vocal-Suite",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD A Type Multiband Dynamic Enhancer": {
+      "pb_url": "/product/2-Effects/42-Enhancer/15130-A-Type-Multiband-Dynamic-Enhancer",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Ocean Way Studios Deluxe": {
+      "pb_url": "/product/2-Effects/17-Reverb/16132-Ocean-Way-Studios-Deluxe",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD API 2500 Bus Compressor": {
+      "pb_url": "/product/2-Effects/8-Compressor/10155-API-2500-Bus-Compressor",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Little Labs Voice of God": {
+      "pb_url": "/product/2-Effects/42-Enhancer/17066-Little-Labs-Voice-of-God",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Teletronix LA 2A Leveler Collection": {
+      "pb_url": "/product/2-Effects/8-Compressor/10154-Teletronix-LA-2A-Leveler-Collection",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Ravel Grand Piano": {
+      "pb_url": "/product/1-Instruments/64-Virtual-Instruments/10191-Ravel-Grand-Piano",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Lexicon 224 Digital Reverb": {
+      "pb_url": "/product/2-Effects/17-Reverb/10174-Lexicon-224-Digital-Reverb",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Avalon VT 737 Tube Channel Strip": {
+      "pb_url": "/product/2-Effects/21-Channel-Strip/11495-Avalon-VT-737-Tube-Channel-Strip",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Opal Morphing Synth": {
+      "pb_url": "/product/1-Instruments/4-Synth/10189-Opal-Morphing-Synth",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Manley Massive Passive": {
+      "pb_url": "/product/2-Effects/16-EQ/11498-Manley-Massive-Passive",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Galaxy Tape Echo": {
+      "pb_url": "/product/2-Effects/10-Delay/10170-Galaxy-Tape-Echo",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Manley VOXBOX Channel Strip": {
+      "pb_url": "/product/2-Effects/54-Vocal-Processing/10956-Manley-VOXBOX-Channel-Strip-",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Studio D Chorus": {
+      "pb_url": "/product/2-Effects/11-Chorus/10186-Studio-D-Chorus",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Studer A800 Tape Recorder": {
+      "pb_url": "/product/2-Effects/96-Tape-Emulation/10185-Studer-A800-Tape-Recorder",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Waterfall B3 Organ": {
+      "pb_url": "/product/1-Instruments/64-Virtual-Instruments/10187-Waterfall-B3-Organ",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Capitol Mastering Compressor": {
+      "pb_url": "/product/2-Effects/8-Compressor/10562-Capitol-Mastering-Compressor",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Fairchild Tube Limiter Collection": {
+      "pb_url": "/product/2-Effects/9-Limiter/10312-Fairchild-Tube-Limiter-Collection",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Dream 65 Reverb Amp": {
+      "pb_url": "/product/2-Effects/18-Amp-Simulator/13321-UAD-Dream-65-Reverb-Amp",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Teletronix LA 3A Audio Leveler": {
+      "pb_url": "/product/2-Effects/8-Compressor/10416-Teletronix-LA-3A-Audio-Leveler",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Brigade Chorus Pedal": {
+      "pb_url": "/product/2-Effects/11-Chorus/10159-Brigade-Chorus-Pedal",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD SSL 4000 G Bus Compressor": {
+      "pb_url": "/product/2-Effects/21-Channel-Strip/13325-SSL-4000-G-Bus-Compressor",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Manley Tube Preamp": {
+      "pb_url": "/product/2-Effects/54-Vocal-Processing/11028-Manley-Tube-Preamp",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Woodrow 55 Instrument Amplifier": {
+      "pb_url": "/product/2-Effects/18-Amp-Simulator/14600-UAD-Woodrow-55-Instrument-Amplifier",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Capitol Chambers": {
+      "pb_url": "/product/2-Effects/49-Echo/11496-Capitol-Chambers",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "UAD Electra 88 Vintage Keyboard Studio": {
+      "pb_url": "/product/1-Instruments/64-Virtual-Instruments/10563-Electra-88-Vintage-Keyboard-Studio",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Native Instruments Scene Bloodplant": {
+      "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/16677-Scene-Bloodplant",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Native Instruments Super Saw": {
+      "pb_url": "/product/1-Instruments/4-Synth/17587-Super-Saw",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Native Instruments 24K Keys": {
+      "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15856-24K-Keys",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Native Instruments Glaze 2": {
+      "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15883-Glaze-2",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Native Instruments Scene Saffron": {
+      "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15878-Scene-Saffron",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Native Instruments LCO Producer Strings": {
+      "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15839-LCO-Producer-Strings",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Native Instruments Halo Vox": {
+      "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15843-Halo-Vox",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Native Instruments Scene Lotus": {
+      "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15844-Scene-Lotus",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Native Instruments Scene Nightshade": {
+      "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15845-Scene-Nightshade",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Sonible smart deess": {
+      "pb_url": "/product/2-Effects/59-De-Esser/11480-smart-deess",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Sonible prime vocal": {
+      "pb_url": "/product/2-Effects/54-Vocal-Processing/14147-prime-vocal",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Sonible smart gate": {
+      "pb_url": "/product/2-Effects/20-Gate/10898-smart-gate",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Baby Audio SubCulture": {
+      "pb_url": "/product/2-Effects/42-Enhancer/17589-SubCulture",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Baby Audio Grainferno": {
+      "pb_url": "/product/1-Instruments/4-Synth/16951-Grainferno",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Baby Audio Magic Switch": {
+      "pb_url": "/product/2-Effects/11-Chorus/6975-Magic-Switch",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Baby Audio Humanoid": {
+      "pb_url": "/product/2-Effects/54-Vocal-Processing/12582-Humanoid",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Baby Audio Tekno": {
+      "pb_url": "/product/1-Instruments/139-Drum-Synth/15545-Tekno",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Baby Audio Smooth Operator Pro": {
+      "pb_url": "/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide H3000 Factory Mk II": {
+      "pb_url": "/product/2-Effects/91-Harmonizer/12197-H3000-Factory-Mk-II",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide ShimmerVerb": {
+      "pb_url": "/product/2-Effects/17-Reverb/6656-ShimmerVerb",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide Omnipressor": {
+      "pb_url": "/product/2-Effects/71-Dynamics-Processor/2856-Omnipressor",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide TriceraChorus": {
+      "pb_url": "/product/2-Effects/11-Chorus/6931-TriceraChorus",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide Rotary Mod": {
+      "pb_url": "/product/2-Effects/33-Modulator/6422-Rotary-Mod",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide MangledVerb": {
+      "pb_url": "/product/2-Effects/17-Reverb/3909-MangledVerb",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide Instant Flanger Mk II": {
+      "pb_url": "/product/2-Effects/12-Flanger/5216-Instant-Flanger-Mk-II",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide Instant Phaser Mk II": {
+      "pb_url": "/product/2-Effects/29-Phaser/5027-Instant-Phaser-Mk-II",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide Octavox": {
+      "pb_url": "/product/2-Effects/91-Harmonizer/3065-Octavox",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide Precision Time Align": {
+      "pb_url": "/product/2-Effects/10-Delay/3403-Precision-Time-Align",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide H949 Harmonizer": {
+      "pb_url": "/product/2-Effects/91-Harmonizer/7947-H949-Harmonizer",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide SplitEQ": {
+      "pb_url": "/product/2-Effects/16-EQ/8345-SplitEQ",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide Spring": {
+      "pb_url": "/product/2-Effects/17-Reverb/6077-Spring",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide Blackhole Immersive": {
+      "pb_url": "/product/2-Effects/17-Reverb/11474-Blackhole-Immersive",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide MicroPitch Immersive": {
+      "pb_url": "/product/2-Effects/27-Stereo-Width/11475-MicroPitch-Immersive",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide DeBoom": {
+      "pb_url": "/product/2-Effects/16-EQ/11691-DeBoom",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide Sheen Machine": {
+      "pb_url": "/product/2-Effects/16-EQ/11692-Sheen-Machine",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide EChannel": {
+      "pb_url": "/product/2-Effects/53-Multi-Effect-/10567-EChannel",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide EQ45": {
+      "pb_url": "/product/2-Effects/16-EQ/10568-EQ45",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide EQ65": {
+      "pb_url": "/product/2-Effects/19-Filter/10569-EQ65",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide Quadravox": {
+      "pb_url": "/product/2-Effects/35-Pitch-Shifter/2853-Quadravox",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide H910 Harmonizer": {
+      "pb_url": "/product/2-Effects/35-Pitch-Shifter/2854-H910-Harmonizer",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide UltraReverb": {
+      "pb_url": "/product/2-Effects/17-Reverb/3061-UltraReverb",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide CrushStation": {
+      "pb_url": "/product/2-Effects/30-Distortion/6313-CrushStation",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide MicroPitch": {
+      "pb_url": "/product/2-Effects/35-Pitch-Shifter/6350-MicroPitch",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide Crystals": {
+      "pb_url": "/product/2-Effects/53-Multi-Effect-/6473-Crystals",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide UltraTap": {
+      "pb_url": "/product/2-Effects/10-Delay/3671-UltraTap",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide H3000 Band Delays Mk II": {
+      "pb_url": "/product/2-Effects/10-Delay/12198-H3000-Band-Delays-Mk-II",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Eventide Undulator": {
+      "pb_url": "/product/2-Effects/40-Tremolo/17331-Undulator",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Ensoniq ESQ 1 Synthesizer": {
+      "pb_url": "/product/1-Instruments/4-Synth/17462-Ensoniq-ESQ-1-Synthesizer",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Memorymode": {
+      "pb_url": "/product/1-Instruments/4-Synth/7831-Memorymode",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio GX 80 Synthesizer": {
+      "pb_url": "/product/1-Instruments/4-Synth/10001-GX-80-Synthesizer",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Miniverse": {
+      "pb_url": "/product/1-Instruments/4-Synth/9030-Miniverse",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Mercury 8": {
+      "pb_url": "/product/1-Instruments/4-Synth/16443-Mercury-8",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio DCO 106": {
+      "pb_url": "/product/1-Instruments/4-Synth/6935-DCO-106",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Yellowjacket": {
+      "pb_url": "/product/1-Instruments/4-Synth/14754-Yellowjacket",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio DS 2 Synthesizer": {
+      "pb_url": "/product/1-Instruments/4-Synth/17088-DS-2-Synthesizer",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Stardust 201 Tape Echo": {
+      "pb_url": "/product/2-Effects/49-Echo/8125-Stardust-201-Tape-Echo",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Voltage Modular Ignite": {
+      "pb_url": "/product/1-Instruments/4-Synth/5034-Voltage-Modular-Ignite",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Quadra": {
+      "pb_url": "/product/1-Instruments/4-Synth/8402-Quadra",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Polymode": {
+      "pb_url": "/product/1-Instruments/4-Synth/7310-Polymode",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Eight Voice": {
+      "pb_url": "/product/1-Instruments/4-Synth/7433-Eight-Voice",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Voltage Modular Nucleus": {
+      "pb_url": "/product/1-Instruments/4-Synth/5594-Voltage-Modular-Nucleus",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Year One Collection": {
+      "pb_url": "/product/1-Instruments/4-Synth/5595-Cherry-Audio-Year-One-Collection",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio CR 78 Drum Machine": {
+      "pb_url": "/product/1-Instruments/7-Drum-Machine/11908-CR-78-Drum-Machine",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio PS 3300": {
+      "pb_url": "/product/1-Instruments/4-Synth/11377-PS-3300",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Pro Soloist": {
+      "pb_url": "/product/1-Instruments/64-Virtual-Instruments/11669-Pro-Soloist",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Novachord Solovox": {
+      "pb_url": "/product/1-Instruments/4-Synth/10582-Novachord-Solovox",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Dreamsynth": {
+      "pb_url": "/product/1-Instruments/4-Synth/8856-Dreamsynth",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio CA2600 Synthesizer": {
+      "pb_url": "/product/1-Instruments/4-Synth/7033-CA2600-Synthesizer",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Surrealistic MG 1 Plus Synthesizer": {
+      "pb_url": "/product/1-Instruments/4-Synth/7117-Surrealistic-MG-1-Plus-Synthesizer",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Elka X": {
+      "pb_url": "/product/1-Instruments/4-Synth/9504-Elka-X",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Sines Synthesizer": {
+      "pb_url": "/product/1-Instruments/4-Synth/9727-Sines-Synthesizer",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Lowdown": {
+      "pb_url": "/product/1-Instruments/4-Synth/9098-Lowdown",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Galactic Reverb": {
+      "pb_url": "/product/2-Effects/17-Reverb/9260-Galactic-Reverb",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Mercury 6": {
+      "pb_url": "/product/1-Instruments/4-Synth/10332-Mercury-6",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Cherry Audio Wurlybird 140B": {
+      "pb_url": "/product/1-Instruments/64-Virtual-Instruments/12636-Wurlybird-140B",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "XLN Audio DB 30 Drum Butter": {
+      "pb_url": "/product/2-Effects/13-Drum-FX/17009-DB-30-Drum-Butter",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "XLN Audio DS 10 Drum Shaper": {
+      "pb_url": "/product/2-Effects/36-Transient-Shaper/1812-DS-10-Drum-Shaper",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Minimal Audio Cluster Delay": {
+      "pb_url": "/product/2-Effects/10-Delay/10273-Cluster-Delay",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Minimal Audio Ripple Phaser": {
+      "pb_url": "/product/2-Effects/29-Phaser/12710-Ripple-Phaser",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Minimal Audio Wave Shifter": {
+      "pb_url": "/product/2-Effects/28-Frequency-Shifter/14370-Wave-Shifter",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Minimal Audio Poly Flanger": {
+      "pb_url": "/product/2-Effects/12-Flanger/16880-Poly-Flanger",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Minimal Audio Rift Filter Lite": {
+      "pb_url": "/product/2-Effects/19-Filter/7806-Rift-Filter-Lite",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Minimal Audio Current 2 0": {
+      "pb_url": "/product/1-Instruments/4-Synth/11770-Current-2-0",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Minimal Audio Swarm Reverb": {
+      "pb_url": "/product/2-Effects/17-Reverb/11826-Swarm-Reverb",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Minimal Audio Hybrid Filter": {
+      "pb_url": "/product/2-Effects/19-Filter/11829-Hybrid-Filter",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Minimal Audio Rift Feedback Lite": {
+      "pb_url": "/product/2-Effects/53-Multi-Effect-/8537-Rift-Feedback-Lite",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Minimal Audio Morph EQ": {
+      "pb_url": "/product/2-Effects/16-EQ/9496-Morph-EQ",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Minimal Audio Formant": {
+      "pb_url": "/product/2-Effects/54-Vocal-Processing/15630-Formant",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Minimal Audio Evoke": {
+      "pb_url": "/product/2-Effects/54-Vocal-Processing/15793-Evoke",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Minimal Audio Flex Chorus": {
+      "pb_url": "/product/2-Effects/11-Chorus/12037-Flex-Chorus",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Minimal Audio Squash": {
+      "pb_url": "/product/2-Effects/8-Compressor/14398-Squash",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
+    },
+    "Minimal Audio Fuse Compressor": {
+      "pb_url": "/product/2-Effects/8-Compressor/10984-Fuse-Compressor",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-07-17",
+      "history": []
     }
   }
 }
