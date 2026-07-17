@@ -2,6 +2,7 @@
 title: "40% Off Vandalism Shocking Afro House For Vital"
 description: "Vandalism's *Shocking Afro House* preset pack for Vital is down to **$8.39** (~~$13.99~~) at ADSR Sounds — that's 40% off for a genre-specific library..."
 pubDate: "2026-05-04T08:29:51Z"
+saleExpiry: "2026-07-17"
 tags: ["sale", "preset-pack", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/vandalism-shocking-afro-house-for-vital/?a_aid=plugindrop&data1=vandalism-shocking-afro-house-for-vital-8aafc8&utm_source=plugindrop&utm_medium=article&utm_campaign=vandalism-shocking-afro-house-for-vital-8aafc8"
 heroImage: "/images/vandalism-shocking-afro-house-for-vital-8aafc8.jpg"

@@ -3,6 +3,7 @@ title: Collab Gem The Heist Underground Hip Hop Sample Pack
 description: ADSR Sounds is currently offering Collab Gem's *The Heist* Underground
   Hip Hop Sample Pack at a deal price — check the current savings on the product page...
 pubDate: '2026-04-17T15:08:03Z'
+saleExpiry: "2026-07-17"
 tags: ["sale", "music-production", "sample-pack"]
 affiliate: https://www.adsrsounds.com/product/presets/collab-gem-the-heist-underground-hip-hop-sample-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=collab-gem-the-heist-underground-hip-hop-sample-pack-adsr-de
 heroImage: /images/collab-gem-the-heist-underground-hip-hop-sample-pack-adsr-de.jpg

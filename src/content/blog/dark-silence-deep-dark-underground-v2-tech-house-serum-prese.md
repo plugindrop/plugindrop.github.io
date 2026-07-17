@@ -2,6 +2,7 @@
 title: "Dark Silence Deep Dark Underground V2 Tech House Serum Presets"
 description: "Dark Silence Deep Dark Underground V2 Tech House Serum Presets is currently on sale for $19 (down from ~~$34.99~~) at ADSR Sounds — nearly half off on a..."
 pubDate: "2026-05-19T18:15:43Z"
+saleExpiry: "2026-07-17"
 tags: ["sale", "preset-pack", "serum", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/dark-silence-deep-dark-underground-v2-tech-house-serum-presets/?a_aid=plugindrop&data1=dark-silence-deep-dark-underground-v2-tech-house-serum-prese&utm_source=plugindrop&utm_medium=article&utm_campaign=dark-silence-deep-dark-underground-v2-tech-house-serum-prese"
 heroImage: "/images/dark-silence-deep-dark-underground-v2-tech-house-serum-prese.jpg"

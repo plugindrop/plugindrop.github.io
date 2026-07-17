@@ -7,6 +7,7 @@ import priceData from '../../data/price_history.json';
 import { pdAttr } from '../../lib/interestTaxonomy.mjs';
 import productVideosRaw from '../../data/product_videos.json';
 import { latestCheckedDate, formatCheckedDate, dealScoreNumeric } from '../../lib/priceUtils';
+import { getCollection } from 'astro:content';
 
 const AFF = "a_aid=69cb95abe1763";
 const pbLink = (path: string | null | undefined) =>
@@ -39,6 +40,7 @@ interface StaticEntry {
   name: string;
   kind: 'plugin' | 'bundle';
   entry: EntryData;
+  guides: Array<{ title: string; slug: string }>;
 }
 
 const data = priceData as PriceData;
@@ -54,8 +56,8 @@ function slugify(name: string): string {
 
 function allStaticEntries(): StaticEntry[] {
   const rows: StaticEntry[] = [];
-  for (const [name, entry] of Object.entries(pluginEntries)) rows.push({ name, kind: 'plugin', entry });
-  for (const [name, entry] of Object.entries(bundleEntries)) rows.push({ name, kind: 'bundle', entry });
+  for (const [name, entry] of Object.entries(pluginEntries)) rows.push({ name, kind: 'plugin', entry, guides: [] });
+  for (const [name, entry] of Object.entries(bundleEntries)) rows.push({ name, kind: 'bundle', entry, guides: [] });
   return rows;
 }
 
@@ -70,17 +72,36 @@ export async function getStaticPaths() {
   const _plugins = _data.plugins ?? {};
   const _bundles = _data.bundles ?? {};
 
+  const allPosts = await getCollection('blog', (p) => !p.data.draft);
+
+  function findGuides(productName: string): Array<{ title: string; slug: string }> {
+    const words = productName.toLowerCase().split(/[\s\-\/]+/).filter((w) => w.length >= 4);
+    if (words.length === 0) return [];
+    return allPosts
+      .filter((p) => {
+        const title = p.data.title.toLowerCase();
+        return words.some((w) => title.includes(w));
+      })
+      .sort((a, b) => {
+        const sa = ((a.data as Record<string, unknown>).score as number) ?? 0;
+        const sb = ((b.data as Record<string, unknown>).score as number) ?? 0;
+        return sb - sa;
+      })
+      .slice(0, 5)
+      .map((p) => ({ title: p.data.title, slug: p.id }));
+  }
+
   const rows: StaticEntry[] = [];
-  for (const [n, e] of Object.entries(_plugins)) rows.push({ name: n, kind: 'plugin', entry: e });
-  for (const [n, e] of Object.entries(_bundles)) rows.push({ name: n, kind: 'bundle', entry: e });
+  for (const [n, e] of Object.entries(_plugins)) rows.push({ name: n, kind: 'plugin', entry: e, guides: [] });
+  for (const [n, e] of Object.entries(_bundles)) rows.push({ name: n, kind: 'bundle', entry: e, guides: [] });
 
   return rows.map(({ name, kind, entry }) => ({
     params: { slug: _slugify(name) },
-    props: { name, kind, entry },
+    props: { name, kind, entry, guides: findGuides(name) },
   }));
 }
 
-const { name, kind, entry } = Astro.props as StaticEntry;
+const { name, kind, entry, guides } = Astro.props as StaticEntry;
 
 // Verified demo video for this product (built by build_product_videos.py from
 // already-audited article embeds; only high-confidence matches are included).
@@ -625,6 +646,24 @@ const faqLD = {
       }
       .alt-empty { color: var(--text-muted); font-size: 0.9rem; }
 
+      .guide-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+      }
+      .guide-link {
+        color: var(--accent);
+        font-size: 0.875rem;
+        text-decoration: none;
+        line-height: 1.5;
+      }
+      .guide-link:hover {
+        text-decoration: underline;
+      }
+
       .trust-line {
         margin-top: 2.5rem; padding: 1rem 1.25rem; border-left: 3px solid var(--accent-muted);
         color: var(--text-muted); font-size: 0.82rem; line-height: 1.6;
@@ -948,6 +987,19 @@ const faqLD = {
           <p class="alt-empty">No other tracked products to compare yet.</p>
         )}
       </section>
+
+      {guides.length > 0 && (
+        <section class="page-section">
+          <h2 class="section-title">Guides featuring {name}</h2>
+          <ul class="guide-list">
+            {guides.map((g) => (
+              <li class="guide-item">
+                <a href={`/posts/${g.slug}/`} class="guide-link">{g.title}</a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
 
       <p class="trust-line">Prices checked daily. Data since Apr 2026.</p>
     </main>

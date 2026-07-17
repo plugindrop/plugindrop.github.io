@@ -2,6 +2,7 @@
 title: "25% Off Neutron 5 Update from any previous version edition of Neutron"
 description: "iZotope's Neutron 5 update is currently ~~$199~~ **$149** at Plugin Boutique — that's $50 off for anyone upgrading from any previous Neutron version. If..."
 pubDate: "2026-06-02T03:04:41Z"
+saleExpiry: "2026-07-17"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13566-Neutron-5-Update-from-any-previous-version-edition-of-Neutron?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=neutron-5-update-from-any-previous-version-edition-of-neutro"
 heroImage: "/images/neutron-5-update-from-any-previous-version-edition-of-neutro.jpg"
