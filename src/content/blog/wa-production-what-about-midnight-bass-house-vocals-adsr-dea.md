@@ -10,7 +10,7 @@ dealPrice: "$11.96"
 originalPrice: "$29.9"
 discount: "60% OFF"
 score: 4.95
-draft: false
+draft: true
 ---
 **TL;DR:** Wa Production's *What About Midnight Bass House Vocals* is currently on sale at ADSR Sounds — check the product page for the current deal price versus the regular rate. If you produce bass house, this is a targeted grab at a reduced price. [See the deal on ADSR Sounds.](https://www.adsrsounds.com/product/presets/wa-production-what-about-midnight-bass-house-vocals/?utm_source=plugindrop&utm_medium=article&utm_campaign=wa-production-what-about-midnight-bass-house-vocals-adsr-dea)
 

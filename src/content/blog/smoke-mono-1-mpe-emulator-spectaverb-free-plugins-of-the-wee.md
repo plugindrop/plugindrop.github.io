@@ -11,7 +11,7 @@ dealPrice: "$69"
 originalPrice: "$199"
 discount: "65% OFF"
 xText: "three free plugins this week and spectaverb's the one that actually changes reverb. mpe emulator's slept on too. grab all three while they're loose, don't sleep."
-draft: false
+draft: true
 ---
 **TL;DR:** Smoke Mono 1, MPE Emulator, and Spectaverb are all free downloads this week — zero cost, zero strings. If you're refreshing your plugin arsenal anyway, Decapitator from SoundToys is also on sale at ~~$199~~ $69 right now. [Check the Plugin Boutique deal here.](https://www.pluginboutique.com/product/2-Effects/44-Saturation/1801-Decapitator?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smoke-mono-1-mpe-emulator-spectaverb-free-plugins-of-the-wee)
 

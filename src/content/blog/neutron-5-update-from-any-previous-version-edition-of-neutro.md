@@ -11,7 +11,7 @@ dealPrice: "$149.00"
 originalPrice: "$199.00"
 discount: "25% OFF"
 xText: "25% off neutron 5 from older versions. iZotope doesn't usually discount new releases this much. spectral shaping and ai workflow on 5 is the actual upgrade"
-draft: false
+draft: true
 ---
 **TL;DR:** iZotope's Neutron 5 update is currently ~~$199~~ **$149** at Plugin Boutique — that's $50 off for anyone upgrading from any previous Neutron version. If you've been sitting on an older license, [this is a solid window to jump to the latest](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13566-Neutron-5-Update-from-any-previous-version-edition-of-Neutron?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=neutron-5-update-from-any-previous-version-edition-of-neutro).
 

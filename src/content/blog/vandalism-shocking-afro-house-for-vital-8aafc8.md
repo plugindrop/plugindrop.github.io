@@ -11,7 +11,7 @@ dealPrice: "$8.39"
 originalPrice: "$13.99"
 discount: "40% OFF"
 xText: "40% off vandalism shocking afro house for vital—this is the discount that doesn't happen often. afro house production is having a moment right now. grab it before the sale ends."
-draft: false
+draft: true
 ---
 **TL;DR:** Vandalism's *Shocking Afro House* preset pack for Vital is down to **$8.39** (~~$13.99~~) at ADSR Sounds — that's 40% off for a genre-specific library built to drop straight into Afro house sessions. If you've been sitting on this one, now's a reasonable window to pull the trigger. [Grab it at ADSR Sounds.](https://www.adsrsounds.com/product/presets/vandalism-shocking-afro-house-for-vital/?a_aid=plugindrop&data1=vandalism-shocking-afro-house-for-vital-8aafc8&utm_source=plugindrop&utm_medium=article&utm_campaign=vandalism-shocking-afro-house-for-vital-8aafc8)
 

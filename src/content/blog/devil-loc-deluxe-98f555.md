@@ -11,7 +11,7 @@ dealPrice: "$39"
 originalPrice: "$99"
 discount: "60% OFF"
 xText: "devil loc deluxe finally landed and the character stacking is supposedly next level now. real talk—if you've been sleeping on it, this might be the update that clicks."
-draft: false
+draft: true
 ---
 **TL;DR:** SoundToys Devil-Loc Deluxe is down to **$39** (was ~~$99~~) — that's 60% off a character compression plugin built for producers who want destructive, musical crushing on their tracks. [Grab it directly from SoundToys here.](https://www.pluginboutique.com/search?q=devil+loc+deluxe&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=devil-loc-deluxe-98f555)
 
