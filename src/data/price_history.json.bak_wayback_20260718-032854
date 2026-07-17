@@ -7260,18 +7260,6 @@
           "regular": 99,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2022-06-25",
-          "regular": 69.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-12-10",
-          "regular": 69.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -7306,36 +7294,6 @@
           "regular": 99,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2021-11-25",
-          "regular": 40.9,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-07-02",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-09-27",
-          "regular": 246.93,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-10-26",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-09-15",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -7370,12 +7328,6 @@
           "regular": 149,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2021-09-21",
-          "regular": 249.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
