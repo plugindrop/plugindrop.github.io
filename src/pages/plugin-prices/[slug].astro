@@ -102,6 +102,7 @@ export async function getStaticPaths() {
 }
 
 const { name, kind, entry, guides } = Astro.props as StaticEntry;
+const { slug } = Astro.params;
 
 // Verified demo video for this product (built by build_product_videos.py from
 // already-audited article embeds; only high-confidence matches are included).
@@ -664,6 +665,56 @@ const faqLD = {
         text-decoration: underline;
       }
 
+      .watch-alert-wrap {
+        display: inline-flex;
+        flex-direction: column;
+        gap: 0.5rem;
+        align-items: flex-start;
+      }
+      .watch-form {
+        display: flex;
+        gap: 0.5rem;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+      .watch-email-input {
+        background: #1a1a1a;
+        border: 1px solid #3a3a3a;
+        border-radius: 6px;
+        color: #f0f0f0;
+        font-size: 0.875rem;
+        padding: 0.45rem 0.75rem;
+        outline: none;
+        width: 200px;
+      }
+      .watch-email-input:focus {
+        border-color: var(--accent);
+      }
+      .watch-submit-btn {
+        background: #1e1e1e;
+        border: 1px solid #3a3a3a;
+        border-radius: 6px;
+        color: #f0f0f0;
+        cursor: pointer;
+        font-size: 0.875rem;
+        font-weight: 600;
+        padding: 0.45rem 1rem;
+      }
+      .watch-submit-btn:hover {
+        border-color: var(--accent);
+        color: var(--accent);
+      }
+      .watch-msg {
+        font-size: 0.82rem;
+        color: #aaa;
+      }
+      .watch-msg.ok {
+        color: #2ecc71;
+      }
+      .watch-msg.err {
+        color: #e44;
+      }
+
       .trust-line {
         margin-top: 2.5rem; padding: 1rem 1.25rem; border-left: 3px solid var(--accent-muted);
         color: var(--text-muted); font-size: 0.82rem; line-height: 1.6;
@@ -719,7 +770,21 @@ const faqLD = {
           >
             Check price at Plugin Boutique
           </a>
-          <a href="#subscribe" class="cta-secondary">Alert me when it drops</a>
+          <div class="watch-alert-wrap" id="watch-alert-wrap">
+            <button type="button" class="cta-secondary" id="watch-toggle-btn">Alert me when it drops</button>
+            <form id="watch-form" class="watch-form" style="display:none" data-plugin={slug}>
+              <input
+                type="email"
+                id="watch-email-input"
+                class="watch-email-input"
+                placeholder="your@email.com"
+                required
+                autocomplete="email"
+              />
+              <button type="submit" class="watch-submit-btn">Notify me</button>
+            </form>
+            <p id="watch-msg" class="watch-msg" style="display:none"></p>
+          </div>
         </div>
       </section>
 
@@ -1004,5 +1069,59 @@ const faqLD = {
       <p class="trust-line">Prices checked daily. Data since Apr 2026.</p>
     </main>
     <Footer />
+    <script is:inline>
+      // Watch alert toggle + submit
+      (function () {
+        const wrap = document.getElementById('watch-alert-wrap');
+        if (!wrap) return;
+        const toggleBtn = document.getElementById('watch-toggle-btn');
+        const form = document.getElementById('watch-form');
+        const input = document.getElementById('watch-email-input');
+        const msg = document.getElementById('watch-msg');
+
+        toggleBtn.addEventListener('click', () => {
+          toggleBtn.style.display = 'none';
+          form.style.display = 'flex';
+          input.focus();
+        });
+
+        form.addEventListener('submit', async (e) => {
+          e.preventDefault();
+          const email = input.value.trim();
+          const plugin = form.dataset.plugin;
+          if (!email || !plugin) return;
+
+          const submitBtn = form.querySelector('button[type="submit"]');
+          submitBtn.disabled = true;
+          submitBtn.textContent = 'Sending…';
+          msg.style.display = 'none';
+
+          try {
+            const res = await fetch('https://plugindrop-subscribe.plugindrop.workers.dev/watch', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ email, plugin }),
+            });
+            const data = await res.json();
+            if (res.ok && data.ok) {
+              form.style.display = 'none';
+              msg.textContent = data.already
+                ? 'You\'re already on the list for this plugin.'
+                : 'Done! We\'ll email you when the price drops.';
+              msg.className = 'watch-msg ok';
+              msg.style.display = 'block';
+            } else {
+              throw new Error(data.error || 'Failed');
+            }
+          } catch (err) {
+            submitBtn.disabled = false;
+            submitBtn.textContent = 'Notify me';
+            msg.textContent = 'Something went wrong. Please try again.';
+            msg.className = 'watch-msg err';
+            msg.style.display = 'block';
+          }
+        });
+      })();
+    </script>
   </body>
 </html>
