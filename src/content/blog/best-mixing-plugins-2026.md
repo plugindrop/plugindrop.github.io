@@ -284,15 +284,18 @@ A: Bundles make sense once you know you'll use most of what's included — other
 
 ## Related Guides
 
+**Buying guides**
+- [VST Plugin Black Friday Guide 2026 — Every Major Brand, Ranked by Discount](/posts/vst-plugin-black-friday-guide/)
 - [Best Plugin Bundle Deals 2026: Save 80%+ on Pro VSTs](/posts/best-plugin-bundle-deals/)
+- [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale)
+- [When Does FabFilter Pro-C 2 Go On Sale?](/blog/when-does-fabfilter-pro-c-2-go-on-sale)
+- [When Does FabFilter Pro-L 2 Go On Sale?](/blog/when-does-fabfilter-pro-l-2-go-on-sale)
+
+**Deep dives**
 - [FabFilter Pro-Q 4 Review: The Best EQ Plugin?](/posts/fabfilter-pro-q-4-review/)
 - [FabFilter Pro-C 2 Review: Best Compressor Plugin?](/posts/fabfilter-pro-c-2-review/)
 - [10 Best Mastering Limiter Plugins in 2026 (Ranked)](/posts/best-limiter-plugins-mastering/)
 - [iZotope Ozone 12 Review 2026: Best All-in-One Mastering Suite?](/posts/izotope-ozone-12-review/)
 - [Mastering Chain Plugins: Step-by-Step Pro Setup](/posts/mastering-chain-plugins/)
-- [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale)
-- [When Does FabFilter Pro-C 2 Go On Sale?](/blog/when-does-fabfilter-pro-c-2-go-on-sale)
-- [When Does FabFilter Pro-L 2 Go On Sale?](/blog/when-does-fabfilter-pro-l-2-go-on-sale)
-
-- [stereo widening plugins](/posts/best-stereo-widener-plugins/)
-- [free guitar amp sim plugins](/posts/best-free-guitar-amp-vst/)
+- [Best Stereo Widening Plugins](/posts/best-stereo-widener-plugins/)
+- [Best Free Mixing Plugins 2026](/posts/best-free-eq-vst-plugins/)
