@@ -400,6 +400,10 @@ const moreFreshDeals = allPosts
 	.tracker-filter { width: 100%; margin-bottom: 0.75rem; padding: 0.65rem 0.8rem; color: var(--text-primary); background: var(--bg-low); border: 1px solid var(--border); border-radius: var(--radius); font-family: var(--font-mono); font-size: 0.75rem; }
 	.tracker-filter:focus { outline: none; border-color: var(--accent); }
 	.tracker-table-wrap { max-height: 360px; overflow: auto; border: 1px solid var(--border); }
+	.tracker-table-wrap::-webkit-scrollbar { width: 8px; height: 8px; }
+	.tracker-table-wrap::-webkit-scrollbar-track { background: var(--bg-base); }
+	.tracker-table-wrap::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+	.tracker-table-wrap::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
 	.tracker-table { min-width: 680px; margin: 0; font-size: 0.76rem; }
 	.tracker-table th { position: sticky; top: 0; z-index: 1; padding: 0.55rem 0.7rem; background: var(--bg-highest); font-family: var(--font-mono); font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.04em; }
 	.tracker-table td { padding: 0.5rem 0.7rem; }
