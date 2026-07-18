@@ -148,6 +148,37 @@ function verdictLine(e: EntryData): string {
 const verdict = verdictLine(entry);
 const dealScore = dealScoreNumeric(entry);
 
+// Fable v4 verdict label
+function fableVerdictLabel(e: EntryData): 'BUY NOW' | 'FAIR SALE' | 'AVERAGE' | 'WAIT' {
+  const ds = dealScoreNumeric(e);
+  if (ds.verdict === 'none') return 'WAIT';
+  if (ds.verdict === 'good') return 'BUY NOW';
+  if (ds.verdict === 'ok') return 'FAIR SALE';
+  if (isOnSale(e)) return 'AVERAGE';
+  return 'WAIT';
+}
+const fableVerdict = fableVerdictLabel(entry);
+
+// Deterministic copy sentence (Fable §1-4)
+function buildVerdictCopy(e: EntryData, vLabel: string): string {
+  const N = e.history.filter(h => h.sale !== null).length;
+  const histLow = e.all_time_low;
+  const cur = currentPrice(e);
+  const reg = e.typical_regular;
+  if (!N) return `We've never recorded a discount on ${name}.`;
+  const s1 = `${name} has sold for $${histLow} in ${N} recorded sale event${N === 1 ? '' : 's'}.`;
+  if (cur === null) return s1;
+  let s2 = '';
+  if (histLow !== null && cur <= histLow) s2 = `Today's $${cur} is the lowest price we've recorded.`;
+  else if (reg !== null && cur < reg) s2 = `Today's $${cur} is discounted, but above that range.`;
+  else if (reg !== null && reg > 0 && histLow !== null) {
+    const pct = Math.round((reg - histLow) / reg * 100);
+    s2 = `Today's $${cur} is the regular price. Recorded sales have gone ${pct}% lower.`;
+  }
+  return s2 ? `${s1} ${s2}` : s1;
+}
+const verdictCopy = buildVerdictCopy(entry, fableVerdict);
+
 // --- Lowest tracked price + date ------------------------------------------
 function findLowestDate(e: EntryData): string | null {
   if (e.all_time_low === null) return null;
@@ -487,6 +518,23 @@ const faqLD = {
         background: var(--bg-card); border-left: 3px solid var(--accent);
         border-radius: var(--radius); padding: 1rem 1.25rem; margin-bottom: 1.75rem;
       }
+      /* Fable v4 verdict colors */
+      .verdict-banner { border-radius: var(--radius); padding: 1.25rem 1.5rem; margin-bottom: 1.75rem; border-left: 4px solid; }
+      .verdict-banner.buy-now  { border-color: #4ade80; background: rgba(74,222,128,0.07); }
+      .verdict-banner.fair-sale{ border-color: #facc15; background: rgba(250,204,21,0.07); }
+      .verdict-banner.average  { border-color: var(--border); background: var(--bg-card); }
+      .verdict-banner.wait     { border-color: #60a5fa; background: rgba(96,165,250,0.07); }
+      .verdict-chip-large {
+        display: inline-block; font-size: 0.72rem; font-weight: 700; text-transform: uppercase;
+        letter-spacing: 0.08em; padding: 0.2rem 0.6rem; border-radius: 4px;
+        border: 1px solid currentColor; background: color-mix(in srgb, currentColor 12%, transparent);
+        margin-bottom: 0.5rem;
+      }
+      .verdict-chip-large.buy-now  { color: #4ade80; }
+      .verdict-chip-large.fair-sale{ color: #facc15; }
+      .verdict-chip-large.average  { color: var(--text-muted); }
+      .verdict-chip-large.wait     { color: #60a5fa; }
+      .verdict-copy { color: var(--text-secondary); font-size: 0.92rem; line-height: 1.55; margin: 0.35rem 0 0; }
       .verdict-icon { flex-shrink: 0; font-size: 1.1rem; line-height: 1.4; }
       .verdict-label {
         font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.08em;
@@ -740,6 +788,16 @@ const faqLD = {
         <span class="category-tag">{category}</span>
         <h1>{name}</h1>
 
+        {demoVideo && (
+          <div id="demo-block" data-video-id={demoVideo.video_id} style="margin:0.75rem 0 1rem;display:flex;align-items:center;gap:0.75rem">
+            <button id="demo-btn" type="button" style="display:flex;align-items:center;gap:0.5rem;border:1px solid var(--border);border-radius:6px;padding:0.4rem 0.85rem;font-size:0.85rem;background:transparent;color:var(--text-secondary);cursor:pointer;">
+              <svg width="10" height="12" viewBox="0 0 10 12" fill="currentColor" aria-hidden="true"><path d="M0 0l10 6-10 6V0z"/></svg>
+              Watch the official demo
+            </button>
+            <span style="font-size:0.75rem;color:var(--text-muted)">Official demo · YouTube</span>
+          </div>
+        )}
+
         <div class="price-row">
           <span class={onSale ? 'price-current on-sale' : 'price-current'}>{formatPrice(current)}</span>
           {onSale && regular !== null && (
@@ -749,17 +807,15 @@ const faqLD = {
         </div>
         <p class="last-checked">{checkedLabel}</p>
 
-        <div class="verdict-box">
-          <div>
-            <p class="verdict-label">Market verdict</p>
-            <p class="verdict-text">{verdict}</p>
-            {dealScore.verdict === 'none' ? (
-              <span class="score-none" title="No discount history — price is stable">—</span>
-            ) : (
-              <span class={`score-badge ${dealScore.verdict}`}>{dealScore.score}</span>
-            )}
-          </div>
-        </div>
+        {(() => {
+          const cls = fableVerdict === 'BUY NOW' ? 'buy-now' : fableVerdict === 'FAIR SALE' ? 'fair-sale' : fableVerdict === 'AVERAGE' ? 'average' : 'wait';
+          return (
+            <div class={`verdict-banner ${cls}`}>
+              <span class={`verdict-chip-large ${cls}`}>{fableVerdict}</span>
+              <p class="verdict-copy">{verdictCopy}</p>
+            </div>
+          );
+        })()}
 
         <div class="cta-row">
           <a
@@ -1070,6 +1126,28 @@ const faqLD = {
     </main>
     <Footer />
     <script is:inline>
+      // Demo button
+      (function() {
+        var demoBtn = document.getElementById('demo-btn');
+        var demoBlock = document.getElementById('demo-block');
+        if (!demoBtn || !demoBlock) return;
+        var videoId = demoBlock.dataset.videoId;
+        if (!videoId) return;
+        demoBtn.addEventListener('click', function() {
+          demoBlock.style.display = 'none';
+          var wrap = document.createElement('div');
+          wrap.style.cssText = 'margin:0.75rem 0 1rem;aspect-ratio:16/9;';
+          var iframe = document.createElement('iframe');
+          iframe.src = 'https://www.youtube-nocookie.com/embed/' + videoId + '?rel=0';
+          iframe.style.cssText = 'width:100%;height:100%;border:0;';
+          iframe.setAttribute('allowfullscreen', '');
+          iframe.setAttribute('loading', 'lazy');
+          iframe.setAttribute('title', (document.querySelector('h1')?.textContent || 'Product') + ' official demo');
+          wrap.appendChild(iframe);
+          demoBlock.parentNode.insertBefore(wrap, demoBlock.nextSibling);
+        });
+      })();
+
       // Watch alert toggle + submit
       (function () {
         const wrap = document.getElementById('watch-alert-wrap');
