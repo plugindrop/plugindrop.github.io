@@ -188,6 +188,13 @@
     "score": 12,
     "source": "yt_api_fill"
   },
+  "FabFilter One": {
+    "video_id": "rzHC3fbzY5Q",
+    "title": "Fabfilter One / VST synth / demo play only",
+    "channel": "Ness Sound",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "FabFilter Pro-C 2": {
     "video_id": "2zjQNeM2RxU",
     "title": "Introduction to FabFilter Pro-C 2 Compressor",
@@ -328,6 +335,20 @@
     "score": 11,
     "source": "yt_api_fill"
   },
+  "Kilohearts Convolver": {
+    "video_id": "xNrisl2Z7Ik",
+    "title": "Convolver by Kilohearts – Way more than just reverb",
+    "channel": "Kilohearts",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Kilohearts Faturator": {
+    "video_id": "7JS43do0-dY",
+    "title": "kiloHearts Faturator Rack Extension",
+    "channel": "Kilohearts",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
   "Kilohearts Multipass": {
     "video_id": "rWonFksCK0s",
     "title": "Kilohearts Tutorials - Introduction to Multipass",
@@ -363,11 +384,25 @@
     "score": 10,
     "source": "article_embed"
   },
+  "Native Instruments Glaze 2": {
+    "video_id": "jBaKrD__0Pw",
+    "title": "Native Instruments Glaze 2 | Tutorial, Demo & Smart Techniques",
+    "channel": "Jeffy G",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Native Instruments Guitar Rig 7 Pro": {
     "video_id": "RRcTI_xrM3Q",
     "title": "Guitar Rig 7 Pro walkthrough | Native Instruments",
     "channel": "Native Instruments",
     "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Native Instruments Halo Vox": {
+    "video_id": "Uy_DDRL2ppU",
+    "title": "Native Instruments Halo Vox Kontakt 8 in FL Studio | Preset Preview",
+    "channel": "HollywoodFloss1",
+    "score": 8,
     "source": "yt_api_fill"
   },
   "Native Instruments Kontakt 8": {
@@ -376,6 +411,13 @@
     "channel": "Native Instruments",
     "score": 10,
     "source": "article_embed"
+  },
+  "Native Instruments LCO Producer Strings": {
+    "video_id": "f9YXEq_eMZs",
+    "title": "Elevating a cinematic hip hop score with LCO Producer Strings | Native Instruments",
+    "channel": "Native Instruments",
+    "score": 10,
+    "source": "yt_api_fill"
   },
   "Native Instruments Massive": {
     "video_id": "T4mfM73egsQ",
@@ -410,6 +452,13 @@
     "title": "Replika XT - Creative multi-mode delay | Native Instruments",
     "channel": "Native Instruments",
     "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Native Instruments Scene Saffron": {
+    "video_id": "KhrKZcCsrFE",
+    "title": "Native Instruments Scene: Saffron demo - Parallel Worlds",
+    "channel": "Nocturnal Overlord",
+    "score": 8,
     "source": "yt_api_fill"
   },
   "Native Instruments Strummed Acoustic 2": {
@@ -643,6 +692,41 @@
     "score": 11,
     "source": "article_embed"
   },
+  "Soundtoys PhaseMistress": {
+    "video_id": "FxiRN6BoIMU",
+    "title": "Hidden Depths: Using Soundtoys PhaseMistress to Transform Drums",
+    "channel": "soundtoys",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Soundtoys PrimalTap": {
+    "video_id": "o2VkwktzrBk",
+    "title": "Soundtoys PrimalTap - Over The Top Product Video",
+    "channel": "soundtoys",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Soundtoys Radiator": {
+    "video_id": "kWXp4bPaEAQ",
+    "title": "Soundtoys Little Radiator - Little Tip",
+    "channel": "soundtoys",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Soundtoys SpaceBlender": {
+    "video_id": "Imubcby-rkw",
+    "title": "Introducing Soundtoys SpaceBlender",
+    "channel": "soundtoys",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Soundtoys SuperPlate": {
+    "video_id": "Tu_r1RhtMaM",
+    "title": "Introducing Soundtoys SuperPlate",
+    "channel": "soundtoys",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
   "Spectrasonics Omnisphere": {
     "video_id": "UDqyskj-VbQ",
     "title": "Spectrasonics Omnisphere 3 with Eric Persing - Interview and Demo",
@@ -727,6 +811,20 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "UAD A Type Multiband Dynamic Enhancer": {
+    "video_id": "pJ_mM8s3Cyo",
+    "title": "UAD A-Type Multiband Dynamic Enhancer | Complete Tutorial & Walkthrough",
+    "channel": "Universal Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "UAD API 2500 Bus Compressor": {
+    "video_id": "nj75y6J022U",
+    "title": "API 2500 Bus Compressor | UAD Quick Tips",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "UAD API Vision Channel Strip": {
     "video_id": "aTwnR7WAp30",
     "title": "UAD API Vision Channel Strip Plug-In Trailer",
@@ -734,9 +832,114 @@
     "score": 11,
     "source": "yt_api_fill"
   },
+  "UAD Ampex ATR 102 Mastering Tape Recorder": {
+    "video_id": "qNkCWJbFDRU",
+    "title": "Ampex ATR-102 Mastering Tape Recorder Plug-In Trailer for UAD-2",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Avalon VT 737 Tube Channel Strip": {
+    "video_id": "NhuL78RiG8c",
+    "title": "Introducing UAD Avalon VT-737 Tube Channel Strip Plug-In",
+    "channel": "Universal Audio",
+    "score": 13,
+    "source": "yt_api_fill"
+  },
+  "UAD Capitol Chambers": {
+    "video_id": "niAcxT49EMM",
+    "title": "UAD Capitol Chambers Plug-In - The World's Most Iconic Echo Chambers",
+    "channel": "Universal Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "UAD Capitol Mastering Compressor": {
+    "video_id": "HW5ZDQLQLtk",
+    "title": "Get the Pro Sound of Capitol’s Secret Weapon Mastering Compressor | UAD Quick Tips",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Dream 65 Reverb Amp": {
+    "video_id": "Xw1ODfDvV3M",
+    "title": "UAD Dream '65 Reverb Amp Plug-In | Complete Demo of the Presets | Universal Audio Amplifier Plugins",
+    "channel": "Alberto Martinez Del Rio Guitar",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Electra 88 Vintage Keyboard Studio": {
+    "video_id": "G6pLmFXuME8",
+    "title": "Electra 88 Vintage Keyboard Studio Sound Examples | UAD Instruments",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Fairchild Tube Limiter Collection": {
+    "video_id": "15On7DXMkZY",
+    "title": "Fairchild Tube Limiter Collection Sound Examples | UAD Native & UAD-2",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Galaxy Tape Echo": {
+    "video_id": "Cg1wZtMOwaQ",
+    "title": "UAD Quick Tips: Galaxy Tape Echo",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Lexicon 224 Digital Reverb": {
+    "video_id": "yjkQWR0cnXI",
+    "title": "Lexicon 224 Digital Reverb Plug-In | UAD Quick Tips",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Little Labs Voice of God": {
+    "video_id": "Hm0EkpubD7Q",
+    "title": "UAD Little Labs Voice of God | UAD Spotlight",
+    "channel": "Universal Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "UAD Manley Massive Passive": {
+    "video_id": "OgtUzKH57-A",
+    "title": "Manley Massive Passive EQ Powered Plug-in Demo for UAD-2",
+    "channel": "Universal Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "UAD Manley VOXBOX Channel Strip": {
+    "video_id": "YIt8j5v2D0o",
+    "title": "5-Minute UAD Tips: Manley VOXBOX Channel Strip Plug-In",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Moog Minimoog": {
+    "video_id": "7mMX0Mn13wM",
+    "title": "Moog Minimoog Plug-In Sound Examples | UAD Instruments",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "UAD Neve 1073": {
     "video_id": "as8vSCUF1Do",
     "title": "Neve 1073 Preamp & EQ Plug-In | UAD Quick Tips",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Ocean Way Studios Deluxe": {
+    "video_id": "Itjw1A4vc3c",
+    "title": "UAD Ocean Way Studios Deluxe x @JohnnyBgood89",
+    "channel": "Universal Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "UAD Opal Morphing Synth": {
+    "video_id": "N_MyPpbIMWI",
+    "title": "Opal Morphing Synth Sound Examples | UAD Instruments",
     "channel": "Universal Audio",
     "score": 10,
     "source": "yt_api_fill"
@@ -753,6 +956,20 @@
     "title": "Pultec Passive EQ Collection Sound Examples | UAD Native & UAD-2",
     "channel": "Universal Audio",
     "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Ravel Grand Piano": {
+    "video_id": "mq8Ovk6D24s",
+    "title": "Ravel Grand Piano Plug-In Sound Examples | UAD Instruments",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD SSL 4000 G Bus Compressor": {
+    "video_id": "DaYY7p0IXFo",
+    "title": "4/7: UAD SSL 4000 G Bus Compressor. 7 плагинов для сведения в любом жанре.",
+    "channel": "Лаборатория Tamko",
+    "score": 9,
     "source": "yt_api_fill"
   },
   "UAD Sound City Studios Plugin": {
@@ -774,6 +991,34 @@
     "title": "Studer A800 Tape Machine | UAD Quick Tips",
     "channel": "Universal Audio",
     "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Studio D Chorus": {
+    "video_id": "eMw-QnIBbDI",
+    "title": "Add Width & Dimension to Any Track with Studio D Chorus | UAD Quick Tips",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Teletronix LA 2A Leveler Collection": {
+    "video_id": "sFFPWqpDPXY",
+    "title": "Teletronix LA-2A Classic Leveler Collection | UAD Quick Tips",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Waterfall B3 Organ": {
+    "video_id": "evFEyMeb0DA",
+    "title": "Waterfall B3 Organ | UAD Quick Tips",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Woodrow 55 Instrument Amplifier": {
+    "video_id": "DIFwnLjsiEs",
+    "title": "@joeyjooones bringing the UAD Woodrow ’55 Instrument Amplifier plug-in to life",
+    "channel": "Universal Audio",
+    "score": 13,
     "source": "yt_api_fill"
   },
   "UVI Falcon 3": {
@@ -888,6 +1133,13 @@
     "score": 8,
     "source": "yt_api_fill"
   },
+  "iZotope FXEQ": {
+    "video_id": "MMLKDSc0fQI",
+    "title": "Introducing FXEQ, creative FX done differently | iZotope",
+    "channel": "iZotope, Inc.",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "iZotope Insight 2": {
     "video_id": "zBjdTQE3630",
     "title": "How to Use Everything in iZotope Insight 2 | Intelligent Metering Plug-in",
@@ -944,6 +1196,20 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "iZotope VEA": {
+    "video_id": "j3BPdwInhFM",
+    "title": "Introducing VEA: AI-powered Voice Enhancement Assistant for Creators & Podcasters | iZotope",
+    "channel": "iZotope, Inc.",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "iZotope Velvet": {
+    "video_id": "cV_wX6g0h4Q",
+    "title": "Introducing Velvet, A smarter de-esser for smoother vocals | iZotope",
+    "channel": "iZotope, Inc.",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "iZotope VocalSynth 2": {
     "video_id": "2BxiHjHzz-k",
     "title": "Sonic LAB: iZotope Vocalsynth 2 Demo",
@@ -993,6 +1259,13 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "u-he MFM2": {
+    "video_id": "qnDU6i0aFX8",
+    "title": "Introduction to u-he MFM2",
+    "channel": "u-he",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
   "u-he Presswerk": {
     "video_id": "OwZqKc_j7qA",
     "title": "u-he Presswerk Musikmesse Demo",
@@ -1012,6 +1285,13 @@
     "title": "u-he Satin Basics, Part 1: Studio",
     "channel": "u-he",
     "score": 11,
+    "source": "yt_api_fill"
+  },
+  "u-he Uhbik 2": {
+    "video_id": "uBmO99l1jE4",
+    "title": "u-he Uhbik 2.0 Creative FX Plug-ins On A Mix",
+    "channel": "sonicstate",
+    "score": 9,
     "source": "yt_api_fill"
   },
   "u-he Zebra 3": {
