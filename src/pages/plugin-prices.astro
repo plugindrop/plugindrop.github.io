@@ -6,6 +6,13 @@ import { SITE_TITLE } from '../consts';
 import priceData from '../data/price_history.json';
 import { dealScoreNumeric, sparklinePoints } from '../lib/priceUtils';
 
+function fableVerdictLabel(verdict: 'good' | 'ok' | 'bad' | 'none', onSale: boolean): string {
+  if (verdict === 'none') return 'WAIT';
+  if (verdict === 'good') return 'BUY NOW';
+  if (verdict === 'ok') return 'FAIR SALE';
+  return onSale ? 'AVERAGE' : 'WAIT';
+}
+
 const AFF = "a_aid=69cb95abe1763";
 const pbLink = (path: string) =>
   !path ? '#' : path.startsWith('http') ? path : `https://www.pluginboutique.com${path}?${AFF}`;
@@ -458,6 +465,17 @@ const pageLD = {
       .score-badge.good { background: var(--verdict-good); color: var(--bg-base); }
       .score-badge.ok { background: var(--verdict-ok); color: var(--bg-base); }
       .score-badge.bad { background: var(--verdict-bad); color: var(--text-primary); }
+      .verdict-chip-card {
+        display: inline-block;
+        font-size: 0.62rem; font-weight: 700; text-transform: uppercase;
+        letter-spacing: 0.07em; padding: 0.15rem 0.45rem;
+        border-radius: 4px; border: 1px solid currentColor;
+        background: color-mix(in srgb, currentColor 10%, transparent);
+        white-space: nowrap; margin-left: 0.35rem; vertical-align: middle;
+      }
+      .vchip-buy  { color: #4ade80; }
+      .vchip-fair { color: #facc15; }
+      .vchip-avg  { color: var(--text-muted); }
       .score-none { color: var(--text-muted); }
       .score-legend {
         margin: 0.75rem 0; color: var(--text-muted); font-size: 0.7rem;
@@ -675,9 +693,17 @@ const pageLD = {
                 <td class="mono">
                   {row.dealScore.verdict === 'none' ? (
                     <span class="score-none" title="No discount history — price is stable">—</span>
-                  ) : (
-                    <span class={`score-badge ${row.dealScore.verdict}`}>{row.dealScore.score}</span>
-                  )}
+                  ) : (() => {
+                    const onSale = row.current !== null && row.regular !== null && (row.current < row.regular);
+                    const label = fableVerdictLabel(row.dealScore.verdict, onSale);
+                    const chipCls = row.dealScore.verdict === 'good' ? 'vchip-buy' : row.dealScore.verdict === 'ok' ? 'vchip-fair' : 'vchip-avg';
+                    return (
+                      <>
+                        <span class={`score-badge ${row.dealScore.verdict}`}>{row.dealScore.score}</span>
+                        <span class={`verdict-chip-card ${chipCls}`}>{label}</span>
+                      </>
+                    );
+                  })()}
                 </td>
                 <td>
                   {row.pts ? (
@@ -787,9 +813,17 @@ const pageLD = {
                 <td class="mono">
                   {row.dealScore.verdict === 'none' ? (
                     <span class="score-none" title="No discount history — price is stable">—</span>
-                  ) : (
-                    <span class={`score-badge ${row.dealScore.verdict}`}>{row.dealScore.score}</span>
-                  )}
+                  ) : (() => {
+                    const onSale = row.current !== null && row.regular !== null && (row.current < row.regular);
+                    const label = fableVerdictLabel(row.dealScore.verdict, onSale);
+                    const chipCls = row.dealScore.verdict === 'good' ? 'vchip-buy' : row.dealScore.verdict === 'ok' ? 'vchip-fair' : 'vchip-avg';
+                    return (
+                      <>
+                        <span class={`score-badge ${row.dealScore.verdict}`}>{row.dealScore.score}</span>
+                        <span class={`verdict-chip-card ${chipCls}`}>{label}</span>
+                      </>
+                    );
+                  })()}
                 </td>
                 <td>
                   {row.pts ? (
