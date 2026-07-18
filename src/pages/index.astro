@@ -18,6 +18,13 @@ import {
 	slugify,
 } from '../lib/priceUtils';
 
+function fableVerdictLabel(verdict: 'good' | 'ok' | 'bad' | 'none', onSale: boolean): string {
+	if (verdict === 'none') return 'WAIT';
+	if (verdict === 'good') return 'BUY NOW';
+	if (verdict === 'ok') return 'FAIR SALE';
+	return onSale ? 'AVERAGE' : 'WAIT';
+}
+
 const priceData = priceDataRaw as { last_updated: string; bundles: Record<string, PriceEntry>; plugins?: Record<string, PriceEntry> };
 const trackerEntries: Record<string, PriceEntry> = {
 	...(priceData.bundles ?? {}),
@@ -191,6 +198,12 @@ const moreFreshDeals = allPosts
 												{post.data.originalPrice && <s>{post.data.originalPrice}</s>}
 												{post.data.discount && <span class="discount-chip">{post.data.discount}</span>}
 											</div>
+											{score && score.verdict !== 'none' && (() => {
+												const onSale = !!(post.data.dealPrice && post.data.originalPrice);
+												const label = fableVerdictLabel(score.verdict, onSale);
+												const chipCls = score.verdict === 'good' ? 'vchip-buy' : score.verdict === 'ok' ? 'vchip-fair' : 'vchip-avg';
+												return <span class={`verdict-chip-card ${chipCls}`}>{label}</span>;
+											})()}
 											{post.data.affiliate && <span class="deal-store">{getStoreName(post.data.affiliate)}</span>}
 										</div>
 									</a>
@@ -248,7 +261,22 @@ const moreFreshDeals = allPosts
 									<td class="price-current">{formatPrice(row.current)}</td>
 									<td><s class="price-regular">{formatPrice(row.regular)}</s></td>
 									<td>{row.off > 0 ? <span class="discount-chip">&minus;{row.off}%</span> : <span class="muted">&mdash;</span>}</td>
-									<td>{row.dealScore.verdict === 'none' ? <span class="muted" title="No discount history — price is stable">&mdash;</span> : <span class={`score-badge is-${row.dealScore.verdict}`}>{row.dealScore.score}</span>}</td>
+									<td>
+										{row.dealScore.verdict === 'none'
+											? <span class="muted" title="No discount history — price is stable">&mdash;</span>
+											: (() => {
+												const onSale = row.current !== null && row.regular !== null && row.current < row.regular;
+												const label = fableVerdictLabel(row.dealScore.verdict, onSale);
+												const chipCls = row.dealScore.verdict === 'good' ? 'vchip-buy' : row.dealScore.verdict === 'ok' ? 'vchip-fair' : 'vchip-avg';
+												return (
+													<>
+														<span class={`score-badge is-${row.dealScore.verdict}`}>{row.dealScore.score}</span>
+														<span class={`verdict-chip-card ${chipCls} tracker-verdict-chip`}>{label}</span>
+													</>
+												);
+											})()
+										}
+									</td>
 									<td><a class="pb-link" href={pbLink(row.entry.pb_url)} target="_blank" rel="noopener sponsored">PB &rarr;</a></td>
 								</tr>
 							))}
@@ -376,6 +404,21 @@ const moreFreshDeals = allPosts
 	.deal-prices strong, .deal-prices s { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
 	.deal-prices strong { color: var(--text-primary); font-size: 1rem; }
 	.deal-prices s { color: var(--text-muted); font-size: 0.75rem; }
+	.verdict-chip-card {
+		display: inline-block;
+		padding: 0.15rem 0.45rem;
+		border: 1px solid currentColor;
+		border-radius: 4px;
+		background: color-mix(in srgb, currentColor 10%, transparent);
+		font-size: 0.62rem;
+		font-weight: 700;
+		letter-spacing: 0.07em;
+		text-transform: uppercase;
+		white-space: nowrap;
+	}
+	.vchip-buy { color: #4ade80; }
+	.vchip-fair { color: #facc15; }
+	.vchip-avg { color: var(--text-muted); }
 	.discount-chip { display: inline-block; padding: 0.15rem 0.4rem; border-radius: var(--radius-sm); background: var(--sale-bg); color: var(--sale-text); font-family: var(--font-mono); font-size: 0.68rem; font-weight: 700; white-space: nowrap; }
 	.deal-store { overflow: hidden; margin-top: 0.65rem; color: var(--text-muted); font-size: 0.72rem; text-overflow: ellipsis; white-space: nowrap; }
 	.more-deals { margin-top: 2rem; }
@@ -409,6 +452,7 @@ const moreFreshDeals = allPosts
 	.tracker-table td { padding: 0.5rem 0.7rem; }
 	.tracker-table td:first-child { width: 100%; font-family: var(--font-body); }
 	.tracker-table td:not(:first-child) { white-space: nowrap; }
+	.tracker-verdict-chip { margin-left: 0.35rem; vertical-align: middle; }
 	.price-current { color: var(--text-primary); font-weight: 700; }
 	.price-regular, .muted { color: var(--text-muted); }
 	.pb-link { font-size: 0.68rem; white-space: nowrap; }
@@ -424,5 +468,9 @@ const moreFreshDeals = allPosts
 		.section-title { align-items: flex-start; flex-direction: column; gap: 0.25rem; }
 		.deal-grid { grid-template-columns: 1fr; }
 		.tracker-panel { padding: 0.75rem; }
+	}
+	@media (max-width: 600px) {
+		.tracker-table th:nth-child(3),
+		.tracker-table td:nth-child(3) { display: none; }
 	}
 </style>
