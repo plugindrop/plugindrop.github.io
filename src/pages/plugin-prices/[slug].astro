@@ -768,6 +768,50 @@ const faqLD = {
         color: var(--text-muted); font-size: 0.82rem; line-height: 1.6;
       }
 
+      /* 640px breakpoint */
+      @media (max-width: 640px) {
+        .verdict-banner {
+          padding: 0.75rem 1rem;
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 0.5rem;
+        }
+        .verdict-copy { font-size: 0.82rem; }
+        .price-row {
+          flex-wrap: wrap;
+          gap: 0.5rem;
+        }
+        .cta-row {
+          flex-direction: column;
+        }
+        .cta-primary, .cta-secondary {
+          width: 100%;
+          text-align: center;
+        }
+        .watch-form {
+          flex-direction: column;
+          align-items: stretch;
+        }
+        .watch-email-input {
+          width: 100%;
+          min-width: 0;
+        }
+        .watch-form button[type="submit"] {
+          width: 100%;
+        }
+        .alt-grid {
+          grid-template-columns: 1fr 1fr;
+        }
+      }
+
+      /* 480px breakpoint（既存を補完）*/
+      @media (max-width: 480px) {
+        h1 { font-size: clamp(1.4rem, 5vw, 1.8rem); }
+        .chart-card { padding: 0.75rem; }
+        .alt-grid { grid-template-columns: 1fr; }
+        .verdict-chip-large { font-size: 0.7rem; }
+      }
+
       @media (max-width: 480px) {
         .price-current { font-size: 1.6rem; }
         .cta-primary, .cta-secondary { flex: 1 1 100%; }

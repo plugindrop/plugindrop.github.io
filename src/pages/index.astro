@@ -439,7 +439,7 @@ const moreFreshDeals = allPosts
 	.score-badge.is-ok { background: var(--verdict-ok); }
 	.score-badge.is-bad { background: var(--verdict-bad); }
 	.score-badge.is-none { color: var(--text-primary); background: var(--bg-highest); }
-	.tracker-panel { padding: 1.25rem; border: 1px solid var(--border); border-radius: var(--radius); background: var(--bg-card); }
+	.tracker-panel { overflow-x: auto; padding: 1.25rem; border: 1px solid var(--border); border-radius: var(--radius); background: var(--bg-card); -webkit-overflow-scrolling: touch; }
 	.tracker-filter { width: 100%; margin-bottom: 0.75rem; padding: 0.65rem 0.8rem; color: var(--text-primary); background: var(--bg-low); border: 1px solid var(--border); border-radius: var(--radius); font-family: var(--font-mono); font-size: 0.75rem; }
 	.tracker-filter:focus { outline: none; border-color: var(--accent); }
 	.tracker-table-wrap { max-height: 360px; overflow: auto; border: 1px solid var(--border); }
@@ -468,9 +468,15 @@ const moreFreshDeals = allPosts
 		.section-title { align-items: flex-start; flex-direction: column; gap: 0.25rem; }
 		.deal-grid { grid-template-columns: 1fr; }
 		.tracker-panel { padding: 0.75rem; }
+		.tracker-verdict-chip { display: block; margin-top: 0.2rem; margin-left: 0; }
 	}
 	@media (max-width: 600px) {
 		.tracker-table th:nth-child(3),
 		.tracker-table td:nth-child(3) { display: none; }
+	}
+	@media (max-width: 480px) {
+		.deal-prices { flex-wrap: wrap; gap: 0.25rem; }
+		.verdict-chip-card { margin-top: 0.25rem; margin-left: 0; }
+		.tracker-table { font-size: 0.78rem; }
 	}
 </style>
