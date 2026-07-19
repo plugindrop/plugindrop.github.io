@@ -13,6 +13,13 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "Arturia CS-80 V": {
+    "video_id": "ut3uIWrTSVI",
+    "title": "Arturia CS-80 V4 | No Talking |",
+    "channel": "DKS SYNTH LAB",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Arturia Jup-8 V": {
     "video_id": "tih7PqwyPc4",
     "title": "ARTURIA JUP-8 V Is Here!  Walkthrough, Demo and Features V Collection 11",
@@ -76,6 +83,20 @@
     "score": 11,
     "source": "yt_api_fill"
   },
+  "Baby Audio Grainferno": {
+    "video_id": "wuBjjYop81Q",
+    "title": "Baby Audio Grainferno demo: short size, fast rate!",
+    "channel": "cdmtv",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Baby Audio Humanoid": {
+    "video_id": "1dHDeDsIyvY",
+    "title": "Humanoid - Baby Audio - Official Tutorial",
+    "channel": "Baby Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
   "Baby Audio IHNY-2": {
     "video_id": "-AGTprq6Ssg",
     "title": "IHNY-2 - Baby Audio - Official Tutorial",
@@ -83,11 +104,25 @@
     "score": 11,
     "source": "yt_api_fill"
   },
+  "Baby Audio Magic Switch": {
+    "video_id": "pgw_pEbC6hM",
+    "title": "Free Plugin: Baby Audio Magic Switch Demo",
+    "channel": "Tobisonics",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Baby Audio Parallel Aggressor": {
     "video_id": "aGJFMGQ9Tt4",
     "title": "Baby Audio Parallel Aggressor Demo",
     "channel": "Denk_Studios",
     "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Baby Audio Smooth Operator Pro": {
+    "video_id": "1jx9ON7BOU8",
+    "title": "Smooth Operator Pro - Official Tutorial - Baby Audio",
+    "channel": "Baby Audio",
+    "score": 11,
     "source": "yt_api_fill"
   },
   "Baby Audio Spaced Out": {
@@ -104,6 +139,13 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "Baby Audio Tekno": {
+    "video_id": "C-iLairdqno",
+    "title": "Tekno - Baby Audio - Official Tutorial",
+    "channel": "Baby Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
   "Baby Audio Transit 2": {
     "video_id": "yYNSbjCvxMU",
     "title": "Transit 2 Sound Examples - Modes, Effect Modules and Presets - Baby Audio",
@@ -118,11 +160,32 @@
     "score": 8,
     "source": "article_embed"
   },
+  "Cherry Audio DCO 106": {
+    "video_id": "QPzn3kkHcI0",
+    "title": "Cherry Audio | DCO-106",
+    "channel": "Cherry Audio",
+    "score": 13,
+    "source": "yt_api_fill"
+  },
   "Cherry Audio DCO-106": {
     "video_id": "ruog9D8ch40",
     "title": "Cherry Audio | DCO 106 | Presets Preview (No Talking)",
     "channel": "Simon Le Grec",
     "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Cherry Audio Eight Voice": {
+    "video_id": "XpK5utIhIqQ",
+    "title": "Cherry Audio | Eight Voice",
+    "channel": "Cherry Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Cherry Audio GX 80 Synthesizer": {
+    "video_id": "1_Zv6uFG6D4",
+    "title": "Cherry Audio GX-80 Synthesizer Walkthrough And Sounds",
+    "channel": "Audio Tech TV",
+    "score": 9,
     "source": "yt_api_fill"
   },
   "Cherry Audio GX-80": {
@@ -132,10 +195,31 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "Cherry Audio Memorymode": {
+    "video_id": "mhPPjNnBjdY",
+    "title": "Memorymode - Huston Singletary Preset Demo #1 | Cherry Audio",
+    "channel": "Cherry Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Cherry Audio Mercury 8": {
+    "video_id": "xO7BQr1IN8I",
+    "title": "Cherry Audio | Mercury-8: A Tour of the Presets with Mike Martin",
+    "channel": "Cherry Audio",
+    "score": 14,
+    "source": "yt_api_fill"
+  },
   "Cherry Audio Mercury-4": {
     "video_id": "DEGXC6aWj1g",
     "title": "CHERRY AUDIO Mercury-4 Demo & Review",
     "channel": "musictrackjp",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Cherry Audio Miniverse": {
+    "video_id": "BEnb0Rnq5u4",
+    "title": "Miniverse | Cherry Audio",
+    "channel": "Cherry Audio",
     "score": 10,
     "source": "yt_api_fill"
   },
@@ -146,9 +230,156 @@
     "score": 13,
     "source": "yt_api_fill"
   },
+  "Cherry Audio Polymode": {
+    "video_id": "gu8Dt7BENAQ",
+    "title": "Cherry Audio | Polymode Synthesizer",
+    "channel": "Cherry Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Cherry Audio Quadra": {
+    "video_id": "Ua0qEDpQig8",
+    "title": "Cherry Audio Quadra | Getting Started",
+    "channel": "Cherry Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Cherry Audio Stardust 201 Tape Echo": {
+    "video_id": "0UTyTmpiOF8",
+    "title": "Cherry Audio Stardust 201 Tape Echo ~ Demo (no talking)",
+    "channel": "SyncroMoose",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Cherry Audio Yellowjacket": {
+    "video_id": "V2VuRDF6Q4k",
+    "title": "Cherry Audio | Yellowjacket Synthesizer",
+    "channel": "Cherry Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
   "Eventide Blackhole": {
     "video_id": "_r4P47EkDOs",
     "title": "Eventide Blackhole Reverb Pedal - Synth Presets Demo",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Eventide Blackhole Immersive": {
+    "video_id": "5dFgkAzFwew",
+    "title": "Eventide Blackhole® Immersive Plug-in: Overview & Demo",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Eventide CrushStation": {
+    "video_id": "oKRRC8o5kPw",
+    "title": "Eventide CrushStation Plug-in for Desktop & iOS",
+    "channel": "Eventide Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Eventide Crystals": {
+    "video_id": "jMXjxPD8kIQ",
+    "title": "Eventide Crystals (Pitch, Delay & Reverb) Plug-in Audio Demo",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Eventide DeBoom": {
+    "video_id": "-F-aEdXyzEs",
+    "title": "Eventide DeBoom Plugin Demo 💎",
+    "channel": "Reid Stefan",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Eventide EChannel": {
+    "video_id": "mQVgEU6dgJc",
+    "title": "Eventide EChannel Modular Channel Strip Plug-in",
+    "channel": "Eventide Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Eventide EQ45": {
+    "video_id": "JcJt0ko_yDY",
+    "title": "Eventide EQ65 and EQ45 plugins",
+    "channel": "Eventide Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Eventide EQ65": {
+    "video_id": "JcJt0ko_yDY",
+    "title": "Eventide EQ65 and EQ45 plugins",
+    "channel": "Eventide Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Eventide H3000 Band Delays Mk II": {
+    "video_id": "nLpUhXQQydc",
+    "title": "Eventide - H3000 Band Delays Mk II - Demo",
+    "channel": "felice music labs",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Eventide H910 Harmonizer": {
+    "video_id": "977Sri5EcCE",
+    "title": "History of the Eventide H910 Harmonizer®",
+    "channel": "Eventide Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Eventide H949 Harmonizer": {
+    "video_id": "CGizvwbDi98",
+    "title": "Eventide H949 Harmonizer® History & Plug-in Overview",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Eventide Instant Flanger Mk II": {
+    "video_id": "qNjHoB-mnuE",
+    "title": "Eventide Instant Flanger Mk II Tutorial & Demo",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Eventide Instant Phaser Mk II": {
+    "video_id": "EGRsOJ9lTCE",
+    "title": "Eventide Instant Phaser Mk II Plug-In Tutorial",
+    "channel": "Eventide Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Eventide MangledVerb": {
+    "video_id": "FiKQ-7lHWxs",
+    "title": "Eventide MangledVerb Reverb Distortion Plugin Demo (AAX, VST AU, AUv3)",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Eventide MicroPitch": {
+    "video_id": "t_5JgtEcZHA",
+    "title": "Eventide MicroPitch Immersive Plug-in: Overview & Demo",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Eventide MicroPitch Immersive": {
+    "video_id": "t_5JgtEcZHA",
+    "title": "Eventide MicroPitch Immersive Plug-in: Overview & Demo",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Eventide Octavox": {
+    "video_id": "u3Xuaxb9eL4",
+    "title": "Trombone Demo with Rick Parker and Eventide Octavox",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Eventide Omnipressor": {
+    "video_id": "PFHbUe8dtdE",
+    "title": "Eventide Omnipressor Plug-in Overview and Demo",
     "channel": "Eventide Audio",
     "score": 12,
     "source": "yt_api_fill"
@@ -160,12 +391,61 @@
     "score": 11,
     "source": "yt_api_fill"
   },
+  "Eventide Precision Time Align": {
+    "video_id": "A2s_N_eqYCs",
+    "title": "Eventide Precision Time Align: Plug-in Demo",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Eventide Quadravox": {
+    "video_id": "pn48a-G3EzI",
+    "title": "How to Thicken Drum Fills with Eventide Quadravox",
+    "channel": "Eventide Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Eventide Rotary Mod": {
+    "video_id": "-UUTXD3-1Zw",
+    "title": "Eventide Rotary Mod Leslie Cab Modulation Plug-in Demo",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
   "Eventide SP2016 Reverb": {
     "video_id": "HM7Bw9c7vWA",
     "title": "Eventide SP2016 Reverb Plug-in Overview & Demo",
     "channel": "Eventide Audio",
     "score": 12,
     "source": "article_embed"
+  },
+  "Eventide ShimmerVerb": {
+    "video_id": "T9MCwivHN10",
+    "title": "Introducing Eventide ShimmerVerb Plug-in - Massive Reverb + Pitch Shifting (Audio Demo)",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Eventide SplitEQ": {
+    "video_id": "8zWl-Yh2nMI",
+    "title": "Eventide SplitEQ Plug-in Overview & Demo",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Eventide Spring": {
+    "video_id": "clSFLe9z8Lo",
+    "title": "Eventide Spring Reverb Plug-in Overview for AUv3, VST, AU, AAX",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Eventide TriceraChorus": {
+    "video_id": "kiPE_BcEuo8",
+    "title": "Eventide TriceraChorus Pedal Presets Demo",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
   },
   "Eventide Tverb": {
     "video_id": "4xP7onNavdw",
@@ -177,6 +457,27 @@
   "Eventide UltraChannel": {
     "video_id": "-fBPYACO7UU",
     "title": "Eventide UltraChannel Overview",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Eventide UltraReverb": {
+    "video_id": "KeVi2FikcDw",
+    "title": "Eventide UltraReverb Native Plug-in Audio Demo",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Eventide UltraTap": {
+    "video_id": "18tIcuJegvk",
+    "title": "Eventide UltraTap Reverb Demo",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Eventide Undulator": {
+    "video_id": "wHtRI0H6PSI",
+    "title": "Eventide Undulator Plug-in: Audio Presets Demo",
     "channel": "Eventide Audio",
     "score": 12,
     "source": "yt_api_fill"
@@ -447,6 +748,13 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "Native Instruments Scene Nightshade": {
+    "video_id": "ASHhU6QFlQE",
+    "title": "Native Instruments Scene: Nightshade | Izotope's Equinox Reverb | Walkthrough & Demo",
+    "channel": "PULSE Music ",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Native Instruments Scene Saffron": {
     "video_id": "KhrKZcCsrFE",
     "title": "Native Instruments Scene: Saffron demo - Parallel Worlds",
@@ -587,6 +895,13 @@
     "score": 8,
     "source": "yt_api_fill"
   },
+  "Softube Drawmer S73": {
+    "video_id": "eX9Ieud9rJw",
+    "title": "Drawmer S73 Intelligent Master Processor Walkthrough – Softube",
+    "channel": "SoftubeStudios",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Softube Model 72": {
     "video_id": "1hB07rbuYy0",
     "title": "Softube Model 72 Melodic Techno Soundbank (By Insight) - Single Presets Demo",
@@ -594,9 +909,30 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "Softube Tape": {
+    "video_id": "EfQAARGyev0",
+    "title": "Softube Tape Demo by SO",
+    "channel": "UFO Flatfield",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Softube Weiss DS1-MK3": {
+    "video_id": "o91Wr5eo5PE",
+    "title": "Weiss DS1-MK3 Walkthrough – Softube",
+    "channel": "SoftubeStudios",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Sonible entropy:EQ": {
     "video_id": "4IUErRMuejo",
     "title": "Introducing entropy:EQ⁺ – Creative postproduction plug in by sonible",
+    "channel": "sonible",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Sonible smart deess": {
+    "video_id": "8KZtoU9b2Bs",
+    "title": "smart:deess by sonible – the content-aware de-esser",
     "channel": "sonible",
     "score": 10,
     "source": "yt_api_fill"
@@ -1196,6 +1532,13 @@
     "score": 8,
     "source": "yt_api_fill"
   },
+  "u-he ACE": {
+    "video_id": "etTTULJ8sdg",
+    "title": "U-he | Ace v1.4.1 | Rhythmic Presets",
+    "channel": "Simon Le Grec",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "u-he Bazille": {
     "video_id": "nleGAfInHNs",
     "title": "u-he Bazille Musikmesse Demo - Make a track in 2 minutes",
@@ -1236,6 +1579,13 @@
     "title": "u-he Presswerk Musikmesse Demo",
     "channel": "u-he",
     "score": 12,
+    "source": "yt_api_fill"
+  },
+  "u-he Repro": {
+    "video_id": "hjcsG9iXx7I",
+    "title": "U-HE REPRO DEMO - Orchestral Manoeuvres In The Dark",
+    "channel": "Woody Piano Shack",
+    "score": 8,
     "source": "yt_api_fill"
   },
   "u-he Satin": {
