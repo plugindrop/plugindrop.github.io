@@ -43,12 +43,6 @@
           "regular": 1176,
           "sale": 1069.0,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 1176,
-          "sale": 1069.0,
-          "source": "auto_check"
         }
       ],
       "category": "Bundle"
@@ -86,12 +80,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 428,
-          "sale": 389.0,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 428,
           "sale": 389.0,
           "source": "auto_check"
@@ -138,12 +126,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 659,
-          "sale": 599.0,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 659,
           "sale": 599.0,
           "source": "auto_check"
@@ -1783,12 +1765,6 @@
           "regular": 299,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 299,
-          "sale": null,
-          "source": "auto_check"
         }
       ],
       "category": "Instrument"
@@ -1864,12 +1840,6 @@
           "regular": 149,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 149,
-          "sale": null,
-          "source": "auto_check"
         }
       ]
     },
@@ -1925,12 +1895,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 129,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 129,
           "sale": null,
           "source": "auto_check"
@@ -1990,12 +1954,6 @@
           "regular": 249.0,
           "sale": 167.0,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 249,
-          "sale": null,
-          "source": "auto_check"
         }
       ]
     },
@@ -2039,12 +1997,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 99,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 99,
           "sale": null,
           "source": "auto_check"
@@ -2196,12 +2148,6 @@
           "sale": 76.0,
           "regular": 189.0,
           "source": "pb_deals_poll"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 189.0,
-          "sale": 76.0,
-          "source": "auto_check"
         }
       ]
     },
@@ -2284,12 +2230,6 @@
           "regular": 99,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 99,
-          "sale": null,
-          "source": "auto_check"
         }
       ]
     },
@@ -2349,12 +2289,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 69,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 69,
           "sale": null,
           "source": "auto_check"
@@ -2554,12 +2488,6 @@
           "regular": 59,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 59,
-          "sale": null,
-          "source": "auto_check"
         }
       ]
     },
@@ -2754,12 +2682,6 @@
           "regular": 99.0,
           "sale": 49.0,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 99.0,
-          "sale": 49.0,
-          "source": "auto_check"
         }
       ]
     },
@@ -2819,12 +2741,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 99,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 99,
           "sale": null,
           "source": "auto_check"
@@ -2916,12 +2832,6 @@
           "regular": 59,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 59,
-          "sale": null,
-          "source": "auto_check"
         }
       ]
     },
@@ -2986,12 +2896,6 @@
           "regular": 129,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 129,
-          "sale": null,
-          "source": "auto_check"
         }
       ]
     },
@@ -3041,12 +2945,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 99,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 99,
           "sale": null,
           "source": "auto_check"
@@ -3240,12 +3138,6 @@
           "regular": 299,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 299,
-          "sale": null,
-          "source": "auto_check"
         }
       ]
     },
@@ -3289,12 +3181,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 99,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 99,
           "sale": null,
           "source": "auto_check"
@@ -3556,12 +3442,6 @@
           "regular": 179,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 179,
-          "sale": null,
-          "source": "auto_check"
         }
       ]
     },
@@ -3632,12 +3512,6 @@
           "regular": 179,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 179,
-          "sale": null,
-          "source": "auto_check"
         }
       ]
     },
@@ -3693,12 +3567,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 179,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 179,
           "sale": null,
           "source": "auto_check"
@@ -3832,12 +3700,6 @@
           "regular": 179,
           "sale": 149.0,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 179,
-          "sale": 149.0,
-          "source": "auto_check"
         }
       ]
     },
@@ -3893,12 +3755,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 169,
-          "sale": 149.0,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 169,
           "sale": 149.0,
           "source": "auto_check"
@@ -4014,12 +3870,6 @@
           "regular": 169,
           "sale": 149.0,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 169,
-          "sale": 149.0,
-          "source": "auto_check"
         }
       ]
     },
@@ -4078,12 +3928,6 @@
           "regular": 139,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 139,
-          "sale": null,
-          "source": "auto_check"
         }
       ]
     },
@@ -4127,12 +3971,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 269,
-          "sale": 245.0,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 269,
           "sale": 245.0,
           "source": "auto_check"
@@ -4316,12 +4154,6 @@
           "regular": 99,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 99,
-          "sale": null,
-          "source": "auto_check"
         }
       ]
     },
@@ -4362,12 +4194,6 @@
           "regular": 199,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 199,
-          "sale": null,
-          "source": "auto_check"
         }
       ]
     },
@@ -4405,12 +4231,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 189,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 189,
           "sale": null,
           "source": "auto_check"
@@ -4457,12 +4277,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 49,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 49,
           "sale": null,
           "source": "auto_check"
@@ -4531,12 +4345,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 49,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 49,
           "sale": null,
           "source": "auto_check"
@@ -4662,12 +4470,6 @@
           "regular": 149,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 149,
-          "sale": null,
-          "source": "auto_check"
         }
       ]
     },
@@ -4759,12 +4561,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 149,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 149,
           "sale": null,
           "source": "auto_check"
@@ -4886,12 +4682,6 @@
           "regular": 199,
           "sale": 149.0,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 199,
-          "sale": 149.0,
-          "source": "auto_check"
         }
       ]
     },
@@ -4935,12 +4725,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 199,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 199,
           "sale": null,
           "source": "auto_check"
@@ -5043,12 +4827,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 199,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 199,
           "sale": null,
           "source": "auto_check"
@@ -5161,12 +4939,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 129.0,
-          "sale": 39.99,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 129.0,
           "sale": 39.99,
           "source": "auto_check"
@@ -8184,12 +7956,6 @@
           "regular": 129,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 129.0,
-          "sale": 59.0,
-          "source": "auto_check"
         }
       ]
     },
@@ -8223,12 +7989,6 @@
           "date": "2026-07-16",
           "regular": 129,
           "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 129.0,
-          "sale": 59.0,
           "source": "auto_check"
         }
       ]
@@ -8264,12 +8024,6 @@
           "regular": 129,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 129,
-          "sale": null,
-          "source": "auto_check"
         }
       ]
     },
@@ -8298,12 +8052,6 @@
           "regular": 99,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 99,
-          "sale": null,
-          "source": "auto_check"
         }
       ]
     },
@@ -8329,12 +8077,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 99,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 99,
           "sale": null,
           "source": "auto_check"
@@ -8415,12 +8157,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 79,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 79,
           "sale": null,
           "source": "auto_check"
@@ -8538,12 +8274,6 @@
           "regular": 69.0,
           "sale": 39.33,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 69.0,
-          "sale": 39.33,
-          "source": "auto_check"
         }
       ]
     },
@@ -8642,12 +8372,6 @@
           "regular": 149,
           "sale": 129.0,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 149,
-          "sale": 129.0,
-          "source": "auto_check"
         }
       ]
     },
@@ -8679,12 +8403,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 39,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 39,
           "sale": null,
           "source": "auto_check"
@@ -8783,12 +8501,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 249,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 249,
           "sale": null,
           "source": "auto_check"
@@ -8934,12 +8646,6 @@
           "regular": 99.0,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 99.0,
-          "sale": null,
-          "source": "auto_check"
         }
       ]
     },
@@ -9001,12 +8707,6 @@
         },
         {
           "date": "2026-07-16",
-          "regular": 59.0,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-19",
           "regular": 59.0,
           "sale": null,
           "source": "auto_check"
@@ -9252,12 +8952,6 @@
           "sale": 49.99,
           "regular": 99.99,
           "source": "pb_deals_poll"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 99.99,
-          "sale": 49.99,
-          "source": "auto_check"
         }
       ]
     },
@@ -9346,12 +9040,6 @@
           "regular": 49.5,
           "sale": null,
           "source": "wayback"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 99.0,
-          "sale": null,
-          "source": "auto_check"
         }
       ]
     },
@@ -9562,12 +9250,6 @@
           "sale": 369.0,
           "regular": 738.0,
           "source": "pb_deals_poll"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 738.0,
-          "sale": 369.0,
-          "source": "auto_check"
         }
       ]
     },
@@ -9714,12 +9396,6 @@
           "sale": 199.0,
           "regular": 399.0,
           "source": "pb_deals_poll"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 399.0,
-          "sale": 199.0,
-          "source": "auto_check"
         }
       ]
     },
@@ -9860,12 +9536,6 @@
           "sale": 49.0,
           "regular": 89.0,
           "source": "pb_deals_poll"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 89.0,
-          "sale": 49.0,
-          "source": "auto_check"
         }
       ]
     },
@@ -12633,386 +12303,6 @@
           "date": "2026-07-18",
           "regular": null,
           "sale": null,
-          "source": "auto_check"
-        }
-      ]
-    },
-    "SSL Native X-EQ 2": {
-      "pb_url": "/product/2-Effects/16-EQ/8665-SSL-Native-X-EQ-2",
-      "typical_regular": 149.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 149.0,
-          "sale": 15.0,
-          "source": "pb_crawl"
-        }
-      ]
-    },
-    "Super VHS": {
-      "pb_url": "/product/2-Effects/53-Multi-Effect-/5900-Super-VHS",
-      "typical_regular": 69.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 69.0,
-          "sale": 10.0,
-          "source": "pb_crawl"
-        }
-      ]
-    },
-    "Zen Delay Virtual": {
-      "pb_url": "/product/2-Effects/10-Delay/10200-Zen-Delay-Virtual",
-      "typical_regular": 89.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 89.0,
-          "sale": 14.99,
-          "source": "pb_crawl"
-        }
-      ]
-    },
-    "JV-1080": {
-      "pb_url": "/product/1-Instruments/4-Synth/15268-JV-1080",
-      "typical_regular": 129.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 129.0,
-          "sale": 69.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 129.0,
-          "sale": 69.0,
-          "source": "auto_check"
-        }
-      ]
-    },
-    "XV-5080": {
-      "pb_url": "/product/1-Instruments/4-Synth/15297-XV-5080",
-      "typical_regular": 129.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 129.0,
-          "sale": 69.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 129.0,
-          "sale": 69.0,
-          "source": "auto_check"
-        }
-      ]
-    },
-    "Scaler 3": {
-      "pb_url": "/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3",
-      "typical_regular": 99.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 99.0,
-          "sale": 79.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 99.0,
-          "sale": 79.0,
-          "source": "auto_check"
-        }
-      ]
-    },
-    "Synthesizer V Studio 2 Pro": {
-      "pb_url": "/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro",
-      "typical_regular": 99.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 99.0,
-          "sale": 79.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 99.0,
-          "sale": 79.0,
-          "source": "auto_check"
-        }
-      ]
-    },
-    "Prophet~5": {
-      "pb_url": "/product/1-Instruments/4-Synth/17444-Prophet-5",
-      "typical_regular": 119.99,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 119.99,
-          "sale": 83.99,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 119.99,
-          "sale": 83.99,
-          "source": "auto_check"
-        }
-      ]
-    },
-    "ROYAL 2": {
-      "pb_url": "/product/1-Instruments/64-Virtual-Instruments/6257-ROYAL-2",
-      "typical_regular": 119.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 119.0,
-          "sale": 9.0,
-          "source": "pb_crawl"
-        }
-      ]
-    },
-    "AmpliTube 5 MAX v2": {
-      "pb_url": "/product/2-Effects/18-Amp-Simulator/12444-AmpliTube-5-MAX-v2",
-      "typical_regular": 299.99,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 299.99,
-          "sale": 99.99,
-          "source": "pb_crawl"
-        }
-      ]
-    },
-    "Voca": {
-      "pb_url": "/product/2-Effects/54-Vocal-Processing/11095-Voca",
-      "typical_regular": 112.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 112.0,
-          "sale": 29.0,
-          "source": "pb_crawl"
-        }
-      ]
-    },
-    "Spire": {
-      "pb_url": "/product/1-Instruments/4-Synth/3187-Spire",
-      "typical_regular": 189.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 189.0,
-          "sale": 76.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 189.0,
-          "sale": 76.0,
-          "source": "auto_check"
-        }
-      ]
-    },
-    "MELLOW 2": {
-      "pb_url": "/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2",
-      "typical_regular": 119.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 119.0,
-          "sale": 9.0,
-          "source": "pb_crawl"
-        }
-      ]
-    },
-    "Weiss MM-1": {
-      "pb_url": "/product/2-Effects/50-Mastering-/4181-Weiss-MM-1",
-      "typical_regular": 199.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 199.0,
-          "sale": 69.0,
-          "source": "pb_crawl"
-        }
-      ]
-    },
-    "smart:EQ 4": {
-      "pb_url": "/product/2-Effects/16-EQ/11784-smart-EQ-4",
-      "typical_regular": 129.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 129.0,
-          "sale": 59.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 129.0,
-          "sale": 59.0,
-          "source": "auto_check"
-        }
-      ]
-    },
-    "Decimort 2": {
-      "pb_url": "/product/2-Effects/32-Bit-Crusher/2017-Decimort-2",
-      "typical_regular": 59.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 59.0,
-          "sale": 35.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 59.0,
-          "sale": 35.0,
-          "source": "auto_check"
-        }
-      ]
-    },
-    "Black Box Analog Design HG-2": {
-      "pb_url": "/product/2-Effects/44-Saturation/10203-Black-Box-Analog-Design-HG-2",
-      "typical_regular": 125.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 125.0,
-          "sale": 30.0,
-          "source": "pb_crawl"
-        }
-      ]
-    },
-    "Bloom KSHMR": {
-      "pb_url": "/product/1-Instruments/64-Virtual-Instruments/14907-Bloom-KSHMR",
-      "typical_regular": 59.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 59.0,
-          "sale": 29.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 59.0,
-          "sale": 29.0,
-          "source": "auto_check"
-        }
-      ]
-    },
-    "BFD 3.5": {
-      "pb_url": "/product/1-Instruments/64-Virtual-Instruments/848-BFD-3-5",
-      "typical_regular": 199.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 199.0,
-          "sale": 39.0,
-          "source": "pb_crawl"
-        }
-      ]
-    },
-    "TRITON / TRITON Extreme": {
-      "pb_url": "/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme",
-      "typical_regular": 249.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-crawl 2026-07-19",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-07-19",
-          "regular": 249.0,
-          "sale": 149.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-07-19",
-          "regular": 249.0,
-          "sale": 149.0,
           "source": "auto_check"
         }
       ]
