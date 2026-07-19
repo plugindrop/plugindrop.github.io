@@ -19,6 +19,11 @@ draft: false
 </div>
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/1trjc4dKgTM" title="Dialekt Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Dialekt?
 
 Dialekt is a vocal processing plugin available through Plugin Boutique, built around vocal modulation and creative sound design. It's positioned for producers who want to push vocals beyond standard pitch correction or EQ moves into more experimental territory. Exact engine details, supported formats, and full feature specs are listed on the official product page.
