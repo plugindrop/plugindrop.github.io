@@ -591,6 +591,12 @@
           "regular": 199,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check"
         }
       ],
       "category": "EQ"
@@ -677,6 +683,12 @@
           "regular": 179,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 179,
+          "sale": null,
+          "source": "auto_check"
         }
       ],
       "category": "Limiter"
@@ -744,6 +756,12 @@
         },
         {
           "date": "2026-07-16",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 199,
           "sale": null,
           "source": "auto_check"
@@ -927,6 +945,12 @@
           "regular": 199,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check"
         }
       ],
       "category": "Synth"
@@ -988,6 +1012,12 @@
         },
         {
           "date": "2026-07-16",
+          "regular": 179,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 179,
           "sale": null,
           "source": "auto_check"
@@ -1055,6 +1085,12 @@
           "regular": 149,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 149,
+          "sale": null,
+          "source": "auto_check"
         }
       ],
       "category": "Synth"
@@ -1110,6 +1146,12 @@
         },
         {
           "date": "2026-07-16",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 199,
           "sale": null,
           "source": "auto_check"
@@ -1207,6 +1249,12 @@
           "regular": 499,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 499,
+          "sale": null,
+          "source": "auto_check"
         }
       ],
       "category": "Mastering"
@@ -1256,6 +1304,12 @@
         },
         {
           "date": "2026-07-16",
+          "regular": 299,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 299,
           "sale": null,
           "source": "auto_check"
@@ -1350,6 +1404,12 @@
         },
         {
           "date": "2026-07-16",
+          "regular": 169,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 169,
           "sale": null,
           "source": "auto_check"
@@ -1449,6 +1509,12 @@
           "regular": 129,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 129.0,
+          "sale": 59.0,
+          "source": "auto_check"
         }
       ],
       "category": "EQ"
@@ -1492,6 +1558,12 @@
         },
         {
           "date": "2026-07-16",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 99,
           "sale": null,
           "source": "auto_check"
@@ -1589,6 +1661,12 @@
           "regular": 99,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check"
         }
       ],
       "category": "Reverb"
@@ -1632,6 +1710,12 @@
         },
         {
           "date": "2026-07-16",
+          "regular": 149,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 149,
           "sale": null,
           "source": "auto_check"
@@ -4984,6 +5068,12 @@
           "regular": 129.0,
           "sale": 39.99,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 129.0,
+          "sale": 39.99,
+          "source": "auto_check"
         }
       ]
     },
@@ -5037,6 +5127,12 @@
         },
         {
           "date": "2026-07-15",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 199,
           "sale": null,
           "source": "auto_check"
@@ -5128,6 +5224,12 @@
           "regular": 199,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check"
         }
       ]
     },
@@ -5162,6 +5264,12 @@
           "regular": 99,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check"
         }
       ]
     },
@@ -5193,6 +5301,12 @@
         },
         {
           "date": "2026-07-15",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 99,
           "sale": null,
           "source": "auto_check"
@@ -5251,6 +5365,12 @@
         },
         {
           "date": "2026-07-15",
+          "regular": 149,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 149,
           "sale": null,
           "source": "auto_check"
@@ -5318,6 +5438,12 @@
           "regular": 199,
           "sale": 149.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 199,
+          "sale": 149.0,
+          "source": "auto_check"
         }
       ]
     },
@@ -5349,6 +5475,12 @@
         },
         {
           "date": "2026-07-15",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 99,
           "sale": null,
           "source": "auto_check"
@@ -5386,6 +5518,12 @@
           "regular": 99,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check"
         }
       ]
     },
@@ -5417,6 +5555,12 @@
         },
         {
           "date": "2026-07-15",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 99,
           "sale": null,
           "source": "auto_check"
@@ -5537,6 +5681,12 @@
         },
         {
           "date": "2026-07-15",
+          "regular": 349,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 349,
           "sale": null,
           "source": "auto_check"
@@ -5930,6 +6080,12 @@
           "regular": 199,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check"
         }
       ]
     },
@@ -5961,6 +6117,12 @@
         },
         {
           "date": "2026-07-15",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 199,
           "sale": null,
           "source": "auto_check"
@@ -6041,6 +6203,12 @@
         },
         {
           "date": "2026-07-15",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 199,
           "sale": null,
           "source": "auto_check"
@@ -6126,6 +6294,12 @@
           "regular": 199,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check"
         }
       ]
     },
@@ -6157,6 +6331,12 @@
         },
         {
           "date": "2026-07-15",
+          "regular": 149,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 149,
           "sale": null,
           "source": "auto_check"
@@ -6200,6 +6380,12 @@
           "sale": 74.5,
           "regular": 149.0,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 199,
+          "sale": 149.0,
+          "source": "auto_check"
         }
       ]
     },
@@ -6352,6 +6538,12 @@
           "regular": 69.0,
           "sale": null,
           "source": "wayback"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 69,
+          "sale": null,
+          "source": "auto_check"
         }
       ]
     },
@@ -6383,6 +6575,12 @@
         },
         {
           "date": "2026-07-15",
+          "regular": 69,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 69,
           "sale": null,
           "source": "auto_check"
@@ -6420,6 +6618,12 @@
           "regular": 39,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 39,
+          "sale": null,
+          "source": "auto_check"
         }
       ]
     },
@@ -6451,6 +6655,12 @@
         },
         {
           "date": "2026-07-15",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 99,
           "sale": null,
           "source": "auto_check"
@@ -6494,6 +6704,12 @@
           "regular": 129,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 129,
+          "sale": null,
+          "source": "auto_check"
         }
       ]
     },
@@ -6525,6 +6741,12 @@
         },
         {
           "date": "2026-07-15",
+          "regular": 29,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 29,
           "sale": null,
           "source": "auto_check"
@@ -6562,6 +6784,12 @@
           "regular": 49,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 49,
+          "sale": null,
+          "source": "auto_check"
         }
       ]
     },
@@ -6593,6 +6821,12 @@
         },
         {
           "date": "2026-07-15",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
           "regular": 99,
           "sale": null,
           "source": "auto_check"
@@ -6672,6 +6906,12 @@
           "regular": 29.0,
           "sale": null,
           "source": "wayback"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 29,
+          "sale": null,
+          "source": "auto_check"
         }
       ]
     },
@@ -6742,6 +6982,12 @@
           "regular": 79.0,
           "sale": null,
           "source": "wayback"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 79,
+          "sale": null,
+          "source": "auto_check"
         }
       ]
     },
@@ -6800,6 +7046,12 @@
           "regular": 79.0,
           "sale": null,
           "source": "wayback"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 79,
+          "sale": null,
+          "source": "auto_check"
         }
       ]
     },
@@ -6876,6 +7128,12 @@
           "regular": 99.0,
           "sale": null,
           "source": "wayback"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 49,
+          "sale": null,
+          "source": "auto_check"
         }
       ]
     },
@@ -7290,6 +7548,12 @@
           "regular": 69.0,
           "sale": null,
           "source": "wayback"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check"
         }
       ]
     },
@@ -7354,6 +7618,12 @@
           "regular": 49.0,
           "sale": null,
           "source": "wayback"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check"
         }
       ]
     },
@@ -7394,6 +7664,12 @@
           "regular": 249.0,
           "sale": null,
           "source": "wayback"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 149,
+          "sale": null,
+          "source": "auto_check"
         }
       ]
     },
@@ -9638,6 +9914,12 @@
           "regular": 129.0,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-18",
+          "regular": 129.0,
+          "sale": null,
+          "source": "auto_check"
         }
       ]
     },
@@ -11145,7 +11427,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio Memorymode": {
       "pb_url": "/product/1-Instruments/4-Synth/7831-Memorymode",
@@ -11153,7 +11442,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio GX 80 Synthesizer": {
       "pb_url": "/product/1-Instruments/4-Synth/10001-GX-80-Synthesizer",
@@ -11161,7 +11457,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio Miniverse": {
       "pb_url": "/product/1-Instruments/4-Synth/9030-Miniverse",
@@ -11169,7 +11472,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio Mercury 8": {
       "pb_url": "/product/1-Instruments/4-Synth/16443-Mercury-8",
@@ -11177,7 +11487,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio DCO 106": {
       "pb_url": "/product/1-Instruments/4-Synth/6935-DCO-106",
@@ -11185,7 +11502,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio Yellowjacket": {
       "pb_url": "/product/1-Instruments/4-Synth/14754-Yellowjacket",
@@ -11193,7 +11517,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio DS 2 Synthesizer": {
       "pb_url": "/product/1-Instruments/4-Synth/17088-DS-2-Synthesizer",
@@ -11201,7 +11532,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio Stardust 201 Tape Echo": {
       "pb_url": "/product/2-Effects/49-Echo/8125-Stardust-201-Tape-Echo",
@@ -11209,7 +11547,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio Voltage Modular Ignite": {
       "pb_url": "/product/1-Instruments/4-Synth/5034-Voltage-Modular-Ignite",
@@ -11217,7 +11562,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio Quadra": {
       "pb_url": "/product/1-Instruments/4-Synth/8402-Quadra",
@@ -11225,7 +11577,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio Polymode": {
       "pb_url": "/product/1-Instruments/4-Synth/7310-Polymode",
@@ -11233,7 +11592,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio Eight Voice": {
       "pb_url": "/product/1-Instruments/4-Synth/7433-Eight-Voice",
@@ -11241,7 +11607,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio Voltage Modular Nucleus": {
       "pb_url": "/product/1-Instruments/4-Synth/5594-Voltage-Modular-Nucleus",
@@ -11257,7 +11630,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio CR 78 Drum Machine": {
       "pb_url": "/product/1-Instruments/7-Drum-Machine/11908-CR-78-Drum-Machine",
@@ -11265,7 +11645,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio PS 3300": {
       "pb_url": "/product/1-Instruments/4-Synth/11377-PS-3300",
@@ -11273,7 +11660,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio Pro Soloist": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/11669-Pro-Soloist",
@@ -11281,7 +11675,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio Novachord Solovox": {
       "pb_url": "/product/1-Instruments/4-Synth/10582-Novachord-Solovox",
@@ -11289,7 +11690,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio Dreamsynth": {
       "pb_url": "/product/1-Instruments/4-Synth/8856-Dreamsynth",
@@ -11297,7 +11705,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio CA2600 Synthesizer": {
       "pb_url": "/product/1-Instruments/4-Synth/7033-CA2600-Synthesizer",
@@ -11305,7 +11720,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio Surrealistic MG 1 Plus Synthesizer": {
       "pb_url": "/product/1-Instruments/4-Synth/7117-Surrealistic-MG-1-Plus-Synthesizer",
@@ -11321,7 +11743,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio Sines Synthesizer": {
       "pb_url": "/product/1-Instruments/4-Synth/9727-Sines-Synthesizer",
@@ -11329,7 +11758,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio Lowdown": {
       "pb_url": "/product/1-Instruments/4-Synth/9098-Lowdown",
@@ -11337,7 +11773,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio Galactic Reverb": {
       "pb_url": "/product/2-Effects/17-Reverb/9260-Galactic-Reverb",
@@ -11345,7 +11788,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio Mercury 6": {
       "pb_url": "/product/1-Instruments/4-Synth/10332-Mercury-6",
@@ -11353,7 +11803,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Cherry Audio Wurlybird 140B": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/12636-Wurlybird-140B",
@@ -11361,7 +11818,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "XLN Audio DB 30 Drum Butter": {
       "pb_url": "/product/2-Effects/13-Drum-FX/17009-DB-30-Drum-Butter",
@@ -11369,7 +11833,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "XLN Audio DS 10 Drum Shaper": {
       "pb_url": "/product/2-Effects/36-Transient-Shaper/1812-DS-10-Drum-Shaper",
@@ -11377,7 +11848,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Minimal Audio Cluster Delay": {
       "pb_url": "/product/2-Effects/10-Delay/10273-Cluster-Delay",
@@ -11385,7 +11863,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": 49.0,
+          "sale": 29.0,
+          "source": "auto_check"
+        }
+      ]
     },
     "Minimal Audio Ripple Phaser": {
       "pb_url": "/product/2-Effects/29-Phaser/12710-Ripple-Phaser",
@@ -11393,7 +11878,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": 49.0,
+          "sale": 29.0,
+          "source": "auto_check"
+        }
+      ]
     },
     "Minimal Audio Wave Shifter": {
       "pb_url": "/product/2-Effects/28-Frequency-Shifter/14370-Wave-Shifter",
@@ -11401,7 +11893,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": 49.0,
+          "sale": 29.0,
+          "source": "auto_check"
+        }
+      ]
     },
     "Minimal Audio Poly Flanger": {
       "pb_url": "/product/2-Effects/12-Flanger/16880-Poly-Flanger",
@@ -11409,7 +11908,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": 49.0,
+          "sale": 29.0,
+          "source": "auto_check"
+        }
+      ]
     },
     "Minimal Audio Rift Filter Lite": {
       "pb_url": "/product/2-Effects/19-Filter/7806-Rift-Filter-Lite",
@@ -11417,7 +11923,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Minimal Audio Current 2 0": {
       "pb_url": "/product/1-Instruments/4-Synth/11770-Current-2-0",
@@ -11425,7 +11938,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Minimal Audio Swarm Reverb": {
       "pb_url": "/product/2-Effects/17-Reverb/11826-Swarm-Reverb",
@@ -11433,7 +11953,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Minimal Audio Hybrid Filter": {
       "pb_url": "/product/2-Effects/19-Filter/11829-Hybrid-Filter",
@@ -11441,7 +11968,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Minimal Audio Rift Feedback Lite": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/8537-Rift-Feedback-Lite",
@@ -11457,7 +11991,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Minimal Audio Formant": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/15630-Formant",
@@ -11473,7 +12014,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Minimal Audio Flex Chorus": {
       "pb_url": "/product/2-Effects/11-Chorus/12037-Flex-Chorus",
@@ -11481,7 +12029,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     },
     "Minimal Audio Squash": {
       "pb_url": "/product/2-Effects/8-Compressor/14398-Squash",
@@ -11497,7 +12052,14 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [
+        {
+          "date": "2026-07-18",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check"
+        }
+      ]
     }
   }
 }

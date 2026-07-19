@@ -198,11 +198,21 @@ const moreFreshDeals = allPosts
 												{post.data.originalPrice && <s>{post.data.originalPrice}</s>}
 												{post.data.discount && <span class="discount-chip">{post.data.discount}</span>}
 											</div>
-											{score && score.verdict !== 'none' && (() => {
-												const onSale = !!(post.data.dealPrice && post.data.originalPrice);
-												const label = fableVerdictLabel(score.verdict, onSale);
-												const chipCls = score.verdict === 'good' ? 'vchip-buy' : score.verdict === 'ok' ? 'vchip-fair' : 'vchip-avg';
-												return <span class={`verdict-chip-card ${chipCls}`}>{label}</span>;
+											{(() => {
+												let label: string | null = null;
+												let chipCls = 'vchip-avg';
+												if (score && score.verdict !== 'none') {
+													const onSale = !!(post.data.dealPrice && post.data.originalPrice);
+													label = fableVerdictLabel(score.verdict, onSale);
+													chipCls = score.verdict === 'good' ? 'vchip-buy' : score.verdict === 'ok' ? 'vchip-fair' : 'vchip-avg';
+												} else if (post.data.discount) {
+													const m = (post.data.discount as string).match(/(\d+)/);
+													const pct = m ? parseInt(m[1]) : 0;
+													if (pct >= 35) { label = 'BUY NOW'; chipCls = 'vchip-buy'; }
+													else if (pct >= 20) { label = 'FAIR SALE'; chipCls = 'vchip-fair'; }
+													else if (pct > 0) { label = 'AVERAGE'; chipCls = 'vchip-avg'; }
+												}
+												return label ? <span class={`verdict-chip-card ${chipCls}`}>{label}</span> : null;
 											})()}
 											{post.data.affiliate && <span class="deal-store">{getStoreName(post.data.affiliate)}</span>}
 										</div>
