@@ -69,6 +69,13 @@
     "score": 8,
     "source": "yt_api_fill"
   },
+  "BFD 3.5": {
+    "video_id": "-1l8q0ZXyXE",
+    "title": "BFD 3.5 Virtual Drum Software | Overview",
+    "channel": "bfddrums",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Baby Audio Comeback Kid": {
     "video_id": "I7cDWJgrZfw",
     "title": "BABY AUDIO COMEBACK KID Delay Plugin | Tutorial & Demonstration",
@@ -160,6 +167,13 @@
     "score": 8,
     "source": "article_embed"
   },
+  "Cherry Audio CR 78 Drum Machine": {
+    "video_id": "QsDzYwxZTW4",
+    "title": "Introduction to Cherry Audio's CR-78 Drum Machine",
+    "channel": "Cherry Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Cherry Audio DCO 106": {
     "video_id": "QPzn3kkHcI0",
     "title": "Cherry Audio | DCO-106",
@@ -174,9 +188,23 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "Cherry Audio Dreamsynth": {
+    "video_id": "aRycGp5Y664",
+    "title": "Dreamsynth | Cherry Audio",
+    "channel": "Cherry Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Cherry Audio Eight Voice": {
     "video_id": "XpK5utIhIqQ",
     "title": "Cherry Audio | Eight Voice",
+    "channel": "Cherry Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Cherry Audio Elka X": {
+    "video_id": "6qJgP9j5w-w",
+    "title": "Introduction to Cherry Audio Elka-X Part 1 - Hosted by Tim Shoebridge",
     "channel": "Cherry Audio",
     "score": 11,
     "source": "yt_api_fill"
@@ -195,11 +223,32 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "Cherry Audio Galactic Reverb": {
+    "video_id": "PBu3YhjAw_Y",
+    "title": "Galactic Reverb | Cherry Audio",
+    "channel": "Cherry Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Cherry Audio Lowdown": {
+    "video_id": "RgfAmRS0JhU",
+    "title": "Lowdown Bass Synthesizer | Cherry Audio",
+    "channel": "Cherry Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Cherry Audio Memorymode": {
     "video_id": "mhPPjNnBjdY",
     "title": "Memorymode - Huston Singletary Preset Demo #1 | Cherry Audio",
     "channel": "Cherry Audio",
     "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Cherry Audio Mercury 6": {
+    "video_id": "hITUSxFsj48",
+    "title": "Mercury-6 | Cherry Audio",
+    "channel": "Cherry Audio",
+    "score": 10,
     "source": "yt_api_fill"
   },
   "Cherry Audio Mercury 8": {
@@ -223,6 +272,20 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "Cherry Audio Novachord Solovox": {
+    "video_id": "rb4MZRFoR28",
+    "title": "Novachord + Solovox | Cherry Audio",
+    "channel": "Cherry Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Cherry Audio PS 3300": {
+    "video_id": "CYTBOs_fOV0",
+    "title": "Cherry Audio PS-3300 Patching Techniques - Hosted by Tim Shoebridge",
+    "channel": "Cherry Audio",
+    "score": 13,
+    "source": "yt_api_fill"
+  },
   "Cherry Audio PS-20": {
     "video_id": "Dh4hO7s1muQ",
     "title": "Cherry Audio | PS-20",
@@ -237,9 +300,23 @@
     "score": 11,
     "source": "yt_api_fill"
   },
+  "Cherry Audio Pro Soloist": {
+    "video_id": "MDrOCXraGmM",
+    "title": "Introduction to Cherry Audio's Pro Soloist - Hosted by Tim Shoebridge",
+    "channel": "Cherry Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Cherry Audio Quadra": {
     "video_id": "Ua0qEDpQig8",
     "title": "Cherry Audio Quadra | Getting Started",
+    "channel": "Cherry Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Cherry Audio Sines Synthesizer": {
+    "video_id": "a_n_awi5ad0",
+    "title": "Introduction to Cherry Audio Sines Synthesizer with Tim Shoebridge",
     "channel": "Cherry Audio",
     "score": 11,
     "source": "yt_api_fill"
@@ -248,6 +325,20 @@
     "video_id": "0UTyTmpiOF8",
     "title": "Cherry Audio Stardust 201 Tape Echo ~ Demo (no talking)",
     "channel": "SyncroMoose",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Cherry Audio Surrealistic MG 1 Plus Synthesizer": {
+    "video_id": "ancycEaaBeE",
+    "title": "Free VST - Cherry Audio Surrealistic MG-1 Plus Synthesizer",
+    "channel": "HRS Courses",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
+  "Cherry Audio Wurlybird 140B": {
+    "video_id": "gkuUwfeQDKA",
+    "title": "Wurlybird 140B Electric Piano | Cherry Audio",
+    "channel": "Cherry Audio",
     "score": 10,
     "source": "yt_api_fill"
   },
@@ -867,11 +958,25 @@
     "score": 8,
     "source": "yt_api_fill"
   },
+  "Prophet~5": {
+    "video_id": "33CJhKTGWn8",
+    "title": "Sequential Circuits Prophet 5 Demo",
+    "channel": "Perfect Circuit",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "SSL Native X-Comp": {
     "video_id": "PMB0_DnCbKI",
     "title": "SSL Native X-Comp - Audio Examples",
     "channel": "Solid State Logic",
     "score": 11,
+    "source": "yt_api_fill"
+  },
+  "SSL Native X-EQ 2": {
+    "video_id": "mcvviG5J12o",
+    "title": "SSL Native X-EQ 2  Feature Overview",
+    "channel": "Solid State Logic",
+    "score": 14,
     "source": "yt_api_fill"
   },
   "Serum 2": {
@@ -1427,12 +1532,33 @@
     "score": 11,
     "source": "yt_api_fill"
   },
+  "Weiss MM-1": {
+    "video_id": "r6SKWKPPkBg",
+    "title": "Softube - Weiss MM-1 Mastering Maximizer (Demo)",
+    "channel": "Jack Wryder",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "XLN Audio DB 30 Drum Butter": {
+    "video_id": "eEn6Vksq-9M",
+    "title": "XLN Audio DB-30 DRUM BUTTER | Extreme | Sounds Like This (No Talking)",
+    "channel": "Sounds Like This",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "XLN Audio RC-20 Retro Color": {
     "video_id": "tba_KPAzDvk",
     "title": "ローファイ・サウンドの決定版 XLN Audio RC-20 Retro Color を1分で解説",
     "channel": "High Resolution co.,ltd.  ハイ・リゾリューション",
     "score": 7,
     "source": "article_embed"
+  },
+  "XV-5080": {
+    "video_id": "qoawaFG6Q_g",
+    "title": "XV-5080 • Roland Cloud • 36 Selected Factory Presets • All Categories • VST Sounds Patches Demo",
+    "channel": "SOUNDS & PRESETS",
+    "score": 8,
+    "source": "yt_api_fill"
   },
   "Xpand!2": {
     "video_id": "zwkOTkFc1yA",

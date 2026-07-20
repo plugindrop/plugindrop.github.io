@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "bundles": {
     "FabFilter Total Bundle": {
       "pb_url": "/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle",
@@ -3127,6 +3127,12 @@
         },
         {
           "date": "2026-07-19",
+          "sale": 65.0,
+          "regular": 264.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
           "sale": 65.0,
           "regular": 264.0,
           "source": "pb_deals_poll"
@@ -6726,6 +6732,12 @@
           "sale": 10.0,
           "regular": 69.0,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 10.0,
+          "regular": 69.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -7990,6 +8002,12 @@
           "sale": 39.0,
           "regular": 156.0,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 39.0,
+          "regular": 156.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -9104,6 +9122,12 @@
           "sale": 39.0,
           "regular": 156.0,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 39.0,
+          "regular": 156.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -9258,6 +9282,12 @@
           "regular": 99.99,
           "sale": 49.99,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 49.99,
+          "regular": 99.99,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -9416,6 +9446,12 @@
           "sale": 9.0,
           "regular": 119.0,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 9.0,
+          "regular": 119.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -9477,6 +9513,12 @@
         },
         {
           "date": "2026-07-19",
+          "sale": 269.0,
+          "regular": 738.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
           "sale": 269.0,
           "regular": 738.0,
           "source": "pb_deals_poll"
@@ -9568,6 +9610,12 @@
           "regular": 738.0,
           "sale": 369.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 369.0,
+          "regular": 738.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -9629,6 +9677,12 @@
         },
         {
           "date": "2026-07-19",
+          "sale": 29.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
           "sale": 29.0,
           "regular": 99.0,
           "source": "pb_deals_poll"
@@ -9720,6 +9774,12 @@
           "regular": 399.0,
           "sale": 199.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 199.0,
+          "regular": 399.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -9866,6 +9926,12 @@
           "regular": 89.0,
           "sale": 49.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 49.0,
+          "regular": 89.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -9927,6 +9993,12 @@
         },
         {
           "date": "2026-07-19",
+          "sale": 9.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
           "sale": 9.0,
           "regular": 129.0,
           "source": "pb_deals_poll"
@@ -9994,6 +10066,12 @@
           "sale": 32.0,
           "regular": 134.0,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 32.0,
+          "regular": 134.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -10055,6 +10133,12 @@
         },
         {
           "date": "2026-07-19",
+          "sale": 199.99,
+          "regular": 599.99,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
           "sale": 199.99,
           "regular": 599.99,
           "source": "pb_deals_poll"
@@ -10156,6 +10240,12 @@
           "sale": 9.0,
           "regular": 129.0,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 9.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -10238,6 +10328,12 @@
           "regular": 299.0,
           "sale": null,
           "source": "wayback"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 39.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -10299,6 +10395,12 @@
         },
         {
           "date": "2026-07-19",
+          "sale": 65.0,
+          "regular": 264.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
           "sale": 65.0,
           "regular": 264.0,
           "source": "pb_deals_poll"
@@ -12641,7 +12743,7 @@
       "pb_url": "/product/2-Effects/16-EQ/8665-SSL-Native-X-EQ-2",
       "typical_regular": 149.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 15.0,
       "notes": "auto-crawl 2026-07-19",
       "category": null,
       "history": [
@@ -12650,6 +12752,18 @@
           "regular": 149.0,
           "sale": 15.0,
           "source": "pb_crawl"
+        },
+        {
+          "date": "2026-07-19",
+          "sale": 15.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 15.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -12657,7 +12771,7 @@
       "pb_url": "/product/2-Effects/53-Multi-Effect-/5900-Super-VHS",
       "typical_regular": 69.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 10.0,
       "notes": "auto-crawl 2026-07-19",
       "category": null,
       "history": [
@@ -12666,6 +12780,18 @@
           "regular": 69.0,
           "sale": 10.0,
           "source": "pb_crawl"
+        },
+        {
+          "date": "2026-07-19",
+          "sale": 10.0,
+          "regular": 69.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 10.0,
+          "regular": 69.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -12673,7 +12799,7 @@
       "pb_url": "/product/2-Effects/10-Delay/10200-Zen-Delay-Virtual",
       "typical_regular": 89.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 14.99,
       "notes": "auto-crawl 2026-07-19",
       "category": null,
       "history": [
@@ -12682,6 +12808,18 @@
           "regular": 89.0,
           "sale": 14.99,
           "source": "pb_crawl"
+        },
+        {
+          "date": "2026-07-19",
+          "sale": 14.99,
+          "regular": 89.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 14.99,
+          "regular": 89.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -12689,7 +12827,7 @@
       "pb_url": "/product/1-Instruments/4-Synth/15268-JV-1080",
       "typical_regular": 129.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 69.0,
       "notes": "auto-crawl 2026-07-19",
       "category": null,
       "history": [
@@ -12704,6 +12842,18 @@
           "regular": 129.0,
           "sale": 69.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-19",
+          "sale": 69.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 69.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -12711,7 +12861,7 @@
       "pb_url": "/product/1-Instruments/4-Synth/15297-XV-5080",
       "typical_regular": 129.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 69.0,
       "notes": "auto-crawl 2026-07-19",
       "category": null,
       "history": [
@@ -12726,6 +12876,18 @@
           "regular": 129.0,
           "sale": 69.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-19",
+          "sale": 69.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 69.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -12733,7 +12895,7 @@
       "pb_url": "/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3",
       "typical_regular": 99.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 79.0,
       "notes": "auto-crawl 2026-07-19",
       "category": null,
       "history": [
@@ -12748,6 +12910,18 @@
           "regular": 99.0,
           "sale": 79.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-19",
+          "sale": 79.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 79.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -12755,7 +12929,7 @@
       "pb_url": "/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro",
       "typical_regular": 99.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 79.0,
       "notes": "auto-crawl 2026-07-19",
       "category": null,
       "history": [
@@ -12770,6 +12944,18 @@
           "regular": 99.0,
           "sale": 79.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-19",
+          "sale": 79.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 79.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -12777,7 +12963,7 @@
       "pb_url": "/product/1-Instruments/4-Synth/17444-Prophet-5",
       "typical_regular": 119.99,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 83.99,
       "notes": "auto-crawl 2026-07-19",
       "category": null,
       "history": [
@@ -12792,6 +12978,18 @@
           "regular": 119.99,
           "sale": 83.99,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-19",
+          "sale": 83.99,
+          "regular": 119.99,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 83.99,
+          "regular": 119.99,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -12799,7 +12997,7 @@
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/6257-ROYAL-2",
       "typical_regular": 119.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 9.0,
       "notes": "auto-crawl 2026-07-19",
       "category": null,
       "history": [
@@ -12808,6 +13006,18 @@
           "regular": 119.0,
           "sale": 9.0,
           "source": "pb_crawl"
+        },
+        {
+          "date": "2026-07-19",
+          "sale": 9.0,
+          "regular": 119.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 9.0,
+          "regular": 119.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -12815,7 +13025,7 @@
       "pb_url": "/product/2-Effects/18-Amp-Simulator/12444-AmpliTube-5-MAX-v2",
       "typical_regular": 299.99,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 99.99,
       "notes": "auto-crawl 2026-07-19",
       "category": null,
       "history": [
@@ -12824,6 +13034,18 @@
           "regular": 299.99,
           "sale": 99.99,
           "source": "pb_crawl"
+        },
+        {
+          "date": "2026-07-19",
+          "sale": 99.99,
+          "regular": 299.99,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-07-20",
+          "sale": 99.99,
+          "regular": 299.99,
+          "source": "pb_deals_poll"
         }
       ]
     },
