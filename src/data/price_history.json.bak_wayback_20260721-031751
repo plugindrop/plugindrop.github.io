@@ -10835,48 +10835,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2024-04-17",
-          "regular": 31.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-08-06",
-          "regular": 31.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-09-05",
-          "regular": 31.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-01-26",
-          "regular": 19.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-02-08",
-          "regular": 31.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-30",
-          "regular": 31.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-06-04",
-          "regular": 31.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
