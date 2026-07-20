@@ -158,6 +158,12 @@ function fableVerdictLabel(e: EntryData): 'BUY NOW' | 'FAIR SALE' | 'AVERAGE' | 
   return 'WAIT';
 }
 const fableVerdict = fableVerdictLabel(entry);
+const verdictIsNone = dealScore.verdict === 'none';
+const showVerdictAlert = fableVerdict === 'WAIT' || verdictIsNone;
+const alertTargetPrice = entry.history.length >= 2 ? entry.typical_sale : entry.all_time_low;
+const alertLabel = alertTargetPrice !== null
+  ? `Set alert — under $${alertTargetPrice}`
+  : 'Alert me if it ever drops';
 
 // Deterministic copy sentence (Fable §1-4)
 function buildVerdictCopy(e: EntryData, vLabel: string): string {
@@ -519,22 +525,53 @@ const faqLD = {
         border-radius: var(--radius); padding: 1rem 1.25rem; margin-bottom: 1.75rem;
       }
       /* Fable v4 verdict colors */
-      .verdict-banner { border-radius: var(--radius); padding: 1.25rem 1.5rem; margin-bottom: 1.75rem; border-left: 4px solid; }
+      .verdict-banner {
+        display: grid;
+        grid-template-columns: 176px minmax(0, 1fr);
+        gap: 0.75rem 1.5rem;
+        align-items: center;
+        border-radius: var(--radius);
+        padding: 1.25rem 1.5rem;
+        margin-bottom: 1.75rem;
+        border-left: 4px solid;
+      }
+      .verdict-banner.has-alert { grid-template-columns: 176px minmax(0, 1fr) auto; }
       .verdict-banner.buy-now  { border-color: #4ade80; background: rgba(74,222,128,0.07); }
       .verdict-banner.fair-sale{ border-color: #facc15; background: rgba(250,204,21,0.07); }
       .verdict-banner.average  { border-color: var(--border); background: var(--bg-card); }
       .verdict-banner.wait     { border-color: #60a5fa; background: rgba(96,165,250,0.07); }
+      .verdict-answer {
+        min-width: 0;
+        padding-right: 1.5rem;
+        border-right: 1px solid var(--border);
+      }
       .verdict-chip-large {
-        display: inline-block; font-size: 0.72rem; font-weight: 700; text-transform: uppercase;
-        letter-spacing: 0.08em; padding: 0.2rem 0.6rem; border-radius: 4px;
-        border: 1px solid currentColor; background: color-mix(in srgb, currentColor 12%, transparent);
-        margin-bottom: 0.5rem;
+        display: block; font-size: 1.625rem; font-weight: 600; text-transform: uppercase;
+        letter-spacing: 0.05em; line-height: 1; margin: 0;
       }
       .verdict-chip-large.buy-now  { color: #4ade80; }
       .verdict-chip-large.fair-sale{ color: #facc15; }
       .verdict-chip-large.average  { color: var(--text-muted); }
       .verdict-chip-large.wait     { color: #60a5fa; }
-      .verdict-copy { color: var(--text-secondary); font-size: 0.92rem; line-height: 1.55; margin: 0.35rem 0 0; }
+      .verdict-score {
+        display: block; margin-top: 0.5rem; color: var(--text-muted);
+        font-family: var(--font-mono); font-size: 0.82rem;
+      }
+      .verdict-copy { color: var(--text-secondary); font-size: 0.92rem; line-height: 1.55; margin: 0; }
+      .verdict-alert-cta {
+        justify-self: end;
+        border: 1px solid var(--accent);
+        border-radius: 8px;
+        background: color-mix(in srgb, var(--accent) 10%, transparent);
+        color: var(--accent);
+        cursor: pointer;
+        font-size: 0.9rem;
+        font-weight: 700;
+        padding: 0.75rem 1rem;
+        white-space: nowrap;
+        transition: background 0.15s, color 0.15s;
+      }
+      .verdict-alert-cta:hover { background: color-mix(in srgb, var(--accent) 18%, transparent); }
       .verdict-icon { flex-shrink: 0; font-size: 1.1rem; line-height: 1.4; }
       .verdict-label {
         font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.08em;
@@ -772,10 +809,12 @@ const faqLD = {
       @media (max-width: 640px) {
         .verdict-banner {
           padding: 0.75rem 1rem;
-          flex-direction: column;
-          align-items: flex-start;
+          grid-template-columns: minmax(0, 1fr);
           gap: 0.5rem;
         }
+        .verdict-banner.has-alert { grid-template-columns: minmax(0, 1fr); }
+        .verdict-answer { padding-right: 0; border-right: 0; }
+        .verdict-alert-cta { display: none; }
         .verdict-copy { font-size: 0.82rem; }
         .price-row {
           flex-wrap: wrap;
@@ -809,7 +848,7 @@ const faqLD = {
         h1 { font-size: clamp(1.4rem, 5vw, 1.8rem); }
         .chart-card { padding: 0.75rem; }
         .alt-grid { grid-template-columns: 1fr; }
-        .verdict-chip-large { font-size: 0.7rem; }
+        .verdict-chip-large { font-size: 1.375rem; }
       }
 
       @media (max-width: 480px) {
@@ -854,10 +893,24 @@ const faqLD = {
         {(() => {
           const cls = fableVerdict === 'BUY NOW' ? 'buy-now' : fableVerdict === 'FAIR SALE' ? 'fair-sale' : fableVerdict === 'AVERAGE' ? 'average' : 'wait';
           return (
-            <div class={`verdict-banner ${cls}`}>
-              <span class={`verdict-chip-large ${cls}`}>{fableVerdict}</span>
+            <section class={`verdict-banner ${cls}${showVerdictAlert ? ' has-alert' : ''}`} aria-labelledby="verdict-word">
+              <div class="verdict-answer">
+                <span id="verdict-word" class={`verdict-chip-large ${cls}`}>{fableVerdict}</span>
+                <span class="verdict-score">{dealScore.score} / 100</span>
+              </div>
               <p class="verdict-copy">{verdictCopy}</p>
-            </div>
+              {showVerdictAlert && (
+                <button
+                  type="button"
+                  class="verdict-alert-cta"
+                  id="verdict-watch-toggle-btn"
+                  aria-controls="watch-form"
+                  aria-expanded="false"
+                >
+                  {alertLabel}
+                </button>
+              )}
+            </section>
           );
         })()}
 
@@ -871,7 +924,15 @@ const faqLD = {
             Check price at Plugin Boutique
           </a>
           <div class="watch-alert-wrap" id="watch-alert-wrap">
-            <button type="button" class="cta-secondary" id="watch-toggle-btn">Alert me when it drops</button>
+            <button
+              type="button"
+              class="cta-secondary"
+              id="watch-toggle-btn"
+              aria-controls="watch-form"
+              aria-expanded="false"
+            >
+              {fableVerdict === 'WAIT' ? alertLabel : 'Alert me when it drops'}
+            </button>
             <form id="watch-form" class="watch-form" style="display:none" data-plugin={slug}>
               <input
                 type="email"
@@ -1197,15 +1258,24 @@ const faqLD = {
         const wrap = document.getElementById('watch-alert-wrap');
         if (!wrap) return;
         const toggleBtn = document.getElementById('watch-toggle-btn');
+        const bannerToggleBtn = document.getElementById('verdict-watch-toggle-btn');
         const form = document.getElementById('watch-form');
         const input = document.getElementById('watch-email-input');
         const msg = document.getElementById('watch-msg');
 
-        toggleBtn.addEventListener('click', () => {
+        const openWatchForm = () => {
           toggleBtn.style.display = 'none';
+          toggleBtn.setAttribute('aria-expanded', 'true');
+          if (bannerToggleBtn) {
+            bannerToggleBtn.style.display = 'none';
+            bannerToggleBtn.setAttribute('aria-expanded', 'true');
+          }
           form.style.display = 'flex';
           input.focus();
-        });
+        };
+
+        toggleBtn.addEventListener('click', openWatchForm);
+        bannerToggleBtn?.addEventListener('click', openWatchForm);
 
         form.addEventListener('submit', async (e) => {
           e.preventDefault();
