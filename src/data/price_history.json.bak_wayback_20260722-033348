@@ -11320,48 +11320,6 @@
           "regular": 199.0,
           "sale": 39.0,
           "source": "auto_check"
-        },
-        {
-          "date": "2024-07-25",
-          "regular": 43.4,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-08-11",
-          "regular": 41.65,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-09-20",
-          "regular": 104.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-11-07",
-          "regular": 190.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-12-09",
-          "regular": 39.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-04-07",
-          "regular": 349.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-06-16",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -11383,42 +11341,6 @@
           "regular": 199.0,
           "sale": 99.0,
           "source": "auto_check"
-        },
-        {
-          "date": "2024-10-09",
-          "regular": 215.19,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-11-02",
-          "regular": 226.04,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-12-17",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-01-26",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-05",
-          "regular": 199.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-04-08",
-          "regular": 399.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
