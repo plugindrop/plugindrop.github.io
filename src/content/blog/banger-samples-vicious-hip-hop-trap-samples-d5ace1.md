@@ -10,7 +10,7 @@ dealPrice: "$11.4"
 originalPrice: "$19"
 discount: "40% OFF"
 xText: "40% off vicious hip hop samples — lowest i've seen this pack priced. trap drums sit in a mix different when you've got the right samples. worth the move if you're serious about your sound."
-draft: false
+draft: true
 ---
 **TL;DR:** ADSR Sounds has Banger Samples' *Vicious Hip Hop Trap Samples* pack marked down to **$11.4** from ~~$19~~ — a 40% discount on a ready-to-use trap sample collection. If you're stocking up on trap loops and one-shots for beat-making, this is a straightforward way to grab extra content at a lower cost. [Grab the deal at ADSR Sounds](https://www.adsrsounds.com/product/presets/banger-samples-vicious-hip-hop-trap-samples/?a_aid=plugindrop&data1=banger-samples-vicious-hip-hop-trap-samples-d5ace1&utm_source=plugindrop&utm_medium=article&utm_campaign=banger-samples-vicious-hip-hop-trap-samples-d5ace1).
 
