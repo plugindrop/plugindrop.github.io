@@ -11,7 +11,7 @@ dealPrice: "$79.00"
 originalPrice: "$99.00"
 discount: "20% OFF"
 xText: "synth v studio 2 pro just launched at 20% off. if you do vocal synths you already know why that's the move. window doesn't stay open long"
-draft: false
+draft: true
 ---
 If you only need one AI vocal synthesizer this year, Synthesizer V Studio 2 Pro is the one to check out — Dreamtonics' flagship is currently 20% off at Plugin Boutique.
 

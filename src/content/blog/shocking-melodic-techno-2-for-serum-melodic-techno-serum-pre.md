@@ -11,7 +11,7 @@ dealPrice: "$8.39"
 originalPrice: "$13.99"
 discount: "40% OFF"
 xText: "40% off shocking melodic techno 2 for serum, full midi bundled. lowest it's gone. absolute sleeper deal if you're working on melodic techno."
-draft: false
+draft: true
 ---
 **TL;DR:** Vandalism's *Shocking Melodic Techno 2 For Serum* is currently **40% off** at ADSR Sounds — drop from ~~$13.99~~ to **$8.39**. That's a full melodic techno preset and MIDI bundle for under $9. [Grab it at ADSR Sounds before the price resets.](https://www.adsrsounds.com/product/presets/vandalism-shocking-melodic-techno-2-for-serum/?a_aid=plugindrop&data1=shocking-melodic-techno-2-for-serum-melodic-techno-serum-pre&utm_source=plugindrop&utm_medium=article&utm_campaign=shocking-melodic-techno-2-for-serum-melodic-techno-serum-pre)
 

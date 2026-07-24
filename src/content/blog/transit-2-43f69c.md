@@ -11,7 +11,7 @@ dealPrice: "$79.00"
 originalPrice: "$129.00"
 discount: "39% OFF"
 xText: "39% off a new plugin is the signal. transit 2 just dropped and this early pricing won't last. new releases almost never start this discounted"
-draft: false
+draft: true
 ---
 If you only add one transition-effects plugin to your template this year, make it Transit 2 while it's discounted — Plugin Boutique has it at 39% off, and that's the kind of markdown worth acting on rather than bookmarking.
 

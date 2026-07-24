@@ -11,7 +11,7 @@ dealPrice: "$10.19"
 originalPrice: "$16.99"
 discount: "40% OFF"
 xText: "40% off dark drill kits that don't need heavy processing to sit right? project blvck's new relentless is honestly the best pricing i've seen on something like this."
-draft: false
+draft: true
 ---
 **TL;DR:** Relentless Dark Drill Construction Kits by Project Blvck is 40% off at ADSR Sounds right now — ~~$16.99~~ down to **$10.19**. That's a solid discount on a purpose-built drill pack, and at this price it's hard to argue with. [Grab the deal at ADSR Sounds.](https://www.adsrsounds.com/product/presets/relentless-dark-drill-construction-kits-by-project-blvck/?a_aid=plugindrop&data1=relentless-dark-drill-construction-kits-by-project-blvck&utm_source=plugindrop&utm_medium=article&utm_campaign=relentless-dark-drill-construction-kits-by-project-blvck)
 

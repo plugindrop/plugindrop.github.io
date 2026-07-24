@@ -11,7 +11,7 @@ dealPrice: "$14.4"
 originalPrice: "$24"
 discount: "40% OFF"
 xText: "40% off keta serum rave presets – these actually sit in a mix like butter instead of competing. worth it if you're doing hardcore"
-draft: false
+draft: true
 ---
 **TL;DR:** Ghosthack Audio's *Keta* rave and hardcore preset pack for Serum 2 is currently **40% off** at ADSR Sounds — down from ~~$24~~ to **$14.40**. That's under $15 for a genre-specific library built directly for Serum 2's synthesis engine. [Grab it at ADSR Sounds](https://www.adsrsounds.com/product/presets/ghosthack-audio-keta-rave-presets-for-serum-2/?a_aid=plugindrop&data1=keta-rave-presets-for-serum-2-high-energy-rave-amp-hardcore-&utm_source=plugindrop&utm_medium=article&utm_campaign=keta-rave-presets-for-serum-2-high-energy-rave-amp-hardcore-) before the price resets.
 
