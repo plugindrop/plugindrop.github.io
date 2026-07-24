@@ -2,6 +2,7 @@
 title: "20% Off Synthesizer V Studio 2 Pro — AI Vocal Synthesis ($79)"
 description: "Synthesizer V Studio 2 Pro is down to **$79** from ~~$99~~ at Plugin Boutique, a 20% discount ($20 off). It's an AI-driven vocal synthesis application for..."
 pubDate: "2026-07-16T18:19:41Z"
+saleExpiry: "2026-07-24"
 tags: ["sale", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthesizer-v-studio-2-pro-15dca3"
 heroImage: "/images/synthesizer-v-studio-2-pro-15dca3.jpg"

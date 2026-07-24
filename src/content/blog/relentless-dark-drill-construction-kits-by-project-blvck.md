@@ -2,6 +2,7 @@
 title: "40% Off Relentless Dark Drill Construction Kits By Project Blvck"
 description: "Relentless Dark Drill Construction Kits by Project Blvck is 40% off at ADSR Sounds right now — ~~$16.99~~ down to **$10.19**. That's a solid discount on a..."
 pubDate: "2026-06-16T05:17:56Z"
+saleExpiry: "2026-07-24"
 tags: ["sale", "preset-pack", "sample-pack-deal", "sample-pack", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/relentless-dark-drill-construction-kits-by-project-blvck/?a_aid=plugindrop&data1=relentless-dark-drill-construction-kits-by-project-blvck&utm_source=plugindrop&utm_medium=article&utm_campaign=relentless-dark-drill-construction-kits-by-project-blvck"
 heroImage: "/images/relentless-dark-drill-construction-kits-by-project-blvck.jpg"

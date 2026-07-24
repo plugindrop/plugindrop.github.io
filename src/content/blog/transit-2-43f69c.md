@@ -2,6 +2,7 @@
 title: "39% Off Transit 2"
 description: "Plugin Boutique is running Transit 2 at ~~$129~~ **$79** — a 39% discount. It's a multi-effect plugin built for creating instant transitions, build-ups..."
 pubDate: "2026-07-13T01:52:33Z"
+saleExpiry: "2026-07-24"
 tags: ["sale", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c"
 heroImage: "/images/transit-2-43f69c.jpg"
