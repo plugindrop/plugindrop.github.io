@@ -14865,12 +14865,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2023-12-25",
-          "regular": 25.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -14898,12 +14892,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2023-12-27",
-          "regular": 19.43,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -14931,12 +14919,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2023-12-01",
-          "regular": 48.59,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -14964,12 +14946,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2023-05-21",
-          "regular": 18.84,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -14997,18 +14973,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2023-05-23",
-          "regular": 19.47,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-12-01",
-          "regular": 29.97,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -15225,30 +15189,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2024-06-07",
-          "regular": 108.09,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-08-11",
-          "regular": 149.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-01-14",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-04-23",
-          "regular": 89.25,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
