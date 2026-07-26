@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323"
 heroImage: /images/ssl-g3-multibuscomp-61c323.jpg
 score: 9.36
-draft: false
+draft: true
 converted: true
 ---
 **SSL G3 MultiBusComp** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323)

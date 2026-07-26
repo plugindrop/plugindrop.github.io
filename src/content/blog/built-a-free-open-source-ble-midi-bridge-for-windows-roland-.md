@@ -7,7 +7,7 @@ affiliate: "https://mayerwin.github.io/Perfect-Bluetooth-MIDI-For-Windows/"
 score: 7.35
 dealPrice: "FREE"
 xText: "wireless ble-midi bridge for windows that works. roland, yamaha, korg to daw. it's free. this is what should've shipped three years ago"
-draft: false
+draft: true
 heroImage: "/images/built-a-free-open-source-ble-midi-bridge-for-windows-roland-_og.jpg"
 ---
 **TL;DR:** Perfect Bluetooth MIDI for Windows is a free, open-source BLE-MIDI bridge that routes Bluetooth MIDI devices into a standard DAW-visible port on Windows — solving encryption, protocol, and channel-mapping issues that existing tools miss. No cost, no subscription, no catch. [→ Get Perfect Bluetooth MIDI for Windows at Direct](https://mayerwin.github.io/Perfect-Bluetooth-MIDI-For-Windows/)

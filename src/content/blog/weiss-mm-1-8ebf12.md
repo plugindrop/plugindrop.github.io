@@ -10,7 +10,7 @@ dealPrice: "$69.00"
 originalPrice: "$199.00"
 discount: "65% OFF"
 xText: "weiss mm-1 at 65% off. rare discount on a tool that actually teaches you mixing instead of just adding complexity."
-draft: false
+draft: true
 ---
 **TL;DR:** Weiss MM-1 is on sale at Plugin Boutique for ~~$199~~ $69, a 65% discount on the mastering plugin from Weiss Engineering. Weiss hardware has a long track record in professional mastering rooms, and this plugin puts that processing inside your DAW at a fraction of the hardware cost. [Grab the deal here](https://www.pluginboutique.com/product/2-Effects/50-Mastering-/4181-Weiss-MM-1?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=weiss-mm-1-8ebf12).
 

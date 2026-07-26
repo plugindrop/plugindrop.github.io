@@ -8,7 +8,7 @@ heroImage: "/images/today-s-best-audio-plugin-deals-and-freebies-thursday-june-1
 score: 10.00
 dealPrice: "$0"
 xText: "free plugins live right now and honestly some of these shouldn't be free. go get them"
-draft: false
+draft: true
 ---
 **TL;DR:** W.A. Production's Vocal Splitter is completely free right now — use code **GETWAVS** at checkout and pay nothing. Expiry is unknown, so don't sleep on it. [Grab Vocal Splitter for $0 here.](https://www.waproduction.com/plugins/view/vocal-splitter)
 

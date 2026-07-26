@@ -9,7 +9,7 @@ aiImage: true
 evergreen: true
 score: 8.00
 xText: "New guide: Native Instruments vs Arturia: Which Bundle Is Best in 2026?"
-draft: false
+draft: true
 ---
 **TL;DR:** Komplete 15 is the stronger first purchase for most producers — full Kontakt access alone justifies the price by unlocking the entire third-party sample library market. Arturia V Collection is the specialist pick for vintage analog emulation, where it's genuinely unmatched at the price. These bundles are complementary, not competing; if you have to choose one first, your production focus decides it.
 

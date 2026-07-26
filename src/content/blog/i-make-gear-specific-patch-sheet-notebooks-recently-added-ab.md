@@ -7,7 +7,7 @@ affiliate: "https://www.davidsparks.me/blank-patch-sheets"
 heroImage: "/images/i-make-gear-specific-patch-sheet-notebooks-recently-added-ab.jpg"
 score: 4.61
 xText: "30 new synths just got patch sheet notebooks made for them + covers got a full redesign. if you're documenting patches instead of flying blind, you probably already want this"
-draft: false
+draft: true
 ---
 **TL;DR:** Independent maker DAMAGR just dropped a major update to their gear-specific patch sheet notebook lineup — roughly 30 new synths added, all covers redesigned, and new accessories now available. Verify current pricing on the product page. Browse the full catalog at [davidsparks.me/blank-patch-sheets](https://www.davidsparks.me/blank-patch-sheets).
 

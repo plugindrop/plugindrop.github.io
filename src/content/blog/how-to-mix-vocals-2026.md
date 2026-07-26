@@ -8,7 +8,7 @@ heroImage: "/images/how-to-mix-vocals-2026.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: How to Mix Vocals in 2026: Step-by-Step Plugin Chain"
-draft: false
+draft: true
 ---
 **TL;DR:** Vocal mixing in 2026 comes down to six stages in the right order — pitch correction, EQ, compression, de-essing, saturation, and spatial effects. FabFilter Pro-Q 3 remains the community benchmark for EQ, Waves CLA-76 for fast compression, and Valhalla VintageVerb for reverb. This guide includes free alternatives at every stage that hold up in serious mixes.
 

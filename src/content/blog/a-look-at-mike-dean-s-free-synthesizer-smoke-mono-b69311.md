@@ -8,7 +8,7 @@ heroImage: "/images/a-look-at-mike-dean-s-free-synthesizer-smoke-mono-b69311.jpg
 score: 8.10
 dealPrice: "FREE"
 xText: "mike dean just dropped a free synth that sounds way more expensive than zero dollars. unison mode is the sleeper feature here. go grab it"
-draft: false
+draft: true
 ---
 **TL;DR:** Mike Dean's "Smoke Mono" synthesizer is completely free — no catch, no trial, no paywall. This is a rare chance to add a plugin from one of hip-hop's most influential producers to your rack at zero cost. [Grab it here.](https://www.youtube.com/watch)
 

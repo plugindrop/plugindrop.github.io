@@ -6,7 +6,7 @@ tags: ["review", "soundtoys", "music-production", "bundle"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u&a_aid=69cb95abe1763"
 heroImage: /images/soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u.jpg
 score: 8.16
-draft: false
+draft: true
 converted: true
 ---
 

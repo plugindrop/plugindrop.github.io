@@ -8,7 +8,7 @@ heroImage: "/images/news-ik-multimedia-launches-resing-voices-japanese-pack-for-
 aiImage: true
 score: 6.19
 xText: "resing's japanese pack is what jpop producers have been waiting for—actually models character and tone. this sits different. if you make japanese music, this changes your workflow."
-draft: false
+draft: true
 ---
 **TL;DR:** IK Multimedia has expanded its ReSing vocal modeling platform with a Japan-focused expansion pack featuring 10 dedicated vocal models built for Japanese-language music production. Verify current pricing on the product page — [grab the ReSing Voices Japanese Pack direct from IK Multimedia here](https://www.ikmultimedia.com/products/resing/index.php?utm_source=plugindrop&utm_medium=article&utm_campaign=news-ik-multimedia-launches-resing-voices-japanese-pack-for-).
 

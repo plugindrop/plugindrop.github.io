@@ -9,7 +9,7 @@ score: 8.00
 originalPrice: "$249"
 xText: "New guide: How to Master Music at Home: Step-by-Step with the Best Plug..."
 heroImage: "/images/how-to-master-at-home.jpg"
-draft: false
+draft: true
 priceTrack:
   - "FabFilter Pro-Q 4"
   - "FabFilter Pro-L 2"

@@ -9,7 +9,7 @@ aiImage: true
 score: 9.72
 dealPrice: "FREE"
 xText: "free compressor that sounds like $200 paid software grab goodhertz's LA-210 before everyone figures it out"
-draft: false
+draft: true
 ---
 **TL;DR:** Goodhertz is giving away LA-210 — a compressor/clipper plugin — completely free while it's in beta. No expiry date announced. Grab it at [goodhertz.com/la-210](https://goodhertz.com/la-210/) before the beta window closes.
 

@@ -6,7 +6,7 @@ tags: ["review", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?utm_source=plugindrop&utm_medium=article&utm_campaign=50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30&a_aid=69cb95abe1763"
 heroImage: /images/50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30.jpg
 score: 7.01
-draft: false
+draft: true
 converted: true
 ---
 **ENGL Ampthology Vol 1** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?utm_source=plugindrop&utm_medium=article&utm_campaign=50-off-engl-ampthology-vol-1-at-plugin-boutique-until-the-30&a_aid=69cb95abe1763)

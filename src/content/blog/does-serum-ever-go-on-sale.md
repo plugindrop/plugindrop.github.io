@@ -13,6 +13,7 @@ relatedPosts:
   - "best-synth-vst-plugins-2026"
   - "free-alternative-to-serum-vst"
 heroImage: '/images/when-does-serum-go-on-sale.jpg'
+draft: true
 ---
 
 **Short answer:** Xfer Serum 2 **never goes on sale.** The price has always been **$249** and there are no plans to change that.

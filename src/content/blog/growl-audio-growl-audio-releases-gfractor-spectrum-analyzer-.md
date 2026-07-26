@@ -8,7 +8,7 @@ heroImage: "/images/growl-audio-growl-audio-releases-gfractor-spectrum-analyzer-
 score: 9.00
 dealPrice: "FREE"
 xText: "free spectrum analyzer just dropped and the visual feedback is genuinely useful. zero reason not to grab this now while it's free"
-draft: false
+draft: true
 ---
 **TL;DR:** Growl Audio is giving away gFractor, a spectrum analyzer plugin, completely free — no expiry, no catch. Verify current pricing on the product page. Grab it now at [growl-audio.com](https://growl-audio.com/plugins/gfractor.html).
 

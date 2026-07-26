@@ -7,7 +7,7 @@ tags: ["free", "ai", "free software", "music-production"]
 affiliate: https://artistsindsp.gumroad.com/l/amorph
 heroImage: /images/free-amorph-ai-driven-text-to-dsp-plugin-gets-a-major-visual.jpg
 dealPrice: "FREE"
-draft: false
+draft: true
 score: 1.44
 ---
 

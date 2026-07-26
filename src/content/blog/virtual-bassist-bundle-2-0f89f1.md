@@ -6,7 +6,7 @@ tags: ["review", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-bassist-bundle-2-0f89f1"
 heroImage: /images/virtual-bassist-bundle-2-0f89f1.jpg
 score: 10.00
-draft: false
+draft: true
 converted: true
 ---
 **Virtual Bassist Bundle 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-bassist-bundle-2-0f89f1)

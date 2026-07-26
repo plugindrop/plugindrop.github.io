@@ -8,7 +8,7 @@ heroImage: "/images/spring-into-summer-sale-50-off-autotune-ai-vocal-chain-creat
 score: 5.02
 discount: "50% OFF"
 xText: "you're not seeing autotune this cheap often. 50% off with the ai vocal chain and creative effects joining too. lowest i've seen this bundled"
-draft: false
+draft: true
 ---
 **TL;DR:** Antares Tech is running a Spring Into Summer Sale with 50% off Auto-Tune, their AI Vocal Chain, and Creative Effects products — one of the steepest discounts this brand runs in a year. Verify current pricing on the product page. If you've been sitting on an Auto-Tune purchase, [now is a strong time to move](https://www.antarestech.com/auto-tune-special-offers).
 

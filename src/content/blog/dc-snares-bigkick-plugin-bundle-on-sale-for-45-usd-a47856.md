@@ -6,7 +6,7 @@ tags: ["review", "drums", "excite audio", "music-production", "bundle"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/12750-DC-Snares-BigKick-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-bigkick-plugin-bundle-on-sale-for-45-usd-a47856&a_aid=69cb95abe1763"
 heroImage: /images/dc-snares-bigkick-plugin-bundle-on-sale-for-45-usd-a47856.jpg
 score: 5.57
-draft: false
+draft: true
 converted: true
 ---
 **DC Snares & BigKick plugin bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/12750-DC-Snares-BigKick-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-bigkick-plugin-bundle-on-sale-for-45-usd-a47856&a_aid=69cb95abe1763)

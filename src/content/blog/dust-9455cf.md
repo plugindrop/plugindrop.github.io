@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-productio
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10541-DUST?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dust-9455cf"
 heroImage: /images/dust-9455cf.jpg
 score: 8.70
-draft: false
+draft: true
 converted: true
 ---
 **DUST** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10541-DUST?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dust-9455cf)

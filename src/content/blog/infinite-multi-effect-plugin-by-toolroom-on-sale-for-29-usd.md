@@ -6,7 +6,7 @@ tags: ["review", "mark knight", "multi fx", "toolroom", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/9129-Infinite?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=infinite-multi-effect-plugin-by-toolroom-on-sale-for-29-usd"
 heroImage: /images/infinite-multi-effect-plugin-by-toolroom-on-sale-for-29-usd.jpg
 score: 7.74
-draft: false
+draft: true
 converted: true
 ---
 **Infinite multi-effect plugin** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/9129-Infinite?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=infinite-multi-effect-plugin-by-toolroom-on-sale-for-29-usd)

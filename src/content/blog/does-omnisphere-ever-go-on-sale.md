@@ -12,6 +12,7 @@ relatedPosts:
   - "phase-plant-review"
   - "arturia-v-collection-review"
 heroImage: '/images/when-does-omnisphere-go-on-sale.jpg'
+draft: true
 ---
 
 **Short answer:** Omnisphere 2 **never goes on sale.** The price has always been **$499** and there are no plans to change that.

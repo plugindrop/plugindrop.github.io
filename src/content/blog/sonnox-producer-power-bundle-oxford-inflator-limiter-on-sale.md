@@ -6,7 +6,7 @@ tags: ["review", "compressor and limiter", "sonnox", "bundle", "music-production
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16123-Sonnox-Producer-Power-Bundle-Oxford-Inflator-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale"
 heroImage: /images/sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale.jpg
 score: 10.00
-draft: false
+draft: true
 converted: true
 priceTrack:
   - "FabFilter Pro-L 2"

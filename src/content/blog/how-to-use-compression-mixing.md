@@ -9,7 +9,7 @@ score: 8.00
 originalPrice: "$199"
 xText: "New guide: How to Use Compression Plugins: A Complete Mixing Guide (202..."
 heroImage: "/images/how-to-use-compression-mixing.jpg"
-draft: false
+draft: true
 priceTrack:
   - "FabFilter Pro-C 2"
 ---

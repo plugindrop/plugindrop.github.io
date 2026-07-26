@@ -13,6 +13,7 @@ relatedPosts:
   - "best-eq-plugins-2026"
   - "mastering-chain-plugins"
 heroImage: '/images/when-does-fabfilter-pro-q-4-go-on-sale.jpg'
+draft: true
 ---
 
 **Short answer:** FabFilter Pro-Q 4 goes on sale **3-4 times per year**. The typical discount is **25–48% off**, bringing the $199 regular price down to around **$149**. The best times to buy:

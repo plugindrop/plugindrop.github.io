@@ -7,7 +7,7 @@ tags: ["sale", "effects", "analyzer and monitor", "nugen audio", "surround", "mu
 affiliate: https://www.pluginboutique.com/product/3-Studio-Tools/79-Metering/9680-Halo-Vision?utm_source=plugindrop&utm_medium=article&utm_campaign=nugen-audio-updates-halo-vision-with-new-precision-analysis-&a_aid=69cb95abe1763
 heroImage: /images/nugen-audio-updates-halo-vision-with-new-precision-analysis-.jpg
 dealPrice: "$19.80"
-draft: false
+draft: true
 score: 3.82
 ---
 **TL;DR:** NUGEN Audio has pushed a meaningful update to Halo Vision, adding precision analysis features that sharpen its spatial audio metering workflow. If immersive audio is part of your toolkit and you've been sitting on the fence, this update makes it a stronger buy. [Grab Halo Vision at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/79-Metering/9680-Halo-Vision?utm_source=plugindrop&utm_medium=article&utm_campaign=nugen-audio-updates-halo-vision-with-new-precision-analysis-&a_aid=69cb95abe1763) — check the product page for current pricing.

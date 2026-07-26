@@ -13,6 +13,7 @@ relatedPosts:
   - "best-synth-vst-plugins-2026"
   - "best-vintage-synth-vst-plugins"
 heroImage: '/images/when-does-cherry-audio-mercury-6-go-on-sale.jpg'
+draft: true
 ---
 
 **Short answer:** Cherry Audio Mercury-6 goes on sale **4-5 times per year**. The typical discount is **20–41% off**, bringing the $49 regular price down to around **$39**. The best times to buy:

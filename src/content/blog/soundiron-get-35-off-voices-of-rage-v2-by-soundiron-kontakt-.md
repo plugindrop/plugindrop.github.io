@@ -6,7 +6,7 @@ tags: ["review", "soundiron", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/10433-Voices-of-Rage-v2?utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-get-35-off-voices-of-rage-v2-by-soundiron-kontakt-&a_aid=69cb95abe1763"
 heroImage: "/images/soundiron-get-35-off-voices-of-rage-v2-by-soundiron-kontakt-.jpg"
 score: 8.76
-draft: false
+draft: true
 converted: true
 ---
 **Voices of Rage v2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/10433-Voices-of-Rage-v2?utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-get-35-off-voices-of-rage-v2-by-soundiron-kontakt-&a_aid=69cb95abe1763)

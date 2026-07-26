@@ -10,7 +10,7 @@ dealPrice: "$86.9"
 originalPrice: "$163.9"
 discount: "47% OFF"
 xText: "47% off right now. split-band eqing is one of those things that sounds boring until you use it and realize how much time it saves"
-draft: false
+draft: true
 ---
 **TL;DR:** Eventide SplitEQ is down 47% at Plugin Boutique — ~~$163.90~~ **$86.90**, saving you $77 on one of the most distinctive EQ concepts on the market. If you've been watching this one, now is a solid time to pull the trigger. [Grab it here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804)
 

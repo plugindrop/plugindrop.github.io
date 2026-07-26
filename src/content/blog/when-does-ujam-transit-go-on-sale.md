@@ -12,6 +12,7 @@ tags:
 relatedPosts:
   - "best-plugin-bundle-deals"
 heroImage: '/images/when-does-ujam-transit-go-on-sale.jpg'
+draft: true
 ---
 
 **Short answer:** Baby Audio Transit 2 goes on sale **2-3 times per year**. The typical discount is **39–46% off**, bringing the $129 regular price down to around **$78**. The best times to buy:

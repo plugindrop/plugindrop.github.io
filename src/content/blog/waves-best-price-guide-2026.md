@@ -9,7 +9,7 @@ aiImage: true
 evergreen: true
 score: 8.00
 xText: "New guide: How to Buy Waves Plugins at the Lowest Price: Sales, Bundles..."
-draft: false
+draft: true
 ---
 
 **TL;DR:** Waves plugins go on sale so frequently that paying list price is essentially optional — the real skill is knowing which bundle tier to target, when the deepest discounts hit, and whether Plugin Boutique stacks additional savings on top of Waves' own promotions. For most producers in 2026, the Waves Platinum Bundle is the clearest value at peak sale pricing, and Plugin Boutique is the platform most worth bookmarking. Below, we break down actual 2026 street prices, name specific plugins worth targeting individually, and tell you exactly when to click "buy" versus when to sit on your wallet.

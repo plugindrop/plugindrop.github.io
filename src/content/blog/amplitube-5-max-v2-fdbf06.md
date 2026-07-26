@@ -10,7 +10,7 @@ dealPrice: "$99.99"
 originalPrice: "$299.99"
 discount: "67% OFF"
 xText: "$200 off a full guitar/bass rig is not a tiny sale. AmpliTube 5 MAX v2 drops from $299.99 to $99.99, with 435 gear models, amps, cabs, effects, and standalone mode. wait and that saving disappears."
-draft: false
+draft: true
 ---
 **TL;DR:** If you only install one, make it AmpliTube 5 MAX v2 — it combines a broad collection of virtual guitar and bass gear in one rig-building environment. Plugin Boutique lists it at **$99.99**, down from ~~$299.99~~, a $200 saving. [Check the current deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12444-AmpliTube-5-MAX-v2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=amplitube-5-max-v2-fdbf06).
 

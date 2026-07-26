@@ -8,7 +8,7 @@ heroImage: "/images/best-vinyl-simulation-vst-plugins.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: Best Vinyl Simulation VST Plugins in 2026 (Lo-Fi & Vintage)"
-draft: false
+draft: true
 ---
 **TL;DR:** iZotope Vinyl remains the community standard for free vinyl crackling and surface noise — it has been the default first recommendation on KVR and Reddit's lo-fi communities for two decades, and nothing free has displaced it. For a complete lo-fi palette, XLN Audio's RC-20 Retro Color is the most consistently recommended paid option on r/lofi and r/beatmakers, covering wobble, noise, and analog saturation in a single plugin.
 

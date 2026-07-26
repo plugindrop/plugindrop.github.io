@@ -9,7 +9,7 @@ aiImage: true
 score: 7.33
 dealPrice: "FREE"
 xText: "someone reverse-engineered yamaha's undocumented modx m format and released free tools. modx m users: this is free power you're leaving on the table. go grab it now"
-draft: false
+draft: true
 ---
 **TL;DR:** Yamaha never published the .Y2L/.Y2U performance format spec — so the community did it for them. This free, open-source project documents every user-editable parameter across all four MODX M synthesis engines, verified against real hardware. [Get the docs and browser tools free on GitHub.](https://github.com/YSFCforge/ysfc-forge)
 

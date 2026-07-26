@@ -10,7 +10,7 @@ dealPrice: "$163.9"
 originalPrice: "$328.9"
 discount: "50% OFF"
 xText: "falcon 2026 just went 50% off and that's literally not what happens with new releases. if you've been thinking about it, right now is the actual window to grab it."
-draft: false
+draft: true
 ---
 **TL;DR:** Falcon 2026 is currently **50% off** at Plugin Boutique — dropping from ~~$328.90~~ to **$163.90**. That's a rare half-price window on one of the most feature-dense hybrid instruments on the market. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14777-Falcon-2026?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=falcon-2026-1dcf40)
 

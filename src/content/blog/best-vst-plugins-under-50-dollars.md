@@ -8,7 +8,7 @@ evergreen: true
 heroImage: "/images/best-vst-plugins-under-50-dollars.jpg"
 score: 8.00
 xText: "New guide: 15 Best VST Plugins Under $50 in 2026 (Incredible Bang for B..."
-draft: false
+draft: true
 priceTrack:
   - "Valhalla Room"
 ---

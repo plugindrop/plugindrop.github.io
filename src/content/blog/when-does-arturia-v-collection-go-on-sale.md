@@ -14,6 +14,7 @@ relatedPosts:
   - "arturia-v-collection-review"
   - "best-synth-vst-plugins-2026"
 heroImage: '/images/when-does-arturia-v-collection-go-on-sale.jpg'
+draft: true
 ---
 
 **Short answer:** Arturia V Collection X goes on sale **3-4 times per year**. The typical discount is **50–75% off**, bringing the $599 regular price down to around **$299**. The best times to buy:

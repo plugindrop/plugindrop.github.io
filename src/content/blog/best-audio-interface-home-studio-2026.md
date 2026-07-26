@@ -10,7 +10,7 @@ evergreen: true
 score: 8.00
 originalPrice: "$120"
 xText: "New guide: Best Audio Interface for Home Studio 2026"
-draft: false
+draft: true
 ---
 **TL;DR:** The Focusrite Scarlett 2i2 (4th Gen) is the most-recommended audio interface for home studio use in 2026 by a wide margin — clean 24-bit/192kHz conversion, bulletproof USB-C connectivity, and a multi-DAW software bundle worth keeping. If converter performance matters more than brand support infrastructure, the MOTU M2 outperforms Focusrite's budget tier on independent measurement benchmarks at roughly the same price.
 

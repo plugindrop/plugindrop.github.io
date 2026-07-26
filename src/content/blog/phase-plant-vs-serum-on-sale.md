@@ -10,7 +10,7 @@ dealPrice: "$8.39"
 originalPrice: "$13.99"
 discount: "40% OFF"
 xText: "Phase Plant  off — does it beat Serum (Xfer Records) at this price?"
-draft: false
+draft: true
 ---
 # Phase Plant vs Serum: Is This $8.39 Deal Worth It?
 

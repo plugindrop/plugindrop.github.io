@@ -9,7 +9,7 @@ evergreen: true
 score: 8.00
 discount: "50% OFF"
 xText: "New guide: Soundtoys 5 Review: The Creative Effects Bundle Every Produc..."
-draft: false
+draft: true
 ---
 **TL;DR:** Soundtoys 5 is the most consistently used creative effects bundle in professional studios — 22 plugins built around analog character, warmth, and deliberate imperfection that no free alternative fully replicates. Caught on a seasonal sale at around $299, the per-plugin cost becomes impossible to argue with. If you produce anything from hip-hop to ambient, this bundle will become your most-reached-for toolkit.
 

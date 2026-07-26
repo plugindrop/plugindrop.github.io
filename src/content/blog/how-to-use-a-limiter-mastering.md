@@ -7,7 +7,7 @@ affiliate: ""
 evergreen: true
 score: 8.00
 heroImage: "/images/how-to-use-a-limiter-mastering.jpg"
-draft: false
+draft: true
 ---
 
 **TL;DR:** A limiter is the final stage of every master — it controls true peak level, targets streaming LUFS norms, and defines whether your track sounds punchy or squashed. FabFilter Pro-L 2 is the community's consistent recommendation for transparent brick-wall limiting, while the free W1 Limiter is a capable starting point, and Limiter 6 GE sits between the two for producers who want per-stage metering without the Pro-L 2 price tag.

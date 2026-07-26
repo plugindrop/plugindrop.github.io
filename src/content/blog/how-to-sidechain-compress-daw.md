@@ -9,7 +9,7 @@ aiImage: true
 evergreen: true
 score: 8.00
 xText: "New guide: How to Sidechain Compress in Your DAW: Step-by-Step Plugin G..."
-draft: false
+draft: true
 ---
 **TL;DR:** FabFilter Pro-C 2 is the community consensus pick for sidechain compression — its real-time visual display and dedicated sidechain routing make the workflow precise and repeatable. If you want the pumping effect without actual dynamic compression, Cableguys VolumeShaper delivers it through tempo-synced volume curves, which sidesteps the timing sensitivity of compressor-based routing entirely.
 

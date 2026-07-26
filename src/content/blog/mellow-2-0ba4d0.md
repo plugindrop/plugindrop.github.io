@@ -10,7 +10,7 @@ dealPrice: "$9.00"
 originalPrice: "$119.00"
 discount: "92% OFF"
 xText: "$119 → $9 for MELLOW 2. 92% off a smooth acoustic double-bass instrument with 20 new styles, 30 presets and MIDI drag/drop. wait too long and you’re back at full price."
-draft: false
+draft: true
 ---
 **TL;DR:** If you only install one, make it MELLOW 2 — it is UJAM’s virtual acoustic double bass instrument, now reduced from ~~$119.00~~ to **$9.00** at Plugin Boutique. That is a $110 saving, or roughly 92% off. [Get the MELLOW 2 deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mellow-2-0ba4d0).
 

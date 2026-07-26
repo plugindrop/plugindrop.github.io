@@ -6,7 +6,7 @@ tags: ["review", "music-production", "bundle"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13326-SSL-4000-Series-Console-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt&a_aid=69cb95abe1763"
 heroImage: /images/40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt.jpg
 score: 9.27
-draft: false
+draft: true
 converted: true
 ---
 **SSL 4000 Series Console Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13326-SSL-4000-Series-Console-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt&a_aid=69cb95abe1763)

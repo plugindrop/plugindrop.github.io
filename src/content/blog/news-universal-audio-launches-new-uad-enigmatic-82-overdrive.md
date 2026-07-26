@@ -8,7 +8,7 @@ heroImage: "/images/news-universal-audio-launches-new-uad-enigmatic-82-overdrive
 score: 4.79
 dealPrice: "$49"
 xText: "ua's enigmatic '82 went native and honestly it might be the sleeper overdrive of the year. that saturation curve is doing something different"
-draft: false
+draft: true
 ---
 **TL;DR:** Universal Audio has launched the UAD Enigmatic '82 Overdrive Special Amp at **$49** — a new native plug-in modeled on the circuit of a coveted D-style guitar amp from 1982. No UAD hardware required. [Pick it up directly from Universal Audio](https://www.uaudio.com/products/enigmatic-82-overdrive-special?utm_source=plugindrop&utm_medium=article&utm_campaign=news-universal-audio-launches-new-uad-enigmatic-82-overdrive) and verify current pricing on the product page.
 
