@@ -10,7 +10,7 @@ dealPrice: "$49.00"
 originalPrice: "$99.00"
 discount: "51% OFF"
 xText: "51% off a fresh voicing plugin is rare. fluid chords 2 just shipped and already discounted this hard. if progression hunting slows you down, this saves the grind time."
-draft: false
+draft: true
 ---
 **TL;DR:** Fluid Chords 2, the MIDI chord generator plugin from Devious Machines, is currently ~~$99~~ **$49** at Plugin Boutique — a 51% discount. If you've been eyeing a chord-writing tool to speed up songwriting and break through writer's block, this cuts the price roughly in half. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15093-Fluid-Chords-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-chords-2-4fd4e1).
 
