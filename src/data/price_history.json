@@ -18650,6 +18650,12 @@
           "regular": 199.0,
           "sale": 129.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-07-27",
+          "sale": 129.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
