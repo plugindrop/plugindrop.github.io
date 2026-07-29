@@ -124,7 +124,7 @@ FabFilter Pro-DS is the de-esser KVR Audio and r/edmproduction return most consi
 
 Placement matters more with de-essing than with almost any other stage in the chain: de-essing after compression, not before, prevents the compressor from re-amplifying sibilance that the de-esser already tamed. A compressor doesn't know the difference between a loud sibilant "s" and a loud vowel — it just reacts to level — so if sibilance survives into the compression stage, the compressor can actually make it worse.
 
-FabFilter's pricing policy is the strictest in this guide — the company essentially does not run markdowns on individual plugins. The one lever worth pulling is the bundle route: Pro-DS is included in FabFilter's larger bundles, and buying in as part of a bundle (rather than as a standalone $99 purchase) is the only realistic way to pay less than list for it. See the [When Does FabFilter Total Bundle Go On Sale?](/blog/when-does-fabfilter-total-bundle-go-on-sale) page for how that bundle pricing tends to move.
+FabFilter's pricing policy is the strictest in this guide — the company essentially does not run markdowns on individual plugins. The one lever worth pulling is the bundle route: Pro-DS is included in FabFilter's larger bundles, and buying in as part of a bundle (rather than as a standalone $99 purchase) is the only realistic way to pay less than list for it. See the [When Does FabFilter Total Bundle Go On Sale?](/posts/when-does-fabfilter-total-bundle-go-on-sale/) page for how that bundle pricing tends to move.
 
 **Best for:** Precise sibilance control on modern vocals without over-processing consonants.
 
@@ -147,7 +147,7 @@ FabFilter Pro-Q 4 is the most-recommended parametric EQ plugin in producer commu
 
 In the chain, Pro-Q 4 typically does two separate jobs at two separate points: a subtractive pass early on to remove problem frequencies (mud around 200-400 Hz, harshness around 2-4 kHz), and a broader tonal-shaping pass later to add presence or air once the dynamics and de-essing have already been handled. Some engineers run two instances for exactly this reason rather than trying to solve both problems in a single instance.
 
-This is the single most important buying-decision plugin in this guide, because the "wait for a sale" instinct that serves you well with Waves or iZotope actively costs you money here. FabFilter's list price is effectively its only price — the company has built its reputation on stable, non-discounted pricing, and Pro-Q 4 does not go on meaningful sale in any recurring, predictable way. If you've been holding off on Pro-Q 4 hoping for 30-50% off, track the actual pattern on our dedicated page: [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale). For most producers, the realistic answer is: buy it when you need it, not when you think it'll be cheaper.
+This is the single most important buying-decision plugin in this guide, because the "wait for a sale" instinct that serves you well with Waves or iZotope actively costs you money here. FabFilter's list price is effectively its only price — the company has built its reputation on stable, non-discounted pricing, and Pro-Q 4 does not go on meaningful sale in any recurring, predictable way. If you've been holding off on Pro-Q 4 hoping for 30-50% off, track the actual pattern on our dedicated page: [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale/). For most producers, the realistic answer is: buy it when you need it, not when you think it'll be cheaper.
 
 **Best for:** Every EQ task on vocals — from broad tonal shaping to precise resonance removal — in a single, future-proof tool.
 
@@ -170,7 +170,7 @@ Soundtoys Decapitator is consistently described in KVR and Gearspace communities
 
 This stage is easy to skip and easy to overdo. A light touch — often just a few percent of blend, or a drive setting low enough that you can barely hear it in isolation — is usually enough to add perceived loudness and presence without the vocal sounding processed. Save the heavier settings for intentional creative effects rather than a default on every vocal.
 
-Decapitator is rarely worth buying as a standalone $99 purchase. Soundtoys runs periodic sitewide sales on the Soundtoys 5 bundle — which includes Decapitator, EchoBoy, and the rest of the Soundtoys catalog — at a price that is frequently close to what two or three individual plugins would cost separately. Check the current cadence on [When Does Soundtoys 5 Go On Sale?](/blog/when-does-soundtoys-5-go-on-sale) before buying Decapitator alone.
+Decapitator is rarely worth buying as a standalone $99 purchase. Soundtoys runs periodic sitewide sales on the Soundtoys 5 bundle — which includes Decapitator, EchoBoy, and the rest of the Soundtoys catalog — at a price that is frequently close to what two or three individual plugins would cost separately. Check the current cadence on [When Does Soundtoys 5 Go On Sale?](/posts/when-does-soundtoys-5-go-on-sale/) before buying Decapitator alone.
 
 **Best for:** Adding analog warmth and harmonic presence to digital vocal recordings that sound thin or overly clean.
 
@@ -193,7 +193,7 @@ iZotope Nectar 4 is the most feature-complete dedicated vocal processing suite i
 
 Where Nectar 4 fits relative to the rest of this guide is worth being direct about: it's not that it replaces Pro-Q 4 or CLA-2A outright — plenty of producers use Nectar 4's module chain as their entire vocal path and never touch a standalone EQ or compressor. It's a genuinely different approach to the same problem: one integrated tool with guided starting points, versus a hand-assembled chain of best-in-class specialists. For a first professional vocal chain, or for producers working under time pressure who don't want to make eight separate purchasing and routing decisions, Nectar 4 is the more efficient path.
 
-iZotope's pricing behavior is closer to Waves than to FabFilter: list price is a ceiling, not a floor, and the company runs regular promotional pricing across its catalog, especially around major shopping periods. iZotope doesn't currently have a dedicated Nectar sale-tracking page on PluginDrop, but its sister mastering suite follows the same company-wide promotional calendar — see [When Does iZotope Ozone Go On Sale?](/blog/when-does-izotope-ozone-go-on-sale) for a sense of the cadence iZotope tends to run across its whole product line, Nectar included.
+iZotope's pricing behavior is closer to Waves than to FabFilter: list price is a ceiling, not a floor, and the company runs regular promotional pricing across its catalog, especially around major shopping periods. iZotope doesn't currently have a dedicated Nectar sale-tracking page on PluginDrop, but its sister mastering suite follows the same company-wide promotional calendar — see [When Does iZotope Ozone Go On Sale?](/posts/when-does-izotope-ozone-go-on-sale/) for a sense of the cadence iZotope tends to run across its whole product line, Nectar included.
 
 **Best for:** Producers building their first professional vocal chain, or anyone who wants a complete, guided suite over assembling individual tools.
 
@@ -281,7 +281,7 @@ Soundtoys EchoBoy is the most consistently name-checked delay plugin in Gearspac
 
 Like reverb, delay sits at the end of the chain, and the two are usually run in parallel on separate send tracks rather than stacked in series — sending the same dry vocal to both a reverb bus and a delay bus, rather than running delay into reverb, keeps each effect controllable independently and avoids muddying the low end of the space with compounding tails.
 
-Same buying logic as Decapitator: if you want both EchoBoy and Decapitator, waiting for a Soundtoys 5 bundle sale and buying both at once is almost always cheaper than two separate standalone purchases at different times. Check [When Does Soundtoys 5 Go On Sale?](/blog/when-does-soundtoys-5-go-on-sale) before committing to either individually.
+Same buying logic as Decapitator: if you want both EchoBoy and Decapitator, waiting for a Soundtoys 5 bundle sale and buying both at once is almost always cheaper than two separate standalone purchases at different times. Check [When Does Soundtoys 5 Go On Sale?](/posts/when-does-soundtoys-5-go-on-sale/) before committing to either individually.
 
 **Best for:** Delay with analog character for lead vocals, or creative rhythmic delay effects where a clean digital echo would feel sterile.
 
@@ -304,7 +304,7 @@ FabFilter Pro-L 2 is the limiter Gearspace and KVR Audio return most often when 
 
 Placed on the vocal bus — after the individual-track processing from Stages 1 through 7 is complete — Pro-L 2's job is narrow and specific: catch the occasional loud transient that slips past compression, without audibly squashing the performance. This is not the same job as a mastering limiter; it's a safety net for a single element of the mix, set with a light touch and only a decibel or two of gain reduction on the loudest peaks.
 
-The buying logic is identical to Pro-Q 4 and Pro-DS: FabFilter doesn't meaningfully discount individual plugins, so a "wait for a sale" strategy here just delays a purchase you'll eventually make at the same price. The one exception worth checking is bundle pricing — Pro-L 2 is included in FabFilter's larger bundles, and if you're also planning to pick up Pro-Q 4 or Pro-DS, buying into a bundle during one of its periodic promotions is worth comparing against buying each plugin separately at full price. See [When Does FabFilter Total Bundle Go On Sale?](/blog/when-does-fabfilter-total-bundle-go-on-sale) before deciding which route is cheaper for your specific combination of plugins.
+The buying logic is identical to Pro-Q 4 and Pro-DS: FabFilter doesn't meaningfully discount individual plugins, so a "wait for a sale" strategy here just delays a purchase you'll eventually make at the same price. The one exception worth checking is bundle pricing — Pro-L 2 is included in FabFilter's larger bundles, and if you're also planning to pick up Pro-Q 4 or Pro-DS, buying into a bundle during one of its periodic promotions is worth comparing against buying each plugin separately at full price. See [When Does FabFilter Total Bundle Go On Sale?](/posts/when-does-fabfilter-total-bundle-go-on-sale/) before deciding which route is cheaper for your specific combination of plugins.
 
 **Best for:** Catching stray peaks on the vocal bus without audibly limiting the performance.
 
@@ -356,16 +356,16 @@ This is the section that actually saves or costs you money, and it depends entir
 
 **Buy at full price today, because a sale isn't coming:**
 
-- **FabFilter Pro-Q 4 ($179)** — no meaningful discount pattern exists. See [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale)
+- **FabFilter Pro-Q 4 ($179)** — no meaningful discount pattern exists. See [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale/)
 - **FabFilter Pro-DS ($99)** — same policy as Pro-Q 4; the only savings lever is bundle pricing
-- **FabFilter Pro-L 2 ($169)** — same policy; check [When Does FabFilter Total Bundle Go On Sale?](/blog/when-does-fabfilter-total-bundle-go-on-sale) if you're buying more than one FabFilter plugin at once
+- **FabFilter Pro-L 2 ($169)** — same policy; check [When Does FabFilter Total Bundle Go On Sale?](/posts/when-does-fabfilter-total-bundle-go-on-sale/) if you're buying more than one FabFilter plugin at once
 - **Valhalla Supermassive (free)** — there's nothing to wait for; download it now
 
 **Wait a few days to a few weeks for a predictable sale window:**
 
 - **Waves Tune Real-Time, CLA-2A, Doubler 4, Vocal Rider (list-priced higher, from $29 on sale)** — Waves runs 24-hour and weekend flash sales often enough that full price is rarely worth paying; if you need one urgently, buy it, but otherwise give it a week
-- **iZotope Nectar 4 ($199 list)** — watch for seasonal and introductory promotional pricing; cross-reference the cadence on [When Does iZotope Ozone Go On Sale?](/blog/when-does-izotope-ozone-go-on-sale) since Nectar tends to follow the same company-wide calendar
-- **Soundtoys Decapitator and EchoBoy ($99 each standalone)** — almost never worth buying individually at list price; wait for a Soundtoys 5 bundle sale, tracked at [When Does Soundtoys 5 Go On Sale?](/blog/when-does-soundtoys-5-go-on-sale)
+- **iZotope Nectar 4 ($199 list)** — watch for seasonal and introductory promotional pricing; cross-reference the cadence on [When Does iZotope Ozone Go On Sale?](/posts/when-does-izotope-ozone-go-on-sale/) since Nectar tends to follow the same company-wide calendar
+- **Soundtoys Decapitator and EchoBoy ($99 each standalone)** — almost never worth buying individually at list price; wait for a Soundtoys 5 bundle sale, tracked at [When Does Soundtoys 5 Go On Sale?](/posts/when-does-soundtoys-5-go-on-sale/)
 
 **Situational — depends on your existing plugin collection:**
 
@@ -394,4 +394,4 @@ For its specific job — fast, transparent, real-time correction — yes, accord
 Valhalla Supermassive, without a close second. It's the most-recommended free reverb across every producer community referenced in this guide, and developer documentation confirms a feature set — 24 reverb and delay modes — that meaningfully exceeds what most stock DAW reverbs offer. There's no scenario in this guide where waiting or hesitating on it makes sense, since it costs nothing and there's no paid alternative in this list that clearly outperforms it for standard vocal reverb duties.
 
 **Is it worth buying the Soundtoys 5 bundle if I only want Decapitator right now?**
-Usually, yes — if there's any chance you'll want EchoBoy or another Soundtoys plugin later. The bundle's periodic sale price is frequently close to what two or three individual Soundtoys plugins would cost bought separately, so paying $99 for Decapitator alone now often means paying more in total than waiting for a bundle sale and getting several plugins for a similar price. Check [When Does Soundtoys 5 Go On Sale?](/blog/when-does-soundtoys-5-go-on-sale) before committing to the standalone purchase.
+Usually, yes — if there's any chance you'll want EchoBoy or another Soundtoys plugin later. The bundle's periodic sale price is frequently close to what two or three individual Soundtoys plugins would cost bought separately, so paying $99 for Decapitator alone now often means paying more in total than waiting for a bundle sale and getting several plugins for a similar price. Check [When Does Soundtoys 5 Go On Sale?](/posts/when-does-soundtoys-5-go-on-sale/) before committing to the standalone purchase.

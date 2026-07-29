@@ -95,7 +95,7 @@ The Correlometer is a dedicated stereo phase correlation meter: a single reading
 
 ## EQ for Mastering
 
-Mastering EQ operates at smaller scales than mixing EQ — subtle shelves, gentle cuts, and dynamic adjustments measured in single dB increments. The tools below are each suited to mastering work but differ significantly in workflow. For a full comparison of free EQ options across mixing and mastering, see our [best free EQ VST plugins guide](/posts/best-free-eq-vst-plugins/). If you're weighing whether to eventually add a paid dynamic EQ like FabFilter Pro-Q 4 to the chain, check our [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale) tracker before paying full price — but the free options below cover the vast majority of mastering EQ needs on their own.
+Mastering EQ operates at smaller scales than mixing EQ — subtle shelves, gentle cuts, and dynamic adjustments measured in single dB increments. The tools below are each suited to mastering work but differ significantly in workflow. For a full comparison of free EQ options across mixing and mastering, see our [best free EQ VST plugins guide](/posts/best-free-eq-vst-plugins/). If you're weighing whether to eventually add a paid dynamic EQ like FabFilter Pro-Q 4 to the chain, check our [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale/) tracker before paying full price — but the free options below cover the vast majority of mastering EQ needs on their own.
 
 ### TDR Nova — Dynamic EQ with full surgical precision
 
@@ -246,7 +246,7 @@ The free toolkit above covers a complete mastering chain, and for most home-stud
 - **Price:** $199 (list price; FabFilter runs sales infrequently but consistently)
 - **Why upgrade:** Limiter 6 GE performs comparably to Pro-L 2 at moderate gain reduction, but FabFilter's tool provides eight distinct limiting algorithms (Transparent, Dynamic, Aggressive, Bus, and others), a Unity Gain monitoring mode for accurate A/B comparison, and a precision True Peak implementation that professional mastering engineers cite as their preferred option for final delivery sign-off. The real-time statistics display is also more detailed than anything available free.
 - **Who it's for:** Producers delivering masters professionally, engineers who need algorithm-switching flexibility across genres, and anyone who has already run Limiter 6 GE against a reference track and wants the extra half-percent of polish for client-facing work.
-- **Purchase note:** FabFilter doesn't discount as aggressively or as often as most plugin vendors — when a sale does appear, it's usually worth acting on rather than waiting for a deeper cut that may not come. Track current pricing on our [When Does FabFilter Pro-L 2 Go On Sale?](/blog/when-does-fabfilter-pro-l-2-go-on-sale) page before buying at list.
+- **Purchase note:** FabFilter doesn't discount as aggressively or as often as most plugin vendors — when a sale does appear, it's usually worth acting on rather than waiting for a deeper cut that may not come. Track current pricing on our [When Does FabFilter Pro-L 2 Go On Sale?](/posts/when-does-fabfilter-pro-l-2-go-on-sale/) page before buying at list.
 
 [→ Get FabFilter Pro-L 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-L%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-mastering-plugins)
 
@@ -291,7 +291,7 @@ The honest purchase advice for this category is unusual: for most producers, the
 - You've hit a specific, reproducible limitation in Limiter 6 GE (not a vague sense that a paid tool would be "better") — for example, needing to switch between limiting algorithms mid-session for different masters, which is where Pro-L 2's algorithm selection genuinely adds capability the free chain doesn't have.
 
 **Wait for a sale if:**
-- You're considering FabFilter Pro-L 2 primarily because of the KVR/Gearspace comparisons rather than a concrete workflow gap. FabFilter's sales are infrequent but do happen — buying at $199 list when a $150–$170 sale price shows up periodically is leaving money on the table for a plugin that isn't going anywhere. Check our [When Does FabFilter Pro-L 2 Go On Sale?](/blog/when-does-fabfilter-pro-l-2-go-on-sale) tracker before purchasing.
+- You're considering FabFilter Pro-L 2 primarily because of the KVR/Gearspace comparisons rather than a concrete workflow gap. FabFilter's sales are infrequent but do happen — buying at $199 list when a $150–$170 sale price shows up periodically is leaving money on the table for a plugin that isn't going anywhere. Check our [When Does FabFilter Pro-L 2 Go On Sale?](/posts/when-does-fabfilter-pro-l-2-go-on-sale/) tracker before purchasing.
 - You're eyeing Ozone Advanced specifically for its Imager and Tonal Balance modules but don't need them for every project — the Standard tier at a discounted price, or Elements at $49, covers most of what pushes producers past the free chain without the full Advanced spend.
 - Black Friday (late November) and iZotope's/Plugin Boutique's recurring promotional windows throughout the year are historically the deepest discount points for both tools in this category — if your project timeline has any flexibility, that's the window to target.
 

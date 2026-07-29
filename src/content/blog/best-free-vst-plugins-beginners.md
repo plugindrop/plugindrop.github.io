@@ -117,7 +117,7 @@ If you find yourself reaching for OB-Xd constantly for warm analog-style pads, t
 
 TDR Nova is a parallel dynamic equalizer that also functions as a static EQ, making it one of the most versatile free mixing tools available. The dynamic EQ behavior tames problem frequencies only when they spike — exactly how pros handle resonant vocals or boomy bass. Clean interface, low CPU, and sound quality that punches well above its price.
 
-TDR Nova is also one of the rare free plugins with an official paid upgrade path: the "GE" (Germanium-EQ-inspired) version adds mid-side processing and expanded dynamics modes for roughly $65. That's worth considering once you've maxed out the free version's routing, but most beginners won't hit that ceiling for months. The bigger purchase decision beginners eventually face is whether to buy a flagship static EQ like FabFilter Pro-Q 4 (~$179) once mixing becomes a bottleneck — see our [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale) page for the best times to buy it well below list price.
+TDR Nova is also one of the rare free plugins with an official paid upgrade path: the "GE" (Germanium-EQ-inspired) version adds mid-side processing and expanded dynamics modes for roughly $65. That's worth considering once you've maxed out the free version's routing, but most beginners won't hit that ceiling for months. The bigger purchase decision beginners eventually face is whether to buy a flagship static EQ like FabFilter Pro-Q 4 (~$179) once mixing becomes a bottleneck — see our [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale/) page for the best times to buy it well below list price.
 
 **Best for:** Mixing vocals, taming resonances, and learning EQ fundamentals.
 
@@ -200,7 +200,7 @@ If you outgrow Rough Rider 3, the natural upgrade is Cytomic The Glue (~$99), wh
 
 Valhalla Supermassive delivers lush reverb and delay with a distinctly cosmic, spacious character that has made it a staple in ambient, electronic, and film music production. The algorithm list covers everything from tight rooms to infinite shimmer reverbs. The fact that this is completely free remains one of music production's greatest gifts.
 
-Supermassive isn't trying to be a realistic room or plate reverb — that's the one gap in Valhalla's free lineup. When you need natural-sounding spaces rather than ambient textures, Valhalla's paid VintageVerb (~$50) is the standard beginner-to-intermediate upgrade, and it's inexpensive enough that it's often worth buying rather than waiting. Check our [When Does Valhalla VintageVerb Go On Sale?](/blog/when-does-valhalla-vintageverb-go-on-sale) page before purchasing — Valhalla does run periodic discounts even on its budget-priced plugins.
+Supermassive isn't trying to be a realistic room or plate reverb — that's the one gap in Valhalla's free lineup. When you need natural-sounding spaces rather than ambient textures, Valhalla's paid VintageVerb (~$50) is the standard beginner-to-intermediate upgrade, and it's inexpensive enough that it's often worth buying rather than waiting. Check our [When Does Valhalla VintageVerb Go On Sale?](/plugin-prices/valhalla-vintageverb/) page before purchasing — Valhalla does run periodic discounts even on its budget-priced plugins.
 
 **Best for:** Ambient pads, long reverb tails, and creating massive soundscapes.
 
@@ -423,7 +423,7 @@ Free plugins will take you further than most beginners expect, but two paid purc
 - **Price:** ~$189 (or subscription pricing around $9.99/month)
 - **Why upgrade:** The free synths on this list are excellent, but Serum offers unmatched wavetable editing depth, a massive third-party preset ecosystem, and the most commonly referenced sound in modern EDM, pop, and trap. When you're serious about synthesis, Serum is the industry standard everyone is talking about.
 
-Serum goes on sale several times a year — Black Friday, summer sales, and periodic Plugin Boutique promotions typically bring it down 25–40% from list price. Unless you need it for a specific project this week, it's almost always worth waiting for one of those windows. See our [When Does Serum Go On Sale?](/blog/when-does-serum-go-on-sale) page for the current price history and the next likely discount window.
+Serum goes on sale several times a year — Black Friday, summer sales, and periodic Plugin Boutique promotions typically bring it down 25–40% from list price. Unless you need it for a specific project this week, it's almost always worth waiting for one of those windows. See our [When Does Serum Go On Sale?](/posts/does-serum-ever-go-on-sale/) page for the current price history and the next likely discount window.
 
 [→ Xfer Records](https://xferrecords.com/products/serum)
 [→ Get Serum on Plugin Boutique](https://www.pluginboutique.com/search?q=Serum%20synth&a_aid=69cb95abe1763)
@@ -434,7 +434,7 @@ Serum goes on sale several times a year — Black Friday, summer sales, and peri
 - **Price:** ~$179
 - **Why upgrade:** TDR Nova covers dynamic EQ fundamentals well, but Pro-Q 4's dynamic bands, spectral grab EQ, and near-zero-latency processing make it the plugin most working engineers reach for by default. It's not essential for a beginner's first tracks, but it's the single most-referenced "worth the money" EQ purchase producers make.
 
-FabFilter rarely discounts its plugins directly, but retailers like Plugin Boutique run periodic sales that bring Pro-Q 4 down 15–20%. Check our [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale) page before buying at full price.
+FabFilter rarely discounts its plugins directly, but retailers like Plugin Boutique run periodic sales that bring Pro-Q 4 down 15–20%. Check our [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale/) page before buying at full price.
 
 [→ Get FabFilter Pro-Q 4 on Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763)
 

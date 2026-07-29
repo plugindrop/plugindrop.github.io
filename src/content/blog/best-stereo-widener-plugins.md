@@ -70,7 +70,7 @@ It has been in regular rotation since its release and remains the top community 
 
 Ozone Imager 2 is the most visually informative free stereo tool available. The real-time Lissajous display shows exactly what's happening in your stereo field — invaluable for diagnosing phase issues or confirming mono compatibility before export. Beyond visualization, it offers frequency-selective stereo widening via a multi-band mode and a stereo correlation meter that flags problems immediately.
 
-The mono compatibility checker alone makes this worth installing even if you use another widener for actual processing. It pairs naturally with Wider on the same mastering chain. If it later hooks you into wanting the full mastering suite, check our [when does iZotope Ozone go on sale](/blog/when-does-izotope-ozone-go-on-sale) tracker before upgrading — iZotope runs some of the steepest and most frequent discounts of any major developer.
+The mono compatibility checker alone makes this worth installing even if you use another widener for actual processing. It pairs naturally with Wider on the same mastering chain. If it later hooks you into wanting the full mastering suite, check our [when does iZotope Ozone go on sale](/posts/when-does-izotope-ozone-go-on-sale/) tracker before upgrading — iZotope runs some of the steepest and most frequent discounts of any major developer.
 
 **Best for:** Visual monitoring, multi-band stereo correction, and mono compatibility checks on final mixes.
 
@@ -129,7 +129,7 @@ For producers who need more than a single width knob but aren't ready to spend o
 
 The Waves S1 has been on professional mixing consoles and mastering chains for decades. The S1 Shuffler and S1 Widener modes give you two distinct approaches: the Shuffler targets low-frequency stereo behavior (based on the BBC's stereo shuffling technique), while the Widener controls overall width via M/S processing. Both are transparent at moderate settings and offer more precise control than any free alternative.
 
-At its regular sale price, the S1 is one of the best value-for-money professional stereo tools available and installs reliably in Pro Tools, Logic, and Ableton. Waves runs near-constant promotional pricing — WavesLive flash sales, Black Friday, and quarterly bundle promos regularly push individual plugins like S1 below $20. Before buying it standalone, check [when does Waves S1 go on sale](/blog/when-does-waves-s1-go-on-sale) — there's rarely a reason to pay full list price on a single Waves plugin.
+At its regular sale price, the S1 is one of the best value-for-money professional stereo tools available and installs reliably in Pro Tools, Logic, and Ableton. Waves runs near-constant promotional pricing — WavesLive flash sales, Black Friday, and quarterly bundle promos regularly push individual plugins like S1 below $20. Before buying it standalone, check when does Waves S1 go on sale — there's rarely a reason to pay full list price on a single Waves plugin.
 
 **Best for:** Bus processing, mastering chains, and engineers who want the transparency of a classic M/S widener with a proven professional track record.
 
@@ -148,7 +148,7 @@ At its regular sale price, the S1 is one of the best value-for-money professiona
 
 bx_stereomaker does one thing almost no other plugin handles well: converting mono signals to believable stereo. Most wideners applied to mono sources create an unnatural, phasey result. Brainworx uses their M/S matrix expertise to generate genuine stereo spread from a mono source without the comb filtering artifacts that plague cheaper solutions.
 
-This is the plugin engineers reach for when they receive a mono guitar DI, a mono synth pad, or a mono room mic and need it to sit in a wide stereo mix. It's a stem-level problem solver, not a mastering tool. Plugin Alliance's subscription model (mixNmatch and Suite ownership) can also get you this plugin bundled in with far more value than a standalone purchase — worth comparing against the à la carte price at [when does Brainworx bx_stereomaker go on sale](/blog/when-does-brainworx-bx-stereomaker-go-on-sale) before checking out.
+This is the plugin engineers reach for when they receive a mono guitar DI, a mono synth pad, or a mono room mic and need it to sit in a wide stereo mix. It's a stem-level problem solver, not a mastering tool. Plugin Alliance's subscription model (mixNmatch and Suite ownership) can also get you this plugin bundled in with far more value than a standalone purchase — worth comparing against the à la carte price at when does Brainworx bx_stereomaker go on sale before checking out.
 
 **Best for:** Converting mono sources to stereo on individual stems — especially guitars, keys, and synth pads.
 
@@ -167,7 +167,7 @@ This is the plugin engineers reach for when they receive a mono guitar DI, a mon
 
 MicroShift is modeled on the classic ADT (Automatic Double Tracking) widening technique used on countless vintage records. It creates width by applying subtle pitch shifts and short delays on each side of the stereo field, producing a thick, naturally warm spread rather than clinical M/S manipulation. The three style modes — Shift, Detune, and Chorus — give you a range of textures from near-transparent to heavily chorused.
 
-This is a character widener: use it when you want the width itself to contribute something musical. It excels on lead vocals, acoustic guitars, and synth leads where extra dimension is part of the sound. Soundtoys rarely discounts individual plugins but runs an aggressive annual sale on the full Soundtoys 5 bundle — if you think you'll eventually want more than MicroShift from their catalog (Decapitator, EchoBoy, and Little AlterBoy are common companions), it's almost always cheaper to wait for the bundle sale than buy MicroShift alone. Check [when does Soundtoys MicroShift go on sale](/blog/when-does-soundtoys-microshift-go-on-sale) for the current window.
+This is a character widener: use it when you want the width itself to contribute something musical. It excels on lead vocals, acoustic guitars, and synth leads where extra dimension is part of the sound. Soundtoys rarely discounts individual plugins but runs an aggressive annual sale on the full Soundtoys 5 bundle — if you think you'll eventually want more than MicroShift from their catalog (Decapitator, EchoBoy, and Little AlterBoy are common companions), it's almost always cheaper to wait for the bundle sale than buy MicroShift alone. Check [when does Soundtoys MicroShift go on sale](/plugin-prices/soundtoys-microshift/) for the current window.
 
 **Best for:** Vocals, guitars, and melodic elements where analog warmth and organic stereo width are creatively desirable.
 
@@ -205,7 +205,7 @@ The Punch parameter, which controls transient behavior independently per channel
 
 Nugen Audio's Stereoizer is purpose-built for mastering engineers who need to enhance stereo width without disturbing low-frequency energy. The frequency-dependent stereo expansion lets you widen from around 200Hz upward while keeping everything below in strict mono — exactly the behavior required for vinyl compatibility, broadcast delivery, and club system integrity. The mono depth control is essential for checking how aggressive the widening sounds on a single speaker before committing.
 
-The price is higher than most options here, and Nugen discounts less aggressively and less frequently than Waves or iZotope — expect single-digit-to-20% markdowns rather than the 50-70% swings common elsewhere on this list. For professional mastering work, the precision and transparency justify paying close to full price rather than waiting indefinitely. Still, it's worth a quick check at [when does Nugen Audio Stereoizer go on sale](/blog/when-does-nugen-audio-stereoizer-go-on-sale) before checkout, since even a modest 15% discount is real money on a $99 tool.
+The price is higher than most options here, and Nugen discounts less aggressively and less frequently than Waves or iZotope — expect single-digit-to-20% markdowns rather than the 50-70% swings common elsewhere on this list. For professional mastering work, the precision and transparency justify paying close to full price rather than waiting indefinitely. Still, it's worth a quick check at when does Nugen Audio Stereoizer go on sale before checkout, since even a modest 15% discount is real money on a $99 tool.
 
 **Best for:** Mastering engineers who need frequency-selective widening with full low-end mono protection and professional delivery standards.
 
@@ -224,7 +224,7 @@ The price is higher than most options here, and Nugen discounts less aggressivel
 
 MicroPitch is Eventide's modern take on the classic H910/H949 pitch-shifting widening technique. Like MicroShift, it uses tiny pitch offsets on left and right channels to generate a wide stereo image — but MicroPitch adds modulation controls, delay parameters, and a cleaner interface with tighter DAW integration than vintage-modeled alternatives. The Chorus and Detune modes each produce distinctly different textures suited to different source material.
 
-If MicroShift feels too saturated or vintage for a production, MicroPitch offers a more controllable version of the same core technique with a noticeably cleaner top end. Eventide is one of the more sale-friendly developers on this list — MicroPitch routinely drops to roughly half its list price several times a year. Check [when does Eventide MicroPitch go on sale](/blog/when-does-eventide-micropitch-go-on-sale) before buying at full price; patience here typically saves $40-50.
+If MicroShift feels too saturated or vintage for a production, MicroPitch offers a more controllable version of the same core technique with a noticeably cleaner top end. Eventide is one of the more sale-friendly developers on this list — MicroPitch routinely drops to roughly half its list price several times a year. Check [when does Eventide MicroPitch go on sale](/plugin-prices/eventide-micropitch/) before buying at full price; patience here typically saves $40-50.
 
 **Best for:** Modern productions where pitch-based widening is needed with greater precision and fewer vintage coloration artifacts.
 
@@ -242,7 +242,7 @@ If MicroShift feels too saturated or vintage for a production, MicroPitch offers
 - **Price:** From $249 (Standard); frequently discounted to $99-$129 during iZotope's regular sale cycles
 - **Why upgrade:** Ozone Imager 2 (free) is capable, but Ozone 12's Imager module adds AI-assisted stereo analysis, automatic mono compatibility correction, and deep integration with the full mastering chain — EQ, dynamics, limiter — all in one session. If you're doing regular mastering work and need a complete signal chain, the gap between the free Imager and Ozone 12 Standard is substantial.
 
-This is the single biggest "wait for it" recommendation in this guide. iZotope's list price of $249 is close to a fiction — the plugin spends a large share of the year at 50%+ off. Paying full price for Ozone 12 Standard is close to the worst possible time to buy it. Track the pattern at [when does iZotope Ozone go on sale](/blog/when-does-izotope-ozone-go-on-sale) before committing.
+This is the single biggest "wait for it" recommendation in this guide. iZotope's list price of $249 is close to a fiction — the plugin spends a large share of the year at 50%+ off. Paying full price for Ozone 12 Standard is close to the worst possible time to buy it. Track the pattern at [when does iZotope Ozone go on sale](/posts/when-does-izotope-ozone-go-on-sale/) before committing.
 
 [→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763)
 
@@ -254,7 +254,7 @@ This is the single biggest "wait for it" recommendation in this guide. iZotope's
 
 - **Developer:** Waves
 - **Price:** ~$299 list; historically discounted to $199 or lower during major sale events
-- **Why upgrade:** Rather than purchasing S1 and Center individually, the Waves Platinum Bundle includes both plus over 60 additional professional plugins — compressors, EQs, reverbs, and saturation tools — making it one of the most cost-effective ways to build out a professional Waves toolkit in a single purchase. Once the combined standalone price of S1 (~$29) and Center (~$29) plus a handful of other plugins you'd likely want anyway crosses roughly $150-200, the bundle becomes the objectively cheaper path. Check [when does Waves Platinum Bundle go on sale](/blog/when-does-waves-platinum-bundle-go-on-sale) before buying S1 and Center separately — buying both individually at list price and later wanting the bundle is the single most common overspend pattern in this category.
+- **Why upgrade:** Rather than purchasing S1 and Center individually, the Waves Platinum Bundle includes both plus over 60 additional professional plugins — compressors, EQs, reverbs, and saturation tools — making it one of the most cost-effective ways to build out a professional Waves toolkit in a single purchase. Once the combined standalone price of S1 (~$29) and Center (~$29) plus a handful of other plugins you'd likely want anyway crosses roughly $150-200, the bundle becomes the objectively cheaper path. Check [when does Waves Platinum Bundle go on sale](/plugin-prices/waves-platinum-bundle/) before buying S1 and Center separately — buying both individually at list price and later wanting the bundle is the single most common overspend pattern in this category.
 
 [→ Get Waves Platinum Bundle on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Waves%20Platinum%20Bundle&a_aid=69cb95abe1763)
 
@@ -297,8 +297,8 @@ Not everything on this list should be purchased the moment you decide you need i
 - **Nugen Audio Stereoizer** — Nugen's discount cadence is shallow and infrequent (typically 15-20% at most, a few times a year). If you need frequency-selective mastering-grade widening right now for a paid mastering job, buy it at list price rather than delaying a deliverable for a discount that may not arrive for months.
 
 **Wait for a sale:**
-- **iZotope Ozone 12** — this is the clearest "don't buy at list price" recommendation in the guide. The $249 list price is discounted 50%+ multiple times a year; buying at list is close to worst-case timing. Check [when does iZotope Ozone go on sale](/blog/when-does-izotope-ozone-go-on-sale) and set a price alert if you can.
-- **Waves S1 and Waves Center** — both are $29 plugins that regularly dip under $20, and Waves runs promotions often enough (WavesLive flash sales, seasonal events, Black Friday) that impulse-buying at list price rarely makes sense unless you need it within the next 24 hours for active session work. If you want both, price the Platinum Bundle first at [when does Waves Platinum Bundle go on sale](/blog/when-does-waves-platinum-bundle-go-on-sale).
+- **iZotope Ozone 12** — this is the clearest "don't buy at list price" recommendation in the guide. The $249 list price is discounted 50%+ multiple times a year; buying at list is close to worst-case timing. Check [when does iZotope Ozone go on sale](/posts/when-does-izotope-ozone-go-on-sale/) and set a price alert if you can.
+- **Waves S1 and Waves Center** — both are $29 plugins that regularly dip under $20, and Waves runs promotions often enough (WavesLive flash sales, seasonal events, Black Friday) that impulse-buying at list price rarely makes sense unless you need it within the next 24 hours for active session work. If you want both, price the Platinum Bundle first at [when does Waves Platinum Bundle go on sale](/plugin-prices/waves-platinum-bundle/).
 - **Eventide MicroPitch** — routinely drops to roughly half price. Unless you need it immediately for a session, it's worth a week or two of patience.
 - **Soundtoys MicroShift** — Soundtoys discounts the full Soundtoys 5 bundle far more aggressively than individual plugins. If MicroShift is likely to be a gateway into Decapitator, EchoBoy, or Little AlterBoy, wait for the annual bundle sale rather than buying MicroShift alone.
 - **Brainworx bx_stereomaker** — check Plugin Alliance's rotating promotions and mixNmatch subscription value before a standalone purchase; the effective cost is frequently lower through a bundle path than the $49 sticker price.

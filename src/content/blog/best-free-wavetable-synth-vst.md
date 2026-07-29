@@ -148,7 +148,7 @@ Development has slowed significantly since Vital launched. The preset library is
 - **Developer:** Xfer Records (Steve Duda)
 - **Price:** ~$189 one-time at list; regularly discounted to roughly $149-$159 during Plugin Boutique and Splice promotions (rent-to-own also available via Splice)
 - **Why upgrade:** Vital's free tier handles the synthesis tasks that Serum handles, but Serum's third-party preset and wavetable ecosystem has been built over years of industry deployment. If you work with major electronic music sound packs, collaborate with other producers on patches, or deliver client work where preset compatibility matters, Serum remains the default standard that those assets are designed around. The synthesis engines are comparable — the ecosystem is not.
-- **Buying decision:** Don't buy Serum at full list price. It appears in Black Friday, Cyber Monday, and periodic Plugin Boutique flash sales at a meaningful discount almost every year. If you've confirmed you need it for ecosystem/collaboration reasons, add it to a watchlist and check our [When Does Serum Go On Sale?](/blog/when-does-serum-go-on-sale) page before purchasing — timing a $189 purchase around a known sale window is close to free money.
+- **Buying decision:** Don't buy Serum at full list price. It appears in Black Friday, Cyber Monday, and periodic Plugin Boutique flash sales at a meaningful discount almost every year. If you've confirmed you need it for ecosystem/collaboration reasons, add it to a watchlist and check our [When Does Serum Go On Sale?](/posts/does-serum-ever-go-on-sale/) page before purchasing — timing a $189 purchase around a known sale window is close to free money.
 
 [→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst)
 
@@ -161,7 +161,7 @@ Development has slowed significantly since Vital launched. The preset library is
 - **Developer:** Kilohearts
 - **Price:** ~$99 at list; Kilohearts runs frequent sitewide sales that bring it down to roughly $69-$79, and it's regularly included in bundle promotions
 - **Why upgrade:** Vital and Surge XT are fixed-architecture instruments. Phase Plant lets you build synthesis chains from components — wavetable oscillators, sample playback, FM operators, noise generators — combined with Kilohearts' "Snapin" effects system in a single patch. Reddit's r/synthesizers community frequently identifies Phase Plant as the logical step for producers who have internalized conventional wavetable concepts and want to remove architecture constraints from their sound design process.
-- **Buying decision:** Kilohearts discounts Phase Plant often enough that paying full $99 is rarely necessary. Check [When Does Phase Plant Go On Sale?](/blog/when-does-phase-plant-go-on-sale) before checkout — if you're not on a tight project deadline, waiting a few weeks for the next promotion is the higher-value play.
+- **Buying decision:** Kilohearts discounts Phase Plant often enough that paying full $99 is rarely necessary. Check [When Does Phase Plant Go On Sale?](/posts/when-does-phase-plant-go-on-sale/) before checkout — if you're not on a tight project deadline, waiting a few weeks for the next promotion is the higher-value play.
 
 [→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763)
 
@@ -174,7 +174,7 @@ Development has slowed significantly since Vital launched. The preset library is
 - **Developer:** u-he
 - **Price:** ~$99 at list; commonly discounted to around $69 during u-he and Plugin Boutique promotions
 - **Why upgrade:** Zebralette delivers one oscillator from the u-he ecosystem. Hive 2 provides a complete two-oscillator wavetable/virtual-analog hybrid instrument designed explicitly for fast patch creation in live and studio contexts. Producers who rely on Zebralette and want the full u-he character in a production-ready instrument — without the depth investment required by Zebra2 — consistently identify Hive 2 as the right paid entry point into u-he's catalog.
-- **Buying decision:** u-he doesn't discount as aggressively or as frequently as Kilohearts, but Hive 2 does appear at a reduced price during major seasonal sales. See [When Does u-he Hive Go On Sale?](/blog/when-does-u-he-hive-go-on-sale) to check current pricing before buying at list.
+- **Buying decision:** u-he doesn't discount as aggressively or as frequently as Kilohearts, but Hive 2 does appear at a reduced price during major seasonal sales. See When Does u-he Hive Go On Sale? to check current pricing before buying at list.
 
 [→ Get u-he Hive 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763)
 
@@ -215,9 +215,9 @@ The free tier in this category is strong enough that "wait" is a legitimate answ
 - **You're already mid-project and a modular architecture (Phase Plant) or a specific u-he tone (Hive 2) is the only thing standing between you and finishing a track.** Momentum has value; don't stall a session over a $20-$30 difference.
 
 ### Wait for a sale
-- **Serum:** List price is $189, but it's one of the most frequently discounted flagship synths in the Plugin Boutique catalog — Black Friday, Cyber Monday, and multiple mid-year promotions regularly bring it to $149 or lower. Unless you have an immediate ecosystem need, there's rarely a reason to pay full price. Check [When Does Serum Go On Sale?](/blog/when-does-serum-go-on-sale) for the current pattern.
-- **Phase Plant:** Kilohearts runs some of the most frequent promotions in the plugin market. Waiting even two to four weeks from an impulse purchase typically nets a 20-30% discount. See [When Does Phase Plant Go On Sale?](/blog/when-does-phase-plant-go-on-sale).
-- **u-he Hive 2:** u-he sales are less frequent than Kilohearts', but they do happen around major shopping periods. If you're not in a rush, check [When Does u-he Hive Go On Sale?](/blog/when-does-u-he-hive-go-on-sale) before paying $99 at list.
+- **Serum:** List price is $189, but it's one of the most frequently discounted flagship synths in the Plugin Boutique catalog — Black Friday, Cyber Monday, and multiple mid-year promotions regularly bring it to $149 or lower. Unless you have an immediate ecosystem need, there's rarely a reason to pay full price. Check [When Does Serum Go On Sale?](/posts/does-serum-ever-go-on-sale/) for the current pattern.
+- **Phase Plant:** Kilohearts runs some of the most frequent promotions in the plugin market. Waiting even two to four weeks from an impulse purchase typically nets a 20-30% discount. See [When Does Phase Plant Go On Sale?](/posts/when-does-phase-plant-go-on-sale/).
+- **u-he Hive 2:** u-he sales are less frequent than Kilohearts', but they do happen around major shopping periods. If you're not in a rush, check When Does u-he Hive Go On Sale? before paying $99 at list.
 - **Vital Plus/Pro:** These are lower-cost upsells ($25-$80) rather than full commercial purchases, and Vital Audio periodically discounts them too. Since the free tier already gives you the full synthesis engine, there's no urgency here at all — wait for a discount on the library tier if the stock presets matter to you.
 
 ### Never pay full price for the free tier
@@ -239,10 +239,10 @@ A: For producers focused on hybrid synthesis, complex modulation routing, or exp
 A: Vital, Surge XT, and Odin 2 support VST3 and AU, covering Ableton Live, FL Studio, Logic Pro, Reaper, Cubase, Studio One, and most major DAWs. Helm supports VST and AU. Zebralette supports VST2, VST3, and AU. Vital and Surge XT both confirm AAX support for Pro Tools workflows.
 
 **Q: Should I buy Serum if I already have Vital?**
-A: Only if you work with commercial sound packs built specifically for Serum, collaborate with producers who share Serum patches, or need compatibility with client-supplied presets. For independent production, Vital covers the same synthesis tasks. The purchase case is the ecosystem — not what the synthesis engine does that Vital's free tier cannot. If that case applies to you, don't pay list price — check [When Does Serum Go On Sale?](/blog/when-does-serum-go-on-sale) first.
+A: Only if you work with commercial sound packs built specifically for Serum, collaborate with producers who share Serum patches, or need compatibility with client-supplied presets. For independent production, Vital covers the same synthesis tasks. The purchase case is the ecosystem — not what the synthesis engine does that Vital's free tier cannot. If that case applies to you, don't pay list price — check [When Does Serum Go On Sale?](/posts/does-serum-ever-go-on-sale/) first.
 
 **Q: Should I buy Phase Plant or Hive 2 right away, or wait?**
-A: Neither is urgent. Both are best purchased during a sale window rather than at list price, since both Kilohearts and u-he run recurring promotions. Bookmark [When Does Phase Plant Go On Sale?](/blog/when-does-phase-plant-go-on-sale) and [When Does u-he Hive Go On Sale?](/blog/when-does-u-he-hive-go-on-sale) and buy when the price drops rather than the moment you decide you want the plugin.
+A: Neither is urgent. Both are best purchased during a sale window rather than at list price, since both Kilohearts and u-he run recurring promotions. Bookmark [When Does Phase Plant Go On Sale?](/posts/when-does-phase-plant-go-on-sale/) and When Does u-he Hive Go On Sale? and buy when the price drops rather than the moment you decide you want the plugin.
 
 ---
 ## Related Guides

@@ -102,7 +102,7 @@ KVR Audio's deals community frequently flags Plugin Boutique as the preferred pu
 
 The Waves Black Friday event is the most consistently documented deep-discount window in producer communities. Reddit deal threads, KVR Audio, and Gearspace reliably fill with reports each November confirming Waves' deepest promotional pricing of the year — this is typically when Platinum and Gold hit their lowest observed price points, and when individual plugins are most likely to dip toward the $19.99 floor rather than sitting at $29.99–$39.99. Plugin Boutique typically participates with additional vouchers during the same window. If you can plan around a single buying window annually, this is the one to target.
 
-For plugin-specific timing, check our [When Does Waves Platinum Bundle Go On Sale?](/blog/when-does-waves-platinum-bundle-go-on-sale) and [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale) pages if you're weighing a Waves purchase against a FabFilter alternative — both track historical discount timing so you're not guessing.
+For plugin-specific timing, check our [When Does Waves Platinum Bundle Go On Sale?](/plugin-prices/waves-platinum-bundle/) and [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale/) pages if you're weighing a Waves purchase against a FabFilter alternative — both track historical discount timing so you're not guessing.
 
 **Best for:** Producers who can defer non-urgent purchases until November.
 
@@ -156,7 +156,7 @@ Waves now manages activation through the Waves License Center application. Hardw
 
 - **Developer:** Waves Audio
 - **Price:** List ~$599; commonly seen at $99.99–$129.99 during promotional windows — check waves.com/bundles/platinum for current pricing
-- **Why upgrade:** Gold covers the fundamentals, but Platinum adds the H-series — H-Delay, H-Reverb, H-Comp, and H-EQ — which producer communities consistently identify as among the most actively used Waves tools in working mixes. Forum discussions comparing Gold and Platinum reliably return to the H-series as the upgrade justification, and at a typical sale-price difference of $30–$50 over Gold, it's a small premium for a meaningfully larger toolkit. See our [When Does Waves Platinum Bundle Go On Sale?](/blog/when-does-waves-platinum-bundle-go-on-sale) page for historical discount timing before you buy.
+- **Why upgrade:** Gold covers the fundamentals, but Platinum adds the H-series — H-Delay, H-Reverb, H-Comp, and H-EQ — which producer communities consistently identify as among the most actively used Waves tools in working mixes. Forum discussions comparing Gold and Platinum reliably return to the H-series as the upgrade justification, and at a typical sale-price difference of $30–$50 over Gold, it's a small premium for a meaningfully larger toolkit. See our [When Does Waves Platinum Bundle Go On Sale?](/plugin-prices/waves-platinum-bundle/) page for historical discount timing before you buy.
 
 [→ Get Waves Platinum Bundle](https://www.waves.com/bundles/platinum)
 

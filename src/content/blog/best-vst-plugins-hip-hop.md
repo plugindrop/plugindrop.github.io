@@ -59,7 +59,7 @@ Battery 4 is the most-referenced drum sampler in professional hip-hop workflows,
 
 **Best for:** Producers who layer samples heavily and need precise per-pad tuning and processing.
 
-[→ Get Battery 4](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) · [When Does Native Instruments Battery 4 Go On Sale?](/blog/when-does-native-instruments-battery-4-go-on-sale)
+[→ Get Battery 4](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) · [When Does Native Instruments Battery 4 Go On Sale?](/plugin-prices/native-instruments-battery-4/)
 
 ---
 
@@ -78,7 +78,7 @@ KVR's community discussion consistently highlights Addictive Drums 2's mic bleed
 
 **Best for:** Boom bap producers who want live acoustic drum realism with minimal sample preparation.
 
-[→ Get Addictive Drums 2 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763) · [When Does Addictive Drums 2 Go On Sale?](/blog/when-does-addictive-drums-2-go-on-sale)
+[→ Get Addictive Drums 2 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763) · [When Does Addictive Drums 2 Go On Sale?](/posts/when-does-addictive-drums-2-go-on-sale/)
 
 ---
 
@@ -135,11 +135,11 @@ Hip-hop's bass culture demands synths that hit hard on subwoofers and translate 
 
 Serum dominates discussions about 808 bass design on Reddit's r/makinghiphop and r/edmproduction. Its wavetable editor allows custom waveform import — developer documentation confirms this is a core feature of the engine, not a workaround — and the envelope-to-pitch routing that creates 808 pitch slides is accessible enough to learn in a session but deep enough to produce professional results. The real argument for Serum specifically, beyond the synth itself, is the ecosystem: the volume of third-party 808 preset packs, tutorial content, and community patches built around it is categorically larger than any other single synthesizer.
 
-**Purchase decision:** Serum's $189 list price is close to a "sticker price" in the same way car MSRPs are — most serious buyers don't pay it. Plugin Boutique and Xfer Records both run Serum at $99-129 during Black Friday, and a lighter discount is common during Plugin Boutique's summer and spring promotional cycles. If you're not mid-project and don't need it in the next 48 hours, it's worth checking current pricing before buying — the gap between list and sale price on Serum is consistently $60-90, which is real money for a plugin most producers will use in every session. Track current pricing on our [When Does Serum Go On Sale?](/blog/when-does-serum-go-on-sale) page before you buy.
+**Purchase decision:** Serum's $189 list price is close to a "sticker price" in the same way car MSRPs are — most serious buyers don't pay it. Plugin Boutique and Xfer Records both run Serum at $99-129 during Black Friday, and a lighter discount is common during Plugin Boutique's summer and spring promotional cycles. If you're not mid-project and don't need it in the next 48 hours, it's worth checking current pricing before buying — the gap between list and sale price on Serum is consistently $60-90, which is real money for a plugin most producers will use in every session. Track current pricing on our [When Does Serum Go On Sale?](/posts/does-serum-ever-go-on-sale/) page before you buy.
 
 **Best for:** 808 bass design, wavetable leads, and any producer ready to invest in their primary synthesis tool.
 
-[→ Get Serum on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) · [When Does Serum Go On Sale?](/blog/when-does-serum-go-on-sale)
+[→ Get Serum on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) · [When Does Serum Go On Sale?](/posts/does-serum-ever-go-on-sale/)
 
 ---
 
@@ -276,7 +276,7 @@ The SSL G-Master Buss Compressor is the emulation that mixing communities on KVR
 
 **Best for:** Drum bus glue, mix bus compression, and adding SSL character to the full mix.
 
-[→ Get the Waves SSL G-Master Buss Compressor](https://www.waves.com/plugins/ssl-g-master-buss-compressor) · [When Does Waves SSL G-Master Go On Sale?](/blog/when-does-waves-ssl-g-master-go-on-sale)
+[→ Get the Waves SSL G-Master Buss Compressor](https://www.waves.com/plugins/ssl-g-master-buss-compressor) · When Does Waves SSL G-Master Go On Sale?
 
 ---
 
@@ -347,7 +347,7 @@ Once your free and entry-level toolkit stops being the bottleneck, these two are
 
 **Purchase decision:** Same guidance as above — this is a sale-window purchase, not a full-price one, for the vast majority of buyers. Check current pricing before checkout.
 
-[→ Get Serum on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) · [When Does Serum Go On Sale?](/blog/when-does-serum-go-on-sale)
+[→ Get Serum on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop) · [When Does Serum Go On Sale?](/posts/does-serum-ever-go-on-sale/)
 
 ---
 
@@ -361,7 +361,7 @@ Once your free and entry-level toolkit stops being the bottleneck, these two are
 
 **Purchase decision:** Because Maschine is a hardware-and-software bundle, it discounts less dramatically than pure software plugins — expect 15-25% off during Native Instruments' Black Friday and Anniversary Sale events rather than the 50%+ swings you see on Serum or Battery 4. If you're on the fence, it's reasonable to buy near list price when you actually hit the mouse-programming bottleneck, since waiting for a deep discount here can mean waiting most of a year.
 
-[→ Get Native Instruments Maschine](https://www.native-instruments.com/en/products/maschine/) · [When Does Native Instruments Maschine Go On Sale?](/blog/when-does-native-instruments-maschine-go-on-sale)
+[→ Get Native Instruments Maschine](https://www.native-instruments.com/en/products/maschine/) · When Does Native Instruments Maschine Go On Sale?
 
 ---
 
@@ -396,12 +396,12 @@ Not every plugin in this guide deserves the same urgency. Here's how to sequence
 - **Waves SSL G-Master Buss Compressor** — technically a paid plugin, but Waves' promotional pricing is close to constant. At $29-39, waiting rarely saves more than a few dollars, and the cost of not having bus glue in your mixing chain in the meantime is higher than the savings.
 
 ### Wait for a specific sale window
-- **Serum ($189 → $99-129)** — unless you need it for a paid session this week, wait for Black Friday (late November) or Plugin Boutique/Xfer's periodic promotions. The gap between list and sale price is large enough that it's worth the wait for most bedroom and home-studio producers. Bookmark [When Does Serum Go On Sale?](/blog/when-does-serum-go-on-sale) and buy the moment it drops.
-- **Native Instruments Battery 4 ($149)** — check Komplete Select/Standard bundle pricing before buying standalone; NI's Anniversary Sale and Black Friday events are the two reliable discount windows. See [When Does Battery 4 Go On Sale?](/blog/when-does-native-instruments-battery-4-go-on-sale).
-- **Addictive Drums 2 (From $179)** — almost never buy the bare engine at list. Wait for an ADpak bundle promotion, which is common enough (several times a year) that patience costs little. Track it at [When Does Addictive Drums 2 Go On Sale?](/blog/when-does-addictive-drums-2-go-on-sale).
+- **Serum ($189 → $99-129)** — unless you need it for a paid session this week, wait for Black Friday (late November) or Plugin Boutique/Xfer's periodic promotions. The gap between list and sale price is large enough that it's worth the wait for most bedroom and home-studio producers. Bookmark [When Does Serum Go On Sale?](/posts/does-serum-ever-go-on-sale/) and buy the moment it drops.
+- **Native Instruments Battery 4 ($149)** — check Komplete Select/Standard bundle pricing before buying standalone; NI's Anniversary Sale and Black Friday events are the two reliable discount windows. See [When Does Battery 4 Go On Sale?](/plugin-prices/native-instruments-battery-4/).
+- **Addictive Drums 2 (From $179)** — almost never buy the bare engine at list. Wait for an ADpak bundle promotion, which is common enough (several times a year) that patience costs little. Track it at [When Does Addictive Drums 2 Go On Sale?](/posts/when-does-addictive-drums-2-go-on-sale/).
 
 ### Buy when you actually hit the wall, not before
-- **Native Instruments Maschine (From $399)** — hardware bundles discount less predictably than pure software. Buying at or near list when mouse-programming genuinely becomes your bottleneck is more sensible than holding out for a deep discount that may not arrive for months. Check [When Does Maschine Go On Sale?](/blog/when-does-native-instruments-maschine-go-on-sale) before committing either way.
+- **Native Instruments Maschine (From $399)** — hardware bundles discount less predictably than pure software. Buying at or near list when mouse-programming genuinely becomes your bottleneck is more sensible than holding out for a deep discount that may not arrive for months. Check When Does Maschine Go On Sale? before committing either way.
 - **Graillon 2 full version ($25)** — cheap enough that "wait for a sale" isn't worth the friction; buy it the moment the free tier's limits actually block a session.
 
 ### A realistic first-purchase order

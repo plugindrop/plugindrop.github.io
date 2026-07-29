@@ -58,7 +58,7 @@ Developed in collaboration with Gojira's Joe and Mario Duplantier, this plugin m
 
 Reddit's r/WeAreTheMusicMakers and r/Guitar consistently note that the plugin's integrated noise gate, EQ, and effects chain reduce setup time compared to building an equivalent signal chain from individual components. For high-gain rhythm tones with controlled low-end and forward mids, it is the plugin the community reaches for first — and at ~$149, it's priced competitively against a single guitar cabinet mic or DI box, which is the actual comparison point for most bedroom producers deciding whether to go in-the-box entirely.
 
-If you're not in a rush, Neural DSP runs meaningful discounts several times a year. Check our [When Does Neural DSP Archetype: Gojira Go On Sale?](/blog/when-does-neural-dsp-archetype-gojira-go-on-sale) page before buying at full price.
+If you're not in a rush, Neural DSP runs meaningful discounts several times a year. Check our When Does Neural DSP Archetype: Gojira Go On Sale? page before buying at full price.
 
 **YouTube demo:** `w31Fr16otZ4`
 
@@ -125,7 +125,7 @@ Superior Drummer 3 is the platform Toontrack rebuilt from the ground up, and it 
 
 The r/mixingmastering and r/WeAreTheMusicMakers communities consistently note that SD3 sounds correct before any external compression or EQ is applied. For metal production specifically, the integrated MIDI groove library and the EZX expansion ecosystem allow producers to find genre-appropriate drum patterns without building every fill and transition from scratch.
 
-This is also one of the most frequently discounted plugins covered in this guide — Toontrack runs it below list price often enough that paying the full ~$179 is usually avoidable if your timeline allows a few weeks of waiting. See our [When Does Superior Drummer 3 Go On Sale?](/blog/when-does-superior-drummer-3-go-on-sale) tracker for current pricing before you buy.
+This is also one of the most frequently discounted plugins covered in this guide — Toontrack runs it below list price often enough that paying the full ~$179 is usually avoidable if your timeline allows a few weeks of waiting. See our When Does Superior Drummer 3 Go On Sale? tracker for current pricing before you buy.
 
 **YouTube demo:** `4IRHZAjnln8`
 
@@ -169,7 +169,7 @@ FabFilter Pro-C 2 is the compressor that r/mixingmastering threads consistently 
 
 For metal drum bus work, community production tutorials and forum discussions most frequently cite the "Punch" and "Classic" modes: Punch for adding attack snap to a flat drum bus, Classic for transparent RMS-style glue on an already-balanced mix. The built-in parallel compression knob removes the need for external parallel routing, which simplifies workflow when handling a dense metal session.
 
-Unlike Toontrack and Neural DSP, FabFilter is notoriously conservative with discounting — the company rarely runs sitewide sales, and when it does, reductions are modest. If Pro-C 2 is the tool standing between you and a finished mix, the practical purchase advice is to buy at $179 now rather than hold out for a discount that may not materialize on your timeline. Our [When Does FabFilter Pro-C 2 Go On Sale?](/blog/when-does-fabfilter-pro-c-2-go-on-sale) page tracks the rare exceptions.
+Unlike Toontrack and Neural DSP, FabFilter is notoriously conservative with discounting — the company rarely runs sitewide sales, and when it does, reductions are modest. If Pro-C 2 is the tool standing between you and a finished mix, the practical purchase advice is to buy at $179 now rather than hold out for a discount that may not materialize on your timeline. Our [When Does FabFilter Pro-C 2 Go On Sale?](/posts/when-does-fabfilter-pro-c-2-go-on-sale/) page tracks the rare exceptions.
 
 **YouTube demo:** `mSzvpCz-M2k`
 
@@ -205,7 +205,7 @@ KVR Audio's community discussions consistently place Nova among the top free mix
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/4fE9ogKNPfg" title="Neural DSP Archetype: Gojira — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Neural DSP
-- **Price:** ~$149 (watch for ~$79–$99 sale pricing — see the [sale tracker](/blog/when-does-neural-dsp-archetype-gojira-go-on-sale))
+- **Price:** ~$149 (watch for ~$79–$99 sale pricing — see the sale tracker)
 - **Why upgrade:** Ignite Amps Emissary provides a solid free high-gain tone, but it lacks integrated cabinet modeling, an effects chain, and the playing-response refinement that Neural DSP's deep-learning modeling delivers. Community threads on r/metalguitarists document a clear gap in dynamic realism under aggressive playing between free amp sims and Neural DSP's paid offerings — a difference that becomes audible in context against a full metal mix.
 
 *(No affiliate link available for this plugin.)*

@@ -155,7 +155,7 @@ Not all delay use cases are about clean echoes and rhythmic repetition. These tw
 
 Graillon 2's free tier includes real-time pitch correction and pitch shifting with a modulation system that, when combined with a delay send, produces Eventide H910-style harmonized echoes. It isn't a delay plugin in the conventional sense, but producers who understand routing use it to generate pitch-shifted delay content — harmonized echoes that add dimension to leads and vocals without requiring expensive dedicated harmonizers.
 
-The workflow is direct: send your dry signal to Graillon 2, shift the pitch by a defined interval, then feed the output into your delay. The result is a harmonized delay that tracks the input. The full version at roughly $29 adds chorus, vibrato, and advanced pitch controls — a worthwhile upgrade if pitch-delay hybrids become central to your sound, but not a purchase to make speculatively. Try the free core version on a real session first; if you find yourself reaching for it on every vocal-heavy track, the $29 unlock pays for itself fast, and Auburn Sounds runs it through periodic Plugin Boutique promotions worth watching — see our [Graillon 2 sale tracker](/blog/when-does-graillon-2-go-on-sale) for current pricing.
+The workflow is direct: send your dry signal to Graillon 2, shift the pitch by a defined interval, then feed the output into your delay. The result is a harmonized delay that tracks the input. The full version at roughly $29 adds chorus, vibrato, and advanced pitch controls — a worthwhile upgrade if pitch-delay hybrids become central to your sound, but not a purchase to make speculatively. Try the free core version on a real session first; if you find yourself reaching for it on every vocal-heavy track, the $29 unlock pays for itself fast, and Auburn Sounds runs it through periodic Plugin Boutique promotions worth watching — see our Graillon 2 sale tracker for current pricing.
 
 **Best for:** Vocal producers and sound designers after harmonized or pitch-shifted delay characters.
 
@@ -193,7 +193,7 @@ The free picks above handle the majority of production scenarios. But when speci
 - **Developer:** ValhalaDSP
 - **Price:** $50
 - **Why upgrade:** Valhalla Supermassive covers spatial delay beautifully, but Valhalla Delay adds Tape, HiFi, Ghost, Pitch, Pitch Tape, and Ratio modes — each with dedicated tone-shaping, diffusion, and feedback controls that go significantly beyond the free tier. For producers who need one plugin covering all format types at professional quality, $50 for Valhalla Delay is the most efficient spend in the delay category.
-- **Pricing behavior:** ValhalaDSP almost never discounts its catalog — $50 in July is generally the same $50 you'd pay in December. See our [Valhalla Delay sale tracker](/blog/when-does-valhalla-delay-go-on-sale) for confirmation, but don't plan around a sale that historically doesn't happen.
+- **Pricing behavior:** ValhalaDSP almost never discounts its catalog — $50 in July is generally the same $50 you'd pay in December. See our [Valhalla Delay sale tracker](/plugin-prices/valhalla-delay/) for confirmation, but don't plan around a sale that historically doesn't happen.
 
 [→ Get Valhalla Delay](https://valhalladsp.com/shop/delay/valhalladelay/)
 
@@ -206,7 +206,7 @@ The free picks above handle the majority of production scenarios. But when speci
 - **Developer:** Waves Audio
 - **Price:** ~$29–$49 list, frequently discounted to $29.99 or bundled
 - **Why upgrade:** H-Delay is the practical hybrid between analog warmth and digital precision — a BPM-synced delay with an analog/digital tone blend control that free tape emulations approach but don't fully replicate. It's the default "clean tape character" delay on countless professional mixing sessions, and its Waves-standard reliability makes it the low-risk choice when creative experimentation isn't the brief.
-- **Pricing behavior:** Waves runs some of the most aggressive and frequent sales in the plugin industry — WaveSummer, Black Friday, and near-monthly flash sales routinely drop H-Delay to $29.99 or fold it into $29.99–$49.99 multi-plugin bundles. Check our [Waves H-Delay sale tracker](/blog/when-does-waves-h-delay-go-on-sale) before buying at list price; it's rare to need to.
+- **Pricing behavior:** Waves runs some of the most aggressive and frequent sales in the plugin industry — WaveSummer, Black Friday, and near-monthly flash sales routinely drop H-Delay to $29.99 or fold it into $29.99–$49.99 multi-plugin bundles. Check our [Waves H-Delay sale tracker](/plugin-prices/waves-h-delay/) before buying at list price; it's rare to need to.
 
 [→ Get Waves H-Delay on Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20H-Delay&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins)
 
@@ -219,7 +219,7 @@ The free picks above handle the majority of production scenarios. But when speci
 - **Developer:** SoundToys
 - **Price:** $199 standalone, or included in the SoundToys 5 bundle (~$499 list)
 - **Why upgrade:** EchoBoy models the circuit-level behavior of specific hardware echo units — the Roland Space Echo, the Maestro Echoplex, the Binson Echorec — with physical modeling accuracy that free tape emulations don't match. If tape delay character is your signature sound, EchoBoy is the definitive tool, and the SoundToys 5 bundle amortizes the cost across the full effects collection.
-- **Pricing behavior:** SoundToys concentrates its discounting around Black Friday and its July 4 sale, when the full bundle has historically dropped toward $399 and standalone EchoBoy has been discounted 20–30%. Outside those windows, list price is standard. Track current pricing at our [SoundToys EchoBoy sale tracker](/blog/when-does-soundtoys-echoboy-go-on-sale) before committing to the full bundle.
+- **Pricing behavior:** SoundToys concentrates its discounting around Black Friday and its July 4 sale, when the full bundle has historically dropped toward $399 and standalone EchoBoy has been discounted 20–30%. Outside those windows, list price is standard. Track current pricing at our [SoundToys EchoBoy sale tracker](/plugin-prices/soundtoys-echoboy/) before committing to the full bundle.
 
 [→ Get SoundToys EchoBoy on Plugin Boutique](https://www.pluginboutique.com/search?q=SoundToys%20EchoBoy&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins)
 
@@ -259,11 +259,11 @@ Six of the nine plugins in this guide are free with no purchase decision to make
 
 **Buy now, don't wait:**
 - **Valhalla Delay ($50)** — ValhalaDSP essentially never discounts. Waiting for a sale here just delays a purchase that isn't going to get cheaper. If you've confirmed you need Tape/HiFi/Ghost/Pitch/Ratio modes beyond what Supermassive and SpaceModulator already give you free, buy it the day you need it.
-- **Graillon 2 full unlock ($29)** — low enough dollar amount that timing a sale rarely matters, though Auburn Sounds does run occasional Plugin Boutique promotions. Check the [Graillon 2 sale tracker](/blog/when-does-graillon-2-go-on-sale) if you're not in a rush, but don't hold a session hostage waiting on a $5–8 discount.
+- **Graillon 2 full unlock ($29)** — low enough dollar amount that timing a sale rarely matters, though Auburn Sounds does run occasional Plugin Boutique promotions. Check the Graillon 2 sale tracker if you're not in a rush, but don't hold a session hostage waiting on a $5–8 discount.
 
 **Wait for a sale unless you need it this week:**
-- **Waves H-Delay (~$29–$49 list)** — Waves discounts constantly. Buying at full list price is close to the worst possible time to buy a Waves plugin. Unless you have a session deadline this week, hold off and check the [Waves H-Delay sale tracker](/blog/when-does-waves-h-delay-go-on-sale) — you'll very likely see it at $29.99 or bundled within a month.
-- **SoundToys EchoBoy ($199 / $499 bundle)** — the single biggest spend in this guide, and the one most worth timing. SoundToys concentrates real discounts around Black Friday and its July 4 sale. If tape-machine-accurate delay is a "someday" purchase rather than an active session blocker, park it until one of those windows and track it at the [SoundToys EchoBoy sale tracker](/blog/when-does-soundtoys-echoboy-go-on-sale).
+- **Waves H-Delay (~$29–$49 list)** — Waves discounts constantly. Buying at full list price is close to the worst possible time to buy a Waves plugin. Unless you have a session deadline this week, hold off and check the [Waves H-Delay sale tracker](/plugin-prices/waves-h-delay/) — you'll very likely see it at $29.99 or bundled within a month.
+- **SoundToys EchoBoy ($199 / $499 bundle)** — the single biggest spend in this guide, and the one most worth timing. SoundToys concentrates real discounts around Black Friday and its July 4 sale. If tape-machine-accurate delay is a "someday" purchase rather than an active session blocker, park it until one of those windows and track it at the [SoundToys EchoBoy sale tracker](/plugin-prices/soundtoys-echoboy/).
 
 The practical rule: developers who rarely discount (ValhalaDSP) are safe to buy from at any time; developers who discount constantly (Waves) are never worth buying from at list price; and developers who discount seasonally (SoundToys) are worth planning a purchase around if the need isn't urgent.
 

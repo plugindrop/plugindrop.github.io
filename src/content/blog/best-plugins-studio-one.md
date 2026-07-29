@@ -52,7 +52,7 @@ This guide covers 12 third-party plugins with the strongest community endorsemen
 
 Developer documentation confirms Pro-Q 4 supports up to 24 EQ bands, with dynamic EQ mode available on every single band, alongside linear phase processing and full mid/side operation. KVR's community consistently describes the spectrum analyzer as the most readable of any EQ plugin on the market, with the inter-channel spectrum comparison allowing you to display a reference track's curve behind the active EQ — a workflow feature that has no native equivalent in Studio One. The zero-latency and linear phase modes are not just marketing; FabFilter's technical documentation details the exact tradeoffs between the two.
 
-FabFilter rarely runs deep discounts on individual plugins, so the buying calculus here is different from most of this list: waiting for a markdown on Pro-Q 4 alone usually means waiting for very little. If you're weighing whether now is actually a good time to buy, our dedicated [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale) page tracks the plugin's real price history so you're not guessing.
+FabFilter rarely runs deep discounts on individual plugins, so the buying calculus here is different from most of this list: waiting for a markdown on Pro-Q 4 alone usually means waiting for very little. If you're weighing whether now is actually a good time to buy, our dedicated [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale/) page tracks the plugin's real price history so you're not guessing.
 
 **Best for:** Mix engineers who need surgical per-band dynamics and a visual workflow that accelerates fast decisions.
 
@@ -90,7 +90,7 @@ There's no reason to wait on this one — it costs nothing, so grab it today and
 
 Neutron 4's Track Assistant feature, documented in iZotope's official product materials, analyzes incoming audio and generates EQ, compression, and transient shaping settings as an intelligent starting point rather than a blank slate. Reddit's r/edmproduction community frequently cites it as the most practically useful AI mixing tool for producers who are not trained mix engineers — it collapses the gap between "sounds rough" and "sounds like a mix." The inter-plugin communication system, also documented by iZotope, allows Neutron instances across multiple tracks to be aware of each other and avoid frequency masking.
 
-iZotope is one of the most reliably discounted developers in the plugin market — the company runs sales aggressively through Plugin Boutique, and the "From $149" entry price rarely reflects what most producers actually pay. This is a plugin worth waiting on unless you need it for a session this week. Track the pattern on our [When Does iZotope Neutron Go On Sale?](/blog/when-does-izotope-neutron-go-on-sale) page before you check out.
+iZotope is one of the most reliably discounted developers in the plugin market — the company runs sales aggressively through Plugin Boutique, and the "From $149" entry price rarely reflects what most producers actually pay. This is a plugin worth waiting on unless you need it for a session this week. Track the pattern on our When Does iZotope Neutron Go On Sale? page before you check out.
 
 **Best for:** Producers who mix their own releases and want intelligent, analyzable starting points instead of working from zero.
 
@@ -151,7 +151,7 @@ Valhalla documents Supermassive as using a modulated feedback delay network arch
 
 Serum's developer documentation describes a dual oscillator architecture with an integrated wavetable editor, a visual modulation matrix allowing drag-and-drop routing between any source and any destination, and a built-in effects chain including filters, reverb, delay, distortion, and chorus. KVR's community has consistently placed it at the top of wavetable synthesizer discussions since its release, primarily because the visual modulation routing makes synthesis concepts transparent rather than abstract — producers report understanding modulation faster in Serum than in any other synth. The third-party soundpack ecosystem built around Serum has no equivalent in the free-synth tier.
 
-Serum sees meaningful markdowns during major sale windows, and Splice's rental-to-own option is a legitimate alternative if you'd rather spread the cost — but that route usually costs more in total than a single discounted purchase. Check our [When Does Serum Go On Sale?](/blog/when-does-serum-go-on-sale) page before deciding between buying outright now or waiting a few weeks.
+Serum sees meaningful markdowns during major sale windows, and Splice's rental-to-own option is a legitimate alternative if you'd rather spread the cost — but that route usually costs more in total than a single discounted purchase. Check our [When Does Serum Go On Sale?](/posts/does-serum-ever-go-on-sale/) page before deciding between buying outright now or waiting a few weeks.
 
 **Best for:** EDM, bass music, pop, and any workflow where wavetable synthesis, visual modulation, and wide preset availability are priorities.
 
@@ -170,7 +170,7 @@ Serum sees meaningful markdowns during major sale windows, and Splice's rental-t
 
 Arturia's developer documentation for Pigments 5 describes a hybrid engine combining wavetable, virtual analog, sample, harmonic (additive), and granular oscillator types within a single voice architecture — five distinct synthesis types accessible without switching between separate instruments. Community discussions on Gearspace and r/synthesizers frequently highlight the arpeggiator and sequencer depth as a genuine differentiator, noting it operates at a level of complexity most softsynths reserve for dedicated sequencer plugins. The modulation system, per Arturia's documentation, supports a deep modulation slot structure with function generators and random sources included natively.
 
-Arturia's own pricing already fluctuates by a factor of two depending on the promotion running, which makes this one of the clearest "wait for a sale" cases on this list. Use our [When Does Arturia Pigments Go On Sale?](/blog/when-does-arturia-pigments-go-on-sale) tracker to catch it near the bottom of that range rather than paying MSRP.
+Arturia's own pricing already fluctuates by a factor of two depending on the promotion running, which makes this one of the clearest "wait for a sale" cases on this list. Use our [When Does Arturia Pigments Go On Sale?](/posts/when-does-arturia-pigments-go-on-sale/) tracker to catch it near the bottom of that range rather than paying MSRP.
 
 **Best for:** Sound designers who want multiple synthesis approaches in a single instrument, and producers who need evolving, animated patches.
 
@@ -208,7 +208,7 @@ u-he documents Tyrell N6 as a free plugin developed in collaboration with the Ge
 
 iZotope's documentation for Ozone 12 describes a modular mastering chain including dynamic EQ, maximizer, stereo imager, vintage tape and limiter modules, and a Master Assistant that analyzes a reference track and constructs an initial mastering chain. Community discussions on r/makinghiphop and Gearspace consistently note that Master Assistant has meaningfully lowered the barrier to self-mastering for producers working without dedicated mastering engineers. The Elements tier delivers the core limiter and EQ modules at a low entry price; Standard unlocks the full module set and reference matching.
 
-Like Neutron, Ozone is an iZotope product, which means the sale cadence is aggressive and predictable. Standard's ~$249 list price is rarely what buyers actually pay once a promotional window opens — see [When Does iZotope Ozone Go On Sale?](/blog/when-does-izotope-ozone-go-on-sale) for the pattern before committing to the Standard or Advanced tier.
+Like Neutron, Ozone is an iZotope product, which means the sale cadence is aggressive and predictable. Standard's ~$249 list price is rarely what buyers actually pay once a promotional window opens — see [When Does iZotope Ozone Go On Sale?](/posts/when-does-izotope-ozone-go-on-sale/) for the pattern before committing to the Standard or Advanced tier.
 
 **Best for:** Producers mastering their own releases who want a guided, full-chain approach rather than assembling individual mastering plugins.
 
@@ -246,7 +246,7 @@ Slate Digital documents Fresh Air as a transient and high-frequency enhancement 
 
 The Soundtoys 5 bundle, per the developer's documentation, includes over 20 creative effects spanning tape-modeled delay (EchoBoy), analog saturation (Decapitator), pitch and formant shifting (Little AlterBoy), vintage tremolo (Tremolator), resonant filtering (FilterFreak), and more. KVR's community and Gearspace threads consistently describe EchoBoy as the definitive software tape delay emulation, with its Rhythm Echo mode specifically cited as a reason to purchase the bundle outright. The $499 price point is significant, but community threads on r/WeAreTheMusicMakers track annual sales where the bundle price drops substantially.
 
-At $499, this is the single most expensive impulse buy on this list, and it's also one of the most heavily discounted during Black Friday and Cyber Monday specifically. Unless you have an immediate production need for EchoBoy or Decapitator this week, this is a textbook wait-for-sale purchase — our [When Does Soundtoys Go On Sale?](/blog/when-does-soundtoys-go-on-sale) page tracks exactly when those discounts land.
+At $499, this is the single most expensive impulse buy on this list, and it's also one of the most heavily discounted during Black Friday and Cyber Monday specifically. Unless you have an immediate production need for EchoBoy or Decapitator this week, this is a textbook wait-for-sale purchase — our When Does Soundtoys Go On Sale? page tracks exactly when those discounts land.
 
 **Best for:** Producers in hip-hop, lo-fi, indie, and psychedelic pop where tape saturation and character-driven delay are core sounds, not optional additions.
 
@@ -293,7 +293,7 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 - **Price:** ~$1,499 list (bundle pricing represents a real discount off buying each plugin individually)
 - **Why upgrade:** Pro-Q 4 alone covers EQ, but the Total Bundle adds Pro-MB (multiband dynamics), Pro-C 2 (transparent compressor), Pro-L 2 (industry-standard limiter), Pro-R 2 (algorithmic reverb), Saturn 2 (saturation and distortion), and FabFilter's creative time-based plugins — the entire FabFilter suite shares a consistent visual design language that becomes a real workflow advantage when you're working across mixing and mastering within the same session.
 
-Because FabFilter almost never discounts individual plugins, the Total Bundle is where the real savings in the FabFilter catalog live — buying the bundle is already effectively "the sale" compared to purchasing each plugin separately over time. Check [When Does FabFilter Total Bundle Go On Sale?](/blog/when-does-fabfilter-total-bundle-go-on-sale) to confirm whether Plugin Boutique currently has any additional bundle-specific promotion stacked on top.
+Because FabFilter almost never discounts individual plugins, the Total Bundle is where the real savings in the FabFilter catalog live — buying the bundle is already effectively "the sale" compared to purchasing each plugin separately over time. Check [When Does FabFilter Total Bundle Go On Sale?](/posts/when-does-fabfilter-total-bundle-go-on-sale/) to confirm whether Plugin Boutique currently has any additional bundle-specific promotion stacked on top.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763)
 
@@ -334,8 +334,8 @@ Not every plugin on this list belongs on the same purchase timeline. Treat these
 
 ### Wait for a sale window
 
-- **iZotope Neutron 4 and Ozone 12** — both see regular, meaningful discounts through Plugin Boutique. Unless you're mastering a release next week, hold off and check the [Neutron sale tracker](/blog/when-does-izotope-neutron-go-on-sale) and [Ozone sale tracker](/blog/when-does-izotope-ozone-go-on-sale) first.
-- **Serum** — discounted regularly enough that MSRP is rarely the smart entry point; see [When Does Serum Go On Sale?](/blog/when-does-serum-go-on-sale).
+- **iZotope Neutron 4 and Ozone 12** — both see regular, meaningful discounts through Plugin Boutique. Unless you're mastering a release next week, hold off and check the Neutron sale tracker and [Ozone sale tracker](/posts/when-does-izotope-ozone-go-on-sale/) first.
+- **Serum** — discounted regularly enough that MSRP is rarely the smart entry point; see [When Does Serum Go On Sale?](/posts/does-serum-ever-go-on-sale/).
 - **Arturia Pigments 5** — the widest observed price swing on this list (~$99–$199), making it the clearest "don't buy at list price" case here.
 - **Soundtoys 5** — at $499, this is the highest-stakes purchase on the list and the one where patience pays off the most; Black Friday and Cyber Monday consistently produce the deepest cuts.
 

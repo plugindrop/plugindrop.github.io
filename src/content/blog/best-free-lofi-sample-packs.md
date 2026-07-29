@@ -257,7 +257,7 @@ Splice's free sample section — distinct from its subscription service — incl
 
 **Best for:** Producers who want professionally recorded chord content with the most precise tag-filtering of any free platform.
 
-**Buy or wait:** Exhaust the free tier first. If you're regularly pulling stems, drum racks, and one-shots for multiple genres — not just lo-fi — the $9.99/month tier pays for itself; for a lo-fi-only workflow, the free tier plus ADSR usually covers it. See our [When Does Splice Go On Sale?](/blog/when-does-splice-go-on-sale) guide before subscribing at full price, since Splice runs periodic bonus-credit and discounted-first-month promotions.
+**Buy or wait:** Exhaust the free tier first. If you're regularly pulling stems, drum racks, and one-shots for multiple genres — not just lo-fi — the $9.99/month tier pays for itself; for a lo-fi-only workflow, the free tier plus ADSR usually covers it. See our When Does Splice Go On Sale? guide before subscribing at full price, since Splice runs periodic bonus-credit and discounted-first-month promotions.
 
 [→ Find Professional Lo-Fi Content on ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop)
 
@@ -292,7 +292,7 @@ MSXII Sound Design is one of the most-cited creators in lo-fi hip hop production
 - **Price:** From $14.95 per pack (larger bundles run higher)
 - **Why upgrade:** Free sources cover the basics well, but Loopmasters' lo-fi catalog adds label-level recording quality, instrument variety that free packs rarely reach — live upright bass, live jazz drumming, Wurlitzer, Rhodes — and commercial licensing clarity that eliminates the attribution ambiguity common on community platforms. Their lo-fi catalog spans multiple sub-genre styles from ambient chill to upbeat lo-fi hip hop, and a single $14.95 pack typically includes enough loops and one-shots to build several tracks' worth of unique-sounding material.
 
-**Buy or wait:** Buy now if you need a specific live instrument texture this week and can't find it free. Otherwise, Loopmasters and its sister storefronts run frequent site-wide percentage-off sales — check our [When Does Loopmasters Go On Sale?](/blog/when-does-loopmasters-go-on-sale) page before paying full price, since waiting a few weeks for a 30–50% off promotion is common.
+**Buy or wait:** Buy now if you need a specific live instrument texture this week and can't find it free. Otherwise, Loopmasters and its sister storefronts run frequent site-wide percentage-off sales — check our When Does Loopmasters Go On Sale? page before paying full price, since waiting a few weeks for a 30–50% off promotion is common.
 
 [→ Get Loopmasters Lo-Fi Packs (Official Site)](https://www.loopmasters.com/)
 
@@ -306,7 +306,7 @@ MSXII Sound Design is one of the most-cited creators in lo-fi hip hop production
 - **Price:** From $9.99
 - **Why upgrade:** ADSR's premium tier uses the same searchable platform as the free section but delivers professionally mastered content, more granular instrument separation across stems, and complete royalty-free commercial licensing without attribution requirements. For producers releasing music commercially, the licensing clarity alone justifies the step up from community-sourced free content, where per-sample terms can be inconsistent. At $9.99 for an entry-level premium pack, this is the smallest financial step up from free of any option in this guide.
 
-**Buy or wait:** This is the easiest "buy now" call in the guide — $9.99 is low enough that waiting for a sale rarely makes sense if you need commercial-clean content immediately. That said, ADSR runs seasonal storewide discounts a few times a year; check our [When Does ADSR Sounds Go On Sale?](/blog/when-does-adsr-sounds-go-on-sale) page if you're stocking up on multiple packs at once rather than buying just one.
+**Buy or wait:** This is the easiest "buy now" call in the guide — $9.99 is low enough that waiting for a sale rarely makes sense if you need commercial-clean content immediately. That said, ADSR runs seasonal storewide discounts a few times a year; check our When Does ADSR Sounds Go On Sale? page if you're stocking up on multiple packs at once rather than buying just one.
 
 [→ Get ADSR Sounds Lo-Fi Packs on Plugin Boutique](https://www.adsrsounds.com/?a_aid=plugindrop)
 
@@ -360,9 +360,9 @@ Free sources make up the bulk of this guide for a reason: for most lo-fi produce
 
 The "when to buy" question only becomes relevant once you've hit one of three specific gaps that free content can't close:
 
-- **You need a live instrument the free tier doesn't have.** Wurlitzer, upright bass, live jazz drum kit recordings — this is where Loopmasters ($14.95+) earns its price. Buy now if you need it for a project this week; otherwise check [When Does Loopmasters Go On Sale?](/blog/when-does-loopmasters-go-on-sale) and wait for a seasonal discount, which typically runs 30–50% off.
-- **You need guaranteed commercial licensing on a specific sound.** ADSR Premium's $9.99 entry price is low enough that waiting rarely saves meaningful money — buy it when you need it. For bulk purchases across several packs, check [When Does ADSR Sounds Go On Sale?](/blog/when-does-adsr-sounds-go-on-sale) first.
-- **You're producing across multiple genres, not just lo-fi.** A Splice subscription ($9.99–$19.99/month) only makes sense once you're pulling sounds broadly enough that the free tier's limits show up weekly. Check [When Does Splice Go On Sale?](/blog/when-does-splice-go-on-sale) for discounted first-month promotions before committing to a recurring subscription.
+- **You need a live instrument the free tier doesn't have.** Wurlitzer, upright bass, live jazz drum kit recordings — this is where Loopmasters ($14.95+) earns its price. Buy now if you need it for a project this week; otherwise check When Does Loopmasters Go On Sale? and wait for a seasonal discount, which typically runs 30–50% off.
+- **You need guaranteed commercial licensing on a specific sound.** ADSR Premium's $9.99 entry price is low enough that waiting rarely saves meaningful money — buy it when you need it. For bulk purchases across several packs, check When Does ADSR Sounds Go On Sale? first.
+- **You're producing across multiple genres, not just lo-fi.** A Splice subscription ($9.99–$19.99/month) only makes sense once you're pulling sounds broadly enough that the free tier's limits show up weekly. Check When Does Splice Go On Sale? for discounted first-month promotions before committing to a recurring subscription.
 
 The one time-sensitive window worth planning around: **Black Friday through Cyber Monday** and the **first two weeks of January**, when Loopmasters, Cymatics, and most sample library storefronts run their deepest sitewide discounts of the year. If a purchase isn't urgent, that's the window to wait for. If it is urgent — a client deadline, a release date — buy at full price and don't let a hypothetical future discount hold up a track that's due now.
 

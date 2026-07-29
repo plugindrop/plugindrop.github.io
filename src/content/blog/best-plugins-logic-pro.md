@@ -56,7 +56,7 @@ This isn't just a list, though. Buying plugins on impulse is how producers end u
 
 FabFilter Pro-Q 4 is the most-recommended parametric EQ in producer communities by a significant margin. Its per-band dynamic EQ, full-spectrum real-time analyzer with inter-channel comparison, and mid/side processing go meaningfully beyond Logic's Channel EQ — and developer documentation confirms all of this is available at the base price with no tier gating. KVR's community consistently highlights its Natural Phase mode as the practical middle ground between minimum phase and true linear phase for mix bus work.
 
-**Buy now or wait?** Buy now. FabFilter is famous in the plugin world for holding its prices firm — you will rarely, if ever, see Pro-Q 4 meaningfully discounted outside of the occasional small Black Friday bundle promotion. If you're waiting for a 50% flash sale the way you might with Soundtoys or iZotope, you'll be waiting years, not weeks. Check our [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale) breakdown before you decide to hold off — the short version is that it's almost never worth it.
+**Buy now or wait?** Buy now. FabFilter is famous in the plugin world for holding its prices firm — you will rarely, if ever, see Pro-Q 4 meaningfully discounted outside of the occasional small Black Friday bundle promotion. If you're waiting for a 50% flash sale the way you might with Soundtoys or iZotope, you'll be waiting years, not weeks. Check our [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale/) breakdown before you decide to hold off — the short version is that it's almost never worth it.
 
 **Best for:** Any mixing or mastering chain where precision and visual feedback are the priority.
 
@@ -96,7 +96,7 @@ TDR Nova combines a four-band parametric EQ with per-band dynamic compression in
 
 FabFilter Pro-C 2's defining feature is its gain reduction display, which visualizes exactly what the compressor is doing to your transients in real time. Developer documentation confirms eight distinct compression styles — Clean, Classic, Opto, Vocal, Mastering, Bus, Punch, and Pumping — plus lookahead, external sidechain, and mid/side processing at the base price. Producer communities treat Pro-C 2 and Pro-Q 4 as a natural pair for Logic Pro mixing workflows.
 
-**Buy now or wait?** Same logic as Pro-Q 4: FabFilter doesn't meaningfully discount, so there's no financial upside to delaying. If your budget only stretches to one FabFilter purchase this month, prioritize Pro-Q 4 first — EQ decisions affect more of your signal chain than compression does — then add Pro-C 2 once you've settled your EQ workflow. See our [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale) page for the pricing pattern that applies across the FabFilter catalog, Pro-C 2 included.
+**Buy now or wait?** Same logic as Pro-Q 4: FabFilter doesn't meaningfully discount, so there's no financial upside to delaying. If your budget only stretches to one FabFilter purchase this month, prioritize Pro-Q 4 first — EQ decisions affect more of your signal chain than compression does — then add Pro-C 2 once you've settled your EQ workflow. See our [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale/) page for the pricing pattern that applies across the FabFilter catalog, Pro-C 2 included.
 
 **Best for:** Producers learning gain staging who want visual feedback alongside the sound result.
 
@@ -155,7 +155,7 @@ OTT is an extreme upward/downward multiband compressor that Xfer Records release
 
 Valhalla VintageVerb models reverb algorithms from the 1970s and 1980s — the Roland Space Echo era through the Lexicon 480L era — with 17 distinct algorithms covering concert halls, plates, rooms, and non-linear modes. Developer-confirmed $50 pricing makes it one of the most frequently cited price-to-quality examples in any plugin discussion, and r/edmproduction rates it among the most-used reverbs regardless of budget bracket. Logic's Space Designer covers convolution well; VintageVerb fills the algorithmic gap.
 
-**Buy now or wait?** Buy now, without hesitation. Valhalla DSP has built its entire reputation on flat, no-sale pricing — Sean Costello has been explicit that the $50 price already reflects what he considers fair value, and the company essentially never runs discounts. Full details in our [When Does Valhalla VintageVerb Go On Sale?](/blog/when-does-valhalla-vintageverb-go-on-sale) guide, but the short answer is: it doesn't, so don't wait for one.
+**Buy now or wait?** Buy now, without hesitation. Valhalla DSP has built its entire reputation on flat, no-sale pricing — Sean Costello has been explicit that the $50 price already reflects what he considers fair value, and the company essentially never runs discounts. Full details in our [When Does Valhalla VintageVerb Go On Sale?](/plugin-prices/valhalla-vintageverb/) guide, but the short answer is: it doesn't, so don't wait for one.
 
 **Best for:** Algorithmic reverb for any genre, especially lush and musical spatial character.
 
@@ -197,7 +197,7 @@ ValhallaDelay follows the same pricing model and quality floor as VintageVerb bu
 
 Serum is the most-used wavetable synthesizer in electronic music production by community consensus across r/edmproduction, r/synthrecipes, and KVR. Developer documentation confirms two main oscillators, a noise oscillator, four LFOs, two envelopes, a built-in FX chain, and a custom wavetable drawing and import tool. The Serum preset market — Cymatics, W.A. Production, and dozens of free patch libraries — is the most developed in the industry, which compounds its value over time.
 
-**Buy now or wait?** Unlike FabFilter and Valhalla, Serum does show up in Plugin Boutique and Splice promotional bundles from time to time, particularly around Black Friday and Cyber Monday. If your purchase isn't urgent and you're within a couple months of late November, it's worth checking our [When Does Serum Go On Sale?](/blog/when-does-serum-go-on-sale) page before paying full price. If you need it for a project this week, $189 is a reasonable price to pay outright given the preset ecosystem you're buying into.
+**Buy now or wait?** Unlike FabFilter and Valhalla, Serum does show up in Plugin Boutique and Splice promotional bundles from time to time, particularly around Black Friday and Cyber Monday. If your purchase isn't urgent and you're within a couple months of late November, it's worth checking our [When Does Serum Go On Sale?](/posts/does-serum-ever-go-on-sale/) page before paying full price. If you need it for a project this week, $189 is a reasonable price to pay outright given the preset ecosystem you're buying into.
 
 **Best for:** Electronic music production, sound design, producers who want to build a large preset ecosystem.
 
@@ -256,7 +256,7 @@ Diva combines circuit-level simulation of classic oscillator, filter, and envelo
 
 Neutron 4's Mix Assistant function listens to your full mix, identifies frequency conflicts between tracks, and suggests gain adjustments and sidechain relationships. Developer documentation confirms the module set includes an EQ, two compressors, a transient shaper, a spectral sculptor, and an exciter. For Logic Pro users mixing their own material without a separate mixing engineer, Neutron 4's real-time analytical feedback is a structural tool, not just another effect.
 
-**Buy now or wait?** Wait, if you can. iZotope is one of the most heavily and predictably discounted developers in the industry — sales of 40–60% off list price are common during Black Friday, Cyber Monday, and periodic flash promotions throughout the year. Paying the full $249–$499 list price is close to the worst time you could buy. Check our [When Does iZotope Neutron Go On Sale?](/blog/when-does-izotope-neutron-go-on-sale) page before purchasing — patience here can easily save you over $100.
+**Buy now or wait?** Wait, if you can. iZotope is one of the most heavily and predictably discounted developers in the industry — sales of 40–60% off list price are common during Black Friday, Cyber Monday, and periodic flash promotions throughout the year. Paying the full $249–$499 list price is close to the worst time you could buy. Check our When Does iZotope Neutron Go On Sale? page before purchasing — patience here can easily save you over $100.
 
 **Best for:** Producers self-mixing their material who want systematic, track-level feedback on the full mix.
 
@@ -296,7 +296,7 @@ Soothe2 automatically detects and attenuates problematic resonant frequencies in
 
 Soundtoys Decapitator models five distinct analog saturation topologies — Ampex tape, EMI transformer, Neve input, Thermionic Culture, and a Chandler Zener limiter — each with a "Punish" control for heavier distortion and a Tone control for spectral tilt. KVR community discussions and producer YouTube educators consistently cite it as the go-to saturation plugin when tracks need harmonic density without obvious distortion. The macOS-only limitation is a non-issue for Logic Pro users.
 
-**Buy now or wait?** Wait if you're patient. Soundtoys is another developer known for frequent site-wide sales — 20-50% off promotions show up multiple times a year, not just around Black Friday. See our [When Does Soundtoys Decapitator Go On Sale?](/blog/when-does-soundtoys-decapitator-go-on-sale) page for the pattern. If you're only after one Soundtoys plugin, buying it individually during a sale is usually cheaper than buying the full Soundtoys 5 bundle at list price unless you genuinely plan to use several of the bundle's other tools (EchoBoy included, below).
+**Buy now or wait?** Wait if you're patient. Soundtoys is another developer known for frequent site-wide sales — 20-50% off promotions show up multiple times a year, not just around Black Friday. See our [When Does Soundtoys Decapitator Go On Sale?](/plugin-prices/soundtoys-decapitator/) page for the pattern. If you're only after one Soundtoys plugin, buying it individually during a sale is usually cheaper than buying the full Soundtoys 5 bundle at list price unless you genuinely plan to use several of the bundle's other tools (EchoBoy included, below).
 
 **Best for:** Adding analog harmonic character to any source — drums, synths, buses, or full mixes.
 
@@ -401,19 +401,19 @@ Not every plugin on this list deserves the same purchasing strategy. Splitting t
 
 ### Buy now — these developers essentially never discount
 
-- **FabFilter (Pro-Q 4, Pro-C 2, Total Bundle):** Fixed pricing is part of the brand. Waiting for a sale on individual FabFilter plugins is not a viable strategy — see [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale) for the full pattern.
-- **Valhalla DSP (VintageVerb, ValhallaDelay):** Same story — $50 has been the price for years, and it's unlikely to move. Check [When Does Valhalla VintageVerb Go On Sale?](/blog/when-does-valhalla-vintageverb-go-on-sale) if you want the details, but don't hold your breath for a discount.
+- **FabFilter (Pro-Q 4, Pro-C 2, Total Bundle):** Fixed pricing is part of the brand. Waiting for a sale on individual FabFilter plugins is not a viable strategy — see [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale/) for the full pattern.
+- **Valhalla DSP (VintageVerb, ValhallaDelay):** Same story — $50 has been the price for years, and it's unlikely to move. Check [When Does Valhalla VintageVerb Go On Sale?](/plugin-prices/valhalla-vintageverb/) if you want the details, but don't hold your breath for a discount.
 
 If your shortlist is entirely FabFilter and Valhalla plugins, there's genuinely no reason to delay a purchase for pricing reasons — buy when the project need arises.
 
 ### Worth watching — occasional, moderate discounts
 
-- **Serum, u-he Diva, Soothe2, Klanghelm's paid tier:** These developers run sales, but infrequently and usually in the 15–30% range, concentrated around Black Friday/Cyber Monday. If you're not in a rush, check our [When Does Serum Go On Sale?](/blog/when-does-serum-go-on-sale) page and set a reminder for late November.
+- **Serum, u-he Diva, Soothe2, Klanghelm's paid tier:** These developers run sales, but infrequently and usually in the 15–30% range, concentrated around Black Friday/Cyber Monday. If you're not in a rush, check our [When Does Serum Go On Sale?](/posts/does-serum-ever-go-on-sale/) page and set a reminder for late November.
 
 ### Wait for it — frequent, deep discounts
 
-- **iZotope (Neutron 4, Music Production Suite):** Routinely 40–60% off during multiple sale windows a year. Paying list price here is close to the worst-case scenario financially. See [When Does iZotope Neutron Go On Sale?](/blog/when-does-izotope-neutron-go-on-sale) before you buy.
-- **Soundtoys (Decapitator, EchoBoy, Soundtoys 5):** Frequent site-wide promotions, often 20–50% off, multiple times per year. Check [When Does Soundtoys Decapitator Go On Sale?](/blog/when-does-soundtoys-decapitator-go-on-sale) before purchasing at list price.
+- **iZotope (Neutron 4, Music Production Suite):** Routinely 40–60% off during multiple sale windows a year. Paying list price here is close to the worst-case scenario financially. See When Does iZotope Neutron Go On Sale? before you buy.
+- **Soundtoys (Decapitator, EchoBoy, Soundtoys 5):** Frequent site-wide promotions, often 20–50% off, multiple times per year. Check [When Does Soundtoys Decapitator Go On Sale?](/plugin-prices/soundtoys-decapitator/) before purchasing at list price.
 
 ### Free — no decision required
 

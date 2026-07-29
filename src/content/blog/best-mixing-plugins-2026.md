@@ -63,7 +63,7 @@ If you only read one section of this guide, read this one. Across every category
 | FabFilter Pro-L 2 | $179 | Mastering-grade limiting | Yes (30 days) | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-L%202&a_aid=69cb95abe1763) |
 | iZotope Ozone | $99+ | Complete mastering suite | Yes (10 days) | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
 
-FabFilter's generous 30-day trial policy is worth calling out specifically — it removes almost all purchase risk on Pro-Q 4, Pro-C 2, and Pro-L 2, which is a big part of why they dominate this list. If you're unsure whether a plugin fits your workflow, always check for a trial before spending. For a deeper look at when these specific FabFilter tools tend to go on sale rather than paying full price, see our dedicated pages: [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale), [When Does FabFilter Pro-C 2 Go On Sale?](/blog/when-does-fabfilter-pro-c-2-go-on-sale), and [When Does FabFilter Pro-L 2 Go On Sale?](/blog/when-does-fabfilter-pro-l-2-go-on-sale).
+FabFilter's generous 30-day trial policy is worth calling out specifically — it removes almost all purchase risk on Pro-Q 4, Pro-C 2, and Pro-L 2, which is a big part of why they dominate this list. If you're unsure whether a plugin fits your workflow, always check for a trial before spending. For a deeper look at when these specific FabFilter tools tend to go on sale rather than paying full price, see our dedicated pages: [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale/), [When Does FabFilter Pro-C 2 Go On Sale?](/posts/when-does-fabfilter-pro-c-2-go-on-sale/), and [When Does FabFilter Pro-L 2 Go On Sale?](/posts/when-does-fabfilter-pro-l-2-go-on-sale/).
 
 ## EQ Plugins
 
@@ -82,7 +82,7 @@ Pro-Q 4 sets the benchmark every other EQ gets measured against, and that hasn't
 
 **Best for:** Engineers who need surgical precision, dynamic EQ capabilities, and a workflow that scales from quick corrective work to deep spectral surgery across an entire session.
 
-Note that $179 is the list price — FabFilter runs sales less often than most developers, but when it does discount Pro-Q 4, the drop is usually meaningful. If you're not in a rush, check [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale) before buying at full price.
+Note that $179 is the list price — FabFilter runs sales less often than most developers, but when it does discount Pro-Q 4, the drop is usually meaningful. If you're not in a rush, check [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale/) before buying at full price.
 
 [→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
 
@@ -120,7 +120,7 @@ Pro-C 2 is a compressor that genuinely covers every scenario. Eight distinct com
 
 **Best for:** Engineers who want one compressor that covers every scenario, from delicate vocal rides to aggressive bus glue, without switching plugins.
 
-Pro-C 2 rarely dips below its $179 list price, but when it's bundled or discounted the savings can be significant — worth checking [When Does FabFilter Pro-C 2 Go On Sale?](/blog/when-does-fabfilter-pro-c-2-go-on-sale) if your purchase isn't urgent.
+Pro-C 2 rarely dips below its $179 list price, but when it's bundled or discounted the savings can be significant — worth checking [When Does FabFilter Pro-C 2 Go On Sale?](/posts/when-does-fabfilter-pro-c-2-go-on-sale/) if your purchase isn't urgent.
 
 [→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)
 
@@ -209,7 +209,7 @@ Soundtoys runs seasonal sales (notably around Black Friday and their anniversary
 - **Price:** $179
 - **Why upgrade:** Free limiters handle basic ceiling control but lack the transparent gain reduction, true peak limiting, and loudness metering (LUFS integrated, short-term, momentary) that professional streaming delivery requires. Pro-L 2's eight limiting algorithms let you hit loudness targets without audible distortion artifacts — the difference between a master that sounds loud and one that sounds crushed.
 
-Like the rest of the FabFilter range, Pro-L 2 holds its price well. Check [When Does FabFilter Pro-L 2 Go On Sale?](/blog/when-does-fabfilter-pro-l-2-go-on-sale) before your next release cycle if timing is flexible.
+Like the rest of the FabFilter range, Pro-L 2 holds its price well. Check [When Does FabFilter Pro-L 2 Go On Sale?](/posts/when-does-fabfilter-pro-l-2-go-on-sale/) before your next release cycle if timing is flexible.
 
 [→ Get FabFilter Pro-L 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-L%202&a_aid=69cb95abe1763)
 
@@ -252,7 +252,7 @@ Like the rest of the FabFilter range, Pro-L 2 holds its price well. Check [When 
 Not every plugin on this list deserves the same purchase timing. Here's how to think about it:
 
 - **Buy now, don't wait:** TDR Nova, Klanghelm DC8C (both free — there's no "sale" to wait for), and Valhalla Vintage Verb (Valhalla rarely discounts, and $50 is already the effective floor price).
-- **Wait for a sale if you can:** FabFilter Pro-Q 4, Pro-C 2, and Pro-L 2 all carry premium list prices that occasionally drop during major promotional windows. If your session isn't time-sensitive, check the dedicated pages — [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale), [When Does FabFilter Pro-C 2 Go On Sale?](/blog/when-does-fabfilter-pro-c-2-go-on-sale), and [When Does FabFilter Pro-L 2 Go On Sale?](/blog/when-does-fabfilter-pro-l-2-go-on-sale) — before committing to full price.
+- **Wait for a sale if you can:** FabFilter Pro-Q 4, Pro-C 2, and Pro-L 2 all carry premium list prices that occasionally drop during major promotional windows. If your session isn't time-sensitive, check the dedicated pages — [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale/), [When Does FabFilter Pro-C 2 Go On Sale?](/posts/when-does-fabfilter-pro-c-2-go-on-sale/), and [When Does FabFilter Pro-L 2 Go On Sale?](/posts/when-does-fabfilter-pro-l-2-go-on-sale/) — before committing to full price.
 - **Buy now if you have a deadline:** If you're mixing a project this week and need Pro-Q 4's dynamic EQ or Pro-L 2's true peak limiting for delivery, don't gamble on a sale window. The productivity gap while waiting typically costs more than the discount would save.
 - **Watch for seasonal bundle pricing:** Soundtoys Decapitator is most often discounted as part of the Soundtoys 5 bundle during Black Friday and anniversary sales — worth waiting for unless you need the saturation character immediately.
 - **iZotope products (Neutron, Ozone) discount frequently:** Both regularly appear in promotional pricing throughout the year, so unless you need the AI Assistant features today, waiting almost always pays off.
@@ -287,9 +287,9 @@ A: Bundles make sense once you know you'll use most of what's included — other
 **Buying guides**
 - [VST Plugin Black Friday Guide 2026 — Every Major Brand, Ranked by Discount](/posts/vst-plugin-black-friday-guide/)
 - [Best Plugin Bundle Deals 2026: Save 80%+ on Pro VSTs](/posts/best-plugin-bundle-deals/)
-- [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale)
-- [When Does FabFilter Pro-C 2 Go On Sale?](/blog/when-does-fabfilter-pro-c-2-go-on-sale)
-- [When Does FabFilter Pro-L 2 Go On Sale?](/blog/when-does-fabfilter-pro-l-2-go-on-sale)
+- [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale/)
+- [When Does FabFilter Pro-C 2 Go On Sale?](/posts/when-does-fabfilter-pro-c-2-go-on-sale/)
+- [When Does FabFilter Pro-L 2 Go On Sale?](/posts/when-does-fabfilter-pro-l-2-go-on-sale/)
 
 **Deep dives**
 - [FabFilter Pro-Q 4 Review: The Best EQ Plugin?](/posts/fabfilter-pro-q-4-review/)

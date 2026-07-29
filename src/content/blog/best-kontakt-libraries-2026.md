@@ -77,7 +77,7 @@ Because LABS is free and rotates its catalog, there's no "buy now vs. wait" deci
 
 Recorded at BBC's Maida Vale Studios with the BBC Symphony Orchestra, Discover is a curated subset of Spitfire's full BBCSO library. It covers all core sections — strings, brass, woodwinds, and percussion — with a streamlined interface built for sketching rather than deep articulation work. The scoring community on Vi-Control and Gearspace consistently positions BBCSO Discover as the free orchestral library benchmark, with no meaningful competition in the zero-cost tier. Its main limitation is articulation depth and mic position options relative to the paid tiers, both of which the upgrade addresses directly (see the Core tier further down).
 
-If you outgrow Discover, don't buy Core the day you notice the ceiling — check our [When Does BBC Symphony Orchestra Go On Sale?](/blog/when-does-bbc-symphony-orchestra-go-on-sale) page first, since Spitfire's Core/Professional/Ultimate tiers see meaningful markdowns several times a year.
+If you outgrow Discover, don't buy Core the day you notice the ceiling — check our When Does BBC Symphony Orchestra Go On Sale? page first, since Spitfire's Core/Professional/Ultimate tiers see meaningful markdowns several times a year.
 
 **Best for:** Film and TV composers who need a credible orchestral sketch tool at zero cost.
 
@@ -174,7 +174,7 @@ Session Strings Pro 2 is built for pop, R&B, and hybrid production contexts rath
 
 Damage 2 is the library that Vi-Control's scoring forum surfaces first in nearly every "what hybrid percussion should I buy" thread. It combines orchestral percussion samples with designed synthetic hits and custom sound design into a single Kontakt instrument with deep internal effects processing. The result is percussion that arrives broadcast-ready without additional treatment, which accounts for its consistent recommendation across trailer, game audio, and hybrid scoring communities.
 
-**Buy now or wait?** Heavyocity's list price on Damage 2 sits well above what it actually sells for most of the year — the ~$149 figure above is close to the "always on sale" price, not a special deal. Check our [When Does Heavyocity Damage Go On Sale?](/blog/when-does-heavyocity-damage-go-on-sale) page before paying full list; it's rare that this library isn't discounted at least 40–50% somewhere.
+**Buy now or wait?** Heavyocity's list price on Damage 2 sits well above what it actually sells for most of the year — the ~$149 figure above is close to the "always on sale" price, not a special deal. Check our When Does Heavyocity Damage Go On Sale? page before paying full list; it's rare that this library isn't discounted at least 40–50% somewhere.
 
 **Best for:** Film, trailer, and game audio composers who need designed percussion that sounds finished out of the box.
 
@@ -290,7 +290,7 @@ CineStrings has maintained strong community recommendation specifically for indi
 
 Albion ONE is the library that r/WeAreTheMusicMakers surfaces first in every "what orchestral library should I buy" thread, and that consistency across years of discussion reflects how well it fills its role. Recorded at Air Studios in London, it covers strings, brass, woodwinds, choir, and a curated selection of rhythmic loop content — an entire orchestral palette in one product. Spitfire's developer documentation confirms it was built specifically as a complete standalone solution for composers who want professional orchestral results without assembling individual section libraries.
 
-**Buy now or wait?** Of everything on this list, Albion ONE has the most predictable discount pattern — it drops well below $399 during Spitfire's Black Friday, New Year, and summer promotions almost every year. Unless you need it for a paying gig this week, this is close to the textbook "wait for the sale" purchase. Check our dedicated [When Does Spitfire Albion ONE Go On Sale?](/blog/when-does-spitfire-albion-one-go-on-sale) page for the exact windows before you buy.
+**Buy now or wait?** Of everything on this list, Albion ONE has the most predictable discount pattern — it drops well below $399 during Spitfire's Black Friday, New Year, and summer promotions almost every year. Unless you need it for a paying gig this week, this is close to the textbook "wait for the sale" purchase. Check our dedicated [When Does Spitfire Albion ONE Go On Sale?](/plugin-prices/spitfire-albion-one/) page for the exact windows before you buy.
 
 **Best for:** Composers who want one library covering the full orchestral palette at a professional standard.
 
@@ -308,7 +308,7 @@ Albion ONE is the library that r/WeAreTheMusicMakers surfaces first in every "wh
 - **Price:** ~$599 (Standard); ~$599–$999 for Ultimate; higher for Ultimate Collector's Edition — all tiers regularly discounted 30–50% during NI sales
 - **Why upgrade:** Komplete Start's Player license restricts you to NI-authorized content only. The full Komplete bundle includes a complete Kontakt license — which is the key that unlocks the entire third-party library market, including 8Dio, Heavyocity, ProjectSAM, Cinesamples, and thousands of other Kontakt-native libraries. The bundle's per-instrument cost is substantially lower than individual pricing; the Kontakt license alone justifies much of that investment for any producer who intends to grow their library collection beyond the NI ecosystem.
 
-**Buy now or wait?** This is the single biggest wait-for-sale purchase on this list in dollar terms. NI's Komplete Standard routinely drops from $599 to around $299–$399 during Black Friday and their anniversary promotion — a 40–50% swing that dwarfs anything else here. If you're not blocked on a specific third-party library today, waiting for the next NI sale window is close to a free 40% discount. Check our [When Does Native Instruments Komplete Go On Sale?](/blog/when-does-native-instruments-komplete-go-on-sale) page for the current forecast.
+**Buy now or wait?** This is the single biggest wait-for-sale purchase on this list in dollar terms. NI's Komplete Standard routinely drops from $599 to around $299–$399 during Black Friday and their anniversary promotion — a 40–50% swing that dwarfs anything else here. If you're not blocked on a specific third-party library today, waiting for the next NI sale window is close to a free 40% discount. Check our When Does Native Instruments Komplete Go On Sale? page for the current forecast.
 
 [→ Get Native Instruments Komplete on Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026)
 

@@ -259,7 +259,7 @@ If you've worked through the free tier and hit consistent friction — inflexibl
 - **Developer:** Native Instruments
 - **Price:** $99 standalone (included in Komplete Standard and higher bundles)
 - **Why upgrade:** Battery 4 ships with over 12,000 samples organized across acoustic, electronic, and hybrid categories, with a cell-based routing system that allows velocity-mapped layering at a depth free plugins structurally can't match. r/WeAreTheMusicMakers consistently positions it as the standard professional step-up from free drum samplers when producers need genuine kit customization, multi-layer programming, and complex sound design flexibility in a single plugin.
-- **Buying verdict:** Native Instruments runs frequent site-wide sales — Black Friday, summer, and anniversary promotions regularly discount Battery 4 by 30–50%, and it's often cheaper per-instrument as part of a discounted Komplete Select or Komplete Standard bundle than bought alone at list price. Unless you need it for a session this week, this is a "wait for the sale" purchase almost every time. Check our [When Does Native Instruments Battery 4 Go On Sale?](/blog/when-does-native-instruments-battery-4-go-on-sale) tracker before buying at $99.
+- **Buying verdict:** Native Instruments runs frequent site-wide sales — Black Friday, summer, and anniversary promotions regularly discount Battery 4 by 30–50%, and it's often cheaper per-instrument as part of a discounted Komplete Select or Komplete Standard bundle than bought alone at list price. Unless you need it for a session this week, this is a "wait for the sale" purchase almost every time. Check our [When Does Native Instruments Battery 4 Go On Sale?](/plugin-prices/native-instruments-battery-4/) tracker before buying at $99.
 
 [→ Get Native Instruments Battery 4](https://www.native-instruments.com/en/products/komplete/drums/battery-4/)
 
@@ -272,7 +272,7 @@ If you've worked through the free tier and hit consistent friction — inflexibl
 - **Developer:** XLN Audio
 - **Price:** From $99 (core library); ADpak expansion kits typically $30–$50 each
 - **Why upgrade:** Addictive Drums 2's consistent advantage — cited regularly in r/audioengineering and r/WeAreTheMusicMakers — is that its output sits in a mix with minimal post-processing. Each kit is recorded with multiple mic positions and phase-coherent bleed, so less time goes to EQ, compression, and drum buss work. If you find yourself spending significant session time processing free drum samples just to make them sit, AD2 removes that friction at scale.
-- **Buying verdict:** XLN Audio and Plugin Boutique both run Addictive Drums 2 discounts multiple times a year, and the "from $99" entry price frequently drops to $49–$69 during flash sales, with ADpak expansions bundled in at a discount alongside the core engine. This is rarely worth buying at full list price — check our [When Does Addictive Drums 2 Go On Sale?](/blog/when-does-addictive-drums-2-go-on-sale) tracker first. The one exception: if you have a paid session or deadline this week and need the mix-ready output now, the time saved on processing can justify paying list price rather than waiting.
+- **Buying verdict:** XLN Audio and Plugin Boutique both run Addictive Drums 2 discounts multiple times a year, and the "from $99" entry price frequently drops to $49–$69 during flash sales, with ADpak expansions bundled in at a discount alongside the core engine. This is rarely worth buying at full list price — check our [When Does Addictive Drums 2 Go On Sale?](/posts/when-does-addictive-drums-2-go-on-sale/) tracker first. The one exception: if you have a paid session or deadline this week and need the mix-ready output now, the time saved on processing can justify paying list price rather than waiting.
 
 [→ Get XLN Audio Addictive Drums 2 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763)
 
@@ -319,8 +319,8 @@ Every plugin in the acoustic, beat-machine, and open-source sections above is fr
 
 **Wait for a sale if:**
 - You're upgrading speculatively — "this might make my drums sound better" — rather than to fix a limitation you've actually hit. Both plugins discount 30–50% multiple times a year (Black Friday is the deepest and most reliable window for both), so speculative upgrades should default to waiting.
-- You're considering Battery 4 as part of a broader Native Instruments purchase. Komplete bundles that include Battery 4 alongside other instruments go on sale often enough that buying Battery 4 alone at $99 rarely makes sense unless you specifically don't want the rest of the bundle. Check [When Does Native Instruments Battery 4 Go On Sale?](/blog/when-does-native-instruments-battery-4-go-on-sale) before buying.
-- You're weighing Addictive Drums 2 against ADpak expansion costs. XLN periodically bundles the core library with expansion kits at a steeper combined discount than buying separately, even at "from $99" pricing. Check [When Does Addictive Drums 2 Go On Sale?](/blog/when-does-xln-audio-addictive-drums-2-go-on-sale) before committing to the core library alone.
+- You're considering Battery 4 as part of a broader Native Instruments purchase. Komplete bundles that include Battery 4 alongside other instruments go on sale often enough that buying Battery 4 alone at $99 rarely makes sense unless you specifically don't want the rest of the bundle. Check [When Does Native Instruments Battery 4 Go On Sale?](/plugin-prices/native-instruments-battery-4/) before buying.
+- You're weighing Addictive Drums 2 against ADpak expansion costs. XLN periodically bundles the core library with expansion kits at a steeper combined discount than buying separately, even at "from $99" pricing. Check [When Does Addictive Drums 2 Go On Sale?](/plugin-prices/xln-audio-addictive-drums-2/) before committing to the core library alone.
 
 **The practical rule:** free plugins are a zero-risk "buy now" by definition — there's no price to time. Paid plugins are a "wait unless urgent" purchase, because both Battery 4 and Addictive Drums 2 go on sale often enough that list price is close to the worst price you'll pay for either one across a calendar year.
 
@@ -353,5 +353,5 @@ A: Only if you've hit a specific, repeatable limitation — not preemptively. If
 - [Best VST Plugins for Hip Hop Production](/posts/best-vst-plugins-hip-hop/)
 - [Best Trap VST Plugins 2026](/posts/best-trap-vst-plugins/)
 - [Best Free VST Plugins 2026: The Complete Roundup Across All Categories](/posts/best-free-vst-plugins-2026/)
-- [When Does Native Instruments Battery 4 Go On Sale?](/blog/when-does-native-instruments-battery-4-go-on-sale)
-- [When Does Addictive Drums 2 Go On Sale?](/blog/when-does-xln-audio-addictive-drums-2-go-on-sale)
+- [When Does Native Instruments Battery 4 Go On Sale?](/plugin-prices/native-instruments-battery-4/)
+- [When Does Addictive Drums 2 Go On Sale?](/plugin-prices/xln-audio-addictive-drums-2/)

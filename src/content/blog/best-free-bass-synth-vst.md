@@ -228,7 +228,7 @@ Free covers synthesis capability comprehensively — but there's a point where a
 - **Price:** ~$49 (regularly discounted to ~$29 during Plugin Boutique sales)
 - **Why upgrade:** The ten free synths above comprehensively cover synthesis capability, but Scaler 2 addresses a different gap: harmonic intelligence. It detects the key and scale of your session, suggests chord progressions and bass patterns suited to your track's tonality, and outputs MIDI you can route directly into any synthesizer on this list. Producers who find themselves recycling the same bass patterns benefit from Scaler 2 as a compositional tool — it is not a synthesizer replacement, but a workflow accelerator that pairs with every plugin here.
 
-Scaler 2 goes on sale often enough that paying full price is rarely necessary — check [When Does Scaler 2 Go On Sale?](/blog/when-does-scaler-2-go-on-sale) before buying to time your purchase around Plugin Boutique's regular promotional windows.
+Scaler 2 goes on sale often enough that paying full price is rarely necessary — check When Does Scaler 2 Go On Sale? before buying to time your purchase around Plugin Boutique's regular promotional windows.
 
 [→ Get Scaler 2 on Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/70-Utility/6439-Scaler-2?a_aid=69cb95abe1763)
 
@@ -242,7 +242,7 @@ Scaler 2 goes on sale often enough that paying full price is rarely necessary �
 - **Price:** Paid — historically priced around $39–$49 when u-he runs it as a paid release; check Plugin Boutique for current pricing
 - **Why upgrade:** Tyrell N6's two oscillators with hard sync and ring modulation, combined with u-he's filter implementation, produce analog-style bass tones that sit in a mix with natural authority. If the warmth of Podolski's filter appeals but you need greater modulation depth, a second oscillator, and harder-edged tonal options, Tyrell N6 is the direct architectural step up within the same sound design philosophy.
 
-Because u-he products cycle through Plugin Boutique's seasonal promotions, it's worth checking [When Does u-he Tyrell N6 Go On Sale?](/blog/when-does-u-he-tyrell-n6-go-on-sale) rather than buying the moment you decide you want it.
+Because u-he products cycle through Plugin Boutique's seasonal promotions, it's worth checking When Does u-he Tyrell N6 Go On Sale? rather than buying the moment you decide you want it.
 
 [→ Get u-he Tyrell N6 on Plugin Boutique](https://www.pluginboutique.com/search?q=u-he%20Tyrell%20N6&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst)
 
@@ -254,7 +254,7 @@ Because u-he products cycle through Plugin Boutique's seasonal promotions, it's 
 - **Price:** ~$189 (Serum 2), with the original Serum available at a lower tier for existing-license upgrades
 - **Why upgrade:** Vital closes most of the gap to Serum, but Serum 2 still leads on wavetable editing depth, the sheer size of its third-party preset ecosystem, and sound design tutorials built specifically around it. If you regularly work from commercial sample packs or preset banks that assume Serum, buying it removes a genuine compatibility friction point that Vital can't fully solve. This is the one purchase on this list where the argument isn't "it sounds better" — Vital is close enough sonically — it's "the ecosystem around it saves you time."
 
-Serum 2 rarely drops below list price outside major sales windows — see [When Does Serum 2 Go On Sale?](/blog/when-does-serum-2-go-on-sale) for the pattern before buying.
+Serum 2 rarely drops below list price outside major sales windows — see [When Does Serum 2 Go On Sale?](/plugin-prices/serum-2/) for the pattern before buying.
 
 ---
 
@@ -264,7 +264,7 @@ Serum 2 rarely drops below list price outside major sales windows — see [When 
 - **Price:** ~$179 (frequently discounted to ~$99–$129 during sales)
 - **Why upgrade:** Diva models real analog circuit behavior rather than approximating it, and its bass patches are widely cited in production forums as the closest software gets to genuine Moog/Roland/Jupiter low-end character. This is a purchase for producers whose genre (house, techno, funk-influenced electronic) leans on that specific analog authenticity and who have already outgrown OB-Xd and Tyrell N6.
 
-Diva's price swings significantly across the year — confirm timing with [When Does u-he Diva Go On Sale?](/blog/when-does-u-he-diva-go-on-sale) before committing to full price.
+Diva's price swings significantly across the year — confirm timing with [When Does u-he Diva Go On Sale?](/plugin-prices/u-he-diva/) before committing to full price.
 
 ---
 
@@ -310,7 +310,7 @@ Everything in the "Best For" list above is free, so there's no purchase timing t
 - You're assembling a permanent studio template and the plugin will get daily use for years — amortized over that timeframe, even full price is a rounding error.
 
 **Wait for a sale if:**
-- You want Serum 2 or Diva but don't have an immediate task blocked on them. These two rarely need to be bought at list price — check their dedicated sale-tracking pages ([Serum 2](/blog/when-does-serum-2-go-on-sale), [u-he Diva](/blog/when-does-u-he-diva-go-on-sale)) and set a price alert rather than buying on impulse.
+- You want Serum 2 or Diva but don't have an immediate task blocked on them. These two rarely need to be bought at list price — check their dedicated sale-tracking pages ([Serum 2](/plugin-prices/serum-2/), [u-he Diva](/plugin-prices/u-he-diva/)) and set a price alert rather than buying on impulse.
 - You're still working through the free tier's capability. If you haven't hit Surge XT's or Vital's ceiling yet, there's no urgency — spend that money on samples, mixing plugins, or nothing at all until a specific limitation shows up in your workflow.
 - Major sales windows (Black Friday/Cyber Monday, and Plugin Boutique's recurring flash sales) reliably beat everyday pricing on nearly every paid plugin named in this guide — if your purchase isn't urgent, that's the default answer.
 

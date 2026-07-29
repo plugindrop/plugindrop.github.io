@@ -55,8 +55,8 @@ GSi's physically modeled Rhodes Mark II is warmer and more dynamically responsiv
 
 Free piano VSTs cover most sessions, but two gaps show up consistently once a producer starts finishing tracks rather than sketching them: expressive depth (how a piano responds to touch dynamics and pedal), and true acoustic resonance modeling (sympathetic string vibration, not just layered velocity samples).
 
-- **Spitfire Felt Piano** solves the first problem. It's the paid sibling to LABS Soft Piano, with more articulations and mic positions, and it's regularly discounted well below its ~$49 list price during Spitfire's flash sales. Check [When Does Spitfire Originals Go On Sale?](/blog/when-does-spitfire-originals-go-on-sale) before buying at full price — this line rarely stays at list for long.
-- **Arturia Piano V3** solves the second. Its physical modeling engine simulates real resonance instead of sampling it, which is the difference producers notice most when a piano part is exposed and dry. At ~$199 standalone it's a real purchase, not an impulse buy — see [When Does Arturia Piano V3 Go On Sale?](/blog/when-does-arturia-piano-v3-go-on-sale) for typical discount timing before committing.
+- **Spitfire Felt Piano** solves the first problem. It's the paid sibling to LABS Soft Piano, with more articulations and mic positions, and it's regularly discounted well below its ~$49 list price during Spitfire's flash sales. Check When Does Spitfire Originals Go On Sale? before buying at full price — this line rarely stays at list for long.
+- **Arturia Piano V3** solves the second. Its physical modeling engine simulates real resonance instead of sampling it, which is the difference producers notice most when a piano part is exposed and dry. At ~$199 standalone it's a real purchase, not an impulse buy — see When Does Arturia Piano V3 Go On Sale? for typical discount timing before committing.
 
 ## When to Buy
 
