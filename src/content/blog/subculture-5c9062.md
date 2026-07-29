@@ -10,7 +10,7 @@ dealPrice: "$79.00"
 originalPrice: "$129.00"
 discount: "39% OFF"
 xText: "a tuned subharmonic generator at $79? Baby Audio’s new SubCulture is 39% off from $129, using real-time pitch tracking to keep bass layers musical. wait and the $50 saving vanishes."
-draft: false
+draft: true
 ---
 If you only install one, make it SubCulture if you need an audio-enhancement plugin at a clearly stated sale price rather than paying full retail.
 
