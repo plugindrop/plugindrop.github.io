@@ -3,7 +3,7 @@ title: "ADSR Sounds Summer Sale: Up to 96% off sound packs, plugins & more"
 description: "ADSR Sounds' 2026 Summer Sale is live with savings of up to 96% off sound packs, plugins, and courses — including a standout bundle: 10 house packs for..."
 pubDate: "2026-06-17T11:25:36Z"
 tags: ["sale", "music-production"]
-affiliate: "https://www.adsrsounds.com/product/presets/summer-house-collection-10-packs-for-25/?a_aid=plugindrop&data1=adsr-sounds-summer-sale-up-to-96-off-sound-packs-plugins-mor&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-summer-sale-up-to-96-off-sound-packs-plugins-mor#a_aid=rekkerd"
+affiliate: "https://www.adsrsounds.com/product/presets/summer-house-collection-10-packs-for-25/?a_aid=plugindrop&data1=adsr-sounds-summer-sale-up-to-96-off-sound-packs-plugins-mor&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-summer-sale-up-to-96-off-sound-packs-plugins-mor"
 heroImage: "/images/adsr-sounds-summer-sale-up-to-96-off-sound-packs-plugins-mor.jpg"
 score: 8.93
 dealPrice: "$25"
@@ -12,7 +12,7 @@ saleExpiry: "2026-07-06"
 xText: "96% off adsr packs. genuinely the lowest i've ever seen. if your sample library's been collecting dust, this hits different"
 draft: true
 ---
-**TL;DR:** ADSR Sounds' 2026 Summer Sale is live with savings of up to 96% off sound packs, plugins, and courses — including a standout bundle: 10 house packs for just $25. The sale runs until July 6th, so the window to lock in these prices is short. [Browse the Summer House Collection deal here.](https://www.adsrsounds.com/product/presets/summer-house-collection-10-packs-for-25/?a_aid=plugindrop&data1=adsr-sounds-summer-sale-up-to-96-off-sound-packs-plugins-mor&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-summer-sale-up-to-96-off-sound-packs-plugins-mor#a_aid=rekkerd)
+**TL;DR:** ADSR Sounds' 2026 Summer Sale is live with savings of up to 96% off sound packs, plugins, and courses — including a standout bundle: 10 house packs for just $25. The sale runs until July 6th, so the window to lock in these prices is short. [Browse the Summer House Collection deal here.](https://www.adsrsounds.com/product/presets/summer-house-collection-10-packs-for-25/?a_aid=plugindrop&data1=adsr-sounds-summer-sale-up-to-96-off-sound-packs-plugins-mor&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-summer-sale-up-to-96-off-sound-packs-plugins-mor)
 
 ---
 
@@ -63,7 +63,7 @@ ADSR Sounds runs seasonal sales periodically, but a "up to 96% off" headline dis
 
 Note: Verify current pricing on the product page — deals can change, and discount depths vary by individual product.
 
-[Get the Summer House Collection (10 Packs for $25) →](https://www.adsrsounds.com/product/presets/summer-house-collection-10-packs-for-25/?a_aid=plugindrop&data1=adsr-sounds-summer-sale-up-to-96-off-sound-packs-plugins-mor&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-summer-sale-up-to-96-off-sound-packs-plugins-mor#a_aid=rekkerd)
+[Get the Summer House Collection (10 Packs for $25) →](https://www.adsrsounds.com/product/presets/summer-house-collection-10-packs-for-25/?a_aid=plugindrop&data1=adsr-sounds-summer-sale-up-to-96-off-sound-packs-plugins-mor&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-summer-sale-up-to-96-off-sound-packs-plugins-mor)
 
 ---
 
@@ -99,7 +99,7 @@ A: Check the official ADSR Sounds website for their current refund and returns p
 
 Up to 96% off across sound packs, plugins, and courses — and 10 house packs for $25 is the kind of per-unit math that's hard to ignore. The sale closes July 6th.
 
-[Shop the ADSR Sounds Summer Sale →](https://www.adsrsounds.com/product/presets/summer-house-collection-10-packs-for-25/?a_aid=plugindrop&data1=adsr-sounds-summer-sale-up-to-96-off-sound-packs-plugins-mor&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-summer-sale-up-to-96-off-sound-packs-plugins-mor#a_aid=rekkerd)
+[Shop the ADSR Sounds Summer Sale →](https://www.adsrsounds.com/product/presets/summer-house-collection-10-packs-for-25/?a_aid=plugindrop&data1=adsr-sounds-summer-sale-up-to-96-off-sound-packs-plugins-mor&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-summer-sale-up-to-96-off-sound-packs-plugins-mor)
 
 ## Related Guides
 

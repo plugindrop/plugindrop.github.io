@@ -3,14 +3,14 @@ title: "ADSR Sounds launches value bundles for Massive, Serum & Cthulhu"
 description: "ADSR Sounds is running a limited-time promotion on three value bundles — Cthulhu, Serum, and Massive — each priced at just **$20** and packed with 8 packs..."
 pubDate: "2026-05-07T08:05:29Z"
 tags: ["samples and presets", "cthulhu", "massive", "sale", "serum", "bundle", "synth", "music-production"]
-affiliate: "https://www.adsrsounds.com/product/presets/cthulhu-bundle/?a_aid=plugindrop&data1=adsr-sounds-launches-value-bundles-for-massive-serum-cthulhu&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-launches-value-bundles-for-massive-serum-cthulhu#a_aid=rekkerd"
+affiliate: "https://www.adsrsounds.com/product/presets/cthulhu-bundle/?a_aid=plugindrop&data1=adsr-sounds-launches-value-bundles-for-massive-serum-cthulhu&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-launches-value-bundles-for-massive-serum-cthulhu"
 heroImage: "/images/adsr-sounds-launches-value-bundles-for-massive-serum-cthulhu.jpg"
 score: 7.20
 dealPrice: "$20"
 xText: "the bundle math just hit different. massive + serum + cthulhu together from adsr is how you build a real synth arsenal."
 draft: true
 ---
-**TL;DR:** ADSR Sounds is running a limited-time promotion on three value bundles — Cthulhu, Serum, and Massive — each priced at just **$20** and packed with 8 packs of presets. That breaks down to **$2.50 per pack**, making this one of the better raw value plays for preset hunters right now. [Grab the bundles at ADSR Sounds.](https://www.adsrsounds.com/product/presets/cthulhu-bundle/?a_aid=plugindrop&data1=adsr-sounds-launches-value-bundles-for-massive-serum-cthulhu&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-launches-value-bundles-for-massive-serum-cthulhu#a_aid=rekkerd)
+**TL;DR:** ADSR Sounds is running a limited-time promotion on three value bundles — Cthulhu, Serum, and Massive — each priced at just **$20** and packed with 8 packs of presets. That breaks down to **$2.50 per pack**, making this one of the better raw value plays for preset hunters right now. [Grab the bundles at ADSR Sounds.](https://www.adsrsounds.com/product/presets/cthulhu-bundle/?a_aid=plugindrop&data1=adsr-sounds-launches-value-bundles-for-massive-serum-cthulhu&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-launches-value-bundles-for-massive-serum-cthulhu)
 
 ---
 
@@ -58,7 +58,7 @@ Each bundle is synth-specific and contains 8 packs of professionally designed pr
 
 The original individual pricing isn't confirmed — verify current pricing on the product page to see the full savings. Deals like this are time-limited, so the window to lock in $20 may close without notice.
 
-[View the bundles at ADSR Sounds.](https://www.adsrsounds.com/product/presets/cthulhu-bundle/?a_aid=plugindrop&data1=adsr-sounds-launches-value-bundles-for-massive-serum-cthulhu&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-launches-value-bundles-for-massive-serum-cthulhu#a_aid=rekkerd)
+[View the bundles at ADSR Sounds.](https://www.adsrsounds.com/product/presets/cthulhu-bundle/?a_aid=plugindrop&data1=adsr-sounds-launches-value-bundles-for-massive-serum-cthulhu&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-launches-value-bundles-for-massive-serum-cthulhu)
 
 ---
 
@@ -96,7 +96,7 @@ A: Check the official ADSR Sounds site for their current refund and end-user lic
 
 Eight packs, one synth, twenty dollars — the math is simple. If you produce with Serum, Massive, or Cthulhu, this limited promotion is worth a look before it expires.
 
-[Pick up your bundle at ADSR Sounds.](https://www.adsrsounds.com/product/presets/cthulhu-bundle/?a_aid=plugindrop&data1=adsr-sounds-launches-value-bundles-for-massive-serum-cthulhu&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-launches-value-bundles-for-massive-serum-cthulhu#a_aid=rekkerd)
+[Pick up your bundle at ADSR Sounds.](https://www.adsrsounds.com/product/presets/cthulhu-bundle/?a_aid=plugindrop&data1=adsr-sounds-launches-value-bundles-for-massive-serum-cthulhu&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-launches-value-bundles-for-massive-serum-cthulhu)
 
 ## Related Guides
 
