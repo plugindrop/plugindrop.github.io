@@ -12,7 +12,7 @@ relatedPosts:
   - "serum-vs-vital-comparison"
   - "best-synth-vst-plugins-2026"
   - "free-alternative-to-serum-vst"
-heroImage: '/images/when-does-serum-go-on-sale.jpg'
+heroImage: '/images/does-serum-ever-go-on-sale.jpg'
 draft: true
 ---
 

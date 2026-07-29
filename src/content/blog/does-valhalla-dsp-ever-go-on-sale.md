@@ -9,7 +9,7 @@ tags:
 relatedPosts:
   - "free-alternative-to-valhalla-reverb"
   - "best-reverb-plugins-2026"
-heroImage: '/images/when-does-valhalla-dsp-go-on-sale.jpg'
+heroImage: '/images/does-valhalla-dsp-ever-go-on-sale.jpg'
 draft: true
 ---
 
