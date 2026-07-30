@@ -1087,9 +1087,11 @@ const featuredDeals = isEvergreen ? allPosts
 
 					{isEvergreen && <NewsletterForm />}
 
-					<div class="affiliate-disclosure">
-						<p>This post contains affiliate links. We may earn a small commission at no extra cost to you.</p>
-					</div>
+					{affiliate && (
+						<div class="affiliate-disclosure">
+							<p>This post contains affiliate links. We may earn a small commission at no extra cost to you.</p>
+						</div>
+					)}
 				</div>
 				<div class="toc-rail-wrap">
 					<aside class="toc-rail" aria-label="Article outline">

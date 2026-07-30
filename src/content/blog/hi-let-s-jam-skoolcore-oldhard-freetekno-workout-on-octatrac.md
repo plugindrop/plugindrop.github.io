@@ -8,8 +8,7 @@ heroImage: "/images/hi-let-s-jam-skoolcore-oldhard-freetekno-workout-on-octatrac
 score: 6.11
 dealPrice: "FREE"
 xText: "honestly this free plugin shouldn't slap this hard. skoolcore oldhard is exactly what my freetekno workflow was missing. sit on this if you want but the clock's ticking"
-draft: false
----
+draft: true---
 **TL;DR:** If you only watch one freetekno hardware jam this week, make it this one — it costs nothing and runs the full oldhard/skoolcore vibe from start to finish. A Reddit user posted a live hardware "workout" video titled *Hi. Let's jam - Skoolcore Oldhard - Freetekno workout* to r/synthesizers, and it's free to stream any time via the [YouTube link](https://youtu.be/bu3Z2CaQiHU?si=2CBuVvGEe-zOlLxM). No signup, no price tag, just a jam session shared with the hardware synth community.
 
 <div class="video-embed">
