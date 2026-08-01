@@ -221,30 +221,6 @@
           "regular": 659,
           "sale": null,
           "source": "live_check"
-        },
-        {
-          "date": "2024-11-29",
-          "regular": 299.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-12-04",
-          "regular": 299.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-12",
-          "regular": 526.9,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-09-23",
-          "regular": 399.4,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "category": "Bundle"
@@ -267,18 +243,6 @@
           "regular": 1319,
           "sale": null,
           "source": "live_check"
-        },
-        {
-          "date": "2025-01-16",
-          "regular": 1199.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-08",
-          "regular": 959.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "category": "Bundle"
@@ -21472,36 +21436,6 @@
           "regular": 99.0,
           "sale": 29.0,
           "source": "pb_crawl"
-        },
-        {
-          "date": "2021-12-09",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-01-27",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-02-20",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-09-22",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-08-08",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
