@@ -319,12 +319,6 @@
           "regular": 799,
           "sale": 159,
           "source": "auto_check"
-        },
-        {
-          "date": "2025-03-10",
-          "regular": 799.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "category": "Bundle"
@@ -551,18 +545,6 @@
           "regular": 699,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2025-04-24",
-          "regular": 699.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-06-17",
-          "regular": 699.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "category": "Bundle"
