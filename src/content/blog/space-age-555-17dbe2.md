@@ -10,7 +10,7 @@ dealPrice: "$35.00"
 originalPrice: "$69.00"
 discount: "49% OFF"
 xText: "space age 555 dropped 49% on launch day—this rarely happens with new plugins. it'll probably bounce back to full price by next week. if you've been waiting for a gap like this, here it is."
-draft: false
+draft: true
 ---
 **TL;DR:** Space Age 555 is currently ~~$69~~ **$35** at Plugin Boutique, a 49% discount. If you want a retro-flavored reverb effect for less than the price of most single plugins, this is a straightforward way to add one to your rack. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/13936-Space-Age-555?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=space-age-555-17dbe2).
 

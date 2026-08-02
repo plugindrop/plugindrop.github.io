@@ -10,7 +10,7 @@ dealPrice: "$24.99"
 originalPrice: "$200.99"
 discount: "88% OFF"
 xText: "88% off serum studio bundle means the whole synth suite is cheaper than a single synth used to cost. if you've been on the fence about serum, now's the math-doesn't-lie moment."
-draft: false
+draft: true
 ---
 If you only need one preset pack for Xfer Serum this year, this is a reasonable moment to grab it — the bundle is currently 88% off at ADSR Sounds.
 
