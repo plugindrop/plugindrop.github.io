@@ -23822,6 +23822,12 @@
           "sale": 129.0,
           "regular": 199.0,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-05",
+          "sale": 129.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -24165,6 +24171,12 @@
         },
         {
           "date": "2026-08-04",
+          "sale": 39.99,
+          "regular": 99.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-05",
           "sale": 39.99,
           "regular": 99.0,
           "source": "pb_deals_poll"

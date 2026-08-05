@@ -181,6 +181,13 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "Cherry Audio Crumar Spirit": {
+    "video_id": "b4RKhxgK9Oo",
+    "title": "Cherry Audio | Spectres Preset Pack for Crumar Spirit by James Dyson",
+    "channel": "Cherry Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Cherry Audio DCO 106": {
     "video_id": "QPzn3kkHcI0",
     "title": "Cherry Audio | DCO-106",
@@ -237,6 +244,20 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "Cherry Audio Harmonia": {
+    "video_id": "oLqzLgthnDQ",
+    "title": "Cherry Audio Harmonia - \"Harmonious\" (demo) by James Terris",
+    "channel": "Cherry Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Cherry Audio KR 55C Drum Machine": {
+    "video_id": "UVvu1_aFGXQ",
+    "title": "Cherry Audio | KR-55C Drum Machine",
+    "channel": "Cherry Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
   "Cherry Audio Lowdown": {
     "video_id": "RgfAmRS0JhU",
     "title": "Lowdown Bass Synthesizer | Cherry Audio",
@@ -282,6 +303,13 @@
   "Cherry Audio Novachord Solovox": {
     "video_id": "rb4MZRFoR28",
     "title": "Novachord + Solovox | Cherry Audio",
+    "channel": "Cherry Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Cherry Audio Octave Cat": {
+    "video_id": "-aGis2iQJbk",
+    "title": "Introduction to Cherry Audio's Octave Cat - Hosted by Tim Shoebridge",
     "channel": "Cherry Audio",
     "score": 10,
     "source": "yt_api_fill"
@@ -340,6 +368,13 @@
     "title": "Free VST - Cherry Audio Surrealistic MG-1 Plus Synthesizer",
     "channel": "HRS Courses",
     "score": 9,
+    "source": "yt_api_fill"
+  },
+  "Cherry Audio Synthesizer Expander Module": {
+    "video_id": "8TpAzeWpS3I",
+    "title": "FREE! Synthesizer Expander Module | Cherry Audio",
+    "channel": "Cherry Audio",
+    "score": 10,
     "source": "yt_api_fill"
   },
   "Cherry Audio Wurlybird 140B": {
@@ -818,6 +853,13 @@
     "score": 8,
     "source": "yt_api_fill"
   },
+  "Native Instruments Hypr": {
+    "video_id": "1yS0E2QHbQc",
+    "title": "Exploring the sounds of Hypr | Native Instruments",
+    "channel": "Native Instruments",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Native Instruments Kontakt 8": {
     "video_id": "bTbFEv_PCwI",
     "title": "What’s new in Kontakt 8 | Native Instruments",
@@ -879,6 +921,13 @@
     "title": "Native Instruments Scene: Saffron demo - Parallel Worlds",
     "channel": "Nocturnal Overlord",
     "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Native Instruments Session Ukulele": {
+    "video_id": "cJkZOdSpBLw",
+    "title": "Session Ukulele walkthrough | Native Instruments",
+    "channel": "Native Instruments",
+    "score": 10,
     "source": "yt_api_fill"
   },
   "Native Instruments Strummed Acoustic 2": {
@@ -1329,6 +1378,13 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "UAD Anthem Analog Synthesizer": {
+    "video_id": "J3C0vGZGppE",
+    "title": "Introducing Anthem Analog Synthesizer | UAD Instruments",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "UAD Avalon VT 737 Tube Channel Strip": {
     "video_id": "NhuL78RiG8c",
     "title": "Introducing UAD Avalon VT-737 Tube Channel Strip Plug-In",
@@ -1378,11 +1434,25 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "UAD Hitsville Reverb Chambers": {
+    "video_id": "BZvUbAEFmbc",
+    "title": "Hitsville Reverb Chambers Sound Examples | UAD Native & UAD-2",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "UAD Lexicon 224 Digital Reverb": {
     "video_id": "yjkQWR0cnXI",
     "title": "Lexicon 224 Digital Reverb Plug-In | UAD Quick Tips",
     "channel": "Universal Audio",
     "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Lion 68 Super Lead Amp": {
+    "video_id": "j7idmB-KHKU",
+    "title": "Introducing UAD Lion ‘68 Super Lead Amp",
+    "channel": "Universal Audio",
+    "score": 13,
     "source": "yt_api_fill"
   },
   "UAD Little Labs Voice of God": {
@@ -1497,9 +1567,23 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "UAD Topline Vocal Tune": {
+    "video_id": "RywasOQgpN0",
+    "title": "Introducing UAD Topline Vocal Tune",
+    "channel": "Universal Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
   "UAD Waterfall B3 Organ": {
     "video_id": "evFEyMeb0DA",
     "title": "Waterfall B3 Organ | UAD Quick Tips",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Waterfall Rotary Speaker": {
+    "video_id": "1_9s0olfD_8",
+    "title": "Get the Authentic 3D Sound of a Leslie Speaker with Waterfall Rotary | UAD Quick Tips",
     "channel": "Universal Audio",
     "score": 10,
     "source": "yt_api_fill"
