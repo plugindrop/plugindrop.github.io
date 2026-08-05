@@ -6,7 +6,7 @@ tags: ["review", "mastering", "mixing", "leapwing audio", "stereo imaging", "mus
 affiliate: "https://www.pluginboutique.com/manufacturers/247-Leapwing-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=up-to-40-off-leapwing-audio-2576b9"
 heroImage: /images/up-to-40-off-leapwing-audio-2576b9.jpg
 score: 3.43
-draft: true
+draft: false
 converted: true
 ---
 **Leapwing Audio** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/manufacturers/247-Leapwing-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=up-to-40-off-leapwing-audio-2576b9)

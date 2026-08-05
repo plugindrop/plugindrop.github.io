@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "synth", "effects", "daw", "music-production"]
 affiliate: https://www.pluginboutique.com/product/3-Studio-Tools/23-DAW/16171-Cubase-Pro-15-Competitive-Crossgrade?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cubase-pro-15-competitive-crossgrade-045999
 heroImage: /images/cubase-pro-15-competitive-crossgrade-045999.jpg
 score: 10.00
-draft: true
+draft: false
 converted: true
 ---
 **Cubase Pro 15 Competitive Crossgrade** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/3-Studio-Tools/23-DAW/16171-Cubase-Pro-15-Competitive-Crossgrade?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cubase-pro-15-competitive-crossgrade-045999)

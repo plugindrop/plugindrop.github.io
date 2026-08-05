@@ -25109,22 +25109,6 @@
           "source": "auto_check"
         }
       ]
-    },
-    "50% Off JUPITER 8": {
-      "pb_url": "/product/1-Instruments/4-Synth/15267-JUPITER-8",
-      "typical_regular": 199.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-intake 2026-08-05",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-08-05",
-          "regular": 199.0,
-          "sale": 99.0,
-          "source": "deal_intake"
-        }
-      ]
     }
   }
 }

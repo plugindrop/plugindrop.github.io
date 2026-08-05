@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "synth", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/13923-Loop-Engine-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=loop-engine-3-d7fead"
 heroImage: /images/loop-engine-3-d7fead.jpg
 score: 7.75
-draft: true
+draft: false
 converted: true
 ---
 **Loop Engine 3** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/13923-Loop-Engine-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=loop-engine-3-d7fead)

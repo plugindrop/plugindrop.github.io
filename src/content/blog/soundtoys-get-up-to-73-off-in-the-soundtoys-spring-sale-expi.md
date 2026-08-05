@@ -1,15 +1,15 @@
 ---
-title: "22775: Features, Pricing & Is It Worth It? (2026)"
+title: "Soundtoys: Features, Pricing & Is It Worth It? (2026)"
 description: "Soundtoys is a Vermont-based plugin developer known for building effects processors with heavy analog character. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-14T23:25:11Z'
 tags: ["review", "soundtoys", "music-production"]
 affiliate: "https://www.pluginboutique.com/deals/22775?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763"
 heroImage: /images/soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi.png
 score: 5.1
-draft: true
+draft: false
 converted: true
 ---
-**22775** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/deals/22775?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763)
+**Soundtoys** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/deals/22775?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763)
 
 ---
 

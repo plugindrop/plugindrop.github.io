@@ -6,7 +6,7 @@ tags: ["review", "ace studio", "music-production"]
 affiliate: "https://www.pluginboutique.com/deals/22658?utm_source=plugindrop&utm_medium=article&utm_campaign=ace-studio-get-up-to-12-off-in-the-ace-studio-2-easter-sale-&a_aid=69cb95abe1763"
 heroImage: /images/ace-studio-get-up-to-12-off-in-the-ace-studio-2-easter-sale-.webp
 score: 3.08
-draft: true
+draft: false
 converted: true
 ---
 **ACE Studio 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/deals/22658?utm_source=plugindrop&utm_medium=article&utm_campaign=ace-studio-get-up-to-12-off-in-the-ace-studio-2-easter-sale-&a_aid=69cb95abe1763)

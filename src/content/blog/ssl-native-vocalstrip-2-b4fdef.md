@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/8662-SSL-Native-Vocalstrip-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-vocalstrip-2-b4fdef"
 heroImage: /images/ssl-native-vocalstrip-2-b4fdef.jpg
 score: 8.00
-draft: true
+draft: false
 converted: true
 ---
 **SSL Native Vocalstrip 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/8662-SSL-Native-Vocalstrip-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-vocalstrip-2-b4fdef)

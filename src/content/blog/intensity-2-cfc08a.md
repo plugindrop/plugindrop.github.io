@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=intensity-2-cfc08a"
 heroImage: /images/intensity-2-cfc08a.jpg
 score: 8.32
-draft: true
+draft: false
 converted: true
 ---
 **INTENSITY 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=intensity-2-cfc08a)

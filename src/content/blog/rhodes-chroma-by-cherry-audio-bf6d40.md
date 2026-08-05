@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-productio
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/13870-Rhodes-Chroma-by-Cherry-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-chroma-by-cherry-audio-bf6d40"
 heroImage: /images/rhodes-chroma-by-cherry-audio-bf6d40.jpg
 score: 9.72
-draft: true
+draft: false
 converted: true
 ---
 **Rhodes Chroma** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/13870-Rhodes-Chroma-by-Cherry-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-chroma-by-cherry-audio-bf6d40)

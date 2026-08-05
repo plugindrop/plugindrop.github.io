@@ -167,12 +167,17 @@ const alertLabel = alertTargetPrice !== null
 
 // Deterministic copy sentence (Fable §1-4)
 function buildVerdictCopy(e: EntryData, vLabel: string): string {
-  const N = e.history.filter(h => h.sale !== null).length;
-  const histLow = e.all_time_low;
+  const salePrices = e.history
+    .map((h) => h.sale)
+    .filter((sale): sale is number => sale !== null);
+  const N = salePrices.length;
+  const histLow = e.all_time_low ?? (N > 0 ? Math.min(...salePrices) : null);
   const cur = currentPrice(e);
   const reg = e.typical_regular;
   if (!N) return `We've never recorded a discount on ${name}.`;
-  const s1 = `${name} has sold for $${histLow} in ${N} recorded sale event${N === 1 ? '' : 's'}.`;
+  const s1 = histLow !== null
+    ? `${name} has sold for $${histLow} in ${N} recorded sale event${N === 1 ? '' : 's'}.`
+    : `${name} has ${N} recorded sale event${N === 1 ? '' : 's'}.`;
   if (cur === null) return s1;
   let s2 = '';
   if (histLow !== null && cur <= histLow) s2 = `Today's $${cur} is the lowest price we've recorded.`;
@@ -195,7 +200,15 @@ const lowestDate = findLowestDate(entry);
 
 // --- Provenance: when we actually last scraped this product (D4) --------
 const checkedDate = latestCheckedDate(entry);
-const checkedLabel = checkedDate ? `Last checked: ${formatCheckedDate(checkedDate)}` : 'Tracking since 2026 — no price data yet';
+const latestHistoryDate = entry.history
+  .map((h) => h.date)
+  .sort((a, b) => (a < b ? -1 : 1))
+  .at(-1);
+const checkedLabel = checkedDate
+  ? `Last checked: ${formatCheckedDate(checkedDate)}`
+  : latestHistoryDate
+    ? `Last updated: ${formatCheckedDate(new Date(`${latestHistoryDate}T00:00:00Z`))}`
+    : 'Tracking since 2026 — no price data yet';
 
 // --- Price history chart ---------------------------------------------------
 // Real price-tracker data (Keepa/SteamDB) is a dense daily series. Ours is not:

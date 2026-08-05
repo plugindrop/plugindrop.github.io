@@ -1,15 +1,15 @@
 ---
-title: "22664: Features, Pricing & Is It Worth It? (2026)"
+title: "Rhodes: Features, Pricing & Is It Worth It? (2026)"
 description: "Rhodes — yes, that Rhodes — makes official virtual instrument and effects plugins modeled on their iconic electric. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-02T07:01:43Z'
 tags: ["review", "rhodes", "music-production"]
 affiliate: "https://www.pluginboutique.com/deals/22664?utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763"
 heroImage: /images/rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr.webp
 score: 3.08
-draft: true
+draft: false
 converted: true
 ---
-**22664** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/deals/22664?utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763)
+**Rhodes** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/deals/22664?utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763)
 
 ---
 

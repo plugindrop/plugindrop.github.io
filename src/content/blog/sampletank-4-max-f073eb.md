@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-productio
 affiliate: https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12447-SampleTank-4-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sampletank-4-max-f073eb
 heroImage: /images/sampletank-4-max-f073eb.jpg
 score: 8.35
-draft: true
+draft: false
 converted: true
 ---
 **SampleTank 4 MAX** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12447-SampleTank-4-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sampletank-4-max-f073eb)

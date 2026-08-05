@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-productio
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12929-Bloom-Palette-Object?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-palette-object-2e5878"
 heroImage: /images/bloom-palette-object-2e5878.jpg
 score: 7.90
-draft: true
+draft: false
 converted: true
 ---
 **Bloom Palette Object** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12929-Bloom-Palette-Object?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-palette-object-2e5878)

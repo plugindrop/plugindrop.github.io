@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/7552-Fluid-Pitch?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-pitch-c863d7"
 heroImage: /images/fluid-pitch-c863d7.jpg
 score: 7.35
-draft: true
+draft: false
 converted: true
 ---
 **Fluid Pitch** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/7552-Fluid-Pitch?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-pitch-c863d7)

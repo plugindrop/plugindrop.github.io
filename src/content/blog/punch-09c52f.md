@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14224-PUNCH?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=punch-09c52f"
 heroImage: /images/punch-09c52f.jpg
 score: 8.32
-draft: true
+draft: false
 converted: true
 ---
 **PUNCH** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14224-PUNCH?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=punch-09c52f)
