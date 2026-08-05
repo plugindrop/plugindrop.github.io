@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-productio
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/12272-impOSCar3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=imposcar3-59e954"
 heroImage: /images/imposcar3-59e954.jpg
 score: 9.18
-draft: false
+draft: true
 converted: true
 ---
 **impOSCar3** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/12272-impOSCar3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=imposcar3-59e954)

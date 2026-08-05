@@ -6,7 +6,7 @@ tags: ["review", "effects", "music-production"]
 affiliate: https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=air-legends-pack-eb2b05
 heroImage: /images/air-legends-pack-eb2b05.jpg
 score: 10.00
-draft: false
+draft: true
 converted: true
 ---
 **AIR Legends Pack** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=air-legends-pack-eb2b05)

@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/11498-Manley-Massive-Passive?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=manley-massive-passive-00e930"
 heroImage: /images/manley-massive-passive-00e930.jpg
 score: 8.00
-draft: false
+draft: true
 converted: true
 ---
 **Manley Massive Passive** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/11498-Manley-Massive-Passive?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=manley-massive-passive-00e930)

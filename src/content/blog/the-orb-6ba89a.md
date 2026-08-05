@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a"
 heroImage: /images/the-orb-6ba89a.jpg
 score: 6.65
-draft: false
+draft: true
 converted: true
 ---
 **The Orb** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a)
