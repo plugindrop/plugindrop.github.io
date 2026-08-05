@@ -11,7 +11,8 @@ dealPrice: "$19.00"
 originalPrice: "$99.00"
 discount: "81% OFF"
 xText: "ssl x delay just hit at 81% off. flagship delays don't move on price like this. if you know ssl gear you already know whether you want in. weird discount to pass on."
-draft: true---
+draft: true
+---
 **TL;DR:** SSL X Delay is down to $19 from ~~$99~~ at Plugin Boutique, an 81% discount. It's an analog-modeled delay plugin from Solid State Logic, built around the same circuit design philosophy as SSL's console gear. [Grab the deal here](https://www.pluginboutique.com/product/2-Effects/10-Delay/8741-SSL-X-Delay?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-delay-9461a9) before pricing reverts to normal.
 
 <div class="video-embed">
