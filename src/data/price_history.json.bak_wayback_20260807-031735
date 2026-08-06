@@ -6220,30 +6220,6 @@
           "regular": 189,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2023-11-15",
-          "regular": 105.4,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-05",
-          "regular": 189.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-04-09",
-          "regular": 189.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-06-07",
-          "regular": 99.5,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -6320,24 +6296,6 @@
           "regular": 49,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2023-11-15",
-          "regular": 30.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-01-16",
-          "regular": 69.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-06-14",
-          "regular": 69.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -6588,24 +6546,6 @@
           "regular": 149.0,
           "sale": 99.0,
           "source": "auto_check"
-        },
-        {
-          "date": "2024-12-17",
-          "regular": 199.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-03",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-05-12",
-          "regular": 199.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -7294,12 +7234,6 @@
           "regular": 149,
           "sale": null,
           "source": "research"
-        },
-        {
-          "date": "2025-03-10",
-          "regular": 149.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -7338,12 +7272,6 @@
           "regular": 149,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2025-03-10",
-          "regular": 149.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
