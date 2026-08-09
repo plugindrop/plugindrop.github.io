@@ -8,7 +8,7 @@ heroImage: "/images/adsr-drum-machine-10-expansions-bundle-dcf422.jpg"
 score: 5.21
 dealPrice: "$99"
 xText: "you already know ten drum machine expansions is chaos to pick through separately. this bundle is the only rational move"
-draft: false
+draft: true
 ---
 **TL;DR:** ADSR Sounds is bundling its ADSR Drum Machine plugin with 10 expansion packs for $99. Original pricing on the individual components isn't listed here, so [check the product page](https://www.adsrsounds.com/product/software/adsr-drum-machine-10-expansions-bundle/?a_aid=plugindrop&data1=adsr-drum-machine-10-expansions-bundle-dcf422&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-drum-machine-10-expansions-bundle-dcf422) to see the current savings breakdown. If you're building a drum sound library from scratch, this is a way to get a sampler and a batch of kits in one purchase.
 
