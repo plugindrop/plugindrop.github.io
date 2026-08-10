@@ -26912,6 +26912,12 @@
           "regular": 199.0,
           "sale": 129.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-08-10",
+          "sale": 129.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -27180,6 +27186,12 @@
           "regular": 59.0,
           "sale": 39.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-08-10",
+          "sale": 39.0,
+          "regular": 59.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
