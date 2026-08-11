@@ -15938,60 +15938,6 @@
           "sale": 49.0,
           "regular": 89.0,
           "source": "pb_deals_poll"
-        },
-        {
-          "date": "2023-02-04",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-11-27",
-          "regular": 59.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-03-03",
-          "regular": 54.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-08-21",
-          "regular": 59.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-11-12",
-          "regular": 50.63,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-12-09",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-02-10",
-          "regular": 39.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-08",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-08-04",
-          "regular": 44.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -16318,30 +16264,6 @@
           "regular": 134.0,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2021-10-12",
-          "regular": 89.2,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2021-12-01",
-          "regular": 89.2,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-01-29",
-          "regular": 134.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-04-25",
-          "regular": 134.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -17300,18 +17222,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2023-12-25",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-18",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -17369,42 +17279,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2022-07-04",
-          "regular": 34.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-11-20",
-          "regular": 22.73,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-12-08",
-          "regular": 29.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-17",
-          "regular": 29.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-05-06",
-          "regular": 29.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-06-15",
-          "regular": 29.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -30215,110 +30089,6 @@
           "source": "auto_check"
         }
       ]
-    },
-    "UAD EMT 140 Classic Plate Reverberator": {
-      "pb_url": "/product/2-Effects/17-Reverb/17663-EMT-140-Classic-Plate-Reverberator",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-11",
-      "history": []
-    },
-    "UAD EMT 250 Classic Electronic Reverb": {
-      "pb_url": "/product/2-Effects/17-Reverb/17664-EMT-250-Classic-Electronic-Reverb",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-11",
-      "history": []
-    },
-    "UAD SSL 4000 E Channel Strip": {
-      "pb_url": "/product/2-Effects/21-Channel-Strip/13324-SSL-4000-E-Channel-Strip",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-11",
-      "history": []
-    },
-    "UAD UA 175B 176 Tube Compressor Collection": {
-      "pb_url": "/product/2-Effects/8-Compressor/10940-UA-175B-176-Tube-Compressor-Collection",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-11",
-      "history": []
-    },
-    "Native Instruments Bouquet": {
-      "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15880-Bouquet",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-11",
-      "history": []
-    },
-    "Native Instruments Luxa": {
-      "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15867-Luxa",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-11",
-      "history": []
-    },
-    "Native Instruments Nacht": {
-      "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15879-Nacht",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-11",
-      "history": []
-    },
-    "Native Instruments Psyche Delay": {
-      "pb_url": "/product/2-Effects/10-Delay/16332-Psyche-Delay",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-11",
-      "history": []
-    },
-    "Native Instruments Tape Wobble": {
-      "pb_url": "/product/2-Effects/96-Tape-Emulation/16333-Tape-Wobble",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-11",
-      "history": []
-    },
-    "Cherry Audio Trident Mk III Synthesizer": {
-      "pb_url": "/product/1-Instruments/4-Synth/15842-Trident-Mk-III-Synthesizer",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-11",
-      "history": []
-    },
-    "Cherry Audio SH MAX": {
-      "pb_url": "/product/1-Instruments/4-Synth/16799-SH-MAX",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-11",
-      "history": []
-    },
-    "Cherry Audio Atomika": {
-      "pb_url": "/product/1-Instruments/4-Synth/13416-Atomika",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-11",
-      "history": []
-    },
-    "Cherry Audio Blue3 Tonewheel Organ": {
-      "pb_url": "/product/1-Instruments/64-Virtual-Instruments/13057-Blue3-Tonewheel-Organ",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-11",
-      "history": []
     }
   }
 }
