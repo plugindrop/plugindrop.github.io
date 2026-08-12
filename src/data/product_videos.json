@@ -153,6 +153,13 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "Baby Audio TAIP": {
+    "video_id": "CbRucOvuXW8",
+    "title": "TAIP - BABY Audio - CJ Beatz Tutorial",
+    "channel": "Baby Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Baby Audio Tekno": {
     "video_id": "C-iLairdqno",
     "title": "Tekno - Baby Audio - Official Tutorial",
@@ -173,6 +180,13 @@
     "channel": "Cableguys",
     "score": 8,
     "source": "article_embed"
+  },
+  "Cherry Audio Atomika": {
+    "video_id": "Sv4l_kg2kyI",
+    "title": "ATOMIKA - Cherry Audio x Snakes of Russia - #synth #vst #synthesizer",
+    "channel": "Cherry Audio",
+    "score": 10,
+    "source": "yt_api_fill"
   },
   "Cherry Audio CR 78 Drum Machine": {
     "video_id": "QsDzYwxZTW4",
@@ -349,6 +363,13 @@
     "score": 11,
     "source": "yt_api_fill"
   },
+  "Cherry Audio SH MAX": {
+    "video_id": "GMtdurQHni4",
+    "title": "Cherry Audio | Introduction to SH-MAX with Tim Shoebridge",
+    "channel": "Cherry Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Cherry Audio Sines Synthesizer": {
     "video_id": "a_n_awi5ad0",
     "title": "Introduction to Cherry Audio Sines Synthesizer with Tim Shoebridge",
@@ -375,6 +396,13 @@
     "title": "FREE! Synthesizer Expander Module | Cherry Audio",
     "channel": "Cherry Audio",
     "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Cherry Audio Trident Mk III Synthesizer": {
+    "video_id": "Dr5aU0guD5o",
+    "title": "Cherry Audio | Trident Mk III Synthesizer",
+    "channel": "Cherry Audio",
+    "score": 11,
     "source": "yt_api_fill"
   },
   "Cherry Audio Wurlybird 140B": {
@@ -769,6 +797,13 @@
     "score": 13,
     "source": "yt_api_fill"
   },
+  "KV331 Audio SynthMaster 3": {
+    "video_id": "CJ6QOzt6yzQ",
+    "title": "KV331 Audio - SynthMaster 3 (No Talk Preview)",
+    "channel": "Simon Le Grec",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Kilohearts Carve EQ": {
     "video_id": "2H3oeOS1CeA",
     "title": "Kilohearts Carve EQ Teaser",
@@ -830,6 +865,13 @@
     "title": "KOMPLETE TruTorials: Easy Riser with BATTERY 4 | Native Instruments",
     "channel": "Native Instruments",
     "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Native Instruments Bouquet": {
+    "video_id": "I9ALB4-GVdk",
+    "title": "Native Instruments Bouquet Demo",
+    "channel": "Seige Monstracity",
+    "score": 8,
     "source": "yt_api_fill"
   },
   "Native Instruments FM8": {
@@ -1434,6 +1476,20 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "UAD EMT 140 Classic Plate Reverberator": {
+    "video_id": "r9ICoJL5jA4",
+    "title": "5 Minute UAD Tips: EMT® 140 Classic Plate Reverberator Plug-In",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD EMT 250 Classic Electronic Reverb": {
+    "video_id": "htlH0F4FUtg",
+    "title": "🎸 UAD EMT 250 Classic Electronic Reverb Plugin | Electric and Acoustic Guitar Demo Test",
+    "channel": "Alberto Martinez Del Rio Guitar",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "UAD Electra 88 Vintage Keyboard Studio": {
     "video_id": "G6pLmFXuME8",
     "title": "Electra 88 Vintage Keyboard Studio Sound Examples | UAD Instruments",
@@ -1544,6 +1600,13 @@
     "title": "Ravel Grand Piano Plug-In Sound Examples | UAD Instruments",
     "channel": "Universal Audio",
     "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD SSL 4000 E Channel Strip": {
+    "video_id": "QL8Hqj-ZL-k",
+    "title": "Mixing Huge Drums with the UAD SSL 4000 E Channel Strip Plugin - Joe Chiccarelli",
+    "channel": "Universal Audio",
+    "score": 13,
     "source": "yt_api_fill"
   },
   "UAD SSL 4000 G Bus Compressor": {
@@ -1797,6 +1860,13 @@
     "channel": "iZotope, Inc.",
     "score": 11,
     "source": "article_embed"
+  },
+  "iZotope Ozone 11 Advanced": {
+    "video_id": "bQOFi9h2Wwo",
+    "title": "Next Level AI Mastering with iZotope Ozone 11 Advanced",
+    "channel": "Sean Divine",
+    "score": 9,
+    "source": "yt_api_fill"
   },
   "iZotope Ozone 12 Advanced": {
     "video_id": "mirNm_31fNw",
