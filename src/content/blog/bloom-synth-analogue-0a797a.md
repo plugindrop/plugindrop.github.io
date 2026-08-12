@@ -18,6 +18,11 @@ draft: false
 </div>
 
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/8DmroVvYU-g" title="Stop What You’re Doing, This New $29 VST is Only $3 + FREE Gift - Bloom Synth Analogue Lite" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Is Bloom Synth Analogue?
 
 Bloom Synth Analogue is a virtual instrument plugin listed in Plugin Boutique's Instruments category, positioned around warm, analog-style tones. It's built to sit in a DAW as a software synth rather than a hardware emulation you rack up outboard. For the exact feature set, sound design tools, and workflow details, check the product page — this article covers the deal terms, not a hands-on breakdown.
