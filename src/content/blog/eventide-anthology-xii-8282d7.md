@@ -10,8 +10,7 @@ dealPrice: "$499"
 originalPrice: "$999"
 discount: "50% OFF"
 xText: "eventide anthology hit 50% off. these reverbs shaped professional mixing for decades. normally $700+ so this is wild. lowest i've ever seen it by far"
-draft: false
----
+draft: true---
 **TL;DR:** Eventide's Anthology XII plugin bundle is ~~$999~~ **$499** at PluginFox right now, a straight 50% off. If you've been eyeing Eventide's harmonizers, reverbs, and channel strips one at a time, this is a chance to grab the whole collection at half price. [Get the deal at PluginFox](https://pluginfox.com/products/eventide-anthology-xii?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=eventide-anthology-xii-8282d7).
 
 <div class="video-embed">

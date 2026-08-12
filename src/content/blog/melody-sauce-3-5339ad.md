@@ -10,8 +10,7 @@ dealPrice: "$79.00"
 originalPrice: "$99.00"
 discount: "20% OFF"
 xText: "melody sauce 3 just dropped at 20% off. the harmonic engine actually knows theory. not the procedural feel you expect. lowest i've seen it priced"
-draft: false
----
+draft: true---
 If you write electronic music and regularly hit a wall trying to find the next hook, Melody Sauce 3 is worth a look at this price. It won't write your song for you, but it can get you past a blank piano roll fast.
 
 **TL;DR:** Melody Sauce 3 is discounted to **$79**, down from ~~$99~~ — a 20% saving. It's a MIDI melody generation plugin for producers who want fast, key-locked idea starters inside their DAW. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15887-Melody-Sauce-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-5339ad).
