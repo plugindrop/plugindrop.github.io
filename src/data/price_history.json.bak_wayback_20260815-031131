@@ -20269,30 +20269,6 @@
           "regular": 149.0,
           "sale": 39.0,
           "source": "auto_check"
-        },
-        {
-          "date": "2023-11-07",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-09-20",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-19",
-          "regular": 39.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-04-07",
-          "regular": 299.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -20350,48 +20326,6 @@
           "regular": 149.0,
           "sale": 29.0,
           "source": "auto_check"
-        },
-        {
-          "date": "2023-02-14",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-04-02",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-11-01",
-          "regular": 53.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-05-08",
-          "regular": 53.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-07-22",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-01-31",
-          "regular": 39.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-07-19",
-          "regular": 199.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -20449,36 +20383,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2023-12-20",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-07-21",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-09-20",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-11-07",
-          "regular": 161.64,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-01-16",
-          "regular": 59.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
