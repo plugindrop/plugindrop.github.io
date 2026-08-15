@@ -21751,12 +21751,6 @@
           "regular": 199.0,
           "sale": 49.0,
           "source": "auto_check"
-        },
-        {
-          "date": "2025-04-07",
-          "regular": 349.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -22483,18 +22477,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2024-12-18",
-          "regular": 119.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-07-05",
-          "regular": 179.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -22552,42 +22534,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2023-12-01",
-          "regular": 59.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-04-17",
-          "regular": 79.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-07-12",
-          "regular": 79.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-02-15",
-          "regular": 77.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-21",
-          "regular": 79.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-05-15",
-          "regular": 55.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
