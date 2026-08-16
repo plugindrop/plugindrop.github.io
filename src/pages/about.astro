@@ -17,21 +17,7 @@ import { SITE_TITLE } from '../consts';
 			"logo": "https://plugindrop.net/images/logo-512.png",
 			"description": "SignalDrop operates PluginDrop, a curated VST plugin deal aggregator for music producers.",
 			"email": "signaldrop.biz@gmail.com",
-			"sameAs": ["https://plugindrop.net"],
-			"founder": {
-				"@type": "Person",
-				"name": "PluginDrop Editorial Team",
-				"url": "https://plugindrop.net/about/"
-			}
-		})} />
-		<script type="application/ld+json" set:html={JSON.stringify({
-			"@context": "https://schema.org",
-			"@type": "Person",
-			"name": "PluginDrop Editorial Team",
-			"url": "https://plugindrop.net/about/",
-			"worksFor": { "@type": "Organization", "name": "SignalDrop", "url": "https://plugindrop.net" },
-			"knowsAbout": ["VST plugins", "music production", "DAW software", "audio effects", "virtual instruments"],
-			"description": "A team of music producers reviewing and curating plugin deals since 2024. Tested on Windows 11 and Mac mini M4 with Steinberg Cubase and RME Babyface Pro."
+			"sameAs": ["https://plugindrop.net"]
 		})} />
 		<style>
 			.about {
@@ -91,21 +77,28 @@ import { SITE_TITLE } from '../consts';
 				</ul>
 
 				<h2>Our Setup</h2>
-				<p>All plugins on this site are tested and verified in the following environment:</p>
+				<p>PluginDrop's data pipeline runs alongside a real studio setup:</p>
 				<ul>
 					<li><strong>DAW:</strong> Steinberg Cubase</li>
 					<li><strong>Audio Interface:</strong> RME Babyface Pro</li>
 					<li><strong>Monitors:</strong> ADAM Audio A3X</li>
 					<li><strong>Headphones:</strong> AKG K812</li>
-					<li><strong>Test Machine:</strong> Windows 11 / Mac mini M4</li>
+					<li><strong>Machines:</strong> Windows 11 / Mac mini M4</li>
 				</ul>
+				<p>
+					This is disclosed for transparency, not as a claim that every plugin listed has been
+					personally installed and tested on it — with hundreds of products tracked, that
+					wouldn't be true.
+				</p>
 
 				<h2>Methodology</h2>
 				<p>
-					Each plugin listed on PluginDrop is verified for installation, compatibility, and
-					basic functionality in the setup above before publication.
+					PluginDrop doesn't publish hands-on reviews claiming every plugin has been tested.
+					Deal quality is judged from tracked price history, discount depth against prices
+					we've actually observed over time, and public specs and vendor documentation.
 					Deal articles include the date pricing was confirmed —
 					we update or remove listings when deals expire.
+					See <a href="/how-we-track-prices/">how we track prices</a> for the full methodology.
 				</p>
 
 				<h2>Editorial Policy</h2>
