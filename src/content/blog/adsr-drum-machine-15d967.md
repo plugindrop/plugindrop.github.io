@@ -9,7 +9,8 @@ aiImage: true
 score: 5.01
 dealPrice: "$49"
 xText: "adsr dropped a new drum machine today. if you care about percussion sound design, this is worth spending 15 minutes on"
-draft: true---
+draft: true
+---
 **TL;DR:** ADSR Drum Machine is on sale for **$49** at ADSR Sounds. Regular pricing wasn't listed in this deal alert, so verify the current list price on the product page to see your exact savings. If you produce hip-hop, trap, lo-fi, or electronic music and want a dedicated drum plugin without building a sample library from scratch, this is worth a look. [Get the deal at ADSR Sounds](https://www.adsrsounds.com/product/software/adsr-drum-machine/?a_aid=plugindrop&data1=adsr-drum-machine-15d967&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-drum-machine-15d967).
 
 <div class="audio-embed">

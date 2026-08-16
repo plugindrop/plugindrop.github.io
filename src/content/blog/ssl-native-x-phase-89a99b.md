@@ -10,7 +10,8 @@ dealPrice: "$10.00"
 originalPrice: "$99.00"
 discount: "90% OFF"
 xText: "ssl native x phase dropped at 90% off — ssl basically never discounts this deep. if you've been waiting for a reason to grab it, this is it."
-draft: true---
+draft: true
+---
 If you only pick up one budget mixing utility this week, make it X-Phase — a $99 SSL plugin for $10 is a rare enough drop to justify the download even if you only reach for it occasionally.
 
 **TL;DR:** Solid State Logic's Native X Phase is currently ~~$99~~ **$10** at Plugin Boutique, a 90% discount. It's a phase alignment tool built to fix comb-filtering and phase cancellation issues between mic sources or layered tracks. [Grab it here](https://www.pluginboutique.com/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-phase-89a99b) while the deal is live.
