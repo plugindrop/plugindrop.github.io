@@ -9,7 +9,7 @@ score: 7.93
 dealPrice: "$39.00"
 originalPrice: "$59.00"
 discount: "34% OFF"
-draft: false
+draft: true
 ---
 If you only install one, make it Bloom Drum Machine if your workflow needs a pattern-based drum instrument with built-in sound shaping.
 

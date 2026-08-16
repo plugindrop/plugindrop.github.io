@@ -9,7 +9,7 @@ score: 7.14
 dealPrice: "$29.00"
 originalPrice: "$39.00"
 discount: "26% OFF"
-draft: false
+draft: true
 ---
 **TL;DR:** If you only install one, make it Melody Sauce 3 Upgrade if you already own Melody Sauce 1 or 2 and want its chord, bass, and MIDI-generation additions for $10 less. This eligible-owner upgrade is ~~$39.00~~ **$29.00**, a 26% saving, at [Plugin Boutique](https://www.pluginboutique.com/search?q=Melody+Sauce+3+Upgrade+from+Melody+Sauce+1+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-upgrade-from-melody-sauce-1-2-b24fc6). No deal end date was supplied, so check the product page before buying.
 

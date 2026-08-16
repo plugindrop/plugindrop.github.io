@@ -9,7 +9,7 @@ score: 7.10
 dealPrice: "$139.99"
 originalPrice: "$199.99"
 discount: "30% OFF"
-draft: false
+draft: true
 ---
 **TL;DR:** If you only install one, make it Fender Studio Pro 8 if you need a full DAW with Fender amp and bass processing included. This PluginFox deal cuts the price from ~~$199.99~~ to **$139.99**, saving **$60**. [See the 30% off deal at PluginFox](https://pluginfox.com/products/fender-studio-pro-8?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=fender-studio-pro-8-90cc12).
 

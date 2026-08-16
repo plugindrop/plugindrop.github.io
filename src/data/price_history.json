@@ -30512,6 +30512,12 @@
           "sale": 129.0,
           "regular": 199.0,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-16",
+          "sale": 129.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll"
         }
       ]
     },

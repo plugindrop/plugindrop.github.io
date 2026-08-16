@@ -9,7 +9,7 @@ score: 8.18
 dealPrice: "$17.99"
 originalPrice: "$29.99"
 discount: "40% OFF"
-draft: false
+draft: true
 ---
 If you only install one, make it Producerlife Serum MIDI Loops if you need MIDI material aimed at building Serum-based ideas without paying full price.
 
