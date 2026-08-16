@@ -23553,12 +23553,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2025-08-14",
-          "regular": 19.84,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -23844,54 +23838,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2021-10-19",
-          "regular": 129.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-05-27",
-          "regular": 129.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-06-25",
-          "regular": 39.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-03-16",
-          "regular": 29.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-10-02",
-          "regular": 129.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-02-06",
-          "regular": 129.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-05-26",
-          "regular": 129.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-19",
-          "regular": 129.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
