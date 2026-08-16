@@ -1,0 +1,121 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import { SITE_TITLE } from '../../consts';
+import statsData from '../../data/monthly_sale_stats.json';
+
+interface MonthBlock {
+  month: string;
+  label: string;
+  is_current: boolean;
+  products_tracked: number;
+  on_sale_pct: number;
+  avg_discount_pct: number;
+  all_time_low_hits: number;
+}
+
+interface StatsFile {
+  generated_at: string;
+  months: MonthBlock[];
+}
+
+const { generated_at, months } = statsData as StatsFile;
+const latestTracked = months[0]?.products_tracked ?? 0;
+
+const pageLD = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Plugin Sale Statistics by Month",
+  "description": "Month-by-month VST plugin sale statistics: percent of catalog on sale, average discount depth, and how often products sold at their lowest tracked price, computed from tracked price observations.",
+  "url": "https://plugindrop.net/sale-stats/",
+};
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead
+      title={`Plugin Sale Statistics by Month | ${SITE_TITLE}`}
+      description="Month-by-month VST plugin sale statistics — percent of catalog on sale, average discount depth, and lowest-tracked-price hits — computed from real tracked price observations, not estimates."
+    />
+    <script type="application/ld+json" set:html={JSON.stringify(pageLD)} />
+    <style>
+      main { max-width: 900px; margin: 0 auto; padding: 2rem 1rem 3rem; }
+      .page-header { max-width: 700px; margin-bottom: 2rem; }
+      .page-header h1 { font-size: 1.9rem; font-weight: 800; margin: 0 0 0.75rem; line-height: 1.2; color: var(--text-primary); }
+      .page-header p { color: var(--text-secondary); line-height: 1.7; margin: 0 0 0.5rem; }
+      .page-header a { color: var(--accent); }
+      .page-header .meta { font-size: 0.78rem; color: var(--text-muted); }
+
+      .month-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1rem; }
+      .month-card {
+        display: block; background: var(--bg-card); border: 1px solid var(--border);
+        border-radius: var(--radius, 8px); padding: 1.25rem 1.4rem; text-decoration: none;
+        transition: border-color 0.15s, background 0.15s;
+      }
+      .month-card:hover { border-color: var(--accent); background: var(--bg-card-hover); }
+      .month-card h2 { font-size: 1.1rem; font-weight: 800; color: var(--text-primary); margin: 0 0 0.15rem; }
+      .month-card .mtd { font-size: 0.72rem; color: var(--text-muted); font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; margin: 0 0 0.75rem; }
+      .month-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem 0.75rem; }
+      .month-stat .num {
+        display: block; font-size: 1.1rem; font-weight: 800; color: var(--text-primary);
+        font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      }
+      .month-stat .lbl { font-size: 0.68rem; color: var(--text-muted); }
+
+      .empty-state {
+        background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius, 8px);
+        padding: 1.5rem; color: var(--text-muted); text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="#main-content" class="sr-only">Skip to content</a>
+    <Header />
+    <main id="main-content">
+      <div class="page-header">
+        <h1>Plugin Sale Statistics by Month</h1>
+        <p>
+          Every month we tally how much of our tracked catalog ({latestTracked || 'N'} plugins &amp; bundles) was
+          actually on sale, how deep the discounts went, and how often prices hit their lowest tracked level — computed purely
+          from observed price checks, no estimates. See our <a href="/how-we-track-prices/">tracking methodology</a>
+          for what counts as an observed price.
+        </p>
+        <p class="meta">Last generated {generated_at}</p>
+      </div>
+
+      {months.length > 0 ? (
+        <div class="month-grid">
+          {months.map((m) => (
+            <a href={`/sale-stats/${m.month}/`} class="month-card">
+              <h2>{m.label}</h2>
+              {m.is_current && <p class="mtd">Month to date</p>}
+              <div class="month-stats">
+                <div class="month-stat">
+                  <span class="num">{m.products_tracked}</span>
+                  <span class="lbl">Tracked</span>
+                </div>
+                <div class="month-stat">
+                  <span class="num">{m.on_sale_pct}%</span>
+                  <span class="lbl">On sale</span>
+                </div>
+                <div class="month-stat">
+                  <span class="num">-{m.avg_discount_pct}%</span>
+                  <span class="lbl">Avg discount</span>
+                </div>
+                <div class="month-stat">
+                  <span class="num">{m.all_time_low_hits}</span>
+                  <span class="lbl">Lowest-tracked hits</span>
+                </div>
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p class="empty-state">No months yet — check back once we've accumulated enough tracked observations.</p>
+      )}
+    </main>
+    <Footer />
+  </body>
+</html>

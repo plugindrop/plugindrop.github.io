@@ -1,0 +1,348 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import { SITE_TITLE } from '../../consts';
+import statsData from '../../data/monthly_sale_stats.json';
+import { pbLink, formatPrice } from '../../lib/priceUtils';
+
+interface DeepDiscount {
+  name: string; slug: string; category: string;
+  regular: number | null; sale: number | null; pct_off: number;
+  date: string; pb_url: string;
+}
+interface AtlProduct {
+  name: string; slug: string; sale: number | null; all_time_low: number | null; date: string | null;
+}
+interface CategoryRow {
+  category: string; tracked: number; on_sale: number; on_sale_pct: number; avg_discount_pct: number;
+}
+interface VsPrevious {
+  month: string; on_sale_pct_delta: number; avg_discount_pct_delta: number; products_tracked_delta: number;
+}
+interface MonthBlock {
+  month: string;
+  label: string;
+  is_current: boolean;
+  generated_at: string;
+  observations: number;
+  products_tracked: number;
+  products_on_sale: number;
+  on_sale_pct: number;
+  avg_discount_pct: number;
+  median_discount_pct: number;
+  discount_buckets: Record<string, number>;
+  all_time_low_hits: number;
+  deepest_discounts: DeepDiscount[];
+  all_time_low_products: AtlProduct[];
+  by_category: CategoryRow[];
+  vs_previous_month: VsPrevious | null;
+}
+interface StatsFile {
+  generated_at: string;
+  min_month: string;
+  months: MonthBlock[];
+}
+
+const { months } = statsData as StatsFile;
+
+export function getStaticPaths() {
+  return (statsData as StatsFile).months.map((m) => ({
+    params: { month: m.month },
+    props: { month: m },
+  }));
+}
+
+const month = Astro.props.month as MonthBlock;
+const idx = months.findIndex((m) => m.month === month.month);
+// months は新しい順。prev = 1つ古い月（idx+1）、next = 1つ新しい月（idx-1）。
+const prevMonth = idx >= 0 && idx + 1 < months.length ? months[idx + 1] : null;
+const nextMonth = idx > 0 ? months[idx - 1] : null;
+
+const BUCKET_ORDER = ['1-19', '20-39', '40-59', '60+'];
+const maxBucket = Math.max(1, ...BUCKET_ORDER.map((k) => month.discount_buckets[k] ?? 0));
+
+function fmtDelta(n: number): string {
+  return n > 0 ? `+${n}` : `${n}`;
+}
+
+const pageTitle = `Plugin Sale Statistics — ${month.label} | ${SITE_TITLE}`;
+const pageDescription = `${month.label}: ${month.products_tracked} plugins & bundles tracked, ${month.on_sale_pct}% on sale, ${month.avg_discount_pct}% average discount, ${month.all_time_low_hits} sold at their lowest tracked price. Computed from real tracked price observations.`;
+
+const datasetLD = {
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": `Plugin Sale Statistics — ${month.label}`,
+  "description": pageDescription,
+  "url": `https://plugindrop.net/sale-stats/${month.month}/`,
+  "temporalCoverage": month.month,
+  "creator": {
+    "@type": "Organization",
+    "name": "SignalDrop",
+    "url": "https://plugindrop.net",
+  },
+  "isBasedOn": "https://plugindrop.net/plugin-prices/",
+};
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead title={pageTitle} description={pageDescription} />
+    <script type="application/ld+json" set:html={JSON.stringify(datasetLD)} />
+    <style>
+      main { max-width: 900px; margin: 0 auto; padding: 2rem 1rem 3rem; }
+
+      .breadcrumb { font-size: 0.8rem; color: var(--text-muted); margin-bottom: 1.25rem; }
+      .breadcrumb a { color: var(--text-muted); text-decoration: none; }
+      .breadcrumb a:hover { text-decoration: underline; }
+      .breadcrumb .sep { margin: 0 0.4rem; }
+
+      .page-header h1 { font-size: 1.8rem; font-weight: 800; margin: 0 0 0.3rem; color: var(--text-primary); }
+      .page-header .subtitle { font-size: 0.85rem; color: var(--text-muted); margin: 0 0 1.75rem; }
+
+      h2.section-title { font-size: 1.15rem; font-weight: 800; margin: 0 0 0.9rem; color: var(--text-primary); }
+      section.page-section { margin: 2.5rem 0; }
+
+      .stat-tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.85rem; }
+      .stat-tile {
+        background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius, 8px);
+        padding: 0.9rem 1.1rem;
+      }
+      .stat-tile .num {
+        display: block; font-size: 1.5rem; font-weight: 800; color: var(--text-primary);
+        font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      }
+      .stat-tile .lbl { font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
+      .stat-tile .delta { display: block; font-size: 0.72rem; margin-top: 0.2rem; }
+      .stat-tile .delta.up { color: var(--sale-text, #ffba45); }
+      .stat-tile .delta.down { color: var(--text-muted); }
+
+      .bucket-row { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.55rem; }
+      .bucket-label { width: 70px; flex-shrink: 0; font-size: 0.78rem; color: var(--text-secondary); font-family: ui-monospace, monospace; }
+      .bucket-bar-wrap { flex: 1; background: var(--bg-low); border-radius: 4px; overflow: hidden; height: 18px; }
+      .bucket-bar { height: 100%; background: var(--accent); border-radius: 4px; }
+      .bucket-count { width: 40px; text-align: right; flex-shrink: 0; font-size: 0.78rem; color: var(--text-muted); font-family: ui-monospace, monospace; }
+
+      .data-table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 10px; background: var(--bg-card); }
+      .data-table { width: 100%; min-width: 560px; border-collapse: collapse; font-size: 0.85rem; }
+      .data-table thead th {
+        text-align: left; padding: 0.6rem 0.9rem; background: var(--bg-low);
+        color: var(--text-muted); font-size: 0.68rem; text-transform: uppercase;
+        letter-spacing: 0.06em; font-weight: 700; white-space: nowrap; border-bottom: 1px solid var(--border);
+      }
+      .data-table td { padding: 0.6rem 0.9rem; vertical-align: middle; color: var(--text-secondary); border-bottom: 1px solid var(--border-light); }
+      .data-table tbody tr:last-child td { border-bottom: none; }
+      .data-table .prod-link { color: var(--text-primary); font-weight: 700; text-decoration: none; }
+      .data-table .prod-link:hover { color: var(--accent); }
+      .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-variant-numeric: tabular-nums; }
+      .off-badge {
+        display: inline-block; padding: 0.15rem 0.55rem; border-radius: 4px;
+        background: var(--sale-bg); color: var(--sale-text); font-weight: 700; font-size: 0.78rem; white-space: nowrap;
+      }
+      .cta-btn-sm {
+        display: inline-block; padding: 0.35rem 0.75rem; border-radius: 6px;
+        background: var(--accent-muted); color: var(--accent-light);
+        text-decoration: none; font-size: 0.75rem; font-weight: 700; white-space: nowrap;
+      }
+      .cta-btn-sm:hover { background: var(--accent); color: #0b0e0d; }
+      .empty-note { color: var(--text-muted); font-size: 0.88rem; }
+
+      .month-nav { display: flex; justify-content: space-between; gap: 1rem; margin: 2.5rem 0; }
+      .month-nav a { color: var(--accent); font-size: 0.85rem; text-decoration: none; }
+      .month-nav a:hover { text-decoration: underline; }
+      .month-nav .spacer { flex: 1; }
+
+      .methodology-box {
+        background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius, 8px);
+        padding: 1.1rem 1.4rem; color: var(--text-secondary); font-size: 0.85rem; line-height: 1.65;
+      }
+      .methodology-box p { margin: 0 0 0.75rem; }
+      .methodology-box p:last-child { margin-bottom: 0; }
+      .methodology-box a { color: var(--accent); }
+
+      @media (max-width: 640px) {
+        .data-table th, .data-table td { padding: 0.45rem 0.6rem; font-size: 0.78rem; }
+      }
+    </style>
+  </head>
+  <body>
+    <a href="#main-content" class="sr-only">Skip to content</a>
+    <Header />
+    <main id="main-content">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a><span class="sep">/</span>
+        <a href="/sale-stats/">Sale Stats</a><span class="sep">/</span>
+        <span>{month.label}</span>
+      </nav>
+
+      <div class="page-header">
+        <h1>Plugin Sale Statistics — {month.label}</h1>
+        {month.is_current && <p class="subtitle">Month to date · updated daily</p>}
+      </div>
+
+      <section class="page-section">
+        <h2 class="section-title">Headline Numbers</h2>
+        <div class="stat-tiles">
+          <div class="stat-tile">
+            <span class="num">{month.products_tracked}</span>
+            <span class="lbl">Tracked</span>
+            {month.vs_previous_month && (
+              <span class={`delta ${month.vs_previous_month.products_tracked_delta >= 0 ? 'up' : 'down'}`}>
+                {fmtDelta(month.vs_previous_month.products_tracked_delta)} vs {month.vs_previous_month.month}
+              </span>
+            )}
+          </div>
+          <div class="stat-tile">
+            <span class="num">{month.on_sale_pct}%</span>
+            <span class="lbl">On sale</span>
+            {month.vs_previous_month && (
+              <span class={`delta ${month.vs_previous_month.on_sale_pct_delta >= 0 ? 'up' : 'down'}`}>
+                {fmtDelta(month.vs_previous_month.on_sale_pct_delta)}pt vs {month.vs_previous_month.month}
+              </span>
+            )}
+          </div>
+          <div class="stat-tile">
+            <span class="num">-{month.avg_discount_pct}%</span>
+            <span class="lbl">Avg discount</span>
+            {month.vs_previous_month && (
+              <span class={`delta ${month.vs_previous_month.avg_discount_pct_delta <= 0 ? 'up' : 'down'}`}>
+                {fmtDelta(month.vs_previous_month.avg_discount_pct_delta)}pt vs {month.vs_previous_month.month}
+              </span>
+            )}
+          </div>
+          <div class="stat-tile">
+            <span class="num">-{month.median_discount_pct}%</span>
+            <span class="lbl">Median discount</span>
+          </div>
+          <div class="stat-tile">
+            <span class="num">{month.all_time_low_hits}</span>
+            <span class="lbl">Lowest-tracked-price hits</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="page-section">
+        <h2 class="section-title">Discount Distribution</h2>
+        {BUCKET_ORDER.map((key) => (
+          <div class="bucket-row">
+            <span class="bucket-label">{key}%</span>
+            <div class="bucket-bar-wrap">
+              <div class="bucket-bar" style={`width:${((month.discount_buckets[key] ?? 0) / maxBucket) * 100}%`}></div>
+            </div>
+            <span class="bucket-count mono">{month.discount_buckets[key] ?? 0}</span>
+          </div>
+        ))}
+      </section>
+
+      <section class="page-section">
+        <h2 class="section-title">Deepest Discounts This Month</h2>
+        {month.deepest_discounts.length > 0 ? (
+          <div class="data-table-wrap">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th>Product</th><th>Category</th><th>Regular</th><th>Sale</th><th>% Off</th><th>Date</th><th></th>
+                </tr>
+              </thead>
+              <tbody>
+                {month.deepest_discounts.map((d) => (
+                  <tr>
+                    <td><a href={`/plugin-prices/${d.slug}/`} class="prod-link">{d.name}</a></td>
+                    <td>{d.category}</td>
+                    <td class="mono">{formatPrice(d.regular)}</td>
+                    <td class="mono">{formatPrice(d.sale)}</td>
+                    <td><span class="off-badge">-{d.pct_off}%</span></td>
+                    <td class="mono">{d.date}</td>
+                    <td><a href={pbLink(d.pb_url)} class="cta-btn-sm" target="_blank" rel="noopener sponsored">View deal</a></td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        ) : (
+          <p class="empty-note">No discounts observed this month.</p>
+        )}
+      </section>
+
+      <section class="page-section">
+        <h2 class="section-title">Sold at Lowest Tracked Price This Month</h2>
+        {month.all_time_low_products.length > 0 ? (
+          <div class="data-table-wrap">
+            <table class="data-table">
+              <thead>
+                <tr><th>Product</th><th>Sale</th><th>Lowest tracked</th><th>Date</th></tr>
+              </thead>
+              <tbody>
+                {month.all_time_low_products.map((p) => (
+                  <tr>
+                    <td><a href={`/plugin-prices/${p.slug}/`} class="prod-link">{p.name}</a></td>
+                    <td class="mono">{formatPrice(p.sale)}</td>
+                    <td class="mono">{formatPrice(p.all_time_low)}</td>
+                    <td class="mono">{p.date ?? '—'}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        ) : (
+          <p class="empty-note">No products hit their lowest tracked price this month.</p>
+        )}
+      </section>
+
+      <section class="page-section">
+        <h2 class="section-title">By Category</h2>
+        {month.by_category.length > 0 ? (
+          <div class="data-table-wrap">
+            <table class="data-table">
+              <thead>
+                <tr><th>Category</th><th>Tracked</th><th>On sale</th><th>On sale %</th><th>Avg discount</th></tr>
+              </thead>
+              <tbody>
+                {month.by_category.map((c) => (
+                  <tr>
+                    <td>{c.category}</td>
+                    <td class="mono">{c.tracked}</td>
+                    <td class="mono">{c.on_sale}</td>
+                    <td class="mono">{c.on_sale_pct}%</td>
+                    <td class="mono">{c.on_sale > 0 ? `-${c.avg_discount_pct}%` : '—'}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        ) : (
+          <p class="empty-note">No category data for this month.</p>
+        )}
+      </section>
+
+      <section class="page-section">
+        <h2 class="section-title">Methodology &amp; Caveats</h2>
+        <div class="methodology-box">
+          <p>
+            Based on {month.observations} accepted price observations across {month.products_tracked} tracked
+            plugins &amp; bundles this month. Only observations from our automated price checks and direct deals
+            polling count — past researched values and Wayback-archived prices are excluded from this page, since
+            they weren't observed in real time. See <a href="/how-we-track-prices/">how we track plugin prices</a>
+            for the full methodology.
+          </p>
+          <p>
+            "Lowest tracked price" means the lowest price in our own tracking history for that product — for many
+            products daily tracking only began in July 2026, so it is the lowest we have observed, not necessarily
+            the lowest the product has ever sold for. Discount percentages are each product's deepest observed
+            discount during the month, relative to the regular price shown at the time.
+          </p>
+          {month.is_current && <p>This is a month-to-date figure — it will keep updating daily until the month ends.</p>}
+          <p>All prices are in USD. Some links are affiliate links — see our <a href="/about#affiliate">affiliate disclosure</a>.</p>
+        </div>
+      </section>
+
+      <div class="month-nav">
+        {prevMonth ? <a href={`/sale-stats/${prevMonth.month}/`}>&larr; {prevMonth.label}</a> : <span></span>}
+        <span class="spacer"></span>
+        {nextMonth ? <a href={`/sale-stats/${nextMonth.month}/`}>{nextMonth.label} &rarr;</a> : <span></span>}
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>
