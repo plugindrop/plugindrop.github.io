@@ -797,6 +797,13 @@
     "score": 11,
     "source": "yt_api_fill"
   },
+  "Hive 2": {
+    "video_id": "q1zm41YBKs4",
+    "title": "hive 2 expressive suite - MPE preset demos",
+    "channel": "Expressive E",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "IRON 2": {
     "video_id": "ntgzX553N_I",
     "title": "IRON 2 by UJAM Instruments | Song Demo and Preset Playthrough",
@@ -1140,6 +1147,13 @@
     "score": 8,
     "source": "yt_api_fill"
   },
+  "SPARKLE 2": {
+    "video_id": "zkyvKZLuN1U",
+    "title": "UJAM Sparkle 2: Walkthrough | Review | Cookup Demo 🔥🔥🔥",
+    "channel": "PULSE Music ",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "SSL Native X-Comp": {
     "video_id": "PMB0_DnCbKI",
     "title": "SSL Native X-Comp - Audio Examples",
@@ -1164,6 +1178,13 @@
   "SSL Native X-Saturator": {
     "video_id": "YIYJawHFoAg",
     "title": "SSL Native X Saturator",
+    "channel": "Solid State Logic",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "SSL Native X-ValveComp": {
+    "video_id": "B89oBqbz38Y",
+    "title": "SSL Native X-ValveComp - Audio Examples",
     "channel": "Solid State Logic",
     "score": 11,
     "source": "yt_api_fill"
