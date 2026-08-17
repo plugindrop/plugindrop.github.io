@@ -30255,7 +30255,7 @@
       "pb_url": "/product/2-Effects/44-Saturation/10203-Black-Box-Analog-Design-HG-2",
       "typical_regular": 125.0,
       "typical_sale": null,
-      "all_time_low": null,
+      "all_time_low": 30.0,
       "notes": "auto-crawl 2026-07-19",
       "category": null,
       "history": [
@@ -30282,6 +30282,12 @@
           "regular": 125.0,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-08-17",
+          "sale": 30.0,
+          "regular": 125.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -31743,6 +31749,12 @@
         },
         {
           "date": "2026-08-16",
+          "sale": 39.99,
+          "regular": 99.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-17",
           "sale": 39.99,
           "regular": 99.0,
           "source": "pb_deals_poll"
@@ -33985,6 +33997,12 @@
           "sale": 97.49,
           "regular": 129.99,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-17",
+          "sale": 97.49,
+          "regular": 129.99,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -34022,6 +34040,12 @@
         },
         {
           "date": "2026-08-14",
+          "sale": 49.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-17",
           "sale": 49.0,
           "regular": 149.0,
           "source": "pb_deals_poll"
