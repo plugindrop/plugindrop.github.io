@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17",
+  "generated_at": "2026-08-18",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": true,
-      "generated_at": "2026-08-17",
-      "observations": 1861,
-      "products_tracked": 398,
-      "products_on_sale": 187,
-      "on_sale_pct": 47.0,
-      "avg_discount_pct": 50.8,
+      "generated_at": "2026-08-18",
+      "observations": 1982,
+      "products_tracked": 399,
+      "products_on_sale": 189,
+      "on_sale_pct": 47.4,
+      "avg_discount_pct": 50.9,
       "median_discount_pct": 50,
       "discount_buckets": {
         "1-19": 9,
         "20-39": 56,
         "40-59": 57,
-        "60+": 65
+        "60+": 67
       },
-      "all_time_low_hits": 147,
+      "all_time_low_hits": 149,
       "deepest_discounts": [
         {
           "name": "CARBON",
@@ -286,10 +286,10 @@
       "by_category": [
         {
           "category": "Other",
-          "tracked": 289,
-          "on_sale": 145,
-          "on_sale_pct": 50.2,
-          "avg_discount_pct": 53.9
+          "tracked": 290,
+          "on_sale": 147,
+          "on_sale_pct": 50.7,
+          "avg_discount_pct": 54.1
         },
         {
           "category": "Synth",
@@ -392,16 +392,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-07",
-        "on_sale_pct_delta": -4.3,
-        "avg_discount_pct_delta": -5.8,
-        "products_tracked_delta": 96
+        "on_sale_pct_delta": -3.9,
+        "avg_discount_pct_delta": -5.7,
+        "products_tracked_delta": 97
       }
     },
     {
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-08-17",
+      "generated_at": "2026-08-18",
       "observations": 2052,
       "products_tracked": 302,
       "products_on_sale": 155,
@@ -414,7 +414,7 @@
         "40-59": 55,
         "60+": 67
       },
-      "all_time_low_hits": 117,
+      "all_time_low_hits": 118,
       "deepest_discounts": [
         {
           "name": "CARBON",
