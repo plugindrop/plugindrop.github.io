@@ -25938,30 +25938,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2022-01-21",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-09-24",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-05-12",
-          "regular": 102.3,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-04-05",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -26076,42 +26052,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2021-10-23",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-08-09",
-          "regular": 29.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-09-17",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-02-27",
-          "regular": 29.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-03-20",
-          "regular": 29.97,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-05-15",
-          "regular": 98.18,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -26364,48 +26304,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2022-01-21",
-          "regular": 39.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-08-09",
-          "regular": 27.61,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-10-01",
-          "regular": 39.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-11-02",
-          "regular": 39.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-07-09",
-          "regular": 25.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-04-04",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-18",
-          "regular": 39.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -26706,42 +26604,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2022-01-29",
-          "regular": 25.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-08-21",
-          "regular": 17.67,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-01-28",
-          "regular": 25.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-04-21",
-          "regular": 29.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-02-02",
-          "regular": 29.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-06-22",
-          "regular": 29.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -26913,54 +26775,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2021-10-01",
-          "regular": 19.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-01-27",
-          "regular": 19.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-09-01",
-          "regular": 16.86,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-08-06",
-          "regular": 9.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-01-05",
-          "regular": 19.15,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-02-08",
-          "regular": 19.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-18",
-          "regular": 9.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-04-01",
-          "regular": 9.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -27018,42 +26832,6 @@
           "regular": null,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2021-10-16",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-05-28",
-          "regular": 50.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-07-02",
-          "regular": 25.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-06-09",
-          "regular": 100.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-04-04",
-          "regular": 25.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-09-05",
-          "regular": 50.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -36208,70 +35986,6 @@
           "source": "auto_check"
         }
       ]
-    },
-    "u-he TyrellN6": {
-      "pb_url": "/product/1-Instruments/4-Synth/17642-TyrellN6",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-18",
-      "history": []
-    },
-    "u-he Zebralette 3": {
-      "pb_url": "/product/1-Instruments/4-Synth/17688-Zebralette-3",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-18",
-      "history": []
-    },
-    "UAD Hitsville EQ Collection": {
-      "pb_url": "/product/2-Effects/16-EQ/10171-Hitsville-EQ-Collection",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-18",
-      "history": []
-    },
-    "Native Instruments Discoteca Drums": {
-      "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15862-Discoteca-Drums",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-18",
-      "history": []
-    },
-    "Native Instruments Traktor Play": {
-      "pb_url": "/product/2-Effects/73-DJ-Tools/16211-Traktor-Play",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-18",
-      "history": []
-    },
-    "Cherry Audio ODC 2800 Synthesizer": {
-      "pb_url": "/product/1-Instruments/4-Synth/15107-ODC-2800-Synthesizer",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-18",
-      "history": []
-    },
-    "Cherry Audio P 10 Synthesizer": {
-      "pb_url": "/product/1-Instruments/4-Synth/14055-P-10-Synthesizer",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-18",
-      "history": []
-    },
-    "Minimal Audio Memory Rites": {
-      "pb_url": "/product/1-Instruments/64-Virtual-Instruments/17485-Memory-Rites",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-08-18",
-      "history": []
     }
   }
 }
