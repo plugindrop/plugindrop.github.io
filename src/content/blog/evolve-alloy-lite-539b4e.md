@@ -9,7 +9,7 @@ score: 6.23
 dealPrice: "$19.00"
 originalPrice: "$29.00"
 discount: "34% OFF"
-draft: false
+draft: true
 ---
 **TL;DR:** Evolve Alloy Lite is on sale at Plugin Boutique for $19, down from ~~$29~~ — a 34% discount. It's a lighter, more affordable entry point into the Evolve Alloy sound design library for producers who want evolving textures without the full-library price tag. [Get the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Evolve+Alloy+Lite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-alloy-lite-539b4e).
 

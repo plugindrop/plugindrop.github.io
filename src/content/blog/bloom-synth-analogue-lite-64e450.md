@@ -9,7 +9,7 @@ score: 7.20
 dealPrice: "$19.00"
 originalPrice: "$29.00"
 discount: "34% OFF"
-draft: false
+draft: true
 ---
 **TL;DR:** Bloom Synth Analogue Lite is currently ~~$29~~ **$19** at Plugin Boutique, a 34% discount on the analog-style synth instrument. If you're after affordable analog character without committing to the full Bloom Synth lineup, this is a low-cost entry point. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Bloom+Synth+Analogue+Lite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-lite-64e450).
 

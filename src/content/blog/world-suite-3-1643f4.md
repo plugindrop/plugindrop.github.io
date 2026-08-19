@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "bundle", "music
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4"
 heroImage: /images/world-suite-3-1643f4.jpg
 score: 8.95
-draft: false
+draft: true
 converted: true
 ---
 **World Suite 3** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4)

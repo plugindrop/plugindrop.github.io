@@ -9,7 +9,7 @@ score: 8.33
 dealPrice: "$140.00"
 originalPrice: "$349.99"
 discount: "60% OFF"
-draft: false
+draft: true
 ---
 **TL;DR:** Steinberg's flagship sampler-synth workstation, HALion 7, is down to $140 from ~~$349.99~~ at Plugin Boutique — a $209.99 saving. [Get HALion 7 at Plugin Boutique](https://www.pluginboutique.com/search?q=HALion+7&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=halion-7-3e1300) while the deal is live.
 

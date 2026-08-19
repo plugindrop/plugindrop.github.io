@@ -9,7 +9,7 @@ score: 7.07
 dealPrice: "$40.00"
 originalPrice: "$119.00"
 discount: "66% OFF"
-draft: false
+draft: true
 ---
 **TL;DR:** InstaComposer 3, the AI-driven chord and melody generation plugin from XHUN Audio, is ~~$119~~ $40 at Plugin Boutique — a 66% discount. If you write or arrange music and want a faster way to sketch chord progressions and melodic ideas, this is a straightforward price-to-value call. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=InstaComposer+3&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-3-cfecdc).
 

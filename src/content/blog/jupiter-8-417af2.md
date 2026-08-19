@@ -9,7 +9,7 @@ score: 7.88
 dealPrice: "$99.00"
 originalPrice: "$199.00"
 discount: "50% OFF"
-draft: false
+draft: true
 ---
 The article is complete at `/Users/andaugment/projects/affiliate-bot/jupiter-8-deal-article.md` (764 words, within the 700-900 range, affiliate link used 3 times as CTAs).
 

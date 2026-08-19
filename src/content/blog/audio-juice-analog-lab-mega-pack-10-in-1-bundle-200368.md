@@ -9,7 +9,7 @@ score: 5.38
 dealPrice: "$21"
 originalPrice: "$29.99"
 discount: "30% OFF"
-draft: false
+draft: true
 ---
 **TL;DR:** The Audio Juice Analog Lab Mega Pack 10 In 1 Bundle is ~~$29.99~~ $21 at ADSR Sounds, a 30% discount. That works out to roughly $2.10 per preset pack across the ten included collections. [Get the deal here](https://www.adsrsounds.com/product/presets/audio-juice-analog-lab-mega-pack-10-in-1-bundle/?a_aid=plugindrop&data1=audio-juice-analog-lab-mega-pack-10-in-1-bundle-200368&utm_source=plugindrop&utm_medium=article&utm_campaign=audio-juice-analog-lab-mega-pack-10-in-1-bundle-200368).
 
