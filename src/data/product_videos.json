@@ -328,11 +328,25 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "Cherry Audio ODC 2800 Synthesizer": {
+    "video_id": "Hr4skPnqF9E",
+    "title": "Cherry Audio | ODC 2800 Synthesizer",
+    "channel": "Cherry Audio",
+    "score": 13,
+    "source": "yt_api_fill"
+  },
   "Cherry Audio Octave Cat": {
     "video_id": "-aGis2iQJbk",
     "title": "Introduction to Cherry Audio's Octave Cat - Hosted by Tim Shoebridge",
     "channel": "Cherry Audio",
     "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Cherry Audio P 10 Synthesizer": {
+    "video_id": "xxSahItqCHM",
+    "title": "Cherry Audio | P-10 Synthesizer",
+    "channel": "Cherry Audio",
+    "score": 13,
     "source": "yt_api_fill"
   },
   "Cherry Audio PS 3300": {
@@ -1021,6 +1035,13 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "Native Instruments Traktor Play": {
+    "video_id": "FnQepYoDa3U",
+    "title": "How to DJ for beginners with Traktor Play | Native Instruments",
+    "channel": "Native Instruments",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Output Analog Brass and Winds": {
     "video_id": "DZHglCy0img",
     "title": "ANALOG BRASS & WINDS by Output - Walkthrough",
@@ -1255,6 +1276,13 @@
   "Sonible smart deess": {
     "video_id": "8KZtoU9b2Bs",
     "title": "smart:deess by sonible – the content-aware de-esser",
+    "channel": "sonible",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Sonible smart gate": {
+    "video_id": "wl-iI046fNo",
+    "title": "smart:gate by sonible - the content-aware gate",
     "channel": "sonible",
     "score": 10,
     "source": "yt_api_fill"
@@ -1577,6 +1605,13 @@
   "UAD Galaxy Tape Echo": {
     "video_id": "Cg1wZtMOwaQ",
     "title": "UAD Quick Tips: Galaxy Tape Echo",
+    "channel": "Universal Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "UAD Hitsville EQ Collection": {
+    "video_id": "6sd1JPFJ6VE",
+    "title": "Hitsville EQ Collection | UAD Quick Tips",
     "channel": "Universal Audio",
     "score": 10,
     "source": "yt_api_fill"
@@ -2069,6 +2104,13 @@
     "title": "u-he Zebra 3 - Powerful Synthesis And Sound Design - SonicLAB",
     "channel": "sonicstate",
     "score": 9,
+    "source": "yt_api_fill"
+  },
+  "u-he Zebralette 3": {
+    "video_id": "W_J50lR3X1w",
+    "title": "u-he Zebralette 3 (Free) - Demo by Crazik",
+    "channel": "cra zik",
+    "score": 10,
     "source": "yt_api_fill"
   }
 }
