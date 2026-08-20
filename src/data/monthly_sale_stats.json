@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19",
+  "generated_at": "2026-08-20",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": true,
-      "generated_at": "2026-08-19",
-      "observations": 2109,
-      "products_tracked": 411,
-      "products_on_sale": 202,
-      "on_sale_pct": 49.1,
-      "avg_discount_pct": 52.2,
-      "median_discount_pct": 50.0,
+      "generated_at": "2026-08-20",
+      "observations": 2230,
+      "products_tracked": 412,
+      "products_on_sale": 205,
+      "on_sale_pct": 49.8,
+      "avg_discount_pct": 52.5,
+      "median_discount_pct": 51,
       "discount_buckets": {
         "1-19": 8,
         "20-39": 58,
         "40-59": 60,
-        "60+": 76
+        "60+": 79
       },
-      "all_time_low_hits": 161,
+      "all_time_low_hits": 165,
       "deepest_discounts": [
         {
           "name": "CARBON",
@@ -276,20 +276,20 @@
           "date": "2026-08-03"
         },
         {
-          "name": "UAD Opal Morphing Synth",
-          "slug": "uad-opal-morphing-synth",
+          "name": "UAD Moog Minimoog",
+          "slug": "uad-moog-minimoog",
           "sale": 29.0,
           "all_time_low": 29.0,
-          "date": "2026-08-07"
+          "date": "2026-08-19"
         }
       ],
       "by_category": [
         {
           "category": "Other",
           "tracked": 298,
-          "on_sale": 154,
-          "on_sale_pct": 51.7,
-          "avg_discount_pct": 54.5
+          "on_sale": 155,
+          "on_sale_pct": 52.0,
+          "avg_discount_pct": 54.6
         },
         {
           "category": "Synth",
@@ -328,10 +328,10 @@
         },
         {
           "category": "Reverb",
-          "tracked": 8,
-          "on_sale": 2,
-          "on_sale_pct": 25.0,
-          "avg_discount_pct": 61.5
+          "tracked": 9,
+          "on_sale": 4,
+          "on_sale_pct": 44.4,
+          "avg_discount_pct": 64.2
         },
         {
           "category": "Bundle",
@@ -392,16 +392,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-07",
-        "on_sale_pct_delta": -2.2,
-        "avg_discount_pct_delta": -4.4,
-        "products_tracked_delta": 109
+        "on_sale_pct_delta": -1.5,
+        "avg_discount_pct_delta": -4.1,
+        "products_tracked_delta": 110
       }
     },
     {
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-08-19",
+      "generated_at": "2026-08-20",
       "observations": 2052,
       "products_tracked": 302,
       "products_on_sale": 155,
