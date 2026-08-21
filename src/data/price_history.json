@@ -1805,6 +1805,12 @@
           "regular": 149.0,
           "sale": 99.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-08-21",
+          "sale": 99.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll"
         }
       ],
       "category": "Synth"
@@ -37232,6 +37238,12 @@
         },
         {
           "date": "2026-08-20",
+          "sale": 49.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-21",
           "sale": 49.0,
           "regular": 149.0,
           "source": "pb_deals_poll"
