@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22",
+  "generated_at": "2026-08-23",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,21 +10,31 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": true,
-      "generated_at": "2026-08-22",
-      "observations": 2468,
+      "generated_at": "2026-08-23",
+      "observations": 2588,
       "products_tracked": 414,
-      "products_on_sale": 212,
-      "on_sale_pct": 51.2,
-      "avg_discount_pct": 52.5,
-      "median_discount_pct": 50.5,
+      "products_on_sale": 214,
+      "on_sale_pct": 51.7,
+      "avg_discount_pct": 52.8,
+      "median_discount_pct": 51.0,
       "discount_buckets": {
         "1-19": 8,
         "20-39": 59,
         "40-59": 63,
-        "60+": 82
+        "60+": 84
       },
-      "all_time_low_hits": 176,
+      "all_time_low_hits": 178,
       "deepest_discounts": [
+        {
+          "name": "Waves Platinum Bundle",
+          "slug": "waves-platinum-bundle",
+          "category": "Bundle",
+          "regular": 1999,
+          "sale": 100,
+          "pct_off": 95,
+          "date": "2026-08-22",
+          "pb_url": "/product/81-Bundles/84-Mix-Master/12542-Platinum-Bundle"
+        },
         {
           "name": "CARBON",
           "slug": "carbon",
@@ -104,16 +114,6 @@
           "pct_off": 92,
           "date": "2026-08-01",
           "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5507-SOLID-2"
-        },
-        {
-          "name": "Waves Platinum Bundle",
-          "slug": "waves-platinum-bundle",
-          "category": "Bundle",
-          "regular": 1999.0,
-          "sale": 172.0,
-          "pct_off": 91,
-          "date": "2026-08-18",
-          "pb_url": "/product/81-Bundles/84-Mix-Master/12542-Platinum-Bundle"
         },
         {
           "name": "FM8",
@@ -287,9 +287,9 @@
         {
           "category": "Other",
           "tracked": 298,
-          "on_sale": 160,
-          "on_sale_pct": 53.7,
-          "avg_discount_pct": 54.4
+          "on_sale": 162,
+          "on_sale_pct": 54.4,
+          "avg_discount_pct": 54.7
         },
         {
           "category": "Synth",
@@ -345,7 +345,7 @@
           "tracked": 7,
           "on_sale": 5,
           "on_sale_pct": 71.4,
-          "avg_discount_pct": 46.8
+          "avg_discount_pct": 47.6
         },
         {
           "category": "Vocal",
@@ -387,13 +387,13 @@
           "tracked": 3,
           "on_sale": 1,
           "on_sale_pct": 33.3,
-          "avg_discount_pct": 65
+          "avg_discount_pct": 70
         }
       ],
       "vs_previous_month": {
         "month": "2026-07",
-        "on_sale_pct_delta": -0.1,
-        "avg_discount_pct_delta": -4.1,
+        "on_sale_pct_delta": 0.4,
+        "avg_discount_pct_delta": -3.8,
         "products_tracked_delta": 112
       }
     },
@@ -401,7 +401,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-08-22",
+      "generated_at": "2026-08-23",
       "observations": 2052,
       "products_tracked": 302,
       "products_on_sale": 155,
@@ -414,7 +414,7 @@
         "40-59": 55,
         "60+": 67
       },
-      "all_time_low_hits": 117,
+      "all_time_low_hits": 118,
       "deepest_discounts": [
         {
           "name": "CARBON",
