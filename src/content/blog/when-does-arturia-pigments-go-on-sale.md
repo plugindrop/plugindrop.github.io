@@ -13,7 +13,6 @@ relatedPosts:
   - "arturia-pigments-review"
   - "best-synth-vst-plugins-2026"
 heroImage: '/images/when-does-arturia-pigments-go-on-sale.jpg'
-draft: true
 ---
 
 **Short answer:** Arturia Pigments goes on sale **3-4 times per year**. The typical discount is **50–75% off**, bringing the $199 regular price down to around **$99**. The best times to buy:

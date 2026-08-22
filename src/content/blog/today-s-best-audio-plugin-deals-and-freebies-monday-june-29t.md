@@ -8,7 +8,7 @@ heroImage: "/images/today-s-best-audio-plugin-deals-and-freebies-monday-june-29t
 score: 7.92
 dealPrice: "FREE"
 xText: "free plugin roundup this week hits different. real gear that usually costs money, zero dollars. go grab them while it's live."
-draft: true
+draft: false
 ---
 **TL;DR:** Fine Classics Saturator is currently available at absolutely no cost — a free saturation plugin with no coupon required, directly from the developer. No expiry date has been announced, which means this could disappear anytime. [Download Fine Classics Saturator free here.](https://fineclassicsplugins.com/products/fine-classics-saturator)
 

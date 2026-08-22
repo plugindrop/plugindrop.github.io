@@ -6,7 +6,7 @@ tags: ["review", "bundle", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16626-SSL-autoSeries-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-autoseries-bundle-c15796"
 heroImage: /images/ssl-autoseries-bundle-c15796.jpg
 score: 10.00
-draft: true
+draft: false
 converted: true
 ---
 **SSL autoSeries Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16626-SSL-autoSeries-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-autoseries-bundle-c15796)

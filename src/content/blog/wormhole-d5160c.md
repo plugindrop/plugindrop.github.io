@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/2709-WORMHOLE-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wormhole-d5160c"
 heroImage: /images/wormhole-d5160c.jpg
 score: 7.95
-draft: true
+draft: false
 converted: true
 ---
 **WORMHOLE** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/2709-WORMHOLE-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wormhole-d5160c)

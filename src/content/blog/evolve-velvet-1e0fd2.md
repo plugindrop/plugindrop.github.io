@@ -10,7 +10,7 @@ dealPrice: "$39.00"
 originalPrice: "$59.00"
 discount: "34% OFF"
 xText: "evolve velvet just dropped at 34% off — new saturation releases rarely see this price. solid move to audition it next session if you're looking"
-draft: true
+draft: false
 ---
 **TL;DR:** Evolve Velvet is currently 34% off at Plugin Boutique — drop from ~~$59.00~~ to **$39.00**, saving you $20 on a cinematic virtual instrument built for producers who need lush, textured soundscapes. If you've had this one on your radar, [grab it now at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15331-Evolve-Velvet?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-velvet-1e0fd2) before the deal expires.
 

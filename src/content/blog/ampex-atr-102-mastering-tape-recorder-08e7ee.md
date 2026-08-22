@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "mastering", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee"
 heroImage: /images/ampex-atr-102-mastering-tape-recorder-08e7ee.jpg
 score: 8.45
-draft: true
+draft: false
 converted: true
 ---
 **Ampex ATR 102 Mastering Tape Recorder** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee)

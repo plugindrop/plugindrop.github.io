@@ -8,7 +8,7 @@ affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=
 heroImage: "/images/ableton-live-vs-logic-pro-2026.jpg"
 evergreen: true
 score: 8.00
-draft: true
+draft: false
 ---
 
 

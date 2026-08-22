@@ -10,7 +10,7 @@ dealPrice: "$149.99"
 originalPrice: "$199.99"
 discount: "25% OFF"
 xText: "staccato's ceo jeff lupker just explained what he thinks modern plugins are actually missing - the interview is surprisingly honest. hits different tbh"
-draft: true
+draft: false
 ---
 **TL;DR:** Staccato — the AI MIDI generation plugin that just took home AudioPlugin.Deals' 2026 Plugin of the Year — is currently available for **$149.99** (down from ~~$199.99~~), saving you $50. If you've been curious about where AI-assisted composition is heading, [this is the moment to get in](https://audioplugin.deals/blog/interview-with-jeff-lupker-co-founder-and-ceo-of-staccato/).
 

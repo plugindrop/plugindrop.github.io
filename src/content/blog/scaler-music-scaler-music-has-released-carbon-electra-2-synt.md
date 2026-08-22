@@ -9,7 +9,7 @@ score: 7.63
 discount: "20% OFF"
 saleExpiry: "2026-07-13"
 xText: "20% intro off on carbon electra 2 from scaler. new synth releases rarely discount this fast. this is the lowest you'll catch it at. window's closing."
-draft: true
+draft: false
 ---
 **TL;DR:** Scaler Music's brand-new Carbon Electra 2 synth plugin for Windows and Mac is currently available at 20% off its regular price as an intro deal — valid until July 13th. Verify current pricing on the product page. Grab it here: [Carbon Electra 2 →](https://scalermusic.com/products/carbon-electra-2/)
 

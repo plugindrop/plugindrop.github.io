@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-productio
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/7938-BRUTE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=brute-29335d"
 heroImage: /images/brute-29335d.jpg
 score: 8.82
-draft: true
+draft: false
 converted: true
 ---
 **BRUTE** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/7938-BRUTE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=brute-29335d)

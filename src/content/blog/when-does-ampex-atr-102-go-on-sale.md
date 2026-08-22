@@ -14,7 +14,6 @@ relatedPosts:
   - "best-saturation-plugins-2026"
   - "mastering-chain-plugins"
 heroImage: '/images/when-does-ampex-atr-102-go-on-sale.jpg'
-draft: true
 ---
 
 **Short answer:** Ampex ATR-102 goes on sale **2-3 times per year**. The typical discount is **80–89% off**, bringing the $349 regular price down to around **$69**. The best times to buy:

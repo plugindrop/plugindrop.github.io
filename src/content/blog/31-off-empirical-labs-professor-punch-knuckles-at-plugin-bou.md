@@ -6,7 +6,7 @@ tags: ["review", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=plugindrop&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou&a_aid=69cb95abe1763"
 heroImage: /images/31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou.jpg
 score: 7.73
-draft: true
+draft: false
 converted: true
 ---
 **Empirical Labs Professor Punch-Knuckles** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=plugindrop&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou&a_aid=69cb95abe1763)

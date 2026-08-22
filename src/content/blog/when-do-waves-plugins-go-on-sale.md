@@ -11,7 +11,6 @@ tags:
 relatedPosts:
   - "best-plugin-bundle-deals"
   - "best-limiter-plugins-mastering"
-draft: true
 ---
 
 **Short answer:** Waves Plugins goes on sale **Perpetual — Waves runs flash sales year-round**. The typical discount is **90–96% off**, bringing the $999 regular price down to around **$99**. The best times to buy:

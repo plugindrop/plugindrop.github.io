@@ -9,7 +9,7 @@ score: 8.00
 originalPrice: "$199"
 xText: "New guide: LANDR Mastering Review 2026: Is the Subscription Worth It?"
 heroImage: "/images/landr-mastering-worth-it-2026.jpg"
-draft: true
+draft: false
 priceTrack:
   - "FabFilter Pro-L 2"
 ---

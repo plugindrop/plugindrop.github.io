@@ -10,7 +10,7 @@ dealPrice: "$49.00"
 originalPrice: "$99.99"
 discount: "51% OFF"
 xText: "Waves  off — does it beat FabFilter at this price?"
-draft: true
+draft: false
 ---
 # Waves on Sale for $49 — How It Stacks Against FabFilter
 

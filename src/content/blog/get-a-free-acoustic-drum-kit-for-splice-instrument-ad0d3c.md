@@ -8,7 +8,7 @@ heroImage: "/images/get-a-free-acoustic-drum-kit-for-splice-instrument-ad0d3c.jp
 score: 7.36
 dealPrice: "FREE"
 xText: "free acoustic drums on splice instrument and these sit in a mix like butter. production-ready kits, zero reason not to grab them right now"
-draft: true
+draft: false
 ---
 **TL;DR:** Splice is giving away a free acoustic drum kit preset for its INSTRUMENT plugin — no strings attached, and it's yours to keep forever once you grab it. This is a limited-time drop, so download it before the window closes. [Get the free preset here](https://splice.com/sounds/create?utm_source=plugindrop&utm_medium=article&utm_campaign=get-a-free-acoustic-drum-kit-for-splice-instrument-ad0d3c).
 

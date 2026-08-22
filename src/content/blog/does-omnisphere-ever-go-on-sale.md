@@ -11,8 +11,7 @@ relatedPosts:
   - "best-synth-vst-plugins-2026"
   - "phase-plant-review"
   - "arturia-v-collection-review"
-heroImage: '/images/does-omnisphere-ever-go-on-sale.jpg'
-draft: true
+heroImage: '/images/when-does-omnisphere-go-on-sale.jpg'
 ---
 
 **Short answer:** Omnisphere 2 **never goes on sale.** The price has always been **$499** and there are no plans to change that.

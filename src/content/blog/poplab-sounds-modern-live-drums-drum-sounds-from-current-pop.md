@@ -7,7 +7,7 @@ affiliate: "https://www.native-instruments.com/en/products/komplete/bundles/komp
 heroImage: "/images/poplab-sounds-modern-live-drums-drum-sounds-from-current-pop.jpg"
 score: 5.18
 xText: "forget hunting sample packs for months. POPlab Sounds Modern Live-Drums literally sources from current chart hits. so they just... work. grab it."
-draft: true
+draft: false
 ---
 **TL;DR:** POPlab Sounds Modern Live-Drums is a multiformat drum sample instrument built around the sonic palette of today's commercial pop productions. Prices aren't listed here — verify current pricing on the product page before buying. [Check it out at Native Instruments.](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/get-komplete-start?utm_source=plugindrop&utm_medium=article&utm_campaign=poplab-sounds-modern-live-drums-drum-sounds-from-current-pop)
 

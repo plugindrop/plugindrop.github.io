@@ -9,7 +9,7 @@ score: 8.00
 originalPrice: "$29"
 xText: "New guide: How to Mix Vocals at Home: Complete 2026 Guide (With Plugin ..."
 heroImage: "/images/how-to-mix-vocals-at-home.jpg"
-draft: true
+draft: false
 ---
 
 **TL;DR:** Learning how to mix vocals at home in 2026 doesn't require an expensive plugin budget — TDR Nova and Valhalla Supermassive cover EQ and reverb at professional quality for free. If you want a single tool that handles the entire chain intelligently, iZotope Nectar 4 is the community's consistent recommendation for AI-assisted vocal production.
@@ -46,7 +46,7 @@ Workflow: run a high-pass filter around 80–120 Hz to clear rumble, use a dynam
 
 **Upgrade case: FabFilter Pro-Q 4 ($179 full price)**
 
-Pro-Q 4 earns its price in two situations: complex multi-track sessions where per-channel EQ curve visualization saves time, and dynamic EQ with mid/side capability for stereo processing. For a single vocal track, TDR Nova is not meaningfully inferior. [See when FabFilter Pro-Q 4 goes on sale →](/posts/when-does-fabfilter-pro-q-4-go-on-sale/)
+Pro-Q 4 earns its price in two situations: complex multi-track sessions where per-channel EQ curve visualization saves time, and dynamic EQ with mid/side capability for stereo processing. For a single vocal track, TDR Nova is not meaningfully inferior. [See when FabFilter Pro-Q 4 goes on sale →](/blog/when-does-fabfilter-pro-q-4-go-on-sale)
 
 ---
 
@@ -60,7 +60,7 @@ Logic's Flex Pitch, Melodyne Essential (bundled with many DAWs), and Ableton's a
 
 **Mixing in real-time: Waves Tune Real-Time (~$29 on sale)**
 
-Waves Tune Real-Time consistently sells for $29–49 during Waves' frequent promotions (which run most months). At that price, it's the easiest pitch correction recommendation for home producers — low latency, simple interface, effective for both subtle and obvious correction. Don't pay the $99 list price; see when Waves plugins go on sale →.
+Waves Tune Real-Time consistently sells for $29–49 during Waves' frequent promotions (which run most months). At that price, it's the easiest pitch correction recommendation for home producers — low latency, simple interface, effective for both subtle and obvious correction. Don't pay the $99 list price; [see when Waves plugins go on sale →](/blog/when-does-waves-go-on-sale).
 
 **Antares Auto-Tune Pro X (~$399 list, ~$149 on sale)**
 
@@ -100,7 +100,7 @@ Nectar 4 also includes Unmask, which automatically reduces frequency clashes bet
 
 What it isn't: a magic solution if your recording has serious room problems. No plugin chain fixes a poorly treated recording space. Fix the source first.
 
-See when iZotope Nectar 4 goes on sale →
+[See when iZotope Nectar 4 goes on sale →](/blog/when-does-izotope-nectar-go-on-sale)
 
 ---
 

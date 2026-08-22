@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=little-alterboy-586da2"
 heroImage: /images/little-alterboy-586da2.jpg
 score: 7.05
-draft: true
+draft: false
 converted: true
 ---
 

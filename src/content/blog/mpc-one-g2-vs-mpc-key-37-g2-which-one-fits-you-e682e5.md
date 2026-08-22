@@ -10,7 +10,7 @@ dealPrice: "$149.99"
 originalPrice: "$199.99"
 discount: "25% OFF"
 xText: "the g2 models are legit. key 37's got keys, one's got portability. both insanely faster. which one's your move?"
-draft: true
+draft: false
 ---
 **TL;DR:** Akai just dropped two new second-generation standalone MPCs — the MPC One G2 and MPC Key 37 G2 — with the MPC One G2 starting at ~~$199.99~~ **$149.99**. Both share the same upgraded 8-core processor and MPC3 software, making this a real decision about workflow rather than power. [Check out both options and current pricing here.](https://audioplugin.deals/blog/mpc-one-g2-vs-mpc-key-37-g2-which-one-fits-you/)
 

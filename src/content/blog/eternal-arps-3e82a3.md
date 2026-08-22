@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3"
 heroImage: /images/eternal-arps-3e82a3.jpg
 score: 7.73
-draft: true
+draft: false
 converted: true
 ---
 **Eternal Arps** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3)

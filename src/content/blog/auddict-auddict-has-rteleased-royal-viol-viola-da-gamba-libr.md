@@ -8,7 +8,7 @@ score: 5.50
 dealPrice: "$200"
 discount: "60% OFF"
 xText: "auddict's royal viol performs like a three-century-old instrument instead of a plugin. 60% off? this deal doesn't usually happen."
-draft: true
+draft: false
 heroImage: "/images/auddict-auddict-has-rteleased-royal-viol-viola-da-gamba-libr_og.jpg"
 ---
 **TL;DR:** Auddict's Royal Viol — a dedicated viola da gamba library for Kontakt — is available at $200 as part of a 60% off intro launch deal. This is one of the few dedicated viol sample libraries on the market, and intro pricing typically steps up once the launch window closes. [→ Get Royal Viol at Auddict](https://www.auddict.com/productpage/royal-viol)

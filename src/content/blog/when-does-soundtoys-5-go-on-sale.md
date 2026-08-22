@@ -14,7 +14,6 @@ relatedPosts:
   - "best-saturation-plugins-2026"
   - "best-delay-vst-plugins-2026"
 heroImage: '/images/when-does-soundtoys-5-go-on-sale.jpg'
-draft: true
 ---
 
 **Short answer:** SoundToys 5.5 goes on sale **1-2 times per year (Black Friday is the main event)**. The typical discount is **60–72% off**, bringing the $599 regular price down to around **$239**. The best times to buy:

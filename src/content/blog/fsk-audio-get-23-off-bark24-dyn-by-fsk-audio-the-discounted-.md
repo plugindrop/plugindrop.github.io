@@ -6,7 +6,7 @@ tags: ["review", "fsk audio", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17070-Bark24-Dyn?utm_source=plugindrop&utm_medium=article&utm_campaign=fsk-audio-get-23-off-bark24-dyn-by-fsk-audio-the-discounted-&a_aid=69cb95abe1763"
 heroImage: "/images/fsk-audio-get-23-off-bark24-dyn-by-fsk-audio-the-discounted-.jpg"
 score: 6.74
-draft: true
+draft: false
 converted: true
 ---
 

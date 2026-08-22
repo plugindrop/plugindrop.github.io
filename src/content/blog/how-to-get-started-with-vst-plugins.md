@@ -8,7 +8,7 @@ heroImage: "/images/how-to-get-started-with-vst-plugins.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: How to Get Started with VST Plugins: A Complete Beginner Gui..."
-draft: true
+draft: false
 priceTrack:
   - "FabFilter Pro-Q 4"
   - "Serum 2"

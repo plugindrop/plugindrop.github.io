@@ -72,8 +72,8 @@ If none of that applies to you, stay free. Most producers doing electronic, hip-
 
 **Buy nothing right now if:** you're still figuring out whether sample-based instruments fit your workflow. Every tool in this guide is free — install Decent Sampler, grab a few free libraries, and test the workflow for a few weeks before spending anything.
 
-**Buy Kontakt now if:** you already have a specific paid library in your cart that only runs in Kontakt. Don't wait on a free-alternative workaround that doesn't exist for encrypted NKI content — but don't buy Kontakt at full $399 price either. NI runs deep, predictable sales windows (Black Friday and summer NI sales regularly bring Kontakt 7 down to $249–$299). Check When Does Native Instruments Kontakt Go on Sale? before you buy at MSRP.
+**Buy Kontakt now if:** you already have a specific paid library in your cart that only runs in Kontakt. Don't wait on a free-alternative workaround that doesn't exist for encrypted NKI content — but don't buy Kontakt at full $399 price either. NI runs deep, predictable sales windows (Black Friday and summer NI sales regularly bring Kontakt 7 down to $249–$299). Check [When Does Native Instruments Kontakt Go on Sale?](/blog/when-does-native-instruments-kontakt-go-on-sale) before you buy at MSRP.
 
-**Wait for a bundle if:** you're eyeing more than just Kontakt — Komplete bundles frequently include Kontakt plus a large library set for less than Kontakt alone at list price. See When Does Komplete Go on Sale? to time it.
+**Wait for a bundle if:** you're eyeing more than just Kontakt — Komplete bundles frequently include Kontakt plus a large library set for less than Kontakt alone at list price. See [When Does Komplete Go on Sale?](/blog/when-does-native-instruments-komplete-go-on-sale) to time it.
 
 **Stay free indefinitely if:** your library sources are SFZ, DecentSampler `.dspreset`, or your own recorded multisamples. There's no upgrade path to chase here — Decent Sampler and sforzando aren't "free trials" of anything, they're the permanent tool for that format.

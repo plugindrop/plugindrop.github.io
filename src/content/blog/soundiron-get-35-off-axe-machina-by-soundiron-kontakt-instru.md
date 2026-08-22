@@ -6,7 +6,7 @@ tags: ["review", "soundiron", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763"
 heroImage: "/images/soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru.jpg"
 score: 8.07
-draft: true
+draft: false
 converted: true
 ---
 

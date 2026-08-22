@@ -7,7 +7,7 @@ affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7582-u-
 heroImage: "/images/u-he-diva-free-ambient-depths-expansion-plugin-boutique-deal.jpg"
 dealPrice: "FREE"
 score: 6.30
-draft: true
+draft: false
 ---
 **TL;DR:** u-he's Diva synth just got a free expansion — *Ambient Depths* is available at no cost through Plugin Boutique right now. Free means free: ~~paid~~ $0. If you own Diva, there's no reason not to grab it. Download Ambient Depths free at Plugin Boutique.
 

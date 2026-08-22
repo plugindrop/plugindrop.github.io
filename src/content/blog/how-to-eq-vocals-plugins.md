@@ -8,7 +8,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: How to EQ Vocals: Step-by-Step Guide with Best Plugins (2026..."
 heroImage: "/images/how-to-eq-vocals-plugins.jpg"
-draft: true
+draft: false
 priceTrack:
   - "FabFilter Pro-Q 4"
 ---

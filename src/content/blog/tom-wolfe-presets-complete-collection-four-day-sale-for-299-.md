@@ -8,7 +8,7 @@ heroImage: "/images/tom-wolfe-presets-complete-collection-four-day-sale-for-299-
 score: 7.20
 dealPrice: "$0.063"
 xText: "tom wolfe's complete collection just hit $299. the per-preset cost is actually stupid cheap. last four days before black friday."
-draft: true
+draft: false
 ---
 **TL;DR:** Tom Wolfe Presets is running a four-day sale on the Complete Collection — every soundbank the brand has ever made, bundled together for $299.99. The sale closes Monday 22nd June 2026 and won't return until Black Friday. [Grab it here before it closes.](https://www.pluginboutique.com/search?q=diva&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tom-wolfe-presets-complete-collection-four-day-sale-for-299-)
 

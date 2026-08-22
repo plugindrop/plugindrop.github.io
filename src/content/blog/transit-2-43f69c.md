@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c"
 heroImage: /images/transit-2-43f69c.jpg
 score: 8.32
-draft: true
+draft: false
 converted: true
 ---
 **Transit 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c)

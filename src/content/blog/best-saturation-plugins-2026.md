@@ -120,7 +120,7 @@ Tape Cassette 2 goes beyond saturation into full tape emulation — flutter, wow
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-Saturn 2 offers 12 distortion types — tube, tape, transformer, bit crusher, and more — with per-band control across up to six frequency bands. The modulation system, where LFOs, envelope followers, and XY pads can automate any parameter in real time, elevates it beyond a static saturation plugin into a fully dynamic harmonic processor. No other tool in this list gives you this level of control per dollar. FabFilter rarely runs deep discounts, so if you're weighing whether to buy now or wait, check our [When Does FabFilter Saturn 2 Go On Sale?](/plugin-prices/fabfilter-saturn-2/) breakdown before you commit — the wait is usually shorter than people expect, but the discount is modest.
+Saturn 2 offers 12 distortion types — tube, tape, transformer, bit crusher, and more — with per-band control across up to six frequency bands. The modulation system, where LFOs, envelope followers, and XY pads can automate any parameter in real time, elevates it beyond a static saturation plugin into a fully dynamic harmonic processor. No other tool in this list gives you this level of control per dollar. FabFilter rarely runs deep discounts, so if you're weighing whether to buy now or wait, check our [When Does FabFilter Saturn 2 Go On Sale?](/blog/when-does-fabfilter-saturn-2-go-on-sale) breakdown before you commit — the wait is usually shorter than people expect, but the discount is modest.
 
 **Best for:** Mixing and mastering engineers who need surgical multiband saturation with full modulation routing on complex material.
 
@@ -137,7 +137,7 @@ Saturn 2 offers 12 distortion types — tube, tape, transformer, bit crusher, an
 - **Platforms:** Windows, macOS
 - **Formats:** VST, AAX, AU
 
-Decapitator models five analog preamp and amplifier circuits — labeled A, E, N, T, and B, each based on real hardware units with distinct harmonic character. The "Punish" button adds extreme clipping for when subtle warmth isn't the brief. Its tone control and high-cut filter keep the drive focused without introducing high-frequency harshness on dense material. Soundtoys plugins go on sale more predictably than FabFilter's — see [When Does Soundtoys Decapitator Go On Sale?](/plugin-prices/soundtoys-decapitator/) for the pattern before buying at full price.
+Decapitator models five analog preamp and amplifier circuits — labeled A, E, N, T, and B, each based on real hardware units with distinct harmonic character. The "Punish" button adds extreme clipping for when subtle warmth isn't the brief. Its tone control and high-cut filter keep the drive focused without introducing high-frequency harshness on dense material. Soundtoys plugins go on sale more predictably than FabFilter's — see [When Does Soundtoys Decapitator Go On Sale?](/blog/when-does-soundtoys-decapitator-go-on-sale) for the pattern before buying at full price.
 
 **Best for:** Producers who want the grit of real analog hardware on drums, bass, guitars, and synth leads.
 
@@ -171,7 +171,7 @@ SDRR models four distinct saturation types: tube, transistor, tape, and digi —
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-The J37 models the Studer J37 tape machine used at Abbey Road Studios, accurately capturing flutter, noise, and speed-dependent frequency response alongside tape saturation. The tape speed and wow-and-flutter controls give nuanced vintage coloration that pure harmonic saturators can't replicate. It's regularly discounted on Waves' own store and widely available on sale — this is genuinely one to wait on. Full price is rare; check When Does Waves J37 Tape Go On Sale? before paying $99.
+The J37 models the Studer J37 tape machine used at Abbey Road Studios, accurately capturing flutter, noise, and speed-dependent frequency response alongside tape saturation. The tape speed and wow-and-flutter controls give nuanced vintage coloration that pure harmonic saturators can't replicate. It's regularly discounted on Waves' own store and widely available on sale — this is genuinely one to wait on. Full price is rare; check [When Does Waves J37 Tape Go On Sale?](/blog/when-does-waves-j37-tape-go-on-sale) before paying $99.
 
 **Best for:** Pop, rock, and indie producers who want specific vintage tape character rather than generic analog warmth.
 
@@ -188,7 +188,7 @@ The J37 models the Studer J37 tape machine used at Abbey Road Studios, accuratel
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-RC-20 bundles six vintage degradation modules — noise, wobble, distortion, space, lag, and magnetic (tape saturation) — into one interface built for character-first processing. The magnetic module alone is a capable tape saturator, but combining all six creates uniquely imperfect tonal textures that work especially well on synths, samples, and drum buses. It's a creative tool, not just an effect, and XLN Audio bundles it into sale cycles often enough that it's worth checking When Does XLN Audio RC-20 Go On Sale? before buying at list price.
+RC-20 bundles six vintage degradation modules — noise, wobble, distortion, space, lag, and magnetic (tape saturation) — into one interface built for character-first processing. The magnetic module alone is a capable tape saturator, but combining all six creates uniquely imperfect tonal textures that work especially well on synths, samples, and drum buses. It's a creative tool, not just an effect, and XLN Audio bundles it into sale cycles often enough that it's worth checking [When Does XLN Audio RC-20 Go On Sale?](/blog/when-does-xln-audio-rc-20-go-on-sale) before buying at list price.
 
 **Best for:** Electronic producers and beatmakers who want complete vintage aesthetic control over individual tracks or the mix bus.
 
@@ -312,10 +312,10 @@ Saturation plugins split cleanly into two buying patterns, and knowing which buc
 - **Any of the four free plugins** — Saturation Knob, IVGI, SATUR8, and Tape Cassette 2 cost nothing, so there's no "sale" to time. Install them today.
 
 **Wait for a sale:**
-- **FabFilter Saturn 2 ($199)** — FabFilter runs sales far less frequently than most developers, typically Black Friday and a mid-year promotion, with modest discounts around 20%. Check [When Does FabFilter Saturn 2 Go On Sale?](/plugin-prices/fabfilter-saturn-2/) if you can wait a few weeks, but don't expect a huge drop.
-- **Soundtoys Decapitator / Soundtoys 5** — Soundtoys discounts more aggressively and more often than FabFilter, especially around Black Friday, often 30–40% off the bundle. See [When Does Soundtoys Decapitator Go On Sale?](/plugin-prices/soundtoys-decapitator/) before buying the $499 bundle at list price.
-- **Waves J37 Tape ($29–$99)** — Waves is on some kind of sale almost continuously, so paying full price here rarely makes sense. Confirm current pricing at When Does Waves J37 Tape Go On Sale? before checkout.
-- **XLN Audio RC-20 Retro Color ($99)** — regularly discounted 30–50% during seasonal promotions; check When Does XLN Audio RC-20 Go On Sale? if your project timeline has any flexibility.
+- **FabFilter Saturn 2 ($199)** — FabFilter runs sales far less frequently than most developers, typically Black Friday and a mid-year promotion, with modest discounts around 20%. Check [When Does FabFilter Saturn 2 Go On Sale?](/blog/when-does-fabfilter-saturn-2-go-on-sale) if you can wait a few weeks, but don't expect a huge drop.
+- **Soundtoys Decapitator / Soundtoys 5** — Soundtoys discounts more aggressively and more often than FabFilter, especially around Black Friday, often 30–40% off the bundle. See [When Does Soundtoys Decapitator Go On Sale?](/blog/when-does-soundtoys-decapitator-go-on-sale) before buying the $499 bundle at list price.
+- **Waves J37 Tape ($29–$99)** — Waves is on some kind of sale almost continuously, so paying full price here rarely makes sense. Confirm current pricing at [When Does Waves J37 Tape Go On Sale?](/blog/when-does-waves-j37-tape-go-on-sale) before checkout.
+- **XLN Audio RC-20 Retro Color ($99)** — regularly discounted 30–50% during seasonal promotions; check [When Does XLN Audio RC-20 Go On Sale?](/blog/when-does-xln-audio-rc-20-go-on-sale) if your project timeline has any flexibility.
 - **Arturia Tape MELLO-FI ($49)** — often cheaper as part of the FX Collection bundle during Arturia's frequent promotions than as a standalone purchase; compare both before buying.
 
 The general rule: developers with premium, tightly-controlled pricing (FabFilter) discount rarely and shallowly, so buy when you need the tool. Developers with high list prices and frequent promotional cycles (Waves, Soundtoys, XLN Audio) are worth waiting on unless a session deadline forces your hand.

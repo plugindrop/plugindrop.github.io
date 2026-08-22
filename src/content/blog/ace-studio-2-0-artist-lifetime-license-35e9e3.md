@@ -10,7 +10,7 @@ dealPrice: "$348.00"
 originalPrice: "$398.00"
 discount: "13% OFF"
 xText: "ace studio 2.0 dropped. the vocal tools are genuinely better. 13% off lifetime and honestly this feels like the kind of update that justifies jumping back in"
-draft: true
+draft: false
 ---
 **TL;DR:** ACE Studio 2.0 Artist Lifetime License is currently **13% off** at Plugin Boutique — ~~$398~~ down to **$348**, saving you $50 on permanent access to an AI-powered vocal synthesizer. If a one-time vocal solution fits your production setup, [grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/140-Vocal-Synth/15411-ACE-Studio-2-0-Artist-Lifetime-License?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ace-studio-2-0-artist-lifetime-license-35e9e3).
 

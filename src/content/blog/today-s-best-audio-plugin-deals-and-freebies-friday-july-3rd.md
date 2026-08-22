@@ -9,7 +9,7 @@ aiImage: true
 score: 9.75
 dealPrice: "FREE"
 xText: "free audio plugins just dropped. grab them now before you inevitably bookmark this and forget about it by monday"
-draft: true
+draft: false
 ---
 
 **TL;DR:** Two solid freebies are live today: Canvas Audio's **Double Dare**, a free vocal doubler plugin for Mac and Windows with no expiry date, and Plugin Boutique's rotating **Send/Return** series, which drops a new free plugin every two weeks alongside tutorials. Grab Double Dare now — [download it free here](https://www.canvasaudio.net/plugins/double-dare) — since freebies like this can be pulled or turned into paid releases without much notice.

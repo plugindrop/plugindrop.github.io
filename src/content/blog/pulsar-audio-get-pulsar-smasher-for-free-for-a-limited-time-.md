@@ -8,7 +8,7 @@ heroImage: "/images/pulsar-audio-get-pulsar-smasher-for-free-for-a-limited-time-
 score: 9.00
 dealPrice: "FREE"
 xText: "€49 multiband is free rn. expiry unknown. go grab it before it's gone."
-draft: true
+draft: false
 ---
 **TL;DR:** Pulsar Audio's Smasher bus compressor — normally ~~€49~~ — is currently free for a limited time. No expiry date has been announced, so this could end at any moment. [Claim it now at pulsar.audio/smasher-free](https://pulsar.audio/smasher-free/) before the window closes.
 
