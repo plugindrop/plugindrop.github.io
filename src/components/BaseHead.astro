@@ -17,6 +17,8 @@ const { title, description, image = '/images/default-og.jpg', ogType = 'website'
 const resolvedImage = new URL(image, Astro.site);
 ---
 
+<meta charset="utf-8" />
+
 <!-- Google Analytics 4 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-X5T5VNEGW5"></script>
 <script>
@@ -38,7 +40,6 @@ const resolvedImage = new URL(image, Astro.site);
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400&display=swap" rel="stylesheet" />
 
 <!-- Global Metadata -->
-<meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <meta name="theme-color" content="#0e0e0e" />
 <link rel="icon" type="image/png" href="/favicon.png" />
