@@ -10,7 +10,7 @@ dealPrice: "$24.99"
 originalPrice: "$200.99"
 discount: "88% OFF"
 xText: "88% off athenaeum melodic chords & arps for cthulhu. lowest i've seen discount-wise on this kind of thing. if your synth's still using stock patterns you're sleeping"
-draft: false
+draft: true
 ---
 **TL;DR:** Athenaeum, a preset bank of melodic chords and arps built for Xfer Records' free Cthulhu plugin, is ~~$200.99~~ $24.99 at ADSR Sounds right now — an 88% discount. If you already run Cthulhu and want a fast source of atmospheric chord and arp ideas, [grab Athenaeum here](https://www.adsrsounds.com/product/wav-samples/athenaeum-melodic-chords-arps-for-cthulhu/?a_aid=plugindrop&data1=athenaeum-melodic-chords-arps-for-cthulhu-e5dc58&utm_source=plugindrop&utm_medium=article&utm_campaign=athenaeum-melodic-chords-arps-for-cthulhu-e5dc58) while the sale is live.
 

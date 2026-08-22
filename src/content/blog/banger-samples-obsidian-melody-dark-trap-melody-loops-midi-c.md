@@ -2,6 +2,7 @@
 title: "40% Off Banger Samples Obsidian Melody Dark Trap Melody Loops Midi Collection"
 description: "Banger Samples' Obsidian Melody Dark Trap Melody Loops MIDI Collection is currently **40% off** at ADSR Sounds — drop from ~~$17~~ to **$10.20**. If dark..."
 pubDate: "2026-06-17T04:25:28Z"
+saleExpiry: "2026-07-24"
 tags: ["sale", "preset-pack", "sample-pack-deal", "bundle", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/banger-samples-obsidian-melody-dark-trap-melody-loops-midi-collection/?a_aid=plugindrop&data1=banger-samples-obsidian-melody-dark-trap-melody-loops-midi-c&utm_source=plugindrop&utm_medium=article&utm_campaign=banger-samples-obsidian-melody-dark-trap-melody-loops-midi-c"
 heroImage: "/images/banger-samples-obsidian-melody-dark-trap-melody-loops-midi-c.jpg"
@@ -10,7 +11,7 @@ dealPrice: "$10.2"
 originalPrice: "$17"
 discount: "40% OFF"
 xText: "40% off banger samples obsidian melody — dark trap loops that don't sit dead in your library. the bundle price math is actually insane when you think about it."
-draft: false
+draft: true
 ---
 **TL;DR:** Banger Samples' Obsidian Melody Dark Trap Melody Loops MIDI Collection is currently **40% off** at ADSR Sounds — drop from ~~$17~~ to **$10.20**. If dark, cinematic trap melodies are in your workflow, this is a low-risk entry point. [Grab it at ADSR Sounds here.](https://www.adsrsounds.com/product/presets/banger-samples-obsidian-melody-dark-trap-melody-loops-midi-collection/?a_aid=plugindrop&data1=banger-samples-obsidian-melody-dark-trap-melody-loops-midi-c&utm_source=plugindrop&utm_medium=article&utm_campaign=banger-samples-obsidian-melody-dark-trap-melody-loops-midi-c)
 

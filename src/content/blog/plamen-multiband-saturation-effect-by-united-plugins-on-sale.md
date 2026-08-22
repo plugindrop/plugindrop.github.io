@@ -6,7 +6,7 @@ tags: ["review", "saturator", "united plugins", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/44-Saturation/11077-Plamen?utm_source=plugindrop&utm_medium=article&utm_campaign=plamen-multiband-saturation-effect-by-united-plugins-on-sale&a_aid=69cb95abe1763"
 heroImage: /images/plamen-multiband-saturation-effect-by-united-plugins-on-sale.jpg
 score: 6.76
-draft: false
+draft: true
 converted: true
 ---
 **Plamen multiband saturation effect** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/44-Saturation/11077-Plamen?utm_source=plugindrop&utm_medium=article&utm_campaign=plamen-multiband-saturation-effect-by-united-plugins-on-sale&a_aid=69cb95abe1763)

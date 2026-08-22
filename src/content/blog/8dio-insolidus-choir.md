@@ -7,7 +7,7 @@ affiliate: "https://8dio.com/products/insolidus-choir"
 heroImage: "/images/8dio-insolidus-choir.jpg"
 score: 4.60
 xText: "8Dio Insolidus — polyphonic legato on a soft choir is something else. expressive choral writing without the big epic sound. part of pick-3 deal at $69"
-draft: false
+draft: true
 ---
 **TL;DR:** Insolidus is 8Dio's soft, lyrical choir with polyphonic legato — the first choir library to let you play advanced chord progressions with a single patch. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](/posts/choirs-solo-vocals-102b4c)**. [Buy on 8Dio →](https://www.pluginboutique.com/search?q=insolidus+choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-insolidus-choir)
 

@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-productio
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11027-808-Cooker?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cooker-e7c691"
 heroImage: /images/cooker-e7c691.jpg
 score: 6.65
-draft: false
+draft: true
 converted: true
 ---
 **Cooker** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11027-808-Cooker?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cooker-e7c691)

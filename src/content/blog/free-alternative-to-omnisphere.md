@@ -8,7 +8,7 @@ heroImage: "/images/free-alternative-to-omnisphere.png"
 evergreen: true
 score: 8.00
 xText: "New guide: 7 Best Free Alternatives to Spectrasonics Omnisphere in 2026"
-draft: false
+draft: true
 ---
 **TL;DR:** Vital and Surge XT are the two free synthesizers the producer community consistently reaches for as Omnisphere stand-ins — Vital for spectral/wavetable work, Surge XT for complex modulation and cinematic pads. Neither replicates Omnisphere's sample-playback engine or its 14,000-patch Steam library, but for pure synthesis, both punch well above their $0 price tag in 2026. This guide covers the strongest verified free options available, with honest trade-off analysis throughout.
 

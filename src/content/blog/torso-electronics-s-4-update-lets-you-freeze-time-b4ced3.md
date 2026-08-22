@@ -8,7 +8,7 @@ heroImage: "/images/torso-electronics-s-4-update-lets-you-freeze-time-b4ced3.jpg
 score: 9.54
 dealPrice: "FREE"
 xText: "s-4 freeze function just went free. pause your synth anywhere—holds tone perfectly for ambient. this is the feature we needed"
-draft: false
+draft: true
 ---
 **TL;DR:** The Torso Electronics S-4 firmware 2.2 is now in beta — and the update is completely **free** for existing owners. A new real-time "freeze time" feature is the headline addition. [Check out the S-4 on Thomann](https://www.thomann.de/intl/prod_AR_600391.html?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=torso-electronics-s-4-update-lets-you-freeze-time-b4ced3) and grab the update.
 

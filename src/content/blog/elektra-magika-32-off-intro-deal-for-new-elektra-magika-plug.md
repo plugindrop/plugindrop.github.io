@@ -7,7 +7,7 @@ affiliate: "https://elektramagika.com/multilayereq.html"
 score: 6.05
 discount: "32% OFF"
 xText: "32% off elektra magika's multilayereq. interval-based band layering is a genuinely different approach—intro price won't last, so if you've been curious about new eq workflows, now's the time."
-draft: false
+draft: true
 heroImage: "/images/elektra-magika-32-off-intro-deal-for-new-elektra-magika-plug_og.jpg"
 ---
 **TL;DR:** Elektra Magika is offering 32% off MultiLayerEQ, its newly launched equalizer plugin built around interval-based band layering — a concept that differentiates it from conventional EQ tools. Prices aren't confirmed here, so verify current pricing on the product page. [Grab it at the intro price here.](https://elektramagika.com/multilayereq.html)

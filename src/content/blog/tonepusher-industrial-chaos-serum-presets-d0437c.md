@@ -2,6 +2,7 @@
 title: "40% Off Tonepusher Industrial Chaos Serum Presets"
 description: "Tonepusher's Industrial Chaos Serum presets are currently 40% off at ADSR Sounds — dropping from ~~$15~~ to **$9**. That's a solid entry point for a pack..."
 pubDate: "2026-05-14T04:30:15Z"
+saleExpiry: "2026-07-17"
 tags: ["sale", "preset-pack", "serum", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/tonepusher-industrial-chaos-serum-presets/?a_aid=plugindrop&data1=tonepusher-industrial-chaos-serum-presets-d0437c&utm_source=plugindrop&utm_medium=article&utm_campaign=tonepusher-industrial-chaos-serum-presets-d0437c"
 heroImage: "/images/tonepusher-industrial-chaos-serum-presets-d0437c.jpg"
@@ -10,7 +11,7 @@ dealPrice: "$9"
 originalPrice: "$15"
 discount: "40% OFF"
 xText: "tonepusher just dropped industrial chaos serum presets at 40% off and they're literally engineered to sound broken. if you work dark or experimental this is the move"
-draft: false
+draft: true
 ---
 **TL;DR:** Tonepusher's Industrial Chaos Serum presets are currently 40% off at ADSR Sounds — dropping from ~~$15~~ to **$9**. That's a solid entry point for a pack targeting dark, industrial, and experimental sound design. [Grab it here while the deal is live.](https://www.adsrsounds.com/product/presets/tonepusher-industrial-chaos-serum-presets/?a_aid=plugindrop&data1=tonepusher-industrial-chaos-serum-presets-d0437c&utm_source=plugindrop&utm_medium=article&utm_campaign=tonepusher-industrial-chaos-serum-presets-d0437c)
 

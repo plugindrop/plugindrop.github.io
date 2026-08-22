@@ -2,6 +2,7 @@
 title: "40% Off PENZI – Afro House Ableton Live Template – Profession…"
 description: "Ableton Live producers can grab PENZI, a club-ready Afro House template from Mister Pluck Production, for ~~$22~~ **$13.20** at ADSR Sounds — a 40%..."
 pubDate: "2026-07-12T05:13:55Z"
+saleExpiry: "2026-07-24"
 tags: ["sale", "preset-pack", "daw", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/mister-pluck-production-penzi-afro-house-ableton-live-template-professional-club-ready-production-project/?a_aid=plugindrop&data1=penzi-afro-house-ableton-live-template-professional-club-rea&utm_source=plugindrop&utm_medium=article&utm_campaign=penzi-afro-house-ableton-live-template-professional-club-rea"
 heroImage: "/images/penzi-afro-house-ableton-live-template-professional-club-rea.jpg"
@@ -10,7 +11,7 @@ dealPrice: "$13.2"
 originalPrice: "$22"
 discount: "40% OFF"
 xText: "penzi just hit 40% and this is genuinely the lowest i've seen afro house templates at this quality. full drum library, synth setup, everything for club tracks"
-draft: false
+draft: true
 ---
 **TL;DR:** Ableton Live producers can grab PENZI, a club-ready Afro House template from Mister Pluck Production, for ~~$22~~ **$13.20** at ADSR Sounds — a 40% discount. If you're building out an Afro House set and want a professional arrangement to learn from or remix, [get PENZI here](https://www.adsrsounds.com/product/presets/mister-pluck-production-penzi-afro-house-ableton-live-template-professional-club-ready-production-project/?a_aid=plugindrop&data1=penzi-afro-house-ableton-live-template-professional-club-rea&utm_source=plugindrop&utm_medium=article&utm_campaign=penzi-afro-house-ableton-live-template-professional-club-rea) while the deal is live.
 

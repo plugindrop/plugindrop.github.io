@@ -1,95 +1,97 @@
 ---
-title: "26% Off Melody Sauce 3 Upgrade — Faster Melody Writing ($29)"
-description: "Owners of Melody Sauce 1 or 2 can upgrade to Melody Sauce 3 for $29, down from ~~$39~~ — a 26% discount. The upgrade path is only available to existing..."
-pubDate: "2026-07-27T15:27:24Z"
-tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/16923-Melody-Sauce-3-Upgrade-from-Melody-Sauce-1-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-upgrade-from-melody-sauce-1-2-b24fc6"
+title: "26% Off Melody Sauce 3 Upgrade — MIDI Melody Writing ($29)"
+description: "If you only install one, make it Melody Sauce 3 Upgrade if you already own Melody Sauce 1 or 2 and want its chord, bass, and MIDI-generation additions for..."
+pubDate: "2026-08-01T17:08:00Z"
+tags: ["sale", "music-production"]
+affiliate: "https://www.pluginboutique.com/search?q=Melody+Sauce+3+Upgrade+from+Melody+Sauce+1+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-upgrade-from-melody-sauce-1-2-b24fc6"
 heroImage: "/images/melody-sauce-3-upgrade-from-melody-sauce-1-2-b24fc6.jpg"
-score: 5.58
+score: 7.14
 dealPrice: "$29.00"
 originalPrice: "$39.00"
 discount: "26% OFF"
-xText: "v3 just dropped at 26% off for melody sauce v1/2 users. upgrades don't move like this. grab it."
-draft: false
+draft: true
 ---
-**TL;DR:** Owners of Melody Sauce 1 or 2 can upgrade to Melody Sauce 3 for $29, down from ~~$39~~ — a 26% discount. The upgrade path is only available to existing license holders and pricing can change, so verify the deal on the [Plugin Boutique product page](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/16923-Melody-Sauce-3-Upgrade-from-Melody-Sauce-1-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-upgrade-from-melody-sauce-1-2-b24fc6) before checkout.
+**TL;DR:** If you only install one, make it Melody Sauce 3 Upgrade if you already own Melody Sauce 1 or 2 and want its chord, bass, and MIDI-generation additions for $10 less. This eligible-owner upgrade is ~~$39.00~~ **$29.00**, a 26% saving, at [Plugin Boutique](https://www.pluginboutique.com/search?q=Melody+Sauce+3+Upgrade+from+Melody+Sauce+1+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-upgrade-from-melody-sauce-1-2-b24fc6). No deal end date was supplied, so check the product page before buying.
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WecGDXdLtSY" title="26% Off Melody Sauce 3 Upgrade — Faster Melody Writing ($29) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/UZ75QWLOpak" title="26% Off Melody Sauce 3 Upgrade — MIDI Melody Writing ($29) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
-## What Is Melody Sauce 3?
+## What Is Melody Sauce 3 Upgrade?
 
-Melody Sauce is a MIDI melody generation plugin from Amber Audio, built to help producers sketch melodic ideas directly inside a DAW. It sits alongside Amber Audio's other "Sauce" tools, which handle chords and rhythm generation for songwriters who want a fast starting point. Version 3 is the current release in that line, and this listing is specifically an upgrade SKU for anyone already running Melody Sauce 1 or 2.
+Melody Sauce 3 is an EVAbeat MIDI-generation plugin for creating melodies, chord progressions, and bass lines inside a DAW. This listing is specifically an upgrade route for existing registered owners of Melody Sauce 1 or Melody Sauce 2, not a first-time purchase.
+
+The workflow centers on generating MIDI ideas, then editing or dragging that MIDI into a DAW for use with other instruments. Melody Sauce 3 supports VST, VST3, AU, and AU MIDI FX formats, with format availability varying by platform.
 
 ## Key Features
 
-- **MIDI melody generation** — creates melodic phrases you can drag into any track, then route to your instrument of choice.
-- **Chord-aware workflow** — melodies are generated in relation to chord progressions, keeping ideas harmonically consistent.
-- **Plugin format support** — runs as an instrument or MIDI effect inside compatible DAWs; check the product page for the exact format list.
-- **Upgrade path from v1/v2** — this SKU applies the previous-version discount rather than charging full price for existing customers.
-- **Part of a wider toolset** — pairs with Amber Audio's other MIDI generation plugins for a fuller songwriting chain.
+- **Melody, chord, and bass generation:** Generate melodic material together with chord progressions and bass-line accompaniment within the plugin.
 
-Confirm the full feature list and any new-in-v3 additions on the official product page, since Amber Audio may update specifics between listings.
+- **Nearly 1,000 chord progressions:** The product page lists nearly 1,000 built-in chord progressions, with editable chord types.
+
+- **Eight-bar melody generation:** Melody Sauce 3 can generate eight-bar melodic lines, expanding on the four-bar generation listed for the previous version.
+
+- **MIDI import with chord detection:** Import a MIDI chord file so the plugin can detect its key and chords, then create matching melodies.
+
+- **Piano roll editing:** Edit generated material in the built-in piano roll before moving MIDI into the arrangement.
+
+- **Style presets and internal sounds:** The product page lists 300 style presets and more than 300 internal sounds across melody, chord, and bass parts.
 
 ## Who Is It For?
 
-- **Existing Melody Sauce 1/2 owners** looking to move to the current version without paying full retail price.
-- **Songwriters and topline writers** who want quick melodic starting points instead of programming notes by hand.
-- **Hip-hop and pop producers** working fast in the box, where a generated idea can be edited rather than written from scratch.
-- **Producers already using Amber Audio's chord tools** who want a matching melody generator in the same workflow.
+- **Melody Sauce 1 owners:** This is the relevant discounted route for users moving from the original version to version 3.
+
+- **Melody Sauce 2 owners:** Existing version 2 license holders can use this upgrade path rather than purchasing the standard full version.
+
+- **DAW-based songwriters:** The plugin is designed for generating editable MIDI melodies, chords, and bass ideas directly in a DAW workflow.
+
+- **Producers working from MIDI references:** MIDI chord import and chord detection suit projects where a chord progression already exists and matching melodic material is needed.
 
 ## Pricing & Deal Details
 
-| | Price |
-|---|---|
-| Regular Price | ~~$39.00~~ |
-| Deal Price | $29.00 |
-| You Save | $10.00 (26%) |
+| Regular Price | Deal Price | You Save |
+|---|---:|---:|
+| ~~$39.00~~ | **$29.00** | **$10.00 (26%)** |
 
-This is an upgrade price, not the standalone full version cost, so it only applies if you already hold a Melody Sauce 1 or 2 license. Plugin Boutique frequently runs promotions across its music theory and MIDI tools catalog, but individual upgrade SKUs like this one don't always follow a predictable schedule. Verify current pricing on the product page — deals can change.
+This is an upgrade-only license path. A valid Melody Sauce 1 or 2 serial number is required during activation, alongside the new Melody Sauce 3 Upgrade serial.
 
-[Get Melody Sauce 3 Upgrade at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/16923-Melody-Sauce-3-Upgrade-from-Melody-Sauce-1-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-upgrade-from-melody-sauce-1-2-b24fc6)
+The listing does not provide a deal end date. Verify current pricing on the product page — deals can change. Eligible existing owners can [get the Melody Sauce 3 Upgrade at Plugin Boutique](https://www.pluginboutique.com/search?q=Melody+Sauce+3+Upgrade+from+Melody+Sauce+1+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-upgrade-from-melody-sauce-1-2-b24fc6).
 
 ## Alternatives at a Glance
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Scaler 2 | Check product page | Broader music theory suite covering chords, scales, and melody suggestions in one interface. |
-| Captain Melody (Mixed In Key) | Check product page | Melody-focused generator sold standalone or as part of the Captain Plugins bundle. |
-| Chord Sauce (Amber Audio) | Check product page | Same developer's chord-generation counterpart, often used together with Melody Sauce. |
+| Scaler 3 | Check the product page | Focuses on chord detection, chord sets, and MIDI performance tools. |
+| Captain Chords Epic | Check the product page | Uses separate songwriting modules for chords, bass, melody, and rhythm. |
+| RapidComposer | Check the product page | A standalone MIDI composition environment with phrase-based composition tools. |
 
-If you already use other Amber Audio tools, Chord Sauce keeps the workflow consistent. If you want melody generation bundled with deeper chord and scale analysis in one plugin, Scaler 2 covers more ground. If you're comparing dedicated melody generators outside the Amber Audio ecosystem, Captain Melody is a common reference point.
+Choose Scaler 3 when chord recognition and harmonic editing are the central task. Captain Chords Epic separates parts into dedicated modules, while RapidComposer is for users who prefer a standalone composition environment rather than a DAW plug-in workflow.
 
 ## FAQ
 
-**Q: Do I need to already own Melody Sauce 1 or 2 to get this price?**
-A: Yes. This is an upgrade SKU, and pricing at this discount applies to customers with an existing Melody Sauce 1 or 2 license verified at checkout.
+**Q: Is this Melody Sauce 3 deal for new customers?**  
+A: No. This listing is an upgrade for existing Melody Sauce 1 or Melody Sauce 2 owners. New buyers should check the standard Melody Sauce 3 purchase option.
 
-**Q: What DAWs and plugin formats does Melody Sauce 3 support?**
-A: Check the product page for the current list of supported formats and DAW compatibility before purchasing.
+**Q: What do I need to activate the Melody Sauce 3 upgrade?**  
+A: You need the newly purchased Melody Sauce 3 Upgrade serial and a valid full serial number for Melody Sauce 1 or 2. The upgrade process is completed in the plugin’s activation window.
 
-**Q: Is this a one-time purchase or a subscription?**
-A: Plugin Boutique lists this as an upgrade purchase. Confirm the exact license terms on the official product page.
+**Q: Can Melody Sauce 3 export MIDI to my DAW?**  
+A: Yes. Generated melodies, chord progressions, and bass lines can be dragged into a DAW as MIDI for use with other software instruments.
 
-**Q: Will my Melody Sauce 1/2 presets or project files carry over to version 3?**
-A: This isn't specified in the listing. Check the product page or Amber Audio's documentation for upgrade compatibility notes.
+**Q: Does Melody Sauce 3 work on Mac and Windows?**  
+A: The product page lists macOS and Windows support. Check the official product page for the current system requirements, supported formats, and DAW compatibility.
 
 ## Get the Deal
 
-$10 off a MIDI melody tool upgrade brings Melody Sauce 3 down to $29 for existing license holders. If you already own version 1 or 2, this is the intended way to move to the current release without paying full price.
-
-[Upgrade to Melody Sauce 3 at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/16923-Melody-Sauce-3-Upgrade-from-Melody-Sauce-1-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-upgrade-from-melody-sauce-1-2-b24fc6)
+For eligible Melody Sauce 1 or 2 owners, this drops the version 3 upgrade from ~~$39.00~~ to **$29.00**. [Check the current Plugin Boutique deal here](https://www.pluginboutique.com/search?q=Melody+Sauce+3+Upgrade+from+Melody+Sauce+1+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-upgrade-from-melody-sauce-1-2-b24fc6).
 
 ## Is This Deal Worth It?
 
-For current Melody Sauce owners, a 26% discount on an upgrade SKU is a reasonable time to move to version 3 rather than paying full price later. Plugin Boutique runs sales across its catalog regularly, but that doesn't guarantee this specific upgrade discount reappears on the same terms. If you're already invested in Amber Audio's MIDI tools and were planning to upgrade anyway, buying now avoids the risk of paying more once the promotion ends.
+At $29, this is a clear 26% reduction from the supplied $39 regular upgrade price, but it only makes sense if you already hold a valid Melody Sauce 1 or 2 license. Recent listings have shown the upgrade at this same $29 level, so the available information does not establish this as a one-time low. No end date is supplied, and buyers should confirm current pricing and upgrade eligibility before checkout.
 
 ## Related Guides
 
-- [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
-- [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
 
 

@@ -13,6 +13,7 @@ tags:
 relatedPosts:
   - "best-synth-vst-plugins-2026"
 heroImage: '/images/when-does-modo-bass-go-on-sale.jpg'
+draft: true
 ---
 
 **Short answer:** MODO BASS 2 goes on sale **4-5 times per year**. The typical discount is **50–77% off**, bringing the $199 regular price down to around **$99**. The best times to buy:

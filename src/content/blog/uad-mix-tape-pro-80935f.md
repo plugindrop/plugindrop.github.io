@@ -10,7 +10,7 @@ dealPrice: "$99.00"
 originalPrice: "$149.00"
 discount: "34% OFF"
 xText: "34% off uad mix tape pro and the bundle math just works. cheaper per plugin than buying solo, complete mixing chain that actually hits. this is exactly how producers build real toolkits without compromise."
-draft: false
+draft: true
 ---
 **TL;DR:** Universal Audio's UAD Mix Tape Pro is on sale at Plugin Boutique for **$99**, down from ~~$149~~ — a 34% discount that saves you $50. If you've been wanting authentic tape saturation and mix bus glue without buying vintage hardware, this is a solid entry point. [Grab the deal here](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17197-UAD-Mix-Tape-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-pro-80935f).
 

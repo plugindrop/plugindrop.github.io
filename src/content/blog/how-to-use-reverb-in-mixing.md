@@ -8,7 +8,7 @@ heroImage: "/images/how-to-use-reverb-in-mixing.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: How to Use Reverb in Mixing: Professional Techniques and Plu..."
-draft: false
+draft: true
 ---
 **TL;DR:** For most producers learning how to use reverb in mixing, Valhalla Room ($50) covers 80% of decisions — its algorithm variety and consistent community praise make it the default starting point. FabFilter Pro-R 2 is the premium upgrade for producers who want visual EQ feedback and tighter control over the reverb tail's frequency content.
 

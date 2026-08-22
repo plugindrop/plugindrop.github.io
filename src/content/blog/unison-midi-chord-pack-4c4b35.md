@@ -9,7 +9,7 @@ aiImage: true
 score: 4.08
 dealPrice: "$67"
 xText: "unison's new chord pack works because the chords actually work. no reworking, no hunting through 500 presets for the right vibe. drop it in and everything just... fits. that's what i'm after."
-draft: false
+draft: true
 ---
 **TL;DR:** Unison Audio's MIDI Chord Pack is currently available for **$67** — verify current pricing on the product page for full savings context. If you're building tracks around professional-grade chord progressions without the theory grind, [grab it directly at Unison Audio](https://unison.audio/ref/jc374/product/famous-mainstage-serum-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-chord-pack-4c4b35).
 

@@ -10,7 +10,7 @@ dealPrice: "$149.99"
 originalPrice: "$199.99"
 discount: "25% OFF"
 xText: "inmusic just acquired native instruments. kontakt, maschine, reaktor — the backbone of countless studios — now under one parent company. biggest consolidation the plugin world has seen in years"
-draft: false
+draft: true
 ---
 **TL;DR:** Native Instruments products are currently available at ~~$199.99~~ $149.99 — a $50 saving worth grabbing before the dust settles on one of the biggest acquisitions in music tech this year. [Check the full deal and analysis here.](https://audioplugin.deals/blog/inmusic-acquires-native-instruments-this-could-change-a-lot-more-than-kontakt/)
 

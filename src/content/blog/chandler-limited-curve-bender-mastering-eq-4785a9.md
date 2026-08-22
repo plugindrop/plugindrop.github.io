@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "eq", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/16-EQ/5618-Chandler-Limited-Curve-Bender-Mastering-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-4785a9
 heroImage: /images/chandler-limited-curve-bender-mastering-eq-4785a9.jpg
 score: 9.05
-draft: false
+draft: true
 converted: true
 ---
 **Chandler Limited Curve Bender Mastering EQ** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/5618-Chandler-Limited-Curve-Bender-Mastering-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-4785a9)

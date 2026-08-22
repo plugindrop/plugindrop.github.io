@@ -2,6 +2,7 @@
 title: "40% Off Synth Anthology 5"
 description: "Plugin Boutique has Synth Anthology 5 marked down to **$89**, down from ~~$149~~ — a savings of $60 (about 40% off) on a bundle of 15 synth plugins. If..."
 pubDate: "2026-07-10T14:27:38Z"
+saleExpiry: "2026-07-24"
 tags: ["sale", "bundle", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17582-Synth-Anthology-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synth-anthology-5-d7e25b"
 heroImage: "/images/synth-anthology-5-d7e25b.jpg"
@@ -10,7 +11,7 @@ dealPrice: "$89.00"
 originalPrice: "$149.00"
 discount: "40% OFF"
 xText: "synth anthology 5 is 40% off. six tools for the price of what two used to cost. when you break down the per-synth math it's actually wild"
-draft: false
+draft: true
 ---
 **TL;DR:** Plugin Boutique has Synth Anthology 5 marked down to **$89**, down from ~~$149~~ — a savings of $60 (about 40% off) on a bundle of 15 synth plugins. If you've been meaning to expand your synth collection without buying instruments one at a time, this is worth a look. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17582-Synth-Anthology-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synth-anthology-5-d7e25b).
 

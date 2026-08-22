@@ -6,7 +6,7 @@ tags: ["review", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763"
 heroImage: /images/softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq.jpg
 score: 6.71
-draft: false
+draft: true
 converted: true
 ---
 **Softube Model 82 SH-101 emulation** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763)

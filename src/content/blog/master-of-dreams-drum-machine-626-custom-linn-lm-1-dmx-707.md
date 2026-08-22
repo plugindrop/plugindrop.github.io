@@ -10,7 +10,7 @@ dealPrice: "$23.4"
 originalPrice: "$39"
 discount: "40% OFF"
 xText: "40% off a linn lm-1 inspired drum machine is wild. master of dreams 626's sampling workflow sits in a mix like butter—doesn't fight your other drums."
-draft: false
+draft: true
 ---
 **TL;DR:** Master Of Dreams Drum Machine 626 is down to **$23.40** (~~$39~~) at ADSR Sounds — that's 40% off a vintage drum machine preset collection built around the iconic Linn LM-1, Oberheim DMX, and Roland 707. If you're chasing that classic hip-hop, electro, or R&B drum sound, [grab the deal here](https://www.adsrsounds.com/product/presets/master-of-dreams-drum-machine-626-custom-linn-lm-1-dmx-707/?a_aid=plugindrop&data1=master-of-dreams-drum-machine-626-custom-linn-lm-1-dmx-707&utm_source=plugindrop&utm_medium=article&utm_campaign=master-of-dreams-drum-machine-626-custom-linn-lm-1-dmx-707) before the price reverts.
 

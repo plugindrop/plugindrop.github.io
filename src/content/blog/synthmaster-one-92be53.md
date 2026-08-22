@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "synth", "music-
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/3188-SynthMaster-One?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthmaster-one-92be53"
 heroImage: /images/synthmaster-one-92be53.jpg
 score: 7.05
-draft: false
+draft: true
 converted: true
 ---
 **SynthMaster One** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/3188-SynthMaster-One?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthmaster-one-92be53)

@@ -10,7 +10,7 @@ evergreen: true
 score: 8.00
 originalPrice: "$29"
 xText: "New guide: Waves vs iZotope: Which Plugin Brand Is Better for Mixing in..."
-draft: false
+draft: true
 ---
 **TL;DR:** Waves dominates analog emulation and classic hardware modeling — if you want SSL, SSL-adjacent, and tape-era sounds at sale prices, it's unmatched. iZotope wins for AI-assisted mixing and mastering intelligence; Neutron 4 and Ozone 12 are the most-recommended AI mixing tools in producer communities. Most serious mixers end up owning both, but for a first investment in 2026, iZotope delivers more immediate, guided results.
 

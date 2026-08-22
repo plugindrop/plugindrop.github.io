@@ -8,7 +8,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: How to Mix Drums with Plugins: Complete Step-by-Step Guide (..."
 heroImage: "/images/how-to-mix-drums-plugins.jpg"
-draft: false
+draft: true
 priceTrack:
   - "FabFilter Pro-Q 4"
 ---

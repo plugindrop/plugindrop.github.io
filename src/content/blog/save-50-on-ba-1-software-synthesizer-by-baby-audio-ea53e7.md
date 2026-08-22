@@ -6,7 +6,7 @@ tags: ["review", "baby audio", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=plugindrop&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763"
 heroImage: /images/save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7.jpg
 score: 7.65
-draft: false
+draft: true
 converted: true
 ---
 **BA-1 software synthesizer** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=plugindrop&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763)

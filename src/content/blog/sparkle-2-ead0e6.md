@@ -10,7 +10,7 @@ dealPrice: "$31.9"
 originalPrice: "$141.9"
 discount: "78% OFF"
 xText: "new plugin at 78% off is basically unheard of. sparkle 2 just broke that rule. if this thing hits, it's the deal of the season"
-draft: false
+draft: true
 ---
 **TL;DR:** SPARKLE 2 is currently **$31.9** (~~$141.9~~) at Plugin Boutique — that's 78% off and over $110 in savings on a premium virtual instrument. Sales of this magnitude don't typically stick around, so [check the current deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sparkle-2-ead0e6) while it's live.
 

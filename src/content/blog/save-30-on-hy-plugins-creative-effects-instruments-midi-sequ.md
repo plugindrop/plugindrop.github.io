@@ -6,7 +6,7 @@ tags: ["review", "arpeggiator", "generator", "hy-plugins", "midi", "sequencer", 
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ"
 heroImage: /images/save-30-on-hy-plugins-creative-effects-instruments-midi-sequ.jpg
 score: 9.05
-draft: false
+draft: true
 converted: true
 ---
 **HY-Plugins creative effects, instruments & MIDI sequencers** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ)

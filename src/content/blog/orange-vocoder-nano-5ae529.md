@@ -10,7 +10,7 @@ dealPrice: "$29.00"
 originalPrice: "$49.00"
 discount: "41% OFF"
 xText: "orange nano vocoder just dropped and it's already 41% off—that's not launch pricing. if you've been sitting on needing something fresh in your chain, this is probably it"
-draft: false
+draft: true
 ---
 **TL;DR:** ORANGE VOCODER NANO is currently marked down to **$29.00** from ~~$49.00~~ at Plugin Boutique — a 41% discount on this vocoder plugin. If classic vocoder textures are on your wishlist, this is a solid entry point at a lower price than the full-featured version typically commands. [Grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/43-Vocoder/11468-ORANGE-VOCODER-NANO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=orange-vocoder-nano-5ae529)
 

@@ -8,7 +8,7 @@ affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=
 heroImage: "/images/splice-vs-loopcloud-2026.jpg"
 evergreen: true
 score: 8.00
-draft: false
+draft: true
 ---
 **TL;DR:** Splice and Loopcloud both offer 4M+ samples and competitive monthly pricing, but they serve different workflows. Loopcloud wins on DAW integration and has a free tier to try before you pay. Splice stands out with its unique rent-to-own plugin model. If DAW-native previewing matters to you, Loopcloud is the stronger pick.
 

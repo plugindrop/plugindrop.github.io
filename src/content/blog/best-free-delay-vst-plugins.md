@@ -10,39 +10,36 @@ score: 8.00
 xText: "New guide: 10 Best Free Delay VST Plugins in 2026 (Tape, Digital, Multi..."
 draft: false
 ---
-**TL;DR:** TAL-Dub-3 is the best free delay VST plugin for tape character in 2026 — warm, saturated, and genuinely musical at zero cost. Pair it with Valhalla Supermassive for massive spatial depth and Graillon 2 for pitch-shifted delay textures, and you have a professional free toolkit that most paid collections can't beat outright.
-
----
 
 ## Quick Picks at a Glance
 
-> **Quick Answer:** The best free delay VST plugins in 2026 are **TAL-Dub-3** (tape delay emulation with authentic wow, flutter, and saturation for dub, guitar, and lo-fi production), **Valhalla Supermassive** (hybrid reverb-delay with 24 modes for ambient and cinematic depth), and **Graillon 2** (pitch-shifted delay textures for creative sound design). All are free to download with no time limits.
+> **Quick Answer:** The best free delay VST plugins in 2026 are **TAL-Dub-3** (tape delay emulation with authentic wow, flutter, and saturation for dub, guitar, and lo-fi production), **Valhalla Supermassive** (hybrid reverb-delay with 24 modes for ambient and cinematic depth), and **Graillon 2** (pitch-shifted delay textures for creative sound design). All three are free to download with no time limits, and each pairs well with a paid upgrade once you know exactly what you're missing.
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| TAL-Dub-3 | Free | Tape delay & dub echo | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20Dub&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins) |
-| Valhalla Supermassive | Free | Cavernous reverb-delay hybrids | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Free%20Delay%20VST%20Plugins%20in%202026%2C%20Ranked%20%28Tape%2C%20Digital%2C%20Multi-tap%29&a_aid=69cb95abe1763) |
+| TAL-Dub-3 | Free | Tape delay & dub echo | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20Dub%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins) |
+| Valhalla Supermassive | Free | Cavernous reverb-delay hybrids | [Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins) |
 | Valhalla SpaceModulator | Free | Flanger & modulated delay | [Free Download](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/) |
-| Graillon 2 | Free | Pitch-shifted delay FX | [Free Download](https://www.auburnsounds.com/products/Graillon.html) |
-| CHOW Tape Model | Free | Open-source tape saturation | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Free%20Delay%20VST%20Plugins%20in%202026%2C%20Ranked%20%28Tape%2C%20Digital%2C%20Multi-tap%29&a_aid=69cb95abe1763) |
-| Delay Lama | Free | Vocal formant delay textures | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Free%20Delay%20VST%20Plugins%20in%202026%2C%20Ranked%20%28Tape%2C%20Digital%2C%20Multi-tap%29&a_aid=69cb95abe1763) |
-| MFreeformAnalyzer | Free | Delay chain spectrum analysis | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Free%20Delay%20VST%20Plugins%20in%202026%2C%20Ranked%20%28Tape%2C%20Digital%2C%20Multi-tap%29&a_aid=69cb95abe1763) |
+| Graillon 2 | Free (core) / $29 (full) | Pitch-shifted delay FX | [Free Download](https://www.auburnsounds.com/products/Graillon.html) |
+| CHOW Tape Model | Free | Open-source tape saturation | [Plugin Boutique](https://www.pluginboutique.com/search?q=CHOW%20Tape%20Model&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins) |
+| Delay Lama | Free | Vocal formant delay textures | [Plugin Boutique](https://www.pluginboutique.com/search?q=Delay%20Lama&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins) |
+| MFreeformAnalyzer | Free | Delay chain spectrum analysis | [Plugin Boutique](https://www.pluginboutique.com/search?q=MFreeformAnalyzer&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins) |
 
 ---
 
 ## Introduction
 
-If you've been paying for delay plugins in 2026, you may have been leaving the best free delay VST plugins sitting on the table. The gap between the top free options and plugins costing $50–$200 has narrowed to the point where professional engineers reach for free delay tools on major releases — not because they're cutting corners, but because the tools genuinely compete. TAL Software, ValhalaDSP, and Chowdhury DSP have made strategic decisions to give away world-class delays as community investments, and producers are the direct beneficiaries.
+If you've been paying for delay plugins in 2026, you may have been leaving the best free delay VST plugins sitting on the table. The gap between the top free options and plugins costing $50–$200 has narrowed to the point where professional engineers reach for free delay tools on major releases — not because they're cutting corners, but because the tools genuinely compete. TAL Software, ValhalaDSP, and Chowdhury DSP have made strategic decisions to give away world-class delays as community investments, and producers are the direct beneficiaries. None of these plugins are "starter" versions with watermarks or time limits — they're the same code professional studios run on paid sessions.
 
-Delay is one of the most expressive tools in a mix. The right delay plugin makes a vocal breathe, gives a guitar part three-dimensional space, or lets a synth lead occupy room in a track without crowding the low-mids. Different delay types serve different musical roles: tape delays add warmth and imperfection, digital delays add precision and transparency, modulated delays add movement and spatial width. In 2026, the free tier covers every format competently — tape, digital, multi-tap, modulated, and experimental.
+Delay is one of the most expressive tools in a mix. The right delay plugin makes a vocal breathe, gives a guitar part three-dimensional space, or lets a synth lead occupy room in a track without crowding the low-mids. Different delay types serve different musical roles: tape delays add warmth and imperfection, digital delays add precision and transparency, modulated delays add movement and spatial width. In 2026, the free tier covers every format competently — tape, digital, multi-tap, modulated, and experimental — and the honest question for most producers isn't "should I pay for a delay" but "which specific gap in my free rack is actually worth $30–$200 to close."
 
-This guide covers 10 of the best free delay VST plugins available in 2026, organized by type, with three paid upgrades for producers who've outgrown the free ceiling. It's written for DAW-independent producers on Windows and macOS. Every plugin here is available in VST3, and most support AU and AAX as well.
+This guide covers the best free delay VST plugins available in 2026, organized by type, with three paid upgrades for producers who've outgrown the free ceiling — plus a straight answer on when to grab those paid options at full price and when to wait for a sale. It's written for DAW-independent producers on Windows and macOS. Every plugin here is available in VST3, and most support AU and AAX as well.
 
 ---
 
 ## Tape Delay Plugins
 
-Tape delays are the most character-rich format in the delay world. Physical tape machines introduced wow (slow pitch drift), flutter (rapid instability), saturation, and high-frequency roll-off — all imperfections that make a delay sound like part of the room rather than a technical process. These two free options cover the tape spectrum from authentic dub warmth to physics-based open-source emulation.
+Tape delays are the most character-rich format in the delay world. Physical tape machines introduced wow (slow pitch drift), flutter (rapid instability), saturation, and high-frequency roll-off — all imperfections that make a delay sound like part of the room rather than a technical process. These two free options cover the tape spectrum from authentic dub warmth to physics-based open-source emulation, and both should be the first plugins you install if tape character matters to your genre.
 
 ### TAL-Dub-3 — The gold standard for free tape delay
 
@@ -53,13 +50,13 @@ Tape delays are the most character-rich format in the delay world. Physical tape
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-TAL-Dub-3 is a focused tape delay emulation with dedicated controls for tape speed, saturation, wow, flutter, and feedback. The sound is immediately recognizable to anyone who's heard a serious reggae or dub mix — that warm, slightly degraded, breathing echo that sits inside a mix rather than sitting on top of it. TAL has been refining its free plugin lineup for over a decade, and Dub-3 is the endpoint: a delay that's genuinely musical rather than merely functional.
+TAL-Dub-3 is a focused tape delay emulation with dedicated controls for tape speed, saturation, wow, flutter, and feedback. The sound is immediately recognizable to anyone who's heard a serious reggae or dub mix — that warm, slightly degraded, breathing echo that sits inside a mix rather than sitting on top of it. TAL has been refining its free plugin lineup for over a decade, and Dub-3 is the endpoint: a delay that's genuinely musical rather than merely functional, and one that costs precisely nothing to add to your template.
 
-Beyond dub and reggae, TAL-Dub-3 earns its place on guitar send buses, synth pads, and lo-fi production where sterility is the enemy. The saturation circuit softens transients in exactly the way tape does, and the wow and flutter controls let you dial from barely-there tape movement to full warped-cassette chaos. It's the free tape delay that experienced engineers install first and rarely uninstall.
+Beyond dub and reggae, TAL-Dub-3 earns its place on guitar send buses, synth pads, and lo-fi production where sterility is the enemy. The saturation circuit softens transients in exactly the way tape does, and the wow and flutter controls let you dial from barely-there tape movement to full warped-cassette chaos. It's the free tape delay that experienced engineers install first and rarely uninstall — and because it costs nothing, there's no purchase decision to make here at all. If you make anything with tape-adjacent DNA, download it today.
 
 **Best for:** Producers who need tape character — warmth, saturation, wow and flutter — without spending anything.
 
-[→ Download TAL-Dub-3 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Dub&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins)
+[→ Download TAL-Dub-3 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Dub%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins)
 
 ---
 
@@ -72,19 +69,19 @@ Beyond dub and reggae, TAL-Dub-3 earns its place on guitar send buses, synth pad
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST3, AU, AAX
 
-CHOW Tape Model is built on actual academic research into magnetic tape physics — hysteresis modeling, head loss simulation, and mechanical noise sources are all modeled from first principles rather than approximated with EQ and saturation curves. The result is a tape emulation that responds to input gain and frequency content the way real tape does: push harder and it saturates dynamically, pull the speed down and the low-frequency emphasis shifts like a real deck.
+CHOW Tape Model is built on actual academic research into magnetic tape physics — hysteresis modeling, head loss simulation, and mechanical noise sources are all modeled from first principles rather than approximated with EQ and saturation curves. The result is a tape emulation that responds to input gain and frequency content the way real tape does: push harder and it saturates dynamically, pull the speed down and the low-frequency emphasis shifts like a real deck. For an open-source project maintained largely by one developer, its accuracy is remarkable, and it remains under active development in 2026.
 
-While CHOW Tape Model isn't a delay plugin in the traditional sense, its speed and mechanical controls introduce delay-like timing character, and it's the preferred utility for producers who route other delays through it to add tape-style degradation post-process. Used in conjunction with a clean digital delay, it bridges the gap between precision and warmth in a way no single effect achieves alone.
+While CHOW Tape Model isn't a delay plugin in the traditional sense, its speed and mechanical controls introduce delay-like timing character, and it's the preferred utility for producers who route other delays through it to add tape-style degradation post-process. Used in conjunction with a clean digital delay, it bridges the gap between precision and warmth in a way no single effect achieves alone. Because it's open-source and free with no restricted tier, there's nothing to compare against a paid version — it simply belongs in your delay-processing chain alongside TAL-Dub-3.
 
 **Best for:** Engineers who want the most physically accurate free tape emulation for delay chains and analog-style bus processing.
 
-[→ Get CHOW Tape Model on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20CHOW%20Tape%20Model&a_aid=69cb95abe1763)
+[→ Get CHOW Tape Model on Plugin Boutique](https://www.pluginboutique.com/search?q=CHOW%20Tape%20Model&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins)
 
 ---
 
 ## Digital & Multi-tap Delay Plugins
 
-Digital delays prioritize precision: clean repeats that don't alter the tonal character of the source, tight BPM sync, and multi-tap routing that creates rhythmic delay patterns. These picks cover everything from experimental vocal echoes to professional multi-algorithm delay with ValhalaDSP pedigree.
+Digital delays prioritize precision: clean repeats that don't alter the tonal character of the source, tight BPM sync, and multi-tap routing that creates rhythmic delay patterns. These picks cover everything from experimental vocal echoes to professional multi-algorithm delay with ValhalaDSP pedigree — and, again, every single one of them is free, so the only decision to make is which one solves the problem in front of you.
 
 ### Delay Lama — Organic vocal formant textures for experimental delay
 
@@ -95,13 +92,13 @@ Digital delays prioritize precision: clean repeats that don't alter the tonal ch
 - **Platforms:** Windows, macOS
 - **Formats:** VST2, VST3
 
-Delay Lama is Smartelectronix's iconic vocal formant synthesizer — one of the most beloved free creative tools in production history, with a cult following that spans two decades. It isn't a traditional delay unit, but its ability to generate organic, vowel-shaped timbres makes it an ideal signal source and feedback texture generator for experimental delay chains. Routed through a delay plugin with moderate feedback, it creates evolving, almost-human echoes that can't be replicated any other way.
+Delay Lama is Smartelectronix's iconic vocal formant synthesizer — one of the most beloved free creative tools in production history, with a cult following that spans two decades. It isn't a traditional delay unit, but its ability to generate organic, vowel-shaped timbres makes it an ideal signal source and feedback texture generator for experimental delay chains. Routed through a delay plugin with moderate feedback, it creates evolving, almost-human echoes that can't be replicated any other way, and it does so with a CPU footprint tiny enough to run dozens of instances in a session.
 
-Sound designers and ambient producers use Delay Lama as the starting point for texture beds that breathe and shift in real time. Its longevity in the free plugin community speaks to how genuinely useful its output is in creative contexts, particularly when paired with long reverb-delay hybrids.
+Sound designers and ambient producers use Delay Lama as the starting point for texture beds that breathe and shift in real time. Its longevity in the free plugin community speaks to how genuinely useful its output is in creative contexts, particularly when paired with long reverb-delay hybrids like Supermassive below. If your DAW has dropped VST2 support, look for community VST3 wrappers before assuming it's incompatible — it's worth the extra step.
 
 **Best for:** Experimental producers and sound designers who want organic vocal textures as delay source material.
 
-[→ Get Delay Lama on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Delay%20Lama&a_aid=69cb95abe1763)
+[→ Get Delay Lama on Plugin Boutique](https://www.pluginboutique.com/search?q=Delay%20Lama&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins)
 
 ---
 
@@ -116,7 +113,7 @@ Sound designers and ambient producers use Delay Lama as the starting point for t
 
 Valhalla SpaceModulator is an 11-algorithm modulation plugin covering flanging, chorus, vibrato, and through-zero modulation — all architecturally forms of short-time modulated delay. At its most aggressive settings it produces jet-flanging and metallic shimmer that few paid plugins match. Dialed back, it adds subtle width and movement to static sounds with the kind of musical restraint that's harder to program than it sounds.
 
-That SpaceModulator exists as a free release from ValhalaDSP — a company whose paid delays are standard tools in professional studios — makes it one of the most over-delivered free plugins in any category. It runs efficiently, integrates cleanly into any major DAW, and covers modulated delay territory that would otherwise cost real money.
+That SpaceModulator exists as a free release from ValhalaDSP — a company whose paid delays are standard tools in professional studios — makes it one of the most over-delivered free plugins in any category. It runs efficiently, integrates cleanly into any major DAW, and covers modulated delay territory that would otherwise cost real money. ValhalaDSP has kept it free with no expiration since release, and there's no indication that will change, so there's no "wait for a sale" calculus here either — download it once and it's yours permanently.
 
 **Best for:** Producers who need professional-grade modulated delay, flanging, and through-zero effects without spending anything.
 
@@ -135,17 +132,17 @@ That SpaceModulator exists as a free release from ValhalaDSP — a company whose
 
 Valhalla Supermassive was the plugin that closed the free-vs-paid argument for many engineers. Its delay-focused modes — GEMINI, HYDRA, SCORPIO, and others — create self-oscillating, pitch-shifted, temporally massive repeats that sit at the intersection of delay and reverb. The feedback network is unlike anything else in the free tier, and the modulation built into each mode prevents the sterile, static quality that purely digital delays can produce.
 
-On vocals and synths, Supermassive creates depth that sounds expensive. On drums, its shorter delay modes add width without muddying the low end. It's actively maintained by ValhalaDSP, which means long-term DAW compatibility — a rare quality in free plugins.
+On vocals and synths, Supermassive creates depth that sounds expensive. On drums, its shorter delay modes add width without muddying the low end. It's actively maintained by ValhalaDSP, which means long-term DAW compatibility — a rare quality in free plugins, and one of the reasons it's the single most-recommended plugin in this entire guide. If you only install one plugin from this article, this is it.
 
 **Best for:** Any producer who needs lush, modulated spatial delay with genuine algorithmic depth. Non-negotiable first install.
 
-[→ Get Valhalla Supermassive on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Valhalla%20Supermassive&a_aid=69cb95abe1763)
+[→ Get Valhalla Supermassive on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins)
 
 ---
 
 ## Creative & Modulation Tools
 
-Not all delay use cases are about clean echoes and rhythmic repetition. These two tools extend what a delay chain can do — one by adding pitch-transformation character to your signal routing, the other by giving you analytical clarity over what your delay is doing to the mix.
+Not all delay use cases are about clean echoes and rhythmic repetition. These two tools extend what a delay chain can do — one by adding pitch-transformation character to your signal routing, the other by giving you analytical clarity over what your delay is doing to the mix. One of them also happens to be the single clearest "consider paying" case in this guide, so it's worth reading closely if pitch-delay textures matter to your sound.
 
 ### Graillon 2 — Pitch-shifted delay effects and vocal transformation
 
@@ -158,7 +155,7 @@ Not all delay use cases are about clean echoes and rhythmic repetition. These tw
 
 Graillon 2's free tier includes real-time pitch correction and pitch shifting with a modulation system that, when combined with a delay send, produces Eventide H910-style harmonized echoes. It isn't a delay plugin in the conventional sense, but producers who understand routing use it to generate pitch-shifted delay content — harmonized echoes that add dimension to leads and vocals without requiring expensive dedicated harmonizers.
 
-The workflow is direct: send your dry signal to Graillon 2, shift the pitch by a defined interval, then feed the output into your delay. The result is a harmonized delay that tracks the input. The full version at $29 adds chorus, vibrato, and advanced pitch controls — a worthwhile upgrade if pitch-delay hybrids become central to your sound.
+The workflow is direct: send your dry signal to Graillon 2, shift the pitch by a defined interval, then feed the output into your delay. The result is a harmonized delay that tracks the input. The full version at roughly $29 adds chorus, vibrato, and advanced pitch controls — a worthwhile upgrade if pitch-delay hybrids become central to your sound, but not a purchase to make speculatively. Try the free core version on a real session first; if you find yourself reaching for it on every vocal-heavy track, the $29 unlock pays for itself fast, and Auburn Sounds runs it through periodic Plugin Boutique promotions worth watching — see our Graillon 2 sale tracker for current pricing.
 
 **Best for:** Vocal producers and sound designers after harmonized or pitch-shifted delay characters.
 
@@ -177,17 +174,17 @@ The workflow is direct: send your dry signal to Graillon 2, shift the pitch by a
 
 MFreeformAnalyzer is part of MeldaProduction's extensive free bundle and serves a specific, underappreciated role in delay work: showing you exactly what frequency content your repeats are contributing to the mix. Insert it post-delay to see whether repeats are building up in the low-mids, whether high-frequency content is smearing, or whether your delay output is competing with elements that should sit in front of it.
 
-Understanding delay acoustically rather than just by ear is what separates engineers who dial in delays quickly from those who spend twenty minutes nudging settings blindly. MFreeformAnalyzer makes that visual feedback available at no cost, and combined with MeldaProduction's free EQ utilities, it forms the analytical backbone of a serious free-tier mixing workflow.
+Understanding delay acoustically rather than just by ear is what separates engineers who dial in delays quickly from those who spend twenty minutes nudging settings blindly. MFreeformAnalyzer makes that visual feedback available at no cost, and combined with MeldaProduction's free EQ utilities, it forms the analytical backbone of a serious free-tier mixing workflow. There's no paid tier to weigh here — MeldaProduction includes it in the free MFreeFXBundle install, so grabbing it costs nothing but disk space.
 
 **Best for:** Mixing engineers who want to optimize delay integration using spectrum analysis alongside listening.
 
-[→ Get MFreeformAnalyzer on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20MFreeformAnalyzer&a_aid=69cb95abe1763)
+[→ Get MFreeformAnalyzer on Plugin Boutique](https://www.pluginboutique.com/search?q=MFreeformAnalyzer&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins)
 
 ---
 
 ## Worth Upgrading To (Paid Options)
 
-The free picks above handle the majority of production scenarios. But when specific algorithm formats, hardware accuracy, or session reliability become priorities, these three paid options represent the clearest upgrades from the free tier.
+The free picks above handle the majority of production scenarios. But when specific algorithm formats, hardware accuracy, or session reliability become priorities, these three paid options represent the clearest upgrades from the free tier. Below each one, we've included the honest buy-now-or-wait call so you're not overpaying.
 
 ### Valhalla Delay — Every delay format in one professionally maintained plugin
 
@@ -196,6 +193,7 @@ The free picks above handle the majority of production scenarios. But when speci
 - **Developer:** ValhalaDSP
 - **Price:** $50
 - **Why upgrade:** Valhalla Supermassive covers spatial delay beautifully, but Valhalla Delay adds Tape, HiFi, Ghost, Pitch, Pitch Tape, and Ratio modes — each with dedicated tone-shaping, diffusion, and feedback controls that go significantly beyond the free tier. For producers who need one plugin covering all format types at professional quality, $50 for Valhalla Delay is the most efficient spend in the delay category.
+- **Pricing behavior:** ValhalaDSP almost never discounts its catalog — $50 in July is generally the same $50 you'd pay in December. See our [Valhalla Delay sale tracker](/plugin-prices/valhalla-delay/) for confirmation, but don't plan around a sale that historically doesn't happen.
 
 [→ Get Valhalla Delay](https://valhalladsp.com/shop/delay/valhalladelay/)
 
@@ -206,10 +204,11 @@ The free picks above handle the majority of production scenarios. But when speci
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WXg93hWzEOE" title="Waves H-Delay — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves Audio
-- **Price:** ~$29–$49 (frequently discounted)
+- **Price:** ~$29–$49 list, frequently discounted to $29.99 or bundled
 - **Why upgrade:** H-Delay is the practical hybrid between analog warmth and digital precision — a BPM-synced delay with an analog/digital tone blend control that free tape emulations approach but don't fully replicate. It's the default "clean tape character" delay on countless professional mixing sessions, and its Waves-standard reliability makes it the low-risk choice when creative experimentation isn't the brief.
+- **Pricing behavior:** Waves runs some of the most aggressive and frequent sales in the plugin industry — WaveSummer, Black Friday, and near-monthly flash sales routinely drop H-Delay to $29.99 or fold it into $29.99–$49.99 multi-plugin bundles. Check our [Waves H-Delay sale tracker](/plugin-prices/waves-h-delay/) before buying at list price; it's rare to need to.
 
-[→ Get Waves H-Delay on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Waves%20H&a_aid=69cb95abe1763)
+[→ Get Waves H-Delay on Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20H-Delay&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins)
 
 ---
 
@@ -218,10 +217,11 @@ The free picks above handle the majority of production scenarios. But when speci
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CMxM4YDpWM8" title="SoundToys EchoBoy — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** SoundToys
-- **Price:** $199 (or included in the SoundToys 5 bundle)
+- **Price:** $199 standalone, or included in the SoundToys 5 bundle (~$499 list)
 - **Why upgrade:** EchoBoy models the circuit-level behavior of specific hardware echo units — the Roland Space Echo, the Maestro Echoplex, the Binson Echorec — with physical modeling accuracy that free tape emulations don't match. If tape delay character is your signature sound, EchoBoy is the definitive tool, and the SoundToys 5 bundle amortizes the cost across the full effects collection.
+- **Pricing behavior:** SoundToys concentrates its discounting around Black Friday and its July 4 sale, when the full bundle has historically dropped toward $399 and standalone EchoBoy has been discounted 20–30%. Outside those windows, list price is standard. Track current pricing at our [SoundToys EchoBoy sale tracker](/plugin-prices/soundtoys-echoboy/) before committing to the full bundle.
 
-[→ Get SoundToys EchoBoy on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20SoundToys%20EchoBoy&a_aid=69cb95abe1763)
+[→ Get SoundToys EchoBoy on Plugin Boutique](https://www.pluginboutique.com/search?q=SoundToys%20EchoBoy&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins)
 
 ---
 
@@ -229,16 +229,16 @@ The free picks above handle the majority of production scenarios. But when speci
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| TAL-Dub-3 | Free | Tape delay | Wow/flutter, saturation, dub-focused | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20Dub&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins) |
-| CHOW Tape Model | Free | Tape emulation | Physics-based hysteresis modeling | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763) |
-| Delay Lama | Free | Formant/vocal | Organic vocal textures, experimental | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763) |
+| TAL-Dub-3 | Free | Tape delay | Wow/flutter, saturation, dub-focused | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20Dub%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins) |
+| CHOW Tape Model | Free | Tape emulation | Physics-based hysteresis modeling | [Plugin Boutique](https://www.pluginboutique.com/search?q=CHOW%20Tape%20Model&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins) |
+| Delay Lama | Free | Formant/vocal | Organic vocal textures, experimental | [Plugin Boutique](https://www.pluginboutique.com/search?q=Delay%20Lama&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins) |
 | Valhalla SpaceModulator | Free | Modulated delay/flanger | 11 algorithms, through-zero flanging | [Download](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/) |
-| Valhalla Supermassive | Free | Reverb-delay hybrid | Self-oscillating modes, pitch shifting | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763) |
-| Graillon 2 | Free | Pitch-delay utility | Harmonized echoes, pitch shifting | [Download](https://www.auburnsounds.com/products/Graillon.html) |
-| MFreeformAnalyzer | Free | Spectrum analyzer | Visual delay chain feedback | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763) |
+| Valhalla Supermassive | Free | Reverb-delay hybrid | Self-oscillating modes, pitch shifting | [Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins) |
+| Graillon 2 | Free / $29 | Pitch-delay utility | Harmonized echoes, pitch shifting | [Download](https://www.auburnsounds.com/products/Graillon.html) |
+| MFreeformAnalyzer | Free | Spectrum analyzer | Visual delay chain feedback | [Plugin Boutique](https://www.pluginboutique.com/search?q=MFreeformAnalyzer&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins) |
 | Valhalla Delay | $50 | Multi-format delay | Tape/HiFi/Ghost/Pitch/Ratio modes | [Buy](https://valhalladsp.com/shop/delay/valhalladelay/) |
-| Waves H-Delay | ~$29 | Hybrid tape-digital | Analog warmth, BPM sync, Waves reliability | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763) |
-| SoundToys EchoBoy | $199 | Hardware emulation | Space Echo, Echoplex, Echorec modeling | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763) |
+| Waves H-Delay | ~$29–$49 | Hybrid tape-digital | Analog warmth, BPM sync, Waves reliability | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20H-Delay&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins) |
+| SoundToys EchoBoy | $199 / $499 bundle | Hardware emulation | Space Echo, Echoplex, Echorec modeling | [Plugin Boutique](https://www.pluginboutique.com/search?q=SoundToys%20EchoBoy&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins) |
 
 ---
 
@@ -249,6 +249,23 @@ The free picks above handle the majority of production scenarios. But when speci
 - **If modulated effects — flanging, chorus, through-zero — are part of your workflow**, Valhalla SpaceModulator delivers ValhalaDSP-grade quality at zero cost and runs efficiently enough to use on multiple tracks per session.
 - **If you mix professionally and need one reliable paid delay** covering every format type, Valhalla Delay at $50 is the most efficient upgrade available and carries the track record to prove it.
 - **If hardware-accurate vintage delay emulation is the goal**, SoundToys EchoBoy is the ceiling. No free plugin models specific tape machine circuits at this level of physical accuracy.
+- **If pitch-shifted or harmonized echoes are core to your sound**, start with Graillon 2's free core, and only unlock the $29 full version once you've confirmed the workflow earns its place in your template.
+
+---
+
+## When to Buy: Free Now vs. Wait for a Sale
+
+Six of the nine plugins in this guide are free with no purchase decision to make — download TAL-Dub-3, CHOW Tape Model, Delay Lama, Valhalla SpaceModulator, Valhalla Supermassive, and MFreeformAnalyzer today. There is no version of "waiting for a sale" on a $0 plugin. Where money is actually on the table is the three paid upgrades and the Graillon 2 unlock, and each behaves differently.
+
+**Buy now, don't wait:**
+- **Valhalla Delay ($50)** — ValhalaDSP essentially never discounts. Waiting for a sale here just delays a purchase that isn't going to get cheaper. If you've confirmed you need Tape/HiFi/Ghost/Pitch/Ratio modes beyond what Supermassive and SpaceModulator already give you free, buy it the day you need it.
+- **Graillon 2 full unlock ($29)** — low enough dollar amount that timing a sale rarely matters, though Auburn Sounds does run occasional Plugin Boutique promotions. Check the Graillon 2 sale tracker if you're not in a rush, but don't hold a session hostage waiting on a $5–8 discount.
+
+**Wait for a sale unless you need it this week:**
+- **Waves H-Delay (~$29–$49 list)** — Waves discounts constantly. Buying at full list price is close to the worst possible time to buy a Waves plugin. Unless you have a session deadline this week, hold off and check the [Waves H-Delay sale tracker](/plugin-prices/waves-h-delay/) — you'll very likely see it at $29.99 or bundled within a month.
+- **SoundToys EchoBoy ($199 / $499 bundle)** — the single biggest spend in this guide, and the one most worth timing. SoundToys concentrates real discounts around Black Friday and its July 4 sale. If tape-machine-accurate delay is a "someday" purchase rather than an active session blocker, park it until one of those windows and track it at the [SoundToys EchoBoy sale tracker](/plugin-prices/soundtoys-echoboy/).
+
+The practical rule: developers who rarely discount (ValhalaDSP) are safe to buy from at any time; developers who discount constantly (Waves) are never worth buying from at list price; and developers who discount seasonally (SoundToys) are worth planning a purchase around if the need isn't urgent.
 
 ---
 
@@ -268,11 +285,11 @@ A: Not universally, but they're useful for rhythmic complexity. Multi-tap delays
 **Q: When does it make sense to upgrade from free to paid delay plugins?**
 A: When you need something specific: hardware-accurate machine emulation (EchoBoy), structured multi-format control in a single interface (Valhalla Delay), or session-critical reliability with professional developer support. For the majority of mixing and production tasks, the 2026 free tier is production-ready.
 
+**Q: Should I wait for a sale before buying a paid delay plugin?**
+A: It depends on the developer. Waves discounts H-Delay so frequently that buying at list price rarely makes sense — wait unless you need it immediately. SoundToys concentrates real discounts around Black Friday and July 4, so it's worth timing a EchoBoy purchase to one of those windows. ValhalaDSP essentially never discounts Valhalla Delay, so there's no reason to delay that purchase once you've confirmed you need it.
+
 ---
 ## Related Guides
 
 - [Best Delay VST Plugins 2026: Top Paid Options](/posts/best-delay-vst-plugins-2026/)
 - [Best Creative FX Plugins 2026: Experimental and Unique](/posts/best-creative-fx-plugins/)
-- [Best Reverb Plugins 2026: Pair with Delay for Depth](/posts/best-free-reverb-vst-plugins/)
-- [12 Best Free Compressor VST Plugins in 2026](/posts/best-free-compressor-vst-plugins/)
-- [Best Free EQ VST Plugins 2026](/posts/best-free-eq-vst-plugins/)

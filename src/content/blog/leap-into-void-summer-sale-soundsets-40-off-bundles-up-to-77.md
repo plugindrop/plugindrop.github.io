@@ -9,7 +9,7 @@ score: 5.70
 discount: "40% OFF"
 saleExpiry: "2026-07-31"
 xText: "77% off leap into void bundles and the per-unit math becomes impossible to argue with. sit these in a mix like butter."
-draft: false
+draft: true
 ---
 **TL;DR:** Leap Into Void is running a summer sale through July 31st, 2026 — individual soundsets are 40% off and bundles are discounted up to 77% off. That bundle figure is significant for preset packs. Verify current pricing on the product page, then grab what fits your synth setup [via this link](https://www.pluginboutique.com/search?q=bazille&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=leap-into-void-summer-sale-soundsets-40-off-bundles-up-to-77).
 

@@ -10,7 +10,7 @@ dealPrice: "$199.00"
 originalPrice: "$499.00"
 discount: "60% OFF"
 xText: "60% off a digital polysynth bundle is a pretty wild drop: full list price → 40% of list. waiting means paying more for the same synths later. absolute sleeper deal if you’re building out your palette."
-draft: false
+draft: true
 ---
 **TL;DR:** If you only install one, make it Digital Polysynth Collection if you specifically need Roland’s D-50, JD-800, SYSTEM-1, and SYSTEM-8 software instruments in one purchase. Plugin Boutique lists it at ~~$499.00~~ **$199.00**, a $300 saving, or about **$49.75 per synth**. [Check the deal at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16254-Digital-Polysynth-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=digital-polysynth-collection-4e5023).
 

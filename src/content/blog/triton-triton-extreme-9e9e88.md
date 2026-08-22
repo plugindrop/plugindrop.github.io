@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-productio
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=triton-triton-extreme-9e9e88"
 heroImage: /images/triton-triton-extreme-9e9e88.jpg
 score: 8.45
-draft: false
+draft: true
 converted: true
 ---
 **TRITON TRITON Extreme** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=triton-triton-extreme-9e9e88)

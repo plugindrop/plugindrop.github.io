@@ -6,7 +6,7 @@ tags: ["review", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17065-UAD-Signature-V3-Upgrade-from-Any-UAD-Plug-in?utm_source=plugindrop&utm_medium=article&utm_campaign=50-off-uad-signature-v3-upgrade-from-any-uad-plug-in-at-plug&a_aid=69cb95abe1763"
 heroImage: /images/50-off-uad-signature-v3-upgrade-from-any-uad-plug-in-at-plug.jpg
 score: 10.00
-draft: false
+draft: true
 converted: true
 ---
 **UAD Signature V3 Upgrade from Any UAD Plug-in** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17065-UAD-Signature-V3-Upgrade-from-Any-UAD-Plug-in?utm_source=plugindrop&utm_medium=article&utm_campaign=50-off-uad-signature-v3-upgrade-from-any-uad-plug-in-at-plug&a_aid=69cb95abe1763)

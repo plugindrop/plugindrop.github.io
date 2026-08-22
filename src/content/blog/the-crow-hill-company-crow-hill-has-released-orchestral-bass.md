@@ -8,7 +8,7 @@ heroImage: "/images/the-crow-hill-company-crow-hill-has-released-orchestral-bass
 score: 9.72
 dealPrice: "FREE"
 xText: "free orchestral bass from crow hill with that slide texture. sits in a mix like butter and costs zero. that's the grab-now deal right there."
-draft: false
+draft: true
 ---
 **TL;DR:** The Crow Hill Company just dropped Orchestral Bass Slide as a completely free download — no strings attached, no trial limit. It's part of their Vaults series and runs on both Windows and Mac. [Grab it here before it's gone.](https://thecrowhillcompany.com/orchestral-bass-slides/)
 

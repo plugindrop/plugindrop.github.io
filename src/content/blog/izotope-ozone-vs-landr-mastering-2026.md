@@ -5,10 +5,10 @@ pubDate: "2026-06-08T00:00:00Z"
 updatedDate: "2026-06-08T00:00:00Z"
 tags: ["guide", "vst", "mastering", "alternatives", "review"]
 affiliate: "https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763"
-heroImage: "/images/izotope-ozone-vs-landr-2026.jpg"
+heroImage: "/images/izotope-ozone-vs-landr-mastering-2026.jpg"
 evergreen: true
 score: 8.00
-draft: false
+draft: true
 ---
 
 

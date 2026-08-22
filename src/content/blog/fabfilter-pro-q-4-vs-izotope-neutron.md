@@ -8,7 +8,7 @@ evergreen: true
 heroImage: "/images/fabfilter-pro-q-4-vs-izotope-neutron.jpg"
 score: 8.00
 xText: "New guide: FabFilter Pro-Q 4 vs iZotope Neutron 4: Which EQ Wins for Mi..."
-draft: false
+draft: true
 priceTrack:
   - "FabFilter Pro-Q 4"
 ---

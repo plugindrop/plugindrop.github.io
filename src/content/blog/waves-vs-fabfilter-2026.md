@@ -9,7 +9,7 @@ aiImage: true
 evergreen: true
 score: 8.00
 xText: "New guide: Waves vs FabFilter: Which Plugin Brand Is Worth Buying in 20..."
-draft: false
+draft: true
 ---
 **TL;DR:** FabFilter is the better foundation for most producers in 2026 — perpetual licenses, class-leading visual feedback, and Pro-Q 3 as a career-long tool justify the premium pricing. Waves earns its place through vintage hardware emulations (SSL, API, tape), but only when bought at sale prices. Build on FabFilter; layer in Waves selectively.
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21",
+  "last_updated": "2026-08-22",
   "bundles": {
     "FabFilter Total Bundle": {
       "pb_url": "/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle",
@@ -490,6 +490,12 @@
           "date": "2026-08-18",
           "regular": 1999.0,
           "sale": 172.0,
+          "source": "auto_check"
+        },
+        {
+          "date": "2026-08-22",
+          "regular": 1999,
+          "sale": 100,
           "source": "auto_check"
         }
       ],
@@ -1808,6 +1814,12 @@
         },
         {
           "date": "2026-08-21",
+          "sale": 99.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-22",
           "sale": 99.0,
           "regular": 149.0,
           "source": "pb_deals_poll"
@@ -3337,6 +3349,12 @@
         },
         {
           "date": "2026-08-21",
+          "sale": 99.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-22",
           "sale": 99.0,
           "regular": 149.0,
           "source": "pb_deals_poll"
@@ -15462,6 +15480,12 @@
           "sale": 39.0,
           "regular": 59.0,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-22",
+          "sale": 39.0,
+          "regular": 59.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -16790,6 +16814,12 @@
           "sale": 9.0,
           "regular": 119.0,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-22",
+          "sale": 9.0,
+          "regular": 119.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -17007,6 +17037,12 @@
         },
         {
           "date": "2026-08-21",
+          "sale": 269.0,
+          "regular": 1890.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-22",
           "sale": 269.0,
           "regular": 1890.0,
           "source": "pb_deals_poll"
@@ -17314,6 +17350,12 @@
           "sale": 379.0,
           "regular": 1890.0,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-22",
+          "sale": 379.0,
+          "regular": 1890.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -17573,6 +17615,12 @@
         },
         {
           "date": "2026-08-21",
+          "sale": 29.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-22",
           "sale": 29.0,
           "regular": 99.0,
           "source": "pb_deals_poll"
@@ -17947,6 +17995,12 @@
         },
         {
           "date": "2026-08-21",
+          "sale": 9.0,
+          "regular": 119.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-22",
           "sale": 9.0,
           "regular": 119.0,
           "source": "pb_deals_poll"
@@ -18332,6 +18386,12 @@
           "sale": 49.0,
           "regular": 89.0,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-22",
+          "sale": 49.0,
+          "regular": 89.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -18591,6 +18651,12 @@
         },
         {
           "date": "2026-08-21",
+          "sale": 9.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-22",
           "sale": 9.0,
           "regular": 129.0,
           "source": "pb_deals_poll"
@@ -19008,6 +19074,12 @@
           "sale": 9.0,
           "regular": 119.0,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-22",
+          "sale": 9.0,
+          "regular": 119.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -19267,6 +19339,12 @@
         },
         {
           "date": "2026-08-21",
+          "sale": 9.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-22",
           "sale": 9.0,
           "regular": 129.0,
           "source": "pb_deals_poll"
@@ -31672,6 +31750,12 @@
           "regular": 89.0,
           "sale": 14.99,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-08-22",
+          "sale": 14.99,
+          "regular": 89.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -32706,6 +32790,36 @@
           "regular": 112.0,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2023-11-19",
+          "regular": 128.65,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-02-07",
+          "regular": 123.46,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-04-18",
+          "regular": 112.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-01-16",
+          "regular": 112.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-03-23",
+          "regular": 112.0,
+          "sale": null,
+          "source": "wayback"
         }
       ]
     },
@@ -32782,6 +32896,60 @@
           "regular": 189.0,
           "sale": 76.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2021-10-19",
+          "regular": 129.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2021-11-05",
+          "regular": 189.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-05-03",
+          "regular": 189.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-06-02",
+          "regular": 94.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-10-14",
+          "regular": 129.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-02-20",
+          "regular": 129.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-03-27",
+          "regular": 189.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-06-16",
+          "regular": 142.8,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-08-22",
+          "regular": 189.0,
+          "sale": null,
+          "source": "wayback"
         }
       ]
     },
@@ -33488,6 +33656,12 @@
           "sale": 39.0,
           "regular": 199.0,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-22",
+          "sale": 39.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -33552,6 +33726,30 @@
           "regular": 249.0,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2024-12-12",
+          "regular": 249.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-04-13",
+          "regular": 168.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-05-03",
+          "regular": 249.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-07-01",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
         }
       ]
     },
@@ -33652,6 +33850,42 @@
           "regular": 199.0,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2021-10-17",
+          "regular": 199.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-01-29",
+          "regular": 199.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-06-20",
+          "regular": 199.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-01-28",
+          "regular": 199.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-05-19",
+          "regular": 199.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-01-19",
+          "regular": 199.0,
+          "sale": null,
+          "source": "wayback"
         }
       ]
     },
@@ -33764,6 +33998,84 @@
           "regular": 99.0,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2021-09-28",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2021-10-23",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-06-17",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-09-27",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-10-02",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-01-29",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-02-02",
+          "regular": 50.63,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-03-14",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-12-05",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-09-12",
+          "regular": 49.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-03-29",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-07-18",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-08-13",
+          "regular": 94.21,
+          "sale": null,
+          "source": "wayback"
         }
       ]
     },
@@ -33897,6 +34209,12 @@
         },
         {
           "date": "2026-08-21",
+          "sale": 49.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-22",
           "sale": 49.0,
           "regular": 99.0,
           "source": "pb_deals_poll"
@@ -34914,6 +35232,12 @@
           "sale": 39.99,
           "regular": 99.0,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-22",
+          "sale": 39.99,
+          "regular": 99.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -35504,6 +35828,12 @@
           "sale": 39.0,
           "regular": 59.0,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-22",
+          "sale": 39.0,
+          "regular": 59.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -35798,6 +36128,12 @@
           "sale": 69.0,
           "regular": 199.0,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-22",
+          "sale": 69.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -35931,6 +36267,12 @@
         },
         {
           "date": "2026-08-21",
+          "sale": 49.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-22",
           "sale": 49.0,
           "regular": 149.0,
           "source": "pb_deals_poll"
@@ -37317,6 +37659,12 @@
           "sale": 69.0,
           "regular": 149.0,
           "source": "pb_deals_poll"
+        },
+        {
+          "date": "2026-08-22",
+          "sale": 69.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -38558,6 +38906,12 @@
           "regular": 79.0,
           "sale": 19.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-08-22",
+          "sale": 19.0,
+          "regular": 79.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -38622,6 +38976,12 @@
           "regular": 179.0,
           "sale": 119.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-08-22",
+          "sale": 119.0,
+          "regular": 179.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -38826,6 +39186,12 @@
           "regular": 149.0,
           "sale": 99.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-08-22",
+          "sale": 99.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll"
         }
       ]
     },

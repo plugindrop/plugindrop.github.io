@@ -10,7 +10,7 @@ dealPrice: "$8.39"
 originalPrice: "$13.99"
 discount: "40% OFF"
 xText: "Serum  off — does it beat Phase Plant at this price?"
-draft: false
+draft: true
 ---
 # Serum on Sale at $8.39 — Compare to Phase Plant
 

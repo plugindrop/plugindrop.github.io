@@ -10,7 +10,7 @@ dealPrice: "$149.40"
 originalPrice: "$249.00"
 discount: "40% OFF"
 xText: "stageone 2 just dropped with 40% off—you rarely see discounts this good on a brand new release. redesigned workflow actually makes sense for how we work. absolute sleeper deal"
-draft: false
+draft: true
 ---
 **TL;DR:** StageOne 2 is currently 40% off at Plugin Boutique — down from ~~$249.00~~ to **$149.40**, saving you nearly $100 on a dedicated stereo width and spatial imaging plugin. That kind of discount on a $249 tool doesn't come around on a fixed schedule. [Grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/10913-StageOne-2-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=stageone-2-080c3d)
 

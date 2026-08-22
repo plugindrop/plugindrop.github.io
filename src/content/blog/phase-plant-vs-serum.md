@@ -8,7 +8,7 @@ heroImage: "/images/phase-plant-vs-serum.png"
 evergreen: true
 score: 8.00
 xText: "New guide: Phase Plant vs Serum: Which Wavetable Synth Wins for Sound D..."
-draft: false
+draft: true
 ---
 **TL;DR:** Serum wins for producers who want industry-standard wavetable synthesis with an approachable workflow and a massive preset ecosystem. Phase Plant wins for sound designers who need modular flexibility and the ability to stack multiple synthesis types in one patch. If you're building a studio toolkit in 2026, Serum is the safer first buy — Phase Plant is the more powerful long-term investment.
 
