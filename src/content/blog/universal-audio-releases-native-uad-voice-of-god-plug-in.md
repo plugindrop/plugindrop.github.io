@@ -6,7 +6,7 @@ tags: ["review", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17066-Little-Labs-Voice-of-God?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-releases-native-uad-voice-of-god-plug-in"
 heroImage: /images/universal-audio-releases-native-uad-voice-of-god-plug-in.webp
 score: 5.18
-draft: true
+draft: false
 converted: true
 ---
 **Universal Audio releases native UAD Voice Of God Plug‑In** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?q=little+labs+voice+of+god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-releases-native-uad-voice-of-god-plug-in)

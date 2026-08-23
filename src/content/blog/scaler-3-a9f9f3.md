@@ -10,7 +10,7 @@ dealPrice: "$79.00"
 originalPrice: "$99.00"
 discount: "20% OFF"
 xText: "$99 → $79 for the new Scaler 3. standalone mode is the sleeper feature here: sketch progressions without opening your daw, then send the ideas where they need to go. waiting costs $20."
-draft: true
+draft: false
 ---
 If you only install one music-theory tool, make it Scaler 3 — it combines chord writing, MIDI performance tools, and song-arrangement features in one application.
 

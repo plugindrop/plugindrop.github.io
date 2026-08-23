@@ -8,7 +8,7 @@ heroImage: "/images/best-free-woodwind-vst-plugins.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: Best Free Woodwind VST Plugins 2026 (Flute, Clarinet and Sax..."
-draft: true
+draft: false
 ---
 **TL;DR:** BBC Symphony Orchestra Discover is the best free woodwind VST in 2026 — it delivers professional orchestral flute, oboe, clarinet, and bassoon recorded with the actual BBC Symphony Orchestra, at no cost. For dedicated saxophone sounds, the free tier is genuinely thin; the honest upgrade path leads to Cinesamples CineWoodwinds or BBC Symphony Orchestra Core.
 

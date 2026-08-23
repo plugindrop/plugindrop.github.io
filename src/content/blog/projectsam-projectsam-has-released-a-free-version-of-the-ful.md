@@ -9,7 +9,7 @@ aiImage: true
 score: 10.00
 dealPrice: "FREE"
 xText: "lineage percussion pro is free. not a sale, not limited. full library for kontakt. grab it now before everyone else does"
-draft: true
+draft: false
 ---
 **TL;DR:** ProjectSAM is giving away Lineage Percussion — a full percussion library for Kontakt Player — completely free. No expiry date listed, but free full libraries don't stay free forever. [Grab it here before it changes.](https://projectsam.com/libraries/lineage-percussion-free)
 

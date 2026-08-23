@@ -10,7 +10,7 @@ dealPrice: "$12"
 originalPrice: "$20"
 discount: "40% OFF"
 xText: "40% off diginoiz modern trap starters—this rarely drops this cheap. loops that sit in a mix like butter. 48h window probably"
-draft: true
+draft: false
 ---
 **TL;DR:** Diginoiz Modern Trap Starters Samples & Loops is currently 40% off at ADSR Sounds — drop from ~~$20~~ to just $12. That's solid value for a professionally produced trap sample pack designed to kick-start full productions. [Grab it here while the deal lasts.](https://www.adsrsounds.com/product/presets/diginoiz-modern-trap-starters-samples-loops/?a_aid=plugindrop&data1=diginoiz-modern-trap-starters-samples-loops-ccef3c&utm_source=plugindrop&utm_medium=article&utm_campaign=diginoiz-modern-trap-starters-samples-loops-ccef3c)
 

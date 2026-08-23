@@ -9,7 +9,7 @@ evergreen: true
 score: 8.00
 discount: "50% OFF"
 xText: "New guide: Arturia Pigments 5 Review: Is This the Best All-in-One Soft ..."
-draft: true
+draft: false
 ---
 **TL;DR:** Arturia Pigments 5 is the best all-in-one soft synth available in 2026 — five synthesis engines, a visual modulation matrix, and a full FX rack in a single, polished instrument. It's an exceptional buy during Arturia sales and still defensible at full price. If you want one synth capable of covering any production style without a steep learning cliff, this is the one.
 

@@ -10,7 +10,7 @@ dealPrice: "$241.00"
 originalPrice: "$599.00"
 discount: "60% OFF"
 xText: "Melodyne  off — does it beat Auto-Tune, Waves Tune Real-Time, Antares Auto-Tune EFX+ at this price?"
-draft: true
+draft: false
 ---
 # Melodyne on Sale at $241: Compare It to Auto-Tune, Waves Tune, Antares EFX+ Right Now
 

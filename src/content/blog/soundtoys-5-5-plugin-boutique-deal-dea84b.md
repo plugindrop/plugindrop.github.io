@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production", "bundle"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-5-5-plugin-boutique-deal-dea84b&a_aid=69cb95abe1763"
 heroImage: /images/soundtoys-5-5-plugin-boutique-deal-dea84b.jpg
 score: 10.00
-draft: true
+draft: false
 converted: true
 ---
 **Soundtoys 5.5 Effects Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-5-5-plugin-boutique-deal-dea84b&a_aid=69cb95abe1763)

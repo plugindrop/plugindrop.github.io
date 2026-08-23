@@ -9,8 +9,7 @@ tags:
 relatedPosts:
   - "free-alternative-to-valhalla-reverb"
   - "best-reverb-plugins-2026"
-heroImage: '/images/does-valhalla-dsp-ever-go-on-sale.jpg'
-draft: true
+heroImage: '/images/when-does-valhalla-dsp-go-on-sale.jpg'
 ---
 
 **Short answer:** Valhalla DSP **never goes on sale.** The price has always been **$50** and there are no plans to change that.

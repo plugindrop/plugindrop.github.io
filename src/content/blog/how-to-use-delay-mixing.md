@@ -7,7 +7,7 @@ affiliate: ""
 evergreen: true
 score: 8.00
 heroImage: "/images/how-to-use-delay-mixing.jpg"
-draft: true
+draft: false
 ---
 
 **TL;DR:** Delay adds depth, rhythm, and space to a mix — but most producers use it as a default effect rather than a deliberate decision. This guide covers the four essential delay techniques: sync vs free delay selection, feedback and mix level control, sidechain ducking to preserve mix clarity, and ping-pong for stereo width. Valhalla Delay ($50) and Soundtoys EchoBoy ($149) are the paid options; TAL-Dub-X (free) and Arturia Tape MELLO-FI cover the free and creative ends.

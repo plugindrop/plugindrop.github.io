@@ -8,7 +8,6 @@ score: 5.72
 dealPrice: "FREE"
 heroImage: "/images/soundmorph-soundmorph-has-released-dro1d-a-free-online-synth.jpg"
 
-draft: true
 ---
 **TL;DR:** SoundMorph's DRO1D is a fully free online synthesizer — no download, no account, no catch. ~~Paid~~ → **$0**. Grab it directly at [soundmorph.com](https://soundmorph.com/pages/dr01d-online-synthesizer).
 

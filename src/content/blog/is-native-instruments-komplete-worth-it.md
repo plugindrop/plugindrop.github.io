@@ -8,7 +8,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: Is Native Instruments Komplete Worth It in 2026? Honest Brea..."
 heroImage: "/images/is-native-instruments-komplete-worth-it.jpg"
-draft: true
+draft: false
 ---
 **TL;DR:** Native Instruments Komplete 15 Standard, bought during one of NI's regular sales, is worth it primarily because full Kontakt access alone approaches the sale price of the whole bundle. If synthesis is your primary focus and you don't need a sampler, Arturia V Collection 11 is a stronger, more focused purchase. Never pay full price for any Komplete tier.
 

@@ -10,7 +10,6 @@ originalPrice: "$59.99"
 discount: "25% OFF"
 heroImage: "/images/save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him.jpg"
 
-draft: true
 ---
 **TL;DR:** Plugin Boutique is running a sale on The Him DSP's Kick Ninja and Sub Ninja, with savings of up to 48% off regular pricing. If you produce bass-heavy electronic music and need tight, punchy kicks with matching sub control, this is a deal worth acting on. [Grab Kick Ninja at up to 48% off here.](https://www.pluginboutique.com/product/1-Instruments/139-Drum-Synth/13436-Kick-Ninja?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him)
 

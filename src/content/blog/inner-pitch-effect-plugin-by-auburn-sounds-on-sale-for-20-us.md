@@ -6,7 +6,7 @@ tags: ["review", "auburn sounds", "lv2", "pitch shift and time stretch", "music-
 affiliate: "https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=plugindrop&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us&a_aid=69cb95abe1763"
 heroImage: /images/inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us.jpg
 score: 4.08
-draft: true
+draft: false
 converted: true
 ---
 **Inner Pitch effect plugin** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/11930-Inner-Pitch?utm_source=plugindrop&utm_medium=article&utm_campaign=inner-pitch-effect-plugin-by-auburn-sounds-on-sale-for-20-us&a_aid=69cb95abe1763)

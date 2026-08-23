@@ -8,7 +8,7 @@ heroImage: "/images/best-acoustic-guitar-vst-plugins.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: Best Acoustic Guitar VST Plugins 2026: Realistic Strumming a..."
-draft: true
+draft: false
 ---
 **TL;DR:** For most bedroom producers, **Session Guitarist Strummed Acoustic** delivers the most convincing ready-to-use acoustic guitar patterns in its price range — its phrase engine removes the hardest part of acoustic guitar programming entirely. If budget is a constraint, **Ample Guitar M Lite II** is the most capable free acoustic guitar VST available today and a legitimate starting point before committing to any paid option.
 

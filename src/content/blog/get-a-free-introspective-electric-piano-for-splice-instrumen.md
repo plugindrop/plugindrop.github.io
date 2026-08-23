@@ -8,7 +8,7 @@ heroImage: "/images/get-a-free-introspective-electric-piano-for-splice-instrumen
 score: 7.92
 dealPrice: "FREE"
 xText: "free introspective piano from splice right now. has the warmth that actually sits in a mix. zero dollars. go grab it"
-draft: true
+draft: false
 ---
 **TL;DR:** Splice is dropping a free Introspective Electric Piano preset for Splice INSTRUMENT — grab it during the drop window and it's yours to keep permanently, no strings attached. This is a zero-cost add to your library. [Claim the free preset here.](https://splice.com/sounds/create?utm_source=plugindrop&utm_medium=article&utm_campaign=get-a-free-introspective-electric-piano-for-splice-instrumen)
 

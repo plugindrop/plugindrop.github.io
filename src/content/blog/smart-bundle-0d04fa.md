@@ -6,7 +6,7 @@ tags: ["review", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa"
 heroImage: /images/smart-bundle-0d04fa.jpg
 score: 10.00
-draft: true
+draft: false
 converted: true
 ---
 **smart bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa)

@@ -8,7 +8,7 @@ heroImage: "/images/how-to-make-ambient-music-daw.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: How to Make Ambient Music: Essential Plugins, Effects and DA..."
-draft: true
+draft: false
 ---
 **TL;DR:** Ambient music production depends on long reverb, harmonic evolution, and layered texture — and the Valhalla DSP line covers the reverb and shimmer steps better than anything near its price. Valhalla Room is the community's most-cited sub-$100 algorithmic reverb for ambient work; Valhalla SuperMassive is a genuinely free tool that KVR and r/ambientmusic routinely mention alongside reverbs costing three times as much. This guide walks through each step of a practical ambient production chain.
 

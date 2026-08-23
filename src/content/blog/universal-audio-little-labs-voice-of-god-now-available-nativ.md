@@ -9,7 +9,7 @@ heroImage: /images/universal-audio-little-labs-voice-of-god-now-available-nativ.
 dealPrice: "$49"
 originalPrice: "$99"
 discount: "51% OFF"
-draft: true
+draft: false
 score: 4.83
 ---
 

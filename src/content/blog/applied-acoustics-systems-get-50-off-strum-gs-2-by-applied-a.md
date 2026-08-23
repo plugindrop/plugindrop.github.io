@@ -6,7 +6,7 @@ tags: ["review", "guitar", "applied acoustics systems", "physical modeling", "st
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/1446-Strum-GS-2-Acoustic-Electric?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=applied-acoustics-systems-get-50-off-strum-gs-2-by-applied-a"
 heroImage: /images/applied-acoustics-systems-get-50-off-strum-gs-2-by-applied-a.jpg
 score: 6.12
-draft: true
+draft: false
 converted: true
 ---
 

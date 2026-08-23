@@ -11,7 +11,7 @@ originalPrice: "$599.99"
 discount: "67% OFF"
 saleExpiry: "2026-07-31"
 xText: "¥104,580→¥33,990、67% off。Total Studio 5 MAXの新リリース、160+ titles / 72 plugins / TONEXフル版入り。7/31までなら、待ってる間にこの値段を逃すほうが痛い。"
-draft: true
+draft: false
 ---
 **TL;DR:** If you only install one bundle, make it Total Studio 5 MAX if you need instruments, guitar/bass tools, effects, and mixing utilities in one IK Multimedia collection. It is **67% off: ~~$599.99~~ $199.99**, a $400 saving. [Check the Plugin Boutique deal](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15171-Total-Studio-5-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-studio-5-max-edaf9a).
 

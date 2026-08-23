@@ -10,7 +10,7 @@ dealPrice: "$149.00"
 originalPrice: "$269.00"
 discount: "45% OFF"
 xText: "new morph 3 pro dropped at 45% off day one. never see that happen. plugin world basically never goes this deep on launch. grab it while it lasts"
-draft: true
+draft: false
 ---
 **TL;DR:** MORPH 3 PRO, the advanced modulation plugin for sound design and effects processing, is currently ~~$269~~ **$149.00** at Plugin Boutique — a savings of $120. If flexible, real-time modulation is on your sound design wishlist, this is a solid entry point to grab it below full price. [Get MORPH 3 PRO at $149](https://www.pluginboutique.com/product/2-Effects/33-Modulator/12205-MORPH-3-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=morph-3-pro-09ec39).
 

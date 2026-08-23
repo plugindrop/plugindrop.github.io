@@ -7,7 +7,7 @@ affiliate: "https://www.youtube.com/watch"
 heroImage: "/images/new-synth-announcement-queen-elmyra-from-neutral-labs-ec4032.png"
 score: 4.75
 xText: "neutral labs just dropped queen elmyra and early takes say it's the kind of new synth that sits in every mix like butter. this is the release we were waiting for."
-draft: true
+draft: false
 ---
 **TL;DR:** Neutral Labs has officially announced Queen Elmyra — a substantially expanded take on their acclaimed Elmyra2 hardware synthesizer, now heading to Kickstarter. Pricing has not been confirmed; verify current pledge tiers on the campaign page before early tiers close. [Watch the official announcement video here.](https://www.youtube.com/watch)
 

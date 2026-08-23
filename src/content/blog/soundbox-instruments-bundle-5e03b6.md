@@ -6,7 +6,7 @@ tags: ["review", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/13347-Soundbox-Instruments-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundbox-instruments-bundle-5e03b6"
 heroImage: /images/soundbox-instruments-bundle-5e03b6.jpg
 score: 8.72
-draft: true
+draft: false
 converted: true
 ---
 **Soundbox Instruments Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/13347-Soundbox-Instruments-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundbox-instruments-bundle-5e03b6)

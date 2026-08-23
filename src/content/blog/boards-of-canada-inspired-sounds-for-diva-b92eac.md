@@ -7,7 +7,7 @@ affiliate: "https://youtu.be/T0Crlzlb1H8"
 heroImage: "/images/boards-of-canada-inspired-sounds-for-diva-b92eac.jpg"
 score: 7.20
 xText: "boards of canada in preset form. diva nailed the warm nostalgic textures everyone's been chasing. these hit."
-draft: true
+draft: false
 ---
 **TL;DR:** The CMYK preset pack for u-he Diva brought Boards of Canada-style analog warmth to one of the most revered soft synths available — but the developer (Like No Orange) appears to have gone offline. Verify current pricing on the product page. Before you go hunting, [watch the official promo video](https://youtu.be/T0Crlzlb1H8) to hear exactly what these patches sound like.
 

@@ -10,7 +10,7 @@ dealPrice: "$24.99"
 originalPrice: "$200.99"
 discount: "88% OFF"
 xText: "fm8 sounds like absolutely nothing else once it clicks. ni's birthday bundle just made the entry fee actually reasonable if you've been on the fence about fm synthesis"
-draft: true
+draft: false
 ---
 **TL;DR:** ADSR Sounds is running a Birthday Sale on the NI FM8 Bundle, cutting the price from ~~$200.99~~ to $24.99 — a 20% discount off the listed regular price. That works out to under $25 for a full preset collection built for Native Instruments' FM8 synth. [Grab the NI FM8 Bundle at ADSR Sounds](https://www.adsrsounds.com/product/presets/ni-fm8-bundle-birthday-sale/?a_aid=plugindrop&data1=ni-fm8-bundle-birthday-sale-19cb78&utm_source=plugindrop&utm_medium=article&utm_campaign=ni-fm8-bundle-birthday-sale-19cb78) while the sale is live.
 

@@ -155,7 +155,7 @@ FM programming has a deserved reputation for being unintuitive, and Dexed doesn�
 
 Phase Plant is a modular signal flow synthesizer built around Kilohearts' Snapin ecosystem. You build patches by connecting generators — wavetable, analog, granular, noise — to filters and effects in a drag-and-drop interface with no fixed signal path. No other synthesizer at this price point offers this level of architectural freedom. The preset library demonstrates the range: from vintage analog basses to slowly evolving cinematic pads, built from the same engine.
 
-Kilohearts is one of the more sale-friendly developers on this list — Phase Plant has dropped as much as 30-40% during Black Friday and periodic site-wide promotions. If $99 feels steep and you're not in a rush, check [When Does Phase Plant Go On Sale?](/posts/when-does-phase-plant-go-on-sale/) before you buy at full price.
+Kilohearts is one of the more sale-friendly developers on this list — Phase Plant has dropped as much as 30-40% during Black Friday and periodic site-wide promotions. If $99 feels steep and you're not in a rush, check [When Does Phase Plant Go On Sale?](/blog/when-does-phase-plant-go-on-sale) before you buy at full price.
 
 **Best for:** Sound designers who want modular-style patch building without hardware costs or a separate modular environment.
 
@@ -174,7 +174,7 @@ Kilohearts is one of the more sale-friendly developers on this list — Phase Pl
 
 Pigments 5 runs four independent synthesis engines simultaneously — wavetable, virtual analog, sample, and harmonic/additive — and lets you blend them within a single patch using a shared modulation system. The visual modulation display renders routing as an animated, readable overlay rather than a dry matrix. At $99, the combination of multi-engine architecture and visual feedback makes it one of the most educational synthesizers available.
 
-Arturia runs some of the most aggressive discount campaigns of any major plugin company, frequently cutting standalone instrument prices by 40-50% and bundling Pigments into deeper V Collection promotions. Before paying full price, check [When Does Arturia Pigments 5 Go On Sale?](/posts/when-does-arturia-pigments-go-on-sale/) — patience here often pays for itself.
+Arturia runs some of the most aggressive discount campaigns of any major plugin company, frequently cutting standalone instrument prices by 40-50% and bundling Pigments into deeper V Collection promotions. Before paying full price, check [When Does Arturia Pigments 5 Go On Sale?](/blog/when-does-arturia-pigments-go-on-sale) — patience here often pays for itself.
 
 **Best for:** Producers who want to combine synthesis types in one patch and learn modulation concepts through visual feedback.
 
@@ -193,7 +193,7 @@ Arturia runs some of the most aggressive discount campaigns of any major plugin 
 
 Dune 3 combines analog modeling, wavetable, and FM synthesis around an engine purpose-built for dense unison stacks. Its key differentiator is CPU efficiency: eight-voice supersaw patches that would tax competing synths run cleanly here. The factory presets lean heavily toward EDM and trance, but the underlying engine covers a wide range of territory well beyond those genres.
 
-Synapse Audio runs periodic 30-50% off promotions, usually clustered around Black Friday and occasional summer sales. See When Does Dune 3 Go On Sale? if you're not in a hurry to buy.
+Synapse Audio runs periodic 30-50% off promotions, usually clustered around Black Friday and occasional summer sales. See [When Does Dune 3 Go On Sale?](/blog/when-does-dune-3-go-on-sale) if you're not in a hurry to buy.
 
 **Best for:** EDM and trance producers who need tight, high-density supersaw and unison patches without a CPU performance hit.
 
@@ -212,7 +212,7 @@ Synapse Audio runs periodic 30-50% off promotions, usually clustered around Blac
 
 Hive 2 was designed by u-he as a streamlined complement to their more CPU-intensive instruments. It combines virtual analog and wavetable oscillators with the filter quality that defines u-he's sound, inside an interface built for speed rather than deep exploration. Patches that would require minutes of menu navigation in a more complex synthesizer happen in seconds here.
 
-u-he doesn't discount individual synths as often as Arturia or Kilohearts, but Hive 2 does appear in occasional bundle and site-wide sales. Check When Does u-he Hive 2 Go On Sale? before committing to full price.
+u-he doesn't discount individual synths as often as Arturia or Kilohearts, but Hive 2 does appear in occasional bundle and site-wide sales. Check [When Does u-he Hive 2 Go On Sale?](/blog/when-does-hive-2-go-on-sale) before committing to full price.
 
 **Best for:** Working producers who want genuine analog character and u-he filter quality without a steep learning curve or demanding CPU overhead.
 
@@ -235,7 +235,7 @@ u-he doesn't discount individual synths as often as Arturia or Kilohearts, but H
 
 Serum's dominance comes from three things: a precise wavetable editor that lets you draw or import custom waveforms, a drag-and-drop modulation system that eliminated menu-diving from electronic production, and a preset ecosystem so vast it effectively functions as a second instrument. The quality ceiling is genuinely high — the same engine that powers beginner tutorial patches also powers professional releases across EDM, bass music, and film scoring.
 
-Serum is one of the more sale-resistant flagship synths — Xfer rarely discounts it more than 15-20%, and mostly around Black Friday. If you produce professionally and need it now, the workflow gains justify buying at full price; if you can wait a few weeks, check [When Does Serum Go On Sale?](/posts/does-serum-ever-go-on-sale/) first.
+Serum is one of the more sale-resistant flagship synths — Xfer rarely discounts it more than 15-20%, and mostly around Black Friday. If you produce professionally and need it now, the workflow gains justify buying at full price; if you can wait a few weeks, check [When Does Serum Go On Sale?](/blog/when-does-serum-go-on-sale) first.
 
 **Best for:** Producers who want the most supported ecosystem, the largest preset community, and a workflow the entire internet knows how to teach.
 
@@ -254,7 +254,7 @@ Serum is one of the more sale-resistant flagship synths — Xfer rarely discount
 
 Massive X is NI's architectural reboot of the original Massive — the synth that defined early dubstep and brostep bass design. The new engine moves into phase modulation and frequency modulation territory with a deeper modulation routing system than its predecessor. It integrates natively with Komplete and NI hardware, and handles evolving textures and complex motion that simpler wavetable synths can't produce cleanly.
 
-Native Instruments rarely discounts Massive X as a standalone purchase — most of the real savings come from buying it inside a discounted Komplete tier during NI's Black Friday or summer sale windows. See When Does Massive X Go On Sale? to check current bundle pricing before buying it alone.
+Native Instruments rarely discounts Massive X as a standalone purchase — most of the real savings come from buying it inside a discounted Komplete tier during NI's Black Friday or summer sale windows. See [When Does Massive X Go On Sale?](/blog/when-does-massive-x-go-on-sale) to check current bundle pricing before buying it alone.
 
 **Best for:** NI ecosystem users and producers focused on complex electronic sound design and continuously evolving harmonic textures.
 
@@ -273,7 +273,7 @@ Native Instruments rarely discounts Massive X as a standalone purchase — most 
 
 Sylenth1 has been in continuous professional use for over 15 years and remains a staple in progressive house, trance, and melodic techno. Its four alias-free oscillators with extensive detuning and unison options produce the warm, dense supersaw sound that defined a generation of European electronic music — and it maintains that clarity at voice counts where comparable synths introduce aliasing. If your genre relies on that specific warmth, Sylenth1 is largely irreplaceable.
 
-LennarDigital is notoriously light on discounting — Sylenth1 sits at or near full price most of the year, with occasional small markdowns. If this is the synth your genre demands, don't bank on a sale; check When Does Sylenth1 Go On Sale? but expect to pay close to list price regardless.
+LennarDigital is notoriously light on discounting — Sylenth1 sits at or near full price most of the year, with occasional small markdowns. If this is the synth your genre demands, don't bank on a sale; check [When Does Sylenth1 Go On Sale?](/blog/when-does-sylenth1-go-on-sale) but expect to pay close to list price regardless.
 
 **Best for:** Trance, progressive house, and melodic techno producers who need the classic European supersaw sound without compromise.
 
@@ -292,7 +292,7 @@ LennarDigital is notoriously light on discounting — Sylenth1 sits at or near f
 
 Spire combines four synthesis modes — pure analog, FM, wavetable, and noise — with a built-in effect chain capable of replacing your send effects for any given patch. The integrated arpeggiator and chord modes are among the most practical in any commercial synthesizer. Eastern European and Scandinavian trance producers have adopted it heavily, and its lead sound quality holds up against instruments costing significantly more.
 
-Reveal Sound runs periodic 30-50% sales, often timed loosely to Black Friday rather than a fixed calendar. Check [When Does Spire Go On Sale?](/plugin-prices/spire/) before buying at the full $189.
+Reveal Sound runs periodic 30-50% sales, often timed loosely to Black Friday rather than a fixed calendar. Check [When Does Spire Go On Sale?](/blog/when-does-spire-go-on-sale) before buying at the full $189.
 
 **Best for:** Producers who want an all-in-one synthesizer with high-quality built-in effects and particularly strong arpeggiator and chord performance tools.
 
@@ -311,7 +311,7 @@ Reveal Sound runs periodic 30-50% sales, often timed loosely to Black Friday rat
 
 Diva is u-he's flagship analog circuit simulation synthesizer, modeling specific component behaviors from classic instruments — Minimoog, Juno-60, Jupiter-8 — at a level of accuracy that makes it the reference point for every other analog modeling plugin. The CPU cost is real because Diva actually simulates circuits rather than approximating their behavior. For warmth, character, and vintage authenticity, nothing at this price point comes close.
 
-Diva discounts are infrequent and typically modest (10-20%) when they happen, usually during u-he's site-wide promotions rather than Black Friday specifically. Check [When Does u-he Diva Go On Sale?](/plugin-prices/u-he-diva/) if you can afford to wait, but don't expect a dramatic markdown.
+Diva discounts are infrequent and typically modest (10-20%) when they happen, usually during u-he's site-wide promotions rather than Black Friday specifically. Check [When Does u-he Diva Go On Sale?](/blog/when-does-u-he-diva-go-on-sale) if you can afford to wait, but don't expect a dramatic markdown.
 
 **Best for:** Producers and composers who need genuine analog circuit character for pads, basses, and leads in any genre that rewards warmth and harmonic complexity.
 
@@ -330,7 +330,7 @@ Diva discounts are infrequent and typically modest (10-20%) when they happen, us
 
 Zebra 2 is a "wireless modular" synthesizer — a cable-free visual patchbay covering wavetable, spectral, FM, and comb filtering within a single instrument. It's been used extensively in film and TV scoring, with high-profile touring and studio rigs built around it. For producers and composers who want a synthesizer with no depth ceiling, Zebra 2 rewards years of serious exploration.
 
-Like Diva, Zebra 2 discounts are occasional and modest. If you're building a u-he collection, watching for a bundled sale across multiple u-he instruments tends to save more than waiting on Zebra 2 alone — see When Does u-he Zebra 2 Go On Sale? for current pricing trends.
+Like Diva, Zebra 2 discounts are occasional and modest. If you're building a u-he collection, watching for a bundled sale across multiple u-he instruments tends to save more than waiting on Zebra 2 alone — see [When Does u-he Zebra 2 Go On Sale?](/blog/when-does-zebra-2-go-on-sale) for current pricing trends.
 
 **Best for:** Sound designers, film composers, and experimental producers who need maximum synthesis depth and a timeless, extensively battle-tested engine.
 
@@ -351,7 +351,7 @@ Like Diva, Zebra 2 discounts are occasional and modest. If you're building a u-h
 
 Omnisphere 2 is less a synthesizer and more a sound universe. It ships with over 14,000 patches built on a hybrid engine combining sample playback with wavetable, granular, FM, and harmonic synthesis. The library covers sounds that don't exist anywhere else — custom-recorded acoustic textures processed beyond recognition, organic hardware synth samples, and evolved cinematic soundscapes. For anyone scoring to picture or producing hybrid electronic music, Omnisphere 2 is the industry-standard investment.
 
-At $499, this is the one purchase on this list where waiting for a sale actually matters most in dollar terms — but Spectrasonics is famous for almost never discounting Omnisphere, with rare exceptions around Black Friday capping out at 10-15% off. Check [When Does Omnisphere 2 Go On Sale?](/posts/does-omnisphere-ever-go-on-sale/) before you buy, but plan your budget assuming full price.
+At $499, this is the one purchase on this list where waiting for a sale actually matters most in dollar terms — but Spectrasonics is famous for almost never discounting Omnisphere, with rare exceptions around Black Friday capping out at 10-15% off. Check [When Does Omnisphere 2 Go On Sale?](/blog/when-does-omnisphere-go-on-sale) before you buy, but plan your budget assuming full price.
 
 **Best for:** Film composers, TV producers, and hybrid electronic music producers who need a vast, distinctive library of production-ready sounds in a single instrument.
 
@@ -393,7 +393,7 @@ At $499, this is the one purchase on this list where waiting for a sale actually
 - **Price:** $599 (bundle)
 - **Why upgrade:** Pigments 5 is one instrument among 33+ in V Collection 11, which adds faithful emulations of the Minimoog, Prophet-5, Juno-106, CS-80, Buchla Music Easel, and dozens of other classics. If you buy Pigments and find yourself wanting authentic vintage keyboard sounds, V Collection 11 covers all of it at a price significantly more economical than purchasing individual emulations separately.
 
-V Collection is Arturia's single biggest sale item — it regularly sees 50% or deeper discounts during Black Friday and periodic spring/summer promotions, making the effective price closer to $299 during those windows. Check [When Does Arturia V Collection Go On Sale?](/posts/when-does-arturia-v-collection-go-on-sale/) before paying full price for the bundle.
+V Collection is Arturia's single biggest sale item — it regularly sees 50% or deeper discounts during Black Friday and periodic spring/summer promotions, making the effective price closer to $299 during those windows. Check [When Does Arturia V Collection Go On Sale?](/blog/when-does-arturia-v-collection-go-on-sale) before paying full price for the bundle.
 
 [→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763)
 
@@ -411,7 +411,7 @@ Synth VST pricing isn't random — it follows patterns you can plan around. Disc
 
 ### Wait for a Sale If You Can
 
-- **Serum** — Xfer's discounts are shallow (10-20%) but do happen, mostly around Black Friday. If you're not mid-project, it's worth checking [When Does Serum Go On Sale?](/posts/does-serum-ever-go-on-sale/) first.
+- **Serum** — Xfer's discounts are shallow (10-20%) but do happen, mostly around Black Friday. If you're not mid-project, it's worth checking [When Does Serum Go On Sale?](/blog/when-does-serum-go-on-sale) first.
 - **Phase Plant, Pigments 5, Dune 3, and Spire** — all four developers (Kilohearts, Arturia, Synapse Audio, Reveal Sound) run meaningful 30-50% sales multiple times a year. If your purchase isn't urgent, timing it to Black Friday or a developer's site-wide promotion can cut the price nearly in half.
 - **Arturia V Collection 11** — at $599 full price, this is the highest-leverage wait on the list. Sales routinely bring it under $300.
 - **Massive X** — better value is almost always inside a discounted Komplete bundle rather than as a standalone purchase; check NI's bundle pricing before buying it alone.

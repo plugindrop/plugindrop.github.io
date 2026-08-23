@@ -10,7 +10,7 @@ dealPrice: "$79.00"
 originalPrice: "$99.00"
 discount: "20% OFF"
 xText: "melody sauce 3 just dropped at 20% off. the harmonic engine actually knows theory. not the procedural feel you expect. lowest i've seen it priced"
-draft: true
+draft: false
 ---
 If you write electronic music and regularly hit a wall trying to find the next hook, Melody Sauce 3 is worth a look at this price. It won't write your song for you, but it can get you past a blank piano roll fast.
 

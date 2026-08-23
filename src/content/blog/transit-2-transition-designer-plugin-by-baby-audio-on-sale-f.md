@@ -6,7 +6,7 @@ tags: ["review", "andrew huang", "baby audio", "sound fx", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-transition-designer-plugin-by-baby-audio-on-sale-f&a_aid=69cb95abe1763"
 heroImage: /images/transit-2-transition-designer-plugin-by-baby-audio-on-sale-f.jpg
 score: 5.88
-draft: true
+draft: false
 converted: true
 ---
 **Transit 2 transition designer plugin** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-transition-designer-plugin-by-baby-audio-on-sale-f&a_aid=69cb95abe1763)

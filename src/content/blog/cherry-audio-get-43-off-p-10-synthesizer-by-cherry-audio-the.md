@@ -6,7 +6,7 @@ tags: ["review", "cherry audio", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the"
 heroImage: /images/cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the.jpg
 score: 5.83
-draft: true
+draft: false
 converted: true
 ---
 **P-10 Synthesizer** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the)

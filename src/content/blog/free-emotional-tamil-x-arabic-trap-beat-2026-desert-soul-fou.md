@@ -8,7 +8,7 @@ heroImage: "/images/free-emotional-tamil-x-arabic-trap-beat-2026-desert-soul-fou
 score: 6.30
 dealPrice: "FREE"
 xText: "fouzan dropped a free tamil x arabic trap pack called desert soul and the emotional depth + sample quality is honestly ridiculous for zero dollars. this thing goes straight into rotation."
-draft: true
+draft: false
 ---
 **TL;DR:** "Desert Soul" by Fouzan Beats is available **free for non-profit use** right now — a cinematic Tamil x Arabic trap fusion beat with zero upfront cost. Commercial licensing is available separately; check the product page for terms. Grab it directly at [Fouzan Beats on YouTube](https://www.youtube.com/@Fouzan-Beats-foryou).
 

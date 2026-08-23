@@ -8,7 +8,7 @@ heroImage: "/images/ebbandflow-ebbandflow-has-released-deform-cinematic-synth-fo
 score: 9.90
 dealPrice: "FREE"
 xText: "deFORM is free right now. ebbandflow's cinematic synth doesn't usually come with zero attached. this won't last. genuinely grab this now."
-draft: true
+draft: false
 ---
 **TL;DR:** deFORM by Ebbandflow is free to download right now — no coupon, no subscription, no catch. This cinematic synthesizer is built for atmospheric and filmic sound design, and the free window could close at any time. Grab it directly from [Ebbandflow's site](https://ebbandflow.audio/products/deform) before the deal disappears.
 

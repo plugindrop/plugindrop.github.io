@@ -7,7 +7,7 @@ affiliate: "https://www.boomlibrary.com/free-sfx-april-6untt/"
 score: 4.85
 dealPrice: "FREE"
 xText: "free sfx pack just went live and the quality's honestly brutal. would've cost you $40-50 in the past. grab it now"
-draft: true
+draft: false
 ---
 **TL;DR:** Boom Library is giving away a free cinematic sound effects pack this month — no cost, no coupon needed. The "Cinematic Expressions Designed" pack targets film and media producers who need high-quality designed sounds. [→ Get Free SFX at Boom Library](https://www.boomlibrary.com/free-sfx-april-6untt/)
 

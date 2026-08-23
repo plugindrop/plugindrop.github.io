@@ -10,7 +10,7 @@ dealPrice: "$33"
 originalPrice: "$55"
 discount: "40% OFF"
 xText: "40% off launch day pricing? that's the move. gabieris vol 4 sounds genuinely different and this deal won't last long."
-draft: true
+draft: false
 ---
 **TL;DR:** Gabieris Afro Organic Session Vol 4 is currently 40% off at ADSR Sounds — down from ~~$55~~ to **$33**, saving you $22 on a premium Afro House sample pack built around organic, authentic textures. [Grab it at ADSR Sounds while the deal is live.](https://www.adsrsounds.com/product/presets/gabieris-afro-organic-session-vol-4-premium-afro-house-sample-pack/?a_aid=plugindrop&data1=gabieris-afro-organic-session-vol-4-premium-afro-house-sampl&utm_source=plugindrop&utm_medium=article&utm_campaign=gabieris-afro-organic-session-vol-4-premium-afro-house-sampl)
 

@@ -6,7 +6,7 @@ tags: ["review", "delay", "reverb", "united plugins", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/10-Delay/8658-Mirror?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-60-on-mirror-reverse-negative-delay-by-united-plugins"
 heroImage: /images/save-60-on-mirror-reverse-negative-delay-by-united-plugins.jpg
 score: 8.1
-draft: true
+draft: false
 converted: true
 ---
 **Mirror reverse negative delay** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/10-Delay/8658-Mirror?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-60-on-mirror-reverse-negative-delay-by-united-plugins)

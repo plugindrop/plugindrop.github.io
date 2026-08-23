@@ -13,7 +13,6 @@ tags:
 relatedPosts:
   - "best-synth-vst-plugins-2026"
 heroImage: '/images/when-does-addictive-drums-2-go-on-sale.jpg'
-draft: true
 ---
 
 **Short answer:** Addictive Drums 2 Custom Collection goes on sale **3-4 times per year**. The typical discount is **40–58% off**, bringing the $169 regular price down to around **$101**. The best times to buy:

@@ -6,7 +6,7 @@ tags: ["review", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15483-UJAM-SELECT-5-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ujam-select-5-bundle-fedcd9"
 heroImage: /images/ujam-select-5-bundle-fedcd9.jpg
 score: 9.45
-draft: true
+draft: false
 converted: true
 ---
 **UJAM SELECT 5 Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15483-UJAM-SELECT-5-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ujam-select-5-bundle-fedcd9)

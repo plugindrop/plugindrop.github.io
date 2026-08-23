@@ -13,7 +13,6 @@ relatedPosts:
   - "soundtoys-5-review"
   - "when-does-soundtoys-5-go-on-sale"
 heroImage: '/images/when-does-little-alterboy-go-on-sale.jpg'
-draft: true
 ---
 
 **Short answer:** SoundToys Little AlterBoy goes on sale **2-3 times per year**. The typical discount is **50–66% off**, bringing the $99 regular price down to around **$49**. The best times to buy:

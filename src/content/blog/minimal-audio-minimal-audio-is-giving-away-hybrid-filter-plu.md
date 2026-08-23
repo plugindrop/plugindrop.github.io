@@ -8,7 +8,7 @@ heroImage: "/images/minimal-audio-minimal-audio-is-giving-away-hybrid-filter-plu
 score: 8.46
 dealPrice: "FREE"
 xText: "minimal audio just dropped their hybrid filter for free. honestly underrated—this thing does multimode work most paid filters charge for. go grab it now before it's gone."
-draft: true
+draft: false
 ---
 **TL;DR:** Minimal Audio is giving away Hybrid Filter at no cost — a multimode filter plugin now free to claim directly from the developer. No original price to strike through since the field was not provided, but the deal is straightforward: free. [→ Get Hybrid Filter at Minimal Audio](https://www.minimal.audio/products/hybrid-filter)
 

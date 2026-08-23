@@ -6,7 +6,7 @@ tags: ["review", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/8762-Anthology-XII?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=anthology-xii-db5000"
 heroImage: /images/anthology-xii-db5000.jpg
 score: 9.65
-draft: true
+draft: false
 converted: true
 ---
 **Anthology XII** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/8762-Anthology-XII?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=anthology-xii-db5000)

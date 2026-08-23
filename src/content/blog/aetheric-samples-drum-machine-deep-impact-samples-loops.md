@@ -2,7 +2,6 @@
 title: "40% Off Aetheric Samples Drum Machine Deep Impact Samples Loops"
 description: "Aetheric Samples' Drum Machine Deep Impact Samples & Loops is down 40% at ADSR Sounds — just $11.97 instead of the usual ~~$19.95~~. If you produce beats..."
 pubDate: "2026-06-05T12:12:09Z"
-saleExpiry: "2026-07-24"
 tags: ["sale", "preset-pack", "sample-pack-deal", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/aetheric-samples-drum-machine-deep-impact-samples-loops/?a_aid=plugindrop&data1=aetheric-samples-drum-machine-deep-impact-samples-loops&utm_source=plugindrop&utm_medium=article&utm_campaign=aetheric-samples-drum-machine-deep-impact-samples-loops"
 heroImage: "/images/aetheric-samples-drum-machine-deep-impact-samples-loops.jpg"
@@ -11,7 +10,7 @@ dealPrice: "$11.97"
 originalPrice: "$19.95"
 discount: "40% OFF"
 xText: "40% off aetheric deep impact drums — lowest price i've seen. warehouse hits that sit in a mix like they belong there. move quick on this one."
-draft: true
+draft: false
 ---
 **TL;DR:** Aetheric Samples' Drum Machine Deep Impact Samples & Loops is down 40% at ADSR Sounds — just $11.97 instead of the usual ~~$19.95~~. If you produce beats that need punchy, machine-driven drum sounds, this is a low-risk entry point at under $12. [Grab the deal at ADSR Sounds.](https://www.adsrsounds.com/product/presets/aetheric-samples-drum-machine-deep-impact-samples-loops/?a_aid=plugindrop&data1=aetheric-samples-drum-machine-deep-impact-samples-loops&utm_source=plugindrop&utm_medium=article&utm_campaign=aetheric-samples-drum-machine-deep-impact-samples-loops)
 

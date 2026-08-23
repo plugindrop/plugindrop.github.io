@@ -10,7 +10,7 @@ dealPrice: "$19.77"
 originalPrice: "$32.95"
 discount: "40% OFF"
 xText: "new plugins at 40% off have maybe 48 hours before they tick back to full price. this is when you move, not when you think about it"
-draft: true
+draft: false
 ---
 **TL;DR:** Malfunktion is currently 40% off at ADSR Sounds — drop from ~~$32.95~~ down to **$19.77**. That's over $13 in savings on a synth preset pack built for producers who want versatile, characterful sound design material. [Grab it here while the deal is live.](https://www.adsrsounds.com/product/presets/malfunktion/?a_aid=plugindrop&data1=malfunktion-78b8b1&utm_source=plugindrop&utm_medium=article&utm_campaign=malfunktion-78b8b1)
 

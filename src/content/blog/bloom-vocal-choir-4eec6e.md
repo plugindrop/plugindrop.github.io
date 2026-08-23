@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "vocal", "music-production"
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14542-Bloom-Vocal-Choir?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-vocal-choir-4eec6e"
 heroImage: /images/bloom-vocal-choir-4eec6e.jpg
 score: 7.80
-draft: true
+draft: false
 converted: true
 ---
 **Bloom Vocal Choir** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14542-Bloom-Vocal-Choir?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-vocal-choir-4eec6e)

@@ -10,7 +10,7 @@ dealPrice: "$149.00"
 originalPrice: "$167.42"
 discount: "11% OFF"
 xText: "free u-he hive 2 synthwave pack just dropped and it's legitimate. this thing sits in a mix like you spent hours on it. download it now"
-draft: true
+draft: false
 ---
 **TL;DR:** u-he Hive 2 is currently bundled with a free Synthwave Expansion at Plugin Boutique for ~~$167.42~~ $149.00 — saving $18.42 on a combined package that would otherwise cost more purchased separately. [→ Get Hive 2 + Free Synthwave Expansion at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/7683-u-he-Hive-2-FREE-Synthwave-Expansion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-hive-2-free-synthwave-expansion-c57c90)
 

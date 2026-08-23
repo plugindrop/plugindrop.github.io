@@ -8,7 +8,7 @@ heroImage: "/images/expert-sleepers-ntx-8cv-and-forever-audio-midi-interface-and
 score: 8.28
 dealPrice: "FREE"
 xText: "expert sleepers made the ntx-8cv and forever free. audio/midi interface + the freeze effect eurorack heads actually want. go grab them."
-draft: true
+draft: false
 ---
 **TL;DR:** Expert Sleepers has unveiled two new Eurorack modules — the NTX-8CV audio/MIDI interface and Forever audio freezer — announced at Superbooth. Pricing details are not yet confirmed, so verify current availability at [Thomann](https://www.thomann.de/intl/expert_sleepers.html?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=expert-sleepers-ntx-8cv-and-forever-audio-midi-interface-and) before they sell out.
 

@@ -8,7 +8,7 @@ heroImage: "/images/free-wireless-midi-cc-phone-controller-android-app-and-vst-a
 score: 4.45
 dealPrice: "FREE"
 xText: "there's a free wireless phone midi controller sitting there. grab it before you close this tab."
-draft: true
+draft: false
 ---
 **TL;DR:** A developer has released a completely free wireless MIDI CC controller system — an Android app paired with a VST/AU plugin — with zero ads and zero data collection. This is a grab-it-now situation. Watch the full walkthrough and get the download links at [the official video](https://youtu.be/AmpIbfPKfDs).
 
