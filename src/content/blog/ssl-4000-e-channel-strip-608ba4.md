@@ -9,7 +9,7 @@ score: 7.38
 dealPrice: "$99.00"
 originalPrice: "$149.00"
 discount: "34% OFF"
-draft: false
+draft: true
 ---
 **TL;DR:** The SSL 4000 E Channel Strip plugin is down to **$99** from ~~$149~~ at Plugin Boutique, a 34% discount modeled on the console EQ and dynamics chain found on the original SSL 4000 E series. If you mix or master and want console-style EQ, compression, and gating in one plugin, this is a straightforward way to add that signal path to your DAW. [Get the deal at Plugin Boutique.](https://www.pluginboutique.com/search?q=SSL+4000+E+Channel+Strip&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4000-e-channel-strip-608ba4)
 

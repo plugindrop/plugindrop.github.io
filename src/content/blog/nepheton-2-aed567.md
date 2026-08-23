@@ -9,7 +9,7 @@ score: 6.89
 dealPrice: "$49.00"
 originalPrice: "$119.00"
 discount: "59% OFF"
-draft: false
+draft: true
 ---
 **TL;DR:** Nepheton 2 is discounted to $49 from ~~$119~~ at Plugin Boutique, a 59% cut that saves $70. It's a Kontakt-powered instrument built around an analog-style synth engine, aimed at producers who want vintage synth character without hardware. [Get Nepheton 2 at Plugin Boutique](https://www.pluginboutique.com/search?q=Nepheton+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=nepheton-2-aed567).
 

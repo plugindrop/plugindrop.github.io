@@ -9,7 +9,7 @@ score: 6.21
 dealPrice: "$8"
 originalPrice: "$194.79"
 discount: "96% OFF"
-draft: false
+draft: true
 ---
 **TL;DR:** The Dark Cinematic 8 Pack Bundle by Black Octopus is discounted to **$8**, down from ~~$194.79~~ at ADSR Sounds — a 96% cut that works out to roughly $1 per pack. If you score trailers, film, or dark ambient projects and want cinematic textures without paying full price for eight separate packs, this is worth a look. [Get the bundle at ADSR Sounds](https://www.adsrsounds.com/product/presets/dark-cinematic-8-pack-bundle-by-black-octopus/?a_aid=plugindrop&data1=dark-cinematic-8-pack-bundle-by-black-octopus-ff024d&utm_source=plugindrop&utm_medium=article&utm_campaign=dark-cinematic-8-pack-bundle-by-black-octopus-ff024d) before the pricing reverts.
 

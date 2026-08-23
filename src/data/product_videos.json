@@ -13,6 +13,13 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "Arturia CS-80 V": {
+    "video_id": "ut3uIWrTSVI",
+    "title": "Arturia CS-80 V4 | No Talking |",
+    "channel": "DKS SYNTH LAB",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Arturia Jup-8 V": {
     "video_id": "tih7PqwyPc4",
     "title": "ARTURIA JUP-8 V Is Here!  Walkthrough, Demo and Features V Collection 11",
@@ -1231,6 +1238,13 @@
     "score": 8,
     "source": "yt_api_fill"
   },
+  "Softube Drawmer S73": {
+    "video_id": "eX9Ieud9rJw",
+    "title": "Drawmer S73 Intelligent Master Processor Walkthrough – Softube",
+    "channel": "SoftubeStudios",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Softube Model 72": {
     "video_id": "1hB07rbuYy0",
     "title": "Softube Model 72 Melodic Techno Soundbank (By Insight) - Single Presets Demo",
@@ -1242,6 +1256,13 @@
     "video_id": "EfQAARGyev0",
     "title": "Softube Tape Demo by SO",
     "channel": "UFO Flatfield",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Softube Weiss DS1-MK3": {
+    "video_id": "o91Wr5eo5PE",
+    "title": "Weiss DS1-MK3 Walkthrough – Softube",
+    "channel": "SoftubeStudios",
     "score": 8,
     "source": "yt_api_fill"
   },
@@ -2057,6 +2078,13 @@
     "score": 12,
     "source": "yt_api_fill"
   },
+  "u-he Repro": {
+    "video_id": "hjcsG9iXx7I",
+    "title": "U-HE REPRO DEMO - Orchestral Manoeuvres In The Dark",
+    "channel": "Woody Piano Shack",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "u-he Satin": {
     "video_id": "jZ_06w0zTu8",
     "title": "u-he Satin Basics, Part 1: Studio",
@@ -2076,6 +2104,13 @@
     "title": "u-he Zebra 3 - Powerful Synthesis And Sound Design - SonicLAB",
     "channel": "sonicstate",
     "score": 9,
+    "source": "yt_api_fill"
+  },
+  "u-he Zebralette 3": {
+    "video_id": "W_J50lR3X1w",
+    "title": "u-he Zebralette 3 (Free) - Demo by Crazik",
+    "channel": "cra zik",
+    "score": 10,
     "source": "yt_api_fill"
   }
 }
