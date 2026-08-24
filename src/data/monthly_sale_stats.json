@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16",
+  "generated_at": "2026-08-24",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,21 +10,41 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": true,
-      "generated_at": "2026-08-16",
-      "observations": 1619,
-      "products_tracked": 378,
-      "products_on_sale": 163,
-      "on_sale_pct": 43.1,
-      "avg_discount_pct": 50.4,
-      "median_discount_pct": 50,
+      "generated_at": "2026-08-24",
+      "observations": 2728,
+      "products_tracked": 434,
+      "products_on_sale": 234,
+      "on_sale_pct": 53.9,
+      "avg_discount_pct": 52.6,
+      "median_discount_pct": 50.0,
       "discount_buckets": {
-        "1-19": 9,
-        "20-39": 47,
-        "40-59": 51,
-        "60+": 56
+        "1-19": 8,
+        "20-39": 68,
+        "40-59": 68,
+        "60+": 90
       },
-      "all_time_low_hits": 132,
+      "all_time_low_hits": 198,
       "deepest_discounts": [
+        {
+          "name": "Platinum",
+          "slug": "platinum",
+          "category": "Other",
+          "regular": 1999.0,
+          "sale": 99.99,
+          "pct_off": 95,
+          "date": "2026-08-23",
+          "pb_url": "/product/81-Bundles/84-Mix-Master/12542-Platinum"
+        },
+        {
+          "name": "Waves Platinum Bundle",
+          "slug": "waves-platinum-bundle",
+          "category": "Bundle",
+          "regular": 1999,
+          "sale": 100,
+          "pct_off": 95,
+          "date": "2026-08-22",
+          "pb_url": "/product/81-Bundles/84-Mix-Master/12542-Platinum-Bundle"
+        },
         {
           "name": "CARBON",
           "slug": "carbon",
@@ -64,6 +84,16 @@
           "pct_off": 92,
           "date": "2026-08-12",
           "pb_url": "/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2"
+        },
+        {
+          "name": "PHAT 2",
+          "slug": "phat-2",
+          "category": "Other",
+          "regular": 119.0,
+          "sale": 9.0,
+          "pct_off": 92,
+          "date": "2026-08-17",
+          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5506-PHAT-2"
         },
         {
           "name": "ROWDY 2",
@@ -116,67 +146,44 @@
           "pb_url": "/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase"
         },
         {
-          "name": "Chromed",
-          "slug": "chromed",
+          "name": "Softube Producer Collection Exclusive",
+          "slug": "softube-producer-collection-exclusive",
           "category": "Other",
-          "regular": 49.0,
-          "sale": 8.08,
-          "pct_off": 84,
-          "date": "2026-08-09",
-          "pb_url": "/product/1-Instruments/7-Drum-Machine/15007-Chromed"
+          "regular": 1359.0,
+          "sale": 149.0,
+          "pct_off": 89,
+          "date": "2026-08-16",
+          "pb_url": "/product/81-Bundles/84-Mix-Master/15255-Softube-Producer-Collection-Exclusive-"
         },
         {
-          "name": "Zen Delay Virtual",
-          "slug": "zen-delay-virtual",
-          "category": "Other",
-          "regular": 89.0,
-          "sale": 14.99,
-          "pct_off": 83,
-          "date": "2026-08-01",
-          "pb_url": "/product/2-Effects/10-Delay/10200-Zen-Delay-Virtual"
+          "name": "Baby Audio I Heart NY",
+          "slug": "baby-audio-i-heart-ny",
+          "category": "Compressor",
+          "regular": 39.0,
+          "sale": 5.0,
+          "pct_off": 87,
+          "date": "2026-08-18",
+          "pb_url": "/product/2-Effects/8-Compressor/5898-I-Heart-NY"
         },
         {
-          "name": "UAD Dream 65 Reverb Amp",
-          "slug": "uad-dream-65-reverb-amp",
+          "name": "Excite Audio Bundle Crossgrade From Any Excite Audio Product",
+          "slug": "excite-audio-bundle-crossgrade-from-any-excite-audio-product",
           "category": "Other",
-          "regular": 149.0,
-          "sale": 29.0,
-          "pct_off": 81,
-          "date": "2026-08-03",
-          "pb_url": "/product/2-Effects/18-Amp-Simulator/13321-UAD-Dream-65-Reverb-Amp"
-        },
-        {
-          "name": "UAD Opal Morphing Synth",
-          "slug": "uad-opal-morphing-synth",
-          "category": "Other",
-          "regular": 149.0,
-          "sale": 29.0,
-          "pct_off": 81,
-          "date": "2026-08-07",
-          "pb_url": "/product/1-Instruments/4-Synth/10189-Opal-Morphing-Synth"
-        },
-        {
-          "name": "UAD Ravel Grand Piano",
-          "slug": "uad-ravel-grand-piano",
-          "category": "Other",
-          "regular": 149.0,
-          "sale": 29.0,
-          "pct_off": 81,
-          "date": "2026-08-03",
-          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/10191-Ravel-Grand-Piano"
-        },
-        {
-          "name": "UAD Waterfall B3 Organ",
-          "slug": "uad-waterfall-b3-organ",
-          "category": "Other",
-          "regular": 149.0,
-          "sale": 29.0,
-          "pct_off": 81,
-          "date": "2026-08-03",
-          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/10187-Waterfall-B3-Organ"
+          "regular": 1890.0,
+          "sale": 269.0,
+          "pct_off": 86,
+          "date": "2026-08-18",
+          "pb_url": "/product/81-Bundles/89-Complete-Collection/14789-Excite-Audio-Bundle-Crossgrade-From-Any-Excite-Audio-Product"
         }
       ],
       "all_time_low_products": [
+        {
+          "name": "Platinum",
+          "slug": "platinum",
+          "sale": 99.99,
+          "all_time_low": 99.99,
+          "date": "2026-08-23"
+        },
         {
           "name": "CARBON",
           "slug": "carbon",
@@ -204,6 +211,13 @@
           "sale": 9.0,
           "all_time_low": 9.0,
           "date": "2026-08-12"
+        },
+        {
+          "name": "PHAT 2",
+          "slug": "phat-2",
+          "sale": 9.0,
+          "all_time_low": 9.0,
+          "date": "2026-08-17"
         },
         {
           "name": "ROWDY 2",
@@ -241,6 +255,20 @@
           "date": "2026-08-02"
         },
         {
+          "name": "Softube Producer Collection Exclusive",
+          "slug": "softube-producer-collection-exclusive",
+          "sale": 149.0,
+          "all_time_low": 149.0,
+          "date": "2026-08-16"
+        },
+        {
+          "name": "Baby Audio I Heart NY",
+          "slug": "baby-audio-i-heart-ny",
+          "sale": 5.0,
+          "all_time_low": 5.0,
+          "date": "2026-08-18"
+        },
+        {
           "name": "Chromed",
           "slug": "chromed",
           "sale": 8.08,
@@ -253,50 +281,22 @@
           "sale": 14.99,
           "all_time_low": 14.99,
           "date": "2026-08-01"
-        },
-        {
-          "name": "UAD Dream 65 Reverb Amp",
-          "slug": "uad-dream-65-reverb-amp",
-          "sale": 29.0,
-          "all_time_low": 29.0,
-          "date": "2026-08-03"
-        },
-        {
-          "name": "UAD Opal Morphing Synth",
-          "slug": "uad-opal-morphing-synth",
-          "sale": 29.0,
-          "all_time_low": 29.0,
-          "date": "2026-08-07"
-        },
-        {
-          "name": "UAD Ravel Grand Piano",
-          "slug": "uad-ravel-grand-piano",
-          "sale": 29.0,
-          "all_time_low": 29.0,
-          "date": "2026-08-03"
-        },
-        {
-          "name": "UAD Waterfall B3 Organ",
-          "slug": "uad-waterfall-b3-organ",
-          "sale": 29.0,
-          "all_time_low": 29.0,
-          "date": "2026-08-03"
         }
       ],
       "by_category": [
         {
           "category": "Other",
-          "tracked": 269,
-          "on_sale": 125,
-          "on_sale_pct": 46.5,
-          "avg_discount_pct": 53.5
+          "tracked": 318,
+          "on_sale": 182,
+          "on_sale_pct": 57.2,
+          "avg_discount_pct": 54.2
         },
         {
           "category": "Synth",
           "tracked": 21,
-          "on_sale": 7,
-          "on_sale_pct": 33.3,
-          "avg_discount_pct": 42
+          "on_sale": 11,
+          "on_sale_pct": 52.4,
+          "avg_discount_pct": 39
         },
         {
           "category": "Effects",
@@ -313,6 +313,13 @@
           "avg_discount_pct": 34
         },
         {
+          "category": "Compressor",
+          "tracked": 10,
+          "on_sale": 5,
+          "on_sale_pct": 50.0,
+          "avg_discount_pct": 70.4
+        },
+        {
           "category": "EQ",
           "tracked": 9,
           "on_sale": 2,
@@ -321,24 +328,24 @@
         },
         {
           "category": "Reverb",
+          "tracked": 9,
+          "on_sale": 4,
+          "on_sale_pct": 44.4,
+          "avg_discount_pct": 64.2
+        },
+        {
+          "category": "Saturation",
           "tracked": 8,
-          "on_sale": 2,
-          "on_sale_pct": 25.0,
-          "avg_discount_pct": 61.5
+          "on_sale": 5,
+          "on_sale_pct": 62.5,
+          "avg_discount_pct": 40.2
         },
         {
           "category": "Bundle",
           "tracked": 7,
-          "on_sale": 4,
-          "on_sale_pct": 57.1,
-          "avg_discount_pct": 17.2
-        },
-        {
-          "category": "Saturation",
-          "tracked": 7,
-          "on_sale": 3,
-          "on_sale_pct": 42.9,
-          "avg_discount_pct": 35.7
+          "on_sale": 5,
+          "on_sale_pct": 71.4,
+          "avg_discount_pct": 47.6
         },
         {
           "category": "Vocal",
@@ -346,13 +353,6 @@
           "on_sale": 3,
           "on_sale_pct": 42.9,
           "avg_discount_pct": 44.3
-        },
-        {
-          "category": "Compressor",
-          "tracked": 6,
-          "on_sale": 1,
-          "on_sale_pct": 16.7,
-          "avg_discount_pct": 58
         },
         {
           "category": "Delay",
@@ -384,24 +384,24 @@
         },
         {
           "category": "Limiter",
-          "tracked": 2,
-          "on_sale": 0,
-          "on_sale_pct": 0.0,
-          "avg_discount_pct": 0.0
+          "tracked": 3,
+          "on_sale": 1,
+          "on_sale_pct": 33.3,
+          "avg_discount_pct": 70
         }
       ],
       "vs_previous_month": {
         "month": "2026-07",
-        "on_sale_pct_delta": -8.2,
-        "avg_discount_pct_delta": -6.2,
-        "products_tracked_delta": 76
+        "on_sale_pct_delta": 2.6,
+        "avg_discount_pct_delta": -4.0,
+        "products_tracked_delta": 132
       }
     },
     {
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-08-16",
+      "generated_at": "2026-08-24",
       "observations": 2052,
       "products_tracked": 302,
       "products_on_sale": 155,
@@ -414,7 +414,7 @@
         "40-59": 55,
         "60+": 67
       },
-      "all_time_low_hits": 117,
+      "all_time_low_hits": 118,
       "deepest_discounts": [
         {
           "name": "CARBON",

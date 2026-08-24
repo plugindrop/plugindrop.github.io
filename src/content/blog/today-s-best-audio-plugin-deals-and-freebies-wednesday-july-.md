@@ -10,7 +10,7 @@ score: 9.75
 dealPrice: "FREE"
 saleExpiry: "2026-07-13"
 xText: "free plugin day is today. some genuinely useful tools in this drop. don't sleep, this stuff usually gets buried fast"
-draft: false
+draft: true
 ---
 **TL;DR:** HALO 2 Lite by DHPlugins is free right now — no cost, no catch, just a lightweight virtual instrument you can add to your DAW today. The deal is exclusive to VST Alarm and expires July 13th, 2026. [Grab HALO 2 Lite for free here.](https://vstalarm.com/product/halo-2-lite-by-dhp-plugins/)
 
