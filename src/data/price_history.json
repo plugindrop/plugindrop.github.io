@@ -42292,6 +42292,46 @@
           "source": "auto_check"
         }
       ]
+    },
+    "UAD Vibe Analog Machines": {
+      "pb_url": "/product/2-Effects/53-Multi-Effect-/17163-Vibe-Analog-Machines",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-08-25",
+      "history": []
+    },
+    "UAD Enigmatic 82 Overdrive Special Amp": {
+      "pb_url": "/product/2-Effects/18-Amp-Simulator/17292-UAD-Enigmatic-82-Overdrive-Special-Amp",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-08-25",
+      "history": []
+    },
+    "UAD Ruby 63 Top Boost Amp": {
+      "pb_url": "/product/2-Effects/18-Amp-Simulator/13322-UAD-Ruby-63-Top-Boost-Amp",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-08-25",
+      "history": []
+    },
+    "Native Instruments Kolor": {
+      "pb_url": "/product/2-Effects/30-Distortion/16334-Kolor",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-08-25",
+      "history": []
+    },
+    "Minimal Audio Lucid": {
+      "pb_url": "/product/2-Effects/45-Granular-FX/17714-Lucid",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-08-25",
+      "history": []
     }
   }
 }
