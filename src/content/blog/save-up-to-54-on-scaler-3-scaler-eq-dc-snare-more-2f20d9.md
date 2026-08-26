@@ -6,7 +6,7 @@ tags: ["review", "composing", "drums", "midi", "tools", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9&a_aid=69cb95abe1763&chan=art&data1=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9"
 heroImage: /images/save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9.jpg
 score: 6.26
-draft: false
+draft: true
 converted: true
 ---
 **Scaler 3, Scaler EQ, DC Snare & more** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9&a_aid=69cb95abe1763&chan=art&data1=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9)

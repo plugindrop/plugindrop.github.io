@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15130-A-Type-Multiband-Dynamic-Enhancer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=a-type-multiband-dynamic-enhancer-b9de37&chan=art&data1=a-type-multiband-dynamic-enhancer-b9de37"
 heroImage: /images/a-type-multiband-dynamic-enhancer-b9de37.jpg
 score: 8.15
-draft: false
+draft: true
 converted: true
 ---
 **A Type Multiband Dynamic Enhancer** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15130-A-Type-Multiband-Dynamic-Enhancer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=a-type-multiband-dynamic-enhancer-b9de37&chan=art&data1=a-type-multiband-dynamic-enhancer-b9de37)

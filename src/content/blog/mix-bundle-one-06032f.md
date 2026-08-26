@@ -6,7 +6,7 @@ tags: ["review", "bundle", "mixing", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15800-Mix-Bundle-One?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mix-bundle-one-06032f&chan=art&data1=mix-bundle-one-06032f"
 heroImage: /images/mix-bundle-one-06032f.jpg
 score: 7.55
-draft: false
+draft: true
 converted: true
 ---
 **Mix Bundle One** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15800-Mix-Bundle-One?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mix-bundle-one-06032f&chan=art&data1=mix-bundle-one-06032f)

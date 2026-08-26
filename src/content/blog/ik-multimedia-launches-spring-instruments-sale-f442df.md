@@ -6,7 +6,7 @@ tags: ["review", "bass guitar", "drums", "ik multimedia", "piano", "sampletank",
 affiliate: "https://www.pluginboutique.com/manufacturers/410-IK-Multimedia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ik-multimedia-spring-instruments-sale&chan=art&data1=ik-multimedia-launches-spring-instruments-sale-f442df"
 heroImage: /images/ik-multimedia-launches-spring-instruments-sale-f442df.jpg
 score: 3.22
-draft: false
+draft: true
 converted: true
 ---
 **Ik Multimedia** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/manufacturers/410-IK-Multimedia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ik-multimedia-spring-instruments-sale&chan=art&data1=ik-multimedia-launches-spring-instruments-sale-f442df)

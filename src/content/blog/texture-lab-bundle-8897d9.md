@@ -6,7 +6,7 @@ tags: ["review", "bundle", "effects", "music-production"]
 affiliate: https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17150-Texture-Lab-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=texture-lab-bundle-8897d9&chan=art&data1=texture-lab-bundle-8897d9
 heroImage: /images/texture-lab-bundle-8897d9.jpg
 score: 9.65
-draft: false
+draft: true
 converted: true
 ---
 **Texture Lab Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17150-Texture-Lab-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=texture-lab-bundle-8897d9&chan=art&data1=texture-lab-bundle-8897d9)

@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "drums", "music-production"
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-breaks-4d77af&chan=art&data1=bloom-drum-breaks-4d77af"
 heroImage: /images/bloom-drum-breaks-4d77af.jpg
 score: 7.80
-draft: false
+draft: true
 converted: true
 ---
 **Bloom Drum Breaks** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-breaks-4d77af&chan=art&data1=bloom-drum-breaks-4d77af)

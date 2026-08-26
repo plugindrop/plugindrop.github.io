@@ -39886,12 +39886,6 @@
           "sale": 29.0,
           "regular": 59.0,
           "source": "pb_deals_poll"
-        },
-        {
-          "date": "2025-08-19",
-          "regular": 60.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -40403,12 +40397,6 @@
           "regular": 89.0,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2024-11-06",
-          "regular": 89.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },

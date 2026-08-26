@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "synth", "music-production"
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14160-Bloom-Synth-Atmosphere?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-atmosphere-d3f4f7&chan=art&data1=bloom-synth-atmosphere-d3f4f7"
 heroImage: /images/bloom-synth-atmosphere-d3f4f7.jpg
 score: 8.30
-draft: false
+draft: true
 converted: true
 ---
 
