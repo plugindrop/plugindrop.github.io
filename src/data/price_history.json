@@ -2863,6 +2863,12 @@
           "regular": 99.0,
           "sale": 59.4,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-08-26",
+          "sale": 59.4,
+          "regular": 99.0,
+          "source": "pb_deals_poll"
         }
       ],
       "category": "Effects"
@@ -38172,6 +38178,12 @@
           "regular": 99.0,
           "sale": 59.4,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-08-26",
+          "sale": 59.4,
+          "regular": 99.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
