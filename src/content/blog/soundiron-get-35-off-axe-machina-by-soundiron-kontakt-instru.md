@@ -3,7 +3,7 @@ title: "Axe Machina: Features, Pricing & Is It Worth It? (2026)"
 description: "Axe Machina is a Kontakt-based sample instrument from Soundiron, a California-based developer known for. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-16T03:48:40Z'
 tags: ["review", "soundiron", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763&chan=art&data1=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru"
 heroImage: "/images/soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru.jpg"
 score: 8.07
 draft: false
@@ -14,7 +14,7 @@ converted: true
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WRfY8Gk3dI0" title="Axe Machina: Features, Pricing & Is It Worth It? (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-**Axe Machina** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763)
+**Axe Machina** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763&chan=art&data1=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru)
 
 ---
 
@@ -50,7 +50,7 @@ Axe Machina is a relatively niche release, so large-scale community discussion i
 
 ---
 
-Verify exact current pricing on the [Plugin Boutique product page](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763) — deal prices can change without notice.
+Verify exact current pricing on the [Plugin Boutique product page](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763&chan=art&data1=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru) — deal prices can change without notice.
 
 **How often does Soundiron run sales?**  If you've had this on your watchlist, a deal at this depth is worth acting on rather than waiting.
 
@@ -80,7 +80,7 @@ A: Soundiron does not typically use iLok for their Kontakt libraries — licensi
 A: Check the Plugin Boutique product page for current system requirements, as these depend on your Kontakt version and OS.
 
 **Q: Is the listed price current?**
-A: Deal pricing can expire at any time. Check the [product page](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763) to confirm the discount is still active.
+A: Deal pricing can expire at any time. Check the [product page](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16614-Axe-Machina?utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru&a_aid=69cb95abe1763&chan=art&data1=soundiron-get-35-off-axe-machina-by-soundiron-kontakt-instru) to confirm the discount is still active.
 
 ---
 

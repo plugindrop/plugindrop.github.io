@@ -3,7 +3,7 @@ title: "Save up to 48% on Kick Ninja and Sub Ninja plugins by The Him DSP"
 description: "Plugin Boutique is running a sale on The Him DSP's Kick Ninja and Sub Ninja, with savings of up to 48% off regular pricing. If you produce bass-heavy"
 pubDate: "2026-04-20T09:24:53Z"
 tags: ["bass", "drums", "sale", "the him dsp", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/139-Drum-Synth/13436-Kick-Ninja?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/139-Drum-Synth/13436-Kick-Ninja?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him&chan=art&data1=save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him"
 score: 9.39
 dealPrice: "$45.00"
 originalPrice: "$59.99"
@@ -11,7 +11,7 @@ discount: "25% OFF"
 heroImage: "/images/save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him.jpg"
 
 ---
-**TL;DR:** Plugin Boutique is running a sale on The Him DSP's Kick Ninja and Sub Ninja, with savings of up to 48% off regular pricing. If you produce bass-heavy electronic music and need tight, punchy kicks with matching sub control, this is a deal worth acting on. [Grab Kick Ninja at up to 48% off here.](https://www.pluginboutique.com/product/1-Instruments/139-Drum-Synth/13436-Kick-Ninja?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him)
+**TL;DR:** Plugin Boutique is running a sale on The Him DSP's Kick Ninja and Sub Ninja, with savings of up to 48% off regular pricing. If you produce bass-heavy electronic music and need tight, punchy kicks with matching sub control, this is a deal worth acting on. [Grab Kick Ninja at up to 48% off here.](https://www.pluginboutique.com/product/1-Instruments/139-Drum-Synth/13436-Kick-Ninja?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him&chan=art&data1=save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him)
 
 ---
 
@@ -63,7 +63,7 @@ Exact pricing fluctuates during sales. Based on the deal being promoted, savings
 
 The Him DSP does not run frequent blanket sales, which makes a 48% discount notable. If you've been watching these plugins, waiting for a better window is a gamble.
 
-[Check current sale pricing on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/139-Drum-Synth/13436-Kick-Ninja?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him)
+[Check current sale pricing on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/139-Drum-Synth/13436-Kick-Ninja?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him&chan=art&data1=save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him)
 
 ---
 
@@ -99,7 +99,7 @@ A: Check the developer's page or Plugin Boutique listing for demo availability �
 
 Up to 48% off dedicated kick synthesis tools is a real saving in a category where good plugins hold their prices. This deal is live on Plugin Boutique — confirm current pricing before it changes.
 
-[Save up to 48% on Kick Ninja at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/139-Drum-Synth/13436-Kick-Ninja?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him)
+[Save up to 48% on Kick Ninja at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/139-Drum-Synth/13436-Kick-Ninja?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him&chan=art&data1=save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him)
 
 ---
 

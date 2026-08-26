@@ -3,13 +3,13 @@ title: "ROWDY 2: Features, Pricing & Is It Worth It? (2026)"
 description: "ROWDY 2 is a virtual instrument plugin available at Plugin Boutique, positioned in the Virtual Instruments category. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-26T15:07:49Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6261-ROWDY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rowdy-2-e5a202"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6261-ROWDY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rowdy-2-e5a202&chan=art&data1=rowdy-2-e5a202"
 heroImage: /images/rowdy-2-e5a202.jpg
 score: 7.35
 draft: false
 converted: true
 ---
-**ROWDY 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6261-ROWDY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rowdy-2-e5a202)
+**ROWDY 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6261-ROWDY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rowdy-2-e5a202&chan=art&data1=rowdy-2-e5a202)
 
 ---
 
@@ -47,7 +47,7 @@ ROWDY 2 is a virtual instrument plugin available at Plugin Boutique, positioned 
 
 **Note:** Verify current pricing on the product page — deals can change.
 
-[Secure this deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6261-ROWDY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rowdy-2-e5a202)
+[Secure this deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6261-ROWDY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rowdy-2-e5a202&chan=art&data1=rowdy-2-e5a202)
 
 ---
 
@@ -83,7 +83,7 @@ A: Plugin Boutique's refund terms vary by product — review their policy on the
 
 A virtual instrument is a deal worth acting on. At $29.00, ROWDY 2 is priced where the question isn't whether it's worth it — it's whether you need it.
 
-[Pick up ROWDY 2 for $29 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6261-ROWDY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rowdy-2-e5a202)
+[Pick up ROWDY 2 for $29 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6261-ROWDY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rowdy-2-e5a202&chan=art&data1=rowdy-2-e5a202)
 
 ---
 

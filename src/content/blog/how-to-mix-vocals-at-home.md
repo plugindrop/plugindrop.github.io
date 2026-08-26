@@ -18,10 +18,10 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| TDR Nova | Free | Dynamic EQ for transparent vocal correction | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-mix-vocals-at-home) |
-| Valhalla Supermassive | Free | Lush, professional-grade reverb and space | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-mix-vocals-at-home) |
+| TDR Nova | Free | Dynamic EQ for transparent vocal correction | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-mix-vocals-at-home&chan=art&data1=how-to-mix-vocals-at-home) |
+| Valhalla Supermassive | Free | Lush, professional-grade reverb and space | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-mix-vocals-at-home&chan=art&data1=how-to-mix-vocals-at-home) |
 | Waves Tune Real-Time | From $29 | Low-latency pitch correction in the mix | [Developer Site](https://www.waves.com/plugins/waves-tune-real-time) |
-| iZotope Nectar 4 | From $199 | AI-assisted complete vocal production suite | [Developer Site](https://www.pluginboutique.com/search?q=iZotope%20Nectar&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-mix-vocals-at-home) |
+| iZotope Nectar 4 | From $199 | AI-assisted complete vocal production suite | [Developer Site](https://www.pluginboutique.com/search?q=iZotope%20Nectar&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-mix-vocals-at-home&chan=art&data1=how-to-mix-vocals-at-home) |
 | Waves Vocal Bundle | Varies | Full paid vocal toolkit for serious mixing | [Official Site](https://www.waves.com/bundles/vocal) |
 
 ---

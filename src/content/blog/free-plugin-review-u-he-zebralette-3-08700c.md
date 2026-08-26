@@ -3,13 +3,13 @@ title: 'u-he Zebralette 3 — Free Spectral Synth Download'
 description: "u-he Zebralette 3 is permanently free — a spectral synth from a respected plugin developer. Here's what it includes and where to download it."
 pubDate: '2026-04-17T08:54:04Z'
 tags: ["free", "freebie", "instruments", "synth", "u-he", "zebralette 3", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugin-review-u-he-zebralette-3-08700c"
+affiliate: "https://www.pluginboutique.com/search?q=zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugin-review-u-he-zebralette-3-08700c&chan=art&data1=free-plugin-review-u-he-zebralette-3-08700c"
 heroImage: /images/free-plugin-review-u-he-zebralette-3-08700c.webp
 dealPrice: "FREE"
 draft: true
 score: 1.86
 ---
-**TL;DR:** u-he Zebralette 3 is completely free — ~~paid~~ $0. It's a fully functional spectral synth plugin from one of the most respected plugin developers in the industry. Grab it directly from [u-he's freeware page](https://www.pluginboutique.com/search?q=zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugin-review-u-he-zebralette-3-08700c).
+**TL;DR:** u-he Zebralette 3 is completely free — ~~paid~~ $0. It's a fully functional spectral synth plugin from one of the most respected plugin developers in the industry. Grab it directly from [u-he's freeware page](https://www.pluginboutique.com/search?q=zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugin-review-u-he-zebralette-3-08700c&chan=art&data1=free-plugin-review-u-he-zebralette-3-08700c).
 
 ---
 
@@ -26,7 +26,7 @@ u-he Zebralette 3 is a free synthesizer plugin from u-he, the German developer b
 - **Built-in Effects** — Onboard modulation and effects processing included in the signal chain
 - **Modulation Matrix** — Flexible routing for LFOs, envelopes, and other mod sources
 - **Preset Library** — Ships with a curated set of factory presets covering pads, leads, and textures
-- **Cross-platform** — Available for Windows and macOS; check the [product page](https://www.pluginboutique.com/search?q=zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugin-review-u-he-zebralette-3-08700c) for supported plugin formats and OS versions
+- **Cross-platform** — Available for Windows and macOS; check the [product page](https://www.pluginboutique.com/search?q=zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugin-review-u-he-zebralette-3-08700c&chan=art&data1=free-plugin-review-u-he-zebralette-3-08700c) for supported plugin formats and OS versions
 
 ---
 
@@ -55,7 +55,7 @@ This isn't a sale or a time-limited promo — Zebralette 3 is permanently free f
 
 > Verify current availability and system requirements on the product page — details can change.
 
-**[Download Zebralette 3 Free →](https://www.pluginboutique.com/search?q=zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugin-review-u-he-zebralette-3-08700c)**
+**[Download Zebralette 3 Free →](https://www.pluginboutique.com/search?q=zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugin-review-u-he-zebralette-3-08700c&chan=art&data1=free-plugin-review-u-he-zebralette-3-08700c)**
 
 ---
 
@@ -80,7 +80,7 @@ A: Yes — it's u-he's official freeware release, not a trial or demo. Check the
 A: u-he does not use iLok for its freeware. Verify the current activation method on the official site.
 
 **Q: What plugin formats does Zebralette 3 support?**
-A: Check the [u-he product page](https://www.pluginboutique.com/search?q=zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugin-review-u-he-zebralette-3-08700c) for the current list of supported formats and operating systems — this changes with updates.
+A: Check the [u-he product page](https://www.pluginboutique.com/search?q=zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugin-review-u-he-zebralette-3-08700c&chan=art&data1=free-plugin-review-u-he-zebralette-3-08700c) for the current list of supported formats and operating systems — this changes with updates.
 
 **Q: Is Zebralette 3 different from Zebralette 2?**
 A: Zebralette 3 is the updated version built around the newer Zebra engine. Check u-he's release notes for a full changelog.
@@ -91,7 +91,7 @@ A: Zebralette 3 is the updated version built around the newer Zebra engine. Chec
 
 Free from the source, no expiry, no catch. u-he Zebralette 3 is one of those rare plugins that belongs in every producer's folder — just on general principle.
 
-**[Download Zebralette 3 for Free at u-he →](https://www.pluginboutique.com/search?q=zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugin-review-u-he-zebralette-3-08700c)**
+**[Download Zebralette 3 for Free at u-he →](https://www.pluginboutique.com/search?q=zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugin-review-u-he-zebralette-3-08700c&chan=art&data1=free-plugin-review-u-he-zebralette-3-08700c)**
 
 ---
 

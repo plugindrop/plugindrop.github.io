@@ -3,13 +3,13 @@ title: "Universal Audio releases native UAD Voice Of God Plug‑In: Features, Pr
 description: "The Little Labs Voice Of God Bass Resonance is Universal Audio's official plug-in recreation of Little Labs'. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-03T04:34:43Z'
 tags: ["review", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17066-Little-Labs-Voice-of-God?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-releases-native-uad-voice-of-god-plug-in"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17066-Little-Labs-Voice-of-God?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-releases-native-uad-voice-of-god-plug-in&chan=art&data1=universal-audio-releases-native-uad-voice-of-god-plug-in"
 heroImage: /images/universal-audio-releases-native-uad-voice-of-god-plug-in.webp
 score: 5.18
 draft: false
 converted: true
 ---
-**Universal Audio releases native UAD Voice Of God Plug‑In** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?q=little+labs+voice+of+god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-releases-native-uad-voice-of-god-plug-in)
+**Universal Audio releases native UAD Voice Of God Plug‑In** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?q=little%20labs%20voice%20of%20god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-releases-native-uad-voice-of-god-plug-in&chan=art&data1=universal-audio-releases-native-uad-voice-of-god-plug-in)
 
 ---
 
@@ -35,7 +35,7 @@ The Little Labs Voice Of God Bass Resonance is Universal Audio's official plug-i
 
  After that, it returns to $99. UA intro pricing on new native releases tends to be the deepest discount you'll see for a while, so this is likely the best time to pick it up.
 
-Verify current pricing on the product page — deals can change. [Check the current price and grab the deal here.](https://www.pluginboutique.com/search?q=little+labs+voice+of+god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-releases-native-uad-voice-of-god-plug-in)
+Verify current pricing on the product page — deals can change. [Check the current price and grab the deal here.](https://www.pluginboutique.com/search?q=little%20labs%20voice%20of%20god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-releases-native-uad-voice-of-god-plug-in&chan=art&data1=universal-audio-releases-native-uad-voice-of-god-plug-in)
 
 ## Alternatives at a Glance
 
@@ -60,7 +60,7 @@ A: Check the official Universal Audio product page for detailed system requireme
 
 ## Where to Buy
 
-Half off a UA plug-in built for one job — making your low end hit exactly where it should. $49  [Don't sleep on this one.](https://www.pluginboutique.com/search?q=little+labs+voice+of+god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-releases-native-uad-voice-of-god-plug-in)
+Half off a UA plug-in built for one job — making your low end hit exactly where it should. $49  [Don't sleep on this one.](https://www.pluginboutique.com/search?q=little%20labs%20voice%20of%20god&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-releases-native-uad-voice-of-god-plug-in&chan=art&data1=universal-audio-releases-native-uad-voice-of-god-plug-in)
 
 ---
 

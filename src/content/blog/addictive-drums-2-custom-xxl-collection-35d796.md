@@ -3,13 +3,13 @@ title: "Addictive Drums 2 Custom XXL Collection: Features, Pricing & Is It Worth
 description: "Addictive Drums 2 (AD2) is a virtual drum instrument developed by XLN Audio, built around a high-quality sample library with an intuitive drag-and-drop."
 pubDate: '2026-04-23T18:27:32Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xxl-collection-35d796"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xxl-collection-35d796&chan=art&data1=addictive-drums-2-custom-xxl-collection-35d796"
 heroImage: /images/addictive-drums-2-custom-xxl-collection-35d796.jpg
 score: 10.00
 draft: false
 converted: true
 ---
-**Addictive Drums 2 Custom XXL Collection** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xxl-collection-35d796)
+**Addictive Drums 2 Custom XXL Collection** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xxl-collection-35d796&chan=art&data1=addictive-drums-2-custom-xxl-collection-35d796)
 
 ---
 
@@ -49,7 +49,7 @@ Addictive Drums 2 has been a consistent recommendation across mixing and product
 
 Verify current pricing on the product page, as deals can change without notice.
 
-[Check the deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xxl-collection-35d796)
+[Check the deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xxl-collection-35d796&chan=art&data1=addictive-drums-2-custom-xxl-collection-35d796)
 
 ---
 
@@ -82,7 +82,7 @@ A: Yes — individual ADpaks can be purchased separately through XLN Audio to ex
 
 The full Custom XXL Collection is a rare window for producers who want XLN Audio's entire drum ecosystem in one shot. Don't sleep on it if this has been on your list.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xxl-collection-35d796)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xxl-collection-35d796&chan=art&data1=addictive-drums-2-custom-xxl-collection-35d796)
 
 ---
 

@@ -3,7 +3,7 @@ title: "30% Off Dialekt — Vocal Modulation & Sound Design ($69)"
 description: "Dialekt is on sale at Plugin Boutique for $69, down from ~~$99~~ — a 30% discount on this vocal processing and sound design plugin. The deal covers..."
 pubDate: "2026-07-19T00:36:55Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/6-Groovebox/14669-Dialekt?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dialekt-d72ebc"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/6-Groovebox/14669-Dialekt?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dialekt-d72ebc&chan=art&data1=dialekt-d72ebc"
 heroImage: "/images/dialekt-d72ebc.jpg"
 score: 6.42
 dealPrice: "$69.00"
@@ -12,7 +12,7 @@ discount: "30% OFF"
 xText: "new plugin at 30% off basically doesn't happen. most devs keep releases full price, so if dialekt's on your radar this is the window"
 draft: false
 ---
-**TL;DR:** Dialekt is on sale at Plugin Boutique for $69, down from ~~$99~~ — a 30% discount on this vocal processing and sound design plugin. The deal covers modulation-driven vocal shaping for producers who want creative, non-standard vocal textures. [Grab Dialekt at 30% off here.](https://www.pluginboutique.com/product/1-Instruments/6-Groovebox/14669-Dialekt?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dialekt-d72ebc)
+**TL;DR:** Dialekt is on sale at Plugin Boutique for $69, down from ~~$99~~ — a 30% discount on this vocal processing and sound design plugin. The deal covers modulation-driven vocal shaping for producers who want creative, non-standard vocal textures. [Grab Dialekt at 30% off here.](https://www.pluginboutique.com/product/1-Instruments/6-Groovebox/14669-Dialekt?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dialekt-d72ebc&chan=art&data1=dialekt-d72ebc)
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="30% Off Dialekt — Vocal Modulation & Sound Design ($69) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1903174291%3Fsecret_token%3Ds-CKamT1VjJoT&color=cc3400&auto_play=false&hide_related=true&show_comments=true&show_user=false&show_reposts=false&sharing=false&download=false&show_playcount=true"></iframe>
@@ -53,7 +53,7 @@ If you need straightforward pitch correction or a standard vocal channel strip, 
 
 This is a straightforward percentage-off promotion rather than a bundle, so there's no per-unit math to break down. Verify current pricing on the product page — deals can change, and Plugin Boutique sale windows are often time-limited.
 
-[See the current Dialekt price at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/6-Groovebox/14669-Dialekt?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dialekt-d72ebc)
+[See the current Dialekt price at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/6-Groovebox/14669-Dialekt?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dialekt-d72ebc&chan=art&data1=dialekt-d72ebc)
 
 ## Alternatives at a Glance
 
@@ -83,7 +83,7 @@ A: Check the official product page for current OS and DAW compatibility requirem
 
 $30 off a $99 vocal processing plugin brings Dialekt down to $69 at Plugin Boutique. Grab it while the 30% discount is active.
 
-[Get Dialekt at 30% off now.](https://www.pluginboutique.com/product/1-Instruments/6-Groovebox/14669-Dialekt?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dialekt-d72ebc)
+[Get Dialekt at 30% off now.](https://www.pluginboutique.com/product/1-Instruments/6-Groovebox/14669-Dialekt?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dialekt-d72ebc&chan=art&data1=dialekt-d72ebc)
 
 ## Is This Deal Worth It?
 

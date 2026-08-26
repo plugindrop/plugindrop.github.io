@@ -45,7 +45,7 @@ heroImage: '/images/when-does-scaler-3-go-on-sale.jpg'
 > **Buying tip:** Scaler 3 is developed and sold by Plugin Boutique itself, so it goes on sale with nearly every PB promotion. At $69 on Black Friday it's the official 'Lowest Ever Price' per PB. Stacking with PB Virtual Cash rewards can reduce it further.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/3-Studio-Tools/93-Chord-Progressions/12289-Scaler-3?a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/3-Studio-Tools/93-Chord-Progressions/12289-Scaler-3?a_aid=69cb95abe1763&chan=art&data1=when-does-scaler-3-go-on-sale)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 

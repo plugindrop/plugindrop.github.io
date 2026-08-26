@@ -3,7 +3,7 @@ title: "43% Off Fixate Midrange"
 description: "Fixate Midrange is 43% off at Plugin Boutique right now — down from ~~$139~~ to just $79, putting $60 back in your pocket. If the midrange is where your..."
 pubDate: "2026-05-19T13:55:51Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17321-Fixate-Midrange?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fixate-midrange-68d19f"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17321-Fixate-Midrange?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fixate-midrange-68d19f&chan=art&data1=fixate-midrange-68d19f"
 heroImage: "/images/fixate-midrange-68d19f.jpg"
 score: 9.78
 dealPrice: "$79.00"
@@ -12,7 +12,7 @@ discount: "43% OFF"
 xText: "43% off fixate's new midrange—fresh plugins don't discount this fast. normally it's months of full price. if you've been waiting to upgrade your eq game, this is the moment"
 draft: true
 ---
-**TL;DR:** Fixate Midrange is 43% off at Plugin Boutique right now — down from ~~$139~~ to just $79, putting $60 back in your pocket. If the midrange is where your mixes consistently fall apart, [this deal is worth a serious look](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17321-Fixate-Midrange?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fixate-midrange-68d19f).
+**TL;DR:** Fixate Midrange is 43% off at Plugin Boutique right now — down from ~~$139~~ to just $79, putting $60 back in your pocket. If the midrange is where your mixes consistently fall apart, [this deal is worth a serious look](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17321-Fixate-Midrange?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fixate-midrange-68d19f&chan=art&data1=fixate-midrange-68d19f).
 
 ---
 
@@ -57,7 +57,7 @@ A 43% discount is a meaningful reduction — not the kind of token "10% off" sal
 
 *Verify current pricing on the product page — deals can change.*
 
-[Get Fixate Midrange for $79 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17321-Fixate-Midrange?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fixate-midrange-68d19f)
+[Get Fixate Midrange for $79 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17321-Fixate-Midrange?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fixate-midrange-68d19f&chan=art&data1=fixate-midrange-68d19f)
 
 ---
 
@@ -91,7 +91,7 @@ A: Check the product page for full license terms. Plugin Boutique typically list
 
 ## Get the Deal
 
-Forty-three percent off a specialized dynamics tool is a real discount — $60 saved, $79 out the door. [Grab Fixate Midrange at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17321-Fixate-Midrange?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fixate-midrange-68d19f) while the sale price holds.
+Forty-three percent off a specialized dynamics tool is a real discount — $60 saved, $79 out the door. [Grab Fixate Midrange at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17321-Fixate-Midrange?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fixate-midrange-68d19f&chan=art&data1=fixate-midrange-68d19f) while the sale price holds.
 
 ## Related Guides
 

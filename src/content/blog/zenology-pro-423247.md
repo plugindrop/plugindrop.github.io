@@ -3,13 +3,13 @@ title: "ZENOLOGY PRO: Features, Pricing & Is It Worth It? (2026)"
 description: "ZENOLOGY PRO is Roland's flagship software synthesizer, built on the ZEN-Core synthesis engine — the same. Check current pricing at Plugin Boutique."
 pubDate: '2026-05-01T01:38:34Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247&chan=art&data1=zenology-pro-423247"
 heroImage: /images/zenology-pro-423247.jpg
 score: 10.00
 draft: false
 converted: true
 ---
-**ZENOLOGY PRO** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247)
+**ZENOLOGY PRO** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247&chan=art&data1=zenology-pro-423247)
 
 ---
 
@@ -51,7 +51,7 @@ ZENOLOGY PRO is a frequently discussed entry point in Roland-focused producer co
 
 Roland software at a third-party retailer is uncommon. Roland's own Roland Cloud model typically pushes users toward subscriptions, making perpetual license sales events like this worth noting. This is a one-time purchase — not a subscription.
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247&chan=art&data1=zenology-pro-423247)
 
 ---
 
@@ -84,7 +84,7 @@ A: Yes. ZENOLOGY PRO is compatible with Roland's Model Expansions, which unlock 
 
 $99.00 for 00 price — a developer that leans heavily on subscriptions makes perpetual license discounts like this worth acting on.
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247&chan=art&data1=zenology-pro-423247)
 
 ---
 

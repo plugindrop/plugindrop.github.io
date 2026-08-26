@@ -3,13 +3,13 @@ title: "Bloom Drum Breaks: Features, Pricing & Is It Worth It? (2026)"
 description: "Bloom Drum Breaks is a virtual instrument and sample library built around drum break content, available through. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:28:31Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "drums", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-breaks-4d77af"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-breaks-4d77af&chan=art&data1=bloom-drum-breaks-4d77af"
 heroImage: /images/bloom-drum-breaks-4d77af.jpg
 score: 7.80
 draft: false
 converted: true
 ---
-**Bloom Drum Breaks** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-breaks-4d77af)
+**Bloom Drum Breaks** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-breaks-4d77af&chan=art&data1=bloom-drum-breaks-4d77af)
 
 ---
 
@@ -44,7 +44,7 @@ A 34% cut on a sub-$60 product is worth paying attention to. It pushes Bloom Dru
 
 *Verify current pricing on the product page — deals can change without notice.*
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-breaks-4d77af)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-breaks-4d77af&chan=art&data1=bloom-drum-breaks-4d77af)
 
 ---
 
@@ -75,7 +75,7 @@ A: Refund eligibility depends on the developer's terms. Check Plugin Boutique's 
 
 ## Where to Buy
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-breaks-4d77af)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-breaks-4d77af&chan=art&data1=bloom-drum-breaks-4d77af)
 
 ---
 

@@ -3,7 +3,7 @@ title: "38% Off UAD Summer Mix Tape Bundle"
 description: "The UAD Summer Mix Tape Bundle drops from ~~$79~~ to **$49** — that's 38% off Universal Audio's mixing-focused plugin bundle. A solid window to pick up..."
 pubDate: "2026-06-01T12:26:15Z"
 tags: ["sale", "mixing", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17397-UAD-Summer-Mix-Tape-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-summer-mix-tape-bundle-8c6711"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17397-UAD-Summer-Mix-Tape-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-summer-mix-tape-bundle-8c6711&chan=art&data1=uad-summer-mix-tape-bundle-8c6711"
 heroImage: "/images/uad-summer-mix-tape-bundle-8c6711.jpg"
 score: 10.00
 dealPrice: "$49.00"
@@ -12,7 +12,7 @@ discount: "38% OFF"
 xText: "uad summer mix tape bundle at 38% off – the per-unit cost breakdown is genuinely unbeatable for studio mixing plugins. do the math and see if you've ever seen better value."
 draft: true
 ---
-**TL;DR:** The UAD Summer Mix Tape Bundle drops from ~~$79~~ to **$49** — that's 38% off Universal Audio's mixing-focused plugin bundle. A solid window to pick up UAD-quality processing at an accessible price. [Grab the deal on Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17397-UAD-Summer-Mix-Tape-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-summer-mix-tape-bundle-8c6711)
+**TL;DR:** The UAD Summer Mix Tape Bundle drops from ~~$79~~ to **$49** — that's 38% off Universal Audio's mixing-focused plugin bundle. A solid window to pick up UAD-quality processing at an accessible price. [Grab the deal on Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17397-UAD-Summer-Mix-Tape-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-summer-mix-tape-bundle-8c6711&chan=art&data1=uad-summer-mix-tape-bundle-8c6711)
 
 ---
 
@@ -56,7 +56,7 @@ At $49 for a bundle of UAD mixing processors, the per-unit value is strong relat
 
 Note: Verify current pricing on the product page — deals can change.
 
-[Check the current price and buy on Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17397-UAD-Summer-Mix-Tape-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-summer-mix-tape-bundle-8c6711)
+[Check the current price and buy on Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17397-UAD-Summer-Mix-Tape-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-summer-mix-tape-bundle-8c6711&chan=art&data1=uad-summer-mix-tape-bundle-8c6711)
 
 ---
 
@@ -90,7 +90,7 @@ A: Summer promotions are time-limited. Verify the end date on the Plugin Boutiqu
 
 ## Get the Deal
 
-$30 off UAD-quality processing is a straightforward value call — especially for anyone who's been watching UA's catalog and waiting for a discount entry point. [Lock in the $49 price on Plugin Boutique before the summer sale ends.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17397-UAD-Summer-Mix-Tape-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-summer-mix-tape-bundle-8c6711)
+$30 off UAD-quality processing is a straightforward value call — especially for anyone who's been watching UA's catalog and waiting for a discount entry point. [Lock in the $49 price on Plugin Boutique before the summer sale ends.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17397-UAD-Summer-Mix-Tape-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-summer-mix-tape-bundle-8c6711&chan=art&data1=uad-summer-mix-tape-bundle-8c6711)
 
 ## Related Guides
 

@@ -3,13 +3,13 @@ title: "DANDY Virtual Instrument: Features, Pricing & Is It Worth It? (2026)"
 description: "DANDY is a virtual instrument available through Plugin Boutique, sitting in the Virtual Instruments category. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-14T10:02:50Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY?utm_source=plugindrop&utm_medium=article&utm_campaign=dandy-plugin-boutique-deal-f167a6&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY?utm_source=plugindrop&utm_medium=article&utm_campaign=dandy-plugin-boutique-deal-f167a6&a_aid=69cb95abe1763&chan=art&data1=dandy-plugin-boutique-deal-f167a6"
 heroImage: /images/dandy-plugin-boutique-deal-f167a6.jpg
 score: 6.84
 draft: false
 converted: true
 ---
-**DANDY Virtual Instrument** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY?utm_source=plugindrop&utm_medium=article&utm_campaign=dandy-plugin-boutique-deal-f167a6&a_aid=69cb95abe1763)
+**DANDY Virtual Instrument** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY?utm_source=plugindrop&utm_medium=article&utm_campaign=dandy-plugin-boutique-deal-f167a6&a_aid=69cb95abe1763&chan=art&data1=dandy-plugin-boutique-deal-f167a6)
 
 ---
 
@@ -50,7 +50,7 @@ Exact pricing shifts with active promotions. Verify current numbers on the produ
 
 Plugin Boutique runs platform-wide sales and developer-specific promos throughout the year. If you're seeing a reduced price now, it's worth acting — these windows don't always repeat on a predictable schedule.
 
-[See the current price and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY?utm_source=plugindrop&utm_medium=article&utm_campaign=dandy-plugin-boutique-deal-f167a6&a_aid=69cb95abe1763)
+[See the current price and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY?utm_source=plugindrop&utm_medium=article&utm_campaign=dandy-plugin-boutique-deal-f167a6&a_aid=69cb95abe1763&chan=art&data1=dandy-plugin-boutique-deal-f167a6)
 
 ---
 
@@ -84,7 +84,7 @@ A: Plugin Boutique's refund policy applies — review it on their site before pu
 
 ## Where to Buy
 
-Sales on Plugin Boutique don't linger — if the price is right, now is the time. [Check the current deal price for DANDY on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY?utm_source=plugindrop&utm_medium=article&utm_campaign=dandy-plugin-boutique-deal-f167a6&a_aid=69cb95abe1763) and lock it in before the window closes.
+Sales on Plugin Boutique don't linger — if the price is right, now is the time. [Check the current deal price for DANDY on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY?utm_source=plugindrop&utm_medium=article&utm_campaign=dandy-plugin-boutique-deal-f167a6&a_aid=69cb95abe1763&chan=art&data1=dandy-plugin-boutique-deal-f167a6) and lock it in before the window closes.
 
 ---
 

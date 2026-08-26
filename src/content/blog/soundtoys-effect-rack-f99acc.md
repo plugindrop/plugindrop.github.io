@@ -3,13 +3,13 @@ title: "Soundtoys Effect Rack: Features, Pricing & Is It Worth It? (2026)"
 description: "Soundtoys Effect Rack is the complete bundle from Soundtoys, a plugin developer with a long track record in professional studios."
 pubDate: '2026-04-23T18:27:33Z'
 tags: ["review", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/6343-Soundtoys-Effect-Rack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-effect-rack-f99acc"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/6343-Soundtoys-Effect-Rack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-effect-rack-f99acc&chan=art&data1=soundtoys-effect-rack-f99acc"
 heroImage: /images/soundtoys-effect-rack-f99acc.jpg
 score: 10.00
 draft: false
 converted: true
 ---
-**Soundtoys Effect Rack** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/6343-Soundtoys-Effect-Rack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-effect-rack-f99acc)
+**Soundtoys Effect Rack** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/6343-Soundtoys-Effect-Rack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-effect-rack-f99acc&chan=art&data1=soundtoys-effect-rack-f99acc)
 
 ---
 
@@ -56,7 +56,7 @@ Verify current pricing on the product page, as deals can change without notice.
 
 Verify current pricing on the product page — deals can change.
 
-[Check current pricing and buy at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/6343-Soundtoys-Effect-Rack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-effect-rack-f99acc)
+[Check current pricing and buy at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/6343-Soundtoys-Effect-Rack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-effect-rack-f99acc&chan=art&data1=soundtoys-effect-rack-f99acc)
 
 ---
 
@@ -89,7 +89,7 @@ A: Upgrade pricing options may be available. Check the Plugin Boutique product p
 
 The complete Soundtoys library is a deal worth bookmarking — but deal pricing moves fast. Lock in $149.00 before it reverts to the full $299.00 price.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/6343-Soundtoys-Effect-Rack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-effect-rack-f99acc)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/6343-Soundtoys-Effect-Rack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-effect-rack-f99acc&chan=art&data1=soundtoys-effect-rack-f99acc)
 
 ---
 

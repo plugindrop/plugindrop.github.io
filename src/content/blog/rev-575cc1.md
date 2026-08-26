@@ -3,7 +3,7 @@ title: "59% Off REV"
 description: "REV is currently 50% off at Plugin Boutique — dropping from ~~$199.00~~ to **$99.50**. That's a $99.50 saving on a Kontakt instrument library. Grab the"
 pubDate: "2026-05-08T03:36:20Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/1513-REV?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rev-575cc1"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/1513-REV?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rev-575cc1&chan=art&data1=rev-575cc1"
 heroImage: "/images/rev-575cc1.jpg"
 score: 10.00
 dealPrice: "$79.99"
@@ -12,7 +12,7 @@ discount: "59% OFF"
 xText: "rev just hit 50% off and it's the lowest i've ever seen. new release with algorithms that actually land different in a mix. deal won't last at this price"
 draft: true
 ---
-**TL;DR:** REV is currently 50% off at Plugin Boutique — dropping from ~~$199.00~~ to **$99.50**. That's a $99.50 saving on a Kontakt instrument library. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/1513-REV?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rev-575cc1)
+**TL;DR:** REV is currently 50% off at Plugin Boutique — dropping from ~~$199.00~~ to **$99.50**. That's a $99.50 saving on a Kontakt instrument library. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/1513-REV?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rev-575cc1&chan=art&data1=rev-575cc1)
 
 ---
 
@@ -57,7 +57,7 @@ A straight 50% cut is a meaningful discount for a dedicated Kontakt library. Plu
 
 *Note: Verify current pricing on the product page — deals can change without notice.*
 
-[Get REV at 50% off on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/1513-REV?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rev-575cc1)
+[Get REV at 50% off on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/1513-REV?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rev-575cc1&chan=art&data1=rev-575cc1)
 
 ---
 
@@ -93,7 +93,7 @@ A: Kontakt's interface is consistent across instruments, so familiarity with any
 
 Half price on a dedicated Kontakt library isn't a deal that tends to stick around. If reversed textures and cinematic sound design are part of your workflow, now is the time to add REV to your toolkit.
 
-[Claim 50% off REV at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/1513-REV?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rev-575cc1)
+[Claim 50% off REV at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/1513-REV?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rev-575cc1&chan=art&data1=rev-575cc1)
 
 ## Related Guides
 

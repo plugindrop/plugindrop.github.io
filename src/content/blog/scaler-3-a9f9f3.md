@@ -3,7 +3,7 @@ title: "20% Off Scaler 3 — Music Theory & MIDI Composition ($79)"
 description: "Plugin Boutique has Scaler 3 at **20% off**, dropping the price from ~~$99.00~~ to **$79.00**. That is a **$20.00 saving** on Scaler Music’s chord..."
 pubDate: "2026-07-16T01:07:58Z"
 tags: ["sale", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-3-a9f9f3"
+affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-3-a9f9f3&chan=art&data1=scaler-3-a9f9f3"
 heroImage: "/images/scaler-3-a9f9f3.jpg"
 score: 8.50
 dealPrice: "$79.00"
@@ -14,7 +14,7 @@ draft: false
 ---
 If you only install one music-theory tool, make it Scaler 3 — it combines chord writing, MIDI performance tools, and song-arrangement features in one application.
 
-**TL;DR:** Plugin Boutique has Scaler 3 at **20% off**, dropping the price from ~~$99.00~~ to **$79.00**. That is a **$20.00 saving** on Scaler Music’s chord, harmony, and MIDI composition tool. [Get the Scaler 3 deal at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-3-a9f9f3).
+**TL;DR:** Plugin Boutique has Scaler 3 at **20% off**, dropping the price from ~~$99.00~~ to **$79.00**. That is a **$20.00 saving** on Scaler Music’s chord, harmony, and MIDI composition tool. [Get the Scaler 3 deal at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-3-a9f9f3&chan=art&data1=scaler-3-a9f9f3).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-NIKkzb1O0U" title="20% Off Scaler 3 — Music Theory & MIDI Composition ($79) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -63,7 +63,7 @@ Users who only need a basic chord chart or a lightweight MIDI utility may not ne
 
 This is a single-product discount at Plugin Boutique, not a bundle calculation. No end date was provided with this offer, so verify current pricing on the product page — deals can change.
 
-[See the current Scaler 3 price at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-3-a9f9f3).
+[See the current Scaler 3 price at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-3-a9f9f3&chan=art&data1=scaler-3-a9f9f3).
 
 ## Alternatives at a Glance
 
@@ -91,7 +91,7 @@ A: Yes. This deal lists Scaler 3 at **$79.00**, reduced from ~~$99.00~~, for a $
 
 ## Get the Deal
 
-Scaler 3 is currently **20% off**, bringing the listed price to **$79.00**. [Claim the Plugin Boutique deal here](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-3-a9f9f3).
+Scaler 3 is currently **20% off**, bringing the listed price to **$79.00**. [Claim the Plugin Boutique deal here](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-3-a9f9f3&chan=art&data1=scaler-3-a9f9f3).
 
 ## Is This Deal Worth It?
 

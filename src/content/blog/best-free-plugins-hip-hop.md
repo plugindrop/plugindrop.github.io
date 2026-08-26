@@ -22,7 +22,7 @@ heroImage: "/images/best-free-plugins-hip-hop_collage.jpg"
 | Rough Rider 3 | Free | Punchy drum bus compression | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
 | Graillon 2 | Free | Vocal pitch correction & FX | [Free Download](https://www.auburnsounds.com/products/Graillon.html) |
 | Valhalla Supermassive | Free | Reverb tails, atmospheric space | [Free Download](https://valhalladsp.com) |
-| TAL-NoiseMaker | Free | Analog-style bass and stabs | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop) |
+| TAL-NoiseMaker | Free | Analog-style bass and stabs | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop&chan=art&data1=best-free-plugins-hip-hop) |
 
 ---
 
@@ -51,7 +51,7 @@ TAL-NoiseMaker is a three-oscillator virtual analog synthesizer with integrated 
 
 **Best for:** Analog-style bass lines, synth stabs, lo-fi leads.
 
-[→ Download TAL-NoiseMaker Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop)
+[→ Download TAL-NoiseMaker Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop&chan=art&data1=best-free-plugins-hip-hop)
 
 ---
 
@@ -225,7 +225,7 @@ TDR Nova is a parallel dynamic equalizer that combines parametric EQ with freque
 
 **Best for:** Sample EQ cleanup, dynamic sibilance control, precise mixing utility.
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop)
+[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop&chan=art&data1=best-free-plugins-hip-hop)
 
 ---
 
@@ -278,7 +278,7 @@ Graillon 2 provides real-time pitch correction alongside a pitch-shifting sectio
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| TAL-NoiseMaker | Free | Virtual Analog Synth | 3 oscillators, built-in FX, low CPU | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop) |
+| TAL-NoiseMaker | Free | Virtual Analog Synth | 3 oscillators, built-in FX, low CPU | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop&chan=art&data1=best-free-plugins-hip-hop) |
 | Vital | Free | Wavetable Synth | Wavetable, FM, granular, drag-drop modulation | [Free](https://vital.audio/) |
 | Surge XT | Free | Wavetable/FM Synth | 11 oscillator types, open source, 160+ mod sources | [Free Download](https://surge-synthesizer.github.io) |
 | OB-Xd | Free | Vintage Analog Synth | Oberheim OB-X emulation, warm analog character | [Free Download](https://www.discodsp.com) |
@@ -288,7 +288,7 @@ Graillon 2 provides real-time pitch correction alongside a pitch-shifting sectio
 | iZotope Vinyl | Free | Lo-fi Effect | Vinyl simulation, noise and wear controls | [Free Download](https://www.izotope.com/en/products/vinyl) |
 | Valhalla Supermassive | Free | Reverb/Delay | Long tails, modulated modes, lush space | [Free Download](https://valhalladsp.com) |
 | Rough Rider 3 | Free | Compressor | Pumping compression, sidechain high-pass filter | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
-| TDR Nova | Free | Dynamic EQ | Per-band dynamics, static + dynamic EQ modes | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop) |
+| TDR Nova | Free | Dynamic EQ | Per-band dynamics, static + dynamic EQ modes | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-hip-hop&chan=art&data1=best-free-plugins-hip-hop) |
 | Graillon 2 | Free | Vocal Processor | Pitch correction, bitcrusher, real-time operation | [Free Download](https://www.auburnsounds.com/products/Graillon.html) |
 
 ---

@@ -3,13 +3,13 @@ title: "Ampex ATR 102 Mastering Tape Recorder: Features, Pricing & Is It Worth I
 description: "The Ampex ATR-102 Mastering Tape Recorder is a plugin by Universal Audio that models the legendary Ampex ATR-102 2-track reel-to-reel — a machine that shaped."
 pubDate: '2026-04-23T18:27:56Z'
 tags: ["review", "vst-plugin", "effects", "mastering", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee&chan=art&data1=ampex-atr-102-mastering-tape-recorder-08e7ee"
 heroImage: /images/ampex-atr-102-mastering-tape-recorder-08e7ee.jpg
 score: 8.45
 draft: false
 converted: true
 ---
-**Ampex ATR 102 Mastering Tape Recorder** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee)
+**Ampex ATR 102 Mastering Tape Recorder** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee&chan=art&data1=ampex-atr-102-mastering-tape-recorder-08e7ee)
 
 ---
 
@@ -56,7 +56,7 @@ The ATR-102 has built a steady reputation in mastering and mixing communities ov
 
 Verify current pricing on the product page, as deals can change without notice.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee&chan=art&data1=ampex-atr-102-mastering-tape-recorder-08e7ee)
 
 ---
 
@@ -100,7 +100,7 @@ A: Plugin Boutique and Universal Audio occasionally offer trial options — chec
 </div>
 
 $150 in savings on a mastering-grade tape emulation with UAD-level heritage behind it doesn't happen constantly. 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee&chan=art&data1=ampex-atr-102-mastering-tape-recorder-08e7ee)
 
 ---
 

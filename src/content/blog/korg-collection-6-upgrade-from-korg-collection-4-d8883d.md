@@ -3,7 +3,7 @@ title: "34% Off KORG Collection 6 Upgrade from KORG Collection 4"
 description: "KORG Collection 6 Upgrade from Collection 4 is currently **$99.00** (~~$149.00~~) at Plugin Boutique — a 34% discount that saves you $50 on the upgrade..."
 pubDate: "2026-06-30T10:30:46Z"
 tags: ["sale", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16118-KORG-Collection-6-Upgrade-from-KORG-Collection-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-upgrade-from-korg-collection-4-d8883d"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16118-KORG-Collection-6-Upgrade-from-KORG-Collection-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-upgrade-from-korg-collection-4-d8883d&chan=art&data1=korg-collection-6-upgrade-from-korg-collection-4-d8883d"
 heroImage: "/images/korg-collection-6-upgrade-from-korg-collection-4-d8883d.jpg"
 score: 10.00
 dealPrice: "$99.00"
@@ -12,7 +12,7 @@ discount: "34% OFF"
 xText: "34% off korg collection 6. if you had 4, the per-plugin cost breakdown is absurd. this one sits in a mix like butter and moves your workflow. act fast."
 draft: false
 ---
-**TL;DR:** KORG Collection 6 Upgrade from Collection 4 is currently **$99.00** (~~$149.00~~) at Plugin Boutique — a 34% discount that saves you $50 on the upgrade path. If you're sitting on a Collection 4 license and want everything added since, this is the targeted SKU to do it. [Grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16118-KORG-Collection-6-Upgrade-from-KORG-Collection-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-upgrade-from-korg-collection-4-d8883d)
+**TL;DR:** KORG Collection 6 Upgrade from Collection 4 is currently **$99.00** (~~$149.00~~) at Plugin Boutique — a 34% discount that saves you $50 on the upgrade path. If you're sitting on a Collection 4 license and want everything added since, this is the targeted SKU to do it. [Grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16118-KORG-Collection-6-Upgrade-from-KORG-Collection-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-upgrade-from-korg-collection-4-d8883d&chan=art&data1=korg-collection-6-upgrade-from-korg-collection-4-d8883d)
 
 ---
 
@@ -62,7 +62,7 @@ A 34% discount is a meaningful reduction for KORG software. KORG doesn't run ste
 
 > Verify current pricing on the product page — deals can change without notice.
 
-[Get the KORG Collection 6 Upgrade for $99 →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16118-KORG-Collection-6-Upgrade-from-KORG-Collection-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-upgrade-from-korg-collection-4-d8883d)
+[Get the KORG Collection 6 Upgrade for $99 →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16118-KORG-Collection-6-Upgrade-from-KORG-Collection-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-upgrade-from-korg-collection-4-d8883d&chan=art&data1=korg-collection-6-upgrade-from-korg-collection-4-d8883d)
 
 ---
 
@@ -96,7 +96,7 @@ A: KORG Collection has traditionally been sold as a perpetual license. Confirm t
 
 ## Get the Deal
 
-Fifty dollars off the direct upgrade path from Collection 4 to 6 — for KORG Collection owners, that math is simple. [Grab the upgrade at Plugin Boutique for $99 →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16118-KORG-Collection-6-Upgrade-from-KORG-Collection-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-upgrade-from-korg-collection-4-d8883d)
+Fifty dollars off the direct upgrade path from Collection 4 to 6 — for KORG Collection owners, that math is simple. [Grab the upgrade at Plugin Boutique for $99 →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16118-KORG-Collection-6-Upgrade-from-KORG-Collection-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-upgrade-from-korg-collection-4-d8883d&chan=art&data1=korg-collection-6-upgrade-from-korg-collection-4-d8883d)
 
 ---
 

@@ -3,7 +3,7 @@ title: "60% Off Digital Polysynth Collection — Roland Synths ($199)"
 description: "If you only install one, make it Digital Polysynth Collection if you specifically need Roland’s D-50, JD-800, SYSTEM-1, and SYSTEM-8 software instruments..."
 pubDate: "2026-07-16T17:22:26Z"
 tags: ["sale", "effects", "bundle", "synth", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16254-Digital-Polysynth-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=digital-polysynth-collection-4e5023"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16254-Digital-Polysynth-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=digital-polysynth-collection-4e5023&chan=art&data1=digital-polysynth-collection-4e5023"
 heroImage: "/images/digital-polysynth-collection-4e5023.jpg"
 score: 9.85
 dealPrice: "$199.00"
@@ -12,7 +12,7 @@ discount: "60% OFF"
 xText: "60% off a digital polysynth bundle is a pretty wild drop: full list price → 40% of list. waiting means paying more for the same synths later. absolute sleeper deal if you’re building out your palette."
 draft: false
 ---
-**TL;DR:** If you only install one, make it Digital Polysynth Collection if you specifically need Roland’s D-50, JD-800, SYSTEM-1, and SYSTEM-8 software instruments in one purchase. Plugin Boutique lists it at ~~$499.00~~ **$199.00**, a $300 saving, or about **$49.75 per synth**. [Check the deal at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16254-Digital-Polysynth-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=digital-polysynth-collection-4e5023).
+**TL;DR:** If you only install one, make it Digital Polysynth Collection if you specifically need Roland’s D-50, JD-800, SYSTEM-1, and SYSTEM-8 software instruments in one purchase. Plugin Boutique lists it at ~~$499.00~~ **$199.00**, a $300 saving, or about **$49.75 per synth**. [Check the deal at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16254-Digital-Polysynth-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=digital-polysynth-collection-4e5023&chan=art&data1=digital-polysynth-collection-4e5023).
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="60% Off Digital Polysynth Collection — Roland Synths ($199) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1144955293&color=ff5a00"></iframe>
@@ -63,7 +63,7 @@ This is a four-synth bundle, so the deal math is **$199 ÷ 4 = $49.75 per instru
 
 The listing identifies this as a Roland Lifetime Key purchase with free updates, but buyers should confirm account, activation, and licence-transfer details on the product page. Verify current pricing on the product page — deals can change.
 
-[See the current Digital Polysynth Collection price](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16254-Digital-Polysynth-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=digital-polysynth-collection-4e5023).
+[See the current Digital Polysynth Collection price](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16254-Digital-Polysynth-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=digital-polysynth-collection-4e5023&chan=art&data1=digital-polysynth-collection-4e5023).
 
 ## Alternatives at a Glance
 
@@ -95,7 +95,7 @@ A: The product page lists Windows 10 or Windows 11, plus macOS 11 or later, and 
 
 ## Get the Deal
 
-The headline number is simple: **$300 off**, reducing Digital Polysynth Collection from ~~$499.00~~ to **$199.00**. [Get the 60% off deal at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16254-Digital-Polysynth-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=digital-polysynth-collection-4e5023).
+The headline number is simple: **$300 off**, reducing Digital Polysynth Collection from ~~$499.00~~ to **$199.00**. [Get the 60% off deal at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16254-Digital-Polysynth-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=digital-polysynth-collection-4e5023&chan=art&data1=digital-polysynth-collection-4e5023).
 
 ## Is This Deal Worth It?
 

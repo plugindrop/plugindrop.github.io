@@ -3,13 +3,13 @@ title: "MC2000 Multi Band Compressor Native v7: Features, Pricing & Is It Worth 
 description: "The MC2000 is a multiband compressor plugin developed by McDSP, a company with a long-standing reputation in. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:27:52Z'
 tags: ["review", "vst-plugin", "effects", "compressor", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8949-MC2000-Multi-Band-Compressor-Native-v7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mc2000-multi-band-compressor-native-v7-aef471"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8949-MC2000-Multi-Band-Compressor-Native-v7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mc2000-multi-band-compressor-native-v7-aef471&chan=art&data1=mc2000-multi-band-compressor-native-v7-aef471"
 heroImage: /images/mc2000-multi-band-compressor-native-v7-aef471.jpg
 score: 8.62
 draft: false
 converted: true
 ---
-**MC2000 Multi Band Compressor Native v7** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8949-MC2000-Multi-Band-Compressor-Native-v7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mc2000-multi-band-compressor-native-v7-aef471)
+**MC2000 Multi Band Compressor Native v7** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8949-MC2000-Multi-Band-Compressor-Native-v7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mc2000-multi-band-compressor-native-v7-aef471&chan=art&data1=mc2000-multi-band-compressor-native-v7-aef471)
 
 ---
 
@@ -44,7 +44,7 @@ The MC2000 is a multiband compressor plugin developed by McDSP, a company with a
 
 Verify current pricing on the product page — deals can change without notice.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8949-MC2000-Multi-Band-Compressor-Native-v7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mc2000-multi-band-compressor-native-v7-aef471)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8949-MC2000-Multi-Band-Compressor-Native-v7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mc2000-multi-band-compressor-native-v7-aef471&chan=art&data1=mc2000-multi-band-compressor-native-v7-aef471)
 
 ---
 
@@ -80,7 +80,7 @@ A: Check the McDSP or Plugin Boutique product page for trial availability — so
 
 A pro multiband compressor from one of audio's more respected developers. At $79, it's priced in range with tools that typically cost more.
 
-[Pick up MC2000 Multi Band Compressor Native v7 for $79 on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8949-MC2000-Multi-Band-Compressor-Native-v7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mc2000-multi-band-compressor-native-v7-aef471)
+[Pick up MC2000 Multi Band Compressor Native v7 for $79 on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8949-MC2000-Multi-Band-Compressor-Native-v7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mc2000-multi-band-compressor-native-v7-aef471&chan=art&data1=mc2000-multi-band-compressor-native-v7-aef471)
 
 ---
 

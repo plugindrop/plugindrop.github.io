@@ -3,13 +3,13 @@ title: "Scaler 3, Scaler EQ, DC Snare & more: Features, Pricing & Is It Worth It
 description: "Scaler 3 is a music theory and composition tool developed by Scaler Music (formerly Plugin Boutique's in-house brand). Check current pricing at Plugin Boutique."
 pubDate: '2026-04-03T08:32:35Z'
 tags: ["review", "composing", "drums", "midi", "tools", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9&a_aid=69cb95abe1763&chan=art&data1=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9"
 heroImage: /images/save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9.jpg
 score: 6.26
 draft: false
 converted: true
 ---
-**Scaler 3, Scaler EQ, DC Snare & more** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9&a_aid=69cb95abe1763)
+**Scaler 3, Scaler EQ, DC Snare & more** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9&a_aid=69cb95abe1763&chan=art&data1=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9)
 
 ---
 
@@ -46,7 +46,7 @@ Scaler EQ and DC Snares round out this sale. Scaler EQ brings a musically-inform
 
 **** Verify current pricing on the product page — deals can change.
 
-[Check pricing and grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9&a_aid=69cb95abe1763).
+[Check pricing and grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9&a_aid=69cb95abe1763&chan=art&data1=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9).
 
 ## Alternatives at a Glance
 
@@ -73,7 +73,7 @@ A: Yes. Scaler 3 is designed to route MIDI output to any virtual instrument in y
 
 If you've been waiting for a price drop on Scaler's lineup, this is the one.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9&a_aid=69cb95abe1763&chan=art&data1=save-up-to-54-on-scaler-3-scaler-eq-dc-snare-more-2f20d9)
 
 ---
 

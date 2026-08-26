@@ -3,13 +3,13 @@ title: "UVI offers 60% off on all Quadra: Features, Pricing & Is It Worth It? (2
 description: "Quadra is a series of four multi-instrument and sequence designer plugins from UVI, the Paris-based developer known. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-03T09:43:31Z'
 tags: ["review", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=uvi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a"
+affiliate: "https://www.pluginboutique.com/search?q=uvi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a&chan=art&data1=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a"
 heroImage: /images/uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a.webp
 score: 6.58
 draft: true
 converted: true
 ---
-** [Check the current price here.](https://www.pluginboutique.com/search?q=uvi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a)
+** [Check the current price here.](https://www.pluginboutique.com/search?q=uvi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a&chan=art&data1=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a)
 
 ---
 
@@ -62,7 +62,7 @@ A: Check UVI's official website for their current return and refund policy befor
 
 ## Where to Buy
 
-  [Pick up the Quadra deal here](https://www.pluginboutique.com/search?q=uvi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a).
+  [Pick up the Quadra deal here](https://www.pluginboutique.com/search?q=uvi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a&chan=art&data1=uvi-offers-60-off-on-all-quadra-until-april-6th-478c4a).
 
 ---
 

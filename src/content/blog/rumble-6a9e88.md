@@ -3,7 +3,7 @@ title: "50% Off Rumble"
 description: "Rumble is currently 50% off at Plugin Boutique — drop from ~~$199~~ to **$99**. That's a $100 saving on a synthesizer built for deep, textured sound..."
 pubDate: "2026-06-10T22:57:03Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17445-Rumble?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rumble-6a9e88"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17445-Rumble?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rumble-6a9e88&chan=art&data1=rumble-6a9e88"
 heroImage: "/images/rumble-6a9e88.jpg"
 score: 10.00
 dealPrice: "$99.00"
@@ -12,7 +12,7 @@ discount: "50% OFF"
 xText: "50% off a brand new release is basically unheard of in plugin land. rumble just did it anyway. worth the attention or nah"
 draft: true
 ---
-**TL;DR:** Rumble is currently 50% off at Plugin Boutique — drop from ~~$199~~ to **$99**. That's a $100 saving on a synthesizer built for deep, textured sound design. [Grab Rumble at the deal price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17445-Rumble?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rumble-6a9e88)
+**TL;DR:** Rumble is currently 50% off at Plugin Boutique — drop from ~~$199~~ to **$99**. That's a $100 saving on a synthesizer built for deep, textured sound design. [Grab Rumble at the deal price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17445-Rumble?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rumble-6a9e88&chan=art&data1=rumble-6a9e88)
 
 ---
 
@@ -58,7 +58,7 @@ A 50% cut on a synth instrument is a meaningful discount — many established sy
 
 > Note: Verify current pricing on the product page — deals can change.
 
-[Get Rumble for $99 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17445-Rumble?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rumble-6a9e88)
+[Get Rumble for $99 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17445-Rumble?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rumble-6a9e88&chan=art&data1=rumble-6a9e88)
 
 ---
 
@@ -94,7 +94,7 @@ A: Plugin Boutique's refund policy applies — check their official terms on the
 
 Rumble is down to **$99** from ~~$199~~ — a clean 50% saving with no coupon code needed. Deals at this discount level don't sit around indefinitely.
 
-[Grab Rumble at 50% off on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17445-Rumble?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rumble-6a9e88)
+[Grab Rumble at 50% off on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17445-Rumble?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rumble-6a9e88&chan=art&data1=rumble-6a9e88)
 
 ## Related Guides
 

@@ -3,13 +3,13 @@ title: "Scaler EQ: Features, Pricing & Is It Worth It? (2026)"
 description: "Scaler EQ is a harmonic equalizer developed by ScalerAudio — the same team behind the widely used Scaler 2 chord and. Check current pricing at Plugin Boutique."
 pubDate: '2026-05-02T15:36:43Z'
 tags: ["review", "vst-plugin", "effects", "eq", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-b8b09b"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-b8b09b&chan=art&data1=scaler-eq-b8b09b"
 heroImage: /images/scaler-eq-b8b09b.jpg
 score: 10.00
 draft: false
 converted: true
 ---
-**Scaler EQ** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-b8b09b)
+**Scaler EQ** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-b8b09b&chan=art&data1=scaler-eq-b8b09b)
 
 ---
 
@@ -44,7 +44,7 @@ Scaler EQ is a harmonic equalizer developed by ScalerAudio — the same team beh
 
 Plugin Boutique runs time-limited flash deals on their own-label products several times a year. 
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-b8b09b)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-b8b09b&chan=art&data1=scaler-eq-b8b09b)
 
 ---
 
@@ -78,7 +78,7 @@ A: Pricing varies — check the current price on the Plugin Boutique product pag
 
 ## Where to Buy
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-b8b09b)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-b8b09b&chan=art&data1=scaler-eq-b8b09b)
 
 ---
 

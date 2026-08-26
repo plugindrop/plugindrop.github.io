@@ -3,13 +3,13 @@ title: "SSL autoSeries Bundle: Features, Pricing & Is It Worth It? (2026)"
 description: "SSL autoSeries Bundle is available at Plugin Boutique. Check current pricing and reviews on the product page."
 pubDate: '2026-05-01T16:18:25Z'
 tags: ["review", "bundle", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16626-SSL-autoSeries-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-autoseries-bundle-c15796"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16626-SSL-autoSeries-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-autoseries-bundle-c15796&chan=art&data1=ssl-autoseries-bundle-c15796"
 heroImage: /images/ssl-autoseries-bundle-c15796.jpg
 score: 10.00
 draft: false
 converted: true
 ---
-**SSL autoSeries Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16626-SSL-autoSeries-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-autoseries-bundle-c15796)
+**SSL autoSeries Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16626-SSL-autoSeries-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-autoseries-bundle-c15796&chan=art&data1=ssl-autoseries-bundle-c15796)
 
 ---
 
@@ -54,7 +54,7 @@ SSL plugins at Plugin Boutique don't see 34% discounts as routine events. Their 
 
 *Price verified at publication. Check the link for current availability.*
 
-[→ Get SSL autoSeries Bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16626-SSL-autoSeries-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-autoseries-bundle-c15796)
+[→ Get SSL autoSeries Bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16626-SSL-autoSeries-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-autoseries-bundle-c15796&chan=art&data1=ssl-autoseries-bundle-c15796)
 
 ---
 
@@ -85,7 +85,7 @@ A: Check the official site for current system requirements and supported operati
 
 ##  SSL discounts at this depth don't appear on a predictable schedule.
 
-[→ Get SSL autoSeries Bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16626-SSL-autoSeries-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-autoseries-bundle-c15796)
+[→ Get SSL autoSeries Bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16626-SSL-autoSeries-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-autoseries-bundle-c15796&chan=art&data1=ssl-autoseries-bundle-c15796)
 
 ---
 

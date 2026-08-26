@@ -43,7 +43,7 @@ heroImage: '/images/when-does-fabfilter-total-bundle-go-on-sale.jpg'
 > **Buying tip:** If you want 3+ FabFilter plugins, the Total Bundle on sale is almost always better value than buying individually. FabFilter also offers upgrade pricing if you already own some plugins — factor that into your decision.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=when-does-fabfilter-total-bundle-go-on-sale)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 

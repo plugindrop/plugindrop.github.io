@@ -3,13 +3,13 @@ title: "DC Snares: Features, Pricing & Is It Worth It? (2026)"
 description: "DC Snares is a dedicated snare drum virtual instrument available at Plugin Boutique. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T23:42:52Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12467-DC-Snares?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-e5cfb0"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12467-DC-Snares?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-e5cfb0&chan=art&data1=dc-snares-e5cfb0"
 heroImage: /images/dc-snares-e5cfb0.jpg
 score: 6.65
 draft: false
 converted: true
 ---
-**DC Snares** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12467-DC-Snares?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-e5cfb0)
+**DC Snares** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12467-DC-Snares?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-e5cfb0&chan=art&data1=dc-snares-e5cfb0)
 
 ---
 
@@ -40,7 +40,7 @@ DC Snares is a dedicated snare drum virtual instrument available at Plugin Bouti
 
  Plugin Boutique runs periodic promotional deals across its catalog; if you've been sitting on this one, this is a concrete reason to act. Note that deal pricing can expire without notice.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12467-DC-Snares?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-e5cfb0)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12467-DC-Snares?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-e5cfb0&chan=art&data1=dc-snares-e5cfb0)
 
 ---
 
@@ -76,7 +76,7 @@ A: Refund and returns policies vary — check Plugin Boutique's official terms o
 
 DC Snares is right now — $29 instead of the regular $49. That's 
 
-[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12467-DC-Snares?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-e5cfb0)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12467-DC-Snares?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-e5cfb0&chan=art&data1=dc-snares-e5cfb0)
 
 ---
 

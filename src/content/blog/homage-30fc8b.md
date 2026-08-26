@@ -3,7 +3,7 @@ title: "28% Off Homage"
 description: "Homage is currently on sale for **$34.00** (~~$47.00~~) at Plugin Boutique — a 28% saving on a vintage-flavored Kontakt instrument. That's $13 off a..."
 pubDate: "2026-06-01T02:46:30Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15886-Homage?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=homage-30fc8b"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15886-Homage?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=homage-30fc8b&chan=art&data1=homage-30fc8b"
 heroImage: "/images/homage-30fc8b.jpg"
 score: 9.03
 dealPrice: "$34.00"
@@ -12,7 +12,7 @@ discount: "28% OFF"
 xText: "28% off homage—lowest price i've seen. whether you use it for tape warmth or that transformer stage, this thing just sits right in a mix. if you've been waiting to pull the trigger, now's it."
 draft: true
 ---
-**TL;DR:** Homage is currently on sale for **$34.00** (~~$47.00~~) at Plugin Boutique — a 28% saving on a vintage-flavored Kontakt instrument. That's $13 off a library built for producers chasing classic synth character. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15886-Homage?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=homage-30fc8b)
+**TL;DR:** Homage is currently on sale for **$34.00** (~~$47.00~~) at Plugin Boutique — a 28% saving on a vintage-flavored Kontakt instrument. That's $13 off a library built for producers chasing classic synth character. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15886-Homage?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=homage-30fc8b&chan=art&data1=homage-30fc8b)
 
 ---
 
@@ -56,7 +56,7 @@ Plugin Boutique doesn't run deep discounts on every instrument year-round — wh
 
 > Verify current pricing on the product page — deals can change.
 
-[Get Homage for $34.00 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15886-Homage?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=homage-30fc8b)
+[Get Homage for $34.00 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15886-Homage?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=homage-30fc8b&chan=art&data1=homage-30fc8b)
 
 ---
 
@@ -92,7 +92,7 @@ A: Deal end dates are not always published in advance. Treat time-limited sales 
 
 $13 off a focused vintage synth Kontakt instrument is a straightforward win for producers already in the Kontakt ecosystem. At $34, the barrier to adding a new sound palette to your toolkit is low.
 
-[Claim the 28% discount on Homage at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15886-Homage?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=homage-30fc8b)
+[Claim the 28% discount on Homage at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15886-Homage?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=homage-30fc8b&chan=art&data1=homage-30fc8b)
 
 ## Related Guides
 

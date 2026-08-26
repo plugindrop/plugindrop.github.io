@@ -3,13 +3,13 @@ title: "Addictive Drums 2 Custom XL Collection: Features, Pricing & Is It Worth 
 description: "Addictive Drums 2 Custom XL Collection is available at Plugin Boutique. Check current pricing and reviews on the product page."
 pubDate: '2026-04-26T12:46:24Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xl-collection-849fe6"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xl-collection-849fe6&chan=art&data1=addictive-drums-2-custom-xl-collection-849fe6"
 heroImage: /images/addictive-drums-2-custom-xl-collection-849fe6.jpg
 score: 9.45
 draft: false
 converted: true
 ---
-**Addictive Drums 2 Custom XL Collection** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xl-collection-849fe6)
+**Addictive Drums 2 Custom XL Collection** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xl-collection-849fe6&chan=art&data1=addictive-drums-2-custom-xl-collection-849fe6)
 
 ---
 
@@ -45,7 +45,7 @@ Addictive Drums 2 has been a consistent thread recommendation across production 
 
  Verify current pricing on the product page, as deals can change without notice.
 
-[Check the current deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xl-collection-849fe6)
+[Check the current deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xl-collection-849fe6&chan=art&data1=addictive-drums-2-custom-xl-collection-849fe6)
 
 ## Alternatives at a Glance
 
@@ -73,7 +73,7 @@ A: The MIDI patterns can be dragged into your DAW and played back on other instr
 
 ## Where to Buy
 
-[Get Addictive Drums 2 Custom XL Collection at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xl-collection-849fe6)
+[Get Addictive Drums 2 Custom XL Collection at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-custom-xl-collection-849fe6&chan=art&data1=addictive-drums-2-custom-xl-collection-849fe6)
 
 ---
 

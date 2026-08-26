@@ -3,13 +3,13 @@ title: "MELLOW 2: Features, Pricing & Is It Worth It? (2026)"
 description: "MELLOW 2 is a virtual acoustic double bass instrument from UJAM, part of their established Virtual Bassist series. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-24T02:59:17Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mellow-2-0ba4d0"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mellow-2-0ba4d0&chan=art&data1=mellow-2-0ba4d0"
 heroImage: /images/mellow-2-0ba4d0.jpg
 score: 7.35
 draft: false
 converted: true
 ---
-**MELLOW 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mellow-2-0ba4d0)
+**MELLOW 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mellow-2-0ba4d0&chan=art&data1=mellow-2-0ba4d0)
 
 ---
 
@@ -35,7 +35,7 @@ MELLOW 2 is a virtual acoustic double bass instrument from UJAM, part of their e
 
 UJAM runs promotional discounts across their Virtual Bassist series several times per year, often tied to seasonal sales events. At $29, this sits among the sharper single-title discounts they run — but whether it returns to this price point soon isn't guaranteed, which is worth factoring into your timing.
 
-[Check the current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mellow-2-0ba4d0)
+[Check the current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mellow-2-0ba4d0&chan=art&data1=mellow-2-0ba4d0)
 
 ## Alternatives at a Glance
 
@@ -63,7 +63,7 @@ A: Yes. MELLOW 2 includes MIDI drag-and-drop, so you can export any phrase direc
 
 ## Where to Buy
 
-$90  [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mellow-2-0ba4d0)
+$90  [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mellow-2-0ba4d0&chan=art&data1=mellow-2-0ba4d0)
 
 ---
 

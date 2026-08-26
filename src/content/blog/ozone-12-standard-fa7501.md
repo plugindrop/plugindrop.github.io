@@ -3,7 +3,7 @@ title: "23% Off Ozone 12 Standard"
 description: "iZotope's Ozone 12 Standard is currently 23% off at Plugin Boutique — down from ~~$240.90~~ to just **$185.90**. That's over $55 back in your pocket for..."
 pubDate: "2026-05-05T18:44:04Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ozone-12-standard-fa7501"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ozone-12-standard-fa7501&chan=art&data1=ozone-12-standard-fa7501"
 heroImage: "/images/ozone-12-standard-fa7501.jpg"
 score: 10.00
 dealPrice: "$185.9"
@@ -12,7 +12,7 @@ discount: "23% OFF"
 xText: "ozone 12 standard 23% off is rare. this plugin makes your mixes sit right, everything just sounds cleaner. iZotope doesn't go this hard on pricing often. if you've been eyeing it, now's the moment"
 draft: false
 ---
-**TL;DR:** iZotope's Ozone 12 Standard is currently 23% off at Plugin Boutique — down from ~~$240.90~~ to just **$185.90**. That's over $55 back in your pocket for one of the most recognized mastering suites in the game. [Grab it here before the price goes back up.](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ozone-12-standard-fa7501)
+**TL;DR:** iZotope's Ozone 12 Standard is currently 23% off at Plugin Boutique — down from ~~$240.90~~ to just **$185.90**. That's over $55 back in your pocket for one of the most recognized mastering suites in the game. [Grab it here before the price goes back up.](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ozone-12-standard-fa7501&chan=art&data1=ozone-12-standard-fa7501)
 
 ---
 
@@ -63,7 +63,7 @@ iZotope does run periodic sales, but 23% off Standard isn't an everyday occurren
 
 > Verify current pricing on the product page — deals can change.
 
-[Check current pricing and buy on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ozone-12-standard-fa7501)
+[Check current pricing and buy on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ozone-12-standard-fa7501&chan=art&data1=ozone-12-standard-fa7501)
 
 ---
 
@@ -99,7 +99,7 @@ A: Check the official product page for current macOS/Windows compatibility and D
 
 23% off Ozone 12 Standard is a solid window to pick up one of the most established mastering suites at a meaningful discount. At $185.90, the math works out well for anyone who's been sitting on the fence.
 
-[→ Get Ozone 12 Standard for $185.90 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ozone-12-standard-fa7501)
+[→ Get Ozone 12 Standard for $185.90 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ozone-12-standard-fa7501&chan=art&data1=ozone-12-standard-fa7501)
 
 ## Related Guides
 

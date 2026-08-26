@@ -3,7 +3,7 @@ title: "87% Off SSL Native Bus Compressor 2"
 description: "SSL Native Bus Compressor 2 is now $19 (~~$149~~) at Plugin Boutique — roughly 87% off one of the most iconic mix bus compressors in software form..."
 pubDate: "2026-05-13T09:40:57Z"
 tags: ["sale", "vst-plugin", "effects", "compressor", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-50a0ef"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-50a0ef&chan=art&data1=ssl-native-bus-compressor-2-50a0ef"
 heroImage: "/images/ssl-native-bus-compressor-2-50a0ef.jpg"
 score: 9.84
 dealPrice: "$19"
@@ -12,7 +12,7 @@ discount: "87% OFF"
 xText: "ssl bus compressor 2 launched today and honestly it's wild that it's already discounted. 87% off doesn't sound like much but ssl never goes on sale. this is the glue your mix is missing."
 draft: true
 ---
-**TL;DR:** SSL Native Bus Compressor 2 is now $19 (~~$149~~) at Plugin Boutique — roughly 87% off one of the most iconic mix bus compressors in software form, built by the original hardware manufacturer. [Grab it at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-50a0ef)
+**TL;DR:** SSL Native Bus Compressor 2 is now $19 (~~$149~~) at Plugin Boutique — roughly 87% off one of the most iconic mix bus compressors in software form, built by the original hardware manufacturer. [Grab it at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-50a0ef&chan=art&data1=ssl-native-bus-compressor-2-50a0ef)
 
 ---
 
@@ -63,7 +63,7 @@ SSL's Native lineup doesn't see aggressive discounting often — any reduction h
 
 Verify current pricing on the product page — deals can change without notice.
 
-[Get SSL Native Bus Compressor 2 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-50a0ef)
+[Get SSL Native Bus Compressor 2 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-50a0ef&chan=art&data1=ssl-native-bus-compressor-2-50a0ef)
 
 ---
 
@@ -99,7 +99,7 @@ A: This specific discount is available through Plugin Boutique. Always verify av
 
 SSL Native Bus Compressor 2 is currently $19 — a ~$139 reduction off the standard price, direct from the original hardware manufacturer's software lineup. If authentic SSL bus compression is on your shortlist, this is a window worth acting on.
 
-[Grab SSL Native Bus Compressor 2 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-50a0ef)
+[Grab SSL Native Bus Compressor 2 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-50a0ef&chan=art&data1=ssl-native-bus-compressor-2-50a0ef)
 
 ## Related Guides
 

@@ -3,13 +3,13 @@ title: "Cooker: Features, Pricing & Is It Worth It? (2026)"
 description: "808 Cooker is a dedicated virtual instrument plugin built around the iconic 808-style bass and kick sounds that. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T23:42:51Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11027-808-Cooker?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cooker-e7c691"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11027-808-Cooker?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cooker-e7c691&chan=art&data1=cooker-e7c691"
 heroImage: /images/cooker-e7c691.jpg
 score: 6.65
 draft: false
 converted: true
 ---
-**Cooker** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11027-808-Cooker?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cooker-e7c691)
+**Cooker** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11027-808-Cooker?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cooker-e7c691&chan=art&data1=cooker-e7c691)
 
 ---
 
@@ -48,7 +48,7 @@ The 808 bass — rooted in the Roland TR-808 drum machine — has been central t
 
 *Verify current pricing on the product page — deals can change without notice.*
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11027-808-Cooker?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cooker-e7c691)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11027-808-Cooker?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cooker-e7c691&chan=art&data1=cooker-e7c691)
 
 ---
 
@@ -79,7 +79,7 @@ A: The 808 bass is foundational in trap and hip-hop, but it appears widely in dr
 
 ##  That's the kind of price where you buy it and figure out where it fits later.
 
-[Lock in the $18 deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11027-808-Cooker?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cooker-e7c691)
+[Lock in the $18 deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11027-808-Cooker?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cooker-e7c691&chan=art&data1=cooker-e7c691)
 
 ---
 

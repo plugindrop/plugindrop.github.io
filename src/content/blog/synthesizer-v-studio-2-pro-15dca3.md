@@ -4,7 +4,7 @@ description: "Synthesizer V Studio 2 Pro is down to **$79** from ~~$99~~ at Plug
 pubDate: "2026-07-16T18:19:41Z"
 saleExpiry: "2026-07-24"
 tags: ["sale", "synth", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthesizer-v-studio-2-pro-15dca3"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthesizer-v-studio-2-pro-15dca3&chan=art&data1=synthesizer-v-studio-2-pro-15dca3"
 heroImage: "/images/synthesizer-v-studio-2-pro-15dca3.jpg"
 score: 8.12
 dealPrice: "$79.00"
@@ -15,7 +15,7 @@ draft: true
 ---
 If you only need one AI vocal synthesizer this year, Synthesizer V Studio 2 Pro is the one to check out — Dreamtonics' flagship is currently 20% off at Plugin Boutique.
 
-**TL;DR:** Synthesizer V Studio 2 Pro is down to **$79** from ~~$99~~ at Plugin Boutique, a 20% discount ($20 off). It's an AI-driven vocal synthesis application for producing singing vocals from text and note input, with DAW plugin support. [Get the deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthesizer-v-studio-2-pro-15dca3).
+**TL;DR:** Synthesizer V Studio 2 Pro is down to **$79** from ~~$99~~ at Plugin Boutique, a 20% discount ($20 off). It's an AI-driven vocal synthesis application for producing singing vocals from text and note input, with DAW plugin support. [Get the deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthesizer-v-studio-2-pro-15dca3&chan=art&data1=synthesizer-v-studio-2-pro-15dca3).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/m3hI0YzucRw" title="20% Off Synthesizer V Studio 2 Pro — AI Vocal Synthesis ($79) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -58,7 +58,7 @@ Hobbyists who only need occasional vocal chops may find the free Basic edition s
 
 Plugin Boutique regularly runs promotions on Dreamtonics products, though the frequency and depth of Synthesizer V discounts vary by campaign. Verify current pricing on the product page — deals can change.
 
-[Grab Synthesizer V Studio 2 Pro at 20% off](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthesizer-v-studio-2-pro-15dca3).
+[Grab Synthesizer V Studio 2 Pro at 20% off](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthesizer-v-studio-2-pro-15dca3&chan=art&data1=synthesizer-v-studio-2-pro-15dca3).
 
 ## Alternatives at a Glance
 
@@ -88,7 +88,7 @@ A: Check the official product page for current Windows/macOS system requirements
 
 $20 off Synthesizer V Studio 2 Pro brings it down to $79 at Plugin Boutique, a straightforward 20% saving on Dreamtonics' full-featured vocal synthesis app.
 
-[Get Synthesizer V Studio 2 Pro now](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthesizer-v-studio-2-pro-15dca3).
+[Get Synthesizer V Studio 2 Pro now](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthesizer-v-studio-2-pro-15dca3&chan=art&data1=synthesizer-v-studio-2-pro-15dca3).
 
 ## Is This Deal Worth It?
 

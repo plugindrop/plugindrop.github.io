@@ -19,10 +19,10 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-Q 4 | $179 | Surgical precision, full pro workflow | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
-| TDR Nova | Free | Dynamic EQ at no cost | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-vocals-plugins) |
-| iZotope Neutron 4 | $249 | AI-assisted EQ, mix-context shaping | [Official Site](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
-| iZotope Nectar 4 | $249 | Vocal-dedicated full processing chain | [Official Site](https://www.pluginboutique.com/search?q=iZotope%20Nectar&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-vocals-plugins) |
+| FabFilter Pro-Q 4 | $179 | Surgical precision, full pro workflow | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins) |
+| TDR Nova | Free | Dynamic EQ at no cost | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-vocals-plugins&chan=art&data1=how-to-eq-vocals-plugins) |
+| iZotope Neutron 4 | $249 | AI-assisted EQ, mix-context shaping | [Official Site](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins) |
+| iZotope Nectar 4 | $249 | Vocal-dedicated full processing chain | [Official Site](https://www.pluginboutique.com/search?q=iZotope%20Nectar&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-vocals-plugins&chan=art&data1=how-to-eq-vocals-plugins) |
 
 ---
 
@@ -115,7 +115,7 @@ TDR Nova is the most consistently recommended free dynamic EQ across KVR's plugi
 
 **Best for:** Producers starting out, budget workflows, transparent dynamic EQ on any vocal
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-vocals-plugins)
+[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-vocals-plugins&chan=art&data1=how-to-eq-vocals-plugins)
 
 ---
 
@@ -132,7 +132,7 @@ FabFilter Pro-Q 4 is the most-recommended paid EQ plugin on r/edmproduction, r/m
 
 **Best for:** Professional vocal work, surgical problem-solving, mid/side processing, any workflow that needs to scale with developing skills
 
-[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins)
 
 ---
 
@@ -149,7 +149,7 @@ Neutron 4 is not a standalone EQ — it's a full mixing channel strip where the 
 
 **Best for:** Producers who want AI-assisted starting points, full channel-strip mixing workflow, EQ decisions informed by the full mix context
 
-[→ Get iZotope Neutron 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763)
+[→ Get iZotope Neutron 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins)
 
 ---
 
@@ -163,7 +163,7 @@ Neutron 4 is not a standalone EQ — it's a full mixing channel strip where the 
 - **Price:** $249
 - **Why upgrade:** Where Neutron 4 is a general-purpose mixing channel strip applied to any instrument, Nectar 4 is built exclusively for vocal production. Its EQ, compression, de-essing, breath control, reverb, and pitch correction modules are designed as a single integrated vocal workflow. The Unmask feature — which uses inter-plugin communication to carve frequency space for the lead vocal relative to other tracks — addresses the exact mix competition problem that Neutron handles only partially for vocal-centric sessions.
 
-[→ Get iZotope Nectar 4 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=iZotope%20Nectar&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-vocals-plugins)
+[→ Get iZotope Nectar 4 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=iZotope%20Nectar&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-vocals-plugins&chan=art&data1=how-to-eq-vocals-plugins)
 
 ---
 
@@ -175,7 +175,7 @@ Neutron 4 is not a standalone EQ — it's a full mixing channel strip where the 
 - **Price:** $179
 - **Why upgrade:** TDR Nova's dynamic EQ is strong for a free plugin, but Pro-Q 4's spectrum collision detection, per-band dynamic control with configurable range, attack/release, and linear phase mode represent capabilities that Nova approximates rather than fully delivers. For professional vocal work where the performance demands maximum precision, the gap between the two is meaningful.
 
-[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins)
 
 ---
 
@@ -183,10 +183,10 @@ Neutron 4 is not a standalone EQ — it's a full mixing channel strip where the 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| TDR Nova | Free | Dynamic EQ | 4 dynamic bands, HPF, parallel mode, Linux support | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-vocals-plugins) |
-| FabFilter Pro-Q 4 | $179 | Linear/Dynamic EQ | 24 bands, collision detection, linear phase, M/S | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
-| iZotope Neutron 4 | $249 | AI Channel Strip | AI Track Assistant, masking meter, Relay system | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
-| iZotope Nectar 4 | $249 | Vocal Processing Suite | Vocal Assistant, Unmask, integrated vocal chain | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Nectar&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-vocals-plugins) |
+| TDR Nova | Free | Dynamic EQ | 4 dynamic bands, HPF, parallel mode, Linux support | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-vocals-plugins&chan=art&data1=how-to-eq-vocals-plugins) |
+| FabFilter Pro-Q 4 | $179 | Linear/Dynamic EQ | 24 bands, collision detection, linear phase, M/S | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins) |
+| iZotope Neutron 4 | $249 | AI Channel Strip | AI Track Assistant, masking meter, Relay system | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins) |
+| iZotope Nectar 4 | $249 | Vocal Processing Suite | Vocal Assistant, Unmask, integrated vocal chain | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Nectar&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-vocals-plugins&chan=art&data1=how-to-eq-vocals-plugins) |
 
 ---
 
@@ -231,7 +231,7 @@ A: There is no universal starting curve — every voice, microphone, and room pr
 
 The process matters more than the plugin — the six steps in this guide work with any competent EQ, and TDR Nova proves that a free tool can execute every one of them at a professional level. When precision, collision detection, and dynamic band control become the limiting factor, FabFilter Pro-Q 4 is the upgrade that producer communities have returned to consistently for years, and for good reason.
 
-[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) | [→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-vocals-plugins)
+[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins) | [→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-vocals-plugins&chan=art&data1=how-to-eq-vocals-plugins)
 
 ---
 

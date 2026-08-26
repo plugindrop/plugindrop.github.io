@@ -3,13 +3,13 @@ title: "Voxmotive Soundbox Instrument: Features, Pricing & Is It Worth It? (2026
 description: "Voxmotive Soundbox Instrument is a virtual instrument plugin developed by Voxmotive and sold through Plugin Boutique. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-28T00:50:05Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/13304-Voxmotive-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=voxmotive-soundbox-instrument-f80b62"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/13304-Voxmotive-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=voxmotive-soundbox-instrument-f80b62&chan=art&data1=voxmotive-soundbox-instrument-f80b62"
 heroImage: /images/voxmotive-soundbox-instrument-f80b62.jpg
 score: 7.03
 draft: false
 converted: true
 ---
-**Voxmotive Soundbox Instrument** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/13304-Voxmotive-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=voxmotive-soundbox-instrument-f80b62)
+**Voxmotive Soundbox Instrument** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/13304-Voxmotive-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=voxmotive-soundbox-instrument-f80b62&chan=art&data1=voxmotive-soundbox-instrument-f80b62)
 
 ---
 
@@ -43,7 +43,7 @@ Voxmotive Soundbox Instrument is a virtual instrument plugin developed by Voxmot
 
  Voxmotive is not among the most heavily discounted developers in the Plugin Boutique catalogue on a routine basis, which makes a 35% window notable when it appears.
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/13304-Voxmotive-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=voxmotive-soundbox-instrument-f80b62)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/13304-Voxmotive-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=voxmotive-soundbox-instrument-f80b62&chan=art&data1=voxmotive-soundbox-instrument-f80b62)
 
 ---
 
@@ -76,7 +76,7 @@ A: Compatibility details including supported plugin formats are listed on the Pl
 
 Voxmotive Soundbox Instrument is currently $27.95 — its regular $43.00 price. 
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/13304-Voxmotive-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=voxmotive-soundbox-instrument-f80b62)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/13304-Voxmotive-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=voxmotive-soundbox-instrument-f80b62&chan=art&data1=voxmotive-soundbox-instrument-f80b62)
 
 ---
 

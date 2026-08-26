@@ -46,7 +46,7 @@ heroImage: '/images/when-does-modo-bass-go-on-sale.jpg'
 > **Buying tip:** IK Multimedia and Plugin Boutique run MODO BASS 2 sales aggressively. Black Friday at PB consistently hits $49.99 (75% off). IK Custom Shop promotions can also surface unexpected discounts. At $49.99 on BF, this is exceptional value for a physically-modeled bass instrument.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/53-Bass-Instruments/10065-MODO-BASS-2?a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/53-Bass-Instruments/10065-MODO-BASS-2?a_aid=69cb95abe1763&chan=art&data1=when-does-modo-bass-go-on-sale)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 

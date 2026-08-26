@@ -3,13 +3,13 @@ title: "Arturia V Collection 11 Pro — 45 Instruments, Full Breakdown: Features
 description: "Arturia V Collection is a bundle of software recreations of classic hardware instruments. Check current pricing at Plugin Boutique."
 pubDate: '2026-03-28T10:30:00Z'
 tags: ["review", "synth", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-v-collection-10-sale-50-off"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-v-collection-10-sale-50-off&chan=art&data1=arturia-v-collection-10-sale-50-off"
 heroImage: /images/arturia-v-collection-10-sale-50-off.jpg
 score: 7.98
 draft: false
 converted: true
 ---
-**Arturia V Collection 11 Pro — 45 Instruments, Full Breakdown** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-v-collection-10-sale-50-off)
+**Arturia V Collection 11 Pro — 45 Instruments, Full Breakdown** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-v-collection-10-sale-50-off&chan=art&data1=arturia-v-collection-10-sale-50-off)
 
 ---
 
@@ -65,7 +65,7 @@ V Collection is a consistent recommendation in "best plugin bundle" threads on R
 
 ** They typically run major sales at Black Friday and occasionally mid-year. Upgrade pricing for existing Arturia customers can significantly reduce the entry cost.
 
-[Check current pricing on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-v-collection-10-sale-50-off)
+[Check current pricing on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-v-collection-10-sale-50-off&chan=art&data1=arturia-v-collection-10-sale-50-off)
 
 ## Alternatives at a Glance
 <div class="video-embed">
@@ -110,4 +110,4 @@ A: Arturia offers upgrade pricing based on what you own. Check their site — it
 
 45 instruments. Vintage analog, digital, keys, organs, and hybrid. Arturia runs 50% sales periodically — worth watching for.
 
-[View V Collection 11 Pro on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-v-collection-10-sale-50-off)
+[View V Collection 11 Pro on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-v-collection-10-sale-50-off&chan=art&data1=arturia-v-collection-10-sale-50-off)

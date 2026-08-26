@@ -3,13 +3,13 @@ title: "Topos saturation & amp effect plugin: Features, Pricing & Is It Worth It
 description: "Topos is a saturation, amp simulation, and speaker modeling plugin developed by Forever 89. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-02T09:55:12Z'
 tags: ["review", "amplifier", "forever 89", "saturator", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=plugindrop&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=plugindrop&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763&chan=art&data1=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-"
 heroImage: /images/topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-.jpg
 score: 6.04
 draft: false
 converted: true
 ---
-**Topos saturation & amp effect plugin** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=plugindrop&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763)
+**Topos saturation & amp effect plugin** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=plugindrop&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763&chan=art&data1=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-)
 
 ---
 
@@ -41,7 +41,7 @@ Worth noting: Forever 89 also offers **Topos: Play**, a free version with a redu
 
 If you've been on the fence, this is a stronger entry point than previous promotions. 
 
-Verify current pricing on the product page — deals can change. [Check the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=plugindrop&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763)
+Verify current pricing on the product page — deals can change. [Check the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=plugindrop&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763&chan=art&data1=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-)
 
 ## Alternatives at a Glance
 
@@ -71,7 +71,7 @@ A: Downloading the free Topos: Play version is the best way to test the workflow
 
  If saturation, amp modeling, and speaker simulation in a single streamlined interface sounds like your lane, this is a solid time to jump in.
 
-[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=plugindrop&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=plugindrop&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763&chan=art&data1=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-)
 
 ---
 

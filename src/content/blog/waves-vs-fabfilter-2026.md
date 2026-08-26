@@ -239,7 +239,7 @@ Neither Waves nor FabFilter offers free plugins. "Upgrading" in this context mea
 ---
 
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763)
+[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=waves-vs-fabfilter-2026)
 ## Full Comparison Table
 
 | Plugin | Brand | Price | Type | Community Standing |

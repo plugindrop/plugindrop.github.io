@@ -32,11 +32,11 @@ The deal here hinges on what you're already using. If you're on Vital's free ver
 
 ## Who Should Buy This Deal?
 
-Buy Serum at $14.4 if you produce electronic, EDM, or pop music where wavetable synthesis is central to your sound—the deal price makes it essential. If you already own Vital's free version and like its architecture, skip this. If you're building your synth collection and want an industry-standard wavetable engine at throwaway prices, grab Serum now through [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) before the deal expires.
+Buy Serum at $14.4 if you produce electronic, EDM, or pop music where wavetable synthesis is central to your sound—the deal price makes it essential. If you already own Vital's free version and like its architecture, skip this. If you're building your synth collection and want an industry-standard wavetable engine at throwaway prices, grab Serum now through [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=serum-vs-vital-comparison-on-sale) before the deal expires.
 
 ## Where to Get It
 
-Grab Serum (Xfer Records) at this deal price on [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763).
+Grab Serum (Xfer Records) at this deal price on [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=serum-vs-vital-comparison-on-sale).
 
 For a full head-to-head breakdown, read our [Serum vs Vital: Which Wavetable Synth Should You Buy in 2026](https://plugindrop.net/posts/serum-vs-vital-comparison/).
 
@@ -44,7 +44,7 @@ For a full head-to-head breakdown, read our [Serum vs Vital: Which Wavetable Syn
 
 **Q: Is Serum (Xfer Records) on sale right now?**
 
-A: Yes—currently **$14.4** (down from $24). Verify the current price at [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) as deals can expire.
+A: Yes—currently **$14.4** (down from $24). Verify the current price at [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=serum-vs-vital-comparison-on-sale) as deals can expire.
 
 **Q: How does Serum (Xfer Records) compare to Vital?**
 

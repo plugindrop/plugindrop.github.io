@@ -3,13 +3,13 @@ title: "Rhodes Chroma: Features, Pricing & Is It Worth It? (2026)"
 description: "Rhodes Chroma is Cherry Audio's software emulation of the original Rhodes Chroma hardware synthesizer — a polyphonic. Check current pricing at Plugin Boutique."
 pubDate: '2026-05-01T17:15:54Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/13870-Rhodes-Chroma-by-Cherry-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-chroma-by-cherry-audio-bf6d40"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/13870-Rhodes-Chroma-by-Cherry-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-chroma-by-cherry-audio-bf6d40&chan=art&data1=rhodes-chroma-by-cherry-audio-bf6d40"
 heroImage: /images/rhodes-chroma-by-cherry-audio-bf6d40.jpg
 score: 9.72
 draft: false
 converted: true
 ---
-**Rhodes Chroma** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/13870-Rhodes-Chroma-by-Cherry-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-chroma-by-cherry-audio-bf6d40)
+**Rhodes Chroma** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/13870-Rhodes-Chroma-by-Cherry-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-chroma-by-cherry-audio-bf6d40&chan=art&data1=rhodes-chroma-by-cherry-audio-bf6d40)
 
 ---
 
@@ -38,7 +38,7 @@ Rhodes Chroma is Cherry Audio's software emulation of the original Rhodes Chroma
 
 - ** The $39 price point sits at a level where producers interested in vintage polysynth emulation can act without significant financial risk. The $30 savings over the standard price is concrete and meaningful at this price tier.
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/13870-Rhodes-Chroma-by-Cherry-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-chroma-by-cherry-audio-bf6d40)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/13870-Rhodes-Chroma-by-Cherry-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-chroma-by-cherry-audio-bf6d40&chan=art&data1=rhodes-chroma-by-cherry-audio-bf6d40)
 
 ---
 
@@ -67,7 +67,7 @@ A: Cherry Audio plugins are available in standard formats including VST, VST3, A
 
 ---
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/13870-Rhodes-Chroma-by-Cherry-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-chroma-by-cherry-audio-bf6d40)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/13870-Rhodes-Chroma-by-Cherry-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-chroma-by-cherry-audio-bf6d40&chan=art&data1=rhodes-chroma-by-cherry-audio-bf6d40)
 
 ---
 

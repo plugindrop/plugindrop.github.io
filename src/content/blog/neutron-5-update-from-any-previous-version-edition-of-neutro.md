@@ -3,7 +3,7 @@ title: "25% Off Neutron 5 Update from any previous version edition of Neutron"
 description: "iZotope's Neutron 5 update is currently ~~$199~~ **$149** at Plugin Boutique — that's $50 off for anyone upgrading from any previous Neutron version. If..."
 pubDate: "2026-06-02T03:04:41Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13566-Neutron-5-Update-from-any-previous-version-edition-of-Neutron?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=neutron-5-update-from-any-previous-version-edition-of-neutro"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13566-Neutron-5-Update-from-any-previous-version-edition-of-Neutron?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=neutron-5-update-from-any-previous-version-edition-of-neutro&chan=art&data1=neutron-5-update-from-any-previous-version-edition-of-neutro"
 heroImage: "/images/neutron-5-update-from-any-previous-version-edition-of-neutro.jpg"
 score: 10.00
 dealPrice: "$149.00"
@@ -12,7 +12,7 @@ discount: "25% OFF"
 xText: "25% off neutron 5 from older versions. iZotope doesn't usually discount new releases this much. spectral shaping and ai workflow on 5 is the actual upgrade"
 draft: false
 ---
-**TL;DR:** iZotope's Neutron 5 update is currently ~~$199~~ **$149** at Plugin Boutique — that's $50 off for anyone upgrading from any previous Neutron version. If you've been sitting on an older license, [this is a solid window to jump to the latest](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13566-Neutron-5-Update-from-any-previous-version-edition-of-Neutron?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=neutron-5-update-from-any-previous-version-edition-of-neutro).
+**TL;DR:** iZotope's Neutron 5 update is currently ~~$199~~ **$149** at Plugin Boutique — that's $50 off for anyone upgrading from any previous Neutron version. If you've been sitting on an older license, [this is a solid window to jump to the latest](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13566-Neutron-5-Update-from-any-previous-version-edition-of-Neutron?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=neutron-5-update-from-any-previous-version-edition-of-neutro&chan=art&data1=neutron-5-update-from-any-previous-version-edition-of-neutro).
 
 ---
 
@@ -63,7 +63,7 @@ iZotope does run periodic upgrade promotions, but 25% off on update pricing is a
 
 > Verify current pricing on the product page — deals can change without notice.
 
-[Grab the Neutron 5 update at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13566-Neutron-5-Update-from-any-previous-version-edition-of-Neutron?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=neutron-5-update-from-any-previous-version-edition-of-neutro)
+[Grab the Neutron 5 update at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13566-Neutron-5-Update-from-any-previous-version-edition-of-Neutron?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=neutron-5-update-from-any-previous-version-edition-of-neutro&chan=art&data1=neutron-5-update-from-any-previous-version-edition-of-neutro)
 
 ---
 
@@ -97,7 +97,7 @@ A: iZotope offers both perpetual and subscription options across their product l
 
 ## Get the Deal
 
-$50 off an iZotope Neutron upgrade doesn't happen constantly — if you've been on an older version and have been waiting for the right moment, this is a legitimate reason to move. [Claim the 25% discount on Neutron 5 at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13566-Neutron-5-Update-from-any-previous-version-edition-of-Neutron?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=neutron-5-update-from-any-previous-version-edition-of-neutro)
+$50 off an iZotope Neutron upgrade doesn't happen constantly — if you've been on an older version and have been waiting for the right moment, this is a legitimate reason to move. [Claim the 25% discount on Neutron 5 at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13566-Neutron-5-Update-from-any-previous-version-edition-of-Neutron?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=neutron-5-update-from-any-previous-version-edition-of-neutro&chan=art&data1=neutron-5-update-from-any-previous-version-edition-of-neutro)
 
 ## Related Guides
 

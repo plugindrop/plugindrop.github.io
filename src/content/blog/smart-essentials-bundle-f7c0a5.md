@@ -3,13 +3,13 @@ title: "smart essentials Bundle: Features, Pricing & Is It Worth It? (2026)"
 description: "The smart essentials Bundle is a collection of AI-powered mixing and mastering plugins from sonible, an Austrian. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:27:36Z'
 tags: ["review", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/84-Mix-Master/16550-smart-essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-essentials-bundle-f7c0a5"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/84-Mix-Master/16550-smart-essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-essentials-bundle-f7c0a5&chan=art&data1=smart-essentials-bundle-f7c0a5"
 heroImage: /images/smart-essentials-bundle-f7c0a5.jpg
 score: 9.45
 draft: false
 converted: true
 ---
-**smart essentials Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/84-Mix-Master/16550-smart-essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-essentials-bundle-f7c0a5)
+**smart essentials Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/84-Mix-Master/16550-smart-essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-essentials-bundle-f7c0a5&chan=art&data1=smart-essentials-bundle-f7c0a5)
 
 ---
 
@@ -34,7 +34,7 @@ The smart essentials Bundle is a collection of AI-powered mixing and mastering p
 
 - **  
 
-[Check the current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/84-Mix-Master/16550-smart-essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-essentials-bundle-f7c0a5)
+[Check the current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/84-Mix-Master/16550-smart-essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-essentials-bundle-f7c0a5&chan=art&data1=smart-essentials-bundle-f7c0a5)
 
 ---
 
@@ -65,7 +65,7 @@ A: The smart: series generally supports VST, VST3, AU, and AAX, but confirm comp
 
 ##  If the smart: series is on your radar, this is the right moment to act.
 
-[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/81-Bundles/84-Mix-Master/16550-smart-essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-essentials-bundle-f7c0a5)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/81-Bundles/84-Mix-Master/16550-smart-essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-essentials-bundle-f7c0a5&chan=art&data1=smart-essentials-bundle-f7c0a5)
 
 ---
 

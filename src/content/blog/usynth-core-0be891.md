@@ -3,13 +3,13 @@ title: "Usynth Core: Features, Pricing & Is It Worth It? (2026)"
 description: "Usynth Core is a synthesizer instrument plugin developed by UJAM, the German music software company known for. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-26T02:04:59Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "synth", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/8862-Usynth-Core?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=usynth-core-0be891"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/8862-Usynth-Core?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=usynth-core-0be891&chan=art&data1=usynth-core-0be891"
 heroImage: /images/usynth-core-0be891.jpg
 score: 7.42
 draft: false
 converted: true
 ---
-**Usynth Core** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8862-Usynth-Core?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=usynth-core-0be891)
+**Usynth Core** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8862-Usynth-Core?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=usynth-core-0be891&chan=art&data1=usynth-core-0be891)
 
 ---
 
@@ -29,7 +29,7 @@ Usynth Core is a synthesizer instrument plugin developed by UJAM, the German mus
 - **Clean, uncluttered interface** — UJAM's visual design keeps the learning curve low for producers at any level
 - **Part of an expandable ecosystem** — Works alongside other Usynth and UJAM plugins for a coherent sound library
 
-*For full system requirements and format support, verify on the [Plugin Boutique product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8862-Usynth-Core?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=usynth-core-0be891).*
+*For full system requirements and format support, verify on the [Plugin Boutique product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8862-Usynth-Core?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=usynth-core-0be891&chan=art&data1=usynth-core-0be891).*
 
 ## Who Is It For?
 
@@ -66,7 +66,7 @@ A: Trial availability varies by developer — check the product page for demo op
 
  crossed out, $19 in your cart.  At this price, it's a straightforward pickup.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8862-Usynth-Core?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=usynth-core-0be891)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8862-Usynth-Core?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=usynth-core-0be891&chan=art&data1=usynth-core-0be891)
 
 ---
 

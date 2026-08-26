@@ -3,7 +3,7 @@ title: "35% Off Pigments 7 — Wavetable Synth for Sound Design ($129)"
 description: "Arturia's Pigments 7 is discounted 35% at Plugin Boutique, dropping from ~~$199~~ to $129 — a $70 savings. It's a multi-engine software synth built for..."
 pubDate: "2026-07-21T17:26:04Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "synth", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pigments-7-05c0ed"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pigments-7-05c0ed&chan=art&data1=pigments-7-05c0ed"
 heroImage: "/images/pigments-7-05c0ed.jpg"
 score: 9.10
 dealPrice: "$129.00"
@@ -12,7 +12,7 @@ discount: "35% OFF"
 xText: "honestly pigments 7's new wavetable engine just made me rethink sound design. 35% off ($65 from $99) right now. this doesn't stay this cheap for long"
 draft: false
 ---
-**TL;DR:** Arturia's Pigments 7 is discounted 35% at Plugin Boutique, dropping from ~~$199~~ to $129 — a $70 savings. It's a multi-engine software synth built for wavetable, virtual analog, and sample-based sound design. [Get Pigments 7 at 35% off here](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pigments-7-05c0ed).
+**TL;DR:** Arturia's Pigments 7 is discounted 35% at Plugin Boutique, dropping from ~~$199~~ to $129 — a $70 savings. It's a multi-engine software synth built for wavetable, virtual analog, and sample-based sound design. [Get Pigments 7 at 35% off here](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pigments-7-05c0ed&chan=art&data1=pigments-7-05c0ed).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6azhlxYCwHg" title="35% Off Pigments 7 — Wavetable Synth for Sound Design ($129) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -51,7 +51,7 @@ Pigments has built a reputation as one of Arturia's most flexible synths since i
 
 Arturia periodically runs sitewide and product-specific promotions through Plugin Boutique and its own store, so discounts on Pigments do surface a few times a year. Verify current pricing on the product page — deals can change without notice.
 
-[Check the current Pigments 7 price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pigments-7-05c0ed).
+[Check the current Pigments 7 price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pigments-7-05c0ed&chan=art&data1=pigments-7-05c0ed).
 
 ## Alternatives at a Glance
 
@@ -79,7 +79,7 @@ A: Arturia often offers upgrade pricing for existing owners of previous Pigments
 
 ## Get the Deal
 
-$70 off a flagship synth is a solid saving if you've been considering Pigments. [Grab Pigments 7 at 35% off through Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pigments-7-05c0ed) while the promotion is live.
+$70 off a flagship synth is a solid saving if you've been considering Pigments. [Grab Pigments 7 at 35% off through Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pigments-7-05c0ed&chan=art&data1=pigments-7-05c0ed) while the promotion is live.
 
 ## Is This Deal Worth It?
 

@@ -3,13 +3,13 @@ title: "IK Multimedia Total VI MAX 2 bundle: Features, Pricing & Is It Worth It?
 description: "IK Multimedia is an Italian music technology company with decades of experience building industry-standard software instruments, amp sims, and audio tools."
 pubDate: '2026-04-17T09:57:35Z'
 tags: ["review", "ik multimedia", "sampletank", "music-production", "bundle"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/16798-TOTAL-VI-MAX-2?utm_source=plugindrop&utm_medium=article&utm_campaign=ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/16798-TOTAL-VI-MAX-2?utm_source=plugindrop&utm_medium=article&utm_campaign=ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd&a_aid=69cb95abe1763&chan=art&data1=ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd"
 heroImage: /images/ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd.jpg
 score: 5.02
 draft: false
 converted: true
 ---
-**IK Multimedia Total VI MAX 2 bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/16798-TOTAL-VI-MAX-2?utm_source=plugindrop&utm_medium=article&utm_campaign=ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd&a_aid=69cb95abe1763)
+**IK Multimedia Total VI MAX 2 bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/16798-TOTAL-VI-MAX-2?utm_source=plugindrop&utm_medium=article&utm_campaign=ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd&a_aid=69cb95abe1763&chan=art&data1=ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd)
 
 ---
 
@@ -44,7 +44,7 @@ IK Multimedia products are well-established in the production community. SampleT
 
 - **99 breaks down to a very low per-title cost — do the math once you confirm the full included list on the product page. IK Multimedia doesn't run deep discounts on this bundle frequently, so when it does surface at this price point, it tends to move fast.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/16798-TOTAL-VI-MAX-2?utm_source=plugindrop&utm_medium=article&utm_campaign=ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/16798-TOTAL-VI-MAX-2?utm_source=plugindrop&utm_medium=article&utm_campaign=ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd&a_aid=69cb95abe1763&chan=art&data1=ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd)
 
 ---
 
@@ -75,7 +75,7 @@ A: IK Multimedia typically offers upgrade pricing for existing customers. Check 
 
 ## Where to Buy
 
-$69.99 for IK Multimedia's most comprehensive virtual instrument bundle is a deal worth acting on quickly — bundle sale prices at this level rarely stick around long. [Lock in the Total VI MAX 2 bundle at Plugin Boutique now.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/16798-TOTAL-VI-MAX-2?utm_source=plugindrop&utm_medium=article&utm_campaign=ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd&a_aid=69cb95abe1763)
+$69.99 for IK Multimedia's most comprehensive virtual instrument bundle is a deal worth acting on quickly — bundle sale prices at this level rarely stick around long. [Lock in the Total VI MAX 2 bundle at Plugin Boutique now.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/16798-TOTAL-VI-MAX-2?utm_source=plugindrop&utm_medium=article&utm_campaign=ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd&a_aid=69cb95abe1763&chan=art&data1=ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd)
 
 ---
 

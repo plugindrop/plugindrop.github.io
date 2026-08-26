@@ -44,7 +44,7 @@ heroImage: '/images/when-does-ampex-atr-102-go-on-sale.jpg'
 > **Buying tip:** Plugin Alliance products including the Ampex ATR-102 frequently reach 80-89% off at PB Anniversary and Black Friday. At $37 (Thomann Feb 2025) or $39 (PB BF), this authorized Ampex tape machine emulation is extraordinary value. Always check Thomann vs PB — Thomann has beat PB price on this product.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-effects/42-Saturation/6702-Ampex-ATR-102?a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-effects/42-Saturation/6702-Ampex-ATR-102?a_aid=69cb95abe1763&chan=art&data1=when-does-ampex-atr-102-go-on-sale)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 

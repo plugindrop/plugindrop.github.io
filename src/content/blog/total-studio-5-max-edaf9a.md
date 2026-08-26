@@ -3,7 +3,7 @@ title: "67% Off Total Studio 5 MAX — Production Suite ($199.99, ends Jul 31)"
 description: "If you only install one bundle, make it Total Studio 5 MAX if you need instruments, guitar/bass tools, effects, and mixing utilities in one IK Multimedia..."
 pubDate: "2026-07-14T18:25:40Z"
 tags: ["sale", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15171-Total-Studio-5-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-studio-5-max-edaf9a"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15171-Total-Studio-5-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-studio-5-max-edaf9a&chan=art&data1=total-studio-5-max-edaf9a"
 heroImage: "/images/total-studio-5-max-edaf9a.jpg"
 score: 10.00
 dealPrice: "$199.99"
@@ -11,9 +11,9 @@ originalPrice: "$599.99"
 discount: "67% OFF"
 saleExpiry: "2026-07-31"
 xText: "¥104,580→¥33,990、67% off。Total Studio 5 MAXの新リリース、160+ titles / 72 plugins / TONEXフル版入り。7/31までなら、待ってる間にこの値段を逃すほうが痛い。"
-draft: true
+draft: false
 ---
-**TL;DR:** If you only install one bundle, make it Total Studio 5 MAX if you need instruments, guitar/bass tools, effects, and mixing utilities in one IK Multimedia collection. It is **67% off: ~~$599.99~~ $199.99**, a $400 saving. [Check the Plugin Boutique deal](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15171-Total-Studio-5-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-studio-5-max-edaf9a).
+**TL;DR:** If you only install one bundle, make it Total Studio 5 MAX if you need instruments, guitar/bass tools, effects, and mixing utilities in one IK Multimedia collection. It is **67% off: ~~$599.99~~ $199.99**, a $400 saving. [Check the Plugin Boutique deal](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15171-Total-Studio-5-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-studio-5-max-edaf9a&chan=art&data1=total-studio-5-max-edaf9a).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LXynLeqrtiI" title="67% Off Total Studio 5 MAX — Production Suite ($199.99, ends Jul 31) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -68,7 +68,7 @@ Skip this deal if you only need one category, such as a guitar amp simulator or 
 
 On a simple minimum-title basis, $199.99 divided by more than 140 included titles works out to **less than $1.43 per title**. That is only a rough bundle-value calculation, not a claim that each title has equal standalone value.
 
-The deal is listed through **July 31**. Verify current pricing on the product page — deals can change. [View Total Studio 5 MAX at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15171-Total-Studio-5-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-studio-5-max-edaf9a).
+The deal is listed through **July 31**. Verify current pricing on the product page — deals can change. [View Total Studio 5 MAX at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15171-Total-Studio-5-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-studio-5-max-edaf9a&chan=art&data1=total-studio-5-max-edaf9a).
 
 ## Alternatives at a Glance
 
@@ -96,7 +96,7 @@ A: Requirements vary by included product. Check the official product page before
 
 ## Get the Deal
 
-This drops Total Studio 5 MAX from **~~$599.99~~ to $199.99**, saving $400 on IK Multimedia’s wide production bundle. [Get the 67% off deal at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15171-Total-Studio-5-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-studio-5-max-edaf9a).
+This drops Total Studio 5 MAX from **~~$599.99~~ to $199.99**, saving $400 on IK Multimedia’s wide production bundle. [Get the 67% off deal at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15171-Total-Studio-5-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-studio-5-max-edaf9a&chan=art&data1=total-studio-5-max-edaf9a).
 
 ## Is This Deal Worth It?
 

@@ -3,7 +3,7 @@ title: "Airspace reverb & delay effect plugin: Features, Pricing & Is It Worth I
 description: "Airspace is ModeAudio's debut plugin — a hybrid that fuses convolution reverb with a fully-featured stereo delay. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-03T09:43:35Z'
 tags: ["review", "delay", "modeaudio", "reverb", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/14865-Airspace?utm_source=plugindrop&utm_medium=article&utm_campaign=airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/14865-Airspace?utm_source=plugindrop&utm_medium=article&utm_campaign=airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for&a_aid=69cb95abe1763&chan=art&data1=airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for"
 heroImage: /images/airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for.jpg
 score: 4.99
 draft: false
@@ -16,7 +16,7 @@ priceTrack:
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="Airspace reverb & delay effect plugin: Features, Pricing & Is It Worth It? (2026) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/2009647863&color=%2300bfff&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>
 </div>
-**Airspace reverb & delay effect plugin** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/17-Reverb/14865-Airspace?utm_source=plugindrop&utm_medium=article&utm_campaign=airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for&a_aid=69cb95abe1763)
+**Airspace reverb & delay effect plugin** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/17-Reverb/14865-Airspace?utm_source=plugindrop&utm_medium=article&utm_campaign=airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for&a_aid=69cb95abe1763&chan=art&data1=airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for)
 
 ---
 
@@ -47,7 +47,7 @@ One frequently noted limitation: Airspace does not support loading custom impuls
 
 A 15-day free trial is also available with no restrictions, so you can test it in your DAW before committing.
 
-[**Get Airspace for $59 at Plugin Boutique →**](https://www.pluginboutique.com/product/2-Effects/17-Reverb/14865-Airspace?utm_source=plugindrop&utm_medium=article&utm_campaign=airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for&a_aid=69cb95abe1763)
+[**Get Airspace for $59 at Plugin Boutique →**](https://www.pluginboutique.com/product/2-Effects/17-Reverb/14865-Airspace?utm_source=plugindrop&utm_medium=article&utm_campaign=airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for&a_aid=69cb95abe1763&chan=art&data1=airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for)
 
 ## Alternatives at a Glance
 
@@ -77,7 +77,7 @@ A: Check the Plugin Boutique product page or ModeAudio's official site for curre
 
 Airspace is a hybrid convolution reverb and stereo delay with 450+ IRs and 240+ presets out of the box.
 
-[**Pick up Airspace for $59 at Plugin Boutique →**](https://www.pluginboutique.com/product/2-Effects/17-Reverb/14865-Airspace?utm_source=plugindrop&utm_medium=article&utm_campaign=airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for&a_aid=69cb95abe1763)
+[**Pick up Airspace for $59 at Plugin Boutique →**](https://www.pluginboutique.com/product/2-Effects/17-Reverb/14865-Airspace?utm_source=plugindrop&utm_medium=article&utm_campaign=airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for&a_aid=69cb95abe1763&chan=art&data1=airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for)
 
 ---
 

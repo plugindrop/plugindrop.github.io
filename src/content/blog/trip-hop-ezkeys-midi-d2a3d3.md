@@ -3,13 +3,13 @@ title: "Trip Hop Ezkeys Midi"
 description: "Toontrack's Trip Hop EZkeys MIDI pack delivers authentic downtempo keyboard patterns built for the EZkeys workflow — moody chord progressions, cinematic"
 pubDate: "2026-04-22T07:45:41Z"
 tags: ["vst-plugin", "music-production"]
-affiliate: "https://www.pluginboutique.com/manufacturers/24-Toontrack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-ezkeys-midi-d2a3d3"
+affiliate: "https://www.pluginboutique.com/manufacturers/24-Toontrack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-ezkeys-midi-d2a3d3&chan=art&data1=trip-hop-ezkeys-midi-d2a3d3"
 heroImage: "/images/trip-hop-ezkeys-midi-d2a3d3.jpg"
 score: 4.50
 xText: "trip hop ezkeys midi pack just dropped. the voicing work is solid, patterns dialed in for dark cinematic beats. if you're building downtempo and want to skip the chord programming, this saves serious time."
 draft: true
 ---
-**TL;DR:** Toontrack's Trip Hop EZkeys MIDI pack delivers authentic downtempo keyboard patterns built for the EZkeys workflow — moody chord progressions, cinematic voicings, and slow-groove phrases ready to drop straight into your sessions. Verify current pricing on the product page. [Browse it now at Plugin Boutique.](https://www.pluginboutique.com/manufacturers/24-Toontrack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-ezkeys-midi-d2a3d3)
+**TL;DR:** Toontrack's Trip Hop EZkeys MIDI pack delivers authentic downtempo keyboard patterns built for the EZkeys workflow — moody chord progressions, cinematic voicings, and slow-groove phrases ready to drop straight into your sessions. Verify current pricing on the product page. [Browse it now at Plugin Boutique.](https://www.pluginboutique.com/manufacturers/24-Toontrack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-ezkeys-midi-d2a3d3&chan=art&data1=trip-hop-ezkeys-midi-d2a3d3)
 
 ---
 
@@ -48,7 +48,7 @@ Toontrack's EZkeys MIDI format goes beyond raw loops — patterns are organized 
 
 Toontrack periodically runs promotional pricing across their EZkeys MIDI catalog. Check the current deal directly on the product listing — prices can shift.
 
-[Check current pricing and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/manufacturers/24-Toontrack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-ezkeys-midi-d2a3d3)
+[Check current pricing and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/manufacturers/24-Toontrack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-ezkeys-midi-d2a3d3&chan=art&data1=trip-hop-ezkeys-midi-d2a3d3)
 
 ---
 
@@ -84,7 +84,7 @@ A: Check the official Toontrack product page for current system requirements —
 
 Trip hop producers and EZkeys users: this pack puts genre-ready keyboard arrangements in your hands without the programming time. Verify the current price and pick it up directly via Plugin Boutique.
 
-[Get Trip Hop EZkeys MIDI at Plugin Boutique →](https://www.pluginboutique.com/manufacturers/24-Toontrack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-ezkeys-midi-d2a3d3)
+[Get Trip Hop EZkeys MIDI at Plugin Boutique →](https://www.pluginboutique.com/manufacturers/24-Toontrack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=trip-hop-ezkeys-midi-d2a3d3&chan=art&data1=trip-hop-ezkeys-midi-d2a3d3)
 
 ---
 

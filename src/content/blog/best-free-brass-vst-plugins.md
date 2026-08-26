@@ -16,7 +16,7 @@ draft: true
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| BBC Symphony Orchestra Discover | Free | Full orchestral brass, professional recordings | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-brass-vst-plugins) |
+| BBC Symphony Orchestra Discover | Free | Full orchestral brass, professional recordings | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-brass-vst-plugins&chan=art&data1=best-free-brass-vst-plugins) |
 | VSCO2 Community Edition | Free | Chamber brass, solo instrument realism | Free at Versilian Studios |
 | Virtual Playing Orchestra | Free | Complete orchestral brass section in SFZ | Free at paulbattersby.net |
 | DSK Brass | Free | Lightweight mockups, low CPU Windows tool | Free at DSK Music |
@@ -51,7 +51,7 @@ The LABS player offers multiple microphone perspectives including close, tree, a
 
 **Best for:** Producers and composers who want professional-quality orchestral brass — trumpet, trombone, French horn — as the foundation of a film, game, or classical-adjacent production.
 
-[→ Download BBC Symphony Orchestra Discover Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-brass-vst-plugins)
+[→ Download BBC Symphony Orchestra Discover Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-brass-vst-plugins&chan=art&data1=best-free-brass-vst-plugins)
 
 ---
 
@@ -155,7 +155,7 @@ Both paid options below are from Spitfire Audio — the developer behind BBC Sym
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| BBC Symphony Orchestra Discover | Free | Full orchestral library | Maida Vale recording, multiple mic positions, full brass section | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-brass-vst-plugins) |
+| BBC Symphony Orchestra Discover | Free | Full orchestral library | Maida Vale recording, multiple mic positions, full brass section | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-brass-vst-plugins&chan=art&data1=best-free-brass-vst-plugins) |
 | VSCO2 Community Edition | Free | Chamber orchestra, SFZ | Solo/chamber brass, cross-platform, light CPU | Free at Versilian Studios |
 | Virtual Playing Orchestra | Free | Full orchestral, SFZ | Widest brass coverage, trumpet to tuba, free template | Free at paulbattersby.net |
 | DSK Brass | Free | Simple rompler, VST | Instant load, low CPU, basic tones — Windows only | Free at DSK Music |
@@ -206,7 +206,7 @@ A: BBC Symphony Orchestra Discover explicitly permits commercial use, including 
 
 BBC Symphony Orchestra Discover is the only recommendation that matters if you are starting from zero — no other free brass VST comes within reach of its combination of recording quality, instrument coverage, and cost. Download it first, supplement with VSCO2 CE when you need lighter-weight chamber and solo brass, and upgrade to BBC Symphony Orchestra Core only when the articulation limits of the free tier are actively blocking your work.
 
-[→ Download BBC Symphony Orchestra Discover Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-brass-vst-plugins)
+[→ Download BBC Symphony Orchestra Discover Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-brass-vst-plugins&chan=art&data1=best-free-brass-vst-plugins)
 
 ---
 

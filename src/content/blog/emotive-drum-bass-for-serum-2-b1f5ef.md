@@ -3,7 +3,7 @@ title: "Emotive Drum Bass for Serum 2: Features, Pricing & Is It Worth It? (2026
 description: "Emotive Drum Bass for Serum 2 is a synth preset pack designed specifically for the Xfer Records Serum 2 synthesizer. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:28:44Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "drums", "synth", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/31-Synth-Presets/16790-Emotive-Drum-Bass-for-Serum-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=emotive-drum-bass-for-serum-2-b1f5ef"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/31-Synth-Presets/16790-Emotive-Drum-Bass-for-Serum-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=emotive-drum-bass-for-serum-2-b1f5ef&chan=art&data1=emotive-drum-bass-for-serum-2-b1f5ef"
 heroImage: /images/emotive-drum-bass-for-serum-2-b1f5ef.jpg
 score: 7.70
 draft: false

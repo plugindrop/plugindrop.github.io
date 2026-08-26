@@ -3,7 +3,7 @@ title: "1% Off AmpliTube 5 MAX v2"
 description: "AmpliTube 5 MAX v2 — IK Multimedia's flagship amp simulation suite — is currently ~~$172.14~~ **$169.90** at Plugin Boutique, saving you around $2.25..."
 pubDate: "2026-05-11T16:58:07Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12444-AmpliTube-5-MAX-v2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=amplitube-5-max-v2-fdbf06"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12444-AmpliTube-5-MAX-v2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=amplitube-5-max-v2-fdbf06&chan=art&data1=amplitube-5-max-v2-fdbf06"
 heroImage: "/images/amplitube-5-max-v2-fdbf06.jpg"
 score: 10.00
 dealPrice: "$169.90"
@@ -12,7 +12,7 @@ discount: "1% OFF"
 xText: "the amp models in amplitube 5 max v2 are actually insane. barely discounted but this is what you upgrade for, not the 1% off. if you do any guitar work this is worth checking."
 draft: false
 ---
-**TL;DR:** AmpliTube 5 MAX v2 — IK Multimedia's flagship amp simulation suite — is currently ~~$172.14~~ **$169.90** at Plugin Boutique, saving you around $2.25. It's a modest 1% discount on a premium product, but any saving on a pro-tier bundle is worth flagging. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12444-AmpliTube-5-MAX-v2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=amplitube-5-max-v2-fdbf06)
+**TL;DR:** AmpliTube 5 MAX v2 — IK Multimedia's flagship amp simulation suite — is currently ~~$172.14~~ **$169.90** at Plugin Boutique, saving you around $2.25. It's a modest 1% discount on a premium product, but any saving on a pro-tier bundle is worth flagging. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12444-AmpliTube-5-MAX-v2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=amplitube-5-max-v2-fdbf06&chan=art&data1=amplitube-5-max-v2-fdbf06)
 
 ---
 
@@ -61,7 +61,7 @@ AmpliTube has been a long-running name in guitar amp simulation, with the platfo
 
 IK Multimedia doesn't run steep percentage discounts on the full MAX bundle frequently — this is a small but real reduction on a consistently full-priced product. If you've been sitting on the fence, it's worth noting that deeper sales on the MAX tier don't appear often. Verify current pricing on the product page — deals can change.
 
-[Check the current price and buy at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12444-AmpliTube-5-MAX-v2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=amplitube-5-max-v2-fdbf06)
+[Check the current price and buy at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12444-AmpliTube-5-MAX-v2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=amplitube-5-max-v2-fdbf06&chan=art&data1=amplitube-5-max-v2-fdbf06)
 
 ---
 
@@ -95,7 +95,7 @@ A: IK Multimedia offers upgrade pricing through their site and Custom Shop. Chec
 
 ## Get the Deal
 
-A 1% discount won't make headlines, but on a premium amp sim suite that rarely drops in price, locking in any saving is a straightforward call. [Pick up AmpliTube 5 MAX v2 at Plugin Boutique for $169.90.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12444-AmpliTube-5-MAX-v2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=amplitube-5-max-v2-fdbf06)
+A 1% discount won't make headlines, but on a premium amp sim suite that rarely drops in price, locking in any saving is a straightforward call. [Pick up AmpliTube 5 MAX v2 at Plugin Boutique for $169.90.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12444-AmpliTube-5-MAX-v2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=amplitube-5-max-v2-fdbf06&chan=art&data1=amplitube-5-max-v2-fdbf06)
 
 ## Related Guides
 

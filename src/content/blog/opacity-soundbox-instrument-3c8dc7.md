@@ -3,7 +3,7 @@ title: "35% Off Opacity Soundbox Instrument"
 description: "Opacity Soundbox Instrument is currently 35% off at Plugin Boutique — dropping from ~~$43.00~~ to **$27.95**. That's over $15 in savings on a virtual..."
 pubDate: "2026-06-10T08:35:35Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15215-Opacity-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-soundbox-instrument-3c8dc7"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15215-Opacity-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-soundbox-instrument-3c8dc7&chan=art&data1=opacity-soundbox-instrument-3c8dc7"
 heroImage: "/images/opacity-soundbox-instrument-3c8dc7.jpg"
 score: 8.31
 dealPrice: "$27.95"
@@ -12,7 +12,7 @@ discount: "35% OFF"
 xText: "35% off soundbox just dropped — rarely see fresh instruments hit this price point this fast. whether you're into sound design or just need something that sits in a mix like butter, this is it."
 draft: true
 ---
-**TL;DR:** Opacity Soundbox Instrument is currently 35% off at Plugin Boutique — dropping from ~~$43.00~~ to **$27.95**. That's over $15 in savings on a virtual instrument built for producers who want distinctive, ready-to-play sounds. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15215-Opacity-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-soundbox-instrument-3c8dc7)
+**TL;DR:** Opacity Soundbox Instrument is currently 35% off at Plugin Boutique — dropping from ~~$43.00~~ to **$27.95**. That's over $15 in savings on a virtual instrument built for producers who want distinctive, ready-to-play sounds. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15215-Opacity-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-soundbox-instrument-3c8dc7&chan=art&data1=opacity-soundbox-instrument-3c8dc7)
 
 ---
 
@@ -54,7 +54,7 @@ Opacity Soundbox Instrument is a virtual instrument available through Plugin Bou
 
 35% off is a meaningful discount. Plugin Boutique runs sales regularly, but not every instrument sees this level of discount — so if Opacity Soundbox Instrument is on your radar, this is worth acting on. Verify current pricing on the product page — deals can change.
 
-[Get Opacity Soundbox Instrument for $27.95 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15215-Opacity-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-soundbox-instrument-3c8dc7)
+[Get Opacity Soundbox Instrument for $27.95 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15215-Opacity-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-soundbox-instrument-3c8dc7&chan=art&data1=opacity-soundbox-instrument-3c8dc7)
 
 ---
 
@@ -90,7 +90,7 @@ A: Plugin Boutique deals rotate regularly and can end without notice. Pricing sh
 
 A 35% discount puts Opacity Soundbox Instrument at its lowest accessible price point — **$27.95 instead of ~~$43.00~~**. If unique sound design tools are on your shopping list, this is a solid window to buy in.
 
-[Claim the 35% discount at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15215-Opacity-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-soundbox-instrument-3c8dc7)
+[Claim the 35% discount at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15215-Opacity-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-soundbox-instrument-3c8dc7&chan=art&data1=opacity-soundbox-instrument-3c8dc7)
 
 ## Related Guides
 

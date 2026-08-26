@@ -3,7 +3,7 @@ title: "23% Off Effectrix 2"
 description: "Effectrix 2 by Sugar Bytes is currently **23% off** at Plugin Boutique — drop from ~~$129~~ to **$99**, saving you $30. If you've been sitting on the..."
 pubDate: "2026-06-15T23:47:48Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/11389-Effectrix-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=effectrix-2-b44566"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/11389-Effectrix-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=effectrix-2-b44566&chan=art&data1=effectrix-2-b44566"
 heroImage: "/images/effectrix-2-b44566.jpg"
 score: 10.00
 dealPrice: "$99.00"
@@ -12,7 +12,7 @@ discount: "23% OFF"
 xText: "effectrix 2 is 23% off at launch and honestly that never happens. algorithmic reverb with the parametric control that makes you actually design instead of guessing"
 draft: true
 ---
-**TL;DR:** Effectrix 2 by Sugar Bytes is currently **23% off** at Plugin Boutique — drop from ~~$129~~ to **$99**, saving you $30. If you've been sitting on the fence about a dedicated multi-effect sequencer, this is a solid window to pull the trigger. [Grab the deal here.](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/11389-Effectrix-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=effectrix-2-b44566)
+**TL;DR:** Effectrix 2 by Sugar Bytes is currently **23% off** at Plugin Boutique — drop from ~~$129~~ to **$99**, saving you $30. If you've been sitting on the fence about a dedicated multi-effect sequencer, this is a solid window to pull the trigger. [Grab the deal here.](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/11389-Effectrix-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=effectrix-2-b44566&chan=art&data1=effectrix-2-b44566)
 
 ---
 
@@ -63,7 +63,7 @@ Sugar Bytes doesn't run deep discounts constantly — when they do appear on Plu
 
 > Verify current pricing on the product page — deals can change without notice.
 
-[Check current pricing and get Effectrix 2 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/11389-Effectrix-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=effectrix-2-b44566)
+[Check current pricing and get Effectrix 2 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/11389-Effectrix-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=effectrix-2-b44566&chan=art&data1=effectrix-2-b44566)
 
 ---
 
@@ -99,7 +99,7 @@ A: Plugin Boutique serves international customers, but final pricing may reflect
 
 $30 off a proven multi-effect sequencer from one of electronic music production's most respected boutique developers. The 23% discount makes this one of the better entry points for Effectrix 2 if you've been on the fence.
 
-[Get Effectrix 2 for $99 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/11389-Effectrix-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=effectrix-2-b44566)
+[Get Effectrix 2 for $99 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/11389-Effectrix-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=effectrix-2-b44566&chan=art&data1=effectrix-2-b44566)
 
 ## Related Guides
 

@@ -3,13 +3,13 @@ title: "P-10 Synthesizer: Features, Pricing & Is It Worth It? (2026)"
 description: "The P-10 is a software synthesizer from Cherry Audio, a developer known for faithful and affordable recreations of. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-20T23:23:31Z'
 tags: ["review", "cherry audio", "synth", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the&chan=art&data1=cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the"
 heroImage: /images/cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the.jpg
 score: 5.83
 draft: false
 converted: true
 ---
-**P-10 Synthesizer** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the)
+**P-10 Synthesizer** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the&chan=art&data1=cherry-audio-get-43-off-p-10-synthesizer-by-cherry-audio-the)
 
 ---
 

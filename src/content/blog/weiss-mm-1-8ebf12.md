@@ -3,7 +3,7 @@ title: "Weiss MM 1: Features, Pricing & Is It Worth It? (2026)"
 description: "The Weiss MM-1 is a mastering-grade plugin from Weiss Engineering, a Swiss manufacturer with decades of reputation in. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:28:28Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/50-Mastering-/4181-Weiss-MM-1?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=weiss-mm-1-8ebf12"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/50-Mastering-/4181-Weiss-MM-1?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=weiss-mm-1-8ebf12&chan=art&data1=weiss-mm-1-8ebf12"
 heroImage: /images/weiss-mm-1-8ebf12.jpg
 score: 7.85
 draft: false
@@ -16,7 +16,7 @@ priceTrack:
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/JIHt14UMBBw" title="Weiss MM 1: Features, Pricing & Is It Worth It? (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-**Weiss MM 1** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/50-Mastering-/4181-Weiss-MM-1?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=weiss-mm-1-8ebf12)
+**Weiss MM 1** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/50-Mastering-/4181-Weiss-MM-1?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=weiss-mm-1-8ebf12&chan=art&data1=weiss-mm-1-8ebf12)
 
 ---
 
@@ -50,7 +50,7 @@ If you've been on the fence, this deal structure suggests it's worth acting on n
 
 Note: Verify current pricing on the product page — deals can change.
 
-[Check the current price and claim the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/50-Mastering-/4181-Weiss-MM-1?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=weiss-mm-1-8ebf12)
+[Check the current price and claim the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/50-Mastering-/4181-Weiss-MM-1?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=weiss-mm-1-8ebf12&chan=art&data1=weiss-mm-1-8ebf12)
 
 ---
 

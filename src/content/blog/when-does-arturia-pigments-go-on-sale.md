@@ -44,7 +44,7 @@ heroImage: '/images/when-does-arturia-pigments-go-on-sale.jpg'
 > **Buying tip:** Arturia Pigments' regular price is $199, and 50% off ($99) is the standard sale price — it happens 3-4x/year. If you have an Arturia account, check your email: Arturia sometimes sends personalized deals down to $49-69 for existing customers. Don't pay $199 — wait for the next inevitable sale.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/66-Synth/7120-Pigments?a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/66-Synth/7120-Pigments?a_aid=69cb95abe1763&chan=art&data1=when-does-arturia-pigments-go-on-sale)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 
@@ -52,7 +52,7 @@ Plugin Boutique often matches official sale prices and gives you Virtual Cash ba
 ## Free Alternatives If You Can't Wait
 
 - **[Vital](https://vital.audio)** — Free wavetable synth — serious competitor to Pigments
-- **[Phase Plant](https://www.pluginboutique.com/product/1-Instruments/66-Synth/9255-Phase-Plant?a_aid=69cb95abe1763)** — Also goes 50% off regularly, more modular approach
+- **[Phase Plant](https://www.pluginboutique.com/product/1-Instruments/66-Synth/9255-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=when-does-arturia-pigments-go-on-sale)** — Also goes 50% off regularly, more modular approach
 
 
 ---

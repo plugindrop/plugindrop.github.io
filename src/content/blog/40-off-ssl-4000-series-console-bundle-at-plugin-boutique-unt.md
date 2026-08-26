@@ -3,13 +3,13 @@ title: "SSL 4000 Series Console Bundle: Features, Pricing & Is It Worth It? (202
 description: "The SSL 4000 Series Console Bundle is an official software emulation of Solid State Logic's legendary 4000 hardware. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-17T12:15:17Z'
 tags: ["review", "music-production", "bundle"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13326-SSL-4000-Series-Console-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13326-SSL-4000-Series-Console-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt&a_aid=69cb95abe1763&chan=art&data1=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt"
 heroImage: /images/40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt.jpg
 score: 9.27
 draft: false
 converted: true
 ---
-**SSL 4000 Series Console Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13326-SSL-4000-Series-Console-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt&a_aid=69cb95abe1763)
+**SSL 4000 Series Console Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13326-SSL-4000-Series-Console-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt&a_aid=69cb95abe1763&chan=art&data1=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt)
 
 ---
 
@@ -48,7 +48,7 @@ The SSL 4000 Series has been a fixture in mixing discussions for years. On forum
 
 ---
 
-> **Note:** Exact pricing varies by region and may change. Verify the current price on the [Plugin Boutique product page](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13326-SSL-4000-Series-Console-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt&a_aid=69cb95abe1763) before purchasing.
+> **Note:** Exact pricing varies by region and may change. Verify the current price on the [Plugin Boutique product page](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13326-SSL-4000-Series-Console-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt&a_aid=69cb95abe1763&chan=art&data1=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt) before purchasing.
 
   
 
@@ -81,7 +81,7 @@ A: The bundle is expected to support common formats (VST, AU, AAX), but confirm 
 
 ## Where to Buy
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13326-SSL-4000-Series-Console-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/13326-SSL-4000-Series-Console-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt&a_aid=69cb95abe1763&chan=art&data1=40-off-ssl-4000-series-console-bundle-at-plugin-boutique-unt)
 
 ---
 

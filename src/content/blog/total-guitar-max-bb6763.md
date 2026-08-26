@@ -3,13 +3,13 @@ title: "TOTAL Guitar MAX: Features, Pricing & Is It Worth It? (2026)"
 description: "TOTAL Guitar MAX is a plugin bundle sold through Plugin Boutique that packages multiple guitar-focused tools —. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-22T00:50:11Z'
 tags: ["review", "guitar", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17062-TOTAL-Guitar-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-guitar-max-bb6763"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17062-TOTAL-Guitar-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-guitar-max-bb6763&chan=art&data1=total-guitar-max-bb6763"
 heroImage: /images/total-guitar-max-bb6763.jpg
 score: 8.45
 draft: false
 converted: true
 ---
-**TOTAL Guitar MAX** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17062-TOTAL-Guitar-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-guitar-max-bb6763)
+**TOTAL Guitar MAX** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17062-TOTAL-Guitar-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-guitar-max-bb6763&chan=art&data1=total-guitar-max-bb6763)
 
 ---
 
@@ -46,7 +46,7 @@ That ~$920 in savings is the headline here. For a bundle priced at over $1,000 a
 
 Plugin Boutique does not frequently discount bundles at this depth.  **Verify current pricing on the product page — deals can change.**
 
-[See the full bundle contents and lock in the deal at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17062-TOTAL-Guitar-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-guitar-max-bb6763)
+[See the full bundle contents and lock in the deal at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17062-TOTAL-Guitar-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-guitar-max-bb6763&chan=art&data1=total-guitar-max-bb6763)
 
 ---
 

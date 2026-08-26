@@ -3,7 +3,7 @@ title: "30% Off Ampknob BDM 800 Badboy"
 description: "Ampknob BDM 800 Badboy is currently 30% off at Plugin Boutique — down from ~~$53.90~~ to **$37.73**. For producers chasing aggressive, character-rich amp..."
 pubDate: "2026-05-08T19:26:03Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/14858-Ampknob-BDM-800-Badboy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampknob-bdm-800-badboy-04a38a"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/14858-Ampknob-BDM-800-Badboy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampknob-bdm-800-badboy-04a38a&chan=art&data1=ampknob-bdm-800-badboy-04a38a"
 heroImage: "/images/ampknob-bdm-800-badboy-04a38a.jpg"
 score: 8.55
 dealPrice: "$37.73"
@@ -12,7 +12,7 @@ discount: "30% OFF"
 xText: "30% off ampknob's brand new bdm 800 — never seen them discount a fresh release before. if the compression hits like people say, this is a steal"
 draft: true
 ---
-**TL;DR:** Ampknob BDM 800 Badboy is currently 30% off at Plugin Boutique — down from ~~$53.90~~ to **$37.73**. For producers chasing aggressive, character-rich amp tones without spending on physical gear, this is a window worth taking seriously. [Grab the deal here.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/14858-Ampknob-BDM-800-Badboy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampknob-bdm-800-badboy-04a38a)
+**TL;DR:** Ampknob BDM 800 Badboy is currently 30% off at Plugin Boutique — down from ~~$53.90~~ to **$37.73**. For producers chasing aggressive, character-rich amp tones without spending on physical gear, this is a window worth taking seriously. [Grab the deal here.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/14858-Ampknob-BDM-800-Badboy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampknob-bdm-800-badboy-04a38a&chan=art&data1=ampknob-bdm-800-badboy-04a38a)
 
 ---
 
@@ -58,7 +58,7 @@ Ampknob BDM 800 Badboy is a guitar amp simulator plugin sold on Plugin Boutique.
 
 Note: Verify current pricing on the product page — deals can change.
 
-[Get Ampknob BDM 800 Badboy at 30% off →](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/14858-Ampknob-BDM-800-Badboy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampknob-bdm-800-badboy-04a38a)
+[Get Ampknob BDM 800 Badboy at 30% off →](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/14858-Ampknob-BDM-800-Badboy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampknob-bdm-800-badboy-04a38a&chan=art&data1=ampknob-bdm-800-badboy-04a38a)
 
 ---
 
@@ -96,7 +96,7 @@ A: Refer to Plugin Boutique's current refund and returns policy directly on thei
 
 30% off brings the BDM 800 Badboy from ~~$53.90~~ to **$37.73** — a straightforward saving on a purpose-built amp simulator. Deals like this don't have guaranteed end dates, so check availability now.
 
-[Get Ampknob BDM 800 Badboy at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/14858-Ampknob-BDM-800-Badboy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampknob-bdm-800-badboy-04a38a)
+[Get Ampknob BDM 800 Badboy at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/14858-Ampknob-BDM-800-Badboy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampknob-bdm-800-badboy-04a38a&chan=art&data1=ampknob-bdm-800-badboy-04a38a)
 
 ## Related Guides
 

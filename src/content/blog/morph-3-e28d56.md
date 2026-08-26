@@ -3,7 +3,7 @@ title: "1% Off MORPH 3"
 description: "MORPH 3 is on sale at Plugin Boutique for $13,980 — down from ~~$14,056.50~~ — saving you $76.50 at approximately 1% off the regular price. It's a modest..."
 pubDate: "2026-05-11T11:29:56Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/33-Modulator/12204-MORPH-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=morph-3-e28d56"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/33-Modulator/12204-MORPH-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=morph-3-e28d56&chan=art&data1=morph-3-e28d56"
 heroImage: "/images/morph-3-e28d56.jpg"
 score: 10.00
 dealPrice: "$149"
@@ -12,7 +12,7 @@ dealPrice: "$149"
 xText: "MORPH 3 just landed. these morphing plugins genuinely change how things sit in a mix. new release means you can test it without any baggage. time to go check it"
 draft: true
 ---
-**TL;DR:** MORPH 3 is on sale at Plugin Boutique for $13,980 — down from ~~$14,056.50~~ — saving you $76.50 at approximately 1% off the regular price. It's a modest but real discount on a specialized audio morphing tool that doesn't go on sale often. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/33-Modulator/12204-MORPH-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=morph-3-e28d56)
+**TL;DR:** MORPH 3 is on sale at Plugin Boutique for $13,980 — down from ~~$14,056.50~~ — saving you $76.50 at approximately 1% off the regular price. It's a modest but real discount on a specialized audio morphing tool that doesn't go on sale often. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/33-Modulator/12204-MORPH-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=morph-3-e28d56&chan=art&data1=morph-3-e28d56)
 
 ---
 
@@ -58,7 +58,7 @@ A 1% discount is a smaller-scale sale rather than a headline markdown event. Tha
 
 Verify current pricing on the product page — deals can change.
 
-[Check the current price and get MORPH 3 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/33-Modulator/12204-MORPH-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=morph-3-e28d56)
+[Check the current price and get MORPH 3 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/33-Modulator/12204-MORPH-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=morph-3-e28d56&chan=art&data1=morph-3-e28d56)
 
 ---
 
@@ -94,7 +94,7 @@ A: The product page will have information on upgrade pricing if you already own 
 
 $76.50 off isn't a flash sale, but on a niche audio morphing plugin that rarely sees discounts, it's a real saving. If MORPH 3 is on your list, now is a sensible time to lock it in.
 
-[Get MORPH 3 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/33-Modulator/12204-MORPH-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=morph-3-e28d56)
+[Get MORPH 3 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/33-Modulator/12204-MORPH-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=morph-3-e28d56&chan=art&data1=morph-3-e28d56)
 
 ## Related Guides
 

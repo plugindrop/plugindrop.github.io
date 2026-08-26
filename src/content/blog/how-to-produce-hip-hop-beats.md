@@ -163,7 +163,7 @@ Stay on the free chain until you have hit a specific, identifiable ceiling. When
 - **Price:** Paid — see current pricing on site
 - **Why upgrade:** MT Power Drum Kit 2 covers one acoustic kit well. Addictive Drums 2 ships with multiple genre-specific kits — including boom bap and live hip-hop options — along with sophisticated room, overhead, and bleed controls that produce a more fully realized acoustic drum sound at the mixing stage. For producers whose drum mix is the primary quality bottleneck, it addresses that directly.
 
-[→ Get XLN Audio Addictive Drums 2 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763)
+[→ Get XLN Audio Addictive Drums 2 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763&chan=art&data1=how-to-produce-hip-hop-beats)
 
 ---
 
@@ -178,7 +178,7 @@ Stay on the free chain until you have hit a specific, identifiable ceiling. When
 | Valhalla Supermassive | Free | Reverb | Commercial-grade algorithms, multiple modes, modulation | [Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Serum 2 | Paid | Wavetable synth | Visual wavetable editor, deep modulation matrix | [Get It](https://xferrecords.com/products/serum-2) |
 | Native Instruments Battery 4 | Paid | Drum sampler | Multi-kit support, per-cell routing, large sample library | [Get It](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) |
-| XLN Audio Addictive Drums 2 | Paid | Drum sampler | Genre-specific kits, room and overhead controls | [Get It](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763) |
+| XLN Audio Addictive Drums 2 | Paid | Drum sampler | Genre-specific kits, room and overhead controls | [Get It](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763&chan=art&data1=how-to-produce-hip-hop-beats) |
 
 ---
 

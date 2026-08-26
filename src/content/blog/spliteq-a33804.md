@@ -3,7 +3,7 @@ title: "47% Off SplitEQ"
 description: "Eventide SplitEQ is down 47% at Plugin Boutique — ~~$163.90~~ $86.90, saving you $77 on one of the most distinctive EQ concepts on the market. If you've been"
 pubDate: "2026-05-07T05:05:38Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804&chan=art&data1=spliteq-a33804"
 heroImage: "/images/spliteq-a33804.jpg"
 score: 7.38
 dealPrice: "$86.9"
@@ -12,7 +12,7 @@ discount: "47% OFF"
 xText: "47% off right now. split-band eqing is one of those things that sounds boring until you use it and realize how much time it saves"
 draft: false
 ---
-**TL;DR:** Eventide SplitEQ is down 47% at Plugin Boutique — ~~$163.90~~ **$86.90**, saving you $77 on one of the most distinctive EQ concepts on the market. If you've been watching this one, now is a solid time to pull the trigger. [Grab it here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804)
+**TL;DR:** Eventide SplitEQ is down 47% at Plugin Boutique — ~~$163.90~~ **$86.90**, saving you $77 on one of the most distinctive EQ concepts on the market. If you've been watching this one, now is a solid time to pull the trigger. [Grab it here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804&chan=art&data1=spliteq-a33804)
 
 ---
 
@@ -62,7 +62,7 @@ Eventide doesn't run deep discounts constantly — this 47% off window is worth 
 
 Note: Verify current pricing on the product page — deals can change.
 
-[Get SplitEQ at 47% off on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804)
+[Get SplitEQ at 47% off on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804&chan=art&data1=spliteq-a33804)
 
 ---
 
@@ -96,7 +96,7 @@ A: The transient/tonal split is applicable to any audio source with distinct att
 
 ## Get the Deal
 
-47% off SplitEQ is one of the deeper discounts on an Eventide plugin in recent memory — $86.90 for a genuinely differentiated EQ concept is hard to argue with. [Grab SplitEQ at Plugin Boutique before the deal expires.](https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804)
+47% off SplitEQ is one of the deeper discounts on an Eventide plugin in recent memory — $86.90 for a genuinely differentiated EQ concept is hard to argue with. [Grab SplitEQ at Plugin Boutique before the deal expires.](https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804&chan=art&data1=spliteq-a33804)
 
 ## Related Guides
 

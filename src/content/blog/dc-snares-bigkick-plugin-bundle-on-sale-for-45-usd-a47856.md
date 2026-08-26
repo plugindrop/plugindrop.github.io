@@ -3,13 +3,13 @@ title: "DC Snares & BigKick plugin bundle: Features, Pricing & Is It Worth It? (
 description: "Everything you need to know about DC Snares & BigKick plugin bundle: key features, current pricing, and whether it's worth buying. Updated 2026."
 pubDate: '2026-04-01T18:43:34Z'
 tags: ["review", "drums", "excite audio", "music-production", "bundle"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/12750-DC-Snares-BigKick-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-bigkick-plugin-bundle-on-sale-for-45-usd-a47856&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/12750-DC-Snares-BigKick-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-bigkick-plugin-bundle-on-sale-for-45-usd-a47856&a_aid=69cb95abe1763&chan=art&data1=dc-snares-bigkick-plugin-bundle-on-sale-for-45-usd-a47856"
 heroImage: /images/dc-snares-bigkick-plugin-bundle-on-sale-for-45-usd-a47856.jpg
 score: 5.57
 draft: false
 converted: true
 ---
-**DC Snares & BigKick plugin bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/12750-DC-Snares-BigKick-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-bigkick-plugin-bundle-on-sale-for-45-usd-a47856&a_aid=69cb95abe1763)
+**DC Snares & BigKick plugin bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/12750-DC-Snares-BigKick-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-bigkick-plugin-bundle-on-sale-for-45-usd-a47856&a_aid=69cb95abe1763&chan=art&data1=dc-snares-bigkick-plugin-bundle-on-sale-for-45-usd-a47856)
 
 ---
 
@@ -62,7 +62,7 @@ A: Yes. DC Snares supports drag-and-drop sample import across its four sound slo
 
 If kick and snare sound design is part of your workflow, the math on this bundle speaks for itself.
 
-[**Get the DC Snares & BigKick bundle for $45 at Plugin Boutique →**](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/12750-DC-Snares-BigKick-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-bigkick-plugin-bundle-on-sale-for-45-usd-a47856&a_aid=69cb95abe1763)
+[**Get the DC Snares & BigKick bundle for $45 at Plugin Boutique →**](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/12750-DC-Snares-BigKick-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=dc-snares-bigkick-plugin-bundle-on-sale-for-45-usd-a47856&a_aid=69cb95abe1763&chan=art&data1=dc-snares-bigkick-plugin-bundle-on-sale-for-45-usd-a47856)
 
 ---
 

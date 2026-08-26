@@ -3,13 +3,13 @@ title: "World Suite 3: Features, Pricing & Is It Worth It? (2026)"
 description: "World Suite 3 is a virtual instrument plugin designed to bring authentic global sounds into your DAW. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:27:44Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4&chan=art&data1=world-suite-3-1643f4"
 heroImage: /images/world-suite-3-1643f4.jpg
 score: 8.95
 draft: false
 converted: true
 ---
-**World Suite 3** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4)
+**World Suite 3** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4&chan=art&data1=world-suite-3-1643f4)
 
 ---
 
@@ -40,7 +40,7 @@ World Suite 3 is a virtual instrument plugin designed to bring authentic global 
 
 > **Note:** Verify current pricing on the product page — deals can change without notice.
 
-[Check the current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4)
+[Check the current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4&chan=art&data1=world-suite-3-1643f4)
 
 ---
 
@@ -73,7 +73,7 @@ A: Plugin Boutique's refund policy applies — check their terms of service dire
 
 A world music virtual instrument library is a deal worth bookmarking. Check current pricing at Plugin Boutique.
 
-[**Get World Suite 3 for $149 at Plugin Boutique →**](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4)
+[**Get World Suite 3 for $149 at Plugin Boutique →**](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4&chan=art&data1=world-suite-3-1643f4)
 
 ---
 

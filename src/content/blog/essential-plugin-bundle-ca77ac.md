@@ -3,7 +3,7 @@ title: "81% Off Essential Plugin Bundle"
 description: "Plugin Boutique's Essential Plugin Bundle packs 15 effects plugins into a single purchase — currently priced at just $149.00 (down from ~~$772.00~~)..."
 pubDate: "2026-06-10T03:13:47Z"
 tags: ["sale", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/1480-Essential-Plugin-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-plugin-bundle-ca77ac"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/1480-Essential-Plugin-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-plugin-bundle-ca77ac&chan=art&data1=essential-plugin-bundle-ca77ac"
 heroImage: "/images/essential-plugin-bundle-ca77ac.jpg"
 score: 10.00
 dealPrice: "$149.00"
@@ -12,7 +12,7 @@ discount: "81% OFF"
 xText: "this is the kind of bundle pricing that makes you wonder why you don't own this stuff already. 81% off means every plugin costs less than a night out. do the math."
 draft: true
 ---
-**TL;DR:** Plugin Boutique's Essential Plugin Bundle packs 15 effects plugins into a single purchase — currently priced at just $149.00 (down from ~~$772.00~~), which works out to roughly $9.93 per plugin. That's 81% off and one of the stronger bundle values in the effects plugin space right now. [Grab it at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/1480-Essential-Plugin-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-plugin-bundle-ca77ac)
+**TL;DR:** Plugin Boutique's Essential Plugin Bundle packs 15 effects plugins into a single purchase — currently priced at just $149.00 (down from ~~$772.00~~), which works out to roughly $9.93 per plugin. That's 81% off and one of the stronger bundle values in the effects plugin space right now. [Grab it at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/1480-Essential-Plugin-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-plugin-bundle-ca77ac&chan=art&data1=essential-plugin-bundle-ca77ac)
 
 ---
 
@@ -58,7 +58,7 @@ That per-unit figure is the real story here. Individual plugin pricing at Plugin
 
 Plugin Boutique does run periodic sales and bundles, but deep 80%+ discounts on collections this size are not an everyday occurrence. Verify current pricing on the product page — deals can change.
 
-[Check the current price and full plugin list here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/1480-Essential-Plugin-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-plugin-bundle-ca77ac)
+[Check the current price and full plugin list here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/1480-Essential-Plugin-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-plugin-bundle-ca77ac&chan=art&data1=essential-plugin-bundle-ca77ac)
 
 ---
 
@@ -94,7 +94,7 @@ A: Check Plugin Boutique's official refund and returns policy on their site — 
 
 $623 in savings on a 15-plugin effects bundle is the kind of deal worth acting on before the price resets. At ~$9.93 per plugin, you'd be hard-pressed to build a comparable library for less.
 
-[Get the Essential Plugin Bundle at Plugin Boutique for $149.00.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/1480-Essential-Plugin-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-plugin-bundle-ca77ac)
+[Get the Essential Plugin Bundle at Plugin Boutique for $149.00.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/1480-Essential-Plugin-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-plugin-bundle-ca77ac&chan=art&data1=essential-plugin-bundle-ca77ac)
 
 ## Related Guides
 

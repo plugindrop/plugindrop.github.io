@@ -20,7 +20,7 @@ draft: false
 | Plugin | Price (2026) | Best For | Get It |
 |--------|-------|----------|--------|
 | iZotope Stutter Edit 2 | ~$199 (frequently ~$99 on sale) | MIDI-triggered glitch & stutter | [Official Site](https://www.izotope.com/en/products/insight) |
-| Soundtoys 5 | ~$499 (~$199–299 during flash sales) | Full creative effects bundle | [Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
+| Soundtoys 5 | ~$499 (~$199–299 during flash sales) | Full creative effects bundle | [Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
 | Sugar Bytes Turnado | ~$99 (~$49 in Sugar Bytes sales) | Real-time performance multi-FX | [Official Site](https://sugar-bytes.de/turnado) |
 | Output Portal | ~$99 (~$49 during Output promos) | Granular pitch & time textures | [Official Site](https://output.com/products/portal) |
 | RC-20 Retro Color | ~$99 (~$49 in XLN bundles) | Lo-fi degradation & vintage texture | [Official Site](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
@@ -235,7 +235,7 @@ This is the single most important plugin on this list to time correctly. Soundto
 
 **Best for:** Producers ready to invest in a creative effects toolkit that handles every workflow, not just one use case.
 
-[→ Get Soundtoys 5 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys 5 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins)
 
 ---
 
@@ -303,7 +303,7 @@ Because the core host is free forever, there's zero risk in installing it today.
 - **Price:** ~$499 (~$199-299 during sales)
 - **Why upgrade:** Assembling individual free or budget creative effects plugins produces an inconsistent toolkit where quality, workflow, and sonic character vary across tools. Soundtoys 5 provides a unified library where every plugin meets the same quality standard — and purchasing individual Soundtoys plugins adds up quickly. EchoBoy, Crystallizer, and Decapitator alone cover creative territory that no combination of free alternatives replicates with equivalent depth. Combine the upgrade case with the sale timing above and this becomes the highest-value single purchase on this list.
 
-[→ Get Soundtoys 5 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys 5 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins)
 
 ---
 
@@ -311,18 +311,18 @@ Because the core host is free forever, there's zero risk in installing it today.
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| iZotope Stutter Edit 2 | ~$199 | Glitch/Stutter | MIDI gesture system, real-time performance | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
-| Glitch 2 | ~$35 | Glitch Sequencer | Step-sequenced glitch cells, high value | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
-| Sugar Bytes Turnado | ~$99 | Multi-FX Performance | Dictator macro, 8 simultaneous FX slots | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
-| Sugar Bytes Effectrix | ~$79 | Sequenced Multi-FX | Tempo-synced step FX, precise programming | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
-| GrossBeat | ~$99 | Gate/Time Manipulation | Volume gating, time FX, large pattern library | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
-| Devious Machines Infiltrator 2 | ~$89 | Sequenced Multi-FX | Visual routing, tempo-synced modulation | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
-| Output Portal | ~$99 | Granular FX | Real-time granular insert, immediate results | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
-| Tantra 2 | ~$79 | Rhythmic Modulation | Step-sequenced modulation, low signature sound | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
-| RC-20 Retro Color | ~$99 | Lo-Fi/Texture | 6 degradation modules, animated lo-fi character | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
-| Soundtoys 5 | ~$499 | Creative Bundle | 14+ plugins, studio-standard across genres | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
+| iZotope Stutter Edit 2 | ~$199 | Glitch/Stutter | MIDI gesture system, real-time performance | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
+| Glitch 2 | ~$35 | Glitch Sequencer | Step-sequenced glitch cells, high value | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
+| Sugar Bytes Turnado | ~$99 | Multi-FX Performance | Dictator macro, 8 simultaneous FX slots | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
+| Sugar Bytes Effectrix | ~$79 | Sequenced Multi-FX | Tempo-synced step FX, precise programming | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
+| GrossBeat | ~$99 | Gate/Time Manipulation | Volume gating, time FX, large pattern library | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
+| Devious Machines Infiltrator 2 | ~$89 | Sequenced Multi-FX | Visual routing, tempo-synced modulation | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
+| Output Portal | ~$99 | Granular FX | Real-time granular insert, immediate results | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
+| Tantra 2 | ~$79 | Rhythmic Modulation | Step-sequenced modulation, low signature sound | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
+| RC-20 Retro Color | ~$99 | Lo-Fi/Texture | 6 degradation modules, animated lo-fi character | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
+| Soundtoys 5 | ~$499 | Creative Bundle | 14+ plugins, studio-standard across genres | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
 | Valhalla Freq Echo | Free | Frequency-Shift Delay | Alien textures, fully free, no limitations | Free — Valhalla DSP |
-| Kilohearts Snap Heap | Free/Paid | Modular FX | Expandable snapin ecosystem, custom routing | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
+| Kilohearts Snap Heap | Free/Paid | Modular FX | Expandable snapin ecosystem, custom routing | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
 
 ---
 

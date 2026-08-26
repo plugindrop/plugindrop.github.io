@@ -3,13 +3,13 @@ title: "Bloom KSHMR: Features, Pricing & Is It Worth It? (2026)"
 description: "Bloom KSHMR is a virtual instrument plugin developed in collaboration with KSHMR (Niles Hollowell-Dhar) — a. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:28:24Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14907-Bloom-KSHMR?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-kshmr-8566cc"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14907-Bloom-KSHMR?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-kshmr-8566cc&chan=art&data1=bloom-kshmr-8566cc"
 heroImage: /images/bloom-kshmr-8566cc.jpg
 score: 7.90
 draft: false
 converted: true
 ---
-**Bloom KSHMR** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14907-Bloom-KSHMR?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-kshmr-8566cc)
+**Bloom KSHMR** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14907-Bloom-KSHMR?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-kshmr-8566cc&chan=art&data1=bloom-kshmr-8566cc)
 
 ---
 
@@ -40,7 +40,7 @@ Bloom KSHMR is a virtual instrument plugin developed in collaboration with KSHMR
 
 ##  Plugin Boutique runs targeted promotions like this periodically, but they don't run on a fixed calendar — when the price resets, it resets. If Bloom KSHMR is already on your radar, now is a reasonable entry point.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14907-Bloom-KSHMR?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-kshmr-8566cc)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14907-Bloom-KSHMR?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-kshmr-8566cc&chan=art&data1=bloom-kshmr-8566cc)
 
 ---
 
@@ -73,7 +73,7 @@ A: Refund and return policies vary by product and publisher. Check Plugin Boutiq
 
 Bloom KSHMR is down to **$39.00**. If cinematic EDM textures belong in your next project, this is the right window to pick it up.
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14907-Bloom-KSHMR?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-kshmr-8566cc)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14907-Bloom-KSHMR?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-kshmr-8566cc&chan=art&data1=bloom-kshmr-8566cc)
 
 ---
 

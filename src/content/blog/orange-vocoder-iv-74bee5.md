@@ -3,7 +3,7 @@ title: "47% Off ORANGE VOCODER IV"
 description: "ORANGE VOCODER IV is 47% off at Plugin Boutique right now — down from ~~$149.00~~ to **$79.00**, a straight $70 saving. For producers who've been sitting..."
 pubDate: "2026-05-18T14:41:12Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/43-Vocoder/10533-ORANGE-VOCODER-IV?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=orange-vocoder-iv-74bee5"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/43-Vocoder/10533-ORANGE-VOCODER-IV?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=orange-vocoder-iv-74bee5&chan=art&data1=orange-vocoder-iv-74bee5"
 heroImage: "/images/orange-vocoder-iv-74bee5.jpg"
 score: 9.42
 dealPrice: "$79.00"
@@ -12,7 +12,7 @@ discount: "47% OFF"
 xText: "orange vocoder iv just shipped at 47% off (lowest since launch). this vocoder actually works for serious production, not just the robotic fun-stuff. now's the time if you've been waiting."
 draft: true
 ---
-**TL;DR:** ORANGE VOCODER IV is 47% off at Plugin Boutique right now — down from ~~$149.00~~ to **$79.00**, a straight $70 saving. For producers who've been sitting on adding a dedicated vocoder to their setup, this is a meaningful price drop worth acting on. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/43-Vocoder/10533-ORANGE-VOCODER-IV?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=orange-vocoder-iv-74bee5)
+**TL;DR:** ORANGE VOCODER IV is 47% off at Plugin Boutique right now — down from ~~$149.00~~ to **$79.00**, a straight $70 saving. For producers who've been sitting on adding a dedicated vocoder to their setup, this is a meaningful price drop worth acting on. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/43-Vocoder/10533-ORANGE-VOCODER-IV?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=orange-vocoder-iv-74bee5&chan=art&data1=orange-vocoder-iv-74bee5)
 
 ---
 
@@ -52,7 +52,7 @@ A 47% discount is a substantial cut for a dedicated effect plugin. Sales at this
 
 *Verify current pricing on the product page — deals can change without notice.*
 
-[Get ORANGE VOCODER IV for $79 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/43-Vocoder/10533-ORANGE-VOCODER-IV?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=orange-vocoder-iv-74bee5)
+[Get ORANGE VOCODER IV for $79 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/43-Vocoder/10533-ORANGE-VOCODER-IV?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=orange-vocoder-iv-74bee5&chan=art&data1=orange-vocoder-iv-74bee5)
 
 ## Alternatives at a Glance
 
@@ -82,7 +82,7 @@ A: Refund terms for digital plugins vary — check Plugin Boutique's store polic
 
 $70 off a dedicated vocoder plugin is not a small discount. At **$79**, ORANGE VOCODER IV is well below its regular ~~$149.00~~ rate — and percentage sales this deep don't always come back around quickly.
 
-[Pick up ORANGE VOCODER IV at Plugin Boutique while the deal is live →](https://www.pluginboutique.com/product/2-Effects/43-Vocoder/10533-ORANGE-VOCODER-IV?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=orange-vocoder-iv-74bee5)
+[Pick up ORANGE VOCODER IV at Plugin Boutique while the deal is live →](https://www.pluginboutique.com/product/2-Effects/43-Vocoder/10533-ORANGE-VOCODER-IV?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=orange-vocoder-iv-74bee5&chan=art&data1=orange-vocoder-iv-74bee5)
 
 ## Related Guides
 

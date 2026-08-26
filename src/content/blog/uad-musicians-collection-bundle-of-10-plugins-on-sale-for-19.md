@@ -3,13 +3,13 @@ title: "UAD Musicians Collection: Bundle of 10 plugins: Features, Pricing & Is I
 description: "Universal Audio (UAD) is a hardware and software company known for its meticulous analog hardware emulations — tape machines, classic compressors, vintage EQs."
 pubDate: '2026-04-17T15:41:52Z'
 tags: ["review", "universal audio", "music-production", "bundle"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15785-UAD-Musicians-Collection?utm_source=plugindrop&utm_medium=article&utm_campaign=uad-musicians-collection-bundle-of-10-plugins-on-sale-for-19&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15785-UAD-Musicians-Collection?utm_source=plugindrop&utm_medium=article&utm_campaign=uad-musicians-collection-bundle-of-10-plugins-on-sale-for-19&a_aid=69cb95abe1763&chan=art&data1=uad-musicians-collection-bundle-of-10-plugins-on-sale-for-19"
 heroImage: /images/uad-musicians-collection-bundle-of-10-plugins-on-sale-for-19.jpg
 score: 6.54
 draft: false
 converted: true
 ---
-**UAD Musicians Collection: Bundle of 10 plugins** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15785-UAD-Musicians-Collection?utm_source=plugindrop&utm_medium=article&utm_campaign=uad-musicians-collection-bundle-of-10-plugins-on-sale-for-19&a_aid=69cb95abe1763)
+**UAD Musicians Collection: Bundle of 10 plugins** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15785-UAD-Musicians-Collection?utm_source=plugindrop&utm_medium=article&utm_campaign=uad-musicians-collection-bundle-of-10-plugins-on-sale-for-19&a_aid=69cb95abe1763&chan=art&data1=uad-musicians-collection-bundle-of-10-plugins-on-sale-for-19)
 
 ---
 
@@ -54,7 +54,7 @@ At $199 for 10 plugins, the per-unit math works out to **~$20 per plugin** — w
 
 > **Note:** Verify current pricing on the product page — deals can change without notice.
 
-[View the UAD Musicians Collection at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15785-UAD-Musicians-Collection?utm_source=plugindrop&utm_medium=article&utm_campaign=uad-musicians-collection-bundle-of-10-plugins-on-sale-for-19&a_aid=69cb95abe1763)
+[View the UAD Musicians Collection at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15785-UAD-Musicians-Collection?utm_source=plugindrop&utm_medium=article&utm_campaign=uad-musicians-collection-bundle-of-10-plugins-on-sale-for-19&a_aid=69cb95abe1763&chan=art&data1=uad-musicians-collection-bundle-of-10-plugins-on-sale-for-19)
 
 ---
 
@@ -87,7 +87,7 @@ A: The specific titles in the collection are listed on the Plugin Boutique produ
 
 Ten UAD plugins for $199 is a strong value calculation — roughly $20 per plugin from a brand known for premium analog emulations. This is the kind of bundle pricing that doesn't stay around indefinitely.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15785-UAD-Musicians-Collection?utm_source=plugindrop&utm_medium=article&utm_campaign=uad-musicians-collection-bundle-of-10-plugins-on-sale-for-19&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15785-UAD-Musicians-Collection?utm_source=plugindrop&utm_medium=article&utm_campaign=uad-musicians-collection-bundle-of-10-plugins-on-sale-for-19&a_aid=69cb95abe1763&chan=art&data1=uad-musicians-collection-bundle-of-10-plugins-on-sale-for-19)
 
 ---
 

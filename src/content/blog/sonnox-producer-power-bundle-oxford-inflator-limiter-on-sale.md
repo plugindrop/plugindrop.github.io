@@ -3,7 +3,7 @@ title: "Sonnox Producer Power Bundle (Oxford Inflator & Limiter): Features, Pric
 description: "Sonnox is a UK-based plugin developer with roots in professional broadcast and recording studio tools. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-20T11:06:31Z'
 tags: ["review", "compressor and limiter", "sonnox", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16123-Sonnox-Producer-Power-Bundle-Oxford-Inflator-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16123-Sonnox-Producer-Power-Bundle-Oxford-Inflator-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale&chan=art&data1=sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale"
 heroImage: /images/sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale.jpg
 score: 10.00
 draft: false
@@ -11,7 +11,7 @@ converted: true
 priceTrack:
   - "FabFilter Pro-L 2"
 ---
-**Sonnox Producer Power Bundle (Oxford Inflator & Limiter)** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16123-Sonnox-Producer-Power-Bundle-Oxford-Inflator-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale)
+**Sonnox Producer Power Bundle (Oxford Inflator & Limiter)** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16123-Sonnox-Producer-Power-Bundle-Oxford-Inflator-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale&chan=art&data1=sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale)
 
 ---
 
@@ -52,7 +52,7 @@ The Oxford Inflator in particular has a long-standing reputation on mixing and m
 
 > **Note:** Verify current pricing on the product page — deals can change without notice.
 
-[See current pricing and buy at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16123-Sonnox-Producer-Power-Bundle-Oxford-Inflator-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale)
+[See current pricing and buy at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16123-Sonnox-Producer-Power-Bundle-Oxford-Inflator-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale&chan=art&data1=sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale)
 
 ---
 
@@ -83,7 +83,7 @@ A: Sonnox sometimes offers upgrade pricing for existing license holders. Check t
 
 ## Where to Buy
 
-Two professional mastering tools for $49 — the Sonnox Producer Power Bundle is a straightforward value add for anyone building out a mixing or mastering signal chain. [Pick it up at Plugin Boutique while the deal is active.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16123-Sonnox-Producer-Power-Bundle-Oxford-Inflator-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale)
+Two professional mastering tools for $49 — the Sonnox Producer Power Bundle is a straightforward value add for anyone building out a mixing or mastering signal chain. [Pick it up at Plugin Boutique while the deal is active.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16123-Sonnox-Producer-Power-Bundle-Oxford-Inflator-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale&chan=art&data1=sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale)
 
 ---
 

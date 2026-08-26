@@ -3,13 +3,13 @@ title: "Skaka: Features, Pricing & Is It Worth It? (2026)"
 description: "Skaka is a drum machine instrument plugin available exclusively through Plugin Boutique. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-28T00:03:25Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/8721-Skaka?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=skaka-2da7a8"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/8721-Skaka?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=skaka-2da7a8&chan=art&data1=skaka-2da7a8"
 heroImage: /images/skaka-2da7a8.jpg
 score: 7.15
 draft: false
 converted: true
 ---
-**Skaka** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/8721-Skaka?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=skaka-2da7a8)
+**Skaka** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/8721-Skaka?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=skaka-2da7a8&chan=art&data1=skaka-2da7a8)
 
 ---
 
@@ -41,7 +41,7 @@ Skaka is a drum machine instrument plugin available exclusively through Plugin B
 
  Plugin Boutique runs time-limited percentage deals across its catalog, and discounts in the 50%+ range on individual instruments are notable — this puts Skaka below the $30 threshold where impulse-buy decisions are common for producers building out their plugin library.
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/8721-Skaka?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=skaka-2da7a8)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/8721-Skaka?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=skaka-2da7a8&chan=art&data1=skaka-2da7a8)
 
 ---
 
@@ -74,7 +74,7 @@ A: Activation requirements are listed on the Plugin Boutique product page — ch
 
 99 —  Producers looking to add a focused percussive tool to their setup without a large outlay have a concrete window here.
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/8721-Skaka?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=skaka-2da7a8)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/8721-Skaka?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=skaka-2da7a8&chan=art&data1=skaka-2da7a8)
 
 ---
 

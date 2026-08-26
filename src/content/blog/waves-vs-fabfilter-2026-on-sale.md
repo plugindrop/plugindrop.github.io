@@ -38,14 +38,14 @@ FabFilter is positioned as a premium brand with a focus on surgical precision an
 
 ## Where to Get It
 
-[Grab Waves at $49.00 from Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) before the deal expires.
+[Grab Waves at $49.00 from Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=waves-vs-fabfilter-2026-on-sale) before the deal expires.
 
 For a full head-to-head breakdown of features, pricing, and workflows, read our [Waves vs FabFilter: Which Plugin Brand Is Worth Buying in 2026](https://plugindrop.net/posts/waves-vs-fabfilter-2026/).
 
 ## FAQ
 
 **Q: Is Waves on sale right now?**
-A: Yes—currently $49.00 (down from $99.99). Verify the current price at [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) as deals can expire.
+A: Yes—currently $49.00 (down from $99.99). Verify the current price at [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=waves-vs-fabfilter-2026-on-sale) as deals can expire.
 
 **Q: How does Waves compare to FabFilter?**
 A: Waves is value-focused with industry-standard tools; FabFilter is a premium brand known for refined UI and surgical precision. Waves gives you more features per dollar, while FabFilter prioritizes intuitive workflow and design polish.

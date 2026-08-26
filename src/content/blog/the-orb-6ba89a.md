@@ -3,13 +3,13 @@ title: "The Orb: Features, Pricing & Is It Worth It? (2026)"
 description: "The Orb is a creative filter effect plugin sold through Plugin Boutique. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T23:42:54Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a&chan=art&data1=the-orb-6ba89a"
 heroImage: /images/the-orb-6ba89a.jpg
 score: 6.65
 draft: false
 converted: true
 ---
-**The Orb** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a)
+**The Orb** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a&chan=art&data1=the-orb-6ba89a)
 
 ---
 
@@ -43,7 +43,7 @@ The Orb is a creative filter effect plugin sold through Plugin Boutique. It sits
 
 Note: Verify current pricing on the product page — deals can change without notice.
 
-[Pick up The Orb at the discounted price on Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a)
+[Pick up The Orb at the discounted price on Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a&chan=art&data1=the-orb-6ba89a)
 
 ---
 
@@ -77,7 +77,7 @@ A: Minimum OS and CPU specs are listed on the official product page; check there
 
 ## Where to Buy
 
-42** — a straightforward saving on a creative filter plugin with no bundle strings attached. [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a)
+42** — a straightforward saving on a creative filter plugin with no bundle strings attached. [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a&chan=art&data1=the-orb-6ba89a)
 
 ---
 

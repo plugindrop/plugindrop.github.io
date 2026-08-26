@@ -27,16 +27,16 @@ The rewrite is complete — 3,197 words, all originals preserved (video embeds, 
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Valhalla Supermassive | Free | Ambient, space, cinematic tails | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb) |
-| TAL-Reverb-4 | Free | Plate reverb, vocals, vintage shimmer | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb) |
+| Valhalla Supermassive | Free | Ambient, space, cinematic tails | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb&chan=art&data1=free-alternative-to-valhalla-reverb) |
+| TAL-Reverb-4 | Free | Plate reverb, vocals, vintage shimmer | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb&chan=art&data1=free-alternative-to-valhalla-reverb) |
 | Dragonfly Reverb | Free | Rooms, halls, early reflections | [Free Download](https://michaelwillis.github.io/dragonfly-reverb/) |
 | OldSkoolVerb | Free | Lush vintage algorithmic reverb | [Free Download](https://www.meldaproduction.com/MCharmVerb) |
 | Valhalla VintageVerb | $49.99 | All-around studio reverb, 18 algorithms | [Get It Here](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
-| Valhalla Room | $49.99 | Tight room simulation, drums, vocals | [Get It Here (Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Room&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb) |
+| Valhalla Room | $49.99 | Tight room simulation, drums, vocals | [Get It Here (Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Room&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb&chan=art&data1=free-alternative-to-valhalla-reverb) |
 
 ---
 
-> **Considering the upgrade?** Valhalla VintageVerb and Room are priced at $49.99 with essentially no discounting history — Valhalla doesn't run the aggressive seasonal sales that competitors like FabFilter or Melda do. → [Does Valhalla DSP Go On Sale?](/posts/does-valhalla-dsp-ever-go-on-sale/) | [Buy Valhalla Room (Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla+Room&a_aid=69cb95abe1763)
+> **Considering the upgrade?** Valhalla VintageVerb and Room are priced at $49.99 with essentially no discounting history — Valhalla doesn't run the aggressive seasonal sales that competitors like FabFilter or Melda do. → [Does Valhalla DSP Go On Sale?](/posts/does-valhalla-dsp-ever-go-on-sale/) | [Buy Valhalla Room (Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Room&a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-valhalla-reverb)
 
 ## Introduction
 
@@ -67,7 +67,7 @@ The tradeoff is deliberate scope. Supermassive's identity is large and diffuse s
 
 **Best for:** Ambient, cinematic, and electronic music contexts where large, evolving reverb tails are the goal.
 
-[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb)
+[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb&chan=art&data1=free-alternative-to-valhalla-reverb)
 
 ---
 
@@ -90,7 +90,7 @@ If you're deciding whether to install this today or wait for something better, t
 
 **Best for:** Vocals, synth pads, classic pop and rock reverb tones, shimmer effects for pads and keys.
 
-[→ Download TAL-Reverb-4 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb)
+[→ Download TAL-Reverb-4 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb&chan=art&data1=free-alternative-to-valhalla-reverb)
 
 ---
 
@@ -162,7 +162,7 @@ Before you buy, it's worth knowing Valhalla's pricing behavior specifically: the
 
 Same pricing note applies here as with VintageVerb: Valhalla Room sits at $49.99 with no meaningful sale history, so there's no tactical advantage to delaying the purchase if you already know you need it. See [Does Valhalla DSP Go On Sale?](/posts/does-valhalla-dsp-ever-go-on-sale/) for confirmation before you plan around a discount that isn't coming.
 
-[→ Get Valhalla Room (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Room&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb)
+[→ Get Valhalla Room (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Room&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb&chan=art&data1=free-alternative-to-valhalla-reverb)
 
 ---
 
@@ -170,12 +170,12 @@ Same pricing note applies here as with VintageVerb: Valhalla Room sits at $49.99
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Valhalla Supermassive | Free | Algorithmic | 16 delay lines, massive diffuse tails, shimmer modes | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb) |
-| TAL-Reverb-4 | Free | Plate/Hall | Warm vintage character, shimmer mode, low CPU | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb) |
+| Valhalla Supermassive | Free | Algorithmic | 16 delay lines, massive diffuse tails, shimmer modes | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb&chan=art&data1=free-alternative-to-valhalla-reverb) |
+| TAL-Reverb-4 | Free | Plate/Hall | Warm vintage character, shimmer mode, low CPU | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb&chan=art&data1=free-alternative-to-valhalla-reverb) |
 | Dragonfly Reverb | Free | Algorithmic Suite | 4 separate plugins: Room, Hall, Plate, Early Reflections | [Download Free](https://michaelwillis.github.io/dragonfly-reverb/) |
 | OldSkoolVerb | Free | Algorithmic | Vintage warmth, smooth tail, part of MFreeFXBundle | [Download Free](https://www.meldaproduction.com/MCharmVerb) |
-| Valhalla VintageVerb | $49.99 | Algorithmic | 18 hardware-era algorithms, gold-standard community rating | [Get It (Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla+VintageVerb&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb) |
-| Valhalla Room | $49.99 | Room Simulator | Tight early reflections, precision room ambience | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Room&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb) |
+| Valhalla VintageVerb | $49.99 | Algorithmic | 18 hardware-era algorithms, gold-standard community rating | [Get It (Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20VintageVerb&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb&chan=art&data1=free-alternative-to-valhalla-reverb) |
+| Valhalla Room | $49.99 | Room Simulator | Tight early reflections, precision room ambience | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Room&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-alternative-to-valhalla-reverb&chan=art&data1=free-alternative-to-valhalla-reverb) |
 
 ---
 

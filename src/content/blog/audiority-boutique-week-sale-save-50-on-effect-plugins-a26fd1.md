@@ -3,13 +3,13 @@ title: "Space Station Um282: Features, Pricing & Is It Worth It? (2026)"
 description: "Audiority is an Italian plugin developer known for meticulously modeled boutique-style effects — the kind of. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-20T07:44:34Z'
 tags: ["review", "audiority", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/10-Delay/8565-Space-Station-UM282?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/10-Delay/8565-Space-Station-UM282?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1&chan=art&data1=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1"
 heroImage: /images/audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1.jpg
 score: 9.08
 draft: false
 converted: true
 ---
-**Space Station Um282** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/10-Delay/8565-Space-Station-UM282?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1)
+**Space Station Um282** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/10-Delay/8565-Space-Station-UM282?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1&chan=art&data1=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1)
 
 ---
 
@@ -55,7 +55,7 @@ Exact prices vary by title — verify current pricing directly on the product pa
 
 Audiority doesn't run 50% sales frequently; this Boutique Week promotion is a notable discount relative to their usual pricing. If you've been waiting, this is a meaningful window.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/8565-Space-Station-UM282?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/8565-Space-Station-UM282?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1&chan=art&data1=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1)
 
 ---
 
@@ -86,7 +86,7 @@ A: The promotion covers a selection of Audiority effect plugins (delay, reverb, 
 
 ## Where to Buy
 
-[Shop the Audiority Boutique Week Sale at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/10-Delay/8565-Space-Station-UM282?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1)
+[Shop the Audiority Boutique Week Sale at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/10-Delay/8565-Space-Station-UM282?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1&chan=art&data1=audiority-boutique-week-sale-save-50-on-effect-plugins-a26fd1)
 
 ---
 

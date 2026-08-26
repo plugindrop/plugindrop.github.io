@@ -3,7 +3,7 @@ title: "74% Off Oxford Limiter"
 description: "The Sonnox Oxford Limiter is down 74% at Plugin Boutique — ~~$290.4~~ → **$75.9**. That's a significant drop on a professional mastering-grade limiter..."
 pubDate: "2026-05-08T01:52:58Z"
 tags: ["sale", "vst-plugin", "effects", "compressor", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/9-Limiter/495-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=oxford-limiter-c0a04f"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/9-Limiter/495-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=oxford-limiter-c0a04f&chan=art&data1=oxford-limiter-c0a04f"
 heroImage: "/images/oxford-limiter-c0a04f.jpg"
 score: 8.82
 dealPrice: "$75.9"
@@ -12,7 +12,7 @@ discount: "74% OFF"
 xText: "never seen oxford limiter this cheap – 74% off. if you've been wanting transparent limiting that doesn't color your mix, now's when you grab it."
 draft: true
 ---
-**TL;DR:** The Sonnox Oxford Limiter is down 74% at Plugin Boutique — ~~$290.4~~ → **$75.9**. That's a significant drop on a professional mastering-grade limiter with a long history in high-end studio workflows. [Grab it here before the deal ends.](https://www.pluginboutique.com/product/2-Effects/9-Limiter/495-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=oxford-limiter-c0a04f)
+**TL;DR:** The Sonnox Oxford Limiter is down 74% at Plugin Boutique — ~~$290.4~~ → **$75.9**. That's a significant drop on a professional mastering-grade limiter with a long history in high-end studio workflows. [Grab it here before the deal ends.](https://www.pluginboutique.com/product/2-Effects/9-Limiter/495-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=oxford-limiter-c0a04f&chan=art&data1=oxford-limiter-c0a04f)
 
 ---
 
@@ -52,7 +52,7 @@ Sales at this depth on Sonnox titles are not an everyday occurrence — their pl
 
 > Verify current pricing on the product page — deals can change without notice.
 
-[Check current pricing and buy at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/9-Limiter/495-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=oxford-limiter-c0a04f)
+[Check current pricing and buy at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/9-Limiter/495-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=oxford-limiter-c0a04f&chan=art&data1=oxford-limiter-c0a04f)
 
 ## Alternatives at a Glance
 
@@ -82,7 +82,7 @@ A: Check the official product page for up-to-date macOS/Windows compatibility an
 
 74% off a professional mastering limiter from Sonnox is a deal that doesn't come around often. If limiting and loudness-for-streaming are gaps in your plugin setup, this is a cost-effective way to fill them.
 
-[Get the Oxford Limiter for $75.9 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/9-Limiter/495-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=oxford-limiter-c0a04f)
+[Get the Oxford Limiter for $75.9 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/9-Limiter/495-Oxford-Limiter?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=oxford-limiter-c0a04f&chan=art&data1=oxford-limiter-c0a04f)
 
 ## Related Guides
 

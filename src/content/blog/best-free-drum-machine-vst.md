@@ -247,7 +247,7 @@ If you've worked through the free tier and hit consistent friction — inflexibl
 - **Price:** From $99
 - **Why upgrade:** Addictive Drums 2's consistent advantage — cited regularly in r/audioengineering and r/WeAreTheMusicMakers — is that its output sits in a mix with minimal post-processing. Each kit is recorded with multiple mic positions and phase-coherent bleed, so less time goes to EQ, compression, and drum buss work. If you find yourself spending significant session time processing free drum samples just to make them sit, AD2 removes that friction at scale.
 
-[→ Get XLN Audio Addictive Drums 2 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763)
+[→ Get XLN Audio Addictive Drums 2 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763&chan=art&data1=best-free-drum-machine-vst)
 
 ---
 
@@ -265,8 +265,8 @@ If you've worked through the free tier and hit consistent friction — inflexibl
 | Drumatic 4 | Free | Drum Synthesizer | Synthesis-based, TR-style, no samples | [Download](https://www.e-phonic.com/) |
 | Hydrogen | Free | Standalone Sequencer | Open source, pattern-based, MIDI sync | [Download](https://hydrogen-music.org/) |
 | DSK DrumZ Akustik | Free | Acoustic Rompler | Windows VST, lightweight, no registration | [Download](https://www.dskmusic.com//) |
-| NI Battery 4 | $99 | Professional Sampler | 12,000+ samples, cell routing, layering | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763) |
-| XLN Audio Addictive Drums 2 | From $99 | Professional Rompler | Studio-recorded, multi-mic, mix-ready | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763) |
+| NI Battery 4 | $99 | Professional Sampler | 12,000+ samples, cell routing, layering | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763&chan=art&data1=best-free-drum-machine-vst) |
+| XLN Audio Addictive Drums 2 | From $99 | Professional Rompler | Studio-recorded, multi-mic, mix-ready | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763&chan=art&data1=best-free-drum-machine-vst) |
 
 ---
 

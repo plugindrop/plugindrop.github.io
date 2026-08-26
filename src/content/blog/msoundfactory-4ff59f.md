@@ -3,7 +3,7 @@ title: "59% Off MSoundFactory"
 description: "MSoundFactory by Meldaproduction is currently **59% off** at Plugin Boutique — dropping from ~~$329~~ to just **$135**. That's nearly $194 in savings on..."
 pubDate: "2026-06-08T14:43:14Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/6076-MSoundFactory?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=msoundfactory-4ff59f"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/6076-MSoundFactory?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=msoundfactory-4ff59f&chan=art&data1=msoundfactory-4ff59f"
 heroImage: "/images/msoundfactory-4ff59f.jpg"
 score: 10.00
 dealPrice: "$135.00"
@@ -12,7 +12,7 @@ discount: "59% OFF"
 xText: "soundfactory down 59%. lowest i've ever tracked it. if you're hunting fresh samples this is legitimately the moment"
 draft: true
 ---
-**TL;DR:** MSoundFactory by Meldaproduction is currently **59% off** at Plugin Boutique — dropping from ~~$329~~ to just **$135**. That's nearly $194 in savings on one of the most feature-dense instrument plugins on the market. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/6076-MSoundFactory?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=msoundfactory-4ff59f)
+**TL;DR:** MSoundFactory by Meldaproduction is currently **59% off** at Plugin Boutique — dropping from ~~$329~~ to just **$135**. That's nearly $194 in savings on one of the most feature-dense instrument plugins on the market. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/6076-MSoundFactory?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=msoundfactory-4ff59f&chan=art&data1=msoundfactory-4ff59f)
 
 ---
 
@@ -61,7 +61,7 @@ Meldaproduction has a strong following on KVR Audio, where their instruments and
 
 59% off is a substantial discount. Meldaproduction and their retail partners do run promotional events periodically, but a cut this deep on their flagship instrument is worth attention. Verify current pricing on the product page — deals can change without notice.
 
-[Check current pricing and activate the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/6076-MSoundFactory?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=msoundfactory-4ff59f)
+[Check current pricing and activate the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/6076-MSoundFactory?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=msoundfactory-4ff59f&chan=art&data1=msoundfactory-4ff59f)
 
 ---
 
@@ -97,7 +97,7 @@ A: Meldaproduction has historically provided free updates within major versions.
 
 Nearly $200 off a flagship multi-engine instrument doesn't happen every day. At $135, MSoundFactory sits in impulse-buy territory for a plugin with this feature scope.
 
-[Secure the 59% discount at Plugin Boutique before it expires.](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/6076-MSoundFactory?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=msoundfactory-4ff59f)
+[Secure the 59% discount at Plugin Boutique before it expires.](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/6076-MSoundFactory?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=msoundfactory-4ff59f&chan=art&data1=msoundfactory-4ff59f)
 
 ## Related Guides
 

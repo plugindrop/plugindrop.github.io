@@ -3,7 +3,7 @@ title: "88% Off Core Collection"
 description: "The Core Collection is down to **$29.00** (was ~~$249.00~~) at Plugin Boutique — that's 88% off and over $220 in savings. If you've been sitting on this..."
 pubDate: "2026-05-17T23:36:49Z"
 tags: ["sale", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/11366-Core-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=core-collection-2621b3"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/11366-Core-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=core-collection-2621b3&chan=art&data1=core-collection-2621b3"
 heroImage: "/images/core-collection-2621b3.jpg"
 score: 9.90
 dealPrice: "$29.00"
@@ -12,7 +12,7 @@ discount: "88% OFF"
 xText: "88% off has the core collection's per-unit cost so low that bundling everything now beats cherry picking. genuinely shifted things"
 draft: true
 ---
-**TL;DR:** The Core Collection is down to **$29.00** (was ~~$249.00~~) at Plugin Boutique — that's 88% off and over $220 in savings. If you've been sitting on this one, now is a hard time to justify waiting. [Grab it while the deal is live.](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/11366-Core-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=core-collection-2621b3)
+**TL;DR:** The Core Collection is down to **$29.00** (was ~~$249.00~~) at Plugin Boutique — that's 88% off and over $220 in savings. If you've been sitting on this one, now is a hard time to justify waiting. [Grab it while the deal is live.](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/11366-Core-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=core-collection-2621b3&chan=art&data1=core-collection-2621b3)
 
 ---
 
@@ -56,7 +56,7 @@ An 88% discount is not a standard sale depth — most plugin bundle sales run 40
 
 Verify current pricing on the product page — deals can change.
 
-[Get the Core Collection for $29 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/11366-Core-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=core-collection-2621b3)
+[Get the Core Collection for $29 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/11366-Core-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=core-collection-2621b3&chan=art&data1=core-collection-2621b3)
 
 ---
 
@@ -92,7 +92,7 @@ A: Check Plugin Boutique's terms of service and the product page for their curre
 
 Over $220 off a plugin bundle at $29 is the kind of deal that doesn't sit around for long. If the Core Collection covers tools you need, this is the price point to move on it.
 
-[Grab the Core Collection for $29 at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/11366-Core-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=core-collection-2621b3)
+[Grab the Core Collection for $29 at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/11366-Core-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=core-collection-2621b3&chan=art&data1=core-collection-2621b3)
 
 ## Related Guides
 

@@ -3,7 +3,7 @@ title: "40% Off StageOne 2"
 description: "StageOne 2 is currently 40% off at Plugin Boutique — down from ~~$249.00~~ to **$149.40**, saving you nearly $100 on a dedicated stereo width and spatial..."
 pubDate: "2026-07-01T01:28:55Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/10913-StageOne-2-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=stageone-2-080c3d"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/10913-StageOne-2-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=stageone-2-080c3d&chan=art&data1=stageone-2-080c3d"
 heroImage: "/images/stageone-2-080c3d.jpg"
 score: 8.85
 dealPrice: "$149.40"
@@ -12,7 +12,7 @@ discount: "40% OFF"
 xText: "stageone 2 just dropped with 40% off—you rarely see discounts this good on a brand new release. redesigned workflow actually makes sense for how we work. absolute sleeper deal"
 draft: false
 ---
-**TL;DR:** StageOne 2 is currently 40% off at Plugin Boutique — down from ~~$249.00~~ to **$149.40**, saving you nearly $100 on a dedicated stereo width and spatial imaging plugin. That kind of discount on a $249 tool doesn't come around on a fixed schedule. [Grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/10913-StageOne-2-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=stageone-2-080c3d)
+**TL;DR:** StageOne 2 is currently 40% off at Plugin Boutique — down from ~~$249.00~~ to **$149.40**, saving you nearly $100 on a dedicated stereo width and spatial imaging plugin. That kind of discount on a $249 tool doesn't come around on a fixed schedule. [Grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/10913-StageOne-2-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=stageone-2-080c3d&chan=art&data1=stageone-2-080c3d)
 
 ---
 
@@ -58,7 +58,7 @@ Forty percent off a $249 plugin is a legitimate saving — not a cosmetic markdo
 
 > Verify current pricing on the product page — deals can change without notice.
 
-[Get StageOne 2 at 40% off at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/10913-StageOne-2-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=stageone-2-080c3d)
+[Get StageOne 2 at 40% off at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/10913-StageOne-2-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=stageone-2-080c3d&chan=art&data1=stageone-2-080c3d)
 
 ---
 
@@ -92,7 +92,7 @@ A: Plugin Boutique deals run for a defined period that isn't always displayed pr
 
 ## Get the Deal
 
-~~$249.00~~ → **$149.40**. That's a $99.60 saving on a stereo width plugin from a category where prices rarely budge. [Grab StageOne 2 at 40% off before the deal ends →](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/10913-StageOne-2-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=stageone-2-080c3d)
+~~$249.00~~ → **$149.40**. That's a $99.60 saving on a stereo width plugin from a category where prices rarely budge. [Grab StageOne 2 at 40% off before the deal ends →](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/10913-StageOne-2-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=stageone-2-080c3d&chan=art&data1=stageone-2-080c3d)
 
 ---
 

@@ -36,7 +36,7 @@ If you're mixing vocals, working with layered harmonies, or need flexible pitch 
 
 ## Where to Get It
 
-[Grab Melodyne at $241 from Plugin Boutique here](https://www.pluginboutique.com/?a_aid=69cb95abe1763)—verify current pricing before purchase as deals expire.
+[Grab Melodyne at $241 from Plugin Boutique here](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=melodyne-alternatives-2026-on-sale)—verify current pricing before purchase as deals expire.
 
 For a full head-to-head breakdown, read our [Best Melodyne Alternatives in 2026: Pitch Correction Plugins](https://plugindrop.net/posts/melodyne-alternatives-2026/).
 
@@ -44,7 +44,7 @@ For a full head-to-head breakdown, read our [Best Melodyne Alternatives in 2026:
 
 **Q: Is Melodyne on sale right now?**
 
-Yes—currently $241.00, down from $599.00. This is a 60% reduction. [Check Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) to verify the deal is live before purchasing, as promotional pricing can expire without notice.
+Yes—currently $241.00, down from $599.00. This is a 60% reduction. [Check Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=melodyne-alternatives-2026-on-sale) to verify the deal is live before purchasing, as promotional pricing can expire without notice.
 
 **Q: How does Melodyne compare to Auto-Tune, Waves Tune Real-Time, and Antares Auto-Tune EFX+?**
 

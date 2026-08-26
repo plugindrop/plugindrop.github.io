@@ -3,7 +3,7 @@ title: "30% Off 510k SEQUND POLYLLOP Bundle"
 description: "The 510k SEQUND POLYLLOP Bundle is currently **30% off** at Plugin Boutique — ~~$99~~ **$69**. That's a $30 saving on a multi-plugin bundle covering..."
 pubDate: "2026-06-17T10:03:18Z"
 tags: ["sale", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15228-510k-SEQUND-POLYLLOP-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=510k-seqund-polyllop-bundle-995a35"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15228-510k-SEQUND-POLYLLOP-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=510k-seqund-polyllop-bundle-995a35&chan=art&data1=510k-seqund-polyllop-bundle-995a35"
 heroImage: "/images/510k-seqund-polyllop-bundle-995a35.jpg"
 score: 8.37
 dealPrice: "$69.00"
@@ -12,7 +12,7 @@ discount: "30% OFF"
 xText: "30% off 510k + seqund + polyllop at once. the math just works out if you were considering two or more. per-unit cost is the real story here"
 draft: true
 ---
-**TL;DR:** The 510k SEQUND POLYLLOP Bundle is currently **30% off** at Plugin Boutique — ~~$99~~ **$69**. That's a $30 saving on a multi-plugin bundle covering sequencing and looping territory. [Grab it here before the deal ends.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15228-510k-SEQUND-POLYLLOP-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=510k-seqund-polyllop-bundle-995a35)
+**TL;DR:** The 510k SEQUND POLYLLOP Bundle is currently **30% off** at Plugin Boutique — ~~$99~~ **$69**. That's a $30 saving on a multi-plugin bundle covering sequencing and looping territory. [Grab it here before the deal ends.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15228-510k-SEQUND-POLYLLOP-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=510k-seqund-polyllop-bundle-995a35&chan=art&data1=510k-seqund-polyllop-bundle-995a35)
 
 ---
 
@@ -37,7 +37,7 @@ Based on what's available from the product listing, the bundle targets DTM and a
 - **510k component** — an additional plugin element rounding out the bundle's production coverage
 - **Plugin Boutique delivery** — download and activation handled through Plugin Boutique's standard licensing system
 
-*For exact system requirements, DAW compatibility, and activation details, check the [official product page](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15228-510k-SEQUND-POLYLLOP-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=510k-seqund-polyllop-bundle-995a35).*
+*For exact system requirements, DAW compatibility, and activation details, check the [official product page](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15228-510k-SEQUND-POLYLLOP-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=510k-seqund-polyllop-bundle-995a35&chan=art&data1=510k-seqund-polyllop-bundle-995a35).*
 
 ---
 
@@ -62,7 +62,7 @@ With three named components in the bundle (510k, SEQUND, POLYLLOP), the per-plug
 
 > Verify current pricing on the product page — deals can change.
 
-[Get the 510k SEQUND POLYLLOP Bundle for $69 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15228-510k-SEQUND-POLYLLOP-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=510k-seqund-polyllop-bundle-995a35)
+[Get the 510k SEQUND POLYLLOP Bundle for $69 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15228-510k-SEQUND-POLYLLOP-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=510k-seqund-polyllop-bundle-995a35&chan=art&data1=510k-seqund-polyllop-bundle-995a35)
 
 ---
 
@@ -96,7 +96,7 @@ A: Compatibility details (VST/AU/AAX, Windows/Mac) are listed on the official Pl
 
 ## Get the Deal
 
-$30 off a multi-plugin bundle is real money, and 30% discounts on bundled production tools don't always stick around. [Pick up the 510k SEQUND POLYLLOP Bundle for $69 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15228-510k-SEQUND-POLYLLOP-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=510k-seqund-polyllop-bundle-995a35) while the deal is live.
+$30 off a multi-plugin bundle is real money, and 30% discounts on bundled production tools don't always stick around. [Pick up the 510k SEQUND POLYLLOP Bundle for $69 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15228-510k-SEQUND-POLYLLOP-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=510k-seqund-polyllop-bundle-995a35&chan=art&data1=510k-seqund-polyllop-bundle-995a35) while the deal is live.
 
 ## Related Guides
 

@@ -3,13 +3,13 @@ title: "Manley Massive Passive: Features, Pricing & Is It Worth It? (2026)"
 description: "Manley Massive Passive is a plugin emulation of Manley Laboratories' flagship hardware passive EQ, a unit that has been a fixture in high-end recording studios."
 pubDate: '2026-04-23T18:28:16Z'
 tags: ["review", "vst-plugin", "effects", "synth", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/11498-Manley-Massive-Passive?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=manley-massive-passive-00e930"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/11498-Manley-Massive-Passive?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=manley-massive-passive-00e930&chan=art&data1=manley-massive-passive-00e930"
 heroImage: /images/manley-massive-passive-00e930.jpg
 score: 8.00
 draft: false
 converted: true
 ---
-**Manley Massive Passive** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/11498-Manley-Massive-Passive?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=manley-massive-passive-00e930)
+**Manley Massive Passive** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/11498-Manley-Massive-Passive?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=manley-massive-passive-00e930&chan=art&data1=manley-massive-passive-00e930)
 
 ---
 
@@ -50,7 +50,7 @@ Verify current pricing on the product page, as deals can change without notice.
 
 Verify current pricing on the product page — deals can change.
 
-[→ Get Manley Massive Passive for $49 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/11498-Manley-Massive-Passive?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=manley-massive-passive-00e930)
+[→ Get Manley Massive Passive for $49 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/11498-Manley-Massive-Passive?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=manley-massive-passive-00e930&chan=art&data1=manley-massive-passive-00e930)
 
 ---
 

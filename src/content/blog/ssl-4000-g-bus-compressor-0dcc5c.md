@@ -3,13 +3,13 @@ title: "SSL 4000 G Bus Compressor: Features, Pricing & Is It Worth It? (2026)"
 description: "The SSL 4000 G Bus Compressor is the official plugin recreation of the hardware bus compressor built into Solid State Logic's legendary 4000 G Series mixing."
 pubDate: '2026-04-23T23:42:46Z'
 tags: ["review", "vst-plugin", "effects", "compressor", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13325-SSL-4000-G-Bus-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4000-g-bus-compressor-0dcc5c"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13325-SSL-4000-G-Bus-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4000-g-bus-compressor-0dcc5c&chan=art&data1=ssl-4000-g-bus-compressor-0dcc5c"
 heroImage: /images/ssl-4000-g-bus-compressor-0dcc5c.jpg
 score: 9.80
 draft: false
 converted: true
 ---
-**SSL 4000 G Bus Compressor** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13325-SSL-4000-G-Bus-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4000-g-bus-compressor-0dcc5c)
+**SSL 4000 G Bus Compressor** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13325-SSL-4000-G-Bus-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4000-g-bus-compressor-0dcc5c&chan=art&data1=ssl-4000-g-bus-compressor-0dcc5c)
 
 ---
 
@@ -49,7 +49,7 @@ The SSL G Bus Compressor — in both hardware and plugin form — is one of the 
 
 SSL's own plugins don't go on steep sales as frequently as some third-party developers. Seeing the official SSL 4000 G Bus Compressor at is worth verifying on the product page.
 
-[Check the current price and activate your discount on Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13325-SSL-4000-G-Bus-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4000-g-bus-compressor-0dcc5c)
+[Check the current price and activate your discount on Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13325-SSL-4000-G-Bus-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4000-g-bus-compressor-0dcc5c&chan=art&data1=ssl-4000-g-bus-compressor-0dcc5c)
 
 ---
 
@@ -80,7 +80,7 @@ A: Yes — while designed as a bus compressor, there's no technical restriction 
 
 ## Where to Buy
 
-$50  [Lock in the $99 price at Plugin Boutique before it reverts.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13325-SSL-4000-G-Bus-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4000-g-bus-compressor-0dcc5c)
+$50  [Lock in the $99 price at Plugin Boutique before it reverts.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13325-SSL-4000-G-Bus-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4000-g-bus-compressor-0dcc5c&chan=art&data1=ssl-4000-g-bus-compressor-0dcc5c)
 
 ---
 

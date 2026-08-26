@@ -3,7 +3,7 @@ title: "97% Off Deluxe Vocal Bundle"
 description: "The Deluxe Vocal Bundle is currently $9.90 at Plugin Boutique — down from ~~$284.34~~. That's a 97% discount on a collection of premium vocal processing..."
 pubDate: "2026-05-20T23:43:02Z"
 tags: ["sale", "vocal", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/7073-Deluxe-Vocal-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=deluxe-vocal-bundle-d3f766"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/7073-Deluxe-Vocal-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=deluxe-vocal-bundle-d3f766&chan=art&data1=deluxe-vocal-bundle-d3f766"
 heroImage: "/images/deluxe-vocal-bundle-d3f766.jpg"
 score: 8.58
 dealPrice: "$9.90"
@@ -12,7 +12,7 @@ discount: "97% OFF"
 xText: "97% off a vocal bundle and i'm pretty sure the per-plugin math is actually broken. in the good way. move on this before they wake up."
 draft: true
 ---
-**TL;DR:** The Deluxe Vocal Bundle is currently $9.90 at Plugin Boutique — down from ~~$284.34~~. That's a 97% discount on a collection of premium vocal processing plugins. If vocals are any part of your workflow, [this deal is hard to ignore](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/7073-Deluxe-Vocal-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=deluxe-vocal-bundle-d3f766).
+**TL;DR:** The Deluxe Vocal Bundle is currently $9.90 at Plugin Boutique — down from ~~$284.34~~. That's a 97% discount on a collection of premium vocal processing plugins. If vocals are any part of your workflow, [this deal is hard to ignore](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/7073-Deluxe-Vocal-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=deluxe-vocal-bundle-d3f766&chan=art&data1=deluxe-vocal-bundle-d3f766).
 
 ---
 
@@ -60,7 +60,7 @@ Plugin Boutique does run promotional pricing events regularly, but a 97% markdow
 
 > Verify current pricing on the product page — deals can change.
 
-[Grab the Deluxe Vocal Bundle for $9.90 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/7073-Deluxe-Vocal-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=deluxe-vocal-bundle-d3f766)
+[Grab the Deluxe Vocal Bundle for $9.90 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/7073-Deluxe-Vocal-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=deluxe-vocal-bundle-d3f766&chan=art&data1=deluxe-vocal-bundle-d3f766)
 
 ---
 
@@ -96,7 +96,7 @@ A: Plugin Boutique's standard refund and licensing terms apply — review their 
 
 ~~$284.34~~ down to **$9.90**. For a vocal processing bundle at that price, the risk-reward calculus is straightforward.
 
-[Get the Deluxe Vocal Bundle at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/7073-Deluxe-Vocal-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=deluxe-vocal-bundle-d3f766)
+[Get the Deluxe Vocal Bundle at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/7073-Deluxe-Vocal-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=deluxe-vocal-bundle-d3f766&chan=art&data1=deluxe-vocal-bundle-d3f766)
 
 ## Related Guides
 

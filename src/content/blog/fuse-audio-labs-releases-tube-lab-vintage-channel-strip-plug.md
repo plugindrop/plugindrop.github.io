@@ -3,13 +3,13 @@ title: "Fuse Audio Labs releases Tube Lab vintage channel strip plugin ($29 intr
 description: "Tube Lab is a new vintage channel strip plugin from Fuse Audio Labs, a developer founded by Reimund Dratwa — whose. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-03T13:13:27Z'
 tags: ["review", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17093-Tube-Lab?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17093-Tube-Lab?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug&chan=art&data1=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug"
 heroImage: /images/fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug.jpg
 score: 5.04
 draft: false
 converted: true
 ---
-**Fuse Audio Labs releases Tube Lab vintage channel strip plugin ($29 intro price)** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17093-Tube-Lab?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug)
+**Fuse Audio Labs releases Tube Lab vintage channel strip plugin ($29 intro price)** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17093-Tube-Lab?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug&chan=art&data1=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug)
 
 ---
 
@@ -36,7 +36,7 @@ Tube Lab is a new vintage channel strip plugin from Fuse Audio Labs, a developer
 - **Sound designers and experimenters** — The flexible module routing lets you rearrange the signal chain, opening up creative processing options.
  Fuse Audio Labs is a smaller developer, so historical sale data is limited — this intro pricing window may be the best deal for the foreseeable future. A fully functional 14-day trial is also available if you want to test before committing.
 
-Verify current pricing on the product page — deals can change. [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17093-Tube-Lab?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug)
+Verify current pricing on the product page — deals can change. [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17093-Tube-Lab?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug&chan=art&data1=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug)
 
 ## Alternatives at a Glance
 
@@ -63,7 +63,7 @@ A: Yes — a fully functional 14-day trial is available so you can test it in yo
 
  That's a solid entry point for what Fuse Audio Labs is offering here.
 
-[Get Tube Lab at the intro price →](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17093-Tube-Lab?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug)
+[Get Tube Lab at the intro price →](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17093-Tube-Lab?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug&chan=art&data1=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug)
 
 ---
 

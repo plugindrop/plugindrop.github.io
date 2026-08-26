@@ -9,7 +9,7 @@ score: 4.40
 xText: "8Dio Aetheria — 16 singers, intimate ensemble, 5 velocity legatos. smaller scale than Lacrimosa but way more detailed. part of pick-3 deal at $69"
 draft: false
 ---
-**TL;DR:** Aetheria is 8Dio's intimate 16-singer choir — smaller scale than Lacrimosa, but with deeper per-voice detail and a word sequencer for expressive lyrical writing. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](/posts/choirs-solo-vocals-102b4c)**. [Buy on 8Dio →](https://www.pluginboutique.com/search?q=aetheria&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-aetheria-choir)
+**TL;DR:** Aetheria is 8Dio's intimate 16-singer choir — smaller scale than Lacrimosa, but with deeper per-voice detail and a word sequencer for expressive lyrical writing. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](/posts/choirs-solo-vocals-102b4c)**. [Buy on 8Dio →](https://www.pluginboutique.com/search?q=aetheria&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-aetheria-choir&chan=art&data1=8dio-aetheria-choir)
 
 ---
 
@@ -51,7 +51,7 @@ Aetheria is a good fit for composers who want choir texture that doesn't overwhe
 
 Aetheria is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](/posts/choirs-solo-vocals-102b4c)** offer. It pairs well with Insolidus for complementary small-choir textures, or with Lacrimosa to have both intimate and epic ends covered.
 
-[→ See all eligible titles and grab the deal](https://www.pluginboutique.com/search?q=aetheria&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-aetheria-choir)
+[→ See all eligible titles and grab the deal](https://www.pluginboutique.com/search?q=aetheria&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-aetheria-choir&chan=art&data1=8dio-aetheria-choir)
 
 ---
 

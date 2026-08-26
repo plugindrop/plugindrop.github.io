@@ -3,13 +3,13 @@ title: "bx console SSL 9000 J: Features, Pricing & Is It Worth It? (2026)"
 description: "bx_console SSL 9000 J is a channel strip plugin by Brainworx (a Plugin Alliance brand), modeled after the SSL 9000 J. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:27:54Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10241-bx-console-SSL-9000-J?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-ssl-9000-j-ec1327"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10241-bx-console-SSL-9000-J?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-ssl-9000-j-ec1327&chan=art&data1=bx-console-ssl-9000-j-ec1327"
 heroImage: /images/bx-console-ssl-9000-j-ec1327.jpg
 score: 8.50
 draft: false
 converted: true
 ---
-**bx console SSL 9000 J** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10241-bx-console-SSL-9000-J?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-ssl-9000-j-ec1327)
+**bx console SSL 9000 J** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10241-bx-console-SSL-9000-J?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-ssl-9000-j-ec1327&chan=art&data1=bx-console-ssl-9000-j-ec1327)
 
 ---
 
@@ -47,7 +47,7 @@ If you've had this on your wishlist, this is a meaningful price drop worth actin
 
 Note: Verify current pricing on the product page — deals can change.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10241-bx-console-SSL-9000-J?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-ssl-9000-j-ec1327)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10241-bx-console-SSL-9000-J?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-ssl-9000-j-ec1327&chan=art&data1=bx-console-ssl-9000-j-ec1327)
 
 ---
 
@@ -76,7 +76,7 @@ A: Plugin Alliance and Plugin Boutique frequently offer trial versions — check
 
 ---
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10241-bx-console-SSL-9000-J?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-ssl-9000-j-ec1327)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10241-bx-console-SSL-9000-J?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-ssl-9000-j-ec1327&chan=art&data1=bx-console-ssl-9000-j-ec1327)
 
 ---
 

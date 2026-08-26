@@ -3,13 +3,13 @@ title: "BRUTE: Features, Pricing & Is It Worth It? (2026)"
 description: "BRUTE is a virtual instrument plugin sold through Plugin Boutique, sitting in the synthesizer tier of their catalog. Check current pricing at Plugin Boutique."
 pubDate: '2026-05-02T17:19:40Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/7938-BRUTE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=brute-29335d"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/7938-BRUTE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=brute-29335d&chan=art&data1=brute-29335d"
 heroImage: /images/brute-29335d.jpg
 score: 8.82
 draft: false
 converted: true
 ---
-**BRUTE** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/7938-BRUTE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=brute-29335d)
+**BRUTE** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/7938-BRUTE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=brute-29335d&chan=art&data1=brute-29335d)
 
 ---
 
@@ -45,7 +45,7 @@ Without overstating what can be confirmed from the product listing category alon
 
   This pricing doesn't appear to be a standing offer.
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/7938-BRUTE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=brute-29335d)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/7938-BRUTE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=brute-29335d&chan=art&data1=brute-29335d)
 
 ---
 
@@ -78,7 +78,7 @@ A: Check the official product page for confirmed format support (VST, AU, AAX) a
 
 BRUTE is $29.00 against a regular price of $119.00 —  Discounts at this depth on Plugin Boutique tend to be time-limited.
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/7938-BRUTE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=brute-29335d)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/7938-BRUTE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=brute-29335d&chan=art&data1=brute-29335d)
 
 ---
 

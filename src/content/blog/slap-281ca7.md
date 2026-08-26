@@ -3,13 +3,13 @@ title: "SLAP: Features, Pricing & Is It Worth It? (2026)"
 description: "SLAP is a virtual instrument available on Plugin Boutique, purpose-built around slap bass — one of the most. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-26T13:12:17Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8991-SLAP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slap-281ca7"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8991-SLAP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slap-281ca7&chan=art&data1=slap-281ca7"
 heroImage: /images/slap-281ca7.jpg
 score: 7.35
 draft: false
 converted: true
 ---
-**SLAP** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8991-SLAP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slap-281ca7)
+**SLAP** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8991-SLAP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slap-281ca7&chan=art&data1=slap-281ca7)
 
 ---
 
@@ -45,7 +45,7 @@ SLAP is a virtual instrument available on Plugin Boutique, purpose-built around 
 
  Plugin Boutique runs periodic sales, but drops of this magnitude on individual instruments are worth noting — it brings the price well into impulse-buy territory for most producers. Deal pricing can change without notice, so verify current pricing on the product page before purchasing.
 
-[Lock in the $29 price on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8991-SLAP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slap-281ca7)
+[Lock in the $29 price on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8991-SLAP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slap-281ca7&chan=art&data1=slap-281ca7)
 
 ---
 
@@ -81,7 +81,7 @@ A: Plugin Boutique's refund and return policy applies — check their official t
 
 At $29, SLAP is priced more like a session snack than a serious instrument purchase. If slap bass is a recurring gap in your productions, this is a low-risk moment to fill it.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8991-SLAP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slap-281ca7)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8991-SLAP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=slap-281ca7&chan=art&data1=slap-281ca7)
 
 ---
 

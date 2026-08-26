@@ -3,13 +3,13 @@ title: "Mercury-6 synthesizer: Features, Pricing & Is It Worth It? (2026)"
 description: "Cherry Audio's Mercury-6 is a software synthesizer modeled after the Roland Jupiter-6, the six-voice polyphonic. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-20T13:18:32Z'
 tags: ["review", "cherry audio", "synth", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd&chan=art&data1=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd"
 heroImage: /images/mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd.jpg
 score: 9.0
 draft: false
 converted: true
 ---
-**Mercury-6 synthesizer** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd)
+**Mercury-6 synthesizer** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd&chan=art&data1=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd)
 
 ---
 
@@ -47,7 +47,7 @@ Cherry Audio has built a solid following in the VST community, and their emulati
 
 Cherry Audio doesn't run deep discounts constantly — this $29 price point represents strong value for a full instrument plugin. Sales at this level are worth acting on when they appear. Always verify current pricing directly, as deals can change without notice.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd&chan=art&data1=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd)
 
 ---
 
@@ -80,7 +80,7 @@ A: Check the official product page for current macOS/Windows compatibility and m
 
 $29 for a full polyphonic vintage synth emulation from a trusted developer is the kind of deal worth bookmarking.
 
-[Pick up the Cherry Audio Mercury-6 at Plugin Boutique for $29 →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd)
+[Pick up the Cherry Audio Mercury-6 at Plugin Boutique for $29 →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd&chan=art&data1=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd)
 
 ---
 

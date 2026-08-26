@@ -3,7 +3,7 @@ title: "Empirical Labs EL8 Distressor Compressor: Features, Pricing & Is It Wort
 description: "Empirical Labs EL8 Distressor plugin at Plugin Boutique: harmonic distortion modes, Dist 2/3 settings, analog warmth. Check 2026 price and bundles."
 pubDate: '2026-04-23T18:27:48Z'
 tags: ["review", "vst-plugin", "effects", "compressor", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241&chan=art&data1=empirical-labs-el8-distressor-compressor-ff4241"
 heroImage: /images/empirical-labs-el8-distressor-compressor-ff4241.jpg
 score: 8.80
 draft: false
@@ -23,7 +23,7 @@ priceTrack:
 
 Empirical Labs does not run heavy discounts frequently — when a 75% sale appears on a plugin with this brand profile, it's worth paying attention to. Verify current pricing on the product page — deals can change.
 
-[Check current pricing and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241)
+[Check current pricing and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241&chan=art&data1=empirical-labs-el8-distressor-compressor-ff4241)
 
 ---
 
@@ -54,7 +54,7 @@ A: This is the official first-party plugin from Empirical Labs — not a third-p
 
 ## Where to Buy
 
-An official plugin from the designers of one of the most respected hardware compressors in studio history. ](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241)
+An official plugin from the designers of one of the most respected hardware compressors in studio history. ](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241&chan=art&data1=empirical-labs-el8-distressor-compressor-ff4241)
 
 ---
 

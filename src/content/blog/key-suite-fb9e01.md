@@ -3,7 +3,7 @@ title: "33% Off Key Suite"
 description: "Key Suite is 33% off at Plugin Boutique right now — down from ~~$328.9~~ to **$218.9**, a flat $110 saving on a keyboard instrument bundle aimed at..."
 pubDate: "2026-05-07T01:59:47Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16200-Key-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=key-suite-fb9e01"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16200-Key-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=key-suite-fb9e01&chan=art&data1=key-suite-fb9e01"
 heroImage: "/images/key-suite-fb9e01.jpg"
 score: 10.00
 dealPrice: "$218.9"
@@ -12,7 +12,7 @@ discount: "33% OFF"
 xText: "key suite just dropped 33% off. new releases never discount this fast or this hard. this is the window to grab it."
 draft: true
 ---
-**TL;DR:** Key Suite is 33% off at Plugin Boutique right now — down from ~~$328.9~~ to **$218.9**, a flat $110 saving on a keyboard instrument bundle aimed at producers who need serious key sounds without piecing together individual plugins. Sales at this depth aren't an everyday occurrence, so it's worth evaluating now. [Check it out here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16200-Key-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=key-suite-fb9e01)
+**TL;DR:** Key Suite is 33% off at Plugin Boutique right now — down from ~~$328.9~~ to **$218.9**, a flat $110 saving on a keyboard instrument bundle aimed at producers who need serious key sounds without piecing together individual plugins. Sales at this depth aren't an everyday occurrence, so it's worth evaluating now. [Check it out here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16200-Key-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=key-suite-fb9e01&chan=art&data1=key-suite-fb9e01)
 
 ---
 
@@ -57,7 +57,7 @@ A $110 saving on a keyboard instrument suite is meaningful — that's money that
 
 Note: Verify current pricing on the product page — deals can change without notice.
 
-[Get Key Suite at the sale price on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16200-Key-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=key-suite-fb9e01)
+[Get Key Suite at the sale price on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16200-Key-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=key-suite-fb9e01&chan=art&data1=key-suite-fb9e01)
 
 ---
 
@@ -93,7 +93,7 @@ A: Plugin Boutique's refund and returns policy is listed in their store terms �
 
 $110 off a keyboard instrument bundle is a straightforward saving — the math is simple and the discount is real. If keyboard sounds are a gap in your current library, this is a reasonable window to close it.
 
-[Grab Key Suite at 33% off on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16200-Key-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=key-suite-fb9e01)
+[Grab Key Suite at 33% off on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16200-Key-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=key-suite-fb9e01&chan=art&data1=key-suite-fb9e01)
 
 ## Related Guides
 

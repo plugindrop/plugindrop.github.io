@@ -3,7 +3,7 @@ title: "VISION 4X Crossgrade from any Excite Audio Product LTD Time Offer"
 description: "VISION 4X by Excite Audio is available as a crossgrade for $39.00 — down from ~~$89.00~~ — a 56% saving for any existing Excite Audio customer. This is a"
 pubDate: "2026-04-27T02:25:45Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/25-Spectral-Analysis/16910-VISION-4X-Crossgrade-from-any-Excite-Audio-Product-LTD-Time-Offer-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vision-4x-crossgrade-from-any-excite-audio-product-ltd-time-"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/25-Spectral-Analysis/16910-VISION-4X-Crossgrade-from-any-Excite-Audio-Product-LTD-Time-Offer-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vision-4x-crossgrade-from-any-excite-audio-product-ltd-time-&chan=art&data1=vision-4x-crossgrade-from-any-excite-audio-product-ltd-time-"
 heroImage: "/images/vision-4x-crossgrade-from-any-excite-audio-product-ltd-time-.jpg"
 score: 8.00
 dealPrice: "$39.00"
@@ -12,7 +12,7 @@ discount: "56% OFF"
 xText: "vision 4x just dropped. if you own any excite audio plugin, the ltd crossgrade pricing is genuinely the move. these don't usually stick around"
 draft: true
 ---
-**TL;DR:** VISION 4X by Excite Audio is available as a crossgrade for $39.00 — down from ~~$89.00~~ — a 56% saving for any existing Excite Audio customer. This is a limited-time offer on Plugin Boutique only. [→ Get VISION 4X at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/25-Spectral-Analysis/16910-VISION-4X-Crossgrade-from-any-Excite-Audio-Product-LTD-Time-Offer-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vision-4x-crossgrade-from-any-excite-audio-product-ltd-time-)
+**TL;DR:** VISION 4X by Excite Audio is available as a crossgrade for $39.00 — down from ~~$89.00~~ — a 56% saving for any existing Excite Audio customer. This is a limited-time offer on Plugin Boutique only. [→ Get VISION 4X at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/25-Spectral-Analysis/16910-VISION-4X-Crossgrade-from-any-Excite-Audio-Product-LTD-Time-Offer-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vision-4x-crossgrade-from-any-excite-audio-product-ltd-time-&chan=art&data1=vision-4x-crossgrade-from-any-excite-audio-product-ltd-time-)
 
 ---
 
@@ -51,7 +51,7 @@ This is a crossgrade offer — not a general sale. The $39 price is gated behind
 
 *Price verified at publication. Check the link for current availability.*
 
-[→ Get VISION 4X at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/25-Spectral-Analysis/16910-VISION-4X-Crossgrade-from-any-Excite-Audio-Product-LTD-Time-Offer-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vision-4x-crossgrade-from-any-excite-audio-product-ltd-time-)
+[→ Get VISION 4X at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/25-Spectral-Analysis/16910-VISION-4X-Crossgrade-from-any-Excite-Audio-Product-LTD-Time-Offer-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vision-4x-crossgrade-from-any-excite-audio-product-ltd-time-&chan=art&data1=vision-4x-crossgrade-from-any-excite-audio-product-ltd-time-)
 
 ---
 
@@ -87,7 +87,7 @@ A: Check the official product page for current activation and license details.
 
 At $39 for qualifying Excite Audio customers, this crossgrade represents a $50 saving off the standard price — straightforward value if multi-channel spectral analysis is a gap in your current toolkit and you already own any Excite Audio product. The limited-time structure means the window is defined.
 
-[→ Get VISION 4X at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/25-Spectral-Analysis/16910-VISION-4X-Crossgrade-from-any-Excite-Audio-Product-LTD-Time-Offer-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vision-4x-crossgrade-from-any-excite-audio-product-ltd-time-)
+[→ Get VISION 4X at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/25-Spectral-Analysis/16910-VISION-4X-Crossgrade-from-any-Excite-Audio-Product-LTD-Time-Offer-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vision-4x-crossgrade-from-any-excite-audio-product-ltd-time-&chan=art&data1=vision-4x-crossgrade-from-any-excite-audio-product-ltd-time-)
 
 ---
 

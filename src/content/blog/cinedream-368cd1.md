@@ -3,13 +3,13 @@ title: "CINEDREAM: Features, Pricing & Is It Worth It? (2026)"
 description: "CINEDREAM is a virtual instrument by UJAM that transforms real guitar recordings into cinematic pads and evolving. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-28T17:11:38Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14697-CINEDREAM?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinedream-368cd1"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14697-CINEDREAM?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinedream-368cd1&chan=art&data1=cinedream-368cd1"
 heroImage: /images/cinedream-368cd1.jpg
 score: 7.35
 draft: false
 converted: true
 ---
-**CINEDREAM** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14697-CINEDREAM?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinedream-368cd1)
+**CINEDREAM** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14697-CINEDREAM?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinedream-368cd1&chan=art&data1=cinedream-368cd1)
 
 ---
 
@@ -45,7 +45,7 @@ CINEDREAM is a virtual instrument by UJAM that transforms real guitar recordings
 
 UJAM runs promotional discounts through Plugin Boutique on a recurring basis, typically several times per year. Their standard sale windows tend to sit in the 50–60% range.  At $29, the effective cost per included amp model works out to under $6.
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14697-CINEDREAM?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinedream-368cd1)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14697-CINEDREAM?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinedream-368cd1&chan=art&data1=cinedream-368cd1)
 
 ## Alternatives at a Glance
 
@@ -75,7 +75,7 @@ A: Through the UJAM App or a downloadable installer provided at purchase.
 
 CINEDREAM is $100 below its standard price at this 78% discount — and UJAM's deeper sale windows are not a constant fixture. For producers building a cinematic or ambient toolkit, this sits at a price point where the risk of trying it is minimal.
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14697-CINEDREAM?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinedream-368cd1)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14697-CINEDREAM?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinedream-368cd1&chan=art&data1=cinedream-368cd1)
 
 ---
 

@@ -18,9 +18,9 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| iZotope RX 11 Advanced | ~$1,199 | Film/TV post, professional dialogue editing | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20RX%2011&a_aid=69cb95abe1763) |
-| iZotope RX 11 Standard | ~$399 | Podcasters, music producers, serious home studio | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20RX%2011&a_aid=69cb95abe1763) |
-| iZotope RX Elements | ~$99 | Beginners, occasional repair work | [iZotope Official](https://www.pluginboutique.com/search?q=iZotope%20RX&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-rx-review) |
+| iZotope RX 11 Advanced | ~$1,199 | Film/TV post, professional dialogue editing | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20RX%2011&a_aid=69cb95abe1763&chan=art&data1=izotope-rx-review) |
+| iZotope RX 11 Standard | ~$399 | Podcasters, music producers, serious home studio | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20RX%2011&a_aid=69cb95abe1763&chan=art&data1=izotope-rx-review) |
+| iZotope RX Elements | ~$99 | Beginners, occasional repair work | [iZotope Official](https://www.pluginboutique.com/search?q=iZotope%20RX&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-rx-review&chan=art&data1=izotope-rx-review) |
 
 ---
 
@@ -51,7 +51,7 @@ The Advanced tier adds the highest-tier modules: Music Rebalance (isolate and re
 
 **Best for:** Anyone who records, edits, or delivers audio professionally and cannot afford to lose a take.
 
-[→ Get iZotope RX 11 on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20iZotope%20RX%2011&a_aid=69cb95abe1763)
+[→ Get iZotope RX 11 on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20iZotope%20RX%2011&a_aid=69cb95abe1763&chan=art&data1=izotope-rx-review)
 
 ---
 
@@ -125,7 +125,7 @@ One honest limitation: RX is not the right tool for light, occasional use. If yo
 - **Price:** Standard ~$399 / Advanced ~$1,199
 - **Why upgrade:** RX Elements gives you the foundational repair tools but lacks AI Dialogue Isolation, Music Rebalance, Spectral Recovery, and Ambience Match — the modules that differentiate RX from every other de-noise tool on the market. If your work involves location audio, dialogue editing, or complex restoration, the Standard or Advanced tier is the tool actually built for the job.
 
-[→ Get iZotope RX 11 on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20iZotope%20RX%2011&a_aid=69cb95abe1763)
+[→ Get iZotope RX 11 on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20iZotope%20RX%2011&a_aid=69cb95abe1763&chan=art&data1=izotope-rx-review)
 
 ### iZotope RX Elements — The Entry Point Worth Owning
 
@@ -135,7 +135,7 @@ One honest limitation: RX is not the right tool for light, occasional use. If yo
 - **Price:** ~$99
 - **Why upgrade:** RX Elements is the right first step if you are new to audio repair or working within a strict budget. It includes Voice De-noise, De-clip, De-click, and a subset of the spectral editor. It lacks the AI modules and deeper repair tools of higher tiers, but it handles common everyday repair tasks competently and gets you into the RX ecosystem at a fraction of the cost.
 
-[→ Get iZotope RX Elements on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/search?q=iZotope%20RX&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-rx-review)
+[→ Get iZotope RX Elements on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/search?q=iZotope%20RX&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-rx-review&chan=art&data1=izotope-rx-review)
 
 ---
 
@@ -143,9 +143,9 @@ One honest limitation: RX is not the right tool for light, occasional use. If yo
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| iZotope RX 11 Advanced | ~$1,199 | Standalone + Plugin | Full AI suite, Dialogue Isolation, Music Rebalance, Spectral Recovery | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20RX%20Elements&a_aid=69cb95abe1763) |
-| iZotope RX 11 Standard | ~$399 | Standalone + Plugin | De-noise, De-reverb, Ambience Match, ARA2, Voice De-noise | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20RX%20Elements&a_aid=69cb95abe1763) |
-| iZotope RX Elements | ~$99 | Standalone + Plugin | Voice De-noise, De-clip, De-click, core spectral editor | [iZotope Official](https://www.pluginboutique.com/search?q=iZotope%20RX&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-rx-review) |
+| iZotope RX 11 Advanced | ~$1,199 | Standalone + Plugin | Full AI suite, Dialogue Isolation, Music Rebalance, Spectral Recovery | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20RX%20Elements&a_aid=69cb95abe1763&chan=art&data1=izotope-rx-review) |
+| iZotope RX 11 Standard | ~$399 | Standalone + Plugin | De-noise, De-reverb, Ambience Match, ARA2, Voice De-noise | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20RX%20Elements&a_aid=69cb95abe1763&chan=art&data1=izotope-rx-review) |
+| iZotope RX Elements | ~$99 | Standalone + Plugin | Voice De-noise, De-clip, De-click, core spectral editor | [iZotope Official](https://www.pluginboutique.com/search?q=iZotope%20RX&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-rx-review&chan=art&data1=izotope-rx-review) |
 
 ---
 
@@ -180,7 +180,7 @@ A: Yes. RX 11 runs natively on Apple Silicon (M1/M2/M3/M4) and benefits signific
 
 iZotope RX 11 is not a luxury purchase — it's professional infrastructure. For anyone who works with audio that exists outside of perfect recording conditions, it is the single most impactful tool investment available in 2026. Start with RX Elements to learn the environment, upgrade to Standard when the work demands it, and consider Advanced if dialogue editing or stem separation are core parts of your workflow.
 
-[→ Get iZotope RX 11 on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20iZotope%20RX%2011&a_aid=69cb95abe1763)
+[→ Get iZotope RX 11 on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20iZotope%20RX%2011&a_aid=69cb95abe1763&chan=art&data1=izotope-rx-review)
 
 ---
 

@@ -42,14 +42,14 @@ heroImage: '/images/when-does-ni-komplete-go-on-sale.jpg'
 > **Buying tip:** NI Komplete Summer + Black Friday 50% off sales are among the most reliable in the industry. Set a calendar reminder for early June and late October. Thomann consistently offers a few percent extra vs. NI's official price — worth checking both.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/16553-Komplete-15?a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/16553-Komplete-15?a_aid=69cb95abe1763&chan=art&data1=when-does-ni-komplete-go-on-sale)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 
 
 ## Free Alternatives If You Can't Wait
 
-- **[Arturia V Collection](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/3656-V-Collection?a_aid=69cb95abe1763)** — Competing bundle — also goes 50% off 3-4x/year
+- **[Arturia V Collection](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/3656-V-Collection?a_aid=69cb95abe1763&chan=art&data1=when-does-ni-komplete-go-on-sale)** — Competing bundle — also goes 50% off 3-4x/year
 
 
 ---

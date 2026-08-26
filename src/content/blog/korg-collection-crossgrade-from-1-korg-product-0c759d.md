@@ -3,7 +3,7 @@ title: "40% Off KORG Collection Crossgrade from 1 KORG Product"
 description: "KORG Collection is available via crossgrade for just **$149** (~~$249~~) — a flat $100 saving for producers who already own at least one qualifying KORG..."
 pubDate: "2026-07-01T10:31:55Z"
 tags: ["sale", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14588-KORG-Collection-Crossgrade-from-1-KORG-Product?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-crossgrade-from-1-korg-product-0c759d"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14588-KORG-Collection-Crossgrade-from-1-KORG-Product?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-crossgrade-from-1-korg-product-0c759d&chan=art&data1=korg-collection-crossgrade-from-1-korg-product-0c759d"
 heroImage: "/images/korg-collection-crossgrade-from-1-korg-product-0c759d.jpg"
 score: 9.90
 dealPrice: "$149.00"
@@ -12,7 +12,7 @@ discount: "40% OFF"
 xText: "if you own any korg plugin, getting the full collection at 40% off isn't even a decision anymore. this is the crossgrade pricing that actually makes sense"
 draft: false
 ---
-**TL;DR:** KORG Collection is available via crossgrade for just **$149** (~~$249~~) — a flat $100 saving for producers who already own at least one qualifying KORG software product. That's 40% off one of the most comprehensive vintage keyboard collections in software. [Grab the crossgrade at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14588-KORG-Collection-Crossgrade-from-1-KORG-Product?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-crossgrade-from-1-korg-product-0c759d)
+**TL;DR:** KORG Collection is available via crossgrade for just **$149** (~~$249~~) — a flat $100 saving for producers who already own at least one qualifying KORG software product. That's 40% off one of the most comprehensive vintage keyboard collections in software. [Grab the crossgrade at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14588-KORG-Collection-Crossgrade-from-1-KORG-Product?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-crossgrade-from-1-korg-product-0c759d&chan=art&data1=korg-collection-crossgrade-from-1-korg-product-0c759d)
 
 ---
 
@@ -61,7 +61,7 @@ These are not niche tools. The M1 has been a fixture in KVR Audio forum discussi
 
 KORG does run promotional pricing periodically throughout the year, but crossgrade discounts at this level — 40% off — sit above the more common 20–25% sale range. Verify current pricing on the product page before purchasing, as deals can change without notice.
 
-[Get the KORG Collection Crossgrade for $149 on Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14588-KORG-Collection-Crossgrade-from-1-KORG-Product?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-crossgrade-from-1-korg-product-0c759d)
+[Get the KORG Collection Crossgrade for $149 on Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14588-KORG-Collection-Crossgrade-from-1-KORG-Product?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-crossgrade-from-1-korg-product-0c759d&chan=art&data1=korg-collection-crossgrade-from-1-korg-product-0c759d)
 
 ---
 
@@ -95,7 +95,7 @@ A: Yes, the full KORG Collection is available separately at standard pricing. Th
 
 ## Get the Deal
 
-A $100 saving on a professional-grade instrument collection is hard to argue with — especially with a perpetual license attached. [Claim the KORG Collection Crossgrade at $149 on Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14588-KORG-Collection-Crossgrade-from-1-KORG-Product?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-crossgrade-from-1-korg-product-0c759d)
+A $100 saving on a professional-grade instrument collection is hard to argue with — especially with a perpetual license attached. [Claim the KORG Collection Crossgrade at $149 on Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14588-KORG-Collection-Crossgrade-from-1-KORG-Product?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-crossgrade-from-1-korg-product-0c759d&chan=art&data1=korg-collection-crossgrade-from-1-korg-product-0c759d)
 
 ---
 

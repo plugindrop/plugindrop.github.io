@@ -3,7 +3,7 @@ title: "Mercury-6: Features, Pricing & Is It Worth It? (2026)"
 description: "The Mercury-6 is Cherry Audio's software emulation of the Roland Jupiter-6, a classic analog polysynth from the early. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-20T23:58:06Z'
 tags: ["review", "cherry audio", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou&chan=art&data1=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou"
 heroImage: /images/cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou.jpg
 score: 5.06
 draft: false
@@ -14,7 +14,7 @@ converted: true
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/hITUSxFsj48" title="Mercury-6: Features, Pricing & Is It Worth It? (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-**Mercury-6** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou)
+**Mercury-6** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou&chan=art&data1=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou)
 
 ---
 
@@ -52,7 +52,7 @@ The Mercury-6 has built a positive reputation in plugin deal communities since i
 
 > **Note:** Cherry Audio and Plugin Boutique don't publish a universal MSRP in every region — verify the exact current and sale prices on the product page, as currency and regional pricing vary. Deals can also end without notice.
 
- [Check the current deal price at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou)
+ [Check the current deal price at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou&chan=art&data1=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou)
 
 ---
 

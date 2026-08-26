@@ -3,13 +3,13 @@ title: "DUST: Features, Pricing & Is It Worth It? (2026)"
 description: "DUST is a synthesizer plugin available on Plugin Boutique, built around textured, atmospheric sound design. Check current pricing at Plugin Boutique."
 pubDate: '2026-05-01T15:00:05Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10541-DUST?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dust-9455cf"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10541-DUST?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dust-9455cf&chan=art&data1=dust-9455cf"
 heroImage: /images/dust-9455cf.jpg
 score: 8.70
 draft: false
 converted: true
 ---
-**DUST** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10541-DUST?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dust-9455cf)
+**DUST** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10541-DUST?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dust-9455cf&chan=art&data1=dust-9455cf)
 
 ---
 
@@ -48,7 +48,7 @@ An 87% discount is deep — this isn't a typical 20-30% seasonal sale. Deals at 
 
 Verify current pricing on the product page — deals can change.
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10541-DUST?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dust-9455cf)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10541-DUST?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dust-9455cf&chan=art&data1=dust-9455cf)
 
 ---
 
@@ -81,7 +81,7 @@ A: Deal durations aren't always published in advance. Check the product page for
 
 ## Where to Buy
 
-9 for a synth with a $163.9 list price is a straightforward win if the aesthetic matches your sound. [Lock in the deal at Plugin Boutique now.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10541-DUST?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dust-9455cf)
+9 for a synth with a $163.9 list price is a straightforward win if the aesthetic matches your sound. [Lock in the deal at Plugin Boutique now.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10541-DUST?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dust-9455cf&chan=art&data1=dust-9455cf)
 
 ---
 

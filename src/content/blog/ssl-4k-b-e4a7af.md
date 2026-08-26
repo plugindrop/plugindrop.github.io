@@ -3,7 +3,7 @@ title: "67% Off SSL 4K B"
 description: "The SSL 4K B is down to **$49** (~~$149~~) at Plugin Boutique — that's 67% off a classic British console compressor emulation. If you've been waiting for..."
 pubDate: "2026-06-01T03:31:46Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-e4a7af"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-e4a7af&chan=art&data1=ssl-4k-b-e4a7af"
 heroImage: "/images/ssl-4k-b-e4a7af.jpg"
 score: 10.00
 dealPrice: "$49.00"
@@ -12,7 +12,7 @@ discount: "67% OFF"
 xText: "new ssl 4k b dropped at 67% off—they barely discount on launch. best mixing glue you can get, sitting cheaper than most synth subscriptions"
 draft: true
 ---
-**TL;DR:** The SSL 4K B is down to **$49** (~~$149~~) at Plugin Boutique — that's 67% off a classic British console compressor emulation. If you've been waiting for a price drop on this one, this is it. [Grab it here while the deal is live.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-e4a7af)
+**TL;DR:** The SSL 4K B is down to **$49** (~~$149~~) at Plugin Boutique — that's 67% off a classic British console compressor emulation. If you've been waiting for a price drop on this one, this is it. [Grab it here while the deal is live.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-e4a7af&chan=art&data1=ssl-4k-b-e4a7af)
 
 ---
 
@@ -49,7 +49,7 @@ The SSL 4K B is an official compressor plugin from Solid State Logic — the Bri
 
 SSL sales at this depth aren't an everyday occurrence — 67% off on a first-party SSL plugin is a meaningful discount worth acting on if the 4K B is on your list. Prices can change without notice, so verify current pricing on the product page before purchasing.
 
-[Get the SSL 4K B for $49 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-e4a7af)
+[Get the SSL 4K B for $49 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-e4a7af&chan=art&data1=ssl-4k-b-e4a7af)
 
 ## Alternatives at a Glance
 
@@ -79,7 +79,7 @@ A: Plugin Boutique's refund policy applies — check their terms on the store si
 
 $100 off a first-party SSL compressor doesn't happen often. At $49, the SSL 4K B is priced to move — don't wait on this one.
 
-[Claim the 67% discount at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-e4a7af)
+[Claim the 67% discount at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-e4a7af&chan=art&data1=ssl-4k-b-e4a7af)
 
 ## Related Guides
 

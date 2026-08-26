@@ -24,7 +24,7 @@ draft: true
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| MODO Bass 2 | $149.99 | Multi-genre production, 14 instrument models | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2?a_aid=69cb95abe1763) |
+| MODO Bass 2 | $149.99 | Multi-genre production, 14 instrument models | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2?a_aid=69cb95abe1763&chan=art&data1=best-bass-guitar-vst-plugins) |
 | Scarbee Pre-Bass | $99 | Vintage Fender Precision Bass authenticity | [Native Instruments](https://www.native-instruments.com/en/products/komplete/guitar/scarbee-pre-bass/) |
 | Trilian | $299 | Professional all-in-one bass workstation | [Spectrasonics](https://www.spectrasonics.net/products/omnisphere/) |
 | Ample Bass P Lite | Free | Zero-budget realistic Precision Bass starting point | — |
@@ -85,7 +85,7 @@ Physical modeling trade-offs exist and are honestly documented in Gearspace comm
 
 **Best for:** Producers who work across multiple genres, need to switch between instrument characters frequently, or want a single license that covers the full electric bass spectrum.
 
-[→ Get MODO Bass 2 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2?a_aid=69cb95abe1763)
+[→ Get MODO Bass 2 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2?a_aid=69cb95abe1763&chan=art&data1=best-bass-guitar-vst-plugins)
 
 ---
 
@@ -134,7 +134,7 @@ At $299, Trilian is clearly positioned above mid-tier options, and its value pro
 - **Price:** $149.99
 - **Why upgrade:** The free tier of bass VSTs is effectively limited to one or two fixed instrument characters with minimal articulation control. MODO Bass 2's 14 modeled instruments, real-time physics customization, and playing style parameters cover a range that would require multiple separate library purchases to approximate with sample-based alternatives. The per-instrument economics favor it strongly.
 
-[→ Get MODO Bass 2 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2?a_aid=69cb95abe1763)
+[→ Get MODO Bass 2 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2?a_aid=69cb95abe1763&chan=art&data1=best-bass-guitar-vst-plugins)
 
 ---
 
@@ -154,7 +154,7 @@ At $299, Trilian is clearly positioned above mid-tier options, and its value pro
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| MODO Bass 2 | $149.99 | Physical modeling | 14 bass models, real-time physics, multiple playing styles | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2?a_aid=69cb95abe1763) |
+| MODO Bass 2 | $149.99 | Physical modeling | 14 bass models, real-time physics, multiple playing styles | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2?a_aid=69cb95abe1763&chan=art&data1=best-bass-guitar-vst-plugins) |
 | Scarbee Pre-Bass | $99 | Sample-based | Pre-CBS P-Bass, deep articulations, Kontakt Player-compatible | [Native Instruments](https://www.native-instruments.com/en/products/komplete/guitar/scarbee-pre-bass/) |
 | Trilian | $299 | Sample workstation | Electric, upright, synth bass, 34GB+ content, STEAM Engine | [Spectrasonics](https://www.spectrasonics.net/products/omnisphere/) |
 | Ample Bass P Lite | Free | Sample-based | Free Precision Bass, functional starting point, limited articulations | — |
@@ -198,7 +198,7 @@ A: Ample Bass P Lite from Ample Sound is the most widely recommended free option
 
 The best bass guitar VST plugins in 2026 come down to one honest decision: tonal precision around a specific instrument's character, or maximum flexibility across characters. Scarbee Pre-Bass answers the first question with authority at $99; MODO Bass 2 answers the second at $149.99. For the majority of bedroom producers working across more than one genre without a fixed bass identity, MODO Bass 2 is the stronger first investment — its physical modeling engine grows with your session demands in a way that a single-instrument sample library cannot.
 
-[→ Get MODO Bass 2 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2?a_aid=69cb95abe1763)
+[→ Get MODO Bass 2 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2?a_aid=69cb95abe1763&chan=art&data1=best-bass-guitar-vst-plugins)
 
 ---
 

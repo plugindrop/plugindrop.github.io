@@ -49,7 +49,7 @@ Valhalla Room, VintageVerb, Plate, Delay, Ubermod, and Shimmer all sell at a fla
 
 ### Serum 2 — $249, no promotions
 
-Xfer's official price for Serum 2 sits at $249, and the developer has publicly stated that Xfer doesn't run promotions or sales on the perpetual license. Our history shows a couple of legacy data points — a $99 intro offer in March 2025 and a one-off $189 price in May 2025 — but neither recurred, and neither should be treated as a pattern. As of our most recent check, the regular price is what you'll pay — [check the current price](https://www.pluginboutique.com/search?q=Serum%202&a_aid=69cb95abe1763).
+Xfer's official price for Serum 2 sits at $249, and the developer has publicly stated that Xfer doesn't run promotions or sales on the perpetual license. Our history shows a couple of legacy data points — a $99 intro offer in March 2025 and a one-off $189 price in May 2025 — but neither recurred, and neither should be treated as a pattern. As of our most recent check, the regular price is what you'll pay — [check the current price](https://www.pluginboutique.com/search?q=Serum%202&a_aid=69cb95abe1763&chan=art&data1=plugins-that-never-go-on-sale).
 
 ### Spectrasonics Omnisphere — $499, direct-only, no sales
 
@@ -73,7 +73,7 @@ FabFilter Pro-Q 4, Pro-C 2, Pro-L 2, Pro-R 2, Pro-DS, Pro-MB, Pro-G, Saturn 2, V
 
 ### Native Instruments Kontakt 8 — $299, no confirmed public sale
 
-Kontakt 8, the full sampler license, [lists at $299 through Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/13195-Kontakt-8?a_aid=69cb95abe1763). We found no confirmed public discount calendar for it. A crossgrade/upgrade path exists around $149 for owners of qualifying prior products, but that's an eligibility-restricted price, not a sale anyone can walk into.
+Kontakt 8, the full sampler license, [lists at $299 through Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/13195-Kontakt-8?a_aid=69cb95abe1763&chan=art&data1=plugins-that-never-go-on-sale). We found no confirmed public discount calendar for it. A crossgrade/upgrade path exists around $149 for owners of qualifying prior products, but that's an eligibility-restricted price, not a sale anyone can walk into.
 
 ### DMG Audio EQuilibrium and Limitless — no discounting pattern
 

@@ -22,8 +22,8 @@ priceTrack:
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Serum | ~$189 | Industry-standard wavetable, EDM, bass music | [Xfer Records](https://xferrecords.com/products/serum) |
-| Vital | Free / Paid tiers | Beginners, advanced sound design, budget-conscious producers | [Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763) |
-| Phase Plant | ~$99+ | Modular power users, hybrid synthesis | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) |
+| Vital | Free / Paid tiers | Beginners, advanced sound design, budget-conscious producers | [Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763&chan=art&data1=serum-vs-vital-comparison) |
+| Phase Plant | ~$99+ | Modular power users, hybrid synthesis | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=serum-vs-vital-comparison) |
 
 ---
 
@@ -71,7 +71,7 @@ Vital introduces spectral morphing as a core oscillator feature — it can blend
 
 **Best for:** Sound designers who want more modulation sources out of the box, Linux users, and producers who can't justify a $189 price tag yet.
 
-[→ Get Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763)
+[→ Get Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763&chan=art&data1=serum-vs-vital-comparison)
 [→ Download Vital Free](https://vital.audio/)
 
 **Winner: Tie.** Serum wins on output fidelity and import tools; Vital wins on spectral morphing depth and oscillator count.
@@ -168,7 +168,7 @@ Once you've outgrown the standard wavetable paradigm, these tools push synthesis
 - **Price:** ~$99+ (as part of Kilohearts Toolbox or standalone)
 - **Why upgrade:** Serum and Vital are fixed-architecture instruments. Phase Plant is fully modular — you combine wavetable, granular, and additive oscillators with custom signal chains. If you find yourself wishing Serum let you stack oscillator types or route signals in non-standard ways, Phase Plant removes every constraint.
 
-[→ Get Phase Plant on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763)
+[→ Get Phase Plant on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=serum-vs-vital-comparison)
 
 ### Serum (Full License) — Upgrade from the Splice subscription
 
@@ -187,8 +187,8 @@ Once you've outgrown the standard wavetable paradigm, these tools push synthesis
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Serum | ~$189 | Wavetable | Best-in-class audio quality, massive preset ecosystem, industry standard | [Buy](https://xferrecords.com/products/serum) |
-| Vital | Free / Paid tiers | Wavetable + Spectral | Free full engine, 6 LFOs, FM-capable, Linux support | [Get Free (Plugin Boutique)](https://vital.audio/) / [PB](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763) |
-| Phase Plant | ~$99+ | Modular/Hybrid | Fully modular signal path, wavetable + granular + additive | [Buy](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) |
+| Vital | Free / Paid tiers | Wavetable + Spectral | Free full engine, 6 LFOs, FM-capable, Linux support | [Get Free (Plugin Boutique)](https://vital.audio/) / [PB](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763&chan=art&data1=serum-vs-vital-comparison) |
+| Phase Plant | ~$99+ | Modular/Hybrid | Fully modular signal path, wavetable + granular + additive | [Buy](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=serum-vs-vital-comparison) |
 
 ---
 

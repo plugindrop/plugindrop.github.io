@@ -3,7 +3,7 @@ title: "32% Off SoundID Reference for Speakers Headphones"
 description: "SoundID Reference for Speakers & Headphones is **32% off** at Plugin Boutique — dropping from ~~$249~~ to **$169**, a flat $80 saving. This is the full..."
 pubDate: "2026-06-08T01:56:10Z"
 tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/7410-SoundID-Reference-for-Speakers-Headphones?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-reference-for-speakers-headphones-2d2433"
+affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/7410-SoundID-Reference-for-Speakers-Headphones?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-reference-for-speakers-headphones-2d2433&chan=art&data1=soundid-reference-for-speakers-headphones-2d2433"
 heroImage: "/images/soundid-reference-for-speakers-headphones-2d2433.jpg"
 score: 10.00
 dealPrice: "$169.00"
@@ -12,7 +12,7 @@ discount: "32% OFF"
 xText: "soundid reference 32% off and this is genuinely the cheapest it gets. if you're mixing on headphones you can't skip this anymore"
 draft: true
 ---
-**TL;DR:** SoundID Reference for Speakers & Headphones is **32% off** at Plugin Boutique — dropping from ~~$249~~ to **$169**, a flat $80 saving. This is the full dual-mode version: both speaker room calibration and headphone correction profiles in one license. [Grab it at Plugin Boutique while the deal is live.](https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/7410-SoundID-Reference-for-Speakers-Headphones?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-reference-for-speakers-headphones-2d2433)
+**TL;DR:** SoundID Reference for Speakers & Headphones is **32% off** at Plugin Boutique — dropping from ~~$249~~ to **$169**, a flat $80 saving. This is the full dual-mode version: both speaker room calibration and headphone correction profiles in one license. [Grab it at Plugin Boutique while the deal is live.](https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/7410-SoundID-Reference-for-Speakers-Headphones?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-reference-for-speakers-headphones-2d2433&chan=art&data1=soundid-reference-for-speakers-headphones-2d2433)
 
 ---
 
@@ -52,7 +52,7 @@ SoundID Reference (formerly Sonarworks Reference 4) is a frequently recommended 
 
 Sonarworks runs sales periodically, but 32% off the full dual-mode bundle — covering both speakers and headphones in one license — is a worthwhile discount if you've been considering the upgrade from the headphones-only version. Verify current pricing on the product page — deals can change.
 
-[Get SoundID Reference for Speakers & Headphones at $169 →](https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/7410-SoundID-Reference-for-Speakers-Headphones?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-reference-for-speakers-headphones-2d2433)
+[Get SoundID Reference for Speakers & Headphones at $169 →](https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/7410-SoundID-Reference-for-Speakers-Headphones?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-reference-for-speakers-headphones-2d2433&chan=art&data1=soundid-reference-for-speakers-headphones-2d2433)
 
 ## Alternatives at a Glance
 
@@ -82,7 +82,7 @@ A: Check Plugin Boutique's terms and Sonarworks' official policy directly — re
 
 Eighty dollars off the full Speakers & Headphones bundle is a clean discount on one of the more established calibration tools in the space. If your monitoring situation has been nagging at you, this is a concrete moment to address it.
 
-[Pick up SoundID Reference at Plugin Boutique for $169 →](https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/7410-SoundID-Reference-for-Speakers-Headphones?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-reference-for-speakers-headphones-2d2433)
+[Pick up SoundID Reference at Plugin Boutique for $169 →](https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/7410-SoundID-Reference-for-Speakers-Headphones?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-reference-for-speakers-headphones-2d2433&chan=art&data1=soundid-reference-for-speakers-headphones-2d2433)
 
 ## Related Guides
 

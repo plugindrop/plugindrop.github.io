@@ -3,13 +3,13 @@ title: "HY-Plugins creative effects, instruments & MIDI sequencers: Features, Pr
 description: "HY-Plugins is an independent plugin developer known for a focused catalog of affordable, creatively oriented tools —. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-20T08:18:51Z'
 tags: ["review", "arpeggiator", "generator", "hy-plugins", "midi", "sequencer", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ&chan=art&data1=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ"
 heroImage: /images/save-30-on-hy-plugins-creative-effects-instruments-midi-sequ.jpg
 score: 9.05
 draft: false
 converted: true
 ---
-**HY-Plugins creative effects, instruments & MIDI sequencers** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ)
+**HY-Plugins creative effects, instruments & MIDI sequencers** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ&chan=art&data1=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ)
 
 ---
 
@@ -51,7 +51,7 @@ Exact regular prices vary by product across the HY-Plugins catalog.
 
 HY-Plugins doesn't run sales constantly — when discounts do appear, they're worth acting on for tools you've already been considering. Verify current pricing directly on the product page, as deals can change without notice.
 
-[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ&chan=art&data1=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ)
 
 ---
 
@@ -83,7 +83,7 @@ A: Format availability varies by product — check each individual product listi
 ## Where to Buy
 
  
-[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/1-Instruments/4-Synth/7929-HY-POLY?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ&chan=art&data1=save-30-on-hy-plugins-creative-effects-instruments-midi-sequ)
 
 ---
 

@@ -3,13 +3,13 @@ title: "HEARS Perfection: Features, Pricing & Is It Worth It? (2026)"
 description: "HEARS Perfection is a referencing and mix analysis plugin available through Plugin Boutique, categorized under Studio Tools."
 pubDate: '2026-04-23T18:27:53Z'
 tags: ["review", "vst-plugin", "synth", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088"
+affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088&chan=art&data1=hears-perfection-a69088"
 heroImage: /images/hears-perfection-a69088.jpg
 score: 8.55
 draft: false
 converted: true
 ---
-**HEARS Perfection** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088)
+**HEARS Perfection** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088&chan=art&data1=hears-perfection-a69088)
 
 ---
 
@@ -45,7 +45,7 @@ For precise system requirements and supported plugin formats (VST/AU/AAX), verif
 
  Referencing tools don't go on deep sale as frequently as synths or effects packs — when a tool in this niche drops by more than half, it's worth paying attention to. There's no widely published price history for HEARS Perfection suggesting this level of discount is routine, so treat it as an opportunistic buy rather than a sale you can wait out indefinitely.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088&chan=art&data1=hears-perfection-a69088)
 
 ---
 
@@ -77,7 +77,7 @@ A: Refund eligibility for digital software varies; check Plugin Boutique's terms
 ## Where to Buy
 
 A dedicated referencing tool doesn't happen often in this category. 
-[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hears-perfection-a69088&chan=art&data1=hears-perfection-a69088)
 
 ---
 

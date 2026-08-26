@@ -3,7 +3,7 @@ title: "69% Off SSL LMC"
 description: "Solid State Logic's LMC compressor plugin is currently **$16.50** (~~$53.90~~) at Plugin Boutique — that's 69% off a piece of genuine SSL heritage. SSL..."
 pubDate: "2026-05-07T08:46:24Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8677-SSL-LMC-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-lmc-1ec2ca"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8677-SSL-LMC-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-lmc-1ec2ca&chan=art&data1=ssl-lmc-1ec2ca"
 heroImage: "/images/ssl-lmc-1ec2ca.jpg"
 score: 9.24
 dealPrice: "$16.5"
@@ -12,7 +12,7 @@ discount: "69% OFF"
 xText: "ssl lmc at 69% off is the kind of rare deal that makes you actually look. this is the compressor in every pro rack but normally out of reach — suddenly it's not."
 draft: true
 ---
-**TL;DR:** Solid State Logic's LMC compressor plugin is currently **$16.50** (~~$53.90~~) at Plugin Boutique — that's 69% off a piece of genuine SSL heritage. SSL doesn't discount this aggressively often, which makes this worth paying attention to. [Pick it up at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8677-SSL-LMC-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-lmc-1ec2ca) while the deal is live.
+**TL;DR:** Solid State Logic's LMC compressor plugin is currently **$16.50** (~~$53.90~~) at Plugin Boutique — that's 69% off a piece of genuine SSL heritage. SSL doesn't discount this aggressively often, which makes this worth paying attention to. [Pick it up at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8677-SSL-LMC-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-lmc-1ec2ca&chan=art&data1=ssl-lmc-1ec2ca) while the deal is live.
 
 ---
 
@@ -56,7 +56,7 @@ SSL plugins do go on sale periodically, but a 69% reduction is on the steeper en
 
 Verify current pricing on the product page — deals can change.
 
-[Get the SSL LMC at Plugin Boutique for $16.50](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8677-SSL-LMC-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-lmc-1ec2ca)
+[Get the SSL LMC at Plugin Boutique for $16.50](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8677-SSL-LMC-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-lmc-1ec2ca&chan=art&data1=ssl-lmc-1ec2ca)
 
 ---
 
@@ -92,7 +92,7 @@ A: The LMC's circuit is specifically well-known for that application — its fas
 
 69% off an official SSL circuit doesn't happen every day. At $16.50, there's a low barrier to adding genuine SSL compression character to your sessions.
 
-[Grab the SSL LMC at Plugin Boutique before the deal expires](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8677-SSL-LMC-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-lmc-1ec2ca)
+[Grab the SSL LMC at Plugin Boutique before the deal expires](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8677-SSL-LMC-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-lmc-1ec2ca&chan=art&data1=ssl-lmc-1ec2ca)
 
 ## Related Guides
 

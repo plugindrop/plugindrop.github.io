@@ -40,7 +40,7 @@ For the feature set and price, Phase Plant delivers strong value right now. You 
 
 ## Where to Get It
 
-Grab Phase Plant at the sale price [here](https://www.pluginboutique.com/?a_aid=69cb95abe1763). You can also [buy from the Plugin Boutique store](https://www.pluginboutique.com/?a_aid=69cb95abe1763) and check the current price.
+Grab Phase Plant at the sale price [here](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=phase-plant-vs-serum-on-sale). You can also [buy from the Plugin Boutique store](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=phase-plant-vs-serum-on-sale) and check the current price.
 
 For a full head-to-head breakdown, read our [Phase Plant vs Serum: Which Wavetable Synth Wins for Sound Design](https://plugindrop.net/posts/phase-plant-vs-serum/).
 

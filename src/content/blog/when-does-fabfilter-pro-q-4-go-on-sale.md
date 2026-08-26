@@ -44,7 +44,7 @@ heroImage: '/images/when-does-fabfilter-pro-q-4-go-on-sale.jpg'
 > **Buying tip:** FabFilter runs highly consistent 25-30% off sales. The Anniversary deal in December is their deepest official discount at 30%. Gear4music in the UK sometimes sells at a favorable GBP/USD exchange rate for even better effective prices.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-effects/10-equalizer/8019-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-effects/10-equalizer/8019-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=when-does-fabfilter-pro-q-4-go-on-sale)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 

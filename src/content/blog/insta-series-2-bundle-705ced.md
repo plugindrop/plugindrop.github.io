@@ -3,13 +3,13 @@ title: "Insta Series 2 Bundle: Features, Pricing & Is It Worth It? (2026)"
 description: "The Insta Series 2 Bundle is a multi-instrument collection available exclusively through Plugin Boutique. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-25T19:06:27Z'
 tags: ["review", "bundle", "effects", "music-production"]
-affiliate: https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17166-Insta-Series-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=insta-series-2-bundle-705ced
+affiliate: https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17166-Insta-Series-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=insta-series-2-bundle-705ced&chan=art&data1=insta-series-2-bundle-705ced
 heroImage: /images/insta-series-2-bundle-705ced.jpg
 score: 8.75
 draft: false
 converted: true
 ---
-**Insta Series 2 Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17166-Insta-Series-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=insta-series-2-bundle-705ced)
+**Insta Series 2 Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17166-Insta-Series-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=insta-series-2-bundle-705ced&chan=art&data1=insta-series-2-bundle-705ced)
 
 ---
 
@@ -42,7 +42,7 @@ The Insta Series 2 Bundle is a multi-instrument collection available exclusively
 
 > Note: Verify current pricing on the product page — deals can change without notice.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17166-Insta-Series-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=insta-series-2-bundle-705ced)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17166-Insta-Series-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=insta-series-2-bundle-705ced&chan=art&data1=insta-series-2-bundle-705ced)
 
 ---
 
@@ -73,7 +73,7 @@ A: Compatibility details vary by instrument format. Verify DAW and OS requiremen
 
 ##  Deals at this discount depth don't stick around long.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17166-Insta-Series-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=insta-series-2-bundle-705ced)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17166-Insta-Series-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=insta-series-2-bundle-705ced&chan=art&data1=insta-series-2-bundle-705ced)
 
 ---
 

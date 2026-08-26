@@ -24,8 +24,8 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Valhalla Room | $50 | Natural rooms, acoustic mixing, orchestral | [Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Room%20reverb&a_aid=69cb95abe1763) |
-| Valhalla VintageVerb | $50 | Vintage character, synths, 80s drums, pads | [Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763) |
+| Valhalla Room | $50 | Natural rooms, acoustic mixing, orchestral | [Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Room%20reverb&a_aid=69cb95abe1763&chan=art&data1=valhalla-room-vs-vintageverb) |
+| Valhalla VintageVerb | $50 | Vintage character, synths, 80s drums, pads | [Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763&chan=art&data1=valhalla-room-vs-vintageverb) |
 
 ---
 
@@ -58,7 +58,7 @@ The algorithms include Neutral, Noisy, Noisy Bright, Open Air, Bright, Dark, and
 
 **Best for:** Acoustic instruments, orchestral mixing, singer-songwriter production, dialogue, and anything that needs invisible depth without added color.
 
-[→ Get Valhalla Room on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Room%20reverb&a_aid=69cb95abe1763)
+[→ Get Valhalla Room on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Room%20reverb&a_aid=69cb95abe1763&chan=art&data1=valhalla-room-vs-vintageverb)
 
 ---
 
@@ -77,7 +77,7 @@ The modulation in VintageVerb is more prominent and present than Room's by desig
 
 **Best for:** Electronic production, synthwave, post-punk, indie pop, drum rooms, pads, and any situation where the reverb itself is part of the sound design.
 
-[→ Get Valhalla VintageVerb on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763)
+[→ Get Valhalla VintageVerb on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763&chan=art&data1=valhalla-room-vs-vintageverb)
 
 ---
 
@@ -141,7 +141,7 @@ Both plugins in this comparison are premium tools worth every cent of their $50 
 - **Price:** $50
 - **Why upgrade:** DAW-bundled reverbs lack the algorithm depth, pre-delay precision, and frequency-shaping controls Room provides. The improvement in tail transparency on acoustic sources and mix buses is immediately apparent on first use.
 
-[→ Get Valhalla Room on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Room%20reverb&a_aid=69cb95abe1763)
+[→ Get Valhalla Room on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Room%20reverb&a_aid=69cb95abe1763&chan=art&data1=valhalla-room-vs-vintageverb)
 
 ### Valhalla VintageVerb — The Creative Character Reverb Worth Owning
 
@@ -151,7 +151,7 @@ Both plugins in this comparison are premium tools worth every cent of their $50 
 - **Price:** $50
 - **Why upgrade:** Free reverbs don't model vintage hardware behavior with any accuracy. The Color modes and algorithm variety in VintageVerb deliver sounds that aren't available at the free tier — sounds that defined entire decades of recorded music.
 
-[→ Get Valhalla VintageVerb on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763)
+[→ Get Valhalla VintageVerb on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763&chan=art&data1=valhalla-room-vs-vintageverb)
 
 ---
 
@@ -159,8 +159,8 @@ Both plugins in this comparison are premium tools worth every cent of their $50 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Valhalla Room | $50 | Algorithmic Room Reverb | 12 algorithms, transparent tail, precise damping controls, low CPU | [Buy Now](https://www.pluginboutique.com/search?q=Valhalla%20Room%20reverb&a_aid=69cb95abe1763) |
-| Valhalla VintageVerb | $50 | Vintage Algorithmic Reverb | 18 algorithms, 3 Color modes, lush modulation, 54 starting points | [Buy Now](https://www.pluginboutique.com/search?q=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763) |
+| Valhalla Room | $50 | Algorithmic Room Reverb | 12 algorithms, transparent tail, precise damping controls, low CPU | [Buy Now](https://www.pluginboutique.com/search?q=Valhalla%20Room%20reverb&a_aid=69cb95abe1763&chan=art&data1=valhalla-room-vs-vintageverb) |
+| Valhalla VintageVerb | $50 | Vintage Algorithmic Reverb | 18 algorithms, 3 Color modes, lush modulation, 54 starting points | [Buy Now](https://www.pluginboutique.com/search?q=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763&chan=art&data1=valhalla-room-vs-vintageverb) |
 
 ---
 
@@ -196,7 +196,7 @@ A: Yes. Valhalla DSP offers Valhalla Supermassive (massive ambient reverb and de
 
 Valhalla Room and VintageVerb are two of the best-value reverb plugins on the market regardless of price point, and at $50 each they're near-impossible to justify skipping. Room is the clear pick for engineers who need a transparent, natural-sounding reverb that serves the mix and disappears into it. VintageVerb is the pick for producers who want classic hardware character built into their sound. If your sessions span both worlds — and most eventually do — buy both.
 
-[→ Get Valhalla Room on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Room%20reverb&a_aid=69cb95abe1763) | [→ Get Valhalla VintageVerb on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763)
+[→ Get Valhalla Room on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Room%20reverb&a_aid=69cb95abe1763&chan=art&data1=valhalla-room-vs-vintageverb) | [→ Get Valhalla VintageVerb on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763&chan=art&data1=valhalla-room-vs-vintageverb)
 
 ---
 

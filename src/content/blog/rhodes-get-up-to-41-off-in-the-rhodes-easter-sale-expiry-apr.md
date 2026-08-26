@@ -3,13 +3,13 @@ title: "Rhodes: Features, Pricing & Is It Worth It? (2026)"
 description: "Rhodes — yes, that Rhodes — makes official virtual instrument and effects plugins modeled on their iconic electric. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-02T07:01:43Z'
 tags: ["review", "rhodes", "music-production"]
-affiliate: "https://www.pluginboutique.com/deals/22664?utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/deals/22664?utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763&chan=art&data1=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr"
 heroImage: /images/rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr.webp
 score: 3.08
 draft: false
 converted: true
 ---
-**Rhodes** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/deals/22664?utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763)
+**Rhodes** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/deals/22664?utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763&chan=art&data1=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr)
 
 ---
 
@@ -47,7 +47,7 @@ The Rhodes V8 generated significant buzz as the first official Rhodes plugin. On
 
 > ** 
 
-[Check exact prices and grab the deal here](https://www.pluginboutique.com/deals/22664?utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763).
+[Check exact prices and grab the deal here](https://www.pluginboutique.com/deals/22664?utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763&chan=art&data1=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr).
 
 ## Alternatives at a Glance
 
@@ -75,7 +75,7 @@ A: The V8 requires approximately 22 GB of disk space after installation (compres
 
 ## Where to Buy
 
- Whether you're after the full V8 Pro instrument or just the V-Rack effects chain, this is a solid entry point. [Check current price at Plugin Boutique](https://www.pluginboutique.com/deals/22664?utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763).
+ Whether you're after the full V8 Pro instrument or just the V-Rack effects chain, this is a solid entry point. [Check current price at Plugin Boutique](https://www.pluginboutique.com/deals/22664?utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763&chan=art&data1=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr).
 
 ---
 

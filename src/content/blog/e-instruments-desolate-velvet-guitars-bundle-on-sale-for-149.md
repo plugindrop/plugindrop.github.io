@@ -3,13 +3,13 @@ title: "e-instruments Desolate & Velvet Guitars Bundle: Features, Pricing & Is I
 description: "The Desolate & Velvet Guitars Bundle combines two cinematic guitar libraries from e-instruments, a developer known. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-02T12:13:39Z'
 tags: ["review", "e-instruments", "guitar", "kontakt", "music-production", "bundle"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763&chan=art&data1=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149"
 heroImage: /images/e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149.jpg
 score: 7.21
 draft: false
 converted: true
 ---
-**e-instruments Desolate & Velvet Guitars Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763)
+**e-instruments Desolate & Velvet Guitars Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763&chan=art&data1=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149)
 
 ---
 
@@ -58,7 +58,7 @@ A: Check Plugin Boutique's product page for current return and refund terms.
 
 Two premium cinematic guitar libraries, nine guitars, real amps, real reverb —  **$149**. 
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763&chan=art&data1=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149)
 
 ---
 

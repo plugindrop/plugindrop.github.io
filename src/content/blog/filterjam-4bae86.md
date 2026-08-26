@@ -3,7 +3,7 @@ title: "Filterjam — Free Filter Plugin by AudioThing"
 description: "Filterjam by AudioThing is now available for FREE on Plugin Boutique — a multi-band resonant filter for VST/AU/AAX."
 pubDate: "2026-04-22T05:48:24Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/19-Filter/3022-Filterjam?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=filterjam-4bae86"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/19-Filter/3022-Filterjam?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=filterjam-4bae86&chan=art&data1=filterjam-4bae86"
 heroImage: "/images/filterjam-4bae86.jpg"
 score: 6.25
 dealPrice: "FREE"
@@ -11,7 +11,7 @@ originalPrice: ""
 xText: "free creative filter plugin from AudioThing. multi-band resonant filter, four filter types, modulation built in. plugin boutique, no cost."
 draft: true
 ---
-**TL;DR:** Filterjam by AudioThing is **FREE** on Plugin Boutique — a multi-band resonant filter plugin for Mac and Windows (VST/AU/AAX). No catch, no trial period. [Download it free here.](https://www.pluginboutique.com/product/2-Effects/19-Filter/3022-Filterjam?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=filterjam-4bae86)
+**TL;DR:** Filterjam by AudioThing is **FREE** on Plugin Boutique — a multi-band resonant filter plugin for Mac and Windows (VST/AU/AAX). No catch, no trial period. [Download it free here.](https://www.pluginboutique.com/product/2-Effects/19-Filter/3022-Filterjam?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=filterjam-4bae86&chan=art&data1=filterjam-4bae86)
 
 ---
 
@@ -52,7 +52,7 @@ Filterjam is permanently free through Plugin Boutique. No time limit, no strippe
 
 > Verify current pricing on the product page — deals can change without notice.
 
-[Check the current deal price on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/19-Filter/3022-Filterjam?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=filterjam-4bae86)
+[Check the current deal price on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/19-Filter/3022-Filterjam?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=filterjam-4bae86&chan=art&data1=filterjam-4bae86)
 
 ---
 
@@ -88,7 +88,7 @@ A: Platform compatibility details are listed on the product page — always veri
 
 A free dedicated creative filter plugin is always worth grabbing. No risk, no cost — just a useful tool in your library.
 
-[Download Filterjam free at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/19-Filter/3022-Filterjam?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=filterjam-4bae86)
+[Download Filterjam free at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/19-Filter/3022-Filterjam?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=filterjam-4bae86&chan=art&data1=filterjam-4bae86)
 
 ---
 

@@ -3,7 +3,7 @@ title: "34% Off POLYLLOP"
 description: "POLYLLOP is currently **34% off** at Plugin Boutique — down from ~~$59.00~~ to just **$39.00**. That's a $20 saving on a sequencer effects plugin that..."
 pubDate: "2026-06-16T06:38:48Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/24-Sequencer/14957-POLYLLOP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=polyllop-596ec3"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/24-Sequencer/14957-POLYLLOP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=polyllop-596ec3&chan=art&data1=polyllop-596ec3"
 heroImage: "/images/polyllop-596ec3.jpg"
 score: 9.15
 dealPrice: "$39.00"
@@ -12,7 +12,7 @@ discount: "34% OFF"
 xText: "polyllop hitting 34% off is legitimately rare for a new plugin. not sticking around long if people catch wind"
 draft: true
 ---
-**TL;DR:** POLYLLOP is currently **34% off** at Plugin Boutique — down from ~~$59.00~~ to just **$39.00**. That's a $20 saving on a sequencer effects plugin that doesn't come up for this price often. [Grab the deal here.](https://www.pluginboutique.com/product/2-Effects/24-Sequencer/14957-POLYLLOP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=polyllop-596ec3)
+**TL;DR:** POLYLLOP is currently **34% off** at Plugin Boutique — down from ~~$59.00~~ to just **$39.00**. That's a $20 saving on a sequencer effects plugin that doesn't come up for this price often. [Grab the deal here.](https://www.pluginboutique.com/product/2-Effects/24-Sequencer/14957-POLYLLOP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=polyllop-596ec3&chan=art&data1=polyllop-596ec3)
 
 ---
 
@@ -36,7 +36,7 @@ Based on the product's categorization and what's publicly available on the Plugi
 - **Effects Processing Integration** — Combines sequencing with audio effects rather than just MIDI, meaning the sequencer directly shapes the sound in real time
 - **Pattern Flexibility** — Designed to create evolving, non-repetitive textures by combining multiple sequenced elements
 
-Check the [official product page](https://www.pluginboutique.com/product/2-Effects/24-Sequencer/14957-POLYLLOP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=polyllop-596ec3) for the full feature list, system requirements, and supported DAWs.
+Check the [official product page](https://www.pluginboutique.com/product/2-Effects/24-Sequencer/14957-POLYLLOP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=polyllop-596ec3&chan=art&data1=polyllop-596ec3) for the full feature list, system requirements, and supported DAWs.
 
 ---
 
@@ -59,7 +59,7 @@ Check the [official product page](https://www.pluginboutique.com/product/2-Effec
 
 > Verify current pricing on the product page — deals can change without notice.
 
-[Get POLYLLOP at $39.00 on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/24-Sequencer/14957-POLYLLOP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=polyllop-596ec3)
+[Get POLYLLOP at $39.00 on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/24-Sequencer/14957-POLYLLOP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=polyllop-596ec3&chan=art&data1=polyllop-596ec3)
 
 ---
 
@@ -95,7 +95,7 @@ A: Check the Plugin Boutique listing directly — some plugins include a demo or
 
 POLYLLOP is 34% off right now — ~~$59.00~~ down to **$39.00** at Plugin Boutique. If you've been watching sequencer effects plugins, this is a reasonable entry point.
 
-[Grab POLYLLOP for $39.00 →](https://www.pluginboutique.com/product/2-Effects/24-Sequencer/14957-POLYLLOP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=polyllop-596ec3)
+[Grab POLYLLOP for $39.00 →](https://www.pluginboutique.com/product/2-Effects/24-Sequencer/14957-POLYLLOP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=polyllop-596ec3&chan=art&data1=polyllop-596ec3)
 
 ## Related Guides
 

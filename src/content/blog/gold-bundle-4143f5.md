@@ -3,7 +3,7 @@ title: "85% Off Gold Bundle"
 description: "The Gold Bundle on Plugin Boutique is currently 80% off — down to just $159.00 from ~~$799.00~~, saving you $640. That's a significant chunk of tools for a"
 pubDate: "2026-05-08T05:18:35Z"
 tags: ["sale", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12534-Gold-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=gold-bundle-4143f5"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12534-Gold-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=gold-bundle-4143f5&chan=art&data1=gold-bundle-4143f5"
 heroImage: "/images/gold-bundle-4143f5.jpg"
 score: 10.00
 dealPrice: "$114.99"
@@ -12,7 +12,7 @@ discount: "85% OFF"
 xText: "80% off gold bundle means you're actually thinking through your setup instead of random singles. per-plugin cost hits different at this price."
 draft: true
 ---
-**TL;DR:** The Gold Bundle on Plugin Boutique is currently 80% off — down to just $159.00 from ~~$799.00~~, saving you $640. That's a significant chunk of tools for a fraction of the full price. [Grab the Gold Bundle here.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12534-Gold-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=gold-bundle-4143f5)
+**TL;DR:** The Gold Bundle on Plugin Boutique is currently 80% off — down to just $159.00 from ~~$799.00~~, saving you $640. That's a significant chunk of tools for a fraction of the full price. [Grab the Gold Bundle here.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12534-Gold-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=gold-bundle-4143f5&chan=art&data1=gold-bundle-4143f5)
 
 ---
 
@@ -57,7 +57,7 @@ An 80% discount is a steep markdown by any standard. Bundles at this level of di
 
 Note: Verify current pricing on the product page — deals can change without notice.
 
-[See the current deal on Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12534-Gold-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=gold-bundle-4143f5)
+[See the current deal on Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12534-Gold-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=gold-bundle-4143f5&chan=art&data1=gold-bundle-4143f5)
 
 ---
 
@@ -93,7 +93,7 @@ A: This is a promotional deal price. Plugin Boutique deals are time-limited, so 
 
 $640 in savings on a professional plugin bundle is a hard number to ignore. At $159.00 for the full Gold Bundle, this is one of those purchases that makes sense to pull the trigger on before the window closes.
 
-[Get 80% off the Gold Bundle at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12534-Gold-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=gold-bundle-4143f5)
+[Get 80% off the Gold Bundle at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12534-Gold-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=gold-bundle-4143f5&chan=art&data1=gold-bundle-4143f5)
 
 ## Related Guides
 

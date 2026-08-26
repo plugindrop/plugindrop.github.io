@@ -3,7 +3,7 @@ title: "78% Off SILK 2"
 description: "SILK 2 is currently 78% off at Plugin Boutique — down from ~~$141.90~~ to just **$31.90**. That's over $110 in savings on a virtual instrument built for..."
 pubDate: "2026-05-06T01:55:45Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11871-SILK-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=silk-2-343bfa"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11871-SILK-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=silk-2-343bfa&chan=art&data1=silk-2-343bfa"
 heroImage: "/images/silk-2-343bfa.jpg"
 score: 10.00
 dealPrice: "$31.9"
@@ -12,7 +12,7 @@ discount: "78% OFF"
 xText: "new silk 2 compression just released at 78% off. that's the floor price on a new release — lowest you're ever catching this."
 draft: true
 ---
-**TL;DR:** SILK 2 is currently 78% off at Plugin Boutique — down from ~~$141.90~~ to just **$31.90**. That's over $110 in savings on a virtual instrument built for expressive, nuanced sound design. [Grab the deal here](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11871-SILK-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=silk-2-343bfa) before it expires.
+**TL;DR:** SILK 2 is currently 78% off at Plugin Boutique — down from ~~$141.90~~ to just **$31.90**. That's over $110 in savings on a virtual instrument built for expressive, nuanced sound design. [Grab the deal here](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11871-SILK-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=silk-2-343bfa&chan=art&data1=silk-2-343bfa) before it expires.
 
 ---
 
@@ -54,7 +54,7 @@ SILK 2 is a virtual instrument plugin available on Plugin Boutique, designed to 
 
 78% off is a significant discount by any measure — deals this deep on virtual instruments don't appear on a predictable schedule, so it's worth acting if SILK 2 fits your workflow. Verify current pricing on the product page — deals can change.
 
-[Get SILK 2 for $31.90 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11871-SILK-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=silk-2-343bfa)
+[Get SILK 2 for $31.90 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11871-SILK-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=silk-2-343bfa&chan=art&data1=silk-2-343bfa)
 
 ---
 
@@ -88,7 +88,7 @@ A: Refund policies for software instruments vary — review Plugin Boutique's te
 
 ## Get the Deal
 
-78% off brings SILK 2 from $141.90 down to $31.90 — that's a rare discount on a virtual instrument worth adding to your toolkit. [Lock in the price now at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11871-SILK-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=silk-2-343bfa) while the deal is live.
+78% off brings SILK 2 from $141.90 down to $31.90 — that's a rare discount on a virtual instrument worth adding to your toolkit. [Lock in the price now at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11871-SILK-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=silk-2-343bfa&chan=art&data1=silk-2-343bfa) while the deal is live.
 
 ## Related Guides
 

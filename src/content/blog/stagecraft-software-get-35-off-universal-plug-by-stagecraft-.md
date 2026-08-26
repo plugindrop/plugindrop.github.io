@@ -3,7 +3,7 @@ title: "Universal Plug: Features, Pricing & Is It Worth It? (2026)"
 description: "Universal Plug is a utility plugin made by Stagecraft Software, a developer based in Chicago, IL. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-03T05:45:08Z'
 tags: ["review", "stagecraft software", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=plugindrop&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=plugindrop&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-&a_aid=69cb95abe1763&chan=art&data1=stagecraft-software-get-35-off-universal-plug-by-stagecraft-"
 heroImage: "/images/stagecraft-software-get-35-off-universal-plug-by-stagecraft-.jpg"
 score: 4.25
 draft: false
@@ -14,7 +14,7 @@ converted: true
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/xkIUhqFpeb4" title="Universal Plug: Features, Pricing & Is It Worth It? (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-**Universal Plug** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=plugindrop&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-&a_aid=69cb95abe1763)
+**Universal Plug** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3751-Universal-Plug?utm_source=plugindrop&utm_medium=article&utm_campaign=stagecraft-software-get-35-off-universal-plug-by-stagecraft-&a_aid=69cb95abe1763&chan=art&data1=stagecraft-software-get-35-off-universal-plug-by-stagecraft-)
 
 ---
 

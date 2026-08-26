@@ -3,13 +3,13 @@ title: "Leapwing Audio: Features, Pricing & Is It Worth It? (2026)"
 description: "Leapwing Audio is a Belgian plugin developer founded in 2015 by Robin, Jeroen, and Emiliano. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-01T23:01:40Z'
 tags: ["review", "mastering", "mixing", "leapwing audio", "stereo imaging", "music-production"]
-affiliate: "https://www.pluginboutique.com/manufacturers/247-Leapwing-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=up-to-40-off-leapwing-audio-2576b9"
+affiliate: "https://www.pluginboutique.com/manufacturers/247-Leapwing-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=up-to-40-off-leapwing-audio-2576b9&chan=art&data1=up-to-40-off-leapwing-audio-2576b9"
 heroImage: /images/up-to-40-off-leapwing-audio-2576b9.jpg
 score: 3.43
 draft: false
 converted: true
 ---
-**Leapwing Audio** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/manufacturers/247-Leapwing-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=up-to-40-off-leapwing-audio-2576b9)
+**Leapwing Audio** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/manufacturers/247-Leapwing-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=up-to-40-off-leapwing-audio-2576b9&chan=art&data1=up-to-40-off-leapwing-audio-2576b9)
 
 ---
 
@@ -54,7 +54,7 @@ Leapwing Audio doesn't run sales constantly, so when discounts appear, they're w
 
 *Note: "Up to 40%" means discounts vary by product. Verify current pricing on the product page — deals can change without notice.*
 
-Leapwing doesn't discount as frequently as some larger competitors. Historical pricing data on [MusicSoftwareDeals](https://musicsoftwaredeals.com/manufacturer/leapwing-audio/) shows sales happen a few times per year, making this a reasonable time to buy if a specific plugin is on your list. [See all current Leapwing deals on KVR](https://www.pluginboutique.com/manufacturers/247-Leapwing-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=up-to-40-off-leapwing-audio-2576b9).
+Leapwing doesn't discount as frequently as some larger competitors. Historical pricing data on [MusicSoftwareDeals](https://musicsoftwaredeals.com/manufacturer/leapwing-audio/) shows sales happen a few times per year, making this a reasonable time to buy if a specific plugin is on your list. [See all current Leapwing deals on KVR](https://www.pluginboutique.com/manufacturers/247-Leapwing-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=up-to-40-off-leapwing-audio-2576b9&chan=art&data1=up-to-40-off-leapwing-audio-2576b9).
 
 ## Alternatives at a Glance
 
@@ -79,7 +79,7 @@ A: For specific system requirements and CPU benchmarks, check the official produ
 
 ## Where to Buy
 
-If StageOne 2, DynOne, or any of their tools have been sitting in your wishlist, this is a smart time to pull the trigger. [See all Leapwing Audio deals on KVR](https://www.pluginboutique.com/manufacturers/247-Leapwing-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=up-to-40-off-leapwing-audio-2576b9).
+If StageOne 2, DynOne, or any of their tools have been sitting in your wishlist, this is a smart time to pull the trigger. [See all Leapwing Audio deals on KVR](https://www.pluginboutique.com/manufacturers/247-Leapwing-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=up-to-40-off-leapwing-audio-2576b9&chan=art&data1=up-to-40-off-leapwing-audio-2576b9).
 
 ---
 

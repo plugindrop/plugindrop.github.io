@@ -9,7 +9,7 @@ score: 4.20
 xText: "8Dio Liberis — award-winning 45-piece children's choir, 3 soloists. specific texture you can't fake with adult voices. part of pick-3 deal at $69"
 draft: false
 ---
-**TL;DR:** Liberis is 8Dio's children's choir library — the award-winning 45-piece Piedmont Children's Choir, recorded in a church with three soloists included. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](/posts/choirs-solo-vocals-102b4c)**. [Buy on 8Dio →](https://www.pluginboutique.com/search?q=liberis+childrens+choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-liberis-choir)
+**TL;DR:** Liberis is 8Dio's children's choir library — the award-winning 45-piece Piedmont Children's Choir, recorded in a church with three soloists included. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](/posts/choirs-solo-vocals-102b4c)**. [Buy on 8Dio →](https://www.pluginboutique.com/search?q=liberis%20childrens%20choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-liberis-choir&chan=art&data1=8dio-liberis-choir)
 
 ---
 
@@ -48,7 +48,7 @@ Liberis is the only dedicated children's choir option in the 8Dio lineup. It fil
 
 Liberis is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](/posts/choirs-solo-vocals-102b4c)** offer. Its unique timbre pairs well with any of the adult choir libraries for textural contrast.
 
-[→ See all eligible titles and grab the deal](https://www.pluginboutique.com/search?q=liberis+childrens+choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-liberis-choir)
+[→ See all eligible titles and grab the deal](https://www.pluginboutique.com/search?q=liberis%20childrens%20choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-liberis-choir&chan=art&data1=8dio-liberis-choir)
 
 ---
 

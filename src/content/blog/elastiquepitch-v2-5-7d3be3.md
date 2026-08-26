@@ -3,7 +3,7 @@ title: "30% Off ElastiquePitch V2.5 — Vocal Pitch Correction ($122.50)"
 description: "zplane's ElastiquePitch V2.5 is currently ~~$175.00~~ **$122.50** at Plugin Boutique, a 30% discount. If you need real-time pitch shifting or correction..."
 pubDate: "2026-07-13T15:20:55Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/4185-ElastiquePitch-V2-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=elastiquepitch-v2-5-7d3be3"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/4185-ElastiquePitch-V2-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=elastiquepitch-v2-5-7d3be3&chan=art&data1=elastiquepitch-v2-5-7d3be3"
 heroImage: "/images/elastiquepitch-v2-5-7d3be3.jpg"
 score: 8.72
 dealPrice: "$122.50"
@@ -12,7 +12,7 @@ discount: "30% OFF"
 xText: "elastiquepitch v2.5 just dropped at 30% off. if you're doing any tempo or key changes this year, grab this while it's this cheap. transparent quality at a price that actually makes sense."
 draft: false
 ---
-**TL;DR:** zplane's ElastiquePitch V2.5 is currently ~~$175.00~~ **$122.50** at Plugin Boutique, a 30% discount. If you need real-time pitch shifting or correction built on zplane's élastique engine, this is a straightforward way to pick it up below list price. [Get ElastiquePitch V2.5 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/4185-ElastiquePitch-V2-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=elastiquepitch-v2-5-7d3be3).
+**TL;DR:** zplane's ElastiquePitch V2.5 is currently ~~$175.00~~ **$122.50** at Plugin Boutique, a 30% discount. If you need real-time pitch shifting or correction built on zplane's élastique engine, this is a straightforward way to pick it up below list price. [Get ElastiquePitch V2.5 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/4185-ElastiquePitch-V2-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=elastiquepitch-v2-5-7d3be3&chan=art&data1=elastiquepitch-v2-5-7d3be3).
 
 
 <div class="video-embed">
@@ -46,7 +46,7 @@ ElastiquePitch V2.5 is a real-time pitch shifting and correction plugin from zpl
 
 Plugin Boutique regularly runs percentage-based sales across its effects catalog, and 30% is a solid discount for a specialized pitch-processing tool. Verify current pricing on the product page — deals can change without notice.
 
-[Check the current deal price on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/4185-ElastiquePitch-V2-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=elastiquepitch-v2-5-7d3be3).
+[Check the current deal price on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/4185-ElastiquePitch-V2-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=elastiquepitch-v2-5-7d3be3&chan=art&data1=elastiquepitch-v2-5-7d3be3).
 
 ## Alternatives at a Glance
 
@@ -76,7 +76,7 @@ A: Plugins sold through Plugin Boutique are typically perpetual licenses, but co
 
 $52.50 off a real-time pitch correction plugin built on a well-established engine is a clear win if this fits your workflow. The 30% discount brings it down to $122.50 from $175.00.
 
-[Grab ElastiquePitch V2.5 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/4185-ElastiquePitch-V2-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=elastiquepitch-v2-5-7d3be3).
+[Grab ElastiquePitch V2.5 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/4185-ElastiquePitch-V2-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=elastiquepitch-v2-5-7d3be3&chan=art&data1=elastiquepitch-v2-5-7d3be3).
 
 ## Is This Deal Worth It?
 

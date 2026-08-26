@@ -47,14 +47,14 @@ heroImage: '/images/when-does-arturia-v-collection-go-on-sale.jpg'
 > **Buying tip:** Key insider tip: if you own even one Arturia product (including free Analog Lab), you may qualify for upgrade pricing that can bring V Collection down to $149. Arturia Week in January is often overlooked but consistently has the same prices as Summer/BF. Regular price for new users is $599; BF and Summer consistently hit $299.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/3656-V-Collection?a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/3656-V-Collection?a_aid=69cb95abe1763&chan=art&data1=when-does-arturia-v-collection-go-on-sale)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 
 
 ## Free Alternatives If You Can't Wait
 
-- **[NI Komplete](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/16553-Komplete-15?a_aid=69cb95abe1763)** — NI's competing bundle, also goes 50% off twice a year
+- **[NI Komplete](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/16553-Komplete-15?a_aid=69cb95abe1763&chan=art&data1=when-does-arturia-v-collection-go-on-sale)** — NI's competing bundle, also goes 50% off twice a year
 
 
 ---

@@ -3,13 +3,13 @@ title: "Bloom Palette Object: Features, Pricing & Is It Worth It? (2026)"
 description: "Bloom Palette Object is a virtual instrument available exclusively through Plugin Boutique. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:28:27Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12929-Bloom-Palette-Object?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-palette-object-2e5878"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12929-Bloom-Palette-Object?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-palette-object-2e5878&chan=art&data1=bloom-palette-object-2e5878"
 heroImage: /images/bloom-palette-object-2e5878.jpg
 score: 7.90
 draft: false
 converted: true
 ---
-**Bloom Palette Object** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12929-Bloom-Palette-Object?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-palette-object-2e5878)
+**Bloom Palette Object** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12929-Bloom-Palette-Object?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-palette-object-2e5878&chan=art&data1=bloom-palette-object-2e5878)
 
 ---
 
@@ -39,7 +39,7 @@ Based on its positioning as a Virtual Instrument on Plugin Boutique:
 
 ---
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12929-Bloom-Palette-Object?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-palette-object-2e5878)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12929-Bloom-Palette-Object?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-palette-object-2e5878&chan=art&data1=bloom-palette-object-2e5878)
 
 ---
 
@@ -75,7 +75,7 @@ A: Plugin Boutique's refund policy applies — check their terms of service dire
 
 A virtual instrument isn't something to sit on — sales like this don't have indefinite expiry dates. At $39.00, Bloom Palette Object is priced low enough to take a shot on a new sonic direction.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12929-Bloom-Palette-Object?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-palette-object-2e5878)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12929-Bloom-Palette-Object?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-palette-object-2e5878&chan=art&data1=bloom-palette-object-2e5878)
 
 ---
 

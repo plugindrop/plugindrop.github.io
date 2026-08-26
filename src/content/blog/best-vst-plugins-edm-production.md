@@ -232,7 +232,7 @@ Developer documentation confirms TDR Nova combines parametric EQ and dynamic EQ 
 
 **Best for:** Dynamic EQ tasks — taming harshness in synths, frequency-specific compression, and surgical resonance control.
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production)
+[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production&chan=art&data1=best-vst-plugins-edm-production)
 
 ---
 
@@ -255,7 +255,7 @@ Valhalla DSP's documentation describes Supermassive as using delay-based diffusi
 
 **Best for:** Long, lush reverb tails, ambient pad layers, and atmospheric textures in melodic house, techno, and ambient electronic music.
 
-[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production)
+[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production&chan=art&data1=best-vst-plugins-edm-production)
 
 ---
 
@@ -274,7 +274,7 @@ TAL Software's documentation describes TAL-Reverb-4 as a plate reverb with modul
 
 **Best for:** Warm, short-to-medium plate reverb on leads, pads, and percussion when Supermassive's scale is too much.
 
-[→ Download TAL-Reverb-4 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production)
+[→ Download TAL-Reverb-4 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production&chan=art&data1=best-vst-plugins-edm-production)
 
 ---
 
@@ -393,9 +393,9 @@ If you have exhausted the free options or are ready to invest in tools that will
 | Odin 2 | Free | Hybrid/wavetable synth | Chord mode, three-oscillator vector synthesis | [Free](https://www.thewavewarden.com/odin2) |
 | Dexed | Free | FM synth | DX7-compatible, best free FM engine | [Free](https://asb2m10.github.io/dexed/) |
 | OTT | Free | Multiband compressor | The default upward compressor in EDM | [Free](https://xferrecords.com/freeware) |
-| TDR Nova | Free / Paid GE | Dynamic EQ | Parametric + dynamic EQ, parallel compression | [Free via PB](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production) |
-| Valhalla Supermassive | Free | Reverb/delay | Most-recommended free reverb in EDM | [Free via PB](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production) |
-| TAL-Reverb-4 | Free | Plate reverb | Warm, musical, low-CPU spatial tool | [Free via PB](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production) |
+| TDR Nova | Free / Paid GE | Dynamic EQ | Parametric + dynamic EQ, parallel compression | [Free via PB](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production&chan=art&data1=best-vst-plugins-edm-production) |
+| Valhalla Supermassive | Free | Reverb/delay | Most-recommended free reverb in EDM | [Free via PB](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production&chan=art&data1=best-vst-plugins-edm-production) |
+| TAL-Reverb-4 | Free | Plate reverb | Warm, musical, low-CPU spatial tool | [Free via PB](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-edm-production&chan=art&data1=best-vst-plugins-edm-production) |
 | Valhalla Freq Echo | Free | Frequency-shifting delay | Metallic, resonant, non-standard delay textures | [Free](https://valhalladsp.com/shop/delay/valhalla-freq-echo/) |
 | LABS | Free | Sample library | Organic/cinematic layers, continuously expanding | [Free](https://labs.spitfireaudio.com) |
 | Podolski | Free | Subtractive synth | Low-CPU, clean basslines and pads | [Free](https://u-he.com/products/podolski/) |

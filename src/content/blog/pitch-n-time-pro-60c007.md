@@ -3,7 +3,7 @@ title: "31% Off Pitch N Time Pro"
 description: "Serato's Pitch N Time Pro is currently **31% off** at Plugin Boutique — dropping from ~~$799~~ to **$550**, saving you $249 on one of the most established..."
 pubDate: "2026-06-03T02:35:09Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/5098-Pitch-N-Time-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pitch-n-time-pro-60c007"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/5098-Pitch-N-Time-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pitch-n-time-pro-60c007&chan=art&data1=pitch-n-time-pro-60c007"
 heroImage: "/images/pitch-n-time-pro-60c007.jpg"
 score: 10.00
 dealPrice: "$550.00"
@@ -12,7 +12,7 @@ discount: "31% OFF"
 xText: "pitch n time pro launched at 31% off. never see new releases hit that discount out the gate. if you deal with vocals, this is the move"
 draft: true
 ---
-**TL;DR:** Serato's Pitch N Time Pro is currently **31% off** at Plugin Boutique — dropping from ~~$799~~ to **$550**, saving you $249 on one of the most established pitch and time correction plugins in professional audio. If you've been watching this one, [grab it here while the deal is live](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/5098-Pitch-N-Time-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pitch-n-time-pro-60c007).
+**TL;DR:** Serato's Pitch N Time Pro is currently **31% off** at Plugin Boutique — dropping from ~~$799~~ to **$550**, saving you $249 on one of the most established pitch and time correction plugins in professional audio. If you've been watching this one, [grab it here while the deal is live](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/5098-Pitch-N-Time-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pitch-n-time-pro-60c007&chan=art&data1=pitch-n-time-pro-60c007).
 
 ---
 
@@ -51,7 +51,7 @@ At $799 regular price, Pitch N Time Pro sits firmly in the professional tool tie
 
 > Verify current pricing on the product page — deals can change without notice.
 
-[Check the current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/5098-Pitch-N-Time-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pitch-n-time-pro-60c007)
+[Check the current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/5098-Pitch-N-Time-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pitch-n-time-pro-60c007&chan=art&data1=pitch-n-time-pro-60c007)
 
 ---
 
@@ -87,7 +87,7 @@ A: Verify current macOS/Windows compatibility and minimum specs on the official 
 
 $249 off a professional Serato plugin doesn't happen often — this is one of the sharper discounts you'll see on Pitch N Time Pro. If pitch shifting and time correction is part of your regular workflow, the current price makes a serious case for adding it to your toolkit.
 
-[Get Pitch N Time Pro at 31% off on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/5098-Pitch-N-Time-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pitch-n-time-pro-60c007)
+[Get Pitch N Time Pro at 31% off on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/5098-Pitch-N-Time-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pitch-n-time-pro-60c007&chan=art&data1=pitch-n-time-pro-60c007)
 
 ## Related Guides
 

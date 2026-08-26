@@ -3,7 +3,7 @@ title: "39% Off SubCulture — Audio Enhancement for Producers ($79)"
 description: "SubCulture is currently **39% off**, dropping from ~~$129.00~~ to **$79.00** at Plugin Boutique. That is a **$50.00 saving** on an effects plugin listed..."
 pubDate: "2026-07-14T15:31:24Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17589-SubCulture?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subculture-5c9062"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17589-SubCulture?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subculture-5c9062&chan=art&data1=subculture-5c9062"
 heroImage: "/images/subculture-5c9062.jpg"
 score: 8.72
 dealPrice: "$79.00"
@@ -14,7 +14,7 @@ draft: false
 ---
 If you only install one, make it SubCulture if you need an audio-enhancement plugin at a clearly stated sale price rather than paying full retail.
 
-**TL;DR:** SubCulture is currently **39% off**, dropping from ~~$129.00~~ to **$79.00** at Plugin Boutique. That is a **$50.00 saving** on an effects plugin listed in the Enhancer category; [check the current deal here](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17589-SubCulture?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subculture-5c9062).
+**TL;DR:** SubCulture is currently **39% off**, dropping from ~~$129.00~~ to **$79.00** at Plugin Boutique. That is a **$50.00 saving** on an effects plugin listed in the Enhancer category; [check the current deal here](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17589-SubCulture?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subculture-5c9062&chan=art&data1=subculture-5c9062).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/nFFESpv3IoM" title="39% Off SubCulture — Audio Enhancement for Producers ($79) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -59,7 +59,7 @@ Specific controls, plug-in formats, compatibility, and licensing details should 
 
 The supplied prices make this a straightforward percentage-sale offer: $79.00 instead of $129.00. No end date was provided, so verify the live price and availability before checking out.
 
-[View the SubCulture deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17589-SubCulture?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subculture-5c9062). Verify current pricing on the product page — deals can change.
+[View the SubCulture deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17589-SubCulture?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subculture-5c9062&chan=art&data1=subculture-5c9062). Verify current pricing on the product page — deals can change.
 
 ## Alternatives at a Glance
 
@@ -91,7 +91,7 @@ A: Check the official product page for current system requirements, supported pl
 
 ## Get the Deal
 
-SubCulture is listed at **$79.00**, saving **$50.00** from its ~~$129.00~~ regular price. [See the current Plugin Boutique offer](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17589-SubCulture?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subculture-5c9062).
+SubCulture is listed at **$79.00**, saving **$50.00** from its ~~$129.00~~ regular price. [See the current Plugin Boutique offer](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17589-SubCulture?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subculture-5c9062&chan=art&data1=subculture-5c9062).
 
 ## Is This Deal Worth It?
 

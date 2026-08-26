@@ -3,7 +3,7 @@ title: "61% Off Total Tapes 2026"
 description: "Total Tapes 2026 is 90% off right now at Plugin Boutique — ~~$799.92~~ down to just **$79.99**. That's over $720 in savings on a full tape effects bundle"
 pubDate: "2026-05-08T03:17:14Z"
 tags: ["sale", "bundle", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17289-Total-Tapes-2026?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-tapes-2026-e44150"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17289-Total-Tapes-2026?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-tapes-2026-e44150&chan=art&data1=total-tapes-2026-e44150"
 heroImage: "/images/total-tapes-2026-e44150.jpg"
 score: 10.00
 dealPrice: "$50.00"
@@ -12,7 +12,7 @@ discount: "61% OFF"
 xText: "90% off total tapes 2026. full tape suite in a bundle. pricing this deep doesn't come around often. do the math if you're thinking about upgrading your chain."
 draft: true
 ---
-**TL;DR:** Total Tapes 2026 is 90% off right now at Plugin Boutique — ~~$799.92~~ down to just **$79.99**. That's over $720 in savings on a full tape effects bundle. [Grab the deal here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17289-Total-Tapes-2026?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-tapes-2026-e44150)
+**TL;DR:** Total Tapes 2026 is 90% off right now at Plugin Boutique — ~~$799.92~~ down to just **$79.99**. That's over $720 in savings on a full tape effects bundle. [Grab the deal here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17289-Total-Tapes-2026?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-tapes-2026-e44150&chan=art&data1=total-tapes-2026-e44150)
 
 ---
 
@@ -49,7 +49,7 @@ A 90% discount is not standard for this category. When Plugin Boutique runs deep
 
 Pricing can change without notice — verify the current deal before purchasing.
 
-[Get Total Tapes 2026 for $79.99 at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17289-Total-Tapes-2026?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-tapes-2026-e44150)
+[Get Total Tapes 2026 for $79.99 at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17289-Total-Tapes-2026?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-tapes-2026-e44150&chan=art&data1=total-tapes-2026-e44150)
 
 ## Alternatives at a Glance
 
@@ -79,7 +79,7 @@ A: Deal durations aren't always announced in advance. If the 90% discount is sho
 
 ~~$799.92~~ for $79.99 — 90% off a tape effects bundle is a pricing window that doesn't stay open long. If analog warmth is missing from your toolkit, now is the time to act.
 
-[Grab Total Tapes 2026 at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17289-Total-Tapes-2026?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-tapes-2026-e44150)
+[Grab Total Tapes 2026 at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17289-Total-Tapes-2026?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-tapes-2026-e44150&chan=art&data1=total-tapes-2026-e44150)
 
 ## Related Guides
 

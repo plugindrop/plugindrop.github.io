@@ -3,13 +3,13 @@ title: "Shadow Hills Mastering Compressor: Features, Pricing & Is It Worth It? (
 description: "The Shadow Hills Mastering Compressor is a plugin emulation of the Shadow Hills Industries hardware unit — a two-stage mastering compressor that has appeared."
 pubDate: '2026-04-23T18:28:17Z'
 tags: ["review", "vst-plugin", "effects", "compressor", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10209-Shadow-Hills-Mastering-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-d121a4"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10209-Shadow-Hills-Mastering-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-d121a4&chan=art&data1=shadow-hills-mastering-compressor-d121a4"
 heroImage: /images/shadow-hills-mastering-compressor-d121a4.jpg
 score: 7.95
 draft: false
 converted: true
 ---
-**Shadow Hills Mastering Compressor** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10209-Shadow-Hills-Mastering-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-d121a4)
+**Shadow Hills Mastering Compressor** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10209-Shadow-Hills-Mastering-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-d121a4&chan=art&data1=shadow-hills-mastering-compressor-d121a4)
 
 ---
 
@@ -42,7 +42,7 @@ The hardware Shadow Hills Mastering Compressor has been a fixture in high-end ma
 
 Verify current pricing on the product page — deals can change.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10209-Shadow-Hills-Mastering-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-d121a4)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10209-Shadow-Hills-Mastering-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-d121a4&chan=art&data1=shadow-hills-mastering-compressor-d121a4)
 
 ---
 
@@ -73,7 +73,7 @@ A: The plugin is designed around mastering and bus processing workflows, but the
 
 ## Where to Buy
 
-A professional mastering compressor modeled on a hardware unit that costs far more than this deal price on its own — that's the entire pitch. [Lock in the $40 price at Plugin Boutique here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10209-Shadow-Hills-Mastering-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-d121a4)
+A professional mastering compressor modeled on a hardware unit that costs far more than this deal price on its own — that's the entire pitch. [Lock in the $40 price at Plugin Boutique here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10209-Shadow-Hills-Mastering-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-d121a4&chan=art&data1=shadow-hills-mastering-compressor-d121a4)
 
 ---
 

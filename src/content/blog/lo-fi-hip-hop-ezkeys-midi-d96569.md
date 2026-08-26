@@ -3,14 +3,14 @@ title: "lo fi hip hop ezkeys midi"
 description: "Lo-Fi Hip Hop EZkeys MIDI is currently part of a Toontrack new-release promotion with up to 25% off EZkeys 2 content — a solid entry point into Toontrack's"
 pubDate: "2026-04-28T13:53:43Z"
 tags: ["vst-plugin", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=lo+fi+hip+hop+ezkeys+midi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lo-fi-hip-hop-ezkeys-midi-d96569"
+affiliate: "https://www.pluginboutique.com/search?q=lo%20fi%20hip%20hop%20ezkeys%20midi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lo-fi-hip-hop-ezkeys-midi-d96569&chan=art&data1=lo-fi-hip-hop-ezkeys-midi-d96569"
 heroImage: "/images/lo-fi-hip-hop-ezkeys-midi-d96569.jpg"
 score: 6.00
 discount: "25% OFF"
 xText: "lo-fi hip hop midi patterns for ezkeys just dropped and they hit different. pre-made progressions that sit in a mix like butter, not templated sound. saves mad tweaking time."
 draft: false
 ---
-**TL;DR:** Lo-Fi Hip Hop EZkeys MIDI is currently part of a Toontrack new-release promotion with up to 25% off EZkeys 2 content — a solid entry point into Toontrack's MIDI ecosystem at a reduced rate. [→ Get Lo-Fi Hip Hop EZkeys MIDI at Plugin Boutique](https://www.pluginboutique.com/search?q=lo+fi+hip+hop+ezkeys+midi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lo-fi-hip-hop-ezkeys-midi-d96569)
+**TL;DR:** Lo-Fi Hip Hop EZkeys MIDI is currently part of a Toontrack new-release promotion with up to 25% off EZkeys 2 content — a solid entry point into Toontrack's MIDI ecosystem at a reduced rate. [→ Get Lo-Fi Hip Hop EZkeys MIDI at Plugin Boutique](https://www.pluginboutique.com/search?q=lo%20fi%20hip%20hop%20ezkeys%20midi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lo-fi-hip-hop-ezkeys-midi-d96569&chan=art&data1=lo-fi-hip-hop-ezkeys-midi-d96569)
 
 ---
 
@@ -51,7 +51,7 @@ This discount is part of Toontrack's new-release promotion for the EZkeys 2 ecos
 
 *Price verified at publication. Check the link for current availability.*
 
-[→ Get Lo-Fi Hip Hop EZkeys MIDI at Plugin Boutique](https://www.pluginboutique.com/search?q=lo+fi+hip+hop+ezkeys+midi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lo-fi-hip-hop-ezkeys-midi-d96569)
+[→ Get Lo-Fi Hip Hop EZkeys MIDI at Plugin Boutique](https://www.pluginboutique.com/search?q=lo%20fi%20hip%20hop%20ezkeys%20midi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lo-fi-hip-hop-ezkeys-midi-d96569&chan=art&data1=lo-fi-hip-hop-ezkeys-midi-d96569)
 
 ---
 
@@ -87,7 +87,7 @@ A: It is sold as an individual MIDI pack for EZkeys 2; check the current listing
 
 Lo-Fi Hip Hop EZkeys MIDI is currently available at up to 25% off as part of Toontrack's new-release promotion — a discount window that aligns with Toontrack's typical launch-period pricing strategy.
 
-[→ Get Lo-Fi Hip Hop EZkeys MIDI at Plugin Boutique](https://www.pluginboutique.com/search?q=lo+fi+hip+hop+ezkeys+midi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lo-fi-hip-hop-ezkeys-midi-d96569)
+[→ Get Lo-Fi Hip Hop EZkeys MIDI at Plugin Boutique](https://www.pluginboutique.com/search?q=lo%20fi%20hip%20hop%20ezkeys%20midi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lo-fi-hip-hop-ezkeys-midi-d96569&chan=art&data1=lo-fi-hip-hop-ezkeys-midi-d96569)
 
 ---
 

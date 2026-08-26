@@ -3,13 +3,13 @@ title: "Shadow Hills Mastering Compressor Class A: Features, Pricing & Is It Wor
 description: "The Shadow Hills Mastering Compressor Class A is a plugin emulation of the legendary Shadow Hills Industries hardware unit — a mastering-grade outboard."
 pubDate: '2026-04-23T18:28:11Z'
 tags: ["review", "vst-plugin", "effects", "compressor", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10210-Shadow-Hills-Mastering-Compressor-Class-A?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-class-a-0d2b79"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10210-Shadow-Hills-Mastering-Compressor-Class-A?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-class-a-0d2b79&chan=art&data1=shadow-hills-mastering-compressor-class-a-0d2b79"
 heroImage: /images/shadow-hills-mastering-compressor-class-a-0d2b79.jpg
 score: 8.25
 draft: false
 converted: true
 ---
-**Shadow Hills Mastering Compressor Class A** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10210-Shadow-Hills-Mastering-Compressor-Class-A?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-class-a-0d2b79)
+**Shadow Hills Mastering Compressor Class A** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10210-Shadow-Hills-Mastering-Compressor-Class-A?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-class-a-0d2b79&chan=art&data1=shadow-hills-mastering-compressor-class-a-0d2b79)
 
 ---
 
@@ -51,7 +51,7 @@ The Shadow Hills Mastering Compressor has a strong reputation in professional ma
 
 Verify current pricing on the product page — deals can change.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10210-Shadow-Hills-Mastering-Compressor-Class-A?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-class-a-0d2b79)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10210-Shadow-Hills-Mastering-Compressor-Class-A?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-class-a-0d2b79&chan=art&data1=shadow-hills-mastering-compressor-class-a-0d2b79)
 
 ---
 
@@ -87,7 +87,7 @@ A: Refund policies for software plugins vary. Check Plugin Boutique's terms and 
 
 At $50.00 — down from $164.00 —  Deals at this level don't last indefinitely.
 
-[Grab the Shadow Hills Mastering Compressor Class A at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10210-Shadow-Hills-Mastering-Compressor-Class-A?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-class-a-0d2b79)
+[Grab the Shadow Hills Mastering Compressor Class A at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10210-Shadow-Hills-Mastering-Compressor-Class-A?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=shadow-hills-mastering-compressor-class-a-0d2b79&chan=art&data1=shadow-hills-mastering-compressor-class-a-0d2b79)
 
 ---
 

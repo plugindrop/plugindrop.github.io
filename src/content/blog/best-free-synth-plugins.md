@@ -3,7 +3,7 @@ title: "17 Best Free Synth VST Plugins in 2026 (Ranked)"
 description: "The top free synth of 2026 is Vital — our ranked 17 wavetable, FM & analog VSTs, all genuine free downloads. No trials, no subscriptions."
 pubDate: "2026-03-19T09:00:00Z"
 tags: ["guide", "vst", "free", "instruments", "synth"]
-affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins"
+affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins"
 dealPrice: "FREE"
 draft: false
 heroImage: "/images/best-free-synth-plugins.jpg"
@@ -26,10 +26,10 @@ priceTrack:
 |--------|-------|----------|--------|
 | Vital | Free | Modern wavetable leads, pads, bass | [Free](https://vital.audio/) |
 | Surge XT | Free | Hybrid synthesis, deep sound design | [Free Download](https://surge-synthesizer.github.io/) |
-| Zebralette 3 | Free | Modern wavetable with u-he quality | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
+| Zebralette 3 | Free | Modern wavetable with u-he quality | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
 | Dexed | Free | DX7 FM patches, 80s electric pianos | [Free Download](https://asb2m10.github.io/dexed/) |
-| OB-Xd | Free | Synthwave pads, Oberheim analog leads | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
-| TAL-NoiseMaker | Free | Beginner-friendly analog sounds | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
+| OB-Xd | Free | Synthwave pads, Oberheim analog leads | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
+| TAL-NoiseMaker | Free | Beginner-friendly analog sounds | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
 | Odin2 | Free | Advanced semi-modular synthesis | Free Download |
 | Synth1 | Free | Classic subtractive with 100k+ presets | Free Download |
 
@@ -96,7 +96,7 @@ Zebralette 3 is the standalone, single-oscillator version of u-he's Zebra2 — o
 
 **Skip it if:** you need to stack multiple oscillators in one instance — it is single-oscillator by design, so complex layered patches mean running several copies.
 
-[→ Download Zebralette 3 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins)
+[→ Download Zebralette 3 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins)
 
 ---
 
@@ -157,7 +157,7 @@ OB-Xd emulates the Oberheim OB-X and OB-Xa, classic polysynths defined by their 
 
 **Skip it if:** you need wavetable or FM tones — it is a dedicated analog emulation and does one era of sound superbly, not everything.
 
-[→ Download OB-Xd Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins)
+[→ Download OB-Xd Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins)
 
 ---
 
@@ -214,7 +214,7 @@ TAL-NoiseMaker is a three-oscillator virtual analog synth built for immediacy. T
 
 **Skip it if:** you have outgrown basic subtractive synthesis — there is no wavetable, FM, or modular routing here, just clean fundamentals.
 
-[→ Download TAL-NoiseMaker Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins)
+[→ Download TAL-NoiseMaker Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins)
 
 ---
 
@@ -380,7 +380,7 @@ Yoshimi is a fork of ZynAddSubFX with the same three synthesis engines (additive
 - **Price:** $249 regular, typically $189 on sale, lowest we've tracked $99 ([price history](/plugin-prices/serum-2/)). Splice rent-to-own is the cheaper entry point.
 - **Why upgrade:** Vital's free tier is genuinely close, but Serum's built-in wavetable editor, its deeper workflow integration across commercial sound packs, and the breadth of third-party presets built specifically for it make it the benchmark for professional wavetable production that Vital references but does not yet match in ecosystem depth.
 
-[→ Get Serum (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins)
+[→ Get Serum (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins)
 
 ---
 
@@ -390,7 +390,7 @@ Yoshimi is a fork of ZynAddSubFX with the same three synthesis engines (additive
 - **Price:** $199 regular, typically $119 on sale, lowest we've tracked $92 ([price history](/plugin-prices/kilohearts-phase-plant/)). Also included in the Kilohearts subscription.
 - **Why upgrade:** Odin2 and Surge XT push free synthesis further than most people expect, but Phase Plant's visual modular architecture, deep integration with the Kilohearts snapin ecosystem, and the quality of its commercial preset library represent a step change for producers working at a professional level who want everything in one organized instrument.
 
-[→ Get Phase Plant (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763)
+[→ Get Phase Plant (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=best-free-synth-plugins)
 
 ---
 
@@ -402,7 +402,7 @@ Yoshimi is a fork of ZynAddSubFX with the same three synthesis engines (additive
 - **Price:** $149 regular, typically $104 on sale, lowest we've tracked $65 ([price history](/plugin-prices/u-he-hive-2/)).
 - **Why upgrade:** If Tyrell N6 or Podolski converted you to u-he's sound quality, Hive 2 is the obvious next step. It adds a second oscillator type, more filter options, MPE support, and a full modulation matrix while keeping the same analog character that makes u-he instruments stand out, and it sells for less than most flagship synths.
 
-[→ Get u-he Hive 2 (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763)
+[→ Get u-he Hive 2 (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763&chan=art&data1=best-free-synth-plugins)
 
 ---
 
@@ -412,10 +412,10 @@ The free synths above will carry most producers a long way. But if you keep hitt
 
 | Synth | Approx. 2026 price | Best for | When it usually goes on sale | Get It |
 |-------|--------------------|----------|------------------------------|--------|
-| **Serum 2** (Xfer) | $249 list · $189 sale · $99 low ([track](/plugin-prices/serum-2/)) | The industry-standard wavetable ecosystem and third-party preset packs | Xfer rarely discounts directly; the cheaper route is Splice rent-to-own at ~$10/mo | [Serum via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
-| **Pigments** (Arturia) | $199 list · $99 sale ([track](/plugin-prices/arturia-pigments/)) | Wavetable, virtual-analog, granular and harmonic engines in one modern interface | Arturia's biggest cuts (often ~50%) land in summer and at Black Friday | [Pigments via Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20Pigments&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
-| **Phase Plant** (Kilohearts) | $199 list · $119 sale · $92 low ([track](/plugin-prices/kilohearts-phase-plant/)) | Visual modular building and the Kilohearts snapin ecosystem | Discounted at Black Friday and summer sales; the subscription is the flexible way in | [Phase Plant via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
-| **Massive X** (Native Instruments) | $199 list · $90 sale · $85 low ([track](/plugin-prices/native-instruments-massive-x/)) | Growling basses and evolving leads on a deep wavetable/routing core | NI's deepest cuts (often ~50%) hit at Summer of Sound (June) and Black Friday | [Massive X via Plugin Boutique](https://www.pluginboutique.com/search?q=Massive%20X&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
+| **Serum 2** (Xfer) | $249 list · $189 sale · $99 low ([track](/plugin-prices/serum-2/)) | The industry-standard wavetable ecosystem and third-party preset packs | Xfer rarely discounts directly; the cheaper route is Splice rent-to-own at ~$10/mo | [Serum via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
+| **Pigments** (Arturia) | $199 list · $99 sale ([track](/plugin-prices/arturia-pigments/)) | Wavetable, virtual-analog, granular and harmonic engines in one modern interface | Arturia's biggest cuts (often ~50%) land in summer and at Black Friday | [Pigments via Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20Pigments&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
+| **Phase Plant** (Kilohearts) | $199 list · $119 sale · $92 low ([track](/plugin-prices/kilohearts-phase-plant/)) | Visual modular building and the Kilohearts snapin ecosystem | Discounted at Black Friday and summer sales; the subscription is the flexible way in | [Phase Plant via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
+| **Massive X** (Native Instruments) | $199 list · $90 sale · $85 low ([track](/plugin-prices/native-instruments-massive-x/)) | Growling basses and evolving leads on a deep wavetable/routing core | NI's deepest cuts (often ~50%) hit at Summer of Sound (June) and Black Friday | [Massive X via Plugin Boutique](https://www.pluginboutique.com/search?q=Massive%20X&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
 
 Honest take: none of these will make you a better producer than a well-learned Vital or Surge XT will. Buy one only when you can name the specific limitation you are hitting — otherwise the free four at the top of this list still win on value.
 
@@ -427,13 +427,13 @@ Honest take: none of these will make you a better producer than a well-learned V
 |--------|-------|------|------------|--------|
 | Vital | Free | Wavetable | Spectral warping, drag-and-drop mod, built-in FX | [Official Site](https://vital.audio/) |
 | Surge XT | Free | Hybrid | Multiple oscillator modes, deep modulation, open source | [Official Site](https://surge-synthesizer.github.io/) |
-| Zebralette 3 | Free | Wavetable | u-he spectral oscillator, 16-slot FX chain, CLAP support | [Official Site](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
+| Zebralette 3 | Free | Wavetable | u-he spectral oscillator, 16-slot FX chain, CLAP support | [Official Site](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
 | Dexed | Free | FM (6-op) | DX7 SysEx compatible, 6-operator FM engine | [Official Site](https://asb2m10.github.io/dexed/) |
 | ZynAddSubFX | Free | Additive / Subtractive | PADsynth engine, deep harmonic control | [Developer](https://zynaddsubfx.sourceforge.io/) |
-| OB-Xd | Free | Virtual Analog | Oberheim filter, 12-voice polyphony, AAX support | [Official Site](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
+| OB-Xd | Free | Virtual Analog | Oberheim filter, 12-voice polyphony, AAX support | [Official Site](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
 | Helm | Free | Analog Hybrid | Step sequencer, visual modulation, beginner-friendly | [Official Site](https://tytel.org/helm/) |
 | Tyrell N6 | Free | Virtual Analog | u-he analog character, warm filter | [Official Site](https://u-he.com/products/tyrelln6/) |
-| TAL-NoiseMaker | Free | Virtual Analog | 3 oscillators, onboard FX, easiest to learn | [Official Site](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) |
+| TAL-NoiseMaker | Free | Virtual Analog | 3 oscillators, onboard FX, easiest to learn | [Official Site](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
 | Synth1 | Free | Virtual Analog | 100,000+ community presets, Nord-inspired | [Free Download](https://daichilab.sakura.ne.jp/softsynth/index.html) |
 | Charlatan | Free | Virtual Analog | Simple, stable, clean two-oscillator patches | [Developer](https://www.blaukraut.info/) |
 | Podolski | Free | Virtual Analog | ZDF filter, ultra-low CPU, u-he quality | [Free Download](https://u-he.com/products/podolski/) |
@@ -533,7 +533,7 @@ A: Yes. Every plugin here allows commercial use of the audio you make with it �
 ---
 ## The Bottom Line
 
-For most producers in 2026, **Vital** is the only free synth you need to start: wavetable power, a visual modulation system, and a built-in effects chain in a single free download. Add **OB-Xd** for vintage analog character and **Dexed** for FM textures, and you have a production-ready synthesis toolkit before spending anything. When you are ready to invest, [Serum](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins) remains the most logical paid upgrade; the ecosystem depth and wavetable editor justify the cost for producers working at scale.
+For most producers in 2026, **Vital** is the only free synth you need to start: wavetable power, a visual modulation system, and a built-in effects chain in a single free download. Add **OB-Xd** for vintage analog character and **Dexed** for FM textures, and you have a production-ready synthesis toolkit before spending anything. When you are ready to invest, [Serum](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) remains the most logical paid upgrade; the ecosystem depth and wavetable editor justify the cost for producers working at scale.
 
 ---
 
@@ -544,7 +544,7 @@ The free synths above cover most use cases. If you find yourself hitting their l
 | Plugin | Best For | Price |
 |---|---|---|
 | [Serum 2](https://xferrecords.com/products/serum) | Sound design, massive preset ecosystem | $249 list · $189 sale · $99 low ([track](/plugin-prices/serum-2/)) |
-| [Phase Plant](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) | Modular architecture, advanced producers | $199 list · $119 sale · $92 low ([track](/plugin-prices/kilohearts-phase-plant/)) |
+| [Phase Plant](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=best-free-synth-plugins) | Modular architecture, advanced producers | $199 list · $119 sale · $92 low ([track](/plugin-prices/kilohearts-phase-plant/)) |
 
 ---
 

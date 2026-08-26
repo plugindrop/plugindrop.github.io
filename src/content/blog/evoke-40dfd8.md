@@ -3,7 +3,7 @@ title: "50% Off Evoke"
 description: "Evoke is currently 50% off at Plugin Boutique — dropping from ~~$129.00~~ to $64.50. That's a solid $64.50 in savings on a dedicated vocal processing plugin."
 pubDate: "2026-05-08T03:59:58Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15793-Evoke?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evoke-40dfd8"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15793-Evoke?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evoke-40dfd8&chan=art&data1=evoke-40dfd8"
 heroImage: "/images/evoke-40dfd8.jpg"
 score: 9.18
 dealPrice: "$64.50"
@@ -12,7 +12,7 @@ discount: "50% OFF"
 xText: "evoke hit 50% off on launch day—that's the rare moment when new plugin excitement and actual deal pricing line up at once."
 draft: true
 ---
-**TL;DR:** Evoke is currently 50% off at Plugin Boutique — dropping from ~~$129.00~~ to **$64.50**. That's a solid $64.50 in savings on a dedicated vocal processing plugin. [Grab it here before the deal expires.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15793-Evoke?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evoke-40dfd8)
+**TL;DR:** Evoke is currently 50% off at Plugin Boutique — dropping from ~~$129.00~~ to **$64.50**. That's a solid $64.50 in savings on a dedicated vocal processing plugin. [Grab it here before the deal expires.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15793-Evoke?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evoke-40dfd8&chan=art&data1=evoke-40dfd8)
 
 ---
 
@@ -36,7 +36,7 @@ Based on the product listing and category positioning:
 - **Real-Time Processing** — operates with low latency suitable for live tracking and mixing contexts.
 - **Intuitive Workflow Design** — laid out to reduce the number of clicks between "raw vocal" and "polished sound."
 
-For full system requirements, supported DAWs, and activation method, verify on the [official Plugin Boutique product page](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15793-Evoke?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evoke-40dfd8).
+For full system requirements, supported DAWs, and activation method, verify on the [official Plugin Boutique product page](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15793-Evoke?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evoke-40dfd8&chan=art&data1=evoke-40dfd8).
 
 ---
 
@@ -59,7 +59,7 @@ For full system requirements, supported DAWs, and activation method, verify on t
 
 > Verify current pricing on the product page — deals can change.
 
-[Get Evoke at 50% off on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15793-Evoke?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evoke-40dfd8)
+[Get Evoke at 50% off on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15793-Evoke?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evoke-40dfd8&chan=art&data1=evoke-40dfd8)
 
 ---
 
@@ -93,7 +93,7 @@ A: Deal end dates are not always published in advance. Pricing can revert at any
 
 ## Get the Deal
 
-Evoke at ~~$129.00~~ **$64.50** is a clean 50% off a dedicated vocal processing plugin — half price deals on single plugins at Plugin Boutique are worth acting on when they appear. [Lock in the discount on Plugin Boutique now.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15793-Evoke?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evoke-40dfd8)
+Evoke at ~~$129.00~~ **$64.50** is a clean 50% off a dedicated vocal processing plugin — half price deals on single plugins at Plugin Boutique are worth acting on when they appear. [Lock in the discount on Plugin Boutique now.](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15793-Evoke?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evoke-40dfd8&chan=art&data1=evoke-40dfd8)
 
 ## Related Guides
 

@@ -22,14 +22,14 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Spitfire LABS | Free | Acoustic texture, pads, color | [Official Site](https://labs.spitfireaudio.com/) |
-| BBC Symphony Orchestra Discover | Free | Orchestral sketching | [Official Site](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| BBC Symphony Orchestra Discover | Free | Orchestral sketching | [Official Site](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
 | NI Komplete Start | Free | Kontakt Player + starter instruments | [Official Site](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/) |
-| Spitfire Originals Epic Strings | ~$39 | Budget step up from LABS | [Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| Spitfire Originals Epic Strings | ~$39 | Budget step up from LABS | [Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
 | Soundiron Olympus Choir Micro | ~$49 | Budget choir texture | [Official Site](https://soundiron.com/products/olympus-micro-choir) |
 | Heavyocity Damage 2 | ~$149 | Cinematic hybrid percussion | [Official Site](https://heavyocity.com/product/damage-2/) |
 | ProjectSAM Symphobia 1 | ~$199 | Ensemble cinematic scoring | [Official Site](https://projectsam.com/libraries/symphobia/) |
-| Spitfire Albion ONE | ~$399 | Full orchestral palette in one library | [Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
-| Native Instruments Komplete | ~$599 (Standard) | Full Kontakt license + massive bundle | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| Spitfire Albion ONE | ~$399 | Full orchestral palette in one library | [Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
+| Native Instruments Komplete | ~$599 (Standard) | Full Kontakt license + massive bundle | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
 
 ---
 
@@ -81,7 +81,7 @@ If you outgrow Discover, don't buy Core the day you notice the ceiling — check
 
 **Best for:** Film and TV composers who need a credible orchestral sketch tool at zero cost.
 
-[→ Download BBC Symphony Orchestra Discover Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026)
+[→ Download BBC Symphony Orchestra Discover Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026)
 
 ---
 
@@ -119,7 +119,7 @@ The Originals series sits between the free LABS instruments and Spitfire's flags
 
 **Best for:** Producers who need playable strings beyond LABS depth but aren't ready for a full orchestral library investment.
 
-[→ Get Spitfire Audio Originals (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026)
+[→ Get Spitfire Audio Originals (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026)
 
 ---
 
@@ -216,7 +216,7 @@ Symphobia 1 has maintained its position in film scoring community recommendation
 
 **Best for:** Scoring producers and sound designers who want experimental source material that doesn't sound like standard library output.
 
-[→ Get 8Dio Libraries on Plugin Boutique](https://www.pluginboutique.com/search?q=8Dio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026)
+[→ Get 8Dio Libraries on Plugin Boutique](https://www.pluginboutique.com/search?q=8Dio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026)
 
 ---
 
@@ -235,7 +235,7 @@ AFFLATUS Chapter 1 is one of the more argued-about libraries in Vi-Control threa
 
 **Best for:** Composers who need an expressive, full-featured choir library without investing at the $400+ tier.
 
-[→ Get AFFLATUS Chapter 1 on Plugin Boutique](https://www.pluginboutique.com/search?q=Strezov%20Sampling&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026)
+[→ Get AFFLATUS Chapter 1 on Plugin Boutique](https://www.pluginboutique.com/search?q=Strezov%20Sampling&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026)
 
 ---
 
@@ -254,7 +254,7 @@ Built from Hans Zimmer's personal Yamaha CFX grand piano captured in multiple mi
 
 **Best for:** Scoring producers who want one piano library capable of serving intimate compositions and large-scale cinematic cues equally.
 
-[→ Get Hans Zimmer Piano (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Hans%20Zimmer%20Piano&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026)
+[→ Get Hans Zimmer Piano (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Hans%20Zimmer%20Piano&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026)
 
 ---
 
@@ -294,7 +294,7 @@ Albion ONE is the library that r/WeAreTheMusicMakers surfaces first in every "wh
 
 **Best for:** Composers who want one library covering the full orchestral palette at a professional standard.
 
-[→ Get Albion ONE (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026)
+[→ Get Albion ONE (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026)
 
 ---
 
@@ -310,7 +310,7 @@ Albion ONE is the library that r/WeAreTheMusicMakers surfaces first in every "wh
 
 **Buy now or wait?** This is the single biggest wait-for-sale purchase on this list in dollar terms. NI's Komplete Standard routinely drops from $599 to around $299–$399 during Black Friday and their anniversary promotion — a 40–50% swing that dwarfs anything else here. If you're not blocked on a specific third-party library today, waiting for the next NI sale window is close to a free 40% discount. Check our [When Does Native Instruments Komplete Go On Sale?](/blog/when-does-native-instruments-komplete-go-on-sale) page for the current forecast.
 
-[→ Get Native Instruments Komplete on Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026)
+[→ Get Native Instruments Komplete on Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026)
 
 ---
 
@@ -324,7 +324,7 @@ Albion ONE is the library that r/WeAreTheMusicMakers surfaces first in every "wh
 
 **Buy now or wait?** Core sees regular seasonal discounts of roughly 25–30%, but the jump from Professional to Ultimate is rarely worth chasing a sale for unless you already know you need the extended articulation set — in that case, buy Core at full price now and plan the Professional upgrade around the next sale window instead.
 
-[→ Get BBC Symphony Orchestra (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026)
+[→ Get BBC Symphony Orchestra (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026)
 
 ---
 
@@ -333,20 +333,20 @@ Albion ONE is the library that r/WeAreTheMusicMakers surfaces first in every "wh
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Spitfire LABS | Free | Multi-instrument | Rotating curated free instruments | [Official Site](https://labs.spitfireaudio.com/) |
-| BBC Symphony Orchestra Discover | Free | Full orchestra | Maida Vale recording, all sections | [Official Site](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| BBC Symphony Orchestra Discover | Free | Full orchestra | Maida Vale recording, all sections | [Official Site](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
 | NI Komplete Start | Free | Bundle | Kontakt Player + starter instruments | [Official Site](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/) |
-| Spitfire Originals Epic Strings | ~$39 | Strings | Budget step up from LABS | [Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| Spitfire Originals Epic Strings | ~$39 | Strings | Budget step up from LABS | [Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
 | Soundiron Olympus Choir Micro | ~$49 | Choir | Budget choral texture | [Official Site](https://soundiron.com/products/olympus-micro-choir) |
 | NI Session Strings Pro 2 | ~$149 | Strings | Pop/hybrid workflow, no key-switching | [Official Site](https://www.native-instruments.com/en/products/komplete/cinematic/session-strings-pro-2/) |
 | Heavyocity Damage 2 | ~$149 | Percussion | Broadcast-ready hybrid hits | [Official Site](https://heavyocity.com/product/damage-2/) |
 | ProjectSAM Symphobia 1 | ~$199 | Ensemble | Ensemble-played phrases and clusters | [Official Site](https://projectsam.com/libraries/symphobia/) |
-| 8Dio Hybrid Tools 3 | ~$199 | Hybrid/experimental | Deep scripting, non-generic textures | [Plugin Boutique](https://www.pluginboutique.com/search?q=8Dio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
-| Strezov Sampling AFFLATUS Ch. 1 | ~$249 | Choir | High-end results at mid-range price | [Plugin Boutique](https://www.pluginboutique.com/search?q=Strezov%20Sampling&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
-| Spitfire Hans Zimmer Piano | ~$299 | Piano | Zimmer's CFX with extended technique | [Plugin Boutique](https://www.pluginboutique.com/search?q=Hans%20Zimmer%20Piano&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| 8Dio Hybrid Tools 3 | ~$199 | Hybrid/experimental | Deep scripting, non-generic textures | [Plugin Boutique](https://www.pluginboutique.com/search?q=8Dio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
+| Strezov Sampling AFFLATUS Ch. 1 | ~$249 | Choir | High-end results at mid-range price | [Plugin Boutique](https://www.pluginboutique.com/search?q=Strezov%20Sampling&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
+| Spitfire Hans Zimmer Piano | ~$299 | Piano | Zimmer's CFX with extended technique | [Plugin Boutique](https://www.pluginboutique.com/search?q=Hans%20Zimmer%20Piano&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
 | Cinesamples CineStrings | ~$299 | Strings | Playable, indie-scoring focused | [Official Site](https://store.cinesamples.com/products/cinestrings-core) |
-| Spitfire Albion ONE | ~$399 | Full orchestra | Complete palette in one library | [Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
-| NI Komplete (Standard) | ~$599 | Bundle | Full Kontakt license + huge library | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
-| Spitfire BBC Symphony Orchestra (Core) | ~$299 | Full orchestra | Discover's depth, upgraded | [Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026) |
+| Spitfire Albion ONE | ~$399 | Full orchestra | Complete palette in one library | [Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
+| NI Komplete (Standard) | ~$599 | Bundle | Full Kontakt license + huge library | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
+| Spitfire BBC Symphony Orchestra (Core) | ~$299 | Full orchestra | Discover's depth, upgraded | [Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
 
 ---
 

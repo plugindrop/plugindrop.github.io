@@ -3,7 +3,7 @@ title: "50% Off RC 20 XO Bundle"
 description: "XLN Audio's RC-20 Retro Color and XO are bundled together at Plugin Boutique for **$124** — down from ~~$248~~. That's 50% off two of the most..."
 pubDate: "2026-06-12T13:44:10Z"
 tags: ["sale", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16119-RC-20-XO-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-xo-bundle-e7d44d"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16119-RC-20-XO-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-xo-bundle-e7d44d&chan=art&data1=rc-20-xo-bundle-e7d44d"
 heroImage: "/images/rc-20-xo-bundle-e7d44d.jpg"
 score: 10.00
 dealPrice: "$124.00"
@@ -12,7 +12,7 @@ discount: "50% OFF"
 xText: "the rc-20 xo bundle just dropped to 50% off. this is about as cheap as it gets on this one"
 draft: true
 ---
-**TL;DR:** XLN Audio's RC-20 Retro Color and XO are bundled together at Plugin Boutique for **$124** — down from ~~$248~~. That's 50% off two of the most talked-about lo-fi and drum production tools in one shot. [Grab the RC-20 XO Bundle here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16119-RC-20-XO-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-xo-bundle-e7d44d)
+**TL;DR:** XLN Audio's RC-20 Retro Color and XO are bundled together at Plugin Boutique for **$124** — down from ~~$248~~. That's 50% off two of the most talked-about lo-fi and drum production tools in one shot. [Grab the RC-20 XO Bundle here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16119-RC-20-XO-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-xo-bundle-e7d44d&chan=art&data1=rc-20-xo-bundle-e7d44d)
 
 ---
 
@@ -70,7 +70,7 @@ At $124 for two plugins, that works out to roughly **$62 per plugin** — less t
 
 > Verify current pricing on the product page — deals can change.
 
-[Check the current deal at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16119-RC-20-XO-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-xo-bundle-e7d44d)
+[Check the current deal at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16119-RC-20-XO-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-xo-bundle-e7d44d&chan=art&data1=rc-20-xo-bundle-e7d44d)
 
 ---
 
@@ -106,7 +106,7 @@ A: This specific deal is listed at Plugin Boutique. Verify availability and pric
 
 Two XLN Audio plugins for $124 — that's ~~$248~~ cut exactly in half. Both RC-20 and XO serve distinct production roles, which makes the per-plugin value here hard to argue with.
 
-[Get the RC-20 XO Bundle at Plugin Boutique for $124 →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16119-RC-20-XO-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-xo-bundle-e7d44d)
+[Get the RC-20 XO Bundle at Plugin Boutique for $124 →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16119-RC-20-XO-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-xo-bundle-e7d44d&chan=art&data1=rc-20-xo-bundle-e7d44d)
 
 ## Related Guides
 

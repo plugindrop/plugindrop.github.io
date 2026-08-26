@@ -43,7 +43,7 @@ heroImage: '/images/when-does-smooth-operator-pro-go-on-sale.jpg'
 > **Buying tip:** Baby Audio Smooth Operator Pro (an AI-driven spectral balancer and resonance suppressor) goes on sale primarily at Black Friday for $69 at PB. Gear4music (UK) has hit $59-66 due to favorable GBP/USD rates. Don't pay $129 — $69 is the expected BF price.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-effects/10-equalizer/8965-Smooth-Operator-Pro?a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-effects/10-equalizer/8965-Smooth-Operator-Pro?a_aid=69cb95abe1763&chan=art&data1=when-does-smooth-operator-pro-go-on-sale)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 

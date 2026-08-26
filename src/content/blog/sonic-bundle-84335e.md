@@ -3,14 +3,14 @@ title: "38% Off Sonic Bundle"
 description: "The Sonic Bundle is currently 38% off on Plugin Boutique — dropping from ~~$799~~ to $499, saving you $300 on a collection of production-ready audio tools."
 pubDate: "2026-05-08T03:17:12Z"
 tags: ["sale", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/14774-Sonic-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sonic-bundle-84335e"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/14774-Sonic-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sonic-bundle-84335e&chan=art&data1=sonic-bundle-84335e"
 heroImage: "/images/sonic-bundle-84335e.jpg"
 score: 10.00
 dealPrice: "$799.00"
 xText: "sonic bundle 38% off. suddenly individual plugins don't look worth their price anymore. that's the kind of deal that rewires your setup strategy"
 draft: true
 ---
-**TL;DR:** The Sonic Bundle is currently 38% off on Plugin Boutique — dropping from ~~$799~~ to **$499**, saving you $300 on a collection of production-ready audio tools. If you've been eyeing this bundle, [grab it now at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/14774-Sonic-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sonic-bundle-84335e) before the deal expires.
+**TL;DR:** The Sonic Bundle is currently 38% off on Plugin Boutique — dropping from ~~$799~~ to **$499**, saving you $300 on a collection of production-ready audio tools. If you've been eyeing this bundle, [grab it now at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/14774-Sonic-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sonic-bundle-84335e&chan=art&data1=sonic-bundle-84335e) before the deal expires.
 
 ---
 
@@ -52,7 +52,7 @@ The per-unit value depends on how many plugins are included — check the produc
 
 > Verify current pricing on the product page — deals can change.
 
-[View the Sonic Bundle deal on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/14774-Sonic-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sonic-bundle-84335e)
+[View the Sonic Bundle deal on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/14774-Sonic-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sonic-bundle-84335e&chan=art&data1=sonic-bundle-84335e)
 
 ---
 
@@ -86,7 +86,7 @@ A: Check Plugin Boutique's official refund and return policy on their website be
 
 ## Get the Deal
 
-$300 off is a straightforward win if you need production tools and this bundle covers your workflow. [Claim the 38% discount on the Sonic Bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/14774-Sonic-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sonic-bundle-84335e) while the deal is live.
+$300 off is a straightforward win if you need production tools and this bundle covers your workflow. [Claim the 38% discount on the Sonic Bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/14774-Sonic-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sonic-bundle-84335e&chan=art&data1=sonic-bundle-84335e) while the deal is live.
 
 ## Related Guides
 

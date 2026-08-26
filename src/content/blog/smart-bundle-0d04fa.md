@@ -3,13 +3,13 @@ title: "smart bundle: Features, Pricing & Is It Worth It? (2026)"
 description: "smart bundle is available at Plugin Boutique. Check current pricing and reviews on the product page."
 pubDate: '2026-05-01T16:18:23Z'
 tags: ["review", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa&chan=art&data1=smart-bundle-0d04fa"
 heroImage: /images/smart-bundle-0d04fa.jpg
 score: 10.00
 draft: false
 converted: true
 ---
-**smart bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa)
+**smart bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa&chan=art&data1=smart-bundle-0d04fa)
 
 ---
 
@@ -61,7 +61,7 @@ Six plugins for $249 breaks down to approximately **$41.50 per plugin** — a me
 
 *Price verified at publication. Check the link for current availability.*
 
-[→ Get smart:bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa)
+[→ Get smart:bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa&chan=art&data1=smart-bundle-0d04fa)
 
 ---
 
@@ -95,7 +95,7 @@ A: Each plugin is available for individual purchase — the bundle is the most c
 
 ## 50 per plugin — 38% below the regular $399.00 price. For producers looking to build out a full content-aware processing chain in one transaction, this is the entry point.
 
-[→ Get smart:bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa)
+[→ Get smart:bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16549-smart-bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-bundle-0d04fa&chan=art&data1=smart-bundle-0d04fa)
 
 ---
 

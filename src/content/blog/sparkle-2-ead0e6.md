@@ -3,7 +3,7 @@ title: "78% Off SPARKLE 2"
 description: "SPARKLE 2 is currently $31.9 (~~$141.9~~) at Plugin Boutique — that's 78% off and over $110 in savings on a premium virtual instrument. Sales of this"
 pubDate: "2026-05-06T07:14:38Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sparkle-2-ead0e6"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sparkle-2-ead0e6&chan=art&data1=sparkle-2-ead0e6"
 heroImage: "/images/sparkle-2-ead0e6.jpg"
 score: 9.54
 dealPrice: "$31.9"
@@ -12,7 +12,7 @@ discount: "78% OFF"
 xText: "new plugin at 78% off is basically unheard of. sparkle 2 just broke that rule. if this thing hits, it's the deal of the season"
 draft: false
 ---
-**TL;DR:** SPARKLE 2 is currently **$31.9** (~~$141.9~~) at Plugin Boutique — that's 78% off and over $110 in savings on a premium virtual instrument. Sales of this magnitude don't typically stick around, so [check the current deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sparkle-2-ead0e6) while it's live.
+**TL;DR:** SPARKLE 2 is currently **$31.9** (~~$141.9~~) at Plugin Boutique — that's 78% off and over $110 in savings on a premium virtual instrument. Sales of this magnitude don't typically stick around, so [check the current deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sparkle-2-ead0e6&chan=art&data1=sparkle-2-ead0e6) while it's live.
 
 ---
 
@@ -22,7 +22,7 @@ SPARKLE 2 is a virtual instrument plugin listed under Plugin Boutique's Virtual 
 
 ## Key Features
 
-For the full and verified feature breakdown, check the [official SPARKLE 2 product page](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sparkle-2-ead0e6) — specs and included content are best confirmed directly from the source. What the listing confirms:
+For the full and verified feature breakdown, check the [official SPARKLE 2 product page](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sparkle-2-ead0e6&chan=art&data1=sparkle-2-ead0e6) — specs and included content are best confirmed directly from the source. What the listing confirms:
 
 - **Virtual instrument format** — designed as a full instrument plugin, not an effect or utility
 - **Version 2 architecture** — a successor release, meaning a refined and expanded feature set over the original
@@ -72,7 +72,7 @@ A: Refund eligibility for digital software varies — review Plugin Boutique's t
 
 ## Get the Deal
 
-78% off puts SPARKLE 2 at a price that's hard to argue with for any producer building out their virtual instrument collection. [Grab SPARKLE 2 at Plugin Boutique for $31.9](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sparkle-2-ead0e6) — and confirm the deal is still live before you click through.
+78% off puts SPARKLE 2 at a price that's hard to argue with for any producer building out their virtual instrument collection. [Grab SPARKLE 2 at Plugin Boutique for $31.9](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sparkle-2-ead0e6&chan=art&data1=sparkle-2-ead0e6) — and confirm the deal is still live before you click through.
 
 ## Related Guides
 

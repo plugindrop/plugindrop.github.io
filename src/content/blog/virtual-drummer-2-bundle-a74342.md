@@ -3,13 +3,13 @@ title: "Virtual Drummer 2 Bundle: Features, Pricing & Is It Worth It? (2026)"
 description: "The Virtual Drummer 2 Bundle is a collection of genre-specific virtual drummer instruments developed by UJAM. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:27:38Z'
 tags: ["review", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-drummer-2-bundle-a74342"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-drummer-2-bundle-a74342&chan=art&data1=virtual-drummer-2-bundle-a74342"
 heroImage: /images/virtual-drummer-2-bundle-a74342.jpg
 score: 9.45
 draft: false
 converted: true
 ---
-**Virtual Drummer 2 Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-drummer-2-bundle-a74342)
+**Virtual Drummer 2 Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-drummer-2-bundle-a74342&chan=art&data1=virtual-drummer-2-bundle-a74342)
 
 ---
 
@@ -44,7 +44,7 @@ The Virtual Drummer 2 Bundle is a collection of genre-specific virtual drummer i
 
 Note: Verify current pricing on the product page — deals can change.
 
-[View the deal on Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-drummer-2-bundle-a74342)
+[View the deal on Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-drummer-2-bundle-a74342&chan=art&data1=virtual-drummer-2-bundle-a74342)
 
 ---
 
@@ -77,7 +77,7 @@ A: Check Plugin Boutique's official terms and conditions for their current refun
 
 Half price on a full bundle of virtual drummers is a deal worth flagging. 
 
-[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-drummer-2-bundle-a74342)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-drummer-2-bundle-a74342&chan=art&data1=virtual-drummer-2-bundle-a74342)
 
 ---
 

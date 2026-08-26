@@ -3,7 +3,7 @@ title: "87% Off Core Studio Collection"
 description: "Core Studio Collection is currently slashed **87% off** at Plugin Boutique — ~~$2,743~~ down to just **$366**. That's over $2,370 in savings on a bundle..."
 pubDate: "2026-06-10T12:27:29Z"
 tags: ["sale", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16195-Core-Studio-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=core-studio-collection-8b6e39"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16195-Core-Studio-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=core-studio-collection-8b6e39&chan=art&data1=core-studio-collection-8b6e39"
 heroImage: "/images/core-studio-collection-8b6e39.jpg"
 score: 10.00
 dealPrice: "$366.00"
@@ -12,7 +12,7 @@ discount: "87% OFF"
 xText: "87% off core suite. per-plugin cost breaks down to insulting—whole collection for the price of one good reverb. this is that deal you actually commit to instead of just bookmarking it."
 draft: true
 ---
-**TL;DR:** Core Studio Collection is currently slashed **87% off** at Plugin Boutique — ~~$2,743~~ down to just **$366**. That's over $2,370 in savings on a bundle of studio-grade effects tools. [See the deal here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16195-Core-Studio-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=core-studio-collection-8b6e39)
+**TL;DR:** Core Studio Collection is currently slashed **87% off** at Plugin Boutique — ~~$2,743~~ down to just **$366**. That's over $2,370 in savings on a bundle of studio-grade effects tools. [See the deal here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16195-Core-Studio-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=core-studio-collection-8b6e39&chan=art&data1=core-studio-collection-8b6e39)
 
 ---
 
@@ -51,7 +51,7 @@ To put that in perspective: $366 spread across a multi-plugin bundle means indiv
 
 Bundles at this discount tier don't stay live indefinitely — Plugin Boutique runs time-limited promotions. Verify current pricing on the product page before purchasing, as deals can change.
 
-[Grab Core Studio Collection for $366 at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16195-Core-Studio-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=core-studio-collection-8b6e39)
+[Grab Core Studio Collection for $366 at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16195-Core-Studio-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=core-studio-collection-8b6e39&chan=art&data1=core-studio-collection-8b6e39)
 
 ---
 
@@ -85,7 +85,7 @@ A: Refund eligibility for digital software varies. Review Plugin Boutique's curr
 
 ## Get the Deal
 
-~~$2,743~~ → **$366**. That's a hard number to argue with for a studio effects bundle. [Get Core Studio Collection at Plugin Boutique while the deal is live.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16195-Core-Studio-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=core-studio-collection-8b6e39)
+~~$2,743~~ → **$366**. That's a hard number to argue with for a studio effects bundle. [Get Core Studio Collection at Plugin Boutique while the deal is live.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16195-Core-Studio-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=core-studio-collection-8b6e39&chan=art&data1=core-studio-collection-8b6e39)
 
 ## Related Guides
 

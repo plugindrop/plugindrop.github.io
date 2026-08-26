@@ -17,13 +17,13 @@ xText: "New guide: 14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analo.
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | Modern wavetable leads, pads, bass | [Free Download](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763) |
-| Surge XT | Free | Hybrid synthesis, deep sound design | [Free Download](https://www.pluginboutique.com/search?q=Surge%20XT&a_aid=69cb95abe1763) |
-| Dexed | Free | DX7 FM patches, 80s electric pianos | [Free Download](https://www.pluginboutique.com/search?q=Dexed%20FM%20synth&a_aid=69cb95abe1763) |
-| OB-Xd | Free | Synthwave pads, Oberheim analog leads | [Free Download](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763) |
-| TAL-NoiseMaker | Free | Beginner-friendly analog sounds | [Free Download](https://www.pluginboutique.com/search?q=TAL-NoiseMaker&a_aid=69cb95abe1763) |
-| Odin2 | Free | Advanced semi-modular synthesis | [Free Download](https://www.pluginboutique.com/search?q=Odin2&a_aid=69cb95abe1763) |
-| Synth1 | Free | Classic subtractive with 100k+ presets | [Free Download](https://www.pluginboutique.com/search?q=Synth1&a_aid=69cb95abe1763) |
+| Vital | Free | Modern wavetable leads, pads, bass | [Free Download](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
+| Surge XT | Free | Hybrid synthesis, deep sound design | [Free Download](https://www.pluginboutique.com/search?q=Surge%20XT&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
+| Dexed | Free | DX7 FM patches, 80s electric pianos | [Free Download](https://www.pluginboutique.com/search?q=Dexed%20FM%20synth&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
+| OB-Xd | Free | Synthwave pads, Oberheim analog leads | [Free Download](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
+| TAL-NoiseMaker | Free | Beginner-friendly analog sounds | [Free Download](https://www.pluginboutique.com/search?q=TAL-NoiseMaker&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
+| Odin2 | Free | Advanced semi-modular synthesis | [Free Download](https://www.pluginboutique.com/search?q=Odin2&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
+| Synth1 | Free | Classic subtractive with 100k+ presets | [Free Download](https://www.pluginboutique.com/search?q=Synth1&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
 
 ## Introduction
 
@@ -50,7 +50,7 @@ Vital is the free synth benchmark of 2026. The wavetable engine supports spectra
 
 **Best for:** Modern leads, evolving pads, cinematic textures, bass design across every genre
 
-[→ Download Vital Free](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763)
+[→ Download Vital Free](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins)
 [→ Download direct from vital.audio](https://vital.audio/)
 
 ---
@@ -68,7 +68,7 @@ Surge XT is a deep hybrid synthesizer with three oscillators that each switch in
 
 **Best for:** Sound designers and producers who want a single free synth to cover everything
 
-[→ Download Surge XT Free](https://www.pluginboutique.com/search?q=Surge%20XT&a_aid=69cb95abe1763)
+[→ Download Surge XT Free](https://www.pluginboutique.com/search?q=Surge%20XT&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins)
 [→ Download direct from surge-synthesizer.github.io](https://surge-synthesizer.github.io/)
 
 ---
@@ -88,7 +88,7 @@ Dexed is a six-operator FM synthesizer built on the same core as the Yamaha DX7 
 
 **Best for:** DX7 electric pianos, classic FM basses, 80s patches, FM synthesis education
 
-[→ Download Dexed Free](https://www.pluginboutique.com/search?q=Dexed%20FM%20synth&a_aid=69cb95abe1763)
+[→ Download Dexed Free](https://www.pluginboutique.com/search?q=Dexed%20FM%20synth&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins)
 [→ Download direct from asb2m10.github.io](https://asb2m10.github.io/dexed/)
 
 ---
@@ -125,7 +125,7 @@ OB-Xd emulates the Oberheim OB-X and OB-Xa, classic polysynths defined by their 
 
 **Best for:** Synthwave leads and pads, cinematic strings, 80s-style polyphonic patches
 
-[→ Download OB-Xd Free](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763)
+[→ Download OB-Xd Free](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins)
 [→ Download direct from discodsp.com](https://www.discodsp.com/obxd/)
 
 ---
@@ -159,7 +159,7 @@ Tyrell N6 was released by u-he as a community project, and it carries the compan
 
 **Best for:** Classic analog basses, simple leads, producers who want u-he filter quality at zero cost
 
-[→ Download Tyrell N6 Free](https://www.pluginboutique.com/search?q=Tyrell%20N6&a_aid=69cb95abe1763)
+[→ Download Tyrell N6 Free](https://www.pluginboutique.com/search?q=Tyrell%20N6&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins)
 [→ Download direct from u-he.com](https://u-he.com/products/tyrelln6/)
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/aeV_8eBDrkI" title="Tyrell N6 Review & Presets Demo (Free VST Synth by u-he)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -179,7 +179,7 @@ TAL-NoiseMaker is a three-oscillator virtual analog synth built for immediacy. T
 
 **Best for:** Beginners, quick patch creation, clean analog tones without a steep learning curve
 
-[→ Download TAL-NoiseMaker Free](https://www.pluginboutique.com/search?q=TAL-NoiseMaker&a_aid=69cb95abe1763)
+[→ Download TAL-NoiseMaker Free](https://www.pluginboutique.com/search?q=TAL-NoiseMaker&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins)
 [→ Download direct from tal-software.com](https://tal-software.com/products/tal-noisemaker)
 
 ---
@@ -312,7 +312,7 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 - **Price:** ~$199 (also included in Kilohearts subscription)
 - **Why upgrade:** Odin2 and Surge XT push free synthesis further than most people expect, but Phase Plant's visual modular architecture, deep integration with the Kilohearts snapin ecosystem, and the quality of its commercial preset library represent a step change for producers working at a professional level who want everything in one organized instrument.
 
-[→ Get Phase Plant on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763)
+[→ Get Phase Plant on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins)
 
 ---
 
@@ -324,7 +324,7 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 - **Price:** ~$99
 - **Why upgrade:** If Tyrell N6 or Podolski converted you to u-he's sound quality, Hive 2 is the obvious next step — it adds a second oscillator type, more filter options, MPE support, and a full modulation matrix while keeping the same analog character that makes u-he instruments stand out. The price-to-quality ratio is the best in the paid synth market.
 
-[→ Get u-he Hive 2 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763)
+[→ Get u-he Hive 2 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins)
 
 ---
 
@@ -332,18 +332,18 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 
 | Plugin | Price | Type | Highlights | Get It |
 |--------|-------|------|------------|--------|
-| Vital | Free | Wavetable | Spectral warping, drag-and-drop mod, built-in FX | [Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763) |
-| Surge XT | Free | Hybrid | Multiple oscillator modes, deep modulation, open source | [Plugin Boutique](https://www.pluginboutique.com/search?q=Surge%20XT&a_aid=69cb95abe1763) |
-| Dexed | Free | FM (6-op) | DX7 SysEx compatible, 6-operator FM engine | [Plugin Boutique](https://www.pluginboutique.com/search?q=Dexed%20FM%20synth&a_aid=69cb95abe1763) |
+| Vital | Free | Wavetable | Spectral warping, drag-and-drop mod, built-in FX | [Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
+| Surge XT | Free | Hybrid | Multiple oscillator modes, deep modulation, open source | [Plugin Boutique](https://www.pluginboutique.com/search?q=Surge%20XT&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
+| Dexed | Free | FM (6-op) | DX7 SysEx compatible, 6-operator FM engine | [Plugin Boutique](https://www.pluginboutique.com/search?q=Dexed%20FM%20synth&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
 | ZynAddSubFX | Free | Additive / Subtractive | PADsynth engine, deep harmonic control | [Developer](https://zynaddsubfx.sourceforge.io/) |
-| OB-Xd | Free | Virtual Analog | Oberheim filter, 12-voice polyphony, AAX support | [Plugin Boutique](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763) |
+| OB-Xd | Free | Virtual Analog | Oberheim filter, 12-voice polyphony, AAX support | [Plugin Boutique](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
 | Helm | Free | Analog Hybrid | Step sequencer, visual modulation, beginner-friendly | [Plugin Boutique](https://tytel.org/helm/) |
-| Tyrell N6 | Free | Virtual Analog | u-he analog character, warm filter | [Plugin Boutique](https://www.pluginboutique.com/search?q=Tyrell%20N6&a_aid=69cb95abe1763) |
-| TAL-NoiseMaker | Free | Virtual Analog | 3 oscillators, onboard FX, easiest to learn | [Plugin Boutique](https://www.pluginboutique.com/search?q=TAL-NoiseMaker&a_aid=69cb95abe1763) |
-| Synth1 | Free | Virtual Analog | 100,000+ community presets, Nord-inspired | [Free Download](https://www.pluginboutique.com/search?q=Synth1&a_aid=69cb95abe1763) |
+| Tyrell N6 | Free | Virtual Analog | u-he analog character, warm filter | [Plugin Boutique](https://www.pluginboutique.com/search?q=Tyrell%20N6&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
+| TAL-NoiseMaker | Free | Virtual Analog | 3 oscillators, onboard FX, easiest to learn | [Plugin Boutique](https://www.pluginboutique.com/search?q=TAL-NoiseMaker&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
+| Synth1 | Free | Virtual Analog | 100,000+ community presets, Nord-inspired | [Free Download](https://www.pluginboutique.com/search?q=Synth1&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
 | Charlatan | Free | Virtual Analog | Simple, stable, clean two-oscillator patches | [Developer](https://plugins4free.com/plugin/2285/) |
 | Podolski | Free | Virtual Analog | ZDF filter, ultra-low CPU, u-he quality | [Free Download](https://u-he.com/products/podolski/) |
-| Odin2 | Free | Multi-Synthesis | 6 oscillator modes, semi-modular, open source | [Free Download](https://www.pluginboutique.com/search?q=Odin2&a_aid=69cb95abe1763) |
+| Odin2 | Free | Multi-Synthesis | 6 oscillator modes, semi-modular, open source | [Free Download](https://www.pluginboutique.com/search?q=Odin2&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
 | Pendulate | Free | Chaos / Experimental | Double-pendulum oscillator, Eventide-backed | [Developer](https://www.newfangledaudio.com/pendulate) |
 | Magical8bitPlug 2 | Free | Chiptune | NES/Game Boy chip emulation, duty cycle control | [Free Download](https://ymck.net/app/magical-8bit-plug-en/) |
 

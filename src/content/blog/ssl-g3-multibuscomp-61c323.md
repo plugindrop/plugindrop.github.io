@@ -3,13 +3,13 @@ title: "SSL G3 MultiBusComp: Features, Pricing & Is It Worth It? (2026)"
 description: "SSL G3 MultiBusComp is available at Plugin Boutique. Check current pricing and reviews on the product page."
 pubDate: '2026-05-01T17:15:56Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323&chan=art&data1=ssl-g3-multibuscomp-61c323"
 heroImage: /images/ssl-g3-multibuscomp-61c323.jpg
 score: 9.36
 draft: false
 converted: true
 ---
-**SSL G3 MultiBusComp** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323)
+**SSL G3 MultiBusComp** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323&chan=art&data1=ssl-g3-multibuscomp-61c323)
 
 ---
 
@@ -54,7 +54,7 @@ SSL plugins at this price point are not a frequent occurrence.
 
 *Price verified at publication. Check the link for current availability.*
 
-[→ Get SSL G3 MultiBusComp at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323)
+[→ Get SSL G3 MultiBusComp at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323&chan=art&data1=ssl-g3-multibuscomp-61c323)
 
 ---
 
@@ -87,7 +87,7 @@ A: License terms including machine activation limits are set by SSL; the product
 
 Verify current pricing on the product page, as deals can change without notice.
 
-[→ Get SSL G3 MultiBusComp at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323)
+[→ Get SSL G3 MultiBusComp at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10963-SSL-G3-MultiBusComp?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-g3-multibuscomp-61c323&chan=art&data1=ssl-g3-multibuscomp-61c323)
 
 ---
 

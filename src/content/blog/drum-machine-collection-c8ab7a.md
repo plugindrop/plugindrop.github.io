@@ -3,7 +3,7 @@ title: "60% Off Drum Machine Collection"
 description: "The Drum Machine Collection is now 60% off at Plugin Boutique — ~~$499~~ **$199** for 16 vintage drum machines in a single bundle. That breaks down to..."
 pubDate: "2026-05-20T11:34:34Z"
 tags: ["sale", "drums", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15283-Drum-Machine-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=drum-machine-collection-c8ab7a"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15283-Drum-Machine-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=drum-machine-collection-c8ab7a&chan=art&data1=drum-machine-collection-c8ab7a"
 heroImage: "/images/drum-machine-collection-c8ab7a.jpg"
 score: 10.00
 dealPrice: "$199.00"
@@ -12,7 +12,7 @@ discount: "60% OFF"
 xText: "drum machine collection at 60% off and the per-unit cost is stupid cheap. lowest price i've seen on this collection."
 draft: true
 ---
-**TL;DR:** The Drum Machine Collection is now 60% off at Plugin Boutique — ~~$499~~ **$199** for 16 vintage drum machines in a single bundle. That breaks down to roughly $12.44 per machine. [Grab it here before the deal ends.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15283-Drum-Machine-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=drum-machine-collection-c8ab7a)
+**TL;DR:** The Drum Machine Collection is now 60% off at Plugin Boutique — ~~$499~~ **$199** for 16 vintage drum machines in a single bundle. That breaks down to roughly $12.44 per machine. [Grab it here before the deal ends.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15283-Drum-Machine-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=drum-machine-collection-c8ab7a&chan=art&data1=drum-machine-collection-c8ab7a)
 
 ---
 
@@ -56,7 +56,7 @@ At $199 for 16 instruments, the per-unit cost lands at approximately **$12.44 pe
 
 Verify current pricing on the product page — deals can change without notice.
 
-[Get the Drum Machine Collection for $199 at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15283-Drum-Machine-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=drum-machine-collection-c8ab7a)
+[Get the Drum Machine Collection for $199 at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15283-Drum-Machine-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=drum-machine-collection-c8ab7a&chan=art&data1=drum-machine-collection-c8ab7a)
 
 ---
 
@@ -92,7 +92,7 @@ A: System requirements vary — check the product page for the current macOS and
 
 $300 off a 16-machine vintage drum collection is a bundle discount that doesn't show up often at this depth. At roughly $12 per instrument, the per-unit math is hard to beat for producers looking to fill out their drum palette.
 
-[Lock in the Drum Machine Collection at 60% off →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15283-Drum-Machine-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=drum-machine-collection-c8ab7a)
+[Lock in the Drum Machine Collection at 60% off →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15283-Drum-Machine-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=drum-machine-collection-c8ab7a&chan=art&data1=drum-machine-collection-c8ab7a)
 
 ## Related Guides
 

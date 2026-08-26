@@ -23,10 +23,10 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Ample Guitar M Lite II | Free | Fingerpicking, full note-level control on a budget | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/4520-Ample-Guitar-M-Lite-II?a_aid=69cb95abe1763) |
+| Ample Guitar M Lite II | Free | Fingerpicking, full note-level control on a budget | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/4520-Ample-Guitar-M-Lite-II?a_aid=69cb95abe1763&chan=art&data1=best-acoustic-guitar-vst-plugins) |
 | Session Guitarist Strummed Acoustic | $99 | Pattern-based strumming, singer-songwriter productions | [Native Instruments](https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist-strummed-acoustic/) |
 | Session Guitarist Strummed Acoustic 2 | $99 | Contemporary pop/indie styles, expanded pattern library | [Native Instruments](https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist-strummed-acoustic-2/) |
-| Ample Guitar M III | $99 | Full professional articulation depth, complete ARP system | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15078-Ample-Guitar-M?a_aid=69cb95abe1763) |
+| Ample Guitar M III | $99 | Full professional articulation depth, complete ARP system | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15078-Ample-Guitar-M?a_aid=69cb95abe1763&chan=art&data1=best-acoustic-guitar-vst-plugins) |
 
 ---
 
@@ -59,7 +59,7 @@ The interface is not beginner-simple. Ample Sound's UI is dense, with separate t
 
 **Best for:** Producers who need a capable acoustic guitar VST with a real strumming engine at no cost, and anyone evaluating the Ample Sound workflow before committing to the paid version.
 
-[→ Download Ample Guitar M Lite II Free](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/4520-Ample-Guitar-M-Lite-II?a_aid=69cb95abe1763)
+[→ Download Ample Guitar M Lite II Free](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/4520-Ample-Guitar-M-Lite-II?a_aid=69cb95abe1763&chan=art&data1=best-acoustic-guitar-vst-plugins)
 
 ---
 
@@ -110,7 +110,7 @@ The Kontakt Player dependency is worth noting for producers unfamiliar with the 
 - **Price:** $99
 - **Why upgrade:** Ample Guitar M III unlocks the full articulation set and sample library that the Lite version restricts. The significant additions are expanded round-robin samples (which eliminate the repetition artifacts that become audible on looped Lite performances), more detailed hammer-on and pull-off modeling, and the complete ARP pattern library. For producers who found the Lite version convincing in dense mixes but limiting in exposed or solo acoustic arrangements, the III closes that gap substantially. Because the interface and workflow are identical to the Lite version, the upgrade path has no learning curve — only better source material.
 
-[→ Get Ample Guitar M III on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15078-Ample-Guitar-M?a_aid=69cb95abe1763)
+[→ Get Ample Guitar M III on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15078-Ample-Guitar-M?a_aid=69cb95abe1763&chan=art&data1=best-acoustic-guitar-vst-plugins)
 
 ---
 
@@ -118,10 +118,10 @@ The Kontakt Player dependency is worth noting for producers unfamiliar with the 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Ample Guitar M Lite II | Free | Sample trigger + ARP | Martin D-41 samples, strumming engine, VST/AU/AAX | [Get It](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/4520-Ample-Guitar-M-Lite-II?a_aid=69cb95abe1763) |
+| Ample Guitar M Lite II | Free | Sample trigger + ARP | Martin D-41 samples, strumming engine, VST/AU/AAX | [Get It](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/4520-Ample-Guitar-M-Lite-II?a_aid=69cb95abe1763&chan=art&data1=best-acoustic-guitar-vst-plugins) |
 | Session Guitarist Strummed Acoustic | $99 | Pattern-based phrase engine | Recorded strum patterns, chord recognition, Kontakt Player included | [Get It](https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist-strummed-acoustic/) |
 | Session Guitarist Strummed Acoustic 2 | $99 | Pattern-based phrase engine | Contemporary styles, updated mic positions, expanded chord engine | [Get It](https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist-strummed-acoustic-2/) |
-| Ample Guitar M III | $99 | Sample trigger + ARP | Full articulation set, complete round-robins, full ARP library | [Get It](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15078-Ample-Guitar-M?a_aid=69cb95abe1763) |
+| Ample Guitar M III | $99 | Sample trigger + ARP | Full articulation set, complete round-robins, full ARP library | [Get It](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15078-Ample-Guitar-M?a_aid=69cb95abe1763&chan=art&data1=best-acoustic-guitar-vst-plugins) |
 
 ---
 

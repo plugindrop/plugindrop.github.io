@@ -3,13 +3,13 @@ title: "Eternal Arps: Features, Pricing & Is It Worth It? (2026)"
 description: "Eternal Arps is a MIDI arpeggiator plugin available through Plugin Boutique. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:28:41Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3&chan=art&data1=eternal-arps-3e82a3"
 heroImage: /images/eternal-arps-3e82a3.jpg
 score: 7.73
 draft: false
 converted: true
 ---
-**Eternal Arps** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3)
+**Eternal Arps** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3&chan=art&data1=eternal-arps-3e82a3)
 
 ---
 
@@ -27,7 +27,7 @@ Eternal Arps is a MIDI arpeggiator plugin available through Plugin Boutique. It 
 - **Modulation & Variation Controls:** Parameters for introducing variation into loops so patterns don't repeat identically — key for avoiding the static arp sound.
 - **DAW Integration:** Works as a MIDI effect within your host, routing output to any instrument plugin in your setup.
 
-*For full system requirements and exact specifications, check the [product page on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3).*
+*For full system requirements and exact specifications, check the [product page on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3&chan=art&data1=eternal-arps-3e82a3).*
 
 ---
 
@@ -44,7 +44,7 @@ Eternal Arps is a MIDI arpeggiator plugin available through Plugin Boutique. It 
 
 Note: Verify current pricing on the product page — deals can change.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3&chan=art&data1=eternal-arps-3e82a3)
 
 ---
 
@@ -80,7 +80,7 @@ A: Refund and return policies are set by Plugin Boutique — review their terms 
 
 At  **$49.00**, this is one of the sharper deals on a dedicated MIDI arpeggiator available right now. Thirty dollars off is real money.
 
-[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/14-MIDI-Arp/13924-Eternal-Arps?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eternal-arps-3e82a3&chan=art&data1=eternal-arps-3e82a3)
 
 ---
 

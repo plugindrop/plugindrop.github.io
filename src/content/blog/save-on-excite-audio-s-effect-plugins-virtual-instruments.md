@@ -3,13 +3,13 @@ title: "Excite Audio’s effect plugins & virtual instruments: Features, Pricing
 description: "Excite Audio is an audio plugin developer behind a growing catalog of effect plugins and virtual instruments. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-02T12:13:42Z'
 tags: ["review", "excite audio", "music-production"]
-affiliate: "https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-on-excite-audio-s-effect-plugins-virtual-instruments"
+affiliate: "https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-on-excite-audio-s-effect-plugins-virtual-instruments&chan=art&data1=save-on-excite-audio-s-effect-plugins-virtual-instruments"
 heroImage: /images/save-on-excite-audio-s-effect-plugins-virtual-instruments.jpg
 score: 2.73
 draft: false
 converted: true
 ---
-**Excite Audio’s effect plugins & virtual instruments** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-on-excite-audio-s-effect-plugins-virtual-instruments)
+**Excite Audio’s effect plugins & virtual instruments** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-on-excite-audio-s-effect-plugins-virtual-instruments&chan=art&data1=save-on-excite-audio-s-effect-plugins-virtual-instruments)
 
 ---
 
@@ -51,7 +51,7 @@ A: Excite Audio plugins are available in VST, VST3, AU, and AAX formats with M1/
 
  
 
-[See all Excite Audio deals at Plugin Boutique →](https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-on-excite-audio-s-effect-plugins-virtual-instruments)
+[See all Excite Audio deals at Plugin Boutique →](https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-on-excite-audio-s-effect-plugins-virtual-instruments&chan=art&data1=save-on-excite-audio-s-effect-plugins-virtual-instruments)
 
 ---
 

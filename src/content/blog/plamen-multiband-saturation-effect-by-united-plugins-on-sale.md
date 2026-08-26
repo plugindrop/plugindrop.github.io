@@ -3,13 +3,13 @@ title: "Plamen multiband saturation effect: Features, Pricing & Is It Worth It? 
 description: "Plamen is a multiband saturation effect developed by SoundEvice Digital and published under the United Plugins. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-14T13:25:46Z'
 tags: ["review", "saturator", "united plugins", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/44-Saturation/11077-Plamen?utm_source=plugindrop&utm_medium=article&utm_campaign=plamen-multiband-saturation-effect-by-united-plugins-on-sale&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/44-Saturation/11077-Plamen?utm_source=plugindrop&utm_medium=article&utm_campaign=plamen-multiband-saturation-effect-by-united-plugins-on-sale&a_aid=69cb95abe1763&chan=art&data1=plamen-multiband-saturation-effect-by-united-plugins-on-sale"
 heroImage: /images/plamen-multiband-saturation-effect-by-united-plugins-on-sale.jpg
 score: 6.76
 draft: false
 converted: true
 ---
-**Plamen multiband saturation effect** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/44-Saturation/11077-Plamen?utm_source=plugindrop&utm_medium=article&utm_campaign=plamen-multiband-saturation-effect-by-united-plugins-on-sale&a_aid=69cb95abe1763)
+**Plamen multiband saturation effect** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/44-Saturation/11077-Plamen?utm_source=plugindrop&utm_medium=article&utm_campaign=plamen-multiband-saturation-effect-by-united-plugins-on-sale&a_aid=69cb95abe1763&chan=art&data1=plamen-multiband-saturation-effect-by-united-plugins-on-sale)
 
 ---
 
@@ -77,7 +77,7 @@ A: System requirements vary — check the product page for current macOS/Windows
 
  Sales at this depth don't stick around forever.
 
-[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/44-Saturation/11077-Plamen?utm_source=plugindrop&utm_medium=article&utm_campaign=plamen-multiband-saturation-effect-by-united-plugins-on-sale&a_aid=69cb95abe1763)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/44-Saturation/11077-Plamen?utm_source=plugindrop&utm_medium=article&utm_campaign=plamen-multiband-saturation-effect-by-united-plugins-on-sale&a_aid=69cb95abe1763&chan=art&data1=plamen-multiband-saturation-effect-by-united-plugins-on-sale)
 
 ---
 

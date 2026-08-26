@@ -3,7 +3,7 @@ title: "54% Off PSP VintageWarmer2"
 description: "PSP VintageWarmer2 is down to **$69** (~~$149~~) at Plugin Boutique — that's $80 off and one of the steeper percentage discounts this plugin has seen. If..."
 pubDate: "2026-05-19T08:19:12Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/123-PSP-VintageWarmer2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=psp-vintagewarmer2-b555ec"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/123-PSP-VintageWarmer2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=psp-vintagewarmer2-b555ec&chan=art&data1=psp-vintagewarmer2-b555ec"
 heroImage: "/images/psp-vintagewarmer2-b555ec.jpg"
 score: 10.00
 dealPrice: "$69.00"
@@ -12,7 +12,7 @@ discount: "54% OFF"
 xText: "54% off vintagewarmer2 — tape saturation that works on everything and costs almost nothing right now. one of those purchases you'll appreciate in 3 months"
 draft: true
 ---
-**TL;DR:** PSP VintageWarmer2 is down to **$69** (~~$149~~) at Plugin Boutique — that's $80 off and one of the steeper percentage discounts this plugin has seen. If analog warmth and saturation are gaps in your mix toolkit, [grab it here before the deal ends](https://www.pluginboutique.com/product/2-Effects/8-Compressor/123-PSP-VintageWarmer2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=psp-vintagewarmer2-b555ec).
+**TL;DR:** PSP VintageWarmer2 is down to **$69** (~~$149~~) at Plugin Boutique — that's $80 off and one of the steeper percentage discounts this plugin has seen. If analog warmth and saturation are gaps in your mix toolkit, [grab it here before the deal ends](https://www.pluginboutique.com/product/2-Effects/8-Compressor/123-PSP-VintageWarmer2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=psp-vintagewarmer2-b555ec&chan=art&data1=psp-vintagewarmer2-b555ec).
 
 ---
 
@@ -61,7 +61,7 @@ PSP VintageWarmer2 has been circulating in mixing and mastering discussions for 
 
 PSP Audioware plugins don't go on sale constantly — a 54% discount on VintageWarmer2 is toward the high end of what typically appears. If you've had it on your wishlist, this is a credible buy window.
 
-Verify current pricing on the product page — deals can change. [Check the current price and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/123-PSP-VintageWarmer2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=psp-vintagewarmer2-b555ec)
+Verify current pricing on the product page — deals can change. [Check the current price and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/123-PSP-VintageWarmer2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=psp-vintagewarmer2-b555ec&chan=art&data1=psp-vintagewarmer2-b555ec)
 
 ---
 
@@ -95,7 +95,7 @@ A: PSP Audioware offers demo versions of some plugins — check their official s
 
 ## Get the Deal
 
-$80 off a well-established saturation plugin at a 54% discount is worth acting on. [Grab PSP VintageWarmer2 for $69 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/123-PSP-VintageWarmer2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=psp-vintagewarmer2-b555ec) while the deal is live.
+$80 off a well-established saturation plugin at a 54% discount is worth acting on. [Grab PSP VintageWarmer2 for $69 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/123-PSP-VintageWarmer2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=psp-vintagewarmer2-b555ec&chan=art&data1=psp-vintagewarmer2-b555ec) while the deal is live.
 
 ## Related Guides
 

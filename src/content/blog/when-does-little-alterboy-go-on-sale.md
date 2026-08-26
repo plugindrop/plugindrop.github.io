@@ -44,7 +44,7 @@ heroImage: '/images/when-does-little-alterboy-go-on-sale.jpg'
 > **Buying tip:** If you want a specific SoundToys plugin rather than the full bundle, Little AlterBoy on Black Friday at $49 is solid value. Thomann occasionally undercuts SoundToys direct — the Dec 2024 $34 price was exceptional. PB also periodically features it in focus sales.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-effects/5-Chorus-Vibrato/1376-Little-AlterBoy?a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-effects/5-Chorus-Vibrato/1376-Little-AlterBoy?a_aid=69cb95abe1763&chan=art&data1=when-does-little-alterboy-go-on-sale)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 

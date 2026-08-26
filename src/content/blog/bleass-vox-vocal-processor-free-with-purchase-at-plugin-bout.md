@@ -3,16 +3,16 @@ title: "BLEASS Vox vocal processor FREE with purchase at Plugin Boutique"
 description: "For the entire month of June, Plugin Boutique is giving away BLEASS Vox — normally $39 — completely free with any purchase. That's a full vocal processor..."
 pubDate: "2026-06-08T14:43:15Z"
 tags: ["free", "bleass", "vocals", "music-production"]
-affiliate: "https://www.pluginboutique.com/products/11909-BLEASS-Vox?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bleass-vox-vocal-processor-free-with-purchase-at-plugin-bout"
+affiliate: "https://www.pluginboutique.com/products/11909-BLEASS-Vox?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bleass-vox-vocal-processor-free-with-purchase-at-plugin-bout&chan=art&data1=bleass-vox-vocal-processor-free-with-purchase-at-plugin-bout"
 heroImage: "/images/bleass-vox-vocal-processor-free-with-purchase-at-plugin-bout.jpg"
 score: 8.64
 dealPrice: "FREE"
 originalPrice: "$39"
 saleExpiry: "2026-06-30"
 xText: "free bleass vox with any plugin boutique purchase. solid vocal processor that sits right in a mix. grab it while the deal lasts"
-draft: true
+draft: false
 ---
-**TL;DR:** For the entire month of June, Plugin Boutique is giving away BLEASS Vox — normally $39 — completely free with any purchase. That's a full vocal processor plugin added to your cart at zero extra cost. [Grab any plugin and claim BLEASS Vox free here.](https://www.pluginboutique.com/products/11909-BLEASS-Vox?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bleass-vox-vocal-processor-free-with-purchase-at-plugin-bout)
+**TL;DR:** For the entire month of June, Plugin Boutique is giving away BLEASS Vox — normally $39 — completely free with any purchase. That's a full vocal processor plugin added to your cart at zero extra cost. [Grab any plugin and claim BLEASS Vox free here.](https://www.pluginboutique.com/products/11909-BLEASS-Vox?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bleass-vox-vocal-processor-free-with-purchase-at-plugin-bout&chan=art&data1=bleass-vox-vocal-processor-free-with-purchase-at-plugin-bout)
 
 ---
 
@@ -34,7 +34,7 @@ BLEASS Vox is a vocal processor plugin developed by BLEASS, a developer known fo
 - **Efficient Workflow** — BLEASS positions Vox as a plugin that delivers results quickly without complex routing or parameter diving.
 - **Desktop Plugin Format** — Available for use in a standard DAW environment; check the product page for supported formats (VST/AU/AAX) and system requirements.
 
-*For the full feature list and technical specs, verify on [the Plugin Boutique product page](https://www.pluginboutique.com/products/11909-BLEASS-Vox?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bleass-vox-vocal-processor-free-with-purchase-at-plugin-bout).*
+*For the full feature list and technical specs, verify on [the Plugin Boutique product page](https://www.pluginboutique.com/products/11909-BLEASS-Vox?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bleass-vox-vocal-processor-free-with-purchase-at-plugin-bout&chan=art&data1=bleass-vox-vocal-processor-free-with-purchase-at-plugin-bout).*
 
 ---
 
@@ -57,7 +57,7 @@ This is a **June 2026 promotion** — BLEASS Vox is added to your account when y
 
 Note: Verify current pricing and deal eligibility on the product page — deals can change.
 
-**[Claim BLEASS Vox free with your next Plugin Boutique purchase →](https://www.pluginboutique.com/products/11909-BLEASS-Vox?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bleass-vox-vocal-processor-free-with-purchase-at-plugin-bout)**
+**[Claim BLEASS Vox free with your next Plugin Boutique purchase →](https://www.pluginboutique.com/products/11909-BLEASS-Vox?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bleass-vox-vocal-processor-free-with-purchase-at-plugin-bout&chan=art&data1=bleass-vox-vocal-processor-free-with-purchase-at-plugin-bout)**
 
 ---
 
@@ -93,7 +93,7 @@ A: Supported plugin formats and system requirements are listed on the product pa
 
 Free is free — $39 back in your pocket just for making a purchase you were probably going to make anyway. June is the window; don't let it close without picking this up.
 
-**[Add BLEASS Vox to your cart for free at Plugin Boutique →](https://www.pluginboutique.com/products/11909-BLEASS-Vox?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bleass-vox-vocal-processor-free-with-purchase-at-plugin-bout)**
+**[Add BLEASS Vox to your cart for free at Plugin Boutique →](https://www.pluginboutique.com/products/11909-BLEASS-Vox?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bleass-vox-vocal-processor-free-with-purchase-at-plugin-bout&chan=art&data1=bleass-vox-vocal-processor-free-with-purchase-at-plugin-bout)**
 
 ## Related Guides
 

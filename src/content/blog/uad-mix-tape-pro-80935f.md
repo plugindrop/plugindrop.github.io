@@ -3,7 +3,7 @@ title: "34% Off UAD Mix Tape Pro"
 description: "Universal Audio's UAD Mix Tape Pro is on sale at Plugin Boutique for **$99**, down from ~~$149~~ — a 34% discount that saves you $50. If you've been..."
 pubDate: "2026-07-10T04:24:54Z"
 tags: ["sale", "bundle", "mixing", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17197-UAD-Mix-Tape-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-pro-80935f"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17197-UAD-Mix-Tape-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-pro-80935f&chan=art&data1=uad-mix-tape-pro-80935f"
 heroImage: "/images/uad-mix-tape-pro-80935f.jpg"
 score: 10.00
 dealPrice: "$99.00"
@@ -12,7 +12,7 @@ discount: "34% OFF"
 xText: "34% off uad mix tape pro and the bundle math just works. cheaper per plugin than buying solo, complete mixing chain that actually hits. this is exactly how producers build real toolkits without compromise."
 draft: false
 ---
-**TL;DR:** Universal Audio's UAD Mix Tape Pro is on sale at Plugin Boutique for **$99**, down from ~~$149~~ — a 34% discount that saves you $50. If you've been wanting authentic tape saturation and mix bus glue without buying vintage hardware, this is a solid entry point. [Grab the deal here](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17197-UAD-Mix-Tape-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-pro-80935f).
+**TL;DR:** Universal Audio's UAD Mix Tape Pro is on sale at Plugin Boutique for **$99**, down from ~~$149~~ — a 34% discount that saves you $50. If you've been wanting authentic tape saturation and mix bus glue without buying vintage hardware, this is a solid entry point. [Grab the deal here](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17197-UAD-Mix-Tape-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-pro-80935f&chan=art&data1=uad-mix-tape-pro-80935f).
 
 
 <div class="video-embed">
@@ -48,7 +48,7 @@ For the full, current spec sheet, always check the official product page before 
 
 Universal Audio and its retail partners run promotions periodically, but discounts on newer plugin releases like this one aren't guaranteed to repeat on a fixed schedule. Verify current pricing on the product page — deals can change without notice.
 
-Ready to lock in the savings? [Get UAD Mix Tape Pro at $99 on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17197-UAD-Mix-Tape-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-pro-80935f).
+Ready to lock in the savings? [Get UAD Mix Tape Pro at $99 on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17197-UAD-Mix-Tape-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-pro-80935f&chan=art&data1=uad-mix-tape-pro-80935f).
 
 ## Alternatives at a Glance
 
@@ -76,7 +76,7 @@ A: Universal Audio plugins are increasingly available as native plugins that don
 
 ## Get the Deal
 
-$50 off a mix bus tape emulation bundle is a straightforward way to add analog character to your mixes without hardware. [Get UAD Mix Tape Pro for $99 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17197-UAD-Mix-Tape-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-pro-80935f) before the price changes.
+$50 off a mix bus tape emulation bundle is a straightforward way to add analog character to your mixes without hardware. [Get UAD Mix Tape Pro for $99 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17197-UAD-Mix-Tape-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-pro-80935f&chan=art&data1=uad-mix-tape-pro-80935f) before the price changes.
 
 ## Is This Deal Worth It?
 

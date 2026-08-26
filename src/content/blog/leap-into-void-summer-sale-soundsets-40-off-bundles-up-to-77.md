@@ -3,15 +3,15 @@ title: "Leap Into Void summer sale - soundsets 40% off - bundles up to 77% off"
 description: "Leap Into Void is running a summer sale through July 31st, 2026 — individual soundsets are 40% off and bundles are discounted up to 77% off. That bundle..."
 pubDate: "2026-07-02T15:06:27Z"
 tags: ["bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/1399-Bazille?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=leap-into-void-summer-sale-soundsets-40-off-bundles-up-to-77"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/1399-Bazille?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=leap-into-void-summer-sale-soundsets-40-off-bundles-up-to-77&chan=art&data1=leap-into-void-summer-sale-soundsets-40-off-bundles-up-to-77"
 heroImage: "/images/leap-into-void-summer-sale-soundsets-40-off-bundles-up-to-77.jpg"
 score: 5.70
 discount: "40% OFF"
 saleExpiry: "2026-07-31"
 xText: "77% off leap into void bundles and the per-unit math becomes impossible to argue with. sit these in a mix like butter."
-draft: true
+draft: false
 ---
-**TL;DR:** Leap Into Void is running a summer sale through July 31st, 2026 — individual soundsets are 40% off and bundles are discounted up to 77% off. That bundle figure is significant for preset packs. Verify current pricing on the product page, then grab what fits your synth setup [via this link](https://www.pluginboutique.com/search?q=bazille&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=leap-into-void-summer-sale-soundsets-40-off-bundles-up-to-77).
+**TL;DR:** Leap Into Void is running a summer sale through July 31st, 2026 — individual soundsets are 40% off and bundles are discounted up to 77% off. That bundle figure is significant for preset packs. Verify current pricing on the product page, then grab what fits your synth setup [via this link](https://www.pluginboutique.com/search?q=bazille&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=leap-into-void-summer-sale-soundsets-40-off-bundles-up-to-77&chan=art&data1=leap-into-void-summer-sale-soundsets-40-off-bundles-up-to-77).
 
 ---
 
@@ -63,7 +63,7 @@ At 77% off, the bundle math is compelling even without knowing the exact prices.
 
 Note: Deals can change. Verify current pricing before purchasing.
 
-[Browse Leap Into Void soundsets and bundles here.](https://www.pluginboutique.com/search?q=bazille&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=leap-into-void-summer-sale-soundsets-40-off-bundles-up-to-77)
+[Browse Leap Into Void soundsets and bundles here.](https://www.pluginboutique.com/search?q=bazille&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=leap-into-void-summer-sale-soundsets-40-off-bundles-up-to-77&chan=art&data1=leap-into-void-summer-sale-soundsets-40-off-bundles-up-to-77)
 
 ## Alternatives at a Glance
 
@@ -91,7 +91,7 @@ A: Check the official product page for license terms and any activation details 
 
 ## Get the Deal
 
-The window here is the rest of July 2026 — bundles up to 77% off is a steep discount for professional preset content. [Browse the full Leap Into Void sale here](https://www.pluginboutique.com/search?q=bazille&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=leap-into-void-summer-sale-soundsets-40-off-bundles-up-to-77) before it closes on July 31st.
+The window here is the rest of July 2026 — bundles up to 77% off is a steep discount for professional preset content. [Browse the full Leap Into Void sale here](https://www.pluginboutique.com/search?q=bazille&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=leap-into-void-summer-sale-soundsets-40-off-bundles-up-to-77&chan=art&data1=leap-into-void-summer-sale-soundsets-40-off-bundles-up-to-77) before it closes on July 31st.
 
 ## Is This Deal Worth It?
 

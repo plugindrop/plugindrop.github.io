@@ -3,7 +3,7 @@ title: "34% Off Karanyi Sounds Complete Kontakt Suite"
 description: "Karanyi Sounds Complete Kontakt Suite is currently **$99.00** (down from ~~$149.00~~) at Plugin Boutique — that's $50 off, or 34% savings on a full suite..."
 pubDate: "2026-06-02T16:58:40Z"
 tags: ["sale", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15056-Karanyi-Sounds-Complete-Kontakt-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=karanyi-sounds-complete-kontakt-suite-58daa8"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15056-Karanyi-Sounds-Complete-Kontakt-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=karanyi-sounds-complete-kontakt-suite-58daa8&chan=art&data1=karanyi-sounds-complete-kontakt-suite-58daa8"
 heroImage: "/images/karanyi-sounds-complete-kontakt-suite-58daa8.jpg"
 score: 10.00
 dealPrice: "$99.00"
@@ -12,7 +12,7 @@ discount: "34% OFF"
 xText: "karanyi sounds kontakt suite is 34% off which never happens. sits in any mix like butter and the processing alone is worth double the sale price."
 draft: true
 ---
-**TL;DR:** Karanyi Sounds Complete Kontakt Suite is currently **$99.00** (down from ~~$149.00~~) at Plugin Boutique — that's $50 off, or 34% savings on a full suite of Kontakt instruments. If you've been waiting for a deep discount on this bundle, [grab it here before the deal expires](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15056-Karanyi-Sounds-Complete-Kontakt-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=karanyi-sounds-complete-kontakt-suite-58daa8).
+**TL;DR:** Karanyi Sounds Complete Kontakt Suite is currently **$99.00** (down from ~~$149.00~~) at Plugin Boutique — that's $50 off, or 34% savings on a full suite of Kontakt instruments. If you've been waiting for a deep discount on this bundle, [grab it here before the deal expires](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15056-Karanyi-Sounds-Complete-Kontakt-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=karanyi-sounds-complete-kontakt-suite-58daa8&chan=art&data1=karanyi-sounds-complete-kontakt-suite-58daa8).
 
 ---
 
@@ -55,7 +55,7 @@ If you want to break down the per-library value, check the product page for the 
 
 > **Note:** Verify current pricing on the product page — deals can change without notice.
 
-[View the deal at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15056-Karanyi-Sounds-Complete-Kontakt-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=karanyi-sounds-complete-kontakt-suite-58daa8)
+[View the deal at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15056-Karanyi-Sounds-Complete-Kontakt-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=karanyi-sounds-complete-kontakt-suite-58daa8&chan=art&data1=karanyi-sounds-complete-kontakt-suite-58daa8)
 
 ---
 
@@ -91,7 +91,7 @@ A: Check the product page for the developer's update policy — terms vary by pu
 
 $50 off a complete Kontakt instrument suite is the kind of deal worth flagging. At $99, this is competitive pricing for full-suite coverage across Karanyi Sounds' catalog.
 
-[Lock in the 34% discount at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15056-Karanyi-Sounds-Complete-Kontakt-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=karanyi-sounds-complete-kontakt-suite-58daa8) before the price resets.
+[Lock in the 34% discount at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15056-Karanyi-Sounds-Complete-Kontakt-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=karanyi-sounds-complete-kontakt-suite-58daa8&chan=art&data1=karanyi-sounds-complete-kontakt-suite-58daa8) before the price resets.
 
 ## Related Guides
 

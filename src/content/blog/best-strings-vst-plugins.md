@@ -19,7 +19,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Spitfire BBC Symphony Orchestra | ~$449 (Core), often $299–$349 on sale | Full orchestral scoring, film and TV | [Official Site](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-strings-vst-plugins) |
+| Spitfire BBC Symphony Orchestra | ~$449 (Core), often $299–$349 on sale | Full orchestral scoring, film and TV | [Official Site](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-strings-vst-plugins&chan=art&data1=best-strings-vst-plugins) |
 | EastWest Hollywood Strings | ~$29.99/mo (ComposerCloud+), first month often discounted | Multi-mic Hollywood depth | [Official Site](https://www.soundsonline.com/orchestras/hollywood-strings-2) |
 | Cinematic Studio Strings | ~$149, rarely discounted below $135 | Legato-focused cinematic writing | [Plugin Boutique](https://cinematicstudioseries.com/) |
 | Orchestral Tools Berlin Strings | Modular, ~$99–$599 per section bundle | Expressive European strings | [Official Site](https://www.orchestraltools.com/berlin-strings) |
@@ -58,7 +58,7 @@ It runs in Spitfire's own BBCSO player (free download), not Kontakt. Installatio
 
 **Best for:** Any producer or composer starting out who needs professional-quality strings at zero cost.
 
-[→ Search BBCSO Discover (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-strings-vst-plugins)
+[→ Search BBCSO Discover (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-strings-vst-plugins&chan=art&data1=best-strings-vst-plugins)
 
 ---
 
@@ -182,7 +182,7 @@ Community consensus at VI-Control, r/composer, and major production forums place
 
 **Best for:** Film, TV, and media composers who need a primary full-orchestra strings library with documented professional recording pedigree.
 
-[→ Get Spitfire BBC Symphony Orchestra (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-strings-vst-plugins)
+[→ Get Spitfire BBC Symphony Orchestra (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-strings-vst-plugins&chan=art&data1=best-strings-vst-plugins)
 
 🎬 [Watch the official demo](https://www.youtube.com/watch?v=B49AQdh1sTw)
 
@@ -258,7 +258,7 @@ Cinesamples built CineStrings CORE specifically for film and television scoring 
 - **Why upgrade:** BBCSO Discover is limited to a small subset of articulations — no spiccato, tremolo, sul ponticello, or extended techniques. Core unlocks the complete articulation set required for professional film and TV work, plus additional mic position control. The recording quality is identical to the free version; what you're paying for is expressive range.
 - **When to upgrade:** The moment you find yourself reaching for a workaround — layering long notes to fake a short articulation, or bouncing to another library just for spiccato — that's the signal Discover has hit its ceiling for your project. Time the purchase to a sale window if you can (see the Black Friday guidance above); if a paying client project needs the missing articulations now, that's the one case where full price is justified.
 
-[→ Get Spitfire BBC Symphony Orchestra (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-strings-vst-plugins)
+[→ Get Spitfire BBC Symphony Orchestra (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-strings-vst-plugins&chan=art&data1=best-strings-vst-plugins)
 
 ---
 
@@ -288,7 +288,7 @@ Cinesamples built CineStrings CORE specifically for film and television scoring 
 | Cinesamples CineStrings CORE | ~$299 | Sample (Kontakt) | Broad articulations, film scoring depth | [Official Site](https://store.cinesamples.com/products/cinestrings-core) |
 | Orchestral Tools Berlin Strings | Modular | Sample (SINE player) | Modular buy-in, expressive dynamics | [Official Site](https://www.orchestraltools.com/berlin-strings) |
 | EastWest Hollywood Strings | Subscription | Sample (Opus engine) | 5-mic architecture, Hollywood recordings | [Official Site](https://www.soundsonline.com/orchestras/hollywood-strings-2) |
-| Spitfire BBC Symphony Orchestra | ~$449 | Sample (BBCSO player) | Community's top premium pick, full articulations | [Official Site](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-strings-vst-plugins) |
+| Spitfire BBC Symphony Orchestra | ~$449 | Sample (BBCSO player) | Community's top premium pick, full articulations | [Official Site](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-strings-vst-plugins&chan=art&data1=best-strings-vst-plugins) |
 
 ---
 

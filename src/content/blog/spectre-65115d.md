@@ -3,7 +3,7 @@ title: "39% Off Spectre"
 description: "Spectre is currently 39% off on Plugin Boutique, dropping from ~~$99.00~~ to **$60.00** — a $39 saving on a plugin in the enhancer/effects category. If..."
 pubDate: "2026-06-30T23:29:51Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/4801-Spectre?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spectre-65115d"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/4801-Spectre?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spectre-65115d&chan=art&data1=spectre-65115d"
 heroImage: "/images/spectre-65115d.jpg"
 score: 10.00
 dealPrice: "$60.00"
@@ -12,7 +12,7 @@ discount: "39% OFF"
 xText: "spectre just launched at 39% off. new plugins almost never discount like this on day one. if you're thinking about it, this is the moment before everyone catches on."
 draft: false
 ---
-**TL;DR:** Spectre is currently 39% off on Plugin Boutique, dropping from ~~$99.00~~ to **$60.00** — a $39 saving on a plugin in the enhancer/effects category. If you've had this on your radar, [grab it now at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/4801-Spectre?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spectre-65115d) before the deal expires.
+**TL;DR:** Spectre is currently 39% off on Plugin Boutique, dropping from ~~$99.00~~ to **$60.00** — a $39 saving on a plugin in the enhancer/effects category. If you've had this on your radar, [grab it now at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/4801-Spectre?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spectre-65115d&chan=art&data1=spectre-65115d) before the deal expires.
 
 ---
 
@@ -36,7 +36,7 @@ Based on the plugin's category and listing on Plugin Boutique, Spectre is design
 - **Non-destructive workflow** — Processing that lifts the perceived quality and presence of audio while preserving the original signal's integrity.
 - **Mix-ready output** — Designed to slot into a mixing or mastering chain without requiring complex routing or configuration.
 
-For the full, confirmed feature list, visit the [Spectre product page on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/4801-Spectre?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spectre-65115d).
+For the full, confirmed feature list, visit the [Spectre product page on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/4801-Spectre?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spectre-65115d&chan=art&data1=spectre-65115d).
 
 ---
 
@@ -57,7 +57,7 @@ For the full, confirmed feature list, visit the [Spectre product page on Plugin 
 
 A 39% discount is a meaningful markdown for a plugin in this category. Plugin Boutique regularly features time-limited promotions, so this price point isn't guaranteed to stick around. Verify current pricing on the product page — deals can change.
 
-**[Get Spectre for $60.00 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/4801-Spectre?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spectre-65115d)**
+**[Get Spectre for $60.00 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/4801-Spectre?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spectre-65115d&chan=art&data1=spectre-65115d)**
 
 ---
 
@@ -91,7 +91,7 @@ A: Check the product page for license type — Plugin Boutique typically specifi
 
 ## Get the Deal
 
-$39 off a $99 plugin is a discount worth acting on — and 39% is above what most enhancer plugins see during typical sale cycles. **[Pick up Spectre at $60.00 on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/4801-Spectre?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spectre-65115d)**
+$39 off a $99 plugin is a discount worth acting on — and 39% is above what most enhancer plugins see during typical sale cycles. **[Pick up Spectre at $60.00 on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/4801-Spectre?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spectre-65115d&chan=art&data1=spectre-65115d)**
 
 ---
 

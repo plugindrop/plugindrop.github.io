@@ -3,13 +3,13 @@ title: "Motion Bundle: Features, Pricing & Is It Worth It? (2026)"
 description: "The Motion Bundle is an effects plugin bundle available exclusively through Plugin Boutique, built around dynamic. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:27:41Z'
 tags: ["review", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/12397-Motion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=motion-bundle-755120"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/12397-Motion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=motion-bundle-755120&chan=art&data1=motion-bundle-755120"
 heroImage: /images/motion-bundle-755120.jpg
 score: 9.15
 draft: false
 converted: true
 ---
-**Motion Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/12397-Motion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=motion-bundle-755120)
+**Motion Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/12397-Motion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=motion-bundle-755120&chan=art&data1=motion-bundle-755120)
 
 ---
 
@@ -44,7 +44,7 @@ The per-unit cost will depend on how many plugins are included — check the pro
 
 Note: Verify current pricing on the product page — deals can change.
 
-[See full bundle contents and buy at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/12397-Motion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=motion-bundle-755120)
+[See full bundle contents and buy at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/12397-Motion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=motion-bundle-755120&chan=art&data1=motion-bundle-755120)
 
 ---
 
@@ -76,7 +76,7 @@ A: Check the system requirements on the Plugin Boutique product page, as compati
 
 The Motion Bundle is half price right now — the standard rate, with no coupon code needed at checkout. Bundles at this discount level tend to move during the deal window.
 
-[Pick up the Motion Bundle for $79 at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/12397-Motion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=motion-bundle-755120)
+[Pick up the Motion Bundle for $79 at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/12397-Motion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=motion-bundle-755120&chan=art&data1=motion-bundle-755120)
 
 ---
 

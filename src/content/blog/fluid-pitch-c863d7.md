@@ -3,13 +3,13 @@ title: "Fluid Pitch: Features, Pricing & Is It Worth It? (2026)"
 description: "Fluid Pitch is a pitch-shifting plugin sold through Plugin Boutique, sitting in the dedicated pitch-shifter category. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-26T07:07:11Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/7552-Fluid-Pitch?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-pitch-c863d7"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/7552-Fluid-Pitch?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-pitch-c863d7&chan=art&data1=fluid-pitch-c863d7"
 heroImage: /images/fluid-pitch-c863d7.jpg
 score: 7.35
 draft: false
 converted: true
 ---
-**Fluid Pitch** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/7552-Fluid-Pitch?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-pitch-c863d7)
+**Fluid Pitch** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/7552-Fluid-Pitch?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-pitch-c863d7&chan=art&data1=fluid-pitch-c863d7)
 
 ---
 
@@ -37,7 +37,7 @@ Fluid Pitch is a pitch-shifting plugin sold through Plugin Boutique, sitting in 
 
 Verify current pricing on the product page — deals can change without notice.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/7552-Fluid-Pitch?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-pitch-c863d7)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/7552-Fluid-Pitch?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-pitch-c863d7&chan=art&data1=fluid-pitch-c863d7)
 
 ---
 
@@ -73,7 +73,7 @@ A: Plugin Boutique's refund policy applies — review it at checkout or on their
 
 A dedicated pitch-shifting plugin is the kind of deal that's worth a quick look even if it's not top of your list today. At $39.00, the barrier to entry is low.
 
-[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/35-Pitch-Shifter/7552-Fluid-Pitch?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-pitch-c863d7)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/35-Pitch-Shifter/7552-Fluid-Pitch?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-pitch-c863d7&chan=art&data1=fluid-pitch-c863d7)
 
 ---
 

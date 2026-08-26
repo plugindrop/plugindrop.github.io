@@ -3,13 +3,13 @@ title: "Virtual Bassist Bundle 2: Features, Pricing & Is It Worth It? (2026)"
 description: "Virtual Bassist Bundle 2 is available at Plugin Boutique. Check current pricing and reviews on the product page."
 pubDate: '2026-05-02T11:01:53Z'
 tags: ["review", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-bassist-bundle-2-0f89f1"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-bassist-bundle-2-0f89f1&chan=art&data1=virtual-bassist-bundle-2-0f89f1"
 heroImage: /images/virtual-bassist-bundle-2-0f89f1.jpg
 score: 10.00
 draft: false
 converted: true
 ---
-**Virtual Bassist Bundle 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-bassist-bundle-2-0f89f1)
+**Virtual Bassist Bundle 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-bassist-bundle-2-0f89f1&chan=art&data1=virtual-bassist-bundle-2-0f89f1)
 
 ---
 
@@ -54,7 +54,7 @@ Verify current pricing on the product page, as deals can change without notice.
 
 *Price verified at publication. Check the link for current availability.*
 
-[→ Get Virtual Bassist Bundle 2 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-bassist-bundle-2-0f89f1)
+[→ Get Virtual Bassist Bundle 2 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-bassist-bundle-2-0f89f1&chan=art&data1=virtual-bassist-bundle-2-0f89f1)
 
 ---
 
@@ -88,7 +88,7 @@ A: VST, AU, and AAX formats are included, covering Ableton Live, Logic Pro, Pro 
 
 ##  UJAM doesn't discount this deep on a regular schedule.
 
-[→ Get Virtual Bassist Bundle 2 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-bassist-bundle-2-0f89f1)
+[→ Get Virtual Bassist Bundle 2 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=virtual-bassist-bundle-2-0f89f1&chan=art&data1=virtual-bassist-bundle-2-0f89f1)
 
 ---
 

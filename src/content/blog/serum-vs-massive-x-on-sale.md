@@ -36,14 +36,14 @@ Buy Serum at $8.39 if you want a wavetable synth that prioritizes speed and crea
 
 ## Where to Get It
 
-Grab Serum now at this price via [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763)—the deal won't last long at $8.39.
+Grab Serum now at this price via [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=serum-vs-massive-x-on-sale)—the deal won't last long at $8.39.
 
 For a full head-to-head breakdown, read our [Serum vs Massive X: Which Wavetable Synth Should You Buy](https://plugindrop.net/posts/serum-vs-massive-x/) guide to understand which synth fits your production style best.
 
 ## FAQ
 
 **Q: Is Serum (Xfer Records) on sale right now?**  
-A: Yes—currently $8.39, down from $13.99. Verify the current price on [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) as deals can expire.
+A: Yes—currently $8.39, down from $13.99. Verify the current price on [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=serum-vs-massive-x-on-sale) as deals can expire.
 
 **Q: How does Serum (Xfer Records) compare to Massive X?**  
 A: Both are professional wavetable synths used in electronic music production. Serum emphasizes intuitive workflow and creative sound design with a large wavetable library, while Massive X offers more advanced modulation options and visual editing capabilities. Serum is faster to learn; Massive X offers deeper synthesis control. At $8.39, Serum is the more economical option for most producers.

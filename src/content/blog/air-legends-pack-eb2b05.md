@@ -3,13 +3,13 @@ title: "AIR Legends Pack: Features, Pricing & Is It Worth It? (2026)"
 description: "AIR Legends Pack is AIR Music Technology's vintage keyboard bundle — electric pianos, organs, and acoustic pianos. Check current pricing at Plugin Boutique."
 pubDate: '2026-05-02T14:42:38Z'
 tags: ["review", "effects", "music-production"]
-affiliate: https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=air-legends-pack-eb2b05
+affiliate: https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=air-legends-pack-eb2b05&chan=art&data1=air-legends-pack-eb2b05
 heroImage: /images/air-legends-pack-eb2b05.jpg
 score: 10.00
 draft: false
 converted: true
 ---
-**AIR Legends Pack** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=air-legends-pack-eb2b05)
+**AIR Legends Pack** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=air-legends-pack-eb2b05&chan=art&data1=air-legends-pack-eb2b05)
 
 ---
 
@@ -48,7 +48,7 @@ AIR Music Technology bundles tend to be discounted during Plugin Boutique season
 
 *Price verified at publication. Check the link for current availability.*
 
-[→ Get AIR Legends Pack at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=air-legends-pack-eb2b05)
+[→ Get AIR Legends Pack at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=air-legends-pack-eb2b05&chan=art&data1=air-legends-pack-eb2b05)
 
 ---
 
@@ -81,7 +81,7 @@ A: AIR instruments support standalone operation in addition to plugin use.
 
  This is the kind of discount that doesn't stay open indefinitely.
 
-[→ Get AIR Legends Pack at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=air-legends-pack-eb2b05)
+[→ Get AIR Legends Pack at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=air-legends-pack-eb2b05&chan=art&data1=air-legends-pack-eb2b05)
 
 ---
 

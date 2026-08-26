@@ -3,7 +3,7 @@ title: "50% Off Falcon 2026"
 description: "Falcon 2026 is currently **50% off** at Plugin Boutique — dropping from ~~$328.90~~ to **$163.90**. That's a rare half-price window on one of the most..."
 pubDate: "2026-05-04T10:51:57Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14777-Falcon-2026?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=falcon-2026-1dcf40"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14777-Falcon-2026?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=falcon-2026-1dcf40&chan=art&data1=falcon-2026-1dcf40"
 heroImage: "/images/falcon-2026-1dcf40.jpg"
 score: 10.00
 dealPrice: "$163.9"
@@ -12,7 +12,7 @@ discount: "50% OFF"
 xText: "falcon 2026 just went 50% off and that's literally not what happens with new releases. if you've been thinking about it, right now is the actual window to grab it."
 draft: false
 ---
-**TL;DR:** Falcon 2026 is currently **50% off** at Plugin Boutique — dropping from ~~$328.90~~ to **$163.90**. That's a rare half-price window on one of the most feature-dense hybrid instruments on the market. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14777-Falcon-2026?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=falcon-2026-1dcf40)
+**TL;DR:** Falcon 2026 is currently **50% off** at Plugin Boutique — dropping from ~~$328.90~~ to **$163.90**. That's a rare half-price window on one of the most feature-dense hybrid instruments on the market. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14777-Falcon-2026?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=falcon-2026-1dcf40&chan=art&data1=falcon-2026-1dcf40)
 
 ---
 
@@ -60,7 +60,7 @@ Falcon 2026 is the latest edition of UVI's flagship hybrid instrument platform. 
 
 50% discounts on flagship instruments from established developers are not frequent — this is worth paying attention to if Falcon has been on your radar. Deal pricing can change without notice, so verify current pricing on the product page before purchasing.
 
-[Check the current price and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14777-Falcon-2026?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=falcon-2026-1dcf40)
+[Check the current price and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14777-Falcon-2026?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=falcon-2026-1dcf40&chan=art&data1=falcon-2026-1dcf40)
 
 ---
 
@@ -96,7 +96,7 @@ A: Upgrade pricing details for existing Falcon users should be listed on the Plu
 
 Half price on a multi-engine synthesis platform is a significant window. At **$163.90** (down from ~~$328.90~~), this is the kind of deal that's easier to justify than pass on.
 
-[Get Falcon 2026 at 50% off on Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14777-Falcon-2026?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=falcon-2026-1dcf40)
+[Get Falcon 2026 at 50% off on Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14777-Falcon-2026?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=falcon-2026-1dcf40&chan=art&data1=falcon-2026-1dcf40)
 
 ## Related Guides
 

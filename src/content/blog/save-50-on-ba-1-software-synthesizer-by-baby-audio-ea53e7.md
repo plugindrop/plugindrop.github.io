@@ -3,13 +3,13 @@ title: "BA-1 software synthesizer: Features, Pricing & Is It Worth It? (2026)"
 description: "The BA-1 is a software synthesizer developed by Baby Audio, a plugin company that's built a strong reputation for. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-14T12:51:58Z'
 tags: ["review", "baby audio", "synth", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=plugindrop&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=plugindrop&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763&chan=art&data1=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7"
 heroImage: /images/save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7.jpg
 score: 7.65
 draft: false
 converted: true
 ---
-**BA-1 software synthesizer** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=plugindrop&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763)
+**BA-1 software synthesizer** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=plugindrop&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763&chan=art&data1=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7)
 
 ---
 
@@ -44,7 +44,7 @@ BA-1 has developed a consistent following among producers who gravitate toward t
 
 ---
 
-Verify the exact current pricing on the [Plugin Boutique product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=plugindrop&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763) — deals can change, and the live price is always the most accurate number.
+Verify the exact current pricing on the [Plugin Boutique product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=plugindrop&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763&chan=art&data1=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7) — deals can change, and the live price is always the most accurate number.
 
  A 50% sale is on the larger end for this developer, which makes this worth paying attention to if BA-1 has been on your radar.
 
@@ -79,7 +79,7 @@ A: BA-1 supports expansion packs sold separately. The base synth purchase gives 
 
  
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=plugindrop&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10497-BA-1?utm_source=plugindrop&utm_medium=article&utm_campaign=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7&a_aid=69cb95abe1763&chan=art&data1=save-50-on-ba-1-software-synthesizer-by-baby-audio-ea53e7)
 
 ---
 

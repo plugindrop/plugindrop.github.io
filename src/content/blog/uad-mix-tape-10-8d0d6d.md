@@ -3,14 +3,14 @@ title: "Uad Mix Tape 10"
 description: "UAD Mix Tape 10 is available for $99 — a curated bundle of Universal Audio's acclaimed plugin emulations at a fraction of buying them individually. Original"
 pubDate: "2026-04-22T07:45:38Z"
 tags: ["vst-plugin", "music-production"]
-affiliate: "https://www.pluginboutique.com/manufacturers/15-Universal-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-10-8d0d6d"
+affiliate: "https://www.pluginboutique.com/manufacturers/15-Universal-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-10-8d0d6d&chan=art&data1=uad-mix-tape-10-8d0d6d"
 heroImage: "/images/uad-mix-tape-10-8d0d6d.jpg"
 score: 4.80
 dealPrice: "$99"
 xText: "mix tape 10 just dropped and the new comps are absolutely sleepers. ten versions in, still evolving, still impressing."
 draft: true
 ---
-**TL;DR:** UAD Mix Tape 10 is available for **$99** — a curated bundle of Universal Audio's acclaimed plugin emulations at a fraction of buying them individually. Original pricing varies by title, so check the product page to calculate your exact savings. [Grab it at Plugin Boutique →](https://www.pluginboutique.com/manufacturers/15-Universal-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-10-8d0d6d)
+**TL;DR:** UAD Mix Tape 10 is available for **$99** — a curated bundle of Universal Audio's acclaimed plugin emulations at a fraction of buying them individually. Original pricing varies by title, so check the product page to calculate your exact savings. [Grab it at Plugin Boutique →](https://www.pluginboutique.com/manufacturers/15-Universal-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-10-8d0d6d&chan=art&data1=uad-mix-tape-10-8d0d6d)
 
 ---
 
@@ -47,7 +47,7 @@ To understand the full value here, check the product page for the complete plugi
 
 > **Note:** Verify current pricing on the product page — deals can change without notice.
 
-[Get UAD Mix Tape 10 for $99 at Plugin Boutique →](https://www.pluginboutique.com/manufacturers/15-Universal-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-10-8d0d6d)
+[Get UAD Mix Tape 10 for $99 at Plugin Boutique →](https://www.pluginboutique.com/manufacturers/15-Universal-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-10-8d0d6d&chan=art&data1=uad-mix-tape-10-8d0d6d)
 
 ## Alternatives at a Glance
 
@@ -77,7 +77,7 @@ A: System requirements vary by plugin and platform. Check the official UAD produ
 
 UAD Mix Tape 10 is priced at **$99** — check the product page to see exactly which titles are included and stack the math against individual pricing to see how much you're saving. This is one of the more accessible ways into UA's professional plugin catalog.
 
-[Grab UAD Mix Tape 10 for $99 →](https://www.pluginboutique.com/manufacturers/15-Universal-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-10-8d0d6d)
+[Grab UAD Mix Tape 10 for $99 →](https://www.pluginboutique.com/manufacturers/15-Universal-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-10-8d0d6d&chan=art&data1=uad-mix-tape-10-8d0d6d)
 
 ---
 

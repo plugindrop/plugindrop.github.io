@@ -3,7 +3,7 @@ title: "87% Off SSL Native Channel Strip 2"
 description: "SSL Native Channel Strip 2 drops to **$19.00** (~~$149.00~~) at Plugin Boutique — an 87% discount on an official first-party SSL plugin. That's $130 in..."
 pubDate: "2026-06-19T22:57:37Z"
 tags: ["sale", "vst-plugin", "effects", "mixing", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/8653-SSL-Native-Channel-Strip-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-channel-strip-2-b24adc"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/8653-SSL-Native-Channel-Strip-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-channel-strip-2-b24adc&chan=art&data1=ssl-native-channel-strip-2-b24adc"
 heroImage: "/images/ssl-native-channel-strip-2-b24adc.jpg"
 score: 10.00
 dealPrice: "$19.00"
@@ -12,7 +12,7 @@ discount: "87% OFF"
 xText: "ssl channel strip 2 just launched at 87% off. absolute sleeper deal. this is the standard every pro relies on. grab it while it stays this low."
 draft: true
 ---
-**TL;DR:** SSL Native Channel Strip 2 drops to **$19.00** (~~$149.00~~) at Plugin Boutique — an 87% discount on an official first-party SSL plugin. That's $130 in savings for one of the most recognized channel strip workflows in professional audio. [Grab it here before the price changes.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/8653-SSL-Native-Channel-Strip-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-channel-strip-2-b24adc)
+**TL;DR:** SSL Native Channel Strip 2 drops to **$19.00** (~~$149.00~~) at Plugin Boutique — an 87% discount on an official first-party SSL plugin. That's $130 in savings for one of the most recognized channel strip workflows in professional audio. [Grab it here before the price changes.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/8653-SSL-Native-Channel-Strip-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-channel-strip-2-b24adc&chan=art&data1=ssl-native-channel-strip-2-b24adc)
 
 ---
 
@@ -48,7 +48,7 @@ Solid State Logic (SSL) is one of the most storied names in professional audio, 
 
 SSL's Native plugin line doesn't regularly appear at discounts this steep. An 87% reduction on a first-party plugin from a brand at this tier is not a common occurrence — price history context suggests deals of this depth are worth acting on promptly. Verify current pricing on the product page — deals can change without notice.
 
-[Get SSL Native Channel Strip 2 for $19 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/8653-SSL-Native-Channel-Strip-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-channel-strip-2-b24adc)
+[Get SSL Native Channel Strip 2 for $19 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/8653-SSL-Native-Channel-Strip-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-channel-strip-2-b24adc&chan=art&data1=ssl-native-channel-strip-2-b24adc)
 
 ## Alternatives at a Glance
 
@@ -76,7 +76,7 @@ A: Plugin Boutique's refund terms vary by product. Review their policy on the Pl
 
 ## Get the Deal
 
-$19 for an official SSL channel strip plugin is the kind of price that doesn't last — 87% off is a rare window on a brand that rarely needs to discount. [Grab SSL Native Channel Strip 2 at Plugin Boutique while the deal is live.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/8653-SSL-Native-Channel-Strip-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-channel-strip-2-b24adc)
+$19 for an official SSL channel strip plugin is the kind of price that doesn't last — 87% off is a rare window on a brand that rarely needs to discount. [Grab SSL Native Channel Strip 2 at Plugin Boutique while the deal is live.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/8653-SSL-Native-Channel-Strip-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-channel-strip-2-b24adc&chan=art&data1=ssl-native-channel-strip-2-b24adc)
 
 ## Related Guides
 

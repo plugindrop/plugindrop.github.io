@@ -3,13 +3,13 @@ title: "Lifeline Bundle: Features, Pricing & Is It Worth It? (2026)"
 description: "The Lifeline Bundle is an effects plugin bundle sold through Plugin Boutique, packaging multiple audio processing. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:28:01Z'
 tags: ["review", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/10033-Lifeline-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-bundle-be494b"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/10033-Lifeline-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-bundle-be494b&chan=art&data1=lifeline-bundle-be494b"
 heroImage: /images/lifeline-bundle-be494b.jpg
 score: 8.35
 draft: false
 converted: true
 ---
-**Lifeline Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/10033-Lifeline-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-bundle-be494b)
+**Lifeline Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/10033-Lifeline-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-bundle-be494b&chan=art&data1=lifeline-bundle-be494b)
 
 ---
 
@@ -44,7 +44,7 @@ $65 back in your pocket for a bundle is a meaningful saving. To put that in pers
 
 Note: Verify current pricing on the product page — deals can change without notice.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/10033-Lifeline-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-bundle-be494b)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/10033-Lifeline-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-bundle-be494b&chan=art&data1=lifeline-bundle-be494b)
 
 ---
 
@@ -77,7 +77,7 @@ A: Refund and return policies for software differ by store and developer — che
 
 A multi-plugin effects bundle is a solid haul — half price, single purchase, no subscription. If effects tools are on your list, this is a straightforward decision.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/10033-Lifeline-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-bundle-be494b)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/10033-Lifeline-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-bundle-be494b&chan=art&data1=lifeline-bundle-be494b)
 
 ---
 

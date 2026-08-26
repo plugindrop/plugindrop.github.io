@@ -3,7 +3,7 @@ title: "76% Off Claro"
 description: "Claro is currently **$32** (~~$134~~) on Plugin Boutique — a 76% discount that cuts over $100 off the regular price. Sales this steep on professional EQ..."
 pubDate: "2026-06-10T04:37:44Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/8182-Claro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=claro-8bba69"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/8182-Claro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=claro-8bba69&chan=art&data1=claro-8bba69"
 heroImage: "/images/claro-8bba69.jpg"
 score: 9.54
 dealPrice: "$32.00"
@@ -12,7 +12,7 @@ discount: "76% OFF"
 xText: "new plugins don't usually drop this hard. claro just hit shelves at 76% off already — if you were eyeing it, this is the move"
 draft: true
 ---
-**TL;DR:** Claro is currently **$32** (~~$134~~) on Plugin Boutique — a 76% discount that cuts over $100 off the regular price. Sales this steep on professional EQ plugins don't hang around long. [Grab Claro at this price →](https://www.pluginboutique.com/product/2-Effects/16-EQ/8182-Claro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=claro-8bba69)
+**TL;DR:** Claro is currently **$32** (~~$134~~) on Plugin Boutique — a 76% discount that cuts over $100 off the regular price. Sales this steep on professional EQ plugins don't hang around long. [Grab Claro at this price →](https://www.pluginboutique.com/product/2-Effects/16-EQ/8182-Claro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=claro-8bba69&chan=art&data1=claro-8bba69)
 
 ---
 
@@ -52,7 +52,7 @@ Visit the official product page for the complete spec sheet — but based on the
 
 Verify current pricing on the product page — deals can change.
 
-[→ Get Claro for $32 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/8182-Claro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=claro-8bba69)
+[→ Get Claro for $32 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/8182-Claro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=claro-8bba69&chan=art&data1=claro-8bba69)
 
 ## Alternatives at a Glance
 
@@ -82,7 +82,7 @@ A: Refund and return policies differ by retailer. Check Plugin Boutique's terms 
 
 $102 off a professional EQ plugin is a real number — 76% discounts at this price tier don't happen on a regular schedule. If an EQ upgrade is on your list, this is a concrete opportunity at a concrete price.
 
-[Grab Claro for $32 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/16-EQ/8182-Claro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=claro-8bba69)
+[Grab Claro for $32 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/16-EQ/8182-Claro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=claro-8bba69&chan=art&data1=claro-8bba69)
 
 ## Related Guides
 

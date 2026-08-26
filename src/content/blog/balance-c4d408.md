@@ -3,13 +3,13 @@ title: "BALANCE: Features, Pricing & Is It Worth It? (2026)"
 description: "BALANCE is an EQ plugin available at Plugin Boutique, categorized under Effects/EQ. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-29T13:25:56Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14488-BALANCE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=balance-c4d408"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14488-BALANCE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=balance-c4d408&chan=art&data1=balance-c4d408"
 heroImage: /images/balance-c4d408.jpg
 score: 8.32
 draft: false
 converted: true
 ---
-**BALANCE** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/14488-BALANCE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=balance-c4d408)
+**BALANCE** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/14488-BALANCE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=balance-c4d408&chan=art&data1=balance-c4d408)
 
 ---
 
@@ -43,7 +43,7 @@ BALANCE is an EQ plugin available at Plugin Boutique, categorized under Effects/
 
   At $99, BALANCE lands in competitive territory against other specialized stereo EQ options.
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14488-BALANCE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=balance-c4d408)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14488-BALANCE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=balance-c4d408&chan=art&data1=balance-c4d408)
 
 ---
 
@@ -76,7 +76,7 @@ A: Licensing details including any iLok or account-based activation requirements
 
 At $99 — down from $149 — this is  If stereo balance correction is part of your regular workflow, this price point makes it easier to justify a dedicated tool.
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14488-BALANCE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=balance-c4d408)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14488-BALANCE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=balance-c4d408&chan=art&data1=balance-c4d408)
 
 ---
 

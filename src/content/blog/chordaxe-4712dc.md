@@ -3,7 +3,7 @@ title: "20% Off ChordAXE"
 description: "ChordAXE is currently listed at **$39** (down from ~~$49~~) at Plugin Boutique — a negligible price difference that essentially puts this at its..."
 pubDate: "2026-05-13T00:52:13Z"
 tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/17319-ChordAXE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chordaxe-4712dc"
+affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/17319-ChordAXE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chordaxe-4712dc&chan=art&data1=chordaxe-4712dc"
 heroImage: "/images/chordaxe-4712dc.jpg"
 score: 9.60
 dealPrice: "$39"
@@ -11,7 +11,7 @@ originalPrice: "$49"
 xText: "new chord voicing plugin chordaxe just hit and the approach is actually wild. this might be a game changer for how you build progressions"
 draft: true
 ---
-**TL;DR:** ChordAXE is currently listed at **$39** (down from ~~$49~~) at Plugin Boutique — a negligible price difference that essentially puts this at its standard rate. There's no dramatic markdown here, but if you've been watching this chord progression tool and waiting for a reason to pull the trigger, [grab it directly from Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/17319-ChordAXE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chordaxe-4712dc).
+**TL;DR:** ChordAXE is currently listed at **$39** (down from ~~$49~~) at Plugin Boutique — a negligible price difference that essentially puts this at its standard rate. There's no dramatic markdown here, but if you've been watching this chord progression tool and waiting for a reason to pull the trigger, [grab it directly from Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/17319-ChordAXE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chordaxe-4712dc&chan=art&data1=chordaxe-4712dc).
 
 ---
 
@@ -35,7 +35,7 @@ Based on its category and product positioning, ChordAXE is built around harmonic
 - **DAW Compatibility** — Designed to slot into standard studio workflows via Plugin Boutique's Studio Tools ecosystem
 - **Creative Exploration** — Allows producers to discover harmonic ideas beyond their usual go-to chord shapes
 
-Verify the complete feature list and system requirements on the [Plugin Boutique product page](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/17319-ChordAXE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chordaxe-4712dc) before purchasing.
+Verify the complete feature list and system requirements on the [Plugin Boutique product page](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/17319-ChordAXE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chordaxe-4712dc&chan=art&data1=chordaxe-4712dc) before purchasing.
 
 ---
 
@@ -58,7 +58,7 @@ To be straightforward with you: this is a 0% discount in any meaningful sense. T
 
 > **Note:** Verify current pricing on the product page — deals can change.
 
-If ChordAXE fits your workflow, [pick it up at Plugin Boutique here](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/17319-ChordAXE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chordaxe-4712dc).
+If ChordAXE fits your workflow, [pick it up at Plugin Boutique here](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/17319-ChordAXE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chordaxe-4712dc&chan=art&data1=chordaxe-4712dc).
 
 ---
 
@@ -94,7 +94,7 @@ A: Refund eligibility depends on Plugin Boutique's standard policy and the devel
 
 ChordAXE is available now at its standard price of **$39** through Plugin Boutique. If it's been on your radar, there's no sale deadline pushing you — evaluate the feature set at your own pace and buy when it fits your budget.
 
-[View ChordAXE on Plugin Boutique →](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/17319-ChordAXE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chordaxe-4712dc)
+[View ChordAXE on Plugin Boutique →](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/17319-ChordAXE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chordaxe-4712dc&chan=art&data1=chordaxe-4712dc)
 
 ## Related Guides
 

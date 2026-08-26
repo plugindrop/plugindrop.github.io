@@ -3,7 +3,7 @@ title: "34% Off Evolve Velvet"
 description: "Evolve Velvet is currently 34% off at Plugin Boutique — drop from ~~$59.00~~ to **$39.00**, saving you $20 on a cinematic virtual instrument built for..."
 pubDate: "2026-07-01T21:33:33Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15331-Evolve-Velvet?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-velvet-1e0fd2"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15331-Evolve-Velvet?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-velvet-1e0fd2&chan=art&data1=evolve-velvet-1e0fd2"
 heroImage: "/images/evolve-velvet-1e0fd2.jpg"
 score: 7.12
 dealPrice: "$39.00"
@@ -12,7 +12,7 @@ discount: "34% OFF"
 xText: "evolve velvet just dropped at 34% off — new saturation releases rarely see this price. solid move to audition it next session if you're looking"
 draft: false
 ---
-**TL;DR:** Evolve Velvet is currently 34% off at Plugin Boutique — drop from ~~$59.00~~ to **$39.00**, saving you $20 on a cinematic virtual instrument built for producers who need lush, textured soundscapes. If you've had this one on your radar, [grab it now at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15331-Evolve-Velvet?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-velvet-1e0fd2) before the deal expires.
+**TL;DR:** Evolve Velvet is currently 34% off at Plugin Boutique — drop from ~~$59.00~~ to **$39.00**, saving you $20 on a cinematic virtual instrument built for producers who need lush, textured soundscapes. If you've had this one on your radar, [grab it now at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15331-Evolve-Velvet?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-velvet-1e0fd2&chan=art&data1=evolve-velvet-1e0fd2) before the deal expires.
 
 ---
 
@@ -63,7 +63,7 @@ A 34% discount is a meaningful cut for a dedicated cinematic instrument — this
 
 Verify current pricing on the product page — deals can change without notice.
 
-[See the current price at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15331-Evolve-Velvet?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-velvet-1e0fd2)
+[See the current price at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15331-Evolve-Velvet?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-velvet-1e0fd2&chan=art&data1=evolve-velvet-1e0fd2)
 
 ---
 
@@ -99,7 +99,7 @@ A: Plugin Boutique generally sells to international customers, but pricing in yo
 
 $39.00 for a Heavyocity cinematic instrument is a solid entry price — that's 34% off the regular $59.00. Don't leave $20 on the table if this fits your sound.
 
-[Get Evolve Velvet for $39.00 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15331-Evolve-Velvet?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-velvet-1e0fd2)
+[Get Evolve Velvet for $39.00 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15331-Evolve-Velvet?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-velvet-1e0fd2&chan=art&data1=evolve-velvet-1e0fd2)
 
 ---
 

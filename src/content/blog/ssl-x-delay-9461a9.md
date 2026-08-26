@@ -4,7 +4,7 @@ description: "SSL X Delay is down to $19 from ~~$99~~ at Plugin Boutique, an 81%
 pubDate: "2026-07-21T14:32:39Z"
 saleExpiry: "2026-07-31"
 tags: ["sale", "vst-plugin", "effects", "reverb", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/10-Delay/8741-SSL-X-Delay?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-delay-9461a9"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/10-Delay/8741-SSL-X-Delay?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-delay-9461a9&chan=art&data1=ssl-x-delay-9461a9"
 heroImage: "/images/ssl-x-delay-9461a9.jpg"
 score: 6.90
 dealPrice: "$19.00"
@@ -13,7 +13,7 @@ discount: "81% OFF"
 xText: "ssl x delay just hit at 81% off. flagship delays don't move on price like this. if you know ssl gear you already know whether you want in. weird discount to pass on."
 draft: true
 ---
-**TL;DR:** SSL X Delay is down to $19 from ~~$99~~ at Plugin Boutique, an 81% discount. It's an analog-modeled delay plugin from Solid State Logic, built around the same circuit design philosophy as SSL's console gear. [Grab the deal here](https://www.pluginboutique.com/product/2-Effects/10-Delay/8741-SSL-X-Delay?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-delay-9461a9) before pricing reverts to normal.
+**TL;DR:** SSL X Delay is down to $19 from ~~$99~~ at Plugin Boutique, an 81% discount. It's an analog-modeled delay plugin from Solid State Logic, built around the same circuit design philosophy as SSL's console gear. [Grab the deal here](https://www.pluginboutique.com/product/2-Effects/10-Delay/8741-SSL-X-Delay?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-delay-9461a9&chan=art&data1=ssl-x-delay-9461a9) before pricing reverts to normal.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/9hPDLLgfM3Q" title="81% Off SSL X Delay — Analog-Style Delay for Mixing ($19) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -47,7 +47,7 @@ SSL X Delay is a delay effect plugin made by Solid State Logic, the UK console m
 
 SSL periodically discounts individual X series plugins through Plugin Boutique, so this isn't the only sale window the brand has run, but an 81% cut is a deep discount relative to typical single-plugin promotions. Verify current pricing on the product page — deals can change without notice.
 
-[Get SSL X Delay at $19](https://www.pluginboutique.com/product/2-Effects/10-Delay/8741-SSL-X-Delay?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-delay-9461a9)
+[Get SSL X Delay at $19](https://www.pluginboutique.com/product/2-Effects/10-Delay/8741-SSL-X-Delay?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-delay-9461a9&chan=art&data1=ssl-x-delay-9461a9)
 
 ## Alternatives at a Glance
 
@@ -75,7 +75,7 @@ A: It's built for standard plugin formats used across major DAWs. Check the prod
 
 ## Get the Deal
 
-$19 instead of $99 is an 81% saving on an SSL-branded delay plugin. [Claim the SSL X Delay deal here](https://www.pluginboutique.com/product/2-Effects/10-Delay/8741-SSL-X-Delay?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-delay-9461a9) while the discount is live.
+$19 instead of $99 is an 81% saving on an SSL-branded delay plugin. [Claim the SSL X Delay deal here](https://www.pluginboutique.com/product/2-Effects/10-Delay/8741-SSL-X-Delay?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-delay-9461a9&chan=art&data1=ssl-x-delay-9461a9) while the discount is live.
 
 ## Is This Deal Worth It?
 

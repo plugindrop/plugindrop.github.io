@@ -3,13 +3,13 @@ title: "Solid State Logic SSL Fusion Bundle: Features, Pricing & Is It Worth It?
 description: "Solid State Logic SSL Fusion Bundle is available at Plugin Boutique. Check current pricing and reviews on the product page."
 pubDate: '2026-05-02T04:58:01Z'
 tags: ["review", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/14036-Solid-State-Logic-SSL-Fusion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-state-logic-ssl-fusion-bundle-bcf899"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/14036-Solid-State-Logic-SSL-Fusion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-state-logic-ssl-fusion-bundle-bcf899&chan=art&data1=solid-state-logic-ssl-fusion-bundle-bcf899"
 heroImage: /images/solid-state-logic-ssl-fusion-bundle-bcf899.jpg
 score: 10.00
 draft: false
 converted: true
 ---
-**Solid State Logic SSL Fusion Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/14036-Solid-State-Logic-SSL-Fusion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-state-logic-ssl-fusion-bundle-bcf899)
+**Solid State Logic SSL Fusion Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/14036-Solid-State-Logic-SSL-Fusion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-state-logic-ssl-fusion-bundle-bcf899&chan=art&data1=solid-state-logic-ssl-fusion-bundle-bcf899)
 
 ---
 
@@ -54,7 +54,7 @@ SSL's mix bus tools have long-standing credibility in professional circles. On f
 
 *Price verified at publication. Check the link for current availability.*
 
-[→ Get the SSL Fusion Bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/14036-Solid-State-Logic-SSL-Fusion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-state-logic-ssl-fusion-bundle-bcf899)
+[→ Get the SSL Fusion Bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/14036-Solid-State-Logic-SSL-Fusion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-state-logic-ssl-fusion-bundle-bcf899&chan=art&data1=solid-state-logic-ssl-fusion-bundle-bcf899)
 
 ---
 
@@ -82,7 +82,7 @@ A: Plugin Boutique's bundle pricing does not typically offer ownership-based upg
 
 ## 
 
-[→ Get the SSL Fusion Bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/14036-Solid-State-Logic-SSL-Fusion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-state-logic-ssl-fusion-bundle-bcf899)
+[→ Get the SSL Fusion Bundle at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/14036-Solid-State-Logic-SSL-Fusion-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-state-logic-ssl-fusion-bundle-bcf899&chan=art&data1=solid-state-logic-ssl-fusion-bundle-bcf899)
 
 ---
 

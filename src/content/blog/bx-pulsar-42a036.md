@@ -3,7 +3,7 @@ title: "26% Off bx pulsar"
 description: "bx_pulsar by Brainworx is now 26% off at Plugin Boutique — drop from ~~$75.90~~ to **$56.10**, saving you nearly $20. Brainworx sales at this depth don't..."
 pubDate: "2026-05-06T09:42:01Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/10-Delay/15327-bx-pulsar?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-pulsar-42a036"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/10-Delay/15327-bx-pulsar?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-pulsar-42a036&chan=art&data1=bx-pulsar-42a036"
 heroImage: "/images/bx-pulsar-42a036.jpg"
 score: 9.39
 dealPrice: "$56.1"
@@ -12,7 +12,7 @@ discount: "26% OFF"
 xText: "26% off bx_pulsar, same-day sale. pretty wild – either they're incredibly confident or you should already be grabbing this."
 draft: true
 ---
-**TL;DR:** bx_pulsar by Brainworx is now 26% off at Plugin Boutique — drop from ~~$75.90~~ to **$56.10**, saving you nearly $20. Brainworx sales at this depth don't show up constantly, so if this plugin is on your radar, [grab it now at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/15327-bx-pulsar?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-pulsar-42a036).
+**TL;DR:** bx_pulsar by Brainworx is now 26% off at Plugin Boutique — drop from ~~$75.90~~ to **$56.10**, saving you nearly $20. Brainworx sales at this depth don't show up constantly, so if this plugin is on your radar, [grab it now at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/15327-bx-pulsar?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-pulsar-42a036&chan=art&data1=bx-pulsar-42a036).
 
 ---
 
@@ -35,7 +35,7 @@ bx_pulsar is an effects plugin developed by Brainworx, the German developer know
 - **Stereo Processing** — Designed with stereo width in mind, supporting left/right and mid/side processing approaches.
 - **DAW Compatibility** — Available in standard plugin formats; check the product page for the exact supported formats and system requirements.
 
-*Note: Verify the complete feature list and system requirements on the [official product page](https://www.pluginboutique.com/product/2-Effects/10-Delay/15327-bx-pulsar?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-pulsar-42a036) before purchasing.*
+*Note: Verify the complete feature list and system requirements on the [official product page](https://www.pluginboutique.com/product/2-Effects/10-Delay/15327-bx-pulsar?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-pulsar-42a036&chan=art&data1=bx-pulsar-42a036) before purchasing.*
 
 ---
 
@@ -58,7 +58,7 @@ Brainworx and Plugin Alliance plugins don't run deep discounts constantly — yo
 
 *Verify current pricing on the product page — deals can change without notice.*
 
-[Get bx_pulsar for $56.10 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/10-Delay/15327-bx-pulsar?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-pulsar-42a036)
+[Get bx_pulsar for $56.10 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/10-Delay/15327-bx-pulsar?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-pulsar-42a036&chan=art&data1=bx-pulsar-42a036)
 
 ---
 
@@ -94,7 +94,7 @@ A: Refer to Plugin Boutique's official terms and conditions for refund eligibili
 
 At 26% off, bx_pulsar drops to **$56.10** — nearly $20 below its regular price. If Brainworx effects are part of your workflow, this is a reasonable entry point.
 
-[Claim the discount at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/10-Delay/15327-bx-pulsar?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-pulsar-42a036)
+[Claim the discount at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/10-Delay/15327-bx-pulsar?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-pulsar-42a036&chan=art&data1=bx-pulsar-42a036)
 
 ## Related Guides
 

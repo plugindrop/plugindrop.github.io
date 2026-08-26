@@ -3,13 +3,13 @@ title: "bx console AMEK 9099: Features, Pricing & Is It Worth It? (2026)"
 description: "The bx console AMEK 9099 is a channel strip plugin by Brainworx (Plugin Alliance), built as a precise emulation of. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-25T19:06:28Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10236-bx-console-AMEK-9099?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10236-bx-console-AMEK-9099?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469&chan=art&data1=bx-console-amek-9099-3e0469"
 heroImage: /images/bx-console-amek-9099-3e0469.jpg
 score: 8.35
 draft: false
 converted: true
 ---
-**bx console AMEK 9099** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10236-bx-console-AMEK-9099?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469)
+**bx console AMEK 9099** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10236-bx-console-AMEK-9099?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469&chan=art&data1=bx-console-amek-9099-3e0469)
 
 ---
 
@@ -44,7 +44,7 @@ The bx console AMEK 9099 is a channel strip plugin by Brainworx (Plugin Alliance
 
  Plugin Alliance and Brainworx do run regular sales, but hitting the sub-$50 threshold on an AMEK emulation is worth paying attention to if this console flavor is on your shortlist.
 
-[Check the current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10236-bx-console-AMEK-9099?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469)
+[Check the current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10236-bx-console-AMEK-9099?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469&chan=art&data1=bx-console-amek-9099-3e0469)
 
 ---
 
@@ -78,7 +78,7 @@ A: Plugin Alliance has offered free trials for their plugins in the past. Check 
 
 ## Where to Buy
 
-$50. [Lock in the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10236-bx-console-AMEK-9099?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469)
+$50. [Lock in the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10236-bx-console-AMEK-9099?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469&chan=art&data1=bx-console-amek-9099-3e0469)
 
 ---
 

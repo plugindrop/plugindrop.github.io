@@ -3,7 +3,7 @@ title: "51% Off Fluid Chords 2"
 description: "Fluid Chords 2, the MIDI chord generator plugin from Devious Machines, is currently ~~$99~~ **$49** at Plugin Boutique — a 51% discount. If you've been..."
 pubDate: "2026-07-10T14:27:38Z"
 tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15093-Fluid-Chords-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-chords-2-4fd4e1"
+affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15093-Fluid-Chords-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-chords-2-4fd4e1&chan=art&data1=fluid-chords-2-4fd4e1"
 heroImage: "/images/fluid-chords-2-4fd4e1.jpg"
 score: 7.65
 dealPrice: "$49.00"
@@ -12,7 +12,7 @@ discount: "51% OFF"
 xText: "51% off a fresh voicing plugin is rare. fluid chords 2 just shipped and already discounted this hard. if progression hunting slows you down, this saves the grind time."
 draft: false
 ---
-**TL;DR:** Fluid Chords 2, the MIDI chord generator plugin from Devious Machines, is currently ~~$99~~ **$49** at Plugin Boutique — a 51% discount. If you've been eyeing a chord-writing tool to speed up songwriting and break through writer's block, this cuts the price roughly in half. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15093-Fluid-Chords-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-chords-2-4fd4e1).
+**TL;DR:** Fluid Chords 2, the MIDI chord generator plugin from Devious Machines, is currently ~~$99~~ **$49** at Plugin Boutique — a 51% discount. If you've been eyeing a chord-writing tool to speed up songwriting and break through writer's block, this cuts the price roughly in half. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15093-Fluid-Chords-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-chords-2-4fd4e1&chan=art&data1=fluid-chords-2-4fd4e1).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/MpNtAqcmwn8" title="51% Off Fluid Chords 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -31,7 +31,7 @@ Fluid Chords 2 is a MIDI chord and progression generator plugin developed by Dev
 - **MIDI Output/Export** — Generated chords can be sent as MIDI to instruments or exported for further editing in your DAW's piano roll.
 - **DAW Integration** — Runs as a plugin (VST/AU/AAX format support — confirm exact formats on the product page) alongside your existing production workflow.
 
-For the complete and current feature list, check the [product page at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15093-Fluid-Chords-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-chords-2-4fd4e1).
+For the complete and current feature list, check the [product page at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15093-Fluid-Chords-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-chords-2-4fd4e1&chan=art&data1=fluid-chords-2-4fd4e1).
 
 ## Who Is It For?
 
@@ -48,7 +48,7 @@ For the complete and current feature list, check the [product page at Plugin Bou
 
 Plugin Boutique regularly runs promotions across its Studio Tools and Music Theory Tools categories, so a 51% discount is a meaningful markdown but not necessarily a one-time event — prices and deal windows can change without notice. Verify current pricing on the product page before checking out, as sale timing and percentage can shift.
 
-[See the current price at Plugin Boutique →](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15093-Fluid-Chords-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-chords-2-4fd4e1)
+[See the current price at Plugin Boutique →](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15093-Fluid-Chords-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-chords-2-4fd4e1&chan=art&data1=fluid-chords-2-4fd4e1)
 
 ## Alternatives at a Glance
 
@@ -78,7 +78,7 @@ A: Check the official product page for current OS, DAW version, and hardware req
 
 Fluid Chords 2 is currently $50 off its regular $99 price, bringing it down to $49 at Plugin Boutique — that's just about half price while the sale lasts.
 
-[Get Fluid Chords 2 at 51% off →](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15093-Fluid-Chords-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-chords-2-4fd4e1)
+[Get Fluid Chords 2 at 51% off →](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15093-Fluid-Chords-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-chords-2-4fd4e1&chan=art&data1=fluid-chords-2-4fd4e1)
 
 ## Is This Deal Worth It?
 

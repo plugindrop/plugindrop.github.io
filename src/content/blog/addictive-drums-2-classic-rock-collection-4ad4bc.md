@@ -3,7 +3,7 @@ title: "40% Off Addictive Drums 2 Classic Rock Collection"
 description: "Addictive Drums 2 Classic Rock Collection is currently **$101.40** (was ~~$169.00~~) at Plugin Boutique — a 40% discount that puts $67.60 back in your..."
 pubDate: "2026-05-21T01:04:04Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/70-Expansion-Packs/8235-Addictive-Drums-2-Classic-Rock-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-classic-rock-collection-4ad4bc"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/70-Expansion-Packs/8235-Addictive-Drums-2-Classic-Rock-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-classic-rock-collection-4ad4bc&chan=art&data1=addictive-drums-2-classic-rock-collection-4ad4bc"
 heroImage: "/images/addictive-drums-2-classic-rock-collection-4ad4bc.jpg"
 score: 10.00
 dealPrice: "$101.40"
@@ -12,7 +12,7 @@ discount: "40% OFF"
 xText: "addictive drums 2 just dropped to 40% off and the bundle math on classic rock collection is stupid good. per-kit cost basically evaporates. rare pricing."
 draft: true
 ---
-**TL;DR:** Addictive Drums 2 Classic Rock Collection is currently **$101.40** (was ~~$169.00~~) at Plugin Boutique — a 40% discount that puts $67.60 back in your budget. For producers already in the AD2 ecosystem, this is a straightforward pickup. [Grab it here.](https://www.pluginboutique.com/product/1-Instruments/70-Expansion-Packs/8235-Addictive-Drums-2-Classic-Rock-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-classic-rock-collection-4ad4bc)
+**TL;DR:** Addictive Drums 2 Classic Rock Collection is currently **$101.40** (was ~~$169.00~~) at Plugin Boutique — a 40% discount that puts $67.60 back in your budget. For producers already in the AD2 ecosystem, this is a straightforward pickup. [Grab it here.](https://www.pluginboutique.com/product/1-Instruments/70-Expansion-Packs/8235-Addictive-Drums-2-Classic-Rock-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-classic-rock-collection-4ad4bc&chan=art&data1=addictive-drums-2-classic-rock-collection-4ad4bc)
 
 ---
 
@@ -60,7 +60,7 @@ Addictive Drums 2 has been a consistent recommendation across production communi
 
 XLN Audio discounts don't run year-round, so 40% is a notable drop for this library. Verify current pricing on the product page — deals can change without notice.
 
-[Get Addictive Drums 2 Classic Rock Collection at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/70-Expansion-Packs/8235-Addictive-Drums-2-Classic-Rock-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-classic-rock-collection-4ad4bc)
+[Get Addictive Drums 2 Classic Rock Collection at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/70-Expansion-Packs/8235-Addictive-Drums-2-Classic-Rock-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-classic-rock-collection-4ad4bc&chan=art&data1=addictive-drums-2-classic-rock-collection-4ad4bc)
 
 ---
 
@@ -96,7 +96,7 @@ A: Plugin Boutique's standard refund terms apply — check their site directly f
 
 A 40% discount brings the Classic Rock Collection from ~~$169.00~~ down to **$101.40** — a $67.60 saving on a genre-focused library from one of the most trusted names in drum production.
 
-[Grab Addictive Drums 2 Classic Rock Collection for $101.40 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/70-Expansion-Packs/8235-Addictive-Drums-2-Classic-Rock-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-classic-rock-collection-4ad4bc)
+[Grab Addictive Drums 2 Classic Rock Collection for $101.40 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/70-Expansion-Packs/8235-Addictive-Drums-2-Classic-Rock-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=addictive-drums-2-classic-rock-collection-4ad4bc&chan=art&data1=addictive-drums-2-classic-rock-collection-4ad4bc)
 
 ## Related Guides
 

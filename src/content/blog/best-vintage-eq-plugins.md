@@ -21,8 +21,8 @@ priceTrack:
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Waves SSL E-Channel | ~$30–$60 | Console EQ on drums, vocals, buses | [Waves.com](https://www.waves.com/plugins/ssl-e-channel) |
-| FabFilter Pro-Q 4 | $179 | Precision shaping with analog curve behavior | [FabFilter](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
-| Arturia 3Filter | ~$49–$99 | Vintage filter coloration and resonance | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
+| FabFilter Pro-Q 4 | $179 | Precision shaping with analog curve behavior | [FabFilter](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-vintage-eq-plugins) |
+| Arturia 3Filter | ~$49–$99 | Vintage filter coloration and resonance | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=best-vintage-eq-plugins) |
 | NI VC 76 | ~$49–$99 | FET dynamics vintage character | [Official Site](https://www.native-instruments.com/en/products/komplete/effects/vc-76/) |
 | TDR SlickEQ | Free | Free analog-style EQ workhorse | [tokyodawn.net](https://www.tokyodawn.net) |
 | Ignite Amps PTEq-X | Free | Free Pultec passive EQ behavior | [igniteamps.com](https://www.igniteamps.com) |
@@ -77,7 +77,7 @@ Reddit's r/mixingmastering consistently ranks Pro-Q 4 as the most recommended pa
 
 **Best for:** Mastering, stem EQ, corrective work, and any situation where full parametric control over analog-style curves matters more than hardware-specific character.
 
-[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-vintage-eq-plugins)
 
 ---
 
@@ -183,7 +183,7 @@ For producers who want to understand what the community means when they say "Pul
 - **Price:** ~$899 (significant saving versus individual plugin purchases)
 - **Why upgrade:** Pro-Q 4 is the centerpiece, but the Total Bundle adds Pro-L 2 (limiting), Pro-C 2 (compression), Pro-MB (multiband dynamics), Pro-DS (de-essing), Saturn 2 (saturation and harmonic distortion), and Timeless 3 (delay). For producers building a complete mixing environment around FabFilter's interface consistency and workflow, the bundle is the most economical path to the full toolkit.
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763)
+[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-vintage-eq-plugins)
 
 ---
 
@@ -192,13 +192,13 @@ For producers who want to understand what the community means when they say "Pul
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Waves SSL E-Channel | ~$30–$60 | Console strip EQ + dynamics | SSL 4000E model; integrated gate and comp | [Get It](https://www.waves.com/plugins/ssl-e-channel) |
-| FabFilter Pro-Q 4 | $179 | Precision EQ + analog curves | Natural Phase; dynamic EQ; analog output stage | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
-| Arturia 3Filter | ~$49–$99 | Vintage filter emulation | TAE analog modeling engine; resonant non-linear response | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
-| NI VC 76 | ~$49–$99 | FET compressor | 1176-style circuit modeling; NI Vintage Collection | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
+| FabFilter Pro-Q 4 | $179 | Precision EQ + analog curves | Natural Phase; dynamic EQ; analog output stage | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-vintage-eq-plugins) |
+| Arturia 3Filter | ~$49–$99 | Vintage filter emulation | TAE analog modeling engine; resonant non-linear response | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-vintage-eq-plugins) |
+| NI VC 76 | ~$49–$99 | FET compressor | 1176-style circuit modeling; NI Vintage Collection | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-vintage-eq-plugins) |
 | TDR SlickEQ | Free | Analog-modeled EQ | Console-style curves; optional output saturation | [tokyodawn.net](https://www.tokyodawn.net) |
 | Ignite Amps PTEq-X | Free | Pultec passive EQ | Passive inductor-based circuit behavior | [igniteamps.com](https://www.igniteamps.com) |
-| Waves SSL 4000 Collection | ~$99–$149 | Console bundle | G-Channel + G-Master Buss Compressor | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
-| FabFilter Total Bundle | ~$899 | Full plugin suite | Pro-Q 4 plus all FabFilter mixing and mastering tools | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763) |
+| Waves SSL 4000 Collection | ~$99–$149 | Console bundle | G-Channel + G-Master Buss Compressor | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-vintage-eq-plugins) |
+| FabFilter Total Bundle | ~$899 | Full plugin suite | Pro-Q 4 plus all FabFilter mixing and mastering tools | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-vintage-eq-plugins) |
 
 ---
 

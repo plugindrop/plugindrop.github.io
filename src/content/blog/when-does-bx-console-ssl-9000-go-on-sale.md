@@ -40,14 +40,14 @@ heroImage: '/images/when-does-bx-console-ssl-9000-go-on-sale.jpg'
 > **Buying tip:** The bx_console SSL 9000 J ($349 MSRP) is almost never sold at list price. Plugin Alliance and PB keep it at $29 year-round, with periodic dips to $25. At this price it competes directly with Waves SSL and often outperforms it in community sound tests. If you see it at $29 or below, that's normal — $25 is the all-time low.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-effects/10-equalizer/8766-bx_console-SSL-9000-J?a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-effects/10-equalizer/8766-bx_console-SSL-9000-J?a_aid=69cb95abe1763&chan=art&data1=when-does-bx-console-ssl-9000-go-on-sale)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 
 
 ## Free Alternatives If You Can't Wait
 
-- **[Waves SSL 4000 Bundle](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/13326-ssl-4000-series-console-bundle?a_aid=69cb95abe1763)** — Different SSL generation ($116-129 going rate) — SSL 4000 vs 9000 J character differences
+- **[Waves SSL 4000 Bundle](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/13326-ssl-4000-series-console-bundle?a_aid=69cb95abe1763&chan=art&data1=when-does-bx-console-ssl-9000-go-on-sale)** — Different SSL generation ($116-129 going rate) — SSL 4000 vs 9000 J character differences
 
 
 ---

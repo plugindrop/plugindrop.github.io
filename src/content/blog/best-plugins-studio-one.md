@@ -20,12 +20,12 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-Q 4 | $179 | Surgical & dynamic EQ | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
+| FabFilter Pro-Q 4 | $179 | Surgical & dynamic EQ | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
 | Valhalla VintageVerb | $50 | Algorithmic reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
-| Serum | $189 | Wavetable synthesis | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one) |
-| iZotope Neutron 4 | From $149 | AI-assisted mixing | [Official Site](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
-| TDR Nova | Free | Dynamics EQ on zero budget | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one) |
-| Valhalla Supermassive | Free | Lush ambient reverb & delay | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one) |
+| Serum | $189 | Wavetable synthesis | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one&chan=art&data1=best-plugins-studio-one) |
+| iZotope Neutron 4 | From $149 | AI-assisted mixing | [Official Site](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
+| TDR Nova | Free | Dynamics EQ on zero budget | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one&chan=art&data1=best-plugins-studio-one) |
+| Valhalla Supermassive | Free | Lush ambient reverb & delay | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one&chan=art&data1=best-plugins-studio-one) |
 | Slate Digital Fresh Air | Free | Instant high-freq enhancement | [Free Download](https://slatedigital.com/free-plugins/) |
 
 ## Introduction
@@ -53,7 +53,7 @@ Developer documentation confirms Pro-Q 4 supports up to 24 EQ bands, with dynami
 
 **Best for:** Mix engineers who need surgical per-band dynamics and a visual workflow that accelerates fast decisions.
 
-[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one)
 
 ---
 
@@ -70,7 +70,7 @@ TDR Nova combines a four-band parametric EQ with per-band dynamics processing, m
 
 **Best for:** Producers on a budget who need real multiband dynamics without a subscription or significant spend.
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one)
+[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one&chan=art&data1=best-plugins-studio-one)
 
 ---
 
@@ -87,7 +87,7 @@ Neutron 4's Track Assistant feature, documented in iZotope's official product ma
 
 **Best for:** Producers who mix their own releases and want intelligent, analyzable starting points instead of working from zero.
 
-[→ Get iZotope Neutron 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763)
+[→ Get iZotope Neutron 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one)
 
 ---
 
@@ -123,7 +123,7 @@ Valhalla documents Supermassive as using a modulated feedback delay network arch
 
 **Best for:** Ambient pads, cinematic swells, and extreme texture work where you need massive reverb density at no cost.
 
-[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one)
+[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one&chan=art&data1=best-plugins-studio-one)
 
 ---
 
@@ -144,7 +144,7 @@ Serum's developer documentation describes a dual oscillator architecture with an
 
 **Best for:** EDM, bass music, pop, and any workflow where wavetable synthesis, visual modulation, and wide preset availability are priorities.
 
-[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one)
+[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one&chan=art&data1=best-plugins-studio-one)
 
 ---
 
@@ -197,7 +197,7 @@ iZotope's documentation for Ozone 12 describes a modular mastering chain includi
 
 **Best for:** Producers mastering their own releases who want a guided, full-chain approach rather than assembling individual mastering plugins.
 
-[→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763)
+[→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one)
 
 ---
 
@@ -233,7 +233,7 @@ The Soundtoys 5 bundle, per the developer's documentation, includes over 20 crea
 
 **Best for:** Producers in hip-hop, lo-fi, indie, and psychedelic pop where tape saturation and character-driven delay are core sounds, not optional additions.
 
-[→ Get Soundtoys 5 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys 5 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one)
 
 ---
 
@@ -264,7 +264,7 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 - **Price:** $189 (one-time); rental-to-own via Splice
 - **Why upgrade:** Free wavetable synthesizers lack Serum's visual modulation routing, the depth of its built-in wavetable editor, and the community preset ecosystem that ships with it — the workflow gap between free options and Serum becomes obvious quickly once you start modulating more than one parameter. The third-party soundpack industry built around Serum has produced a library of patches with no equivalent elsewhere.
 
-[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one)
+[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one&chan=art&data1=best-plugins-studio-one)
 
 ---
 
@@ -276,7 +276,7 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 - **Price:** Bundle pricing (discount from individual purchase total)
 - **Why upgrade:** Pro-Q 4 alone covers EQ, but the Total Bundle adds Pro-MB (multiband dynamics), Pro-C 2 (transparent compressor), Pro-L 2 (industry-standard limiter), Pro-R 2 (algorithmic reverb), Saturn 2 (saturation and distortion), and FabFilter's creative time-based plugins — the entire FabFilter suite shares a consistent visual design language that becomes a real workflow advantage when you're working across mixing and mastering within the same session.
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763)
+[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one)
 
 ---
 
@@ -284,17 +284,17 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| FabFilter Pro-Q 4 | $179 | EQ | 24 bands, per-band dynamic EQ, M/S, linear phase | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
-| TDR Nova | Free | Dynamics EQ | 4-band parametric + per-band compressor/expander | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one) |
-| iZotope Neutron 4 | From $149 | Channel Strip | AI Track Assistant, inter-plugin communication | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763) |
+| FabFilter Pro-Q 4 | $179 | EQ | 24 bands, per-band dynamic EQ, M/S, linear phase | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
+| TDR Nova | Free | Dynamics EQ | 4-band parametric + per-band compressor/expander | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one&chan=art&data1=best-plugins-studio-one) |
+| iZotope Neutron 4 | From $149 | Channel Strip | AI Track Assistant, inter-plugin communication | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
 | Valhalla VintageVerb | $50 | Reverb | Vintage algorithm models, 3 color modes per algo | [Get it](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
-| Valhalla Supermassive | Free | Reverb/Delay | Modulated feedback delay network, extreme tails | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one) |
-| Serum | $189 | Wavetable Synth | Visual modulation matrix, built-in wavetable editor | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one) |
+| Valhalla Supermassive | Free | Reverb/Delay | Modulated feedback delay network, extreme tails | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one&chan=art&data1=best-plugins-studio-one) |
+| Serum | $189 | Wavetable Synth | Visual modulation matrix, built-in wavetable editor | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one&chan=art&data1=best-plugins-studio-one) |
 | Arturia Pigments 5 | ~$99–$199 | Hybrid Synth | 5 oscillator types, deep arpeggiator/sequencer | [Get it](https://www.arturia.com) |
 | u-he Tyrell N6 | Free | Analog Synth | Subtractive architecture, u-he filter quality | [Download](https://u-he.com) |
-| iZotope Ozone 12 | From ~$49 | Mastering | Master Assistant, full mastering chain in one plugin | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
+| iZotope Ozone 12 | From ~$49 | Mastering | Master Assistant, full mastering chain in one plugin | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
 | Slate Digital Fresh Air | Free | Enhancer | Two-control high-freq enhancement, zero setup | [Download](https://slatedigital.com/free-plugins/) |
-| Soundtoys 5 | $499 bundle | Creative FX | 20+ plugins, EchoBoy, Decapitator, Little AlterBoy | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
+| Soundtoys 5 | $499 bundle | Creative FX | 20+ plugins, EchoBoy, Decapitator, Little AlterBoy | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
 | Kilohearts Snap Heap | Free/Paid | Modular FX | Snapin modular chain, macro control across effects | [Get it](https://kilohearts.com) |
 
 ---
@@ -340,7 +340,7 @@ A: These plugins serve genuinely different roles. Pro-Q 4 rewards active mixing 
 
 FabFilter Pro-Q 4 is the clearest first purchase for any Studio One producer who mixes their own music — it solves a real gap in the native toolset, it scales with skill indefinitely, and the community has not produced a credible challenge to its position in over a decade. Pair it with Valhalla VintageVerb and you have covered EQ and reverb at a combined cost of $229 with tools that the community consistently ranks above plugins costing multiples of that.
 
-[→ Start with FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
+[→ Start with FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one)
 
 ---
 

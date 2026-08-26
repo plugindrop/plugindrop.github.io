@@ -3,13 +3,13 @@ title: "Swivel Audio Hitstrip: Features, Pricing & Is It Worth It? (2026)"
 description: "Hitstrip is a channel strip plugin developed by Swivel Audio, available through Plugin Boutique in the Effects >. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-29T16:54:23Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/15573-Swivel-Audio-Hitstrip?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=swivel-audio-hitstrip-f21fcd"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/15573-Swivel-Audio-Hitstrip?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=swivel-audio-hitstrip-f21fcd&chan=art&data1=swivel-audio-hitstrip-f21fcd"
 heroImage: /images/swivel-audio-hitstrip-f21fcd.jpg
 score: 8.15
 draft: false
 converted: true
 ---
-**Swivel Audio Hitstrip** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/15573-Swivel-Audio-Hitstrip?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=swivel-audio-hitstrip-f21fcd)
+**Swivel Audio Hitstrip** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/15573-Swivel-Audio-Hitstrip?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=swivel-audio-hitstrip-f21fcd&chan=art&data1=swivel-audio-hitstrip-f21fcd)
 
 ---
 
@@ -39,7 +39,7 @@ Hitstrip is a channel strip plugin developed by Swivel Audio, available through 
 
 ---
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/15573-Swivel-Audio-Hitstrip?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=swivel-audio-hitstrip-f21fcd)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/15573-Swivel-Audio-Hitstrip?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=swivel-audio-hitstrip-f21fcd&chan=art&data1=swivel-audio-hitstrip-f21fcd)
 
 ---
 
@@ -72,7 +72,7 @@ A: Plugin Boutique lists system requirements per product. Verify platform suppor
 
 At $71 — down from a regular price of $172 — this is one of the steeper percentage discounts you'll see on a dedicated channel strip plugin from an independent developer. The 59% reduction brings it into impulse-buy territory for producers who've been considering adding a channel strip to their workflow.
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/15573-Swivel-Audio-Hitstrip?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=swivel-audio-hitstrip-f21fcd)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/15573-Swivel-Audio-Hitstrip?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=swivel-audio-hitstrip-f21fcd&chan=art&data1=swivel-audio-hitstrip-f21fcd)
 
 ---
 

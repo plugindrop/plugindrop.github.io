@@ -45,14 +45,14 @@ heroImage: '/images/when-does-ssl-4000-bundle-go-on-sale.jpg'
 > **Buying tip:** Waves SSL 4000 Bundle MSRP is $499, but like all Waves products it's on perpetual sale. The $129 BF flash deal and ~$116 at Plugin Discounts represent the real market price. Never buy at $499. Unlike other Waves products, this bundle isn't down to $29 territory — the SSL 4000 bundle commands a higher floor price due to brand prestige.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/13326-ssl-4000-series-console-bundle?a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/13326-ssl-4000-series-console-bundle?a_aid=69cb95abe1763&chan=art&data1=when-does-ssl-4000-bundle-go-on-sale)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 
 
 ## Free Alternatives If You Can't Wait
 
-- **[bx_console SSL 9000 J (Brainworx)](https://www.pluginboutique.com/product/2-effects/10-equalizer/8766-bx_console-SSL-9000-J?a_aid=69cb95abe1763)** — Even deeper discounts (90%+ off, ~$25-29) — often better sound per community comparisons
+- **[bx_console SSL 9000 J (Brainworx)](https://www.pluginboutique.com/product/2-effects/10-equalizer/8766-bx_console-SSL-9000-J?a_aid=69cb95abe1763&chan=art&data1=when-does-ssl-4000-bundle-go-on-sale)** — Even deeper discounts (90%+ off, ~$25-29) — often better sound per community comparisons
 
 
 ---

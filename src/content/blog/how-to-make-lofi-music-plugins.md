@@ -21,9 +21,9 @@ draft: false
 |--------|-------|----------|--------|
 | iZotope Vinyl | Free | Vinyl crackle, dust, and year-based degradation | [Free Download](https://www.izotope.com/en/products/vinyl) |
 | RC-20 Retro Color | $99 | All-in-one noise, wobble, and saturation suite | [Official Site](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
-| Valhalla Supermassive | Free | Lo-fi ambient reverb and shimmer | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-make-lofi-music-plugins) |
-| TAL-Dub-3 | Free | Warm tape delay with BPM sync | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20Dub&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-make-lofi-music-plugins) |
-| Arturia Pigments 5 | $199 | Lo-fi synth textures with built-in vintage character | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
+| Valhalla Supermassive | Free | Lo-fi ambient reverb and shimmer | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-make-lofi-music-plugins&chan=art&data1=how-to-make-lofi-music-plugins) |
+| TAL-Dub-3 | Free | Warm tape delay with BPM sync | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20Dub&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-make-lofi-music-plugins&chan=art&data1=how-to-make-lofi-music-plugins) |
+| Arturia Pigments 5 | $199 | Lo-fi synth textures with built-in vintage character | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=how-to-make-lofi-music-plugins) |
 
 ---
 
@@ -102,7 +102,7 @@ For lo-fi production specifically, community tutorials on r/lofi frequently refe
 
 **Best for:** Any lo-fi producer who needs ambient space, from subtle room character to the wash-out decay on lo-fi ambient pads.
 
-[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-make-lofi-music-plugins)
+[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-make-lofi-music-plugins&chan=art&data1=how-to-make-lofi-music-plugins)
 
 ---
 
@@ -125,7 +125,7 @@ The saturation in the feedback path is the key distinguishing feature: each repe
 
 **Best for:** Lo-fi producers who want tape delay character without a paid plugin — particularly useful on piano, Rhodes, and vocal chop channels.
 
-[→ Download TAL-Dub-3 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Dub&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-make-lofi-music-plugins)
+[→ Download TAL-Dub-3 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Dub&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-make-lofi-music-plugins&chan=art&data1=how-to-make-lofi-music-plugins)
 
 ---
 
@@ -151,7 +151,7 @@ The saturation in the feedback path is the key distinguishing feature: each repe
 - **Price:** $199
 - **Why upgrade:** Free synthesizers typically lack the granular and wavetable engines needed for the evolving, textured pad sounds central to modern lo-fi production. Pigments 5 includes a built-in vintage filter section and analog-modeled FX chain, which reduces the need for a separate character plugin on synth channels — the vintage color is built into the instrument's own signal path.
 
-[→ Get Arturia Pigments 5 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763)
+[→ Get Arturia Pigments 5 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=how-to-make-lofi-music-plugins)
 
 ---
 
@@ -161,9 +161,9 @@ The saturation in the feedback path is the key distinguishing feature: each repe
 |--------|-------|------|------------|-----|
 | iZotope Vinyl | Free | Vinyl simulator | 6 degradation modules, Year dial (1930–1990), broad DAW support | [Download Free](https://www.izotope.com/en/products/vinyl) |
 | RC-20 Retro Color | $99 | Multi-FX lo-fi suite | Noise, Wobble, Distortion, Space, Lag, Lo-Fi modules with interaction | [Get It](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
-| Valhalla Supermassive | Free | Algorithmic reverb | Multiple modes, built-in modulation/chorus, Linux support | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-make-lofi-music-plugins) |
-| TAL-Dub-3 | Free | Tape delay | BPM sync, saturation in feedback path, dub-style character | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Dub&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-make-lofi-music-plugins) |
-| Arturia Pigments 5 | $199 | Synthesizer | Granular/wavetable engines, built-in vintage filter and FX | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
+| Valhalla Supermassive | Free | Algorithmic reverb | Multiple modes, built-in modulation/chorus, Linux support | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-make-lofi-music-plugins&chan=art&data1=how-to-make-lofi-music-plugins) |
+| TAL-Dub-3 | Free | Tape delay | BPM sync, saturation in feedback path, dub-style character | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Dub&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-make-lofi-music-plugins&chan=art&data1=how-to-make-lofi-music-plugins) |
+| Arturia Pigments 5 | $199 | Synthesizer | Granular/wavetable engines, built-in vintage filter and FX | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=how-to-make-lofi-music-plugins) |
 
 ---
 

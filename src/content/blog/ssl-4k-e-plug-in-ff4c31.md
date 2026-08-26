@@ -3,7 +3,7 @@ title: "50% Off SSL 4K E Plug in"
 description: "The SSL 4K E Plug-in is now 50% off at Plugin Boutique — down from ~~$149~~ to just **$74**. This is a first-party channel strip emulation from Solid..."
 pubDate: "2026-06-07T10:23:53Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/11695-SSL-4K-E-Plug-in?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-e-plug-in-ff4c31"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/11695-SSL-4K-E-Plug-in?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-e-plug-in-ff4c31&chan=art&data1=ssl-4k-e-plug-in-ff4c31"
 heroImage: "/images/ssl-4k-e-plug-in-ff4c31.jpg"
 score: 9.12
 dealPrice: "$74.00"
@@ -12,7 +12,7 @@ discount: "50% OFF"
 xText: "ssl 4k e just dropped 50%—lowest price i've tracked it. if you've been waiting for a mastering eq that actually works on real monitors, this is it"
 draft: true
 ---
-**TL;DR:** The SSL 4K E Plug-in is now 50% off at Plugin Boutique — down from ~~$149~~ to just **$74**. This is a first-party channel strip emulation from Solid State Logic themselves, based on the legendary 4000 E Series console. [Grab it at Plugin Boutique while the deal is live.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/11695-SSL-4K-E-Plug-in?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-e-plug-in-ff4c31)
+**TL;DR:** The SSL 4K E Plug-in is now 50% off at Plugin Boutique — down from ~~$149~~ to just **$74**. This is a first-party channel strip emulation from Solid State Logic themselves, based on the legendary 4000 E Series console. [Grab it at Plugin Boutique while the deal is live.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/11695-SSL-4K-E-Plug-in?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-e-plug-in-ff4c31&chan=art&data1=ssl-4k-e-plug-in-ff4c31)
 
 ---
 
@@ -61,7 +61,7 @@ The SSL 4000 E console carries significant weight in mixing communities. On Gear
 
 A 50% discount directly on a manufacturer's own plugin line is worth flagging — SSL doesn't saturate the market with frequent sales, so this kind of half-price drop is a meaningful window. Verify current pricing on the product page — deals can change without notice.
 
-[Get the SSL 4K E Plug-in for $74 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/11695-SSL-4K-E-Plug-in?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-e-plug-in-ff4c31)
+[Get the SSL 4K E Plug-in for $74 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/11695-SSL-4K-E-Plug-in?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-e-plug-in-ff4c31&chan=art&data1=ssl-4k-e-plug-in-ff4c31)
 
 ---
 
@@ -97,7 +97,7 @@ A: Check the Plugin Boutique product page directly — demo availability can var
 
 $74 for a first-party SSL channel strip emulation — that's a straight $75 saving off the regular $149 price. If an SSL 4000 E-style console strip has been on your list, this is the sharpest price point to move on it.
 
-[Get the SSL 4K E Plug-in — 50% Off at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/11695-SSL-4K-E-Plug-in?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-e-plug-in-ff4c31)
+[Get the SSL 4K E Plug-in — 50% Off at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/11695-SSL-4K-E-Plug-in?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-e-plug-in-ff4c31&chan=art&data1=ssl-4k-e-plug-in-ff4c31)
 
 ## Related Guides
 

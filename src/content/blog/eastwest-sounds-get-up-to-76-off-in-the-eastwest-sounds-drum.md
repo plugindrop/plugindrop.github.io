@@ -3,7 +3,7 @@ title: "EastWest Sounds — Get up to 76% off in the EastWest Sounds DrumX + FRE
 description: "EastWest Sounds is running a massive sale — up to 76% off DrumX — and throwing in their Iconic library for FREE. Prices aren't listed here, so verify..."
 pubDate: "2026-06-10T07:15:22Z"
 tags: ["free", "eastwest sounds", "music-production"]
-affiliate: "https://www.pluginboutique.com/deals/23280?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eastwest-sounds-get-up-to-76-off-in-the-eastwest-sounds-drum"
+affiliate: "https://www.pluginboutique.com/deals/23280?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eastwest-sounds-get-up-to-76-off-in-the-eastwest-sounds-drum&chan=art&data1=eastwest-sounds-get-up-to-76-off-in-the-eastwest-sounds-drum"
 heroImage: "/images/eastwest-sounds-get-up-to-76-off-in-the-eastwest-sounds-drum_comfyui.png"
 aiImage: true
 score: 10.00
@@ -13,7 +13,7 @@ saleExpiry: "2026-06-22"
 xText: "free eastwest drums right now + up to 76% off. if you've been putting this off, today's the day you stop sleeping on one of the best drum sound libraries out there"
 draft: true
 ---
-**TL;DR:** EastWest Sounds is running a massive sale — up to 76% off DrumX — and throwing in their Iconic library for FREE. Prices aren't listed here, so verify current numbers on the product page, but a free bonus library on top of a 76% discount is hard to ignore. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/deals/23280?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eastwest-sounds-get-up-to-76-off-in-the-eastwest-sounds-drum)
+**TL;DR:** EastWest Sounds is running a massive sale — up to 76% off DrumX — and throwing in their Iconic library for FREE. Prices aren't listed here, so verify current numbers on the product page, but a free bonus library on top of a 76% discount is hard to ignore. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/deals/23280?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eastwest-sounds-get-up-to-76-off-in-the-eastwest-sounds-drum&chan=art&data1=eastwest-sounds-get-up-to-76-off-in-the-eastwest-sounds-drum)
 
 ---
 
@@ -65,7 +65,7 @@ DrumX is EastWest's drum production instrument, designed to deliver high-quality
 
 Prices aren't confirmed here — verify current pricing on the product page, as deals can change without notice. The free Iconic library is the standout bonus; check whether it's included automatically at checkout or requires a separate redemption step.
 
-[Check current pricing and claim the deal at Plugin Boutique.](https://www.pluginboutique.com/deals/23280?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eastwest-sounds-get-up-to-76-off-in-the-eastwest-sounds-drum)
+[Check current pricing and claim the deal at Plugin Boutique.](https://www.pluginboutique.com/deals/23280?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eastwest-sounds-get-up-to-76-off-in-the-eastwest-sounds-drum&chan=art&data1=eastwest-sounds-get-up-to-76-off-in-the-eastwest-sounds-drum)
 
 ---
 
@@ -101,7 +101,7 @@ A: Refund eligibility depends on Plugin Boutique's policy and EastWest's terms �
 
 Up to 76% off DrumX plus a free Iconic library is a serious stack of value from one of the industry's most established sample developers. Sales like this from EastWest don't run indefinitely.
 
-[Claim the EastWest DrumX deal at Plugin Boutique before it expires.](https://www.pluginboutique.com/deals/23280?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eastwest-sounds-get-up-to-76-off-in-the-eastwest-sounds-drum)
+[Claim the EastWest DrumX deal at Plugin Boutique before it expires.](https://www.pluginboutique.com/deals/23280?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eastwest-sounds-get-up-to-76-off-in-the-eastwest-sounds-drum&chan=art&data1=eastwest-sounds-get-up-to-76-off-in-the-eastwest-sounds-drum)
 
 ## Related Guides
 

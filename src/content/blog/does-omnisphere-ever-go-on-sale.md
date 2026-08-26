@@ -31,7 +31,7 @@ At **$499**, here's how to think about it:
 - **Accept the price** — waiting will not get you a better deal
 
 
-**[Buy Omnisphere 2 on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/70-Synthesiser/1171-Omnisphere-2-Boxed?a_aid=69cb95abe1763)**
+**[Buy Omnisphere 2 on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/70-Synthesiser/1171-Omnisphere-2-Boxed?a_aid=69cb95abe1763&chan=art&data1=does-omnisphere-ever-go-on-sale)**
 
 Plugin Boutique offers Virtual Cash back (typically 5%) on every purchase — the only way to soften the cost.
 
@@ -40,8 +40,8 @@ Plugin Boutique offers Virtual Cash back (typically 5%) on every purchase — th
 
 Since Omnisphere 2 never goes on sale:
 
-- **[Phase Plant](https://www.pluginboutique.com/product/1-Instruments/66-Synth/9255-Phase-Plant?a_aid=69cb95abe1763)** — 50% off 2-3x/year to ~$99 — deep sound design capability at a fraction of the price
-- **[Arturia V Collection](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/3656-V-Collection?a_aid=69cb95abe1763)** — 50% off 3-4x/year to ~$299 — 40+ vintage synth emulations
+- **[Phase Plant](https://www.pluginboutique.com/product/1-Instruments/66-Synth/9255-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=does-omnisphere-ever-go-on-sale)** — 50% off 2-3x/year to ~$99 — deep sound design capability at a fraction of the price
+- **[Arturia V Collection](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/3656-V-Collection?a_aid=69cb95abe1763&chan=art&data1=does-omnisphere-ever-go-on-sale)** — 50% off 3-4x/year to ~$299 — 40+ vintage synth emulations
 - **[Vital](https://vital.audio)** — Free wavetable synth — genuinely impressive sound design capability
 
 

@@ -19,7 +19,7 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-Q 4 | $179 | Surgical EQ on every stem | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
+| FabFilter Pro-Q 4 | $179 | Surgical EQ on every stem | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=hip-hop-mixing-plugin-chain) |
 | OTT (Xfer Records) | Free | Parallel multiband punch | [Free Download](https://xferrecords.com/freeware) |
 | Waves SSL G-Master Buss Compressor | From $29.99 | Drum and mix bus glue | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | iZotope Vinyl | Free | Vintage texture and warmth | [Free Download](https://www.izotope.com/en/products/vinyl) |
@@ -57,7 +57,7 @@ Place Pro-Q 4 on every channel in the session: a static high-pass on all non-bas
 
 **Best for:** Producers who need one EQ that handles both corrective and creative work across all stems without switching tools.
 
-[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=hip-hop-mixing-plugin-chain)
 
 ---
 
@@ -158,7 +158,7 @@ The four-plugin chain above covers EQ, dynamics, and character for a complete hi
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| FabFilter Pro-Q 4 | $179 | Parametric EQ | Dynamic EQ, collision detection, linear phase | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
+| FabFilter Pro-Q 4 | $179 | Parametric EQ | Dynamic EQ, collision detection, linear phase | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=hip-hop-mixing-plugin-chain) |
 | OTT | Free | Multiband Compressor | Upward/downward compression, 3 bands, parallel-ready | [Free Download](https://xferrecords.com/freeware) |
 | Waves SSL G-Master Buss Compressor | From $29.99 | VCA Bus Compressor | SSL 4000G model, Auto Release, drum and mix bus | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | iZotope Vinyl | Free | Vinyl Simulator | Noise, warp, crackle, electrical hum, wear controls | [Free Download](https://www.izotope.com/en/products/vinyl) |
@@ -208,7 +208,7 @@ A: The community answer is consistently yes, with the dynamic EQ mode cited as t
 
 The hip-hop mixing plugin chain documented here — FabFilter Pro-Q 4 for EQ, OTT for parallel density, Waves SSL G-Master Buss Compressor for bus glue, and iZotope Vinyl for character — is built entirely on verifiable community consensus and documented technical design. Two of the four tools are free with no restrictions, which means the only real barrier is applying them in the right sequence. Start with the free tools to establish the workflow, add the SSL G-Master Buss Compressor for bus work, and prioritize Pro-Q 4 when EQ becomes the limiting factor in your mixes.
 
-[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=hip-hop-mixing-plugin-chain)
 
 ---
 

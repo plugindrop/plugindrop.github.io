@@ -18,7 +18,7 @@ We track FabFilter Pro-C 2's price history directly, so this is what buying it h
 | Typical sale (recurring) | $97 | Achievable on a normal sale cycle |
 | All-time low (rare) | $97 | Lowest price we have ever recorded |
 
-[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763).
+[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=cheapest-way-to-get-fabfilter-pro-c-2).
 
 We could not confirm with confidence which bundles currently include FabFilter Pro-C 2, so this guide sticks to the standalone price history above.
 

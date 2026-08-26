@@ -3,13 +3,13 @@ title: "Pulsar Audio Blue Bundle MP EQ VM COMP: Features, Pricing & Is It Worth 
 description: "Pulsar Audio is a French software developer known for deep analog circuit modeling — not just approximations, but. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:27:39Z'
 tags: ["review", "eq", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/9102-Pulsar-Audio-Blue-Bundle-MP-EQ-VM-COMP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-audio-blue-bundle-mp-eq-vm-comp-66a06a"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/9102-Pulsar-Audio-Blue-Bundle-MP-EQ-VM-COMP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-audio-blue-bundle-mp-eq-vm-comp-66a06a&chan=art&data1=pulsar-audio-blue-bundle-mp-eq-vm-comp-66a06a"
 heroImage: /images/pulsar-audio-blue-bundle-mp-eq-vm-comp-66a06a.jpg
 score: 9.32
 draft: false
 converted: true
 ---
-**Pulsar Audio Blue Bundle MP EQ VM COMP** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/9102-Pulsar-Audio-Blue-Bundle-MP-EQ-VM-COMP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-audio-blue-bundle-mp-eq-vm-comp-66a06a)
+**Pulsar Audio Blue Bundle MP EQ VM COMP** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/9102-Pulsar-Audio-Blue-Bundle-MP-EQ-VM-COMP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-audio-blue-bundle-mp-eq-vm-comp-66a06a&chan=art&data1=pulsar-audio-blue-bundle-mp-eq-vm-comp-66a06a)
 
 ---
 
@@ -40,7 +40,7 @@ Pulsar Audio is a French software developer known for deep analog circuit modeli
 
 At $149 for four plugins, that's roughly **$37.25 per processor** — strong value if even two of the four become go-to tools in your sessions. 
 
-[Get the Pulsar Audio Blue Bundle at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/9102-Pulsar-Audio-Blue-Bundle-MP-EQ-VM-COMP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-audio-blue-bundle-mp-eq-vm-comp-66a06a)
+[Get the Pulsar Audio Blue Bundle at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/9102-Pulsar-Audio-Blue-Bundle-MP-EQ-VM-COMP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-audio-blue-bundle-mp-eq-vm-comp-66a06a&chan=art&data1=pulsar-audio-blue-bundle-mp-eq-vm-comp-66a06a)
 
 ---
 
@@ -73,7 +73,7 @@ A: Check the product page for the full list of supported plugin formats and OS c
 
 A four-plugin analog modeling suite is a straightforward win — especially from a developer with Pulsar Audio's reputation for circuit-accurate modeling. The deal is live now at Plugin Boutique.
 
-[Pick up the Pulsar Audio Blue Bundle for $149 →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/9102-Pulsar-Audio-Blue-Bundle-MP-EQ-VM-COMP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-audio-blue-bundle-mp-eq-vm-comp-66a06a)
+[Pick up the Pulsar Audio Blue Bundle for $149 →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/9102-Pulsar-Audio-Blue-Bundle-MP-EQ-VM-COMP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-audio-blue-bundle-mp-eq-vm-comp-66a06a&chan=art&data1=pulsar-audio-blue-bundle-mp-eq-vm-comp-66a06a)
 
 ---
 

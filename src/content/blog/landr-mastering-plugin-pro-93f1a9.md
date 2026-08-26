@@ -3,13 +3,13 @@ title: "LANDR Mastering Plugin PRO: Features, Pricing & Is It Worth It? (2026)"
 description: "LANDR Mastering Plugin PRO is an AI-powered mastering plugin developed by LANDR, the company behind one of the most. Check current pricing at Plugin Boutique."
 pubDate: '2026-05-02T07:30:00Z'
 tags: ["review", "vst-plugin", "effects", "mastering", "music-production"]
-affiliate: https://www.pluginboutique.com/product/2-Effects/50-Mastering-/11463-LANDR-Mastering-Plugin-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=landr-mastering-plugin-pro-93f1a9
+affiliate: https://www.pluginboutique.com/product/2-Effects/50-Mastering-/11463-LANDR-Mastering-Plugin-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=landr-mastering-plugin-pro-93f1a9&chan=art&data1=landr-mastering-plugin-pro-93f1a9
 heroImage: /images/landr-mastering-plugin-pro-93f1a9.jpg
 score: 10.00
 draft: false
 converted: true
 ---
-**LANDR Mastering Plugin PRO** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/50-Mastering-/11463-LANDR-Mastering-Plugin-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=landr-mastering-plugin-pro-93f1a9)
+**LANDR Mastering Plugin PRO** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/50-Mastering-/11463-LANDR-Mastering-Plugin-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=landr-mastering-plugin-pro-93f1a9&chan=art&data1=landr-mastering-plugin-pro-93f1a9)
 
 ---
 
@@ -54,7 +54,7 @@ A 33% reduction on LANDR's plugin is a meaningful move. LANDR runs periodic prom
 
 *Price verified at publication. Check the link for current availability.*
 
-[→ Get LANDR Mastering Plugin PRO at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/50-Mastering-/11463-LANDR-Mastering-Plugin-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=landr-mastering-plugin-pro-93f1a9)
+[→ Get LANDR Mastering Plugin PRO at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/50-Mastering-/11463-LANDR-Mastering-Plugin-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=landr-mastering-plugin-pro-93f1a9&chan=art&data1=landr-mastering-plugin-pro-93f1a9)
 
 ---
 
@@ -87,7 +87,7 @@ A: Activation method is not confirmed in available sources — check the officia
 
 ##  Producers looking for an AI-first, in-DAW mastering tool from an established platform have a clear window here.
 
-[→ Get LANDR Mastering Plugin PRO at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/50-Mastering-/11463-LANDR-Mastering-Plugin-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=landr-mastering-plugin-pro-93f1a9)
+[→ Get LANDR Mastering Plugin PRO at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/50-Mastering-/11463-LANDR-Mastering-Plugin-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=landr-mastering-plugin-pro-93f1a9&chan=art&data1=landr-mastering-plugin-pro-93f1a9)
 
 ---
 

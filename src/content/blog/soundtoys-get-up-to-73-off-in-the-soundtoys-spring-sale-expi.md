@@ -3,13 +3,13 @@ title: "Soundtoys: Features, Pricing & Is It Worth It? (2026)"
 description: "Soundtoys is a Vermont-based plugin developer known for building effects processors with heavy analog character. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-14T23:25:11Z'
 tags: ["review", "soundtoys", "music-production"]
-affiliate: "https://www.pluginboutique.com/deals/22775?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/deals/22775?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763&chan=art&data1=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi"
 heroImage: /images/soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi.png
 score: 5.1
 draft: false
 converted: true
 ---
-**Soundtoys** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/deals/22775?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763)
+**Soundtoys** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/deals/22775?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763&chan=art&data1=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi)
 
 ---
 
@@ -62,7 +62,7 @@ A: Soundtoys supports major DAW formats including VST, AU, and AAX. Check the pr
 
 ## Where to Buy
 
- Seasonal sales like this are the practical window to add these tools at a lower entry cost. [View the Soundtoys Spring Sale at Plugin Boutique](https://www.pluginboutique.com/deals/22775?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763) and confirm pricing before it changes.
+ Seasonal sales like this are the practical window to add these tools at a lower entry cost. [View the Soundtoys Spring Sale at Plugin Boutique](https://www.pluginboutique.com/deals/22775?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi&a_aid=69cb95abe1763&chan=art&data1=soundtoys-get-up-to-73-off-in-the-soundtoys-spring-sale-expi) and confirm pricing before it changes.
 
 ---
 

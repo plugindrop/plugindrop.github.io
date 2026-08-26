@@ -3,13 +3,13 @@ title: "TRITON TRITON Extreme: Features, Pricing & Is It Worth It? (2026)"
 description: "TRITON Extreme is a software instrument plugin based on KORG's iconic TRITON Extreme hardware workstation — a synth. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T04:45:44Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=triton-triton-extreme-9e9e88"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=triton-triton-extreme-9e9e88&chan=art&data1=triton-triton-extreme-9e9e88"
 heroImage: /images/triton-triton-extreme-9e9e88.jpg
 score: 8.45
 draft: false
 converted: true
 ---
-**TRITON TRITON Extreme** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=triton-triton-extreme-9e9e88)
+**TRITON TRITON Extreme** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=triton-triton-extreme-9e9e88&chan=art&data1=triton-triton-extreme-9e9e88)
 
 ---
 
@@ -39,7 +39,7 @@ TRITON Extreme is a software instrument plugin based on KORG's iconic TRITON Ext
 
 ---
 
-[Check the current price and grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=triton-triton-extreme-9e9e88)
+[Check the current price and grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=triton-triton-extreme-9e9e88&chan=art&data1=triton-triton-extreme-9e9e88)
 
 ---
 
@@ -72,7 +72,7 @@ A: Plugin Boutique's refund policy applies — check their terms directly at the
 
 A vintage workstation plugin with a sound library this deep is a deal worth acting on. 
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=triton-triton-extreme-9e9e88)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=triton-triton-extreme-9e9e88&chan=art&data1=triton-triton-extreme-9e9e88)
 
 ---
 

@@ -42,7 +42,7 @@ heroImage: '/images/when-does-ujam-transit-go-on-sale.jpg'
 > **Buying tip:** Baby Audio Transit 2 (co-developed with YouTube producer Andrew Huang) is a creative transition effects plugin. Baby Audio's Black Friday is consistently the best sale window. The $79 intro price at launch was one-time; $69 at BF 2025 is currently the confirmed lowest ever.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-effects/69-Multi-effect/11166-Transit-2?a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-effects/69-Multi-effect/11166-Transit-2?a_aid=69cb95abe1763&chan=art&data1=when-does-ujam-transit-go-on-sale)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 

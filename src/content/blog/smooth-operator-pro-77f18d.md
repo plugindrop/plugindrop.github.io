@@ -3,13 +3,13 @@ title: "Smooth Operator Pro: Features, Pricing & Is It Worth It? (2026)"
 description: "Smooth Operator Pro is a spectral processing and frequency-balancing plugin available on Plugin Boutique. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:28:04Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-77f18d"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-77f18d&chan=art&data1=smooth-operator-pro-77f18d"
 heroImage: /images/smooth-operator-pro-77f18d.jpg
 score: 8.32
 draft: false
 converted: true
 ---
-**Smooth Operator Pro** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-77f18d)
+**Smooth Operator Pro** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-77f18d&chan=art&data1=smooth-operator-pro-77f18d)
 
 ---
 
@@ -42,7 +42,7 @@ Smooth Operator Pro is a spectral processing and frequency-balancing plugin avai
 
  Deals of this size are worth acting on — Plugin Boutique promotions are time-limited and pricing can revert without notice.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-77f18d)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-77f18d&chan=art&data1=smooth-operator-pro-77f18d)
 
 ---
 
@@ -75,7 +75,7 @@ A: Check the Plugin Boutique product page — demo availability varies by develo
 
 A spectral processing tool at this price point is a concrete saving worth logging. The deal is live now on Plugin Boutique — pricing can revert at any time.
 
-[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-77f18d)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-77f18d&chan=art&data1=smooth-operator-pro-77f18d)
 
 ---
 

@@ -3,13 +3,13 @@ title: "SampleTank 4 MAX: Features, Pricing & Is It Worth It? (2026)"
 description: "SampleTank 4 MAX is IK Multimedia's top-tier sample-based virtual instrument workstation. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:28:03Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12447-SampleTank-4-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sampletank-4-max-f073eb
+affiliate: https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12447-SampleTank-4-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sampletank-4-max-f073eb&chan=art&data1=sampletank-4-max-f073eb
 heroImage: /images/sampletank-4-max-f073eb.jpg
 score: 8.35
 draft: false
 converted: true
 ---
-**SampleTank 4 MAX** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12447-SampleTank-4-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sampletank-4-max-f073eb)
+**SampleTank 4 MAX** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12447-SampleTank-4-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sampletank-4-max-f073eb&chan=art&data1=sampletank-4-max-f073eb)
 
 ---
 
@@ -39,7 +39,7 @@ SampleTank 4 has been part of the IK Multimedia ecosystem long enough to build a
 
  Price history tracking suggests this tier of discount doesn't appear every month. Verify current pricing on the product page — deals can change.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12447-SampleTank-4-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sampletank-4-max-f073eb)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12447-SampleTank-4-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sampletank-4-max-f073eb&chan=art&data1=sampletank-4-max-f073eb)
 
 ## Alternatives at a Glance
 

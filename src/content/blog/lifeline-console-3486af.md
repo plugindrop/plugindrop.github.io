@@ -3,7 +3,7 @@ title: "51% Off Lifeline Console"
 description: "Lifeline Console is down to $39 (from ~~$79~~) at Plugin Boutique — that's 51% off a well-regarded analog console channel strip. If you've been sitting on"
 pubDate: "2026-05-07T10:54:47Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/9066-Lifeline-Console?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-console-3486af"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/9066-Lifeline-Console?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-console-3486af&chan=art&data1=lifeline-console-3486af"
 heroImage: "/images/lifeline-console-3486af.jpg"
 score: 8.70
 dealPrice: "$39.00"
@@ -12,7 +12,7 @@ discount: "51% OFF"
 xText: "51% off a mixing console plugin—these never discount this hard. lifeline at this price point is rare. if you've been thinking about upgrading, the window's narrow."
 draft: true
 ---
-**TL;DR:** Lifeline Console is down to **$39** (from ~~$79~~) at Plugin Boutique — that's 51% off a well-regarded analog console channel strip. If you've been sitting on this one, now's a smart time to pull the trigger. [Grab it at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/9066-Lifeline-Console?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-console-3486af)
+**TL;DR:** Lifeline Console is down to **$39** (from ~~$79~~) at Plugin Boutique — that's 51% off a well-regarded analog console channel strip. If you've been sitting on this one, now's a smart time to pull the trigger. [Grab it at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/9066-Lifeline-Console?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-console-3486af&chan=art&data1=lifeline-console-3486af)
 
 ---
 
@@ -57,7 +57,7 @@ Half-price deals on channel strip plugins are not a weekly occurrence — when a
 
 > **Note:** Verify current pricing on the product page — deals can change.
 
-[Get Lifeline Console for $39 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/9066-Lifeline-Console?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-console-3486af)
+[Get Lifeline Console for $39 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/9066-Lifeline-Console?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-console-3486af&chan=art&data1=lifeline-console-3486af)
 
 ---
 
@@ -91,7 +91,7 @@ A: Platform support details are listed on the product page — confirm before pu
 
 ## Get the Deal
 
-Lifeline Console at ~~$79~~ down to **$39** is a clean 51% saving on an analog console channel strip — worth checking out if console-style processing is a gap in your plugin rack. [Grab the deal at Plugin Boutique before it expires →](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/9066-Lifeline-Console?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-console-3486af)
+Lifeline Console at ~~$79~~ down to **$39** is a clean 51% saving on an analog console channel strip — worth checking out if console-style processing is a gap in your plugin rack. [Grab the deal at Plugin Boutique before it expires →](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/9066-Lifeline-Console?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lifeline-console-3486af&chan=art&data1=lifeline-console-3486af)
 
 ## Related Guides
 

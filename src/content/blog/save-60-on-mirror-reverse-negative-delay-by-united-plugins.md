@@ -3,13 +3,13 @@ title: "Mirror reverse negative delay: Features, Pricing & Is It Worth It? (2026
 description: "Mirror is a creative delay effect plugin developed by United Plugins in collaboration with JMG Sound. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-20T09:24:52Z'
 tags: ["review", "delay", "reverb", "united plugins", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/10-Delay/8658-Mirror?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-60-on-mirror-reverse-negative-delay-by-united-plugins"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/10-Delay/8658-Mirror?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-60-on-mirror-reverse-negative-delay-by-united-plugins&chan=art&data1=save-60-on-mirror-reverse-negative-delay-by-united-plugins"
 heroImage: /images/save-60-on-mirror-reverse-negative-delay-by-united-plugins.jpg
 score: 8.1
 draft: false
 converted: true
 ---
-**Mirror reverse negative delay** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/10-Delay/8658-Mirror?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-60-on-mirror-reverse-negative-delay-by-united-plugins)
+**Mirror reverse negative delay** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/10-Delay/8658-Mirror?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-60-on-mirror-reverse-negative-delay-by-united-plugins&chan=art&data1=save-60-on-mirror-reverse-negative-delay-by-united-plugins)
 
 ---
 
@@ -47,7 +47,7 @@ Mirror is a niche, somewhat specialized tool, so large-scale community threads a
 
 Exact current pricing varies — **verify the live price on the product page**, as deals can update. 
 
-[Check the current sale price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/8658-Mirror?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-60-on-mirror-reverse-negative-delay-by-united-plugins)
+[Check the current sale price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/8658-Mirror?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-60-on-mirror-reverse-negative-delay-by-united-plugins&chan=art&data1=save-60-on-mirror-reverse-negative-delay-by-united-plugins)
 
 ---
 
@@ -83,7 +83,7 @@ A: United Plugins often offers trial versions of their plugins — check the Plu
 
 If the sound design angle appeals, now is a reasonable time to move on it.
 
-[Save 60% on Mirror at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/8658-Mirror?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-60-on-mirror-reverse-negative-delay-by-united-plugins)
+[Save 60% on Mirror at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/8658-Mirror?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-60-on-mirror-reverse-negative-delay-by-united-plugins&chan=art&data1=save-60-on-mirror-reverse-negative-delay-by-united-plugins)
 
 ---
 

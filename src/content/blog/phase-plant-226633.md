@@ -3,7 +3,7 @@ title: "50% Off Phase Plant"
 description: "Phase Plant by Kilohearts is currently **50% off** at Plugin Boutique — drop from ~~$199~~ to **$99**. That's a significant discount on one of the most..."
 pubDate: "2026-05-29T05:41:20Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-226633"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-226633&chan=art&data1=phase-plant-226633"
 heroImage: "/images/phase-plant-226633.jpg"
 score: 10.00
 dealPrice: "$99.00"
@@ -12,7 +12,7 @@ discount: "50% OFF"
 xText: "phase plant just dropped to 50% off — lowest i've seen it go. modulation depth this good usually costs way more. if you've been waiting on it, this is the moment."
 draft: true
 ---
-**TL;DR:** Phase Plant by Kilohearts is currently **50% off** at Plugin Boutique — drop from ~~$199~~ to **$99**. That's a significant discount on one of the most flexible modular synths available for producers. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-226633)
+**TL;DR:** Phase Plant by Kilohearts is currently **50% off** at Plugin Boutique — drop from ~~$199~~ to **$99**. That's a significant discount on one of the most flexible modular synths available for producers. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-226633&chan=art&data1=phase-plant-226633)
 
 ---
 
@@ -63,7 +63,7 @@ Half-price sales on flagship synths at this tier don't happen constantly. Kilohe
 
 > Verify current pricing on the product page — deals can change.
 
-[Get Phase Plant for $99 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-226633)
+[Get Phase Plant for $99 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-226633&chan=art&data1=phase-plant-226633)
 
 ---
 
@@ -99,7 +99,7 @@ A: Refund terms vary — check Plugin Boutique's official policy before purchasi
 
 Phase Plant at ~~$199~~ **$99** is a 50% saving on a synthesis tool built for serious sound design. The multi-engine architecture and Snapin integration set it apart at this price point.
 
-[Claim 50% off Phase Plant at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-226633)
+[Claim 50% off Phase Plant at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-226633&chan=art&data1=phase-plant-226633)
 
 ## Related Guides
 

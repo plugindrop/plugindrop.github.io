@@ -3,7 +3,7 @@ title: "All In One InstaChord 2 Presets: Features, Pricing & Is It Worth It? (20
 description: "All In One InstaChord 2 Presets is a preset expansion library built specifically for InstaChord 2, the. Check current pricing at Plugin Boutique."
 pubDate: '2026-05-01T04:04:39Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/31-Synth-Presets/7920-All-In-One-InstaChord-2-Presets?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=all-in-one-instachord-2-presets-b92f27"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/31-Synth-Presets/7920-All-In-One-InstaChord-2-Presets?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=all-in-one-instachord-2-presets-b92f27&chan=art&data1=all-in-one-instachord-2-presets-b92f27"
 heroImage: /images/all-in-one-instachord-2-presets-b92f27.jpg
 score: 8.82
 draft: false

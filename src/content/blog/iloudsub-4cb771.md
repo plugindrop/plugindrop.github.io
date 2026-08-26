@@ -3,12 +3,12 @@ title: "iloudsub"
 description: "IK Multimedia's iLoud Sub is a compact powered studio subwoofer built to close the low-frequency gap in near-field monitoring setups. Prices aren't listed"
 pubDate: "2026-04-22T11:32:17Z"
 tags: ["hardware", "studio-monitor", "music-production"]
-affiliate: "https://www.pluginboutique.com/manufacturers/410-IK-Multimedia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=iloudsub-4cb771"
+affiliate: "https://www.pluginboutique.com/manufacturers/410-IK-Multimedia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=iloudsub-4cb771&chan=art&data1=iloudsub-4cb771"
 score: 4.30
 xText: "iloudsub's new release finally does loudness right. one of those drops where the tool actually gets out of your way instead of adding complexity. worth checking out if you're cutting the plugin bloat."
 draft: true
 ---
-**TL;DR:** IK Multimedia's iLoud Sub is a compact powered studio subwoofer built to close the low-frequency gap in near-field monitoring setups. Prices aren't listed here — verify current pricing on the product page. [Check the current deal at Plugin Boutique.](https://www.pluginboutique.com/manufacturers/410-IK-Multimedia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=iloudsub-4cb771)
+**TL;DR:** IK Multimedia's iLoud Sub is a compact powered studio subwoofer built to close the low-frequency gap in near-field monitoring setups. Prices aren't listed here — verify current pricing on the product page. [Check the current deal at Plugin Boutique.](https://www.pluginboutique.com/manufacturers/410-IK-Multimedia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=iloudsub-4cb771&chan=art&data1=iloudsub-4cb771)
 
 ---
 
@@ -45,7 +45,7 @@ iLoud Sub is a powered studio subwoofer from IK Multimedia, engineered to extend
 
 No promotional pricing is confirmed at time of writing. Verify current pricing directly on the product page — deals can change without notice.
 
-[See the latest pricing on Plugin Boutique →](https://www.pluginboutique.com/manufacturers/410-IK-Multimedia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=iloudsub-4cb771)
+[See the latest pricing on Plugin Boutique →](https://www.pluginboutique.com/manufacturers/410-IK-Multimedia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=iloudsub-4cb771&chan=art&data1=iloudsub-4cb771)
 
 ---
 
@@ -81,7 +81,7 @@ A: As a standalone hardware subwoofer, it connects via standard audio cables rat
 
 iLoud Sub is a focused, ecosystem-matched solution for producers who want accurate sub-bass monitoring without sacrificing desk space. Verify the current price and check for active promotions before buying.
 
-[Browse iLoud Sub and all IK Multimedia deals at Plugin Boutique →](https://www.pluginboutique.com/manufacturers/410-IK-Multimedia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=iloudsub-4cb771)
+[Browse iLoud Sub and all IK Multimedia deals at Plugin Boutique →](https://www.pluginboutique.com/manufacturers/410-IK-Multimedia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=iloudsub-4cb771&chan=art&data1=iloudsub-4cb771)
 
 ---
 

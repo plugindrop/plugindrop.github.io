@@ -4,7 +4,7 @@ description: "Ableton Live vs Logic Pro compared on price, workflow, plugins, an
 pubDate: "2026-06-08T00:00:00Z"
 updatedDate: "2026-06-08T00:00:00Z"
 tags: ["guide", "daw", "alternatives", "music-production"]
-affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ableton-vs-logic-pro"
+affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ableton-vs-logic-pro&chan=art&data1=ableton-live-vs-logic-pro-2026"
 heroImage: "/images/ableton-live-vs-logic-pro-2026.jpg"
 evergreen: true
 score: 8.00
@@ -104,7 +104,7 @@ Logic's mixing board view is a full-featured console with channel strips, buses,
 
 Both DAWs support VST3 and AU plugins, so your plugin library is fully transferable between them. Whether you are running Serum, Kontakt, Fabfilter, or Waves, everything works in either DAW.
 
-If you are building out a plugin collection, [Plugin Boutique](https://www.pluginboutique.com/deals?a_aid=69cb95abe1763) is a reliable source for VSTs, sample packs, and deals — the same plugins work in both Logic and Ableton.
+If you are building out a plugin collection, [Plugin Boutique](https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&chan=art&data1=ableton-live-vs-logic-pro-2026) is a reliable source for VSTs, sample packs, and deals — the same plugins work in both Logic and Ableton.
 
 ---
 

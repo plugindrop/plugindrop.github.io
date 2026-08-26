@@ -3,13 +3,13 @@ title: "PUNCH: Features, Pricing & Is It Worth It? (2026)"
 description: "PUNCH is a transient shaper plugin available on Plugin Boutique, designed to give producers and mixing engineers. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:28:09Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14224-PUNCH?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=punch-09c52f"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14224-PUNCH?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=punch-09c52f&chan=art&data1=punch-09c52f"
 heroImage: /images/punch-09c52f.jpg
 score: 8.32
 draft: false
 converted: true
 ---
-**PUNCH** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14224-PUNCH?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=punch-09c52f)
+**PUNCH** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14224-PUNCH?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=punch-09c52f&chan=art&data1=punch-09c52f)
 
 ---
 
@@ -32,7 +32,7 @@ Transient shapers in this price range typically offer a focused, surgical toolse
 - **Transient Detection** — Processes signal dynamics intelligently to respond to real transient content rather than simple level thresholds
 - **Mix-Ready Design** — Built for use on individual channels or buses within modern DAW workflows
 
-Check the [official product page](https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14224-PUNCH?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=punch-09c52f) for the full feature list, format support (VST/AU/AAX), and system requirements.
+Check the [official product page](https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14224-PUNCH?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=punch-09c52f&chan=art&data1=punch-09c52f) for the full feature list, format support (VST/AU/AAX), and system requirements.
 
 ---
 
@@ -47,7 +47,7 @@ Check the [official product page](https://www.pluginboutique.com/product/2-Effec
 
  Many specialized effects plugins in the $100–$150 range don't see frequent discounts, so if PUNCH is on your radar, check current pricing on the product page.
 
-**[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14224-PUNCH?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=punch-09c52f)**
+**[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14224-PUNCH?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=punch-09c52f&chan=art&data1=punch-09c52f)**
 
 ---
 
@@ -83,7 +83,7 @@ A: Check the product listing on Plugin Boutique — some plugins offer a time-li
 
 A dedicated transient shaper is a straightforward win for any producer's toolkit. The deal is live now at Plugin Boutique — don't leave it sitting in a browser tab.
 
-**[Pick up PUNCH for $99 →](https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14224-PUNCH?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=punch-09c52f)**
+**[Pick up PUNCH for $99 →](https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14224-PUNCH?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=punch-09c52f&chan=art&data1=punch-09c52f)**
 
 ---
 

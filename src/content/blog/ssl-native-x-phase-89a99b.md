@@ -3,7 +3,7 @@ title: "90% Off SSL Native X Phase — Phase Alignment Tool ($10)"
 description: "SSL Native X Phase is on sale at Plugin Boutique for $10, down from ~~$99~~ — a 90% discount. If phase alignment and correction are part of your mixing or..."
 pubDate: "2026-07-27T05:25:46Z"
 tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-phase-89a99b"
+affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-phase-89a99b&chan=art&data1=ssl-native-x-phase-89a99b"
 heroImage: "/images/ssl-native-x-phase-89a99b.jpg"
 score: 6.90
 dealPrice: "$10.00"
@@ -12,7 +12,7 @@ discount: "90% OFF"
 xText: "ssl phase plugins don't move this much. 90% off on something that already had people convinced it just works. that's not hype that's weird"
 draft: false
 ---
-**TL;DR:** SSL Native X Phase is on sale at Plugin Boutique for $10, down from ~~$99~~ — a 90% discount. If phase alignment and correction are part of your mixing or mastering workflow, this is a low-risk way to add an SSL-built tool to your rack. [Grab the deal here](https://www.pluginboutique.com/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-phase-89a99b).
+**TL;DR:** SSL Native X Phase is on sale at Plugin Boutique for $10, down from ~~$99~~ — a 90% discount. If phase alignment and correction are part of your mixing or mastering workflow, this is a low-risk way to add an SSL-built tool to your rack. [Grab the deal here](https://www.pluginboutique.com/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-phase-89a99b&chan=art&data1=ssl-native-x-phase-89a99b).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EjzrfjL7tFs" title="90% Off SSL Native X Phase — Phase Alignment Tool ($10) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -46,7 +46,7 @@ SSL Native X Phase is a plugin from Solid State Logic, the UK manufacturer best 
 
 SSL periodically discounts individual Native plugins through Plugin Boutique, and cuts of this size are notable for a brand built on premium-priced console emulation software. Verify current pricing on the product page — deals can change without notice.
 
-[See the current price at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-phase-89a99b).
+[See the current price at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-phase-89a99b&chan=art&data1=ssl-native-x-phase-89a99b).
 
 ## Alternatives at a Glance
 
@@ -74,7 +74,7 @@ A: Activation limits vary by plugin and vendor policy. Check the official site o
 
 ## Get the Deal
 
-$10 for an SSL Native plugin, down from $99, is a 90% reduction while it lasts. [Get SSL Native X Phase at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-phase-89a99b) before pricing reverts.
+$10 for an SSL Native plugin, down from $99, is a 90% reduction while it lasts. [Get SSL Native X Phase at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-phase-89a99b&chan=art&data1=ssl-native-x-phase-89a99b) before pricing reverts.
 
 ## Is This Deal Worth It?
 

@@ -16,10 +16,10 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Klanghelm DC8C | Free (gratis version) | Learning sidechain compression without cost | [Plugin Boutique](https://www.pluginboutique.com/search?q=Klanghelm+DC8C&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression) |
-| FabFilter Pro-C 2 | $179 | Transparent or pumping sidechain in any context | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763) |
-| Xfer LFO Tool | $20 | Volume automation-style pumping as sidechain alternative | [Plugin Boutique](https://www.pluginboutique.com/search?q=Xfer+LFO+Tool&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression) |
-| Waves OneKnob Pumper | ~$29 | Fast, tempo-synced sidechain effect without routing | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves+OneKnob+Pumper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression) |
+| Klanghelm DC8C | Free (gratis version) | Learning sidechain compression without cost | [Plugin Boutique](https://www.pluginboutique.com/search?q=Klanghelm%20DC8C&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression&chan=art&data1=how-to-sidechain-compression) |
+| FabFilter Pro-C 2 | $179 | Transparent or pumping sidechain in any context | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=how-to-sidechain-compression) |
+| Xfer LFO Tool | $20 | Volume automation-style pumping as sidechain alternative | [Plugin Boutique](https://www.pluginboutique.com/search?q=Xfer%20LFO%20Tool&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression&chan=art&data1=how-to-sidechain-compression) |
+| Waves OneKnob Pumper | ~$29 | Fast, tempo-synced sidechain effect without routing | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20OneKnob%20Pumper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression&chan=art&data1=how-to-sidechain-compression) |
 
 ---
 
@@ -73,7 +73,7 @@ For pumping sidechain: ratio 8:1 or higher, threshold at -20 to -30 dB (so the k
 
 **Starting settings for kick-bass sidechain:** Ratio 8:1, Threshold -25 dB, Attack 10ms, Release 150ms (adjust for your BPM), Makeup Gain +3–6 dB.
 
-[→ Get Klanghelm DC8C Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Klanghelm+DC8C&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression)
+[→ Get Klanghelm DC8C Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Klanghelm%20DC8C&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression&chan=art&data1=how-to-sidechain-compression)
 
 ---
 
@@ -96,7 +96,7 @@ The Classic mode in Pro-C 2 produces the most natural-sounding compression behav
 
 **Key filter setting for kick-bass sidechain:** High-pass filter at 120 Hz in the sidechain panel. This removes sub-bass from the trigger signal and tightens the response.
 
-[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=how-to-sidechain-compression)
 
 ---
 
@@ -156,7 +156,7 @@ Sidechain compression in 2026 is both a standard mixing technique and a stylisti
 
 Klanghelm DC8C free is the right starting tool for learning the concept. FabFilter Pro-C 2 is the standard recommendation for professional mixing where sidechain display, key filtering, and algorithmic flexibility matter.
 
-[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=how-to-sidechain-compression)
 
 ---
 

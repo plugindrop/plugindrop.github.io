@@ -3,7 +3,7 @@ title: "Portatron: Features, Pricing & Is It Worth It? (2026)"
 description: "Portatron is a virtual instrument by Robotic Bean that emulates the experience of a 4-track cassette recorder — think. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-02T07:02:01Z'
 tags: ["review", "robotic bean", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763&chan=art&data1=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou"
 heroImage: "/images/robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou.jpg"
 score: 5.16
 draft: false
@@ -14,7 +14,7 @@ converted: true
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OtcAuBR3PmM" title="Portatron: Features, Pricing & Is It Worth It? (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-**Portatron** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763)
+**Portatron** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763&chan=art&data1=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou)
 
 ---
 
@@ -44,7 +44,7 @@ Portatron occupies a specific niche — it's not trying to be an all-purpose sam
 
  
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763&chan=art&data1=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou)
 
 ## Alternatives at a Glance
 
@@ -74,7 +74,7 @@ A: No. It's monophonic by design — you can layer up to four sounds across the 
 
  If tape-loop textures and lo-fi character are part of your production toolkit, this is a good time to pick it up. 
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?utm_source=plugindrop&utm_medium=article&utm_campaign=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou&a_aid=69cb95abe1763&chan=art&data1=robotic-bean-get-30-off-portatron-by-robotic-bean-the-discou)
 
 ---
 

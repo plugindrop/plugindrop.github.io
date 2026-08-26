@@ -3,13 +3,13 @@ title: "Transit 2: Features, Pricing & Is It Worth It? (2026)"
 description: "Transit 2 is a multi-effect plugin from Sugar Bytes designed specifically for creating powerful transitions, drops. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:28:05Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c&chan=art&data1=transit-2-43f69c"
 heroImage: /images/transit-2-43f69c.jpg
 score: 8.32
 draft: false
 converted: true
 ---
-**Transit 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c)
+**Transit 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c&chan=art&data1=transit-2-43f69c)
 
 ---
 
@@ -44,7 +44,7 @@ Check the product page for full system requirements and activation details, as t
 
 > **Note:** Verify current pricing on the product page — deals can change without notice.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c&chan=art&data1=transit-2-43f69c)
 
 ---
 
@@ -77,7 +77,7 @@ A: System requirements (macOS/Windows versions, RAM, CPU) are listed on the offi
 
 Transit 2 is down 39% to **$79.00**, saving you the regular  price. For a dedicated transitions and drops plugin from Sugar Bytes, that's a strong entry point.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c&chan=art&data1=transit-2-43f69c)
 
 ---
 

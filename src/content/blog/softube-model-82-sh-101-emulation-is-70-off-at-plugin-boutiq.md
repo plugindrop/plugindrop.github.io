@@ -3,13 +3,13 @@ title: "Softube Model 82 SH-101 emulation: Features, Pricing & Is It Worth It? (
 description: "Model 82 is Softube's software recreation of the Roland SH-101, the legendary monophonic synthesizer first released in 1982."
 pubDate: '2026-04-14T11:06:17Z'
 tags: ["review", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763&chan=art&data1=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq"
 heroImage: /images/softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq.jpg
 score: 6.71
 draft: false
 converted: true
 ---
-**Softube Model 82 SH-101 emulation** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763)
+**Softube Model 82 SH-101 emulation** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763&chan=art&data1=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq)
 
 ---
 
@@ -49,7 +49,7 @@ The SH-101 occupies a near-mythic status in electronic music history, so any qua
 
 Verify current pricing on the product page, as deals can change without notice.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763&chan=art&data1=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq)
 
 ---
 
@@ -85,7 +85,7 @@ A: Check the official product page for current macOS and Windows compatibility d
 
 Verify current pricing on the product page, as deals can change without notice.
 
-[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq&a_aid=69cb95abe1763&chan=art&data1=softube-model-82-sh-101-emulation-is-70-off-at-plugin-boutiq)
 
 ---
 

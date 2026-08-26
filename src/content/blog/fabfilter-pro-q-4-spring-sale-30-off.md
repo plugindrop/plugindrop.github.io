@@ -3,7 +3,7 @@ title: "FabFilter Pro-Q 4: Features, Pricing & Is It Worth It? (2026)"
 description: "FabFilter Pro-Q is a parametric EQ plugin used widely in professional mixing and mastering workflows. Check current pricing at Plugin Boutique."
 pubDate: '2026-03-26T09:00:00Z'
 tags: ["review", "vst-plugin", "eq", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off&chan=art&data1=fabfilter-pro-q-4-spring-sale-30-off"
 heroImage: /images/fabfilter-pro-q-4-spring-sale-30-off.jpg
 score: 7.7
 draft: false
@@ -12,7 +12,7 @@ converted: true
 priceTrack:
   - "FabFilter Pro-Q 4"
 ---
-**FabFilter Pro-Q 4** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off)
+**FabFilter Pro-Q 4** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off&chan=art&data1=fabfilter-pro-q-4-spring-sale-30-off)
 
 ---
 
@@ -53,7 +53,7 @@ Pro-Q has been a staple recommendation on mixing forums for years. On Reddit's r
 
 Verify current pricing on the product page — deals can change.
 
-[See Pro-Q 4 Deal](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off)
+[See Pro-Q 4 Deal](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off&chan=art&data1=fabfilter-pro-q-4-spring-sale-30-off)
 
 ## Alternatives at a Glance
 
@@ -84,4 +84,4 @@ A: Check the official FabFilter site for the latest supported formats and OS req
 
  FabFilter doesn't go deeper than 30%, so this is their standard best price.
 
-[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off&chan=art&data1=fabfilter-pro-q-4-spring-sale-30-off)

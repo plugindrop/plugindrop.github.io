@@ -3,7 +3,7 @@ title: "38% Off Damage 2"
 description: "Damage 2 by Heavyocity is currently 38% off at Plugin Boutique — dropping from ~~$399~~ to **$249**, saving you $150 on one of the most recognized..."
 pubDate: "2026-06-05T13:35:26Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/6669-Damage-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=damage-2-189e9c"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/6669-Damage-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=damage-2-189e9c&chan=art&data1=damage-2-189e9c"
 heroImage: "/images/damage-2-189e9c.jpg"
 score: 10.00
 dealPrice: "$249.00"
@@ -12,7 +12,7 @@ discount: "38% OFF"
 xText: "damage 2 at 38% off. fabfilter saturation rarely sits this low. been waiting for a dip? this is probably it."
 draft: true
 ---
-**TL;DR:** Damage 2 by Heavyocity is currently 38% off at Plugin Boutique — dropping from ~~$399~~ to **$249**, saving you $150 on one of the most recognized cinematic percussion libraries available for Kontakt. If you've been waiting for a sale on this title, this is worth a serious look. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/6669-Damage-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=damage-2-189e9c)
+**TL;DR:** Damage 2 by Heavyocity is currently 38% off at Plugin Boutique — dropping from ~~$399~~ to **$249**, saving you $150 on one of the most recognized cinematic percussion libraries available for Kontakt. If you've been waiting for a sale on this title, this is worth a serious look. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/6669-Damage-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=damage-2-189e9c&chan=art&data1=damage-2-189e9c)
 
 ---
 
@@ -55,7 +55,7 @@ Damage 2 is a cinematic hybrid percussion instrument developed by Heavyocity, bu
 
 A $150 discount on a flagship Kontakt instrument is a meaningful saving. Heavyocity titles don't go on deep sale constantly — when they do move, it's worth paying attention. Verify current pricing on the product page, as deals can change.
 
-[Check current pricing and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/6669-Damage-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=damage-2-189e9c)
+[Check current pricing and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/6669-Damage-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=damage-2-189e9c&chan=art&data1=damage-2-189e9c)
 
 ---
 
@@ -91,7 +91,7 @@ A: Damage 2 includes an expanded sample library, updated performance tools, and 
 
 $150 off a premium Kontakt instrument doesn't happen every week — 38% is a strong discount on a Heavyocity flagship title. If cinematic and hybrid percussion is part of your workflow, this is the kind of sale worth acting on.
 
-[Get Damage 2 for $249 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/6669-Damage-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=damage-2-189e9c)
+[Get Damage 2 for $249 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/6669-Damage-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=damage-2-189e9c&chan=art&data1=damage-2-189e9c)
 
 ## Related Guides
 

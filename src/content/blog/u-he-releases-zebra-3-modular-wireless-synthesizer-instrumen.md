@@ -3,13 +3,13 @@ title: "u-he releases Zebra 3 modular wireless synthesizer instrument"
 description: "u-he has officially launched Zebra 3, the long-awaited successor to the iconic Zebra 2 wireless modular synthesizer. Zebra 2 built a cult following over"
 pubDate: "2026-04-20T11:06:36Z"
 tags: ["sale", "instruments", "clap", "synth", "u-he", "zebra", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17180-Zebra-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17180-Zebra-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen&chan=art&data1=u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen"
 score: 7.44
 dealPrice: "€249"
 heroImage: "/images/u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen.jpg"
 
 ---
-**TL;DR:** u-he has officially launched Zebra 3, the long-awaited successor to the iconic Zebra 2 wireless modular synthesizer. Zebra 2 built a cult following over decades; Zebra 3 arrives with a rebuilt architecture and expanded modular depth. [Grab Zebra 3 directly from u-he](https://www.pluginboutique.com/search?q=zebra3&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen) — check the product page for current launch pricing.
+**TL;DR:** u-he has officially launched Zebra 3, the long-awaited successor to the iconic Zebra 2 wireless modular synthesizer. Zebra 2 built a cult following over decades; Zebra 3 arrives with a rebuilt architecture and expanded modular depth. [Grab Zebra 3 directly from u-he](https://www.pluginboutique.com/search?q=zebra3&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen&chan=art&data1=u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen) — check the product page for current launch pricing.
 
 ---
 
@@ -55,7 +55,7 @@ Since Zebra 3 is a new launch, pricing details should be confirmed directly on t
 
 Verify current pricing on the product page — deals can change.
 
-[Check Zebra 3 pricing and order at u-he →](https://www.pluginboutique.com/search?q=zebra3&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen)
+[Check Zebra 3 pricing and order at u-he →](https://www.pluginboutique.com/search?q=zebra3&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen&chan=art&data1=u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen)
 
 ---
 
@@ -91,7 +91,7 @@ A: Check the official u-he site for compatibility details, as preset portability
 
 Zebra 3 is live now — one of the most anticipated synth releases from one of the most respected plugin developers in the industry. Don't wait on the fence if you've been a Zebra 2 user or a u-he fan.
 
-[Get Zebra 3 at u-he →](https://www.pluginboutique.com/search?q=zebra3&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen)
+[Get Zebra 3 at u-he →](https://www.pluginboutique.com/search?q=zebra3&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen&chan=art&data1=u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen)
 
 ---
 

@@ -23,11 +23,11 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| HY-Arp4 Free | Free | Beginners wanting step-based arp control | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) |
-| Xfer Cthulhu | ~$40 | Chord-triggered arp patterns in EDM and pop | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) |
-| Riffer | ~$39 | Generative melodic arp ideas and pattern-breaking | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) |
-| Scaler 2 | ~$59 | Scale-aware chord progressions with built-in arp engine | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) |
-| Sugar Bytes Thesys | ~$99 | Advanced step-sequenced arpeggiation with per-step modulation | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) |
+| HY-Arp4 Free | Free | Beginners wanting step-based arp control | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins) |
+| Xfer Cthulhu | ~$40 | Chord-triggered arp patterns in EDM and pop | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins) |
+| Riffer | ~$39 | Generative melodic arp ideas and pattern-breaking | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins) |
+| Scaler 2 | ~$59 | Scale-aware chord progressions with built-in arp engine | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins) |
+| Sugar Bytes Thesys | ~$99 | Advanced step-sequenced arpeggiation with per-step modulation | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins) |
 
 ---
 
@@ -58,7 +58,7 @@ HY-Plugins is a Japanese developer with a consistent record of providing meaning
 
 **Best for:** Any producer on any DAW who needs step-programmable arp patterns with per-note velocity and length control, at zero cost.
 
-[→ Download HY-Arp4 Free on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763)
+[→ Download HY-Arp4 Free on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins)
 
 ---
 
@@ -81,7 +81,7 @@ The arp section offers per-step control of pitch offset, velocity, length, and o
 
 **Best for:** Electronic, pop, and EDM producers who want chord-aware, step-programmable arpeggiator output without paying for a full music-theory suite.
 
-[→ Get Xfer Cthulhu on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763)
+[→ Get Xfer Cthulhu on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins)
 
 ---
 
@@ -100,7 +100,7 @@ Riffer has no built-in awareness of key or scale, so producers regularly pair it
 
 **Best for:** Producers in ambient, IDM, experimental, or progressive genres who want algorithmic melodic content rather than hand-programmed arp patterns.
 
-[→ Get Riffer on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763)
+[→ Get Riffer on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins)
 
 ---
 
@@ -119,7 +119,7 @@ Community discussion consistently positions Scaler 2 as the better single-plugin
 
 **Best for:** Producers who want chord progressions, scale awareness, and arpeggiation in a single plugin — particularly those who want to strengthen their harmonic vocabulary alongside their melodic production.
 
-[→ Get Scaler 2 on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763)
+[→ Get Scaler 2 on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins)
 
 ---
 
@@ -138,7 +138,7 @@ Thesys has the steepest learning curve of any tool here. It is not the right too
 
 **Best for:** Advanced producers in demanding genres who require simultaneous pitch sequencing and per-step MIDI CC modulation in a single arpeggiator/sequencer environment.
 
-[→ Get Sugar Bytes Thesys on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763)
+[→ Get Sugar Bytes Thesys on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins)
 
 ---
 
@@ -146,11 +146,11 @@ Thesys has the steepest learning curve of any tool here. It is not the right too
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| HY-Arp4 Free | Free | Step arpeggiator | Per-step velocity, pitch, length; works in any DAW | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) |
-| Xfer Cthulhu | ~$40 | Chord trigger + step arp | Chord voicing engine + pattern arp; MIDI output only | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) |
-| Riffer | ~$39 | Generative MIDI riff engine | Probability-based melodic generation; pairs with scale tools | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) |
-| Scaler 2 | ~$59 | Chord + scale + arp suite | Music theory integration, chord detection, expression engine | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) |
-| Sugar Bytes Thesys | ~$99 | Step sequencer + MIDI modulator | Per-step CC modulation alongside pitch and velocity sequencing | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763) |
+| HY-Arp4 Free | Free | Step arpeggiator | Per-step velocity, pitch, length; works in any DAW | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins) |
+| Xfer Cthulhu | ~$40 | Chord trigger + step arp | Chord voicing engine + pattern arp; MIDI output only | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins) |
+| Riffer | ~$39 | Generative MIDI riff engine | Probability-based melodic generation; pairs with scale tools | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins) |
+| Scaler 2 | ~$59 | Chord + scale + arp suite | Music theory integration, chord detection, expression engine | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins) |
+| Sugar Bytes Thesys | ~$99 | Step sequencer + MIDI modulator | Per-step CC modulation alongside pitch and velocity sequencing | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins) |
 
 ---
 
@@ -197,7 +197,7 @@ No. All plugins listed here require a DAW host — they are VST, AU, or AAX MIDI
 
 For most bedroom producers, the best arpeggiator VST plugin in 2026 is Xfer Cthulhu — it's precise, priced at a clear value point, outputs MIDI-only so it integrates with any signal chain, and the community's track record with it across genres and DAWs is well documented. Producers who want music theory built into the same workflow should reach for Scaler 2 instead. Either way, both are available through Plugin Boutique alongside the full range of arp and MIDI tools worth exploring.
 
-[→ Browse Arpeggiator and MIDI Plugins on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763)
+[→ Browse Arpeggiator and MIDI Plugins on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins)
 
 ---
 

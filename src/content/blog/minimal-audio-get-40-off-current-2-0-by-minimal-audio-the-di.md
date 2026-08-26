@@ -3,7 +3,7 @@ title: "Current 2.0: Features, Pricing & Is It Worth It? (2026)"
 description: "Current 2.0 is a synthesizer plugin developed by Minimal Audio, a company that has built a reputation around. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-18T23:11:42Z'
 tags: ["review", "minimal audio", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=plugindrop&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=plugindrop&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763&chan=art&data1=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di"
 heroImage: /images/minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di.jpg
 score: 8.55
 draft: false
@@ -14,7 +14,7 @@ converted: true
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/d9XpkWxr-Og" title="Current 2.0: Features, Pricing & Is It Worth It? (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-**Current 2.0** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=plugindrop&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763)
+**Current 2.0** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=plugindrop&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763&chan=art&data1=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di)
 
 ---
 
@@ -52,7 +52,7 @@ Current 2.0 has generated genuine discussion in synthesis-focused communities. O
 
 Verify the exact current and sale price on the product page — Plugin Boutique updates deals regularly. Minimal Audio does not run steep discounts frequently, so a 40% promotion represents a meaningful entry point compared to what this plugin normally retails for.
 
-[Check current pricing and grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=plugindrop&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763)
+[Check current pricing and grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=plugindrop&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763&chan=art&data1=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di)
 
 ---
 
@@ -86,7 +86,7 @@ A: Refund policies vary by store. Check Plugin Boutique's terms directly before 
 
 ## Where to Buy
 
- [Get Current 2.0 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=plugindrop&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763) and confirm the deal is still live before checkout.
+ [Get Current 2.0 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=plugindrop&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763&chan=art&data1=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di) and confirm the deal is still live before checkout.
 
 ---
 

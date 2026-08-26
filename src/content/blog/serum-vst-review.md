@@ -21,8 +21,8 @@ priceTrack:
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Serum (Xfer Records) | ~$189 | All-around wavetable synthesis | [Xfer Records](https://xferrecords.com/products/serum) |
-| Phase Plant | ~$199 | Modular-style sound design | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) |
-| Vital | Free / Paid | Budget Serum alternative | [Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763) |
+| Phase Plant | ~$199 | Modular-style sound design | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=serum-vst-review) |
+| Vital | Free / Paid | Budget Serum alternative | [Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763&chan=art&data1=serum-vst-review) |
 
 ---
 
@@ -103,7 +103,7 @@ For producers who've evaluated Serum and want to understand the wider landscape 
 
 Phase Plant rewards the producer who has already learned synthesis fundamentals and wants to push into complex, layered sound design without a hardware modular. Its integration with the Kilohearts Toolbox of Snapin effects is genuinely powerful for creating complete sounds internally.
 
-[→ Get Phase Plant on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763)
+[→ Get Phase Plant on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=serum-vst-review)
 
 ### Vital — Best Free Serum Alternative, Expandable via Paid Tier
 
@@ -117,7 +117,7 @@ Phase Plant rewards the producer who has already learned synthesis fundamentals 
 
 For producers on a strict budget, Vital is where to start. For producers ready to invest in their toolkit, it's worth comparing directly against Serum before deciding. The quality gap is real but narrower than it was at launch.
 
-[→ Get Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763)
+[→ Get Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763&chan=art&data1=serum-vst-review)
 
 ---
 
@@ -126,8 +126,8 @@ For producers on a strict budget, Vital is where to start. For producers ready t
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Serum | ~$189 | Wavetable | Custom wavetable editor, drag-and-drop modulation, 100+ filters, built-in FX | [Xfer Records](https://xferrecords.com/products/serum) |
-| Phase Plant | ~$199 | Modular / Multi-engine | Node-based routing, wavetable + FM + analog sources, Snapin effects integration | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) |
-| Vital | Free / Paid | Wavetable | Free tier covers core features, strong community, visual modulation | [Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763) |
+| Phase Plant | ~$199 | Modular / Multi-engine | Node-based routing, wavetable + FM + analog sources, Snapin effects integration | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=serum-vst-review) |
+| Vital | Free / Paid | Wavetable | Free tier covers core features, strong community, visual modulation | [Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763&chan=art&data1=serum-vst-review) |
 
 ---
 
@@ -159,7 +159,7 @@ A: Yes. Serum supports VST2, VST3, AU, and AAX formats, covering compatibility w
 A: It's one of the best learning tools for synthesis available precisely because of its visual approach. Every modulation connection and signal flow is visible on screen. Many producers cite Serum as the instrument that finally made synthesis concepts click.
 
 **Q: Does Serum have a free trial?**
-A: Xfer Records has offered a rental-to-own model via Splice in the past, which allowed producers to pay monthly toward the full purchase price. Check the developer site at [xferrecords.com](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-vst-review) for current purchase and trial options.
+A: Xfer Records has offered a rental-to-own model via Splice in the past, which allowed producers to pay monthly toward the full purchase price. Check the developer site at [xferrecords.com](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-vst-review&chan=art&data1=serum-vst-review) for current purchase and trial options.
 
 ---
 ## Final Thoughts

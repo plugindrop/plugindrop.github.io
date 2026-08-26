@@ -3,7 +3,7 @@ title: "41% Off Decimort 2 — Bit-Crusher for Retro Sampler Tones ($35)"
 description: "D16 Group's Decimort 2 is discounted to **$35**, down from ~~$59~~ — a 41% saving on this bit and sample rate reduction plugin. The deal is live now at..."
 pubDate: "2026-07-21T10:09:55Z"
 tags: ["sale", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/32-Bit-Crusher/2017-Decimort-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=decimort-2-26d82f"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/32-Bit-Crusher/2017-Decimort-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=decimort-2-26d82f&chan=art&data1=decimort-2-26d82f"
 heroImage: "/images/decimort-2-26d82f.jpg"
 score: 7.65
 dealPrice: "$35.00"
@@ -12,7 +12,7 @@ discount: "41% OFF"
 xText: "decimort 2 at 41% off and honestly prices never stay here long. this is genuinely the moment if you've been thinking about it."
 draft: false
 ---
-**TL;DR:** D16 Group's Decimort 2 is discounted to **$35**, down from ~~$59~~ — a 41% saving on this bit and sample rate reduction plugin. The deal is live now at Plugin Boutique. [Grab Decimort 2 at $35](https://www.pluginboutique.com/product/2-Effects/32-Bit-Crusher/2017-Decimort-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=decimort-2-26d82f).
+**TL;DR:** D16 Group's Decimort 2 is discounted to **$35**, down from ~~$59~~ — a 41% saving on this bit and sample rate reduction plugin. The deal is live now at Plugin Boutique. [Grab Decimort 2 at $35](https://www.pluginboutique.com/product/2-Effects/32-Bit-Crusher/2017-Decimort-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=decimort-2-26d82f&chan=art&data1=decimort-2-26d82f).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BSTognIzhnQ" title="41% Off Decimort 2 — Bit-Crusher for Retro Sampler Tones ($35) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -48,7 +48,7 @@ Check the product page for the full plugin format list (VST/AU/AAX) and current 
 
 D16 Group plugins appear in Plugin Boutique promotions periodically, though exact frequency and discount depth vary by campaign. Verify current pricing on the product page — deals can change.
 
-[See the current Decimort 2 price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/32-Bit-Crusher/2017-Decimort-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=decimort-2-26d82f).
+[See the current Decimort 2 price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/32-Bit-Crusher/2017-Decimort-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=decimort-2-26d82f&chan=art&data1=decimort-2-26d82f).
 
 ## Alternatives at a Glance
 
@@ -76,7 +76,7 @@ A: This specific offer is listed at Plugin Boutique. Pricing elsewhere may diffe
 
 ## Get the Deal
 
-$35 instead of $59 is a 41% saving on Decimort 2 while the offer lasts. [Get Decimort 2 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/32-Bit-Crusher/2017-Decimort-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=decimort-2-26d82f).
+$35 instead of $59 is a 41% saving on Decimort 2 while the offer lasts. [Get Decimort 2 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/32-Bit-Crusher/2017-Decimort-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=decimort-2-26d82f&chan=art&data1=decimort-2-26d82f).
 
 ## Is This Deal Worth It?
 

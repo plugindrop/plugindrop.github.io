@@ -3,13 +3,13 @@ title: "Synthwave Drums V3: Features, Pricing & Is It Worth It? (2026)"
 description: "Synthwave Drums V3 is a drum instrument plugin built specifically for the synthwave, retrowave, and 80s-influenced. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:28:38Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "synth", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/15853-Synthwave-Drums-V3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthwave-drums-v3-91376d"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/15853-Synthwave-Drums-V3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthwave-drums-v3-91376d&chan=art&data1=synthwave-drums-v3-91376d"
 heroImage: /images/synthwave-drums-v3-91376d.jpg
 score: 7.75
 draft: false
 converted: true
 ---
-**Synthwave Drums V3** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/15853-Synthwave-Drums-V3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthwave-drums-v3-91376d)
+**Synthwave Drums V3** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/15853-Synthwave-Drums-V3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthwave-drums-v3-91376d&chan=art&data1=synthwave-drums-v3-91376d)
 
 ---
 
@@ -41,7 +41,7 @@ Synthwave Drums V3 is a drum instrument plugin built specifically for the synthw
 
 Verify current pricing on the product page — deals can change.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/15853-Synthwave-Drums-V3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthwave-drums-v3-91376d)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/15853-Synthwave-Drums-V3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthwave-drums-v3-91376d&chan=art&data1=synthwave-drums-v3-91376d)
 
 ---
 
@@ -72,7 +72,7 @@ A: Refund and return policies vary by product type. Check Plugin Boutique's term
 
 ## Where to Buy
 
-$70  [Lock in the 71% discount at Plugin Boutique here](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/15853-Synthwave-Drums-V3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthwave-drums-v3-91376d) before the price resets.
+$70  [Lock in the 71% discount at Plugin Boutique here](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/15853-Synthwave-Drums-V3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthwave-drums-v3-91376d&chan=art&data1=synthwave-drums-v3-91376d) before the price resets.
 
 ---
 

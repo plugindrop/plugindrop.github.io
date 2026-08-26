@@ -3,7 +3,7 @@ title: "50% Off Rhodes V8 Pro Virtual Instrument"
 description: "Rhodes V8 Pro is 50% off at Plugin Boutique right now — ~~$299.95~~ down to **$149.95**, saving you $150 on the official virtual Rhodes electric piano..."
 pubDate: "2026-05-22T03:22:26Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10331-Rhodes-V8-Pro-Virtual-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-v8-pro-virtual-instrument-4144cf"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10331-Rhodes-V8-Pro-Virtual-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-v8-pro-virtual-instrument-4144cf&chan=art&data1=rhodes-v8-pro-virtual-instrument-4144cf"
 heroImage: "/images/rhodes-v8-pro-virtual-instrument-4144cf.jpg"
 score: 10.00
 dealPrice: "$149.95"
@@ -12,7 +12,7 @@ discount: "50% OFF"
 xText: "new rhodes v8 pro at half price and it actually sounds like an electric piano, not a sample pack. this is the one to grab if you're tired of cardboard tones"
 draft: true
 ---
-**TL;DR:** Rhodes V8 Pro is 50% off at Plugin Boutique right now — ~~$299.95~~ down to **$149.95**, saving you $150 on the official virtual Rhodes electric piano. Significant discounts on first-party brand instruments are rare, so this is a window worth paying attention to. [Grab Rhodes V8 Pro for $149.95 here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10331-Rhodes-V8-Pro-Virtual-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-v8-pro-virtual-instrument-4144cf)
+**TL;DR:** Rhodes V8 Pro is 50% off at Plugin Boutique right now — ~~$299.95~~ down to **$149.95**, saving you $150 on the official virtual Rhodes electric piano. Significant discounts on first-party brand instruments are rare, so this is a window worth paying attention to. [Grab Rhodes V8 Pro for $149.95 here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10331-Rhodes-V8-Pro-Virtual-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-v8-pro-virtual-instrument-4144cf&chan=art&data1=rhodes-v8-pro-virtual-instrument-4144cf)
 
 ---
 
@@ -54,7 +54,7 @@ Rhodes V8 Pro is a virtual instrument developed directly by Rhodes Music Group �
 
 A 50% cut on a first-party brand plugin is not an everyday occurrence. The Rhodes name carries real commercial weight, and this depth of discount on official instruments tends to be time-limited. Verify current pricing on the product page before purchasing — deals can change without notice.
 
-[Get Rhodes V8 Pro at $149.95 on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10331-Rhodes-V8-Pro-Virtual-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-v8-pro-virtual-instrument-4144cf)
+[Get Rhodes V8 Pro at $149.95 on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10331-Rhodes-V8-Pro-Virtual-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-v8-pro-virtual-instrument-4144cf&chan=art&data1=rhodes-v8-pro-virtual-instrument-4144cf)
 
 ---
 
@@ -88,7 +88,7 @@ A: Software plugin purchases are typically final. Check Plugin Boutique's terms 
 
 ## Get the Deal
 
-$150 off an official brand instrument is a deal worth acting on. [Pick up Rhodes V8 Pro for $149.95 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10331-Rhodes-V8-Pro-Virtual-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-v8-pro-virtual-instrument-4144cf) before the price reverts to ~~$299.95~~.
+$150 off an official brand instrument is a deal worth acting on. [Pick up Rhodes V8 Pro for $149.95 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10331-Rhodes-V8-Pro-Virtual-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-v8-pro-virtual-instrument-4144cf&chan=art&data1=rhodes-v8-pro-virtual-instrument-4144cf) before the price reverts to ~~$299.95~~.
 
 ## Related Guides
 

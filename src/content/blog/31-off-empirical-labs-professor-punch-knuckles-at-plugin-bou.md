@@ -3,13 +3,13 @@ title: "Empirical Labs Professor Punch-Knuckles: Features, Pricing & Is It Worth
 description: "Empirical Labs is the hardware company behind the Distressor — one of the most-copied compressors in studio history. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-17T12:48:59Z'
 tags: ["review", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=plugindrop&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=plugindrop&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou&a_aid=69cb95abe1763&chan=art&data1=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou"
 heroImage: /images/31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou.jpg
 score: 7.73
 draft: false
 converted: true
 ---
-**Empirical Labs Professor Punch-Knuckles** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=plugindrop&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou&a_aid=69cb95abe1763)
+**Empirical Labs Professor Punch-Knuckles** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=plugindrop&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou&a_aid=69cb95abe1763&chan=art&data1=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou)
 
 ---
 
@@ -50,7 +50,7 @@ Empirical Labs has strong brand equity among mixing engineers, largely built on 
 
 Empirical Labs plugins don't run frequent deep discounts — this brand tends to hold price. A 31% sale is meaningful for a developer at this tier, more in line with a once- or twice-a-year event than a regular promotional cycle. If you've been watching this one, waiting for a better deal may mean waiting a long time.
 
-[Check the current price and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=plugindrop&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou&a_aid=69cb95abe1763)
+[Check the current price and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=plugindrop&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou&a_aid=69cb95abe1763&chan=art&data1=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou)
 
 ---
 
@@ -78,7 +78,7 @@ A: Check the product listing for the current confirmed compatibility list — fo
 
 ## Where to Buy
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=plugindrop&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou&a_aid=69cb95abe1763)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/30-Distortion/15824-Empirical-Labs-Professor-Punch-Knuckles?utm_source=plugindrop&utm_medium=article&utm_campaign=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou&a_aid=69cb95abe1763&chan=art&data1=31-off-empirical-labs-professor-punch-knuckles-at-plugin-bou)
 
 ---
 

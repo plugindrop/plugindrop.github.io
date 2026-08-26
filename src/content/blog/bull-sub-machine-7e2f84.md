@@ -3,7 +3,7 @@ title: "38% Off Bull Sub Machine"
 description: "Bull Sub Machine is currently listed on Plugin Boutique at **$49**, down from ~~$79~~ — the discount is minimal, so the buying decision comes..."
 pubDate: "2026-05-13T14:31:20Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15367-Bull-Sub-Machine?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bull-sub-machine-7e2f84"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15367-Bull-Sub-Machine?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bull-sub-machine-7e2f84&chan=art&data1=bull-sub-machine-7e2f84"
 heroImage: "/images/bull-sub-machine-7e2f84.jpg"
 score: 9.72
 dealPrice: "$49"
@@ -12,7 +12,7 @@ discount: "38% OFF"
 xText: "bull sub machine just dropped. finally sub control that feels natural instead of overcomplicated. this thing sits in a mix like butter. if you're stacking plugs just for low end management, this is the move"
 draft: true
 ---
-**TL;DR:** Bull Sub Machine is currently listed on Plugin Boutique at **$49**, down from ~~$79~~ — the discount is minimal, so the buying decision comes down to the plugin itself, not the markdown. If sub-bass enhancement is on your checklist, [grab it here](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15367-Bull-Sub-Machine?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bull-sub-machine-7e2f84).
+**TL;DR:** Bull Sub Machine is currently listed on Plugin Boutique at **$49**, down from ~~$79~~ — the discount is minimal, so the buying decision comes down to the plugin itself, not the markdown. If sub-bass enhancement is on your checklist, [grab it here](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15367-Bull-Sub-Machine?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bull-sub-machine-7e2f84&chan=art&data1=bull-sub-machine-7e2f84).
 
 ---
 
@@ -52,7 +52,7 @@ Let's be honest: this is essentially full price. The $30.70 difference is a roun
 
 > Verify current pricing on the product page — deals can change without notice.
 
-[View Bull Sub Machine on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15367-Bull-Sub-Machine?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bull-sub-machine-7e2f84)
+[View Bull Sub Machine on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15367-Bull-Sub-Machine?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bull-sub-machine-7e2f84&chan=art&data1=bull-sub-machine-7e2f84)
 
 ## Alternatives at a Glance
 
@@ -82,7 +82,7 @@ A: Based on its classification as a sub-bass enhancer, it's most relevant for ba
 
 The discount is negligible, so this is a straight-up purchase decision based on the plugin's value to your workflow. If sub-bass enhancement belongs in your toolkit, it's available now.
 
-[Pick up Bull Sub Machine on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15367-Bull-Sub-Machine?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bull-sub-machine-7e2f84)
+[Pick up Bull Sub Machine on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15367-Bull-Sub-Machine?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bull-sub-machine-7e2f84&chan=art&data1=bull-sub-machine-7e2f84)
 
 ## Related Guides
 

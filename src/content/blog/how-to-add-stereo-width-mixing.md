@@ -16,10 +16,10 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| SPAN | Free | Stereo field and phase correlation metering | [Plugin Boutique](https://www.pluginboutique.com/search?q=SPAN&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-add-stereo-width-mixing) |
-| iZotope Ozone Imager | Free | Controlled stereo widening with mono compatibility check | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope+Ozone+Imager&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-add-stereo-width-mixing) |
-| FabFilter Pro-Q 4 | $199 | Mid/side EQ for surgical stereo field shaping | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763) |
-| iZotope Ozone 11 Imager (full) | Part of Ozone 11 | Multiband stereo control for mastering | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763) |
+| SPAN | Free | Stereo field and phase correlation metering | [Plugin Boutique](https://www.pluginboutique.com/search?q=SPAN&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-add-stereo-width-mixing&chan=art&data1=how-to-add-stereo-width-mixing) |
+| iZotope Ozone Imager | Free | Controlled stereo widening with mono compatibility check | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%20Imager&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-add-stereo-width-mixing&chan=art&data1=how-to-add-stereo-width-mixing) |
+| FabFilter Pro-Q 4 | $199 | Mid/side EQ for surgical stereo field shaping | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-add-stereo-width-mixing) |
+| iZotope Ozone 11 Imager (full) | Part of Ozone 11 | Multiband stereo control for mastering | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=how-to-add-stereo-width-mixing) |
 
 ---
 
@@ -58,7 +58,7 @@ For stereo width work, the correlation meter is the relevant display. A reading 
 
 **Setup:** Insert SPAN on the master bus in metering mode. Check the correlation display after every width adjustment to ensure you haven't introduced out-of-phase content.
 
-[→ Get SPAN Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=SPAN&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-add-stereo-width-mixing)
+[→ Get SPAN Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=SPAN&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-add-stereo-width-mixing&chan=art&data1=how-to-add-stereo-width-mixing)
 
 ---
 
@@ -87,7 +87,7 @@ The linear phase mode in Pro-Q 4 is specifically relevant for M/S work at the mi
 
 **Low-end mono workflow:** Add a low-pass filter to the Side channel at 80 Hz (Pro-Q 4 lets you assign this band to Side only in M/S mode). This removes sub-bass from the side channel, effectively mono-ing the low end while leaving everything above 80 Hz untouched in the stereo field.
 
-[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-add-stereo-width-mixing)
 
 ---
 
@@ -121,7 +121,7 @@ The Width control is a single parameter (0 = full mono, 1.0 = source width, abov
 
 **Setting:** Width 1.1–1.3 on mix bus (after M/S EQ has narrowed the low end). Width 1.5–2.0 on reverb returns. Monitor Lissajous display continuously — stop increasing if the figure-eight shape shows diagonal dominance (phase correlation approaching -0.3).
 
-[→ Get iZotope Ozone Imager Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=iZotope+Ozone+Imager&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-add-stereo-width-mixing)
+[→ Get iZotope Ozone Imager Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=iZotope%20Ozone%20Imager&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-add-stereo-width-mixing&chan=art&data1=how-to-add-stereo-width-mixing)
 
 ---
 
@@ -176,7 +176,7 @@ Effective stereo width in mixing starts with mono compatibility, not with width 
 
 The result of this workflow is a mix that sounds genuinely wide on headphones and still punches in mono — a combination that the shortcut of "just apply a stereo widener" consistently fails to produce.
 
-[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763)
+[→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-add-stereo-width-mixing)
 
 ---
 

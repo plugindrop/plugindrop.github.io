@@ -3,7 +3,7 @@ title: "34% Off SoundID VoiceAI Perpetual Expansions Bundle"
 description: "The SoundID VoiceAI Perpetual Expansions Bundle is currently **34% off** at Plugin Boutique — drop from ~~$149~~ to **$99**, saving you $50 on a one-time..."
 pubDate: "2026-05-21T08:17:02Z"
 tags: ["sale", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15969-SoundID-VoiceAI-Perpetual-Expansions-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-voiceai-perpetual-expansions-bundle-9e35f8"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15969-SoundID-VoiceAI-Perpetual-Expansions-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-voiceai-perpetual-expansions-bundle-9e35f8&chan=art&data1=soundid-voiceai-perpetual-expansions-bundle-9e35f8"
 heroImage: "/images/soundid-voiceai-perpetual-expansions-bundle-9e35f8.jpg"
 score: 10.00
 dealPrice: "$99.00"
@@ -12,7 +12,7 @@ discount: "34% OFF"
 xText: "34% off soundid voiceai bundle with perpetual licenses. vocal producers keep the tools forever, not stuck in subscription hell. that math works different than you think."
 draft: true
 ---
-**TL;DR:** The SoundID VoiceAI Perpetual Expansions Bundle is currently **34% off** at Plugin Boutique — drop from ~~$149~~ to **$99**, saving you $50 on a one-time perpetual license. If you've been building out your AI vocal toolkit, [grab it here before the price resets](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15969-SoundID-VoiceAI-Perpetual-Expansions-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-voiceai-perpetual-expansions-bundle-9e35f8).
+**TL;DR:** The SoundID VoiceAI Perpetual Expansions Bundle is currently **34% off** at Plugin Boutique — drop from ~~$149~~ to **$99**, saving you $50 on a one-time perpetual license. If you've been building out your AI vocal toolkit, [grab it here before the price resets](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15969-SoundID-VoiceAI-Perpetual-Expansions-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-voiceai-perpetual-expansions-bundle-9e35f8&chan=art&data1=soundid-voiceai-perpetual-expansions-bundle-9e35f8).
 
 ---
 
@@ -56,7 +56,7 @@ At $99 for a perpetual bundle, this is a meaningful discount for a one-time lice
 
 Verify current pricing on the product page — deals can change.
 
-[Check the current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15969-SoundID-VoiceAI-Perpetual-Expansions-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-voiceai-perpetual-expansions-bundle-9e35f8)
+[Check the current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15969-SoundID-VoiceAI-Perpetual-Expansions-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-voiceai-perpetual-expansions-bundle-9e35f8&chan=art&data1=soundid-voiceai-perpetual-expansions-bundle-9e35f8)
 
 ---
 
@@ -90,7 +90,7 @@ A: Refer to Plugin Boutique's official refund and returns policy for software pu
 
 ## Get the Deal
 
-$50 off a perpetual AI vocal bundle is a clean, no-subscription deal worth moving on quickly. [Secure the SoundID VoiceAI Perpetual Expansions Bundle for $99 at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15969-SoundID-VoiceAI-Perpetual-Expansions-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-voiceai-perpetual-expansions-bundle-9e35f8)
+$50 off a perpetual AI vocal bundle is a clean, no-subscription deal worth moving on quickly. [Secure the SoundID VoiceAI Perpetual Expansions Bundle for $99 at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15969-SoundID-VoiceAI-Perpetual-Expansions-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-voiceai-perpetual-expansions-bundle-9e35f8&chan=art&data1=soundid-voiceai-perpetual-expansions-bundle-9e35f8)
 
 ## Related Guides
 

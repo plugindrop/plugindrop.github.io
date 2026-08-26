@@ -43,7 +43,7 @@ heroImage: '/images/when-does-cherry-audio-mercury-6-go-on-sale.jpg'
 > **Buying tip:** Cherry Audio runs frequent promotions, including an October sale and Black Friday. The Mercury-6 (Jupiter-6 emulation) at $29 on BF is exceptional value. The official Cherry Audio price on non-BF sales is typically $39 (20% off). Cherry Audio's entire catalog follows similar sale patterns.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/66-Synth/9649-Mercury-6?a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/66-Synth/9649-Mercury-6?a_aid=69cb95abe1763&chan=art&data1=when-does-cherry-audio-mercury-6-go-on-sale)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 

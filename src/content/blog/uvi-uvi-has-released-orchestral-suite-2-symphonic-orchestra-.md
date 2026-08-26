@@ -3,7 +3,7 @@ title: "UVI — UVI has released Orchestral Suite 2 symphonic orchestra library 
 description: "UVI's newly launched Orchestral Suite 2 symphonic library is on intro sale for ~~$199~~ **$129** — that's 35% off, saving you $70. The discount runs until..."
 pubDate: "2026-05-13T05:39:52Z"
 tags: ["free", "uvi", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=orchestral+suite+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-has-released-orchestral-suite-2-symphonic-orchestra-"
+affiliate: "https://www.pluginboutique.com/search?q=orchestral%20suite%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-has-released-orchestral-suite-2-symphonic-orchestra-&chan=art&data1=uvi-uvi-has-released-orchestral-suite-2-symphonic-orchestra-"
 heroImage: "/images/uvi-uvi-has-released-orchestral-suite-2-symphonic-orchestra-_comfyui.png"
 aiImage: true
 score: 9.00
@@ -14,7 +14,7 @@ saleExpiry: "2026-05-31"
 xText: "35% off orchestral library + free workstation support. you've been wanting strings in your mix. stop waiting, grab this."
 draft: true
 ---
-**TL;DR:** UVI's newly launched Orchestral Suite 2 symphonic library is on intro sale for ~~$199~~ **$129** — that's 35% off, saving you $70. The discount runs until May 31, 2026, and the library works with the free UVI Workstation so there's no extra player cost. [Grab the intro deal here.](https://www.pluginboutique.com/search?q=orchestral+suite+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-has-released-orchestral-suite-2-symphonic-orchestra-)
+**TL;DR:** UVI's newly launched Orchestral Suite 2 symphonic library is on intro sale for ~~$199~~ **$129** — that's 35% off, saving you $70. The discount runs until May 31, 2026, and the library works with the free UVI Workstation so there's no extra player cost. [Grab the intro deal here.](https://www.pluginboutique.com/search?q=orchestral%20suite%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-has-released-orchestral-suite-2-symphonic-orchestra-&chan=art&data1=uvi-uvi-has-released-orchestral-suite-2-symphonic-orchestra-)
 
 ---
 
@@ -58,7 +58,7 @@ This is a launch intro discount with a firm expiry: **May 31, 2026**. UVI doesn'
 
 Verify current pricing on the product page — deals can change without notice.
 
-[Get UVI Orchestral Suite 2 at 35% off →](https://www.pluginboutique.com/search?q=orchestral+suite+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-has-released-orchestral-suite-2-symphonic-orchestra-)
+[Get UVI Orchestral Suite 2 at 35% off →](https://www.pluginboutique.com/search?q=orchestral%20suite%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-has-released-orchestral-suite-2-symphonic-orchestra-&chan=art&data1=uvi-uvi-has-released-orchestral-suite-2-symphonic-orchestra-)
 
 ---
 
@@ -94,7 +94,7 @@ A: Check the product page for the complete breakdown — the library is new enou
 
 A full symphonic suite at 35% off — and it runs on the free UVI Workstation. The intro window closes May 31st, so there's a real clock on this one.
 
-[Lock in the Orchestral Suite 2 intro price →](https://www.pluginboutique.com/search?q=orchestral+suite+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-has-released-orchestral-suite-2-symphonic-orchestra-)
+[Lock in the Orchestral Suite 2 intro price →](https://www.pluginboutique.com/search?q=orchestral%20suite%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-has-released-orchestral-suite-2-symphonic-orchestra-&chan=art&data1=uvi-uvi-has-released-orchestral-suite-2-symphonic-orchestra-)
 
 ## Related Guides
 

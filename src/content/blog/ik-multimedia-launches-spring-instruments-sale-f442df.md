@@ -3,13 +3,13 @@ title: "Ik Multimedia: Features, Pricing & Is It Worth It? (2026)"
 description: "IK Multimedia — the Italian music technology company behind T-RackS, AmpliTube, and SampleTank — is running a major. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-02T09:21:10Z'
 tags: ["review", "bass guitar", "drums", "ik multimedia", "piano", "sampletank", "music-production"]
-affiliate: "https://www.pluginboutique.com/manufacturers/410-IK-Multimedia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ik-multimedia-spring-instruments-sale"
+affiliate: "https://www.pluginboutique.com/manufacturers/410-IK-Multimedia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ik-multimedia-spring-instruments-sale&chan=art&data1=ik-multimedia-launches-spring-instruments-sale-f442df"
 heroImage: /images/ik-multimedia-launches-spring-instruments-sale-f442df.jpg
 score: 3.22
 draft: false
 converted: true
 ---
-**Ik Multimedia** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/manufacturers/410-IK-Multimedia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ik-multimedia-spring-instruments-sale)
+**Ik Multimedia** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/manufacturers/410-IK-Multimedia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ik-multimedia-spring-instruments-sale&chan=art&data1=ik-multimedia-launches-spring-instruments-sale-f442df)
 
 ---
 

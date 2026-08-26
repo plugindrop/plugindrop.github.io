@@ -3,7 +3,7 @@ title: "51% Off WAVESTATION"
 description: "Korg's legendary WAVESTATION plugin is currently **51% off** at Plugin Boutique — drop from ~~$99.99~~ to just **$49.00**. If you've been eyeing this..."
 pubDate: "2026-06-15T15:41:36Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11199-WAVESTATION?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wavestation-e7d696"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11199-WAVESTATION?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wavestation-e7d696&chan=art&data1=wavestation-e7d696"
 heroImage: "/images/wavestation-e7d696.jpg"
 score: 9.18
 dealPrice: "$49.00"
@@ -12,7 +12,7 @@ discount: "51% OFF"
 xText: "51% off the new wavestation—morphing sequences are genuinely clean and lowest price i've seen at launch. if you're into pads that evolve this is the move"
 draft: true
 ---
-**TL;DR:** Korg's legendary WAVESTATION plugin is currently **51% off** at Plugin Boutique — drop from ~~$99.99~~ to just **$49.00**. If you've been eyeing this classic vector synth, this is a rare chance to grab it at half price. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11199-WAVESTATION?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wavestation-e7d696)
+**TL;DR:** Korg's legendary WAVESTATION plugin is currently **51% off** at Plugin Boutique — drop from ~~$99.99~~ to just **$49.00**. If you've been eyeing this classic vector synth, this is a rare chance to grab it at half price. [Grab the deal here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11199-WAVESTATION?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wavestation-e7d696&chan=art&data1=wavestation-e7d696)
 
 ---
 
@@ -62,7 +62,7 @@ Korg's software titles don't go on deep discount constantly — when they do, it
 
 Verify current pricing on the product page — deals can change.
 
-[Check the current deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11199-WAVESTATION?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wavestation-e7d696)
+[Check the current deal at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11199-WAVESTATION?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wavestation-e7d696&chan=art&data1=wavestation-e7d696)
 
 ---
 
@@ -98,7 +98,7 @@ A: WAVESTATION is a faithful recreation of the 1990 hardware. Wavestate Native i
 
 Half price on a Korg classic doesn't happen every week. At $49.00, WAVESTATION is priced well below what its sonic range is worth to ambient and electronic producers.
 
-[Grab WAVESTATION for $49.00 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11199-WAVESTATION?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wavestation-e7d696)
+[Grab WAVESTATION for $49.00 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11199-WAVESTATION?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wavestation-e7d696&chan=art&data1=wavestation-e7d696)
 
 ## Related Guides
 

@@ -3,13 +3,13 @@ title: "Bloom Mura Masa: Features, Pricing & Is It Worth It? (2026)"
 description: "Bloom Mura Masa is a virtual instrument available exclusively through Plugin Boutique, developed in collaboration. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:28:25Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15252-Bloom-Mura-Masa?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-mura-masa-688626"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15252-Bloom-Mura-Masa?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-mura-masa-688626&chan=art&data1=bloom-mura-masa-688626"
 heroImage: /images/bloom-mura-masa-688626.jpg
 score: 7.90
 draft: false
 converted: true
 ---
-**Bloom Mura Masa** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15252-Bloom-Mura-Masa?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-mura-masa-688626)
+**Bloom Mura Masa** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15252-Bloom-Mura-Masa?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-mura-masa-688626&chan=art&data1=bloom-mura-masa-688626)
 
 ---
 
@@ -28,13 +28,13 @@ Based on the product's categorization and artist context, Bloom Mura Masa is a v
 - **Curated Sound Library:** Expect a focused set of sounds and textures aligned with Mura Masa's recorded output
 - **Production-Ready Presets:** Instruments in this category typically ship with immediately usable patches designed for modern electronic and pop contexts
 
-> For the complete feature list, preset count, and format specifications, check the [official product page on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15252-Bloom-Mura-Masa?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-mura-masa-688626).
+> For the complete feature list, preset count, and format specifications, check the [official product page on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15252-Bloom-Mura-Masa?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-mura-masa-688626&chan=art&data1=bloom-mura-masa-688626).
 
 ---
 
 ## Who Is It For?
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15252-Bloom-Mura-Masa?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-mura-masa-688626)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15252-Bloom-Mura-Masa?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-mura-masa-688626&chan=art&data1=bloom-mura-masa-688626)
 
 ---
 
@@ -70,7 +70,7 @@ A: Plugin Boutique's refund policy applies — review it directly on their site 
 
 Bloom Mura Masa drops from  to **$39** — a clean $20 saving that makes this a low-risk entry point for a focused, artist-driven virtual instrument. Deal pricing won't last indefinitely.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15252-Bloom-Mura-Masa?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-mura-masa-688626)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15252-Bloom-Mura-Masa?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-mura-masa-688626&chan=art&data1=bloom-mura-masa-688626)
 
 ---
 

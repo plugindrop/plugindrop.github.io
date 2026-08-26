@@ -3,7 +3,7 @@ title: "50% Off Big Swarma"
 description: "Big Swarma is half-price at Plugin Boutique right now — ~~$59.00~~ down to **$29.50**. That's 50% off a dedicated swarm modulation effect built for dense..."
 pubDate: "2026-06-08T15:31:32Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/33-Modulator/15680-Big-Swarma?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=big-swarma-52ed86"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/33-Modulator/15680-Big-Swarma?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=big-swarma-52ed86&chan=art&data1=big-swarma-52ed86"
 heroImage: "/images/big-swarma-52ed86.jpg"
 score: 7.86
 dealPrice: "$29.50"
@@ -12,7 +12,7 @@ discount: "50% OFF"
 xText: "swarma dropped at 50% off fresh—new plugins basically never go this cheap this soon. this is probably the lowest price it'll ever be. hard to pass on"
 draft: true
 ---
-**TL;DR:** Big Swarma is half-price at Plugin Boutique right now — ~~$59.00~~ down to **$29.50**. That's 50% off a dedicated swarm modulation effect built for dense, evolving textures. [Grab it at the deal price here.](https://www.pluginboutique.com/product/2-Effects/33-Modulator/15680-Big-Swarma?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=big-swarma-52ed86)
+**TL;DR:** Big Swarma is half-price at Plugin Boutique right now — ~~$59.00~~ down to **$29.50**. That's 50% off a dedicated swarm modulation effect built for dense, evolving textures. [Grab it at the deal price here.](https://www.pluginboutique.com/product/2-Effects/33-Modulator/15680-Big-Swarma?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=big-swarma-52ed86&chan=art&data1=big-swarma-52ed86)
 
 ---
 
@@ -56,7 +56,7 @@ Big Swarma is a modulation effect plugin sold through Plugin Boutique, categoriz
 
 Verify current pricing on the product page — deals can change.
 
-[Check current pricing and buy Big Swarma at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/33-Modulator/15680-Big-Swarma?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=big-swarma-52ed86)
+[Check current pricing and buy Big Swarma at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/33-Modulator/15680-Big-Swarma?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=big-swarma-52ed86&chan=art&data1=big-swarma-52ed86)
 
 ---
 
@@ -92,7 +92,7 @@ A: Refund and returns policies for software purchases are governed by Plugin Bou
 
 Half price on a dedicated swarm modulation effect is a straightforward win if organic, evolving textures are part of your sound. At $29.50, the barrier to adding something genuinely different to your modulation toolkit is low.
 
-[Get Big Swarma for $29.50 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/33-Modulator/15680-Big-Swarma?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=big-swarma-52ed86)
+[Get Big Swarma for $29.50 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/33-Modulator/15680-Big-Swarma?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=big-swarma-52ed86&chan=art&data1=big-swarma-52ed86)
 
 ## Related Guides
 

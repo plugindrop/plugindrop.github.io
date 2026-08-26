@@ -3,7 +3,7 @@ title: "KORG Collection 6: Features, Pricing & Is It Worth It? (2026)"
 description: "KORG Collection 6 is a software bundle developed directly by KORG, packaging multiple software recreations of the brand's most iconic hardware synthesizers."
 pubDate: '2026-04-22T05:20:13Z'
 tags: ["review", "bundle", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16094-KORG-Collection-6?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-4e0a19"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16094-KORG-Collection-6?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-4e0a19&chan=art&data1=korg-collection-6-4e0a19"
 heroImage: /images/korg-collection-6-4e0a19.jpg
 score: 10.00
 draft: false
@@ -14,7 +14,7 @@ converted: true
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-fPucWPCoMM" title="KORG Collection 6: Features, Pricing & Is It Worth It? (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-**KORG Collection 6** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16094-KORG-Collection-6?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-4e0a19)
+**KORG Collection 6** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16094-KORG-Collection-6?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-4e0a19&chan=art&data1=korg-collection-6-4e0a19)
 
 ---
 
@@ -48,7 +48,7 @@ The KORG M1 holds a well-documented place in production history. Its patches are
 
 Verify current pricing on the product page — deals can change without notice.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16094-KORG-Collection-6?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-4e0a19)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16094-KORG-Collection-6?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-4e0a19&chan=art&data1=korg-collection-6-4e0a19)
 
 ## Alternatives at a Glance
 
@@ -76,7 +76,7 @@ A: Update and upgrade policies vary by version. Verify the terms on the product 
 
 ## Where to Buy
 
-KORG Collection 6 is a meaningful saving on a bundle covering some of the most sampled and referenced synthesizers in production history. [Head to Plugin Boutique to lock in the $299 price while the deal is live.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16094-KORG-Collection-6?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-4e0a19)
+KORG Collection 6 is a meaningful saving on a bundle covering some of the most sampled and referenced synthesizers in production history. [Head to Plugin Boutique to lock in the $299 price while the deal is live.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16094-KORG-Collection-6?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-4e0a19&chan=art&data1=korg-collection-6-4e0a19)
 
 ---
 

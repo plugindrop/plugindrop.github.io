@@ -24,9 +24,9 @@ draft: false
 | Vital Free | Free | Full wavetable synthesis at zero cost | [Free](https://vital.audio/) |
 | Vital Plus | $25 | Expanded factory presets + wavetables | [Get](https://vital.audio/) |
 | Vital Pro | $80 | Complete official library + priority updates | [Get](https://vital.audio/) |
-| Serum | $189 | Industry-standard preset ecosystem, EDM workflows | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
-| Phase Plant | from $99 | Modular architecture, multi-oscillator patching | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) |
-| Pigments | $99 | Multi-engine synthesis, analog warmth | [Get Pigments (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
+| Serum | $189 | Industry-standard preset ecosystem, EDM workflows | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026&chan=art&data1=vital-synthesizer-review-2026) |
+| Phase Plant | from $99 | Modular architecture, multi-oscillator patching | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=vital-synthesizer-review-2026) |
+| Pigments | $99 | Multi-engine synthesis, analog warmth | [Get Pigments (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=vital-synthesizer-review-2026) |
 
 ---
 
@@ -121,7 +121,7 @@ The case for moving to a different synthesizer — rather than paying within Vit
 - **Price:** $189
 - **Why upgrade:** Serum's decade-long position as the default wavetable synthesizer in EDM, future bass, and electronic production has produced a commercial preset ecosystem that Vital hasn't matched in volume or genre depth. Producers whose workflow depends on purchasing and loading Serum-format preset packs — a major segment of how commercial EDM sound design is distributed — will find that format incompatibility with Vital is a hard constraint. The Serum engine is technically different from Vital's, not superior in any absolute sense, but its preset ecosystem and Splice integration represent a genre infrastructure that Vital hasn't replicated.
 
-[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026)
+[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026&chan=art&data1=vital-synthesizer-review-2026)
 
 ---
 
@@ -133,7 +133,7 @@ The case for moving to a different synthesizer — rather than paying within Vit
 - **Price:** from $99
 - **Why upgrade:** Phase Plant's signal flow is fully modular — oscillators, filters, and effects are assembled as discrete blocks that can be combined in any configuration. This means a single Phase Plant patch can chain wavetable oscillators through granular processing, add additive synthesis layers, and route everything through a custom effects structure in ways that Vital's fixed architecture doesn't support. Producers who want to build synthesis architectures that combine fundamentally different oscillator types in a single instrument will hit Vital's structural limits before they hit Phase Plant's. The Kilohearts Snapin ecosystem integrates natively as well, extending Phase Plant's processing options further.
 
-[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763)
+[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=vital-synthesizer-review-2026)
 
 ---
 
@@ -145,7 +145,7 @@ The case for moving to a different synthesizer — rather than paying within Vit
 - **Price:** $99
 - **Why upgrade:** Pigments combines wavetable, virtual analog, sample, and harmonic synthesis engines in a single instrument, with a modulation system and arpeggiator that Arturia has expanded across multiple major versions. The community on KVR Audio and Reddit's r/synthesizers consistently describes Pigments as producing a warmer, more organic character than Vital's cleaner spectral output — a meaningful distinction for producers working in ambient, cinematic, or analog-influenced genres where timbral warmth is a priority over spectral precision. Arturia's V Collection integration is an additional draw for producers already in the Arturia ecosystem.
 
-[→ Get Pigments (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763)
+[→ Get Pigments (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=vital-synthesizer-review-2026)
 
 ---
 
@@ -156,9 +156,9 @@ The case for moving to a different synthesizer — rather than paying within Vit
 | Vital Free | Free | Spectral wavetable | Full engine, limited factory content, text-to-wavetable, Linux support | [Download Free (Plugin Boutique)](https://vital.audio/) |
 | Vital Plus | $25 | Spectral wavetable | Expanded presets + wavetables, full engine | [Get](https://vital.audio/) |
 | Vital Pro | $80 | Spectral wavetable | Complete official library, priority updates | [Get](https://vital.audio/) |
-| Serum | $189 | Wavetable | Industry-standard ecosystem, Splice integration, massive preset market | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026) |
-| Phase Plant | from $99 | Modular (wavetable/granular/additive) | Fully modular signal path, Snapin ecosystem, combinable oscillator types | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763) |
-| Pigments | $99 | Multi-engine | Wavetable + VA + sample + harmonic, analog warmth, Arturia ecosystem | [Get Pigments (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763) |
+| Serum | $189 | Wavetable | Industry-standard ecosystem, Splice integration, massive preset market | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vital-synthesizer-review-2026&chan=art&data1=vital-synthesizer-review-2026) |
+| Phase Plant | from $99 | Modular (wavetable/granular/additive) | Fully modular signal path, Snapin ecosystem, combinable oscillator types | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=vital-synthesizer-review-2026) |
+| Pigments | $99 | Multi-engine | Wavetable + VA + sample + harmonic, analog warmth, Arturia ecosystem | [Get Pigments (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=vital-synthesizer-review-2026) |
 
 ---
 

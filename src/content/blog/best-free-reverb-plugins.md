@@ -3,7 +3,7 @@ title: "Best Free Reverb Plugins in 2026 — 7 Top Picks"
 description: "7 best free reverb plugins compared — from massive ambient tails to classic plates. All genuinely free with no time limits."
 pubDate: "2026-03-21T10:00:00Z"
 tags: ["free", "vst-plugin", "reverb", "roundup", "music-production"]
-affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-plugins"
+affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-plugins&chan=art&data1=best-free-reverb-plugins"
 dealPrice: "FREE"
 draft: true
 heroImage: "/images/best-free-reverb-plugins.jpg"
@@ -125,4 +125,4 @@ A: Most are stereo only. Check each plugin's documentation for surround support 
 
 All 7 plugins are available for immediate download. No subscriptions, no trials, no hidden limits.
 
-[Browse Free Reverb Plugins on Plugin Boutique](https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-plugins)
+[Browse Free Reverb Plugins on Plugin Boutique](https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-plugins&chan=art&data1=best-free-reverb-plugins)

@@ -3,13 +3,13 @@ title: "SubLab XL: Features, Pricing & Is It Worth It? (2026)"
 description: "SubLab XL is a dedicated bass synthesizer developed by Future Audio Workshop (FAW). Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:28:14Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sublab-xl-c3d902"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sublab-xl-c3d902&chan=art&data1=sublab-xl-c3d902"
 heroImage: /images/sublab-xl-c3d902.jpg
 score: 8.03
 draft: false
 converted: true
 ---
-**SubLab XL** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sublab-xl-c3d902)
+**SubLab XL** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sublab-xl-c3d902&chan=art&data1=sublab-xl-c3d902)
 
 ---
 
@@ -39,7 +39,7 @@ SubLab XL is a dedicated bass synthesizer developed by Future Audio Workshop (FA
 
 ---
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sublab-xl-c3d902)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sublab-xl-c3d902&chan=art&data1=sublab-xl-c3d902)
 
 ---
 
@@ -75,7 +75,7 @@ A: It supports common plugin formats, but verify supported formats and DAW compa
 
 A dedicated bass synthesizer from a focused developer — 38% is a meaningful discount on a tool built for one specific job. If low-end is central to your productions, this is the kind of deal worth acting on.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sublab-xl-c3d902)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sublab-xl-c3d902&chan=art&data1=sublab-xl-c3d902)
 
 ---
 

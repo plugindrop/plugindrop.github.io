@@ -3,12 +3,12 @@ title: "cinematic sale: Features, Pricing & Is It Worth It? (2026)"
 description: "UVI is a French audio software developer with a long track record in sample-based instruments and sound design. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-30T10:42:33Z'
 tags: ["review", "vst-plugin", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=cinematic+sale&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinematic-sale-f8dd8a"
+affiliate: "https://www.pluginboutique.com/search?q=cinematic%20sale&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinematic-sale-f8dd8a&chan=art&data1=cinematic-sale-f8dd8a"
 score: 4.30
 draft: true
 converted: true
 ---
-**cinematic sale** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?q=cinematic+sale&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinematic-sale-f8dd8a)
+**cinematic sale** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?q=cinematic%20sale&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinematic-sale-f8dd8a&chan=art&data1=cinematic-sale-f8dd8a)
 
 ---
 
@@ -41,7 +41,7 @@ This cinematic sale targets the narrative end of music production: the sounds de
 
 UVI runs periodic sales on their catalog, though 50% discounts represent the deeper end of their typical promotional range. This sale is framed around their cinematic lineup specifically, which doesn't receive blanket discounts as frequently as their broader catalog.
 
-[→ Get the UVI Cinematic Sale at Direct](https://www.pluginboutique.com/search?q=cinematic+sale&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinematic-sale-f8dd8a)
+[→ Get the UVI Cinematic Sale at Direct](https://www.pluginboutique.com/search?q=cinematic%20sale&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinematic-sale-f8dd8a&chan=art&data1=cinematic-sale-f8dd8a)
 
 ---
 
@@ -74,7 +74,7 @@ A: UVI Workstation operates as a VST, AU, and AAX plugin, covering compatibility
 
  Cinematic libraries at this price point with a perpetual license structure represent clear long-term value for composers working in this space.
 
-[→ Get the UVI Cinematic Sale at Direct](https://www.pluginboutique.com/search?q=cinematic+sale&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinematic-sale-f8dd8a)
+[→ Get the UVI Cinematic Sale at Direct](https://www.pluginboutique.com/search?q=cinematic%20sale&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinematic-sale-f8dd8a&chan=art&data1=cinematic-sale-f8dd8a)
 
 ---
 

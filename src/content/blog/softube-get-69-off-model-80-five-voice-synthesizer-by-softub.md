@@ -3,7 +3,7 @@ title: "Model 80 Five Voice Synthesizer: Features, Pricing & Is It Worth It? (20
 description: "Model 80 is a polyphonic synthesizer plugin developed by Softube, a Swedish company known for high-fidelity analog. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-18T13:40:30Z'
 tags: ["review", "softube", "music-production", "synth"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-69-off-model-80-five-voice-synthesizer-by-softub&a_aid=69cb95abe1763&chan=art&data1=softube-get-69-off-model-80-five-voice-synthesizer-by-softub"
 heroImage: /images/softube-get-69-off-model-80-five-voice-synthesizer-by-softub.jpg
 score: 8.16
 draft: false

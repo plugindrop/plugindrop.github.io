@@ -3,13 +3,13 @@ title: "dime Bundle: Features, Pricing & Is It Worth It? (2026)"
 description: "The dime Bundle is an effects plugin bundle available exclusively through Plugin Boutique. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:27:47Z'
 tags: ["review", "effects", "bundle", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16946-dime-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dime-bundle-0bd18e"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16946-dime-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dime-bundle-0bd18e&chan=art&data1=dime-bundle-0bd18e"
 heroImage: /images/dime-bundle-0bd18e.jpg
 score: 8.82
 draft: false
 converted: true
 ---
-**dime Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16946-dime-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dime-bundle-0bd18e)
+**dime Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16946-dime-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dime-bundle-0bd18e&chan=art&data1=dime-bundle-0bd18e)
 
 ---
 
@@ -36,7 +36,7 @@ Based on the product listing category and deal structure, the dime Bundle is pos
 
 Note: Verify current pricing on the product page — deals can change at any time.
 
-[Check current price and buy at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16946-dime-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dime-bundle-0bd18e)
+[Check current price and buy at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16946-dime-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dime-bundle-0bd18e&chan=art&data1=dime-bundle-0bd18e)
 
 ---
 
@@ -72,7 +72,7 @@ A: Refund and return policies are set by Plugin Boutique. Check their official s
 
 ## Where to Buy
 
-An effects bundle doesn't happen every day — 17% is a legitimate discount worth acting on if this fits your workflow. [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16946-dime-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dime-bundle-0bd18e)
+An effects bundle doesn't happen every day — 17% is a legitimate discount worth acting on if this fits your workflow. [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16946-dime-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dime-bundle-0bd18e&chan=art&data1=dime-bundle-0bd18e)
 
 ---
 

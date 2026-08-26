@@ -3,7 +3,7 @@ title: "49% Off Space Age 555 — Retro Reverb for Mix Ambience ($35)"
 description: "Space Age 555 is currently ~~$69~~ **$35** at Plugin Boutique, a 49% discount. If you want a retro-flavored reverb effect for less than the price of most..."
 pubDate: "2026-07-19T22:57:49Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/13936-Space-Age-555?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=space-age-555-17dbe2"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/13936-Space-Age-555?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=space-age-555-17dbe2&chan=art&data1=space-age-555-17dbe2"
 heroImage: "/images/space-age-555-17dbe2.jpg"
 score: 7.65
 dealPrice: "$35.00"
@@ -12,7 +12,7 @@ discount: "49% OFF"
 xText: "space age 555 dropped 49% on launch day—this rarely happens with new plugins. it'll probably bounce back to full price by next week. if you've been waiting for a gap like this, here it is."
 draft: false
 ---
-**TL;DR:** Space Age 555 is currently ~~$69~~ **$35** at Plugin Boutique, a 49% discount. If you want a retro-flavored reverb effect for less than the price of most single plugins, this is a straightforward way to add one to your rack. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/13936-Space-Age-555?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=space-age-555-17dbe2).
+**TL;DR:** Space Age 555 is currently ~~$69~~ **$35** at Plugin Boutique, a 49% discount. If you want a retro-flavored reverb effect for less than the price of most single plugins, this is a straightforward way to add one to your rack. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/13936-Space-Age-555?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=space-age-555-17dbe2&chan=art&data1=space-age-555-17dbe2).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fvcBu6Y9kGQ" title="49% Off Space Age 555 — Retro Reverb for Mix Ambience ($35) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -47,7 +47,7 @@ For the full feature breakdown, including any preset count, controls, or bundled
 
 Plugin Boutique runs frequent sitewide and developer-specific promotions, so discounts like this one do resurface periodically, though the exact cadence and depth vary by title. Verify current pricing on the product page — deals can change without notice.
 
-[Check the current deal price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/13936-Space-Age-555?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=space-age-555-17dbe2).
+[Check the current deal price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/13936-Space-Age-555?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=space-age-555-17dbe2&chan=art&data1=space-age-555-17dbe2).
 
 ## Alternatives at a Glance
 
@@ -75,7 +75,7 @@ A: Deal pricing on Plugin Boutique is typically time-limited or stock-limited. C
 
 ## Get the Deal
 
-Space Age 555 is $35 instead of $69 right now, a 49% saving while the promotion lasts. [Get Space Age 555 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/13936-Space-Age-555?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=space-age-555-17dbe2).
+Space Age 555 is $35 instead of $69 right now, a 49% saving while the promotion lasts. [Get Space Age 555 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/13936-Space-Age-555?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=space-age-555-17dbe2&chan=art&data1=space-age-555-17dbe2).
 
 ## Is This Deal Worth It?
 

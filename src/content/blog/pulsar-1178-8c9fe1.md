@@ -3,13 +3,13 @@ title: "Pulsar 1178: Features, Pricing & Is It Worth It? (2026)"
 description: "Pulsar 1178 is a FET compressor plugin by Pulsar Audio, modeled after the classic hardware 1178 — the stereo. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:28:21Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1&chan=art&data1=pulsar-1178-8c9fe1"
 heroImage: /images/pulsar-1178-8c9fe1.jpg
 score: 7.95
 draft: false
 converted: true
 ---
-**Pulsar 1178** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1)
+**Pulsar 1178** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1&chan=art&data1=pulsar-1178-8c9fe1)
 
 ---
 
@@ -47,7 +47,7 @@ Pulsar Audio has built a solid reputation in mixing communities for their circui
 
 Pulsar Audio doesn't run deep discounts constantly — when they do appear, 40%+ off is meaningful. Verify current pricing on the product page, as deals can change.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1&chan=art&data1=pulsar-1178-8c9fe1)
 
 ---
 
@@ -79,7 +79,7 @@ A: System requirements vary by platform and plugin version. Check the official p
 
 ---
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/7344-Pulsar-1178?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-1178-8c9fe1&chan=art&data1=pulsar-1178-8c9fe1)
 
 ---
 

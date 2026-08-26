@@ -3,13 +3,13 @@ title: "Loop Engine 3: Features, Pricing & Is It Worth It? (2026)"
 description: "Loop Engine 3 is a music theory and loop-generation plugin sold through Plugin Boutique, categorized under Studio. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:28:40Z'
 tags: ["review", "vst-plugin", "synth", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/13923-Loop-Engine-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=loop-engine-3-d7fead"
+affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/13923-Loop-Engine-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=loop-engine-3-d7fead&chan=art&data1=loop-engine-3-d7fead"
 heroImage: /images/loop-engine-3-d7fead.jpg
 score: 7.75
 draft: false
 converted: true
 ---
-**Loop Engine 3** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/13923-Loop-Engine-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=loop-engine-3-d7fead)
+**Loop Engine 3** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/13923-Loop-Engine-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=loop-engine-3-d7fead&chan=art&data1=loop-engine-3-d7fead)
 
 ---
 
@@ -40,7 +40,7 @@ Loop Engine 3 is a music theory and loop-generation plugin sold through Plugin B
 
  This isn't a modest seasonal discount — it's the kind of price drop worth acting on rather than waiting out. Whether this returns to this level is hard to predict, but $24 is a low-risk buy for a dedicated music theory toolset.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/13923-Loop-Engine-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=loop-engine-3-d7fead)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/13923-Loop-Engine-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=loop-engine-3-d7fead&chan=art&data1=loop-engine-3-d7fead)
 
 ---
 
@@ -76,7 +76,7 @@ A: Yes — the standard price is $109.00. This is a promotional deal, and the di
 
  → **$24.00**.  At this price, the risk-to-value ratio is squarely in the buyer's favor.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/13923-Loop-Engine-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=loop-engine-3-d7fead)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/13923-Loop-Engine-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=loop-engine-3-d7fead&chan=art&data1=loop-engine-3-d7fead)
 
 ---
 

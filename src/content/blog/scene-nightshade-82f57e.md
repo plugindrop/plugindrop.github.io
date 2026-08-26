@@ -3,7 +3,7 @@ title: "32% Off Scene Nightshade"
 description: "Scene Nightshade is currently 32% off at Plugin Boutique — drop from ~~$28.00~~ to just **$19.00**. That's a solid saving on a Kontakt instrument built..."
 pubDate: "2026-06-01T13:12:08Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15845-Scene-Nightshade?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scene-nightshade-82f57e"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15845-Scene-Nightshade?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scene-nightshade-82f57e&chan=art&data1=scene-nightshade-82f57e"
 heroImage: "/images/scene-nightshade-82f57e.jpg"
 score: 8.79
 dealPrice: "$19.00"
@@ -12,7 +12,7 @@ discount: "32% OFF"
 xText: "32% off fresh synth just dropped. nightshade's got that saturated warmth at entry price - new gear almost never stays this cheap. grab it while it's here."
 draft: true
 ---
-**TL;DR:** Scene Nightshade is currently 32% off at Plugin Boutique — drop from ~~$28.00~~ to just **$19.00**. That's a solid saving on a Kontakt instrument built for atmospheric and cinematic sound design. [Grab it here while the deal lasts.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15845-Scene-Nightshade?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scene-nightshade-82f57e)
+**TL;DR:** Scene Nightshade is currently 32% off at Plugin Boutique — drop from ~~$28.00~~ to just **$19.00**. That's a solid saving on a Kontakt instrument built for atmospheric and cinematic sound design. [Grab it here while the deal lasts.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15845-Scene-Nightshade?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scene-nightshade-82f57e&chan=art&data1=scene-nightshade-82f57e)
 
 ---
 
@@ -36,7 +36,7 @@ Details beyond the category are best confirmed on the product page, but as a Kon
 - **Scene-based preset structure** — name suggests preset organization around moods or scenes, useful for scoring and sound design workflows
 - **DAW compatibility** — works in any host that supports Kontakt as a plugin (VST/AU/AAX)
 
-Check the [official product page](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15845-Scene-Nightshade?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scene-nightshade-82f57e) for full feature specs, sample count, and Kontakt version requirements.
+Check the [official product page](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15845-Scene-Nightshade?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scene-nightshade-82f57e&chan=art&data1=scene-nightshade-82f57e) for full feature specs, sample count, and Kontakt version requirements.
 
 ---
 
@@ -59,7 +59,7 @@ Check the [official product page](https://www.pluginboutique.com/product/1-Instr
 
 > Verify current pricing on the product page — deals can change without notice.
 
-[Get Scene Nightshade for $19 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15845-Scene-Nightshade?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scene-nightshade-82f57e)
+[Get Scene Nightshade for $19 at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15845-Scene-Nightshade?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scene-nightshade-82f57e&chan=art&data1=scene-nightshade-82f57e)
 
 ---
 
@@ -95,7 +95,7 @@ A: Plugin Boutique's refund policy applies — check their site directly, as dig
 
 Scene Nightshade is ~~$28.00~~ **$19.00** right now — 32% off at Plugin Boutique. For producers already in the Kontakt ecosystem, that's a low-friction way to add dark, cinematic textures to the toolkit.
 
-[Claim the 32% discount at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15845-Scene-Nightshade?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scene-nightshade-82f57e)
+[Claim the 32% discount at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15845-Scene-Nightshade?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scene-nightshade-82f57e&chan=art&data1=scene-nightshade-82f57e)
 
 ## Related Guides
 

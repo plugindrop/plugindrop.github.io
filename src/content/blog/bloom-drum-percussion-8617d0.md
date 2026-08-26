@@ -3,13 +3,13 @@ title: "Bloom Drum Percussion: Features, Pricing & Is It Worth It? (2026)"
 description: "Bloom Drum Percussion is a virtual percussion instrument sold through Plugin Boutique. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:28:36Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "drums", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14163-Bloom-Drum-Percussion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-percussion-8617d0"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14163-Bloom-Drum-Percussion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-percussion-8617d0&chan=art&data1=bloom-drum-percussion-8617d0"
 heroImage: /images/bloom-drum-percussion-8617d0.jpg
 score: 7.80
 draft: false
 converted: true
 ---
-**Bloom Drum Percussion** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14163-Bloom-Drum-Percussion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-percussion-8617d0)
+**Bloom Drum Percussion** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14163-Bloom-Drum-Percussion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-percussion-8617d0&chan=art&data1=bloom-drum-percussion-8617d0)
 
 ---
 
@@ -45,7 +45,7 @@ Based on the product listing category and available information:
 
 *Deals can change without notice — verify current pricing on the product page before purchasing.*
 
-[Check the current deal price on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14163-Bloom-Drum-Percussion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-percussion-8617d0)
+[Check the current deal price on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14163-Bloom-Drum-Percussion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-percussion-8617d0&chan=art&data1=bloom-drum-percussion-8617d0)
 
 ---
 
@@ -77,7 +77,7 @@ A: Check the Plugin Boutique product listing for any available demo or trial opt
 
 ---
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14163-Bloom-Drum-Percussion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-percussion-8617d0)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14163-Bloom-Drum-Percussion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-drum-percussion-8617d0&chan=art&data1=bloom-drum-percussion-8617d0)
 
 ---
 

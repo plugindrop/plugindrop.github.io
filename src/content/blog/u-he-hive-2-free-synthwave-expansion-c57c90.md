@@ -3,7 +3,7 @@ title: "u he Hive 2 FREE Synthwave Expansion"
 description: "u-he Hive 2 is currently bundled with a free Synthwave Expansion at Plugin Boutique for ~~$167.42~~ $149.00 — saving $18.42 on a combined package that would"
 pubDate: "2026-04-27T10:40:25Z"
 tags: ["free", "effects", "synth", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/7683-u-he-Hive-2-FREE-Synthwave-Expansion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-hive-2-free-synthwave-expansion-c57c90"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/7683-u-he-Hive-2-FREE-Synthwave-Expansion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-hive-2-free-synthwave-expansion-c57c90&chan=art&data1=u-he-hive-2-free-synthwave-expansion-c57c90"
 heroImage: "/images/u-he-hive-2-free-synthwave-expansion-c57c90.jpg"
 score: 9.90
 dealPrice: "$149.00"
@@ -12,7 +12,7 @@ discount: "11% OFF"
 xText: "free u-he hive 2 synthwave pack just dropped and it's legitimate. this thing sits in a mix like you spent hours on it. download it now"
 draft: false
 ---
-**TL;DR:** u-he Hive 2 is currently bundled with a free Synthwave Expansion at Plugin Boutique for ~~$167.42~~ $149.00 — saving $18.42 on a combined package that would otherwise cost more purchased separately. [→ Get Hive 2 + Free Synthwave Expansion at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/7683-u-he-Hive-2-FREE-Synthwave-Expansion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-hive-2-free-synthwave-expansion-c57c90)
+**TL;DR:** u-he Hive 2 is currently bundled with a free Synthwave Expansion at Plugin Boutique for ~~$167.42~~ $149.00 — saving $18.42 on a combined package that would otherwise cost more purchased separately. [→ Get Hive 2 + Free Synthwave Expansion at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/7683-u-he-Hive-2-FREE-Synthwave-Expansion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-hive-2-free-synthwave-expansion-c57c90&chan=art&data1=u-he-hive-2-free-synthwave-expansion-c57c90)
 
 ---
 
@@ -64,7 +64,7 @@ u-he products don't see aggressive discounting frequently. The developer maintai
 
 *Price verified at publication. Check the link for current availability.*
 
-[→ Get Hive 2 + Free Synthwave Expansion at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/7683-u-he-Hive-2-FREE-Synthwave-Expansion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-hive-2-free-synthwave-expansion-c57c90)
+[→ Get Hive 2 + Free Synthwave Expansion at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/7683-u-he-Hive-2-FREE-Synthwave-Expansion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-hive-2-free-synthwave-expansion-c57c90&chan=art&data1=u-he-hive-2-free-synthwave-expansion-c57c90)
 
 ---
 
@@ -100,7 +100,7 @@ A: Check the official u-he product page for the current list of supported format
 
 The bundle combines Hive 2's established synthesis engine with a genre-ready preset library at $149.00 — $18.42 less than buying them as separate line items. For producers targeting synthwave or building out their u-he toolkit, the math is straightforward.
 
-[→ Get Hive 2 + Free Synthwave Expansion at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/7683-u-he-Hive-2-FREE-Synthwave-Expansion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-hive-2-free-synthwave-expansion-c57c90)
+[→ Get Hive 2 + Free Synthwave Expansion at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/7683-u-he-Hive-2-FREE-Synthwave-Expansion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-hive-2-free-synthwave-expansion-c57c90&chan=art&data1=u-he-hive-2-free-synthwave-expansion-c57c90)
 
 ---
 

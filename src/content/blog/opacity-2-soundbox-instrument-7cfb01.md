@@ -3,13 +3,13 @@ title: "Opacity 2 Soundbox Instrument: Features, Pricing & Is It Worth It? (2026
 description: "Opacity 2 Soundbox Instrument is a virtual instrument plugin available through Plugin Boutique, designed for. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-28T08:56:45Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16560-Opacity-2-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-2-soundbox-instrument-7cfb01"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16560-Opacity-2-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-2-soundbox-instrument-7cfb01&chan=art&data1=opacity-2-soundbox-instrument-7cfb01"
 heroImage: /images/opacity-2-soundbox-instrument-7cfb01.jpg
 score: 7.03
 draft: false
 converted: true
 ---
-**Opacity 2 Soundbox Instrument** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16560-Opacity-2-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-2-soundbox-instrument-7cfb01)
+**Opacity 2 Soundbox Instrument** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16560-Opacity-2-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-2-soundbox-instrument-7cfb01&chan=art&data1=opacity-2-soundbox-instrument-7cfb01)
 
 ---
 
@@ -41,7 +41,7 @@ Opacity 2 Soundbox Instrument is a virtual instrument plugin available through P
 
  Plugins at this price tier don't always see deep discounts — developers often hold margins tighter on lower-priced products. If you've had this on your radar, the current deal represents the better entry point relative to its standard pricing.
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16560-Opacity-2-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-2-soundbox-instrument-7cfb01)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16560-Opacity-2-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-2-soundbox-instrument-7cfb01&chan=art&data1=opacity-2-soundbox-instrument-7cfb01)
 
 ---
 
@@ -74,7 +74,7 @@ A: At time of writing this deal brings it to $27.95 standalone — check the Plu
 
 Opacity 2 Soundbox Instrument is currently, bringing it to $27.95 from . For producers in ambient and cinematic genres, this is the lowest barrier to entry the instrument has seen.
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16560-Opacity-2-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-2-soundbox-instrument-7cfb01)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16560-Opacity-2-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-2-soundbox-instrument-7cfb01&chan=art&data1=opacity-2-soundbox-instrument-7cfb01)
 
 ---
 

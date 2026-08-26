@@ -3,13 +3,13 @@ title: "Texture Lab Bundle: Features, Pricing & Is It Worth It? (2026)"
 description: "The Texture Lab Bundle is an effects bundle available exclusively through Plugin Boutique, designed around textural. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-22T23:12:19Z'
 tags: ["review", "bundle", "effects", "music-production"]
-affiliate: https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17150-Texture-Lab-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=texture-lab-bundle-8897d9
+affiliate: https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17150-Texture-Lab-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=texture-lab-bundle-8897d9&chan=art&data1=texture-lab-bundle-8897d9
 heroImage: /images/texture-lab-bundle-8897d9.jpg
 score: 9.65
 draft: false
 converted: true
 ---
-**Texture Lab Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17150-Texture-Lab-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=texture-lab-bundle-8897d9)
+**Texture Lab Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17150-Texture-Lab-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=texture-lab-bundle-8897d9&chan=art&data1=texture-lab-bundle-8897d9)
 
 ---
 
@@ -44,7 +44,7 @@ The Texture Lab Bundle is an effects bundle available exclusively through Plugin
 
 Verify current pricing on the product page — deals can change.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17150-Texture-Lab-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=texture-lab-bundle-8897d9)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17150-Texture-Lab-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=texture-lab-bundle-8897d9&chan=art&data1=texture-lab-bundle-8897d9)
 
 ---
 
@@ -80,7 +80,7 @@ A: Plugin Boutique's refund policy applies to this purchase — check their offi
 
 If texture and experimental processing are gaps in your plugin setup, this is a cost-efficient way to fill them.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17150-Texture-Lab-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=texture-lab-bundle-8897d9)
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17150-Texture-Lab-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=texture-lab-bundle-8897d9&chan=art&data1=texture-lab-bundle-8897d9)
 
 ---
 

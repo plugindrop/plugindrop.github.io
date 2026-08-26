@@ -3,13 +3,13 @@ title: "INTENSITY 2: Features, Pricing & Is It Worth It? (2026)"
 description: "INTENSITY 2 is a dynamics processor plugin available through Plugin Boutique. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:28:07Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=intensity-2-cfc08a"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=intensity-2-cfc08a&chan=art&data1=intensity-2-cfc08a"
 heroImage: /images/intensity-2-cfc08a.jpg
 score: 8.32
 draft: false
 converted: true
 ---
-**INTENSITY 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=intensity-2-cfc08a)
+**INTENSITY 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=intensity-2-cfc08a&chan=art&data1=intensity-2-cfc08a)
 
 ---
 
@@ -29,7 +29,7 @@ Based on its category listing as a dynamics processor, INTENSITY 2 is designed a
 - **Visual Metering** — Real-time feedback on how dynamics are being affected, useful for precise mixing decisions.
 - **Stereo and Mid/Side Processing** — Flexible routing options for both mix bus and individual channel applications.
 
-For exact system requirements, supported DAWs, and activation method, check the [Plugin Boutique product page](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=intensity-2-cfc08a).
+For exact system requirements, supported DAWs, and activation method, check the [Plugin Boutique product page](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=intensity-2-cfc08a&chan=art&data1=intensity-2-cfc08a).
 
 ---
 
@@ -42,7 +42,7 @@ For exact system requirements, supported DAWs, and activation method, check the 
 
 > **Note:** Verify current pricing on the product page — deals can change.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2? If you want a full compressor with more algorithmic variety, Pro-C 2 covers more ground at a higher price point.
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&chan=art&data1=intensity-2-cfc08a? If you want a full compressor with more algorithmic variety, Pro-C 2 covers more ground at a higher price point.
 
 ---
 
@@ -63,7 +63,7 @@ A: Refund policies vary by developer. Check Plugin Boutique's terms of service a
 
 **$50 off** a dynamics processor is a solid window to grab a tool you'd otherwise pay for. If your mix chain is missing a dedicated dynamics shaper, this is worth a look at the current price.
 
-[Pick up INTENSITY 2 for $99 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=intensity-2-cfc08a)
+[Pick up INTENSITY 2 for $99 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=intensity-2-cfc08a&chan=art&data1=intensity-2-cfc08a)
 
 ---
 

@@ -3,13 +3,13 @@ title: "Syntorial 2 training software & synth: Features, Pricing & Is It Worth I
 description: "Syntorial 2 is an interactive synthesizer training application developed by Audible Genius. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-20T12:43:28Z'
 tags: ["review", "audible genius", "training", "tutorial", "synth", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/66-Music-Courses/78-Video-Courses/10674-Syntorial-2?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=syntorial-2-training-software-synth-by-audible-genius-on-sal"
+affiliate: "https://www.pluginboutique.com/product/66-Music-Courses/78-Video-Courses/10674-Syntorial-2?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=syntorial-2-training-software-synth-by-audible-genius-on-sal&chan=art&data1=syntorial-2-training-software-synth-by-audible-genius-on-sal"
 heroImage: /images/syntorial-2-training-software-synth-by-audible-genius-on-sal.jpg
 score: 10.00
 draft: false
 converted: true
 ---
-**Syntorial 2 training software & synth** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/66-Music-Courses/78-Video-Courses/10674-Syntorial-2?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=syntorial-2-training-software-synth-by-audible-genius-on-sal)
+**Syntorial 2 training software & synth** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/66-Music-Courses/78-Video-Courses/10674-Syntorial-2?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=syntorial-2-training-software-synth-by-audible-genius-on-sal&chan=art&data1=syntorial-2-training-software-synth-by-audible-genius-on-sal)
 
 ---
 
@@ -47,7 +47,7 @@ Syntorial has been a long-running recommendation in synthesis learning discussio
 
  Verify exact current prices directly on the product page, as deals can change without notice.
 
-[Check current pricing and grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/66-Music-Courses/78-Video-Courses/10674-Syntorial-2?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=syntorial-2-training-software-synth-by-audible-genius-on-sal)
+[Check current pricing and grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/66-Music-Courses/78-Video-Courses/10674-Syntorial-2?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=syntorial-2-training-software-synth-by-audible-genius-on-sal&chan=art&data1=syntorial-2-training-software-synth-by-audible-genius-on-sal)
 
 ---
 
@@ -80,7 +80,7 @@ A: Syntorial 2 runs as a standalone application. For full system requirements, r
 
  These sales don't run constantly — if synthesis is on your learning list, now is a reasonable time to act.
 
-[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/66-Music-Courses/78-Video-Courses/10674-Syntorial-2?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=syntorial-2-training-software-synth-by-audible-genius-on-sal)
+[Check the current price at Plugin Boutique.](https://pluginboutique.com/product/66-Music-Courses/78-Video-Courses/10674-Syntorial-2?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=syntorial-2-training-software-synth-by-audible-genius-on-sal&chan=art&data1=syntorial-2-training-software-synth-by-audible-genius-on-sal)
 
 ---
 

@@ -3,7 +3,7 @@ title: "VST Plugin Black Friday Guide 2026 — Every Major Brand, Ranked by Disc
 description: "FabFilter, Arturia, u-he, NI, Spitfire, Waves — exact historical Black Friday discounts, sale dates, and which brands never go on sale. Real price data, no speculation."
 pubDate: "2026-09-01T00:00:00Z"
 tags: ["black-friday", "buying-guide", "deals"]
-affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bf-guide-2026"
+affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bf-guide-2026&chan=art&data1=vst-plugin-black-friday-guide"
 dealPrice: "up to 75% off"
 heroImage: "/images/vst-plugin-black-friday-guide.jpg"
 score: 9.0

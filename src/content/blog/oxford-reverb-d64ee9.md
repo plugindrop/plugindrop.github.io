@@ -3,7 +3,7 @@ title: "75% Off Oxford Reverb"
 description: "Oxford Reverb is now discounted at Plugin Boutique — ~~$318~~ down to **$79**, saving you around $239. It's a modest 2% cut, but on a pro-grade..."
 pubDate: "2026-05-15T01:04:23Z"
 tags: ["sale", "vst-plugin", "effects", "reverb", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/915-Oxford-Reverb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=oxford-reverb-d64ee9"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/915-Oxford-Reverb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=oxford-reverb-d64ee9&chan=art&data1=oxford-reverb-d64ee9"
 heroImage: "/images/oxford-reverb-d64ee9.jpg"
 score: 10.00
 dealPrice: "$79"
@@ -12,7 +12,7 @@ discount: "75% OFF"
 xText: "brand new oxford reverb just shipped with pristine algorithms that sit in a mix like butter. this is exactly when you jump on fresh releases"
 draft: true
 ---
-**TL;DR:** Oxford Reverb is now discounted at Plugin Boutique — ~~$318~~ down to **$79**, saving you around $239. It's a modest 2% cut, but on a pro-grade reverb with serious studio heritage, that's still real money. [Grab it while the sale is live.](https://www.pluginboutique.com/product/2-Effects/17-Reverb/915-Oxford-Reverb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=oxford-reverb-d64ee9)
+**TL;DR:** Oxford Reverb is now discounted at Plugin Boutique — ~~$318~~ down to **$79**, saving you around $239. It's a modest 2% cut, but on a pro-grade reverb with serious studio heritage, that's still real money. [Grab it while the sale is live.](https://www.pluginboutique.com/product/2-Effects/17-Reverb/915-Oxford-Reverb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=oxford-reverb-d64ee9&chan=art&data1=oxford-reverb-d64ee9)
 
 ---
 
@@ -56,7 +56,7 @@ Two percent isn't a flashy headline discount. But Sonnox doesn't flood the marke
 
 > Verify current pricing on the product page — deals can change without notice.
 
-[Get Oxford Reverb at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/17-Reverb/915-Oxford-Reverb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=oxford-reverb-d64ee9)
+[Get Oxford Reverb at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/17-Reverb/915-Oxford-Reverb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=oxford-reverb-d64ee9&chan=art&data1=oxford-reverb-d64ee9)
 
 ---
 
@@ -92,7 +92,7 @@ A: Requirements vary by version and platform. Check the product page for current
 
 Oxford Reverb drops from ~~$318~~ to **$79** — around $239 off a professional reverb tool with genuine studio heritage behind it. If it's been sitting in your wishlist, this sale is the nudge.
 
-[Get Oxford Reverb at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/17-Reverb/915-Oxford-Reverb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=oxford-reverb-d64ee9)
+[Get Oxford Reverb at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/17-Reverb/915-Oxford-Reverb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=oxford-reverb-d64ee9&chan=art&data1=oxford-reverb-d64ee9)
 
 ## Related Guides
 

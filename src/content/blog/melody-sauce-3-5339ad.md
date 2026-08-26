@@ -3,7 +3,7 @@ title: "20% Off Melody Sauce 3 — AI Melody Generation for DAWs ($79)"
 description: "Melody Sauce 3 is discounted to **$79**, down from ~~$99~~ — a 20% saving. It's a MIDI melody generation plugin for producers who want fast, key-locked..."
 pubDate: "2026-07-27T17:19:39Z"
 tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15887-Melody-Sauce-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-5339ad"
+affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15887-Melody-Sauce-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-5339ad&chan=art&data1=melody-sauce-3-5339ad"
 heroImage: "/images/melody-sauce-3-5339ad.jpg"
 score: 9.62
 dealPrice: "$79.00"
@@ -14,7 +14,7 @@ draft: false
 ---
 If you write electronic music and regularly hit a wall trying to find the next hook, Melody Sauce 3 is worth a look at this price. It won't write your song for you, but it can get you past a blank piano roll fast.
 
-**TL;DR:** Melody Sauce 3 is discounted to **$79**, down from ~~$99~~ — a 20% saving. It's a MIDI melody generation plugin for producers who want fast, key-locked idea starters inside their DAW. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15887-Melody-Sauce-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-5339ad).
+**TL;DR:** Melody Sauce 3 is discounted to **$79**, down from ~~$99~~ — a 20% saving. It's a MIDI melody generation plugin for producers who want fast, key-locked idea starters inside their DAW. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15887-Melody-Sauce-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-5339ad&chan=art&data1=melody-sauce-3-5339ad).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vRScH7VizKU" title="20% Off Melody Sauce 3 — AI Melody Generation for DAWs ($79) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -50,7 +50,7 @@ If you already write melodies by ear and don't need generative assistance, this 
 |---|---|---|
 | ~~$99~~ | $79 | $20 (20%) |
 
-Verify current pricing on the product page — deals can change, and Plugin Boutique sale windows are typically time-limited. [Check the deal on Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15887-Melody-Sauce-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-5339ad).
+Verify current pricing on the product page — deals can change, and Plugin Boutique sale windows are typically time-limited. [Check the deal on Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15887-Melody-Sauce-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-5339ad&chan=art&data1=melody-sauce-3-5339ad).
 
 ## Alternatives at a Glance
 
@@ -78,7 +78,7 @@ A: It works as a plugin in DAWs that support standard plugin formats. Confirm yo
 
 ## Get the Deal
 
-$20 off brings Melody Sauce 3 down to $79 from $99. [Get Melody Sauce 3 at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15887-Melody-Sauce-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-5339ad) while the discount is active.
+$20 off brings Melody Sauce 3 down to $79 from $99. [Get Melody Sauce 3 at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15887-Melody-Sauce-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-5339ad&chan=art&data1=melody-sauce-3-5339ad) while the discount is active.
 
 ## Is This Deal Worth It?
 

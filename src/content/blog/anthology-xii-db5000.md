@@ -3,13 +3,13 @@ title: "Anthology XII: Features, Pricing & Is It Worth It? (2026)"
 description: "Anthology XII is a complete plugin collection bundle available through Plugin Boutique, categorized under their. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-30T21:27:16Z'
 tags: ["review", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/8762-Anthology-XII?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=anthology-xii-db5000"
+affiliate: "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/8762-Anthology-XII?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=anthology-xii-db5000&chan=art&data1=anthology-xii-db5000"
 heroImage: /images/anthology-xii-db5000.jpg
 score: 9.65
 draft: false
 converted: true
 ---
-**Anthology XII** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/8762-Anthology-XII?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=anthology-xii-db5000)
+**Anthology XII** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/8762-Anthology-XII?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=anthology-xii-db5000&chan=art&data1=anthology-xii-db5000)
 
 ---
 
@@ -33,7 +33,7 @@ Anthology XII is a complete plugin collection bundle available through Plugin Bo
 
 ## Who Is It For?
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/8762-Anthology-XII?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=anthology-xii-db5000)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/8762-Anthology-XII?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=anthology-xii-db5000&chan=art&data1=anthology-xii-db5000)
 
 ---
 
@@ -62,7 +62,7 @@ A: System requirements depend on the publisher's specifications — check the of
 
 ---
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/8762-Anthology-XII?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=anthology-xii-db5000)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/8762-Anthology-XII?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=anthology-xii-db5000&chan=art&data1=anthology-xii-db5000)
 
 ---
 

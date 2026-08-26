@@ -18,7 +18,7 @@ We track FabFilter Pro-Q 4's price history directly, so this is what buying it h
 | Typical sale (recurring) | $149 | Achievable on a normal sale cycle |
 | All-time low (rare) | $105 | Lowest price we have ever recorded |
 
-[Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763).
+[Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=cheapest-way-to-get-fabfilter-pro-q-4).
 
 We could not confirm with confidence which bundles currently include FabFilter Pro-Q 4, so this guide sticks to the standalone price history above.
 

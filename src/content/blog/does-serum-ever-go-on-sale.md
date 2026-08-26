@@ -57,7 +57,7 @@ Since Xfer Serum 2 never goes on sale:
 
 - **[Vital](https://vital.audio)** — Free wavetable synth — widely considered nearly equal to Serum in capability
 - **[Surge XT](https://surge-synthesizer.github.io)** — Free open-source synth with extensive wavetable and modulation features
-- **[Phase Plant](https://www.pluginboutique.com/product/1-Instruments/66-Synth/9255-Phase-Plant?a_aid=69cb95abe1763)** — Goes 50% off 2-3x/year to ~$99 — modular synth with Serum-comparable sound design
+- **[Phase Plant](https://www.pluginboutique.com/product/1-Instruments/66-Synth/9255-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=does-serum-ever-go-on-sale)** — Goes 50% off 2-3x/year to ~$99 — modular synth with Serum-comparable sound design
 
 
 ---

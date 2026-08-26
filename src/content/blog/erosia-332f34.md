@@ -3,7 +3,7 @@ title: "33% Off Erosia"
 description: "Erosia is currently **33% off** at Plugin Boutique, dropping from ~~$149~~ to **$100** — a $49 saving on a Kontakt-based instrument. 33% discounts on..."
 pubDate: "2026-06-01T11:39:41Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15656-Erosia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=erosia-332f34"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15656-Erosia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=erosia-332f34&chan=art&data1=erosia-332f34"
 heroImage: "/images/erosia-332f34.jpg"
 score: 10.00
 dealPrice: "$100.00"
@@ -12,7 +12,7 @@ discount: "33% OFF"
 xText: "fresh plugins don't discount this fast. 33% off erosia already—if they're dropping it this hard this early, something's landed right"
 draft: true
 ---
-**TL;DR:** Erosia is currently **33% off** at Plugin Boutique, dropping from ~~$149~~ to **$100** — a $49 saving on a Kontakt-based instrument. 33% discounts on individual Kontakt instruments don't come around constantly, so this is worth a look if it fits your workflow. [Grab it here while the deal is live.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15656-Erosia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=erosia-332f34)
+**TL;DR:** Erosia is currently **33% off** at Plugin Boutique, dropping from ~~$149~~ to **$100** — a $49 saving on a Kontakt-based instrument. 33% discounts on individual Kontakt instruments don't come around constantly, so this is worth a look if it fits your workflow. [Grab it here while the deal is live.](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15656-Erosia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=erosia-332f34&chan=art&data1=erosia-332f34)
 
 ---
 
@@ -53,7 +53,7 @@ A 33% discount on a standalone Kontakt instrument is a meaningful cut — most i
 
 Note: verify current pricing on the product page — deals can change without notice.
 
-[Check the current price and grab Erosia at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15656-Erosia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=erosia-332f34)
+[Check the current price and grab Erosia at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15656-Erosia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=erosia-332f34&chan=art&data1=erosia-332f34)
 
 ## Alternatives at a Glance
 
@@ -85,7 +85,7 @@ A: Refund policies for digital instruments vary. Check Plugin Boutique's terms o
 
 ~~$149~~ → **$100** is a straightforward $49 saving on a Kontakt instrument — 33% off is worth acting on if Erosia matches your production style.
 
-[Grab Erosia at 33% off on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15656-Erosia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=erosia-332f34)
+[Grab Erosia at 33% off on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15656-Erosia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=erosia-332f34&chan=art&data1=erosia-332f34)
 
 ## Related Guides
 

@@ -44,7 +44,7 @@ heroImage: '/images/when-does-addictive-drums-2-go-on-sale.jpg'
 > **Buying tip:** Addictive Drums 2's Black Friday sales are very consistent at 40-50% off. Thomann often undercuts PB pricing by $10-15 on XLN Audio. The Custom XL Collection expansion packs also go on sale separately and often deeply at PB. At $70 (Thomann BF 2024), it's outstanding value for a professional acoustic drum instrument.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763&chan=art&data1=when-does-addictive-drums-2-go-on-sale)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 

@@ -3,13 +3,13 @@ title: "DW Soundworks: Features, Pricing & Is It Worth It? (2026)"
 description: "DW Soundworks is a virtual drum instrument developed by Roland in collaboration with Drum Workshop (DW) and Gretsch —. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-27T15:42:43Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15329-DW-Soundworks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dw-soundworks-a1130e"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15329-DW-Soundworks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dw-soundworks-a1130e&chan=art&data1=dw-soundworks-a1130e"
 heroImage: /images/dw-soundworks-a1130e.jpg
 score: 8.65
 draft: false
 converted: true
 ---
-**DW Soundworks** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15329-DW-Soundworks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dw-soundworks-a1130e)
+**DW Soundworks** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15329-DW-Soundworks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dw-soundworks-a1130e&chan=art&data1=dw-soundworks-a1130e)
 
 ---
 
@@ -43,7 +43,7 @@ DW Soundworks is a virtual drum instrument developed by Roland in collaboration 
 
 ---
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15329-DW-Soundworks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dw-soundworks-a1130e)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15329-DW-Soundworks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dw-soundworks-a1130e&chan=art&data1=dw-soundworks-a1130e)
 
 ---
 
@@ -77,7 +77,7 @@ A: Yes — DW Soundworks is built as an expandable platform with additional cont
 
 ##  
 
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15329-DW-Soundworks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dw-soundworks-a1130e)
+[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15329-DW-Soundworks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dw-soundworks-a1130e&chan=art&data1=dw-soundworks-a1130e)
 
 ---
 

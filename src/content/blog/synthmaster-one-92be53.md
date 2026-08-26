@@ -3,13 +3,13 @@ title: "SynthMaster One: Features, Pricing & Is It Worth It? (2026)"
 description: "SynthMaster One is a wavetable and VA (virtual analog) synthesizer developed by KV331 Audio. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-26T05:06:25Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "synth", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/3188-SynthMaster-One?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthmaster-one-92be53"
+affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/3188-SynthMaster-One?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthmaster-one-92be53&chan=art&data1=synthmaster-one-92be53"
 heroImage: /images/synthmaster-one-92be53.jpg
 score: 7.05
 draft: false
 converted: true
 ---
-**SynthMaster One** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/3188-SynthMaster-One?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthmaster-one-92be53)
+**SynthMaster One** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/3188-SynthMaster-One?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthmaster-one-92be53&chan=art&data1=synthmaster-one-92be53)
 
 ---
 
@@ -41,7 +41,7 @@ SynthMaster One is a wavetable and VA (virtual analog) synthesizer developed by 
 - **Existing SynthMaster 2 users** — SynthMaster One complements the full version as a faster, lighter tool for quick patch iteration.
 ---
 
-[Check current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/3188-SynthMaster-One?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthmaster-one-92be53)
+[Check current deal price at Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/4-Synth/3188-SynthMaster-One?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthmaster-one-92be53&chan=art&data1=synthmaster-one-92be53)
 
 ---
 

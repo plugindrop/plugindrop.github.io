@@ -44,7 +44,7 @@ heroImage: '/images/when-does-phase-plant-go-on-sale.jpg'
 > **Buying tip:** Phase Plant's 50% off sales are among the best deals in the synth world. At $99, it's outstanding value for a modular synthesizer. Plugin Boutique carries these sales and often has exact price matching.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/66-Synth/9255-Phase-Plant?a_aid=69cb95abe1763)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/66-Synth/9255-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=when-does-phase-plant-go-on-sale)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 

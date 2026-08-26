@@ -3,7 +3,7 @@ title: "67% Off DeNoizzer"
 description: "DeNoizzer is down to **$9.90** (was ~~$29.90~~) at Plugin Boutique — that's 67% off an audio restoration plugin aimed at cleaning up noisy recordings. At..."
 pubDate: "2026-05-27T14:39:09Z"
 tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/17374-DeNoizzer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=denoizzer-29eebe"
+affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/17374-DeNoizzer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=denoizzer-29eebe&chan=art&data1=denoizzer-29eebe"
 heroImage: "/images/denoizzer-29eebe.jpg"
 score: 7.74
 dealPrice: "$9.90"
@@ -12,7 +12,7 @@ discount: "67% OFF"
 xText: "67% off denoizzer just dropped. rarely see new plugins hit this low this fast. the noise floor stays eliminated without the artifacts you get from gates."
 draft: true
 ---
-**TL;DR:** DeNoizzer is down to **$9.90** (was ~~$29.90~~) at Plugin Boutique — that's 67% off an audio restoration plugin aimed at cleaning up noisy recordings. At under ten dollars, the barrier to adding a dedicated noise reduction tool to your chain is about as low as it gets. [Grab it here while the deal is live.](https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/17374-DeNoizzer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=denoizzer-29eebe)
+**TL;DR:** DeNoizzer is down to **$9.90** (was ~~$29.90~~) at Plugin Boutique — that's 67% off an audio restoration plugin aimed at cleaning up noisy recordings. At under ten dollars, the barrier to adding a dedicated noise reduction tool to your chain is about as low as it gets. [Grab it here while the deal is live.](https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/17374-DeNoizzer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=denoizzer-29eebe&chan=art&data1=denoizzer-29eebe)
 
 ---
 
@@ -57,7 +57,7 @@ DeNoizzer is an audio restoration plugin sold through Plugin Boutique, designed 
 
 > Verify current pricing on the product page — deals can change.
 
-[**Get DeNoizzer for $9.90 at Plugin Boutique →**](https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/17374-DeNoizzer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=denoizzer-29eebe)
+[**Get DeNoizzer for $9.90 at Plugin Boutique →**](https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/17374-DeNoizzer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=denoizzer-29eebe&chan=art&data1=denoizzer-29eebe)
 
 ---
 
@@ -93,7 +93,7 @@ A: Refund and license transfer policies are set by Plugin Boutique — check the
 
 DeNoizzer is currently **67% off** — down from ~~$29.90~~ to **$9.90** at Plugin Boutique. If noise reduction is a gap in your plugin folder, this is an easy entry point.
 
-[**Grab DeNoizzer for $9.90 at Plugin Boutique →**](https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/17374-DeNoizzer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=denoizzer-29eebe)
+[**Grab DeNoizzer for $9.90 at Plugin Boutique →**](https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/17374-DeNoizzer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=denoizzer-29eebe&chan=art&data1=denoizzer-29eebe)
 
 ## Related Guides
 

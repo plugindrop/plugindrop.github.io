@@ -17,7 +17,7 @@ heroImage: "/images/best-free-strings-vst-plugins_collage.jpg"
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Spitfire LABS | Free | Cinematic string texture and modern beds | [Official Site](https://labs.spitfireaudio.com/) |
-| BBC Symphony Orchestra Discover | Free | Realistic full-orchestra writing, all skill levels | [Official Site](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins) |
+| BBC Symphony Orchestra Discover | Free | Realistic full-orchestra writing, all skill levels | [Official Site](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins) |
 | VSCO2 Community Edition | Free | Realistic section strings and orchestral arrangements | [Official Site](https://versilian-studios.com/vsco-community/) |
 | ProjectSAM Free Orchestra | Free | Cinematic orchestral textures and evolving pads | [Official Site](https://projectsam.com/libraries/the-free-orchestra/) |
 | Miroslav Philharmonik CE | Free | Warm, vintage full-orchestra character | [Official Site](https://www.ikmultimedia.com/products/philharmonik2ce/) |
@@ -78,7 +78,7 @@ BBC Symphony Orchestra Discover is Spitfire's free tier of their flagship BBC Sy
 
 **Best for:** Producers and composers who need a complete, realistic orchestral palette without spending anything.
 
-[→ Download BBC Symphony Orchestra Discover Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins)
+[→ Download BBC Symphony Orchestra Discover Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins)
 
 ---
 
@@ -267,9 +267,9 @@ When the free tier runs out — typically when you need more articulations, high
 
 | Plugin | Best For | Why Upgrade | Get It |
 |--------|----------|-------------|--------|
-| Spitfire BBC Symphony Orchestra | Composers already using BBCSO Discover | Full articulation set, solo instruments, multiple mic positions, delivery-quality depth | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20BBC%20Symphony%20Orchestra&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins) |
-| EastWest Hollywood Orchestra | Film and TV scoring, full ensemble renders | Industry-standard multi-mic recordings, dense articulations across every section | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=EastWest%20Hollywood&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins) |
-| Orchestral Tools Metropolis Ark | Epic, large-ensemble cinematic writing | Massed ensembles, choir, and cinematic power tuned for trailer and score work | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=Orchestral%20Tools&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins) |
+| Spitfire BBC Symphony Orchestra | Composers already using BBCSO Discover | Full articulation set, solo instruments, multiple mic positions, delivery-quality depth | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20BBC%20Symphony%20Orchestra&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins) |
+| EastWest Hollywood Orchestra | Film and TV scoring, full ensemble renders | Industry-standard multi-mic recordings, dense articulations across every section | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=EastWest%20Hollywood&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins) |
+| Orchestral Tools Metropolis Ark | Epic, large-ensemble cinematic writing | Massed ensembles, choir, and cinematic power tuned for trailer and score work | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=Orchestral%20Tools&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins) |
 
 ### Spitfire BBC Symphony Orchestra — The Professional Version of What You Already Know
 
@@ -279,7 +279,7 @@ When the free tier runs out — typically when you need more articulations, high
 - **Price:** Check current pricing on Plugin Boutique
 - **Why upgrade:** BBC Symphony Orchestra Discover is the right starting point, but the full library adds substantially more articulations, all solo instruments (which the Discover tier excludes entirely), multiple mic positions (close, ambient, outrigger, and additional positions depending on the tier), and dynamic layers that are essential for competitive orchestral mock-ups. Producer communities focused on film scoring consistently describe the jump from Discover to the full BBC SO as the single most impactful upgrade in the free-to-paid transition for orchestral work.
 
-[→ Get Spitfire BBC Symphony Orchestra (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins)
+[→ Get Spitfire BBC Symphony Orchestra (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins)
 
 ---
 
@@ -291,7 +291,7 @@ When the free tier runs out — typically when you need more articulations, high
 - **Price:** Available via EastWest ComposerCloud+ subscription or standalone license
 - **Why upgrade:** Hollywood Strings is one of the most extensively documented orchestral string libraries in production communities, with KVR and Gearspace discussions citing its multi-mic recording setup and dense articulation set as benchmarks for orchestral realism in a DAW context. The free libraries above serve composers well for sketching and pre-production; Hollywood Strings is what professionals use when the final render needs to hold up against a sync brief or picture lock.
 
-[→ Get EastWest Hollywood Strings (via Plugin Boutique)](https://www.pluginboutique.com/search?q=EastWest%20Hollywood&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins)
+[→ Get EastWest Hollywood Strings (via Plugin Boutique)](https://www.pluginboutique.com/search?q=EastWest%20Hollywood&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins)
 
 ---
 
@@ -300,7 +300,7 @@ When the free tier runs out — typically when you need more articulations, high
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Spitfire LABS | Free | Sample library | Real BBC recordings, growing catalog, cinematic character | [Official Site](https://labs.spitfireaudio.com/) |
-| BBC Symphony Orchestra Discover | Free | Full orchestral library | Full BBC SO template, all sections, beginner-friendly UI | [Official Site](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins) |
+| BBC Symphony Orchestra Discover | Free | Full orchestral library | Full BBC SO template, all sections, beginner-friendly UI | [Official Site](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins) |
 | VSCO2 Community Edition | Free | Orchestral SFZ library | Section strings, articulation variety, community-maintained | [Official Site](https://versilian-studios.com/vsco-community/) |
 | ProjectSAM Free Orchestra | Free | Cinematic textures | Premium developer, pad-focused, layering color | [Official Site](https://projectsam.com/libraries/the-free-orchestra/) |
 | Miroslav Philharmonik CE | Free | Full orchestral library | Warm vintage character, European flavor | [Official Site](https://www.ikmultimedia.com/products/philharmonik2ce/) |
@@ -310,8 +310,8 @@ When the free tier runs out — typically when you need more articulations, high
 | VCSL | Free | SFZ sample library | Open-source, broad palette, ongoing community contributions | [Official Site](https://versilian-studios.com/vcsl/) |
 | DSK Dynamic Strings | Free | VST string instrument | Instant load, no setup, Windows-only | [Official Site](https://www.dskmusic.com/dsk-strings//) |
 | Decent Sampler | Free | Sample player | Free VST player unlocking Pianobook string ecosystem | [Official Site](https://www.decentsamples.com/product/decent-sampler-plugin/) |
-| Spitfire BBC Symphony Orchestra | Paid | Full orchestral library | More articulations, mic positions, production-grade depth | [Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins) |
-| EastWest Hollywood Strings | Paid | Orchestral string library | High sample density, multi-mic, industry benchmark | [Plugin Boutique](https://www.pluginboutique.com/search?q=EastWest%20Hollywood&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins) |
+| Spitfire BBC Symphony Orchestra | Paid | Full orchestral library | More articulations, mic positions, production-grade depth | [Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins) |
+| EastWest Hollywood Strings | Paid | Orchestral string library | High sample density, multi-mic, industry benchmark | [Plugin Boutique](https://www.pluginboutique.com/search?q=EastWest%20Hollywood&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins) |
 
 ---
 
@@ -365,7 +365,7 @@ A: This varies significantly. BBC Symphony Orchestra Discover runs into multiple
 
 Spitfire LABS and BBC Symphony Orchestra Discover represent the clearest case in free software of "there is no reason not to install this" — both are genuinely high-quality, genuinely free, and maintained by a developer with a long track record. Around them, VSCO2 CE handles written articulation, ProjectSAM and Miroslav add tonal variety, and Virtual Playing Orchestra covers notation playback — a complete free strings and orchestral toolkit that would have cost hundreds of dollars a decade ago. For producers who need more articulation depth, solo instruments, or multi-mic control in final renders, the full Spitfire BBC Symphony Orchestra is the community's first-choice paid upgrade and keeps you inside a workflow you already know.
 
-[→ Browse strings & orchestral plugins on Plugin Boutique](https://www.pluginboutique.com/search?q=orchestral%20strings&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins)
+[→ Browse strings & orchestral plugins on Plugin Boutique](https://www.pluginboutique.com/search?q=orchestral%20strings&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins)
 
 ---
 

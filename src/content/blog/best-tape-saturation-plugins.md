@@ -25,10 +25,10 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| RC-20 Retro Color | $99 | Lo-fi, bedroom pop, multi-character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=69cb95abe1763) |
+| RC-20 Retro Color | $99 | Lo-fi, bedroom pop, multi-character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
 | UAD Studer A800 | $299 (often $149–$199 on sale) | Studio-grade accuracy | [UA Store](https://www.uaudio.com/products/studer-a800-tape-recorder) |
-| Waves J37 Tape | $29–$149 | British vintage and Abbey Road character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Tape/981-Waves-J37-Tape?a_aid=69cb95abe1763) |
-| Soundtoys Decapitator | $99 (rarely discounted standalone) | Flexible harmonic saturation | [Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
+| Waves J37 Tape | $29–$149 | British vintage and Abbey Road character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Tape/981-Waves-J37-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
+| Soundtoys Decapitator | $99 (rarely discounted standalone) | Flexible harmonic saturation | [Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
 | Chow Tape Model | Free | Best free tape emulation | [Free Download](https://chowdsp.com) |
 | Klanghelm SDRR | $21 | Best-value paid saturation | [Official Site](https://klanghelm.com/contents/products/SDRR.php) |
 | Slate Digital VTM | ~$149 (or $14.99/mo bundle) | Drum bus glue and mixbus processing | [Official Site](https://slatedigital.com/virtual-tape-machines/) |
@@ -83,7 +83,7 @@ Waves is the single least predictable pricing structure in this guide — the sa
 
 **Best for:** Producers who want a specific historical character reference — British vintage from the 1960s and 70s, particularly on vocals and acoustic recordings.
 
-[→ Get Waves J37 Tape on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Tape/981-Waves-J37-Tape?a_aid=69cb95abe1763)
+[→ Get Waves J37 Tape on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Tape/981-Waves-J37-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins)
 
 ---
 
@@ -102,7 +102,7 @@ Because it shares Waves' pricing engine with the J37, the same buying rule appli
 
 **Best for:** Rock, blues, and vintage American production aesthetics where the recording chain character should be audible.
 
-[→ Get Waves KRAMER MASTER TAPE on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/13679-Kramer-Master-Tape?a_aid=69cb95abe1763)
+[→ Get Waves KRAMER MASTER TAPE on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/13679-Kramer-Master-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins)
 
 ---
 
@@ -121,7 +121,7 @@ At $49–$79, Softube Tape sits in an awkward middle price point — not cheap e
 
 **Best for:** Contemporary pop, electronic, and hybrid productions where tape character should be subtle and modern-compatible rather than historically specific.
 
-[→ Get Softube Tape on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-Vintage/3689-Softube-Tape?a_aid=69cb95abe1763)
+[→ Get Softube Tape on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-Vintage/3689-Softube-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins)
 
 ---
 
@@ -144,7 +144,7 @@ Unlike Waves or UA, XLN Audio doesn't run deep discount cycles on RC-20 — you'
 
 **Best for:** Lo-fi, bedroom pop, chillhop, and any production where vintage character is an intentional aesthetic choice rather than subtle finishing.
 
-[→ Get RC-20 Retro Color on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=69cb95abe1763)
+[→ Get RC-20 Retro Color on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins)
 
 ---
 
@@ -163,7 +163,7 @@ Here's the purchase-decision nuance most guides skip: Soundtoys almost never dis
 
 **Best for:** Producers and mix engineers who want one saturation tool that works across drums, vocals, synths, and bus processing without mode-specific limitations.
 
-[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins)
 
 ---
 
@@ -253,7 +253,7 @@ There's no purchasing decision to make here, which is exactly why it belongs at 
 - **Price:** $99
 - **Why upgrade:** Free tape emulators like Chow Tape Model handle the saturation component well, but they don't integrate noise, wobble, reverb, and distortion in a single plugin where the modules interact coherently. If your current vintage character chain is 3–4 separate plugins, RC-20 replaces them with a more natural, hardware-like result — and at $99 for a plugin replacing four, the per-plugin math already favors buying now rather than waiting for a marginal discount.
 
-[→ Get RC-20 Retro Color on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=69cb95abe1763)
+[→ Get RC-20 Retro Color on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins)
 
 ---
 
@@ -265,7 +265,7 @@ There's no purchasing decision to make here, which is exactly why it belongs at 
 - **Price:** ~$499 list; frequently on sale for $199–$299 during major promotional windows
 - **Why upgrade:** Decapitator alone is $99, but Soundtoys 5 includes the full suite — Radiator, Crystallizer, PanMan, FilterFreq, MicroShift, and more — at a per-plugin cost that makes the individual Decapitator price look inefficient. For producers who use Decapitator regularly, the bundle is the logical next step, and it is almost always worth waiting for one of Soundtoys' periodic 40–60%-off sales rather than paying the $499 list price.
 
-[→ Get Soundtoys 5 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763)
+[→ Get Soundtoys 5 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins)
 
 ---
 
@@ -276,11 +276,11 @@ There's no purchasing decision to make here, which is exactly why it belongs at 
 | Chow Tape Model | Free | Tape emulation | Physical modeling, open source, competitive with paid options | [Free Download](https://chowdsp.com) |
 | Klevgrand DAW Cassette | ~$20 | Cassette emulation | Consumer tape aesthetic, iOS/macOS/Windows, affordable | [Official Site](https://klevgrand.com/products/dawcassette/) |
 | Klanghelm SDRR | $21 | Multi-mode saturation | Multiple harmonic profiles, strong KVR value reputation | [Official Site](https://klanghelm.com/contents/products/SDRR.php) |
-| Softube Tape | $49–$79 | Tape emulation | Transparent, modern-friendly, clean glue | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-Vintage/3689-Softube-Tape?a_aid=69cb95abe1763) |
-| Waves J37 Tape | $29–$149 | Tape emulation | EMI J37 model, Abbey Road vintage character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Tape/981-Waves-J37-Tape?a_aid=69cb95abe1763) |
-| Waves KRAMER MASTER TAPE | $29–$149 | Tape emulation | Eddie Kramer collab, multiple IPS speeds, rock character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/13679-Kramer-Master-Tape?a_aid=69cb95abe1763) |
-| RC-20 Retro Color | $99 | Multi-character | Integrated modules, lo-fi/bedroom pop community standard | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=69cb95abe1763) |
-| Soundtoys Decapitator | $99 | Harmonic saturation | 5 saturation modes, extreme range, KVR top-tier ranking | [Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763) |
+| Softube Tape | $49–$79 | Tape emulation | Transparent, modern-friendly, clean glue | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-Vintage/3689-Softube-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
+| Waves J37 Tape | $29–$149 | Tape emulation | EMI J37 model, Abbey Road vintage character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Tape/981-Waves-J37-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
+| Waves KRAMER MASTER TAPE | $29–$149 | Tape emulation | Eddie Kramer collab, multiple IPS speeds, rock character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/13679-Kramer-Master-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
+| RC-20 Retro Color | $99 | Multi-character | Integrated modules, lo-fi/bedroom pop community standard | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
+| Soundtoys Decapitator | $99 | Harmonic saturation | 5 saturation modes, extreme range, KVR top-tier ranking | [Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
 | Slate Digital VTM | ~$149 | Tape emulation | Multiple tape configs, drum/mix bus glue, bundle value | [Official Site](https://slatedigital.com/virtual-tape-machines/) |
 | UAD Studer A800 | $299 | Tape emulation | Highest-accuracy emulation, runs Native, studio standard | [UA Store](https://www.uaudio.com/products/studer-a800-tape-recorder) |
 
