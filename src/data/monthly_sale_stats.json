@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26",
+  "generated_at": "2026-08-27",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": true,
-      "generated_at": "2026-08-26",
-      "observations": 2971,
+      "generated_at": "2026-08-27",
+      "observations": 3096,
       "products_tracked": 439,
-      "products_on_sale": 245,
-      "on_sale_pct": 55.8,
-      "avg_discount_pct": 52.5,
+      "products_on_sale": 255,
+      "on_sale_pct": 58.1,
+      "avg_discount_pct": 52.3,
       "median_discount_pct": 51,
       "discount_buckets": {
         "1-19": 8,
-        "20-39": 69,
-        "40-59": 77,
+        "20-39": 72,
+        "40-59": 84,
         "60+": 91
       },
-      "all_time_low_hits": 209,
+      "all_time_low_hits": 216,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -287,9 +287,9 @@
         {
           "category": "Other",
           "tracked": 323,
-          "on_sale": 192,
-          "on_sale_pct": 59.4,
-          "avg_discount_pct": 54.0
+          "on_sale": 197,
+          "on_sale_pct": 61.0,
+          "avg_discount_pct": 53.9
         },
         {
           "category": "Synth",
@@ -315,23 +315,23 @@
         {
           "category": "Compressor",
           "tracked": 10,
-          "on_sale": 5,
-          "on_sale_pct": 50.0,
-          "avg_discount_pct": 70.4
+          "on_sale": 6,
+          "on_sale_pct": 60.0,
+          "avg_discount_pct": 66.3
         },
         {
           "category": "EQ",
           "tracked": 9,
-          "on_sale": 2,
-          "on_sale_pct": 22.2,
-          "avg_discount_pct": 48.5
+          "on_sale": 4,
+          "on_sale_pct": 44.4,
+          "avg_discount_pct": 49.8
         },
         {
           "category": "Reverb",
           "tracked": 9,
-          "on_sale": 5,
-          "on_sale_pct": 55.6,
-          "avg_discount_pct": 61.6
+          "on_sale": 6,
+          "on_sale_pct": 66.7,
+          "avg_discount_pct": 58.5
         },
         {
           "category": "Saturation",
@@ -385,15 +385,15 @@
         {
           "category": "Limiter",
           "tracked": 3,
-          "on_sale": 1,
-          "on_sale_pct": 33.3,
-          "avg_discount_pct": 70
+          "on_sale": 2,
+          "on_sale_pct": 66.7,
+          "avg_discount_pct": 54.5
         }
       ],
       "vs_previous_month": {
         "month": "2026-07",
-        "on_sale_pct_delta": 4.5,
-        "avg_discount_pct_delta": -4.1,
+        "on_sale_pct_delta": 6.8,
+        "avg_discount_pct_delta": -4.3,
         "products_tracked_delta": 137
       }
     },
@@ -401,7 +401,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-08-26",
+      "generated_at": "2026-08-27",
       "observations": 2052,
       "products_tracked": 302,
       "products_on_sale": 155,
@@ -414,7 +414,7 @@
         "40-59": 55,
         "60+": 67
       },
-      "all_time_low_hits": 121,
+      "all_time_low_hits": 123,
       "deepest_discounts": [
         {
           "name": "CARBON",
