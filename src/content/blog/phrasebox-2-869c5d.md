@@ -2,6 +2,7 @@
 title: "50% Off Phrasebox 2"
 description: "Phrasebox 2 is currently **$47** (down from ~~$94~~) at Plugin Boutique — a straight 50% cut on a MIDI phrase-generation plugin built around a capable..."
 pubDate: "2026-07-02T23:34:25Z"
+saleExpiry: "2026-08-28"
 tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/6072-Phrasebox-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phrasebox-2-869c5d&chan=art&data1=phrasebox-2-869c5d"
 heroImage: "/images/phrasebox-2-869c5d.jpg"

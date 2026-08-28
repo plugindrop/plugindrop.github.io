@@ -8,7 +8,7 @@ heroImage: "/images/best-audio-plugin-deals-and-freebies-saturday-august-8th-202
 score: 7.95
 dealPrice: "$0"
 saleExpiry: "2026-08-13"
-draft: false
+draft: true
 ---
 If you only grab one freebie out of this weekend's roundup, make it R&B Electric Guitars from Diginoiz — it's a full price-to-zero drop with a hard expiry.
 

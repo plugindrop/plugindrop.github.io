@@ -2,6 +2,7 @@
 title: "40% Off KORG Collection Crossgrade from 1 KORG Product"
 description: "KORG Collection is available via crossgrade for just **$149** (~~$249~~) — a flat $100 saving for producers who already own at least one qualifying KORG..."
 pubDate: "2026-07-01T10:31:55Z"
+saleExpiry: "2026-08-28"
 tags: ["sale", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14588-KORG-Collection-Crossgrade-from-1-KORG-Product?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-crossgrade-from-1-korg-product-0c759d&chan=art&data1=korg-collection-crossgrade-from-1-korg-product-0c759d"
 heroImage: "/images/korg-collection-crossgrade-from-1-korg-product-0c759d.jpg"

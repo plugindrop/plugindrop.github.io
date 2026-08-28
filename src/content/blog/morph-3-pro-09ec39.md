@@ -2,6 +2,7 @@
 title: "45% Off MORPH 3 PRO"
 description: "MORPH 3 PRO, the advanced modulation plugin for sound design and effects processing, is currently ~~$269~~ **$149.00** at Plugin Boutique — a savings of..."
 pubDate: "2026-07-06T00:25:23Z"
+saleExpiry: "2026-08-28"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/33-Modulator/12205-MORPH-3-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=morph-3-pro-09ec39&chan=art&data1=morph-3-pro-09ec39"
 heroImage: "/images/morph-3-pro-09ec39.jpg"
