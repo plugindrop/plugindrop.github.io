@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29",
+  "generated_at": "2026-08-30",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": true,
-      "generated_at": "2026-08-29",
-      "observations": 3333,
+      "generated_at": "2026-08-30",
+      "observations": 3455,
       "products_tracked": 439,
-      "products_on_sale": 263,
-      "on_sale_pct": 59.9,
+      "products_on_sale": 264,
+      "on_sale_pct": 60.1,
       "avg_discount_pct": 52.3,
-      "median_discount_pct": 51,
+      "median_discount_pct": 51.0,
       "discount_buckets": {
         "1-19": 8,
-        "20-39": 72,
+        "20-39": 73,
         "40-59": 92,
         "60+": 91
       },
-      "all_time_low_hits": 224,
+      "all_time_low_hits": 225,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -287,9 +287,9 @@
         {
           "category": "Other",
           "tracked": 323,
-          "on_sale": 204,
-          "on_sale_pct": 63.2,
-          "avg_discount_pct": 53.8
+          "on_sale": 205,
+          "on_sale_pct": 63.5,
+          "avg_discount_pct": 53.7
         },
         {
           "category": "Synth",
@@ -392,7 +392,7 @@
       ],
       "vs_previous_month": {
         "month": "2026-07",
-        "on_sale_pct_delta": 8.6,
+        "on_sale_pct_delta": 8.8,
         "avg_discount_pct_delta": -4.3,
         "products_tracked_delta": 137
       }
@@ -401,7 +401,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-08-29",
+      "generated_at": "2026-08-30",
       "observations": 2052,
       "products_tracked": 302,
       "products_on_sale": 155,
