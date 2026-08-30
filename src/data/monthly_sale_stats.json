@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30",
+  "generated_at": "2026-08-31",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": true,
-      "generated_at": "2026-08-30",
-      "observations": 3455,
-      "products_tracked": 439,
-      "products_on_sale": 264,
-      "on_sale_pct": 60.1,
-      "avg_discount_pct": 52.3,
+      "generated_at": "2026-08-31",
+      "observations": 3596,
+      "products_tracked": 459,
+      "products_on_sale": 286,
+      "on_sale_pct": 62.3,
+      "avg_discount_pct": 52.8,
       "median_discount_pct": 51.0,
       "discount_buckets": {
         "1-19": 8,
-        "20-39": 73,
-        "40-59": 92,
-        "60+": 91
+        "20-39": 76,
+        "40-59": 102,
+        "60+": 100
       },
-      "all_time_low_hits": 225,
+      "all_time_low_hits": 247,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -34,6 +34,16 @@
           "pct_off": 95,
           "date": "2026-08-23",
           "pb_url": "/product/81-Bundles/84-Mix-Master/12542-Platinum"
+        },
+        {
+          "name": "TOTAL VI MAX 2",
+          "slug": "total-vi-max-2",
+          "category": "Other",
+          "regular": 1499.92,
+          "sale": 79.99,
+          "pct_off": 95,
+          "date": "2026-08-30",
+          "pb_url": "/product/81-Bundles/97-Various-Category/16798-TOTAL-VI-MAX-2"
         },
         {
           "name": "Waves Platinum Bundle",
@@ -164,16 +174,6 @@
           "pct_off": 87,
           "date": "2026-08-18",
           "pb_url": "/product/2-Effects/8-Compressor/5898-I-Heart-NY"
-        },
-        {
-          "name": "Excite Audio Bundle Crossgrade From Any Excite Audio Product",
-          "slug": "excite-audio-bundle-crossgrade-from-any-excite-audio-product",
-          "category": "Other",
-          "regular": 1890.0,
-          "sale": 269.0,
-          "pct_off": 86,
-          "date": "2026-08-18",
-          "pb_url": "/product/81-Bundles/89-Complete-Collection/14789-Excite-Audio-Bundle-Crossgrade-From-Any-Excite-Audio-Product"
         }
       ],
       "all_time_low_products": [
@@ -183,6 +183,13 @@
           "sale": 99.99,
           "all_time_low": 99.99,
           "date": "2026-08-23"
+        },
+        {
+          "name": "TOTAL VI MAX 2",
+          "slug": "total-vi-max-2",
+          "sale": 79.99,
+          "all_time_low": 79.99,
+          "date": "2026-08-30"
         },
         {
           "name": "CARBON",
@@ -269,27 +276,20 @@
           "date": "2026-08-18"
         },
         {
-          "name": "Chromed",
-          "slug": "chromed",
-          "sale": 8.08,
-          "all_time_low": 8.08,
-          "date": "2026-08-09"
-        },
-        {
-          "name": "Zen Delay Virtual",
-          "slug": "zen-delay-virtual",
-          "sale": 14.99,
-          "all_time_low": 14.99,
-          "date": "2026-08-01"
+          "name": "SSL Native X-Echo",
+          "slug": "ssl-native-x-echo",
+          "sale": 15.0,
+          "all_time_low": 15.0,
+          "date": "2026-08-30"
         }
       ],
       "by_category": [
         {
           "category": "Other",
-          "tracked": 323,
-          "on_sale": 205,
-          "on_sale_pct": 63.5,
-          "avg_discount_pct": 53.7
+          "tracked": 343,
+          "on_sale": 227,
+          "on_sale_pct": 66.2,
+          "avg_discount_pct": 54.2
         },
         {
           "category": "Synth",
@@ -392,16 +392,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-07",
-        "on_sale_pct_delta": 8.8,
-        "avg_discount_pct_delta": -4.3,
-        "products_tracked_delta": 137
+        "on_sale_pct_delta": 11.0,
+        "avg_discount_pct_delta": -3.8,
+        "products_tracked_delta": 157
       }
     },
     {
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-08-30",
+      "generated_at": "2026-08-31",
       "observations": 2052,
       "products_tracked": 302,
       "products_on_sale": 155,
