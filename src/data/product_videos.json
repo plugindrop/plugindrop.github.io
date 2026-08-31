@@ -888,6 +888,13 @@
     "score": 12,
     "source": "yt_api_fill"
   },
+  "Lounge Lizard EP-5": {
+    "video_id": "10YZofSebDU",
+    "title": "Lounge Lizard EP-5 Electric Piano by Applied Acoustics Systems (No Talking)",
+    "channel": "Elektronick Musick",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "MODO BASS 2": {
     "video_id": "_YlJPfNIZHM",
     "title": "IK Multimedia MODO Bass 2 All Models Demo",
@@ -1208,6 +1215,13 @@
     "title": "SSL Native X-EQ 2  Feature Overview",
     "channel": "Solid State Logic",
     "score": 14,
+    "source": "yt_api_fill"
+  },
+  "SSL Native X-Echo": {
+    "video_id": "nOJB3mo6x34",
+    "title": "SSL Native X-Echo Plug-in",
+    "channel": "Solid State Logic",
+    "score": 11,
     "source": "yt_api_fill"
   },
   "SSL Native X-Phase": {
