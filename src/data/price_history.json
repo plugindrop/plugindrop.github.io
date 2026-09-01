@@ -3085,6 +3085,12 @@
           "regular": 99.0,
           "sale": 59.4,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 59.4,
+          "regular": 99.0,
+          "source": "pb_deals_poll"
         }
       ],
       "category": "Effects"
@@ -5460,6 +5466,12 @@
           "regular": 99.0,
           "sale": 49.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 49.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -18276,6 +18288,12 @@
           "regular": 99.99,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 49.99,
+          "regular": 99.99,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -18758,6 +18776,12 @@
           "regular": 119.0,
           "sale": 9.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 9.0,
+          "regular": 119.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -19390,6 +19414,12 @@
           "regular": 1890.0,
           "sale": 379.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 758.0,
+          "regular": 1890.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -20170,6 +20200,12 @@
           "regular": 119.0,
           "sale": 9.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 9.0,
+          "regular": 119.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -21474,6 +21510,12 @@
           "regular": 119.0,
           "sale": 9.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 9.0,
+          "regular": 119.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -28504,6 +28546,12 @@
           "regular": 129.0,
           "sale": 79.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 79.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -28630,7 +28678,7 @@
       "pb_url": "/product/1-Instruments/139-Drum-Synth/15545-Tekno",
       "typical_regular": null,
       "typical_sale": 79.0,
-      "all_time_low": 79.0,
+      "all_time_low": 49.0,
       "notes": "Auto-discovered 2026-07-17",
       "history": [
         {
@@ -28710,6 +28758,12 @@
           "regular": 129.0,
           "sale": 79.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 49.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -28914,6 +28968,12 @@
           "regular": 149.0,
           "sale": 75.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 75.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -30045,6 +30105,12 @@
           "regular": 149.0,
           "sale": 75.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 75.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -34237,6 +34303,12 @@
           "regular": 129.0,
           "sale": 90.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 90.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -39866,6 +39938,12 @@
           "regular": 80.0,
           "sale": 39.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 39.0,
+          "regular": 80.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -40432,6 +40510,12 @@
           "regular": 99.0,
           "sale": 49.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 49.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -41124,6 +41208,12 @@
           "regular": 99.0,
           "sale": 59.4,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 59.4,
+          "regular": 99.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -47350,6 +47440,12 @@
           "regular": 129.0,
           "sale": 90.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 90.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -47434,6 +47530,12 @@
           "regular": 129.0,
           "sale": 79.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 79.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -47621,7 +47723,7 @@
       "pb_url": "/product/1-Instruments/139-Drum-Synth/15545-Tekno",
       "typical_regular": 129.0,
       "typical_sale": 79.0,
-      "all_time_low": 79.0,
+      "all_time_low": 49.0,
       "notes": "auto-crawl 2026-08-23",
       "category": null,
       "history": [
@@ -47648,6 +47750,12 @@
           "regular": 129.0,
           "sale": 79.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 49.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -48041,6 +48149,12 @@
           "regular": 179.0,
           "sale": 107.4,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 107.4,
+          "regular": 179.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -48063,6 +48177,12 @@
           "regular": 149.0,
           "sale": 75.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 75.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -48085,6 +48205,12 @@
           "regular": 149.0,
           "sale": 75.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 75.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
@@ -48129,6 +48255,12 @@
           "regular": 99.0,
           "sale": 29.99,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 29.99,
+          "regular": 99.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
