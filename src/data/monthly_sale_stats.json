@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31",
+  "generated_at": "2026-09-01",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -9,18 +9,18 @@
     {
       "month": "2026-08",
       "label": "August 2026",
-      "is_current": true,
-      "generated_at": "2026-08-31",
-      "observations": 3596,
+      "is_current": false,
+      "generated_at": "2026-09-01",
+      "observations": 3720,
       "products_tracked": 459,
-      "products_on_sale": 286,
-      "on_sale_pct": 62.3,
+      "products_on_sale": 287,
+      "on_sale_pct": 62.5,
       "avg_discount_pct": 52.8,
-      "median_discount_pct": 51.0,
+      "median_discount_pct": 51,
       "discount_buckets": {
         "1-19": 8,
         "20-39": 76,
-        "40-59": 102,
+        "40-59": 103,
         "60+": 100
       },
       "all_time_low_hits": 247,
@@ -301,9 +301,9 @@
         {
           "category": "Effects",
           "tracked": 16,
-          "on_sale": 9,
-          "on_sale_pct": 56.2,
-          "avg_discount_pct": 38.6
+          "on_sale": 10,
+          "on_sale_pct": 62.5,
+          "avg_discount_pct": 39.7
         },
         {
           "category": "Instrument",
@@ -392,7 +392,7 @@
       ],
       "vs_previous_month": {
         "month": "2026-07",
-        "on_sale_pct_delta": 11.0,
+        "on_sale_pct_delta": 11.2,
         "avg_discount_pct_delta": -3.8,
         "products_tracked_delta": 157
       }
@@ -401,7 +401,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-08-31",
+      "generated_at": "2026-09-01",
       "observations": 2052,
       "products_tracked": 302,
       "products_on_sale": 155,
