@@ -47474,6 +47474,12 @@
           "regular": 499.0,
           "sale": 199.0,
           "source": "auto_check"
+        },
+        {
+          "date": "2026-09-01",
+          "sale": 199.0,
+          "regular": 499.0,
+          "source": "pb_deals_poll"
         }
       ]
     },
