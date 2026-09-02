@@ -36,6 +36,10 @@ This review covers every major module in Ozone 11, breaks down the differences b
 
 ---
 
+<!-- crawl-boost:start -->
+**Related reading:** [Plugins You Should Never Pay Full Price For (2026)](/posts/plugins-never-pay-full-price/) — the discount patterns worth knowing before paying list price for iZotope or similar brands
+<!-- crawl-boost:end -->
+
 ## Ozone 11 vs 12: Should You Upgrade?
 
 With Ozone 12 now available, the practical question for most producers is not "is Ozone good?" but "is the upgrade worth it, or is Ozone 11 still enough?" Here is the short version:

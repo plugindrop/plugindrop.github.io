@@ -36,6 +36,10 @@ This guide covers all four main types — grand, upright, electric, and felt/toy
 
 ---
 
+<!-- crawl-boost:start -->
+**Related reading:** [Omnisphere vs Keyscape: Which Spectrasonics Plugin Is Worth It?](/posts/omnisphere-vs-keyscape-2026/) — whether Keyscape's focused keyboard library is a better investment than Omnisphere's broader palette
+<!-- crawl-boost:end -->
+
 ## Free Starting Points
 
 ### Piano One (Sound Magic) — a capable concert grand at no cost

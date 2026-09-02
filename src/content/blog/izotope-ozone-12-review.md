@@ -42,6 +42,10 @@ This review covers every major module in Ozone 12, breaks down the differences b
 
 ---
 
+<!-- crawl-boost:start -->
+**Related reading:** [Is It Worth Waiting for Black Friday? Every Major Plugin Brand, Answered (2026)](/posts/is-it-worth-waiting-for-black-friday-plugins/) — whether Ozone's usual discount cycle makes waiting for Black Friday worthwhile · [VST Plugin Black Friday Guide 2026 — Every Major Brand, Ranked by Discount](/posts/vst-plugin-black-friday-guide/) — the Black Friday guide for judging when iZotope and competing mastering tools hit their best prices
+<!-- crawl-boost:end -->
+
 ## Core Feature Modules
 
 ### Master Assistant — AI-Powered Starting Point

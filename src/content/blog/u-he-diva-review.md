@@ -36,6 +36,10 @@ This review is for electronic music producers, film composers, and sound designe
 
 ---
 
+<!-- crawl-boost:start -->
+**Related reading:** [u-he Plugins: Which Ones Are Worth Buying in 2026? (Diva, Repro, Hive)](/posts/u-he-plugins-worth-buying-2026/) — the broader u-he buying guide for comparing Diva with Repro, Hive, and the rest of the range
+<!-- crawl-boost:end -->
+
 ## The Synthesis Engine
 
 ### Oscillator Modules — Where Analog Character Actually Lives

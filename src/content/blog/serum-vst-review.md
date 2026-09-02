@@ -36,6 +36,10 @@ This review covers everything you need to know: what Serum does, how it sounds, 
 
 ---
 
+<!-- crawl-boost:start -->
+**Related reading:** [Best Arpeggiator VST Plugins in 2026 (Free & Paid)](/posts/best-arpeggiator-vst-plugins/) — use these arpeggiators to turn Serum patches into evolving rhythmic parts · [Spire Synthesizer Review 2026: Is It Worth Buying?](/posts/spire-review-2026/) — how Spire compares when you prefer a streamlined subtractive workflow over wavetable depth
+<!-- crawl-boost:end -->
+
 ## Core Review: Xfer Serum
 
 ### Serum — The Wavetable Synth That Defined a Generation

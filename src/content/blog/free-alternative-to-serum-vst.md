@@ -38,6 +38,10 @@ This guide covers the four strongest free alternatives to Serum currently availa
 
 ---
 
+<!-- crawl-boost:start -->
+**Related reading:** [Dexed — FREE DX7 FM Synth Emulation (Open Source)](/posts/dexed-free-dx7-emulation/) — a free FM synth for sounds that wavetable alternatives do not naturally cover · [Surge XT — FREE Open Source Synth (Full-Featured, No Limits)](/posts/surge-xt-free-open-source-synth/) — the open-source powerhouse with enough synthesis methods to replace much more than Serum
+<!-- crawl-boost:end -->
+
 ## Free Wavetable and Hybrid Synthesizers
 
 ### Vital — The Definitive Free Wavetable Synth
