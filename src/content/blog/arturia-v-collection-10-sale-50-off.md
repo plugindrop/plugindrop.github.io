@@ -6,7 +6,7 @@ tags: ["review", "synth", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-v-collection-10-sale-50-off&chan=art&data1=arturia-v-collection-10-sale-50-off"
 heroImage: /images/arturia-v-collection-10-sale-50-off.jpg
 score: 7.98
-draft: false
+draft: true
 converted: true
 ---
 **Arturia V Collection 11 Pro — 45 Instruments, Full Breakdown** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-v-collection-10-sale-50-off&chan=art&data1=arturia-v-collection-10-sale-50-off)

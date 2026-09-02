@@ -10,7 +10,7 @@ dealPrice: "$169.90"
 originalPrice: "$172.14"
 discount: "1% OFF"
 xText: "the amp models in amplitube 5 max v2 are actually insane. barely discounted but this is what you upgrade for, not the 1% off. if you do any guitar work this is worth checking."
-draft: false
+draft: true
 ---
 **TL;DR:** AmpliTube 5 MAX v2 — IK Multimedia's flagship amp simulation suite — is currently ~~$172.14~~ **$169.90** at Plugin Boutique, saving you around $2.25. It's a modest 1% discount on a premium product, but any saving on a pro-tier bundle is worth flagging. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12444-AmpliTube-5-MAX-v2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=amplitube-5-max-v2-fdbf06&chan=art&data1=amplitube-5-max-v2-fdbf06)
 

@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-productio
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14907-Bloom-KSHMR?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-kshmr-8566cc&chan=art&data1=bloom-kshmr-8566cc"
 heroImage: /images/bloom-kshmr-8566cc.jpg
 score: 7.90
-draft: false
+draft: true
 converted: true
 ---
 **Bloom KSHMR** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14907-Bloom-KSHMR?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-kshmr-8566cc&chan=art&data1=bloom-kshmr-8566cc)

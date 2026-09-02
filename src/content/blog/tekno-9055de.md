@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-productio
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/139-Drum-Synth/15545-Tekno?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tekno-9055de&chan=art&data1=tekno-9055de"
 heroImage: /images/tekno-9055de.jpg
 score: 8.32
-draft: false
+draft: true
 converted: true
 ---
 **Tekno** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/139-Drum-Synth/15545-Tekno?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tekno-9055de&chan=art&data1=tekno-9055de)

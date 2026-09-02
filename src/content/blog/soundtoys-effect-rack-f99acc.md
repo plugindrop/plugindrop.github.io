@@ -6,7 +6,7 @@ tags: ["review", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/6343-Soundtoys-Effect-Rack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-effect-rack-f99acc&chan=art&data1=soundtoys-effect-rack-f99acc"
 heroImage: /images/soundtoys-effect-rack-f99acc.jpg
 score: 10.00
-draft: false
+draft: true
 converted: true
 ---
 **Soundtoys Effect Rack** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/6343-Soundtoys-Effect-Rack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-effect-rack-f99acc&chan=art&data1=soundtoys-effect-rack-f99acc)

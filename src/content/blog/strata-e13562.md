@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "synth", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/79-Metering/17125-Strata?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=strata-e13562&chan=art&data1=strata-e13562"
 heroImage: /images/strata-e13562.jpg
 score: 8.12
-draft: false
+draft: true
 converted: true
 ---
 **Strata** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/3-Studio-Tools/79-Metering/17125-Strata?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=strata-e13562&chan=art&data1=strata-e13562)

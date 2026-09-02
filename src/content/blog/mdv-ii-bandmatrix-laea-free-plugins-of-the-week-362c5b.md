@@ -7,7 +7,7 @@ affiliate: "https://www.pluginboutique.com/search?q=Soundtoys%20Decapitator&a_ai
 heroImage: "/images/mdv-ii-bandmatrix-laea-free-plugins-of-the-week-362c5b.png"
 dealPrice: "FREE"
 score: 5.84
-draft: false
+draft: true
 ---
 **TL;DR:** Three free plugins just dropped this week — MDV-II, BandMatrix, and LAEA — all available at no cost. Grab them now before the promo window closes. If you want to round out your toolkit with a premium saturation unit, [SoundToys Decapitator](https://www.pluginboutique.com/search?q=Soundtoys%20Decapitator&a_aid=69cb95abe1763&chan=art&data1=mdv-ii-bandmatrix-laea-free-plugins-of-the-week-362c5b) pairs exceptionally well with any of these.
 

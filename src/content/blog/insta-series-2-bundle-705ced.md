@@ -6,7 +6,7 @@ tags: ["review", "bundle", "effects", "music-production"]
 affiliate: https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17166-Insta-Series-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=insta-series-2-bundle-705ced&chan=art&data1=insta-series-2-bundle-705ced
 heroImage: /images/insta-series-2-bundle-705ced.jpg
 score: 8.75
-draft: false
+draft: true
 converted: true
 ---
 **Insta Series 2 Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17166-Insta-Series-2-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=insta-series-2-bundle-705ced&chan=art&data1=insta-series-2-bundle-705ced)

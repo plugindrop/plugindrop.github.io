@@ -6,7 +6,7 @@ tags: ["review", "cherry audio", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd&chan=art&data1=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd"
 heroImage: /images/mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd.jpg
 score: 9.0
-draft: false
+draft: true
 converted: true
 ---
 **Mercury-6 synthesizer** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd&chan=art&data1=mercury-6-synthesizer-by-cherry-audio-on-sale-for-29-usd)

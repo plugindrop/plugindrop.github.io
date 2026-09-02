@@ -6,7 +6,7 @@ tags: ["review", "softube", "music-production", "synth"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9154-Model-82-Sequencing-Mono-Synth?utm_source=plugindrop&utm_medium=article&utm_campaign=softube-get-70-off-model-82-sequencing-mono-synth-by-softube&a_aid=69cb95abe1763&chan=art&data1=softube-get-70-off-model-82-sequencing-mono-synth-by-softube"
 heroImage: /images/softube-get-70-off-model-82-sequencing-mono-synth-by-softube.jpg
 score: 7.57
-draft: false
+draft: true
 converted: true
 ---
 

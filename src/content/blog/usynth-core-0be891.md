@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "synth", "music-
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/8862-Usynth-Core?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=usynth-core-0be891&chan=art&data1=usynth-core-0be891"
 heroImage: /images/usynth-core-0be891.jpg
 score: 7.42
-draft: false
+draft: true
 converted: true
 ---
 **Usynth Core** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/8862-Usynth-Core?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=usynth-core-0be891&chan=art&data1=usynth-core-0be891)

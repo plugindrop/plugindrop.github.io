@@ -6,7 +6,7 @@ tags: ["review", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/84-Mix-Master/16550-smart-essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-essentials-bundle-f7c0a5&chan=art&data1=smart-essentials-bundle-f7c0a5"
 heroImage: /images/smart-essentials-bundle-f7c0a5.jpg
 score: 9.45
-draft: false
+draft: true
 converted: true
 ---
 **smart essentials Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/84-Mix-Master/16550-smart-essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smart-essentials-bundle-f7c0a5&chan=art&data1=smart-essentials-bundle-f7c0a5)

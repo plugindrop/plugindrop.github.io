@@ -11,7 +11,7 @@ dealPrice: "$60.00"
 originalPrice: "$99.00"
 discount: "39% OFF"
 xText: "spectre just launched at 39% off. new plugins almost never discount like this on day one. if you're thinking about it, this is the moment before everyone catches on."
-draft: false
+draft: true
 ---
 **TL;DR:** Spectre is currently 39% off on Plugin Boutique, dropping from ~~$99.00~~ to **$60.00** — a $39 saving on a plugin in the enhancer/effects category. If you've had this on your radar, [grab it now at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/42-Enhancer/4801-Spectre?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spectre-65115d&chan=art&data1=spectre-65115d) before the deal expires.
 

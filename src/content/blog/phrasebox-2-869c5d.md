@@ -11,7 +11,7 @@ dealPrice: "$47.00"
 originalPrice: "$94.00"
 discount: "50% OFF"
 xText: "phrasebox 2 just went 50% off. lowest i've seen it honestly. if you've been waiting for the right moment, this is it"
-draft: false
+draft: true
 ---
 **TL;DR:** Phrasebox 2 is currently **$47** (down from ~~$94~~) at Plugin Boutique — a straight 50% cut on a MIDI phrase-generation plugin built around a capable arpeggiator and modulation engine. If this one's been on your radar, [grab it at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/6072-Phrasebox-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phrasebox-2-869c5d&chan=art&data1=phrasebox-2-869c5d) before the sale window closes.
 

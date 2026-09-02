@@ -6,7 +6,7 @@ tags: ["review", "minimal audio", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11770-Current-2-0?utm_source=plugindrop&utm_medium=article&utm_campaign=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di&a_aid=69cb95abe1763&chan=art&data1=minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di"
 heroImage: /images/minimal-audio-get-40-off-current-2-0-by-minimal-audio-the-di.jpg
 score: 8.55
-draft: false
+draft: true
 converted: true
 ---
 

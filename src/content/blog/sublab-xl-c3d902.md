@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-productio
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sublab-xl-c3d902&chan=art&data1=sublab-xl-c3d902"
 heroImage: /images/sublab-xl-c3d902.jpg
 score: 8.03
-draft: false
+draft: true
 converted: true
 ---
 **SubLab XL** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=sublab-xl-c3d902&chan=art&data1=sublab-xl-c3d902)

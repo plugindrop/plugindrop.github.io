@@ -4,6 +4,7 @@ import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import priceData from '../../data/price_history.json';
+import { isBrandPageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
 
 // --- Shared types ------------------------------------------------------------
 interface HistoryEntry {
@@ -133,13 +134,6 @@ function detectBrand(
   return null;
 }
 
-function slugify(name: string): string {
-  return name
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '');
-}
-
 // --- getStaticPaths (self-contained: Astro isolates this export, so every
 // helper it needs is re-declared inline rather than closing over the module
 // scope above) --------------------------------------------------------------
@@ -249,13 +243,6 @@ export async function getStaticPaths() {
     return null;
   }
 
-  function _slugify(n: string): string {
-    return n
-      .toLowerCase()
-      .replace(/[^a-z0-9]+/g, '-')
-      .replace(/^-+|-+$/g, '');
-  }
-
   const _data = priceData as _PriceData;
   const _plugins = _data.plugins ?? {};
   const _bundles = _data.bundles ?? {};
@@ -279,7 +266,7 @@ export async function getStaticPaths() {
   for (const [brand, products] of _groups.entries()) {
     if (products.length < 2) continue;
     paths.push({
-      params: { brand: _slugify(brand) },
+      params: { brand: slugifyProduct(brand) },
       props: { brand, products },
     });
   }
@@ -322,7 +309,7 @@ const rows: Row[] = products
     const onSale = isOnSale(p.entry);
     return {
       name: p.name,
-      slug: slugify(p.name),
+      slug: slugifyProduct(p.name),
       category,
       current,
       regular: p.entry.typical_regular,
@@ -383,7 +370,7 @@ const itemListLD = {
 <!doctype html>
 <html lang="en">
   <head>
-    <BaseHead title={pageTitle} description={pageDescription} />
+    <BaseHead title={pageTitle} description={pageDescription} noindex={!isBrandPageIndexable(products.length)} />
     <script type="application/ld+json" set:html={JSON.stringify(itemListLD)} />
     <style>
       main { max-width: 960px; margin: 0 auto; padding: 2rem 1rem 3rem; }

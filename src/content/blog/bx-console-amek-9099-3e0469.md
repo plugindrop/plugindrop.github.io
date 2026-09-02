@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10236-bx-console-AMEK-9099?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469&chan=art&data1=bx-console-amek-9099-3e0469"
 heroImage: /images/bx-console-amek-9099-3e0469.jpg
 score: 8.35
-draft: false
+draft: true
 converted: true
 ---
 **bx console AMEK 9099** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10236-bx-console-AMEK-9099?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469&chan=art&data1=bx-console-amek-9099-3e0469)

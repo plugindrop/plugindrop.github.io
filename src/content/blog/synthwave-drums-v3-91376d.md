@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "synth", "music-
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/15853-Synthwave-Drums-V3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthwave-drums-v3-91376d&chan=art&data1=synthwave-drums-v3-91376d"
 heroImage: /images/synthwave-drums-v3-91376d.jpg
 score: 7.75
-draft: false
+draft: true
 converted: true
 ---
 **Synthwave Drums V3** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/15853-Synthwave-Drums-V3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synthwave-drums-v3-91376d&chan=art&data1=synthwave-drums-v3-91376d)

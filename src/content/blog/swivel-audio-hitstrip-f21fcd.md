@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/15573-Swivel-Audio-Hitstrip?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=swivel-audio-hitstrip-f21fcd&chan=art&data1=swivel-audio-hitstrip-f21fcd"
 heroImage: /images/swivel-audio-hitstrip-f21fcd.jpg
 score: 8.15
-draft: false
+draft: true
 converted: true
 ---
 **Swivel Audio Hitstrip** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/15573-Swivel-Audio-Hitstrip?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=swivel-audio-hitstrip-f21fcd&chan=art&data1=swivel-audio-hitstrip-f21fcd)

@@ -6,7 +6,7 @@ tags: ["review", "e-instruments", "guitar", "kontakt", "music-production", "bund
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763&chan=art&data1=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149"
 heroImage: /images/e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149.jpg
 score: 7.21
-draft: false
+draft: true
 converted: true
 ---
 **e-instruments Desolate & Velvet Guitars Bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16619-Desolate-Velvet-Guitars-Bundle?utm_source=plugindrop&utm_medium=article&utm_campaign=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149&a_aid=69cb95abe1763&chan=art&data1=e-instruments-desolate-velvet-guitars-bundle-on-sale-for-149)

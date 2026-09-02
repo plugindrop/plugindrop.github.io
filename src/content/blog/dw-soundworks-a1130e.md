@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-productio
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15329-DW-Soundworks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dw-soundworks-a1130e&chan=art&data1=dw-soundworks-a1130e"
 heroImage: /images/dw-soundworks-a1130e.jpg
 score: 8.65
-draft: false
+draft: true
 converted: true
 ---
 **DW Soundworks** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15329-DW-Soundworks?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dw-soundworks-a1130e&chan=art&data1=dw-soundworks-a1130e)

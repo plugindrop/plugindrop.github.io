@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-77f18d&chan=art&data1=smooth-operator-pro-77f18d"
 heroImage: /images/smooth-operator-pro-77f18d.jpg
 score: 8.32
-draft: false
+draft: true
 converted: true
 ---
 **Smooth Operator Pro** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-77f18d&chan=art&data1=smooth-operator-pro-77f18d)

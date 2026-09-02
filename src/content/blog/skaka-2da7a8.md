@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-productio
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/8721-Skaka?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=skaka-2da7a8&chan=art&data1=skaka-2da7a8"
 heroImage: /images/skaka-2da7a8.jpg
 score: 7.15
-draft: false
+draft: true
 converted: true
 ---
 **Skaka** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/8721-Skaka?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=skaka-2da7a8&chan=art&data1=skaka-2da7a8)

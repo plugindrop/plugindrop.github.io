@@ -6,7 +6,7 @@ tags: ["review", "excite audio", "music-production"]
 affiliate: "https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-on-excite-audio-s-effect-plugins-virtual-instruments&chan=art&data1=save-on-excite-audio-s-effect-plugins-virtual-instruments"
 heroImage: /images/save-on-excite-audio-s-effect-plugins-virtual-instruments.jpg
 score: 2.73
-draft: false
+draft: true
 converted: true
 ---
 **Excite Audio’s effect plugins & virtual instruments** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/manufacturers/322-Excite-Audio?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-on-excite-audio-s-effect-plugins-virtual-instruments&chan=art&data1=save-on-excite-audio-s-effect-plugins-virtual-instruments)

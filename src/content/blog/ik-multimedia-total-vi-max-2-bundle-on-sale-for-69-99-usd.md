@@ -6,7 +6,7 @@ tags: ["review", "ik multimedia", "sampletank", "music-production", "bundle"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/16798-TOTAL-VI-MAX-2?utm_source=plugindrop&utm_medium=article&utm_campaign=ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd&a_aid=69cb95abe1763&chan=art&data1=ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd"
 heroImage: /images/ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd.jpg
 score: 5.02
-draft: false
+draft: true
 converted: true
 ---
 **IK Multimedia Total VI MAX 2 bundle** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/16798-TOTAL-VI-MAX-2?utm_source=plugindrop&utm_medium=article&utm_campaign=ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd&a_aid=69cb95abe1763&chan=art&data1=ik-multimedia-total-vi-max-2-bundle-on-sale-for-69-99-usd)

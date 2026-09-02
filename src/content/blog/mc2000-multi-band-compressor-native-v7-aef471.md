@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "compressor", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8949-MC2000-Multi-Band-Compressor-Native-v7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mc2000-multi-band-compressor-native-v7-aef471&chan=art&data1=mc2000-multi-band-compressor-native-v7-aef471"
 heroImage: /images/mc2000-multi-band-compressor-native-v7-aef471.jpg
 score: 8.62
-draft: false
+draft: true
 converted: true
 ---
 **MC2000 Multi Band Compressor Native v7** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8949-MC2000-Multi-Band-Compressor-Native-v7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=mc2000-multi-band-compressor-native-v7-aef471&chan=art&data1=mc2000-multi-band-compressor-native-v7-aef471)

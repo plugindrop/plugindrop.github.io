@@ -6,7 +6,7 @@ tags: ["review", "soundiron", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=omnium%20piano%20collection&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-soundiron-has-released-omnium-piano-collection-inc&chan=art&data1=soundiron-soundiron-has-released-omnium-piano-collection-inc"
 heroImage: /images/soundiron-soundiron-has-released-omnium-piano-collection-inc.jpg
 score: 7.08
-draft: false
+draft: true
 converted: true
 ---
 **Soundiron — Soundiron has released Omnium Piano Collection, including 16 virtual** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?q=omnium%20piano%20collection&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundiron-soundiron-has-released-omnium-piano-collection-inc&chan=art&data1=soundiron-soundiron-has-released-omnium-piano-collection-inc)

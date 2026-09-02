@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14488-BALANCE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=balance-c4d408&chan=art&data1=balance-c4d408"
 heroImage: /images/balance-c4d408.jpg
 score: 8.32
-draft: false
+draft: true
 converted: true
 ---
 **BALANCE** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/14488-BALANCE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=balance-c4d408&chan=art&data1=balance-c4d408)

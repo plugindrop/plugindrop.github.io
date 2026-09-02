@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "mastering", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/50-Mastering-/11463-LANDR-Mastering-Plugin-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=landr-mastering-plugin-pro-93f1a9&chan=art&data1=landr-mastering-plugin-pro-93f1a9
 heroImage: /images/landr-mastering-plugin-pro-93f1a9.jpg
 score: 10.00
-draft: false
+draft: true
 converted: true
 ---
 **LANDR Mastering Plugin PRO** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/50-Mastering-/11463-LANDR-Mastering-Plugin-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=landr-mastering-plugin-pro-93f1a9&chan=art&data1=landr-mastering-plugin-pro-93f1a9)

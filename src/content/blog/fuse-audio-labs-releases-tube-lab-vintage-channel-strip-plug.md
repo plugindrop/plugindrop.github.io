@@ -6,7 +6,7 @@ tags: ["review", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17093-Tube-Lab?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug&chan=art&data1=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug"
 heroImage: /images/fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug.jpg
 score: 5.04
-draft: false
+draft: true
 converted: true
 ---
 **Fuse Audio Labs releases Tube Lab vintage channel strip plugin ($29 intro price)** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17093-Tube-Lab?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug&chan=art&data1=fuse-audio-labs-releases-tube-lab-vintage-channel-strip-plug)

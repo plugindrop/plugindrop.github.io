@@ -6,7 +6,7 @@ tags: ["review", "audible genius", "training", "tutorial", "synth", "music-produ
 affiliate: "https://www.pluginboutique.com/product/66-Music-Courses/78-Video-Courses/10674-Syntorial-2?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=syntorial-2-training-software-synth-by-audible-genius-on-sal&chan=art&data1=syntorial-2-training-software-synth-by-audible-genius-on-sal"
 heroImage: /images/syntorial-2-training-software-synth-by-audible-genius-on-sal.jpg
 score: 10.00
-draft: false
+draft: true
 converted: true
 ---
 **Syntorial 2 training software & synth** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/66-Music-Courses/78-Video-Courses/10674-Syntorial-2?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=syntorial-2-training-software-synth-by-audible-genius-on-sal&chan=art&data1=syntorial-2-training-software-synth-by-audible-genius-on-sal)

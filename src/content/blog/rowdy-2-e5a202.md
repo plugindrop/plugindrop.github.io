@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-productio
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6261-ROWDY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rowdy-2-e5a202&chan=art&data1=rowdy-2-e5a202"
 heroImage: /images/rowdy-2-e5a202.jpg
 score: 7.35
-draft: false
+draft: true
 converted: true
 ---
 **ROWDY 2** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6261-ROWDY-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rowdy-2-e5a202&chan=art&data1=rowdy-2-e5a202)

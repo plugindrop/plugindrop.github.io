@@ -6,7 +6,7 @@ tags: ["review", "baby audio", "spectral shaper", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o&a_aid=69cb95abe1763&chan=art&data1=smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o"
 heroImage: "/images/smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o.jpg"
 score: 5.81
-draft: false
+draft: true
 converted: true
 ---
 **Smooth Operator Pro spectral signal balancer** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro?utm_source=plugindrop&utm_medium=article&utm_campaign=smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o&a_aid=69cb95abe1763&chan=art&data1=smooth-operator-pro-spectral-signal-balancer-by-baby-audio-o)

@@ -7,6 +7,7 @@ import priceData from '../../data/price_history.json';
 import { pdAttr } from '../../lib/interestTaxonomy.mjs';
 import productVideosRaw from '../../data/product_videos.json';
 import { latestCheckedDate, formatCheckedDate, dealScoreNumeric } from '../../lib/priceUtils';
+import { isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
 import { getCollection } from 'astro:content';
 
 const AFF = "a_aid=69cb95abe1763";
@@ -47,13 +48,6 @@ const data = priceData as PriceData;
 const pluginEntries = data.plugins ?? {};
 const bundleEntries = data.bundles ?? {};
 
-function slugify(name: string): string {
-  return name
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '');
-}
-
 function allStaticEntries(): StaticEntry[] {
   const rows: StaticEntry[] = [];
   for (const [name, entry] of Object.entries(pluginEntries)) rows.push({ name, kind: 'plugin', entry, guides: [] });
@@ -62,12 +56,6 @@ function allStaticEntries(): StaticEntry[] {
 }
 
 export async function getStaticPaths() {
-  function _slugify(n: string): string {
-    return n
-      .toLowerCase()
-      .replace(/[^a-z0-9]+/g, '-')
-      .replace(/^-+|-+$/g, '');
-  }
   const _data = priceData as PriceData;
   const _plugins = _data.plugins ?? {};
   const _bundles = _data.bundles ?? {};
@@ -96,7 +84,7 @@ export async function getStaticPaths() {
   for (const [n, e] of Object.entries(_bundles)) rows.push({ name: n, kind: 'bundle', entry: e, guides: [] });
 
   return rows.map(({ name, kind, entry }) => ({
-    params: { slug: _slugify(name) },
+    params: { slug: slugifyProduct(name) },
     props: { name, kind, entry, guides: findGuides(name) },
   }));
 }
@@ -491,7 +479,7 @@ const faqLD = {
 <!doctype html>
 <html lang="en">
   <head>
-    <BaseHead title={pageTitle} description={pageDescription} />
+    <BaseHead title={pageTitle} description={pageDescription} noindex={!isPricePageIndexable(entry)} />
 		{pdAttr({ title: name, extra: entry.category ?? '' }) && <meta name="pd-interests" content={pdAttr({ title: name, extra: entry.category ?? '' })} />}
     <script type="application/ld+json" set:html={JSON.stringify(productLD)} />
     <script type="application/ld+json" set:html={JSON.stringify(faqLD)} />
@@ -1216,7 +1204,7 @@ const faqLD = {
         {alternatives.length > 0 ? (
           <div class="alt-grid">
             {alternatives.map((alt) => (
-              <a href={`/plugin-prices/${slugify(alt.name)}/`} class="alt-card">
+              <a href={`/plugin-prices/${slugifyProduct(alt.name)}/`} class="alt-card">
                 <p class="alt-name">{alt.name}</p>
                 <span class="alt-price">{formatPrice(alt.price)}</span>
               </a>

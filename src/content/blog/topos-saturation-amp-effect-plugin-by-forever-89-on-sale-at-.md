@@ -6,7 +6,7 @@ tags: ["review", "amplifier", "forever 89", "saturator", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=plugindrop&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763&chan=art&data1=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-"
 heroImage: /images/topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-.jpg
 score: 6.04
-draft: false
+draft: true
 converted: true
 ---
 **Topos saturation & amp effect plugin** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/44-Saturation/14572-Topos?utm_source=plugindrop&utm_medium=article&utm_campaign=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-&a_aid=69cb95abe1763&chan=art&data1=topos-saturation-amp-effect-plugin-by-forever-89-on-sale-at-)

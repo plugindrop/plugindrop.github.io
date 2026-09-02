@@ -5,6 +5,7 @@ import Header from '../components/Header.astro';
 import { SITE_TITLE } from '../consts';
 import priceData from '../data/price_history.json';
 import { dealScoreNumeric, sparklinePoints } from '../lib/priceUtils';
+import { isPricePageIndexable, slugifyProduct } from '../lib/indexPolicy.mjs';
 
 function fableVerdictLabel(verdict: 'good' | 'ok' | 'bad' | 'none', onSale: boolean): string {
   if (verdict === 'none') return 'WAIT';
@@ -56,14 +57,6 @@ function formatDate(iso: string): string {
 function pctOff(sale: number | null, regular: number | null): number {
   if (sale === null || regular === null || regular <= 0 || sale >= regular) return 0;
   return Math.round((1 - sale / regular) * 100);
-}
-
-// Slug used for per-product pages: /plugin-prices/{slug}/
-function slugify(name: string): string {
-  return name
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '');
 }
 
 const CATEGORIES = [
@@ -209,7 +202,7 @@ function buildRow(name: string, bundle: BundleData, isBundleSection: boolean): R
   const developer = detectDeveloper(name, bundle.notes);
   return {
     name,
-    slug: slugify(name),
+    slug: slugifyProduct(name),
     category: bundle.category ?? inferCategory(name, bundle.notes, bundle.pb_url, isBundleSection),
     developer,
     bundle,
@@ -225,10 +218,12 @@ function buildRow(name: string, bundle: BundleData, isBundleSection: boolean): R
 }
 
 const pluginRows = Object.entries(plugins)
+  .filter(([, b]) => isPricePageIndexable(b))
   .map(([name, b]) => buildRow(name, b, false))
   .sort((a, b) => b.off - a.off);
 
 const bundleRows = Object.entries(bundles)
+  .filter(([, b]) => isPricePageIndexable(b))
   .map(([name, b]) => buildRow(name, b, true))
   .sort((a, b) => b.off - a.off);
 

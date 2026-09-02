@@ -3,6 +3,7 @@ import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import priceData from '../../data/price_history.json';
+import { isBrandPageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
 
 interface HistoryEntry {
   date: string;
@@ -111,13 +112,6 @@ function detectBrand(
   return null;
 }
 
-function slugify(name: string): string {
-  return name
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '');
-}
-
 const data = priceData as PriceData;
 const plugins = data.plugins ?? {};
 const bundles = data.bundles ?? {};
@@ -145,13 +139,13 @@ interface BrandSummary {
 }
 
 const brandSummaries: BrandSummary[] = [...groups.entries()]
-  .filter(([, products]) => products.length >= 2)
+  .filter(([, products]) => isBrandPageIndexable(products.length))
   .map(([brand, products]) => {
     const onSaleCount = products.filter((p) => {
       const e = p.entry;
       return e.typical_sale !== null && e.typical_regular !== null && e.typical_sale < e.typical_regular;
     }).length;
-    return { brand, slug: slugify(brand), count: products.length, onSaleCount };
+    return { brand, slug: slugifyProduct(brand), count: products.length, onSaleCount };
   })
   .sort((a, b) => a.brand.localeCompare(b.brand));
 

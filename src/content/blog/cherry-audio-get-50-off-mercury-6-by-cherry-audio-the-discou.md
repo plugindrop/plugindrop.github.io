@@ -6,7 +6,7 @@ tags: ["review", "cherry audio", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou&chan=art&data1=cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou"
 heroImage: /images/cherry-audio-get-50-off-mercury-6-by-cherry-audio-the-discou.jpg
 score: 5.06
-draft: false
+draft: true
 converted: true
 ---
 

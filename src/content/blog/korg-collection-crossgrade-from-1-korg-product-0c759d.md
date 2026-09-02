@@ -11,7 +11,7 @@ dealPrice: "$149.00"
 originalPrice: "$249.00"
 discount: "40% OFF"
 xText: "if you own any korg plugin, getting the full collection at 40% off isn't even a decision anymore. this is the crossgrade pricing that actually makes sense"
-draft: false
+draft: true
 ---
 **TL;DR:** KORG Collection is available via crossgrade for just **$149** (~~$249~~) — a flat $100 saving for producers who already own at least one qualifying KORG software product. That's 40% off one of the most comprehensive vintage keyboard collections in software. [Grab the crossgrade at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14588-KORG-Collection-Crossgrade-from-1-KORG-Product?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-crossgrade-from-1-korg-product-0c759d&chan=art&data1=korg-collection-crossgrade-from-1-korg-product-0c759d)
 

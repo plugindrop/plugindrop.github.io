@@ -6,7 +6,7 @@ tags: ["review", "rhodes", "music-production"]
 affiliate: "https://www.pluginboutique.com/deals/22664?utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763&chan=art&data1=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr"
 heroImage: /images/rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr.webp
 score: 3.08
-draft: false
+draft: true
 converted: true
 ---
 **Rhodes** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/deals/22664?utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr&a_aid=69cb95abe1763&chan=art&data1=rhodes-get-up-to-41-off-in-the-rhodes-easter-sale-expiry-apr)

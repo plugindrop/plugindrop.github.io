@@ -6,7 +6,7 @@ tags: ["review", "bundle", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16094-KORG-Collection-6?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-4e0a19&chan=art&data1=korg-collection-6-4e0a19"
 heroImage: /images/korg-collection-6-4e0a19.jpg
 score: 10.00
-draft: false
+draft: true
 converted: true
 ---
 

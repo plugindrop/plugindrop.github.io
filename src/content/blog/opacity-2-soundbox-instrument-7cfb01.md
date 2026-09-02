@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-productio
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16560-Opacity-2-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-2-soundbox-instrument-7cfb01&chan=art&data1=opacity-2-soundbox-instrument-7cfb01"
 heroImage: /images/opacity-2-soundbox-instrument-7cfb01.jpg
 score: 7.03
-draft: false
+draft: true
 converted: true
 ---
 **Opacity 2 Soundbox Instrument** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16560-Opacity-2-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-2-soundbox-instrument-7cfb01&chan=art&data1=opacity-2-soundbox-instrument-7cfb01)

@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10241-bx-console-SSL-9000-J?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-ssl-9000-j-ec1327&chan=art&data1=bx-console-ssl-9000-j-ec1327"
 heroImage: /images/bx-console-ssl-9000-j-ec1327.jpg
 score: 8.50
-draft: false
+draft: true
 converted: true
 ---
 **bx console SSL 9000 J** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10241-bx-console-SSL-9000-J?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-ssl-9000-j-ec1327&chan=art&data1=bx-console-ssl-9000-j-ec1327)

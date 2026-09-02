@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "drums", "synth", "music-pr
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/31-Synth-Presets/16790-Emotive-Drum-Bass-for-Serum-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=emotive-drum-bass-for-serum-2-b1f5ef&chan=art&data1=emotive-drum-bass-for-serum-2-b1f5ef"
 heroImage: /images/emotive-drum-bass-for-serum-2-b1f5ef.jpg
 score: 7.70
-draft: false
+draft: true
 converted: true
 ---
 **Emotive Drum Bass for Serum 2** is available at Plugin Boutique. Check the current price here.
