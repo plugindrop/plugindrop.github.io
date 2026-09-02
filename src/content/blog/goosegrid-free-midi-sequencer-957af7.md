@@ -8,7 +8,7 @@ heroImage: "/images/goosegrid-free-midi-sequencer-957af7.jpg"
 score: 8.28
 dealPrice: "FREE"
 xText: "free midi sequencer that actually slaps. goosegrid sits in your workflow like butter. no catch, no strings. go grab this right now."
-draft: false
+draft: true
 ---
 **TL;DR:** Goosegrid is a free, browser-based MIDI sequencer built for rapid idea sketching and live performance experimentation — and it costs exactly $0. No download, no install, no excuses. Grab it at [aceslowman.itch.io/goosegrid](https://aceslowman.itch.io/goosegrid) and start sequencing in under a minute.
 

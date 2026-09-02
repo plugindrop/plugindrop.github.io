@@ -8,7 +8,7 @@ heroImage: "/images/lo-fi-hip-hop-ezkeys-midi-d96569.jpg"
 score: 6.00
 discount: "25% OFF"
 xText: "lo-fi hip hop midi patterns for ezkeys just dropped and they hit different. pre-made progressions that sit in a mix like butter, not templated sound. saves mad tweaking time."
-draft: false
+draft: true
 ---
 **TL;DR:** Lo-Fi Hip Hop EZkeys MIDI is currently part of a Toontrack new-release promotion with up to 25% off EZkeys 2 content — a solid entry point into Toontrack's MIDI ecosystem at a reduced rate. [→ Get Lo-Fi Hip Hop EZkeys MIDI at Plugin Boutique](https://www.pluginboutique.com/search?q=lo%20fi%20hip%20hop%20ezkeys%20midi&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=lo-fi-hip-hop-ezkeys-midi-d96569&chan=art&data1=lo-fi-hip-hop-ezkeys-midi-d96569)
 
