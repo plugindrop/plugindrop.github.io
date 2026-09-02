@@ -49649,36 +49649,6 @@
           "regular": 158.0,
           "sale": 69.0,
           "source": "auto_check"
-        },
-        {
-          "date": "2024-03-05",
-          "regular": 129.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-05-03",
-          "regular": 78.34,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-12-09",
-          "regular": 64.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-01-02",
-          "regular": 64.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-21",
-          "regular": 64.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -49745,12 +49715,6 @@
           "regular": 152.0,
           "sale": 30.0,
           "source": "auto_check"
-        },
-        {
-          "date": "2025-06-02",
-          "regular": 111.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
