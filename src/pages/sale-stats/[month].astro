@@ -4,6 +4,8 @@ import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import statsData from '../../data/monthly_sale_stats.json';
+import priceData from '../../data/price_history.json';
+import { indexablePricePagePaths } from '../../lib/indexPolicy.mjs';
 import { pbLink, formatPrice } from '../../lib/priceUtils';
 
 interface DeepDiscount {
@@ -45,6 +47,7 @@ interface StatsFile {
 }
 
 const { months } = statsData as StatsFile;
+const indexablePricePaths = new Set(indexablePricePagePaths(priceData));
 
 export function getStaticPaths() {
   return (statsData as StatsFile).months.map((m) => ({
@@ -248,7 +251,9 @@ const datasetLD = {
               <tbody>
                 {month.deepest_discounts.map((d) => (
                   <tr>
-                    <td><a href={`/plugin-prices/${d.slug}/`} class="prod-link">{d.name}</a></td>
+                    <td>{indexablePricePaths.has(`/plugin-prices/${d.slug}/`)
+                      ? <a href={`/plugin-prices/${d.slug}/`} class="prod-link">{d.name}</a>
+                      : <span class="prod-link">{d.name}</span>}</td>
                     <td>{d.category}</td>
                     <td class="mono">{formatPrice(d.regular)}</td>
                     <td class="mono">{formatPrice(d.sale)}</td>
@@ -276,7 +281,9 @@ const datasetLD = {
               <tbody>
                 {month.all_time_low_products.map((p) => (
                   <tr>
-                    <td><a href={`/plugin-prices/${p.slug}/`} class="prod-link">{p.name}</a></td>
+                    <td>{indexablePricePaths.has(`/plugin-prices/${p.slug}/`)
+                      ? <a href={`/plugin-prices/${p.slug}/`} class="prod-link">{p.name}</a>
+                      : <span class="prod-link">{p.name}</span>}</td>
                     <td class="mono">{formatPrice(p.sale)}</td>
                     <td class="mono">{formatPrice(p.all_time_low)}</td>
                     <td class="mono">{p.date ?? '—'}</td>

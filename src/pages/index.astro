@@ -7,6 +7,7 @@ import { ENABLE_PIP_PREVIEW, SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import priceDataRaw from '../data/price_history.json';
 import productVideosRaw from '../data/product_videos.json';
 import { pdAttr } from '../lib/interestTaxonomy.mjs';
+import { isProductNameIndexable } from '../lib/indexPolicy.mjs';
 import {
 	type PriceEntry,
 	currentPriceOf,
@@ -267,7 +268,9 @@ const moreFreshDeals = allPosts
 						<tbody>
 							{trackerRows.map(row => (
 								<tr data-name={row.name.toLowerCase()}>
-									<td><a href={`/plugin-prices/${slugify(row.name)}/`}>{row.name}</a></td>
+									<td>{isProductNameIndexable(priceData, row.name)
+										? <a href={`/plugin-prices/${slugify(row.name)}/`}>{row.name}</a>
+										: <span>{row.name}</span>}</td>
 									<td class="price-current">{formatPrice(row.current)}</td>
 									<td><s class="price-regular">{formatPrice(row.regular)}</s></td>
 									<td>{row.off > 0 ? <span class="discount-chip">&minus;{row.off}%</span> : <span class="muted">&mdash;</span>}</td>

@@ -417,7 +417,7 @@ const faqs = [
 ];
 
 // --- Cheaper alternatives ----------------------------------------------------
-const otherEntries = allStaticEntries().filter((e) => e.name !== name);
+const otherEntries = allStaticEntries().filter((e) => e.name !== name && isPricePageIndexable(e.entry));
 const selfCategory = entry.category ?? null;
 let pool = otherEntries;
 if (selfCategory) {

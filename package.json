@@ -8,6 +8,9 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
+    "test": "node --test tests/",
+    "check:policy": "node scripts/check_sitemap_policy.mjs && node scripts/check_internal_links.mjs",
+    "report:sitemap": "node scripts/report_sitemap_sections.mjs",
     "preview": "astro preview",
     "astro": "astro"
   },

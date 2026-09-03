@@ -4,7 +4,7 @@ import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import priceData from '../../data/price_history.json';
-import { isBrandPageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
+import { isBrandPageIndexable, isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
 
 // --- Shared types ------------------------------------------------------------
 interface HistoryEntry {
@@ -300,6 +300,7 @@ interface Row {
   off: number;
   allTimeLow: number | null;
   pbUrl: string;
+  indexable: boolean;
 }
 
 const rows: Row[] = products
@@ -317,6 +318,7 @@ const rows: Row[] = products
       off: onSale ? pctOff(p.entry.typical_sale, p.entry.typical_regular) : 0,
       allTimeLow: p.entry.all_time_low,
       pbUrl: p.entry.pb_url,
+      indexable: isPricePageIndexable(p.entry),
     };
   })
   .sort((a, b) => a.name.localeCompare(b.name));
@@ -358,7 +360,7 @@ const itemListLD = {
   "@context": "https://schema.org",
   "@type": "ItemList",
   "name": `${brand} plugins`,
-  "itemListElement": rows.map((r, i) => ({
+  "itemListElement": rows.filter((r) => r.indexable).map((r, i) => ({
     "@type": "ListItem",
     "position": i + 1,
     "url": `https://plugindrop.net/plugin-prices/${r.slug}/`,
@@ -424,7 +426,7 @@ const itemListLD = {
       .ledger-table tbody tr:hover { background: var(--bg-card-hover); }
       .ledger-table tbody tr.is-sale td:first-child { box-shadow: inset 3px 0 0 var(--sale-text); }
       .ledger-table td { padding: 0.75rem 1rem; vertical-align: middle; color: var(--text-secondary); }
-      .ledger-table a.product-link { color: var(--text-primary); font-weight: 600; text-decoration: none; }
+      .ledger-table .product-link { color: var(--text-primary); font-weight: 600; text-decoration: none; }
       .ledger-table a.product-link:hover { color: var(--accent); text-decoration: underline; }
 
       .mono {
@@ -496,7 +498,9 @@ const itemListLD = {
             {rows.map((r) => (
               <tr class={r.onSale ? 'is-sale' : ''}>
                 <td>
-                  <a href={`/plugin-prices/${r.slug}/`} class="product-link">{r.name}</a>
+                  {r.indexable
+                    ? <a href={`/plugin-prices/${r.slug}/`} class="product-link">{r.name}</a>
+                    : <span class="product-link">{r.name}</span>}
                 </td>
                 <td>{r.category}</td>
                 <td class="mono">

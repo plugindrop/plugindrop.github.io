@@ -10,19 +10,12 @@
  *   - 生HTML（iframe等）は raw ノードのため構造的に対象外
  *   - 大文字小文字は区別する（"Vital" と形容詞 "vital" の誤リンク防止）
  *
- * slugify は src/lib/priceUtils.ts の実装と完全一致させること（リンク先の
- * /plugin-prices/[slug].astro ルート生成と同じ規則）。
+ * indexable 判定と slug は src/lib/indexPolicy.mjs を唯一の基準にする。
  */
 import fs from 'node:fs';
+import { isProductNameIndexable, slugifyProduct } from './indexPolicy.mjs';
 
 const dataUrl = new URL('../data/price_history.json', import.meta.url);
-
-function slugify(name) {
-  return name
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '');
-}
 
 function escapeRegExp(s) {
   return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -33,22 +26,23 @@ function buildMatcher() {
   const names = [
     ...Object.keys(raw.bundles ?? {}),
     ...Object.keys(raw.plugins ?? {}),
-  ];
+  ].filter((name) => isProductNameIndexable(raw, name));
   // 長い名前優先: 同一開始位置では正規表現の選択肢は左から試されるため、
   // 文字数降順に並べれば "FabFilter Pro-Q 4" > "Pro-Q 4" が保証される。
   names.sort((a, b) => b.length - a.length);
-  const slugByName = new Map(names.map((n) => [n, slugify(n)]));
+  const slugByName = new Map(names.map((n) => [n, slugifyProduct(n)]));
+  const indexableSlugs = new Set(slugByName.values());
   const alternation = names.map(escapeRegExp).join('|');
   // 単語境界: 製品名は空白・記号を含むため \b では不十分。前後が英数字・
   // ハイフンでないことを要求する（"Serum 2000" の "Serum 2" 誤マッチ防止）。
   const re = new RegExp(`(?<![A-Za-z0-9-])(${alternation})(?![A-Za-z0-9-])`);
-  return { re, slugByName };
+  return { re, slugByName, indexableSlugs };
 }
 
 const EXCLUDED_TAGS = new Set(['a', 'code', 'pre', 'script', 'style', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']);
 
 export default function rehypeProductLinks() {
-  const { re, slugByName } = buildMatcher();
+  const { re, slugByName, indexableSlugs } = buildMatcher();
 
   return function transformer(tree) {
     const linkedSlugs = new Set(); // 1記事1製品1回
@@ -94,6 +88,21 @@ export default function rehypeProductLinks() {
       if (node.type === 'element' && EXCLUDED_TAGS.has(node.tagName)) return;
       for (let i = 0; i < node.children.length; i++) {
         const child = node.children[i];
+        if (child.type === 'element' && child.tagName === 'a') {
+          const href = String(child.properties?.href ?? '');
+          let pathname = '';
+          try {
+            pathname = new URL(href, 'https://plugindrop.net').pathname;
+          } catch {
+            // Leave malformed and unrelated authored links untouched.
+          }
+          const match = pathname.match(/^\/plugin-prices\/([^/]+)\/?$/);
+          if (match && !indexableSlugs.has(match[1])) {
+            node.children.splice(i, 1, ...(child.children ?? []));
+            i += (child.children?.length ?? 0) - 1;
+            continue;
+          }
+        }
         if (child.type === 'text') {
           const replaced = processText(child);
           if (replaced) {
