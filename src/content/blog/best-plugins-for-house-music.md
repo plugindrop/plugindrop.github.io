@@ -7,7 +7,7 @@ affiliate: ""
 evergreen: true
 score: 8.00
 heroImage: "/images/best-plugins-for-house-music.jpg"
-draft: true
+draft: false
 ---
 **TL;DR:** House music production requires a specific combination of tools — warm analog-style synthesizers for chords and bass, precise EQ for DJ mix compatibility, and sample management for the classic vocal and loop elements that define the genre. Serum and Sylenth1 cover synthesis, Pro-Q 4 handles the mix, and Valhalla VintageVerb and Soundtoys EchoBoy provide the space and groove that make house tracks work at volume.
 

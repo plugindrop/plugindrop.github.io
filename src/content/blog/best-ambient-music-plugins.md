@@ -8,7 +8,7 @@ heroImage: "/images/best-ambient-music-plugins.png"
 evergreen: true
 score: 8.00
 xText: "New guide: 12 Best VST Plugins for Ambient & Atmospheric Music in 2026"
-draft: true
+draft: false
 priceTrack:
   - "Valhalla VintageVerb"
 ---

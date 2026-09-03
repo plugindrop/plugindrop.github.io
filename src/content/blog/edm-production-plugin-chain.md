@@ -8,7 +8,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: Complete EDM Production Plugin Chain: From Drop to Master (2..."
 heroImage: "/images/edm-production-plugin-chain.jpg"
-draft: true
+draft: false
 priceTrack:
   - "FabFilter Pro-Q 4"
   - "FabFilter Pro-L 2"
