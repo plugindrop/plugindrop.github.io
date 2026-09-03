@@ -10,10 +10,11 @@ interface Props {
 	description: string;
 	image?: string;
 	ogType?: string;
+	noindex?: boolean;
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-const { title, description, image = '/images/default-og.jpg', ogType = 'website' } = Astro.props;
+const { title, description, image = '/images/default-og.jpg', ogType = 'website', noindex = false } = Astro.props;
 const resolvedImage = new URL(image, Astro.site);
 ---
 
@@ -89,6 +90,6 @@ const resolvedImage = new URL(image, Astro.site);
 <meta name="fo-verify" content="7a68388e-91e2-4676-997d-b56aa9acfa6a" />
 
 <!-- Indexing -->
-<meta name="robots" content="index, follow, max-image-preview:large" />
+<meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large'} />
 
 <PersonalizationScript />

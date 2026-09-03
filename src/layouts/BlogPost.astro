@@ -1,6 +1,7 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 import { pdAttr } from '../lib/interestTaxonomy.mjs';
+import { isTagPageIndexable, slugifyTag } from '../lib/indexPolicy.mjs';
 import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
@@ -307,6 +308,15 @@ const bestGuides = tags
 
 // Related posts: same tags, exclude current slug
 const allPosts = await getCollection('blog');
+const publicTagCounts = new Map<string, number>();
+for (const post of allPosts) {
+	if (post.data.draft) continue;
+	for (const tag of (post.data.tags ?? [])) {
+		const tagSlug = slugifyTag(tag);
+		publicTagCounts.set(tagSlug, (publicTagCounts.get(tagSlug) ?? 0) + 1);
+	}
+}
+const linkedTags = tags.filter((tag: string) => isTagPageIndexable(publicTagCounts.get(slugifyTag(tag)) ?? 0));
 const relatedPosts = allPosts
 	.filter(p => !p.data.draft && p.id !== currentSlug && p.id.replace(/\.mdx?$/, '') !== currentSlug)
 	.map(p => ({ ...p, score: p.data.tags?.filter((t: string) => tags.includes(t)).length ?? 0 }))
@@ -328,9 +338,8 @@ const featuredDeals = isEvergreen ? allPosts
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={title.length > 50 ? title : `${title} | ${SITE_TITLE}`} description={description} image={imageStr} ogType="article" articleSection={tags[0] ?? 'Music Production'} />
+		<BaseHead title={title.length > 50 ? title : `${title} | ${SITE_TITLE}`} description={description} image={imageStr} ogType="article" articleSection={tags[0] ?? 'Music Production'} noindex={!!noindex} />
 		{pdAttr({ title, tags }) && <meta name="pd-interests" content={pdAttr({ title, tags })} />}
-		{noindex && <meta name="robots" content="noindex, follow" />}
 		<script type="application/ld+json" set:html={JSON.stringify(articleLD)} />
 		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbLD)} />
 		{faqLD && <script type="application/ld+json" set:html={JSON.stringify(faqLD)} />}
@@ -980,10 +989,10 @@ const featuredDeals = isEvergreen ? allPosts
 								)}
 							</span>
 							<span class="reading-time">{readingTime}</span>
-							{tags.length > 0 && (
+							{linkedTags.length > 0 && (
 								<div class="tags">
-									{tags.map((tag: string) => {
-										const tagSlug = tag.trim().toLowerCase().replace(/\s+/g, '-');
+									{linkedTags.map((tag: string) => {
+										const tagSlug = slugifyTag(tag);
 										return (
 											<a href={`/tags/${tagSlug}/`} class={`tag ${tag === 'free' ? 'free' : tag === 'sale' ? 'sale' : ''}`} style="text-decoration:none">
 												{tag}
