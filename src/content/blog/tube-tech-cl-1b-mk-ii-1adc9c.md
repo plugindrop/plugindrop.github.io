@@ -10,6 +10,8 @@ dealPrice: "$69.00"
 originalPrice: "$199.00"
 discount: "65% OFF"
 draft: false
+saleExpiry: "2026-09-23"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Plugin Boutique has the Tube Tech CL 1B Mk II compressor plugin at ~~$199~~ **$69**, a 65% discount. That's a $130 savings on a tube-modeled optical compressor built around the hardware original. [Grab the deal here](https://www.pluginboutique.com/search?q=Tube+Tech+CL+1B+Mk+II&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tube-tech-cl-1b-mk-ii-1adc9c).
 

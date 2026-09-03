@@ -10,6 +10,8 @@ dealPrice: "$39.00"
 originalPrice: "$59.00"
 discount: "34% OFF"
 draft: false
+saleExpiry: "2026-10-01"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Plugin Boutique is offering 34% off Evolve Alloy — a Kontakt library of evolving synth patches. ~~$59~~ $39, ends Mon 15. [Get the deal here](https://www.pluginboutique.com/search?q=Evolve+Alloy&a_aid=69cb95abe1763&chan=trk&data1=evolve-alloy-85f18b&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-alloy-85f18b).
 

@@ -10,6 +10,8 @@ dealPrice: "$15.00"
 originalPrice: "$99.00"
 discount: "85% OFF"
 draft: false
+saleExpiry: "2026-09-24"
+saleExpirySource: "fallback"
 ---
 If you only grab one delay plugin from SSL's catalog this week, make it Echo — the discount cuts an $99 plugin down to $15, and SSL's Native X line rarely dips this low.
 

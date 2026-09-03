@@ -10,6 +10,8 @@ dealPrice: "$9.00"
 originalPrice: "$119.00"
 discount: "92% OFF"
 draft: false
+saleExpiry: "2026-09-28"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** SOLID 2 is currently listed at Plugin Boutique for $9.00, down from ~~$119.00~~ — a 92% discount. It's filed under Plugin Boutique's Virtual Instruments category and is pitched as a workflow-focused production tool. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=SOLID+2&a_aid=69cb95abe1763&chan=art&data1=solid-2-fde79b&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-2-fde79b) before the price reverts.
 

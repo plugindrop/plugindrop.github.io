@@ -10,6 +10,8 @@ dealPrice: "$69.00"
 originalPrice: "$99.00"
 discount: "30% OFF"
 draft: false
+saleExpiry: "2026-09-23"
+saleExpirySource: "fallback"
 ---
 If you're building out a synth collection on a budget, Albino 3 Legend is worth a look while it's discounted. It's a long-running Rob Papen synth now priced as a legacy title, not a flashy new release.
 

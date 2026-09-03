@@ -66,7 +66,7 @@ These compressors go across your drum bus or mix bus, where the goal is cohesion
 
 The SSL G-Master Buss Compressor emulates the VCA bus compressor built into the SSL 4000 G series console — one of the most recorded pieces of outboard gear in pop and rock history. Its fixed attack options (0.1, 0.3, 1, 3, 10, and 30ms) and release options (0.1, 0.4, 4s, plus Auto) keep the interface minimal. Reddit's r/mixingmastering community consistently describes the Auto release mode as the reason this plugin is difficult to misuse on a drum bus: it adjusts release timing to the incoming signal, keeping any pumping effect musical rather than mechanical.
 
-Waves runs sitewide and plugin-specific promotions frequently enough that this compressor rarely sits at full list price for more than a few weeks at a time. If you track its history, $29–49 is closer to the "normal" price than an exception. For a full breakdown of when Waves plugins historically hit their lowest prices, see [When Does the Waves SSL G-Master Buss Compressor Go On Sale?](/blog/when-does-waves-ssl-g-master-buss-go-on-sale).
+Waves runs sitewide and plugin-specific promotions frequently enough that this compressor rarely sits at full list price for more than a few weeks at a time. If you track its history, $29–49 is closer to the "normal" price than an exception. For a full breakdown of when Waves plugins historically hit their lowest prices, see When Does the Waves SSL G-Master Buss Compressor Go On Sale?.
 
 **Best for:** Producers who want classic VCA bus glue with minimal setup time and the largest library of tutorials behind any drum bus compressor.
 
@@ -129,7 +129,7 @@ These compressors go on individual drum channels where the job is shaping how ea
 
 FabFilter Pro-C 2 includes eight compression styles — Clean, Classic, Opto, Vari-Mu, Bus, Punch, Pumping, and Mastering — each producing meaningfully different timing and character behavior. FabFilter's developer documentation describes the Punch mode as using a lookahead function to protect the initial transient while compressing the body of the hit, which is exactly the behavior useful on kick and snare channels. The real-time gain reduction display is the clearest visual feedback available in any compressor plugin, making it a genuinely useful tool for understanding compression while you're working.
 
-Reddit's r/edmproduction and r/WeAreTheMusicMakers both consistently rank Pro-C 2 as the top paid drum compressor for producers who want one plugin to handle every compression scenario — channel, bus, parallel, and creative. The price is high relative to the category, and it's worth being clear-eyed about this: FabFilter is one of the least discount-prone developers in the plugin market. If you're hoping to catch it at a steep markdown, check the sale history first at [When Does FabFilter Pro-C 2 Go On Sale?](/blog/when-does-fabfilter-pro-c-2-go-on-sale) before deciding whether to wait.
+Reddit's r/edmproduction and r/WeAreTheMusicMakers both consistently rank Pro-C 2 as the top paid drum compressor for producers who want one plugin to handle every compression scenario — channel, bus, parallel, and creative. The price is high relative to the category, and it's worth being clear-eyed about this: FabFilter is one of the least discount-prone developers in the plugin market. If you're hoping to catch it at a steep markdown, check the sale history first at [When Does FabFilter Pro-C 2 Go On Sale?](/posts/when-does-fabfilter-pro-c-2-go-on-sale/) before deciding whether to wait.
 
 **Best for:** Producers who want a single plugin to handle kick and snare channel compression, drum bus glue, and parallel compression without switching tools.
 
@@ -148,7 +148,7 @@ Reddit's r/edmproduction and r/WeAreTheMusicMakers both consistently rank Pro-C 
 
 The CLA-76 emulates the UREI 1176 FET compressor, one of the most frequently cited compressors in drum production discussions across Gearspace and r/audioengineering. The original hardware's extremely fast attack capability makes it suited for transient shaping on snare hits and room mics where VCA-style compressors are too slow to catch the initial attack. Waves' documentation describes the CLA-76 as including both the Blacky (black-face 1176LN) and Bluey (blue-stripe 1176) circuit variations with distinct harmonic characteristics. The "all buttons in" mode — a technique from the original hardware — is a documented community standard for adding aggressive character to room mics in rock production.
 
-Like the SSL G-Master, the CLA-76 belongs to Waves' catalog-wide sale rotation, and full list price is effectively a ceiling rather than a realistic purchase point. See [When Does Waves CLA-76 Go On Sale?](/blog/when-does-waves-cla-76-go-on-sale) for the typical discount windows before buying.
+Like the SSL G-Master, the CLA-76 belongs to Waves' catalog-wide sale rotation, and full list price is effectively a ceiling rather than a realistic purchase point. See When Does Waves CLA-76 Go On Sale? for the typical discount windows before buying.
 
 **Best for:** Snare channel compression, room mic character, and fast FET-style transient control.
 
@@ -347,7 +347,7 @@ Not every plugin in this guide belongs on the same shopping timeline. Here's how
 - **Any free plugin** (Rough Rider 3, TDR Kotelnikov, Klanghelm MJUC jr., Klanghelm DC1A) — there's no financial reason to delay; download them today and start using them.
 
 **Wait for a sale window:**
-- **Waves SSL G-Master Buss Compressor and Waves CLA-76** — Waves runs frequent promotions, and $29–49 pricing shows up regularly enough that paying full list price is usually avoidable. If you're not in a rush, check current pricing against recent history before buying — see [When Does Waves SSL G-Master Buss Go On Sale?](/blog/when-does-waves-ssl-g-master-buss-go-on-sale) and [When Does Waves CLA-76 Go On Sale?](/blog/when-does-waves-cla-76-go-on-sale).
+- **Waves SSL G-Master Buss Compressor and Waves CLA-76** — Waves runs frequent promotions, and $29–49 pricing shows up regularly enough that paying full list price is usually avoidable. If you're not in a rush, check current pricing against recent history before buying — see When Does Waves SSL G-Master Buss Go On Sale? and When Does Waves CLA-76 Go On Sale?.
 - **Native Instruments Supercharger GT / Komplete bundles** — Black Friday and NI's anniversary sales are historically the deepest discount windows for Komplete tiers. Unless you need it for a session this week, it's worth waiting for one of those windows.
 
 **Evaluate the ongoing cost, not just the entry price:**

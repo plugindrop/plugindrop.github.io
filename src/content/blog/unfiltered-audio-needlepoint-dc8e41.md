@@ -10,6 +10,8 @@ dealPrice: "$30.00"
 originalPrice: "$78.00"
 discount: "62% OFF"
 draft: false
+saleExpiry: "2026-09-29"
+saleExpirySource: "fallback"
 ---
 If you only need one lo-fi/tape effect this week, Needlepoint at 62% off is the one to grab — it's a straightforward price drop on a focused tool, not a bundle you have to sort through.
 

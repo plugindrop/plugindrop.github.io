@@ -59,7 +59,7 @@ The synthesizer is the center of any EDM workflow. Whether you're designing lead
 
 Serum's wavetable editor, flexible filter collection, and sub-oscillator routing have made it the dominant production synth across virtually every EDM subgenre. r/edmproduction's FAQ consistently lists it as the first paid synthesizer recommendation for producers at any level. The third-party preset ecosystem — spanning NI's marketplace to independent designers covering every subgenre — means producers are never starting cold unless they choose to.
 
-**Purchase note:** Xfer Records is notorious in producer communities for *not* running frequent discounts on Serum. Unlike most plugins on this list, waiting for a "big sale" is largely a myth here — the price has hovered around $189 for years with only occasional small promotional windows. If Serum is the tool you need, buying now rarely costs you more than buying in six months. For a deeper breakdown of Xfer's actual discount history, see [When Does Serum Go On Sale?](/blog/when-does-serum-go-on-sale).
+**Purchase note:** Xfer Records is notorious in producer communities for *not* running frequent discounts on Serum. Unlike most plugins on this list, waiting for a "big sale" is largely a myth here — the price has hovered around $189 for years with only occasional small promotional windows. If Serum is the tool you need, buying now rarely costs you more than buying in six months. For a deeper breakdown of Xfer's actual discount history, see When Does Serum Go On Sale?.
 
 **Best for:** Any EDM subgenre requiring detailed wavetable design or immediate access to a deep, professionally curated preset library.
 
@@ -97,7 +97,7 @@ Developer documentation confirms Vital uses spectral warping on its wavetables �
 
 Native Instruments' documentation describes Massive X as a rebuilt architecture supporting Phase Modulation, Frequency Modulation, and wavefolding within a single oscillator chain. KVR's community consistently describes the sound as darker and more harmonically dense than the original Massive. It is particularly well-represented in techno, industrial, and experimental EDM contexts where complex, evolving modulation is valued over fast preset access.
 
-**Purchase note:** This is the opposite situation from Serum. Native Instruments runs some of the most aggressive and frequent sales in the plugin industry — Black Friday, Cyber Week, "Summer of Sound," and periodic Komplete upgrade promotions regularly cut standalone synth prices by 30-50%. Buying Massive X at full standalone price outside of one of these windows is close to the worst way to acquire it. Check [When Does Massive X Go On Sale?](/blog/when-does-massive-x-go-on-sale) before you commit, and consider whether a discounted Komplete bundle tier actually costs less per-instrument than the standalone purchase.
+**Purchase note:** This is the opposite situation from Serum. Native Instruments runs some of the most aggressive and frequent sales in the plugin industry — Black Friday, Cyber Week, "Summer of Sound," and periodic Komplete upgrade promotions regularly cut standalone synth prices by 30-50%. Buying Massive X at full standalone price outside of one of these windows is close to the worst way to acquire it. Check When Does Massive X Go On Sale? before you commit, and consider whether a discounted Komplete bundle tier actually costs less per-instrument than the standalone purchase.
 
 **Best for:** Producers building dark, complex modulation chains for techno, industrial EDM, or any genre that benefits from dense, evolving harmonic content.
 
@@ -116,7 +116,7 @@ Native Instruments' documentation describes Massive X as a rebuilt architecture 
 
 Developer documentation confirms Sylenth1 uses four oscillators with four-voice unison each — 16 simultaneous voices per preset at maximum stack. r/trancefamily and r/edmproduction have named it the defining synth for trance supersaw sounds and big room house leads for over a decade. The filter character is described in community discussions as warm and consistent — the kind of predictability that makes mixing straightforward rather than corrective.
 
-**Purchase note:** Like Xfer, LennarDigital is a small developer with almost no discount history — €139 has been the going rate for a long time, and there's no evidence of recurring seasonal sales. If your subgenre depends on that specific supersaw character, treat this as a buy-now decision rather than a wait-and-watch one. Full breakdown at [When Does Sylenth1 Go On Sale?](/blog/when-does-sylenth1-go-on-sale).
+**Purchase note:** Like Xfer, LennarDigital is a small developer with almost no discount history — €139 has been the going rate for a long time, and there's no evidence of recurring seasonal sales. If your subgenre depends on that specific supersaw character, treat this as a buy-now decision rather than a wait-and-watch one. Full breakdown at When Does Sylenth1 Go On Sale?.
 
 **Best for:** Trance, big room house, and festival EDM where the classic supersaw density is structurally foundational, not decorative.
 
@@ -135,7 +135,7 @@ Developer documentation confirms Sylenth1 uses four oscillators with four-voice 
 
 Nexus 4 is a rompler-based synthesizer with an expandable preset library covering every major commercial EDM subgenre. reFX's documentation emphasizes the quality of the underlying sample content and the modular expansion architecture. Community positioning has been consistent for years: Nexus 4 is a rapid-prototyping tool, not a sound design environment. Producers who prioritize polished output speed over synthesis flexibility use it for exactly that.
 
-**Purchase note:** Because Nexus 4 runs on a subscription rather than a one-time license, the "wait for a sale" calculus is different — the real decision is whether you need the ongoing expansion pack pipeline at all. If you only need one or two genre packs, check whether a legacy perpetual-license expansion is still purchasable outright before committing to the subscription. See [When Does Nexus 4 Go On Sale?](/blog/when-does-nexus-4-go-on-sale) for current subscription discount cycles.
+**Purchase note:** Because Nexus 4 runs on a subscription rather than a one-time license, the "wait for a sale" calculus is different — the real decision is whether you need the ongoing expansion pack pipeline at all. If you only need one or two genre packs, check whether a legacy perpetual-license expansion is still purchasable outright before committing to the subscription. See When Does Nexus 4 Go On Sale? for current subscription discount cycles.
 
 **Best for:** Producers who need professionally finished sounds immediately and work across multiple EDM genres on tight deadlines.
 
@@ -232,7 +232,7 @@ Developer documentation confirms OTT is Xfer's standalone release of the Ableton
 
 Developer documentation confirms TDR Nova combines parametric EQ and dynamic EQ in a single plugin, with parallel compression routing available. In EDM mixing, it handles frequency-specific dynamic control — taming resonant synth frequencies, de-essing aggressive pad layers, and applying compression that only activates within a targeted frequency range. KVR's community consistently rates it among the best free mixing tools available in any genre.
 
-**Purchase note:** Start with the free version — it covers the vast majority of EDM mixing use cases described above. The paid GE (Gentleman's Edition) unlocks additional saturation and mid-side processing, and it appears in Plugin Boutique flash sales regularly, often at 30-40% off list price. Don't buy GE at full price; wait for one of those windows. Track current pricing at [When Does TDR Nova Go On Sale?](/blog/when-does-tdr-nova-go-on-sale).
+**Purchase note:** Start with the free version — it covers the vast majority of EDM mixing use cases described above. The paid GE (Gentleman's Edition) unlocks additional saturation and mid-side processing, and it appears in Plugin Boutique flash sales regularly, often at 30-40% off list price. Don't buy GE at full price; wait for one of those windows. Track current pricing at When Does TDR Nova Go On Sale?.
 
 **Best for:** Dynamic EQ tasks — taming harshness in synths, frequency-specific compression, and surgical resonance control.
 
@@ -412,19 +412,19 @@ Not every plugin in this guide behaves the same way when it comes to pricing, an
 
 ### Buy Now — These Developers Rarely Discount
 
-- **Serum (Xfer Records):** $189 has been the stable price point for years, with no reliable recurring sale pattern. If your workflow needs it, the "wait for Black Friday" strategy simply doesn't pay off the way it does elsewhere. See [When Does Serum Go On Sale?](/blog/when-does-serum-go-on-sale) for the full discount history.
+- **Serum (Xfer Records):** $189 has been the stable price point for years, with no reliable recurring sale pattern. If your workflow needs it, the "wait for Black Friday" strategy simply doesn't pay off the way it does elsewhere. See When Does Serum Go On Sale? for the full discount history.
 - **Sylenth1 (LennarDigital):** Same story — €139 with essentially no discount cadence. Budget for full price and buy when the genre need is concrete, not speculative.
 - **OTT, Valhalla Supermassive, Valhalla Freq Echo, TAL-Reverb-4, Surge XT, Odin 2, Dexed, LABS, Podolski:** All free. There's no "buy now vs. wait" question — download them today regardless of budget.
 
 ### Wait for a Sale Window — These Developers Discount Predictably
 
-- **Massive X and other Native Instruments products:** NI runs some of the most frequent and deep sales in the industry — Black Friday, Cyber Week, and mid-year promotions regularly bring 30-50% off standalone synths and Komplete tiers. Paying list price here is almost always avoidable. Track timing at [When Does Massive X Go On Sale?](/blog/when-does-massive-x-go-on-sale).
-- **TDR Nova GE:** The free version covers most needs, but if you want the paid Gentleman's Edition, watch for Plugin Boutique flash sales, which discount it 30-40% on a fairly regular cycle. Check [When Does TDR Nova Go On Sale?](/blog/when-does-tdr-nova-go-on-sale) before buying at full price.
+- **Massive X and other Native Instruments products:** NI runs some of the most frequent and deep sales in the industry — Black Friday, Cyber Week, and mid-year promotions regularly bring 30-50% off standalone synths and Komplete tiers. Paying list price here is almost always avoidable. Track timing at When Does Massive X Go On Sale?.
+- **TDR Nova GE:** The free version covers most needs, but if you want the paid Gentleman's Edition, watch for Plugin Boutique flash sales, which discount it 30-40% on a fairly regular cycle. Check When Does TDR Nova Go On Sale? before buying at full price.
 - **u-he's paid line (Diva, Zebra2), relevant if Podolski leaves you wanting more:** Seasonal discounts of roughly 25-30% appear around Black Friday and u-he's own anniversary promotions.
 
 ### Subscription Products — A Different Calculus Entirely
 
-- **Nexus 4:** Because this is subscription-based rather than a one-time purchase, the "wait for a sale" question matters less than the "do I need the ongoing pipeline" question. If you only need a narrow genre pack, check for legacy perpetual-license expansions before committing to an open-ended subscription. See [When Does Nexus 4 Go On Sale?](/blog/when-does-nexus-4-go-on-sale) for current subscription promotions.
+- **Nexus 4:** Because this is subscription-based rather than a one-time purchase, the "wait for a sale" question matters less than the "do I need the ongoing pipeline" question. If you only need a narrow genre pack, check for legacy perpetual-license expansions before committing to an open-ended subscription. See When Does Nexus 4 Go On Sale? for current subscription promotions.
 - **Vital Plus/Pro:** Start free. Only consider the paid tiers once the free preset cap genuinely limits your workflow, and watch for the occasional discount rather than paying the full annual rate immediately.
 
 ### General Rule of Thumb

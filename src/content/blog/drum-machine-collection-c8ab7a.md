@@ -10,6 +10,8 @@ dealPrice: "$199.00"
 originalPrice: "$499.00"
 discount: "60% OFF"
 draft: false
+saleExpiry: "2026-10-01"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Save 60% on the Drum Machine Collection — a bundle of drum samples and loops for DAWs. ~~$499~~ $199. [Get the deal here](https://www.pluginboutique.com/search?q=Drum+Machine+Collection&a_aid=69cb95abe1763&chan=trk&data1=drum-machine-collection-c8ab7a&utm_source=plugindrop&utm_medium=article&utm_campaign=drum-machine-collection-c8ab7a).
 

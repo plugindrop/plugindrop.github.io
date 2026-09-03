@@ -10,6 +10,8 @@ dealPrice: "$124.00"
 originalPrice: "$249.00"
 discount: "50% OFF"
 draft: false
+saleExpiry: "2026-10-02"
+saleExpirySource: "fallback"
 ---
 If you only install one, make it VPS Avenger 2 — for a single synth that combines multiple sound-design approaches.
 

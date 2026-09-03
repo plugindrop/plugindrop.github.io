@@ -10,6 +10,8 @@ dealPrice: "$79.00"
 originalPrice: "$149.00"
 discount: "47% OFF"
 draft: false
+saleExpiry: "2026-10-02"
+saleExpirySource: "fallback"
 ---
 If you only install one, make it EMT 140 Classic Plate Reverberator if you specifically need a UAD Native plate reverb modeled after three vintage EMT 140 units.
 

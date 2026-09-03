@@ -10,6 +10,8 @@ dealPrice: "$15.00"
 originalPrice: "$49.00"
 discount: "69% OFF"
 draft: false
+saleExpiry: "2026-09-30"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** SSL X Gate is on sale at Plugin Boutique for **$15**, down from ~~$49~~ — a 69% discount. It's a noise gate and expander plugin modeled on Solid State Logic's console circuitry, built for cleaning up drum bleed and tightening mix elements. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+X+Gate&a_aid=69cb95abe1763&chan=art&data1=ssl-x-gate-782ebd&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-gate-782ebd).
 

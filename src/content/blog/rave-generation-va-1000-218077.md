@@ -10,6 +10,8 @@ dealPrice: "$74.33"
 originalPrice: "$148.66"
 discount: "50% OFF"
 draft: false
+saleExpiry: "2026-10-02"
+saleExpirySource: "fallback"
 ---
 If you only install one, make it VA-1000 if your tracks need virtual-analog synth parts with supersaw, acid-style filter, chord, and arpeggiator tools in one instrument.
 

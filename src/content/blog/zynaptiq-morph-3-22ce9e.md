@@ -10,6 +10,8 @@ dealPrice: "$69"
 originalPrice: "$149"
 discount: "53% OFF"
 draft: false
+saleExpiry: "2026-09-25"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Zynaptiq Morph 3 is currently ~~$149~~ $69 at PluginFox — a 53% discount that saves you $80. It's a spectral morphing plugin built for sound designers who want to blend two audio sources into hybrid tones. [Grab the deal at PluginFox](https://pluginfox.com/products/zynaptiq-morph-3?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=zynaptiq-morph-3-22ce9e) while the price is live.
 
