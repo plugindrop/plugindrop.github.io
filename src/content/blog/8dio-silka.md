@@ -41,6 +41,36 @@ Silka features 40 male and 25 female voices recorded with 63,500 samples across 
 
 ---
 
+## Technical Specifications
+
+| Spec | Detail |
+|---|---|
+| Ensemble size | 65 singers (40 male, 25 female) |
+| Sample count | 63,500 samples |
+| Legato engine | Polyphonic, dynamically layered |
+| Phrase builder | Up to 64 characters per sequence |
+| Articulations | Sustains, staccatos, marcatos, vowel patches |
+| Host requirement | Kontakt 6 or later (full version, not Kontakt Player) |
+| Format | Kontakt instrument (NKI) |
+| Regular price | $99 (list $599; Pick 3 bundle: $69 for any 3 titles) |
+
+Silka's 64-character phrase builder is aimed at rhythmic choral writing rather than sustained pads, useful when a part needs to move with the beat instead of holding underneath it, which is a less common use case among choir libraries generally built for legato sustain.
+
+---
+
+## FAQ
+
+**Q: Does Silka require the full version of Kontakt?**
+A: Yes, Kontakt 6 or later (full version). It will not load in the free Kontakt Player.
+
+**Q: How is Silka different from Insolidus, which has a similar voice count?**
+A: Both use 65 voices (40 male, 25 female) with polyphonic legato, but Silka adds the 64-character rhythmic phrase builder, while Insolidus focuses more on syllable arcs for sustained lyrical lines.
+
+**Q: Is Silka available outside the Pick 3 bundle?**
+A: Yes, individually at its regular $99 price (list $599). The Pick 3 deal combines it with two other eligible 8Dio choirs for $69 total.
+
+---
+
 ## Who It's For
 
 Silka is well-suited for composers who need emotionally expressive choir textures — softer than Lacrimosa, more rhythmically capable than a basic sustain library. Works well in hybrid scoring, ambient music, and any context where choir is used as texture rather than foreground.

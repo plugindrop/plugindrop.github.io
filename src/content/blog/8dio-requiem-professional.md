@@ -41,6 +41,37 @@ Requiem Professional was recorded in a San Francisco cathedral, giving it a natu
 
 ---
 
+## Technical Specifications
+
+| Spec | Detail |
+|---|---|
+| Recording location | San Francisco cathedral (natural reverb) |
+| Sample count | 15,500+ samples (14.45GB) |
+| Soloists | 5 (SATB + soprano) |
+| Legato engine | Polyphonic |
+| Mic positions | Multiple, blendable cathedral acoustic |
+| Effects library | 1,000+ consonant, vowel, and textural elements |
+| Host requirement | Kontakt 6 or later (full version, not Kontakt Player) |
+| Format | Kontakt instrument (NKI) |
+| Regular price | $99 (Pick 3 bundle: $69 for any 3 titles) |
+
+Because the room tone is baked into the recording, Requiem Professional behaves differently in a mix than dry, studio-recorded choir libraries, less need for added reverb, but also less flexibility to change the acoustic space if the cathedral character doesn't fit the arrangement.
+
+---
+
+## FAQ
+
+**Q: Does Requiem Professional need the full version of Kontakt?**
+A: Yes, Kontakt 6 or later (full version), it does not run in the free Kontakt Player.
+
+**Q: Is the cathedral reverb baked into the samples, or is it a separate effect?**
+A: It's captured in the recording itself (the room tone of the San Francisco cathedral), not applied afterward, so it can't be fully removed if you need a drier signal.
+
+**Q: Can I buy Requiem Professional outside the Pick 3 bundle?**
+A: Yes, individually at its regular $99 price. The Pick 3 deal combines it with two other eligible 8Dio choirs for $69 total.
+
+---
+
 ## Who It's For
 
 Requiem Professional suits composers who want a choir with inherent room and atmosphere — religious or sacred film scoring, orchestral underscore with natural reverb, or any context where a cathedral acoustic is an asset rather than something to process out.

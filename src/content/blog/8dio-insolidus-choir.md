@@ -41,6 +41,36 @@ Insolidus features 40 male and 25 female singers recorded with 4 hall and 4 spot
 
 ---
 
+## Technical Specifications
+
+| Spec | Detail |
+|---|---|
+| Ensemble size | 65 singers (40 male, 25 female) |
+| Sample count | 37,500 samples (~40GB) |
+| Mic positions | 4 hall + 4 spot |
+| Phrase builder | Up to 64 syllables per sequence |
+| Legato engine | Polyphonic, full chord progressions with one patch |
+| Host requirement | Kontakt 6 or later (full version, not Kontakt Player) |
+| Format | Kontakt instrument (NKI) |
+| Regular price | $99 (Pick 3 bundle: $69 for any 3 titles) |
+
+The polyphonic legato engine is what sets Insolidus apart technically, most choir libraries only offer monophonic legato (one note at a time), so playing a chord progression with realistic voice-leading normally requires layering multiple instances. Insolidus handles it in a single patch.
+
+---
+
+## FAQ
+
+**Q: Does Insolidus require the full version of Kontakt?**
+A: Yes. It needs Kontakt 6 or later (full version) and will not run in the free Kontakt Player.
+
+**Q: How much disk space does Insolidus need?**
+A: Around 40GB for the full 37,500-sample library, confirm free space before downloading.
+
+**Q: Is Insolidus available outside the Pick 3 bundle?**
+A: Yes, at its regular $99 price. The Pick 3 deal bundles it with two other eligible 8Dio choirs at a reduced combined price.
+
+---
+
 ## Who It's For
 
 Insolidus is the right pick for composers who prioritize expressiveness and playability over raw scale. Its polyphonic legato makes it uniquely suited for harmonic choral writing — film underscore, emotional game music, or any context where a choir needs to feel performed, not triggered.

@@ -41,6 +41,36 @@ Lacrimosa is 8Dio's largest choir library — 200 singers recorded across four s
 
 ---
 
+## Technical Specifications
+
+| Spec | Detail |
+|---|---|
+| Ensemble size | 200 singers (70 bass, 60 tenor, 40 alto, 30 soprano) |
+| Legato engine | True Layered Legato (velocity-based dynamic layers) |
+| Vowel expressions | 40+ with phoneme control |
+| Articulations | Staccato, sustain, marcato, and more |
+| Mic positions | Multiple, close, room, and hall blend |
+| Host requirement | Kontakt 6 or later (full version, not Kontakt Player) |
+| Format | Kontakt instrument (NKI) |
+| Regular price | $149 (Pro edition; Pick 3 bundle: $69 for any 3 titles) |
+
+At 200 voices split across four sections, Lacrimosa is built to fill a mix on its own rather than sit as a supporting texture, the section balance (heavy on bass and tenor) is tuned for the weight expected in trailer and large-ensemble cinematic work.
+
+---
+
+## FAQ
+
+**Q: Does Lacrimosa need the full Kontakt or does Kontakt Player work?**
+A: It requires the full version of Kontakt 6 or later. The free Kontakt Player cannot load it.
+
+**Q: Can I buy Lacrimosa without the Pick 3 bundle?**
+A: Yes, individually at its regular $149 Pro price. The Pick 3 deal combines it with two other eligible 8Dio choirs for $69 total.
+
+**Q: How does Lacrimosa compare in scale to 8Dio's other choirs in this lineup?**
+A: It is the largest, 200 singers versus 65 for Insolidus/Silka or 16 for Aetheria. Choose Lacrimosa when the arrangement calls for mass and density rather than intimacy.
+
+---
+
 ## Who It's For
 
 Lacrimosa suits composers who need a large, weighty choir sound for epic scoring — trailers, orchestral underscore, dramatic game cutscenes. The 200-singer scale delivers the kind of mass and density that smaller ensembles can't replicate.

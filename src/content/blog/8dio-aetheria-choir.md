@@ -41,6 +41,37 @@ Aetheria features 8 male and 8 female singers with five true velocity-based lega
 
 ---
 
+## Technical Specifications
+
+| Spec | Detail |
+|---|---|
+| Ensemble size | 16 singers (8 male, 8 female) |
+| Velocity legatos | 5 dynamic layers |
+| Multi-vowel expressions | 26 |
+| Emotive arcs | 12 |
+| Articulations | 29 staccatos, 25 sustains, 11 marcatos |
+| Phrase engine | Word sequencer for real-time lyrical phrasing |
+| Host requirement | Kontakt 6 or later (full version, not Kontakt Player) |
+| Format | Kontakt instrument (NKI) |
+| Regular price | $99 (Pick 3 bundle: $69 for any 3 titles) |
+
+Aetheria trades raw scale for per-voice control. At 16 singers, each voice sits more distinctly in the mix than in 8Dio's larger ensembles, useful for exposed choral lines rather than dense wall-of-sound pads.
+
+---
+
+## FAQ
+
+**Q: Does Aetheria work in the free Kontakt Player?**
+A: No. Like all 8Dio choir libraries, Aetheria requires the full version of Kontakt 6 or later, it will not load in the free Kontakt Player.
+
+**Q: Can I buy Aetheria on its own, outside the Pick 3 deal?**
+A: Yes. It is sold individually at its regular $99 price; the Pick 3 offer is simply a discounted way to get it plus two other eligible titles at once.
+
+**Q: How does Aetheria differ from the other choirs in the bundle?**
+A: It is the smallest, most intimate ensemble (16 singers) with the most granular per-voice control. Larger titles like Lacrimosa (200 singers) trade that precision for scale and mass.
+
+---
+
 ## Who It's For
 
 Aetheria is a good fit for composers who want choir texture that doesn't overwhelm a mix — underscore, hybrid arrangements, or any context where a smaller, more precise ensemble works better than a 200-voice wall of sound.

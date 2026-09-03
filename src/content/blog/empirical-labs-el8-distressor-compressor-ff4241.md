@@ -52,9 +52,34 @@ A: This is the official first-party plugin from Empirical Labs — not a third-p
 
 ---
 
+## Compression Modes Explained
+
+The EL8 plugin models the hardware Distressor's core settings, each altering the harmonic character of the gain reduction:
+
+| Mode | Character |
+|---|---|
+| Setting 1-2 | Cleaner, more transparent compression closer to a standard VCA compressor |
+| Setting 3 (with Brit Mode) | Adds upper-harmonic coloration reminiscent of classic British console compression |
+| Dist 2 | Moderate harmonic distortion, adds grit without fully saturating the signal |
+| Dist 3 (Nuke) | Heavy distortion mode, aggressive harmonic saturation, popular on drums and bass for added character |
+
+Additional controls include a British-mode switch (adds extra harmonic coloration to the output stage) and a stereo-image control for linking or spreading compression across a stereo pair, both carried over from the original hardware unit's feature set.
+
+---
+
+## Format & System Requirements
+
+- Plugin formats: VST, VST3, AU, AAX (confirm the exact list on the product page, as supported formats can change between versions)
+- Host compatibility: Works in any DAW supporting the formats above, on Windows or macOS
+- Activation: Check the product page for the current licensing method (iLok, machine-based, or otherwise) before purchasing
+
+---
+
 ## Where to Buy
 
-An official plugin from the designers of one of the most respected hardware compressors in studio history. ](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241&chan=art&data1=empirical-labs-el8-distressor-compressor-ff4241)
+An official plugin from the designers of one of the most respected hardware compressors in studio history.
+
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241&chan=art&data1=empirical-labs-el8-distressor-compressor-ff4241)**
 
 ---
 

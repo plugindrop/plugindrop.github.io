@@ -38,6 +38,37 @@ Liberis features the Piedmont Children's Choir — 45 professional young singers
 
 ---
 
+## Technical Specifications
+
+| Spec | Detail |
+|---|---|
+| Ensemble size | 45 singers (Piedmont Childrens Choir) |
+| Soloists | 3 included (1 male, 2 female) |
+| Mic positions | 3 (close, room, hall) |
+| Legato engine | True layered legato |
+| Vowel phrases | 50+ |
+| Effects library | 1,000+ consonant, vowel, and textural elements |
+| Host requirement | Kontakt 6 or later (full version, not Kontakt Player) |
+| Format | Kontakt instrument (NKI) |
+| Regular price | $79 (list $498; Pick 3 bundle: $69 for any 3 titles) |
+
+Liberis is the only children's-choir title in 8Dio's current lineup, which makes it a niche pick rather than a general-purpose ensemble, the Piedmont Children's Choir's timbre isn't something you can approximate by pitching up an adult choir library.
+
+---
+
+## FAQ
+
+**Q: Does Liberis require the full version of Kontakt?**
+A: Yes, Kontakt 6 or later (full version). It will not run in the free Kontakt Player.
+
+**Q: Can the 3 included soloists be used independently of the full ensemble?**
+A: Yes, the one male and two female soloists are separate patches for exposed, intimate lines distinct from the full 45-voice ensemble.
+
+**Q: Is Liberis sold outside the Pick 3 bundle?**
+A: Yes, individually at its regular $79 price (list $498). The Pick 3 deal combines it with two other eligible 8Dio choirs for $69 total.
+
+---
+
 ## Who It's For
 
 Liberis is the only dedicated children's choir option in the 8Dio lineup. It fills a specific niche — angelic or innocent character for sacred scoring, emotional contrast in dramatic underscore, or any texture that benefits from the distinct timbre of young voices.
