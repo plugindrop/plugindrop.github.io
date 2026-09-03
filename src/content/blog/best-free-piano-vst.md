@@ -59,7 +59,7 @@ A: All plugins listed here are documented for commercial use. Spitfire LABS inst
 ## Related Guides
 
 - [10 Best Free Strings VST Plugins in 2026](/posts/best-free-strings-vst-plugins/)
-- [10 Best Free Orchestral VST Plugins in 2026](/posts/best-free-orchestral-vst-plugins/)
+- [10 Best Free Orchestral VST Plugins in 2026](/posts/best-free-strings-vst-plugins/)
 - [Best Piano VST Plugins 2026: 10 Top Picks for Every Budget](/posts/best-piano-vst-plugins/)
 - [Best Kontakt Libraries in 2026: 14 Instruments Ranked by Value](/posts/best-kontakt-libraries-2026/)
 

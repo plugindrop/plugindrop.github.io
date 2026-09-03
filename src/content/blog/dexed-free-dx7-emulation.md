@@ -91,7 +91,7 @@ The DX7 defined a decade of music. Dexed brings that engine to your DAW. Free. O
 [Get Dexed — FREE](https://asb2m10.github.io/dexed/)
 
 ## Related Guides
-- [Best Synth Plugins 2026 — Ranked: Free & Paid VSTs for Every Style](/posts/best-synth-plugins-2026/)
+- [Best Synth Plugins 2026 — Ranked: Free & Paid VSTs for Every Style](/posts/best-synth-vst-plugins-2026/)
 - [Best Free Synth Plugins of 2026](/posts/best-free-synth-plugins/)
 - [Vital Synthesizer Review 2026](/posts/best-free-synth-plugins/)
 - [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)

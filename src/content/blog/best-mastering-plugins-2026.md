@@ -247,7 +247,7 @@ Both are capable. If you already own Ozone, its EQ module handles most mastering
 
 - [10 Best Mastering Limiter Plugins in 2026 (Ranked)](/posts/best-limiter-plugins-mastering/)
 - [iZotope Ozone 12 vs FabFilter Pro-L 2 2026: Which Mastering Suite Is Right for You?](/posts/izotope-ozone-vs-fabfilter-mastering/)
-- [10 Best EQ Plugins for Mixing & Mastering in 2026](/posts/best-eq-plugins-mixing-mastering/)
+- [10 Best EQ Plugins for Mixing & Mastering in 2026](/posts/best-eq-plugins-2026/)
 - [10 Best Free Mastering Plugins in 2026, Ranked (Limiter, EQ, Metering)](/posts/best-free-mastering-plugins/)
 - [LANDR Mastering Review 2026: Is the Subscription Worth It?](/posts/landr-mastering-worth-it-2026/)
 

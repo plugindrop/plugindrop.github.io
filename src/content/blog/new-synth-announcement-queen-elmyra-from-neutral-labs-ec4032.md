@@ -97,6 +97,6 @@ Queen Elmyra is a fresh announcement from one of the hardware synth community's 
 
 ## Related Guides
 
-- [Best Synth Plugins 2026](/posts/best-synth-plugins-2026/)
+- [Best Synth Plugins 2026](/posts/best-synth-vst-plugins-2026/)
 - [14 Best Free Synthesizer VST Plugins](/posts/best-free-synth-plugins/)
 - [Best Mixing Plugins 2026](/posts/best-mixing-plugins-2026/)

@@ -19,7 +19,7 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Serum | $189 | Lead synthesis & sound design | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=edm-production-plugin-chain&chan=art&data1=edm-production-plugin-chain) |
+| Serum | $189 | Lead synthesis & sound design | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=edm-production-plugin-chain&chan=art&data1=edm-production-plugin-chain) |
 | OTT | Free | Multiband upward compression | [Free Download](https://xferrecords.com/freeware) |
 | FabFilter Pro-Q 4 | $179 | Mix bus EQ & frequency cleanup | [Get Pro-Q 4 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=edm-production-plugin-chain) |
 | Valhalla Supermassive | Free | Reverb, space & atmosphere | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=edm-production-plugin-chain&chan=art&data1=edm-production-plugin-chain) |
@@ -54,7 +54,7 @@ Serum's wavetable engine allows producers to import, draw, or morph waveforms at
 
 **Best for:** Leads, supersaws, plucks, basses, and any sound that defines the character of the drop.
 
-[→ Get Serum on the Xfer Records site (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=edm-production-plugin-chain&chan=art&data1=edm-production-plugin-chain)
+[→ Get Serum on the Xfer Records site (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=edm-production-plugin-chain&chan=art&data1=edm-production-plugin-chain)
 
 ---
 
@@ -152,7 +152,7 @@ FabFilter's developer documentation for Pro-L 2 lists eight limiting algorithms 
 - **Price:** $189
 - **Why upgrade:** If you are working with basic DAW stock synths, Serum's wavetable import system, unison stacking architecture, and per-oscillator morphing represent capabilities that cannot be approximated with stock instruments — the workflow gap is fundamental, not cosmetic. The community preset ecosystem alone — with thousands of free presets available from producers across genres — shortens the sound design learning curve in a way that no other synth currently matches.
 
-[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=edm-production-plugin-chain&chan=art&data1=edm-production-plugin-chain)
+[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=edm-production-plugin-chain&chan=art&data1=edm-production-plugin-chain)
 
 ### FabFilter Total Bundle — The Complete FabFilter Suite at Bundle Pricing
 
@@ -170,7 +170,7 @@ FabFilter's developer documentation for Pro-L 2 lists eight limiting algorithms 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Serum | $189 | Wavetable Synth | Wavetable import/edit, FX chain, preset ecosystem | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=edm-production-plugin-chain&chan=art&data1=edm-production-plugin-chain) |
+| Serum | $189 | Wavetable Synth | Wavetable import/edit, FX chain, preset ecosystem | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=edm-production-plugin-chain&chan=art&data1=edm-production-plugin-chain) |
 | OTT | Free | Multiband Compressor | Three-band upward/downward compression, Depth knob | [Free Download](https://xferrecords.com/freeware) |
 | FabFilter Pro-Q 4 | $179 | EQ | Dynamic EQ per band, linear phase, inter-plugin spectrum | [Get Pro-Q 4 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=edm-production-plugin-chain) |
 | Valhalla Supermassive | Free | Reverb/Delay | Multiple algorithm modes, extreme room sizes, zero cost | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=edm-production-plugin-chain&chan=art&data1=edm-production-plugin-chain) |
@@ -222,7 +222,7 @@ Extending your toolkit beyond this chain? These guides cover the adjacent plugin
 
 The complete EDM production plugin chain 2026 does not require an expensive arsenal — it requires the right tools in the right order, each chosen for a specific reason rather than general reputation. Serum earns the synthesis slot because no other wavetable synth has achieved the same community saturation or preset ecosystem, OTT and Valhalla Supermassive handle compression and space for free, and FabFilter's Pro-Q 4 and Pro-L 2 handle EQ and mastering with the transparency that streaming-targeted releases demand. Build the chain in sequence, understand what each stage does to the signal, and you will spend less time troubleshooting and more time making decisions that matter.
 
-[→ Start building the chain with Serum at Xfer Records (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=edm-production-plugin-chain&chan=art&data1=edm-production-plugin-chain)
+[→ Start building the chain with Serum at Xfer Records (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=edm-production-plugin-chain&chan=art&data1=edm-production-plugin-chain)
 
 ---
 

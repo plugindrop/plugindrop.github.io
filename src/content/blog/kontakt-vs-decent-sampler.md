@@ -194,7 +194,7 @@ In 2026, the right answer for most producers is to start free — Decent Sampler
 ## Related Guides
 
 - [Best Kontakt Libraries in 2026: 14 Instruments Ranked by Value](/posts/best-kontakt-libraries-2026/)
-- [10 Best Free Orchestral VST Plugins in 2026](/posts/best-free-orchestral-vst-plugins/)
+- [10 Best Free Orchestral VST Plugins in 2026](/posts/best-free-strings-vst-plugins/)
 - [10 Best Free Piano VST Plugins in 2026 (Grand, Upright, Electric)](/posts/best-free-piano-vst/)
 - [Is Native Instruments Komplete Worth It in 2026?](/posts/is-native-instruments-komplete-worth-it/)
 

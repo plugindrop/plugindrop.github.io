@@ -360,7 +360,7 @@ A: Velocity sensitivity is the only essential feature for all twelve plugins on 
 
 - [10 Best Free Piano VST Plugins in 2026 (Grand, Upright, Electric)](/posts/best-free-piano-vst/)
 - [Best Kontakt Libraries in 2026: 14 Instruments Ranked by Value](/posts/best-kontakt-libraries-2026/)
-- [10 Best Free Orchestral VST Plugins in 2026](/posts/best-free-orchestral-vst-plugins/)
+- [10 Best Free Orchestral VST Plugins in 2026](/posts/best-free-strings-vst-plugins/)
 - [Best Strings VST Plugins 2026: 10 Top Picks Ranked](/posts/best-strings-vst-plugins/)
 
 ---

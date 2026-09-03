@@ -22,7 +22,7 @@ priceTrack:
 |--------|-------|----------|--------|
 | Waves SSL E-Channel | ~$30–$60 | Console EQ on drums, vocals, buses | [Waves.com](https://www.waves.com/plugins/ssl-e-channel) |
 | FabFilter Pro-Q 4 | $179 | Precision shaping with analog curve behavior | [FabFilter](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-vintage-eq-plugins) |
-| Arturia 3Filter | ~$49–$99 | Vintage filter coloration and resonance | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=best-vintage-eq-plugins) |
+| Arturia 3Filter | ~$49–$99 | Vintage filter coloration and resonance | [Official Site](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection%2011&a_aid=69cb95abe1763&chan=art&data1=best-vintage-eq-plugins) |
 | NI VC 76 | ~$49–$99 | FET dynamics vintage character | [Official Site](https://www.native-instruments.com/en/products/komplete/effects/vc-76/) |
 | TDR SlickEQ | Free | Free analog-style EQ workhorse | [tokyodawn.net](https://www.tokyodawn.net) |
 | Ignite Amps PTEq-X | Free | Free Pultec passive EQ behavior | [igniteamps.com](https://www.igniteamps.com) |

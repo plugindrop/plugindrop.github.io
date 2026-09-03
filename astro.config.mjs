@@ -24,6 +24,7 @@ const staticRedirects = {
 	'/posts/best-compressor-plugins-mixing/': '/posts/best-compressor-plugins-2026/',
 	'/posts/best-eq-plugins-mixing-mastering/': '/posts/best-eq-plugins-2026/',
 	'/posts/best-free-orchestral-vst-plugins/': '/posts/best-free-strings-vst-plugins/',
+	'/posts/best-synth-plugins-2026/': '/posts/best-synth-vst-plugins-2026/',
 };
 const redirectUrls = new Set([
 	...Object.keys(expiredRedirects).map((slug) => new URL(`/posts/${slug}/`, siteUrl).href),

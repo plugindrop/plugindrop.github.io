@@ -20,7 +20,7 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Serum | $189 | 808s, leads, pads — everything | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins&chan=art&data1=best-trap-vst-plugins) |
+| Serum | $189 | 808s, leads, pads — everything | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins&chan=art&data1=best-trap-vst-plugins) |
 | Massive X | $149 | Experimental trap bass and synths | [Get Massive X](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) |
 | Nexus 4 | $149 | Ready-to-use trap preset library | [Get Nexus 4](https://www.refx.com/nexus/) |
 | Battery 4 | $99 | Professional trap drum programming | [Get Battery 4](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) |
@@ -61,7 +61,7 @@ Serum 2 expanded the modulation system with new wavetable morphing modes and imp
 
 **Best for:** 808 bass, trap leads, plucked melodic lines — the primary synth in most trap setups.
 
-[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins&chan=art&data1=best-trap-vst-plugins)
+[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins&chan=art&data1=best-trap-vst-plugins)
 
 ---
 
@@ -276,7 +276,7 @@ If you're running on free tools and ready to invest in one paid synth, these are
 - **Price:** $189 one-time
 - **Why upgrade:** Vital covers most synthesis fundamentals for free, but Serum's custom wavetable editor, mature preset ecosystem, and performance stability under heavy modulation justify the price gap for producers past the learning phase. Serum 2's updated morphing capabilities widen the gap further.
 
-[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins&chan=art&data1=best-trap-vst-plugins)
+[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins&chan=art&data1=best-trap-vst-plugins)
 
 ---
 
@@ -296,7 +296,7 @@ If you're running on free tools and ready to invest in one paid synth, these are
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Serum | $189 | Wavetable Synth | Custom wavetables, 808 bass, visual editor | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins&chan=art&data1=best-trap-vst-plugins) |
+| Serum | $189 | Wavetable Synth | Custom wavetables, 808 bass, visual editor | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins&chan=art&data1=best-trap-vst-plugins) |
 | Massive X | $149 | Wavetable Synth | Spectral morphing, experimental bass | [Get Massive X](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) |
 | Nexus 4 | $149 | ROMpler | Trap expansion library, preset-forward workflow | [Get Nexus 4](https://www.refx.com/nexus/) |
 | Battery 4 | $99 | Drum Sampler | 16-pad layout, multi-layer, NI ecosystem | [Get Battery 4](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) |
@@ -351,7 +351,7 @@ A: Valhalla Supermassive. KVR community voting and producer forum discussion pla
 
 For most trap producers in 2026, the starting point is clear: Serum for synthesis, Battery 4 for drums, Valhalla Supermassive and iZotope Vinyl as free FX that punch above their cost. Everything else on this list adds depth or specialization once those fundamentals are in place. Community consensus on the first purchase has been consistent for years, and the Serum 2 update hasn't changed that calculus.
 
-[→ Get Serum — the community standard for trap production (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins&chan=art&data1=best-trap-vst-plugins)
+[→ Get Serum — the community standard for trap production (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-trap-vst-plugins&chan=art&data1=best-trap-vst-plugins)
 
 ---
 
