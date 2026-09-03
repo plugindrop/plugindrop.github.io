@@ -203,30 +203,6 @@
           "regular": 428,
           "sale": 389.0,
           "source": "auto_check"
-        },
-        {
-          "date": "2023-11-20",
-          "regular": 252.14,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-12-16",
-          "regular": 359.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-18",
-          "regular": 359.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-04-27",
-          "regular": 359.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "category": "Bundle"
@@ -345,18 +321,6 @@
           "regular": 659,
           "sale": 599.0,
           "source": "auto_check"
-        },
-        {
-          "date": "2025-07-22",
-          "regular": 307.41,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-09-11",
-          "regular": 599.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "category": "Bundle"
