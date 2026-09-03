@@ -9,7 +9,7 @@ score: 10.00
 dealPrice: "FREE"
 originalPrice: "$4.99"
 xText: "yo these free plugins just dropped and some hit different. go grab them rn the good stuff goes fast."
-draft: false
+draft: true
 saleExpiry: "2026-08-10"
 saleExpirySource: "fallback"
 ---

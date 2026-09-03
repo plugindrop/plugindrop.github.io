@@ -8,7 +8,7 @@ heroImage: "/images/today-s-best-audio-plugin-deals-and-freebies-monday-june-29t
 score: 7.92
 dealPrice: "FREE"
 xText: "free plugin roundup this week hits different. real gear that usually costs money, zero dollars. go grab them while it's live."
-draft: false
+draft: true
 saleExpiry: "2026-07-29"
 saleExpirySource: "fallback"
 ---

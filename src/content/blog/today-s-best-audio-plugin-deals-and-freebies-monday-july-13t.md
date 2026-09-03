@@ -9,7 +9,7 @@ score: 8.78
 dealPrice: "FREE"
 originalPrice: "$4.99"
 xText: "free plugin haul landed and ngl some of these shouldn't be free. go grab em before devs realize their mistake"
-draft: false
+draft: true
 saleExpiry: "2026-08-12"
 saleExpirySource: "fallback"
 ---

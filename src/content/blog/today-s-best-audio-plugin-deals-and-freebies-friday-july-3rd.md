@@ -9,7 +9,7 @@ aiImage: true
 score: 9.75
 dealPrice: "FREE"
 xText: "free audio plugins just dropped. grab them now before you inevitably bookmark this and forget about it by monday"
-draft: false
+draft: true
 saleExpiry: "2026-08-02"
 saleExpirySource: "fallback"
 ---
