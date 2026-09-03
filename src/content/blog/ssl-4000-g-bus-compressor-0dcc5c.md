@@ -9,7 +9,7 @@ score: 10.00
 dealPrice: "$69.00"
 originalPrice: "$149.00"
 discount: "54% OFF"
-draft: false
+draft: true
 ---
 **TL;DR:** Save 54% on the SSL 4000 G Bus Compressor — a plugin that emulates the iconic SSL 4000 G bus compressor. ~~$149~~ $69. [Get it here](https://www.pluginboutique.com/search?q=SSL+4000+G+Bus+Compressor&a_aid=69cb95abe1763&chan=art&data1=ssl-4000-g-bus-compressor-0dcc5c&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4000-g-bus-compressor-0dcc5c).
 

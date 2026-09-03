@@ -9,7 +9,7 @@ score: 10.00
 dealPrice: "$149.00"
 originalPrice: "$299.00"
 discount: "50% OFF"
-draft: false
+draft: true
 ---
 **TL;DR:** World Suite 3 is currently ~~$299~~ **$149** at Plugin Boutique, a 50% discount on this 12-instrument world/ethnic instrument collection. That works out to roughly $12.42 per instrument if you use the full library. [Get World Suite 3 at Plugin Boutique](https://www.pluginboutique.com/search?q=World+Suite+3&a_aid=69cb95abe1763&chan=art&data1=world-suite-3-1643f4&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4) while the deal is live.
 

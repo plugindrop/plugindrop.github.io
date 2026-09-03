@@ -9,7 +9,7 @@ score: 10.00
 dealPrice: "$79.00"
 originalPrice: "$129.00"
 discount: "39% OFF"
-draft: false
+draft: true
 ---
 **TL;DR:** Cableguys' Transit 2 multi-effect plugin is down to $79 from ~~$129~~ at Plugin Boutique, a 39% discount. The plugin combines multiple effect modules on a single timeline for building transitions, risers, and drops. [Grab Transit 2 at the discounted price](https://www.pluginboutique.com/search?q=Transit+2&a_aid=69cb95abe1763&chan=art&data1=transit-2-43f69c&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c).
 

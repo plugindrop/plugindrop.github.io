@@ -9,7 +9,7 @@ score: 6.93
 dealPrice: "$39.00"
 originalPrice: "$59.00"
 discount: "34% OFF"
-draft: false
+draft: true
 ---
 **TL;DR:** Bloom Vocal Choir is on sale at Plugin Boutique for $39, down from ~~$59~~ — a 34% discount. It's a vocal instrument built for layered, textural choir sounds you can drop into a mix for depth and emotion. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Bloom+Vocal+Choir&a_aid=69cb95abe1763&chan=art&data1=bloom-vocal-choir-4eec6e&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-vocal-choir-4eec6e) while the price holds.
 
