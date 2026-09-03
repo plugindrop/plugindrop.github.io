@@ -7,7 +7,7 @@ affiliate: ""
 evergreen: true
 score: 8.00
 heroImage: "/images/best-vst-plugins-for-metal-mixing.jpg"
-draft: true
+draft: false
 ---
 **TL;DR:** Metal mixing presents specific technical challenges — dense guitar arrangements competing for the same frequency space, drum sounds that need presence without sounding over-processed, and overall mixes that must be loud without losing the impact that makes the music work. Neural DSP Fortin Nameless handles amp simulation, Slate Digital DrumXchanger handles drum replacement, and FabFilter's Pro-Q 4, Pro-C 2, and Pro-L 2 handle the mix and master chain.
 

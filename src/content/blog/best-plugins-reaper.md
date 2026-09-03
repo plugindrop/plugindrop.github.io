@@ -8,7 +8,7 @@ heroImage: "/images/best-plugins-reaper.png"
 evergreen: true
 score: 8.00
 xText: "New guide: 15 Best VST Plugins for Reaper Users in 2026 (Free & Paid)"
-draft: true
+draft: false
 priceTrack:
   - "FabFilter Pro-Q 4"
   - "Valhalla VintageVerb"

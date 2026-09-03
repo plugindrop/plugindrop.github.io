@@ -7,7 +7,7 @@ affiliate: ""
 evergreen: true
 score: 8.00
 heroImage: "/images/best-plugins-for-lofi-production.jpg"
-draft: true
+draft: false
 ---
 **TL;DR:** Lo-fi music production is built on the deliberate introduction of imperfection — vinyl noise, tape saturation, pitch instability, and frequency limiting. XLN Audio RC-20 is the most complete single-plugin solution; iZotope Vinyl is free and does the same job acceptably; Vital and Valhalla Supermassive are free tools that handle synthesis and reverb at professional quality without any cost.
 

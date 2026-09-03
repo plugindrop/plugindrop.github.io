@@ -9,7 +9,7 @@ score: 8.00
 originalPrice: "$99"
 xText: "New guide: Complete Guitar Recording Plugin Chain: Amp Sim to Mastering..."
 heroImage: "/images/guitar-recording-plugin-chain.jpg"
-draft: true
+draft: false
 priceTrack:
   - "FabFilter Pro-Q 4"
 ---

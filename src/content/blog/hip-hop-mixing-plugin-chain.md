@@ -9,7 +9,7 @@ score: 8.00
 originalPrice: "$29.99"
 xText: "New guide: Hip-Hop Mixing Plugin Chain: Beat by Beat Breakdown (2026)"
 heroImage: "/images/hip-hop-mixing-plugin-chain.jpg"
-draft: true
+draft: false
 priceTrack:
   - "FabFilter Pro-Q 4"
 ---

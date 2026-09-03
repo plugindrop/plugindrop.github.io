@@ -8,7 +8,7 @@ evergreen: true
 heroImage: "/images/drum-mixing-plugin-chain.jpg"
 score: 8.00
 xText: "New guide: Complete Drum Mixing Plugin Chain: Best Tools for Punchy Dru..."
-draft: true
+draft: false
 priceTrack:
   - "FabFilter Pro-Q 4"
 ---

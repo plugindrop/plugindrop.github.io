@@ -8,7 +8,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: 12 Best VST Plugins for Lo-Fi Beats in 2026 (Free & Paid)"
 heroImage: "/images/best-plugins-for-lofi-beats.jpg"
-draft: true
+draft: false
 ---
 **TL;DR:** iZotope Vinyl is the most-recommended free lo-fi plugin in producer communities — it has been in continuous free distribution since 2002 and targets the exact vinyl artifacts the genre is built on. For producers ready to invest in a single all-in-one solution, RC-20 Retro Color consistently tops community recommendations as the paid lo-fi chain worth buying. This guide covers 10 free picks with no trial expiry and 2 paid upgrades for when you want to go deeper.
 
