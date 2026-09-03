@@ -10,8 +10,13 @@ score: 7.05
 dealPrice: "FREE"
 xText: "free 12-voice drone synth in your browser with morphing modulation. infinite ambient pads, zero install, zero dollars. go grab it before you scroll past"
 draft: false
+saleExpiry: "2026-08-10"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Eliane Drone is a **free, open-source, browser-based drone synth** with 12 independent voices — no installer, no plugin format, no cost. Built by a Spanish trumpet player and teacher, it's designed specifically for long-form ambient textures and evolving drones. Since it runs entirely in your browser at [rimini312.github.io/elianedrone](https://rimini312.github.io/elianedrone/), there's nothing to buy and nothing to lose by trying it.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## What Is Eliane Drone?
 

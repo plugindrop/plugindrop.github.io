@@ -9,12 +9,17 @@ score: 7.95
 dealPrice: "FREE"
 xText: "free crb uranus emulation just dropped. that synth costs like 15k+ to even find. absolute sleeper if you're not already downloading"
 draft: false
+saleExpiry: "2026-08-08"
+saleExpirySource: "fallback"
 ---
 I've written the article to `/tmp/crb-uranus-synth-journal-article.md` (~830 words). Here it is:
 
 ---
 
 **TL;DR:** This week's Synth Journal roundup from Gearnews spotlights a **free emulation of the ultra-rare CRB Uranus synthesizer** — a $0 download, no catch. The same roundup covers a fresh update for the [4ms MetaModule](https://www.thomann.de/intl/4ms_meta_module.htm?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=free-emulation-of-the-ultra-rare-crb-uranus-more-synth-journ) and a new third-party editor for the Sequential Prophet-6. If you've been eyeing the MetaModule itself, Thomann carries it — check current stock and pricing via the link above.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## What Is This Week's Synth Journal?
 

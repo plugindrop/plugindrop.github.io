@@ -9,8 +9,13 @@ score: 9.72
 dealPrice: "FREE"
 xText: "free orchestral bass from crow hill with that slide texture. sits in a mix like butter and costs zero. that's the grab-now deal right there."
 draft: false
+saleExpiry: "2026-07-01"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** The Crow Hill Company just dropped Orchestral Bass Slide as a completely free download — no strings attached, no trial limit. It's part of their Vaults series and runs on both Windows and Mac. [Grab it here before it's gone.](https://thecrowhillcompany.com/orchestral-bass-slides/)
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## What Is Orchestral Bass Slide?
 

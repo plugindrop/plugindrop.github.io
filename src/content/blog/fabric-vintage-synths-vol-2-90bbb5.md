@@ -15,10 +15,13 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Fabric Vintage Synths Vol 2 is ~~$299~~ **$119** at Plugin Boutique right now, a 60% cut off the regular price. It's a sample/instrument bundle built around vintage synthesizer tones for producers who want analog-style character without buying hardware. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Fabric+Vintage+Synths+Vol+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabric-vintage-synths-vol-2-90bbb5).
 
+## Price Context (tracked by PluginDrop)
+- Regular: $299
+- Verdict: **NO HISTORY** — The current deal is $119; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
+
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/MI3RuYqlrFo" title="60% Off Fabric Vintage Synths Vol 2 — Vintage Synth Sounds ($119) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is Fabric Vintage Synths Vol 2?
 
@@ -30,8 +33,6 @@ Fabric Vintage Synths Vol 2 is an instrument bundle sold through Plugin Boutique
 - **Ready-to-use patches** — presets are organized for quick browsing so you can audition and drop sounds into a track without deep sound design.
 - **Bundle format** — this is Volume 2, suggesting it extends or complements a first volume for producers building out a full vintage synth library.
 - **Genre-flexible tones** — vintage synth textures like these typically suit synthwave, electronic, pop, and hip-hop production.
-
-Check the official product page for the full patch count, file size, and exact engine/format details, since these specifics aren't confirmed here.
 
 ## Who Is It For?
 
@@ -46,9 +47,9 @@ Check the official product page for the full patch count, file size, and exact e
 |---|---|---|
 | ~~$299~~ | **$119** | **$180 (60%)** |
 
-A 60% discount is a substantial cut for an instrument bundle at this price tier. Verify current pricing on the product page — deals can change, and Plugin Boutique bundle discounts are often time-limited.
+A 60% discount is a substantial cut for an instrument bundle at this price tier.
 
-[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=Fabric+Vintage+Synths+Vol+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabric-vintage-synths-vol-2-90bbb5).
+pluginboutique.com/search?q=Fabric+Vintage+Synths+Vol+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabric-vintage-synths-vol-2-90bbb5).
 
 ## Alternatives at a Glance
 
@@ -63,13 +64,11 @@ If you want a fixed-cost preset library you can drop into a track fast, Fabric V
 ## FAQ
 
 **Q: Does Fabric Vintage Synths Vol 2 require a specific plugin format?**
-A: Check the official product page for supported formats (VST/AU/AAX) and any required host engine.
 
 **Q: Is this a one-time purchase or subscription?**
 A: Plugin Boutique bundles are typically sold as one-time purchases with perpetual use, but confirm the license type on the product page before buying.
 
 **Q: Do I need iLok or another authorization system?**
-A: Check the product page for activation and authorization requirements, as these vary by developer.
 
 **Q: What's the refund policy if it doesn't work with my setup?**
 A: Check Plugin Boutique's official refund policy on their site before purchasing.
@@ -89,7 +88,6 @@ A 60% discount is a large cut for a bundle like this, and it's worth acting on i
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-vst-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

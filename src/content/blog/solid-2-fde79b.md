@@ -15,10 +15,15 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** SOLID 2 is currently listed at Plugin Boutique for $9.00, down from ~~$119.00~~ — a 92% discount. It's filed under Plugin Boutique's Virtual Instruments category and is pitched as a workflow-focused production tool. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=SOLID+2&a_aid=69cb95abe1763&chan=art&data1=solid-2-fde79b&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-2-fde79b) before the price reverts.
 
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-07-12 (55 observations)
+- Lowest we've tracked: $9 · Typical sale: $9 · Regular: $119
+- Verdict: **BUY NOW** — the current $9 price is within 5% of the $9 lowest tracked price.
+- Sale pattern: auto-crawl 2026-07-12
+
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-gnDUns41-o" title="92% Off SOLID 2 — Virtual Instrument for Faster Workflows ($9) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is SOLID 2?
 
@@ -31,8 +36,6 @@ Plugin Boutique's own listing is the authoritative source for a full feature bre
 - **Virtual instrument plugin** — positioned in Plugin Boutique's Instruments section, meaning it loads inside a DAW rather than running standalone.
 - **Workflow-oriented design** — the listing frames it around helping producers work more efficiently, though the specific tools that enable this aren't detailed here.
 - **Part of a discounted lineup** — SOLID 2 is currently one of several instruments Plugin Boutique has marked down, which can be a sign of a broader sale event rather than a one-off price cut.
-
-For plugin format (VST/AU/AAX), authorization method, and system requirements, check the product page for details.
 
 ## Who Is It For?
 
@@ -47,9 +50,9 @@ For plugin format (VST/AU/AAX), authorization method, and system requirements, c
 |---|---|---|
 | ~~$119.00~~ | $9.00 | ~$110 (92%) |
 
-Plugin Boutique runs frequent site-wide and per-product sales, so steep percentage cuts like this one do surface periodically across their catalog. Verify current pricing on the product page — deals can change without notice.
+Plugin Boutique runs frequent site-wide and per-product sales, so steep percentage cuts like this one do surface periodically across their catalog.
 
-[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=SOLID+2&a_aid=69cb95abe1763&chan=art&data1=solid-2-fde79b&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-2-fde79b).
+pluginboutique.com/search?q=SOLID+2&a_aid=69cb95abe1763&chan=art&data1=solid-2-fde79b&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-2-fde79b).
 
 ## Alternatives at a Glance
 
@@ -67,10 +70,10 @@ If you already own a capable stock instrument in your DAW, there's less urgency 
 A: Plugin Boutique typically sells instruments as perpetual licenses, but confirm the license type on the product page before checkout.
 
 **Q: Does SOLID 2 require iLok or another authorization system?**
-A: This varies by product and publisher. Check the product page for the specific authorization method used.
+A: This varies by product and publisher.
 
 **Q: Will the price go back up to $119?**
-A: Deal pricing on Plugin Boutique is typically time-limited or tied to a sale event. Check the product page for the current price and any listed end date.
+A: Deal pricing on Plugin Boutique is typically time-limited or tied to a sale event.
 
 **Q: What DAWs and plugin formats does SOLID 2 support?**
 A: Format and compatibility details (VST/AU/AAX) aren't confirmed here — check the system requirements section on the product page.
@@ -87,7 +90,6 @@ A 92% markdown is a steep cut by any standard, and Plugin Boutique does run sale
 
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-vst-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

@@ -9,8 +9,13 @@ score: 7.80
 dealPrice: "FREE"
 xText: "free tb-303 tutorial just landed—freebass fb383 sits in a mix like butter and the demos prove it's legit. grab this now while it's actually free."
 draft: false
+saleExpiry: "2026-08-02"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** The FAT Freebass FB383 walkthrough — tutorial, review, and sound demos — is free to watch right now, and it's a solid way to hear whether this budget analogue synth actually nails that classic Roland TB-303 acid bass tone before you spend a cent on the hardware. Deal Price: **FREE** (the video). Verify current pricing on the product page for the synth itself. [Watch the FB383 tutorial and demo here](https://youtu.be/kLFkmOaVM54).
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## What Is the FAT Freebass FB383?
 

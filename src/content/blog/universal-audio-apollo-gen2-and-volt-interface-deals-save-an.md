@@ -9,8 +9,13 @@ score: 10.00
 dealPrice: "FREE"
 xText: "apollo gen2 with free plugins bundled. this is actually the moment. if you've been thinking about your interface situation, the timing just clicked."
 draft: false
+saleExpiry: "2026-06-06"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Universal Audio's Apollo Gen 2 and Volt interfaces are discounted at Thomann through the end of May — and Volt buyers get free native plugins thrown in at no extra cost. Verify current pricing on the product page, but the free add-ons alone make this worth a look. **[Browse the deals on Thomann →](https://www.thomann.de/intl/search_GK_stai_BF_universal_audio.html?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-apollo-gen2-and-volt-interface-deals-save-an)**
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## Universal Audio Apollo Gen 2 and Volt Interface Deals
 

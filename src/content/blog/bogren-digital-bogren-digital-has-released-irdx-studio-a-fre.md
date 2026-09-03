@@ -9,8 +9,13 @@ score: 9.00
 dealPrice: "FREE"
 xText: "need a free ir loader for amp sims or reverb convolution? bogren digital just dropped irdx studio. works on mac and windows. honestly just go get this right now, zero reasons to wait."
 draft: false
+saleExpiry: "2026-06-14"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Bogren Digital just dropped IRDX Studio — a fully free IR loader plugin for Mac and Windows. No time limit, no catch. Grab it directly at [bogrendigital.com](https://bogrendigital.com/products/irdx-studio) while it's available.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## What Is Bogren Digital IRDX Studio?
 

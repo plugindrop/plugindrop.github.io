@@ -12,9 +12,14 @@ score: 8.00
 xText: "14 free synth VST plugins in 2026 — Vital, Surge XT, OB-Xd, Dexed, and more. All tested in real sessions."
 priceTrack:
   - "Serum 2"
+saleExpiry: "2026-04-18"
+saleExpirySource: "fallback"
 ---
 
 **TL;DR:** The best free synth VST of 2026 is **Vital**. Its wavetable engine and drag-and-drop modulation rival paid wavetable flagships like Serum at zero cost, and it handles leads, evolving pads, and bass across every genre. **Surge XT** is the deep open-source do-everything alternative (FM, wavetable, and subtractive in one patch), **Dexed** nails Yamaha DX7 FM patches and 80s electric pianos, and **OB-Xd** delivers classic Oberheim analog character for synthwave. All 17 plugins below are genuinely free — no trials, no time limits, no subscriptions.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## Quick Picks at a Glance
 

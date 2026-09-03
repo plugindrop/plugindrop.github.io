@@ -9,8 +9,13 @@ score: 9.90
 dealPrice: "FREE"
 xText: "deFORM is free right now. ebbandflow's cinematic synth doesn't usually come with zero attached. this won't last. genuinely grab this now."
 draft: false
+saleExpiry: "2026-06-07"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** deFORM by Ebbandflow is free to download right now — no coupon, no subscription, no catch. This cinematic synthesizer is built for atmospheric and filmic sound design, and the free window could close at any time. Grab it directly from [Ebbandflow's site](https://ebbandflow.audio/products/deform) before the deal disappears.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## What Is deFORM?
 

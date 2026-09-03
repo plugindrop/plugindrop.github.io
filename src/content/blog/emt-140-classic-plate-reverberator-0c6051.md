@@ -17,10 +17,13 @@ If you only install one, make it EMT 140 Classic Plate Reverberator if you speci
 
 **TL;DR:** Plugin Boutique has the EMT 140 Classic Plate Reverberator for **$79.00**, down from ~~$149.00~~. That is a $70 saving, or 47% off, on a native plate reverb with three modeled plate variations and controls for damping, filtering, balance, width, and modulation. [Check the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=EMT+140+Classic+Plate+Reverberator&a_aid=69cb95abe1763&chan=art&data1=emt-140-classic-plate-reverberator-0c6051&utm_source=plugindrop&utm_medium=article&utm_campaign=emt-140-classic-plate-reverberator-0c6051).
 
+## Price Context (tracked by PluginDrop)
+- Regular: $149
+- Verdict: **NO HISTORY** — The current deal is $79; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
+
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/r9ICoJL5jA4" title="47% Off EMT 140 — Classic Plate Reverb ($79) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is EMT 140 Classic Plate Reverberator?
 
@@ -75,17 +78,17 @@ Choose EMT 140 when the target is the EMT-style plate category and its three pla
 
 ## FAQ
 
-**Q: Is EMT 140 Classic Plate Reverberator a hardware-only UAD plug-in?**  
+**Q: Is EMT 140 Classic Plate Reverberator a hardware-only UAD plug-in?**
 A: No. The product page describes it as a UAD Native plug-in and states that it can be used with or without Apollo hardware.
 
-**Q: Does EMT 140 Classic Plate Reverberator require iLok?**  
+**Q: Does EMT 140 Classic Plate Reverberator require iLok?**
 A: A free iLok account is listed as required for authorizing UAD Native plug-ins. An iLok USB is compatible but is not required.
 
-**Q: Which DAW formats does EMT 140 Classic Plate Reverberator support?**  
+**Q: Which DAW formats does EMT 140 Classic Plate Reverberator support?**
 A: The listed supported plug-in formats are VST3, AU, and AAX. Check the official site for complete DAW and system compatibility details.
 
-**Q: Is EMT 140 Classic Plate Reverberator available for Windows and macOS?**  
-A: The listed requirements include supported macOS versions and 64-bit Windows 10 or Windows 11. Check the product page before purchase for the current requirements.
+**Q: Is EMT 140 Classic Plate Reverberator available for Windows and macOS?**
+A: The listed requirements include supported macOS versions and 64-bit Windows 10 or Windows 11.
 
 ## Get the Deal
 
@@ -99,7 +102,6 @@ At 47% off, this is a meaningful reduction from the stated $149 regular price fo
 
 - [15 Best Free Reverb VST Plugins in 2026](/posts/best-free-reverb-vst-plugins/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

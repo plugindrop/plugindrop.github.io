@@ -15,10 +15,15 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Plugin Boutique has the Tube Tech CL 1B Mk II compressor plugin at ~~$199~~ **$69**, a 65% discount. That's a $130 savings on a tube-modeled optical compressor built around the hardware original. [Grab the deal here](https://www.pluginboutique.com/search?q=Tube+Tech+CL+1B+Mk+II&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tube-tech-cl-1b-mk-ii-1adc9c).
 
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-08-02 (33 observations)
+- Lowest we've tracked: $69 · Typical sale: $69 · Regular: $199
+- Verdict: **BUY NOW** — the current $69 price is within 5% of the $69 lowest tracked price.
+- Sale pattern: auto-crawl 2026-08-02
+
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="65% Off Tube Tech CL 1B Mk II — Classic Tube Compression ($69) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A912468763&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 </div>
-
 
 ## What Is Tube Tech CL 1B Mk II?
 
@@ -30,8 +35,6 @@ The Tube Tech CL 1B Mk II is a compressor plugin modeled on the classic Tube-Tec
 - **Tube-driven coloration** — Adds analog-style harmonic saturation as gain reduction increases.
 - **Classic control layout** — Mirrors the hardware's threshold, attack, release, and gain controls for a familiar workflow.
 - **Studio-standard use cases** — Suited to vocals, bass, and mix bus duties where gentle, transparent-to-warm compression is needed.
-
-For a full spec sheet, including plugin formats and host compatibility, check the product page.
 
 ## Who Is It For?
 
@@ -46,7 +49,7 @@ For a full spec sheet, including plugin formats and host compatibility, check th
 |---|---|---|
 | ~~$199~~ | **$69** | $130 (65%) |
 
-Plugin Boutique runs discounts across its compressor and channel-strip catalog periodically, though the frequency and depth of any single title's sales can vary. Verify current pricing on the product page — deals can change.
+Plugin Boutique runs discounts across its compressor and channel-strip catalog periodically, though the frequency and depth of any single title's sales can vary.
 
 [See the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=Tube+Tech+CL+1B+Mk+II&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tube-tech-cl-1b-mk-ii-1adc9c).
 
@@ -63,16 +66,15 @@ If you specifically want the Tube-Tech circuit without a UAD hardware or subscri
 ## FAQ
 
 **Q: Does the Tube Tech CL 1B Mk II require an iLok or dongle?**
-A: Licensing and authorization methods vary by developer. Check the product page for the specific activation method used for this title.
+A: Licensing and authorization methods vary by developer.
 
 **Q: What plugin formats does it support?**
 A: Format support (VST, VST3, AU, AAX) is listed on the product page. Check there for compatibility with your DAW.
 
 **Q: Is this a perpetual license or a subscription?**
-A: Check the product page listing for license terms before purchasing.
 
 **Q: What are the system requirements?**
-A: System requirements vary by OS and DAW version. Check the official product page for current requirements.
+A: System requirements vary by OS and DAW version.
 
 ## Get the Deal
 
@@ -88,7 +90,6 @@ A 65% discount off a $199 list price is a substantial cut for a plugin modeled o
 
 - [Best Compressor Plugins 2026](/posts/best-compressor-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

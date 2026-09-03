@@ -9,9 +9,14 @@ heroImage: /images/amorph-text-to-dsp-plugin-gets-custom-user-interfaces-midi-p.
 dealPrice: "FREE"
 draft: false
 score: 0.42
+saleExpiry: "2026-05-03"
+saleExpirySource: "fallback"
 ---
 
 **TL;DR:** Amorph by Artists in DSP just leveled up — Beta v0.9.9 brings a custom UI engine, a brand-new MIDI plugin variant, and a cloud-based preset hub. The best part? It's still completely free (pay-what-you-like). [Grab it here.](https://artistsindsp.gumroad.com/l/amorph)
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## What Is Amorph?
 

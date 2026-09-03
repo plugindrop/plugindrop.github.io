@@ -9,8 +9,13 @@ score: 4.45
 dealPrice: "FREE"
 xText: "there's a free wireless phone midi controller sitting there. grab it before you close this tab."
 draft: false
+saleExpiry: "2026-07-19"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** A developer has released a completely free wireless MIDI CC controller system — an Android app paired with a VST/AU plugin — with zero ads and zero data collection. This is a grab-it-now situation. Watch the full walkthrough and get the download links at [the official video](https://youtu.be/AmpIbfPKfDs).
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## Free Wireless MIDI CC Phone Controller: Android App + VST/AU Plugin
 

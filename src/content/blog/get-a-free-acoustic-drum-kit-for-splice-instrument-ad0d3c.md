@@ -9,8 +9,13 @@ score: 7.36
 dealPrice: "FREE"
 xText: "free acoustic drums on splice instrument and these sit in a mix like butter. production-ready kits, zero reason not to grab them right now"
 draft: false
+saleExpiry: "2026-08-09"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Splice is giving away a free acoustic drum kit preset for its INSTRUMENT plugin — no strings attached, and it's yours to keep forever once you grab it. This is a limited-time drop, so download it before the window closes. [Get the free preset here](https://splice.com/sounds/create?utm_source=plugindrop&utm_medium=article&utm_campaign=get-a-free-acoustic-drum-kit-for-splice-instrument-ad0d3c).
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## What Is Splice INSTRUMENT?
 

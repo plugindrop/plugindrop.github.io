@@ -15,10 +15,13 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** SSL X Gate is on sale at Plugin Boutique for **$15**, down from ~~$49~~ — a 69% discount. It's a noise gate and expander plugin modeled on Solid State Logic's console circuitry, built for cleaning up drum bleed and tightening mix elements. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+X+Gate&a_aid=69cb95abe1763&chan=art&data1=ssl-x-gate-782ebd&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-gate-782ebd).
 
+## Price Context (tracked by PluginDrop)
+- Regular: $49
+- Verdict: **NO HISTORY** — The current deal is $15; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
+
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/xylM8izufYY" title="69% Off SSL X Gate — Authentic SSL Bus Gate for Mixing ($15) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is SSL X Gate?
 
@@ -47,7 +50,7 @@ Check the product page for the full parameter list, supported plugin formats, an
 |---|---|---|
 | ~~$49~~ | **$15** | 69% ($34) |
 
-SSL's plugins do appear in sales through Plugin Boutique periodically, though discount depth varies by promotion. Verify current pricing on the product page — deals can change without notice.
+SSL's plugins do appear in sales through Plugin Boutique periodically, though discount depth varies by promotion.
 
 [Get SSL X Gate at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+X+Gate&a_aid=69cb95abe1763&chan=art&data1=ssl-x-gate-782ebd&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-gate-782ebd) while the discount is active.
 
@@ -64,7 +67,7 @@ If you only need a standalone gate with SSL-style circuit behavior at a low entr
 ## FAQ
 
 **Q: Does SSL X Gate require an iLok?**
-A: Licensing and authorization methods vary by SSL product line. Check the official product page for the exact authorization requirements before buying.
+A: Licensing and authorization methods vary by SSL product line.
 
 **Q: What plugin formats does SSL X Gate support?**
 A: Format support (VST, VST3, AU, AAX) should be confirmed on the Plugin Boutique product page, as availability can differ by platform.
@@ -86,7 +89,6 @@ A 69% discount is a substantial cut for a plugin from an established brand like 
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 
