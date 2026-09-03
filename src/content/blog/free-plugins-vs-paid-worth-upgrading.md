@@ -57,7 +57,7 @@ Classic reverb algorithms — Concert Hall, Bright Hall, Plate, Room, Chamber, S
 | Ambient/drone capability | Excellent | Limited |
 | Delay integration | Built-in | Separate |
 
-**When to upgrade:** When you need realistic room, hall, or chamber reverbs for mixing. Supermassive excels at ambient and experimental textures but is not designed as a traditional mixing reverb. VintageVerb fills that gap at $50. For plate reverb specifically, also consider watching for [Soundtoys Little Plate](/posts/soundtoys-little-plate-free-download/) when it goes free.
+**When to upgrade:** When you need realistic room, hall, or chamber reverbs for mixing. Supermassive excels at ambient and experimental textures but is not designed as a traditional mixing reverb. VintageVerb fills that gap at $50. For plate reverb specifically, also consider watching for Soundtoys Little Plate when it goes free.
 
 ## Synth: Vital (Free) vs Serum ($189)
 

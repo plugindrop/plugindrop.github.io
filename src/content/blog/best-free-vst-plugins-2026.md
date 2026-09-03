@@ -9,10 +9,15 @@ draft: false
 heroImage: "/images/best-free-vst-plugins-2026.jpg"
 score: 1.68
 evergreen: true
+saleExpiry: "2026-04-25"
+saleExpirySource: "fallback"
 ---
 
 
 **TL;DR:** If you install one plugin from this list, make it **Vital** — a free wavetable synth that holds its own against Serum for sound design, bass, and pads. From there, this guide covers 15 genuinely free VST plugins across synths, effects, mixing, and instruments, organized by category so you can grab exactly what your setup is missing. Every pick is free for real — either permanently free, a free tier of a paid product, or a free starter bundle. No trials, no watermarks on the core features, no hidden costs. Formats, supported operating systems, and honest limitations are listed for each so you know what you're getting before you download.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## Synths
 
@@ -77,7 +82,7 @@ An EMT 140 plate reverb — three knobs, instant results. Soundtoys periodically
 
 - **Format:** VST, VST3, AU, AAX · **OS:** Windows, macOS · **Price:** Free during promos (otherwise paid)
 - **Best for:** Lush plate reverb on vocals and snares with almost no setup — set decay, done.
-- **Skip it if:** you need a reverb today — Little Plate is only free during Soundtoys promos, and it's one plate algorithm, not a suite. [Check availability](/posts/soundtoys-little-plate-free-download/).
+- **Skip it if:** you need a reverb today — Little Plate is only free during Soundtoys promos, and it's one plate algorithm, not a suite. Check the Soundtoys site during their next promo.
 
 ### 7. TAL-Reverb-4
 
@@ -180,7 +185,7 @@ We track these prices daily — the sale columns are what we've actually logged,
 | [Dexed](/posts/dexed-free-dx7-emulation/) | Synth | Authentic DX7 FM synthesis |
 | [Helm](https://tytel.org/helm/) | Synth | Simple, visual polyphonic synth |
 | [Valhalla Supermassive](/posts/best-free-reverb-vst-plugins/) | Reverb/Delay | 18+ modes, massive ambient tails |
-| [Little Plate](/posts/soundtoys-little-plate-free-download/) | Reverb | EMT 140 plate, 3 controls |
+| Little Plate | Reverb | EMT 140 plate, 3 controls (free during Soundtoys promos only) |
 | [TAL-Reverb-4](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026&chan=art&data1=best-free-vst-plugins-2026) | Reverb | Vintage plate character |
 | [iZotope Vinyl](/posts/izotope-vinyl-free-lofi-plugin/) | Lo-Fi | Instant analog texture |
 | [Kilohearts Essentials](https://www.pluginboutique.com/search?q=Kilohearts%20Essentials&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026&chan=art&data1=best-free-vst-plugins-2026) | Multi-FX | Modular effect chain |

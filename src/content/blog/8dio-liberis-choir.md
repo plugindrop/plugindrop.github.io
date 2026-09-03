@@ -9,7 +9,7 @@ score: 4.20
 xText: "8Dio Liberis — award-winning 45-piece children's choir, 3 soloists. specific texture you can't fake with adult voices. part of pick-3 deal at $69"
 draft: false
 ---
-**TL;DR:** Liberis is 8Dio's children's choir library — the award-winning 45-piece Piedmont Children's Choir, recorded in a church with three soloists included. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](/posts/choirs-solo-vocals-102b4c)**. [Buy on 8Dio →](https://www.pluginboutique.com/search?q=liberis%20childrens%20choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-liberis-choir&chan=art&data1=8dio-liberis-choir)
+**TL;DR:** Liberis is 8Dio's children's choir library — the award-winning 45-piece Piedmont Children's Choir, recorded in a church with three soloists included. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)**. [Buy on 8Dio →](https://www.pluginboutique.com/search?q=liberis%20childrens%20choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-liberis-choir&chan=art&data1=8dio-liberis-choir)
 
 ---
 
@@ -22,7 +22,7 @@ draft: false
 
 Liberis features the Piedmont Children's Choir — 45 professional young singers recorded in a church environment with three dedicated mic positions. Three soloists (one male, two female) are included for intimate exposed lines.
 
-**Regular price:** $79 (normally $498) | **Part of Pick 3 deal:** [$69 for any 3 choirs](/posts/choirs-solo-vocals-102b4c)
+**Regular price:** $79 (normally $498) | **Part of Pick 3 deal:** [$69 for any 3 choirs](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)
 
 ---
 
@@ -77,7 +77,7 @@ Liberis is the only dedicated children's choir option in the 8Dio lineup. It fil
 
 ## Part of the Pick 3 Deal
 
-Liberis is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](/posts/choirs-solo-vocals-102b4c)** offer. Its unique timbre pairs well with any of the adult choir libraries for textural contrast.
+Liberis is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)** offer. Its unique timbre pairs well with any of the adult choir libraries for textural contrast.
 
 [→ See all eligible titles and grab the deal](https://www.pluginboutique.com/search?q=liberis%20childrens%20choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-liberis-choir&chan=art&data1=8dio-liberis-choir)
 
@@ -88,4 +88,4 @@ Liberis is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](/p
 ## Related Guides
 - [Best Free Choir VST Plugins in 2026](/posts/best-free-choir-vst-plugins/)
 - [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)
-- [8Dio Pick Any 3 Choirs — $69 Deal](/posts/choirs-solo-vocals-102b4c/)
+- [8Dio Pick Any 3 Choirs — $69 Deal](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)

@@ -392,7 +392,7 @@ A: Every plugin listed here supports VST3 format, which is compatible with both 
 ## Related Guides
 
 - [Hip-Hop Mixing Plugin Chain: Beat by Beat Breakdown (2026)](/posts/hip-hop-mixing-plugin-chain/)
-- [Best Hip-Hop Sample Packs 2026 — Ranked: Loops, Drums & Sounds for Producers](/posts/best-sample-packs-hip-hop-2026/)
+- [Best Drum Sample Packs 2026](/posts/best-drum-sample-packs-2026/)
 - [Best Trap VST Plugins 2026](/posts/best-trap-vst-plugins/)
 - [Best Free Drum Machine VST Plugins 2026](/posts/best-free-drum-machine-vst/)
 - [Complete Drum Mixing Plugin Chain](/posts/drum-mixing-plugin-chain/)

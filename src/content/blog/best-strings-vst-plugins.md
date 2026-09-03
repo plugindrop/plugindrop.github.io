@@ -346,4 +346,4 @@ A: Yes, in two situations: the library rarely discounts anyway (Cinematic Studio
 
 - [10 Best Free Strings VST Plugins in 2026](/posts/best-free-strings-vst-plugins/)
 - [10 Best Free Orchestral VST Plugins in 2026](/posts/best-free-strings-vst-plugins/)
-- [8 Best Free Choir & Vocal Ensemble VST Plugins in 2026](/posts/best-choir-vocal-ensemble-vst-plugins/)
+- [Best Free Choir VST Plugins in 2026](/posts/best-free-choir-vst-plugins/)
