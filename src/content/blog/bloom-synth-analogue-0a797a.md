@@ -10,14 +10,18 @@ dealPrice: "$39.00"
 originalPrice: "$59.00"
 discount: "34% OFF"
 draft: false
+saleExpiry: "2026-09-11"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Bloom Synth Analogue is discounted from ~~$59~~ to $39 at Plugin Boutique, a 34% saving. The deal is live now, but Plugin Boutique sales windows can close without much notice, so lock in pricing before checking out. [Grab Bloom Synth Analogue at $39 →](https://www.pluginboutique.com/search?q=Bloom+Synth+Analogue&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-0a797a)
+
+## Price Context (tracked by PluginDrop)
+- Regular: $59
+- Verdict: **NO HISTORY** — The current deal is $39; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="34% Off Bloom Synth Analogue — Warm Analog Pads & Leads ($39) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%3Aplaylists%3A2274355076%3Fsecret_token%3Ds-Sa5NEnOrl5L&color=%23ee753c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 </div>
-
-
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/8DmroVvYU-g" title="Stop What You’re Doing, This New $29 VST is Only $3 + FREE Gift - Bloom Synth Analogue Lite" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -50,7 +54,7 @@ If you need exact oscillator counts, modulation routing, or preset numbers, veri
 |---|---|---|
 | ~~$59.00~~ | $39.00 | $20.00 (34%) |
 
-Plugin Boutique runs frequent promotions across its instrument and effects catalog, and individual product discounts like this one typically run for a limited window rather than indefinitely. Verify current pricing on the product page — deals can change without notice.
+Plugin Boutique runs frequent promotions across its instrument and effects catalog, and individual product discounts like this one typically run for a limited window rather than indefinitely.
 
 [Get Bloom Synth Analogue for $39 →](https://www.pluginboutique.com/search?q=Bloom+Synth+Analogue&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-0a797a)
 
@@ -70,7 +74,7 @@ If the analog-style pad and lead focus fits your current project and $39 fits yo
 A: Plugin Boutique listings are typically perpetual license purchases unless stated otherwise on the product page — check the listing to confirm.
 
 **Q: Does it require an iLok or online activation?**
-A: Activation method varies by developer. Check the product page or the plugin's system requirements section before buying if this matters to your setup.
+A: Activation method varies by developer.
 
 **Q: What DAWs and plugin formats does it support?**
 A: Supported formats (VST/VST3/AU/AAX) and DAW compatibility should be listed on the product page — confirm before purchase if you're on a less common host.
@@ -91,7 +95,6 @@ A 34% discount is a solid, though not extreme, markdown for a plugin instrument 
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

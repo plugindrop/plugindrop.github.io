@@ -10,8 +10,14 @@ dealPrice: "$34.99"
 originalPrice: "$34.99"
 xText: "dark silence v2 is here for serum. new deep tech house presets that sit in a mix like butter. if you're building underground sounds this actually hits different"
 draft: false
+saleExpiry: "2026-06-18"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Dark Silence Deep Dark Underground V2 Tech House Serum Presets is currently on sale for $19 (down from ~~$34.99~~) at ADSR Sounds — nearly half off on a dedicated underground tech house preset pack for Serum. If dark, warehouse-ready sound design is your target, this is a well-timed pickup. [Grab it at ADSR Sounds →](https://www.adsrsounds.com/product/presets/dark-silence-deep-dark-underground-v2-tech-house-serum-presets/?a_aid=plugindrop&data1=dark-silence-deep-dark-underground-v2-tech-house-serum-prese&utm_source=plugindrop&utm_medium=article&utm_campaign=dark-silence-deep-dark-underground-v2-tech-house-serum-prese)
+
+## Price Context (tracked by PluginDrop)
+- Regular: $34.99
+- Verdict: **NO HISTORY** — The current deal is $34.99; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -20,7 +26,6 @@ draft: false
   <source src="https://adsrsounds.com/mp3/848928-655709585.mp3">
 </audio>
 </div>
-
 
 ## What Is Dark Silence Deep Dark Underground V2?
 
@@ -55,8 +60,6 @@ Dark Silence Deep Dark Underground V2 is the second volume in the Deep Dark Unde
 
 This sale brings the pack well under $20 — a low-risk entry point for any Serum user building out a dark tech house template. ADSR Sounds runs periodic promotions on preset packs; if this one has been sitting in your wishlist, the current price makes the decision easier.
 
-Verify current pricing on the product page — deals can change.
-
 [Get Dark Silence Deep Dark Underground V2 at this price →](https://www.adsrsounds.com/product/presets/dark-silence-deep-dark-underground-v2-tech-house-serum-presets/?a_aid=plugindrop&data1=dark-silence-deep-dark-underground-v2-tech-house-serum-prese&utm_source=plugindrop&utm_medium=article&utm_campaign=dark-silence-deep-dark-underground-v2-tech-house-serum-prese)
 
 ---
@@ -76,7 +79,7 @@ If you already own V1 and want to extend that specific sonic identity, V2 is the
 ## FAQ
 
 **Q: Is Xfer Records Serum required to use this pack?**
-A: Yes — these are native Serum presets. You need Xfer Records Serum installed to load them. Check the product page for any specific version requirements.
+A: Yes — these are native Serum presets. You need Xfer Records Serum installed to load them.
 
 **Q: How many presets are included in V2?**
 A: Check the official ADSR Sounds product page for the exact preset count, as that detail is not consistently published in third-party summaries.
@@ -100,7 +103,6 @@ Dark Silence Deep Dark Underground V2 is down to $19 from ~~$34.99~~ — about a
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

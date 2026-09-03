@@ -11,8 +11,14 @@ originalPrice: "$12.99"
 discount: "62% OFF"
 xText: "the wavetables in orchid from telepathic are actually special. new synth that makes you want to rethink your whole sound design. these releases don't come around every day"
 draft: false
+saleExpiry: "2026-08-08"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Telepathic Instruments' Orchid — the chord-generating synth plugin demoed by producer and DJ Devon Johnson — is currently discounted to **$4.99**, down from ~~$12.99~~ on Splice. That's roughly 62% off for a limited time. [Grab the deal on Splice](https://splice.com/sounds/instruments/drums/samples?utm_source=plugindrop&utm_medium=article&utm_campaign=reviewing-telepathic-instruments-orchid-the-synth-from-the-m) before pricing reverts.
+
+## Price Context (tracked by PluginDrop)
+- Regular: $12.99
+- Verdict: **NO HISTORY** — The current deal is $4.99; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## What Is Telepathic Instruments' Orchid?
 
@@ -23,7 +29,6 @@ Orchid is a synth plugin from Telepathic Instruments built around a chord-genera
 - **Chord generation engine** — the core of Orchid, built to generate chord voicings and progressions automatically rather than requiring manual entry of each note.
 - **Synth sound engine** — Orchid pairs its harmonic tools with its own synthesis engine, letting producers shape the tone of generated chords rather than relying on an external instrument.
 - **Creative workflow focus** — the plugin is marketed around speeding up harmonic experimentation, useful for producers who want to explore chord ideas without deep music theory knowledge.
-- **DAW plugin format** — Orchid runs as a plugin inside a compatible DAW; check the product page for confirmed VST/AU/AAX format support and system requirements.
 
 *Note: For exact specs such as supported plugin formats, minimum OS versions, and preset counts, verify directly on the Splice product page — these details can change between releases.*
 
@@ -40,7 +45,7 @@ Orchid is a synth plugin from Telepathic Instruments built around a chord-genera
 |---|---|---|
 | ~~$12.99~~ | $4.99 | ~$8.00 (about 62%) |
 
-This is a significant markdown from Orchid's normal $12.99 list price on Splice. Splice regularly rotates plugin and instrument deals through its marketplace, so discounts like this do surface periodically, but pricing and availability can shift without notice. Verify current pricing on the product page before checking out — deal windows are typically time-limited.
+This is a significant markdown from Orchid's normal $12.99 list price on Splice. Splice regularly rotates plugin and instrument deals through its marketplace, so discounts like this do surface periodically, but pricing and availability can shift without notice.
 
 [Get Orchid on Splice while the deal is live.](https://splice.com/sounds/instruments/drums/samples?utm_source=plugindrop&utm_medium=article&utm_campaign=reviewing-telepathic-instruments-orchid-the-synth-from-the-m)
 
@@ -60,7 +65,6 @@ If you want a self-contained instrument that both generates chords and produces 
 A: Orchid is a synth plugin designed to run inside a compatible DAW. Check the Splice product page for the current list of supported plugin formats.
 
 **Q: Does this deal include future updates?**
-A: License terms and update policies can vary by release; check the official product page for the current license details before purchasing.
 
 **Q: Is an iLok or account activation required?**
 A: Activation requirements differ by developer and platform. Verify authorization details on the Splice product listing.
@@ -80,7 +84,6 @@ At roughly 62% off a sub-$15 plugin, this is a low financial commitment even if 
 
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
-
 
 ---
 

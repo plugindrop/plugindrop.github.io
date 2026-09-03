@@ -9,11 +9,15 @@ score: 10.00
 dealPrice: "$0"
 xText: "free plugins live right now and honestly some of these shouldn't be free. go get them"
 draft: false
+saleExpiry: "2026-07-18"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** W.A. Production's Vocal Splitter is completely free right now — use code **GETWAVS** at checkout and pay nothing. Expiry is unknown, so don't sleep on it. [Grab Vocal Splitter for $0 here.](https://www.waproduction.com/plugins/view/vocal-splitter)
 
----
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
+---
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/qtcLvehheiI" title="Are you cheating at music?! [plus the latest top deals and freebies] | Audio Plugin Guy Weekly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -57,8 +61,6 @@ Vocal Splitter is a stem separation plugin from W.A. Production, a well-establis
 
 Apply code **GETWAVS** at checkout on the W.A. Production site. No confirmed expiry — free plugin promos from developers can close without warning.
 
-> Verify current pricing on the product page — deals can change.
-
 [→ Download Vocal Splitter free with code GETWAVS](https://www.waproduction.com/plugins/view/vocal-splitter)
 
 ---
@@ -93,10 +95,9 @@ A: Go to the W.A. Production product page, add Vocal Splitter to your cart, and 
 A: No expiry date has been confirmed. Free plugin promotions can end without notice — the safer move is to grab it now.
 
 **Q: What DAWs and formats does Vocal Splitter support?**
-A: Check the official product page for current system requirements, supported plugin formats, and OS compatibility.
 
 **Q: Do I need a W.A. Production account?**
-A: You will likely need to create or log in to an account to complete checkout. Check the product page for registration details.
+A: You will likely need to create or log in to an account to complete checkout.
 
 ---
 
@@ -109,7 +110,6 @@ Free stem separation tools with DAW integration don't show up often. This one re
 ## Related Guides
 
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
-
 
 ---
 

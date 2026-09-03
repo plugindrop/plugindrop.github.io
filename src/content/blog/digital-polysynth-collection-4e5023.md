@@ -11,13 +11,18 @@ originalPrice: "$499.00"
 discount: "60% OFF"
 xText: "60% off a digital polysynth bundle is a pretty wild drop: full list price → 40% of list. waiting means paying more for the same synths later. absolute sleeper deal if you’re building out your palette."
 draft: false
+saleExpiry: "2026-08-15"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** If you only install one, make it Digital Polysynth Collection if you specifically need Roland’s D-50, JD-800, SYSTEM-1, and SYSTEM-8 software instruments in one purchase. Plugin Boutique lists it at ~~$499.00~~ **$199.00**, a $300 saving, or about **$49.75 per synth**. [Check the deal at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16254-Digital-Polysynth-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=digital-polysynth-collection-4e5023&chan=art&data1=digital-polysynth-collection-4e5023).
+
+## Price Context (tracked by PluginDrop)
+- Regular: $499
+- Verdict: **NO HISTORY** — The current deal is $199; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="60% Off Digital Polysynth Collection — Roland Synths ($199) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1144955293&color=ff5a00"></iframe>
 </div>
-
 
 ## What Is Digital Polysynth Collection?
 
@@ -83,7 +88,7 @@ A: The collection includes the D-50, JD-800, SYSTEM-1, and SYSTEM-8 software syn
 
 **Q: Is Digital Polysynth Collection a subscription?**
 
-A: The product page lists it as available as a Lifetime Key purchase with free updates. Check the product page for the current licence terms before purchase.
+A: The product page lists it as available as a Lifetime Key purchase with free updates.
 
 **Q: Does Digital Polysynth Collection work in major DAWs?**
 
@@ -106,7 +111,6 @@ At $199, this deal makes the most sense for buyers who would otherwise purchase 
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

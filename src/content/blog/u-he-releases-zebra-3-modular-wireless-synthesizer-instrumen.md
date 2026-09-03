@@ -7,9 +7,13 @@ affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17180-Z
 score: 7.44
 dealPrice: "€249"
 heroImage: "/images/u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen.jpg"
-
+saleExpiry: "2026-05-20"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** u-he has officially launched Zebra 3, the long-awaited successor to the iconic Zebra 2 wireless modular synthesizer. Zebra 2 built a cult following over decades; Zebra 3 arrives with a rebuilt architecture and expanded modular depth. [Grab Zebra 3 directly from u-he](https://www.pluginboutique.com/search?q=zebra3&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen&chan=art&data1=u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen) — check the product page for current launch pricing.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $249; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -52,8 +56,6 @@ Zebra 3 is a fresh release, so community discussion is still in its early stages
 | Check product page | Check product page | New release — verify at u-he |
 
 Since Zebra 3 is a new launch, pricing details should be confirmed directly on the product page — launch pricing and upgrade discounts for existing Zebra 2 owners may apply. u-he has historically offered competitive upgrade paths for loyal customers.
-
-Verify current pricing on the product page — deals can change.
 
 [Check Zebra 3 pricing and order at u-he →](https://www.pluginboutique.com/search?q=zebra3&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen&chan=art&data1=u-he-releases-zebra-3-modular-wireless-synthesizer-instrumen)
 

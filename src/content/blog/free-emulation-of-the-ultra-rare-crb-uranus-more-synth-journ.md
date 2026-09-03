@@ -9,12 +9,17 @@ score: 7.95
 dealPrice: "FREE"
 xText: "free crb uranus emulation just dropped. that synth costs like 15k+ to even find. absolute sleeper if you're not already downloading"
 draft: false
+saleExpiry: "2026-08-08"
+saleExpirySource: "fallback"
 ---
 I've written the article to `/tmp/crb-uranus-synth-journal-article.md` (~830 words). Here it is:
 
 ---
 
 **TL;DR:** This week's Synth Journal roundup from Gearnews spotlights a **free emulation of the ultra-rare CRB Uranus synthesizer** — a $0 download, no catch. The same roundup covers a fresh update for the [4ms MetaModule](https://www.thomann.de/intl/4ms_meta_module.htm?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=free-emulation-of-the-ultra-rare-crb-uranus-more-synth-journ) and a new third-party editor for the Sequential Prophet-6. If you've been eyeing the MetaModule itself, Thomann carries it — check current stock and pricing via the link above.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## What Is This Week's Synth Journal?
 
@@ -63,7 +68,7 @@ If what you want is a free way to explore one very specific, rare vintage sound,
 A: According to this week's Synth Journal roundup, it's a free download with no listed price. Always confirm download source and licensing terms on the official post before installing.
 
 **Q: What is the 4ms MetaModule?**
-A: It's a Eurorack hardware module made by 4ms that's designed to run software emulations of classic and boutique Eurorack modules on a single unit. Thomann carries the hardware; check the product page for current specs and pricing.
+A: It's a Eurorack hardware module made by 4ms that's designed to run software emulations of classic and boutique Eurorack modules on a single unit.
 
 **Q: Do I need a Prophet-6 to use the new editor?**
 A: Editors of this type are generally built to work alongside the hardware synth they're designed for, so a Prophet-6 is the expected requirement. Confirm compatibility details on the editor's own release page.
@@ -84,7 +89,6 @@ Since the headline item here costs nothing, there's little downside to trying it
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
-
 
 ---
 

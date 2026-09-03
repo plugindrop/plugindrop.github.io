@@ -9,8 +9,13 @@ score: 10.00
 dealPrice: "FREE"
 xText: "free bassline breakdown (house/techno/disco) with MIDI + presets included. i'd be charging $50 for this if i made it. go download it."
 draft: false
+saleExpiry: "2026-07-18"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Splice is giving away free MIDI files and Serum presets alongside a genre-by-genre bassline writing guide covering eight styles — house, techno, disco, trap, drum and bass, and more. Zero cost. Grab the free resources directly at [Splice](https://splice.com/sounds/labels/origin-sound?utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-write-a-bassline-for-house-techno-disco-and-more-free).
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 

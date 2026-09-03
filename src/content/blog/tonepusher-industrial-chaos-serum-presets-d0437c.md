@@ -11,8 +11,14 @@ originalPrice: "$15"
 discount: "40% OFF"
 xText: "tonepusher just dropped industrial chaos serum presets at 40% off and they're literally engineered to sound broken. if you work dark or experimental this is the move"
 draft: true
+saleExpiry: "2026-06-13"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Tonepusher's Industrial Chaos Serum presets are currently 40% off at ADSR Sounds — dropping from ~~$15~~ to **$9**. That's a solid entry point for a pack targeting dark, industrial, and experimental sound design. [Grab it here while the deal is live.](https://www.adsrsounds.com/product/presets/tonepusher-industrial-chaos-serum-presets/?a_aid=plugindrop&data1=tonepusher-industrial-chaos-serum-presets-d0437c&utm_source=plugindrop&utm_medium=article&utm_campaign=tonepusher-industrial-chaos-serum-presets-d0437c)
+
+## Price Context (tracked by PluginDrop)
+- Regular: $15
+- Verdict: **NO HISTORY** — The current deal is $9; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -21,7 +27,6 @@ draft: true
   <source src="https://adsrsounds.com/mp3/1809105-1175376457.mp3">
 </audio>
 </div>
-
 
 ## What Is Tonepusher Industrial Chaos Serum Presets?
 
@@ -65,7 +70,7 @@ If you're firmly in the industrial/EBM lane and want presets built specifically 
 ## FAQ
 
 **Q: Do I need any plugins besides Serum to use these presets?**
-A: Xfer Records Serum is required. No additional plugins should be needed, but check the official product page for any specific version requirements.
+A: Xfer Records Serum is required.
 
 **Q: Are these presets royalty-free for commercial use?**
 A: ADSR Sounds typically licenses preset packs for commercial use in music production — verify the exact license terms on the product page before use in sync or media work.
@@ -87,7 +92,6 @@ A: Check ADSR Sounds' official refund policy on their website for current terms.
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

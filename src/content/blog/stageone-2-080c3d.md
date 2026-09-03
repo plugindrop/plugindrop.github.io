@@ -15,12 +15,15 @@ draft: true
 ---
 **TL;DR:** StageOne 2 is currently 40% off at Plugin Boutique — down from ~~$249.00~~ to **$149.40**, saving you nearly $100 on a dedicated stereo width and spatial imaging plugin. That kind of discount on a $249 tool doesn't come around on a fixed schedule. [Grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/10913-StageOne-2-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=stageone-2-080c3d&chan=art&data1=stageone-2-080c3d)
 
+## Price Context (tracked by PluginDrop)
+- Regular: $249
+- Verdict: **NO HISTORY** — The current deal is $149.4; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
+
 ---
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/7xwZ66OHDug" title="40% Off StageOne 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is StageOne 2?
 
@@ -56,8 +59,6 @@ The following are based on the product category and listing — verify complete 
 | ~~$249.00~~ | **$149.40** | ~$99.60 (40% off) |
 
 Forty percent off a $249 plugin is a legitimate saving — not a cosmetic markdown. Plugin Boutique runs periodic promotions across its catalogue, but this level of discount on a stereo width tool at this price tier isn't guaranteed to repeat on a predictable schedule. If StageOne 2 fits your workflow, the current window is worth taking seriously.
-
-> Verify current pricing on the product page — deals can change without notice.
 
 [Get StageOne 2 at 40% off at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/10913-StageOne-2-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=stageone-2-080c3d&chan=art&data1=stageone-2-080c3d)
 
@@ -104,7 +105,6 @@ A 40% discount on a $249 plugin is a meaningful cut in real dollar terms — clo
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

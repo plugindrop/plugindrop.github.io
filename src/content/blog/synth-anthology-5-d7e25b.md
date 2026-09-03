@@ -11,13 +11,18 @@ originalPrice: "$149.00"
 discount: "40% OFF"
 xText: "synth anthology 5 is 40% off. six tools for the price of what two used to cost. when you break down the per-synth math it's actually wild"
 draft: false
+saleExpiry: "2026-08-09"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Plugin Boutique has Synth Anthology 5 marked down to **$89**, down from ~~$149~~ — a savings of $60 (about 40% off) on a bundle of 15 synth plugins. If you've been meaning to expand your synth collection without buying instruments one at a time, this is worth a look. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17582-Synth-Anthology-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synth-anthology-5-d7e25b&chan=art&data1=synth-anthology-5-d7e25b).
+
+## Price Context (tracked by PluginDrop)
+- Regular: $149
+- Verdict: **NO HISTORY** — The current deal is $89; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/N3dfN9XOa_E" title="40% Off Synth Anthology 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is Synth Anthology 5?
 
@@ -47,7 +52,7 @@ For the full breakdown of every plugin included, exact formats supported, and sy
 
 With 15 synths included, $89 works out to roughly $5.93 per plugin — a fraction of what most standalone synths cost on their own. Bundle deals like this are a common way plugin retailers move instrument libraries, and pricing/inclusions can shift over time, so it's worth confirming the current lineup and price before checkout.
 
-Verify current pricing on the product page — deals can change. [Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17582-Synth-Anthology-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synth-anthology-5-d7e25b&chan=art&data1=synth-anthology-5-d7e25b).
+pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17582-Synth-Anthology-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synth-anthology-5-d7e25b&chan=art&data1=synth-anthology-5-d7e25b).
 
 ## Alternatives at a Glance
 
@@ -62,16 +67,15 @@ If you want deep, dedicated control over one synthesis engine, a standalone flag
 ## FAQ
 
 **Q: What license type does Synth Anthology 5 use?**
-A: Check the official product page for license details (perpetual vs. subscription, activation limits, and iLok/challenge-response requirements can vary by bundle).
+ subscription, activation limits, and iLok/challenge-response requirements can vary by bundle).
 
 **Q: Will this deal price last?**
 A: Deal pricing on Plugin Boutique can change or expire without notice, so it's best to confirm the current price before checking out.
 
 **Q: Are all 15 synths from the same developer?**
-A: Bundle offerings like this can include plugins from multiple developers or a single publisher's catalog — check the product page for the exact list of included synths.
 
 **Q: What are the system requirements?**
-A: System requirements vary by included plugin. Check the official product page for full compatibility details before purchasing.
+A: System requirements vary by included plugin.
 
 ## Get the Deal
 
@@ -86,7 +90,6 @@ Plugin Boutique regularly runs bundle promotions and site-wide sales throughout 
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

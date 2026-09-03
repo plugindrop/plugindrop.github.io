@@ -15,12 +15,15 @@ draft: true
 ---
 **TL;DR:** Phrasebox 2 is currently **$47** (down from ~~$94~~) at Plugin Boutique — a straight 50% cut on a MIDI phrase-generation plugin built around a capable arpeggiator and modulation engine. If this one's been on your radar, [grab it at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/6072-Phrasebox-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phrasebox-2-869c5d&chan=art&data1=phrasebox-2-869c5d) before the sale window closes.
 
+## Price Context (tracked by PluginDrop)
+- Regular: $94
+- Verdict: **NO HISTORY** — The current deal is $47; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
+
 ---
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/0zkPqz4WqQ4" title="50% Off Phrasebox 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is Phrasebox 2?
 
@@ -59,7 +62,7 @@ Based on the official Plugin Boutique listing:
 
 A 50% discount is a significant cut for a standalone MIDI utility plugin. Plugin Boutique runs promotional sales across its catalog on a regular basis, but a deal at this depth on a specific title isn't always on the table — this kind of pricing tends to be time-limited rather than a permanent fixture.
 
-*Verify current pricing on the product page — deals can change.*
+*
 
 [Get Phrasebox 2 at $47 on Plugin Boutique →](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/6072-Phrasebox-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phrasebox-2-869c5d&chan=art&data1=phrasebox-2-869c5d)
 
@@ -82,13 +85,11 @@ If your main goal is chord discovery and scale exploration for songwriting, Scal
 ## FAQ
 
 **Q: Does Phrasebox 2 require an iLok dongle?**
-A: Check the official product page for current activation and copy-protection details — this can differ between versions and updates.
 
 **Q: Is this a perpetual license or a subscription?**
 A: Verify on the Plugin Boutique product page before purchasing — the license type is listed clearly in the product details.
 
 **Q: What DAWs is Phrasebox 2 compatible with?**
-A: Check the product page for supported formats (VST/VST3/AU/AAX) and verified DAW compatibility.
 
 **Q: What are the system requirements?**
 A: System requirements vary — the product page will list current Mac and Windows specs and any minimum version requirements.
@@ -110,7 +111,6 @@ At 50% off, this is a meaningful discount — not a token sale. Plugin Boutique 
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

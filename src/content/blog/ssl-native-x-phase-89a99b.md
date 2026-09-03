@@ -11,13 +11,19 @@ originalPrice: "$99.00"
 discount: "90% OFF"
 xText: "ssl phase plugins don't move this much. 90% off on something that already had people convinced it just works. that's not hype that's weird"
 draft: false
+saleExpiry: "2026-08-02"
 ---
 **TL;DR:** SSL Native X Phase is on sale at Plugin Boutique for $10, down from ~~$99~~ — a 90% discount. If phase alignment and correction are part of your mixing or mastering workflow, this is a low-risk way to add an SSL-built tool to your rack. [Grab the deal here](https://www.pluginboutique.com/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-phase-89a99b&chan=art&data1=ssl-native-x-phase-89a99b).
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-08-02 (10 observations)
+- Lowest we've tracked: $10 · Regular: $99
+- Verdict: **BUY NOW** — the current $10 price is within 5% of the $10 lowest tracked price.
+- Sale pattern: auto-crawl 2026-08-02
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EjzrfjL7tFs" title="90% Off SSL Native X Phase — Phase Alignment Tool ($10) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is SSL Native X Phase?
 
@@ -28,7 +34,7 @@ SSL Native X Phase is a plugin from Solid State Logic, the UK manufacturer best 
 - **SSL pedigree** — built by the same company behind the SSL 4000 and 9000 console emulations used across commercial studios.
 - **Sound Editor classification** — positioned as a corrective/utility tool rather than a creative effect, per its Plugin Boutique category listing.
 - **Native plugin format** — part of SSL's Native software range, distinct from their outboard hardware units.
-- **DAW integration** — check the product page for confirmed plugin format support (VST/AU/AAX) and host compatibility.
+
 - For exact processing specs, controls, and workflow details, verify on the official product page before purchase.
 
 ## Who Is It For?
@@ -44,7 +50,7 @@ SSL Native X Phase is a plugin from Solid State Logic, the UK manufacturer best 
 |---|---|---|
 | ~~$99~~ | $10.00 | ~90% ($89) |
 
-SSL periodically discounts individual Native plugins through Plugin Boutique, and cuts of this size are notable for a brand built on premium-priced console emulation software. Verify current pricing on the product page — deals can change without notice.
+SSL periodically discounts individual Native plugins through Plugin Boutique, and cuts of this size are notable for a brand built on premium-priced console emulation software.
 
 [See the current price at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-phase-89a99b&chan=art&data1=ssl-native-x-phase-89a99b).
 
@@ -61,13 +67,12 @@ If budget is the main concern, MAutoAlign's free tier is worth checking before s
 ## FAQ
 
 **Q: What plugin formats does SSL Native X Phase support?**
-A: Check the official product page for confirmed VST/AU/AAX compatibility and DAW support before buying.
 
 **Q: Does this require an iLok or other hardware dongle?**
 A: SSL Native plugins have historically used software-based or iLok-based authorization depending on the title. Confirm the licensing method on the product page.
 
 **Q: Is this a permanent price drop or a limited-time sale?**
-A: Plugin Boutique deals are typically time-limited. Check the product page for the current countdown or sale end date.
+A: Plugin Boutique deals are typically time-limited.
 
 **Q: Can I use this on more than one computer?**
 A: Activation limits vary by plugin and vendor policy. Check the official site or Plugin Boutique's licensing terms for details.
@@ -85,7 +90,6 @@ A 90% discount on an SSL Native plugin is a steep cut relative to the brand's us
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

@@ -10,8 +10,13 @@ score: 4.08
 dealPrice: "$67"
 xText: "unison's new chord pack works because the chords actually work. no reworking, no hunting through 500 presets for the right vibe. drop it in and everything just... fits. that's what i'm after."
 draft: false
+saleExpiry: "2026-06-10"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Unison Audio's MIDI Chord Pack is currently available for **$67** — verify current pricing on the product page for full savings context. If you're building tracks around professional-grade chord progressions without the theory grind, [grab it directly at Unison Audio](https://unison.audio/ref/jc374/product/famous-mainstage-serum-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-chord-pack-4c4b35).
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $67; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -20,8 +25,6 @@ draft: false
   <source src="https://unisonsoundbanks.s3.us-west-1.amazonaws.com/Demos/Unison+Famous+Mainstage+Serum+Pack+Demo.mp3">
 </audio>
 </div>
-
-
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/50m2Q7wPUFg" title="A Laughable Sales Pitch - The Unison MIDI Chord Pack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -39,7 +42,6 @@ The Unison MIDI Chord Pack is a collection of professionally crafted MIDI files 
 - **Multi-genre coverage** — Chord voicings span styles including pop, hip-hop, electronic, and more, making the pack versatile across project types.
 - **Synth-integration focus** — The progressions are voiced and structured to complement Unison's synth presets and Serum patches, creating a cohesive workflow.
 - **Drag-and-drop compatibility** — Files are formatted for immediate use in Ableton Live, FL Studio, Logic Pro, and other major DAWs.
-- **Royalty-free licensing** — Check the official product page for exact license terms, but Unison Audio's MIDI packs are typically cleared for commercial use in your productions.
 
 ---
 
@@ -60,9 +62,7 @@ The Unison MIDI Chord Pack is a collection of professionally crafted MIDI files 
 
 Pricing on Unison Audio products can shift, so it's worth confirming the current deal structure before checkout. The $67 price point reflects what's listed at time of writing — deals can change.
 
-> **Note:** Verify current pricing on the product page — deals can change.
-
-[Check current pricing and get the Unison MIDI Chord Pack here.](https://unison.audio/ref/jc374/product/famous-mainstage-serum-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-chord-pack-4c4b35)
+](https://unison.audio/ref/jc374/product/famous-mainstage-serum-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-chord-pack-4c4b35)
 
 ---
 
@@ -81,7 +81,7 @@ If you want a static, own-it-forever library of chord files to load offline, the
 ## FAQ
 
 **Q: What DAWs are compatible with the Unison MIDI Chord Pack?**
-A: MIDI files are a universal format — the pack should work in Ableton Live, FL Studio, Logic Pro, Pro Tools, Studio One, and any other DAW that accepts MIDI. Check the product page for any DAW-specific notes.
+A: MIDI files are a universal format — the pack should work in Ableton Live, FL Studio, Logic Pro, Pro Tools, Studio One, and any other DAW that accepts MIDI.
 
 **Q: Do I need a specific synth or plugin to use this pack?**
 A: No required synth — MIDI files work with any software instrument. That said, the pack is designed to complement Unison Audio's synth presets and Serum patches for the best tonal match.

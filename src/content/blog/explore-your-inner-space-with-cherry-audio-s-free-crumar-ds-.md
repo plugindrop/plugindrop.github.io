@@ -9,8 +9,13 @@ score: 9.30
 dealPrice: "FREE"
 xText: "free crumar ds-2 bank from cherry audio just dropped. vintage organ stabs that sit like butter, zero price tag. grab this right now"
 draft: false
+saleExpiry: "2026-05-29"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Inner Space is a free preset bank for Cherry Audio's Crumar DS-2, created by Soniccouture. It adds a focused set of curated sounds to one of Cherry Audio's more distinctive vintage synth emulations — at zero cost. [→ Get Cherry Audio Crumar DS-2 at Thomann](https://www.thomann.de/intl/cherry_audio_crumar_ds_2.htm?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=explore-your-inner-space-with-cherry-audio-s-free-crumar-ds-)
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 

@@ -11,10 +11,18 @@ originalPrice: "$13.99"
 discount: "40% OFF"
 xText: "Phase Plant  off — does it beat Serum (Xfer Records) at this price?"
 draft: false
+saleExpiry: "2021-12-08"
 ---
 # Phase Plant vs Serum: Is This $8.39 Deal Worth It?
 
 **TL;DR:** Phase Plant is on sale right now at $8.39 — a significant saving on a capable wavetable synth. If you're deciding between Phase Plant and Serum (Xfer Records), price suddenly tips the scales in Phase Plant's favour for producers on a budget.
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2021-12-08 (35 observations)
+- Lowest we've tracked: $92 · Typical sale: $119 · Regular: $199
+- Verdict: **BUY NOW** — the current $8.39 price is within 5% of the $92 lowest tracked price.
+- Sale pattern: PB 14th Anniversary Feb 2026: $119 (40% off). ATL $92 recorded at Plugin Boutique. Kilohearts runs regular 40-50% off sales at PB.
+- Cheaper right now in the same category: [Vital](/plugin-prices/vital/) ($0)
 
 ## Is Phase Plant Worth It at $8.39?
 
@@ -47,7 +55,7 @@ For a full head-to-head breakdown, read our [Phase Plant vs Serum: Which Wavetab
 ## FAQ
 
 **Q: Is Phase Plant on sale right now?**
-A: Yes — currently $8.39 (down from $13.99). Verify the current price at the link above as deals can expire.
+A: Yes — currently $8.39 (down from $13.99).
 
 **Q: How does Phase Plant compare to Serum (Xfer Records)?**
 A: Both are wavetable synths with sound-design depth, but Serum commands a premium price and has a larger ecosystem of third-party content. Phase Plant offers comparable core features at a fraction of the cost, making it ideal for budget-conscious producers. The choice depends on whether you need Serum's specific workflow or can make Phase Plant's architecture work for you.
@@ -57,7 +65,6 @@ A: Both are wavetable synths with sound-design depth, but Serum commands a premi
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

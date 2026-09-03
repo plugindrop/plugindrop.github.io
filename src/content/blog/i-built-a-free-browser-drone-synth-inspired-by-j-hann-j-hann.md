@@ -8,8 +8,15 @@ score: 7.33
 dealPrice: "FREE"
 xText: "free jóhann-inspired drone synth dropped in your browser. zero download, plays real-time, perfect for ambient beds. grab this right now while you're thinking about it."
 draft: false
+saleExpiry: "2021-10-19"
 ---
 **TL;DR:** A free browser drone synth inspired by Icelandic composer Jóhann Jóhannsson just dropped — no download, no install, no cost. It runs entirely in real time in your browser, right now. Grab it at [onechordtillanarchy.squarespace.com/dronesynth](https://onechordtillanarchy.squarespace.com/dronesynth) before it disappears.
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2021-10-19 (22 observations)
+- Lowest we've tracked: $76 · Typical sale: $76 · Regular: $189
+- Verdict: **BUY NOW** — the current $0 price is within 5% of the $76 lowest tracked price.
+- Sale pattern: auto-crawl 2026-07-19
 
 ## What Is the Jóhann Jóhannsson-Inspired Browser Drone Synth?
 
@@ -38,8 +45,6 @@ This is a free, browser-native drone synthesizer built as a creative tribute to 
 
 This is completely free with no stated expiration date, but community-hosted browser projects can disappear without notice. Check the product page for current availability.
 
-Note: Verify current pricing and access details on the product page — deals and availability can change.
-
 **→ [Get the Drone Synth Free](https://onechordtillanarchy.squarespace.com/dronesynth)**
 
 ## Alternatives at a Glance
@@ -58,7 +63,7 @@ If the appeal is instant, zero-install access with a specific aesthetic focus, t
 A: No. It runs entirely in the browser with no additional software required.
 
 **Q: Is it genuinely free — no email signup or hidden paywall?**
-A: Based on the project description, yes — free with no stated account requirement. Check the product page to confirm current access details.
+A: Based on the project description, yes — free with no stated account requirement.
 
 **Q: Can I use the audio output in a recording session?**
 A: It runs in real time in the browser, so live use is possible. Whether you can route browser audio into your DAW will depend on your OS and audio setup — check your system's virtual audio routing options.
@@ -75,7 +80,6 @@ Free. No download. No catch. This is the kind of tool you open when you need a s
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
-
 
 ---
 

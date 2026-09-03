@@ -11,8 +11,16 @@ originalPrice: "$24.99"
 discount: "40% OFF"
 xText: "40% off melodic afro house serum 2 presets just dropped. if you build groovy tracks, this saves hours of sound design work. absolute sleeper deal."
 draft: false
+saleExpiry: "2025-03-20"
 ---
 **TL;DR:** Infinity Audio's *Efrits Of Djamena* Serum 2 preset pack is down to **$14.99** (from ~~$24.99~~) at ADSR Sounds — that's 40% off for a limited time. If you produce Melodic Afro House and work in Serum 2, this is a solid pickup at under $15. [Grab the deal on ADSR Sounds.](https://www.adsrsounds.com/product/presets/infinity-audio-efrits-of-djamena-melodic-afro-house-serum-2-serum-2-presets/?a_aid=plugindrop&data1=infinity-audio-efrits-of-djamena-melodic-afro-house-serum-2-&utm_source=plugindrop&utm_medium=article&utm_campaign=infinity-audio-efrits-of-djamena-melodic-afro-house-serum-2-)
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2025-03-20 (4 observations)
+- Lowest we've tracked: $99 · Typical sale: $189 · Regular: $249
+- Verdict: **BUY NOW** — the current $14.99 price is within 5% of the $99 lowest tracked price.
+- Sale pattern: Xfer's official price is $249 (2026). Xfer's founder has stated publicly that Xfer does not run promotions/sales on the perpetual license. Historical intro price $99 (Mar 2025) and a one-off $189 sale (May 2025) are kept below as legacy data points; no recurring sale pattern confirmed.
+- Cheaper right now in the same category: [Vital](/plugin-prices/vital/) ($0)
 
 ---
 
@@ -21,7 +29,6 @@ draft: false
   <source src="https://adsrsounds.com/mp3/2260539-2092068783.mp3">
 </audio>
 </div>
-
 
 ## What Are the Efrits Of Djamena Serum 2 Presets?
 
@@ -58,8 +65,6 @@ Check the product page for the exact preset count and any included macro assignm
 
 This appears to be a limited-time sale, so the regular price will return once the promotion ends. Infinity Audio doesn't run deep discounts constantly — 40% off is a meaningful markdown for a genre-specific pack at this price tier.
 
-> Verify current pricing on the product page — deals can change.
-
 [Get Efrits Of Djamena for $14.99 at ADSR Sounds →](https://www.adsrsounds.com/product/presets/infinity-audio-efrits-of-djamena-melodic-afro-house-serum-2-serum-2-presets/?a_aid=plugindrop&data1=infinity-audio-efrits-of-djamena-melodic-afro-house-serum-2-&utm_source=plugindrop&utm_medium=article&utm_campaign=infinity-audio-efrits-of-djamena-melodic-afro-house-serum-2-)
 
 ---
@@ -79,7 +84,7 @@ If your sessions are built entirely around Serum 2 and you want Afro House sound
 ## FAQ
 
 **Q: Does this pack work with the original Serum (not Serum 2)?**
-A: The pack is listed as Serum 2 presets. Check the product page to confirm compatibility with the original Serum before purchasing.
+A: The pack is listed as Serum 2 presets.
 
 **Q: Is a license key or account required to activate the presets?**
 A: Serum 2 preset packs typically install via file import — no separate activation is needed beyond owning a licensed copy of Serum 2. Verify on the product page.
@@ -88,7 +93,7 @@ A: Serum 2 preset packs typically install via file import — no separate activa
 A: Refund and return policies vary by store. Check ADSR Sounds' official terms for their current policy on digital downloads.
 
 **Q: How long is the 40% discount available?**
-A: The deal is listed as limited-time. Check the product page for the current status.
+A: The deal is listed as limited-time.
 
 ---
 
@@ -103,7 +108,6 @@ A: The deal is listed as limited-time. Check the product page for the current st
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

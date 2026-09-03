@@ -9,9 +9,14 @@ dealPrice: "$19.95"
 originalPrice: "$179.77"
 discount: "86% OFF"
 heroImage: "/images/shamanstems-witch-house-hip-hop-serum-presets-adsr-deal.jpg"
-
+saleExpiry: "2026-05-20"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Shamanstems' Witch House Hip Hop Serum Presets are available now on ADSR Sounds — a dark, atmospheric preset pack for Xfer Serum built specifically for witch house and trap production. Check current pricing and grab the deal [directly on ADSR Sounds](https://www.adsrsounds.com/product/presets/shamanstems-witch-house-hip-hop-serum-presets/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=shamanstems-witch-house-hip-hop-serum-presets-adsr-deal).
+
+## Price Context (tracked by PluginDrop)
+- Regular: $179.77
+- Verdict: **NO HISTORY** — The current deal is $19.95; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -20,7 +25,6 @@ heroImage: "/images/shamanstems-witch-house-hip-hop-serum-presets-adsr-deal.jpg"
   <source src="https://adsrsounds.com/mp3/1482445-972653638.mp3">
 </audio>
 </div>
-
 
 ## What Is Shamanstems Witch House Hip Hop Serum Presets?
 
@@ -61,9 +65,9 @@ Witch house as a genre occupies a niche but dedicated corner of the production c
 
 Pricing on ADSR Sounds can shift with promotions and limited-time deals. ADSR runs sales and discounts regularly throughout the year, so this is worth monitoring if you're on the fence.
 
-> **Verify current pricing on the product page — deals can change.**
+**
 
-[Check the current price and grab the deal on ADSR Sounds →](https://www.adsrsounds.com/product/presets/shamanstems-witch-house-hip-hop-serum-presets/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=shamanstems-witch-house-hip-hop-serum-presets-adsr-deal)
+adsrsounds.com/product/presets/shamanstems-witch-house-hip-hop-serum-presets/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=shamanstems-witch-house-hip-hop-serum-presets-adsr-deal)
 
 ---
 
@@ -85,7 +89,6 @@ If you're strictly in witch house territory and already own Serum, this pack's g
 A: Yes. These are native Serum presets and require a licensed copy of Xfer Records Serum installed on your system.
 
 **Q: Are these presets compatible with both Mac and Windows?**
-A: Serum runs on both platforms, so the presets should work on either — but check the product page for any specific system requirements noted by the developer.
 
 **Q: Is there a refund policy if the presets don't suit my workflow?**
 A: Refund and return policies vary. Check ADSR Sounds' official terms on the product page before purchasing.

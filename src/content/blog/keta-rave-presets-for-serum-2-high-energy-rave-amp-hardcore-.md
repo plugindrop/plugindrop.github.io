@@ -11,11 +11,18 @@ originalPrice: "$24"
 discount: "40% OFF"
 xText: "40% off keta serum rave presets – these actually sit in a mix like butter instead of competing. worth it if you're doing hardcore"
 draft: false
+saleExpiry: "2025-03-20"
 ---
 **TL;DR:** Ghosthack Audio's *Keta* rave and hardcore preset pack for Serum 2 is currently **40% off** at ADSR Sounds — down from ~~$24~~ to **$14.40**. That's under $15 for a genre-specific library built directly for Serum 2's synthesis engine. [Grab it at ADSR Sounds](https://www.adsrsounds.com/product/presets/ghosthack-audio-keta-rave-presets-for-serum-2/?a_aid=plugindrop&data1=keta-rave-presets-for-serum-2-high-energy-rave-amp-hardcore-&utm_source=plugindrop&utm_medium=article&utm_campaign=keta-rave-presets-for-serum-2-high-energy-rave-amp-hardcore-) before the price resets.
 
----
+## Price Context (tracked by PluginDrop)
+- Tracked since 2025-03-20 (4 observations)
+- Lowest we've tracked: $99 · Typical sale: $189 · Regular: $249
+- Verdict: **BUY NOW** — the current $14.4 price is within 5% of the $99 lowest tracked price.
+- Sale pattern: Xfer's official price is $249 (2026). Xfer's founder has stated publicly that Xfer does not run promotions/sales on the perpetual license. Historical intro price $99 (Mar 2025) and a one-off $189 sale (May 2025) are kept below as legacy data points; no recurring sale pattern confirmed.
+- Cheaper right now in the same category: [Vital](/plugin-prices/vital/) ($0)
 
+---
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/PRwOVViFHes" title="Infinix Note 40 Charging Test.   #infinixnote40 #shorts #infinix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -56,8 +63,6 @@ Check the product page for the full preset count and any additional technical sp
 
 A 40% discount is a meaningful drop for a genre-specific preset pack at this price tier. Ghosthack Audio titles do appear in sales on ADSR Sounds periodically, but how consistently this specific pack sees discounts this deep isn't publicly well-documented. What's clear is that the $14.40 price point sits well below what comparable focused preset packs typically retail for. If rave or hardcore is a core part of your production work, the current discount removes most of the hesitation.
 
-Verify current pricing on the product page — deals can change.
-
 [Get Keta at 40% off on ADSR Sounds →](https://www.adsrsounds.com/product/presets/ghosthack-audio-keta-rave-presets-for-serum-2/?a_aid=plugindrop&data1=keta-rave-presets-for-serum-2-high-energy-rave-amp-hardcore-&utm_source=plugindrop&utm_medium=article&utm_campaign=keta-rave-presets-for-serum-2-high-energy-rave-amp-hardcore-)
 
 ---
@@ -77,13 +82,13 @@ If you want a dedicated rave/hardcore preset pack with a one-time purchase and n
 ## FAQ
 
 **Q: Does Keta work with the original Serum, not just Serum 2?**
-A: Keta is listed as a Serum 2 preset pack. For compatibility with the original Serum, check the product page for official details.
+A: Keta is listed as a Serum 2 preset pack.
 
 **Q: Is this a one-time purchase or a subscription?**
 A: This is a one-time purchase through ADSR Sounds — no subscription is required after buying.
 
 **Q: Do I need any plugins besides Serum 2 to use this pack?**
-A: The presets are designed for Serum 2. Check the product page for any additional plugin dependencies or requirements.
+A: The presets are designed for Serum 2.
 
 **Q: What is ADSR Sounds' refund policy on digital downloads?**
 A: Policies on digital goods vary. Check the ADSR Sounds official site for their current refund terms before purchasing.
@@ -107,7 +112,6 @@ At 40% off and under $15, the risk-reward calculation here is fairly simple for 
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

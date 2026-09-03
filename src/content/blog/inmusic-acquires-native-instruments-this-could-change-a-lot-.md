@@ -11,11 +11,16 @@ originalPrice: "$199.99"
 discount: "25% OFF"
 xText: "inmusic just acquired native instruments. kontakt, maschine, reaktor — the backbone of countless studios — now under one parent company. biggest consolidation the plugin world has seen in years"
 draft: false
+saleExpiry: "2026-06-07"
+saleExpirySource: "fallback"
 ---
-**TL;DR:** Native Instruments products are currently available at ~~$199.99~~ $149.99 — a $50 saving worth grabbing before the dust settles on one of the biggest acquisitions in music tech this year. [Check the full deal and analysis here.](https://audioplugin.deals/blog/inmusic-acquires-native-instruments-this-could-change-a-lot-more-than-kontakt/)
+**TL;DR:** Native Instruments products are currently available at ~~$199.99~~ $149.99 — a $50 saving worth grabbing before the dust settles on one of the biggest acquisitions in music tech this year. [Check the full deal and analysis here.](https://audioplugin.deals/posts/inmusic-acquires-native-instruments-this-could-change-a-lot-more-than-kontakt/)
+
+## Price Context (tracked by PluginDrop)
+- Regular: $199.99
+- Verdict: **NO HISTORY** — The current deal is $149.99; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
-
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/CQ00v5AzGuY" title="Native Instruments KOMPLETE 26 — Worth the Upgrade or Just a Name Change?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -54,9 +59,9 @@ The company also maintains the NKS (Native Kontrol Standard) format, a plugin in
 |---|---|---|
 | ~~$199.99~~ | $149.99 | $50 (25%) |
 
-A 25% discount is a meaningful saving on NI products, which don't go on deep sale as frequently as some other plugin brands. Verify current pricing on the product page — deals can change.
+A 25% discount is a meaningful saving on NI products, which don't go on deep sale as frequently as some other plugin brands.
 
-[Get the current Native Instruments deal here.](https://audioplugin.deals/blog/inmusic-acquires-native-instruments-this-could-change-a-lot-more-than-kontakt/)
+[Get the current Native Instruments deal here.](https://audioplugin.deals/posts/inmusic-acquires-native-instruments-this-could-change-a-lot-more-than-kontakt/)
 
 ## Alternatives at a Glance
 
@@ -77,14 +82,14 @@ A: No official changes to licensing have been announced. Check the Native Instru
 A: Based on current information, no disruption to existing libraries or activations has been announced. Monitor the official NI blog for updates.
 
 **Q: Will inMusic hardware get deeper NI software integration?**
-A: This is widely speculated given that inMusic makes controllers and groove hardware (Akai MPC), but no specific integrations have been confirmed at this stage. Check the product page for details as news develops.
+A: This is widely speculated given that inMusic makes controllers and groove hardware (Akai MPC), but no specific integrations have been confirmed at this stage.
 
 **Q: Is now a good time to buy Native Instruments products?**
 A: The current deal puts select NI products at ~~$199.99~~ $149.99 — a 25% saving. Whether the acquisition leads to pricing changes long-term is unknown, making current deals worth considering.
 
 ## Get the Deal
 
-~~$199.99~~ → **$149.99**. Twenty-five percent off one of the most storied names in music software, right as the industry recalibrates around a major acquisition. [Get the full breakdown and deal here.](https://audioplugin.deals/blog/inmusic-acquires-native-instruments-this-could-change-a-lot-more-than-kontakt/)
+~~$199.99~~ → **$149.99**. Twenty-five percent off one of the most storied names in music software, right as the industry recalibrates around a major acquisition. [Get the full breakdown and deal here.](https://audioplugin.deals/posts/inmusic-acquires-native-instruments-this-could-change-a-lot-more-than-kontakt/)
 
 ---
 

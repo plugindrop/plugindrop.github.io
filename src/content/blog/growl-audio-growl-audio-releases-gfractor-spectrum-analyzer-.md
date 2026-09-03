@@ -9,11 +9,15 @@ score: 9.00
 dealPrice: "FREE"
 xText: "free spectrum analyzer just dropped and the visual feedback is genuinely useful. zero reason not to grab this now while it's free"
 draft: false
+saleExpiry: "2026-06-15"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Growl Audio is giving away gFractor, a spectrum analyzer plugin, completely free — no expiry, no catch. Verify current pricing on the product page. Grab it now at [growl-audio.com](https://growl-audio.com/plugins/gfractor.html).
 
----
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
+---
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/NcuOyACeHwM" title="How to Transform Audio using a Synthesizer | Virtual Riot Growl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -31,7 +35,7 @@ Check the [official product page](https://growl-audio.com/plugins/gfractor.html)
 
 - **Real-time frequency display** — Visualizes the frequency spectrum of your audio signal as it plays, updated in real time
 - **High-resolution analysis** — Designed to give producers a detailed, accurate view of spectral content for precise mixing decisions
-- **DAW plugin format support** — Integrates directly into your session as a plugin, check the product page for supported formats (VST/AU/AAX)
+
 - **Low CPU overhead** — Spectrum analyzers are generally lightweight; confirm exact system requirements on the product page
 - **Clean visual interface** — Built for readability at a glance, so you can reference it while working without breaking your workflow
 
@@ -52,7 +56,7 @@ Check the [official product page](https://growl-audio.com/plugins/gfractor.html)
 |---|---|---|
 | Verify on product page | **FREE** | 100% |
 
-Growl Audio has listed gFractor as a free download with no stated expiry date, making this a permanent freebie rather than a limited-time flash sale. That said, deal terms can change — always verify current pricing on the product page before downloading.
+Growl Audio has listed gFractor as a free download with no stated expiry date, making this a permanent freebie rather than a limited-time flash sale.
 
 **[Get gFractor Free → growl-audio.com](https://growl-audio.com/plugins/gfractor.html)**
 
@@ -73,10 +77,10 @@ If you already own a paid EQ with a built-in analyzer, a standalone tool may be 
 ## FAQ
 
 **Q: Is gFractor really free with no strings attached?**
-A: Based on the available deal information, yes — Growl Audio is offering gFractor as a free download with no stated expiry. Check the official product page to confirm current terms.
+A: Based on the available deal information, yes — Growl Audio is offering gFractor as a free download with no stated expiry.
 
 **Q: Does gFractor require an iLok dongle or account?**
-A: No iLok requirement is mentioned for this plugin. Check the product page for full license and activation details.
+A: No iLok requirement is mentioned for this plugin.
 
 **Q: What DAW formats does gFractor support?**
 A: Supported plugin formats (VST, VST3, AU, AAX, etc.) and system requirements are listed on the official product page — check there for the most accurate and up-to-date information.
@@ -93,7 +97,6 @@ Free. No expiry. No excuses. If a spectrum analyzer isn't already in your plugin
 ## Related Guides
 
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
-
 
 ---
 

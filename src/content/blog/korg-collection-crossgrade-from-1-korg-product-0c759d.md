@@ -15,12 +15,15 @@ draft: true
 ---
 **TL;DR:** KORG Collection is available via crossgrade for just **$149** (~~$249~~) — a flat $100 saving for producers who already own at least one qualifying KORG software product. That's 40% off one of the most comprehensive vintage keyboard collections in software. [Grab the crossgrade at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14588-KORG-Collection-Crossgrade-from-1-KORG-Product?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-crossgrade-from-1-korg-product-0c759d&chan=art&data1=korg-collection-crossgrade-from-1-korg-product-0c759d)
 
+## Price Context (tracked by PluginDrop)
+- Regular: $249
+- Verdict: **NO HISTORY** — The current deal is $149; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
+
 ---
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EYu-d1_N_tw" title="40% Off KORG Collection Crossgrade from 1 KORG Product — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is the KORG Collection Crossgrade?
 
@@ -87,7 +90,6 @@ A: You need to own at least one qualifying KORG software product. Check the Plug
 A: KORG Collection is sold as a perpetual license — one payment, no recurring fees. Verify activation details on the official product page.
 
 **Q: What are the system requirements?**
-A: System requirements vary by platform and version — check the official product page for current Mac and Windows compatibility details.
 
 **Q: Can I buy the full Collection without a crossgrade?**
 A: Yes, the full KORG Collection is available separately at standard pricing. This deal is specifically the crossgrade tier for existing KORG software owners.
@@ -107,7 +109,6 @@ KORG runs promotions across the year, so crossgrade pricing is not a one-time ev
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

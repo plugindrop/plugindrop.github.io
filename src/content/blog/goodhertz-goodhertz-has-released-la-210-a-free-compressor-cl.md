@@ -10,11 +10,15 @@ score: 9.72
 dealPrice: "FREE"
 xText: "free compressor that sounds like $200 paid software grab goodhertz's LA-210 before everyone figures it out"
 draft: false
+saleExpiry: "2026-06-09"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Goodhertz is giving away LA-210 — a compressor/clipper plugin — completely free while it's in beta. No expiry date announced. Grab it at [goodhertz.com/la-210](https://goodhertz.com/la-210/) before the beta window closes.
 
----
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
+---
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/4jz6F580M58" title="How GOOD is it REALLY? || Goodhertz Tupe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -53,7 +57,7 @@ Goodhertz has made it available as a free public beta for Mac and Windows. Beta 
 |---|---|---|
 | Verify on product page | **FREE (Beta)** | 100% during beta |
 
-The plugin is free for the duration of the beta period. No end date has been announced, but beta periods are finite — the free window will close when the plugin reaches full release. Verify current pricing on the product page — deals can change.
+The plugin is free for the duration of the beta period. No end date has been announced, but beta periods are finite — the free window will close when the plugin reaches full release.
 
 **[Download LA-210 free at goodhertz.com →](https://goodhertz.com/la-210/)**
 
@@ -70,10 +74,9 @@ If your priority is clean, transparent compression with no coloration, TDR Kotel
 ## FAQ
 
 **Q: Does LA-210 require an iLok or account to activate?**
-A: Check the official product page at goodhertz.com for current license and activation details.
+com for current license and activation details.
 
 **Q: Is the beta version fully functional or limited?**
-A: Goodhertz has released it as a free public beta — check the product page for any known beta limitations or in-progress features.
 
 **Q: What formats and system requirements does LA-210 support?**
 A: Mac and Windows are confirmed. Check the official site for supported plugin formats (VST, AU, AAX) and OS version requirements.
@@ -91,7 +94,6 @@ A free plugin from Goodhertz is not something that shows up often. Beta or not, 
 
 - [Best Compressor Plugins 2026](/posts/best-compressor-plugins-2026/)
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
-
 
 ---
 

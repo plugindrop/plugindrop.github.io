@@ -11,10 +11,16 @@ originalPrice: "$599.00"
 discount: "60% OFF"
 xText: "Melodyne  off — does it beat Auto-Tune, Waves Tune Real-Time, Antares Auto-Tune EFX+ at this price?"
 draft: false
+saleExpiry: "2026-07-03"
+saleExpirySource: "fallback"
 ---
 # Melodyne on Sale at $241: Compare It to Auto-Tune, Waves Tune, Antares EFX+ Right Now
 
 **TL;DR:** Melodyne is currently $241.00 (60% off regular $599.00) — a significant saving that undercuts competing pitch correction tools like Auto-Tune and Waves Tune Real-Time. Here's how they stack up at this price point.
+
+## Price Context (tracked by PluginDrop)
+- Regular: $599
+- Verdict: **NO HISTORY** — The current deal is $241; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## Is Melodyne Worth It at $241.00?
 

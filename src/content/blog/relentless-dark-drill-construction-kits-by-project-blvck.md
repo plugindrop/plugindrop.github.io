@@ -11,8 +11,14 @@ originalPrice: "$16.99"
 discount: "40% OFF"
 xText: "40% off dark drill kits that don't need heavy processing to sit right? project blvck's new relentless is honestly the best pricing i've seen on something like this."
 draft: false
+saleExpiry: "2026-07-16"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Relentless Dark Drill Construction Kits by Project Blvck is 40% off at ADSR Sounds right now — ~~$16.99~~ down to **$10.19**. That's a solid discount on a purpose-built drill pack, and at this price it's hard to argue with. [Grab the deal at ADSR Sounds.](https://www.adsrsounds.com/product/presets/relentless-dark-drill-construction-kits-by-project-blvck/?a_aid=plugindrop&data1=relentless-dark-drill-construction-kits-by-project-blvck&utm_source=plugindrop&utm_medium=article&utm_campaign=relentless-dark-drill-construction-kits-by-project-blvck)
+
+## Price Context (tracked by PluginDrop)
+- Regular: $16.99
+- Verdict: **NO HISTORY** — The current deal is $10.19; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -21,7 +27,6 @@ draft: false
   <source src="https://adsrsounds.com/mp3/2312571-2337294707.mp3">
 </audio>
 </div>
-
 
 ## What Are Relentless Dark Drill Construction Kits by Project Blvck?
 
@@ -86,7 +91,7 @@ A: Verify the specific file formats and sample rates on the product page — don
 A: Construction kit sample packs are DAW-agnostic. Standard audio files load into any DAW that supports common audio formats.
 
 **Q: Is this discount time-limited?**
-A: ADSR Sounds sales are typically promotional and subject to change. Check the product page to confirm the current price before purchasing.
+A: ADSR Sounds sales are typically promotional and subject to change.
 
 ---
 
@@ -99,7 +104,6 @@ A: ADSR Sounds sales are typically promotional and subject to change. Check the 
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

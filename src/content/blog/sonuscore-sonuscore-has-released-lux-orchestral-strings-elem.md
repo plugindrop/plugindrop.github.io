@@ -7,9 +7,13 @@ affiliate: "https://www.sonuscore.com/shop/lux-orchestral-strings-elements/"
 score: 6.82
 dealPrice: "FREE"
 heroImage: "/images/sonuscore-sonuscore-has-released-lux-orchestral-strings-elem.jpg"
-
+saleExpiry: "2026-05-20"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Sonuscore is giving away LUX Orchestral Strings Elements — a professional-grade Kontakt Player library — completely free. No coupon needed, no expiry announced. Grab it directly from [Sonuscore's shop](https://www.sonuscore.com/shop/lux-orchestral-strings-elements/) while it's live.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -87,7 +91,7 @@ A: No. LUX Orchestral Strings Elements is built for the free Native Instruments 
 A: No expiry has been announced as of this writing. It appears to be a permanent free release, but check the product page to confirm current status.
 
 **Q: What are the system requirements?**
-A: Check the official product page at Sonuscore.com — system requirements and Kontakt Player version compatibility are listed there.
+com — system requirements and Kontakt Player version compatibility are listed there.
 
 **Q: Is this the full LUX Orchestral Strings, or a lite version?**
 A: This is the "Elements" edition — a free subset of the full LUX Orchestral Strings product line. For the complete feature set, Sonuscore offers the full paid version.

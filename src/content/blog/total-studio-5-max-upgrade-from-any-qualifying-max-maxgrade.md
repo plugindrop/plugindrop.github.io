@@ -10,13 +10,19 @@ dealPrice: "$99.99"
 originalPrice: "$299.99"
 discount: "67% OFF"
 draft: false
+saleExpiry: "2026-07-12"
 ---
 **TL;DR:** Owners of a qualifying Total Studio MAX version can upgrade to Total Studio 5 MAX for $99.99, down from ~~$299.99~~. That's 67% off the regular upgrade price on IK Multimedia's full production bundle. Grab the [MAXgrade deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Total+Studio+5+MAX+Upgrade+from+any+qualifying+MAX+MAXgrade&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-studio-5-max-upgrade-from-any-qualifying-max-maxgrade) while it's active.
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-07-12 (31 observations)
+- Lowest we've tracked: $199.99 · Typical sale: $199.99 · Regular: $599.99
+- Verdict: **BUY NOW** — the current $99.99 price is within 5% of the $199.99 lowest tracked price.
+- Sale pattern: auto-crawl 2026-07-12
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TJy5_VIjKo4" title="67% Off Total Studio 5 MAX — Upgrade Production Suite ($99.99) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is Total Studio 5 MAX?
 
@@ -29,7 +35,6 @@ Total Studio 5 MAX is IK Multimedia's flagship all-in-one production bundle. It 
 - **T-RackS mastering chain** — IK Multimedia's mastering suite is included, aimed at final-stage mix polish and loudness work.
 - **AmpliTube tone modeling** — covers amp, cabinet, and pedal simulation for guitar and bass tracks.
 - **SampleTank instrument engine** — sample-based virtual instrument workstation for keys, orchestral, and other sound sources.
-- Check the product page for the full plugin list, version numbers, and any new additions specific to this MAX tier.
 
 ## What Producers Are Saying
 
@@ -48,7 +53,7 @@ IK Multimedia's individual product lines have a long track record in home and pr
 |---|---|---|
 | ~~$299.99~~ | $99.99 | ~$200 (67%) |
 
-This is an upgrade price, not a new-license price — eligibility depends on owning a qualifying prior MAX version. Verify current pricing and eligibility requirements on the product page, as deals and qualifying versions can change.
+This is an upgrade price, not a new-license price — eligibility depends on owning a qualifying prior MAX version.
 
 [Check the current MAXgrade price at Plugin Boutique](https://www.pluginboutique.com/search?q=Total+Studio+5+MAX+Upgrade+from+any+qualifying+MAX+MAXgrade&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-studio-5-max-upgrade-from-any-qualifying-max-maxgrade).
 
@@ -65,7 +70,7 @@ If your priority is guitar/bass tone plus mastering in one license, Total Studio
 ## FAQ
 
 **Q: Who qualifies for the $99.99 upgrade price?**
-A: Owners of a previous qualifying Total Studio MAX version. Check the product page for the specific list of eligible prior versions before purchasing.
+A: Owners of a previous qualifying Total Studio MAX version.
 
 **Q: Is this a perpetual license?**
 A: IK Multimedia bundles are typically sold as perpetual licenses rather than subscriptions, but confirm the license type and activation method on the official product page.
@@ -89,7 +94,6 @@ IK Multimedia runs sales on its bundles fairly often, including regular seasonal
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

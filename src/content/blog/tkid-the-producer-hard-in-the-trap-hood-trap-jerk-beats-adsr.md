@@ -10,8 +10,14 @@ originalPrice: "$14"
 discount: "30% OFF"
 score: 3.57
 draft: false
+saleExpiry: "2026-05-19"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Tkid The Producer's *Hard In The Trap Hood Trap Jerk Beats* pack is currently available on ADSR Sounds — a street-ready collection of trap and jerk-style beats built for producers working in the harder end of hip-hop. Check the current deal price and savings on [ADSR Sounds](https://www.adsrsounds.com/product/presets/tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats/?utm_source=plugindrop&utm_medium=article&utm_campaign=tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats-adsr) before it changes.
+
+## Price Context (tracked by PluginDrop)
+- Regular: $14
+- Verdict: **NO HISTORY** — The current deal is $9.8; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -20,7 +26,6 @@ draft: false
   <source src="https://adsrsounds.com/mp3/2306307-2303705495.mp3">
 </audio>
 </div>
-
 
 ## What Is Tkid The Producer Hard In The Trap Hood Trap Jerk Beats?
 
@@ -61,9 +66,9 @@ This is a niche, genre-specific pack from an independent producer, so broader fo
 |---|---|---|
 | Check product page | Check product page | Verify on ADSR |
 
-Pricing on niche producer packs like this can shift, and ADSR Sounds updates deals regularly. Rather than quote a number that may be outdated, verify the current price directly on the listing.
+Pricing on niche producer packs like this can shift, and ADSR Sounds updates deals regularly.
 
-> **Verify current pricing on the product page — deals can change.**
+**
 
 [Check the current deal on ADSR Sounds →](https://www.adsrsounds.com/product/presets/tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats/?utm_source=plugindrop&utm_medium=article&utm_campaign=tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats-adsr)
 

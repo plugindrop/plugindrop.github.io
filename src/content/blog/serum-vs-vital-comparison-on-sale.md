@@ -11,10 +11,17 @@ originalPrice: "$24"
 discount: "40% OFF"
 xText: "Serum (Xfer Records)  off — does it beat Vital at this price?"
 draft: false
+saleExpiry: "2026-07-10"
 ---
 # Serum (Xfer Records) at $14.4 vs Vital: Is This Deal Worth It?
 
 **TL;DR:** Serum (Xfer Records) is 40% off right now at $14.4 — here's how it compares to Vital at this price. At nearly half regular price, Serum becomes a serious contender even against Vital's paid tier.
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-07-10 (1 observations)
+- Regular: $0
+- Verdict: **NO HISTORY** — The current deal is $14.4; we have only 1 tracked price observation, so there is not enough history for a buy-or-wait claim.
+- Sale pattern: Basic tier is fully free with the complete synth engine (all features), ~75 presets/25 wavetables. Paid Plus (~$25) and Pro (~$80) tiers only add more bundled presets/wavetables/content — same engine, not a 'sale'. Sold direct from vital.audio only; no evidence of Plugin Boutique distribution or recurring discount sales.
 
 ## Is Serum (Xfer Records) Worth It at $14.4?
 

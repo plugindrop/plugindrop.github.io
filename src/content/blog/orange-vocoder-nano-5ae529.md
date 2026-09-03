@@ -11,13 +11,18 @@ originalPrice: "$49.00"
 discount: "41% OFF"
 xText: "orange nano vocoder just dropped and it's already 41% off—that's not launch pricing. if you've been sitting on needing something fresh in your chain, this is probably it"
 draft: false
+saleExpiry: "2026-08-11"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** ORANGE VOCODER NANO is currently marked down to **$29.00** from ~~$49.00~~ at Plugin Boutique — a 41% discount on this vocoder plugin. If classic vocoder textures are on your wishlist, this is a solid entry point at a lower price than the full-featured version typically commands. [Grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/43-Vocoder/11468-ORANGE-VOCODER-NANO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=orange-vocoder-nano-5ae529&chan=art&data1=orange-vocoder-nano-5ae529)
+
+## Price Context (tracked by PluginDrop)
+- Regular: $49
+- Verdict: **NO HISTORY** — The current deal is $29; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/3J2miwmlu7Q" title="41% Off ORANGE VOCODER NANO — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is ORANGE VOCODER NANO?
 
@@ -29,8 +34,6 @@ ORANGE VOCODER NANO is a vocoder plugin sold through Plugin Boutique, designed t
 - **Streamlined "Nano" Workflow** — Positioned as a leaner, more accessible version of a larger vocoder plugin, aimed at producers who want core vocoder sound without a deep feature set.
 - **Plugin Format Compatibility** — Works within standard DAW plugin formats; confirm exact VST/AU/AAX support on the product page before purchase.
 - **Budget-Friendly Entry Point** — Priced well below many premium vocoder plugins, making it accessible for producers experimenting with vocoder effects for the first time.
-
-Check the product page for the full, current feature list and any bundled presets or content.
 
 ## Who Is It For?
 
@@ -45,7 +48,7 @@ Check the product page for the full, current feature list and any bundled preset
 |---|---|---|
 | ~~$49.00~~ | $29.00 | $20.00 (41%) |
 
-This deal brings ORANGE VOCODER NANO down to $29, a meaningful discount off its $49 list price. Plugin Boutique regularly rotates discounts across its catalog, so pricing and availability can change without notice — verify current pricing on the product page before checking out.
+This deal brings ORANGE VOCODER NANO down to $29, a meaningful discount off its $49 list price.
 
 [See the current price at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/43-Vocoder/11468-ORANGE-VOCODER-NANO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=orange-vocoder-nano-5ae529&chan=art&data1=orange-vocoder-nano-5ae529)
 
@@ -68,7 +71,6 @@ A: It's a vocoder plugin used to blend a modulator signal (often vocals) with a 
 A: Yes, this specific 41% off deal at $29.00 is available through Plugin Boutique. Pricing may differ at other retailers.
 
 **Q: What are the system requirements?**
-A: Check the official product page for current OS, DAW compatibility, and plugin format requirements.
 
 **Q: Is this a one-time purchase or subscription?**
 A: Plugin Boutique typically sells plugins as one-time perpetual license purchases, but confirm the license terms on the product page before buying.
@@ -86,7 +88,6 @@ A 41% discount is a substantial markdown for a specialized effects plugin, and v
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

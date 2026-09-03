@@ -9,9 +9,14 @@ dealPrice: "$16.65"
 originalPrice: "$23.79"
 discount: "30% OFF"
 heroImage: "/images/essential-audio-media-eurodance-90s-for-serum-presets-adsr-d.jpg"
-
+saleExpiry: "2026-05-20"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Essential Audio Media's Eurodance 90s preset pack for Xfer Serum is available now on ADSR Sounds — grab it while the deal is live. Check current pricing (~~regular price~~ → deal price) and [snag it here](https://www.adsrsounds.com/product/presets/essential-audio-media-eurodance-90s-for-serum-presets/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=essential-audio-media-eurodance-90s-for-serum-presets-adsr-d) before it ends.
+
+## Price Context (tracked by PluginDrop)
+- Regular: $23.79
+- Verdict: **NO HISTORY** — The current deal is $16.65; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -20,7 +25,6 @@ heroImage: "/images/essential-audio-media-eurodance-90s-for-serum-presets-adsr-d
   <source src="https://adsrsounds.com/mp3/2204474-1880338266.mp3">
 </audio>
 </div>
-
 
 ## What Is Essential Audio Media Eurodance 90s for Serum?
 
@@ -34,7 +38,6 @@ Essential Audio Media Eurodance 90s for Serum is a preset pack designed to recre
 - **Built for Xfer Serum** — fully compatible with Serum's wavetable engine, meaning you get the full benefit of Serum's modulation and effects routing
 - **Multiple Sound Categories** — the pack covers a range of sound types including leads, basses, pads, arps, and stabs to cover full track production needs
 - **Ready-to-Use Patches** — designed as production-ready presets, not raw starting points, so they drop into your sessions with minimal tweaking
-- **Modwheel & Macro Assignments** — presets include performance controls for real-time expression and customization (check the product page for exact macro details)
 
 ---
 
@@ -61,8 +64,6 @@ Eurodance revival has been gaining momentum in producer communities, with genres
 
 Exact pricing can shift — deals on ADSR Sounds are time-sensitive and subject to change. Essential Audio Media does not run deep discounts constantly, so a sale window is worth paying attention to if this genre fits your workflow.
 
-> Verify current pricing on the product page — deals can change.
-
 [Check the current deal price on ADSR Sounds →](https://www.adsrsounds.com/product/presets/essential-audio-media-eurodance-90s-for-serum-presets/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=essential-audio-media-eurodance-90s-for-serum-presets-adsr-d)
 
 ---
@@ -88,7 +89,6 @@ A: Yes — these are native Serum presets and require Xfer Serum to load. They a
 A: ADSR Sounds typically provides audio previews on product pages — check the listing for demos before buying.
 
 **Q: Does this pack require any third-party wavetables or samples?**
-A: Check the product page for full technical requirements; some Serum packs depend on custom wavetables that must be installed separately.
 
 **Q: What is the refund policy for this preset pack?**
 A: Refund policies for digital downloads vary — review ADSR Sounds' terms on their official site before purchasing.

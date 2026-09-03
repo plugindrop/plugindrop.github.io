@@ -11,15 +11,20 @@ originalPrice: "$49"
 discount: "41% OFF"
 xText: "most sample bundles are 90% filler. catch the rhythm vol 1 actually doesn't waste your time. crunch the math on cost-per-loop—that's where the deal lives"
 draft: false
+saleExpiry: "2026-08-20"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** ADSR Sounds has the Catch The Rhythm Producers Bundle Vol 1 marked down from ~~$49~~ to $29, a savings of about 41%. The bundle bundles samples and loops aimed at producers who want ready-to-use rhythmic content without building kits from scratch. [Get the deal at ADSR Sounds](https://www.adsrsounds.com/product/presets/catch-the-rhythm-producers-bundle-deal-vol-1-samples-loops/?a_aid=plugindrop&data1=catch-the-rhythm-producers-bundle-deal-vol-1-samples-loops&utm_source=plugindrop&utm_medium=article&utm_campaign=catch-the-rhythm-producers-bundle-deal-vol-1-samples-loops) while the discount is live.
+
+## Price Context (tracked by PluginDrop)
+- Regular: $49
+- Verdict: **NO HISTORY** — The current deal is $29; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="audio-embed">
 <audio controls style="width:100%">
   <source src="https://adsrsounds.com/mp3/2262024-2102319510.mp3">
 </audio>
 </div>
-
 
 ## What Is Catch The Rhythm Producers Bundle Vol 1?
 
@@ -48,8 +53,6 @@ If you need fully customizable synthesis or need a specific genre confirmed befo
 | Regular Price | Deal Price | You Save |
 |---|---|---|
 | ~~$49~~ | $29 | ~41% ($20) |
-
-Because this is a bundle, the effective cost depends on how many individual sample sets or loops are included — check the product page for the full contents list to calculate a per-item price. Verify current pricing on the product page, as deals can change without notice.
 
 [Grab the Catch The Rhythm bundle at ADSR Sounds](https://www.adsrsounds.com/product/presets/catch-the-rhythm-producers-bundle-deal-vol-1-samples-loops/?a_aid=plugindrop&data1=catch-the-rhythm-producers-bundle-deal-vol-1-samples-loops&utm_source=plugindrop&utm_medium=article&utm_campaign=catch-the-rhythm-producers-bundle-deal-vol-1-samples-loops)
 
@@ -88,7 +91,6 @@ A roughly 41% discount on a sample bundle is a solid markdown for anyone already
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

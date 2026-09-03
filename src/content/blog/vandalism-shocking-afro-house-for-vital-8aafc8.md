@@ -11,8 +11,15 @@ originalPrice: "$13.99"
 discount: "40% OFF"
 xText: "40% off vandalism shocking afro house for vital—this is the discount that doesn't happen often. afro house production is having a moment right now. grab it before the sale ends."
 draft: false
+saleExpiry: "2026-07-10"
 ---
 **TL;DR:** Vandalism's *Shocking Afro House* preset pack for Vital is down to **$8.39** (~~$13.99~~) at ADSR Sounds — that's 40% off for a genre-specific library built to drop straight into Afro house sessions. If you've been sitting on this one, now's a reasonable window to pull the trigger. [Grab it at ADSR Sounds.](https://www.adsrsounds.com/product/presets/vandalism-shocking-afro-house-for-vital/?a_aid=plugindrop&data1=vandalism-shocking-afro-house-for-vital-8aafc8&utm_source=plugindrop&utm_medium=article&utm_campaign=vandalism-shocking-afro-house-for-vital-8aafc8)
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-07-10 (1 observations)
+- Regular: $0
+- Verdict: **NO HISTORY** — The current deal is $8.39; we have only 1 tracked price observation, so there is not enough history for a buy-or-wait claim.
+- Sale pattern: Basic tier is fully free with the complete synth engine (all features), ~75 presets/25 wavetables. Paid Plus (~$25) and Pro (~$80) tiers only add more bundled presets/wavetables/content — same engine, not a 'sale'. Sold direct from vital.audio only; no evidence of Plugin Boutique distribution or recurring discount sales.
 
 ---
 
@@ -21,7 +28,6 @@ draft: false
   <source src="https://adsrsounds.com/mp3/2307807-2310268694.mp3">
 </audio>
 </div>
-
 
 ## What Is Vandalism Shocking Afro House for Vital?
 
@@ -57,8 +63,6 @@ Vital itself is available as a free download, which means the only investment he
 | ~~$13.99~~ | **$8.39** | ~$5.60 (40% off) |
 
 Vandalism doesn't run heavy discounts constantly, so a 40% reduction is worth noting. Whether this price tier returns frequently is worth checking on ADSR Sounds' product page directly.
-
-Note: Verify current pricing on the product page — deals can change.
 
 [Get Shocking Afro House for Vital at $8.39 →](https://www.adsrsounds.com/product/presets/vandalism-shocking-afro-house-for-vital/?a_aid=plugindrop&data1=vandalism-shocking-afro-house-for-vital-8aafc8&utm_source=plugindrop&utm_medium=article&utm_campaign=vandalism-shocking-afro-house-for-vital-8aafc8)
 
@@ -99,7 +103,6 @@ A: Requirements depend on Vital's system specs, not the preset pack itself. Chec
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

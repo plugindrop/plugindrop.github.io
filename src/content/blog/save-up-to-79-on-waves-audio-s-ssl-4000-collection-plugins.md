@@ -11,8 +11,14 @@ dealPrice: "$99.99"
 originalPrice: "$499.00"
 draft: false
 score: 8.67
+saleExpiry: "2026-05-17"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Waves Audio's SSL 4000 Collection is on sale at Plugin Boutique for up to 79% off — one of the steepest discounts on this legendary console-modeled bundle in recent memory. If you've been waiting for the right moment to grab SSL 4000 channel strip and bus processing emulations, this is a compelling window. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12600-SSL-4000-Collection?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins&a_aid=69cb95abe1763&chan=art&data1=save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins)
+
+## Price Context (tracked by PluginDrop)
+- Regular: $499
+- Verdict: **NO HISTORY** — The current deal is $99.99; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -54,9 +60,9 @@ The Waves SSL 4000 Collection has been a staple recommendation on mixing forums 
 |---|---|---|
 | ~~Check product page~~ | Up to 79% off | Up to 79% |
 
-Waves runs sales regularly, but discounts at this depth — up to 79% — aren't everyday occurrences for this particular collection. If you've seen it at a lower percentage discount before and held off, this is worth a second look. Verify current pricing directly on the product page, as deals can change without notice.
+Waves runs sales regularly, but discounts at this depth — up to 79% — aren't everyday occurrences for this particular collection. If you've seen it at a lower percentage discount before and held off, this is worth a second look.
 
-[Check the current price and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12600-SSL-4000-Collection?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins&a_aid=69cb95abe1763&chan=art&data1=save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins)
+](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12600-SSL-4000-Collection?utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins&a_aid=69cb95abe1763&chan=art&data1=save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins)
 
 ---
 
@@ -81,7 +87,7 @@ A: Waves uses its own license management system, not iLok. Check the Waves or Pl
 A: Waves offers perpetual licenses for its plugins. Confirm current licensing terms on the product page, as Waves has updated its policies over time.
 
 **Q: What DAWs are supported?**
-A: The collection supports VST, AU, and AAX formats, covering most major DAWs. Check the official product page for the full compatibility list and minimum system requirements.
+A: The collection supports VST, AU, and AAX formats, covering most major DAWs.
 
 **Q: Is there a refund policy if it doesn't work on my system?**
 A: Refund and return policies vary by retailer. Check Plugin Boutique's terms of service for their current policy before purchasing.

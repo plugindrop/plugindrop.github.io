@@ -11,10 +11,16 @@ originalPrice: "$99.99"
 discount: "51% OFF"
 xText: "Waves  off — does it beat FabFilter at this price?"
 draft: false
+saleExpiry: "2026-07-15"
+saleExpirySource: "fallback"
 ---
 # Waves on Sale for $49 — How It Stacks Against FabFilter
 
 **TL;DR:** Waves is currently on sale for $49.00 (down from $99.99) — at this price, it's a strong value play for producers who want proven mixing tools without FabFilter's premium pricing. Check our [full comparison guide](https://plugindrop.net/posts/waves-vs-fabfilter-2026/) to decide if Waves or FabFilter suits your workflow.
+
+## Price Context (tracked by PluginDrop)
+- Regular: $99.99
+- Verdict: **NO HISTORY** — The current deal is $49; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## Is Waves Worth It at $49.00?
 
@@ -45,7 +51,7 @@ For a full head-to-head breakdown of features, pricing, and workflows, read our 
 ## FAQ
 
 **Q: Is Waves on sale right now?**
-A: Yes—currently $49.00 (down from $99.99). Verify the current price at [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=waves-vs-fabfilter-2026-on-sale) as deals can expire.
+A: Yes—currently $49.00 (down from $99.99).pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=waves-vs-fabfilter-2026-on-sale) as deals can expire.
 
 **Q: How does Waves compare to FabFilter?**
 A: Waves is value-focused with industry-standard tools; FabFilter is a premium brand known for refined UI and surgical precision. Waves gives you more features per dollar, while FabFilter prioritizes intuitive workflow and design polish.
@@ -54,7 +60,6 @@ A: Waves is value-focused with industry-standard tools; FabFilter is a premium b
 
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

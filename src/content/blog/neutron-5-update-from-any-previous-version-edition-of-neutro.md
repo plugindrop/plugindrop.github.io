@@ -11,15 +11,20 @@ originalPrice: "$199.00"
 discount: "25% OFF"
 xText: "25% off neutron 5 from older versions. iZotope doesn't usually discount new releases this much. spectral shaping and ai workflow on 5 is the actual upgrade"
 draft: false
+saleExpiry: "2026-07-02"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** iZotope's Neutron 5 update is currently ~~$199~~ **$149** at Plugin Boutique — that's $50 off for anyone upgrading from any previous Neutron version. If you've been sitting on an older license, [this is a solid window to jump to the latest](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13566-Neutron-5-Update-from-any-previous-version-edition-of-Neutron?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=neutron-5-update-from-any-previous-version-edition-of-neutro&chan=art&data1=neutron-5-update-from-any-previous-version-edition-of-neutro).
+
+## Price Context (tracked by PluginDrop)
+- Regular: $199
+- Verdict: **NO HISTORY** — The current deal is $149; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vsjZop8_Fq4" title="25% Off Neutron 5 Update from any previous version edition of Neutron — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is Neutron 5?
 
@@ -88,7 +93,6 @@ A: iZotope uses its own license management system — check the official iZotope
 A: The deal is listed as an update "from any previous version edition of Neutron," which suggests broad eligibility. Confirm your specific version qualifies on the Plugin Boutique product page before purchasing.
 
 **Q: What DAWs is Neutron 5 compatible with?**
-A: Check the product page for current system requirements and supported plugin formats, as these can change between releases.
 
 **Q: Is this a perpetual license or a subscription?**
 A: iZotope offers both perpetual and subscription options across their product lineup — verify the license type for this specific SKU on the product page.
@@ -102,7 +106,6 @@ $50 off an iZotope Neutron upgrade doesn't happen constantly — if you've been 
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

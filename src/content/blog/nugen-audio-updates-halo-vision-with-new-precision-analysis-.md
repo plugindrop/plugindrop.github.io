@@ -9,8 +9,13 @@ heroImage: /images/nugen-audio-updates-halo-vision-with-new-precision-analysis-.
 dealPrice: "$19.80"
 draft: false
 score: 3.82
+saleExpiry: "2026-05-14"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** NUGEN Audio has pushed a meaningful update to Halo Vision, adding precision analysis features that sharpen its spatial audio metering workflow. If immersive audio is part of your toolkit and you've been sitting on the fence, this update makes it a stronger buy. [Grab Halo Vision at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/79-Metering/9680-Halo-Vision?utm_source=plugindrop&utm_medium=article&utm_campaign=nugen-audio-updates-halo-vision-with-new-precision-analysis-&a_aid=69cb95abe1763&chan=art&data1=nugen-audio-updates-halo-vision-with-new-precision-analysis-) — check the product page for current pricing.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $19.8; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -53,8 +58,6 @@ Halo Vision sits in a specialized corner of the plugin market — it's a profess
 
 NUGEN Audio doesn't run flash sales as frequently as some plugin brands — when they do discount, it tends to be during major sales events. If you catch a discount window, it's worth acting on.
 
-Verify current pricing on the product page — deals can change.
-
 [Check current Halo Vision pricing at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/79-Metering/9680-Halo-Vision?utm_source=plugindrop&utm_medium=article&utm_campaign=nugen-audio-updates-halo-vision-with-new-precision-analysis-&a_aid=69cb95abe1763&chan=art&data1=nugen-audio-updates-halo-vision-with-new-precision-analysis-)
 
 ---
@@ -77,13 +80,11 @@ If you need a comprehensive loudness and stereo metering suite alongside spatial
 A: Check the official NUGEN Audio or Plugin Boutique product page for current activation requirements, as these can change between versions.
 
 **Q: What immersive audio formats does Halo Vision support?**
-A: Halo Vision supports Dolby Atmos and other major immersive/object-based formats — check the product page for the full and up-to-date compatibility list.
 
 **Q: What's included in the latest precision analysis update?**
 A: The update adds new precision analysis features for spatial audio monitoring. Full details on what's changed are available in NUGEN Audio's official release notes.
 
 **Q: What are the system requirements?**
-A: Check the official product page for current macOS and Windows compatibility, as requirements vary by version.
 
 ---
 

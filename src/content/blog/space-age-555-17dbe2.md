@@ -11,13 +11,18 @@ originalPrice: "$69.00"
 discount: "49% OFF"
 xText: "space age 555 dropped 49% on launch day—this rarely happens with new plugins. it'll probably bounce back to full price by next week. if you've been waiting for a gap like this, here it is."
 draft: false
+saleExpiry: "2026-08-18"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Space Age 555 is currently ~~$69~~ **$35** at Plugin Boutique, a 49% discount. If you want a retro-flavored reverb effect for less than the price of most single plugins, this is a straightforward way to add one to your rack. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/13936-Space-Age-555?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=space-age-555-17dbe2&chan=art&data1=space-age-555-17dbe2).
+
+## Price Context (tracked by PluginDrop)
+- Regular: $69
+- Verdict: **NO HISTORY** — The current deal is $35; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fvcBu6Y9kGQ" title="49% Off Space Age 555 — Retro Reverb for Mix Ambience ($35) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is Space Age 555?
 
@@ -29,8 +34,6 @@ Space Age 555 is an audio effects plugin listed in Plugin Boutique's Reverb cate
 - **Reverb effect processing**: it sits in Plugin Boutique's Reverb category, so it's built for adding space and ambience to tracks.
 - **Plugin format compatibility**: check the product page for the exact list of supported formats (VST/VST3/AU/AAX) and DAW compatibility.
 - **System requirements**: confirm minimum OS version, CPU, and RAM requirements on the product listing before purchasing.
-
-For the full feature breakdown, including any preset count, controls, or bundled content, check the product page for details.
 
 ## Who Is It For?
 
@@ -45,7 +48,7 @@ For the full feature breakdown, including any preset count, controls, or bundled
 |---|---|---|
 | ~~$69.00~~ | **$35.00** | 49% ($34.00) |
 
-Plugin Boutique runs frequent sitewide and developer-specific promotions, so discounts like this one do resurface periodically, though the exact cadence and depth vary by title. Verify current pricing on the product page — deals can change without notice.
+Plugin Boutique runs frequent sitewide and developer-specific promotions, so discounts like this one do resurface periodically, though the exact cadence and depth vary by title.
 
 [Check the current deal price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/13936-Space-Age-555?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=space-age-555-17dbe2&chan=art&data1=space-age-555-17dbe2).
 
@@ -65,13 +68,13 @@ If you want one plugin that covers several vintage reverb types, Valhalla Vintag
 A: Plugin Boutique listings are typically perpetual license purchases rather than subscriptions, but confirm the license type on the product page before buying.
 
 **Q: Does Space Age 555 require an iLok or other dongle-based authorization?**
-A: Authorization requirements vary by developer. Check the product page's system requirements and licensing section for the exact activation method.
+A: Authorization requirements vary by developer.
 
 **Q: What plugin formats does Space Age 555 support?**
 A: Format support (VST, VST3, AU, AAX) should be listed on the official product page. Confirm compatibility with your DAW before purchasing.
 
 **Q: Will the price go back up after the sale ends?**
-A: Deal pricing on Plugin Boutique is typically time-limited or stock-limited. Check the product page for the current price and any listed end date.
+A: Deal pricing on Plugin Boutique is typically time-limited or stock-limited.
 
 ## Get the Deal
 
@@ -85,7 +88,6 @@ A 49% discount is a meaningful cut for a perpetual-license effects plugin, and P
 
 - [15 Best Free Reverb VST Plugins in 2026](/posts/best-free-reverb-vst-plugins/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

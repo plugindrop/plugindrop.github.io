@@ -10,11 +10,15 @@ score: 10.00
 dealPrice: "FREE"
 xText: "lineage percussion pro is free. not a sale, not limited. full library for kontakt. grab it now before everyone else does"
 draft: false
+saleExpiry: "2026-07-09"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** ProjectSAM is giving away Lineage Percussion — a full percussion library for Kontakt Player — completely free. No expiry date listed, but free full libraries don't stay free forever. [Grab it here before it changes.](https://projectsam.com/libraries/lineage-percussion-free)
 
----
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
+---
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/2LY8KirM1XI" title="ProjectSAM Orchestral Essentials - Walkthrough and Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -71,7 +75,6 @@ If you specifically need orchestral/cinematic percussion, Lineage Percussion is 
 A: No. Lineage Percussion is built for Kontakt Player, which is free to download from Native Instruments.
 
 **Q: Is this the full library or a stripped-down freebie?**
-A: ProjectSAM describes this as a free version of the full Lineage Percussion Pro library — check the product page to confirm exactly what content is included.
 
 **Q: Is there an activation or serial number required?**
 A: Check the official site for current activation details — requirements can vary by library and region.
@@ -88,7 +91,6 @@ A professional cinematic percussion library, free, with no listed end date — t
 ## Related Guides
 
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
-
 
 ---
 

@@ -9,15 +9,19 @@ score: 9.00
 dealPrice: "FREE"
 xText: "need a free ir loader for amp sims or reverb convolution? bogren digital just dropped irdx studio. works on mac and windows. honestly just go get this right now, zero reasons to wait."
 draft: false
+saleExpiry: "2026-06-14"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Bogren Digital just dropped IRDX Studio — a fully free IR loader plugin for Mac and Windows. No time limit, no catch. Grab it directly at [bogrendigital.com](https://bogrendigital.com/products/irdx-studio) while it's available.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/zzpLL-zTtmY" title="Bogren Digital — Bogren Digital has released IRDX Studio, a free IR loader plugin for Mac & Win. Expiry: None [FREE] — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is Bogren Digital IRDX Studio?
 
@@ -71,7 +75,6 @@ NadIR is the go-to comparison for a free standalone IR loader — it's been arou
 ## FAQ
 
 **Q: Does IRDX Studio require an iLok or internet activation?**
-A: Check the official product page for activation requirements — Bogren Digital's licensing details vary by product.
 
 **Q: What file formats does IRDX Studio support for IR loading?**
 A: Verify supported IR formats (typically .wav) on the product page, as specs can change with updates.
@@ -91,7 +94,6 @@ A free IR loader from a developer that knows guitar tone is a no-brainer additio
 ## Related Guides
 
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
-
 
 ---
 

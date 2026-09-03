@@ -9,9 +9,14 @@ dealPrice: "$29"
 originalPrice: "$49"
 discount: "41% OFF"
 heroImage: "/images/minor-drama-minor-drama-has-released-freqblender-multiband-m.png"
-
+saleExpiry: "2026-05-20"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Minor Drama's new multiband mix knob plugin FreqBlender is launching at 40% off as an intro deal — a solid window to grab it before the price normalizes. Check the current deal price and grab it at [minordrama.studio](https://minordrama.studio/plugins/freqblender/) before the intro offer ends.
+
+## Price Context (tracked by PluginDrop)
+- Regular: $49
+- Verdict: **NO HISTORY** — The current deal is $29; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -53,7 +58,7 @@ FreqBlender is a new release, so community discussions are still building. Check
 |---|---|---|
 | ~~$49~~ | **$29** | $20 (40% off) |
 
-*Intro pricing — verify the current price on the product page as it can change or expire.*
+*
 
 Minor Drama is a smaller boutique studio, and intro launch discounts like this typically have a limited window before reverting to full price. There's no established sale history to reference yet since this appears to be a new release. If the price and workflow fit, intro deals are generally the lowest pricing a plugin sees at launch.
 
@@ -76,10 +81,8 @@ If you specifically need per-band wet/dry blending as a standalone tool without 
 ## FAQ
 
 **Q: Does FreqBlender require an iLok dongle?**
-A: Check the official product page at Minor Drama's site for activation and copy protection details.
 
 **Q: Is FreqBlender available as VST3, AU, and AAX?**
-A: Format support isn't confirmed here — check the product page for the full list of supported formats.
 
 **Q: How long does the 40% intro deal last?**
 A: Intro pricing typically runs for a limited period around launch. No fixed end date is confirmed — treat it as time-sensitive and verify on the product page.

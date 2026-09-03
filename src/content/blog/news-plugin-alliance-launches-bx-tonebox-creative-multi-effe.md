@@ -9,8 +9,13 @@ heroImage: "/images/news-plugin-alliance-launches-bx-tonebox-creative-multi-effe
 dealPrice: "$39.99"
 draft: false
 score: 4.0
+saleExpiry: "2026-05-14"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Plugin Alliance has just launched **bx_tonebox**, a new creative multi-effect plugin from the brainworx team. Whether you're after a launch intro price or just want to be first in line, now is the time to check it out. [Grab bx_tonebox at Plugin Alliance](https://www.plugin-alliance.com/products/bx_tonebox) and verify current pricing on the product page.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $39.99; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -27,7 +32,7 @@ Based on available information at launch:
 - **Creative Multi-Effect Architecture** — combines several effect types in a single plugin, reducing the need to chain multiple tools across a session.
 - **Brainworx Sound Design** — built on brainworx's established DSP heritage, known for precision analog-modeled processing.
 - **Tone-Shaping Focus** — as the name suggests, the plugin is centered around shaping the character and texture of audio signals creatively.
-- **Plugin Alliance Ecosystem Integration** — available through the PA subscription service (MEGA, MEGA Ultimate) as well as outright purchase, check the product page for current availability options.
+
 - **Multiple Format Support** — Plugin Alliance plugins typically ship as VST, VST3, AU, and AAX; verify supported formats and system requirements on the official page.
 
 ---
@@ -55,7 +60,7 @@ bx_tonebox is a fresh release, so community discussion is still in its early sta
 
 Brainworx / Plugin Alliance regularly offer intro launch pricing on new releases, sometimes in the range of 30–50% off for a limited window — but verify the exact figure directly on the product page rather than relying on estimates. Plugin Alliance also runs sitewide sales multiple times per year.
 
-> Verify current pricing on the product page — deals can change. [See current pricing here.](https://www.plugin-alliance.com/products/bx_tonebox)
+ [See current pricing here.](https://www.plugin-alliance.com/products/bx_tonebox)
 
 ---
 
@@ -74,22 +79,22 @@ If your priority is saturation with detailed multiband control, Saturn 2 covers 
 ## FAQ
 
 **Q: Does bx_tonebox require an iLok dongle?**
-A: Plugin Alliance uses their own licensing system (PA License Manager) and does not require a physical iLok dongle. Check the product page to confirm activation details.
+A: Plugin Alliance uses their own licensing system (PA License Manager) and does not require a physical iLok dongle.
 
 **Q: Is bx_tonebox included in the Plugin Alliance MEGA subscription?**
-A: Plugin Alliance subscriptions often include new releases, but inclusion varies by tier and timing. Log into your PA account or check the product page to confirm subscription eligibility.
+A: Plugin Alliance subscriptions often include new releases, but inclusion varies by tier and timing.
 
 **Q: What DAWs and formats are supported?**
 A: Plugin Alliance products typically support VST, VST3, AU, and AAX, covering most major DAWs. Check the official site for the confirmed format list and minimum system requirements.
 
 **Q: Is there a free trial available?**
-A: Plugin Alliance frequently offers time-limited free trials for new releases. Check the product page for trial availability.
+A: Plugin Alliance frequently offers time-limited free trials for new releases.
 
 ---
 
 ## Get the Deal
 
-bx_tonebox is live now — and if Plugin Alliance is running an intro launch price, that window won't stay open forever. Hit the link, check the current price, and decide before the launch window closes.
+bx_tonebox is live now — and if Plugin Alliance is running an intro launch price, that window won't stay open forever.
 
 [Get bx_tonebox at Plugin Alliance](https://www.plugin-alliance.com/products/bx_tonebox)
 

@@ -9,8 +9,14 @@ score: 4.79
 dealPrice: "$49"
 xText: "ua's enigmatic '82 went native and honestly it might be the sleeper overdrive of the year. that saturation curve is doing something different"
 draft: false
+saleExpiry: "2026-08-25"
 ---
 **TL;DR:** Universal Audio has launched the UAD Enigmatic '82 Overdrive Special Amp at **$49** — a new native plug-in modeled on the circuit of a coveted D-style guitar amp from 1982. No UAD hardware required. [Pick it up directly from Universal Audio](https://www.uaudio.com/products/enigmatic-82-overdrive-special?utm_source=plugindrop&utm_medium=article&utm_campaign=news-universal-audio-launches-new-uad-enigmatic-82-overdrive) and verify current pricing on the product page.
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-08-25 (2 observations)
+- Verdict: **NO HISTORY** — The current deal is $49; we have only 2 tracked price observations, so there is not enough history for a buy-or-wait claim.
+- Sale pattern: Auto-discovered 2026-08-25
 
 ---
 
@@ -48,7 +54,7 @@ Check the [official product page](https://www.uaudio.com/products/enigmatic-82-o
 |---|---|---|
 | Verify on product page | **$49** | Launch pricing — confirm current price before purchasing |
 
-This is a new product release, not a limited sale. Verify current pricing on the product page — deals can change.
+This is a new product release, not a limited sale.
 
 [Get the UAD Enigmatic '82 at Universal Audio →](https://www.uaudio.com/products/enigmatic-82-overdrive-special?utm_source=plugindrop&utm_medium=article&utm_campaign=news-universal-audio-launches-new-uad-enigmatic-82-overdrive)
 
@@ -72,13 +78,11 @@ If you want one specific amp character modeled in depth, the UAD approach is the
 A: No. This is part of the UAD Native lineup, which runs on your computer's CPU without any UAD DSP hardware.
 
 **Q: What operating systems are supported?**
-A: macOS and Windows are supported. Check the official product page for minimum version requirements.
+A: macOS and Windows are supported.
 
 **Q: Is this plug-in available in standard formats like VST3 and AU?**
-A: Check the product page for supported plug-in formats — Universal Audio lists these in the technical specs section.
 
 **Q: Is the $49 price a permanent price or an intro offer?**
-A: Universal Audio has not publicly stated it as a limited intro offer, but verify current pricing on the product page before purchasing.
 
 ---
 

@@ -9,15 +9,19 @@ score: 7.51
 dealPrice: "$49"
 xText: "adsr bundles pricing out to $5-10 per plugin right now. lowest these have gone. if you've been sleeping on them, this is the nudge"
 draft: false
+saleExpiry: "2026-08-19"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** ADSR Sounds is marking its 16th birthday with sitewide discounts of up to 89% off plugins and sound pack bundles. One of the headline deals is the ADSR Drum Machine at $49 — [check the current pricing and grab it here](https://www.adsrsounds.com/product/software/adsr-drum-machine/?a_aid=plugindrop&data1=adsr-sounds-sweet-16-save-up-to-89-on-plugins-bundles-ed6487&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-sweet-16-save-up-to-89-on-plugins-bundles-ed6487). The sale spans plugins and bundles across the ADSR catalog, so it's worth browsing beyond the single product too.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $49; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="audio-embed">
 <audio controls style="width:100%">
   <source src="https://www.adsrsounds.com/wp-content/themes/adsr/audio/Acoustic.mp3">
 </audio>
 </div>
-
 
 ## What Is the ADSR Sounds Sweet 16 Sale?
 
@@ -29,8 +33,6 @@ ADSR Sounds is an online retailer for music production software, sample packs, a
 - **Exclusive bundles** — ADSR is pairing some software with sound pack bundles at reduced pricing, which typically brings down the per-item cost.
 - **ADSR's own software line** — Products like the ADSR Drum Machine, developed in-house, are included alongside third-party plugin deals.
 - **Limited-time promotion** — This is a birthday-specific sale rather than a standing discount, so pricing is expected to revert after the event ends.
-
-For exact specs, file formats, and system requirements on the ADSR Drum Machine, check the product page directly — those details can change and shouldn't be guessed at.
 
 ## Who Is It For?
 
@@ -68,7 +70,7 @@ A: ADSR's software is generally sold under a standard license model rather than 
 A: The promotion covers both plugins and exclusive sound pack bundles, according to ADSR's sale announcement.
 
 **Q: How long does the Sweet 16 sale run?**
-A: No fixed end date was listed in the source promotion. Check the product page for any countdown timer or sale expiration notice.
+A: No fixed end date was listed in the source promotion.
 
 **Q: Do I need an iLok or account authorization to activate the plugin?**
 A: Authorization requirements vary by product. Check the official ADSR product page for activation details before purchasing.
@@ -84,7 +86,6 @@ Anniversary sales tied to a specific milestone, like this 16th-birthday event, t
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

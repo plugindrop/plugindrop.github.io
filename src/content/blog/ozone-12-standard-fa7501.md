@@ -11,11 +11,18 @@ originalPrice: "$240.9"
 discount: "23% OFF"
 xText: "ozone 12 standard 23% off is rare. this plugin makes your mixes sit right, everything just sounds cleaner. iZotope doesn't go this hard on pricing often. if you've been eyeing it, now's the moment"
 draft: false
+saleExpiry: "2026-07-10"
 ---
 **TL;DR:** iZotope's Ozone 12 Standard is currently 23% off at Plugin Boutique — down from ~~$240.90~~ to just **$185.90**. That's over $55 back in your pocket for one of the most recognized mastering suites in the game. [Grab it here before the price goes back up.](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ozone-12-standard-fa7501&chan=art&data1=ozone-12-standard-fa7501)
 
----
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-07-10 (19 observations)
+- Lowest we've tracked: $366 · Typical sale: $366 · Regular: $499
+- Verdict: **BUY NOW** — the current $185.9 price is within 5% of the $366 lowest tracked price.
+- Sale pattern: Ozone 12 Advanced is the current flagship mastering suite (regular $499 direct/NI/PB); Ozone 12 'Standard' tier has been discontinued — the 2026 lineup is Advanced ($499) + Elements ($55) only. Discounted to $366 at Thomann (Mar 20, 2026) per plugindeals.net — lowest recorded 2026 sale. Existing-customer loyalty pricing from $279 also available (NI account required, not a public sale).
+- Cheaper right now in the same category: [Sonnox Oxford Inflator](/plugin-prices/sonnox-oxford-inflator/) ($39), [iZotope Ozone Elements](/plugin-prices/izotope-ozone-elements/) ($55), [Plugin Alliance Shadow Hills Mastering Compressor](/plugin-prices/plugin-alliance-shadow-hills-mastering-compressor/) ($149), [Slate Digital FG-X](/plugin-prices/slate-digital-fg-x/) ($149), [Plugin Alliance SPL Vitalizer](/plugin-prices/plugin-alliance-spl-vitalizer/) ($179)
 
+---
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/mirNm_31fNw" title="What&#39;s New &amp; Improved With iZotope Ozone 12 Advanced or Standard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -63,7 +70,7 @@ iZotope does run periodic sales, but 23% off Standard isn't an everyday occurren
 
 > Verify current pricing on the product page — deals can change.
 
-[Check current pricing and buy on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ozone-12-standard-fa7501&chan=art&data1=ozone-12-standard-fa7501)
+pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ozone-12-standard-fa7501&chan=art&data1=ozone-12-standard-fa7501)
 
 ---
 
@@ -91,7 +98,6 @@ A: Advanced adds additional modules and more granular control. Check iZotope's c
 A: This is sold as a perpetual license through Plugin Boutique, not a subscription. Confirm on the product page for any updates to licensing terms.
 
 **Q: What are the system requirements?**
-A: Check the official product page for current macOS/Windows compatibility and DAW support — requirements can vary by OS version.
 
 ---
 
@@ -104,7 +110,6 @@ A: Check the official product page for current macOS/Windows compatibility and D
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

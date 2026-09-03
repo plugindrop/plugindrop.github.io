@@ -11,15 +11,20 @@ originalPrice: "$22"
 discount: "40% OFF"
 xText: "penzi just hit 40% and this is genuinely the lowest i've seen afro house templates at this quality. full drum library, synth setup, everything for club tracks"
 draft: false
+saleExpiry: "2026-08-11"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Ableton Live producers can grab PENZI, a club-ready Afro House template from Mister Pluck Production, for ~~$22~~ **$13.20** at ADSR Sounds — a 40% discount. If you're building out an Afro House set and want a professional arrangement to learn from or remix, [get PENZI here](https://www.adsrsounds.com/product/presets/mister-pluck-production-penzi-afro-house-ableton-live-template-professional-club-ready-production-project/?a_aid=plugindrop&data1=penzi-afro-house-ableton-live-template-professional-club-rea&utm_source=plugindrop&utm_medium=article&utm_campaign=penzi-afro-house-ableton-live-template-professional-club-rea) while the deal is live.
+
+## Price Context (tracked by PluginDrop)
+- Regular: $22
+- Verdict: **NO HISTORY** — The current deal is $13.2; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="audio-embed">
 <audio controls style="width:100%">
   <source src="https://adsrsounds.com/mp3/2315289-2355691619.mp3">
 </audio>
 </div>
-
 
 ## What Is PENZI?
 
@@ -47,7 +52,7 @@ For the exact plugin/device list, sample credits, and any included presets, chec
 |---|---|---|
 | ~~$22~~ | $13.20 | 40% ($8.80) |
 
-The discount brings PENZI down from $22 to $13.20 at ADSR Sounds. Verify current pricing on the product page — deals can change, and ADSR periodically rotates sale pricing on individual producer templates.
+The discount brings PENZI down from $22 to $13.20 at ADSR Sounds.
 
 [Grab PENZI at 40% off here](https://www.adsrsounds.com/product/presets/mister-pluck-production-penzi-afro-house-ableton-live-template-professional-club-ready-production-project/?a_aid=plugindrop&data1=penzi-afro-house-ableton-live-template-professional-club-rea&utm_source=plugindrop&utm_medium=article&utm_campaign=penzi-afro-house-ableton-live-template-professional-club-rea).
 
@@ -64,16 +69,15 @@ If you specifically work in Ableton Live and want a complete, structured project
 ## FAQ
 
 **Q: What DAW is PENZI compatible with?**
-A: It's built as an Ableton Live template, so you'll need Ableton Live to open the project file. Check the product page for the minimum Live version required.
+A: It's built as an Ableton Live template, so you'll need Ableton Live to open the project file.
 
 **Q: Does PENZI include third-party plugins?**
-A: This isn't confirmed in the listing details available here — check the product page for the exact plugin and instrument requirements before purchasing.
 
 **Q: Is this a one-time purchase or subscription?**
 A: ADSR Sounds product templates are typically sold as one-time purchases with lifetime access, but confirm the license terms on the product page.
 
 **Q: Can I use PENZI in commercial releases?**
-A: License terms vary by producer and store. Check the product page's license/usage terms before using elements in commercial work.
+A: License terms vary by producer and store.
 
 ## Get the Deal
 
@@ -86,7 +90,6 @@ At $13.20 for a full club-ready Ableton Live template, the price point is low en
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

@@ -11,13 +11,19 @@ originalPrice: "$199.00"
 discount: "35% OFF"
 xText: "honestly pigments 7's new wavetable engine just made me rethink sound design. 35% off ($65 from $99) right now. this doesn't stay this cheap for long"
 draft: false
+saleExpiry: "2026-07-26"
 ---
 **TL;DR:** Arturia's Pigments 7 is discounted 35% at Plugin Boutique, dropping from ~~$199~~ to $129 — a $70 savings. It's a multi-engine software synth built for wavetable, virtual analog, and sample-based sound design. [Get Pigments 7 at 35% off here](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pigments-7-05c0ed&chan=art&data1=pigments-7-05c0ed).
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-07-26 (28 observations)
+- Lowest we've tracked: $129 · Typical sale: $129 · Regular: $199
+- Verdict: **BUY NOW** — the current $129 price is within 5% of the $129 lowest tracked price.
+- Sale pattern: auto-crawl 2026-07-26
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/6azhlxYCwHg" title="35% Off Pigments 7 — Wavetable Synth for Sound Design ($129) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is Pigments 7?
 
@@ -49,7 +55,7 @@ Pigments has built a reputation as one of Arturia's most flexible synths since i
 |---|---|---|
 | ~~$199.00~~ | $129.00 | $70.00 (35%) |
 
-Arturia periodically runs sitewide and product-specific promotions through Plugin Boutique and its own store, so discounts on Pigments do surface a few times a year. Verify current pricing on the product page — deals can change without notice.
+Arturia periodically runs sitewide and product-specific promotions through Plugin Boutique and its own store, so discounts on Pigments do surface a few times a year.
 
 [Check the current Pigments 7 price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pigments-7-05c0ed&chan=art&data1=pigments-7-05c0ed).
 
@@ -69,10 +75,10 @@ If you specifically want deep wavetable editing and a large third-party preset e
 A: Arturia typically uses its own software-based activation system rather than iLok, but confirm the exact licensing method on the official product page before buying.
 
 **Q: Is this a one-time purchase or a subscription?**
-A: Pigments is generally sold as a perpetual license through retailers like Plugin Boutique. Check the product page to confirm the license terms for this specific deal.
+A: Pigments is generally sold as a perpetual license through retailers like Plugin Boutique.
 
 **Q: Will it run on my system?**
-A: System requirements vary by OS and plugin format. Check the official product page for current Mac/PC and DAW compatibility details.
+A: System requirements vary by OS and plugin format.
 
 **Q: Can I upgrade from an earlier Pigments version instead of buying full price?**
 A: Arturia often offers upgrade pricing for existing owners of previous Pigments versions. Look for an upgrade option on the product page before purchasing the full license.
@@ -90,7 +96,6 @@ Arturia runs sales on Pigments and its broader software catalog several times a 
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

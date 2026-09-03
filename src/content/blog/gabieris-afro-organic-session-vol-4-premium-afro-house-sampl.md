@@ -11,8 +11,14 @@ originalPrice: "$55"
 discount: "40% OFF"
 xText: "40% off launch day pricing? that's the move. gabieris vol 4 sounds genuinely different and this deal won't last long."
 draft: false
+saleExpiry: "2026-07-18"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Gabieris Afro Organic Session Vol 4 is currently 40% off at ADSR Sounds — down from ~~$55~~ to **$33**, saving you $22 on a premium Afro House sample pack built around organic, authentic textures. [Grab it at ADSR Sounds while the deal is live.](https://www.adsrsounds.com/product/presets/gabieris-afro-organic-session-vol-4-premium-afro-house-sample-pack/?a_aid=plugindrop&data1=gabieris-afro-organic-session-vol-4-premium-afro-house-sampl&utm_source=plugindrop&utm_medium=article&utm_campaign=gabieris-afro-organic-session-vol-4-premium-afro-house-sampl)
+
+## Price Context (tracked by PluginDrop)
+- Regular: $55
+- Verdict: **NO HISTORY** — The current deal is $33; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -21,7 +27,6 @@ draft: false
   <source src="https://adsrsounds.com/mp3/2312279-2341115771.mp3">
 </audio>
 </div>
-
 
 ## What Is Gabieris Afro Organic Session Vol 4?
 
@@ -83,10 +88,9 @@ A: Sample packs are DAW-agnostic — any host that loads audio files (Ableton Li
 A: ADSR Sounds packs are generally sold under royalty-free licenses for use in released music. Confirm the specific license terms on the product page before purchasing.
 
 **Q: What audio formats and sample rates are included?**
-A: Check the official product page for exact specs — format details vary by pack and are listed there.
 
 **Q: Is this deal available anywhere else?**
-A: This deal is available at ADSR Sounds. Check the product page directly for current availability and pricing.
+A: This deal is available at ADSR Sounds.
 
 ---
 
@@ -97,7 +101,6 @@ A: This deal is available at ADSR Sounds. Check the product page directly for cu
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

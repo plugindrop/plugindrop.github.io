@@ -9,9 +9,14 @@ heroImage: /images/free-amorph-ai-driven-text-to-dsp-plugin-gets-a-major-visual.
 dealPrice: "FREE"
 draft: false
 score: 1.44
+saleExpiry: "2026-05-03"
+saleExpirySource: "fallback"
 ---
 
 **TL;DR:** Amorph, the AI-driven text-to-DSP plugin by Artists in DSP, just dropped a major GUI overhaul — and it's still **completely free** in open beta. Custom UI skins, cloud-based preset browsing, and a new MIDI variant for building arpeggiators and sequencers. Zero dollars. [Grab it while it's free](https://artistsindsp.gumroad.com/l/amorph).
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## What Is Amorph?
 

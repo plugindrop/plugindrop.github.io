@@ -11,8 +11,14 @@ originalPrice: "$29"
 discount: "40% OFF"
 xText: "40% off 90s drum loops that make everything sit tighter. serious: these loops need almost no processing. the kind of deal sample pack makers rarely run"
 draft: false
+saleExpiry: "2026-06-03"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Master Of Dreams 90S Drum Loops Remake Vol 1 is currently **$17.40** (~~$29~~) at ADSR Sounds — a straight 40% discount on a vintage-focused drum loop sample pack built around the classic 90s aesthetic. If you're filling gaps in your sample library, [grab it at the deal price here](https://www.adsrsounds.com/product/presets/master-of-dreams-90s-drum-loops-remake-vol-1-vintage-90s-drum-loop-sample-pack/?a_aid=plugindrop&data1=master-of-dreams-90s-drum-loops-remake-vol-1-vintage-90s-dru&utm_source=plugindrop&utm_medium=article&utm_campaign=master-of-dreams-90s-drum-loops-remake-vol-1-vintage-90s-dru).
+
+## Price Context (tracked by PluginDrop)
+- Regular: $29
+- Verdict: **NO HISTORY** — The current deal is $17.4; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -21,7 +27,6 @@ draft: false
   <source src="https://adsrsounds.com/mp3/2304571-2304365180.mp3">
 </audio>
 </div>
-
 
 ## What Is Master Of Dreams 90S Drum Loops Remake Vol 1?
 
@@ -52,7 +57,7 @@ This kind of focused, era-specific pack fills a practical niche: producers who w
 
 40% is a meaningful discount for a focused sample pack in this price range. ADSR Sounds runs periodic promotions, but deals at this level on individual packs are worth acting on rather than banking on a repeat. Verify current pricing on the product page — deals can change without notice.
 
-[Check the current price and grab it at ADSR Sounds →](https://www.adsrsounds.com/product/presets/master-of-dreams-90s-drum-loops-remake-vol-1-vintage-90s-drum-loop-sample-pack/?a_aid=plugindrop&data1=master-of-dreams-90s-drum-loops-remake-vol-1-vintage-90s-dru&utm_source=plugindrop&utm_medium=article&utm_campaign=master-of-dreams-90s-drum-loops-remake-vol-1-vintage-90s-dru)
+adsrsounds.com/product/presets/master-of-dreams-90s-drum-loops-remake-vol-1-vintage-90s-drum-loop-sample-pack/?a_aid=plugindrop&data1=master-of-dreams-90s-drum-loops-remake-vol-1-vintage-90s-dru&utm_source=plugindrop&utm_medium=article&utm_campaign=master-of-dreams-90s-drum-loops-remake-vol-1-vintage-90s-dru)
 
 ## Alternatives at a Glance
 
@@ -70,13 +75,13 @@ If ongoing cost is a concern, free community resources exist — but quality is 
 A: ADSR Sounds packs are typically licensed royalty-free for commercial productions. Verify the exact terms on the official product page before use in a release.
 
 **Q: What DAWs are compatible with this pack?**
-A: Loop packs in standard audio formats work in any DAW that can import audio files. Check the product page for confirmed file formats and compatibility notes.
+A: Loop packs in standard audio formats work in any DAW that can import audio files.
 
 **Q: Does this require any plugin or additional software?**
 A: No dedicated plugin should be required — these are audio loops, not instrument presets. Confirm on the product page if you have a specific DAW setup.
 
 **Q: How long is the 40% off deal available?**
-A: ADSR Sounds deal durations vary. Check the product page directly to confirm the discounted price is still active.
+A: ADSR Sounds deal durations vary.
 
 ## Get the Deal
 
@@ -88,7 +93,6 @@ $17.40 for a focused 90s drum loop pack is a clean entry point — especially at
 
 - [Complete Drum Mixing Plugin Chain](/posts/drum-mixing-plugin-chain/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

@@ -9,8 +9,13 @@ score: 8.10
 dealPrice: "FREE"
 xText: "mike dean just dropped a free synth that sounds way more expensive than zero dollars. unison mode is the sleeper feature here. go grab it"
 draft: false
+saleExpiry: "2026-05-22"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Mike Dean's "Smoke Mono" synthesizer is completely free — no catch, no trial, no paywall. This is a rare chance to add a plugin from one of hip-hop's most influential producers to your rack at zero cost. [Grab it here.](https://www.youtube.com/watch)
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -77,7 +82,6 @@ A: It is available for free.
 A: It is a monophonic synthesizer, meaning it plays one note at a time.
 
 **Q: What plugin formats and operating systems does Smoke Mono support?**
-A: Check the official product page for current system requirements, supported formats (VST/AU/AAX), and OS compatibility.
 
 **Q: Do I need an account or license activation to use it?**
 A: Check the official download page for any registration or activation requirements.

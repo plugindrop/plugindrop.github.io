@@ -11,15 +11,20 @@ originalPrice: "$32.95"
 discount: "40% OFF"
 xText: "new plugins at 40% off have maybe 48 hours before they tick back to full price. this is when you move, not when you think about it"
 draft: false
+saleExpiry: "2026-07-31"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Malfunktion is currently 40% off at ADSR Sounds — drop from ~~$32.95~~ down to **$19.77**. That's over $13 in savings on a synth preset pack built for producers who want versatile, characterful sound design material. [Grab it here while the deal is live.](https://www.adsrsounds.com/product/presets/malfunktion/?a_aid=plugindrop&data1=malfunktion-78b8b1&utm_source=plugindrop&utm_medium=article&utm_campaign=malfunktion-78b8b1)
+
+## Price Context (tracked by PluginDrop)
+- Regular: $32.95
+- Verdict: **NO HISTORY** — The current deal is $19.77; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mu3qNQ2qPXI" title="40% Off Malfunktion — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is Malfunktion?
 
@@ -54,7 +59,7 @@ Malfunktion is a synth preset pack available on ADSR Sounds, designed to give pr
 |---|---|---|
 | ~~$32.95~~ | **$19.77** | ~$13.18 (40%) |
 
-A 40% discount is a meaningful cut — not every preset pack on ADSR Sounds reaches this discount tier. ADSR Sounds does run periodic sales across its catalog, but 40% off represents a solid window for this title. Verify current pricing on the product page — deals can change.
+A 40% discount is a meaningful cut — not every preset pack on ADSR Sounds reaches this discount tier. ADSR Sounds does run periodic sales across its catalog, but 40% off represents a solid window for this title.
 
 [Get Malfunktion for $19.77 at ADSR Sounds →](https://www.adsrsounds.com/product/presets/malfunktion/?a_aid=plugindrop&data1=malfunktion-78b8b1&utm_source=plugindrop&utm_medium=article&utm_campaign=malfunktion-78b8b1)
 
@@ -75,7 +80,6 @@ If your main goal is filling out a specific synth's sound bank, the manufacturer
 ## FAQ
 
 **Q: What synths or DAWs is Malfunktion compatible with?**
-A: Check the official product page on ADSR Sounds for the full list of compatible formats and synths — this is important to verify before purchasing.
 
 **Q: Is this a one-time purchase or a subscription?**
 A: ADSR Sounds sells individual products as single purchases. Verify the license terms on the product page for exact details.
@@ -103,7 +107,6 @@ At 40% off, this sits in the "act now or miss it" category for producers already
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

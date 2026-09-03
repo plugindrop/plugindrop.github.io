@@ -10,13 +10,19 @@ dealPrice: "$15.00"
 originalPrice: "$49.00"
 discount: "69% OFF"
 draft: false
+saleExpiry: "2023-02-26"
 ---
 **TL;DR:** Solid State Logic's X Limit plugin is ~~$49~~ **$15** at Plugin Boutique right now, a 69% discount. It's a straightforward limiter built for peak control on mixes and masters, and at this price it's one of the cheaper ways to add an SSL-branded processor to your chain. [Grab the deal here](https://www.pluginboutique.com/search?q=SSL+X+Limit&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-limit-f87e1c).
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2023-02-26 (12 observations)
+- Lowest we've tracked: $15 · Typical sale: $15 · Regular: $49
+- Verdict: **BUY NOW** — the current $15 price is within 5% of the $15 lowest tracked price.
+- Sale pattern: auto-crawl 2026-08-23
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/J_0RBFtungQ" title="69% Off SSL X Limit — Mastering-Grade Limiting for Mixes ($15) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is SSL X Limit?
 
@@ -29,8 +35,6 @@ X Limit is a limiter plugin from Solid State Logic, the UK console manufacturer 
 - **Native plugin formats** — runs as a standard VST/AU/AAX plugin inside your DAW; check the product page for the exact format and OS compatibility list.
 - **Metering** — includes input, output, and gain reduction metering so you can watch how hard the limiter is working in real time.
 - **Mix bus and master use** — positioned as a tool for both mix bus glue-and-limit duties and final master peak control.
-
-Check the official product page for the full spec sheet, including oversampling options and exact latency figures, since SSL updates these details periodically.
 
 ## Who Is It For?
 
@@ -47,7 +51,7 @@ Producers who need multiple limiting algorithms, detailed true-peak controls, or
 |---|---|---|
 | ~~$49.00~~ | **$15.00** | $34.00 (69%) |
 
-Plugin Boutique runs sales across its catalog regularly, and SSL's X-Series plugins have shown up in discounted bundles and promotions before. A 69% cut on a single plugin is a substantial markdown, so if X Limit fits your workflow, this is a reasonable price point to act on. Verify current pricing on the product page — deals can change.
+Plugin Boutique runs sales across its catalog regularly, and SSL's X-Series plugins have shown up in discounted bundles and promotions before. A 69% cut on a single plugin is a substantial markdown, so if X Limit fits your workflow, this is a reasonable price point to act on.
 
 [Get SSL X Limit at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+X+Limit&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-limit-f87e1c).
 
@@ -64,13 +68,13 @@ If you already own your DAW's stock limiter and just need basic peak control, th
 ## FAQ
 
 **Q: Does SSL X Limit require iLok?**
-A: SSL plugins commonly use iLok or account-based licensing depending on the product line. Check the product page for the exact activation method before buying.
+A: SSL plugins commonly use iLok or account-based licensing depending on the product line.
 
 **Q: Is this a one-time purchase or a subscription?**
 A: Plugin Boutique listings for SSL X-Series plugins are typically sold as perpetual licenses. Confirm the license type on the product page before checkout.
 
 **Q: What DAWs and formats does it support?**
-A: X Limit runs as a native VST/AU/AAX plugin. Check the official product page for the current OS and DAW compatibility list.
+A: X Limit runs as a native VST/AU/AAX plugin.
 
 **Q: Can I use X Limit for mastering, or is it just for mix bus work?**
 A: SSL positions X-Series plugins for both mix bus and master bus use. Whether it fits your specific mastering workflow depends on the algorithm and metering depth, so review the feature list on the product page first.
@@ -79,7 +83,7 @@ A: SSL positions X-Series plugins for both mix bus and master bus use. Whether i
 
 $34 off a limiter from a console manufacturer with decades of mix bus pedigree is not a small discount. At $15, it's a low-risk way to try an SSL plugin.
 
-[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+X+Limit&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-limit-f87e1c).
+pluginboutique.com/search?q=SSL+X+Limit&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-limit-f87e1c).
 
 ## Is This Deal Worth It?
 
@@ -88,7 +92,6 @@ A 69% discount is a large cut for a plugin from an established brand like SSL, a
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

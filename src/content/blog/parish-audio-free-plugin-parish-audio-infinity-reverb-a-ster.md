@@ -10,8 +10,13 @@ score: 5.88
 dealPrice: "$0"
 xText: "parish audio infinity reverb is live and free. like, actually no cost. if you're into lush ambience and spatial depth, this sits in a mix like butter. the deal here is it won't last. grab it."
 draft: false
+saleExpiry: "2026-06-20"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Parish Audio's Infinity Reverb is completely free — grab a professional-grade stereo reverb plugin at no cost. Designed for lush ambience and deep spatial textures, this is a zero-risk addition to any plugin folder. [Download it free here.](https://parishaudio.com/products/infinity-reverb)
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -64,10 +69,9 @@ If you need a traditional room or hall reverb with multiple modes, OrilRiver cov
 ## FAQ
 
 **Q: Is Parish Audio Infinity Reverb really free?**
-A: Yes, it is listed as a free plugin on the Parish Audio website. Check the product page to confirm current availability and any download requirements.
+A: Yes, it is listed as a free plugin on the Parish Audio website.
 
 **Q: Does it require iLok or a paid license manager?**
-A: Check the official product page for activation and license details — this is not confirmed here.
 
 **Q: What plugin formats does Infinity Reverb support?**
 A: Supported formats (VST, AU, AAX, etc.) and system requirements are listed on the Parish Audio product page — verify there before downloading.
@@ -83,7 +87,6 @@ A free professional stereo reverb plugin with no strings attached is worth a two
 
 - [15 Best Free Reverb VST Plugins in 2026](/posts/best-free-reverb-vst-plugins/)
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
-
 
 ---
 

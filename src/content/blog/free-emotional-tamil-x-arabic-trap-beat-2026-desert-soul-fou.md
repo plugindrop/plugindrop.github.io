@@ -9,8 +9,15 @@ score: 6.30
 dealPrice: "FREE"
 xText: "fouzan dropped a free tamil x arabic trap pack called desert soul and the emotional depth + sample quality is honestly ridiculous for zero dollars. this thing goes straight into rotation."
 draft: false
+saleExpiry: "2026-08-02"
 ---
 **TL;DR:** "Desert Soul" by Fouzan Beats is available **free for non-profit use** right now — a cinematic Tamil x Arabic trap fusion beat with zero upfront cost. Commercial licensing is available separately; check the product page for terms. Grab it directly at [Fouzan Beats on YouTube](https://www.youtube.com/@Fouzan-Beats-foryou).
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-08-02 (4 observations)
+- Lowest we've tracked: $34 · Typical sale: $34 · Regular: $149.99
+- Verdict: **BUY NOW** — the current $0 price is within 5% of the $34 lowest tracked price.
+- Sale pattern: auto-crawl 2026-08-02
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/12vrpHnVJ44" title="FREE — Emotional Tamil x Arabic Trap Beat 2026 | &quot;Desert Soul&quot; | Fouzan Beats — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -43,8 +50,6 @@ draft: false
 | Verify on product page | **FREE** (non-profit) | 100% on non-profit license |
 
 Commercial licensing rates and terms are available directly through Fouzan Beats. Free use is confirmed for non-profit applications — no cost, no catch for qualifying projects.
-
-Note: Verify current pricing on the product page — deals can change.
 
 **[Get the free beat at Fouzan Beats →](https://www.youtube.com/@Fouzan-Beats-foryou)**
 

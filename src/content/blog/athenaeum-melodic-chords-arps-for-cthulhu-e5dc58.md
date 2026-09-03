@@ -11,15 +11,20 @@ originalPrice: "$200.99"
 discount: "88% OFF"
 xText: "88% off athenaeum melodic chords & arps for cthulhu. lowest i've seen discount-wise on this kind of thing. if your synth's still using stock patterns you're sleeping"
 draft: false
+saleExpiry: "2026-08-25"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Athenaeum, a preset bank of melodic chords and arps built for Xfer Records' free Cthulhu plugin, is ~~$200.99~~ $24.99 at ADSR Sounds right now — an 88% discount. If you already run Cthulhu and want a fast source of atmospheric chord and arp ideas, [grab Athenaeum here](https://www.adsrsounds.com/product/wav-samples/athenaeum-melodic-chords-arps-for-cthulhu/?a_aid=plugindrop&data1=athenaeum-melodic-chords-arps-for-cthulhu-e5dc58&utm_source=plugindrop&utm_medium=article&utm_campaign=athenaeum-melodic-chords-arps-for-cthulhu-e5dc58) while the sale is live.
+
+## Price Context (tracked by PluginDrop)
+- Regular: $200.99
+- Verdict: **NO HISTORY** — The current deal is $24.99; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="audio-embed">
 <audio controls style="width:100%">
   <source src="https://adsrsounds.com/mp3/1130535-820126663.mp3">
 </audio>
 </div>
-
 
 ## What Is Athenaeum?
 
@@ -48,7 +53,7 @@ Because Cthulhu is MIDI-only, Athenaeum's presets work with whatever synth or sa
 |---|---|---|
 | ~~$200.99~~ | $24.99 | ~$176 (88%) |
 
-An 88% discount is a steep markdown by any standard, and it's worth verifying the exact terms before checkout since ADSR runs time-limited promotions that can shift. Verify current pricing on the product page — deals can change.
+An 88% discount is a steep markdown by any standard, and it's worth verifying the exact terms before checkout since ADSR runs time-limited promotions that can shift.
 
 [See the deal on ADSR Sounds](https://www.adsrsounds.com/product/wav-samples/athenaeum-melodic-chords-arps-for-cthulhu/?a_aid=plugindrop&data1=athenaeum-melodic-chords-arps-for-cthulhu-e5dc58&utm_source=plugindrop&utm_medium=article&utm_campaign=athenaeum-melodic-chords-arps-for-cthulhu-e5dc58) to confirm the price at checkout.
 
@@ -87,7 +92,6 @@ An 88% markdown is well outside the typical 20-30% range most sample and preset 
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

@@ -10,11 +10,15 @@ dealPrice: "$609.00"
 discount: "80% OFF"
 xText: "80% off audio blast creative effects—rarely see these drop this far. if your reverbs and distortions are tired, this is the moment."
 draft: false
+saleExpiry: "2026-08-01"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Plugin Boutique is running a limited-time "Creative Effects" sale on Audio Blast plugins with discounts of up to 80% off regular prices. The current deal price starts at $609.00 for the collection — original pricing varies by plugin, so check the product page for exact savings per title. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/products/14109-Blast-Delay?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-80-on-creative-effect-plugins-by-audio-blast&chan=art&data1=save-up-to-80-on-creative-effect-plugins-by-audio-blast)
 
----
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $609; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
+---
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/S013XcjaWxY" title="Rave Generator 3, Abx3 and Mininn Drum Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -56,8 +60,6 @@ This isn't a generic developer cranking out clones of existing tools. Audio Blas
 | Verify on product page | From **$609.00** | Up to **80% off** |
 
 The "up to 80%" framing means individual plugin discounts vary — some titles in the Audio Blast catalog will be discounted more steeply than others. Always confirm individual plugin pricing directly on the product page before purchasing, as deal percentages shift across a multi-product promotion.
-
-> **Note:** Verify current pricing on the product page — deals can change without notice.
 
 [Check current prices and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/products/14109-Blast-Delay?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-80-on-creative-effect-plugins-by-audio-blast&chan=art&data1=save-up-to-80-on-creative-effect-plugins-by-audio-blast)
 
@@ -105,7 +107,6 @@ Audio Blast is a niche developer without the broad sale history of larger publis
 
 - [10 Best Free Delay VST Plugins in 2026](/posts/best-free-delay-vst-plugins/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

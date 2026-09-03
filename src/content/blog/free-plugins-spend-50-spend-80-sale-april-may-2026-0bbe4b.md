@@ -10,8 +10,15 @@ originalPrice: "$29.99."
 xText: "go grab the free plugin promo while it's live through may. the spend-50-spend-80 math is stupid good. your future self will thank you for padding the vst cabinet rn."
 draft: false
 heroImage: "/images/free-plugins-spend-50-spend-80-sale-april-may-2026-0bbe4b_og.jpg"
+saleExpiry: "2026-08-09"
 ---
 **TL;DR:** Waves is running a Beat Makers Sale through April–May 2026, with free plugins unlocked at two spend thresholds — hit $50 or $80 in qualifying purchases and a bonus plugin is added to your cart at no extra cost. The sale itself starts from $29.99. [→ Get Free Plugins at Waves](https://www.waves.com/free-plugins-spend-50-spend-80-sale-april-may-2026?utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugins-spend-50-spend-80-sale-april-may-2026-0bbe4b)
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-08-09 (31 observations)
+- Lowest we've tracked: $69 · Typical sale: $69 · Regular: $149
+- Verdict: **BUY NOW** — the current $0 price is within 5% of the $69 lowest tracked price.
+- Sale pattern: auto-crawl 2026-08-09
 
 ---
 

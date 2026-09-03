@@ -10,15 +10,21 @@ dealPrice: "$90.00"
 originalPrice: "$129.00"
 discount: "30% OFF"
 draft: false
+saleExpiry: "2026-08-23"
 ---
 If you only pick up one drum processor this month, DB 30 Drum Butter is worth a look at 30% off — it's built specifically for shaping punch and weight on drum busses, not a general-purpose channel strip you're stretching to fit the job.
 
 **TL;DR:** DB 30 Drum Butter is ~~$129~~ **$90** at Plugin Boutique right now, a 30% discount. It's a drum-focused processing plugin aimed at adding punch, weight, and character to individual drums or full drum busses. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=DB+30+Drum+Butter&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=db-30-drum-butter-2667e3) while the sale is live.
 
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-08-23 (7 observations)
+- Lowest we've tracked: $90 · Typical sale: $90 · Regular: $129
+- Verdict: **BUY NOW** — the current $90 price is within 5% of the $90 lowest tracked price.
+- Sale pattern: auto-crawl 2026-08-23
+
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/u6vxbg5bWDI" title="30% Off DB 30 Drum Butter — Punch & Weight for Drum Busses ($90) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is DB 30 Drum Butter?
 
@@ -30,8 +36,6 @@ DB 30 Drum Butter is a drum processing plugin sold through Plugin Boutique, desi
 - **Punch and weight controls** — core to the plugin's design is adding low-end body and front-end impact to kicks, snares, and full drum busses.
 - **Streamlined workflow** — built for quick decisions on a drum bus rather than deep multi-stage editing, according to the product page.
 - **Compatible with major DAWs** — check the product page for the full list of supported plugin formats (VST, VST3, AU, AAX) and host compatibility.
-
-For exact parameter names, macro controls, and signal chain details, check the product page — this is deal information, not a hands-on breakdown.
 
 ## Who Is It For?
 
@@ -46,9 +50,9 @@ For exact parameter names, macro controls, and signal chain details, check the p
 |---|---|---|
 | ~~$129.00~~ | **$90.00** | $39.00 (30%) |
 
-Plugin Boutique runs discounts across its catalog regularly, and 30% is a solid mid-tier markdown for a drum-specific tool rather than a bundle. Verify current pricing on the product page — deals can change.
+Plugin Boutique runs discounts across its catalog regularly, and 30% is a solid mid-tier markdown for a drum-specific tool rather than a bundle.
 
-[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=DB+30+Drum+Butter&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=db-30-drum-butter-2667e3) before it ends.
+pluginboutique.com/search?q=DB+30+Drum+Butter&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=db-30-drum-butter-2667e3) before it ends.
 
 ## Alternatives at a Glance
 
@@ -66,13 +70,13 @@ If you need pure attack and sustain control with nothing else in the signal path
 A: Deals listed on Plugin Boutique are typically one-time purchases with a perpetual license, but confirm the license terms on the product checkout page before buying.
 
 **Q: Does DB 30 Drum Butter require iLok or another authorization system?**
-A: Authorization methods vary by developer. Check the product page for details on iLok, challenge-response, or online activation requirements.
+A: Authorization methods vary by developer.
 
 **Q: What DAWs and plugin formats does it support?**
 A: Supported formats (VST, VST3, AU, AAX) and DAW compatibility are listed on the official product page — check there before purchasing if compatibility is a concern.
 
 **Q: How long will the 30% discount last?**
-A: Plugin Boutique deals can change or expire without notice. Check the product page for the current price and any listed end date.
+A: Plugin Boutique deals can change or expire without notice.
 
 ## Get the Deal
 
@@ -88,7 +92,6 @@ A 30% discount is a reasonable, mid-range markdown by typical plugin store stand
 
 - [Complete Drum Mixing Plugin Chain](/posts/drum-mixing-plugin-chain/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

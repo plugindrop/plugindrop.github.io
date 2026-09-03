@@ -11,9 +11,15 @@ originalPrice: "$175.00"
 discount: "30% OFF"
 xText: "elastiquepitch v2.5 just dropped at 30% off. if you're doing any tempo or key changes this year, grab this while it's this cheap. transparent quality at a price that actually makes sense."
 draft: false
+saleExpiry: "2023-11-19"
 ---
 **TL;DR:** zplane's ElastiquePitch V2.5 is currently ~~$175.00~~ **$122.50** at Plugin Boutique, a 30% discount. If you need real-time pitch shifting or correction built on zplane's élastique engine, this is a straightforward way to pick it up below list price. [Get ElastiquePitch V2.5 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/4185-ElastiquePitch-V2-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=elastiquepitch-v2-5-7d3be3&chan=art&data1=elastiquepitch-v2-5-7d3be3).
 
+## Price Context (tracked by PluginDrop)
+- Tracked since 2023-11-19 (13 observations)
+- Lowest we've tracked: $29 · Regular: $112
+- Verdict: **WAIT** — the current $122.5 price is not within 5% of the $29 lowest tracked price.
+- Sale pattern: auto-crawl 2026-07-19
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/5ZUbftSKuJk" title="Introducing: ELASTIQUE PITCH Version 2.5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -44,7 +50,7 @@ ElastiquePitch V2.5 is a real-time pitch shifting and correction plugin from zpl
 |---|---|---|
 | ~~$175.00~~ | $122.50 | $52.50 (30%) |
 
-Plugin Boutique regularly runs percentage-based sales across its effects catalog, and 30% is a solid discount for a specialized pitch-processing tool. Verify current pricing on the product page — deals can change without notice.
+Plugin Boutique regularly runs percentage-based sales across its effects catalog, and 30% is a solid discount for a specialized pitch-processing tool.
 
 [Check the current deal price on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/4185-ElastiquePitch-V2-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=elastiquepitch-v2-5-7d3be3&chan=art&data1=elastiquepitch-v2-5-7d3be3).
 
@@ -64,7 +70,6 @@ If you want deep, note-by-note editing after the fact, Melodyne handles that in 
 A: It provides real-time pitch shifting and correction for vocals and instruments, using zplane's élastique audio engine.
 
 **Q: Does it require an iLok or other hardware dongle?**
-A: Check the product page for current activation and licensing requirements before buying.
 
 **Q: What plugin formats and DAWs does it support?**
 A: Plugin Boutique's product page lists the current supported formats and system requirements — confirm compatibility with your DAW before purchase.
@@ -86,7 +91,6 @@ Plugin Boutique runs frequent site-wide and product-specific sales, so a 30% dis
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
 - [Complete Vocal Processing Chain](/posts/vocal-processing-chain-plugins/)
-
 
 ---
 

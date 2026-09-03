@@ -9,9 +9,14 @@ dealPrice: "$59"
 originalPrice: "$99"
 discount: "40% OFF"
 heroImage: "/images/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr.png"
-
+saleExpiry: "2026-05-20"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** AIR Music Technology's Fabric Vintage Jup is down to **$59** (~~$99~~) at ADSR Sounds — 40% off on a Jupiter-inspired soft synth that rarely goes on sale. [Grab the deal here](https://www.adsrsounds.com/product/software/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instrument/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr) before it expires.
+
+## Price Context (tracked by PluginDrop)
+- Regular: $99
+- Verdict: **NO HISTORY** — The current deal is $59; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -53,9 +58,9 @@ Fabric Vintage Jup is a relatively niche title within AIR's catalog, so large-sc
 |---|---|---|
 | ~~$99~~ | **$59** | $40 (40% off) |
 
-AIR Music Tech plugins don't run sales as frequently as some subscription-model competitors — when a discount appears on ADSR Sounds, it's worth noting. Deal windows can close without notice, so check the product page for the current price before purchasing.
+AIR Music Tech plugins don't run sales as frequently as some subscription-model competitors — when a discount appears on ADSR Sounds, it's worth noting.
 
-[Check the current price and grab the deal at ADSR Sounds →](https://www.adsrsounds.com/product/software/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instrument/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr)
+adsrsounds.com/product/software/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instrument/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr)
 
 ---
 
@@ -74,7 +79,6 @@ If Jupiter-specific character is the priority and you want a one-time purchase w
 ## FAQ
 
 **Q: Does AIR Music Tech Fabric Vintage Jup require iLok?**
-A: Check the official product page for the current activation method — AIR uses their own license manager for most titles, but requirements can vary.
 
 **Q: What DAWs are supported?**
 A: The plugin is available in VST, AU, and AAX formats, covering most major DAWs. Confirm specific version compatibility on the product page.
@@ -83,7 +87,6 @@ A: The plugin is available in VST, AU, and AAX formats, covering most major DAWs
 A: AIR Music Tech titles on ADSR Sounds are typically sold as perpetual licenses. Verify license terms on the product page before purchasing.
 
 **Q: What are the system requirements?**
-A: Check the official product page for current macOS/Windows version requirements and minimum specs.
 
 ---
 

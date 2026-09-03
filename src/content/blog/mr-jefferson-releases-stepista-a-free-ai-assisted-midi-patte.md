@@ -11,8 +11,14 @@ dealPrice: "FREE"
 originalPrice: "$49"
 draft: false
 score: 1.84
+saleExpiry: "2026-05-03"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Mr. Jefferson just dropped **Stepista**, an AI-assisted MIDI pattern generator — and it's **completely free**. No ~~$49~~ sale price, no coupon code. Just free. It generates drum patterns, basslines, melodies, and grooves using AI and music-theory algorithms across 24 genre presets. [Grab Stepista for free here.](https://stepista.vercel.app)
+
+## Price Context (tracked by PluginDrop)
+- Regular: $49
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## What Is Stepista?
 
@@ -66,7 +72,7 @@ A: VST3 for Windows, macOS, and Linux. AU for macOS. No VST2 or AAX format has b
 A: It generates drum patterns, basslines, melodies, and grooves. The nine musical modes let you lock melodic output to specific keys and scales.
 
 **Q: What are the system requirements?**
-A: Check the official product page at stepista.vercel.app for current system requirements and download links.
+vercel.app for current system requirements and download links.
 
 ## Get the Deal
 

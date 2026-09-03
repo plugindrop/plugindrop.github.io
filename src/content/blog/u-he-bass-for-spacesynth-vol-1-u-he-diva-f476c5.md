@@ -11,8 +11,16 @@ originalPrice: "$29"
 discount: "40% OFF"
 xText: "new diva spacesynth bass pack just dropped at 40% off. analog modeling this good doesn't typically discount on release. if you've been curious about ambient textures this hits different"
 draft: false
+saleExpiry: "2023-11-24"
 ---
 **TL;DR:** U-he Bass For Spacesynth Vol 1 is currently 40% off at ADSR Sounds — down from ~~$29~~ to just $17.40. If you produce spacesynth, italo disco, or retro sci-fi electronic music with U-he Diva, this is a focused bass preset library worth picking up at this price. [Grab the deal on ADSR Sounds.](https://www.adsrsounds.com/product/presets/u-he-bass-for-spacesynth-vol-1-u-he-diva/?a_aid=plugindrop&data1=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5)
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2023-11-24 (22 observations)
+- Lowest we've tracked: $119 · Typical sale: $89 · Regular: $179
+- Verdict: **BUY NOW** — the current $17.4 price is within 5% of the $119 lowest tracked price.
+- Sale pattern: Regular ~$179 (179 EUR) direct from u-he & Plugin Boutique. Goes on sale a few times/year incl. Black Friday/Cyber Monday (~50% off) and other seasonal retailer promos; reported sale price ~$89 at Sweetwater (anecdotal, not a tracked price-history record).
+- Cheaper right now in the same category: [Vital](/plugin-prices/vital/) ($0)
 
 ---
 
@@ -21,7 +29,6 @@ draft: false
   <source src="https://adsrsounds.com/mp3/2307784-2312173556.mp3">
 </audio>
 </div>
-
 
 ## What Is U-he Bass For Spacesynth Vol 1?
 
@@ -54,7 +61,7 @@ Bass For Spacesynth Vol 1 is a preset library designed specifically for U-he Div
 |---|---|---|
 | ~~$29~~ | **$17.40** | $11.60 (40% off) |
 
-40% is a meaningful discount for a genre-specific preset pack. ADSR Sounds does run periodic sales, but specialized packs like this don't always get standalone discounts — when they do, it's worth acting. Verify current pricing on the product page — deals can change.
+40% is a meaningful discount for a genre-specific preset pack. ADSR Sounds does run periodic sales, but specialized packs like this don't always get standalone discounts — when they do, it's worth acting.
 
 [Get Bass For Spacesynth Vol 1 at $17.40 on ADSR Sounds.](https://www.adsrsounds.com/product/presets/u-he-bass-for-spacesynth-vol-1-u-he-diva/?a_aid=plugindrop&data1=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5)
 
@@ -81,7 +88,7 @@ A: Yes. These are Diva-native presets and require a licensed copy of U-he Diva t
 A: It is a synth preset pack — these are patch files for Diva, not audio samples or loops.
 
 **Q: What genres work best with these presets beyond spacesynth?**
-A: Based on the genre focus, these bass tones are well-suited to italo disco, synthwave, cosmic disco, and retro electronic music broadly. Check the product page for audio demos to confirm fit for your style.
+A: Based on the genre focus, these bass tones are well-suited to italo disco, synthwave, cosmic disco, and retro electronic music broadly.
 
 **Q: Where can I hear demos before buying?**
 A: Audio previews are available on the [ADSR Sounds product page.](https://www.adsrsounds.com/product/presets/u-he-bass-for-spacesynth-vol-1-u-he-diva/?a_aid=plugindrop&data1=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5)

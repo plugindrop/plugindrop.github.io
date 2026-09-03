@@ -11,15 +11,21 @@ originalPrice: "$200.99"
 discount: "88% OFF"
 xText: "this is the cheapest per-preset pricing i've seen in years. massive bundle birthday sale. if you've been waiting for the dip, this is it"
 draft: false
+saleExpiry: "2024-01-16"
 ---
 **TL;DR:** ADSR Sounds has the NI Massive Preset Bundle marked down to $24.99 from ~~$200.99~~, an 88% discount on a collection built for Native Instruments' Massive synth. That works out to well under $0.25 per preset if the bundle holds 100+ patches. [Grab the deal at ADSR Sounds](https://www.adsrsounds.com/product/presets/ni-massive-preset-bundle-birthday-sale/?a_aid=plugindrop&data1=ni-massive-preset-bundle-birthday-sale-d31f06&utm_source=plugindrop&utm_medium=article&utm_campaign=ni-massive-preset-bundle-birthday-sale-d31f06) before pricing reverts.
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2024-01-16 (24 observations)
+- Lowest we've tracked: $29 · Regular: $99
+- Verdict: **BUY NOW** — the current $24.99 price is within 5% of the $29 lowest tracked price.
+- Sale pattern: auto-crawl 2026-08-02
 
 <div class="audio-embed">
 <audio controls style="width:100%">
   <source src="https://adsrsounds.com/mp3/2058509-1480164748.mp3">
 </audio>
 </div>
-
 
 ## What Is the NI Massive Preset Bundle?
 
@@ -31,8 +37,6 @@ This is a preset pack built specifically for Native Instruments Massive, the wav
 - **Genre coverage** — preset bundles for Massive typically span bass, lead, pad, and pluck categories common in electronic and bass music production; verify the specific genre tags on the product page.
 - **Native Instruments Massive compatibility** — presets are built to load directly into Massive, so you'll need the synth installed for them to work.
 - **Instant delivery** — as a digital preset bundle, delivery is typically immediate after purchase through ADSR's platform.
-
-Check the product page for the full preset list, category breakdown, and any requirements around Massive version compatibility.
 
 ## Who Is It For?
 
@@ -49,9 +53,9 @@ If you don't already own Native Instruments Massive, this bundle won't do anythi
 |---|---|---|
 | ~~$200.99~~ | $24.99 | ~88% ($176) |
 
-If the bundle contains 100+ presets, that's roughly $0.25 or less per preset at the sale price. ADSR runs preset and plugin promotions regularly under various themed sales, so discounts on preset bundles do appear periodically throughout the year. Verify current pricing on the product page — deals can change, and this listing is tied to a specific "birthday sale" promotion that may have an end date.
+If the bundle contains 100+ presets, that's roughly $0.25 or less per preset at the sale price. ADSR runs preset and plugin promotions regularly under various themed sales, so discounts on preset bundles do appear periodically throughout the year.
 
-[Check current pricing and availability at ADSR Sounds](https://www.adsrsounds.com/product/presets/ni-massive-preset-bundle-birthday-sale/?a_aid=plugindrop&data1=ni-massive-preset-bundle-birthday-sale-d31f06&utm_source=plugindrop&utm_medium=article&utm_campaign=ni-massive-preset-bundle-birthday-sale-d31f06)
+adsrsounds.com/product/presets/ni-massive-preset-bundle-birthday-sale/?a_aid=plugindrop&data1=ni-massive-preset-bundle-birthday-sale-d31f06&utm_source=plugindrop&utm_medium=article&utm_campaign=ni-massive-preset-bundle-birthday-sale-d31f06)
 
 ## Alternatives at a Glance
 
@@ -69,10 +73,10 @@ If you want the lowest-cost way to expand your Massive library right now, this b
 A: Yes. This bundle is a set of presets built for Massive, not a standalone instrument, so Massive must already be installed.
 
 **Q: Is this a one-time purchase or a subscription?**
-A: Preset bundles sold through ADSR are typically one-time purchases with perpetual access to the download. Check the product page to confirm the license terms for this specific listing.
+A: Preset bundles sold through ADSR are typically one-time purchases with perpetual access to the download.
 
 **Q: How many presets are included?**
-A: The listing describes 100+ presets. Check the product page for the exact count and category breakdown.
+A: The listing describes 100+ presets.
 
 **Q: Does ADSR offer refunds on preset packs?**
 A: Refund policies vary by product type on digital marketplaces. Check ADSR's official refund policy on the site before purchasing.
@@ -90,7 +94,6 @@ An 88% discount is a steep markdown even by preset-bundle standards, where list 
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

@@ -9,9 +9,14 @@ heroImage: "/images/vst-plugin-black-friday-guide.jpg"
 score: 9.0
 evergreen: true
 draft: false
+saleExpiry: "2026-10-01"
+saleExpirySource: "fallback"
 ---
 
 **TL;DR:** Plugin Black Friday runs the entire month of November. FabFilter drops exactly 25% every year without fail. Arturia and u-he go 50% off in good years. NI calls theirs "Cyber Season" and starts November 1. Spitfire adds 20% extra for email subscribers. Valhalla and Serum never go on sale — ever. This guide covers what to expect, what the actual prices were in 2023–2024, and how to avoid buying something that will be cheaper in three weeks.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $75; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 

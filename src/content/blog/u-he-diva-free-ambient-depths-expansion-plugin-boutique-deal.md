@@ -8,8 +8,15 @@ heroImage: "/images/u-he-diva-free-ambient-depths-expansion-plugin-boutique-deal
 dealPrice: "FREE"
 score: 6.30
 draft: false
+saleExpiry: "2026-08-09"
 ---
 **TL;DR:** u-he's Diva synth just got a free expansion — *Ambient Depths* is available at no cost through Plugin Boutique right now. Free means free: ~~paid~~ $0. If you own Diva, there's no reason not to grab it. Download Ambient Depths free at Plugin Boutique.
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-08-09 (6 observations)
+- Lowest we've tracked: $179 · Typical sale: $179 · Regular: $198.89
+- Verdict: **BUY NOW** — the current $0 price is within 5% of the $179 lowest tracked price.
+- Sale pattern: auto-crawl 2026-08-09
 
 ---
 
@@ -76,10 +83,10 @@ If you own Diva and produce ambient or cinematic music, the Ambient Depths expan
 A: Yes. This is a preset expansion for Diva — the full Diva synthesizer is required to load and use these presets.
 
 **Q: Is the Ambient Depths expansion really free?**
-A: It is listed as a free download on Plugin Boutique. Check the product page to confirm current availability, as free listings can be time-limited.
+A: It is listed as a free download on Plugin Boutique.
 
 **Q: Does this require iLok or a separate activation?**
-A: Diva uses u-he's own licensing system. For specific activation requirements for this expansion, check the official product page.
+A: Diva uses u-he's own licensing system.
 
 **Q: What genres is Ambient Depths suited for?**
 A: Based on the product description, the expansion targets ambient, atmospheric, cinematic, and experimental electronic music production.

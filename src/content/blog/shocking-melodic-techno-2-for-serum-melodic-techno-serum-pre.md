@@ -11,8 +11,14 @@ originalPrice: "$13.99"
 discount: "40% OFF"
 xText: "40% off shocking melodic techno 2 for serum, full midi bundled. lowest it's gone. absolute sleeper deal if you're working on melodic techno."
 draft: false
+saleExpiry: "2026-07-17"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Vandalism's *Shocking Melodic Techno 2 For Serum* is currently **40% off** at ADSR Sounds — drop from ~~$13.99~~ to **$8.39**. That's a full melodic techno preset and MIDI bundle for under $9. [Grab it at ADSR Sounds before the price resets.](https://www.adsrsounds.com/product/presets/vandalism-shocking-melodic-techno-2-for-serum/?a_aid=plugindrop&data1=shocking-melodic-techno-2-for-serum-melodic-techno-serum-pre&utm_source=plugindrop&utm_medium=article&utm_campaign=shocking-melodic-techno-2-for-serum-melodic-techno-serum-pre)
+
+## Price Context (tracked by PluginDrop)
+- Regular: $13.99
+- Verdict: **NO HISTORY** — The current deal is $8.39; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -21,7 +27,6 @@ draft: false
   <source src="https://adsrsounds.com/mp3/2310682-2325023651.mp3">
 </audio>
 </div>
-
 
 ## What Is Shocking Melodic Techno 2 For Serum?
 
@@ -56,8 +61,6 @@ Shocking Melodic Techno 2 is a preset and MIDI collection by **Vandalism**, a so
 
 Vandalism's packs are priced accessibly to begin with, so a 40% discount brings this into impulse-buy territory. Whether this sale price recurs frequently isn't something that can be stated with certainty — check the product page for current pricing if you're reading this after the sale window.
 
-> **Note:** Verify current pricing on the product page — deals can change.
-
 [Get Shocking Melodic Techno 2 at ADSR Sounds for $8.39 →](https://www.adsrsounds.com/product/presets/vandalism-shocking-melodic-techno-2-for-serum/?a_aid=plugindrop&data1=shocking-melodic-techno-2-for-serum-melodic-techno-serum-pre&utm_source=plugindrop&utm_medium=article&utm_campaign=shocking-melodic-techno-2-for-serum-melodic-techno-serum-pre)
 
 ---
@@ -77,7 +80,7 @@ If you want cohesion with an existing Vandalism workflow, Volume 1 pairs natural
 ## FAQ
 
 **Q: Do I need anything besides Serum to use this pack?**
-A: You need a licensed copy of Xfer Records Serum installed. Check the official product page for any additional requirements.
+A: You need a licensed copy of Xfer Records Serum installed.
 
 **Q: Does this work with the free Serum trial?**
 A: Preset functionality depends on your Serum license status. Refer to Xfer Records' documentation for trial limitations.
@@ -101,7 +104,6 @@ A: Check ADSR Sounds' official site for their current terms on digital downloads
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

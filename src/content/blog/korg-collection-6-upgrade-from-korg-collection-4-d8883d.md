@@ -15,8 +15,13 @@ draft: true
 ---
 **TL;DR:** KORG Collection 6 Upgrade from Collection 4 is currently **$99.00** (~~$149.00~~) at Plugin Boutique — a 34% discount that saves you $50 on the upgrade path. If you're sitting on a Collection 4 license and want everything added since, this is the targeted SKU to do it. [Grab the deal at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16118-KORG-Collection-6-Upgrade-from-KORG-Collection-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-upgrade-from-korg-collection-4-d8883d&chan=art&data1=korg-collection-6-upgrade-from-korg-collection-4-d8883d)
 
----
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-07-12 (36 observations)
+- Lowest we've tracked: $199 · Typical sale: $199 · Regular: $399
+- Verdict: **BUY NOW** — the current $99 price is within 5% of the $199 lowest tracked price.
+- Sale pattern: auto-crawl 2026-07-12
 
+---
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/-fPucWPCoMM" title="KORG Collection 6 is HERE!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -61,8 +66,6 @@ KORG Collection has been a recognized name in the software synth community for y
 
 A 34% discount is a meaningful reduction for KORG software. KORG doesn't run steep sales constantly — this isn't a brand that cycles through 50%-off weekends every month. Whether this is a time-limited window or an extended promotional price isn't always clear from the listing, so confirm the expiry on the product page before assuming it'll still be there next week.
 
-> Verify current pricing on the product page — deals can change without notice.
-
 [Get the KORG Collection 6 Upgrade for $99 →](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16118-KORG-Collection-6-Upgrade-from-KORG-Collection-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-upgrade-from-korg-collection-4-d8883d&chan=art&data1=korg-collection-6-upgrade-from-korg-collection-4-d8883d)
 
 ---
@@ -88,7 +91,6 @@ A: Yes. This is an upgrade-only SKU for existing Collection 4 license holders. C
 A: The exact additions are listed on the official KORG and Plugin Boutique product pages — check there for the confirmed instrument breakdown.
 
 **Q: What are the system requirements?**
-A: Check the product page for current Mac and Windows compatibility details, as these can update with new versions.
 
 **Q: Is this a perpetual license or a subscription?**
 A: KORG Collection has traditionally been sold as a perpetual license. Confirm the license type on the product page before purchasing, as terms can vary.
@@ -108,7 +110,6 @@ KORG doesn't aggressively discount their software the way some plugin brands do 
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

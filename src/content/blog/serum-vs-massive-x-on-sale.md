@@ -11,10 +11,17 @@ originalPrice: "$13.99"
 discount: "40% OFF"
 xText: "Serum (Xfer Records)  off — does it beat Massive X at this price?"
 draft: false
+saleExpiry: "2024-01-16"
 ---
 # Serum vs Massive X: Which Should You Buy on This Deal?
 
 **TL;DR:** Serum (Xfer Records) is on sale at $8.39 right now—significantly undercut ting Massive X at this price. If you produce electronic music and want creative wavetable synthesis with an intuitive workflow, this deal makes Serum the smarter choice for budget-conscious producers.
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2024-01-16 (24 observations)
+- Lowest we've tracked: $29 · Regular: $99
+- Verdict: **BUY NOW** — the current $8.39 price is within 5% of the $29 lowest tracked price.
+- Sale pattern: auto-crawl 2026-08-02
 
 ## Is Serum (Xfer Records) Worth It at $8.39?
 

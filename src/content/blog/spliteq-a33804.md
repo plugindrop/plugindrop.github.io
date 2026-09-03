@@ -11,8 +11,15 @@ originalPrice: "$163.9"
 discount: "47% OFF"
 xText: "47% off right now. split-band eqing is one of those things that sounds boring until you use it and realize how much time it saves"
 draft: true
+saleExpiry: "2021-11-09"
 ---
 **TL;DR:** Eventide SplitEQ is down 47% at Plugin Boutique — ~~$163.90~~ **$86.90**, saving you $77 on one of the most distinctive EQ concepts on the market. If you've been watching this one, now is a solid time to pull the trigger. [Grab it here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/8345-SplitEQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spliteq-a33804&chan=art&data1=spliteq-a33804)
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2021-11-09 (12 observations)
+- Lowest we've tracked: $75 · Typical sale: $75 · Regular: $149
+- Verdict: **WAIT** — the current $86.9 price is more than 15% above the $75 typical sale price.
+- Sale pattern: auto-crawl 2026-08-30
 
 ---
 
@@ -81,7 +88,6 @@ If budget is the top priority and you just need a capable dynamic EQ, TDR Nova c
 ## FAQ
 
 **Q: Does SplitEQ require an iLok dongle?**
-A: Check the official product page for current activation requirements, as these can change between versions.
 
 **Q: What formats does SplitEQ support?**
 A: SplitEQ is available in VST, VST3, AU, and AAX formats. Verify current system requirements on the product page.
@@ -90,7 +96,7 @@ A: SplitEQ is available in VST, VST3, AU, and AAX formats. Verify current system
 A: Plugin Boutique sells it as a perpetual license — you buy once and own it. Confirm on the product page if this has changed.
 
 **Q: Can SplitEQ be used on vocals?**
-A: The transient/tonal split is applicable to any audio source with distinct attack and sustain characteristics, including vocals. Check the product page for any workflow-specific documentation.
+A: The transient/tonal split is applicable to any audio source with distinct attack and sustain characteristics, including vocals.
 
 ---
 

@@ -11,10 +11,18 @@ originalPrice: "$13.99"
 discount: "40% OFF"
 xText: "Serum  off — does it beat Phase Plant at this price?"
 draft: false
+saleExpiry: "2021-12-08"
 ---
 # Serum on Sale at $8.39 — Compare to Phase Plant
 
 **TL;DR:** Serum is currently $8.39 (down from $13.99) — a rare discount that significantly undercuts Phase Plant's regular price. At this price, Serum becomes a no-brainer for producers looking for an established, industry-standard wavetable synth with a proven preset library and rock-solid CPU performance.
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2021-12-08 (35 observations)
+- Lowest we've tracked: $92 · Typical sale: $119 · Regular: $199
+- Verdict: **BUY NOW** — the current $8.39 price is within 5% of the $92 lowest tracked price.
+- Sale pattern: PB 14th Anniversary Feb 2026: $119 (40% off). ATL $92 recorded at Plugin Boutique. Kilohearts runs regular 40-50% off sales at PB.
+- Cheaper right now in the same category: [Vital](/plugin-prices/vital/) ($0)
 
 ## Is Serum Worth It at $8.39?
 
@@ -44,10 +52,10 @@ For a full head-to-head breakdown, read our [Serum vs Phase Plant: Which Wavetab
 
 ## FAQ
 
-**Q: Is Serum on sale right now?**  
-A: Yes — currently $8.39 (down from $13.99). [Verify the current price](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=serum-vs-phase-plant-2026-on-sale) at the link above, as deals can expire.
+**Q: Is Serum on sale right now?**
+A: Yes — currently $8.39 (down from $13.99).pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=serum-vs-phase-plant-2026-on-sale) at the link above, as deals can expire.
 
-**Q: How does Serum compare to Phase Plant?**  
+**Q: How does Serum compare to Phase Plant?**
 A: Serum is more streamlined and CPU-light, making it ideal for producers who need a reliable, immediate-sounding synth. Phase Plant offers more advanced modulation routing and a modern interface, but at a higher cost. Serum's strength is simplicity and versatility; Phase Plant excels at experimental sound design.
 
 ## Related Guides
@@ -55,7 +63,6 @@ A: Serum is more streamlined and CPU-light, making it ideal for producers who ne
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

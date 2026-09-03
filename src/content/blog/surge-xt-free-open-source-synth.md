@@ -8,9 +8,14 @@ dealPrice: "FREE"
 heroImage: "/images/surge-xt-free-open-source-synth.jpg"
 
 score: 2.54
+saleExpiry: "2026-04-24"
+saleExpirySource: "fallback"
 ---
 
 **TL;DR:** Surge XT — **free and open source.** A full-featured synthesizer with subtractive, wavetable, and FM synthesis. 3 oscillators, 2 filters, 14 filter algorithms, 1000+ factory presets, and a built-in FX section. This is not a stripped-down free version — it's the whole thing. [Get it here](https://surge-synthesizer.github.io/).
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1803556615"></iframe>

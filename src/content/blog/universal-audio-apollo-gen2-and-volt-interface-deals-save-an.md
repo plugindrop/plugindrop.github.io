@@ -9,11 +9,15 @@ score: 10.00
 dealPrice: "FREE"
 xText: "apollo gen2 with free plugins bundled. this is actually the moment. if you've been thinking about your interface situation, the timing just clicked."
 draft: false
+saleExpiry: "2026-06-06"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Universal Audio's Apollo Gen 2 and Volt interfaces are discounted at Thomann through the end of May — and Volt buyers get free native plugins thrown in at no extra cost. Verify current pricing on the product page, but the free add-ons alone make this worth a look. **[Browse the deals on Thomann →](https://www.thomann.de/intl/search_GK_stai_BF_universal_audio.html?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-apollo-gen2-and-volt-interface-deals-save-an)**
 
----
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
+---
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/3EXQUTh4oec" title="New Apollo X Gen 2 by Universal Audio | Review &amp; Sound Quality Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -44,7 +48,7 @@ Both lines are manufactured to professional standards and pair tightly with UA's
 **Volt Interfaces:**
 - **USB-C Connectivity** — plug-and-play with Mac and PC, no Thunderbolt required
 - **Vintage Mic Preamp Mode** — a hardware switch that adds transformer-style warmth to recordings
-- **Bundled Native Plugins** — includes UA software at no extra cost (check the product page for current bundle contents)
+
 - **Built-in 76 Compression** — hardware-modeled compression on input, a feature rarely seen at this price tier
 
 ---
@@ -65,7 +69,7 @@ Both lines are manufactured to professional standards and pair tightly with UA's
 | Apollo Gen 2 | Verify on product page | Discounted — check Thomann | — |
 | Volt Series | Verify on product page | Discounted — check Thomann | **Free native plugins** |
 
-Verify current pricing on the product page — deals can change. The free plugin bundle with Volt purchases is the standout offer here; UA plugins typically carry real standalone value.
+ The free plugin bundle with Volt purchases is the standout offer here; UA plugins typically carry real standalone value.
 
 **[Check live prices and grab the deal at Thomann →](https://www.thomann.de/intl/search_GK_stai_BF_universal_audio.html?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-apollo-gen2-and-volt-interface-deals-save-an)**
 
@@ -89,7 +93,7 @@ If you want a no-fuss USB interface with clean preamps and a low price floor, th
 A: UA software typically requires a UA account for activation. Check the official Universal Audio site for current licensing requirements.
 
 **Q: Is the free plugin offer available everywhere or only at Thomann?**
-A: This specific deal — discounted hardware plus free add-ons — is active through Thomann. Check the product page for regional availability.
+A: This specific deal — discounted hardware plus free add-ons — is active through Thomann.
 
 **Q: How long is this sale running?**
 A: Discounts are confirmed through the end of May 2026. Don't wait until the last day to check stock on popular models.
@@ -108,7 +112,6 @@ Free plugins, discounted hardware, and a deadline at the end of May. If a UA int
 ## Related Guides
 
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
-
 
 ---
 

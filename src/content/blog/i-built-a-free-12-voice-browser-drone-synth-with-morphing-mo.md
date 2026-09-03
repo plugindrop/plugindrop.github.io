@@ -10,8 +10,13 @@ score: 7.05
 dealPrice: "FREE"
 xText: "free 12-voice drone synth in your browser with morphing modulation. infinite ambient pads, zero install, zero dollars. go grab it before you scroll past"
 draft: false
+saleExpiry: "2026-08-10"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Eliane Drone is a **free, open-source, browser-based drone synth** with 12 independent voices — no installer, no plugin format, no cost. Built by a Spanish trumpet player and teacher, it's designed specifically for long-form ambient textures and evolving drones. Since it runs entirely in your browser at [rimini312.github.io/elianedrone](https://rimini312.github.io/elianedrone/), there's nothing to buy and nothing to lose by trying it.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## What Is Eliane Drone?
 
@@ -41,8 +46,6 @@ Eliane Drone is a free, open-source browser synthesizer built for creating long,
 
 Eliane Drone is a free, open-source browser tool rather than a time-limited sale — there's no original price to discount because it isn't sold commercially. That said, "free" tools built by independent developers can change hosting, get taken down, or move behind a paywall in future versions, so it's worth trying it sooner rather than later if it looks useful to you.
 
-Verify current pricing and availability on the product page — deals can change.
-
 👉 [Try Eliane Drone free](https://rimini312.github.io/elianedrone/)
 
 ## Alternatives at a Glance
@@ -64,7 +67,7 @@ A: Yes. It's described by its creator as free and open-source, accessible direct
 A: No. It runs in your web browser, so there's no download, plugin format, or DAW integration required to try it.
 
 **Q: Can I use it in my DAW as a plugin?**
-A: Based on available information, Eliane Drone is a standalone browser application, not a VST/AU plugin. Check the product page for any updates on plugin versions.
+A: Based on available information, Eliane Drone is a standalone browser application, not a VST/AU plugin.
 
 **Q: What tuning options does it support?**
 A: Each of the 12 voices can be tuned using standard musical note names or exact frequency values, which supports both conventional and microtonal tuning approaches.
@@ -82,7 +85,6 @@ Since Eliane Drone is free and open-source rather than a discounted commercial p
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
-
 
 ---
 

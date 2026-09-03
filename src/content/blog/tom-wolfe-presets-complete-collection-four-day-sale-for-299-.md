@@ -9,8 +9,13 @@ score: 7.20
 dealPrice: "$0.063"
 xText: "tom wolfe's complete collection just hit $299. the per-preset cost is actually stupid cheap. last four days before black friday."
 draft: false
+saleExpiry: "2026-07-19"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Tom Wolfe Presets is running a four-day sale on the Complete Collection — every soundbank the brand has ever made, bundled together for $299.99. The sale closes Monday 22nd June 2026 and won't return until Black Friday. [Grab it here before it closes.](https://www.pluginboutique.com/search?q=diva&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tom-wolfe-presets-complete-collection-four-day-sale-for-299-&chan=art&data1=tom-wolfe-presets-complete-collection-four-day-sale-for-299-)
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0.06; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -19,8 +24,6 @@ draft: false
   <source src="https://media.u-he.com/diva/MikeLeghorn_Venus.mp3">
 </audio>
 </div>
-
-
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/9TEAuMrVJ_k" title="Review: Tom Wolfe Premier Collection by Tom Wolfe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -84,13 +87,13 @@ If you own just one u-he synth and want targeted content, buying a single Tom Wo
 ## FAQ
 
 **Q: Where is this deal available?**
-A: The four-day sale is being run directly by Tom Wolfe Presets. Check the product page for purchase options and availability.
+A: The four-day sale is being run directly by Tom Wolfe Presets.
 
 **Q: Which synths are covered in the Complete Collection?**
-A: The collection focuses on u-he instruments. Check the official product page for a full list of supported synths, as the exact breakdown varies by soundbank.
+A: The collection focuses on u-he instruments.
 
 **Q: Do I need all the u-he synths to use this bundle?**
-A: No — you can use whichever packs correspond to synths you already own. Check the product page for details on which soundbanks are included and their synth requirements.
+A: No — you can use whichever packs correspond to synths you already own.
 
 **Q: When does the sale end?**
 A: The sale closes on Monday 22nd June 2026. The next confirmed discount opportunity is Black Friday.
@@ -106,7 +109,6 @@ Four days. $299.99. Nearly 5,000 presets. This is the last window before Black F
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

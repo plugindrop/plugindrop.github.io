@@ -10,8 +10,14 @@ dealPrice: "FREE"
 originalPrice: "$4.99"
 xText: "free plugin haul landed and ngl some of these shouldn't be free. go grab em before devs realize their mistake"
 draft: false
+saleExpiry: "2026-08-12"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** NoizLabs is giving away **Beheader**, a clipper and saturation plugin for Mac and Windows, completely free for a limited time — that's ~~$4.99~~ **$0**. No stated end date has been confirmed, so grab it now rather than risk missing the window. [Download Beheader free](https://www.noizlabs.com/products/beheader) while the promotion is live.
+
+## Price Context (tracked by PluginDrop)
+- Regular: $4.99
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## What Is Beheader?
 
@@ -39,7 +45,7 @@ Check the product page for exact plugin format support (VST/VST3/AU/AAX) and det
 |---|---|---|
 | ~~$4.99~~ | **Free** | $4.99 (100%) |
 
-This is a limited-time giveaway with no confirmed expiry date, so pricing could revert to $4.99 at any point. Verify current pricing on the product page — deals can change without notice. [Get Beheader free here](https://www.noizlabs.com/products/beheader) before the promotion ends.
+This is a limited-time giveaway with no confirmed expiry date, so pricing could revert to $4.99 at any point. [Get Beheader free here](https://www.noizlabs.com/products/beheader) before the promotion ends.
 
 ## Alternatives at a Glance
 
@@ -54,10 +60,10 @@ If you specifically need a clipper/saturator, Beheader is the direct fit. If you
 ## FAQ
 
 **Q: Is Beheader really free, or is this a trial?**
-A: According to the current promotion, Beheader is free for a limited time, not a time-limited trial. Check the product page to confirm the current offer status before downloading.
+A: According to the current promotion, Beheader is free for a limited time, not a time-limited trial.
 
 **Q: What platforms does Beheader support?**
-A: Mac and Windows are confirmed. Check the product page for specific plugin formats and OS version requirements.
+A: Mac and Windows are confirmed.
 
 **Q: Does Beheader require an iLok or online activation?**
 A: This isn't confirmed in the source listing. Check the official NoizLabs product page for licensing and activation details.
@@ -76,7 +82,6 @@ At a normal price of $4.99, Beheader is a low-cost plugin even at full price, so
 ## Related Guides
 
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
-
 
 ---
 

@@ -9,8 +9,13 @@ score: 7.92
 dealPrice: "FREE"
 xText: "free introspective piano from splice right now. has the warmth that actually sits in a mix. zero dollars. go grab it"
 draft: false
+saleExpiry: "2026-06-11"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Splice is dropping a free Introspective Electric Piano preset for Splice INSTRUMENT — grab it during the drop window and it's yours to keep permanently, no strings attached. This is a zero-cost add to your library. [Claim the free preset here.](https://splice.com/sounds/create?utm_source=plugindrop&utm_medium=article&utm_campaign=get-a-free-introspective-electric-piano-for-splice-instrumen)
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -44,8 +49,6 @@ The Introspective Electric Piano is a preset for **Splice INSTRUMENT**, Splice's
 | Verify current pricing on the product page | **FREE** | 100% |
 
 This is a **drop-window deal** — available free for a limited period. Once the window closes, availability may change. There's no listed regular price for comparison, but the value is in the permanence: claimed presets stay in your library even after the drop ends.
-
-> Verify current pricing and drop window timing on the product page — deals like this can expire without notice.
 
 **[Claim the Introspective Electric Piano for free on Splice →](https://splice.com/sounds/create?utm_source=plugindrop&utm_medium=article&utm_campaign=get-a-free-introspective-electric-piano-for-splice-instrumen)**
 
@@ -83,7 +86,6 @@ Zero cost, permanent ownership — that's hard to argue with. Head to Splice now
 
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
 - [Best Free Piano VST Plugins in 2026](/posts/best-free-piano-vst/)
-
 
 ---
 

@@ -9,10 +9,15 @@ draft: false
 heroImage: "/images/best-free-vst-plugins-2026.jpg"
 score: 1.68
 evergreen: true
+saleExpiry: "2026-04-25"
+saleExpirySource: "fallback"
 ---
 
 
 **TL;DR:** If you install one plugin from this list, make it **Vital** — a free wavetable synth that holds its own against Serum for sound design, bass, and pads. From there, this guide covers 15 genuinely free VST plugins across synths, effects, mixing, and instruments, organized by category so you can grab exactly what your setup is missing. Every pick is free for real — either permanently free, a free tier of a paid product, or a free starter bundle. No trials, no watermarks on the core features, no hidden costs. Formats, supported operating systems, and honest limitations are listed for each so you know what you're getting before you download.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 How we ranked these: publicly documented specs, format/OS support, and long-running community consensus (KVR Audio, r/edmproduction, Gearspace) — no paid placements, and every "free" claim is checked against the developer's current licensing. Paid-upgrade prices come from our own daily price tracking, and suggestions link to [Plugin Boutique](https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026&chan=art&data1=best-free-vst-plugins-2026) where relevant.
 

@@ -10,15 +10,20 @@ dealPrice: "$16.1"
 originalPrice: "$23"
 discount: "30% OFF"
 draft: false
+saleExpiry: "2026-09-12"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** ADSR Sounds has Gogoi's *Bedroom Beats and Chill Vol 2* for Serum marked down from ~~$23~~ to $16.10, a 30% discount. It's a Serum preset pack built around chill, lo-fi-leaning textures for bedroom-pop and downtempo production. [Grab the deal on ADSR Sounds](https://www.adsrsounds.com/product/presets/gogoi-bedroom-beats-and-chill-vol-2-chillout-serum-presets/?a_aid=plugindrop&data1=gogoi-bedroom-beats-and-chill-vol-2-chillout-serum-presets&utm_source=plugindrop&utm_medium=article&utm_campaign=gogoi-bedroom-beats-and-chill-vol-2-chillout-serum-presets) while the discount is live.
+
+## Price Context (tracked by PluginDrop)
+- Regular: $23
+- Verdict: **NO HISTORY** — The current deal is $16.1; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="audio-embed">
 <audio controls style="width:100%">
   <source src="https://adsrsounds.com/mp3/925041-716398321.mp3">
 </audio>
 </div>
-
 
 ## What Is Bedroom Beats and Chill Vol 2?
 
@@ -65,10 +70,9 @@ If you already lean into chill and lo-fi production and want presets built speci
 A: Yes. This is a preset bank for Xfer Serum, not a standalone instrument, so Serum must be installed separately.
 
 **Q: Is this a one-time purchase or a subscription?**
-A: ADSR Sounds preset packs are typically sold as one-time purchases with a standard license. Check the product page for the exact license terms.
+A: ADSR Sounds preset packs are typically sold as one-time purchases with a standard license.
 
 **Q: Will these presets work with Serum 2?**
-A: Compatibility details aren't confirmed here — check the product page or contact ADSR support to verify Serum version compatibility before buying.
 
 **Q: What's ADSR Sounds' refund policy on preset packs?**
 A: Check the official ADSR Sounds site for their current refund and download policy, since digital preset packs often carry different terms than plugins.
@@ -86,7 +90,6 @@ A 30% discount on a niche preset pack is a reasonable markdown, especially for a
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

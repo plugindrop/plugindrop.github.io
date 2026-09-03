@@ -8,7 +8,12 @@ dealPrice: "FREE"
 heroImage: "/images/spitfire-labs-free-sample-library.jpg"
 
 score: 1.68
+saleExpiry: "2026-04-19"
+saleExpirySource: "fallback"
 ---
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
+
 
 **TL;DR — If you only add one free instrument collection this year, make it Spitfire LABS.** Spitfire Audio LABS — **80+ instruments, permanently free.** Soft Piano, Strings, Choir, Drums, and dozens more. This is from Spitfire Audio, whose paid libraries run $29 to $499+. LABS costs nothing, requires only a free Spitfire account. [Get it here](https://labs.spitfireaudio.com/).
 

@@ -11,15 +11,21 @@ originalPrice: "$99.00"
 discount: "20% OFF"
 xText: "melody sauce 3 just dropped at 20% off. the harmonic engine actually knows theory. not the procedural feel you expect. lowest i've seen it priced"
 draft: false
+saleExpiry: "2026-07-26"
 ---
 If you write electronic music and regularly hit a wall trying to find the next hook, Melody Sauce 3 is worth a look at this price. It won't write your song for you, but it can get you past a blank piano roll fast.
 
 **TL;DR:** Melody Sauce 3 is discounted to **$79**, down from ~~$99~~ — a 20% saving. It's a MIDI melody generation plugin for producers who want fast, key-locked idea starters inside their DAW. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15887-Melody-Sauce-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-5339ad&chan=art&data1=melody-sauce-3-5339ad).
 
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-07-26 (10 observations)
+- Lowest we've tracked: $79 · Typical sale: $79 · Regular: $99
+- Verdict: **BUY NOW** — the current $79 price is within 5% of the $79 lowest tracked price.
+- Sale pattern: auto-crawl 2026-07-26
+
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vRScH7VizKU" title="20% Off Melody Sauce 3 — AI Melody Generation for DAWs ($79) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is Melody Sauce 3?
 
@@ -32,8 +38,6 @@ Melody Sauce 3 is a MIDI melody generation plugin built to help producers create
 - **Mood and style controls** — adjustable parameters shape how simple or complex the generated melody sounds.
 - **Chord and progression tools** — build a harmonic base to feed into the melody generator.
 - **Randomization and regeneration** — quickly cycle through new melodic variations until one clicks.
-
-Check the official product page for the complete, current feature list and any version-specific additions in Melody Sauce 3.
 
 ## Who Is It For?
 
@@ -50,7 +54,7 @@ If you already write melodies by ear and don't need generative assistance, this 
 |---|---|---|
 | ~~$99~~ | $79 | $20 (20%) |
 
-Verify current pricing on the product page — deals can change, and Plugin Boutique sale windows are typically time-limited. [Check the deal on Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15887-Melody-Sauce-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-5339ad&chan=art&data1=melody-sauce-3-5339ad).
+ [Check the deal on Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15887-Melody-Sauce-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-5339ad&chan=art&data1=melody-sauce-3-5339ad).
 
 ## Alternatives at a Glance
 
@@ -65,10 +69,10 @@ If your bottleneck is specifically melodic hooks, Melody Sauce 3's narrower focu
 ## FAQ
 
 **Q: Is Melody Sauce 3 a standalone app or a plugin?**
-A: It's designed to run inside a DAW as a plugin. Check the product page for the specific plugin formats supported (VST/AU/AAX).
+A: It's designed to run inside a DAW as a plugin.
 
 **Q: Do I need an iLok or dongle for Melody Sauce 3?**
-A: Licensing and authorization details vary by release. Check the official product page for the exact activation method before buying.
+A: Licensing and authorization details vary by release.
 
 **Q: Does the deal price include future updates?**
 A: Update policy depends on the license terms listed on the product page. Confirm this before purchasing if it matters for your workflow.
@@ -89,7 +93,6 @@ A 20% discount on a $99 plugin is a moderate, not exceptional, markdown by indus
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

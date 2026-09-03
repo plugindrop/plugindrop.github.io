@@ -8,15 +8,19 @@ heroImage: "/images/unison-serum-essentials-8fcc00.jpg"
 score: 5.86
 dealPrice: "FREE"
 draft: false
+saleExpiry: "2026-09-17"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Unison Audio is giving away **Serum Essentials**, a preset pack for Xfer Serum, at no cost — ~~paid~~ **FREE**. If you already own Serum and want a fast way to expand your patch library without spending anything, [grab it here](https://unison.audio/ref/jc374/product/unison-serum-essentials/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-serum-essentials-8fcc00). Free preset packs like this don't always stay free, so it's worth downloading now rather than later.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="audio-embed">
 <audio controls style="width:100%">
   <source src="https://unisonsoundbanks.s3.us-west-1.amazonaws.com/Demos/Unison+Serum+Essentials+Demo.mp3">
 </audio>
 </div>
-
 
 ## What Is Unison Serum Essentials?
 
@@ -46,8 +50,6 @@ Verify the exact preset count, category tags, and any macro/modulation details o
 
 Unison Audio periodically runs free giveaways alongside its paid preset catalog, and this is one of them. There's no bundle requirement mentioned — it's listed as a standalone free download.
 
-Verify current pricing on the product page — deals can change, and free promotions from sample/preset vendors are often time-limited.
-
 [Get Unison Serum Essentials free →](https://unison.audio/ref/jc374/product/unison-serum-essentials/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-serum-essentials-8fcc00)
 
 ## Alternatives at a Glance
@@ -66,13 +68,12 @@ If you just want more variety without spending anything, Serum Essentials is the
 A: Yes. Serum Essentials is a preset bank, not a standalone synth, so you need a licensed copy of Xfer Serum installed for the presets to load.
 
 **Q: Is an iLok or account required to download it?**
-A: Preset packs typically require creating a free Unison Audio account to download, rather than iLok. Check the product page to confirm the exact download process.
+A: Preset packs typically require creating a free Unison Audio account to download, rather than iLok.
 
 **Q: Will this pack always be free?**
-A: Unison Audio lists it as free currently, but promotional pricing on preset packs can change. Check the product page for the current status before assuming it will remain free indefinitely.
+A: Unison Audio lists it as free currently, but promotional pricing on preset packs can change.
 
 **Q: Does it work with Serum 2?**
-A: Compatibility details for specific Serum versions aren't confirmed here — check the product page for version requirements before downloading.
 
 ## Get the Deal
 
@@ -89,7 +90,6 @@ Since the pack is currently free, there's little reason to wait if you already o
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
-
 
 ---
 

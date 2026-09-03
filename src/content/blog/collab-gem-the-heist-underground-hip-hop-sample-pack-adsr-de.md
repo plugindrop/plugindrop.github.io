@@ -11,8 +11,14 @@ originalPrice: "$14.95"
 discount: "30% OFF"
 draft: false
 score: 2.36
+saleExpiry: "2026-05-17"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** ADSR Sounds is currently offering Collab Gem's *The Heist* Underground Hip Hop Sample Pack at a deal price — check the current savings on the [product page](https://www.adsrsounds.com/product/presets/collab-gem-the-heist-underground-hip-hop-sample-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=collab-gem-the-heist-underground-hip-hop-sample-pack-adsr-de) before it reverts. Designed for producers chasing that raw, underground hip hop aesthetic, this pack brings gritty textures and authentic vibes straight to your DAW. Grab it while the deal is live.
+
+## Price Context (tracked by PluginDrop)
+- Regular: $14.95
+- Verdict: **NO HISTORY** — The current deal is $10.47; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -21,7 +27,6 @@ score: 2.36
   <source src="https://adsrsounds.com/mp3/2306421-2300180318.mp3">
 </audio>
 </div>
-
 
 ## What Is Collab Gem The Heist Underground Hip Hop Sample Pack?
 
@@ -62,8 +67,6 @@ score: 2.36
 
 Pricing for this pack can shift during promotional windows. ADSR Sounds runs rotating deals across their catalog — verify the current discount directly on the product page rather than relying on any cached price.
 
-> **Note:** Verify current pricing on the product page — deals can change.
-
 [Check the current deal price on ADSR Sounds →](https://www.adsrsounds.com/product/presets/collab-gem-the-heist-underground-hip-hop-sample-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=collab-gem-the-heist-underground-hip-hop-sample-pack-adsr-de)
 
 ---
@@ -83,13 +86,12 @@ If budget is tight, Looperman offers free options but with inconsistent quality 
 ## FAQ
 
 **Q: Does this pack require any specific software or plugin to use?**
-A: Sample packs in standard audio formats work in any DAW. Check the product page for exact file formats and any listed system requirements.
+A: Sample packs in standard audio formats work in any DAW.
 
 **Q: Is this a one-time purchase or a subscription?**
 A: ADSR Sounds sells sample packs as one-time purchases. Confirm license terms on the official product page.
 
 **Q: Can I use these samples in commercial releases?**
-A: Check the product page and ADSR's licensing terms for details on commercial usage rights — these vary by product.
 
 **Q: Is there a refund policy if the pack doesn't fit my needs?**
 A: Check ADSR Sounds' official refund policy directly on their site for the most accurate and current information.

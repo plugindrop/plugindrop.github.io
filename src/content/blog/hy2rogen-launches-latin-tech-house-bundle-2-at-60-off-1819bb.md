@@ -10,8 +10,13 @@ dealPrice: "$0"
 discount: "60% OFF"
 xText: "60% off on this hy2rogen latin tech bundle and the per-unit cost is feral. basically paying compressor prices for an entire toolkit. this is the math that makes you just... hit buy"
 draft: true
+saleExpiry: "2026-07-30"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Hy2rogen Latin Tech House Bundle 2 is now 60% off at Loopmasters, packaging 8 sample packs, 80 construction kits, and 5,740 total sounds into one discounted purchase. For producers who regularly work in Latin-flavored Tech House, that's a significant library addition at a fraction of the individual pack cost. Verify current pricing on the product page and [grab the bundle here](https://www.loopmasters.com/genres/66-Tech-House/products/20902-HY2ROGEN-Latin-Tech-House-Bundle-2?utm_source=plugindrop&utm_medium=article&utm_campaign=hy2rogen-launches-latin-tech-house-bundle-2-at-60-off-1819bb).
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -49,9 +54,7 @@ Hy2rogen is a sample label focused on genre-specific packs built for club-orient
 
 Here's where the bundle math matters: 80 construction kits across 8 packs averages out to 10 kits per pack, and 5,740 sounds means roughly 717 samples per pack. Buying those 8 packs individually at full price would stack up quickly — the 60% bundle discount compresses that cost substantially per kit.
 
-Verify current pricing on the product page — deals can change without notice.
-
-[Check the current price and grab the bundle at Loopmasters →](https://www.loopmasters.com/genres/66-Tech-House/products/20902-HY2ROGEN-Latin-Tech-House-Bundle-2?utm_source=plugindrop&utm_medium=article&utm_campaign=hy2rogen-launches-latin-tech-house-bundle-2-at-60-off-1819bb)
+loopmasters.com/genres/66-Tech-House/products/20902-HY2ROGEN-Latin-Tech-House-Bundle-2?utm_source=plugindrop&utm_medium=article&utm_campaign=hy2rogen-launches-latin-tech-house-bundle-2-at-60-off-1819bb)
 
 ---
 
@@ -70,13 +73,11 @@ If you only need a handful of sounds from this genre, individual packs or a Spli
 ## FAQ
 
 **Q: Are these samples royalty-free?**
-A: Loopmasters content is sold as royalty-free for use in music production. Check the product page for the specific license terms covering commercial releases and sync use.
+A: Loopmasters content is sold as royalty-free for use in music production.
 
 **Q: What audio format are the files in?**
-A: Check the official product page for confirmed file format details — verify specifics for this bundle before purchasing.
 
 **Q: Does the bundle include MIDI files or just audio loops?**
-A: Check the product page for a full breakdown of included file types beyond audio content.
 
 **Q: Can I use these samples in commercial tracks?**
 A: Loopmasters samples are typically cleared for commercial use, but review the exact license terms on the official product page to confirm usage rights for your specific project.
@@ -98,7 +99,6 @@ For producers actively working in Tech House or Latin-influenced electronic musi
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

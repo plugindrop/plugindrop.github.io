@@ -9,9 +9,14 @@ dealPrice: "$45.00"
 originalPrice: "$59.99"
 discount: "25% OFF"
 heroImage: "/images/save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him.jpg"
-
+saleExpiry: "2026-05-20"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Plugin Boutique is running a sale on The Him DSP's Kick Ninja and Sub Ninja, with savings of up to 48% off regular pricing. If you produce bass-heavy electronic music and need tight, punchy kicks with matching sub control, this is a deal worth acting on. [Grab Kick Ninja at up to 48% off here.](https://www.pluginboutique.com/product/1-Instruments/139-Drum-Synth/13436-Kick-Ninja?a_aid=69cb95abe1763&utm_source=affiliate-bot&utm_medium=article&utm_campaign=save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him&chan=art&data1=save-up-to-48-on-kick-ninja-and-sub-ninja-plugins-by-the-him)
+
+## Price Context (tracked by PluginDrop)
+- Regular: $59.99
+- Verdict: **NO HISTORY** — The current deal is $45; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -82,7 +87,6 @@ If you need a kick synth with deep modulation and sample layering, Kick 2 covers
 ## FAQ
 
 **Q: Does Kick Ninja require iLok to run?**
-A: Check the official product page on Plugin Boutique for activation details, as licensing requirements can vary by version.
 
 **Q: Are Kick Ninja and Sub Ninja available as a bundle?**
 A: Check the Plugin Boutique product page — bundle options and whether both plugins are included in a single purchase are listed there.

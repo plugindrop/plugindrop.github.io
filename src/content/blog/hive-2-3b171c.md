@@ -10,13 +10,19 @@ dealPrice: "$99.00"
 originalPrice: "$149.00"
 discount: "34% OFF"
 draft: false
+saleExpiry: "2021-09-26"
 ---
 **TL;DR:** Hive 2, the wavetable synth from u-he, is ~~$149~~ $99 at Plugin Boutique right now — a 34% discount that saves you $50. It's a perpetual license, cross-platform, and built for producers who want fast wavetable sound design without heavy CPU load. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Hive+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hive-2-3b171c).
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2021-09-26 (25 observations)
+- Lowest we've tracked: $99 · Typical sale: $99 · Regular: $149
+- Verdict: **BUY NOW** — the current $99 price is within 5% of the $99 lowest tracked price.
+- Sale pattern: auto-crawl 2026-08-16
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/MOWLGTViEZU" title="34% Off Hive 2 — Wavetable Synth for Electronic Music ($99) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is Hive 2?
 
@@ -52,7 +58,7 @@ Producers who specifically need Serum's wavetable-editing workflow or granular s
 |---|---|---|
 | ~~$149.00~~ | $99.00 | $50.00 (34%) |
 
-u-he plugins go on sale periodically through Plugin Boutique, often around Black Friday and other seasonal promotions. A 34% discount is a meaningful markdown for a u-he product, though exact frequency and depth of past sales can vary. Verify current pricing on the product page — deals can change.
+u-he plugins go on sale periodically through Plugin Boutique, often around Black Friday and other seasonal promotions. A 34% discount is a meaningful markdown for a u-he product, though exact frequency and depth of past sales can vary.
 
 [Get Hive 2 at Plugin Boutique](https://www.pluginboutique.com/search?q=Hive+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hive-2-3b171c).
 
@@ -75,10 +81,10 @@ A: No. u-he uses its own license-file based activation system rather than iLok o
 A: Plugin Boutique lists u-he products as one-time purchases with perpetual licenses. Confirm license terms on the product page before checkout.
 
 **Q: What plugin formats does Hive 2 support?**
-A: It's available in VST, AU, and AAX formats for Mac and Windows. Check the product page for exact version and OS requirements.
+A: It's available in VST, AU, and AAX formats for Mac and Windows.
 
 **Q: Is there a demo version available?**
-A: u-he typically offers time-limited demos of its plugins. Check the official product page for current demo availability.
+A: u-he typically offers time-limited demos of its plugins.
 
 ## Get the Deal
 
@@ -93,7 +99,6 @@ A 34% discount on a u-he plugin is a solid markdown, especially since u-he produ
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

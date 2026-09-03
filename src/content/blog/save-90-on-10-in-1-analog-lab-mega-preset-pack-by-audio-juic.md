@@ -10,8 +10,14 @@ dealPrice: "$21"
 originalPrice: "$29.99"
 discount: "30% OFF"
 draft: false
+saleExpiry: "2026-09-06"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** ADSR Sounds has the Analog Lab Mega Preset Pack by Audio Juice down to **$21** from ~~$29.99~~ for a limited time. That's 10 individual preset banks bundled together for Arturia's Analog Lab, working out to roughly $2.10 per pack. [Grab the bundle at ADSR Sounds](https://www.adsrsounds.com/product/presets/audio-juice-analog-lab-mega-pack-10-in-1-bundle/?a_aid=plugindrop&data1=save-90-on-10-in-1-analog-lab-mega-preset-pack-by-audio-juic&utm_source=plugindrop&utm_medium=article&utm_campaign=save-90-on-10-in-1-analog-lab-mega-preset-pack-by-audio-juic#a_aid=rekkerd) before the sale window closes.
+
+## Price Context (tracked by PluginDrop)
+- Regular: $29.99
+- Verdict: **NO HISTORY** — The current deal is $21; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="audio-embed">
 <audio controls style="width:100%">

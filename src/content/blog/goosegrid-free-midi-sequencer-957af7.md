@@ -9,8 +9,13 @@ score: 8.28
 dealPrice: "FREE"
 xText: "free midi sequencer that actually slaps. goosegrid sits in your workflow like butter. no catch, no strings. go grab this right now."
 draft: true
+saleExpiry: "2026-06-10"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Goosegrid is a free, browser-based MIDI sequencer built for rapid idea sketching and live performance experimentation — and it costs exactly $0. No download, no install, no excuses. Grab it at [aceslowman.itch.io/goosegrid](https://aceslowman.itch.io/goosegrid) and start sequencing in under a minute.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -70,7 +75,6 @@ If zero setup and a visual grid interface are the priority, Goosegrid is purpose
 A: No. It runs entirely in the browser — navigate to the itch.io page and start sequencing immediately.
 
 **Q: Does Goosegrid support external MIDI hardware?**
-A: Check the product page for details on MIDI output and hardware compatibility.
 
 **Q: Is Goosegrid actually free with no hidden costs?**
 A: Yes, it is offered at no cost on itch.io. Verify current terms on the product page, as this is subject to change.
@@ -90,7 +94,6 @@ Free. Browser-based. Ready in seconds. There is no barrier between you and a wor
 
 - [Best EQ Plugins 2026](/posts/best-eq-plugins-2026/)
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
-
 
 ---
 

@@ -10,13 +10,18 @@ dealPrice: "$30.00"
 originalPrice: "$125.00"
 discount: "76% OFF"
 draft: false
+saleExpiry: "2026-09-16"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Black Box Analog Design's HG-2 saturation plugin is ~~$125~~ **$30** at Plugin Boutique right now, a 76% discount. That's one of the steeper cuts you'll see on a Black Box Analog Design title, so if HG-2 has been on your wishlist, this is worth a look. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Black+Box+Analog+Design+HG+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=black-box-analog-design-hg-2-faaf95).
+
+## Price Context (tracked by PluginDrop)
+- Regular: $125
+- Verdict: **NO HISTORY** — The current deal is $30; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/E0wBB8TiCpg" title="76% Off Black Box HG 2 — Analog Console Saturation ($30) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is Black Box Analog Design HG-2?
 
@@ -32,8 +37,6 @@ Exact parameter names and controls should be confirmed on the official product p
 - **Track and bus use** — built to work on individual channels as well as mix bus processing.
 - **Part of a focused plugin line** — Black Box Analog Design's catalog centers on circuit-modeled tools rather than broad multi-effect suites.
 
-For CPU load, sample rate support, and full control layout, check the product page for details.
-
 ## Who Is It For?
 
 - **Mix engineers** looking to add analog-style warmth without reaching for a full channel strip plugin.
@@ -47,7 +50,7 @@ For CPU load, sample rate support, and full control layout, check the product pa
 |---|---|---|
 | ~~$125.00~~ | **$30.00** | 76% ($95) |
 
-A 76% discount is a significant markdown for any plugin, and it's a steeper cut than the smaller sales you'll typically see on established plugins throughout the year. Verify current pricing on the product page — deals can change, and end dates aren't always listed in advance.
+A 76% discount is a significant markdown for any plugin, and it's a steeper cut than the smaller sales you'll typically see on established plugins throughout the year.
 
 [See the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=Black+Box+Analog+Design+HG+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=black-box-analog-design-hg-2-faaf95).
 
@@ -67,7 +70,7 @@ If you want a no-frills, low-cost saturation tool, HG-2's deal price puts it in 
 A: Plugin Boutique lists this as a standard perpetual license purchase, not a subscription. Confirm licensing terms on the product page before buying.
 
 **Q: Does HG-2 require an iLok or other copy protection?**
-A: Copy protection details vary by developer and aren't always listed in marketing copy. Check the official product page or Plugin Boutique's system requirements section for activation details.
+A: Copy protection details vary by developer and aren't always listed in marketing copy.
 
 **Q: What DAWs and plugin formats does HG-2 support?**
 A: Format support (VST, AU, AAX) and DAW compatibility should be confirmed on the product page, since this varies by developer and plugin version.
@@ -88,7 +91,6 @@ A 76% discount is on the higher end of what plugin retailers typically offer, ev
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

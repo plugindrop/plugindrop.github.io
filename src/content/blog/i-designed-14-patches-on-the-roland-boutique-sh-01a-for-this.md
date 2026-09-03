@@ -9,8 +9,15 @@ dealPrice: "FREE"
 xText: "14 free production-ready synthwave patches with full design notes just dropped. this kind of resource costs money usually. grab it right now."
 draft: false
 heroImage: "/images/i-designed-14-patches-on-the-roland-boutique-sh-01a-for-this_og.jpg"
+saleExpiry: "2026-08-09"
 ---
 **TL;DR:** A producer has shared 14 free Roland Boutique SH-01A patches built for a synthwave cover of "Burnout" by AERwave, with full project notes included. No purchase required — grab the patches and documentation in one post. [→ Get Roland Boutique SH-01A Patches at Direct](https://medium.ultimateoutsider.com/the-single-synth-project-roland-boutique-sh-01a-0c8022124c67)
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-08-09 (15 observations)
+- Lowest we've tracked: $29 · Regular: $80
+- Verdict: **BUY NOW** — the current $0 price is within 5% of the $29 lowest tracked price.
+- Sale pattern: auto-crawl 2026-08-09
 
 ---
 

@@ -11,8 +11,14 @@ originalPrice: "$24.95"
 discount: "40% OFF"
 xText: "40% off boom bap just landed — mystic shadow is the cleanest hip hop sample pack i've tested. sits in a mix like butter and sound nothing like every other pack out there."
 draft: false
+saleExpiry: "2026-07-30"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Mystic Samples Shadow Hip Hop Boom Bap Samples is currently **$14.97** (down from ~~$24.95~~) at ADSR Sounds — a clean 40% discount on a pack built around the dark, dusty textures of 90s underground hip hop. At under $15, the entry cost is low enough to make this a straightforward grab for producers in this lane. [Pick it up at ADSR Sounds while the price holds.](https://www.adsrsounds.com/product/presets/mystic-samples-shadow-hip-hop-boom-bap-samples/?a_aid=plugindrop&data1=mystic-samples-shadow-hip-hop-boom-bap-samples-2bbdc6&utm_source=plugindrop&utm_medium=article&utm_campaign=mystic-samples-shadow-hip-hop-boom-bap-samples-2bbdc6)
+
+## Price Context (tracked by PluginDrop)
+- Regular: $24.95
+- Verdict: **NO HISTORY** — The current deal is $14.97; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -21,7 +27,6 @@ draft: false
   <source src="https://adsrsounds.com/mp3/2312921-2346444071.mp3">
 </audio>
 </div>
-
 
 ## What Is Mystic Samples Shadow Hip Hop Boom Bap Samples?
 
@@ -77,16 +82,16 @@ If budget is the primary constraint, free community packs can fill gaps — but 
 ## FAQ
 
 **Q: Is this pack royalty-free?**
-A: Sample packs sold on ADSR Sounds are generally royalty-free for music production use. Check the product page for the exact license terms before commercial release.
+A: Sample packs sold on ADSR Sounds are generally royalty-free for music production use.
 
 **Q: What DAW does this work with?**
 A: Sample packs are DAW-agnostic — any software that loads audio files (Ableton Live, FL Studio, Logic Pro, MPC software, etc.) is compatible.
 
 **Q: What audio format are the files delivered in?**
-A: Check the product page for confirmed format details. Most ADSR Sounds sample packs are delivered as WAV files, but verify before purchasing if format matters for your setup.
+ Most ADSR Sounds sample packs are delivered as WAV files, but verify before purchasing if format matters for your setup.
 
 **Q: How long is this 40% off deal active?**
-A: No public end date has been confirmed. Check the product page directly to verify the $14.97 price is still live before completing your purchase.
+A: No public end date has been confirmed.97 price is still live before completing your purchase.
 
 ---
 
@@ -105,7 +110,6 @@ For producers actively making boom bap or 90s-influenced hip hop beats, this is 
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

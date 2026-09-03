@@ -11,13 +11,19 @@ originalPrice: "$59.00"
 discount: "41% OFF"
 xText: "decimort 2 at 41% off and honestly prices never stay here long. this is genuinely the moment if you've been thinking about it."
 draft: false
+saleExpiry: "2026-07-19"
 ---
 **TL;DR:** D16 Group's Decimort 2 is discounted to **$35**, down from ~~$59~~ — a 41% saving on this bit and sample rate reduction plugin. The deal is live now at Plugin Boutique. [Grab Decimort 2 at $35](https://www.pluginboutique.com/product/2-Effects/32-Bit-Crusher/2017-Decimort-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=decimort-2-26d82f&chan=art&data1=decimort-2-26d82f).
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-07-19 (26 observations)
+- Lowest we've tracked: $35 · Typical sale: $35 · Regular: $59
+- Verdict: **BUY NOW** — the current $35 price is within 5% of the $35 lowest tracked price.
+- Sale pattern: auto-crawl 2026-07-19
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BSTognIzhnQ" title="41% Off Decimort 2 — Bit-Crusher for Retro Sampler Tones ($35) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is Decimort 2?
 
@@ -46,7 +52,7 @@ Check the product page for the full plugin format list (VST/AU/AAX) and current 
 |---|---|---|
 | ~~$59.00~~ | $35.00 | 41% ($24.00) |
 
-D16 Group plugins appear in Plugin Boutique promotions periodically, though exact frequency and discount depth vary by campaign. Verify current pricing on the product page — deals can change.
+D16 Group plugins appear in Plugin Boutique promotions periodically, though exact frequency and discount depth vary by campaign.
 
 [See the current Decimort 2 price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/32-Bit-Crusher/2017-Decimort-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=decimort-2-26d82f&chan=art&data1=decimort-2-26d82f).
 
@@ -66,7 +72,6 @@ If you want a dedicated, focused bit and sample rate crusher with vintage sample
 A: It reduces bit depth and sample rate to emulate the digital character of vintage samplers, adding grit and lo-fi texture to audio.
 
 **Q: What plugin formats does Decimort 2 support?**
-A: Check the official product page for the current list of supported formats (typically VST/AU/AAX) and host compatibility.
 
 **Q: Does Decimort 2 require an iLok or dongle?**
 A: License and activation details vary by developer and product version. Check the official site or product page for the current authorization method.
@@ -85,7 +90,6 @@ A 41% discount on a specialized effect plugin like Decimort 2 is a solid saving 
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

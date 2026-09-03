@@ -11,8 +11,14 @@ originalPrice: "$20"
 discount: "40% OFF"
 xText: "40% off diginoiz modern trap starters—this rarely drops this cheap. loops that sit in a mix like butter. 48h window probably"
 draft: false
+saleExpiry: "2026-08-01"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Diginoiz Modern Trap Starters Samples & Loops is currently 40% off at ADSR Sounds — drop from ~~$20~~ to just $12. That's solid value for a professionally produced trap sample pack designed to kick-start full productions. [Grab it here while the deal lasts.](https://www.adsrsounds.com/product/presets/diginoiz-modern-trap-starters-samples-loops/?a_aid=plugindrop&data1=diginoiz-modern-trap-starters-samples-loops-ccef3c&utm_source=plugindrop&utm_medium=article&utm_campaign=diginoiz-modern-trap-starters-samples-loops-ccef3c)
+
+## Price Context (tracked by PluginDrop)
+- Regular: $20
+- Verdict: **NO HISTORY** — The current deal is $12; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -21,7 +27,6 @@ draft: false
   <source src="https://adsrsounds.com/mp3/2266342-2114049936.mp3">
 </audio>
 </div>
-
 
 ## What Is Diginoiz Modern Trap Starters?
 
@@ -86,7 +91,7 @@ A: The pack uses standard WAV files, making it compatible with any DAW that acce
 A: No. WAV-format sample packs work without additional plugins or software installations.
 
 **Q: How long will the 40% discount last?**
-A: The deal is listed as limited. Check the product page for the current price — ADSR Sounds sale windows vary and can end without notice.
+A: The deal is listed as limited.
 
 ---
 
@@ -105,7 +110,6 @@ At $12, the risk is low enough that the decision is mostly about whether trap is
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

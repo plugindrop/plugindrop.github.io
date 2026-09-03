@@ -7,9 +7,13 @@ affiliate: "https://www.thomann.de/intl/native_instruments_absynth_6.htm?offid=1
 score: 6.84
 dealPrice: "€163.87"
 heroImage: "/images/native-instruments-absynth-6-1-this-update-brings-a-fresh-so.jpg"
-
+saleExpiry: "2026-05-20"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Native Instruments Absynth 6.1 is now available at Thomann, bringing updated sound design capabilities to one of NI's most distinctive synthesizers. Check current pricing — use ~~strikethrough~~ pricing only when confirmed — and grab it via [Thomann here](https://www.thomann.de/intl/native_instruments_absynth_6.htm?offid=1&affid=5792&utm_source=affiliate-bot&utm_medium=article&utm_campaign=native-instruments-absynth-6-1-this-update-brings-a-fresh-so).
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $163.87; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -55,9 +59,9 @@ Absynth has been a recognized name in sound design communities for well over a d
 |---|---|---|
 | ~~Check product page~~ | Check product page | Verify at Thomann |
 
-Pricing can shift, and Native Instruments periodically runs promotions. Verify the current price directly on the product page before purchasing — deals can change without notice.
+Pricing can shift, and Native Instruments periodically runs promotions.
 
-[Check current price and availability at Thomann](https://www.thomann.de/intl/native_instruments_absynth_6.htm?offid=1&affid=5792&utm_source=affiliate-bot&utm_medium=article&utm_campaign=native-instruments-absynth-6-1-this-update-brings-a-fresh-so)
+thomann.de/intl/native_instruments_absynth_6.htm?offid=1&affid=5792&utm_source=affiliate-bot&utm_medium=article&utm_campaign=native-instruments-absynth-6-1-this-update-brings-a-fresh-so)
 
 ---
 
@@ -82,7 +86,7 @@ A: Native Instruments uses its own Native Access activation system, not iLok. Ch
 A: Updates within the same major version are typically free for existing license holders via Native Access — verify this on the NI support page to confirm.
 
 **Q: What plugin formats does Absynth 6 support?**
-A: It supports VST, AU, and AAX formats, plus standalone operation. Check the product page for the current full list of supported DAWs.
+A: It supports VST, AU, and AAX formats, plus standalone operation.
 
 **Q: What are the system requirements?**
 A: Check the official Native Instruments product page for up-to-date macOS/Windows requirements and minimum specs.
@@ -91,7 +95,7 @@ A: Check the official Native Instruments product page for up-to-date macOS/Windo
 
 ## Get the Deal
 
-Absynth 6.1 is a focused tool for producers who need cinematic textures and complex evolving sounds — and it's available now at Thomann. [Grab Absynth 6 at Thomann](https://www.thomann.de/intl/native_instruments_absynth_6.htm?offid=1&affid=5792&utm_source=affiliate-bot&utm_medium=article&utm_campaign=native-instruments-absynth-6-1-this-update-brings-a-fresh-so) and check the current price before it changes.
+Absynth 6.1 is a focused tool for producers who need cinematic textures and complex evolving sounds — and it's available now at Thomann. [Grab Absynth 6 at Thomann](https://www.thomann.de/intl/native_instruments_absynth_6.htm?
 
 ---
 

@@ -9,11 +9,13 @@ score: 9.90
 dealPrice: "FREE"
 xText: "deFORM is free right now. ebbandflow's cinematic synth doesn't usually come with zero attached. this won't last. genuinely grab this now."
 draft: false
+saleExpiry: "2026-06-07"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** deFORM by Ebbandflow is free to download right now — no coupon, no subscription, no catch. This cinematic synthesizer is built for atmospheric and filmic sound design, and the free window could close at any time. Grab it directly from [Ebbandflow's site](https://ebbandflow.audio/products/deform) before the deal disappears.
 
-
-
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/MKcrywXRNYI" title="Free Synth - deFORM by ebbandflow (No Talking)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -50,8 +52,6 @@ For the full technical spec sheet and system requirements, verify on the [offici
 
 No expiry date has been publicly confirmed for this offer. "Limited time" without a deadline means it could end without warning — there's no reason to wait.
 
-Verify current pricing on the product page — deals can change without notice.
-
 **[Download deFORM for Free →](https://ebbandflow.audio/products/deform)**
 
 ## Alternatives at a Glance
@@ -67,13 +67,12 @@ If you want cinematic ready-to-play sounds rooted in real orchestral and ambient
 ## FAQ
 
 **Q: Is deFORM really free, or is there a paid version?**
-A: Based on the current deal, deFORM is available as a free download. Check the product page to confirm whether paid tiers or add-on content exist.
+A: Based on the current deal, deFORM is available as a free download.
 
 **Q: Does deFORM require an iLok dongle?**
 A: No iLok requirement has been stated publicly, but verify the activation method on the official site before downloading.
 
 **Q: What plugin formats does deFORM support?**
-A: Check the product page for confirmed format support and exact system requirements — don't rely on guesses for compatibility.
 
 **Q: How long is the free download available?**
 A: No end date has been confirmed. It's listed as a limited-time offer — download now rather than later.
@@ -89,7 +88,6 @@ A free cinematic synth with a modulation-forward design is not something that sh
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
-
 
 ---
 

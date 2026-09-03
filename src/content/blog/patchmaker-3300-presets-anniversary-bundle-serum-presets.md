@@ -9,17 +9,21 @@ score: 5.75
 dealPrice: "$25"
 xText: "3300 serum presets in a bundle. at this point the cost-per-preset is just noise. the value is insane"
 draft: false
+saleExpiry: "2026-08-21"
+saleExpirySource: "fallback"
 ---
 If you produce with Xfer Serum and want a deep preset library without paying per-pack, this bundle is worth a look.
 
 **TL;DR:** The Patchmaker 3300 Presets Anniversary Bundle drops from ~~$199~~ to **$25** at ADSR Sounds, giving you 3,300 Serum presets for well under a cent each. That's roughly an 87% discount on one of the larger Serum preset collections currently listed at the store. [Grab the bundle at ADSR Sounds](https://www.adsrsounds.com/product/presets/patchmaker-3300-presets-anniversary-bundle-serum-presets/?a_aid=plugindrop&data1=patchmaker-3300-presets-anniversary-bundle-serum-presets&utm_source=plugindrop&utm_medium=article&utm_campaign=patchmaker-3300-presets-anniversary-bundle-serum-presets).
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $25; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="audio-embed">
 <audio controls style="width:100%">
   <source src="https://adsrsounds.com/mp3/844355-655345034.mp3">
 </audio>
 </div>
-
 
 ## What Is the Patchmaker 3300 Presets Anniversary Bundle?
 
@@ -48,9 +52,9 @@ This is a preset collection for Xfer Records' Serum synthesizer, sold through AD
 | Deal Price | **$25** |
 | You Save | ~$174 (about 87%) |
 
-Do the math on volume: $25 for 3,300 presets works out to less than one cent per preset. Even at the regular $199 price, that's about six cents per preset, which is already competitive for a preset bundle this size. Preset bundle pricing at ADSR fluctuates with promotional periods, so verify current pricing on the product page before checking out, since deals can change or expire.
+Do the math on volume: $25 for 3,300 presets works out to less than one cent per preset. Even at the regular $199 price, that's about six cents per preset, which is already competitive for a preset bundle this size.
 
-[Check the current price at ADSR Sounds](https://www.adsrsounds.com/product/presets/patchmaker-3300-presets-anniversary-bundle-serum-presets/?a_aid=plugindrop&data1=patchmaker-3300-presets-anniversary-bundle-serum-presets&utm_source=plugindrop&utm_medium=article&utm_campaign=patchmaker-3300-presets-anniversary-bundle-serum-presets).
+adsrsounds.com/product/presets/patchmaker-3300-presets-anniversary-bundle-serum-presets/?a_aid=plugindrop&data1=patchmaker-3300-presets-anniversary-bundle-serum-presets&utm_source=plugindrop&utm_medium=article&utm_campaign=patchmaker-3300-presets-anniversary-bundle-serum-presets).
 
 ## Alternatives at a Glance
 
@@ -71,7 +75,7 @@ A: Yes. This is a preset pack, not a standalone plugin, so you need a licensed c
 A: Preset packs are generally sold as a one-time, perpetual-license purchase rather than a subscription. Confirm the exact license terms on the ADSR product page.
 
 **Q: Can I use these presets in commercial releases?**
-A: Most preset packs allow use in commercial music production, but licensing terms vary by publisher. Check the product page for the specific license agreement.
+A: Most preset packs allow use in commercial music production, but licensing terms vary by publisher.
 
 **Q: Does ADSR Sounds offer refunds on digital preset packs?**
 A: Digital products like preset packs are typically non-refundable once downloaded. Check ADSR's official refund policy for full details before purchasing.
@@ -89,7 +93,6 @@ An 87% discount on a 3,300-preset bundle is a significant markdown by any measur
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

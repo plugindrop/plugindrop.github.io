@@ -11,8 +11,13 @@ heroImage: "/images/korneff-audio-korneff-audio-has-released-yesterday-power-gri
 dealPrice: "FREE"
 draft: false
 score: 1.54
+saleExpiry: "2026-05-03"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Korneff Audio's Power Grid Disruptor — a glitch, distortion, and impact FX plugin — is **free right now** (limited time). No coupon needed, just grab it from [the product page](https://korneffaudio.com/product/power-grid-disruptor/). Mac, Windows, and Linux supported. Expiry unknown, so don't sit on this one.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/6NN6zEb4B2U" title="This $348 Plugin Is FREE Right Now For A Limited Time! - Power Grid Disruptor By Korneff Audio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -74,7 +79,7 @@ A: No. Korneff Audio uses software-based licensing with no USB dongle required. 
 A: It supports Pro Tools, Logic Pro, Ableton Live, FL Studio, Cubase, Studio One, Reaper, Bitwig Studio, Reason, Nuendo, Digital Performer, Audacity, and GarageBand. Available in VST3, AU, AAX, and LV2 formats.
 
 **Q: What are the system requirements?**
-A: Minimum i5 quad-core processor (Intel, AMD, or Apple Silicon), 4GB RAM, and a 1024x768 display. Runs on macOS 10.14+, Windows 7+, and Ubuntu 18.04 LTS+. Check the official product page for the most current specs.
+A: Minimum i5 quad-core processor (Intel, AMD, or Apple Silicon), 4GB RAM, and a 1024x768 display. Runs on macOS 10.14+, Windows 7+, and Ubuntu 18.04 LTS+.
 
 ## Get the Deal
 

@@ -11,8 +11,14 @@ originalPrice: "$179.77"
 discount: "86% OFF"
 draft: false
 score: 4.04
+saleExpiry: "2026-05-14"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Khron Studio's Mech Core Alliance is a sample/loop pack built for producers who need industrial, mechanical, and hybrid-electronic textures — and it's currently available at a discounted price on ADSR Sounds. Check the product page for the exact deal price, but the savings are worth a look before this offer moves. [Grab it here while it lasts.](https://www.adsrsounds.com/product/presets/khron-studio-mech-core-alliance-samples-loops/?utm_source=plugindrop&utm_medium=article&utm_campaign=khron-studio-mech-core-alliance-samples-loops-adsr-deal)
+
+## Price Context (tracked by PluginDrop)
+- Regular: $179.77
+- Verdict: **NO HISTORY** — The current deal is $25; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -21,7 +27,6 @@ score: 4.04
   <source src="https://adsrsounds.com/mp3/2266710-2115390003.mp3">
 </audio>
 </div>
-
 
 ## What Is Khron Studio Mech Core Alliance?
 
@@ -62,8 +67,6 @@ Mech Core Alliance occupies a fairly niche corner of the sample pack market, so 
 
 Exact pricing shifts on ADSR Sounds based on active promotions. ADSR runs regular flash sales and rotates deals frequently, so the current discount may not last long. Always verify the live price before committing.
 
-> Verify current pricing on the product page — deals can change.
-
 [See the current deal price on ADSR Sounds →](https://www.adsrsounds.com/product/presets/khron-studio-mech-core-alliance-samples-loops/?utm_source=plugindrop&utm_medium=article&utm_campaign=khron-studio-mech-core-alliance-samples-loops-adsr-deal)
 
 ---
@@ -83,16 +86,16 @@ If a subscription fits your workflow and you want to cherry-pick sounds, Splice'
 ## FAQ
 
 **Q: Does this pack require any specific plugins or software to use?**
-A: Sample and loop packs like this are DAW-agnostic — they load into any DAW that supports standard audio formats. Check the product page to confirm the file formats included.
+A: Sample and loop packs like this are DAW-agnostic — they load into any DAW that supports standard audio formats.
 
 **Q: Is this a one-time purchase or subscription?**
 A: ADSR Sounds operates on a standard pay-once model for individual packs. You purchase the pack outright and receive the files — no ongoing subscription required for this product.
 
 **Q: Can these samples be used in commercial projects?**
-A: Royalty and licensing terms vary by publisher. Check the official product page on ADSR Sounds for the exact licensing terms before using in commercial sync or release projects.
+A: Royalty and licensing terms vary by publisher.
 
 **Q: What are the system requirements?**
-A: As a samples/loops pack (not a plugin), there are no strict system requirements beyond storage space and a compatible DAW. Check the product page for specifics on file size and format.
+A: As a samples/loops pack (not a plugin), there are no strict system requirements beyond storage space and a compatible DAW.
 
 ---
 

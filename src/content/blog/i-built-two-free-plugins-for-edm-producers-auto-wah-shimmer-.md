@@ -9,15 +9,21 @@ aiImage: true
 score: 5.26
 dealPrice: "FREE"
 draft: false
+saleExpiry: "2026-08-16"
 ---
 **TL;DR:** A developer is giving away two plugins built specifically for electronic producers: Satin Funk, an envelope filter that goes from buttery auto-wah to Mu-Tron-style quack, and Shimmer. Both are ~~paid~~ **free** downloads with no email, no signup, and no mailing list required. Grab both directly from [Satin Press](https://pickysam-ux.github.io/satin-press/).
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-08-16 (5 observations)
+- Lowest we've tracked: $86 · Typical sale: $86 · Regular: $129
+- Verdict: **BUY NOW** — the current $0 price is within 5% of the $86 lowest tracked price.
+- Sale pattern: auto-crawl 2026-08-16
 
 <div class="audio-embed">
 <audio controls style="width:100%">
   <source src="https://pickysam-ux.github.io/satin-press/audio/01_satin_funk.m4a">
 </audio>
 </div>
-
 
 ## What Are Satin Funk and Shimmer?
 
@@ -36,7 +42,6 @@ Shimmer is the second plugin in this free release, aimed at the same EDM product
 - **Sensitivity control** — shapes how the filter reacts to input envelope.
 - **Cutoff and Resonance controls** — standard filter shaping parameters for tone sculpting.
 - **Attack control** — adjusts how quickly the filter responds to incoming signal.
-- Additional controls exist beyond these; check the product page for the complete parameter list.
 
 ## Who Is It For?
 
@@ -51,7 +56,7 @@ Shimmer is the second plugin in this free release, aimed at the same EDM product
 |---|---|---|
 | Verify current pricing on the product page | FREE | 100% |
 
-Both Satin Funk and Shimmer are listed as free downloads, not discounted from a paid tier. There's no indication this is a limited-time promotional price — it reads as a standard free release from the developer. Verify current pricing and availability on the product page, since deals and plugin status can change.
+Both Satin Funk and Shimmer are listed as free downloads, not discounted from a paid tier. There's no indication this is a limited-time promotional price — it reads as a standard free release from the developer.
 
 [Download Satin Funk and Shimmer free](https://pickysam-ux.github.io/satin-press/)
 
@@ -71,10 +76,9 @@ If you specifically want a shimmer-style reverb with a track record, Valhalla Su
 A: No. Based on the developer's announcement, both plugins are direct downloads with no email capture or mailing-list signup required.
 
 **Q: What plugin formats do Satin Funk and Shimmer support (VST3, AU, AAX)?**
-A: Check the product page for the exact formats and operating system compatibility before downloading.
 
 **Q: Is there a paid or "Pro" version of either plugin?**
-A: Nothing in the source announcement indicates a paid upgrade tier. Check the product page to confirm current status.
+A: Nothing in the source announcement indicates a paid upgrade tier.
 
 **Q: How is Satin Funk different from a standard auto-wah plugin?**
 A: It combines a Moog-style ladder filter for low-end warmth with a state-variable vowel-peak filter sweeping the formant range, giving it a range from smooth auto-wah to sharper Mu-Tron-style quack rather than a single fixed wah character.
@@ -93,7 +97,6 @@ Since both plugins are free with no signup barrier, there's little downside to d
 
 - [15 Best Free Reverb VST Plugins in 2026](/posts/best-free-reverb-vst-plugins/)
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
-
 
 ---
 

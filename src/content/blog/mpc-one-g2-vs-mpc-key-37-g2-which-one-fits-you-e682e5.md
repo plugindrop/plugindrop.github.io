@@ -11,11 +11,16 @@ originalPrice: "$199.99"
 discount: "25% OFF"
 xText: "the g2 models are legit. key 37's got keys, one's got portability. both insanely faster. which one's your move?"
 draft: false
+saleExpiry: "2026-07-30"
+saleExpirySource: "fallback"
 ---
-**TL;DR:** Akai just dropped two new second-generation standalone MPCs — the MPC One G2 and MPC Key 37 G2 — with the MPC One G2 starting at ~~$199.99~~ **$149.99**. Both share the same upgraded 8-core processor and MPC3 software, making this a real decision about workflow rather than power. [Check out both options and current pricing here.](https://audioplugin.deals/blog/mpc-one-g2-vs-mpc-key-37-g2-which-one-fits-you/)
+**TL;DR:** Akai just dropped two new second-generation standalone MPCs — the MPC One G2 and MPC Key 37 G2 — with the MPC One G2 starting at ~~$199.99~~ **$149.99**. Both share the same upgraded 8-core processor and MPC3 software, making this a real decision about workflow rather than power. [Check out both options and current pricing here.](https://audioplugin.deals/posts/mpc-one-g2-vs-mpc-key-37-g2-which-one-fits-you/)
+
+## Price Context (tracked by PluginDrop)
+- Regular: $199.99
+- Verdict: **NO HISTORY** — The current deal is $149.99; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
-
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/ZJWe9nQJkK8" title="AKAI Professional MPC Key 37 Standalone Production Keyboard | Demo and Overview with Andy Mac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -65,7 +70,7 @@ These aren't entry-level machines. They're aimed at producers who want a complet
 | MPC One G2 | ~~$199.99~~ | **$149.99** | $50 |
 | MPC Key 37 G2 | Check product page | Check product page | — |
 
-Pricing on the MPC Key 37 G2 can vary — verify current pricing on the product page, as deals can change. [See current pricing for both models here.](https://audioplugin.deals/blog/mpc-one-g2-vs-mpc-key-37-g2-which-one-fits-you/)
+ [See current pricing for both models here.](https://audioplugin.deals/posts/mpc-one-g2-vs-mpc-key-37-g2-which-one-fits-you/)
 
 ---
 
@@ -99,7 +104,7 @@ A: Check the official Akai site for registration and activation requirements, as
 
 ## Get the Deal
 
-The MPC One G2 is down to **$149.99** (regularly ~~$199.99~~) — a clean $50 off on Akai's newest standalone production workhorse. [Grab the deal and compare both G2 models here.](https://audioplugin.deals/blog/mpc-one-g2-vs-mpc-key-37-g2-which-one-fits-you/)
+The MPC One G2 is down to **$149.99** (regularly ~~$199.99~~) — a clean $50 off on Akai's newest standalone production workhorse. [Grab the deal and compare both G2 models here.](https://audioplugin.deals/posts/mpc-one-g2-vs-mpc-key-37-g2-which-one-fits-you/)
 
 ---
 

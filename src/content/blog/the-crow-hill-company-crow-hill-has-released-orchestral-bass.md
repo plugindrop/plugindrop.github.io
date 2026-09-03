@@ -9,15 +9,19 @@ score: 9.72
 dealPrice: "FREE"
 xText: "free orchestral bass from crow hill with that slide texture. sits in a mix like butter and costs zero. that's the grab-now deal right there."
 draft: false
+saleExpiry: "2026-07-01"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** The Crow Hill Company just dropped Orchestral Bass Slide as a completely free download — no strings attached, no trial limit. It's part of their Vaults series and runs on both Windows and Mac. [Grab it here before it's gone.](https://thecrowhillcompany.com/orchestral-bass-slides/)
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Z48KJsPskrY" title="The Crow Hill Company — Crow Hill has released Orchestral Bass Slide, a free virtual instrument plugin for Win & Mac from the Vaults series. Expiry: Unknown — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is Orchestral Bass Slide?
 
@@ -76,7 +80,7 @@ If you specifically need orchestral bass slide articulations, this is the most p
 A: Yes — it is listed as a free download directly from The Crow Hill Company. No subscription or upgrade is required to use it.
 
 **Q: What platforms does it support?**
-A: Windows and Mac are both confirmed. Check the official product page for supported plugin formats (VST/AU/AAX) and minimum OS version requirements.
+A: Windows and Mac are both confirmed.
 
 **Q: Do I need an iLok or account to activate it?**
 A: Activation and registration details vary by product — check the official site for the exact license terms for this release.
@@ -95,7 +99,6 @@ Free orchestral bass slides — a highly specific articulation that typically co
 ## Related Guides
 
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
-
 
 ---
 

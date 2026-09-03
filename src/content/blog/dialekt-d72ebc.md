@@ -11,14 +11,19 @@ originalPrice: "$99.00"
 discount: "30% OFF"
 xText: "new plugin at 30% off basically doesn't happen. most devs keep releases full price, so if dialekt's on your radar this is the window"
 draft: false
+saleExpiry: "2023-11-19"
 ---
 **TL;DR:** Dialekt is on sale at Plugin Boutique for $69, down from ~~$99~~ — a 30% discount on this vocal processing and sound design plugin. The deal covers modulation-driven vocal shaping for producers who want creative, non-standard vocal textures. [Grab Dialekt at 30% off here.](https://www.pluginboutique.com/product/1-Instruments/6-Groovebox/14669-Dialekt?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dialekt-d72ebc&chan=art&data1=dialekt-d72ebc)
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2023-11-19 (13 observations)
+- Lowest we've tracked: $29 · Regular: $112
+- Verdict: **WAIT** — the current $69 price is not within 5% of the $29 lowest tracked price.
+- Sale pattern: auto-crawl 2026-07-19
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="30% Off Dialekt — Vocal Modulation & Sound Design ($69) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1903174291%3Fsecret_token%3Ds-CKamT1VjJoT&color=cc3400&auto_play=false&hide_related=true&show_comments=true&show_user=false&show_reposts=false&sharing=false&download=false&show_playcount=true"></iframe>
 </div>
-
-
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/1trjc4dKgTM" title="Dialekt Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -43,15 +48,13 @@ Check the product page for the complete feature list, supported plugin formats (
 - **Sound designers** working on vocal chops, transitions, or genre-bending vocal processing.
 - **Producers on a budget** who want to test a new vocal tool at a discounted entry price rather than full retail.
 
-If you need straightforward pitch correction or a standard vocal channel strip, this may not be the right tool — check the product page description to confirm it fits your workflow before buying.
-
 ## Pricing & Deal Details
 
 | Regular Price | Deal Price | You Save |
 |---|---|---|
 | ~~$99~~ | $69 | 30% ($30) |
 
-This is a straightforward percentage-off promotion rather than a bundle, so there's no per-unit math to break down. Verify current pricing on the product page — deals can change, and Plugin Boutique sale windows are often time-limited.
+This is a straightforward percentage-off promotion rather than a bundle, so there's no per-unit math to break down.
 
 [See the current Dialekt price at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/6-Groovebox/14669-Dialekt?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dialekt-d72ebc&chan=art&data1=dialekt-d72ebc)
 
@@ -68,7 +71,6 @@ If you already own a full vocal processing chain and just need cleanup tools, yo
 ## FAQ
 
 **Q: Does Dialekt require an iLok or online activation?**
-A: Check the official product page or Plugin Boutique's license terms for activation requirements, as these vary by developer.
 
 **Q: What plugin formats does Dialekt support?**
 A: Supported formats (VST, VST3, AU, AAX) should be listed on the product page — confirm compatibility with your DAW before purchasing.
@@ -77,7 +79,6 @@ A: Supported formats (VST, VST3, AU, AAX) should be listed on the product page �
 A: This specific 30% off promotion is listed on Plugin Boutique. Availability elsewhere is not confirmed.
 
 **Q: What are the system requirements?**
-A: Check the official product page for current OS and DAW compatibility requirements.
 
 ## Get the Deal
 
@@ -94,7 +95,6 @@ A 30% discount is a solid, mid-range promotion — not a rock-bottom flash sale,
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
 - [Complete Vocal Processing Chain](/posts/vocal-processing-chain-plugins/)
-
 
 ---
 

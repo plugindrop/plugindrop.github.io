@@ -10,8 +10,15 @@ originalPrice: "$29.9"
 discount: "60% OFF"
 score: 4.95
 draft: false
+saleExpiry: "2023-11-19"
 ---
 **TL;DR:** Wa Production's *What About Midnight Bass House Vocals* is currently on sale at ADSR Sounds — check the product page for the current deal price versus the regular rate. If you produce bass house, this is a targeted grab at a reduced price. [See the deal on ADSR Sounds.](https://www.adsrsounds.com/product/presets/wa-production-what-about-midnight-bass-house-vocals/?utm_source=plugindrop&utm_medium=article&utm_campaign=wa-production-what-about-midnight-bass-house-vocals-adsr-dea)
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2023-11-19 (13 observations)
+- Lowest we've tracked: $29 · Regular: $112
+- Verdict: **BUY NOW** — the current $11.96 price is within 5% of the $29 lowest tracked price.
+- Sale pattern: auto-crawl 2026-07-19
 
 ---
 
@@ -20,7 +27,6 @@ draft: false
   <source src="https://adsrsounds.com/mp3/2306724-2303059487.mp3">
 </audio>
 </div>
-
 
 ## What Is Wa Production What About Midnight Bass House Vocals?
 
@@ -59,7 +65,7 @@ Wa Production's "What About" series has built a solid reputation in producer com
 |---|---|---|
 | ~~Check product page~~ | ADSR sale price | Verify at checkout |
 
-Wa Production packs do appear on ADSR Sounds at promotional pricing periodically — this is worth picking up during an active deal rather than waiting, as sale windows are not guaranteed to recur on a fixed schedule. Verify current pricing on the product page — deals can change.
+Wa Production packs do appear on ADSR Sounds at promotional pricing periodically — this is worth picking up during an active deal rather than waiting, as sale windows are not guaranteed to recur on a fixed schedule.
 
 [Grab it at the current ADSR deal price here.](https://www.adsrsounds.com/product/presets/wa-production-what-about-midnight-bass-house-vocals/?utm_source=plugindrop&utm_medium=article&utm_campaign=wa-production-what-about-midnight-bass-house-vocals-adsr-dea)
 
@@ -83,7 +89,6 @@ If you want outright ownership of a bass house-specific vocal pack without a sub
 A: Wa Production packs are generally royalty-free, but verify the exact license terms on the official product page before commercial use.
 
 **Q: What file formats are included?**
-A: Check the product page for confirmed format details — most Wa Production packs deliver standard WAV files compatible with any DAW.
 
 **Q: Does it require any specific plugin or software to use?**
 A: No plugin is required — the pack contains audio samples usable in any DAW or sampler.

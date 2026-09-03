@@ -10,13 +10,18 @@ dealPrice: "$69.00"
 originalPrice: "$99.00"
 discount: "30% OFF"
 draft: false
+saleExpiry: "2026-09-12"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** SubBoomBass 2 is discounted to $69 from ~~$99~~ at Plugin Boutique, a 30% saving on this bass-focused synth plugin. If you produce hip-hop, trap, EDM, or any genre that leans on low end, this is worth a look while the deal is live. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=SubBoomBass+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subboombass-2-cec3c4).
+
+## Price Context (tracked by PluginDrop)
+- Regular: $99
+- Verdict: **NO HISTORY** — The current deal is $69; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/e9unzOQ1lrU" title="30% Off SubBoomBass 2 — Deep Bass Sounds for Tracks ($69) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is SubBoomBass 2?
 
@@ -26,7 +31,7 @@ SubBoomBass 2 is a bass synthesizer plugin from AudioThing, built specifically f
 
 - **Dedicated bass engine** — the synth architecture is built around sub and bass frequencies rather than trying to cover every sound category.
 - **Distortion/saturation stage** — an onboard drive section for adding grit and harmonic content to low-end signals.
-- **Preset library** — a collection of factory presets aimed at genres like trap, hip-hop, and EDM. Check the product page for the exact preset count.
+- **Preset library** — a collection of factory presets aimed at genres like trap, hip-hop, and EDM.
 - **MIDI-controllable parameters** — key synth controls can be mapped for hands-on tweaking or automation.
 - **Standard plugin formats** — works inside major DAWs as an instrument plugin. Verify VST/AU/AAX compatibility for your specific setup on the product page.
 
@@ -45,9 +50,9 @@ If you need exact specs like oscillator count, filter types, or CPU requirements
 |---|---|---|
 | ~~$99~~ | $69 | $30 (30%) |
 
-Plugin Boutique regularly runs promotions across its catalog, so a 30% discount on a plugin like this is a reasonable, though not exceptional, markdown to see. Verify current pricing on the product page — deals can change or end without notice.
+Plugin Boutique regularly runs promotions across its catalog, so a 30% discount on a plugin like this is a reasonable, though not exceptional, markdown to see.
 
-[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=SubBoomBass+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subboombass-2-cec3c4).
+pluginboutique.com/search?q=SubBoomBass+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subboombass-2-cec3c4).
 
 ## Alternatives at a Glance
 
@@ -65,13 +70,13 @@ If you want a synth dedicated to bass without programming from a blank patch, Su
 A: AudioThing plugins typically use a license key or machine-based activation system rather than a physical iLok dongle, but confirm this on the official product page before purchase.
 
 **Q: What DAWs is SubBoomBass 2 compatible with?**
-A: It works as a standard instrument plugin in VST/VST3/AU/AAX-compatible DAWs. Check the product page for the full compatibility list and system requirements.
+A: It works as a standard instrument plugin in VST/VST3/AU/AAX-compatible DAWs.
 
 **Q: Is this a one-time purchase or a subscription?**
 A: Plugin Boutique typically sells plugins like this as a perpetual license, meaning you own it after purchase. Confirm the license terms on the product page.
 
 **Q: How long will the 30% discount last?**
-A: No end date was listed with this deal. Check the product page for current pricing, since promotional pricing can change or expire at any time.
+A: No end date was listed with this deal.
 
 ## Get the Deal
 
@@ -87,7 +92,6 @@ A 30% discount is a common promotional depth for plugin retailers like Plugin Bo
 
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

@@ -9,11 +9,15 @@ score: 7.92
 dealPrice: "FREE"
 xText: "free plugin roundup this week hits different. real gear that usually costs money, zero dollars. go grab them while it's live."
 draft: false
+saleExpiry: "2026-07-29"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Fine Classics Saturator is currently available at absolutely no cost — a free saturation plugin with no coupon required, directly from the developer. No expiry date has been announced, which means this could disappear anytime. [Download Fine Classics Saturator free here.](https://fineclassicsplugins.com/products/fine-classics-saturator)
 
----
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
+---
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/mz39S0AEaZ4" title="The Best FREEBIES of 2021 + Deals of the Week | Audio Plugin Guy Vlog 🔌😁👍" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -53,7 +57,7 @@ Fine Classics Plugins is a smaller independent developer. That makes this kind o
 |---|---|---|
 | Verify on product page | **FREE** | 100% |
 
-No original price has been confirmed publicly. Verify current pricing on the product page — deals can change without notice, and no end date for this offer has been announced.
+No original price has been confirmed publicly.
 
 [Claim Fine Classics Saturator for free →](https://fineclassicsplugins.com/products/fine-classics-saturator)
 
@@ -88,7 +92,7 @@ If you want a battle-tested free saturator with years of community familiarity, 
 A: Yes — at the time of writing, it's available at no cost directly from Fine Classics Plugins. No end date for the offer has been publicly announced, so availability could change.
 
 **Q: What DAWs and plugin formats does it support?**
-A: Fine Classics Saturator works on Mac and Windows. For specific supported formats (VST3, AU, AAX) and DAW compatibility, check the official product page directly.
+A: Fine Classics Saturator works on Mac and Windows.
 
 **Q: Do I need an iLok or a user account to download it?**
 A: Activation and account requirements vary by developer — check the Fine Classics Plugins product page for download and registration details.
@@ -113,7 +117,6 @@ When the price is zero, the question isn't "should I buy now or wait" — it's j
 ## Related Guides
 
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
-
 
 ---
 

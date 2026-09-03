@@ -11,8 +11,16 @@ originalPrice: "$167.42"
 discount: "11% OFF"
 xText: "free u-he hive 2 synthwave pack just dropped and it's legitimate. this thing sits in a mix like you spent hours on it. download it now"
 draft: true
+saleExpiry: "2021-09-26"
 ---
 **TL;DR:** u-he Hive 2 is currently bundled with a free Synthwave Expansion at Plugin Boutique for ~~$167.42~~ $149.00 — saving $18.42 on a combined package that would otherwise cost more purchased separately. [→ Get Hive 2 + Free Synthwave Expansion at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/7683-u-he-Hive-2-FREE-Synthwave-Expansion?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=u-he-hive-2-free-synthwave-expansion-c57c90&chan=art&data1=u-he-hive-2-free-synthwave-expansion-c57c90)
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2021-09-26 (44 observations)
+- Lowest we've tracked: $65 · Typical sale: $104 · Regular: $149
+- Verdict: **WAIT** — the current $149 price is more than 15% above the $104 typical sale price.
+- Sale pattern: u-he. Regular promo ~30% off ($104). Documented Black Friday low of $65 in 2022 and 2023 (Reddit r/AudioProductionDeals tracking thread); missed the BF sale in 2024.
+- Cheaper right now in the same category: [Vital](/plugin-prices/vital/) ($0), [Cherry Audio DCO-106](/plugin-prices/cherry-audio-dco-106/) ($29), [Cherry Audio PS-20](/plugin-prices/cherry-audio-ps-20/) ($29), [Cherry Audio GX-80](/plugin-prices/cherry-audio-gx-80/) ($35), [Cherry Audio Mercury-4](/plugin-prices/cherry-audio-mercury-4/) ($49)
 
 ---
 

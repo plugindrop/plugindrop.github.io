@@ -14,12 +14,15 @@ draft: true
 ---
 **TL;DR:** Gravitas Flavors' Future Bass Vol 1 for Xfer Serum is discounted from ~~$19.99~~ to **$13.99** at ADSR Sounds, a 30% saving. It's a genre-focused preset pack built for producers who want Serum patches tuned specifically for future bass without dialing in synthesis from scratch. [Grab the deal at ADSR Sounds](https://www.adsrsounds.com/product/presets/gravitas-flavors-future-bass-vol-1-future-bass-serum-presets/?a_aid=plugindrop&data1=gravitas-flavors-future-bass-vol-1-future-bass-serum-presets&utm_source=plugindrop&utm_medium=article&utm_campaign=gravitas-flavors-future-bass-vol-1-future-bass-serum-presets).
 
+## Price Context (tracked by PluginDrop)
+- Regular: $19.99
+- Verdict: **NO HISTORY** — The current deal is $13.99; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
+
 <div class="audio-embed">
 <audio controls style="width:100%">
   <source src="https://adsrsounds.com/mp3/888142-684171725.mp3">
 </audio>
 </div>
-
 
 ## What Is Gravitas Flavors Future Bass Vol 1?
 
@@ -33,7 +36,7 @@ Future Bass Vol 1 is a Serum preset pack from Gravitas Flavors, sold through ADS
 - **Digital delivery**: instant download after purchase through the ADSR Sounds platform.
 - **Vol 1 designation**: suggests this is the first entry in a series, so a companion volume may follow.
 
-For the precise sound categories (leads, bass, chords, plucks, etc.) and total preset count, check the product page for details.
+For the precise sound categories (leads, bass, chords, plucks, etc.
 
 ## Who Is It For?
 
@@ -48,7 +51,7 @@ For the precise sound categories (leads, bass, chords, plucks, etc.) and total p
 |---|---|---|
 | ~~$19.99~~ | $13.99 | $6.00 (30%) |
 
-This is a straightforward percentage-off promotion rather than a bundle, so there's no per-unit math to break down. Verify current pricing on the product page — deals can change, and ADSR Sounds runs promotions across its preset catalog periodically rather than on a fixed schedule.
+This is a straightforward percentage-off promotion rather than a bundle, so there's no per-unit math to break down.
 
 [Get 30% off at ADSR Sounds](https://www.adsrsounds.com/product/presets/gravitas-flavors-future-bass-vol-1-future-bass-serum-presets/?a_aid=plugindrop&data1=gravitas-flavors-future-bass-vol-1-future-bass-serum-presets&utm_source=plugindrop&utm_medium=article&utm_campaign=gravitas-flavors-future-bass-vol-1-future-bass-serum-presets).
 
@@ -68,10 +71,9 @@ If you specifically want a paid, curated future bass set for Serum, this pack fi
 A: Yes. This is a preset pack for Xfer Serum, and you need an existing license for that synth to load and use the patches.
 
 **Q: Is this a one-time purchase or a subscription?**
-A: Preset packs sold through ADSR Sounds are typically one-time digital purchases with instant download access. Check the product page to confirm licensing terms.
+A: Preset packs sold through ADSR Sounds are typically one-time digital purchases with instant download access.
 
 **Q: How many presets are included?**
-A: The exact preset count isn't confirmed here — check the product page for the full content list before buying.
 
 **Q: Will there be a Future Bass Vol 2 from Gravitas Flavors?**
 A: The "Vol 1" naming suggests a series is possible, but no future volume is confirmed. Check the Gravitas Flavors catalog on ADSR Sounds for related packs.
@@ -89,7 +91,6 @@ A 30% discount on a preset pack is a solid but not extraordinary markdown. Prese
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

@@ -10,8 +10,14 @@ dealPrice: "FREE"
 originalPrice: "$4.99"
 xText: "yo these free plugins just dropped and some hit different. go grab them rn the good stuff goes fast."
 draft: false
+saleExpiry: "2026-08-10"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** NoizLabs' Beheader, a clipper and saturation plugin for Mac and Windows, is currently ~~$4.99~~ **FREE** for a limited time — no coupon code needed. Grab it now, since the promo's end date hasn't been announced. [Download Beheader free here](https://www.noizlabs.com/products/beheader).
+
+## Price Context (tracked by PluginDrop)
+- Regular: $4.99
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## What Is Beheader?
 
@@ -39,7 +45,7 @@ For exact plugin formats (VST/AU/AAX), CPU requirements, and version details, ch
 |---|---|---|
 | ~~$4.99~~ | **FREE** | $4.99 (100%) |
 
-Free promotions like this typically run for a limited window without a fixed end date, so pricing can revert to $4.99 without much notice. Verify current pricing on the product page before assuming the free offer is still live — deals can change.
+Free promotions like this typically run for a limited window without a fixed end date, so pricing can revert to $4.99 without much notice.
 
 [Get Beheader free while the promo is active](https://www.noizlabs.com/products/beheader).
 
@@ -62,7 +68,6 @@ A: Yes — NoizLabs is currently offering Beheader at no cost for a limited time
 A: Beheader is available for both Mac and Windows, per the product listing.
 
 **Q: Does Beheader require an iLok or specific license activation?**
-A: This isn't stated in the source listing — check the official product page for authorization and license details.
 
 **Q: How long will the free deal last?**
 A: No expiry date has been announced, so it could end at any time. It's safest to download it now rather than wait.
@@ -78,7 +83,6 @@ Since Beheader is currently free and only $4.99 outside the promotion, there's m
 ## Related Guides
 
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
-
 
 ---
 

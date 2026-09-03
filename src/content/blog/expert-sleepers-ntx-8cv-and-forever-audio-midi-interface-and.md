@@ -9,11 +9,15 @@ score: 8.28
 dealPrice: "FREE"
 xText: "expert sleepers made the ntx-8cv and forever free. audio/midi interface + the freeze effect eurorack heads actually want. go grab them."
 draft: false
+saleExpiry: "2026-06-04"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Expert Sleepers has unveiled two new Eurorack modules — the NTX-8CV audio/MIDI interface and Forever audio freezer — announced at Superbooth. Pricing details are not yet confirmed, so verify current availability at [Thomann](https://www.thomann.de/intl/expert_sleepers.html?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=expert-sleepers-ntx-8cv-and-forever-audio-midi-interface-and) before they sell out.
 
----
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
+---
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/CnUIXu6oGeg" title="Expert Sleepers: Disting NT | Full Demo and Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
@@ -81,7 +85,6 @@ If your primary need is audio/MIDI routing between DAW and rack, NTX-8CV targets
 ## FAQ
 
 **Q: Is the Forever module the same as the Freeze algorithm on the disting NT?**
-A: Forever is *based on* the disting NT's Freeze algorithm, giving it a dedicated module form factor — check the official product page for any differences in implementation.
 
 **Q: Does NTX-8CV require any driver or software installation?**
 A: Check the Expert Sleepers product page for driver and compatibility details, as USB audio interfaces can vary by OS.
@@ -101,7 +104,6 @@ Two purpose-built modules from one of Eurorack's most reliable utility makers �
 ## Related Guides
 
 - [Best Free VST Plugins in 2026](/posts/best-free-vst-plugins-2026/)
-
 
 ---
 

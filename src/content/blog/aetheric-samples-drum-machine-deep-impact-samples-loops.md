@@ -11,8 +11,14 @@ originalPrice: "$19.95"
 discount: "40% OFF"
 xText: "40% off aetheric deep impact drums — lowest price i've seen. warehouse hits that sit in a mix like they belong there. move quick on this one."
 draft: false
+saleExpiry: "2026-07-05"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Aetheric Samples' Drum Machine Deep Impact Samples & Loops is down 40% at ADSR Sounds — just $11.97 instead of the usual ~~$19.95~~. If you produce beats that need punchy, machine-driven drum sounds, this is a low-risk entry point at under $12. [Grab the deal at ADSR Sounds.](https://www.adsrsounds.com/product/presets/aetheric-samples-drum-machine-deep-impact-samples-loops/?a_aid=plugindrop&data1=aetheric-samples-drum-machine-deep-impact-samples-loops&utm_source=plugindrop&utm_medium=article&utm_campaign=aetheric-samples-drum-machine-deep-impact-samples-loops)
+
+## Price Context (tracked by PluginDrop)
+- Regular: $19.95
+- Verdict: **NO HISTORY** — The current deal is $11.97; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -21,7 +27,6 @@ draft: false
   <source src="https://adsrsounds.com/mp3/2238493-1994721519.mp3">
 </audio>
 </div>
-
 
 ## What Is Aetheric Samples Drum Machine Deep Impact?
 
@@ -54,7 +59,7 @@ The "deep impact" framing signals a deliberate emphasis on low-end weight and pu
 
 A 40% discount is a meaningful cut for a sample pack in this price tier. Sample packs at this range don't always run deep sales, so locking in at under $12 makes the math easy. There's no per-unit breakdown needed here — it's a single pack at a flat price.
 
-*Deals can expire without notice — verify current pricing on the product page before purchasing.*
+*
 
 [Get Drum Machine Deep Impact for $11.97 at ADSR Sounds](https://www.adsrsounds.com/product/presets/aetheric-samples-drum-machine-deep-impact-samples-loops/?a_aid=plugindrop&data1=aetheric-samples-drum-machine-deep-impact-samples-loops&utm_source=plugindrop&utm_medium=article&utm_campaign=aetheric-samples-drum-machine-deep-impact-samples-loops)
 
@@ -74,7 +79,6 @@ If permanent ownership matters and you want a self-contained pack without a subs
 A: Sample packs are DAW-agnostic — load them into any sampler or audio track in your preferred DAW. No additional plugins are required.
 
 **Q: What file formats are included?**
-A: Check the product page on ADSR Sounds for the confirmed format list — WAV is standard for this type of pack, but always verify before purchasing.
 
 **Q: Is this a one-time purchase or a subscription?**
 A: It's a one-time purchase through ADSR Sounds. You own the download permanently.
@@ -92,7 +96,6 @@ A: Digital sample pack policies vary — check ADSR Sounds' terms and conditions
 
 - [Complete Drum Mixing Plugin Chain](/posts/drum-mixing-plugin-chain/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

@@ -11,8 +11,14 @@ originalPrice: "$17"
 discount: "40% OFF"
 xText: "40% off banger samples obsidian melody — dark trap loops that don't sit dead in your library. the bundle price math is actually insane when you think about it."
 draft: false
+saleExpiry: "2026-07-17"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Banger Samples' Obsidian Melody Dark Trap Melody Loops MIDI Collection is currently **40% off** at ADSR Sounds — drop from ~~$17~~ to **$10.20**. If dark, cinematic trap melodies are in your workflow, this is a low-risk entry point. [Grab it at ADSR Sounds here.](https://www.adsrsounds.com/product/presets/banger-samples-obsidian-melody-dark-trap-melody-loops-midi-collection/?a_aid=plugindrop&data1=banger-samples-obsidian-melody-dark-trap-melody-loops-midi-c&utm_source=plugindrop&utm_medium=article&utm_campaign=banger-samples-obsidian-melody-dark-trap-melody-loops-midi-c)
+
+## Price Context (tracked by PluginDrop)
+- Regular: $17
+- Verdict: **NO HISTORY** — The current deal is $10.2; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -21,7 +27,6 @@ draft: false
   <source src="https://adsrsounds.com/mp3/2312084-2337320927.mp3">
 </audio>
 </div>
-
 
 ## What Is the Banger Samples Obsidian Melody Collection?
 
@@ -60,7 +65,7 @@ A 40% discount on a sub-$20 pack is a solid deal percentage — the absolute dol
 
 > **Note:** Verify current pricing on the product page — deals can change without notice.
 
-[Check the current price and buy at ADSR Sounds.](https://www.adsrsounds.com/product/presets/banger-samples-obsidian-melody-dark-trap-melody-loops-midi-collection/?a_aid=plugindrop&data1=banger-samples-obsidian-melody-dark-trap-melody-loops-midi-c&utm_source=plugindrop&utm_medium=article&utm_campaign=banger-samples-obsidian-melody-dark-trap-melody-loops-midi-c)
+](https://www.adsrsounds.com/product/presets/banger-samples-obsidian-melody-dark-trap-melody-loops-midi-collection/?a_aid=plugindrop&data1=banger-samples-obsidian-melody-dark-trap-melody-loops-midi-c&utm_source=plugindrop&utm_medium=article&utm_campaign=banger-samples-obsidian-melody-dark-trap-melody-loops-midi-c)
 
 ---
 
@@ -85,7 +90,6 @@ A: No. The audio loops and MIDI files are standard formats compatible with any m
 A: ADSR Sounds sells royalty-free content, but always verify the exact license terms on the product page before commercial use.
 
 **Q: Does the pack include stems or only full loops?**
-A: Check the product page for the exact file breakdown — stem availability varies by pack.
 
 **Q: Is there a refund policy if the pack doesn't fit my needs?**
 A: Refund policies for digital downloads vary — check ADSR Sounds' official terms before purchasing.
@@ -101,7 +105,6 @@ A: Refund policies for digital downloads vary — check ADSR Sounds' official te
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

@@ -9,13 +9,17 @@ score: 5.21
 dealPrice: "$99"
 xText: "you already know ten drum machine expansions is chaos to pick through separately. this bundle is the only rational move"
 draft: false
+saleExpiry: "2026-08-23"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** ADSR Sounds is bundling its ADSR Drum Machine plugin with 10 expansion packs for $99. Original pricing on the individual components isn't listed here, so [check the product page](https://www.adsrsounds.com/product/software/adsr-drum-machine-10-expansions-bundle/?a_aid=plugindrop&data1=adsr-drum-machine-10-expansions-bundle-dcf422&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-drum-machine-10-expansions-bundle-dcf422) to see the current savings breakdown. If you're building a drum sound library from scratch, this is a way to get a sampler and a batch of kits in one purchase.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $99; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/odsavL0OixU" title="ADSR Drum Machine — 10 Expansion Packs Bundle ($99) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is ADSR Drum Machine?
 
@@ -26,7 +30,6 @@ ADSR Drum Machine is a sample-based drum sampler plugin from ADSR Sounds, built 
 - **Core drum sampler plugin** — the ADSR Drum Machine engine, used to trigger and sequence drum samples inside your DAW.
 - **10 expansion packs** — additional kits that load into the plugin, expanding your available sounds beyond the stock library.
 - **Pattern sequencing** — build beats using the onboard step sequencer rather than manually placing MIDI notes.
-- **DAW integration** — runs as a plugin inside your production environment; check the product page for exact format compatibility (VST/AU/AAX).
 
 Exact kit names, genres, and sample counts for each expansion aren't confirmed here — the product page lists the full contents pack by pack.
 
@@ -43,7 +46,7 @@ Exact kit names, genres, and sample counts for each expansion aren't confirmed h
 |---|---|---|
 | Verify current pricing on the product page | $99 | Check product page for exact savings |
 
-At $99 for a plugin plus 10 expansion packs, that works out to roughly $9 per item if you count the core plugin as one of the eleven components. Bundle math like this only holds up if you'd actually use most of the included kits, so it's worth skimming the expansion list before buying. Verify current pricing on the product page — deals can change.
+At $99 for a plugin plus 10 expansion packs, that works out to roughly $9 per item if you count the core plugin as one of the eleven components. Bundle math like this only holds up if you'd actually use most of the included kits, so it's worth skimming the expansion list before buying.
 
 [Get the ADSR Drum Machine 10 Expansions Bundle for $99](https://www.adsrsounds.com/product/software/adsr-drum-machine-10-expansions-bundle/?a_aid=plugindrop&data1=adsr-drum-machine-10-expansions-bundle-dcf422&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-drum-machine-10-expansions-bundle-dcf422)
 
@@ -63,13 +66,11 @@ If you only want one or two specific kits, buying individual expansion packs may
 A: Based on the product listing, the bundle includes both the core ADSR Drum Machine plugin and the 10 expansion packs.
 
 **Q: What DAWs and plugin formats does ADSR Drum Machine support?**
-A: Check the official product page for the current list of supported formats and DAW compatibility before purchasing.
 
 **Q: Is this a one-time purchase or a subscription?**
 A: ADSR Sounds typically sells plugins and sample content as one-time purchases, but confirm the license type on the product page.
 
 **Q: Can I demo the expansion packs before buying?**
-A: Check the product page for audio previews or demo content for each included expansion.
 
 ## Get the Deal
 
@@ -85,7 +86,6 @@ Whether $99 is a strong price depends on what the plugin and each expansion norm
 
 - [Complete Drum Mixing Plugin Chain](/posts/drum-mixing-plugin-chain/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

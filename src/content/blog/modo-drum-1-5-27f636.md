@@ -10,13 +10,18 @@ dealPrice: "$39.99"
 originalPrice: "$199.99"
 discount: "80% OFF"
 draft: false
+saleExpiry: "2026-09-20"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** IK Multimedia's MODO DRUM is currently ~~$199.99~~ **$39.99** at Plugin Boutique, an 80% discount on the physically modeled drum instrument. If you've been curious about modeling-based drums instead of sample libraries, this is a rare price point to try it. [Get the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=MODO+DRUM+1+5&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-drum-1-5-27f636).
+
+## Price Context (tracked by PluginDrop)
+- Regular: $199.99
+- Verdict: **NO HISTORY** — The current deal is $39.99; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_KFX7jjy9Cc" title="80% Off MODO DRUM 1.5 — Drum Synthesis for Producers ($39.99) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is MODO DRUM?
 
@@ -47,9 +52,9 @@ MODO DRUM comes up frequently in producer discussions as IK Multimedia's answer 
 |---|---|---|
 | ~~$199.99~~ | **$39.99** | $160 (80%) |
 
-IK Multimedia runs promotions across its catalog regularly, but discounts at this depth on a flagship modeling instrument aren't guaranteed to repeat on a predictable schedule. Verify current pricing on the product page — deals can change.
+IK Multimedia runs promotions across its catalog regularly, but discounts at this depth on a flagship modeling instrument aren't guaranteed to repeat on a predictable schedule.
 
-[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=MODO+DRUM+1+5&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-drum-1-5-27f636).
+pluginboutique.com/search?q=MODO+DRUM+1+5&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-drum-1-5-27f636).
 
 ## Alternatives at a Glance
 
@@ -67,13 +72,12 @@ If disk space and load times matter more than sample realism, MODO DRUM's modeli
 A: IK Multimedia typically uses its own license manager tied to a user account rather than a physical iLok dongle. Confirm activation details on the product page before buying.
 
 **Q: Is this a perpetual license or a subscription?**
-A: Plugin Boutique deals on IK Multimedia products are generally perpetual licenses, not subscriptions. Check the product page to confirm.
+A: Plugin Boutique deals on IK Multimedia products are generally perpetual licenses, not subscriptions.
 
 **Q: What are the system requirements?**
-A: Check the official product page for current macOS/Windows and DAW compatibility details.
 
 **Q: Can I demo MODO DRUM before buying?**
-A: Trial availability varies by promotion. Check the product page for any demo or trial option.
+A: Trial availability varies by promotion.
 
 ## Get the Deal
 
@@ -88,7 +92,6 @@ An 80% cut on a flagship modeling instrument is a steep discount by most plugin-
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Complete Drum Mixing Plugin Chain](/posts/drum-mixing-plugin-chain/)
-
 
 ---
 

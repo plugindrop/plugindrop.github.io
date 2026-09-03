@@ -10,13 +10,18 @@ dealPrice: "$99.00"
 originalPrice: "$199.00"
 discount: "50% OFF"
 draft: false
+saleExpiry: "2026-09-15"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Native Instruments' Battery 4 drum sampler is ~~$199~~ **$99** at Plugin Boutique right now, a straight 50% cut. If you build beats from your own samples or third-party drum libraries and want a dedicated cell-based instrument instead of stacking samplers in your DAW, this is worth a look. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Battery+4&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=battery-4-d4428d).
+
+## Price Context (tracked by PluginDrop)
+- Regular: $199
+- Verdict: **NO HISTORY** — The current deal is $99; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/JpkkmELv-9I" title="50% Off Battery 4 — Drum Synthesis & Sampling ($99) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is Battery 4?
 
@@ -45,9 +50,9 @@ For exact specs like the current cell count, effects list, and included sound co
 |---|---|---|
 | ~~$199.00~~ | **$99.00** | $100 (50%) |
 
-Native Instruments runs sales on its catalog periodically, and 50% off is a significant discount relative to the full list price for a flagship instrument like this. Verify current pricing on the product page — deals can change.
+Native Instruments runs sales on its catalog periodically, and 50% off is a significant discount relative to the full list price for a flagship instrument like this.
 
-[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=Battery+4&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=battery-4-d4428d).
+pluginboutique.com/search?q=Battery+4&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=battery-4-d4428d).
 
 ## Alternatives at a Glance
 
@@ -62,13 +67,12 @@ If you already own a DAW with a capable built-in drum sampler and don't need ext
 ## FAQ
 
 **Q: Does Battery 4 require an iLok?**
-A: No. Native Instruments products typically use Native Access for installation and activation rather than an iLok dongle, but check the product page to confirm current activation requirements.
+A: No.
 
 **Q: Is this a perpetual license or a subscription?**
 A: Battery 4 is sold as a standard software purchase through Plugin Boutique, not a subscription. Confirm license terms on the product page before buying.
 
 **Q: What are the system requirements?**
-A: Check the official product page for current OS and DAW compatibility details, since these are updated over time.
 
 **Q: Can I use my own samples with Battery 4?**
 A: Yes, the instrument supports drag-and-drop import of your own audio into individual cells alongside its factory library.
@@ -86,7 +90,6 @@ Native Instruments discounts its plugins on a fairly regular cadence, particular
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Complete Drum Mixing Plugin Chain](/posts/drum-mixing-plugin-chain/)
-
 
 ---
 

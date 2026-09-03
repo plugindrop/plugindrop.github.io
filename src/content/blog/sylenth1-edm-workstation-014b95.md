@@ -9,17 +9,21 @@ score: 5.30
 dealPrice: "$22.99"
 xText: "if your edm tracks need a synth that just works, sylenth1's new workstation mode is exactly why every producer uses it. cuts through instantly, light on resources, no learning curve"
 draft: false
+saleExpiry: "2026-08-18"
+saleExpirySource: "fallback"
 ---
 If you only add one synth to your template this month, make it Sylenth1 — the EDM Workstation package at ADSR Sounds brings the long-running virtual analog synth down to $22.99.
 
 **TL;DR:** Sylenth1 EDM Workstation is available at ADSR Sounds for **$22.99**. ADSR has not listed a separate original price for this specific bundle, so treat the savings as bundle pricing rather than a percentage-off sale. [Grab the deal at ADSR Sounds](https://www.adsrsounds.com/product/sylenth/sylenth1-edm-workstation/?a_aid=plugindrop&data1=sylenth1-edm-workstation-014b95&utm_source=plugindrop&utm_medium=article&utm_campaign=sylenth1-edm-workstation-014b95) while the offer is live.
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $22.99; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="audio-embed">
 <audio controls style="width:100%">
   <source src="https://adsrsounds.com/mp3/282988-304663356.mp3">
 </audio>
 </div>
-
 
 ## What Is Sylenth1 EDM Workstation?
 
@@ -53,7 +57,7 @@ Sylenth1 has been a recurring recommendation in EDM production circles for over 
 |---|---|---|
 | Check product page | **$22.99** | Check product page for exact savings |
 
-ADSR Sounds runs plugin bundle promotions periodically, and pricing on packages like this can shift without notice. Verify current pricing on the product page before checkout, since bundle contents and pricing structures can change.
+ADSR Sounds runs plugin bundle promotions periodically, and pricing on packages like this can shift without notice.
 
 [Get Sylenth1 EDM Workstation at ADSR Sounds](https://www.adsrsounds.com/product/sylenth/sylenth1-edm-workstation/?a_aid=plugindrop&data1=sylenth1-edm-workstation-014b95&utm_source=plugindrop&utm_medium=article&utm_campaign=sylenth1-edm-workstation-014b95)
 
@@ -70,7 +74,7 @@ If you want deep wavetable sound design, Serum covers more ground. If you're spe
 ## FAQ
 
 **Q: Does Sylenth1 require an iLok?**
-A: No, Sylenth1 uses its own registration system through LennarDigital rather than iLok hardware. Check the product page for exact activation limits.
+A: No, Sylenth1 uses its own registration system through LennarDigital rather than iLok hardware.
 
 **Q: What DAWs is Sylenth1 compatible with?**
 A: Sylenth1 works as a plugin in any DAW that supports standard plugin formats like VST, VST3, AU, or AAX. Confirm your DAW's supported format on the product page.
@@ -94,7 +98,6 @@ Sylenth1 is a long-established synth with a track record in EDM production, and 
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

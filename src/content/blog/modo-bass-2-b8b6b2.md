@@ -10,13 +10,19 @@ dealPrice: "$39.99"
 originalPrice: "$199.99"
 discount: "80% OFF"
 draft: false
+saleExpiry: "2026-08-23"
 ---
 **TL;DR:** IK Multimedia's MODO BASS 2 is down to **$39.99** from ~~$199.99~~ at Plugin Boutique, an 80% discount. It's a physically modeled bass instrument, not a sample library, so you get real-time control over instrument build, playing technique, and tone. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=MODO+BASS+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-bass-2-b8b6b2) while the price holds.
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-08-23 (10 observations)
+- Lowest we've tracked: $39.99 · Typical sale: $39.99 · Regular: $199.99
+- Verdict: **BUY NOW** — the current $39.99 price is within 5% of the $39.99 lowest tracked price.
+- Sale pattern: auto-crawl 2026-08-23
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_YlJPfNIZHM" title="80% Off MODO BASS 2 — Modeled Electric & Upright Bass ($39.99) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ## What Is MODO BASS 2?
 
@@ -45,7 +51,7 @@ Check the product page for the full spec list, including exact preset counts and
 |---|---|---|
 | ~~$199.99~~ | $39.99 | $160 (80%) |
 
-IK Multimedia runs sales on its catalog fairly regularly across Plugin Boutique and its own store, though discounts of this depth aren't guaranteed to repeat on a fixed schedule. Verify current pricing on the product page — deals can change without notice.
+IK Multimedia runs sales on its catalog fairly regularly across Plugin Boutique and its own store, though discounts of this depth aren't guaranteed to repeat on a fixed schedule.
 
 [See the current MODO BASS 2 price at Plugin Boutique](https://www.pluginboutique.com/search?q=MODO+BASS+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-bass-2-b8b6b2).
 
@@ -65,7 +71,7 @@ If you want an instrument that generates tone in real time rather than playing b
 A: It uses physical/component modeling technology, generating tone from a simulated instrument rather than triggering audio samples.
 
 **Q: Does MODO BASS 2 need an iLok or dongle?**
-A: IK Multimedia typically uses its own authorization system rather than iLok. Check the official product page for the current activation method.
+A: IK Multimedia typically uses its own authorization system rather than iLok.
 
 **Q: Will MODO BASS 2 work as a standalone app or only as a plugin?**
 A: IK Multimedia instruments commonly ship with both standalone and plugin (VST/AU/AAX) versions. Confirm exact format support on the product page.
@@ -84,7 +90,6 @@ An 80% discount is a substantial cut for a plugin at this price tier, and IK Mul
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

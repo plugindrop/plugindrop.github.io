@@ -10,13 +10,18 @@ dealPrice: "$40.00"
 originalPrice: "$128.00"
 discount: "69% OFF"
 draft: false
+saleExpiry: "2026-09-11"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Unfiltered Audio's semi-modular multi-effect BYOME is ~~$128~~ $40 at Plugin Boutique, a 69% discount. It's built for producers who want to design custom distortion, modulation, and filter chains instead of reaching for stock effects. [Get BYOME at Plugin Boutique](https://www.pluginboutique.com/search?q=Unfiltered+Audio+BYOME&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-byome-0328c2) while the deal is live.
+
+## Price Context (tracked by PluginDrop)
+- Regular: $128
+- Verdict: **NO HISTORY** — The current deal is $40; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="69% Off Unfiltered Audio BYOME — Modular Effects ($40) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/616186347&color=%2300bfff&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>
 </div>
-
 
 ## What Is Unfiltered Audio BYOME?
 
@@ -29,8 +34,6 @@ BYOME (Build Your Own Metaphysical Effect) is a semi-modular multi-effects plugi
 - **Macro controls** — map parameters across modules to macro knobs for expressive, performable control.
 - **Preset library** — start from included presets and modify the routing to fit your own sound.
 - **Plugin format support** — check the product page for the full list of supported VST/AU/AAX formats and DAW compatibility.
-
-For exact system requirements and format compatibility, check the product page before buying.
 
 ## What Producers Are Saying
 
@@ -49,7 +52,7 @@ Unfiltered Audio's plugin line, including BYOME, comes up regularly in sound des
 |---|---|---|
 | ~~$128~~ | $40 | 69% ($88) |
 
-Unfiltered Audio plugins do appear in Plugin Boutique promotions periodically, but a 69% discount is a substantial markdown relative to typical list pricing. Verify current pricing on the product page — deals can change.
+Unfiltered Audio plugins do appear in Plugin Boutique promotions periodically, but a 69% discount is a substantial markdown relative to typical list pricing.
 
 [Check the deal price on Plugin Boutique](https://www.pluginboutique.com/search?q=Unfiltered+Audio+BYOME&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-byome-0328c2)
 
@@ -66,10 +69,8 @@ If you specifically want a delay-focused creative tool, Sandman Pro covers that 
 ## FAQ
 
 **Q: Does Unfiltered Audio BYOME require an iLok?**
-A: Check the product page for the specific authorization method — Unfiltered Audio plugins commonly use machine-based or challenge/response activation rather than a physical dongle, but confirm on the listing before buying.
 
 **Q: What plugin formats does BYOME support?**
-A: Check the product page listing for the confirmed VST/VST3/AU/AAX format support and DAW compatibility.
 
 **Q: Is this a perpetual license or a subscription?**
 A: Plugin Boutique listings for Unfiltered Audio products are typically perpetual licenses, but confirm the license type on the product page before purchase.
@@ -90,7 +91,6 @@ A 69% discount is a large markdown for a plugin at this price tier, and it's wor
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
 
 ---
 

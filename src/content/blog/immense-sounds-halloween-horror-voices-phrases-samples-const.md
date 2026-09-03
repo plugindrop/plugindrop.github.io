@@ -10,8 +10,14 @@ originalPrice: "$17.95"
 discount: "30% OFF"
 score: 4.28
 draft: false
+saleExpiry: "2026-05-19"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Immense Sounds' Halloween Horror Voices, Phrases & Samples Construction Kits is currently on deal at ADSR Sounds — a focused pack of horror-ready vocal samples and construction kits designed for dark, cinematic, and Halloween-themed productions. Check current pricing (and any active discount) on the [ADSR product page](https://www.adsrsounds.com/product/presets/immense-sounds-halloween-horror-voices-phrases-samples-construction-kits/?utm_source=plugindrop&utm_medium=article&utm_campaign=immense-sounds-halloween-horror-voices-phrases-samples-const) before the deal expires.
+
+## Price Context (tracked by PluginDrop)
+- Regular: $17.95
+- Verdict: **NO HISTORY** — The current deal is $13.13; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -20,7 +26,6 @@ draft: false
   <source src="https://adsrsounds.com/mp3/2121901-1626617736.mp3">
 </audio>
 </div>
-
 
 ## What Is Immense Sounds Halloween Horror Voices Phrases Samples?
 
@@ -33,7 +38,7 @@ Immense Sounds is a sample library developer known for producing niche, producti
 - **Horror Voice Phrases** — pre-recorded vocal phrases styled for horror and Halloween contexts, ready to drop into a mix
 - **Construction Kits** — full multi-part kits that let producers build complete horror-themed cues from the ground up
 - **Atmospherically Designed Samples** — samples intended to convey dread, tension, and supernatural themes rather than musical melody
-- **Production-Ready Format** — delivered in a standard audio format compatible with any DAW (check the product page for exact format specs)
+
 - **Niche Thematic Focus** — tightly scoped to Halloween and horror rather than general spooky or dark content
 
 ---
@@ -59,9 +64,7 @@ This is a niche, themed sample pack — community discussions around it are stil
 |---|---|---|
 | $13.13 | $13.13 | $13.13 |
 
-Exact pricing fluctuates — **verify current pricing directly on the product page**, as ADSR deals can update without notice. ADSR Sounds runs periodic promotions on niche sample packs, and horror-themed content often sees discounting outside of the October window when demand drops.
-
-> Verify current pricing on the product page — deals can change.
+ ADSR Sounds runs periodic promotions on niche sample packs, and horror-themed content often sees discounting outside of the October window when demand drops.
 
 [Check the current deal at ADSR Sounds →](https://www.adsrsounds.com/product/presets/immense-sounds-halloween-horror-voices-phrases-samples-construction-kits/?utm_source=plugindrop&utm_medium=article&utm_campaign=immense-sounds-halloween-horror-voices-phrases-samples-const)
 
@@ -82,13 +85,12 @@ If you need one-shot flexibility and already have a Splice subscription, per-sam
 ## FAQ
 
 **Q: Does this pack require any specific software or plugin to use?**
-A: Horror voice and phrase sample packs in audio format work in any DAW. Check the product page for the exact file format (WAV, AIFF, etc.) to confirm compatibility.
+A: Horror voice and phrase sample packs in audio format work in any DAW.) to confirm compatibility.
 
 **Q: Is this pack royalty-free for commercial use?**
 A: Verify the license terms on the official ADSR product page — commercial licensing terms vary by developer and pack.
 
 **Q: Does purchasing through ADSR Sounds include future updates?**
-A: Check the product page or contact ADSR support directly for update and re-download policy details.
 
 **Q: Is this pack suitable for non-Halloween dark productions year-round?**
 A: The content is themed around horror and Halloween aesthetics — whether it suits general dark/cinematic work depends on the specific samples. Preview clips on the product page before purchasing.

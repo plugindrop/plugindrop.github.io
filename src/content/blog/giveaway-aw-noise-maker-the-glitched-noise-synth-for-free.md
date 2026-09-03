@@ -9,8 +9,13 @@ dealPrice: "FREE"
 xText: "aw noise maker just went free. this glitch synth is literally broken in the most useful way possible. go grab it now"
 draft: false
 heroImage: "/images/giveaway-aw-noise-maker-the-glitched-noise-synth-for-free_og.jpg"
+saleExpiry: "2026-06-01"
+saleExpirySource: "fallback"
 ---
 **TL;DR:** Audiowanderer is giving away AW Noise Maker — a glitched noise synthesizer — completely free. Winner announced **May 4th**, so the window closes tomorrow. [Enter the giveaway here.](https://www.instagram.com/reel/DXwN0Z9I%5C_-e/)
+
+## Price Context (tracked by PluginDrop)
+- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 
@@ -59,7 +64,7 @@ Check the product page for full specs, supported formats (VST/AU/standalone), an
 |---|---|---|
 | Verify on product page | **FREE (Giveaway)** | Up to full retail |
 
-This is a giveaway, not a standard free download — one winner is selected. Original retail pricing isn't confirmed publicly, so verify current pricing on the product page directly.
+This is a giveaway, not a standard free download — one winner is selected.
 
 The deadline is tight. Winner announced **May 4th, 2026**. [Enter the giveaway via the official Instagram reel.](https://www.instagram.com/reel/DXwN0Z9I%5C_-e/)
 
@@ -86,7 +91,6 @@ A: The post states it's open to everyone — no regional restrictions are mentio
 A: The developer confirmed the winner will be announced on Monday, May 4th, 2026.
 
 **Q: What formats does AW Noise Maker come in (VST, AU, standalone)?**
-A: Check the official product page for supported plugin formats and system requirements — this information isn't confirmed in the giveaway post.
 
 **Q: Is there a cost to enter the giveaway?**
 A: No purchase is required. Check the Instagram reel for the full entry instructions.
