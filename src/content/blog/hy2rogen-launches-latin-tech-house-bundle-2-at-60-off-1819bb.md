@@ -10,15 +10,8 @@ dealPrice: "$0"
 discount: "60% OFF"
 xText: "60% off on this hy2rogen latin tech bundle and the per-unit cost is feral. basically paying compressor prices for an entire toolkit. this is the math that makes you just... hit buy"
 draft: true
-saleExpiry: "2026-07-30"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** Hy2rogen Latin Tech House Bundle 2 is now 60% off at Loopmasters, packaging 8 sample packs, 80 construction kits, and 5,740 total sounds into one discounted purchase. For producers who regularly work in Latin-flavored Tech House, that's a significant library addition at a fraction of the individual pack cost. Verify current pricing on the product page and [grab the bundle here](https://www.loopmasters.com/genres/66-Tech-House/products/20902-HY2ROGEN-Latin-Tech-House-Bundle-2?utm_source=plugindrop&utm_medium=article&utm_campaign=hy2rogen-launches-latin-tech-house-bundle-2-at-60-off-1819bb).
-
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
----
 
 ## What Is Hy2rogen Latin Tech House Bundle 2?
 

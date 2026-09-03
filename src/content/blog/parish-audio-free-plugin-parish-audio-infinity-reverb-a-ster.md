@@ -10,15 +10,8 @@ score: 5.88
 dealPrice: "$0"
 xText: "parish audio infinity reverb is live and free. like, actually no cost. if you're into lush ambience and spatial depth, this sits in a mix like butter. the deal here is it won't last. grab it."
 draft: false
-saleExpiry: "2026-06-20"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** Parish Audio's Infinity Reverb is completely free — grab a professional-grade stereo reverb plugin at no cost. Designed for lush ambience and deep spatial textures, this is a zero-risk addition to any plugin folder. [Download it free here.](https://parishaudio.com/products/infinity-reverb)
-
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
----
 
 ## Free Stereo Reverb: Parish Audio Infinity Reverb Is Available at No Cost
 

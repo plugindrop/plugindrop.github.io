@@ -9,13 +9,8 @@ score: 8.46
 dealPrice: "FREE"
 xText: "so the S-1 community built a fully-featured patch editor and released it free open-source. yeah that's worth your time."
 draft: false
-saleExpiry: "2026-06-24"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** S-1 Utility is a completely free, open-source desktop editor built specifically for the Roland S-1 synthesizer. Zero cost. No activation. No catch. [Grab it here](https://www.youtube.com/watch) while the community momentum is strong.
-
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## What Is S-1 Utility?
 

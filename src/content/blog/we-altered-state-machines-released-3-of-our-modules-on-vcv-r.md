@@ -9,20 +9,8 @@ dealPrice: "FREE"
 xText: "altered state machines released 3 free vcv modules and the fact that nobody's talking about this yet is wild. honestly solid stuff too."
 draft: false
 heroImage: "/images/we-altered-state-machines-released-3-of-our-modules-on-vcv-r_og.jpg"
-saleExpiry: "2026-05-29"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** Altered State Machines has made three of their VCV Rack modules available at no cost — a straight free grab for modular synthesis enthusiasts. No trial limits, no coupon needed. [→ Watch the announcement and get the modules at Direct](https://youtu.be/xVIjHaD8eAw)
-
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
----
-
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/xVIjHaD8eAw" title="We (Altered State Machines) released 3 of our Modules on VCV Rack for free. Here's a crappy video announcing it! — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 
 ## Altered State Machines Drops 3 Free VCV Rack Modules
 

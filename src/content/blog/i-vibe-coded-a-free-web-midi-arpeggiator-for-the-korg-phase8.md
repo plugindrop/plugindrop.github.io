@@ -9,19 +9,8 @@ dealPrice: "FREE"
 xText: "free web-midi arp for your phase-8 dropped and it's genuinely a game-changer for sequencing. grab this immediately"
 draft: false
 heroImage: "/images/i-vibe-coded-a-free-web-midi-arpeggiator-for-the-korg-phase8_og.jpg"
-saleExpiry: "2026-05-31"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** A developer built a free, browser-based Web MIDI arpeggiator purpose-built for the Korg Phase8 — no DAW required. It handles STATIC and FREQUENCY modes out of the box and runs entirely in your browser. Grab it now at [johnusher.github.io/Arp8](https://johnusher.github.io/Arp8/) — it costs nothing.
-
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
----
-
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/B_hEkSp3tEk" title="Vibe-Coding Audio Plugins: From Prompt to VST3 in Minutes (JUCE 8 &amp; APC)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 ## Free Web MIDI Arpeggiator for Korg Phase8: What You Need to Know
 

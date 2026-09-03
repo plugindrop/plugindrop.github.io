@@ -9,19 +9,8 @@ score: 8.46
 dealPrice: "FREE"
 xText: "minimal audio just dropped their hybrid filter for free. honestly underrated—this thing does multimode work most paid filters charge for. go grab it now before it's gone."
 draft: false
-saleExpiry: "2026-06-01"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** Minimal Audio is giving away Hybrid Filter at no cost — a multimode filter plugin now free to claim directly from the developer. No original price to strike through since the field was not provided, but the deal is straightforward: free. [→ Get Hybrid Filter at Minimal Audio](https://www.minimal.audio/products/hybrid-filter)
-
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
----
-
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/2w4-BnNoUcE" title="This plugin is INSANE! | Rift by Minimal Audio | #shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 ## What Is Minimal Audio Hybrid Filter?
 

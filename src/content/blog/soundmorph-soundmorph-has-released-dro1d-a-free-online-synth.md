@@ -7,19 +7,8 @@ affiliate: "https://soundmorph.com/pages/dr01d-online-synthesizer"
 score: 5.72
 dealPrice: "FREE"
 heroImage: "/images/soundmorph-soundmorph-has-released-dro1d-a-free-online-synth.jpg"
-saleExpiry: "2026-05-20"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** SoundMorph's DRO1D is a fully free online synthesizer — no download, no account, no catch. ~~Paid~~ → **$0**. Grab it directly at [soundmorph.com](https://soundmorph.com/pages/dr01d-online-synthesizer).
-
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
----
-
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/zHY6f4IUqT0" title="Checking out Dust by SoundMorph #audioplugindeals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 ## What Is DRO1D? SoundMorph's Free Online Synthesizer
 

@@ -10,20 +10,8 @@ score: 7.33
 dealPrice: "FREE"
 xText: "someone reverse-engineered yamaha's undocumented modx m format and released free tools. modx m users: this is free power you're leaving on the table. go grab it now"
 draft: false
-saleExpiry: "2026-06-20"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** Yamaha never published the .Y2L/.Y2U performance format spec — so the community did it for them. This free, open-source project documents every user-editable parameter across all four MODX M synthesis engines, verified against real hardware. [Get the docs and browser tools free on GitHub.](https://github.com/YSFCforge/ysfc-forge)
-
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
----
-
-
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/W5cKtUkNfTs" title="👀 First Look 👀 Retrograde by Simon Servida // Reverse Plugin I Didn&#39;t Think I Needed..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 ## What Is YSFC Forge?
 

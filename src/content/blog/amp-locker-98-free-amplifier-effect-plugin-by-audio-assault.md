@@ -9,17 +9,8 @@ heroImage: /images/amp-locker-98-free-amplifier-effect-plugin-by-audio-assault.j
 dealPrice: "FREE"
 draft: false
 score: 1.38
-saleExpiry: "2026-05-02"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** Audio Assault is giving away Amp Locker 98 — a 6-amp-model guitar plugin — completely **free** for 48 hours only. That's ~~$0 reason to hesitate~~ zero dollars. Grab it before the window closes at [Audio Assault](https://audioassault.mx/amplocker98).
-
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/pl0S0KImsKc" title="This FREE PLUGIN adds 90&#39;s analog Guitar distortion  - Amp Locker 98 By Audio Assault (Sound) Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 ## What Is Amp Locker 98?
 

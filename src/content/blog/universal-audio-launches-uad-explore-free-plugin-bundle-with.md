@@ -10,15 +10,8 @@ heroImage: /images/universal-audio-launches-uad-explore-free-plugin-bundle-with.
 dealPrice: "FREE"
 draft: false
 score: 2.28
-saleExpiry: "2026-05-16"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** Universal Audio is giving away its UAD Explore bundle — 8 professional UAD plugins plus the LUNA Recording System DAW, completely free. That's ~~paid software~~ → **$0**. Grab it directly at [uaudio.com](https://www.pluginboutique.com/search?q=uad%20explore%20free&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-launches-uad-explore-free-plugin-bundle-with&chan=art&data1=universal-audio-launches-uad-explore-free-plugin-bundle-with) before the offer changes.
-
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
----
 
 ## Universal Audio UAD Explore: 8 Free Plugins + LUNA DAW
 

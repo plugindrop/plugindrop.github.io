@@ -9,20 +9,8 @@ score: 8.10
 dealPrice: "FREE"
 xText: "stop sleeping on midi guitars. yours probably don't sound real because you're not layering right. this guide explains why. free."
 draft: false
-saleExpiry: "2026-07-11"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** Splice is giving away free MIDI guitar files alongside a practical guide on making programmed guitar sound convincingly real — no cost, no catch. Grab the files and techniques now at [Splice](https://splice.com/sounds/create?utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-make-a-midi-guitar-sound-real-free-midi-files-include). Free means free — there's no reason to skip this one.
-
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
----
-
-
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/DmrFT6u6HT4" title="How To Make MIDI Guitar Sound EXTREMELY Realistic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 ## What Is Splice's Free MIDI Guitar Resource?
 

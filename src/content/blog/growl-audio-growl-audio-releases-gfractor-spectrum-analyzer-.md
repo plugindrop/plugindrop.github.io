@@ -9,19 +9,8 @@ score: 9.00
 dealPrice: "FREE"
 xText: "free spectrum analyzer just dropped and the visual feedback is genuinely useful. zero reason not to grab this now while it's free"
 draft: false
-saleExpiry: "2026-06-15"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** Growl Audio is giving away gFractor, a spectrum analyzer plugin, completely free — no expiry, no catch. Verify current pricing on the product page. Grab it now at [growl-audio.com](https://growl-audio.com/plugins/gfractor.html).
-
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
----
-
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/NcuOyACeHwM" title="How to Transform Audio using a Synthesizer | Virtual Riot Growl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 ## What Is gFractor by Growl Audio?
 

@@ -9,19 +9,8 @@ dealPrice: "FREE"
 xText: "aw noise maker just went free. this glitch synth is literally broken in the most useful way possible. go grab it now"
 draft: false
 heroImage: "/images/giveaway-aw-noise-maker-the-glitched-noise-synth-for-free_og.jpg"
-saleExpiry: "2026-06-01"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** Audiowanderer is giving away AW Noise Maker — a glitched noise synthesizer — completely free. Winner announced **May 4th**, so the window closes tomorrow. [Enter the giveaway here.](https://www.instagram.com/reel/DXwN0Z9I%5C_-e/)
-
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
----
-
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/opUeUvJLje0" title="The Ultimate Giveaway Plugin for WordPress: RafflePress Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 ## Free Glitched Noise Synth Giveaway: AW Noise Maker
 

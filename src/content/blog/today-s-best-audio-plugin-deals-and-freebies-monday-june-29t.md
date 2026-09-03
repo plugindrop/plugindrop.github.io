@@ -9,19 +9,8 @@ score: 7.92
 dealPrice: "FREE"
 xText: "free plugin roundup this week hits different. real gear that usually costs money, zero dollars. go grab them while it's live."
 draft: false
-saleExpiry: "2026-07-29"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** Fine Classics Saturator is currently available at absolutely no cost — a free saturation plugin with no coupon required, directly from the developer. No expiry date has been announced, which means this could disappear anytime. [Download Fine Classics Saturator free here.](https://fineclassicsplugins.com/products/fine-classics-saturator)
-
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
----
-
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/mz39S0AEaZ4" title="The Best FREEBIES of 2021 + Deals of the Week | Audio Plugin Guy Vlog 🔌😁👍" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 ## What Is Fine Classics Saturator?
 

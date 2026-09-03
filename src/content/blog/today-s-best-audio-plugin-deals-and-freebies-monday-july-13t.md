@@ -10,14 +10,8 @@ dealPrice: "FREE"
 originalPrice: "$4.99"
 xText: "free plugin haul landed and ngl some of these shouldn't be free. go grab em before devs realize their mistake"
 draft: false
-saleExpiry: "2026-08-12"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** NoizLabs is giving away **Beheader**, a clipper and saturation plugin for Mac and Windows, completely free for a limited time — that's ~~$4.99~~ **$0**. No stated end date has been confirmed, so grab it now rather than risk missing the window. [Download Beheader free](https://www.noizlabs.com/products/beheader) while the promotion is live.
-
-## Price Context (tracked by PluginDrop)
-- Regular: $4.99
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## What Is Beheader?
 

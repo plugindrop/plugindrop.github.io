@@ -9,19 +9,8 @@ score: 9.00
 dealPrice: "FREE"
 xText: "accentize just made loudness leveling free. dxLevel sits in a mix like butter and does all the fader riding for you. this is the kind of freebie you don't pass on."
 draft: false
-saleExpiry: "2026-06-23"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** Accentize just dropped dxLevel — a loudness leveling plugin for Mac and Windows — completely free. No trial limits, no expiry announced. Grab it now before that changes. [Download dxLevel Free →](https://www.accentize.com/product/dxlevel/)
-
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
----
-
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/qKuurMF3rN8" title="Accentize — Accentize has released dxLevel, a free loudness leveling plugin for Mac & Win. Expiry: None [FREE] — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 ## What Is Accentize dxLevel?
 

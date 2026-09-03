@@ -9,19 +9,8 @@ score: 10.00
 dealPrice: "$0"
 xText: "free plugins live right now and honestly some of these shouldn't be free. go get them"
 draft: false
-saleExpiry: "2026-07-18"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** W.A. Production's Vocal Splitter is completely free right now — use code **GETWAVS** at checkout and pay nothing. Expiry is unknown, so don't sleep on it. [Grab Vocal Splitter for $0 here.](https://www.waproduction.com/plugins/view/vocal-splitter)
-
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
----
-
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/qtcLvehheiI" title="Are you cheating at music?! [plus the latest top deals and freebies] | Audio Plugin Guy Weekly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 ## Free Vocal Splitter Plugin from W.A. Production — Plus More Freebies
 

@@ -9,20 +9,8 @@ score: 9.54
 dealPrice: "FREE"
 xText: "s-4 freeze function just went free. pause your synth anywhere—holds tone perfectly for ambient. this is the feature we needed"
 draft: false
-saleExpiry: "2026-06-02"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** The Torso Electronics S-4 firmware 2.2 is now in beta — and the update is completely **free** for existing owners. A new real-time "freeze time" feature is the headline addition. [Check out the S-4 on Thomann](https://www.thomann.de/intl/prod_AR_600391.html?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=torso-electronics-s-4-update-lets-you-freeze-time-b4ced3) and grab the update.
-
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
----
-
-
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/i4nCfXv7mec" title="Granular Synthesizer Comparison! Polyend Synth, 1010Music Bento, Torso Electronics S-4." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
 
 ## What Is the Torso Electronics S-4?
 

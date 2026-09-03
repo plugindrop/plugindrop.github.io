@@ -9,20 +9,8 @@ score: 8.46
 dealPrice: "FREE"
 xText: "the m8 renders video without cables. never seen a tracker do that. go grab this now."
 draft: false
-saleExpiry: "2026-06-07"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** A free first-look video just dropped showing the Dirtywave M8 Tracker in action — including a clever workflow tip: use the built-in **render function** to capture audio without cables, perfect for clean demo videos. The M8 Tracker hardware is priced at $199. [Watch the free video here.](https://youtu.be/TpBIjuG5C4Q)
-
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
----
-
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TpBIjuG5C4Q" title="Sharing my first noodling with the Dirtywave M8 Tracker – the &quot;render&quot; function is also great for cable-free videos 😉 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 
 ## What Is the Dirtywave M8 Tracker?
 
