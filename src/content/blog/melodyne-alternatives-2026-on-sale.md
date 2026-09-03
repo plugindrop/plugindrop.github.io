@@ -10,7 +10,7 @@ dealPrice: "$241.00"
 originalPrice: "$599.00"
 discount: "60% OFF"
 xText: "Melodyne  off — does it beat Auto-Tune, Waves Tune Real-Time, Antares Auto-Tune EFX+ at this price?"
-draft: false
+draft: true
 saleExpiry: "2026-07-03"
 saleExpirySource: "fallback"
 ---

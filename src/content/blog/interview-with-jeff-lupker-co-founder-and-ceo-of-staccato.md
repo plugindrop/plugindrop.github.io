@@ -10,7 +10,7 @@ dealPrice: "$149.99"
 originalPrice: "$199.99"
 discount: "25% OFF"
 xText: "staccato's ceo jeff lupker just explained what he thinks modern plugins are actually missing - the interview is surprisingly honest. hits different tbh"
-draft: false
+draft: true
 saleExpiry: "2026-06-20"
 saleExpirySource: "fallback"
 ---

@@ -8,7 +8,7 @@ heroImage: "/images/adsr-drum-machine-10-expansions-bundle-dcf422.jpg"
 score: 5.21
 dealPrice: "$99"
 xText: "you already know ten drum machine expansions is chaos to pick through separately. this bundle is the only rational move"
-draft: false
+draft: true
 saleExpiry: "2026-08-23"
 saleExpirySource: "fallback"
 ---

@@ -10,7 +10,7 @@ dealPrice: "$17.4"
 originalPrice: "$29"
 discount: "40% OFF"
 xText: "40% off 90s drum loops that make everything sit tighter. serious: these loops need almost no processing. the kind of deal sample pack makers rarely run"
-draft: false
+draft: true
 saleExpiry: "2026-06-03"
 saleExpirySource: "fallback"
 ---

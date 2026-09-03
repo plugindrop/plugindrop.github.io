@@ -7,7 +7,7 @@ affiliate: "https://medium.ultimateoutsider.com/the-single-synth-project-roland-
 score: 7.15
 dealPrice: "FREE"
 xText: "14 free production-ready synthwave patches with full design notes just dropped. this kind of resource costs money usually. grab it right now."
-draft: false
+draft: true
 heroImage: "/images/i-designed-14-patches-on-the-roland-boutique-sh-01a-for-this_og.jpg"
 saleExpiry: "2026-08-09"
 ---

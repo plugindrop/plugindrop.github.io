@@ -11,6 +11,7 @@ discount: "30% OFF"
 heroImage: "/images/essential-audio-media-eurodance-90s-for-serum-presets-adsr-d.jpg"
 saleExpiry: "2026-05-20"
 saleExpirySource: "fallback"
+draft: true
 ---
 **TL;DR:** Essential Audio Media's Eurodance 90s preset pack for Xfer Serum is available now on ADSR Sounds — grab it while the deal is live. Check current pricing (~~regular price~~ → deal price) and [snag it here](https://www.adsrsounds.com/product/presets/essential-audio-media-eurodance-90s-for-serum-presets/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=essential-audio-media-eurodance-90s-for-serum-presets-adsr-d) before it ends.
 

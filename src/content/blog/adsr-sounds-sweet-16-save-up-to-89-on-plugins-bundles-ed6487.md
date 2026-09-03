@@ -8,7 +8,7 @@ heroImage: "/images/adsr-sounds-sweet-16-save-up-to-89-on-plugins-bundles-ed6487
 score: 7.51
 dealPrice: "$49"
 xText: "adsr bundles pricing out to $5-10 per plugin right now. lowest these have gone. if you've been sleeping on them, this is the nudge"
-draft: false
+draft: true
 saleExpiry: "2026-08-19"
 saleExpirySource: "fallback"
 ---

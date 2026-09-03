@@ -10,7 +10,7 @@ dealPrice: "$29.00"
 originalPrice: "$39.00"
 discount: "26% OFF"
 xText: "v3 just dropped at 26% off for melody sauce v1/2 users. upgrades don't move like this. grab it."
-draft: false
+draft: true
 saleExpiry: "2026-07-26"
 ---
 **TL;DR:** Owners of Melody Sauce 1 or 2 can upgrade to Melody Sauce 3 for $29, down from ~~$39~~ — a 26% discount. The upgrade path is only available to existing license holders and pricing can change, so verify the deal on the [Plugin Boutique product page](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/16923-Melody-Sauce-3-Upgrade-from-Melody-Sauce-1-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-upgrade-from-melody-sauce-1-2-b24fc6&chan=art&data1=melody-sauce-3-upgrade-from-melody-sauce-1-2-b24fc6) before checkout.

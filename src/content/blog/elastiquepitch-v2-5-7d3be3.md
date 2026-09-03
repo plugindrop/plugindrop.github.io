@@ -10,7 +10,7 @@ dealPrice: "$122.50"
 originalPrice: "$175.00"
 discount: "30% OFF"
 xText: "elastiquepitch v2.5 just dropped at 30% off. if you're doing any tempo or key changes this year, grab this while it's this cheap. transparent quality at a price that actually makes sense."
-draft: false
+draft: true
 saleExpiry: "2023-11-19"
 ---
 **TL;DR:** zplane's ElastiquePitch V2.5 is currently ~~$175.00~~ **$122.50** at Plugin Boutique, a 30% discount. If you need real-time pitch shifting or correction built on zplane's élastique engine, this is a straightforward way to pick it up below list price. [Get ElastiquePitch V2.5 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/4185-ElastiquePitch-V2-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=elastiquepitch-v2-5-7d3be3&chan=art&data1=elastiquepitch-v2-5-7d3be3).

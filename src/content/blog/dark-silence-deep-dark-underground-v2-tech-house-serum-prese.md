@@ -9,7 +9,7 @@ score: 7.56
 dealPrice: "$34.99"
 originalPrice: "$34.99"
 xText: "dark silence v2 is here for serum. new deep tech house presets that sit in a mix like butter. if you're building underground sounds this actually hits different"
-draft: false
+draft: true
 saleExpiry: "2026-06-18"
 saleExpirySource: "fallback"
 ---

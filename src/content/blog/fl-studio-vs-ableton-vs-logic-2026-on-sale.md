@@ -10,7 +10,7 @@ dealPrice: "$13.2"
 originalPrice: "$22"
 discount: "40% OFF"
 xText: "FL Studio  off — does it beat Ableton Live, Logic Pro at this price?"
-draft: false
+draft: true
 saleExpiry: "2026-08-11"
 saleExpirySource: "fallback"
 ---

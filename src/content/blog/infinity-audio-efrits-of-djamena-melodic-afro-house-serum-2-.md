@@ -10,7 +10,7 @@ dealPrice: "$14.99"
 originalPrice: "$24.99"
 discount: "40% OFF"
 xText: "40% off melodic afro house serum 2 presets just dropped. if you build groovy tracks, this saves hours of sound design work. absolute sleeper deal."
-draft: false
+draft: true
 saleExpiry: "2025-03-20"
 ---
 **TL;DR:** Infinity Audio's *Efrits Of Djamena* Serum 2 preset pack is down to **$14.99** (from ~~$24.99~~) at ADSR Sounds — that's 40% off for a limited time. If you produce Melodic Afro House and work in Serum 2, this is a solid pickup at under $15. [Grab the deal on ADSR Sounds.](https://www.adsrsounds.com/product/presets/infinity-audio-efrits-of-djamena-melodic-afro-house-serum-2-serum-2-presets/?a_aid=plugindrop&data1=infinity-audio-efrits-of-djamena-melodic-afro-house-serum-2-&utm_source=plugindrop&utm_medium=article&utm_campaign=infinity-audio-efrits-of-djamena-melodic-afro-house-serum-2-)

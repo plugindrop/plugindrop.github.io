@@ -8,7 +8,7 @@ heroImage: "/images/i-built-two-free-plugins-for-edm-producers-auto-wah-shimmer-
 aiImage: true
 score: 5.26
 dealPrice: "FREE"
-draft: false
+draft: true
 saleExpiry: "2026-08-16"
 ---
 **TL;DR:** A developer is giving away two plugins built specifically for electronic producers: Satin Funk, an envelope filter that goes from buttery auto-wah to Mu-Tron-style quack, and Shimmer. Both are ~~paid~~ **free** downloads with no email, no signup, and no mailing list required. Grab both directly from [Satin Press](https://pickysam-ux.github.io/satin-press/).

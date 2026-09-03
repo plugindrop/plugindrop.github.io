@@ -9,7 +9,7 @@ heroImage: /images/khron-studio-mech-core-alliance-samples-loops-adsr-deal.jpg
 dealPrice: "$25"
 originalPrice: "$179.77"
 discount: "86% OFF"
-draft: false
+draft: true
 score: 4.04
 saleExpiry: "2026-05-14"
 saleExpirySource: "fallback"

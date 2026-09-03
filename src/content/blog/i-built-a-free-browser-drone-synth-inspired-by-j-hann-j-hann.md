@@ -7,7 +7,7 @@ affiliate: "https://onechordtillanarchy.squarespace.com/dronesynth"
 score: 7.33
 dealPrice: "FREE"
 xText: "free jóhann-inspired drone synth dropped in your browser. zero download, plays real-time, perfect for ambient beds. grab this right now while you're thinking about it."
-draft: false
+draft: true
 saleExpiry: "2021-10-19"
 ---
 **TL;DR:** A free browser drone synth inspired by Icelandic composer Jóhann Jóhannsson just dropped — no download, no install, no cost. It runs entirely in real time in your browser, right now. Grab it at [onechordtillanarchy.squarespace.com/dronesynth](https://onechordtillanarchy.squarespace.com/dronesynth) before it disappears.

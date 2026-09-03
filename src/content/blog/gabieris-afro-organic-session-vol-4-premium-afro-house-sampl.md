@@ -10,7 +10,7 @@ dealPrice: "$33"
 originalPrice: "$55"
 discount: "40% OFF"
 xText: "40% off launch day pricing? that's the move. gabieris vol 4 sounds genuinely different and this deal won't last long."
-draft: false
+draft: true
 saleExpiry: "2026-07-18"
 saleExpirySource: "fallback"
 ---

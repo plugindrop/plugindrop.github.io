@@ -9,7 +9,7 @@ score: 8.77
 dealPrice: "$90.00"
 originalPrice: "$129.00"
 discount: "30% OFF"
-draft: false
+draft: true
 saleExpiry: "2026-08-23"
 ---
 If you only pick up one drum processor this month, DB 30 Drum Butter is worth a look at 30% off — it's built specifically for shaping punch and weight on drum busses, not a general-purpose channel strip you're stretching to fit the job.

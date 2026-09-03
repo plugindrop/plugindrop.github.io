@@ -10,7 +10,7 @@ dealPrice: "$35.00"
 originalPrice: "$59.00"
 discount: "41% OFF"
 xText: "decimort 2 at 41% off and honestly prices never stay here long. this is genuinely the moment if you've been thinking about it."
-draft: false
+draft: true
 saleExpiry: "2026-07-19"
 ---
 **TL;DR:** D16 Group's Decimort 2 is discounted to **$35**, down from ~~$59~~ — a 41% saving on this bit and sample rate reduction plugin. The deal is live now at Plugin Boutique. [Grab Decimort 2 at $35](https://www.pluginboutique.com/product/2-Effects/32-Bit-Crusher/2017-Decimort-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=decimort-2-26d82f&chan=art&data1=decimort-2-26d82f).

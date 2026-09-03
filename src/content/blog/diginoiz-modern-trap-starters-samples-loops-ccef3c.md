@@ -10,7 +10,7 @@ dealPrice: "$12"
 originalPrice: "$20"
 discount: "40% OFF"
 xText: "40% off diginoiz modern trap starters—this rarely drops this cheap. loops that sit in a mix like butter. 48h window probably"
-draft: false
+draft: true
 saleExpiry: "2026-08-01"
 saleExpirySource: "fallback"
 ---

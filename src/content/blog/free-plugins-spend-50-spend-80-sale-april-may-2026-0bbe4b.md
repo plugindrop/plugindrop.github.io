@@ -8,7 +8,7 @@ score: 5.45
 dealPrice: "FREE"
 originalPrice: "$29.99."
 xText: "go grab the free plugin promo while it's live through may. the spend-50-spend-80 math is stupid good. your future self will thank you for padding the vst cabinet rn."
-draft: false
+draft: true
 heroImage: "/images/free-plugins-spend-50-spend-80-sale-april-may-2026-0bbe4b_og.jpg"
 saleExpiry: "2026-08-09"
 ---

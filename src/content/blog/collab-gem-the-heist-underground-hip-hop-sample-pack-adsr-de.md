@@ -9,7 +9,7 @@ heroImage: /images/collab-gem-the-heist-underground-hip-hop-sample-pack-adsr-de.
 dealPrice: "$10.47"
 originalPrice: "$14.95"
 discount: "30% OFF"
-draft: false
+draft: true
 score: 2.36
 saleExpiry: "2026-05-17"
 saleExpirySource: "fallback"

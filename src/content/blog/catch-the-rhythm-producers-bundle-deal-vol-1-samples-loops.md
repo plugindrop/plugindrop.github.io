@@ -10,7 +10,7 @@ dealPrice: "$29"
 originalPrice: "$49"
 discount: "41% OFF"
 xText: "most sample bundles are 90% filler. catch the rhythm vol 1 actually doesn't waste your time. crunch the math on cost-per-loop—that's where the deal lives"
-draft: false
+draft: true
 saleExpiry: "2026-08-20"
 saleExpirySource: "fallback"
 ---

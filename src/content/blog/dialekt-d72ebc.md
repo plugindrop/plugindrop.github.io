@@ -10,7 +10,7 @@ dealPrice: "$69.00"
 originalPrice: "$99.00"
 discount: "30% OFF"
 xText: "new plugin at 30% off basically doesn't happen. most devs keep releases full price, so if dialekt's on your radar this is the window"
-draft: false
+draft: true
 saleExpiry: "2023-11-19"
 ---
 **TL;DR:** Dialekt is on sale at Plugin Boutique for $69, down from ~~$99~~ — a 30% discount on this vocal processing and sound design plugin. The deal covers modulation-driven vocal shaping for producers who want creative, non-standard vocal textures. [Grab Dialekt at 30% off here.](https://www.pluginboutique.com/product/1-Instruments/6-Groovebox/14669-Dialekt?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dialekt-d72ebc&chan=art&data1=dialekt-d72ebc)

@@ -8,7 +8,7 @@ score: 5.50
 dealPrice: "$200"
 discount: "60% OFF"
 xText: "auddict's royal viol performs like a three-century-old instrument instead of a plugin. 60% off? this deal doesn't usually happen."
-draft: false
+draft: true
 heroImage: "/images/auddict-auddict-has-rteleased-royal-viol-viola-da-gamba-libr_og.jpg"
 saleExpiry: "2026-05-27"
 saleExpirySource: "fallback"

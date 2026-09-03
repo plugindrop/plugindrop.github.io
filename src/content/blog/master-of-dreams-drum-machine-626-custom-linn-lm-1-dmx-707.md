@@ -10,7 +10,7 @@ dealPrice: "$23.4"
 originalPrice: "$39"
 discount: "40% OFF"
 xText: "40% off a linn lm-1 inspired drum machine is wild. master of dreams 626's sampling workflow sits in a mix like butter—doesn't fight your other drums."
-draft: false
+draft: true
 saleExpiry: "2026-06-23"
 saleExpirySource: "fallback"
 ---

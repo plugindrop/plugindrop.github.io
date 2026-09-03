@@ -10,7 +10,7 @@ dealPrice: "$10.2"
 originalPrice: "$17"
 discount: "40% OFF"
 xText: "40% off banger samples obsidian melody — dark trap loops that don't sit dead in your library. the bundle price math is actually insane when you think about it."
-draft: false
+draft: true
 saleExpiry: "2026-07-17"
 saleExpirySource: "fallback"
 ---

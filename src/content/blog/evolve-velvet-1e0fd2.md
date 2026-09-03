@@ -10,7 +10,7 @@ dealPrice: "$39.00"
 originalPrice: "$59.00"
 discount: "34% OFF"
 xText: "evolve velvet just dropped at 34% off — new saturation releases rarely see this price. solid move to audition it next session if you're looking"
-draft: false
+draft: true
 saleExpiry: "2026-07-31"
 saleExpirySource: "fallback"
 ---

@@ -10,7 +10,7 @@ dealPrice: "$19.77"
 originalPrice: "$32.95"
 discount: "40% OFF"
 xText: "new plugins at 40% off have maybe 48 hours before they tick back to full price. this is when you move, not when you think about it"
-draft: false
+draft: true
 saleExpiry: "2026-07-31"
 saleExpirySource: "fallback"
 ---

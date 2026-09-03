@@ -10,7 +10,7 @@ dealPrice: "$149.99"
 originalPrice: "$199.99"
 discount: "25% OFF"
 xText: "inmusic just acquired native instruments. kontakt, maschine, reaktor — the backbone of countless studios — now under one parent company. biggest consolidation the plugin world has seen in years"
-draft: false
+draft: true
 saleExpiry: "2026-06-07"
 saleExpirySource: "fallback"
 ---

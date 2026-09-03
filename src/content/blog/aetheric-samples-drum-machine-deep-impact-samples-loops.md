@@ -10,7 +10,7 @@ dealPrice: "$11.97"
 originalPrice: "$19.95"
 discount: "40% OFF"
 xText: "40% off aetheric deep impact drums — lowest price i've seen. warehouse hits that sit in a mix like they belong there. move quick on this one."
-draft: false
+draft: true
 saleExpiry: "2026-07-05"
 saleExpirySource: "fallback"
 ---

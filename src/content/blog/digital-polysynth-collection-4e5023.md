@@ -10,7 +10,7 @@ dealPrice: "$199.00"
 originalPrice: "$499.00"
 discount: "60% OFF"
 xText: "60% off a digital polysynth bundle is a pretty wild drop: full list price → 40% of list. waiting means paying more for the same synths later. absolute sleeper deal if you’re building out your palette."
-draft: false
+draft: true
 saleExpiry: "2026-08-15"
 saleExpirySource: "fallback"
 ---

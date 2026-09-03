@@ -10,7 +10,7 @@ dealPrice: "$11.4"
 originalPrice: "$19"
 discount: "40% OFF"
 xText: "40% off vicious hip hop samples — lowest i've seen this pack priced. trap drums sit in a mix different when you've got the right samples. worth the move if you're serious about your sound."
-draft: false
+draft: true
 saleExpiry: "2026-08-07"
 saleExpirySource: "fallback"
 ---

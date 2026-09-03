@@ -10,7 +10,7 @@ dealPrice: "$14.99"
 originalPrice: "$24.99"
 discount: "40% OFF"
 xText: "40% off bundles like this are where the math finally works. focus techno drum hits per-pack cost gets low enough you stop counting cents and start building an actual library."
-draft: false
+draft: true
 saleExpiry: "2026-07-31"
 saleExpirySource: "fallback"
 ---

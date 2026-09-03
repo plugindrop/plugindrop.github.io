@@ -10,7 +10,7 @@ dealPrice: "$24.99"
 originalPrice: "$200.99"
 discount: "88% OFF"
 xText: "88% off athenaeum melodic chords & arps for cthulhu. lowest i've seen discount-wise on this kind of thing. if your synth's still using stock patterns you're sleeping"
-draft: false
+draft: true
 saleExpiry: "2026-08-25"
 saleExpirySource: "fallback"
 ---
