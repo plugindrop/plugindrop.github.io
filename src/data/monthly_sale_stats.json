@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02",
+  "generated_at": "2026-09-03",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": true,
-      "generated_at": "2026-09-02",
-      "observations": 141,
-      "products_tracked": 136,
-      "products_on_sale": 81,
-      "on_sale_pct": 59.6,
-      "avg_discount_pct": 60.4,
-      "median_discount_pct": 51,
+      "generated_at": "2026-09-03",
+      "observations": 267,
+      "products_tracked": 220,
+      "products_on_sale": 102,
+      "on_sale_pct": 46.4,
+      "avg_discount_pct": 58.4,
+      "median_discount_pct": 51.0,
       "discount_buckets": {
-        "1-19": 0,
-        "20-39": 12,
-        "40-59": 30,
-        "60+": 39
+        "1-19": 4,
+        "20-39": 13,
+        "40-59": 38,
+        "60+": 47
       },
-      "all_time_low_hits": 67,
+      "all_time_low_hits": 80,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -106,6 +106,16 @@
           "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5507-SOLID-2"
         },
         {
+          "name": "FM8",
+          "slug": "fm8",
+          "category": "Other",
+          "regular": 99.0,
+          "sale": 10.0,
+          "pct_off": 90,
+          "date": "2026-09-02",
+          "pb_url": "/product/1-Instruments/4-Synth/8001-FM8"
+        },
+        {
           "name": "Excite Audio Bundle Crossgrade From Any Excite Audio Product",
           "slug": "excite-audio-bundle-crossgrade-from-any-excite-audio-product",
           "category": "Other",
@@ -164,16 +174,6 @@
           "pct_off": 81,
           "date": "2026-09-01",
           "pb_url": "/product/1-Instruments/4-Synth/10064-Tomofon"
-        },
-        {
-          "name": "UAD Helios Type 69 Preamp and EQ Collection",
-          "slug": "uad-helios-type-69-preamp-and-eq-collection",
-          "category": "Other",
-          "regular": 149.0,
-          "sale": 29.0,
-          "pct_off": 81,
-          "date": "2026-09-01",
-          "pb_url": "/product/2-Effects/16-EQ/11854-Helios-Type-69-Preamp-and-EQ-Collection"
         }
       ],
       "all_time_low_products": [
@@ -227,6 +227,13 @@
           "date": "2026-09-01"
         },
         {
+          "name": "FM8",
+          "slug": "fm8",
+          "sale": 10.0,
+          "all_time_low": 10.0,
+          "date": "2026-09-02"
+        },
+        {
           "name": "Excite Audio Bundle Crossgrade From Any Excite Audio Product",
           "slug": "excite-audio-bundle-crossgrade-from-any-excite-audio-product",
           "sale": 269.0,
@@ -274,29 +281,43 @@
           "sale": 29.0,
           "all_time_low": 29.0,
           "date": "2026-09-01"
-        },
-        {
-          "name": "UAD Lion 68 Super Lead Amp",
-          "slug": "uad-lion-68-super-lead-amp",
-          "sale": 29.0,
-          "all_time_low": 29.0,
-          "date": "2026-09-01"
         }
       ],
       "by_category": [
         {
           "category": "Other",
-          "tracked": 108,
-          "on_sale": 68,
-          "on_sale_pct": 63.0,
-          "avg_discount_pct": 61.2
+          "tracked": 163,
+          "on_sale": 83,
+          "on_sale_pct": 50.9,
+          "avg_discount_pct": 61.5
         },
         {
           "category": "Synth",
-          "tracked": 7,
-          "on_sale": 4,
-          "on_sale_pct": 57.1,
-          "avg_discount_pct": 46
+          "tracked": 12,
+          "on_sale": 5,
+          "on_sale_pct": 41.7,
+          "avg_discount_pct": 38.6
+        },
+        {
+          "category": "Instrument",
+          "tracked": 10,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Effects",
+          "tracked": 9,
+          "on_sale": 3,
+          "on_sale_pct": 33.3,
+          "avg_discount_pct": 34
+        },
+        {
+          "category": "Saturation",
+          "tracked": 6,
+          "on_sale": 2,
+          "on_sale_pct": 33.3,
+          "avg_discount_pct": 21
         },
         {
           "category": "Bundle",
@@ -306,18 +327,32 @@
           "avg_discount_pct": 87.5
         },
         {
-          "category": "Effects",
-          "tracked": 4,
+          "category": "Compressor",
+          "tracked": 3,
           "on_sale": 1,
-          "on_sale_pct": 25.0,
-          "avg_discount_pct": 40
+          "on_sale_pct": 33.3,
+          "avg_discount_pct": 80
         },
         {
-          "category": "Saturation",
-          "tracked": 4,
+          "category": "Vocal",
+          "tracked": 3,
           "on_sale": 0,
           "on_sale_pct": 0.0,
           "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Delay",
+          "tracked": 2,
+          "on_sale": 1,
+          "on_sale_pct": 50.0,
+          "avg_discount_pct": 12
+        },
+        {
+          "category": "Drums",
+          "tracked": 2,
+          "on_sale": 1,
+          "on_sale_pct": 50.0,
+          "avg_discount_pct": 34
         },
         {
           "category": "EQ",
@@ -327,13 +362,6 @@
           "avg_discount_pct": 58.5
         },
         {
-          "category": "Instrument",
-          "tracked": 2,
-          "on_sale": 0,
-          "on_sale_pct": 0.0,
-          "avg_discount_pct": 0.0
-        },
-        {
           "category": "Mastering",
           "tracked": 2,
           "on_sale": 1,
@@ -341,39 +369,32 @@
           "avg_discount_pct": 50
         },
         {
-          "category": "Compressor",
-          "tracked": 1,
-          "on_sale": 1,
-          "on_sale_pct": 100.0,
-          "avg_discount_pct": 80
-        },
-        {
-          "category": "Drums",
-          "tracked": 1,
-          "on_sale": 1,
-          "on_sale_pct": 100.0,
-          "avg_discount_pct": 34
-        },
-        {
           "category": "Reverb",
           "tracked": 1,
           "on_sale": 1,
           "on_sale_pct": 100.0,
           "avg_discount_pct": 51
+        },
+        {
+          "category": "Utility",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
         }
       ],
       "vs_previous_month": {
         "month": "2026-08",
-        "on_sale_pct_delta": -2.9,
-        "avg_discount_pct_delta": 7.6,
-        "products_tracked_delta": -323
+        "on_sale_pct_delta": -16.1,
+        "avg_discount_pct_delta": 5.6,
+        "products_tracked_delta": -239
       }
     },
     {
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-09-02",
+      "generated_at": "2026-09-03",
       "observations": 3720,
       "products_tracked": 459,
       "products_on_sale": 287,
@@ -386,7 +407,7 @@
         "40-59": 103,
         "60+": 100
       },
-      "all_time_low_hits": 241,
+      "all_time_low_hits": 240,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -764,7 +785,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-09-02",
+      "generated_at": "2026-09-03",
       "observations": 2052,
       "products_tracked": 302,
       "products_on_sale": 155,
@@ -777,7 +798,7 @@
         "40-59": 55,
         "60+": 67
       },
-      "all_time_low_hits": 126,
+      "all_time_low_hits": 124,
       "deepest_discounts": [
         {
           "name": "CARBON",
