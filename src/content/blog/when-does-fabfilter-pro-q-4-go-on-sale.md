@@ -2,6 +2,7 @@
 title: "When Does FabFilter Pro-Q 4 Go On Sale? (Updated 2026)"
 description: "FabFilter Pro-Q 4 goes on sale 3-4x per year at 25% off (~$149). Black Friday 2025 lowest ever: ~$104 at Plugin Boutique. Regular price: $199."
 pubDate: "2026-06-29"
+evergreen: true
 tags:
   - "fabfilter"
   - "eq"
@@ -16,6 +17,14 @@ heroImage: '/images/when-does-fabfilter-pro-q-4-go-on-sale.jpg'
 ---
 
 **Short answer:** FabFilter Pro-Q 4 goes on sale **3-4 times per year**. The typical discount is **25–48% off**, bringing the $199 regular price down to around **$149**. The best times to buy:
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2024-11-22 (32 observations)
+- Lowest we've tracked: $105 · Typical sale: $149 · Regular: $199
+- Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
+- Sale pattern: FabFilter discounts 25% once/year at Black Friday only. ATL $105.25 at Gear4Music (BF Nov 2025). PB BF 2024/2025: 25% off = $149.
+- Latest observed sale: $105 on 2025-11-22
+- Typical observed discount: 25%
 
 - **Summer Sale (June)**
 - **Black Friday (November)**

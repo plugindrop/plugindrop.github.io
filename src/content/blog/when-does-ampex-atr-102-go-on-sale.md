@@ -2,6 +2,7 @@
 title: "When Does the Ampex ATR-102 (Plugin Alliance) Go On Sale? (Updated 2026)"
 description: "The Ampex ATR-102 tape machine emulation (MSRP $349) goes on sale at 80-89% off. Lowest ever: $37 (Thomann, Feb 3 2025). Black Friday and PB Anniversary are the best times."
 pubDate: "2026-06-29"
+evergreen: true
 tags:
   - "plugin-alliance"
   - "ampex"
@@ -17,6 +18,13 @@ heroImage: '/images/when-does-ampex-atr-102-go-on-sale.jpg'
 ---
 
 **Short answer:** Ampex ATR-102 goes on sale **2-3 times per year**. The typical discount is **80–89% off**, bringing the $349 regular price down to around **$69**. The best times to buy:
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2024-07-25 (20 observations)
+- Lowest we've tracked: $39 · Typical sale: $39 · Last seen regular: $199
+- Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
+- Sale pattern: Auto-discovered 2026-07-17
+- Latest observed sale: $39 on 2026-09-02
 
 - **PB Anniversary (February)**
 - **Black Friday (November)**

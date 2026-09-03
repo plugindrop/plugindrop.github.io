@@ -2,6 +2,7 @@
 title: "When Does Arturia V Collection Go On Sale? (Updated 2026)"
 description: "Arturia V Collection (current: V10) goes on sale 3-4 times per year at 50% off ($299 for new users). Best times: Summer, Black Friday, Arturia Week (January). Upgrade from 1 Arturia product: $149."
 pubDate: "2026-06-29"
+evergreen: true
 tags:
   - "arturia"
   - "v-collection"
@@ -17,6 +18,12 @@ heroImage: '/images/when-does-arturia-v-collection-go-on-sale.jpg'
 ---
 
 **Short answer:** Arturia V Collection X goes on sale **3-4 times per year**. The typical discount is **50–75% off**, bringing the $599 regular price down to around **$299**. The best times to buy:
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2025-04-24 (16 observations)
+- Regular: $699
+- Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
+- Sale pattern: Regular $699-$769. Typical sale 50% off = $349 (BF 2025, PB 14th Anniversary Feb 2026). ATL $295 at Thomann (Nov 2025). | 2026-07-12: PB現行はIntro/Pro二本立て。本エントリはPro版。旧標準版のresearch履歴は分離済み
 
 - **Summer Sale (June-July)**
 - **Black Friday (November)**

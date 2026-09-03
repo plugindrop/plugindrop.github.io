@@ -2,6 +2,7 @@
 title: "When Does Native Instruments Komplete Go On Sale? (Updated 2026)"
 description: "NI Komplete 15 goes on sale twice a year at 50% off (~$299). Summer (June) and Black Friday (November) are the two reliable windows. Thomann's lowest: $266."
 pubDate: "2026-06-29"
+evergreen: true
 tags:
   - "native-instruments"
   - "komplete"
@@ -16,6 +17,13 @@ heroImage: '/images/when-does-ni-komplete-go-on-sale.jpg'
 ---
 
 **Short answer:** NI Komplete 15 goes on sale **2 times per year (very predictable)**. The typical discount is **50–56% off**, bringing the $599 regular price down to around **$299**. The best times to buy:
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2024-11-29 (5 observations)
+- Lowest we've tracked: $266 · Typical sale: $329 · Regular: $659
+- Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
+- Sale pattern: PB regularly runs 50% off NI Komplete (Feb 2025, BF 2025). ATL $266 at Thomann (Nov 2024).
+- Typical observed discount: 50%
 
 - **Summer Sale (June-July)**
 - **Black Friday (November)**

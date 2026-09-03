@@ -6,7 +6,7 @@ tags: ["guide", "prices", "data"]
 affiliate: ""
 evergreen: false
 score: 5.00
-draft: false
+draft: true
 ---
 We track FabFilter Pro-C 2's price history directly, so this is what buying it has actually cost over time — not a one-off promo screenshot.
 

@@ -2,6 +2,7 @@
 title: "Does Valhalla DSP Ever Go On Sale? (The Honest Answer)"
 description: "Valhalla DSP plugins never go on sale. Founder Sean Costello keeps all plugins at $50 permanently. But at $50, these are already among the best-value plugins available."
 pubDate: "2026-06-29"
+noindex: true
 tags:
   - "valhalla"
   - "reverb"

@@ -2,6 +2,7 @@
 title: "When Does the Waves SSL 4000 Bundle Go On Sale? (Updated 2026)"
 description: "Waves SSL 4000 Bundle MSRP: $499, but Waves runs near-constant sales. BF 2025 flash deal: $129. Lowest confirmed: ~$116 (Plugin Discounts). Never pay MSRP."
 pubDate: "2026-06-29"
+noindex: true
 tags:
   - "waves"
   - "ssl"

@@ -2,6 +2,7 @@
 title: "When Does SoundToys 5 Go On Sale? (Updated 2026)"
 description: "SoundToys 5.5 regular price: $599. Goes on sale primarily at Black Friday (60% off, ~$239 official). Thomann BF lowest ever: $166 (Nov 2024). Black Friday is the only reliable sale window."
 pubDate: "2026-06-29"
+evergreen: true
 tags:
   - "soundtoys"
   - "bundle"
@@ -17,6 +18,14 @@ heroImage: '/images/when-does-soundtoys-5-go-on-sale.jpg'
 ---
 
 **Short answer:** SoundToys 5.5 goes on sale **1-2 times per year (Black Friday is the main event)**. The typical discount is **60–72% off**, bringing the $599 regular price down to around **$239**. The best times to buy:
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-05-04 (18 observations)
+- Lowest we've tracked: $239 · Typical sale: $299 · Regular: $659
+- Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
+- Sale pattern: Frequent 50% off sales at PB. April 2026 sale was $299 (50% off $599). ATL ~$239 recorded at various retailers. Additional research (2026-07-10): official Soundtoys.com Black Friday 2024 price was $199 (regular was $499 pre-2025 price increase); 2025 summer sale ran $299 (50% off $599) through Aug 5, 2025 — consistent with existing tracked figures.
+- Latest observed sale: $599 on 2026-08-30
+- Typical observed discount: 55%
 
 - **Black Friday (November — best deal)**
 - **Spring / Easter (occasional 50% off)**

@@ -2,6 +2,7 @@
 title: "When Does Baby Audio Transit 2 Go On Sale? (Updated 2026)"
 description: "Baby Audio Transit 2 (co-developed with Andrew Huang) regular price: $129. Black Friday 2025 lowest: $69 (46% off). Intro launch sale: $79. Watch Baby Audio and Plugin Boutique for deals."
 pubDate: "2026-06-29"
+evergreen: true
 tags:
   - "baby-audio"
   - "transit"
@@ -15,6 +16,14 @@ heroImage: '/images/when-does-ujam-transit-go-on-sale.jpg'
 ---
 
 **Short answer:** Baby Audio Transit 2 goes on sale **2-3 times per year**. The typical discount is **39–46% off**, bringing the $129 regular price down to around **$78**. The best times to buy:
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-07-11 (17 observations)
+- Lowest we've tracked: $69 · Typical sale: $79 · Regular: $129
+- Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
+- Sale pattern: Macro-controlled multi-effect engine. PB lists a routine $129->$79 sale (~38% off); documented Black Friday 2025 floor of $69 (~47% off) direct from Baby Audio.
+- Latest observed sale: $79 on 2026-08-29
+- Typical observed discount: 39%
 
 - **Black Friday (November)**
 - **Baby Audio seasonal sales**

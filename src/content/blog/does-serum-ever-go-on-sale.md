@@ -2,6 +2,7 @@
 title: "Does Xfer Serum 2 Ever Go On Sale? (The Real Answer in 2026)"
 description: "Xfer Serum 2 never goes on sale. Regular price is $249 (intro promo $189 ended June 2024). Serum 1 owners get free upgrade. Only option: Splice rent-to-own."
 pubDate: "2026-06-29"
+evergreen: true
 tags:
   - "serum"
   - "xfer"
@@ -16,6 +17,14 @@ heroImage: '/images/when-does-serum-go-on-sale.jpg'
 ---
 
 **Short answer:** Xfer Serum 2 **never goes on sale.** The price has always been **$249** and there are no plans to change that.
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2025-03-20 (4 observations)
+- Lowest we've tracked: $99 · Typical sale: $189 · Regular: $249
+- Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
+- Sale pattern: Xfer's official price is $249 (2026). Xfer's founder has stated publicly that Xfer does not run promotions/sales on the perpetual license. Historical intro price $99 (Mar 2025) and a one-off $189 sale (May 2025) are kept below as legacy data points; no recurring sale pattern confirmed.
+- Latest observed sale: $99 on 2025-03-20
+- Typical observed discount: 24%
 
 ---
 

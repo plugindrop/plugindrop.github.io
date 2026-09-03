@@ -2,6 +2,7 @@
 title: "Does Spectrasonics Omnisphere Ever Go On Sale? (The Honest Answer)"
 description: "Omnisphere almost never goes on sale in the US. Spectrasonics avoids discounts. Rare exception: DACH region 30% off (2023). Regular price: $499."
 pubDate: "2026-06-29"
+noindex: true
 tags:
   - "spectrasonics"
   - "omnisphere"

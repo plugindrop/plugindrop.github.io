@@ -2,6 +2,7 @@
 title: "When Does Brainworx bx_console SSL 9000 J Go On Sale? (Updated 2026)"
 description: "Brainworx bx_console SSL 9000 J MSRP: $349. Goes on sale 90%+ off so often it's almost always available at $25-29. Lowest ever confirmed: $25 (PB Oct 24, 2024)."
 pubDate: "2026-06-29"
+noindex: true
 tags:
   - "brainworx"
   - "ssl"

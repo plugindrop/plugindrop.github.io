@@ -2,6 +2,7 @@
 title: "When Does SoundToys Little AlterBoy Go On Sale? (Updated 2026)"
 description: "SoundToys Little AlterBoy regular price: $99. Goes on sale 2-3x per year at 50-65% off. Lowest ever: $34 (Thomann, Dec 2024). Black Friday brings it to $49 at SoundToys direct."
 pubDate: "2026-06-29"
+evergreen: true
 tags:
   - "soundtoys"
   - "vocal"
@@ -16,6 +17,14 @@ heroImage: '/images/when-does-little-alterboy-go-on-sale.jpg'
 ---
 
 **Short answer:** SoundToys Little AlterBoy goes on sale **2-3 times per year**. The typical discount is **50–66% off**, bringing the $99 regular price down to around **$49**. The best times to buy:
+
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-07-11 (30 observations)
+- Lowest we've tracked: $49 · Typical sale: $39 · Regular: $99
+- Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
+- Sale pattern: Pitch/formant vocal shifter, often an entry-level Soundtoys purchase. Drops to ~$34-49 in major sales.
+- Latest observed sale: $49 on 2026-08-05
+- Typical observed discount: 61%
 
 - **Black Friday (November)**
 - **Plugin Boutique Focus Sales (random)**
