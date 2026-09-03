@@ -8,7 +8,7 @@ heroImage: "/images/patchmaker-synthwave-horizons-for-arturia-pigments-presets.j
 score: 8.20
 dealPrice: "$18.5"
 xText: "finally a synthwave preset pack for pigments that doesn't just slap reverb on everything. patchmaker's horizons is getting early buzz for actually understanding modulation routing. worth checking"
-draft: false
+draft: true
 saleExpiry: "2026-08-26"
 saleExpirySource: "fallback"
 ---

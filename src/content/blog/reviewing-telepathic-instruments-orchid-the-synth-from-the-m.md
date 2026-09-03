@@ -10,7 +10,7 @@ dealPrice: "$4.99"
 originalPrice: "$12.99"
 discount: "62% OFF"
 xText: "the wavetables in orchid from telepathic are actually special. new synth that makes you want to rethink your whole sound design. these releases don't come around every day"
-draft: false
+draft: true
 saleExpiry: "2026-08-08"
 saleExpirySource: "fallback"
 ---

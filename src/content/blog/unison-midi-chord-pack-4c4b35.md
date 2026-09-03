@@ -9,7 +9,7 @@ aiImage: true
 score: 4.08
 dealPrice: "$67"
 xText: "unison's new chord pack works because the chords actually work. no reworking, no hunting through 500 presets for the right vibe. drop it in and everything just... fits. that's what i'm after."
-draft: false
+draft: true
 saleExpiry: "2026-06-10"
 saleExpirySource: "fallback"
 ---

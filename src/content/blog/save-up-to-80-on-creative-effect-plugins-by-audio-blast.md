@@ -9,7 +9,7 @@ score: 8.76
 dealPrice: "$609.00"
 discount: "80% OFF"
 xText: "80% off audio blast creative effects—rarely see these drop this far. if your reverbs and distortions are tired, this is the moment."
-draft: false
+draft: true
 saleExpiry: "2026-08-01"
 saleExpirySource: "fallback"
 ---

@@ -10,7 +10,7 @@ dealPrice: "$13.2"
 originalPrice: "$22"
 discount: "40% OFF"
 xText: "penzi just hit 40% and this is genuinely the lowest i've seen afro house templates at this quality. full drum library, synth setup, everything for club tracks"
-draft: false
+draft: true
 saleExpiry: "2026-08-11"
 saleExpirySource: "fallback"
 ---

@@ -10,7 +10,7 @@ dealPrice: "$14.97"
 originalPrice: "$24.95"
 discount: "40% OFF"
 xText: "40% off boom bap just landed — mystic shadow is the cleanest hip hop sample pack i've tested. sits in a mix like butter and sound nothing like every other pack out there."
-draft: false
+draft: true
 saleExpiry: "2026-07-30"
 saleExpirySource: "fallback"
 ---

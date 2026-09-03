@@ -8,7 +8,7 @@ heroImage: "/images/tom-wolfe-presets-complete-collection-four-day-sale-for-299-
 score: 7.20
 dealPrice: "$0.063"
 xText: "tom wolfe's complete collection just hit $299. the per-preset cost is actually stupid cheap. last four days before black friday."
-draft: false
+draft: true
 saleExpiry: "2026-07-19"
 saleExpirySource: "fallback"
 ---

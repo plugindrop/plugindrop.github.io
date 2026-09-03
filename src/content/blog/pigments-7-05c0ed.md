@@ -10,7 +10,7 @@ dealPrice: "$129.00"
 originalPrice: "$199.00"
 discount: "35% OFF"
 xText: "honestly pigments 7's new wavetable engine just made me rethink sound design. 35% off ($65 from $99) right now. this doesn't stay this cheap for long"
-draft: false
+draft: true
 saleExpiry: "2026-07-26"
 ---
 **TL;DR:** Arturia's Pigments 7 is discounted 35% at Plugin Boutique, dropping from ~~$199~~ to $129 — a $70 savings. It's a multi-engine software synth built for wavetable, virtual analog, and sample-based sound design. [Get Pigments 7 at 35% off here](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pigments-7-05c0ed&chan=art&data1=pigments-7-05c0ed).

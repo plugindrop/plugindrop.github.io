@@ -10,7 +10,7 @@ dealPrice: "$24.99"
 originalPrice: "$200.99"
 discount: "88% OFF"
 xText: "this is the cheapest per-preset pricing i've seen in years. massive bundle birthday sale. if you've been waiting for the dip, this is it"
-draft: false
+draft: true
 saleExpiry: "2024-01-16"
 ---
 **TL;DR:** ADSR Sounds has the NI Massive Preset Bundle marked down to $24.99 from ~~$200.99~~, an 88% discount on a collection built for Native Instruments' Massive synth. That works out to well under $0.25 per preset if the bundle holds 100+ patches. [Grab the deal at ADSR Sounds](https://www.adsrsounds.com/product/presets/ni-massive-preset-bundle-birthday-sale/?a_aid=plugindrop&data1=ni-massive-preset-bundle-birthday-sale-d31f06&utm_source=plugindrop&utm_medium=article&utm_campaign=ni-massive-preset-bundle-birthday-sale-d31f06) before pricing reverts.

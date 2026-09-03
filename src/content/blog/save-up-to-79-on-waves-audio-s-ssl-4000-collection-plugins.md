@@ -9,7 +9,7 @@ heroImage: /images/save-up-to-79-on-waves-audio-s-ssl-4000-collection-plugins.jp
 discount: "79% OFF"
 dealPrice: "$99.99"
 originalPrice: "$499.00"
-draft: false
+draft: true
 score: 8.67
 saleExpiry: "2026-05-17"
 saleExpirySource: "fallback"

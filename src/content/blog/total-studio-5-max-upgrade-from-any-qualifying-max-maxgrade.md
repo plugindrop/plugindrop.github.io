@@ -9,7 +9,7 @@ score: 8.78
 dealPrice: "$99.99"
 originalPrice: "$299.99"
 discount: "67% OFF"
-draft: false
+draft: true
 saleExpiry: "2026-07-12"
 ---
 **TL;DR:** Owners of a qualifying Total Studio MAX version can upgrade to Total Studio 5 MAX for $99.99, down from ~~$299.99~~. That's 67% off the regular upgrade price on IK Multimedia's full production bundle. Grab the [MAXgrade deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Total+Studio+5+MAX+Upgrade+from+any+qualifying+MAX+MAXgrade&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-studio-5-max-upgrade-from-any-qualifying-max-maxgrade) while it's active.

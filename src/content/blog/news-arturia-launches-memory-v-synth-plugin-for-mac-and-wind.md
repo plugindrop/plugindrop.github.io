@@ -8,7 +8,7 @@ heroImage: "/images/news-arturia-launches-memory-v-synth-plugin-for-mac-and-wind
 score: 7.20
 dealPrice: "$15"
 xText: "arturia just dropped memory v on both platforms. honestly their plugins sit different, worth a listen. https://plugindrop.net/posts/news-arturia-launches-memory-v-synth-plugin-for-mac-and-wind/"
-draft: false
+draft: true
 saleExpiry: "2026-06-28"
 saleExpirySource: "fallback"
 ---

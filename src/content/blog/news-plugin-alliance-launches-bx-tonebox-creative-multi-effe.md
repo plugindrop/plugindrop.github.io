@@ -7,7 +7,7 @@ tags: ["sale", "compressor", "creative", "deals", "effects", "midside", "modular
 affiliate: https://www.plugin-alliance.com/products/bx_tonebox
 heroImage: "/images/news-plugin-alliance-launches-bx-tonebox-creative-multi-effe.jpg"
 dealPrice: "$39.99"
-draft: false
+draft: true
 score: 4.0
 saleExpiry: "2026-05-14"
 saleExpirySource: "fallback"

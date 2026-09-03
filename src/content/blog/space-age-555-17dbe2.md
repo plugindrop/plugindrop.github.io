@@ -10,7 +10,7 @@ dealPrice: "$35.00"
 originalPrice: "$69.00"
 discount: "49% OFF"
 xText: "space age 555 dropped 49% on launch day—this rarely happens with new plugins. it'll probably bounce back to full price by next week. if you've been waiting for a gap like this, here it is."
-draft: false
+draft: true
 saleExpiry: "2026-08-18"
 saleExpirySource: "fallback"
 ---

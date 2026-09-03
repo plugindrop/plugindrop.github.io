@@ -8,7 +8,7 @@ heroImage: "/images/patchmaker-3300-presets-anniversary-bundle-serum-presets.jpg
 score: 5.75
 dealPrice: "$25"
 xText: "3300 serum presets in a bundle. at this point the cost-per-preset is just noise. the value is insane"
-draft: false
+draft: true
 saleExpiry: "2026-08-21"
 saleExpirySource: "fallback"
 ---

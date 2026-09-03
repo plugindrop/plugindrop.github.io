@@ -8,7 +8,7 @@ heroImage: "/images/sylenth1-edm-workstation-014b95.jpg"
 score: 5.30
 dealPrice: "$22.99"
 xText: "if your edm tracks need a synth that just works, sylenth1's new workstation mode is exactly why every producer uses it. cuts through instantly, light on resources, no learning curve"
-draft: false
+draft: true
 saleExpiry: "2026-08-18"
 saleExpirySource: "fallback"
 ---

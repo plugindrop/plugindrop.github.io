@@ -9,7 +9,7 @@ score: 6.75
 dealPrice: "$10.00"
 originalPrice: "$49.00"
 discount: "80% OFF"
-draft: false
+draft: true
 saleExpiry: "2023-09-21"
 ---
 **TL;DR:** SSL Native X ValveComp is on sale at Plugin Boutique for ~~$49~~ **$10**, an 80% discount off the regular price. That's a significant markdown for a compressor plugin from a console brand best known for its bus compression sound. [Grab the deal here](https://www.pluginboutique.com/search?q=SSL+Native+X+ValveComp&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-valvecomp-416524) while the price holds.

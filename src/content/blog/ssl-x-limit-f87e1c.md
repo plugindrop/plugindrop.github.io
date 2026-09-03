@@ -9,7 +9,7 @@ score: 6.84
 dealPrice: "$15.00"
 originalPrice: "$49.00"
 discount: "69% OFF"
-draft: false
+draft: true
 saleExpiry: "2023-02-26"
 ---
 **TL;DR:** Solid State Logic's X Limit plugin is ~~$49~~ **$15** at Plugin Boutique right now, a 69% discount. It's a straightforward limiter built for peak control on mixes and masters, and at this price it's one of the cheaper ways to add an SSL-branded processor to your chain. [Grab the deal here](https://www.pluginboutique.com/search?q=SSL+X+Limit&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-limit-f87e1c).

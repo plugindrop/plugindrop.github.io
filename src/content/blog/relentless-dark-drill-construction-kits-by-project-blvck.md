@@ -10,7 +10,7 @@ dealPrice: "$10.19"
 originalPrice: "$16.99"
 discount: "40% OFF"
 xText: "40% off dark drill kits that don't need heavy processing to sit right? project blvck's new relentless is honestly the best pricing i've seen on something like this."
-draft: false
+draft: true
 saleExpiry: "2026-07-16"
 saleExpirySource: "fallback"
 ---

@@ -9,7 +9,7 @@ score: 7.07
 dealPrice: "$39.99"
 originalPrice: "$199.99"
 discount: "80% OFF"
-draft: false
+draft: true
 saleExpiry: "2026-08-23"
 ---
 **TL;DR:** IK Multimedia's MODO BASS 2 is down to **$39.99** from ~~$199.99~~ at Plugin Boutique, an 80% discount. It's a physically modeled bass instrument, not a sample library, so you get real-time control over instrument build, playing technique, and tone. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=MODO+BASS+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-bass-2-b8b6b2) while the price holds.

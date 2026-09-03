@@ -10,7 +10,7 @@ dealPrice: "$8.39"
 originalPrice: "$13.99"
 discount: "40% OFF"
 xText: "Serum (Xfer Records)  off — does it beat Massive X at this price?"
-draft: false
+draft: true
 saleExpiry: "2024-01-16"
 ---
 # Serum vs Massive X: Which Should You Buy on This Deal?

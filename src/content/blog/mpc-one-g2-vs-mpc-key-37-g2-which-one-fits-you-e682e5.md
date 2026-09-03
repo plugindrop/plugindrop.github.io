@@ -10,7 +10,7 @@ dealPrice: "$149.99"
 originalPrice: "$199.99"
 discount: "25% OFF"
 xText: "the g2 models are legit. key 37's got keys, one's got portability. both insanely faster. which one's your move?"
-draft: false
+draft: true
 saleExpiry: "2026-07-30"
 saleExpirySource: "fallback"
 ---

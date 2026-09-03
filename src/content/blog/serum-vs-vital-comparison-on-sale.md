@@ -10,7 +10,7 @@ dealPrice: "$14.4"
 originalPrice: "$24"
 discount: "40% OFF"
 xText: "Serum (Xfer Records)  off — does it beat Vital at this price?"
-draft: false
+draft: true
 saleExpiry: "2026-07-10"
 ---
 # Serum (Xfer Records) at $14.4 vs Vital: Is This Deal Worth It?

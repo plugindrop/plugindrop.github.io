@@ -10,7 +10,7 @@ dealPrice: "$8.39"
 originalPrice: "$13.99"
 discount: "40% OFF"
 xText: "40% off shocking melodic techno 2 for serum, full midi bundled. lowest it's gone. absolute sleeper deal if you're working on melodic techno."
-draft: false
+draft: true
 saleExpiry: "2026-07-17"
 saleExpirySource: "fallback"
 ---

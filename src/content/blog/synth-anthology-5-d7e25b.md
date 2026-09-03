@@ -10,7 +10,7 @@ dealPrice: "$89.00"
 originalPrice: "$149.00"
 discount: "40% OFF"
 xText: "synth anthology 5 is 40% off. six tools for the price of what two used to cost. when you break down the per-synth math it's actually wild"
-draft: false
+draft: true
 saleExpiry: "2026-08-09"
 saleExpirySource: "fallback"
 ---

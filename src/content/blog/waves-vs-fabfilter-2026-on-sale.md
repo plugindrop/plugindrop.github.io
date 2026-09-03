@@ -10,7 +10,7 @@ dealPrice: "$49.00"
 originalPrice: "$99.99"
 discount: "51% OFF"
 xText: "Waves  off — does it beat FabFilter at this price?"
-draft: false
+draft: true
 saleExpiry: "2026-07-15"
 saleExpirySource: "fallback"
 ---

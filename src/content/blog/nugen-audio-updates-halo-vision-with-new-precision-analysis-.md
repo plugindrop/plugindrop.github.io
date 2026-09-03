@@ -7,7 +7,7 @@ tags: ["sale", "effects", "analyzer and monitor", "nugen audio", "surround", "mu
 affiliate: https://www.pluginboutique.com/product/3-Studio-Tools/79-Metering/9680-Halo-Vision?utm_source=plugindrop&utm_medium=article&utm_campaign=nugen-audio-updates-halo-vision-with-new-precision-analysis-&a_aid=69cb95abe1763&chan=art&data1=nugen-audio-updates-halo-vision-with-new-precision-analysis-
 heroImage: /images/nugen-audio-updates-halo-vision-with-new-precision-analysis-.jpg
 dealPrice: "$19.80"
-draft: false
+draft: true
 score: 3.82
 saleExpiry: "2026-05-14"
 saleExpirySource: "fallback"

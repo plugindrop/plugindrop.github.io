@@ -10,7 +10,7 @@ dealPrice: "$29.00"
 originalPrice: "$49.00"
 discount: "41% OFF"
 xText: "orange nano vocoder just dropped and it's already 41% off—that's not launch pricing. if you've been sitting on needing something fresh in your chain, this is probably it"
-draft: false
+draft: true
 saleExpiry: "2026-08-11"
 saleExpirySource: "fallback"
 ---

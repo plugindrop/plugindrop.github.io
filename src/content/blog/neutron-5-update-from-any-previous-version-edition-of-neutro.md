@@ -10,7 +10,7 @@ dealPrice: "$149.00"
 originalPrice: "$199.00"
 discount: "25% OFF"
 xText: "25% off neutron 5 from older versions. iZotope doesn't usually discount new releases this much. spectral shaping and ai workflow on 5 is the actual upgrade"
-draft: false
+draft: true
 saleExpiry: "2026-07-02"
 saleExpirySource: "fallback"
 ---

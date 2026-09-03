@@ -10,7 +10,7 @@ dealPrice: "$99.00"
 originalPrice: "$149.00"
 discount: "34% OFF"
 xText: "34% off uad mix tape pro and the bundle math just works. cheaper per plugin than buying solo, complete mixing chain that actually hits. this is exactly how producers build real toolkits without compromise."
-draft: false
+draft: true
 saleExpiry: "2026-08-09"
 saleExpirySource: "fallback"
 ---
