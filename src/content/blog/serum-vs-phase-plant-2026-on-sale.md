@@ -48,8 +48,6 @@ Skip this if you specifically need Phase Plant's deeper modulation layers or pre
 
 **[Grab Serum at $8.39 now](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=serum-vs-phase-plant-2026-on-sale)** before the deal expires.
 
-For a full head-to-head breakdown, read our [Serum vs Phase Plant: Which Wavetable Synth Wins in 2026?](https://plugindrop.net/posts/serum-vs-phase-plant-2026/)
-
 ## FAQ
 
 **Q: Is Serum on sale right now?**

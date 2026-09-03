@@ -45,8 +45,6 @@ Buy Serum at $8.39 if you want a wavetable synth that prioritizes speed and crea
 
 Grab Serum now at this price via [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=serum-vs-massive-x-on-sale)—the deal won't last long at $8.39.
 
-For a full head-to-head breakdown, read our [Serum vs Massive X: Which Wavetable Synth Should You Buy](https://plugindrop.net/posts/serum-vs-massive-x/) guide to understand which synth fits your production style best.
-
 ## FAQ
 
 **Q: Is Serum (Xfer Records) on sale right now?**  
