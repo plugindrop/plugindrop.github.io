@@ -92,7 +92,7 @@ A: Around 40GB for the full 37,500-sample library — confirm free space before 
 A: Yes, at its regular $99 price. The Pick 3 deal bundles it with two other eligible 8Dio choirs at a reduced combined price of $69 total.
 
 **Q: Does the price change often, or is $69 for Pick 3 a rare deal?**
-A: 8Dio and Plugin Boutique run bundle promotions like this periodically rather than year-round, so it's worth checking current availability rather than assuming it'll always be on offer. See [When Does 8Dio Insolidus Choir Go On Sale?](/blog/when-does-8dio-insolidus-choir-go-on-sale) for historical pricing patterns.
+A: 8Dio and Plugin Boutique run bundle promotions like this periodically rather than year-round, so it's worth checking current availability rather than assuming it'll always be on offer.
 
 ---
 
@@ -119,7 +119,7 @@ Insolidus is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](
 - You have an active project that needs polyphonic choral legato specifically. There's no comparable substitute at this price point; waiting doesn't get you a better tool, only a possible discount.
 
 **Wait if:**
-- You only want Insolidus by itself. At $99 solo it's not currently discounted outside the bundle — check [When Does 8Dio Insolidus Choir Go On Sale?](/blog/when-does-8dio-insolidus-choir-go-on-sale) to see if solo pricing has dipped before, and time your purchase around 8Dio's typical promo calendar (Black Friday and periodic flash sales are the usual windows).
+- You only want Insolidus by itself. At $99 solo it's not currently discounted outside the bundle, so time your purchase around 8Dio's typical promo calendar (Black Friday and periodic flash sales are the usual windows).
 - You're not sure which two other choirs you'd pick. A Pick 3 filled with two libraries you won't use isn't actually a deal — it's $69 for one library you wanted plus $46 of shelfware. Confirm your other two picks first, then buy.
 
 ---
@@ -130,4 +130,3 @@ Insolidus is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](
 - [Best Free Choir VST Plugins in 2026](/posts/best-free-choir-vst-plugins/)
 - [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)
 - [8Dio Pick Any 3 Choirs — $69 Deal](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)
-- [When Does 8Dio Insolidus Choir Go On Sale?](/blog/when-does-8dio-insolidus-choir-go-on-sale)

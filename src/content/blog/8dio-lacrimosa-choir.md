@@ -80,8 +80,6 @@ The **Pick Any 3 for $69** bundle effectively drops Lacrimosa's cost to around *
 
 The catch: the deal only pays off if you actually want the other two titles. If you only want Lacrimosa and have no use for a second or third choir library, paying $149 standalone (or waiting for a solo sale) is more honest than buying two libraries you'll never load just to hit the bundle price.
 
-For a full history of how often this specific bundle and Lacrimosa's standalone price have dropped, see **[When Does 8Dio Lacrimosa Choir Go On Sale?](/blog/when-does-8dio-lacrimosa-choir-go-on-sale)**.
-
 ---
 
 ## Who It's For
@@ -110,7 +108,7 @@ Lacrimosa is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](
 - You already own 1–2 of the other eligible titles and just need Lacrimosa to complete the set at bundle pricing.
 
 **Wait if:**
-- You only want Lacrimosa itself and have no use for two more choir libraries — 8Dio runs standalone sales (Black Friday, anniversary sales) that periodically bring the $149 solo price down without forcing a bundle purchase. Check **[When Does 8Dio Lacrimosa Choir Go On Sale?](/blog/when-does-8dio-lacrimosa-choir-go-on-sale)** for the pattern.
+- You only want Lacrimosa itself and have no use for two more choir libraries — 8Dio runs standalone sales (Black Friday, anniversary sales) that periodically bring the $149 solo price down without forcing a bundle purchase.
 - You're not sure Kontakt 6+ fits your workflow, or you're still evaluating whether you need a 200-voice choir versus something smaller like Aetheria — buying under time pressure from a deal countdown is how unused libraries pile up.
 - You're mid-project and can't evaluate whether the section balance (bass/tenor-heavy) fits your arrangement — 8Dio sales recur often enough that waiting a few weeks rarely costs you the discount.
 
@@ -128,7 +126,7 @@ A: Yes, individually at its regular $149 Pro price. The Pick 3 deal combines it 
 A: It is the largest, 200 singers versus 65 for Insolidus/Silka or 16 for Aetheria. Choose Lacrimosa when the arrangement calls for mass and density rather than intimacy; choose Aetheria or Insolidus if you need something smaller or more lyrical.
 
 **Q: Is $69 for 3 choirs actually the lowest this deal gets?**
-A: Pricing has historically dipped around major sale periods (Black Friday, 8Dio anniversary sales). Track the pattern on the [dedicated sale-history page](/blog/when-does-8dio-lacrimosa-choir-go-on-sale) before assuming this is the floor.
+A: Pricing has historically dipped around major sale periods (Black Friday, 8Dio anniversary sales), so this should not be assumed to be the floor.
 
 ---
 
@@ -137,5 +135,4 @@ A: Pricing has historically dipped around major sale periods (Black Friday, 8Dio
 ## Related Guides
 - [Best Free Choir VST Plugins in 2026](/posts/best-free-choir-vst-plugins/)
 - [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)
-- [When Does 8Dio Lacrimosa Choir Go On Sale?](/blog/when-does-8dio-lacrimosa-choir-go-on-sale)
 - [8Dio Pick Any 3 Choirs — $69 Deal](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)

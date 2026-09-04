@@ -1,5 +1,5 @@
 ---
-title: "Pulsar Audio — Get Pulsar Smasher for free for a limited time (Regular price €49). Expiry: Unknown [FREE]"
+title: "Pulsar Audio Smasher Is Free for a Limited Time (Normally €49)"
 description: "Pulsar Audio's Smasher bus compressor — normally ~~€49~~ — is currently free for a limited time. No expiry date has been announced, so this could end at..."
 pubDate: "2026-05-05T14:32:09Z"
 tags: ["free", "pulsar audio", "music-production"]

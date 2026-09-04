@@ -18,7 +18,11 @@ const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliat
 const imageStr = typeof heroImage === 'string' ? heroImage : undefined;
 
 // Check if sale has expired
-const saleExpired = saleExpiry ? new Date(saleExpiry + 'T23:59:59Z') < new Date() : false;
+const saleExpired = saleExpiry && !evergreen
+	&& dealPrice?.trim().toUpperCase() !== 'FREE'
+	&& parseFloat(dealPrice?.replace(/[^0-9.]/g, '') ?? '') !== 0
+	? new Date(saleExpiry + 'T23:59:59Z') < new Date()
+	: false;
 
 // Derive store name from affiliate URL — netloc-based for accuracy
 function getDealSource(url: string): string {
@@ -288,11 +292,10 @@ const BEST_GUIDE_MAP: Record<string, { label: string; slug: string }> = {
 	'eq':           { label: 'Best EQ Plugins 2026',            slug: 'best-eq-plugins-2026' },
 	'compressor':   { label: 'Best Compressor Plugins 2026',    slug: 'best-compressor-plugins-2026' },
 	'reverb':       { label: 'Best Free Reverb Plugins 2026',   slug: 'best-free-reverb-vst-plugins' },
-	'synth':        { label: 'Best Synth Plugins 2026',         slug: 'best-synth-plugins-2026' },
+	'synth':        { label: 'Best Synth Plugins 2026',         slug: 'best-synth-vst-plugins-2026' },
 	'mixing':       { label: 'Best Mixing Plugins 2026',        slug: 'best-mixing-plugins-2026' },
 	'mastering':    { label: 'Best Mastering Plugins 2026',     slug: 'best-mastering-plugins-2026' },
-	'hip-hop':      { label: 'Best Hip-Hop Sample Packs',       slug: 'best-sample-packs-hip-hop-2026' },
-	'drums':        { label: 'Best Drum Plugins 2026',          slug: 'best-drum-plugins-2026' },
+	'drums':        { label: 'Best Free Drum Plugins',          slug: 'best-free-drum-plugins' },
 	'tutorials':    { label: 'How-To Mixing Guides',            slug: 'how-to-sidechain-compression' },
 	'techno':       { label: 'Best Plugins for Techno',         slug: 'best-plugins-for-techno-production' },
 	'house':        { label: 'Best Plugins for House Music',    slug: 'best-plugins-for-house-music' },

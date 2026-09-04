@@ -96,7 +96,7 @@ A: Yes, the one male and two female soloists are separate patches for exposed, i
 A: Yes, individually at its regular $79 price (list $498). The Pick 3 deal combines it with two other eligible 8Dio choirs for $69 total, which is cheaper than buying Liberis alone.
 
 **Q: Is there a better time to buy than right now?**
-A: 8Dio runs choir-focused bundle pricing fairly regularly, so this exact $69-for-3 structure isn't guaranteed to be permanent — but it also isn't a rare flash sale. See the [When Does 8Dio Liberis Choir Go On Sale?](/blog/when-does-8dio-liberis-choir-go-on-sale) page for historical pricing patterns before deciding whether to wait.
+A: 8Dio runs choir-focused bundle pricing fairly regularly, so this exact $69-for-3 structure isn't guaranteed to be permanent — but it also isn't a rare flash sale.
 
 ---
 
@@ -121,5 +121,4 @@ Given the bundle math, most producers who know they want Liberis should buy now 
 ## Related Guides
 - [Best Free Choir VST Plugins in 2026](/posts/best-free-choir-vst-plugins/)
 - [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)
-- [When Does 8Dio Liberis Choir Go On Sale?](/blog/when-does-8dio-liberis-choir-go-on-sale)
 - [8Dio Pick Any 3 Choirs — $69 Deal](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)

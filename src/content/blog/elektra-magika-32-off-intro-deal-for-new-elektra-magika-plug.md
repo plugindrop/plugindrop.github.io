@@ -1,5 +1,5 @@
 ---
-title: "Elektra Magika — 32% off intro deal for new Elektra Magika Plugin, MultiLayerEQ, an Equalizer with interval-based band layering. Expiry: Unknown"
+title: "Elektra Magika MultiLayerEQ Launches with 32% Intro Discount"
 description: "Elektra Magika is offering 32% off MultiLayerEQ, its newly launched equalizer plugin built around interval-based band layering — a concept that..."
 pubDate: "2026-05-04T18:59:13Z"
 tags: ["elektra magika", "music-production"]

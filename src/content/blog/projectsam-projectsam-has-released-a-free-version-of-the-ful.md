@@ -1,5 +1,5 @@
 ---
-title: "ProjectSAM — ProjectSAM has released a free version of the full Lineage Percussion Pro library for Kontakt Player. Expiry: None [FREE]"
+title: "ProjectSAM Releases Lineage Percussion Free for Kontakt Player"
 description: "ProjectSAM is giving away Lineage Percussion — a full percussion library for Kontakt Player — completely free. No expiry date listed, but free full..."
 pubDate: "2026-06-09T05:30:54Z"
 tags: ["free", "projectsam", "music-production"]

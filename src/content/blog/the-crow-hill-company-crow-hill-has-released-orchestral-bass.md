@@ -1,5 +1,5 @@
 ---
-title: "The Crow Hill Company — Crow Hill has released Orchestral Bass Slide, a free virtual instrument plugin for Win & Mac from the Vaults series. Expiry: Unknown"
+title: "The Crow Hill Company Releases Orchestral Bass Slide Free for Win & Mac"
 description: "The Crow Hill Company just dropped Orchestral Bass Slide as a completely free download — no strings attached, no trial limit. It's part of their Vaults..."
 pubDate: "2026-06-01T05:41:02Z"
 tags: ["free", "freeaudioplugins", "the crow hill company", "music-production"]

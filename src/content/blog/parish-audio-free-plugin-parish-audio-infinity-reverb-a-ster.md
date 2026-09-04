@@ -1,5 +1,5 @@
 ---
-title: "Parish Audio — Free Plugin - Parish Audio Infinity Reverb, a stereo reverb plugin designed for rich ambience, depth, and space. Expiry: Unknown"
+title: "Parish Audio Infinity Reverb Is Available Free"
 description: "Parish Audio's Infinity Reverb is completely free — grab a professional-grade stereo reverb plugin at no cost. Designed for lush ambience and deep spatial..."
 pubDate: "2026-05-21T09:04:39Z"
 tags: ["free", "freeaudioplugins", "parish audio", "music-production"]

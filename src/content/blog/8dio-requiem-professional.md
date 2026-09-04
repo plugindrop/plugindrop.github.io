@@ -69,7 +69,7 @@ At full price, $99 for a single cathedral choir library is a reasonable but not 
 
 If you only want one choir library and have no use for the other 8Dio titles, buying solo at $99 is fine. But if there's any chance you'll want a second sacred/orchestral choir down the line — Lacrimosa or Liberis are the natural pairings — the bundle math strongly favors buying all three now rather than picking one up later at full price.
 
-Track current pricing on our **[When Does 8Dio Requiem Professional Go On Sale?](/blog/when-does-8dio-requiem-professional-go-on-sale)** page — 8Dio runs bundle promotions like Pick 3 periodically, and prices do fluctuate outside of them.
+8Dio runs bundle promotions like Pick 3 periodically, and prices do fluctuate outside of them.
 
 ## Who It's For
 
@@ -103,7 +103,7 @@ A: If you're certain you only need one cathedral choir, $99 solo is a fair price
 ## When to Buy
 
 - **Buy now if:** you're actively scoring a project that needs a sacred, epic, or cathedral-acoustic choir, and you can fill at least 2 of the 3 Pick 3 slots with titles you'll actually use (Lacrimosa and Liberis are the obvious pairings). At $69 for three libraries, this is close to the floor price these titles typically reach — waiting for a deeper discount on individual titles is unlikely to beat the bundle math.
-- **Wait if:** you only want Requiem Professional itself and have no interest in the other 5 eligible titles, or your project needs a dry, non-cathedral choir instead. In that case, check the **[When Does 8Dio Requiem Professional Go On Sale?](/blog/when-does-8dio-requiem-professional-go-on-sale)** page for solo-title discounts, since 8Dio does run standalone sales outside the Pick 3 promotion.
+- **Wait if:** you only want Requiem Professional itself and have no interest in the other 5 eligible titles, or your project needs a dry, non-cathedral choir instead. 8Dio does run standalone sales outside the Pick 3 promotion.
 - **Skip entirely if:** your workflow requires a dry, heavily mixable choir with no baked-in room tone — the cathedral acoustic here is a feature you can't undo, so it's a poor fit for tight, close-mic'd productions.
 
 *Price verified at publication. Check the product page for current availability.*
@@ -112,4 +112,3 @@ A: If you're certain you only need one cathedral choir, $99 solo is a fair price
 - [Best Free Choir VST Plugins in 2026](/posts/best-free-choir-vst-plugins/)
 - [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)
 - [8Dio Pick Any 3 Choirs — $69 Deal](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)
-- [When Does 8Dio Requiem Professional Go On Sale?](/blog/when-does-8dio-requiem-professional-go-on-sale)
