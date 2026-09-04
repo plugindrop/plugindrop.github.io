@@ -19,7 +19,6 @@ If you only install one, make it VPS Avenger 2 — for a single synth that combi
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $249
-- Verdict: **NO HISTORY** — The current deal is $124; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/N3PLAmU6JzU" title="50% Off VPS Avenger 2 — Sound Design Synth ($124) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

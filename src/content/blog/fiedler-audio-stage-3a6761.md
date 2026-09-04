@@ -17,7 +17,6 @@ saleExpirySource: "fallback"
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $101
-- Verdict: **NO HISTORY** — The current deal is $30; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="70% Off Fiedler Audio Stage — Stereo Imaging Plugin ($30) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/343674941&color=%2300bfff&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>

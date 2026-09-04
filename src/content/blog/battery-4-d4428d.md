@@ -17,7 +17,6 @@ saleExpirySource: "fallback"
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $199
-- Verdict: **NO HISTORY** — The current deal is $99; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/JpkkmELv-9I" title="50% Off Battery 4 — Drum Synthesis & Sampling ($99) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

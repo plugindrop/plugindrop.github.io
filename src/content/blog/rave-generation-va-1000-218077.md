@@ -19,7 +19,6 @@ If you only install one, make it VA-1000 if your tracks need virtual-analog synt
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $148.66
-- Verdict: **NO HISTORY** — The current deal is $74.33; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/RfNztySD5qY" title="50% Off Rave Generation VA-1000 — Rave Synth Sounds ($74.33) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

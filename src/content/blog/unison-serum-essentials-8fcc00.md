@@ -13,9 +13,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Unison Audio is giving away **Serum Essentials**, a preset pack for Xfer Serum, at no cost — ~~paid~~ **FREE**. If you already own Serum and want a fast way to expand your patch library without spending anything, [grab it here](https://unison.audio/ref/jc374/product/unison-serum-essentials/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-serum-essentials-8fcc00). Free preset packs like this don't always stay free, so it's worth downloading now rather than later.
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is Unison Serum Essentials?
 
 Unison Serum Essentials is a preset bank built for Xfer Records' Serum synthesizer, distributed by Unison Audio. It's designed to give Serum users a curated starting library covering common sound categories producers reach for across genres. Unison Audio is known primarily as a sample and preset marketplace that partners with sound designers to release packs across major plugin formats. Check the product page for the exact patch count and genre breakdown before downloading.

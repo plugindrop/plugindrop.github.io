@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** A free first-look video just dropped showing the Dirtywave M8 Tracker in action — including a clever workflow tip: use the built-in **render function** to capture audio without cables, perfect for clean demo videos. The M8 Tracker hardware is priced at $199. [Watch the free video here.](https://youtu.be/TpBIjuG5C4Q)
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is the Dirtywave M8 Tracker?
 
 The **Dirtywave M8** is a handheld music tracker and synthesizer designed for producers who want a fully self-contained, portable creative tool. Built by Dirtywave, it packs a sequencer, multiple synthesis engines, and sample playback into a palm-sized device with a small display. The M8 runs on battery power, making it genuinely portable — no laptop, no DAW required.

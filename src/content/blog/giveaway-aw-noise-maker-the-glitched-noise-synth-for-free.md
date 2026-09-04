@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Audiowanderer is giving away AW Noise Maker — a glitched noise synthesizer — completely free. Winner announced **May 4th**, so the window closes tomorrow. [Enter the giveaway here.](https://www.instagram.com/reel/DXwN0Z9I%5C_-e/)
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## Free Glitched Noise Synth Giveaway: AW Noise Maker
 
 One day left. That's it. Audiowanderer is running a giveaway for AW Noise Maker, their new glitched noise synthesizer, and the winner gets announced **Monday, May 4th**. This is the kind of weird, experimental tool that rarely surfaces for free — enter now or miss it.

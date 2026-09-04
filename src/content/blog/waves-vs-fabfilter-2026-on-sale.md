@@ -20,7 +20,6 @@ saleExpirySource: "fallback"
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $99.99
-- Verdict: **NO HISTORY** — The current deal is $49; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## Is Waves Worth It at $49.00?
 

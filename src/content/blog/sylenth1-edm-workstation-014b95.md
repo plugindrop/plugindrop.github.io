@@ -16,9 +16,6 @@ If you only add one synth to your template this month, make it Sylenth1 — the 
 
 **TL;DR:** Sylenth1 EDM Workstation is available at ADSR Sounds for **$22.99**. ADSR has not listed a separate original price for this specific bundle, so treat the savings as bundle pricing rather than a percentage-off sale. [Grab the deal at ADSR Sounds](https://www.adsrsounds.com/product/sylenth/sylenth1-edm-workstation/?a_aid=plugindrop&data1=sylenth1-edm-workstation-014b95&utm_source=plugindrop&utm_medium=article&utm_campaign=sylenth1-edm-workstation-014b95) while the offer is live.
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $22.99; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 <div class="audio-embed">
 <audio controls style="width:100%">
   <source src="https://adsrsounds.com/mp3/282988-304663356.mp3">

@@ -19,7 +19,6 @@ If you only install one, make it EMT 140 Classic Plate Reverberator if you speci
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $149
-- Verdict: **NO HISTORY** — The current deal is $79; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/r9ICoJL5jA4" title="47% Off EMT 140 — Classic Plate Reverb ($79) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

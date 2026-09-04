@@ -16,9 +16,6 @@ saleExpirySource: "fallback"
 
 **TL;DR:** If you install one plugin from this list, make it **Vital** — a free wavetable synth that holds its own against Serum for sound design, bass, and pads. From there, this guide covers 15 genuinely free VST plugins across synths, effects, mixing, and instruments, organized by category so you can grab exactly what your setup is missing. Every pick is free for real — either permanently free, a free tier of a paid product, or a free starter bundle. No trials, no watermarks on the core features, no hidden costs. Formats, supported operating systems, and honest limitations are listed for each so you know what you're getting before you download.
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## Synths
 
 Start here if you make electronic, pop, hip-hop, or cinematic music. These four cover wavetable, FM, and subtractive synthesis — the three engines behind most modern sounds.

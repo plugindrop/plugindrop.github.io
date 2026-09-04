@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** gFractor is a free VST spectrum analyzer from Growl Audio — and it may be the first multifunctional spectrum analyzer to support a true linear frequency scale. No cost, no catch. [Grab it free at Growl Audio.](https://growl-audio.com/plugins/gfractor.html)
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is gFractor?
 
 gFractor is a spectrum analyzer plugin developed by Growl Audio, available as a free download directly from the developer. What sets it apart from the crowd is a feature that sounds simple but has been surprisingly absent from the market: a **linear frequency scale** display mode. According to community discussion, it may be the first multifunctional VST spectrum analyzer to offer this alongside standard logarithmic display. The linear frequency scale was added by the developer in response to direct user feedback — a sign of an actively maintained, community-driven tool.

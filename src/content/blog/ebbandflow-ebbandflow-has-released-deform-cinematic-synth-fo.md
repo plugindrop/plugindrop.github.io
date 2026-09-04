@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** deFORM by Ebbandflow is free to download right now — no coupon, no subscription, no catch. This cinematic synthesizer is built for atmospheric and filmic sound design, and the free window could close at any time. Grab it directly from [Ebbandflow's site](https://ebbandflow.audio/products/deform) before the deal disappears.
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is deFORM?
 
 deFORM is a cinematic synthesizer developed by Ebbandflow, a plugin developer focused on expressive, film-score-ready sound design tools. The plugin is available for both Mac and Windows, and it's purpose-built for the kind of deep, evolving, textural sounds that work in trailers, scoring sessions, and atmospheric electronic production. For a limited time — with no stated expiry — Ebbandflow is offering deFORM as a completely free download through their direct store. That's a full plugin, at no cost.

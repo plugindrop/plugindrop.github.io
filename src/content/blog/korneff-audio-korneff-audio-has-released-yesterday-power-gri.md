@@ -16,9 +16,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Korneff Audio's Power Grid Disruptor — a glitch, distortion, and impact FX plugin — is **free right now** (limited time). No coupon needed, just grab it from [the product page](https://korneffaudio.com/product/power-grid-disruptor/). Mac, Windows, and Linux supported. Expiry unknown, so don't sit on this one.
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is Power Grid Disruptor?
 
 Power Grid Disruptor is a creative destruction plugin from Korneff Audio designed to add glitch effects, distortion, and cinematic impact samples to your productions. It combines multiple damage-style effects — drive, bitcrushing, decimation, and noise — with a library of 40+ impact samples and a built-in glitch engine. The plugin syncs to your DAW's tempo and runs on Mac, Windows, and Linux in VST3, AU, AAX, and LV2 formats.

@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** ADSR Sounds is marking its 16th birthday with sitewide discounts of up to 89% off plugins and sound pack bundles. One of the headline deals is the ADSR Drum Machine at $49 — [check the current pricing and grab it here](https://www.adsrsounds.com/product/software/adsr-drum-machine/?a_aid=plugindrop&data1=adsr-sounds-sweet-16-save-up-to-89-on-plugins-bundles-ed6487&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-sweet-16-save-up-to-89-on-plugins-bundles-ed6487). The sale spans plugins and bundles across the ADSR catalog, so it's worth browsing beyond the single product too.
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $49; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 <div class="audio-embed">
 <audio controls style="width:100%">
   <source src="https://www.adsrsounds.com/wp-content/themes/adsr/audio/Acoustic.mp3">

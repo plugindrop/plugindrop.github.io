@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** The Torso Electronics S-4 firmware 2.2 is now in beta — and the update is completely **free** for existing owners. A new real-time "freeze time" feature is the headline addition. [Check out the S-4 on Thomann](https://www.thomann.de/intl/prod_AR_600391.html?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=torso-electronics-s-4-update-lets-you-freeze-time-b4ced3) and grab the update.
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is the Torso Electronics S-4?
 
 The S-4 is a polyphonic hardware synthesizer from Torso Electronics, the Danish company known for building instruments that reward deep exploration. It combines synthesis with an algorithmic, sequencer-driven approach — aimed squarely at producers and performers who want to move beyond static patch recall. Torso Electronics has built a reputation for supporting their hardware post-launch with meaningful firmware updates, and version 2.2 continues that tradition.

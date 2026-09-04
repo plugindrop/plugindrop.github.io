@@ -13,9 +13,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Unison Audio's Mainstage Collection for Serum bundles 10 preset packs that normally sell as a ~~$199~~ set down to **$47**, a savings of roughly $152 (about 76% off). That works out to under $5 per pack instead of nearly $20 each. [Get the Mainstage Collection for Serum here](https://unison.audio/ref/jc374/product/unison-mainstage-collection-for-serum/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-mainstage-collection-for-serum-67be12).
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $47; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 <div class="audio-embed">
 <audio controls style="width:100%">
   <source src="https://unisonsoundbanks.s3.us-west-1.amazonaws.com/Demos/Unison+Mainstage+Collection+Demo.mp3">

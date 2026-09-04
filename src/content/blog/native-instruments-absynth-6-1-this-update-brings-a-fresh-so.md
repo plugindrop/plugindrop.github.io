@@ -13,9 +13,6 @@ draft: true
 ---
 **TL;DR:** Native Instruments Absynth 6.1 is now available at Thomann, bringing updated sound design capabilities to one of NI's most distinctive synthesizers. Check current pricing — use ~~strikethrough~~ pricing only when confirmed — and grab it via [Thomann here](https://www.thomann.de/intl/native_instruments_absynth_6.htm?offid=1&affid=5792&utm_source=affiliate-bot&utm_medium=article&utm_campaign=native-instruments-absynth-6-1-this-update-brings-a-fresh-so).
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $163.87; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ---
 
 <div class="video-embed">

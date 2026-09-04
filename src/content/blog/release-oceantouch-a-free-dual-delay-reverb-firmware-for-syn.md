@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** OceanTouch is a completely free custom firmware that transforms the Synthux Touch 2 (Daisy Seed) into a standalone hardware dual-delay and reverb workstation. No cost. No catch. Just download, flash, and go. [Get OceanTouch here →](https://www.youtube.com/watch)
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is OceanTouch? Free Dual-Delay & Reverb Firmware for Daisy Seed
 
 OceanTouch is a custom firmware built for the Synthux Touch 2, a touch-sensitive hardware platform powered by the Electro-Smith Daisy Seed DSP module. Developed and released independently by a community developer, it completely replaces the stock Touch 2 software and converts the hardware into a dedicated dual-delay and reverb effects processor. The firmware was shared via the synthesizer community and is available at zero cost.

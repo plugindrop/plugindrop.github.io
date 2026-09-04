@@ -15,9 +15,6 @@ saleExpirySource: "fallback"
 
 **TL;DR:** Amorph by Artists in DSP just leveled up — Beta v0.9.9 brings a custom UI engine, a brand-new MIDI plugin variant, and a cloud-based preset hub. The best part? It's still completely free (pay-what-you-like). [Grab it here.](https://artistsindsp.gumroad.com/l/amorph)
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is Amorph?
 
 Amorph is a text-to-DSP plugin from **Artists in DSP** that lets you generate fully working audio instruments and effects inside your DAW using text prompts and the Cmajor programming language. The workflow is simple: ask an LLM (like ChatGPT or Gemini) to write DSP code based on your idea, paste it into Amorph, and it compiles into a playable plugin with a generated interface. It ships as two separate plugins — **Amorph Instrument** (synths, drones, noise generators) and **Amorph Effect** (reverbs, delays, distortion, filters) — in VST3 and AU formats for Windows and macOS.

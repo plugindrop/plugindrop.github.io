@@ -15,9 +15,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** ProjectSAM is giving away Lineage Percussion — a full percussion library for Kontakt Player — completely free. No expiry date listed, but free full libraries don't stay free forever. [Grab it here before it changes.](https://projectsam.com/libraries/lineage-percussion-free)
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## Free Full Percussion Library: ProjectSAM Lineage Percussion
 
 ## What Is Lineage Percussion?

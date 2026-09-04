@@ -15,9 +15,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Goodhertz is giving away LA-210 — a compressor/clipper plugin — completely free while it's in beta. No expiry date announced. Grab it at [goodhertz.com/la-210](https://goodhertz.com/la-210/) before the beta window closes.
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## Goodhertz LA-210: Free Compressor/Clipper Plugin for Mac & Windows
 
 Free. From Goodhertz. That's the headline. This is worth stopping for.

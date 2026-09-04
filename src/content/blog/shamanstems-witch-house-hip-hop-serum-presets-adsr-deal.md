@@ -17,7 +17,6 @@ draft: true
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $179.77
-- Verdict: **NO HISTORY** — The current deal is $19.95; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 

@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Splice is dropping a free Introspective Electric Piano preset for Splice INSTRUMENT — grab it during the drop window and it's yours to keep permanently, no strings attached. This is a zero-cost add to your library. [Claim the free preset here.](https://splice.com/sounds/create?utm_source=plugindrop&utm_medium=article&utm_campaign=get-a-free-introspective-electric-piano-for-splice-instrumen)
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## Free Electric Piano Preset from Splice: What You Need to Know
 
 Free. Forever. That's the deal. Splice is offering a limited-window drop for the Introspective Electric Piano — a preset designed for Splice INSTRUMENT. Miss the window and it's gone. Grab it now and it stays in your library indefinitely.

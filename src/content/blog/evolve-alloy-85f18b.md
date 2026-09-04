@@ -17,7 +17,6 @@ saleExpirySource: "fallback"
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $59
-- Verdict: **NO HISTORY** — The current deal is $39; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="34% Off Evolve Alloy — Evolving Synth Patches for Kontakt ($39) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/2058711687%3Fsecret_token%3Ds-A0sH3p2kyG5&color=%23a85155&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>

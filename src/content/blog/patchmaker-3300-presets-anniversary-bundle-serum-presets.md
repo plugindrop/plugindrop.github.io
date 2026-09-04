@@ -16,9 +16,6 @@ If you produce with Xfer Serum and want a deep preset library without paying per
 
 **TL;DR:** The Patchmaker 3300 Presets Anniversary Bundle drops from ~~$199~~ to **$25** at ADSR Sounds, giving you 3,300 Serum presets for well under a cent each. That's roughly an 87% discount on one of the larger Serum preset collections currently listed at the store. [Grab the bundle at ADSR Sounds](https://www.adsrsounds.com/product/presets/patchmaker-3300-presets-anniversary-bundle-serum-presets/?a_aid=plugindrop&data1=patchmaker-3300-presets-anniversary-bundle-serum-presets&utm_source=plugindrop&utm_medium=article&utm_campaign=patchmaker-3300-presets-anniversary-bundle-serum-presets).
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $25; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 <div class="audio-embed">
 <audio controls style="width:100%">
   <source src="https://adsrsounds.com/mp3/844355-655345034.mp3">

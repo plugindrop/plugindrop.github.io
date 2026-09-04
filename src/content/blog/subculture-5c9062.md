@@ -20,7 +20,6 @@ If you only install one, make it SubCulture if you need an audio-enhancement plu
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $129
-- Verdict: **NO HISTORY** — The current deal is $79; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/nFFESpv3IoM" title="39% Off SubCulture — Audio Enhancement for Producers ($79) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

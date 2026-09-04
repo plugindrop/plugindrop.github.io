@@ -16,9 +16,6 @@ saleExpirySource: "fallback"
 
 **TL;DR:** Urban Kits just dropped **Plural**, a pitch-shifting sequencer plugin — and it's completely **FREE**. No sale price, no coupon code. Just grab it. Available for macOS and Windows in AU and VST2 formats. [Get Plural free on Bedroom Producers Blog](https://urbankits.gumroad.com/l/plural) before this one disappears into your "I should've grabbed that" list.
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is Plural?
 
 Plural is a free pitch-shifting sequencer plugin from **Urban Kits**, a developer focused on building tools for bedroom producers and beatmakers. It lets you run audio through a step sequencer that shifts pitch up or down by an octave per step — creating rhythmic, tonal movement from any loop or sound source. Think of it as an instant way to inject motion and texture into static audio. Urban Kits previously released Bedroom Guitar (a free sampled nylon guitar plugin) in October 2025, and Plural continues their streak of putting genuinely useful tools out at no cost.

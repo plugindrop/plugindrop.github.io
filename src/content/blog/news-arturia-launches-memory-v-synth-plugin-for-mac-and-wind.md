@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Arturia has launched Memory V, a software recreation of the legendary 1982 Memorymoog, available now for just **$15** at launch. That's an entry price that makes one of the most iconic polyphonic synths ever made accessible to any producer. [Grab it here before the launch price changes.](https://www.pluginboutique.com/search?q=overview&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-arturia-launches-memory-v-synth-plugin-for-mac-and-wind&chan=art&data1=news-arturia-launches-memory-v-synth-plugin-for-mac-and-wind)
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $15; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ---
 
 ## What Is Arturia Memory V?

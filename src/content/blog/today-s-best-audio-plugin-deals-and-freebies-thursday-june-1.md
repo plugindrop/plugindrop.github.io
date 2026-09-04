@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** W.A. Production's Vocal Splitter is completely free right now — use code **GETWAVS** at checkout and pay nothing. Expiry is unknown, so don't sleep on it. [Grab Vocal Splitter for $0 here.](https://www.waproduction.com/plugins/view/vocal-splitter)
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## Free Vocal Splitter Plugin from W.A. Production — Plus More Freebies
 
 Thursday, June 18th dropped a surprisingly solid batch of freebies. Lead pick: a stem separation plugin, gratis. Here's everything worth your attention today.

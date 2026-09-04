@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Growl Audio is giving away gFractor, a spectrum analyzer plugin, completely free — no expiry, no catch. Verify current pricing on the product page. Grab it now at [growl-audio.com](https://growl-audio.com/plugins/gfractor.html).
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is gFractor by Growl Audio?
 
 gFractor is a spectrum analyzer plugin developed by Growl Audio, designed to give producers and engineers a clear visual picture of their audio's frequency content. Spectrum analyzers are essential mixing tools — they let you see what you can't always hear, helping you make informed EQ decisions, identify problematic frequencies, and ensure your mixes translate across playback systems. Growl Audio is making gFractor available at no cost, with no stated expiry on the free offer.

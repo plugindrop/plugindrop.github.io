@@ -18,7 +18,6 @@ saleExpiry: "2026-07-10"
 ## Price Context (tracked by PluginDrop)
 - Tracked since 2026-07-10 (1 observations)
 - Regular: $0
-- Verdict: **NO HISTORY** — The current deal is $8.39; we have only 1 tracked price observation, so there is not enough history for a buy-or-wait claim.
 - Sale pattern: Basic tier is fully free with the complete synth engine (all features), ~75 presets/25 wavetables. Paid Plus (~$25) and Pro (~$80) tiers only add more bundled presets/wavetables/content — same engine, not a 'sale'. Sold direct from vital.audio only; no evidence of Plugin Boutique distribution or recurring discount sales.
 
 ---

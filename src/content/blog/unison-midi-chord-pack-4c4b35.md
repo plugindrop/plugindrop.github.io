@@ -15,9 +15,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Unison Audio's MIDI Chord Pack is currently available for **$67** — verify current pricing on the product page for full savings context. If you're building tracks around professional-grade chord progressions without the theory grind, [grab it directly at Unison Audio](https://unison.audio/ref/jc374/product/famous-mainstage-serum-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-chord-pack-4c4b35).
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $67; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ---
 
 <div class="audio-embed">

@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Pulsar Audio's Smasher bus compressor — normally ~~€49~~ — is currently free for a limited time. No expiry date has been announced, so this could end at any moment. [Claim it now at pulsar.audio/smasher-free](https://pulsar.audio/smasher-free/) before the window closes.
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is Pulsar Smasher?
 
 Pulsar Smasher is a bus compressor plugin from Pulsar Audio, a French developer known for precision analog modeling. It targets the classic "glue compressor" territory — the kind of processor you reach for on the stereo bus, drum bus, or any group channel that needs cohesion. Pulsar Audio has built a reputation for detailed hardware emulation at competitive price points, and Smasher sits in their mixing toolkit alongside their other dynamics and saturation tools.

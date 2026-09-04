@@ -18,7 +18,6 @@ saleExpirySource: "fallback"
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $149
-- Verdict: **NO HISTORY** — The current deal is $99; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/kFpoTVweL58" title="UAD Mix Tape Pro Bundle | Top 10 Picks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>

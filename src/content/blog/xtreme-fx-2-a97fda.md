@@ -19,7 +19,6 @@ If you only pick up one FX plugin this week, Xtreme FX 2 is worth a look for the
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $149
-- Verdict: **NO HISTORY** — The current deal is $59; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="60% Off Xtreme FX 2 — Creative Sound Design Effects ($59) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1800556581&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>

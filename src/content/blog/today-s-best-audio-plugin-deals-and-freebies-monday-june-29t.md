@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Fine Classics Saturator is currently available at absolutely no cost — a free saturation plugin with no coupon required, directly from the developer. No expiry date has been announced, which means this could disappear anytime. [Download Fine Classics Saturator free here.](https://fineclassicsplugins.com/products/fine-classics-saturator)
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is Fine Classics Saturator?
 
 Fine Classics Saturator is a saturation plugin from Fine Classics Plugins, available for both Mac and Windows. Saturation is one of the most universally useful tools in a producer's chain — it adds harmonic content, analog warmth, and musical grit that purely digital signals often lack. It works on everything: drums, synths, vocals, bass, and the mix bus itself. The fact that this one is currently free puts it firmly in the "grab it now, decide later" category.

@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Expert Sleepers has unveiled two new Eurorack modules — the NTX-8CV audio/MIDI interface and Forever audio freezer — announced at Superbooth. Pricing details are not yet confirmed, so verify current availability at [Thomann](https://www.thomann.de/intl/expert_sleepers.html?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=expert-sleepers-ntx-8cv-and-forever-audio-midi-interface-and) before they sell out.
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## Expert Sleepers NTX-8CV and Forever: Two New Eurorack Modules Debut at Superbooth
 
 Expert Sleepers has announced a pair of new Eurorack modules at Superbooth: the NTX-8CV, a versatile audio and MIDI interface, and Forever, an audio freezer module derived from the disting NT's Freeze algorithm. If you're deep in the Eurorack world, Expert Sleepers needs no introduction — the UK-based company has been building essential utility modules for modular synthesis for years.

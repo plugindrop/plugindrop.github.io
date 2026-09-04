@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Afrojack's WALL Pro Academy is a 94-video production masterclass series available completely free on YouTube. It covers professional-level EDM and electronic music production techniques directly from a Grammy-winning artist. [→ Get WALL Pro Academy at Direct](https://youtube.com/playlist)
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is WALL Pro Academy by Afrojack?
 
 WALL Pro Academy is a YouTube-based video series created by Dutch DJ and producer Afrojack, released under his own channel. The series spans 94 videos covering music production topics aimed at aspiring and intermediate electronic music producers. It sits in a category — structured, artist-led production education — that typically commands significant subscription fees on dedicated platforms.

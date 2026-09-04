@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** S-1 Utility is a completely free, open-source desktop editor built specifically for the Roland S-1 synthesizer. Zero cost. No activation. No catch. [Grab it here](https://www.youtube.com/watch) while the community momentum is strong.
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is S-1 Utility?
 
 S-1 Utility is a free, open-source desktop companion app for the Roland S-1 synthesizer, developed and publicly released by a community member. The Roland S-1 is notoriously limited in its MIDI CC capabilities and accepts no SysEx messages — which makes third-party editor support genuinely rare. S-1 Utility tackles that gap directly, offering a MIDI editor interface alongside a dedicated viewer for the S-1's native PRM patch backup files. Currently Windows-only, with Linux and macOS support listed as future goals.

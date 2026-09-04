@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Bogren Digital just dropped IRDX Studio — a fully free IR loader plugin for Mac and Windows. No time limit, no catch. Grab it directly at [bogrendigital.com](https://bogrendigital.com/products/irdx-studio) while it's available.
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is Bogren Digital IRDX Studio?
 
 Bogren Digital — the Swedish developer behind some of the most dialed-in amp sim and tone-shaping tools in the metal and rock production space — has released IRDX Studio as a free impulse response loader plugin. IR loaders let producers and guitarists load cabinet impulse response files to simulate the sound of a real speaker cabinet recorded in a real space. IRDX Studio is designed to bring that workflow into your DAW on both Mac and Windows, at zero cost.

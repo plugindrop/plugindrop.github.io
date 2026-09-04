@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Patchmaker's Synthwave Horizons preset bank for Arturia Pigments is available at ADSR Sounds for $18.50. The original list price isn't confirmed here, so [check the product page for current pricing](https://www.adsrsounds.com/product/presets/patchmaker-synthwave-horizons-for-arturia-pigments-presets/?a_aid=plugindrop&data1=patchmaker-synthwave-horizons-for-arturia-pigments-presets&utm_source=plugindrop&utm_medium=article&utm_campaign=patchmaker-synthwave-horizons-for-arturia-pigments-presets) before you buy. If you run Pigments and want retro synth tones without programming them from scratch, this is a low-cost way to get there.
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $18.5; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 <div class="audio-embed">
 <audio controls style="width:100%">
   <source src="https://adsrsounds.com/mp3/2200179-1867798158.mp3">

@@ -11,8 +11,6 @@ score: 1.68
 saleExpiry: "2026-04-19"
 saleExpirySource: "fallback"
 ---
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ## What Is Spitfire Audio LABS?
 

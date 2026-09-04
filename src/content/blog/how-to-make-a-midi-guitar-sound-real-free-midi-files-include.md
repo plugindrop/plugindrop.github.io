@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Splice is giving away free MIDI guitar files alongside a practical guide on making programmed guitar sound convincingly real — no cost, no catch. Grab the files and techniques now at [Splice](https://splice.com/sounds/create?utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-make-a-midi-guitar-sound-real-free-midi-files-include). Free means free — there's no reason to skip this one.
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is Splice's Free MIDI Guitar Resource?
 
 Splice — the sample subscription platform used by millions of producers — has published a practical technique guide on realistic MIDI guitar programming, bundled with downloadable MIDI files you can drop straight into your DAW. The resource covers chord structures, strumming patterns, and melodic lines designed to help programmed guitar pass as the real thing. It targets a persistent pain point in modern production: MIDI guitar that sounds mechanical, stiff, and obviously fake.

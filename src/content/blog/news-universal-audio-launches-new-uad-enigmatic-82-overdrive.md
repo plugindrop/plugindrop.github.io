@@ -15,7 +15,6 @@ saleExpiry: "2026-08-25"
 
 ## Price Context (tracked by PluginDrop)
 - Tracked since 2026-08-25 (2 observations)
-- Verdict: **NO HISTORY** — The current deal is $49; we have only 2 tracked price observations, so there is not enough history for a buy-or-wait claim.
 - Sale pattern: Auto-discovered 2026-08-25
 
 ---

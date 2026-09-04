@@ -15,9 +15,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Yamaha never published the .Y2L/.Y2U performance format spec — so the community did it for them. This free, open-source project documents every user-editable parameter across all four MODX M synthesis engines, verified against real hardware. [Get the docs and browser tools free on GitHub.](https://github.com/YSFCforge/ysfc-forge)
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is YSFC Forge?
 
 YSFC Forge is a community-led open-source project that reverse-engineered Yamaha's undocumented .Y2L and .Y2U performance file format used in the MODX M synthesizer. It was built the hard way: binary-diffing real hardware exports one parameter at a time, across thousands of test files. The result is a fully verified format spec covering every known user-editable parameter across all four synthesis engines — AWM2, AN-X, FM-X, and Drum — plus free browser-based tools for working with the files directly.

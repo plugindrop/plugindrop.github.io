@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** The FAT Freebass FB383 walkthrough — tutorial, review, and sound demos — is free to watch right now, and it's a solid way to hear whether this budget analogue synth actually nails that classic Roland TB-303 acid bass tone before you spend a cent on the hardware. Deal Price: **FREE** (the video). Verify current pricing on the product page for the synth itself. [Watch the FB383 tutorial and demo here](https://youtu.be/kLFkmOaVM54).
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is the FAT Freebass FB383?
 
 The FAT Freebass FB383 is an affordable analogue synthesizer built to deliver TB-303-style acid bass tones without the cost of an original Roland unit or some premium boutique clones. It's aimed squarely at producers who want that squelchy, resonant acid sound for house, techno, and electro tracks. The free tutorial and review video linked above walks through the unit's controls and includes sound demos so you can hear the tone in context before deciding whether it fits your setup.

@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Accentize just dropped dxLevel — a loudness leveling plugin for Mac and Windows — completely free. No trial limits, no expiry announced. Grab it now before that changes. [Download dxLevel Free →](https://www.accentize.com/product/dxlevel/)
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is Accentize dxLevel?
 
 dxLevel is a loudness leveling plugin from Accentize, a developer with a track record of AI-powered audio processing tools. It targets automatic loudness control — keeping levels consistent across a session without constant manual gain riding. Available for both Mac and Windows, it plugs directly into standard DAW workflows. For a tool this focused and this free, it's worth paying attention to.

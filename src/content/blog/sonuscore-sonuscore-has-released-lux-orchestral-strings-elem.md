@@ -12,9 +12,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Sonuscore is giving away LUX Orchestral Strings Elements — a professional-grade Kontakt Player library — completely free. No coupon needed, no expiry announced. Grab it directly from [Sonuscore's shop](https://www.sonuscore.com/shop/lux-orchestral-strings-elements/) while it's live.
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## Free Kontakt Strings: What Is LUX Orchestral Strings Elements?
 
 Sonuscore is a German developer known for high-production orchestral and cinematic instruments. LUX Orchestral Strings Elements is a free entry point into their LUX Orchestral Strings lineup — built for the free Kontakt Player, meaning no full Kontakt license required.

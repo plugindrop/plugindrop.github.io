@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Audio Assault is giving away Amp Locker 98 — a 6-amp-model guitar plugin — completely **free** for 48 hours only. That's ~~$0 reason to hesitate~~ zero dollars. Grab it before the window closes at [Audio Assault](https://audioassault.mx/amplocker98).
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is Amp Locker 98?
 
 Amp Locker 98 is a free guitar amplifier effect plugin from Audio Assault, a developer known for their full Amp Locker suite featuring 90+ amp sims, pedals, and effects. This standalone freebie packs 6 modeled guitar amplifiers into a deliberately retro, late-'90s-era interface. Don't let the nostalgic look fool you — it runs on modern systems and uses current DSP under the hood. It's available in VST3, AU, and AAX formats across Windows, macOS, and Linux.

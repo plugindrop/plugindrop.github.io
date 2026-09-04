@@ -16,9 +16,6 @@ saleExpirySource: "fallback"
 
 **TL;DR:** Two solid freebies are live today: Canvas Audio's **Double Dare**, a free vocal doubler plugin for Mac and Windows with no expiry date, and Plugin Boutique's rotating **Send/Return** series, which drops a new free plugin every two weeks alongside tutorials. Grab Double Dare now — [download it free here](https://www.canvasaudio.net/plugins/double-dare) — since freebies like this can be pulled or turned into paid releases without much notice.
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is Double Dare?
 
 Double Dare is a free vocal doubler plugin from Canvas Audio, built for Mac and Windows. It's designed to add stereo width and thickness to vocals without manually recording or comping doubled takes. Canvas Audio lists it as free with no listed expiry date, meaning there's no countdown clock forcing a decision.

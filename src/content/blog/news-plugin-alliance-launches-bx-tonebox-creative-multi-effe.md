@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Plugin Alliance has just launched **bx_tonebox**, a new creative multi-effect plugin from the brainworx team. Whether you're after a launch intro price or just want to be first in line, now is the time to check it out. [Grab bx_tonebox at Plugin Alliance](https://www.plugin-alliance.com/products/bx_tonebox) and verify current pricing on the product page.
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $39.99; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ---
 
 ## What Is bx_tonebox?

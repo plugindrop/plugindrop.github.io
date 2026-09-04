@@ -18,9 +18,6 @@ I've written the article to `/tmp/crb-uranus-synth-journal-article.md` (~830 wor
 
 **TL;DR:** This week's Synth Journal roundup from Gearnews spotlights a **free emulation of the ultra-rare CRB Uranus synthesizer** — a $0 download, no catch. The same roundup covers a fresh update for the [4ms MetaModule](https://www.thomann.de/intl/4ms_meta_module.htm?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=free-emulation-of-the-ultra-rare-crb-uranus-more-synth-journ) and a new third-party editor for the Sequential Prophet-6. If you've been eyeing the MetaModule itself, Thomann carries it — check current stock and pricing via the link above.
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is This Week's Synth Journal?
 
 Synth Journal is a recurring news roundup from Gearnews that tracks notable happenings in the synth and Eurorack world — new releases, firmware updates, emulations, and community tools. This edition centers on three items: a free software emulation of the CRB Uranus, a genuinely obscure hardware synth that most producers will never get hands-on with in the original; an update tied to the 4ms MetaModule Eurorack platform; and a newly released editor built for the Prophet-6.

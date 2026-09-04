@@ -18,7 +18,6 @@ saleExpirySource: "fallback"
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $24.99
-- Verdict: **NO HISTORY** — The current deal is $14.99; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 ---
 

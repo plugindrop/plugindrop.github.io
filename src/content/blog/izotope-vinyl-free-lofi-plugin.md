@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 
 **TL;DR:** iZotope Vinyl — **free, permanently.** Lo-fi vinyl simulation from iZotope, the company behind Ozone, RX, and Neutron ($49–$499). Dust, scratch, warp, electrical noise, and a year selector dial. One of the oldest and most downloaded free plugins in existence. [Get it here](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/7091-Vinyl?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-vinyl-free-lofi-plugin&chan=art&data1=izotope-vinyl-free-lofi-plugin).
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is iZotope Vinyl?
 
 iZotope Vinyl is a free lo-fi effect plugin that simulates the sound of vinyl records. Originally released in 2001, it's one of the longest-running free plugins in the industry. iZotope is known for professional mastering (Ozone), audio repair (RX), and mixing tools (Neutron). Vinyl gives you their signal processing quality in a focused lo-fi tool at no cost.

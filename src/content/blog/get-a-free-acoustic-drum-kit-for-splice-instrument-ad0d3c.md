@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Splice is giving away a free acoustic drum kit preset for its INSTRUMENT plugin — no strings attached, and it's yours to keep forever once you grab it. This is a limited-time drop, so download it before the window closes. [Get the free preset here](https://splice.com/sounds/create?utm_source=plugindrop&utm_medium=article&utm_campaign=get-a-free-acoustic-drum-kit-for-splice-instrument-ad0d3c).
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is Splice INSTRUMENT?
 
 Splice INSTRUMENT is a plugin from Splice, the sample and sound library platform widely used by producers for cloud-based sound management and royalty-free samples. INSTRUMENT lets users load and play sample-based presets directly inside their DAW, pulling from Splice's growing catalog of sound packs. This free acoustic drum kit preset is one of those loadable packs, built specifically for use inside the INSTRUMENT plugin. Check the product page for full details on plugin requirements and installation.

@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** The Crow Hill Company just dropped Orchestral Bass Slide as a completely free download — no strings attached, no trial limit. It's part of their Vaults series and runs on both Windows and Mac. [Grab it here before it's gone.](https://thecrowhillcompany.com/orchestral-bass-slides/)
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is Orchestral Bass Slide?
 
 Orchestral Bass Slide is a free virtual instrument plugin from The Crow Hill Company, released as part of their Vaults series — a growing collection of no-cost instruments designed to give producers access to specialist orchestral sounds without opening their wallets. This particular instrument focuses on bass slide articulations: one of the most expressive and sought-after textures in orchestral and cinematic production, and one that's historically hard to source for free. It's available for both Windows and Mac.

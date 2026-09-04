@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Minimal Audio is giving away Hybrid Filter at no cost — a multimode filter plugin now free to claim directly from the developer. No original price to strike through since the field was not provided, but the deal is straightforward: free. [→ Get Hybrid Filter at Minimal Audio](https://www.minimal.audio/products/hybrid-filter)
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is Minimal Audio Hybrid Filter?
 
 Minimal Audio is a plugin developer known for pushing modern sound design tools beyond conventional boundaries. Hybrid Filter is their standalone filter plugin, designed to bring expressive, tonally flexible filtering to any DAW-based production workflow. The "hybrid" concept suggests the plugin combines or blends filter topologies — giving producers access to multiple filter characters from a single interface. Minimal Audio's design aesthetic consistently prioritizes usability alongside sonic depth.

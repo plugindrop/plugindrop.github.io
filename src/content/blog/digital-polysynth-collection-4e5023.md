@@ -18,7 +18,6 @@ saleExpirySource: "fallback"
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $499
-- Verdict: **NO HISTORY** — The current deal is $199; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="60% Off Digital Polysynth Collection — Roland Synths ($199) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1144955293&color=ff5a00"></iframe>

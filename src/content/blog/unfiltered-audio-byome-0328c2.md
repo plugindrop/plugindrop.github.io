@@ -17,7 +17,6 @@ saleExpirySource: "fallback"
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $128
-- Verdict: **NO HISTORY** — The current deal is $40; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="69% Off Unfiltered Audio BYOME — Modular Effects ($40) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/616186347&color=%2300bfff&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>

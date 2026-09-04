@@ -12,9 +12,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** SoundMorph's DRO1D is a fully free online synthesizer — no download, no account, no catch. ~~Paid~~ → **$0**. Grab it directly at [soundmorph.com](https://soundmorph.com/pages/dr01d-online-synthesizer).
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is DRO1D? SoundMorph's Free Online Synthesizer
 
 Free. Browser-based. No install required. SoundMorph — the studio behind genre-defining sci-fi and sound-design tools — has launched **DRO1D**, a synthesizer that runs entirely in your web browser. No download, no license activation, no iLok. Just open and play.

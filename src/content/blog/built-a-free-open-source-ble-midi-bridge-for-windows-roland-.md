@@ -14,9 +14,6 @@ saleExpirySource: "fallback"
 ---
 **TL;DR:** Perfect Bluetooth MIDI for Windows is a free, open-source BLE-MIDI bridge that routes Bluetooth MIDI devices into a standard DAW-visible port on Windows — solving encryption, protocol, and channel-mapping issues that existing tools miss. No cost, no subscription, no catch. [→ Get Perfect Bluetooth MIDI for Windows at Direct](https://mayerwin.github.io/Perfect-Bluetooth-MIDI-For-Windows/)
 
-## Price Context (tracked by PluginDrop)
-- Verdict: **NO HISTORY** — The current deal is $0; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
-
 ## What Is Perfect Bluetooth MIDI for Windows?
 
 Perfect Bluetooth MIDI for Windows is a free, open-source utility that bridges BLE-MIDI devices into a standard virtual MIDI port on Windows. It was built to address a well-documented gap: Bluetooth MIDI instruments that successfully pair to Windows but remain completely invisible to DAWs. The project handles several specific protocol-level edge cases that generic Bluetooth MIDI solutions ignore entirely.

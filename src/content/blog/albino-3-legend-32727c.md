@@ -19,7 +19,6 @@ If you're building out a synth collection on a budget, Albino 3 Legend is worth 
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $99
-- Verdict: **NO HISTORY** — The current deal is $69; we have only 0 tracked price observations, so there is not enough history for a buy-or-wait claim.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ZaVohYW9Q7E" title="30% Off Albino 3 Legend — Classic Synth for Pads & Leads ($69) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
