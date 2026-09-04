@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03",
+  "generated_at": "2026-09-04",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": true,
-      "generated_at": "2026-09-03",
-      "observations": 267,
-      "products_tracked": 220,
-      "products_on_sale": 102,
-      "on_sale_pct": 46.4,
-      "avg_discount_pct": 58.4,
-      "median_discount_pct": 51.0,
+      "generated_at": "2026-09-04",
+      "observations": 390,
+      "products_tracked": 310,
+      "products_on_sale": 141,
+      "on_sale_pct": 45.5,
+      "avg_discount_pct": 59.0,
+      "median_discount_pct": 54,
       "discount_buckets": {
-        "1-19": 4,
-        "20-39": 13,
-        "40-59": 38,
-        "60+": 47
+        "1-19": 6,
+        "20-39": 19,
+        "40-59": 46,
+        "60+": 70
       },
-      "all_time_low_hits": 80,
+      "all_time_low_hits": 114,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -276,41 +276,55 @@
           "date": "2026-09-01"
         },
         {
-          "name": "UAD Helios Type 69 Preamp and EQ Collection",
-          "slug": "uad-helios-type-69-preamp-and-eq-collection",
+          "name": "UAD Dream 65 Reverb Amp",
+          "slug": "uad-dream-65-reverb-amp",
           "sale": 29.0,
           "all_time_low": 29.0,
-          "date": "2026-09-01"
+          "date": "2026-09-03"
         }
       ],
       "by_category": [
         {
           "category": "Other",
-          "tracked": 163,
-          "on_sale": 83,
-          "on_sale_pct": 50.9,
-          "avg_discount_pct": 61.5
+          "tracked": 222,
+          "on_sale": 110,
+          "on_sale_pct": 49.5,
+          "avg_discount_pct": 62.5
         },
         {
           "category": "Synth",
-          "tracked": 12,
+          "tracked": 19,
           "on_sale": 5,
-          "on_sale_pct": 41.7,
+          "on_sale_pct": 26.3,
           "avg_discount_pct": 38.6
         },
         {
-          "category": "Instrument",
-          "tracked": 10,
-          "on_sale": 0,
-          "on_sale_pct": 0.0,
-          "avg_discount_pct": 0.0
+          "category": "Effects",
+          "tracked": 11,
+          "on_sale": 4,
+          "on_sale_pct": 36.4,
+          "avg_discount_pct": 38.2
         },
         {
-          "category": "Effects",
-          "tracked": 9,
+          "category": "Instrument",
+          "tracked": 11,
+          "on_sale": 1,
+          "on_sale_pct": 9.1,
+          "avg_discount_pct": 25
+        },
+        {
+          "category": "Compressor",
+          "tracked": 8,
           "on_sale": 3,
-          "on_sale_pct": 33.3,
-          "avg_discount_pct": 34
+          "on_sale_pct": 37.5,
+          "avg_discount_pct": 66.3
+        },
+        {
+          "category": "EQ",
+          "tracked": 6,
+          "on_sale": 3,
+          "on_sale_pct": 50.0,
+          "avg_discount_pct": 56
         },
         {
           "category": "Saturation",
@@ -320,6 +334,20 @@
           "avg_discount_pct": 21
         },
         {
+          "category": "Reverb",
+          "tracked": 5,
+          "on_sale": 5,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 53.6
+        },
+        {
+          "category": "Vocal",
+          "tracked": 5,
+          "on_sale": 1,
+          "on_sale_pct": 20.0,
+          "avg_discount_pct": 13
+        },
+        {
           "category": "Bundle",
           "tracked": 4,
           "on_sale": 2,
@@ -327,25 +355,25 @@
           "avg_discount_pct": 87.5
         },
         {
-          "category": "Compressor",
+          "category": "Delay",
           "tracked": 3,
           "on_sale": 1,
           "on_sale_pct": 33.3,
-          "avg_discount_pct": 80
+          "avg_discount_pct": 12
         },
         {
-          "category": "Vocal",
+          "category": "Limiter",
+          "tracked": 3,
+          "on_sale": 2,
+          "on_sale_pct": 66.7,
+          "avg_discount_pct": 54.5
+        },
+        {
+          "category": "Utility",
           "tracked": 3,
           "on_sale": 0,
           "on_sale_pct": 0.0,
           "avg_discount_pct": 0.0
-        },
-        {
-          "category": "Delay",
-          "tracked": 2,
-          "on_sale": 1,
-          "on_sale_pct": 50.0,
-          "avg_discount_pct": 12
         },
         {
           "category": "Drums",
@@ -355,46 +383,25 @@
           "avg_discount_pct": 34
         },
         {
-          "category": "EQ",
-          "tracked": 2,
-          "on_sale": 2,
-          "on_sale_pct": 100.0,
-          "avg_discount_pct": 58.5
-        },
-        {
           "category": "Mastering",
           "tracked": 2,
           "on_sale": 1,
           "on_sale_pct": 50.0,
           "avg_discount_pct": 50
-        },
-        {
-          "category": "Reverb",
-          "tracked": 1,
-          "on_sale": 1,
-          "on_sale_pct": 100.0,
-          "avg_discount_pct": 51
-        },
-        {
-          "category": "Utility",
-          "tracked": 1,
-          "on_sale": 0,
-          "on_sale_pct": 0.0,
-          "avg_discount_pct": 0.0
         }
       ],
       "vs_previous_month": {
         "month": "2026-08",
-        "on_sale_pct_delta": -16.1,
-        "avg_discount_pct_delta": 5.6,
-        "products_tracked_delta": -239
+        "on_sale_pct_delta": -17.0,
+        "avg_discount_pct_delta": 6.2,
+        "products_tracked_delta": -149
       }
     },
     {
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-09-03",
+      "generated_at": "2026-09-04",
       "observations": 3720,
       "products_tracked": 459,
       "products_on_sale": 287,
@@ -407,7 +414,7 @@
         "40-59": 103,
         "60+": 100
       },
-      "all_time_low_hits": 240,
+      "all_time_low_hits": 242,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -785,7 +792,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-09-03",
+      "generated_at": "2026-09-04",
       "observations": 2052,
       "products_tracked": 302,
       "products_on_sale": 155,
@@ -798,7 +805,7 @@
         "40-59": 55,
         "60+": 67
       },
-      "all_time_low_hits": 124,
+      "all_time_low_hits": 123,
       "deepest_discounts": [
         {
           "name": "CARBON",
