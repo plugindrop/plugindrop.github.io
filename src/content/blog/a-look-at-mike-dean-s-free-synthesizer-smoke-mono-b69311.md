@@ -8,7 +8,7 @@ heroImage: "/images/a-look-at-mike-dean-s-free-synthesizer-smoke-mono-b69311.jpg
 score: 8.10
 dealPrice: "FREE"
 xText: "mike dean just dropped a free synth that sounds way more expensive than zero dollars. unison mode is the sleeper feature here. go grab it"
-draft: false
+draft: true
 saleExpiry: "2026-05-22"
 saleExpirySource: "fallback"
 ---

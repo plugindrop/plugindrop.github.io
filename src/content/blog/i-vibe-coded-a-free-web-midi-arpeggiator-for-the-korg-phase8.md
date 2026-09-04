@@ -7,7 +7,7 @@ affiliate: "https://johnusher.github.io/Arp8/"
 score: 10.00
 dealPrice: "FREE"
 xText: "free web-midi arp for your phase-8 dropped and it's genuinely a game-changer for sequencing. grab this immediately"
-draft: false
+draft: true
 heroImage: "/images/i-vibe-coded-a-free-web-midi-arpeggiator-for-the-korg-phase8_og.jpg"
 saleExpiry: "2026-05-31"
 saleExpirySource: "fallback"

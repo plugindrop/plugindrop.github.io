@@ -8,7 +8,7 @@ heroImage: "/images/bogren-digital-bogren-digital-has-released-irdx-studio-a-fre
 score: 9.00
 dealPrice: "FREE"
 xText: "need a free ir loader for amp sims or reverb convolution? bogren digital just dropped irdx studio. works on mac and windows. honestly just go get this right now, zero reasons to wait."
-draft: false
+draft: true
 saleExpiry: "2026-06-14"
 saleExpirySource: "fallback"
 ---

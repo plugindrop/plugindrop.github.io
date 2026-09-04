@@ -8,7 +8,7 @@ heroImage: "/images/ebbandflow-ebbandflow-has-released-deform-cinematic-synth-fo
 score: 9.90
 dealPrice: "FREE"
 xText: "deFORM is free right now. ebbandflow's cinematic synth doesn't usually come with zero attached. this won't last. genuinely grab this now."
-draft: false
+draft: true
 saleExpiry: "2026-06-07"
 saleExpirySource: "fallback"
 ---

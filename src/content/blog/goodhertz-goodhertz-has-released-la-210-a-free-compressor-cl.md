@@ -9,7 +9,7 @@ aiImage: true
 score: 9.72
 dealPrice: "FREE"
 xText: "free compressor that sounds like $200 paid software grab goodhertz's LA-210 before everyone figures it out"
-draft: false
+draft: true
 saleExpiry: "2026-06-09"
 saleExpirySource: "fallback"
 ---

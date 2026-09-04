@@ -8,7 +8,7 @@ heroImage: "/images/i-made-a-free-melodic-techno-ableton-project-th-en-mia-mendi
 score: 8.10
 dealPrice: "FREE"
 xText: "free th;en-style melodic techno ableton project just dropped with everything already structured. drums, bass, synth layers all mapped. literally just swap your sounds and make"
-draft: false
+draft: true
 saleExpiry: "2026-05-28"
 saleExpirySource: "fallback"
 ---

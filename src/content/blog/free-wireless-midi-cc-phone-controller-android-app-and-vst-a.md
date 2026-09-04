@@ -8,7 +8,7 @@ heroImage: "/images/free-wireless-midi-cc-phone-controller-android-app-and-vst-a
 score: 4.45
 dealPrice: "FREE"
 xText: "there's a free wireless phone midi controller sitting there. grab it before you close this tab."
-draft: false
+draft: true
 saleExpiry: "2026-07-19"
 saleExpirySource: "fallback"
 ---

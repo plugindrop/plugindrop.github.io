@@ -8,7 +8,7 @@ tags: ["free", "music-production"]
 affiliate: https://cotorroaudio.itch.io/p1eru
 heroImage: "/images/cotorro-audio-releases-free-p1e-resonance-unit-harmonic-exci.jpg"
 dealPrice: "FREE"
-draft: false
+draft: true
 score: 1.41
 saleExpiry: "2026-05-02"
 saleExpirySource: "fallback"

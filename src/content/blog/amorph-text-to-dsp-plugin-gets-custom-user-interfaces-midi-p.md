@@ -7,7 +7,7 @@ tags: ["effects", "instruments", "artificial intelligence", "free", "generator",
 affiliate: https://artistsindsp.gumroad.com/l/amorph
 heroImage: /images/amorph-text-to-dsp-plugin-gets-custom-user-interfaces-midi-p.jpg
 dealPrice: "FREE"
-draft: false
+draft: true
 score: 0.42
 saleExpiry: "2026-05-03"
 saleExpirySource: "fallback"

@@ -7,7 +7,7 @@ affiliate: "https://www.instagram.com/reel/DXwN0Z9I%5C_-e/"
 score: 9.36
 dealPrice: "FREE"
 xText: "aw noise maker just went free. this glitch synth is literally broken in the most useful way possible. go grab it now"
-draft: false
+draft: true
 heroImage: "/images/giveaway-aw-noise-maker-the-glitched-noise-synth-for-free_og.jpg"
 saleExpiry: "2026-06-01"
 saleExpirySource: "fallback"

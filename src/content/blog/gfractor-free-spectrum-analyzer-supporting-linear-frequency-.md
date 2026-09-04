@@ -8,7 +8,7 @@ heroImage: "/images/gfractor-free-spectrum-analyzer-supporting-linear-frequency-
 score: 9.36
 dealPrice: "FREE"
 xText: "spectrum analyzers that do linear frequency scale are so rare. gfractor just went free and that's the feature nobody talks about. if you've been frustrated with log scaling, go grab this now"
-draft: false
+draft: true
 saleExpiry: "2026-06-23"
 saleExpirySource: "fallback"
 ---

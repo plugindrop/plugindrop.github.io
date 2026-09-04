@@ -9,7 +9,7 @@ aiImage: true
 score: 7.33
 dealPrice: "FREE"
 xText: "someone reverse-engineered yamaha's undocumented modx m format and released free tools. modx m users: this is free power you're leaving on the table. go grab it now"
-draft: false
+draft: true
 saleExpiry: "2026-06-20"
 saleExpirySource: "fallback"
 ---

@@ -8,7 +8,7 @@ heroImage: "/images/how-to-make-a-midi-guitar-sound-real-free-midi-files-include
 score: 8.10
 dealPrice: "FREE"
 xText: "stop sleeping on midi guitars. yours probably don't sound real because you're not layering right. this guide explains why. free."
-draft: false
+draft: true
 saleExpiry: "2026-07-11"
 saleExpirySource: "fallback"
 ---

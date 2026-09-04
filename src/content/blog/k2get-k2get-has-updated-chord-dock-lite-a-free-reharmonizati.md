@@ -8,7 +8,7 @@ heroImage: "/images/k2get-k2get-has-updated-chord-dock-lite-a-free-reharmonizati
 score: 8.45
 dealPrice: "FREE"
 xText: "chord dock lite just hit v1.5 (free). the reharmonization on this is actually insane. arpeggio + bassline generation too. mac & win."
-draft: false
+draft: true
 saleExpiry: "2026-05-27"
 saleExpirySource: "fallback"
 ---

@@ -8,7 +8,7 @@ heroImage: "/images/fat-freebass-fb383-analogue-synth-tutorial-review-sound-demo
 score: 7.80
 dealPrice: "FREE"
 xText: "free tb-303 tutorial just landed—freebass fb383 sits in a mix like butter and the demos prove it's legit. grab this now while it's actually free."
-draft: false
+draft: true
 saleExpiry: "2026-08-02"
 saleExpirySource: "fallback"
 ---

@@ -9,7 +9,7 @@ aiImage: true
 score: 7.05
 dealPrice: "FREE"
 xText: "free 12-voice drone synth in your browser with morphing modulation. infinite ambient pads, zero install, zero dollars. go grab it before you scroll past"
-draft: false
+draft: true
 saleExpiry: "2026-08-10"
 saleExpirySource: "fallback"
 ---

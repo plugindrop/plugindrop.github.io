@@ -8,7 +8,7 @@ heroImage: "/images/free-emulation-of-the-ultra-rare-crb-uranus-more-synth-journ
 score: 7.95
 dealPrice: "FREE"
 xText: "free crb uranus emulation just dropped. that synth costs like 15k+ to even find. absolute sleeper if you're not already downloading"
-draft: false
+draft: true
 saleExpiry: "2026-08-08"
 saleExpirySource: "fallback"
 ---

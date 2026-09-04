@@ -8,7 +8,7 @@ heroImage: "/images/get-a-free-introspective-electric-piano-for-splice-instrumen
 score: 7.92
 dealPrice: "FREE"
 xText: "free introspective piano from splice right now. has the warmth that actually sits in a mix. zero dollars. go grab it"
-draft: false
+draft: true
 saleExpiry: "2026-06-11"
 saleExpirySource: "fallback"
 ---

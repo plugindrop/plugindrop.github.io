@@ -8,7 +8,7 @@ heroImage: "/images/expert-sleepers-ntx-8cv-and-forever-audio-midi-interface-and
 score: 8.28
 dealPrice: "FREE"
 xText: "expert sleepers made the ntx-8cv and forever free. audio/midi interface + the freeze effect eurorack heads actually want. go grab them."
-draft: false
+draft: true
 saleExpiry: "2026-06-04"
 saleExpirySource: "fallback"
 ---

@@ -7,7 +7,7 @@ affiliate: "https://mayerwin.github.io/Perfect-Bluetooth-MIDI-For-Windows/"
 score: 7.35
 dealPrice: "FREE"
 xText: "wireless ble-midi bridge for windows that works. roland, yamaha, korg to daw. it's free. this is what should've shipped three years ago"
-draft: false
+draft: true
 heroImage: "/images/built-a-free-open-source-ble-midi-bridge-for-windows-roland-_og.jpg"
 saleExpiry: "2026-05-30"
 saleExpirySource: "fallback"

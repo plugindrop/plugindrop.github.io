@@ -8,7 +8,7 @@ heroImage: "/images/how-to-write-a-bassline-for-house-techno-disco-and-more-free
 score: 10.00
 dealPrice: "FREE"
 xText: "free bassline breakdown (house/techno/disco) with MIDI + presets included. i'd be charging $50 for this if i made it. go download it."
-draft: false
+draft: true
 saleExpiry: "2026-07-18"
 saleExpirySource: "fallback"
 ---

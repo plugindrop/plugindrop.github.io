@@ -7,7 +7,7 @@ tags: ["free", "edmproduction", "music-production"]
 affiliate: https://stepista.vercel.app
 heroImage: "/images/i-made-a-free-ai-midi-pattern-generator-plugin-vst3-would-lo.jpg"
 dealPrice: "FREE"
-draft: false
+draft: true
 score: 1.41
 saleExpiry: "2026-05-02"
 saleExpirySource: "fallback"

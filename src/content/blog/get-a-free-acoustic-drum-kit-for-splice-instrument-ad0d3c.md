@@ -8,7 +8,7 @@ heroImage: "/images/get-a-free-acoustic-drum-kit-for-splice-instrument-ad0d3c.jp
 score: 7.36
 dealPrice: "FREE"
 xText: "free acoustic drums on splice instrument and these sit in a mix like butter. production-ready kits, zero reason not to grab them right now"
-draft: false
+draft: true
 saleExpiry: "2026-08-09"
 saleExpirySource: "fallback"
 ---
