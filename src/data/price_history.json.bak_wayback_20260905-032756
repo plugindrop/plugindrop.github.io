@@ -1331,78 +1331,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2021-11-26",
-          "regular": 149.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2021-12-02",
-          "regular": 199.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-01-30",
-          "regular": 199.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-06-17",
-          "regular": 199.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-08-19",
-          "regular": 199.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-09-22",
-          "regular": 169.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-10-12",
-          "regular": 169.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-08-06",
-          "regular": 169.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-01-16",
-          "regular": 179.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-18",
-          "regular": 179.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-05-04",
-          "regular": 179.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-07-08",
-          "regular": 179.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "category": "Limiter"
@@ -2246,48 +2174,6 @@
           "regular": 149.0,
           "sale": 99.0,
           "source": "auto_check"
-        },
-        {
-          "date": "2022-01-20",
-          "regular": 149.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-02-06",
-          "regular": 149.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-12-07",
-          "regular": 149.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-09-20",
-          "regular": 149.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-11-13",
-          "regular": 149.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-02-24",
-          "regular": 104.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-06-20",
-          "regular": 149.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "category": "Synth"
@@ -2726,12 +2612,6 @@
           "regular": 299,
           "sale": null,
           "source": "auto_check"
-        },
-        {
-          "date": "2025-01-19",
-          "regular": 249.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "category": "Utility"
@@ -3726,12 +3606,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2024-04-20",
-          "regular": 74.5,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "category": "Effects"
