@@ -52077,22 +52077,6 @@
           "cur": "USD"
         }
       ]
-    },
-    "JD 800": {
-      "pb_url": "/product/1-Instruments/4-Synth/15315-JD-800",
-      "typical_regular": 149.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-intake 2026-09-04",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-09-04",
-          "regular": 149.0,
-          "sale": 69.0,
-          "source": "deal_intake"
-        }
-      ]
     }
   }
 }
