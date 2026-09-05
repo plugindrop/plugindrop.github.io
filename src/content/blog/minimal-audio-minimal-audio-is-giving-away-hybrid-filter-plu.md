@@ -8,7 +8,7 @@ heroImage: "/images/minimal-audio-minimal-audio-is-giving-away-hybrid-filter-plu
 score: 8.46
 dealPrice: "FREE"
 xText: "minimal audio just dropped their hybrid filter for free. honestly underrated—this thing does multimode work most paid filters charge for. go grab it now before it's gone."
-draft: false
+draft: true
 saleExpiry: "2026-06-01"
 saleExpirySource: "fallback"
 ---
