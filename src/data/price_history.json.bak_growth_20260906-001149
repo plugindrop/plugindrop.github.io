@@ -53310,22 +53310,6 @@
           "cur": "USD"
         }
       ]
-    },
-    "JUNO 106": {
-      "pb_url": "/product/1-Instruments/4-Synth/15263-JUNO-106",
-      "typical_regular": 199.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-intake 2026-09-05",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-09-05",
-          "regular": 199.0,
-          "sale": 69.0,
-          "source": "deal_intake"
-        }
-      ]
     }
   }
 }
