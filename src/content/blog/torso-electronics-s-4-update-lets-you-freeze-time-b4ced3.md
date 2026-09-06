@@ -8,7 +8,7 @@ heroImage: "/images/torso-electronics-s-4-update-lets-you-freeze-time-b4ced3.jpg
 score: 9.54
 dealPrice: "FREE"
 xText: "s-4 freeze function just went free. pause your synth anywhere—holds tone perfectly for ambient. this is the feature we needed"
-draft: false
+draft: true
 saleExpiry: "2026-06-02"
 saleExpirySource: "fallback"
 ---
