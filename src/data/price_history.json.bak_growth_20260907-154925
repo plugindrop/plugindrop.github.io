@@ -43116,15 +43116,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-07",
-          "sale": 59.0,
-          "regular": 99.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -44351,15 +44342,6 @@
           "regular": 80.0,
           "sale": 39.0,
           "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-07",
-          "sale": 39.0,
-          "regular": 80.0,
-          "source": "pb_deals_poll",
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
@@ -47608,15 +47590,6 @@
           "regular": 149.0,
           "sale": 39.0,
           "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-07",
-          "sale": 39.0,
-          "regular": 149.0,
-          "source": "pb_deals_poll",
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
@@ -55744,15 +55717,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-07",
-          "sale": 39.0,
-          "regular": 149.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -55978,22 +55942,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        }
-      ]
-    },
-    "Minimal Audio x Excite Audio Effects Bundle Exclusive": {
-      "pb_url": "/product/81-Bundles/39-Effects-Bundles/15335-Minimal-Audio-x-Excite-Audio-Effects-Bundle-Exclusive-",
-      "typical_regular": 256.0,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-intake 2026-09-07",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-09-07",
-          "regular": 256.0,
-          "sale": 59.0,
-          "source": "deal_intake"
         }
       ]
     }

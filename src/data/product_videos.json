@@ -1259,6 +1259,13 @@
     "score": 11,
     "source": "yt_api_fill"
   },
+  "SSL X-Gate": {
+    "video_id": "xylM8izufYY",
+    "title": "SSL X-Gate Plug-in: Precision gate processor",
+    "channel": "Solid State Logic",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
   "SSL X-Limit": {
     "video_id": "J_0RBFtungQ",
     "title": "SSL  X-Limit: Increase loudness while mixing your music",
@@ -1502,6 +1509,27 @@
     "title": "OUT NOW: Spitfire Symphony Orchestra",
     "channel": "Spitfire Audio",
     "score": 11,
+    "source": "yt_api_fill"
+  },
+  "StageOne 2": {
+    "video_id": "cEIWNdTldh4",
+    "title": "Leapwing Audio - StageOne 2  Demo",
+    "channel": "felice music labs",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Super 8": {
+    "video_id": "A-b_9c2Jrws",
+    "title": "Pro8mm HD Demo 2009 Sample Super 8 Stocks",
+    "channel": "mr8mm",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Super-7": {
+    "video_id": "bC5fN8h_36k",
+    "title": "UVI Super 7 Review and Demo 80s inspired by the MKS-7, an 8-voice rackmount synthesizer",
+    "channel": "UDi Audio",
+    "score": 8,
     "source": "yt_api_fill"
   },
   "Synapse Audio Dune 3": {
@@ -1851,6 +1879,13 @@
     "video_id": "kIMGFF0VskQ",
     "title": "UVI Falcon 3 - First look Part 1 - Review & Presets",
     "channel": "Mattias Holmgren",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "VPS Avenger 2": {
+    "video_id": "bKiuqjrZAic",
+    "title": "VPS Avenger 2 - AT Fight In The Dark Demo",
+    "channel": "Alan Morris",
     "score": 8,
     "source": "yt_api_fill"
   },
