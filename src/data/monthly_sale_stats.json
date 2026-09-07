@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06",
+  "generated_at": "2026-09-07",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": true,
-      "generated_at": "2026-09-06",
-      "observations": 633,
-      "products_tracked": 457,
-      "products_on_sale": 189,
-      "on_sale_pct": 41.4,
-      "avg_discount_pct": 56.6,
+      "generated_at": "2026-09-07",
+      "observations": 777,
+      "products_tracked": 477,
+      "products_on_sale": 209,
+      "on_sale_pct": 43.8,
+      "avg_discount_pct": 56.7,
       "median_discount_pct": 51,
       "discount_buckets": {
         "1-19": 10,
-        "20-39": 27,
-        "40-59": 69,
-        "60+": 83
+        "20-39": 31,
+        "40-59": 75,
+        "60+": 93
       },
-      "all_time_low_hits": 157,
+      "all_time_low_hits": 177,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -166,14 +166,14 @@
           "pb_url": "/product/2-Effects/10-Delay/17713-Continuum"
         },
         {
-          "name": "Tomofon",
-          "slug": "tomofon",
+          "name": "Falcon Extended Bundle",
+          "slug": "falcon-extended-bundle",
           "category": "Other",
-          "regular": 129.99,
-          "sale": 24.99,
+          "regular": 1040.0,
+          "sale": 199.0,
           "pct_off": 81,
-          "date": "2026-09-01",
-          "pb_url": "/product/1-Instruments/4-Synth/10064-Tomofon"
+          "date": "2026-09-06",
+          "pb_url": "/product/81-Bundles/97-Various-Category/16828-Falcon-Extended-Bundle"
         }
       ],
       "all_time_low_products": [
@@ -269,27 +269,27 @@
           "date": "2026-09-01"
         },
         {
-          "name": "Tomofon",
-          "slug": "tomofon",
-          "sale": 24.99,
-          "all_time_low": 24.99,
-          "date": "2026-09-01"
+          "name": "Falcon Extended Bundle",
+          "slug": "falcon-extended-bundle",
+          "sale": 199.0,
+          "all_time_low": 199.0,
+          "date": "2026-09-06"
         },
         {
-          "name": "UAD Dream 65 Reverb Amp",
-          "slug": "uad-dream-65-reverb-amp",
-          "sale": 29.0,
-          "all_time_low": 29.0,
-          "date": "2026-09-03"
+          "name": "Super 8",
+          "slug": "super-8",
+          "sale": 19.0,
+          "all_time_low": 19.0,
+          "date": "2026-09-06"
         }
       ],
       "by_category": [
         {
           "category": "Other",
-          "tracked": 345,
-          "on_sale": 148,
-          "on_sale_pct": 42.9,
-          "avg_discount_pct": 59.9
+          "tracked": 365,
+          "on_sale": 168,
+          "on_sale_pct": 46.0,
+          "avg_discount_pct": 59.6
         },
         {
           "category": "Synth",
@@ -392,16 +392,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-08",
-        "on_sale_pct_delta": -21.1,
-        "avg_discount_pct_delta": 3.8,
-        "products_tracked_delta": -2
+        "on_sale_pct_delta": -18.7,
+        "avg_discount_pct_delta": 3.9,
+        "products_tracked_delta": 18
       }
     },
     {
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-09-06",
+      "generated_at": "2026-09-07",
       "observations": 3720,
       "products_tracked": 459,
       "products_on_sale": 287,
@@ -792,7 +792,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-09-06",
+      "generated_at": "2026-09-07",
       "observations": 2052,
       "products_tracked": 302,
       "products_on_sale": 155,
@@ -805,7 +805,7 @@
         "40-59": 55,
         "60+": 67
       },
-      "all_time_low_hits": 123,
+      "all_time_low_hits": 124,
       "deepest_discounts": [
         {
           "name": "CARBON",
