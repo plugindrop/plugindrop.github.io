@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10",
+  "generated_at": "2026-09-11",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": true,
-      "generated_at": "2026-09-10",
-      "observations": 1168,
-      "products_tracked": 478,
-      "products_on_sale": 216,
-      "on_sale_pct": 45.2,
-      "avg_discount_pct": 56.3,
-      "median_discount_pct": 51.0,
+      "generated_at": "2026-09-11",
+      "observations": 1282,
+      "products_tracked": 479,
+      "products_on_sale": 217,
+      "on_sale_pct": 45.3,
+      "avg_discount_pct": 56.2,
+      "median_discount_pct": 51,
       "discount_buckets": {
         "1-19": 10,
-        "20-39": 35,
+        "20-39": 36,
         "40-59": 76,
         "60+": 95
       },
-      "all_time_low_hits": 184,
+      "all_time_low_hits": 185,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -355,18 +355,18 @@
           "avg_discount_pct": 45
         },
         {
+          "category": "Utility",
+          "tracked": 5,
+          "on_sale": 1,
+          "on_sale_pct": 20.0,
+          "avg_discount_pct": 34
+        },
+        {
           "category": "Delay",
           "tracked": 4,
           "on_sale": 1,
           "on_sale_pct": 25.0,
           "avg_discount_pct": 12
-        },
-        {
-          "category": "Utility",
-          "tracked": 4,
-          "on_sale": 0,
-          "on_sale_pct": 0.0,
-          "avg_discount_pct": 0.0
         },
         {
           "category": "Drums",
@@ -392,16 +392,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-08",
-        "on_sale_pct_delta": -17.3,
-        "avg_discount_pct_delta": 3.5,
-        "products_tracked_delta": 19
+        "on_sale_pct_delta": -17.2,
+        "avg_discount_pct_delta": 3.4,
+        "products_tracked_delta": 20
       }
     },
     {
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-09-10",
+      "generated_at": "2026-09-11",
       "observations": 3720,
       "products_tracked": 459,
       "products_on_sale": 287,
@@ -792,7 +792,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-09-10",
+      "generated_at": "2026-09-11",
       "observations": 2052,
       "products_tracked": 302,
       "products_on_sale": 155,
