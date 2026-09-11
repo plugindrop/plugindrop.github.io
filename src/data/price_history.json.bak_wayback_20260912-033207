@@ -20351,12 +20351,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2024-11-27",
-          "regular": 249.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
