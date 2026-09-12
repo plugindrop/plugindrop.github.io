@@ -8,7 +8,7 @@ heroImage: "/images/universal-audio-apollo-gen2-and-volt-interface-deals-save-an
 score: 10.00
 dealPrice: "FREE"
 xText: "apollo gen2 with free plugins bundled. this is actually the moment. if you've been thinking about your interface situation, the timing just clicked."
-draft: false
+draft: true
 saleExpiry: "2026-06-06"
 saleExpirySource: "fallback"
 ---

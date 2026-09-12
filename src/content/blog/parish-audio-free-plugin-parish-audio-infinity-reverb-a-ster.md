@@ -9,7 +9,7 @@ aiImage: true
 score: 5.88
 dealPrice: "$0"
 xText: "parish audio infinity reverb is live and free. like, actually no cost. if you're into lush ambience and spatial depth, this sits in a mix like butter. the deal here is it won't last. grab it."
-draft: false
+draft: true
 saleExpiry: "2026-06-20"
 saleExpirySource: "fallback"
 ---

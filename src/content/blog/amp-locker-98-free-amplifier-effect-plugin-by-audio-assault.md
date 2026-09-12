@@ -7,7 +7,7 @@ tags: ["effects", "amplifier", "audio assault", "free", "music-production"]
 affiliate: https://audioassault.mx/amplocker98
 heroImage: /images/amp-locker-98-free-amplifier-effect-plugin-by-audio-assault.jpg
 dealPrice: "FREE"
-draft: false
+draft: true
 score: 1.38
 saleExpiry: "2026-05-02"
 saleExpirySource: "fallback"

@@ -7,7 +7,7 @@ affiliate: "https://youtu.be/xVIjHaD8eAw"
 score: 8.10
 dealPrice: "FREE"
 xText: "altered state machines released 3 free vcv modules and the fact that nobody's talking about this yet is wild. honestly solid stuff too."
-draft: false
+draft: true
 heroImage: "/images/we-altered-state-machines-released-3-of-our-modules-on-vcv-r_og.jpg"
 saleExpiry: "2026-05-29"
 saleExpirySource: "fallback"

@@ -9,7 +9,7 @@ aiImage: true
 score: 10.00
 dealPrice: "FREE"
 xText: "lineage percussion pro is free. not a sale, not limited. full library for kontakt. grab it now before everyone else does"
-draft: false
+draft: true
 saleExpiry: "2026-07-09"
 saleExpirySource: "fallback"
 ---

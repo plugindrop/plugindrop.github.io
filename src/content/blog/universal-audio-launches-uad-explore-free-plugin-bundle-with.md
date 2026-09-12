@@ -8,7 +8,7 @@ tags: ["free", "free software", "music-production", "bundle"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/141-Free-Bundles/17253-UAD-Explore-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=universal-audio-launches-uad-explore-free-plugin-bundle-with&chan=art&data1=universal-audio-launches-uad-explore-free-plugin-bundle-with"
 heroImage: /images/universal-audio-launches-uad-explore-free-plugin-bundle-with.jpg
 dealPrice: "FREE"
-draft: false
+draft: true
 score: 2.28
 saleExpiry: "2026-05-16"
 saleExpirySource: "fallback"

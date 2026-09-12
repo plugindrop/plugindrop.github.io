@@ -7,7 +7,7 @@ affiliate: "https://www.youtube.com/watch?v=_gOnpMMCEqs"
 score: 5.46
 dealPrice: "FREE"
 xText: "afrojack dropped a full production masterclass series for free. it's the kind of technical content that usually costs hundreds. not sure why this isn't getting more buzz. go grab it now"
-draft: false
+draft: true
 heroImage: "/images/the-most-slept-on-free-masterclass-series-i-ve-ever-watched-_og.jpg"
 saleExpiry: "2026-05-28"
 saleExpirySource: "fallback"

@@ -10,7 +10,7 @@ dealPrice: "$9.00"
 originalPrice: "$119.00"
 discount: "92% OFF"
 saleExpiry: "2026-07-12"
-draft: false
+draft: true
 ---
 **TL;DR:** PHAT 2 is currently listed at $9 on Plugin Boutique, down from a ~~$119~~ regular price. PluginDrop has tracked this deal since 2026-07-12 across 26 observations, and $9 matches the lowest price recorded in that window. If you want a sound-design instrument at a steep discount, [grab PHAT 2 here](https://www.pluginboutique.com/search?q=PHAT+2&a_aid=69cb95abe1763&chan=art&data1=phat-2-a282a3&utm_source=plugindrop&utm_medium=article&utm_campaign=phat-2-a282a3).
 

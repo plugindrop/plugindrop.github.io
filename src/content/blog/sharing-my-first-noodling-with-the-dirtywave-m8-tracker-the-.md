@@ -8,7 +8,7 @@ heroImage: "/images/sharing-my-first-noodling-with-the-dirtywave-m8-tracker-the-
 score: 8.46
 dealPrice: "FREE"
 xText: "the m8 renders video without cables. never seen a tracker do that. go grab this now."
-draft: false
+draft: true
 saleExpiry: "2026-06-07"
 saleExpirySource: "fallback"
 ---

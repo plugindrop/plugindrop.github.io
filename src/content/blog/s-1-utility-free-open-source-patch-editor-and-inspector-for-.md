@@ -8,7 +8,7 @@ heroImage: "/images/s-1-utility-free-open-source-patch-editor-and-inspector-for-
 score: 8.46
 dealPrice: "FREE"
 xText: "so the S-1 community built a fully-featured patch editor and released it free open-source. yeah that's worth your time."
-draft: false
+draft: true
 saleExpiry: "2026-06-24"
 saleExpirySource: "fallback"
 ---

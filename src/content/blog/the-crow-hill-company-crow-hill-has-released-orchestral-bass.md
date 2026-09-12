@@ -8,7 +8,7 @@ heroImage: "/images/the-crow-hill-company-crow-hill-has-released-orchestral-bass
 score: 9.72
 dealPrice: "FREE"
 xText: "free orchestral bass from crow hill with that slide texture. sits in a mix like butter and costs zero. that's the grab-now deal right there."
-draft: false
+draft: true
 saleExpiry: "2026-07-01"
 saleExpirySource: "fallback"
 ---

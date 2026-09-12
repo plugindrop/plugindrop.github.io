@@ -9,7 +9,7 @@ affiliate: https://stepista.vercel.app
 heroImage: /images/mr-jefferson-releases-stepista-a-free-ai-assisted-midi-patte.jpg
 dealPrice: "FREE"
 originalPrice: "$49"
-draft: false
+draft: true
 score: 1.84
 saleExpiry: "2026-05-03"
 saleExpirySource: "fallback"

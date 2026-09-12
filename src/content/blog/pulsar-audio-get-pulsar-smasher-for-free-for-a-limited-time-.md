@@ -8,7 +8,7 @@ heroImage: "/images/pulsar-audio-get-pulsar-smasher-for-free-for-a-limited-time-
 score: 9.00
 dealPrice: "FREE"
 xText: "€49 multiband is free rn. expiry unknown. go grab it before it's gone."
-draft: false
+draft: true
 saleExpiry: "2026-06-04"
 saleExpirySource: "fallback"
 ---
