@@ -25057,18 +25057,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2022-09-22",
-          "regular": 58.9,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-01-28",
-          "regular": 134.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
