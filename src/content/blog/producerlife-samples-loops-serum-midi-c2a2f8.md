@@ -17,7 +17,7 @@ If you only install one, make it Producerlife Serum MIDI Loops if you need MIDI 
 
 <div class="audio-embed">
 <audio controls style="width:100%">
-  <source src="https://adsrsounds.com/mp3/1675698-1091246269.mp3">
+  <source src="https://adsrsounds.com/mp3/1675698-1091246269.mp3?data1=producerlife-samples-loops-serum-midi-c2a2f8">
 </audio>
 </div>
 

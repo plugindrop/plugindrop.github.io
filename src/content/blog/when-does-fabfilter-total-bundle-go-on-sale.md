@@ -19,18 +19,12 @@ heroImage: '/images/when-does-fabfilter-total-bundle-go-on-sale.jpg'
 **Short answer:** FabFilter Total Bundle goes on sale **2-3 times per year**. The typical discount is **25–38% off**, bringing the $879 regular price down to around **$659**. The best times to buy:
 
 ## Price Context (tracked by PluginDrop)
-- Tracked since 2024-11-18 (16 observations)
+- Tracked since 2024-11-18 (18 observations)
 - Lowest we've tracked: $802 · Typical sale: $882 · Regular: $1,176
 - Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
 - Sale pattern: FabFilter only discounts once/year at Black Friday: 25% off. Regular price ~$1176 at PB.
-- Latest observed sale: $1,069 on 2026-08-30
+- Latest observed sale: $1,069 on 2026-09-10
 - Typical observed discount: 25%
-
-- **Summer Sale (June)**
-- **Black Friday (November)**
-- **FabFilter Anniversary (December)**
-
----
 
 ## Historical Sale Data
 

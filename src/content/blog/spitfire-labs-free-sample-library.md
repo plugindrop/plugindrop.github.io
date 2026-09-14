@@ -6,10 +6,9 @@ tags: ["free", "instruments", "music-production"]
 affiliate: "https://labs.spitfireaudio.com/"
 dealPrice: "FREE"
 heroImage: "/images/spitfire-labs-free-sample-library.jpg"
+evergreen: true
 
 score: 1.68
-saleExpiry: "2026-04-19"
-saleExpirySource: "fallback"
 ---
 
 ## What Is Spitfire Audio LABS?

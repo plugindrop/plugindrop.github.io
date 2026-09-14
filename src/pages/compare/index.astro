@@ -1,0 +1,83 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import { SITE_TITLE } from '../../consts';
+import manifestRaw from '../../data/programmatic_pages.json';
+import priceData from '../../data/price_history.json';
+import { rowFor, type ProgrammaticManifest, type ProgrammaticPriceData } from '../../lib/programmaticUtils';
+import { formatPrice } from '../../lib/priceUtils';
+
+const manifest = manifestRaw as ProgrammaticManifest;
+const data = priceData as ProgrammaticPriceData;
+
+const pairs = manifest.pairs
+  .filter((p) => p.status === 'published')
+  .map((p) => ({ pair: p, rowA: rowFor(p.a, data), rowB: rowFor(p.b, data) }))
+  .filter((entry): entry is typeof entry & { rowA: NonNullable<typeof entry.rowA>; rowB: NonNullable<typeof entry.rowB> } => entry.rowA !== null && entry.rowB !== null)
+  .sort((x, y) => (y.pair.selection.score ?? 0) - (x.pair.selection.score ?? 0));
+
+const pageTitle = `Plugin Price Comparisons — Which to Buy Now | ${SITE_TITLE}`;
+const pageDescription = `Browse ${pairs.length} head-to-head plugin price comparisons, updated from our own price tracker — current price, lowest tracked, and discount frequency.`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead title={pageTitle} description={pageDescription} />
+    <style>
+      main { max-width: 960px; margin: 0 auto; padding: 2rem 1rem 3rem; }
+
+      .breadcrumb { font-size: 0.8rem; color: var(--text-muted); margin-bottom: 1.5rem; }
+      .breadcrumb a { color: var(--text-muted); text-decoration: none; }
+      .breadcrumb a:hover { text-decoration: underline; }
+      .breadcrumb .sep { margin: 0 0.4rem; }
+
+      h1 {
+        margin: 0 0 0.85rem; color: var(--text-primary); font-family: var(--font-display);
+        font-size: clamp(1.6rem, 4.5vw, 2.4rem); font-weight: 400; line-height: 1.2;
+      }
+      .page-intro { margin: 0 0 2rem; color: var(--text-secondary); font-size: 1rem; line-height: 1.6; }
+
+      .pair-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1rem; }
+      .pair-card {
+        display: block; padding: 1.1rem 1.25rem; color: var(--text-primary); background: var(--bg-card);
+        border: 1px solid var(--border); border-radius: var(--radius); text-decoration: none;
+        transition: border-color 0.15s, background 0.15s;
+      }
+      .pair-card:hover { background: var(--bg-card-hover); border-color: var(--accent); }
+      .pair-names { margin: 0 0 0.5rem; font-size: 0.95rem; font-weight: 700; color: var(--text-primary); }
+      .pair-prices { margin: 0; color: var(--text-muted); font-size: 0.8rem; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
+
+      .trust-line {
+        margin-top: 2.5rem; padding: 1rem 1.25rem; color: var(--text-muted);
+        border-left: 3px solid var(--accent-muted); font-size: 0.82rem; line-height: 1.6;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="#main-content" class="sr-only">Skip to content</a>
+    <Header />
+    <main id="main-content">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a><span class="sep">/</span>
+        <span>Compare</span>
+      </nav>
+
+      <h1>Plugin price comparisons</h1>
+      <p class="page-intro">Head-to-head price, discount depth and discount frequency — recalculated from our own tracker on every update.</p>
+
+      <div class="pair-grid">
+        {pairs.map(({ pair, rowA, rowB }) => (
+          <a href={`/compare/${pair.slug}/`} class="pair-card">
+            <p class="pair-names">{rowA.name} vs {rowB.name}</p>
+            <p class="pair-prices">{formatPrice(rowA.current)} · {formatPrice(rowB.current)}</p>
+          </a>
+        ))}
+      </div>
+
+      <p class="trust-line">Prices checked daily. Data since Apr 2026.</p>
+    </main>
+    <Footer />
+  </body>
+</html>

@@ -3,7 +3,7 @@ title: "Wa Production What About Midnight Bass House Vocals"
 description: "Wa Production's What About Midnight Bass House Vocals is currently on sale at ADSR Sounds — check the product page for the current deal price versus the"
 pubDate: "2026-04-19T00:21:58Z"
 tags: ["sale", "music-production"]
-affiliate: "https://www.adsrsounds.com/product/presets/wa-production-what-about-midnight-bass-house-vocals/?a_aid=plugindrop&utm_source=plugindrop&utm_medium=article&utm_campaign=wa-production-what-about-midnight-bass-house-vocals-adsr-dea"
+affiliate: "https://www.adsrsounds.com/product/presets/wa-production-what-about-midnight-bass-house-vocals/?a_aid=plugindrop&utm_source=plugindrop&utm_medium=article&utm_campaign=wa-production-what-about-midnight-bass-house-vocals-adsr-dea&data1=wa-production-what-about-midnight-bass-house-vocals-adsr-dea"
 heroImage: "/images/wa-production-what-about-midnight-bass-house-vocals-adsr-dea.jpg"
 dealPrice: "$11.96"
 originalPrice: "$29.9"
@@ -12,7 +12,7 @@ score: 4.95
 draft: true
 saleExpiry: "2023-11-19"
 ---
-**TL;DR:** Wa Production's *What About Midnight Bass House Vocals* is currently on sale at ADSR Sounds — check the product page for the current deal price versus the regular rate. If you produce bass house, this is a targeted grab at a reduced price. [See the deal on ADSR Sounds.](https://www.adsrsounds.com/product/presets/wa-production-what-about-midnight-bass-house-vocals/?utm_source=plugindrop&utm_medium=article&utm_campaign=wa-production-what-about-midnight-bass-house-vocals-adsr-dea)
+**TL;DR:** Wa Production's *What About Midnight Bass House Vocals* is currently on sale at ADSR Sounds — check the product page for the current deal price versus the regular rate. If you produce bass house, this is a targeted grab at a reduced price. [See the deal on ADSR Sounds.](https://www.adsrsounds.com/product/presets/wa-production-what-about-midnight-bass-house-vocals/?utm_source=plugindrop&utm_medium=article&utm_campaign=wa-production-what-about-midnight-bass-house-vocals-adsr-dea&data1=wa-production-what-about-midnight-bass-house-vocals-adsr-dea)
 
 ## Price Context (tracked by PluginDrop)
 - Tracked since 2023-11-19 (13 observations)
@@ -24,7 +24,7 @@ saleExpiry: "2023-11-19"
 
 <div class="audio-embed">
 <audio controls style="width:100%">
-  <source src="https://adsrsounds.com/mp3/2306724-2303059487.mp3">
+  <source src="https://adsrsounds.com/mp3/2306724-2303059487.mp3?data1=wa-production-what-about-midnight-bass-house-vocals-adsr-dea">
 </audio>
 </div>
 
@@ -67,7 +67,7 @@ Wa Production's "What About" series has built a solid reputation in producer com
 
 Wa Production packs do appear on ADSR Sounds at promotional pricing periodically — this is worth picking up during an active deal rather than waiting, as sale windows are not guaranteed to recur on a fixed schedule.
 
-[Grab it at the current ADSR deal price here.](https://www.adsrsounds.com/product/presets/wa-production-what-about-midnight-bass-house-vocals/?utm_source=plugindrop&utm_medium=article&utm_campaign=wa-production-what-about-midnight-bass-house-vocals-adsr-dea)
+[Grab it at the current ADSR deal price here.](https://www.adsrsounds.com/product/presets/wa-production-what-about-midnight-bass-house-vocals/?utm_source=plugindrop&utm_medium=article&utm_campaign=wa-production-what-about-midnight-bass-house-vocals-adsr-dea&data1=wa-production-what-about-midnight-bass-house-vocals-adsr-dea)
 
 ---
 
@@ -102,7 +102,7 @@ A: Check ADSR Sounds' official refund policy directly, as terms vary by product 
 
 Bass house vocal packs with this level of genre specificity don't come up at a discount constantly. If midnight bass house is in your production rotation, this is a practical add at the current ADSR price.
 
-[Pick up Wa Production What About Midnight Bass House Vocals on ADSR Sounds.](https://www.adsrsounds.com/product/presets/wa-production-what-about-midnight-bass-house-vocals/?utm_source=plugindrop&utm_medium=article&utm_campaign=wa-production-what-about-midnight-bass-house-vocals-adsr-dea)
+[Pick up Wa Production What About Midnight Bass House Vocals on ADSR Sounds.](https://www.adsrsounds.com/product/presets/wa-production-what-about-midnight-bass-house-vocals/?utm_source=plugindrop&utm_medium=article&utm_campaign=wa-production-what-about-midnight-bass-house-vocals-adsr-dea&data1=wa-production-what-about-midnight-bass-house-vocals-adsr-dea)
 
 ---
 

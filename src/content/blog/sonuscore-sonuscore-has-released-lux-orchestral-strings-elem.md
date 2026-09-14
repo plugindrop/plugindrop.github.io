@@ -7,8 +7,7 @@ affiliate: "https://www.sonuscore.com/shop/lux-orchestral-strings-elements/"
 score: 6.82
 dealPrice: "FREE"
 heroImage: "/images/sonuscore-sonuscore-has-released-lux-orchestral-strings-elem.jpg"
-saleExpiry: "2026-05-20"
-saleExpirySource: "fallback"
+evergreen: true
 ---
 **TL;DR:** Sonuscore is giving away LUX Orchestral Strings Elements — a professional-grade Kontakt Player library — completely free. No coupon needed, no expiry announced. Grab it directly from [Sonuscore's shop](https://www.sonuscore.com/shop/lux-orchestral-strings-elements/) while it's live.
 

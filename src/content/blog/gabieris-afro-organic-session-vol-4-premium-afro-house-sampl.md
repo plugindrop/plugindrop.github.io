@@ -23,7 +23,7 @@ saleExpirySource: "fallback"
 
 <div class="audio-embed">
 <audio controls style="width:100%">
-  <source src="https://adsrsounds.com/mp3/2312279-2341115771.mp3">
+  <source src="https://adsrsounds.com/mp3/2312279-2341115771.mp3?data1=gabieris-afro-organic-session-vol-4-premium-afro-house-sampl">
 </audio>
 </div>
 

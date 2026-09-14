@@ -23,7 +23,7 @@ saleExpirySource: "fallback"
 
 <div class="audio-embed">
 <audio controls style="width:100%">
-  <source src="https://adsrsounds.com/mp3/2310682-2325023651.mp3">
+  <source src="https://adsrsounds.com/mp3/2310682-2325023651.mp3?data1=shocking-melodic-techno-2-for-serum-melodic-techno-serum-pre">
 </audio>
 </div>
 

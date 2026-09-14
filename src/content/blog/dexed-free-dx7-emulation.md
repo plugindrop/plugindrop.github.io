@@ -9,8 +9,6 @@ draft: false
 heroImage: "/images/dexed-free-dx7-emulation.jpg"
 score: 1.56
 evergreen: true
-saleExpiry: "2026-04-23"
-saleExpirySource: "fallback"
 ---
 
 **TL;DR:** Dexed — **free and open source.** A faithful Yamaha DX7 FM synth emulation that loads original DX7 SysEx patches. 6 operators, 32 algorithms, and the iconic FM synthesis engine that defined 80s music. Original DX7 hardware goes for $200+ used. Dexed costs $0. [Get it here](https://asb2m10.github.io/dexed/).

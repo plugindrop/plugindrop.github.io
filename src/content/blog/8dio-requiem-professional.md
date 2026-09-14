@@ -7,7 +7,7 @@ affiliate: "https://8dio.com/products/requiem-professional"
 heroImage: "/images/8dio-requiem-professional.jpg"
 score: 4.30
 xText: "8Dio Requiem Pro — cathedral recording, 5 soloists, 1000+ choral effects. distinct acoustic character from the others. part of pick-3 deal at $69"
-draft: false
+draft: true
 ---
 
 ## Overview

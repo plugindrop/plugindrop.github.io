@@ -19,16 +19,10 @@ heroImage: '/images/when-does-cherry-audio-mercury-6-go-on-sale.jpg'
 **Short answer:** Cherry Audio Mercury-6 goes on sale **4-5 times per year**. The typical discount is **20–41% off**, bringing the $49 regular price down to around **$39**. The best times to buy:
 
 ## Price Context (tracked by PluginDrop)
-- Tracked since 2023-03-07 (20 observations)
+- Tracked since 2023-03-07 (22 observations)
 - Last seen regular: $29
 - Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
 - Sale pattern: Auto-discovered 2026-07-17
-
-- **Black Friday (November)**
-- **Cherry Audio October sale**
-- **PB Focus Sales (Cherry Audio featured)**
-
----
 
 ## Historical Sale Data
 

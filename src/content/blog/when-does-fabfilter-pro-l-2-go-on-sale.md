@@ -20,18 +20,12 @@ heroImage: '/images/when-does-fabfilter-pro-l-2-go-on-sale.jpg'
 **Short answer:** FabFilter Pro-L 2 goes on sale **3-4 times per year**. The typical discount is **25–64% off**, bringing the $179 regular price down to around **$134**. The best times to buy:
 
 ## Price Context (tracked by PluginDrop)
-- Tracked since 2023-11-20 (21 observations)
+- Tracked since 2021-11-26 (35 observations)
 - Lowest we've tracked: $134 · Typical sale: $134 · Regular: $179
 - Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
 - Sale pattern: FabFilter discounts 25% at Black Friday only. Typical BF sale ~$134 (25% off $179).
 - Latest observed sale: $134 on 2024-11-22
 - Typical observed discount: 25%
-
-- **Summer Sale (June)**
-- **Black Friday (November)**
-- **FabFilter Anniversary (December)**
-
----
 
 ## Historical Sale Data
 

@@ -18,7 +18,7 @@ If you only add one synth to your template this month, make it Sylenth1 — the 
 
 <div class="audio-embed">
 <audio controls style="width:100%">
-  <source src="https://adsrsounds.com/mp3/282988-304663356.mp3">
+  <source src="https://adsrsounds.com/mp3/282988-304663356.mp3?data1=sylenth1-edm-workstation-014b95">
 </audio>
 </div>
 

@@ -9,8 +9,6 @@ score: 8.45
 dealPrice: "FREE"
 xText: "chord dock lite just hit v1.5 (free). the reharmonization on this is actually insane. arpeggio + bassline generation too. mac & win."
 draft: true
-saleExpiry: "2026-05-27"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** Chord Dock Lite v1.5 is a free reharmonization and arpeggio/bassline generation plugin for Windows and Mac — no cost, no expiry. [→ Get Chord Dock Lite at Direct](https://k2get.github.io/chord-dock-site/index.en.html)
 

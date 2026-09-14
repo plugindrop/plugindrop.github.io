@@ -9,8 +9,6 @@ score: 8.10
 dealPrice: "FREE"
 xText: "free th;en-style melodic techno ableton project just dropped with everything already structured. drums, bass, synth layers all mapped. literally just swap your sounds and make"
 draft: true
-saleExpiry: "2026-05-28"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** A community producer just dropped a free melodic techno Ableton project inspired by TH;EN and Mia Mendi — no cost, no catch. This is a rare look inside a fully structured melodic techno arrangement, covering drops, transitions, and energy-building technique. [Grab the free project here.](https://www.youtube.com/watch)
 

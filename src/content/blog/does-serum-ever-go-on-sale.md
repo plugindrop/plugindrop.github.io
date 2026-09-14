@@ -26,8 +26,6 @@ heroImage: '/images/when-does-serum-go-on-sale.jpg'
 - Latest observed sale: $99 on 2025-03-20
 - Typical observed discount: 24%
 
----
-
 ## Why Xfer Serum 2 Has No Sales
 
 Xfer Records explicitly states: 'We do not run sales on our software. The price for our plugins remain consistent.' Serum 2's regular price is $249. The $189 intro price during launch (until June 2024) was a one-time event, not a recurring sale. Serum 1 owners got a free upgrade to Serum 2.

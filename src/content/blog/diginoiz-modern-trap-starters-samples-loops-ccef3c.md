@@ -23,7 +23,7 @@ saleExpirySource: "fallback"
 
 <div class="audio-embed">
 <audio controls style="width:100%">
-  <source src="https://adsrsounds.com/mp3/2266342-2114049936.mp3">
+  <source src="https://adsrsounds.com/mp3/2266342-2114049936.mp3?data1=diginoiz-modern-trap-starters-samples-loops-ccef3c">
 </audio>
 </div>
 

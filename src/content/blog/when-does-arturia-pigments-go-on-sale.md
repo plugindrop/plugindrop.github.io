@@ -19,18 +19,12 @@ heroImage: '/images/when-does-arturia-pigments-go-on-sale.jpg'
 **Short answer:** Arturia Pigments goes on sale **3-4 times per year**. The typical discount is **50–75% off**, bringing the $199 regular price down to around **$99**. The best times to buy:
 
 ## Price Context (tracked by PluginDrop)
-- Tracked since 2023-11-14 (21 observations)
+- Tracked since 2023-11-14 (23 observations)
 - Lowest we've tracked: $129 · Typical sale: $99 · Regular: $199
 - Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
 - Sale pattern: Latest version Pigments 7, regular $199 at Arturia & Plugin Boutique. Frequently ~50% off ($99) during version-launch intro sales, Black Friday, and seasonal campaigns. Occasional deeper loyalty pricing (~$69) for existing Arturia customers only, not public sale price.
 - Latest observed sale: $129 on 2026-08-15
 - Typical observed discount: 50%
-
-- **Summer Sale (June-July)**
-- **Black Friday (November)**
-- **Arturia Week (January)**
-
----
 
 ## Historical Sale Data
 

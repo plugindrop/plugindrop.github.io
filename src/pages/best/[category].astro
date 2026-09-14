@@ -1,0 +1,245 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import { SITE_TITLE } from '../../consts';
+import manifestRaw from '../../data/programmatic_pages.json';
+import priceData from '../../data/price_history.json';
+import {
+  rowsFor,
+  sortRows,
+  categoryIntro,
+  categoryFaqs,
+  type ManifestCategory,
+  type ProgrammaticManifest,
+  type ProgrammaticPriceData,
+  type VerdictRow,
+} from '../../lib/programmaticUtils';
+import { formatPrice } from '../../lib/priceUtils';
+
+export async function getStaticPaths() {
+  const manifest = manifestRaw as ProgrammaticManifest;
+  return manifest.categories
+    .filter((c) => c.status === 'published')
+    .map((category) => ({
+      params: { category: category.slug },
+      props: { category },
+    }));
+}
+
+const { category } = Astro.props as { category: ManifestCategory };
+const data = priceData as ProgrammaticPriceData;
+
+const rows = sortRows(rowsFor(category.products, data));
+const onSaleRows = rows.filter((r) => r.hasLiveDrop);
+const rarelyDiscountsRows = rows.filter((r) => r.rarelyDiscounts);
+const faqs = categoryFaqs(category.label, rows);
+
+const pageTitle = `${category.label} Plugin Deals & Price Verdicts — ${rows.length} Tracked | ${SITE_TITLE}`;
+const pageDescription = `${category.label} plugin prices tracked daily. See which ones are really on sale right now, verdicts recalculated from our own price history — not press releases.`;
+
+const faqLD = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
+
+function verdictClass(v: VerdictRow['verdict']): string {
+  return v === 'BUY NOW' ? 'buy-now' : v === 'FAIR SALE' ? 'fair-sale' : v === 'AVERAGE' ? 'average' : 'wait';
+}
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead title={pageTitle} description={pageDescription} />
+    <script type="application/ld+json" set:html={JSON.stringify(faqLD)} />
+    <style>
+      main { max-width: 960px; margin: 0 auto; padding: 2rem 1rem 3rem; }
+
+      .breadcrumb { font-size: 0.8rem; color: var(--text-muted); margin-bottom: 1.5rem; }
+      .breadcrumb a { color: var(--text-muted); text-decoration: none; }
+      .breadcrumb a:hover { text-decoration: underline; }
+      .breadcrumb .sep { margin: 0 0.4rem; }
+
+      h1 {
+        margin: 0 0 0.85rem; color: var(--text-primary); font-family: var(--font-display);
+        font-size: clamp(1.6rem, 4.5vw, 2.4rem); font-weight: 400; line-height: 1.2;
+      }
+      .page-intro { margin: 0 0 2.5rem; color: var(--text-secondary); font-size: 1rem; line-height: 1.6; }
+
+      h2.section-title { font-size: 1.25rem; font-weight: 800; margin: 0 0 0.4rem; color: var(--text-primary); }
+      .section-sub { font-size: 0.82rem; color: var(--text-muted); margin: 0 0 1.25rem; }
+      section.page-section { margin: 3rem 0; }
+
+      .verdict-table { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
+      .verdict-table th, .verdict-table td {
+        text-align: left; padding: 0.65rem 0.75rem; border-bottom: 1px solid var(--border);
+      }
+      .verdict-table th { color: var(--text-muted); font-weight: 700; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; }
+      .verdict-table td.num, .verdict-table th.num { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
+      .verdict-table a.product-link { color: var(--text-primary); font-weight: 700; text-decoration: none; }
+      .verdict-table a.product-link:hover { color: var(--accent); text-decoration: underline; }
+      .verdict-chip {
+        display: inline-block; padding: 0.2rem 0.55rem; border-radius: 4px;
+        font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em;
+      }
+      .verdict-chip.buy-now { background: rgba(74,222,128,0.15); color: #4ade80; }
+      .verdict-chip.fair-sale { background: rgba(250,204,21,0.15); color: #facc15; }
+      .verdict-chip.average { background: var(--bg-highest); color: var(--text-muted); }
+      .verdict-chip.wait { background: rgba(96,165,250,0.15); color: #60a5fa; }
+      .table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
+      .sale-list, .rare-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.6rem; }
+      .sale-item, .rare-item {
+        display: flex; justify-content: space-between; align-items: center; gap: 1rem;
+        background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius);
+        padding: 0.75rem 1rem;
+      }
+      .sale-item a, .rare-item a { color: var(--text-primary); font-weight: 700; text-decoration: none; }
+      .sale-item a:hover, .rare-item a:hover { color: var(--accent); }
+      .sale-price { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; color: var(--sale-text); font-weight: 800; }
+      .empty-note { color: var(--text-muted); font-size: 0.9rem; margin: 0; }
+
+      .link-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.5rem; }
+      .link-list a { color: var(--accent); font-size: 0.9rem; text-decoration: none; }
+      .link-list a:hover { text-decoration: underline; }
+
+      .faq-list { display: flex; flex-direction: column; gap: 0.75rem; }
+      .faq-item { background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); padding: 0 1.25rem; overflow: hidden; }
+      .faq-item summary {
+        cursor: pointer; list-style: none; padding: 1rem 0; font-weight: 700; font-size: 0.95rem;
+        color: var(--text-primary); display: flex; justify-content: space-between; align-items: center; gap: 1rem;
+      }
+      .faq-item summary::-webkit-details-marker { display: none; }
+      .faq-item summary::after { content: '+'; color: var(--accent); font-size: 1.3rem; font-weight: 400; flex-shrink: 0; }
+      .faq-item[open] summary::after { content: '−'; }
+      .faq-item p { color: var(--text-secondary); font-size: 0.88rem; line-height: 1.6; margin: 0 0 1rem; }
+
+      .trust-line {
+        margin-top: 2.5rem; padding: 1rem 1.25rem; border-left: 3px solid var(--accent-muted);
+        color: var(--text-muted); font-size: 0.82rem; line-height: 1.6;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="#main-content" class="sr-only">Skip to content</a>
+    <Header />
+    <main id="main-content">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a><span class="sep">/</span>
+        <a href="/categories">Categories</a><span class="sep">/</span>
+        <span>{category.label}</span>
+      </nav>
+
+      <h1>{category.label} plugin prices right now: what's a real discount</h1>
+      <p class="page-intro">{categoryIntro(category.label, rows)}</p>
+
+      <section class="page-section">
+        <h2 class="section-title">Price verdicts</h2>
+        <p class="section-sub">Sorted by deal score — recalculated from our tracked price history, not the list price.</p>
+        <div class="table-scroll">
+          <table class="verdict-table">
+            <thead>
+              <tr>
+                <th>Product</th>
+                <th class="num">Current</th>
+                <th class="num">Regular</th>
+                <th class="num">Lowest tracked</th>
+                <th>Verdict</th>
+                <th class="num">Score</th>
+                <th>Last checked</th>
+              </tr>
+            </thead>
+            <tbody>
+              {rows.map((row) => (
+                <tr>
+                  <td><a class="product-link" href={`/plugin-prices/${row.slug}/`}>{row.name}</a></td>
+                  <td class="num">{formatPrice(row.current)}</td>
+                  <td class="num">{formatPrice(row.regular)}</td>
+                  <td class="num">{formatPrice(row.allTimeLow)}</td>
+                  <td><span class={`verdict-chip ${verdictClass(row.verdict)}`}>{row.verdict}</span></td>
+                  <td class="num">{row.score}</td>
+                  <td>{row.checkedLabel ?? '—'}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="page-section">
+        <h2 class="section-title">On sale right now</h2>
+        <p class="section-sub">Live price drops, checked within the last 7 days.</p>
+        {onSaleRows.length > 0 ? (
+          <ul class="sale-list">
+            {onSaleRows.map((row) => (
+              <li class="sale-item">
+                <a href={`/plugin-prices/${row.slug}/`}>{row.name}</a>
+                <span class="sale-price">{formatPrice(row.current)}</span>
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <p class="empty-note">No {category.label} plugins have a live, recently-checked price drop right now.</p>
+        )}
+      </section>
+
+      <section class="page-section">
+        <h2 class="section-title">Rarely discounts</h2>
+        <p class="section-sub">These don't tend to go on sale — waiting probably won't pay off.</p>
+        {rarelyDiscountsRows.length > 0 ? (
+          <ul class="rare-list">
+            {rarelyDiscountsRows.map((row) => (
+              <li class="rare-item">
+                <a href={`/plugin-prices/${row.slug}/`}>{row.name}</a>
+                <span>{formatPrice(row.current)}</span>
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <p class="empty-note">Every {category.label} plugin we track here has discounted at least meaningfully before.</p>
+        )}
+      </section>
+
+      {category.editorial_post && (
+        <section class="page-section">
+          <h2 class="section-title">Choosing by features?</h2>
+          <ul class="link-list">
+            <li><a href={`/posts/${category.editorial_post}/`}>Our {category.label} plugin guide →</a></li>
+          </ul>
+        </section>
+      )}
+
+      {category.when_does_posts.length > 0 && (
+        <section class="page-section">
+          <h2 class="section-title">When to buy</h2>
+          <ul class="link-list">
+            {category.when_does_posts.slice(0, 3).map((id) => (
+              <li><a href={`/posts/${id}/`}>{id.replace(/^when-does-/, '').replace(/-go-on-sale$/, '').replace(/-/g, ' ')} — when it goes on sale →</a></li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      <section class="page-section">
+        <h2 class="section-title">FAQ</h2>
+        <div class="faq-list">
+          {faqs.map((f) => (
+            <details class="faq-item">
+              <summary>{f.q}</summary>
+              <p>{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <p class="trust-line">Prices checked daily. Data since Apr 2026.</p>
+    </main>
+    <Footer />
+  </body>
+</html>

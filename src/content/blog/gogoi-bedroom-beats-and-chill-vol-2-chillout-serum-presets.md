@@ -9,7 +9,7 @@ score: 7.92
 dealPrice: "$16.1"
 originalPrice: "$23"
 discount: "30% OFF"
-draft: false
+draft: true
 saleExpiry: "2026-09-12"
 saleExpirySource: "fallback"
 ---
@@ -20,7 +20,7 @@ saleExpirySource: "fallback"
 
 <div class="audio-embed">
 <audio controls style="width:100%">
-  <source src="https://adsrsounds.com/mp3/925041-716398321.mp3">
+  <source src="https://adsrsounds.com/mp3/925041-716398321.mp3?data1=gogoi-bedroom-beats-and-chill-vol-2-chillout-serum-presets">
 </audio>
 </div>
 

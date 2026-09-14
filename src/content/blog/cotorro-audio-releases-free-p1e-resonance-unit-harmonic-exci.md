@@ -10,8 +10,6 @@ heroImage: "/images/cotorro-audio-releases-free-p1e-resonance-unit-harmonic-exci
 dealPrice: "FREE"
 draft: true
 score: 1.41
-saleExpiry: "2026-05-02"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** Cotorro Audio just dropped the P1E Resonance Unit — a harmonic exciter plugin — for absolutely free. VST3 and LV2 formats. Zero dollars. No catch. [Grab it now before it disappears from your radar.](https://cotorroaudio.itch.io/p1eru)
 

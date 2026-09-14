@@ -16,7 +16,7 @@ saleExpirySource: "fallback"
 
 <div class="audio-embed">
 <audio controls style="width:100%">
-  <source src="https://adsrsounds.com/mp3/2200179-1867798158.mp3">
+  <source src="https://adsrsounds.com/mp3/2200179-1867798158.mp3?data1=patchmaker-synthwave-horizons-for-arturia-pigments-presets">
 </audio>
 </div>
 

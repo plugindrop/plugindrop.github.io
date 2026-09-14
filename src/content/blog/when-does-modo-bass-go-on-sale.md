@@ -19,19 +19,11 @@ heroImage: '/images/when-does-modo-bass-go-on-sale.jpg'
 **Short answer:** MODO BASS 2 goes on sale **4-5 times per year**. The typical discount is **50–77% off**, bringing the $199 regular price down to around **$99**. The best times to buy:
 
 ## Price Context (tracked by PluginDrop)
-- Tracked since 2026-08-23 (10 observations)
+- Tracked since 2026-08-23 (12 observations)
 - Lowest we've tracked: $39.99 · Typical sale: $39.99 · Regular: $199.99
 - Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
-- Sale pattern: auto-crawl 2026-08-23
 - Latest observed sale: $39.99 on 2026-08-28
 - Typical observed discount: 80%
-
-- **Black Friday (November)**
-- **PB Anniversary (February)**
-- **IK Summer Sale (June-July)**
-- **IK Custom Shop deals**
-
----
 
 ## Historical Sale Data
 

@@ -25,11 +25,6 @@ heroImage: '/images/when-does-ni-komplete-go-on-sale.jpg'
 - Sale pattern: PB regularly runs 50% off NI Komplete (Feb 2025, BF 2025). ATL $266 at Thomann (Nov 2024).
 - Typical observed discount: 50%
 
-- **Summer Sale (June-July)**
-- **Black Friday (November)**
-
----
-
 ## Historical Sale Data
 
 | When | Discount | Approx. Price | Source |

@@ -26,7 +26,7 @@ saleExpiry: "2023-11-24"
 
 <div class="audio-embed">
 <audio controls style="width:100%">
-  <source src="https://adsrsounds.com/mp3/2307784-2312173556.mp3">
+  <source src="https://adsrsounds.com/mp3/2307784-2312173556.mp3?data1=u-he-bass-for-spacesynth-vol-1-u-he-diva-f476c5">
 </audio>
 </div>
 

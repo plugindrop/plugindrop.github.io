@@ -3,7 +3,7 @@ title: "Essential Audio Media Eurodance 90S For Serum Presets"
 description: "Essential Audio Media's Eurodance 90s preset pack for Xfer Serum is available now on ADSR Sounds — grab it while the deal is live. Check current pricing"
 pubDate: "2026-04-20T04:25:36Z"
 tags: ["sale", "vst-plugin", "serum", "synth", "music-production"]
-affiliate: "https://www.adsrsounds.com/product/presets/essential-audio-media-eurodance-90s-for-serum-presets/?a_aid=plugindrop&utm_source=affiliate-bot&utm_medium=article&utm_campaign=essential-audio-media-eurodance-90s-for-serum-presets-adsr-d"
+affiliate: "https://www.adsrsounds.com/product/presets/essential-audio-media-eurodance-90s-for-serum-presets/?a_aid=plugindrop&utm_source=affiliate-bot&utm_medium=article&utm_campaign=essential-audio-media-eurodance-90s-for-serum-presets-adsr-d&data1=essential-audio-media-eurodance-90s-for-serum-presets-adsr-d"
 score: 8.36
 dealPrice: "$16.65"
 originalPrice: "$23.79"
@@ -13,7 +13,7 @@ saleExpiry: "2026-05-20"
 saleExpirySource: "fallback"
 draft: true
 ---
-**TL;DR:** Essential Audio Media's Eurodance 90s preset pack for Xfer Serum is available now on ADSR Sounds — grab it while the deal is live. Check current pricing (~~regular price~~ → deal price) and [snag it here](https://www.adsrsounds.com/product/presets/essential-audio-media-eurodance-90s-for-serum-presets/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=essential-audio-media-eurodance-90s-for-serum-presets-adsr-d) before it ends.
+**TL;DR:** Essential Audio Media's Eurodance 90s preset pack for Xfer Serum is available now on ADSR Sounds — grab it while the deal is live. Check current pricing (~~regular price~~ → deal price) and [snag it here](https://www.adsrsounds.com/product/presets/essential-audio-media-eurodance-90s-for-serum-presets/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=essential-audio-media-eurodance-90s-for-serum-presets-adsr-d&data1=essential-audio-media-eurodance-90s-for-serum-presets-adsr-d) before it ends.
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $23.79
@@ -22,7 +22,7 @@ draft: true
 
 <div class="audio-embed">
 <audio controls style="width:100%">
-  <source src="https://adsrsounds.com/mp3/2204474-1880338266.mp3">
+  <source src="https://adsrsounds.com/mp3/2204474-1880338266.mp3?data1=essential-audio-media-eurodance-90s-for-serum-presets-adsr-d">
 </audio>
 </div>
 
@@ -64,7 +64,7 @@ Eurodance revival has been gaining momentum in producer communities, with genres
 
 Exact pricing can shift — deals on ADSR Sounds are time-sensitive and subject to change. Essential Audio Media does not run deep discounts constantly, so a sale window is worth paying attention to if this genre fits your workflow.
 
-[Check the current deal price on ADSR Sounds →](https://www.adsrsounds.com/product/presets/essential-audio-media-eurodance-90s-for-serum-presets/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=essential-audio-media-eurodance-90s-for-serum-presets-adsr-d)
+[Check the current deal price on ADSR Sounds →](https://www.adsrsounds.com/product/presets/essential-audio-media-eurodance-90s-for-serum-presets/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=essential-audio-media-eurodance-90s-for-serum-presets-adsr-d&data1=essential-audio-media-eurodance-90s-for-serum-presets-adsr-d)
 
 ---
 
@@ -99,7 +99,7 @@ A: Refund policies for digital downloads vary — review ADSR Sounds' terms on t
 
 Eurodance 90s sounds in Serum, packaged and ready to drop into your sessions — this is a niche pack that fills a specific gap in most preset libraries. If the genre fits your work, the current ADSR deal makes it the right time to grab it.
 
-[Get Essential Audio Media Eurodance 90s for Serum on ADSR Sounds →](https://www.adsrsounds.com/product/presets/essential-audio-media-eurodance-90s-for-serum-presets/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=essential-audio-media-eurodance-90s-for-serum-presets-adsr-d)
+[Get Essential Audio Media Eurodance 90s for Serum on ADSR Sounds →](https://www.adsrsounds.com/product/presets/essential-audio-media-eurodance-90s-for-serum-presets/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=essential-audio-media-eurodance-90s-for-serum-presets-adsr-d&data1=essential-audio-media-eurodance-90s-for-serum-presets-adsr-d)
 
 ---
 

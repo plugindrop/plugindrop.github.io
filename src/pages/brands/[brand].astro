@@ -3,6 +3,7 @@ import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
+import brandAliases from '../../data/brand_aliases.json';
 import priceData from '../../data/price_history.json';
 import { isBrandPageIndexable, isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
 
@@ -43,8 +44,8 @@ interface BrandGroup {
 
 // --- Affiliate link helper ---------------------------------------------------
 const AFF = "a_aid=69cb95abe1763";
-const pbLink = (path: string | null | undefined) =>
-  !path ? '#' : path.startsWith('http') ? path : `https://www.pluginboutique.com${path}?${AFF}`;
+const pbLink = (path: string | null | undefined, extraParams = '') =>
+  !path ? '#' : path.startsWith('http') ? path : `https://www.pluginboutique.com${path}?${AFF}${extraParams ? `&${extraParams}` : ''}`;
 
 // --- Brand detection ----------------------------------------------------------
 // Maps a raw product name (as stored in price_history.json) to a canonical
@@ -53,87 +54,6 @@ const pbLink = (path: string | null | undefined) =>
 // whole-word search in `notes` for the rare product whose name doesn't carry
 // the brand token. Products that don't match any known brand are left
 // ungrouped rather than guessed at.
-const BRAND_ALIASES: Array<{ canonical: string; prefixes: string[] }> = [
-  { canonical: 'FabFilter', prefixes: ['FabFilter'] },
-  { canonical: 'u-he', prefixes: ['u-he'] },
-  { canonical: 'Native Instruments', prefixes: ['Native Instruments', 'NI Komplete'] },
-  { canonical: 'Arturia', prefixes: ['Arturia'] },
-  { canonical: 'iZotope', prefixes: ['iZotope'] },
-  { canonical: 'Waves', prefixes: ['Waves'] },
-  { canonical: 'Soundtoys', prefixes: ['Soundtoys'] },
-  { canonical: 'Softube', prefixes: ['Softube'] },
-  { canonical: 'Plugin Alliance', prefixes: ['Plugin Alliance'] },
-  { canonical: 'Universal Audio', prefixes: ['UAD', 'Universal Audio'] },
-  { canonical: 'Spitfire Audio', prefixes: ['Spitfire Audio', 'Spitfire'] },
-  { canonical: 'Output', prefixes: ['Output'] },
-  { canonical: 'Baby Audio', prefixes: ['Baby Audio'] },
-  { canonical: 'Cherry Audio', prefixes: ['Cherry Audio'] },
-  { canonical: 'Kilohearts', prefixes: ['Kilohearts'] },
-  { canonical: 'Xfer', prefixes: ['Xfer'] },
-  { canonical: 'Spectrasonics', prefixes: ['Spectrasonics'] },
-  { canonical: 'UVI', prefixes: ['UVI'] },
-  { canonical: 'Toontrack', prefixes: ['Toontrack'] },
-  { canonical: 'XLN Audio', prefixes: ['XLN Audio'] },
-  { canonical: 'Slate Digital', prefixes: ['Slate Digital'] },
-  { canonical: 'Valhalla', prefixes: ['Valhalla'] },
-  { canonical: 'Eventide', prefixes: ['Eventide'] },
-  { canonical: 'Sonnox', prefixes: ['Sonnox'] },
-  { canonical: 'Cableguys', prefixes: ['Cableguys'] },
-  { canonical: 'Newfangled Audio', prefixes: ['Newfangled Audio', 'Newfangled'] },
-  { canonical: 'GForce', prefixes: ['GForce'] },
-  { canonical: 'Sonible', prefixes: ['Sonible'] },
-  { canonical: 'oeksound', prefixes: ['oeksound'] },
-  { canonical: 'Wavesfactory', prefixes: ['Wavesfactory'] },
-  { canonical: 'Klanghelm', prefixes: ['Klanghelm'] },
-  { canonical: 'AudioThing', prefixes: ['AudioThing'] },
-  { canonical: 'Denise Audio', prefixes: ['Denise Audio'] },
-  { canonical: 'Minimal Audio', prefixes: ['Minimal Audio'] },
-  { canonical: 'Excite Audio', prefixes: ['Excite Audio'] },
-  { canonical: 'Heavyocity', prefixes: ['Heavyocity'] },
-  { canonical: 'ProjectSAM', prefixes: ['ProjectSAM'] },
-  { canonical: 'EastWest', prefixes: ['EastWest'] },
-  { canonical: 'Vengeance', prefixes: ['Vengeance Sound', 'Vengeance'] },
-  { canonical: 'reFX', prefixes: ['reFX'] },
-  { canonical: 'Reveal Sound', prefixes: ['Reveal Sound'] },
-  { canonical: 'KV331', prefixes: ['KV331 Audio', 'KV331'] },
-  { canonical: 'LennarDigital', prefixes: ['LennarDigital'] },
-  { canonical: 'Celemony', prefixes: ['Celemony'] },
-  { canonical: 'Antares', prefixes: ['Antares'] },
-  { canonical: 'Relab', prefixes: ['Relab Development', 'Relab'] },
-  { canonical: 'LiquidSonics', prefixes: ['LiquidSonics'] },
-  { canonical: 'DMG Audio', prefixes: ['DMG Audio'] },
-  { canonical: 'GetGood Drums', prefixes: ['GetGood Drums'] },
-];
-
-function escapeRegExp(s: string): string {
-  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-}
-
-// Flattened + sorted longest-prefix-first so e.g. "Spitfire Audio" is tried
-// before the shorter "Spitfire", and "NI Komplete" before any bare "NI".
-function flattenBrandPrefixes(defs: Array<{ canonical: string; prefixes: string[] }>) {
-  const flat: Array<{ prefix: string; canonical: string }> = [];
-  for (const d of defs) for (const p of d.prefixes) flat.push({ prefix: p, canonical: d.canonical });
-  return flat.sort((a, b) => b.prefix.length - a.prefix.length);
-}
-
-function detectBrand(
-  name: string,
-  notes: string | undefined,
-  flatPrefixes: Array<{ prefix: string; canonical: string }>
-): string | null {
-  for (const { prefix, canonical } of flatPrefixes) {
-    if (name === prefix || name.startsWith(prefix + ' ')) return canonical;
-  }
-  if (notes) {
-    for (const { prefix, canonical } of flatPrefixes) {
-      const re = new RegExp(`\\b${escapeRegExp(prefix)}\\b`);
-      if (re.test(notes)) return canonical;
-    }
-  }
-  return null;
-}
-
 // --- getStaticPaths (self-contained: Astro isolates this export, so every
 // helper it needs is re-declared inline rather than closing over the module
 // scope above) --------------------------------------------------------------
@@ -164,57 +84,7 @@ export async function getStaticPaths() {
     entry: _EntryData;
   }
 
-  const _BRAND_ALIASES: Array<{ canonical: string; prefixes: string[] }> = [
-    { canonical: 'FabFilter', prefixes: ['FabFilter'] },
-    { canonical: 'u-he', prefixes: ['u-he'] },
-    { canonical: 'Native Instruments', prefixes: ['Native Instruments', 'NI Komplete'] },
-    { canonical: 'Arturia', prefixes: ['Arturia'] },
-    { canonical: 'iZotope', prefixes: ['iZotope'] },
-    { canonical: 'Waves', prefixes: ['Waves'] },
-    { canonical: 'Soundtoys', prefixes: ['Soundtoys'] },
-    { canonical: 'Softube', prefixes: ['Softube'] },
-    { canonical: 'Plugin Alliance', prefixes: ['Plugin Alliance'] },
-    { canonical: 'Universal Audio', prefixes: ['UAD', 'Universal Audio'] },
-    { canonical: 'Spitfire Audio', prefixes: ['Spitfire Audio', 'Spitfire'] },
-    { canonical: 'Output', prefixes: ['Output'] },
-    { canonical: 'Baby Audio', prefixes: ['Baby Audio'] },
-    { canonical: 'Cherry Audio', prefixes: ['Cherry Audio'] },
-    { canonical: 'Kilohearts', prefixes: ['Kilohearts'] },
-    { canonical: 'Xfer', prefixes: ['Xfer'] },
-    { canonical: 'Spectrasonics', prefixes: ['Spectrasonics'] },
-    { canonical: 'UVI', prefixes: ['UVI'] },
-    { canonical: 'Toontrack', prefixes: ['Toontrack'] },
-    { canonical: 'XLN Audio', prefixes: ['XLN Audio'] },
-    { canonical: 'Slate Digital', prefixes: ['Slate Digital'] },
-    { canonical: 'Valhalla', prefixes: ['Valhalla'] },
-    { canonical: 'Eventide', prefixes: ['Eventide'] },
-    { canonical: 'Sonnox', prefixes: ['Sonnox'] },
-    { canonical: 'Cableguys', prefixes: ['Cableguys'] },
-    { canonical: 'Newfangled Audio', prefixes: ['Newfangled Audio', 'Newfangled'] },
-    { canonical: 'GForce', prefixes: ['GForce'] },
-    { canonical: 'Sonible', prefixes: ['Sonible'] },
-    { canonical: 'oeksound', prefixes: ['oeksound'] },
-    { canonical: 'Wavesfactory', prefixes: ['Wavesfactory'] },
-    { canonical: 'Klanghelm', prefixes: ['Klanghelm'] },
-    { canonical: 'AudioThing', prefixes: ['AudioThing'] },
-    { canonical: 'Denise Audio', prefixes: ['Denise Audio'] },
-    { canonical: 'Minimal Audio', prefixes: ['Minimal Audio'] },
-    { canonical: 'Excite Audio', prefixes: ['Excite Audio'] },
-    { canonical: 'Heavyocity', prefixes: ['Heavyocity'] },
-    { canonical: 'ProjectSAM', prefixes: ['ProjectSAM'] },
-    { canonical: 'EastWest', prefixes: ['EastWest'] },
-    { canonical: 'Vengeance', prefixes: ['Vengeance Sound', 'Vengeance'] },
-    { canonical: 'reFX', prefixes: ['reFX'] },
-    { canonical: 'Reveal Sound', prefixes: ['Reveal Sound'] },
-    { canonical: 'KV331', prefixes: ['KV331 Audio', 'KV331'] },
-    { canonical: 'LennarDigital', prefixes: ['LennarDigital'] },
-    { canonical: 'Celemony', prefixes: ['Celemony'] },
-    { canonical: 'Antares', prefixes: ['Antares'] },
-    { canonical: 'Relab', prefixes: ['Relab Development', 'Relab'] },
-    { canonical: 'LiquidSonics', prefixes: ['LiquidSonics'] },
-    { canonical: 'DMG Audio', prefixes: ['DMG Audio'] },
-    { canonical: 'GetGood Drums', prefixes: ['GetGood Drums'] },
-  ];
+  const _BRAND_ALIASES: Array<{ canonical: string; prefixes: string[] }> = brandAliases;
 
   function _escapeRegExp(s: string): string {
     return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -516,7 +386,7 @@ const itemListLD = {
                 <td>{r.onSale && r.off > 0 ? <span class="off-badge">-{r.off}%</span> : '—'}</td>
                 <td class="mono">{formatPrice(r.allTimeLow)}</td>
                 <td>
-                  <a href={pbLink(r.pbUrl)} class="cta-btn" target="_blank" rel="noopener sponsored">See deal</a>
+                  <a href={pbLink(r.pbUrl, 'chan=brand')} class="cta-btn" target="_blank" rel="noopener sponsored">See deal</a>
                 </td>
               </tr>
             ))}

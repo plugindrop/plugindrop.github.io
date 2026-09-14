@@ -3,6 +3,7 @@ import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import priceData from '../../data/price_history.json';
+import programmaticManifest from '../../data/programmatic_pages.json';
 
 interface HistoryEntry {
   date: string;
@@ -69,9 +70,15 @@ function countCategory(name: string, entry: EntryData, isBundleSection: boolean)
 for (const [name, entry] of Object.entries(plugins)) countCategory(name, entry, false);
 for (const [name, entry] of Object.entries(bundles)) countCategory(name, entry, true);
 
+const publishedCategorySlugByLabel = new Map(
+  (programmaticManifest as { categories: { label: string; slug: string; status: string }[] }).categories
+    .filter((c) => c.status === 'published')
+    .map((c) => [c.label, c.slug]),
+);
+
 const categories = [...categoryCounts.entries()]
   .filter(([, count]) => count > 0)
-  .map(([name, count]) => ({ name, count }))
+  .map(([name, count]) => ({ name, count, publishedSlug: publishedCategorySlugByLabel.get(name) ?? null }))
   .sort((a, b) => a.name.localeCompare(b.name));
 const totalTracked = Object.keys(plugins).length + Object.keys(bundles).length;
 
@@ -129,7 +136,10 @@ const pageDescription = `Browse ${totalTracked} tracked plugin and bundle prices
 
       <div class="category-grid">
         {categories.map((category) => (
-          <a href={`/plugin-prices?category=${encodeURIComponent(category.name)}`} class="category-card">
+          <a
+            href={category.publishedSlug ? `/best/${category.publishedSlug}/` : `/plugin-prices?category=${encodeURIComponent(category.name)}`}
+            class="category-card"
+          >
             <p class="category-name">{category.name}</p>
             <p class="category-meta">{category.count} products tracked</p>
           </a>

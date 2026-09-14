@@ -23,7 +23,7 @@ saleExpirySource: "fallback"
 
 <div class="audio-embed">
 <audio controls style="width:100%">
-  <source src="https://adsrsounds.com/mp3/1809105-1175376457.mp3">
+  <source src="https://adsrsounds.com/mp3/1809105-1175376457.mp3?data1=tonepusher-industrial-chaos-serum-presets-d0437c">
 </audio>
 </div>
 
