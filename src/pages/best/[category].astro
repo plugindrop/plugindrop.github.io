@@ -17,9 +17,6 @@ import {
 } from '../../lib/programmaticUtils';
 import { formatPrice } from '../../lib/priceUtils';
 
-const manifest = manifestRaw as ProgrammaticManifest;
-const publishedCategories = manifest.categories.filter((c) => c.status === 'published');
-
 export async function getStaticPaths() {
   const manifest = manifestRaw as ProgrammaticManifest;
   return manifest.categories
