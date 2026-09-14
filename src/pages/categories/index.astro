@@ -136,7 +136,10 @@ const pageDescription = `Browse ${totalTracked} tracked plugin and bundle prices
 
       <div class="category-grid">
         {categories.map((category) => (
-          <a href={`/plugin-prices?category=${encodeURIComponent(category.name)}`} class="category-card">
+          <a
+            href={category.publishedSlug ? `/best/${category.publishedSlug}/` : `/plugin-prices?category=${encodeURIComponent(category.name)}`}
+            class="category-card"
+          >
             <p class="category-name">{category.name}</p>
             <p class="category-meta">{category.count} products tracked</p>
           </a>
