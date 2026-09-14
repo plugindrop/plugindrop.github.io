@@ -23,7 +23,7 @@ saleExpirySource: "fallback"
 
 <div class="audio-embed">
 <audio controls style="width:100%">
-  <source src="https://adsrsounds.com/mp3/2312084-2337320927.mp3">
+  <source src="https://adsrsounds.com/mp3/2312084-2337320927.mp3?data1=banger-samples-obsidian-melody-dark-trap-melody-loops-midi-c">
 </audio>
 </div>
 

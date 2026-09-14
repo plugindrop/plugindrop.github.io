@@ -21,7 +21,7 @@ saleExpirySource: "fallback"
 
 <div class="audio-embed">
 <audio controls style="width:100%">
-  <source src="https://adsrsounds.com/mp3/2262024-2102319510.mp3">
+  <source src="https://adsrsounds.com/mp3/2262024-2102319510.mp3?data1=catch-the-rhythm-producers-bundle-deal-vol-1-samples-loops">
 </audio>
 </div>
 

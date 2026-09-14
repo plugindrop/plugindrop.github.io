@@ -3,7 +3,7 @@ title: "Air Music Tech Fabric Vintage Jup Vintage Synth Plugin Instrument"
 description: "AIR Music Technology's Fabric Vintage Jup is down to $59 (~~$99~~) at ADSR Sounds — 40% off on a Jupiter-inspired soft synth that rarely goes on sale. Grab"
 pubDate: "2026-04-20T11:40:16Z"
 tags: ["sale", "synth", "music-production"]
-affiliate: "https://www.adsrsounds.com/product/software/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instrument/?a_aid=plugindrop&utm_source=affiliate-bot&utm_medium=article&utm_campaign=air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr"
+affiliate: "https://www.adsrsounds.com/product/software/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instrument/?a_aid=plugindrop&utm_source=affiliate-bot&utm_medium=article&utm_campaign=air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr&data1=air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr"
 score: 5.64
 dealPrice: "$59"
 originalPrice: "$99"
@@ -13,7 +13,7 @@ saleExpiry: "2026-05-20"
 saleExpirySource: "fallback"
 draft: true
 ---
-**TL;DR:** AIR Music Technology's Fabric Vintage Jup is down to **$59** (~~$99~~) at ADSR Sounds — 40% off on a Jupiter-inspired soft synth that rarely goes on sale. [Grab the deal here](https://www.adsrsounds.com/product/software/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instrument/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr) before it expires.
+**TL;DR:** AIR Music Technology's Fabric Vintage Jup is down to **$59** (~~$99~~) at ADSR Sounds — 40% off on a Jupiter-inspired soft synth that rarely goes on sale. [Grab the deal here](https://www.adsrsounds.com/product/software/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instrument/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr&data1=air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr) before it expires.
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $99
@@ -94,7 +94,7 @@ A: AIR Music Tech titles on ADSR Sounds are typically sold as perpetual licenses
 
 Jupiter-style synthesis at a discount doesn't come around often from AIR. If vintage poly pads and leads are on your radar, this is a window worth acting on.
 
-[Grab AIR Music Tech Fabric Vintage Jup at the deal price on ADSR Sounds →](https://www.adsrsounds.com/product/software/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instrument/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr)
+[Grab AIR Music Tech Fabric Vintage Jup at the deal price on ADSR Sounds →](https://www.adsrsounds.com/product/software/air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instrument/?utm_source=affiliate-bot&utm_medium=article&utm_campaign=air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr&data1=air-music-tech-fabric-vintage-jup-vintage-synth-plugin-instr)
 
 ---
 

@@ -93,7 +93,7 @@ Loopcloud also offers **AI-powered search**, which can match sounds by mood, gen
 
 ## Alternatives to Consider
 
-If neither subscription model fits your budget or workflow, **ADSR Sounds** ([adsrsounds.com](https://www.adsrsounds.com/?a_aid=plugindrop)) is a pay-per-download alternative with no monthly fee. You buy individual packs or sounds without committing to recurring billing. The library is smaller than Splice or Loopcloud, but the pricing model suits producers who sample infrequently.
+If neither subscription model fits your budget or workflow, **ADSR Sounds** ([adsrsounds.com](https://www.adsrsounds.com/?a_aid=plugindrop&data1=splice-vs-loopcloud-2026)) is a pay-per-download alternative with no monthly fee. You buy individual packs or sounds without committing to recurring billing. The library is smaller than Splice or Loopcloud, but the pricing model suits producers who sample infrequently.
 
 Plugin Boutique also periodically lists sample pack deals and bundles. Check current offers: [Plugin Boutique Deals](https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=splice-vs-loopcloud&chan=art&data1=splice-vs-loopcloud-2026).
 

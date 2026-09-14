@@ -259,7 +259,7 @@ const datasetLD = {
                     <td class="mono">{formatPrice(d.sale)}</td>
                     <td><span class="off-badge">-{d.pct_off}%</span></td>
                     <td class="mono">{d.date}</td>
-                    <td><a href={pbLink(d.pb_url)} class="cta-btn-sm" target="_blank" rel="noopener sponsored">View deal</a></td>
+                    <td><a href={pbLink(d.pb_url, 'chan=sale-stats')} class="cta-btn-sm" target="_blank" rel="noopener sponsored">View deal</a></td>
                   </tr>
                 ))}
               </tbody>

@@ -24,7 +24,7 @@ saleExpiry: "2026-07-10"
 
 <div class="audio-embed">
 <audio controls style="width:100%">
-  <source src="https://adsrsounds.com/mp3/2307807-2310268694.mp3">
+  <source src="https://adsrsounds.com/mp3/2307807-2310268694.mp3?data1=vandalism-shocking-afro-house-for-vital-8aafc8">
 </audio>
 </div>
 

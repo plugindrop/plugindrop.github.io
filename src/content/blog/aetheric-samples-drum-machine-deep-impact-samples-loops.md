@@ -23,7 +23,7 @@ saleExpirySource: "fallback"
 
 <div class="audio-embed">
 <audio controls style="width:100%">
-  <source src="https://adsrsounds.com/mp3/2238493-1994721519.mp3">
+  <source src="https://adsrsounds.com/mp3/2238493-1994721519.mp3?data1=aetheric-samples-drum-machine-deep-impact-samples-loops">
 </audio>
 </div>
 

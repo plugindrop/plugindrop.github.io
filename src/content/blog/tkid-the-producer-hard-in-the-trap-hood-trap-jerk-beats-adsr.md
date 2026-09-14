@@ -3,7 +3,7 @@ title: "Tkid The Producer Hard In The Trap Hood Trap Jerk Beats"
 description: "Tkid The Producer's Hard In The Trap Hood Trap Jerk Beats pack is currently available on ADSR Sounds — a street-ready collection of trap and jerk-style beats"
 pubDate: "2026-04-19T04:11:28Z"
 tags: ["sale", "music-production"]
-affiliate: "https://www.adsrsounds.com/product/presets/tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats/?a_aid=plugindrop&utm_source=plugindrop&utm_medium=article&utm_campaign=tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats-adsr"
+affiliate: "https://www.adsrsounds.com/product/presets/tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats/?a_aid=plugindrop&utm_source=plugindrop&utm_medium=article&utm_campaign=tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats-adsr&data1=tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats-adsr"
 heroImage: "/images/tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats-adsr.jpg"
 dealPrice: "$9.8"
 originalPrice: "$14"
@@ -13,7 +13,7 @@ draft: true
 saleExpiry: "2026-05-19"
 saleExpirySource: "fallback"
 ---
-**TL;DR:** Tkid The Producer's *Hard In The Trap Hood Trap Jerk Beats* pack is currently available on ADSR Sounds — a street-ready collection of trap and jerk-style beats built for producers working in the harder end of hip-hop. Check the current deal price and savings on [ADSR Sounds](https://www.adsrsounds.com/product/presets/tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats/?utm_source=plugindrop&utm_medium=article&utm_campaign=tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats-adsr) before it changes.
+**TL;DR:** Tkid The Producer's *Hard In The Trap Hood Trap Jerk Beats* pack is currently available on ADSR Sounds — a street-ready collection of trap and jerk-style beats built for producers working in the harder end of hip-hop. Check the current deal price and savings on [ADSR Sounds](https://www.adsrsounds.com/product/presets/tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats/?utm_source=plugindrop&utm_medium=article&utm_campaign=tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats-adsr&data1=tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats-adsr) before it changes.
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $14
@@ -22,7 +22,7 @@ saleExpirySource: "fallback"
 
 <div class="audio-embed">
 <audio controls style="width:100%">
-  <source src="https://adsrsounds.com/mp3/2306307-2303705495.mp3">
+  <source src="https://adsrsounds.com/mp3/2306307-2303705495.mp3?data1=tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats-adsr">
 </audio>
 </div>
 
@@ -69,7 +69,7 @@ Pricing on niche producer packs like this can shift, and ADSR Sounds updates dea
 
 **
 
-[Check the current deal on ADSR Sounds →](https://www.adsrsounds.com/product/presets/tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats/?utm_source=plugindrop&utm_medium=article&utm_campaign=tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats-adsr)
+[Check the current deal on ADSR Sounds →](https://www.adsrsounds.com/product/presets/tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats/?utm_source=plugindrop&utm_medium=article&utm_campaign=tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats-adsr&data1=tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats-adsr)
 
 ---
 
@@ -105,7 +105,7 @@ A: Refund policies for digital downloads vary. Check ADSR Sounds' official terms
 
 Hard trap and jerk beats with a specific regional flavor — this pack is for producers who know exactly what sound they're after. Don't sleep on the current pricing.
 
-[Grab Tkid The Producer Hard In The Trap Hood Trap Jerk Beats on ADSR Sounds →](https://www.adsrsounds.com/product/presets/tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats/?utm_source=plugindrop&utm_medium=article&utm_campaign=tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats-adsr)
+[Grab Tkid The Producer Hard In The Trap Hood Trap Jerk Beats on ADSR Sounds →](https://www.adsrsounds.com/product/presets/tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats/?utm_source=plugindrop&utm_medium=article&utm_campaign=tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats-adsr&data1=tkid-the-producer-hard-in-the-trap-hood-trap-jerk-beats-adsr)
 
 ---
 

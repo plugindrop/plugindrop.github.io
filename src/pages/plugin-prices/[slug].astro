@@ -11,8 +11,8 @@ import { isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs'
 import { getCollection } from 'astro:content';
 
 const AFF = "a_aid=69cb95abe1763";
-const pbLink = (path: string | null | undefined) =>
-  !path ? '#' : path.startsWith('http') ? path : `https://www.pluginboutique.com${path}?${AFF}`;
+const pbLink = (path: string | null | undefined, extraParams = '') =>
+  !path ? '#' : path.startsWith('http') ? path : `https://www.pluginboutique.com${path}?${AFF}${extraParams ? `&${extraParams}` : ''}`;
 
 interface HistoryEntry {
   date: string;
@@ -917,7 +917,7 @@ const faqLD = {
 
         <div class="cta-row">
           <a
-            href={pbLink(entry.pb_url)}
+            href={pbLink(entry.pb_url, 'chan=trk')}
             class="cta-primary"
             target="_blank"
             rel="noopener sponsored"

@@ -21,7 +21,7 @@ saleExpirySource: "fallback"
 
 <div class="audio-embed">
 <audio controls style="width:100%">
-  <source src="https://adsrsounds.com/mp3/2312090-2350624976.mp3">
+  <source src="https://adsrsounds.com/mp3/2312090-2350624976.mp3?data1=banger-samples-vicious-hip-hop-trap-samples-d5ace1">
 </audio>
 </div>
 

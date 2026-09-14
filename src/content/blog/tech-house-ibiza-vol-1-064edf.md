@@ -3,7 +3,7 @@ title: "67% Off Tech House Ibiza Vol 1"
 description: "Tech House Ibiza Vol 1 is currently 67% off at ADSR Sounds — dropping from ~~$48~~ to just $16. That's a steep discount on a genre-specific preset pack built"
 pubDate: "2026-04-21T08:13:09Z"
 tags: ["sale", "preset-pack", "music-production"]
-affiliate: "https://www.adsrsounds.com/product/presets/tech-house-ibiza-vol-1/?a_aid=plugindrop&utm_source=plugindrop&utm_medium=article&utm_campaign=tech-house-ibiza-vol-1-064edf"
+affiliate: "https://www.adsrsounds.com/product/presets/tech-house-ibiza-vol-1/?a_aid=plugindrop&utm_source=plugindrop&utm_medium=article&utm_campaign=tech-house-ibiza-vol-1-064edf&data1=tech-house-ibiza-vol-1-064edf"
 heroImage: "/images/tech-house-ibiza-vol-1-064edf.jpg"
 score: 5.35
 dealPrice: "$16"
@@ -12,7 +12,7 @@ discount: "67% OFF"
 xText: "brand new tech house pack is 67% off already. doesn't usually happen this fast. if you've wanted deep ibiza sounds, now's the move"
 draft: true
 ---
-**TL;DR:** Tech House Ibiza Vol 1 is currently 67% off at ADSR Sounds — dropping from ~~$48~~ to just $16. That's a steep discount on a genre-specific preset pack built for Ibiza-flavored tech house production. [Grab it here while the deal is live.](https://www.adsrsounds.com/product/presets/tech-house-ibiza-vol-1/?utm_source=plugindrop&utm_medium=article&utm_campaign=tech-house-ibiza-vol-1-064edf)
+**TL;DR:** Tech House Ibiza Vol 1 is currently 67% off at ADSR Sounds — dropping from ~~$48~~ to just $16. That's a steep discount on a genre-specific preset pack built for Ibiza-flavored tech house production. [Grab it here while the deal is live.](https://www.adsrsounds.com/product/presets/tech-house-ibiza-vol-1/?utm_source=plugindrop&utm_medium=article&utm_campaign=tech-house-ibiza-vol-1-064edf&data1=tech-house-ibiza-vol-1-064edf)
 
 ---
 
@@ -51,7 +51,7 @@ A 67% discount is a significant cut — most sound packs on ADSR sit at or near 
 
 > **Note:** Verify current pricing on the product page — deals can change without notice.
 
-[Get Tech House Ibiza Vol 1 for $16 at ADSR Sounds](https://www.adsrsounds.com/product/presets/tech-house-ibiza-vol-1/?utm_source=plugindrop&utm_medium=article&utm_campaign=tech-house-ibiza-vol-1-064edf)
+[Get Tech House Ibiza Vol 1 for $16 at ADSR Sounds](https://www.adsrsounds.com/product/presets/tech-house-ibiza-vol-1/?utm_source=plugindrop&utm_medium=article&utm_campaign=tech-house-ibiza-vol-1-064edf&data1=tech-house-ibiza-vol-1-064edf)
 
 ---
 
@@ -85,7 +85,7 @@ A: Deal end dates aren't always published. Prices on ADSR can revert without not
 
 ## Get the Deal
 
-Tech House Ibiza Vol 1 is down to $16 — that's ~~$48~~ slashed by two-thirds, and it won't stay at that price indefinitely. [Lock in the deal at ADSR Sounds before it reverts.](https://www.adsrsounds.com/product/presets/tech-house-ibiza-vol-1/?utm_source=plugindrop&utm_medium=article&utm_campaign=tech-house-ibiza-vol-1-064edf)
+Tech House Ibiza Vol 1 is down to $16 — that's ~~$48~~ slashed by two-thirds, and it won't stay at that price indefinitely. [Lock in the deal at ADSR Sounds before it reverts.](https://www.adsrsounds.com/product/presets/tech-house-ibiza-vol-1/?utm_source=plugindrop&utm_medium=article&utm_campaign=tech-house-ibiza-vol-1-064edf&data1=tech-house-ibiza-vol-1-064edf)
 
 ---
 

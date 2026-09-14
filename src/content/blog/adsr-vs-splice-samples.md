@@ -20,11 +20,11 @@ draft: false
 
 | Platform | Model | Best For | Get It |
 |----------|-------|----------|--------|
-| ADSR Sounds Subscription | Pack/subscription access | Genre specialists, quality-focused producers | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) |
+| ADSR Sounds Subscription | Pack/subscription access | Genre specialists, quality-focused producers | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop&data1=adsr-vs-splice-samples) |
 | Splice Sounds Subscription | Credit-based per sample | High-volume downloaders, genre explorers | [Splice](https://splice.com/sounds) |
-| ADSR Sounds + Plugin Boutique Ecosystem | Subscription + store | Producers who also buy plugins and courses | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) |
+| ADSR Sounds + Plugin Boutique Ecosystem | Subscription + store | Producers who also buy plugins and courses | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop&data1=adsr-vs-splice-samples) |
 | Splice Higher Credit Tiers | Credit-based (scaled) | Producers downloading 100+ samples monthly | [Splice](https://splice.com/sounds) |
-| ADSR Free Packs | Free tier | Producers evaluating curation quality before committing | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) |
+| ADSR Free Packs | Free tier | Producers evaluating curation quality before committing | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop&data1=adsr-vs-splice-samples) |
 
 ---
 
@@ -59,7 +59,7 @@ The limitation is straightforward: the library is substantially smaller than Spl
 
 **Best for:** Electronic music producers in house, techno, and drum & bass; producers who also buy plugins and want a unified platform; producers who prioritize high pack quality over catalog breadth.
 
-[→ Browse ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop)
+[→ Browse ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop&data1=adsr-vs-splice-samples)
 
 ---
 
@@ -118,7 +118,7 @@ ADSR Sounds' subscription gives access to the curated library — you download w
 - **Price:** Subscription (current tiers on platform)
 - **Why upgrade:** Free and individual pack purchases give access to specific content, but the subscription unlocks the full curated library with ongoing additions. The value proposition improves with production cadence — producers working consistently several times a week will get better ROI than casual users.
 
-[→ Get ADSR Sounds Subscription (Official Site)](https://www.adsrsounds.com/?a_aid=plugindrop)
+[→ Get ADSR Sounds Subscription (Official Site)](https://www.adsrsounds.com/?a_aid=plugindrop&data1=adsr-vs-splice-samples)
 
 ### Splice Subscription — Scale credit volume for better per-sample economics
 
@@ -144,7 +144,7 @@ ADSR Sounds' subscription gives access to the curated library — you download w
 | Ecosystem | Plugin Boutique (plugins + education) | Standalone; stems access on select content |
 | Community Reputation | "High quality-per-sample ratio" | "Go-to for volume, search, and variety" |
 | Free Entry Point | Free packs available | Free trial credits on signup |
-| Get It | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) | [Splice](https://splice.com/sounds) |
+| Get It | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop&data1=adsr-vs-splice-samples) | [Splice](https://splice.com/sounds) |
 
 ---
 

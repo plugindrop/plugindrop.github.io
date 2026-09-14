@@ -3,7 +3,7 @@ title: "Producerlife 2 Multi Genre Loops Shots Presets Kits"
 description: "Producerlife 2 is a massive multi-genre sample collection — loops, one-shots, presets, and kits all in one bundle — currently discounted at ADSR Sounds."
 pubDate: "2026-04-19T04:11:27Z"
 tags: ["sale", "music-production"]
-affiliate: "https://www.adsrsounds.com/product/presets/producerlife-2-multi-genre-loops-shots-presets-kits/?a_aid=plugindrop&utm_source=plugindrop&utm_medium=article&utm_campaign=producerlife-2-multi-genre-loops-shots-presets-kits-adsr-dea"
+affiliate: "https://www.adsrsounds.com/product/presets/producerlife-2-multi-genre-loops-shots-presets-kits/?a_aid=plugindrop&utm_source=plugindrop&utm_medium=article&utm_campaign=producerlife-2-multi-genre-loops-shots-presets-kits-adsr-dea&data1=producerlife-2-multi-genre-loops-shots-presets-kits-adsr-dea"
 heroImage: "/images/producerlife-2-multi-genre-loops-shots-presets-kits-adsr-dea.jpg"
 dealPrice: "$16.8"
 originalPrice: "$24"
@@ -12,7 +12,7 @@ score: 7.7
 draft: true
 saleExpiry: "2026-08-23"
 ---
-**TL;DR:** Producerlife 2 is a massive multi-genre sample collection — loops, one-shots, presets, and kits all in one bundle — currently discounted at ADSR Sounds. Check the product page for the current deal price and savings. [Grab it here before the price changes.](https://www.adsrsounds.com/product/presets/producerlife-2-multi-genre-loops-shots-presets-kits/?utm_source=plugindrop&utm_medium=article&utm_campaign=producerlife-2-multi-genre-loops-shots-presets-kits-adsr-dea)
+**TL;DR:** Producerlife 2 is a massive multi-genre sample collection — loops, one-shots, presets, and kits all in one bundle — currently discounted at ADSR Sounds. Check the product page for the current deal price and savings. [Grab it here before the price changes.](https://www.adsrsounds.com/product/presets/producerlife-2-multi-genre-loops-shots-presets-kits/?utm_source=plugindrop&utm_medium=article&utm_campaign=producerlife-2-multi-genre-loops-shots-presets-kits-adsr-dea&data1=producerlife-2-multi-genre-loops-shots-presets-kits-adsr-dea)
 
 ## Price Context (tracked by PluginDrop)
 - Tracked since 2026-08-23 (4 observations)
@@ -24,7 +24,7 @@ saleExpiry: "2026-08-23"
 
 <div class="audio-embed">
 <audio controls style="width:100%">
-  <source src="https://adsrsounds.com/mp3/2098937-1567607698.mp3">
+  <source src="https://adsrsounds.com/mp3/2098937-1567607698.mp3?data1=producerlife-2-multi-genre-loops-shots-presets-kits-adsr-dea">
 </audio>
 </div>
 
@@ -70,7 +70,7 @@ Exact pricing fluctuates on ADSR Sounds — the deal rate shown may be time-limi
 
 **
 
-[See the current deal price on ADSR Sounds →](https://www.adsrsounds.com/product/presets/producerlife-2-multi-genre-loops-shots-presets-kits/?utm_source=plugindrop&utm_medium=article&utm_campaign=producerlife-2-multi-genre-loops-shots-presets-kits-adsr-dea)
+[See the current deal price on ADSR Sounds →](https://www.adsrsounds.com/product/presets/producerlife-2-multi-genre-loops-shots-presets-kits/?utm_source=plugindrop&utm_medium=article&utm_campaign=producerlife-2-multi-genre-loops-shots-presets-kits-adsr-dea&data1=producerlife-2-multi-genre-loops-shots-presets-kits-adsr-dea)
 
 ---
 
@@ -105,7 +105,7 @@ A: ADSR Sounds' refund policy applies — check their official site for current 
 
 A multi-genre bundle covering loops, shots, presets, and kits in one shot is a solid addition to any production library — especially at a discounted rate. Don't sleep on it if the price aligns with your budget.
 
-[Check the current deal price on ADSR Sounds →](https://www.adsrsounds.com/product/presets/producerlife-2-multi-genre-loops-shots-presets-kits/?utm_source=plugindrop&utm_medium=article&utm_campaign=producerlife-2-multi-genre-loops-shots-presets-kits-adsr-dea)
+[Check the current deal price on ADSR Sounds →](https://www.adsrsounds.com/product/presets/producerlife-2-multi-genre-loops-shots-presets-kits/?utm_source=plugindrop&utm_medium=article&utm_campaign=producerlife-2-multi-genre-loops-shots-presets-kits-adsr-dea&data1=producerlife-2-multi-genre-loops-shots-presets-kits-adsr-dea)
 
 ---
 

@@ -18,7 +18,7 @@ If you only add one Serum 2 preset pack to your library this month, make it Blue
 
 <div class="audio-embed">
 <audio controls style="width:100%">
-  <source src="https://adsrsounds.com/mp3/2291459-2226893729.mp3">
+  <source src="https://adsrsounds.com/mp3/2291459-2226893729.mp3?data1=black-octopus-sound-blueprints-melodic-techno-for-serum-2-by">
 </audio>
 </div>
 

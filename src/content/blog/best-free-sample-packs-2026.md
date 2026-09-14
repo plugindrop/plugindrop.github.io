@@ -20,14 +20,14 @@ heroImage: "/images/best-free-sample-packs-2026_og.jpg"
 
 | Source | Cost | Best For | Get It |
 |--------|------|----------|--------|
-| ADSR Sounds | Free tier | All genres, curated library | [Free Download](https://www.adsrsounds.com/?a_aid=plugindrop) |
+| ADSR Sounds | Free tier | All genres, curated library | [Free Download](https://www.adsrsounds.com/?a_aid=plugindrop&data1=best-free-sample-packs-2026) |
 | MusicRadar | Free | Rock, electronic, drum kits | See guide |
 | Cymatics | Free | Trap, EDM, modern hip-hop | See guide |
 | Freesound.org | Free | Sound design, FX, field recording | See guide |
 | Looperman | Free | Loops, a cappellas, stems | See guide |
 | Bedroom Producers Blog | Free | Weekly curated free releases | See guide |
 | Loopmasters | Paid (~$15+) | Pro genre-specific packs | [Loopmasters](https://www.loopmasters.com/) |
-| ADSR Sounds Packs | Paid | Deep genre expansion | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) |
+| ADSR Sounds Packs | Paid | Deep genre expansion | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop&data1=best-free-sample-packs-2026) |
 
 ---
 
@@ -59,7 +59,7 @@ What separates ADSR from raw community upload sites is the metadata quality. Com
 
 **Best for:** Producers building a first cross-genre sample library and anyone who needs accurate BPM/key metadata without manual tagging.
 
-[→ Browse ADSR Sounds Free Samples](https://www.adsrsounds.com/?a_aid=plugindrop)
+[→ Browse ADSR Sounds Free Samples](https://www.adsrsounds.com/?a_aid=plugindrop&data1=best-free-sample-packs-2026)
 
 ---
 
@@ -155,7 +155,7 @@ The free sources above cover most production needs. These two paid platforms con
 - **Price:** Varies by pack
 - **Why upgrade:** The free tier at ADSR Sounds gives a strong cross-section of the library, but paid packs offer deeper genre coverage, more one-shots per category, and more consistently processed material. For producers who have worked through the free library in their core genre, the paid packs from ADSR are a natural extension of the same curation standard they've already relied on — no recalibration required.
 
-[→ Get ADSR Sounds Packs (Official Site)](https://www.adsrsounds.com/?a_aid=plugindrop)
+[→ Get ADSR Sounds Packs (Official Site)](https://www.adsrsounds.com/?a_aid=plugindrop&data1=best-free-sample-packs-2026)
 
 ---
 
@@ -163,14 +163,14 @@ The free sources above cover most production needs. These two paid platforms con
 
 | Source | Cost | Type | Highlights | CTA |
 |--------|------|------|------------|-----|
-| ADSR Sounds | Free tier | Curated marketplace | Large library, reliable metadata, multi-genre | [Free Download](https://www.adsrsounds.com/?a_aid=plugindrop) |
+| ADSR Sounds | Free tier | Curated marketplace | Large library, reliable metadata, multi-genre | [Free Download](https://www.adsrsounds.com/?a_aid=plugindrop&data1=best-free-sample-packs-2026) |
 | MusicRadar | Free | Editorial releases | Genre variety, no account required | See guide |
 | Cymatics | Free | Developer packs | Trap/EDM drums, mix-ready one-shots | See guide |
 | Freesound.org | Free | CC community library | Unique textures, FX, field recordings | See guide |
 | Looperman | Free | Community uploads | A cappellas, loops, BPM/key tagged | See guide |
 | Bedroom Producers Blog | Free | Editorial curation | Weekly roundups of best new free releases | See guide |
 | Loopmasters | Paid (~$15+) | Pro packs | Mix-ready, genre-specific, high production value | [Loopmasters](https://www.loopmasters.com/) |
-| ADSR Sounds Packs | Paid | Curated packs | Deep genre coverage, same curation standard as free tier | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop) |
+| ADSR Sounds Packs | Paid | Curated packs | Deep genre coverage, same curation standard as free tier | [ADSR Sounds](https://www.adsrsounds.com/?a_aid=plugindrop&data1=best-free-sample-packs-2026) |
 
 ---
 
