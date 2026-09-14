@@ -1,0 +1,240 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import { SITE_TITLE } from '../../consts';
+import manifestRaw from '../../data/programmatic_pages.json';
+import priceData from '../../data/price_history.json';
+import {
+  rowFor,
+  compareHeadline,
+  pairSparklineNote,
+  pairFaqs,
+  discountFrequencyLabel,
+  type ManifestPair,
+  type ProgrammaticManifest,
+  type ProgrammaticPriceData,
+  type VerdictRow,
+} from '../../lib/programmaticUtils';
+import { formatPrice, pbLink } from '../../lib/priceUtils';
+
+export async function getStaticPaths() {
+  const manifest = manifestRaw as ProgrammaticManifest;
+  const data = priceData as ProgrammaticPriceData;
+  return manifest.pairs
+    .filter((p) => p.status === 'published')
+    .map((pair) => ({
+      params: { pair: pair.slug },
+      props: {
+        pair,
+        rowA: rowFor(pair.a, data),
+        rowB: rowFor(pair.b, data),
+      },
+    }))
+    .filter((entry) => entry.props.rowA !== null && entry.props.rowB !== null);
+}
+
+const { pair, rowA, rowB } = Astro.props as { pair: ManifestPair; rowA: VerdictRow; rowB: VerdictRow };
+
+const headline = compareHeadline(rowA, rowB);
+const sparklineNote = pairSparklineNote(rowA, rowB);
+const faqs = pairFaqs(rowA, rowB);
+
+const pageTitle = `${rowA.name} vs ${rowB.name}: Price History, Discounts & Which to Buy Now | ${SITE_TITLE}`;
+const pageDescription = `${rowA.name} vs ${rowB.name} — current price, lowest tracked price, and discount frequency, compared side by side from our own price tracker.`;
+
+const faqLD = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
+
+function verdictClass(v: VerdictRow['verdict']): string {
+  return v === 'BUY NOW' ? 'buy-now' : v === 'FAIR SALE' ? 'fair-sale' : v === 'AVERAGE' ? 'average' : 'wait';
+}
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead title={pageTitle} description={pageDescription} />
+    <script type="application/ld+json" set:html={JSON.stringify(faqLD)} />
+    <style>
+      main { max-width: 960px; margin: 0 auto; padding: 2rem 1rem 3rem; }
+
+      .breadcrumb { font-size: 0.8rem; color: var(--text-muted); margin-bottom: 1.5rem; }
+      .breadcrumb a { color: var(--text-muted); text-decoration: none; }
+      .breadcrumb a:hover { text-decoration: underline; }
+      .breadcrumb .sep { margin: 0 0.4rem; }
+
+      h1 {
+        margin: 0 0 0.85rem; color: var(--text-primary); font-family: var(--font-display);
+        font-size: clamp(1.5rem, 4.2vw, 2.2rem); font-weight: 400; line-height: 1.25;
+      }
+      .page-intro { margin: 0 0 2.5rem; color: var(--text-secondary); font-size: 1rem; line-height: 1.6; }
+
+      h2.section-title { font-size: 1.25rem; font-weight: 800; margin: 0 0 0.4rem; color: var(--text-primary); }
+      .section-sub { font-size: 0.82rem; color: var(--text-muted); margin: 0 0 1.25rem; }
+      section.page-section { margin: 3rem 0; }
+
+      .card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; }
+      .price-card {
+        background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius);
+        padding: 1.25rem 1.5rem;
+      }
+      .price-card h3 { margin: 0 0 0.75rem; font-size: 1.05rem; color: var(--text-primary); }
+      .price-card .current {
+        font-size: 1.6rem; font-weight: 800; color: var(--text-primary);
+        font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+      }
+      .price-card .regular {
+        text-decoration: line-through; color: var(--text-muted); margin-left: 0.5rem; font-size: 0.95rem;
+        font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+      }
+      .price-card dl { margin: 0.75rem 0 1rem; display: flex; flex-direction: column; gap: 0.35rem; font-size: 0.85rem; }
+      .price-card dl div { display: flex; justify-content: space-between; gap: 1rem; }
+      .price-card dt { color: var(--text-muted); }
+      .price-card dd { margin: 0; color: var(--text-secondary); }
+      .verdict-chip {
+        display: inline-block; padding: 0.2rem 0.55rem; border-radius: 4px;
+        font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em;
+      }
+      .verdict-chip.buy-now { background: rgba(74,222,128,0.15); color: #4ade80; }
+      .verdict-chip.fair-sale { background: rgba(250,204,21,0.15); color: #facc15; }
+      .verdict-chip.average { background: var(--bg-highest); color: var(--text-muted); }
+      .verdict-chip.wait { background: rgba(96,165,250,0.15); color: #60a5fa; }
+      .price-card .cta-secondary {
+        display: inline-block; margin-top: 0.5rem; padding: 0.6rem 1.1rem; border-radius: 8px;
+        border: 1px solid var(--border); color: var(--text-secondary); text-decoration: none;
+        font-weight: 700; font-size: 0.85rem; transition: border-color 0.15s, color 0.15s;
+      }
+      .price-card .cta-secondary:hover { border-color: var(--accent); color: var(--accent); }
+
+      .sparkline-svg { display: block; width: 100%; height: 36px; }
+
+      .empty-note { color: var(--text-muted); font-size: 0.9rem; margin: 0; }
+
+      .link-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.5rem; }
+      .link-list a { color: var(--accent); font-size: 0.9rem; text-decoration: none; }
+      .link-list a:hover { text-decoration: underline; }
+
+      .faq-list { display: flex; flex-direction: column; gap: 0.75rem; }
+      .faq-item { background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); padding: 0 1.25rem; overflow: hidden; }
+      .faq-item summary {
+        cursor: pointer; list-style: none; padding: 1rem 0; font-weight: 700; font-size: 0.95rem;
+        color: var(--text-primary); display: flex; justify-content: space-between; align-items: center; gap: 1rem;
+      }
+      .faq-item summary::-webkit-details-marker { display: none; }
+      .faq-item summary::after { content: '+'; color: var(--accent); font-size: 1.3rem; font-weight: 400; flex-shrink: 0; }
+      .faq-item[open] summary::after { content: '−'; }
+      .faq-item p { color: var(--text-secondary); font-size: 0.88rem; line-height: 1.6; margin: 0 0 1rem; }
+
+      .trust-line {
+        margin-top: 2.5rem; padding: 1rem 1.25rem; border-left: 3px solid var(--accent-muted);
+        color: var(--text-muted); font-size: 0.82rem; line-height: 1.6;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="#main-content" class="sr-only">Skip to content</a>
+    <Header />
+    <main id="main-content">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a><span class="sep">/</span>
+        <a href="/compare">Compare</a><span class="sep">/</span>
+        <span>{rowA.name} vs {rowB.name}</span>
+      </nav>
+
+      <h1>{rowA.name} vs {rowB.name}: which is the better buy right now?</h1>
+      <p class="page-intro">{headline}</p>
+
+      <section class="page-section">
+        <h2 class="section-title">Price, side by side</h2>
+        <div class="card-grid">
+          {[rowA, rowB].map((row) => (
+            <div class="price-card">
+              <h3>{row.name}</h3>
+              <div>
+                <span class="current">{formatPrice(row.current)}</span>
+                {row.regular !== null && row.current !== null && row.regular > row.current && (
+                  <span class="regular">{formatPrice(row.regular)}</span>
+                )}
+              </div>
+              <dl>
+                <div><dt>Regular</dt><dd>{formatPrice(row.regular)}</dd></div>
+                <div><dt>Lowest tracked</dt><dd>{formatPrice(row.allTimeLow)}</dd></div>
+                <div><dt>Verdict</dt><dd><span class={`verdict-chip ${verdictClass(row.verdict)}`}>{row.verdict}</span></dd></div>
+                <div><dt>Last checked</dt><dd>{row.checkedLabel ?? '—'}</dd></div>
+              </dl>
+              {row.pbUrl && (
+                <a href={pbLink(row.pbUrl, 'chan=trk')} class="cta-secondary" target="_blank" rel="noopener sponsored">
+                  Check price at Plugin Boutique
+                </a>
+              )}
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section class="page-section">
+        <h2 class="section-title">Price history</h2>
+        {sparklineNote ? (
+          <p class="empty-note">{sparklineNote}</p>
+        ) : (
+          <div class="card-grid">
+            {[rowA, rowB].map((row) => (
+              <div class="price-card">
+                <h3>{row.name}</h3>
+                <svg viewBox="0 0 100 28" class="sparkline-svg" preserveAspectRatio="none" role="img" aria-label={`Price trend for ${row.name}`}>
+                  <polyline points={row.sparkline ?? ''} fill="none" stroke="var(--accent)" stroke-width="2" />
+                </svg>
+              </div>
+            ))}
+          </div>
+        )}
+      </section>
+
+      <section class="page-section">
+        <h2 class="section-title">Which one discounts more often</h2>
+        <div class="card-grid">
+          {[rowA, rowB].map((row) => (
+            <div class="price-card">
+              <h3>{row.name}</h3>
+              <p class="empty-note">{discountFrequencyLabel(row.discountFrequency)}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {(pair.when_does.a || pair.when_does.b || pair.editorial_post) && (
+        <section class="page-section">
+          <h2 class="section-title">More on these plugins</h2>
+          <ul class="link-list">
+            {pair.when_does.a && <li><a href={`/posts/${pair.when_does.a}/`}>When does {rowA.name} go on sale? →</a></li>}
+            {pair.when_does.b && <li><a href={`/posts/${pair.when_does.b}/`}>When does {rowB.name} go on sale? →</a></li>}
+            {pair.editorial_post && <li><a href={`/posts/${pair.editorial_post}/`}>Comparing {rowA.name} and {rowB.name} by features →</a></li>}
+          </ul>
+        </section>
+      )}
+
+      <section class="page-section">
+        <h2 class="section-title">FAQ</h2>
+        <div class="faq-list">
+          {faqs.map((f) => (
+            <details class="faq-item">
+              <summary>{f.q}</summary>
+              <p>{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <p class="trust-line">Prices checked daily. Data since Apr 2026.</p>
+    </main>
+    <Footer />
+  </body>
+</html>
