@@ -18,6 +18,8 @@ import {
   formatCheckedDate,
   formatPrice,
   slugify,
+  pctOff,
+  sparklinePoints,
   type PriceEntry,
 } from './priceUtils';
 
@@ -78,9 +80,16 @@ function lookupEntry(name: string, priceData: ProgrammaticPriceData): PriceEntry
 
 export type FableVerdict = 'BUY NOW' | 'FAIR SALE' | 'AVERAGE' | 'WAIT';
 
+export interface DiscountFrequency {
+  totalObservations: number;
+  saleObservations: number;
+  maxDiscountPct: number;
+}
+
 export interface VerdictRow {
   name: string;
   slug: string;
+  pbUrl: string | null;
   current: number | null;
   regular: number | null;
   allTimeLow: number | null;
@@ -90,6 +99,34 @@ export interface VerdictRow {
   checkedLabel: string | null;
   hasLiveDrop: boolean;
   rarelyDiscounts: boolean;
+  sparkline: string | null;
+  discountFrequency: DiscountFrequency | null;
+}
+
+// Discount frequency mirrors the same auto_check-only discipline as
+// observation counting elsewhere (design doc §10) — poll/backfill rows don't
+// count as a real "did we check and see a sale" event.
+function discountFrequencyOf(entry: PriceEntry): DiscountFrequency | null {
+  const obs = entry.history.filter((h) => h.source === 'auto_check');
+  if (obs.length === 0) return null;
+
+  let saleObservations = 0;
+  let maxDiscountPct = 0;
+  for (const h of obs) {
+    const pct = pctOff(h.sale, h.regular);
+    if (pct > 0) {
+      saleObservations += 1;
+      if (pct > maxDiscountPct) maxDiscountPct = pct;
+    }
+  }
+  return { totalObservations: obs.length, saleObservations, maxDiscountPct };
+}
+
+export function discountFrequencyLabel(freq: DiscountFrequency | null): string {
+  if (!freq || freq.totalObservations === 0) return 'No record';
+  if (freq.saleObservations === 0) return `Never discounted in ${freq.totalObservations} checks`;
+  const pct = Math.round((freq.saleObservations / freq.totalObservations) * 100);
+  return `On sale in ${pct}% of ${freq.totalObservations} checks (up to ${freq.maxDiscountPct}% off)`;
 }
 
 // TODO(design §5 Step 3): this duplicates fableVerdictLabel() in
