@@ -1,0 +1,552 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-14T10:09:10Z",
+  "source_last_updated": "2026-09-13",
+  "policy": {
+    "min_observations": 3,
+    "require_typical_regular": true,
+    "max_price_ratio": 3.0,
+    "min_products_per_category": 5,
+    "caps": {
+      "compare": 20,
+      "best": 8
+    }
+  },
+  "categories": [
+    {
+      "slug": "bundle",
+      "label": "Bundle",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "products": [
+        "Arturia FX Collection 6 Pro",
+        "Arturia V Collection 11 Pro",
+        "FabFilter Creative Bundle",
+        "FabFilter Total Bundle",
+        "Soundtoys 5.5",
+        "Waves Gold Bundle",
+        "Waves Platinum Bundle"
+      ],
+      "editorial_post": "best-plugin-boutique-black-friday-deals-2026",
+      "when_does_posts": [
+        "when-does-fabfilter-total-bundle-go-on-sale"
+      ],
+      "selection": {
+        "product_count": 7,
+        "median_observations": 15.0
+      }
+    },
+    {
+      "slug": "compressor",
+      "label": "Compressor",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "products": [
+        "FabFilter Pro-MB",
+        "Native Instruments Supercharger GT",
+        "Soundtoys Devil-Loc Deluxe",
+        "Waves API 2500",
+        "Waves CLA-2A"
+      ],
+      "editorial_post": "best-compressor-plugins-2026",
+      "when_does_posts": [],
+      "selection": {
+        "product_count": 5,
+        "median_observations": 18.0
+      }
+    },
+    {
+      "slug": "effects",
+      "label": "Effects",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "products": [
+        "Baby Audio Super VHS",
+        "FabFilter Volcano 3",
+        "Output Portal",
+        "Soundtoys Crystallizer",
+        "Soundtoys FilterFreak",
+        "Soundtoys MicroShift",
+        "Soundtoys PanMan",
+        "Soundtoys Tremolator",
+        "Wavesfactory Trackspacer",
+        "XLN Audio RC-20 Retro Color"
+      ],
+      "editorial_post": "best-arpeggiator-vst-plugins",
+      "when_does_posts": [],
+      "selection": {
+        "product_count": 10,
+        "median_observations": 18.0
+      }
+    },
+    {
+      "slug": "instrument",
+      "label": "Instrument",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "products": [
+        "Arturia Augmented STRINGS",
+        "Spitfire Albion Colossus",
+        "Spitfire Albion ONE",
+        "Spitfire Audio BBC Symphony Orchestra Professional",
+        "Spitfire Symphony Orchestra",
+        "XLN Audio Addictive Keys"
+      ],
+      "editorial_post": null,
+      "when_does_posts": [],
+      "selection": {
+        "product_count": 6,
+        "median_observations": 9.0
+      }
+    },
+    {
+      "slug": "saturation",
+      "label": "Saturation",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "products": [
+        "Baby Audio TAIP",
+        "FabFilter Saturn 2",
+        "Softube Tape",
+        "Soundtoys Decapitator",
+        "Wavesfactory Cassette",
+        "u-he Satin"
+      ],
+      "editorial_post": "best-free-saturation-vst-plugins",
+      "when_does_posts": [],
+      "selection": {
+        "product_count": 6,
+        "median_observations": 20.0
+      }
+    },
+    {
+      "slug": "synth",
+      "label": "Synth",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "products": [
+        "Arturia Jup-8 V",
+        "Arturia Mini V",
+        "Arturia Pigments",
+        "FabFilter Twin 3",
+        "Kilohearts Phase Plant",
+        "Native Instruments Massive",
+        "Native Instruments Massive X",
+        "u-he Bazille",
+        "u-he Diva",
+        "u-he Hive 2",
+        "u-he Repro",
+        "u-he Zebra 3"
+      ],
+      "editorial_post": "best-bass-synth-vst-plugins",
+      "when_does_posts": [
+        "when-does-arturia-pigments-go-on-sale"
+      ],
+      "selection": {
+        "product_count": 12,
+        "median_observations": 20.0
+      }
+    },
+    {
+      "slug": "vocal",
+      "label": "Vocal",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "products": [
+        "FabFilter Pro-DS",
+        "Soundtoys Little AlterBoy",
+        "Spitfire Eric Whitacre Choir",
+        "Waves Renaissance Vox",
+        "iZotope VocalSynth 2"
+      ],
+      "editorial_post": "best-free-choir-vst-plugins",
+      "when_does_posts": [],
+      "selection": {
+        "product_count": 5,
+        "median_observations": 18.0
+      }
+    }
+  ],
+  "pairs": [
+    {
+      "slug": "arturia-augmented-strings-vs-spitfire-albion-colossus",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "Arturia Augmented STRINGS",
+      "b": "Spitfire Albion Colossus",
+      "category": "instrument",
+      "selection": {
+        "score": 66,
+        "demand_a": 0,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": null,
+        "b": null
+      },
+      "editorial_post": null
+    },
+    {
+      "slug": "arturia-augmented-strings-vs-spitfire-albion-one",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "Arturia Augmented STRINGS",
+      "b": "Spitfire Albion ONE",
+      "category": "instrument",
+      "selection": {
+        "score": 66,
+        "demand_a": 0,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": null,
+        "b": null
+      },
+      "editorial_post": null
+    },
+    {
+      "slug": "arturia-pigments-vs-fabfilter-twin-3",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "Arturia Pigments",
+      "b": "FabFilter Twin 3",
+      "category": "synth",
+      "selection": {
+        "score": 29,
+        "demand_a": 1,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": "when-does-arturia-pigments-go-on-sale",
+        "b": null
+      },
+      "editorial_post": null
+    },
+    {
+      "slug": "arturia-pigments-vs-u-he-bazille",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "Arturia Pigments",
+      "b": "u-he Bazille",
+      "category": "synth",
+      "selection": {
+        "score": 29,
+        "demand_a": 1,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": "when-does-arturia-pigments-go-on-sale",
+        "b": null
+      },
+      "editorial_post": null
+    },
+    {
+      "slug": "arturia-pigments-vs-u-he-diva",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "Arturia Pigments",
+      "b": "u-he Diva",
+      "category": "synth",
+      "selection": {
+        "score": 29,
+        "demand_a": 1,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": "when-does-arturia-pigments-go-on-sale",
+        "b": null
+      },
+      "editorial_post": null
+    },
+    {
+      "slug": "arturia-pigments-vs-u-he-hive-2",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "Arturia Pigments",
+      "b": "u-he Hive 2",
+      "category": "synth",
+      "selection": {
+        "score": 29,
+        "demand_a": 1,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": "when-does-arturia-pigments-go-on-sale",
+        "b": null
+      },
+      "editorial_post": null
+    },
+    {
+      "slug": "arturia-pigments-vs-u-he-repro",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "Arturia Pigments",
+      "b": "u-he Repro",
+      "category": "synth",
+      "selection": {
+        "score": 29,
+        "demand_a": 1,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": "when-does-arturia-pigments-go-on-sale",
+        "b": null
+      },
+      "editorial_post": null
+    },
+    {
+      "slug": "arturia-pigments-vs-u-he-zebra-3",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "Arturia Pigments",
+      "b": "u-he Zebra 3",
+      "category": "synth",
+      "selection": {
+        "score": 29,
+        "demand_a": 1,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": "when-does-arturia-pigments-go-on-sale",
+        "b": null
+      },
+      "editorial_post": null
+    },
+    {
+      "slug": "fabfilter-pro-ds-vs-izotope-vocalsynth-2",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "FabFilter Pro-DS",
+      "b": "iZotope VocalSynth 2",
+      "category": "vocal",
+      "selection": {
+        "score": 44,
+        "demand_a": 0,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": null,
+        "b": null
+      },
+      "editorial_post": null
+    },
+    {
+      "slug": "fabfilter-pro-ds-vs-spitfire-eric-whitacre-choir",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "FabFilter Pro-DS",
+      "b": "Spitfire Eric Whitacre Choir",
+      "category": "vocal",
+      "selection": {
+        "score": 90,
+        "demand_a": 0,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": null,
+        "b": null
+      },
+      "editorial_post": null
+    },
+    {
+      "slug": "fabfilter-pro-g-vs-izotope-insight-2",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "FabFilter Pro-G",
+      "b": "iZotope Insight 2",
+      "category": "utility",
+      "selection": {
+        "score": 44,
+        "demand_a": 0,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": null,
+        "b": null
+      },
+      "editorial_post": null
+    },
+    {
+      "slug": "fabfilter-pro-g-vs-izotope-neutron-5",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "FabFilter Pro-G",
+      "b": "iZotope Neutron 5",
+      "category": "utility",
+      "selection": {
+        "score": 44,
+        "demand_a": 0,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": null,
+        "b": null
+      },
+      "editorial_post": null
+    },
+    {
+      "slug": "fabfilter-pro-l-2-vs-waves-l1-ultramaximizer",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "FabFilter Pro-L 2",
+      "b": "Waves L1 Ultramaximizer",
+      "category": "limiter",
+      "selection": {
+        "score": 29,
+        "demand_a": 1,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": "when-does-fabfilter-pro-l-2-go-on-sale",
+        "b": null
+      },
+      "editorial_post": null
+    },
+    {
+      "slug": "fabfilter-saturn-2-vs-u-he-satin",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "FabFilter Saturn 2",
+      "b": "u-he Satin",
+      "category": "saturation",
+      "selection": {
+        "score": 52,
+        "demand_a": 0,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": null,
+        "b": null
+      },
+      "editorial_post": null
+    },
+    {
+      "slug": "fabfilter-twin-3-vs-u-he-bazille",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "FabFilter Twin 3",
+      "b": "u-he Bazille",
+      "category": "synth",
+      "selection": {
+        "score": 52,
+        "demand_a": 0,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": null,
+        "b": null
+      },
+      "editorial_post": null
+    },
+    {
+      "slug": "fabfilter-twin-3-vs-u-he-diva",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "FabFilter Twin 3",
+      "b": "u-he Diva",
+      "category": "synth",
+      "selection": {
+        "score": 52,
+        "demand_a": 0,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": null,
+        "b": null
+      },
+      "editorial_post": null
+    },
+    {
+      "slug": "fabfilter-twin-3-vs-u-he-hive-2",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "FabFilter Twin 3",
+      "b": "u-he Hive 2",
+      "category": "synth",
+      "selection": {
+        "score": 52,
+        "demand_a": 0,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": null,
+        "b": null
+      },
+      "editorial_post": null
+    },
+    {
+      "slug": "fabfilter-twin-3-vs-u-he-repro",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "FabFilter Twin 3",
+      "b": "u-he Repro",
+      "category": "synth",
+      "selection": {
+        "score": 52,
+        "demand_a": 0,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": null,
+        "b": null
+      },
+      "editorial_post": null
+    },
+    {
+      "slug": "fabfilter-twin-3-vs-u-he-zebra-3",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "FabFilter Twin 3",
+      "b": "u-he Zebra 3",
+      "category": "synth",
+      "selection": {
+        "score": 52,
+        "demand_a": 0,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": null,
+        "b": null
+      },
+      "editorial_post": null
+    },
+    {
+      "slug": "izotope-vocalsynth-2-vs-spitfire-eric-whitacre-choir",
+      "status": "published",
+      "first_published": "2026-09-14",
+      "a": "iZotope VocalSynth 2",
+      "b": "Spitfire Eric Whitacre Choir",
+      "category": "vocal",
+      "selection": {
+        "score": 82,
+        "demand_a": 0,
+        "demand_b": 0,
+        "reason": "same_category_price_tier"
+      },
+      "when_does": {
+        "a": null,
+        "b": null
+      },
+      "editorial_post": null
+    }
+  ]
+}
