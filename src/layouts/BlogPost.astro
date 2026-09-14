@@ -87,10 +87,9 @@ const articleLD = {
 	...(resolvedImage ? { "image": resolvedImage } : {}),
 	"url": pageUrl,
 	"author": {
-		"@type": "Person",
-		"name": "PluginDrop Editorial Team",
+		"@type": "Organization",
+		"name": "SignalDrop",
 		"url": "https://plugindrop.net/about/",
-		"worksFor": { "@type": "Organization", "name": "SignalDrop", "url": "https://plugindrop.net" },
 	},
 	"publisher": {
 		"@type": "Organization",
@@ -984,7 +983,7 @@ const featuredDeals = isEvergreen ? allPosts
 					<div class="article-header">
 						<h1>{title}</h1>
 						<div class="meta">
-							<span class="author-byline">By <a href="/about/" rel="author">PluginDrop Editorial Team</a></span>
+							<span class="author-byline">By <a href="/about/" rel="author">SignalDrop</a></span>
 							<span class="date">
 								<FormattedDate date={pubDate} />
 								{updatedDate && (
