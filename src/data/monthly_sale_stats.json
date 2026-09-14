@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13",
+  "generated_at": "2026-09-14",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,8 +10,8 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": true,
-      "generated_at": "2026-09-13",
-      "observations": 1500,
+      "generated_at": "2026-09-14",
+      "observations": 1516,
       "products_tracked": 479,
       "products_on_sale": 217,
       "on_sale_pct": 45.3,
@@ -390,6 +390,218 @@
           "avg_discount_pct": 50
         }
       ],
+      "by_brand": [
+        {
+          "category": "Other",
+          "tracked": 177,
+          "on_sale": 87,
+          "on_sale_pct": 49.2,
+          "avg_discount_pct": 58.7
+        },
+        {
+          "category": "Universal Audio",
+          "tracked": 50,
+          "on_sale": 50,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 67.6
+        },
+        {
+          "category": "Cherry Audio",
+          "tracked": 42,
+          "on_sale": 5,
+          "on_sale_pct": 11.9,
+          "avg_discount_pct": 40.8
+        },
+        {
+          "category": "Eventide",
+          "tracked": 33,
+          "on_sale": 26,
+          "on_sale_pct": 78.8,
+          "avg_discount_pct": 50.7
+        },
+        {
+          "category": "Native Instruments",
+          "tracked": 30,
+          "on_sale": 1,
+          "on_sale_pct": 3.3,
+          "avg_discount_pct": 71
+        },
+        {
+          "category": "Soundtoys",
+          "tracked": 17,
+          "on_sale": 2,
+          "on_sale_pct": 11.8,
+          "avg_discount_pct": 17
+        },
+        {
+          "category": "Minimal Audio",
+          "tracked": 16,
+          "on_sale": 3,
+          "on_sale_pct": 18.8,
+          "avg_discount_pct": 43
+        },
+        {
+          "category": "FabFilter",
+          "tracked": 15,
+          "on_sale": 5,
+          "on_sale_pct": 33.3,
+          "avg_discount_pct": 11.8
+        },
+        {
+          "category": "Baby Audio",
+          "tracked": 13,
+          "on_sale": 3,
+          "on_sale_pct": 23.1,
+          "avg_discount_pct": 46.7
+        },
+        {
+          "category": "Kilohearts",
+          "tracked": 10,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Sonible",
+          "tracked": 10,
+          "on_sale": 10,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 42.6
+        },
+        {
+          "category": "u-he",
+          "tracked": 10,
+          "on_sale": 2,
+          "on_sale_pct": 20.0,
+          "avg_discount_pct": 21.5
+        },
+        {
+          "category": "Waves",
+          "tracked": 8,
+          "on_sale": 8,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 79.9
+        },
+        {
+          "category": "Arturia",
+          "tracked": 7,
+          "on_sale": 1,
+          "on_sale_pct": 14.3,
+          "avg_discount_pct": 25
+        },
+        {
+          "category": "Output",
+          "tracked": 7,
+          "on_sale": 2,
+          "on_sale_pct": 28.6,
+          "avg_discount_pct": 37.5
+        },
+        {
+          "category": "iZotope",
+          "tracked": 7,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Spitfire Audio",
+          "tracked": 5,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "XLN Audio",
+          "tracked": 4,
+          "on_sale": 3,
+          "on_sale_pct": 75.0,
+          "avg_discount_pct": 36.7
+        },
+        {
+          "category": "Excite Audio",
+          "tracked": 3,
+          "on_sale": 3,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 66.7
+        },
+        {
+          "category": "Wavesfactory",
+          "tracked": 3,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Softube",
+          "tracked": 2,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Sonnox",
+          "tracked": 2,
+          "on_sale": 2,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 28
+        },
+        {
+          "category": "AudioThing",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Denise Audio",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 34
+        },
+        {
+          "category": "Heavyocity",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "KV331",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 51
+        },
+        {
+          "category": "Plugin Alliance",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 50
+        },
+        {
+          "category": "Reveal Sound",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "UVI",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Vengeance",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 50
+        }
+      ],
       "vs_previous_month": {
         "month": "2026-08",
         "on_sale_pct_delta": -17.2,
@@ -401,7 +613,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-09-13",
+      "generated_at": "2026-09-14",
       "observations": 3720,
       "products_tracked": 459,
       "products_on_sale": 287,
@@ -781,6 +993,211 @@
           "avg_discount_pct": 54.5
         }
       ],
+      "by_brand": [
+        {
+          "category": "Other",
+          "tracked": 155,
+          "on_sale": 143,
+          "on_sale_pct": 92.3,
+          "avg_discount_pct": 56.5
+        },
+        {
+          "category": "Universal Audio",
+          "tracked": 52,
+          "on_sale": 29,
+          "on_sale_pct": 55.8,
+          "avg_discount_pct": 58.8
+        },
+        {
+          "category": "Cherry Audio",
+          "tracked": 42,
+          "on_sale": 4,
+          "on_sale_pct": 9.5,
+          "avg_discount_pct": 49.5
+        },
+        {
+          "category": "Eventide",
+          "tracked": 33,
+          "on_sale": 26,
+          "on_sale_pct": 78.8,
+          "avg_discount_pct": 50.7
+        },
+        {
+          "category": "Native Instruments",
+          "tracked": 30,
+          "on_sale": 12,
+          "on_sale_pct": 40.0,
+          "avg_discount_pct": 33.3
+        },
+        {
+          "category": "Soundtoys",
+          "tracked": 17,
+          "on_sale": 5,
+          "on_sale_pct": 29.4,
+          "avg_discount_pct": 44.6
+        },
+        {
+          "category": "FabFilter",
+          "tracked": 15,
+          "on_sale": 5,
+          "on_sale_pct": 33.3,
+          "avg_discount_pct": 11.8
+        },
+        {
+          "category": "Minimal Audio",
+          "tracked": 15,
+          "on_sale": 3,
+          "on_sale_pct": 20.0,
+          "avg_discount_pct": 41.7
+        },
+        {
+          "category": "Baby Audio",
+          "tracked": 13,
+          "on_sale": 13,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 52.8
+        },
+        {
+          "category": "Kilohearts",
+          "tracked": 10,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "u-he",
+          "tracked": 10,
+          "on_sale": 10,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 35.8
+        },
+        {
+          "category": "Sonible",
+          "tracked": 9,
+          "on_sale": 9,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 44
+        },
+        {
+          "category": "Waves",
+          "tracked": 9,
+          "on_sale": 8,
+          "on_sale_pct": 88.9,
+          "avg_discount_pct": 80.2
+        },
+        {
+          "category": "Arturia",
+          "tracked": 7,
+          "on_sale": 4,
+          "on_sale_pct": 57.1,
+          "avg_discount_pct": 34.2
+        },
+        {
+          "category": "Output",
+          "tracked": 7,
+          "on_sale": 3,
+          "on_sale_pct": 42.9,
+          "avg_discount_pct": 41.7
+        },
+        {
+          "category": "iZotope",
+          "tracked": 7,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Spitfire Audio",
+          "tracked": 5,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "XLN Audio",
+          "tracked": 4,
+          "on_sale": 3,
+          "on_sale_pct": 75.0,
+          "avg_discount_pct": 36.7
+        },
+        {
+          "category": "Excite Audio",
+          "tracked": 3,
+          "on_sale": 3,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 66.7
+        },
+        {
+          "category": "Softube",
+          "tracked": 3,
+          "on_sale": 1,
+          "on_sale_pct": 33.3,
+          "avg_discount_pct": 89
+        },
+        {
+          "category": "Sonnox",
+          "tracked": 3,
+          "on_sale": 3,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 43.7
+        },
+        {
+          "category": "Wavesfactory",
+          "tracked": 3,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "AudioThing",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Heavyocity",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "KV331",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 51
+        },
+        {
+          "category": "Plugin Alliance",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 50
+        },
+        {
+          "category": "Reveal Sound",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 60
+        },
+        {
+          "category": "UVI",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Vengeance",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        }
+      ],
       "vs_previous_month": {
         "month": "2026-07",
         "on_sale_pct_delta": 11.2,
@@ -792,7 +1209,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-09-13",
+      "generated_at": "2026-09-14",
       "observations": 2052,
       "products_tracked": 302,
       "products_on_sale": 155,
@@ -1170,6 +1587,197 @@
           "on_sale": 1,
           "on_sale_pct": 33.3,
           "avg_discount_pct": 75
+        }
+      ],
+      "by_brand": [
+        {
+          "category": "Other",
+          "tracked": 57,
+          "on_sale": 57,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 61.5
+        },
+        {
+          "category": "Eventide",
+          "tracked": 33,
+          "on_sale": 18,
+          "on_sale_pct": 54.5,
+          "avg_discount_pct": 50.8
+        },
+        {
+          "category": "Cherry Audio",
+          "tracked": 31,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Universal Audio",
+          "tracked": 31,
+          "on_sale": 31,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 70.6
+        },
+        {
+          "category": "Native Instruments",
+          "tracked": 17,
+          "on_sale": 2,
+          "on_sale_pct": 11.8,
+          "avg_discount_pct": 28
+        },
+        {
+          "category": "Soundtoys",
+          "tracked": 17,
+          "on_sale": 5,
+          "on_sale_pct": 29.4,
+          "avg_discount_pct": 44.6
+        },
+        {
+          "category": "FabFilter",
+          "tracked": 15,
+          "on_sale": 5,
+          "on_sale_pct": 33.3,
+          "avg_discount_pct": 11.8
+        },
+        {
+          "category": "Baby Audio",
+          "tracked": 13,
+          "on_sale": 4,
+          "on_sale_pct": 30.8,
+          "avg_discount_pct": 52.8
+        },
+        {
+          "category": "Minimal Audio",
+          "tracked": 13,
+          "on_sale": 5,
+          "on_sale_pct": 38.5,
+          "avg_discount_pct": 35.4
+        },
+        {
+          "category": "Kilohearts",
+          "tracked": 10,
+          "on_sale": 1,
+          "on_sale_pct": 10.0,
+          "avg_discount_pct": 51
+        },
+        {
+          "category": "u-he",
+          "tracked": 10,
+          "on_sale": 2,
+          "on_sale_pct": 20.0,
+          "avg_discount_pct": 19.5
+        },
+        {
+          "category": "Sonible",
+          "tracked": 9,
+          "on_sale": 4,
+          "on_sale_pct": 44.4,
+          "avg_discount_pct": 54
+        },
+        {
+          "category": "Arturia",
+          "tracked": 7,
+          "on_sale": 4,
+          "on_sale_pct": 57.1,
+          "avg_discount_pct": 34.2
+        },
+        {
+          "category": "Output",
+          "tracked": 7,
+          "on_sale": 1,
+          "on_sale_pct": 14.3,
+          "avg_discount_pct": 50
+        },
+        {
+          "category": "iZotope",
+          "tracked": 7,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Waves",
+          "tracked": 4,
+          "on_sale": 4,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 78.2
+        },
+        {
+          "category": "XLN Audio",
+          "tracked": 4,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Excite Audio",
+          "tracked": 3,
+          "on_sale": 2,
+          "on_sale_pct": 66.7,
+          "avg_discount_pct": 57.5
+        },
+        {
+          "category": "Sonnox",
+          "tracked": 3,
+          "on_sale": 3,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 75
+        },
+        {
+          "category": "Wavesfactory",
+          "tracked": 3,
+          "on_sale": 3,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 39
+        },
+        {
+          "category": "Softube",
+          "tracked": 2,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "AudioThing",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 43
+        },
+        {
+          "category": "Heavyocity",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 38
+        },
+        {
+          "category": "KV331",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Reveal Sound",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 60
+        },
+        {
+          "category": "UVI",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Vengeance",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 33
         }
       ],
       "vs_previous_month": null
