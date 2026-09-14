@@ -23963,15 +23963,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 29.0,
-          "regular": 99.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -25091,15 +25082,6 @@
           "regular": 89.0,
           "sale": 49.0,
           "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 49.0,
-          "regular": 89.0,
-          "source": "pb_deals_poll",
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
@@ -30004,18 +29986,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2023-12-10",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-11-22",
-          "regular": 39.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -60956,15 +60926,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 79.0,
-          "regular": 129.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -62417,15 +62378,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 69.0,
-          "regular": 149.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -62548,15 +62500,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 199.0,
-          "regular": 499.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -62633,15 +62576,6 @@
           "regular": 199.0,
           "sale": 69.0,
           "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 69.0,
-          "regular": 199.0,
-          "source": "pb_deals_poll",
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
@@ -62776,15 +62710,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 49.0,
-          "regular": 79.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -62852,15 +62777,6 @@
           "regular": 249.0,
           "sale": 124.0,
           "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 124.0,
-          "regular": 249.0,
-          "source": "pb_deals_poll",
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
@@ -63056,15 +62972,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 79.0,
-          "regular": 129.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -63247,15 +63154,6 @@
           "regular": 1040.0,
           "sale": 199.0,
           "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 199.0,
-          "regular": 1040.0,
-          "source": "pb_deals_poll",
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
