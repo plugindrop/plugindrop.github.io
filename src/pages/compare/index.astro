@@ -5,7 +5,8 @@ import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import manifestRaw from '../../data/programmatic_pages.json';
 import priceData from '../../data/price_history.json';
-import { rowFor, formatPrice, type ProgrammaticManifest, type ProgrammaticPriceData } from '../../lib/programmaticUtils';
+import { rowFor, type ProgrammaticManifest, type ProgrammaticPriceData } from '../../lib/programmaticUtils';
+import { formatPrice } from '../../lib/priceUtils';
 
 const manifest = manifestRaw as ProgrammaticManifest;
 const data = priceData as ProgrammaticPriceData;
