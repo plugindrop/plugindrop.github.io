@@ -1092,7 +1092,7 @@ const featuredDeals = isEvergreen ? allPosts
 									</li>
 								))}
 							</ul>
-							<a href="https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=deals-box&utm_campaign=see-all" class="pb-deals-more" target="_blank" rel="noopener noreferrer nofollow">See all current deals →</a>
+							<a href={`https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=deals-box&utm_campaign=see-all&chan=home&data1=${currentSlug}-deals-box`} class="pb-deals-more" target="_blank" rel="noopener noreferrer nofollow">See all current deals →</a>
 						</div>
 					)}
 
@@ -1148,7 +1148,7 @@ const featuredDeals = isEvergreen ? allPosts
 		) : (
 			<div class="sticky-cta sticky-cta-guide" id="sticky-cta">
 				<span class="sticky-title">Today's plugin deals — up to 90% off</span>
-				<a href="https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=sticky&utm_campaign=guide-cta" class="deal-cta-btn sticky-cta-link" target="_blank" rel="noopener noreferrer nofollow">
+				<a href={`https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=sticky&utm_campaign=guide-cta&chan=home&data1=${currentSlug}-sticky-cta`} class="deal-cta-btn sticky-cta-link" target="_blank" rel="noopener noreferrer nofollow">
 					Browse Deals →
 				</a>
 				<button class="sticky-cta-close" id="sticky-cta-close" aria-label="Dismiss">✕</button>
