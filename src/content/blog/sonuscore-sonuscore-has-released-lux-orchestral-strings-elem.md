@@ -1,5 +1,5 @@
 ---
-title: "Sonuscore — Sonuscore has released LUX Orchestral Strings Elements, a free library for Kontakt Player"
+title: "Sonuscore LUX Orchestral Strings Elements: Free Kontakt Player Library"
 description: "Sonuscore is giving away LUX Orchestral Strings Elements — a professional-grade Kontakt Player library — completely free. No coupon needed, no expiry"
 pubDate: "2026-04-20T05:34:50Z"
 tags: ["free", "freeaudioplugins", "sonuscore", "music-production"]
