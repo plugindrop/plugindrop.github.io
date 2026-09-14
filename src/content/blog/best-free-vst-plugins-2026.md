@@ -170,7 +170,7 @@ We track these prices daily — the sale columns are what we've actually logged,
 | Upgrade | Regular | Typical sale (tracked) | Why step up |
 |---|---|---|---|
 | [Serum 2](https://xferrecords.com/products/serum) | $249 | ~$189 — lowest we've tracked is $99 ([price history](/plugin-prices/serum-2/)) | The industry-standard wavetable synth — deeper factory content and workflow than Vital's free tier |
-| [FabFilter Pro-Q 4](https://www.pluginboutique.com/search?q=FabFilter%20Pro-Q&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026&chan=art&data1=best-free-vst-plugins-2026) | $199 | ~$149 — lowest tracked $105 ([price history](/plugin-prices/fabfilter-pro-q-4/)) | Surgical + dynamic EQ with the cleanest interface in the business — a true upgrade from TDR Nova |
+| [FabFilter Pro-Q 4](https://www.pluginboutique.com/search?q=FabFilter%20Pro-Q%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026&chan=art&data1=best-free-vst-plugins-2026) | $199 | ~$149 — lowest tracked $105 ([price history](/plugin-prices/fabfilter-pro-q-4/)) | Surgical + dynamic EQ with the cleanest interface in the business — a true upgrade from TDR Nova |
 | [iZotope Ozone 12 Advanced](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-2026) | $499 | ~$366 ([price history](/plugin-prices/izotope-ozone-12-advanced/)) | Assistant-driven mastering chain when Youlean metering shows you're ready to master properly |
 
 ## Quick Comparison
@@ -183,7 +183,7 @@ We track these prices daily — the sale columns are what we've actually logged,
 | [Helm](https://tytel.org/helm/) | Synth | Simple, visual polyphonic synth |
 | [Valhalla Supermassive](/posts/best-free-reverb-vst-plugins/) | Reverb/Delay | 18+ modes, massive ambient tails |
 | Little Plate | Reverb | EMT 140 plate, 3 controls (free during Soundtoys promos only) |
-| [TAL-Reverb-4](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026&chan=art&data1=best-free-vst-plugins-2026) | Reverb | Vintage plate character |
+| [Free Download](https://tal-software.com/products/tal-reverb-4) | Reverb | Vintage plate character |
 | [iZotope Vinyl](/posts/izotope-vinyl-free-lofi-plugin/) | Lo-Fi | Instant analog texture |
 | [Kilohearts Essentials](https://www.pluginboutique.com/search?q=Kilohearts%20Essentials&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026&chan=art&data1=best-free-vst-plugins-2026) | Multi-FX | Modular effect chain |
 | [TDR Nova](/posts/best-free-eq-vst-plugins/) | EQ | Dynamic EQ, 4 bands |

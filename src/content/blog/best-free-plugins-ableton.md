@@ -20,11 +20,11 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | Wavetable synthesis | [Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
-| Valhalla Supermassive | Free | Lush reverb & space | [Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive%20reverb&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
-| TDR Nova | Free | Dynamic EQ & mastering | [Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova%20equalizer&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
+| Vital | Free | Wavetable synthesis | [Plugin Boutique](https://vital.audio/) |
+| Valhalla Supermassive | Free | Lush reverb & space | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| TDR Nova | Free | Dynamic EQ & mastering | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
 | Surge XT | Free | Deep modular synthesis | [Plugin Boutique](https://www.pluginboutique.com/search?q=Surge%20XT&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
-| OB-Xd | Free | Vintage analog poly sounds | [Plugin Boutique](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
+| OB-Xd | Free | Vintage analog poly sounds | [Free Download](https://www.discodsp.com/obxd/) |
 | Rough Rider 3 | Free | Punchy drum compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=Rough%20Rider%203&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
 | LABS | Free | Cinematic sample instruments | [Free Download](https://labs.spitfireaudio.com/) |
 
@@ -61,7 +61,7 @@ Vital is a spectral warping wavetable synthesizer with a feature set that would 
 **Skip it if:** you want a huge ready-made sound library out of the box — the free tier ships with only a small factory bank, so you're either building patches yourself or paying $25–$80 for the preset packs.
 
 [→ Download Vital Free](https://vital.audio/)
-[→ Get Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton)
+[Plugin Boutique](https://vital.audio/)
 
 ---
 
@@ -102,8 +102,8 @@ OB-Xd is a faithful recreation of the Oberheim OB-X polyphonic synthesizer — o
 
 **Skip it if:** you need modern digital timbres or an onboard effects chain — OB-Xd is a single-architecture vintage emulation with no wavetables, no FM, and only the most basic built-in processing.
 
-[→ Download OB-Xd Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-ableton&chan=art&data1=best-free-plugins-ableton)
-[→ Get OB-Xd on Plugin Boutique](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton)
+[Free Download](https://www.discodsp.com/obxd/)
+[Free Download](https://www.discodsp.com/obxd/)
 
 ---
 
@@ -147,8 +147,8 @@ TDR Nova is a parallel dynamic equalizer that functions simultaneously as a stat
 
 **Skip it if:** you need mid/side processing, linear-phase mode, or wide-band flexibility — those live in the paid GE edition, and the free version tops out at four dynamic bands.
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-ableton&chan=art&data1=best-free-plugins-ableton)
-[→ Get TDR Nova on Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova%20equalizer&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton)
+[Free Download](https://www.tokyodawn.net/tdr-nova/)
+[Plugin Boutique](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 
@@ -191,8 +191,8 @@ Valhalla DSP is one of the most respected reverb brands in professional audio, a
 
 **Skip it if:** you need a realistic room, hall, or tight plate — Supermassive only does huge, otherworldly delay-reverbs, so it's the wrong tool for natural, believable spaces.
 
-[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-ableton&chan=art&data1=best-free-plugins-ableton)
-[→ Get Valhalla Supermassive on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive%20reverb&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton)
+[Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+[Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
 
@@ -211,7 +211,7 @@ TAL-Chorus-LX is a meticulous recreation of the BBD chorus circuit found in the 
 
 **Skip it if:** you want adjustable rate and depth or a versatile modulation multi-effect — TAL-Chorus-LX is a fixed Juno circuit with essentially two mode buttons and a dry/wet, nothing more.
 
-[→ Download TAL-Chorus-LX Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Chorus&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-ableton&chan=art&data1=best-free-plugins-ableton)
+[Free Download](https://tal-software.com/products/tal-chorus-lx)
 
 ---
 
@@ -345,14 +345,14 @@ Once you've maxed out what the free tier offers, these three commercial plugins 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital | Free | Wavetable Synth | Spectral warping, drag-and-drop modulation, audio-to-wavetable import | [Get It](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
+| Vital | Free | Wavetable Synth | Spectral warping, drag-and-drop modulation, audio-to-wavetable import | [Plugin Boutique](https://vital.audio/) |
 | Surge XT | Free | Hybrid Synth | Multi-engine synthesis, open source, CLAP support, massive preset library | [Get It](https://www.pluginboutique.com/search?q=Surge%20XT&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
-| OB-Xd | Free | Analog Poly Synth | Oberheim OB-X emulation, per-voice parameter variation, low CPU | [Get It](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
+| OB-Xd | Free | Analog Poly Synth | Oberheim OB-X emulation, per-voice parameter variation, low CPU | [Free Download](https://www.discodsp.com/obxd/) |
 | Dexed | Free | FM Synth | Yamaha DX7 emulation, SysEx patch loading, visual operator display | [Get It](https://asb2m10.github.io/dexed/) |
-| TDR Nova | Free | Dynamic EQ | Per-band dynamics, parallel EQ architecture, transparent processing | [Get It](https://www.pluginboutique.com/search?q=TDR%20Nova%20equalizer&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
+| TDR Nova | Free | Dynamic EQ | Per-band dynamics, parallel EQ architecture, transparent processing | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
 | Rough Rider 3 | Free | Compressor | Character compression, wet/dry blend, sidechain input | [Get It](https://www.pluginboutique.com/search?q=Rough%20Rider%203&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
-| Valhalla Supermassive | Free | Reverb / Delay | Long decay times, WARP parameter, 11 reverb algorithms | [Get It](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive%20reverb&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
-| TAL-Chorus-LX | Free | Chorus | Juno-6 BBD circuit emulation, natural stereo width | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20Chorus&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-ableton&chan=art&data1=best-free-plugins-ableton) |
+| Valhalla Supermassive | Free | Reverb / Delay | Long decay times, WARP parameter, 11 reverb algorithms | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| TAL-Chorus-LX | Free | Chorus | Juno-6 BBD circuit emulation, natural stereo width | [Free Download](https://tal-software.com/products/tal-chorus-lx) |
 | LABS | Free | Sample Instrument | Curated Spitfire samples, growing catalog, all genres covered | [Get It](https://labs.spitfireaudio.com/) |
 | Sitala | Free | Drum Sampler | 16-pad workflow, drag-and-drop loading, per-pad filter and envelope | [Get It](https://decomposer.de/sitala/) |
 | SPAN | Free | Spectrum Analyzer | Real-time FFT, near-zero CPU, configurable display modes | [Get It](https://www.voxengo.com/product/span/) |
@@ -393,7 +393,7 @@ When you've maxed out the free toolkit, these are the three paid plugins the com
 
 | Plugin | Price | Why Upgrade | Get It |
 |--------|-------|-------------|--------|
-| Valhalla VintageVerb | $50 | 18 algorithms, 3 vintage color modes — covers room, hall, plate, and chamber with no free equivalent | [Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20VintageVerb&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-ableton&chan=art&data1=best-free-plugins-ableton) |
+| Valhalla VintageVerb | $50 | 18 algorithms, 3 vintage color modes — covers room, hall, plate, and chamber with no free equivalent | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
 | FabFilter Pro-Q 4 | ~$179 | Dynamic EQ per band + mid/side processing that TDR Nova can't do | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
 | FabFilter Pro-L 2 | ~$199 | True peak limiting for streaming delivery — required for professional masters | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-L%202&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
 
@@ -414,7 +414,7 @@ The free plugins above cover most production needs. When you're ready to invest,
 |---|---|---|
 | [Serum 2](https://xferrecords.com/products/serum) | Industry-standard wavetable synth, massive preset library | ~$10/mo or ~$189 |
 | [FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) | Dynamic EQ, surgical precision, zero-latency | ~$179 |
-| [Valhalla VintageVerb](https://www.pluginboutique.com/search?q=Valhalla%20VintageVerb&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-ableton&chan=art&data1=best-free-plugins-ableton) | 18 reverb algorithms, $50, beats plugins 3× the price | $50 |
+| [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) | 18 reverb algorithms, $50, beats plugins 3× the price | $50 |
 
 **Sale timing:** Plugin Boutique discounts hardest during Black Friday (late November) and its summer sale in July, and it hands out a rotating free plugin with most purchases. FabFilter almost never cuts more than about 15%, so there's little point waiting on Pro-Q 4; Valhalla's flat $50 basically never drops, and Serum is cheapest as Splice rent-to-own if you'd rather spread the ~$189 over monthly payments.
 

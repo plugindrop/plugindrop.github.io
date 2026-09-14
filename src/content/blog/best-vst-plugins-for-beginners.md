@@ -22,11 +22,11 @@ priceTrack:
 |--------|-------|----------|--------|
 | Vital | Free | Wavetable synthesis, learning synthesis | [Free](https://vital.audio/) |
 | Surge XT | Free | Deep synthesis, sound design exploration | [Free Download](https://surge-synthesizer.github.io/) |
-| Valhalla Supermassive | Free | Reverb and delay on everything | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-beginners&chan=art&data1=best-vst-plugins-for-beginners) |
-| TDR Nova | Free | Dynamic EQ, mixing fundamentals | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-beginners&chan=art&data1=best-vst-plugins-for-beginners) |
-| TDR Kotelnikov | Free | Transparent bus compression | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-beginners&chan=art&data1=best-vst-plugins-for-beginners) |
+| Valhalla Supermassive | Free | Reverb and delay on everything | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| TDR Nova | Free | Dynamic EQ, mixing fundamentals | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
+| TDR Kotelnikov | Free | Transparent bus compression | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Rough Rider 3 | Free | Aggressive drum compression | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
-| Serum | Paid | Professional wavetable synthesis | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-beginners&chan=art&data1=best-vst-plugins-for-beginners) |
+| Serum | Paid | Professional wavetable synthesis | [Serum](https://xferrecords.com/products/serum-2) |
 
 ---
 
@@ -97,7 +97,7 @@ For beginners, Supermassive works on everything: pads, vocals, synths, atmospher
 
 **Best for:** Atmospheric production, pads, vocals; beginners who need one reverb that works across every genre and context.
 
-[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-beginners&chan=art&data1=best-vst-plugins-for-beginners)
+[Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
 
@@ -116,7 +116,7 @@ For beginners, Nova's real value is in teaching how EQ and dynamics interact. Le
 
 **Best for:** Mixing, learning EQ fundamentals, dynamic frequency management on vocals and instruments.
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-beginners&chan=art&data1=best-vst-plugins-for-beginners)
+[Free Download](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 
@@ -135,7 +135,7 @@ For beginners learning compression, Kotelnikov's clean controls make the relatio
 
 **Best for:** Bus compression, learning compression fundamentals, mixing glue on groups and master chains.
 
-[→ Download TDR Kotelnikov Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-beginners&chan=art&data1=best-vst-plugins-for-beginners)
+[Free Download](https://www.tokyodawn.net/tdr-kotelnikov/)
 
 ---
 
@@ -170,7 +170,7 @@ These are the tools most producers eventually buy. If the free options above fee
 - **Price:** Paid (perpetual license; also available via Splice subscription)
 - **Why upgrade:** Vital's free tier covers the synthesis engine well, but Serum's wavetable editor is deeper, its factory library is more production-ready, and the commercial ecosystem built around it — preset packs, genre-specific tutorials, and mixing guides — is unmatched. R/edmproduction consistently names Serum as the synth most professional producers reference, meaning the breadth of learning material available specifically for it accelerates skill development in a way no free alternative can replicate.
 
-[→ Get Serum on Xfer Records (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-beginners&chan=art&data1=best-vst-plugins-for-beginners)
+[Serum](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -204,11 +204,11 @@ These are the tools most producers eventually buy. If the free options above fee
 |--------|-------|------|------------|--------|
 | Vital | Free | Wavetable Synth | Full engine free, visual interface, large community | [Get](https://vital.audio/) |
 | Surge XT | Free | Hybrid Synth | Open source, FM + wavetable + subtractive, 500+ patches | [Download](https://surge-synthesizer.github.io/) |
-| Valhalla Supermassive | Free | Reverb / Delay | Top-ranked free reverb, massive evolving spaces | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-beginners&chan=art&data1=best-vst-plugins-for-beginners) |
-| TDR Nova | Free | Dynamic EQ | 4 dynamic bands, full limiter, rivals paid EQs | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-beginners&chan=art&data1=best-vst-plugins-for-beginners) |
-| TDR Kotelnikov | Free | Compressor | Transparent bus compression, musical response | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-beginners&chan=art&data1=best-vst-plugins-for-beginners) |
+| Valhalla Supermassive | Free | Reverb / Delay | Top-ranked free reverb, massive evolving spaces | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| TDR Nova | Free | Dynamic EQ | 4 dynamic bands, full limiter, rivals paid EQs | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
+| TDR Kotelnikov | Free | Compressor | Transparent bus compression, musical response | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Rough Rider 3 | Free | Compressor | Aggressive character compression, great for drums | [Download](https://www.audiodamage.com/pages/free-and-legacy) |
-| Serum | Paid | Wavetable Synth | Industry standard, massive preset and tutorial ecosystem | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-beginners&chan=art&data1=best-vst-plugins-for-beginners) |
+| Serum | Paid | Wavetable Synth | Industry standard, massive preset and tutorial ecosystem | [Serum](https://xferrecords.com/products/serum-2) |
 | FabFilter Pro-Q 4 | Paid | EQ | Professional benchmark, dynamic EQ, stellar workflow | [Get Pro-Q 4 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-beginners) |
 | iZotope Neutron 4 | Paid | Mixing Suite | AI-assisted mixing, strong learning feedback loop | [Get Neutron 4 (Plugin Boutique)](https://www.pluginboutique.com/search?q=iZotope%20Neutron%204&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-beginners) |
 
@@ -253,7 +253,7 @@ A: Educators and experienced producers consistently active on r/edmproduction ma
 
 ## Final Thoughts
 
-For most beginners in 2026, the right starting toolkit costs nothing: Vital for synthesis, Valhalla Supermassive for reverb, TDR Nova for EQ, and TDR Kotelnikov for compression will carry you further than any collection of expensive plugins you don't yet know how to use. When you are ready to invest, Serum remains the most community-validated upgrade in modern production — [get it at Xfer Records (Plugin Boutique)](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-beginners&chan=art&data1=best-vst-plugins-for-beginners) and you gain access to the most tutorial-supported, preset-rich synth ecosystem in the industry.
+For most beginners in 2026, the right starting toolkit costs nothing: Vital for synthesis, Valhalla Supermassive for reverb, TDR Nova for EQ, and TDR Kotelnikov for compression will carry you further than any collection of expensive plugins you don't yet know how to use. When you are ready to invest, Serum remains the most community-validated upgrade in modern production — [Serum](https://xferrecords.com/products/serum-2) and you gain access to the most tutorial-supported, preset-rich synth ecosystem in the industry.
 
 ---
 

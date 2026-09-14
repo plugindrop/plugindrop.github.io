@@ -10,7 +10,7 @@ xText: "8Dio Silka — emotional soft choir, 63k samples, phrase builder up to 6
 draft: false
 ---
 
-**TL;DR:** Silka is 8Dio's emotional soft choir — 65 voices, 63,500 samples, and a rhythmic phrase builder for creating moving choral textures. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)**. [Buy on Plugin Boutique →](https://www.pluginboutique.com/product/instruments/instrument-other/8dio-productions-silka/?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-silka&chan=art&data1=8dio-silka)
+**TL;DR:** Silka is 8Dio's emotional soft choir — 65 voices, 63,500 samples, and a rhythmic phrase builder for creating moving choral textures. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](https://8dio.com/)**. [Buy on Plugin Boutique →](https://www.pluginboutique.com/product/instruments/instrument-other/8dio-productions-silka/?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-silka&chan=art&data1=8dio-silka)
 
 ---
 
@@ -27,7 +27,7 @@ draft: false
 
 Silka features 40 male and 25 female voices recorded with 63,500 samples across multiple dynamic layers. Its phrase builder allows sequences of up to 64 characters, making it practical for complex rhythmic choral writing beyond sustained pads.
 
-**Regular price:** $99 (normally $599) | **Part of Pick 3 deal:** [$69 for any 3 choirs](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)
+**Regular price:** $99 (normally $599) | **Part of Pick 3 deal:** [Pick Any 3 Choirs for $69 deal](https://8dio.com/)
 
 If you're deciding whether to buy Silka on its own or wait for a wider promo, the math is straightforward: at $99 standalone it's already an 83% discount off the $599 list price, but the Pick 3 bundle drops the effective per-title cost to $23 — cheaper than almost any other route into 8Dio's soft choir catalog.
 
@@ -111,7 +111,7 @@ Silka is well-suited for composers who need emotionally expressive choir texture
 
 ## Part of the Pick 3 Deal
 
-Silka is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)** offer. It pairs naturally with Lacrimosa (epic/soft contrast) or Insolidus (two complementary soft choir colors).
+Silka is one of 6 eligible titles in the **[Pick Any 3 Choirs for $69 deal](https://8dio.com/)** offer. It pairs naturally with Lacrimosa (epic/soft contrast) or Insolidus (two complementary soft choir colors).
 
 [→ See all eligible titles and grab the deal](https://www.pluginboutique.com/product/instruments/instrument-other/8dio-productions-silka/?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-silka&chan=art&data1=8dio-silka)
 
@@ -135,6 +135,6 @@ Silka is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](http
 ## Related Guides
 - [Best Free Choir VST Plugins in 2026](/posts/best-free-choir-vst-plugins/)
 - [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)
-- [8Dio Pick Any 3 Choirs — $69 Deal](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)
+- [Pick Any 3 Choirs for $69 deal](https://8dio.com/)
 - [When Does 8Dio Lacrimosa Go on Sale?](/blog/when-does-8dio-lacrimosa-go-on-sale)
 - [When Does 8Dio Insolidus Go on Sale?](/blog/when-does-8dio-insolidus-go-on-sale)

@@ -20,7 +20,7 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| TDR Kotelnikov | Free | Transparent bus & mix compression | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-use-compression-mixing&chan=art&data1=how-to-use-compression-mixing) |
+| TDR Kotelnikov | Free | Transparent bus & mix compression | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Rough Rider 3 | Free | Character compression, pump effects | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
 | FabFilter Pro-C 2 | $179 | Full-mix versatility, visual workflow | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=how-to-use-compression-mixing) |
 | Waves SSL G-Master Buss Compressor | $29.99 | Bus glue, console mix bus character | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
@@ -69,7 +69,7 @@ What separates Kotelnikov from typical free compressors is that its M-S mode mak
 
 **Best for:** Mix bus compression, transparent dynamic control, producers who need M-S capability without a paid license.
 
-[→ Download TDR Kotelnikov Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-use-compression-mixing&chan=art&data1=how-to-use-compression-mixing)
+[Free Download](https://www.tokyodawn.net/tdr-kotelnikov/)
 
 ---
 
@@ -162,7 +162,7 @@ The 4–6dB gain reduction sweet spot that mix engineers discuss extensively is 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| TDR Kotelnikov | Free | Wideband/M-S | Transparent, M-S capable, bus-ready | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-use-compression-mixing&chan=art&data1=how-to-use-compression-mixing) |
+| TDR Kotelnikov | Free | Wideband/M-S | Transparent, M-S capable, bus-ready | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Rough Rider 3 | Free | Character | Audible pump, creative parallel use | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
 | FabFilter Pro-C 2 | $179 | Multi-mode | 8 styles, visual feedback, all-stage | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=how-to-use-compression-mixing) |
 | Waves SSL G-Master Buss | $29.99 | VCA bus | SSL console glue, mix bus character | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |

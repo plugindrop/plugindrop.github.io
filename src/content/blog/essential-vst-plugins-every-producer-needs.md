@@ -22,11 +22,11 @@ priceTrack:
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 4 | $179 | Precision mixing EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
-| Valhalla Room | $50 | Studio reverb | [Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Room%20reverb&a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
+| Valhalla Room | $50 | Studio reverb | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 | FabFilter Pro-C 2 | $179 | Transparent compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
 | Serum | $189 | Wavetable synthesis | [Xfer Records](https://xferrecords.com/products/serum) |
 | iZotope Ozone 12 | $249 | AI-assisted mastering | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
-| Valhalla Supermassive | Free | Ambient reverb & delay | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-vst-plugins-every-producer-needs&chan=art&data1=essential-vst-plugins-every-producer-needs) |
+| Valhalla Supermassive | Free | Ambient reverb & delay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Vital | Free | Wavetable synthesis | [Free](https://vital.audio/) |
 
 ---
@@ -74,7 +74,7 @@ TDR Nova is a parametric EQ with dynamic EQ capabilities built in — a feature 
 
 **Best for:** Producers who want dynamic EQ functionality without the Pro-Q 4 price tag.
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-vst-plugins-every-producer-needs&chan=art&data1=essential-vst-plugins-every-producer-needs)
+[Free Download](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 
@@ -130,7 +130,7 @@ Valhalla Room packs 12 room algorithms that convincingly model spaces from tight
 
 **Best for:** Natural-sounding rooms on vocals, drums, and acoustic instruments.
 
-[→ Get Valhalla Room on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Room%20reverb&a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs)
+[Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/)
 
 ---
 
@@ -147,7 +147,7 @@ Supermassive delivers massive, evolving reverbs and modulated delays built for a
 
 **Best for:** Ambient pads, long reverb tails, and creative delay effects.
 
-[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-vst-plugins-every-producer-needs&chan=art&data1=essential-vst-plugins-every-producer-needs)
+[Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
 
@@ -166,7 +166,7 @@ The SSL E-Channel emulates the console strip that defined the sound of records f
 
 **Best for:** Adding console character and musical EQ to any mix template.
 
-[→ Get Waves SSL E-Channel on Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20SSL%20E-Channel&a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs)
+[→ Get Waves SSL E-Channel](https://www.waves.com/plugins/ssl-e-channel)
 
 ---
 
@@ -353,12 +353,12 @@ Ozone 12's Master Assistant analyzes your track and builds a starting mastering 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | FabFilter Pro-Q 4 | $179 | EQ | Dynamic EQ, M/S, zero-latency mode | [Get it](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
-| TDR Nova | Free | EQ | Dynamic EQ, 4 bands, clean metering | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-vst-plugins-every-producer-needs&chan=art&data1=essential-vst-plugins-every-producer-needs) |
+| TDR Nova | Free | EQ | Dynamic EQ, 4 bands, clean metering | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | FabFilter Pro-C 2 | $179 | Compressor | 8 algorithms, real-time GR display | [Get it](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
 | OTT | Free | Multiband Compressor | Upward/downward compression, 3-band | [Free Download](https://xferrecords.com/freeware) |
-| Valhalla Room | $50 | Reverb | 12 algorithms, natural room modeling | [Get it](https://www.pluginboutique.com/search?q=Valhalla%20Room%20reverb&a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
-| Valhalla Supermassive | Free | Reverb/Delay | Massive ambiences, modulated tails | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-vst-plugins-every-producer-needs&chan=art&data1=essential-vst-plugins-every-producer-needs) |
-| Waves SSL E-Channel | $29.99 | Channel Strip | SSL console EQ + dynamics | [Get it](https://www.pluginboutique.com/search?q=Waves%20SSL%20E-Channel&a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
+| Valhalla Room | $50 | Reverb | 12 algorithms, natural room modeling | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/) |
+| Valhalla Supermassive | Free | Reverb/Delay | Massive ambiences, modulated tails | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| Waves SSL E-Channel | $29.99 | Channel Strip | SSL console EQ + dynamics | [→ Get Waves SSL E-Channel](https://www.waves.com/plugins/ssl-e-channel) |
 | Serum | $189 | Synthesizer | Wavetable editor, modulation matrix, FX | [Get it](https://xferrecords.com/products/serum) |
 | Vital | Free | Synthesizer | Spectral warping, advanced modulation | [Free](https://vital.audio/) |
 | Softube Saturation Knob | Free | Saturation | Single-knob, three modes | [Free Download](https://www.softube.com/saturationknob) |

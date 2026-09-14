@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-09-13",
   "bundles": {
     "FabFilter Total Bundle": {
       "pb_url": "/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle",
@@ -589,15 +589,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 799.0,
-          "sale": 159.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ],
       "category": "Bundle"
@@ -704,15 +695,6 @@
           "regular": 1999,
           "sale": 199,
           "source": "auto_check"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 1999.0,
-          "sale": 199.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ],
       "category": "Bundle"
@@ -959,15 +941,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 699,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
         }
       ],
       "category": "Bundle"
@@ -1068,15 +1041,6 @@
         },
         {
           "date": "2026-09-07",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 499,
           "sale": null,
           "source": "auto_check",
@@ -1299,15 +1263,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 199,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 199,
           "sale": null,
           "source": "auto_check",
@@ -1568,15 +1523,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 179,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
         }
       ],
       "category": "Limiter"
@@ -1809,15 +1755,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 199,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 199,
           "sale": null,
           "source": "auto_check",
@@ -2100,15 +2037,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 199,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
         }
       ],
       "category": "Synth"
@@ -2263,15 +2191,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 179,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 179,
           "sale": null,
           "source": "auto_check",
@@ -10997,15 +10916,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 199,
-          "sale": 149.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
         }
       ]
     },
@@ -11154,15 +11064,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 199,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 199,
           "sale": null,
           "source": "auto_check",
@@ -11355,15 +11256,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 199,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 199,
           "sale": null,
           "source": "auto_check",
@@ -11572,15 +11464,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 129.0,
-          "sale": 35.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -11645,15 +11528,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 99.0,
-          "sale": 35.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 99.0,
           "sale": 35.0,
           "source": "auto_check",
@@ -11740,15 +11614,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 149.0,
-          "sale": 35.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 149.0,
           "sale": 35.0,
           "source": "auto_check",
@@ -16045,15 +15910,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 69,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
         }
       ]
     },
@@ -16214,15 +16070,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 69,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
         }
       ]
     },
@@ -16329,15 +16176,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 39,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
         }
       ]
     },
@@ -16438,15 +16276,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 99,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 99,
           "sale": null,
           "source": "auto_check",
@@ -16583,15 +16412,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 129,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
         }
       ]
     },
@@ -16710,15 +16530,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 29,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 29,
           "sale": null,
           "source": "auto_check",
@@ -16879,15 +16690,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 49,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 49,
           "sale": null,
           "source": "auto_check",
@@ -17066,15 +16868,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 99,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
         }
       ]
     },
@@ -17241,15 +17034,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 29,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
         }
       ]
     },
@@ -17410,15 +17194,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 79,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
         }
       ]
     },
@@ -17561,15 +17336,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 79,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 79,
           "sale": null,
           "source": "auto_check",
@@ -17736,15 +17502,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 49,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 49,
           "sale": null,
           "source": "auto_check",
@@ -18255,15 +18012,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 99,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
         }
       ]
     },
@@ -18412,15 +18160,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 99,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 99,
           "sale": null,
           "source": "auto_check",
@@ -18587,15 +18326,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 149,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 149,
           "sale": null,
           "source": "auto_check",
@@ -18878,15 +18608,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 280,
-          "sale": 244.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
         }
       ]
     },
@@ -19155,15 +18876,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 129.0,
-          "sale": 79.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -19360,15 +19072,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 129.0,
-          "sale": 79.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -19505,15 +19208,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 129.0,
-          "sale": 79.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -19632,15 +19326,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 99.0,
-          "sale": 49.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 99.0,
           "sale": 49.0,
           "source": "auto_check",
@@ -22682,15 +22367,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 9.0,
-          "regular": 119.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -23115,15 +22791,6 @@
         },
         {
           "date": "2026-09-13",
-          "sale": 279.0,
-          "regular": 1890.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
           "sale": 279.0,
           "regular": 1890.0,
           "source": "pb_deals_poll",
@@ -23584,15 +23251,6 @@
         },
         {
           "date": "2026-09-13",
-          "sale": 379.0,
-          "regular": 1890.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
           "sale": 379.0,
           "regular": 1890.0,
           "source": "pb_deals_poll",
@@ -24514,15 +24172,6 @@
         },
         {
           "date": "2026-09-13",
-          "sale": 9.0,
-          "regular": 119.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
           "sale": 9.0,
           "regular": 119.0,
           "source": "pb_deals_poll",
@@ -26139,15 +25788,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 9.0,
-          "regular": 119.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -27233,15 +26873,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 129.0,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
         }
       ]
     },
@@ -28291,20 +27922,8 @@
       "notes": "Auto-discovered 2026-07-17",
       "history": [
         {
-          "date": "2021-10-16",
-          "regular": 59.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
           "date": "2022-08-14",
           "regular": 23.47,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-07-08",
-          "regular": 29.0,
           "sale": null,
           "source": "wayback"
         },
@@ -28430,6 +28049,18 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2021-10-16",
+          "regular": 59.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-07-08",
+          "regular": 29.0,
+          "sale": null,
+          "source": "wayback"
         }
       ]
     },
@@ -28801,26 +28432,8 @@
           "source": "wayback"
         },
         {
-          "date": "2021-11-28",
-          "regular": 59.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-01-19",
-          "regular": 24.35,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
           "date": "2022-03-18",
           "regular": 25.73,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-06-26",
-          "regular": 59.0,
           "sale": null,
           "source": "wayback"
         },
@@ -28934,6 +28547,24 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2021-11-28",
+          "regular": 59.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-01-19",
+          "regular": 24.35,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-06-26",
+          "regular": 59.0,
+          "sale": null,
+          "source": "wayback"
         }
       ]
     },
@@ -29535,42 +29166,6 @@
       "notes": "Auto-discovered 2026-07-17",
       "history": [
         {
-          "date": "2023-05-20",
-          "regular": 79.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-01-17",
-          "regular": 141.57,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-08-06",
-          "regular": 149.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-10-12",
-          "regular": 149.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-05-03",
-          "regular": 149.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-08-09",
-          "regular": 39.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
           "date": "2026-07-17",
           "regular": null,
           "sale": null,
@@ -29668,6 +29263,42 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2023-05-20",
+          "regular": 79.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-01-17",
+          "regular": 141.57,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-08-06",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-10-12",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-05-03",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-08-09",
+          "regular": 39.0,
+          "sale": null,
+          "source": "wayback"
         }
       ]
     },
@@ -30865,15 +30496,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 49.0,
-          "regular": 149.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -31324,15 +30946,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 149.0,
-          "sale": 29.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -31432,15 +31045,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 149.0,
-          "sale": 29.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -31534,15 +31138,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 149.0,
-          "sale": 39.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 149.0,
           "sale": 39.0,
           "source": "auto_check",
@@ -31666,15 +31261,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 149.0,
-          "sale": 39.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 149.0,
           "sale": 39.0,
           "source": "auto_check",
@@ -31822,15 +31408,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 149.0,
-          "sale": 29.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -31960,15 +31537,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 149.0,
-          "sale": 39.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -32068,15 +31636,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 49.0,
-          "sale": 29.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -32170,15 +31729,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 149.0,
-          "sale": 39.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 149.0,
           "sale": 39.0,
           "source": "auto_check",
@@ -32320,15 +31870,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 99.0,
-          "sale": 29.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 99.0,
           "sale": 29.0,
           "source": "auto_check",
@@ -32482,15 +32023,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 199.0,
-          "sale": 39.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -32584,15 +32116,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 149.0,
-          "sale": 29.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 149.0,
           "sale": 29.0,
           "source": "auto_check",
@@ -32698,15 +32221,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 199.0,
-          "sale": 49.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -32800,15 +32314,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 149.0,
-          "sale": 29.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 149.0,
           "sale": 29.0,
           "source": "auto_check",
@@ -32914,15 +32419,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 149.0,
-          "sale": 29.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -33022,15 +32518,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 99.0,
-          "sale": 29.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -33124,15 +32611,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 49.0,
-          "sale": 29.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 49.0,
           "sale": 29.0,
           "source": "auto_check",
@@ -33283,24 +32761,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 149.0,
-          "sale": 69.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 69.0,
-          "regular": 149.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -33430,15 +32890,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 99.0,
-          "sale": 29.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -33538,15 +32989,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 149.0,
-          "sale": 29.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 149.0,
           "sale": 29.0,
           "source": "auto_check",
@@ -33694,15 +33136,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 199.0,
-          "sale": 49.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -33796,15 +33229,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 149.0,
-          "sale": 39.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 149.0,
           "sale": 39.0,
           "source": "auto_check",
@@ -33910,15 +33334,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
         }
       ]
     },
@@ -34012,15 +33427,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -34126,15 +33532,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
         }
       ]
     },
@@ -34228,15 +33625,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -34342,15 +33730,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
         }
       ]
     },
@@ -34444,15 +33823,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -34558,15 +33928,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
         }
       ]
     },
@@ -34666,15 +34027,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
         }
       ]
     },
@@ -34768,15 +34120,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -34918,15 +34261,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 129.0,
-          "sale": 79.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 129.0,
           "sale": 79.0,
           "source": "auto_check",
@@ -39657,15 +38991,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
         }
       ]
     },
@@ -39753,15 +39078,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": 69.0,
-          "sale": 49.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": 69.0,
           "sale": 49.0,
           "source": "auto_check",
@@ -39897,15 +39213,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
         }
       ]
     },
@@ -39999,15 +39306,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
         }
       ]
     },
@@ -40095,15 +39393,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -40251,15 +39540,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
         }
       ]
     },
@@ -40389,15 +39669,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
         }
       ]
     },
@@ -40485,15 +39756,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -40635,15 +39897,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
         }
       ]
     },
@@ -40773,15 +40026,6 @@
         },
         {
           "date": "2026-09-08",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -47051,15 +46295,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 199.0,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
         }
       ]
     },
@@ -47220,15 +46455,6 @@
           "sale": 149.0,
           "regular": 249.0,
           "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 249.0,
-          "sale": 149.0,
-          "source": "auto_check",
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
@@ -50154,15 +49380,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 99.0,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
         }
       ]
     },
@@ -50455,24 +49672,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 99.0,
-          "sale": 10.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 10.0,
-          "regular": 99.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -50741,15 +49940,6 @@
           "sale": 39.0,
           "regular": 59.0,
           "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 59.0,
-          "sale": 39.0,
-          "source": "auto_check",
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
@@ -52256,15 +51446,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 49.0,
-          "regular": 149.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -52524,15 +51705,6 @@
         },
         {
           "date": "2026-09-13",
-          "sale": 9.0,
-          "regular": 29.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
           "sale": 9.0,
           "regular": 29.0,
           "source": "pb_deals_poll",
@@ -54994,15 +54166,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 97.0,
-          "regular": 129.99,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -55991,15 +55154,6 @@
         },
         {
           "date": "2026-09-13",
-          "sale": 179.0,
-          "regular": 198.89,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
           "sale": 179.0,
           "regular": 198.89,
           "source": "pb_deals_poll",
@@ -60644,15 +59798,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 99.0,
-          "regular": 149.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -62281,15 +61426,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
         }
       ]
     },
@@ -63078,15 +62214,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 19.0,
-          "regular": 79.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -63630,15 +62757,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 149.0,
-          "regular": 249.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ]
     },
@@ -63694,547 +62812,6 @@
           "date": "2026-09-07",
           "regular": 256.0,
           "sale": 59.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 256.0,
-          "sale": 59.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        }
-      ]
-    },
-    "Atoms": {
-      "pb_url": "/product/1-Instruments/4-Synth/11906-Atoms",
-      "typical_regular": 99.0,
-      "typical_sale": 29.0,
-      "all_time_low": 29.0,
-      "notes": "auto-crawl 2026-09-13",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-09-13",
-          "regular": 99.0,
-          "sale": 29.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 99.0,
-          "sale": 29.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "sale": 29.0,
-          "regular": 99.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 29.0,
-          "regular": 99.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        }
-      ]
-    },
-    "PITCHMAP": {
-      "pb_url": "/product/2-Effects/35-Pitch-Shifter/2701-PITCHMAP",
-      "typical_regular": 149.0,
-      "typical_sale": 69.0,
-      "all_time_low": 69.0,
-      "notes": "auto-crawl 2026-09-13",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-09-13",
-          "regular": 149.0,
-          "sale": 69.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 149.0,
-          "sale": 69.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "sale": 69.0,
-          "regular": 149.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 69.0,
-          "regular": 149.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        }
-      ]
-    },
-    "driveDAT": {
-      "pb_url": "/product/2-Effects/96-Tape-Emulation/17783-driveDAT",
-      "typical_regular": 49.0,
-      "typical_sale": 19.0,
-      "all_time_low": 19.0,
-      "notes": "auto-crawl 2026-09-13",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-09-13",
-          "regular": 49.0,
-          "sale": 19.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 49.0,
-          "sale": 19.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "sale": 19.0,
-          "regular": 49.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 19.0,
-          "regular": 49.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        }
-      ]
-    },
-    "LEGEND": {
-      "pb_url": "/product/1-Instruments/64-Virtual-Instruments/11446-LEGEND",
-      "typical_regular": 119.0,
-      "typical_sale": 29.0,
-      "all_time_low": 29.0,
-      "notes": "auto-crawl 2026-09-13",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-09-13",
-          "regular": 119.0,
-          "sale": 29.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 119.0,
-          "sale": 29.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "sale": 29.0,
-          "regular": 119.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 29.0,
-          "regular": 119.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        }
-      ]
-    },
-    "MODO MAX": {
-      "pb_url": "/product/1-Instruments/64-Virtual-Instruments/12457-MODO-MAX",
-      "typical_regular": 299.99,
-      "typical_sale": 69.99,
-      "all_time_low": 69.99,
-      "notes": "auto-crawl 2026-09-13",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-09-13",
-          "regular": 299.99,
-          "sale": 69.99,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 299.99,
-          "sale": 69.99,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "sale": 69.99,
-          "regular": 299.99,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 69.99,
-          "regular": 299.99,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        }
-      ]
-    },
-    "INTENSITY 2": {
-      "pb_url": "/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2",
-      "typical_regular": 149.0,
-      "typical_sale": 99.0,
-      "all_time_low": 99.0,
-      "notes": "auto-crawl 2026-09-13",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-09-13",
-          "regular": 149.0,
-          "sale": 99.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 149.0,
-          "sale": 99.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "sale": 99.0,
-          "regular": 149.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 99.0,
-          "regular": 149.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        }
-      ]
-    },
-    "SSL 4000 G Bus Compressor": {
-      "pb_url": "/product/2-Effects/21-Channel-Strip/13325-SSL-4000-G-Bus-Compressor",
-      "typical_regular": 149.0,
-      "typical_sale": 69.0,
-      "all_time_low": 69.0,
-      "notes": "auto-crawl 2026-09-13",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-09-13",
-          "regular": 149.0,
-          "sale": 69.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 149.0,
-          "sale": 69.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "sale": 69.0,
-          "regular": 149.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 69.0,
-          "regular": 149.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        }
-      ]
-    },
-    "DEEP": {
-      "pb_url": "/product/1-Instruments/64-Virtual-Instruments/7235-DEEP",
-      "typical_regular": 119.0,
-      "typical_sale": 29.0,
-      "all_time_low": 29.0,
-      "notes": "auto-crawl 2026-09-13",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-09-13",
-          "regular": 119.0,
-          "sale": 29.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 119.0,
-          "sale": 29.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "sale": 29.0,
-          "regular": 119.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 29.0,
-          "regular": 119.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        }
-      ]
-    },
-    "BALANCE": {
-      "pb_url": "/product/2-Effects/16-EQ/14488-BALANCE",
-      "typical_regular": 149.0,
-      "typical_sale": 99.0,
-      "all_time_low": 99.0,
-      "notes": "auto-crawl 2026-09-13",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-09-13",
-          "regular": 149.0,
-          "sale": 99.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 149.0,
-          "sale": 99.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "sale": 99.0,
-          "regular": 149.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 99.0,
-          "regular": 149.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        }
-      ]
-    },
-    "u he Hive 2 FREE Synthwave Expansion": {
-      "pb_url": "/product/81-Bundles/97-Various-Category/7683-u-he-Hive-2-FREE-Synthwave-Expansion",
-      "typical_regular": 167.42,
-      "typical_sale": 149.0,
-      "all_time_low": 149.0,
-      "notes": "auto-crawl 2026-09-13",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-09-13",
-          "regular": 167.42,
-          "sale": 149.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 167.42,
-          "sale": 149.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "sale": 149.0,
-          "regular": 167.42,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 149.0,
-          "regular": 167.42,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        }
-      ]
-    },
-    "UNMIX::DRUMS": {
-      "pb_url": "/product/3-Studio-Tools/80-Drum-Tools/2708-UNMIX-DRUMS",
-      "typical_regular": 149.0,
-      "typical_sale": 99.0,
-      "all_time_low": 99.0,
-      "notes": "auto-crawl 2026-09-13",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-09-13",
-          "regular": 149.0,
-          "sale": 99.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 149.0,
-          "sale": 99.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-13",
-          "sale": 99.0,
-          "regular": 149.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 99.0,
-          "regular": 149.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        }
-      ]
-    },
-    "Virtual Drummer 2 Bundle": {
-      "pb_url": "/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle",
-      "typical_regular": 199.0,
-      "typical_sale": 99.0,
-      "all_time_low": 99.0,
-      "notes": "auto-crawl 2026-09-13",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-09-13",
-          "regular": 199.0,
-          "sale": 99.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 199.0,
-          "sale": 99.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "sale": 99.0,
-          "regular": 199.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        }
-      ]
-    },
-    "PUNCH": {
-      "pb_url": "/product/2-Effects/36-Transient-Shaper/14224-PUNCH",
-      "typical_regular": 149.0,
-      "typical_sale": 99.0,
-      "all_time_low": 99.0,
-      "notes": "auto-crawl 2026-09-13",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-09-13",
-          "regular": 149.0,
-          "sale": 99.0,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-09-13",
-          "regular": 149.0,
-          "sale": 99.0,
           "source": "auto_check",
           "store": "plugin_boutique",
           "reg_src": "page",

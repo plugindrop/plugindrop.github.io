@@ -19,7 +19,7 @@ If you're scoring anything that calls for innocence, vulnerability, or a "voice 
 
 The buying decision here is less "which children's choir should I get" — there's really only one serious contender — and more "should I buy it alone, or is now the moment to grab it inside 8Dio's bundle deal." That's what this guide is for.
 
-**Regular price:** $79 (list price $498) | **Bundled price:** [$69 for any 3 choirs](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art) — meaning Liberis plus two more titles for less than its own solo price.
+**Regular price:** $79 (list price $498) | **Bundled price:** [Pick Any 3 Choirs for $69 deal](https://8dio.com/) — meaning Liberis plus two more titles for less than its own solo price.
 
 ---
 
@@ -78,7 +78,7 @@ If your work never touches these contexts, Liberis is a pass — it's a speciali
 
 ## Part of the Pick 3 Deal
 
-Liberis is one of six eligible titles in 8Dio's **[Pick Any 3 Choirs for $69](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)** promotion. Its high, bright, youthful timbre contrasts well against the deeper adult choirs in the same eligible list, so most composers building an actual choir toolkit pair it with one adult ensemble and one more specialized title rather than buying it as a standalone purchase.
+Liberis is one of six eligible titles in 8Dio's **[Pick Any 3 Choirs for $69 deal](https://8dio.com/)** promotion. Its high, bright, youthful timbre contrasts well against the deeper adult choirs in the same eligible list, so most composers building an actual choir toolkit pair it with one adult ensemble and one more specialized title rather than buying it as a standalone purchase.
 
 [→ See all eligible titles and grab the deal](https://www.pluginboutique.com/search?q=liberis%20childrens%20choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-liberis-choir&chan=art&data1=8dio-liberis-choir)
 
@@ -121,4 +121,4 @@ Given the bundle math, most producers who know they want Liberis should buy now 
 ## Related Guides
 - [Best Free Choir VST Plugins in 2026](/posts/best-free-choir-vst-plugins/)
 - [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)
-- [8Dio Pick Any 3 Choirs — $69 Deal](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)
+- [Pick Any 3 Choirs for $69 deal](https://8dio.com/)

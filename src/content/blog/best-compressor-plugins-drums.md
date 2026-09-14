@@ -27,7 +27,7 @@ priceTrack:
 | Waves SSL G-Master Buss | ~$29–49 | Classic drum bus glue | [Developer Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | Cytomic The Glue | ~$40 | Analog-modeled SSL bus emulation | cytomic.com |
 | Rough Rider 3 | Free | Character compression & pumping | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
-| TDR Kotelnikov | Free | Transparent drum bus | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-compressor-plugins-drums&chan=art&data1=best-compressor-plugins-drums) |
+| TDR Kotelnikov | Free | Transparent drum bus | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Waves CLA-76 | ~$29–49 | FET transients on snare & rooms | waves.com |
 | Klanghelm MJUC jr. | Free | Tube warmth on drum bus | klanghelm.com |
 
@@ -108,7 +108,7 @@ Because the base plugin costs nothing, there's no "wait for a sale" calculus her
 
 **Best for:** Producers who need clean, surgical bus control where the character is already in the samples or the room.
 
-[→ Download TDR Kotelnikov Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-compressor-plugins-drums&chan=art&data1=best-compressor-plugins-drums)
+[Free Download](https://www.tokyodawn.net/tdr-kotelnikov/)
 
 ---
 
@@ -292,7 +292,7 @@ Available through slatedigital.com.
 | Waves SSL G-Master Buss | ~$29–49 | VCA Bus Emulation | Auto release, minimal controls, industry-standard | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | FabFilter Pro-C 2 | $179 | Multi-Style | 8 compression modes, visual GR display, sidechain EQ | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-drums) |
 | Cytomic The Glue | ~$40 | VCA Bus Emulation | Circuit-modeled SSL, basis for Ableton's Glue Compressor | cytomic.com |
-| TDR Kotelnikov | Free | Precision/Transparent | Stereo link control, no coloration | [Free](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-compressor-plugins-drums&chan=art&data1=best-compressor-plugins-drums) |
+| TDR Kotelnikov | Free | Precision/Transparent | Stereo link control, no coloration | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Rough Rider 3 | Free | Character/Pumping | Mix knob, drum-focused design, large tutorial library | [Free](https://www.audiodamage.com/pages/free-and-legacy) |
 | Waves CLA-76 | ~$29–49 | FET Emulation | 1176 circuit, Blacky/Bluey variants, all-buttons-in mode | waves.com |
 | Klanghelm MJUC | Free/~$24 | Variable-Mu | Three tube circuit modes, parallel compression warmth | klanghelm.com |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13",
+  "generated_at": "2026-09-14",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": true,
-      "generated_at": "2026-09-13",
-      "observations": 1500,
-      "products_tracked": 479,
-      "products_on_sale": 217,
-      "on_sale_pct": 45.3,
-      "avg_discount_pct": 56.2,
-      "median_discount_pct": 51,
+      "generated_at": "2026-09-14",
+      "observations": 1626,
+      "products_tracked": 492,
+      "products_on_sale": 230,
+      "on_sale_pct": 46.7,
+      "avg_discount_pct": 56.0,
+      "median_discount_pct": 51.0,
       "discount_buckets": {
-        "1-19": 10,
-        "20-39": 36,
-        "40-59": 76,
-        "60+": 95
+        "1-19": 11,
+        "20-39": 40,
+        "40-59": 79,
+        "60+": 100
       },
-      "all_time_low_hits": 185,
+      "all_time_low_hits": 198,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -286,10 +286,10 @@
       "by_category": [
         {
           "category": "Other",
-          "tracked": 366,
-          "on_sale": 175,
-          "on_sale_pct": 47.8,
-          "avg_discount_pct": 59.1
+          "tracked": 379,
+          "on_sale": 188,
+          "on_sale_pct": 49.6,
+          "avg_discount_pct": 58.6
         },
         {
           "category": "Synth",
@@ -392,16 +392,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-08",
-        "on_sale_pct_delta": -17.2,
-        "avg_discount_pct_delta": 3.4,
-        "products_tracked_delta": 20
+        "on_sale_pct_delta": -15.8,
+        "avg_discount_pct_delta": 3.2,
+        "products_tracked_delta": 33
       }
     },
     {
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-09-13",
+      "generated_at": "2026-09-14",
       "observations": 3720,
       "products_tracked": 459,
       "products_on_sale": 287,
@@ -792,7 +792,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-09-13",
+      "generated_at": "2026-09-14",
       "observations": 2052,
       "products_tracked": 302,
       "products_on_sale": 155,

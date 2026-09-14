@@ -24,8 +24,8 @@ priceTrack:
 | Valhalla VintageVerb | $50 | Algorithmic reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | Serum | $189 | Wavetable synthesis | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one&chan=art&data1=best-plugins-studio-one) |
 | iZotope Neutron 4 | From $149 | AI-assisted mixing | [Official Site](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
-| TDR Nova | Free | Dynamics EQ on zero budget | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one&chan=art&data1=best-plugins-studio-one) |
-| Valhalla Supermassive | Free | Lush ambient reverb & delay | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one&chan=art&data1=best-plugins-studio-one) |
+| TDR Nova | Free | Dynamics EQ on zero budget | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
+| Valhalla Supermassive | Free | Lush ambient reverb & delay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Slate Digital Fresh Air | Free | Instant high-freq enhancement | [Free Download](https://slatedigital.com/free-plugins/) |
 
 ## Introduction
@@ -70,7 +70,7 @@ TDR Nova combines a four-band parametric EQ with per-band dynamics processing, m
 
 **Best for:** Producers on a budget who need real multiband dynamics without a subscription or significant spend.
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one&chan=art&data1=best-plugins-studio-one)
+[Free Download](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 
@@ -123,7 +123,7 @@ Valhalla documents Supermassive as using a modulated feedback delay network arch
 
 **Best for:** Ambient pads, cinematic swells, and extreme texture work where you need massive reverb density at no cost.
 
-[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one&chan=art&data1=best-plugins-studio-one)
+[Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
 
@@ -285,10 +285,10 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | FabFilter Pro-Q 4 | $179 | EQ | 24 bands, per-band dynamic EQ, M/S, linear phase | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
-| TDR Nova | Free | Dynamics EQ | 4-band parametric + per-band compressor/expander | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one&chan=art&data1=best-plugins-studio-one) |
+| TDR Nova | Free | Dynamics EQ | 4-band parametric + per-band compressor/expander | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | iZotope Neutron 4 | From $149 | Channel Strip | AI Track Assistant, inter-plugin communication | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
 | Valhalla VintageVerb | $50 | Reverb | Vintage algorithm models, 3 color modes per algo | [Get it](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
-| Valhalla Supermassive | Free | Reverb/Delay | Modulated feedback delay network, extreme tails | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one&chan=art&data1=best-plugins-studio-one) |
+| Valhalla Supermassive | Free | Reverb/Delay | Modulated feedback delay network, extreme tails | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Serum | $189 | Wavetable Synth | Visual modulation matrix, built-in wavetable editor | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-studio-one&chan=art&data1=best-plugins-studio-one) |
 | Arturia Pigments 5 | ~$99–$199 | Hybrid Synth | 5 oscillator types, deep arpeggiator/sequencer | [Get it](https://www.arturia.com) |
 | u-he Tyrell N6 | Free | Analog Synth | Subtractive architecture, u-he filter quality | [Download](https://u-he.com) |

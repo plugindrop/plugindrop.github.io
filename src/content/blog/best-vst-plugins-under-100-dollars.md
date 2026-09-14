@@ -21,7 +21,7 @@ priceTrack:
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | FabFilter Pro-C 2 | $99 | All-purpose compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
-| Valhalla VintageVerb | ~$50 | Vintage hall and room reverbs | [Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
+| Valhalla VintageVerb | ~$50 | Vintage hall and room reverbs | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
 | Arturia Rev PLATE-140 | ~$49 | EMT 140 plate emulation | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20Rev%20PLATE-140&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | D16 Group Repeater | ~$49 | Vintage tape delay | [Plugin Boutique](https://www.pluginboutique.com/search?q=D16%20Group%20Repeater%20delay&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | iZotope RX Elements | ~$99 | Noise removal and audio repair | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20RX%20Elements&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
@@ -58,7 +58,7 @@ Valhalla VintageVerb models digital reverb algorithms from the late 1970s throug
 
 **Best for:** Lush synthesizer atmospheres, vintage snare ambience, adding depth to any source without cluttering the mix
 
-[→ Get Valhalla VintageVerb on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars)
+[Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
 
 ---
 
@@ -277,7 +277,7 @@ Ozone Elements brings iZotope's Master Assistant AI into a streamlined mastering
 - **Price:** ~$50
 - **Why upgrade:** Valhalla's free Supermassive is excellent for expansive ambient textures but lacks per-track mix precision. VintageVerb's 22 distinct algorithm modes, adjustable pre-delay, and Color shaping give you the control needed to place reverbs accurately in dense arrangements where every effect must occupy its own frequency pocket without overlap.
 
-[→ Get Valhalla VintageVerb on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars)
+[Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
 
 ---
 
@@ -297,7 +297,7 @@ Ozone Elements brings iZotope's Master Assistant AI into a streamlined mastering
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Valhalla VintageVerb | ~$50 | Reverb | 22 vintage algorithm modes, low CPU | [Buy](https://www.pluginboutique.com/search?q=Valhalla%20VintageVerb%20reverb&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
+| Valhalla VintageVerb | ~$50 | Reverb | 22 vintage algorithm modes, low CPU | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
 | Arturia Rev PLATE-140 | ~$49 | Reverb | Physical EMT 140 modeling, 3 tank configurations | [Buy](https://www.pluginboutique.com/search?q=Arturia%20Rev%20PLATE-140&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | Soundtoys Little Plate | ~$49 | Reverb | Infinite mode, analog warmth, minimal UI | [Buy](https://www.pluginboutique.com/search?q=Soundtoys%20Little%20Plate%20reverb&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | D16 Group Repeater | ~$49 | Delay | 4 tape machine models, diffusion control | [Buy](https://www.pluginboutique.com/search?q=D16%20Group%20Repeater%20delay&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |

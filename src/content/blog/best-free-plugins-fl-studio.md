@@ -21,11 +21,11 @@ draft: false
 |--------|-------|----------|--------|
 | Vital | Free | Wavetable synth leads & pads | [Plugin Boutique](https://vital.audio) |
 | Surge XT | Free | Complex sound design & FM | [Plugin Boutique](https://surge-synthesizer.github.io) |
-| TDR Nova | Free | Dynamic EQ on any mix bus | [Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova%20equalizer&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) |
+| TDR Nova | Free | Dynamic EQ on any mix bus | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
 | Valhalla Supermassive | Free | Lush reverb & ambient textures | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Rough Rider 3 | Free | Punchy drum & bass compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=Rough%20Rider%203&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) |
 | Spitfire LABS | Free | Cinematic & orchestral textures | [Free Download](https://labs.spitfireaudio.com/) |
-| OB-Xd | Free | Warm analog polysynth sounds | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-fl-studio&chan=art&data1=best-free-plugins-fl-studio) |
+| OB-Xd | Free | Warm analog polysynth sounds | [Free Download](https://www.discodsp.com/obxd/) |
 
 ---
 
@@ -60,7 +60,7 @@ Vital is a spectral warping wavetable synthesizer with a fully visual, drag-and-
 
 **Best for:** Leads, pads, plucks, and complex wavetable evolving textures in any genre.
 
-**Skip it if…** you live inside commercial preset packs. Vital's factory bank is strong, but its third-party preset ecosystem is a fraction of the size of Serum's, and the free tier caps how many presets and skins you can hold. Producers who buy patches every week will eventually want [Serum on Plugin Boutique](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio).
+**Skip it if…** you live inside commercial preset packs. Vital's factory bank is strong, but its third-party preset ecosystem is a fraction of the size of Serum's, and the free tier caps how many presets and skins you can hold. Producers who buy patches every week will eventually want [Serum](https://xferrecords.com/products/serum-2).
 
 [→ Get Vital (official site)](https://vital.audio)
 [→ Download Vital Free](https://vital.audio/)
@@ -100,10 +100,10 @@ TAL-NoiseMaker is the ideal grab-and-play analog synth for producers who don't w
 
 **Best for:** Quick analog leads, basslines, retro synth sounds, and CPU-limited setups.
 
-**Skip it if…** you need modern digital textures. Two oscillators and no wavetable or FM engine means it cannot do evolving EDM growls or complex spectral movement. For that, Vital is the free option and [Serum on Plugin Boutique](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) is the paid one.
+**Skip it if…** you need modern digital textures. Two oscillators and no wavetable or FM engine means it cannot do evolving EDM growls or complex spectral movement. For that, Vital is the free option and [Serum](https://xferrecords.com/products/serum-2) is the paid one.
 
-[→ Get TAL-NoiseMaker on Plugin Boutique](https://www.pluginboutique.com/search?q=TAL-NoiseMaker&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio)
-[→ Download TAL-NoiseMaker Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-fl-studio&chan=art&data1=best-free-plugins-fl-studio)
+[→ Get TAL-NoiseMaker](https://tal-software.com/products/tal-noisemaker)
+[→ Download TAL-NoiseMaker Free](https://tal-software.com/products/tal-noisemaker)
 
 ---
 
@@ -120,7 +120,7 @@ OB-Xd models the classic Oberheim OB-X architecture with impressive accuracy, de
 
 **Skip it if…** you want one do-everything synth. OB-Xd nails a single flavor, the Oberheim polysynth sound, and little else; its modulation and onboard effects are basic by 2026 standards. Treat it as a specialist, not your main instrument.
 
-[→ Download OB-Xd Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-fl-studio&chan=art&data1=best-free-plugins-fl-studio)
+[Free Download](https://www.discodsp.com/obxd/)
 
 ---
 
@@ -177,8 +177,8 @@ TDR Nova combines a four-band parametric EQ with per-band dynamic EQ capability,
 
 **Skip it if…** you do surgical mastering EQ. Nova gives you four dynamic bands with no built-in oversampling and no spectrum grab-node workflow — fine for mixing, limiting for mastering. Engineers who need dozens of bands and linear phase will want [FabFilter Pro-Q 4 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio).
 
-[→ Get TDR Nova on Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova%20equalizer&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio)
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-fl-studio&chan=art&data1=best-free-plugins-fl-studio)
+[Plugin Boutique](https://www.tokyodawn.net/tdr-nova/)
+[Free Download](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 
@@ -234,7 +234,7 @@ TDR Kotelnikov is widely considered the best free mastering compressor available
 
 **Skip it if…** you need multiband or mid/side dynamics. The free build is wideband only and drops the M/S processing and equal-loudness bypass reserved for the paid GE version. One transparent style, done extremely well — but only one.
 
-[→ Download TDR Kotelnikov Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-fl-studio&chan=art&data1=best-free-plugins-fl-studio)
+[Free Download](https://www.tokyodawn.net/tdr-kotelnikov/)
 
 ---
 
@@ -374,14 +374,14 @@ If the free toolkit is serving you well and you're ready to invest, these three 
 |--------|-------|------|------------|-----|
 | Vital | Free | Wavetable Synth | Spectral warping, visual modulation, built-in FX | [Get It](https://vital.audio) |
 | Surge XT | Free | Multi-algorithm Synth | 12 oscillator modes, CLAP support, open source | [Get It](https://surge-synthesizer.github.io) |
-| TAL-NoiseMaker | Free | Virtual Analog Synth | Lightweight, fast, warm analog sound | [Get It](https://www.pluginboutique.com/search?q=TAL-NoiseMaker&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) |
-| OB-Xd | Free | Analog Poly Emulation | Oberheim-style, voice drift, lush chords | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-fl-studio&chan=art&data1=best-free-plugins-fl-studio) |
+| TAL-NoiseMaker | Free | Virtual Analog Synth | Lightweight, fast, warm analog sound | [→ Get TAL-NoiseMaker](https://tal-software.com/products/tal-noisemaker) |
+| OB-Xd | Free | Analog Poly Emulation | Oberheim-style, voice drift, lush chords | [Free Download](https://www.discodsp.com/obxd/) |
 | Dexed | Free | FM Synthesizer | DX7 compatibility, .syx patch support | [Get It](https://github.com/asb2m10/dexed/releases) |
 | Spitfire LABS | Free | Sample Instrument | 50+ instruments, studio-quality samples | [Get It](https://labs.spitfireaudio.com/) |
-| TDR Nova | Free | Dynamic EQ | Per-band dynamics, transparent processing | [Get It](https://www.pluginboutique.com/search?q=TDR%20Nova%20equalizer&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) |
+| TDR Nova | Free | Dynamic EQ | Per-band dynamics, transparent processing | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
 | Voxengo SPAN | Free | Spectrum Analyzer | Real-time FFT, configurable display | [Get It](https://www.voxengo.com/product/span/) |
 | Rough Rider 3 | Free | Character Compressor | Blend control, punchy, energetic | [Get It](https://www.pluginboutique.com/search?q=Rough%20Rider%203&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) |
-| TDR Kotelnikov | Free | Bus Compressor | Mastering-grade, transparent, program-dependent | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-plugins-fl-studio&chan=art&data1=best-free-plugins-fl-studio) |
+| TDR Kotelnikov | Free | Bus Compressor | Mastering-grade, transparent, program-dependent | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Valhalla Supermassive | Free | Reverb / Delay | 23 algorithms, ambient to tight room | [Get It](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Dragonfly Reverb | Free | Multi-type Reverb | Room, Hall, Plate, Early Reflections | [Get It](https://michaelwillis.github.io/dragonfly-reverb/) |
 | Ozone Imager 2 | Free | Stereo Processor | Lissajous meter, smooth width control | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) |
@@ -395,7 +395,7 @@ If the free toolkit is serving you well and you're ready to invest, these three 
 
 ## How to Choose
 
-- **If you want one synth that does everything**, start with Vital: it covers wavetable, subtractive, and FM-adjacent sounds with an interface that rewards both beginners and advanced sound designers. When you outgrow it, [Serum on Plugin Boutique](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) is the standard next step.
+- **If you want one synth that does everything**, start with Vital: it covers wavetable, subtractive, and FM-adjacent sounds with an interface that rewards both beginners and advanced sound designers. When you outgrow it, [Serum](https://xferrecords.com/products/serum-2) is the standard next step.
 - **If your mixes sound thin or harsh**, load TDR Nova on every bus and TDR Kotelnikov on the master: these two tools together fix the most common amateur mix problems without coloring the sound.
 - **If you produce ambient, cinematic, or electronic music**, Valhalla Supermassive is non-negotiable; its reverb algorithms match commercial reverbs costing far more.
 - **If you need drums and low-end to punch harder**, Rough Rider 3's built-in blend control makes parallel compression accessible in seconds without complex sends routing in FL Studio.
@@ -411,7 +411,7 @@ A: For the large majority of producers, yes. A core stack of Vital, TDR Nova, TD
 A: Vital, and it isn't especially close. It's a wavetable synth with a visual modulation system and a full built-in effects chain that trades blows with Serum. If you specifically need FM, add Dexed; for warm analog, grab TAL-NoiseMaker or OB-Xd.
 
 **Q: Do I actually need paid plugins?**
-A: Not to finish and release a track. Start paying only when you hit a specific wall — a deeper preset library ([Serum on Plugin Boutique](https://www.pluginboutique.com/search?q=Serum&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio)), surgical mastering EQ ([FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio)), or a complete mastering suite ([iZotope Ozone 11](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2011&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio)). Buy the one tool that solves your bottleneck, not a bundle you'll half-use.
+A: Not to finish and release a track. Start paying only when you hit a specific wall — a deeper preset library ([Serum](https://xferrecords.com/products/serum-2)), surgical mastering EQ ([FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio)), or a complete mastering suite ([iZotope Ozone 11](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2011&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio)). Buy the one tool that solves your bottleneck, not a bundle you'll half-use.
 
 **Q: Are free VST plugins safe to install in FL Studio?**
 A: Yes, when downloaded directly from official developer sites or trusted stores like Plugin Boutique. Avoid torrent sites or unofficial mirrors — these sometimes bundle malware with cracked plugins. Every plugin in this list links directly to its official source.
@@ -443,7 +443,7 @@ The free plugins above handle most production tasks. When you hit a specific wal
 
 | Upgrade | What It Adds | Approx. 2026 Price | When It Usually Goes On Sale |
 |---|---|---|---|
-| [Serum 2](https://www.pluginboutique.com/search?q=Serum%202&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) | The industry-standard wavetable synth and the deepest commercial preset ecosystem | $249 list · $189 sale · $99 low ([track](/plugin-prices/serum-2/)); or ~$11/mo rent-to-own | Rarely discounted outright; Splice rent-to-own is the usual way in |
+| [Serum 2](https://xferrecords.com/products/serum-2) | The industry-standard wavetable synth and the deepest commercial preset ecosystem | $249 list · $189 sale · $99 low ([track](/plugin-prices/serum-2/)); or ~$11/mo rent-to-own | Rarely discounted outright; Splice rent-to-own is the usual way in |
 | [FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) | Surgical and dynamic EQ with linear phase and per-node processing | $199 list · $149 sale · $105 low ([track](/plugin-prices/fabfilter-pro-q-4/)) | FabFilter almost never discounts; expect only ~15% off at Black Friday |
 | [FabFilter Pro-C 2](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) | Transparent, flexible compression with sidechain and oversampling | $129 list · $97 sale · $97 low ([track](/plugin-prices/fabfilter-pro-c-2/)) | Same story; a rare ~15% Black Friday dip is the best you'll see |
 | [FabFilter Pro-L 2](https://www.pluginboutique.com/search?q=FabFilter%20Pro-L%202&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) | True-peak mastering limiter with multiple algorithms | $179 list · $134 sale · $134 low ([track](/plugin-prices/fabfilter-pro-l-2/)) | Black Friday only, and only lightly |

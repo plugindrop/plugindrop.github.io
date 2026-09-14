@@ -19,11 +19,11 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Valhalla Room | $50 | Studio-grade reverb | [Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Room%20reverb&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
-| Valhalla Supermassive | Free | Ambient reverb & delay | [Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
-| Xfer OTT | Free | Multiband compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=OTT%20Xfer%20compressor&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
+| Valhalla Room | $50 | Studio-grade reverb | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/) |
+| Valhalla Supermassive | Free | Ambient reverb & delay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| Xfer OTT | Free | Multiband compression | [Plugin Boutique](https://xferrecords.com/freeware) |
 | Klanghelm SDRR | $21 | Saturation & drive | [Plugin Boutique](https://www.pluginboutique.com/search?q=Klanghelm%20SDRR&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
-| TDR Nova | Free | Dynamic EQ | [Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
+| TDR Nova | Free | Dynamic EQ | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Sitala | Free | Drum sampling | [Plugin Boutique](https://www.pluginboutique.com/search?q=Sitala%20drum%20sampler&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | Surge XT | Free | Full hybrid synthesizer | [Free Download](https://surge-synthesizer.github.io/) |
 
@@ -56,7 +56,7 @@ Valhalla Room delivers multiple algorithm options — plate, room, hall, sanctua
 
 **Best for:** Vocals, snares, acoustic instruments, cinematic pads — anything that needs a believable, musical space.
 
-[→ Get Valhalla Room on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Room%20reverb&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars)
+[Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/)
 
 ---
 
@@ -73,8 +73,8 @@ Valhalla released Supermassive as a permanent free plugin, and it has become one
 
 **Best for:** Ambient soundscapes, shimmer reverbs, experimental feedback textures, lo-fi diffusion.
 
-[→ Get Valhalla Supermassive on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars)
-[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-50-dollars&chan=art&data1=best-vst-plugins-under-50-dollars)
+[Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+[Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
 
@@ -91,7 +91,7 @@ Valhalla Delay packs tape, BBD, digital, pitch-shifting, and reverb-hybrid modes
 
 **Best for:** Rhythmic delays, tape-style slapbacks, pitch-shifted leads, ambient feedback textures.
 
-[→ Get Valhalla Delay on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Delay&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars)
+[Get It](https://valhalladsp.com/shop/delay/valhalladelay/)
 
 ---
 
@@ -110,7 +110,7 @@ OTT is a recreation of Ableton's "Over The Top" multiband compression preset, an
 
 **Best for:** Synth leads, electronic drum buses, upward compression for presence and density.
 
-[→ Get OTT on Plugin Boutique](https://www.pluginboutique.com/search?q=OTT%20Xfer%20compressor&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars)
+[Plugin Boutique](https://xferrecords.com/freeware)
 [→ Download OTT Free](https://xferrecords.com/freeware)
 
 ---
@@ -183,7 +183,7 @@ TDR Nova is a parallel dynamic equalizer with four bands, a broadband dynamics s
 
 **Best for:** Dynamic de-essing, controlling problem frequencies, transparent broadband control.
 
-[→ Get TDR Nova on Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars)
+[Free Download](https://www.tokyodawn.net/tdr-nova/)
 [→ Download TDR Nova Free](https://www.tokyodawn.net/)
 
 ---
@@ -328,7 +328,7 @@ MFreeFXBundle is the most generous free plugin release in the industry — a lar
 - **Price:** $50
 - **Why upgrade:** Free reverbs like Supermassive are excellent for diffuse, ambient spaces, but Valhalla Room's multiple algorithms and precise early reflection controls deliver the tight, shaped ambiences that vocals and drums demand. The jump in mix-readiness between a free reverb and Room is immediate and audible.
 
-[→ Get Valhalla Room on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Room%20reverb&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars)
+[Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/)
 
 ### Valhalla Delay — When creative delay modes become a priority
 
@@ -338,7 +338,7 @@ MFreeFXBundle is the most generous free plugin release in the industry — a lar
 - **Price:** $50
 - **Why upgrade:** Free delays cover basic stereo and tempo-sync tasks competently, but Valhalla Delay's tape, BBD, pitch-shifting, and reverb-hybrid modes open creative territory that no free tool can replicate. If delay is central to your sound design or mixing signature, this ends the search permanently.
 
-[→ Get Valhalla Delay on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Delay&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars)
+[Get It](https://valhalladsp.com/shop/delay/valhalladelay/)
 
 ---
 
@@ -346,14 +346,14 @@ MFreeFXBundle is the most generous free plugin release in the industry — a lar
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Valhalla Room | $50 | Reverb | Multiple algorithms, pro-grade tails | [Buy](https://www.pluginboutique.com/search?q=Valhalla%20Room%20reverb&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
-| Valhalla Supermassive | Free | Reverb/Delay | FDN spaces, shimmer, zero cost | [Get](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
-| Valhalla Delay | $50 | Delay | Tape, BBD, pitch-shift modes | [Buy](https://www.pluginboutique.com/search?q=Valhalla%20Delay&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
-| Xfer OTT | Free | Multiband Compressor | 3-band upward compression, genre staple | [Get](https://www.pluginboutique.com/search?q=OTT%20Xfer%20compressor&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
+| Valhalla Room | $50 | Reverb | Multiple algorithms, pro-grade tails | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/) |
+| Valhalla Supermassive | Free | Reverb/Delay | FDN spaces, shimmer, zero cost | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| Valhalla Delay | $50 | Delay | Tape, BBD, pitch-shift modes | [Get It](https://valhalladsp.com/shop/delay/valhalladelay/) |
+| Xfer OTT | Free | Multiband Compressor | 3-band upward compression, genre staple | [Plugin Boutique](https://xferrecords.com/freeware) |
 | Analog Obsession BUSTERse | Free | Bus Compressor | SSL-style glue, zero cost | [Get](https://www.pluginboutique.com/search?q=Analog%20Obsession%20BUSTERse&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | Klanghelm MJUC jr. | Free | Compressor | Variable-mu tube character | [Get](https://www.pluginboutique.com/search?q=Klanghelm%20MJUC%20jr&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | TDR Limiter 6 GE | ~$60* | Limiter | 6-stage modular mastering chain | [Buy](https://www.pluginboutique.com/search?q=TDR%20Limiter%206%20GE&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
-| TDR Nova | Free | Dynamic EQ | Parallel dynamic EQ, transparent | [Get](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
+| TDR Nova | Free | Dynamic EQ | Parallel dynamic EQ, transparent | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Baby Audio Smooth Operator | $49 | Spectral Processor | Intelligent mix balancing | [Buy](https://www.pluginboutique.com/search?q=Baby%20Audio%20Smooth%20Operator&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | Klanghelm SDRR | $21 | Saturation | 4 distinct drive modes | [Buy](https://www.pluginboutique.com/search?q=Klanghelm%20SDRR&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | Chow Tape Model | Free | Tape Emulation | Physically modeled, open-source | [Get](https://www.pluginboutique.com/search?q=Chow%20Tape%20Model&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
@@ -397,7 +397,7 @@ A: Valhalla DSP has publicly stated that their $50 pricing is permanent — no s
 
 Start with Valhalla Room — it's the highest-impact purchase available at this budget, and its reverb quality will show up in every mix you make from the first session. Layer in the free picks on this list, and you'll have a toolkit that would cost $500–$1,000 to assemble from commercial alternatives just three years ago.
 
-[→ Get Valhalla Room on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Room%20reverb&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars)
+[Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/)
 
 ---
 

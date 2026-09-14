@@ -16,7 +16,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Valhalla Delay | $50 | Transparent and vintage delay | [Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Delay&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-use-delay-mixing&chan=art&data1=how-to-use-delay-mixing) |
+| Valhalla Delay | $50 | Transparent and vintage delay | [Get It](https://valhalladsp.com/shop/delay/valhalladelay/) |
 | Soundtoys EchoBoy | $149 | Tape delay and groove character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&chan=art&data1=how-to-use-delay-mixing) |
 | TAL-Dub-X | Free | Lo-fi dub delay | [TAL-Software.com](https://tal-software.com/products/tal-dub-x) |
 | Arturia Tape MELLO-FI | $99 | Tape delay and mellotron textures | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20MELLO-FI&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-use-delay-mixing&chan=art&data1=how-to-use-delay-mixing) |
@@ -110,7 +110,7 @@ Ping-pong delay routes each successive repeat to alternating sides of the stereo
 - **Formats:** VST, VST3, AU, AAX
 - **Why it matters for mixing:** Valhalla Delay's twelve delay modes cover transparent digital, tape-modeled, and pitch-shifting delay types in a single plugin — the range means you rarely need a second delay plugin. The Ghost mode's spectral delay and the Pitch mode's clean pitch-shifted feedback are particularly useful for atmospheric mixing applications. At $50 with Valhalla's consistent audio quality, it's the clearest value purchase in the delay category.
 
-[→ Get Valhalla Delay (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Delay&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-use-delay-mixing&chan=art&data1=how-to-use-delay-mixing)
+[Get It](https://valhalladsp.com/shop/delay/valhalladelay/)
 
 ---
 

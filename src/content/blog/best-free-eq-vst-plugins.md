@@ -22,12 +22,12 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| TDR Nova | Free | Dynamic EQ — mixing & mastering | [Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova%20equalizer&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
+| TDR Nova | Free | Dynamic EQ — mixing & mastering | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
 | Voxengo Marvel GEQ | Free | Linear phase graphic EQ | [Plugin Boutique](https://www.pluginboutique.com/search?q=Voxengo%20Marvel%20GEQ&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | MEqualizer | Free | Feature-complete parametric EQ | [Plugin Boutique](https://www.pluginboutique.com/search?q=MeldaProduction%20MEqualizer&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | Baxter EQ | Free | Analog color on mix channels | [Plugin Boutique](https://www.pluginboutique.com/search?q=Baxter%20EQ&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | LP10 | Free | Transparent mastering EQ | [Plugin Boutique](https://www.pluginboutique.com/search?q=LP10%20EQ%20plugin&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
-| TDR SlickEQ | Free | Bus EQ with musical saturation | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20SlickEQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-eq-vst-plugins&chan=art&data1=best-free-eq-vst-plugins) |
+| TDR SlickEQ | Free | Bus EQ with musical saturation | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | ReaEQ | Free | Unlimited-band surgical mixing | [Free Download](https://www.reaper.fm/reaplugs/) |
 
 ---
@@ -61,7 +61,7 @@ TDR Nova is a parallel dynamic equalizer with four fully parametric bands, switc
 
 [→ Watch TDR Nova in action on YouTube](https://www.youtube.com/watch?v=1CHFv4mWQYM)
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-eq-vst-plugins&chan=art&data1=best-free-eq-vst-plugins) | [→ Get TDR Nova on Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova%20equalizer&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins)
+[Free Download](https://www.tokyodawn.net/tdr-nova/) | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 
@@ -196,7 +196,7 @@ From the same team behind TDR Nova, SlickEQ is designed specifically for mix bus
 
 **Skip it if:** you need surgical precision. SlickEQ's three broad bands are built for musical, wide-Q bus shaping, not for notching out a narrow feedback ring or a single resonant node.
 
-[→ Download TDR SlickEQ Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20SlickEQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-eq-vst-plugins&chan=art&data1=best-free-eq-vst-plugins)
+[Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/)
 
 ---
 
@@ -264,7 +264,7 @@ Voxengo's Overtone GEQ takes a different approach to equalization by working wit
 - **Price:** Check current pricing (Waves runs frequent sales)
 - **Why upgrade:** TDR SlickEQ and Baxter EQ gesture toward analog console character, but the SSL E-Channel is an official emulation of the SSL 4000 E series channel EQ — the specific piece of hardware that defined the sound of commercial music production through the 1980s and 1990s. If you need that precise console character, no free plugin gets as close.
 
-[→ Get Waves SSL E-Channel on Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20SSL%20E-Channel&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins)
+[→ Get Waves SSL E-Channel](https://www.waves.com/plugins/ssl-e-channel)
 
 ---
 
@@ -284,18 +284,18 @@ Voxengo's Overtone GEQ takes a different approach to equalization by working wit
 
 | Plugin | Price | Type | Highlights | Get It |
 |--------|-------|------|------------|--------|
-| TDR Nova | Free | Dynamic parametric | Dynamic bands, spectrum analyzer | [Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova%20equalizer&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
+| TDR Nova | Free | Dynamic parametric | Dynamic bands, spectrum analyzer | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
 | MEqualizer | Free | Parametric | 6 bands, A/B, oscilloscope | [Plugin Boutique](https://www.pluginboutique.com/search?q=MeldaProduction%20MEqualizer&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | Baxter EQ | Free | Analog-style | British console character | [Plugin Boutique](https://www.pluginboutique.com/search?q=Baxter%20EQ&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | Blue Cat's Triple EQ | Free | Semi-parametric | 3 bands, ultra-fast workflow | [Developer Site](https://www.bluecataudio.com/Products/Product_TripleEQ/) |
 | ReaEQ | Free | Parametric | Unlimited bands, low CPU | [Developer Site](https://www.reaper.fm/reaplugs/) |
 | Voxengo Marvel GEQ | Free | Linear phase graphic | 16 bands, zero phase distortion | [Plugin Boutique](https://www.pluginboutique.com/search?q=Voxengo%20Marvel%20GEQ&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | LP10 | Free | Linear phase mastering | Up to 10 bands, surgical | [Plugin Boutique](https://www.pluginboutique.com/search?q=LP10%20EQ%20plugin&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
-| TDR SlickEQ | Free | Bus/mastering EQ | Musical saturation, 3 bands | [Developer Site](https://www.pluginboutique.com/search?q=TDR%20SlickEQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-eq-vst-plugins&chan=art&data1=best-free-eq-vst-plugins) |
+| TDR SlickEQ | Free | Bus/mastering EQ | Musical saturation, 3 bands | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | Ignite Amps PTEq-X | Free | Passive/vintage | Pultec character, low-end shaping | [Developer Site](https://www.igniteamps.com/) |
 | Voxengo Overtone GEQ | Free | Harmonic graphic | Harmonic partial shaping | [Developer Site](https://www.voxengo.com/) |
 | FabFilter Pro-Q 4 | ~$179 | Dynamic parametric | Industry standard, EQ match | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
-| Waves SSL E-Channel | Varies | Analog emulation | SSL 4000 E console EQ | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20SSL%20E-Channel&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
+| Waves SSL E-Channel | Varies | Analog emulation | SSL 4000 E console EQ | [→ Get Waves SSL E-Channel](https://www.waves.com/plugins/ssl-e-channel) |
 | iZotope Neutron | Varies | AI-assisted | Mix assistant, masking detection | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 
 ---
@@ -338,7 +338,7 @@ The free tools here cover about 90% of what most producers do. When the remainin
 | Plugin | Approx. 2026 Price | What You Gain Over Free | Get It |
 |--------|--------------------|------------------------|--------|
 | FabFilter Pro-Q 4 | ~$179 | Per-band dynamic EQ, mid/side per band, EQ match, and spectrum collision detection between instances | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
-| Waves SSL E-Channel | ~$30–50 on sale | Official SSL 4000 E channel EQ plus dynamics — the real console curve Baxter only gestures at | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20SSL%20E-Channel&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
+| Waves SSL E-Channel | ~$30–50 on sale | Official SSL 4000 E channel EQ plus dynamics — the real console curve Baxter only gestures at | [→ Get Waves SSL E-Channel](https://www.waves.com/plugins/ssl-e-channel) |
 | iZotope Neutron 5 | ~$199 | AI masking detection between tracks, Mix Assistant, and a full channel strip around the EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | iZotope Ozone 12 | ~$249 | AI-assisted mastering EQ plus spectrum analysis, imaging, and limiting in one suite | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 
@@ -350,7 +350,7 @@ The free tools here cover about 90% of what most producers do. When the remainin
 
 The best free EQ VST plugin in 2026 is **TDR Nova** — it is dynamic, transparent, and competitive with tools that cost real money, and there is no reasonable argument for not having it installed. The other nine picks on this list are each genuinely useful in their specific lane: linear phase mastering, analog console character, Pultec vintage coloring, and unlimited surgical precision. When you are ready to invest, **FabFilter Pro-Q 4** is the one upgrade that will change how you think about equalization.
 
-[→ Get TDR Nova on Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova%20equalizer&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins)
+[Plugin Boutique](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 

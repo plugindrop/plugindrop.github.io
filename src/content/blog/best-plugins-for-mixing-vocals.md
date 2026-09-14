@@ -22,7 +22,7 @@ draft: false
 | iZotope Nectar 4 | $199 | Complete vocal suite | [iZotope](https://www.pluginboutique.com/search?q=iZotope%20Nectar&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-mixing-vocals&chan=art&data1=best-plugins-for-mixing-vocals) |
 | FabFilter Pro-Q 4 | $179 | Surgical EQ | [FabFilter](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-for-mixing-vocals) |
 | Waves Tune Real-Time | from $29 | Real-time pitch correction | [Waves](https://www.waves.com/plugins/waves-tune-real-time) |
-| Valhalla Supermassive | Free | Reverb & spatial depth | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-mixing-vocals&chan=art&data1=best-plugins-for-mixing-vocals) |
+| Valhalla Supermassive | Free | Reverb & spatial depth | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Waves Vocal Bundle | varies | Full Waves vocal toolkit | [Official Site](https://www.waves.com/bundles/vocal) |
 
 ---
@@ -217,7 +217,7 @@ Valhalla Supermassive is the most-recommended free reverb plugin across r/edmpro
 
 **Best for:** Any vocal production that needs quality reverb at no cost, from subtle room ambience to dense, creative spatial effects.
 
-[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-mixing-vocals&chan=art&data1=best-plugins-for-mixing-vocals)
+[Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
 
@@ -296,7 +296,7 @@ FabFilter Pro-L 2 is the most-recommended transparent limiter in KVR Audio and G
 | iZotope Nectar 4 | $199 | All-in-One Suite | AI assistant, Unmask, full chain coverage | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Nectar&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-mixing-vocals&chan=art&data1=best-plugins-for-mixing-vocals) |
 | Waves Doubler 4 | from $29 | Width/Doubling | 4 voices, pitch/timing/pan per voice | Developer site |
 | Waves Vocal Rider | from $29 | Gain Riding | Auto gain, sidechain mix reference | Developer site |
-| Valhalla Supermassive | Free | Reverb | 24 modes, dense spatial textures | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-mixing-vocals&chan=art&data1=best-plugins-for-mixing-vocals) |
+| Valhalla Supermassive | Free | Reverb | 24 modes, dense spatial textures | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Soundtoys EchoBoy | $99 | Delay | 30+ hardware emulations, Rhythm Echo mode | Developer site |
 | FabFilter Pro-L 2 | $179 | Limiter | Multiple limiting styles, ISP detection | Developer site |
 

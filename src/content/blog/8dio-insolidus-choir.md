@@ -14,7 +14,7 @@ draft: false
 
 Insolidus is 8Dio's soft, lyrical choir built around a **polyphonic legato engine** — the first choir library that lets you play full chord progressions, not just single melodic lines, with realistic voice-leading in one patch. If you write harmonic choral parts for film, games, or emotional underscore, this is a specced-out reason to stop layering multiple choir instances just to fake a chord.
 
-It's currently part of the **[Pick Any 3 Choirs for $69 deal](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)** — a meaningful discount off its $99 solo price if you can pair it with two other titles you'd actually use. [Buy on Plugin Boutique →](https://www.pluginboutique.com/search?q=insolidus%20choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-insolidus-choir&chan=art&data1=8dio-insolidus-choir)
+It's currently part of the **[Pick Any 3 Choirs for $69 deal](https://8dio.com/)** — a meaningful discount off its $99 solo price if you can pair it with two other titles you'd actually use. [Buy on Plugin Boutique →](https://www.pluginboutique.com/search?q=insolidus%20choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-insolidus-choir&chan=art&data1=8dio-insolidus-choir)
 
 ---
 
@@ -29,8 +29,8 @@ It's currently part of the **[Pick Any 3 Choirs for $69 deal](https://www.plugin
 | Pick | Best For | Price | Link |
 |---|---|---|---|
 | **8Dio Insolidus Choir** | Polyphonic legato, harmonic choral writing | $99 solo / **$69 in Pick 3** | [View deal](https://www.pluginboutique.com/search?q=insolidus%20choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-insolidus-choir&chan=art&data1=8dio-insolidus-choir) |
-| **8Dio Lacrimosa** | Epic, large-scale choral sound to pair alongside Insolidus | ~$99 solo / bundled in Pick 3 | [Check Pick 3 eligibility](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art) |
-| **8Dio Aetheria** | Intimate double-choir texture, third slot in the bundle | ~$99 solo / bundled in Pick 3 | [Check Pick 3 eligibility](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art) |
+| **8Dio Lacrimosa** | Epic, large-scale choral sound to pair alongside Insolidus | ~$99 solo / bundled in Pick 3 | [Pick Any 3 Choirs for $69 deal](https://8dio.com/) |
+| **8Dio Aetheria** | Intimate double-choir texture, third slot in the bundle | ~$99 solo / bundled in Pick 3 | [Pick Any 3 Choirs for $69 deal](https://8dio.com/) |
 
 If you only need one choir right now, buy Insolidus solo for $99. If you can use two more, the Pick 3 bundle drops the effective per-title price well below that — see the math in [When to Buy](#when-to-buy) below.
 
@@ -44,7 +44,7 @@ If you only need one choir right now, buy Insolidus solo for $99. If you can use
 
 Insolidus features 40 male and 25 female singers recorded with 4 hall and 4 spot microphone positions. Its polyphonic legato engine lets you play chord and syllable progressions in real time — something most choir libraries simply can't do, because their legato scripting is built around one voice moving at a time.
 
-**Regular price:** $99 (on sale) | **Part of Pick 3 deal:** [$69 for any 3 choirs](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)
+**Regular price:** $99 (on sale) | **Part of Pick 3 deal:** [Pick Any 3 Choirs for $69 deal](https://8dio.com/)
 
 For reference, that Pick 3 price works out to roughly $23 per title if you fill all three slots — a strong ratio for a Kontakt library at this sample depth, provided the other two picks are things you'd buy anyway rather than filler.
 
@@ -106,7 +106,7 @@ It's less of a fit if what you actually need is maximum wall-of-sound scale (tha
 
 ## Part of the Pick 3 Deal
 
-Insolidus is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)** offer. Pair it with Lacrimosa for epic scale contrast, or Aetheria for an intimate double-choir texture.
+Insolidus is one of 6 eligible titles in the **[Pick Any 3 Choirs for $69 deal](https://8dio.com/)** offer. Pair it with Lacrimosa for epic scale contrast, or Aetheria for an intimate double-choir texture.
 
 [→ See all eligible titles and grab the deal](https://www.pluginboutique.com/search?q=insolidus%20choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-insolidus-choir&chan=art&data1=8dio-insolidus-choir)
 
@@ -129,4 +129,4 @@ Insolidus is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](
 ## Related Guides
 - [Best Free Choir VST Plugins in 2026](/posts/best-free-choir-vst-plugins/)
 - [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)
-- [8Dio Pick Any 3 Choirs — $69 Deal](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)
+- [Pick Any 3 Choirs for $69 deal](https://8dio.com/)

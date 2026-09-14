@@ -226,7 +226,7 @@ DMG Audio Limitless is a multi-band, mid-side capable limiter built for engineer
 
 **Best for:** Advanced engineers dealing with per-band or mid-side limiting requirements in dense mixes.
 
-[→ Get DMG Audio Limitless on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20DMG%20Audio%20Limitless&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering)
+[→ Get DMG Audio Limitless](https://dmgaudio.com/products_limitless.php)
 
 ---
 
@@ -285,7 +285,7 @@ The Sonnox Oxford Limiter V3 is a purpose-built tool for scenarios that demand s
 | Waves L2 Ultramaximizer | ~$29–$99 | Classic brickwall | IDR dithering, classic loud character | Yes | [Get It](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Waves%20L2%20Ultramaximizer&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
 | iZotope Ozone Maximizer | ~$249+ | AI-driven | Ozone ecosystem users | Yes | [Get It](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20iZotope%20Ozone&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
 | FabFilter Pro-L 2 | ~$199 | Premium | All genres, all delivery targets | Yes (30-day) | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-L%202&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
-| DMG Audio Limitless | ~$199 | Multi-band | Per-band and M/S limiting on dense mixes | Yes | [Get It](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20DMG%20Audio%20Limitless&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
+| DMG Audio Limitless | ~$199 | Multi-band | Per-band and M/S limiting on dense mixes | Yes | [→ Get DMG Audio Limitless](https://dmgaudio.com/products_limitless.php) |
 | Sonnox Oxford Limiter V3 | ~$250 | Broadcast/precision | Broadcast delivery, ISP compliance | Yes | [Get It](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Sonnox%20Oxford%20Limiter%20V3&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
 
 ---

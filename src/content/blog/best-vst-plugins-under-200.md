@@ -144,7 +144,7 @@ KVR's freeware dynamics discussions consistently rank TDR Nova among the best fr
 
 **Best for:** Producers learning dynamic EQ as a concept, or anyone needing a capable multiband dynamics tool at no cost.
 
-[→ Download TDR Nova Free (Official) (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200&chan=art&data1=best-vst-plugins-under-200)
+[Free Download](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 
@@ -197,7 +197,7 @@ KVR threads consistently note that Valhalla Room is the Valhalla plugin to reach
 
 **Best for:** Producers working in hip-hop, pop, and acoustic-adjacent genres where natural room placement is the goal rather than vintage reverb character.
 
-[→ Get Valhalla Room (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Room&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200&chan=art&data1=best-vst-plugins-under-200)
+[Valhalla Room](https://valhalladsp.com/shop/reverb/valhalla-room/)
 
 *(No affiliate link available for this plugin.)*
 
@@ -216,7 +216,7 @@ TAL-Reverb-4 appears on nearly every curated "best free reverb" list maintained 
 
 **Best for:** Producers who need a warm, usable reverb at no cost before committing to a paid option.
 
-[→ Download TAL-Reverb-4 Free (Official) (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200&chan=art&data1=best-vst-plugins-under-200)
+[Free Download](https://tal-software.com/products/tal-reverb-4)
 
 ---
 
@@ -233,7 +233,7 @@ Valhalla DSP offers Supermassive as one of their flagship free plugins, and r/am
 
 **Best for:** Producers working in ambient, experimental, or cinematic contexts who need extreme reverb spaces and evolving textural effects.
 
-[→ Download Valhalla Supermassive Free (Official) (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200&chan=art&data1=best-vst-plugins-under-200)
+[Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
 

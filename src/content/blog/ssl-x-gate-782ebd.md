@@ -1,6 +1,6 @@
 ---
-title: "69% Off SSL X Gate — Authentic SSL Bus Gate for Mixing ($15)"
-description: "SSL X Gate is on sale at Plugin Boutique for **$15**, down from ~~$49~~ — a 69% discount. It's a noise gate and expander plugin modeled on Solid State..."
+title: "69% Off SSL X Gate"
+description: "Save 69% on the SSL X Gate — a dynamic gate plugin inspired by SSL's digital broadcast consoles. ~~$49~~ now $15 at Plugin Boutique, with a limited-time..."
 pubDate: "2026-08-31T04:30:40Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=SSL+X+Gate&a_aid=69cb95abe1763&chan=art&data1=ssl-x-gate-782ebd&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-gate-782ebd"
@@ -10,85 +10,70 @@ dealPrice: "$15.00"
 originalPrice: "$49.00"
 discount: "69% OFF"
 draft: false
-saleExpiry: "2026-09-30"
-saleExpirySource: "fallback"
+updatedDate: "2026-09-14T12:30:46.411208+00:00"
+saleExpiry: "2027-09-07"
 ---
-**TL;DR:** SSL X Gate is on sale at Plugin Boutique for **$15**, down from ~~$49~~ — a 69% discount. It's a noise gate and expander plugin modeled on Solid State Logic's console circuitry, built for cleaning up drum bleed and tightening mix elements. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+X+Gate&a_aid=69cb95abe1763&chan=art&data1=ssl-x-gate-782ebd&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-gate-782ebd).
+**TL;DR:** Save 69% on the SSL X Gate — a dynamic gate plugin inspired by SSL's digital broadcast consoles. ~~$49~~ now $15 at Plugin Boutique, with a limited-time offer ending September 7. [Get the deal here](https://www.pluginboutique.com/search?q=SSL+X+Gate&a_aid=69cb95abe1763&chan=art&data1=ssl-x-gate-ssl-x-&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-gate-ssl-x-).
 
-## Price Context (tracked by PluginDrop)
-- Regular: $49
+<!-- deal-context-sale-windows:start -->
+## Last three times this went on sale
+- 2026-09-06 → 2026-09-08: as low as $15
+<!-- deal-context-sale-windows:end -->
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/xylM8izufYY" title="69% Off SSL X Gate — Authentic SSL Bus Gate for Mixing ($15) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## What you actually get
 
-## What Is SSL X Gate?
+SSL X Gate is a dynamic gate plugin designed to emulate the behavior of SSL's digital broadcast consoles. It features a rolling waveform graph for real-time visualization, mid/side processing options, and independent open and closed thresholds for tweakable hysteresis. This plugin is ideal for producers looking to achieve broadcast-quality dynamics control in their mixes.
 
-SSL X Gate is a gate and expander plugin from Solid State Logic, the UK company behind the analog consoles used on countless commercial records. The plugin is part of SSL's X-Series line, which brings console-style dynamics and EQ processing into a software format. It's aimed at engineers who want the gating behavior associated with SSL hardware without needing the physical console.
+## Where it fits in a session
 
-## Key Features
+SSL X Gate is particularly useful during the mastering and final mix stages, where precise dynamic control is essential. It can be inserted on individual tracks or buses to clean up transients, reduce noise, and shape the overall frequency balance. Its mid/side processing capabilities make it a strong choice for stereo imaging and spatial control.
 
-- **Gate/Expander mode switching** — lets you choose between a hard gate for full attenuation below threshold or a softer expander for more gradual gain reduction.
-- **Key filter (sidechain EQ)** — filters the signal used to trigger the gate, so it reacts to specific frequency content like kick thump or snare crack rather than the full mix.
-- **Threshold, Range, Attack, Hold, and Release controls** — standard gate parameters for shaping how fast the gate opens and closes and how much it reduces the signal.
-- **SSL console-modeled circuit behavior** — designed to replicate the character of the gate/expander section found on SSL's analog consoles.
-- **External sidechain input** — supports triggering the gate from a separate audio source, common for creative gating effects.
+## Pricing and deal details
 
-Check the product page for the full parameter list, supported plugin formats, and exact system requirements before purchasing.
+The current deal offers SSL X Gate at $15, a 69% discount from its regular price of $49. This is the lowest price tracked by PluginDrop, and it's within 5% of the lowest tracked price. The deal is available through September 7, so timing is key for those interested in securing this plugin at a significant discount.
 
-## Who Is It For?
+## Skip it if
 
-- **Drum engineers** — useful for tightening close mics on kits and reducing bleed between drum channels.
-- **Mix engineers working ITB** — designed for producers who want console-style gating without owning SSL hardware.
-- **Fans of the SSL sound** — a fit for anyone already using SSL's bus compressor or channel strip plugins and wanting a matching gate.
-- **Sound designers** — the external sidechain input opens up creative gating and rhythmic effects beyond straightforward noise reduction.
+If you're already using a gate plugin with similar mid/side processing and hysteresis controls, the value proposition may be less compelling. Additionally, if you're working in a project that doesn't require broadcast-level dynamic control, this plugin may be overkill for your needs.
 
-## Pricing & Deal Details
+## What producers say (with sources)
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$49~~ | **$15** | 69% ($34) |
+Solid State Logic's SSL X Gate has been mentioned in several community discussions, with users highlighting its workflow and features. One post describes it as a gate plugin inspired by SSL's digital broadcast consoles, featuring a rolling waveform graph, mid/side processing options, and tweakable hysteresis using independent open and closed thresholds ([source](https://www.reddit.com/r/AudioProductionDeals/comments/1w3wbb1/solid_state_logic_ssl_xgate_gate_plugin_inspired/)).
 
-SSL's plugins do appear in sales through Plugin Boutique periodically, though discount depth varies by promotion.
+Another mention notes that SSL X Gate is part of a bundle that includes the SSL Native X-EQ 2, X-ValveComp, and SSL Native FlexVerb, available at a discounted price through March 15 ([source](https://www.reddit.com/r/AudioProductionDeals/comments/1rhp1o9/solid_state_logic_ssl_mixing_bundle_ssl_native/)).
 
-[Get SSL X Gate at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+X+Gate&a_aid=69cb95abe1763&chan=art&data1=ssl-x-gate-782ebd&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-gate-782ebd) while the discount is active.
+<!-- deal-context-formats:start -->
+## Formats and system requirements
+- Formats: VST3, VST2, AU, AAX
+- Mac requirements: macOS 11 Big Sur - macOS 13 Ventura (64-bit only) (M1 Mac supported); Intel Dual-Core / M1 Apple Silicon processor (2.4GHz or higher); 4 GB of RAM minimum (8 GB of RAM recommended); AU, VST2, VST3, AAX Native
+- Windows requirements: Windows 10 - Windows 11 (64-bit only); Intel Core 2 (or comparable) CPU running at 2.4GHz or higher; 4 GB of RAM minimum (8 GB of RAM recommended); VST 2, VST3, AAX Native; Please Note: A FREE iLok Account is required for the authorisation of this software.; Officially Supported DAWs:; FL Studio; Ableton Live; Logic Pro; Reaper; Pro Tools; Cubase & Nuendo; Studio One; Installation Instructions; Click here to view installation instructions
+- Source: pluginboutique.com product page, retrieved 2026-09-14
+<!-- deal-context-formats:end -->
 
-## Alternatives at a Glance
+<!-- deal-context-video:start -->
+## Hear it before you buy
 
-| Name | Price | Key Difference |
-|---|---|---|
-| FabFilter Pro-G | ~$149 | Full-featured gate/expander with lookahead and range visualization, not console-modeled |
-| Waves C1 Gate | Varies, frequent Waves sales | Classic compander/gate bundled inside the C1 plugin, part of a large ecosystem |
-| SSL Native Channel Strip 2 | ~$199 | Full channel strip (EQ, comp, gate) from the same brand, higher cost for more processing |
+<iframe src="https://www.youtube.com/embed/xylM8izufYY" title="SSL X Gate — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-If you only need a standalone gate with SSL-style circuit behavior at a low entry price, SSL X Gate at $15 covers that. If you want a full SSL-modeled channel strip with EQ and compression bundled in, Channel Strip 2 covers more ground for a higher price. If brand doesn't matter and you want the most controls, Pro-G is a common recommendation for detailed gating work.
+*SSL X-Gate Plug-in: Precision gate processor — Solid State Logic*
+<!-- deal-context-video:end -->
 
 ## FAQ
 
-**Q: Does SSL X Gate require an iLok?**
-A: Licensing and authorization methods vary by SSL product line.
+**Q: Does SSL X Gate require an iLok account?**  
+A: Yes, an iLok account is required for activation and license management.
 
-**Q: What plugin formats does SSL X Gate support?**
-A: Format support (VST, VST3, AU, AAX) should be confirmed on the Plugin Boutique product page, as availability can differ by platform.
+**Q: What is the typical sale price for SSL X Gate?**  
+A: The typical sale price tracked by PluginDrop is $15, with the regular price being $49.
 
-**Q: Is this a one-time purchase or a subscription?**
-A: SSL X-Series plugins are typically sold as perpetual licenses through third-party retailers like Plugin Boutique, but confirm the license terms on the product page before checkout.
+**Q: Can SSL X Gate be used for mid/side processing?**  
+A: Yes, it includes mid/side processing options for greater control over stereo imaging.
 
-**Q: Can I use SSL X Gate for creative sidechain effects, not just noise reduction?**
-A: Yes. The external sidechain input allows the gate to be triggered by a separate audio source, which is commonly used for rhythmic gating and creative effects beyond straightforward cleanup.
+**Q: Is there a bundle that includes SSL X Gate?**  
+A: Yes, it is part of the SSL Mixing Bundle, which includes the SSL Native X-EQ 2, X-ValveComp, and SSL Native FlexVerb.
 
-## Get the Deal
+## Should you buy now?
 
-$34 off a console-modeled SSL gate plugin, down to $15 from $49. [Head to Plugin Boutique to check out the deal](https://www.pluginboutique.com/search?q=SSL+X+Gate&a_aid=69cb95abe1763&chan=art&data1=ssl-x-gate-782ebd&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-gate-782ebd) before it ends.
+The current $15 price is within 5% of the lowest tracked price, making this a strong buy for those looking to add a broadcast-quality gate to their plugin collection. With the deal ending on September 7, now is a good time to consider purchasing.
 
-## Is This Deal Worth It?
-
-A 69% discount is a substantial cut for a plugin from an established brand like SSL. SSL's software tools do go on sale through retailers like Plugin Boutique with some regularity, but discount depth of this size is not guaranteed to repeat on a fixed schedule. If you specifically want an SSL-modeled gate and the $15 price point fits your budget, this is a reasonable time to buy rather than wait. If you're unsure whether you need a dedicated gate plugin versus a bundled channel strip, it's worth comparing against SSL's other X-Series or Native offerings before committing.
-
-## Related Guides
-
-- [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
----
-
-*This post contains affiliate links. We may earn a small commission at no extra cost to you.*
+*Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*

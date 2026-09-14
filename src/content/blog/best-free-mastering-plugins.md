@@ -23,11 +23,11 @@ priceTrack:
 |--------|-------|----------|--------|
 | Youlean Loudness Meter 2 | Free | LUFS & True Peak metering | [Free Download](https://youlean.co/youlean-loudness-meter/) |
 | SPAN (Voxengo) | Free | Real-time spectrum analysis | [Free Download](https://www.voxengo.com/product/span/) |
-| TDR Nova | Free | Dynamic EQ for mastering | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-mastering-plugins&chan=art&data1=best-free-mastering-plugins) |
+| TDR Nova | Free | Dynamic EQ for mastering | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Limiter 6 GE | Free | Multi-stage brickwall limiting | [Free Download](https://www.tokyodawn.net/tdr-limiter6-ge/) |
-| TDR VOS SlickEQ | Free | Analog-voiced mastering EQ | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20SlickEQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-mastering-plugins&chan=art&data1=best-free-mastering-plugins) |
+| TDR VOS SlickEQ | Free | Analog-voiced mastering EQ | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | LoudMax | Free | Simple transparent brickwall | [Free Download](https://loudmax.blogspot.com/) |
-| TDR Kotelnikov | Free | Transparent mastering compression | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-mastering-plugins&chan=art&data1=best-free-mastering-plugins) |
+| TDR Kotelnikov | Free | Transparent mastering compression | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 
 ## Introduction
 
@@ -109,7 +109,7 @@ TDR Nova is a parallel dynamic equalizer that functions simultaneously as a conv
 
 **Best for:** Dynamic EQ corrections, de-essing, and transparent surgical mastering adjustments
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-mastering-plugins&chan=art&data1=best-free-mastering-plugins)
+[Free Download](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 
@@ -126,7 +126,7 @@ TDR VOS SlickEQ is a program-oriented mastering EQ with musically selected frequ
 
 **Best for:** Broad tonal shaping and analog warmth on the master bus
 
-[→ Download TDR VOS SlickEQ Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20SlickEQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-mastering-plugins&chan=art&data1=best-free-mastering-plugins)
+[Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/)
 
 ---
 
@@ -198,7 +198,7 @@ TDR Kotelnikov is a program-dependent mastering compressor with a deliberately r
 
 **Best for:** Gentle glue compression and density on the master bus before limiting
 
-[→ Download TDR Kotelnikov Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-mastering-plugins&chan=art&data1=best-free-mastering-plugins)
+[Free Download](https://www.tokyodawn.net/tdr-kotelnikov/)
 
 ---
 
@@ -254,12 +254,12 @@ The free toolkit above covers a complete mastering chain. These two paid tools b
 | Youlean Loudness Meter 2 | Free | Metering | LUFS, True Peak, streaming presets | [Download](https://youlean.co/youlean-loudness-meter/) |
 | SPAN (Voxengo) | Free | Spectrum Analyzer | M/S mode, correlation meter | [Download](https://www.voxengo.com/product/span/) |
 | Voxengo Correlometer | Free | Metering | Phase correlation display | [Download](https://www.voxengo.com/product/correlometer/) |
-| TDR Nova | Free | Dynamic EQ | Parallel dynamic bands, de-essing | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-mastering-plugins&chan=art&data1=best-free-mastering-plugins) |
-| TDR VOS SlickEQ | Free | Mastering EQ | Analog-voiced, saturation stage | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20SlickEQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-mastering-plugins&chan=art&data1=best-free-mastering-plugins) |
+| TDR Nova | Free | Dynamic EQ | Parallel dynamic bands, de-essing | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
+| TDR VOS SlickEQ | Free | Mastering EQ | Analog-voiced, saturation stage | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | Voxengo Marvel GEQ | Free | Graphic EQ | 16-band linear phase, M/S | [Download](https://www.voxengo.com/product/marvelgeq/) |
 | Limiter 6 GE | Free | Limiter | Multi-stage chain, True Peak | [Download](https://www.tokyodawn.net/tdr-limiter6-ge/) |
 | LoudMax | Free | Limiter | 2-control transparent brickwall | [Download](https://loudmax.blogspot.com/) |
-| TDR Kotelnikov | Free | Compressor | Program-dependent, mastering-tuned | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-mastering-plugins&chan=art&data1=best-free-mastering-plugins) |
+| TDR Kotelnikov | Free | Compressor | Program-dependent, mastering-tuned | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Klanghelm IVGI | Free | Saturation | Harmonic warmth, soft-knee | [Download](https://klanghelm.com/IVGI.php) |
 | iZotope Ozone 12 | From $49 | Suite | AI mastering, integrated workflow | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=best-free-mastering-plugins) |
 | FabFilter Pro-L 2 | $199 | Limiter | 8 algorithms, True Peak, pro delivery | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-L%202&a_aid=69cb95abe1763&chan=art&data1=best-free-mastering-plugins) |

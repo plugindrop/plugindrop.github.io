@@ -25,7 +25,7 @@ draft: false
 | Surge XT | Free | All-purpose bass synthesis | [Free Download](https://surge-synthesizer.github.io/) |
 | TAL-BassLine-101 | Free | Acid / 303-style bass lines | [Free Download](https://tal-software.com/products/tal-bassline-101) |
 | Vital | Free | Wavetable bass & modern sound design | [Free](https://vital.audio/) |
-| OB-Xd | Free | Warm analog-style bass | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst&chan=art&data1=best-free-bass-synth-vst) |
+| OB-Xd | Free | Warm analog-style bass | [Free Download](https://www.discodsp.com/obxd/) |
 | Helm | Free | Clean mono subtractive bass | [Free via Plugin Boutique](https://tytel.org/helm/) |
 | Dexed | Free | FM bass & DX7 tones | [Free Download](https://github.com/asb2m10/dexed) |
 | Odin 2 | Free | Semi-modular complex bass design | [Free Download](https://www.thewavewarden.com/odin2) |
@@ -132,7 +132,7 @@ OB-Xd is a faithful emulation of the Oberheim OB-X architecture, characterized b
 
 **Best for:** Warm, musical bass in soul, funk, R&B, slow-tempo electronic music, and any context where analog richness matters.
 
-[→ Download OB-Xd Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst&chan=art&data1=best-free-bass-synth-vst)
+[Free Download](https://www.discodsp.com/obxd/)
 
 ---
 
@@ -256,7 +256,7 @@ Triple Cheese uses three comb filters as its primary sound source instead of con
 | Surge XT | Free | Multi-engine | 12+ oscillator types, massive patch library, CLAP support | [Download](https://surge-synthesizer.github.io/) |
 | Vital | Free | Wavetable | Visual modulation, 20+ filter types, community wavetables | [Get](https://vital.audio/) |
 | TAL-BassLine-101 | Free | Virtual analog (303) | Built-in step sequencer, accent, slide, classic acid character | [Download](https://tal-software.com/products/tal-bassline-101) |
-| OB-Xd | Free | Virtual analog (Oberheim) | Warm filter, unison, AAX support, large preset community | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst&chan=art&data1=best-free-bass-synth-vst) |
+| OB-Xd | Free | Virtual analog (Oberheim) | Warm filter, unison, AAX support, large preset community | [Free Download](https://www.discodsp.com/obxd/) |
 | Helm | Free | Virtual analog | Sub-oscillator, drag-and-drop modulation, built-in effects | [Get via Plugin Boutique](https://tytel.org/helm/) |
 | Dexed | Free | FM (6-operator) | DX7 SysEx compatible, tight FM bass, low CPU | [Download](https://github.com/asb2m10/dexed) |
 | Odin 2 | Free | Semi-modular | Patch cables in GUI, 12+ filter models, complex routing | [Download](https://www.thewavewarden.com/odin2) |

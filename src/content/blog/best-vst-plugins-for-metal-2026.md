@@ -24,7 +24,7 @@ priceTrack:
 | Superior Drummer 3 | ~$179 | Professional metal drum programming | — |
 | Steven Slate Drums Free | Free | Starter-tier metal drum samples | — |
 | FabFilter Pro-C 2 | $179 | Bus and mix compression | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-metal-2026) |
-| TDR Nova | Free | Free dynamic EQ for mixing | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-metal-2026&chan=art&data1=best-vst-plugins-for-metal-2026) |
+| TDR Nova | Free | Free dynamic EQ for mixing | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 
 ---
 
@@ -185,7 +185,7 @@ KVR Audio's community discussions consistently place Nova among the top free mix
 
 **Best for:** Frequency-selective dynamics control on guitar buses, cymbal harshness, or vocal presence peaks where a static EQ cut is too blunt a solution.
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-metal-2026&chan=art&data1=best-vst-plugins-for-metal-2026)
+[Free Download](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 
@@ -237,7 +237,7 @@ KVR Audio's community discussions consistently place Nova among the top free mix
 | Superior Drummer 3 | ~$179 | Drum Sampler | 350+ GB recorded library, per-mic mixing, MIDI grooves | — |
 | Steven Slate Drums Free | Free | Drum Sampler | Velocity layers, round-robin, no cost | — |
 | FabFilter Pro-C 2 | $179 | Compressor | 8 algorithms, linear-phase mode, real-time visual display | [Buy (Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-metal-2026) |
-| TDR Nova | Free | Dynamic EQ | Parallel dynamic EQ bands, low CPU, free tier is full-featured | [Free](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-metal-2026&chan=art&data1=best-vst-plugins-for-metal-2026) |
+| TDR Nova | Free | Dynamic EQ | Parallel dynamic EQ bands, low CPU, free tier is full-featured | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 
 ---
 

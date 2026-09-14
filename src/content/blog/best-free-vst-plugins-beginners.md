@@ -19,10 +19,10 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | Wavetable synthesis | [Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
-| Valhalla Supermassive | Free | Lush reverb & space | [Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive%20reverb&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
-| TDR Nova | Free | Dynamic EQ | [Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova%20equalizer&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
-| TDR Kotelnikov | Free | Transparent bus compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov%20compressor&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
+| Vital | Free | Wavetable synthesis | [Plugin Boutique](https://vital.audio/) |
+| Valhalla Supermassive | Free | Lush reverb & space | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| TDR Nova | Free | Dynamic EQ | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
+| TDR Kotelnikov | Free | Transparent bus compression | [Plugin Boutique](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Rough Rider 3 | Free | Punchy drum compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=Rough%20Rider%203&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
 | Surge XT | Free | Deep sound design | [Plugin Boutique](https://www.pluginboutique.com/search?q=Surge%20XT&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
 | LABS | Free | Cinematic sample instruments | [Free Download](https://labs.spitfireaudio.com/) |
@@ -59,7 +59,7 @@ Vital is a spectral warping wavetable synthesizer with a drag-and-drop modulatio
 **Best for:** Leads, pads, basses, and learning synthesis fundamentals visually.
 
 [→ Download Vital Free](https://vital.audio/)
-[→ Get Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners)
+[Plugin Boutique](https://vital.audio/)
 
 ---
 
@@ -96,7 +96,7 @@ OB-Xd is a faithful emulation of the Oberheim OB-X, delivering the warm, fat pol
 
 **Best for:** Vintage-style pads, warm leads, and classic electronic textures.
 
-[→ Download OB-Xd Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-beginners&chan=art&data1=best-free-vst-plugins-beginners)
+[Free Download](https://www.discodsp.com/obxd/)
 
 ---
 
@@ -115,8 +115,8 @@ TDR Nova is a parallel dynamic equalizer that also functions as a static EQ, mak
 
 **Best for:** Mixing vocals, taming resonances, and learning EQ fundamentals.
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-beginners&chan=art&data1=best-free-vst-plugins-beginners)
-[→ Get TDR Nova on Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova%20equalizer&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners)
+[Free Download](https://www.tokyodawn.net/tdr-nova/)
+[Plugin Boutique](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 
@@ -152,8 +152,8 @@ TDR Kotelnikov is a wideband compressor built for transparent bus and mastering 
 
 **Best for:** Bus compression, mastering-style glue, and learning compressor fundamentals.
 
-[→ Download TDR Kotelnikov Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-beginners&chan=art&data1=best-free-vst-plugins-beginners)
-[→ Get TDR Kotelnikov on Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov%20compressor&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners)
+[Free Download](https://www.tokyodawn.net/tdr-kotelnikov/)
+[Plugin Boutique](https://www.tokyodawn.net/tdr-kotelnikov/)
 
 ---
 
@@ -190,8 +190,8 @@ Valhalla Supermassive delivers lush reverb and delay with a distinctly cosmic, s
 
 **Best for:** Ambient pads, long reverb tails, and creating massive soundscapes.
 
-[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-beginners&chan=art&data1=best-free-vst-plugins-beginners)
-[→ Get Valhalla Supermassive on Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive%20reverb&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners)
+[Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+[Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
 
@@ -208,8 +208,8 @@ TAL-Reverb-4 is a vintage-flavored plate reverb with warm, slightly lo-fi charac
 
 **Best for:** Vocals, guitars, and synths — wherever you want warm, character-rich reverb.
 
-[→ Download TAL-Reverb-4 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-beginners&chan=art&data1=best-free-vst-plugins-beginners)
-[→ Get TAL-Reverb-4 on Plugin Boutique](https://www.pluginboutique.com/search?q=TAL-Reverb-4&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners)
+[Free Download](https://tal-software.com/products/tal-reverb-4)
+[Plugin Boutique](https://tal-software.com/products/tal-reverb-4)
 
 ---
 
@@ -262,7 +262,7 @@ TAL-Chorus-LX emulates the legendary Juno-60 chorus — the lush stereo widener 
 
 **Best for:** Widening synths, adding shimmer to pads, instant 80s character.
 
-[→ Download TAL-Chorus-LX Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Chorus&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-beginners&chan=art&data1=best-free-vst-plugins-beginners)
+[Free Download](https://tal-software.com/products/tal-chorus-lx)
 
 ---
 
@@ -423,18 +423,18 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital | Free | Synth | Visual modulation, wavetable engine | [Plugin Boutique](https://www.pluginboutique.com/search?q=Vital%20synth&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
+| Vital | Free | Synth | Visual modulation, wavetable engine | [Plugin Boutique](https://vital.audio/) |
 | Surge XT | Free | Synth | Hybrid, open-source, massive depth | [Plugin Boutique](https://www.pluginboutique.com/search?q=Surge%20XT&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
-| OB-Xd | Free | Synth | Oberheim emulation, warm, analog | [Developer Site](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-beginners&chan=art&data1=best-free-vst-plugins-beginners) |
-| TDR Nova | Free | Dynamic EQ | Dynamic + static EQ, low CPU | [Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova%20equalizer&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
+| OB-Xd | Free | Synth | Oberheim emulation, warm, analog | [Free Download](https://www.discodsp.com/obxd/) |
+| TDR Nova | Free | Dynamic EQ | Dynamic + static EQ, low CPU | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
 | Voxengo SPAN | Free | Analyzer | FFT spectrum, industry standard | [Developer Site](https://www.voxengo.com/product/span/) |
-| TDR Kotelnikov | Free | Compressor | Transparent, mastering-grade | [Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Kotelnikov%20compressor&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
+| TDR Kotelnikov | Free | Compressor | Transparent, mastering-grade | [Plugin Boutique](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Rough Rider 3 | Free | Compressor | Punchy, aggressive, beginner-simple | [Plugin Boutique](https://www.pluginboutique.com/search?q=Rough%20Rider%203&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
-| Valhalla Supermassive | Free | Reverb | Cosmic, lush, multiple algorithms | [Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive%20reverb&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
-| TAL-Reverb-4 | Free | Reverb | Vintage plate, warm, musical | [Plugin Boutique](https://www.pluginboutique.com/search?q=TAL-Reverb-4&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
+| Valhalla Supermassive | Free | Reverb | Cosmic, lush, multiple algorithms | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| TAL-Reverb-4 | Free | Reverb | Vintage plate, warm, musical | [Plugin Boutique](https://tal-software.com/products/tal-reverb-4) |
 | OrilRiver | Free | Reverb | Algorithmic, versatile, Windows | [Developer Site](https://www.kvraudio.com/product/orilriver-by-denis-tihanov) |
 | Valhalla Freq Echo | Free | Delay | BBD character, pitch shifting | [Developer Site](https://valhalladsp.com/shop/delay/valhalla-freq-echo/) |
-| TAL-Chorus-LX | Free | Modulation | Juno-60 emulation, instant shimmer | [Developer Site](https://www.pluginboutique.com/search?q=TAL%20Chorus&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-beginners&chan=art&data1=best-free-vst-plugins-beginners) |
+| TAL-Chorus-LX | Free | Modulation | Juno-60 emulation, instant shimmer | [Free Download](https://tal-software.com/products/tal-chorus-lx) |
 | Chow Tape Model | Free | Saturation | Physical tape model, open-source | [Developer Site](https://chowdsp.com/products.html) |
 | Softube Saturation Knob | Free | Saturation | One-knob, three modes, foolproof | [Developer Site](https://www.softube.com/saturationknob) |
 | MT Power Drum Kit 2 | Free | Drums | Acoustic drums, MIDI grooves | [Developer Site](https://www.powerdrumkit.com/) |

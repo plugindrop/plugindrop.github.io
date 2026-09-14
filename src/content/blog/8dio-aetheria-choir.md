@@ -10,7 +10,7 @@ xText: "8Dio Aetheria — 16 singers, intimate ensemble, 5 velocity legatos. sma
 draft: false
 ---
 
-**TL;DR:** Aetheria is 8Dio's intimate 16-singer choir — smaller scale than Lacrimosa, but with deeper per-voice detail and a word sequencer for expressive lyrical writing. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)**. [Buy on 8Dio →](https://www.pluginboutique.com/search?q=aetheria&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-aetheria-choir&chan=art&data1=8dio-aetheria-choir)
+**TL;DR:** Aetheria is 8Dio's intimate 16-singer choir — smaller scale than Lacrimosa, but with deeper per-voice detail and a word sequencer for expressive lyrical writing. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](https://8dio.com/)**. [Buy on 8Dio →](https://www.pluginboutique.com/search?q=aetheria&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-aetheria-choir&chan=art&data1=8dio-aetheria-choir)
 
 ---
 
@@ -24,9 +24,9 @@ draft: false
 
 | Option | Best For | Price (2026) | Link |
 |---|---|---|---|
-| **Aetheria (Pick 3 deal)** | Composers who want Aetheria + 2 other 8Dio choirs | $69 for 3 titles ($23/title) | [Grab the bundle →](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art) |
+| **Aetheria (Pick 3 deal)** | Composers who want Aetheria + 2 other 8Dio choirs | $69 for 3 titles ($23/title) | [Pick Any 3 Choirs for $69 deal](https://8dio.com/) |
 | **Aetheria (standalone)** | Buyers who only want this one library | ~$99 | [View on Plugin Boutique →](https://www.pluginboutique.com/search?q=aetheria&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-aetheria-choir&chan=art&data1=8dio-aetheria-choir) |
-| **Aetheria + Lacrimosa** | Covering both intimate and epic choir scales | $69 (Pick 3, pick both + one more) | [See eligible titles →](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art) |
+| **Aetheria + Lacrimosa** | Covering both intimate and epic choir scales | $69 (Pick 3, pick both + one more) | [Pick Any 3 Choirs for $69 deal](https://8dio.com/) |
 
 If you only need one small-ensemble choir and don't already own other 8Dio libraries, the Pick 3 deal is still the better math than buying Aetheria alone — you're paying roughly a third of the combined regular price for three tools instead of one.
 
@@ -40,7 +40,7 @@ If you only need one small-ensemble choir and don't already own other 8Dio libra
 
 Aetheria features 8 male and 8 female singers with five true velocity-based legatos and 26 advanced multi-vowel expressions. Its word sequencer makes it practical for composers who need choir texture that tracks melodic movement closely, rather than a static pad sitting behind a mix.
 
-**Regular price:** $99 | **Part of Pick 3 deal:** [$69 for any 3 choirs](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)
+**Regular price:** $99 | **Part of Pick 3 deal:** [Pick Any 3 Choirs for $69 deal](https://8dio.com/)
 
 At $69 for three titles, Aetheria effectively costs about $23 when bundled — a 77% discount off its $99 solo price. That's the number to compare against if you're deciding whether to buy now or wait.
 
@@ -113,7 +113,7 @@ It's a weaker fit if you mainly need massive, cinematic choir hits or drones —
 
 ## Part of the Pick 3 Deal
 
-Aetheria is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)** offer. It pairs well with Insolidus for complementary small-choir textures, or with Lacrimosa to have both intimate and epic ends covered.
+Aetheria is one of 6 eligible titles in the **[Pick Any 3 Choirs for $69 deal](https://8dio.com/)** offer. It pairs well with Insolidus for complementary small-choir textures, or with Lacrimosa to have both intimate and epic ends covered.
 
 [→ See all eligible titles and grab the deal](https://www.pluginboutique.com/search?q=aetheria&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-aetheria-choir&chan=art&data1=8dio-aetheria-choir)
 
@@ -138,4 +138,4 @@ For ongoing price tracking on comparable choir and vocal libraries, see our [Whe
 ## Related Guides
 - [Best Free Choir VST Plugins in 2026](/posts/best-free-choir-vst-plugins/)
 - [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)
-- [8Dio Pick Any 3 Choirs — $69 Deal](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)
+- [Pick Any 3 Choirs for $69 deal](https://8dio.com/)

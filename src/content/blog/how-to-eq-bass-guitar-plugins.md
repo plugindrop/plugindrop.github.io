@@ -17,7 +17,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 4 | $179 | Surgical bass EQ with dynamic bands | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-bass-guitar-plugins) |
-| TDR Nova | Free | Free dynamic EQ for bass | [Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-bass-guitar-plugins&chan=art&data1=how-to-eq-bass-guitar-plugins) |
+| TDR Nova | Free | Free dynamic EQ for bass | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Waves RBass | $29 | Sub-frequency enhancement | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20RBass&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-bass-guitar-plugins&chan=art&data1=how-to-eq-bass-guitar-plugins) |
 
 ---
@@ -130,7 +130,7 @@ This technique works best as a parallel process: duplicate the bass channel, app
 - **Formats:** VST, VST3, AU, AAX
 - **Why it matters for bass EQ:** TDR Nova is a parallel dynamic equalizer with sidechain support — it covers every technique in this guide at no cost. The GE (paid) upgrade adds additional bands and controls, but the free version handles four bands of dynamic EQ, high-pass filtering, and sidechain-triggered processing. For producers who want to apply all four steps in this guide without purchasing additional plugins, TDR Nova is the complete free solution.
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-bass-guitar-plugins&chan=art&data1=how-to-eq-bass-guitar-plugins)
+[Free Download](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 

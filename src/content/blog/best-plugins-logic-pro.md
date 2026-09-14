@@ -28,7 +28,7 @@ priceTrack:
 | Serum | $189 | Wavetable synthesis with modern workflow | [Developer Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro&chan=art&data1=best-plugins-logic-pro) |
 | iZotope Neutron 4 | $249+ | AI-assisted mix analysis | [Developer Site](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |
 | Vital | Free | Wavetable synthesis without the price tag | [Free](https://vital.audio/) |
-| TDR Nova | Free | Dynamic EQ on a zero budget | [Official Site](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro&chan=art&data1=best-plugins-logic-pro) |
+| TDR Nova | Free | Dynamic EQ on a zero budget | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 
 ---
 
@@ -72,7 +72,7 @@ TDR Nova combines a four-band parametric EQ with per-band dynamic compression in
 
 **Best for:** Dynamic EQ on a zero budget; taming resonances without a separate de-esser.
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro&chan=art&data1=best-plugins-logic-pro)
+[Free Download](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 

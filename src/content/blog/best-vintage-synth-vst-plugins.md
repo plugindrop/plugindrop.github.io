@@ -20,7 +20,7 @@ draft: false
 | Arturia Mini V3 | $99 | Minimoog bass and monophonic leads | [Official Site](https://www.arturia.com/products/analog-classics/mini-v/overview) |
 | Arturia Prophet-5 V | $99 | Lush polysynth pads and chords | [Official Site](https://www.arturia.com/products/analog-classics/prophet-5-v/overview) |
 | TAL-U-NO-LX | ~$60 | Roland Juno-60 chorus and arpeggios | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/423-TAL-U-NO-LX-Synth?a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
-| OB-Xd | Free | Oberheim brass, strings, and pads | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins&chan=art&data1=best-vintage-synth-vst-plugins) |
+| OB-Xd | Free | Oberheim brass, strings, and pads | [Free Download](https://www.discodsp.com/obxd/) |
 | Dexed | Free | Yamaha DX7 FM electric pianos and bells | [Free Download](https://asb2m10.github.io/dexed/) |
 | Surge XT | Free | Multi-vintage analog filter exploration | [Free Download](https://surge-synthesizer.github.io/) |
 
@@ -54,7 +54,7 @@ OB-Xd models the Oberheim OB-X and OB-Xa — polyphonic synthesizers known for w
 
 **Skip it if:** you want a deep factory preset library. OB-Xd ships lean, so you'll be dialing in most patches yourself — a fine trade at free, but not a load-and-play instrument.
 
-[→ Download OB-Xd Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins&chan=art&data1=best-vintage-synth-vst-plugins)
+[Free Download](https://www.discodsp.com/obxd/)
 
 ---
 
@@ -333,7 +333,7 @@ Two practical rules from these price patterns: if you want V Collection, there i
 | Synapse Audio The Legend | ~$99 | Minimoog | Zero-delay-feedback filter | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
 | TAL-U-NO-LX | ~$60 | Roland Juno-60 | BBD chorus circuit emulation | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
 | Cherry Audio Memorymode | ~$39 | Moog Memorymoog | Best price-to-accuracy ratio | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
-| OB-Xd | Free | Oberheim OB-Xa | Per-voice detuning, 2/4-pole filter | [DiscoDSP](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins&chan=art&data1=best-vintage-synth-vst-plugins) |
+| OB-Xd | Free | Oberheim OB-Xa | Per-voice detuning, 2/4-pole filter | [Free Download](https://www.discodsp.com/obxd/) |
 | Dexed | Free | Yamaha DX7 | Full SysEx compatibility | [Developer Site](https://asb2m10.github.io/dexed/) |
 | Surge XT | Free | Multi-vintage | Ladder, K35, OB filters; CLAP support | [Developer Site](https://surge-synthesizer.github.io/) |
 

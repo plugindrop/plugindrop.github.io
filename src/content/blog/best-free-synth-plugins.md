@@ -30,8 +30,8 @@ saleExpirySource: "fallback"
 | Surge XT | Free | Hybrid synthesis, deep sound design | [Free Download](https://surge-synthesizer.github.io/) |
 | Zebralette 3 | Free | Modern wavetable with u-he quality | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
 | Dexed | Free | DX7 FM patches, 80s electric pianos | [Free Download](https://asb2m10.github.io/dexed/) |
-| OB-Xd | Free | Synthwave pads, Oberheim analog leads | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
-| TAL-NoiseMaker | Free | Beginner-friendly analog sounds | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
+| OB-Xd | Free | Synthwave pads, Oberheim analog leads | [Free Download](https://www.discodsp.com/obxd/) |
+| TAL-NoiseMaker | Free | Beginner-friendly analog sounds | [→ Download TAL-NoiseMaker Free](https://tal-software.com/products/tal-noisemaker) |
 | Odin2 | Free | Advanced semi-modular synthesis | Free Download |
 | Synth1 | Free | Classic subtractive with 100k+ presets | Free Download |
 
@@ -159,7 +159,7 @@ OB-Xd emulates the Oberheim OB-X and OB-Xa, classic polysynths defined by their 
 
 **Skip it if:** you need wavetable or FM tones — it is a dedicated analog emulation and does one era of sound superbly, not everything.
 
-[→ Download OB-Xd Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins)
+[Free Download](https://www.discodsp.com/obxd/)
 
 ---
 
@@ -216,7 +216,7 @@ TAL-NoiseMaker is a three-oscillator virtual analog synth built for immediacy. T
 
 **Skip it if:** you have outgrown basic subtractive synthesis — there is no wavetable, FM, or modular routing here, just clean fundamentals.
 
-[→ Download TAL-NoiseMaker Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins)
+[→ Download TAL-NoiseMaker Free](https://tal-software.com/products/tal-noisemaker)
 
 ---
 
@@ -432,10 +432,10 @@ Honest take: none of these will make you a better producer than a well-learned V
 | Zebralette 3 | Free | Wavetable | u-he spectral oscillator, 16-slot FX chain, CLAP support | [Official Site](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
 | Dexed | Free | FM (6-op) | DX7 SysEx compatible, 6-operator FM engine | [Official Site](https://asb2m10.github.io/dexed/) |
 | ZynAddSubFX | Free | Additive / Subtractive | PADsynth engine, deep harmonic control | [Developer](https://zynaddsubfx.sourceforge.io/) |
-| OB-Xd | Free | Virtual Analog | Oberheim filter, 12-voice polyphony, AAX support | [Official Site](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
+| OB-Xd | Free | Virtual Analog | Oberheim filter, 12-voice polyphony, AAX support | [Free Download](https://www.discodsp.com/obxd/) |
 | Helm | Free | Analog Hybrid | Step sequencer, visual modulation, beginner-friendly | [Official Site](https://tytel.org/helm/) |
 | Tyrell N6 | Free | Virtual Analog | u-he analog character, warm filter | [Official Site](https://u-he.com/products/tyrelln6/) |
-| TAL-NoiseMaker | Free | Virtual Analog | 3 oscillators, onboard FX, easiest to learn | [Official Site](https://www.pluginboutique.com/search?q=TAL%20NoiseMaker&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
+| TAL-NoiseMaker | Free | Virtual Analog | 3 oscillators, onboard FX, easiest to learn | [→ Download TAL-NoiseMaker Free](https://tal-software.com/products/tal-noisemaker) |
 | Synth1 | Free | Virtual Analog | 100,000+ community presets, Nord-inspired | [Free Download](https://daichilab.sakura.ne.jp/softsynth/index.html) |
 | Charlatan | Free | Virtual Analog | Simple, stable, clean two-oscillator patches | [Developer](https://www.blaukraut.info/) |
 | Podolski | Free | Virtual Analog | ZDF filter, ultra-low CPU, u-he quality | [Free Download](https://u-he.com/products/podolski/) |

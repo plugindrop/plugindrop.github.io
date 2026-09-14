@@ -16,7 +16,7 @@ draft: false
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/4Nm6gw5sT1o" title="8Dio Requiem Professional Live-Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
-**TL;DR:** Requiem Professional is 8Dio's cathedral-recorded choir — a full ensemble plus 5 soloists, captured in a San Francisco church with natural reverb baked into every sample. Regular price is $99, but it's currently eligible for the **[Pick Any 3 Choirs for $69 deal](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)** — effectively $23 per title if you fill all three slots. [Buy on Plugin Boutique →](https://www.pluginboutique.com/search?q=requiem%20professional&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-requiem-professional&chan=art&data1=8dio-requiem-professional)
+**TL;DR:** Requiem Professional is 8Dio's cathedral-recorded choir — a full ensemble plus 5 soloists, captured in a San Francisco church with natural reverb baked into every sample. Regular price is $99, but it's currently eligible for the **[Pick Any 3 Choirs for $69 deal](https://8dio.com/)** — effectively $23 per title if you fill all three slots. [Buy on Plugin Boutique →](https://www.pluginboutique.com/search?q=requiem%20professional&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-requiem-professional&chan=art&data1=8dio-requiem-professional)
 
 <div class="audio-embed">
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/8dioproductions/sets/requiem-pro&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&visual=true"></iframe>
@@ -77,7 +77,7 @@ Requiem Professional suits composers who want a choir with inherent room and atm
 
 ## Part of the Pick 3 Deal
 
-Requiem Professional is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)** offer. Its cathedral character pairs particularly well with:
+Requiem Professional is one of 6 eligible titles in the **[Pick Any 3 Choirs for $69 deal](https://8dio.com/)** offer. Its cathedral character pairs particularly well with:
 
 - **Lacrimosa** — for a large-scale, epic combination (two big, reverberant choirs stacked for scale)
 - **Liberis** — for a sacred/innocent contrast (boy choir tone against the full cathedral ensemble)
@@ -111,4 +111,4 @@ A: If you're certain you only need one cathedral choir, $99 solo is a fair price
 ## Related Guides
 - [Best Free Choir VST Plugins in 2026](/posts/best-free-choir-vst-plugins/)
 - [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)
-- [8Dio Pick Any 3 Choirs — $69 Deal](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)
+- [Pick Any 3 Choirs for $69 deal](https://8dio.com/)

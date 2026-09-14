@@ -267,7 +267,7 @@ When the free tier runs out — typically when you need more articulations, high
 
 | Plugin | Best For | Why Upgrade | Get It |
 |--------|----------|-------------|--------|
-| Spitfire BBC Symphony Orchestra | Composers already using BBCSO Discover | Full articulation set, solo instruments, multiple mic positions, delivery-quality depth | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20BBC%20Symphony%20Orchestra&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins) |
+| Spitfire BBC Symphony Orchestra | Composers already using BBCSO Discover | Full articulation set, solo instruments, multiple mic positions, delivery-quality depth | [View](https://www.spitfireaudio.com/spitfire-symphony-orchestra) |
 | EastWest Hollywood Orchestra | Film and TV scoring, full ensemble renders | Industry-standard multi-mic recordings, dense articulations across every section | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=EastWest%20Hollywood&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins) |
 | Orchestral Tools Metropolis Ark | Epic, large-ensemble cinematic writing | Massed ensembles, choir, and cinematic power tuned for trailer and score work | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=Orchestral%20Tools&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins) |
 

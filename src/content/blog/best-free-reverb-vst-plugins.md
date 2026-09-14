@@ -21,8 +21,8 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Valhalla Supermassive | Free | Ambient, modulated, cinematic reverb | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-vst-plugins&chan=art&data1=best-free-reverb-vst-plugins) |
-| TAL-Reverb-4 | Free | Lush plate reverb for vocals & synths | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-vst-plugins&chan=art&data1=best-free-reverb-vst-plugins) |
+| Valhalla Supermassive | Free | Ambient, modulated, cinematic reverb | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| TAL-Reverb-4 | Free | Lush plate reverb for vocals & synths | [Free Download](https://tal-software.com/products/tal-reverb-4) |
 | Dragonfly Reverb | Free | Realistic room and hall sounds | [Free Download](https://michaelwillis.github.io/dragonfly-reverb/) |
 | OldSkoolVerb | Free | Vintage drum and snare reverb | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |
 | Convology XT | Free | Convolution / IR-based reverb | [Free Download](https://www.impulserecord.com/convology-xt/) |
@@ -61,7 +61,7 @@ The interface is deliberately minimal. Six primary controls handle most use case
 
 **Best for:** Ambient textures, synth pads, cinematic reverb, experimental sound design.
 
-[→ Download Valhalla Supermassive Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-vst-plugins&chan=art&data1=best-free-reverb-vst-plugins)
+[Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
 
@@ -82,7 +82,7 @@ The modulated tail has a distinctly vintage, 80s-influenced character that's fou
 
 **Best for:** Vocals, synth leads, retro aesthetics, quick session decisions.
 
-[→ Download TAL-Reverb-4 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-vst-plugins&chan=art&data1=best-free-reverb-vst-plugins)
+[Free Download](https://tal-software.com/products/tal-reverb-4)
 
 ---
 
@@ -199,8 +199,8 @@ The free plugins above are production-ready. These three paid options are for pr
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Valhalla Supermassive | Free | Algorithmic | 24 modes, modulation engine, massive decay | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-vst-plugins&chan=art&data1=best-free-reverb-vst-plugins) |
-| TAL-Reverb-4 | Free | Plate | Warm, modulated, fast workflow | [Download Free (Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-vst-plugins&chan=art&data1=best-free-reverb-vst-plugins) |
+| Valhalla Supermassive | Free | Algorithmic | 24 modes, modulation engine, massive decay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| TAL-Reverb-4 | Free | Plate | Warm, modulated, fast workflow | [Free Download](https://tal-software.com/products/tal-reverb-4) |
 | Dragonfly Reverb | Free | Algorithmic (x4) | Room, Hall, Plate, Early Reflections | [Download Free](https://michaelwillis.github.io/dragonfly-reverb/) |
 | OldSkoolVerb | Free | Algorithmic (vintage) | Classic hardware character, drum-focused | [Download Free](https://www.meldaproduction.com/MFreeFXBundle) |
 | Convology XT | Free | Convolution | 70 IRs, custom IR import, acoustic realism | [Download Free](https://www.impulserecord.com/convology-xt/) |

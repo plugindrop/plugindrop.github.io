@@ -106,7 +106,7 @@ Since it's pay-what-you-want, the "sale" decision is entirely up to you — dona
 
 **Best for:** Producers who need classic Oberheim-style analog character for pads, chords, and layered textures.
 
-[→ Download OB-Xd Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=OB-Xd&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-vst-plugins-2026&chan=art&data1=best-synth-vst-plugins-2026)
+[Free Download](https://www.discodsp.com/obxd/)
 
 ---
 
@@ -338,7 +338,7 @@ Like Diva, Zebra 2 discounts are occasional and modest. If you're building a u-h
 
 **Best for:** Sound designers, film composers, and experimental producers who need maximum synthesis depth and a timeless, extensively battle-tested engine.
 
-[→ Get u-he Zebra 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=u-he%20Zebra&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-vst-plugins-2026&chan=art&data1=best-synth-vst-plugins-2026)
+[→ Get u-he Zebra 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=u-he%20Zebra%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-vst-plugins-2026&chan=art&data1=best-synth-vst-plugins-2026)
 
 ---
 

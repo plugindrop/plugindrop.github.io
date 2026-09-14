@@ -25,8 +25,8 @@ priceTrack:
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 4 | $179 | Everything — the all-rounder | [Get it here (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-eq-plugins-2026) |
-| TDR Nova | Free | Dynamic EQ, transparent mixing | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-eq-plugins-2026&chan=art&data1=best-eq-plugins-2026) |
-| TDR VOS SlickEQ GE | Free | Analog-voiced static shaping | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20SlickEQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-eq-plugins-2026&chan=art&data1=best-eq-plugins-2026) |
+| TDR Nova | Free | Dynamic EQ, transparent mixing | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
+| TDR VOS SlickEQ GE | Free | Analog-voiced static shaping | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | Voxengo Marvel GEQ | Free | Graphic EQ on buses & master | [Free Download](https://www.voxengo.com/product/marvelgeq/) |
 | MEqualizer | Free | Beginners, fast static shaping | [Free Download](https://www.meldaproduction.com/MEqualizer) |
 | Ignite Amps PTEq-X | Free | Pultec-style low-end & air | [Free Download](https://www.igniteamps.com/) |
@@ -85,7 +85,7 @@ The honest limitation: four bands go quickly on a busy master, and mid/side is p
 
 **Best for:** Producers who want dynamic EQ for free — especially on vocals, buses, and mastering, where static cuts aren't enough.
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-eq-plugins-2026&chan=art&data1=best-eq-plugins-2026)
+[Free Download](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 
@@ -104,7 +104,7 @@ The honest limitation: three bands and broad musical curves make it a tone-shapi
 
 **Best for:** Producers who want analog-character EQ for high-pass filtering and mid-range shaping on individual tracks without buying a paid emulation.
 
-[→ Download TDR VOS SlickEQ GE Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20SlickEQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-eq-plugins-2026&chan=art&data1=best-eq-plugins-2026)
+[Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/)
 
 ---
 
@@ -233,8 +233,8 @@ The honest limitation: it colors by design, so it's the wrong pick when you need
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | FabFilter Pro-Q 4 | $179 | Parametric / Dynamic | 24 bands, dynamic per band, M/S, linear phase, spectrum grab | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-eq-plugins-2026) |
-| TDR Nova | Free | Dynamic Parametric | 4 bands dynamic/static, wideband dynamics, analyzer | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-eq-plugins-2026&chan=art&data1=best-eq-plugins-2026) |
-| TDR VOS SlickEQ GE | Free | Analog Parametric | 3 EQ models, HPF, saturation stage | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20SlickEQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-eq-plugins-2026&chan=art&data1=best-eq-plugins-2026) |
+| TDR Nova | Free | Dynamic Parametric | 4 bands dynamic/static, wideband dynamics, analyzer | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
+| TDR VOS SlickEQ GE | Free | Analog Parametric | 3 EQ models, HPF, saturation stage | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | Voxengo Marvel GEQ | Free | Graphic (Linear Phase) | 16-band linear phase, M/S support, spectrum display | [Free Download](https://www.voxengo.com/product/marvelgeq/) |
 | MEqualizer | Free | Parametric | 6 bands, spectrum analyzer, low CPU, fast workflow | [Free Download](https://www.meldaproduction.com/MEqualizer) |
 | Ignite Amps PTEq-X | Free | Pultec Passive Emulation | EQP-1A + MEQ-5 circuits, passive boost/cut behavior | [Free Download](https://www.igniteamps.com/) |

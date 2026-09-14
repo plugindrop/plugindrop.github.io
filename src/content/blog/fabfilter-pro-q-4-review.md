@@ -125,7 +125,7 @@ TDR Nova is genuinely strong for a free plugin and the closest free alternative 
 
 **Best for:** Budget-conscious producers who need dynamic EQ functionality without committing to a paid plugin.
 
-[→ Get TDR Nova on Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-review)
+[Free Download](https://www.tokyodawn.net/tdr-nova/)
 
 ### DMG Audio EQuality — Best for Analog-Voiced Precision
 

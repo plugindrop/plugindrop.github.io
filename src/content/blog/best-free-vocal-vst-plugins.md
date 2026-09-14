@@ -20,7 +20,7 @@ draft: false
 | MAutoPitch | Free | Transparent pitch correction | [Plugin Boutique](https://www.pluginboutique.com/search?q=MAutoPitch%20MeldaProduction&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
 | Graillon 2 | Free | Creative pitch effects & robot vocals | [auburnsounds.com](https://www.auburnsounds.com/products/Graillon.html) |
 | Analog Obsession CHANNELSTRIP | Free | Analog EQ + compression in one slot | [analog-obsession.com](https://analogobsession.com/) |
-| TAL-Reverb-4 | Free | Warm vintage plate reverb | [Plugin Boutique](https://www.pluginboutique.com/search?q=TAL-Reverb-4&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
+| TAL-Reverb-4 | Free | Warm vintage plate reverb | [Plugin Boutique](https://tal-software.com/products/tal-reverb-4) |
 | Wider (Polyverse) | Free | Mono-safe stereo widening | [Plugin Boutique](https://www.pluginboutique.com/search?q=Wider%20Polyverse%20stereo%20widener&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
 | Valhalla Supermassive | Free | Large ambient reverb and delay | [valhalladsp.com](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Klanghelm MJUC jr | Free | Vintage vari-mu tube compression | [Free Download](https://klanghelm.com/MJUCjr.php) |
@@ -134,7 +134,7 @@ TDR Nova is a parallel dynamic EQ where each band can respond dynamically to inc
 
 **Skip it if:** you hunt resonances by eye — the free Nova has four bands and no spectrum analyzer, so surgical work is slower than on an FFT EQ (the paid GE adds both).
 
-[→ Download TDR Nova Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vocal-vst-plugins&chan=art&data1=best-free-vocal-vst-plugins)
+[Free Download](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 
@@ -171,7 +171,7 @@ TDR SlickEQ is a three-band mixing EQ with a saturation mode that gives it a mus
 
 **Skip it if:** you need narrow-Q notching — SlickEQ's three fixed bands are broad-strokes tone shaping; single problem frequencies belong to a parametric or dynamic EQ.
 
-[→ Download TDR SlickEQ Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TDR%20SlickEQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vocal-vst-plugins&chan=art&data1=best-free-vocal-vst-plugins)
+[Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/)
 
 ---
 
@@ -192,8 +192,8 @@ TAL-Reverb-4 models a vintage plate reverb with pre-delay, a high-pass filter on
 
 **Skip it if:** you need realistic rooms or long cinematic tails — TAL-Reverb-4 is one plate character, so run Valhalla Supermassive alongside it for everything bigger.
 
-[→ Get TAL-Reverb-4 on Plugin Boutique](https://www.pluginboutique.com/search?q=TAL-Reverb-4&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins)
-[→ Download TAL-Reverb-4 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=TAL%20Reverb%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vocal-vst-plugins&chan=art&data1=best-free-vocal-vst-plugins)
+[Plugin Boutique](https://tal-software.com/products/tal-reverb-4)
+[Free Download](https://tal-software.com/products/tal-reverb-4)
 
 ---
 
@@ -285,7 +285,7 @@ Free plugins cover every individual task in the vocal chain, but at some point a
 | Paid Upgrade | Approx. Price | Why Upgrade | Get It |
 |--------------|---------------|-------------|--------|
 | iZotope Nectar 4 | $199 reg — typically ~$149 on sale, lowest tracked $129 ([history](/plugin-prices/izotope-nectar-4/)) | Full AI-assisted vocal chain in one plugin — tuning, EQ, compression, de-essing, reverb, and harmony from a single interface | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Nectar%204&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
-| Waves Tune Real-Time | $199 reg — typically ~$50 on sale ([history](/plugin-prices/waves-tune-real-time/)) | Ultra-low-latency correction with formant shifting — the standard for live rigs and precise studio tuning | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20Tune%20Real-Time&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
+| Waves Tune Real-Time | $199 reg — typically ~$50 on sale ([history](/plugin-prices/waves-tune-real-time/)) | Ultra-low-latency correction with formant shifting — the standard for live rigs and precise studio tuning | [Plugin Boutique](https://www.waves.com/plugins/waves-tune-real-time) |
 | Auto-Tune Pro | $450 reg perpetual — typically ~$250 on sale; subscription available ([history](/plugin-prices/antares-auto-tune-pro/)) | Graph Mode note-by-note editing that no free plugin matches — the industry-standard pitch tool | [Plugin Boutique](https://www.pluginboutique.com/search?q=Auto-Tune%20Pro&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
 
 The detailed breakdown of each paid option follows below.
@@ -310,7 +310,7 @@ The detailed breakdown of each paid option follows below.
 - **Price:** $199 regular — our tracking shows it typically drops to ~$50 in Waves sales
 - **Why upgrade:** MAutoPitch is excellent for studio correction, but Waves Tune Real-Time offers tighter low-latency performance, formant shifting for natural-sounding correction at larger intervals, and a more detailed pitch display — making it the better choice for live performance rigs or sessions that demand precise, transparent correction.
 
-[→ Get Waves Tune Real-Time on Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20Tune%20Real-Time&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins)
+[Plugin Boutique](https://www.waves.com/plugins/waves-tune-real-time)
 
 ---
 
@@ -333,16 +333,16 @@ The detailed breakdown of each paid option follows below.
 | Graillon 2 | Free | Pitch Effects | Pitch shifting, bit crusher, ring modulation | [auburnsounds.com](https://www.auburnsounds.com/products/Graillon.html) |
 | Analog Obsession CHANNELSTRIP | Free | Channel Strip | HPF + EQ + compressor, analog warmth | [analog-obsession.com](https://analogobsession.com/) |
 | Klanghelm MJUC jr | Free | Compressor | Vintage vari-mu character, tube warmth | [Developer Site](https://klanghelm.com/MJUCjr.php) |
-| TDR Nova | Free | Dynamic EQ | Per-band dynamics, de-essing, transparent | [Developer Site](https://www.pluginboutique.com/search?q=TDR%20Nova&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vocal-vst-plugins&chan=art&data1=best-free-vocal-vst-plugins) |
+| TDR Nova | Free | Dynamic EQ | Per-band dynamics, de-essing, transparent | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Techivation T-De-Esser Plus | Free | De-esser | Focused sibilance detection, visual feedback | [Developer Site](https://techivation.com/t-de-esser-plus/) |
-| TDR SlickEQ | Free | EQ | 3-band with analog saturation mode | [Developer Site](https://www.pluginboutique.com/search?q=TDR%20SlickEQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vocal-vst-plugins&chan=art&data1=best-free-vocal-vst-plugins) |
-| TAL-Reverb-4 | Free | Reverb | Vintage plate, envelope follower, HPF return | [Plugin Boutique](https://www.pluginboutique.com/search?q=TAL-Reverb-4&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
+| TDR SlickEQ | Free | EQ | 3-band with analog saturation mode | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
+| TAL-Reverb-4 | Free | Reverb | Vintage plate, envelope follower, HPF return | [Plugin Boutique](https://tal-software.com/products/tal-reverb-4) |
 | Valhalla Supermassive | Free | Reverb/Delay | Dense evolving tails, cosmic modes | [Developer Site](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Wider (Polyverse) | Free | Stereo Width | M/S widening, mono-safe | [Plugin Boutique](https://www.pluginboutique.com/search?q=Wider%20Polyverse%20stereo%20widener&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
 | Acon Digital Multiply | Free | Chorus/Doubler | Up to 6 layers, independent pitch and pan | [Developer Site](https://acondigital.com/products/multiply/) |
 | Chow Tape Model | Free | Saturation | Physically modeled tape, open source | [Developer Site](https://chowdsp.com/products.html) |
 | iZotope Nectar 4 | ~$149 (sale) | Full Vocal Chain | AI assistant, complete processing suite | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Nectar%204&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
-| Waves Tune Real-Time | Varies | Pitch Correction | Low latency, formant shifting, live-safe | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20Tune%20Real-Time&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
+| Waves Tune Real-Time | Varies | Pitch Correction | Low latency, formant shifting, live-safe | [Plugin Boutique](https://www.waves.com/plugins/waves-tune-real-time) |
 | Auto-Tune Pro | Varies | Pitch Correction | Graph Mode, industry standard, manual editing | [Plugin Boutique](https://www.pluginboutique.com/search?q=Auto-Tune%20Pro&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
 
 ---

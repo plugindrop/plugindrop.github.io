@@ -16,7 +16,7 @@ draft: false
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/jO5SGU6vuzY" title="8Dio Lacrimosa Choir || Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
-**TL;DR:** Lacrimosa is 8Dio's flagship epic choir — 200 singers, true layered legato, and deep articulation control. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)**, which is the buy trigger for most people reading this. [Buy on 8Dio →](https://www.pluginboutique.com/search?q=lacrimosa%20epic%20choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-lacrimosa-choir&chan=art&data1=8dio-lacrimosa-choir)
+**TL;DR:** Lacrimosa is 8Dio's flagship epic choir — 200 singers, true layered legato, and deep articulation control. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](https://8dio.com/)**, which is the buy trigger for most people reading this. [Buy on 8Dio →](https://www.pluginboutique.com/search?q=lacrimosa%20epic%20choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-lacrimosa-choir&chan=art&data1=8dio-lacrimosa-choir)
 
 <div class="audio-embed">
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/8dioproductions/sets/8dio-lacrimosa-epic-choir-200-singers&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&visual=true"></iframe>
@@ -95,7 +95,7 @@ It's a poor fit if you mainly need:
 
 ## Part of the Pick 3 Deal
 
-Lacrimosa is one of 6 eligible titles in the **[8Dio Pick Any 3 Choirs for $69](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)** offer. Pair it with Insolidus for lyrical contrast or Silka for emotional soft layers — those two pairings are the most commonly recommended combos because they cover the gap Lacrimosa's mass-scale focus leaves open.
+Lacrimosa is one of 6 eligible titles in the **[Pick Any 3 Choirs for $69 deal](https://8dio.com/)** offer. Pair it with Insolidus for lyrical contrast or Silka for emotional soft layers — those two pairings are the most commonly recommended combos because they cover the gap Lacrimosa's mass-scale focus leaves open.
 
 [→ See all eligible titles and grab the deal](https://www.pluginboutique.com/search?q=lacrimosa%20epic%20choir&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-lacrimosa-choir&chan=art&data1=8dio-lacrimosa-choir)
 
@@ -135,4 +135,4 @@ A: Pricing has historically dipped around major sale periods (Black Friday, 8Dio
 ## Related Guides
 - [Best Free Choir VST Plugins in 2026](/posts/best-free-choir-vst-plugins/)
 - [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)
-- [8Dio Pick Any 3 Choirs — $69 Deal](https://www.pluginboutique.com/search?q=8dio+choir+bundle&a_aid=69cb95abe1763&chan=art)
+- [Pick Any 3 Choirs for $69 deal](https://8dio.com/)
