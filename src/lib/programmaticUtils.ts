@@ -159,6 +159,7 @@ export function rowFor(name: string, priceData: ProgrammaticPriceData): VerdictR
   return {
     name,
     slug: slugify(name),
+    pbUrl: entry.pb_url ?? null,
     current,
     regular,
     allTimeLow: entry.all_time_low,
@@ -168,6 +169,8 @@ export function rowFor(name: string, priceData: ProgrammaticPriceData): VerdictR
     checkedLabel: checkedDate ? formatCheckedDate(checkedDate) : null,
     hasLiveDrop: liveDropOf(entry, 7) !== null,
     rarelyDiscounts: label === 'Rarely discounts',
+    sparkline: sparklinePoints(entry.history),
+    discountFrequency: discountFrequencyOf(entry),
   };
 }
 
@@ -223,10 +226,47 @@ export function categoryFaqs(label: string, rows: VerdictRow[]): Faq[] {
   ];
 }
 
-// --- Compare-page helpers (design doc §5 Step 5, used by a later PR) ---
+// --- Compare-page helpers (design doc §5 Step 5) ---
 
 export function compareHeadline(a: VerdictRow, b: VerdictRow): string {
   const [better, other] = a.score >= b.score ? [a, b] : [b, a];
   return `Right now ${better.name} is the better buy at ${formatPrice(better.current)} (${better.score}/100); `
     + `${other.name} sits at ${formatPrice(other.current)} (${other.score}/100).`;
+}
+
+// Null when either side lacks 2+ history points — callers should show the
+// "not enough history to compare" fallback for BOTH sparklines rather than
+// one alone (design doc §5 Step 5 item 4).
+export function pairSparklineNote(a: VerdictRow, b: VerdictRow): string | null {
+  if (a.sparkline && b.sparkline) return null;
+  return "We don't have enough price history yet to chart a comparison for both products.";
+}
+
+function discountCompareAnswer(a: VerdictRow, b: VerdictRow): string {
+  const fa = a.discountFrequency;
+  const fb = b.discountFrequency;
+  if (!fa && !fb) return `We don't have enough recorded checks for either product yet.`;
+  if (!fa) return `${b.name} has a discount record (${discountFrequencyLabel(fb)}); ${a.name} doesn't have enough recorded checks yet.`;
+  if (!fb) return `${a.name} has a discount record (${discountFrequencyLabel(fa)}); ${b.name} doesn't have enough recorded checks yet.`;
+
+  const rateA = fa.totalObservations > 0 ? fa.saleObservations / fa.totalObservations : 0;
+  const rateB = fb.totalObservations > 0 ? fb.saleObservations / fb.totalObservations : 0;
+  if (rateA === rateB) {
+    return `${a.name} and ${b.name} discount about as often as each other based on our tracked checks.`;
+  }
+  const more = rateA > rateB ? a : b;
+  const less = rateA > rateB ? b : a;
+  return `${more.name} discounts more often than ${less.name} based on our tracked checks `
+    + `(${discountFrequencyLabel(more.discountFrequency)} vs. ${discountFrequencyLabel(less.discountFrequency)}).`;
+}
+
+export function pairFaqs(a: VerdictRow, b: VerdictRow): Faq[] {
+  return [
+    { q: `Is ${a.name} or ${b.name} cheaper right now?`, a: compareHeadline(a, b) },
+    { q: `Which discounts more often, ${a.name} or ${b.name}?`, a: discountCompareAnswer(a, b) },
+    {
+      q: `What's the lowest price recorded for ${a.name} and ${b.name}?`,
+      a: `${a.name}'s lowest tracked price is ${formatPrice(a.allTimeLow)}; ${b.name}'s is ${formatPrice(b.allTimeLow)}.`,
+    },
+  ];
 }
