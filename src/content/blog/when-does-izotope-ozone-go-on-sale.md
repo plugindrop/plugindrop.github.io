@@ -20,17 +20,11 @@ heroImage: '/images/when-does-izotope-ozone-go-on-sale.jpg'
 **Short answer:** iZotope Ozone 12 Advanced goes on sale **2-3 times per year**. The typical discount is **50–80% off**, bringing the $499 regular price down to around **$249**. The best times to buy:
 
 ## Price Context (tracked by PluginDrop)
-- Tracked since 2026-07-10 (19 observations)
+- Tracked since 2026-07-10 (21 observations)
 - Lowest we've tracked: $366 · Typical sale: $366 · Regular: $499
 - Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
 - Sale pattern: Ozone 12 Advanced is the current flagship mastering suite (regular $499 direct/NI/PB); Ozone 12 'Standard' tier has been discontinued — the 2026 lineup is Advanced ($499) + Elements ($55) only. Discounted to $366 at Thomann (Mar 20, 2026) per plugindeals.net — lowest recorded 2026 sale. Existing-customer loyalty pricing from $279 also available (NI account required, not a public sale).
 - Typical observed discount: 27%
-
-- **Black Friday (November)**
-- **NI Summer Sale (June-July)**
-- **iZotope / NI Anniversary Sales**
-
----
 
 ## Historical Sale Data
 

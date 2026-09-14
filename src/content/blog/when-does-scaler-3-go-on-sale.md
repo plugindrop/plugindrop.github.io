@@ -19,19 +19,11 @@ heroImage: '/images/when-does-scaler-3-go-on-sale.jpg'
 **Short answer:** Scaler 3 goes on sale **4-5 times per year**. The typical discount is **30–30% off**, bringing the $99 regular price down to around **$69**. The best times to buy:
 
 ## Price Context (tracked by PluginDrop)
-- Tracked since 2026-07-19 (34 observations)
+- Tracked since 2026-07-19 (36 observations)
 - Lowest we've tracked: $79 · Typical sale: $79 · Regular: $99
 - Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
-- Sale pattern: auto-crawl 2026-07-19
 - Latest observed sale: $79 on 2026-08-11
 - Typical observed discount: 20%
-
-- **Black Friday (November)**
-- **Summer Sale**
-- **Plugin Boutique Birthday (February)**
-- **Spring Flash Sales**
-
----
 
 ## Historical Sale Data
 

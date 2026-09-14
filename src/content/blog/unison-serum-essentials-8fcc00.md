@@ -8,8 +8,6 @@ heroImage: "/images/unison-serum-essentials-8fcc00.jpg"
 score: 5.86
 dealPrice: "FREE"
 draft: true
-saleExpiry: "2026-09-17"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** Unison Audio is giving away **Serum Essentials**, a preset pack for Xfer Serum, at no cost — ~~paid~~ **FREE**. If you already own Serum and want a fast way to expand your patch library without spending anything, [grab it here](https://unison.audio/ref/jc374/product/unison-serum-essentials/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-serum-essentials-8fcc00). Free preset packs like this don't always stay free, so it's worth downloading now rather than later.
 

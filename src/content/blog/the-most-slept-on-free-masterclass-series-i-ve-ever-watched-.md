@@ -9,8 +9,6 @@ dealPrice: "FREE"
 xText: "afrojack dropped a full production masterclass series for free. it's the kind of technical content that usually costs hundreds. not sure why this isn't getting more buzz. go grab it now"
 draft: true
 heroImage: "/images/the-most-slept-on-free-masterclass-series-i-ve-ever-watched-_og.jpg"
-saleExpiry: "2026-05-28"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** Afrojack's WALL Pro Academy is a 94-video production masterclass series available completely free on YouTube. It covers professional-level EDM and electronic music production techniques directly from a Grammy-winning artist. [→ Get WALL Pro Academy at Direct](https://youtube.com/playlist)
 

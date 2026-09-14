@@ -9,8 +9,6 @@ draft: false
 heroImage: "/images/best-free-vst-plugins-2026.jpg"
 score: 1.68
 evergreen: true
-saleExpiry: "2026-04-25"
-saleExpirySource: "fallback"
 ---
 
 

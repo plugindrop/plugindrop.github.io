@@ -9,8 +9,6 @@ score: 5.20
 dealPrice: "FREE"
 xText: "free dark witch house type beat just dropped with crystal castles vibes. moody energy that works with everything you're making right now. go grab this"
 draft: true
-saleExpiry: "2026-08-09"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** A free-to-download type beat inspired by the dark, glitchy sound of Crystal Castles and the witch house movement is now available directly from the producer — no cost, no catch mentioned. If you're building a horrorcore, witch house, or atmospheric trap track, this is a zero-risk way to grab a usable instrumental. Stream or download it here: [Crystal Castles x Witch House Type Beat](https://youtu.be/zHCo8IhoRzE).
 

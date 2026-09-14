@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-productio
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247&chan=art&data1=zenology-pro-423247"
 heroImage: /images/zenology-pro-423247.jpg
 score: 10.00
-draft: false
+draft: true
 converted: true
 ---
 **ZENOLOGY PRO** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247&chan=art&data1=zenology-pro-423247)

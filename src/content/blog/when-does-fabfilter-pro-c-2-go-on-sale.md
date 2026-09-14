@@ -26,12 +26,6 @@ heroImage: '/images/when-does-fabfilter-pro-c-2-go-on-sale.jpg'
 - Latest observed sale: $97 on 2024-11-22
 - Typical observed discount: 25%
 
-- **Summer Sale (June)**
-- **Black Friday (November)**
-- **FabFilter Anniversary (December)**
-
----
-
 ## Historical Sale Data
 
 | When | Discount | Approx. Price | Source |

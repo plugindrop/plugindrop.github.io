@@ -9,8 +9,6 @@ score: 7.92
 dealPrice: "FREE"
 xText: "free plugin roundup this week hits different. real gear that usually costs money, zero dollars. go grab them while it's live."
 draft: true
-saleExpiry: "2026-07-29"
-saleExpirySource: "fallback"
 ---
 **TL;DR:** Fine Classics Saturator is currently available at absolutely no cost — a free saturation plugin with no coupon required, directly from the developer. No expiry date has been announced, which means this could disappear anytime. [Download Fine Classics Saturator free here.](https://fineclassicsplugins.com/products/fine-classics-saturator)
 

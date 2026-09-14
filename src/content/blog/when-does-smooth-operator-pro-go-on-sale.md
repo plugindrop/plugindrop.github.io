@@ -19,17 +19,11 @@ heroImage: '/images/when-does-smooth-operator-pro-go-on-sale.jpg'
 **Short answer:** Baby Audio Smooth Operator Pro goes on sale **2-3 times per year**. The typical discount is **46–54% off**, bringing the $129 regular price down to around **$69**. The best times to buy:
 
 ## Price Context (tracked by PluginDrop)
-- Tracked since 2026-07-17 (12 observations)
+- Tracked since 2026-07-17 (14 observations)
 - Lowest we've tracked: $79 · Typical sale: $79 · Last seen regular: $129
 - Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
 - Sale pattern: Auto-discovered 2026-07-17
 - Latest observed sale: $79 on 2026-08-30
-
-- **Black Friday (November)**
-- **Baby Audio seasonal sales**
-- **PB Focus Sales**
-
----
 
 ## Historical Sale Data
 
