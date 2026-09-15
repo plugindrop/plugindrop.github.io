@@ -65,7 +65,7 @@ Verify current pricing on the product page — deals can change. NAP Works is an
 
 Grab your DVS timecode vinyl from Thomann while you plan your setup: [Rane Serato Vinyl at Thomann](https://www.thomann.de/intl/rane_serato_vinyl_black.htm?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=nap-works-devious-pocket-is-a-standalone-dvs-device-no-more-).
 
-If your current rig runs on Serato, check [When Does Serato DJ Pro Go On Sale?](/blog/when-does-serato-dj-pro-go-on-sale) before renewing a subscription or buying a perpetual license — timing that purchase around a sale window can offset some of the uncertainty around the Devious Pocket's launch price.
+If your current rig runs on Serato, check [When Does Serato DJ Pro Go On Sale?](/posts/when-does-serato-dj-pro-go-on-sale) before renewing a subscription or buying a perpetual license — timing that purchase around a sale window can offset some of the uncertainty around the Devious Pocket's launch price.
 
 ---
 
@@ -86,7 +86,7 @@ If you're committed to real vinyl feel and timecode control, the Devious Pocket 
 
 - **Buy now:** Timecode control vinyl and turntables. These are rig fundamentals you'll need regardless of when the Devious Pocket ships or what it costs — there's no reason to wait on [Rane Serato Vinyl at Thomann](https://www.thomann.de/intl/rane_serato_vinyl_black.htm?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=nap-works-devious-pocket-is-a-standalone-dvs-device-no-more-).
 - **Wait:** The Devious Pocket itself. With no confirmed price or ship date, jumping on a pre-order or first-batch unit before specs and pricing are locked is a risk — first hardware runs from smaller manufacturers often see revisions.
-- **Wait for a sale:** If you're maintaining a laptop-based Serato rig as a fallback while you wait on the Devious Pocket, hold off on a full-price Serato DJ Pro renewal. Check [When Does Serato DJ Pro Go On Sale?](/blog/when-does-serato-dj-pro-go-on-sale) first.
+- **Wait for a sale:** If you're maintaining a laptop-based Serato rig as a fallback while you wait on the Devious Pocket, hold off on a full-price Serato DJ Pro renewal. Check [When Does Serato DJ Pro Go On Sale?](/posts/when-does-serato-dj-pro-go-on-sale) first.
 - **Buy now if traveling soon:** If you have gigs booked in the next few months and need a crash-resistant setup today, a standalone CDJ or Denon media player is the safer bet over betting on an unreleased device.
 
 ---

@@ -91,7 +91,7 @@ A: Yes. CMYK is a native preset pack for u-he Diva — it requires a licensed co
 A: The Like No Orange website is currently offline. Availability is unconfirmed — check the YouTube video description and community forums for updated links, and treat any third-party resale claims with caution.
 
 **Q: Is Diva itself free?**
-A: No. u-he Diva is a paid synthesizer plugin, regularly priced around $179 with periodic sales bringing it down to roughly $99–$129. Check the [u-he Diva page](https://www.pluginboutique.com/search?search_query=u-he+diva&a_aid=69cb95abe1763) or [/blog/when-does-u-he-diva-go-on-sale](/blog/when-does-u-he-diva-go-on-sale) for current pricing and sale timing.
+A: No. u-he Diva is a paid synthesizer plugin, regularly priced around $179 with periodic sales bringing it down to roughly $99–$129. Check the [u-he Diva page](https://www.pluginboutique.com/search?search_query=u-he+diva&a_aid=69cb95abe1763) or [/blog/when-does-u-he-diva-go-on-sale](/posts/when-does-u-he-diva-go-on-sale) for current pricing and sale timing.
 
 **Q: Where can I hear the CMYK patches before buying?**
 A: The [official promo video on YouTube](https://youtu.be/T0Crlzlb1H8) is currently the clearest available demo of these sounds.
@@ -101,7 +101,7 @@ A: Start with Diva's factory bank plus KVR Marketplace ambient packs — both ar
 
 ## When to Buy
 
-- **Buy Diva now if you don't own it and see it below $130.** u-he runs meaningful sales a few times a year, and $130 or under is a genuinely good entry price for a synth this capable — don't wait indefinitely for a deeper discount that may not come. Track timing at [/blog/when-does-u-he-diva-go-on-sale](/blog/when-does-u-he-diva-go-on-sale).
+- **Buy Diva now if you don't own it and see it below $130.** u-he runs meaningful sales a few times a year, and $130 or under is a genuinely good entry price for a synth this capable — don't wait indefinitely for a deeper discount that may not come. Track timing at [/blog/when-does-u-he-diva-go-on-sale](/posts/when-does-u-he-diva-go-on-sale).
 - **Wait on CMYK specifically.** With the developer's site offline and no confirmed resale channel, there's nothing to "buy now" here — bookmark the YouTube video and check back periodically rather than searching for workarounds.
 - **Buy KVR Marketplace Diva packs whenever you find one that matches the aesthetic.** These are typically $10–30, rarely go on deep sale, and the cost of waiting (losing access to a niche patch designer's catalog) usually outweighs any discount you'd save.
 - **Hold off on Arturia Pigments unless you want a second synth, not a CMYK replacement.** It's a genuinely different engine, not a drop-in substitute — buy it on its own merits during a flash sale (commonly ~$99) rather than as a rushed CMYK workaround.
@@ -114,7 +114,7 @@ CMYK offered a rare focused take on BOC-style synthesis inside one of the most a
 
 - [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-vst-plugins-2026/)
-- [When Does u-he Diva Go On Sale?](/blog/when-does-u-he-diva-go-on-sale)
+- [When Does u-he Diva Go On Sale?](/posts/when-does-u-he-diva-go-on-sale)
 
 ---
 

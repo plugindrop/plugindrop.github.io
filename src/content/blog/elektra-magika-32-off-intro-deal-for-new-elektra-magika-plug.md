@@ -59,7 +59,7 @@ This is an **intro deal tied to launch**, not a recurring seasonal sale — no p
 
 [Get MultiLayerEQ at 32% off →](https://elektramagika.com/multilayereq.html)
 
-For future price tracking on this plugin specifically, bookmark [When Does Elektra Magika MultiLayerEQ Go On Sale?](/blog/when-does-elektra-magika-multilayereq-go-on-sale) — useful if you want to skip this window and see whether a comparable discount reappears later.
+For future price tracking on this plugin specifically, bookmark [When Does Elektra Magika MultiLayerEQ Go On Sale?](/posts/when-does-elektra-magika-multilayereq-go-on-sale) — useful if you want to skip this window and see whether a comparable discount reappears later.
 
 ---
 
@@ -72,14 +72,14 @@ For future price tracking on this plugin specifically, bookmark [When Does Elekt
 | [iZotope Ozone EQ](https://www.pluginboutique.com/search?searchterm=iZotope+Ozone&a_aid=69cb95abe1763) | Part of Ozone suite (~$199+) | AI-assisted EQ built around mastering workflows |
 | Elektra Magika MultiLayerEQ | Intro price, 32% off | Interval-based band layering — the only tool here built on this concept |
 
-FabFilter Pro-Q 3 is the established benchmark — proven, deeply supported, and the default recommendation in most mixing communities. If you want to check whether it's currently discounted before buying, see [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale) (Pro-Q 3 pricing tends to move alongside Pro-Q 4 sale cycles). TDR Nova remains the strongest free-tier dynamic EQ option. MultiLayerEQ isn't trying to unseat either — it occupies a distinct niche, and it's the only option here worth buying specifically for the interval-based concept.
+FabFilter Pro-Q 3 is the established benchmark — proven, deeply supported, and the default recommendation in most mixing communities. If you want to check whether it's currently discounted before buying, see [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale) (Pro-Q 3 pricing tends to move alongside Pro-Q 4 sale cycles). TDR Nova remains the strongest free-tier dynamic EQ option. MultiLayerEQ isn't trying to unseat either — it occupies a distinct niche, and it's the only option here worth buying specifically for the interval-based concept.
 
 ---
 
 ## When to Buy
 
 - **Buy now if:** you're specifically curious about interval-based EQ and want to try the concept while the 32% intro discount is active. Indie launch pricing has no guaranteed return date — once Elektra Magika ends the intro window, expect the price to settle higher, not drop further.
-- **Wait if:** you're EQ-shopping in general rather than for this specific concept. FabFilter Pro-Q 3 and TDR Nova are safer default buys, and Pro-Q pricing follows more predictable seasonal cycles — check [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale) before committing to full price.
+- **Wait if:** you're EQ-shopping in general rather than for this specific concept. FabFilter Pro-Q 3 and TDR Nova are safer default buys, and Pro-Q pricing follows more predictable seasonal cycles — check [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale) before committing to full price.
 - **Skip entirely if:** your EQ work is primarily corrective/numerical rather than harmonic — the interval-based layout won't add value to that workflow regardless of price.
 
 ---
@@ -112,8 +112,8 @@ A 32% intro discount on a genuinely different EQ concept is a low-risk way to ex
 ## Related Guides
 
 - [Best EQ Plugins 2026](/posts/best-eq-plugins-2026/)
-- [When Does Elektra Magika MultiLayerEQ Go On Sale?](/blog/when-does-elektra-magika-multilayereq-go-on-sale)
-- [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale)
+- [When Does Elektra Magika MultiLayerEQ Go On Sale?](/posts/when-does-elektra-magika-multilayereq-go-on-sale)
+- [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale)
 
 ---
 

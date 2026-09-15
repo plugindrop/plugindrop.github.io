@@ -23,7 +23,7 @@ heroImage: '/images/when-does-ssl-4000-bundle-go-on-sale.jpg'
 - **Plugin Boutique Anniversary Sale (February)**
 - **Waves flash sales, which recur throughout the year**
 
-If you're comparing this to other console emulations, check our [When Do Waves Plugins Go On Sale?](/blog/when-do-waves-plugins-go-on-sale) breakdown for the wider brand pattern.
+If you're comparing this to other console emulations, check our [When Do Waves Plugins Go On Sale?](/posts/when-do-waves-plugins-go-on-sale) breakdown for the wider brand pattern.
 
 ---
 

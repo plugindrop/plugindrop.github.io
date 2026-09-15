@@ -32,7 +32,7 @@ priceTrack:
 
 ## Current Pricing
 
-Empirical Labs does not run heavy discounts frequently. As of 2026, the EL8 Distressor typically sits around **$149** at full price, but it has historically dropped to roughly **$35–$40** during rare storewide Plugin Boutique promotions (a 75% cut). Because these sales are infrequent and unpredictable compared to competitors like FabFilter or Waves, this is a plugin where catching a sale window matters more than usual — check our [When Does the Empirical Labs EL8 Distressor Go On Sale?](/blog/when-does-empirical-labs-el8-distressor-go-on-sale) page for historical sale patterns before you buy.
+Empirical Labs does not run heavy discounts frequently. As of 2026, the EL8 Distressor typically sits around **$149** at full price, but it has historically dropped to roughly **$35–$40** during rare storewide Plugin Boutique promotions (a 75% cut). Because these sales are infrequent and unpredictable compared to competitors like FabFilter or Waves, this is a plugin where catching a sale window matters more than usual — check our [When Does the Empirical Labs EL8 Distressor Go On Sale?](/posts/when-does-empirical-labs-el8-distressor-go-on-sale) page for historical sale patterns before you buy.
 
 Always verify current pricing on the product page — deals can change without notice.
 
@@ -48,7 +48,7 @@ Always verify current pricing on the product page — deals can change without n
 | Klanghelm DC8C | ~$20–$30 | Budget-friendly, multiple compression styles with vintage modes |
 | UAD Distressor (by UA) | Check UA site | Third-party hardware emulation requiring UAD hardware or subscription |
 
-FabFilter Pro-C 2 is the go-to when you want precise, transparent control and a clean workflow — see our [When Does FabFilter Pro-C 2 Go On Sale?](/blog/when-does-fabfilter-pro-c-2-go-on-sale) breakdown for its own discount cadence, which tends to be more frequent and predictable than Empirical Labs' schedule. Klanghelm DC8C covers similar vintage territory at an even lower price point and rarely needs a sale to be an easy buy. The EL8 is the choice when you specifically want the Distressor's character from the team that made the hardware, and you're willing to time your purchase around a sale to get the best value.
+FabFilter Pro-C 2 is the go-to when you want precise, transparent control and a clean workflow — see our [When Does FabFilter Pro-C 2 Go On Sale?](/posts/when-does-fabfilter-pro-c-2-go-on-sale) breakdown for its own discount cadence, which tends to be more frequent and predictable than Empirical Labs' schedule. Klanghelm DC8C covers similar vintage territory at an even lower price point and rarely needs a sale to be an easy buy. The EL8 is the choice when you specifically want the Distressor's character from the team that made the hardware, and you're willing to time your purchase around a sale to get the best value.
 
 ---
 
@@ -103,7 +103,7 @@ A: At ~$149 full price, it's a reasonable buy if you need it now for an active s
 **Wait for a sale if:**
 - You're comparing options and FabFilter Pro-C 2 or Klanghelm DC8C would cover most of your compression needs in the meantime — buy one of those now and grab the EL8 later at a discount.
 - You can tolerate paying full price only as a last resort — historically, EL8 has seen roughly 75% off during select promotional windows, dropping it into the $35–$40 range.
-- You're building a plugin collection on a budget and this isn't a same-week necessity. Bookmark the [When Does the Empirical Labs EL8 Distressor Go On Sale?](/blog/when-does-empirical-labs-el8-distressor-go-on-sale) page and check back periodically.
+- You're building a plugin collection on a budget and this isn't a same-week necessity. Bookmark the [When Does the Empirical Labs EL8 Distressor Go On Sale?](/posts/when-does-empirical-labs-el8-distressor-go-on-sale) page and check back periodically.
 
 **Bottom line:** unless you need it in your session right now, this is a plugin worth watching rather than buying at full price — the discount, when it appears, is substantial enough to justify patience.
 

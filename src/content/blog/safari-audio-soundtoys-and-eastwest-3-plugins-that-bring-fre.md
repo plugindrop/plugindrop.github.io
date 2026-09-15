@@ -36,14 +36,14 @@ If you're trying to decide whether to buy today or wait, the short version: Soun
 - **Creative modulation** — LFOs, rhythmic patterns, and envelope followers built into core effects
 - **Broad format support** — AU, VST, VST3, and AAX across Mac and Windows
 - **EchoBoy & Decapitator** — two of the most widely cited effects in mixing forums, routinely recommended for saturation and delay work
-- Soundtoys 5 (the full bundle) typically lists around $499, with individual effects like EchoBoy and Decapitator around $199 each at full price — but this bundle rarely sells at list. See [When Does Soundtoys 5 Go On Sale?](/blog/when-does-soundtoys-5-go-on-sale) before you buy at full price
+- Soundtoys 5 (the full bundle) typically lists around $499, with individual effects like EchoBoy and Decapitator around $199 each at full price — but this bundle rarely sells at list. See [When Does Soundtoys 5 Go On Sale?](/posts/when-does-soundtoys-5-go-on-sale) before you buy at full price
 
 ### EastWest
 - **Hollywood-grade sample libraries** — recorded at EastWest Studios with professional session players
 - **PLAY and Opus engine** — proprietary sample player with deep articulation control
 - **Composer Cloud integration** — many titles available via subscription (roughly $19.99–$24.99/month) alongside perpetual licenses that can run $299–$599+ per library
 - **Wide genre coverage** — orchestral, cinematic, pop, and world instruments in the catalog
-- Check [When Does EastWest Composer Cloud Go On Sale?](/blog/when-does-eastwest-composer-cloud-go-on-sale) if you're deciding between the subscription and a perpetual license
+- Check [When Does EastWest Composer Cloud Go On Sale?](/posts/when-does-eastwest-composer-cloud-go-on-sale) if you're deciding between the subscription and a perpetual license
 
 ---
 
@@ -80,7 +80,7 @@ Deals change without notice — confirm current pricing before checkout. [Check 
 
 | Name | Price | Key Difference |
 |------|-------|----------------|
-| FabFilter Saturn 2 | ~$179 (rarely discounted) | Multiband saturation with surgical frequency control — see [When Does FabFilter Saturn 2 Go On Sale?](/blog/when-does-fabfilter-saturn-2-go-on-sale) |
+| FabFilter Saturn 2 | ~$179 (rarely discounted) | Multiband saturation with surgical frequency control — see [When Does FabFilter Saturn 2 Go On Sale?](/posts/when-does-fabfilter-saturn-2-go-on-sale) |
 | Valhalla DSP (various) | ~$50 each, frequent sales down to ~$40 | Algorithmic reverbs with strong community reputation for value |
 | Spitfire Audio LABS | Free | Free orchestral and instrument samples, narrower scope than EastWest |
 

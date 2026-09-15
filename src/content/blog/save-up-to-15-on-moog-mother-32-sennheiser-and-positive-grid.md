@@ -48,13 +48,13 @@ Unlike fully modular systems that require patch cables to make any sound, the Mo
 
 The Mother-32 has been a consistent recommendation on synthesis forums and communities for years. On Reddit's r/synthesizers and r/modular, it's frequently cited as one of the best entry points into semi-modular and Eurorack territory. Discussions on Gearspace commonly describe it as a long-term keeper that grows with a producer's skills rather than something you outgrow in a year. It's not a niche product — it's a community staple, which is part of why any discount on it draws attention.
 
-Since Moog hardware rarely sees discounts of this size, it's worth bookmarking our [When Does Moog Mother-32 Go On Sale?](/blog/when-does-moog-mother-32-go-on-sale) tracker if you want to know whether this is a one-off or the start of a pattern.
+Since Moog hardware rarely sees discounts of this size, it's worth bookmarking our [When Does Moog Mother-32 Go On Sale?](/posts/when-does-moog-mother-32-go-on-sale) tracker if you want to know whether this is a one-off or the start of a pattern.
 
 ## Sennheiser: Which Models Are Actually Discounted?
 
 Thomann's Sennheiser promotion covers select models rather than the full catalog, so check the listing before assuming your target pair qualifies. The **HD 660S2** is the one most producers should be watching — it's Sennheiser's current open-back reference headphone and a common recommendation for mix-checking against closed-back monitors. At roughly $599 normally, a 15% cut brings it into the same price bracket as more consumer-oriented headphones, which makes it a stronger buy than usual this week.
 
-If you're shopping for a cheaper option, older HD 6-series models (HD 6XX-class) occasionally appear in the same promotion window at steeper relative discounts, though stock varies. For a deeper breakdown of Sennheiser's sale cadence, see [When Does Sennheiser Go On Sale?](/blog/when-does-sennheiser-go-on-sale).
+If you're shopping for a cheaper option, older HD 6-series models (HD 6XX-class) occasionally appear in the same promotion window at steeper relative discounts, though stock varies. For a deeper breakdown of Sennheiser's sale cadence, see [When Does Sennheiser Go On Sale?](/posts/when-does-sennheiser-go-on-sale).
 
 ## Positive Grid: Amp Sims and Hardware
 
@@ -95,7 +95,7 @@ If budget is the priority and you want a taste of semi-modular, the Volca Modula
 - **Buy now if you want the Mother-32.** Moog rarely discounts hardware at all, let alone at 15%. There's no strong reason to expect a deeper cut later this year, and stock on discounted units tends to move quickly.
 - **Buy now if the HD 660S2 is your target headphone.** Sennheiser's mid-tier reference models get discounted a few times a year, but 15% is on the higher end of what's typical — this isn't a "wait for Black Friday to do better" situation.
 - **Wait if you're eyeing Positive Grid software specifically.** Positive Grid runs its own frequent promotions directly through its website, and those often beat third-party retailer discounts. Compare before buying BIAS FX or BIAS Amp here.
-- **Wait if you need a specific Sennheiser model not listed in this sale.** Buying the wrong model just to catch a discount isn't worth it — check our [When Does Sennheiser Go On Sale?](/blog/when-does-sennheiser-go-on-sale) page for the next likely window.
+- **Wait if you need a specific Sennheiser model not listed in this sale.** Buying the wrong model just to catch a discount isn't worth it — check our [When Does Sennheiser Go On Sale?](/posts/when-does-sennheiser-go-on-sale) page for the next likely window.
 
 ## FAQ
 
@@ -106,7 +106,7 @@ A: No. It operates as a standalone desktop unit and only optionally mounts into 
 A: Yes — it connects via MIDI (USB and DIN) and CV/Gate, making it compatible with most modern DAW setups.
 
 **Q: How long is this Thomann deal running?**
-A: Deal end dates aren't confirmed — check the product page for current availability, or track future windows on our [When Does Moog Mother-32 Go On Sale?](/blog/when-does-moog-mother-32-go-on-sale) page.
+A: Deal end dates aren't confirmed — check the product page for current availability, or track future windows on our [When Does Moog Mother-32 Go On Sale?](/posts/when-does-moog-mother-32-go-on-sale) page.
 
 **Q: Does Moog offer a warranty through Thomann?**
 A: Check Thomann's official warranty and returns policy on the product page for current terms.

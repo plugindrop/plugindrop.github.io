@@ -129,7 +129,7 @@ Aetheria is one of 6 eligible titles in the **[Pick Any 3 Choirs for $69 deal](h
 - You only want Aetheria alone and have no use for two more choir libraries — the $99 solo price doesn't discount much outside bundle promotions, so there's no urgency unless 8Dio runs a site-wide sale.
 - You're not sure yet which other 8Dio titles you'd want in the bundle — it's worth spending a few minutes confirming the full eligible list before committing, since the value of the deal depends on picking titles you'll actually use.
 
-For ongoing price tracking on comparable choir and vocal libraries, see our [When Does FabFilter Pro-Q 4 Go on Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale) guide for how we track discount cycles on other plugin categories — the same pattern (periodic bundle discounts rather than deep single-item cuts) tends to hold across boutique developers like 8Dio.
+For ongoing price tracking on comparable choir and vocal libraries, see our [When Does FabFilter Pro-Q 4 Go on Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale) guide for how we track discount cycles on other plugin categories — the same pattern (periodic bundle discounts rather than deep single-item cuts) tends to hold across boutique developers like 8Dio.
 
 ---
 

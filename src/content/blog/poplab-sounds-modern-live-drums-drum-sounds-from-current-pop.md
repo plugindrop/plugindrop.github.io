@@ -14,7 +14,7 @@ draft: false
 
 POPlab Sounds Modern Live-Drums is a multiformat sampler instrument focused on delivering ready-to-use drum kits tuned for modern commercial music production. Rather than vintage or genre-specific sounds, the library targets the live-drum aesthetic heard in current chart pop — tight transients, polished room tones, and mix-ready processing. It's designed to slot into a contemporary pop session without heavy post-processing work, which is exactly why it keeps showing up in producer gear-list threads whenever someone asks "how do I get that radio drum sound fast?"
 
-If you're trying to decide whether to buy this now or wait for a discount, the short version: POPlab Sounds libraries are typically priced in the **$39–$59** range at full price and rarely stay there for long — Native Instruments and third-party retailers run frequent promotional windows on sample content like this. Read on for the breakdown, then check the [When Does POPlab Sounds Modern Live-Drums Go On Sale?](/blog/when-does-poplab-sounds-modern-live-drums-go-on-sale) page for timing specifics before you commit.
+If you're trying to decide whether to buy this now or wait for a discount, the short version: POPlab Sounds libraries are typically priced in the **$39–$59** range at full price and rarely stay there for long — Native Instruments and third-party retailers run frequent promotional windows on sample content like this. Read on for the breakdown, then check the [When Does POPlab Sounds Modern Live-Drums Go On Sale?](/posts/when-does-poplab-sounds-modern-live-drums-go-on-sale) page for timing specifics before you commit.
 
 ---
 
@@ -72,7 +72,7 @@ Exact current pricing isn't locked in this article since sample-library pricing 
 | Steven Slate Drums 5 | ~$9.99/mo subscription | Subscription-based model with a large multi-mic recording approach |
 | GetGood Drums (various packs) | ~$49–$149 | Packs often target heavier/rock/metal alongside some pop-leaning options |
 
-If you need a self-contained drum plugin with its own interface and mixing tools, Addictive Drums 2 or Steven Slate Drums give you more infrastructure out of the box — but you'll pay considerably more, even at sale pricing. If you already have a preferred sampler and just need high-quality, pop-ready raw material that slots into your existing workflow, a multiformat library like Modern Live-Drums is the cheaper and more flexible choice. Worth checking [When Does Addictive Drums 2 Go On Sale?](/blog/when-does-addictive-drums-2-go-on-sale) if you're torn between the two and want to time either purchase around a discount window.
+If you need a self-contained drum plugin with its own interface and mixing tools, Addictive Drums 2 or Steven Slate Drums give you more infrastructure out of the box — but you'll pay considerably more, even at sale pricing. If you already have a preferred sampler and just need high-quality, pop-ready raw material that slots into your existing workflow, a multiformat library like Modern Live-Drums is the cheaper and more flexible choice. Worth checking [When Does Addictive Drums 2 Go On Sale?](/posts/when-does-addictive-drums-2-go-on-sale) if you're torn between the two and want to time either purchase around a discount window.
 
 ---
 
@@ -86,7 +86,7 @@ If you need a self-contained drum plugin with its own interface and mixing tools
 - You're not on a deadline and can be patient — sample libraries in this price bracket regularly see 20–40% reductions during major promotional periods (Black Friday/Cyber Monday, NAMM, and NI's periodic storewide sales).
 - You're considering bundling this with a larger Komplete purchase — Komplete bundle promotions can make individual libraries effectively free or heavily discounted as part of the package.
 
-Check the [When Does POPlab Sounds Modern Live-Drums Go On Sale?](/blog/when-does-poplab-sounds-modern-live-drums-go-on-sale) page for a running log of past discount timing so you can gauge whether a current price is actually a deal or just list price.
+Check the [When Does POPlab Sounds Modern Live-Drums Go On Sale?](/posts/when-does-poplab-sounds-modern-live-drums-go-on-sale) page for a running log of past discount timing so you can gauge whether a current price is actually a deal or just list price.
 
 ---
 
@@ -118,8 +118,8 @@ Modern Live-Drums is worth a look if your sessions regularly call for polished, 
 ## Related Guides
 
 - [Complete Drum Mixing Plugin Chain](/posts/drum-mixing-plugin-chain/)
-- [When Does POPlab Sounds Modern Live-Drums Go On Sale?](/blog/when-does-poplab-sounds-modern-live-drums-go-on-sale)
-- [When Does Addictive Drums 2 Go On Sale?](/blog/when-does-addictive-drums-2-go-on-sale)
+- [When Does POPlab Sounds Modern Live-Drums Go On Sale?](/posts/when-does-poplab-sounds-modern-live-drums-go-on-sale)
+- [When Does Addictive Drums 2 Go On Sale?](/posts/when-does-addictive-drums-2-go-on-sale)
 
 ---
 

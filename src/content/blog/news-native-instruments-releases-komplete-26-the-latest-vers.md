@@ -48,7 +48,7 @@ Komplete 26 is Native Instruments' flagship music production suite, designed to 
 
 Upgrade pricing from a previous Komplete edition (e.g., Komplete 14/15 Ultimate → Komplete 26 Ultimate) is typically the cheapest path in, often landing well under the new-customer sale price — worth checking your Native Access account for eligibility before paying full freight.
 
-For a deeper breakdown of NI's discount cadence, see our tracker: [When Does Komplete 26 Go On Sale?](/blog/when-does-komplete-26-go-on-sale)
+For a deeper breakdown of NI's discount cadence, see our tracker: [When Does Komplete 26 Go On Sale?](/posts/when-does-komplete-26-go-on-sale)
 
 [Check current Komplete 26 pricing and tiers →](https://www.native-instruments.com/en/specials/komplete/komplete-26/?utm_source=plugindrop&utm_medium=article&utm_campaign=news-native-instruments-releases-komplete-26-the-latest-vers)
 
@@ -100,7 +100,7 @@ If your primary need is mixing and mastering processors, a dedicated bundle like
 - **Buy now if:** you're on Komplete 14/15 and eligible for upgrade pricing, or you have an active project that needs Kontakt/Ozone/Neutron immediately — waiting to save another 10-15% isn't worth stalling a session over.
 - **Wait for a sale if:** you're a new customer eyeing Standard or Ultimate and aren't in a rush. NI runs deep bundle discounts multiple times a year (Black Friday historically being the deepest), and the gap between "launch pricing" and "sale pricing" on Komplete has historically been 30-65%.
 - **Skip entirely if:** you only need one or two specific tools (e.g., just Ozone, or just Kontakt) — buying those standalone during their own sale windows will usually beat the bundle price for a narrow use case.
-- Track the discount pattern before committing: [When Does Komplete 26 Go On Sale?](/blog/when-does-komplete-26-go-on-sale)
+- Track the discount pattern before committing: [When Does Komplete 26 Go On Sale?](/posts/when-does-komplete-26-go-on-sale)
 
 ---
 
@@ -132,7 +132,7 @@ Komplete 26 is live now — with 190+ instruments and effects and tools from thr
 ## Related Guides
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-- [When Does Komplete 26 Go On Sale?](/blog/when-does-komplete-26-go-on-sale)
+- [When Does Komplete 26 Go On Sale?](/posts/when-does-komplete-26-go-on-sale)
 
 ---
 

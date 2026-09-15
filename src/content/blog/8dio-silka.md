@@ -81,7 +81,7 @@ If you're weighing Silka against the other Pick 3-eligible titles, here's the pr
 | **Lacrimosa** | Epic, cinematic, sustained power | Silka (for softer verses/breakdowns) |
 | **Insolidus** | Soft, syllable-arc lyrical lines | Silka (two soft colors that layer well) |
 
-For a full breakdown of when 8Dio typically discounts these titles outside the current bundle, see [When Does 8Dio Lacrimosa Go on Sale?](/blog/when-does-8dio-lacrimosa-go-on-sale) and [When Does 8Dio Insolidus Go on Sale?](/blog/when-does-8dio-insolidus-go-on-sale)
+For a full breakdown of when 8Dio typically discounts these titles outside the current bundle, see [When Does 8Dio Lacrimosa Go on Sale?](/posts/when-does-8dio-lacrimosa-go-on-sale) and [When Does 8Dio Insolidus Go on Sale?](/posts/when-does-8dio-insolidus-go-on-sale)
 
 ---
 
@@ -136,5 +136,5 @@ Silka is one of 6 eligible titles in the **[Pick Any 3 Choirs for $69 deal](http
 - [Best Free Choir VST Plugins in 2026](/posts/best-free-choir-vst-plugins/)
 - [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)
 - [Pick Any 3 Choirs for $69 deal](https://8dio.com/)
-- [When Does 8Dio Lacrimosa Go on Sale?](/blog/when-does-8dio-lacrimosa-go-on-sale)
-- [When Does 8Dio Insolidus Go on Sale?](/blog/when-does-8dio-insolidus-go-on-sale)
+- [When Does 8Dio Lacrimosa Go on Sale?](/posts/when-does-8dio-lacrimosa-go-on-sale)
+- [When Does 8Dio Insolidus Go on Sale?](/posts/when-does-8dio-insolidus-go-on-sale)

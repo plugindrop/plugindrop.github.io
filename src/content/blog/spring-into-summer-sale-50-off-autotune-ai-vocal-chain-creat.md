@@ -68,7 +68,7 @@ Antares runs seasonal promotions a few times a year, but a 50% off event across 
 
 > Note: Verify current pricing on the product page before checkout — deals can change without notice.
 
-For a longer view of how often this brand discounts and by how much, see [When Does Auto-Tune Go On Sale?](/blog/when-does-auto-tune-go-on-sale)
+For a longer view of how often this brand discounts and by how much, see [When Does Auto-Tune Go On Sale?](/posts/when-does-auto-tune-go-on-sale)
 
 ---
 
@@ -80,7 +80,7 @@ For a longer view of how often this brand discounts and by how much, see [When D
 | Waves Tune Real-Time | ~$50–$100, frequent sales | Lower price point; simpler feature set |
 | Logic Pro Flex Pitch | Included with Logic Pro | Built-in, no additional cost for Logic users; no standalone version |
 
-If you need the most direct Auto-Tune effect sound, or you work with a team where session recall across DAWs matters, Antares remains the standard. Melodyne handles polyphonic pitch editing that Auto-Tune doesn't, making it the better pick for instrument correction rather than vocals. Flex Pitch covers basic tuning needs at no extra cost if you're already inside Logic and don't need the creative or AI-chain tools. Waves Tune goes on sale often enough — check [When Does Waves Tune Go On Sale?](/blog/when-does-waves-tune-go-on-sale) — that it's rarely worth paying full price for.
+If you need the most direct Auto-Tune effect sound, or you work with a team where session recall across DAWs matters, Antares remains the standard. Melodyne handles polyphonic pitch editing that Auto-Tune doesn't, making it the better pick for instrument correction rather than vocals. Flex Pitch covers basic tuning needs at no extra cost if you're already inside Logic and don't need the creative or AI-chain tools. Waves Tune goes on sale often enough — check [When Does Waves Tune Go On Sale?](/posts/when-does-waves-tune-go-on-sale) — that it's rarely worth paying full price for.
 
 ---
 
@@ -124,8 +124,8 @@ A: Upgrade eligibility and pricing varies. Check the product page for upgrade op
 
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
 - [Complete Vocal Processing Chain](/posts/vocal-processing-chain-plugins/)
-- [When Does Auto-Tune Go On Sale?](/blog/when-does-auto-tune-go-on-sale)
-- [When Does Melodyne Go On Sale?](/blog/when-does-melodyne-go-on-sale)
+- [When Does Auto-Tune Go On Sale?](/posts/when-does-auto-tune-go-on-sale)
+- [When Does Melodyne Go On Sale?](/posts/when-does-melodyne-go-on-sale)
 
 ---
 

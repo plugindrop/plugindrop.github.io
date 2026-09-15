@@ -51,7 +51,7 @@ We track regular and sale prices across 607 plugins and bundles and log every au
 - **SSL Native X-Echo** — observed at **$15**, down from $99. Also an all-time low. SSL Native plugins rarely drop below $20, so $15 is unusually aggressive. Given the low absolute cost, there's little downside to buying now rather than gambling on a marginally better price later.
 - **Tomofon** — observed at **$24.99**, down from $129.99 (baseline $129.99). An 81% cut on a creative vocal/formant plugin — worth grabbing if it's on your list, since drops this size are infrequent for boutique-priced tools like this.
 - **Continuum** — observed at **$15**, down from $79. Another all-time-low print. At this price point the plugin is essentially an impulse buy for anyone who's curious about spectral/continuum synthesis.
-- **Waves CLA-2A** — observed at **$29.99**, down from $149. Worth noting: our all-time-low on record for this compressor is $21.80, so $29.99 is a strong price but not the rock-bottom one. See our [When Does Waves CLA-2A Go On Sale?](/blog/when-does-waves-cla-2a-go-on-sale) page if you want to hold out for that lower number — Waves plugins re-sale on a fairly predictable cycle, so patience can pay off here.
+- **Waves CLA-2A** — observed at **$29.99**, down from $149. Worth noting: our all-time-low on record for this compressor is $21.80, so $29.99 is a strong price but not the rock-bottom one. See our [When Does Waves CLA-2A Go On Sale?](/posts/when-does-waves-cla-2a-go-on-sale) page if you want to hold out for that lower number — Waves plugins re-sale on a fairly predictable cycle, so patience can pay off here.
 
 ## Buy-now vs. wait: the rest of the list
 
@@ -60,10 +60,10 @@ Not every entry above deserves the same urgency. Here's how we'd sort the remain
 **Buy now (near or at recorded all-time lows):**
 - **Unfiltered Audio TRIAD** ($30, -80%) and **AIR Legends Pack** ($49, -80%) are both hitting rare territory for their categories — modulation/distortion synths and legacy AIR emulations don't often see 80% cuts.
 - **CINEDREAM** ($29, -78%) is a niche cinematic-scoring tool; at under $30 the risk of trying it is minimal.
-- **L4 Ultramaximizer** ($29.99, -70%) — the classic Waves L-series limiter rarely dips this low; if you need a mastering limiter, this is a good entry point. Check [When Does Waves L4 Go On Sale?](/blog/when-does-waves-l4-ultramaximizer-go-on-sale) for historical context before buying.
+- **L4 Ultramaximizer** ($29.99, -70%) — the classic Waves L-series limiter rarely dips this low; if you need a mastering limiter, this is a good entry point. Check [When Does Waves L4 Go On Sale?](/posts/when-does-waves-l4-ultramaximizer-go-on-sale) for historical context before buying.
 
 **Good deal, but check the history first:**
-- **Eventide Blackhole** ($49, -51%) is a fan-favorite reverb, but Eventide runs frequent 50%-off promos — see [When Does Eventide Blackhole Go On Sale?](/blog/when-does-eventide-blackhole-go-on-sale) to confirm whether $49 is close to its floor or just an average sale price.
+- **Eventide Blackhole** ($49, -51%) is a fan-favorite reverb, but Eventide runs frequent 50%-off promos — see [When Does Eventide Blackhole Go On Sale?](/posts/when-does-eventide-blackhole-go-on-sale) to confirm whether $49 is close to its floor or just an average sale price.
 - **Output Portal**, **SplitEQ**, **H3000 Factory Mk II**, and **Movement** are all sitting at exactly 50% off ($75 each). Output and Eventide both cycle through half-price promotions fairly often, so this tier is solid but not necessarily historic — reasonable to buy if you need the tool now, but not worth rushing if you're on the fence.
 
 **Bundle buys — evaluate by what's inside:**

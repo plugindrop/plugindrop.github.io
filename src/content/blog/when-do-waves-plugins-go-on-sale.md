@@ -76,10 +76,10 @@ This is the actual decision most people are wrestling with, so it's worth being 
 
 ## Free Alternatives If You Can't Wait
 
-- **[FabFilter Pro Bundle](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=when-do-waves-plugins-go-on-sale)** — Higher-quality, more stable pricing, discounted 25–30% roughly 3–4 times a year. Not "free," but a useful contrast: FabFilter's regular price is closer to its real price, so timing matters more if you go this route. See [when does FabFilter Pro-Q 4 go on sale](/blog/when-does-fabfilter-pro-q-4-go-on-sale) for that specific timing pattern.
+- **[FabFilter Pro Bundle](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=when-do-waves-plugins-go-on-sale)** — Higher-quality, more stable pricing, discounted 25–30% roughly 3–4 times a year. Not "free," but a useful contrast: FabFilter's regular price is closer to its real price, so timing matters more if you go this route. See [when does FabFilter Pro-Q 4 go on sale](/posts/when-does-fabfilter-pro-q-4-go-on-sale) for that specific timing pattern.
 - Your DAW's stock plugins — most modern DAWs (Ableton, Logic, FL Studio, Studio One) ship with competent EQ, compression, and reverb that cover 80% of what a Waves bundle does, at $0 marginal cost.
-- Check our [best plugin bundle deals](/blog/best-plugin-bundle-deals) roundup if you're comparing Waves against other bundle options before committing.
-- If you're specifically chasing mastering-chain plugins, our [best limiter plugins for mastering](/blog/best-limiter-plugins-mastering) guide covers where Waves' limiters stack up against alternatives at similar sale price points.
+- Check our [best plugin bundle deals](/posts/best-plugin-bundle-deals) roundup if you're comparing Waves against other bundle options before committing.
+- If you're specifically chasing mastering-chain plugins, our [best limiter plugins for mastering](/posts/best-limiter-plugins-mastering) guide covers where Waves' limiters stack up against alternatives at similar sale price points.
 
 ## When to Buy
 

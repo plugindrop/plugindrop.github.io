@@ -67,7 +67,7 @@ Upgrade pricing from RX 11 typically runs 40–50% off the full tier price, and 
 
 [→ Get iZotope RX 12 at Plugin Boutique](https://www.pluginboutique.com/search?q=izotope%20rx.html&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-izotope-releases-rx-12-audio-editing-and-restoration-su&chan=art&data1=news-izotope-releases-rx-12-audio-editing-and-restoration-su)
 
-For a full pricing history and to track when RX typically drops, see [When Does iZotope RX Go On Sale?](/blog/when-does-izotope-rx-go-on-sale).
+For a full pricing history and to track when RX typically drops, see [When Does iZotope RX Go On Sale?](/posts/when-does-izotope-rx-go-on-sale).
 
 ---
 
@@ -110,7 +110,7 @@ A: See the [When to Buy](#when-to-buy) section below — it depends on whether y
 - You only need RX Elements — at ~$19–29, the entry tier is cheap enough that timing the market saves you single-digit dollars.
 
 **Wait for a sale if:**
-- You're eyeing RX 12 Advanced (~$1,199 list) — this tier sees the largest dollar-value discounts, often $300–400 off during Black Friday or iZotope's bundle promotions. Track pricing at [When Does iZotope RX Go On Sale?](/blog/when-does-izotope-rx-go-on-sale) before buying at list price.
+- You're eyeing RX 12 Advanced (~$1,199 list) — this tier sees the largest dollar-value discounts, often $300–400 off during Black Friday or iZotope's bundle promotions. Track pricing at [When Does iZotope RX Go On Sale?](/posts/when-does-izotope-rx-go-on-sale) before buying at list price.
 - You don't have an immediate project need — RX gets discounted multiple times a year, so there's little upside to paying full price on Standard or Advanced without a deadline forcing your hand.
 - You're open to bundles — iZotope periodically packages RX with Nectar, Neutron, or Ozone in "Everything Bundle" style deals that beat buying RX standalone even at its sale price.
 

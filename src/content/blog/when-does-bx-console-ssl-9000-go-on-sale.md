@@ -64,11 +64,11 @@ Plugin Boutique often matches official sale prices and gives you Virtual Cash ba
 
 ## Alternatives If You Want to Compare Before Buying
 
-- **[Waves SSL 4000 Bundle](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/13326-ssl-4000-series-console-bundle?a_aid=69cb95abe1763&chan=art&data1=when-does-bx-console-ssl-9000-go-on-sale)** — Different SSL generation (~$116–129 going rate). The 4000-series has a slightly different EQ curve and compressor behavior than the 9000 J; many mix engineers keep both once they own either at sale price. See [when does Waves go on sale](/blog/when-do-waves-plugins-go-on-sale) for Waves-specific timing.
+- **[Waves SSL 4000 Bundle](https://www.pluginboutique.com/product/81-bundles/39-effects-bundles/13326-ssl-4000-series-console-bundle?a_aid=69cb95abe1763&chan=art&data1=when-does-bx-console-ssl-9000-go-on-sale)** — Different SSL generation (~$116–129 going rate). The 4000-series has a slightly different EQ curve and compressor behavior than the 9000 J; many mix engineers keep both once they own either at sale price. See [when does Waves go on sale](/posts/when-do-waves-plugins-go-on-sale) for Waves-specific timing.
 - **UAD SSL 4000 E Channel Strip** — Better fit if you're already tracking through UAD hardware or Apollo interfaces, though it costs more even on sale.
 - **Slate Digital VCC/VMR** — Subscription-based console modeling; makes more sense if you want console emulation bundled with Slate's full plugin catalog rather than a one-time purchase.
 
-If you're building out a full mixing chain rather than just a console strip, it's worth checking [best plugin bundle deals](/blog/best-plugin-bundle-deals) and [mastering chain plugins](/blog/mastering-chain-plugins) for how a console emulation like this one fits alongside EQ and compression on the mastering side.
+If you're building out a full mixing chain rather than just a console strip, it's worth checking [best plugin bundle deals](/posts/best-plugin-bundle-deals) and [mastering chain plugins](/posts/mastering-chain-plugins) for how a console emulation like this one fits alongside EQ and compression on the mastering side.
 
 ## FAQ
 
@@ -82,7 +82,7 @@ Not in any recently observed pricing history. Plugin Alliance's model for this p
 Free SSL-emulation plugins exist but generally model only one stage (EQ or compression, not both) and lack the full channel-strip workflow. At $25–29, the bx_console SSL 9000 J is priced close enough to "free" that most producers skip the free options entirely once they see the going rate.
 
 **Should I buy this or the Waves SSL bundle?**
-If budget is the deciding factor, bx_console SSL 9000 J at ~$29 is the clear pick. If you're already inside the Waves ecosystem and want the classic 4000-series sound plus Waves-specific integrations, the $116–129 bundle may be worth the extra cost — check [when does Waves go on sale](/blog/when-do-waves-plugins-go-on-sale) before paying full price for that one.
+If budget is the deciding factor, bx_console SSL 9000 J at ~$29 is the clear pick. If you're already inside the Waves ecosystem and want the classic 4000-series sound plus Waves-specific integrations, the $116–129 bundle may be worth the extra cost — check [when does Waves go on sale](/posts/when-do-waves-plugins-go-on-sale) before paying full price for that one.
 
 ---
 

@@ -38,7 +38,7 @@ Because every plugin in the lineup is priced identically, there's no "wait for t
 
 Yes — and this is the part that gets lost when people focus only on "no sales." Compare Valhalla's $50 flat rate to what competing reverbs cost even *during* a sale:
 
-- FabFilter Pro-R2 typically runs $179–$299, with sales usually landing around $200. See [When Does FabFilter Pro-R Go On Sale?](/blog/when-does-fabfilter-pro-r-go-on-sale) for typical discount timing.
+- FabFilter Pro-R2 typically runs $179–$299, with sales usually landing around $200. See [When Does FabFilter Pro-R Go On Sale?](/posts/when-does-fabfilter-pro-r-go-on-sale) for typical discount timing.
 - Eventide Blackhole and other Eventide reverbs list around $99–$199 depending on the promo.
 - Liquidsonics Seventh Heaven and Cinematic Rooms sit in the $150–$300 range.
 
@@ -69,8 +69,8 @@ None of these fully replace VintageVerb's algorithm depth or Room's realism, but
 
 Since Valhalla won't discount, if timing a purchase around a sale matters to your budget, that strategy makes more sense applied to a different plugin in your reverb chain rather than to Valhalla itself:
 
-- [When Does FabFilter Pro-Q 4 Go On Sale?](/blog/when-does-fabfilter-pro-q-4-go-on-sale) — for EQ, FabFilter does run periodic promos worth timing.
-- [When Does FabFilter Pro-R Go On Sale?](/blog/when-does-fabfilter-pro-r-go-on-sale) — if you want a second, more "mix-bus" reverb alongside Valhalla and prefer to catch it discounted.
+- [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale) — for EQ, FabFilter does run periodic promos worth timing.
+- [When Does FabFilter Pro-R Go On Sale?](/posts/when-does-fabfilter-pro-r-go-on-sale) — if you want a second, more "mix-bus" reverb alongside Valhalla and prefer to catch it discounted.
 
 Buy Valhalla whenever you need it, and save the sale-hunting for plugins that actually go on sale.
 
