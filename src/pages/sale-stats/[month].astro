@@ -1,14 +1,9 @@
 ---
 import BaseHead from '../../components/BaseHead.astro';
-import { existsSync } from 'node:fs';
-import { join } from 'node:path';
-import { fileURLToPath } from 'node:url';
 import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import statsData from '../../data/monthly_sale_stats.json';
-import priceData from '../../data/price_history.json';
-import { indexablePricePagePaths } from '../../lib/indexPolicy.mjs';
 import { pbLink, formatPrice } from '../../lib/priceUtils';
 
 interface DeepDiscount {
@@ -41,7 +36,6 @@ interface MonthBlock {
   deepest_discounts: DeepDiscount[];
   all_time_low_products: AtlProduct[];
   by_category: CategoryRow[];
-  by_brand: CategoryRow[];
   vs_previous_month: VsPrevious | null;
 }
 interface StatsFile {
@@ -51,7 +45,6 @@ interface StatsFile {
 }
 
 const { months } = statsData as StatsFile;
-const indexablePricePaths = new Set(indexablePricePagePaths(priceData));
 
 export function getStaticPaths() {
   return (statsData as StatsFile).months.map((m) => ({
@@ -61,11 +54,6 @@ export function getStaticPaths() {
 }
 
 const month = Astro.props.month as MonthBlock;
-const brandDiscountSvgPath = join(
-  fileURLToPath(new URL('../../../public/images', import.meta.url)),
-  `sale-stats-brand-discounts-${month.month}.svg`,
-);
-const hasBrandDiscountSvg = existsSync(brandDiscountSvgPath);
 const idx = months.findIndex((m) => m.month === month.month);
 // months は新しい順。prev = 1つ古い月（idx+1）、next = 1つ新しい月（idx-1）。
 const prevMonth = idx >= 0 && idx + 1 < months.length ? months[idx + 1] : null;
@@ -159,7 +147,6 @@ const datasetLD = {
       }
       .cta-btn-sm:hover { background: var(--accent); color: #0b0e0d; }
       .empty-note { color: var(--text-muted); font-size: 0.88rem; }
-      .brand-discount-chart { display: block; width: 100%; height: auto; margin-top: 1rem; border-radius: 10px; }
 
       .month-nav { display: flex; justify-content: space-between; gap: 1rem; margin: 2.5rem 0; }
       .month-nav a { color: var(--accent); font-size: 0.85rem; text-decoration: none; }
@@ -261,9 +248,7 @@ const datasetLD = {
               <tbody>
                 {month.deepest_discounts.map((d) => (
                   <tr>
-                    <td>{indexablePricePaths.has(`/plugin-prices/${d.slug}/`)
-                      ? <a href={`/plugin-prices/${d.slug}/`} class="prod-link">{d.name}</a>
-                      : <span class="prod-link">{d.name}</span>}</td>
+                    <td><a href={`/plugin-prices/${d.slug}/`} class="prod-link">{d.name}</a></td>
                     <td>{d.category}</td>
                     <td class="mono">{formatPrice(d.regular)}</td>
                     <td class="mono">{formatPrice(d.sale)}</td>
@@ -291,9 +276,7 @@ const datasetLD = {
               <tbody>
                 {month.all_time_low_products.map((p) => (
                   <tr>
-                    <td>{indexablePricePaths.has(`/plugin-prices/${p.slug}/`)
-                      ? <a href={`/plugin-prices/${p.slug}/`} class="prod-link">{p.name}</a>
-                      : <span class="prod-link">{p.name}</span>}</td>
+                    <td><a href={`/plugin-prices/${p.slug}/`} class="prod-link">{p.name}</a></td>
                     <td class="mono">{formatPrice(p.sale)}</td>
                     <td class="mono">{formatPrice(p.all_time_low)}</td>
                     <td class="mono">{p.date ?? '—'}</td>
@@ -330,40 +313,6 @@ const datasetLD = {
           </div>
         ) : (
           <p class="empty-note">No category data for this month.</p>
-        )}
-      </section>
-
-      <section class="page-section">
-        <h2 class="section-title">By Brand</h2>
-        {month.by_brand.length > 0 ? (
-          <div class="data-table-wrap">
-            <table class="data-table">
-              <thead>
-                <tr><th>Brand</th><th>Tracked</th><th>On sale</th><th>On sale %</th><th>Avg discount</th></tr>
-              </thead>
-              <tbody>
-                {month.by_brand.map((brand) => (
-                  <tr>
-                    <td>{brand.category}</td>
-                    <td class="mono">{brand.tracked}</td>
-                    <td class="mono">{brand.on_sale}</td>
-                    <td class="mono">{brand.on_sale_pct}%</td>
-                    <td class="mono">{brand.on_sale > 0 ? `-${brand.avg_discount_pct}%` : '—'}</td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-        ) : (
-          <p class="empty-note">No brand data for this month.</p>
-        )}
-        {hasBrandDiscountSvg && (
-          <img
-            class="brand-discount-chart"
-            src={`/images/sale-stats-brand-discounts-${month.month}.svg`}
-            alt={`Average discount by brand for ${month.label}`}
-            loading="lazy"
-          />
         )}
       </section>
 

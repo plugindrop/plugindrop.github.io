@@ -11,10 +11,6 @@ originalPrice: "$199.00"
 discount: "50% OFF"
 draft: true
 ---
-The article is complete at `/Users/andaugment/projects/affiliate-bot/jupiter-8-deal-article.md` (764 words, within the 700-900 range, affiliate link used 3 times as CTAs).
-
-TITLE: 50% Off JUPITER 8 — Vintage Analog Synth Sounds ($99)
-
 **TL;DR:** Plugin Boutique has JUPITER-8 at ~~$199~~ **$99**, a straight 50% cut off the regular price. It's a software recreation of Roland's classic Jupiter-8 polysynth, officially licensed and built for producers who want that vintage analog character without hunting down hardware. [Grab the deal here](https://www.pluginboutique.com/search?q=JUPITER+8&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=jupiter-8-417af2).
 
 <div class="video-embed">
@@ -85,8 +81,6 @@ $100 off a licensed Jupiter-8 recreation brings it down to $99 for a limited tim
 A 50% discount on a flagship analog synth recreation is a meaningful cut, not a token markdown. Plugin Boutique runs sales on its instrument catalog fairly often, so timing matters less than it would for a store that rarely discounts. That said, half off a $199 synth sits toward the higher end of typical instrument-plugin promotions.
 
 Producers who want this specific vintage Jupiter-8 sound have reasonable grounds to buy now rather than wait. Expect a perpetual license rather than a subscription, but confirm that on the product page before checkout.
-
-Note: WebFetch permission wasn't granted, so I couldn't pull live specs from the product page — I kept feature/format/license claims general and deferred exact details (formats, iLok requirement, system requirements, effects list) to "check the product page" rather than guessing.
 
 ## Related Guides
 
