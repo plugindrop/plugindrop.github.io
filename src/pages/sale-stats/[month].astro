@@ -4,6 +4,7 @@ import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import statsData from '../../data/monthly_sale_stats.json';
+import { staticRedirects } from '../../data/plugin_price_redirects.mjs';
 import { pbLink, formatPrice } from '../../lib/priceUtils';
 
 interface DeepDiscount {
@@ -64,6 +65,14 @@ const maxBucket = Math.max(1, ...BUCKET_ORDER.map((k) => month.discount_buckets[
 
 function fmtDelta(n: number): string {
   return n > 0 ? `+${n}` : `${n}`;
+}
+
+function resolveProductSlug(slug: string): string {
+  const oldPath = `/plugin-prices/${slug}/`;
+  const target = staticRedirects[oldPath as keyof typeof staticRedirects];
+  if (!target) return slug;
+  const m = target.match(/^\/plugin-prices\/([^/]+)\/$/);
+  return m ? m[1] : slug;
 }
 
 const pageTitle = `Plugin Sale Statistics — ${month.label} | ${SITE_TITLE}`;
@@ -248,7 +257,7 @@ const datasetLD = {
               <tbody>
                 {month.deepest_discounts.map((d) => (
                   <tr>
-                    <td><a href={`/plugin-prices/${d.slug}/`} class="prod-link">{d.name}</a></td>
+                    <td><a href={`/plugin-prices/${resolveProductSlug(d.slug)}/`} class="prod-link">{d.name}</a></td>
                     <td>{d.category}</td>
                     <td class="mono">{formatPrice(d.regular)}</td>
                     <td class="mono">{formatPrice(d.sale)}</td>
@@ -276,7 +285,7 @@ const datasetLD = {
               <tbody>
                 {month.all_time_low_products.map((p) => (
                   <tr>
-                    <td><a href={`/plugin-prices/${p.slug}/`} class="prod-link">{p.name}</a></td>
+                    <td><a href={`/plugin-prices/${resolveProductSlug(p.slug)}/`} class="prod-link">{p.name}</a></td>
                     <td class="mono">{formatPrice(p.sale)}</td>
                     <td class="mono">{formatPrice(p.all_time_low)}</td>
                     <td class="mono">{p.date ?? '—'}</td>
