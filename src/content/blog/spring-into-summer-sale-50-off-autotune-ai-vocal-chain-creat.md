@@ -8,7 +8,7 @@ heroImage: "/images/spring-into-summer-sale-50-off-autotune-ai-vocal-chain-creat
 score: 5.02
 discount: "50% OFF"
 xText: "you're not seeing autotune this cheap often. 50% off with the ai vocal chain and creative effects joining too. lowest i've seen this bundled"
-draft: false
+draft: true
 ---
 
 ## What Is Auto-Tune — and Why Does This Sale Matter?

@@ -7,7 +7,7 @@ affiliate: "https://www.thomann.de/intl/moog_mother_32.htm?utm_source=plugindrop
 heroImage: "/images/save-up-to-15-on-moog-mother-32-sennheiser-and-positive-grid.jpg"
 discount: "15% OFF"
 score: 7.98
-draft: false
+draft: true
 ---
 
 ## Moog Mother-32, Sennheiser, and Positive Grid Deals: Is This Worth Buying Now?
