@@ -124,3 +124,7 @@ An official plugin from the designers of one of the most respected hardware comp
 - [Best Compressor Plugins 2026](/posts/best-compressor-plugins-2026/)
 - [Best Free Compressor VST](/posts/best-free-compressor-vst-plugins/)
 - [Best Mixing Plugins 2026](/posts/best-mixing-plugins-2026/)
+
+---
+
+*Pricing and availability details in this article are cross-checked against PluginDrop's own price history tracking of Plugin Boutique listings, and are updated as deals and stock change.*

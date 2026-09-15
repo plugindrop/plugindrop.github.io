@@ -15,6 +15,11 @@ saleExpiry: "2027-09-07"
 ---
 **TL;DR:** Save 69% on the SSL X Gate — a dynamic gate plugin inspired by SSL's digital broadcast consoles. ~~$49~~ now $15 at Plugin Boutique, with a limited-time offer ending September 7. [Get the deal here](https://www.pluginboutique.com/search?q=SSL+X+Gate&a_aid=69cb95abe1763&chan=art&data1=ssl-x-gate-ssl-x-&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-gate-ssl-x-).
 
+## Price Context (tracked by PluginDrop)
+- Tracked since 2026-09-06 (6 observations)
+- Lowest we've tracked: $15 · Typical sale: $15 · Regular: $49
+- Verdict: **BUY NOW** — the current $15 price is within 5% of the $15 lowest tracked price.
+
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale
 - 2026-09-06 → 2026-09-08: as low as $15

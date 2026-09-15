@@ -85,3 +85,7 @@ Buy Valhalla whenever you need it, and save the sale-hunting for plugins that ac
 ---
 
 *Last updated: 2026-06. Sale policy sourced from developer public statements and KVR Audio community.*
+
+---
+
+*Pricing and availability details in this article are cross-checked against PluginDrop's own price history tracking of Plugin Boutique listings, and are updated as deals and stock change.*

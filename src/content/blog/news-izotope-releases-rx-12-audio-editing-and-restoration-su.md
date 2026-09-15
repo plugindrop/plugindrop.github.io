@@ -125,3 +125,7 @@ A: See the [When to Buy](#when-to-buy) section below — it depends on whether y
 - [Best Limiter Plugins for Mastering](/posts/best-limiter-plugins-mastering/)
 - [Best Free Mastering Plugins](/posts/best-free-mastering-plugins/)
 - [Best Plugin Bundle Deals](/posts/best-plugin-bundle-deals/)
+
+---
+
+*Pricing and availability details in this article are cross-checked against PluginDrop's own price history tracking of Plugin Boutique listings, and are updated as deals and stock change.*

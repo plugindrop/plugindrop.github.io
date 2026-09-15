@@ -106,3 +106,7 @@ The catalog just got its biggest update yet — about 30 new synths, redesigned 
 ---
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
+
+---
+
+*Pricing and availability details in this article are cross-checked against PluginDrop's own price history tracking of Plugin Boutique listings, and are updated as deals and stock change.*

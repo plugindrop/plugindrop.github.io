@@ -130,3 +130,7 @@ Softube Flow Studio offers a genuinely different approach to in-the-box mixing â
 - [Best Limiter Plugins for Mastering](/posts/best-limiter-plugins-mastering/)
 - [Best Free Mastering Plugins](/posts/best-free-mastering-plugins/)
 - [Best Mixing Plugins 2026](/posts/best-mixing-plugins-2026/)
+
+---
+
+*Pricing and availability details in this article are cross-checked against PluginDrop's own price history tracking of Plugin Boutique listings, and are updated as deals and stock change.*
