@@ -33538,6 +33538,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "sale": 69.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -44482,7 +44491,7 @@
     "SSL Native X-EQ 2": {
       "pb_url": "/product/2-Effects/16-EQ/8665-SSL-Native-X-EQ-2",
       "typical_regular": 149.0,
-      "typical_sale": null,
+      "typical_sale": 15.0,
       "all_time_low": 15.0,
       "notes": "auto-crawl 2026-07-19",
       "category": null,
@@ -44611,6 +44620,15 @@
           "source": "auto_check",
           "store": "plugin_boutique",
           "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "sale": 15.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
           "cur": "USD"
         }
       ]
@@ -61610,6 +61628,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "sale": 99.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -62210,6 +62237,15 @@
           "regular": 1499.92,
           "sale": 79.99,
           "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "sale": 79.99,
+          "regular": 1499.92,
+          "source": "pb_deals_poll",
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
@@ -63262,6 +63298,15 @@
           "regular": 179.0,
           "sale": 99.0,
           "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "sale": 99.0,
+          "regular": 179.0,
+          "source": "pb_deals_poll",
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
@@ -65052,6 +65097,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "sale": 29.0,
+          "regular": 119.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -65089,6 +65143,15 @@
         },
         {
           "date": "2026-09-14",
+          "sale": 69.99,
+          "regular": 299.99,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "sale": 69.99,
           "regular": 299.99,
           "source": "pb_deals_poll",
@@ -65175,6 +65238,15 @@
         },
         {
           "date": "2026-09-14",
+          "sale": 69.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "sale": 69.0,
           "regular": 149.0,
           "source": "pb_deals_poll",
