@@ -14,7 +14,7 @@ draft: false
 
 POPlab Sounds Modern Live-Drums is a multiformat sampler instrument focused on delivering ready-to-use drum kits tuned for modern commercial music production. Rather than vintage or genre-specific sounds, the library targets the live-drum aesthetic heard in current chart pop — tight transients, polished room tones, and mix-ready processing. It's designed to slot into a contemporary pop session without heavy post-processing work, which is exactly why it keeps showing up in producer gear-list threads whenever someone asks "how do I get that radio drum sound fast?"
 
-If you're trying to decide whether to buy this now or wait for a discount, the short version: POPlab Sounds libraries are typically priced in the **$39–$59** range at full price and rarely stay there for long — Native Instruments and third-party retailers run frequent promotional windows on sample content like this. Read on for the breakdown, then check the [When Does POPlab Sounds Modern Live-Drums Go On Sale?](/posts/when-does-poplab-sounds-modern-live-drums-go-on-sale) page for timing specifics before you commit.
+If you're trying to decide whether to buy this now or wait for a discount, the short version: POPlab Sounds libraries are typically priced in the **$39–$59** range at full price and rarely stay there for long — Native Instruments and third-party retailers run frequent promotional windows on sample content like this. Read on for the breakdown before you commit.
 
 ---
 

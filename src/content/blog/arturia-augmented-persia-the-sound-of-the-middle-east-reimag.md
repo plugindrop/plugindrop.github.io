@@ -57,8 +57,6 @@ Arturia doesn't publish a fixed global price for every retailer, and Thomann's l
 
 [Check the latest price on Thomann](https://www.thomann.de/intl/prod_AR_642182.html?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-augmented-persia-the-sound-of-the-middle-east-reimag) — deals can change without notice, so treat any price you see elsewhere as a snapshot, not a guarantee.
 
-For a running record of when this specific title tends to drop in price, see [When Does Arturia Augmented PERSIA Go On Sale?](/posts/when-does-arturia-augmented-persia-go-on-sale).
-
 ## Alternatives at a Glance
 
 | Name | Price | Key Difference |
@@ -78,8 +76,6 @@ If you just need a free starting point with ethnic textures for a quick sketch, 
 **Wait for a sale if:**
 - You're buying speculatively — "might use it someday" — rather than for an active project. Arturia's Augmented series regularly sees 30–40% discounts during Black Friday and other seasonal promos, and Thomann's price on this listing has moved independently of Arturia's own sales in the past.
 - You want to compare against East West Silk's subscription cost first. Since Silk is ongoing and PERSIA is one-time, run the math on your expected usage window before committing.
-
-Check [When Does Arturia Augmented PERSIA Go On Sale?](/posts/when-does-arturia-augmented-persia-go-on-sale) for the specific pattern on this title before pulling the trigger.
 
 ## FAQ
 
