@@ -74,12 +74,12 @@ These are approximate, consensus-based figures drawn from IK Multimedia's typica
 | VOCALOID6 (Yamaha) | ~$299 | The original Japanese vocal synthesis standard; large existing voice catalog and wide community adoption |
 | UTAU | Free | Open-source Japanese vocal synth; community-built voice banks, steeper learning curve |
 
-If your entire workflow is Japanese vocal synthesis and you want maximum phoneme control with the deepest voice library, Synthesizer V or VOCALOID are purpose-built for exactly that — check [When Does Synthesizer V Go on Sale?](/posts/when-does-synthesizer-v-go-on-sale) before paying full price. If you're already inside the ReSing ecosystem and want to extend it into Japanese-language territory without switching platforms or learning a new editor, the ReSing Voices Japanese Pack is the logical add-on.
+If your entire workflow is Japanese vocal synthesis and you want maximum phoneme control with the deepest voice library, Synthesizer V or VOCALOID are purpose-built for exactly that. If you're already inside the ReSing ecosystem and want to extend it into Japanese-language territory without switching platforms or learning a new editor, the ReSing Voices Japanese Pack is the logical add-on.
 
 ## When to Buy
 
 - **Buy now if:** you already own ReSing, need Japanese vocal models for a project on a deadline, or you've been waiting specifically for a Japanese-language expansion — the workflow benefit of staying in one ecosystem outweighs waiting for a discount on a ~$49–79 pack.
-- **Wait for a sale if:** you don't yet own ReSing itself. IK Multimedia routinely discounts the base software 40–60% during Black Friday, NAMM, and its own flash sales — buying the base license at full price right before one of those windows is the most common way producers overpay here. Bookmark [When Does IK Multimedia ReSing Go on Sale?](/posts/when-does-ik-multimedia-resing-go-on-sale) and set a price alert rather than checking manually.
+- **Wait for a sale if:** you don't yet own ReSing itself. IK Multimedia routinely discounts the base software 40–60% during Black Friday, NAMM, and its own flash sales — buying the base license at full price right before one of those windows is the most common way producers overpay here.
 - **Consider bundles if:** you're building out an IK Multimedia rig anyway (Total Studio, T-RackS, MODO instruments). ReSing frequently shows up in larger bundles at a fraction of its standalone price, and the Japanese Pack can sometimes be added at a further loyalty discount if you already own the base software.
 - **Skip for now if:** your Japanese vocal work is occasional rather than core to your output — the free UTAU or a Synthesizer V Basic license (~$99) covers casual use without committing to a second full ecosystem.
 
@@ -109,8 +109,6 @@ The ReSing Voices Japanese Pack is available now directly from IK Multimedia —
 ## Related Guides
 
 - [Complete Vocal Processing Chain](/posts/vocal-processing-chain-plugins/)
-- [When Does IK Multimedia ReSing Go on Sale?](/posts/when-does-ik-multimedia-resing-go-on-sale)
-- [When Does Synthesizer V Go on Sale?](/posts/when-does-synthesizer-v-go-on-sale)
 
 ---
 
