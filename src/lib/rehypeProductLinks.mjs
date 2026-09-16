@@ -14,15 +14,9 @@
  * /plugin-prices/[slug].astro ルート生成と同じ規則）。
  */
 import fs from 'node:fs';
+import { isProductNameIndexable, slugifyProduct } from './indexPolicy.mjs';
 
 const dataUrl = new URL('../data/price_history.json', import.meta.url);
-
-function slugify(name) {
-  return name
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '');
-}
 
 function escapeRegExp(s) {
   return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -33,11 +27,11 @@ function buildMatcher() {
   const names = [
     ...Object.keys(raw.bundles ?? {}),
     ...Object.keys(raw.plugins ?? {}),
-  ];
+  ].filter((name) => isProductNameIndexable(raw, name));
   // 長い名前優先: 同一開始位置では正規表現の選択肢は左から試されるため、
   // 文字数降順に並べれば "FabFilter Pro-Q 4" > "Pro-Q 4" が保証される。
   names.sort((a, b) => b.length - a.length);
-  const slugByName = new Map(names.map((n) => [n, slugify(n)]));
+  const slugByName = new Map(names.map((n) => [n, slugifyProduct(n)]));
   const alternation = names.map(escapeRegExp).join('|');
   // 単語境界: 製品名は空白・記号を含むため \b では不十分。前後が英数字・
   // ハイフンでないことを要求する（"Serum 2000" の "Serum 2" 誤マッチ防止）。

@@ -42,6 +42,34 @@ export function extractInternalHrefs(html) {
   return hrefs;
 }
 
+export function extractJsonLdUrls(html) {
+  const urls = [];
+  for (const match of html.matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script>/gi)) {
+    if (attributeValue(`<script ${match[1]}>`, 'type').toLowerCase() !== 'application/ld+json') continue;
+    let value;
+    try {
+      value = JSON.parse(match[2]);
+    } catch {
+      continue;
+    }
+    const visit = (node) => {
+      if (Array.isArray(node)) {
+        for (const item of node) visit(item);
+      } else if (node && typeof node === 'object') {
+        for (const [key, child] of Object.entries(node)) {
+          if (key === 'url' && typeof child === 'string') {
+            const normalized = normalizeInternalHref(child);
+            if (normalized) urls.push(normalized);
+          }
+          visit(child);
+        }
+      }
+    };
+    visit(value);
+  }
+  return urls;
+}
+
 export function routeForHtmlPath(relativePath) {
   const normalized = relativePath.replaceAll('\\', '/');
   if (normalized === 'index.html') return '/';

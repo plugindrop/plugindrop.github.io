@@ -189,7 +189,7 @@ The prices below come from our own daily tracking (regular list price and the ty
 
 | Plugin | Approx. 2026 Price | Character | Get It |
 |--------|--------------------|-----------|--------|
-| Softube Tape | $99 reg — typically ~$79 on sale ([history](/plugin-prices/softube-tape/)) | Three switchable tape-machine models (A/B/C), warm to aggressive | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=Softube%20Tape&a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst) |
+| Softube Tape | $99 reg — typically ~$79 on sale (history) | Three switchable tape-machine models (A/B/C), warm to aggressive | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=Softube%20Tape&a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst) |
 | Baby Audio TAIP | $99 reg ([history](/plugin-prices/baby-audio-taip/)) | AI-modeled reel-to-reel warmth, glue, and subtle wow | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=Baby%20Audio%20TAIP&a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst) |
 | Wavesfactory Cassette | $59 reg ([history](/plugin-prices/wavesfactory-cassette/)) | Detailed cassette / 4-track lo-fi with mechanical modeling | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=Wavesfactory%20Cassette&a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst) |
 | u-he Satin | $129 reg — typically ~$89 on sale ([history](/plugin-prices/u-he-satin/)) | Deep reel-to-reel tape delay + saturation, mastering-grade | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=u-he%20Satin&a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst) |
@@ -296,4 +296,4 @@ Chow Tape Model is the technically grounded anchor of any free tape saturation s
 
 ---
 
-*This post contains affiliate links. We may earn a small commission at no extra cost to you.*
+*This post contains affiliate links. We may earn a small commission at no extra cost to you.*

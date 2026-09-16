@@ -20,7 +20,7 @@ saleExpiry: "2026-07-10"
 - Lowest we've tracked: $366 · Typical sale: $366 · Regular: $499
 - Verdict: **BUY NOW** — the current $185.9 price is within 5% of the $366 lowest tracked price.
 - Sale pattern: Ozone 12 Advanced is the current flagship mastering suite (regular $499 direct/NI/PB); Ozone 12 'Standard' tier has been discontinued — the 2026 lineup is Advanced ($499) + Elements ($55) only. Discounted to $366 at Thomann (Mar 20, 2026) per plugindeals.net — lowest recorded 2026 sale. Existing-customer loyalty pricing from $279 also available (NI account required, not a public sale).
-- Cheaper right now in the same category: [Sonnox Oxford Inflator](/plugin-prices/sonnox-oxford-inflator/) ($39), [iZotope Ozone Elements](/plugin-prices/izotope-ozone-elements/) ($55), [Plugin Alliance Shadow Hills Mastering Compressor](/plugin-prices/plugin-alliance-shadow-hills-mastering-compressor/) ($149), [Slate Digital FG-X](/plugin-prices/slate-digital-fg-x/) ($149), [Plugin Alliance SPL Vitalizer](/plugin-prices/plugin-alliance-spl-vitalizer/) ($179)
+- Cheaper right now in the same category: [Sonnox Oxford Inflator](/plugin-prices/sonnox-oxford-inflator/) ($39), iZotope Ozone Elements ($55), [Plugin Alliance Shadow Hills Mastering Compressor](/plugin-prices/plugin-alliance-shadow-hills-mastering-compressor/) ($149), Slate Digital FG-X ($149), Plugin Alliance SPL Vitalizer ($179)
 
 ---
 

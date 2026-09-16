@@ -4,7 +4,9 @@ import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import statsData from '../../data/monthly_sale_stats.json';
+import priceData from '../../data/price_history.json';
 import { staticRedirects } from '../../data/plugin_price_redirects.mjs';
+import { indexablePricePagePaths } from '../../lib/indexPolicy.mjs';
 import { pbLink, formatPrice } from '../../lib/priceUtils';
 
 interface DeepDiscount {
@@ -73,6 +75,10 @@ function resolveProductSlug(slug: string): string {
   if (!target) return slug;
   const m = target.match(/^\/plugin-prices\/([^/]+)\/$/);
   return m ? m[1] : slug;
+}
+const indexablePricePaths = new Set(indexablePricePagePaths(priceData));
+function isResolvedProductIndexable(slug: string): boolean {
+  return indexablePricePaths.has(`/plugin-prices/${resolveProductSlug(slug)}/`);
 }
 
 const pageTitle = `Plugin Sale Statistics — ${month.label} | ${SITE_TITLE}`;
@@ -257,7 +263,9 @@ const datasetLD = {
               <tbody>
                 {month.deepest_discounts.map((d) => (
                   <tr>
-                    <td><a href={`/plugin-prices/${resolveProductSlug(d.slug)}/`} class="prod-link">{d.name}</a></td>
+                    <td>{isResolvedProductIndexable(d.slug)
+                      ? <a href={`/plugin-prices/${resolveProductSlug(d.slug)}/`} class="prod-link">{d.name}</a>
+                      : <span class="prod-link">{d.name}</span>}</td>
                     <td>{d.category}</td>
                     <td class="mono">{formatPrice(d.regular)}</td>
                     <td class="mono">{formatPrice(d.sale)}</td>
@@ -285,7 +293,9 @@ const datasetLD = {
               <tbody>
                 {month.all_time_low_products.map((p) => (
                   <tr>
-                    <td><a href={`/plugin-prices/${resolveProductSlug(p.slug)}/`} class="prod-link">{p.name}</a></td>
+                    <td>{isResolvedProductIndexable(p.slug)
+                      ? <a href={`/plugin-prices/${resolveProductSlug(p.slug)}/`} class="prod-link">{p.name}</a>
+                      : <span class="prod-link">{p.name}</span>}</td>
                     <td class="mono">{formatPrice(p.sale)}</td>
                     <td class="mono">{formatPrice(p.all_time_low)}</td>
                     <td class="mono">{p.date ?? '—'}</td>

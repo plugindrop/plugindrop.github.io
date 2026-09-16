@@ -52,7 +52,7 @@ PluginDrop has been tracking this product since 2025-03-20, with 4 price observa
 
 | Product | Current tracked price |
 | --- | ---: |
-| [Vital](/plugin-prices/vital/) | $0 |
+| Vital | $0 |
 
 Prices come from PluginDrop's latest catalog observation.
 <!-- deal-context-alternatives:end -->

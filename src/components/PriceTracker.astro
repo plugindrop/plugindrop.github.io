@@ -6,6 +6,7 @@
  * Usage: pass pluginNames[] (unchanged interface — articles keep working as-is).
  */
 import priceDataRaw from '../data/price_history.json';
+import { isProductNameIndexable } from '../lib/indexPolicy.mjs';
 import {
   type PriceEntry,
   pbLink as basePbLink,
@@ -60,7 +61,9 @@ const tracked = pluginNames
       {tracked.map(({ name, data, slug, current, pts, score, numericScore }) => (
         <div class="pt-card">
           <div class="pt-card-top">
-            <a href={`/plugin-prices/${slug}/`} class="pt-name">{name}</a>
+            {isProductNameIndexable(priceData, name)
+              ? <a href={`/plugin-prices/${slug}/`} class="pt-name">{name}</a>
+              : <span class="pt-name">{name}</span>}
             <span class={`pt-badge ${score.cls}`}>{score.label}</span>
             {numericScore.verdict === 'none' ? (
               <span class="score-none" title="No discount history — price is stable">—</span>

@@ -20,7 +20,7 @@ saleExpiry: "2025-03-20"
 - Lowest we've tracked: $99 · Typical sale: $189 · Regular: $249
 - Verdict: **BUY NOW** — the current $14.99 price is within 5% of the $99 lowest tracked price.
 - Sale pattern: Xfer's official price is $249 (2026). Xfer's founder has stated publicly that Xfer does not run promotions/sales on the perpetual license. Historical intro price $99 (Mar 2025) and a one-off $189 sale (May 2025) are kept below as legacy data points; no recurring sale pattern confirmed.
-- Cheaper right now in the same category: [Vital](/plugin-prices/vital/) ($0)
+- Cheaper right now in the same category: Vital ($0)
 
 ---
 

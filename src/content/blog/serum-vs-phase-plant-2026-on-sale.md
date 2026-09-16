@@ -22,7 +22,7 @@ saleExpiry: "2021-12-08"
 - Lowest we've tracked: $92 · Typical sale: $119 · Regular: $199
 - Verdict: **BUY NOW** — the current $8.39 price is within 5% of the $92 lowest tracked price.
 - Sale pattern: PB 14th Anniversary Feb 2026: $119 (40% off). ATL $92 recorded at Plugin Boutique. Kilohearts runs regular 40-50% off sales at PB.
-- Cheaper right now in the same category: [Vital](/plugin-prices/vital/) ($0)
+- Cheaper right now in the same category: Vital ($0)
 
 ## Is Serum Worth It at $8.39?
 

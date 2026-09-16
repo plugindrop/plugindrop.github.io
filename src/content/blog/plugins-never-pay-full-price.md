@@ -48,7 +48,7 @@ Waves lists Platinum at $1999, but our tracked checks recorded actual prices of 
 
 ### Plugin Alliance — the "Any Plugin $29.99" club
 
-Six separate Plugin Alliance products in our dataset — bx_console SSL 4000E, bx_console Neve 88RS, Maag EQ4, SPL Vitalizer, Lindell 80 Series, Shadow Hills Mastering Compressor, and Elysia niveau filter — list between $179 and $299 individually, and every one of them shows a recurring $29.99 sale price in our history. That's not a one-off: it's Plugin Alliance's standing "Any Plugin $29.99" promotion, and it recurs often enough that we've recorded it as both the typical sale price and the all-time low for each of these plugins. [See the bx_console SSL 4000E price history](/plugin-prices/plugin-alliance-bx-console-ssl-4000e/) if you want to check whether the promo is live right now.
+Six separate Plugin Alliance products in our dataset — bx_console SSL 4000E, bx_console Neve 88RS, Maag EQ4, SPL Vitalizer, Lindell 80 Series, Shadow Hills Mastering Compressor, and Elysia niveau filter — list between $179 and $299 individually, and every one of them shows a recurring $29.99 sale price in our history. That's not a one-off: it's Plugin Alliance's standing "Any Plugin $29.99" promotion, and it recurs often enough that we've recorded it as both the typical sale price and the all-time low for each of these plugins. See the bx_console SSL 4000E price history if you want to check whether the promo is live right now.
 
 ### iZotope — 50%+ off is the norm, not the exception
 

@@ -5,6 +5,7 @@ import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import manifestRaw from '../../data/programmatic_pages.json';
 import priceData from '../../data/price_history.json';
+import { indexablePricePagePaths } from '../../lib/indexPolicy.mjs';
 import {
   rowsFor,
   sortRows,
@@ -29,6 +30,8 @@ export async function getStaticPaths() {
 
 const { category } = Astro.props as { category: ManifestCategory };
 const data = priceData as ProgrammaticPriceData;
+const indexablePricePaths = new Set(indexablePricePagePaths(priceData));
+const isIndexableRow = (row: VerdictRow) => indexablePricePaths.has(`/plugin-prices/${row.slug}/`);
 
 const rows = sortRows(rowsFor(category.products, data));
 const onSaleRows = rows.filter((r) => r.hasLiveDrop);
@@ -158,7 +161,9 @@ function verdictClass(v: VerdictRow['verdict']): string {
             <tbody>
               {rows.map((row) => (
                 <tr>
-                  <td><a class="product-link" href={`/plugin-prices/${row.slug}/`}>{row.name}</a></td>
+                  <td>{isIndexableRow(row)
+                    ? <a class="product-link" href={`/plugin-prices/${row.slug}/`}>{row.name}</a>
+                    : <span class="product-link">{row.name}</span>}</td>
                   <td class="num">{formatPrice(row.current)}</td>
                   <td class="num">{formatPrice(row.regular)}</td>
                   <td class="num">{formatPrice(row.allTimeLow)}</td>
@@ -179,7 +184,7 @@ function verdictClass(v: VerdictRow['verdict']): string {
           <ul class="sale-list">
             {onSaleRows.map((row) => (
               <li class="sale-item">
-                <a href={`/plugin-prices/${row.slug}/`}>{row.name}</a>
+                {isIndexableRow(row) ? <a href={`/plugin-prices/${row.slug}/`}>{row.name}</a> : <span>{row.name}</span>}
                 <span class="sale-price">{formatPrice(row.current)}</span>
               </li>
             ))}
@@ -196,7 +201,7 @@ function verdictClass(v: VerdictRow['verdict']): string {
           <ul class="rare-list">
             {rarelyDiscountsRows.map((row) => (
               <li class="rare-item">
-                <a href={`/plugin-prices/${row.slug}/`}>{row.name}</a>
+                {isIndexableRow(row) ? <a href={`/plugin-prices/${row.slug}/`}>{row.name}</a> : <span>{row.name}</span>}
                 <span>{formatPrice(row.current)}</span>
               </li>
             ))}

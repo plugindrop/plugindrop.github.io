@@ -20,7 +20,7 @@ saleExpiry: "2021-09-26"
 - Lowest we've tracked: $65 · Typical sale: $104 · Regular: $149
 - Verdict: **WAIT** — the current $149 price is more than 15% above the $104 typical sale price.
 - Sale pattern: u-he. Regular promo ~30% off ($104). Documented Black Friday low of $65 in 2022 and 2023 (Reddit r/AudioProductionDeals tracking thread); missed the BF sale in 2024.
-- Cheaper right now in the same category: [Vital](/plugin-prices/vital/) ($0), [Cherry Audio DCO-106](/plugin-prices/cherry-audio-dco-106/) ($29), [Cherry Audio PS-20](/plugin-prices/cherry-audio-ps-20/) ($29), [Cherry Audio GX-80](/plugin-prices/cherry-audio-gx-80/) ($35), [Cherry Audio Mercury-4](/plugin-prices/cherry-audio-mercury-4/) ($49)
+- Cheaper right now in the same category: Vital ($0), Cherry Audio DCO-106 ($29), Cherry Audio PS-20 ($29), [Cherry Audio GX-80](/plugin-prices/cherry-audio-gx-80/) ($35), Cherry Audio Mercury-4 ($49)
 
 ---
 

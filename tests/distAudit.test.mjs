@@ -4,6 +4,7 @@ import test from 'node:test';
 import {
   countSitemapSections,
   extractInternalHrefs,
+  extractJsonLdUrls,
   hasRobotsNoindex,
   isRedirectStub,
   routeForHtmlPath,
@@ -15,6 +16,15 @@ test('hasRobotsNoindex handles attribute order, case, and robots token forms', (
   assert.equal(hasRobotsNoindex('<META NAME="ROBOTS" CONTENT="NOINDEX, FOLLOW">'), true);
   assert.equal(hasRobotsNoindex('<meta name="robots" content="index, follow">'), false);
   assert.equal(hasRobotsNoindex('<meta name="robots" content="noindex">'), true);
+});
+
+test('extractJsonLdUrls finds nested internal URLs and ignores malformed JSON-LD', () => {
+  const html = [
+    '<script type="application/ld+json">{"url":"https://plugindrop.net/plugin-prices/a/","itemListElement":[{"url":"/plugin-prices/b"}]}</script>',
+    '<script type="application/ld+json">not json</script>',
+    '<script>{"url":"/plugin-prices/not-json-ld/"}</script>',
+  ].join('');
+  assert.deepEqual(extractJsonLdUrls(html), ['/plugin-prices/a/', '/plugin-prices/b/']);
 });
 
 test('isRedirectStub detects meta refresh', () => {

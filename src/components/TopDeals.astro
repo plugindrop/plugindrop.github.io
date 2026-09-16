@@ -7,6 +7,7 @@
  */
 import priceDataRaw from '../data/price_history.json';
 import { pdAttr } from '../lib/interestTaxonomy.mjs';
+import { isProductNameIndexable } from '../lib/indexPolicy.mjs';
 import {
   type PriceEntry,
   pbLink as basePbLink,
@@ -81,7 +82,9 @@ const railTitle = watchMode ? 'Deals Worth Watching' : "Today's Best Plugin Deal
       <ul class="deals-rail-list">
         {deals.map((d, i) => (
           <li class="deals-rail-item" data-pd={pdAttr({ title: d.name, extra: d.entry.category ?? '' })} hidden={i >= 5}>
-            <a href={`/plugin-prices/${slugify(d.name)}/`} class="deals-rail-name">{d.name}</a>
+            {isProductNameIndexable(priceData, d.name)
+              ? <a href={`/plugin-prices/${slugify(d.name)}/`} class="deals-rail-name">{d.name}</a>
+              : <span class="deals-rail-name">{d.name}</span>}
             <div class="deals-rail-prices">
               <span class="deals-rail-off mono">{watchMode ? 'typ. ' : ''}-{d.off}%</span>
               <span class="deals-rail-reg mono">{formatPrice(d.regular)}</span>

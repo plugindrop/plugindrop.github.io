@@ -52,7 +52,7 @@ Waves is the brand Black Friday advice was written for, except the advice is bac
 
 ### Plugin Alliance — no, the promo already recurs
 
-Plugin Alliance's "Any Plugin $29.99" promotion shows up repeatedly in our tracked history across seven different products — [bx_console SSL 4000E](/plugin-prices/plugin-alliance-bx-console-ssl-4000e/), bx_console Neve 88RS, Maag EQ4, SPL Vitalizer, Lindell 80 Series, Shadow Hills Mastering Compressor, and Elysia niveau filter — and it isn't tied to a single calendar date. It's a recurring promo mechanism, not a once-a-year event, which means holding out specifically for Black Friday buys you nothing you couldn't get a few months earlier or later.
+Plugin Alliance's "Any Plugin $29.99" promotion shows up repeatedly in our tracked history across seven different products — bx_console SSL 4000E, bx_console Neve 88RS, Maag EQ4, SPL Vitalizer, Lindell 80 Series, Shadow Hills Mastering Compressor, and Elysia niveau filter — and it isn't tied to a single calendar date. It's a recurring promo mechanism, not a once-a-year event, which means holding out specifically for Black Friday buys you nothing you couldn't get a few months earlier or later.
 
 ### iZotope — somewhat, BF tends to be the deepest cut
 
@@ -84,7 +84,7 @@ Sonnox Oxford Inflator's deepest documented discounts — a 75% off Summer Sale 
 
 ### Valhalla DSP — doesn't matter, the price is fixed
 
-[Valhalla Room and the rest of the Valhalla line](/plugin-prices/valhalla-room/) sell at a flat $50 with no discounting, by the company's own stated policy. Black Friday changes nothing here — it's the same $50 in November as it is in March.
+Valhalla Room and the rest of the Valhalla line sell at a flat $50 with no discounting, by the company's own stated policy. Black Friday changes nothing here — it's the same $50 in November as it is in March.
 
 ### Spectrasonics and Xfer (Serum 2) — no, there's nothing to wait for
 

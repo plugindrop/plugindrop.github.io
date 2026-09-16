@@ -69,12 +69,12 @@ Arturia runs aggressive Black Friday sales on their software lineup. In 2023, fl
 | Plugin | Regular | BF Price | Tracker |
 |---|---|---|---|
 | Pigments | $199 | $99 | [History](/plugin-prices/arturia-pigments) |
-| Analog Lab V | $199 | $99 | [History](/plugin-prices/arturia-analog-lab) |
-| Piano V | $199 | $99 | [History](/plugin-prices/arturia-piano-v) |
-| CS-80 V | $149 | $75 | [History](/plugin-prices/arturia-cs-80-v) |
+| Analog Lab V | $199 | $99 | History |
+| Piano V | $199 | $99 | History |
+| CS-80 V | $149 | $75 | History |
 | Jup-8 V | $149 | $75 | [History](/plugin-prices/arturia-jup-8-v) |
 | Mini V | $149 | $75 | [History](/plugin-prices/arturia-mini-v) |
-| Prophet V | $149 | $75 | [History](/plugin-prices/arturia-prophet-v) |
+| Prophet V | $149 | $75 | History |
 
 **V Collection bundles** also hit significant discounts — V Collection 9 was $599 → $299 in 2023.
 

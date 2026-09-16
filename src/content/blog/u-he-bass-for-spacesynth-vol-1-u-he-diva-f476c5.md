@@ -20,7 +20,7 @@ saleExpiry: "2023-11-24"
 - Lowest we've tracked: $119 · Typical sale: $89 · Regular: $179
 - Verdict: **BUY NOW** — the current $17.4 price is within 5% of the $119 lowest tracked price.
 - Sale pattern: Regular ~$179 (179 EUR) direct from u-he & Plugin Boutique. Goes on sale a few times/year incl. Black Friday/Cyber Monday (~50% off) and other seasonal retailer promos; reported sale price ~$89 at Sweetwater (anecdotal, not a tracked price-history record).
-- Cheaper right now in the same category: [Vital](/plugin-prices/vital/) ($0)
+- Cheaper right now in the same category: Vital ($0)
 
 ---
 

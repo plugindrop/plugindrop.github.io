@@ -284,9 +284,9 @@ Free plugins cover every individual task in the vocal chain, but at some point a
 
 | Paid Upgrade | Approx. Price | Why Upgrade | Get It |
 |--------------|---------------|-------------|--------|
-| iZotope Nectar 4 | $199 reg — typically ~$149 on sale, lowest tracked $129 ([history](/plugin-prices/izotope-nectar-4/)) | Full AI-assisted vocal chain in one plugin — tuning, EQ, compression, de-essing, reverb, and harmony from a single interface | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Nectar%204&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
-| Waves Tune Real-Time | $199 reg — typically ~$50 on sale ([history](/plugin-prices/waves-tune-real-time/)) | Ultra-low-latency correction with formant shifting — the standard for live rigs and precise studio tuning | [Plugin Boutique](https://www.waves.com/plugins/waves-tune-real-time) |
-| Auto-Tune Pro | $450 reg perpetual — typically ~$250 on sale; subscription available ([history](/plugin-prices/antares-auto-tune-pro/)) | Graph Mode note-by-note editing that no free plugin matches — the industry-standard pitch tool | [Plugin Boutique](https://www.pluginboutique.com/search?q=Auto-Tune%20Pro&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
+| iZotope Nectar 4 | $199 reg — typically ~$149 on sale, lowest tracked $129 (history) | Full AI-assisted vocal chain in one plugin — tuning, EQ, compression, de-essing, reverb, and harmony from a single interface | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Nectar%204&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
+| Waves Tune Real-Time | $199 reg — typically ~$50 on sale (history) | Ultra-low-latency correction with formant shifting — the standard for live rigs and precise studio tuning | [Plugin Boutique](https://www.waves.com/plugins/waves-tune-real-time) |
+| Auto-Tune Pro | $450 reg perpetual — typically ~$250 on sale; subscription available (history) | Graph Mode note-by-note editing that no free plugin matches — the industry-standard pitch tool | [Plugin Boutique](https://www.pluginboutique.com/search?q=Auto-Tune%20Pro&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
 
 The detailed breakdown of each paid option follows below.
 

@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-import { extractInternalHrefs, hasRobotsNoindex, isRedirectStub, routeForHtmlPath } from '../src/lib/distAudit.mjs';
+import { extractInternalHrefs, extractJsonLdUrls, hasRobotsNoindex, isRedirectStub, routeForHtmlPath } from '../src/lib/distAudit.mjs';
 import { noindexPricePagePaths } from '../src/lib/indexPolicy.mjs';
 
 const projectRoot = fileURLToPath(new URL('../', import.meta.url));
@@ -30,6 +30,7 @@ if (!fs.existsSync(distDir)) {
   const priceData = JSON.parse(fs.readFileSync(path.join(projectRoot, 'src', 'data', 'price_history.json'), 'utf8'));
   const policyNoindex = new Set(noindexPricePagePaths(priceData));
   const violations = [];
+  const jsonLdViolations = [];
   let taxonomyWarnings = 0;
   for (const htmlPath of listHtmlFiles(distDir)) {
     const html = fs.readFileSync(htmlPath, 'utf8');
@@ -39,9 +40,17 @@ if (!fs.existsSync(distDir)) {
       if (to.startsWith('/plugin-prices/') && to !== '/plugin-prices/' && (policyNoindex.has(to) || targetIsNoindex(to))) violations.push({ from, to });
       if ((to.startsWith('/tags/') || to.startsWith('/brands/')) && targetIsNoindex(to)) taxonomyWarnings += 1;
     }
+    for (const to of extractJsonLdUrls(html)) {
+      if (to.startsWith('/plugin-prices/') && to !== '/plugin-prices/' && (policyNoindex.has(to) || targetIsNoindex(to))) {
+        jsonLdViolations.push({ from, to });
+      }
+    }
   }
   for (const { from, to } of violations) console.error(`FAIL: indexable page links to noindex product page: ${from} -> ${to}`);
+  for (const { from, to } of jsonLdViolations) console.error(`FAIL: JSON-LD links to noindex product page: ${from} -> ${to}`);
   console.log(`WARN: ${taxonomyWarnings} link(s) from indexable pages to noindex tag/brand pages.`);
-  if (violations.length > 0) { console.error(`FAIL: ${violations.length} indexable-to-noindex product link(s) found.`); process.exitCode = 1; }
-  else console.log('PASS: 0 indexable-to-noindex product links found.');
+  if (violations.length > 0 || jsonLdViolations.length > 0) {
+    console.error(`FAIL: ${violations.length} indexable-to-noindex product link(s) and ${jsonLdViolations.length} JSON-LD violation(s) found.`);
+    process.exitCode = 1;
+  } else console.log('PASS: 0 indexable-to-noindex product links and 0 JSON-LD violations found.');
 }
