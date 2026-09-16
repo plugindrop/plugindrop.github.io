@@ -4849,6 +4849,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 299,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "category": "Instrument"
@@ -5185,6 +5194,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 149,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -5384,6 +5402,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 129,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -5539,6 +5566,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 249.0,
+          "sale": 124.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -5678,6 +5714,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 99,
           "sale": null,
           "source": "auto_check",
@@ -5997,6 +6042,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 189,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -6292,6 +6346,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 99.0,
+          "sale": 29.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -6453,6 +6516,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 69.0,
+          "sale": 35.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -6604,6 +6676,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": 474,
+          "sale": 270.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 474,
           "sale": 270.0,
           "source": "auto_check",
@@ -6877,6 +6958,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 59,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -6950,6 +7040,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": 149.0,
+          "sale": 40.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 149.0,
           "sale": 40.0,
           "source": "auto_check",
@@ -7347,6 +7446,15 @@
         },
         {
           "date": "2026-09-12",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 99,
           "sale": null,
           "source": "auto_check",
@@ -14111,6 +14219,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -14241,6 +14358,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 99,
           "sale": null,
           "source": "auto_check",
@@ -14395,6 +14521,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": 149,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 149,
           "sale": null,
           "source": "auto_check",
@@ -14612,6 +14747,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 199,
+          "sale": 149.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -14736,6 +14880,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 99,
           "sale": null,
           "source": "auto_check",
@@ -22278,6 +22431,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 69,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -22624,6 +22786,15 @@
           "date": "2026-09-12",
           "regular": 129,
           "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 149,
+          "sale": 129.0,
           "source": "auto_check",
           "store": "plugin_boutique",
           "reg_src": "typical",
@@ -23010,6 +23181,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 59.0,
+          "sale": 39.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -23198,6 +23378,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": 249,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 249,
           "sale": null,
           "source": "auto_check",
@@ -23435,6 +23624,15 @@
           "source": "auto_check",
           "store": "plugin_boutique",
           "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 99.0,
+          "sale": 10.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
           "cur": "USD"
         }
       ]
@@ -23823,6 +24021,15 @@
           "source": "auto_check",
           "store": "plugin_boutique",
           "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 99.99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
           "cur": "USD"
         }
       ]
@@ -24296,6 +24503,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 119.0,
+          "sale": 9.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -24741,6 +24957,15 @@
           "sale": 279.0,
           "regular": 1890.0,
           "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 1890.0,
+          "sale": 279.0,
+          "source": "auto_check",
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
@@ -25222,6 +25447,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 1890.0,
+          "sale": 379.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -25604,6 +25838,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 99.0,
+          "sale": 29.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -25842,6 +26085,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": 399.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 399.0,
           "sale": null,
           "source": "auto_check",
@@ -26176,6 +26428,15 @@
           "sale": 9.0,
           "regular": 119.0,
           "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 119.0,
+          "sale": 9.0,
+          "source": "auto_check",
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
@@ -26753,6 +27014,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 89.0,
+          "sale": 49.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -27171,6 +27441,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 129.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -27379,6 +27658,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": 134.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 134.0,
           "sale": null,
           "source": "auto_check",
@@ -27599,6 +27887,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 599.99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -27813,6 +28110,15 @@
           "sale": 9.0,
           "regular": 119.0,
           "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 119.0,
+          "sale": 9.0,
+          "source": "auto_check",
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
@@ -38912,6 +39218,15 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ]
     },
@@ -39029,6 +39344,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -39257,6 +39581,15 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 149,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "category": null
@@ -39351,6 +39684,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -39462,6 +39804,15 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ]
     },
@@ -39561,6 +39912,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -39672,6 +40032,15 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ]
     },
@@ -39771,6 +40140,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -39882,6 +40260,15 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ]
     },
@@ -39981,6 +40368,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -40092,6 +40488,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -40245,6 +40650,15 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ]
     },
@@ -40368,6 +40782,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -45747,6 +46170,15 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ]
     },
@@ -45872,6 +46304,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 129,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "category": null
@@ -45972,6 +46413,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -46121,6 +46571,15 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ]
     },
@@ -46263,6 +46722,15 @@
           "sale": 15.0,
           "regular": 149.0,
           "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 149.0,
+          "sale": 15.0,
+          "source": "auto_check",
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
@@ -46591,6 +47059,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 89.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -46769,6 +47246,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 129.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -46941,6 +47427,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": 129.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 129.0,
           "sale": null,
           "source": "auto_check",
@@ -47179,6 +47674,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 99.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -47291,6 +47795,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": 99.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 99.0,
           "sale": null,
           "source": "auto_check",
@@ -47451,6 +47964,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": 119.99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 119.99,
           "sale": null,
           "source": "auto_check",
@@ -47635,6 +48157,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 119.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -47789,6 +48320,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 299.99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -47889,6 +48429,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": 112.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 112.0,
           "sale": null,
           "source": "auto_check",
@@ -48007,6 +48556,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 119.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -48119,6 +48677,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": 199.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 199.0,
           "sale": null,
           "source": "auto_check",
@@ -54147,6 +54714,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 199.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -56302,6 +56878,15 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ]
     },
@@ -56353,6 +56938,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -56416,6 +57010,15 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ]
     },
@@ -56467,6 +57070,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -56530,6 +57142,15 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ]
     },
@@ -56581,6 +57202,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": 59.0,
+          "sale": 39.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 59.0,
           "sale": 39.0,
           "source": "auto_check",
@@ -56644,6 +57274,15 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ]
     },
@@ -56701,13 +57340,22 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ]
     },
     "SSL Native X-ValveComp": {
       "pb_url": "/product/2-Effects/8-Compressor/8673-SSL-Native-X-ValveComp",
       "typical_regular": 49.0,
-      "typical_sale": null,
+      "typical_sale": 10.0,
       "all_time_low": 10.0,
       "notes": "auto-crawl 2026-08-16",
       "category": null,
@@ -56788,6 +57436,15 @@
           "source": "auto_check",
           "store": "plugin_boutique",
           "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 49.0,
+          "sale": 10.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
           "cur": "USD"
         }
       ]
@@ -56937,6 +57594,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": 79.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 79.0,
           "sale": null,
           "source": "auto_check",
@@ -57097,6 +57763,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 54.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -57155,6 +57830,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 149.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -57201,6 +57885,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": 129.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 129.0,
           "sale": null,
           "source": "auto_check",
@@ -57319,6 +58012,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 54.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -57365,6 +58067,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": 129.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 129.0,
           "sale": null,
           "source": "auto_check",
@@ -57453,6 +58164,15 @@
         },
         {
           "date": "2026-09-10",
+          "regular": 59.99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 59.99,
           "sale": null,
           "source": "auto_check",
@@ -59822,6 +60542,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 129.0,
+          "sale": 79.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "category": null
@@ -59893,6 +60622,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 99.0,
+          "sale": 15.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -59963,6 +60701,15 @@
         },
         {
           "date": "2026-09-09",
+          "regular": 129.99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 129.99,
           "sale": null,
           "source": "auto_check",
@@ -60108,6 +60855,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 1499.92,
+          "sale": 79.99,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -60238,6 +60994,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 79.0,
+          "sale": 15.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -60290,6 +61055,15 @@
         },
         {
           "date": "2026-09-09",
+          "regular": 149.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 149.0,
           "sale": null,
           "source": "auto_check",
@@ -60408,6 +61182,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 179.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -60475,6 +61258,15 @@
         },
         {
           "date": "2026-09-09",
+          "regular": 99.0,
+          "sale": 40.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 99.0,
           "sale": 40.0,
           "source": "auto_check",
@@ -60551,6 +61343,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 158.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -60591,6 +61392,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 59.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -60625,6 +61435,15 @@
         },
         {
           "date": "2026-09-09",
+          "regular": 129.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 129.0,
           "sale": null,
           "source": "auto_check",
@@ -60677,6 +61496,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 152.0,
+          "sale": 30.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -60711,6 +61539,15 @@
         },
         {
           "date": "2026-09-09",
+          "regular": 249.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 249.0,
           "sale": null,
           "source": "auto_check",
@@ -60757,6 +61594,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 199.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -60791,6 +61637,15 @@
         },
         {
           "date": "2026-09-09",
+          "regular": 199.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
           "regular": 199.0,
           "sale": null,
           "source": "auto_check",
@@ -60836,6 +61691,15 @@
           "source": "auto_check",
           "store": "plugin_boutique",
           "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-15",
+          "regular": 59.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
           "cur": "USD"
         }
       ]
