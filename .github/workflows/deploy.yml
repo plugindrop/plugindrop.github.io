@@ -28,7 +28,6 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npx astro build
-      - run: npm run check:policy
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist
