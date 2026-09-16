@@ -51,7 +51,7 @@ If none of those describe you — say, you're an English-language pop producer w
 | ReSing Voices Japanese Pack (expansion) | ~$49–79 | In line with IK's other ReSing voice-pack pricing |
 | IK Multimedia bundles (Total Studio, Vocal Nation-style bundles) | Varies, often includes ReSing at a steep effective discount | Worth checking if you already need other IK plugins |
 
-These are approximate, consensus-based figures drawn from IK Multimedia's typical pricing patterns for ReSing and its expansion packs — **confirm exact current pricing on the product page**, since IK runs frequent limited-time promotions. Track how this specific pack's price moves over time on our [When Does IK Multimedia ReSing Go on Sale?](/posts/when-does-ik-multimedia-resing-go-on-sale) page.
+These are approximate, consensus-based figures drawn from IK Multimedia's typical pricing patterns for ReSing and its expansion packs — **confirm exact current pricing on the product page**, since IK runs frequent limited-time promotions.
 
 [Check current pricing and purchase the ReSing Voices Japanese Pack here.](https://www.ikmultimedia.com/products/resing/index.php?utm_source=plugindrop&utm_medium=article&utm_campaign=news-ik-multimedia-launches-resing-voices-japanese-pack-for-)
 
