@@ -6,7 +6,7 @@ tags: ["guide", "prices", "data"]
 affiliate: ""
 evergreen: false
 score: 5.00
-draft: true
+draft: false
 ---
 
 ## TL;DR
