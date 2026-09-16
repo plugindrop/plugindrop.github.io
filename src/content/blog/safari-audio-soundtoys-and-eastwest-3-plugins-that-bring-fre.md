@@ -36,14 +36,14 @@ If you're trying to decide whether to buy today or wait, the short version: Soun
 - **Creative modulation** — LFOs, rhythmic patterns, and envelope followers built into core effects
 - **Broad format support** — AU, VST, VST3, and AAX across Mac and Windows
 - **EchoBoy & Decapitator** — two of the most widely cited effects in mixing forums, routinely recommended for saturation and delay work
-- Soundtoys 5 (the full bundle) typically lists around $499, with individual effects like EchoBoy and Decapitator around $199 each at full price — but this bundle rarely sells at list. See [When Does Soundtoys 5 Go On Sale?](/posts/when-does-soundtoys-5-go-on-sale) before you buy at full price
+- Soundtoys 5 (the full bundle) typically lists around $499, with individual effects like EchoBoy and Decapitator around $199 each at full price — but this bundle rarely sells at list
 
 ### EastWest
 - **Hollywood-grade sample libraries** — recorded at EastWest Studios with professional session players
 - **PLAY and Opus engine** — proprietary sample player with deep articulation control
 - **Composer Cloud integration** — many titles available via subscription (roughly $19.99–$24.99/month) alongside perpetual licenses that can run $299–$599+ per library
 - **Wide genre coverage** — orchestral, cinematic, pop, and world instruments in the catalog
-- Check [When Does EastWest Composer Cloud Go On Sale?](/posts/when-does-eastwest-composer-cloud-go-on-sale) if you're deciding between the subscription and a perpetual license
+- Worth weighing the subscription against a perpetual license before committing
 
 ---
 
