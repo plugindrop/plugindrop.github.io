@@ -80,7 +80,7 @@ Deals change without notice — confirm current pricing before checkout. [Check 
 
 | Name | Price | Key Difference |
 |------|-------|----------------|
-| FabFilter Saturn 2 | ~$179 (rarely discounted) | Multiband saturation with surgical frequency control — see [When Does FabFilter Saturn 2 Go On Sale?](/posts/when-does-fabfilter-saturn-2-go-on-sale) |
+| FabFilter Saturn 2 | ~$179 (rarely discounted) | Multiband saturation with surgical frequency control |
 | Valhalla DSP (various) | ~$50 each, frequent sales down to ~$40 | Algorithmic reverbs with strong community reputation for value |
 | Spitfire Audio LABS | Free | Free orchestral and instrument samples, narrower scope than EastWest |
 

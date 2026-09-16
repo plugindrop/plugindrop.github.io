@@ -47,7 +47,7 @@ If none of these describe your workflow — say, you mix almost entirely with st
 
 Softube plugins in this category typically list in the **$150–$250** range at full price, with Softube's periodic promotions (Black Friday, summer sales, NAMM-adjacent deals) bringing that down by 30–50% at various points in the year. No fixed sale pricing was confirmed at the time of writing — check the current price directly on the product page, since deals shift without notice.
 
-For a sense of Flow Studio's own sale rhythm and how deep past discounts have gone, see [When Does Softube Flow Studio Go On Sale?](/posts/when-does-softube-flow-studio-go-on-sale)
+Watch the product page for a sense of Flow Studio's own sale rhythm and how deep past discounts have gone.
 
 > Verify current pricing on the product page — deals can change.
 
@@ -74,7 +74,7 @@ For a sense of Flow Studio's own sale rhythm and how deep past discounts have go
 | Waves Nx | ~$29–$99, frequently discounted, check retailer | Focus on spatial/headphone mixing rather than macro control |
 | SSL 360° | ~$399–$599 depending on bundle, check retailer | Tied to SSL's hardware ecosystem; channel strip-centric workflow |
 
-If you already own a hardware controller and want deep macro integration, Flow Studio is purpose-built for that use case. If you're primarily after a channel strip emulation without the macro workflow layer, one of the SSL or Waves options may cover your needs at a different price point. Console 1's bundle is worth comparing directly — see [When Does Softube Console 1 Go On Sale?](/posts/when-does-softube-console-1-go-on-sale) if you're weighing the hardware-included route against Flow Studio's software-only approach.
+If you already own a hardware controller and want deep macro integration, Flow Studio is purpose-built for that use case. If you're primarily after a channel strip emulation without the macro workflow layer, one of the SSL or Waves options may cover your needs at a different price point. Console 1's bundle is worth comparing directly if you're weighing the hardware-included route against Flow Studio's software-only approach.
 
 ---
 
@@ -111,7 +111,7 @@ A: The software is designed with hardware integration in mind, but check the pro
 A: Check the official Softube product page for current macOS/Windows version requirements and minimum CPU/RAM specs, particularly if you're running an older machine.
 
 **Q: Is it worth buying at full price, or should I wait?**
-A: If the macro workflow solves a real bottleneck for you today, full price is defensible. Otherwise, check [When Does Softube Flow Studio Go On Sale?](/posts/when-does-softube-flow-studio-go-on-sale) and time your purchase to a known discount window.
+A: If the macro workflow solves a real bottleneck for you today, full price is defensible. Otherwise, watch the product page and time your purchase to a known discount window.
 
 ---
 

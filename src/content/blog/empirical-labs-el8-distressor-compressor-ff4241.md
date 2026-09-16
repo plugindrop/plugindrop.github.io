@@ -32,7 +32,7 @@ priceTrack:
 
 ## Current Pricing
 
-Empirical Labs does not run heavy discounts frequently. As of 2026, the EL8 Distressor typically sits around **$149** at full price, but it has historically dropped to roughly **$35–$40** during rare storewide Plugin Boutique promotions (a 75% cut). Because these sales are infrequent and unpredictable compared to competitors like FabFilter or Waves, this is a plugin where catching a sale window matters more than usual — check our [When Does the Empirical Labs EL8 Distressor Go On Sale?](/posts/when-does-empirical-labs-el8-distressor-go-on-sale) page for historical sale patterns before you buy.
+Empirical Labs does not run heavy discounts frequently. As of 2026, the EL8 Distressor typically sits around **$149** at full price, but it has historically dropped to roughly **$35–$40** during rare storewide Plugin Boutique promotions (a 75% cut). Because these sales are infrequent and unpredictable compared to competitors like FabFilter or Waves, this is a plugin where catching a sale window matters more than usual.
 
 Always verify current pricing on the product page — deals can change without notice.
 
