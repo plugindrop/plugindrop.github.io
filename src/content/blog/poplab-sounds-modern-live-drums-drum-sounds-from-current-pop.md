@@ -86,7 +86,7 @@ If you need a self-contained drum plugin with its own interface and mixing tools
 - You're not on a deadline and can be patient — sample libraries in this price bracket regularly see 20–40% reductions during major promotional periods (Black Friday/Cyber Monday, NAMM, and NI's periodic storewide sales).
 - You're considering bundling this with a larger Komplete purchase — Komplete bundle promotions can make individual libraries effectively free or heavily discounted as part of the package.
 
-Check the [When Does POPlab Sounds Modern Live-Drums Go On Sale?](/posts/when-does-poplab-sounds-modern-live-drums-go-on-sale) page for a running log of past discount timing so you can gauge whether a current price is actually a deal or just list price.
+Watch the product page for a running sense of whether a current price is actually a deal or just list price.
 
 ---
 
@@ -118,7 +118,6 @@ Modern Live-Drums is worth a look if your sessions regularly call for polished, 
 ## Related Guides
 
 - [Complete Drum Mixing Plugin Chain](/posts/drum-mixing-plugin-chain/)
-- [When Does POPlab Sounds Modern Live-Drums Go On Sale?](/posts/when-does-poplab-sounds-modern-live-drums-go-on-sale)
 - [When Does Addictive Drums 2 Go On Sale?](/posts/when-does-addictive-drums-2-go-on-sale)
 
 ---

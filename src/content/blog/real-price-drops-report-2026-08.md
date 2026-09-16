@@ -54,8 +54,8 @@ We track regular and sale prices across 460 plugins and bundles and log every au
 
 ## What changed, and what to do about it
 
-- **Sonnox Oxford EQ** — observed at $67, down from a baseline of $474 (typical regular price). The all-time low we've recorded is $47. This is one of the steepest headline discounts of the month, but it's still 30%+ above the floor. If you don't need it for a session this week, hold off. Track the pattern on our [When Does Sonnox Oxford EQ Go On Sale?](/posts/when-does-sonnox-oxford-eq-go-on-sale) page.
-- **Waves CLA-2A** — observed at $34.99, down from $149. The all-time low is $21.8, so this is a good-not-great entry point. Waves plugins cycle through flash sales often enough that patience usually pays off — see [When Does Waves CLA-2A Go On Sale?](/posts/when-does-waves-cla-2a-go-on-sale) for the pattern.
+- **Sonnox Oxford EQ** — observed at $67, down from a baseline of $474 (typical regular price). The all-time low we've recorded is $47. This is one of the steepest headline discounts of the month, but it's still 30%+ above the floor. If you don't need it for a session this week, hold off.
+- **Waves CLA-2A** — observed at $34.99, down from $149. The all-time low is $21.8, so this is a good-not-great entry point. Waves plugins cycle through flash sales often enough that patience usually pays off.
 - **UAD 1176 Classic Limiter Collection** — observed at $49, down from $149, against an all-time low of $29. UAD collections tend to resurface at deeper discounts during their own promo cycles, so unless you need 1176 emulation immediately, this is a "wait" candidate.
 - **Moog Mariana** — observed at $39.99, down from $99, and this *matches* the all-time low we've logged. When a plugin hits its recorded floor, there's little upside to waiting — this is one of the few genuine "buy now" signals in this batch.
 - **Eventide UltraChannel** — observed at $49, down from $99, also matching its recorded low. Channel-strip tools like this rarely go lower; if it's on your list, this is the moment.
