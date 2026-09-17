@@ -10,7 +10,7 @@ originalPrice: "$29.9"
 discount: "50% OFF"
 saleExpiry: "2026-10-08"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 **TL;DR:** Wa Production's "What About: Primal Techno, Rave, Hard Techno" preset pack for Serum is ~~$29.9~~ $10 at ADSR Sounds, a 50% cut from list price. It's a Serum-only preset bank built for raw, driving techno and rave-style patches. [Grab it at ADSR Sounds for $10](https://www.adsrsounds.com/product/presets/wa-production-what-about-primal-techno-rave-hard-techno-sample-pack-serum-presets/?a_aid=plugindrop&data1=wa-production-what-about-primal-techno-rave-hard-techno-samp&utm_source=plugindrop&utm_medium=article&utm_campaign=wa-production-what-about-primal-techno-rave-hard-techno-samp).
 

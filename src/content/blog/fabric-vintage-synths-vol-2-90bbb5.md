@@ -9,7 +9,7 @@ score: 9.31
 dealPrice: "$119.00"
 originalPrice: "$299.00"
 discount: "60% OFF"
-draft: true
+draft: false
 saleExpiry: "2026-09-22"
 saleExpirySource: "fallback"
 ---

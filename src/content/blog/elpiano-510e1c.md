@@ -11,7 +11,7 @@ originalPrice: "$149.00"
 discount: "83% OFF"
 saleExpiry: "2026-10-08"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 **TL;DR:** Elpiano, a virtual electric piano instrument, is currently 83% off at Plugin Boutique. The regular price is $149, which puts the sale price at roughly $25 after the discount is applied. Grab it through the [Plugin Boutique listing](https://www.pluginboutique.com/search?q=Elpiano&a_aid=69cb95abe1763&chan=art&data1=elpiano-510e1c&utm_source=plugindrop&utm_medium=article&utm_campaign=elpiano-510e1c) while the discount is live.
 

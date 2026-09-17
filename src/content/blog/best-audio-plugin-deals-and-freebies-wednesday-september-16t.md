@@ -10,7 +10,7 @@ score: 8.40
 dealPrice: "FREE"
 saleExpiry: "2026-10-16"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 **TL;DR:** Ample Sound is giving away Ample Bass P Lite 4, a virtual bass instrument for Mac and Windows, at no cost. It's part of a broader freebie wave this week that also includes TONE3000's Neural Amp Modeler plugin, a free Psytrance Syndicate sound pack from Function Loops, and a background audio recorder from Polarity Music. [Grab Ample Bass P Lite 4 here](https://www.amplesound.net/en/pro-pd.asp).
 

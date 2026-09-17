@@ -11,7 +11,7 @@ originalPrice: "$15.97"
 discount: "30% OFF"
 saleExpiry: "2026-10-10"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 If you produce big room or festival-style house and want a reference arrangement to pull apart in FL Studio, this template is worth a look at its current price. It's not a plugin or sample pack in the traditional sense — it's a finished project file you can open, study, and repurpose.
 

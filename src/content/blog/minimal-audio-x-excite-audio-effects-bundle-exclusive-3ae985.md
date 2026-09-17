@@ -11,7 +11,7 @@ originalPrice: "$256.00"
 discount: "77% OFF"
 saleExpiry: "2026-10-07"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 
 
