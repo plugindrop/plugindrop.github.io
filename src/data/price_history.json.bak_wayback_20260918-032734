@@ -38376,30 +38376,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2025-04-08",
-          "regular": 79.65,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-05-23",
-          "regular": 79.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-07-02",
-          "regular": 79.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-08-13",
-          "regular": 79.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "category": null
