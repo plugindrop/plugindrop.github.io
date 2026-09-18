@@ -6,17 +6,9 @@ import { SITE_TITLE } from '../../consts';
 import priceData from '../../data/price_history.json';
 import { pdAttr } from '../../lib/interestTaxonomy.mjs';
 import productVideosRaw from '../../data/product_videos.json';
-import { latestCheckedDate, formatCheckedDate, dealScoreNumeric, isSearchUrl } from '../../lib/priceUtils';
+import { latestCheckedDate, formatCheckedDate, dealScoreNumeric, isSearchUrl, pbLink } from '../../lib/priceUtils';
 import { isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
 import { getCollection } from 'astro:content';
-
-const AFF = "a_aid=69cb95abe1763";
-const pbLink = (path: string | null | undefined, extraParams = '') => {
-  if (!path) return '#';
-  if (path.startsWith('http')) return path;
-  const separator = path.includes('?') ? '&' : '?';
-  return `https://www.pluginboutique.com${path}${separator}${AFF}${extraParams ? `&${extraParams}` : ''}`;
-};
 
 interface HistoryEntry {
   date: string;
