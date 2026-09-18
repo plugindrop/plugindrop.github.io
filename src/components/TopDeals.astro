@@ -18,6 +18,7 @@ import {
   pctOff,
   latestCheckedDate,
   formatCheckedDate,
+  isSearchUrl,
 } from '../lib/priceUtils';
 
 const UTM = "utm_source=plugindrop&utm_medium=sidebar&utm_campaign=best-deals&chan=trk";
@@ -47,6 +48,7 @@ function descriptionFor(name: string): string | null {
 
 // Real, live discounts (a genuine scraped observation below regular).
 const liveDeals = Object.entries(allEntries)
+  .filter(([, entry]) => !isSearchUrl(entry.pb_url))
   .map(([name, entry]) => {
     const live = liveDropOf(entry);
     const checked = latestCheckedDate(entry);
@@ -72,6 +74,7 @@ let watchMode = false;
 if (liveDeals.length < 4) {
   watchMode = true;
   deals = Object.entries(allEntries)
+    .filter(([, entry]) => !isSearchUrl(entry.pb_url))
     .map(([name, entry]) => {
       const checked = latestCheckedDate(entry);
       return {

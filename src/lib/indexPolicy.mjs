@@ -27,7 +27,7 @@ export function slugifyTag(tag) {
 }
 
 /**
- * @param {{ history?: Array<{ regular?: unknown, sale?: unknown }> } | null | undefined} entry
+ * @param {{ pb_url?: unknown, history?: Array<{ regular?: unknown, sale?: unknown }> } | null | undefined} entry
  * @returns {{ observations: number, saleObservations: number, priceLevels: number }}
  */
 export function priceSubstance(entry) {
@@ -48,6 +48,7 @@ export function priceSubstance(entry) {
  * @returns {boolean}
  */
 export function isPricePageIndexable(entry) {
+  if (typeof entry?.pb_url === 'string' && entry.pb_url.includes('/search?')) return false;
   const { observations, saleObservations, priceLevels } = priceSubstance(entry);
   return observations >= MIN_PRICE_OBS
     && saleObservations >= MIN_PRICE_SALE_OBS

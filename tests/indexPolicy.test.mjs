@@ -58,6 +58,10 @@ test('isPricePageIndexable applies all gate v2 boundaries', () => {
     { regular: 99 }, { regular: 99, sale: 49 },
   ] }), false);
   assert.equal(isPricePageIndexable({}), false);
+  assert.equal(isPricePageIndexable({
+    pb_url: '/search?q=zombie',
+    history: [{ regular: 99 }, { regular: 99 }, { regular: 99, sale: 49 }],
+  }), false);
 });
 
 test('price page path helpers are complementary across plugins and bundles', () => {

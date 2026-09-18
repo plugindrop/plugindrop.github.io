@@ -28,6 +28,11 @@ export interface PriceEntry {
   history: HistoryEntry[];
 }
 
+/** True when a Plugin Boutique URL points to search results, not a product page. */
+export function isSearchUrl(pb_url: string): boolean {
+  return pb_url.includes('/search?');
+}
+
 // Slug used for per-product pages: /plugin-prices/{slug}/
 // Mirrors the slugify() in plugin-prices.astro / plugin-prices/[slug].astro exactly.
 export function slugify(name: string): string {

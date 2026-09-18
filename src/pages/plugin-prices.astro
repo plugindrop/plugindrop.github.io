@@ -4,7 +4,7 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_TITLE } from '../consts';
 import priceData from '../data/price_history.json';
-import { dealScoreNumeric, sparklinePoints } from '../lib/priceUtils';
+import { dealScoreNumeric, isSearchUrl, sparklinePoints } from '../lib/priceUtils';
 import { isPricePageIndexable, slugifyProduct } from '../lib/indexPolicy.mjs';
 
 function fableVerdictLabel(verdict: 'good' | 'ok' | 'bad' | 'none', onSale: boolean): string {
@@ -218,12 +218,12 @@ function buildRow(name: string, bundle: BundleData, isBundleSection: boolean): R
 }
 
 const pluginRows = Object.entries(plugins)
-  .filter(([, b]) => isPricePageIndexable(b))
+  .filter(([, b]) => !isSearchUrl(b.pb_url) && isPricePageIndexable(b))
   .map(([name, b]) => buildRow(name, b, false))
   .sort((a, b) => b.off - a.off);
 
 const bundleRows = Object.entries(bundles)
-  .filter(([, b]) => isPricePageIndexable(b))
+  .filter(([, b]) => !isSearchUrl(b.pb_url) && isPricePageIndexable(b))
   .map(([name, b]) => buildRow(name, b, true))
   .sort((a, b) => b.off - a.off);
 

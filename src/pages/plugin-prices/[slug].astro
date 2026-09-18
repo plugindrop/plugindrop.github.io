@@ -6,13 +6,17 @@ import { SITE_TITLE } from '../../consts';
 import priceData from '../../data/price_history.json';
 import { pdAttr } from '../../lib/interestTaxonomy.mjs';
 import productVideosRaw from '../../data/product_videos.json';
-import { latestCheckedDate, formatCheckedDate, dealScoreNumeric } from '../../lib/priceUtils';
+import { latestCheckedDate, formatCheckedDate, dealScoreNumeric, isSearchUrl } from '../../lib/priceUtils';
 import { isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
 import { getCollection } from 'astro:content';
 
 const AFF = "a_aid=69cb95abe1763";
-const pbLink = (path: string | null | undefined, extraParams = '') =>
-  !path ? '#' : path.startsWith('http') ? path : `https://www.pluginboutique.com${path}?${AFF}${extraParams ? `&${extraParams}` : ''}`;
+const pbLink = (path: string | null | undefined, extraParams = '') => {
+  if (!path) return '#';
+  if (path.startsWith('http')) return path;
+  const separator = path.includes('?') ? '&' : '?';
+  return `https://www.pluginboutique.com${path}${separator}${AFF}${extraParams ? `&${extraParams}` : ''}`;
+};
 
 interface HistoryEntry {
   date: string;
@@ -407,6 +411,7 @@ function faqLowestAnswer(e: EntryData): string {
 }
 function faqAvailabilityAnswer(e: EntryData): string {
   if (!e.pb_url) return `We don't currently have a Plugin Boutique link for ${name}.`;
+  if (isSearchUrl(e.pb_url)) return `We only have a Plugin Boutique search link for ${name}, not a verified product page.`;
   return `Yes — ${name} is sold through Plugin Boutique, currently listed around ${formatPrice(current)}${onSale ? ' (on sale)' : ''}.`;
 }
 
@@ -455,7 +460,7 @@ const freshObs = (() => {
   const age = Date.now() - new Date(`${obs.date}T00:00:00Z`).getTime();
   return age >= 0 && age <= 7 * 86400000 ? (obs.sale ?? obs.regular) : null;
 })();
-if (freshObs !== null && entry.pb_url) {
+if (freshObs !== null && entry.pb_url && !isSearchUrl(entry.pb_url)) {
   productLD.offers = {
     "@type": "Offer",
     "price": freshObs,
@@ -923,7 +928,7 @@ const faqLD = {
             rel="noopener sponsored"
             data-slug={slug}
           >
-            Check price at Plugin Boutique
+            {isSearchUrl(entry.pb_url) ? 'Search on Plugin Boutique' : 'Check price at Plugin Boutique'}
           </a>
           <div class="watch-alert-wrap" id="watch-alert-wrap">
             <button
