@@ -50,9 +50,14 @@
     try { storage.setItem(key, JSON.stringify(val)); } catch (e) { /* quota/private */ }
   }
 
+  var profile;
+  var session;
+  var pdCats = [];
+
+  function collectSignals() {
   var now = Date.now();
-  var profile = sanitizeProfile(loadJSON(localStorage, LS_KEY), now);
-  var session = loadJSON(sessionStorage, SS_KEY) || {};
+  profile = sanitizeProfile(loadJSON(localStorage, LS_KEY), now);
+  session = loadJSON(sessionStorage, SS_KEY) || {};
 
   // 減衰（経過日数は下限0 — 未来日付でも係数が1を超えない）
   var days = Math.max(0, (now - profile.updated) / 86400000);
@@ -73,7 +78,7 @@
 
   // このページの興味シグナルを加算
   var meta = document.querySelector('meta[name="pd-interests"]');
-  var pdCats = [];
+  pdCats = [];
   if (meta && meta.content) {
     pdCats = meta.content.split(',').map(function (c) { return c.trim(); }).filter(function (c) { return CATS.indexOf(c) !== -1; });
   }
@@ -129,6 +134,7 @@
       } catch (e) { /* noop */ }
     }, 60000);
   }
+  }
 
   // 合成スコア（セッション意図を2倍重み）
   function scores() {
@@ -163,6 +169,10 @@
 
   function itemScore(el, s) {
     var pd = el.getAttribute('data-pd');
+    if (!pd) {
+      var child = el.querySelector('[data-pd]');
+      pd = child ? child.getAttribute('data-pd') : null;
+    }
     if (!pd) return 0;
     var itemCats = pd.split(',');
     var v = 0;
@@ -218,8 +228,8 @@
     var fired = [];
 
     // S1: ホームのdeal-grid / S2: drop-grid / S3: 記事一覧
-    [['.deal-grid', 'a.deal-card', 'home-deals'],
-     ['.drop-grid', 'a.drop-card', 'home-drops'],
+    [['.deal-grid', '.deal-card-wrap', 'home-deals'],
+     ['.more-deals-list', '.more-deal-row', 'home-more-deals'],
      ['.post-list', 'a.post-item', 'posts-list']].forEach(function (def) {
       document.querySelectorAll(def[0]).forEach(function (c) {
         if (reorderGrid(c, def[1], def[2], s)) {
@@ -255,7 +265,7 @@
     // 発動枠内クリック計測
     document.addEventListener('click', function (ev) {
       var a = ev.target && ev.target.closest && ev.target.closest('[data-pd]');
-      if (a && a.closest('.deal-grid,.drop-grid,.post-list,.deals-rail-list')) {
+      if (a && a.closest('.deal-grid,.more-deals-list,.post-list,.deals-rail-list')) {
         track('pd_click', { cat: a.getAttribute('data-pd') });
       }
     }, { capture: true, passive: true });
@@ -270,10 +280,14 @@
     location.reload();
   });
 
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', personalize);
-  } else {
+  function init() {
+    collectSignals();
     personalize();
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
   }
 })();
 </script>

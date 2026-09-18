@@ -1013,7 +1013,7 @@ const featuredDeals = isEvergreen ? allPosts
 								<>
 									<div class="deal-expired-notice">This sale has ended — check current price below</div>
 									{dealSource && <div class="deal-source">Available via {dealSource}</div>}
-									<a href={affiliate} class="deal-cta-btn is-expired" target="_blank" rel="noopener noreferrer nofollow">
+									<a href={affiliate} class="deal-cta-btn is-expired" target="_blank" rel="noopener sponsored">
 										View Current Price →
 									</a>
 								</>
@@ -1046,7 +1046,7 @@ const featuredDeals = isEvergreen ? allPosts
 										</div>
 									)}
 									{dealSource && <div class="deal-source">Available via {dealSource}</div>}
-									<a href={affiliate} class="deal-cta-btn" target="_blank" rel="noopener noreferrer nofollow">
+									<a href={affiliate} class="deal-cta-btn" target="_blank" rel="noopener sponsored" data-slug={currentSlug}>
 										{_isFreePrice ? 'Get It Free \u2192' : 'Get This Deal \u2192'}
 									</a>
 								</>
@@ -1085,14 +1085,14 @@ const featuredDeals = isEvergreen ? allPosts
 							<ul class="pb-deals-list">
 								{featuredDeals.map(deal => (
 									<li class="pb-deal-item">
-										<a href={`${deal.data.affiliate}&utm_source=plugindrop&utm_medium=deals-box`} target="_blank" rel="noopener noreferrer nofollow" class="pb-deal-link">
+										<a href={`${deal.data.affiliate}&utm_source=plugindrop&utm_medium=deals-box`} target="_blank" rel="noopener sponsored" class="pb-deal-link">
 											<span class="pb-deal-title">{deal.data.title}</span>
 											{deal.data.dealPrice && <span class="pb-deal-price">{deal.data.dealPrice}</span>}
 										</a>
 									</li>
 								))}
 							</ul>
-							<a href={`https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=deals-box&utm_campaign=see-all&chan=home&data1=${currentSlug}-deals-box`} class="pb-deals-more" target="_blank" rel="noopener noreferrer nofollow">See all current deals →</a>
+							<a href={`https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=deals-box&utm_campaign=see-all&chan=home&data1=${currentSlug}-deals-box`} class="pb-deals-more" target="_blank" rel="noopener sponsored">See all current deals →</a>
 						</div>
 					)}
 
@@ -1140,7 +1140,7 @@ const featuredDeals = isEvergreen ? allPosts
 		{affiliate ? (
 			<div class="sticky-cta" id="sticky-cta">
 				<span class="sticky-title">{saleExpired ? title : (dealPrice ? `${_isFreePrice ? 'FREE' : dealPrice} — ${title}` : title)}</span>
-				<a href={affiliate} class="deal-cta-btn sticky-cta-link" target="_blank" rel="noopener noreferrer nofollow">
+				<a href={affiliate} class="deal-cta-btn sticky-cta-link" target="_blank" rel="noopener sponsored" data-slug={currentSlug}>
 					{saleExpired ? 'View Price' : (_isFreePrice ? 'Get Free' : 'Get Deal')}
 				</a>
 				<button class="sticky-cta-close" id="sticky-cta-close" aria-label="Dismiss">✕</button>
@@ -1148,7 +1148,7 @@ const featuredDeals = isEvergreen ? allPosts
 		) : (
 			<div class="sticky-cta sticky-cta-guide" id="sticky-cta">
 				<span class="sticky-title">Today's plugin deals — up to 90% off</span>
-				<a href={`https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=sticky&utm_campaign=guide-cta&chan=home&data1=${currentSlug}-sticky-cta`} class="deal-cta-btn sticky-cta-link" target="_blank" rel="noopener noreferrer nofollow">
+				<a href={`https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=sticky&utm_campaign=guide-cta&chan=home&data1=${currentSlug}-sticky-cta`} class="deal-cta-btn sticky-cta-link" target="_blank" rel="noopener sponsored">
 					Browse Deals →
 				</a>
 				<button class="sticky-cta-close" id="sticky-cta-close" aria-label="Dismiss">✕</button>

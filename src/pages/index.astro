@@ -12,7 +12,10 @@ import {
 	type PriceEntry,
 	currentPriceOf,
 	dealScoreNumeric,
+	formatCheckedDate,
 	formatPrice,
+	latestCheckedDate,
+	liveDropOf,
 	pctOff,
 	pbLink,
 	regularPriceOf,
@@ -128,8 +131,72 @@ function isSamplePackDeal(post: any): boolean {
 const heroPosts = allPosts.filter(hasHeroImage);
 const topDeals = heroPosts
 	.filter(p => p.data.affiliate && !isExpired(p) && isRealDeal(p) && !isFreePrice(p.data.dealPrice) && !isSamplePackDeal(p))
-	.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
+	.sort((a, b) => {
+		const scoreDiff = (b.data.score ?? 0) - (a.data.score ?? 0);
+		if (scoreDiff !== 0) return scoreDiff;
+		const aExp = a.data.saleExpiry ? new Date(a.data.saleExpiry).getTime() : Infinity;
+		const bExp = b.data.saleExpiry ? new Date(b.data.saleExpiry).getTime() : Infinity;
+		return aExp - bExp;
+	})
 	.slice(0, 9);
+
+interface FallbackDeal {
+	name: string;
+	entry: PriceEntry;
+	current: number;
+	regular: number;
+	off: number;
+	checkedLabel: string | null;
+	kind: 'live' | 'typical';
+}
+
+const normalizedTopDealNames = new Set(
+	topDeals.flatMap(post => [post.data.title, ...(post.data.priceTrack ?? [])])
+		.map(name => name.trim().toLowerCase()),
+);
+const liveFallbackPool: FallbackDeal[] = Object.entries(trackerEntries)
+	.map(([name, entry]) => {
+		const live = liveDropOf(entry);
+		const checked = latestCheckedDate(entry);
+		return live ? {
+			name,
+			entry,
+			current: live.current,
+			regular: live.regular,
+			off: pctOff(live.current, live.regular),
+			checkedLabel: checked ? formatCheckedDate(checked) : null,
+			kind: 'live' as const,
+		} : null;
+	})
+	.filter((deal): deal is FallbackDeal => deal !== null && deal.off > 0)
+	.filter(deal => !normalizedTopDealNames.has(deal.name.trim().toLowerCase()))
+	.sort((a, b) => b.off - a.off);
+const fallbackLiveDrops = liveFallbackPool.slice(0, Math.max(0, 9 - topDeals.length));
+
+const usedFallbackNames = new Set(fallbackLiveDrops.map(deal => deal.name.trim().toLowerCase()));
+const fallbackWatchDrops: FallbackDeal[] = topDeals.length + fallbackLiveDrops.length < 6
+	? Object.entries(trackerEntries)
+		.map(([name, entry]) => {
+			const current = entry.typical_sale;
+			const regular = entry.typical_regular;
+			const checked = latestCheckedDate(entry);
+			return current !== null && regular !== null && current < regular ? {
+				name,
+				entry,
+				current,
+				regular,
+				off: pctOff(current, regular),
+				checkedLabel: checked ? formatCheckedDate(checked) : null,
+				kind: 'typical' as const,
+			} : null;
+		})
+		.filter((deal): deal is FallbackDeal => deal !== null && deal.off > 0)
+		.filter(deal => !normalizedTopDealNames.has(deal.name.trim().toLowerCase()) && !usedFallbackNames.has(deal.name.trim().toLowerCase()))
+		.sort((a, b) => b.off - a.off)
+		.slice(0, Math.max(0, 9 - topDeals.length - fallbackLiveDrops.length))
+	: [];
+const fallbackDeals = [...fallbackLiveDrops, ...fallbackWatchDrops];
+const displayedTopDealCount = topDeals.length + fallbackDeals.length;
 const topDealIds = new Set(topDeals.map(post => post.id));
 const moreFreshDeals = allPosts
 	.filter(p => !topDealIds.has(p.id) && p.data.affiliate && !isExpired(p) && isRealDeal(p))
@@ -169,7 +236,7 @@ const moreFreshDeals = allPosts
 				<p class="hero-trust">{trackedCount} plugins tracked daily &middot; no fake reviews</p>
 			</section>
 
-			{topDeals.length > 0 && (
+			{displayedTopDealCount > 0 && (
 				<section class="section top-deals">
 					<header class="section-hd">
 						<h2>Today&apos;s top deals</h2>
@@ -182,7 +249,7 @@ const moreFreshDeals = allPosts
 							const score = trackedEntry ? dealScoreNumeric(trackedEntry) : null;
 							const videoMatch = productVideoFor(post.data.title, post.body, trackedName);
 							return (
-								<div class="deal-card-wrap">
+								<div class="deal-card-wrap" data-slug={post.id}>
 									<a
 										href={`/posts/${post.id}/`}
 										class="deal-card"
@@ -230,6 +297,33 @@ const moreFreshDeals = allPosts
 								</div>
 							);
 						})}
+						{fallbackDeals.map(deal => (
+							<div
+								class="deal-card-wrap deal-card-fallback"
+								data-slug={slugify(deal.name)}
+								data-pd={pdAttr({ title: deal.name, extra: deal.entry.category ?? '' })}
+							>
+								<a
+									href={pbLink(deal.entry.pb_url, 'utm_source=plugindrop&utm_medium=homepage&utm_campaign=top-deals-fallback&chan=home')}
+									class="deal-card"
+									target="_blank"
+									rel="noopener sponsored"
+								>
+									<div class="deal-copy">
+										<span class="fallback-label">
+											{deal.kind === 'live' ? 'Tracked price drop' : 'Worth watching — typical sale price'}
+										</span>
+										<h3>{deal.name}</h3>
+										<div class="deal-prices">
+											<strong>{formatPrice(deal.current)}</strong>
+											<s>{formatPrice(deal.regular)}</s>
+											<span class="discount-chip">−{deal.off}%</span>
+										</div>
+										{deal.checkedLabel && <span class="deal-store">checked {deal.checkedLabel}</span>}
+									</div>
+								</a>
+							</div>
+						))}
 					</div>
 					{moreFreshDeals.length > 0 && (
 						<div class="more-deals">
@@ -239,7 +333,12 @@ const moreFreshDeals = allPosts
 							</header>
 							<div class="more-deals-list">
 								{moreFreshDeals.map(post => (
-									<div class="more-deal-row" data-more-deal>
+									<div
+										class="more-deal-row"
+										data-more-deal
+										data-slug={post.id}
+										data-pd={pdAttr({ title: post.data.title, tags: post.data.tags ?? [] })}
+									>
 										<img class="more-deal-thumb" src={post.data.heroImage} alt="" loading="lazy" />
 										<a href={`/posts/${post.id}/`}>{post.data.title}</a>
 										{post.data.dealPrice && <strong>{post.data.dealPrice}</strong>}
@@ -408,6 +507,8 @@ const moreFreshDeals = allPosts
 	.deal-card-wrap { position: relative; display: flex; flex-direction: column; }
 	.deal-card { display: flex; min-width: 0; overflow: hidden; flex: 1; flex-direction: column; color: inherit; background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); text-decoration: none; }
 	.deal-card:hover { border-color: var(--accent-border-hover); background: var(--bg-card-hover); }
+	.deal-card-fallback .deal-card { justify-content: center; min-height: 220px; border-style: dashed; }
+	.fallback-label { color: var(--sale-text); font-family: var(--font-mono); font-size: 0.68rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; }
 	.deal-image { position: relative; aspect-ratio: 16 / 10; overflow: hidden; background: var(--bg-low); }
 	.deal-image img { width: 100%; height: 100%; border-radius: 0; object-fit: cover; }
 	.deal-image .score-badge { position: absolute; top: 0.65rem; right: 0.65rem; }

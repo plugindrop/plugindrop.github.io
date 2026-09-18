@@ -31,6 +31,23 @@ const resolvedImage = new URL(image, Astro.site);
   })();
   gtag('config', 'G-X5T5VNEGW5', _pdInternal ? { traffic_type: 'internal' } : {});
 </script>
+<script is:inline>
+(function () {
+  document.addEventListener('click', function (ev) {
+    try {
+      var a = ev.target && ev.target.closest && ev.target.closest('a[href*="pluginboutique.com"]');
+      if (!a) return;
+      var host = a.closest('[data-slug]');
+      var slug = host ? host.getAttribute('data-slug') : (a.getAttribute('data-slug') || '');
+      var url = new URL(a.href, location.href);
+      var chan = url.searchParams.get('chan') || '';
+      if (typeof gtag === 'function') {
+        gtag('event', 'pb_click', { slug: slug, chan: chan });
+      }
+    } catch (e) { /* noop */ }
+  }, { capture: true, passive: true });
+})();
+</script>
 
 <!-- Google AdSense (site verification / pending review) -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6778334514115669" crossorigin="anonymous"></script>
