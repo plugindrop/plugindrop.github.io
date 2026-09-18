@@ -46,6 +46,7 @@ import HeaderLink from './HeaderLink.astro';
 		gap: 0.5rem;
 		text-decoration: none;
 		color: var(--text-primary);
+		flex-shrink: 0;
 	}
 	.logo-icon {
 		width: 26px;
@@ -71,6 +72,16 @@ import HeaderLink from './HeaderLink.astro';
 		display: flex;
 		align-items: center;
 		gap: 0.15rem;
+		min-width: 0;
+		overflow-x: auto;
+		scrollbar-width: none;
+		-webkit-overflow-scrolling: touch;
+	}
+	.nav-links::-webkit-scrollbar {
+		display: none;
+	}
+	.nav-links a {
+		flex-shrink: 0;
 	}
 	@media (max-width: 640px) {
 		.freshness { display: none; }
