@@ -27,8 +27,35 @@ try {
 } catch (error) {
 	if (error?.code !== 'ENOENT') throw error;
 }
+
+const blogDir = new URL('./src/content/blog/', import.meta.url);
+// スラッグが再利用され記事が書き直されて再公開された場合、薄い記事アーカイブ時に
+// 登録された古い転送ルールがそのまま残っていると新しい記事を永久に隠してしまう
+// (2026-09-18: bx-console-amek-9099-3e0469 で実際に発生・発覚)。ビルド時に、
+// 対応するslugの記事がdraft:falseで現存する場合はその転送を無効化する。
+function isSlugLiveNonDraft(slug) {
+	for (const ext of ['md', 'mdx']) {
+		const filePath = new URL(`${slug}.${ext}`, blogDir);
+		if (!fs.existsSync(filePath)) continue;
+		const text = fs.readFileSync(filePath, 'utf8');
+		const frontmatter = text.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+		if (!frontmatter) return false;
+		return !/^draft:\s*true\s*$/m.test(frontmatter[1]);
+	}
+	return false;
+}
+const staleRedirectSlugs = Object.keys(expiredRedirects).filter(isSlugLiveNonDraft);
+if (staleRedirectSlugs.length > 0) {
+	console.warn(
+		`[astro.config] expired_redirects.json shadows ${staleRedirectSlugs.length} live article(s), skipping redirect for: ${staleRedirectSlugs.join(', ')}`,
+	);
+}
+const activeExpiredRedirects = Object.fromEntries(
+	Object.entries(expiredRedirects).filter(([slug]) => !staleRedirectSlugs.includes(slug)),
+);
+
 const redirectUrls = new Set([
-	...Object.keys(expiredRedirects).map((slug) => new URL(`/posts/${slug}/`, siteUrl).href),
+	...Object.keys(activeExpiredRedirects).map((slug) => new URL(`/posts/${slug}/`, siteUrl).href),
 	...Object.keys(staticRedirects).map((path) => new URL(path, siteUrl).href),
 ]);
 
