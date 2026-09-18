@@ -14,6 +14,7 @@ import {
 	dealScoreNumeric,
 	formatCheckedDate,
 	formatPrice,
+	isSearchUrl,
 	latestCheckedDate,
 	liveDropOf,
 	pctOff,
@@ -57,6 +58,7 @@ function productVideoFor(title: string, body: unknown, trackedName?: string): [s
 }
 
 const trackerRows = Object.entries(trackerEntries)
+	.filter(([, entry]) => !isSearchUrl(entry.pb_url))
 	.map(([name, entry]) => {
 		const current = currentPriceOf(entry);
 		const regular = regularPriceOf(entry);
@@ -155,6 +157,7 @@ const normalizedTopDealNames = new Set(
 		.map(name => name.trim().toLowerCase()),
 );
 const liveFallbackPool: FallbackDeal[] = Object.entries(trackerEntries)
+	.filter(([, entry]) => !isSearchUrl(entry.pb_url))
 	.map(([name, entry]) => {
 		const live = liveDropOf(entry);
 		const checked = latestCheckedDate(entry);
@@ -176,6 +179,7 @@ const fallbackLiveDrops = liveFallbackPool.slice(0, Math.max(0, 9 - topDeals.len
 const usedFallbackNames = new Set(fallbackLiveDrops.map(deal => deal.name.trim().toLowerCase()));
 const fallbackWatchDrops: FallbackDeal[] = topDeals.length + fallbackLiveDrops.length < 6
 	? Object.entries(trackerEntries)
+		.filter(([, entry]) => !isSearchUrl(entry.pb_url))
 		.map(([name, entry]) => {
 			const current = entry.typical_sale;
 			const regular = entry.typical_regular;

@@ -7,7 +7,7 @@ import statsData from '../../data/monthly_sale_stats.json';
 import priceData from '../../data/price_history.json';
 import { staticRedirects } from '../../data/plugin_price_redirects.mjs';
 import { indexablePricePagePaths } from '../../lib/indexPolicy.mjs';
-import { pbLink, formatPrice } from '../../lib/priceUtils';
+import { pbLink, formatPrice, isSearchUrl } from '../../lib/priceUtils';
 
 interface DeepDiscount {
   name: string; slug: string; category: string;
@@ -57,6 +57,7 @@ export function getStaticPaths() {
 }
 
 const month = Astro.props.month as MonthBlock;
+const deepestDiscounts = month.deepest_discounts.filter((d) => !isSearchUrl(d.pb_url));
 const idx = months.findIndex((m) => m.month === month.month);
 // months は新しい順。prev = 1つ古い月（idx+1）、next = 1つ新しい月（idx-1）。
 const prevMonth = idx >= 0 && idx + 1 < months.length ? months[idx + 1] : null;
@@ -252,7 +253,7 @@ const datasetLD = {
 
       <section class="page-section">
         <h2 class="section-title">Deepest Discounts This Month</h2>
-        {month.deepest_discounts.length > 0 ? (
+        {deepestDiscounts.length > 0 ? (
           <div class="data-table-wrap">
             <table class="data-table">
               <thead>
@@ -261,7 +262,7 @@ const datasetLD = {
                 </tr>
               </thead>
               <tbody>
-                {month.deepest_discounts.map((d) => (
+                {deepestDiscounts.map((d) => (
                   <tr>
                     <td>{isResolvedProductIndexable(d.slug)
                       ? <a href={`/plugin-prices/${resolveProductSlug(d.slug)}/`} class="prod-link">{d.name}</a>

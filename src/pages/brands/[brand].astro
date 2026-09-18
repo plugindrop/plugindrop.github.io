@@ -5,6 +5,7 @@ import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import priceData from '../../data/price_history.json';
 import { isBrandPageIndexable, isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
+import { isSearchUrl } from '../../lib/priceUtils';
 
 // --- Shared types ------------------------------------------------------------
 interface HistoryEntry {
@@ -304,6 +305,7 @@ interface Row {
 }
 
 const rows: Row[] = products
+  .filter((p) => !isSearchUrl(p.entry.pb_url))
   .map((p): Row => {
     const category = p.entry.category ?? (p.kind === 'bundle' ? 'Plugin Bundle' : 'Plugin');
     const current = currentPrice(p.entry);

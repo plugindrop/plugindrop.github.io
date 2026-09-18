@@ -16,6 +16,7 @@ import {
   sparklinePoints,
   dealScore,
   dealScoreNumeric,
+  isSearchUrl,
 } from '../lib/priceUtils';
 
 interface Props {
@@ -40,6 +41,7 @@ const allPlugins: Record<string, PriceEntry> = {
 const tracked = pluginNames
   .map(name => ({ name, data: allPlugins[name] }))
   .filter((x): x is { name: string; data: PriceEntry } => !!x.data)
+  .filter(({ data }) => !isSearchUrl(data.pb_url))
   .map(({ name, data }) => ({
     name,
     data,
