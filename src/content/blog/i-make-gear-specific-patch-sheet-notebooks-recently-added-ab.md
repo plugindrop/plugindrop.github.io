@@ -7,7 +7,7 @@ affiliate: "https://www.davidsparks.me/blank-patch-sheets"
 heroImage: "/images/i-make-gear-specific-patch-sheet-notebooks-recently-added-ab.jpg"
 score: 4.61
 xText: "30 new synths just got patch sheet notebooks made for them + covers got a full redesign. if you're documenting patches instead of flying blind, you probably already want this"
-draft: false
+draft: true
 ---
 
 ## Gear-Specific Patch Sheet Notebooks: New Synths, Redesigned Covers & Accessories Just Dropped
