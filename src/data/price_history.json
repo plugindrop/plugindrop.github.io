@@ -132,7 +132,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Bundle"
+      "category": "Bundle",
+      "image": "/images/plugin-prices/fabfilter-total-bundle.jpg"
     },
     "FabFilter Creative Bundle": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/8394-FabFilter-Creative-Bundle",
@@ -283,7 +284,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Bundle"
+      "category": "Bundle",
+      "image": "/images/plugin-prices/fabfilter-creative-bundle.jpg"
     },
     "Soundtoys 5.5": {
       "pb_url": "/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5",
@@ -440,7 +442,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Bundle"
+      "category": "Bundle",
+      "image": "/images/plugin-prices/soundtoys-5-5.jpg"
     },
     "iZotope Music Production Suite": {
       "pb_url": "/meta_product/81-Bundles/39-Effects-Bundles/13854-iZotope-Music-Production-Suite",
@@ -627,7 +630,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Bundle"
+      "category": "Bundle",
+      "image": "/images/plugin-prices/waves-gold-bundle.jpg"
     },
     "Waves Platinum Bundle": {
       "pb_url": "/product/81-Bundles/84-Mix-Master/12542-Platinum-Bundle",
@@ -742,7 +746,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Bundle"
+      "category": "Bundle",
+      "image": "/images/plugin-prices/waves-platinum-bundle.jpg"
     },
     "Baby Audio Complete Bundle": {
       "pb_url": "/product/1-Instruments/88-Bundle/8901-Baby-Audio-Complete-Bundle",
@@ -758,7 +763,8 @@
           "source": "research"
         }
       ],
-      "category": "Bundle"
+      "category": "Bundle",
+      "image": "/images/plugin-prices/baby-audio-complete-bundle.jpg"
     },
     "EastWest Composer Cloud+": {
       "pb_url": "https://www.soundsonline.com/composercloud",
@@ -774,7 +780,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eastwest-composer-cloud.jpg"
     },
     "Output One (Arcade)": {
       "pb_url": "https://output.com/products/output-one",
@@ -790,7 +797,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/output-one-arcade.jpg"
     },
     "Waves Mercury Bundle": {
       "pb_url": "https://www.waves.com/bundles/mercury",
@@ -822,7 +830,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/plugin-alliance-core-subscription.jpg"
     },
     "Slate Digital Complete Access": {
       "pb_url": "https://www.slatedigital.com/complete-access",
@@ -854,7 +863,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-spark.jpg"
     },
     "Cableguys ShaperBox 3": {
       "pb_url": "https://www.pluginboutique.com/search?q=Cableguys%20ShaperBox%203",
@@ -997,7 +1007,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Bundle"
+      "category": "Bundle",
+      "image": "/images/plugin-prices/arturia-v-collection-11-pro.jpg"
     },
     "Arturia FX Collection 6 Pro": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/16835-FX-Collection-6-PRO",
@@ -1112,7 +1123,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Bundle"
+      "category": "Bundle",
+      "image": "/images/plugin-prices/arturia-fx-collection-6-pro.jpg"
     }
   },
   "plugins": {
@@ -1352,7 +1364,8 @@
           "cur": "USD"
         }
       ],
-      "category": "EQ"
+      "category": "EQ",
+      "image": "/images/plugin-prices/fabfilter-pro-q-4.jpg"
     },
     "FabFilter Pro-C 2": {
       "pb_url": "/search?q=FabFilter%20Pro-C%202",
@@ -1624,7 +1637,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Limiter"
+      "category": "Limiter",
+      "image": "/images/plugin-prices/fabfilter-pro-l-2.jpg"
     },
     "Kilohearts Phase Plant": {
       "pb_url": "/product/1-Instruments/4-Synth/5391-Phase-Plant",
@@ -1880,7 +1894,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Synth"
+      "category": "Synth",
+      "image": "/images/plugin-prices/kilohearts-phase-plant.jpg"
     },
     "Serum 2": {
       "pb_url": "/search?q=Serum%202",
@@ -2174,7 +2189,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Synth"
+      "category": "Synth",
+      "image": "/images/plugin-prices/native-instruments-massive-x.jpg"
     },
     "u-he Diva": {
       "pb_url": "/product/1-Instruments/4-Synth/1396-Diva",
@@ -2496,7 +2512,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Synth"
+      "category": "Synth",
+      "image": "/images/plugin-prices/u-he-diva.jpg"
     },
     "u-he Repro": {
       "pb_url": "/product/1-Instruments/4-Synth/3027-Repro",
@@ -2818,7 +2835,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Synth"
+      "category": "Synth",
+      "image": "/images/plugin-prices/u-he-repro.jpg"
     },
     "Arturia Pigments": {
       "pb_url": "/product/1-Instruments/4-Synth/11867-Pigments-7",
@@ -2981,7 +2999,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Synth"
+      "category": "Synth",
+      "image": "/images/plugin-prices/arturia-pigments.jpg"
     },
     "Spectrasonics Omnisphere": {
       "pb_url": "/search?q=Spectrasonics%20Omnisphere",
@@ -3180,7 +3199,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Mastering"
+      "category": "Mastering",
+      "image": "/images/plugin-prices/izotope-ozone-12-advanced.jpg"
     },
     "iZotope Neutron 5": {
       "pb_url": "/product/2-Effects/21-Channel-Strip/13502-Neutron-5",
@@ -3343,7 +3363,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Utility"
+      "category": "Utility",
+      "image": "/images/plugin-prices/izotope-neutron-5.jpg"
     },
     "FabFilter Pro-R 2": {
       "pb_url": "/product/2-Effects/17-Reverb/11576-FabFilter-Pro-R-2",
@@ -3542,7 +3563,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Reverb"
+      "category": "Reverb",
+      "image": "/images/plugin-prices/fabfilter-pro-r-2.jpg"
     },
     "oeksound Soothe2": {
       "pb_url": "/search?q=oeksound%20Soothe2",
@@ -3872,7 +3894,8 @@
           "cur": "USD"
         }
       ],
-      "category": "EQ"
+      "category": "EQ",
+      "image": "/images/plugin-prices/sonible-smart-eq-4.jpg"
     },
     "XLN Audio RC-20 Retro Color": {
       "pb_url": "/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color",
@@ -4242,7 +4265,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Effects"
+      "category": "Effects",
+      "image": "/images/plugin-prices/xln-audio-rc-20-retro-color.jpg"
     },
     "Baby Audio Crystalline": {
       "pb_url": "/product/2-Effects/17-Reverb/8900-Crystalline",
@@ -4456,7 +4480,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Reverb"
+      "category": "Reverb",
+      "image": "/images/plugin-prices/baby-audio-crystalline.jpg"
     },
     "Output Portal": {
       "pb_url": "/product/2-Effects/45-Granular-FX/5458-Portal",
@@ -4778,7 +4803,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Effects"
+      "category": "Effects",
+      "image": "/images/plugin-prices/output-portal.jpg"
     },
     "Native Instruments Kontakt 8": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/13195-Kontakt-8",
@@ -4932,7 +4958,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Instrument"
+      "category": "Instrument",
+      "image": "/images/plugin-prices/native-instruments-kontakt-8.jpg"
     },
     "Vital": {
       "pb_url": "/search?q=Vital",
@@ -5276,7 +5303,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/u-he-hive-2.jpg"
     },
     "u-he Bazille": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/1399-Bazille",
@@ -5484,7 +5512,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/u-he-bazille.jpg"
     },
     "Synapse Audio Dune 3": {
       "pb_url": "https://www.synapse-audio.com/dune3.html",
@@ -5648,7 +5677,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/vengeance-sound-avenger-2.jpg"
     },
     "KV331 Audio SynthMaster 3": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/12813-SynthMaster-3",
@@ -5802,7 +5832,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/kv331-audio-synthmaster-3.jpg"
     },
     "Reveal Sound Spire": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/3187-Spire",
@@ -6124,7 +6155,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/reveal-sound-spire.jpg"
     },
     "Native Instruments Massive": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7998-MASSIVE",
@@ -6428,7 +6460,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-massive.jpg"
     },
     "GForce OB-E": {
       "pb_url": "https://www.gforcesoftware.com/product/ob-e/",
@@ -6444,7 +6477,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/gforce-ob-e.jpg"
     },
     "Cherry Audio GX-80": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10001-GX-80-Synthesizer",
@@ -6598,7 +6632,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-gx-80.jpg"
     },
     "Tokyo Dawn Labs TDR Nova GE": {
       "pb_url": "https://www.pluginboutique.com/search?q=TDR%20Nova%20GE",
@@ -6630,7 +6665,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/dmg-audio-equilibrium.jpg"
     },
     "Waves SSL E-Channel": {
       "pb_url": "https://www.waves.com/plugins/ssl-e-channel",
@@ -6764,7 +6800,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/sonnox-oxford-eq.jpg"
     },
     "Klanghelm MJUC": {
       "pb_url": "https://klanghelm.com/contents/products/MJUC.html",
@@ -6780,7 +6817,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/klanghelm-mjuc.jpg"
     },
     "Klanghelm DC8C mkII": {
       "pb_url": "https://klanghelm.com/contents/products/DC8C",
@@ -6796,7 +6834,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/klanghelm-dc8c-mkii.jpg"
     },
     "Wavesfactory Trackspacer": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/3259-Trackspacer",
@@ -7040,7 +7079,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/wavesfactory-trackspacer.jpg"
     },
     "Waves CLA-2A": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13687-CLA-2A-Compressor-Limiter",
@@ -7128,7 +7168,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/waves-cla-2a.jpg"
     },
     "Waves CLA-76": {
       "pb_url": "https://www.pluginboutique.com/search?q=Waves%20CLA-76",
@@ -7226,7 +7267,8 @@
           "sale": null,
           "source": "auto_check"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-1176-classic-limiter-collection.jpg"
     },
     "LiquidSonics Cinematic Rooms MKII": {
       "pb_url": "https://www.liquidsonics.com/software/cinematic-rooms/",
@@ -7242,7 +7284,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/liquidsonics-cinematic-rooms-mkii.jpg"
     },
     "Eventide Blackhole": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/2855-Blackhole",
@@ -7534,7 +7577,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-blackhole.jpg"
     },
     "Relab Development LX480 Complete": {
       "pb_url": "https://www.pluginboutique.com/search?q=LX480%20Dual-Engine%20Reverb",
@@ -7704,7 +7748,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/softube-tape.jpg"
     },
     "Wavesfactory Cassette": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/5905-Cassette",
@@ -7900,7 +7945,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/wavesfactory-cassette.jpg"
     },
     "u-he Satin": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/1400-Satin",
@@ -8132,7 +8178,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/u-he-satin.jpg"
     },
     "Baby Audio TAIP": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/8102-TAIP",
@@ -8262,7 +8309,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/baby-audio-taip.jpg"
     },
     "iZotope Ozone Elements": {
       "pb_url": "https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Elements",
@@ -8445,7 +8493,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/dmg-audio-limitless.jpg"
     },
     "Newfangled Audio Elevate": {
       "pb_url": "https://www.newfangledaudio.com/elevatemasteringbundle",
@@ -8461,7 +8510,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/newfangled-audio-elevate.jpg"
     },
     "Spitfire Audio BBC Symphony Orchestra Professional": {
       "pb_url": "https://www.spitfireaudio.com/products/bbc-symphony-orchestra-professional",
@@ -8549,7 +8599,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/spitfire-audio-bbc-symphony-orchestra-professional.jpg"
     },
     "Spectrasonics Keyscape": {
       "pb_url": "https://www.spectrasonics.net/products/keyscape/buykeyscape.php",
@@ -8565,7 +8616,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/spectrasonics-keyscape.jpg"
     },
     "UVI Falcon 3": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14777-Falcon-2026",
@@ -8719,7 +8771,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uvi-falcon-3.jpg"
     },
     "XLN Audio Addictive Keys": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/1191-Addictive-Keys-Studio-Grand",
@@ -8873,7 +8926,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/xln-audio-addictive-keys.jpg"
     },
     "Toontrack EZdrummer 3": {
       "pb_url": "https://www.toontrack.com/product/ezdrummer-3/",
@@ -8895,7 +8949,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/toontrack-ezdrummer-3.jpg"
     },
     "Toontrack Superior Drummer 3": {
       "pb_url": "https://www.toontrack.com/product/superior-drummer-3/",
@@ -8911,7 +8966,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/toontrack-superior-drummer-3.jpg"
     },
     "GetGood Drums Modern & Massive 2": {
       "pb_url": "https://ggd.co/",
@@ -8927,7 +8983,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/getgood-drums-modern-massive-2.jpg"
     },
     "Antares Auto-Tune Pro": {
       "pb_url": "https://www.pluginboutique.com/search?q=Antares%20Auto-Tune%20Pro",
@@ -9007,7 +9064,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/baby-audio-spaced-out.jpg"
     },
     "FabFilter Pro-DS": {
       "pb_url": "/product/2-Effects/59-De-Esser/923-FabFilter-Pro-DS",
@@ -9239,7 +9297,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/fabfilter-pro-ds.jpg"
     },
     "FabFilter Pro-MB": {
       "pb_url": "/product/2-Effects/8-Compressor/919-FabFilter-Pro-MB",
@@ -9465,7 +9524,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/fabfilter-pro-mb.jpg"
     },
     "FabFilter Pro-G": {
       "pb_url": "/product/2-Effects/20-Gate/924-FabFilter-Pro-G",
@@ -9649,7 +9709,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/fabfilter-pro-g.jpg"
     },
     "FabFilter Saturn 2": {
       "pb_url": "/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2",
@@ -9887,7 +9948,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/fabfilter-saturn-2.jpg"
     },
     "FabFilter Volcano 3": {
       "pb_url": "/product/2-Effects/19-Filter/8389-FabFilter-Volcano-3",
@@ -10053,7 +10115,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/fabfilter-volcano-3.jpg"
     },
     "FabFilter Timeless 3": {
       "pb_url": "/product/2-Effects/10-Delay/7604-FabFilter-Timeless-3",
@@ -10273,7 +10336,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/fabfilter-timeless-3.jpg"
     },
     "FabFilter Twin 3": {
       "pb_url": "/product/1-Instruments/4-Synth/10192-Twin-3",
@@ -10469,7 +10533,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/fabfilter-twin-3.jpg"
     },
     "u-he Zebra 3": {
       "pb_url": "/product/1-Instruments/4-Synth/17180-Zebra-3",
@@ -10623,7 +10688,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/u-he-zebra-3.jpg"
     },
     "u-he Zebra Legacy": {
       "pb_url": "https://u-he.com/products/zebra2/",
@@ -10673,7 +10739,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/u-he-ace.jpg"
     },
     "u-he Presswerk": {
       "pb_url": "https://u-he.com/products/presswerk/",
@@ -10746,7 +10813,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/u-he-presswerk.jpg"
     },
     "u-he Colour Copy": {
       "pb_url": "https://u-he.com/products/colour-copy/",
@@ -10774,7 +10842,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/u-he-colour-copy.jpg"
     },
     "Native Instruments FM8": {
       "pb_url": "https://www.pluginboutique.com/search?q=Native%20Instruments%20FM8",
@@ -11277,7 +11346,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-reaktor-6.jpg"
     },
     "Native Instruments Battery 4": {
       "pb_url": "/product/1-Instruments/7-Drum-Machine/10990-Battery-4",
@@ -11425,7 +11495,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-battery-4.jpg"
     },
     "Native Instruments Guitar Rig 7 Pro": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/11108-Guitar-Rig-7-Pro",
@@ -11597,7 +11668,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-guitar-rig-7-pro.jpg"
     },
     "Native Instruments Replika XT": {
       "pb_url": "/product/2-Effects/10-Delay/10999-Replika-XT",
@@ -11769,7 +11841,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-replika-xt.jpg"
     },
     "Native Instruments Raum": {
       "pb_url": "https://www.pluginboutique.com/search?q=Native%20Instruments%20Raum",
@@ -11945,7 +12018,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-supercharger-gt.jpg"
     },
     "Native Instruments Action Strings": {
       "pb_url": "https://www.pluginboutique.com/search?q=Native%20Instruments%20Action%20Strings",
@@ -12193,7 +12267,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/arturia-mini-v.jpg"
     },
     "Arturia Jup-8 V": {
       "pb_url": "/product/1-Instruments/4-Synth/7147-Jup-8-V",
@@ -12395,7 +12470,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/arturia-jup-8-v.jpg"
     },
     "Arturia CS-80 V": {
       "pb_url": "https://www.pluginboutique.com/search?q=Arturia%20CS-80%20V",
@@ -12621,7 +12697,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/arturia-augmented-strings.jpg"
     },
     "iZotope VocalSynth 2": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/4413-VocalSynth-2",
@@ -12793,7 +12870,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/izotope-vocalsynth-2.jpg"
     },
     "iZotope Trash 2": {
       "pb_url": "https://www.pluginboutique.com/search?q=iZotope%20Trash%202",
@@ -13003,7 +13081,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/izotope-insight-2.jpg"
     },
     "iZotope Tonal Balance Control 2": {
       "pb_url": "https://www.pluginboutique.com/search?q=iZotope%20Tonal%20Balance%20Control%202",
@@ -13223,7 +13302,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/waves-renaissance-reverb.jpg"
     },
     "Waves L1 Ultramaximizer": {
       "pb_url": "/product/2-Effects/9-Limiter/13606-L1-Ultramaximizer",
@@ -13311,7 +13391,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/waves-l1-ultramaximizer.jpg"
     },
     "Waves Vocal Rider": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/13721-Vocal-Rider",
@@ -13333,7 +13414,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/waves-vocal-rider.jpg"
     },
     "Waves API 2500": {
       "pb_url": "/product/2-Effects/8-Compressor/13695-API-2500",
@@ -13415,7 +13497,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/waves-api-2500.jpg"
     },
     "Waves PuigTec EQP-1A": {
       "pb_url": "https://www.pluginboutique.com/search?q=Waves%20PuigTec%20EQP-1A",
@@ -13510,7 +13593,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/waves-abbey-road-reverb-plates.jpg"
     },
     "Waves Renaissance Vox": {
       "pb_url": "/product/2-Effects/8-Compressor/13665-Renaissance-Vox",
@@ -13649,7 +13733,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/waves-renaissance-vox.jpg"
     },
     "Waves Kramer Master Tape": {
       "pb_url": "/product/2-Effects/96-Tape-Emulation/13679-Kramer-Master-Tape",
@@ -13692,7 +13777,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/waves-kramer-master-tape.jpg"
     },
     "Soundtoys Decapitator": {
       "pb_url": "/product/2-Effects/44-Saturation/1801-Decapitator",
@@ -14008,7 +14094,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/soundtoys-decapitator.jpg"
     },
     "Soundtoys EchoBoy": {
       "pb_url": "/product/2-Effects/49-Echo/1798-EchoBoy",
@@ -14171,7 +14258,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/soundtoys-echoboy.jpg"
     },
     "Soundtoys Little AlterBoy": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy",
@@ -14553,7 +14641,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/soundtoys-little-alterboy.jpg"
     },
     "Soundtoys Devil-Loc Deluxe": {
       "pb_url": "/product/2-Effects/9-Limiter/1803-Devil-Loc-Deluxe",
@@ -14698,7 +14787,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/soundtoys-devil-loc-deluxe.jpg"
     },
     "Soundtoys FilterFreak": {
       "pb_url": "/product/2-Effects/19-Filter/1800-FilterFreak",
@@ -14861,7 +14951,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/soundtoys-filterfreak.jpg"
     },
     "Soundtoys Crystallizer": {
       "pb_url": "/product/2-Effects/49-Echo/1799-Crystallizer",
@@ -15081,7 +15172,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/soundtoys-crystallizer.jpg"
     },
     "Soundtoys PanMan": {
       "pb_url": "/product/2-Effects/27-Stereo-Width/1806-PanMan",
@@ -15220,7 +15312,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/soundtoys-panman.jpg"
     },
     "Soundtoys Tremolator": {
       "pb_url": "/product/2-Effects/40-Tremolo/1810-Tremolator",
@@ -15392,7 +15485,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/soundtoys-tremolator.jpg"
     },
     "Soundtoys MicroShift": {
       "pb_url": "/product/2-Effects/27-Stereo-Width/1809-MicroShift",
@@ -15552,7 +15646,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/soundtoys-microshift.jpg"
     },
     "Softube Summit Audio TLA-100A": {
       "pb_url": "https://www.pluginboutique.com/search?q=Softube%20Summit%20Audio%20TLA-100A",
@@ -15606,7 +15701,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/softube-trident-a-range.jpg"
     },
     "Softube Model 72": {
       "pb_url": "https://www.pluginboutique.com/search?q=Softube%20Model%2072",
@@ -15816,7 +15912,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/softube-weiss-ds1-mk3.jpg"
     },
     "Plugin Alliance bx_console SSL 4000E": {
       "pb_url": "https://www.pluginboutique.com/search?q=bx_console%20SSL%204000E",
@@ -15987,7 +16084,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/plugin-alliance-shadow-hills-mastering-compressor.jpg"
     },
     "Plugin Alliance Elysia niveau filter": {
       "pb_url": "https://www.pluginboutique.com/search?q=elysia%20niveau%20filter",
@@ -16159,7 +16257,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-pultec-passive-eq-collection.jpg"
     },
     "UAD Studer A800": {
       "pb_url": "https://www.pluginboutique.com/search?q=UAD%20Studer%20A800",
@@ -16227,7 +16326,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-oxide-tape-recorder.jpg"
     },
     "UAD API Vision Channel Strip": {
       "pb_url": "/product/2-Effects/21-Channel-Strip/10158-API-Vision-Channel-Strip",
@@ -16333,7 +16433,8 @@
           "sale": 149.0,
           "source": "auto_check"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-api-vision-channel-strip.jpg"
     },
     "Spitfire Symphony Orchestra": {
       "pb_url": "https://www.spitfireaudio.com/spitfire-symphony-orchestra",
@@ -16421,7 +16522,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/spitfire-symphony-orchestra.jpg"
     },
     "Spitfire Albion ONE": {
       "pb_url": "https://www.spitfireaudio.com/albion-one",
@@ -16509,7 +16611,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/spitfire-albion-one.jpg"
     },
     "Spitfire Albion Colossus": {
       "pb_url": "https://www.spitfireaudio.com/albion-colossus",
@@ -16597,7 +16700,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/spitfire-albion-colossus.jpg"
     },
     "Spitfire Studio Orchestra": {
       "pb_url": "https://www.pluginboutique.com/search?q=Spitfire%20Audio%20Studio%20Orchestra",
@@ -16717,7 +16821,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/spitfire-eric-whitacre-choir.jpg"
     },
     "Spitfire Cinematic Soft Piano": {
       "pb_url": "https://www.spitfireaudio.com/cinematic-soft-piano",
@@ -16881,7 +16986,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/output-substance.jpg"
     },
     "Output Analog Strings": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/3239-ANALOG-STRINGS",
@@ -17071,7 +17177,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/output-analog-strings.jpg"
     },
     "Output Analog Brass and Winds": {
       "pb_url": "https://www.pluginboutique.com/search?q=Output%20Analog%20Brass%20and%20Winds",
@@ -17277,7 +17384,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/output-signal.jpg"
     },
     "Output EXHALE": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/1895-EXHALE",
@@ -17479,7 +17587,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/output-exhale.jpg"
     },
     "Output Movement": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/2352-Movement",
@@ -17651,7 +17760,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/output-movement.jpg"
     },
     "Output Thermal": {
       "pb_url": "/product/2-Effects/30-Distortion/6525-Thermal",
@@ -17829,7 +17939,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/output-thermal.jpg"
     },
     "Baby Audio Super VHS": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/5900-Super-VHS",
@@ -18151,7 +18262,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/baby-audio-super-vhs.jpg"
     },
     "Baby Audio Comeback Kid": {
       "pb_url": "/product/2-Effects/10-Delay/6204-Comeback-Kid",
@@ -18311,7 +18423,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/baby-audio-comeback-kid.jpg"
     },
     "Baby Audio Parallel Aggressor": {
       "pb_url": "/product/2-Effects/8-Compressor/6639-Parallel-Aggressor",
@@ -18480,7 +18593,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/baby-audio-parallel-aggressor.jpg"
     },
     "Baby Audio I Heart NY": {
       "pb_url": "/product/2-Effects/8-Compressor/5898-I-Heart-NY",
@@ -18595,7 +18709,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/baby-audio-i-heart-ny.jpg"
     },
     "Baby Audio IHNY-2": {
       "pb_url": "/product/2-Effects/8-Compressor/9542-IHNY-2",
@@ -18710,7 +18825,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/baby-audio-ihny-2.jpg"
     },
     "Baby Audio Transit 2": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/13431-Transit-2",
@@ -18930,7 +19046,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/baby-audio-transit-2.jpg"
     },
     "Cherry Audio DCO-106": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/6935-DCO-106",
@@ -19063,7 +19180,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-dco-106.jpg"
     },
     "Cherry Audio Mercury-4": {
       "pb_url": "/product/1-Instruments/4-Synth/8062-Mercury-4",
@@ -19232,7 +19350,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-mercury-4.jpg"
     },
     "Cherry Audio Voltage Modular Core + Electro Drums": {
       "pb_url": "/product/1-Instruments/4-Synth/5033-Voltage-Modular-Core-Electro-Drums",
@@ -19413,7 +19532,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-voltage-modular-core-electro-drums.jpg"
     },
     "Cherry Audio PS-20": {
       "pb_url": "/product/1-Instruments/4-Synth/7618-PS-20",
@@ -19588,7 +19708,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-ps-20.jpg"
     },
     "Kilohearts Carve EQ": {
       "pb_url": "/product/2-Effects/16-EQ/3914-Carve-EQ",
@@ -19757,7 +19878,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/kilohearts-carve-eq.jpg"
     },
     "Kilohearts Slice EQ": {
       "pb_url": "/product/2-Effects/16-EQ/3992-Slice-EQ",
@@ -19914,7 +20036,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/kilohearts-slice-eq.jpg"
     },
     "Kilohearts Multipass": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/2313-Multipass",
@@ -20089,7 +20212,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/kilohearts-multipass.jpg"
     },
     "Xfer Nerve": {
       "pb_url": "https://www.pluginboutique.com/search?q=Xfer%20Nerve",
@@ -20153,7 +20277,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/spectrasonics-trilian.jpg"
     },
     "UVI World Suite": {
       "pb_url": "https://www.pluginboutique.com/search?q=UVI%20World%20Suite",
@@ -20695,7 +20820,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-sp2016-reverb.jpg"
     },
     "Eventide UltraChannel": {
       "pb_url": "/product/2-Effects/21-Channel-Strip/3064-UltraChannel",
@@ -20858,7 +20984,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-ultrachannel.jpg"
     },
     "Eventide Tverb": {
       "pb_url": "/product/2-Effects/17-Reverb/2916-Tverb",
@@ -21033,7 +21160,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-tverb.jpg"
     },
     "Sonnox Oxford Dynamics": {
       "pb_url": "https://sonnox.com/products/oxford-dynamics",
@@ -21414,7 +21542,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/sonnox-oxford-supresser.jpg"
     },
     "Cableguys Kickstart 2": {
       "pb_url": "https://www.pluginboutique.com/search?q=Cableguys%20Kickstart%202",
@@ -21462,7 +21591,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/newfangled-audio-equivocate.jpg"
     },
     "Newfangled Audio Saturate": {
       "pb_url": "https://www.newfangledaudio.com/saturate",
@@ -21478,7 +21608,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/newfangled-audio-saturate.jpg"
     },
     "Newfangled Audio Punctuate": {
       "pb_url": "https://www.newfangledaudio.com/punctuate",
@@ -21494,7 +21625,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/newfangled-audio-punctuate.jpg"
     },
     "Newfangled Audio Generate": {
       "pb_url": "https://www.newfangledaudio.com/generate",
@@ -21510,7 +21642,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/newfangled-audio-generate.jpg"
     },
     "GForce impOSCar 2": {
       "pb_url": "https://www.pluginboutique.com/search?q=GForce%20impOSCar%202",
@@ -21691,7 +21824,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/sonible-smart-comp-3.jpg"
     },
     "Sonible smart:limit": {
       "pb_url": "/product/2-Effects/9-Limiter/8476-smart-limit",
@@ -21896,7 +22030,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/sonible-smart-limit.jpg"
     },
     "Sonible smart:reverb 2": {
       "pb_url": "/product/2-Effects/17-Reverb/15044-smart-reverb-2",
@@ -22041,7 +22176,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/sonible-smart-reverb-2.jpg"
     },
     "Sonible proximity:EQ": {
       "pb_url": "/product/2-Effects/16-EQ/3116-proximity-EQ-",
@@ -22174,7 +22310,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/sonible-proximity-eq.jpg"
     },
     "Sonible entropy:EQ": {
       "pb_url": "/product/2-Effects/16-EQ/3104-entropy-EQ-",
@@ -22301,7 +22438,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/sonible-entropy-eq.jpg"
     },
     "oeksound Spiff": {
       "pb_url": "https://oeksound.com/plugins/spiff/",
@@ -22317,7 +22455,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/oeksound-spiff.jpg"
     },
     "Wavesfactory Spectre": {
       "pb_url": "/product/2-Effects/42-Enhancer/4801-Spectre",
@@ -22636,7 +22775,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/wavesfactory-spectre.jpg"
     },
     "Wavesfactory Bass Rider": {
       "pb_url": "https://www.pluginboutique.com/search?q=Wavesfactory%20Bass%20Rider",
@@ -22700,7 +22840,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/audiothing-outer-space-2.jpg"
     },
     "AudioThing Type A": {
       "pb_url": "https://www.audiothing.net/effects/type-a/",
@@ -22716,7 +22857,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/audiothing-type-a.jpg"
     },
     "AudioThing Springs": {
       "pb_url": "/product/2-Effects/17-Reverb/5380-Springs",
@@ -22909,7 +23051,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/audiothing-springs.jpg"
     },
     "Denise Audio Bloom": {
       "pb_url": "https://www.pluginboutique.com/search?q=Denise%20Audio%20Bloom",
@@ -23268,7 +23411,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/minimal-audio-rift-2-0.jpg"
     },
     "Excite Audio Bloom Drum Machine": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/13548-Bloom-Drum-Machine",
@@ -23659,7 +23803,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/excite-audio-bloom-drum-machine.jpg"
     },
     "Heavyocity Gravity": {
       "pb_url": "https://heavyocity.com/collections/kontakt",
@@ -23862,7 +24007,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/heavyocity-damage-2.jpg"
     },
     "ProjectSAM Symphobia 2": {
       "pb_url": "https://projectsam.com/libraries/symphobia-2",
@@ -23926,7 +24072,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eastwest-hollywood-orchestra-opus-edition.jpg"
     },
     "EastWest Fab Four": {
       "pb_url": "https://www.soundsonline.com/fab-four",
@@ -23942,7 +24089,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eastwest-fab-four.jpg"
     },
     "EastWest Ghostwriter": {
       "pb_url": "https://www.soundsonline.com/ghostwriter",
@@ -23958,7 +24106,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eastwest-ghostwriter.jpg"
     },
     "SSL Native X-Comp": {
       "pb_url": "/product/2-Effects/8-Compressor/8664-SSL-Native-X-Comp",
@@ -24103,7 +24252,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/ssl-native-x-comp.jpg"
     },
     "M1": {
       "pb_url": "/product/1-Instruments/4-Synth/11198-M1",
@@ -24500,7 +24650,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/m1.jpg"
     },
     "SOLID 2": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5507-SOLID-2",
@@ -24999,7 +25150,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/solid-2.jpg"
     },
     "Excite Audio Bundle Crossgrade From Any Excite Audio Product": {
       "pb_url": "/product/81-Bundles/89-Complete-Collection/14789-Excite-Audio-Bundle-Crossgrade-From-Any-Excite-Audio-Product",
@@ -25474,7 +25626,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/excite-audio-bundle-crossgrade-from-any-excite-audio-product.jpg"
     },
     "Excite Audio Bundle": {
       "pb_url": "/product/81-Bundles/89-Complete-Collection/9866-Excite-Audio-Bundle",
@@ -25979,7 +26132,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/excite-audio-bundle.jpg"
     },
     "Xpand!2": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/1560-Xpand-2",
@@ -26388,7 +26542,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/xpand-2.jpg"
     },
     "KORG Collection 6": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/16094-KORG-Collection-6",
@@ -26641,7 +26796,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/korg-collection-6.jpg"
     },
     "HEAVY 2": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5508-HEAVY-2",
@@ -26999,7 +27155,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/heavy-2.jpg"
     },
     "VISION 4X": {
       "pb_url": "/product/2-Effects/25-Spectral-Analysis/9301-VISION-4X",
@@ -27600,7 +27757,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/vision-4x.jpg"
     },
     "IRON 2": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/8111-IRON-2",
@@ -28027,7 +28185,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/iron-2.jpg"
     },
     "Claro": {
       "pb_url": "/product/2-Effects/16-EQ/8182-Claro",
@@ -28250,7 +28409,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/claro.jpg"
     },
     "Total Studio 5 MAX": {
       "pb_url": "/product/81-Bundles/89-Complete-Collection/15171-Total-Studio-5-MAX",
@@ -28473,7 +28633,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/total-studio-5-max.jpg"
     },
     "PHAT 2": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5506-PHAT-2",
@@ -28699,7 +28860,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/phat-2.jpg"
     },
     "CARBON": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5842-CARBON",
@@ -29129,7 +29291,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/carbon.jpg"
     },
     "Empirical Labs EL8 Distressor Compressor": {
       "pb_url": "/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor",
@@ -29436,7 +29599,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/empirical-labs-el8-distressor-compressor.jpg"
     },
     "UAD Sound City Studios Plugin": {
       "pb_url": "/product/2-Effects/21-Channel-Strip/11503-UAD-Sound-City-Studios-Plugin",
@@ -29518,7 +29682,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-sound-city-studios-plugin.jpg"
     },
     "FabFilter One": {
       "pb_url": "/product/1-Instruments/4-Synth/929-FabFilter-One",
@@ -29671,7 +29836,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/fabfilter-one.jpg"
     },
     "FabFilter Simplon": {
       "pb_url": "/product/2-Effects/19-Filter/930-FabFilter-Simplon",
@@ -29806,7 +29972,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/fabfilter-simplon.jpg"
     },
     "FabFilter Micro": {
       "pb_url": "/product/2-Effects/19-Filter/931-FabFilter-Micro",
@@ -29959,7 +30126,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/fabfilter-micro.jpg"
     },
     "Arturia Analog Lab Intro": {
       "pb_url": "/product/1-Instruments/4-Synth/17135-Analog-Lab-Intro",
@@ -30076,7 +30244,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/arturia-analog-lab-intro.jpg"
     },
     "u-he Uhbik 2": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/15854-Uhbik-2",
@@ -30239,7 +30408,8 @@
           "cur": "USD"
         }
       ],
-      "category": null
+      "category": null,
+      "image": "/images/plugin-prices/u-he-uhbik-2.jpg"
     },
     "u-he Twangstr m": {
       "pb_url": "/product/2-Effects/17-Reverb/5024-Twangstr-m",
@@ -30386,7 +30556,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/u-he-twangstr-m.jpg"
     },
     "u-he MFM2": {
       "pb_url": "/product/2-Effects/10-Delay/9610-MFM2",
@@ -30527,7 +30698,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/u-he-mfm2.jpg"
     },
     "u-he Filterscape": {
       "pb_url": "/product/2-Effects/19-Filter/11231-Filterscape",
@@ -30723,7 +30895,8 @@
           "cur": "USD"
         }
       ],
-      "category": null
+      "category": null,
+      "image": "/images/plugin-prices/u-he-filterscape.jpg"
     },
     "Kilohearts Disperser": {
       "pb_url": "/product/2-Effects/19-Filter/611-Disperser",
@@ -30882,7 +31055,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/kilohearts-disperser.jpg"
     },
     "Kilohearts Convolver": {
       "pb_url": "/product/2-Effects/17-Reverb/8218-Convolver",
@@ -31023,7 +31197,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/kilohearts-convolver.jpg"
     },
     "Kilohearts Snap Heap": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/2397-Snap-Heap",
@@ -31146,7 +31321,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/kilohearts-snap-heap.jpg"
     },
     "Kilohearts Filter Table": {
       "pb_url": "/product/2-Effects/19-Filter/14112-Filter-Table",
@@ -31263,7 +31439,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/kilohearts-filter-table.jpg"
     },
     "Kilohearts Faturator": {
       "pb_url": "/product/2-Effects/30-Distortion/337-Faturator",
@@ -31422,7 +31599,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/kilohearts-faturator.jpg"
     },
     "Kilohearts Shaper Table": {
       "pb_url": "/product/2-Effects/30-Distortion/12131-Shaper-Table",
@@ -31539,7 +31717,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/kilohearts-shaper-table.jpg"
     },
     "iZotope VEA": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/11847-VEA",
@@ -31698,7 +31877,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/izotope-vea.jpg"
     },
     "iZotope Ozone EQ": {
       "pb_url": "/product/2-Effects/16-EQ/11504-iZotope-Ozone-EQ",
@@ -31706,7 +31886,8 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [],
+      "image": "/images/plugin-prices/izotope-ozone-eq.jpg"
     },
     "iZotope FXEQ": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/15248-FXEQ",
@@ -31823,7 +32004,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/izotope-fxeq.jpg"
     },
     "iZotope Velvet": {
       "pb_url": "/product/2-Effects/59-De-Esser/14847-Velvet",
@@ -31940,7 +32122,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/izotope-velvet.jpg"
     },
     "Soundtoys Sie Q": {
       "pb_url": "/product/2-Effects/16-EQ/4717-Sie-Q",
@@ -32057,7 +32240,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/soundtoys-sie-q.jpg"
     },
     "Soundtoys SuperPlate": {
       "pb_url": "/product/2-Effects/17-Reverb/10583-SuperPlate",
@@ -32210,7 +32394,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/soundtoys-superplate.jpg"
     },
     "Soundtoys Radiator": {
       "pb_url": "/product/2-Effects/44-Saturation/1802-Radiator",
@@ -32387,7 +32572,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/soundtoys-radiator.jpg"
     },
     "Soundtoys PhaseMistress": {
       "pb_url": "/product/2-Effects/29-Phaser/1808-PhaseMistress",
@@ -32558,7 +32744,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/soundtoys-phasemistress.jpg"
     },
     "Soundtoys PrimalTap": {
       "pb_url": "/product/2-Effects/10-Delay/1857-PrimalTap",
@@ -32675,7 +32862,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/soundtoys-primaltap.jpg"
     },
     "Soundtoys SpaceBlender": {
       "pb_url": "/product/2-Effects/17-Reverb/14961-SpaceBlender",
@@ -32792,7 +32980,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/soundtoys-spaceblender.jpg"
     },
     "UAD Moog Minimoog": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/10188-Moog-Minimoog",
@@ -32918,7 +33107,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-moog-minimoog.jpg"
     },
     "UAD LUNA Pro Mk 2": {
       "pb_url": "/product/3-Studio-Tools/23-DAW/15966-LUNA-Pro-Mk-2",
@@ -33255,7 +33445,8 @@
           "cur": "USD"
         }
       ],
-      "category": null
+      "category": null,
+      "image": "/images/plugin-prices/uad-ampex-atr-102-mastering-tape-recorder.jpg"
     },
     "UAD Topline Vocal Suite": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/13320-Topline-Vocal-Suite",
@@ -33408,7 +33599,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-topline-vocal-suite.jpg"
     },
     "UAD A Type Multiband Dynamic Enhancer": {
       "pb_url": "/product/2-Effects/42-Enhancer/15130-A-Type-Multiband-Dynamic-Enhancer",
@@ -33658,7 +33850,8 @@
           "cur": "USD"
         }
       ],
-      "category": null
+      "category": null,
+      "image": "/images/plugin-prices/uad-a-type-multiband-dynamic-enhancer.jpg"
     },
     "UAD Ocean Way Studios Deluxe": {
       "pb_url": "/product/2-Effects/17-Reverb/16132-Ocean-Way-Studios-Deluxe",
@@ -33775,7 +33968,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-ocean-way-studios-deluxe.jpg"
     },
     "UAD API 2500 Bus Compressor": {
       "pb_url": "/product/2-Effects/8-Compressor/10155-API-2500-Bus-Compressor",
@@ -33892,7 +34086,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-api-2500-bus-compressor.jpg"
     },
     "UAD Little Labs Voice of God": {
       "pb_url": "/product/2-Effects/42-Enhancer/17066-Little-Labs-Voice-of-God",
@@ -34036,7 +34231,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-little-labs-voice-of-god.jpg"
     },
     "UAD Teletronix LA 2A Leveler Collection": {
       "pb_url": "/product/2-Effects/8-Compressor/10154-Teletronix-LA-2A-Leveler-Collection",
@@ -34144,7 +34340,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-teletronix-la-2a-leveler-collection.jpg"
     },
     "UAD Ravel Grand Piano": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/10191-Ravel-Grand-Piano",
@@ -34252,7 +34449,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-ravel-grand-piano.jpg"
     },
     "UAD Lexicon 224 Digital Reverb": {
       "pb_url": "/product/2-Effects/17-Reverb/10174-Lexicon-224-Digital-Reverb",
@@ -34360,7 +34558,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-lexicon-224-digital-reverb.jpg"
     },
     "UAD Avalon VT 737 Tube Channel Strip": {
       "pb_url": "/product/2-Effects/21-Channel-Strip/11495-Avalon-VT-737-Tube-Channel-Strip",
@@ -34492,7 +34691,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-avalon-vt-737-tube-channel-strip.jpg"
     },
     "UAD Opal Morphing Synth": {
       "pb_url": "/product/1-Instruments/4-Synth/10189-Opal-Morphing-Synth",
@@ -34642,7 +34842,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-opal-morphing-synth.jpg"
     },
     "UAD Manley Massive Passive": {
       "pb_url": "/product/2-Effects/16-EQ/11498-Manley-Massive-Passive",
@@ -34805,7 +35006,8 @@
           "cur": "USD"
         }
       ],
-      "category": null
+      "category": null,
+      "image": "/images/plugin-prices/uad-manley-massive-passive.jpg"
     },
     "UAD Galaxy Tape Echo": {
       "pb_url": "/product/2-Effects/10-Delay/10170-Galaxy-Tape-Echo",
@@ -34913,7 +35115,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-galaxy-tape-echo.jpg"
     },
     "UAD Manley VOXBOX Channel Strip": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/10956-Manley-VOXBOX-Channel-Strip-",
@@ -35021,7 +35224,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-manley-voxbox-channel-strip.jpg"
     },
     "UAD Studio D Chorus": {
       "pb_url": "/product/2-Effects/11-Chorus/10186-Studio-D-Chorus",
@@ -35171,7 +35375,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-studio-d-chorus.jpg"
     },
     "UAD Studer A800 Tape Recorder": {
       "pb_url": "/product/2-Effects/96-Tape-Emulation/10185-Studer-A800-Tape-Recorder",
@@ -35327,7 +35532,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-studer-a800-tape-recorder.jpg"
     },
     "UAD Waterfall B3 Organ": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/10187-Waterfall-B3-Organ",
@@ -35435,7 +35641,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-waterfall-b3-organ.jpg"
     },
     "UAD Capitol Mastering Compressor": {
       "pb_url": "/product/2-Effects/8-Compressor/10562-Capitol-Mastering-Compressor",
@@ -35543,7 +35750,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-capitol-mastering-compressor.jpg"
     },
     "UAD Fairchild Tube Limiter Collection": {
       "pb_url": "/product/2-Effects/9-Limiter/10312-Fairchild-Tube-Limiter-Collection",
@@ -35651,7 +35859,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-fairchild-tube-limiter-collection.jpg"
     },
     "UAD Dream 65 Reverb Amp": {
       "pb_url": "/product/2-Effects/18-Amp-Simulator/13321-UAD-Dream-65-Reverb-Amp",
@@ -35759,7 +35968,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-dream-65-reverb-amp.jpg"
     },
     "UAD Teletronix LA 3A Audio Leveler": {
       "pb_url": "/product/2-Effects/8-Compressor/10416-Teletronix-LA-3A-Audio-Leveler",
@@ -35867,7 +36077,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-teletronix-la-3a-audio-leveler.jpg"
     },
     "UAD Brigade Chorus Pedal": {
       "pb_url": "/product/2-Effects/11-Chorus/10159-Brigade-Chorus-Pedal",
@@ -35975,7 +36186,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-brigade-chorus-pedal.jpg"
     },
     "UAD SSL 4000 G Bus Compressor": {
       "pb_url": "/product/2-Effects/21-Channel-Strip/13325-SSL-4000-G-Bus-Compressor",
@@ -36153,7 +36365,8 @@
           "cur": "USD"
         }
       ],
-      "category": null
+      "category": null,
+      "image": "/images/plugin-prices/uad-ssl-4000-g-bus-compressor.jpg"
     },
     "UAD Manley Tube Preamp": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/11028-Manley-Tube-Preamp",
@@ -36291,7 +36504,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-manley-tube-preamp.jpg"
     },
     "UAD Woodrow 55 Instrument Amplifier": {
       "pb_url": "/product/2-Effects/18-Amp-Simulator/14600-UAD-Woodrow-55-Instrument-Amplifier",
@@ -36405,7 +36619,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-woodrow-55-instrument-amplifier.jpg"
     },
     "UAD Capitol Chambers": {
       "pb_url": "/product/2-Effects/49-Echo/11496-Capitol-Chambers",
@@ -36555,7 +36770,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-capitol-chambers.jpg"
     },
     "UAD Electra 88 Vintage Keyboard Studio": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/10563-Electra-88-Vintage-Keyboard-Studio",
@@ -36663,7 +36879,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-electra-88-vintage-keyboard-studio.jpg"
     },
     "Native Instruments Scene Bloodplant": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/16677-Scene-Bloodplant",
@@ -36771,7 +36988,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-scene-bloodplant.jpg"
     },
     "Native Instruments Super Saw": {
       "pb_url": "/product/1-Instruments/4-Synth/17587-Super-Saw",
@@ -36879,7 +37097,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-super-saw.jpg"
     },
     "Native Instruments 24K Keys": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15856-24K-Keys",
@@ -36987,7 +37206,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-24k-keys.jpg"
     },
     "Native Instruments Glaze 2": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15883-Glaze-2",
@@ -37095,7 +37315,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-glaze-2.jpg"
     },
     "Native Instruments Scene Saffron": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15878-Scene-Saffron",
@@ -37203,7 +37424,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-scene-saffron.jpg"
     },
     "Native Instruments LCO Producer Strings": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15839-LCO-Producer-Strings",
@@ -37311,7 +37533,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-lco-producer-strings.jpg"
     },
     "Native Instruments Halo Vox": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15843-Halo-Vox",
@@ -37419,7 +37642,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-halo-vox.jpg"
     },
     "Native Instruments Scene Lotus": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15844-Scene-Lotus",
@@ -37527,7 +37751,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-scene-lotus.jpg"
     },
     "Native Instruments Scene Nightshade": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15845-Scene-Nightshade",
@@ -37635,7 +37860,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-scene-nightshade.jpg"
     },
     "Sonible smart deess": {
       "pb_url": "/product/2-Effects/59-De-Esser/11480-smart-deess",
@@ -37785,7 +38011,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/sonible-smart-deess.jpg"
     },
     "Sonible prime vocal": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/14147-prime-vocal",
@@ -37905,7 +38132,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/sonible-prime-vocal.jpg"
     },
     "Sonible smart gate": {
       "pb_url": "/product/2-Effects/20-Gate/10898-smart-gate",
@@ -38049,7 +38277,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/sonible-smart-gate.jpg"
     },
     "Baby Audio SubCulture": {
       "pb_url": "/product/2-Effects/42-Enhancer/17589-SubCulture",
@@ -38157,7 +38386,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/baby-audio-subculture.jpg"
     },
     "Baby Audio Grainferno": {
       "pb_url": "/product/1-Instruments/4-Synth/16951-Grainferno",
@@ -38326,7 +38556,8 @@
           "cur": "USD"
         }
       ],
-      "category": null
+      "category": null,
+      "image": "/images/plugin-prices/baby-audio-grainferno.jpg"
     },
     "Baby Audio Magic Switch": {
       "pb_url": "/product/2-Effects/11-Chorus/6975-Magic-Switch",
@@ -38334,7 +38565,8 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [],
+      "image": "/images/plugin-prices/baby-audio-magic-switch.jpg"
     },
     "Baby Audio Humanoid": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/12582-Humanoid",
@@ -38472,7 +38704,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/baby-audio-humanoid.jpg"
     },
     "Baby Audio Tekno": {
       "pb_url": "/product/1-Instruments/139-Drum-Synth/15545-Tekno",
@@ -38638,7 +38871,8 @@
           "cur": "USD"
         }
       ],
-      "category": null
+      "category": null,
+      "image": "/images/plugin-prices/baby-audio-tekno.jpg"
     },
     "Baby Audio Smooth Operator Pro": {
       "pb_url": "/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro",
@@ -38834,7 +39068,8 @@
           "cur": "USD"
         }
       ],
-      "category": null
+      "category": null,
+      "image": "/images/plugin-prices/baby-audio-smooth-operator-pro.jpg"
     },
     "Eventide H3000 Factory Mk II": {
       "pb_url": "/product/2-Effects/91-Harmonizer/12197-H3000-Factory-Mk-II",
@@ -39024,7 +39259,8 @@
           "cur": "USD"
         }
       ],
-      "category": null
+      "category": null,
+      "image": "/images/plugin-prices/eventide-h3000-factory-mk-ii.jpg"
     },
     "Eventide ShimmerVerb": {
       "pb_url": "/product/2-Effects/17-Reverb/6656-ShimmerVerb",
@@ -39174,7 +39410,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-shimmerverb.jpg"
     },
     "Eventide Omnipressor": {
       "pb_url": "/product/2-Effects/71-Dynamics-Processor/2856-Omnipressor",
@@ -39282,7 +39519,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-omnipressor.jpg"
     },
     "Eventide TriceraChorus": {
       "pb_url": "/product/2-Effects/11-Chorus/6931-TriceraChorus",
@@ -39390,7 +39628,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-tricerachorus.jpg"
     },
     "Eventide Rotary Mod": {
       "pb_url": "/product/2-Effects/33-Modulator/6422-Rotary-Mod",
@@ -39498,7 +39737,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-rotary-mod.jpg"
     },
     "Eventide MangledVerb": {
       "pb_url": "/product/2-Effects/17-Reverb/3909-MangledVerb",
@@ -39606,7 +39846,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-mangledverb.jpg"
     },
     "Eventide Instant Flanger Mk II": {
       "pb_url": "/product/2-Effects/12-Flanger/5216-Instant-Flanger-Mk-II",
@@ -39762,7 +40003,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-instant-flanger-mk-ii.jpg"
     },
     "Eventide Instant Phaser Mk II": {
       "pb_url": "/product/2-Effects/29-Phaser/5027-Instant-Phaser-Mk-II",
@@ -39870,7 +40112,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-instant-phaser-mk-ii.jpg"
     },
     "Eventide Octavox": {
       "pb_url": "/product/2-Effects/91-Harmonizer/3065-Octavox",
@@ -39978,7 +40221,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-octavox.jpg"
     },
     "Eventide Precision Time Align": {
       "pb_url": "/product/2-Effects/10-Delay/3403-Precision-Time-Align",
@@ -40134,7 +40378,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-precision-time-align.jpg"
     },
     "Eventide H949 Harmonizer": {
       "pb_url": "/product/2-Effects/91-Harmonizer/7947-H949-Harmonizer",
@@ -40266,7 +40511,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-h949-harmonizer.jpg"
     },
     "Eventide SplitEQ": {
       "pb_url": "/product/2-Effects/16-EQ/8345-SplitEQ",
@@ -40498,7 +40744,8 @@
           "cur": "USD"
         }
       ],
-      "category": null
+      "category": null,
+      "image": "/images/plugin-prices/eventide-spliteq.jpg"
     },
     "Eventide Spring": {
       "pb_url": "/product/2-Effects/17-Reverb/6077-Spring",
@@ -40606,7 +40853,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-spring.jpg"
     },
     "Eventide Blackhole Immersive": {
       "pb_url": "/product/2-Effects/17-Reverb/11474-Blackhole-Immersive",
@@ -40720,7 +40968,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-blackhole-immersive.jpg"
     },
     "Eventide MicroPitch Immersive": {
       "pb_url": "/product/2-Effects/27-Stereo-Width/11475-MicroPitch-Immersive",
@@ -40834,7 +41083,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-micropitch-immersive.jpg"
     },
     "Eventide DeBoom": {
       "pb_url": "/product/2-Effects/16-EQ/11691-DeBoom",
@@ -40948,7 +41198,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-deboom.jpg"
     },
     "Eventide Sheen Machine": {
       "pb_url": "/product/2-Effects/16-EQ/11692-Sheen-Machine",
@@ -41062,7 +41313,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-sheen-machine.jpg"
     },
     "Eventide EChannel": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/10567-EChannel",
@@ -41176,7 +41428,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-echannel.jpg"
     },
     "Eventide EQ45": {
       "pb_url": "/product/2-Effects/16-EQ/10568-EQ45",
@@ -41290,7 +41543,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-eq45.jpg"
     },
     "Eventide EQ65": {
       "pb_url": "/product/2-Effects/19-Filter/10569-EQ65",
@@ -41410,7 +41664,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-eq65.jpg"
     },
     "Eventide Quadravox": {
       "pb_url": "/product/2-Effects/35-Pitch-Shifter/2853-Quadravox",
@@ -41566,7 +41821,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-quadravox.jpg"
     },
     "Eventide H910 Harmonizer": {
       "pb_url": "/product/2-Effects/35-Pitch-Shifter/2854-H910-Harmonizer",
@@ -41704,7 +41960,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-h910-harmonizer.jpg"
     },
     "Eventide UltraReverb": {
       "pb_url": "/product/2-Effects/17-Reverb/3061-UltraReverb",
@@ -41815,7 +42072,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-ultrareverb.jpg"
     },
     "Eventide CrushStation": {
       "pb_url": "/product/2-Effects/30-Distortion/6313-CrushStation",
@@ -41926,7 +42184,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-crushstation.jpg"
     },
     "Eventide MicroPitch": {
       "pb_url": "/product/2-Effects/35-Pitch-Shifter/6350-MicroPitch",
@@ -42061,7 +42320,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-micropitch.jpg"
     },
     "Eventide Crystals": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/6473-Crystals",
@@ -42172,7 +42432,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-crystals.jpg"
     },
     "Eventide UltraTap": {
       "pb_url": "/product/2-Effects/10-Delay/3671-UltraTap",
@@ -42319,7 +42580,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-ultratap.jpg"
     },
     "Eventide H3000 Band Delays Mk II": {
       "pb_url": "/product/2-Effects/10-Delay/12198-H3000-Band-Delays-Mk-II",
@@ -42454,7 +42716,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-h3000-band-delays-mk-ii.jpg"
     },
     "Eventide Undulator": {
       "pb_url": "/product/2-Effects/40-Tremolo/17331-Undulator",
@@ -42565,7 +42828,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/eventide-undulator.jpg"
     },
     "Cherry Audio Ensoniq ESQ 1 Synthesizer": {
       "pb_url": "/product/1-Instruments/4-Synth/17462-Ensoniq-ESQ-1-Synthesizer",
@@ -42676,7 +42940,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-ensoniq-esq-1-synthesizer.jpg"
     },
     "Cherry Audio Memorymode": {
       "pb_url": "/product/1-Instruments/4-Synth/7831-Memorymode",
@@ -42952,7 +43217,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-gx-80-synthesizer.jpg"
     },
     "Cherry Audio Miniverse": {
       "pb_url": "/product/1-Instruments/4-Synth/9030-Miniverse",
@@ -43078,7 +43344,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-miniverse.jpg"
     },
     "Cherry Audio Mercury 8": {
       "pb_url": "/product/1-Instruments/4-Synth/16443-Mercury-8",
@@ -43180,7 +43447,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-mercury-8.jpg"
     },
     "Cherry Audio DCO 106": {
       "pb_url": "/product/1-Instruments/4-Synth/6935-DCO-106",
@@ -43318,7 +43586,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-dco-106.jpg"
     },
     "Cherry Audio Yellowjacket": {
       "pb_url": "/product/1-Instruments/4-Synth/14754-Yellowjacket",
@@ -43420,7 +43689,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-yellowjacket.jpg"
     },
     "Cherry Audio DS 2 Synthesizer": {
       "pb_url": "/product/1-Instruments/4-Synth/17088-DS-2-Synthesizer",
@@ -43522,7 +43792,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-ds-2-synthesizer.jpg"
     },
     "Cherry Audio Stardust 201 Tape Echo": {
       "pb_url": "/product/2-Effects/49-Echo/8125-Stardust-201-Tape-Echo",
@@ -43672,7 +43943,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-stardust-201-tape-echo.jpg"
     },
     "Cherry Audio Voltage Modular Ignite": {
       "pb_url": "/product/1-Instruments/4-Synth/5034-Voltage-Modular-Ignite",
@@ -43810,7 +44082,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-voltage-modular-ignite.jpg"
     },
     "Cherry Audio Quadra": {
       "pb_url": "/product/1-Instruments/4-Synth/8402-Quadra",
@@ -43912,7 +44185,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-quadra.jpg"
     },
     "Cherry Audio Polymode": {
       "pb_url": "/product/1-Instruments/4-Synth/7310-Polymode",
@@ -44056,7 +44330,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-polymode.jpg"
     },
     "Cherry Audio Eight Voice": {
       "pb_url": "/product/1-Instruments/4-Synth/7433-Eight-Voice",
@@ -44200,7 +44475,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-eight-voice.jpg"
     },
     "Cherry Audio Voltage Modular Nucleus": {
       "pb_url": "/product/1-Instruments/4-Synth/5594-Voltage-Modular-Nucleus",
@@ -44208,7 +44484,8 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [],
+      "image": "/images/plugin-prices/cherry-audio-voltage-modular-nucleus.jpg"
     },
     "Cherry Audio Year One Collection": {
       "pb_url": "/product/1-Instruments/4-Synth/5595-Cherry-Audio-Year-One-Collection",
@@ -44334,7 +44611,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-year-one-collection.jpg"
     },
     "Cherry Audio CR 78 Drum Machine": {
       "pb_url": "/product/1-Instruments/7-Drum-Machine/11908-CR-78-Drum-Machine",
@@ -44454,7 +44732,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-cr-78-drum-machine.jpg"
     },
     "Cherry Audio PS 3300": {
       "pb_url": "/product/1-Instruments/4-Synth/11377-PS-3300",
@@ -44598,7 +44877,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-ps-3300.jpg"
     },
     "Cherry Audio Pro Soloist": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/11669-Pro-Soloist",
@@ -44700,7 +44980,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-pro-soloist.jpg"
     },
     "Cherry Audio Novachord Solovox": {
       "pb_url": "/product/1-Instruments/4-Synth/10582-Novachord-Solovox",
@@ -44832,7 +45113,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-novachord-solovox.jpg"
     },
     "Cherry Audio Dreamsynth": {
       "pb_url": "/product/1-Instruments/4-Synth/8856-Dreamsynth",
@@ -44934,7 +45216,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-dreamsynth.jpg"
     },
     "Cherry Audio CA2600 Synthesizer": {
       "pb_url": "/product/1-Instruments/4-Synth/7033-CA2600-Synthesizer",
@@ -45036,7 +45319,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-ca2600-synthesizer.jpg"
     },
     "Cherry Audio Surrealistic MG 1 Plus Synthesizer": {
       "pb_url": "/product/1-Instruments/4-Synth/7117-Surrealistic-MG-1-Plus-Synthesizer",
@@ -45044,7 +45328,8 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [],
+      "image": "/images/plugin-prices/cherry-audio-surrealistic-mg-1-plus-synthesizer.jpg"
     },
     "Cherry Audio Elka X": {
       "pb_url": "/product/1-Instruments/4-Synth/9504-Elka-X",
@@ -45182,7 +45467,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-elka-x.jpg"
     },
     "Cherry Audio Sines Synthesizer": {
       "pb_url": "/product/1-Instruments/4-Synth/9727-Sines-Synthesizer",
@@ -45284,7 +45570,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-sines-synthesizer.jpg"
     },
     "Cherry Audio Lowdown": {
       "pb_url": "/product/1-Instruments/4-Synth/9098-Lowdown",
@@ -45428,7 +45715,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-lowdown.jpg"
     },
     "Cherry Audio Galactic Reverb": {
       "pb_url": "/product/2-Effects/17-Reverb/9260-Galactic-Reverb",
@@ -45572,7 +45860,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-galactic-reverb.jpg"
     },
     "Cherry Audio Mercury 6": {
       "pb_url": "/product/1-Instruments/4-Synth/10332-Mercury-6",
@@ -45728,7 +46017,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-mercury-6.jpg"
     },
     "Cherry Audio Wurlybird 140B": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/12636-Wurlybird-140B",
@@ -45830,7 +46120,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-wurlybird-140b.jpg"
     },
     "XLN Audio DB 30 Drum Butter": {
       "pb_url": "/product/2-Effects/13-Drum-FX/17009-DB-30-Drum-Butter",
@@ -46001,7 +46292,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/xln-audio-db-30-drum-butter.jpg"
     },
     "XLN Audio DS 10 Drum Shaper": {
       "pb_url": "/product/2-Effects/36-Transient-Shaper/1812-DS-10-Drum-Shaper",
@@ -46133,7 +46425,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/xln-audio-ds-10-drum-shaper.jpg"
     },
     "Minimal Audio Cluster Delay": {
       "pb_url": "/product/2-Effects/10-Delay/10273-Cluster-Delay",
@@ -46235,7 +46528,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/minimal-audio-cluster-delay.jpg"
     },
     "Minimal Audio Ripple Phaser": {
       "pb_url": "/product/2-Effects/29-Phaser/12710-Ripple-Phaser",
@@ -46373,7 +46667,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/minimal-audio-ripple-phaser.jpg"
     },
     "Minimal Audio Wave Shifter": {
       "pb_url": "/product/2-Effects/28-Frequency-Shifter/14370-Wave-Shifter",
@@ -46487,7 +46782,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/minimal-audio-wave-shifter.jpg"
     },
     "Minimal Audio Poly Flanger": {
       "pb_url": "/product/2-Effects/12-Flanger/16880-Poly-Flanger",
@@ -46589,7 +46885,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/minimal-audio-poly-flanger.jpg"
     },
     "Minimal Audio Rift Filter Lite": {
       "pb_url": "/product/2-Effects/19-Filter/7806-Rift-Filter-Lite",
@@ -46703,7 +47000,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/minimal-audio-rift-filter-lite.jpg"
     },
     "Minimal Audio Current 2 0": {
       "pb_url": "/product/1-Instruments/4-Synth/11770-Current-2-0",
@@ -46829,7 +47127,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/minimal-audio-current-2-0.jpg"
     },
     "Minimal Audio Swarm Reverb": {
       "pb_url": "/product/2-Effects/17-Reverb/11826-Swarm-Reverb",
@@ -46931,7 +47230,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/minimal-audio-swarm-reverb.jpg"
     },
     "Minimal Audio Hybrid Filter": {
       "pb_url": "/product/2-Effects/19-Filter/11829-Hybrid-Filter",
@@ -47057,7 +47357,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/minimal-audio-hybrid-filter.jpg"
     },
     "Minimal Audio Rift Feedback Lite": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/8537-Rift-Feedback-Lite",
@@ -47065,7 +47366,8 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [],
+      "image": "/images/plugin-prices/minimal-audio-rift-feedback-lite.jpg"
     },
     "Minimal Audio Morph EQ": {
       "pb_url": "/product/2-Effects/16-EQ/9496-Morph-EQ",
@@ -47167,7 +47469,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/minimal-audio-morph-eq.jpg"
     },
     "Minimal Audio Formant": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/15630-Formant",
@@ -47175,7 +47478,8 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [],
+      "image": "/images/plugin-prices/minimal-audio-formant.jpg"
     },
     "Minimal Audio Evoke": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/15793-Evoke",
@@ -47302,7 +47606,8 @@
           "cur": "USD"
         }
       ],
-      "category": null
+      "category": null,
+      "image": "/images/plugin-prices/minimal-audio-evoke.jpg"
     },
     "Minimal Audio Flex Chorus": {
       "pb_url": "/product/2-Effects/11-Chorus/12037-Flex-Chorus",
@@ -47416,7 +47721,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/minimal-audio-flex-chorus.jpg"
     },
     "Minimal Audio Squash": {
       "pb_url": "/product/2-Effects/8-Compressor/14398-Squash",
@@ -47424,7 +47730,8 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-07-17",
-      "history": []
+      "history": [],
+      "image": "/images/plugin-prices/minimal-audio-squash.jpg"
     },
     "Minimal Audio Fuse Compressor": {
       "pb_url": "/product/2-Effects/8-Compressor/10984-Fuse-Compressor",
@@ -47568,7 +47875,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/minimal-audio-fuse-compressor.jpg"
     },
     "SSL Native X-EQ 2": {
       "pb_url": "/product/2-Effects/16-EQ/8665-SSL-Native-X-EQ-2",
@@ -47740,7 +48048,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/ssl-native-x-eq-2.jpg"
     },
     "Zen Delay Virtual": {
       "pb_url": "/product/2-Effects/10-Delay/10200-Zen-Delay-Virtual",
@@ -48074,7 +48383,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/zen-delay-virtual.jpg"
     },
     "JV-1080": {
       "pb_url": "/product/1-Instruments/4-Synth/15268-JV-1080",
@@ -48261,7 +48571,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/jv-1080.jpg"
     },
     "XV-5080": {
       "pb_url": "/product/1-Instruments/4-Synth/15297-XV-5080",
@@ -48448,7 +48759,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/xv-5080.jpg"
     },
     "Scaler 3": {
       "pb_url": "/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3",
@@ -48689,7 +49001,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/scaler-3.jpg"
     },
     "Synthesizer V Studio 2 Pro": {
       "pb_url": "/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro",
@@ -48816,7 +49129,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/synthesizer-v-studio-2-pro.jpg"
     },
     "Prophet~5": {
       "pb_url": "/product/1-Instruments/4-Synth/17444-Prophet-5",
@@ -48985,7 +49299,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/prophet-5.jpg"
     },
     "ROYAL 2": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/6257-ROYAL-2",
@@ -49172,7 +49487,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/royal-2.jpg"
     },
     "AmpliTube 5 MAX v2": {
       "pb_url": "/product/2-Effects/18-Amp-Simulator/12444-AmpliTube-5-MAX-v2",
@@ -49335,7 +49651,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/amplitube-5-max-v2.jpg"
     },
     "Voca": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/11095-Voca",
@@ -49450,7 +49767,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/voca.jpg"
     },
     "MELLOW 2": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2",
@@ -49571,7 +49889,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/mellow-2.jpg"
     },
     "Weiss MM-1": {
       "pb_url": "/product/2-Effects/50-Mastering-/4181-Weiss-MM-1",
@@ -49698,7 +50017,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/weiss-mm-1.jpg"
     },
     "Decimort 2": {
       "pb_url": "/product/2-Effects/32-Bit-Crusher/2017-Decimort-2",
@@ -49894,7 +50214,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/decimort-2.jpg"
     },
     "Black Box Analog Design HG-2": {
       "pb_url": "/product/2-Effects/44-Saturation/10203-Black-Box-Analog-Design-HG-2",
@@ -50024,7 +50345,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/black-box-analog-design-hg-2.jpg"
     },
     "Bloom KSHMR": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/14907-Bloom-KSHMR",
@@ -50142,7 +50464,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/bloom-kshmr.jpg"
     },
     "BFD 3.5": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/848-BFD-3-5",
@@ -50395,7 +50718,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/bfd-3-5.jpg"
     },
     "TRITON / TRITON Extreme": {
       "pb_url": "/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme",
@@ -50567,7 +50891,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/triton-triton-extreme.jpg"
     },
     "SoundID Reference for Headphones": {
       "pb_url": "/product/3-Studio-Tools/95-Referencing-Tools/7408-SoundID-Reference-for-Headphones",
@@ -50844,7 +51169,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/soundid-reference-for-headphones.jpg"
     },
     "Black Box Analog Design HG-2MS": {
       "pb_url": "/product/2-Effects/44-Saturation/10204-Black-Box-Analog-Design-HG-2MS",
@@ -50944,7 +51270,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/black-box-analog-design-hg-2ms.jpg"
     },
     "Pigments 7": {
       "pb_url": "/product/1-Instruments/4-Synth/11867-Pigments-7",
@@ -51152,7 +51479,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/pigments-7.jpg"
     },
     "Melody Sauce 3 Upgrade from Melody Sauce 1 2": {
       "pb_url": "/product/3-Studio-Tools/93-Music-Theory-Tools/16923-Melody-Sauce-3-Upgrade-from-Melody-Sauce-1-2",
@@ -51348,7 +51676,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/melody-sauce-3-upgrade-from-melody-sauce-1-2.jpg"
     },
     "UJAM SELECT 5 Bundle": {
       "pb_url": "/product/81-Bundles/97-Various-Category/15483-UJAM-SELECT-5-Bundle",
@@ -51418,7 +51747,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/ujam-select-5-bundle.jpg"
     },
     "ROWDY 2": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/6261-ROWDY-2",
@@ -51554,7 +51884,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/rowdy-2.jpg"
     },
     "Bismuth": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/17061-Bismuth",
@@ -51714,7 +52045,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/bismuth.jpg"
     },
     "WAVESTATION": {
       "pb_url": "/product/1-Instruments/4-Synth/11199-WAVESTATION",
@@ -51814,7 +52146,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/wavestation.jpg"
     },
     "Melody Sauce 3": {
       "pb_url": "/product/3-Studio-Tools/93-Music-Theory-Tools/15887-Melody-Sauce-3",
@@ -51914,7 +52247,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/melody-sauce-3.jpg"
     },
     "LX480 Essentials": {
       "pb_url": "/product/2-Effects/17-Reverb/8016-LX480-Essentials",
@@ -52038,7 +52372,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/lx480-essentials.jpg"
     },
     "SubLab XL": {
       "pb_url": "/product/1-Instruments/4-Synth/9354-SubLab-XL",
@@ -52180,7 +52515,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/sublab-xl.jpg"
     },
     "Moog Mariana": {
       "pb_url": "/product/1-Instruments/4-Synth/11727-Moog-Mariana",
@@ -52454,7 +52790,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/moog-mariana.jpg"
     },
     "Playbeat 4": {
       "pb_url": "/product/2-Effects/24-Sequencer/14265-Playbeat-4",
@@ -52560,7 +52897,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/playbeat-4.jpg"
     },
     "Soundtoys Effect Rack": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/6343-Soundtoys-Effect-Rack",
@@ -52678,7 +53016,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/soundtoys-effect-rack.jpg"
     },
     "Loop2Kit": {
       "pb_url": "/product/1-Instruments/5-Sampler/17478-Loop2Kit",
@@ -52778,7 +53117,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/loop2kit.jpg"
     },
     "SSL Native X-Phase": {
       "pb_url": "/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase",
@@ -52875,7 +53215,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/ssl-native-x-phase.jpg"
     },
     "REFERENCE 3": {
       "pb_url": "/product/3-Studio-Tools/95-Referencing-Tools/17100-REFERENCE-3",
@@ -52972,7 +53313,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/reference-3.jpg"
     },
     "Tube-Tech CL 1B Mk II": {
       "pb_url": "/product/2-Effects/8-Compressor/11535-Tube-Tech-CL-1B-Mk-II",
@@ -53207,7 +53549,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/tube-tech-cl-1b-mk-ii.jpg"
     },
     "TR-808": {
       "pb_url": "/product/1-Instruments/7-Drum-Machine/15360-TR-808",
@@ -53448,7 +53791,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/tr-808.jpg"
     },
     "Effectrix 2": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/11389-Effectrix-2",
@@ -53533,7 +53877,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/effectrix-2.jpg"
     },
     "BEAM 2.0": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/11990-BEAM-2-0",
@@ -53648,7 +53993,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/beam-2-0.jpg"
     },
     "SUBCRAFT": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/13267-SUBCRAFT",
@@ -53715,7 +54061,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/subcraft.jpg"
     },
     "Motion: Fractal": {
       "pb_url": "/product/2-Effects/45-Granular-FX/14438-Motion-Fractal",
@@ -53800,7 +54147,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/motion-fractal.jpg"
     },
     "Iona": {
       "pb_url": "/product/1-Instruments/4-Synth/15986-Iona",
@@ -53861,7 +54209,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/iona.jpg"
     },
     "Model 80 Five Voice Synthesizer": {
       "pb_url": "/product/1-Instruments/4-Synth/10517-Model-80-Five-Voice-Synthesizer",
@@ -53928,7 +54277,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/model-80-five-voice-synthesizer.jpg"
     },
     "UAD Select 2": {
       "pb_url": "/product/81-Bundles/97-Various-Category/13907-UAD-Select-2",
@@ -54029,7 +54379,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/drumazon-2.jpg"
     },
     "Analog Lab Pro": {
       "pb_url": "/product/1-Instruments/4-Synth/7149-Analog-Lab-Pro",
@@ -54114,7 +54465,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/analog-lab-pro.jpg"
     },
     "Usynth Core": {
       "pb_url": "/product/1-Instruments/4-Synth/8862-Usynth-Core",
@@ -54256,7 +54608,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/usynth-core.jpg"
     },
     "Chandler Limited Curve Bender Mastering EQ": {
       "pb_url": "/product/2-Effects/16-EQ/5618-Chandler-Limited-Curve-Bender-Mastering-EQ",
@@ -54359,7 +54712,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/chandler-limited-curve-bender-mastering-eq.jpg"
     },
     "UAD Manley Vari Mu": {
       "pb_url": "/product/2-Effects/71-Dynamics-Processor/11953-Manley-Vari-Mu",
@@ -54440,7 +54794,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-manley-vari-mu.jpg"
     },
     "UAD dbx 160 Compressor Limiter": {
       "pb_url": "/product/2-Effects/8-Compressor/11176-dbx-160-Compressor-Limiter",
@@ -54521,7 +54876,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-dbx-160-compressor-limiter.jpg"
     },
     "UAD Waterfall Rotary Speaker": {
       "pb_url": "/product/2-Effects/18-Amp-Simulator/10196-Waterfall-Rotary-Speaker",
@@ -54602,7 +54958,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-waterfall-rotary-speaker.jpg"
     },
     "UAD Helios Type 69 Preamp and EQ Collection": {
       "pb_url": "/product/2-Effects/16-EQ/11854-Helios-Type-69-Preamp-and-EQ-Collection",
@@ -54683,7 +55040,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-helios-type-69-preamp-and-eq-collection.jpg"
     },
     "UAD Topline Vocal Tune": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/17399-Topline-Vocal-Tune",
@@ -54764,7 +55122,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-topline-vocal-tune.jpg"
     },
     "UAD Anthem Analog Synthesizer": {
       "pb_url": "/product/1-Instruments/4-Synth/15086-Anthem-Analog-Synthesizer",
@@ -54879,7 +55238,8 @@
           "cur": "USD"
         }
       ],
-      "category": null
+      "category": null,
+      "image": "/images/plugin-prices/uad-anthem-analog-synthesizer.jpg"
     },
     "UAD Hitsville Reverb Chambers": {
       "pb_url": "/product/2-Effects/17-Reverb/10173-Hitsville-Reverb-Chambers",
@@ -54960,7 +55320,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-hitsville-reverb-chambers.jpg"
     },
     "UAD UA LA 6176 Signature Channel Strip": {
       "pb_url": "/product/2-Effects/21-Channel-Strip/12389-UA-LA-6176-Signature-Channel-Strip",
@@ -55041,7 +55402,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-ua-la-6176-signature-channel-strip.jpg"
     },
     "UAD Lion 68 Super Lead Amp": {
       "pb_url": "/product/2-Effects/18-Amp-Simulator/13323-UAD-Lion-68-Super-Lead-Amp",
@@ -55122,7 +55484,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-lion-68-super-lead-amp.jpg"
     },
     "Native Instruments Session Ukulele": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15885-Session-Ukulele",
@@ -55203,7 +55566,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-session-ukulele.jpg"
     },
     "Native Instruments Marco Polo Drums": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/16858-Marco-Polo-Drums",
@@ -55284,7 +55648,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-marco-polo-drums.jpg"
     },
     "Native Instruments Hypr": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15869-Hypr",
@@ -55365,7 +55730,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-hypr.jpg"
     },
     "Native Instruments Roux": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15872-Roux",
@@ -55446,7 +55812,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-roux.jpg"
     },
     "Native Instruments 24K Drums": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15855-24K-Drums",
@@ -55527,7 +55894,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-24k-drums.jpg"
     },
     "Cherry Audio KR 55C Drum Machine": {
       "pb_url": "/product/1-Instruments/7-Drum-Machine/14523-KR-55C-Drum-Machine",
@@ -55608,7 +55976,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-kr-55c-drum-machine.jpg"
     },
     "Cherry Audio Crumar Spirit": {
       "pb_url": "/product/1-Instruments/4-Synth/15451-Crumar-Spirit",
@@ -55741,7 +56110,8 @@
           "cur": "USD"
         }
       ],
-      "category": null
+      "category": null,
+      "image": "/images/plugin-prices/cherry-audio-crumar-spirit.jpg"
     },
     "Cherry Audio Filtomika": {
       "pb_url": "/product/2-Effects/19-Filter/14150-Filtomika",
@@ -55822,7 +56192,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-filtomika.jpg"
     },
     "Cherry Audio Synthesizer Expander Module": {
       "pb_url": "/product/1-Instruments/4-Synth/12169-Synthesizer-Expander-Module",
@@ -55830,7 +56201,8 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-08-04",
-      "history": []
+      "history": [],
+      "image": "/images/plugin-prices/cherry-audio-synthesizer-expander-module.jpg"
     },
     "Cherry Audio Octave Cat": {
       "pb_url": "/product/1-Instruments/4-Synth/10885-Octave-Cat",
@@ -55911,7 +56283,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-octave-cat.jpg"
     },
     "Cherry Audio Harmonia": {
       "pb_url": "/product/1-Instruments/4-Synth/11090-Harmonia",
@@ -55992,7 +56365,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-harmonia.jpg"
     },
     "JUPITER 8": {
       "pb_url": "/product/1-Instruments/4-Synth/15267-JUPITER-8",
@@ -56080,7 +56454,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/jupiter-8.jpg"
     },
     "SSL Native X-Saturator": {
       "pb_url": "/product/2-Effects/44-Saturation/8667-SSL-Native-X-Saturator",
@@ -56174,7 +56549,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/ssl-native-x-saturator.jpg"
     },
     "D-50": {
       "pb_url": "/product/1-Instruments/4-Synth/15264-D-50",
@@ -56400,7 +56776,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/d-50.jpg"
     },
     "Notes": {
       "pb_url": "/product/1-Instruments/4-Synth/16476-Notes",
@@ -56530,7 +56907,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/notes.jpg"
     },
     "KOMPLETE Synthesizer Collection": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/12033-KOMPLETE-Synthesizer-Collection",
@@ -56630,7 +57008,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/komplete-synthesizer-collection.jpg"
     },
     "SoundID VoiceAI Perpetual License Key": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/13408-SoundID-VoiceAI-Perpetual-License-Key",
@@ -56760,7 +57139,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/soundid-voiceai-perpetual-license-key.jpg"
     },
     "Infiltrator 2": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/7627-Infiltrator-2",
@@ -57013,7 +57393,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/infiltrator-2.jpg"
     },
     "VRAC+": {
       "pb_url": "/product/1-Instruments/7-Drum-Machine/17673-VRAC-",
@@ -57137,7 +57518,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/vrac.jpg"
     },
     "MC2000 Multi Band Compressor Native v7": {
       "pb_url": "/product/2-Effects/8-Compressor/8949-MC2000-Multi-Band-Compressor-Native-v7",
@@ -57225,7 +57607,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/mc2000-multi-band-compressor-native-v7.jpg"
     },
     "Chromed": {
       "pb_url": "/product/1-Instruments/7-Drum-Machine/15007-Chromed",
@@ -57307,7 +57690,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/chromed.jpg"
     },
     "DeNoizzer": {
       "pb_url": "/product/3-Studio-Tools/51-Audio-Restoration-/17374-DeNoizzer",
@@ -57398,7 +57782,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/denoizzer.jpg"
     },
     "World Suite 3": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3",
@@ -57471,7 +57856,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/world-suite-3.jpg"
     },
     "Remix": {
       "pb_url": "/product/3-Studio-Tools/72-Utility/11190-Remix",
@@ -57544,7 +57930,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/remix.jpg"
     },
     "Fluid Chords 2": {
       "pb_url": "/product/3-Studio-Tools/93-Music-Theory-Tools/15093-Fluid-Chords-2",
@@ -57617,7 +58004,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/fluid-chords-2.jpg"
     },
     "Soundbox Instruments Bundle": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/13347-Soundbox-Instruments-Bundle",
@@ -57690,7 +58078,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/soundbox-instruments-bundle.jpg"
     },
     "u he Diva Free Ambient Depths Expansion": {
       "pb_url": "/product/1-Instruments/4-Synth/7582-u-he-Diva-Free-Ambient-Depths-Expansion",
@@ -57844,7 +58233,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/u-he-diva-free-ambient-depths-expansion.jpg"
     },
     "Unfiltered Audio SpecOps": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/14926-Unfiltered-Audio-SpecOps",
@@ -57917,7 +58307,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/unfiltered-audio-specops.jpg"
     },
     "UAD EMT 140 Classic Plate Reverberator": {
       "pb_url": "/product/2-Effects/17-Reverb/17663-EMT-140-Classic-Plate-Reverberator",
@@ -57983,7 +58374,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-emt-140-classic-plate-reverberator.jpg"
     },
     "UAD EMT 250 Classic Electronic Reverb": {
       "pb_url": "/product/2-Effects/17-Reverb/17664-EMT-250-Classic-Electronic-Reverb",
@@ -58049,7 +58441,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-emt-250-classic-electronic-reverb.jpg"
     },
     "UAD SSL 4000 E Channel Strip": {
       "pb_url": "/product/2-Effects/21-Channel-Strip/13324-SSL-4000-E-Channel-Strip",
@@ -58145,7 +58538,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-ssl-4000-e-channel-strip.jpg"
     },
     "UAD UA 175B 176 Tube Compressor Collection": {
       "pb_url": "/product/2-Effects/8-Compressor/10940-UA-175B-176-Tube-Compressor-Collection",
@@ -58211,7 +58605,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-ua-175b-176-tube-compressor-collection.jpg"
     },
     "Native Instruments Bouquet": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15880-Bouquet",
@@ -58277,7 +58672,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-bouquet.jpg"
     },
     "Native Instruments Luxa": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15867-Luxa",
@@ -58343,7 +58739,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-luxa.jpg"
     },
     "Native Instruments Nacht": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15879-Nacht",
@@ -58409,7 +58806,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-nacht.jpg"
     },
     "Native Instruments Psyche Delay": {
       "pb_url": "/product/2-Effects/10-Delay/16332-Psyche-Delay",
@@ -58475,7 +58873,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-psyche-delay.jpg"
     },
     "Native Instruments Tape Wobble": {
       "pb_url": "/product/2-Effects/96-Tape-Emulation/16333-Tape-Wobble",
@@ -58541,7 +58940,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-tape-wobble.jpg"
     },
     "Cherry Audio Trident Mk III Synthesizer": {
       "pb_url": "/product/1-Instruments/4-Synth/15842-Trident-Mk-III-Synthesizer",
@@ -58607,7 +59007,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-trident-mk-iii-synthesizer.jpg"
     },
     "Cherry Audio SH MAX": {
       "pb_url": "/product/1-Instruments/4-Synth/16799-SH-MAX",
@@ -58673,7 +59074,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-sh-max.jpg"
     },
     "Cherry Audio Atomika": {
       "pb_url": "/product/1-Instruments/4-Synth/13416-Atomika",
@@ -58739,7 +59141,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-atomika.jpg"
     },
     "Cherry Audio Blue3 Tonewheel Organ": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/13057-Blue3-Tonewheel-Organ",
@@ -58805,7 +59208,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-blue3-tonewheel-organ.jpg"
     },
     "SSL Native X-ValveComp": {
       "pb_url": "/product/2-Effects/8-Compressor/8673-SSL-Native-X-ValveComp",
@@ -58902,7 +59306,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/ssl-native-x-valvecomp.jpg"
     },
     "Relooper": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/17077-Relooper",
@@ -59065,7 +59470,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/relooper.jpg"
     },
     "MAutoAlign": {
       "pb_url": "/product/2-Effects/29-Phaser/68-MAutoAlign",
@@ -59228,7 +59634,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/mautoalign.jpg"
     },
     "ORANGE VOCODER IV": {
       "pb_url": "/product/2-Effects/43-Vocoder/10533-ORANGE-VOCODER-IV",
@@ -59295,7 +59702,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/orange-vocoder-iv.jpg"
     },
     "AMBER 2": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/10597-AMBER-2",
@@ -59356,7 +59764,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/amber-2.jpg"
     },
     "MRhythmizer": {
       "pb_url": "/product/2-Effects/20-Gate/119-MRhythmizer",
@@ -59477,7 +59886,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/mrhythmizer.jpg"
     },
     "SPARKLE 2": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2",
@@ -59538,7 +59948,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/sparkle-2.jpg"
     },
     "Brusfri": {
       "pb_url": "/product/3-Studio-Tools/51-Audio-Restoration-/8694-Brusfri",
@@ -59635,7 +60046,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/brusfri.jpg"
     },
     "Unfiltered Audio SILO": {
       "pb_url": "/product/2-Effects/17-Reverb/14933-Unfiltered-Audio-SILO",
@@ -59696,7 +60108,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/unfiltered-audio-silo.jpg"
     },
     "Speakers": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/6487-Speakers",
@@ -59829,7 +60242,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/speakers.jpg"
     },
     "InstaComposer 3": {
       "pb_url": "/product/3-Studio-Tools/93-Music-Theory-Tools/15936-InstaComposer-3",
@@ -59890,7 +60304,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/instacomposer-3.jpg"
     },
     "Softube Producer Collection Exclusive": {
       "pb_url": "/product/81-Bundles/84-Mix-Master/15255-Softube-Producer-Collection-Exclusive-",
@@ -59991,7 +60406,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-b-side-mix-tape-bundle.jpg"
     },
     "KSHMR Chain": {
       "pb_url": "/product/3-Studio-Tools/72-Utility/9641-KSHMR-Chain",
@@ -60088,7 +60504,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/kshmr-chain.jpg"
     },
     "u-he TyrellN6": {
       "pb_url": "/product/1-Instruments/4-Synth/17642-TyrellN6",
@@ -60096,7 +60513,8 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-08-18",
-      "history": []
+      "history": [],
+      "image": "/images/plugin-prices/u-he-tyrelln6.jpg"
     },
     "u-he Zebralette 3": {
       "pb_url": "/product/1-Instruments/4-Synth/17688-Zebralette-3",
@@ -60104,7 +60522,8 @@
       "typical_sale": null,
       "all_time_low": null,
       "notes": "Auto-discovered 2026-08-18",
-      "history": []
+      "history": [],
+      "image": "/images/plugin-prices/u-he-zebralette-3.jpg"
     },
     "UAD Hitsville EQ Collection": {
       "pb_url": "/product/2-Effects/16-EQ/10171-Hitsville-EQ-Collection",
@@ -60203,7 +60622,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-hitsville-eq-collection.jpg"
     },
     "Native Instruments Discoteca Drums": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15862-Discoteca-Drums",
@@ -60266,7 +60686,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-discoteca-drums.jpg"
     },
     "Native Instruments Traktor Play": {
       "pb_url": "/product/2-Effects/73-DJ-Tools/16211-Traktor-Play",
@@ -60329,7 +60750,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-traktor-play.jpg"
     },
     "Cherry Audio ODC 2800 Synthesizer": {
       "pb_url": "/product/1-Instruments/4-Synth/15107-ODC-2800-Synthesizer",
@@ -60398,7 +60820,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-odc-2800-synthesizer.jpg"
     },
     "Cherry Audio P 10 Synthesizer": {
       "pb_url": "/product/1-Instruments/4-Synth/14055-P-10-Synthesizer",
@@ -60461,7 +60884,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-p-10-synthesizer.jpg"
     },
     "Minimal Audio Memory Rites": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/17485-Memory-Rites",
@@ -60524,7 +60948,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/minimal-audio-memory-rites.jpg"
     },
     "SSL X-Limit": {
       "pb_url": "/product/2-Effects/9-Limiter/9371-SSL-X-Limit",
@@ -60636,7 +61061,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/ssl-x-limit.jpg"
     },
     "MODO BASS 2": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2",
@@ -60736,7 +61162,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/modo-bass-2.jpg"
     },
     "Platinum": {
       "pb_url": "/product/81-Bundles/84-Mix-Master/12542-Platinum",
@@ -60905,7 +61332,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/platinum.jpg"
     },
     "TR-909": {
       "pb_url": "/product/1-Instruments/7-Drum-Machine/15284-TR-909",
@@ -61074,7 +61502,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/tr-909.jpg"
     },
     "DB-30 Drum Butter": {
       "pb_url": "/product/2-Effects/13-Drum-FX/17009-DB-30-Drum-Butter",
@@ -61207,7 +61636,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/db-30-drum-butter.jpg"
     },
     "Drum Machine Collection": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/15283-Drum-Machine-Collection",
@@ -61304,7 +61734,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/drum-machine-collection.jpg"
     },
     "Expanse 3D": {
       "pb_url": "/product/2-Effects/27-Stereo-Width/7594-Expanse-3D",
@@ -61368,7 +61799,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/expanse-3d.jpg"
     },
     "ReSing MAX": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/15737-ReSing-MAX",
@@ -61432,7 +61864,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/resing-max.jpg"
     },
     "H9 Plug-in Series Bundle": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/7109-H9-Plug-in-Series-Bundle",
@@ -61499,7 +61932,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/h9-plug-in-series-bundle.jpg"
     },
     "Oberheim TVS Pro": {
       "pb_url": "/product/1-Instruments/4-Synth/14804-Oberheim-TVS-Pro",
@@ -61554,7 +61988,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/oberheim-tvs-pro.jpg"
     },
     "Bloom Drum Breaks": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks",
@@ -61609,7 +62044,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/bloom-drum-breaks.jpg"
     },
     "Shadow Hills Mastering Compressor Class A": {
       "pb_url": "/product/2-Effects/8-Compressor/10210-Shadow-Hills-Mastering-Compressor-Class-A",
@@ -61676,7 +62112,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/shadow-hills-mastering-compressor-class-a.jpg"
     },
     "KNOCK": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/8876-KNOCK",
@@ -61827,7 +62264,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/knock.jpg"
     },
     "UAD Vibe Analog Machines": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/17163-Vibe-Analog-Machines",
@@ -61875,7 +62313,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-vibe-analog-machines.jpg"
     },
     "UAD Enigmatic 82 Overdrive Special Amp": {
       "pb_url": "/product/2-Effects/18-Amp-Simulator/17292-UAD-Enigmatic-82-Overdrive-Special-Amp",
@@ -61923,7 +62362,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-enigmatic-82-overdrive-special-amp.jpg"
     },
     "UAD Ruby 63 Top Boost Amp": {
       "pb_url": "/product/2-Effects/18-Amp-Simulator/13322-UAD-Ruby-63-Top-Boost-Amp",
@@ -61995,7 +62435,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-ruby-63-top-boost-amp.jpg"
     },
     "Native Instruments Kolor": {
       "pb_url": "/product/2-Effects/30-Distortion/16334-Kolor",
@@ -62043,7 +62484,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-kolor.jpg"
     },
     "Minimal Audio Lucid": {
       "pb_url": "/product/2-Effects/45-Granular-FX/17714-Lucid",
@@ -62206,7 +62648,8 @@
           "cur": "USD"
         }
       ],
-      "category": null
+      "category": null,
+      "image": "/images/plugin-prices/minimal-audio-lucid.jpg"
     },
     "SSL Native X-Echo": {
       "pb_url": "/product/2-Effects/10-Delay/8674-SSL-Native-X-Echo",
@@ -62285,7 +62728,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/ssl-native-x-echo.jpg"
     },
     "Tomofon": {
       "pb_url": "/product/1-Instruments/4-Synth/10064-Tomofon",
@@ -62370,7 +62814,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/tomofon.jpg"
     },
     "TOTAL VI MAX 2": {
       "pb_url": "/product/81-Bundles/97-Various-Category/16798-TOTAL-VI-MAX-2",
@@ -62536,7 +62981,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/total-vi-max-2.jpg"
     },
     "Continuum": {
       "pb_url": "/product/2-Effects/10-Delay/17713-Continuum",
@@ -62675,7 +63121,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/continuum.jpg"
     },
     "MORPH 3": {
       "pb_url": "/product/2-Effects/33-Modulator/12204-MORPH-3",
@@ -62742,7 +63189,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/morph-3.jpg"
     },
     "Addictive Drums 2 Custom Collection": {
       "pb_url": "/product/1-Instruments/57-Complete-Collection/8236-Addictive-Drums-2-Custom-Collection",
@@ -62863,7 +63311,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/addictive-drums-2-custom-collection.jpg"
     },
     "L4 Ultramaximizer": {
       "pb_url": "/product/2-Effects/9-Limiter/15813-L4-Ultramaximizer",
@@ -62945,7 +63394,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/l4-ultramaximizer.jpg"
     },
     "Lifeline Bundle": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/10033-Lifeline-Bundle",
@@ -63024,7 +63474,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/lifeline-bundle.jpg"
     },
     "Bloom Vocal Aether": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/11515-Bloom-Vocal-Aether",
@@ -63073,7 +63524,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/bloom-vocal-aether.jpg"
     },
     "CINEDREAM": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/14697-CINEDREAM",
@@ -63122,7 +63574,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cinedream.jpg"
     },
     "Unfiltered Audio TRIAD": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/14944-Unfiltered-Audio-TRIAD",
@@ -63177,7 +63630,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/unfiltered-audio-triad.jpg"
     },
     "AIR Legends Pack": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack",
@@ -63226,7 +63680,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/air-legends-pack.jpg"
     },
     "Lounge Lizard EP-5": {
       "pb_url": "/product/1-Instruments/4-Synth/14967-Lounge-Lizard-EP-5-",
@@ -63275,7 +63730,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/lounge-lizard-ep-5.jpg"
     },
     "DynOne": {
       "pb_url": "/product/2-Effects/71-Dynamics-Processor/5251-DynOne",
@@ -63324,7 +63780,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/dynone.jpg"
     },
     "Bloom Bass Impulse": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/11968-Bloom-Bass-Impulse",
@@ -63373,7 +63830,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/bloom-bass-impulse.jpg"
     },
     "Roland Legends Bundle": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/17348-Roland-Legends-Bundle",
@@ -63467,7 +63925,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/sonible-smart-chain.jpg"
     },
     "Cherry Audio Memorymode 2": {
       "pb_url": "/product/1-Instruments/4-Synth/17746-Memorymode-2",
@@ -63503,7 +63962,8 @@
           "reg_src": null,
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-memorymode-2.jpg"
     },
     "JD 800": {
       "pb_url": "/product/1-Instruments/4-Synth/15315-JD-800",
@@ -63636,7 +64096,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/jd-800.jpg"
     },
     "Analog Monosynth Collection": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/15320-Analog-Monosynth-Collection",
@@ -63679,7 +64140,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/analog-monosynth-collection.jpg"
     },
     "Analog Polysynth Collection": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/16252-Analog-Polysynth-Collection",
@@ -63812,7 +64274,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/analog-polysynth-collection.jpg"
     },
     "JUNO 106": {
       "pb_url": "/product/1-Instruments/4-Synth/15263-JUNO-106",
@@ -63936,7 +64399,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/juno-106.jpg"
     },
     "SSL X-Gate": {
       "pb_url": "/product/2-Effects/20-Gate/9258-SSL-X-Gate",
@@ -64006,7 +64470,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/ssl-x-gate.jpg"
     },
     "Pure Sub": {
       "pb_url": "/product/1-Instruments/4-Synth/17759-Pure-Sub",
@@ -64112,7 +64577,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/pure-sub.jpg"
     },
     "VPS Avenger 2": {
       "pb_url": "/product/1-Instruments/4-Synth/11545-VPS-Avenger-2",
@@ -64227,7 +64693,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/vps-avenger-2.jpg"
     },
     "Oberheim OB-X": {
       "pb_url": "/product/1-Instruments/4-Synth/12021-Oberheim-OB-X",
@@ -64297,7 +64764,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/oberheim-ob-x.jpg"
     },
     "Super-7": {
       "pb_url": "/product/1-Instruments/4-Synth/15978-Super-7",
@@ -64430,7 +64898,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/super-7.jpg"
     },
     "Falcon Extended Bundle": {
       "pb_url": "/product/81-Bundles/97-Various-Category/16828-Falcon-Extended-Bundle",
@@ -64588,7 +65057,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/little-labs-voice-of-god.jpg"
     },
     "WORMHOLE": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/2709-WORMHOLE-",
@@ -64631,7 +65101,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/wormhole.jpg"
     },
     "Scaler EQ": {
       "pb_url": "/product/2-Effects/16-EQ/11473-Scaler-EQ",
@@ -64674,7 +65145,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/scaler-eq.jpg"
     },
     "Super 8": {
       "pb_url": "/product/1-Instruments/4-Synth/11465-Super-8",
@@ -64717,7 +65189,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/super-8.jpg"
     },
     "ChordAXE": {
       "pb_url": "/product/3-Studio-Tools/93-Music-Theory-Tools/17319-ChordAXE",
@@ -64760,7 +65233,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/chordaxe.jpg"
     },
     "UAD Pick 5 Mix Tape": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/16916-UAD-Pick-5-Mix-Tape",
@@ -64803,7 +65277,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-pick-5-mix-tape.jpg"
     },
     "Cubase Pro 15 Competitive Crossgrade": {
       "pb_url": "/product/3-Studio-Tools/23-DAW/16171-Cubase-Pro-15-Competitive-Crossgrade",
@@ -64846,7 +65321,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cubase-pro-15-competitive-crossgrade.jpg"
     },
     "Manley Vari-Mu": {
       "pb_url": "/product/2-Effects/71-Dynamics-Processor/11953-Manley-Vari-Mu",
@@ -64889,7 +65365,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/manley-vari-mu.jpg"
     },
     "StageOne 2": {
       "pb_url": "/product/2-Effects/27-Stereo-Width/10913-StageOne-2-",
@@ -65013,7 +65490,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/stageone-2.jpg"
     },
     "Roland Vintage Keys Essentials Bundle": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/17344-Roland-Vintage-Keys-Essentials-Bundle",
@@ -65056,7 +65534,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/roland-vintage-keys-essentials-bundle.jpg"
     },
     "Minimal Audio x Excite Audio Effects Bundle Exclusive": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/15335-Minimal-Audio-x-Excite-Audio-Effects-Bundle-Exclusive-",
@@ -65090,7 +65569,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/minimal-audio-x-excite-audio-effects-bundle-exclusive.jpg"
     },
     "Atoms": {
       "pb_url": "/product/1-Instruments/4-Synth/11906-Atoms",
@@ -65160,7 +65640,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/atoms.jpg"
     },
     "PITCHMAP": {
       "pb_url": "/product/2-Effects/35-Pitch-Shifter/2701-PITCHMAP",
@@ -65203,7 +65684,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/pitchmap.jpg"
     },
     "driveDAT": {
       "pb_url": "/product/2-Effects/96-Tape-Emulation/17783-driveDAT",
@@ -65273,7 +65755,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/drivedat.jpg"
     },
     "LEGEND": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/11446-LEGEND",
@@ -65325,7 +65808,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/legend.jpg"
     },
     "MODO MAX": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/12457-MODO-MAX",
@@ -65395,7 +65879,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/modo-max.jpg"
     },
     "INTENSITY 2": {
       "pb_url": "/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2",
@@ -65438,7 +65923,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/intensity-2.jpg"
     },
     "DEEP": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/7235-DEEP",
@@ -65481,7 +65967,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/deep.jpg"
     },
     "BALANCE": {
       "pb_url": "/product/2-Effects/16-EQ/14488-BALANCE",
@@ -65524,7 +66011,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/balance.jpg"
     },
     "u he Hive 2 FREE Synthwave Expansion": {
       "pb_url": "/product/81-Bundles/97-Various-Category/7683-u-he-Hive-2-FREE-Synthwave-Expansion",
@@ -65567,7 +66055,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/u-he-hive-2-free-synthwave-expansion.jpg"
     },
     "UNMIX::DRUMS": {
       "pb_url": "/product/3-Studio-Tools/80-Drum-Tools/2708-UNMIX-DRUMS",
@@ -65610,7 +66099,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/unmix-drums.jpg"
     },
     "Virtual Drummer 2 Bundle": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle",
@@ -65644,7 +66134,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/virtual-drummer-2-bundle.jpg"
     }
   }
 }

@@ -6,6 +6,7 @@
  * (current < regular). Renders nothing if no product currently qualifies.
  */
 import priceDataRaw from '../data/price_history.json';
+import { getCollection } from 'astro:content';
 import { pdAttr } from '../lib/interestTaxonomy.mjs';
 import { isProductNameIndexable } from '../lib/indexPolicy.mjs';
 import {
@@ -30,6 +31,20 @@ const allEntries: Record<string, PriceEntry> = {
   ...(priceData.plugins ?? {}),
 };
 
+const publishedPosts = await getCollection('blog', (post) => !post.data.draft);
+const articleDescriptions = publishedPosts.map((post) => ({
+  titleSlug: slugify(post.data.title),
+  description: post.data.description,
+}));
+
+function descriptionFor(name: string): string | null {
+  const productSlug = slugify(name);
+  if (!productSlug) return null;
+  return articleDescriptions.find(({ titleSlug }) =>
+    titleSlug.includes(productSlug) || productSlug.includes(titleSlug)
+  )?.description ?? null;
+}
+
 // Real, live discounts (a genuine scraped observation below regular).
 const liveDeals = Object.entries(allEntries)
   .map(([name, entry]) => {
@@ -42,6 +57,7 @@ const liveDeals = Object.entries(allEntries)
       regular: live?.regular ?? null,
       off: live ? pctOff(live.current, live.regular) : 0,
       checkedLabel: checked ? formatCheckedDate(checked) : null,
+      description: descriptionFor(name),
     };
   })
   .filter(d => d.off > 0 && d.current !== null && d.regular !== null)
@@ -65,6 +81,7 @@ if (liveDeals.length < 4) {
         off: (entry.typical_sale !== null && entry.typical_regular !== null && entry.typical_sale < entry.typical_regular)
           ? pctOff(entry.typical_sale, entry.typical_regular) : 0,
         checkedLabel: checked ? formatCheckedDate(checked) : null,
+        description: descriptionFor(name),
       };
     })
     .filter(d => d.off > 0 && d.current !== null && d.regular !== null)
@@ -82,9 +99,14 @@ const railTitle = watchMode ? 'Deals Worth Watching' : "Today's Best Plugin Deal
       <ul class="deals-rail-list">
         {deals.map((d, i) => (
           <li class="deals-rail-item" data-pd={pdAttr({ title: d.name, extra: d.entry.category ?? '' })} hidden={i >= 5}>
+            {d.entry.image && (
+              <img class="deals-rail-image" src={d.entry.image} alt={d.name} loading="lazy" width="400" height="300" />
+            )}
             {isProductNameIndexable(priceData, d.name)
               ? <a href={`/plugin-prices/${slugify(d.name)}/`} class="deals-rail-name">{d.name}</a>
               : <span class="deals-rail-name">{d.name}</span>}
+            {d.entry.category && <span class="deals-rail-category">{d.entry.category}</span>}
+            {d.description && <p class="deals-rail-description">{d.description}</p>}
             <div class="deals-rail-prices">
               <span class="deals-rail-off mono">{watchMode ? 'typ. ' : ''}-{d.off}%</span>
               <span class="deals-rail-reg mono">{formatPrice(d.regular)}</span>
@@ -133,6 +155,15 @@ const railTitle = watchMode ? 'Deals Worth Watching' : "Today's Best Plugin Deal
     border-bottom: 1px solid var(--border-light);
   }
   .deals-rail-item:last-child { border-bottom: none; padding-bottom: 0; }
+  .deals-rail-image {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border-radius: var(--radius-sm);
+    margin-bottom: 0.55rem;
+  }
   .deals-rail-name {
     /* 2-line wrap: single-line nowrap truncated long names like
        "Plugin Alliance bx_console SSL 4000 E" to an unreadable prefix. */
@@ -149,6 +180,30 @@ const railTitle = watchMode ? 'Deals Worth Watching' : "Today's Best Plugin Deal
     overflow-wrap: anywhere;
   }
   .deals-rail-name:hover { color: var(--accent); }
+  .deals-rail-category {
+    display: inline-block;
+    max-width: 100%;
+    margin: -0.05rem 0 0.35rem;
+    padding: 0.08rem 0.35rem;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    color: var(--text-muted);
+    font-size: 0.62rem;
+    line-height: 1.35;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .deals-rail-description {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    margin: 0 0 0.4rem;
+    overflow: hidden;
+    color: var(--text-muted);
+    font-size: 0.7rem;
+    line-height: 1.4;
+  }
   .deals-rail-prices {
     display: flex;
     align-items: center;

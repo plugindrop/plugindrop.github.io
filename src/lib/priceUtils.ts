@@ -24,6 +24,7 @@ export interface PriceEntry {
   all_time_low: number | null;
   notes?: string;
   category?: string;
+  image?: string;
   history: HistoryEntry[];
 }
 
