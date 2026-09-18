@@ -4,7 +4,7 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_TITLE } from '../consts';
 import priceData from '../data/price_history.json';
-import { dealScoreNumeric, isSearchUrl, sparklinePoints } from '../lib/priceUtils';
+import { dealScoreNumeric, isSearchUrl, sparklinePoints, pbLink } from '../lib/priceUtils';
 import { isPricePageIndexable, slugifyProduct } from '../lib/indexPolicy.mjs';
 
 function fableVerdictLabel(verdict: 'good' | 'ok' | 'bad' | 'none', onSale: boolean): string {
@@ -13,10 +13,6 @@ function fableVerdictLabel(verdict: 'good' | 'ok' | 'bad' | 'none', onSale: bool
   if (verdict === 'ok') return 'FAIR SALE';
   return onSale ? 'AVERAGE' : 'WAIT';
 }
-
-const AFF = "a_aid=69cb95abe1763";
-const pbLink = (path: string, extraParams = '') =>
-  !path ? '#' : path.startsWith('http') ? path : `https://www.pluginboutique.com${path}?${AFF}${extraParams ? `&${extraParams}` : ''}`;
 
 interface HistoryEntry {
   date: string;
