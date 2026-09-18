@@ -33,6 +33,10 @@ const resolvedImage = new URL(image, Astro.site);
 </script>
 <script is:inline>
 (function () {
+  // 上のGA4初期化スクリプトは is:inline が無いためAstroにtype="module"へバンドルされ、
+  // その中の gtag はモジュールスコープに閉じ込められグローバルに出てこない。
+  // ここで直接 dataLayer に積む同等の gtag を再定義して依存を切る。
+  function gtag(){ window.dataLayer = window.dataLayer || []; window.dataLayer.push(arguments); }
   document.addEventListener('click', function (ev) {
     try {
       var a = ev.target && ev.target.closest && ev.target.closest('a[href*="pluginboutique.com"]');
