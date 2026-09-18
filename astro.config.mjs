@@ -9,6 +9,14 @@ import rehypeProductLinks from './src/lib/rehypeProductLinks.mjs';
 import { staticRedirects } from './src/data/plugin_price_redirects.mjs';
 import { noindexPricePagePaths } from './src/lib/indexPolicy.mjs';
 
+// config.yaml の affiliate_links で "TEST" プレースホルダのドメイン（未承認・非収益）は含めない。
+// generator.py の承認済み判定（TESTプレースホルダなし＝承認済み）と揃える。
+const SPONSORED_HOSTS = [
+	'pluginboutique.com', 'adsrsounds.com', 'loopmasters.com',
+	'unison.audio', 'thomann.de', 'pluginfox.com', 'beatport.com',
+	'djcity.com',
+];
+
 const siteUrl = 'https://plugindrop.net';
 const distUrl = new URL('./dist/', import.meta.url);
 
@@ -84,7 +92,19 @@ export default defineConfig({
 		rehypePlugins: [
 			// 内部リンク（追跡製品名→/plugin-prices/）を先に張り、後段で外部リンク属性を付与
 			rehypeProductLinks,
-			[rehypeExternalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] }],
+			[rehypeExternalLinks, {
+				target: '_blank',
+				rel: (node) => {
+					try {
+						const href = (node.properties && node.properties.href) || '';
+						const host = new URL(href, 'https://plugindrop.net').hostname.replace(/^www\./, '');
+						if (SPONSORED_HOSTS.some((h) => host === h || host.endsWith('.' + h))) {
+							return ['noopener', 'sponsored'];
+						}
+					} catch (e) { /* fall through */ }
+					return ['noopener', 'nofollow'];
+				},
+			}],
 		],
 	},
 });
