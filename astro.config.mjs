@@ -88,7 +88,7 @@ export default defineConfig({
 	// (2026-07-12: PBのIntro/Pro分割に合わせArturia 2製品をPro明示にリネーム)
 	redirects: {
 		...Object.fromEntries(
-			Object.entries(expiredRedirects).map(([slug, target]) => [`/posts/${slug}/`, target]),
+			Object.entries(activeExpiredRedirects).map(([slug, target]) => [`/posts/${slug}/`, target]),
 		),
 		...staticRedirects,
 	},
