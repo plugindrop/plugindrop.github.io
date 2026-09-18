@@ -43,12 +43,17 @@ export function formatPrice(val: number | null): string {
   return `$${val}`;
 }
 
-// Affiliate link builder. Preserves http passthrough for non-PB URLs (some
-// entries may already carry a full URL) and appends the PB affiliate id plus
-// any extra tracking params for the given placement.
+// Affiliate link builder. price_history.json sometimes stores a full PB
+// product-page URL instead of a relative path; those still need the
+// affiliate id appended (previously passed through untouched, losing
+// commission on 19 tracked products). Non-PB full URLs pass through as-is.
 export function pbLink(path: string, extraParams = ''): string {
   if (!path) return '#';
-  if (path.startsWith('http')) return path;
+  if (path.startsWith('http')) {
+    if (!path.includes('pluginboutique.com') || path.includes('a_aid=')) return path;
+    const sep = path.includes('?') ? '&' : '?';
+    return `${path}${sep}${AFF}${extraParams ? `&${extraParams}` : ''}`;
+  }
   const sep = path.includes('?') ? '&' : '?';
   return `https://www.pluginboutique.com${path}${sep}${AFF}${extraParams ? `&${extraParams}` : ''}`;
 }
