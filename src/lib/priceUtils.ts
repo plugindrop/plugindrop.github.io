@@ -1,11 +1,7 @@
 /**
- * Shared price-data helpers used by the inline price-check card (PriceTracker.astro)
- * and the "Today's Best Deals" sidebar (TopDeals.astro).
- *
- * Kept separate from plugin-prices.astro / plugin-prices/[slug].astro on purpose —
- * those pages are out of scope for this change, but they establish the conventions
- * (slugify, sparkline, "current = latest.sale ?? latest.regular") that this file
- * mirrors so the whole site stays consistent.
+ * Shared price-data helpers used across the price-tracker surfaces
+ * (PriceTracker.astro, TopDeals.astro, plugin-prices.astro,
+ * plugin-prices/[slug].astro, brands/[brand].astro).
  */
 
 export const AFF = "a_aid=69cb95abe1763";
