@@ -7229,12 +7229,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2025-03-10",
-          "regular": 149.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -7653,18 +7647,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2022-11-21",
-          "regular": 142.8,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-09-06",
-          "regular": 349.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -13203,24 +13185,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2025-03-10",
-          "regular": 149.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-04-16",
-          "regular": 34.99,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-06-14",
-          "regular": 39.99,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -13246,12 +13210,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2025-03-10",
-          "regular": 149.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
