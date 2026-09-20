@@ -17532,36 +17532,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2021-11-20",
-          "regular": 107.56,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-06-26",
-          "regular": 199.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-06-02",
-          "regular": 129.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-12-16",
-          "regular": 99.5,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-09-27",
-          "regular": 199.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
@@ -43758,18 +43728,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2024-05-30",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-06-24",
-          "regular": 29.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/eventide-ultratap.jpg"
