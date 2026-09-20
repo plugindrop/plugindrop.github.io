@@ -319,9 +319,16 @@ for (const post of allPosts) {
 	}
 }
 const linkedTags = tags.filter((tag: string) => isTagPageIndexable(publicTagCounts.get(slugifyTag(tag)) ?? 0));
+// "vst"/"guide" は公開記事242本中184本/174本(70%超)に付く汎用タグで、これだけで
+// 一致判定すると事実上ランダムな記事が「関連」として出る(2026-09-20実測・ボイラープレート化の一因)。
+// 関連度判定からは除外し、実際にトピックが重なるタグでのみスコアリングする。
+const GENERIC_RELATION_TAGS = new Set(['vst', 'guide']);
 const relatedPosts = allPosts
 	.filter(p => !p.data.draft && p.id !== currentSlug && p.id.replace(/\.mdx?$/, '') !== currentSlug)
-	.map(p => ({ ...p, score: p.data.tags?.filter((t: string) => tags.includes(t)).length ?? 0 }))
+	.map(p => ({
+		...p,
+		score: p.data.tags?.filter((t: string) => tags.includes(t) && !GENERIC_RELATION_TAGS.has(t)).length ?? 0,
+	}))
 	.filter(p => p.score > 0)
 	.sort((a, b) => b.score - a.score || b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
 	.slice(0, 3);
