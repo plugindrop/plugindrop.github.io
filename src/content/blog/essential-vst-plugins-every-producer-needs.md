@@ -332,7 +332,7 @@ Ozone 12's Master Assistant analyzes your track and builds a starting mastering 
 
 - **Developer:** FabFilter
 - **Price:** Check Plugin Boutique for current bundle pricing
-- **Why upgrade:** Owning Pro-Q 4 and Pro-C 2 individually is a strong start, but the Total Bundle adds Pro-MB (multiband compression), Pro-L 2 (mastering limiter), Pro-DS (de-esser), Timeless 3 (delay), and Saturn 2 (saturation) — covering every mixing and mastering category with a workflow-consistent interface throughout.
+- **Why upgrade:** Owning Pro-Q 4 and Pro-C 3 individually is a strong start, but the Total Bundle adds Pro-MB (multiband compression), Pro-L 2 (mastering limiter), Pro-DS (de-esser), Timeless 3 (delay), and Saturn 2 (saturation) — covering every mixing and mastering category with a workflow-consistent interface throughout.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs)
 
@@ -354,9 +354,9 @@ Ozone 12's Master Assistant analyzes your track and builds a starting mastering 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| FabFilter Pro-Q 4 | $179 | EQ | Dynamic EQ, M/S, zero-latency mode | [Get it](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
+| FabFilter Pro-Q 4 | $199 | EQ | Dynamic EQ, M/S, zero-latency mode | [Get it](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
 | TDR Nova | Free | EQ | Dynamic EQ, 4 bands, clean metering | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
-| FabFilter Pro-C 2 | $179 | Compressor | 8 algorithms, real-time GR display | [Get it](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
+| FabFilter Pro-C 3 | $199 | Compressor | 14 styles, character panel, real-time GR display | [Get it](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
 | OTT | Free | Multiband Compressor | Upward/downward compression, 3-band | [Free Download](https://xferrecords.com/freeware) |
 | Valhalla Room | $50 | Reverb | 12 algorithms, natural room modeling | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 | Valhalla Supermassive | Free | Reverb/Delay | Massive ambiences, modulated tails | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
@@ -384,7 +384,7 @@ Ozone 12's Master Assistant analyzes your track and builds a starting mastering 
 
 ## FAQ
 **Q: What VST plugins do professional producers actually use in 2026?**
-A: EQ, compression, and reverb plugins form the core of every working producer's toolkit regardless of genre. FabFilter Pro-Q 4 and Pro-C 2 appear on sessions across virtually every style, alongside Valhalla Room for natural reverb and iZotope Ozone 12 for mastering. The specific synths and instruments vary by genre; the processing chain stays consistent.
+A: EQ, compression, and reverb plugins form the core of every working producer's toolkit regardless of genre. FabFilter Pro-Q 4 and Pro-C 3 appear on sessions across virtually every style, alongside Valhalla Room for natural reverb and iZotope Ozone 12 for mastering. The specific synths and instruments vary by genre; the processing chain stays consistent.
 
 **Q: Are free VST plugins good enough for professional music production?**
 A: Yes — with the right choices. TDR Nova, Valhalla Supermassive, Vital, and Slate Fresh Air all deliver professional results and appear in commercial sessions. The gap between free and paid has narrowed significantly over the past several years. The biggest differences tend to appear in edge cases: deep parameter control, CPU efficiency at scale, and long-term update support.
