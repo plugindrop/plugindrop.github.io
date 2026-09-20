@@ -81,21 +81,20 @@ TDR Nova is a parametric EQ with dynamic EQ capabilities built in — a feature 
 
 ---
 
-### FabFilter Pro-C 2 — Compression that stays out of the way
+### FabFilter Pro-C 3 — Compression that stays out of the way
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="FabFilter Pro-C 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
-- **Price:** $179
+- **Price:** $199
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-Pro-C 2 covers every compression style from ultra-clean bus glue to aggressive peak limiting with eight distinct algorithms — Classic, Opto, Mastering, and more. The real-time gain reduction display and per-algorithm knee visualization make it one of the most educational compressors available at any price. It handles duties that would otherwise require multiple hardware emulations.
+Pro-C 3 (the successor to the discontinued Pro-C 2) covers every compression style from ultra-clean bus glue to aggressive peak limiting with 14 program-dependent compression styles plus a character panel for analog-style saturation and drift. The large animated level/knee display and circular side-chain meter make it one of the most educational compressors available at any price. It handles duties that would otherwise require multiple hardware emulations.
 
 **Best for:** Transparent bus compression, vocal dynamics control, and mastering chain dynamics.
 
-[→ Watch the official demo](https://www.youtube.com/watch?v=mSzvpCz-M2k)
-[→ Get FabFilter Pro-C 2 on Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs)
+[→ Get FabFilter Pro-C 3 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs)
 
 ---
 
