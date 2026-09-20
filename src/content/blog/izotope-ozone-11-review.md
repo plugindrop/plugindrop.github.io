@@ -8,9 +8,12 @@ evergreen: true
 score: 8.00
 xText: "New guide: iZotope Ozone 11 Review: The Best All-in-One Mastering Plugi..."
 draft: false
+noindex: true
 heroImage: "/images/izotope-ozone-11-review_og.jpg"
 ---
 **TL;DR:** iZotope Ozone 11 is the most complete all-in-one mastering suite available in 2026. Its AI-powered Master Assistant gives you a professional starting point in under 30 seconds, and the full module chain — EQ, dynamics, imaging, limiting — handles everything without routing signals through multiple plugins. If you master inside your DAW, this is the one plugin worth investing in.
+
+**Update:** iZotope has since released Ozone 12. See our [iZotope Ozone 12 review](/posts/izotope-ozone-12-review/) for what changed and current pricing.
 
 ## Quick Picks at a Glance
 
