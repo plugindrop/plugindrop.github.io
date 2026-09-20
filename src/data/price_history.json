@@ -1394,34 +1394,6 @@
       "category": "EQ",
       "image": "/images/plugin-prices/fabfilter-pro-q-4.jpg"
     },
-    "FabFilter Pro-C 2": {
-      "pb_url": "/search?q=FabFilter%20Pro-C%202",
-      "typical_regular": 129,
-      "typical_sale": 97,
-      "all_time_low": 97,
-      "notes": "FabFilter discounts 25% at Black Friday only. Typical BF sale ~$97 (25% off $129).",
-      "history": [
-        {
-          "date": "2023-11-20",
-          "regular": 129,
-          "sale": 97,
-          "source": "research_bf2023"
-        },
-        {
-          "date": "2024-11-22",
-          "regular": 129,
-          "sale": 97,
-          "source": "research_bf2024"
-        },
-        {
-          "date": "2026-05-30",
-          "regular": 129,
-          "sale": null,
-          "source": "research"
-        }
-      ],
-      "category": "Compressor"
-    },
     "FabFilter Pro-L 2": {
       "pb_url": "/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2",
       "typical_regular": 179,
@@ -1957,68 +1929,6 @@
         }
       ],
       "category": "Synth"
-    },
-    "iZotope Ozone 11 Standard": {
-      "pb_url": "/search?q=iZotope%20Ozone%2011%20Standard",
-      "typical_regular": 199,
-      "typical_sale": 99,
-      "all_time_low": 70,
-      "notes": "iZotope runs regular 50% off sales. ATL $70.26 at Best Service (BF Nov 2024). PB BF 2024: also deep discount. Frequent sales throughout year.",
-      "history": [
-        {
-          "date": "2024-08-01",
-          "regular": 199,
-          "sale": 99,
-          "source": "research_summer2024"
-        },
-        {
-          "date": "2024-11-19",
-          "regular": 199,
-          "sale": 70,
-          "source": "research_bf2024"
-        },
-        {
-          "date": "2025-11-01",
-          "regular": 199,
-          "sale": 79,
-          "source": "research_bf2025"
-        },
-        {
-          "date": "2026-05-30",
-          "regular": 199,
-          "sale": null,
-          "source": "research"
-        }
-      ],
-      "category": "Mastering"
-    },
-    "iZotope Ozone 11 Advanced": {
-      "pb_url": "/search?q=iZotope%20Ozone%2011%20Advanced",
-      "typical_regular": 399,
-      "typical_sale": 199,
-      "all_time_low": 141,
-      "notes": "iZotope runs 50% off sales. ATL $141.40 at Best Service (BF Nov 2024). Consider upgrading from Standard instead.",
-      "history": [
-        {
-          "date": "2024-11-19",
-          "regular": 399,
-          "sale": 141,
-          "source": "research_bf2024"
-        },
-        {
-          "date": "2025-11-01",
-          "regular": 399,
-          "sale": 199,
-          "source": "research_bf2025"
-        },
-        {
-          "date": "2026-05-30",
-          "regular": 399,
-          "sale": null,
-          "source": "research"
-        }
-      ],
-      "category": "Mastering"
     },
     "Valhalla Room": {
       "pb_url": "https://valhalladsp.com/shop/reverb/valhalla-room/",
@@ -3078,156 +2988,13 @@
       "category": "Synth"
     },
     "iZotope Ozone 12 Advanced": {
-      "pb_url": "/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced",
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced",
       "typical_regular": 499,
-      "typical_sale": 366,
-      "all_time_low": 366,
-      "notes": "Ozone 12 Advanced is the current flagship mastering suite (regular $499 direct/NI/PB); Ozone 12 'Standard' tier has been discontinued — the 2026 lineup is Advanced ($499) + Elements ($55) only. Discounted to $366 at Thomann (Mar 20, 2026) per plugindeals.net — lowest recorded 2026 sale. Existing-customer loyalty pricing from $279 also available (NI account required, not a public sale).",
-      "history": [
-        {
-          "date": "2026-07-10",
-          "regular": 499,
-          "sale": null,
-          "source": "research"
-        },
-        {
-          "date": "2026-07-11",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-13",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-14",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-15",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-16",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-18",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-21",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-24",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-29",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-08-01",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-08-04",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-08-07",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-08-11",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-08-15",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-08-19",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-08-23",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-08-27",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-08-31",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-09-04",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-09",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "regular": 499,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
-        }
-      ],
-      "category": "Mastering",
-      "image": "/images/plugin-prices/izotope-ozone-12-advanced.jpg"
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Mastering"
     },
     "iZotope Neutron 5": {
       "pb_url": "/product/2-Effects/21-Channel-Strip/13502-Neutron-5",
@@ -8384,22 +8151,6 @@
       ],
       "image": "/images/plugin-prices/baby-audio-taip.jpg"
     },
-    "iZotope Ozone Elements": {
-      "pb_url": "https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Elements",
-      "typical_regular": 55,
-      "typical_sale": 29,
-      "all_time_low": 29,
-      "notes": "iZotope Ozone 12 Elements. Sold on Plugin Boutique per MusicTech coverage of a 'lowest price ever' PB promotion on Mar 19, 2026 (no exact PB product URL confirmed in research). iZotope's own Summer Sale (Jun 2026) separately offered Elements-tier plugins at $25 each.",
-      "category": "Mastering",
-      "history": [
-        {
-          "date": "2026-07-11",
-          "regular": 55,
-          "sale": null,
-          "source": "research"
-        }
-      ]
-    },
     "Sonnox Oxford Limiter": {
       "pb_url": "https://sonnox.com/products/oxford-limiter",
       "typical_regular": 290,
@@ -9085,22 +8836,6 @@
         {
           "date": "2026-07-11",
           "regular": 699,
-          "sale": null,
-          "source": "research"
-        }
-      ]
-    },
-    "iZotope Nectar 4": {
-      "pb_url": "https://www.pluginboutique.com/search?q=iZotope%20Nectar%204",
-      "typical_regular": 199,
-      "typical_sale": 149.25,
-      "all_time_low": 129,
-      "notes": "iZotope. Sold on Plugin Boutique. Prices shown are for the Standard tier ($199 reg., $149.25 current promo); the Advanced tier is $299 regular. The $129 all-time low (57% off, Aug 17, 2025, plugindeals.net) is documented specifically for the Advanced tier at Plugin Boutique, not Standard.",
-      "category": "Vocal",
-      "history": [
-        {
-          "date": "2026-07-11",
-          "regular": 199,
           "sale": null,
           "source": "research"
         }
@@ -12102,22 +11837,6 @@
       ],
       "image": "/images/plugin-prices/native-instruments-supercharger-gt.jpg"
     },
-    "Native Instruments Action Strings": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Native%20Instruments%20Action%20Strings",
-      "typical_regular": 199,
-      "typical_sale": 99,
-      "all_time_low": null,
-      "notes": "NI-published Kontakt cinematic string ostinato library. ~50% off in NI's big instrument sales (Summer of Sound/Black Friday).",
-      "category": "Instrument",
-      "history": [
-        {
-          "date": "2026-07-11",
-          "regular": 199,
-          "sale": null,
-          "source": "research"
-        }
-      ]
-    },
     "Native Instruments Discovery Series West Africa": {
       "pb_url": "https://www.pluginboutique.com/search?q=Native%20Instruments%20Discovery%20Series%20West%20Africa",
       "typical_regular": 149,
@@ -12145,28 +11864,6 @@
         {
           "date": "2026-07-11",
           "regular": 149,
-          "sale": null,
-          "source": "research"
-        }
-      ]
-    },
-    "Arturia Analog Lab": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Arturia%20Analog%20Lab",
-      "typical_regular": 199,
-      "typical_sale": 89,
-      "all_time_low": null,
-      "notes": "Unified preset player for all Arturia synths/keyboards. Arturia runs 30-50% off promos (Spring/Summer/Black Friday); comparable Arturia titles record lows of 40-60% off.",
-      "category": "Synth",
-      "history": [
-        {
-          "date": "2023-11-14",
-          "regular": 199,
-          "sale": 99,
-          "source": "research_bf2023"
-        },
-        {
-          "date": "2026-07-11",
-          "regular": 199,
           "sale": null,
           "source": "research"
         }
@@ -12554,72 +12251,6 @@
       ],
       "image": "/images/plugin-prices/arturia-jup-8-v.jpg"
     },
-    "Arturia CS-80 V": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Arturia%20CS-80%20V",
-      "typical_regular": 149,
-      "typical_sale": 89,
-      "all_time_low": null,
-      "notes": "Yamaha CS-80 emulation. 30-50% off in Arturia's frequent seasonal sales.",
-      "category": "Synth",
-      "history": [
-        {
-          "date": "2023-11-14",
-          "regular": 149,
-          "sale": 75,
-          "source": "research_bf2023"
-        },
-        {
-          "date": "2026-07-11",
-          "regular": 149,
-          "sale": null,
-          "source": "research"
-        }
-      ]
-    },
-    "Arturia Prophet V": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Arturia%20Prophet%20V",
-      "typical_regular": 149,
-      "typical_sale": 89,
-      "all_time_low": null,
-      "notes": "Sequential Prophet-5 emulation. 30-50% off in Arturia's frequent seasonal sales.",
-      "category": "Synth",
-      "history": [
-        {
-          "date": "2023-11-14",
-          "regular": 149,
-          "sale": 75,
-          "source": "research_bf2023"
-        },
-        {
-          "date": "2026-07-11",
-          "regular": 149,
-          "sale": null,
-          "source": "research"
-        }
-      ]
-    },
-    "Arturia Piano V": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Arturia%20Piano%20V",
-      "typical_regular": 199,
-      "typical_sale": 99,
-      "all_time_low": null,
-      "notes": "Arturia's flagship modeled acoustic piano. 30-50% off in Arturia's frequent seasonal sales.",
-      "category": "Instrument",
-      "history": [
-        {
-          "date": "2023-11-14",
-          "regular": 199,
-          "sale": 99,
-          "source": "research_bf2023"
-        },
-        {
-          "date": "2026-07-11",
-          "regular": 199,
-          "sale": null,
-          "source": "research"
-        }
-      ]
-    },
     "Arturia Augmented STRINGS": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/9812-Augmented-STRINGS",
       "typical_regular": 199,
@@ -12954,22 +12585,6 @@
       ],
       "image": "/images/plugin-prices/izotope-vocalsynth-2.jpg"
     },
-    "iZotope Trash 2": {
-      "pb_url": "https://www.pluginboutique.com/search?q=iZotope%20Trash%202",
-      "typical_regular": 99,
-      "typical_sale": 29,
-      "all_time_low": 29,
-      "notes": "Multiband distortion/mangling. iZotope's Black Friday 'Creative Effects' promo prices it at $29 alongside VocalSynth 2.",
-      "category": "Saturation",
-      "history": [
-        {
-          "date": "2026-07-11",
-          "regular": 99,
-          "sale": null,
-          "source": "research"
-        }
-      ]
-    },
     "iZotope Iris 2": {
       "pb_url": "https://www.pluginboutique.com/search?q=iZotope%20Iris%202",
       "typical_regular": 149,
@@ -13164,22 +12779,6 @@
         }
       ],
       "image": "/images/plugin-prices/izotope-insight-2.jpg"
-    },
-    "iZotope Tonal Balance Control 2": {
-      "pb_url": "https://www.pluginboutique.com/search?q=iZotope%20Tonal%20Balance%20Control%202",
-      "typical_regular": 99,
-      "typical_sale": 29,
-      "all_time_low": null,
-      "notes": "Spectral reference/mix-balance tool, often included free with other iZotope purchases. Follows iZotope's typical 70%+ off Black Friday pattern when sold standalone.",
-      "category": "Utility",
-      "history": [
-        {
-          "date": "2026-07-11",
-          "regular": 99,
-          "sale": null,
-          "source": "research"
-        }
-      ]
     },
     "Waves H-Delay": {
       "pb_url": "/product/2-Effects/10-Delay/13813-H-Delay-Hybrid-Delay",
@@ -13622,22 +13221,6 @@
         }
       ],
       "image": "/images/plugin-prices/waves-api-2500.jpg"
-    },
-    "Waves PuigTec EQP-1A": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Waves%20PuigTec%20EQP-1A",
-      "typical_regular": 109,
-      "typical_sale": 24.99,
-      "all_time_low": null,
-      "notes": "Pultec-style passive EQ modeled by Jack Joseph Puig. Regularly $19.99-29.99 in Waves 'any plugin' events.",
-      "category": "EQ",
-      "history": [
-        {
-          "date": "2026-07-11",
-          "regular": 109,
-          "sale": null,
-          "source": "research"
-        }
-      ]
     },
     "Waves Abbey Road Reverb Plates": {
       "pb_url": "/product/2-Effects/17-Reverb/13698-Abbey-Road-Reverb-Plates",
@@ -15794,28 +15377,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        }
-      ]
-    },
-    "Softube Tube-Tech CL 1B": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Softube%20Tube-Tech%20CL%201B",
-      "typical_regular": 399,
-      "typical_sale": 99,
-      "all_time_low": 56.5,
-      "notes": "Premium Tube-Tech compressor emulation, one of Softube's priciest single plugins. Up to 75% off in Softube's major sales. Lowest tracked $56.5 (plugindeals.net (Plugin Boutique) 2024-11-28).",
-      "category": "Compressor",
-      "history": [
-        {
-          "date": "2024-11-28",
-          "regular": 399,
-          "sale": 56.5,
-          "source": "plugindeals.net_pb_bf2024"
-        },
-        {
-          "date": "2026-07-11",
-          "regular": 399,
-          "sale": null,
-          "source": "research"
         }
       ]
     },
@@ -20556,22 +20117,6 @@
       ],
       "image": "/images/plugin-prices/spectrasonics-trilian.jpg"
     },
-    "UVI World Suite": {
-      "pb_url": "https://www.pluginboutique.com/search?q=UVI%20World%20Suite",
-      "typical_regular": 299,
-      "typical_sale": 189,
-      "all_time_low": null,
-      "notes": "Large world/ethnic instrument collection. 30-40% off in UVI's Black Friday/Summer/Anniversary sales; deeper cuts (~50%) in limited promos.",
-      "category": "Instrument",
-      "history": [
-        {
-          "date": "2026-07-11",
-          "regular": 299,
-          "sale": null,
-          "source": "research"
-        }
-      ]
-    },
     "UVI Model D": {
       "pb_url": "https://www.pluginboutique.com/search?q=UVI%20Model%20D",
       "typical_regular": 89,
@@ -20663,22 +20208,6 @@
         {
           "date": "2026-07-11",
           "regular": 79,
-          "sale": null,
-          "source": "research"
-        }
-      ]
-    },
-    "XLN Audio Addictive Drums 2": {
-      "pb_url": "https://www.pluginboutique.com/search?q=XLN%20Audio%20Addictive%20Drums%202",
-      "typical_regular": 159,
-      "typical_sale": 98,
-      "all_time_low": 98,
-      "notes": "Drum instrument core/collections (e.g. Metal Collection $159 reg). Documented lowest tracked price ~$98 (~38% off, plugindeals.net) during XLN's frequent seasonal sales.",
-      "category": "Drums",
-      "history": [
-        {
-          "date": "2026-07-11",
-          "regular": 159,
           "sale": null,
           "source": "research"
         }
@@ -20868,22 +20397,6 @@
         }
       ]
     },
-    "Slate Digital FG-X": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Slate%20Digital%20FG-X",
-      "typical_regular": 149,
-      "typical_sale": 79,
-      "all_time_low": null,
-      "notes": "Mastering processor/loudness maximizer. Same rarely-discounted perpetual pricing pattern as other Slate legacy plugins.",
-      "category": "Mastering",
-      "history": [
-        {
-          "date": "2026-07-11",
-          "regular": 149,
-          "sale": null,
-          "source": "research"
-        }
-      ]
-    },
     "Valhalla Plate": {
       "pb_url": "https://valhalladsp.com/shop/reverb/valhalla-plate/",
       "typical_regular": 50,
@@ -20943,38 +20456,6 @@
         {
           "date": "2026-07-11",
           "regular": 50,
-          "sale": null,
-          "source": "research"
-        }
-      ]
-    },
-    "Eventide H3000 Factory": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Eventide%20H3000%20Factory",
-      "typical_regular": 149,
-      "typical_sale": 75,
-      "all_time_low": 75,
-      "notes": "Legendary H3000 harmonizer/multi-effects emulation. Documented 'Pluginpalooza 2026' seasonal sale price $75 (50% off, production-expert.com); recurs yearly.",
-      "category": "Effects",
-      "history": [
-        {
-          "date": "2026-07-11",
-          "regular": 149,
-          "sale": null,
-          "source": "research"
-        }
-      ]
-    },
-    "Eventide Physion": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Eventide%20Physion",
-      "typical_regular": 149,
-      "typical_sale": 75,
-      "all_time_low": 75,
-      "notes": "Transient/tonal splitting processor (Physion Mk II). Documented Pluginpalooza 2026 sale price $75 (50% off).",
-      "category": "Effects",
-      "history": [
-        {
-          "date": "2026-07-11",
-          "regular": 149,
           "sale": null,
           "source": "research"
         }
@@ -21900,22 +21381,6 @@
         }
       ]
     },
-    "Cableguys Curve": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Cableguys%20Curve",
-      "typical_regular": 39,
-      "typical_sale": 20,
-      "all_time_low": null,
-      "notes": "Drawable-curve modulation effect. Same frequent-discount pattern as other Cableguys tools (price tier estimated).",
-      "category": "Effects",
-      "history": [
-        {
-          "date": "2026-07-11",
-          "regular": 39,
-          "sale": null,
-          "source": "research"
-        }
-      ]
-    },
     "Newfangled Audio EQuivocate": {
       "pb_url": "https://www.newfangledaudio.com/equivocate",
       "typical_regular": 99,
@@ -21983,54 +21448,6 @@
         }
       ],
       "image": "/images/plugin-prices/newfangled-audio-generate.jpg"
-    },
-    "GForce impOSCar 2": {
-      "pb_url": "https://www.pluginboutique.com/search?q=GForce%20impOSCar%202",
-      "typical_regular": 179,
-      "typical_sale": 89,
-      "all_time_low": null,
-      "notes": "Emulation of the OSCar synthesizer. GForce runs periodic sales similar to their OB-E pattern (price tier estimated from GForce's typical range).",
-      "category": "Synth",
-      "history": [
-        {
-          "date": "2026-07-11",
-          "regular": 179,
-          "sale": null,
-          "source": "research"
-        }
-      ]
-    },
-    "GForce M-Tron Pro": {
-      "pb_url": "https://www.pluginboutique.com/search?q=GForce%20M-Tron%20Pro",
-      "typical_regular": 149,
-      "typical_sale": 75,
-      "all_time_low": null,
-      "notes": "Mellotron emulation with expanded tape library. Periodic GForce sales, similar discount pattern to OB-E (price tier estimated).",
-      "category": "Instrument",
-      "history": [
-        {
-          "date": "2026-07-11",
-          "regular": 149,
-          "sale": null,
-          "source": "research"
-        }
-      ]
-    },
-    "GForce Oddity 2": {
-      "pb_url": "https://www.pluginboutique.com/search?q=GForce%20Oddity%202",
-      "typical_regular": 149,
-      "typical_sale": 75,
-      "all_time_low": null,
-      "notes": "ARP Odyssey emulation. Periodic GForce sales, similar discount pattern to OB-E (price tier estimated).",
-      "category": "Synth",
-      "history": [
-        {
-          "date": "2026-07-11",
-          "regular": 149,
-          "sale": null,
-          "source": "research"
-        }
-      ]
     },
     "Sonible smart:comp 3": {
       "pb_url": "/product/2-Effects/8-Compressor/16541-smart-comp-3",
@@ -23153,22 +22570,6 @@
       ],
       "image": "/images/plugin-prices/wavesfactory-spectre.jpg"
     },
-    "Wavesfactory Bass Rider": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Wavesfactory%20Bass%20Rider",
-      "typical_regular": 44,
-      "typical_sale": 22,
-      "all_time_low": null,
-      "notes": "Bass-level automation/riding utility. 35-50% off typical in sales (price tier estimated).",
-      "category": "Utility",
-      "history": [
-        {
-          "date": "2026-07-11",
-          "regular": 44,
-          "sale": null,
-          "source": "research"
-        }
-      ]
-    },
     "Klanghelm SDRR": {
       "pb_url": "https://www.pluginboutique.com/search?q=Klanghelm%20SDRR",
       "typical_regular": 27,
@@ -24208,22 +23609,6 @@
         {
           "date": "2026-07-11",
           "regular": 249,
-          "sale": null,
-          "source": "research"
-        }
-      ]
-    },
-    "Heavyocity Novo": {
-      "pb_url": "https://www.pluginboutique.com/search?q=Heavyocity%20Novo",
-      "typical_regular": 349,
-      "typical_sale": 175,
-      "all_time_low": null,
-      "notes": "Orchestral strings + modern motion engine. 40-50% off in NI partner sales and Heavyocity's own events (price tier estimated; a cut-down 'Novo Essentials' sells for $99, sale $49.50 confirmed direct).",
-      "category": "Instrument",
-      "history": [
-        {
-          "date": "2026-07-11",
-          "regular": 349,
           "sale": null,
           "source": "research"
         }
@@ -39843,195 +39228,13 @@
       "image": "/images/plugin-prices/baby-audio-smooth-operator-pro.jpg"
     },
     "Eventide H3000 Factory Mk II": {
-      "pb_url": "/product/2-Effects/91-Harmonizer/12197-H3000-Factory-Mk-II",
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/91-Harmonizer/12197-H3000-Factory-Mk-II",
       "typical_regular": 149,
-      "typical_sale": 75,
-      "all_time_low": 75,
-      "notes": "Auto-discovered 2026-07-17 / auto-crawl 2026-08-30",
-      "history": [
-        {
-          "date": "2024-06-07",
-          "regular": 231.47,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-08-11",
-          "regular": 199,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-01-14",
-          "regular": 199,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-18",
-          "regular": 79,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-05-03",
-          "regular": 199,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-06-23",
-          "regular": 79,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-07-16",
-          "regular": 79,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2026-07-17",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-20",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-23",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-26",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-07-31",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-08-04",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-08-08",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-08-12",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-08-16",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-08-20",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-08-25",
-          "regular": 149,
-          "sale": 75,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-08-30",
-          "regular": 149,
-          "sale": 75,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-08-30",
-          "regular": 149,
-          "sale": 75,
-          "source": "pb_crawl"
-        },
-        {
-          "date": "2026-09-01",
-          "sale": 75,
-          "regular": 149,
-          "source": "pb_deals_poll"
-        },
-        {
-          "date": "2026-09-02",
-          "sale": 75,
-          "regular": 149,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-03",
-          "sale": 75,
-          "regular": 149,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-04",
-          "regular": 149,
-          "sale": 75,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-09",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-09",
-          "regular": 149,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
-        },
-        {
-          "date": "2026-09-14",
-          "regular": null,
-          "sale": null,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
-        }
-      ],
-      "category": null,
-      "image": "/images/plugin-prices/eventide-h3000-factory-mk-ii.jpg"
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Effects"
     },
     "Eventide ShimmerVerb": {
       "pb_url": "/product/2-Effects/17-Reverb/6656-ShimmerVerb",
@@ -67393,6 +66596,213 @@
         }
       ],
       "image": "/images/plugin-prices/virtual-drummer-2-bundle.jpg"
+    },
+    "FabFilter Pro-C 3": {
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3",
+      "typical_regular": 199,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Compressor"
+    },
+    "iZotope Ozone 12 Standard": {
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard",
+      "typical_regular": 219,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Mastering"
+    },
+    "iZotope Ozone 12 Elements": {
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15508-Ozone-12-Elements",
+      "typical_regular": 55,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Mastering"
+    },
+    "iZotope Trash": {
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/30-Distortion/11987-Trash",
+      "typical_regular": 99,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Saturation"
+    },
+    "iZotope Tonal Balance Control 3": {
+      "pb_url": "https://www.pluginboutique.com/product/3-Studio-Tools/79-Metering/16973-Tonal-Balance-Control-3",
+      "typical_regular": 129,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Utility"
+    },
+    "Arturia CS-80 V4": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10610-CS-80-V4",
+      "typical_regular": 149,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Synth"
+    },
+    "Arturia Piano V3": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10611-Piano-V3",
+      "typical_regular": 199,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Instrument"
+    },
+    "Arturia Analog Lab Pro": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7149-Analog-Lab-Pro",
+      "typical_regular": 199,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Synth"
+    },
+    "Arturia Prophet-5 V": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11232-Prophet-5-V",
+      "typical_regular": 149,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要) (Prophet-VS Vという別モデルも存在するが、本流のProphet-5 Vを採用)",
+      "history": [],
+      "category": "Synth"
+    },
+    "Native Instruments Action Strings 2": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16355-Action-Strings-2",
+      "typical_regular": 299,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Instrument"
+    },
+    "UVI World Suite 3": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3",
+      "typical_regular": 299,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Instrument"
+    },
+    "Slate Digital FG-X 2": {
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15794-FG-X-2",
+      "typical_regular": 149,
+      "typical_sale": 74.5,
+      "all_time_low": 74.5,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Mastering"
+    },
+    "Eventide Physion Mk II": {
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/9621-Physion-Mk-II",
+      "typical_regular": 149,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Effects"
+    },
+    "Cableguys Curve 2": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/632-Curve-2",
+      "typical_regular": 129,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Effects"
+    },
+    "GForce impOSCar3": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/12272-impOSCar3",
+      "typical_regular": 119.99,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Synth"
+    },
+    "GForce M-Tron Pro IV": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/12023-M-Tron-Pro-IV",
+      "typical_regular": 149.99,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Instrument"
+    },
+    "GForce Oddity3": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/12027-Oddity3",
+      "typical_regular": 119.99,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Synth"
+    },
+    "Softube Tube-Tech CL 1B Mk II": {
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/11535-Tube-Tech-CL-1B-Mk-II",
+      "typical_regular": 199,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Compressor"
+    },
+    "iZotope Nectar 4 Standard": {
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/11117-Nectar-4-Standard",
+      "typical_regular": 199,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Vocal"
+    },
+    "XLN Audio Addictive Drums 2 Custom": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8236-Addictive-Drums-2-Custom-Collection",
+      "typical_regular": 179,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Drums"
+    },
+    "Waves PuigTec EQs": {
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/13694-PuigTec-EQs",
+      "typical_regular": 149,
+      "typical_sale": 35.0,
+      "all_time_low": 35.0,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要) (EQP-1A単体売りはなくEQP-1A+MEQ-5のセット売りのみのため製品名を変更)",
+      "history": [],
+      "category": "EQ"
+    },
+    "Heavyocity Novo Modern Strings": {
+      "pb_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/3262-NOVO-Modern-Strings",
+      "typical_regular": 549,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要)",
+      "history": [],
+      "category": "Instrument"
+    },
+    "Waves Bass Rider": {
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13661-Bass-Rider",
+      "typical_regular": 99,
+      "typical_sale": 35.0,
+      "all_time_low": 35.0,
+      "notes": "(旧版からのリネーム。価格データは2026-09-20にPBで確認した現行版の実売価格。継続観測が必要) (ブランド表記の誤り修正: 実際はWavesfactoryではなくWavesの製品)",
+      "history": [],
+      "category": "Utility"
     }
   }
 }
