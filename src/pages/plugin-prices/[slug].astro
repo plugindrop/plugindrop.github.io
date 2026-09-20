@@ -162,7 +162,7 @@ function buildVerdictCopy(e: EntryData, vLabel: string): string {
   const N = salePrices.length;
   const histLow = e.all_time_low ?? (N > 0 ? Math.min(...salePrices) : null);
   const cur = currentPrice(e);
-  const reg = e.typical_regular;
+  const reg = regularPriceOf(e);
   if (!N) return `We've never recorded a discount on ${name}.`;
   const s1 = histLow !== null
     ? `${name} has sold for $${histLow} in ${N} recorded sale event${N === 1 ? '' : 's'}.`
