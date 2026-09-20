@@ -1,7 +1,7 @@
 ---
 title: '[Auburn Sounds] Get 60% off Selene by Auburn Sounds for $14.99 (Normally $38.67).
   Expiry: April 16th [Affiliate Link]'
-description: Selene by Auburn Sounds is 60% off right now — ~~$38.67~~ **$14.99**
+description: Selene by Auburn Sounds is 60% off right now — $38.67 $14.99
   for the Full Edition of this versatile algorithmic reverb. The deal runs until April...
 pubDate: '2026-04-03T12:38:20Z'
 tags: ["sale", "auburn sounds", "music-production"]

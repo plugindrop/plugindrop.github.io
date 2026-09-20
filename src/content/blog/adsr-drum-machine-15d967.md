@@ -1,6 +1,6 @@
 ---
 title: "ADSR Drum Machine — Studio-Ready Drum Kits ($49)"
-description: "ADSR Drum Machine is on sale for **$49** at ADSR Sounds. Regular pricing wasn't listed in this deal alert, so verify the current list price on the product..."
+description: "ADSR Drum Machine is on sale for $49 at ADSR Sounds. Regular pricing wasn't listed in this deal alert, so verify the current list price on the product..."
 pubDate: "2026-07-29T17:03:26Z"
 tags: ["sale", "vst-plugin", "drums", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/software/adsr-drum-machine/?a_aid=plugindrop&data1=adsr-drum-machine-15d967&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-drum-machine-15d967"

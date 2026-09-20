@@ -1,6 +1,6 @@
 ---
 title: "60% Off Drum Machine Collection"
-description: "Save 60% on the Roland \"Drum Machine Collection\" — a bundle of iconic drum machines including the TR-808, TR-606, TR-909, TR-707, and TR-727. ~~$499~~ now..."
+description: "Save 60% on the Roland \"Drum Machine Collection\" — a bundle of iconic drum machines including the TR-808, TR-606, TR-909, TR-707, and TR-727. $499 now..."
 pubDate: "2026-09-01T15:09:07Z"
 tags: ["sale", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Drum+Machine+Collection&a_aid=69cb95abe1763&chan=trk&data1=drum-machine-collection-c8ab7a&utm_source=plugindrop&utm_medium=article&utm_campaign=drum-machine-collection-c8ab7a"

@@ -1,6 +1,6 @@
 ---
 title: "50% Off Wa Production What About Primal Techno Rave Hard Techno"
-description: "Wa Production's \"What About: Primal Techno, Rave, Hard Techno\" preset pack for Serum is ~~$29.9~~ $10 at ADSR Sounds, a 50% cut from list price. It's a..."
+description: "Wa Production's \"What About: Primal Techno, Rave, Hard Techno\" preset pack for Serum is $29.9 $10 at ADSR Sounds, a 50% cut from list price. It's a..."
 pubDate: "2026-09-08T15:59:29Z"
 tags: ["sale", "preset-pack", "serum", "synth", "sample-pack", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/wa-production-what-about-primal-techno-rave-hard-techno-sample-pack-serum-presets/?a_aid=plugindrop&data1=wa-production-what-about-primal-techno-rave-hard-techno-samp&utm_source=plugindrop&utm_medium=article&utm_campaign=wa-production-what-about-primal-techno-rave-hard-techno-samp"

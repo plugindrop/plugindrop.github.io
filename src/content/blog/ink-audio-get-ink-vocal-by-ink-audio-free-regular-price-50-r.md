@@ -1,6 +1,6 @@
 ---
 title: "Ink Audio — Get Ink Vocal by Ink Audio free. Regular price $50. Requires the full retail version of Kontakt 5 or higher for Windows or Mac. [FREE]"
-description: "Ink Vocal by Ink Audio is available completely free right now — that's ~~$50~~ $0. Grab it while the deal is live at audioplugin.deals. You'll need the..."
+description: "Ink Vocal by Ink Audio is available completely free right now — that's $50 $0. Grab it while the deal is live at audioplugin.deals. You'll need the..."
 pubDate: "2026-06-08T16:08:23Z"
 tags: ["free", "ink audio", "music-production"]
 affiliate: "https://audioplugin.deals/product/ink-vocal-by-ink-audio/ref/21/"

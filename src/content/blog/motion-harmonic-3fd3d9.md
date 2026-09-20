@@ -1,6 +1,6 @@
 ---
 title: "63% Off Motion Harmonic"
-description: "Motion Harmonic is down to **$29** (was ~~$79~~) at Plugin Boutique — that's 63% off a harmonic distortion and motion design plugin built for producers..."
+description: "Motion Harmonic is down to $29 (was $79) at Plugin Boutique — that's 63% off a harmonic distortion and motion design plugin built for producers..."
 pubDate: "2026-06-04T23:50:33Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/30-Distortion/10435-Motion-Harmonic?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=motion-harmonic-3fd3d9&chan=art&data1=motion-harmonic-3fd3d9"

@@ -1,6 +1,6 @@
 ---
 title: "EastWest Sounds — Get 70% off EastWest Gypsy + Hollywood Fantasy Voices for $59 (Normally $199)"
-description: "EastWest Gypsy + Hollywood Fantasy Voices is available as a bundle for **$59** (~~$199~~) — a 70% discount on two cinematic sample libraries from one of..."
+description: "EastWest Gypsy + Hollywood Fantasy Voices is available as a bundle for $59 ($199) — a 70% discount on two cinematic sample libraries from one of..."
 pubDate: "2026-05-11T05:24:23Z"
 tags: ["eastwest sounds", "music-production"]
 affiliate: "https://audioplugin.deals/product/eastwest-gypsy/ref/21/"

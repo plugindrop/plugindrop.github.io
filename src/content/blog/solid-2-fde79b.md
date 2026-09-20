@@ -1,6 +1,6 @@
 ---
 title: "92% Off SOLID 2 — Virtual Instrument for Faster Workflows ($9)"
-description: "SOLID 2 is currently listed at Plugin Boutique for $9.00, down from ~~$119.00~~ — a 92% discount. It's filed under Plugin Boutique's Virtual Instruments..."
+description: "SOLID 2 is currently listed at Plugin Boutique for $9.00, down from $119.00 — a 92% discount. It's filed under Plugin Boutique's Virtual Instruments..."
 pubDate: "2026-08-29T15:46:43Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=SOLID+2&a_aid=69cb95abe1763&chan=art&data1=solid-2-fde79b&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-2-fde79b"

@@ -1,6 +1,6 @@
 ---
 title: "50% Off Rave Generation VA-1000 — Rave Synth Sounds ($74.33)"
-description: "Rave Generation VA-1000 is currently 50% off at PluginFox: ~~$148.66~~ **$74.33**, a saving of **$74.33**. It is a 16-voice virtual-analog synth with..."
+description: "Rave Generation VA-1000 is currently 50% off at PluginFox: $148.66 $74.33, a saving of $74.33. It is a 16-voice virtual-analog synth with..."
 pubDate: "2026-09-02T18:05:49Z"
 tags: ["vst-plugin", "pluginfox", "sale", "music-production"]
 affiliate: "https://pluginfox.com/products/rave-generation-va-1000?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=rave-generation-va-1000-218077"

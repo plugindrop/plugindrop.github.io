@@ -1,6 +1,6 @@
 ---
 title: "34% Off KORG Collection 6 Upgrade from KORG Collection 4"
-description: "KORG Collection 6 Upgrade from Collection 4 is currently **$99.00** (~~$149.00~~) at Plugin Boutique — a 34% discount that saves you $50 on the upgrade..."
+description: "KORG Collection 6 Upgrade from Collection 4 is currently $99.00 ($149.00) at Plugin Boutique — a 34% discount that saves you $50 on the upgrade..."
 pubDate: "2026-06-30T10:30:46Z"
 saleExpiry: "2026-08-28"
 tags: ["sale", "effects", "bundle", "music-production"]

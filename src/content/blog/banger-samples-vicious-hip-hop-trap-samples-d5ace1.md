@@ -1,6 +1,6 @@
 ---
 title: "40% Off Banger Samples Vicious Hip Hop Trap Samples"
-description: "ADSR Sounds has Banger Samples' *Vicious Hip Hop Trap Samples* pack marked down to **$11.4** from ~~$19~~ — a 40% discount on a ready-to-use trap sample..."
+description: "ADSR Sounds has Banger Samples' *Vicious Hip Hop Trap Samples* pack marked down to $11.4 from $19 — a 40% discount on a ready-to-use trap sample..."
 pubDate: "2026-07-08T17:51:03Z"
 tags: ["sale", "preset-pack", "sample-pack-deal", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/banger-samples-vicious-hip-hop-trap-samples/?a_aid=plugindrop&data1=banger-samples-vicious-hip-hop-trap-samples-d5ace1&utm_source=plugindrop&utm_medium=article&utm_campaign=banger-samples-vicious-hip-hop-trap-samples-d5ace1"

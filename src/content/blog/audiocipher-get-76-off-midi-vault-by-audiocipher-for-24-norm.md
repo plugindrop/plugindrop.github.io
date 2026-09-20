@@ -1,6 +1,6 @@
 ---
 title: "AudioCipher — Get 76% off MIDI Vault by AudioCipher for $24 (Normally $99.99)"
-description: "MIDI Vault by AudioCipher is down to **$24** — that's 76% off the regular ~~$99.99~~ price. If you've been building your MIDI library piecemeal, this is a..."
+description: "MIDI Vault by AudioCipher is down to $24 — that's 76% off the regular $99.99 price. If you've been building your MIDI library piecemeal, this is a..."
 pubDate: "2026-06-05T12:49:42Z"
 tags: ["audiocipher", "music-production"]
 affiliate: "https://audioplugin.deals/product/midi-vault-by-audiocipher/ref/21/"

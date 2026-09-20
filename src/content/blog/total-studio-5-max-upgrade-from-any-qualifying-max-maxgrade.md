@@ -1,6 +1,6 @@
 ---
 title: "67% Off Total Studio 5 MAX — Upgrade Production Suite ($99.99)"
-description: "Owners of a qualifying Total Studio MAX version can upgrade to Total Studio 5 MAX for $99.99, down from ~~$299.99~~. That's 67% off the regular upgrade..."
+description: "Owners of a qualifying Total Studio MAX version can upgrade to Total Studio 5 MAX for $99.99, down from $299.99. That's 67% off the regular upgrade..."
 pubDate: "2026-08-07T15:46:18Z"
 tags: ["sale", "bundle", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Total+Studio+5+MAX+Upgrade+from+any+qualifying+MAX+MAXgrade&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-studio-5-max-upgrade-from-any-qualifying-max-maxgrade"

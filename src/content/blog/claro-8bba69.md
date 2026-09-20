@@ -1,6 +1,6 @@
 ---
 title: "76% Off Claro"
-description: "Claro is currently **$32** (~~$134~~) on Plugin Boutique — a 76% discount that cuts over $100 off the regular price. Sales this steep on professional EQ..."
+description: "Claro is currently $32 ($134) on Plugin Boutique — a 76% discount that cuts over $100 off the regular price. Sales this steep on professional EQ..."
 pubDate: "2026-06-10T04:37:44Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/16-EQ/8182-Claro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=claro-8bba69&chan=art&data1=claro-8bba69"

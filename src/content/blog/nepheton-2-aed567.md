@@ -1,6 +1,6 @@
 ---
 title: "59% Off Nepheton 2 — Analog Synth Emulation for Kontakt ($49)"
-description: "Nepheton 2 is discounted to $49 from ~~$119~~ at Plugin Boutique, a 59% cut that saves $70. It's a Kontakt-powered instrument built around an analog-style..."
+description: "Nepheton 2 is discounted to $49 from $119 at Plugin Boutique, a 59% cut that saves $70. It's a Kontakt-powered instrument built around an analog-style..."
 pubDate: "2026-08-08T15:22:44Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Nepheton+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=nepheton-2-aed567"

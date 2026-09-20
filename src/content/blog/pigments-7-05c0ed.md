@@ -1,6 +1,6 @@
 ---
 title: "35% Off Pigments 7 — Wavetable Synth for Sound Design ($129)"
-description: "Arturia's Pigments 7 is discounted 35% at Plugin Boutique, dropping from ~~$199~~ to $129 — a $70 savings. It's a multi-engine software synth built for..."
+description: "Arturia's Pigments 7 is discounted 35% at Plugin Boutique, dropping from $199 to $129 — a $70 savings. It's a multi-engine software synth built for..."
 pubDate: "2026-07-21T17:26:04Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pigments-7-05c0ed&chan=art&data1=pigments-7-05c0ed"

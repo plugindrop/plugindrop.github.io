@@ -1,8 +1,8 @@
 ---
 title: '[Sonora Cinematic] Sonora Cinematic Spring Sale - Up to 40% Off Kontakt &
   Soundbox Instruments. Expiry: May 5th'
-description: Sonora Cinematic's Spring Sale knocks **up to 40% off** their Kontakt
-  Player and Soundbox instrument libraries — plus you get a **free instrument** with...
+description: Sonora Cinematic's Spring Sale knocks up to 40% off their Kontakt
+  Player and Soundbox instrument libraries — plus you get a free instrument with...
 pubDate: '2026-04-02T13:21:11Z'
 tags: ["sale", "sonora cinematic", "music-production"]
 affiliate: https://sonoracinematic.com/collections/all

@@ -1,6 +1,6 @@
 ---
 title: "Sylenth1 EDM Workstation — Synth Presets for Producers ($22.99)"
-description: "Sylenth1 EDM Workstation is available at ADSR Sounds for **$22.99**. ADSR has not listed a separate original price for this specific bundle, so treat the..."
+description: "Sylenth1 EDM Workstation is available at ADSR Sounds for $22.99. ADSR has not listed a separate original price for this specific bundle, so treat the..."
 pubDate: "2026-07-19T15:50:16Z"
 tags: ["sale", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/sylenth/sylenth1-edm-workstation/?a_aid=plugindrop&data1=sylenth1-edm-workstation-014b95&utm_source=plugindrop&utm_medium=article&utm_campaign=sylenth1-edm-workstation-014b95"

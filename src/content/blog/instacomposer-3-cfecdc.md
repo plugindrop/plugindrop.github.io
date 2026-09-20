@@ -1,6 +1,6 @@
 ---
 title: "66% Off InstaComposer 3 — AI-Assisted MIDI Composition Tool ($40)"
-description: "InstaComposer 3, the AI-driven chord and melody generation plugin from XHUN Audio, is ~~$119~~ $40 at Plugin Boutique — a 66% discount. If you write or..."
+description: "InstaComposer 3, the AI-driven chord and melody generation plugin from XHUN Audio, is $119 $40 at Plugin Boutique — a 66% discount. If you write or..."
 pubDate: "2026-08-03T17:27:07Z"
 tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=InstaComposer+3&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-3-cfecdc"

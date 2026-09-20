@@ -1,6 +1,6 @@
 ---
 title: "Bunker Samples — Bunker Samples release Viola-Moto for Soundbox with 33% intro discount"
-description: "Bunker Samples has launched Viola-Moto — a dedicated viola instrument for Soundbox — at an intro price of **$19** (~~$39~~), saving you $20 during the..."
+description: "Bunker Samples has launched Viola-Moto — a dedicated viola instrument for Soundbox — at an intro price of $19 ($39), saving you $20 during the..."
 pubDate: "2026-05-05T20:31:23Z"
 tags: ["bunker samples", "music-production"]
 affiliate: "https://bunkersamples.com/viola-moto/"

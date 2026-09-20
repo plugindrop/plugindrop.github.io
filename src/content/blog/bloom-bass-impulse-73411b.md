@@ -1,6 +1,6 @@
 ---
 title: "34% Off Bloom Bass Impulse"
-description: "Bloom Bass Impulse is currently 34% off at Plugin Boutique — drop from ~~$59.00~~ to just $39.00, saving you $20.00. That's a meaningful cut for a..."
+description: "Bloom Bass Impulse is currently 34% off at Plugin Boutique — drop from $59.00 to just $39.00, saving you $20.00. That's a meaningful cut for a..."
 pubDate: "2026-05-20T05:43:59Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11968-Bloom-Bass-Impulse?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-bass-impulse-73411b&chan=art&data1=bloom-bass-impulse-73411b"

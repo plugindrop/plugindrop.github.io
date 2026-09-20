@@ -1,6 +1,6 @@
 ---
 title: "Reverb Machine — Get 74% off Synth Icons Bundle by Reverb Machine for $39 (Normally $150)"
-description: "Reverb Machine's Synth Icons Bundle is **74% off** right now — just **$39** instead of the usual ~~$150~~. That's $111 in savings on a multi-instrument..."
+description: "Reverb Machine's Synth Icons Bundle is 74% off right now — just $39 instead of the usual $150. That's $111 in savings on a multi-instrument..."
 pubDate: "2026-06-04T12:44:49Z"
 tags: ["reverb machine", "bundle", "synth", "music-production"]
 affiliate: "https://audioplugin.deals/product/synth-icons-bundle-by-reverb-machine/ref/21/"

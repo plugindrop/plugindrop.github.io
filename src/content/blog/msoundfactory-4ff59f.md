@@ -1,6 +1,6 @@
 ---
 title: "59% Off MSoundFactory"
-description: "MSoundFactory by Meldaproduction is currently **59% off** at Plugin Boutique — dropping from ~~$329~~ to just **$135**. That's nearly $194 in savings on..."
+description: "MSoundFactory by Meldaproduction is currently 59% off at Plugin Boutique — dropping from $329 to just $135. That's nearly $194 in savings on..."
 pubDate: "2026-06-08T14:43:14Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/6076-MSoundFactory?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=msoundfactory-4ff59f&chan=art&data1=msoundfactory-4ff59f"

@@ -1,6 +1,6 @@
 ---
 title: "60% Off Xtreme FX 2 — Creative Sound Design Effects ($59)"
-description: "Xtreme FX 2 is down to $59.00 from ~~$149.00~~ at Plugin Boutique, a 60% discount. It's a multi-effect plugin aimed at producers who need fast transition..."
+description: "Xtreme FX 2 is down to $59.00 from $149.00 at Plugin Boutique, a 60% discount. It's a multi-effect plugin aimed at producers who need fast transition..."
 pubDate: "2026-08-12T15:57:35Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Xtreme+FX+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=xtreme-fx-2-a97fda"

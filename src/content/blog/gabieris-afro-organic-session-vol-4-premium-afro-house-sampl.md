@@ -1,6 +1,6 @@
 ---
 title: "40% Off Gabieris Afro Organic Session Vol 4 Premium Afro House Sample Pack"
-description: "Gabieris Afro Organic Session Vol 4 is currently 40% off at ADSR Sounds — down from ~~$55~~ to **$33**, saving you $22 on a premium Afro House sample pack..."
+description: "Gabieris Afro Organic Session Vol 4 is currently 40% off at ADSR Sounds — down from $55 to $33, saving you $22 on a premium Afro House sample pack..."
 pubDate: "2026-06-18T04:41:25Z"
 tags: ["sale", "preset-pack", "sample-pack-deal", "sample-pack", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/gabieris-afro-organic-session-vol-4-premium-afro-house-sample-pack/?a_aid=plugindrop&data1=gabieris-afro-organic-session-vol-4-premium-afro-house-sampl&utm_source=plugindrop&utm_medium=article&utm_campaign=gabieris-afro-organic-session-vol-4-premium-afro-house-sampl"

@@ -1,6 +1,6 @@
 ---
 title: "51% Off Fluid Chords 2"
-description: "Fluid Chords 2, the MIDI chord generator plugin from Devious Machines, is currently ~~$99~~ **$49** at Plugin Boutique — a 51% discount. If you've been..."
+description: "Fluid Chords 2, the MIDI chord generator plugin from Devious Machines, is currently $99 $49 at Plugin Boutique — a 51% discount. If you've been..."
 pubDate: "2026-07-10T14:27:38Z"
 tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15093-Fluid-Chords-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-chords-2-4fd4e1&chan=art&data1=fluid-chords-2-4fd4e1"

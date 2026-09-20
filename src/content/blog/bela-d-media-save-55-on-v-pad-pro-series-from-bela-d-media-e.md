@@ -1,6 +1,6 @@
 ---
 title: "Bela D Media — Save 55% on V Pad Pro Series from Bela D Media"
-description: "Bela D Media is offering 55% off the V Pad Pro Series — but the window is tight. The deal expires **May 6th**, which means you have roughly 48 hours to..."
+description: "Bela D Media is offering 55% off the V Pad Pro Series — but the window is tight. The deal expires May 6th, which means you have roughly 48 hours to..."
 pubDate: "2026-05-04T08:29:53Z"
 tags: ["bela d media", "music-production"]
 affiliate: "https://beladmedia.com/vpadpro-sale/"

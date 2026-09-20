@@ -1,6 +1,6 @@
 ---
 title: "2B Played — Download the updated SLIMVERB from 2B Played Music for FREE with coupon code: MAY26 at checkout. [FREE]"
-description: "SLIMVERB from 2B Played Music is currently priced down from ~~$55~~ to $24.75 — and with coupon code **MAY26** at checkout, it drops all the way to..."
+description: "SLIMVERB from 2B Played Music is currently priced down from $55 to $24.75 — and with coupon code MAY26 at checkout, it drops all the way to..."
 pubDate: "2026-05-05T05:33:45Z"
 tags: ["free", "2b played", "music-production"]
 affiliate: "https://2bplayed.com/product/slimverb/"

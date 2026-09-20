@@ -1,6 +1,6 @@
 ---
 title: "2B Played — Download QFX Color from 2B Played Music for free with code: JUNE26 at checkout. [FREE]"
-description: "QFX Color from 2B Played Music is going for free — normally ~~$69~~, currently $29, and dropping to **$0** with code **JUNE26** at checkout. Offer expires..."
+description: "QFX Color from 2B Played Music is going for free — normally $69, currently $29, and dropping to $0 with code JUNE26 at checkout. Offer expires..."
 pubDate: "2026-06-03T15:02:27Z"
 tags: ["free", "2b played", "music-production"]
 affiliate: "https://2bplayed.com/shop/"

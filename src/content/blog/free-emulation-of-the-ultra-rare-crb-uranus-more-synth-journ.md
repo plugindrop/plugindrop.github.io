@@ -1,6 +1,6 @@
 ---
 title: "Free Emulation of the Ultra-Rare CRB Uranus & More: S…"
-description: "This week's Synth Journal roundup from Gearnews spotlights a **free emulation of the ultra-rare CRB Uranus synthesizer** — a $0 download, no catch. The..."
+description: "This week's Synth Journal roundup from Gearnews spotlights a free emulation of the ultra-rare CRB Uranus synthesizer — a $0 download, no catch. The..."
 pubDate: "2026-07-09T16:36:15Z"
 tags: ["columns", "dii-one", "editor", "eurorack", "free", "librarian", "metamodule", "midi", "midi interface", "modular", "synth", "music-production"]
 affiliate: "https://www.thomann.de/intl/4ms_meta_module.htm?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=free-emulation-of-the-ultra-rare-crb-uranus-more-synth-journ"

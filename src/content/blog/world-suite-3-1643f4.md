@@ -1,6 +1,6 @@
 ---
 title: "50% Off World Suite 3 — 12 Instruments for Producers ($149)"
-description: "World Suite 3 is currently ~~$299~~ **$149** at Plugin Boutique, a 50% discount on this 12-instrument world/ethnic instrument collection. That works out..."
+description: "World Suite 3 is currently $299 $149 at Plugin Boutique, a 50% discount on this 12-instrument world/ethnic instrument collection. That works out..."
 pubDate: "2026-08-28T13:18:25Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=World+Suite+3&a_aid=69cb95abe1763&chan=art&data1=world-suite-3-1643f4&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4"

@@ -1,6 +1,6 @@
 ---
 title: "60% Off HALion 7 — Advanced Sound Design Workstation ($140)"
-description: "Steinberg's flagship sampler-synth workstation, HALion 7, is down to $140 from ~~$349.99~~ at Plugin Boutique — a $209.99 saving. Get HALion 7 at Plugin..."
+description: "Steinberg's flagship sampler-synth workstation, HALion 7, is down to $140 from $349.99 at Plugin Boutique — a $209.99 saving. Get HALion 7 at Plugin..."
 pubDate: "2026-08-06T14:36:53Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=HALion+7&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=halion-7-3e1300"

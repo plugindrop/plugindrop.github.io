@@ -1,6 +1,6 @@
 ---
 title: "97% Off Deluxe Vocal Bundle"
-description: "The Deluxe Vocal Bundle is currently $9.90 at Plugin Boutique — down from ~~$284.34~~. That's a 97% discount on a collection of premium vocal processing..."
+description: "The Deluxe Vocal Bundle is currently $9.90 at Plugin Boutique — down from $284.34. That's a 97% discount on a collection of premium vocal processing..."
 pubDate: "2026-05-20T23:43:02Z"
 tags: ["sale", "vocal", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/7073-Deluxe-Vocal-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=deluxe-vocal-bundle-d3f766&chan=art&data1=deluxe-vocal-bundle-d3f766"

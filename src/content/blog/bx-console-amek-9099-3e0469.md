@@ -1,6 +1,6 @@
 ---
 title: "78% Off bx console AMEK 9099 — Neve-Style Channel Strip ($49)"
-description: "Plugin Boutique has the bx console AMEK 9099 at 78% off its ~~$224~~ regular price, bringing it down to roughly $49.28. That's one of the steeper..."
+description: "Plugin Boutique has the bx console AMEK 9099 at 78% off its $224 regular price, bringing it down to roughly $49.28. That's one of the steeper..."
 pubDate: "2026-09-15T15:44:22Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=bx+console+AMEK+9099&a_aid=69cb95abe1763&chan=art&data1=bx-console-amek-9099-3e0469&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469"

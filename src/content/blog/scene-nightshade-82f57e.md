@@ -1,6 +1,6 @@
 ---
 title: "32% Off Scene Nightshade"
-description: "Scene Nightshade is currently 32% off at Plugin Boutique — drop from ~~$28.00~~ to just **$19.00**. That's a solid saving on a Kontakt instrument built..."
+description: "Scene Nightshade is currently 32% off at Plugin Boutique — drop from $28.00 to just $19.00. That's a solid saving on a Kontakt instrument built..."
 pubDate: "2026-06-01T13:12:08Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15845-Scene-Nightshade?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scene-nightshade-82f57e&chan=art&data1=scene-nightshade-82f57e"

@@ -1,6 +1,6 @@
 ---
 title: "UVI — UVI has released Orchestral Suite 2 symphonic orchestra library for Falcon and the free UVI Workstation. The intro is 35% off"
-description: "UVI's newly launched Orchestral Suite 2 symphonic library is on intro sale for ~~$199~~ **$129** — that's 35% off, saving you $70. The discount runs until..."
+description: "UVI's newly launched Orchestral Suite 2 symphonic library is on intro sale for $199 $129 — that's 35% off, saving you $70. The discount runs until..."
 pubDate: "2026-05-13T05:39:52Z"
 tags: ["free", "uvi", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=orchestral%20suite%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-has-released-orchestral-suite-2-symphonic-orchestra-&chan=art&data1=uvi-uvi-has-released-orchestral-suite-2-symphonic-orchestra-"

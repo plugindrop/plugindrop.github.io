@@ -1,6 +1,6 @@
 ---
 title: "News: Universal Audio launches new UAD Enigmatic ’82 Overdrive Special Amp native plugin"
-description: "Universal Audio has launched the UAD Enigmatic '82 Overdrive Special Amp at **$49** — a new native plug-in modeled on the circuit of a coveted D-style..."
+description: "Universal Audio has launched the UAD Enigmatic '82 Overdrive Special Amp at $49 — a new native plug-in modeled on the circuit of a coveted D-style..."
 pubDate: "2026-05-04T12:40:50Z"
 tags: ["amps", "cabs", "guitar", "modeling", "native", "overdrive", "subscription", "uad", "music-production"]
 affiliate: "https://www.uaudio.com/products/enigmatic-82-overdrive-special?utm_source=plugindrop&utm_medium=article&utm_campaign=news-universal-audio-launches-new-uad-enigmatic-82-overdrive"

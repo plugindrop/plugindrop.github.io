@@ -1,6 +1,6 @@
 ---
 title: 'News: Plugin Alliance Launches bx_tonebox Creative Multi-Effect Plugin'
-description: Plugin Alliance has just launched **bx_tonebox**, a new creative multi-effect
+description: Plugin Alliance has just launched bx_tonebox, a new creative multi-effect
   plugin from the brainworx team. Whether you're after a launch intro price or...
 pubDate: '2026-04-14T11:44:00Z'
 tags: ["sale", "compressor", "creative", "deals", "effects", "midside", "modular", "multi-effect", "plugin alliance", "plugin alliance bx_tonebox", "music-production"]

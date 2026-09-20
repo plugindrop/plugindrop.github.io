@@ -1,6 +1,6 @@
 ---
 title: "MAAT — MAAT offer 30% off thEQorange with code 30-PERCENT-EQO-2026"
-description: "MAAT's thEQorange is currently **$119** (down from ~~$589~~) — a major discount on a professional-grade precision EQ plugin. Apply code..."
+description: "MAAT's thEQorange is currently $119 (down from $589) — a major discount on a professional-grade precision EQ plugin. Apply code..."
 pubDate: "2026-05-22T07:21:31Z"
 tags: ["maat", "music-production"]
 affiliate: "https://www.maat.digital/theqorange/"

@@ -1,6 +1,6 @@
 ---
 title: "40% Off StageOne 2"
-description: "StageOne 2 is currently 40% off at Plugin Boutique — down from ~~$249.00~~ to **$149.40**, saving you nearly $100 on a dedicated stereo width and spatial..."
+description: "StageOne 2 is currently 40% off at Plugin Boutique — down from $249.00 to $149.40, saving you nearly $100 on a dedicated stereo width and spatial..."
 pubDate: "2026-07-01T01:28:55Z"
 saleExpiry: "2026-08-28"
 tags: ["sale", "vst-plugin", "effects", "music-production"]

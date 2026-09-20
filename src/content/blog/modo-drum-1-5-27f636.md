@@ -1,6 +1,6 @@
 ---
 title: "80% Off MODO DRUM 1.5 — Drum Synthesis for Producers ($39.99)"
-description: "IK Multimedia's MODO DRUM is currently ~~$199.99~~ **$39.99** at Plugin Boutique, an 80% discount on the physically modeled drum instrument. If you've..."
+description: "IK Multimedia's MODO DRUM is currently $199.99 $39.99 at Plugin Boutique, an 80% discount on the physically modeled drum instrument. If you've..."
 pubDate: "2026-08-21T03:17:35Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "drums", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=MODO+DRUM+1+5&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-drum-1-5-27f636"

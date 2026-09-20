@@ -1,6 +1,6 @@
 ---
 title: "OST Audio — Get 90% off Synthwave Collection v5 by OST Audio for $59 (Normally $599)"
-description: "OST Audio is offering Synthwave Collection v5 at **90% off** — just $59 instead of ~~$599~~. That's a rare, deep-discount window on a comprehensive..."
+description: "OST Audio is offering Synthwave Collection v5 at 90% off — just $59 instead of $599. That's a rare, deep-discount window on a comprehensive..."
 pubDate: "2026-05-06T12:55:33Z"
 tags: ["ost audio", "bundle", "synth", "music-production"]
 affiliate: "https://audioplugin.deals/product/synthwave-collection-v5-by-ost-audio/ref/21/"

@@ -1,6 +1,6 @@
 ---
 title: "Sonic Nomad — Get 85% off Cheap Keys by Sonic Nomad for $15 (Normally $99)"
-description: "Sonic Nomad's Cheap Keys is currently 85% off — just $15 instead of the usual ~~$99~~. The deal runs until May 21st, making this a solid window for..."
+description: "Sonic Nomad's Cheap Keys is currently 85% off — just $15 instead of the usual $99. The deal runs until May 21st, making this a solid window for..."
 pubDate: "2026-05-08T11:37:46Z"
 tags: ["sonic nomad", "music-production"]
 affiliate: "https://audioplugin.deals/product/cheap-keys-by-sonic-nomad/ref/21/"

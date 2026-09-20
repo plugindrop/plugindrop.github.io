@@ -1,6 +1,6 @@
 ---
 title: "Massive Basstones Massive Presets"
-description: "Massive Basstones is a dedicated bass preset pack for Native Instruments Massive, available now at ADSR Sounds for **$22** — verify original pricing on..."
+description: "Massive Basstones is a dedicated bass preset pack for Native Instruments Massive, available now at ADSR Sounds for $22 — verify original pricing on..."
 pubDate: "2026-05-21T05:29:46Z"
 tags: ["sale", "preset-pack", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/massive-presets/massive-basstones-massive-presets/?a_aid=plugindrop&data1=massive-basstones-massive-presets-2e3e7c&utm_source=plugindrop&utm_medium=article&utm_campaign=massive-basstones-massive-presets-2e3e7c"

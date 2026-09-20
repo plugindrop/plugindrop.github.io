@@ -1,6 +1,6 @@
 ---
 title: "13% Off ACE Studio 2 0 Artist Lifetime License"
-description: "ACE Studio 2.0 Artist Lifetime License is currently **13% off** at Plugin Boutique — ~~$398~~ down to **$348**, saving you $50 on permanent access to an..."
+description: "ACE Studio 2.0 Artist Lifetime License is currently 13% off at Plugin Boutique — $398 down to $348, saving you $50 on permanent access to an..."
 pubDate: "2026-07-01T09:44:56Z"
 saleExpiry: "2026-08-28"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]

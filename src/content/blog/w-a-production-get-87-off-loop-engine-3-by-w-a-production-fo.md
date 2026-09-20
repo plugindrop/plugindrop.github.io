@@ -1,6 +1,6 @@
 ---
 title: "W.A. Production — Get 87% off Loop Engine 3 by W.A. Production for $14.90 (Normally $119)"
-description: "Loop Engine 3 by W.A. Production is down to $14.90 — 87% off the regular ~~$119~~ price tag. That's a steep markdown for an established loop manipulation..."
+description: "Loop Engine 3 by W.A. Production is down to $14.90 — 87% off the regular $119 price tag. That's a steep markdown for an established loop manipulation..."
 pubDate: "2026-05-26T16:22:38Z"
 tags: ["wa production", "music-production"]
 affiliate: "https://audioplugin.deals/product/loop-engine-3-by-wa-production/ref/21/"

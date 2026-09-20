@@ -1,6 +1,6 @@
 ---
 title: "Get 40% off XLN Audio RC-20 Retro Color at Audio Deluxe"
-description: "XLN Audio RC-20 Retro Color is **40% off at $58.80** through May 15th — a firm deadline on a plugin that's become a staple in lo-fi and vintage production..."
+description: "XLN Audio RC-20 Retro Color is 40% off at $58.80 through May 15th — a firm deadline on a plugin that's become a staple in lo-fi and vintage production..."
 pubDate: "2026-05-05T17:32:30Z"
 tags: ["music-production"]
 affiliate: "https://audiodeluxe.com/collections/software/products/xln-audio-rc-20-retro-color"

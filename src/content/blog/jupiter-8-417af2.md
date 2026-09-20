@@ -1,6 +1,6 @@
 ---
 title: "50% Off JUPITER 8"
-description: "Plugin Boutique has JUPITER-8 at ~~$199~~ **$99**, a straight 50% cut off the regular price. It's a software recreation of Roland's classic Jupiter-8..."
+description: "Plugin Boutique has JUPITER-8 at $199 $99, a straight 50% cut off the regular price. It's a software recreation of Roland's classic Jupiter-8..."
 pubDate: "2026-08-05T03:29:01Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=JUPITER+8&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=jupiter-8-417af2"

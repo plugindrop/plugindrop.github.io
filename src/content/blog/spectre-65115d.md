@@ -1,6 +1,6 @@
 ---
 title: "39% Off Spectre"
-description: "Spectre is currently 39% off on Plugin Boutique, dropping from ~~$99.00~~ to **$60.00** — a $39 saving on a plugin in the enhancer/effects category. If..."
+description: "Spectre is currently 39% off on Plugin Boutique, dropping from $99.00 to $60.00 — a $39 saving on a plugin in the enhancer/effects category. If..."
 pubDate: "2026-06-30T23:29:51Z"
 saleExpiry: "2026-08-28"
 tags: ["sale", "vst-plugin", "effects", "music-production"]

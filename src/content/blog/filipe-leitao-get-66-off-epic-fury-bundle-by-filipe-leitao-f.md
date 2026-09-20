@@ -1,8 +1,8 @@
 ---
 title: Filipe Leitao — Get 66% off Epic Fury Bundle by Filipe Leitao for $9.99 (Normally
   $29.00)
-description: Filipe Leitao's Epic Fury Bundle is currently **66% off** — dropping
-  from ~~$29.00~~ to just **$9.99**. That's a solid bundle price for a collection
+description: Filipe Leitao's Epic Fury Bundle is currently 66% off — dropping
+  from $29.00 to just $9.99. That's a solid bundle price for a collection
   from...
 pubDate: '2026-04-17T11:06:50Z'
 tags: ["sale", "filipe leitao", "music-production", "bundle"]

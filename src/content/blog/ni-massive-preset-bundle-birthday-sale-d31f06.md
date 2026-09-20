@@ -1,6 +1,6 @@
 ---
 title: "88% Off NI Massive Preset Bundle — 100+ Synth Presets ($24.99)"
-description: "ADSR Sounds has the NI Massive Preset Bundle marked down to $24.99 from ~~$200.99~~, an 88% discount on a collection built for Native Instruments' Massive..."
+description: "ADSR Sounds has the NI Massive Preset Bundle marked down to $24.99 from $200.99, an 88% discount on a collection built for Native Instruments' Massive..."
 pubDate: "2026-07-24T09:43:35Z"
 tags: ["sale", "preset-pack", "synth", "bundle", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/ni-massive-preset-bundle-birthday-sale/?a_aid=plugindrop&data1=ni-massive-preset-bundle-birthday-sale-d31f06&utm_source=plugindrop&utm_medium=article&utm_campaign=ni-massive-preset-bundle-birthday-sale-d31f06"

@@ -1,6 +1,6 @@
 ---
 title: "40% Off Mycrazything Records Lo Fi Chords One Shots"
-description: "Mycrazything Records Lo Fi Chords One Shots is currently **40% off** at ADSR Sounds — dropping from ~~$13~~ to just **$7.80**. That's over $5 in savings..."
+description: "Mycrazything Records Lo Fi Chords One Shots is currently 40% off at ADSR Sounds — dropping from $13 to just $7.80. That's over $5 in savings..."
 pubDate: "2026-06-16T04:31:39Z"
 tags: ["sale", "preset-pack", "sample-pack-deal", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/mycrazything-records-lo-fi-chords-one-shots/?a_aid=plugindrop&data1=mycrazything-records-lo-fi-chords-one-shots-51711b&utm_source=plugindrop&utm_medium=article&utm_campaign=mycrazything-records-lo-fi-chords-one-shots-51711b"

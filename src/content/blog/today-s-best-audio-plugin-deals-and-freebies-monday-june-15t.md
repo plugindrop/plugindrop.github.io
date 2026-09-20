@@ -1,6 +1,6 @@
 ---
 title: "Today's Best Audio Plugin Deals and Freebies - Monday June 15th 2026"
-description: "WA Production's Mutant Delay is free until June 25th — that's ~~$39~~ at zero cost. AIR Music Tech's Jura Chorus is also free until August 2nd. Two free..."
+description: "WA Production's Mutant Delay is free until June 25th — that's $39 at zero cost. AIR Music Tech's Jura Chorus is also free until August 2nd. Two free..."
 pubDate: "2026-06-15T17:38:20Z"
 tags: ["free", "music-production"]
 affiliate: "https://audioplugin.deals/product/mutant-delay-by-wa-production/ref/21/"

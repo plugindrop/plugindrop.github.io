@@ -1,6 +1,6 @@
 ---
 title: "Image Sounds — Get 80% off Jazz Guitar (Acoustic Edition) by Image Sounds for $9 (Normally $45)"
-description: "Image Sounds is running an 80% discount on Jazz Guitar (Acoustic Edition) — down to just $9 from ~~$45~~ until May 18th. That's a realistic entry point..."
+description: "Image Sounds is running an 80% discount on Jazz Guitar (Acoustic Edition) — down to just $9 from $45 until May 18th. That's a realistic entry point..."
 pubDate: "2026-05-05T12:50:54Z"
 tags: ["image sounds", "music-production"]
 affiliate: "https://audioplugin.deals/product/jazz-guitar-acoustic-edition-by-image-sounds/ref/21/"

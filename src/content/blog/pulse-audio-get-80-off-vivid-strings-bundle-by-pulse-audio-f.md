@@ -1,6 +1,6 @@
 ---
 title: "Pulse Audio — Get 80% off Vivid Strings Bundle by Pulse Audio for $49 (Normally $249) Full Kontakt required"
-description: "Pulse Audio's Vivid Strings Bundle drops from ~~$249~~ to **$49** — a full 80% off a dedicated chamber strings Kontakt library. Note that Full Kontakt..."
+description: "Pulse Audio's Vivid Strings Bundle drops from $249 to $49 — a full 80% off a dedicated chamber strings Kontakt library. Note that Full Kontakt..."
 pubDate: "2026-05-14T17:50:03Z"
 tags: ["pulse audio", "bundle", "music-production"]
 affiliate: "https://pulse.audio/product/vivid-strings-chamber-strings-by-pulse-audio/"

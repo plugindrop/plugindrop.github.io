@@ -1,6 +1,6 @@
 ---
 title: "Universal Audio — Get 50% off Paradise Guitar Studio by Universal Audio for $99 (Normally $199)"
-description: "Universal Audio's Paradise Guitar Studio is down to **$99** (~~$199~~) — that's 50% off through June 14th. UA doesn't run deep discounts often, so this is..."
+description: "Universal Audio's Paradise Guitar Studio is down to $99 ($199) — that's 50% off through June 14th. UA doesn't run deep discounts often, so this is..."
 pubDate: "2026-06-01T14:42:03Z"
 tags: ["universal audio", "music-production"]
 affiliate: "https://audioplugin.deals/product/paradise-guitar-studio-by-universal-audio/ref/21/"

@@ -1,6 +1,6 @@
 ---
 title: "Best Audio Plugin Deals and Freebies - Saturday August 8th 2026"
-description: "Diginoiz is giving away R&B Electric Guitars, normally ~~$22.90~~, for $0 through August 13th. It's one of several freebies live this weekend, alongside..."
+description: "Diginoiz is giving away R&B Electric Guitars, normally $22.90, for $0 through August 13th. It's one of several freebies live this weekend, alongside..."
 pubDate: "2026-08-08T15:22:43Z"
 tags: ["free", "music-production"]
 affiliate: "https://audioplugin.deals/product/rb-electric-guitars-by-diginoiz/ref/21/"

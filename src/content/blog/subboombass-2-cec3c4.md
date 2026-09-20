@@ -1,6 +1,6 @@
 ---
 title: "30% Off SubBoomBass 2 — Deep Bass Sounds for Tracks ($69)"
-description: "SubBoomBass 2 is discounted to $69 from ~~$99~~ at Plugin Boutique, a 30% saving on this bass-focused synth plugin. If you produce hip-hop, trap, EDM, or..."
+description: "SubBoomBass 2 is discounted to $69 from $99 at Plugin Boutique, a 30% saving on this bass-focused synth plugin. If you produce hip-hop, trap, EDM, or..."
 pubDate: "2026-08-13T16:30:38Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=SubBoomBass+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subboombass-2-cec3c4"

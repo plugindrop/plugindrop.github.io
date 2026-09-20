@@ -1,6 +1,6 @@
 ---
 title: "Elastic Sounds — Get 65% off Violin & Cello Extended Techniques Bundle by Elastic Sounds for $26 (Normally $74.95). Full Kontakt required"
-description: "Elastic Sounds is offering 65% off its Violin & Cello Extended Techniques Bundle — drop from ~~$74.95~~ to just **$26**. That's two specialized Kontakt..."
+description: "Elastic Sounds is offering 65% off its Violin & Cello Extended Techniques Bundle — drop from $74.95 to just $26. That's two specialized Kontakt..."
 pubDate: "2026-06-10T17:28:56Z"
 tags: ["elastic sounds", "bundle", "music-production"]
 affiliate: "https://audioplugin.deals/product/violin-cello-extended-techniques-bundle-by-elastic-sounds/ref/21/"

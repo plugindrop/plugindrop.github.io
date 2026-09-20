@@ -1,6 +1,6 @@
 ---
 title: 65% off Dexibell
-description: Dexibell's T2L piano plugins are currently **65% off**, bringing each
+description: Dexibell's T2L piano plugins are currently 65% off, bringing each
   title down from its regular price to a fraction of the cost. If you've had your
   eye...
 pubDate: '2026-04-01T14:30:46Z'

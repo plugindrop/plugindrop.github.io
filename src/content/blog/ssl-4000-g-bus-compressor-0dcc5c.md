@@ -1,6 +1,6 @@
 ---
 title: "54% Off SSL 4000 G Bus Compressor — Analog Bus Glue ($69)"
-description: "Plugin Boutique has the SSL 4000 G Bus Compressor at $69, down from a ~~$149~~ regular price — a 54% cut. PluginDrop has tracked this deal since..."
+description: "Plugin Boutique has the SSL 4000 G Bus Compressor at $69, down from a $149 regular price — a 54% cut. PluginDrop has tracked this deal since..."
 pubDate: "2026-09-09T19:09:00Z"
 tags: ["sale", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=SSL+4000+G+Bus+Compressor&a_aid=69cb95abe1763&chan=trk&data1=ssl-4000-g-bus-compressor-0dcc5c&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4000-g-bus-compressor-0dcc5c"

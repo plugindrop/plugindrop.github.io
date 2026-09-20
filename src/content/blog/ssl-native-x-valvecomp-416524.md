@@ -1,6 +1,6 @@
 ---
 title: "80% Off SSL Native X ValveComp — Vintage Valve Compression ($10)"
-description: "SSL Native X ValveComp is on sale at Plugin Boutique for ~~$49~~ **$10**, an 80% discount off the regular price. That's a significant markdown for a..."
+description: "SSL Native X ValveComp is on sale at Plugin Boutique for $49 $10, an 80% discount off the regular price. That's a significant markdown for a..."
 pubDate: "2026-08-10T03:39:49Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=SSL+Native+X+ValveComp&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-valvecomp-416524"

@@ -1,6 +1,6 @@
 ---
 title: "Zampler Sounds — Get 72% off Apisonic Labs Speedrum BE by ZamplerSounds for $19 (Normally $69)"
-description: "Speedrum BE by Apisonic Labs / ZamplerSounds is currently **$19** (~~$69~~) — a 72% discount that saves you $50 on a dedicated drum sampler. It's a..."
+description: "Speedrum BE by Apisonic Labs / ZamplerSounds is currently $19 ($69) — a 72% discount that saves you $50 on a dedicated drum sampler. It's a..."
 pubDate: "2026-05-21T09:43:18Z"
 tags: ["zampler sounds", "music-production"]
 affiliate: "https://audioplugin.deals/product/apisonic-labs-speedrum-be-by-zamplersounds/ref/21/"

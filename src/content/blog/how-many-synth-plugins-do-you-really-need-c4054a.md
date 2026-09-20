@@ -1,6 +1,6 @@
 ---
 title: "How Many Synth Plugins Do You Really Need?"
-description: "A curated synth plugin deal is live at ~~$199.99~~ **$149.99** — saving you $50 on a tool designed to replace the endless stack most producers accumulate..."
+description: "A curated synth plugin deal is live at $199.99 $149.99 — saving you $50 on a tool designed to replace the endless stack most producers accumulate..."
 pubDate: "2026-06-17T17:30:27Z"
 tags: ["articles", "blog", "synth", "music-production"]
 affiliate: "https://audioplugin.deals/blog/how-many-synth-plugins-do-you-really-need/"

@@ -1,6 +1,6 @@
 ---
 title: "inMusic Acquires Native Instruments – This Could Change A Lot More Than Kontakt"
-description: "Native Instruments products are currently available at ~~$199.99~~ $149.99 — a $50 saving worth grabbing before the dust settles on one of the biggest..."
+description: "Native Instruments products are currently available at $199.99 $149.99 — a $50 saving worth grabbing before the dust settles on one of the biggest..."
 pubDate: "2026-05-08T16:56:50Z"
 tags: ["articles", "blog", "music-production"]
 affiliate: "https://audioplugin.deals/blog/inmusic-acquires-native-instruments-this-could-change-a-lot-more-than-kontakt/"

@@ -1,6 +1,6 @@
 ---
 title: "50% Off Falcon 2026"
-description: "Falcon 2026 is currently **50% off** at Plugin Boutique — dropping from ~~$328.90~~ to **$163.90**. That's a rare half-price window on one of the most..."
+description: "Falcon 2026 is currently 50% off at Plugin Boutique — dropping from $328.90 to $163.90. That's a rare half-price window on one of the most..."
 pubDate: "2026-05-04T10:51:57Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14777-Falcon-2026?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=falcon-2026-1dcf40&chan=art&data1=falcon-2026-1dcf40"

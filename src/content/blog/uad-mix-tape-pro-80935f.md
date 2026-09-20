@@ -1,6 +1,6 @@
 ---
 title: "34% Off UAD Mix Tape Pro"
-description: "Universal Audio's UAD Mix Tape Pro is on sale at Plugin Boutique for **$99**, down from ~~$149~~ — a 34% discount that saves you $50. If you've been..."
+description: "Universal Audio's UAD Mix Tape Pro is on sale at Plugin Boutique for $99, down from $149 — a 34% discount that saves you $50. If you've been..."
 pubDate: "2026-07-10T04:24:54Z"
 tags: ["sale", "bundle", "mixing", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17197-UAD-Mix-Tape-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-mix-tape-pro-80935f&chan=art&data1=uad-mix-tape-pro-80935f"

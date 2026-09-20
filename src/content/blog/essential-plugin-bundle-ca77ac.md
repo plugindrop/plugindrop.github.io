@@ -1,6 +1,6 @@
 ---
 title: "81% Off Essential Plugin Bundle"
-description: "Plugin Boutique's Essential Plugin Bundle packs 15 effects plugins into a single purchase — currently priced at just $149.00 (down from ~~$772.00~~)..."
+description: "Plugin Boutique's Essential Plugin Bundle packs 15 effects plugins into a single purchase — currently priced at just $149.00 (down from $772.00)..."
 pubDate: "2026-06-10T03:13:47Z"
 tags: ["sale", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/1480-Essential-Plugin-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=essential-plugin-bundle-ca77ac&chan=art&data1=essential-plugin-bundle-ca77ac"

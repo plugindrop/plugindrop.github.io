@@ -1,6 +1,6 @@
 ---
 title: "Antelope Audio — Get up to 90% off Antelope Audio native plugins"
-description: "Antelope Audio is running a sitewide native plugin sale with discounts up to 90% — select plugins dropping to **$39.99** from ~~$139~~. The sale runs..."
+description: "Antelope Audio is running a sitewide native plugin sale with discounts up to 90% — select plugins dropping to $39.99 from $139. The sale runs..."
 pubDate: "2026-06-02T05:44:02Z"
 tags: ["antelope audio", "music-production"]
 affiliate: "https://en.antelopeaudio.com/software-store/"

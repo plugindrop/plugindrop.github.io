@@ -1,6 +1,6 @@
 ---
 title: "31% Off Pitch N Time Pro"
-description: "Serato's Pitch N Time Pro is currently **31% off** at Plugin Boutique — dropping from ~~$799~~ to **$550**, saving you $249 on one of the most established..."
+description: "Serato's Pitch N Time Pro is currently 31% off at Plugin Boutique — dropping from $799 to $550, saving you $249 on one of the most established..."
 pubDate: "2026-06-03T02:35:09Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/5098-Pitch-N-Time-Pro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=pitch-n-time-pro-60c007&chan=art&data1=pitch-n-time-pro-60c007"

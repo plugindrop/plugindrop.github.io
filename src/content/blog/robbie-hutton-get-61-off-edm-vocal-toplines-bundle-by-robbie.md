@@ -1,6 +1,6 @@
 ---
 title: "Robbie Hutton — Get 61% off EDM Vocal Toplines Bundle by Robbie Hutton for $49.99 (Normally $130)"
-description: "Robbie Hutton's EDM Vocal Toplines Bundle is currently **$49.99** — down from ~~$130~~ — a 61% saving on a dedicated set of professionally recorded vocal..."
+description: "Robbie Hutton's EDM Vocal Toplines Bundle is currently $49.99 — down from $130 — a 61% saving on a dedicated set of professionally recorded vocal..."
 pubDate: "2026-05-21T10:21:46Z"
 tags: ["robbie hutton", "bundle", "music-production"]
 affiliate: "https://audioplugin.deals/product/edm-vocal-toplines-bundle-by-robbie-hutton/ref/21/"

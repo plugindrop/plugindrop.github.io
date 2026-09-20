@@ -1,6 +1,6 @@
 ---
 title: "40% Off Hardest Trap Sounds Massive Presets"
-description: "Hardest Trap Sounds Massive Presets is currently **40% off** at ADSR Sounds — drop from ~~$12~~ to **$7.20**. That's under $8 for a dedicated trap preset..."
+description: "Hardest Trap Sounds Massive Presets is currently 40% off at ADSR Sounds — drop from $12 to $7.20. That's under $8 for a dedicated trap preset..."
 pubDate: "2026-05-11T23:20:40Z"
 tags: ["sale", "preset-pack", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/massive-presets/hardest-trap-sounds-massive-presets/?a_aid=plugindrop&data1=hardest-trap-sounds-massive-presets-dbc9aa&utm_source=plugindrop&utm_medium=article&utm_campaign=hardest-trap-sounds-massive-presets-dbc9aa"

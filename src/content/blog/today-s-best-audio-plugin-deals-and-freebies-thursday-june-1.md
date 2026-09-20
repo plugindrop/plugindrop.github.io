@@ -1,6 +1,6 @@
 ---
 title: "Today's Best Audio Plugin Deals and Freebies - Thursday June 18th 2026"
-description: "W.A. Production's Vocal Splitter is completely free right now — use code **GETWAVS** at checkout and pay nothing. Expiry is unknown, so don't sleep on it..."
+description: "W.A. Production's Vocal Splitter is completely free right now — use code GETWAVS at checkout and pay nothing. Expiry is unknown, so don't sleep on it..."
 pubDate: "2026-06-18T14:04:51Z"
 tags: ["free", "music-production"]
 affiliate: "https://www.waproduction.com/plugins/view/vocal-splitter"

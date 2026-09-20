@@ -1,6 +1,6 @@
 ---
 title: "Torso Electronics S-4 Update Lets You Freeze Time"
-description: "The Torso Electronics S-4 firmware 2.2 is now in beta — and the update is completely **free** for existing owners. A new real-time \"freeze time\" feature..."
+description: "The Torso Electronics S-4 firmware 2.2 is now in beta — and the update is completely free for existing owners. A new real-time \"freeze time\" feature..."
 pubDate: "2026-05-03T22:03:41Z"
 tags: ["free", "digital sampler", "four-track", "granular", "groovebox", "s-4", "sampler", "superbooth", "superbooth 2026", "synth", "music-production"]
 affiliate: "https://www.thomann.de/intl/prod_AR_600391.html?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=torso-electronics-s-4-update-lets-you-freeze-time-b4ced3"

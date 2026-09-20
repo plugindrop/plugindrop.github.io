@@ -1,6 +1,6 @@
 ---
 title: "Analog Legends — Get 80% off Lucid by Analog Legends for $19.99 (Normally 99.99)"
-description: "Analog Legends is offering Lucid at **80% off** — that's **$19.99** down from ~~$99.99~~. For producers looking to add analog-modeled sound design to..."
+description: "Analog Legends is offering Lucid at 80% off — that's $19.99 down from $99.99. For producers looking to add analog-modeled sound design to..."
 pubDate: "2026-05-15T09:46:33Z"
 tags: ["analog legends", "music-production"]
 affiliate: "https://audioplugin.deals/product/lucid-by-analog-legends/ref/21/"

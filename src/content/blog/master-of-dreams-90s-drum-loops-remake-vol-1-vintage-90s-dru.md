@@ -1,6 +1,6 @@
 ---
 title: "40% Off Master Of Dreams 90S Drum Loops Remake Vol 1 Vintage 90S Drum Loop Sample Pack"
-description: "Master Of Dreams 90S Drum Loops Remake Vol 1 is currently **$17.40** (~~$29~~) at ADSR Sounds — a straight 40% discount on a vintage-focused drum loop..."
+description: "Master Of Dreams 90S Drum Loops Remake Vol 1 is currently $17.40 ($29) at ADSR Sounds — a straight 40% discount on a vintage-focused drum loop..."
 pubDate: "2026-05-04T15:02:30Z"
 tags: ["sale", "preset-pack", "sample-pack-deal", "sample-pack", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/master-of-dreams-90s-drum-loops-remake-vol-1-vintage-90s-drum-loop-sample-pack/?a_aid=plugindrop&data1=master-of-dreams-90s-drum-loops-remake-vol-1-vintage-90s-dru&utm_source=plugindrop&utm_medium=article&utm_campaign=master-of-dreams-90s-drum-loops-remake-vol-1-vintage-90s-dru"

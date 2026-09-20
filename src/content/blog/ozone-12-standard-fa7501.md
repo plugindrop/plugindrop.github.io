@@ -1,6 +1,6 @@
 ---
 title: "23% Off Ozone 12 Standard"
-description: "iZotope's Ozone 12 Standard is currently 23% off at Plugin Boutique — down from ~~$240.90~~ to just **$185.90**. That's over $55 back in your pocket for..."
+description: "iZotope's Ozone 12 Standard is currently 23% off at Plugin Boutique — down from $240.90 to just $185.90. That's over $55 back in your pocket for..."
 pubDate: "2026-05-05T18:44:04Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ozone-12-standard-fa7501&chan=art&data1=ozone-12-standard-fa7501"

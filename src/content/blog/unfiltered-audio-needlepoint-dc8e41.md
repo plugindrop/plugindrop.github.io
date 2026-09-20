@@ -1,6 +1,6 @@
 ---
 title: "62% Off Unfiltered Audio Needlepoint — Lo-Fi Tape Effects ($30)"
-description: "Unfiltered Audio's Needlepoint is currently ~~$78.00~~ **$30.00** at Plugin Boutique, a 62% discount. It's a tape and lo-fi character plugin built for..."
+description: "Unfiltered Audio's Needlepoint is currently $78.00 $30.00 at Plugin Boutique, a 62% discount. It's a tape and lo-fi character plugin built for..."
 pubDate: "2026-08-30T23:16:53Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Unfiltered+Audio+Needlepoint&a_aid=69cb95abe1763&chan=art&data1=unfiltered-audio-needlepoint-dc8e41&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-needlepoint-dc8e41"

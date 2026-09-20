@@ -1,6 +1,6 @@
 ---
 title: "88% Off Core Collection"
-description: "The Core Collection is down to **$29.00** (was ~~$249.00~~) at Plugin Boutique — that's 88% off and over $220 in savings. If you've been sitting on this..."
+description: "The Core Collection is down to $29.00 (was $249.00) at Plugin Boutique — that's 88% off and over $220 in savings. If you've been sitting on this..."
 pubDate: "2026-05-17T23:36:49Z"
 tags: ["sale", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/11366-Core-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=core-collection-2621b3&chan=art&data1=core-collection-2621b3"

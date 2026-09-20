@@ -1,6 +1,6 @@
 ---
 title: "33% Off Key Suite"
-description: "Key Suite is 33% off at Plugin Boutique right now — down from ~~$328.9~~ to **$218.9**, a flat $110 saving on a keyboard instrument bundle aimed at..."
+description: "Key Suite is 33% off at Plugin Boutique right now — down from $328.9 to $218.9, a flat $110 saving on a keyboard instrument bundle aimed at..."
 pubDate: "2026-05-07T01:59:47Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16200-Key-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=key-suite-fb9e01&chan=art&data1=key-suite-fb9e01"

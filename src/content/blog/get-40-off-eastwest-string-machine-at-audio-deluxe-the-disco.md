@@ -1,6 +1,6 @@
 ---
 title: "Get 40% off EastWest String Machine at Audio Deluxe"
-description: "EastWest String Machine is **40% off at $59** at Audio Deluxe — and the deal expires today, June 7th. If vintage orchestral string sounds from one of the..."
+description: "EastWest String Machine is 40% off at $59 at Audio Deluxe — and the deal expires today, June 7th. If vintage orchestral string sounds from one of the..."
 pubDate: "2026-06-06T17:28:31Z"
 tags: ["music-production"]
 affiliate: "https://audiodeluxe.com/collections/software/products/eastwest-string-machine"

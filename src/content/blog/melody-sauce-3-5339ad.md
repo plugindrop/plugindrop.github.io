@@ -1,6 +1,6 @@
 ---
 title: "20% Off Melody Sauce 3 — AI Melody Generation for DAWs ($79)"
-description: "Melody Sauce 3 is discounted to **$79**, down from ~~$99~~ — a 20% saving. It's a MIDI melody generation plugin for producers who want fast, key-locked..."
+description: "Melody Sauce 3 is discounted to $79, down from $99 — a 20% saving. It's a MIDI melody generation plugin for producers who want fast, key-locked..."
 pubDate: "2026-07-27T17:19:39Z"
 tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15887-Melody-Sauce-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-5339ad&chan=art&data1=melody-sauce-3-5339ad"

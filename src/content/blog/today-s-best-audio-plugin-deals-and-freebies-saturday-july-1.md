@@ -1,6 +1,6 @@
 ---
 title: "Today's Best Audio Plugin Deals and Freebies - Saturd…"
-description: "NoizLabs' Beheader, a clipper and saturation plugin for Mac and Windows, is currently ~~$4.99~~ **FREE** for a limited time — no coupon code needed. Grab..."
+description: "NoizLabs' Beheader, a clipper and saturation plugin for Mac and Windows, is currently $4.99 FREE for a limited time — no coupon code needed. Grab..."
 pubDate: "2026-07-11T18:53:21Z"
 tags: ["free", "music-production"]
 affiliate: "https://www.noizlabs.com/products/beheader"

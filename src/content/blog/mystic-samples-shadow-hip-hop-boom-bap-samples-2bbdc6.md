@@ -1,6 +1,6 @@
 ---
 title: "40% Off Mystic Samples Shadow Hip Hop Boom Bap Samples"
-description: "Mystic Samples Shadow Hip Hop Boom Bap Samples is currently **$14.97** (down from ~~$24.95~~) at ADSR Sounds — a clean 40% discount on a pack built around..."
+description: "Mystic Samples Shadow Hip Hop Boom Bap Samples is currently $14.97 (down from $24.95) at ADSR Sounds — a clean 40% discount on a pack built around..."
 pubDate: "2026-06-30T04:44:50Z"
 tags: ["sale", "preset-pack", "sample-pack-deal", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/mystic-samples-shadow-hip-hop-boom-bap-samples/?a_aid=plugindrop&data1=mystic-samples-shadow-hip-hop-boom-bap-samples-2bbdc6&utm_source=plugindrop&utm_medium=article&utm_campaign=mystic-samples-shadow-hip-hop-boom-bap-samples-2bbdc6"

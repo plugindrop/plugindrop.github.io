@@ -1,6 +1,6 @@
 ---
 title: "53% Off Zynaptiq Morph 3 — Spectral Sound Morphing Plugin ($69)"
-description: "Zynaptiq Morph 3 is currently ~~$149~~ $69 at PluginFox — a 53% discount that saves you $80. It's a spectral morphing plugin built for sound designers who..."
+description: "Zynaptiq Morph 3 is currently $149 $69 at PluginFox — a 53% discount that saves you $80. It's a spectral morphing plugin built for sound designers who..."
 pubDate: "2026-08-26T10:21:16Z"
 tags: ["vst-plugin", "pluginfox", "sale", "music-production"]
 affiliate: "https://pluginfox.com/products/zynaptiq-morph-3?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=zynaptiq-morph-3-22ce9e"

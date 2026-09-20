@@ -1,6 +1,6 @@
 ---
 title: "40% Off Focus Techno Drum Hits Collection"
-description: "The Focus Techno Drum Hits Collection is currently 40% off at ADSR Sounds — dropping from ~~$24.99~~ to just **$14.99**. That's a solid $10 saving on a..."
+description: "The Focus Techno Drum Hits Collection is currently 40% off at ADSR Sounds — dropping from $24.99 to just $14.99. That's a solid $10 saving on a..."
 pubDate: "2026-07-01T04:18:37Z"
 tags: ["sale", "preset-pack", "sample-pack-deal", "bundle", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/focus-techno-drum-hits-collection/?a_aid=plugindrop&data1=focus-techno-drum-hits-collection-748a30&utm_source=plugindrop&utm_medium=article&utm_campaign=focus-techno-drum-hits-collection-748a30"

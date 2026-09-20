@@ -1,7 +1,7 @@
 ---
 title: Save 20% Drums Against Humanity instrument by Ugritone
 description: Ugritone's Drums Against Humanity — the Inferno-powered metal drum instrument
-  — is currently ~~$99~~ **$79.20** with 20% off during the April Annihilation...
+  — is currently $99 $79.20 with 20% off during the April Annihilation...
 pubDate: '2026-04-03T10:54:52Z'
 tags: ["drums", "metal", "sale", "ugritone", "music-production"]
 affiliate: https://ugritone.com/products/drums-against-humanity

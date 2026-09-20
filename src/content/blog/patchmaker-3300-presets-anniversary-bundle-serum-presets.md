@@ -1,6 +1,6 @@
 ---
 title: "Patchmaker 3300 Presets Anniversary Bundle Serum Presets"
-description: "The Patchmaker 3300 Presets Anniversary Bundle drops from ~~$199~~ to **$25** at ADSR Sounds, giving you 3,300 Serum presets for well under a cent each..."
+description: "The Patchmaker 3300 Presets Anniversary Bundle drops from $199 to $25 at ADSR Sounds, giving you 3,300 Serum presets for well under a cent each..."
 pubDate: "2026-07-22T19:25:08Z"
 tags: ["sale", "preset-pack", "serum", "synth", "bundle", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/patchmaker-3300-presets-anniversary-bundle-serum-presets/?a_aid=plugindrop&data1=patchmaker-3300-presets-anniversary-bundle-serum-presets&utm_source=plugindrop&utm_medium=article&utm_campaign=patchmaker-3300-presets-anniversary-bundle-serum-presets"

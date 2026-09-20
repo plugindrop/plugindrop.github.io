@@ -1,6 +1,6 @@
 ---
 title: "76% Off Super 7 — Seven Effects Plugins Bundle ($19)"
-description: "Super 7 bundles seven effects plugins from Plugin Boutique for one price, down from ~~$79~~ to $19. That's a 76% discount, and it matches the lowest price..."
+description: "Super 7 bundles seven effects plugins from Plugin Boutique for one price, down from $79 to $19. That's a 76% discount, and it matches the lowest price..."
 pubDate: "2026-09-11T13:17:42Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Super+7&a_aid=69cb95abe1763&chan=art&data1=super-7-2ee0a2&utm_source=plugindrop&utm_medium=article&utm_campaign=super-7-2ee0a2"

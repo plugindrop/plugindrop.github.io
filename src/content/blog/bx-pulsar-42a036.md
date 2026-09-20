@@ -1,6 +1,6 @@
 ---
 title: "26% Off bx pulsar"
-description: "bx_pulsar by Brainworx is now 26% off at Plugin Boutique — drop from ~~$75.90~~ to **$56.10**, saving you nearly $20. Brainworx sales at this depth don't..."
+description: "bx_pulsar by Brainworx is now 26% off at Plugin Boutique — drop from $75.90 to $56.10, saving you nearly $20. Brainworx sales at this depth don't..."
 pubDate: "2026-05-06T09:42:01Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/10-Delay/15327-bx-pulsar?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-pulsar-42a036&chan=art&data1=bx-pulsar-42a036"

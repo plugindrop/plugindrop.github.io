@@ -1,6 +1,6 @@
 ---
 title: "Sample Fuel — Sample Fuel has released GuitarSynth-X library for HALion. Owners of any full paid version product from Sample Fuel are eligible for a 25% loyalty discount"
-description: "Sample Fuel has launched **GuitarSynth-X**, a new guitar-synthesizer hybrid library built for HALion — and if you already own any full paid product from..."
+description: "Sample Fuel has launched GuitarSynth-X, a new guitar-synthesizer hybrid library built for HALion — and if you already own any full paid product from..."
 pubDate: "2026-05-13T11:30:17Z"
 tags: ["sample fuel", "synth", "music-production"]
 affiliate: "https://www.samplefuel.com/product/guitarsynth-x"

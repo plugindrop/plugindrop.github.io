@@ -1,6 +1,6 @@
 ---
 title: "Get 50% off SSL Module8 at Audio Deluxe"
-description: "SSL Module8 is 50% off at Audio Deluxe, dropping to just **$24.50** — an unusually low entry point for an officially developed Solid State Logic plugin..."
+description: "SSL Module8 is 50% off at Audio Deluxe, dropping to just $24.50 — an unusually low entry point for an officially developed Solid State Logic plugin..."
 pubDate: "2026-06-02T17:45:24Z"
 tags: ["music-production"]
 affiliate: "https://audiodeluxe.com/collections/software/products/solid-state-logic-ssl-module8"

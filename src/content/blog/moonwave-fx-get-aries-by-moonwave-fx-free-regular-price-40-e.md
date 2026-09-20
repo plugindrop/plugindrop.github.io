@@ -1,6 +1,6 @@
 ---
 title: "Moonwave FX — Get Aries by Moonwave FX free. Regular price $40. [FREE]"
-description: "Aries by Moonwave FX normally retails for ~~$40~~ — right now it's completely free. The promotion closes May 28th, leaving less than two weeks to claim..."
+description: "Aries by Moonwave FX normally retails for $40 — right now it's completely free. The promotion closes May 28th, leaving less than two weeks to claim..."
 pubDate: "2026-05-15T11:34:40Z"
 tags: ["free", "moonwave fx", "music-production"]
 affiliate: "https://moonwavefx.com/effects/aries-energy-transfer-engine/"

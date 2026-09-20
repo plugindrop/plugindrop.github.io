@@ -1,6 +1,6 @@
 ---
 title: "25% Off FabFilter Essentials Bundle"
-description: "The FabFilter Essentials Bundle is now 25% off at Plugin Boutique — dropping from ~~$419~~ to **$314**, saving you $105 on a curated set of..."
+description: "The FabFilter Essentials Bundle is now 25% off at Plugin Boutique — dropping from $419 to $314, saving you $105 on a curated set of..."
 pubDate: "2026-06-03T04:42:37Z"
 tags: ["sale", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/14128-FabFilter-Essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-essentials-bundle-a9c794&chan=art&data1=fabfilter-essentials-bundle-a9c794"

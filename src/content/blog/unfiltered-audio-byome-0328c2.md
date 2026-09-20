@@ -1,6 +1,6 @@
 ---
 title: "69% Off Unfiltered Audio BYOME — Modular Effects ($40)"
-description: "Unfiltered Audio's semi-modular multi-effect BYOME is ~~$128~~ $40 at Plugin Boutique, a 69% discount. It's built for producers who want to design custom..."
+description: "Unfiltered Audio's semi-modular multi-effect BYOME is $128 $40 at Plugin Boutique, a 69% discount. It's built for producers who want to design custom..."
 pubDate: "2026-08-12T03:39:42Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Unfiltered+Audio+BYOME&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-byome-0328c2"

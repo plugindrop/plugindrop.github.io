@@ -1,6 +1,6 @@
 ---
 title: "39% Off Transit 2 — Multi-FX for Buildups & Drops ($79)"
-description: "Cableguys' Transit 2 multi-effect plugin is down to $79 from ~~$129~~ at Plugin Boutique, a 39% discount. The plugin combines multiple effect modules on a..."
+description: "Cableguys' Transit 2 multi-effect plugin is down to $79 from $129 at Plugin Boutique, a 39% discount. The plugin combines multiple effect modules on a..."
 pubDate: "2026-08-28T15:09:33Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Transit+2&a_aid=69cb95abe1763&chan=art&data1=transit-2-43f69c&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c"

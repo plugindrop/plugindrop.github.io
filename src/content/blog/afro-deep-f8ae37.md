@@ -1,6 +1,6 @@
 ---
 title: "86% Off Afro Deep"
-description: "Roundel Sounds' Afro Deep Construction Kits are down 86% at ADSR Sounds — from ~~$148~~ to just $20. That's a significant drop for a royalty-free Afrobeat..."
+description: "Roundel Sounds' Afro Deep Construction Kits are down 86% at ADSR Sounds — from $148 to just $20. That's a significant drop for a royalty-free Afrobeat..."
 pubDate: "2026-05-24T13:21:54Z"
 tags: ["sale", "preset-pack", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/roundel-sounds-afro-deep-construction-kits/?a_aid=plugindrop&data1=afro-deep-f8ae37&utm_source=plugindrop&utm_medium=article&utm_campaign=afro-deep-f8ae37"

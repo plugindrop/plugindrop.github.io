@@ -1,6 +1,6 @@
 ---
 title: "80% Off MODO BASS 2 — Modeled Electric & Upright Bass ($39.99)"
-description: "IK Multimedia's MODO BASS 2 is down to **$39.99** from ~~$199.99~~ at Plugin Boutique, an 80% discount. It's a physically modeled bass instrument, not a..."
+description: "IK Multimedia's MODO BASS 2 is down to $39.99 from $199.99 at Plugin Boutique, an 80% discount. It's a physically modeled bass instrument, not a..."
 pubDate: "2026-08-20T13:28:53Z"
 tags: ["sale", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=MODO+BASS+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-bass-2-b8b6b2"

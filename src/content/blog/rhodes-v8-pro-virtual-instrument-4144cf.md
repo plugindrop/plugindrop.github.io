@@ -1,6 +1,6 @@
 ---
 title: "50% Off Rhodes V8 Pro Virtual Instrument"
-description: "Rhodes V8 Pro is 50% off at Plugin Boutique right now — ~~$299.95~~ down to **$149.95**, saving you $150 on the official virtual Rhodes electric piano..."
+description: "Rhodes V8 Pro is 50% off at Plugin Boutique right now — $299.95 down to $149.95, saving you $150 on the official virtual Rhodes electric piano..."
 pubDate: "2026-05-22T03:22:26Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10331-Rhodes-V8-Pro-Virtual-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rhodes-v8-pro-virtual-instrument-4144cf&chan=art&data1=rhodes-v8-pro-virtual-instrument-4144cf"

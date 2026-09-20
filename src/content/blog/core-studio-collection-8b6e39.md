@@ -1,6 +1,6 @@
 ---
 title: "87% Off Core Studio Collection"
-description: "Core Studio Collection is currently slashed **87% off** at Plugin Boutique — ~~$2,743~~ down to just **$366**. That's over $2,370 in savings on a bundle..."
+description: "Core Studio Collection is currently slashed 87% off at Plugin Boutique — $2,743 down to just $366. That's over $2,370 in savings on a bundle..."
 pubDate: "2026-06-10T12:27:29Z"
 tags: ["sale", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16195-Core-Studio-Collection?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=core-studio-collection-8b6e39&chan=art&data1=core-studio-collection-8b6e39"

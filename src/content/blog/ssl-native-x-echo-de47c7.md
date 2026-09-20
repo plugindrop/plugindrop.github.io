@@ -1,6 +1,6 @@
 ---
 title: "85% Off SSL Native X Echo — Tape-Style Delay for Mixes ($15)"
-description: "SSL Native X Echo is on sale at Plugin Boutique for $15, down from ~~$99~~. That's an 85% discount on a delay plugin built around SSL's signature..."
+description: "SSL Native X Echo is on sale at Plugin Boutique for $15, down from $99. That's an 85% discount on a delay plugin built around SSL's signature..."
 pubDate: "2026-08-25T14:13:47Z"
 tags: ["sale", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=SSL+Native+X+Echo&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-echo-de47c7"

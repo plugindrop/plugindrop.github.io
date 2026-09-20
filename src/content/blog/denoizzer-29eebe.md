@@ -1,6 +1,6 @@
 ---
 title: "67% Off DeNoizzer"
-description: "DeNoizzer is down to **$9.90** (was ~~$29.90~~) at Plugin Boutique — that's 67% off an audio restoration plugin aimed at cleaning up noisy recordings. At..."
+description: "DeNoizzer is down to $9.90 (was $29.90) at Plugin Boutique — that's 67% off an audio restoration plugin aimed at cleaning up noisy recordings. At..."
 pubDate: "2026-05-27T14:39:09Z"
 tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/17374-DeNoizzer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=denoizzer-29eebe&chan=art&data1=denoizzer-29eebe"

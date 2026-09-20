@@ -1,6 +1,6 @@
 ---
 title: "40% Off Element One Ebm Techno Essentials Techno Samples"
-description: "Element One EBM Techno Essentials is now 40% off at ADSR Sounds — down from ~~$20.45~~ to just **$12.27**. That's a genre-specific techno and EBM sample..."
+description: "Element One EBM Techno Essentials is now 40% off at ADSR Sounds — down from $20.45 to just $12.27. That's a genre-specific techno and EBM sample..."
 pubDate: "2026-06-15T21:35:28Z"
 tags: ["sale", "preset-pack", "sample-pack-deal", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/element-one-ebm-techno-essentials-techno-samples/?a_aid=plugindrop&data1=element-one-ebm-techno-essentials-techno-samples-4fbf41&utm_source=plugindrop&utm_medium=article&utm_campaign=element-one-ebm-techno-essentials-techno-samples-4fbf41"

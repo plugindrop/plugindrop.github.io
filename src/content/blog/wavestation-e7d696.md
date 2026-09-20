@@ -1,6 +1,6 @@
 ---
 title: "51% Off WAVESTATION"
-description: "Korg's legendary WAVESTATION plugin is currently **51% off** at Plugin Boutique — drop from ~~$99.99~~ to just **$49.00**. If you've been eyeing this..."
+description: "Korg's legendary WAVESTATION plugin is currently 51% off at Plugin Boutique — drop from $99.99 to just $49.00. If you've been eyeing this..."
 pubDate: "2026-06-15T15:41:36Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11199-WAVESTATION?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=wavestation-e7d696&chan=art&data1=wavestation-e7d696"

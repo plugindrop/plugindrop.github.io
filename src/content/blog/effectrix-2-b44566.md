@@ -1,6 +1,6 @@
 ---
 title: "23% Off Effectrix 2"
-description: "Effectrix 2 by Sugar Bytes is currently **23% off** at Plugin Boutique — drop from ~~$129~~ to **$99**, saving you $30. If you've been sitting on the..."
+description: "Effectrix 2 by Sugar Bytes is currently 23% off at Plugin Boutique — drop from $129 to $99, saving you $30. If you've been sitting on the..."
 pubDate: "2026-06-15T23:47:48Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/11389-Effectrix-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=effectrix-2-b44566&chan=art&data1=effectrix-2-b44566"

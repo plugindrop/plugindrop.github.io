@@ -1,6 +1,6 @@
 ---
 title: "30% Off Future Big Room — FL Studio EDM Template ($15.97)"
-description: "Future Big Room FL Studio Template Vol 1 is listed at ~~$15.97~~ through ADSR Sounds. Check the product page for the current discounted total, since ADSR..."
+description: "Future Big Room FL Studio Template Vol 1 is listed at $15.97 through ADSR Sounds. Check the product page for the current discounted total, since ADSR..."
 pubDate: "2026-09-10T19:47:40Z"
 tags: ["sale", "daw", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/wav-samples/future-big-room-fl-studio-template-vol-1/?a_aid=plugindrop&data1=future-big-room-fl-studio-template-vol-1-327b81&utm_source=plugindrop&utm_medium=article&utm_campaign=future-big-room-fl-studio-template-vol-1-327b81"
