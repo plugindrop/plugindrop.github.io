@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20",
+  "generated_at": "2026-09-21",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": true,
-      "generated_at": "2026-09-20",
-      "observations": 2285,
-      "products_tracked": 468,
-      "products_on_sale": 236,
-      "on_sale_pct": 50.4,
-      "avg_discount_pct": 57.5,
-      "median_discount_pct": 54.0,
+      "generated_at": "2026-09-21",
+      "observations": 2419,
+      "products_tracked": 482,
+      "products_on_sale": 251,
+      "on_sale_pct": 52.1,
+      "avg_discount_pct": 57.4,
+      "median_discount_pct": 54,
       "discount_buckets": {
-        "1-19": 11,
-        "20-39": 38,
-        "40-59": 74,
-        "60+": 113
+        "1-19": 12,
+        "20-39": 39,
+        "40-59": 79,
+        "60+": 121
       },
-      "all_time_low_hits": 204,
+      "all_time_low_hits": 219,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -286,10 +286,10 @@
       "by_category": [
         {
           "category": "Other",
-          "tracked": 334,
-          "on_sale": 180,
-          "on_sale_pct": 53.9,
-          "avg_discount_pct": 60.5
+          "tracked": 348,
+          "on_sale": 195,
+          "on_sale_pct": 56.0,
+          "avg_discount_pct": 60.1
         },
         {
           "category": "Synth",
@@ -393,17 +393,17 @@
       "by_brand": [
         {
           "category": "Other",
-          "tracked": 146,
-          "on_sale": 92,
-          "on_sale_pct": 63.0,
-          "avg_discount_pct": 61.5
+          "tracked": 157,
+          "on_sale": 104,
+          "on_sale_pct": 66.2,
+          "avg_discount_pct": 60.7
         },
         {
           "category": "Universal Audio",
-          "tracked": 52,
-          "on_sale": 52,
+          "tracked": 53,
+          "on_sale": 53,
           "on_sale_pct": 100.0,
-          "avg_discount_pct": 68.1
+          "avg_discount_pct": 67.5
         },
         {
           "category": "Cherry Audio",
@@ -427,18 +427,18 @@
           "avg_discount_pct": 80.5
         },
         {
+          "category": "Minimal Audio",
+          "tracked": 17,
+          "on_sale": 4,
+          "on_sale_pct": 23.5,
+          "avg_discount_pct": 50
+        },
+        {
           "category": "Soundtoys",
           "tracked": 17,
           "on_sale": 2,
           "on_sale_pct": 11.8,
           "avg_discount_pct": 17
-        },
-        {
-          "category": "Minimal Audio",
-          "tracked": 16,
-          "on_sale": 3,
-          "on_sale_pct": 18.8,
-          "avg_discount_pct": 43
         },
         {
           "category": "FabFilter",
@@ -546,6 +546,13 @@
           "avg_discount_pct": 0.0
         },
         {
+          "category": "Cableguys",
+          "tracked": 2,
+          "on_sale": 2,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 51
+        },
+        {
           "category": "Heavyocity",
           "tracked": 2,
           "on_sale": 1,
@@ -565,13 +572,6 @@
           "on_sale": 0,
           "on_sale_pct": 0.0,
           "avg_discount_pct": 0.0
-        },
-        {
-          "category": "Cableguys",
-          "tracked": 1,
-          "on_sale": 1,
-          "on_sale_pct": 100.0,
-          "avg_discount_pct": 34
         },
         {
           "category": "Denise Audio",
@@ -625,16 +625,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-08",
-        "on_sale_pct_delta": -10.3,
-        "avg_discount_pct_delta": 4.1,
-        "products_tracked_delta": 43
+        "on_sale_pct_delta": -8.6,
+        "avg_discount_pct_delta": 4.0,
+        "products_tracked_delta": 57
       }
     },
     {
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-09-20",
+      "generated_at": "2026-09-21",
       "observations": 3587,
       "products_tracked": 425,
       "products_on_sale": 258,
@@ -647,7 +647,7 @@
         "40-59": 91,
         "60+": 95
       },
-      "all_time_low_hits": 208,
+      "all_time_low_hits": 207,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -1230,7 +1230,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-09-20",
+      "generated_at": "2026-09-21",
       "observations": 1968,
       "products_tracked": 289,
       "products_on_sale": 142,
@@ -1243,7 +1243,7 @@
         "40-59": 52,
         "60+": 61
       },
-      "all_time_low_hits": 112,
+      "all_time_low_hits": 111,
       "deepest_discounts": [
         {
           "name": "CARBON",
