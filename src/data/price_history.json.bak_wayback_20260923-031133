@@ -47574,66 +47574,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2021-11-28",
-          "regular": 23.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-06-30",
-          "regular": 25.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-09-27",
-          "regular": 20.83,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-03-27",
-          "regular": 25.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-12-16",
-          "regular": 29.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-04-23",
-          "regular": 29.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-05-08",
-          "regular": 29.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-17",
-          "regular": 19.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-04-27",
-          "regular": 29.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-07-06",
-          "regular": 29.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/cherry-audio-ca2600-synthesizer.jpg"
@@ -70899,14 +70839,6 @@
           "cur": "USD"
         }
       ]
-    },
-    "UAD LUNA Studio": {
-      "pb_url": "/product/3-Studio-Tools/23-DAW/17812-LUNA-Studio",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-09-22",
-      "history": []
     }
   }
 }
