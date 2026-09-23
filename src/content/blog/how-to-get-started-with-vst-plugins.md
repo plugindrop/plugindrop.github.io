@@ -24,7 +24,7 @@ priceTrack:
 | Surge XT | Free | Advanced hybrid synthesis, deep modulation | [Free Download](https://surge-synthesizer.github.io/) |
 | TDR Nova | Free | Transparent dynamic EQ, mixing | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Valhalla Supermassive | Free | Lush reverb, ambient spaces | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Serum 2 | $189 | Professional wavetable synthesis, preset ecosystem | [Get Serum 2 (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins&chan=art&data1=how-to-get-started-with-vst-plugins) |
+| Serum 2 | $189 | Professional wavetable synthesis, preset ecosystem | [Get Serum 2](https://xferrecords.com/products/serum-2) |
 | FabFilter Pro-Q 4 | $179 | Professional mixing and mastering EQ | [Get Pro-Q 4 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-get-started-with-vst-plugins) |
 
 ---
@@ -131,7 +131,7 @@ The free stack above covers a complete production workflow. These paid upgrades 
 - **Price:** $189
 - **Why upgrade:** Vital's free synthesis engine is genuinely competitive, but Serum 2's advantage lies outside the plugin itself. The commercial preset ecosystem built around Serum 2 is the largest of any synthesizer in producer communities — r/edmproduction cites this consistently as the primary reason to upgrade. If your workflow involves purchasing or using third-party sound packs professionally, Serum 2's ecosystem dwarfs what's available for any free alternative.
 
-[→ Get Serum 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins&chan=art&data1=how-to-get-started-with-vst-plugins)
+[→ Get Serum 2](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -155,7 +155,7 @@ The free stack above covers a complete production workflow. These paid upgrades 
 | Surge XT | Free | Hybrid Synth | 2,800+ presets, multi-synthesis engine, microtonal tuning | [Download Free](https://surge-synthesizer.github.io/) |
 | TDR Nova | Free | Dynamic EQ | 4-band parametric, per-band dynamics, linear phase | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Valhalla Supermassive | Free | Reverb / Delay | 23 modes, infinite decay, low CPU overhead | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Serum 2 | $189 | Wavetable Synth | Largest third-party preset ecosystem, advanced wavetable editor | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-get-started-with-vst-plugins&chan=art&data1=how-to-get-started-with-vst-plugins) |
+| Serum 2 | $189 | Wavetable Synth | Largest third-party preset ecosystem, advanced wavetable editor | [Official Site](https://xferrecords.com/products/serum-2) |
 | FabFilter Pro-Q 4 | $179 | EQ | Natural phase, collision detection, M/S, mastering precision | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-get-started-with-vst-plugins) |
 
 ---

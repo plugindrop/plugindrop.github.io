@@ -13,7 +13,7 @@ saleExpiry: "2026-10-04"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** Plugin Boutique has the Analog Monosynth Collection at 50% off, cutting the regular ~~$299~~ price down to $149.50. It's a bundle built around analog-modeled monosynth instruments aimed at producers chasing vintage, hands-on synth tones. Grab it here: [Analog Monosynth Collection at Plugin Boutique](https://www.pluginboutique.com/search?q=Analog+Monosynth+Collection&a_aid=69cb95abe1763&chan=art&data1=analog-monosynth-collection-562c43&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-monosynth-collection-562c43).
+**TL;DR:** Plugin Boutique has the Analog Monosynth Collection at 50% off, cutting the regular ~~$299~~ price down to $149.50. It's a bundle built around analog-modeled monosynth instruments aimed at producers chasing vintage, hands-on synth tones. Grab it here: [Analog Monosynth Collection at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15320-Analog-Monosynth-Collection?a_aid=69cb95abe1763&chan=art&data1=analog-monosynth-collection-562c43&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-monosynth-collection-562c43).
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="50% Off Analog Monosynth Collection — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/584059617&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>

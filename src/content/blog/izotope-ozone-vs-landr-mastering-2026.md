@@ -48,7 +48,7 @@ The core modules — EQ, Dynamic EQ, Imager, Maximizer, and Exciter — cover ev
 
 Master Assistant gives you a reasonable starting point quickly, but the results depend on how well you mixed your track. A clean mix with good headroom will translate into a strong master. A problem mix will expose its issues.
 
-**Where to buy:** [iZotope Ozone 12 at Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-vs-landr-mastering-2026) — Plugin Boutique frequently runs iZotope sales of 40–60% off.
+**Where to buy:** [iZotope Ozone 12 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-vs-landr-mastering-2026) — Plugin Boutique frequently runs iZotope sales of 40–60% off.
 
 ---
 

@@ -29,10 +29,10 @@ priceTrack:
 |--------|-------|----------|--------|
 | SPAN (Voxengo) | Free | Real-time spectrum analysis | [Plugin Boutique](https://www.pluginboutique.com/search?q=SPAN%20Voxengo%20spectrum%20analyzer&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
 | FabFilter Pro-Q 4 | $179 | Surgical mastering EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
-| iZotope Ozone 12 | $349 | All-in-one mastering suite | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
-| FabFilter Pro-L 2 | $199 | Transparent brick-wall limiting | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-L%202&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
+| iZotope Ozone 12 | $349 | All-in-one mastering suite | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
+| FabFilter Pro-L 2 | $199 | Transparent brick-wall limiting | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
 | Youlean Loudness Meter 2 | Free | LUFS & streaming targets | [Plugin Boutique](https://www.pluginboutique.com/search?q=Youlean%20Loudness%20Meter%202&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
-| iZotope Insight 2 | $199 | Professional broadcast metering | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Insight%202&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
+| iZotope Insight 2 | $199 | Professional broadcast metering | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/25-Spectral-Analysis/4688-Insight-2?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
 
 ---
 
@@ -114,7 +114,7 @@ The Stabilizer module introduced in recent versions is particularly useful: it a
 
 [![iZotope Ozone 12 Demo](https://img.youtube.com/vi/lwIuaD8O61M/0.jpg)](https://www.youtube.com/watch?v=lwIuaD8O61M)
 
-[→ Get iZotope Ozone 12 on Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins)
+[→ Get iZotope Ozone 12 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins)
 
 ---
 
@@ -137,7 +137,7 @@ The oversampling options (up to 32x) and the integrated loudness metering panel 
 
 [![FabFilter Pro-L 2 Demo](https://img.youtube.com/vi/oMJeWXtJODc/0.jpg)](https://www.youtube.com/watch?v=oMJeWXtJODc)
 
-[→ Get FabFilter Pro-L 2 on Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-L%202&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins)
+[→ Get FabFilter Pro-L 2 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins)
 
 ---
 
@@ -184,7 +184,7 @@ The loudness history timeline is especially valuable when mastering for video sy
 
 [![iZotope Insight 2 Demo](https://img.youtube.com/vi/zBjdTQE3630/0.jpg)](https://www.youtube.com/watch?v=zBjdTQE3630)
 
-[→ Get iZotope Insight 2 on Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Insight%202&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins)
+[→ Get iZotope Insight 2 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/25-Spectral-Analysis/4688-Insight-2?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins)
 
 ---
 
@@ -200,7 +200,7 @@ If you're currently running a stripped-back chain with free alternatives at any 
 - **Price:** $349 (Standard)
 - **Why upgrade:** Free mastering plugins and entry-level suites don't offer AI-assisted starting points, per-module spectral shaping, or a dedicated Stabilizer module for tonal consistency. Ozone 12 consolidates EQ, dynamics, imaging, excitation, and maximizing into a single, integrated environment — eliminating plugin chain complexity while raising the ceiling of what's achievable.
 
-[→ Get iZotope Ozone 12 on Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins)
+[→ Get iZotope Ozone 12 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins)
 
 ---
 
@@ -212,7 +212,7 @@ If you're currently running a stripped-back chain with free alternatives at any 
 - **Price:** $199
 - **Why upgrade:** Stock DAW limiters and free alternatives lack true peak metering accurate enough to prevent intersample distortion on streaming encodes. Pro-L 2's eight limiting algorithms, 32x oversampling, and built-in LUFS metering give you the transparency and platform-compliance tools that budget limiters simply don't provide.
 
-[→ Get FabFilter Pro-L 2 on Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-L%202&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins)
+[→ Get FabFilter Pro-L 2 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins)
 
 ---
 
@@ -222,10 +222,10 @@ If you're currently running a stripped-back chain with free alternatives at any 
 |--------|-------|------|------------|-----|
 | SPAN (Voxengo) | Free | Spectrum Analyzer | Real-time FFT, configurable slope, zero latency | [Plugin Boutique](https://www.pluginboutique.com/search?q=SPAN%20Voxengo%20spectrum%20analyzer&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
 | FabFilter Pro-Q 4 | $179 | EQ | Per-band M/S, dynamic EQ, linear phase, spectrum grab | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
-| iZotope Ozone 12 | $349 | Mastering Suite | AI Master Assistant, Stabilizer, Imager, Maximizer | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
-| FabFilter Pro-L 2 | $199 | Limiter | 8 algorithms, true peak, 32x oversampling, LUFS readout | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-L%202&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
+| iZotope Ozone 12 | $349 | Mastering Suite | AI Master Assistant, Stabilizer, Imager, Maximizer | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
+| FabFilter Pro-L 2 | $199 | Limiter | 8 algorithms, true peak, 32x oversampling, LUFS readout | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
 | Youlean Loudness Meter 2 | Free | Loudness Meter | Platform presets, integrated LUFS, history graph | [Plugin Boutique](https://www.pluginboutique.com/search?q=Youlean%20Loudness%20Meter%202&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
-| iZotope Insight 2 | $199 | Metering Suite | Broadcast compliance, loudness history, 3D stereo field | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Insight%202&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
+| iZotope Insight 2 | $199 | Metering Suite | Broadcast compliance, loudness history, 3D stereo field | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/25-Spectral-Analysis/4688-Insight-2?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
 
 ---
 
@@ -260,7 +260,7 @@ A: Start with Ozone 12 + Youlean Loudness Meter 2 — that's a genuinely complet
 
 The complete mastering chain outlined here — SPAN for analysis, FabFilter Pro-Q 4 for surgical EQ, iZotope Ozone 12 as the mastering centerpiece, FabFilter Pro-L 2 for transparent limiting, and Youlean Loudness Meter 2 plus iZotope Insight 2 for metering — represents the professional standard in 2026 for good reason: each plugin does exactly one job better than almost anything else at its price point. If you can only buy one plugin from this list today, make it iZotope Ozone 12 — it's the single tool that moves the needle most dramatically on master quality.
 
-[→ Get iZotope Ozone 12 on Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins)
+[→ Get iZotope Ozone 12 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins)
 
 ---
 

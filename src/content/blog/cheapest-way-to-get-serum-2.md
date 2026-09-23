@@ -27,7 +27,7 @@ This is what buying Serum 2 has actually cost over time, based on repeated autom
 | Typical sale (recurring) | $189 | Achievable on a normal sale cycle |
 | All-time low (rare) | $99 | Lowest price we have ever recorded |
 
-[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=Serum%202&a_aid=69cb95abe1763&chan=art&data1=cheapest-way-to-get-serum-2).
+[Check the current price](https://xferrecords.com/products/serum-2).
 
 The gap between "typical sale" and "all-time low" is wide enough that timing matters. Paying $189 during a normal promotional window is a reasonable outcome. Paying $249 is only justified if you need the synth for a session this week and can't wait.
 

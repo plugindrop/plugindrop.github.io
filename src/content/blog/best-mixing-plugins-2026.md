@@ -33,7 +33,7 @@ priceTrack:
 | Klanghelm DC8C | Free | Vintage-flavored compression | [Free Download](https://klanghelm.com/contents/products/DC8C.php) |
 | iZotope Neutron | $99+ | AI-assisted full channel strip | [Plugin Boutique](https://www.pluginboutique.com/search?q=15%20Best%20Mixing%20Plugins%202026&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | Valhalla Vintage Verb | $50 | Studio reverb on any budget | [Plugin Boutique](https://www.pluginboutique.com/search?q=15%20Best%20Mixing%20Plugins%202026&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
-| Soundtoys Decapitator | $149 | Analog saturation & harmonic drive | [Official Site](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
+| Soundtoys Decapitator | $149 | Analog saturation & harmonic drive | [Official Site](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 
 ## Introduction
 
@@ -63,9 +63,9 @@ If you only read one section of this guide, read this one. Across every category
 | Klanghelm DC8C | Free | Vintage compression color | Free (no trial needed) | [Klanghelm Direct](https://klanghelm.com/contents/products/DC8C.php) |
 | iZotope Neutron | $99+ | AI-assisted channel strip | Yes (10 days) | [Search Plugin Boutique](https://www.pluginboutique.com/search?q=15%20Best%20Mixing%20Plugins%202026&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | Valhalla Vintage Verb | $50 | Budget-friendly studio reverb | No formal trial (demo audio available) | [Search Plugin Boutique](https://www.pluginboutique.com/search?q=15%20Best%20Mixing%20Plugins%202026&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
-| Soundtoys Decapitator | $149 | Analog saturation & harmonic drive | Yes (7-day, via bundle) | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
-| FabFilter Pro-L 2 | $179 | Mastering-grade limiting | Yes (30 days) | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-L%202&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
-| iZotope Ozone | $99+ | Complete mastering suite | Yes (10 days) | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
+| Soundtoys Decapitator | $149 | Analog saturation & harmonic drive | Yes (7-day, via bundle) | [View on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
+| FabFilter Pro-L 2 | $179 | Mastering-grade limiting | Yes (30 days) | [View on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
+| iZotope Ozone | $99+ | Complete mastering suite | Yes (10 days) | [View on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 
 FabFilter's generous 30-day trial policy is worth calling out specifically — it removes almost all purchase risk on Pro-Q 4, Pro-C 2, and Pro-L 2, which is a big part of why they dominate this list. If you're unsure whether a plugin fits your workflow, always check for a trial before spending. For a deeper look at when these specific FabFilter tools tend to go on sale rather than paying full price, see our dedicated pages: [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale/), [When Does FabFilter Pro-C 2 Go On Sale?](/posts/when-does-fabfilter-pro-c-2-go-on-sale/), and [When Does FabFilter Pro-L 2 Go On Sale?](/posts/when-does-fabfilter-pro-l-2-go-on-sale/).
 
@@ -164,7 +164,7 @@ Neutron's AI-driven Track Assistant analyzes your audio and suggests starting se
 
 iZotope tends to run frequent promotional pricing, especially around major sales events, so Neutron is one of the few plugins on this list where waiting for a discount is often the smarter play rather than paying the $99+ entry price outright.
 
-[→ Get iZotope Neutron on Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Neutron%205&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026)
+[→ Get iZotope Neutron on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026)
 
 ## Reverb & Space
 
@@ -201,7 +201,7 @@ These paid options address specific gaps in the core list: saturation and harmon
 
 Soundtoys runs seasonal sales (notably around Black Friday and their anniversary promotions) where Decapitator and the full Soundtoys 5 bundle can drop significantly below $149 — this is one to watch for rather than buy at list price if you're not in a hurry.
 
-[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026)
+[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026)
 
 ---
 
@@ -215,7 +215,7 @@ Soundtoys runs seasonal sales (notably around Black Friday and their anniversary
 
 Like the rest of the FabFilter range, Pro-L 2 holds its price well. Check [When Does FabFilter Pro-L 2 Go On Sale?](/posts/when-does-fabfilter-pro-l-2-go-on-sale/) before your next release cycle if timing is flexible.
 
-[→ Get FabFilter Pro-L 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-L%202&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026)
+[→ Get FabFilter Pro-L 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026)
 
 ---
 
@@ -237,11 +237,11 @@ Like the rest of the FabFilter range, Pro-L 2 holds its price well. Check [When 
 | FabFilter Pro-C 2 | $179 | Compressor | 8 compression styles, side-chain EQ, bus-ready | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | TDR Nova | Free | Dynamic EQ | 4-band dynamic EQ, wideband compressor, free | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Klanghelm DC8C | Free | Compressor | Vintage character, 4 modes, tube saturation | [Get It](https://klanghelm.com/contents/products/DC8C.php) |
-| iZotope Neutron | $99+ | Channel Strip | AI Track Assistant, inter-plugin communication | [Get It](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
-| Valhalla Vintage Verb | $50 | Reverb | 18 modes, vintage hardware models, $50 | [Get It](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
-| Soundtoys Decapitator | $149 | Saturation | 5 analog models, harmonic drive, tone shaping | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
-| FabFilter Pro-L 2 | $179 | Limiter | True peak limiting, 8 algorithms, LUFS metering | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-L%202&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
-| iZotope Ozone | $99+ | Mastering | AI mastering, master rebalance, vintage modules | [Get It](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
+| iZotope Neutron | $99+ | Channel Strip | AI Track Assistant, inter-plugin communication | [Get It](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
+| Valhalla Vintage Verb | $50 | Reverb | 18 modes, vintage hardware models, $50 | [Get It](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
+| Soundtoys Decapitator | $149 | Saturation | 5 analog models, harmonic drive, tone shaping | [Get via Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
+| FabFilter Pro-L 2 | $179 | Limiter | True peak limiting, 8 algorithms, LUFS metering | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
+| iZotope Ozone | $99+ | Mastering | AI mastering, master rebalance, vintage modules | [Get It](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 
 ## How to Choose
 

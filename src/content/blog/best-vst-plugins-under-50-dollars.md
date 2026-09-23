@@ -164,7 +164,7 @@ TDR Limiter 6 GE sits just above the strict budget ceiling, but it earns its spo
 
 **Best for:** Mastering final output, transparent bus limiting, loudness maximization with full LUFS control.
 
-[→ Get TDR Limiter 6 GE on Plugin Boutique](https://www.pluginboutique.com/search?q=TDR%20Limiter%206%20GE&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars)
+[→ Get TDR Limiter 6 GE on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/4654-TDR-Limiter-6-GE?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars)
 
 ---
 
@@ -237,7 +237,7 @@ Chow Tape Model is a physically modeled, open-source tape machine with controls 
 
 **Best for:** Lo-fi aesthetics, warming up digital recordings, adding organic analog behavior to any source.
 
-[→ Get Chow Tape Model on Plugin Boutique](https://www.pluginboutique.com/search?q=Chow%20Tape%20Model&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars)
+[→ Get Chow Tape Model on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/7318-CHOW-Tape-Model?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars)
 [→ Download Chow Tape Model Free](https://chowdsp.com/products.html)
 
 ---
@@ -259,7 +259,7 @@ Surge XT is an open-source hybrid synthesizer with multiple oscillator types, ex
 
 **Best for:** Leads, pads, basses, evolving textures, full sound design workflows across any genre.
 
-[→ Get Surge XT on Plugin Boutique](https://www.pluginboutique.com/search?q=Surge%20XT%20synthesizer&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars)
+[→ Get Surge XT on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17453-Surge-XT?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars)
 [→ Download Surge XT Free](https://surge-synthesizer.github.io/)
 
 ---
@@ -352,12 +352,12 @@ MFreeFXBundle is the most generous free plugin release in the industry — a lar
 | Xfer OTT | Free | Multiband Compressor | 3-band upward compression, genre staple | [Plugin Boutique](https://xferrecords.com/freeware) |
 | Analog Obsession BUSTERse | Free | Bus Compressor | SSL-style glue, zero cost | [Get](https://www.pluginboutique.com/search?q=Analog%20Obsession%20BUSTERse&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | Klanghelm MJUC jr. | Free | Compressor | Variable-mu tube character | [Get](https://www.pluginboutique.com/search?q=Klanghelm%20MJUC%20jr&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
-| TDR Limiter 6 GE | ~$60* | Limiter | 6-stage modular mastering chain | [Buy](https://www.pluginboutique.com/search?q=TDR%20Limiter%206%20GE&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
+| TDR Limiter 6 GE | ~$60* | Limiter | 6-stage modular mastering chain | [Buy](https://www.pluginboutique.com/product/2-Effects/9-Limiter/4654-TDR-Limiter-6-GE?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | TDR Nova | Free | Dynamic EQ | Parallel dynamic EQ, transparent | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Baby Audio Smooth Operator | $49 | Spectral Processor | Intelligent mix balancing | [Buy](https://www.pluginboutique.com/search?q=Baby%20Audio%20Smooth%20Operator&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | Klanghelm SDRR | $21 | Saturation | 4 distinct drive modes | [Buy](https://www.pluginboutique.com/search?q=Klanghelm%20SDRR&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
-| Chow Tape Model | Free | Tape Emulation | Physically modeled, open-source | [Get](https://www.pluginboutique.com/search?q=Chow%20Tape%20Model&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
-| Surge XT | Free | Synthesizer | Hybrid engine, massive preset library | [Get](https://www.pluginboutique.com/search?q=Surge%20XT%20synthesizer&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
+| Chow Tape Model | Free | Tape Emulation | Physically modeled, open-source | [Get](https://www.pluginboutique.com/product/2-Effects/44-Saturation/7318-CHOW-Tape-Model?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
+| Surge XT | Free | Synthesizer | Hybrid engine, massive preset library | [Get](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17453-Surge-XT?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | u-he Zebralette | Free | Synthesizer | Spectral oscillator, u-he quality | [Get](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | Sitala | Free | Drum Sampler | 16-pad, no-friction workflow | [Get](https://www.pluginboutique.com/search?q=Sitala%20drum%20sampler&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | Melda MFreeFXBundle | Free | Bundle | Dozens of processors, no watermarks | [Get](https://www.pluginboutique.com/search?q=Melda%20MFreeFXBundle&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |

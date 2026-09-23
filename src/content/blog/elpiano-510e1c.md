@@ -13,7 +13,7 @@ saleExpiry: "2026-10-08"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** Elpiano, a virtual electric piano instrument, is currently 83% off at Plugin Boutique. The regular price is $149, which puts the sale price at roughly $25 after the discount is applied. Grab it through the [Plugin Boutique listing](https://www.pluginboutique.com/search?q=Elpiano&a_aid=69cb95abe1763&chan=art&data1=elpiano-510e1c&utm_source=plugindrop&utm_medium=article&utm_campaign=elpiano-510e1c) while the discount is live.
+**TL;DR:** Elpiano, a virtual electric piano instrument, is currently 83% off at Plugin Boutique. The regular price is $149, which puts the sale price at roughly $25 after the discount is applied. Grab it through the [Plugin Boutique listing](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14570-Elpiano?a_aid=69cb95abe1763&chan=art&data1=elpiano-510e1c&utm_source=plugindrop&utm_medium=article&utm_campaign=elpiano-510e1c) while the discount is live.
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="83% Off Elpiano — Vintage Electric Piano Sounds ($25) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2059890184&color=fecf60&hide_related=true&show_comments=false&show_teaser=false&show_user=false"></iframe>
@@ -65,7 +65,7 @@ A: Trial availability isn't confirmed here — check the product page for detail
 
 ## Should you buy now?
 
-At roughly 83% off a $149 regular price, Elpiano's current sale price of about $25 is a low-cost way to add an electric piano option to a template. If you're in the market for one and the price point works for you, this is a reasonable time to buy through [Plugin Boutique](https://www.pluginboutique.com/search?q=Elpiano&a_aid=69cb95abe1763&chan=art&data1=elpiano-510e1c&utm_source=plugindrop&utm_medium=article&utm_campaign=elpiora-510e1c).
+At roughly 83% off a $149 regular price, Elpiano's current sale price of about $25 is a low-cost way to add an electric piano option to a template. If you're in the market for one and the price point works for you, this is a reasonable time to buy through [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14570-Elpiano?a_aid=69cb95abe1763&chan=art&data1=elpiano-510e1c&utm_source=plugindrop&utm_medium=article&utm_campaign=elpiora-510e1c).
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
 

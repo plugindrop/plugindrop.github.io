@@ -15,7 +15,7 @@ saleExpirySource: "fallback"
 ---
 If you only install one, make it EMT 140 Classic Plate Reverberator if you specifically need a UAD Native plate reverb modeled after three vintage EMT 140 units.
 
-**TL;DR:** Plugin Boutique has the EMT 140 Classic Plate Reverberator for **$79.00**, down from ~~$149.00~~. That is a $70 saving, or 47% off, on a native plate reverb with three modeled plate variations and controls for damping, filtering, balance, width, and modulation. [Check the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=EMT+140+Classic+Plate+Reverberator&a_aid=69cb95abe1763&chan=art&data1=emt-140-classic-plate-reverberator-0c6051&utm_source=plugindrop&utm_medium=article&utm_campaign=emt-140-classic-plate-reverberator-0c6051).
+**TL;DR:** Plugin Boutique has the EMT 140 Classic Plate Reverberator for **$79.00**, down from ~~$149.00~~. That is a $70 saving, or 47% off, on a native plate reverb with three modeled plate variations and controls for damping, filtering, balance, width, and modulation. [Check the deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/17663-EMT-140-Classic-Plate-Reverberator?a_aid=69cb95abe1763&chan=art&data1=emt-140-classic-plate-reverberator-0c6051&utm_source=plugindrop&utm_medium=article&utm_campaign=emt-140-classic-plate-reverberator-0c6051).
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $149
@@ -62,7 +62,7 @@ The product page identifies plates A and B as using the original EMT electronics
 
 This is a single plug-in license, not a bundle, so there is no per-unit calculation to make. The supplied deal information describes it as a limited-time Plugin Boutique offer; no end date is confirmed here.
 
-Verify current pricing on the product page — deals can change. [See the current EMT 140 offer](https://www.pluginboutique.com/search?q=EMT+140+Classic+Plate+Reverberator&a_aid=69cb95abe1763&chan=art&data1=emt-140-classic-plate-reverberator-0c6051&utm_source=plugindrop&utm_medium=article&utm_campaign=emt-140-classic-plate-reverberator-0c6051).
+Verify current pricing on the product page — deals can change. [See the current EMT 140 offer](https://www.pluginboutique.com/product/2-Effects/17-Reverb/17663-EMT-140-Classic-Plate-Reverberator?a_aid=69cb95abe1763&chan=art&data1=emt-140-classic-plate-reverberator-0c6051&utm_source=plugindrop&utm_medium=article&utm_campaign=emt-140-classic-plate-reverberator-0c6051).
 
 ## Alternatives at a Glance
 
@@ -91,7 +91,7 @@ A: The listed requirements include supported macOS versions and 64-bit Windows 1
 
 ## Get the Deal
 
-The current price is **$79.00 instead of ~~$149.00~~**, saving $70 on Universal Audio’s three-plate EMT 140 model. [Get the EMT 140 deal from Plugin Boutique](https://www.pluginboutique.com/search?q=EMT+140+Classic+Plate+Reverberator&a_aid=69cb95abe1763&chan=art&data1=emt-140-classic-plate-reverberator-0c6051&utm_source=plugindrop&utm_medium=article&utm_campaign=emt-140-classic-plate-reverberator-0c6051).
+The current price is **$79.00 instead of ~~$149.00~~**, saving $70 on Universal Audio’s three-plate EMT 140 model. [Get the EMT 140 deal from Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/17663-EMT-140-Classic-Plate-Reverberator?a_aid=69cb95abe1763&chan=art&data1=emt-140-classic-plate-reverberator-0c6051&utm_source=plugindrop&utm_medium=article&utm_campaign=emt-140-classic-plate-reverberator-0c6051).
 
 ## Is This Deal Worth It?
 

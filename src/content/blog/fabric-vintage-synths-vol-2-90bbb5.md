@@ -13,7 +13,7 @@ draft: false
 saleExpiry: "2026-09-22"
 saleExpirySource: "fallback"
 ---
-**TL;DR:** Fabric Vintage Synths Vol 2 is ~~$299~~ **$119** at Plugin Boutique right now, a 60% cut off the regular price. It's a sample/instrument bundle built around vintage synthesizer tones for producers who want analog-style character without buying hardware. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Fabric+Vintage+Synths+Vol+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabric-vintage-synths-vol-2-90bbb5).
+**TL;DR:** Fabric Vintage Synths Vol 2 is ~~$299~~ **$119** at Plugin Boutique right now, a 60% cut off the regular price. It's a sample/instrument bundle built around vintage synthesizer tones for producers who want analog-style character without buying hardware. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17701-Fabric-Vintage-Synths-Vol-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabric-vintage-synths-vol-2-90bbb5&chan=art&data1=fabric-vintage-synths-vol-2-90bbb5).
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $299
@@ -76,7 +76,7 @@ A: Check Plugin Boutique's official refund policy on their site before purchasin
 
 $180 off a vintage synth bundle is a meaningful discount for anyone building out an analog-style sound library. The deal is live now at Plugin Boutique.
 
-[Get Fabric Vintage Synths Vol 2 at Plugin Boutique](https://www.pluginboutique.com/search?q=Fabric+Vintage+Synths+Vol+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabric-vintage-synths-vol-2-90bbb5).
+[Get Fabric Vintage Synths Vol 2 at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17701-Fabric-Vintage-Synths-Vol-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabric-vintage-synths-vol-2-90bbb5&chan=art&data1=fabric-vintage-synths-vol-2-90bbb5).
 
 ## Is This Deal Worth It?
 

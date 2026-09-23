@@ -19,7 +19,7 @@ draft: false
 | Klanghelm DC8C | Free (gratis version) | Learning sidechain compression without cost | [Plugin Boutique](https://www.pluginboutique.com/search?q=Klanghelm%20DC8C&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression&chan=art&data1=how-to-sidechain-compression) |
 | FabFilter Pro-C 2 | $179 | Transparent or pumping sidechain in any context | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=how-to-sidechain-compression) |
 | Xfer LFO Tool | $20 | Volume automation-style pumping as sidechain alternative | [Plugin Boutique](https://www.pluginboutique.com/search?q=Xfer%20LFO%20Tool&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression&chan=art&data1=how-to-sidechain-compression) |
-| Waves OneKnob Pumper | ~$29 | Fast, tempo-synced sidechain effect without routing | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20OneKnob%20Pumper&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression&chan=art&data1=how-to-sidechain-compression) |
+| Waves OneKnob Pumper | ~$29 | Fast, tempo-synced sidechain effect without routing | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/13733-OneKnob-Pumper?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression&chan=art&data1=how-to-sidechain-compression) |
 
 ---
 

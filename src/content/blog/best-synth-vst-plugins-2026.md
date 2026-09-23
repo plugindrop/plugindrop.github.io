@@ -26,7 +26,7 @@ Before the full rankings, here's the fast comparison. This table covers price, i
 | Plugin | Price | Best For | Free Trial? | Plugin Boutique Link |
 |--------|-------|----------|--------------|-----------------------|
 | Vital | Free | Wavetable synthesis, all genres | N/A — fully free | [Free Download](https://vital.audio/) |
-| Serum | $189 | EDM, bass music, professional workflows | Yes (full demo, no save/export) | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-vst-plugins-2026&chan=art&data1=best-synth-vst-plugins-2026) |
+| Serum | $189 | EDM, bass music, professional workflows | Yes (full demo, no save/export) | [Plugin Boutique](https://xferrecords.com/products/serum-2) |
 | Phase Plant | $99 | Modular sound design, maximum flexibility | Yes (full demo) | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=best-synth-vst-plugins-2026) |
 | Arturia Pigments 5 | $99 | Multi-engine exploration, visual patching | Yes (unlimited demo w/ noise) | [Plugin Boutique](https://www.pluginboutique.com/search?q=15%20Best%20Synthesizer%20VST%20Plugins%20in%202026%20%28Every%20Budget%29&a_aid=69cb95abe1763&chan=art&data1=best-synth-vst-plugins-2026) |
 | u-he Hive 2 | $149 | Fast workflow, analog warmth | Yes (full, w/ periodic noise burst) | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763&chan=art&data1=best-synth-vst-plugins-2026) |
@@ -243,7 +243,7 @@ Serum is one of the more sale-resistant flagship synths — Xfer rarely discount
 
 **Best for:** Producers who want the most supported ecosystem, the largest preset community, and a workflow the entire internet knows how to teach.
 
-[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-vst-plugins-2026&chan=art&data1=best-synth-vst-plugins-2026)
+[→ Get Serum](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -338,7 +338,7 @@ Like Diva, Zebra 2 discounts are occasional and modest. If you're building a u-h
 
 **Best for:** Sound designers, film composers, and experimental producers who need maximum synthesis depth and a timeless, extensively battle-tested engine.
 
-[→ Get u-he Zebra 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=u-he%20Zebra%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-vst-plugins-2026&chan=art&data1=best-synth-vst-plugins-2026)
+[→ Get u-he Zebra 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17180-Zebra-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-vst-plugins-2026&chan=art&data1=best-synth-vst-plugins-2026)
 
 ---
 
@@ -373,7 +373,7 @@ At $499, this is the one purchase on this list where waiting for a sale actually
 - **Price:** $189
 - **Why upgrade:** Vital's free tier is a genuinely capable production tool, but Serum's wavetable editor, workflow refinements, and preset community represent over a decade of professional use-case optimization. If you're spending serious time producing electronic music, the shared vocabulary alone — tutorials, preset packs, community knowledge — pays back the investment in workflow speed.
 
-[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-synth-vst-plugins-2026&chan=art&data1=best-synth-vst-plugins-2026)
+[→ Get Serum](https://xferrecords.com/products/serum-2)
 
 ---
 

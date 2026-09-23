@@ -24,7 +24,7 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Serum 2 | $189 | Wavetable synthesis | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200&chan=art&data1=best-vst-plugins-under-200) |
+| Serum 2 | $189 | Wavetable synthesis | [Official Site](https://xferrecords.com/products/serum-2) |
 | FabFilter Pro-C 2 | $179 | Transparent compression | [Official Site](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-200) |
 | Valhalla VintageVerb | $50 | Algorithmic reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
 | iZotope Neutron 4 | Varies | AI-assisted mixing suite | [Official Site](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-200) |
@@ -59,7 +59,7 @@ r/edmproduction has consistently cited Serum as the most-used wavetable synthesi
 
 **Best for:** Electronic producers who need one synth that handles leads, basses, pads, and effects design without a sound ceiling.
 
-[→ Get Serum 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200&chan=art&data1=best-vst-plugins-under-200)
+[→ Get Serum 2](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -269,7 +269,7 @@ Soundtoys Decapitator is a consistently cited saturation tool in r/audioengineer
 
 **Best for:** Producers and engineers who want a dedicated saturation tool for adding harmonic content to drums, synths, and mix buses where a subtle but distinguishable character is the goal.
 
-[→ Get Soundtoys Decapitator (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-200)
+[→ Get Soundtoys Decapitator (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-200)
 
 *(No affiliate link available for this plugin.)*
 
@@ -319,7 +319,7 @@ Spitfire Audio's LABS series offers an expanding catalogue of individual sample-
 - **Price:** $189
 - **Why upgrade:** Vital's free tier provides a complete and capable wavetable engine, but Serum 2's expanded modulation architecture, broader wavetable library, and the depth of its community-driven preset ecosystem represent a meaningful gap. If synthesis drives your production approach rather than supplementing it, the ceiling difference justifies the investment.
 
-[→ Get Serum 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200&chan=art&data1=best-vst-plugins-under-200)
+[→ Get Serum 2](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -339,7 +339,7 @@ Spitfire Audio's LABS series offers an expanding catalogue of individual sample-
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Serum 2 | $189 | Wavetable Synth | High-res wavetables, deep modulation routing | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200&chan=art&data1=best-vst-plugins-under-200) |
+| Serum 2 | $189 | Wavetable Synth | High-res wavetables, deep modulation routing | [Official Site](https://xferrecords.com/products/serum-2) |
 | FabFilter Pro-C 2 | $179 | Compressor | 8 compression styles, real-time visualization | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-200) |
 | iZotope Neutron 4 | Varies | Mixing Suite | AI Track Assistant, 6 integrated processors | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-200) |
 | Arturia Pigments 5 | ~$99–$149 | Multi-Engine Synth | 4 engines, visual modulation matrix | — |
@@ -388,7 +388,7 @@ A: Consistently, yes. KVR threads on professional freeware regularly cite both T
 
 For under $200, the highest-ROI combination a producer can make in 2026 is Serum 2 for synthesis, FabFilter Pro-C 2 for compression, and Valhalla VintageVerb for reverb — three tools that cover the most-used plugin categories at price points where the community consensus rates them above alternatives at two to five times the cost. Fill the remaining gaps with the free picks in this guide and the toolkit is complete before you spend anything else.
 
-[→ Start with Serum 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-200&chan=art&data1=best-vst-plugins-under-200) | [→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-200) | [→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
+[→ Start with Serum 2](https://xferrecords.com/products/serum-2) | [→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-200) | [→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
 
 ---
 

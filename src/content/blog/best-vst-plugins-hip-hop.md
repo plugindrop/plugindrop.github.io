@@ -19,7 +19,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Serum | $189 | 808 bass & lead synths | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop&chan=art&data1=best-vst-plugins-hip-hop) |
+| Serum | $189 | 808 bass & lead synths | [Official Site](https://xferrecords.com/products/serum-2) |
 | Battery 4 | $149 | Drum sample layering | [Official Site](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) |
 | Addictive Drums 2 | From $179 | Live boom bap drum kits | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/1475-Addictive-Drums-2?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-hip-hop) |
 | Waves SSL G-Master | From $29 | Bus glue compression | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
@@ -132,7 +132,7 @@ Serum dominates discussions about 808 bass design on Reddit's r/makinghiphop and
 
 **Best for:** 808 bass design, wavetable leads, and any producer ready to invest in their primary synthesis tool.
 
-[→ Get Serum on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop&chan=art&data1=best-vst-plugins-hip-hop)
+[→ Get Serum on the Official Site](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -324,7 +324,7 @@ LoudMax is a look-ahead true peak limiter that producer forums recommend when yo
 - **Price:** $189
 - **Why upgrade:** Vital covers wavetable synthesis at zero cost, but Serum's modulation routing depth and the ecosystem built around it — third-party 808 packs, community patches, tutorial libraries — represent a resource that free alternatives haven't matched. If synthesis is central to your workflow rather than incidental, that ecosystem compounds in value over time.
 
-[→ Get Serum on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop&chan=art&data1=best-vst-plugins-hip-hop)
+[→ Get Serum on the Official Site](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -344,7 +344,7 @@ LoudMax is a look-ahead true peak limiter that producer forums recommend when yo
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Serum | $189 | Wavetable Synth | 808 design, massive preset ecosystem, deep modulation | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-hip-hop&chan=art&data1=best-vst-plugins-hip-hop) |
+| Serum | $189 | Wavetable Synth | 808 design, massive preset ecosystem, deep modulation | [Official Site](https://xferrecords.com/products/serum-2) |
 | Battery 4 | $149 | Drum Sampler | Cell-based layering, per-pad tuning, pro library | [Get it](https://www.native-instruments.com/en/products/maschine/) |
 | Addictive Drums 2 | From $179 | Acoustic Drums | Mic bleed modeling, live-recorded kits, mix board | [Get it](https://www.native-instruments.com/en/products/maschine/) |
 | Waves SSL G-Master | From $29 | Bus Compressor | SSL 4000 G emulation, drum bus glue | [Get it](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |

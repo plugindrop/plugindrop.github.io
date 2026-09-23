@@ -23,7 +23,7 @@ priceTrack:
 | Phase Plant | $149 | Modular routing, deep sound design | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=serum-alternatives-paid-2026) |
 | Pigments | $199 | Multi-engine versatility, visual modulation | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=serum-alternatives-paid-2026) |
 | Spire | $119 | EDM, trance, fast genre production | [Official Site](https://www.reveal-sound.com/store/product/Spire_Synthesizer_License) |
-| Serum 2 | $189 | Industry-standard preset ecosystem | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026&chan=art&data1=serum-alternatives-paid-2026) |
+| Serum 2 | $189 | Industry-standard preset ecosystem | [Official Site](https://xferrecords.com/products/serum-2) |
 
 ---
 
@@ -154,7 +154,7 @@ At $119, Spire is the lowest-priced option in this comparison and the strongest 
 - **Price:** $189
 - **Why upgrade:** None of the alternatives replicate Serum's third-party preset ecosystem, tutorial infrastructure, or Splice integration. If you collaborate with producers who share Serum patches, purchase commercial preset banks, or rely on the volume of Serum-specific educational content available online, Serum 2 is the only option that preserves that workflow.
 
-[→ Get Serum 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026&chan=art&data1=serum-alternatives-paid-2026)
+[→ Get Serum 2](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -165,7 +165,7 @@ At $119, Spire is the lowest-priced option in this comparison and the strongest 
 | Phase Plant | $149 | Modular (wavetable, analog, sample, phase distortion) | Fully modular signal path, Snapin ecosystem, blank-canvas architecture | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=serum-alternatives-paid-2026) |
 | Pigments | $199 | Multi-engine (wavetable, VA, granular, harmonic, sample) | Dual-engine patches, visual mod routing, broad genre coverage | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=serum-alternatives-paid-2026) |
 | Spire | $119 | Wavetable + FM + spectral | Dense EDM sound character, fast genre workflow, four multi-mode oscillators | [Get It](https://www.reveal-sound.com/store/product/Spire_Synthesizer_License) |
-| Serum 2 | $189 | Wavetable | Industry-standard preset ecosystem, Splice integration, largest tutorial library | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-alternatives-paid-2026&chan=art&data1=serum-alternatives-paid-2026) |
+| Serum 2 | $189 | Wavetable | Industry-standard preset ecosystem, Splice integration, largest tutorial library | [Official Site](https://xferrecords.com/products/serum-2) |
 
 ---
 

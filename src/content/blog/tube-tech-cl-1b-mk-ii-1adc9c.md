@@ -13,7 +13,7 @@ draft: false
 saleExpiry: "2026-09-23"
 saleExpirySource: "fallback"
 ---
-**TL;DR:** Plugin Boutique has the Tube Tech CL 1B Mk II compressor plugin at ~~$199~~ **$69**, a 65% discount. That's a $130 savings on a tube-modeled optical compressor built around the hardware original. [Grab the deal here](https://www.pluginboutique.com/search?q=Tube+Tech+CL+1B+Mk+II&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tube-tech-cl-1b-mk-ii-1adc9c).
+**TL;DR:** Plugin Boutique has the Tube Tech CL 1B Mk II compressor plugin at ~~$199~~ **$69**, a 65% discount. That's a $130 savings on a tube-modeled optical compressor built around the hardware original. [Grab the deal here](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11535-Tube-Tech-CL-1B-Mk-II?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tube-tech-cl-1b-mk-ii-1adc9c&chan=art&data1=tube-tech-cl-1b-mk-ii-1adc9c).
 
 ## Price Context (tracked by PluginDrop)
 - Tracked since 2026-08-02 (33 observations)
@@ -51,7 +51,7 @@ The Tube Tech CL 1B Mk II is a compressor plugin modeled on the classic Tube-Tec
 
 Plugin Boutique runs discounts across its compressor and channel-strip catalog periodically, though the frequency and depth of any single title's sales can vary.
 
-[See the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=Tube+Tech+CL+1B+Mk+II&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tube-tech-cl-1b-mk-ii-1adc9c).
+[See the current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11535-Tube-Tech-CL-1B-Mk-II?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tube-tech-cl-1b-mk-ii-1adc9c&chan=art&data1=tube-tech-cl-1b-mk-ii-1adc9c).
 
 ## Alternatives at a Glance
 
@@ -80,7 +80,7 @@ A: System requirements vary by OS and DAW version.
 
 $130 off a tube-modeled compressor plugin is a meaningful drop from its $199 list price. Stock and pricing can change without notice, so it's worth locking in now if the CL 1B circuit is on your shortlist.
 
-[Get the Tube Tech CL 1B Mk II deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Tube+Tech+CL+1B+Mk+II&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tube-tech-cl-1b-mk-ii-1adc9c).
+[Get the Tube Tech CL 1B Mk II deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11535-Tube-Tech-CL-1B-Mk-II?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tube-tech-cl-1b-mk-ii-1adc9c&chan=art&data1=tube-tech-cl-1b-mk-ii-1adc9c).
 
 ## Is This Deal Worth It?
 

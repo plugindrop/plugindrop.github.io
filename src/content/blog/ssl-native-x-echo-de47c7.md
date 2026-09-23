@@ -15,7 +15,7 @@ saleExpirySource: "fallback"
 ---
 If you only grab one delay plugin from SSL's catalog this week, make it Echo — the discount cuts an $99 plugin down to $15, and SSL's Native X line rarely dips this low.
 
-**TL;DR:** SSL Native X Echo is on sale at Plugin Boutique for $15, down from ~~$99~~. That's an 85% discount on a delay plugin built around SSL's signature processing lineage. [Grab it at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+Native+X+Echo&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-echo-de47c7) while the deal is live.
+**TL;DR:** SSL Native X Echo is on sale at Plugin Boutique for $15, down from ~~$99~~. That's an 85% discount on a delay plugin built around SSL's signature processing lineage. [Grab it at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/8674-SSL-Native-X-Echo?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-echo-de47c7&chan=art&data1=ssl-native-x-echo-de47c7) while the deal is live.
 
 ## Price Context (tracked by PluginDrop)
 - Tracked since 2022-08-08 (7 observations)
@@ -55,7 +55,7 @@ For exact parameter names, modulation options, and preset counts, verify directl
 
 SSL's Native X plugins don't discount as aggressively or as often as many boutique developers — an 85% cut is a steep markdown by comparison.
 
-[Get SSL Native X Echo at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+Native+X+Echo&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-echo-de47c7)
+[Get SSL Native X Echo at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/8674-SSL-Native-X-Echo?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-echo-de47c7&chan=art&data1=ssl-native-x-echo-de47c7)
 
 ## Alternatives at a Glance
 
@@ -83,7 +83,7 @@ A: Compatibility depends on your DAW supporting the plugin's listed formats. Che
 
 An $99 SSL delay plugin for $15 is an 85% discount that won't sit at this price indefinitely.
 
-[Get SSL Native X Echo now at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+Native+X+Echo&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-echo-de47c7)
+[Get SSL Native X Echo now at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/8674-SSL-Native-X-Echo?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-echo-de47c7&chan=art&data1=ssl-native-x-echo-de47c7)
 
 ## Is This Deal Worth It?
 

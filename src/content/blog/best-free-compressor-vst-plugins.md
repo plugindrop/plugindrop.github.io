@@ -27,7 +27,7 @@ priceTrack:
 | TDR Kotelnikov | Free | Mastering, mix bus, transparent glue | [Plugin Boutique](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Molot GE | Free | Vintage character, drums, buses | [Plugin Boutique](https://www.pluginboutique.com/search?q=Molot%20GE%20compressor&a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins) |
 | DC1A | Free | Vocals, fast workflow, always musical | [Plugin Boutique](https://klanghelm.com/contents/products/DC1A) |
-| Rough Rider 3 | Free | Drums, aggressive parallel punch | [Plugin Boutique](https://www.pluginboutique.com/search?q=Rough%20Rider%203&a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins) |
+| Rough Rider 3 | Free | Drums, aggressive parallel punch | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins) |
 | OTT | Free | EDM synths, multiband upward compression | [Plugin Boutique](https://xferrecords.com/freeware) |
 | Klanghelm MJUC jr. | Free | Vintage tube warmth, subtle saturation | [Free Download](https://klanghelm.com/contents/products/MJUC.php) |
 | Density mkIII | Free | Mix bus analog glue (Windows) | [Free Download](https://varietyofsound.wordpress.com/) |
@@ -254,7 +254,7 @@ Rough Rider 3 is a high-ratio, program-dependent compressor purpose-built to be 
 
 **Skip it if:** you want transparency or mastering glue — Rough Rider is voiced to pump and grab, which is fantastic on drums and dead wrong on a clean master bus.
 
-[→ Get Rough Rider 3 on Plugin Boutique](https://www.pluginboutique.com/search?q=Rough%20Rider%203&a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins) | [→ Download Rough Rider 3 Free](https://www.audiodamage.com/pages/free-and-legacy)
+[→ Get Rough Rider 3 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins) | [→ Download Rough Rider 3 Free](https://www.audiodamage.com/pages/free-and-legacy)
 
 *Watch the demo:* [YouTube](https://www.youtube.com/watch?v=j47NrMNeaf0)
 
@@ -328,7 +328,7 @@ The free tier covers most professional work in 2026. But when you keep hitting t
 - **Price:** From $29.99 (frequently on sale)
 - **Why upgrade:** The SSL G bus compressor is the most referenced piece of compression hardware in commercial mixing history. Free bus compressors approach its program-dependent character and glue; they don't replicate it. If your mixes need to compete sonically with major-label releases in rock, pop, or R&B, this is the specific compressor on every professional's 2-bus — and Waves frequently prices it below $30.
 
-[→ Get Waves SSL G-Master Buss Compressor on Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20SSL%20G-Master%20Buss%20Compressor&a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins)
+[→ Get Waves SSL G-Master Buss Compressor on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/13690-SSL-G-Master-Buss-Compressor?a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins)
 
 *Watch the demo:* [YouTube](https://www.youtube.com/watch?v=rYLE97NbenM)
 
@@ -363,11 +363,11 @@ The honest timing rule: none of these is ever urgent. Waves and UAD run sales so
 | DC1A | Free | Simple/musical | 2 controls, always correct | [Plugin Boutique](https://klanghelm.com/contents/products/DC1A) |
 | Density mkIII | Free | Bus compressor | 4 characters, analog glue, Windows | [Get It](https://varietyofsound.wordpress.com/) |
 | GVST GComp2 | Free | Utility | Predictable, lightweight, Windows | [Get It](https://gvst.uk/gcomp.htm) |
-| Rough Rider 3 | Free | Aggressive/drums | Built-in parallel blend, high ratio | [Get It](https://www.pluginboutique.com/search?q=Rough%20Rider%203&a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins) |
+| Rough Rider 3 | Free | Aggressive/drums | Built-in parallel blend, high ratio | [Get It](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins) |
 | Limiter No6 | Free | Multi-stage | Compressor + limiter + clipper chain | [Get It](https://vladgsound.wordpress.com/plugins/limiter6/) |
 | OTT | Free | Multiband upward | EDM standard, Depth control | [Plugin Boutique](https://xferrecords.com/freeware) |
 | FabFilter Pro-C 2 | $179 | Multi-mode | 8 algorithms, M/S, sidechain EQ | [Get It](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins) |
-| Waves SSL G-Master Buss | From $29.99 | Hardware emulation | Classic 2-bus console glue | [Get It](https://www.pluginboutique.com/search?q=Waves%20SSL%20G-Master%20Buss%20Compressor&a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins) |
+| Waves SSL G-Master Buss | From $29.99 | Hardware emulation | Classic 2-bus console glue | [Get It](https://www.pluginboutique.com/product/2-Effects/8-Compressor/13690-SSL-G-Master-Buss-Compressor?a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins) |
 
 ---
 

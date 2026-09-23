@@ -21,7 +21,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Xfer Serum | $189 | Modern plucks, stabs, arps | [Xfer Records](https://xferrecords.com/products/serum) |
-| Native Instruments Massive X | $199 | Deep bass and evolving textures | [Plugin Boutique](https://www.pluginboutique.com/search?q=Massive%20X&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-house-music&chan=art&data1=best-plugins-for-house-music) |
+| Native Instruments Massive X | $199 | Deep bass and evolving textures | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10604-MASSIVE-X?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-house-music&chan=art&data1=best-plugins-for-house-music) |
 | LennarDigital Sylenth1 | $139 | Classic house chord sounds | [Plugin Boutique](https://www.pluginboutique.com/search?q=Sylenth1&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-house-music&chan=art&data1=best-plugins-for-house-music) |
 | FabFilter Pro-Q 4 | $179 | Surgical EQ for DJ-ready mixes | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-for-house-music) |
 | iZotope Neutron | $99+ | Channel strip with AI assist | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Neutron%204&a_aid=69cb95abe1763&chan=art&data1=best-plugins-for-house-music) |
@@ -65,7 +65,7 @@ This guide ranks the eight most important plugins for house music production in 
 
 **Best for:** Deep house and tech house producers who need bass sounds with complex harmonic content and built-in movement, particularly for the evolving sub-bass textures that characterize current production.
 
-[→ Get Native Instruments Massive X (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Massive%20X&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-house-music&chan=art&data1=best-plugins-for-house-music)
+[→ Get Native Instruments Massive X (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10604-MASSIVE-X?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-house-music&chan=art&data1=best-plugins-for-house-music)
 
 ---
 

@@ -18,7 +18,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Serum | $189 | Professional wavetable design, industry-standard workflow | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=is-serum-worth-it&chan=art&data1=is-serum-worth-it) |
+| Serum | $189 | Professional wavetable design, industry-standard workflow | [Official Site](https://xferrecords.com/products/serum-2) |
 | Vital | Free / $25 / $80 | Beginners, budget producers, wavetable exploration | [Free](https://vital.audio/) |
 | Phase Plant | $199 | Modular power users, deep sound architects | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=is-serum-worth-it) |
 
@@ -55,7 +55,7 @@ The workflow is built around a visual drag-and-drop modulation system. Hover ove
 
 **Best for:** Producers working in future bass, dubstep, melodic bass, EDM, or any genre where complex wavetable leads and basses are central — and anyone building a professional toolkit they'll use for years.
 
-[→ Get Serum on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=is-serum-worth-it&chan=art&data1=is-serum-worth-it)
+[→ Get Serum on the Official Site](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -92,7 +92,7 @@ Where Vital lags behind is the preset ecosystem and, crucially, the wavetable ed
 - **Price:** $189
 - **Why upgrade:** Vital's free tier is excellent, but Serum's wavetable editor, mature preset ecosystem, and industry-standard status mean that collaborative sessions, tutorial resources, and preset compatibility all skew heavily toward Serum. If you're hitting Vital's ceiling on wavetable creation or spending time adapting Serum tutorials to a different workflow, the upgrade cost becomes straightforward.
 
-[→ Get Serum on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=is-serum-worth-it&chan=art&data1=is-serum-worth-it)
+[→ Get Serum on the Official Site](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -112,7 +112,7 @@ Where Vital lags behind is the preset ecosystem and, crucially, the wavetable ed
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Serum | $189 | Wavetable | Mature wavetable editor, vast preset ecosystem, industry standard | [Get Serum (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=is-serum-worth-it&chan=art&data1=is-serum-worth-it) |
+| Serum | $189 | Wavetable | Mature wavetable editor, vast preset ecosystem, industry standard | [Get Serum](https://xferrecords.com/products/serum-2) |
 | Vital (Free) | Free | Wavetable | Spectral morphing, 3 oscillators, deep mod matrix, Linux support | [Download Free (Plugin Boutique)](https://vital.audio/) |
 | Vital (Plus) | $25 | Wavetable | Expanded preset library, additional wavetables | [Vital.audio](https://vital.audio/) |
 | Vital (Pro) | $80 | Wavetable | Full preset library, all features unlocked | [Vital.audio](https://vital.audio/) |
@@ -152,7 +152,7 @@ A: Serum is an instrument with a fixed but highly flexible architecture — two 
 
 Ten years in, Serum is still worth buying if you're serious about synthesis — the wavetable editor, preset ecosystem, and workflow efficiency hold up against everything released since. Start with Vital if you're building your skills; move to Serum when the free tier starts limiting what you can hear in your head.
 
-[→ Get Serum on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=is-serum-worth-it&chan=art&data1=is-serum-worth-it)
+[→ Get Serum on the Official Site](https://xferrecords.com/products/serum-2)
 
 ---
 

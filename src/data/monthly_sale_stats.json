@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22",
+  "generated_at": "2026-09-23",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": true,
-      "generated_at": "2026-09-22",
-      "observations": 2533,
-      "products_tracked": 482,
-      "products_on_sale": 254,
-      "on_sale_pct": 52.7,
-      "avg_discount_pct": 57.0,
-      "median_discount_pct": 54.0,
+      "generated_at": "2026-09-23",
+      "observations": 2643,
+      "products_tracked": 483,
+      "products_on_sale": 255,
+      "on_sale_pct": 52.8,
+      "avg_discount_pct": 57.1,
+      "median_discount_pct": 54,
       "discount_buckets": {
         "1-19": 13,
         "20-39": 41,
         "40-59": 78,
-        "60+": 122
+        "60+": 123
       },
-      "all_time_low_hits": 221,
+      "all_time_low_hits": 222,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -286,9 +286,9 @@
       "by_category": [
         {
           "category": "Other",
-          "tracked": 348,
-          "on_sale": 198,
-          "on_sale_pct": 56.9,
+          "tracked": 349,
+          "on_sale": 199,
+          "on_sale_pct": 57.0,
           "avg_discount_pct": 59.6
         },
         {
@@ -394,15 +394,15 @@
         {
           "category": "Other",
           "tracked": 157,
-          "on_sale": 107,
-          "on_sale_pct": 68.2,
-          "avg_discount_pct": 59.7
+          "on_sale": 108,
+          "on_sale_pct": 68.8,
+          "avg_discount_pct": 59.8
         },
         {
           "category": "Universal Audio",
-          "tracked": 53,
+          "tracked": 54,
           "on_sale": 53,
-          "on_sale_pct": 100.0,
+          "on_sale_pct": 98.1,
           "avg_discount_pct": 67.5
         },
         {
@@ -625,16 +625,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-08",
-        "on_sale_pct_delta": -8.0,
-        "avg_discount_pct_delta": 3.6,
-        "products_tracked_delta": 57
+        "on_sale_pct_delta": -7.9,
+        "avg_discount_pct_delta": 3.7,
+        "products_tracked_delta": 58
       }
     },
     {
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-09-22",
+      "generated_at": "2026-09-23",
       "observations": 3587,
       "products_tracked": 425,
       "products_on_sale": 258,
@@ -647,7 +647,7 @@
         "40-59": 91,
         "60+": 95
       },
-      "all_time_low_hits": 206,
+      "all_time_low_hits": 205,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -1230,7 +1230,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-09-22",
+      "generated_at": "2026-09-23",
       "observations": 1968,
       "products_tracked": 289,
       "products_on_sale": 142,
@@ -1243,7 +1243,7 @@
         "40-59": 52,
         "60+": 61
       },
-      "all_time_low_hits": 110,
+      "all_time_low_hits": 109,
       "deepest_discounts": [
         {
           "name": "CARBON",

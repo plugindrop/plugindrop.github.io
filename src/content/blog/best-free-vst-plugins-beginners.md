@@ -23,8 +23,8 @@ draft: false
 | Valhalla Supermassive | Free | Lush reverb & space | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TDR Nova | Free | Dynamic EQ | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
 | TDR Kotelnikov | Free | Transparent bus compression | [Plugin Boutique](https://www.tokyodawn.net/tdr-kotelnikov/) |
-| Rough Rider 3 | Free | Punchy drum compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=Rough%20Rider%203&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
-| Surge XT | Free | Deep sound design | [Plugin Boutique](https://www.pluginboutique.com/search?q=Surge%20XT&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
+| Rough Rider 3 | Free | Punchy drum compression | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
+| Surge XT | Free | Deep sound design | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17453-Surge-XT?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
 | LABS | Free | Cinematic sample instruments | [Free Download](https://labs.spitfireaudio.com/) |
 
 ---
@@ -79,7 +79,7 @@ Surge XT is an open-source hybrid synthesizer combining subtractive, FM, wavetab
 **Best for:** Producers who want to go deep into sound design without spending money.
 
 [→ Download Surge XT Free](https://surge-synthesizer.github.io/)
-[→ Get Surge XT on Plugin Boutique](https://www.pluginboutique.com/search?q=Surge%20XT&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners)
+[→ Get Surge XT on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17453-Surge-XT?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners)
 
 ---
 
@@ -171,7 +171,7 @@ Rough Rider 3 is the opposite of Kotelnikov — an aggressive, American-flavored
 **Best for:** Drums, bass, and learning how aggressive compression actually sounds.
 
 [→ Download Rough Rider 3 Free](https://www.audiodamage.com/pages/free-and-legacy)
-[→ Get Rough Rider 3 on Plugin Boutique](https://www.pluginboutique.com/search?q=Rough%20Rider%203&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners)
+[→ Get Rough Rider 3 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners)
 
 ---
 
@@ -415,7 +415,7 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 - **Price:** €899 (frequent sales)
 - **Why upgrade:** FabFilter's Pro-Q 4, Pro-C 2, and Pro-R are used in virtually every major mixing studio worldwide. The Total Bundle covers EQ, compression, reverb, delay, limiting, and saturation at a level of transparency and control that no free plugin on this list can fully match.
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners)
+[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners)
 
 ---
 
@@ -424,12 +424,12 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Vital | Free | Synth | Visual modulation, wavetable engine | [Plugin Boutique](https://vital.audio/) |
-| Surge XT | Free | Synth | Hybrid, open-source, massive depth | [Plugin Boutique](https://www.pluginboutique.com/search?q=Surge%20XT&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
+| Surge XT | Free | Synth | Hybrid, open-source, massive depth | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17453-Surge-XT?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
 | OB-Xd | Free | Synth | Oberheim emulation, warm, analog | [Free Download](https://www.discodsp.com/obxd/) |
 | TDR Nova | Free | Dynamic EQ | Dynamic + static EQ, low CPU | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
 | Voxengo SPAN | Free | Analyzer | FFT spectrum, industry standard | [Developer Site](https://www.voxengo.com/product/span/) |
 | TDR Kotelnikov | Free | Compressor | Transparent, mastering-grade | [Plugin Boutique](https://www.tokyodawn.net/tdr-kotelnikov/) |
-| Rough Rider 3 | Free | Compressor | Punchy, aggressive, beginner-simple | [Plugin Boutique](https://www.pluginboutique.com/search?q=Rough%20Rider%203&a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
+| Rough Rider 3 | Free | Compressor | Punchy, aggressive, beginner-simple | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
 | Valhalla Supermassive | Free | Reverb | Cosmic, lush, multiple algorithms | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Reverb-4 | Free | Reverb | Vintage plate, warm, musical | [Plugin Boutique](https://tal-software.com/products/tal-reverb-4) |
 | OrilRiver | Free | Reverb | Algorithmic, versatile, Windows | [Developer Site](https://www.kvraudio.com/product/orilriver-by-denis-tihanov) |
@@ -443,7 +443,7 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 | iZotope Vinyl | Free | FX | Vinyl artifacts, lo-fi standard | [Developer Site](https://www.izotope.com/en/products/vinyl.html) |
 | Melda MFreeFXBundle | Free | Bundle | 37 plugins, broad coverage | [Developer Site](https://www.meldaproduction.com/MFreeFXBundle) |
 | Serum | $189 | Synth | Industry standard wavetable | [Xfer Records](https://xferrecords.com/products/serum) |
-| FabFilter Total Bundle | €899 | Suite | Pro mixing suite, top-tier quality | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
+| FabFilter Total Bundle | €899 | Suite | Pro mixing suite, top-tier quality | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
 
 ---
 
@@ -478,7 +478,7 @@ A: VST3 is the current standard and is recommended for all new installs — it o
 
 For beginners in 2026, the quality of free plugins is genuinely extraordinary — and **Vital** remains the single best starting point in the entire ecosystem. Install it alongside **Valhalla Supermassive** and **TDR Nova**, and you have a production-ready kit that will serve you for years before you feel the ceiling.
 
-When you're ready to invest, the [FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) is the clearest upgrade path — it's what working professionals actually use.
+When you're ready to invest, the [FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) is the clearest upgrade path — it's what working professionals actually use.
 
 ---
 

@@ -20,8 +20,8 @@ priceTrack:
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 4 | $199 | Surgical EQ & frequency cleanup | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
-| Waves SSL G-Master Buss Compressor | $29.99 | Drum bus glue & punch | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20SSL%20G-Master%20Buss%20Compressor&a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
-| Transient Master (NI) | $99 | Fast attack/sustain shaping | [Plugin Boutique](https://www.pluginboutique.com/search?q=Transient%20Master&a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
+| Waves SSL G-Master Buss Compressor | $29.99 | Drum bus glue & punch | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/13690-SSL-G-Master-Buss-Compressor?a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
+| Transient Master (NI) | $99 | Fast attack/sustain shaping | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/11006-Transient-Master?a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
 | SPL Transient Designer | $99 | Analog-modeled transient control | [Plugin Boutique](https://www.pluginboutique.com/search?q=SPL%20Transient%20Designer&a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
 | bx_boom! | $29.99 | Kick body & sub reinforcement | [Plugin Boutique](https://www.pluginboutique.com/search?q=Brainworx%20bx_boom%20drum%20enhancer&a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
 | OTT (Xfer) | Free | Multiband upward compression & glue | [Plugin Boutique](https://xferrecords.com/freeware) |
@@ -78,7 +78,7 @@ Native Instruments' Transient Master is built for speed. Four controls — Attac
 
 **Best for:** Producers who want reliable, fast transient control without diving into menus.
 
-[→ Get Transient Master on Plugin Boutique](https://www.pluginboutique.com/search?q=Transient%20Master&a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain)
+[→ Get Transient Master on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/11006-Transient-Master?a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain)
 
 ---
 
@@ -137,7 +137,7 @@ The SSL G-Bus compressor is one of the most widely used bus compressors in profe
 
 **Best for:** Any genre that benefits from a cohesive, punchy drum bus — which is effectively every genre.
 
-[→ Get Waves SSL G-Master Buss Compressor on Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20SSL%20G-Master%20Buss%20Compressor&a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain)
+[→ Get Waves SSL G-Master Buss Compressor on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/13690-SSL-G-Master-Buss-Compressor?a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain)
 
 > **Watch it in action:** [Waves SSL G-Master Demo on YouTube](https://www.youtube.com/watch?v=rYLE97NbenM)
 
@@ -192,7 +192,7 @@ Once your chain is locked in, two paid expansions offer capabilities that none o
 - **Price:** $199
 - **Why upgrade:** OTT handles upward compression brilliantly for stylistic effect, but it's not a surgical tool. Pro-MB adds per-band dynamic EQ and multiband compression with FabFilter's visual interface, making it ideal for taming specific problem frequency ranges on a drum bus without affecting the overall character — something OTT cannot do with precision.
 
-[→ Get FabFilter Pro-MB on Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-MB&a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain)
+[→ Get FabFilter Pro-MB on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/919-FabFilter-Pro-MB?a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain)
 
 > **Watch it in action:** [FabFilter Pro-MB Demo on YouTube](https://www.youtube.com/watch?v=LNkaGACWuhs)
 
@@ -203,13 +203,13 @@ Once your chain is locked in, two paid expansions offer capabilities that none o
 | Plugin | Price | Type | Highlights | Get It |
 |--------|-------|------|------------|--------|
 | FabFilter Pro-Q 4 | $199 | EQ | Dynamic EQ, inter-channel spectrum analysis | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
-| Transient Master (NI) | $99 | Transient Shaper | 4-control simplicity, musical response | [Plugin Boutique](https://www.pluginboutique.com/search?q=Transient%20Master&a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
+| Transient Master (NI) | $99 | Transient Shaper | 4-control simplicity, musical response | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/11006-Transient-Master?a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
 | SPL Transient Designer | $99 | Transient Shaper | Analog character, Length control | [Plugin Boutique](https://www.pluginboutique.com/search?q=SPL%20Transient%20Designer&a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
 | bx_boom! | $29.99 | Drum Enhancer | Tunable kick sub reinforcement, M/S processing | [Plugin Boutique](https://www.pluginboutique.com/search?q=Brainworx%20bx_boom%20drum%20enhancer&a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
-| Waves SSL G-Master | $29.99 | Bus Compressor | VCA glue, auto-release, classic SSL character | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20SSL%20G-Master%20Buss%20Compressor&a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
+| Waves SSL G-Master | $29.99 | Bus Compressor | VCA glue, auto-release, classic SSL character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/13690-SSL-G-Master-Buss-Compressor?a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
 | OTT (Xfer) | Free | Upward Compressor | 3-band upward compression, presence & shimmer | [Plugin Boutique](https://xferrecords.com/freeware) |
 | Waves SSL Bundle | $299 | Bundle | Full SSL signal path, channel + bus tools | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20SSL%20Bundle&a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
-| FabFilter Pro-MB | $199 | Multiband Compressor | Surgical per-band dynamics, visual interface | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-MB&a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
+| FabFilter Pro-MB | $199 | Multiband Compressor | Surgical per-band dynamics, visual interface | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/919-FabFilter-Pro-MB?a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
 
 ---
 
@@ -246,7 +246,7 @@ The best drum mixing plugin chain in 2026 isn't the most expensive one — it's 
 
 If you're starting today, grab the SSL G-Master and OTT first — they're the lowest-cost, highest-impact combination in this entire list.
 
-[→ Start with the Waves SSL G-Master Buss Compressor on Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20SSL%20G-Master%20Buss%20Compressor&a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain)
+[→ Start with the Waves SSL G-Master Buss Compressor on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/13690-SSL-G-Master-Buss-Compressor?a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain)
 
 ---
 

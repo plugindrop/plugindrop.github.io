@@ -143,8 +143,8 @@ Composers working in film and television report that Diva's Divine mode output o
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| u-he Diva | $179 | Analog Circuit Emulation | Circuit-level modeling, 5 oscillator modules, 6 filter architectures, Divine mode | [Plugin Boutique](https://www.pluginboutique.com/search?q=Phase%20Plant&a_aid=69cb95abe1763&chan=art&data1=u-he-diva-review) |
-| Arturia V Collection 11 | $499 | Virtual Instrument Bundle | 30+ instrument emulations, wide stylistic and historical range | [Plugin Boutique](https://www.pluginboutique.com/search?q=Phase%20Plant&a_aid=69cb95abe1763&chan=art&data1=u-he-diva-review) |
+| u-he Diva | $179 | Analog Circuit Emulation | Circuit-level modeling, 5 oscillator modules, 6 filter architectures, Divine mode | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=u-he-diva-review) |
+| Arturia V Collection 11 | $499 | Virtual Instrument Bundle | 30+ instrument emulations, wide stylistic and historical range | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=u-he-diva-review) |
 | Phase Plant | $99 | Modular Hybrid Synthesizer | Wavetable, FM, modular signal routing, modern workflow | [Kilohearts](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=u-he-diva-review) |
 
 ---

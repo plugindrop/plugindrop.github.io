@@ -13,7 +13,7 @@ draft: false
 saleExpiry: "2026-09-28"
 saleExpirySource: "fallback"
 ---
-**TL;DR:** SOLID 2 is currently listed at Plugin Boutique for $9.00, down from ~~$119.00~~ — a 92% discount. It's filed under Plugin Boutique's Virtual Instruments category and is pitched as a workflow-focused production tool. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=SOLID+2&a_aid=69cb95abe1763&chan=art&data1=solid-2-fde79b&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-2-fde79b) before the price reverts.
+**TL;DR:** SOLID 2 is currently listed at Plugin Boutique for $9.00, down from ~~$119.00~~ — a 92% discount. It's filed under Plugin Boutique's Virtual Instruments category and is pitched as a workflow-focused production tool. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/5507-SOLID-2?a_aid=69cb95abe1763&chan=art&data1=solid-2-fde79b&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-2-fde79b) before the price reverts.
 
 ## Price Context (tracked by PluginDrop)
 - Tracked since 2026-07-12 (55 observations)
@@ -80,7 +80,7 @@ A: Format and compatibility details (VST/AU/AAX) aren't confirmed here — check
 
 ## Get the Deal
 
-$9 instead of $119 is a 92% discount on a virtual instrument plugin. [Get SOLID 2 at Plugin Boutique](https://www.pluginboutique.com/search?q=SOLID+2&a_aid=69cb95abe1763&chan=art&data1=solid-2-fde79b&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-2-fde79b) while the discounted price is live.
+$9 instead of $119 is a 92% discount on a virtual instrument plugin. [Get SOLID 2 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/5507-SOLID-2?a_aid=69cb95abe1763&chan=art&data1=solid-2-fde79b&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-2-fde79b) while the discounted price is live.
 
 ## Is This Deal Worth It?
 

@@ -24,7 +24,7 @@ priceTrack:
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 4 | ~$179 | All-around mixing & mastering EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-review) |
-| FabFilter Total Bundle | ~$879 | Full FabFilter studio toolkit | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-review) |
+| FabFilter Total Bundle | ~$879 | Full FabFilter studio toolkit | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-review) |
 | TDR Nova | Free / €49 | Budget-friendly dynamic EQ | — |
 | DMG Audio EQuality | ~$99 | Analog-voiced precision EQ | — |
 | iZotope Neutron | ~$249 | AI-assisted EQ with session integration | — |
@@ -179,7 +179,7 @@ Neutron's EQ module includes AI-generated band suggestions, session-level maskin
 - **Price:** ~$879
 - **Why upgrade:** The Total Bundle includes every FabFilter plugin — Pro-Q 4, Pro-C 2 (compressor), Pro-L 2 (limiter), Pro-MB (multiband dynamics), Pro-R (reverb), Volcano 3 (filter), and more — at significantly reduced cost versus buying individually. If you plan to add two or more FabFilter tools over the next 12–18 months, the bundle price is the rational choice.
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-review)
+[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-review)
 
 ---
 
@@ -188,7 +188,7 @@ Neutron's EQ module includes AI-generated band suggestions, session-level maskin
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | FabFilter Pro-Q 4 | ~$179 | Parametric + Dynamic EQ | 24 bands, M/S, dynamic EQ, linear phase, collision detection | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-review) |
-| FabFilter Total Bundle | ~$879 | Full plugin suite | Every FabFilter plugin, significant savings vs. individual | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-review) |
+| FabFilter Total Bundle | ~$879 | Full plugin suite | Every FabFilter plugin, significant savings vs. individual | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-review) |
 | TDR Nova | Free / €49 | Dynamic EQ | Solid free tier, dynamic EQ, limited M/S depth | — |
 | DMG Audio EQuality | ~$99 | Analog-style parametric EQ | Analog filter character, CPU-efficient | — |
 | iZotope Neutron | ~$249 | AI-assisted EQ | AI band suggestions, session-level masking detection | — |

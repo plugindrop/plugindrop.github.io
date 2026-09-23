@@ -25,7 +25,7 @@ priceTrack:
 | Valhalla Room | $50 | Studio reverb | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 | FabFilter Pro-C 2 | $179 | Transparent compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
 | Serum | $189 | Wavetable synthesis | [Xfer Records](https://xferrecords.com/products/serum) |
-| iZotope Ozone 12 | $249 | AI-assisted mastering | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
+| iZotope Ozone 12 | $249 | AI-assisted mastering | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
 | Valhalla Supermassive | Free | Ambient reverb & delay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Vital | Free | Wavetable synthesis | [Free](https://vital.audio/) |
 
@@ -318,7 +318,7 @@ Ozone 12's Master Assistant analyzes your track and builds a starting mastering 
 **Best for:** Self-releasing producers who want professional-grade mastering results without a dedicated mastering engineer.
 
 [→ Watch the official demo](https://www.youtube.com/watch?v=lwIuaD8O61M)
-[→ Get iZotope Ozone 12 on Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs)
+[→ Get iZotope Ozone 12 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs)
 
 ---
 
@@ -332,7 +332,7 @@ Ozone 12's Master Assistant analyzes your track and builds a starting mastering 
 - **Price:** Check Plugin Boutique for current bundle pricing
 - **Why upgrade:** Owning Pro-Q 4 and Pro-C 2 individually is a strong start, but the Total Bundle adds Pro-MB (multiband compression), Pro-L 2 (mastering limiter), Pro-DS (de-esser), Timeless 3 (delay), and Saturn 2 (saturation) — covering every mixing and mastering category with a workflow-consistent interface throughout.
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs)
+[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs)
 
 ---
 
@@ -366,7 +366,7 @@ Ozone 12's Master Assistant analyzes your track and builds a starting mastering 
 | Kontakt 7 | $399 | Sampler | Industry-standard, thousands of libraries | [Get it](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-7/) |
 | Addictive Drums 2 | $179 | Drums | Realistic kits, built-in channel mixer | [Get it](https://www.xlnaudio.com/products/addictive_drums_2) |
 | RC-20 Retro Color | $99 | Lo-Fi FX | 6 modules, organic texture design | [Get it](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
-| iZotope Ozone 12 | $249 | Mastering | AI Master Assistant, Stabilizer module | [Get it](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
+| iZotope Ozone 12 | $249 | Mastering | AI Master Assistant, Stabilizer module | [Get it](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
 
 ---
 

@@ -23,9 +23,9 @@ draft: false
 | Vital | Free | Wavetable synthesis | [Plugin Boutique](https://vital.audio/) |
 | Valhalla Supermassive | Free | Lush reverb & space | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TDR Nova | Free | Dynamic EQ & mastering | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
-| Surge XT | Free | Deep modular synthesis | [Plugin Boutique](https://www.pluginboutique.com/search?q=Surge%20XT&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
+| Surge XT | Free | Deep modular synthesis | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17453-Surge-XT?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
 | OB-Xd | Free | Vintage analog poly sounds | [Free Download](https://www.discodsp.com/obxd/) |
-| Rough Rider 3 | Free | Punchy drum compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=Rough%20Rider%203&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
+| Rough Rider 3 | Free | Punchy drum compression | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
 | LABS | Free | Cinematic sample instruments | [Free Download](https://labs.spitfireaudio.com/) |
 
 ---
@@ -83,7 +83,7 @@ Surge XT is a hybrid synthesizer that combines subtractive, FM, wavetable, and w
 **Skip it if:** you want a polished, modern interface and a tightly curated preset list — Surge XT's stock GUI is utilitarian and its 2,000-plus factory patches can overwhelm more than they inspire.
 
 [→ Download Surge XT Free](https://surge-synthesizer.github.io/)
-[→ Get Surge XT on Plugin Boutique](https://www.pluginboutique.com/search?q=Surge%20XT&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton)
+[→ Get Surge XT on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17453-Surge-XT?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton)
 
 ---
 
@@ -168,7 +168,7 @@ Rough Rider 3 is a compressor with attitude — it adds warmth and grit that tra
 **Skip it if:** you need clean, surgical gain control on vocals or a master bus — Rough Rider 3 is a colored character compressor by design and adds grit you can't fully dial out.
 
 [→ Download Rough Rider 3 Free](https://www.audiodamage.com/pages/free-and-legacy)
-[→ Get Rough Rider 3 on Plugin Boutique](https://www.pluginboutique.com/search?q=Rough%20Rider%203&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton)
+[→ Get Rough Rider 3 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton)
 
 ---
 
@@ -297,7 +297,7 @@ iZotope's Ozone Imager 2 gives you precise stereo width control with a Lissajous
 
 **Skip it if:** you want a full mastering chain — Imager 2 handles width and monitoring only, with no EQ or dynamics, and pushing the width hard can thin your mono sum if you don't check phase.
 
-[→ Download Ozone Imager 2 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton)
+[→ Download Ozone Imager 2 Free (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton)
 
 ---
 
@@ -346,17 +346,17 @@ Once you've maxed out what the free tier offers, these three commercial plugins 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Vital | Free | Wavetable Synth | Spectral warping, drag-and-drop modulation, audio-to-wavetable import | [Plugin Boutique](https://vital.audio/) |
-| Surge XT | Free | Hybrid Synth | Multi-engine synthesis, open source, CLAP support, massive preset library | [Get It](https://www.pluginboutique.com/search?q=Surge%20XT&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
+| Surge XT | Free | Hybrid Synth | Multi-engine synthesis, open source, CLAP support, massive preset library | [Get It](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17453-Surge-XT?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
 | OB-Xd | Free | Analog Poly Synth | Oberheim OB-X emulation, per-voice parameter variation, low CPU | [Free Download](https://www.discodsp.com/obxd/) |
 | Dexed | Free | FM Synth | Yamaha DX7 emulation, SysEx patch loading, visual operator display | [Get It](https://asb2m10.github.io/dexed/) |
 | TDR Nova | Free | Dynamic EQ | Per-band dynamics, parallel EQ architecture, transparent processing | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
-| Rough Rider 3 | Free | Compressor | Character compression, wet/dry blend, sidechain input | [Get It](https://www.pluginboutique.com/search?q=Rough%20Rider%203&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
+| Rough Rider 3 | Free | Compressor | Character compression, wet/dry blend, sidechain input | [Get It](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
 | Valhalla Supermassive | Free | Reverb / Delay | Long decay times, WARP parameter, 11 reverb algorithms | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Chorus-LX | Free | Chorus | Juno-6 BBD circuit emulation, natural stereo width | [Free Download](https://tal-software.com/products/tal-chorus-lx) |
 | LABS | Free | Sample Instrument | Curated Spitfire samples, growing catalog, all genres covered | [Get It](https://labs.spitfireaudio.com/) |
 | Sitala | Free | Drum Sampler | 16-pad workflow, drag-and-drop loading, per-pad filter and envelope | [Get It](https://decomposer.de/sitala/) |
 | SPAN | Free | Spectrum Analyzer | Real-time FFT, near-zero CPU, configurable display modes | [Get It](https://www.voxengo.com/product/span/) |
-| Ozone Imager 2 | Free | Stereo Imager | Lissajous vectorscope, Stereoize function, mono compatibility check | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
+| Ozone Imager 2 | Free | Stereo Imager | Lissajous vectorscope, Stereoize function, mono compatibility check | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
 
 ---
 
@@ -395,7 +395,7 @@ When you've maxed out the free toolkit, these are the three paid plugins the com
 |--------|-------|-------------|--------|
 | Valhalla VintageVerb | $50 | 18 algorithms, 3 vintage color modes — covers room, hall, plate, and chamber with no free equivalent | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
 | FabFilter Pro-Q 4 | ~$179 | Dynamic EQ per band + mid/side processing that TDR Nova can't do | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
-| FabFilter Pro-L 2 | ~$199 | True peak limiting for streaming delivery — required for professional masters | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-L%202&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
+| FabFilter Pro-L 2 | ~$199 | True peak limiting for streaming delivery — required for professional masters | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
 
 → Full paid reverb breakdown: [Valhalla VintageVerb Review: Worth the $50?](/posts/valhalla-vintageverb-review/)
 → Full mastering limiter breakdown: [10 Best Mastering Limiter Plugins in 2026](/posts/best-limiter-plugins-mastering/)

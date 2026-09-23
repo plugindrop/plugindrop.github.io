@@ -15,7 +15,7 @@ saleExpirySource: "fallback"
 ---
 If you're building out a synth collection on a budget, Albino 3 Legend is worth a look while it's discounted. It's a long-running Rob Papen synth now priced as a legacy title, not a flashy new release.
 
-**TL;DR:** Albino 3 Legend is discounted from ~~$99~~ to **$69** (30% off) at Plugin Boutique. It's a multi-engine synthesizer from Rob Papen known for pads, leads, and evolving textures. [Get the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Albino+3+Legend&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=albino-3-legend-32727c).
+**TL;DR:** Albino 3 Legend is discounted from ~~$99~~ to **$69** (30% off) at Plugin Boutique. It's a multi-engine synthesizer from Rob Papen known for pads, leads, and evolving textures. [Get the deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11446-LEGEND?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=albino-3-legend-32727c&chan=art&data1=albino-3-legend-32727c).
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $99
@@ -83,7 +83,7 @@ A: Pricing on catalog and legacy titles can change without notice.
 
 ## Get the Deal
 
-Albino 3 Legend is $69 instead of $99 right now, a straightforward 30% off a legacy Rob Papen synth. [Grab it at Plugin Boutique](https://www.pluginboutique.com/search?q=Albino+3+Legend&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=albino-3-legend-32727c) while the discount is active.
+Albino 3 Legend is $69 instead of $99 right now, a straightforward 30% off a legacy Rob Papen synth. [Grab it at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11446-LEGEND?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=albino-3-legend-32727c&chan=art&data1=albino-3-legend-32727c) while the discount is active.
 
 ## Is This Deal Worth It?
 

@@ -9,7 +9,7 @@ score: 4.27
 draft: true
 converted: true
 ---
-**Cherry Audio Intros Crumar DS-2 Synthesizer Plugin** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?q=ds%202%20synthesizer&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d&chan=art&data1=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d)
+**Cherry Audio Intros Crumar DS-2 Synthesizer Plugin** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17088-DS-2-Synthesizer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d&chan=art&data1=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d)
 
 ---
 
@@ -41,7 +41,7 @@ The Crumar DS-2 is a software synthesizer from Cherry Audio that recreates — a
 
  An optional "Deep Space" preset expansion pack is available for $9.99. A free 30-day demo is also available if you want to test drive it first.
 
-Verify current pricing on the product page — deals can change. [Check the deal here.](https://www.pluginboutique.com/search?q=ds%202%20synthesizer&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d&chan=art&data1=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d)
+Verify current pricing on the product page — deals can change. [Check the deal here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17088-DS-2-Synthesizer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d&chan=art&data1=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d)
 
 ## Alternatives at a Glance
 
@@ -69,7 +69,7 @@ A: It supports macOS and Windows. Check the official Cherry Audio product page f
 
 ## Where to Buy
 
- Don't sleep on the Pick 3 for $99 if you've been eyeing other Cherry Audio titles. [Get the Crumar DS-2 now.](https://www.pluginboutique.com/search?q=ds%202%20synthesizer&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d&chan=art&data1=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d)
+ Don't sleep on the Pick 3 for $99 if you've been eyeing other Cherry Audio titles. [Get the Crumar DS-2 now.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17088-DS-2-Synthesizer?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d&chan=art&data1=cherry-audio-intros-crumar-ds-2-synthesizer-plugin-da412d)
 
 ---
 

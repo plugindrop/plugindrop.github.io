@@ -18,7 +18,7 @@ draft: false
 |--------|-------|----------|--------|
 | Piano One (Sound Magic) | Free | Neutral acoustic grand, zero cost | [Official Site](https://www.kvraudio.com/product/piano-one-by-sound-magic) |
 | Spitfire LABS Soft Piano | Free | Intimate felt-muted atmosphere | [Free Download](https://labs.spitfireaudio.com/) |
-| Arturia Piano V3 | ~$99 | Multiple modeled grands in one plugin | [Official Site](https://www.pluginboutique.com/search?q=Arturia%20Piano%20V3&a_aid=69cb95abe1763&chan=art&data1=best-piano-vst-plugins) |
+| Arturia Piano V3 | ~$99 | Multiple modeled grands in one plugin | [Official Site](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10611-Piano-V3?a_aid=69cb95abe1763&chan=art&data1=best-piano-vst-plugins) |
 | Pianoteq 8 | ~$149 | Physical modeling, ~80MB install | [Official Site](https://www.modartt.com/pianoteq) |
 | Keyscape | ~$399 | Complete acoustic and electric keyboard library | [Official Site](https://www.spectrasonics.net/products/omnisphere/) |
 | Spitfire Audio Felt Piano | ~$79 | Felt-damped sync and cinematic writing | [Official Site](https://labs.spitfireaudio.com/) |
@@ -91,7 +91,7 @@ Arturia Piano V3 uses a hybrid physical modeling and sampling engine to deliver 
 
 **Best for:** Producers who want one plugin covering multiple piano types and eras without buying separate libraries.
 
-[→ Get Arturia Piano V3 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Arturia%20Piano%20V3&a_aid=69cb95abe1763&chan=art&data1=best-piano-vst-plugins)
+[→ Get Arturia Piano V3 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10611-Piano-V3?a_aid=69cb95abe1763&chan=art&data1=best-piano-vst-plugins)
 
 ---
 
@@ -271,7 +271,7 @@ Una Corda is NI's one-string-per-note experimental piano, developed in collabora
 - **Price:** ~$99
 - **Why upgrade:** Piano One delivers one static acoustic grand character with limited pedal modeling and fixed release samples. Arturia Piano V3 delivers a full suite of historically modeled instruments — concert grands, uprights, and tack-piano treatments — with a physics engine that responds to pedaling and dynamics far more convincingly than Piano One's fixed velocity layers. Producers who use Piano One for demos consistently report that Piano V3 handles slow, expressive passages in a way that Piano One noticeably cannot.
 
-[→ Get Arturia Piano V3 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Arturia%20Piano%20V3&a_aid=69cb95abe1763&chan=art&data1=best-piano-vst-plugins)
+[→ Get Arturia Piano V3 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10611-Piano-V3?a_aid=69cb95abe1763&chan=art&data1=best-piano-vst-plugins)
 
 ---
 
@@ -325,7 +325,7 @@ If you have outgrown the free picks, the paid piano instruments below are all av
 |--------|------|--------------------|--------|
 | Modartt Pianoteq 8 Standard | Physical-modeling grand | ~$149 | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=Pianoteq&a_aid=69cb95abe1763&chan=art&data1=best-piano-vst-plugins) |
 | XLN Audio Addictive Keys | Sampled acoustic + electric | ~$99 | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=Addictive%20Keys&a_aid=69cb95abe1763&chan=art&data1=best-piano-vst-plugins) |
-| Native Instruments Noire | Felt + pure concert grand | ~$149 | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=Noire&a_aid=69cb95abe1763&chan=art&data1=best-piano-vst-plugins) |
+| Native Instruments Noire | Felt + pure concert grand | ~$149 | [View on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/12485-Noire?a_aid=69cb95abe1763&chan=art&data1=best-piano-vst-plugins) |
 | e-instruments Session Keys Grand | Production-focused sampled grand | ~$99 | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=Session%20Keys&a_aid=69cb95abe1763&chan=art&data1=best-piano-vst-plugins) |
 | UVI Model D | Sampled concert grand | ~$99 | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=UVI%20Model%20D&a_aid=69cb95abe1763&chan=art&data1=best-piano-vst-plugins) |
 

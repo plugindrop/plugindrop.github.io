@@ -23,7 +23,7 @@ draft: false
 | Surge XT | Free | Complex sound design & FM | [Plugin Boutique](https://surge-synthesizer.github.io) |
 | TDR Nova | Free | Dynamic EQ on any mix bus | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
 | Valhalla Supermassive | Free | Lush reverb & ambient textures | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Rough Rider 3 | Free | Punchy drum & bass compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=Rough%20Rider%203&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) |
+| Rough Rider 3 | Free | Punchy drum & bass compression | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) |
 | Spitfire LABS | Free | Cinematic & orchestral textures | [Free Download](https://labs.spitfireaudio.com/) |
 | OB-Xd | Free | Warm analog polysynth sounds | [Free Download](https://www.discodsp.com/obxd/) |
 
@@ -216,7 +216,7 @@ Rough Rider 3 is not a transparent compressor — it's a character compressor th
 
 **Skip it if…** you need clean, transparent compression. Rough Rider colors everything you feed it, with no sidechain filter and no oversampling, so it is wrong for delicate bus glue or mastering. For that, reach for TDR Kotelnikov (free) or [FabFilter Pro-C 2 on Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio).
 
-[→ Get Rough Rider 3 on Plugin Boutique](https://www.pluginboutique.com/search?q=Rough%20Rider%203&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio)
+[→ Get Rough Rider 3 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio)
 [→ Download Rough Rider 3 Free](https://www.audiodamage.com/pages/free-and-legacy)
 
 ---
@@ -292,7 +292,7 @@ Ozone Imager 2 provides stereo field widening and narrowing with a real-time Lis
 
 **Skip it if…** you expected a mastering suite. Imager 2 does stereo width and metering and nothing else — no EQ, no limiter, no per-band M/S EQ. When you outgrow it, [iZotope Ozone 11 on Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2011&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) adds the full chain.
 
-[→ Download Ozone Imager 2 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio)
+[→ Download Ozone Imager 2 Free (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio)
 
 ---
 
@@ -380,11 +380,11 @@ If the free toolkit is serving you well and you're ready to invest, these three 
 | Spitfire LABS | Free | Sample Instrument | 50+ instruments, studio-quality samples | [Get It](https://labs.spitfireaudio.com/) |
 | TDR Nova | Free | Dynamic EQ | Per-band dynamics, transparent processing | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
 | Voxengo SPAN | Free | Spectrum Analyzer | Real-time FFT, configurable display | [Get It](https://www.voxengo.com/product/span/) |
-| Rough Rider 3 | Free | Character Compressor | Blend control, punchy, energetic | [Get It](https://www.pluginboutique.com/search?q=Rough%20Rider%203&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) |
+| Rough Rider 3 | Free | Character Compressor | Blend control, punchy, energetic | [Get It](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) |
 | TDR Kotelnikov | Free | Bus Compressor | Mastering-grade, transparent, program-dependent | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Valhalla Supermassive | Free | Reverb / Delay | 23 algorithms, ambient to tight room | [Get It](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Dragonfly Reverb | Free | Multi-type Reverb | Room, Hall, Plate, Early Reflections | [Get It](https://michaelwillis.github.io/dragonfly-reverb/) |
-| Ozone Imager 2 | Free | Stereo Processor | Lissajous meter, smooth width control | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) |
+| Ozone Imager 2 | Free | Stereo Processor | Lissajous meter, smooth width control | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) |
 | MFreeFXBundle | Free | FX Bundle (37 plugins) | Comprehensive, one install, consistent UI | [Get It](https://www.meldaproduction.com/MFreeFXBundle) |
 | CHOW Tape Model | Free | Tape Saturation | Physical modeling, harmonic warmth, CLAP support | [Get It](https://chowdsp.com/products.html) |
 | Serum | ~$189 | Wavetable Synth | Industry preset ecosystem, visual wavetable editor | [Get It](https://xferrecords.com/products/serum) |
@@ -446,10 +446,10 @@ The free plugins above handle most production tasks. When you hit a specific wal
 | [Serum 2](https://xferrecords.com/products/serum-2) | The industry-standard wavetable synth and the deepest commercial preset ecosystem | $249 list · $189 sale · $99 low ([track](/plugin-prices/serum-2/)); or ~$11/mo rent-to-own | Rarely discounted outright; Splice rent-to-own is the usual way in |
 | [FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) | Surgical and dynamic EQ with linear phase and per-node processing | $199 list · $149 sale · $105 low ([track](/plugin-prices/fabfilter-pro-q-4/)) | FabFilter almost never discounts; expect only ~15% off at Black Friday |
 | [FabFilter Pro-C 2](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) | Transparent, flexible compression with sidechain and oversampling | $129 list · $97 sale · $97 low ([track](/plugin-prices/fabfilter-pro-c-2/)) | Same story; a rare ~15% Black Friday dip is the best you'll see |
-| [FabFilter Pro-L 2](https://www.pluginboutique.com/search?q=FabFilter%20Pro-L%202&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) | True-peak mastering limiter with multiple algorithms | $179 list · $134 sale · $134 low ([track](/plugin-prices/fabfilter-pro-l-2/)) | Black Friday only, and only lightly |
+| [FabFilter Pro-L 2](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) | True-peak mastering limiter with multiple algorithms | $179 list · $134 sale · $134 low ([track](/plugin-prices/fabfilter-pro-l-2/)) | Black Friday only, and only lightly |
 | [iZotope Ozone 11](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2011&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) | A full AI-assisted mastering chain in one window | Standard $199 list · $99 sale · $70 low; Advanced $399 list · $199 sale · $141 low ([track](/plugin-prices/izotope-ozone-11-advanced/)) | Discounts hard, routinely 50–70% off at Black Friday and summer sales |
 | [Arturia Pigments](https://www.pluginboutique.com/search?q=Arturia%20Pigments&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) | Wavetable, granular, and analog engines with a friendlier UI than Surge | $199 list · $99 sale ([track](/plugin-prices/arturia-pigments/)) | Frequently ~50% off in Arturia's seasonal sales |
-| [Soundtoys 5](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) | The classic character-effects bundle (EchoBoy, Decapitator, and more) | Bundle price set by developer (not price-tracked) | Big 50–70% bundle sales twice a year; individual effects have tracked as low as $40 |
+| [Soundtoys 5](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) | The classic character-effects bundle (EchoBoy, Decapitator, and more) | Bundle price set by developer (not price-tracked) | Big 50–70% bundle sales twice a year; individual effects have tracked as low as $40 |
 | [Cableguys ShaperBox 3](https://www.pluginboutique.com/search?q=Cableguys%20ShaperBox%203&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) | Rhythmic multiband modulation for volume, filter, pan, and more | ~$89 (developer list; not price-tracked) | Cableguys runs ~40% off seasonal sales a few times a year |
 | [Valhalla Room](https://valhalladsp.com/shop/reverb/valhalla-room/) | Natural room and hall simulation for vocals and drums | $50 flat (track) | Never; Valhalla has held the same $50 price with no sales for years |
 

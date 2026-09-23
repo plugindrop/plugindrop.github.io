@@ -25,7 +25,7 @@ priceTrack:
 | FabFilter Pro-Q 4 | $179 | Precision EQ with dynamic capability | [Developer Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |
 | Valhalla VintageVerb | $50 | Algorithmic reverb at any budget | [Developer Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | FabFilter Pro-C 2 | $179 | Transparent and character compression | [Developer Site](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |
-| Serum | $189 | Wavetable synthesis with modern workflow | [Developer Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro&chan=art&data1=best-plugins-logic-pro) |
+| Serum | $189 | Wavetable synthesis with modern workflow | [Developer Site](https://xferrecords.com/products/serum-2) |
 | iZotope Neutron 4 | $249+ | AI-assisted mix analysis | [Developer Site](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |
 | Vital | Free | Wavetable synthesis without the price tag | [Free](https://vital.audio/) |
 | TDR Nova | Free | Dynamic EQ on a zero budget | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
@@ -182,7 +182,7 @@ Serum is the most-used wavetable synthesizer in electronic music production by c
 
 **Best for:** Electronic music production, sound design, producers who want to build a large preset ecosystem.
 
-[→ Get Serum (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro&chan=art&data1=best-plugins-logic-pro)
+[→ Get Serum](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -271,7 +271,7 @@ Soundtoys Decapitator models five distinct analog saturation topologies — Ampe
 
 **Best for:** Adding analog harmonic character to any source — drums, synths, buses, or full mixes.
 
-[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro)
+[→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro)
 
 ---
 
@@ -305,7 +305,7 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 
 **Best for:** Creative, character-driven delay where hardware authenticity matters more than CPU efficiency.
 
-[→ Get Soundtoys EchoBoy (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro)
+[→ Get Soundtoys EchoBoy (via Plugin Boutique)](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro)
 
 ---
 
@@ -346,7 +346,7 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 | OTT | Free | Multiband Comp | Extreme upward/downward compression | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | Valhalla VintageVerb | $50 | Reverb | 17 algorithms, $50 price | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | ValhallaDelay | $50 | Delay | 16 modes, tape through pitch-shift | [Get It](https://www.izotope.com/en/products/music-production-suite) |
-| Serum | $189 | Wavetable Synth | Custom wavetable editor, massive preset market | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-logic-pro&chan=art&data1=best-plugins-logic-pro) |
+| Serum | $189 | Wavetable Synth | Custom wavetable editor, massive preset market | [Official Site](https://xferrecords.com/products/serum-2) |
 | Vital | Free | Wavetable Synth | Spectral warping, 3 oscillators | [Get](https://vital.audio/) |
 | u-he Diva | ~$195 | Analog Synth | Circuit-level filter/oscillator emulation | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | iZotope Neutron 4 | $249+ | Mix Suite | AI Mix Assistant, EQ + comp + shaper | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |

@@ -25,7 +25,7 @@ draft: false
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 3 | $179 | Precision EQ, mastering, surgical cuts | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-3-vs-izotope-neutron) |
 | iZotope Neutron 4 | $249 | AI-assisted mixing, full channel strip | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-3-vs-izotope-neutron) |
-| FabFilter Total Bundle | ~$899 | Complete FabFilter plugin suite | [Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-3-vs-izotope-neutron) |
+| FabFilter Total Bundle | ~$899 | Complete FabFilter plugin suite | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-3-vs-izotope-neutron) |
 
 ---
 
@@ -161,7 +161,7 @@ iZotope Neutron 4 at $249 bundles an EQ, compressor, transient shaper, exciter, 
 - **Price:** ~$899
 - **Why upgrade:** If you already own Pro-Q 3 and want to stay within the FabFilter ecosystem, the Total Bundle adds Pro-C 2 (compressor), Pro-MB (multiband compressor), Pro-L 2 (limiter), Pro-DS (de-esser), Saturn 2 (saturation/distortion), Timeless 3 (delay), Volcano 3 (filter), and all remaining FabFilter titles in one package.
 
-[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-3-vs-izotope-neutron)
+[→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-3-vs-izotope-neutron)
 
 ---
 
@@ -171,7 +171,7 @@ iZotope Neutron 4 at $249 bundles an EQ, compressor, transient shaper, exciter, 
 |--------|-------|------|------------|-----|
 | FabFilter Pro-Q 3 | $179 | Parametric EQ | 24 bands, linear phase, dynamic EQ, M/S, zero latency | [Buy](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-3-vs-izotope-neutron) |
 | iZotope Neutron 4 | $249 | Channel Strip + AI EQ | Track Assistant, Unmask, 6 modules, inter-plugin comms | [Buy](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-3-vs-izotope-neutron) |
-| FabFilter Total Bundle | ~$899 | Full Plugin Suite | All FabFilter plugins: EQ, comp, limiter, saturation, FX | [Buy](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/8025-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-3-vs-izotope-neutron) |
+| FabFilter Total Bundle | ~$899 | Full Plugin Suite | All FabFilter plugins: EQ, comp, limiter, saturation, FX | [Buy](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-3-vs-izotope-neutron) |
 
 ---
 

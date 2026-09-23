@@ -380,7 +380,7 @@ Yoshimi is a fork of ZynAddSubFX with the same three synthesis engines (additive
 - **Price:** $249 regular, typically $189 on sale, lowest we've tracked $99 ([price history](/plugin-prices/serum-2/)). Splice rent-to-own is the cheaper entry point.
 - **Why upgrade:** Vital's free tier is genuinely close, but Serum's built-in wavetable editor, its deeper workflow integration across commercial sound packs, and the breadth of third-party presets built specifically for it make it the benchmark for professional wavetable production that Vital references but does not yet match in ecosystem depth.
 
-[→ Get Serum (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins)
+[→ Get Serum (Official Site)](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -412,10 +412,10 @@ The free synths above will carry most producers a long way. But if you keep hitt
 
 | Synth | Approx. 2026 price | Best for | When it usually goes on sale | Get It |
 |-------|--------------------|----------|------------------------------|--------|
-| **Serum 2** (Xfer) | $249 list · $189 sale · $99 low ([track](/plugin-prices/serum-2/)) | The industry-standard wavetable ecosystem and third-party preset packs | Xfer rarely discounts directly; the cheaper route is Splice rent-to-own at ~$10/mo | [Serum via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
+| **Serum 2** (Xfer) | $249 list · $189 sale · $99 low ([track](/plugin-prices/serum-2/)) | The industry-standard wavetable ecosystem and third-party preset packs | Xfer rarely discounts directly; the cheaper route is Splice rent-to-own at ~$10/mo | [Serum via Plugin Boutique](https://xferrecords.com/products/serum-2) |
 | **Pigments** (Arturia) | $199 list · $99 sale ([track](/plugin-prices/arturia-pigments/)) | Wavetable, virtual-analog, granular and harmonic engines in one modern interface | Arturia's biggest cuts (often ~50%) land in summer and at Black Friday | [Pigments via Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20Pigments&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
 | **Phase Plant** (Kilohearts) | $199 list · $119 sale · $92 low ([track](/plugin-prices/kilohearts-phase-plant/)) | Visual modular building and the Kilohearts snapin ecosystem | Discounted at Black Friday and summer sales; the subscription is the flexible way in | [Phase Plant via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
-| **Massive X** (Native Instruments) | $199 list · $90 sale · $85 low (track) | Growling basses and evolving leads on a deep wavetable/routing core | NI's deepest cuts (often ~50%) hit at Summer of Sound (June) and Black Friday | [Massive X via Plugin Boutique](https://www.pluginboutique.com/search?q=Massive%20X&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
+| **Massive X** (Native Instruments) | $199 list · $90 sale · $85 low (track) | Growling basses and evolving leads on a deep wavetable/routing core | NI's deepest cuts (often ~50%) hit at Summer of Sound (June) and Black Friday | [Massive X via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10604-MASSIVE-X?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
 
 Honest take: none of these will make you a better producer than a well-learned Vital or Surge XT will. Buy one only when you can name the specific limitation you are hitting — otherwise the free four at the top of this list still win on value.
 
@@ -533,7 +533,7 @@ A: Yes. Every plugin here allows commercial use of the audio you make with it �
 ---
 ## The Bottom Line
 
-For most producers in 2026, **Vital** is the only free synth you need to start: wavetable power, a visual modulation system, and a built-in effects chain in a single free download. Add **OB-Xd** for vintage analog character and **Dexed** for FM textures, and you have a production-ready synthesis toolkit before spending anything. When you are ready to invest, [Serum](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1537-Serum-Xfer-Wavetable-Synth?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) remains the most logical paid upgrade; the ecosystem depth and wavetable editor justify the cost for producers working at scale.
+For most producers in 2026, **Vital** is the only free synth you need to start: wavetable power, a visual modulation system, and a built-in effects chain in a single free download. Add **OB-Xd** for vintage analog character and **Dexed** for FM textures, and you have a production-ready synthesis toolkit before spending anything. When you are ready to invest, [Serum](https://xferrecords.com/products/serum-2) remains the most logical paid upgrade; the ecosystem depth and wavetable editor justify the cost for producers working at scale.
 
 ---
 

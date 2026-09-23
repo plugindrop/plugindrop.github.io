@@ -191,9 +191,9 @@ The prices below come from our own daily tracking (regular list price and the ty
 |--------|--------------------|-----------|--------|
 | Softube Tape | $99 reg — typically ~$79 on sale (history) | Three switchable tape-machine models (A/B/C), warm to aggressive | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=Softube%20Tape&a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst) |
 | Baby Audio TAIP | $99 reg ([history](/plugin-prices/baby-audio-taip/)) | AI-modeled reel-to-reel warmth, glue, and subtle wow | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=Baby%20Audio%20TAIP&a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst) |
-| Wavesfactory Cassette | $59 reg ([history](/plugin-prices/wavesfactory-cassette/)) | Detailed cassette / 4-track lo-fi with mechanical modeling | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=Wavesfactory%20Cassette&a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst) |
-| u-he Satin | $129 reg — typically ~$89 on sale ([history](/plugin-prices/u-he-satin/)) | Deep reel-to-reel tape delay + saturation, mastering-grade | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=u-he%20Satin&a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst) |
-| XLN Audio RC-20 Retro Color | $99 reg — typically ~$44 on sale ([history](/plugin-prices/xln-audio-rc-20-retro-color/)) | Integrated lo-fi multi-fx (saturation, noise, wobble, reverb) | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=RC-20%20Retro%20Color&a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst) |
+| Wavesfactory Cassette | $59 reg ([history](/plugin-prices/wavesfactory-cassette/)) | Detailed cassette / 4-track lo-fi with mechanical modeling | [View on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/5905-Cassette?a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst) |
+| u-he Satin | $129 reg — typically ~$89 on sale ([history](/plugin-prices/u-he-satin/)) | Deep reel-to-reel tape delay + saturation, mastering-grade | [View on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/1400-Satin?a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst) |
+| XLN Audio RC-20 Retro Color | $99 reg — typically ~$44 on sale ([history](/plugin-prices/xln-audio-rc-20-retro-color/)) | Integrated lo-fi multi-fx (saturation, noise, wobble, reverb) | [View on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst) |
 
 **How to think about the upgrade:** if you mostly need clean, switchable tape warmth on buses and masters, **Softube Tape** or **u-he Satin** are the mastering-grade choices — Satin doubles as a genuinely great tape delay. If your work is lo-fi, hip-hop, or bedroom pop, **Baby Audio TAIP**, **Wavesfactory Cassette**, or **XLN RC-20 Retro Color** consolidate the character you'd otherwise chase by stacking three or four free plugins. None of these replace Chow Tape Model for verifiable physical accuracy — they buy you range, workflow, and preset libraries tuned to a sound.
 
@@ -206,7 +206,7 @@ The prices below come from our own daily tracking (regular list price and the ty
 - **Price:** $99 regular — our tracking shows it typically drops to ~$44 on sale
 - **Why upgrade:** The free tools in this guide handle individual aspects of tape processing well, but none combine bias wobble, harmonic saturation, vinyl noise, reverb decay, bit reduction, and stereo width in a single, musically integrated interface. RC-20 Retro Color is what r/edmproduction recommends when producers want to stop stacking four or five separate plugins to achieve one aesthetic — the parameter interaction between modules produces lo-fi results that individually stacked free plugins can't fully replicate.
 
-[→ Get RC-20 Retro Color on XLN Audio](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) · [→ Find RC-20 on Plugin Boutique](https://www.pluginboutique.com/search?q=RC-20%20Retro%20Color&a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst)
+[→ Get RC-20 Retro Color on XLN Audio](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) · [→ Find RC-20 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst)
 
 ---
 
@@ -217,7 +217,7 @@ The prices below come from our own daily tracking (regular list price and the ty
 - **Price:** $199 regular — typically ~$69 on sale in our tracking, lowest tracked $40 ([price history](/plugin-prices/soundtoys-decapitator/))
 - **Why upgrade:** Soundtoys built Decapitator by modeling five specific pieces of analog hardware, including tape amplifier and transformer circuit topologies. The tonal range across those five models — from clean and harmonically subtle to aggressive harmonic clipping — is wider than any free saturation plugin in this guide achieves. Decapitator also includes a Tone control that shapes harmonic content post-saturation, and an analog clip mode that the free tools here don't convincingly replicate at high drive settings. Producer communities recommend it when a free tool is pointing in the right direction but lacks sufficient control range.
 
-[→ Get Soundtoys Decapitator on Soundtoys (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst)
+[→ Get Soundtoys Decapitator on Soundtoys (via Plugin Boutique)](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst)
 
 ---
 
@@ -234,7 +234,7 @@ The prices below come from our own daily tracking (regular list price and the ty
 | Saturation Knob | Free | Simple saturation | Three tonal modes, single knob, zero friction | Free — Softube |
 | BPB Saturator | Free | Multi-character saturation | Tape mode included, four distinct characters | Free — BPB |
 | RC-20 Retro Color | ~$44 (sale) | Multi-effect lo-fi processor | Integrated saturation + noise + wobble + reverb | [Get It](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
-| Soundtoys Decapitator | ~$69 (sale) | Hardware-modeled saturation | 5 hardware models, Tone control, clip mode | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst) |
+| Soundtoys Decapitator | ~$69 (sale) | Hardware-modeled saturation | 5 hardware models, Tone control, clip mode | [Get via Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst) |
 
 ---
 

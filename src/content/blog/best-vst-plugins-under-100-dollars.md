@@ -22,7 +22,7 @@ priceTrack:
 |--------|-------|----------|--------|
 | FabFilter Pro-C 2 | $99 | All-purpose compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | Valhalla VintageVerb | ~$50 | Vintage hall and room reverbs | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
-| Arturia Rev PLATE-140 | ~$49 | EMT 140 plate emulation | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20Rev%20PLATE-140&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
+| Arturia Rev PLATE-140 | ~$49 | EMT 140 plate emulation | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/6637-Rev-PLATE-140?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | D16 Group Repeater | ~$49 | Vintage tape delay | [Plugin Boutique](https://www.pluginboutique.com/search?q=D16%20Group%20Repeater%20delay&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | iZotope RX Elements | ~$99 | Noise removal and audio repair | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20RX%20Elements&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | Soundtoys Little Plate | ~$49 | Fast, flexible plate reverb | [Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%20Little%20Plate%20reverb&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
@@ -77,7 +77,7 @@ The EMT 140 defined the plate reverb sound of four decades of recorded music —
 
 **Best for:** Drum kits, lead vocals, vintage string arrangements, any source that benefits from classic plate coloration
 
-[→ Get Arturia Rev PLATE-140 on Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20Rev%20PLATE-140&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars)
+[→ Get Arturia Rev PLATE-140 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/6637-Rev-PLATE-140?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars)
 
 ---
 
@@ -149,7 +149,7 @@ Comeback Kid's tape machine simulation introduces harmonic saturation and pitch 
 
 **Best for:** Pop vocal effects, indie guitar and synth, any production where feel and character matter more than clinical precision
 
-[→ Get Baby Audio Comeback Kid on Plugin Boutique](https://www.pluginboutique.com/search?q=Baby%20Audio%20Comeback%20Kid&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars)
+[→ Get Baby Audio Comeback Kid on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/6204-Comeback-Kid?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars)
 
 ---
 
@@ -227,7 +227,7 @@ Decapitator models five hardware drive and saturation units across its A–E Sty
 
 **Best for:** Adding warmth and harmonic density to digital sources, parallel drum saturation, making synthesizers feel more organic and three-dimensional
 
-[→ Get Soundtoys Decapitator on Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%20Decapitator&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars)
+[→ Get Soundtoys Decapitator on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/1801-Decapitator?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars)
 
 ---
 
@@ -244,7 +244,7 @@ Snap Heap is a modular effects rack with six plugin slots and a full internal mo
 
 **Best for:** Custom parallel processing chains, modular sound design on a budget, building evolving live performance effect rigs
 
-[→ Get Kilohearts Snap Heap on Plugin Boutique](https://www.pluginboutique.com/search?q=Kilohearts%20Snap%20Heap&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars)
+[→ Get Kilohearts Snap Heap on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/2397-Snap-Heap?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars)
 
 ---
 
@@ -298,16 +298,16 @@ Ozone Elements brings iZotope's Master Assistant AI into a streamlined mastering
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Valhalla VintageVerb | ~$50 | Reverb | 22 vintage algorithm modes, low CPU | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
-| Arturia Rev PLATE-140 | ~$49 | Reverb | Physical EMT 140 modeling, 3 tank configurations | [Buy](https://www.pluginboutique.com/search?q=Arturia%20Rev%20PLATE-140&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
+| Arturia Rev PLATE-140 | ~$49 | Reverb | Physical EMT 140 modeling, 3 tank configurations | [Buy](https://www.pluginboutique.com/product/2-Effects/17-Reverb/6637-Rev-PLATE-140?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | Soundtoys Little Plate | ~$49 | Reverb | Infinite mode, analog warmth, minimal UI | [Buy](https://www.pluginboutique.com/search?q=Soundtoys%20Little%20Plate%20reverb&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | D16 Group Repeater | ~$49 | Delay | 4 tape machine models, diffusion control | [Buy](https://www.pluginboutique.com/search?q=D16%20Group%20Repeater%20delay&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | NI Replika | ~$49 | Delay | 5 delay types, built-in reverb tail | [Buy](https://www.pluginboutique.com/search?q=Native%20Instruments%20Replika&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
-| Baby Audio Comeback Kid | ~$49 | Delay | Tape drift simulation, Drift control | [Buy](https://www.pluginboutique.com/search?q=Baby%20Audio%20Comeback%20Kid&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
+| Baby Audio Comeback Kid | ~$49 | Delay | Tape drift simulation, Drift control | [Buy](https://www.pluginboutique.com/product/2-Effects/10-Delay/6204-Comeback-Kid?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | FabFilter Pro-C 2 | $99 | Compressor | 8 compression styles, sidechain EQ built in | [Buy](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | Waves CLA-76 | ~$29–$99 | Compressor | Dual 1176 emulation, all-buttons-in mode | [Buy](https://www.pluginboutique.com/search?q=Waves%20CLA-76&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | iZotope RX Elements | ~$99 | Audio Repair | AI repair, de-noise, de-hum, de-click | [Buy](https://www.pluginboutique.com/search?q=iZotope%20RX%20Elements&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
-| Soundtoys Decapitator | $99 | Saturation | 5 hardware drive models, high-cut filter | [Buy](https://www.pluginboutique.com/search?q=Soundtoys%20Decapitator&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
-| Kilohearts Snap Heap | ~$29 | Creative FX | Modular rack, LFO and envelope routing | [Buy](https://www.pluginboutique.com/search?q=Kilohearts%20Snap%20Heap&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
+| Soundtoys Decapitator | $99 | Saturation | 5 hardware drive models, high-cut filter | [Buy](https://www.pluginboutique.com/product/2-Effects/44-Saturation/1801-Decapitator?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
+| Kilohearts Snap Heap | ~$29 | Creative FX | Modular rack, LFO and envelope routing | [Buy](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/2397-Snap-Heap?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | iZotope Ozone Elements | ~$99 | Mastering | AI Master Assistant, EQ + imager + limiter | [Buy](https://www.pluginboutique.com/search?q=iZotope%20Ozone%20Elements&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 
 ---

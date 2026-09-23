@@ -55,7 +55,7 @@ Plugin Boutique often matches official sale prices and gives you Virtual Cash ba
 ## Free Alternatives If You Can't Wait
 
 - **[Vital](https://vital.audio)** — Free wavetable synth — serious competitor to Pigments
-- **[Phase Plant](https://www.pluginboutique.com/product/1-Instruments/66-Synth/9255-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=when-does-arturia-pigments-go-on-sale)** — Also goes 50% off regularly, more modular approach
+- **[Phase Plant](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=when-does-arturia-pigments-go-on-sale)** — Also goes 50% off regularly, more modular approach
 
 
 ---

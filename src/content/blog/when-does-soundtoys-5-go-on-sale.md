@@ -47,14 +47,14 @@ heroImage: '/images/when-does-soundtoys-5-go-on-sale.jpg'
 > **Buying tip:** SoundToys' Black Friday deals are legendary in the production community. If you want the full bundle, Black Friday is definitively the best time. Always check Thomann alongside Plugin Boutique — Thomann has consistently offered an additional $30-70 off on SoundToys vs PB's official price.
 
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/search?q=Soundtoys%205&a_aid=69cb95abe1763&chan=art&data1=when-does-soundtoys-5-go-on-sale)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=when-does-soundtoys-5-go-on-sale)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
 
 
 ## Free Alternatives If You Can't Wait
 
-- **[Little AlterBoy (SoundToys)](https://www.pluginboutique.com/product/2-effects/5-Chorus-Vibrato/1376-Little-AlterBoy?a_aid=69cb95abe1763&chan=art&data1=when-does-soundtoys-5-go-on-sale)** — Buy individual SoundToys plugins at 50-66% off instead of waiting for the bundle deal
+- **[Little AlterBoy (SoundToys)](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?a_aid=69cb95abe1763&chan=art&data1=when-does-soundtoys-5-go-on-sale)** — Buy individual SoundToys plugins at 50-66% off instead of waiting for the bundle deal
 
 
 ---

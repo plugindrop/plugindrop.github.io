@@ -74,7 +74,7 @@ The mono compatibility checker alone makes this worth installing even if you use
 
 **Best for:** Visual monitoring, multi-band stereo correction, and mono compatibility checks on final mixes.
 
-[→ Get iZotope Ozone Imager 2 on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20iZotope%20Ozone%20Imager%202&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins)
+[→ Get iZotope Ozone Imager 2 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/5997-Ozone-Imager-2?a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins)
 
 ---
 
@@ -133,7 +133,7 @@ At its regular sale price, the S1 is one of the best value-for-money professiona
 
 **Best for:** Bus processing, mastering chains, and engineers who want the transparency of a classic M/S widener with a proven professional track record.
 
-[→ Get Waves S1 Stereo Imager on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Waves%20S1%20Stereo%20Imager&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins)
+[→ Get Waves S1 Stereo Imager on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/13667-S1-Stereo-Imager?a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins)
 
 ---
 
@@ -171,7 +171,7 @@ This is a character widener: use it when you want the width itself to contribute
 
 **Best for:** Vocals, guitars, and melodic elements where analog warmth and organic stereo width are creatively desirable.
 
-[→ Get Soundtoys MicroShift on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Soundtoys%20MicroShift&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins)
+[→ Get Soundtoys MicroShift on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/1809-MicroShift?a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins)
 
 ---
 
@@ -190,7 +190,7 @@ The Punch parameter, which controls transient behavior independently per channel
 
 **Best for:** Mix repair, stereo field balancing, and surgically adjusting center/sides balance on full mixes and stems.
 
-[→ Get Waves Center on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Waves%20Center&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins)
+[→ Get Waves Center on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/13610-Center?a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins)
 
 ---
 
@@ -209,7 +209,7 @@ The price is higher than most options here, and Nugen discounts less aggressivel
 
 **Best for:** Mastering engineers who need frequency-selective widening with full low-end mono protection and professional delivery standards.
 
-[→ Get Nugen Audio Stereoizer on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Nugen%20Audio%20Stereoizer&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins)
+[→ Get Nugen Audio Stereoizer on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/1709-Stereoizer-?a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins)
 
 ---
 
@@ -228,7 +228,7 @@ If MicroShift feels too saturated or vintage for a production, MicroPitch offers
 
 **Best for:** Modern productions where pitch-based widening is needed with greater precision and fewer vintage coloration artifacts.
 
-[→ Get Eventide MicroPitch on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Eventide%20MicroPitch&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins)
+[→ Get Eventide MicroPitch on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/6350-MicroPitch?a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins)
 
 ---
 
@@ -244,7 +244,7 @@ If MicroShift feels too saturated or vintage for a production, MicroPitch offers
 
 This is the single biggest "wait for it" recommendation in this guide. iZotope's list price of $249 is close to a fiction — the plugin spends a large share of the year at 50%+ off. Paying full price for Ozone 12 Standard is close to the worst possible time to buy it. Track the pattern at [when does iZotope Ozone go on sale](/posts/when-does-izotope-ozone-go-on-sale/) before committing.
 
-[→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2012%20Advanced&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins)
+[→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins)
 
 ---
 
