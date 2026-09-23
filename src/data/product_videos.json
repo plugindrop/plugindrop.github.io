@@ -6,6 +6,13 @@
     "score": 8,
     "source": "yt_api_fill"
   },
+  "Arturia Analog Lab Pro": {
+    "video_id": "8gaoY7W13zY",
+    "title": "Arturia Analog Lab Pro Presets",
+    "channel": "muzykujkropkacom",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Arturia Augmented STRINGS": {
     "video_id": "DULaj145KNQ",
     "title": "Playthrough | Augmented STRINGS | ARTURIA",
@@ -14,6 +21,13 @@
     "source": "yt_api_fill"
   },
   "Arturia CS-80 V": {
+    "video_id": "ut3uIWrTSVI",
+    "title": "Arturia CS-80 V4 | No Talking |",
+    "channel": "DKS SYNTH LAB",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Arturia CS-80 V4": {
     "video_id": "ut3uIWrTSVI",
     "title": "Arturia CS-80 V4 | No Talking |",
     "channel": "DKS SYNTH LAB",
@@ -41,12 +55,26 @@
     "score": 11,
     "source": "yt_api_fill"
   },
+  "Arturia Piano V3": {
+    "video_id": "Y1XrdvPuZIU",
+    "title": "ARTURIA PIANO V3 - Amazing Factory Presets | 4K",
+    "channel": "Artur Sekura",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Arturia Pigments": {
     "video_id": "XMmlkkgQ378",
     "title": "Pigments 5 | Polychrome Software Synthesizer | ARTURIA",
     "channel": "Arturia",
     "score": 10,
     "source": "article_embed"
+  },
+  "Arturia Prophet-5 V": {
+    "video_id": "BVDmnKwXvwk",
+    "title": "Arturia Prophet 5-V | No Talking |",
+    "channel": "DKS SYNTH LAB",
+    "score": 10,
+    "source": "yt_api_fill"
   },
   "Arturia V Collection 11": {
     "video_id": "6DLpfMwqw3E",
@@ -185,6 +213,13 @@
     "video_id": "q0m3u4TkYbM",
     "title": "Black Box Analog Design HG-2 - Quick Overview | Plugin Alliance",
     "channel": "Plugin Alliance",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Cableguys Curve 2": {
+    "video_id": "mkXBBo9u_dU",
+    "title": "Cableguys Curve 2 Official Trailer",
+    "channel": "Cableguys",
     "score": 8,
     "source": "yt_api_fill"
   },
@@ -713,6 +748,13 @@
     "score": 13,
     "source": "article_embed"
   },
+  "FabFilter Pro-C 3": {
+    "video_id": "mSzvpCz-M2k",
+    "title": "Introduction to FabFilter Pro-C 3",
+    "channel": "FabFilter",
+    "score": 13,
+    "source": "yt_api_fill"
+  },
   "FabFilter Pro-DS": {
     "video_id": "E9fJFMsw6oI",
     "title": "Introduction to FabFilter Pro-DS Intelligent De-esser",
@@ -832,6 +874,13 @@
     "score": 11,
     "source": "yt_api_fill"
   },
+  "Heavyocity Novo Modern Strings": {
+    "video_id": "DEUYoioOoJk",
+    "title": "NOVO: Modern Strings - Trailer | Heavyocity",
+    "channel": "Heavyocity Media",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Hive 2": {
     "video_id": "q1zm41YBKs4",
     "title": "hive 2 expressive suite - MPE preset demos",
@@ -947,6 +996,13 @@
   "Native Instruments Action Strings": {
     "video_id": "dany1xPTtTo",
     "title": "ACTION STRINGS | Native Instruments",
+    "channel": "Native Instruments",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Native Instruments Action Strings 2": {
+    "video_id": "8EBAZsKNtJ4",
+    "title": "ACTION STRINGS 2 Walkthrough | Native Instruments",
     "channel": "Native Instruments",
     "score": 10,
     "source": "yt_api_fill"
@@ -1313,6 +1369,13 @@
     "title": "Slate Digital FG-X 2 | Full Demo and Review",
     "channel": "Happy Mag",
     "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Slate Digital FG-X 2": {
+    "video_id": "1JX3x8eXIeM",
+    "title": "Slate Digital FG-X 2 | Full Demo and Review",
+    "channel": "Happy Mag",
+    "score": 10,
     "source": "yt_api_fill"
   },
   "Slate Digital VMR": {
@@ -1938,6 +2001,13 @@
     "score": 8,
     "source": "yt_api_fill"
   },
+  "UVI World Suite 3": {
+    "video_id": "Z3He4KIQI5Y",
+    "title": "UVI World Suite 3 | Overview",
+    "channel": "UVI",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "VPS Avenger 2": {
     "video_id": "bKiuqjrZAic",
     "title": "VPS Avenger 2 - AT Fight In The Dark Demo",
@@ -2148,11 +2218,32 @@
     "score": 7,
     "source": "article_embed"
   },
+  "iZotope Ozone 12 Elements": {
+    "video_id": "V3kX4O0e_pc",
+    "title": "Let's see what Ozone 12 Elements can do | iZotope",
+    "channel": "iZotope, Inc.",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "iZotope Tonal Balance Control 2": {
     "video_id": "l3A9xUkyuuI",
     "title": "Izotope Tonal Balance Control 2 - A Secret Weapon to Level Up Your Mixes (VST / AU Plugin Review)",
     "channel": "Subphotic",
     "score": 9,
+    "source": "yt_api_fill"
+  },
+  "iZotope Tonal Balance Control 3": {
+    "video_id": "6wMqkGeX46A",
+    "title": "Introducing Tonal Balance Control 3, all-in-one referencing for every mix and master | iZotope",
+    "channel": "iZotope, Inc.",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "iZotope Trash": {
+    "video_id": "pBw6N3kS6zg",
+    "title": "How to use the new iZotope Trash | Creative distortion plugin",
+    "channel": "iZotope, Inc.",
+    "score": 11,
     "source": "yt_api_fill"
   },
   "iZotope Trash 2": {
