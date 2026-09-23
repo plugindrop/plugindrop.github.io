@@ -1,6 +1,6 @@
 ---
 title: "40% Off Acid Grooves For Midigrid"
-description: "Acid Grooves For Midigrid is currently **40% off** at ADSR Sounds — dropping from ~~$24~~ to just **$14.40**. That's nearly $10 saved on a WAV sample pack..."
+description: "Acid Grooves For Midigrid is currently 40% off at ADSR Sounds — dropping from $24 to just $14.40. That's nearly $10 saved on a WAV sample pack..."
 pubDate: "2026-06-20T04:15:41Z"
 tags: ["sale", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/wav-samples/acid-grooves-for-midigrid/?a_aid=plugindrop&data1=acid-grooves-for-midigrid-66b9d7&utm_source=plugindrop&utm_medium=article&utm_campaign=acid-grooves-for-midigrid-66b9d7"

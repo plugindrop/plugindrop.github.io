@@ -1,6 +1,6 @@
 ---
 title: "40% Off KORG Collection Crossgrade from 1 KORG Product"
-description: "KORG Collection is available via crossgrade for just **$149** (~~$249~~) — a flat $100 saving for producers who already own at least one qualifying KORG..."
+description: "KORG Collection is available via crossgrade for just $149 ($249) — a flat $100 saving for producers who already own at least one qualifying KORG..."
 pubDate: "2026-07-01T10:31:55Z"
 saleExpiry: "2026-08-28"
 tags: ["sale", "effects", "bundle", "music-production"]

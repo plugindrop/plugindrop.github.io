@@ -1,6 +1,6 @@
 ---
 title: "34% Off SSL 4000 E — Analog Console Channel Strip ($99)"
-description: "The SSL 4000 E Channel Strip plugin is down to **$99** from ~~$149~~ at Plugin Boutique, a 34% discount modeled on the console EQ and dynamics chain found..."
+description: "The SSL 4000 E Channel Strip plugin is down to $99 from $149 at Plugin Boutique, a 34% discount modeled on the console EQ and dynamics chain found..."
 pubDate: "2026-08-09T14:47:20Z"
 tags: ["sale", "vst-plugin", "effects", "mixing", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=SSL+4000+E+Channel+Strip&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4000-e-channel-strip-608ba4"

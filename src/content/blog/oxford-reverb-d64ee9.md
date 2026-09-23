@@ -1,6 +1,6 @@
 ---
 title: "75% Off Oxford Reverb"
-description: "Oxford Reverb is now discounted at Plugin Boutique — ~~$318~~ down to **$79**, saving you around $239. It's a modest 2% cut, but on a pro-grade..."
+description: "Oxford Reverb is now discounted at Plugin Boutique — $318 down to $79, saving you around $239. It's a modest 2% cut, but on a pro-grade..."
 pubDate: "2026-05-15T01:04:23Z"
 tags: ["sale", "vst-plugin", "effects", "reverb", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/915-Oxford-Reverb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=oxford-reverb-d64ee9&chan=art&data1=oxford-reverb-d64ee9"

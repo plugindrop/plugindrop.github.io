@@ -1,7 +1,7 @@
 ---
 title: The best new plugins this week, free and paid
-description: Universal Audio's UAD Explore is available **free** — that's ~~paid-tier
-  analog emulations~~ at $0. A no-brainer entry point into UA's legendary plugin...
+description: Universal Audio's UAD Explore is available free — that's paid-tier
+  analog emulations at $0. A no-brainer entry point into UA's legendary plugin...
 pubDate: '2026-04-17T15:41:50Z'
 tags: ["free", "buyers guides", "gear", "guides", "compressors", "daws", "effects", "eq", "mastering", "mixing", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=uad%20explore%20free&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-best-new-plugins-this-week-free-and-paid-fb881f&chan=art&data1=the-best-new-plugins-this-week-free-and-paid-fb881f"

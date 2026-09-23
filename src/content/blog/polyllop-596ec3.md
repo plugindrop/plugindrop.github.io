@@ -1,6 +1,6 @@
 ---
 title: "34% Off POLYLLOP"
-description: "POLYLLOP is currently **34% off** at Plugin Boutique — down from ~~$59.00~~ to just **$39.00**. That's a $20 saving on a sequencer effects plugin that..."
+description: "POLYLLOP is currently 34% off at Plugin Boutique — down from $59.00 to just $39.00. That's a $20 saving on a sequencer effects plugin that..."
 pubDate: "2026-06-16T06:38:48Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/24-Sequencer/14957-POLYLLOP?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=polyllop-596ec3&chan=art&data1=polyllop-596ec3"

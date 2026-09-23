@@ -1,6 +1,6 @@
 ---
 title: "69% Off SSL X Limit — Mastering-Grade Limiting for Mixes ($15)"
-description: "Solid State Logic's X Limit plugin is ~~$49~~ **$15** at Plugin Boutique right now, a 69% discount. It's a straightforward limiter built for peak control..."
+description: "Solid State Logic's X Limit plugin is $49 $15 at Plugin Boutique right now, a 69% discount. It's a straightforward limiter built for peak control..."
 pubDate: "2026-08-18T08:53:24Z"
 tags: ["sale", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=SSL+X+Limit&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-limit-f87e1c"

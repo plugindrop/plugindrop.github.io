@@ -1,6 +1,6 @@
 ---
 title: "60% Off Analog Polysynth Collection"
-description: "The Analog Polysynth Collection is currently $149, down from ~~$299~~. PluginDrop has tracked this bundle since 2026-09-04, and $149 is the lowest price..."
+description: "The Analog Polysynth Collection is currently $149, down from $299. PluginDrop has tracked this bundle since 2026-09-04, and $149 is the lowest price..."
 pubDate: "2026-09-04T20:30:08Z"
 tags: ["sale", "bundle", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Analog+Polysynth+Collection&a_aid=69cb95abe1763&chan=trk&data1=analog-polysynth-collection-e90204&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-polysynth-collection-e90204"

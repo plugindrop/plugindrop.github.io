@@ -1,6 +1,6 @@
 ---
 title: "ZEKAVEO — Get 72% off Broken Telemetry Ultimate Bundle by ZEKAVEO for $99 (Normally $364)"
-description: "The Broken Telemetry Ultimate Bundle by ZEKAVEO is currently 72% off — just $99 instead of the regular ~~$364~~, a $265 saving on a full creative plugin..."
+description: "The Broken Telemetry Ultimate Bundle by ZEKAVEO is currently 72% off — just $99 instead of the regular $364, a $265 saving on a full creative plugin..."
 pubDate: "2026-05-12T11:42:51Z"
 tags: ["zekaveo", "bundle", "music-production"]
 affiliate: "https://audioplugin.deals/product/broken-telemetry-ultimate-bundle-by-zekaveo/ref/21/"

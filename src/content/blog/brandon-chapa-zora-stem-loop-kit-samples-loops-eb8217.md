@@ -1,6 +1,6 @@
 ---
 title: "58% Off Brandon Chapa Zora Stem Loop Kit Samples Loops"
-description: "Brandon Chapa's Zora Stem Loop Kit is down to **$24.99** (was ~~$59.99~~) at ADSR Sounds — that's 58% off a professionally crafted stem loop collection..."
+description: "Brandon Chapa's Zora Stem Loop Kit is down to $24.99 (was $59.99) at ADSR Sounds — that's 58% off a professionally crafted stem loop collection..."
 pubDate: "2026-05-26T04:38:23Z"
 tags: ["sale", "preset-pack", "sample-pack-deal", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/brandon-chapa-zora-stem-loop-kit-samples-loops/?a_aid=plugindrop&data1=brandon-chapa-zora-stem-loop-kit-samples-loops-eb8217&utm_source=plugindrop&utm_medium=article&utm_campaign=brandon-chapa-zora-stem-loop-kit-samples-loops-eb8217"

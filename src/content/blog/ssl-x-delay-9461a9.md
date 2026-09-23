@@ -1,6 +1,6 @@
 ---
 title: "81% Off SSL X Delay — Analog-Style Delay for Mixing ($19)"
-description: "SSL X Delay is down to $19 from ~~$99~~ at Plugin Boutique, an 81% discount. It's an analog-modeled delay plugin from Solid State Logic, built around the..."
+description: "SSL X Delay is down to $19 from $99 at Plugin Boutique, an 81% discount. It's an analog-modeled delay plugin from Solid State Logic, built around the..."
 pubDate: "2026-07-21T14:32:39Z"
 saleExpiry: "2026-07-31"
 tags: ["sale", "vst-plugin", "effects", "reverb", "music-production"]

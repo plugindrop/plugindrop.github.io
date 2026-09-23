@@ -1,6 +1,6 @@
 ---
 title: "34% Off Evolve Alloy"
-description: "Save 34% on Evolve Alloy — a synth texture library for DTM producers. ~~$59~~ now $41. Get the deal here."
+description: "Save 34% on Evolve Alloy — a synth texture library for DTM producers. $59 now $41. Get the deal here."
 pubDate: "2026-09-01T03:10:22Z"
 tags: ["sale", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Evolve+Alloy&a_aid=69cb95abe1763&chan=trk&data1=evolve-alloy-85f18b&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-alloy-85f18b"

@@ -1,6 +1,6 @@
 ---
 title: "Ni Fm8 Bundle Birthday Sale"
-description: "ADSR Sounds is running a Birthday Sale on the NI FM8 Bundle, cutting the price from ~~$200.99~~ to $24.99 — a 20% discount off the listed regular price..."
+description: "ADSR Sounds is running a Birthday Sale on the NI FM8 Bundle, cutting the price from $200.99 to $24.99 — a 20% discount off the listed regular price..."
 pubDate: "2026-07-24T10:49:12Z"
 tags: ["sale", "preset-pack", "sample-pack-deal", "bundle", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/ni-fm8-bundle-birthday-sale/?a_aid=plugindrop&data1=ni-fm8-bundle-birthday-sale-19cb78&utm_source=plugindrop&utm_medium=article&utm_campaign=ni-fm8-bundle-birthday-sale-19cb78"

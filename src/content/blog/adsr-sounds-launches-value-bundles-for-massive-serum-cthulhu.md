@@ -1,6 +1,6 @@
 ---
 title: "ADSR Sounds launches value bundles for Massive, Serum & Cthulhu"
-description: "ADSR Sounds is running a limited-time promotion on three value bundles — Cthulhu, Serum, and Massive — each priced at just **$20** and packed with 8 packs..."
+description: "ADSR Sounds is running a limited-time promotion on three value bundles — Cthulhu, Serum, and Massive — each priced at just $20 and packed with 8 packs..."
 pubDate: "2026-05-07T08:05:29Z"
 tags: ["samples and presets", "cthulhu", "massive", "sale", "serum", "bundle", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/cthulhu-bundle/?a_aid=plugindrop&data1=adsr-sounds-launches-value-bundles-for-massive-serum-cthulhu&utm_source=plugindrop&utm_medium=article&utm_campaign=adsr-sounds-launches-value-bundles-for-massive-serum-cthulhu"

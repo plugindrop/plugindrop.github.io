@@ -1,6 +1,6 @@
 ---
 title: "Interview with Jeff Lupker, Co-Founder and CEO of Staccato"
-description: "Staccato — the AI MIDI generation plugin that just took home AudioPlugin.Deals' 2026 Plugin of the Year — is currently available for **$149.99** (down..."
+description: "Staccato — the AI MIDI generation plugin that just took home AudioPlugin.Deals' 2026 Plugin of the Year — is currently available for $149.99 (down..."
 pubDate: "2026-05-21T22:26:09Z"
 tags: ["articles", "blog", "music-production"]
 affiliate: "https://audioplugin.deals/blog/interview-with-jeff-lupker-co-founder-and-ceo-of-staccato/"

@@ -1,6 +1,6 @@
 ---
 title: "50% Off Rumble"
-description: "Rumble is currently 50% off at Plugin Boutique — drop from ~~$199~~ to **$99**. That's a $100 saving on a synthesizer built for deep, textured sound..."
+description: "Rumble is currently 50% off at Plugin Boutique — drop from $199 to $99. That's a $100 saving on a synthesizer built for deep, textured sound..."
 pubDate: "2026-06-10T22:57:03Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17445-Rumble?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rumble-6a9e88&chan=art&data1=rumble-6a9e88"

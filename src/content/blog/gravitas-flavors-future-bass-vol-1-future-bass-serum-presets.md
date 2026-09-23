@@ -1,6 +1,6 @@
 ---
 title: "30% Off Gravitas Flavors — Future Bass Serum Patches ($13.99)"
-description: "Gravitas Flavors' Future Bass Vol 1 for Xfer Serum is discounted from ~~$19.99~~ to **$13.99** at ADSR Sounds, a 30% saving. It's a genre-focused preset..."
+description: "Gravitas Flavors' Future Bass Vol 1 for Xfer Serum is discounted from $19.99 to $13.99 at ADSR Sounds, a 30% saving. It's a genre-focused preset..."
 pubDate: "2026-08-10T20:03:46Z"
 saleExpiry: "2026-08-28"
 tags: ["sale", "preset-pack", "serum", "synth", "music-production"]

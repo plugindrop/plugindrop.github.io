@@ -1,6 +1,6 @@
 ---
 title: "Reviewing Telepathic Instruments’ Orchid: The synth f…"
-description: "Telepathic Instruments' Orchid — the chord-generating synth plugin demoed by producer and DJ Devon Johnson — is currently discounted to **$4.99**, down..."
+description: "Telepathic Instruments' Orchid — the chord-generating synth plugin demoed by producer and DJ Devon Johnson — is currently discounted to $4.99, down..."
 pubDate: "2026-07-09T18:07:26Z"
 tags: ["ableton live", "daw", "tips  tutorials", "tools", "videos", "plugged in", "splice instrument", "synth", "youtube", "music-production"]
 affiliate: "https://splice.com/sounds/instruments/drums/samples?utm_source=plugindrop&utm_medium=article&utm_campaign=reviewing-telepathic-instruments-orchid-the-synth-from-the-m"

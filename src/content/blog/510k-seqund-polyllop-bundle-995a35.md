@@ -1,6 +1,6 @@
 ---
 title: "30% Off 510k SEQUND POLYLLOP Bundle"
-description: "The 510k SEQUND POLYLLOP Bundle is currently **30% off** at Plugin Boutique — ~~$99~~ **$69**. That's a $30 saving on a multi-plugin bundle covering..."
+description: "The 510k SEQUND POLYLLOP Bundle is currently 30% off at Plugin Boutique — $99 $69. That's a $30 saving on a multi-plugin bundle covering..."
 pubDate: "2026-06-17T10:03:18Z"
 tags: ["sale", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/15228-510k-SEQUND-POLYLLOP-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=510k-seqund-polyllop-bundle-995a35&chan=art&data1=510k-seqund-polyllop-bundle-995a35"

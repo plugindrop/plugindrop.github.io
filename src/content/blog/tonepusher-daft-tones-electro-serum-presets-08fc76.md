@@ -1,6 +1,6 @@
 ---
 title: "Tonepusher Daft Tones Electro Serum Presets"
-description: "Tonepusher's Daft Tones Electro Serum Presets are currently on sale at ADSR Sounds for **$12**, down from the regular $19 — that's roughly 37% off for a..."
+description: "Tonepusher's Daft Tones Electro Serum Presets are currently on sale at ADSR Sounds for $12, down from the regular $19 — that's roughly 37% off for a..."
 pubDate: "2026-05-18T16:37:12Z"
 tags: ["sale", "preset-pack", "serum", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/tonepusher-daft-tones-electro-serum-presets/?a_aid=plugindrop&data1=tonepusher-daft-tones-electro-serum-presets-08fc76&utm_source=plugindrop&utm_medium=article&utm_campaign=tonepusher-daft-tones-electro-serum-presets-08fc76"

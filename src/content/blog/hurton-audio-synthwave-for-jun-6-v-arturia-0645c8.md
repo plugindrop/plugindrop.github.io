@@ -1,6 +1,6 @@
 ---
 title: "Hurton Audio Synthwave For Jun 6 V Arturia"
-description: "Hurton Audio's Synthwave preset pack for Arturia's Jun-6 V is currently available at ADSR Sounds for **$20** — a solid entry price for a genre-specific..."
+description: "Hurton Audio's Synthwave preset pack for Arturia's Jun-6 V is currently available at ADSR Sounds for $20 — a solid entry price for a genre-specific..."
 pubDate: "2026-05-25T08:22:16Z"
 tags: ["sale", "preset-pack", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/hurton-audio-synthwave-for-jun-6-v-arturia/?a_aid=plugindrop&data1=hurton-audio-synthwave-for-jun-6-v-arturia-0645c8&utm_source=plugindrop&utm_medium=article&utm_campaign=hurton-audio-synthwave-for-jun-6-v-arturia-0645c8"

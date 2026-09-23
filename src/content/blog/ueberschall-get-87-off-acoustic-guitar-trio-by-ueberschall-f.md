@@ -1,6 +1,6 @@
 ---
 title: "Ueberschall — Get 87% off Acoustic Guitar Trio by Ueberschall for $9 (Normally $69)"
-description: "Acoustic Guitar Trio by Ueberschall is down to **$9** — that's 87% off the regular ~~$69~~ price. If you need organic acoustic guitar textures for your..."
+description: "Acoustic Guitar Trio by Ueberschall is down to $9 — that's 87% off the regular $69 price. If you need organic acoustic guitar textures for your..."
 pubDate: "2026-05-25T16:03:39Z"
 tags: ["ueberschall", "music-production"]
 affiliate: "https://audioplugin.deals/product/acoustic-guitar-trio-by-ueberschall/ref/21/"

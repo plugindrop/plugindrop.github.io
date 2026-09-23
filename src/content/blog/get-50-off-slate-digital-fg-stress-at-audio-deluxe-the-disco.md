@@ -1,6 +1,6 @@
 ---
 title: "Get 50% off Slate Digital FG-Stress at Audio Deluxe"
-description: "Slate Digital's FG-Stress is currently **50% off at $49.50** (regular $99) at Audio Deluxe — a rare discount on one of the most recognizable names in the..."
+description: "Slate Digital's FG-Stress is currently 50% off at $49.50 (regular $99) at Audio Deluxe — a rare discount on one of the most recognizable names in the..."
 pubDate: "2026-05-15T17:18:37Z"
 tags: ["music-production"]
 affiliate: "https://audiodeluxe.com/collections/software/products/slate-digital-fg-stress"

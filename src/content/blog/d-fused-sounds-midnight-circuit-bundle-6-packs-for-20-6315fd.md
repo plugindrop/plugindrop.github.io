@@ -1,6 +1,6 @@
 ---
 title: "82% Off D Fused Sounds Midnight Circuit Bundle 6 Packs For 20"
-description: "D Fused Sounds is bundling 6 Midnight Circuit packs for just $20 — down from ~~$109.76~~ — an 82% discount that works out to roughly $3.33 per pack. If..."
+description: "D Fused Sounds is bundling 6 Midnight Circuit packs for just $20 — down from $109.76 — an 82% discount that works out to roughly $3.33 per pack. If..."
 pubDate: "2026-06-08T15:31:34Z"
 tags: ["sale", "preset-pack", "sample-pack-deal", "bundle", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/d-fused-sounds-midnight-circuit-bundle-6-packs-for-20/?a_aid=plugindrop&data1=d-fused-sounds-midnight-circuit-bundle-6-packs-for-20-6315fd&utm_source=plugindrop&utm_medium=article&utm_campaign=d-fused-sounds-midnight-circuit-bundle-6-packs-for-20-6315fd"

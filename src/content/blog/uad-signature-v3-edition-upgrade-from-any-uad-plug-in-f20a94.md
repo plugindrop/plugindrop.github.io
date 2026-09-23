@@ -1,6 +1,6 @@
 ---
 title: "58% Off UAD Signature V3 Edition Upgrade from Any UAD Plug in"
-description: "UAD's Signature V3 Edition — normally ~~$599~~ — is currently available for **$249** at Plugin Boutique, a 58% discount that rarely comes around for..."
+description: "UAD's Signature V3 Edition — normally $599 — is currently available for $249 at Plugin Boutique, a 58% discount that rarely comes around for..."
 pubDate: "2026-06-13T03:27:13Z"
 tags: ["sale", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17065-UAD-Signature-V3-Edition-Upgrade-from-Any-UAD-Plug-in?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-signature-v3-edition-upgrade-from-any-uad-plug-in-f20a94&chan=art&data1=uad-signature-v3-edition-upgrade-from-any-uad-plug-in-f20a94"

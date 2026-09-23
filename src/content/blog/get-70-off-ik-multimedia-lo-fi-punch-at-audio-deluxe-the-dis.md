@@ -1,6 +1,6 @@
 ---
 title: "Get 70% off IK Multimedia LO-FI Punch at Audio Deluxe"
-description: "IK Multimedia LO-FI Punch is 70% off at Audio Deluxe, down to just **$29.99** — verify the original price on the product page. The deal runs until **May..."
+description: "IK Multimedia LO-FI Punch is 70% off at Audio Deluxe, down to just $29.99 — verify the original price on the product page. The deal runs until May..."
 pubDate: "2026-05-25T17:25:44Z"
 tags: ["music-production"]
 affiliate: "https://audiodeluxe.com/collections/software/products/ik-multimedia-lo-fi-punch"

@@ -1,6 +1,6 @@
 ---
 title: "40% Off Vandalism Shocking Psytrance For Serum"
-description: "Vandalism's Shocking Psytrance for Serum is down 40% at ADSR Sounds — just $8.39 instead of ~~$13.99~~. If you produce psytrance or dark trance and run..."
+description: "Vandalism's Shocking Psytrance for Serum is down 40% at ADSR Sounds — just $8.39 instead of $13.99. If you produce psytrance or dark trance and run..."
 pubDate: "2026-06-15T20:57:23Z"
 tags: ["sale", "preset-pack", "serum", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/vandalism-shocking-psytrance-for-serum/?a_aid=plugindrop&data1=vandalism-shocking-psytrance-for-serum-6edf95&utm_source=plugindrop&utm_medium=article&utm_campaign=vandalism-shocking-psytrance-for-serum-6edf95"

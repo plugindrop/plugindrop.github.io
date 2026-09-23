@@ -1,6 +1,6 @@
 ---
 title: "Unison MIDI Chord Pack"
-description: "Unison Audio's MIDI Chord Pack is currently available for **$67** — verify current pricing on the product page for full savings context. If you're..."
+description: "Unison Audio's MIDI Chord Pack is currently available for $67 — verify current pricing on the product page for full savings context. If you're..."
 pubDate: "2026-05-11T10:50:57Z"
 tags: ["unison", "sample-pack", "sample-pack-deal", "music-production"]
 affiliate: "https://unison.audio/ref/jc374/product/famous-mainstage-serum-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-chord-pack-4c4b35"

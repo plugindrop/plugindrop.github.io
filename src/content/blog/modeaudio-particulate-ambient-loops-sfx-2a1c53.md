@@ -1,6 +1,6 @@
 ---
 title: "40% Off Modeaudio Particulate Ambient Loops Sfx"
-description: "Modeaudio's Particulate Ambient Loops SFX is currently **40% off** at ADSR Sounds — dropping from ~~$19~~ to just **$11.40**. That's a solid entry price..."
+description: "Modeaudio's Particulate Ambient Loops SFX is currently 40% off at ADSR Sounds — dropping from $19 to just $11.40. That's a solid entry price..."
 pubDate: "2026-05-15T16:38:14Z"
 tags: ["sale", "preset-pack", "sample-pack-deal", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/modeaudio-particulate-ambient-loops-sfx/?a_aid=plugindrop&data1=modeaudio-particulate-ambient-loops-sfx-2a1c53&utm_source=plugindrop&utm_medium=article&utm_campaign=modeaudio-particulate-ambient-loops-sfx-2a1c53"

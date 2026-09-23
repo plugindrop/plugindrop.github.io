@@ -1,6 +1,6 @@
 ---
 title: "Unison Mainstage Collection for Serum"
-description: "Unison Audio's Mainstage Collection for Serum bundles 10 preset packs that normally sell as a ~~$199~~ set down to **$47**, a savings of roughly $152..."
+description: "Unison Audio's Mainstage Collection for Serum bundles 10 preset packs that normally sell as a $199 set down to $47, a savings of roughly $152..."
 pubDate: "2026-08-18T20:46:40Z"
 tags: ["unison", "sample-pack", "sale", "sample-pack-deal", "bundle", "synth", "music-production"]
 affiliate: "https://unison.audio/ref/jc374/product/unison-mainstage-collection-for-serum/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-mainstage-collection-for-serum-67be12"

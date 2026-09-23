@@ -1,6 +1,6 @@
 ---
 title: "34% Off Bloom Synth Analogue — Warm Analog Pads & Leads ($39)"
-description: "Bloom Synth Analogue is discounted from ~~$59~~ to $39 at Plugin Boutique, a 34% saving. The deal is live now, but Plugin Boutique sales windows can close..."
+description: "Bloom Synth Analogue is discounted from $59 to $39 at Plugin Boutique, a 34% saving. The deal is live now, but Plugin Boutique sales windows can close..."
 pubDate: "2026-08-12T03:39:39Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Bloom+Synth+Analogue&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-0a797a"

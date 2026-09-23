@@ -1,6 +1,6 @@
 ---
 title: "67% Off SSL 4K B"
-description: "The SSL 4K B is down to **$49** (~~$149~~) at Plugin Boutique — that's 67% off a classic British console compressor emulation. If you've been waiting for..."
+description: "The SSL 4K B is down to $49 ($149) at Plugin Boutique — that's 67% off a classic British console compressor emulation. If you've been waiting for..."
 pubDate: "2026-06-01T03:31:46Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-e4a7af&chan=art&data1=ssl-4k-b-e4a7af"

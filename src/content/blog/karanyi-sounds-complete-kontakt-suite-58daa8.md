@@ -1,6 +1,6 @@
 ---
 title: "34% Off Karanyi Sounds Complete Kontakt Suite"
-description: "Karanyi Sounds Complete Kontakt Suite is currently **$99.00** (down from ~~$149.00~~) at Plugin Boutique — that's $50 off, or 34% savings on a full suite..."
+description: "Karanyi Sounds Complete Kontakt Suite is currently $99.00 (down from $149.00) at Plugin Boutique — that's $50 off, or 34% savings on a full suite..."
 pubDate: "2026-06-02T16:58:40Z"
 tags: ["sale", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15056-Karanyi-Sounds-Complete-Kontakt-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=karanyi-sounds-complete-kontakt-suite-58daa8&chan=art&data1=karanyi-sounds-complete-kontakt-suite-58daa8"

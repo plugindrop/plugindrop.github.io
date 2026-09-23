@@ -1,6 +1,6 @@
 ---
 title: "Today's Best Audio Plugin Deals and Freebies - Friday July 3rd 2026"
-description: "Two solid freebies are live today: Canvas Audio's **Double Dare**, a free vocal doubler plugin for Mac and Windows with no expiry date, and Plugin..."
+description: "Two solid freebies are live today: Canvas Audio's Double Dare, a free vocal doubler plugin for Mac and Windows with no expiry date, and Plugin..."
 pubDate: "2026-07-03T14:37:42Z"
 tags: ["free", "music-production"]
 affiliate: "https://www.canvasaudio.net/plugins/double-dare"

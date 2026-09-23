@@ -1,6 +1,6 @@
 ---
 title: "Unison MIDI Chord Pack"
-description: "The Unison MIDI Chord Pack (officially listed as the MIDI Wizard Beatmaker Expansion Pack) is available now for **$67** at Unison Audio — a ready-to-drop..."
+description: "The Unison MIDI Chord Pack (officially listed as the MIDI Wizard Beatmaker Expansion Pack) is available now for $67 at Unison Audio — a ready-to-drop..."
 pubDate: "2026-05-21T18:08:34Z"
 tags: ["unison", "midi-pack", "sample-pack-deal", "music-production"]
 affiliate: "https://unison.audio/ref/jc374/product/midi-wizard-beatmaker-expansion-pack/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-midi-chord-pack-0a31f8"

@@ -1,6 +1,6 @@
 ---
 title: "34% Off Hive 2 — Wavetable Synth for Electronic Music ($99)"
-description: "Hive 2, the wavetable synth from u-he, is ~~$149~~ $99 at Plugin Boutique right now — a 34% discount that saves you $50. It's a perpetual license..."
+description: "Hive 2, the wavetable synth from u-he, is $149 $99 at Plugin Boutique right now — a 34% discount that saves you $50. It's a perpetual license..."
 pubDate: "2026-08-19T18:49:41Z"
 tags: ["sale", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Hive+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hive-2-3b171c"

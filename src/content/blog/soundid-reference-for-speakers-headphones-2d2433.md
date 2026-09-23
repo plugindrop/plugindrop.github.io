@@ -1,6 +1,6 @@
 ---
 title: "32% Off SoundID Reference for Speakers Headphones"
-description: "SoundID Reference for Speakers & Headphones is **32% off** at Plugin Boutique — dropping from ~~$249~~ to **$169**, a flat $80 saving. This is the full..."
+description: "SoundID Reference for Speakers & Headphones is 32% off at Plugin Boutique — dropping from $249 to $169, a flat $80 saving. This is the full..."
 pubDate: "2026-06-08T01:56:10Z"
 tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/7410-SoundID-Reference-for-Speakers-Headphones?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-reference-for-speakers-headphones-2d2433&chan=art&data1=soundid-reference-for-speakers-headphones-2d2433"

@@ -1,6 +1,6 @@
 ---
 title: "49% Off Eloy Drums"
-description: "Eloy Drums is currently 49% off at Plugin Boutique — dropping from ~~$139.00~~ to **$70.89**. That's over $68 in savings on a Kontakt drum instrument..."
+description: "Eloy Drums is currently 49% off at Plugin Boutique — dropping from $139.00 to $70.89. That's over $68 in savings on a Kontakt drum instrument..."
 pubDate: "2026-05-29T07:07:42Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15592-Eloy-Drums?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=eloy-drums-e9227e&chan=art&data1=eloy-drums-e9227e"

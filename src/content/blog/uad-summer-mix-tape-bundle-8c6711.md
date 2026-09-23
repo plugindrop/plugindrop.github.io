@@ -1,6 +1,6 @@
 ---
 title: "38% Off UAD Summer Mix Tape Bundle"
-description: "The UAD Summer Mix Tape Bundle drops from ~~$79~~ to **$49** — that's 38% off Universal Audio's mixing-focused plugin bundle. A solid window to pick up..."
+description: "The UAD Summer Mix Tape Bundle drops from $79 to $49 — that's 38% off Universal Audio's mixing-focused plugin bundle. A solid window to pick up..."
 pubDate: "2026-06-01T12:26:15Z"
 tags: ["sale", "mixing", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17397-UAD-Summer-Mix-Tape-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-summer-mix-tape-bundle-8c6711&chan=art&data1=uad-summer-mix-tape-bundle-8c6711"

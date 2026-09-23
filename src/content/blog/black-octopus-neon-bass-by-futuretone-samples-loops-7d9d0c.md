@@ -1,6 +1,6 @@
 ---
 title: "40% Off Black Octopus Neon Bass By Futuretone Samples Loops"
-description: "Black Octopus Neon Bass by Futuretone is now **40% off** at ADSR Sounds — ~~$29.95~~ down to **$17.97**. That's a solid saving on a bass-focused sample..."
+description: "Black Octopus Neon Bass by Futuretone is now 40% off at ADSR Sounds — $29.95 down to $17.97. That's a solid saving on a bass-focused sample..."
 pubDate: "2026-06-15T23:47:50Z"
 tags: ["sale", "preset-pack", "sample-pack-deal", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/black-octopus-neon-bass-by-futuretone-samples-loops/?a_aid=plugindrop&data1=black-octopus-neon-bass-by-futuretone-samples-loops-7d9d0c&utm_source=plugindrop&utm_medium=article&utm_campaign=black-octopus-neon-bass-by-futuretone-samples-loops-7d9d0c"

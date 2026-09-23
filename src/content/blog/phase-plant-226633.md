@@ -1,6 +1,6 @@
 ---
 title: "50% Off Phase Plant"
-description: "Phase Plant by Kilohearts is currently **50% off** at Plugin Boutique — drop from ~~$199~~ to **$99**. That's a significant discount on one of the most..."
+description: "Phase Plant by Kilohearts is currently 50% off at Plugin Boutique — drop from $199 to $99. That's a significant discount on one of the most..."
 pubDate: "2026-05-29T05:41:20Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=phase-plant-226633&chan=art&data1=phase-plant-226633"

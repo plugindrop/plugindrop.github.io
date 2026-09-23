@@ -1,6 +1,6 @@
 ---
 title: I made a free AI MIDI pattern generator plugin (VST3) — would love your feedback
-description: Stepista is a **100% free** AI-powered MIDI pattern generator plugin
+description: Stepista is a 100% free AI-powered MIDI pattern generator plugin
   (VST3) from developer Mr Jefferson. No trial limits, no account required, no catch....
 pubDate: '2026-04-02T11:37:27Z'
 tags: ["free", "edmproduction", "music-production"]

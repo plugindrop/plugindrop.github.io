@@ -1,6 +1,6 @@
 ---
 title: "Ice Audio — Get 75% Punch Maker + Vocal Band by Ice Audio for $39 (Normally $160)"
-description: "Ice Audio's Punch Maker + Vocal Band bundle drops from ~~$160~~ to just $39 — that's 75% off, putting two purpose-built production tools at roughly $19.50..."
+description: "Ice Audio's Punch Maker + Vocal Band bundle drops from $160 to just $39 — that's 75% off, putting two purpose-built production tools at roughly $19.50..."
 pubDate: "2026-05-14T15:58:10Z"
 tags: ["ice audio", "music-production"]
 affiliate: "https://audioplugin.deals/product/punch-maker-vocal-band-by-ice-audio/ref/21/"

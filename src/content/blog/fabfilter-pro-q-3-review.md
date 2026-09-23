@@ -14,6 +14,8 @@ noindex: true
 
 **TL;DR:** FabFilter Pro-Q 3 remains the benchmark parametric EQ in 2026 — no competitor has matched its combination of surgical precision, dynamic EQ, mid/side processing, and workflow speed at the price. If you produce or mix at any serious level and are buying one EQ plugin, this is it. The Total Bundle is the smart move if you plan to add more FabFilter tools.
 
+**Update:** FabFilter has since released Pro-Q 4. See our [FabFilter Pro-Q 4 review](/posts/fabfilter-pro-q-4-review/) for what changed and current pricing.
+
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 3 Review: Is It Still the Best EQ Plugin in 2026? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

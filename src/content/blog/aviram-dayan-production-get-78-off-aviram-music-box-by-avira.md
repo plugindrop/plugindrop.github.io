@@ -1,6 +1,6 @@
 ---
 title: "Aviram Dayan Production — Get 78% off Aviram Music Box by Aviram Dayan Production for $29 (Normally $129)"
-description: "Aviram Music Box by Aviram Dayan Production is currently **78% off** — drop from ~~$129~~ to just **$29**. That's a $100 saving on a dedicated music box..."
+description: "Aviram Music Box by Aviram Dayan Production is currently 78% off — drop from $129 to just $29. That's a $100 saving on a dedicated music box..."
 pubDate: "2026-05-07T11:18:11Z"
 tags: ["aviram dayan production", "music-production"]
 affiliate: "https://audioplugin.deals/product/aviram-music-box-aviram-dayan-production/ref/21/"

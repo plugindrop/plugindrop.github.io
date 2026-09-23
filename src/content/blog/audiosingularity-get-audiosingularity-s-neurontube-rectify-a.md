@@ -1,6 +1,6 @@
 ---
 title: "Audiosingularity — Get audiosingularity's Neurontube Rectify at intro price $69 (40% off)"
-description: "Audiosingularity's Neurontube Rectify is currently available at an intro price of $69 — that's 40% off the regular ~~$109~~ price tag. The deal runs..."
+description: "Audiosingularity's Neurontube Rectify is currently available at an intro price of $69 — that's 40% off the regular $109 price tag. The deal runs..."
 pubDate: "2026-06-02T06:29:40Z"
 tags: ["audiosingularity", "music-production"]
 affiliate: "https://audiosingularity.com/product/neurontube-rectify/"

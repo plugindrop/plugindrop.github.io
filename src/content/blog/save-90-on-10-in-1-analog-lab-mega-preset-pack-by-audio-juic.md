@@ -1,6 +1,6 @@
 ---
 title: "30% Off Analog Lab Mega Pack — 10-in-1 Preset Bundle ($21)"
-description: "ADSR Sounds has the Analog Lab Mega Preset Pack by Audio Juice down to **$21** from ~~$29.99~~ for a limited time. That's 10 individual preset banks..."
+description: "ADSR Sounds has the Analog Lab Mega Preset Pack by Audio Juice down to $21 from $29.99 for a limited time. That's 10 individual preset banks..."
 pubDate: "2026-08-07T14:54:29Z"
 tags: ["samples and presets", "sale", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/audio-juice-analog-lab-mega-pack-10-in-1-bundle/?a_aid=plugindrop&data1=save-90-on-10-in-1-analog-lab-mega-preset-pack-by-audio-juic&utm_source=plugindrop&utm_medium=article&utm_campaign=save-90-on-10-in-1-analog-lab-mega-preset-pack-by-audio-juic#a_aid=rekkerd"

@@ -1,6 +1,6 @@
 ---
 title: "76% Off Black Box HG 2 — Analog Console Saturation ($30)"
-description: "Black Box Analog Design's HG-2 saturation plugin is ~~$125~~ **$30** at Plugin Boutique right now, a 76% discount. That's one of the steeper cuts you'll..."
+description: "Black Box Analog Design's HG-2 saturation plugin is $125 $30 at Plugin Boutique right now, a 76% discount. That's one of the steeper cuts you'll..."
 pubDate: "2026-08-17T10:47:31Z"
 tags: ["sale", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Black+Box+Analog+Design+HG+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=black-box-analog-design-hg-2-faaf95"

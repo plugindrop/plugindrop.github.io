@@ -1,6 +1,6 @@
 ---
 title: "34% Off Bloom Vocal Choir — Layered Choir Textures ($39)"
-description: "Bloom Vocal Choir is on sale at Plugin Boutique for $39, down from ~~$59~~ — a 34% discount. It's a vocal instrument built for layered, textural choir..."
+description: "Bloom Vocal Choir is on sale at Plugin Boutique for $39, down from $59 — a 34% discount. It's a vocal instrument built for layered, textural choir..."
 pubDate: "2026-08-30T14:10:54Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "vocal", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Bloom+Vocal+Choir&a_aid=69cb95abe1763&chan=art&data1=bloom-vocal-choir-4eec6e&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-vocal-choir-4eec6e"

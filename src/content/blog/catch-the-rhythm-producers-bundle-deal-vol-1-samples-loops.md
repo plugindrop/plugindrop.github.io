@@ -1,6 +1,6 @@
 ---
 title: "41% Off Catch The Rhythm — Samples & Loops Bundle ($29)"
-description: "ADSR Sounds has the Catch The Rhythm Producers Bundle Vol 1 marked down from ~~$49~~ to $29, a savings of about 41%. The bundle bundles samples and loops..."
+description: "ADSR Sounds has the Catch The Rhythm Producers Bundle Vol 1 marked down from $49 to $29, a savings of about 41%. The bundle bundles samples and loops..."
 pubDate: "2026-07-21T11:52:38Z"
 tags: ["sale", "preset-pack", "sample-pack-deal", "bundle", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/catch-the-rhythm-producers-bundle-deal-vol-1-samples-loops/?a_aid=plugindrop&data1=catch-the-rhythm-producers-bundle-deal-vol-1-samples-loops&utm_source=plugindrop&utm_medium=article&utm_campaign=catch-the-rhythm-producers-bundle-deal-vol-1-samples-loops"

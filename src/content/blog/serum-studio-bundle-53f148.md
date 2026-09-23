@@ -1,6 +1,6 @@
 ---
 title: "88% Off Serum Studio Bundle — Sound Design Presets ($24.99)"
-description: "ADSR Sounds has the Serum Studio Bundle at $24.99, down from ~~$200.99~~. That's a savings of roughly $176, or about 88% off list price. Get the Serum..."
+description: "ADSR Sounds has the Serum Studio Bundle at $24.99, down from $200.99. That's a savings of roughly $176, or about 88% off list price. Get the Serum..."
 pubDate: "2026-07-19T11:37:00Z"
 tags: ["sale", "preset-pack", "serum", "synth", "bundle", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/serum-studio-bundle/?a_aid=plugindrop&data1=serum-studio-bundle-53f148&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-studio-bundle-53f148"

@@ -1,6 +1,6 @@
 ---
 title: "40% Off Master Of Dreams Drum Machine 626 Custom Linn Lm 1 Dmx 707"
-description: "Master Of Dreams Drum Machine 626 is down to **$23.40** (~~$39~~) at ADSR Sounds — that's 40% off a vintage drum machine preset collection built around..."
+description: "Master Of Dreams Drum Machine 626 is down to $23.40 ($39) at ADSR Sounds — that's 40% off a vintage drum machine preset collection built around..."
 pubDate: "2026-05-24T08:27:10Z"
 tags: ["sale", "preset-pack", "sample-pack-deal", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/master-of-dreams-drum-machine-626-custom-linn-lm-1-dmx-707/?a_aid=plugindrop&data1=master-of-dreams-drum-machine-626-custom-linn-lm-1-dmx-707&utm_source=plugindrop&utm_medium=article&utm_campaign=master-of-dreams-drum-machine-626-custom-linn-lm-1-dmx-707"

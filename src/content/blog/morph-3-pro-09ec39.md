@@ -1,6 +1,6 @@
 ---
 title: "45% Off MORPH 3 PRO"
-description: "MORPH 3 PRO, the advanced modulation plugin for sound design and effects processing, is currently ~~$269~~ **$149.00** at Plugin Boutique — a savings of..."
+description: "MORPH 3 PRO, the advanced modulation plugin for sound design and effects processing, is currently $269 $149.00 at Plugin Boutique — a savings of..."
 pubDate: "2026-07-06T00:25:23Z"
 saleExpiry: "2026-08-28"
 tags: ["sale", "vst-plugin", "effects", "music-production"]

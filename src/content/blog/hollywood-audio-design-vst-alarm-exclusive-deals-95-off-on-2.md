@@ -1,6 +1,6 @@
 ---
 title: "Hollywood Audio Design — VST Alarm Exclusive Deals - 95% off on 24-in-1 Premium Complete Bundle for Kontakt (full version) by Hollywood Audio Design"
-description: "Hollywood Audio Design's 24-in-1 Premium Complete Bundle is down to **$59.95** (~~$1,188~~ regular price) — a 95% saving that works out to roughly $2.50..."
+description: "Hollywood Audio Design's 24-in-1 Premium Complete Bundle is down to $59.95 ($1,188 regular price) — a 95% saving that works out to roughly $2.50..."
 pubDate: "2026-06-01T05:44:31Z"
 tags: ["hollywood audio design", "bundle", "music-production"]
 affiliate: "https://vstalarm.com/product/premium-complete-bundle-24-by-hollywood-audio-design/"

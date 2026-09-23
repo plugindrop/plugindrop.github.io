@@ -1,6 +1,6 @@
 ---
 title: "2B Played Music — LowEnd Friend 2 is now available from 2B Played. Intro Sale: $29. V1 Upgrade: $19. Reg. $69"
-description: "LowEnd Friend 2 from 2B Played Music launches at **$29** during its intro sale — more than half off the regular ~~$69~~ price. V1 owners can upgrade for..."
+description: "LowEnd Friend 2 from 2B Played Music launches at $29 during its intro sale — more than half off the regular $69 price. V1 owners can upgrade for..."
 pubDate: "2026-05-21T17:26:49Z"
 tags: ["2b played music", "music-production"]
 affiliate: "https://2bplayed.com/product/lowend-friend-2/"

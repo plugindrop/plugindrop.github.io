@@ -1,6 +1,6 @@
 ---
 title: "Zynaptiq — Zynaptiq Morph 3 audio morphing plugin for Win & Mac is 47% off"
-description: "Zynaptiq Morph 3 — one of the most technically sophisticated audio morphing plugins on the market — is currently **47% off** until May 14th. Prices aren't..."
+description: "Zynaptiq Morph 3 — one of the most technically sophisticated audio morphing plugins on the market — is currently 47% off until May 14th. Prices aren't..."
 pubDate: "2026-05-08T05:42:49Z"
 tags: ["zynaptiq", "music-production"]
 affiliate: "https://www.zynaptiq.com/morph/"

@@ -1,6 +1,6 @@
 ---
 title: "35% Off Opacity Soundbox Instrument"
-description: "Opacity Soundbox Instrument is currently 35% off at Plugin Boutique — dropping from ~~$43.00~~ to **$27.95**. That's over $15 in savings on a virtual..."
+description: "Opacity Soundbox Instrument is currently 35% off at Plugin Boutique — dropping from $43.00 to $27.95. That's over $15 in savings on a virtual..."
 pubDate: "2026-06-10T08:35:35Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15215-Opacity-Soundbox-Instrument?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=opacity-soundbox-instrument-3c8dc7&chan=art&data1=opacity-soundbox-instrument-3c8dc7"

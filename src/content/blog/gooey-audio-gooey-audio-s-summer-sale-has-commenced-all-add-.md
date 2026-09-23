@@ -1,6 +1,6 @@
 ---
 title: "Gooey Audio — Gooey Audio's summer sale has commenced. All Add-On Plug-ins Only $4.99"
-description: "Gooey Audio's summer sale drops all Add-On Plug-ins to just $4.99 — down from ~~$29.99~~ — an 83% saving that lasts only until July 5th. If you've been..."
+description: "Gooey Audio's summer sale drops all Add-On Plug-ins to just $4.99 — down from $29.99 — an 83% saving that lasts only until July 5th. If you've been..."
 pubDate: "2026-06-05T05:35:44Z"
 tags: ["gooey audio", "music-production"]
 affiliate: "https://www.gooeyaudio.com/plugins/addon"

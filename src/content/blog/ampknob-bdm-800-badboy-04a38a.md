@@ -1,6 +1,6 @@
 ---
 title: "30% Off Ampknob BDM 800 Badboy"
-description: "Ampknob BDM 800 Badboy is currently 30% off at Plugin Boutique — down from ~~$53.90~~ to **$37.73**. For producers chasing aggressive, character-rich amp..."
+description: "Ampknob BDM 800 Badboy is currently 30% off at Plugin Boutique — down from $53.90 to $37.73. For producers chasing aggressive, character-rich amp..."
 pubDate: "2026-05-08T19:26:03Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/14858-Ampknob-BDM-800-Badboy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ampknob-bdm-800-badboy-04a38a&chan=art&data1=ampknob-bdm-800-badboy-04a38a"

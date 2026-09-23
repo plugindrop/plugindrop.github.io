@@ -1,6 +1,6 @@
 ---
 title: "34% Off Bloom Synth Analogue Lite — Warm Analog Tones ($19)"
-description: "Bloom Synth Analogue Lite is currently ~~$29~~ **$19** at Plugin Boutique, a 34% discount on the analog-style synth instrument. If you're after affordable..."
+description: "Bloom Synth Analogue Lite is currently $29 $19 at Plugin Boutique, a 34% discount on the analog-style synth instrument. If you're after affordable..."
 pubDate: "2026-08-04T16:37:21Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Bloom+Synth+Analogue+Lite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-lite-64e450"

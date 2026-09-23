@@ -1,6 +1,6 @@
 ---
 title: "49% Off Space Age 555 — Retro Reverb for Mix Ambience ($35)"
-description: "Space Age 555 is currently ~~$69~~ **$35** at Plugin Boutique, a 49% discount. If you want a retro-flavored reverb effect for less than the price of most..."
+description: "Space Age 555 is currently $69 $35 at Plugin Boutique, a 49% discount. If you want a retro-flavored reverb effect for less than the price of most..."
 pubDate: "2026-07-19T22:57:49Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/13936-Space-Age-555?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=space-age-555-17dbe2&chan=art&data1=space-age-555-17dbe2"

@@ -1,6 +1,6 @@
 ---
 title: "50% Off Big Swarma"
-description: "Big Swarma is half-price at Plugin Boutique right now — ~~$59.00~~ down to **$29.50**. That's 50% off a dedicated swarm modulation effect built for dense..."
+description: "Big Swarma is half-price at Plugin Boutique right now — $59.00 down to $29.50. That's 50% off a dedicated swarm modulation effect built for dense..."
 pubDate: "2026-06-08T15:31:32Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/33-Modulator/15680-Big-Swarma?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=big-swarma-52ed86&chan=art&data1=big-swarma-52ed86"

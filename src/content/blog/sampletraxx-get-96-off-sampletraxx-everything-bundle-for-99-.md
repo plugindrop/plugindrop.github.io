@@ -1,6 +1,6 @@
 ---
 title: "Sampletraxx — Get 96% off Sampletraxx Everything Bundle for $99 (Normally $2504)"
-description: "Sampletraxx is offering their entire sample library catalog — the Everything Bundle — for just $99 (~~$2,504~~), a 96% discount that expires June 11th..."
+description: "Sampletraxx is offering their entire sample library catalog — the Everything Bundle — for just $99 ($2,504), a 96% discount that expires June 11th..."
 pubDate: "2026-05-29T14:22:47Z"
 tags: ["sampletraxx", "bundle", "music-production"]
 affiliate: "https://audioplugin.deals/product/sampletraxx-everything-bundle/ref/21/"

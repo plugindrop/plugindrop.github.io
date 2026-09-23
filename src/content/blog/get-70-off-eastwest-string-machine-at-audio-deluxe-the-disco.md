@@ -1,6 +1,6 @@
 ---
 title: "Get 70% off EastWest String Machine at Audio Deluxe"
-description: "EastWest String Machine is currently **70% off at just $29** at Audio Deluxe — a significant discount on a vintage string synthesizer plugin from one of..."
+description: "EastWest String Machine is currently 70% off at just $29 at Audio Deluxe — a significant discount on a vintage string synthesizer plugin from one of..."
 pubDate: "2026-05-11T17:38:50Z"
 tags: ["music-production"]
 affiliate: "https://audiodeluxe.com/collections/software/products/eastwest-string-machine"

@@ -1,6 +1,6 @@
 ---
 title: "40% Off RC 20 Retro Color — Lo-Fi Texture Effects ($59)"
-description: "RC 20 Retro Color is currently $59.00 at Plugin Boutique, down from ~~$99.00~~, for a $40.00 saving. It combines six character-focused effect modules for..."
+description: "RC 20 Retro Color is currently $59.00 at Plugin Boutique, down from $99.00, for a $40.00 saving. It combines six character-focused effect modules for..."
 pubDate: "2026-08-02T05:28:16Z"
 tags: ["sale", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=RC+20+Retro+Color&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-1b7155"

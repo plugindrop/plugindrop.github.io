@@ -1,6 +1,6 @@
 ---
 title: "87% Off SSL Native Channel Strip 2"
-description: "SSL Native Channel Strip 2 drops to **$19.00** (~~$149.00~~) at Plugin Boutique — an 87% discount on an official first-party SSL plugin. That's $130 in..."
+description: "SSL Native Channel Strip 2 drops to $19.00 ($149.00) at Plugin Boutique — an 87% discount on an official first-party SSL plugin. That's $130 in..."
 pubDate: "2026-06-19T22:57:37Z"
 tags: ["sale", "vst-plugin", "effects", "mixing", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/8653-SSL-Native-Channel-Strip-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-channel-strip-2-b24adc&chan=art&data1=ssl-native-channel-strip-2-b24adc"

@@ -1,6 +1,6 @@
 ---
 title: "Gooey Audio — The Freq V2 by Gooey Audio has arrived. Introductory price of $4.99 (down from $29.99)"
-description: "Gooey Audio's The Freq V2 has dropped to just **$4.99** (down from ~~$29.99~~) as an introductory launch price — that's 83% off through May 31st. If..."
+description: "Gooey Audio's The Freq V2 has dropped to just $4.99 (down from $29.99) as an introductory launch price — that's 83% off through May 31st. If..."
 pubDate: "2026-05-25T05:38:00Z"
 tags: ["gooey audio", "music-production"]
 affiliate: "https://www.gooeyaudio.com/plugins/addon/freq"

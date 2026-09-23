@@ -1,6 +1,6 @@
 ---
 title: "41% Off ORANGE VOCODER NANO"
-description: "ORANGE VOCODER NANO is currently marked down to **$29.00** from ~~$49.00~~ at Plugin Boutique — a 41% discount on this vocoder plugin. If classic vocoder..."
+description: "ORANGE VOCODER NANO is currently marked down to $29.00 from $49.00 at Plugin Boutique — a 41% discount on this vocoder plugin. If classic vocoder..."
 pubDate: "2026-07-12T06:05:04Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/43-Vocoder/11468-ORANGE-VOCODER-NANO?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=orange-vocoder-nano-5ae529&chan=art&data1=orange-vocoder-nano-5ae529"

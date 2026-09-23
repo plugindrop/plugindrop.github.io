@@ -1,6 +1,6 @@
 ---
 title: "30% Off Gogoi Bedroom Beats and Chill Vol 2 for Serum ($16.10)"
-description: "ADSR Sounds has Gogoi's *Bedroom Beats and Chill Vol 2* for Serum marked down from ~~$23~~ to $16.10, a 30% discount. It's a Serum preset pack built..."
+description: "ADSR Sounds has Gogoi's *Bedroom Beats and Chill Vol 2* for Serum marked down from $23 to $16.10, a 30% discount. It's a Serum preset pack built..."
 pubDate: "2026-08-13T16:30:37Z"
 tags: ["sale", "preset-pack", "serum", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/gogoi-bedroom-beats-and-chill-vol-2-chillout-serum-presets/?a_aid=plugindrop&data1=gogoi-bedroom-beats-and-chill-vol-2-chillout-serum-presets&utm_source=plugindrop&utm_medium=article&utm_campaign=gogoi-bedroom-beats-and-chill-vol-2-chillout-serum-presets"

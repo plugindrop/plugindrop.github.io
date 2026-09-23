@@ -1,6 +1,6 @@
 ---
 title: "MPC One G2 vs. MPC Key 37 G2: Which One Fits You?"
-description: "Akai just dropped two new second-generation standalone MPCs — the MPC One G2 and MPC Key 37 G2 — with the MPC One G2 starting at ~~$199.99~~ **$149.99**..."
+description: "Akai just dropped two new second-generation standalone MPCs — the MPC One G2 and MPC Key 37 G2 — with the MPC One G2 starting at $199.99 $149.99..."
 pubDate: "2026-06-30T15:30:54Z"
 tags: ["articles", "blog", "music-production"]
 affiliate: "https://audioplugin.deals/blog/mpc-one-g2-vs-mpc-key-37-g2-which-one-fits-you/"

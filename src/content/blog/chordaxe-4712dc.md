@@ -1,6 +1,6 @@
 ---
 title: "20% Off ChordAXE"
-description: "ChordAXE is currently listed at **$39** (down from ~~$49~~) at Plugin Boutique — a negligible price difference that essentially puts this at its..."
+description: "ChordAXE is currently listed at $39 (down from $49) at Plugin Boutique — a negligible price difference that essentially puts this at its..."
 pubDate: "2026-05-13T00:52:13Z"
 tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/17319-ChordAXE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chordaxe-4712dc&chan=art&data1=chordaxe-4712dc"

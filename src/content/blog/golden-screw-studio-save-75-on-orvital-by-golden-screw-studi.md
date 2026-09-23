@@ -1,6 +1,6 @@
 ---
 title: "Golden Screw Studio — Save 75% on ORVITAL by Golden Screw Studio - Cinematic Tension Engine for Kontakt"
-description: "Golden Screw Studio is offering ORVITAL — a Kontakt cinematic tension engine — at **75% off**, dropping to just **$19.90** (regular price ~$79.60). The..."
+description: "Golden Screw Studio is offering ORVITAL — a Kontakt cinematic tension engine — at 75% off, dropping to just $19.90 (regular price ~$79.60). The..."
 pubDate: "2026-05-15T12:49:33Z"
 tags: ["golden screw studio", "music-production"]
 affiliate: "https://goldenscrewstudio.com/product/orvital-cinematic-engine-kontakt/"

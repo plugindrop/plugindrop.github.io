@@ -1,6 +1,6 @@
 ---
 title: "I built a free 12-voice browser drone synth with morp…"
-description: "Eliane Drone is a **free, open-source, browser-based drone synth** with 12 independent voices — no installer, no plugin format, no cost. Built by a..."
+description: "Eliane Drone is a free, open-source, browser-based drone synth with 12 independent voices — no installer, no plugin format, no cost. Built by a..."
 pubDate: "2026-07-11T18:05:04Z"
 tags: ["free", "synth", "music-production"]
 affiliate: "https://rimini312.github.io/elianedrone/"

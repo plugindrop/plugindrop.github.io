@@ -1,6 +1,6 @@
 ---
 title: "Get 56% off Softube Empirical Labs Lil FrEQ at Audio Deluxe"
-description: "Softube's Empirical Labs Lil FrEQ — a parametric EQ built on hardware pedigree — is currently **56% off at $69** at Audio Deluxe, with the deal running..."
+description: "Softube's Empirical Labs Lil FrEQ — a parametric EQ built on hardware pedigree — is currently 56% off at $69 at Audio Deluxe, with the deal running..."
 pubDate: "2026-06-01T17:26:30Z"
 tags: ["music-production"]
 affiliate: "https://audiodeluxe.com/collections/software/products/softube-empirical-labs-lil-freq"

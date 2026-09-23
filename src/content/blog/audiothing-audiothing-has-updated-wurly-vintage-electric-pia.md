@@ -1,6 +1,6 @@
 ---
 title: "AudioThing — AudioThing has updated Wurly vintage electric piano plugin for Win, Mac & Linux to v1.3. The intro is 43% off"
-description: "AudioThing's Wurly vintage electric piano plugin is **43% off at $39** through June 30th — a clean deadline to grab a cross-platform Wurlitzer-style..."
+description: "AudioThing's Wurly vintage electric piano plugin is 43% off at $39 through June 30th — a clean deadline to grab a cross-platform Wurlitzer-style..."
 pubDate: "2026-05-29T07:07:43Z"
 tags: ["audiothing", "music-production"]
 affiliate: "https://www.audiothing.net/instruments/wurly/"

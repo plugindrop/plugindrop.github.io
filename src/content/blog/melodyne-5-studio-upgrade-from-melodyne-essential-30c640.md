@@ -1,6 +1,6 @@
 ---
 title: "60% Off Melodyne 5 Studio Upgrade from Melodyne Essential"
-description: "Melodyne 5 Studio is down to **$241** (~~$599~~) at Plugin Boutique — a 60% saving on Celemony's flagship pitch and time editing suite. If you're already..."
+description: "Melodyne 5 Studio is down to $241 ($599) at Plugin Boutique — a 60% saving on Celemony's flagship pitch and time editing suite. If you're already..."
 pubDate: "2026-06-03T10:50:59Z"
 tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/48-Audio-Editor/6454-Melodyne-5-Studio-Upgrade-from-Melodyne-Essential?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melodyne-5-studio-upgrade-from-melodyne-essential-30c640&chan=art&data1=melodyne-5-studio-upgrade-from-melodyne-essential-30c640"

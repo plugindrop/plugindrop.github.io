@@ -1,6 +1,6 @@
 ---
 title: Synthcopter - A free drone-synth toy for Game Boy
-description: Synthcopter is a **completely free** drone-synth toy that runs as a Game
+description: Synthcopter is a completely free drone-synth toy that runs as a Game
   Boy ROM — no cost, no signup, no catch. Grab it from the official site and start...
 pubDate: '2026-04-03T05:44:50Z'
 tags: ["free", "synth", "music-production"]

@@ -1,6 +1,6 @@
 ---
 title: "1% Off MORPH 3"
-description: "MORPH 3 is on sale at Plugin Boutique for $13,980 — down from ~~$14,056.50~~ — saving you $76.50 at approximately 1% off the regular price. It's a modest..."
+description: "MORPH 3 is on sale at Plugin Boutique for $13,980 — down from $14,056.50 — saving you $76.50 at approximately 1% off the regular price. It's a modest..."
 pubDate: "2026-05-11T11:29:56Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/33-Modulator/12204-MORPH-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=morph-3-e28d56&chan=art&data1=morph-3-e28d56"

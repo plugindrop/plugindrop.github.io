@@ -1,6 +1,6 @@
 ---
 title: "40% Off Synth Anthology 5"
-description: "Plugin Boutique has Synth Anthology 5 marked down to **$89**, down from ~~$149~~ — a savings of $60 (about 40% off) on a bundle of 15 synth plugins. If..."
+description: "Plugin Boutique has Synth Anthology 5 marked down to $89, down from $149 — a savings of $60 (about 40% off) on a bundle of 15 synth plugins. If..."
 pubDate: "2026-07-10T14:27:38Z"
 tags: ["sale", "bundle", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17582-Synth-Anthology-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=synth-anthology-5-d7e25b&chan=art&data1=synth-anthology-5-d7e25b"

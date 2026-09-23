@@ -1,6 +1,6 @@
 ---
 title: "38% Off Bull Sub Machine"
-description: "Bull Sub Machine is currently listed on Plugin Boutique at **$49**, down from ~~$79~~ — the discount is minimal, so the buying decision comes..."
+description: "Bull Sub Machine is currently listed on Plugin Boutique at $49, down from $79 — the discount is minimal, so the buying decision comes..."
 pubDate: "2026-05-13T14:31:20Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15367-Bull-Sub-Machine?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bull-sub-machine-7e2f84&chan=art&data1=bull-sub-machine-7e2f84"

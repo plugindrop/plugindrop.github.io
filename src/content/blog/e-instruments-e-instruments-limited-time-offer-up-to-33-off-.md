@@ -1,6 +1,6 @@
 ---
 title: "e-instruments — E-instruments Limited Time Offer - up to 33% off on selected Kontakt Player libraries and bundles"
-description: "E-instruments is running a limited-time sale with up to 33% off selected Kontakt Player libraries and bundles — dropping select titles from ~~$149~~ to..."
+description: "E-instruments is running a limited-time sale with up to 33% off selected Kontakt Player libraries and bundles — dropping select titles from $149 to..."
 pubDate: "2026-06-03T05:29:20Z"
 tags: ["e-instruments", "bundle", "music-production"]
 affiliate: "https://e-instruments.com/instruments/"

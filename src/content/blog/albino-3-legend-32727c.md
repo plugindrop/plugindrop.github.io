@@ -1,6 +1,6 @@
 ---
 title: "30% Off Albino 3 Legend — Classic Synth for Pads & Leads ($69)"
-description: "Albino 3 Legend is discounted from ~~$99~~ to **$69** (30% off) at Plugin Boutique. It's a multi-engine synthesizer from Rob Papen known for pads, leads..."
+description: "Albino 3 Legend is discounted from $99 to $69 (30% off) at Plugin Boutique. It's a multi-engine synthesizer from Rob Papen known for pads, leads..."
 pubDate: "2026-08-24T15:35:12Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Albino+3+Legend&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=albino-3-legend-32727c"

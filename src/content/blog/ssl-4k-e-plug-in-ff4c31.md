@@ -1,6 +1,6 @@
 ---
 title: "50% Off SSL 4K E Plug in"
-description: "The SSL 4K E Plug-in is now 50% off at Plugin Boutique — down from ~~$149~~ to just **$74**. This is a first-party channel strip emulation from Solid..."
+description: "The SSL 4K E Plug-in is now 50% off at Plugin Boutique — down from $149 to just $74. This is a first-party channel strip emulation from Solid..."
 pubDate: "2026-06-07T10:23:53Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/11695-SSL-4K-E-Plug-in?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-e-plug-in-ff4c31&chan=art&data1=ssl-4k-e-plug-in-ff4c31"

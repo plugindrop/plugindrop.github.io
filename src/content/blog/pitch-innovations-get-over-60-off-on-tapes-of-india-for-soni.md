@@ -1,6 +1,6 @@
 ---
 title: "Pitch Innovations — Get over 60% off on Tapes of India for Sonic Atlas by Pitch Innovations"
-description: "Tapes of India for Sonic Atlas is down to **$69** (~~$237~~) — that's over 60% off through June 30th. If Indian-inspired, tape-recorded sounds are on your..."
+description: "Tapes of India for Sonic Atlas is down to $69 ($237) — that's over 60% off through June 30th. If Indian-inspired, tape-recorded sounds are on your..."
 pubDate: "2026-05-26T13:00:07Z"
 tags: ["pitch innovations", "music-production"]
 affiliate: "https://pitchinnovations.com/products/sonic-atlas"

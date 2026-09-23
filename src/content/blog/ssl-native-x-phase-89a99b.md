@@ -1,6 +1,6 @@
 ---
 title: "90% Off SSL Native X Phase — Phase Alignment Tool ($10)"
-description: "SSL Native X Phase is on sale at Plugin Boutique for $10, down from ~~$99~~ — a 90% discount. If phase alignment and correction are part of your mixing or..."
+description: "SSL Native X Phase is on sale at Plugin Boutique for $10, down from $99 — a 90% discount. If phase alignment and correction are part of your mixing or..."
 pubDate: "2026-07-27T05:25:46Z"
 tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-phase-89a99b&chan=art&data1=ssl-native-x-phase-89a99b"

@@ -1,6 +1,6 @@
 ---
 title: "40% Off Revoice Pro 5"
-description: "Revoice Pro 5 is 40% off at Plugin Boutique right now — ~~$299~~ down to **$179**, a flat $120 saving on one of the most established vocal alignment tools..."
+description: "Revoice Pro 5 is 40% off at Plugin Boutique right now — $299 down to $179, a flat $120 saving on one of the most established vocal alignment tools..."
 pubDate: "2026-06-01T01:09:24Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/11742-Revoice-Pro-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=revoice-pro-5-85b042&chan=art&data1=revoice-pro-5-85b042"

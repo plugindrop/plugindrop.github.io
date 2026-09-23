@@ -1,6 +1,6 @@
 ---
 title: "30% Off ElastiquePitch V2.5 — Vocal Pitch Correction ($122.50)"
-description: "zplane's ElastiquePitch V2.5 is currently ~~$175.00~~ **$122.50** at Plugin Boutique, a 30% discount. If you need real-time pitch shifting or correction..."
+description: "zplane's ElastiquePitch V2.5 is currently $175.00 $122.50 at Plugin Boutique, a 30% discount. If you need real-time pitch shifting or correction..."
 pubDate: "2026-07-13T15:20:55Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/4185-ElastiquePitch-V2-5?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=elastiquepitch-v2-5-7d3be3&chan=art&data1=elastiquepitch-v2-5-7d3be3"

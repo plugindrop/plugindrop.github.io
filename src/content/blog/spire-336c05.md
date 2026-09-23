@@ -1,6 +1,6 @@
 ---
 title: "60% Off Spire"
-description: "Spire by Reveal Sound is down to **$83.60** (was ~~$207.90~~) — that's 60% off one of the most recognizable synth plugins in electronic music production..."
+description: "Spire by Reveal Sound is down to $83.60 (was $207.90) — that's 60% off one of the most recognizable synth plugins in electronic music production..."
 pubDate: "2026-05-11T06:04:42Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/4-Synth/3187-Spire?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=spire-336c05&chan=art&data1=spire-336c05"

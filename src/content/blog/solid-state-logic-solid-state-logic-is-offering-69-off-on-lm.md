@@ -1,6 +1,6 @@
 ---
 title: "Solid State Logic — Solid State Logic is offering 69% off on LMC+ compressor plugin for Win & Mac"
-description: "SSL's LMC+ compressor plugin is down to **$15** — a 69% discount valid through May 14th. This is the plugin version of one of the most famous \"happy..."
+description: "SSL's LMC+ compressor plugin is down to $15 — a 69% discount valid through May 14th. This is the plugin version of one of the most famous \"happy..."
 pubDate: "2026-05-10T21:12:51Z"
 tags: ["solid state logic", "music-production"]
 affiliate: "https://store.solidstatelogic.com/plug-ins/ssl-lmc"

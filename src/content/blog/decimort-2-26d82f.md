@@ -1,6 +1,6 @@
 ---
 title: "41% Off Decimort 2 — Bit-Crusher for Retro Sampler Tones ($35)"
-description: "D16 Group's Decimort 2 is discounted to **$35**, down from ~~$59~~ — a 41% saving on this bit and sample rate reduction plugin. The deal is live now at..."
+description: "D16 Group's Decimort 2 is discounted to $35, down from $59 — a 41% saving on this bit and sample rate reduction plugin. The deal is live now at..."
 pubDate: "2026-07-21T10:09:55Z"
 tags: ["sale", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/32-Bit-Crusher/2017-Decimort-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=decimort-2-26d82f&chan=art&data1=decimort-2-26d82f"

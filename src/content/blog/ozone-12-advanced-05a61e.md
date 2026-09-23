@@ -1,6 +1,6 @@
 ---
 title: "23% Off Ozone 12 Advanced"
-description: "iZotope Ozone 12 Advanced is currently 23% off at Plugin Boutique — down to **$421.30** from ~~$548.90~~, saving you over $127. If you've been waiting for..."
+description: "iZotope Ozone 12 Advanced is currently 23% off at Plugin Boutique — down to $421.30 from $548.90, saving you over $127. If you've been waiting for..."
 pubDate: "2026-05-06T01:14:18Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ozone-12-advanced-05a61e&chan=art&data1=ozone-12-advanced-05a61e"

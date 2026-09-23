@@ -1,6 +1,6 @@
 ---
 title: "Cloudy Samples — Get 94% off Cinematic & Ambient Bundle by Cloudy Samples for $9.99 (Normally $170)"
-description: "Cloudy Samples is offering their Cinematic & Ambient Bundle for just $9.99 — down from ~~$170~~ — a 94% discount that's hard to ignore. This is a direct..."
+description: "Cloudy Samples is offering their Cinematic & Ambient Bundle for just $9.99 — down from $170 — a 94% discount that's hard to ignore. This is a direct..."
 pubDate: "2026-05-28T15:47:16Z"
 tags: ["cloudy samples", "bundle", "music-production"]
 affiliate: "https://audioplugin.deals/product/cinematic-ambient-bundle-by-cloudy-samples/ref/21/"

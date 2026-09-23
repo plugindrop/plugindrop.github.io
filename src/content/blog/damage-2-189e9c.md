@@ -1,6 +1,6 @@
 ---
 title: "38% Off Damage 2"
-description: "Damage 2 by Heavyocity is currently 38% off at Plugin Boutique — dropping from ~~$399~~ to **$249**, saving you $150 on one of the most recognized..."
+description: "Damage 2 by Heavyocity is currently 38% off at Plugin Boutique — dropping from $399 to $249, saving you $150 on one of the most recognized..."
 pubDate: "2026-06-05T13:35:26Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/6669-Damage-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=damage-2-189e9c&chan=art&data1=damage-2-189e9c"

@@ -1,6 +1,6 @@
 ---
 title: "30% Off DB 30 Drum Butter — Punch & Weight for Drum Busses ($90)"
-description: "DB 30 Drum Butter is ~~$129~~ **$90** at Plugin Boutique right now, a 30% discount. It's a drum-focused processing plugin aimed at adding punch, weight..."
+description: "DB 30 Drum Butter is $129 $90 at Plugin Boutique right now, a 30% discount. It's a drum-focused processing plugin aimed at adding punch, weight..."
 pubDate: "2026-08-20T03:03:38Z"
 tags: ["sale", "vst-plugin", "effects", "drums", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=DB+30+Drum+Butter&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=db-30-drum-butter-2667e3"

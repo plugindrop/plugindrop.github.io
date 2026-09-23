@@ -1,6 +1,6 @@
 ---
 title: "78% Off SILK 2"
-description: "SILK 2 is currently 78% off at Plugin Boutique — down from ~~$141.90~~ to just **$31.90**. That's over $110 in savings on a virtual instrument built for..."
+description: "SILK 2 is currently 78% off at Plugin Boutique — down from $141.90 to just $31.90. That's over $110 in savings on a virtual instrument built for..."
 pubDate: "2026-05-06T01:55:45Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11871-SILK-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=silk-2-343bfa&chan=art&data1=silk-2-343bfa"

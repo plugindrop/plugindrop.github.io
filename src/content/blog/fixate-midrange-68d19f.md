@@ -1,6 +1,6 @@
 ---
 title: "43% Off Fixate Midrange"
-description: "Fixate Midrange is 43% off at Plugin Boutique right now — down from ~~$139~~ to just $79, putting $60 back in your pocket. If the midrange is where your..."
+description: "Fixate Midrange is 43% off at Plugin Boutique right now — down from $139 to just $79, putting $60 back in your pocket. If the midrange is where your..."
 pubDate: "2026-05-19T13:55:51Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17321-Fixate-Midrange?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fixate-midrange-68d19f&chan=art&data1=fixate-midrange-68d19f"

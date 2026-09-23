@@ -1,6 +1,6 @@
 ---
 title: "25% Off FUSER"
-description: "FUSER is currently 25% off at Plugin Boutique — drop from ~~$80~~ to **$60**, saving you $20 on a dynamics processor built for creative sound design. If..."
+description: "FUSER is currently 25% off at Plugin Boutique — drop from $80 to $60, saving you $20 on a dynamics processor built for creative sound design. If..."
 pubDate: "2026-06-20T02:48:31Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/11102-FUSER?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fuser-29eac0&chan=art&data1=fuser-29eac0"

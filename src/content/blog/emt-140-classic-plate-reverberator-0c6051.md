@@ -1,6 +1,6 @@
 ---
 title: "47% Off EMT 140 — Classic Plate Reverb ($79)"
-description: "Plugin Boutique has the EMT 140 Classic Plate Reverberator for **$79.00**, down from ~~$149.00~~. That is a $70 saving, or 47% off, on a native plate..."
+description: "Plugin Boutique has the EMT 140 Classic Plate Reverberator for $79.00, down from $149.00. That is a $70 saving, or 47% off, on a native plate..."
 pubDate: "2026-09-02T19:00:18Z"
 tags: ["sale", "vst-plugin", "effects", "reverb", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=EMT+140+Classic+Plate+Reverberator&a_aid=69cb95abe1763&chan=art&data1=emt-140-classic-plate-reverberator-0c6051&utm_source=plugindrop&utm_medium=article&utm_campaign=emt-140-classic-plate-reverberator-0c6051"

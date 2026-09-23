@@ -1,6 +1,6 @@
 ---
 title: "Leson — Get 69% off DeepStereo Upmixer by Leson for $34 (Normally $110)"
-description: "DeepStereo Upmixer by Leson is down to **$34** — that's 69% off the regular ~~$110~~ price tag, saving you $76. If stereo widening and spatial enhancement..."
+description: "DeepStereo Upmixer by Leson is down to $34 — that's 69% off the regular $110 price tag, saving you $76. If stereo widening and spatial enhancement..."
 pubDate: "2026-06-03T12:51:59Z"
 tags: ["leson", "music-production"]
 affiliate: "https://audioplugin.deals/product/deepstereo-upmixer-by-leson/ref/21/"

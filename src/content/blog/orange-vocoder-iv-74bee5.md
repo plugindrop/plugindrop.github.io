@@ -1,6 +1,6 @@
 ---
 title: "47% Off ORANGE VOCODER IV"
-description: "ORANGE VOCODER IV is 47% off at Plugin Boutique right now — down from ~~$149.00~~ to **$79.00**, a straight $70 saving. For producers who've been sitting..."
+description: "ORANGE VOCODER IV is 47% off at Plugin Boutique right now — down from $149.00 to $79.00, a straight $70 saving. For producers who've been sitting..."
 pubDate: "2026-05-18T14:41:12Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/43-Vocoder/10533-ORANGE-VOCODER-IV?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=orange-vocoder-iv-74bee5&chan=art&data1=orange-vocoder-iv-74bee5"

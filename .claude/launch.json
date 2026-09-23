@@ -6,6 +6,12 @@
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "preview"],
       "port": 4321
+    },
+    {
+      "name": "dtm-dev",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["astro", "dev", "--force"],
+      "port": 4321
     }
   ]
 }

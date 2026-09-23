@@ -1,6 +1,6 @@
 ---
 title: "54% Off PSP VintageWarmer2"
-description: "PSP VintageWarmer2 is down to **$69** (~~$149~~) at Plugin Boutique — that's $80 off and one of the steeper percentage discounts this plugin has seen. If..."
+description: "PSP VintageWarmer2 is down to $69 ($149) at Plugin Boutique — that's $80 off and one of the steeper percentage discounts this plugin has seen. If..."
 pubDate: "2026-05-19T08:19:12Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/123-PSP-VintageWarmer2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=psp-vintagewarmer2-b555ec&chan=art&data1=psp-vintagewarmer2-b555ec"

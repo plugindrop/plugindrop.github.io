@@ -1,6 +1,6 @@
 ---
 title: "Get 75% off UVI Super 7 at Audio Deluxe"
-description: "UVI Super 7 is down to just **$19** — that's 75% off its regular price — at Audio Deluxe until May 31st. If you've been eyeing this virtual instrument..."
+description: "UVI Super 7 is down to just $19 — that's 75% off its regular price — at Audio Deluxe until May 31st. If you've been eyeing this virtual instrument..."
 pubDate: "2026-05-22T17:27:42Z"
 tags: ["music-production"]
 affiliate: "https://audiodeluxe.com/collections/software/products/uvi-super-7"

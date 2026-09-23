@@ -1,6 +1,6 @@
 ---
 title: "30% Off Dialekt — Vocal Modulation & Sound Design ($69)"
-description: "Dialekt is on sale at Plugin Boutique for $69, down from ~~$99~~ — a 30% discount on this vocal processing and sound design plugin. The deal covers..."
+description: "Dialekt is on sale at Plugin Boutique for $69, down from $99 — a 30% discount on this vocal processing and sound design plugin. The deal covers..."
 pubDate: "2026-07-19T00:36:55Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/6-Groovebox/14669-Dialekt?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=dialekt-d72ebc&chan=art&data1=dialekt-d72ebc"

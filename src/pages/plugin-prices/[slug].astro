@@ -6,7 +6,7 @@ import { SITE_TITLE } from '../../consts';
 import priceData from '../../data/price_history.json';
 import { pdAttr } from '../../lib/interestTaxonomy.mjs';
 import productVideosRaw from '../../data/product_videos.json';
-import { latestCheckedDate, formatCheckedDate, dealScoreNumeric, isSearchUrl, pbLink } from '../../lib/priceUtils';
+import { latestCheckedDate, formatCheckedDate, dealScoreNumeric, isSearchUrl, pbLink, currentPriceOf, regularPriceOf } from '../../lib/priceUtils';
 import { isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
 import { getCollection } from 'astro:content';
 
@@ -95,13 +95,18 @@ const productVideos = productVideosRaw as Record<string, ProductVideo>;
 const demoVideo: ProductVideo | null = productVideos[name] ?? null;
 
 // --- Price helpers -----------------------------------------------------
-// "Current" price follows the same rule the ledger page uses: sale price
-// when we have one, otherwise the regular price. Never fabricated.
+// "Current" price is the latest tracked snapshot (falling back to typical
+// sale/regular only when there's no history yet) — same convention as
+// priceUtils.currentPriceOf, used by the top page / PriceTracker / TopDeals.
+// Previously this used typical_sale unconditionally, which could disagree
+// with the latest observed price shown elsewhere on the site (H2).
 function currentPrice(e: EntryData): number | null {
-  return e.typical_sale ?? e.typical_regular ?? null;
+  return currentPriceOf(e);
 }
 function isOnSale(e: EntryData): boolean {
-  return e.typical_sale !== null && e.typical_regular !== null && e.typical_sale < e.typical_regular;
+  const cur = currentPriceOf(e);
+  const reg = regularPriceOf(e);
+  return cur !== null && reg !== null && cur < reg;
 }
 function pctOff(sale: number | null, regular: number | null): number {
   if (sale === null || regular === null || regular <= 0 || sale >= regular) return 0;
@@ -113,9 +118,9 @@ function formatPrice(val: number | null): string {
 
 const category = entry.category ?? (kind === 'bundle' ? 'Plugin Bundle' : 'Plugin');
 const current = currentPrice(entry);
-const regular = entry.typical_regular;
+const regular = regularPriceOf(entry);
 const onSale = isOnSale(entry);
-const off = onSale ? pctOff(entry.typical_sale, entry.typical_regular) : 0;
+const off = onSale ? pctOff(current, regular) : 0;
 
 // --- Verdict line --------------------------------------------------------
 function verdictLine(e: EntryData): string {
@@ -157,7 +162,7 @@ function buildVerdictCopy(e: EntryData, vLabel: string): string {
   const N = salePrices.length;
   const histLow = e.all_time_low ?? (N > 0 ? Math.min(...salePrices) : null);
   const cur = currentPrice(e);
-  const reg = e.typical_regular;
+  const reg = regularPriceOf(e);
   if (!N) return `We've never recorded a discount on ${name}.`;
   const s1 = histLow !== null
     ? `${name} has sold for $${histLow} in ${N} recorded sale event${N === 1 ? '' : 's'}.`

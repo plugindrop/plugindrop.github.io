@@ -1,6 +1,6 @@
 ---
 title: "40% Off Producerlife Serum MIDI Loops — Serum MIDI Ideas ($17.99)"
-description: "Producerlife Serum MIDI Loops is currently **40% off**, dropping from ~~$29.99~~ to **$17.99** at ADSR Sounds. It is positioned as a collection of Serum..."
+description: "Producerlife Serum MIDI Loops is currently 40% off, dropping from $29.99 to $17.99 at ADSR Sounds. It is positioned as a collection of Serum..."
 pubDate: "2026-07-31T07:28:03Z"
 tags: ["sale", "preset-pack", "serum", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/producerlife-samples-loops-serum-midi/?a_aid=plugindrop&data1=producerlife-samples-loops-serum-midi-c2a2f8&utm_source=plugindrop&utm_medium=article&utm_campaign=producerlife-samples-loops-serum-midi-c2a2f8"

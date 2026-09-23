@@ -1,6 +1,6 @@
 ---
 title: "Zen Audio — Zen Audio has released Quadila multiband fuzz plugin for Mac & Win. The intro is 50% off"
-description: "Zen Audio's Quadila multiband fuzz plugin is now **50% off** — dropping from ~~$86.90~~ to **$43.45** through May 31st. If you've been looking for a..."
+description: "Zen Audio's Quadila multiband fuzz plugin is now 50% off — dropping from $86.90 to $43.45 through May 31st. If you've been looking for a..."
 pubDate: "2026-05-06T05:24:39Z"
 tags: ["zen audio", "music-production"]
 affiliate: "https://zen.audio/quadila"

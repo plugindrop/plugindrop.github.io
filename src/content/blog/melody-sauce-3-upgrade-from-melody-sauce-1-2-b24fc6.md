@@ -1,6 +1,6 @@
 ---
 title: "26% Off Melody Sauce 3 Upgrade — Faster Melody Writing ($29)"
-description: "Owners of Melody Sauce 1 or 2 can upgrade to Melody Sauce 3 for $29, down from ~~$39~~ — a 26% discount. The upgrade path is only available to existing..."
+description: "Owners of Melody Sauce 1 or 2 can upgrade to Melody Sauce 3 for $29, down from $39 — a 26% discount. The upgrade path is only available to existing..."
 pubDate: "2026-07-27T15:27:24Z"
 tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/16923-Melody-Sauce-3-Upgrade-from-Melody-Sauce-1-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-upgrade-from-melody-sauce-1-2-b24fc6&chan=art&data1=melody-sauce-3-upgrade-from-melody-sauce-1-2-b24fc6"

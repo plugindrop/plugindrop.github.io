@@ -1,6 +1,6 @@
 ---
 title: "70% Off Fiedler Audio Stage — Stereo Imaging Plugin ($30)"
-description: "Fiedler Audio Stage is on sale at Plugin Boutique for $30, down from ~~$101~~ — a 70% discount. If you mix or master and want more control over stereo..."
+description: "Fiedler Audio Stage is on sale at Plugin Boutique for $30, down from $101 — a 70% discount. If you mix or master and want more control over stereo..."
 pubDate: "2026-08-10T01:51:26Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=fiedler+audio+stage&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fiedler-audio-stage-3a6761"

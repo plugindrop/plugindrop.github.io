@@ -1,6 +1,6 @@
 ---
 title: "Realsamples — Get Luthéal Piano Edition Cimbalom by Realsamples free, regularly $39.99. Requires the full retail version of Kontakt for Windows and Mac. [FREE]"
-description: "Realsamples is giving away **Luthéal Piano Edition Cimbalom** at no cost — normally ~~$39.99~~, now free until May 21st. This is a Kontakt instrument..."
+description: "Realsamples is giving away Luthéal Piano Edition Cimbalom at no cost — normally $39.99, now free until May 21st. This is a Kontakt instrument..."
 pubDate: "2026-05-11T08:24:22Z"
 tags: ["free", "realsamples", "music-production"]
 affiliate: "https://audioplugin.deals/product/lutheal-piano-edition-cimbalom-by-realsamples/ref/21/"

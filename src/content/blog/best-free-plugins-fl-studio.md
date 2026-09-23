@@ -339,7 +339,7 @@ If the free toolkit is serving you well and you're ready to invest, these three 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TmvzdoEECe8" title="Serum 2 is out and no one is going crazy about this feature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
-- **Price:** $249 regular, typically $189 on sale, lowest we've tracked $99 ([price history](/plugin-prices/serum-2/)). Splice offers rent-to-own.
+- **Price:** $249 regular, typically $189 on sale, lowest we've tracked $99. Splice offers rent-to-own.
 - **Why upgrade:** Vital covers much of the same synthesis ground, but Serum's commercial preset ecosystem is unmatched — tens of thousands of professionally designed patches are available. The visual wavetable editor and deep modulation system have become the industry benchmark for sound design workflows. If you're producing commercially or regularly working with preset packs, Serum's ecosystem depth justifies the cost.
 
 [Xfer Records](https://xferrecords.com/products/serum)
@@ -443,7 +443,7 @@ The free plugins above handle most production tasks. When you hit a specific wal
 
 | Upgrade | What It Adds | Approx. 2026 Price | When It Usually Goes On Sale |
 |---|---|---|---|
-| [Serum 2](https://xferrecords.com/products/serum-2) | The industry-standard wavetable synth and the deepest commercial preset ecosystem | $249 list · $189 sale · $99 low ([track](/plugin-prices/serum-2/)); or ~$11/mo rent-to-own | Rarely discounted outright; Splice rent-to-own is the usual way in |
+| [Serum 2](https://xferrecords.com/products/serum-2) | The industry-standard wavetable synth and the deepest commercial preset ecosystem | $249 list · $189 sale · $99 low; or ~$11/mo rent-to-own | Rarely discounted outright; Splice rent-to-own is the usual way in |
 | [FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) | Surgical and dynamic EQ with linear phase and per-node processing | $199 list · $149 sale · $105 low ([track](/plugin-prices/fabfilter-pro-q-4/)) | FabFilter almost never discounts; expect only ~15% off at Black Friday |
 | [FabFilter Pro-C 2](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) | Transparent, flexible compression with sidechain and oversampling | $129 list · $97 sale · $97 low ([track](/plugin-prices/fabfilter-pro-c-2/)) | Same story; a rare ~15% Black Friday dip is the best you'll see |
 | [FabFilter Pro-L 2](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) | True-peak mastering limiter with multiple algorithms | $179 list · $134 sale · $134 low ([track](/plugin-prices/fabfilter-pro-l-2/)) | Black Friday only, and only lightly |

@@ -1,6 +1,6 @@
 ---
 title: "28% Off Homage"
-description: "Homage is currently on sale for **$34.00** (~~$47.00~~) at Plugin Boutique — a 28% saving on a vintage-flavored Kontakt instrument. That's $13 off a..."
+description: "Homage is currently on sale for $34.00 ($47.00) at Plugin Boutique — a 28% saving on a vintage-flavored Kontakt instrument. That's $13 off a..."
 pubDate: "2026-06-01T02:46:30Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15886-Homage?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=homage-30fc8b&chan=art&data1=homage-30fc8b"

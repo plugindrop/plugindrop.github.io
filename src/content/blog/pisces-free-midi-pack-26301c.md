@@ -1,6 +1,6 @@
 ---
 title: Pisces FREE Midi pack
-description: The Pisces MIDI Pack by Diverse KCox is **completely free**. Twelve Afrobeats, Dancehall, and R&B MIDI files organized by key and BPM,...
+description: The Pisces MIDI Pack by Diverse KCox is completely free. Twelve Afrobeats, Dancehall, and R&B MIDI files organized by key and BPM,...
 pubDate: '2026-04-04T13:39:39Z'
 tags: ["free", "synth", "music-production"]
 affiliate: https://www.diversekcox.com/products/pisces-midi-pack

@@ -1,6 +1,6 @@
 ---
 title: "Best Acoustic Guitar VST Plugins 2026: Realistic Strumming and Fingerpicking"
-description: "For most bedroom producers, **Session Guitarist Strummed Acoustic** delivers the most convincing ready-to-use acoustic guitar patterns in its price range..."
+description: "For most bedroom producers, Session Guitarist Strummed Acoustic delivers the most convincing ready-to-use acoustic guitar patterns in its price range..."
 pubDate: "2026-05-28T08:22:12Z"
 tags: ["guide", "vst", "instruments"]
 affiliate: ""

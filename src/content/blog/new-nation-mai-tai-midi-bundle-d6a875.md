@@ -1,6 +1,6 @@
 ---
 title: "82% Off New Nation Mai Tai Midi Bundle"
-description: "New Nation's Mai Tai Midi Bundle drops from ~~$109.76~~ to just **$20** — an 82% discount on 100+ MIDI loops built for producers who need ready-to-use..."
+description: "New Nation's Mai Tai Midi Bundle drops from $109.76 to just $20 — an 82% discount on 100+ MIDI loops built for producers who need ready-to-use..."
 pubDate: "2026-06-04T15:34:43Z"
 tags: ["sale", "preset-pack", "sample-pack-deal", "bundle", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/new-nation-mai-tai-midi-bundle/?a_aid=plugindrop&data1=new-nation-mai-tai-midi-bundle-d6a875&utm_source=plugindrop&utm_medium=article&utm_campaign=new-nation-mai-tai-midi-bundle-d6a875"

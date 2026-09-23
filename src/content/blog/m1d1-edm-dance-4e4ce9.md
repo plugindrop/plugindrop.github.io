@@ -1,6 +1,6 @@
 ---
 title: "83% Off m1d1 - EDM & Dance"
-description: "m1d1's EDM & Dance sample pack is currently 83% off at ADSR Sounds — down to just **$20** from ~~$119.95~~. That's nearly $100 in savings on a..."
+description: "m1d1's EDM & Dance sample pack is currently 83% off at ADSR Sounds — down to just $20 from $119.95. That's nearly $100 in savings on a..."
 pubDate: "2026-05-28T20:13:14Z"
 tags: ["sale", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/wav-samples/m1d1-edm-dance/?a_aid=plugindrop&data1=m1d1-edm-dance-4e4ce9&utm_source=plugindrop&utm_medium=article&utm_campaign=m1d1-edm-dance-4e4ce9"

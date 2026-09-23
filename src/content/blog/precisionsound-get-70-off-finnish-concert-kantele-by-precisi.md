@@ -1,8 +1,8 @@
 ---
 title: Precisionsound — Get 70% off Finnish Concert Kantele by Precision Sounds for
   $21 (Normally $69)
-description: Precisionsound's Finnish Concert Kantele is down to **$21** — that's
-  70% off the regular ~~$69~~ price tag. For a deeply sampled recording of Finland's...
+description: Precisionsound's Finnish Concert Kantele is down to $21 — that's
+  70% off the regular $69 price tag. For a deeply sampled recording of Finland's...
 pubDate: '2026-04-14T23:26:35Z'
 tags: ["sale", "precisionsound", "music-production"]
 affiliate: https://audioplugin.deals/product/finnish-concert-kantele-by-precision-sounds/ref/21/

@@ -1,6 +1,6 @@
 ---
 title: "69% Off SSL X Gate"
-description: "Save 69% on the SSL X Gate — a dynamic gate plugin inspired by SSL's digital broadcast consoles. ~~$49~~ now $15 at Plugin Boutique, with a limited-time..."
+description: "Save 69% on the SSL X Gate — a dynamic gate plugin inspired by SSL's digital broadcast consoles. $49 now $15 at Plugin Boutique, with a limited-time..."
 pubDate: "2026-08-31T04:30:40Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=SSL+X+Gate&a_aid=69cb95abe1763&chan=art&data1=ssl-x-gate-782ebd&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-gate-782ebd"

@@ -1,6 +1,6 @@
 ---
 title: "40% Off Master Of Dreams 90S Drum Loops Remake Bundle"
-description: "The Master Of Dreams 90S Drum Loops Remake Bundle is **40% off** at ADSR Sounds right now — ~~$29~~ down to **$17.40**. That's $11.60 back in your pocket..."
+description: "The Master Of Dreams 90S Drum Loops Remake Bundle is 40% off at ADSR Sounds right now — $29 down to $17.40. That's $11.60 back in your pocket..."
 pubDate: "2026-05-17T04:19:15Z"
 tags: ["sale", "preset-pack", "sample-pack-deal", "bundle", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/master-of-dreams-90s-drum-loops-remake-bundle/?a_aid=plugindrop&data1=master-of-dreams-90s-drum-loops-remake-bundle-828d12&utm_source=plugindrop&utm_medium=article&utm_campaign=master-of-dreams-90s-drum-loops-remake-bundle-828d12"

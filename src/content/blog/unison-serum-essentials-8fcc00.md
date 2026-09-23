@@ -1,6 +1,6 @@
 ---
 title: "FREE: Unison Serum Essentials — Curated Presets for Serum"
-description: "Unison Audio is giving away **Serum Essentials**, a preset pack for Xfer Serum, at no cost — ~~paid~~ **FREE**. If you already own Serum and want a fast..."
+description: "Unison Audio is giving away Serum Essentials, a preset pack for Xfer Serum, at no cost — paid FREE. If you already own Serum and want a fast..."
 pubDate: "2026-08-18T15:37:04Z"
 tags: ["unison", "sample-pack", "free", "synth", "music-production"]
 affiliate: "https://unison.audio/ref/jc374/product/unison-serum-essentials/?utm_source=plugindrop&utm_medium=article&utm_campaign=unison-serum-essentials-8fcc00"

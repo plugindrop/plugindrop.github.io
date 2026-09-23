@@ -1,6 +1,6 @@
 ---
 title: "80% Off SSL Native X Saturator — SSL Console Warmth ($10)"
-description: "SSL's Native X Saturator is on sale at Plugin Boutique for **$10**, down from ~~$49~~ — a savings of $39 (about 80% off). It's a single-plugin saturation..."
+description: "SSL's Native X Saturator is on sale at Plugin Boutique for $10, down from $49 — a savings of $39 (about 80% off). It's a single-plugin saturation..."
 pubDate: "2026-08-02T23:32:14Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=SSL+Native+X+Saturator&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-saturator-c245b0"

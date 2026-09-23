@@ -1,6 +1,6 @@
 ---
 title: "76% Off Melodyne 5 Essential"
-description: "Melodyne 5 Essential is down to **$24** (~~$99~~) at Plugin Boutique — a 76% discount on Celemony's entry-level pitch and time editing tool. For producers..."
+description: "Melodyne 5 Essential is down to $24 ($99) at Plugin Boutique — a 76% discount on Celemony's entry-level pitch and time editing tool. For producers..."
 pubDate: "2026-06-01T10:52:39Z"
 tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/48-Audio-Editor/6446-Melodyne-5-Essential?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=melodyne-5-essential-89fd15&chan=art&data1=melodyne-5-essential-89fd15"

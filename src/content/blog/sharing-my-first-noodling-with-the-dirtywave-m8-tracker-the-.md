@@ -1,6 +1,6 @@
 ---
 title: "Sharing my first noodling with the Dirtywave M8 Tracker – the \"render\" function is also great for cable-free videos 😉"
-description: "A free first-look video just dropped showing the Dirtywave M8 Tracker in action — including a clever workflow tip: use the built-in **render function** to..."
+description: "A free first-look video just dropped showing the Dirtywave M8 Tracker in action — including a clever workflow tip: use the built-in render function to..."
 pubDate: "2026-05-08T16:56:48Z"
 tags: ["free", "synth", "music-production"]
 affiliate: "https://youtu.be/TpBIjuG5C4Q"

@@ -1,6 +1,6 @@
 ---
 title: "34% Off SoundID VoiceAI Perpetual Expansions Bundle"
-description: "The SoundID VoiceAI Perpetual Expansions Bundle is currently **34% off** at Plugin Boutique — drop from ~~$149~~ to **$99**, saving you $50 on a one-time..."
+description: "The SoundID VoiceAI Perpetual Expansions Bundle is currently 34% off at Plugin Boutique — drop from $149 to $99, saving you $50 on a one-time..."
 pubDate: "2026-05-21T08:17:02Z"
 tags: ["sale", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15969-SoundID-VoiceAI-Perpetual-Expansions-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundid-voiceai-perpetual-expansions-bundle-9e35f8&chan=art&data1=soundid-voiceai-perpetual-expansions-bundle-9e35f8"

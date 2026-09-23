@@ -1,6 +1,6 @@
 ---
 title: "92% Off PHAT 2 — Sound Design Virtual Instrument ($9)"
-description: "PHAT 2 is currently listed at $9 on Plugin Boutique, down from a ~~$119~~ regular price. PluginDrop has tracked this deal since 2026-07-12 across 26..."
+description: "PHAT 2 is currently listed at $9 on Plugin Boutique, down from a $119 regular price. PluginDrop has tracked this deal since 2026-07-12 across 26..."
 pubDate: "2026-09-11T15:50:03Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=PHAT+2&a_aid=69cb95abe1763&chan=art&data1=phat-2-a282a3&utm_source=plugindrop&utm_medium=article&utm_campaign=phat-2-a282a3"

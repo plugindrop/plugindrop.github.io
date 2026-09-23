@@ -1,6 +1,6 @@
 ---
 title: "KERN Audio — Save 49% on the KERN Audio Bundle (SMOOTH + WARM + WIDE + PUSH) at $59"
-description: "KERN Audio is currently offering their full 4-plugin bundle — SMOOTH, WARM, WIDE, and PUSH — at 49% off for **$59**. That breaks down to roughly **$14.75..."
+description: "KERN Audio is currently offering their full 4-plugin bundle — SMOOTH, WARM, WIDE, and PUSH — at 49% off for $59. That breaks down to roughly $14.75..."
 pubDate: "2026-05-13T08:26:11Z"
 tags: ["kern audio", "bundle", "music-production"]
 affiliate: "https://kernaudio.io/bundle"

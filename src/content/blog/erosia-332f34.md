@@ -1,6 +1,6 @@
 ---
 title: "33% Off Erosia"
-description: "Erosia is currently **33% off** at Plugin Boutique, dropping from ~~$149~~ to **$100** — a $49 saving on a Kontakt-based instrument. 33% discounts on..."
+description: "Erosia is currently 33% off at Plugin Boutique, dropping from $149 to $100 — a $49 saving on a Kontakt-based instrument. 33% discounts on..."
 pubDate: "2026-06-01T11:39:41Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15656-Erosia?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=erosia-332f34&chan=art&data1=erosia-332f34"

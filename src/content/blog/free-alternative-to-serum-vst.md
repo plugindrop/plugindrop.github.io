@@ -163,7 +163,7 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum 2 by Xfer Records - No talking demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records (Steve Duda)
-- **Price:** ~$249 regular direct — Xfer doesn't run recurring sales on the perpetual license (tracked all-time low $99 was a one-off 2025 intro price), or rent-to-own via Splice. See our [Serum price history](/plugin-prices/serum-2/).
+- **Price:** ~$249 regular direct — Xfer doesn't run recurring sales on the perpetual license (tracked all-time low $99 was a one-off 2025 intro price), or rent-to-own via Splice.
 - **Why upgrade:** Serum's primary value proposition in 2026 is its ecosystem, not its synthesis engine. Thousands of commercial preset packs, a mature resale market for wavetable content, and a tutorial library built almost entirely around Serum's interface are advantages that no free alternative has replicated. For producers regularly purchasing commercial presets or working alongside tutorials that assume you're running Serum, the upgrade is commercially justified. For synthesis capability in isolation, Vital closes the technical gap to a degree the community widely acknowledges. The remaining case for Serum is network effects — not the engine.
 
 **Skip it if:** you don't buy commercial preset packs or follow Serum-specific tutorials — for synthesis in isolation Vital closes the gap, and the remaining case for Serum is network effects rather than the engine.

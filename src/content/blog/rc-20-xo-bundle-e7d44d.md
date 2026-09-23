@@ -1,6 +1,6 @@
 ---
 title: "50% Off RC 20 XO Bundle"
-description: "XLN Audio's RC-20 Retro Color and XO are bundled together at Plugin Boutique for **$124** — down from ~~$248~~. That's 50% off two of the most..."
+description: "XLN Audio's RC-20 Retro Color and XO are bundled together at Plugin Boutique for $124 — down from $248. That's 50% off two of the most..."
 pubDate: "2026-06-12T13:44:10Z"
 tags: ["sale", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16119-RC-20-XO-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-xo-bundle-e7d44d&chan=art&data1=rc-20-xo-bundle-e7d44d"

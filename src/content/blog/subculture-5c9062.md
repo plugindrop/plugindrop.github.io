@@ -1,6 +1,6 @@
 ---
 title: "39% Off SubCulture — Audio Enhancement for Producers ($79)"
-description: "SubCulture is currently **39% off**, dropping from ~~$129.00~~ to **$79.00** at Plugin Boutique. That is a **$50.00 saving** on an effects plugin listed..."
+description: "SubCulture is currently 39% off, dropping from $129.00 to $79.00 at Plugin Boutique. That is a $50.00 saving on an effects plugin listed..."
 pubDate: "2026-07-14T15:31:24Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17589-SubCulture?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subculture-5c9062&chan=art&data1=subculture-5c9062"

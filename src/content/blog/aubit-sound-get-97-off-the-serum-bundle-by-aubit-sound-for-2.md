@@ -1,6 +1,6 @@
 ---
 title: "Aubit Sound — Get 97% off The Serum Bundle by Aubit Sound for $20 (Normally $608) Requires Xfer Serum for windows and mac"
-description: "Aubit Sound's Serum Bundle is currently on sale for just **$20** — down from ~~$608~~ — a 97% discount that's hard to ignore. This is a preset bundle for..."
+description: "Aubit Sound's Serum Bundle is currently on sale for just $20 — down from $608 — a 97% discount that's hard to ignore. This is a preset bundle for..."
 pubDate: "2026-05-11T10:09:51Z"
 tags: ["aubit sound", "bundle", "synth", "music-production"]
 affiliate: "https://audioplugin.deals/product/the-serum-bundle-by-aubit-sound/ref/21/"

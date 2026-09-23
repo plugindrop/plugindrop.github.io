@@ -1,6 +1,6 @@
 ---
 title: "34% Off Evolve Velvet"
-description: "Evolve Velvet is currently 34% off at Plugin Boutique — drop from ~~$59.00~~ to **$39.00**, saving you $20 on a cinematic virtual instrument built for..."
+description: "Evolve Velvet is currently 34% off at Plugin Boutique — drop from $59.00 to $39.00, saving you $20 on a cinematic virtual instrument built for..."
 pubDate: "2026-07-01T21:33:33Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15331-Evolve-Velvet?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-velvet-1e0fd2&chan=art&data1=evolve-velvet-1e0fd2"

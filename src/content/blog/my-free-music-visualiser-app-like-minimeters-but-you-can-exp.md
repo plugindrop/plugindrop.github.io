@@ -1,6 +1,6 @@
 ---
 title: "My Free Music Visualiser App - Like MiniMeters But You Can Export the Video"
-description: "A music producer just released their music visualiser app for **completely free** — built specifically so producers can skip the After Effects grind and..."
+description: "A music producer just released their music visualiser app for completely free — built specifically so producers can skip the After Effects grind and..."
 pubDate: "2026-06-07T12:43:47Z"
 tags: ["free", "edmproduction", "music-production"]
 affiliate: "https://www.youtube.com/watch"

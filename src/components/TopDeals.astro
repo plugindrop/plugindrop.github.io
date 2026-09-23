@@ -9,6 +9,7 @@ import priceDataRaw from '../data/price_history.json';
 import { getCollection } from 'astro:content';
 import { pdAttr } from '../lib/interestTaxonomy.mjs';
 import { isProductNameIndexable } from '../lib/indexPolicy.mjs';
+import { stripMarkdownEmphasis } from '../lib/textUtils';
 import {
   type PriceEntry,
   pbLink as basePbLink,
@@ -35,7 +36,7 @@ const allEntries: Record<string, PriceEntry> = {
 const publishedPosts = await getCollection('blog', (post) => !post.data.draft);
 const articleDescriptions = publishedPosts.map((post) => ({
   titleSlug: slugify(post.data.title),
-  description: post.data.description,
+  description: stripMarkdownEmphasis(post.data.description),
 }));
 
 function descriptionFor(name: string): string | null {

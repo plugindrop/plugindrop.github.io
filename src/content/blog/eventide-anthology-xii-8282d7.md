@@ -1,6 +1,6 @@
 ---
 title: "50% Off Eventide Anthology XII — Pro Effects Bundle ($499)"
-description: "Eventide's Anthology XII plugin bundle is ~~$999~~ **$499** at PluginFox right now, a straight 50% off. If you've been eyeing Eventide's harmonizers..."
+description: "Eventide's Anthology XII plugin bundle is $999 $499 at PluginFox right now, a straight 50% off. If you've been eyeing Eventide's harmonizers..."
 pubDate: "2026-07-29T15:55:33Z"
 tags: ["vst-plugin", "pluginfox", "sale", "music-production"]
 affiliate: "https://pluginfox.com/products/eventide-anthology-xii?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=eventide-anthology-xii-8282d7"

@@ -1,6 +1,6 @@
 ---
 title: "69% Off MSoundFactoryLE"
-description: "MSoundFactoryLE is currently 69% off at Plugin Boutique — dropping from ~~$113~~ to just **$35**. That's a solid entry point into Meldaproduction's..."
+description: "MSoundFactoryLE is currently 69% off at Plugin Boutique — dropping from $113 to just $35. That's a solid entry point into Meldaproduction's..."
 pubDate: "2026-06-08T03:52:56Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/6602-MSoundFactoryLE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=msoundfactoryle-85b244&chan=art&data1=msoundfactoryle-85b244"

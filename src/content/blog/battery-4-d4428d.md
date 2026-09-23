@@ -1,6 +1,6 @@
 ---
 title: "50% Off Battery 4 — Drum Synthesis & Sampling ($99)"
-description: "Native Instruments' Battery 4 drum sampler is ~~$199~~ **$99** at Plugin Boutique right now, a straight 50% cut. If you build beats from your own samples..."
+description: "Native Instruments' Battery 4 drum sampler is $199 $99 at Plugin Boutique right now, a straight 50% cut. If you build beats from your own samples..."
 pubDate: "2026-08-16T14:43:20Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Battery+4&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=battery-4-d4428d"

@@ -1,6 +1,6 @@
 ---
 title: "20% Off Scaler 3 — Music Theory & MIDI Composition ($79)"
-description: "Plugin Boutique has Scaler 3 at **20% off**, dropping the price from ~~$99.00~~ to **$79.00**. That is a **$20.00 saving** on Scaler Music’s chord..."
+description: "Plugin Boutique has Scaler 3 at 20% off, dropping the price from $99.00 to $79.00. That is a $20.00 saving on Scaler Music’s chord..."
 pubDate: "2026-07-16T01:07:58Z"
 tags: ["sale", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-3-a9f9f3&chan=art&data1=scaler-3-a9f9f3"

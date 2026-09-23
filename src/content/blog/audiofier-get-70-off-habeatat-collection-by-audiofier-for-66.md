@@ -1,6 +1,6 @@
 ---
 title: "Audiofier — Get 70% off HaBEATat Collection by Audiofier for $66 (Normally $223) Full Kontakt required"
-description: "Audiofier's HaBEATat Collection is down 70% — from ~~$223~~ to just $66 until the deal expires. That's a significant drop for a full Kontakt drum and..."
+description: "Audiofier's HaBEATat Collection is down 70% — from $223 to just $66 until the deal expires. That's a significant drop for a full Kontakt drum and..."
 pubDate: "2026-06-05T14:12:34Z"
 tags: ["audiofier", "bundle", "music-production"]
 affiliate: "https://pulse.audio/product/habeatat-collection-by-audiofier/"

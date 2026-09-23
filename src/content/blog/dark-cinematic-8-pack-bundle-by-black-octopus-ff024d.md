@@ -1,6 +1,6 @@
 ---
 title: "96% Off Dark Cinematic 8-Pack — Atmospheric Film Scoring ($8)"
-description: "The Dark Cinematic 8 Pack Bundle by Black Octopus is discounted to **$8**, down from ~~$194.79~~ at ADSR Sounds — a 96% cut that works out to roughly $1..."
+description: "The Dark Cinematic 8 Pack Bundle by Black Octopus is discounted to $8, down from $194.79 at ADSR Sounds — a 96% cut that works out to roughly $1..."
 pubDate: "2026-08-08T12:54:44Z"
 tags: ["sale", "preset-pack", "sample-pack-deal", "bundle", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/dark-cinematic-8-pack-bundle-by-black-octopus/?a_aid=plugindrop&data1=dark-cinematic-8-pack-bundle-by-black-octopus-ff024d&utm_source=plugindrop&utm_medium=article&utm_campaign=dark-cinematic-8-pack-bundle-by-black-octopus-ff024d"
