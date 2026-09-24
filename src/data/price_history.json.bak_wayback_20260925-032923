@@ -6551,12 +6551,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2023-03-12",
-          "regular": 249.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/black-box-analog-design-hg-2.jpg"
