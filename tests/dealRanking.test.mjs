@@ -92,10 +92,10 @@ test('rankLiveDeals: same PB id under two display names collapses to one entry',
   };
   const ranked = rankLiveDeals(entries, now);
   assert.equal(ranked.length, 1);
-  // Dedup keeps whichever the score/off/name ordering sorts first; both
-  // candidates are identical except name, so the alphabetical tiebreak
-  // decides. Either survivor is a real product name, not a dangling id.
-  assert.equal(ranked[0].name, 'Platinum');
+  // "Waves Platinum Bundle" scores higher than the bare "Platinum" alias
+  // because detectBrand recognizes the "Waves" prefix (brand tier bonus) --
+  // the recognizable name wins the dedup, which is the intended behavior.
+  assert.equal(ranked[0].name, 'Waves Platinum Bundle');
 });
 
 test('detectBrand: recognizes SSL Native as Solid State Logic (via brands.mjs import)', async () => {
