@@ -156,30 +156,31 @@ interface FallbackDeal {
 	off: number;
 	checkedLabel: string | null;
 	kind: 'live' | 'typical';
+	recentDrop?: { since: string; prevPrice: number; current: number } | null;
 }
 
 const normalizedTopDealNames = new Set(
 	topDeals.flatMap(post => [post.data.title, ...(post.data.priceTrack ?? [])])
 		.map(name => name.trim().toLowerCase()),
 );
-const liveFallbackPool: FallbackDeal[] = Object.entries(trackerEntries)
-	.filter(([, entry]) => !isSearchUrl(entry.pb_url))
-	.map(([name, entry]) => {
-		const live = liveDropOf(entry);
-		const checked = latestCheckedDate(entry);
-		return live ? {
-			name,
-			entry,
-			current: live.current,
-			regular: live.regular,
-			off: pctOff(live.current, live.regular),
+// Same freshness/brand/discount-depth ranking + dedup/diversity as the
+// sidebar rail (PR-1) -- a generous limit so exclusion of names already
+// shown in topDeals still leaves enough candidates.
+const liveFallbackPool: FallbackDeal[] = rankLiveDeals(trackerEntries, now, { limit: 20 })
+	.filter(d => !normalizedTopDealNames.has(d.name.trim().toLowerCase()))
+	.map(d => {
+		const checked = latestCheckedDate(d.entry);
+		return {
+			name: d.name,
+			entry: d.entry,
+			current: d.current,
+			regular: d.regular,
+			off: d.off,
 			checkedLabel: checked ? formatCheckedDate(checked) : null,
 			kind: 'live' as const,
-		} : null;
-	})
-	.filter((deal): deal is FallbackDeal => deal !== null && deal.off > 0)
-	.filter(deal => !normalizedTopDealNames.has(deal.name.trim().toLowerCase()))
-	.sort((a, b) => b.off - a.off);
+			recentDrop: d.recentDrop,
+		};
+	});
 const fallbackLiveDrops = liveFallbackPool.slice(0, Math.max(0, 9 - topDeals.length));
 
 const usedFallbackNames = new Set(fallbackLiveDrops.map(deal => deal.name.trim().toLowerCase()));
