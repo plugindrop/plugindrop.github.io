@@ -181,7 +181,7 @@ export function rankLiveDeals(entries, now, { limit = 10, perKeyCap = 2 } = {}) 
   const candidates = [];
   for (const [name, entry] of Object.entries(entries)) {
     if (isSearchUrl(entry.pb_url)) continue;
-    const live = liveDropOf(entry);
+    const live = liveDropOfAt(entry, now);
     if (!live) continue;
     const off = pctOff(live.current, live.regular);
     if (!(off > 0)) continue;
