@@ -10,12 +10,12 @@ import { getCollection } from 'astro:content';
 import { pdAttr } from '../lib/interestTaxonomy.mjs';
 import { isProductNameIndexable } from '../lib/indexPolicy.mjs';
 import { stripMarkdownEmphasis } from '../lib/textUtils';
+import { rankLiveDeals, dedupeAndDiversify } from '../lib/dealRanking.mjs';
 import {
   type PriceEntry,
   pbLink as basePbLink,
   slugify,
   formatPrice,
-  liveDropOf,
   pctOff,
   latestCheckedDate,
   formatCheckedDate,
@@ -47,34 +47,28 @@ function descriptionFor(name: string): string | null {
   )?.description ?? null;
 }
 
-// Real, live discounts (a genuine scraped observation below regular).
-const liveDeals = Object.entries(allEntries)
-  .filter(([, entry]) => !isSearchUrl(entry.pb_url))
-  .map(([name, entry]) => {
-    const live = liveDropOf(entry);
-    const checked = latestCheckedDate(entry);
-    return {
-      name,
-      entry,
-      current: live?.current ?? null,
-      regular: live?.regular ?? null,
-      off: live ? pctOff(live.current, live.regular) : 0,
-      checkedLabel: checked ? formatCheckedDate(checked) : null,
-      description: descriptionFor(name),
-    };
-  })
-  .filter(d => d.off > 0 && d.current !== null && d.regular !== null)
-  .sort((a, b) => b.off - a.off)
-  .slice(0, 10);
+// Real, live discounts (a genuine scraped observation below regular), ranked
+// by recency of the drop + brand recognition + discount depth, with
+// duplicate PB products and same-brand/same-tier crowding capped — see
+// src/lib/dealRanking.mjs for the scoring rationale.
+const rankedLiveDeals = rankLiveDeals(allEntries, Date.now()).map((d) => {
+  const checked = latestCheckedDate(d.entry);
+  return {
+    ...d,
+    checkedLabel: checked ? formatCheckedDate(checked) : null,
+    description: descriptionFor(d.name),
+  };
+});
 
 // If we don't have enough genuinely-live deals, fall back to the biggest
 // TYPICAL discounts (typical sale price vs regular) — clearly labelled as
-// "typical", never claimed as live. Honest and still useful.
-let deals = liveDeals;
+// "typical", never claimed as live. Still deduplicated/diversified with the
+// same helper (typical prices don't carry freshness data to score on).
+let deals = rankedLiveDeals;
 let watchMode = false;
-if (liveDeals.length < 4) {
+if (rankedLiveDeals.length < 4) {
   watchMode = true;
-  deals = Object.entries(allEntries)
+  const typicalCandidates = Object.entries(allEntries)
     .filter(([, entry]) => !isSearchUrl(entry.pb_url))
     .map(([name, entry]) => {
       const checked = latestCheckedDate(entry);
@@ -89,10 +83,13 @@ if (liveDeals.length < 4) {
       };
     })
     .filter(d => d.off > 0 && d.current !== null && d.regular !== null)
-    .sort((a, b) => b.off - a.off)
-    .slice(0, 10);
+    .sort((a, b) => b.off - a.off);
+  deals = dedupeAndDiversify(typicalCandidates, { limit: 10, perKeyCap: 2 });
 }
-const railTitle = watchMode ? 'Deals Worth Watching' : "Today's Best Plugin Deals";
+const hasRecentDrop = deals.some((d) => d.recentDrop);
+const railTitle = watchMode
+  ? 'Deals Worth Watching'
+  : hasRecentDrop ? "Today's Best Plugin Deals" : 'Best Plugin Deals Right Now';
 ---
 
 {deals.length > 0 && (
