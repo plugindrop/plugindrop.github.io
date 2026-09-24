@@ -9,6 +9,7 @@ import {
   rankScore,
   rankLiveDeals,
   dedupeAndDiversify,
+  articleRankScore,
 } from '../src/lib/dealRanking.mjs';
 
 const NOW = new Date('2026-09-25T00:00:00Z').getTime();
@@ -188,4 +189,67 @@ test('dedupeAndDiversify: respects limit after capping', () => {
   }));
   const result = dedupeAndDiversify(deals, { limit: 2, perKeyCap: 10 });
   assert.equal(result.length, 2);
+});
+
+function post(overrides = {}) {
+  return {
+    id: 'test-post',
+    data: {
+      title: 'Test Plugin',
+      score: 5,
+      pubDate: new Date('2026-09-24T00:00:00Z'),
+      priceTrack: [],
+      ...overrides,
+    },
+  };
+}
+
+test('articleRankScore: falls back to score when rawScore is absent', () => {
+  const p = post({ title: 'No Raw Score Product', score: 6, pubDate: new Date('2026-09-24T00:00:00Z') });
+  assert.equal(articleRankScore(p, {}, NOW), 6);
+});
+
+test('articleRankScore: no matching tracker entry leaves the score unadjusted', () => {
+  const p = post({ title: 'Totally Unknown Product', rawScore: 10, pubDate: new Date('2026-09-24T00:00:00Z') });
+  assert.equal(articleRankScore(p, {}, NOW), 10);
+});
+
+test('articleRankScore: equal rawScore + same age bracket produce equal rank (caller must tiebreak by pubDate)', () => {
+  const a = post({ title: 'A', rawScore: 8, pubDate: new Date('2026-09-23T00:00:00Z') });
+  const b = post({ title: 'B', rawScore: 8, pubDate: new Date('2026-09-24T00:00:00Z') });
+  assert.equal(articleRankScore(a, {}, NOW), articleRankScore(b, {}, NOW));
+});
+
+test('articleRankScore: excluded (null) when the tracker observed the sale ended within the last week', () => {
+  const p = post({ title: 'Ended Sale Plugin', priceTrack: ['Ended Sale Plugin'], rawScore: 10 });
+  const trackerEntries = {
+    'Ended Sale Plugin': entry({ history: [auto('2026-09-01', 99, 49), auto('2026-09-23', 99, 99)] }),
+  };
+  assert.equal(articleRankScore(p, trackerEntries, NOW), null);
+});
+
+test('articleRankScore: not excluded when the sale-ended observation is older than 7 days', () => {
+  const p = post({ title: 'Old Ended Sale Plugin', priceTrack: ['Old Ended Sale Plugin'], rawScore: 10 });
+  const trackerEntries = {
+    'Old Ended Sale Plugin': entry({ history: [auto('2026-09-01', 99, 49), auto('2026-09-10', 99, 99)] }),
+  };
+  assert.equal(articleRankScore(p, trackerEntries, NOW), 10);
+});
+
+test('articleRankScore: applies live-drop and recent-drop boosts when the tracker confirms a fresh drop', () => {
+  const p = post({ title: 'Boosted Plugin', priceTrack: ['Boosted Plugin'], rawScore: 10, pubDate: new Date('2026-09-24T00:00:00Z') });
+  const trackerEntries = {
+    'Boosted Plugin': entry({ history: [auto('2026-09-01', 99, 99), auto('2026-09-23', 99, 49)] }),
+  };
+  const score = articleRankScore(p, trackerEntries, NOW);
+  assert.ok(Math.abs(score - 10 * 1.1 * 1.1) < 1e-9);
+});
+
+test('articleRankScore: matches via exact title-slug fallback when priceTrack is empty', () => {
+  const p = post({ title: 'Slug Match Plugin', priceTrack: [], rawScore: 10, pubDate: new Date('2026-09-24T00:00:00Z') });
+  const trackerEntries = {
+    'Slug Match Plugin': entry({ history: [auto('2026-09-01', 99, 99), auto('2026-09-23', 99, 49)] }),
+  };
+  const score = articleRankScore(p, trackerEntries, NOW);
+  assert.ok(Math.abs(score - 10 * 1.1 * 1.1) < 1e-9);
 });

@@ -140,7 +140,7 @@ const heroPosts = allPosts.filter(hasHeroImage);
 const topDeals = heroPosts
 	.filter(p => p.data.affiliate && !isExpired(p) && isRealDeal(p) && !isFreePrice(p.data.dealPrice) && !isSamplePackDeal(p))
 	.map(post => ({ post, rank: articleRankScore(post, trackerEntries, now) }))
-	.filter((x): x is { post: typeof x.post; rank: number } => x.rank !== null)
+	.filter((x): x is { post: (typeof heroPosts)[number]; rank: number } => x.rank !== null)
 	.sort((a, b) => {
 		if (b.rank !== a.rank) return b.rank - a.rank;
 		return b.post.data.pubDate.valueOf() - a.post.data.pubDate.valueOf();
@@ -322,7 +322,11 @@ const moreFreshDeals = allPosts
 								>
 									<div class="deal-copy">
 										<span class="fallback-label">
-											{deal.kind === 'live' ? 'Tracked price drop' : 'Worth watching — typical sale price'}
+											{deal.kind === 'live'
+											? (deal.recentDrop
+												? `Price dropped ${formatCheckedDate(new Date(`${deal.recentDrop.since}T00:00:00Z`))}`
+												: 'Tracked price drop')
+											: 'Worth watching — typical sale price'}
 										</span>
 										<h3>{deal.name}</h3>
 										<div class="deal-prices">
