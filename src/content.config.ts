@@ -14,6 +14,7 @@ const blog = defineCollection({
 			tags: z.array(z.string()).default([]),
 			affiliate: z.string().optional(),
 			score: z.number().min(0).default(0),
+			rawScore: z.number().min(0).optional(),
 			draft: z.boolean().default(false),
 			dealPrice: z.string().optional(),
 			originalPrice: z.string().optional(),
