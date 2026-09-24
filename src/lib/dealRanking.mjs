@@ -11,10 +11,32 @@
  * so a genuine-looking but unverified price never gets called a "drop".
  */
 
-import { isSearchUrl, liveDropOf, pctOff, currentPriceOf, regularPriceOf } from './priceUtils.ts';
+import { isSearchUrl, pctOff, currentPriceOf, regularPriceOf } from './priceUtils.ts';
 import { detectBrand, tierOf } from './brands.mjs';
 
 const DAY_MS = 86400000;
+
+// Same trust boundary as priceUtils.liveDropOf (only a recent auto_check
+// observation counts, sale < regular), but takes `now` instead of calling
+// Date.now() internally. priceUtils.liveDropOf can't be reused as-is here:
+// its hardcoded Date.now() would make rankLiveDeals' ordering depend on
+// wall-clock time at test-run time instead of the injected `now`, breaking
+// the "fixed now -> fully deterministic order" requirement (design doc
+// §PR-1 受け入れ基準). TopDeals.astro still uses the real liveDropOf for
+// anything outside the ranked pool.
+function liveDropOfAt(entry, now, maxAgeDays = 7) {
+  const obs = [...entry.history]
+    .filter((h) => h.source === 'auto_check' && (h.sale ?? h.regular) !== null)
+    .sort((a, b) => (a.date < b.date ? -1 : 1));
+  const latest = obs.at(-1);
+  if (!latest) return null;
+  const ageMs = now - new Date(`${latest.date}T00:00:00Z`).getTime();
+  if (!(ageMs >= 0) || ageMs > maxAgeDays * DAY_MS) return null;
+  const current = latest.sale ?? latest.regular;
+  const regular = latest.regular ?? entry.typical_regular;
+  if (current === null || regular === null || current >= regular) return null;
+  return { current, regular };
+}
 
 /** Extracts the numeric PB product id from a product-page path, e.g.
  * "/product/bundles/mixing-mastering/12542-waves-platinum-bundle" -> "12542".
