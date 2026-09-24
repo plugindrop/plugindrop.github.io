@@ -11,7 +11,7 @@
  * so a genuine-looking but unverified price never gets called a "drop".
  */
 
-import { isSearchUrl, pctOff, currentPriceOf, regularPriceOf } from './priceUtils.ts';
+import { isSearchUrl, pctOff, currentPriceOf, regularPriceOf, slugify } from './priceUtils.ts';
 import { detectBrand, tierOf } from './brands.mjs';
 
 const DAY_MS = 86400000;
@@ -213,4 +213,65 @@ export function rankLiveDeals(entries, now, { limit = 10, perKeyCap = 2 } = {}) 
   });
 
   return dedupeAndDiversify(candidates, { limit, perKeyCap });
+}
+
+// Finds the tracker entry an article is claiming a deal on: prefer the exact
+// priceTrack[0] name (author-declared), else an EXACT slug match against a
+// tracker name (never a loose substring match -- a false match here would
+// silently borrow another product's price data for the exclusion/boost
+// checks below).
+function findTrackerEntry(post, trackerEntries) {
+  const trackedName = post.data.priceTrack?.[0];
+  if (trackedName && trackerEntries[trackedName]) return trackerEntries[trackedName];
+  const titleSlug = slugify(post.data.title);
+  for (const [name, entry] of Object.entries(trackerEntries)) {
+    if (slugify(name) === titleSlug) return entry;
+  }
+  return null;
+}
+
+function ageDecayFor(ageDays) {
+  if (ageDays <= 3) return 1.0;
+  if (ageDays <= 7) return 0.9;
+  if (ageDays <= 14) return 0.8;
+  return 0.65;
+}
+
+/** Ranks a homepage article by (rawScore ?? score) decayed by publish age,
+ * boosted when the tracker independently confirms the deal is live and/or
+ * recently dropped, and excluded outright (returns null) when the tracker's
+ * most recent check within the last 7 days shows the sale has actually
+ * ended -- protects display integrity even when the article's own
+ * frontmatter hasn't been re-checked since the price recovered. Articles
+ * with no matching tracker entry get no adjustment either way.
+ */
+export function articleRankScore(post, trackerEntries, now) {
+  const base = post.data.rawScore ?? post.data.score ?? 0;
+  const pubMs = post.data.pubDate instanceof Date ? post.data.pubDate.getTime() : new Date(post.data.pubDate).getTime();
+  const ageDays = Math.max(0, (now - pubMs) / DAY_MS);
+  let score = base * ageDecayFor(ageDays);
+
+  const entry = findTrackerEntry(post, trackerEntries);
+  if (!entry) return score;
+
+  const obs = [...entry.history]
+    .filter((h) => h.source === 'auto_check' && (h.sale ?? h.regular) !== null)
+    .sort((a, b) => (a.date < b.date ? -1 : 1));
+  const latest = obs.at(-1);
+  if (latest) {
+    const ageMs = now - new Date(`${latest.date}T00:00:00Z`).getTime();
+    if (ageMs >= 0 && ageMs <= 7 * DAY_MS) {
+      const current = latest.sale ?? latest.regular;
+      const regular = latest.regular ?? entry.typical_regular;
+      if (current !== null && regular !== null && current >= regular) {
+        return null; // observed sale-ended within the last week
+      }
+    }
+  }
+
+  if (liveDropOfAt(entry, now)) {
+    score *= 1.1;
+    if (recentDropOf(entry, now)) score *= 1.1;
+  }
+  return score;
 }
