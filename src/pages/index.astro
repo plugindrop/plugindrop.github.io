@@ -16,12 +16,12 @@ import {
 	formatPrice,
 	isSearchUrl,
 	latestCheckedDate,
-	liveDropOf,
 	pctOff,
 	pbLink,
 	regularPriceOf,
 	slugify,
 } from '../lib/priceUtils';
+import { articleRankScore, rankLiveDeals } from '../lib/dealRanking.mjs';
 
 function fableVerdictLabel(verdict: 'good' | 'ok' | 'bad' | 'none', onSale: boolean): string {
 	if (verdict === 'none') return 'WAIT';
