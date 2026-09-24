@@ -6,7 +6,7 @@ import { SITE_TITLE } from '../../consts';
 import priceData from '../../data/price_history.json';
 import { isBrandPageIndexable, isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
 import { isSearchUrl, pbLink } from '../../lib/priceUtils';
-import { flattenBrandPrefixes, detectBrand } from '../../lib/brands.mjs';
+import { detectBrand } from '../../lib/brands.mjs';
 
 // --- Shared types ------------------------------------------------------------
 interface HistoryEntry {
