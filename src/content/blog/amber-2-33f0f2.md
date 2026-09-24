@@ -12,7 +12,7 @@ discount: "78% OFF"
 saleExpiry: "2026-08-16"
 draft: false
 ---
-**TL;DR:** UJAM's AMBER 2 is tracked at $29 on Plugin Boutique, down from a regular price of $129 — a 78% discount. That $29 price sits within 5% of the $29 low PluginDrop has recorded since tracking began on 2026-08-16 across 8 observations, which is why the current call is **BUY NOW**. [Grab AMBER 2 at Plugin Boutique.](https://www.pluginboutique.com/search?q=AMBER+2&a_aid=69cb95abe1763&chan=art&data1=amber-2-33f0f2&utm_source=plugindrop&utm_medium=article&utm_campaign=amber-2-33f0f2)
+**TL;DR:** UJAM's AMBER 2 is tracked at $29 on Plugin Boutique, down from a regular price of $129 — a 78% discount. That $29 price sits within 5% of the $29 low PluginDrop has recorded since tracking began on 2026-08-16 across 8 observations, which is why the current call is **BUY NOW**. [Grab AMBER 2 at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10597-AMBER-2?a_aid=69cb95abe1763&chan=art&data1=amber-2-33f0f2&utm_source=plugindrop&utm_medium=article&utm_campaign=amber-2-33f0f2)
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale
@@ -84,7 +84,7 @@ A: At the tracked $29 price against a $129 regular price, that's a 78% reduction
 
 The tracked data supports **BUY NOW**. At $29, the price is within 5% of the $29 low observed across 8 tracked data points since 2026-08-16, so there's little historical basis for expecting a meaningfully better deal soon.
 
-[Get AMBER 2 while the $29 price holds.](https://www.pluginboutique.com/search?q=AMBER+2&a_aid=69cb95abe1763&chan=art&data1=amber-2-33f0f2&utm_source=plugindrop&utm_medium=article&utm_campaign=amber-2-33f0f2)
+[Get AMBER 2 while the $29 price holds.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10597-AMBER-2?a_aid=69cb95abe1763&chan=art&data1=amber-2-33f0f2&utm_source=plugindrop&utm_medium=article&utm_campaign=amber-2-33f0f2)
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
 
