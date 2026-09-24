@@ -130,16 +130,22 @@ function isSamplePackDeal(post: any): boolean {
 	return post.data.tags?.includes('sample-pack-deal') ?? false;
 }
 
+const now = Date.now();
 const heroPosts = allPosts.filter(hasHeroImage);
+// Ranked by articleRankScore (rawScore/score decayed by publish age, boosted
+// by tracker-confirmed freshness, excluded outright if the tracker has since
+// observed the sale ended) -- not raw score + saleExpiry, which let stale
+// high-score articles with a far-future/no expiry crowd out fresher genuine
+// drops. Tie-break by pubDate (newer first) instead of saleExpiry.
 const topDeals = heroPosts
 	.filter(p => p.data.affiliate && !isExpired(p) && isRealDeal(p) && !isFreePrice(p.data.dealPrice) && !isSamplePackDeal(p))
+	.map(post => ({ post, rank: articleRankScore(post, trackerEntries, now) }))
+	.filter((x): x is { post: typeof x.post; rank: number } => x.rank !== null)
 	.sort((a, b) => {
-		const scoreDiff = (b.data.score ?? 0) - (a.data.score ?? 0);
-		if (scoreDiff !== 0) return scoreDiff;
-		const aExp = a.data.saleExpiry ? new Date(a.data.saleExpiry).getTime() : Infinity;
-		const bExp = b.data.saleExpiry ? new Date(b.data.saleExpiry).getTime() : Infinity;
-		return aExp - bExp;
+		if (b.rank !== a.rank) return b.rank - a.rank;
+		return b.post.data.pubDate.valueOf() - a.post.data.pubDate.valueOf();
 	})
+	.map(x => x.post)
 	.slice(0, 9);
 
 interface FallbackDeal {
