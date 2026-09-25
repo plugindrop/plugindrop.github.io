@@ -242,6 +242,7 @@
 
     // S4: サイドバーTopDeals — 10件レンダリング済みのうちスコア順に5件表示
     document.querySelectorAll('.deals-rail-list').forEach(function (list) {
+      if (list.hasAttribute('data-pd-static')) return;
       var items = Array.prototype.slice.call(list.querySelectorAll('li.deals-rail-item'));
       if (items.length <= 5) return;
       var scored = items.map(function (el, idx) { return { el: el, v: itemScore(el, s), i: idx }; });

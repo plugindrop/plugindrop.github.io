@@ -8,6 +8,8 @@ import {
   diversityKey,
   rankScore,
   rankLiveDeals,
+  rankBiggestDiscounts,
+  buildRailSections,
   dedupeAndDiversify,
   articleRankScore,
 } from '../src/lib/dealRanking.mjs';
@@ -148,6 +150,74 @@ test('rankLiveDeals: ordering is fully deterministic for a fixed now', () => {
   const first = rankLiveDeals(entries, now).map((d) => d.name);
   const second = rankLiveDeals(entries, now).map((d) => d.name);
   assert.deepEqual(first, second);
+});
+
+function liveEntry(id, regular, current, category = 'Effects') {
+  return entry({
+    pb_url: `/product/${category.toLowerCase()}/misc/${id}-test`,
+    typical_regular: regular,
+    typical_sale: current,
+    category,
+    history: [auto('2026-09-24', regular, current)],
+  });
+}
+
+test('rankBiggestDiscounts: orders by discount, savings, then name', () => {
+  const entries = {
+    '50 Percent': liveEntry(60001, 100, 50),
+    '70 Percent': liveEntry(60002, 100, 30),
+    '90 Percent': liveEntry(60003, 100, 10),
+    '70 Larger Saving': liveEntry(60004, 200, 60),
+    '70 Same Saving B': liveEntry(60005, 200, 60),
+  };
+  assert.deepEqual(rankBiggestDiscounts(entries, NOW, { limit: 5, perKeyCap: 5 }).map(d => d.name), [
+    '90 Percent', '70 Larger Saving', '70 Same Saving B', '70 Percent', '50 Percent',
+  ]);
+});
+
+test('rankBiggestDiscounts: excludes PB IDs, small savings, and search URLs', () => {
+  const entries = {
+    Excluded: liveEntry(61001, 100, 1),
+    Cheap: liveEntry(61002, 5, 1),
+    Included: liveEntry(61003, 100, 30),
+    Search: entry({ pb_url: '/search?q=test', history: [auto('2026-09-24', 100, 1)] }),
+  };
+  assert.deepEqual(rankBiggestDiscounts(entries, NOW, { excludeIds: new Set(['61001']) }).map(d => d.name), ['Included']);
+});
+
+test('rankBiggestDiscounts: caps same-category and price SOLID/PHAT/HEAVY series at one', () => {
+  const entries = Object.fromEntries(['SOLID 2', 'PHAT 2', 'HEAVY 2'].map((name, i) => [
+    name, liveEntry(62001 + i, 149, 39, 'Instruments'),
+  ]));
+  assert.equal(rankBiggestDiscounts(entries, NOW).length, 1);
+});
+
+test('rankBiggestDiscounts: fixed now gives a deterministic order', () => {
+  const entries = {
+    Alpha: liveEntry(63001, 100, 10),
+    Beta: liveEntry(63002, 100, 20),
+    Gamma: liveEntry(63003, 100, 30),
+  };
+  assert.deepEqual(rankBiggestDiscounts(entries, NOW), rankBiggestDiscounts(entries, NOW));
+});
+
+test('buildRailSections: biggest shares no PB ID with all ten recommended entries', () => {
+  const entries = Object.fromEntries(Array.from({ length: 13 }, (_, i) => [
+    `Product ${i}`, liveEntry(64000 + i, 100 + i, 10 + i),
+  ]));
+  const { recommended, biggest } = buildRailSections(entries, NOW);
+  assert.equal(recommended.length, 10);
+  assert.equal(biggest.length, 3);
+  const ids = new Set(recommended.map(d => pbProductId(d.entry.pb_url)));
+  assert.ok(biggest.every(d => !ids.has(pbProductId(d.entry.pb_url))));
+});
+
+test('rankBiggestDiscounts: everyday price is attached for a long stable sale', () => {
+  const e = liveEntry(65001, 149, 39);
+  e.history = ['2026-08-01', '2026-08-10', '2026-08-20', '2026-09-05', '2026-09-24']
+    .map(date => auto(date, 149, 39));
+  const [deal] = rankBiggestDiscounts({ 'SOLID 2': e }, NOW);
+  assert.deepEqual(deal.everyday, { since: '2026-08-01', count: 5 });
 });
 
 test('rankScore: fresh drop, brand tier, discount depth, and stale penalty combine as specified', () => {

@@ -13,7 +13,7 @@
 
 import { isSearchUrl, pctOff, currentPriceOf, regularPriceOf } from './priceUtils.ts';
 import { detectBrand, tierOf } from './brands.mjs';
-import { findTrackerEntryForPost, dealState } from './articleDeal.mjs';
+import { findTrackerEntryForPost, dealState, everydayPrice } from './articleDeal.mjs';
 
 const DAY_MS = 86400000;
 
@@ -178,7 +178,7 @@ export function dedupeAndDiversify(deals, { limit = 10, perKeyCap = 2 } = {}) {
  * deterministically, then dedupe/diversify. `entries` is the merged
  * bundles+plugins map keyed by display name (price_history.json shape).
  */
-export function rankLiveDeals(entries, now, { limit = 10, perKeyCap = 2 } = {}) {
+function liveCandidates(entries, now) {
   const candidates = [];
   for (const [name, entry] of Object.entries(entries)) {
     if (isSearchUrl(entry.pb_url)) continue;
@@ -207,6 +207,11 @@ export function rankLiveDeals(entries, now, { limit = 10, perKeyCap = 2 } = {}) 
     candidates.push(deal);
   }
 
+  return candidates;
+}
+
+export function rankLiveDeals(entries, now, { limit = 10, perKeyCap = 2 } = {}) {
+  const candidates = liveCandidates(entries, now);
   candidates.sort((a, b) => {
     if (b.score !== a.score) return b.score - a.score;
     if (b.off !== a.off) return b.off - a.off;
@@ -214,6 +219,26 @@ export function rankLiveDeals(entries, now, { limit = 10, perKeyCap = 2 } = {}) 
   });
 
   return dedupeAndDiversify(candidates, { limit, perKeyCap });
+}
+
+export function rankBiggestDiscounts(entries, now, { limit = 3, perKeyCap = 1, excludeIds = new Set(), minSavings = 5 } = {}) {
+  const candidates = liveCandidates(entries, now)
+    .filter((d) => !excludeIds.has(pbProductId(d.entry.pb_url)) && d.regular - d.current >= minSavings);
+  candidates.sort((a, b) => {
+    if (b.off !== a.off) return b.off - a.off;
+    const savingsDiff = (b.regular - b.current) - (a.regular - a.current);
+    if (savingsDiff !== 0) return savingsDiff;
+    return a.name < b.name ? -1 : a.name > b.name ? 1 : 0;
+  });
+  return dedupeAndDiversify(candidates, { limit, perKeyCap })
+    .map((d) => ({ ...d, everyday: everydayPrice(d.entry, now) }));
+}
+
+export function buildRailSections(entries, now) {
+  const recommended = rankLiveDeals(entries, now);
+  const excludeIds = new Set(recommended.map((d) => pbProductId(d.entry.pb_url)));
+  const biggest = rankBiggestDiscounts(entries, now, { excludeIds });
+  return { recommended, biggest };
 }
 
 function ageDecayFor(ageDays) {
