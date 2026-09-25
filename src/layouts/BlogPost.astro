@@ -231,10 +231,10 @@ const _computedDiscount = (() => {
 	return `${Math.round((1 - deal / orig) * 100)}% OFF`;
 })();
 const _displayDiscount = _computedDiscount;
-const productLD = (affiliate && dealPrice && !saleExpired && !_isFreePrice && _numericPrice && _numericPrice !== '0') ? {
+const productLD = (affiliate && dealPrice && !saleExpired && !_trackerSaysEnded && !_isFreePrice && _numericPrice && _numericPrice !== '0') ? {
 	"@context": "https://schema.org",
 	"@type": "Product",
-	"name": title,
+	"name": productName ?? title,
 	"description": description,
 	...(dealBrand ? { "brand": { "@type": "Brand", "name": dealBrand } } : {}),
 	...(resolvedImage ? { "image": resolvedImage } : {}),
@@ -249,7 +249,7 @@ const productLD = (affiliate && dealPrice && !saleExpired && !_isFreePrice && _n
 	} : {}),
 	"offers": {
 		"@type": "Offer",
-		"url": affiliate,
+		"url": _ctaHref,
 		"priceCurrency": "USD",
 		"price": _numericPrice,
 		"availability": "https://schema.org/InStock",
@@ -1063,8 +1063,8 @@ const featuredDeals = isEvergreen ? allPosts
 								<>
 									<div class="deal-expired-notice">This sale has ended — check current price below</div>
 									{dealSource && <div class="deal-source">Available via {dealSource}</div>}
-									<a href={affiliate} class="deal-cta-btn is-expired" target="_blank" rel="noopener sponsored">
-										View Current Price →
+									<a href={_ctaHref} class="deal-cta-btn is-expired" target="_blank" rel="noopener sponsored">
+										{_ctaLabel}
 									</a>
 								</>
 							) : (
