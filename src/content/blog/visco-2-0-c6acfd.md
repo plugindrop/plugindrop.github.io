@@ -13,8 +13,6 @@ saleExpiry: "2026-10-18"
 saleExpirySource: "fallback"
 draft: false
 ---
-If you only look at one drum machine plugin this month, make it Visco 2.0 — it drops for less than half of most sample-library subscriptions and skips samples entirely in favor of modeled synthesis.
-
 **TL;DR:** Visco 2.0 from Forever 89 is currently ~29% off its $139 list price, putting it around $99. It's a sample-modeling drum machine built around an 8-track, 32-voice engine with a modulation matrix and step sequencer. Grab it through [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/12201-Visco-2-0?a_aid=69cb95abe1763&chan=art&data1=visco-2-0-c6acfd&utm_source=plugindrop&utm_medium=article&utm_campaign=visco-2-0-c6acfd) while the discount is live.
 
 <div class="audio-embed">
@@ -40,7 +38,6 @@ The modulation matrix is where it earns its keep in a mix: automating a single p
 
 - Regular price: $139
 - Current discount: 29% off, bringing the price to roughly $99
-- Store: Plugin Boutique only
 
 Check the product page for exact current pricing and any bundle pairings, since deal windows on Plugin Boutique can shift without notice.
 
@@ -61,7 +58,7 @@ A separate r/AudioProductionDeals thread tracked Visco 2.0 alongside a Visco & T
 ## Formats and system requirements
 - Formats: VST3
 - Mac requirements: OS; Apple Silicon M1 or Intel 2.0 GHz processor; macOS 10.13 and later; AudioUnit or VST3 host software; 1GB of RAM; 64-bit only
-- Windows requirements: X86 processor with SSE3 support; Windows 10 and 11; AudioUnit or VST3 host software; 1GB of RAM; 64-bit only; Installation Instructions; Code Redemption; 1. Head to https://forever89.studio/; 2. Scroll down and click 'Buy now!'; 3. Enter the Coupon Code found in your Plugin Boutique User Account > Click Apply; 4. Enter your Email > enter your First Name > enter your Last Name > Check box to agree with terms of service > Click 'Place Your Order'; 5. Click 'Download Now' > save your VISCO license to your computer (make a note of where this is saved); 6. Download the installer for your OS from within your Plugin Boutique User Account; Installation; 1. Unzip installer > Doubleclick installer file > click 'I accept the agreement' > click Next; 2. Click Next; 3. Click Next; 4. Click Install; 5. Click Finish; 6. Open VISCO within you DAW > Click 'Have a license file? Click here to load it' > Locate the visco_license.txt file downloaded in Step 5 of the Code Redemption guide above; Your software is authorised and ready to use. Enjoy!
+- Windows requirements: X86 processor with SSE3 support; Windows 10 and 11; AudioUnit or VST3 host software; 1GB of RAM; 64-bit only
 - Source: pluginboutique.com product page, retrieved 2026-09-18
 <!-- deal-context-formats:end -->
 
