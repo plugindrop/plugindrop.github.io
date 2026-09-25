@@ -7,7 +7,7 @@ affiliate: "https://www.adsrsounds.com/product/presets/jungle-loops-drill-societ
 heroImage: "/images/jungle-loops-drill-society-construction-kits-619a95.jpg"
 score: 6.50
 dealPrice: "$16.00"
-draft: false
+draft: true
 ---
 **TL;DR:** Jungle Loops' Drill Society Construction Kits are available now on ADSR Sounds for **$16**. If you're building drill or trap-adjacent tracks and want ready-to-chop loop material without starting from a blank session, this is a low-cost way to test the pack. [Get Drill Society Construction Kits for $16 at ADSR Sounds.](https://www.adsrsounds.com/product/presets/jungle-loops-drill-society-construction-kits/?a_aid=plugindrop&data1=jungle-loops-drill-society-construction-kits-619a95&utm_source=plugindrop&utm_medium=article&utm_campaign=jungle-loops-drill-society-construction-kits-619a95)
 
