@@ -7,7 +7,7 @@ affiliate: "https://www.adsrsounds.com/product/presets/soundree-vaults-construct
 heroImage: "/images/soundree-vaults-construction-kits-4a17ed.jpg"
 score: 6.50
 dealPrice: "$19.00"
-draft: false
+draft: true
 ---
 **TL;DR:** Soundree Vaults Construction Kits are on sale at ADSR Sounds for **$19**. Original pricing isn't confirmed on this listing, so check the product page for the full breakdown before you buy. [Get the deal at ADSR Sounds](https://www.adsrsounds.com/product/presets/soundree-vaults-construction-kits/?a_aid=plugindrop&data1=soundree-vaults-construction-kits-4a17ed&utm_source=plugindrop&utm_medium=article&utm_campaign=soundree-vaults-construction-kits-4a17ed).
 
