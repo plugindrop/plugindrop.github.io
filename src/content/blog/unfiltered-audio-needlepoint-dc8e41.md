@@ -13,8 +13,6 @@ draft: false
 saleExpiry: "2026-09-29"
 saleExpirySource: "fallback"
 ---
-If you only need one lo-fi/tape effect this week, Needlepoint at 62% off is the one to grab — it's a straightforward price drop on a focused tool, not a bundle you have to sort through.
-
 **TL;DR:** Unfiltered Audio's Needlepoint is currently ~~$78.00~~ **$30.00** at Plugin Boutique, a 62% discount. It's a tape and lo-fi character plugin built for adding analog-style grit, wobble, and warmth to tracks. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/14934-Unfiltered-Audio-Needlepoint?a_aid=69cb95abe1763&chan=art&data1=unfiltered-audio-needlepoint-dc8e41&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-needlepoint-dc8e41) before the price resets.
 
 ## Price Context (tracked by PluginDrop)
