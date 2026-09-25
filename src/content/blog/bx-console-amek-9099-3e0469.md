@@ -1,6 +1,6 @@
 ---
 title: "78% Off bx console AMEK 9099 — Neve-Style Channel Strip ($49)"
-description: "Plugin Boutique has the bx console AMEK 9099 at 78% off its $224 regular price, bringing it down to roughly $49.28. That's one of the steeper..."
+description: "Plugin Boutique has the bx console AMEK 9099 at 78% off its $224 regular price, bringing it down to $49."
 pubDate: "2026-09-15T15:44:22Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=bx+console+AMEK+9099&a_aid=69cb95abe1763&chan=art&data1=bx-console-amek-9099-3e0469&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469"
@@ -13,7 +13,7 @@ saleExpiry: "2026-10-15"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** Plugin Boutique has the bx console AMEK 9099 at 78% off its ~~$224~~ regular price, bringing it down to roughly $49.28. That's one of the steeper discounts this channel strip has seen at this store. [Grab it here](https://www.pluginboutique.com/search?q=bx+console+AMEK+9099&a_aid=69cb95abe1763&chan=art&data1=bx-console-amek-9099-3e0469&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469) while the deal is live.
+**TL;DR:** Plugin Boutique has the bx console AMEK 9099 at 78% off its ~~$224~~ regular price, bringing it down to $49. [Grab it here](https://www.pluginboutique.com/search?q=bx+console+AMEK+9099&a_aid=69cb95abe1763&chan=art&data1=bx-console-amek-9099-3e0469&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469) while the deal is live.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/y_9D9Zu1q7M" title="78% Off bx console AMEK 9099 — Neve-Style Channel Strip ($49) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -26,7 +26,7 @@ The bx console AMEK 9099 is Brainworx's plugin recreation of the 9098i console c
 
 The plugin ships as a full channel strip: EQ section, dynamics processing, and a gate/expander stage modeled on the same hardware. It's designed to sit on individual tracks during mixing, giving each channel its own EQ and dynamics shaping in one plugin instance instead of stacking separate EQ and compressor plugins.
 
-Because it's a Brainworx title, expect the usual workflow extras common to bx console plugins: mid-side processing options and stereo-linking controls for bus work. Exact parameter counts and preset details are best confirmed on the product listing itself.
+Exact parameter counts and preset details are best confirmed on the product listing itself.
 
 ## Where it fits in a session
 
@@ -38,9 +38,9 @@ On a mix bus or subgroup, the console-modeled EQ curve can stand in for a broad 
 
 - Regular price: $224
 - Deal: 78% off
-- Approximate sale price: $49.28 (based on the regular price and discount percentage)
+- Sale price: $49
 
-That works out to a savings of roughly $175 off the regular price. Discount percentages and durations on Plugin Boutique can shift without much notice, so verify the live price and any listed end date on the product page before checkout.
+That works out to a savings of $175 off the regular price. Discount percentages and durations on Plugin Boutique can shift without much notice, so verify the live price and any listed end date on the product page before checkout.
 
 ## Skip it if
 
@@ -82,7 +82,7 @@ A: Brainworx and Plugin Alliance titles typically use the vendor's own challenge
 A: TMT (Tolerance Modeling Technology) is Brainworx's approach to modeling the small manufacturing variances between individual hardware channels, aiming for per-channel character rather than one uniform model.
 
 **Q: How much does the bx console AMEK 9099 cost right now at Plugin Boutique?**
-A: The regular price is $224, and the current deal is 78% off, putting the sale price at roughly $49.28.
+A: The regular price is $224, and the current deal is 78% off, putting the sale price at $49.
 
 ## Should you buy now?
 
