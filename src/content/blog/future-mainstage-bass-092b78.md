@@ -7,7 +7,7 @@ affiliate: "https://www.adsrsounds.com/product/wav-samples/future-mainstage-bass
 heroImage: "/images/future-mainstage-bass-092b78.jpg"
 score: 6.50
 dealPrice: "$19.95"
-draft: false
+draft: true
 ---
 **TL;DR:** Future Mainstage Bass is a WAV sample pack on ADSR Sounds priced at **$19.95**. ADSR hasn't listed a separate original price on the product page, so treat this as the current sale price rather than a percentage-off deal. If you need bass tones for future bass, festival, or mainstage-style productions, [grab it here](https://www.adsrsounds.com/product/wav-samples/future-mainstage-bass/?a_aid=plugindrop&data1=future-mainstage-bass-092b78&utm_source=plugindrop&utm_medium=article&utm_campaign=future-mainstage-bass-092b78).
 
