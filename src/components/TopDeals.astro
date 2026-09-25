@@ -136,7 +136,7 @@ const railTitle = watchMode
                   <span class="deals-rail-reg mono">{formatPrice(d.regular)}</span>
                   <span class="deals-rail-cur mono">{formatPrice(d.current)}</span>
                 </div>
-                {d.everyday && <span class="deals-rail-checked">Same price at every check since {formatCheckedDate(new Date(`${d.everyday.since}T00:00:00Z`))}</span>}
+                {d.everyday && <span class="deals-rail-checked">Around this price on most checks since {formatCheckedDate(new Date(`${d.everyday.since}T00:00:00Z`))}</span>}
                 <a href={basePbLink(d.entry.pb_url, BIGGEST_UTM)} class="deals-rail-cta deals-rail-cta--compact" data-rail-section="biggest" target="_blank" rel="noopener sponsored">Save {formatPrice(d.regular - d.current)} →</a>
               </li>
             ))}
